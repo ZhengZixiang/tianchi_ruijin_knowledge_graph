@@ -1,7 +1,7 @@
 # 天池瑞金知识图谱初赛糖尿病相关命名实体识别
 这是作为菜鸡的我们在[天池瑞金医院MMC人工智能辅助构建知识图谱大赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11409106.5678.1.2ba15ecdqJDrOz&raceId=231687)初赛阶段的解决方案，排名只在20多到40多之间徘徊。
 
-我们在初赛A榜阶段使用了传统CRF模型和BiLSTM+CRF模型，但由于没有GPU来改进，最终B榜提交结果用的是CRF模型的结果。B榜结果相对A榜下降了0.07左右，为0.73多。写个README做备忘。
+我们在初赛A榜阶段使用了传统CRF模型和BiLSTM+CRF模型，但由于没有GPU来改进，最终B榜提交结果用的是CRF模型的结果。B榜结果相对A榜下降了0.017左右，为0.73多。写个README做备忘。
 
 ### requirements
 Python3
