@@ -1,0 +1,287 @@
+基础研究
+基金项目:2013 年中华医学会基金项目(13020220407)
+科(王颜刚);威海市中心医院(林彦琳);青岛市第三人民医院内分泌
+科(丁慧)
+阿托伐他汀和缬沙坦对高糖诱导内皮细胞
+损伤代谢记忆效应的保护作用
+许翔  林彦琳  丁慧  王颜刚
+[摘要]   目的  探讨不同浓度的阿托伐他汀和缬沙坦对高糖诱导人脐静脉内皮细胞损伤代谢记忆效
+应的保护作用。 方法 将人脐静脉内皮细胞分为正常对照组、甘露醇对照组、高糖组、阿托伐他汀低、中、
+高剂量组和缬沙坦低、中、高剂量组。 其中高糖组、不同浓度(0. 1、1 和 10 μmol / L)阿托伐他汀及缬沙坦各
+组细胞于 30 mmol / L 葡萄糖培养 16 h 后,再以 5. 5 mmol / L 葡萄糖培养 6 d,应用酶联免疫吸附测定法检测
+各组细胞培养上清中血管细胞黏附分子 1(VCAM-1)、单核细胞趋化蛋白 1(MCP-1)和纤溶酶原激活物抑
+制剂 l(PAI-1)水平。 结果 与正常对照组相比,高糖组内皮细胞上清中 VCAM-1、MCP-1 和 PAI-1 水平升
+高(均 P<0. 05),在糖浓度恢复正常后仍持续不降(均 P<0. 05)。 与高糖组相比,阿托伐他汀和缬沙坦预处
+理可以明显降低 VCAM-1、MCP-1 和 PAI-1 水平(均 P<0. 05)。 结论 阿托伐他汀和缬沙坦可通过降低
+VCAM-1、MCP-1 和 PAI-1 水平,对高糖诱导内皮细胞损伤“代谢记忆冶效应产生保护作用。
+[关键词]   阿托伐他汀; 缬沙坦; 人脐静脉内皮细胞; 代谢记忆
+Effects of atorvastatin and valsartan on high glucose memory-induced injury to endothelial cell Xu Xiang*,
+Lin Yanlin, Ding Hui, Wang Yangang. *Department of Cardiology, the Affiliated Hospital of Qingdao University,
+Qingdao 266003, China
+[Abstract]  Objective  To explore the effects of atorvastatin and valsartan on high glucose-induced human
+umbilical vein endothelial cells (HUVECs) injury. Methods Cultured HUVECs were divided and assigned to 9
+groups: normal control group, mannitol control group, high glucose group, low dose atorvastatin group ( 0. 1
+μmol / L), medium dose atorvastatin group (1 μmol / L), high dose atorvastatin group (10 μmol / L), low dose
+valsartan group (0. 1 μmol / L), medium dose valsartan group (1 μmol / L), and high dose valsartan group (10
+μmol / L) . HUVECs were pretreated with or without 30 mmol / L glucose plus various concentrations of atorvastatin and
+valsartan (0. 1, 1, 10 μmol / L) for 16 hours and then incubated with 5. 5 mmol / L glucose for 6 days. The levels of
+vascular cell adhesion molecule 1 (VCAM-1), monocyte chemotactic protein l (MCP-1), and plasminogen activator
+inhibitor 1 ( PAI-1 ) in the culture supernatant were measured by enzyme-linked immunosorbent assay. Results
+Compared with normal glucose group, hyperglycemia memory increased the levels of VCAM-1, MCP-1, and PAI-1
+(all P<0. 05), which were still maintained at high levels even after withdrawal of high glucose. Atorvastatin and
+valsartan treatment decreased the levels of VCAM-1, MCP-1, and PAI-1( all P<0. 05) . Conclusion Atorvastatin
+and valsartan may lower the secretion of VCAM-1, MCP-1, and PAI-1, and prevent high glucose memory-induced
+injury to endothelial cell.
+[Key words]  Atorvastatin; Valsartan; Human umbilical vein endothelial cell; Metabolic memory
+(Chin J Endocrinol Metab, 2015, 31: 1055-1059)
+内皮细胞损伤是糖尿病血管病变的中心环节[1],
+内皮细胞过度分泌的血管细胞黏附分子 1 ( vascular
+cell adhesion molecule 1, VCAM-1)、单核细胞趋化蛋白
+1(monocyte chemotactic protein l, MCP-1)和纤溶酶原
+激活物抑制剂 1(plasminogen activator inhibitor l, PAI-
+1)在高糖“代谢记忆冶损伤机制中扮演着重要的角
+色[2]。 近年来研究发现,阿托伐他汀、缬沙坦除了其
+降脂、降压作用以外,还具有改善内皮细胞功能作
+用[3-4];但二者是否能改善高糖诱导产生的不良“代谢
+记忆冶效应鲜有报道。 因此,本研究以高糖诱导的体
+外培 养 人 脐 静 脉 内 皮 细 胞 ( human umbilical vein
+endothelial cells, HUVECs)损伤为研究对象,旨在观察
+不同浓度的阿托伐他汀和缬沙坦对内皮细胞分泌
+VCAM-1、MCP-1、PAI-1 的影响,为糖尿病血管并发症
+的防治策略提供依据。
+材料和方法
+一、 材料
+原代 HUVECs(美国标准生物品收藏中心),阿托
+伐他汀(Sigma 公司)、缬沙坦(Sigma 公司)、右旋葡萄
+糖(D-Glucose) (Sigma 公司),胎牛血清、DMEM 培养
+基、胰酶(HyClone 公司),青霉素-链霉素溶液(杭州吉
+诺生物医药技术有限公司),人 VCAM-1、MCP-1、PAI-1
+检测试剂盒(BD 公司)。
+二、 方法
+1. 实验分组:将 HUVECs 置于 DMEM 完全培养基
+(10% 胎牛血清, 1% 青霉素-链霉素溶液) 中, 于
+37%益,5% CO2 培养箱中培养。 取生长良好的 3 ~ 5
+代细胞用于实验。 待细胞达 80% 左右融合时开始实
+验,实验开始前无血清同步化过夜。 将 HUVECs 分为
+9 组:(1)正常对照组:5. 5 mmol / L 葡萄糖×6 d;(2)甘
+露醇对照组:5. 5 mmol / L 葡萄糖+24. 5 mmol / L 甘露
+醇×16 h 后转为 5. 5 mmol / L 葡萄糖×6 d;(3)高糖组:
+30 mmol / L 葡萄糖×16 h 后转为 5. 5 mmol / L 葡萄糖×6
+d;(4)阿托伐他汀低剂量组:30 mmol / L 葡萄糖+0. 1
+μmol / L 阿托伐他汀×16 h 后转为 5. 5 mmol / L 葡萄糖×
+6 d;(5)阿托伐他汀中剂量组:30 mmol / L 葡萄糖+1
+μmol / L 阿托伐他汀×16 h 后转为 5. 5 mmol / L 葡萄糖×
+6 d;(6)阿托伐他汀高剂量组:30 mmol / L 葡萄糖+10
+μmol / L 阿托伐他汀×16 h 后转为 5. 5 mmol / L 葡萄糖×
+6 d;(7) 缬沙坦低剂量组:30 mmol / L 葡萄糖 + 0. 1
+μmol / L 缬沙坦×16 h 后转为 5. 5 mmol / L 葡萄糖×6 d;
+(8)缬沙坦中剂量组:30 mmol / L 葡萄糖+1 μmol / L 缬
+沙坦×16 h 后转为 5. 5 mmol / L 葡萄糖×6 d;(9)缬沙坦
+高剂量组:30 mmol / L 葡萄糖+10 μmol / L 缬沙坦×16 h
+后转为 5. 5 mmol / L 葡萄糖 × 6 d。 各组分别于 5. 5
+mmol / L 葡萄糖培养第 1、4、6 天收集细胞培养上清液,
+进行以下指标检测。
+2. HUVECs 形态的观察方法:本研究采用倒置相
+差显微镜(×100 倍)下观察分组处理后 HUVECs 的形
+态及生长情况。
+3. 酶联免疫吸附测定法( enzyme-linked immuno-
+sorbent assay, ELISA)检测细胞培养上清中 VCAM-1、
+MCP-1、PAI-1:按照 ELISA 检测试剂盒说明书步骤进
+行,于 450 nm 波长处测定各孔的 A 值,根据 A 值计算
+VCAM-1、MCP-1、PAI-1 浓度。
+三、 统计学处理
+采用 SPSS 17. 0 统计软件进行处理,各数据以 x-± s
+表示,若方差齐性,各组均数比较采用单因素方差分
+析。 P<0. 05 为差异有统计学意义。
+结    果
+一、 细胞形态观察
+HUVECs 形态不规则、扁平,呈椭圆形、梭形或多
+角形,呈单层贴壁生长,单层融合时排列紧密,边界清
+晰,在倒置显微镜下呈典型“铺路石冶样外观。 选择生
+长良好的第 3 ~ 5 代 HUVECs 用于实验。 30 mmol / L
+葡萄糖刺激 16 h 后,细胞边界略肿胀、圆缩。 阿托伐
+他汀或缬沙坦干预组,随着二者剂量增加,内皮细胞形
+态相似于 HUVECs,呈梭形或多角形,边界清晰。 随着
+干预天数延长,可见细胞皱缩,并有死亡细胞及细胞碎
+片(图 1)。
+二、 内皮细胞培养上清液中 VCAM-1、 MCP-1、
+PAI-1 水平
+HUVECs 于高糖环境培养 16 h 后, 上清液中
+VCAM-1、MCP-1、PAI-1 水平均明显高于正常对照组
+(均 P<0. 01)。 恢复正常糖浓度培养后第 4、6 天,高
+糖组 VCAM-1、MCP-1、PAI-1 水平仍持续高于正常对
+照组(均 P<0. 05)。 甘露醇组第 1、4、6 天 VCAM-1、
+MCP-1、PAI-1 水平分别与正常对照组比较,差异均无
+统计学意义。 阿托伐他汀或缬沙坦预处理后第 1、4、6
+天,上清液中 VCAM-1、MCP-1、PAI-1 水平明显降低,
+并呈部分剂量依赖性降低趋势,尤其中、高剂量的阿托
+伐他汀和缬沙坦干预组显著低于高糖组 (均 P <
+0. 05)。低剂量阿托伐他汀干预组仅第 4、6 天 VCAM-
+1、第 1、4、6 天 PAI-1 水平明显低于高糖组(P<0. 05);
+低剂量缬沙坦干预组仅第 4 天 VCAM-1、MCP-1 和第
+4、6 天 PAI-1 水平明显低于高糖组,差异有统计学意
+义(P<0. 05);而低剂量其他时间点与高糖组比较,各
+指标均有降低,但差异无统计学意义。 相同时间点上
+同等剂量水平的阿托伐他汀组与缬沙坦组相比,上清
+液中 VCAM-1、MCP-1、PAI-1 水平差异无统计学意义
+(表 1)。
+讨    论
+血管病变是糖尿病致残和死亡的重要原因,而内
+皮功能障碍是血管病变的基础。 长期高血糖导致的血
+管内皮损伤即使在血糖控制到理想水平后仍然存在,
+且血管病变持续进展,这一现象称为高血糖的“代谢
+记忆冶效应[5]。 因此,尽早地控制高血糖和选择有效
+药物早期干预“代谢记忆冶效应的形成,无疑是延缓甚
+至阻断血管并发症的产生,改善糖尿病患者的生活质
+量,降低死亡率的重要手段。
+长期高糖环境刺激下,被激活的内皮细胞大量释
+放多种具有活性的炎性细胞因子使单核细胞黏附于内
+注:NG: 正常对照组 Normal control glucose group; AM:甘露醇对照组Mannitol control group; HG:高糖组High glucose group; LA:阿托伐他汀低剂量
+组 Low dose atorvastatin group; MA:阿托伐他汀中剂量组 Medium dose atorvastatin group; HA:阿托伐他汀高剂量组 High dose atorvastatin group; LV:缬沙
+坦低剂量组 Low dose valsartan group; MV: 缬沙坦中剂量组 Medium dose valsartan group; HV: 缬沙坦高剂量组 High dose valsartan group
+图 1  人脐静脉内皮细胞第 4 天(×100)
+Fig 1  Human umbilical vein endothelial cells in four day(×100)
+皮细胞上的数量增多,并趋化迁移至内膜下成为巨噬
+细胞,通过清道夫受体吞噬氧化修饰的低密度脂蛋白,
+转化成为泡沫细胞参与早期粥样斑块形成[6],这在内
+皮细胞代谢记忆损伤机制中扮演着重要角色。 而内皮
+细胞分泌的活性因子如 VCAM-1、MCP-1 等在上述过
+程中起着重要促进作用。 研究发现,糖尿病患者的内
+皮细胞经葡萄糖培养后,VCAM-1 表达增加 10% ~
+20% ,MCP-1 释放增加 40% ~ 70% 。 同时,VCAM-1、
+MCP-1 等也可刺激内皮细胞和单核细胞等炎性细胞分
+泌更多的炎性细胞因子,引起血管内皮细胞损伤的链
+级瀑布式反应[7]。 此外,内皮细胞分泌的 PAI-1 是纤
+溶系统的主要抑制因子,正常情况下,PAI-1 减少纤维
+蛋白降解,引起纤维蛋白聚集,使纤溶系统和抗纤溶系
+统处在动态平衡中。 而高糖环境使内皮细胞分泌的
+PAI-1 增多,既可以加剧糖尿病动脉粥样硬化血栓形
+成的风险,还可以通过纤维蛋白促进与动脉粥样硬化
+有关的细胞如平滑肌细胞、巨噬细胞的黏附、迁移和增
+生,参与动脉粥样硬化的形成[8]。
+本研究选用 HUVECs 为研究对象,参考 El-Osta
+等[9]的方法建立高糖“代谢记忆冶模型,即将 HUVECs
+先于 30 mmol / L 高糖中培养 16 h,然后于 5. 5 mmol / L
+生理浓度糖中培养 6 d,结果发现高糖组的 HUVECs 上
+清液中 VCAM-1、MCP-1 和 PAI-1 水平明显高于正常
+对照组,在糖浓度恢复到正常后,上述指标仍持续不
+降,提示 VCAM-1、MCP-1 和 PAI-1 水平升高与高糖诱
+导内皮细胞损伤有关,即使高糖环境解除后亦不能恢
+复,表明高糖诱导内皮细胞损伤的不良“代谢记忆冶现
+象存在,这与 Piga 等[10] 的研究结果一致。 高糖导致
+VCAM-1、MCP-1 和 PAI-1 水平升高可能与 NF-κB 通路
+的激活有关[11]。 高糖引起血管内皮细胞损伤的机制
+十分复杂,可能通过多种途径损伤血管内皮细胞。 一
+方面,高糖直接损伤内皮细胞使释放黏附分子、趋化因
+表 1  各组人脐静脉内皮细胞 VCAM-1、MCP-1 及 PAI-1 水平(x-± s)
+Tab 1  Levels of VCAM-1, MCP-1, PAI-1 in human umbilical vein endothelial cells(x-± s)
+组别
+Group
+例数
+n
+VCAM-1
+(ng / ml)
+MCP-1
+(pg / ml)
+1 d 4 d 6 d 1 d 4 d
+NG 6 368. 43 ± 26. 31 358. 47 ± 11. 78 366. 48 ± 10. 85 227. 90 ± 11. 05 229. 89 ± 11. 24
+AM 6 370. 18 ± 23. 20 360. 67 ± 11. 94 368. 67 ± 9. 76 231. 25 ± 21. 55 230. 78 ± 16. 30
+HG 6 546. 02 ± 29. 53ab 559. 13 ± 15. 96ab 549. 81 ± 16. 05ab 357. 88 ± 15. 87ab 363. 20 ± 14. 50ab
+LA 6 517. 00 ± 32. 45a 498. 00 ± 25. 36ac 505. 33 ± 28. 57ac 330. 33 ± 17. 24a 345. 67 ± 17. 62a
+MA 6 448. 00 ± 19. 52ac 427. 33 ± 21. 50ac 426. 00 ± 46. 03ac 285. 00 ± 17. 69ac 306. 33 ± 28. 57ac
+HA 6 415. 00 ± 24. 02ac 367. 00 ± 28. 16ac 396. 33 ± 26. 95c 260. 67 ± 16. 26ac 266. 00 ± 31. 61c
+LV 6 518. 67 ± 23. 54a 512. 33 ± 37. 61ac 537. 33 ± 26. 54a 332. 67 ± 22. 94a 319. 33 ± 38. 76ac
+MV 6 446. 00 ± 21. 63ac 435. 67 ± 38. 81ac 443. 00 ± 22. 72ac 324. 00 ± 29. 55ac 229. 89 ± 11. 24
+HV 6 425. 00 ± 39. 89ac 413. 67 ± 28. 75ac 408. 33 ± 24. 83ac 280. 33 ± 25. 54ac 230. 78 ± 16. 30c
+组别
+Group
+例数
+n
+MCP-1
+(pg / ml)
+PAI-1
+(ng / ml)
+6 d 1 d 4 d 6 d
+NG 6 230. 90 ± 16. 56 38. 13 ± 7. 00 40. 43 ± 3. 22 41. 75 ± 5. 63
+AM 6 234. 75 ± 20. 07 38. 30 ± 7. 48 41. 30 ± 3. 07 42. 05 ± 5. 29
+HG 6 360. 09 ± 16. 61ab 71. 84 ± 5. 33ab 72. 85 ± 6. 42ab 75. 16 ± 4. 06ab
+LA 6 333. 00 ± 24. 17a 60. 33 ± 7. 51ac 61. 67 ± 3. 21ac 60. 67 ± 4. 73ac
+MA 6 314. 30 ± 24. 58ac 55. 33 ± 3. 21ac 58. 67 ± 6. 66ac 54. 33 ± 4. 16ac
+HA 6 259. 67 ± 27. 01c 53. 67 ± 4. 16ac 45. 33 ± 8. 33c 52. 33 ± 9. 45ac
+LV 6 340. 00 ± 29. 10a 63. 67 ± 2. 52a 62. 33 ± 2. 52ac 62. 33 ± 9. 02ac
+MV 6 230. 90 ± 16. 56 38. 13 ± 7. 00 40. 43 ± 3. 22 41. 75 ± 5. 63
+HV 6 234. 75 ± 20. 07c 38. 30 ± 7. 48c 41. 30 ± 3. 07c 42. 05 ± 5. 29c
+注: VCAM-1: 血管细胞黏附分子 l Vascular cell adhesion molecule 1; MCP-1:单核细胞趋化蛋白 1 Monocyte chemotactic protein l; PAI-1:纤溶酶原激
+活物抑制剂 1 Plasminogen activator inhibitor l; NG: 正常对照组 Normal control group; AM: 甘露醇对照组 Mannitol control group; HG: 高糖组 High glucose
+group; LA: 阿托伐他汀低剂量组 Low dose atorvastatin group; MA: 阿托伐他汀中剂量组 Medium dose atorvastatin group; HA: 阿托伐他汀高剂量组 High
+dose atorvastatin group; LV: 缬沙坦低剂量组 Low dose valsartan group; MV: 缬沙坦中剂量组 Medium dose valsartan group; HV: 缬沙坦高剂量组 High dose
+valsartan group; vs NG, aP<0. 05; vs AM, bP<0. 05;vs HG, cP<0. 05
+子等炎症介质失衡,从而刺激血管内皮细胞炎症反应;
+另一方面,高糖间接引起的病理反应如氧化应激、内质
+网应激、脂质代谢紊乱、胰岛素抵抗、糖基化终产物增
+加等,也可导致内皮细胞功能紊乱。 但目前仍有许多
+问题尚待解决,比如:高糖引起内皮细胞损伤的信号通
+路是什么? 哪些药物在高糖“代谢记忆冶损伤中具有
+高效、多靶点的保护作用? 因此,深入研究这些问题成
+为近年来关注的热点。 本课题组前期的研究已观察到
+白藜芦醇干预能有效地降低高糖诱导的内皮细胞 NF-
+κB 表达及 VCAM-1、MCP-1 和 PAI-1 水平,对高糖“代
+谢记忆冶效应导致内皮细胞损伤起到了保护作用[11]。
+阿托伐他汀是新一代强效的他汀类降脂药物。 近
+年来,国内外大量临床研究发现[12-13],他汀类药物不
+但能有效改善血脂状况,而且能减缓动脉粥样硬化的
+发展,是目前临床最常用的调脂和防治动脉粥样硬化
+的药物。 而缬沙坦作为血管紧张素2(angiotensin 2,
+Ang 2) 1 型受体阻断药对动脉粥样硬化的防治作用
+也是最近的研究热点,很多动物实验证实缬沙坦有独
+立于其降压作用之外的抗动脉粥样硬化和改善内皮细
+胞功能紊乱的作用[14]。
+那么阿托伐他汀和缬沙坦是否能够对高糖诱导产
+生的不良代谢记忆效应具有保护作用呢? 本研究结果
+显示,应用不同浓度阿托伐他汀、缬沙坦预处理的高糖
+“代谢记忆冶模型各组在各时间点 HUVECs 培养上清
+液中 VCAM-1、MCP-1、PAI-1 水平均明显持续降低,并
+呈剂量依赖性趋势,即随药物剂量递增而作用增加,尤
+其中、高剂量的阿托伐他汀和缬沙坦均作用显著。 研
+究还发现阿托伐他汀和缬沙坦的研究结果相一致,也
+就是在相同时间点对应剂量二者降低 VCAM-1、
+MCP-1、PAI-1 水平的作用相似,这说明阿托伐他汀和
+缬沙坦通过抑制内皮细胞的炎症因子 VCAM-1、
+MCP-1、PAI-1 的产生,进而减少单核细胞、血小板和凝
+血物质向内皮及内皮下黏附、趋化和聚集以及提高纤
+溶活性,从而减轻血管炎症反应。 这一结果表明阿托
+伐他汀和缬沙坦对高糖诱导的内皮细胞“代谢记忆冶
+损伤具有保护作用,从而可延缓糖尿病血管并发症的
+发生和发展。
+他汀类药物对动脉粥样硬化的发生过程存在多种
+抑制作用,而且不依赖于血脂的调节,抑制细胞黏附和
+提高纤溶活性可能是他汀类药物抗动脉粥样硬化机制
+之一。 基础研究也发现,阿托伐他汀能抑制高浓度葡
+萄糖刺激的活性氧簇水平,弱化高糖诱导下内皮细胞
+产生的氧化应激反应[15];降低丙二醛和超敏 C 反应蛋
+白水平,抑制体内氧化应激和炎症水平;能显著性降低
+人外周血 MCP-1、VCAM-1 的表达;还可增加外周血内
+皮前体细胞的数量,促使血管内皮细胞的修复;提高内
+皮细胞一氧化氮合酶稳定性和降低内皮素 1 的合成
+等。 可见,阿托伐他汀通过上述多种途径发挥其保护
+血管内皮细胞、抗炎、抗黏附、抗增殖、抗纤溶、阻止粥
+样斑块进展或消退斑块等非降脂作用。
+Ang 2参与早期动脉粥样硬化形成,与氧化应激、
+血管重构和斑块形成有关[16],缬沙坦能抑制 Ang 2作
+用,降低 PAI-1 水平,改善纤溶;缬沙坦还可以促进内
+皮细胞生成一氧化氮,抑制内皮细胞生长;另外,肝细
+胞生长因子(hepatocyte growth factor, HGF)是一种血
+管内皮细胞保护性因子,HGF 的减少可能是内皮损伤
+的触发器。 动物实验发现,缬沙坦可上调 HGF 的表
+达,使糖尿病大鼠血管内皮细胞的形态、功能改善,但
+缬沙坦保护内皮细胞的具体机制尚不清楚。
+另外,本研究中经阿托伐他汀或缬沙坦干预后,随
+着二者剂量的增加,内皮细胞形态相似于 HUVECs,呈
+梭形或多角形,边界清晰,提示二者可以减轻高糖诱导
+“代谢记忆冶损伤造成的内皮细胞形态改变。
+综上所述,阿托伐他汀和缬沙坦均可通过降低
+VCAM-1、MCP-1 和 PAI-1 释放,对高糖诱导的内皮细
+胞损伤“代谢记忆冶效应具有保护作用,这为糖尿病血
+管并发症防治策略的制定提供了理论依据。 但由于作
+用机制复杂,二者对血管内皮细胞保护作用值得进一
+步深入研究。

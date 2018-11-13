@@ -1,0 +1,204 @@
+基础研究
+基金 项 目: 国 家 重 点 基 础 研 究 发 展 计 划 (“ 973 冶 计 划,
+2005CB523304)
+内分泌科(宋玉萍、范晓芳、张宁、李雪松、郑徽、范玉娟、沈甲乙、张钰、
+沈春芳、杨架林);第二军医大学附属长征医院内分泌科(刘志民)
+zmliu_cz@ hotmail. com
+IGF2BP3 对油酸诱导的 L-O2 肝细胞脂肪变性的影响
+宋玉萍  刘志民  范晓芳  张宁  李雪松  郑徽  范玉娟  沈甲乙  张钰  沈春芳
+杨架林
+[提要]   探讨胰岛素样生长因子 2 信使 RNA 结合蛋白 3(IGF2BP3)在非酒精性脂肪性肝病形成中的
+作用及可能机制。 本研究利用油酸刺激 L-O2 诱导脂肪肝模型,并通过干扰 IGF2BP3 基因表达后,观察相
+关生化指标和油红 O 染色观察脂滴形成的变化。 与对照组细胞相比,脂肪肝细胞模型组 IGF2BP3 mRNA
+表达水平明显升高(P<0. 05),生化指标丙氨酸氨基转移酶(ALT)、天门冬氨酸氨基转移酶(AST)、三酰甘
+油、肿瘤坏死因子 α 及白细胞介素 6 等水平明显上升(均 P<0. 05)。 经干扰 IGF2BP3 基因表达后,ALT、
+AST、三酰甘油、肿瘤坏死因子 α、白细胞介素 6 等水平明显下降(均 P<0. 05),经油红染色后,观察到脂肪
+肝细胞脂滴形成得到明显改善。 IGF2BP3 可能参与了非酒精性脂肪性肝病的形成与发展。
+[关键词]   IGF2BP3; 非酒精性脂肪性肝病; 干扰
+The influence of IGF2BP3 on lipid metabolism in L-O2 fatty liver cell Song Yuping *, Liu Zhimin, Fan
+Xiaofang, Zhang Ning, Li Xuesong, Zheng Hui, Fan Yujuan, Shen Jiayi, Zhang Yu, Shen Chunfang, Yang
+Jialin. *Department of Endocrinology, Minhang Central Hospital, Shanghai 201199, China
+[Summary]   To explore the role and mechanism of insulin-like growth factor 2 mRNA-binding protein 3
+(IGF2BP3) formed in non-alcoholic fatty liver disease. By using oleic acid stimulation L-O2 to induce fatty liver
+model, we observe the changes of relevant biochemical indexes by interference of IGF2BP3 gene expression, to
+investigate the change of the formation of lipid droplets through oil red O staining. Compared with control cells, in fatty
+liver cell model group, IGF2BP3 expression level increased significantly ( P < 0. 05 ) . As to the biochemical
+indicators: alanine transaminase ( ALT), aspertate aminotransferase ( AST), triglycerides, and tumor necrosis
+factor-α, interleukin 6 levels were significantly increased ( all P<0. 05) . But, after interference of IGF2BP3 gene
+expression, ALT, AST, triglycerides, tumor necrosis factor-α, and interleukin 6 levels were significantly decreased
+(all P<0. 05) . Fatty droplet formation infatty liver cells were dramatically improved. IGF2BP3 may participate in the
+formation and development of non-alcoholic fatty liver disease.
+[Key words]  IGF2BP3; Non-alcoholic fatty liver disease; Interference
+(Chin J Endocrinol Metab, 2015, 31: 1060-1063)
+随着饮食结构和生活方式的改变,非酒精性脂肪性肝病
+(non-alcoholic fatty liver disease, NAFLD)患病率呈逐年上升趋
+势,且发病年龄越来越低龄化。 NAFLD 患病率的上升与这些
+地区的中心性肥胖、2 型糖尿病、代谢综合征患病率上升相一
+致。 其与心脑血管疾病的发生及发展密切相关[1-2] 。 NAFLD
+的发生、发展涉及到遗传、环境和生活方式等诸多因素,研究认
+为其与肥胖、高脂血症、胰岛素抵抗、糖尿病等有关,被认为是
+代谢综合征的肝脏表现[3] 。 因此,加强 NAFLD 的机制研究,积
+极推动 NAFLD 的防治工作,对于提高人们的生活质量及降低
+我国卫生医疗成本具有重要的意义。
+胰岛素样生长因子 2 信使 RNA 结合蛋白 ( insulin-like
+growth factor 2 mRNA-binding protein, IGF2BP)3,又名 IMP3(IGF
+域 mRNA-binding protein 3),是胰岛素样生长因子(IGF)RNA 结
+合蛋白家族中的重要一员,能够高度特异地与编码 IGF-2的
+mRNA 相结合,是一种可以与 IGFs 相结合的分泌性蛋白,参与
+RNA 的运输、稳定、细胞的增殖和迁移[4] 。 Nielsen 等[5] 在前期
+的研究中发现 IGF2BP1、IGF2BP2、IGF2BP3 基因的多态性与胰
+岛素抵抗和 2 型糖尿病相关。 胰岛素抵抗是 NAFLD 和 2 型糖
+尿病的发病基础,那么 IGF2BP3 是否参与了 NAFLD 的形成与
+发展呢? 本研究通过观察以油酸诱导 L-O2 脂肪肝细胞模型,
+通过 RI-RNA 干扰技术,观察 IGF2BP3 在脂肪肝模型中的表达
+及其对脂肪肝细胞相关指标的影响。 旨在探讨 NAFLD 形成与
+发展的可能新机制。
+一、 材料和方法
+1. 细胞及主要试剂:人肝细胞株(L-O2 )购自中国科学院
+上海细胞库;Roswell Park Memorial Institute (RPMI )1640 无糖
+无酚红培养基、1 : 125 胰蛋白酶购自美国 Gibco 公司;胎牛血
+清购自美国 Hyclone 公司;链霉素、青霉素购自华北制药华胜公
+司;三酰甘油、丙氨酸氨基转移酶(ALT)、天门冬氨酸氨基转移
+酶(AST)、肿瘤坏死因子 α 及白细胞介素 6 等检测试剂盒购自
+南京建成生物工程研究所;TRIzol、2× Tap PCR Master Mix 及逆
+转录试剂盒购自美国 In-vitrogen 公司产品公司。 SYBR Green
+PCR 试剂 盒、 逆 转 录 试 剂 盒: Thermo 公 司 产 品; RNase I:
+Fermentas 公司产品;PCR 引物由上海捷瑞合成。
+2. 细胞培养与分组:参照文献[6]方法建立模型组,正常
+人 L-O2 肝细胞株用含 10%胎牛血清的 1640 培养基培养于 25
+ml 培养瓶,置于 37℃、饱和湿度、含 5% CO2的培养箱中培养。
+将离体培养的肝细胞传代培养 24 h 后,待细胞生长稳定、融合
+度约达 80%时,加入 20 μg / ml 油酸(油酸以 0. 5% DMSO 溶解)
+诱导肝细胞脂肪变性,细胞隔天换液并加入新配制的油酸。 油
+酸作用 72 h 形成非酒精性脂肪变性肝细胞模型。 对照组加入
+含 10%胎牛血清的普通 1640 培养基。
+3. 非酒精性脂肪变性肝细胞模型的鉴定电镜观察:用 40
+ml 培养瓶培养细胞,油酸作用 72 h 用胰酶消化收集细胞,并制
+作透射电镜标本行电镜观察。 各组细胞内三酰甘油的生化检
+测。
+4. 酶联免疫吸附剂 ( enzyme linked immunosorbent assay,
+ELISA)测定细胞上清液中 ALT、AST、三酰甘油、肿瘤坏死因子
+α 及白细胞介素 6 等表达水平的变化。
+5. 实时定量 PCR 法测定 IGF2BP3 mRNA 的表达:细胞总
+RNA 的提取采用 TRIzol 一步法,按说明书操作。 逆转录合成
+单链 cDNA 后进行 PCR。 引物设计及引物合成由上海生工生
+物工程技术服务有限公司完成。 IGF2BP3 上游引物序列为:5'-
+ACTTCTATGCTTGCCAGGTTG-3',下游引物:5'-TGAGCCTTTAC-
+TTCCGTCTTG-3',产物大小 123 bps; GAPDH 上游引物序列为:
+5'-CACCCACTCCTCCACCTTTG-3', 下 游 引 物: 5'-CCACCACC-
+CTGTTGCTGTAG-3',产物大小 110 bps。 扩增条件为:预变性
+95℃ 10 min,进入循环,95℃ 15 s,60℃ 45 s,40 个循环后 60℃
+10 min。 将 PCR 产物在琼脂糖凝胶中进行电泳,置于凝胶图像
+分析系统,用 LabWorks 4. 5 软件进行积分吸光度值( IA)测定,
+目的基因的 IA 与内参吸光度值的比值代表目的基因的相对表
+达含量。
+6. 通过调取 IGF2BP3 基因序列,设计 3 条 siRNA 序列并
+筛选出最佳的干扰序列,并将其构建腺相关病毒表达质粒,并
+包装病毒,使用该病毒感染 L-O2 细胞,干扰后检测 IGF2BP3
+mRNA 表达水平(图 1),光镜下观察脂肪肝细胞中脂质变化情
+况(图 2)。 图片按照出现文中顺序标号
+7. 统计学处理:计量资料采用 x-± s 表示,组间差异比较采
+用完全随机设计的 One-Way ANOVA 及两个独立样本的 t 检验。
+P< 0. 05 为差异有统计学意义。 利用 SPSS 17. 0 统计及
+graphpad prism 5 作图软件进行数据处理。
+注: IGF2BP3:胰岛素样生长因子 2 信使 RNA 结合蛋白 3;与对照
+组相比, aP<0. 01
+图 1  IGF2BP3 在正常 L-O2 细胞和模型组细胞中 mRNA 的表达
+注:IGF2BP3:胰岛素样生长因子 2 信使 RNA 结合蛋白 3;(A)对照
+组;(B)IGF2BP3 干扰组
+图 2  干扰 IGF2BP3 光镜下脂肪滴形成情况
+二、 结果
+1. 如表 1 所示:经油酸刺激 L-O2 诱导的脂肪肝细胞组上
+清液中白细胞介素 6、ALT、AST、三酰甘油、肿瘤坏死因子 α 等
+的浓度均较正常组细胞明显升高,且差异具有统计学意义(P<
+0. 05),后经过干扰 IGF2BP3 基因后,白细胞介素 6、ALT、AST、
+三酰甘油、肿瘤坏死因子 α 等浓度较之前明显减低,差异同样
+存在统计学意义(P<0. 05,表 1)。
+2. IGF2BP3 mRNA 的表达量的变化:经油酸刺激 L-O2 诱
+导的脂肪肝细胞组模型组细胞中 IGF2BP3 mRNA 的表达量较
+正常组细胞中 IGF2BP3 mRNA 表达量升高(P<0. 01,图 1)。
+3. 通过油红染色发现,经油酸刺激 L-O2 诱导的脂肪肝模
+型组中存在大量的脂滴(图片上的红色标记),而后通过采用
+SiRNA 技术体外抑制了脂肪肝细胞模型的 IGF2BP3 基因的表
+达,再次通过油红染色发现经 IGF2BP3 基因干扰后,油酸刺激
+L-O2 诱导的脂肪肝模型组中脂滴明显减少,脂肪肝得到明显的
+改善(图 2)。
+4. IGF2BP3 基因干扰前后 IGF2BP3 mRNA 的表达量的变
+表 1  白细胞介素 6、ALT、AST、三酰甘油、肿瘤坏死因子 α 等指标在各个细胞组间的浓度比较(x-± s)
+组别 三酰甘油(mmol / L)
+ALT
+(ng / ml)
+AST
+(ng / ml)
+白细胞介素 6
+(ng / L)
+肿瘤坏死因子 α
+(pg / ml)
+对照组 1. 793±0. 12 14. 89±0. 17 39. 49±1. 21 31. 21±1. 01 177. 31±2. 81
+脂肪肝细胞模型组 3. 021±0. 20a 25. 21±0. 15a 64. 09±1. 18a 58. 82±1. 12a 340. 80±3. 25a
+IGF2BP3 干扰组 1. 834±0. 31b 15. 87±0. 63b 41. 32±2. 01b 33. 56±2. 09b 186. 40±5. 91b
+注:ALT:丙氨酸氨基转移酶;AST:天门冬氨酸氨基转移酶;IGF2BP3:胰岛素样生长因子 2 信使 RNA 结合蛋白 3;与对照组相比, aP<0. 05;与脂
+肪肝细胞模型组相比, bP<0. 05
+注: IGF2BP3:胰岛素样生长因子 2 信使 RNA 结合蛋白 3;与对照
+组相比, aP<0. 01
+图 3  干扰 IGF2BP3 基因后 IGF2BP3 mRNA 表达量变化
+化:脂肪肝细胞模型经干扰 IGF2BP3 基因后 IGF2BP3mRNA 表
+达量明显下降(图 3)。
+三、 讨论
+NAFLD 是现在最常见的慢性病之一,NAFLD 患者中大约
+70% ~90%的患者为单纯脂肪变性,10% ~ 30% 为非酒精性肝
+炎,而这一部分患者可以进一步发展为肝硬化,NAFLD 与心脑
+血管疾病的发生及发展密切相关,有学者认为胰岛素抵抗是
+NAFLD 的始动因素,也有学者认为其与肥胖、高脂血症、胰岛
+素抵抗、糖尿病等有关,被认为是代谢综合征的肝脏表现。
+目前,关于 NAFLD 的发病机制仍未完全明确。 现有的认
+识仍然基于 Day 于 1998 年提出的“二次打击冶学说。 该学说认
+为,胰岛素抵抗引起的外周脂肪分解增加和高胰岛素血症,是
+导致肝细胞脂肪变性的首要因素;“二次打击冶 学说强调了
+NAFLD 发病及演变过程中胰岛素抵抗、氧化应激、脂质过氧
+化、线粒体损伤以及相关细胞因子表达变化等所起的作用及其
+相互关系。 然而,“二次打击冶学说并不能完全阐明 NAFLD 的
+发病机制。 目前认为,肝细胞内三酰甘油异常积聚是脂质合成
+(脂肪酸摄取和合成)和转化(脂肪酸氧化和三酰甘油分泌)失
+衡的结果[7] 。 本研究发现 IGF2BP3 基因可能参与了脂质代谢
+的过程,且未见相关文献报道。
+以往研究发现,脂肪组织胰岛素抵抗表现为高胰岛素血
+症,致使肝脏中胰岛素受体底物-2( IRS-2)表达下调,并且通过
+AKT2 胰岛素信号通路使固醇调节结合蛋白-1C(SREBP-1C)表
+达持续升高[8-9] 。 SREBP-1C 的水平升高上调脂肪合成基因的
+表达,增加脂肪酸的合成,加速肝脏脂肪堆积[10] 。 此外,
+SREBP-1C 的过表达抑制 IRS-2 的表达[11] 。 葡萄糖刺激的脂肪
+生成是由碳水化合物反应元件结合蛋白(ChREBP 基因)在肝
+脏介导的。 如 SREBP-1C,ChREBP 基因在碳水化合物的饮食消
+费过程中诱导脂肪生成的基因表达从而使脂肪生成增加。 那
+么 IGF2BP3 的表达变化是否通过影响 SREBP-1C 的表达从而
+影响脂质代谢,这也是本研究组后续实验要解决的问题之一。
+此外,肥胖可导致内质网应激,从而引起胰岛素受体 1 的磷酸
+化和 JNK 信号通路的激活抑制胰岛素信号通路[12] 。
+全身肥胖与 NAFLD 相关,尤其是内脏脂肪的集聚在胰岛
+素抵抗的发展中扮演着重要的角色[13-14] ,同时肝脏脂肪集聚也
+与胰岛素抵抗有关,而且这种关联独立于内脏脂肪的具体和全
+身肥胖。 甚至在标准体重人群中,肝代谢紊乱已经被认为与多
+种胰岛素抵抗指标相关,如基础血糖水平或者血清游离脂肪酸
+水平[15] 。
+IGF2BP3 由肝细胞合成与分泌,参与生长激素介导的促组
+织细胞增生、有丝分裂、人体合成代谢等重要生命过程,研究表
+明,IGF2BP3 在肝癌组织高表达,且与肝癌患者的组织分级、转
+移与否、肿瘤的体积以及病理分级有关。 IGF2BP3 与 IGF2 均
+为胰岛素相关生长因子,IGF2BP3 被认为是 IGF2 的翻译激活
+因子。 IGF2BP3 与 IGF2 均可为单一路径或共同路径。
+IGF2BP3 在某些肿瘤中研究较多,一些研究显示,IGF2BP3
+在某些肿瘤细胞系和肿瘤组织中表达升高,IGF2BP3 可以作为
+某些肿瘤预后的指标[16-19] ,IGF2BP3 与肝癌组织中的细胞增殖
+及迁移密切相关[20] 。 Rodriguez 等[21] 在前期的研究中发现
+IGF2BP1、IGF2BP2、IGF2BP3 基因的多态性和胰岛素抵抗及 2
+型糖尿病相关。 但关于 IGF2BP3 在 NAFLD 发病机制中作用和
+机制研究尚未见文献报道。 本研究通过体外实验发现,脂肪肝
+细胞模型中 IGF2BP3 的 mRNA 表达升高,同时 ALT、AST、三酰
+甘油、肿瘤坏死因子 α、白细胞介素 6 水平升高,通过腺病毒转
+录 RI-RNA 进行干扰掉该基因后,通过油红染色发现,脂质明显
+减少,提示该基因很可能参与了脂肪肝的形成与发展,本研究
+首次提出 IGF2BP3 可能参与了 NAFLD 的形成与发展,但目前
+关于 IGF2BP3 参与脂质代谢的研究尚未见文献报道,其作用机
+制仍需要进一步研究并需在动物实验中进一步中验证,其可能
+为预防和治疗该病及其相关疾病提供可靠的理论基础。

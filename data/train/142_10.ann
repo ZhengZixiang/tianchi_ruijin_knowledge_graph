@@ -1,0 +1,466 @@
+T1	Test 2326 2330	空腹血糖
+T2	Test 3441 3445	空腹血糖
+T3	Test 3574 3578	空腹血糖
+T4	Test 4755 4759	空腹血糖
+T5	Test 5343 5346	血肌酐
+T6	Test 9299 9302	肾功能
+T7	Test 2403 2405	身高
+T8	Test 2413 2415	体重
+T9	Disease 40 52	Gitelman 综合征
+T10	Disease 258 270	Gitelman 综合征
+T11	Disease 338 350	Gitelman 综合征
+T12	Disease 1592 1604	Gitelman 综合征
+T13	Disease 1699 1711	Gitelman 综合征
+T14	Disease 1766 1778	Gitelman 综合征
+T15	Disease 2536 2548	Gitelman 综合征
+T16	Disease 3065 3077	Gitelman 综合征
+T17	Disease 3974 3986	Gitelman 综合征
+T18	Disease 5997 6009	Gitelman 综合征
+T19	Disease 6297 6309	Gitelman 综合征
+T20	Disease 6418 6430	Gitelman 综合征
+T21	Disease 6518 6530	Gitelman 综合征
+T22	Disease 6538 6550	Gitelman 综合征
+T23	Disease 6584 6596	Gitelman 综合征
+T24	Disease 6612 6624	Gitelman 综合征
+T25	Disease 6760 6772	Gitelman 综合征
+T26	Disease 6947 6959	Gitelman 综合征
+T27	Disease 7031 7043	Gitelman 综合征
+T28	Disease 7281 7293	Gitelman 综合征
+T29	Disease 7323 7335	Gitelman 综合征
+T30	Disease 7695 7707	Gitelman 综合征
+T31	Disease 7825 7837	Gitelman 综合征
+T32	Disease 7933 7945	Gitelman 综合征
+T33	Disease 8046 8058	Gitelman 综合征
+T34	Disease 8320 8332	Gitelman 综合征
+T35	Disease 8466 8478	Gitelman 综合征
+T36	Disease 8485 8497	Gitelman 综合征
+T37	Disease 8581 8593	Gitelman 综合征
+T38	Disease 8838 8850	Gitelman 综合征
+T39	Disease 9065 9077	Gitelman 综合征
+T40	Disease 9223 9235	Gitelman 综合征
+T41	Test 2807 2811	随机血糖
+T42	Test 4793 4797	随机血糖
+T43	Test 7242 7246	随机血糖
+T44	Test 2071 2073	血钙
+T45	Test 2737 2739	血钙
+T46	Test 4341 4343	血钙
+T47	Test 2077 2079	血磷
+T48	Test 2745 2747	血磷
+T49	Test 4662 4664	血磷
+T50	Test 179 181	血压
+T51	Disease 185 192	低血钾性碱中毒
+T52	Disease 193 195;196 197	低血 镁
+T53	Disease 198 201	低尿钙
+T54	Drug 216 219	螺内酯
+T55	Drug 220 224	吲哚美辛
+T56	Drug 288 299	PGE2 合成酶抑制剂
+T57	Disease 1581 1587;1588 1591	原发性肾小管 遗传病
+T58	Test 1669 1675	基因测序技术
+T59	Disease 1739 1745	室性心率失常
+T60	Disease 1746 1754	进行性肾功能不全
+T61	Operation 1915 1925	子宫内膜异位灶切除术
+T62	Symptom 1929 1932	血钾低
+T63	Symptom 1933 1935	心悸
+T64	Symptom 1936 1938	胸闷
+T65	Symptom 1944 1946	乏力
+T66	Symptom 1948 1950	呕吐
+T67	Symptom 1953 1955	眩晕
+T68	Symptom 1956 1958	昏迷
+T69	Symptom 1967 1969	腹泻
+T70	Disease 1973 1977	胃肠失钾
+T71	Test 1995 1997	血钾
+T72	Test_Value 1998 2012	2. 53 mmol / L
+T73	Test 2074 2076	血镁
+T74	Test 2081 2083	血氯
+T75	Drug 2230 2233	氯化钾
+T76	Test 2246 2248	血钾
+T77	Test 2275 2277	血钠
+T78	Test 2321 2323	血压
+T79	Symptom 2339 2343	指尖麻木
+T80	Symptom 2361 2363	心悸
+T81	Drug 2377 2380	利尿剂
+T82	Drug 2382 2384	泻药
+T83	Test_Value 2406 2409;2410 2412	154 cm
+T84	Test_Value 2416 2421	45 kg
+T85	Test 2422 2424	体温
+T86	Test 2432 2434	血压
+T87	Test_Value 2435 2448	103 / 65 mmHg
+T88	Test 2449 2451	心率
+T89	Test_Value 2452 2462	84 次 / min
+T90	Test 2503 2509	肾上腺 CT
+T91	Test 2714 2716	血钾
+T92	Test_Value 2717 2730	1. 8 mmol / L
+T93	Test 2731 2733	血钠
+T94	Test 2734 2736	血氯
+T95	Test_Value 2748 2762	0. 53 mmol / L
+T96	Test 2850 2852	尿钾
+T97	Test 2909 2911	血钾
+T98	Symptom 2946 2948	腹泻
+T99	Disease 2973 2979	直肠多发息肉
+T100	Operation 2983 2992	内镜直肠息肉摘除术
+T101	Test 3019 3025	肾上腺 CT
+T102	Method 3105 3107	口服
+T103	Drug 3108 3115	10% 氯化钾
+T104	Amount 3116 3118;3119 3125	20 ml tid
+T105	Drug 3126 3132	门冬氨酸钾镁
+T106	Amount 3133 3138	40 ml
+T107	Drug 3161 3168	吲哚美辛肠溶片
+T108	Amount 3169 3177	25 mg qd
+T109	Drug 3178 3182	法莫替丁
+T110	Amount 3183 3192	20 mg bid
+T111	Drug 3193 3194;3195 3197	螺 内酯
+T112	Amount 3198 3207	40 mg bid
+T113	Drug 3209 3215	门冬氨酸钾镁
+T114	Amount 3216 3225	0. 28 tid
+T115	Test 3236 3239	血 钾
+T116	Test_Value 3240 3254	3. 49 mmol / L
+T117	Test 3256 3259	血 氯
+T118	Test 3293 3295	血钠
+T119	Test 3329 3331	血镁
+T120	Test 3375 3378	尿 钙
+T121	Test 3424 3427	CO2
+T122	Test 3484 3486	血钾
+T123	Test_Value 3487 3501	3. 42 mmol / L
+T124	Test 3502 3504	血氯
+T125	Test_Value 3505 3516	95 mmol / L
+T126	Test 3517 3519	血镁
+T127	Test_Value 3520 3534	0. 84 mmol / L
+T128	Test 3535 3536;3537 3538	尿 钙
+T129	Test_Value 3539 3556	2. 28 mmol / 24 h
+T130	Test 3558 3561	CO2
+T131	Test_Value 3562 3573	30 mmol / L
+T132	Test_Value 3579 3583;3584 3592	4. 8 mmol / L
+T133	Disease 3603 3607	羊水过多
+T134	Test 3610 3614;3615 3616	甲状腺功 能
+T135	Drug 3637 3644	10% KCl
+T136	Drug 3655 3658	螺内酯
+T137	Drug 3669 3670;3671 3676	门 冬氨酸钾镁
+T138	Drug 3687 3694	吲哚美辛肠溶片
+T139	Drug 3704 3706;3707 3709	法莫 替丁
+T140	Symptom 3755 3759	食欲不振
+T141	Symptom 3760 3763	上腹痛
+T142	Symptom 3783 3788	喉头异物感
+T143	Drug 3792 3796;3797 3800	吲哚美辛 肠溶片
+T144	Drug 3801 3805	法莫替丁
+T145	Drug 3815 3818	氯化钾
+T146	Drug 3824 3830	门冬氨酸钾镁
+T147	Drug 3831 3834	螺内酯
+T148	Symptom 3841 3845;3846 3847	心前区不 适
+T149	Symptom 3849 3855	肢体感觉异常
+T150	Symptom 3857 3861	手足抽搐
+T151	Symptom 3862 3866	肌肉无力
+T152	Test 3888 3890	血钾
+T153	Test 3941 3943	血镁
+T154	Test_Value 3944 3949;3950 3958	0. 56 mmol / L
+T155	Test 3963 3965	血镁
+T156	Disease 3992 4002	Batter 综合征
+T157	Disease 6342 6352	Batter 综合征
+T158	Test 6381 6383	血压
+T159	Disease 6386 6392	低钾性碱中毒
+T160	Disease 6432 6442	Batter 综合征
+T161	Test 6445 6447	血压
+T162	Disease 6450 6456	低钾性碱中毒
+T163	Disease 6484 6490;6491 6500	继发性高醛固 酮失盐性肾小管疾病
+T164	Disease 6576 6579	肾移植
+T165	Disease 6627 6633	远曲小管疾病
+T166	Disease 6648 6658	Batter 综合征
+T167	Disease 6692 6696	羊水过多
+T168	Disease 6704 6706	癫痫
+T169	Disease 6707 6711	共济失调
+T170	Disease 6712 6715;6716 6718	神经性 耳聋
+T171	Test 6730 6733	肾活检
+T172	Disease 6738 6740;6741 6746	肾小 球旁器增生
+T173	Disease 7107 7115;7116 7119	Gitelman 综合征
+T174	Test 7223 7225	血钾
+T175	Test_Value 7226 7239	1. 8 mmol / L
+T176	Test 7252 7253;7254 7255	血 钾
+T177	Test_Value 7256 7270	3. 49 mmol / L
+T178	Test 7275 7277	血糖
+T179	Disease 7299 7305	室性心率失常
+T180	Disease 7306 7314	进行性肾功能不全
+T181	Anatomy 7355 7359	远曲小管
+T182	Anatomy 7426 7428	肾脏
+T183	Test 7453 7455	血压
+T184	Anatomy 7464 7467	肾单位
+T185	Anatomy 7529 7533	上皮细胞
+T186	Anatomy 7720 7723	肾上腺
+T187	Disease 7817 7823	远曲小管缺陷
+T188	Drug 8016 8027	PGE2 合成酶抑制剂
+T189	Drug 8064 8071;8072 8076	PGE2 合成 酶抑制剂
+T190	Drug 8113 8120	吲哚美辛缓释片
+T191	Drug 8130 8134	依普利酮
+T192	Drug 8146 8150	阿米洛利
+T193	Test 8169 8171	血钾
+T194	Drug 8180 8184	吲哚美辛
+T195	Drug 8194 8197	螺内酯
+T196	Test 8223 8224;8225 8226	血 钾
+T197	Test 8227 8229	血镁
+T198	Drug 8237 8248	血管紧张素转化酶抑制剂
+T199	Drug 8249 8252;8253 8260	血管紧 张素受体拮抗剂
+T200	Disease 8263 8266	低血压
+T201	Disease 8269 8275	动脉性低血压
+T202	Test 8283 8285	血压
+T203	Drug 8370 8373;8374 8375	阿利吉 仑
+T204	Drug 8398 8403	保钾利尿剂
+T205	Drug 8406 8414	镁、钾口服补充剂
+T206	Anatomy 8419 8422;8423 8424	远曲小 管
+T207	Anatomy 8425 8428	集合管
+T208	Disease 8499 8502	低血镁
+T209	Test 8671 8673	血镁
+T210	Test 8695 8698	血清镁
+T211	Test 8789 8792	血清镁
+T212	Drug 8802 8805	硫酸镁
+T213	Drug 8811 8814	氯化镁
+T214	Disease 8948 8952	慢性肾衰
+T215	Drug 8961 8963	中药
+T216	Drug 8964 8969	肾损害药物
+T217	Disease 9001 9004	糖尿病
+T218	Test 9040 9043	肾活检
+T219	Disease 9047 9054	慢性间质性肾炎
+T220	Drug 9091 9097	醛固酮抑制剂
+T221	Drug 9098 9105	非甾体类抗炎药
+T222	Test 9120 9122	血钾
+T223	Disease 9129 9134;9135 9136	代谢性碱中 毒
+T224	Drug 9161 9167	门冬氨酸钾镁
+T225	Drug 9194 9197	氯化镁
+T226	Disease 9205 9207;9208 9209	低血 钾
+T227	Disease 9243 9256	肾小管常染色体隐性遗传疾病
+T228	Drug 9278 9284	醛固酮拮抗剂
+T229	Disease 271 276	电解质紊乱
+T230	Disease 277 280	碱中毒
+T231	Disease 352 356	低钾血症
+T232	Disease 358 362	低镁血症
+T233	Test 2086 2090	血气分析
+T234	Disease 2334 2336	感冒
+T235	Test 2398 2402	体格检查
+T236	Anatomy 2636 2638	下肢
+T237	Method 3149 3157	iv. drip
+T238	Test 3621 3626	实验室检查
+T239	Test 4097 4102	实验室检查
+T240	Test 4158 4160	血钾
+T241	Test 4188 4190	尿钾
+T242	Test 4221 4223	血钠
+T243	Test 4248 4250	尿钠
+T244	Test 4278 4280	血镁
+T245	Test 4308 4310	尿镁
+T246	Test 4692 4694	尿磷
+T247	Test 4726 4728	血氯
+T248	Test 4830 4832	尿量
+T249	Drug 5150 5153	醛固酮
+T250	Test 5231 5235	肾素活性
+T251	Test 4874 4878	肾素活性
+T252	Test 5274 5277	ARR
+T253	Test 5308 5311	血尿素
+T254	Test 5375 5378	尿尿素
+T255	Test 5689 5698	血浆醛固酮肾素活性
+T256	Disease 5733 5741	失盐性肾小管疾病
+T257	Disease 5742 5750	继发性醛固酮增多
+T258	Disease 5932 5936	羊水过多
+T259	Anatomy 6010 6014	远曲小管
+T260	Drug 6015 6018	噻嗪类
+T261	Disease 6021 6024	低血镁
+T262	Disease 6025 6028	低尿钙
+T263	Disease 6029 6033	生长迟缓
+T264	Disease 6046 6056	Batter 综合征
+T265	Drug 6073 6081	噻嗪类(+速尿类
+T266	Disease 6085 6088	低血氯
+T267	Disease 6095 6099	发育不良
+T268	Level 6089 6091	轻度
+T269	Disease 6115 6123	EAST 综合征
+T270	Anatomy 6124 6128	远曲小管
+T271	Drug 6129 6132	噻嗪类
+T272	Disease 6135 6138	低血镁
+T273	Disease 6139 6142	低尿钙
+T274	Disease 6143 6151	EAST 综合征
+T275	Disease 6157 6163	远曲小管疾病
+T276	Disease 6190 6198	EAST 综合征
+T277	Disease 6199 6201	癫痫
+T278	Disease 6202 6206	共济失调
+T279	Disease 6207 6212	神经性耳聋
+T280	Disease 6213 6221	肾小管疾病综合征
+T281	Drug 6323 6327	布美他尼
+T282	Drug 7346 7349	氯化钠
+T283	Symptom 7373 7375;7376 7378	轻度 脱水
+T284	Anatomy 7413 7416	集合管
+T285	Disease 7717 7719	低钾
+T286	Test 7889 7890	钾
+T287	Test 7891 7892	镁
+T288	Drug 7911 7914	氯化钠
+T289	Symptom 7993 7995	低钾
+T290	Method 8381 8383	口服
+T291	Anatomy 8388 8390	肾素
+T292	Disease 8657 8665;8666 8669	Gitelman 综合征
+T293	Reason 8687 8691	慢性缺镁
+T294	Anatomy 8704 8706	细胞
+T295	Anatomy 8707 8709	肌肉
+T296	Anatomy 8710 8712	骨骼
+T297	Method 9158 9159;9160 9161	口 服
+T298	Symptom 9181 9183	低钾
+T299	Method 9276 9278	口服
+T300	Duration 227 230	3 d
+T301	Test_Value 2019 2039	3. 5 ~ 5. 5 mmol / L
+T302	Test_Value 2084 2085	低
+T303	Test_Value 2252 2274	2. 53 ~ 3. 56 mmol / L
+T304	Test_Value 2281 2286;2287 2319	131 ~ 139 mmol / L(135 ~ 145 mmol / L)
+T305	Test_Value 2323 2325	正常
+T306	Duration 2348 2355	数分钟到数小时
+T307	Symptom 2641 2649	寒冷及劳累后明显
+T308	Duration 2654 2662	10 余秒至数天
+T309	Symptom 2676 2679;2680 2683	休息后 可缓解
+T310	Test_Value 2740 2741;2742 2743	正 常
+T311	Symptom 2708 2710	乏力
+T312	Test_Value 2762 2787	引(0. 97 ~ 1. 62 mmol / L)
+T313	Test_Value 2915 2929	2 ~ 3 mmol / L
+T314	Symptom 2961 2965	成形软便
+T315	Symptom 2966 2969	稀烂便
+T316	Test_Value 3896 3916	2. 7 ~ 3. 2 mmol / L
+T317	Test_Value 3918 3938	2. 4 ~ 2. 6 mmol / L
+T318	Anatomy 4043 4045;4046 4062	噻嗪 类敏感的 Na-Cl 同向转运体
+T319	Anatomy 6312 6319	SLC12A1
+T320	Anatomy 6782 6789	SLC12A3
+T321	Anatomy 6809 6815	CLCNKB
+T322	Test_Value 7246 7248	升高
+T323	Anatomy 7550 7551;7552 7557	连 接小管细胞
+T324	Anatomy 7537 7543	肾外髓钾通道
+T325	Anatomy 7568 7573	远端肾单位
+T326	Anatomy 7636 7639	球状带
+T327	Anatomy 7782 7788	髓袢升支粗段
+T328	Anatomy 8006 8010	PGE2
+T329	Amount 8197 8215	(200 ~ 300 mg / d)
+T330	Anatomy 8510 8512;8513 8522	顺时 受体电位阳离子通道
+T331	Anatomy 8640 8645	TRPM6
+T332	Drug 8727 8740	Na-K-ATP 酶激活剂
+T333	Duration 8940 8944	12 年
+T334	Duration 8992 8997	11 个月
+T335	Duration 159 162	1 年
+T336	Duration 242 245	1 年
+T337	Symptom 2364 2369	无其他不适
+T338	Symptom 2691 2700	劳累后上述症状加重
+T339	Symptom 2701 2707	卧床数天仍觉
+T340	Symptom 2931 2940	上述症状仍反复发作
+T341	Symptom 2994 2999	无其他不适
+T342	Test 6751 6755	基因筛查
+T343	Test 6982 6986	基因芯片
+T344	Test 6992 6994;6995 7003	多重 连接探针扩增技术
+T345	Symptom 7044 7051	在青春期后发病
+T346	Symptom 7052 7057;7058 7061	一般无特异 性症状
+T347	Reason 7172 7187;7188 7189	不足以激活电压依耐性的钙离子通 道
+T348	Reason 7190 7197	钙离子内流减少
+T349	Anatomy 7950 7954	PGE2
+T350	Disease 100 112	Gitelman 综合征
+T351	Disease 144 156	Gitelman 综合征
+T352	Drug 212 213	镁
+T353	Drug 214 215	钾
+T354	Method 209 211	静脉
+T355	Symptom 1566 1569	低血钾
+T356	Symptom 1570 1573	低血镁
+T357	Symptom 1574 1577	低尿钙
+T358	Reason 1715 1722	软骨钙质沉着症
+T359	Reason 1723 1731	血糖调节障碍相关
+T360	Disease 1786 1791	肾小管疾病
+T361	Duration 1886 1890	10 年
+T362	Symptom 1883 1885	低钾
+T363	Symptom 1939 1943	无肌痉挛
+T364	Drug 1983 1984	钾
+T365	Method 1980 1982	口服
+T366	Operation 2052 2054;2055 2068	“子 宫次全切除+盆腔粘连松解术
+T367	Test 2092 2094	pH
+T368	Test_Value 2095 2118	7. 535(7. 350 ~ 7. 450)
+T369	Test 2119 2120;2121 2123	碱 剩余
+T370	Test_Value 2124 2159	5. 3 mmol / L [(0 ± 2. 3) mmol / L]
+T371	Test 2161 2166	PaCO2
+T372	Test_Value 2167 2172;2173 2197	33. 7 mmHg(20. 0 ~ 30. 0 mmHg)
+T373	Drug 2226 2229	螺内酯
+T374	Method 2224 2226	口服
+T375	Drug 2237 2238	钾
+T376	Method 2234 2236	静脉
+T377	Drug 2239 2240	镁
+T378	Test_Value 2425 2431	36. 7℃
+T379	Test 2464 2467	心肺腹
+T380	Test 2471 2482	Trousseau 征
+T381	Test 2487 2497	Chvostek 征
+T382	Test_Value 2510 2517	双侧肾上腺增粗
+T383	Test_Value 2518 2525;2526 2527	不排除肾上腺增 生
+T384	Operation 2552 2559	子宫次全切除术
+T385	Duration 2596 2599	3 年
+T386	Symptom 2587 2591;2592 2595	发作性四 肢乏力
+T387	Symptom 2622 2626;2627 2634	反复出现 发作性四肢乏力
+T388	Symptom 2668 2675	行走、举手困难
+T389	Test_Value 2792 2806	29. 3 mmol / L
+T390	Test 2788 2791	CO2
+T391	Test_Value 2812 2839;2840 2849	8. 13mmol / L (3. 9 ~ 11. 1 mmol / L)
+T392	Test_Value 2854 2869	117 mmol / 24 h
+T393	Drug 2896 2897	钾
+T394	Drug 2898 2901	螺内酯
+T395	Frequency 2949 2960	3 ~ 4 次 / d
+T396	Test 3001 3005	窦性心律
+T397	Test_Value 3007 3017	69 次 / min
+T398	Operation 3081 3090	直肠多发息肉摘除术
+T399	Drug 3139 3145	5% 葡萄糖
+T400	Test_Value 3260 3271	94 mmol / L
+T401	Test_Value 3296 3308	137 mmol / L
+T402	Test_Value 3332 3346	0. 73 mmol / L
+T403	Test_Value 3379 3384;3385 3423	1. 55 mmol / 24 h(2. 00 ~ 7. 50 mmol / 24 h)
+T404	Test_Value 3428 3439	30 mmol / L
+T405	Test_Value 3446 3459	4. 8 mmol / L
+T406	Amount 3645 3650	10 ml
+T407	Frequency 3651 3654	tid
+T408	Amount 3659 3664	40 mg
+T409	Frequency 3665 3668	bid
+T410	Amount 3677 3682	0. 28
+T411	Frequency 3683 3686	tid
+T412	Amount 3695 3700	25 mg
+T413	Frequency 3701 3703	qd
+T414	Amount 3710 3715	20 mg
+T415	Frequency 3716 3719	bid
+T416	Test 3867 3869	血压
+T417	Test 5413 5416	尿肌酐
+T418	Reason 6560 6564	自身免疫
+T419	Symptom 6634 6635;6636 6638	低 血镁
+T420	Symptom 6639 6642	低尿钙
+T421	Disease 7064 7071	软骨钙质沉着病
+T422	Reason 7083 7089	慢性低镁血症
+T423	Symptom 7122 7126	低钠低磷
+T424	Symptom 7129 7135	血糖代谢障碍
+T425	Reason 7142 7151	严重低钾时应急反应
+T426	Reason 7152 7159	钾离子外流增多
+T427	Reason 7159 7163;7164 7171	导致胰岛 细胞不能去极化
+T428	Reason 7198 7207	胰岛素颗粒释放减少
+T429	Drug 7250 7251	钾
+T430	Anatomy 7381 7395	肾素-血管紧张素-醛固酮系统
+T431	Disease 7396 7401;7402 7403	高醛固酮血 症
+T432	Anatomy 7431 7440	扩血管物质前列腺素
+T433	Anatomy 7609 7612	醛固酮
+T434	Anatomy 7620 7627;7628 7631	肾素-血管紧张 素系统
+T435	Anatomy 7642 7652	肾素-血管紧张素系统
+T436	Anatomy 7658 7661	醛固酮
+T437	Test 7675 7677	肾素
+T438	Test 7683 7686	醛固酮
+T439	Drug 7852 7853	钾
+T440	Drug 7855 7856	镁
+T441	Test 7877 7881	前列腺素
+T442	Test 7882 7885	醛固酮
+T443	Anatomy 7972 7983;7984 7987	肾素-血管紧张素-醛固 酮系统
+T444	Drug 8028 8032	吲哚美辛
+T445	Amount 8121 8126	75 mg
+T446	Frequency 8127 8129	qd
+T447	Amount 8135 8141	150 mg
+T448	Frequency 8142 8144	qd
+T449	Amount 8151 8156	20 mg
+T450	Frequency 8157 8159	qd
+T451	Symptom 8352 8356	长期低钾
+T452	Symptom 8595 8596;8597 8600	血 镁异常
+T453	Drug 8779 8780	镁
+T454	SideEff 8807 8809	腹泻
+T455	SideEff 8825 8827	腹泻
+T456	Drug 8915 8916	钾
+T457	Drug 8918 8919	镁
+T458	Drug 9088 9090	钾镁
+T459	Test 9111 9113	血镁
+T460	Test 9113 9115	尿钙
+T461	Drug 9272 9273	钾
+T462	Drug 9274 9275	镁
+T463	Test_Value 3026 3038;3039 3040	左侧肾上腺内侧肢结节样增 粗
+T464	Test_Value 3041 3056	考虑为肾上腺结节样增生可能性大
+T465	Symptom 7966 7968	脱水
+T466	Level 7964 7966	轻度

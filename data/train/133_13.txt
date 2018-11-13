@@ -1,0 +1,405 @@
+基础研究
+学科开放实验室
+维生素 D 对糖尿病大鼠骨代谢的影响及其
+机制研究
+王芳  王庆祝  秦贵军  赵艳艳  王晓静  杨慧霞  刘飞
+[摘要]   目的  探讨活性维生素 D 对糖尿病大鼠骨代谢的影响及其分子机制。 方法 6 ~ 8 周龄雄
+性 SD 大鼠 45 只,链脲佐菌素诱导建立糖尿病大鼠模型。 将糖尿病大鼠按随机表分为 3 组:糖尿病组
+(DM)、糖尿病维生素 D 低剂量组(LD)、糖尿病维生素 D 高剂量组(HD)。 选取健康同龄大鼠 12 只作为正
+生素 D3(溶于 0. 05 ml 花生油灌胃),NC 组及 DM 组给予花生油 0. 05 ml / d 灌胃。 12 周后处死各组大鼠,测
+定血清钙、磷、骨钙素、I型胶原交联氨基末端肽(NTX)、24 h 尿钙水平;右股骨脱钙后 HE 染色观察骨组织
+形态学变化,免疫组化法检测成骨细胞护骨素、NF-κB 受体活化因子配体(RANKL)、核结合因子 1(Cbfa1)
+的表达;荧光实时定量 PCR 检测骨组织护骨素、RANKL、Cbfa1、骨钙素 mRNA 表达水平。 结果 (1)DM 组
+大鼠 24 h 尿钙水平较 NC 组显著升高(P<0. 05)。 (2)DM 组大鼠血清骨钙素较 NC 组显著降低(P<0. 05),
+各组 NTX 差异无统计学意义(P>0. 05)。 (3)骨组织中 Cbfa1 mRNA 表达水平各组差异无统计学意义(P>
+0. 05);骨钙素 mRNA 表达水平 DM 组较 NC 组显著降低(P<0. 05);RANKL mRNA 表达水平 DM 组较 NC
+组显著降低(P<0. 05),LD、HD 组较 DM 组显著升高(P<0. 05),HD 组较 LD 组显著升高(P<0. 05);护骨素
+mRNA 表达水平 DM 组较 NC 组显著降低(P<0. 05);RANKL /护骨素比值 HD 组较 DM 组显著升高(P<
+0. 05)。 结论 维生素 D 能通过上调骨钙素、RANKL 表达等多种途径促进糖尿病大鼠的骨代谢。
+[关键词]   糖尿病; 大鼠; 维生素 D; 骨代谢
+Effect of vitamin D on bone metabolism in diabetic rats and its related mechanism     Wang Fang, Wang
+Qingzhu, Qin Guijun, Zhao Yanyan, Wang Xiaojing, Yang Huixia, Liu Fei. Department of Endocrinology, the First
+Affiliated Hospital of Zhengzhou University, Henan Clinic Center for Endocrine and Metabolic Diseases, Key-Disciplines
+Laboratory Clinical-Medicine Henan, Zhengzhou 450052, China
+[Abstract]  Objective  To study the effect of 1,25-dihydroxyvitamin D3 on bone metabolism in diabetic rats
+and the related molecular mechanism. Methods A total of 45 healthy 6-8 weeks old male Sprague Dawley(SD) rats
+were treated with streptozotocin. The streptozotocin-induced diabetic rats were randomly assigned to diabetic group
+(DM), low dose vitamin D treated group(LD), and high dose vitamin D treated group(HD). Another 12 healthy SD
+rats were used as normol control group(NC). The rats in NC group and DM group were fed with 0. 05 ml / d nut oil;
+D3dissolved in 0. 05 ml nut oil. 12 weeks later, serum calcium, phosphorus, osteocalcin, type玉collagen cross-linked
+telopeptide (NTX), and 24 h urinary calcium were determined. Right femurs were harvested for pathohistological
+analysis by hematoxylin-eosin (HE) staining. Expressions of osteoprotegerin, receptor activator nuclear factor κB
+ligand ( RANKL ), core binding factor α1 ( Cbfa1 ) were detected by immunohistochemical staining. The
+osteoprotegerin, RANKL, Cbfa1, osteocalcin mRNA levels of bone tissue were performed by realtime quantitative
+reverse transcription polymerase chain reaction assay. Results (1)Compared with the NC group, serum calcium and
+24 h urinary calcium in LD and HD groups were significantly higher(P<0. 05); 24 h urinary calcium in DM group was
+significantly higher than that in NC group ( P < 0. 05) . (2) Serum osteocalcin level in DM and LD groups was
+significantly lower than that in NC group(P<0. 05); there was no significant difference between the serum NTX levels
+of all groups(P>0. 05) . (3)There was no significant difference in the mRNA expression of Cbfa1 in all groups (P>
+0. 05) . The mRNA expression of osteocalcin in DM group was significantly lower than that in NC group ( P <
+0. 05) . The mRNA expression of RANKL in DM group was significantly lower than that in NC group(P<0. 05); and
+that in LD and HD group was significantly higher than that in DM group (P < 0. 05), and that in HD group was
+significantly higher than that in LD group (P<0. 05) . The mRNA expression of osteoprotegerin in DM group was
+significantly lower than that in NC group (P < 0. 05) . The ratio of RANKL to osteoprotegerin in HD group was
+significantly higher than that in DM group (P<0. 05) . Conclusions Vitamin D may promote bone metabolism in
+diabetic rats by up-regulating the expressions of osteocalcin and RANKL or in addition to other means.
+[Key words]  Diabetes mellitus; Rats; Vitamin D; Bone metabolism
+(Chin J Endocrinol Metab, 2014, 30: 331-336)
+糖尿病骨病包括骨量减少、骨质疏松、Charcot 关
+节病等[1],是糖尿病的重要并发症之一,严重影响患
+者的生存质量,给家庭和社会带来沉重的经济负担。
+维生素 D 是维持钙、磷代谢平衡的主要激素之一,主
+要通过作用于靶器官(肠、肾、骨等)表面的维生素 D
+受体,激活成骨细胞、破骨细胞增殖分化相关的多种信
+息途径,双向调节骨的形成和吸收代谢过程[2],维持
+牙齿和骨骼的正常生长发育。
+胰岛素缺乏、高血糖毒性、钙磷代谢障碍、糖尿病
+慢性并发症等因素使糖尿病患者的骨代谢呈现其特殊
+性,骨代谢双向调节剂———维生素 D 对其影响更为复
+杂[3]。 本研究通过观察不同剂量的维生素 D 对糖尿
+病大鼠骨形成和骨吸收的影响,进一步探讨其分子机
+制,为糖尿病代谢性骨病的临床治疗提供理论依据。
+材料和方法
+一、 材料
+1. 动物:60 只 6 ~ 8 周龄健康雄性清洁级 SD 大
+鼠,体重 180 ~ 220 g,购自河南省实验动物中心。
+2. 试剂:链脲佐菌素(美国 Sigma 公司);大鼠骨
+钙素酶联免疫试剂盒,大鼠I型胶原交联氨基末端肽
+(NTX)酶联免疫试剂盒(武汉华美生物工程有限公
+司);骨化三醇胶丸 /罗盖全 (上海罗氏制药有限公
+司);兔抗大鼠核结合因子 1(Cbfa1)多克隆抗体,兔抗
+大鼠 NF-κB 受体活化因子配体(RANKL)多克隆抗体,
+兔抗大鼠护骨素多克隆抗体(北京博奥森生物技术有
+限公司);兔 SP 检测试剂盒,DAB 显色试剂盒(北京中
+杉金桥生物技术有限公司);TRIzol( Invitrogen 公司);
+HiFi-MMLV cDNA 第 一 链 合 成 试 剂 盒、 UltraSYBR
+Mixture(With ROX) (北京康为世纪生物科技有限公
+司);Cbfa1、骨钙素、RANKL、护骨素、β-actin 引物序列
+(上海生工生物工程股份有限公司)。
+二、 方法
+1. 动物模型的建立和分组:SD 大鼠 60 只,适应
+性喂养 1 周,室温 25℃,白昼交替 12 h。 采用随机数字
+表法选取 48 只大鼠建立糖尿病模型,其余 12 只大鼠
+作为正常对照组(NC)。 糖尿病大鼠造模方法:禁食
+12 h 后,按 60 mg / kg 一次性腹腔注射 1% 链脲佐菌素
+溶液,NC 组腹腔注射相当体积的柠檬酸钠-柠檬酸缓
+冲液,72 h 后测定大鼠尾尖随机血糖≥16. 7 mmol / L
+为造模成功(成模 45 只)。 将成模大鼠再随机分为 3
+组:糖尿病组(DM)、糖尿病维生素 D 低剂量组(LD)、
+糖尿病维生素 D 高剂量组(HD),每组 15 只。 各组大
+鼠普通饲料连续喂养 12 周,LD 组给予 1,25-二羟维生
+素 D3[1,25-dihydroxyvitamin D3, 1,25-(OH) 2D3]0. 03
+油灌胃,NC 组及 DM 组给予花生油 0. 05 ml / d 灌胃。
+2. 标本采集:实验第 12 周末,代谢笼收集 24 h
+尿,记录尿量,4℃保存,备测 24 h 尿钙。 麻醉后眼眶
+取血,收集血清,-20℃保存,备测血清钙、磷、骨钙素、
+NTX。 分离右侧股骨近端 1 / 3,4% 多聚甲醛溶液固
+定,0. 5 mol / L 乙二胺四乙酸(EDTA)溶液脱钙 10 d,常
+规石蜡包埋、切片,备行 HE 染色及免疫组化检测。 分
+离左侧中段胫骨,生理盐水冲洗骨髓腔,-80℃ 保存,
+备行实时定量 PCR 检测。
+3. 生化指标测定:血糖由罗氏全活力型血糖仪测
+定;血钙、血磷、尿钙由罗氏全自动生化分析仪测定;骨
+钙素、NTX 采用 ELISA 法检测,按照试剂盒说明书进
+行操作,各孔 OD 值由美国 Thermo Scientific Multiskan
+MK3 全自动酶标仪测定。
+4. 骨组织形态学观察:HE 染色,100 倍光学显微
+镜下观察骨组织形态学变化。
+5. 免疫组化法检测成骨细胞 Cbfa1、RANKL、护骨
+素的表达:采用 SP 法,一抗工作液浓度 1 : 100,以
+PBS 液代替一抗作阴性对照。 每张切片于 400 倍光学
+显微镜下随机选取 5 个视野。 计数阳性细胞百分比,
+阳性细胞数 < 25% 为弱阳性,25% ~ 50% 为中等阳
+性, > 50% 为强阳性; 应用 Bio Sens Digital Imaging
+System 图像分析软件测定阳性区域积分光密度
+(IOD),计算其平均值。
+6. 荧光实时定量 PCR 检测骨组织 Cbfa1、骨钙素、
+RANKL、护骨素 mRNA 的表达:取 30 ~ 50 mg 骨组织,
+TRIzol 提取总 RNA,2 滋l 用于逆转录合成 cDNA,配制
+25 滋l PCR 反应体系进行扩增,以 β-actin 为内参照(引
+物序列见表 1)。 RT-PCR 仪为美国 ABI 公司 7500 Fast
+Real-Time PCR System。 反应条件为预变性 95℃ 10
+min,变性 95℃ 15 s,退火 /延伸 60℃ 1 min,45 个循环。
+表 1  骨代谢相关基因引物序列
+Tab 1  Primer sequence of bone metabolism related genes
+基因
+Gene
+上游引物
+Forward primer
+(5'-3')
+下游引物
+Reverse primer
+(5'-3')
+产物长度
+Length of product
+(bp)
+β-actin CCCATCTATGAGGGTTACGC TTTAATGTCACGCACGATTTC 150
+Cbfa1 GAAATGCCTCTGCTGTTATGAA CCGTTATGGTCAAAGTGAAACTC 102
+OC ACAAGTCCCACACAGCAACTC CCAGGTCAGAGAGGCAGAAT 103
+RANKL GAGCGAAGACACAGAAGCACTA ATTGATGGTGAGGTGAGCAAAC 199
+OPG ATCAGTTGGTGGGAATGAAGAT TTATCAAATAGCCTGCCTCACT 85
+注:β-actin:β 肌动蛋白;Cbfa1:核结合因子 1 Core binding factor α1;OC:骨钙素 Osteocalcin;RANKL:NF-κB 受体活化因子配体 Receptor activator
+nuclear factor κB ligand;OPG:护骨素 Osteoprotegerin
+每份样本均行 3 个复管检测,取 Ct 值均值。 计算各样
+本待测基因的 △Ct 值(△Ct=待测序列的 Ct 值-该样本
+β-actin 的 Ct 值),则该样本待测基因的相对表达量为
+2-△Ct。
+三、 统计学处理
+采用 SPSS 19. 0 统计软件进行数据分析。 计量资
+料用 x-± s 表示,根据正态性检验及方差齐性检验结果,
+2 组间比较采用独立样本 t 检验,多组比较采用单因素
+方差分析,两两比较采用 LSD 检验。 以 P<0. 05 为差
+异有统计学意义。
+结    果
+一、 一般情况
+单次大剂量注射链脲佐菌素 24 h 后大鼠出现多
+食、多饮、多尿等典型糖尿病症状,成模率 94% (45 /
+48)。 实验观察期间,健康大鼠体重稳步增长,糖尿病
+大鼠体重缓慢增长或持续下降。 至 12 周末实验结束
+时,NC 组、DM 组、LD 组和 HD 组存活鼠数分别为 12、
+10、11、13 只;糖尿病大鼠平均体重较健康大鼠减少约
+46% (表 2)。
+二、 生化及骨代谢指标
+与 NC 组相比,DM 组大鼠 24 h 尿钙水平显著升
+高( t= 4. 855, P <0. 01),血清骨钙素显著降低( t =
+-2. 200,P<0. 05),血钙、血磷、NTX 较 NC 组差异无统
+计学意义( t 分别为 2. 009、0. 184、-0. 543,P>0. 05)。
+LD 组、HD 组、DM 组大鼠血钙、血磷、24 h 尿钙、骨钙
+素、NTX 差异均无统计学意义 ( F 分别为 1. 516、
+0. 349、0. 589、0. 714、0. 032, P>0. 05,表 2)。
+三、 骨组织形态学观察
+如图 1 所示:NC 组骨小梁致密,粗大;DM 组骨小
+梁稀疏,变细,结构紊乱,出现断裂;LD 组:骨小梁稀
+疏,稍变细、程度较 DM 组轻,总体结构清楚,偶见断
+裂;HD 组骨小梁致密,稍变细、程度较 DM 组轻,总体
+结构清楚,未见断裂。
+四、 成骨细胞护骨素、RANKL、Cbfa1 的表达
+免疫组化染色镜下观察显示:Cbfa1 阳性细胞为
+胞核着色,呈棕黄色或棕褐色;NC 组为强阳性表达,
+DM 组、LD 组、HD 组为弱阳性表达(图 2)。
+RANKL 阳性细胞为胞浆着色,呈棕黄色或棕褐
+色;NC 组、HD 组为强阳性表达,DM 组为弱阳性表达,
+LD 组为中等阳性表达(图 2)。
+护骨素阳性细胞为胞浆着色,呈棕黄色或棕褐色;
+NC、HD 组为强阳性表达,LD 组、DM 组为中等阳性表
+达(图 2)。
+经图像分析,成骨细胞 Cbfa1 阳性表达区域 IOD
+值 DM 组低于 NC 组( t= -3. 324,P<0. 01),LD 组、HD
+组、DM 组无差异 ( F = 0. 567,P > 0. 05);成骨细胞
+RANKL 阳性表达区域 IOD 值 DM 组低于 NC 组( t =
+-4. 011,P<0. 01),LD、HD 组高于 DM 组,HD 组高于
+LD 组(F=17. 307,P<0. 01);成骨细胞护骨素阳性表
+达区域 IOD 值 DM 组低于 NC 组 ( t = - 2. 249, P <
+0. 05),LD、HD、DM 组无差异(F = 1. 981,P>0. 05);
+RANKL /护骨素比值 DM 组与 NC 组无差异 ( t =
+-0. 839,P>0. 05), HD 组较 DM、LD 组显著升高(F=
+表 2  各组大鼠生化及骨代谢指标比较(x-± s)
+Tab 2  Comparison of biochemical indexes and other bone metabolic markers(x-± s)
+组别
+Group
+鼠数
+n
+体重
+Weight
+(g)
+血钙
+Serum calcium
+(mmol / L)
+血磷
+Serum phosphorus
+(mmol / L)
+24 h 尿钙
+24 h urinary calcium
+(mmol / 24 h)
+骨钙素
+Osteocalcin
+(pg / ml)
+NTX
+(nmol / L BCE)
+NC 12   443 ± 35 2. 52 ± 0. 10 2. 56 ± 0. 31 0. 01 ± 0. 01 719 ± 237 47. 2 ± 40. 5
+DM 10   239 ± 58b 2. 66 ± 0. 22 2. 60 ± 0. 54 0. 30 ± 0. 19b 522 ± 169a 39. 0 ± 27. 5
+LD 11   242 ± 60 2. 80 ± 0. 17 2. 56 ± 0. 62 0. 21 ± 0. 19 536 ± 124 37. 7 ± 26. 3
+HD 13   235 ± 47 2. 82 ± 0. 33 2. 40 ± 0. 67 0. 24 ± 0. 19 593 ± 163 40. 6 ± 30. 1
+注:NC:正常对照组 Normol control group;DM:糖尿病组 Diabetes group;LD:糖尿病维生素 D 低剂量组 Low dose vitamin D treated group;HD:糖尿病维
+生素 D 高剂量组 High dose vitamin D treated group;NTX:I型胶原交联氨基末端肽 Type玉collagen cross-linked telopeptide;vs NC, aP<0. 05, bP<0. 01
+
+注:(A)正常对照组 Normol control group;(B)糖尿病组 Diabetes group;(C)维生素 D 低剂量组 Low dose vitamin D treated group;(D)维生素 D 高剂
+量组 High dose vitamin D treated group
+图 1  大鼠骨组织(HE 染色×100)
+Fig 1  Bone tissues in rats(HE staining×100)
+注:Cbfa1:核结合因子 1 Core binding factor α1; RANKL:NF-κB 受体活化因子配体 Receptor activator nuclear factor κB ligand; OPG:护骨素
+Osteoprotegerin;NC:正常对照组 Normol control group;DM:糖尿病组 Diabetes group;LD:维生素 D 低剂量组 Lowe dose vitamin D treated group;HD:维生素
+D 高剂量组 High dose vitamin D treated group
+图 2  大鼠成骨细胞 Cbfa1、RANKL 和护骨素表达(SP 染色×400)
+Fig 2  Expression of Cbfa1, RANKL, and osteoprotegerin in rats(SP staining×400)
+表 3  各组大鼠成骨细胞阳性染色 IOD 值比较(x-± s)
+Tab 3  Comparison of IOD in different groups(x-± s)
+组别
+Group
+鼠数
+n Cbfa1 RANKL OPG RANKL / OPG
+NC
+DM
+LD
+HD
+12
+10
+11
+13
+206. 0 ± 8. 4
+194. 9 ± 7. 0b
+192. 2 ± 12. 4
+190. 6 ± 8. 3
+206. 6 ± 9. 7
+190. 2 ± 9. 4b
+200. 0 ± 9. 9c
+212. 9 ± 8. 7df
+204. 1 ± 13. 7
+192. 8 ± 8. 8a
+198. 8 ± 8. 6
+199. 8 ± 8. 8
+1. 02 ± 0. 09
+0. 99 ± 0. 07
+1. 01 ± 0. 06
+1. 07 ± 0. 06de
+注: IOD:积分光密度 Integral optical density;NC:正常对照组 Normol
+control group;DM:糖尿病组 Diabetes group;LD:糖尿病维生素 D 低剂量
+组 Low dose vitamin D treated group;HD:糖尿病维生素 D 高剂量组 High
+dose vitamin D treated group;Cbfa1:核结合因子 1 Core binding factor α1;
+RANKL:NF-κB 受体活化因子配体 Receptor activator nuclear factor κB
+ligand;OPG:护骨素 Osteoprotegerin;vs NC, aP<0. 05, bP<0. 01;vs DM,
+cP<0. 05, dP<0. 01;vs LD, eP<0. 05, fP<0. 01
+5. 639,P<0. 01,表 3)。
+五、 骨组织中 Cbfa1、 RANKL、护骨素、 骨钙素
+mRNA 的表达
+各组 Cbfa1 mRNA 表达水平差异无统计学意义
+(P>0. 05)。 骨钙素 mRNA 表达水平,DM 组较 NC 组
+显著降低( t= -3. 408,P<0. 01),HD、LD 组较 DM 组呈
+升高趋势,但差异无统计学意义(F= 2. 236,P>0. 05)。
+RANKL mRNA 表达水平,DM 组较 NC 组显著降低( t =
+-5. 548,P<0. 01),LD、HD 组较 DM 组显著升高,HD
+组较 LD 组显著升高(F = 15. 336,P<0. 01)。 护骨素
+mRNA 表达水平, DM 组较 NC 组显著降低 ( t =
+-4. 218,P<0. 01),LD 组、HD 组、DM 组差异无统计学
+意义(F = 1. 415,P>0. 05)。 RANKL /护骨素比值 DM
+组与 NC 组无差异( t= -1. 146,P>0. 05), HD 组较 DM
+表 4  各组大鼠骨组织骨代谢相关因子 mRNA 水平比较(x-± s, ×10)
+Tab 4  Comparison of mRNA expression of bone metabolic related factors(x-± s, ×10)
+组别
+Group
+鼠数
+n Cbfa1 OC RANKL OPG RANKL / OPG
+NC
+DM
+LD
+HD
+12
+10
+11
+13
+0. 71 ± 0. 13
+0. 59 ± 0. 14
+0. 56 ± 0. 12
+0. 52 ± 0. 14
+239. 2 ± 26. 6
+198. 4 ± 29. 5a
+212. 8 ± 32. 9
+225. 9 ± 30. 5
+5. 18 ± 0. 78
+3. 61 ± 0. 47a
+4. 37 ± 0. 83b
+5. 34 ± 0. 85cd
+41. 5 ± 5. 3
+32. 2 ± 5. 0a
+35. 2 ± 4. 2
+36. 2 ± 7. 0
+1. 26 ± 0. 18
+1. 15 ± 0. 26
+1. 26 ± 0. 24
+1. 58 ± 0. 60b
+注:NC:正常对照组 Normol control group;DM:糖尿病组 Diabetes group;LD:维生素 D 低剂量组 Low dose vitamin D treated group;HD:维生素 D 高剂
+量组 High dose vitamin D treated group; Cbfa1:核结合因子 1 Core binding factor α1;OC:骨钙素 Osteocalcin;RANKL:NF-κB 受体活化因子配体 Receptor
+activator nuclear factor κB ligand;OPG:护骨素 Osteoprotegerin;vs NC, aP<0. 01;vs DM, bP<0. 05, cP<0. 01;vs LD, dP<0. 01
+组显著升高、与 LD 组无差异(F = 3. 318,P<0. 05,表
+4)。
+讨    论
+维生素 D 一方面促进骨形成,另一方面又促进骨
+吸收[2],对于维持骨的正常代谢与矿化具有重要作
+用。 骨化三醇,即 1,25-(OH) 2D3,是维生素 D 生物活
+性的最高形式,通过靶器官的维生素 D 受体发挥作
+本研究结果显示,DM 组与 NC 组相比,24 h 尿钙
+显著升高,血钙、血磷水平无显著性差异,与相关报道
+一致[5,6]。 提示糖尿病时高血糖致渗透性利尿,使尿
+钙排出增多,同时高尿糖使肾小管对钙磷的重吸收减
+少。
+骨钙素是由成熟成骨细胞合成分泌的一种非胶原
+蛋白,主要功能为维持骨的正常矿化,血清中骨钙素水
+平的变化可直接反映成骨细胞功能,是骨转换和骨形
+成的特异性指标。 Cbfal 是间充质细胞向成骨细胞分
+化过程中必需的转录因子,是成骨细胞分化最早且最
+具特异性的标志。 NTX 是破骨细胞降解骨I型胶原
+的直接产物,是反映骨吸收的敏感指标。 RANKL、护
+骨素均由成骨细胞及骨髓基质细胞分泌,RANKL 可通
+过与前体破骨细胞或成熟破骨细胞表面的 NF-κB 受
+体活化因子(RANK)结合,促进破骨细胞分化,活化成
+熟破骨细胞,促进骨吸收;护骨素是 RANKL 的诱饵受
+体,可通过与 RANKL 竞争性结合,拮抗 RANKL 对破
+骨细胞的作用。 体内外实验研究证实,RANKL /护骨
+素比值更能反映破骨细胞的功能[7,8]。
+糖尿病大鼠呈低转换型骨量减少。 国内外大量研
+究显示,糖尿病大鼠骨形成不足,导致骨量下降和骨强
+度下降;但对骨吸收的变化报道不一[9-11]。 贾红蔚
+等[9]认为,糖尿病大鼠早期成骨活性下降,破骨活性
+增加,骨量迅速减少,晚期破骨活性亦减低。 本研究中
+DM 组调控成骨的 Cbfal 及骨形成标志物骨钙素较 NC
+组下降,骨吸收标志物 NTX 较 NC 组无显著变化,提
+示糖尿病大鼠骨形成减弱,骨吸收无明显变化。
+补充 1,25-(OH) 2D3后,糖尿病大鼠骨组织骨钙素
+mRNA 表达、血清骨钙素水平稍升高,且 HD 组较 LD
+组更明显。 本组研究发现糖尿病患者血清骨钙素
+水平较健康者下降,尤其是活性维生素 D 缺乏的糖尿
+病肾病患者[12]。 这些均提示 1,25-(OH) 2D3可与成骨
+细胞表面维生素 D 受体结合,激活多种信息途径,上
+调骨钙素基因表达,促进骨基质的形成和矿化[2]。 鉴
+于 LD、HD 组 Cbfal 表达较 DM 组无显著变化,推测
+1,25-(OH) 2D3主要通过增强糖尿病大鼠成骨细胞的
+功能,直接促进糖尿病大鼠骨的形成,且这种作用在高
+剂量时更为明显。 另外,1,25-(OH) 2D3还可通过抑制
+炎症反应、调节机体免疫、保护胰岛 β 细胞功能[13]、与
+肠黏膜细胞的维生素 D 受体结合等机制提高血钙浓
+度,为骨矿化提供原料,间接促进糖尿病大鼠骨的形
+成。 Drissi 等[14]发现 MC3T3 和 ROS 17 / 2. 8 细胞系经
+1,25-(OH) 2D3处理后,Cbfal 表达下调,这与本研究中
+1,25-(OH) 2D3对 Cbfal 表达的影响不一致,可能与骨
+化三醇用量及体内外环境不同有关。 目前关于 Cbfal
+基因受调控的机制仍不十分清楚,需进一步研究。
+本研 究 结 果 显 示, 补 充 1, 25-( OH ) 2 D3 后,
+RANKL /护骨素比值升高,且 HD 组差异显著。 因成熟
+的破骨细胞上无维生素 D 受体,1,25-(OH) 2D3对糖尿
+病大鼠骨吸收影响的可能机制为:(1)1,25-(OH) 2D3
+通过与前体破骨细胞维生素 D 受体结合,促进前体破
+骨细胞向成熟破骨细胞分化[15,16];(2)1,25-(OH) 2D3
+作用于成骨细胞,上调 RANKL /护骨素比值,促进破骨
+细胞的发育和募集[17,18]。 本研究发现 LD 组、HD 组
+RANKL、护骨素表达随维生素 D 剂量增加而升高,其
+中 RANKL 的变化与 RANKL /护骨素比值有更好的相
+关性, 进一步推测 1, 25-( OH) 2 D3 主要通过上调
+RANKL 而非下调护骨素表达,增强糖尿病大鼠的破骨
+作用。 本研究中各组骨吸收指标 NTX 无明显差异,可
+能 1,25-(OH) 2D3还通过其他途径调节破骨细胞功能。
+虽然没有达到统计学差异,但糖尿病大鼠在补充
+1,25-(OH) 2D3后,其骨组织骨钙素 mRNA 表达、血清
+骨钙素水平升高,同时 RANKL mRNA 明显升高,提示
+维生素 D 可能具有恢复糖尿病大鼠骨转换的作用。
+尤其在 HD 组,RANKL /护骨素 mRNA 的明显升高,也
+支持这一假设。 推测维生素 D 可通过上调骨组织骨
+钙素、RANKL 的表达维持糖尿病大鼠骨的正常代谢。
+本研究中 HE 染色显示 LD、HD 组较 DM 组骨小
+梁结构恢复,骨量增加,且 HD 组更为明显。 但由于没
+有骨密度数据,不能进一步探究 1,25-(OH) 2D3是否使
+糖尿病大鼠的骨丢失好转。 未检测骨密度是本研究的
+不足。
+综上所述,糖尿病大鼠骨形成减弱,维生素 D 可
+能通过上调骨钙素表达促进其骨的形成,并通过上调
+RANKL 表达增强破骨细胞的功能,恢复糖尿病大鼠骨
+转换,维持骨的正常代谢。

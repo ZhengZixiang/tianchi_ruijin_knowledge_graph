@@ -1,0 +1,73 @@
+T1	Drug 505 510	维生素 D
+T2	Drug 565 570	维生素 D
+T3	Drug 631 633;634 637	维生 素 D
+T4	Drug 677 682	维生素 D
+T5	Drug 776 781	维生素 D
+T6	Disease 460 464	骨质疏松
+T7	Disease 576 580	骨质疏松
+T8	Disease 621 625	骨质疏松
+T9	Disease 864 868	骨质疏松
+T10	Disease 1032 1036	骨质疏松
+T11	Disease 1125 1129	骨质疏松
+T12	Test 527 530	骨密度
+T13	Test 701 704	骨密度
+T14	Drug 34 39	阿仑膦酸钠
+T15	Drug 83 88	阿仑膦酸钠
+T16	Drug 126 131	阿仑膦酸钠
+T17	Test 150 156	25-OHD
+T18	Test 352 358	25-OHD
+T19	Test_Value 359 372	< 50 nmol / L
+T20	Disease 474 477	糖尿病
+T21	Disease 465 471;472 473	骨质疏松性骨 折
+T22	Disease 478 484	心脑血管疾病
+T23	Disease 485 487	肿瘤
+T24	Disease 533 535	骨折
+T25	Drug 563 564	钙
+T26	Drug 587 591	双膦酸盐
+T27	Drug 594 600	骨吸收抑制剂
+T28	Drug 615 619	双膦酸盐
+T29	Disease 606 608;609 612	骨质 疏松症
+T30	Test 705 708	骨生化
+T31	Drug 751 756	阿仑膦酸盐
+T32	Drug 770 775	阿仑膦酸盐
+T33	Test_Value 837 850	超过 20 ng / ml
+T34	Test_Value 851 853;854 862	50 nmol / L
+T35	Drug 877 881;882 883	阿仑膦酸 盐
+T36	Test 905 911	25-OHD
+T37	Test_Value 914 927	低于 20 ng / ml
+T38	Test_Value 963 976	高于 25 ng / ml
+T39	Test_Value 978 983;984 992	62. 5 nmol / L
+T40	Drug 995 999	双膦酸盐
+T41	Test 1038 1040;1041 1047	血清 25-OHD
+T42	Test_Value 1055 1066	75 nmol / L
+T43	Drug 1133 1137	双膦酸盐
+T44	Test 1145 1146;1147 1155	血 清 25-OHD
+T45	Drug 1166 1170	双膦酸盐
+T46	Test 1010 1013;1014 1016	腰椎骨 密度
+T47	Test 91 94;95 101	维生素 D 血清水平
+T48	Symptom 282 285;286 290	维生素 D 不足
+T49	Test_Value 525 527	升高
+T50	Test_Value 810 816	下降更为明显
+T51	Test_Value 795 799	没有升高
+T52	Test_Value 1008 1010	升高
+T53	Test_Value 1122 1124	低下
+T54	Test 42 52	维生素 D 血清水平
+T55	Test 719 725	血清 PTH
+T56	Test 787 788;789 794	血 清 PTH
+T57	Disease 117 120;121 122	骨质疏 松
+T58	Disease 238 242	骨质疏松
+T59	Disease 518 522	骨质疏松
+T60	Disease 757 762;763 765	绝经后骨质 疏松
+T61	Test 136 148	血清 25-羟维生素 D
+T62	Test_Value 165 176	50 nmol / L
+T63	Disease 341 346;347 349	维生素 D 缺乏
+T64	Test_Value 380 393	50 nmol / L ≤
+T65	Test 394 400	25-OHD
+T66	Test_Value 400 413	< 75 nmol / L
+T67	Reason 451 459	维生素 D 不足
+T68	Disease 709 710;711 712	骨 折
+T69	Test 800 809	骨吸收指标 CTX
+T70	Test 825 837	基线 25-OHD 水平
+T71	Test 888 894	血清 CTX
+T72	Test 951 960	血清 25-OHD
+T73	Test 1073 1082	血清 25-OHD

@@ -1,0 +1,192 @@
+T1	Disease 109 115	1 型糖尿病
+T2	Disease 1401 1407	1 型糖尿病
+T3	Test 682 687	HBA1C
+T4	Test 1065 1070	HBA1C
+T5	Test 1913 1918	HBA1C
+T6	Test 1029 1033	空腹血糖
+T7	Test 624 626	尿酮
+T8	Test 1019 1021	尿酮
+T9	Test 1126 1131	甲状腺功能
+T10	Anatomy 1795 1799	β 细胞
+T11	Test 993 997	随机血糖
+T12	Disease 454 456	不孕
+T13	Symptom 589 591	腹痛
+T14	Symptom 593 597	恶心呕吐
+T15	Symptom 598 602	神志恍惚
+T16	Test 609 611	血糖
+T17	Test_Value 612 623	32 mmol / L
+T18	Test_Value 628 639	15 mmol / L
+T19	Test 641 644	C 肽
+T20	Test_Value 645 650;651 657	0. 01 ng / L
+T21	Test 658 668	餐后 2 h C 肽
+T22	Test_Value 669 681	0. 02 ng / L
+T23	Test_Value 688 693	6. 5%
+T24	Test 695 699	胰淀粉酶
+T25	Test_Value 700 706;707 712	358. 3 U / L
+T26	Test 713 716	脂肪酶
+T27	Test_Value 716 726	>300 U / L
+T28	Test 727 731	血 pH
+T29	Test_Value 732 737	7. 27
+T30	Disease 740 748	糖尿病酮症酸中毒
+T31	Disease 749 750;751 755	急 性胰腺炎
+T32	Drug 758 761	胰岛素
+T33	Drug 802 807	门冬胰岛素
+T34	Amount 808 812	12 U
+T35	Drug 816 821	地特胰岛素
+T36	Amount 822 826	15 U
+T37	Method 827 831	皮下注射
+T38	Test 840 842	血糖
+T39	Test 843 847	血淀粉酶
+T40	Disease 890 893	糖尿病
+T41	Disease 899 909	上呼吸道及消化道感染
+T42	Test 924 926	血压
+T43	Test_Value 927 940	120 / 75 mmHg
+T44	Test_Value 998 1012	23. 4 mmol / L
+T45	Test 1013 1015	尿糖
+T46	Test_Value 1016 1018	4+
+T47	Test_Value 1023 1025	4+
+T48	Test_Value 1034 1049	15. 54 mmol / L
+T49	Test 1050 1054	血淀粉酶
+T50	Test_Value 1055 1064	190 U / L
+T51	Test_Value 1071 1077	7. 10%
+T52	Test 1135 1139	腹部超声
+T53	Test 1141 1143	CT
+T54	Test 1165 1167	血糖
+T55	Amount 1174 1178	90 U
+T56	Test 1184 1185;1186 1187	血 糖
+T57	Test 1190 1194	血淀粉酶
+T58	Test 1203 1205	血糖
+T59	Test 1237 1243	空腹 C 肽
+T60	Test_Value 1244 1249;1250 1257	0. 33 ng / ml
+T61	Test 1258 1265	2 h C 肽
+T62	Test_Value 1266 1279	0. 46 ng / ml
+T63	Test_Value 1288 1296	44 U / d
+T64	Test 1334 1336	血糖
+T65	Test 1344 1347	ICA
+T66	Test 1348 1351	IAA
+T67	Test 1353 1356	GAD
+T68	Test 1360 1366	空腹 C 肽
+T69	Symptom 1427 1429	腹痛
+T70	Test 1443 1445	血糖
+T71	Test 1456 1458	胰酶
+T72	Test 1464 1466	超声
+T73	Test 1468 1470	CT
+T74	Disease 1482 1485	胰腺炎
+T75	Disease 1493 1498	重症胰腺炎
+T76	Anatomy 1500 1502	胰岛
+T77	Test 1515 1518	淀粉酶
+T78	Test 1519 1522	脂肪酶
+T79	Anatomy 1533 1535	胰腺
+T80	Disease 1549 1554	急性胰腺炎
+T81	Disease 1557 1562	继发糖尿病
+T82	Disease 1564 1573	暴发 1 型糖尿病
+T83	Test 1701 1704	病理学
+T84	Anatomy 1757 1763	胰腺外分泌部
+T85	Anatomy 1765 1767	心肌
+T86	Anatomy 1768 1770	肾脏
+T87	Test 1846 1852	空腹 C 肽
+T88	Test 1868 1878	餐后 2 h C 肽
+T89	Disease 1941 1944	FDM
+T90	Disease 1963 1966	FDM
+T91	Drug 2003 2007	克罗米芬
+T92	Disease 2009 2013	高脂血症
+T93	Disease 2016 2020;2021 2022	急性胰腺 炎
+T94	Anatomy 2062 2068	胰腺内分泌腺
+T95	Disease 2074 2077	FDM
+T96	Disease 2114 2119;2120 2121	1 型糖尿 病
+T97	Disease 2122 2129	系统性红斑狼疮
+T98	Disease 2130 2136	抗磷脂综合征
+T99	Disease 2172 2177;2178 2179	1 型糖尿 病
+T100	Disease 2216 2219	FDM
+T101	Disease 2230 2233	FDM
+T102	Test 2290 2292	血糖
+T103	Disease 2298 2301	FDM
+T104	Test 75 80	心血管功能
+T105	Treatment 100 105	促排卵治疗
+T106	Treatment 761 763	降糖
+T107	Treatment 764 766	补液
+T108	Treatment 767 769	纠酮
+T109	Treatment 1179 1183	补液纠酮
+T110	Treatment 2102 2107	促排卵治疗
+T111	Treatment 2281 2286	促排卵治疗
+T112	Test_Value 530 543	1 200 pg / ml
+T113	Test_Value 547 563	2 161. 2 pg / ml
+T114	Duration 441 445	11 天
+T115	Test_Value 1122 1124	阴性
+T116	Test_Value 1357 1359	阴性
+T117	Test_Value 1852 1857;1858 1866	<0. 1 nmol / L
+T118	Test_Value 1878 1893	<0. 17 nmol / L
+T119	Test_Value 1898 1910	>16 mmol / L
+T120	Test_Value 1918 1924	<8. 5%
+T121	Anatomy 2036 2042	磷酸激酶 C
+T122	Reason 1978 1980	遗传
+T123	Reason 1989 1991	妊娠
+T124	Test_Value 1366 1374	极低且餐后无反应
+T125	Test_Value 1336 1343	短期内极速升高
+T126	Test_Value 774 779;780 782	迅速下降至 正常
+T127	Symptom 960 962	神清
+T128	Symptom 964 967	精神可
+T129	Symptom 968 972	咽无红肿
+T130	Test 973 975	心肺
+T131	Symptom 979 982	全腹软
+T132	Symptom 983 986	无压痛
+T133	Symptom 1642 1645;1646 1647	病情凶 险
+T134	Symptom 1648 1652	进展迅猛
+T135	Disease 1811 1814	FDM
+T136	Symptom 432 434	口渴
+T137	Symptom 434 436	多饮
+T138	Symptom 436 438	多尿
+T139	Symptom 438 440	乏力
+T140	Drug 473 477	克罗米芬
+T141	Drug 478 486;487 488	人绒毛膜促性腺激 素
+T142	Test 519 521;522 523	雌二 醇
+T143	Symptom 577 579	口渴
+T144	Symptom 579 581	多饮
+T145	Symptom 581 583	多尿
+T146	Symptom 583 585	乏力
+T147	Test 770 774	血淀粉酶
+T148	Symptom 786 790	腹痛缓解
+T149	Method 799 802	三餐前
+T150	Method 814 816	早晚
+T151	Test_Value 853 867	17. 9 mmol / L
+T152	Test_Value 870 882	245. 2 U / L
+T153	Test 1080 1086	胰岛细胞抗体
+T154	Test 1088 1091	ICA
+T155	Test 1093 1100	胰岛素自身抗体
+T156	Test 1102 1105	IAA
+T157	Test 1107 1113;1114 1121	谷氨酸脱羧酶 (GAD)抗体
+T158	Test_Value 1145 1147;1148 1154	胰腺 未见明显异常
+T159	Drug 1159 1163	胰岛素泵
+T160	Drug 1280 1283	胰岛素
+T161	Disease 1307 1313	1 型糖尿病
+T162	Disease 1315 1320	酮症酸中毒
+T163	Test 1379 1383	胰岛功能
+T164	Test 1430 1434	胰淀粉酶
+T165	Test 1435 1438	脂肪酶
+T166	Test_Value 1438 1440	升高
+T167	Symptom 1451 1455	腹痛消失
+T168	Test_Value 1473 1479	胰腺未见异常
+T169	Disease 1505 1508;1509 1511	继发糖 尿病
+T170	Disease 1605 1608;1609 1615	特发性 1 型糖尿病
+T171	Symptom 1653 1666	胰岛 β 细胞功能迅速丧失
+T172	Symptom 1669 1674	严重高血糖
+T173	Symptom 1675 1676;1677 1681	胰 岛素缺乏
+T174	Symptom 1682 1690	电解质、酸碱失衡
+T175	Symptom 1691 1699	致死性酮症酸中毒
+T176	Test_Value 1707 1720	胰腺外分泌部有淋巴细胞浸润
+T177	Test_Value 1722 1728	无坏死和出血
+T178	Disease 1729 1733;1734 1735	急性胰腺 炎
+T179	Test 1742 1748	β 细胞功能
+T180	Symptom 1826 1829	高血糖
+T181	Symptom 1837 1839	酮症
+T182	Symptom 1840 1845	酮症酸中毒
+T183	Test 1896 1898	血糖
+T184	Reason 1981 1983	感染
+T185	Reason 1984 1988	自身免疫
+T186	Anatomy 2046 2049	胰岛素
+T187	Treatment 2142 2145	促排卵
+T188	Drug 2152 2155	雌二醇
+T189	Disease 2160 2166	自身免疫紊乱
+T190	Drug 2192 2206	克罗米芬-人绒毛膜促性腺激素
+T191	Test 2234 2238	胰岛功能
+T192	Drug 2250 2256	外源性胰岛素

@@ -1,0 +1,330 @@
+T1	Disease 2765 2771	2 型糖尿病
+T2	Test 2633 2638	HDL-C
+T3	Test 4043 4048	HDL-C
+T4	Test 4036 4041	LDL-C
+T5	Test 226 230	空腹血糖
+T6	Test 2740 2744	空腹血糖
+T7	Test 4011 4015	空腹血糖
+T8	Test 4426 4430	空腹血糖
+T9	Disease 46 51	代谢综合征
+T10	Disease 52 56	骨质疏松
+T11	Disease 101 106	代谢综合征
+T12	Test 137 141	人体指标
+T13	Test 142 147	血生化指标
+T14	Test 148 155	骨密度 T 值
+T15	Test 156 159	Z 值
+T16	Test 160 169	骨特异性碱性磷酸酶
+T17	Test 170 173	骨钙素
+T18	Test 174 179	甲状旁腺素
+T19	Disease 182 183;184 188	代 谢综合征
+T20	Disease 196 200	骨质疏松
+T21	Disease 207 209	MS
+T22	Disease 108 110	MS
+T23	Test 211 213	体重
+T24	Test 214 218	体重指数
+T25	Test 219 221	腰围
+T26	Test 222 225	腰臀比
+T27	Test 231 233;234 235	收缩 压
+T28	Test 236 239	舒张压
+T29	Test 240 244	甘油三酯
+T30	Test 245 248	胆固醇
+T31	Test 249 255	低密度脂蛋白
+T32	Test 256 261	甲状旁腺素
+T33	Test 281 287	高密度脂蛋白
+T34	Test 289 296	骨密度 T 值
+T35	Test 297 300	Z 值
+T36	Test 301 304	骨钙素
+T37	Test 333 339	骨碱性磷酸酶
+T38	Disease 381 385	骨质疏松
+T39	Disease 437 442	代谢综合征
+T40	Disease 2026 2035	代 谢 综 合 征
+T41	Disease 2058 2060	MS
+T42	Disease 2071 2076	代谢综合征
+T43	Disease 2080 2082	肥胖
+T44	Disease 2084 2087	高血糖
+T45	Disease 2088 2091	高血压
+T46	Disease 2092 2097	高甘油三酯
+T47	Disease 2118 2120	肥胖
+T48	Disease 2143 2145	骨折
+T49	Disease 2158 2163	中心性肥胖
+T50	Disease 2169 2170;2171 2174	骨 质疏松
+T51	Disease 2187 2192	代谢综合征
+T52	Reason 2184 2186	肥胖
+T53	Disease 2205 2207	肥胖
+T54	Disease 2210 2215	代谢综合征
+T55	Disease 2216 2220	骨质疏松
+T56	Disease 2253 2258	代谢综合征
+T57	Test 2263 2267	人体指标
+T58	Test 2268 2272	生化指标
+T59	Test 2273 2276	骨密度
+T60	Disease 2287 2289;2290 2293	代谢 综合征
+T61	Disease 2301 2305	骨质疏松
+T62	Disease 2357 2362	代谢综合征
+T63	Disease 2506 2511	代谢综合征
+T64	Disease 2553 2558	中心性肥胖
+T65	Test 2561 2563	腰围
+T66	Test 2593 2597	甘油三酯
+T67	Test 2623 2632	高密度脂蛋白胆固醇
+T68	Test 2683 2686	收缩压
+T69	Test 2717 2720	舒张压
+T70	Disease 2788 2793	中心性肥胖
+T71	Disease 2794 2801	高甘油三酯血症
+T72	Disease 2802 2803;2804 2812	低 HDL-C 血症
+T73	Disease 2813 2816	高血压
+T74	Disease 2817 2822	糖代谢异常
+T75	Test 2871 2873	身高
+T76	Test 2874 2876	体重
+T77	Test 2877 2879	腰围
+T78	Test 2880 2881;2882 2883	臀 围
+T79	Test 2884 2886	血压
+T80	Test 2887 2889	心率
+T81	Test 2893 2895	腰围
+T82	Test 2896 2898	臀围
+T83	Test 2909 2911	血压
+T84	Test 2922 2924	腰围
+T85	Anatomy 2925 2929	髂前上嵴
+T86	Anatomy 2930 2938	第 12 肋下缘
+T87	Test 2949 2951	臀围
+T88	Anatomy 2952 2954	臀部
+T89	Test 4016 4020	甘油三酯
+T90	Test 4021 4023;4024 4025	胆固 醇
+T91	Test 4026 4035	低密度脂蛋白胆固醇
+T92	Test 4049 4054	肝、肾功能
+T93	Test 4073 4078	甲状旁腺素
+T94	Test 4120 4123	骨钙素
+T95	Test 4150 4155	甲状旁腺素
+T96	Test 4179 4184	B-ALP
+T97	Test 4386 4390	代谢组分
+T98	Test 4391 4394	骨密度
+T99	Test 4395 4404	骨代谢人体测量指标
+T100	Disease 4407 4409	MS
+T101	Test 4411 4413	体重
+T102	Test 4414 4418	体重指数
+T103	Test 4419 4421	腰围
+T104	Test 4422 4425	腰臀比
+T105	Test 4431 4434	收缩压
+T106	Test 4435 4438	舒张压
+T107	Test 4439 4440;4441 4444	甘 油三酯
+T108	Test 4445 4448	胆固醇
+T109	Test 4449 4455	低密度脂蛋白
+T110	Test 4456 4461	甲状旁腺素
+T111	Test 4482 4488	高密度脂蛋白
+T112	Test 4489 4496	骨密度 T 值
+T113	Test 4497 4500	Z 值
+T114	Test 4501 4504	骨钙素
+T115	Test 4534 4540	骨碱性磷酸酶
+T116	Test 4560 4567	骨密度 T 值
+T117	Disease 4568 4573	代谢综合征
+T118	Test 4644 4645;4646 4647	腰 围
+T119	Test 4672 4675	收缩压
+T120	Test 4702 4703;4704 4707	甘 油三酯
+T121	Disease 4734 4739	代谢综合征
+T122	Test 4766 4773	骨密度 T 值
+T123	Test 4777 4781	体重指数
+T124	Test 4808 4815	骨密度 T 值
+T125	Disease 4851 4854;4855 4857	代谢综 合征
+T126	Test 4858 4862	体重指数
+T127	Test 4863 4865	腰围
+T128	Test 4866 4869	腰臀比
+T129	Test 4870 4873	收缩压
+T130	Test 4874 4878	甘油三酯
+T131	Disease 4887 4891	骨质疏松
+T132	Disease 4928 4932	骨质疏松
+T133	Disease 4943 4947	骨质疏松
+T134	Disease 4961 4963	肥胖
+T135	Disease 4964 4969	胰岛素抵抗
+T136	Disease 4970 4975	代谢综合征
+T137	Disease 4991 4993	肥胖
+T138	Disease 4994 4996	超重
+T139	Anatomy 5014 5018	成骨细胞
+T140	Test 5051 5054	骨密度
+T141	Anatomy 5081 5085	成骨细胞
+T142	Anatomy 5090 5094	脂肪细胞
+T143	Disease 5107 5111	腹型肥胖
+T144	Symptom 5115 5118	高瘦素
+T145	Symptom 5119 5123	高胰岛素
+T146	Symptom 5124 5128	低度炎症
+T147	Disease 5136 5138	肥胖
+T148	Disease 5139 5140;5141 5144	骨 质疏松
+T149	Anatomy 5213 5217	脂肪细胞
+T150	Anatomy 5218 5219;5220 5223	成 骨细胞
+T151	Disease 5238 5240	肥胖
+T152	Anatomy 5250 5254	脂肪细胞
+T153	Anatomy 5263 5268	间充质细胞
+T154	Anatomy 5299 5304	间充质细胞
+T155	Anatomy 5305 5309	脂肪细胞
+T156	Anatomy 5319 5325	骨髓脂肪组织
+T157	Anatomy 5330 5334	成骨细胞
+T158	Test 5339 5342	骨密度
+T159	Disease 5399 5403	腹型肥胖
+T160	Symptom 5411 5414	高血脂
+T161	Test 5425 5427	腰围
+T162	Test 5428 5431	腰臀比
+T163	Disease 5432 5436	腹型肥胖
+T164	Test 5440 5442	腰围
+T165	Test 5443 5446	腰臀比
+T166	Disease 5478 5482	骨质疏松
+T167	Reason 5468 5471	腰臀比
+T168	Disease 5492 5496	骨质疏松
+T169	Disease 5513 5515	肥胖
+T170	Anatomy 5539 5541	脂肪
+T171	Anatomy 5549 5551	肌肉
+T172	Anatomy 5552 5554	骨骼
+T173	Test 5595 5598	骨密度
+T174	Test 5600 5607	骨密度 T 值
+T175	Disease 5627 5634	骨质疏松性骨折
+T176	Disease 5650 5655	代谢综合征
+T177	Disease 5668 5669;5670 5676	骨 质疏松性骨折
+T178	Disease 5694 5696	MS
+T179	Disease 5710 5717	骨质疏松性骨折
+T180	Disease 5733 5735	MS
+T181	Disease 5758 5762	腹型肥胖
+T182	Anatomy 5769 5771	肌肉
+T183	Anatomy 5772 5774	骨骼
+T184	Test 5827 5830	骨密度
+T185	Disease 5842 5846	骨质疏松
+T186	Anatomy 5851 5855	成骨细胞
+T187	Anatomy 5860 5864	破骨细胞
+T188	Disease 5887 5891	骨质疏松
+T189	Test 5913 5916	骨钙素
+T190	Test 5918 5923	B-ALP
+T191	Anatomy 5948 5952	成骨细胞
+T192	Test 5958 5963	甲状旁腺素
+T193	Anatomy 5969 5973	破骨细胞
+T194	Disease 5979 5981	MS
+T195	Test 5983 5984;5985 5989	甲 状旁腺素
+T196	Disease 5996 6001	代谢综合征
+T197	Anatomy 6003 6007	破骨细胞
+T198	Test 6023 6026	骨钙素
+T199	Anatomy 6027 6031	成骨细胞
+T200	Disease 6058 6060	MS
+T201	Anatomy 6062 6066	成骨细胞
+T202	Test 6090 6093	骨钙素
+T203	Test 6095 6100	B-ALP
+T204	Test 6113 6116	骨钙素
+T205	Test 6118 6123	B-ALP
+T206	Anatomy 6125 6129	成骨细胞
+T207	Disease 6152 6157	代谢综合征
+T208	Anatomy 6237 6241	成骨细胞
+T209	Anatomy 6242 6246	破骨细胞
+T210	Disease 6274 6279	代谢综合征
+T211	Anatomy 6290 6292	脂肪
+T212	Anatomy 6300 6302	肌肉
+T213	Anatomy 6303 6305	骨骼
+T214	Test 6310 6314	体重指数
+T215	Test 6267 6270	骨密度
+T216	Anatomy 5751 5753	脂肪
+T217	Test 3426 3435	高密度脂蛋白胆固醇
+T218	Test 3447 3456	低密度脂蛋白胆固醇
+T219	Test 3394 3398	总胆固醇
+T220	Test 3059 3063	体重指数
+T221	Test 3378 3382	空腹血糖
+T222	Test 3094 3097	收缩压
+T223	Test 3368 3371	舒张压
+T224	Test 3090 3093	腰臀比
+T225	Test 3074 3076	腰围
+T226	Test 3082 3084	臀围
+T227	Disease 2543 2548	代谢综合征
+T228	Disease 2996 3001	代谢综合征
+T229	Disease 3226 3231	代谢综合征
+T230	Disease 3573 3578	代谢综合征
+T231	Disease 3847 3852	代谢综合征
+T232	Test 3410 3414	甘油三酯
+T233	Test 3707 3710	骨钙素
+T234	Test 3044 3046	身高
+T235	Test 3051 3053	体重
+T236	Anatomy 5189 5193	IL-6
+T237	Test 3014 3017	骨密度
+T238	Test 4254 4257	骨密度
+T239	Test 5382 5385	骨密度
+T240	Test 5589 5592	骨密度
+T241	Test 5702 5705	骨密度
+T242	Disease 191 195	代谢异常
+T243	Disease 361 365	代谢异常
+T244	Symptom 2131 2134	骨丢失
+T245	Test 4574 4579	各代谢组份
+T246	Symptom 5009 5012	骨丢失
+T247	Reason 5229 5235	脂肪堆积过多
+T248	Reason 5504 5505;5506 5511	脂 肪堆积过多
+T249	Symptom 5534 5537	骨丢失
+T250	Symptom 5578 5581	骨丢失
+T251	Symptom 5657 5662	骨强度下降
+T252	Reason 5873 5881	骨吸收大于骨形成
+T253	Symptom 6261 6264	骨丢失
+T254	Test_Value 2135 2136	低
+T255	Test 4587 4589	年龄
+T256	Test 4615 4617	性别
+T257	Test 4845 4847	年龄
+T258	Test 4848 4850	性别
+T259	Anatomy 5034 5036	骨骼
+T260	Test_Value 5054 5056	增加
+T261	Anatomy 5162 5165	IGF
+T262	Anatomy 5176 5180	LEPR
+T263	Anatomy 5201 5207	PPAR-γ
+T264	Anatomy 5169 5174	IGF-2
+T265	Test_Value 5446 5448	升高
+T266	Reason 5472 5476	甘油三酯
+T267	Test_Value 5700 5701	低
+T268	Test 5897 5907	骨形成和骨吸收标志物
+T269	Test 5932 5938	骨形成标志物
+T270	Test 6034 6040	矿物质沉积率
+T271	Test 6069 6074;6075 6076	矿物质沉积 率
+T272	Reason 6174 6176	血脂
+T273	Reason 6177 6179	血压
+T274	Anatomy 5071 5076;5077 5078	PPAR- γ
+T275	Test_Value 6314 6316	降低
+T276	Test_Value 5991 5993	增高
+T277	Test_Value 5943 5945	升高
+T278	Test_Value 5965 5967	增高
+T279	Anatomy 5373 5379	PPAR-γ
+T280	Disease 352 357	代谢综合征
+T281	Test 370 372	骨量
+T282	Test 373 376	骨强度
+T283	Test_Value 377 379	下降
+T284	Reason 395 396;397 400	甘 油三酯
+T285	Reason 401 404	腰臀比
+T286	Disease 405 409	骨质疏松
+T287	Reason 417 421	体重指数
+T288	Disease 444 449	骨质疏松症
+T289	Disease 451 454	肥胖症
+T290	Disease 2098 2105	低高密度脂蛋白
+T291	Test 2164 2166	骨量
+T292	Test_Value 2166 2168	减少
+T293	Test 2277 2283	相关骨代谢指
+T294	Disease 2294 2300	相关代谢异常
+T295	Test_Value 2563 2564;2565 2570	≥ 90 cm
+T296	Test_Value 2573 2579	≥80 cm
+T297	Test_Value 2598 2603;2604 2612	>1. 7 mmol / L
+T298	Test_Value 2640 2641;2642 2656	< 1. 03 mmol / L
+T299	Test_Value 2659 2674	<1. 29 mmol / L
+T300	Test_Value 2686 2690;2691 2695	≥130 mmHg
+T301	Test_Value 2720 2728	≥85 mmHg
+T302	Test_Value 2744 2758	≥5. 6 mmol / L
+T303	Test 4067 4072	血清骨钙素
+T304	Test 4079 4082;4083 4086	骨碱性 磷酸酶
+T305	Test 4087 4092	B-ALP
+T306	Test 4263 4268	指骨骨密度
+T307	Reason 4918 4920;4921 4922	腰臀 比
+T308	Reason 4923 4927	甘油三酯
+T309	Reason 4938 4942	体重指数
+T310	Anatomy 5152 5160	胰岛素样生长因子
+T311	Anatomy 5181 5188	白细胞介素 6
+T312	Anatomy 5195 5200	TNF-α
+T313	Reason 5404 5410	脂肪堆积过多
+T314	Test 5417 5419;5420 5421	骨密 度
+T315	Test_Value 5421 5423	下降
+T316	Symptom 5454 5460	脂肪堆积过多
+T317	Reason 5487 5491	体重指数
+T318	Test 5516 5519	骨密度
+T319	Test_Value 5519 5521	降低
+T320	Symptom 5563 5568	骨密度增加
+T321	Symptom 5740 5744	骨密度低
+T322	Reason 6171 6173	肥胖
+T323	Reason 6180 6186	血糖代谢异常
+T324	Reason 6206 6209	胰岛素
+T325	Reason 6210 6212	瘦素
+T326	Reason 6213 6218	甲状旁腺素
+T327	Reason 6219 6226	白细胞介素-6
+T328	Symptom 5779 5784	高体重指数
+T329	Test 2136 2139;2140 2141	体重指 数
+T330	Symptom 5030 5033	高体重

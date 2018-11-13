@@ -1,0 +1,252 @@
+T1	Test 1289 1294	甲状腺功能
+T2	Test 869 871	体重
+T3	Test 1754 1757	心电图
+T4	Drug 14 18	舒尼替尼
+T5	Disease 24 31	低分化甲状腺癌
+T6	Disease 397 404	低分化甲状腺癌
+T7	Drug 441 445	舒尼替尼
+T8	Treatment 491 497	分子靶向治疗
+T9	Test 559 563	术后病理
+T10	Disease 620 626	桥本甲状腺炎
+T11	Test 627 629;630 632	免疫 组化
+T12	Treatment 687 690	放化疗
+T13	Treatment 693 698	中草药治疗
+T14	Treatment 762 766	中药治疗
+T15	Symptom 792 796	皮肤破溃
+T16	Symptom 797 800;801 802	溃疡形 成
+T17	Symptom 820 824	声音嘶哑
+T18	Disease 889 896	甲状腺功能减低
+T19	Drug 900 905	甲状腺素片
+T20	Disease 923 926	糖尿病
+T21	Test 940 942	血糖
+T22	Symptom 968 972	声音嘶哑
+T23	Symptom 973 977	强迫坐位
+T24	Test 1217 1221	凝血时间
+T25	Test 1222 1230	血浆凝血酶原时间
+T26	Test 1231 1238;1239 1242	活化部分凝血活 酶时间
+T27	Test 1766 1768	心率
+T28	Test_Value 1769 1780	106 次 / min
+T29	Disease 1861 1864	肺转移
+T30	Test 1871 1881;1882 1890	甲状腺及肺肿瘤细针穿 刺活组织病理检查
+T31	Test 1891 1895	基因检测
+T32	Disease 1962 1969	分化型甲状腺癌
+T33	Drug 1993 1997	舒尼替尼
+T34	Disease 2334 2341	低分化甲状腺癌
+T35	Disease 2342 2346	甲状腺癌
+T36	Disease 2357 2360	DTC
+T37	Treatment 2482 2484	放疗
+T38	Treatment 2485 2487	化疗
+T39	Drug 2551 2555	舒尼替尼
+T40	Drug 2572 2576	舒尼替尼
+T41	Drug 2785 2789	舒尼替尼
+T42	Drug 2889 2893	舒尼替尼
+T43	Amount 2894 2903	50 mg / d
+T44	Disease 2944 2947	分化癌
+T45	Drug 3027 3028;3029 3032	舒 尼替尼
+T46	Disease 3056 3060	甲状腺癌
+T47	Drug 3291 3295	舒尼替尼
+T48	Disease 3298 3301	DTC
+T49	Drug 3340 3344	索拉非尼
+T50	Disease 3570 3577	碘抵抗 DTC
+T51	Drug 3607 3611	索拉非尼
+T52	Drug 3612 3616	舒尼替尼
+T53	Disease 3619 3622	DTC
+T54	Drug 3650 3654	舒尼替尼
+T55	Drug 3673 3677	舒尼替尼
+T56	Drug 3681 3685	索拉非尼
+T57	Disease 3689 3692	DTC
+T58	Drug 3707 3711	舒尼替尼
+T59	Drug 3780 3784	舒尼替尼
+T60	Drug 3814 3818	舒尼替尼
+T61	Disease 3877 3884	低分化甲状腺癌
+T62	Drug 3896 3900	舒尼替尼
+T63	Drug 3922 3926	舒尼替尼
+T64	Disease 3928 3935	低分化甲状腺癌
+T65	Test 3941 3944;3945 3950	甲状腺 癌基因检测
+T66	Test 3980 3988	肿瘤组织基因检测
+T67	Drug 4011 4015	舒尼替尼
+T68	Operation 4064 4067;4068 4072	甲状腺 癌切除术
+T69	Operation 4078 4083	甲状腺全切
+T70	Treatment 4088 4091	放化疗
+T71	Drug 4105 4110	甲状腺素片
+T72	Drug 4114 4120	左旋甲状腺素
+T73	Disease 4150 4153;4154 4155	甲状腺 癌
+T74	Disease 2867 2870	DTC
+T75	Disease 677 681	良性病变
+T76	Method 898 900	口服
+T77	Disease 950 957	家族肿瘤性疾病
+T78	Test 963 967	体格检查
+T79	Test 1065 1068	血常规
+T80	Test 1165 1168	血生化
+T81	Test 1212 1216	凝血功能
+T82	Test 1523 1528	肿瘤标志物
+T83	Test 1686 1693	血 气 分 析
+T84	Level 1901 1903	危重
+T85	Operation 1908 1909;1910 1911	手 术
+T86	Treatment 1920 1922	放疗
+T87	Symptom 2291 2293	乏力
+T88	Operation 2366 2368	手术
+T89	Disease 2456 2458	肿瘤
+T90	Level 2470 2472	危重
+T91	Operation 2477 2479	手术
+T92	Disease 2507 2509	肿瘤
+T93	Anatomy 2605 2607;2608 2620	小分 子多靶点酪氨酸激酶抑制剂
+T94	Disease 2630 2632	肿瘤
+T95	Disease 2757 2759	肿瘤
+T96	Disease 2782 2784	肿瘤
+T97	Test 2801 2806	FIT3)
+T98	Symptom 3170 3172	乏力
+T99	Symptom 3173 3179	手-足综合征
+T100	Disease 3730 3732	肿瘤
+T101	Disease 3821 3823	肿瘤
+T102	Treatment 4095 4096;4097 4102	激 素抑制治疗
+T103	Test 633 638	TTF-1
+T104	Test_Value 639 640	+
+T105	Test 642 644	Tg
+T106	Test_Value 645 646	+
+T107	Test 648 652	CK19
+T108	Test_Value 653 654	+
+T109	Test 656 660	Ki67
+T110	Test_Value 663 667	<70%
+T111	Symptom 852 855	进食少
+T112	Symptom 856 862	排尿、排便可
+T113	Duration 928 931	3 年
+T114	Test_Value 1093 1104	3. 5 ~ 9. 5
+T115	Test_Value 1123 1132	115 ~ 150
+T116	Test_Value 1150 1159	125 ~ 325
+T117	Test_Value 1187 1198	3. 9 ~ 6. 1
+T118	Test_Value 1313 1324	1. 3 ~ 3. 1
+T119	Test_Value 1274 1283	0 ~ 0. 55
+T120	Test_Value 1346 1354	66 ~ 181
+T121	Test_Value 1375 1386	3. 1 ~ 6. 8
+T122	Test_Value 1409 1416	12 ~ 22
+T123	Test_Value 1437 1449	0. 27 ~ 4. 2
+T124	Test_Value 1473 1484	1. 4 ~ 7. 8
+T125	Test_Value 1591 1600	0 ~ 16. 3
+T126	Test_Value 1668 1676	0 ~ 3. 3
+T127	Test_Value 1628 1633	0 ~ 2
+T128	Anatomy 2021 2024	7 d
+T129	Symptom 2038 2044	可半卧位入睡
+T130	Duration 2063 2067	1 个月
+T131	Duration 2083 2087	3 个月
+T132	Test 2140 2143	白细胞
+T133	Test_Value 2143 2145;2146 2148	明显 下降
+T134	Test 2179 2182	血小板
+T135	Anatomy 2641 2648	受体酪氨酸激酶
+T136	Anatomy 2661 2665;2666 2681	血管内皮 生长因子受体(VEGFR)-1
+T137	Anatomy 2682 2689	VEGFR-2
+T138	Anatomy 2690 2697	VEGFR-3
+T139	Anatomy 2698 2704;2705 2719	血小板衍生生 长因子受体(PDGFR)-α
+T140	Anatomy 2722 2729	PDGFR-β
+T141	Anatomy 2730 2735	c-KIT
+T142	Anatomy 2737 2744	胎肝酪氨酸激酶
+T143	Disease 2875 2878	MTC
+T144	Duration 2904 2907	4 周
+T145	Drug 3551 3561	lenvatinib
+T146	Symptom 846 851	精神状况可
+T147	Symptom 2069 2076;2077 2078	患者上述症状消 失
+T148	Symptom 2089 2100	者的病灶缩小、逐渐稳定
+T149	Duration 2117 2121	1 个月
+T150	Duration 2158 2161	4 周
+T151	Level 3494 3497	严 重
+T152	Level 3871 3877	术后复发晚期
+T153	Drug 2381 2384	TSH
+T154	Level 20 22	晚期
+T155	Level 22 24	危重
+T156	Level 451 452;453 456	晚 期危重
+T157	Disease 456 463	低分化甲状腺癌
+T158	Level 479 480;481 484	晚 期危重
+T159	Disease 484 491	低分化甲状腺癌
+T160	Symptom 528 533	右颈部肿块
+T161	Operation 542 558	甲状腺右叶、峡部及左叶大部分切除
+T162	Test_Value 564 566;567 591	40 mm×30 mm×40 mm 肿瘤位于甲状腺右叶
+T163	Test_Value 592 599	低分化乳头状癌
+T164	Disease 604 611	大细胞未分化癌
+T165	Disease 612 617	神经内分泌
+T166	Anatomy 670 672	左叶
+T167	Anatomy 673 674;675 676	峡 部
+T168	Test 711 723	正电子发射计算机断层扫描
+T169	Disease 739 741	肿瘤
+T170	Anatomy 745 753	右肺下叶后基底段
+T171	Treatment 771 773	化疗
+T172	Symptom 786 790	颈部肿块
+T173	Symptom 815 819	呼吸困难
+T174	Disease 881 885	甲状腺癌
+T175	Amount 906 916	120 mg / d
+T176	Symptom 978 990;991 999	右颈部可见 10 cm× 10 cm 肿块
+T177	Symptom 1000 1017	中心 5 cm×5 cm 皮肤溃疡
+T178	Symptom 1018 1025	肿块质韧、固定
+T179	Symptom 1026 1029;1030 1031	边界欠 清
+T180	Symptom 1032 1036	轻度触痛
+T181	Symptom 1038 1045	双肺呼吸音减低
+T182	Symptom 1047 1054	右上肢重度水肿
+T183	Test 1069 1072	白细胞
+T184	Test_Value 1073 1085	5. 9×109 / L
+T185	Test 1110 1112	Hb
+T186	Test_Value 1113 1122	120 g / L
+T187	Test 1134 1137	血小板
+T188	Test_Value 1138 1149	263×109 / L
+T189	Test 1169 1171	血糖
+T190	Test_Value 1172 1186	6. 32 mmol / L
+T191	Test 1200 1204	肝肾功能
+T192	Test 1247 1254	D-Dimer
+T193	Test_Value 1261 1273	0. 86 mg / L
+T194	Test 1295 1297	T3
+T195	Test_Value 1298 1312	0. 89 nmol / L
+T196	Test 1326 1328	T4
+T197	Test_Value 1329 1344	104. 3 nmol / L
+T198	Test 1356 1359	FT3
+T199	Test_Value 1360 1374	2. 76 pmol / L
+T200	Test 1388 1391	FT4
+T201	Test_Value 1392 1407	17. 75 pmol / L
+T202	Test 1418 1421	TSH
+T203	Test_Value 1422 1436	10. 76 mIU / L
+T204	Test 1451 1457	甲状腺球蛋白
+T205	Test_Value 1458 1464;1465 1472	10. 31 ng / ml
+T206	Test 1486 1494	甲状腺球蛋白抗体
+T207	Test_Value 1495 1509	117. 9 IU / ml
+T208	Test_Value 1510 1517	0 ~ 115
+T209	Test 1529 1533	癌胚抗原
+T210	Test_Value 1539 1553	72. 98 ng / ml
+T211	Test 1534 1537	CEA
+T212	Test 1561 1564;1565 1572	神经元 持弄性烯醇化酶
+T213	Test_Value 1577 1590	161. 2 μg / L
+T214	Test 1602 1608;1609 1610	鳞状细胞癌抗 原
+T215	Test_Value 1615 1627	6. 33 μg / L
+T216	Test_Value 1653 1658;1659 1665	6. 48 μg / L
+T217	Test 1635 1646	细胞角蛋白 19 片段
+T218	Test 1647 1652	Cyfra
+T219	Test 1695 1697	pH
+T220	Test_Value 1698 1702	7. 3
+T221	Test 1704 1708	PaO2
+T222	Test_Value 1709 1716	50 mmHg
+T223	Test 1737 1742	PaCO2
+T224	Test_Value 1743 1750	20 mmHg
+T225	Test 1784 1786	CT
+T226	Test_Value 1787 1797	右侧甲状腺区巨大占位
+T227	Test_Value 1798 1801;1802 1807	气管受 压明显狭窄
+T228	Test_Value 1808 1814	右肺下叶转移
+T229	Disease 1851 1852;1853 1860	甲 状腺癌术后复发
+T230	Disease 1928 1932	甲状腺癌
+T231	Treatment 1932 1934	化疗
+T232	Drug 1954 1960	肿瘤靶向药物
+T233	Amount 1998 2003;2004 2010	37. 5 mg / d
+T234	Symptom 2029 2037	呼吸困难症状减轻
+T235	Symptom 2046 2053	右上肢水肿减轻
+T236	Symptom 2054 2061	声音嘶哑仍存在
+T237	Symptom 2294 2300	手-足综合征
+T238	Disease 2306 2313	分化型甲状腺癌
+T239	Disease 2314 2317	DTC
+T240	Disease 2320 2324	甲状腺癌
+T241	Treatment 2370 2380	术后放射性131 I
+T242	Drug 2518 2525	及分子靶向药物
+T243	Anatomy 2807 2815	集落刺激因子-1
+T244	Anatomy 2823 2826	RET
+T245	Disease 2857 2861	甲状腺癌
+T246	Amount 3033 3041	37. 5 mg
+T247	Frequency 3042 3044	Qd
+T248	Disease 3314 3318	甲状腺癌
+T249	Disease 3358 3361	DTC
+T250	SideEff 3462 3467	手足综合征
+T251	SideEff 3478 3480	腹泻
+T252	Disease 3790 3797	低分化甲状腺癌

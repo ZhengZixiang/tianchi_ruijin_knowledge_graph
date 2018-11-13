@@ -1,0 +1,344 @@
+基础研究
+基金项目:辽宁省科技厅科学技术计划项目(2011225020)
+胰升糖素样肽 1 受体激动剂对高脂喂养肥胖
+大鼠胰岛素靶组织中趋化素表达的干预效应
+杨晶  敖娜  都健
+[摘要]   目的  通过研究胰升糖素样肽 1 受体激动剂利拉鲁肽对肥胖大鼠胰岛素靶组织中脂肪因子
+趋化素(chemerin)表达水平的影响,评价该药物的干预效应。 方法 雄性 SD 大鼠以高脂饲料喂养 12 周建
+立肥胖大鼠模型,分别给予不同剂量(0、50、100、200 μg / kg)利拉鲁肽每日 2 次皮下注射干预,为期 4 周。
+以 ELISA 法测定大鼠血清趋化素水平;取大鼠肝脏组织、脂肪组织和骨骼肌组织,分别应用实时 PCR 和
+Western 印迹方法检测趋化素 mRNA 和蛋白的表达水平。 结果 肥胖大鼠血清趋化素水平升高,肝脏组
+织、脂肪组织和骨骼肌组织中趋化素 mRNA 和蛋白水平均显著高于对照组(P<0. 05)。 利拉鲁肽治疗 4
+周,同高脂组比较,干预组大鼠循环趋化素水平下降,肝脏组织、脂肪组织趋化素 mRNA 和蛋白水平降低
+(P<0. 05),而骨骼肌组织中趋化素 mRNA 和蛋白水平降低差异无统计学意义(P>0. 05)。 结论 循环趋化
+素水平是能够反映肥胖的指标,胰升糖素样肽 1 受体激动剂能够下调趋化素的表达水平,可能为肥胖相关
+的代谢性疾病提供新的治疗靶点。
+[关键词]   肥胖症; 胰升糖素样肽 1; 利拉鲁肽; 脂肪因子; 趋化素
+Effect of glucagon-like peptide 1 receptor agonist on the expression of chemerin in insulin target tissues in high-
+fat diet-induced obese rats Yang Jing, Ao Na, Du Jian. Department of Endocrinology and Metabolism, the Fourth
+Affiliated Hospital, China Medical University, Shenyang 110032, China
+[Abstract]  Objective  The present study aimed to investigate the therapeutic impact of glucagon-like peptide
+1 receptor agonist liraglutide on chemerin expression in insulin target tissues in high-fat diet-induced obese rats.
+Methods Male SD rats were fed a high-fat diet for 12 weeks to induce obesity and then administered various doses of
+liraglutide(0, 50, 100, and 200 μg / kg) twice daily for 4 weeks. Enzyme-linked immunosorbent assay, real-time
+PCR and Western blot analyses were used to assess serum chemerin, aswell as mRNA and protein levels of chemerin in
+adipose, liver and skeletal muscle tissues. Results Chemerin expression was significantly higher in serum as well as
+adipose, liver and skeletal muscle tissues in obese rats as compared to control rats. Liraglutide treatment was sufficient
+to reduce serum chemerin concentration, its mRNA and protein levels of in adipose and liver tissues but not skeletal
+muscle. Conclusion The circulating chemerin level is an index which can reflect obesity. We conclude that
+glucagon-like peptide-1 receptor agonist down-regulates the expression of chemerin and may provide a therapeutic
+target for obesity-related diseases.
+[Key words]  Obesity; Glucagon-like peptide 1; Liraglutide; Adipokines; Chemerin
+(Chin J Endocrinol Metab, 2016, 32: 946-951)
+随着经济发展以及生活方式的改变,肥胖伴随着
+一系列的代谢紊乱已经成为一个严重的全球性公共卫
+生问题。 脂肪因子在代谢性疾病的发病过程中扮演着
+重要的角色,是代谢综合征的相关危险因素[1-2],其中
+包括近年来新发现的脂肪因子趋化素(chemerin),能
+够调节脂肪细胞分化及能量代谢,有学者提出趋化素
+在胰岛素作用的主要靶组织(脂肪组织、肝脏及骨骼
+肌组织)起到了调节和关联的枢纽作用[3-5]。 胰升糖
+素样肽 1( glucagon-like peptide 1,GLP-1)具有显著的
+降糖作用,GLP-1 受体激动剂在减重、控制食欲、降脂、
+增强胰岛素敏感性等方面的优势也不断凸显,利拉鲁
+肽(liraglutide)作为 GLP-1 受体激动剂的代表药物被
+美国 FDA 批准用于 2 型糖尿病的治疗[6],随着研究的
+不断深入,其各种分子生物学作用及机制不断被提出,
+临床应用范围也在拓宽[7-9]。 本研究以高脂饲料喂饲
+法建立肥胖大鼠模型,观察利拉鲁肽对肥胖大鼠循环
+及胰岛素靶组织中脂肪因子趋化素表达的干预效应,
+初步探讨 GLP-1 受体激动剂发挥减重作用可能的分
+子机制。
+材料和方法
+一、 材料
+1. 实验动物:SPF 级雄性 SD 大鼠(体重约 100 g),
+购自中国医科大学实验动物中心,饲养于中国医科大
+学实验动物中心屏障系统,分笼喂养,自由摄食水,室
+内温度(23 ± 2)益,相对湿度 45% ~ 65 %,昼夜节律
+12 h。
+2. 试剂:利拉鲁肽(诺和力 Victoza)购自丹麦诺和
+诺德公司;趋化素检测试剂盒(ELISA)购自中国武汉
+优尔生科技股份有限公司;RNA 抽提试剂 ( RNAiso
+Plus)、反转录试剂盒(PrimeScriptTM RT reagent kit with
+gDNA Eraser)、 荧光实时定量 PCR 试剂盒 ( SYBR
+Premix Ex Taq II)购自宝生物工程(大连)有限公司;
+RIPA 裂解液(强)、BCA 蛋白浓度测定试剂盒、蛋白酶
+抑制剂( PMSF)、SDS-PAGE 蛋白上样缓冲液 (5 ×)、
+ECL 显影液购自碧云天生物技术研究所;兔抗趋化素
+抗体购自美国 Abcam 公司;小鼠抗 GAPDH 抗体、辣根
+过氧化物酶标记的兔抗小鼠 IgG、辣根过氧化物酶标
+记的山羊抗兔 IgG 购自美国 Santa Cruz 生物公司。
+二、 方法
+1. 实验动物的分组与肥胖大鼠模型建立:SPF 级
+SD 雄性大鼠 85 只,适应性饲养 1 周,随机分为 2 组:
+正常饲料组(n = 15)和高脂饲料组(n = 60)。 分别采
+用普通饲料(热量比:碳水化合物 62% ,脂肪 10% ,蛋
+白质 28% )和高脂饲料(热量比:碳水化合物 27% ,脂
+肪 59% ,蛋白质 14% )喂养。 每周固定时间称重并记
+录,喂养 12 周后进行统计分析评估肥胖大鼠模型的建
+立。
+12 周结束时,正常饲料组作为正常对照组(NC,
+n =15),给予 0. 5 ml / kg 灭菌注射用水每日 2 次皮下注
+射;高脂饲料组随机分为 4 个亚组:高脂对照组(HF,
+n=15)、低剂量利拉鲁肽干预组(LG,n = 15)、中剂量
+利拉鲁肽干预组(MG,n = 15)及高剂量利拉鲁肽干预
+组(HG,n = 15),分别给予 0. 5 ml / kg 灭菌注射用水及
+不同剂量(50、100、200 μg / kg)利拉鲁肽注射液每日 2
+次皮下注射,为期 4 周,每日注射前称重,据此调整给
+药剂量。
+2. 标本采集:16 周结束时,大鼠禁食 12 h,称重后
+经 10 %水合氯醛(300 mg / kg)腹腔注射麻醉,颈总动
+脉插管取血,血样在 4℃,3 000 r / min 条件下离心,分
+离血清置-80℃冰箱冻存备用。 大鼠处死后取大鼠肝
+脏组织、肾周及附睾脂肪组织、腓肠肌组织切成小块,
+于液氮中速冻后移于-80℃冰箱冻存备用。
+3. 指标检测:(1)罗氏优越型血糖仪测鼠尾静脉
+血糖 ( FBG),根据瑞典 Mercodia 公司大鼠胰岛素
+ELISA 试剂盒检测血清空腹胰岛素(FINS)。 全自动
+生化分析仪测定各组大鼠血清总胆固醇(TC)、三酰甘
+油(TG)、高密度脂蛋白胆固醇(HDL-C)、低密度脂蛋
+白胆固醇( LDL-C)及游离脂肪酸( FFA)水平。 (2)
+ELISA 法检测循环趋化素水平:根据趋化素(CHEM)
+检测试剂盒说明书进行操作。 使用前所有试剂和标本
+缓慢均衡至室温溶解,依次加入 100 滋l 不同浓度的标
+准品、待测样品及空白对照品,37℃温育 2 h 后弃去液
+体并甩干,每孔加 100 滋l 检测 A 工作液,37℃温育 1 h
+后洗板,每孔加 100 滋l 检测 B 工作液,37℃温育 30 min
+后洗板,其后每孔加 90 滋l 底物溶液于 37℃避光显色
+20 min,每孔加终止溶液 50 滋l 终止反应,用酶标仪在
+450 nm 波长测量各孔光密度(OD 值)。 (3)实时 PCR
+法检测大鼠组织中趋化素 mRNA 表达水平。 分别称
+取 50 mg 肝脏组织、100 mg 脂肪组织、100 mg 骨骼肌组
+织,剪碎并充分匀浆,按照 RNAiso Plus 说明书抽提总
+RNA,应用 Tecan infinite M200 多功能酶标仪测定 RNA
+纯度及浓度,取总 RNA 500 ng 按照反转录试剂盒说明
+书进行逆转录。 美国国立图书馆 Medline 基因库检索
+目的基因趋化素和内参 GAPDH 引物全序列,采用
+Primer Premier 5. 0 软件设计,委托大连宝生物工程有
+限公司合成:趋化素上游引物为 5'-ATCAAACCAA-
+ATGGGAGGAAGC-3',下游引物为 5'-GGGAAGAAGT-
+AGATGCGGGAGTC-3',扩增产物大小 182 bp;GAPDH
+的上游引物为 5'-GCAAGTTCAACGGCACAG-3',下游
+引物为 5'-GCCAGTAGACTCCACGACAT-3',扩增产物
+大小 118 bp。 按照 SYBR Premix Ex Taq 域试剂盒说明
+书,采用日本 Thermal Cycler Dice Real Time System 荧光
+定量 PCR 仪进行模板 cDNA 含量测定。 反应体系 20
+滋L,反应条件预变性 95℃ 30 s(1 个循环);PCR 反应
+95℃ 5 s,60℃ 30 s(40 个循环);分离阶段 95℃ 15 s,
+60℃ 1 min,95℃ 15 s(1 个循环)。 将定量模板倍比稀
+释做标准曲线进行扩增,检测结果根据标准曲线计算
+后给出样本荧光定量反应的相对定量值。 (4)Western
+印迹法检测大鼠组织中趋化素蛋白表达水平:称取
+50 mg 肝脏组织、100 mg 脂肪组织、100 mg 骨骼肌组
+织,加入 1 000 滋l 蛋白裂解液,冰上剪碎匀浆并充分裂
+解 40 min,12 000×g 4℃离心 20 min,取上清即为总蛋
+白,分装后于-80℃保存备用。 BCA 法进行蛋白定量。
+取相同质量的总蛋白(50 ~ 100 μg),加入 5×SDS 上样
+缓冲液,95℃ 5 min 变性后行 SDS-PAGE 电泳,湿转法
+将蛋白条带转移至 PVDF 膜上,用浓度为 5% 的 BSA-
+TBST 溶液进行封闭 1 ~ 2 h,分别加入兔抗趋化素
+(1 : 1 000)、小鼠抗 GAPDH 抗体(1 : 1 000)一抗 4℃
+过夜孵育。 室温下 TBST 漂洗 PVDF 膜,辣根过氧化物
+酶标记的兔抗小鼠 IgG、辣根过氧化物酶标记的山羊
+抗兔 IgG(1 : 5 000)二抗室温孵育 90 min,TBST 洗膜
+后使用 MicroChemi 4. 2 化学发光分析系统进行曝光,
+利用 Quantity One 软件分析电泳条带的灰度值。
+三、 统计学处理
+采用 SPSS 17. 0 统计学软件分析。 实验数据以
+x-± s 表示。 多组间比较采用单因素方差分析(one-way
+ANOVA),两组间均数比较采用 t 检验,血清趋化素与
+其他变量间的关系采用 Pearson 相关分析,以 P<0. 05
+为差异有统计学意义。
+结    果
+一、 肥胖大鼠模型的建立
+喂养 12 周后,HF 组大鼠的体重明显高于 NC 组
+[(540. 81 ±25. 64) g 对(488. 07 ±15. 18) g, P<0. 01],
+肥胖大鼠模型成功建立。
+二、 利拉鲁肽对大鼠一般情况及生化指标的影响
+各组大鼠初始体重无明显差异;喂养至第 16 周结
+束时,HF 组大鼠平均体重明显高于 NC 组(P<0. 01),
+MG 组、HG 组大鼠平均体重低于 HF 组(P<0. 01),但
+LG 组大鼠平均体重与 HF 组差异无统计学意义(P>
+0. 05,图 1)。
+检测各组大鼠 FBG 及 FINS 水平,与 NC 组大鼠相
+比,HF 组 FBG、FINS 水平明显升高(P<0. 01);LG 组
+与 HF 组相比,FBG 及 FINS 的差异无统计学意义(P>
+0. 05);MG 组、HG 组 FBG 水平低于 HF 组,结果有统
+计学差异(P<0. 05 或 P<0. 01);MG 组、HG 组 FINS 水
+平均明显低于 HF 组(P<0. 01)。 检测大鼠血脂水平,
+与 NC 组相比,HF 组大鼠血清 TC、LDL-C 水平显著升
+高(P<0. 01),TG、FFA 水平升高(P<0. 05),HDL-C 水
+平明显降低 (P < 0. 01); LG 组与 HF 组比较,血清
+HDL-C 水平升高(P<0. 05),TC、TG、LDL-C 及 FFA 水
+平差异均无统计学意义(P>0. 05) ;MG 组与 HF 组比
+注:(A)大鼠每周体重的变化 Change of body weight weekly;(B)大鼠
+起始体重及喂养至 12 周、16 周体重 Body weight following 0, 12, and 16
+weeks on the respective diet;NC:正常对照组 Normal chow diet;HF:高脂对
+照组 High-fat diet;LG:低剂量(50 μg / kg)利拉鲁肽干预组 High-fat diet
+with 50 μg / kg liraglutide;MG:中剂量(100 μg / kg)利拉鲁肽干预组 High-
+fat diet with 100 μg / kg liraglutide;HG:高剂量(200 μg / kg)利拉鲁肽干预
+组 High-fat diet with 200 μg / kg liraglutide;vs NC, aP<0. 01; vs HF, bP<
+0. 05
+图 1  利拉鲁肽对大鼠一般情况的影响
+Fig 1  Effect of liraglutide on the general conditions of rats
+较,血清 LDL-C 及 FFA 水平降低(P<0. 05),HDL-C 水
+平升高(P<0. 05),TC 及 TG 水平差异无统计学意义
+(P>0. 05);HG 组与 HF 组比较,血清 LDL-C、FFA 水
+平降低(P<0. 01 或 P<0. 05),HDL-C 水平升高(P<
+0. 05),TC 及 TG 水平差异无统计学意义(P>0. 05)。
+计算各组附睾脂肪指数 [ EAT / BW,附睾脂肪质量
+(g) /体重(g)],与 NC 组大鼠相比,HF 组 EAT / BW 水
+平明显升高(P<0. 01);LG 组与 HF 组相比, EAT / BW
+差异无统计学意义(P>0. 05);MG 组、HG 组 EAT / BW
+低于 HF 组,结果有统计学差异(P<0. 05,表 1)。
+三、 利拉鲁肽对肥胖大鼠循环趋化素水平的影响
+及相关性分析
+大鼠血清趋化素水平通过 ELISA 方法检测。 HF
+表 1  利拉鲁肽对大鼠一般情况及生化水平的影响
+Tab 1  Effects of liraglutide on the general conditions and biochemical parameters of rats
+组别
+Group
+空腹血糖
+Fasting blood glucose
+(mmol / L)
+空腹胰岛素
+Fasting insulin
+(μg / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+三酰甘油
+Triglycerides
+(mmol / L)
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L)
+游离脂肪酸
+Free fatty-acid
+(mmol / L)
+EAT / BW
+(% )
+NC 4. 66 ± 0. 62 0. 40 ± 0. 03 1. 19 ± 0. 25 0. 06 ± 0. 03 0. 24 ± 0. 04 1. 03 ± 0. 14 0. 28 ± 0. 13 1. 01 ± 0. 21
+HF 6. 08 ± 0. 48b 0. 62 ± 0. 01b 1. 49 ± 0. 16b 0. 32 ± 0. 267a 0. 38 ± 0. 05b 0. 83 ± 0. 02b 0. 57 ± 0. 31a 2. 40 ± 0. 69b
+LG 6. 03 ± 0. 11 0. 61 ± 0. 15 1. 70 ± 0. 28 0. 19 ± 0. 08 0. 34 ± 0. 058 1. 07 ± 0. 228c 0. 37 ± 0. 28 2. 27 ± 0. 37
+MG 5. 43 ± 0. 30c 0. 43 ± 0. 01d 1. 68 ± 0. 20 0. 25 ± 0. 17 0. 30 ± 0. 05c 0. 98 ± 0. 08c 0. 25 ± 0. 04c 1. 78 ± 0. 45c
+HG 4. 97 ± 0. 24d 0. 41 ± 0. 01d 1. 58 ± 0. 23 0. 22 ± 0. 06 0. 28 ± 0. 05d 1. 02 ± 0. 15c 0. 24 ± 0. 04c 1. 67 ± 0. 55c
+注:NC:正常对照组 Normal chow diet;HF:高脂对照组 High-fat diet;LG:低剂量(50 μg / kg)利拉鲁肽干预组 High-fat diet with 50 μg / kg liraglutide;
+MG:中剂量(100 μg / kg)利拉鲁肽干预组 High-fat diet with 100 μg / kg liraglutide;HG:高剂量(200 μg / kg)利拉鲁肽干预组 High-fat diet with 200 μg / kg
+liraglutide;LDL-C:低密度脂蛋白胆固醇 Low-density lipoprotein-cholesterol;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;EAT / BW:附
+睾脂肪质量(g) / 体重(g) Epididymal adipose tissue(g) / body weight(g);vs NC, aP<0. 05, bP<0. 01; vs HF, cP<0. 05, dP<0. 01
+注:NC:正常对照组 Normal chow diet;HF:高脂对照组 High-fat diet;
+LG:低剂量 (50 μg / kg) 利拉鲁肽干预组 High-fat diet with 50 μg / kg
+liraglutide;MG:中剂量(100 μg / kg)利拉鲁肽干预组High-fat diet with 100
+μg / kg liraglutide;HG:高剂量(200 μg / kg)利拉鲁肽干预组 High-fat diet
+with 200 μg / kg liraglutide;vs NC, aP<0. 01; vs HF, bP<0. 05, cP<0. 01
+图 2  利拉鲁肽对大鼠循环趋化素水平的影响
+Fig 2  Liraglutide regulates circulating levels of chemerin of rats
+组血清趋化素水平显著高于 NC 组(P<0. 01) ;LG 组
+与 MG 组血清趋化素水平与 HF 组比较降低(P<0. 05);
+HG 组血清趋化素水平与 HF 组相比显著下降(P<0. 01,
+图 2A)。
+对大鼠血清趋化素水平与体重及生化指标进行
+Pearson 相关分析发现:大鼠循环趋化素水平与体重
+( r = 0. 578)、EAT / BW( r = 0. 539)、FINS( r = 0. 666)、
+TC( r=0. 430)、LDL-C( r = 0. 574)、FFA( r = 0. 365)正
+相关(均 P<0. 05),与HDL-C 水平呈负相关(r=-0. 368,
+P<0. 05),与 FBG、TG 水平无相关关系(均 P>0. 05)。
+四、 GLP-1 受体激动剂利拉鲁肽对肥胖大鼠胰岛
+素靶组织趋化素表达的影响
+1. 肝脏组织趋化素表达的变化:HF 组肝脏组织
+趋化素 mRNA 水平显著高于 NC 组(P<0. 01);LG 组
+肝脏组织趋化素 mRNA 水平与 HF 组相比无统计学差
+异(P>0. 05);MG 组与 HG 组趋化素 mRNA 水平较
+HF 组明显下降(P<0. 01)。 HF 组肝脏组织趋化素蛋
+白水平显著高于 NC 组(P<0. 01);LG 组、MG 组与 HG
+组肝脏组织趋化素蛋白水平与 HF 组相比均显著下降
+(P<0. 01,图 3)。
+2. 脂肪组织趋化素表达的变化:HF 组脂肪组织
+趋化素 mRNA 水平显著高于 NC 组(P<0. 01);LG 组、
+MG 组与 HG 组脂肪组织趋化素 mRNA 水平与 HF 组
+相比均显著下降(P<0. 01)。 HF 组脂肪组织趋化素蛋
+白水平显著高于 NC 组(P<0. 01);LG 组、MG 组与 HG
+注:(A)大鼠肝脏组织趋化素 mRNA 水平 Chemerin mRNA assessed by real-time PCR normalized to GAPDH in liver;(B)大鼠肝脏组织趋化素蛋白水
+平 Western 印迹结果 Expression of chemerin detected by western blotting;NC:正常对照组 Normal chow diet;HF:高脂对照组 High-fat diet;LG:低剂量(50
+μg / kg)利拉鲁肽干预组 High-fat diet with 50 μg / kg liraglutide;MG:中剂量(100 μg / kg)利拉鲁肽干预组 High-fat diet with 100 μg / kg liraglutide;HG:高剂
+量(200 μg / kg)利拉鲁肽干预组 High-fat diet with 200 μg / kg liraglutide;vs NC, aP<0. 01; vs HF, bP<0. 01
+图 3  利拉鲁肽对大鼠肝脏组织趋化素表达的影响
+Fig 3  Liraglutide regulates chemerin expression in liver
+注:(A)大鼠脂肪组织趋化素 mRNA 水平 Chemerin mRNA assessed by real-time PCR normalized to GAPDH in adipose tissue;(B)大鼠脂肪组织趋化素
+蛋白水平 Western 印迹结果 Expression of chemerin detected by western blotting;NC:正常对照组 Normal chow diet;HF:高脂对照组 High-fat diet;LG:低剂量
+(50 μg / kg)利拉鲁肽干预组 High-fat diet with 50 μg / kg liraglutide;MG:中剂量(100 μg / kg)利拉鲁肽干预组 High-fat diet with 100 μg / kg liraglutide;HG:
+高剂量(200 μg / kg)利拉鲁肽干预组 High-fat diet with 200 μg / kg liraglutide;vs NC, aP<0. 01; vs HF, bP<0. 05, cP<0. 01
+图 4  利拉鲁肽对大鼠脂肪组织趋化素表达的影响
+Fig 4  Liraglutide regulates chemerin expression in adipose tissue
+注:(A)大鼠骨骼肌组织趋化素 mRNA 水平 Chemerin mRNA assessed by real-time PCR normalized to GAPDH in skeletal muscle;(B)大鼠骨骼肌组织
+趋化素蛋白水平 Western 印迹结果 Expression of chemerin detected by western blotting;NC:正常对照组 Normal chow diet;HF:高脂对照组 High-fat diet;LG:
+低剂量(50 μg / kg) 利拉鲁肽干预组 High-fat diet with 50 μg / kg liraglutide;MG:中剂量(100 μg / kg) 利拉鲁肽干预组 High-fat diet with 100 μg / kg
+liraglutide;HG:高剂量(200 μg / kg)利拉鲁肽干预组 High-fat diet with 200 μg / kg liraglutide;vs NC, aP<0. 05, bP<0. 01
+图 5  利拉鲁肽对大鼠骨骼肌组织趋化素表达的影响
+Fig 5  Liraglutide regulates chemerin expression in skeletal muscle
+组脂肪组织趋化素蛋白水平与 HF 组相比均显著下降
+(P<0. 01,图 4)。
+3. 骨骼肌组织趋化素表达的变化:HF 组骨骼肌
+组织趋化素 mRNA 水平明显高于 NC 组(P<0. 01);LG
+组、MG 组与 HG 组骨骼肌组织趋化素 mRNA 水平与
+HF 组相比均无统计学差异(P>0. 05)。 HF 组骨骼肌
+组织趋化素蛋白水平高于 NC 组(P<0. 05);LG 组、
+MG 组及 HG 组骨骼肌组织趋化素蛋白水平与 HF 组
+相比均无统计学差异(P>0. 05,图 5)。
+讨    论
+趋化素能够诱导脂肪细胞的成熟与分化、介导炎
+症反应,大量证据表明,趋化素在肥胖、胰岛素抵抗和
+代谢综合征的发生发展过程中扮演着重要角色[10-12]。
+临床研究显示血清中趋化素浓度与体重指数(BMI)呈
+正相关,是体重指数的主要预测指标[12-14]。 在动物实
+验中,附睾脂肪指数(EAT / BW)是在鼠类模型中替代
+腰臀比反映内脏脂肪含量的数据,其数值的升高表明
+内脏脂肪含量增加,机体呈腹型肥胖的状态。 本课题
+组在前期对大鼠的研究中证实血清趋化素水平、内脏
+脂肪组织趋化素 mRNA 及蛋白水平与附睾脂肪指数
+呈正相关[15]。 与既往研究类似,本研究显示,循环趋
+化素水平与大鼠体重及反映内脏脂肪含量的 EAT / BW
+呈显著正相关,且在予 GLP-1 受体激动剂利拉鲁肽干
+预后,伴随着体重的下降,各治疗组血清趋化素水平下
+降,提示血清趋化素是可以反映肥胖的指标。
+GLP-1 通过与其受体(GLP-1R) 结合发挥作用。
+GLP-1R 在体内分布广泛, 在胰岛素作用的靶器官,如
+胰腺、肝脏、骨骼肌和脂肪组织都存在高亲和力的
+GLP-1 结合位点[16]。 利拉鲁肽作为 GLP-1 受体激动
+剂的代表药物,在减重、控制食欲、降脂等方面的多重
+作用逐渐被发掘。 本研究结果显示,利拉鲁肽皮下注
+射 4 周可降低大鼠的体重、下调 FBG、FINS、LDL-C 及
+FFA 水平、上调 HDL-C 水平,且以 MG 组及 HG 组显
+著,有统计学差异,提示利拉鲁肽对肥胖大鼠具有减重
+及调节糖、脂代谢的作用,且和利拉鲁肽的剂量具有一
+定的量效关系。
+有学者提出脂肪因子趋化素是调节和连接胰岛素
+靶组织的枢纽。 本研究发现,肥胖大鼠胰岛素作用的
+靶组织趋化素 mRNA 和蛋白表达均升高,进一步证实
+趋化素是与肥胖密切相关的重要因子,目前暂未见
+GLP-1 受体激动剂对趋化素干预效应的文献报道。 本
+研究发现,在予利拉鲁肽干预后,不同的胰岛素靶组织
+中趋化素 mRNA 及蛋白的表达出现了不同的结果,治
+疗组肝脏和脂肪组织中趋化素基因和蛋白水平均下
+调,而在骨骼肌组织中没有统计学变化,这种结果的出
+现可能与趋化素在脂肪及肝脏组织表达较高,而在骨
+骼肌组织表达丰度低有关,同时不同的组织 GLP-1R
+表达有差异,存在于肝细胞、肌肉细胞和脂肪细胞中的
+GLP-1R 可能不同于来源于胰腺的经典 GLP-1R,其与
+GLP-1 结合后产生的效应也不尽相同,仍需在日后的
+实验中进一步证实或探索。 趋化素主要由脂肪组织合
+成和分泌,白色脂肪组织趋化素的表达水平与循环趋
+化素水平成同向性变化[15],推测脂肪组织趋化素表达
+水平的改变可能是循环中趋化素水平变化的原因。 本
+研究提示,血清脂肪因子趋化素能够反映体重的变化,
+且与体重、脂肪含量及肥胖相关的实验室指标包括
+FINS、TC、LDL-C、FFA 等呈正相关,提示利拉鲁肽的早
+期减重作用与其能下调脂肪组织及循环中趋化素的水
+平密切相关,但机制仍需进一步研究和探索。
+综上所述,循环中脂肪因子趋化素水平是反映肥
+胖的指标,可作为减重治疗的靶点深入研究,胰升糖素
+样肽 1 受体激动剂利拉鲁肽下调趋化素的表达水平可
+能是其发挥减重作用的分子机制之一,这为肥胖相关
+代谢性疾病的研究展开了新的视野。

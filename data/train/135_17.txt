@@ -1,0 +1,218 @@
+基础研究
+基金项目:国家自然科学基金资助项目(81170769),中央高校基本
+科研业务费专项资金资助(201130302020007)
+小奇、代喆、孙家忠、邹润梅、徐焱成);434020 湖北省荆州市中心医院内
+分泌科(曾姣娥);第一作者现在湖北省荆州市中心医院内分泌科
+RIP140 在 H2 O2 诱导 MIN6 细胞损伤中的作用机制研究
+薛君力  邓浩华  曾姣娥  陈小奇  代喆  邹润梅  孙家忠  徐焱成
+[提要]   MIN6 细胞给予 400 μmol / L H2 O2 处理分为正常对照组、正常加 H2 O2 组、Scramble siRNA
+(Small interfering RNA)组和 RIP140 siRNA 组,400 μmol / L H2 O2 能增加 MIN6 细胞的凋亡率(27. 89% ±
+1. 91%对 3. 74% ±0. 55% , P<0. 01)和丙二醛含量[(35. 17 ± 6. 26 对 20. 07 ± 1. 86) nmol / mg, P<0. 05],明
+显减少 MIN6 细胞活力(24 和 48 h, 均 P<0. 01)、总超氧化合物歧化酶水平[SOD, (4. 79 ± 0. 85 对 3. 09 ±
+0. 60) U / mg, P<0. 05]。 下调受体相互作用蛋白 140(RIP140)表达能减少 H2O2诱导的 MIN6 细胞凋亡率
+(11. 45% ±2. 27%对 30. 39% ±5. 32% , P<0. 01)和丙二醛含量[(22. 32 ± 1. 94 对 33. 42 ± 2. 51) nmol / mg,
+P<0. 01],增加总 SOD 水平[(5. 32 ± 0. 40 对 3. 09 ± 0. 15) nmol / mg, P<0. 01)]。
+[关键词]   受体相互作用蛋白 140; 过氧化氢; MIN6 细胞; 增殖; 细胞凋亡
+Role of RIP140 in the H2 O2 -induced injury of MIN6 cells Xue Junli*, Deng Haohua, Zeng Jiaoe, Chen
+Xiaoqi, Dai Zhe, Zou Runmei, Sun Jiazhong, Xu Yancheng. *Department of Endocrinology, Zhongnan Hospital of
+Wuhan University, Wuhan 430071, China
+[Summary]  MIN6 cells cultured with 400 μmol / L H2 O2 were divided into normal control group, control
+group with 400 μmol / L H2 O2, scrambled siRNA group, and RIP140 siRNA group. 400 μmol / L H2 O2 could
+significantly increase apoptosis rate of MIN6 cells(27. 89% ±1. 91% vs 3. 74% ±0. 55% , P<0. 01) and the content
+of maleic dialdehyde[MDA, (35. 17±6. 26 vs 20. 07±1. 86) nmol / mg, P<0. 05], suppress cell viability(24 and 48
+h, both P<0. 01), and lower the level of total superoxide dismutase[SOD, (4. 79 ±0. 85 vs 3. 09 ±0. 60) U / mg, P<
+0. 05] . When receptor interaction protein 140 ( RIP140 ) expression was suppressed by RNA interference, the
+apoptosis rate of MIN6 cells(11. 45% ±2. 27% vs 30. 39% ±5. 32% , P<0. 01) and the content of MDA[(22. 32 ±
+1. 94 vs 33. 42 ± 2. 51) nmol / mg, P<0. 01] were reduced, and levels of total SOD was increased[(5. 32 ± 0. 40 vs
+3. 09 ± 0. 15) nmol / mg, P<0. 01)].
+[Key words]  Receptor interaction protein 140; Hydrogen peroxide; MIN6 cells; Proliferation; Apoptosis
+(Chin J Endocrinol Metab, 2014, 30: 516-519)
+RIP140 属于代谢性核受体辅助因子家族一员,主要作为抑
+制因子调控肝脏、肌肉及脂肪组织中的糖脂代谢[1] 。 敲除
+RIP140 表达的小鼠能够改善高脂饮食条件下的胰岛素抵抗、增
+加胰岛素刺激的糖摄取,同时还可以抑制年龄和饮食诱导的糖
+耐量异常的发生[2] 。 2 型糖尿病患者外周血单个核细胞中
+RIP140 的表达较正常对照明显升高,与低度炎症密切相关[3] 。
+下调 RIP140 表达能够通过上调能量消耗相关基因来改善细胞
+内的氧化应激水平[1] 。 氧化应激所致的胰岛 β 细胞分泌功能
+下降和凋亡增加是 2 型糖尿病进展的主要因素[4] 。 但是作为
+与氧化应激相关的重要分子,是否调控 RIP140 表达能够改善
+胰岛 β 细胞中的功能尚不明确。 H2O2已经被广泛应用于建立
+细胞氧化应激模型,因此本研究利用 H2O2建立 MIN6 细胞的氧
+化应激损伤模型,并利用 RNAi 下调 MIN6 细胞中的 RIP140 表
+达来观察以 RIP140 为靶点能否改善 H2O2诱导的 MIN6 细胞氧
+化应激损伤,为寻找改善胰岛 β 细胞氧化应激损伤的靶点提供
+帮助。
+一、 材料和方法
+1. 主要实验材料及仪器:小鼠胰岛素瘤细胞系 MIN6 本室
+保存,DMEM 培养基(Hyclone,美国),胎牛血清、Opti-MEM 培
+养基(Gibco,美国),β-巯基乙醇 ( Geneview,美国), TRIZOL、
+Lipofectamine 2000 ( Invitrogen,美国),ECL ( Electrochemilumin-
+escence)显色试剂盒(Thermo,美国),Taq 酶、dNTP、RNA 酶抑
+制剂(Takara,日本)、MML-V(Promega,美国),Bcl-2、PCNA 抗体
+(Bioworld,美国), RIP140、 β-actin 抗体 ( Santa cruz, 美国),
+Annexin V-FITC 细胞凋亡检测试剂盒(凯基生物,南京),四甲
+基偶氮唑盐(MTT,Sigma,美国),丙二醛、超氧化合物歧化酶检
+测试剂盒(建成生物,南京),BCA (Bicinchoninic acid)蛋白检测
+试剂盒(普利莱,北京),H2O2(国药集团,北京)(临用前利用无
+血清 DMEM 配制)。
+2. MIN6 细胞培养:加入含 10% 胎牛血清的 DMEM 培养
+基,置于含 5%CO2的 37℃培养箱中培养,隔日换液,待细胞生
+长至 70% ~80%融合时按 1 :3 传代扩大培养。
+3. MTT 检测 H2O2对 MIN6 细胞活力的影响:体外培养的
+MIN6 细胞以 5 000 个 /孔接种至 96 孔板,实验分为空白对照组
+和 H2O2组(通过预实验确定浓度为 400 μmol / L),每组设 6 个
+平行对照孔,分别作用 0、24 及 48 h 后吸出培养液加入 5 g / L
+MTT 100 滋l,37℃作用 4 h 后,加入 100 滋l 二甲基亚砜,室温下
+振荡 10 min,酶标仪上用 570 nm 波长检测各孔吸光值。
+4. siRNA 转染 MIN6 细胞及鉴定:约 4×105 /孔将 MIN6 细
+胞传至 6 孔板,待细胞贴壁生长至 50% 融合度后,用无血清培
+养基洗 3 遍,参照试剂说明进行转染,48 h 后利用 TRIZOL 裂解
+后抽提细胞总 RNA,逆转录生成 cDNA,PCR 扩增 RIP140,并利
+用半定量分析 RIP140 mRNA 表达。 siRNA 序列:上游为 5'-
+CGGCGUUGACAUCAAAGAA-dTdT-3',下游为 5'-dTdT-GCCGC-
+AACUGUAGUUUCUU-3'[5] ;Scramble siRNA 由广州锐博公司提
+供,与小鼠所有转录本均无同源性。 PCR 引物:RIP140 上游引
+物为 5'-GGCAGCAAACCTGAATTCGGC-3',下游引物为 5'-CTC-
+ACCGGGCACGGAACATC-3';β-actin 上游引物为 5'-TCTACAA-
+TGAGCTGCGTGTG-3',下游引物为 5'-GGTGAGGATCTTCATG-
+AGGT-3'。 除此之外,收集转染 48 h 后的 MIN6 细胞用蛋白裂
+解液裂解后,利用 Western 印迹分析 RIP140 蛋白表达。
+5. 细胞分组及处理:将细胞分为正常对照组、正常加 H2O2
+组、Scramble siRNA 组和 RIP140 siRNA 组。 Scramble siRNA 组
+和 RIP140 siRNA 组分别给予相应 siRNA 转染 24 h 后,加入
+H2O2作用 24 h,其中加入 H2O2浓度为 400 μmol / L。
+6. 流式细胞仪检测细胞周期及凋亡率:收集 MIN6 细胞,
+PBS 洗 2 遍,90%冷乙醇固定过夜,上机前弃乙醇,PBS 洗 1 遍,
+依次加入 0. 002 ml[含 1 mg / ml RNaseA、100 μg / ml 碘化丙啶
+(PI)]染色液 50 滋l,避光染色 20 min,上机检测细胞周期分布;
+将获得的 MIN6 细胞经过离心、洗涤、重悬后,依次加入 5 滋l
+Annexin 吁-FITC、5 滋l PI 后混匀;室温下避光反应 15 min 后上
+机检测细胞凋亡率。
+7. 丙二醛、超氧化合物歧化酶的检测:分别收集各组细胞,
+超声破碎后按照试剂盒内说明书进行上述指标的检测,同时利
+用 BCA 法检测细胞的蛋白含量,采用丙二醛(MDA)和超氧化
+合物歧化酶(SOD)的总量与蛋白总量比值作为各组细胞 MDA
+和 SOD 的相对含量。
+8. Western 印迹检测 Bcl-2、PCNA 及 RIP140 表达:抽提总
+蛋白,每孔上样约 40 μg,常规 SDS-PAGE 电泳转膜后,5% 脱脂
+奶粉溶液室温封闭 1 h,,不同的稀释一抗(1 : 500 兔抗小鼠
+Bcl-2;1 : 500 兔抗小鼠 PCNA;1 : 1 000 兔抗小鼠 RIP140;1 : 1
+500 兔抗小鼠 β-actin)4℃ 床过夜;漂洗后加入 HRP 标记的山
+羊抗兔二抗(1 : 5 000)37℃孵育 1 h,0. 05% PBS-T 洗 3 遍,ECL
+显影曝光,利用 Alpha Ease FC 4. 0 软件分析蛋白的相对表达
+量。
+9. 采用 SPSS 11. 0 软件进行统计学处理。 数据以 x- ± s 表
+示,组间比较采用独立样本 t 检验。 P<0. 05 表示差异有统计学
+意义。
+二、 结果
+1. H2O2对 MIN6 细胞活力的影响:H2O2能够抑制 MIN6 细
+胞增殖。 结果显示当 400 μmol / L H2O2持续作用 24 和 48 h 后,
+MIN6 细胞的活力相对于正常对照组明显下降(24h: t= 4. 27,
+注:与对照组相比,aP<0. 01
+图 1  MTT 检测 RIP140 对 H2O2诱导 MIN6 细胞增殖活力的影响
+P<0. 01; 48 h: t=6. 16, P<0. 01; 图 1)。
+2. RIP140 siRNA 沉默效率的鉴定:转染后培养 48 h,收集
+细胞利用半定量 PCR 及 Western 印迹分析检测 RIP140 表达,
+结果显示与 Scramble siRNA 组比较,RIP140 siRNA 组的 RIP140
+相对于 β-actin 的 mRNA 及蛋白水平的表达量明显下降,提示
+RIP140 siRNA 序列能够用于后续下调 RIP140 表达的实验(图
+2)。
+注:(A)半定量分析;(B)Western 印迹分析;1:对照组;2:Scramble
+siRNA 组;3:RIP140 siRNA 组
+图 2  RNAi 下调 MIN6 细胞 RIP140 表达
+3. 下调 RIP140 表达对 MIN6 细胞凋亡的影响:H2 O2 能够
+促进 MIN6 细胞损伤,增加细胞凋亡率。 当 400 μmol / L H2O2作
+用 24 h 后,通过倒置显微镜观察发现与正常对照组比较 MIN6
+细胞间隙增大、细胞皱缩、细胞体积缩小,在 400 μmol / L H2 O2
+作用于 MIN6 细胞时, MIN6 凋亡率明显高于正常对照组
+(27. 89% ±1. 91%对 3. 74% ±0. 55% , t=21. 02, P<0. 01)。 下
+调 RIP140 表达能够一定程度下调 H2 O2 诱导的 MIN6 细胞凋
+亡,结果显示 RIP140 siRNA 组 11. 45% ± 2. 27% 和 Scramble
+siRNA 组 30. 39% ±5. 32%之间凋亡率比较,差异有统计学意义
+( t=5. 67, P<0. 01)。
+H2O2能够减少 MIN6 细胞的 Bcl-2 蛋白表达,下调 RIP140
+表达能够部分恢复 Bcl-2 蛋白表达。 利用 Western 印迹分析凋
+亡相关蛋白 Bcl-2 表达,在 400 μmol / L H2O2作用于 MIN6 细胞
+时,细胞内 Bcl-2 表达明显降低(1. 41 ± 0. 08 对 0. 51 ± 0. 08, t=
+注:(A)1:对照组;2:400 μmol / L H2O2;(B)1:Scramble siRNA+400
+μmol / L H2O2;2:RIP140 siRNA+400 μmol / L H2O2
+图 3  Western 印迹检测 MIN6 细胞 Bcl-2 和 PCNA 表达
+13. 67, P<0. 01)。 RIP140 siRNA 组 Bcl-2 蛋白水平明显高于
+Scramble siRNA 组(1. 26 ± 0. 11 对 0. 63 ± 0. 17, t = 21. 58, P<
+0. 01, 图 3)。
+4. 下调 RIP140 表达对 MIN6 细胞周期的影响:细胞周期 S
+期比例,H2O2能够减少 MIN6 细胞的 S 期比例,下调 RIP140 表
+达能够减少 H2O2 对 MIN6 细胞增殖的抑制作用。 当给予 400
+μmol / L H2O2作用后,MIN6 细胞内 S 期比例明显少于正常对照
+(22. 18% ±2. 13% 对 32. 41% ± 3. 36% , t = 4. 45, P<0. 05)。
+RIP140 siRNA 组与 Scramble siRNA 组比较,下调 RIP140 表达
+能够增加细胞 S 期比例(28. 26% ±1. 46%对 19. 38% ±2. 12% ,
+t=5. 98, P<0. 01);在 G0 / G1 和 G2 / M 期 RIP140 siRNA 组与
+Scramble siRNA 组相比较,差异无明显统计学意义。
+H2O2能够减少 MIN6 细胞的 PCNA 蛋白表达,下调 RIP140
+表达能够部分恢复 PCNA 蛋白表达。 在 400 μmol / L H2O2作用
+于 MIN6 细胞时,细胞内 PCNA 表达明显降低(0. 62 ± 0. 08 对
+0. 43 ± 0. 05, t=3. 76, P<0. 05)。 与 Scramble siRNA 组(0. 23 ±
+0. 03) 比较,RIP140 siRNA 组 PCNA 表达明显增加 (0. 40 ±
+0. 03, t=6. 29, P<0. 01, 图 3)。
+5. 下调 RIP140 对 MIN6 细胞氧化应激的影响:当 MIN6 细
+胞给予 400 μmol / L H2 O2 作用后,细胞内 MDA 水平明显增加
+[(20. 07 ± 1. 86 对 35. 17 ± 6. 26) nmol / mg, t = 4. 00, P<0. 05],
+而总 SOD 水平明显降低[(4. 79 ± 0. 85 对 3. 09 ± 0. 60) U / mg,
+t=2. 84, P<0. 05]。
+下调 RIP140 表达能够改善 H2 O2 所致的氧化应激水平。
+结果显示 RIP140 siRNA 组和 Scramble siRNA 组 MDA 比较差异
+有统计学意义[(22. 32 ± 1. 94)对(33. 42 ± 2. 51) nmol / mg, t =
+6. 06, P<0. 01],下调 RIP140 表达能够减少细胞内 MDA 含量;
+总 SOD 水平,RIP140 siRNA 组较 Scramble siRNA 组升高[(5. 32
+± 0. 40)对(3. 09 ± 0. 15) nmol / mg, t=9. 09, P<0. 01]。
+三、 讨论
+在 2 型糖尿病状态下,高脂、高糖以及升高的细胞因子水
+平等均可诱导胰岛 β 细胞氧化应激,同时胰岛 β 细胞中超氧化
+物歧化酶、谷胱甘肽过氧化物酶等抗氧化酶表达相对较低[6] ,
+而氧化应激所致活性氧簇( reactive oxygen species, ROS)升高,
+并通过影响 JNK(c-Jun N-terminal kinases)等信号传导通路[7]
+及 DNA 损伤[8]等多条途径来引起胰岛 β 细胞损伤,增加胰岛
+β 细胞凋亡[9] ,从而更进一步加重 2 型糖尿病进程。 H2O2作为
+ROS 的一种成分,已经被广泛地应用于建立体外细胞的氧化应
+激损伤模型,比如内皮细胞[10] 、胰岛细胞[11] 等,在内皮细胞中
+的研究发现 H2O2能够增加内皮细胞氧化应激水平,同时可以
+影响 Bcl-2 表达及增加内皮细胞凋亡[10] ,与此结果一致的是,
+我们在胰岛细胞中发现 H2O2也能增加细胞凋亡,其机制可能
+是 H2O2通过增加 MIN6 细胞中的氧化应激标记物 MDA 水平,
+减少 SOD 水平,从而减少 Bcl-2 表达水平进而增加 MIN6 细胞
+的凋亡率。
+人 RIP140 位于染色体 21q11. 2,由单一的长外显子构成,
+由 1158 个氨基酸组成,分子量为 140 kD,主要位于核内,经过
+翻译后修饰也可以转移至胞浆,含有 4 个保守的抑制域[12] ,细
+胞核内 RIP140 功能主要包括在代谢组织作为辅助抑制因子抑
+制能量消耗和在单核细胞及巨噬细胞中作为辅助活化因子促
+进内在的炎症反应,胞浆中 RIP140 则可以增加脂解和降低脂
+联素分泌[13,14] 。 除此之外,RIP140 还与昼夜节律有关,在检测
+24 h 瘦受试者白色脂肪组织中的 RIP140 表达时发现白天
+RIP140 表达升高,夜间 RIP140 表达下降[15] 。 在初诊糖尿病患
+者外周血中 RIP140 的表达与游离脂肪酸浓度具有明显相关
+性[3] 。 在本研究中下调 RIP140 能够减少 MIN6 细胞中 H2O2诱
+导的氧化应激水平,同时降低细胞凋亡的水平。 ROS 的产生与
+线粒体功能及生成的密切相关,而线粒体功能的损伤则直接影
+响胰岛 β 细胞凋亡和功能[16] ,因此下调 RIP140 表达可能是通
+过增加线粒体生成[17] 及解偶联能力[1] ,从而减少 MIN6 细胞
+ROS 产生及氧化应激水平,进而增加 Bcl-2 表达来抑制 H2O2诱
+导的细胞凋亡。 但是目前在减少 H2 O2 损伤的过程中 RIP140
+调控线粒体生成和解偶联能力的具体机制尚需进一步明确。
+在细胞增殖方面,S 期是 DNA 合成期,该周期细胞数量能
+够反应细胞 DNA 增殖,而且 PCNA 与细胞增殖密切相关。 在
+我们研究中发现 H2O2能够通过降低 MIN6 细胞的 S 期比例和
+PCNA 表达来抑制细胞增殖,而通过下调 RIP140 表达能够部分
+逆转 S 期的细胞比例及增加 PCNA 表达,从而减少 H2O2对细胞
+增殖的抑制作用。 其他研究也显示当下调 RIP140 能够增加 S
+期细胞比例[18] ,而上调 RIP140 能够减少 S 期细胞比例[19] 。 因
+此 RIP140 可能是通过影响 PCNA 表达来调整 MIN6 细胞 S 期
+比例,从而改善 H2O2对 MIN6 细胞增殖的抑制作用。
+综上所述,我们在此研究中明确了 H2 O2 对胰岛 β 细胞的
+损伤,并初步探讨了调控 RIP140 的表达改善 H2O2对胰岛 β 细
+胞损伤的机制,为降低氧化应激对胰岛 β 细胞损伤提供了参
+考,同时丰富了代谢性核受体辅助因子 RIP140 在调控胰岛 β
+细胞功能中的作用机制,将可能为 2 型糖尿病中干预胰岛 β 细
+胞的损伤提供有效帮助。

@@ -1,0 +1,246 @@
+T1	Disease 2617 2623	1 型糖尿病
+T2	Test 830 834	体重指数
+T3	Test 420 421;422 426	甲 状腺功能
+T4	Test 511 516	甲状腺功能
+T5	Test 1031 1036	甲状腺功能
+T6	Test 2045 2046;2047 2051	甲 状腺功能
+T7	Test 2126 2131	甲状腺功能
+T8	Test 2206 2211	甲状腺功能
+T9	Test 2697 2702	甲状腺功能
+T10	Test 1114 1117	TSH
+T11	Test 2092 2095	TSH
+T12	Test 2170 2173	TSH
+T13	Test 1081 1084	FT4
+T14	Test 2074 2077	FT4
+T15	Test 2152 2155	FT4
+T16	Test 835 838	BMI
+T17	Test 1037 1040	FT3
+T18	Test 2056 2059	FT3
+T19	Test 2134 2137	FT3
+T20	Test 808 810	身高
+T21	Test 1954 1956	身高
+T22	Test 2036 2038	身高
+T23	Test 821 823	体重
+T24	Test 1180 1190	甲状腺过氧化物酶抗体
+T25	Test 1468 1472	心脏彩超
+T26	Disease 2553 2559;2560 2563	Turner 综合征
+T27	Disease 27 36	Graves 眼病
+T28	Disease 501 510	Graves 眼病
+T29	Disease 1650 1659	Graves 眼病
+T30	Disease 1722 1731	Graves 眼病
+T31	Disease 1870 1879	Graves 眼病
+T32	Disease 2860 2869	Graves 眼病
+T33	Disease 18 26	Graves 病
+T34	Disease 439 447	Graves 病
+T35	Disease 487 495	Graves 病
+T36	Disease 571 579	Graves 病
+T37	Disease 1712 1720	Graves 病
+T38	Disease 1808 1816	Graves 病
+T39	Disease 2371 2379	Graves 病
+T40	Disease 2788 2796	Graves 病
+T41	Disease 2831 2839	Graves 病
+T42	Disease 3325 3333	Graves 病
+T43	Disease 429 435	桥本甲状腺炎
+T44	Disease 2752 2758	桥本甲状腺炎
+T45	Disease 1667 1668;1669 1672	骨 质疏松
+T46	Disease 1794 1798	骨质疏松
+T47	Disease 1911 1915	骨质疏松
+T48	Disease 3241 3245	骨质疏松
+T49	Drug 699 703	甲巯咪唑
+T50	Test 1421 1423;1424 1425	心电 图
+T51	Test 1233 1236	FSH
+T52	Test 1663 1666	骨密度
+T53	Disease 5 15	Turner 综合征
+T54	Disease 392 402	Turner 综合征
+T55	Disease 469 479	Turner 综合征
+T56	Disease 539 549	Turner 综合征
+T57	Disease 559 569	Turner 综合征
+T58	Disease 1783 1793	Turner 综合征
+T59	Disease 2217 2227	Turner 综合征
+T60	Disease 2357 2366;2367 2368	Turner 综合 征
+T61	Disease 2438 2448	Turner 综合征
+T62	Disease 2524 2534	Turner 综合征
+T63	Disease 2577 2587	Turner 综合征
+T64	Disease 2655 2665	Turner 综合征
+T65	Disease 2679 2689	Turner 综合征
+T66	Disease 2718 2728	Turner 综合征
+T67	Disease 2737 2747	Turner 综合征
+T68	Disease 2880 2890	Turner 综合征
+T69	Disease 2972 2982	Turner 综合征
+T70	Disease 3024 3034	Turner 综合征
+T71	Disease 3070 3080	Turner 综合征
+T72	Disease 3169 3179	Turner 综合征
+T73	Test 1216 1220;1221 1225	甲状腺球 蛋白抗体
+T74	Disease 2539 2544	甲状腺疾病
+T75	Disease 2020 2025	甲状腺毒症
+T76	Disease 523 526	甲心病
+T77	Disease 2870 2873	甲心病
+T78	Disease 3283 3286	甲心病
+T79	Symptom 606 610	多食易饥
+T80	Symptom 616 617;618 619	眼 突
+T81	Duration 620 623	9 年
+T82	Symptom 624 632	第二性征发育迟缓
+T83	Duration 633 636	3 年
+T84	Symptom 661 665	多食易饥
+T85	Symptom 666 668	心悸
+T86	Symptom 669 673	怕热多汗
+T87	Disease 693 695	甲亢
+T88	Symptom 732 737	乳房无发育
+T89	Symptom 738 743	月经未来潮
+T90	Symptom 744 747;748 753	身材较 同龄人矮小
+T91	Disease 773 776;777 782	女性性 腺功能低下
+T92	Test_Value 811 820	140. 0 cm
+T93	Test_Value 824 829	37 kg
+T94	Test_Value 839 852	18. 9 kg / m2
+T95	Symptom 853 856;857 858	智力正 常
+T96	Symptom 859 863	后发际低
+T97	Symptom 864 870	眼球明显突出
+T98	Symptom 871 877	甲亢眼征阳性
+T99	Symptom 878 882	眼距不宽
+T100	Symptom 883 885;886 887	颈粗 短
+T101	Symptom 888 890	颈蹼
+T102	Symptom 891 898	甲状腺3度肿大
+T103	Symptom 899 903	质地中等
+T104	Symptom 904 909	有血管杂音
+T105	Symptom 910 913	盾牌胸
+T106	Symptom 914 915;916 922	双 侧乳房无发育
+T107	Symptom 923 929	乳头间距不宽
+T108	Symptom 930 937	心浊音界无扩大
+T109	Test 938 940	心率
+T110	Test_Value 941 944;945 952	105 次 / min
+T111	Symptom 953 961	第一心音强弱不等
+T112	Symptom 962 966	节律不齐
+T113	Symptom 967 977;978 980	各瓣膜区未闻及病理性 杂音
+T114	Symptom 981 991	肺、腹查体无明显异常
+T115	Symptom 993 1001	腋毛、阴毛未生长
+T116	Symptom 1002 1007;1008 1011	外生殖器呈 幼稚型
+T117	Symptom 1013 1017	无肘外翻
+T118	Symptom 1018 1024	双下肢无水肿
+T119	Test_Value 1041 1054	5. 20 pg / ml
+T120	Test_Value 1063 1076	1. 80 ~ 3. 80
+T121	Test_Value 1085 1098	1. 03 ng / dl
+T122	Test_Value 1099 1112	0. 78 ~ 1. 86
+T123	Test_Value 1118 1123;1124 1131	0. 01 mIU / L
+T124	Test_Value 1132 1145	0. 38 ~ 5. 57
+T125	Test 1147 1156	促甲状腺素受体抗体
+T126	Test_Value 1157 1171	43. 42 IU / ml
+T127	Test_Value 1172 1175;1176 1178	0 ~ 30
+T128	Test_Value 1191 1205	27. 29 IU / ml
+T129	Test_Value 1206 1214	0 ~ 2. 6
+T130	Test_Value 1225 1227	正常
+T131	Test_Value 1237 1252	75. 24 mIU / ml
+T132	Test 1253 1255	LH
+T133	Test_Value 1256 1271	15. 09 mIU / ml
+T134	Test 1273 1276	催乳素
+T135	Test_Value 1277 1290	6. 03 ng / ml
+T136	Test 1291 1295	ACTH
+T137	Test_Value 1296 1309	4. 88 pg / ml
+T138	Test 1310 1314	生长激素
+T139	Test_Value 1315 1328	2. 00 ng / ml
+T140	Test 1329 1330;1331 1333	雌 二醇
+T141	Test_Value 1334 1347	9. 47 pg / ml
+T142	Test 1348 1350	孕酮
+T143	Test_Value 1351 1364	0. 42 ng / ml
+T144	Test 1365 1367	睾酮
+T145	Test_Value 1368 1382	17. 66 ng / dl
+T146	Test 1383 1386	皮质醇
+T147	Test_Value 1387 1400	6. 31 μg / dl
+T148	Test_Value 1411 1419	生长激素分泌正常
+T149	Test_Value 1426 1430	窦性心律
+T150	Test_Value 1431 1435	频发房早
+T151	Test_Value 1436 1440	室性早搏
+T152	Test_Value 1448 1453;1454 1455	频发房性早 搏
+T153	Test_Value 1456 1460	短阵房速
+T154	Test_Value 1461 1466	间歇性房扑
+T155	Test_Value 1474 1480	左心比值增大
+T156	Test_Value 1481 1483;1484 1491	轻度 二、三尖瓣返流
+T157	Test 1493 1497	妇科彩超
+T158	Test_Value 1498 1503	幼稚型子宫
+T159	Test 1505 1510	手正斜位片
+T160	Test_Value 1511 1514;1515 1519	左手腕 骨已出齐
+T161	Test_Value 1520 1526	骨骺线未闭合
+T162	Test_Value 1527 1535	左手诸骨未见异常
+T163	Test 1537 1548;1549 1550	甲状腺摄131 I 试 验
+T164	Test_Value 1551 1564	4 h 为 86. 98%
+T165	Test_Value 1566 1579	6 h 为 84. 23%
+T166	Test_Value 1581 1595	24 h 为 82. 66%
+T167	Test 1598 1602;1603 1604	甲状腺显 像
+T168	Test_Value 1605 1622	甲状腺双叶弥漫性长大伴摄锝功能增强
+T169	Test 1624 1629	眼眶 CT
+T170	Test_Value 1630 1633;1634 1637	双侧眼 球外凸
+T171	Test_Value 1638 1646	双眼内外直肌增粗
+T172	Test_Value 1673 1684	Z 值最低为-4. 2
+T173	Symptom 1746 1750	心界不大
+T174	Disease 1751 1755	窦性心律
+T175	Disease 1756 1760	频发房早
+T176	Disease 1761 1765	短阵房速
+T177	Disease 1766 1768;1769 1772	间歇 性房扑
+T178	Disease 1774 1779	心功能2级
+T179	Drug 1827 1832	抗甲亢药物
+T180	Treatment 1843 1861	同位素131 I 10 mCi 治疗
+T181	Treatment 1862 1867	同位素治疗
+T182	Drug 1881 1887	醋酸泼尼松片
+T183	Amount 1888 1893	10 mg
+T184	Frequency 1894 1896	qd
+T185	Duration 1900 1907	疗程 1 个月
+T186	Drug 1918 1923	钙尔奇 D
+T187	Drug 1924 1929	阿法骨化醇
+T188	Anatomy 1933 1935	骨骺
+T189	Drug 1944 1947	雌激素
+T190	Drug 1962 1966	生长激素
+T191	Anatomy 1971 1973	骨骺
+T192	Drug 1979 1984	雌、孕激素
+T193	Treatment 1995 2000	同位素治疗
+T194	Symptom 2028 2030	突眼
+T195	Test_Value 2060 2073	9. 58 pg / ml
+T196	Test_Value 2095 2101;2102 2109	<0. 01 mIU / L
+T197	Test_Value 2081 2091	75 ng / dl
+T198	Treatment 2113 2118	同位素治疗
+T199	Duration 2119 2123	5 个月
+T200	Test_Value 2138 2151	1. 30 pg / ml
+T201	Test_Value 2155 2169	<0. 10 ng / dl
+T202	Test_Value 2174 2189	55. 167 mIU / L
+T203	Drug 2193 2196	优甲乐
+T204	Disease 2254 2259	染色体疾病
+T205	Symptom 2265 2269	身材矮小
+T206	Symptom 2270 2272;2273 2277	卵巢 发育不良
+T207	Symptom 2303 2304;2305 2309	面 部色素痣
+T208	Symptom 2310 2314	后发际低
+T209	Symptom 2315 2322	双侧乳头间距宽
+T210	Symptom 2323 2328	颈短或颈蹼
+T211	Symptom 2329 2332	肘外翻
+T212	Symptom 2405 2409	身材矮小
+T213	Symptom 2420 2428	第二性征发育异常
+T214	Symptom 2477 2485	身材较同龄人矮小
+T215	Symptom 2486 2492;2493 2495	第二性征发育 异常
+T216	Disease 2591 2598	自身免疫性疾病
+T217	Disease 2767 2769	甲减
+T218	Drug 2844 2847;2848 2851	抗甲状 腺药物
+T219	Disease 2929 2934;2935 2937	自身免疫性 疾病
+T220	Test 2984 2987	雌激素
+T221	Anatomy 3007 3014	免疫 T 细胞
+T222	Disease 3117 3119	甲亢
+T223	Symptom 3124 3128	月经异常
+T224	Disease 3135 3137	甲亢
+T225	Symptom 3139 3143	月经异常
+T226	Drug 3205 3210	雌、孕激素
+T227	Drug 3217 3220;3221 3222	生长激 素
+T228	Test 3159 3164	染色体检查
+T229	Test 2504 2512	外周血染色体检查
+T230	Test_Value 2514 2519	45,X0
+T231	Symptom 3227 3231	身材矮小
+T232	Test 3233 3236	性激素
+T233	Treatment 3306 3317	同位素131 I 治疗
+T234	Disease 37 45;46 49	甲状腺功能亢进性 心脏病
+T235	Disease 764 772	甲状腺功能亢进症
+T236	Disease 1733 1738;1739 1745	甲状腺功能 亢进性心脏病
+T237	Disease 2759 2766	甲状腺功能减退
+T238	Symptom 611 615	体重下降
+T239	Test 1442 1447	动态心电图
+T240	Test 1402 1409	低血糖激发试验
+T241	Disease 404 414	自身免疫性甲状腺疾病
+T242	Disease 2627 2634;2635 2638	自身免疫性甲状 腺疾病
+T243	Disease 2894 2904	自身免疫性甲状腺疾病
+T244	Disease 3039 3049	自身免疫性甲状腺疾病
+T245	Disease 3082 3092	自身免疫性甲状腺疾病
+T246	Disease 2771 2776;2777 2780	一过性甲状 腺毒症

@@ -1,0 +1,245 @@
+T1	Disease 2853 2859	1 型糖尿病
+T2	Disease 42 48	2 型糖尿病
+T3	Disease 107 113	2 型糖尿病
+T4	Disease 237 243	2 型糖尿病
+T5	Disease 2250 2256	2 型糖尿病
+T6	Disease 2311 2317	2 型糖尿病
+T7	Disease 2336 2342	2 型糖尿病
+T8	Disease 2447 2453	2 型糖尿病
+T9	Disease 2515 2521	2 型糖尿病
+T10	Disease 2582 2588	2 型糖尿病
+T11	Disease 2722 2728	2 型糖尿病
+T12	Disease 6568 6574	2 型糖尿病
+T13	Disease 6847 6853	2 型糖尿病
+T14	Disease 6969 6975	2 型糖尿病
+T15	Test 280 285	HBA1C
+T16	Test 1570 1575	HBA1C
+T17	Test 2783 2788	HBA1C
+T18	Test 3729 3734	HBA1C
+T19	Test 5474 5479	HBA1C
+T20	Test 5739 5744	HBA1C
+T21	Test 6262 6267	HBA1C
+T22	Test 3789 3794	HDL-C
+T23	Test 5517 5522	HDL-C
+T24	Test 3772 3777	LDL-C
+T25	Test 4504 4509	LDL-C
+T26	Test 5534 5539	LDL-C
+T27	Drug 12 16	二甲双胍
+T28	Drug 119 123	二甲双胍
+T29	Drug 2374 2378	二甲双胍
+T30	Drug 2546 2550	二甲双胍
+T31	Drug 4877 4881	二甲双胍
+T32	Drug 6864 6868	二甲双胍
+T33	Test 185 189	空腹血糖
+T34	Test 275 279	空腹血糖
+T35	Test 3714 3718	空腹血糖
+T36	Test 5126 5130	空腹血糖
+T37	Test 5734 5738	空腹血糖
+T38	Test 5898 5902	空腹血糖
+T39	Test 5913 5917	空腹血糖
+T40	Test 6256 6260	空腹血糖
+T41	Test 5492 5495	尿素氮
+T42	Test 4527 4536	高密度脂蛋白胆固醇
+T43	Test 5506 5509;5510 5516	高密度 脂蛋白胆固醇
+T44	Test 4510 4519	低密度脂蛋白胆固醇
+T45	Test 5524 5533	低密度脂蛋白胆固醇
+T46	Test 3740 3744	总胆固醇
+T47	Test 5501 5505	总胆固醇
+T48	Test 317 321	体重指数
+T49	Test 2995 2999	体重指数
+T50	Test 5460 5464	体重指数
+T51	Test 5797 5801	体重指数
+T52	Test 5967 5971	体重指数
+T53	Test 6770 6772;6773 6775	体重 指数
+T54	Test 6789 6793	体重指数
+T55	Test 3018 3021	收缩压
+T56	Test 5465 5468	收缩压
+T57	Test 3029 3032	舒张压
+T58	Test 5469 5472	舒张压
+T59	Test 5484 5487	AST
+T60	Test 5480 5483	ALT
+T61	Test 3010 3012	腰围
+T62	Test 5457 5459	腰围
+T63	Test 5805 5807	腰围
+T64	Test 5830 5832	腰围
+T65	Test 4492 4503	胰岛 β 细胞功能指数
+T66	Test 4466 4473	胰岛素抵抗指数
+T67	Test 5108 5113	空腹胰岛素
+T68	Anatomy 255 259	β 细胞
+T69	Anatomy 442 446	β 细胞
+T70	Anatomy 2260 2264	β 细胞
+T71	Anatomy 2286 2290	β 细胞
+T72	Anatomy 2325 2329	β 细胞
+T73	Anatomy 2600 2604	β 细胞
+T74	Anatomy 6319 6323	β 细胞
+T75	Anatomy 6448 6452	β 细胞
+T76	Anatomy 6651 6655	β 细胞
+T77	Drug 18 22	罗格列酮
+T78	Drug 129 133	罗格列酮
+T79	Drug 2552 2556	罗格列酮
+T80	Drug 4786 4790	罗格列酮
+T81	Drug 4897 4901	罗格列酮
+T82	Drug 6870 6874	罗格列酮
+T83	Test 3756 3760	甘油三酯
+T84	Test 5496 5500	甘油三酯
+T85	Anatomy 59 62	β细胞
+T86	Drug 2366 2369	TZD
+T87	Drug 6334 6337	TZD
+T88	Drug 6534 6537	TZD
+T89	Test 206 208	体重
+T90	Test 395 397	体重
+T91	Test 2988 2990	体重
+T92	Test 5802 5804	体重
+T93	Test 5821 5823	体重
+T94	Test 5827 5829	体重
+T95	Test 6831 6833	体重
+T96	Test 6956 6958	体重
+T97	Test 198 200;201 205	胰升 糖素水平
+T98	Test 386 392	胰升糖素水平
+T99	Test 5216 5222	胰升糖素水平
+T100	Test 5541 5543;5544 5548	胰升 糖素水平
+T101	Test 5850 5856	胰升糖素水平
+T102	Test 6611 6617	胰升糖素水平
+T103	Test 6947 6953	胰升糖素水平
+T104	Drug 7 11	沙格列汀
+T105	Drug 124 128	沙格列汀
+T106	Drug 2541 2545	沙格列汀
+T107	Drug 4594 4598	沙格列汀
+T108	Drug 4781 4785	沙格列汀
+T109	Drug 4858 4862	沙格列汀
+T110	Drug 6858 6862	沙格列汀
+T111	Drug 6347 6356	GLP-1 类似物
+T112	Drug 147 152	预混胰岛素
+T113	Drug 222 227	预混胰岛素
+T114	Drug 2565 2570	预混胰岛素
+T115	Drug 4803 4808	预混胰岛素
+T116	Drug 6884 6889	预混胰岛素
+T117	Drug 2360 2365	噻唑烷二酮
+T118	Test 4520 4524;4525 4526	HDL- C
+T119	Drug 4922 4925;4926 4927	二甲双 胍
+T120	Drug 5605 5608;5609 5610	沙格列 汀
+T121	Test 2808 2810	血糖
+T122	Test 4918 4920	血糖
+T123	Test 5026 5028	血糖
+T124	Test 6294 6296	血糖
+T125	Test 6700 6702	血糖
+T126	Test 6905 6907	血糖
+T127	Test 5488 5490	肌酐
+T128	Drug 4649 4650;4651 4654	罗 格列酮
+T129	Amount 5611 5615	5 mg
+T130	Amount 5631 5637	0. 5 g
+T131	Amount 5654 5658	4 mg
+T132	Frequency 5616 5621	1 / d
+T133	Frequency 5638 5643	3 / d
+T134	Frequency 5659 5664	1 / d
+T135	Drug 28 31	胰岛素
+T136	Drug 156 159	胰岛素
+T137	Duration 172 176	24 周
+T138	Test 190 193	胰岛素
+T139	Test 194 197	C-肽
+T140	Test 302 310	HOMA2-IR
+T141	Test 312 316	胰升糖素
+T142	Test_Value 324 328	明显下降
+T143	Test 330 334	胰升糖素
+T144	Drug 343 346	胰岛素
+T145	Symptom 368 373	胰岛素抵抗
+T146	Reason 2473 2478	胰岛素抵抗
+T147	Test 2770 2776	抗胰岛素抗体
+T148	Test_Value 2776 2778	阴性
+T149	Test_Value 2789 2792	≥7%
+T150	Disease 2828 2833	急性糖尿病
+T151	Disease 2840 2845	慢性糖尿病
+T152	Disease 2862 2869	特殊类型糖尿病
+T153	Disease 2874 2879	心功能不全
+T154	Level 2889 2893	3/4级
+T155	Disease 2900 2904	膀胱肿瘤
+T156	Disease 2910 2913;2914 2917	血压控 制不良
+T157	Drug 4600 4603	安立泽
+T158	Drug 4628 4631	格华止
+T159	Amount 4604 4611	5 mg /片
+T160	Amount 4632 4641	0. 5 g /片
+T161	Drug 4657 4660	太罗片
+T162	Amount 4661 4668	4 mg /片
+T163	Drug 4677 4685;4686 4689	门冬胰岛素 30 注射液
+T164	Drug 4690 4696	诺和锐 30
+T165	Amount 4697 4704	3 ml /支
+T166	Amount 4863 4867	5 mg
+T167	Amount 4904 4908	4 mg
+T168	Amount 4934 4944	2. 0 g / d
+T169	Drug 4946 4949	胰岛素
+T170	Drug 4813 4816	胰岛素
+T171	Frequency 4868 4873	1 / d
+T172	Frequency 4890 4895	2 / d
+T173	Amount 4883 4889	0. 5 g
+T174	Frequency 4909 4914	1 / d
+T175	Drug 4982 4994	门冬胰岛素 30 注射液
+T176	Amount 5003 5022	0. 4 ~ 0. 5 IU / kg
+T177	Drug 5032 5035	胰岛素
+T178	Test 5131 5133;5134 5137	空腹 C 肽
+T179	Test 5155 5163	HOMA2-IR
+T180	Test 5165 5168;5169 5180	稳态模 型 2 胰岛素分泌指数
+T181	Test 5182 5189	HOMA2-β
+T182	Test 5280 5288	HOMA2-IR
+T183	Test 5291 5298	HOMA2-β
+T184	Drug 5435 5438	胰岛素
+T185	Duration 5586 5590	24 周
+T186	Drug 5666 5669	胰岛素
+T187	Drug 5677 5680	胰岛素
+T188	Amount 5684 5693	21 IU / d
+T189	Test_Value 5777 5781	显著升高
+T190	Test 5791 5795	胰升糖素
+T191	Drug 5815 5818	胰岛素
+T192	Duration 5891 5895	24 周
+T193	Test_Value 5904 5908	明显下降
+T194	Test 5961 5963;5964 5966	胰升 糖素
+T195	Duration 6037 6041	24 周
+T196	SideEff 6058 6060	恶心
+T197	SideEff 6072 6073;6074 6075	纳 差
+T198	Drug 6119 6122	胰岛素
+T199	Disease 6196 6199;6200 6207	微血管 和大血管并发症
+T200	Drug 6241 6244	胰岛素
+T201	Test_Value 6270 6274	明显下降
+T202	Duration 6250 6254	24 周
+T203	Drug 6357 6366	DPP-4 抑制剂
+T204	Drug 6371 6374	胰岛素
+T205	Drug 6395 6398	胰岛素
+T206	Test 6405 6416	ln(HOMA2-β)
+T207	Test 6420 6432	ln(HOMA2-IR)
+T208	Test_Value 6432 6434	降低
+T209	Test_Value 6416 6417;6418 6419	升 高
+T210	Drug 6499 6502	胰岛素
+T211	Symptom 6517 6522	胰岛素抵抗
+T212	Drug 6543 6550;6551 6553	DPP-4 抑 制剂
+T213	Symptom 6581 6589	α 细胞功能失调
+T214	Drug 6634 6643	DPP-4 抑制剂
+T215	Test 6669 6673	胰升糖素
+T216	Drug 6688 6691	胰岛素
+T217	Drug 6732 6735	胰岛素
+T218	Test_Value 6775 6779	显著降低
+T219	Test_Value 6793 6797	显著上升
+T220	Reason 6928 6933	胰岛素抵抗
+T221	Drug 4621 4627	盐酸二甲双胍
+T222	Drug 4773 4779	盐酸二甲双胍
+T223	Drug 5624 5630	盐酸二甲双胍
+T224	Disease 2921 2927	肝肾功能不全
+T225	Test 286 300	稳态模型 2 胰岛素抵抗指数
+T226	Test 5140 5154	稳态模型 2 胰岛素抵抗指数
+T227	Reason 2480 2487;2488 2489	β 细胞功能障 碍
+T228	Drug 5646 5652	罗格列酮钠片
+T229	SideEff 6706 6710	体重增加
+T230	Anatomy 2389 2394	GLP-1
+T231	Symptom 2502 2505	高血糖
+T232	SideEff 6104 6108;6109 6111	症状性低 血糖
+T233	SideEff 6142 6149	无症状性低血糖
+T234	SideEff 6157 6163	症状性低血糖
+T235	Reason 6188 6193	慢性高血糖
+T236	SideEff 6712 6717	低血糖发生
+T237	SideEff 6738 6743	低血糖事件
+T238	Test 5748 5756	HOMA2-IR
+T239	Test 5769 5776	HOMA2-β
+T240	Test 5951 5959	HOMA2-IR
+T241	Anatomy 2379 2386	人胰升糖素样肽
+T242	Anatomy 2399 2405	二肽基肽酶4
+T243	Anatomy 2406 2411	DPP-4
+T244	Test 6480 6486;6487 6489	HOMA2- IR
+T245	Reason 6561 6566	胰岛素抵抗

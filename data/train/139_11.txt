@@ -1,0 +1,406 @@
+临床研究
+基金项目:国家自然科学基金资助项目(81170759)
+海市糖尿病临床医学中心(王俊薇、任颖、邵琦、赵催春),内分泌代谢
+科,上海市糖尿病临床医学中心(李连喜),心内科(陆志刚、魏盟)
+非甲状腺病态综合征在冠心病患者中的研究
+王俊薇  任颖  李连喜  邵琦  赵催春  陆志刚  魏盟
+[摘要]   目的  探讨非心肌梗死冠心病患者中非甲状腺病态综合征(non-thyroidal illness syndrome,
+NTIS)及 FT3 水平与远期全因、心血管死亡率的关系。 方法 入选 1 354 例行冠脉造影的患者,经筛选后最
+终纳入 984 例经冠脉造影明确诊断的非心肌梗死冠心病患者,分为 NTIS 组和甲状腺功能正常组,按 FT3 三
+分位数(Tertile)分为 T1、T2、T3 组。 研究随访 1 ~ 6 年,采用多因素 Cox 回归分析,比较 FT3 水平与非心肌
+梗死冠心病患者远期全因及心血管死亡率的关系。 结果 984 例非心肌梗死冠心病患者中 129 例存在
+NTIS。 远期随访结果显示,随着 FT3 水平降低,全因死亡率( T1 组为 9. 6% ,T2 组为 11. 5% ,T3 组为
+20. 9% ,P<0. 01)及心血管死亡率(T1 组为 4. 5% ,T2 组为 7. 2% ,T3 组为 11. 0% ,P<0. 01)均逐渐增高。
+经过各因素校正,FT3(HR=0. 614,95% CI 0. 439 ~ 0. 859)与全因死亡独立相关。 FT3(HR = 0. 605,95% CI
+0. 370 ~ 0. 986)也是心血管死亡的独立危险因子。 结论 NTIS 存在于非心肌梗死冠心病患者,FT3 降低为
+影响非心肌梗死冠心病患者远期全因死亡及心血管死亡的独立危险因素。
+[关键词]   非甲状腺病态综合征; 非心肌梗死冠心病; 远期死亡
+Study on non-thyroidal illness syndrome in patients with coronary artery disease Wang Junwei*, Ren Ying, Li
+Lianxi, Shao Qi, Zhao Cuichun, Lu Zhigang, Wei Meng. *Department of General Medicine, Shanghai Clinical Center
+for Diabetes, Shanghai Jiaotong University Affiliated Sixth People忆s Hospital, Shanghai 200233,China
+[Abstract]  Objective  To determine the prognostic significance of non-thyroidal illness syndrome(NTIS)
+and FT3 on long-term all-cause and cardiovascular mortality in patients with coronary artery disease(CAD). Methods
+A total of 1 354 patients underwent coronary angiograhy and participated in the study. After screening, 984 patients
+with CAD were enrolled finally and divided into NTIS group and euthyroid group. The admitted patients were also
+classified into Tertile 1-3 groups based on FT3 value. The relationship of long-term all-cause and cardiovascular
+mortality with FT3 was investigated by multivariate Cox regression analysis. Results 129 out of 984 patients had
+NTIS. As FT3 value decreased, both long-term all-cause mortality(Tertile 1 group 9. 6% , Tertile 2 group 11. 5% ,
+Tertile 3 group 20. 9% , P<0. 01)and cardiovascular mortality(Tertile 1 group 4. 5% , Tertile 2 group 7. 2% , Tertile
+3 group 11. 0% , P<0. 01) gradually increased. After adjusting for all factors, FT3(HR = 0. 614, 95% CI 0. 439-
+0. 859)was independently associated with long-term all-cause mortality. FT3(HR = 0. 605, 95% CI 0. 370-0. 986)
+was also a risk factor for cardiovascular mortality. Conclusion NTIS exists in patients with CAD without myocardial
+infarction. FT3 reduction is an independent risk factor for long-term all-cause and cardiovascular mortality in patients
+with CAD.
+[Key words]  Non-thyroidal illness syndrome; Coronary artery disease; Long-term mortality
+(Chin J Endocrinol Metab, 2015, 31: 47-51)
+非 甲 状 腺 病 态 综 合 征 ( non-thyroidal illness
+syndrome,NTIS),旧称低 T3 综合征,指重症疾病中的
+非甲状腺疾病患者存在的甲状腺功能异常,表现为血
+清游离三碘甲状腺原氨酸(FT3)降低,游离甲状腺素
+(FT4)及促甲状腺激素(TSH)降低或在正常范围[1]。
+已有多项研究显示重症急性疾病患者中 NTIS 与预后
+密切相关[2,3]。 有研究指出 NTIS 同样存在于克罗恩
+病、肾病综合征、系统性红斑狼疮等慢性重症疾病
+中[4,5]。
+据世界卫生组织预测,至 2020 年,缺血性心脏病
+成为全球发病率和死亡率增加最重要的原因[6]。 目
+前对 NTIS 与慢性重症疾病发病率及预后的研究还较
+少,因此,本研究探讨慢性非心肌梗死冠心病重症患者
+中 NTIS 发病率及与远期全因、心血管死亡率的关系。
+对象和方法
+一、 对象
+初选 2008 年 4 月至 2013 年 4 月在上海市第六人
+民医院心内科首次行冠脉造影检查的患者 1 354 例。
+冠心病诊断标准为:冠脉造影显示至少 1 支主要冠状
+动脉狭窄≥50% ,主要冠状动脉包括左主干、左前降支
+及对角支、左回旋支及第一钝缘支、右冠脉。 慢性心力
+衰竭的诊断标准参照 2008 年美国心脏病学会(ACC) /
+美国心脏学会(AHA)指南,以纽约心脏协会(NYHA)
+分级表示心衰严重程度,以 NYHA 分级3/4级为严
+重充血性心力衰竭[7]。 NTIS 的诊断标准:FT3 低于正
+常、 FT4 和 TSH 正常或低于正常[1](FT3 正常参考值
+范围为 3. 10 ~ 6. 80 pmol / L, FT4 为 12. 00 ~ 22. 00
+pmol / L,TSH 为 0. 27 ~ 4. 20 mIU / L)。 按 NTIS 诊断标
+准将冠心病患者分为 NTIS 组和甲功正常组;根据 FT3
+三分位值(Tertile)分为 3 组:T1 组 FT3 4. 32 ~ 6. 80
+pmol / L,T2 组 3. 72 ~ 4. 32 pmol / L, T3 组 < 3. 72
+pmol / L。
+研究排除:(1)因急性心肌梗死入院或既往已有
+心肌梗死的患者 106 例;(2)冠脉造影显示主要冠状
+动脉狭窄<50%的患者 179 例;(3)恶性肿瘤或结核等
+慢性消耗性疾病、严重系统性及全身疾病、严重感染患
+者 16 例,由原发性肾脏病引起的慢性肾功能不全的患
+者 4 例;(4)接受胺碘酮或类固醇类药物治疗的患者
+16 例;(5)既往有甲状腺疾病的患者,包括已经在服用
+甲状腺相关药物的人群 49 例。
+二、 方法
+研究最终纳入 984 例经冠脉造影明确诊断的冠心
+病患者,记录患者的基本信息(年龄、性别)、既往史和
+个人史(高血压病史、糖尿病史、脑卒中史、吸烟史、饮
+酒史,诊断标准与前期研究相同[8] )、体征(血压、体重
+指数),入院后 24 h 内测定各实验室指标,采用电化学
+发光法检测甲状腺功能(FT3、FT4、TSH),采用酶法测
+定血肌酐。 根据简化肾脏病膳食改善方程 (改良
+4v-MDRD)公式计算: 估算肾小球滤过率 ( eGFR)
+龄) -0. 203×(0. 742 女性),肌酐的单位为 mg / dl[9]。 根
+据患者冠脉造影结果记录冠脉病变支数,主要冠状动
+脉 1 支阻塞≥50% 为单支病变,左主干阻塞或主要冠
+状动脉 2 ~ 3 支阻塞≥50% 为多支病变。 采用 Gensini
+评分系统对冠脉狭窄程度定量评分:无管腔狭窄为 0
+分,狭窄 1% ~25% 为 1 分,狭窄 26% ~ 50% 为 2 分,
+狭窄 51% ~ 75% 为 4 分,狭窄 76% ~ 90% 为 8 分,
+91% ~99%为 16 分,100%为 32 分。 根据病变部位对
+应系数,计算每例患者 Gensini 积分总和[10]。 患者出
+院后对其随访 1 ~ 6 年,记录全因死亡及心血管死亡的
+发生情况。 心血管死亡原因包括心力衰竭、急性心肌
+访及查阅患者再入院病历记录明确死亡原因。
+三、 统计学处理
+使用 SPSS 16. 0 统计学软件进行数据处理。 计量
+资料采用 Kolmogorov-Smirnov 方法进行正态分布检验。
+正态分布的计量资料用 x-± s 表示,非正态分布的计量
+资料以中位数(四分位间距)表示。 两组间比较正态
+分布变量采用独立样本 t 检验,非正态分布变量采用
+Wilcoxon 秩和检验,3 组间正态分布变量比较采用单因
+素方差分析,非正态分布变量采用 Kruskal-Wallis 检
+验。 计数资料以百分率表示,组间率的比较采用 字2 检
+验。 采用一般线性模型对计量资料作为因变量时进行
+各因素校正及相关性分析,采用 Binary logistic 回归对
+计数资料作为因变量时进行各因素校正。 单因素相关
+性分析采用 Spearman 秩相关分析。 采用多因素 Cox
+比例风险模型进行预后分析,P<0. 05 为差异有统计学
+意义。
+结    果
+一、 非心肌梗死冠心病患者 NTIS 患病情况和临
+床特征
+入选的 984 例非心肌梗死冠心病患者中,甲状腺
+功能正常者 826 例(占 84. 0% )。 NTIS 患者 129 例
+(占 13. 1% ):其中 FT3 降低,FT4、TSH 正常者 109 例
+(84. 5% ); FT3 降 低, FT4 降 低, TSH 正 常 7 例
+(5. 4% ),其中 4 例死亡;FT3 降低,FT4 正常,TSH 降
+低 6 例(4. 7% );FT3 降低,FT4 升高,TSH 正常 6 例
+(4. 7% );FT3、FT4、TSH 均降低者 1 例(0. 08% )。 另
+外观察到 FT4 降低,FT3、TSH 正常者 29 例,占 2. 9% 。
+984 例非心肌梗死冠心病患者年龄 30 ~ 91 岁,中
+位年龄为 70 岁,男性为 662 例(占 67. 3% )。 NTIS 患
+者与甲状腺功能正常患者相比,年龄、白细胞计数、C
+反应蛋白、白蛋白、血红蛋白、左室射血分数(LVEF)、
+eGFR、血糖、 Gensini 积分等具有统计学差异 ( P <
+0. 05)。如表 1 所示,校正年龄、性别后,随着 FT3 降低,
+糖尿病比例、白细胞计数、C 反应蛋白、空腹血糖、餐后
+2 h 血糖逐渐增高,Gensini 积分增加,NYHA 分级3/
+4级比例增高。 血压、白蛋白、血红蛋白、LVEF、eGFR
+随着 FT3 的降低而逐渐降低,均有统计学差异(P <
+0. 05)。3 组间患者高血压病史、吸烟史、体重指数、血
+脂、冠脉多支病变比例等无统计学差异。
+984 例非心肌梗死冠心病患者中 LVEF<50%的患
+者为 14. 1% 。 NYHA 分级3/4级的患者为 16. 7% 。
+T3 组和 T1、 T2 组相比 LVEF 降低, NYHA 分级3 /郁
+级比例增加,具有统计学差异(均 P<0. 01)。 对 FT3
+水平与各因素进行相关性分析,LVEF( r = 0. 451,P<
+0. 01)、 eGFR( r=0. 435, P<0. 01)、 白蛋白( r=0. 388,
+表 1  984 例冠心病患者基线临床特征 [x-± s,中位数(四分位间距)]
+Tab 1  Baseline clinical features in 984 patients with CAD [x-± s,M(Quartile)]
+FT3
+(pmol / L)
+例数
+n
+年龄
+(岁)
+Age
+(year)
+男性
+Male
+n(% )
+高血压
+Hypertesion
+n(% )
+糖尿病
+Diabetes
+n(% )
+吸烟
+Smoking
+n(% )
+饮酒
+Drinking
+n(% )
+SBP
+(mmHg)
+DBP
+(mmHg)
+BMI
+(kg / m2)
+4. 32-6. 80 330 65. 79 ± 10. 81 242(73. 3) 215(65. 2) 85(25. 8) 137(41. 5) 39(11. 8) 137 ± 20   79 ± 10 24. 68 ± 3. 28
+3. 72-4. 32 326 70. 64 ± 10. 28 221(67. 8) 224(68. 7) 112(34. 4) 88(27. 0) 25(7. 7) 135 ± 20   77 ± 11 24. 85 ± 4. 06
+<3. 72   328 74. 21 ± 9. 67bc 199(60. 6) bc 223(68. 0) 136(41. 5) bc 111(33. 8) 15(4. 6) b 132 ± 23bc   74 ± 12bc 24. 46 ± 3. 56
+P <0. 01 <0. 01 0. 404 <0. 01 0. 076 <0. 01 0. 015 0. 001 0. 705
+*P <0. 01 0. 001 0. 974 0. 001 0. 036 0. 012 <0. 01 <0. 01 0. 964
+FT3
+(pmol / L)
+例数
+n
+WBC
+(109 / L)
+Hb
+(g / L)
+Alb
+(g / L)
+CRP
+(mg / L)
+TG
+(mmol / L)
+TC
+(mmol / L)
+4. 32-6. 80 330 6. 70 ± 2. 09 141. 10 ± 16. 43 43. 71 ± 4. 24 1. 03(0. 50-2. 86) 1. 36(1. 00-1. 87) 4. 34 ± 1. 13
+3. 72-4. 32 326 7. 09 ± 3. 78 129. 86 ± 17. 94 41. 36 ± 6. 29 1. 79(0. 65-6. 18) 1. 27(0. 91-1. 76) 4. 45 ± 1. 10
+<3. 72   328 8. 07 ± 4. 39bc 122. 41 ± 21. 41bc 38. 05 ± 9. 91bc 5. 37(1. 50-25. 50) b 1. 23(0. 88-1. 71) a 4. 46 ± 1. 20
+P <0. 01 0. 001 0. 005 <0. 01 0. 368 0. 022
+*P <0. 01 <0. 01 <0. 01 <0. 01 0. 115 0. 550
+FT3
+(pmol / L)
+例数
+n
+FT3
+(pmol / L)
+FT4
+(pmol / L)
+TSH
+(mIU / L)
+FPG
+(mmol / L)
+2hPG
+(mmol / L)
+SCr
+(μmol / L)
+4. 32-6. 80 330 4. 89 ± 1. 09 16. 39 ± 2. 73 1. 94(1. 31-2. 96) 6. 20 ± 2. 21 9. 71 ± 3. 93 80. 40 ± 22. 50
+3. 72-4. 32 326 4. 04 ± 0. 17 16. 21 ± 3. 07 2. 00(1. 26-3. 12) 6. 20 ± 1. 87 9. 78 ± 3. 60 83. 04 ± 36. 31
+<3. 72   328 3. 06 ± 0. 53bc 15. 88 ± 3. 53b 1. 68(0. 85-3. 14) 7. 08 ± 3. 03bc 10. 60 ± 5. 80b 106. 91 ± 60. 91bc
+P <0. 01 0. 031 0. 059 <0. 01 0. 162 <0. 01
+*P <0. 01 0. 002 0. 136 <0. 01 0. 034 <0. 01
+FT3
+(pmol / L)
+例数
+n
+eGFR
+LVEF
+(% )
+NYHA3/郁
+n(% )
+Gensini 积分
+Gensini score
+(分)
+多支病变
+Multivessel lesion
+n(% )
+4. 32-6. 80 330 85. 19 ± 24. 36 59. 75 ± 7. 43 34(10. 3)   12(6-20) 88(26. 7)
+3. 72-4. 32 326 78. 40 ± 25. 47 58. 62 ± 9. 22 41(12. 6)   12(6-22) 73(22. 5)
+<3. 72   328 63. 70 ± 27. 57bc 55. 27 ± 10. 14bc 89(27. 1) bc   16(10-28) bc 72(21. 9)
+P <0. 01 <0. 01 <0. 01 0. 001 0. 176
+*P <0. 01 <0. 01 <0. 01 <0. 01 0. 460
+注:SBP:收缩压 Systolic blood pressure;1 mmHg=0. 133 kPa;DBP:舒张压 Diastolic blood pressure;BMI:体重指数 Body mass index;WBC:白细胞计数
+White blood cell count; Hb:血红蛋白 Hemoglobin; Alb:白蛋白 Albumin;CRP:C 反应蛋白 C reactive protein;TG:甘油三酯 Triglyceride;TC:总胆固醇 Total
+cholesterol;FPG:空腹血糖 Fasting plasma glucose;2hPG:餐后2 h 血糖2 h postprandial plasma glucose;SCr:血肌酐 Serum creatinine;eGFR:估算肾小球滤过
+率 Estimated glomerular filtration rate;LVEF:左室射血分数 Left ventricular ejection fraction;NYHA:纽约心脏病协会 New York Heart Association;P 值及*P
+值为 3 组同时比较, P 值为未校正年龄、性别, *P 值为校正年龄、性别 P and *P value for comparison among three groups without and with adjusting age and
+gender;与 FT3 4. 32-6. 80 pmol / L 组比较 vs FT3 4. 32-6. 80 pmol / L group,aP<0. 05,bP<0. 01;与 FT3 3. 72-4. 32 pmol / L 组比较 vs FT3 3. 72-4. 32 pmol / L
+group,cP<0. 01
+P<0. 01)、血红蛋白( r=0. 432,P<0. 01)与 FT3 呈正相
+关,C 反应蛋白( r= -0. 363,P<0. 01)与 FT3 呈负相关。
+在校正年龄、性别、高血压病史、糖尿病史、吸烟史、饮
+酒史后,FT3 和 LVEF 水平呈正相关(B 值为1. 773,P<
+0. 01 ), 与 eGFR 水 平 呈 正 相 关 ( B 值 为 4. 819,
+P<0. 01)。 进一步校正其他因素后,FT3 和 LVEF 水平
+仍呈显著正相关 (B 值为 2. 166,P < 0. 01), FT3 和
+eGFR 水平的相关性也仍存在统计学差异 (B 值为
+3. 726,P=0. 002,表 2)。
+二、 远期随访
+对非心肌梗死冠心病患者共随访 1 ~ 6 年,中位随
+访时间 33. 7 个月,失访 85 例。 112 例患者在随访期
+间内死亡,其中心血管死亡 79 例(70 . 5% ) 。 与生
+存患者相比,死亡患者 NTIS 发生率更高(36 . 0% 对
+表 2  FT3 和心功能、肾功能的相关性分析
+Tab 2  Correlation analysis for FT3 with heart and renal function
+模型
+Model
+LVEF eGFR
+B 95% CI P B 95% CI P
+1 1. 773 1. 100-2. 446 <0. 01 4. 819 3. 646-5. 992 <0. 01
+2 2. 234 1. 277-3. 190 <0. 01 4. 298 2. 950-5. 646 <0. 01
+3 2. 166 1. 041-3. 291 <0. 01 3. 726 1. 352-6. 100 0. 002
+注:略语同表 1 The abbreviations are the same as Tab 1;模型 1:校正年
+龄、性别、高血压病史、糖尿病史、吸烟史、饮酒史 Adjusting age, sex,
+hypertension, diabetes, smoking, and alcohol status;模型 2:模型 1+校正收
+缩压、舒张压、体重指数 Adjusting systolic blood pressure, diastolic blood
+pressure, and body mass index based on model 1;模型 3:模型 2+校正血红
+蛋白、白蛋白、C 反应蛋白、甘油三酯、胆固醇、FT4、TSH、空腹血糖,餐后
+2 h 血糖 Adjusting hemoglobin, albumin, C-reactive protein, triglycerides,
+cholesterol, free thyroxine, thyroid stimulating hormone, fasting plasma
+glucose, 2 h postprandial plasma glucose based on model 2
+11. 2% ,P<0. 01)。 随着 FT3 降低,全因死亡率(T1 组
+为 9. 6% ,T2 组为 11. 5% ,T3 组为 20. 9% ,P<0. 01)和
+心血管死亡率(T1 组为 4. 5% ,T2 组为 7. 2% ,T3 组为
+11. 0% ,P<0. 01)呈增高趋势。
+多因素 Cox 回归分析结果显示, 年龄 ( HR =
+1. 054, 95% CI 1. 023 ~ 1. 087)、FT3(HR = 0. 614,95%
+CI 0. 439 ~ 0. 859)、C 反应蛋白(HR = 1. 008,95% CI
+1. 003 ~ 1. 013)、LVEF(HR = 0. 966,95% CI 0. 943 ~
+0. 990)、空腹血糖(HR=1. 095,95% CI 1. 017 ~ 1. 180)
+与远期全因死亡独立相关。 与全因死亡危险因素相
+比,年龄 (HR = 1. 103,95% CI 1. 049 ~ 1. 158)、 FT3
+(HR = 0. 605,95% CI 0. 370 ~ 0. 986)、C 反应蛋白
+(HR = 1. 007,95% CI 1. 001 ~ 1. 014)、 LVEF (HR =
+0. 964,95% CI 0. 931 ~ 0. 999)、eGFR(HR = 0. 982,
+95% CI 0. 967 ~ 0. 999)是远期心血管死亡的独立危险
+因素(表 3)。
+表 3  Cox 回归对远期全因死亡和心血管死亡风险分析
+Tab 3  Cox regression analysis of the long-term risk of all-cause and
+cardiovascular mortality
+变量
+Variable
+全因死亡
+All-cause mortality
+心血管死亡
+Cardiovascular mortality
+HR 95% CI P HR 95% CI P
+年龄
+Age 1. 054 1. 023-1. 087 0. 001 1. 103 1. 049-1. 158 0. 001
+FT3 0. 614 0. 439-0. 859 0. 004 0. 605 0. 370-0. 986 0. 044
+eGFR 0. 992 0. 981-1. 002 0. 124 0. 982 0. 967-0. 999 0. 033
+CRP 1. 008 1. 003-1. 013 0. 001 1. 007 1. 001-1. 014 0. 028
+LVEF 0. 966 0. 943-0. 990 0. 005 0. 964 0. 931-0. 999 0. 044
+Alb 0. 963 0. 944-0. 983 0. 001 0. 956 0. 933-0. 980 0. 040
+FPG 1. 095 1. 017-1. 180 0. 016 - - -
+注:略语同表 1 The abbreviations are the same as Tab 1;校正因素同表
+2 模型 3 The adjusting factors are the same as Model 3 in Tab 2
+讨    论
+本研究对 984 例非心肌梗死冠心病患者进行分
+析,发现 NTIS 存在于非心肌梗死冠心病患者中,与疾
+病重症心衰程度相关,占 13. 1% ,但低于急性心肌梗
+死患者中的发病率,本课题组前期研究发现,心肌梗死
+患者中 NTIS 发病率为 27. 8% [11]。 Sbrana 等[12] 研究
+发现包括有心肌梗死病史的冠心病患者中 NTIS 发生
+率为 25% 。 既往研究中发现除外急性重症患者,慢性
+重症患者中也存在 NTIS。 Karadag 等[13] 报道,慢性阻
+塞性肺病(COPD)稳定期患者 NTIS 的患病率为 20% ,
+而 COPD 急性加重期患者中 NTIS 发病率为 70% 。 另
+外,重度 COPD 患者的 FT3 水平低于轻中度 COPD 患
+者的 FT3 水平。 肝硬化患者中 NTIS 发病率为 51% ,
+高于慢性肝炎患者中 NTIS 发病率 ( 11. 1% ) [14]。
+Ratcliffe 等[15]报道肺癌中低 T3 综合征的比例为 23% ,
+合并低 T3 的肺癌患者半年内死亡率(49% )较正常甲
+功的肺癌患者(27% )明显增高。 近期有研究在慢性
+肾脏病患者中发现 NTIS 发病率为 8. 2% ~ 78. 6% ,随
+着 eGFR 降低,重症程度加重,发病率逐渐升高[16]。
+本研究发现慢性心衰重症冠心病患者中白蛋白、
+血红蛋白水平随着 FT3 降低而逐渐下降,白细胞计数
+及 C 反应蛋白升高,提示营养不良对 NTIS 形成具有
+作用以及炎症促进 NTIS 的发生。 非心肌梗死冠心病
+患者长期存在营养不良、炎症、心脏缺血、体液负荷增
+加等病理生理状态,不仅具有急性疾病时出现的外周
+甲状腺激素代谢的改变,下丘脑-垂体-甲状腺(HPT)
+轴的调节也出现异常,TSH 减少,进而导致甲状腺激素
+产生和释放减少,可表现为 FT3 和 FT4 减低[17]。 Alder
+等[5]报道营养不良使 TRH 表达下降,影响 TSH 的生
+成和活性,也可通过肝摄取 T4 减少及抑制脱碘酶活性
+来减少 T4 向 T3 的转化,加重 NTIS。 另外,营养不良也
+促进炎症的发生。 Zoccali 等[18] 发现炎症因子是 NTIS
+形成的重要原因,炎症反应也增加蛋白等营养底物的
+分解加重营养不良,进一步加重 NTIS。 因此,在非心
+肌梗死冠心病尤其是重症心衰患者中,营养不良和炎
+症可相互影响,使 NTIS 发生率逐渐增加。
+本研究随访 1 ~ 6 年(12 ~ 72 个月),多因素 Cox
+回归分析显示,FT3 与远期全因死亡及心血管死亡独
+立相关。 NTIS 早期被认为是机体代谢减低和能量保
+存的一种生理适应,但近期研究显示,慢性心衰存在
+NTIS,死亡率增加 2 ~ 3 倍[19]。 本课题组的前期研究
+发现, FT3 与心肌梗死患者近期、远期死亡独立相
+关[8]。 Iglesias 等[20]在住院高龄患者中发现在校正各
+因素后低 FT3 水平与长期全因死亡和心血管死亡有
+关。 Meuswese 等[21]报道合并低 T3 综合征,动脉粥样
+硬化程度更为严重,远期心血管死亡率明显增加。 本
+研究发现非心肌梗死冠心病患者中 FT3 降低与 C 反应
+蛋白升高、白蛋白降低、心肾功能损害增加有关,多种
+因素相互影响并进一步加重 NTIS,FT3 即使在正常低
+值,也出现死亡风险增加。
+本研究还观察到 FT4 降低,FT3、TSH 正常者 29
+例。 29 例患者 84%同时伴有 FT3 在正常低值,出院 6
+个月至 2 年内复查甲状腺功能发现,FT4 恢复正常的
+患者占 84. 2% ,支持存在暂时性的 FT4 水平降低。
+Dietrich 等[22] 认为,NTIS 的诊断不仅以临床和甲状腺
+功能为标准,必要时还需通过客观评价下丘脑垂体功
+能,如 计 算 促 甲 状 腺 激 素 甲 状 腺 素 敏 感 指 数
+(thyrotroph T4 sensitivity index,TTSI)等来判断是否存
+在 NTIS。
+最近心肾综合征和 NTIS 的关系也引起关注[19],
+心肾综合征是指心脏或肾脏功能不全时相互影响的临
+床综合征,两者相互加重不断导致心肾功能恶化和预
+后不良[23]。 本研究对 NTIS 和心肾功能之间的相关性
+进行了分析,发现同时存在心肾功能不全 [ LVEF <
+53 例,占 5. 4% ,其中 20 例患者(37% )中存在 NTIS。
+低 FT3 水平和患者左心室质量增加、左室功能降低有
+关,导致心肌表型和心脏结构变化,收缩力降低,造成
+心功能减退。 甲状腺激素也影响心脏电生理活动,在
+心衰患者中 NTIS 和短暂室性心动过速发生率增加有
+关。 NTIS 和内皮功能异常和血脂增高有关,均引起冠
+心病及心功能的进一步恶化。 FT3 降低也可减少肾血
+流量,引起肾素血管紧张素系统(RAAS)的变化和水
+钠潴留, 进而加重肾功能损伤, 造成 eGFR 降低。
+eGFR 降低加重血脂异常和冠状动脉硬化,产生的毒
+素可直接损伤心肌细胞,水钠潴留增加心脏负荷,导致
+心功能减退。 慢性心衰引起 NTIS 的发生,反过来导致
+心功能和肾功能的恶化,进一步造成预后不良。 本研
+究随访结果观察到,合并 NTIS 的心肾综合征患者的远
+期全因死亡率为 33. 3% ,明显高于无 NTIS 的心肾综
+合征患者(16. 1% )和有 NTIS 无心肾综合征的患者
+(6. 8% ),具有统计学意义(P<0. 01)。 合并 NTIS 的
+心肾综合征患者,无 NTIS 的心肾综合征患者,及有
+NTIS 无心肾综合征患者的心血管死亡率分别为
+44. 4% 、30. 0% 和 11. 5% ,差异具有统计学意义(P<
+0. 01)。 因此目前认为 NTIS 是心肾综合征的连接因
+子,影响心肾综合征的发生和发展,存在 NTIS 的心肾
+综合征患者死亡率可能更高[19]。
+综上所述,NTIS 存在于非心肌梗死冠心病患者
+中,与慢性心衰重症程度相关。 FT3 为非心肌梗死冠
+心病患者远期全因死亡及心血管死亡的独立危险因
+素。 临床医师应在冠心病尤其是重症患者中尽早关注
+NTIS 和心肾综合征,采取积极对症处理,以降低重症
+患者的死亡率。

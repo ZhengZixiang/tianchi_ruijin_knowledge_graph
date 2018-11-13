@@ -1,0 +1,381 @@
+T1	Disease 56 62	2 型糖尿病
+T2	Disease 142 148	2 型糖尿病
+T3	Disease 294 300	2 型糖尿病
+T4	Disease 413 419	2 型糖尿病
+T5	Disease 529 535	2 型糖尿病
+T6	Disease 922 928	2 型糖尿病
+T7	Disease 3752 3758	2 型糖尿病
+T8	Disease 4117 4123	2 型糖尿病
+T9	Disease 4781 4787	2 型糖尿病
+T10	Disease 5087 5093	2 型糖尿病
+T11	Disease 5111 5117	2 型糖尿病
+T12	Disease 5240 5246	2 型糖尿病
+T13	Disease 5364 5370	2 型糖尿病
+T14	Disease 5544 5550	2 型糖尿病
+T15	Disease 5901 5907	2 型糖尿病
+T16	Disease 5926 5932	2 型糖尿病
+T17	Disease 8623 8629	2 型糖尿病
+T18	Disease 8759 8765	2 型糖尿病
+T19	Disease 8798 8804	2 型糖尿病
+T20	Disease 8874 8880	2 型糖尿病
+T21	Disease 9337 9343	2 型糖尿病
+T22	Disease 9472 9478	2 型糖尿病
+T23	Disease 9764 9770	2 型糖尿病
+T24	Disease 9841 9847	2 型糖尿病
+T25	Disease 10111 10117	2 型糖尿病
+T26	Disease 10436 10442	2 型糖尿病
+T27	Disease 10500 10506	2 型糖尿病
+T28	Disease 10513 10519	2 型糖尿病
+T29	Disease 10609 10615	2 型糖尿病
+T30	Disease 10698 10704	2 型糖尿病
+T31	Disease 10742 10748	2 型糖尿病
+T32	Disease 10932 10938	2 型糖尿病
+T33	Disease 10968 10972;10973 10975	2 型糖 尿病
+T34	Disease 270 271;272 276	2 型糖尿病
+T35	Disease 5458 5459;5460 5464	2 型糖尿病
+T36	Disease 8333 8334;8335 8339	2 型糖尿病
+T37	Disease 9299 9300;9301 9305	2 型糖尿病
+T38	Disease 11023 11024;11025 11029	2 型糖尿病
+T39	Test 5672 5677	HDL-C
+T40	Test 6538 6543	HDL-C
+T41	Test 7198 7203	HDL-C
+T42	Test 8972 8977	HDL-C
+T43	Test 9987 9992	HDL-C
+T44	Test 385 390	LDL-C
+T45	Test 427 432	LDL-C
+T46	Test 450 455	LDL-C
+T47	Test 2173 2178	LDL-C
+T48	Test 2324 2329	LDL-C
+T49	Test 2348 2353	LDL-C
+T50	Test 4754 4759	LDL-C
+T51	Test 4795 4800	LDL-C
+T52	Test 4818 4823	LDL-C
+T53	Test 5447 5452	LDL-C
+T54	Test 6555 6560	LDL-C
+T55	Test 7252 7257	LDL-C
+T56	Test 7925 7930	LDL-C
+T57	Test 8465 8470	LDL-C
+T58	Test 8965 8970	LDL-C
+T59	Test 9965 9970	LDL-C
+T60	Test 10150 10155	LDL-C
+T61	Test 10231 10236	LDL-C
+T62	Test 10250 10255	LDL-C
+T63	Test 10301 10306	LDL-C
+T64	Test 10469 10474	LDL-C
+T65	Test 4467 4471	空腹血糖
+T66	Test 4557 4561	空腹血糖
+T67	Test 7337 7341	空腹血糖
+T68	Test 6602 6606	2hPG
+T69	Test 7366 7370	2hPG
+T70	Test 6587 6590	FPG
+T71	Test 7332 7335	FPG
+T72	Test 5679 5682	血肌酐
+T73	Test 7310 7313	血肌酐
+T74	Test 8982 8985	血肌酐
+T75	Test 398 400	TC
+T76	Test 472 474	TC
+T77	Test 493 495	TC
+T78	Test 614 616	TC
+T79	Test 649 651	TC
+T80	Test 823 825	TC
+T81	Test 2204 2206	TC
+T82	Test 2386 2388	TC
+T83	Test 2408 2410	TC
+T84	Test 2732 2734	TC
+T85	Test 2783 2785	TC
+T86	Test 3117 3119	TC
+T87	Test 3402 3404	TC
+T88	Test 4767 4769	TC
+T89	Test 4841 4843	TC
+T90	Test 4862 4864	TC
+T91	Test 5384 5386	TC
+T92	Test 6226 6228	TC
+T93	Test 7148 7150	TC
+T94	Test 8038 8040	TC
+T95	Test 8600 8602	TC
+T96	Test 8667 8669	TC
+T97	Test 8751 8753	TC
+T98	Test 8962 8964	TC
+T99	Test 9068 9070	TC
+T100	Test 9962 9964	TC
+T101	Test 10146 10148	TC
+T102	Test 10239 10241	TC
+T103	Test 10274 10276	TC
+T104	Test 10366 10368	TC
+T105	Test 10387 10389	TC
+T106	Test 10447 10449	TC
+T107	Reason 11012 11014	TC
+T108	Test 6240 6242	TG
+T109	Test 7176 7178	TG
+T110	Test 10009 10011	TG
+T111	Test 10086 10088	TG
+T112	Test 10184 10186	TG
+T113	Test 5661 5666;5667 5671	高密度脂蛋 白胆固醇
+T114	Test 7204 7213	高密度脂蛋白胆固醇
+T115	Test 374 383	低密度脂蛋白胆固醇
+T116	Test 4744 4753	低密度脂蛋白胆固醇
+T117	Test 7258 7267	低密度脂蛋白胆固醇
+T118	Test 5650 5655	谷丙转氨酶
+T119	Test 6618 6622	FINS
+T120	Test 7415 7419	FINS
+T121	Test 392 396	总胆固醇
+T122	Test 4761 4765	总胆固醇
+T123	Test 7152 7156	总胆固醇
+T124	Test 315 319	体重指数
+T125	Test 4321 4323;4324 4326	体重 指数
+T126	Test 6978 6982	体重指数
+T127	Test 7032 7035	收缩压
+T128	Test 7084 7087	舒张压
+T129	Test 5656 5659	ALT
+T130	Test 6214 6217	ALT
+T131	Test 7114 7117	ALT
+T132	Test 8978 8981	ALT
+T133	Test 4387 4390	肾功能
+T134	Test 4313 4315	腰围
+T135	Test 5644 5646	腰围
+T136	Test 7004 7006	腰围
+T137	Test 8956 8958	腰围
+T138	Test 4512 4523	胰岛 β 细胞功能指数
+T139	Test 7536 7547	胰岛 β 细胞功能指数
+T140	Test 280 289	口服葡萄糖耐量试验
+T141	Test 4446 4453	胰岛素抵抗指数
+T142	Test 7460 7467	胰岛素抵抗指数
+T143	Test 4456 4461;4462 4464	HOMA- IR
+T144	Test 5690 5697	HOMA-IR
+T145	Test 6632 6639	HOMA-IR
+T146	Test 7444 7451	HOMA-IR
+T147	Test 4524 4530	HOMA-β
+T148	Test 5699 5705	HOMA-β
+T149	Test 6640 6646	HOMA-β
+T150	Test 7521 7527	HOMA-β
+T151	Disease 4099 4104	糖尿病前期
+T152	Test 4482 4487	空腹胰岛素
+T153	Test 4539 4544	空腹胰岛素
+T154	Test 7421 7426	空腹胰岛素
+T155	Test 8989 8994	空腹胰岛素
+T156	Test 7179 7183	甘油三酯
+T157	Test 4327 4330	BMI
+T158	Test 5640 5643	BMI
+T159	Test 6170 6173	BMI
+T160	Test 6973 6976	BMI
+T161	Test 8952 8955	BMI
+T162	Test 4310 4312	身高
+T163	Test 4316 4318	体重
+T164	Disease 951 956;957 958	2 型糖尿 病
+T165	Disease 5276 5281;5282 5283	2 型糖尿 病
+T166	Disease 8446 8451;8452 8453	2 型糖尿 病
+T167	Test 10175 10179;10180 10181	HDL- C
+T168	Disease 350 354	血脂异常
+T169	Disease 4720 4724	血脂异常
+T170	Disease 10206 10208;10209 10211	血脂 异常
+T171	Test 10324 10327	LDL
+T172	Test 4391 4393	血糖
+T173	Test 5683 5685	血糖
+T174	Test 7379 7381	血糖
+T175	Test 8986 8988	血糖
+T176	Test 320 321;322 323	腰 围
+T177	Disease 10651 10659	无症状性胆囊结石
+T178	Disease 10708 10712;10713 10717	无症状性 胆囊结石
+T179	Disease 10752 10760	无症状性胆囊结石
+T180	Disease 10942 10946;10947 10951	无症状性 胆囊结石
+T181	Disease 10979 10987	无症状性胆囊结石
+T182	Disease 11033 11041	无症状性胆囊结石
+T183	Disease 11067 11072;11073 11076	无症状性胆 囊结石
+T184	Disease 64 71	无症状胆囊结石
+T185	Disease 150 157	无症状胆囊结石
+T186	Disease 165 169;170 173	无症状胆 囊结石
+T187	Disease 542 549	无症状胆囊结石
+T188	Disease 568 575	无症状胆囊结石
+T189	Disease 634 641	无症状胆囊结石
+T190	Disease 704 711	无症状胆囊结石
+T191	Disease 930 937	无症状胆囊结石
+T192	Disease 960 967	无症状胆囊结石
+T193	Disease 3672 3679	无症状胆囊结石
+T194	Disease 3690 3697	无症状胆囊结石
+T195	Disease 3729 3733;3734 3737	无症状胆 囊结石
+T196	Disease 3762 3769	无症状胆囊结石
+T197	Disease 4992 4999	无症状胆囊结石
+T198	Disease 5119 5125;5126 5127	无症状胆囊结 石
+T199	Disease 5250 5255;5256 5258	无症状胆囊 结石
+T200	Disease 5285 5292	无症状胆囊结石
+T201	Disease 5372 5377;5378 5380	无症状胆囊 结石
+T202	Disease 5466 5473	无症状胆囊结石
+T203	Disease 5552 5559	无症状胆囊结石
+T204	Disease 5792 5797;5798 5800	无症状胆囊 结石
+T205	Disease 5909 5916	无症状胆囊结石
+T206	Disease 5936 5943	无症状胆囊结石
+T207	Disease 7657 7664	无症状胆囊结石
+T208	Disease 8343 8350	无症状胆囊结石
+T209	Disease 8455 8462	无症状胆囊结石
+T210	Disease 8512 8519	无症状胆囊结石
+T211	Disease 8631 8638	无症状胆囊结石
+T212	Disease 8772 8779	无症状胆囊结石
+T213	Disease 8808 8815	无症状胆囊结石
+T214	Disease 8882 8888;8889 8890	无症状胆囊结 石
+T215	Disease 9005 9012	无症状胆囊结石
+T216	Disease 9224 9231	无症状胆囊结石
+T217	Disease 9307 9314	无症状胆囊结石
+T218	Disease 9345 9351;9352 9353	无症状胆囊结 石
+T219	Disease 9392 9399	无症状胆囊结石
+T220	Disease 9441 9448	无症状胆囊结石
+T221	Disease 9480 9487	无症状胆囊结石
+T222	Disease 9785 9792	无症状胆囊结石
+T223	Disease 9852 9859	无症状胆囊结石
+T224	Operation 227 233	胆囊切除手术
+T225	Disease 339 342	脂肪肝
+T226	Disease 698 701	脂肪肝
+T227	Disease 721 724	脂肪肝
+T228	Disease 4016 4020	恶性肿瘤
+T229	Disease 3999 4002	胆囊炎
+T230	Operation 3988 3992	胆囊手术
+T231	Disease 4186 4187;4188 4189	腹 痛
+T232	Symptom 4192 4196	胆道症状
+T233	Symptom 4263 4268;4269 4272	与或不与进 食有关
+T234	Test 4306 4308	血压
+T235	Symptom 4282 4292	与排便及尿路症状无关
+T236	Symptom 4273 4281	无需发生在进食后
+T237	Disease 4616 4619	脂肪肝
+T238	Test 4620 4623	B 超
+T239	Disease 4659 4662	胆结石
+T240	Test 4663 4666	B 超
+T241	Disease 5161 5164	糖尿病
+T242	Disease 5562 5565	脂肪肝
+T243	Test 5647 5649	血压
+T244	Test 5686 5689	胰岛素
+T245	Disease 8789 8792	脂肪肝
+T246	Disease 8842 8845	脂肪肝
+T247	Disease 8866 8869	脂肪肝
+T248	Test 8959 8961	血压
+T249	Disease 8995 8998	脂肪肝
+T250	Disease 9071 9074	脂肪肝
+T251	Disease 9263 9266	糖尿病
+T252	Test 9284 9287	B 超
+T253	Disease 9510 9513	糖尿病
+T254	Disease 9599 9603	胆囊结石
+T255	Disease 9633 9634;9635 9638	胆 囊结石
+T256	Disease 9685 9689	胆囊结石
+T257	Disease 9804 9807;9808 9809	胆囊结 石
+T258	Disease 9909 9913	胆囊结石
+T259	Disease 9936 9939	胆结石
+T260	Disease 9954 9958	胆囊结石
+T261	Disease 9979 9983	胆囊结石
+T262	Disease 10000 10004	胆囊结石
+T263	Disease 10024 10028	胆囊结石
+T264	Disease 10036 10043	脂蛋白代谢异常
+T265	Disease 10071 10075	胆囊结石
+T266	Disease 10119 10123	胆囊结石
+T267	Disease 10136 10140	胆囊结石
+T268	Disease 10163 10167	胆囊结石
+T269	Disease 10225 10228	糖尿病
+T270	Disease 10350 10354	胆囊结石
+T271	Disease 10409 10413	胆囊结石
+T272	Disease 10451 10455	胆囊结石
+T273	Disease 10522 10525	脂肪肝
+T274	Disease 10532 10535	糖尿病
+T275	Disease 10552 10555	脂肪肝
+T276	Disease 10582 10586	胆囊结石
+T277	Disease 10619 10622	脂肪肝
+T278	Disease 10661 10662;10663 10665	脂 肪肝
+T279	Disease 10674 10678	胆囊结石
+T280	Disease 10690 10693	脂肪肝
+T281	Disease 10773 10776	脂肪肝
+T282	Disease 10777 10781	胆囊结石
+T283	Reason 10795 10801	脂质代谢紊乱
+T284	Reason 10802 10807	胰岛素抵抗
+T285	Reason 10808 10812	腹型肥胖
+T286	Reason 10816 10822	脂质代谢异常
+T287	Reason 10823 10826	糖尿病
+T288	Reason 10828 10833	肝代谢异常
+T289	Disease 10851 10854	脂肪肝
+T290	Disease 10856 10859	脂肪肝
+T291	Disease 10918 10921	胆结石
+T292	Reason 10863 10875	胆碱和不饱和脂肪酸的缺乏
+T293	Reason 10876 10885	磷脂在肝内合成减少
+T294	Reason 10886 10887;10888 10892	胆 固醇升高
+T295	Reason 11015 11018	脂肪肝
+T296	Test 326 332	生化代谢指标
+T297	Test 333 337	超声检查
+T298	Disease 368 371	糖尿病
+T299	Disease 871 874	脂肪肝
+T300	Symptom 3702 3706	胆道症状
+T301	Test 4382 4384	血脂
+T302	Test 4411 4414	胰岛素
+T303	Anatomy 4609 4610	肝
+T304	Anatomy 4611 4612	胆
+T305	Anatomy 4643 4645	肾脏
+T306	Anatomy 4646 4648	脾脏
+T307	Disease 4738 4739;4740 4742	糖 尿病
+T308	Disease 5392 5396	胆囊结石
+T309	Disease 5482 5483;5484 5487	胆 囊结石
+T310	Disease 10496 10498	肥胖
+T311	Disease 10725 10728	脂肪肝
+T312	Test_Value 432 446	<2. 6 mmol / L
+T313	Test_Value 455 469	≥2. 6 mmol / L
+T314	Test_Value 474 489	<4. 14 mmol / L
+T315	Test_Value 495 510	≥4. 14 mmol / L
+T316	Test_Value 579 583	明显高于
+T317	Test_Value 616 631	≥4. 14 mmol / L
+T318	Test_Value 651 666	<4. 14 mmol / L
+T319	Reason 973 975	女性
+T320	Reason 3720 3724	年龄增加
+T321	Symptom 4226 4239	发作时间超过 30 min
+T322	Test_Value 4650 4658	远场回声逐渐衰减
+T323	Test_Value 4680 4687	回声团后伴声影
+T324	Test_Value 4800 4814	<2. 6 mmol / L
+T325	Test_Value 4864 4879	≥4. 14 mmol / L
+T326	Test_Value 4823 4837	≥2. 6 mmol / L
+T327	Test_Value 4843 4858	<4. 14 mmol / L
+T328	Test_Value 8470 8484	≥2. 6 mmol / L
+T329	Test_Value 8602 8608;8609 8617	≥4. 14 mmol / L
+T330	Test_Value 8669 8684	<4. 14 mmol / L
+T331	Reason 9081 9085	女性性别
+T332	Reason 9682 9684	女性
+T333	Anatomy 9896 9898	胆汁
+T334	Test_Value 9973 9977	显著高于
+T335	Test_Value 9995 9999	显著低于
+T336	Test_Value 10256 10271	< 2. 6 mmol / L
+T337	Test_Value 10277 10284;10285 10293	< 4. 14 mmol / L
+T338	Test_Value 10306 10320	<2. 6 mmol / L
+T339	Test_Value 10327 10328;10329 10342	≥ 2. 6 mmol / L
+T340	Test_Value 10368 10383	<4. 14 mmol / L
+T341	Test_Value 10389 10404	≥4. 14 mmol / L
+T342	Reason 10836 10837;10838 10848	中 性脂肪在肝细胞内积聚
+T343	Reason 11009 11011	女性
+T344	Test 10062 10067	HDL-C
+T345	Test 10052 10057	LDL-C
+T346	Reason 976 978	TC
+T347	Reason 9130 9132	TC
+T348	Anatomy 236 238	胆道
+T349	Reason 979 982	脂肪肝
+T350	Reason 3725 3728	糖尿病
+T351	Disease 4067 4075	甲状旁腺功能亢进
+T352	Disease 4052 4058;4059 4060	家族性高脂血 症
+T353	Level 4039 4041	严重
+T354	Disease 4042 4046	肝肾疾病
+T355	Symptom 4216 4225	右上腹部持续性疼痛
+T356	Symptom 4240 4243;4244 4253	伴或不 伴有阵发性绞痛加重
+T357	Symptom 4258 4262	恶心呕吐
+T358	Test_Value 4628 4639	肝区近场回声弥漫性增强
+T359	Test_Value 4672 4679	胆囊内强回声团
+T360	Test_Value 4688 4691;4692 4703	胆囊内 回声团随体位改变而移动
+T361	Disease 5260 5264	胆囊结石
+T362	Disease 5323 5327	胆囊结石
+T363	Disease 5592 5594;5595 5597	胆囊 结石
+T364	Reason 9177 9180	脂肪肝
+T365	Disease 9368 9371	胆结石
+T366	Disease 9427 9430;9431 9432	胆囊结 石
+T367	Reason 9437 9440	糖尿病
+T368	Disease 9520 9523	糖尿病
+T369	Disease 9525 9531	胆囊排空障碍
+T370	Disease 9532 9545	Oddis 括约肌功能障碍
+T371	Disease 9546 9547;9548 9553	胃 肠激素紊乱
+T372	Disease 9554 9560	胃肠运动障碍
+T373	Disease 9561 9569	脂肪代谢障碍紊乱
+T374	Disease 9570 9572;9573 9577	胆汁 细菌感染
+T375	Test 9887 9890;9891 9893	雌激素 雌酮
+T376	Test 9900 9903	胆固醇
+T377	Disease 10044 10051	高 TC 血症
+T378	Reason 10568 10575;10576 10581	中度至重度非酒 精性脂肪肝
+T379	Reason 10733 10736	脂肪肝
+T380	Reason 10898 10912;10913 10914	胆盐、磷脂、胆固醇三者比例失 调
+T381	Test 4093 4096	糖耐量

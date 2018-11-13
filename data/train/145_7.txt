@@ -1,0 +1,321 @@
+临床研究
+基金项目:国家自然科学基金项目(81070686)
+室,山东省痛风病临床医学中心(李媛媛、崔凌凌、李鑫德、王敬丽、李长
+贵、苗志敏),遗传室(刘世国)
+中国汉族男性原发性痛风与维生素 D 受体
+基因 rs2228570 多态性的遗传易感性研究
+李媛媛  崔凌凌  李鑫德  王敬丽  李长贵  苗志敏  刘世国
+[摘要]   目的  探讨中国汉族沿海地区男性群体的维生素 D 受体( vitmin D receptor, VDR) Fok I
+rs2228570(G / A)位点基因多态性与痛风遗传易感性的关系。 方法 采用 Taqman襆荧光定量 PCR 技术,对
+青岛地区 504 例男性痛风患者与 523 名健康对照者 rs2228570 位点进行基因分型。 采用 Hardy-Weinberg 检
+验确认标本的群体代表性,数据分析采用 字2检验和 t 检验。 结果 痛风组中 VDR 基因 rs2228570 位点 GG、
+AG 和 AA 基因型所占比例分别为 32. 1% 、50. 0% 和 17. 9% ,健康对照组中分别为 27. 9% 、50. 5% 和
+21. 6% ,2 组比较差异无统计学意义(字2 =3. 366, P>0. 05);2 组的等位基因频率 G 和 A 间差异也无统计学
+意义(分别为 57. 1% ,42. 9% ;53. 2% ,46. 8% ; 字2 = 3. 300, P >0. 05)。 结论 中国沿海地区汉族男性群
+VDR Fok I rs2228570 位点基因多态性与痛风可能没有关联性。
+[关键词]   维生素 D 受体; 多态性, 单核苷酸; 痛风
+Relationship between vitmin D receptor rs2228570 polymorphism and susceptibility to gout in Chinese Han
+male population Li Yuanyuan*, Cui Lingling, Li Xinde, Wang Jingli, Li Changgui, Miao Zhimin, Liu
+Shiguo. *Shandong Provincial Gout Clinical Medical Center, Shandong Provincial Key Laboratory of Metabolic
+Disease, the Affiliated Hospital of Qingdao University, Shandong 266003, China
+[Abstract]  Objective   To explore gene polymorphism of G / A genotype of FokI rs2228570 ( G / A) of
+vitamin D receptor(VDR) gene in Han male population of Chinese coastal area, and thus to investigate the relationship
+between the gene polymorphism of VDR and gout. Methods Altogether 504 gout patients and 523 healthy controls
+were enrolled. The possible association between the polymorphism of VDR rs2228570 and gout in Chinese coastal area
+was investigated and genotype frequencies and allelic frequencies were calculated by realtime PCR with Taqman襆
+probe method. Hardy-Weinberg was used to verify the representativeness of the sample. Comparison between the
+groups were performed with 字2 test and t-test. Results The frequencies of GG, AG, and AA genotypes were 32. 1% ,
+50. 0% , and 17. 9% , respectively among gout patients, while they were 27. 9% , 50. 5% , and 21. 6% respectively
+among the controls. There was no statistically significant difference in VDR rs2228570 genotype frequencies between
+gout patients and controls(字2 =3. 366, P>0. 05) . The allele frequencies of G and A in gout cases were different from
+those in the controls(57. 1% , 42. 9% ; 53. 2% , 46. 8% ; 字2 = 3. 300, P>0. 05) . Conclusions Results of the
+present study suggest that the G / A genotype of VDR FokIrs2228570 of the VDR gene is not associated with gout in
+male population of Chinese coastal area.
+[Key words]  Vitmin D receptor; Polymorphism, single Nucleotide; Gout
+(Chin J Endocrinol Metab, 2015, 31: 316-319)
+痛风是尿酸产生过多和(或)排泄减少为原因,以
+高尿酸血症为特征的多基因遗传病。 由于基因及环境
+因素如高蛋白(瘦肉和海鲜)与酒精(主要是啤酒)的
+共同影响,近年来痛风的发病率显著增加。 以急性关
+节炎反复发作、尿酸盐沉积在关节内或其周围和尿酸
+性肾结石为主要特点,痛风已成为男性最常见的炎症
+性关节炎[1]。 研究已经证实,痛风的发生是因为尿酸
+盐结晶激活了 NALP3,使 caspase-1 前体变为 caspase-
+1,并促使活性的白细胞介素(IL)-1β 和 IL-18 的分泌
+增多,从而导致一系列的炎症发生[2]。 同时,痛风也
+是一种代谢性疾病,研究已证实,其与肥胖、高血压、高
+脂血症及高钙血症显著相关[3-5]。
+维生素 D 是一种开环甾体激素,除调节钙磷代谢
+外,还具有调节生殖、免疫、神经、内分泌等功能。 作为
+一种免疫抑制剂,维生素 D 对固有免疫和适应性免疫
+均有调节作用。 对固有免疫的调节主要表现在抑制单
+核细胞分化为树突状细胞,以此减少 IL-6、IL-12、肿瘤
+坏死因子 α、干扰素 γ 的分泌和增加 IL-10 的产
+生[6,7]。 研究证实,维生素 D 缺乏与免疫应答、心血管
+疾病、恶性肿瘤、自身免疫性疾病及移植排斥反应有
+关[8]。 维生素 D 的活性形式为 1,25-二羟维生素 D3,
+通过与其受体维生素受体(VDR)结合作用于细胞核
+而发挥一系列的作用。 FokI rs2228570 位点作为
+VDR 一个最重要的 SNP 位点,其基因多态性与多种疾
+病如糖尿病、自身免疫性甲状腺疾病、类风湿性关节
+炎、炎症性肠病等免疫性疾病显著相关,但与痛风的相
+关性尚未见报道。
+本研究以青岛地区 504 例男性痛风患者与 523 名
+健康对照者作为研究对象,应用 Taqman 荧光定量
+PCR 技术检测 VDR FokIrs2228570 位点 G / A 基因型
+和等位基因,分析该位点多态性的分布状况与痛风发
+病是否存在关联。
+对象和方法
+一、 对象
+1. 痛风组:来自 2010 年 7 月至 2013 年 3 月青岛
+大学医学院附属医院门诊和住院的青岛地区痛风患
+者,均符合 1997 年美国风湿病协会制定的诊断标准,
+包括以下 9 条:(1)急性关节炎发作 1 次以上,在 1 d
+内即达到发作高峰;(2)急性关节炎局限于个别关节;
+(3)整个关节呈暗红色;(4)第一跖趾关节肿痛;(5)单
+侧趾关节炎急性发作;(6)有痛风石;(7)高尿酸血症;
+(8)非对称性关节肿痛;(9)发作可自行中止。 凡具备
+该标准 3 条以上,并可除外继发性痛风者,即可确诊。
+共收集痛风患者 504 例,均为男性,平均年龄(52 ±14)
+岁(16 ~ 86 岁)。 所选人群之间均无血缘关系。 该研
+究得青岛大学医学院附属医院伦理委员会支持,且所
+有参与者均知情同意。
+2. 对照组:来自 2010 年 7 月至 2013 年 3 月青岛
+大学医学院附属医院门诊和 2010 年 8 月至 2013 年 9
+月山东省沿海地区流行病学调查的健康体检者。 并排
+除痛风、高血压、冠状动脉硬化性心脏病、糖尿病、高脂
+血症、恶性肿瘤等疾病。 共收集 523 名,均为男性,平
+均年龄(52 ±12)岁(17 ~ 95 岁)。 所有参与者均知情
+同意。
+二、 方法
+1. 外周血 DNA 抽提:采集患者和对照者空腹静
+脉血 3 ml,酚-氯仿法抽提外周血白细胞基因组 DNA,
+双蒸水溶解至 50 ng / 滋l 备用,置于-20℃冰箱保存。
+2. 目的片段的扩增:采用 TaqMan襆荧光定量 PCR
+对 VDR rs2228670 位点进行检测,所用仪器为 Bio-Rad
+CXF96,上游引物为 5'-GGAAGTGCTGGCCGCCATTG-
+CCTCC-3',下游引物为 5'-TCCCTGTAAGAACAGCAA-
+GCAGGCC-3',探针及引物皆由英潍捷基公司合成。
+反应体系为 25 滋l,包括:2×PCR Mix 12. 5 滋l,20×SNP
+探针及引物 1. 25 滋l,DNA 1 滋l,所剩 10. 25 滋l 用水补
+齐。 PCR 反应条件:95℃预变性 3 min,95℃变性 15 s,
+60℃退火 1 min,40 个循环。
+3. 扩增结束后,结合散点图和扩增曲线进行基因
+型分析。 所有操作及结果判定方法严格按照 Taq
+Man襆 Universal PCR Master Mix 试剂盒说明书。
+三、统计学处理
+数据采用 SPSS 17. 0 统计学软件进行统计。 用
+Hardy-Weinberg 检验表明各基因已达遗传平衡,确认
+标本的群体代表性。 基因型和等位基因频率分布用计
+数资料表示,组间比较采用 字2检验。 2 组临床资料和
+生化指标比较采用 t 检验。 P<0. 05 为差异有统计学
+意义。
+结    果
+一、 Hardy-Weinberg 平衡检验
+对照组群体基因处于遗传平衡,数据来自同一孟
+德尔群体,具有群体代表性(字2 =0. 097, P=0. 756)。
+二、 痛风组与对照组 VDR 基因 rs2228570 G / A 位
+点的基因型和等位基因频率分布
+痛风组中 VDR 基因 rs2228570 位点 GG、AG 和
+AA 基因型分别为 32. 1% 、50. 0%和 17. 9% ,对照组中
+分别为 27. 9% 、50. 5%和 21. 6% 。 痛风组各基因型频
+率与对照组比较,差异无统计学意义(字2 = 3. 366, P =
+0. 186);2 组间的等位基因频率 G 和 A 比较,痛风组
+为 57. 1%和 42. 9% ,对照组为 53. 2%和 46. 8% ,差异
+表 1  痛风组与对照组 VDR 基因 rs2228570 G / A 位点的基因型和等位基因频率分布[n(% )]
+Tab 1  The distribution of genotype and allele frequency of rs2228570 G / A in VDR between gout group and control group [n(% )]
+组别
+Group
+例数
+n
+基因型
+Genotype
+等位基因
+Allele
+GG AG AA G A
+对照组
+Control group 523 146(27. 9) 264(50. 5) 113(21. 6) 556(53. 2) 490(46. 8)
+痛风组
+Gout group 504 162(32. 1) 252(50. 0) 90(17. 9) 576(57. 1) 432(42. 9)
+表 2  痛风组与对照组临床资料和生化指标的比较(x-± s)
+Tab 2  Demographic and clinical characteristics of the study population between gout group and control group(x-± s)
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+体重指数
+Body mass index
+(kg / m2)
+空腹血糖
+Fasting blood glucose
+(mmol / L)
+甘油三酯
+Triglyceride
+(mmol / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+对照组
+Control group 523 51. 60 ± 11. 99 25. 44 ± 4. 72 5. 73 ± 1. 63 1. 65 ± 1. 22 5. 09 ± 1. 05
+痛风组
+Gout group 504 52. 22 ± 13. 79 27. 06 ± 3. 45
+a 6. 17 ± 1. 72a 2. 49 ± 1. 93a 5. 39 ± 1. 19a
+组别
+Group
+例数
+n
+血尿素氮
+Serum urea nitrogen
+(mmol / L)
+肌酐
+Creatinine
+(μmol / L)
+尿酸
+Uric acid
+(μmol / L)
+收缩压
+Systolic blood pressure
+(mmHg)
+舒张压
+Diastolic blood pressure
+(mmHg)
+对照组
+Control group 523 5. 38 ± 1. 10 84. 85 ± 17. 30 324. 36 ± 65. 38   133 ± 18   84 ± 10
+痛风组
+Gout group 504 5. 83 ± 2. 72
+a 91. 06 ± 31. 37a 472. 76 ± 117. 18a   137 ± 18a   90 ± 12a
+注:1 mmHg=0. 133 kPa; 与对照组比较 vs Control group, aP<0. 01
+表 3  痛风组 VDR 基因 rs2228570 G / A 位点 GG+AG 基因型与 AA 基因型生化资料比较(x-± s)
+Tab 3  Association of GG+AG vs AA of the polymorphisms of rs2228570 characteristics among gout patients(x-± s)
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+体重指数
+Body mass index
+(kg / m2)
+空腹血糖
+Fasting blood glucose
+(mmol / L)
+甘油三酯
+Triglyceride
+(mmol / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+GG+AG 414 52. 53 ± 12. 81 27. 11 ± 3. 32 6. 20 ± 1. 75 2. 58 ± 2. 01 5. 45 ± 1. 23
+AA 90 50. 94 ± 13. 42 26. 88 ± 3. 64 6. 05 ± 1. 53 2. 17 ± 1. 55 5. 14 ± 0. 99a
+组别
+Group
+例数
+n
+血尿素氮
+Serum urea nitrogen
+(mmol / L)
+肌酐
+Creatinine
+(μmol / L)
+尿酸
+Uric acid
+(μmol / L)
+收缩压
+Systolic blood pressure
+(mmHg)
+舒张压
+Diastolic blood pressure
+(mmHg)
+GG+AG 414 5. 79 ± 2. 80 89. 79 ± 25. 03   475. 67 ± 118. 87   138 ± 19   90 ± 12
+AA 90 5. 91 ± 2. 24 90. 47 ± 30. 50   457. 17 ± 111. 03   134 ± 16   88 ± 12
+注:1 mmHg=0. 133 kPa; vs GG+AG, aP<0. 05
+无统计学意义(字2 =3. 300, P=0. 069,表 1)。
+三、 痛风组与对照组临床资料和生化指标的比较
+痛风组体重指数、血糖、甘油三酯、总胆固醇、肌
+酐、尿素氮、尿酸、收缩压和舒张压明显高于对照组,差
+异有统计学意义(P <0. 01)。 2 组的年龄相比,差异无
+统计学意义(P >0. 05,表 2)。
+四、 痛风组 VDR 基因 rs2228570 G / A 位点 GG+
+AG 基因型与 AA 基因型生化资料比较
+痛风组基因型分析将 GG 基因型与 AG 基因型合
+并成 GG+AG 组。 经 t 检验,结果显示:GG+AG 组和
+AA 组之间比较,GG+AG 组总胆固醇浓度高于 AA 组,
+差异有统计学意义 [(5. 45 ± 1. 23 对 5. 14 ± 0. 99)
+mmol / L, P<0. 05]。 但 2 组间年龄、体重指数、血糖、
+甘油三酯、尿素氮、肌酐和尿酸比较,差异均无统计学
+意义(P>0. 05,表 3)。
+讨    论
+痛风是一种环境和遗传共同作用的炎性、代谢性
+多基因遗传病。 痛风的发生是由于尿酸盐晶体触发了
+炎症的瀑布式的级联反应,释放出了大量的促炎性细
+胞因子,如 IL-1、IL-6、IL-8、IL-12 及肿瘤坏死因子 α,
+促炎和抗炎细胞因子失衡是导致痛风性关节炎的重要
+原因。 另一方面,痛风属于一种代谢性疾病,研究已证
+实,痛风以高尿酸血症为特征,与脂代谢紊乱、糖尿病、
+高血压、肥胖等多种代谢性疾病相关,代谢综合征及其
+组分与血清尿酸水平显著相关[9-13]。
+维生素 D 作为一种类固醇类激素,其在免疫调节
+方面的作用近年来越来越受重视。 1,25-二羟维生素
+D3作为维生素 D 的活性形式,能够介导单核细胞进一
+步分化为巨噬细胞,并能抑制巨噬细胞分泌炎症细胞
+因子如 IL-6、IL-12、肿瘤坏死因子 α、干扰素 γ 和趋化
+因子单核细胞趋化蛋白 1[14]。 研究已证实,维生素 D
+缺乏与许多免疫性疾病有关,如自身免疫性甲状腺疾
+病、类风湿性关节炎、炎症性肠病。 VDR 作为维生素
+D 的特异性核受体,与 1,25-二羟维生素 D3结合后可
+诱导其与视黄醇 X 受体形成异源二聚体,进而与 DNA
+的维生素 D 效应元件结合,调节 DNA 转录,发挥生物
+学功能。 VDR 分为膜受体和核受体,膜受体主要通过
+介导离子通道的开放和酶的激活来发挥快速的非基因
+调节机制,核受体主要通过介导相关的基因表达发挥
+基因调节。 VDR 基因位于 12 号染色长臂 q13-14 区,
+有 11 个外显子。 rs2228570 位点位于第二外显子区,
+是 VDR 蛋白翻译的起始位点,该位点是目前发现的唯
+一影响 VDR 氨基酸结构的功能性位点。
+研究表明,VDR rs2228570G / A 位点基因多态性与
+糖尿病、克罗恩疾病相关。 痛风是一种免疫性、代谢性
+疾病,有研究发现,痛风患者血清维生素 D 水平较正
+常人低[15],而 VDR 基因型改变后会使血清 25-羟维生
+素 D 水平下降[16],因此本研究推测 VDR 基因多态性
+可能与痛风的发生相关。 而目前关于 VDR 基因多态
+性与痛风的分析尚未见报道。 为验证上述假说,本研
+究对痛风组患者及对照组中 VDR 基因第二外显子区
+rs2228570G / A 基因多态性进行分析。 结果显示痛风
+组中各基因型和等位基因的频率与对照组相比较,
+差异无统计学意义 ( 字2 = 2. 771, P > 0. 05 )。 VDR
+rs2228570 位点基因多态性与痛风的危险因素即是否
+合并肥胖、高尿酸血症、高甘油三酯血症、高胆固醇血
+症、高血压病和 2 型糖尿病亦无关联性。 尚不能认为
+青岛地区汉族男性人群中 VDR rs2228570 位点的基因
+多态性与痛风存在关联性。
+但本研究存在一定局限性,关于是否由于 VDR 基
+因 FokIrs2228570G / A 基因多态性导致了急性痛风的
+发生目前还不能肯定。 首先,VDR 存在多个 SNP 位
+点,本研究仅对 VDR 基因第 2 外显子区 rs2228570 位
+点多态性进行检测,证实该位点对于痛风性关节炎不
+起独立的影响作用,但其他位点是否有作用及是否存
+在其他多态性位点共同参与影响痛风的易感性,还有
+待进一步研究。 其次,研究结果可能是由于地域、人种
+的遗传背景的不同造成的。 本研究仅对山东沿海地区
+人群进行统计分析,存在一定局限性,可在不同地域人
+群中进行相关研究,以消除地域所致的偏倚。 再则,痛
+风组的样本量不够大,若扩大样本量进行更系统的统
+计分析,或许会发现二者的关联。 由于本研究中的不
+足,也许所研究的单核苷酸多态性与痛风的易感性没
+有被发现。
+综上所述,本研究尚不能认为青岛地区汉族男性
+人群 VDR 基因 FokIrs2228570G / A 基因多态性与痛
+风遗传易感性有关。 痛风是一种多基因遗传病,VDR
+基因多个位点之间以及 VDR 与其他痛风易感基因的
+SNP 之间的相互作用值得进一步研究,以便分析痛风
+发病的确切机制。 因此还需进一步加大样本量和选择
+不同群体进行筛查,分析该位点多态性的分布状况及
+其与痛风的关联性,为将来在人群中进行早期筛查、早
+期预防、新药物的开发以及基因芯片治疗等提供重要
+依据。

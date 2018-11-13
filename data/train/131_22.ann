@@ -1,0 +1,419 @@
+T1	Disease 1970 1976	2 型糖尿病
+T2	Disease 2607 2613	2 型糖尿病
+T3	Test 1607 1612	HBA1C
+T4	Test 2034 2038	空腹血糖
+T5	Disease 153 158	糖尿病前期
+T6	Disease 211 216	糖尿病前期
+T7	Disease 239 242	糖尿病
+T8	Disease 243 247;248 249	糖尿病前 期
+T9	Disease 260 263	糖尿病
+T10	Disease 307 312	糖耐量受损
+T11	Disease 1012 1017	糖尿病前期
+T12	Disease 1024 1027	糖尿病
+T13	Disease 1051 1054	糖尿病
+T14	Disease 1083 1088	糖尿病前期
+T15	Disease 1100 1105	糖尿病前期
+T16	Anatomy 1107 1114	胰岛 β 细胞
+T17	Disease 1118 1121	糖尿病
+T18	Disease 1141 1144	糖尿病
+T19	Disease 1153 1158	糖尿病前期
+T20	Anatomy 1183 1189;1190 1191	胰岛 β 细 胞
+T21	Anatomy 1195 1199	β 细胞
+T22	Disease 1216 1221;1222 1223	2 型糖尿 病
+T23	Disease 1233 1236	糖尿病
+T24	Test 1260 1262	血糖
+T25	Test 1265 1271	胰岛素敏感性
+T26	Test 1272 1277	最大摄氧量
+T27	Anatomy 1297 1301	肌肉组织
+T28	Disease 1352 1357	糖尿病前期
+T29	Disease 1391 1394	糖尿病
+T30	Disease 1418 1423	糖尿病前期
+T31	Disease 1436 1439	糖尿病
+T32	Disease 1450 1456	空腹血糖受损
+T33	Disease 1483 1486	IFG
+T34	Disease 299 305	空腹血糖受损
+T35	Disease 1523 1528	糖耐量受损
+T36	Disease 1558 1561	IGT
+T37	Anatomy 1677 1679	脂肪
+T38	Anatomy 1783 1786	肌肉群
+T39	Anatomy 1834 1839	胰岛素受体
+T40	Test 1868 1874	胰岛素敏感度
+T41	Anatomy 1895 1897	肌肉
+T42	Disease 1941 1944	糖尿病
+T43	Test 2031 2033	糖化
+T44	Test 2039 2044	最大摄氧量
+T45	Test 2045 2047	肌力
+T46	Test 2048 2050	体脂
+T47	Test 2101 2103	血糖
+T48	Test 2106 2109	肺功能
+T49	Test 2110 2116	肌肉脂肪比例
+T50	Anatomy 2164 2166	肝脏
+T51	Anatomy 2186 2189	骨骼肌
+T52	Test 2209 2211	血糖
+T53	Disease 2233 2239	高胰岛素血症
+T54	Disease 2287 2292	糖尿病前期
+T55	Symptom 2318 2323	胰岛素抵抗
+T56	Disease 2332 2337	糖尿病前期
+T57	Symptom 2341 2346	胰岛素抵抗
+T58	Disease 2360 2363	糖尿病
+T59	Disease 2364 2367	冠心病
+T60	Disease 2368 2371	高血压
+T61	Disease 2372 2377	脑血管意外
+T62	Reason 2390 2395	胰岛素抵抗
+T63	Reason 2396 2403	胰岛素分泌异常
+T64	Test 2468 2474	胰岛素敏感度
+T65	Anatomy 2561 2565	肌肉组织
+T66	Disease 2591 2597	代谢紊乱疾病
+T67	Disease 2600 2605	胰岛素抵抗
+T68	Test 2624 2627	肌肉量
+T69	Test 2628 2629;2630 2631	肌 力
+T70	Test 2659 2660;2661 2662	血 糖
+T71	Anatomy 2704 2712	葡萄糖转运体 4
+T72	Anatomy 2713 2719	GLUT-4
+T73	Anatomy 2724 2727	肌细胞
+T74	Anatomy 2731 2733	肌肉
+T75	Anatomy 2746 2751;2752 2753	GLUT- 4
+T76	Anatomy 2786 2789	肌细胞
+T77	Anatomy 2835 2841	GLUT-4
+T78	Disease 2849 2854	糖尿病前期
+T79	Disease 2876 2881	糖尿病前期
+T80	Test 2882 2884	血糖
+T81	Test 2885 2887	血脂
+T82	Test 2888 2890	血压
+T83	Test 2914 2916	血脂
+T84	Test 2917 2919	血糖
+T85	Test 2943 2947	总胆固醇
+T86	Test 2948 2950;2951 2953	甘油 三脂
+T87	Test 2954 2963	低密度脂蛋白胆固醇
+T88	Test 2966 2975	高密度脂蛋白胆固醇
+T89	Test 3047 3051	总胆固醇
+T90	Test 3052 3060	高密度脂蛋白浓度
+T91	Test 3061 3065	甘油三脂
+T92	Disease 3094 3096	肥胖
+T93	Anatomy 3131 3135	脂肪组织
+T94	Test 3156 3159	胆固醇
+T95	Test 3160 3167;3168 3169	低密度脂蛋白浓 度
+T96	Test 3172 3180	高密度脂蛋白浓度
+T97	Disease 3205 3210	糖尿病前期
+T98	Disease 3246 3251	心血管疾病
+T99	Test 3272 3274	血压
+T100	Test 3280 3282	血压
+T101	Test 3320 3323	收缩压
+T102	Test 3357 3360	舒张压
+T103	Test 3384 3387	收缩压
+T104	Test 3403 3406	舒张压
+T105	Test 3434 3437	收缩压
+T106	Test 3441 3444	舒张压
+T107	Test 3474 3476	血压
+T108	Test 3494 3496	血糖
+T109	Test 3502 3504	血糖
+T110	Anatomy 3521 3524	肌细胞
+T111	Anatomy 3536 3542	GLUT-4
+T112	Anatomy 3591 3594	骨骼肌
+T113	Anatomy 3599 3603	毛细血管
+T114	Anatomy 3620 3626	GLUT-4
+T115	Anatomy 3654 3657	骨骼肌
+T116	Test 3672 3674	血糖
+T117	Disease 3678 3683	糖尿病前期
+T118	Anatomy 3694 3697	骨骼肌
+T119	Symptom 3700 3703;3704 3706	胰岛素 抵抗
+T120	Test 3729 3735	股肌横断面积
+T121	Test 3737 3740	CSA
+T122	Anatomy 3756 3759	骨骼肌
+T123	Test 3769 3775	糖化血红蛋白
+T124	Test 3777 3779	血糖
+T125	Test 3790 3796	糖化血红蛋白
+T126	Anatomy 3845 3849	脂肪组织
+T127	Anatomy 3952 3954	瘦素
+T128	Anatomy 3969 3974	TNF-α
+T129	Anatomy 3976 3983	白细胞介素 6
+T130	Anatomy 3984 3988	IL-6
+T131	Anatomy 3999 4002	胰岛素
+T132	Anatomy 4028 4031	骨骼肌
+T133	Anatomy 4033 4035	肝脏
+T134	Disease 4064 4069	糖尿病前期
+T135	Disease 4099 4104	糖尿病前期
+T136	Disease 4123 4128	糖尿病前期
+T137	Disease 4130 4135	心血管疾病
+T138	Anatomy 4160 4163	骨骼肌
+T139	Test 4182 4183;4184 4185	血 糖
+T140	Anatomy 4190 4192	脂肪
+T141	Disease 4238 4240;4241 4242	糖尿 病
+T142	Test 4261 4267	胰岛素敏感性
+T143	Test 4319 4324	脂联素受体
+T144	Disease 4346 4348	超重
+T145	Test 4383 4388	血清脂联素
+T146	Test 4440 4444	皮褶厚度
+T147	Test 4445 4448;4449 4451	最大摄 氧量
+T148	Test 4452 4456	体重指数
+T149	Test 4470 4473	脂联素
+T150	Anatomy 4515 4518	骨骼肌
+T151	Test 4567 4571	循环瘦素
+T152	Test 4613 4615	瘦素
+T153	Test 4677 4679	瘦素
+T154	Test 4720 4724	血清瘦素
+T155	Test 4751 4755	血清瘦素
+T156	Test 4779 4781	体重
+T157	Test 4806 4810	血清瘦素
+T158	Test 4815 4817	瘦素
+T159	Disease 4960 4963	IFG
+T160	Test 4966 4972	hs-CRP
+T161	Disease 4984 4987	IGT
+T162	Disease 4998 5003	糖尿病前期
+T163	Test 5048 5053	血浆抵抗素
+T164	Test 5055 5063	resistin
+T165	Test 5065 5072	白细胞介素 6
+T166	Test 5074 5078	IL-6
+T167	Test 5080 5086	hs-CRP
+T168	Test 5151 5157	hs-CRP
+T169	Anatomy 5190 5193	骨骼肌
+T170	Level 5364 5366	低等
+T171	Level 5367 5369	中等
+T172	Level 5383 5385	低等
+T173	Level 5386 5388	中等
+T174	Test 5399 5405	胰岛素敏感性
+T175	Test 5419 5421	血糖
+T176	Level 5438 5442	中等强度
+T177	Level 5443 5446;5447 5448	高等强 度
+T178	Level 5452 5456	中等强度
+T179	Disease 5465 5468	糖尿病
+T180	Disease 5559 5564	糖尿病前期
+T181	Symptom 5592 5595	高血糖
+T182	Disease 5611 5616	糖尿病前期
+T183	Level 5796 5802	中等至高强度
+T184	Disease 5826 5829	糖尿病
+T185	Disease 5839 5843;5844 5845	糖尿病前 期
+T186	Test 6143 6145;6146 6150	最大 氧消耗量
+T187	Test 6134 6140	运动负荷测试
+T188	Test 6151 6155	最大心率
+T189	Test 6156 6163	最大代谢当量值
+T190	Test 6164 6166	心率
+T191	Disease 6415 6418	糖尿病
+T192	Symptom 6424 6427	低血糖
+T193	Test 3837 3841	脂肪因子
+T194	Test 5882 5886	脂肪因子
+T195	Test 3141 3146	游离脂肪酸
+T196	Test 4095 4098	脂联素
+T197	Test 4152 4153;4154 4156	脂 联素
+T198	Test 4506 4509	脂联素
+T199	Anatomy 4164 4168	AMPK
+T200	Anatomy 4519 4523	AMPK
+T201	Test 1020 1023	糖耐量
+T202	Level 1125 1131	减少 40%
+T203	Anatomy 1428 1431	葡萄糖
+T204	Test 1752 1758	胰岛素敏感度
+T205	Anatomy 1809 1811	肌肉
+T206	Anatomy 1816 1818	肌肉
+T207	Anatomy 1822 1824	肌肉
+T208	Anatomy 2138 2141	胰岛素
+T209	Anatomy 2159 2162	胰岛素
+T210	Anatomy 2458 2461	胰岛素
+T211	Anatomy 2695 2698	胰岛素
+T212	Anatomy 2773 2775	肌肉
+T213	Test 3234 3236	血脂
+T214	Anatomy 3545 3548	细胞膜
+T215	Anatomy 3636 3639	细胞膜
+T216	Level 3724 3727	32%
+T217	Anatomy 4221 4225	巨噬细胞
+T218	Test 4650 4653	脂肪量
+T219	Test 4667 4669	瘦素
+T220	Test 4784 4787	脂肪量
+T221	Anatomy 4840 4844	交感神经
+T222	Anatomy 6225 6227	肌群
+T223	Anatomy 6239 6241	肌群
+T224	Test 6229 6233	1-RM
+T225	Test 3945 3949	脂肪因子
+T226	Test 3992 3996	脂肪因子
+T227	Test 4071 4075	脂肪因子
+T228	Test 3955 3958	脂联素
+T229	Treatment 150 152	运动
+T230	Treatment 231 238	抗阻、有氧运动
+T231	Treatment 286 291	抗阻力运动
+T232	Treatment 293 297	有氧运动
+T233	Treatment 1230 1232	运动
+T234	Treatment 1252 1253;1254 1257	有 氧运动
+T235	Treatment 1289 1294	抗阻力运动
+T236	Treatment 1328 1332	有氧运动
+T237	Treatment 1343 1351	有氧、抗阻力运动
+T238	Treatment 1381 1385	运动干预
+T239	Disease 1457 1481	impaired fasting glucose
+T240	Disease 1530 1538;1539 1556	impaired glucose tolerance
+T241	Treatment 1637 1641	有氧运动
+T242	Treatment 1683 1687	有氧运动
+T243	Treatment 1734 1738	有氧运动
+T244	Treatment 1768 1773	抗阻力运动
+T245	Treatment 1914 1919	抗阻力运动
+T246	Treatment 1952 1956	有氧运动
+T247	Treatment 1997 1998;1999 2006	有 氧、抗阻力运动
+T248	Treatment 2013 2021	有氧、抗阻力运动
+T249	Treatment 2071 2079	有氧和抗阻力运动
+T250	Treatment 2083 2092;2093 2094	单纯有氧或抗阻力运 动
+T251	Anatomy 2178 2182	周围组织
+T252	Treatment 2278 2286	抗阻力、有氧运动
+T253	Treatment 2305 2315	抗阻力运动、有氧运动
+T254	Treatment 2412 2416	有氧运动
+T255	Duration 2408 2411	4 周
+T256	Reason 2495 2500	机体的衰老
+T257	Reason 2501 2507	体成分的改变
+T258	Reason 2508 2511;2512 2516	细胞功 能的受损
+T259	Treatment 2616 2621	抗阻力运动
+T260	Test_Value 2631 2633	减少
+T261	Treatment 2763 2768	抗阻力运动
+T262	Treatment 2820 2825	抗阻力运动
+T263	Treatment 2826 2830	有氧运动
+T264	Treatment 2797 2801	有氧运动
+T265	Treatment 2867 2875	有氧、抗阻力运动
+T266	Treatment 2903 2913	抗阻力运动、有氧运动
+T267	Test_Value 2963 2965	升高
+T268	Test_Value 2975 2977	下降
+T269	Treatment 2992 2996	有氧运动
+T270	Treatment 3020 3026	单纯有氧运动
+T271	Treatment 3116 3123	单纯抗阻力运动
+T272	Treatment 3222 3226;3227 3231	有氧或抗 阻力运动
+T273	Treatment 3263 3271	有氧、抗阻力运动
+T274	Treatment 3277 3279	运动
+T275	Treatment 3311 3317	单纯有氧运动
+T276	Treatment 3377 3382	抗阻力运动
+T277	Treatment 3431 3433	运动
+T278	Treatment 3471 3473	运动
+T279	Treatment 3485 3493	有氧、抗阻力运动
+T280	Treatment 3497 3501	有氧运动
+T281	Treatment 3581 3586	抗阻力运动
+T282	Anatomy 3686 3690	外周组织
+T283	Treatment 3710 3715	抗阻力运动
+T284	Treatment 3786 3788	运动
+T285	Treatment 3828 3836	有氧、抗阻力运动
+T286	Anatomy 4003 4004;4005 4007	葡 萄糖
+T287	Anatomy 4008 4016	脂肪代谢相关因子
+T288	Treatment 4053 4061	抗阻力、有氧运动
+T289	Treatment 4085 4091;4092 4094	有氧、抗阻力 运动
+T290	Treatment 4252 4256	有氧运动
+T291	Treatment 4308 4312	有氧运动
+T292	Treatment 4368 4373	抗阻力运动
+T293	Treatment 4404 4409	抗阻力运动
+T294	Level 4395 4399	中等强度
+T295	Level 4400 4403	高强度
+T296	Treatment 4464 4469	抗阻力运动
+T297	Level 4460 4463	低强度
+T298	Treatment 4491 4499	有氧、抗阻力运动
+T299	Frequency 4555 4560	短期或一次
+T300	Treatment 4560 4564	有氧运动
+T301	Treatment 4607 4611	有氧运动
+T302	Duration 4605 4607	长期
+T303	Treatment 4621 4623	运动
+T304	Treatment 4662 4666	有氧运动
+T305	Duration 4660 4662	长期
+T306	Treatment 4683 4686;4687 4690	急性有 氧运动
+T307	Duration 4695 4697	长期
+T308	Duration 4698 4704	12 周以上
+T309	Treatment 4712 4717;4718 4719	慢性有氧运 动
+T310	Treatment 4740 4745	抗阻力运动
+T311	Duration 4738 4740	长期
+T312	Test_Value 4781 4783	减少
+T313	Treatment 4793 4800	急性抗阻力运动
+T314	Treatment 4873 4881	有氧、抗阻力运动
+T315	Disease 4909 4916	慢性亚临床炎症
+T316	Disease 5005 5010	亚临床炎症
+T317	Treatment 5040 5044	有氧运动
+T318	Duration 5035 5039	16 周
+T319	Treatment 5134 5144	抗阻、有氧、联合运动
+T320	Treatment 5178 5183	抗阻力运动
+T321	Treatment 5358 5360	运动
+T322	Treatment 5317 5319	运动
+T323	Treatment 5425 5430	抗阻力运动
+T324	Treatment 5456 5461	抗阻力运动
+T325	Test 5500 5506	抗阻力运动量
+T326	Treatment 5518 5526	有氧、抗阻力运动
+T327	Duration 5531 5537	一次急性运动
+T328	Duration 5538 5547;5548 5550	短期 ( < 12 周)
+T329	Duration 5551 5553	长期
+T330	Duration 5567 5571	一次急性
+T331	Duration 5572 5574	短期
+T332	Treatment 5574 5577;5578 5583	有氧、 抗阻力运动
+T333	Treatment 5605 5609	长期运动
+T334	Treatment 5631 5635	有氧运动
+T335	Treatment 5636 5641	抗阻力运动
+T336	Treatment 5642 5647	柔韧性运动
+T337	Treatment 5649 5654	柔韧性运动
+T338	Treatment 5674 5676;5677 5683	有氧 和抗阻力运动
+T339	Treatment 5729 5733	有氧运动
+T340	Frequency 5708 5716;5717 5720	每周至少 150 min
+T341	Test 5767 5777	相邻两次运动时间间隔
+T342	Test_Value 5781 5782;5783 5784	2 d
+T343	Frequency 5790 5796	每周至少两次
+T344	Treatment 5803 5808	抗阻力运动
+T345	Treatment 5867 5875	有氧、抗阻力运动
+T346	Anatomy 5876 5881	糖、脂代谢
+T347	Treatment 5952 5954	运动
+T348	Test 5998 6002;6003 6005	身体活动 水平
+T349	Frequency 6111 6115	每周几次
+T350	Duration 6117 6123	持续运动时间
+T351	Test_Value 6169 6175	220-年龄
+T352	Treatment 6197 6202	抗阻力运动
+T353	Treatment 6260 6265	抗阻力运动
+T354	Frequency 6344 6361	每个动作 3×(10 ~ 15)次
+T355	Amount 6305 6315	5 ~ 10 个动作
+T356	Amount 6330 6342	重复 10 ~ 15 次
+T357	Amount 6386 6397	重复 8 ~ 10 次
+T358	Test 1504 1508	空腹血糖
+T359	Disease 1063 1066;1067 1072	糖尿病 大血管病变
+T360	Disease 1170 1175	胰岛素抵抗
+T361	Test_Value 1490 1504	5. 6 mmol / L≤
+T362	Test_Value 1508 1522	≤6. 9 mmol / L
+T363	Test_Value 1565 1579	7. 8 mmol / L≤
+T364	Test 1579 1590	餐后 2 h 静脉血糖
+T365	Test_Value 1590 1591;1592 1606	≤ 11. 0 mmol / L
+T366	Test_Value 1613 1619	5. 7%≤
+T367	Test 1619 1624	HbA1C
+T368	Test_Value 1624 1630	≤6. 4%
+T369	Test 1668 1672	心肺功能
+T370	Test 1852 1856	肌肉力量
+T371	Test 1859 1865	血糖控制能力
+T372	Test 1877 1879;1880 1884	血管 内皮功能
+T373	Disease 2121 2126	胰岛素抵抗
+T374	Anatomy 2227 2230	胰岛素
+T375	Symptom 2347 2358	胰岛 β 细胞功能异常
+T376	Test 2428 2435	胰岛素受体水平
+T377	Anatomy 2442 2447	胰岛素受体
+T378	Reason 2485 2494	肌肉量和肌力的减少
+T379	Reason 2517 2526	胰岛素廓清率的变化
+T380	Reason 2527 2532	糖耐量受损
+T381	Reason 2534 2539;2540 2543	肌蛋白合成 量降低
+T382	Disease 2651 2656	胰岛素抵抗
+T383	Disease 2681 2686	胰岛素抵抗
+T384	Disease 2857 2862	胰岛素抵抗
+T385	Disease 2933 2939	血脂代谢异常
+T386	Test 3033 3042	低密度脂蛋白胆固醇
+T387	Anatomy 3147 3150	胆固醇
+T388	Disease 3183 3188	脂代谢紊乱
+T389	Disease 3212 3218	脂质代谢紊乱
+T390	Test_Value 3324 3334	2 ~ 6 mmHg
+T391	Test_Value 3361 3366;3367 3371	1 ~ 5 mmHg
+T392	Test_Value 3389 3402	3. 2 ~ 6 mmHg
+T393	Test_Value 3407 3423	3. 5 ~ 4. 7 mmHg
+T394	Anatomy 3640 3649	GLUT-4 蛋白
+T395	Test 3716 3721	骨骼肌力量
+T396	Anatomy 3959 3967	肿瘤坏死因子 α
+T397	Test 4039 4046	胰岛素的敏感性
+T398	Test 4109 4112	脂联素
+T399	Anatomy 4197 4207	血管内皮细胞粘附分子
+T400	Test 4271 4278	HMW 脂联素
+T401	Test 4284 4289	血浆总联素
+T402	Test 4389 4392;4393 4394	瘦素水 平
+T403	Test 4416 4420;4421 4422	循环脂联 素
+T404	Anatomy 4500 4502	瘦素
+T405	Anatomy 4503 4505	瘦素
+T406	Anatomy 4882 4891	高敏 C 反应蛋白
+T407	Anatomy 4892 4898	hs-CRP
+T408	Anatomy 4900 4906	hs-CRP
+T409	Level 5370 5372	高等
+T410	Level 5389 5391	高等
+T411	Level 5721 5723	中等
+T412	Level 5724 5728	高等强度
+T413	Disease 5887 5889;5890 5893	胰岛 素抵抗
+T414	Test 6209 6213	肌肉耐力
+T415	Test 6214 6216	力量
+T416	Test 6365 6369	肌肉力量
+T417	Test 6371 6373	耐力
+T418	Test 299 303	空腹血糖
+T419	Test 1450 1454	空腹血糖

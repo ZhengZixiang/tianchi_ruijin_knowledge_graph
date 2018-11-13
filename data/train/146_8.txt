@@ -1,0 +1,317 @@
+临床研究
+基金项目:上海市卫生和计划生育委员会科研基金(20144Y0136)
+(顾勇、洪洋、韩小结)
+中老年 2 型糖尿病患者无症状胆囊结石的
+患病率及相关危险因素分析
+吴跃跃  刘军  徐炯  陈灶萍  盛励  顾勇  洪洋  韩小结
+[摘要]   目的  本研究主要调查中老年 2 型糖尿病患者无症状胆囊结石的患病率,分析与无症状胆
+囊结石相关的危险因素。 方法 研究对象来自于上海闵行区江川街道的中老年常住人口,年龄 59 ~ 89 岁。
+排除有胆囊切除手术史、有胆道相关症状的患者、以及其他属于排除标准的患者,进一步选取具有明确 2
+型糖尿病病史及经口服葡萄糖耐量试验新诊断的 2 型糖尿病患者。 收集病史、年龄、性别、体重指数、腰
+围、相关生化代谢指标及超声检查明确脂肪肝。 按《中国成人血脂异常防治指南(2007 年)》中糖尿病患者
+低密度脂蛋白胆固醇( LDL-C)及总胆固醇( TC)的控制目标值,将中老年 2 型糖尿病患者分别分成:
+LDL-C<2. 6 mmol / L 组和 LDL-C≥2. 6 mmol / L 组;TC<4. 14 mmol / L 组和 TC≥4. 14 mmol / L 组。 结果 共有
+788 例中老年 2 型糖尿病患者纳入分析,无症状胆囊结石的患病率为 13. 5% 。 女性患者无症状胆囊结石患
+病率明显高于男性患者(16. 4%对 9. 9% ,P=0. 008)。 TC≥4. 14 mmol / L 患者无症状胆囊结石的患病率高
+于 TC<4. 14 mmol / L 患者(14. 3%对 3. 4% ,P= 0. 019)。 有脂肪肝的患者无症状胆囊结石的患病率显著高
+于无脂肪肝患者(16. 9% 对 10. 1% ,P = 0. 005)。 条件 logistic 回归方程显示女性性别(OR = 1. 84,95% CI
+1. 19 ~ 2. 83,P= 0. 006)、TC(OR = 4. 71,95% CI 1. 15 ~ 19. 74,P = 0. 044)和脂肪肝(OR = 1. 80,95% CI
+1. 11 ~ 2. 81,P=0. 010)均与中老年 2 型糖尿病患者无症状胆囊结石的发生相关。 结论 中老年 2 型糖尿
+病患者无症状胆囊结石患病率较高,女性、TC、脂肪肝是其危险因素。
+[关键词]   老年; 糖尿病, 2 型; 无症状; 胆囊结石
+Prevalence and risk factors of asymptomatic gallstones in middle-aged and elderly patients with type 2 diabetes
+mellitus Wu Yueyue*, Liu Jun, Xu Jiong, Chen Zaoping, Sheng Li, Gu Yong, Hong Yang, Han Xiaojie.
+*Department of Endocrinology, Shanghai Fifth People忆s Hospital Affiliated to Fudan University, Shanghai 200240,
+China
+[Abstract]   Objective   To investigate the prevalence of asymptomatic gallstones and the risk factors in
+middle-aged and elderly patients with type 2 diabetes mellitus. Methods The participants were middle-aged and
+elderly permanent residents of Jiangchuan Community, Minhang District, Shanghai, aged 59 to 89 years. The patients
+with a history of gallbladder surgery, or with biliary symptoms, or others belong to exclusion criteria were ruled
+out. The patients with a clear history of type 2 diabetes and the newly diagnosed type 2 diabetes by oral glucose
+tolerance test were selected. The history, age, sex, body mass index, waist circumference, relevant biochemical
+metabolism index were collecteds, and fatty liver was diagnosed by ultrasound. According to the control target of low
+density lipoprotein-cholesterol ( LDL-C) and total cholesterol ( TC) in patients with diabetes by Chinese adult
+dyslipidemia prevention guideline (2007), the subjects were divided into LDL-C<2. 6 mmol / L and LDL-C≥2. 6
+mmol / L groups as well as TC<4. 14 mmol / L and TC≥4. 14 mmol / L groups. Results A total of 788 middle-aged and
+elderly patients with type 2 diabetes were included and the overall prevalence of asymptomatic gallstone was
+13. 5% . The prevalence of asymptomatic gallstones in female patients was higher than that in male patients(16. 4% vs
+9. 9% ,P = 0. 008), and that in TC≥4. 14 mmol / L patients was higher than that in TC<4. 14 mmol / L patients
+(14. 3% vs 3. 4% , P = 0. 019 ). The prevalence of asymptomatic gallstones in patients with fatty liver was
+significantly higher than that in the patients without fatty liver (16. 9% vs 10. 1% ,P = 0. 005). Conditional logistic
+regression equation showed that gender (OR=1. 84,95% CI 1. 19-2. 83,P=0. 006), TC(OR=4. 71,95% CI 1. 15-
+19. 74,P=0. 044), and fatty liver (OR = 1. 80,95% CI 1. 11-2. 81,P = 0. 010) were correlated with asymptomatic
+gallstones. Conclusion The prevalence of asymptomatic gallstones in middle-aged and elderly patients with type 2
+diabetes mellitus is high. Female, TC, and fatty liver disease were risk factors for asymptomatic gallstones in middle-
+aged and elderly patients with type 2 diabetes mellitus.
+[Key words]  Elderly; Diabetes mellitus, type 2; Asymptomatic; Gallstone
+(Chin J Endocrinol Metab, 2015, 31: 413-416)
+随着健康检查的普及,无症状胆囊结石的诊断率
+明显增加。 无症状胆囊结石患者是发生胆道症状的潜
+在人群。 以往研究提示年龄增加及糖尿病是无症状胆
+囊结石发生的危险因素[1],中老年 2 型糖尿病患者是
+无症状胆囊结石高发人群,所以有必要对这类患者进
+行患病率及相关危险因素研究。
+对象和方法
+一、 对象
+研究对象为 2010 年在本院体检中心完成健康体
+检的中老年人,共 3 003 名,年龄在 59 ~ 89 岁。 这些
+老人来自于上海闵行区江川街道,为该街道的常住人
+口。 该健康体检免费,由闵行区政府出资,目的是提高
+该区中老年人健康水平和及早发现潜在疾病。 我们利
+用该机会进行横断面研究。 其中因各种原因排除了
+263 名中老年人:121 名有胆囊手术史;68 名有胆囊炎
+相关症状发作史;41 名有恶性肿瘤病史;10 名有酗酒
+病史;11 名有严重的肝肾疾病;10 名有家族性高脂血
+症病史;1 名有甲状旁腺功能亢进病史。 2 740 名中进
+一步排除糖耐量正常和糖尿病前期患者后,共有 788
+例 2 型糖尿病患者纳入最后的分析。 研究设计符合赫
+尔辛基宣言,并得到参与者的同意。
+二、 方法
+采集研究对象的一般情况,既往疾病史,尤其是腹
+痛病史,胆道症状定义为:过去 5 年内至少有一次表现
+为右上腹部持续性疼痛,发作时间超过 30 min,伴或不
+伴有阵发性绞痛加重,可以伴有恶心呕吐,与或不与进
+食有关,无需发生在进食后,与排便及尿路症状无关。
+安静 5 min 后,测血压、量身高、腰围、体重,计算体重
+指数(BMI)。 夜间禁食 10 h 次日空腹及标准餐后 2 h
+采血,日本日立公司 7170S 型全自动生化仪检测血脂、
+肝肾功能;血糖测定用葡萄糖氧化酶法(罗氏公司);
+胰岛素测定电化学免疫发光法(罗氏公司)。 根据公
+式计算稳态模型评估的胰岛素抵抗指数 ( HOMA-
+IR)= 空腹血糖(mmol / L)×空腹胰岛素(mU / L) / 22. 5;
+稳态模型评估的胰岛 β 细胞功能指数(HOMA-β) =
+[20 ×空腹胰岛素(mU / L)] / [空腹血糖 (mmol / L) -
+3. 5]。 用美国 GE VOLUSON 730Pro B 超仪做肝、胆检
+查,脂肪肝 B 超诊断标准:肝区近场回声弥漫性增强
+(强于肾脏和脾脏),远场回声逐渐衰减;胆结石 B 超
+诊断标准:胆囊内强回声团,回声团后伴声影,胆囊内
+回声团随体位改变而移动。
+三、 统计学处理
+按《中国成人血脂异常防治指南(2007 年)》中糖
+尿病患者低密度脂蛋白胆固醇(LDL-C)及总胆固醇
+(TC)的控制目标值将中老年 2 型糖尿病患者分别分
+为:LDL-C<2. 6 mmol / L 组和 LDL-C≥2. 6 mmol / L 组;
+TC<4. 14 mmol / L 组和 TC≥4. 14 mmol / L 组。 呈正态
+分布的计量资料以 x-± s 表示,组间比较用 t 检验,非正
+态分布的计量资料以中位数(四分位数)表示,组间比
+较用非参数 Mann-Whitney U 检验;用 OR 值及 95% CI
+来比较分类资料。 无症状胆囊结石与危险因素的相关
+性采用多元逐步回归分析法。 采用 SPSS 17. 0 统计软
+件分析数据,P<0. 05 为差异有统计学意义。
+结    果
+本研究共有 788 例中老年 2 型糖尿病患者纳入最
+后的分析。 该组中老年 2 型糖尿病患者无症状胆囊结
+石的患病率为 13. 5% (106 / 788),明显高于中老年非
+糖尿病组患病率 10. 7% (209 / 1 952,OR=1. 30,95% CI
+1. 01 ~ 1. 66,P=0. 041)。
+表 1 显示中老年 2 型糖尿病患者合并无症状胆囊
+结石与无胆囊结石患者的一般资料,中老年 2 型糖尿
+病合并无症状胆囊结石患者中女性的比例 67. 0%
+(71 / 106)显著高于无胆囊结石的患者 53. 2% (363 /
+682,P=0. 001)。 中老年 2 型糖尿病合并无症状胆囊
+结石的患者 TC 明显高于无胆囊结石患者[(6. 2 ± 1. 6
+对 5. 8 ± 1. 1)mmol / L, P=0. 023]。 LDL-C 在中老年 2
+型糖尿病合并无症状胆囊结石患者中也明显高于无胆
+囊结石患者[(3. 4 ± 1. 1 对 3. 1 ± 0. 7) mmol / L,P =
+0. 002]。 中老年 2 型糖尿病合并无症状胆囊结石患
+者脂肪肝的患病率 61. 3% (65 / 106)明显高于无胆囊
+结石患者 46. 8% (319 / 682,P = 0. 005)。 其余指标:年
+龄、BMI、腰围、血压、谷丙转氨酶(ALT)、高密度脂蛋
+白胆固醇(HDL-C)、血肌酐、血糖、胰岛素、HOMA-IR、
+HOMA-β 在两者之间差异无统计学意义。 进一步按
+10 岁一个年龄段对该人群进行分层,共分为 59 ~ 68. 9
+岁、69 ~ 78. 9 岁、79 ~ 89 岁 3 个年龄段,其无症状胆囊
+结石的患病率分别为 12. 3% (34 / 276)、12. 7% (54 /
+425)、20. 7% (18 / 87),该 3 个年龄段患病率未见显著
+差异(P=0. 110)。
+表 2 显示中老年 2 型糖尿病患者无症状胆囊结石
+表 1  中老年 2 型糖尿病患者合并无症状胆囊结石与无胆囊结石患者的临床资料比较[x-± s,中位数(四分位数)]
+Tab 1 Comparison of clinical data between elderly type 2 diabetic patients with asymptomatic gallstones and without gallstones[x-± s,M(quartile)]
+组别
+Group
+例数
+n
+女性
+Female
+n(% )
+年龄
+(岁)
+Age
+(year)
+BMI
+(kg / m2)
+WC
+(cm)
+SBP
+(mmHg)
+DBP
+(mmHg)
+ALT
+(U / L)
+TC
+(mmol / L)
+TG
+(mmol / L)
+无胆囊结石
+Non-gallstone 682 363(53. 2% ) 71. 0 ± 6. 0 24. 3 ± 3. 8 85. 7 ± 10. 0 139 ± 18 80 ± 9  22. 0(16. 0-31. 3) 5. 8 ± 1. 1 2. 1 ± 1. 4
+胆囊结石
+Gallstone 106 71(67. 0% )
+b 71. 8 ± 6. 4 24. 4 ± 3. 3 87. 1 ± 8. 0 140 ± 21 80 ± 10 22. 0(17. 0-29. 0) 6. 2 ± 1. 6a 2. 2 ± 1. 8
+组别
+Group
+例数
+n
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+SCr
+(μmol / L)
+FPG
+(mmol / L)
+2hPG
+(mmol / L)
+FINS
+(mU / L) HOMA-IR HOMA-β
+脂肪肝
+Fatty liver disease
+n(% )
+无胆囊结石
+Non-gallstone 682 1. 5 ± 0. 3 3. 1 ± 0. 7 71. 9 ± 20. 0 7. 7 ± 2. 4 13. 0 ± 3. 9 13. 5 ± 9. 1 3. 8(2. 6-5. 6) 65. 3(41. 3-93. 3) 319(46. 8% )
+胆囊结石
+Gallstone 106 1. 5 ± 0. 3 3. 4 ± 1. 1
+b 71. 2 ± 17. 0 7. 9 ± 2. 5 13. 0 ± 3. 5 14. 1 ± 8. 5 3. 8(2. 6-6. 1) 64. 7(43. 8-92. 1) 65(61. 3% ) b
+注:BMI: 体重指数 Body mass index; WC: 腰围 Waist circumference;SBP: 收缩压 Systolic blood pressure;1 mmHg=0. 133 kPa; DBP: 舒张压 Diastolic
+blood pressure; ALT: 丙氨酸转氨酶 Alanine transaminase; TC: 总胆固醇 Total cholesterol; TG:甘油三酯 Triglycerides;HDL-C:高密度脂蛋白胆固醇 High
+density lipoprotein-cholesterol; LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol; SCr: 血肌酐 Serum creatinine; FPG: 空腹血糖 Fasting
+plasma glucose; 2hPG: 餐后 2 h 血糖 2 h postprandial plasma glucose; FINS: 空腹胰岛素 Fasting insulin; HOMA-IR: 稳态模型评估的胰岛素抵抗指数
+Homeostasis model assessment for insulin resistance; HOMA-β: 稳态模型评估的胰岛 β 细胞功能指数 Homeostasis model assessment for β cell function; 与无
+胆囊结石组相比 vs Non-gallstone group, aP<0. 05, bP<0. 01
+表 2  无症状胆囊结石的发生率和相关危险因素
+Tab 2 Incidence of asymptomatic gallstone and associated risk factors
+变量
+Variables
+总体
+Total
+胆囊结石
+Gallstone
+n(%) n(%)
+优势比
+OR(95% CI)
+P 值
+P value
+性别
+Gender
+男性
+Male 354(44. 9%)   35(9. 9%) 1
+女性
+Female 434(55. 1%)   71(16. 4%) 1. 78(1. 16-2. 75) 0. 008
+LDL-C
+<2. 6 mmol / L 158(20. 0%)   14(8. 9%) 1
+≥2. 6 mmol / L 630(80. 0%)   92(14. 6%) 1. 76(0. 97-3. 18) 0. 059
+TC
+<4. 14 mmol / L 59(7. 5%)   2(3. 4%) 1
+≥4. 14 mmol / L 729(92. 5%) 104(14. 3%) 4. 74(1. 14-19. 72) 0. 019
+脂肪肝
+Fatty liver disease
+否
+No 404(51. 3%)   41(10. 1%) 1
+是
+Yes 384(48. 7%)   65(16. 9%) 1. 80(1. 19-2. 74) 0. 005
+注:略语同表 1 The abbreviations are the same as Tab 1
+的患病率及不同危险因素的作用。 研究显示中老年 2
+型糖尿病女性患者无症状胆囊结石患病率 16. 4% (71 /
+434)显著高于男性患者 9. 9% (35 / 354,OR = 1. 78,
+95% CI 1. 16 ~ 2. 75,P=0. 008)。 尽管中老年 2 型糖尿
+病合并无症状胆囊结石患者 LDL-C≥2. 6 mmol / L 的比
+例 14. 6% (92 / 630)大于不合并无症状胆囊结石患者
+的比例 8. 9% (14 / 158),但其无统计学意义 (OR =
+1. 76, 95% CI 0. 97 ~ 3. 18, P = 0. 059)。 TC≥4. 14
+mmol / L 的中老年 2 型糖尿病患者无症状胆囊结石的
+患病率 14. 3% (104 / 729)显著高于 TC<4. 14 mmol / L
+的患者 3. 4% (2 / 59, OR=4. 74, 95% CI 1. 14 ~ 19. 72,
+P=0. 019)。 所以 TC 与中老年 2 型糖尿病患者是否发
+生无症状胆囊结石之间存在正相关。 有脂肪肝的中老
+年 2 型糖尿病患者发生无症状胆囊结石的患病率
+16. 9% (65 / 384)显著高于无脂肪肝患者 10. 1% (41 /
+404),脂肪肝与中老年 2 型糖尿病患者无症状胆囊结
+石的患病率呈正相关(OR = 1. 8, 95% CI 1. 19 ~ 2. 74,
+P=0. 005)。
+分别以性别、年龄、BMI、腰围、血压、TC、LDL-C、
+HDL-C、ALT、血肌酐、血糖、空腹胰岛素、脂肪肝为自变
+量,以无症状胆囊结石为因变量(Y=0,1),相关数据分
+段赋值后,进行条件 logistic 回归分析,进入回归方程的
+变量有性别、TC、脂肪肝。 结果显示,女性性别(OR =
+1. 84,95% CI 1. 19 ~ 2. 83,P = 0. 006)、TC(OR = 4. 71,
+95% CI 1. 15 ~ 19. 74,P=0. 044)及脂肪肝(OR = 1. 80,
+95% CI 1. 11 ~ 2. 81,P=0. 010)是无症状胆囊结石的独
+立危险因素。
+讨    论
+随着人们生活水平的提高,中国的糖尿病患病率
+明显升高[2,3],再加上 B 超检查的普及,目前中老年 2
+型糖尿病合并无症状胆囊结石的患病率呈较快增长趋
+势。 但国内关于中老年 2 型糖尿病合并无症状胆囊结
+石的患病率目前鲜有报道。 无症状胆结石是胆道症状
+急性发作潜在人群,已有研究显示无症状胆囊结石在
+15 年后大约有 10% ~ 25% 转变成有症状的胆囊结
+石[4]。 糖尿病是无症状胆囊结石的高危因素[1,5,6]。 本
+研究显示中老年 2 型糖尿病合并无症状胆囊结石的患
+病率是 13. 5% ,显著高于中老年非糖尿病患者。 这与
+糖尿病导致胆囊排空障碍、Oddis 括约肌功能障碍、胃
+肠激素紊乱、胃肠运动障碍、脂肪代谢障碍紊乱、胆汁
+细菌感染等因素相关[7]。
+以往的研究提示女性更易患胆囊结石,中华胆道
+外科学组的研究显示年龄大于 50 岁女性患者易患胆
+囊结石,女性 : 男性为 2. 75 : 1[8]。 同样 Walcher 等[9]
+报道显示女性是胆囊结石的危险因素(OR = 2. 78,95%
+CI 1. 91 ~ 4. 07,P<0. 01),女性 : 男性为 2. 3 : 1。 本研
+究在中老年 2 型糖尿病患者中也得到相似的结果,合
+并无症状胆囊结石患者中女性比例高于不合并胆囊结
+石的患者(67. 0%对 52. 3% ),进一步分析显示中老年
+2 型糖尿病女性患者患无症状胆囊结石的几率显著高
+于男性患者。 这可能与中老年女性体内主要的雌激素
+雌酮可提高胆汁中的胆固醇饱和度,促使胆囊结石形
+成有关[10]。
+在 1 582 名老年人胆结石患病率及相关因素研究
+提示,有胆囊结石的老人 TC、LDL-C 水平显著高于无
+胆囊结石的老人,HDL-C 水平显著低于无胆囊结石的
+老人,TG 无差异[11]。 这说明胆囊结石患者存在明显
+的脂蛋白代谢异常,高 TC 血症、LDL-C 升高及 HDL-C
+降低在胆囊结石形成中起重要作用,而 TG 的影响不明
+显。 本研究 788 例中老年 2 型糖尿病患者胆囊结石相
+关因素分析同样也发现有胆囊结石的中老年人 TC、
+LDL-C 水平显著高于无胆囊结石的中老年人,而 HDL-
+C 及 TG 水平无差异。 本研究进一步按《中国成人血脂
+异常防治指南(2007 年)》中糖尿病患者 LDL-C 及 TC
+的控制目标值即 LDL-C < 2. 6 mmol / L 和 TC < 4. 14
+mmol / L 来分组,发现 LDL-C<2. 6 mmol / L 组与 LDL≥
+2. 6 mmol / L 组比较,两者的胆囊结石患病率无显著差
+异;而 TC<4. 14 mmol / L 组与 TC≥4. 14 mmol / L 组比较
+胆囊结石的患病率存在显著差异。 该结果说明了中老
+年 2 型糖尿病患者控制 TC 对胆囊结石形成的影响可
+能要大于控制 LDL-C,这在之后的随访研究中需进一
+步证实。
+随着肥胖和 2 型糖尿病患病率的增加,2 型糖尿病
+并发脂肪肝也明显增加。 糖尿病患者中有 42. 0%患者
+合并有脂肪肝[12]。 最近的研究显示中度至重度非酒
+精性脂肪肝是胆囊结石的独立危险因素[13]。 本研究
+显示中老年 2 型糖尿病患者合并脂肪肝的发生率是
+48. 7% (384 / 788),其中合并无症状性胆囊结石患者脂
+肪肝的患病率明显高于无胆囊结石患者;进一步分析
+发现有脂肪肝的中老年 2 型糖尿病患者发生无症状性
+胆囊结石的概率显著高于无脂肪肝患者,说明脂肪肝
+是中老年 2 型糖尿病患者发生无症状性胆囊结石危险
+因素之一。 这可能与脂肪肝和胆囊结石在发生上有许
+多共同机制,如脂质代谢紊乱、胰岛素抵抗、腹型肥胖
+等。 脂质代谢异常及糖尿病可使肝代谢异常,导致中
+性脂肪在肝细胞内积聚,形成脂肪肝。 脂肪肝会出现
+胆碱和不饱和脂肪酸的缺乏,磷脂在肝内合成减少,胆
+固醇升高,使胆汁中的胆盐、磷脂、胆固醇三者比例失
+调,易形成胆结石。
+本研究针对中老年 2 型糖尿病患者合并无症状性
+胆囊结石患病率及相关危险因素分析,中老年 2 型糖
+尿病患者合并无症状性胆囊结石的患病率较高。 通过
+多元逐步回归分析,得出女性、TC、脂肪肝是中老年 2
+型糖尿病患者合并无症状性胆囊结石危险因素,相信
+该研究结论对从代谢角度预防及早期发现无症状性胆
+囊结石具有一定临床意义。

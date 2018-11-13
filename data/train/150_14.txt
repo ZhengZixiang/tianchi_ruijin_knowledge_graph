@@ -1,0 +1,304 @@
+基础研究
+成、周游、蒋兴亮),风湿免疫研究所(周京国、青玉凤)
+脂氧素 A4 对尿酸诱导的人脐静脉内皮细胞
+炎症反应的影响
+易婷婷  周京国  罗光成  周游  青玉凤  蒋兴亮
+[摘要]   目的  探讨脂氧素 A4 对尿酸诱导的人脐静脉内皮细胞(HUVECs)炎症相关因子的影响及
+其可能的机制。 方法 实验分为对照组、尿酸单独刺激组和不同浓度脂氧素 A4(5、25、50 ng / ml)预处理组。
+ELISA 法检测细胞培养上清中白细胞介素(IL)-1β、IL-6 和肿瘤坏死因子 α(TNF-α)的浓度;实时荧光定量
+PCR 检测 HUVECs TNF-α、IL-1β、IL-6 mRNA 表达水平;Western 印迹法检测 p38 丝裂原活化蛋白激酶
+(MAPK)和 NF-κB / p65 磷酸化水平。 结果 12 mg / dl 的尿酸刺激 HUVECs 24 h,细胞培养上清中的 TNF-α、
+IL-1β 和 IL-6 水平均显著升高(P<0. 01),脂氧素 A4 呈浓度依赖性地抑制尿酸诱导的 TNF-α、IL-1β 和 IL-6
+产生(P<0. 01)。 尿酸刺激的 TNF-α、IL-1β 和 IL-6 mRNA 表达也被 5、25、50 ng / ml 脂氧素 A4 显著下调(P<
+0. 05)。 Western 印迹法证实 12 mg / dl 的尿酸可诱导 HUVECs p38 MAPK 和 NF-κB / p65 蛋白磷酸化水平增
+加(P<0. 05),而 50 ng / ml 脂氧素 A4 预处理后能够显著降低 HUVECs 的 p38 MAPK 和 NF-κB / p65 磷酸化水
+平(P<0. 01)。 结论 脂氧素 A4 可通过降低 p38 MAPK 和 NF-κB / p65 蛋白磷酸化水平而抑制尿酸诱导的
+血管内皮细胞炎症相关因子的表达,发挥抗炎作用。
+[关键词]   脂氧素 A4; 尿酸; 人脐静脉血管内皮细胞; p38 丝裂原活化蛋白激酶; NF-κB / p65
+Effects of lipoxin A4 on the inflammatory reaction induced by uric acid in human umbilical vein endothelial
+cells Yi Tingting*, Zhou Jingguo, Luo Guangcheng, Zhou You, Qing Yufeng, Jiang Xingliang. *Department of
+Clinical Laboratory, Affiliated Hospital of North Sichuan Medical College, Nanchong 637000, China
+[Abstract]   Objective   To investigate the effects of lipoxin A4 ( LXA4 ) on inflammatory related factors
+induced by uric acid(UA) in human umbilical vein endothelial cells(HUVECs). Methods HUVECs were treated
+with 5, 25, and 50 ng / ml LXA4 prior to exposure to 12 mg / dl UA. Tumor necrosis factor-alpha(TNF-α), interleukin
+( IL)-1β, and IL-6 were analyzed with ELISA and realtime PCR. The phosphorylation levels of p38 mitogen-activated
+protein kinases(MAPK)and NF-κB / p65 were observed with Western blot. Results Stimulation of HUVECs with 12
+mg / dl UA markedly increased TNF-α, IL-1β, and IL-6 production(P<0. 01) . Pretreatment with LXA4 significantly
+inhibited UA-induced production of TNF-α, IL-1β, and IL-6 in a concentration dependent manner(P<0. 01) . The
+mRNA expressions of TNF-α, IL-1β, and IL-6 in response to UA were also decreased by LXA4(P<0. 05) . Western
+blot analysis showed that the phosphorylation levels of p38 MAPK and NF-κB / p65 were significantly raised by 12
+mg / dl UA in HUVECs(P < 0. 05), but attenuated significantly in the presence of 50 ng / ml LXA4 . Conclusion
+LXA4 may inhibit the expressions of inflammatory related factors induced by UA via reducing p38 MAPK and NF-κB /
+p65 phosphorylation and play a role in anti-inflammation.
+[Key words]  Lipoxin A4; Uric acid; Human umbilical vein endothelial cells; p38 mitogen-activated protein
+kinase; NF-κB / p65
+(Chin J Endocrinol Metab, 2015, 31: 800-805)
+近年来,随着人类生活水平提高和膳食结构改变,
+高尿酸血症的发病率在世界范围内呈上升趋势,严重
+威胁人类的健康。 大量研究证实高尿酸血症不仅是痛
+风的生化基础,其与高血压、糖尿病、肥胖等危险因素
+一样,是心血管疾病(CVD)的独立危险因素。 高尿酸
+可通过促进炎症因子的分泌,损伤血管内皮功能,参与
+心血管疾病的发生、发展[1-3]。 血管内皮功能损伤是
+CVD 的重要始动因素,因此,寻找有效措施干预高尿
+酸诱导的内皮细胞功能紊乱,保护血管内皮细胞功能
+具有重大意义。 脂氧素 A4( lipoxin A4)是机体自身在
+急性炎症反应时产生的一类脂质抗炎递质,具有广泛
+的抗炎促消退功能[4]。 既往实验研究证实,脂氧素 A4
+在牙周炎、关节炎、肾小球肾炎、炎症性肠病、囊性纤维
+化、结核病、弓形体病等动物疾病模型均可发挥抗炎促
+消退作用[5]。 但脂氧素 A4 能否在高尿酸诱导的血管
+内皮炎症中发挥抗炎作用尚未见报道。 因此,本实验
+在体外培养人脐静脉内皮细胞(HUVECs)的基础上,
+观察了脂氧素 A4 对高尿酸诱导的 HUVECs 炎症相关
+因子的影响,并初步探讨其可能的机制。
+材料和方法
+一、 材料
+HUVECs 购自美国模式培养物集存库(American
+type culture collection, ATCC)。 尿酸购自美国 Sigma
+公司,脂氧素 A4 购自美国 Cayman 公司(批号 10033);
+胎牛血清购自杭州四季青公司、DMEM 低糖培养基购
+自 Hyclone 公司;TRNzol 试剂购自天根生化科技有限
+公司;逆转录试剂盒、SYBR Green real-time PCR Master
+Mix 为 Takara 宝生物公司产品;p38 丝裂原活化蛋白
+激酶(MAPK)、磷酸化 p38 MAPK 兔多克隆抗体、NF-
+κB / p65 多克隆抗体、磷酸化 NF-κB / p65 多克隆抗体
+和羊抗兔 IgG-辣根过氧化物酶(HRP)标记二抗购自
+美国 Cell Signaling Technology(CST)公司;GAPDH 内
+参抗体购自武汉博士德生物科技公司;预染蛋白
+Marker 购自 Fermentas 公司;蛋白抽提试剂盒、BCA 蛋
+白定量试剂盒、Ecl 化学发光显色试剂盒为碧云天公
+司产品。 肿瘤坏死因子 α(TNF-α)、白细胞介素( IL)-
+1β、IL-6 引物序列由 Takara 宝生物公司设计和合成;
+人 TNF-α、 IL-1β、 IL-6 ELISA 试剂盒货号 EHC103a、
+EHC002b、EHC007,均购自欣博盛生物科技有限公司;
+其余试剂均为国产分析纯。
+二、 方法
+1. HUVECs 培养:HUVECs 用含 10% 胎牛血清及
+青、链霉素 100 U / ml 的 DMEM 低糖细胞培养液在
+37℃、5% CO2 培养箱内培养至细胞铺满培养瓶底
+80%左右,用 0. 25% 胰蛋白酶消化传代培养,取对数
+生长期细胞用于实验。
+2. 实验分组:实验分为对照组、尿酸刺激组、脂氧
+素 A4 干预组。 脂氧素 A4 干预组又分为低剂量 (5
+ng / ml)、中剂量(25 ng / ml)、高剂量(50 ng / ml)3 个亚
+组;尿酸刺激组加入终浓度为 12 mg / dl 的尿酸刺激
+24 h;脂氧素 A4 干预组以不同浓度的脂氧素 A4 预孵
+育 1 h,再加入终浓度为 12 mg / dl 的尿酸刺激 24 h。
+Western 印迹实验中,尿酸刺激组加入终浓度为 12
+mg / dl 的尿酸刺激 30 min;脂氧素 A4 干预组以 50
+ng / ml 脂氧素 A4 预孵育 1 h,再加入终浓度为 12 mg / dl
+的尿酸刺激 30 min。
+3. 细胞培养上清炎症因子浓度检测:将 1×105 / ml
+的细胞悬液接种于 6 孔培养板中,待细胞生长至 80%
+融合状态下,按照实验分组加入处理因素,作用完毕后
+收集上清液,采用 ELISA 法检测细胞培养上清中
+TNF-α、IL-1β、IL-6 含量,严格按照试剂盒说明进行。
+4. 实时荧光定量 PCR 检测 TNF-α、 IL-1β、 IL-6
+mRNA 水平变化:细胞完成相应处理后,用 TRNzol 提
+取各处理组细胞总 RNA,逆转录为 cDNA。 实时荧光
+定量 PCR:引物由 Takara 宝生物公司设计并合成,序
+列如表 1。 PCR 反应条件:95℃ 30 s;95℃ 5s ,60℃
+34 s,反应 40 个循环。 对 PCR 反应过程中每一循环的
+系统荧光强度进行实时检测和测定各组样品的循环阈
+值(Ct),以 β-actin 为内参照,并采用 2-△△Ct方法对目的
+基因进行相对定量。
+表 1  实时定量 PCR 基因引物序列
+Tab 1  Primer sequences of genes for real-time PCR
+基因
+Gene
+引物序列(5忆寅3忆)
+Primer sequence(5忆寅3忆)
+扩增片段长度
+Product length
+(bp)
+TNF-α F:ACCACGCTCTTCTGCCTGCT 117
+R:GGTTCGAGAAGATGATCTGACTGC
+IL-1β F:GAAATGATGGCTTATTACAGTGGC 147
+R:GCTGTAGTGGTGGTCGGAGATT
+IL-6 F:AGAGTAGTGAGGAACAAGCCAGAGC 124
+R:AGGCTGGCATTTGTGGTTGG
+β-actin F:CCACGAAACTACCTTCAACTCC 132
+R:GTGATCTCCTTCTGCATCCTGT
+注:TNF-α:肿瘤坏死因子 α Tumor necrosis factor α;IL:白细胞介素
+Interluekin; F:上游 Forward;R:下游 Reverse
+5. Western 印迹法检测 HUVECs p38 MAPK 和
+NF-κB / p65 蛋白磷酸化水平:刺激结束后,吸出细胞培
+养液,用 PBS 洗涤细胞 2 次,再加入含 PMSF 的细胞裂
+解液冰上裂解 30 min,提取细胞总蛋白;BCA 法测蛋白
+浓度;取样品 50 μg 以 10% SDS-PAGE 50 V 恒压电泳,
+250 mA 恒流湿式电转膜 90 min,将蛋白转移至 PVDF
+膜上;TBST 配制的 5%脱脂牛奶室温封闭 1 h 后,加入
+1 : 1 000 稀释的兔抗人一抗 4℃孵育过夜;TBST 洗涤
+后用 HRP 标记的羊抗兔二抗(1 : 3 000 稀释)室温
+床反应 1 h;洗膜后发光显像,并以 GAPDH 作为内参,
+用 Image J 软件分析发光条带灰度值,目的蛋白和内参
+蛋白 GAPDH 条带的灰度值比值代表目的蛋白的相对
+表达量。
+三、 统计学处理
+计量资料采用 x-± s 表示,多组之间比较采用单因
+素方差分析,组间两两比较采用最小显著差检验( least
+significant difference, LSD)。 P<0. 05 为差异有统计学
+意义。
+结    果
+一、 脂氧素 A4 对尿酸诱导 HUVECs 产生 TNF-α、
+IL-1β 和 IL-6 的影响
+在尿酸促炎作用的时间与量效曲线预实验中,用
+5、10、12、15、20 mg / dl 的尿酸作用于 HUVECs,结果发
+现 10 ~ 20 mg / dl 的尿酸均能使炎症因子 TNF-α、IL-1β
+和 IL-6 的分泌显著增加及 mRNA 表达显著上调,其中
+以 12 mg / dl 尿酸作用 24 h 效应最显著。 与以往报道
+基本一致[6、7],故后期的干预实验均采用 12 mg / dl 尿
+酸浓度来建立 HUVECs 体外细胞炎症模型。 12 mg / dl
+尿酸刺激 HUVECs 24 h 后,细胞培养上清 TNF-α、
+IL-1β 和 IL-6 浓度与对照组相比显著增加(P<0. 01)。
+25 和 50 ng / ml 脂氧素 A4 可显著减少尿酸刺激的
+TNF-α、IL-1β 和 IL-6 分泌(P<0. 01,图 1)。
+二、 脂氧素 A4 对尿酸诱导的 HUVECs 炎性因子
+TNF-α、IL-1β、IL-6 mRNA 表达的影响
+12 mg / dl 尿酸单独刺激 HUVECs 24 h 后,TNF-α、
+注:LXA4:脂氧素 A4 Lipoxin A4;HUVECs:人脐静脉内皮细胞 Human umbilical vein endothelial cells;UA:尿酸 Uric acid;余略语同表 1 The other
+abbreviations are the same as Tab 1;与对照组相比 vs Control group,aP< 0. 01;与单独 UA 组相比 vs UA alone group,bP< 0. 01
+图 1  LXA4 对尿酸诱导 HUVECs TNF-α、IL-1β 和 IL-6 分泌的影响
+Fig 1  Effects of LXA4 on TNF-α,IL-1β,and IL-6 secretion induced by uric acid in HUVECs
+注:略语同表 1 和图 1 The abbreviations are the same as Tab 1 and Fig 1;与对照组相比 vs Control group,aP<0. 01;与单独 UA 组相比 vs UA alone
+group,bP<0. 01,cP<0. 05
+图 2  LXA4 对尿酸诱导的 HUVECs TNF-α、IL-1β 和 IL-6 mRNA 表达的影响
+Fig 2  Effects of LXA4 on TNF-α,IL-1β,and IL-6 mRNA expressions stimulated by uric acid in HUVECs
+注:p38 MAPK:p38 丝裂原活化蛋白激酶 p38 Mitogen-activated protein kinase;p-p38 MAPK:磷酸化的 p38 MAPK Phosphorylated p38 MAPK;余略语同
+图 1 The other abbreviation is the same as Fig 1;与对照组相比 vs Control group,aP<0. 01,bP<0. 05
+图 3  尿酸对 HUVECs p38 MAPK 和 NF-κB / p65 磷酸化水平的影响
+Fig 3  Effects of UA on the phosphorylation levels of p38 MAPK and NF-κB / p65 in HUVECs
+IL-1β 和 IL-6 mRNA 表达显著上调; 而 5、25、50 ng / ml
+脂氧素 A4 预处理后,尿酸刺激的 TNF-α、IL-1β 和 IL-6
+mRNA 表达均明显降低(P<0. 05,图 2)。
+三、 尿酸对 HUVECs p38 MAPK、NF-κB / p65 磷酸
+化的影响
+12 mg / dl 尿酸作用于 HUVECs 60 min,p38 MAPK、
+NF-κB / p65 总蛋白表达无明显变化(P>0. 05),但 p38
+MAPK、NF-κB / p65 磷酸化水平增加(P<0. 01),在刺激
+30 min 作用时最为显著(图 3)。
+四、 脂氧素 A4 对尿酸诱导的 HUVECs p38 MAPK
+信号通路的影响
+MAPK 信号通路在炎症反应中发挥重要作用,因
+此本研究进一步分析了脂氧素 A4 的抗炎作用与 p38
+MAPK 信号通路的关系。 结果显示,脂氧素 A4 对
+HUVECs p38 MAPK 总蛋白表达无明显影响 ( P >
+0. 05),但 50 ng / ml 脂氧素 A4 可显著抑制尿酸诱导的
+p38 MAPK 磷酸化水平(P<0. 01,图 4)。
+注:略语同图1 和图3 The abbreviations are the same as Fig 1 and Fig 3;
+与对照组相比 vs Control group,aP< 0. 01;与 UA 单独组相比 vs UA alone
+group,bP< 0. 01
+图 4  LXA4 对尿酸诱导的 HUVECs p38 MAPK 磷酸化水平的影响
+Fig 4  Effects of LXA4 on uric acid-stimulated phosphorylation of p38 MAPK
+in HUVECs
+五、 脂氧素 A4 对尿酸诱导的 HUVECs NF-κB / p65
+蛋白磷酸化水平的影响
+NF-κB / p65 亚基磷酸化是诱导 NF-κB 活化并启
+动下游基因表达的必要条件。 本研究结果发现,尿酸
+处理 HUVECs 30 min 后,NF-κB / p65 亚基磷酸化水平
+明显增加,提示 NF-κB 已经被激活。 50 ng / ml 脂氧素
+A4 可显著抑制尿酸诱导的 NF-κB / p65 亚基磷酸化
+(P<0. 01) ,但对 NF-κB / p65 总蛋白表达无明显影响
+注:略语同图 1 和图3 The abbreviations are the same as Fig 1 and Fig 3;
+与对照组相比 vs Control group,aP<0. 01;与 UA 单独组相比 vs UA alone
+group,bP<0. 01
+图 5  LXA4 对尿酸诱导的 HUVECs NF-κB / p65 磷酸化水平的影响
+Fig 5  Effects of LXA4 on uric acid-stimulated phosphorylation of NF-κB / p65
+in HUVECs
+(P>0. 05,图 5)。
+讨    论
+血管内皮细胞是位于循环血液与血管壁内皮下组
+织之间的单层细胞,在血栓与止血、血管新生、辐射损
+伤、炎症免疫、血管舒张等维持血管内环境稳定中起重
+要作用。 与内皮功能密切相关的促炎性因子包括
+IL-1、IL-6、TNF-α 以及纤溶酶原激活物抑制剂等在内
+皮功能损伤中起重要作用[8]。 血管内皮细胞功能障
+碍是动脉粥样硬化致心血管疾病发生的早期环节。 众
+多研究表明,高水平的血尿酸在某些组织器官的沉积
+可诱导氧化应激反应和促使炎症因子的释放,从而导
+致痛风性关节炎、尿酸性肾病的发作,以及作为 CVD
+的独立危险因素加重动脉粥样硬化和冠心病的发生和
+进展[9]。 Kocaman 等[10] 回顾性分析了 690 例冠状动
+脉血管造影患者的数据,发现高尿酸会诱发炎症反应,
+刺激动脉粥样硬化斑块形成。 体外实验中 Kang 等[6]
+研究证实尿酸可以上调人血管平滑肌细胞和人脐静脉
+内皮细胞的 C 反应蛋白表达。 本实验采用 12 mg / dl
+的高浓度尿酸诱导 HUVECs, 结果发现炎症介质
+TNF-α、IL-1β、IL-6 mRNA 和蛋白水平均显著增高(P<
+0. 01)。证实了尿酸可作为炎性介质激活血管内皮细
+胞的炎性反应,成功构建人脐静脉内皮细胞株的体外
+细胞炎症模型。
+炎症反应的及时消退是防止炎症恶化的关键环
+节,因此促进内源性炎症消退机制成为近年来炎症研
+究的一个新的热点[11]。 脂氧素 A4 是炎症消退过程中
+产生的一种内源性脂质分子,因其具有促进炎症消退
+的独特作用而被誉为炎症反应的“刹车信号冶。 已有
+的研究证明,脂氧素 A4 及其异构体可以对多种炎症细
+胞和炎症相关基因有显著的负性调节作用[4],如在哮
+喘、溃疡性结肠炎等炎症性疾病中,其具有良好的抗炎
+效果[12,13]。 但是脂氧素 A4 是否能抑制高尿酸诱导的
+内皮细胞炎症反应尚未见报道。 因此,本研究采用不
+同浓度脂氧素 A4 预处理高尿酸诱导的人脐静脉内皮
+细胞炎症模型,检测炎症介质 TNF-α、IL-1β、IL-6 变化
+水平。 结果表明,与尿酸刺激组相比,25 ng / ml 以上的
+脂氧素 A4 可显著抑制 TNF-α、IL-1β、IL-6 等炎症因子
+的表达(P<0. 01),并且 5 ng / ml 以上的脂氧素 A4 可
+明显抑制胞内 TNF-α、IL-1β 和 IL-6 mRNA 表达(P<
+0. 05)。 因此可证明脂氧素 A4 能够抑制尿酸诱导的
+HUVECs 炎症反应,保护血管内皮功能。 在此基础上,
+本研究进一步探讨脂氧素 A4 发挥抗炎作用的机制。
+p38MAPK 是 MAPK 家族中的重要成员,其通过非
+磷酸化和磷酸化状态的转化来激活其下游炎症相关信
+号通路,在炎症、应激反应中起重要作用[14]。 NF-κB
+是由 p50 / p65 两个异源二聚体组成的转录因子,其中
+p65 亚基磷酸化是诱导 NF-κB 活化并启动下游基因表
+达的必要条件[15]。 脂氧素 A4 可能通过抑制 p38
+MAPK 和 NF-κB 的活性发挥抗炎作用。 因此本研究
+主要探讨了脂氧素 A4 对尿酸诱导内皮细胞 p38
+MAPK、NF-κB / p65 蛋白磷酸化的影响。 结果发现 12
+mg / dl 尿酸可显著增强 p38MAPK、NF-κB / p65 蛋白磷
+酸化水平,证实尿酸可以通过激活 HUVECs 的 p38
+MAPK、NF-κB / p65 通路而介导炎症反应,这与 Kanellis
+等[16]研究结果一致。 Kanellis 等[16] 研究表明,尿酸可
+激活血管平滑肌细胞 p38 MAPK、NF-κB 通路增加单核
+细胞趋化蛋白和环氧化酶-2 的表达,介导炎症反应引
+起的内皮功能障碍,促进动脉粥样硬化形成。 既往
+Ohira 等[17]研究表明,脂氧素 A4 类似物能够抑制中性
+粒细胞 p38 MAPK 信号通路,发挥抗炎作用。 Jozsef
+等[18]研究证实,脂氧素 A4 能够抑制脂多糖诱导的人
+白细胞 NF-κB 和 MAPK 信号通路激活以及炎症介质
+表达。 在尿酸诱导的内皮细胞炎症中,脂氧素 A4 是否
+通过 p38 MAPK、NF-κB 信号途径发挥抗炎作用尚未见
+报道。 本研究发现,相对于高尿酸刺激组,50 ng / ml 脂
+氧素 A4 预处理后,尿酸介导的 p38 MAPK、NF-κB / p65
+磷酸化水平显著减低,提示脂氧素 A4 可能通过抑制
+HUVECs p38 MAPK、NF-κB / p65 的磷酸化,阻断尿酸
+介导的炎症信号转导过程,从而发挥其抗炎作用。 这
+与之前的脂氧素 A4 在小胶质细胞、巨噬细胞和肠上皮
+细胞等的研究结果一致[19,20]。 Wu 等[19] 研究表明,脂
+氧素 A4 能够抑制脂多糖诱导的巨噬细胞和肠上皮细
+胞 NF-κB 和 MAPK 信号通路及其介导的 TNF-α 表达。
+Wang 等[20]研究表明阿司匹林诱生型脂氧素能够抑制
+脂多糖诱导的小胶质细胞 NF-κB 和 MAPK 信号通路
+激活来发挥抗炎作用。 说明脂氧素 A4 在不同细胞炎
+症模型中的抗炎机制所涉及的信号通路类似。 对于脂
+氧素 A4 可降低 p38 MAPK 和 NF-κB / p65 蛋白磷酸化
+水平可能的机制,尚需进一步探索。
+本实验在体外模拟人脐静脉内皮细胞炎症模型,
+干预因素单一,刺激时间较短,与体内真实的多因素共
+同作用的血管环境存在差异,只能从一个侧面说明脂
+氧素 A4 对尿酸诱导血管内皮炎症反应的影响,存在一
+定的局限性。 因此可通过模拟更加真实的体内环境,
+如动物实验、人体实验等相互印证,将有助于更进一步
+揭示脂氧素 A4 对尿酸诱导血管内皮炎症反应的影响。
+总之,本研究通过分析脂氧素 A4 在尿酸诱导的炎
+症反应中作用,证实了高浓度尿酸可介导 HUVECs 明
+显的炎症反应;发现了脂氧素 A4 能抑制尿酸介导的内
+皮细胞炎症介质的生成,减轻炎症反应。 脂氧素 A4 的
+这种抗炎作用可能是通过抑制 p38 MAPK、NF-κB / p65
+磷酸化实现的。 在尿酸介导的 HUVECs 炎症反应的
+细胞模型中,脂氧素 A4 抗炎作用的发现和机制的阐明
+为降低高尿酸血症患者的冠心病风险提供了新的干预
+策略和治疗途径,也为开发新抗炎药物提供了重要的
+实验基础和理论依据。

@@ -1,0 +1,297 @@
+基础研究
+基金项目:国家自然科学基金资助项目(81070157,81370303);江
+苏省自然科学基金(BK2011179);江苏省人事厅“六大人才高峰冶第七
+批高层次项目(006);江苏省医学重点人才资助项目(RC201134)
+钱玲玲、汤徐、王萌、党时鹏、吴莹、孙曼青、王如兴);山东省医学科学院
+基础医学研究所心血管病研究室(柴强)
+MiR-200b 对 1 型糖尿病大鼠胸主动脉炎症
+基因表达的影响
+徐凤  钱玲玲  汤徐  王萌  党时鹏  吴莹  孙曼青  柴强  王如兴
+[摘要]   目的   探讨 1 型糖尿病大鼠胸主动脉 miR-200b 的变化及对炎症基因表达的影响。 方法
+研究分为正常对照组和糖尿病组。 通过对 SD 大鼠腹腔注射链脲佐菌素构建 1 型糖尿病大鼠动物模型,采
+用 qRT-PCR 和 Western 印迹方法测定 1 型糖尿病大鼠胸主动脉 miR-200b、炎症基因环氧化酶-2(COX-2)、
+单核细胞趋化蛋白 1(MCP-1)、肿瘤坏死因子 α(TNF-α)和白细胞介素 6( IL-6)及 miR-200b 靶基因转录抑
+制因子 Zeb1 的表达。 结果 qRT-PCR 显示糖尿病组大鼠胸主动脉 miR-200b 的表达较正常对照组明显上
+调(4. 587 ± 1. 261 对 1. 728 ± 0. 372, P<0. 05);炎症介质 COX-2、MCP-1、TNF-α 和 IL-6 的表达量显著升高
+(3. 808±1. 294 对 0. 864±0. 093, P<0. 05;3. 203±0. 402 对 1. 485±0. 433, P<0. 01;2. 288±0. 480 对 0. 784±
+0. 089, P<0. 01;6. 334 ± 2. 683 对 0. 981 ± 0. 176, P<0. 05);Western 印迹显示正常对照组和糖尿病组 Zeb1
+表达水平分别为 0. 496 ± 0. 031 和 0. 264 ± 0. 012(P<0. 01),糖尿病组较正常对照组下降 46. 7% 。 结论
+1 型糖尿病时大鼠胸主动脉中 miR-200b 上调,并抑制靶标 Zeb1 表达,进而增加调控通路下游相关炎症基
+因的表达,这可能是糖尿病血管并发症发生发展的重要机制之一。
+[关键词]   MiR-200b; 糖尿病, 1 型; 胸主动脉; 炎症基因
+Effects of miR-200b on the expression of inflammatory genes in thoracic aorta of type 1 diabetic rats Xu
+Feng*, Qian Lingling, Tang Xu, Wang Meng, Dang Shipeng, Wu Yin, Sun Manqing, Cai Qiang, Wang Ruxing.
+*Department of Cardiology, Wuxi People忆s Hospital Affiliated to Nanjing Medical University, Wuxi 214023, China
+[Abstract]  Objective  To investigate the expression of miR-200b and its influence on inflammatory genes in
+thoracic aorta of type 1 diabetic rats. Methods Rats were divided into control group and streptozotocin-induced
+diabetic group. The expressions of miR-200b and inflammatory genes in thoracic aorta of type 1 diabetic rats were
+detected by qRT-PCR, and the expression of miR-200b忆s target transcription inhibitor Zeb1 was measured by Western
+blot. Results The results of qRT-PCR showed that the expressions of miR-200b in thoracic aorta in control group and
+diabetic group were 1. 728 ± 0. 372 and 4. 587 ± 1. 261(P<0. 05), respectively. The expressions of inflammatory
+genes such as cyclooxygenase-2, monocyte chemoattractant protein-1, tumor necrosis factor-2, and interleukin-6 in
+thoracic aorta of diabetic group were markedly increased in diabetic group compared with control group (3. 808 ±
+1. 294 vs 0. 864 ±0. 093, P<0. 05; 3. 203 ±0. 402 vs 1. 485 ±0. 433, P<0. 01; 2. 288 ±0. 480 vs 0. 784 ±0. 089, P<
+0. 01; 6. 334 ± 2. 683 vs 0. 981 ±0. 176, P<0. 05) . Western blot showed that the expressions of Zeb1 in control group
+and diabetic group were 0. 496 ± 0. 031 and 0. 264 ± 0. 012(P<0. 01), exhibiting a 46. 7% decrease in diabetic
+group. Conclusions The expression of miR-200b in thoracic aorta of type 1 diabetic rats was increased while the
+expression of Zeb1 was inhibited. The expression levels of downstream inflammatory genes in this pathway were also
+increased, which may be one of the important mechanisms of diabetic vascular complications.
+[Key words]  MiR-200b; Diabetes mellitus, type 1; Thoracic aorta; Inflammatory gene
+(Chin J Endocrinol Metab, 2015, 31: 977-981)
+糖尿病已成为严重危害人类健康的非传染性疾
+病,其中我国糖尿病患者居世界首位,患病率已高达
+9. 7% [1]。 在糖尿病并发症中,血管病变是最常见的
+并发症,可累及大血管和微血管,导致患者心、脑、肾、
+视网膜和下肢等严重病变,但其发病机制尚不完全清
+楚。
+近年来,研究表明糖尿病血管病变可能与微小
+RNA(miRNA)的变化有关[2]。 miRNA 是一类在转录
+后水平负性调控基因表达的单链小分子非编码 RNA,
+参与多种疾病的病理和生理过程,对人类的健康起重
+要调节作用。 目前发现涉及糖尿病发病机制的
+miRNA 较多[2]。 Reddy 等[3]研究表明 2 型糖尿病 db /
+db 小鼠胸主动脉血管平滑肌细胞中 miR-200b 表达较
+db / +小鼠显著上调,且抑制靶基因锌指 E 盒结合同源
+异形盒 1(Zeb1)的表达,从而增加下游炎症介质基因
+的表达。 该研究表明糖尿病时 miR-200b 可能参与血
+管平滑肌细胞炎症反应的调节,为糖尿病血管病变的
+发生机制研究提供了新的视角。 本研究在此基础上,
+进一步研究链脲佐菌素(STZ)诱导的 1 型糖尿病大鼠
+胸主动脉中 miR-200b、转录抑制因子 Zeb1 和一些炎
+症介质基因的表达,探讨该调控通路对 1 型糖尿病血
+管病变的作用机制,为糖尿病血管并发症的防治提供
+新思路。
+材料和方法
+一、材料
+实验动物和主要试剂:8 ~ 12 周龄的健康雄性 SD
+大鼠,体重(200 ± 30) g,SPF 级,购自苏州大学医学院
+动物中心。 STZ (美国 Sigma 公司); 一站式柱式
+miRNAout(北京天恩泽公司);TaqMan襆 Universal PCR
+Master Mix、 TaqMan襆 MicroRNA Reverse Transcription
+Kit、 has-miR-200b TaqMan襆 MicroRNA Assay、 U6
+TaqMan襆 MicroRNA Assay(美国 ABI 公司);Complete,
+Mini, EDTA-free Protease Inhibitor Cocktail Tablets(美国
+Roche 公司);RIPA 裂解液、BCA 工作液(美国 Thermo
+scientific 公司); anti-AREB-6 抗体 (美国 Abcam 公
+司);β-actin(美国 Santa Cruz 公司);兔抗羊 IgG / HRP
+抗体(康为世纪公司);山羊抗兔 IgG / HRP 抗体(中杉
+金桥公司);ECL(美国 Thermo scientific 公司);RNAiso
+Plus(日本 Takara 公司);FastStart Universal SYBR Green
+Master(Rox)(美国 Roche 公司);RT Master Mix(日本
+Takara 公司);环氧化酶 2(COX-2)、单核细胞化学趋
+化蛋白 1(MCP-1)、肿瘤坏死因子 α(TNF-α)、白细胞
+介素 6(IL-6)、β-actin 引物(上海生物工程有限公司)。
+二、 方法
+1. 1 型糖尿病大鼠模型的建立:参照本课题组既
+往研究报道[4],即采用腹腔内注射 STZ 的方法建立 1
+型糖尿病大鼠模型。 建模前测量大鼠体重,通过剪尾
+法测定大鼠尾静脉血糖,将大鼠完全随机分组。 将
+STZ 溶于 0. 9% 的生理盐水,配制成浓度为 50 mg / ml
+的 STZ 溶液,根据所测大鼠的体重,按 60 mg / kg 的剂
+量对模型组大鼠腹腔内注射 STZ 溶液,对照组大鼠则
+注射生理盐水。 第 2 天维持相同剂量再次腹腔注射
+STZ 或生理盐水。 在室温 18 ~ 25℃饲养大鼠,给予充
+足的饲料及水,注意保持培养筐中垫料的清洁和干燥。
+2 周后测量大鼠血糖,以血糖浓度高于 16. 7 mmol / L
+(即 300 mg / dl)作为糖尿病模型的标准。 8 周后再次
+测定大鼠体重及血糖。
+2. 大鼠胸主动脉的收集和保存:以 1. 5% 戊巴比
+妥钠以 50 mg / kg 的剂量腹腔内注射麻醉大鼠,麻醉后
+将其以仰卧位置于自制动物手术台上,在皮下松弛处
+以针尖固定四肢。 沿胸骨左缘剪开大鼠胸腔,去除心
+肺等器官后,取下胸主动脉,放入 4℃ PBS 中。 用镊子
+将胸主动脉外膜及脂肪组织剥离后,用吸水纸将其表
+面水分吸干,放入干净的 EP 管经液氮速冻后立即放
+入-80℃低温保存。
+3. miRNA 提取及 qRT-PCR 检测 miR-200b 表
+达:从-80℃中取出正常及糖尿病大鼠的胸主动脉标
+本,置于冰上。 按一站式柱式 miRNAout 试剂盒的操
+作步骤用直剪将组织剪碎并提取总 miRNA,置于
+-20℃。通过 Eppendorf 紫外分光光度计检测其纯度
+及浓度。 以 U6 为内参,用 TaqMan襆 MicroRNA Reverse
+Transcription Kit 及 RT 引物(包括 miR-200b 及 U6)按
+15 滋l 体系进行逆转录,反应程序为:16℃,30 min,
+42℃,30 min,85℃,5 min,逆转录产物置于 4℃保存。
+用 TaqMan襆 Universal PCR Master Mix 及 PCR 引物(包
+括 miR-200b 及 U6)按 20 滋l 体系对逆转录的 cDNA 产
+物进行实时荧光定量 PCR,反应程序为:95℃,10 min;
+95℃,15 s,60℃,1 min,40 个循环。 为消除加样量误
+差,每样孔重复 3 次。 PCR 完成后,得到 Ct 值。 miR-
+200b 相对表达量的计算过程如下:先通过 3 次重复的
+加样计算每个样本 miR-200b 和 U6 的平均 Ct 值,每个
+样本 miR-200b 的 △Ct 值=每样本 miR-200b 平均 Ct 值
+-该样本 U6 平均 Ct 值,每个样本 miR-200b 的相对循
+环数 △△Ct 值 = 每样本 miR-200b 的 △Ct 值-对照组
+miR-200b△Ct 值,其中对照组可为正常组中的任意一
+个样本,最后通过 2-△△Ct得到每个样本中 miR-200b 的
+相对表达量。
+4. Western 印迹检测 Zeb1 表达:从-80℃中取出
+正常和糖尿病大鼠的胸主动脉标本,置于冰上,在其
+EP 管中加入溶有蛋白酶抑制剂 Cocktail 的 RIPA 裂解
+液,用直剪将组织剪碎提取蛋白,并通过 BCA 法测定
+蛋白浓度,加入蛋白上样缓冲液后 100℃煮沸 5 min,
+使蛋白变性。 配制 5%浓缩胶和 8% 分离胶分别以 80
+V 和 110 V 恒压进行电泳。 电泳结束后将凝胶上的蛋
+白转至 PVDF 膜,以 5% 牛血清白蛋白溶液封闭 2 h
+后,加入一抗 4℃孵育过夜,其中一抗的稀释比例为:
+Zeb1: 1 : 3 000, β-actin:1 : 1 000。 经漂洗后加入二
+抗孵育 1 h,再次漂洗后采用 ECL 化学发光在 X 片上
+显示蛋白条带。 用 Image J 软件对 X 线片上的蛋白条
+带进行灰度分析。
+表 1  实时荧光定量 PCR 中内参及各炎症基因的引物序列
+Tab 1  Primer sequences for β-actin and inflammatory genes
+基因
+Gene
+上游
+Forward
+下游
+Reverse
+β-actin 5'-TCCCTGGAGAAGAGCTATGAGCT-3' 5'-GTTTCATGGATGCCACAGGATT-3'
+COX-2 5'-GCATTCTTTGCCCAGCACTTCACT-3' 5'-TTTAAGTCCACTCCATGGCCCAGT-3'
+MCP-1 5'-ATCTGTGCTGACCCCAATAAGG-3' 5'-GTGGTTGTGGAAAAGAGAGTGG-3'
+TNF-α 5'-CCAGGAGAAAGTCAGCCTCCT-3' 5'-TCATACCAGGGCTTGAGCTCA-3'
+IL-6 5'-CGAAAGTCAACTCCATCTGCC-3' 5'-GGCAACTGGCTGGAAGTCTCT-3'
+注:COX-2:环氧化酶 2 Cyclooxygenase 2;MCP-1:单核细胞趋化蛋白-1 Monocyte chemoattractant protein 1; TNF-α:肿瘤坏死因子 α Tumor necrosis
+factor α;IL-6:白细胞介素 6 Interleukin-6
+5. qRT-PCR 检测炎症基因表达:从-80℃中取出
+正常和糖尿病大鼠胸主动脉标本,加入 1ml RNAiso
+Plus,抽提总 RNA,逆转录为 cDNA。 按 20 滋l 体系进
+行实时荧光定量 PCR:10 滋l Rox,0. 06 滋l cDNA,0. 6 滋l
+上游引物,0. 6 滋l 下游引物,8. 74 滋l H2O,反应程序为:
+50℃,2 min;95℃,10 min;95℃,15 s,60℃,1 min,40 个
+循环。 各炎症基因的 PCR 引物序列见表 1。 为消除加
+样量误差,每样孔重复 3 次。 PCR 完成后,得到 Ct 值,
+各炎症基因相对表达量的计算也采用 2-吟吟Ct法,具体
+过程同方法 4。
+三、 统计学处理
+计量资料以 x-± s 表示,采用 SPSS 13. 0 统计软件
+对数据进行统计分析,两组间均数比较采用成组 t 检
+验,直方图绘制采用 Graph Pad Prism 5 软件,以 P <
+0. 05 为差异有统计学意义。
+结    果
+一、 1 型糖尿病大鼠动物模型建立(表 2)
+糖尿病组大鼠共 24 只,其中 2 只病情自发缓解,4
+只在建模期间死亡,建模成功率为 75% 。 建模 8 周后
+测得正常对照组及糖尿病组大鼠的血糖水平分别为
+(6. 05 ±0. 17)和(26. 54 ± 0. 83)mmol / L(P<0. 05),大
+鼠建模后的血糖达到糖尿病模型要求。 在体重方面,
+建模前后对照组大鼠的体重水平为(246. 23 ± 0. 74) g
+和(395. 84 ±16. 71)g(P<0. 05),可见对照组大鼠建模
+后体重较建模前增长 60. 8% ;建模前后糖尿病组大鼠
+的体重水平为(245. 63 ± 0. 63) g 和(200. 63 ± 6. 64) g
+(P<0. 05),可见糖尿病组大鼠建模后体重较建模前下
+降了 18. 32% 。
+二、 正常和糖尿病大鼠胸主动脉中 miR-200b 的
+表达(图 1)
+经 qRT-PCR 检测,1 型糖尿病组大鼠和正常对照
+组大鼠胸主动脉中 miR-200b 的相对表达量分别为
+4. 587 ±1. 261 和 1. 728 ± 0. 3721(P<0. 05),miR-200b
+在糖尿病大鼠胸主动脉中的表达水平较正常对照组显
+著上调,且差异有统计学意义。
+三、 正常和糖尿病大鼠胸主动脉中 Zeb1 的表达
+采用 Western 印迹法检测,结果显示正常对照组
+和糖尿病组胸主动脉中 Zeb1 的表达量分别为 0. 496 ±
+0. 031 和 0. 264 ±0. 012(P<0. 01,图 2),表明糖尿病时
+胸主动脉中 Zeb1 的表达水平较正常对照组明显下调,
+下调比例为 46. 7% 。
+四、 正常和糖尿病大鼠胸主动脉中炎症介质基因
+的表达(图 3)
+通过 qRT-PCR 技术检测得出正常对照组和糖尿
+病组大鼠胸主动脉中 COX-2、MCP-1、TNF-α 和 IL-6 基
+因的表达量分别为 0. 864 ± 0. 093 对 3. 808 ± 1. 294
+(P<0. 05)、1. 485 ± 0. 433 对 3. 203 ± 0. 402(P<0. 01)、
+0. 783 9 ±0. 088 58 对 2. 288 ±0. 479 7(P<0. 01)、0. 980 7
+±0. 176 3 对 6. 334 ±2. 683(P<0. 05),糖尿病组胸主动
+脉组织中这 4 种基因的表达较正常对照组分别上调了
+4. 4、2. 2、2. 9 和 6. 5 倍,差异均具有统计学意义。 以
+上结果表明,糖尿病组大鼠胸主动脉中炎症介质 COX-
+2、 MCP-1、 TNF-α 和 IL-6 的基因表达均较正常对照组
+表 2  正常对照组和糖尿病组大鼠血糖与体重情况(x-± s)
+Tab 2  Levels of blood glucose and body weight in different groups(x-± s)
+组别
+Group
+鼠数
+n
+血糖
+Blood glucose
+(mmol / L)
+体重
+Weight
+(g)
+造模前
+Before model
+造模后
+After model
+造模前
+Before model
+造模后
+After model
+CON 9 6. 01 ± 0. 17 6. 05 ± 0. 17 246. 23 ± 0. 74 395. 84 ± 16. 71 a
+DM  18 6. 04 ± 0. 11 26. 54 ± 0. 83 ab 245. 63 ± 0. 63 200. 63 ± 6. 64 ab
+注:CON:正常对照组 Normal control group;DM:糖尿病组 Diabetes mellitus group;与造模前比较 vs Before model,a P<0. 05;与正常对照组比较 vs
+CON,bP<0. 05
+注:CON:正常对照组 Normal control group;DM:糖尿病组 Diabetes
+mellitus group;与 CON 组比较 vs CON,aP<0. 05
+图 1  正常和糖尿病组大鼠胸主动脉组织中 miR-200b 的相对表达量
+Fig 1  Comparison of miR-200b expression in control and diabetic groups
+注:CON:正常对照组 Normal control group;DM:糖尿病组 Diabetes
+mellitus group;与 CON 组比较 vs CON,aP<0. 01
+图 2  正常和糖尿病组大鼠胸主动脉组织中 Zeb1 的相对表达量
+Fig 2  Comparison of Zeb1 protein expression in control and diabetic groups
+注:CON:正常对照组 Normal control group;DM:糖尿病组 Diabetes mellitus group; 其他略语同表 1 The other abbreviations are the same as Tab 1 与 CON
+组比较 vs CON,aP<0. 05,bP<0. 01
+图 3  正常和糖尿病组大鼠胸主动脉组织中各炎症基因的相对表达量
+Fig 3  Comparison of inflammatory gene expressions in control and diabetic groups
+明显上调。
+讨    论
+自 1993 年 Lee 等[5] 首次发现 miRNA 以来,对这
+种能在转录后水平调控生物体基因表达的内源性非编
+码小分子 RNA 的研究也越来越多。 miRNAs 涉及许多
+生物学通路,对生物体正常生理及疾病过程都存在重
+要的调控作用[6]。 近年来大量研究表明 miRNAs 在糖
+尿病的发生发展过程中起重要调控作用,调控胰岛 β
+细胞增殖及胰岛素分泌[7]、对胰岛素靶组织起调控作
+用[8]和引起糖尿病心肌病及心律失常[9]等。
+miR-200b 是 miR-200 家族中的一员,研究表明糖
+尿病时 miR-200 可能通过调控转化生长因子 β 影响肾
+脏纤维化水平,并通过激活蛋白激酶 B(PKB / Akt)影
+响肾小球系膜细胞肥大[10]。 miR-200 上调可引起
+Zeb1 表达下调,从而增加糖尿病肾病相关的纤维化基
+因的表达[11]。
+已有研究报道表明 2 型糖尿病时血管平滑肌细胞
+中 miR-200b 表达显著上调,并下调靶基因 Zeb1 的表
+达,促进下游炎症介质基因的表达,从而对血管平滑肌
+细胞产生促炎作用[3];而 1 型糖尿病时血管平滑肌细
+胞中 miR-200 表达变化目前尚无报道。 本实验采用 1
+型糖尿病动物模型,研究 1 型糖尿病时血管平滑肌细
+胞中 miR-200 的表达变化,结果表明该调控通路在 1
+型糖尿病动脉组织同样存在,即 1 型糖尿病时 miR-
+200b 表达显著上调,Zeb1 的表达下调。
+Zeb1 是一种含锌指结构的转录抑制因子,在包括
+血管平滑肌细胞在内的多种类型细胞中均有表达。
+Zeb1 可与其靶基因启动子上标准 E 盒元件相结合,并
+与阻遏物相互作用而对基因表达起抑制。 近年来,
+Zeb1 对炎症的影响逐渐被揭示,其在肿瘤细胞与正常
+细胞中的差异表达被发现与炎症密切相关,并影响肿
+瘤发生发展[12]。 Zeb1 的剪接变异体表达变化影响
+IL-12 的分泌,进而对神经的炎症反应具有调控作
+用[13]。 随着对 miR-200 家族在 2 型糖尿病 db / db 小
+鼠血管平滑肌细胞中调控通路研究的深入,Zeb1 与糖
+尿病血管并发症之间的关系也更加清楚,Zeb1 可能通
+过调控炎症基因的表达而起作用。
+为证实糖尿病时 Zeb1 受抑后可能通过上调血管
+平滑肌细胞和一些炎症细胞炎症基因表达而起作用,
+本研究还检测了一些代表性炎症介质 COX-2、MCP-1、
+TNF-α 和 IL-6 的基因表达。 与文献报道 2 型糖尿病
+db / db 小鼠一致,本研究结果表明在 Zeb1 下调后,这
+些炎症介质基因在 1 型糖尿病大鼠胸主动脉组织中表
+达也明显增高。 而这些炎症介质能促进细胞增殖、氧
+化应激和迁移,并促进单核细胞与血管平滑肌细胞结
+合,导致血管平滑肌细胞功能失调,从而加速糖尿病血
+管并发症的进展[14]。
+总之,本研究表明 1 型糖尿病时血管平滑肌细胞
+miR-200b 上调,并抑制靶基因 Zeb1 表达,进而增加调
+控通路下游相关炎症介质基因的表达,对动脉血管起
+促炎作用,这可能是糖尿病血管并发症发生发展的重
+要机制之一。 本研究结果对探讨糖尿病血管并发症发
+生机制具有一定临床意义。

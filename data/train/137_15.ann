@@ -1,0 +1,465 @@
+T1	Test 2312 2316	肝肾功能
+T2	Test 5634 5637	肾功能
+T3	Test 6801 6804	肾功能
+T4	Disease 4934 4938	前列腺癌
+T5	Disease 4930 4933	乳腺癌
+T6	Test 2021 2023	身高
+T7	Test 2121 2123	身高
+T8	Test 2131 2133	体重
+T9	Drug 2713 2718	维生素 D
+T10	Drug 3234 3241	活性维生素 D
+T11	Test 1726 1728	血钙
+T12	Test 1856 1858	血钙
+T13	Test 2320 2322	血钙
+T14	Test 5945 5947	血钙
+T15	Test 6052 6054	血钙
+T16	Test 6150 6152	血钙
+T17	Test 6368 6370	血钙
+T18	Test 120 122	血磷
+T19	Test 1731 1733	血磷
+T20	Test 1817 1819	血磷
+T21	Test 3648 3650	血磷
+T22	Test 4191 4193	血磷
+T23	Test 4467 4469	血磷
+T24	Test 4526 4528	血磷
+T25	Test 4558 4560	血磷
+T26	Test 5595 5597	血磷
+T27	Test 6360 6362	血磷
+T28	Test 6600 6602	血磷
+T29	Test 6643 6645	血磷
+T30	Test 6662 6664	血磷
+T31	Test 6749 6751	血磷
+T32	Test 7055 7057	血磷
+T33	Disease 104 111	低磷性骨软化症
+T34	Symptom 90 92	骨痛
+T35	Symptom 93 97	行走困难
+T36	Symptom 98 101	假骨折
+T37	Test_Value 122 123	低
+T38	Test 124 129	碱性磷酸酶
+T39	Test_Value 130 131	高
+T40	Test 139 141	胸片
+T41	Disease 184 191	低磷性骨软化症
+T42	Drug 194 199	中性磷溶液
+T43	Drug 200 204	骨化三醇
+T44	Drug 205 210	钙尔奇 D
+T45	Duration 214 217	2 年
+T46	Disease 276 279;280 289	三发性 甲状旁腺功能亢进症
+T47	Symptom 1600 1604	全身疼痛
+T48	Symptom 1605 1609	行走困难
+T49	Duration 1617 1620;1621 1622	3 个 月
+T50	Anatomy 1686 1688	胸部
+T51	Anatomy 1689 1691	腰背
+T52	Anatomy 1693 1695	髋部
+T53	Symptom 1702 1704	乏力
+T54	Symptom 1705 1709	行走困难
+T55	Test_Value 1734 1747	0. 7 mmol / L
+T56	Test 1785 1789	血尿常规
+T57	Test 1792 1797	碱性磷酸酶
+T58	Test 1798 1801	ALP
+T59	Duration 1810 1815	10 个月
+T60	Test_Value 1820 1833	0. 5 mmol / L
+T61	Test 1859 1860;1861 1865	甲 状旁腺素
+T62	Test 1866 1869	PTH
+T63	Test 1893 1896	骨密度
+T64	Test_Value 1914 1918	2. 9
+T65	Disease 1925 1929	骨质疏松
+T66	Drug 1935 1941	阿仑膦酸钠片
+T67	Amount 1942 1951	10 mg / d
+T68	Duration 1954 1957	半年余
+T69	Drug 1962 1966	骨化三醇
+T70	Method 1960 1962	口服
+T71	Amount 1967 1972;1973 1979	0. 25 μg / d
+T72	Symptom 1987 1994	翻身、站立困难
+T73	Symptom 1995 1999	行走蹒跚
+T74	Test_Value 2023 2030	缩短 4 cm
+T75	Operation 2050 2056	胃大部切除术
+T76	Disease 2058 2061	糖尿病
+T77	Drug 2074 2076;2077 2080	糖皮 质激素
+T78	Drug 2081 2088	芳香化酶抑制剂
+T79	Disease 2043 2047;2048 2049	胃溃疡出 血
+T80	Test 2140 2142	血压
+T81	Test_Value 2143 2156	120 / 80 mmHg
+T82	Symptom 2176 2180	步态蹒跚
+T83	Symptom 2181 2190	全身皮肤未触及结节
+T84	Symptom 2191 2195;2196 2197	甲状腺不 大
+T85	Symptom 2203 2211	胸廓挤压痛(+)
+T86	Test_Value 2281 2285	2. 9
+T87	Test_Value 2287 2291	2. 6
+T88	Test_Value 2294 2298	2. 9
+T89	Test 2323 2324	磷
+T90	Test 2325 2328	ALP
+T91	Test 2329 2332	PTH
+T92	Test 2335 2344	25-羟维生素 D
+T93	Test 2354 2358	血尿常规
+T94	Test 2359 2363	血气分析
+T95	Test 2402 2417;2418 2422	血清人 C 端成纤维细胞生长因 子 23
+T96	Test 2424 2429	FGF23
+T97	Test_Value 2434 2448	28. 99 RU / ml
+T98	Test 2474 2475;2476 2483	胸 部 X 线摄片
+T99	Test 2491 2502	胸腰椎及骨盆 X 线片
+T100	Test 2613 2619	PET-CT
+T101	Test 2540 2562	正电子发射断层显像 / X 线计算机体层成像
+T102	Disease 2941 2948	低磷性骨软化症
+T103	Disease 3043 3055	常染色体显性低磷性佝偻病
+T104	Disease 3056 3061;3062 3069	X 连锁显 性低磷性佝偻病
+T105	Disease 3091 3098	低磷性骨软化症
+T106	Disease 3114 3117;3118 3122	肿瘤性 骨软化症
+T107	Disease 3166 3173	低磷性骨软化症
+T108	Drug 3215 3216;3217 3221	中 性磷溶液
+T109	Drug 3222 3226	骨化三醇
+T110	Drug 3230 3233	中性磷
+T111	Disease 3251 3262	继发性甲状旁腺功能亢进
+T112	Disease 3267 3274;3275 3279	三发性甲状旁腺 功能亢进
+T113	Drug 3307 3310	中性磷
+T114	Drug 3311 3315	骨化三醇
+T115	Anatomy 3412 3416	PHEX
+T116	Anatomy 3417 3421	DMP1
+T117	Anatomy 3422 3427	ENPP1
+T118	Anatomy 3430 3435	FGF23
+T119	Disease 3466 3473	低磷性骨软化症
+T120	Drug 3477 3482	中性磷溶液
+T121	Drug 3483 3488	磷酸二氢钠
+T122	Drug 3497 3502	磷酸氢二钠
+T123	Drug 3575 3579	骨化三醇
+T124	Drug 3593 3598	钙尔奇 D
+T125	Amount 3580 3591	0. 5 μg / d
+T126	Frequency 3568 3574	每天 5 次
+T127	Amount 3546 3554	10 ml /次
+T128	Amount 3614 3621	1 片 / d
+T129	Method 3622 3624	口服
+T130	Duration 3630 3634	3 个月
+T131	Test 3655 3658	ALP
+T132	Test 3668 3669	钙
+T133	Test 3670 3671	磷
+T134	Test 3672 3675	ALP
+T135	Test 3706 3709	骨密度
+T136	Duration 3712 3714;3715 3717	28 个月
+T137	Duration 3733 3736	2 年
+T138	Test 3739 3741	胸片
+T139	Test 3752 3755	骨盆片
+T140	Disease 3995 4002	低磷性骨软化症
+T141	Test 4040 4042;4043 4044	骨密 度
+T142	Disease 4085 4089	骨软化症
+T143	Symptom 4105 4107	骨痛
+T144	Anatomy 4135 4137	骨盆
+T145	Anatomy 4138 4140	脊柱
+T146	Anatomy 4141 4143	肋骨
+T147	Symptom 4157 4162	双下肢无力
+T148	Symptom 4163 4167	活动受限
+T149	Symptom 4168 4172	步行困难
+T150	Symptom 4173 4177	卧床不起
+T151	Symptom 4180 4184	不能翻身
+T152	Test 4198 4203	血 ALP
+T153	Test_Value 4204 4208	明显升高
+T154	Symptom 4216 4219	假骨折
+T155	Disease 4220 4224	骨软化症
+T156	Anatomy 4246 4252	股骨近端内侧
+T157	Anatomy 4253 4259	胫骨近端内侧
+T158	Anatomy 4260 4262	肋骨
+T159	Anatomy 4263 4268	耻骨前后支
+T160	Anatomy 4269 4270;4271 4275	肩 胛骨外侧
+T161	Test 4379 4384	骨扫描显像
+T162	Test 4397 4402	X 线检查
+T163	Disease 4418 4422	骨质疏松
+T164	Drug 4440 4446	阿仑膦酸钠片
+T165	Test 4471 4474	ALP
+T166	Symptom 4480 4484	假性骨折
+T167	Disease 4485 4489	骨软化症
+T168	Symptom 4504 4508	全身骨痛
+T169	Symptom 4518 4521	假骨折
+T170	Symptom 4523 4525	骨折
+T171	Test 4530 4533	ALP
+T172	Test_Value 4534 4536	升高
+T173	Disease 4537 4542	低磷骨软化
+T174	Test 4561 4566	骨转换指标
+T175	Test 4579 4585	PET-CT
+T176	Anatomy 4591 4593	颈部
+T177	Anatomy 4594 4596	胸腔
+T178	Anatomy 4597 4599	纵隔
+T179	Test 4602 4612	X 线计算机体层成像
+T180	Test 4634 4636	CT
+T181	Test 4638 4643	磁共振成像
+T182	Test 4672 4675	MRI
+T183	Disease 4720 4725	低磷骨软化
+T184	Disease 4754 4761	遗传性骨软化症
+T185	Test 4762 4765;4766 4767	血气分 析
+T186	Test 4770 4772	尿糖
+T187	Test_Value 4772 4774	阴性
+T188	Test 4775 4781	尿 pH 值
+T189	Disease 4786 4792	肾小管酸中毒
+T190	Disease 4793 4796;4797 4800	范可尼 综合征
+T191	Disease 4818 4824;4825 4829	散发性低磷性 骨软化症
+T192	Disease 4832 4839	特发性骨软化症
+T193	Disease 4850 4853;4854 4858	肿瘤性 骨软化症
+T194	Disease 4865 4869	骨软化症
+T195	Anatomy 4875 4879	间叶组织
+T196	Disease 4885 4890	骨母细胞瘤
+T197	Disease 4891 4894	纤维瘤
+T198	Disease 4895 4901	骨化性纤维瘤
+T199	Disease 4910 4913;4914 4918	肿瘤性 骨软化症
+T200	Anatomy 4920 4922	表皮
+T201	Anatomy 4923 4926	内胚层
+T202	Disease 4939 4941;4942 4944	燕麦 细胞
+T203	Disease 4945 4951	多发性骨髓瘤
+T204	Disease 4959 4962	白血病
+T205	Disease 5087 5094	肿瘤性骨软化症
+T206	Test 5101 5108;5109 5115	99 Tcm- OCT 显像
+T207	Test_Value 5115 5117	阳性
+T208	Test 5124 5130	PET-CT
+T209	Test_Value 5146 5148;5149 5151	显著 升高
+T210	Test 5175 5178	骨密度
+T211	Drug 5203 5208	中性磷溶液
+T212	Drug 5209 5213	骨化三醇
+T213	Duration 5219 5222	2 年
+T214	Anatomy 5231 5233	肋骨
+T215	Anatomy 5234 5238	耻骨上支
+T216	Anatomy 5239 5243	股骨上端
+T217	Disease 5271 5278	低磷性骨软化症
+T218	Symptom 5286 5289	假骨折
+T219	Anatomy 5329 5332	股骨颈
+T220	Symptom 5335 5339	假性骨折
+T221	Disease 5344 5349	股骨颈坏死
+T222	Duration 5358 5361	2 年
+T223	Test 5366 5369	骨密度
+T224	Anatomy 5376 5384	腰椎 1 ~ 4
+T225	Anatomy 5385 5388	股骨颈
+T226	Anatomy 5389 5392	全髋部
+T227	Test 5392 5395	骨密度
+T228	Anatomy 5431 5434	股骨颈
+T229	Test 5472 5473;5474 5477	血 ALP
+T230	Test_Value 5478 5482	明显下降
+T231	Drug 5488 5491	中性磷
+T232	Drug 5537 5541	骨化三醇
+T233	Amount 5542 5553	0. 5 μg / d
+T234	Amount 5561 5569	10 ml /次
+T235	Frequency 5570 5577	5 次 / d
+T236	Duration 5588 5592	1 年半
+T237	Test 5602 5607	血 ALP
+T238	Test_Value 5611 5615	明显下降
+T239	Test 5640 5643	B 超
+T240	Anatomy 5646 5648	肾脏
+T241	Anatomy 5649 5653	甲状旁腺
+T242	Drug 5669 5674	中性磷溶液
+T243	Drug 5675 5679	骨化三醇
+T244	Amount 5736 5746;5747 5754	每日 20 ~ 40 mg / kg
+T245	Method 5764 5766	口服
+T246	Amount 5800 5818	每日 30 ~ 60 mg / kg
+T247	Method 5828 5830	口服
+T248	Disease 5876 5882;5883 5889	继发性甲状旁 腺功能亢进症
+T249	Anatomy 5931 5934	肾小管
+T250	Test 5948 5949	磷
+T251	Anatomy 5985 5989	甲状旁腺
+T252	Disease 6006 6007;6008 6021	继 发性难治性甲状旁腺功能亢进
+T253	Anatomy 6022 6026	甲状旁腺
+T254	Test_Value 6046 6048	升高
+T255	Test 6075 6078	PTH
+T256	Disease 6098 6104	三发性甲旁亢
+T257	Anatomy 6108 6112	甲状旁腺
+T258	Test 6139 6144	血 PTH
+T259	Test_Value 6145 6147	升高
+T260	Test_Value 6155 6156;6157 6158	升 高
+T261	Test 6209 6221	1,25-二羟维生素 D
+T262	Test 6230 6233	PTH
+T263	Test 6255 6258	PTH
+T264	Anatomy 6287 6290;6291 6292	甲状旁 腺
+T265	Anatomy 6328 6332	甲状旁腺
+T266	Anatomy 6379 6383	甲状旁腺
+T267	Frequency 6427 6428;6429 6434	5 次 / d
+T268	Amount 6448 6455	5 ml /次
+T269	Amount 6463 6465;6466 6471	20 ml /次
+T270	Amount 6476 6484	10 ml /次
+T271	Drug 6485 6489	骨化三醇
+T272	Amount 6490 6509	0. 25 ~ 0. 5 μg / d
+T273	Test 6603 6606	ALP
+T274	Test 6612 6615	骨密度
+T275	Symptom 6619 6622	假骨折
+T276	Test 6683 6688	血 ALP
+T277	Test 6758 6761	ALP
+T278	Test 6791 6794	血清钙
+T279	Test 6795 6796	磷
+T280	Test 6797 6800	ALP
+T281	Test 6806 6813	24 h 尿钙
+T282	Test 6905 6909	肾脏超声
+T283	Anatomy 6923 6925	胸部
+T284	Anatomy 6926 6928	腰背
+T285	Symptom 6935 6937	乏力
+T286	Symptom 6938 6942	行走困难
+T287	Test 6962 6965	ALP
+T288	Test_Value 6966 6968	升高
+T289	Test 6960 6961	磷
+T290	Test_Value 6959 6960	低
+T291	Disease 6974 6975;6976 6982	低 磷性骨软化症
+T292	Symptom 6984 6988	假性骨折
+T293	Disease 6989 6993	骨软化症
+T294	Disease 7003 7004;7005 7011	低 磷性骨软化症
+T295	Drug 7022 7025	中性磷
+T296	Drug 7026 7030	骨化三醇
+T297	Symptom 7038 7042	假性骨折
+T298	Test 7046 7049	骨密度
+T299	Test 7059 7062	ALP
+T300	Disease 1650 1654	骨质疏松
+T301	Test 3782 3785	骨密度
+T302	Test 3815 3818	骨密度
+T303	Test 3838 3841	骨密度
+T304	Test 3861 3864	骨密度
+T305	Symptom 164 169	呈双凹畸形
+T306	Disease 304 311	低磷性骨软化症
+T307	Symptom 313 315	骨痛
+T308	Symptom 317 320	假骨折
+T309	Duration 1610 1613	3 年
+T310	Symptom 2000 2006;2007 2014	一次缓慢行走 仅 200 m
+T311	Disease 2062 2068	慢性肝肾疾病
+T312	Drug 2089 2094	抗癫痫药物
+T313	Drug 2095 2098	抗肿瘤
+T314	Test_Value 2124 2130	170 cm
+T315	Test_Value 2134 2139	60 kg
+T316	Symptom 2198 2202	未及结节
+T317	Symptom 2513 2518	呈双凹畸形
+T318	Disease 2980 2986	多发肋骨骨折
+T319	Disease 3003 3010	右耻骨上支骨折
+T320	Amount 3607 3613	600 mg
+T321	Level 3642 3643;3644 3647	明 显缓解
+T322	Test_Value 3650 3654	逐渐上升
+T323	Test_Value 3659 3663	逐渐下降
+T324	Level 3747 3751	基本愈合
+T325	Reason 4090 4093;4094 4097	骨骼矿 化障碍
+T326	Anatomy 4233 4238	骨的内侧面
+T327	Drug 5214 5216	钙剂
+T328	Test_Value 5404 5410	37. 0%
+T329	Test_Value 5412 5418	29. 5%
+T330	Test_Value 5420 5426	17. 6%
+T331	Frequency 5757 5764	3 ~ 5 次
+T332	Frequency 5821 5828	4 ~ 6 次
+T333	Test_Value 5871 5873	增加
+T334	Test_Value 5918 5919;5920 5921	升 高
+T335	Test 5935 5936	磷
+T336	Test 5924 5926	骨钙
+T337	Symptom 6086 6089	骨吸收
+T338	Symptom 6129 6134	结节性增生
+T339	Drug 6248 6250	钙剂
+T340	Test_Value 6260 6261;6262 6263	升 高
+T341	Drug 6348 6349	磷
+T342	Test_Value 6365 6367	升高
+T343	Test_Value 6374 6376	降低
+T344	Drug 6546 6547;6548 6549	钙 剂
+T345	Drug 6573 6575	钙剂
+T346	Symptom 6586 6588	骨痛
+T347	Disease 53 60	低磷性骨软化症
+T348	Symptom 1695 1697	疼痛
+T349	Test_Value 1728 1730	正常
+T350	Test_Value 1754 1774	0. 8 ~ 1. 6 mmol / L
+T351	Test_Value 1789 1791	正常
+T352	Anatomy 1900 1902	腰椎
+T353	Test_Value 1834 1854	0. 8 ~ 1. 6 mmol / L
+T354	Anatomy 2256 2264	腰椎 1 ~ 4
+T355	Anatomy 2265 2266;2267 2269	股 骨颈
+T356	Anatomy 2271 2273	髋部
+T357	Test_Value 2317 2319	正常
+T358	Test_Value 2364 2366	正常
+T359	Test_Value 2449 2472	15. 28 ~ 56. 15 RU / ml
+T360	Test 3361 3363	骨量
+T361	Anatomy 3393 3396	外周血
+T362	Amount 3489 3496	20. 6 g
+T363	Amount 3503 3511	193. 7 g
+T364	Amount 3557 3560;3561 3566	476 mg /次
+T365	Anatomy 3690 3698	腰椎 1 ~ 4
+T366	Anatomy 3699 3702	股骨颈
+T367	Anatomy 3703 3706	全髋部
+T368	Test 4045 4049	生化指标
+T369	Anatomy 4115 4117	下肢
+T370	Anatomy 4118 4121	腰骶部
+T371	Test_Value 4193 4197	显著降低
+T372	Test_Value 4528 4529	低
+T373	Test_Value 4704 4708	正常水平
+T374	Test_Value 4767 4769	正常
+T375	Test_Value 4781 4783	正常
+T376	Test 5179 5183	生化指标
+T377	Test_Value 5370 5371;5372 5375	显 著增加
+T378	Test_Value 5599 5601	正常
+T379	Test_Value 5625 5629	正常范围
+T380	Test_Value 5637 5639	正常
+T381	Amount 5774 5785	2 ~ 3 g / d
+T382	Test_Value 6055 6057	正常
+T383	Test_Value 6224 6228	明显降低
+T384	Duration 6698 6700	半年
+T385	Test_Value 6710 6712	下降
+T386	Test_Value 6764 6766	正常
+T387	SideEff 6857 6863	肾钙质沉着症
+T388	Test 1780 1784	肝肾功能
+T389	Drug 6540 6545	维生素 D
+T390	Drug 6557 6562	维生素 D
+T391	Anatomy 141 143	肋骨
+T392	Disease 143 147	多发骨折
+T393	Anatomy 148 151	胸腰椎
+T394	Anatomy 152 154	骨盆
+T395	Anatomy 155 159	腰椎骨质
+T396	Anatomy 170 175	右耻骨上支
+T397	Disease 175 177;178 179	假骨 折
+T398	Disease 228 230	骨折
+T399	Symptom 1980 1986	骨痛明显加重
+T400	Anatomy 2212 2214	腰椎
+T401	Anatomy 2215 2216	髋
+T402	Anatomy 2217 2219	骨盆
+T403	Symptom 2221 2225	叩、压痛
+T404	Test 2232 2237	骨密度检查
+T405	Anatomy 2484 2486	肋骨
+T406	Disease 2486 2490	多发骨折
+T407	Symptom 2503 2508;2509 2512	腰椎骨质明 显稀疏
+T408	Symptom 2519 2523	骨盆变形
+T409	Anatomy 2524 2529	右耻骨上支
+T410	Disease 2529 2532	假骨折
+T411	SideEff 3285 3291	肾脏钙盐沉着
+T412	SideEff 3292 3297	肾功能不全
+T413	Disease 3364 3367	假骨折
+T414	Symptom 3638 3640	疼痛
+T415	Disease 3742 3746	肋骨骨折
+T416	Anatomy 3756 3761	右耻骨上支
+T417	Disease 3761 3764	假骨折
+T418	Disease 4052 4055	假骨折
+T419	Disease 4283 4286	假骨折
+T420	Disease 4301 4306	多发假骨折
+T421	Test 4693 4701	血 FGF-23
+T422	Test 4999 5005;5006 5011	锝-99 m 标记奥曲肽
+T423	Test 5013 5022	99Tcm-OCT
+T424	Test 5032 5039;5040 5042	肿瘤性骨软化症 肿瘤
+T425	Test 5134 5143	血清 FGF-23
+T426	Symptom 5186 5189	假骨折
+T427	Symptom 5246 5249	假骨折
+T428	Anatomy 5449 5452	股骨颈
+T429	Disease 5452 5454	骨折
+T430	SideEff 5499 5503;5504 5512	继发性甲 状旁腺功能亢进症
+T431	SideEff 5516 5522	肾脏钙盐沉着
+T432	Anatomy 5513 5514	肾
+T433	Drug 5555 5560	口服磷溶液
+T434	Drug 5582 5587	口服磷溶液
+T435	Test 5616 5621	血 PTH
+T436	Drug 5725 5730	口服磷溶液
+T437	Method 5837 5839	口服
+T438	Amount 5849 5859	50 mg / kg
+T439	Anatomy 5864 5867	PTH
+T440	Anatomy 5911 5914	PTH
+T441	Anatomy 5971 5974	PTH
+T442	Test 6038 6043	血 PTH
+T443	Drug 6188 6193	口服磷溶液
+T444	Test 6194 6195;6196 6199	血 钙浓度
+T445	Test_Value 6236 6238	升高
+T446	Method 6240 6242	口服
+T447	Drug 6242 6243	磷
+T448	SideEff 6266 6278	继发性甲状旁腺功能亢进症
+T449	Method 6283 6285	口服
+T450	Drug 6285 6286	磷
+T451	Anatomy 6314 6317	PTH
+T452	Drug 6403 6406	口服磷
+T453	Method 6435 6437	口服
+T454	Anatomy 6517 6519	肾脏
+T455	Anatomy 6520 6527	1-α 羟化酶
+T456	Drug 6670 6675	口服磷溶液
+T457	Test 6702 6705	ALP
+T458	Method 6721 6723	口服
+T459	Drug 6723 6727;6728 6729	中性磷溶 液
+T460	SideEff 6769 6781	继发性甲状旁腺功能亢进症
+T461	SideEff 6782 6785	高尿钙
+T462	Test 6838 6841	PTH
+T463	SideEff 6865 6877	三发性甲状旁腺功能亢进症
+T464	Anatomy 6929 6931	髋部
+T465	Symptom 6931 6933	疼痛

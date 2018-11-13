@@ -1,0 +1,190 @@
+基础研究
+基金项目:河南省二茵一三年科技发展计划(编号 132300410111)
+会娟);郑州大学第五附属医院(靳爽);郑州市中心医院(张维);河南
+科技大学第二附属医院(周浩峰)
+利拉鲁肽在高糖环境下对体外培养的小鼠
+前成骨细胞 MC3T3-E1 增殖、分化的影响
+李军  靳爽  张娟  张维  周浩峰  张会娟
+[摘要]   目的  研究不同浓度胰升糖素样肽 1(glucagon-like peptide-1, GLP-1)类似物利拉鲁肽在高
+糖环境下对小鼠前成骨细胞株 MC3T3-E1 增殖、分化的影响。 方法 给予 16. 5 mmol / L 高糖培养基培养小
+鼠 MC3T3-E1 细胞,应用不同浓度的利拉鲁肽(10-9 mol / L、10-8mol / L、10-7 mol / L)处理培养的成骨细胞 48
+h,同时设立对照组(利拉鲁肽 0 mol / L),采用 CCK-8 比色法检测成骨细胞增殖率、实时荧光定量 PCR 法检
+测成骨细胞分化标志物—I型胶原(type I collagen, COL-I)、碱性磷酸酶(alkaline phosphatase, ALP)和骨
+桥蛋白(osteopontin,OPN)基因的表达。 结果 (1)与对照组相比,利拉鲁肽干预组(10-9mol / L、10-8 mol / L、
+10-7 mol / L)细胞增殖率均显著高于对照组(均 P<0. 05),以 10-8 mol / L 利拉鲁肽促进成骨细胞增殖的作用
+最显著。 (2)与对照组相比,利拉鲁肽干预组 COL-I、ALP、OPN 的 mRNA 表达量明显增加(均 P<0. 05),
+在 10-8 mol / L 浓度组表达量增加最明显。 结论 在一定浓度范围内利拉鲁肽在高糖环境下能够促进小鼠
+前成骨细胞 MC3T3-E1 的增殖和分化。
+[关键词]   胰升糖素样肽 1 类似物; 利拉鲁肽; 成骨细胞; 增殖; 分化
+The effects of liraglutide on the proliferation and differentiation of mouse pre-osteoblasts MC3T3-E1 Li
+Jun*, Jin Shuang, Zhang Juan, Zhang Wei, Zhou Haofeng, Zhang Huijuan. *Department of Endocrinology, the
+First Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, China
+[Abstract]  Objective  To investigate the effects of liraglutide on the proliferation and differentiation of mouse
+pre-osteoblasts MC3T3-E1 exposed to higher glucose concentration. Methods MC3T3-E1 cells were cultured and
+divided into control group and liraglutide group. In liraglutide group, cells were treated with different liraglutide
+concentrations (10-9 mol / L, 10-8 mol / L, and 10-7 mol / L, respectively) for 48 hours. Cell proliferation was tested
+with CCK-8. The mRNA expressions of type 玉 collagen (COL-I), osteopontin (OPN), and alkaline phosphase
+(ALP) were detected using semi-quantitative RT-PCR. Results (1) Compared to control group, the proliferation
+rate of different liraglutide concentration groups (10-9 mol / L, 10-8 mol / L, and 10-7 mol / L) increased significantly
+(all P<0. 05), the proliferation rate was the highest in 10-8mol / L liraglutide group. (2)The expression of COL-I,
+OPN, and ALP mRNA in liraglutide groups were higher than those in control group ( all P<0. 05) . The optimal
+concentration of liraglutide was 10-8 mol / L. Conclusion Liraglutide within a certain concentration range may
+improve the proliferation and differentiation of mouse pre-osteoblasts MC3T3-E1.
+[Key words]  Glucagon- like peptide-1 analogue; Liraglutide; Osteoblast; Proliferation; Differentiation
+(Chin J Endocrinol Metab, 2016, 32: 232-235)
+骨代谢是成骨细胞和破骨细胞的动态平衡过程,
+该平衡的失调将引发骨代谢性疾病。 目前认为骨质疏
+松亦是糖尿病的慢性并发症。 胰升糖素样肽 1
+(glucagon-like peptide-1, GLP-1)作为一种重要的肠促
+胰素,对维持机体的血糖平衡起着十分重要的作用。
+近年研究显示,GLP-1 不仅能促进胰岛素释放和调节
+血糖代谢,在骨重建动态过程中同样发挥着重要作用。
+本研究观察 GLP-1 类似物利拉鲁肽( liraglutide)在高
+糖环境下对小鼠成骨细胞 MC3T3-E1 细胞增殖、分化
+的影响,以期为临床糖尿病合并骨质疏松的患者选择
+降糖药物提供理论依据。
+材料和方法
+一、 材料
+小鼠前体成骨细胞株 MC3T3-E1 购自中国科学院
+上海生命科学研究院细胞资源中心;利拉鲁肽注射液
+(诺和诺德公司惠赠);培养基(alpha-minimum essential
+medium,a-MEM 培养基,美国 Hyclone 公司);胎牛血
+清(fetal bovine serum,FBS,美国 Hyclone 公司);CCK-8
+细胞增殖检测试剂盒(上海 BestBio 生物);PCR 引物
+(上海生工生物有限公司);RNA 提取试剂盒(北京康
+为世纪生物科技有限公司);cDNA 第一链合成试剂盒
+(日本 ToYoBo 公司);荧光定量 PCR 试剂盒 (日本
+ToYoBo 公司)。
+二、 方法
+1. 实验分组:小鼠 MC3T3-E1 前成骨细胞用完全
+培养基(含 10% 的 FBS、1% 的青链霉素双抗的 16. 5
+mmol / L 高糖 a-MEM 培养基)培养,取对数期的细胞进
+行实验,分为对照组(不加利拉鲁肽)及不同浓度利拉
+鲁肽干预组(10-9 mol / L、10-8 mol / L、10-7 mol / L)。 干
+预 48 h。
+2. 成骨细胞增殖的检测:利用 96 孔培养板,在每
+孔接种 100 滋l(含 6 000 个 MC3T3-E1 细胞)细胞悬液,
+并设空白对照(不含细胞的培养液),24 h 后按上述实
+验分组更换培养基,继续培养 48 h。 最后每孔避光加
+入 10 滋l CCK-8,孵育 4 h,用酶标仪测定在 450 nm 处每
+孔的吸光度(OD 值)。
+3. 细胞分化相关基因的检测:将 MC3T3-E1 细胞
+按 3×105接种于 25 cm2培养瓶中,24 h 后按上述实验
+分组处理细胞,继续培养 48 h。 采用康为超纯 RNA 试
+剂盒提取细胞样品中的总 RNA,测定 RNA 的纯度及
+浓度。 然后按照试剂盒说明进行反转录合成 cDNA。 引
+物序列:I型胶原蛋白(type玉collagen, COL-I)上游引
+物为 5'-GTGGCGGTTATGACTTCAGC-3',下游引物为 5'-
+TCACGAACCACGTTAGCATC-3';骨桥蛋白(osteopontin,
+OPN)上游引物为 5'-GGAAACCAGCCAAGGTAAGC-3',
+下游引物为 5'-GCAAATCACTGCCAATCTCA-3';碱性磷
+酸酶(alkaline phosphatase, ALP)上游引物为 5'-GGCT-
+ACGACACCGTCACTCT-3',下游引物为 5'-AAGTCCTC-
+CACACCATCAGC-3';β-action 上游引物为 5'-GTCCCT-
+CACCCTCCCAAAAG-3',下游引物为 5'-GCTGCCTCA-
+ACACCTCAACCC-3'。 避光配置 PCR 反应体系,将配
+合好的反应体系离心后置于荧光定量 PCR 仪内进行
+反应,总反应体积 20 滋l。 PCR 反应条件:95℃ 30 s,
+95℃ 10 s,58℃ 30 s,72℃ 5 s,共 40 个循环。 应用
+MXpro 软件进行数据分析。
+三、 统计学处理
+实验所得数据用 x-± s 表示。 用 SPSS 17. 0 统计分
+析软件进行单因素方差分析,两两比较选择 LSD 法,
+P<0. 05 为差异有统计学意义。
+结    果
+一、 利拉鲁肽在高糖环境下对小鼠成骨细胞增殖
+的影响
+在高糖浓度条件培养下, 以 10-9 mol / L、 10-8
+mol / L、10-7 mol / L 利拉鲁肽干预成骨细胞 48 h,与对
+照组相比,利拉鲁肽干预组(10-9 mol / L、10-8 mol / L、
+10-7 mol / L)细胞增殖率均显著高于对照组 (均 P <
+0. 05),以 10-8 mol / L 利拉鲁肽促进成骨细胞增殖的作
+用最显著(图 1)。
+注:OD:吸光度值 Absorbance values;vs 0 mol / L, aP<0. 05;vs 10-9
+mol / L, bP<0. 05;vs 10-8 mol / L, cP<0. 05
+图 1  不同浓度利拉鲁肽对小鼠成骨细胞 MC3T3-E1 增殖的影响(48 h)
+Fig 1  Effect of liraglutide on proliferation of the MC3T3-E1 mouse osteoblast
+(48 h)
+二、 利拉鲁肽在高糖环境下对小鼠成骨细胞分化
+的影响
+在高糖浓度环境培养下, 以 10-9 mol / L、 10-8
+mol / L、10-7 mol / L 利拉鲁肽干预成骨细胞 48 h 后,与
+对照组相比,利拉鲁肽干预组 COL-I、ALP、OPN 的
+mRNA 表达量明显增加(均 P<0. 05),在 10-8 mol / L 浓
+度组表达量增加最明显(图 2)。
+讨    论
+GLP-1 主要由肠道 L 细胞合成和分泌的肠肽类激
+素。 利拉鲁肽是 GLP-1 的长效类似物,已广泛应用于
+临床,可通过多种机制参与机体血糖调节[1]。 研究还
+发现 GLP-1 受体激动剂可作用于胃肠道、中枢神经系
+统、脂肪、肝脏、心血管系统、肾脏以及骨等组织器
+官[2-7]。 目前关于 GLP-1 及其类似物与骨代谢的关系
+引起内分泌界越来越广泛的关注。 Mieczkowska 等[8]
+发现敲除 GLP-1 基因的小鼠的骨骼直径和骨皮质厚
+度明显减少,而将大鼠体内 GLP-1 受体去除后,检测
+骨密度发现实验组较对照组(正常组)皮质骨密度下
+降,表明 GLP-1 对减缓骨质疏松具有重要作用[9]。 动
+物实验发现胰升糖素样肽 1 受体激动剂( exendin-4)
+可以显著增加老龄大鼠骨密度[10]。 进一步研究发现
+GLP-1 能够促进骨髓间充质干细胞(bone mesenchymal
+stem cells,BMSCs)的增殖,促进 BMSC 向成骨细胞分
+化,抑制 BMSC 向脂肪细胞的分化,促进骨形成[11];国
+注:OPN:骨桥蛋白 Osteopontin;COL-I:I型胶原蛋白 Type玉 collagen; ALP:碱性磷酸酶 Alkaline phosphatase;vs0 mol / L, aP<0. 05;vs10-9 mol / L,
+bP<0. 05;vs 10-8 mol / L, cP<0. 05
+图 2  不同浓度利拉鲁肽对小鼠成骨细胞 OPN、COL-I、ALP mRNA 表达的影响
+Fig 2  Effect of different concentrations of liraglutide on the relative expression levels of OPN, COL-I, and ALP mRNA
+内周诗萌等[12]的研究结果与该观点一致。 国外学者
+以 2 型糖尿病大鼠为模型持续皮下泵入 GLP-1,3 天后
+发现骨小梁数量、骨小梁模式因子和结构模型指数增
+加,骨形成明显增加,进一步说明 GLP-1 能够促进骨
+形成[13]。 而目前 GLP-1 对成骨细胞的研究报道国内
+外均较少见。
+本研究发现在高糖浓度条件培养下,利拉鲁肽干
+预组较对照组 OD 值增大,说明在一定浓度范围内
+(10-9 mol / L ~ 10-7 mol / L)利拉鲁肽促进成骨细胞的
+增殖。 同时发现在 10-8 mol / L 浓度条件培养下成骨细
+胞增殖率最大,说明利拉鲁肽在 10-8 mol / L 时促进成
+骨细胞增殖的作用最强,而国内王婷等[14] 在体外用一
+定(10-9 mol / L ~ 10-7 mol / L)浓度利拉鲁肽干预人成
+骨细胞,也证实 GLP-1 促进人成骨细胞增殖,但随着
+给药浓度的增高,成骨细胞增殖率下降,在 10-9 mol / L
+时达到最大效应,与本研究在利拉鲁肽 10-8 mol / L 浓
+度时达最大效应不太一致,这可能与用于研究的成骨
+细胞种类不同有关。 Wnt / β-catenin 信号通路在骨形
+成和骨代谢中起着重要的调控作用。 Wnt 蛋白与受体
+结合后,通过一系列作用,使 β-catenin 在胞质内累积,
+调节目的基因的表达,促进成骨细胞的增殖[15]。 研究
+发现 GLP-1 可通过上 Wnt / β-catenin mRNA 的表达,刺
+激 2 型糖尿病大鼠骨小梁的形成,促进骨形成[16]。
+Nuche-Berenguer 等[16] 的研究也发现 GLP-1 可通过
+Wnt 信号通路促进骨形成。 王婷认为低浓度 (10-9
+mol / L)利拉鲁肽通过 wnt 信号通路促进人成骨细胞增
+殖,高浓度可能通过其他途径促进成骨细胞形成。 说
+明利拉鲁肽促进成骨细胞增殖的作用与其浓度有关,
+部分可能通过 Wnt 信号的激活,但 GLP-1 对成骨细胞
+作用的具体机制还有待进一步研究。
+骨形成分为三个阶段:细胞增殖、细胞外基质产生
+以及矿化。 在细胞增殖阶段,胶原蛋白开始产生,之后
+碱性磷酸酶、骨钙素表达逐渐增加,与矿化基质的分化
+及稳定相关,此后钙盐开始沉积[17-18]。 骨的细胞外基
+质部分由矿物质与有机基质紧密结合形成,90% ~
+95%有机基质由 COL-I组成。 OPN 作为一种基质功
+能性非胶原蛋白,主要通过激活细胞内特异性信号传
+导系统而介导细胞黏附、迁移和增殖。 ALP 是成骨细
+胞分化的标志,在体内钙化过程中起关键作用。 Ma
+等[19]在体外培养 BMSCs,ALP 染色结果显示 BMSCs
+在 GLP-1 诱导培养 7 天后出现阳性细胞,说明细胞已
+经向成骨细胞分化,具有成骨细胞活性,14 天出现钙
+结节,表明已分化为成骨细胞,说明 GLP-1 能够诱导
+BMSC 向成骨细胞分化。 进一步研究显示 GLP-1 受体
+激动剂(exendin-4)不仅可增加骨强度,并且能够促进
+骨形成指标 COL-I和 ALP mRNA 的表达。 本研究发
+现,与对照组相比,利拉鲁肽干预组 COL-I、ALP、OPN
+mRNA 表达量明显增加,以利拉鲁肽在 10-8 mol / L 浓
+度时成骨细胞分化相关指标表达增加最明显。 说明利
+拉鲁肽在高糖环境下能够促进成骨细胞的分化,与上
+述研究观点一致。 杨力[20] 体外培养长骨来源的成骨
+细胞发现 GLP-1 能够促进 ALP、骨钙素、OPN、COL-I
+及 Runt 相关转录因子 2 的表达,与本研究结果一致。
+说明利拉鲁肽能够促进成骨细胞分化,但是具体机制
+有待更多研究。

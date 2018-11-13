@@ -1,0 +1,414 @@
+T1	Disease 1234 1240	2 型糖尿病
+T2	Disease 3677 3683	2 型糖尿病
+T3	Disease 4561 4567	2 型糖尿病
+T4	Disease 4764 4770	2 型糖尿病
+T5	Disease 5235 5241	2 型糖尿病
+T6	Disease 5438 5444	2 型糖尿病
+T7	Disease 5519 5525	2 型糖尿病
+T8	Disease 5662 5668	2 型糖尿病
+T9	Disease 5707 5711;5712 5714	2 型糖 尿病
+T10	Drug 285 290	磺脲类药物
+T11	Drug 2785 2790	磺脲类药物
+T12	Drug 2811 2816	磺脲类药物
+T13	Test 331 336	HBA1C
+T14	Test 6000 6005	HBA1C
+T15	Test 6130 6135	HBA1C
+T16	Test 4604 4609	HDL-C
+T17	Disease 3684 3688	T2DM
+T18	Disease 4402 4407	NAFLD
+T19	Disease 4409 4414	NAFLD
+T20	Disease 4466 4471	NAFLD
+T21	Disease 5179 5184	NAFLD
+T22	Test 1252 1254;1255 1257	体重 指数
+T23	Test 6181 6184	收缩压
+T24	Drug 5640 5646	噻唑烷二酮类
+T25	Disease 4863 4868	代谢综合征
+T26	Disease 442 447	糖尿病前期
+T27	Disease 507 512	糖尿病前期
+T28	Anatomy 2430 2434	β 细胞
+T29	Anatomy 2567 2571	β 细胞
+T30	Anatomy 3761 3765	β 细胞
+T31	Anatomy 996 1000	脂肪细胞
+T32	Anatomy 1037 1041	脂肪细胞
+T33	Anatomy 1110 1114	脂肪细胞
+T34	Anatomy 1831 1835	脂肪细胞
+T35	Anatomy 1853 1857	脂肪细胞
+T36	Anatomy 1961 1962;1963 1966	脂 肪细胞
+T37	Anatomy 2223 2227	脂肪细胞
+T38	Drug 5024 5028	吡格列酮
+T39	Drug 5066 5070	吡格列酮
+T40	Drug 5090 5094	吡格列酮
+T41	Test 4597 4601	甘油三酯
+T42	Test 5138 5142	甘油三酯
+T43	Test 1258 1261	BMI
+T44	Test 1374 1377	脂联素
+T45	Test 4623 4626	脂联素
+T46	Test 1606 1608	体重
+T47	Test 6284 6286	体重
+T48	Test 1077 1082	MCP-1
+T49	Disease 2531 2535	MODY
+T50	Disease 3531 3535	MODY
+T51	Disease 3586 3590	MODY
+T52	Disease 3701 3705	MODY
+T53	Disease 3747 3751	MODY
+T54	Disease 3935 3939	MODY
+T55	Disease 4072 4076	MODY
+T56	Disease 4115 4119	MODY
+T57	Disease 4137 4141	MODY
+T58	Disease 2930 2934	TNDM
+T59	Disease 3006 3010	TNDM
+T60	Disease 3037 3041	TNDM
+T61	Disease 3096 3100	TNDM
+T62	Disease 3122 3126	TNDM
+T63	Drug 5029 5033	艾塞那肽
+T64	Test 267 271	随机血糖
+T65	Disease 2512 2515	NDM
+T66	Disease 2649 2652	NDM
+T67	Disease 2690 2693	NDM
+T68	Disease 2880 2883	NDM
+T69	Disease 3196 3199	NDM
+T70	Disease 3239 3242	NDM
+T71	Disease 3419 3422	NDM
+T72	Disease 239 242	糖尿病
+T73	Test 264 266	尿糖
+T74	Drug 293 297	甲磺丁脲
+T75	Drug 298 302	氯磺丙脲
+T76	Drug 303 306	双胍类
+T77	Drug 309 313	苯乙双胍
+T78	Drug 339 343	人胰岛素
+T79	Drug 344 350	胰岛素类似物
+T80	Drug 351 355	胰岛素泵
+T81	Drug 356 358;359 362	口服 降糖药
+T82	Disease 374 377	糖尿病
+T83	Disease 439 441	肥胖
+T84	Anatomy 542 544	脂肪
+T85	Anatomy 545 547	肌肉
+T86	Anatomy 548 550	肝脏
+T87	Anatomy 551 555	中枢神经
+T88	Disease 560 563	糖尿病
+T89	Disease 627 630	糖尿病
+T90	Test 694 699	基线胰岛素
+T91	Test 713 718	葡萄糖耐量
+T92	Disease 747 753;754 755	代谢非健康肥 胖
+T93	Disease 767 770	脂肪肝
+T94	Anatomy 771 773	肝脏
+T95	Anatomy 792 801	外周胰岛素敏感组织
+T96	Disease 840 845	脂 肪 肝
+T97	Disease 890 893	脂肪肝
+T98	Disease 894 900	肝内脂质沉积
+T99	Disease 954 957;958 960	糖耐量 受损
+T100	Anatomy 990 992	胰岛
+T101	Anatomy 1010 1011;1012 1015	巨 噬细胞
+T102	Disease 1103 1105;1106 1107	脂肪 肝
+T103	Anatomy 1200 1203;1204 1205	脂肪组 织
+T104	Disease 1206 1209	糖尿病
+T105	Disease 1265 1268	糖尿病
+T106	Anatomy 1286 1290	脂肪组织
+T107	Anatomy 1309 1311;1312 1314	脂肪 组织
+T108	Anatomy 1404 1406;1407 1409	脂肪 组织
+T109	Disease 1420 1425	胰岛素抵抗
+T110	Disease 1491 1493;1494 1495	糖尿 病
+T111	Anatomy 1499 1503	脂肪组织
+T112	Anatomy 1503 1510	胰岛素受体基因
+T113	Disease 1527 1529	肥胖
+T114	Anatomy 1635 1639	脂肪组织
+T115	Anatomy 1676 1680	脂肪组织
+T116	Disease 1747 1749	肥胖
+T117	Disease 1754 1759	胰岛素敏感
+T118	Disease 1760 1761;1762 1766	胰 岛素抵抗
+T119	Disease 1775 1780	胰岛素敏感
+T120	Disease 1781 1783	肥胖
+T121	Test 1789 1791	血糖
+T122	Test 1793 1795	血脂
+T123	Test 1797 1799	血压
+T124	Disease 1819 1824	胰岛素敏感
+T125	Disease 1825 1827	肥胖
+T126	Disease 1842 1847	胰岛素抵抗
+T127	Disease 1848 1850	肥胖
+T128	Disease 1906 1911	胰岛素抵抗
+T129	Disease 1913 1915	肥胖
+T130	Anatomy 1916 1920	内脏脂肪
+T131	Anatomy 2115 2119	内脏脂肪
+T132	Anatomy 2122 2126	皮下脂肪
+T133	Disease 2132 2137;2138 2139	代谢健康肥 胖
+T134	Anatomy 2143 2147	皮下脂肪
+T135	Anatomy 2155 2159	内脏脂肪
+T136	Disease 2171 2176	胰岛素抵抗
+T137	Disease 2216 2218	肥胖
+T138	Disease 2235 2237	肥胖
+T139	Anatomy 2247 2251	脂肪组织
+T140	Anatomy 2257 2261	皮下脂肪
+T141	Anatomy 2281 2285	脂肪组织
+T142	Disease 2325 2328	糖尿病
+T143	Disease 2329 2334	心血管疾病
+T144	Disease 2473 2476;2477 2480	单基因 糖尿病
+T145	Disease 2505 2511	新生儿糖尿病
+T146	Disease 2517 2526;2527 2530	青少年发病的成人型 糖尿病
+T147	Disease 2542 2548	单基因糖尿病
+T148	Disease 2558 2564	单基因糖尿病
+T149	Drug 2819 2822	胰岛素
+T150	Test 2837 2839	血糖
+T151	Disease 2920 2929	暂时性新生儿糖尿病
+T152	Disease 3563 3566	糖尿病
+T153	Disease 3568 3574	单基因糖尿病
+T154	Disease 4020 4026	单基因糖尿病
+T155	Disease 4417 4418;4419 4424	单 纯性脂肪肝
+T156	Disease 4441 4444;4445 4446	肝纤维 化
+T157	Disease 4455 4457	肥胖
+T158	Disease 4556 4559	脂肪肝
+T159	Disease 4573 4575	肥胖
+T160	Disease 4645 4646;4647 4652	血 管功能紊乱
+T161	Disease 4695 4701	高胰岛素血症
+T162	Disease 4721 4725	NASH
+T163	Disease 4727 4730	纤维化
+T164	Disease 4741 4744	脂肪肝
+T165	Disease 4778 4783;4784 4785	2 型糖尿 病
+T166	Disease 4794 4797	脂肪肝
+T167	Disease 4807 4809	肥胖
+T168	Disease 4825 4831	单纯性脂肪肝
+T169	Disease 4837 4841	NASH
+T170	Disease 4843 4846	纤维化
+T171	Disease 4850 4852	肝癌
+T172	Disease 4869 4872	糖尿病
+T173	Test 4890 4892	肝酶
+T174	Disease 4895 4898	脂肪肝
+T175	Test 4916 4918	肝酶
+T176	Disease 4921 4924	脂肪肝
+T177	Disease 4949 4952	脂肪肝
+T178	Disease 4964 4969	胰岛素抵抗
+T179	Disease 5004 5007	脂肪肝
+T180	Disease 5011 5015	NASH
+T181	Drug 5034 5036;5037 5039	利那 鲁肽
+T182	Disease 5041 5044	糖尿病
+T183	Disease 5047 5050	脂肪肝
+T184	Disease 5099 5103	NASH
+T185	Disease 5111 5115	NASH
+T186	Drug 5189 5200;5201 5203	胆汁酸受体(FXR)激 动剂
+T187	Disease 5225 5230	胰岛素抵抗
+T188	Disease 5253 5258	胰岛素抵抗
+T189	Disease 5273 5278	胰岛素抵抗
+T190	Disease 5306 5311	胰岛素抵抗
+T191	Disease 5313 5318;5319 5320	矮妖精综合 征
+T192	Disease 5321 5342	Rabson-Mendenhall 综合征
+T193	Disease 5343 5354	A 型胰岛素抵抗综合征
+T194	Disease 5368 5373	胰岛素抵抗
+T195	Disease 5400 5404;5405 5406	胰岛素抵 抗
+T196	Disease 5490 5495	胰岛素抵抗
+T197	Disease 5533 5538	胰岛素抵抗
+T198	Disease 5540 5542	肥胖
+T199	Disease 5543 5546	高血压
+T200	Disease 5547 5550	高血糖
+T201	Disease 5551 5558	高三酰甘油血症
+T202	Disease 5566 5571	胰岛素抵抗
+T203	Disease 5584 5589	胰岛素抵抗
+T204	Drug 5646 5652	胰岛素增敏剂
+T205	Disease 5691 5696	胰岛素抵抗
+T206	Disease 5742 5744	肥胖
+T207	Disease 5745 5748	糖尿病
+T208	Disease 5749 5754	心血管疾病
+T209	Disease 5774 5776	肥胖
+T210	Disease 5777 5780	糖尿病
+T211	Disease 5801 5806	心血管疾病
+T212	Disease 5807 5810	糖尿病
+T213	Disease 5817 5819	死亡
+T214	Disease 5883 5888	心血管死亡
+T215	Disease 5889 5893	心肌梗死
+T216	Disease 5894 5896	中风
+T217	Disease 6052 6055	冠心病
+T218	Disease 6056 6060	心肌梗死
+T219	Disease 6061 6063	中风
+T220	Disease 6064 6066	心衰
+T221	Drug 6069 6070;6071 6074	恩 格列净
+T222	Drug 6099 6103	恩格列净
+T223	Drug 6120 6124	恩格列净
+T224	Test 6221 6223	血压
+T225	Drug 6237 6241	恩格列净
+T226	Test 6252 6254	血压
+T227	Drug 6262 6266	恩格列净
+T228	Test 6274 6275;6276 6277	血 糖
+T229	Test 6278 6280	血压
+T230	Disease 6324 6325;6326 6329	心 肌梗死
+T231	Disease 6330 6332	中风
+T232	Disease 6339 6341	心衰
+T233	Disease 6346 6349;6350 6352	心血管 死亡
+T234	Drug 6359 6363	恩格列净
+T235	Disease 6366 6371	心血管死亡
+T236	Disease 6381 6383	心衰
+T237	Drug 6403 6407	恩格列净
+T238	Anatomy 1440 1444	脂肪组织
+T239	Disease 3670 3674	T1DM
+T240	Test 323 329	动态血糖监测
+T241	Disease 865 870	脂 肪 肝
+T242	Anatomy 4482 4488	PNPLA3
+T243	Anatomy 4491 4497	TM6SF2
+T244	Test_Value 4601 4603	升高
+T245	Test_Value 4610 4612	降低
+T246	Test_Value 4619 4621	升高
+T247	Test_Value 4628 4630	降低
+T248	Anatomy 4657 4675	PNPLA3 基因 I148M 位点
+T249	Disease 4702 4703;4704 4712	高 血清甘油三酯血症
+T250	Test 738 740	体脂
+T251	Disease 919 926	全身的代谢紊乱
+T252	Test 939 950	核磁共振波谱(MRS)
+T253	Disease 1115 1117	炎症
+T254	Test 1366 1369;1370 1371	脂肪因 子
+T255	Test 1550 1553	糖代谢
+T256	Test 1732 1734	CT
+T257	Test 1737 1741	核磁共振
+T258	Test 1876 1878	体脂
+T259	Anatomy 1954 1958	炎症细胞
+T260	Disease 1969 1974	内质网应激
+T261	Disease 1975 1977	凋亡
+T262	Level 2168 2170	严重
+T263	Disease 2177 2181	代谢异常
+T264	Disease 2267 2277	脂肪异位存积(内脏等
+T265	Disease 2305 2307	炎症
+T266	Disease 2308 2310	纤维
+T267	Disease 3541 3546	单基因突变
+T268	Disease 4371 4377	单基因糖尿病
+T269	Disease 4393 4401	非酒精性脂肪肝病
+T270	Disease 4550 4554	慢性肝病
+T271	Test 4682 4688	肝内脂肪含量
+T272	Disease 4760 4762	肥胖
+T273	Anatomy 4813 4816	心血管
+T274	Disease 4970 4975	内质网应激
+T275	Disease 4976 4978	炎症
+T276	Disease 4980 4985;4986 4987	粒体功能紊 乱
+T277	Disease 4988 4991	脂毒性
+T278	Disease 4992 4997	肠道微生物
+T279	Level 5303 5305	严重
+T280	Disease 5388 5390	创伤
+T281	Disease 5391 5393	感染
+T282	Disease 5767 5769	炎症
+T283	Anatomy 6075 6078	心血管
+T284	Anatomy 6108 6111	心血管
+T285	Anatomy 6155 6158	心血管
+T286	Treatment 6161 6163	降糖
+T287	Test 6172 6174	血压
+T288	Disease 6204 6206	中风
+T289	Anatomy 6242 6245	心血管
+T290	Treatment 6293 6295	利尿
+T291	Disease 6386 6388	死亡
+T292	Anatomy 6460 6463	心血管
+T293	Test_Value 1083 1087	明显增多
+T294	Test_Value 1920 1924	明显增多
+T295	Test_Value 4688 4692	显著增加
+T296	Duration 655 658	1 年
+T297	Anatomy 805 810	TLR-4
+T298	Anatomy 876 885	PNPLA3 基因
+T299	Anatomy 1002 1006	CD68
+T300	Test_Value 1575 1579	显著升高
+T301	Anatomy 1697 1699	内脏
+T302	Anatomy 2740 2746	KCNJ11
+T303	Anatomy 2749 2757	ABCC8 基因
+T304	Anatomy 2948 2956	6q24 区基因
+T305	Anatomy 2969 2974	ABCC8
+T306	Anatomy 2977 2986	KCNJ11 基因
+T307	Anatomy 3016 3022	KCNJ11
+T308	Anatomy 3025 3030	ABCC8
+T309	Anatomy 3801 3806	HNF4α
+T310	Anatomy 3807 3810	GCK
+T311	Anatomy 3811 3816	HNF1α
+T312	Anatomy 3817 3821	PDX1
+T313	Anatomy 3822 3827	HNF1β
+T314	Anatomy 3828 3835	NEUROD1
+T315	Anatomy 3837 3842	KLF11
+T316	Anatomy 3843 3846	CEL
+T317	Anatomy 3847 3851	PAX4
+T318	Anatomy 3852 3855	INS
+T319	Anatomy 3856 3859	BLK
+T320	Anatomy 3860 3865	ABCC8
+T321	Anatomy 3866 3872	KCNJ11
+T322	Anatomy 3947 3950	GCK
+T323	Anatomy 3952 3957	HNF1α
+T324	Anatomy 3960 3965	HNF4α
+T325	Disease 4528 4532	NASH
+T326	Test_Value 4918 4920	增高
+T327	Disease 5125 5129	NASH
+T328	Test_Value 6008 6013	8. 1%
+T329	Duration 6027 6031	10 年
+T330	Duration 6410 6414	3 个月
+T331	Test_Value 6189 6195	4 mmHg
+T332	Duration 684 687	8 年
+T333	Duration 709 712	8 年
+T334	Anatomy 1452 1455	代谢物
+T335	Anatomy 1457 1459	磷脂
+T336	Symptom 3600 3605	发病年龄早
+T337	Symptom 3606 3607;3608 3616	呈 常染色体显性遗传
+T338	Test 4196 4202	二代测序技术
+T339	Anatomy 1447 1451	脂肪因子
+T340	Symptom 3617 3628	存在 β 细胞功能缺陷
+T341	Drug 280 281;282 284	胰 岛素
+T342	Anatomy 534 541	胰岛 β 细胞
+T343	Disease 620 626	空腹血糖受损
+T344	Test 722 727	基线胰岛素
+T345	Anatomy 777 785	Fetuin A
+T346	Test 816 822	胰岛素敏感性
+T347	Disease 828 830	肥胖
+T348	Disease 905 913	肥胖相关的脂肪肝
+T349	Test 965 971	胰腺脂肪含量
+T350	Test 972 975	胰岛素
+T351	Test 978 981	C 肽
+T352	Test 1047 1058	白细胞介素( IL)6
+T353	Test 1059 1063	IL-8
+T354	Test 1065 1072;1073 1076	单核细胞趋化蛋 白-1
+T355	Test 1124 1131;1132 1134	胰岛 β 细胞 功能
+T356	Reason 1230 1232	肥胖
+T357	Anatomy 1349 1351	瘦素
+T358	Anatomy 1391 1398	adipsin
+T359	Anatomy 1530 1534	脂肪组织
+T360	Test 1556 1561	胰岛素水平
+T361	Test 1567 1571;1572 1573	血清脂联 素
+T362	Anatomy 1700 1706	皮下脂肪组织
+T363	Anatomy 1724 1730	皮下脂肪组织
+T364	Anatomy 1721 1723	内脏
+T365	Test 1858 1863;1864 1865	葡萄糖摄取 率
+T366	Reason 1885 1888;1889 1894	内脏脂 肪组织面积
+T367	Anatomy 1928 1934	内脏脂肪组织
+T368	Anatomy 1940 1949	巨噬细胞(泡沫细胞
+T369	Test 1985 1988;1989 1992	脂肪细 胞因子
+T370	Test 1995 2011	二肽基肽酶 4 ( DPP4 )
+T371	Test 2013 2020;2021 2026	神经调节素 4 (NRG4
+T372	Test 2028 2040	骨形成蛋白 ( BMP)
+T373	Test 2041 2050;2051 2057	视黄醇结合蛋白 4 (RBP4)
+T374	Test 2058 2074	丝氨酸蛋白酶抑制剂 Vaspin
+T375	Test 2075 2081;2082 2095	颗粒蛋白前体 (Progranulin)
+T376	Test 2096 2102	化学趋化分子
+T377	Anatomy 2241 2244	胰岛素
+T378	Disease 2312 2315;2316 2321	脂肪组 织功能异常
+T379	Anatomy 2344 2351	胰岛 β 细胞
+T380	Disease 2420 2426	单基因糖尿病
+T381	Disease 2461 2467	单基因糖尿病
+T382	Disease 3129 3138	永久性新生儿糖尿病
+T383	Disease 3549 3555;3556 3558	β 细胞功能 缺陷
+T384	Symptom 3628 3633;3634 3641	但有一定的 胰岛素分泌能力
+T385	Symptom 3642 3653	无自身免疫或胰岛素抵抗
+T386	Anatomy 3768 3771	胰岛素
+T387	Disease 3899 3902	高血糖
+T388	Disease 4425 4434	非酒精性脂肪性肝炎
+T389	Disease 4499 4504;4505 4507	非酒精性脂 肪肝
+T390	Anatomy 4578 4582	肝脏脂质
+T391	Test 4587 4591	肝糖输出
+T392	Test_Value 4591 4592;4593 4594	增 加
+T393	Disease 4639 4644	胰岛素抵抗
+T394	Reason 4752 4755	脂肪肝
+T395	Reason 4799 4802	脂肪肝
+T396	Disease 4881 4884	脂肪肝
+T397	Disease 4906 4909	纤维化
+T398	Disease 4926 4929	脂肪肝
+T399	Disease 5072 5075	糖尿病
+T400	Disease 5077 5080	脂肪肝
+T401	Drug 5204 5209	PPARα
+T402	Drug 5212 5218	δ 双激动剂
+T403	Anatomy 5290 5294;5295 5296	胰岛素受 体
+T404	Test 5449 5452	胰岛素
+T405	Test 5481 5482;5483 5485	胰 岛素
+T406	Reason 5732 5736;5737 5739	长期低度 炎症
+T407	Drug 5847 5861	SGLT-2 抑制剂恩格列净
+T408	Disease 6039 6043;6044 6047	基础心血 管疾病
+T409	Disease 6224 6226	中风
+T410	Drug 6316 6320	恩格列净
+T411	Disease 1804 1810	代谢健康肥胖
+T412	Reason 1895 1901	胰岛素敏感性
+T413	Test 4613 4616	CRP
+T414	Disease 5620 5625	胰岛素抵抗

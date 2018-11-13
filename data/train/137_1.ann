@@ -1,0 +1,196 @@
+T1	Disease 32 38	2 型糖尿病
+T2	Disease 129 135	2 型糖尿病
+T3	Disease 1216 1222	2 型糖尿病
+T4	Disease 1244 1250	2 型糖尿病
+T5	Disease 1276 1282	2 型糖尿病
+T6	Disease 1494 1500	2 型糖尿病
+T7	Disease 1528 1534	2 型糖尿病
+T8	Disease 1586 1592	2 型糖尿病
+T9	Disease 1650 1654;1655 1657	2 型糖 尿病
+T10	Disease 1759 1765	2 型糖尿病
+T11	Disease 1857 1863	2 型糖尿病
+T12	Disease 1969 1975	2 型糖尿病
+T13	Disease 2861 2867	2 型糖尿病
+T14	Disease 3378 3384	2 型糖尿病
+T15	Disease 3555 3561	2 型糖尿病
+T16	Disease 3585 3591	2 型糖尿病
+T17	Disease 3733 3736;3737 3740	2 型 糖尿病
+T18	Disease 6326 6332	2 型糖尿病
+T19	Disease 6476 6482	2 型糖尿病
+T20	Disease 6902 6908	2 型糖尿病
+T21	Disease 1338 1339;1340 1344	2 型糖尿病
+T22	Drug 3092 3094;3095 3098	他汀 类药物
+T23	Drug 3595 3600	他汀类药物
+T24	Drug 4513 4518	他汀类药物
+T25	Drug 4567 4572	他汀类药物
+T26	Test 2027 2032	HBA1C
+T27	Test 4051 4056	HBA1C
+T28	Test 4162 4167	HBA1C
+T29	Test 4189 4194	HBA1C
+T30	Test 5762 5767	HBA1C
+T31	Test 5824 5829	HBA1C
+T32	Test 6195 6200	HBA1C
+T33	Test 6241 6246	HBA1C
+T34	Test 4094 4098	空腹血糖
+T35	Test 5792 5796	空腹血糖
+T36	Drug 6942 6945	他汀类
+T37	Test 4340 4349	高密度脂蛋白胆固醇
+T38	Test 4538 4547	低密度脂蛋白胆固醇
+T39	Test 1932 1936	体重指数
+T40	Test 6210 6214	体重指数
+T41	Test 6257 6261	体重指数
+T42	Test 6456 6458;6459 6461	体重 指数
+T43	Test 4230 4233	收缩压
+T44	Test 2083 2087	甘油三酯
+T45	Test 4415 4419	甘油三酯
+T46	Test 142 144	体重
+T47	Test 237 239	体重
+T48	Test 1383 1385	体重
+T49	Test 1878 1880	体重
+T50	Test 2231 2233	体重
+T51	Test 2874 2876	体重
+T52	Test 3488 3490	体重
+T53	Test 6372 6374	体重
+T54	Test 6737 6739	体重
+T55	Test 6792 6794	体重
+T56	Test 6924 6926	体重
+T57	Disease 193 195	肥胖
+T58	Disease 1192 1195	糖尿病
+T59	Disease 1395 1397	肥胖
+T60	Disease 1465 1470	糖耐量受损
+T61	Disease 1641 1646	糖耐量受损
+T62	Disease 1695 1698	糖尿病
+T63	Disease 1720 1723	糖尿病
+T64	Test_Value 1936 1937;1938 1948	≥ 25 kg / m2
+T65	Test_Value 1955 1966	≥27 kg / m2
+T66	Drug 1949 1952	胰岛素
+T67	Test 2043 2045	血压
+T68	Test_Value 2045 2060	<160 / 100 mmHg
+T69	Test_Value 2087 2102	<6. 77 mmol / L
+T70	Disease 2377 2384	充血性心力衰竭
+T71	Operation 2385 2392	冠状动脉搭桥术
+T72	Operation 2393 2399;2400 2404	经皮冠状动脉 介入治疗
+T73	Operation 2405 2413	颈动脉内膜剥离术
+T74	Disease 2421 2424;2425 2426	全因死 亡
+T75	Disease 2486 2489	心绞痛
+T76	Test 2975 2977	血糖
+T77	Test 2978 2980	血压
+T78	Test 2981 2983	血脂
+T79	Disease 3340 3345	糖耐量受损
+T80	Test_Value 4064 4070	0. 64%
+T81	Test_Value 4074 4080	0. 14%
+T82	Test_Value 4106 4119	1. 2 mmol / L
+T83	Test_Value 4124 4128;4129 4137	0. 4 mmol / L
+T84	Test_Value 4202 4208	0. 22%
+T85	Drug 4505 4508	胰岛素
+T86	Test_Value 4311 4315;4316 4320	1. 9 mmHg
+T87	Test_Value 4384 4396	1. 2 mg / dl
+T88	Disease 4667 4676	阻塞性睡眠呼吸暂停
+T89	Disease 4678 4681	OSA
+T90	Test 5130 5134	静息心率
+T91	Test 5178 5182;5183 5191	运动负荷 后的心率恢复幅度
+T92	Disease 5313 5316	OSA
+T93	Disease 5363 5366	糖尿病
+T94	Test 5740 5743;5744 5745	空腹血 糖
+T95	Test_Value 5745 5759	<5. 6 mmol / L
+T96	Test_Value 5767 5773	<5. 7%
+T97	Disease 5776 5779	糖尿病
+T98	Test_Value 5798 5818	5. 6 ~ 7. 0 mmol / L
+T99	Test_Value 5831 5843	5. 7% ~6. 5%
+T100	Test_Value 6261 6275	>37. 7 kg / m2
+T101	Drug 6251 6254	胰岛素
+T102	Test 6390 6392	血糖
+T103	Test 6393 6395	血压
+T104	Test 6396 6398	血脂
+T105	Disease 6356 6359	糖尿病
+T106	Disease 6280 6283	糖尿病
+T107	Test_Value 6461 6472	>35 kg / m2
+T108	Disease 6685 6688	糖尿病
+T109	Test_Value 6739 6743	显著减轻
+T110	Disease 3183 3188	心血管疾病
+T111	Disease 3222 3227	心血管疾病
+T112	Test 4017 4019	血糖
+T113	Test 5477 5478;5479 5480	体 重
+T114	Disease 119 121	超重
+T115	Disease 122 124	肥胖
+T116	Disease 163 168	心血管事件
+T117	Disease 1308 1311;1312 1315	心脑血 管疾病
+T118	Test_Value 2233 2238	减轻≥7%
+T119	Disease 2319 2323;2324 2325	心血管死 亡
+T120	Disease 2414 2420	外周血管疾病
+T121	Disease 3355 3359	全因死亡
+T122	Reason 5286 5293	心血管危险因素
+T123	Test_Value 5461 5465	>10%
+T124	Test_Value 5484 5487	>7%
+T125	Test 5538 5542	减重幅度
+T126	Test 5572 5578	减重幅度之差
+T127	Test_Value 5581 5585	4 kg
+T128	Test_Value 5694 5701	3. 2 cm
+T129	Level 5779 5782;5783 5784	完全缓 解
+T130	Test_Value 6375 6377	减轻
+T131	Operation 6506 6510	减肥手术
+T132	Disease 7027 7029	肥胖
+T133	Disease 25 27	超重
+T134	Disease 28 30	肥胖
+T135	Disease 61 64	糖尿病
+T136	Disease 1111 1114	糖尿病
+T137	Disease 1266 1269	糖尿病
+T138	Disease 1400 1404	全因死亡
+T139	Disease 1553 1556	糖尿病
+T140	Disease 1613 1616	糖尿病
+T141	Disease 1732 1733;1734 1736	糖 尿病
+T142	Disease 2002 2004;2005 2006	糖尿 病
+T143	Test_Value 2033 2034;2035 2041	≤ 11. 0%
+T144	Test 2109 2114;2115 2116	极量运动试 验
+T145	Disease 2138 2141	糖尿病
+T146	Disease 2261 2264	糖尿病
+T147	Disease 2293 2296	糖尿病
+T148	Test_Value 4259 4263	6. 8
+T149	Test_Value 4266 4275	2. 8 mmHg
+T150	Test_Value 4446 4451	30. 3
+T151	Test_Value 4454 4459;4460 4467	14. 6 mg / dl
+T152	Disease 4697 4700	OSA
+T153	Disease 4729 4732	OSA
+T154	Disease 4781 4784	OSA
+T155	Disease 4918 4921	DSE
+T156	Disease 5848 5851	糖尿病
+T157	Disease 5868 5871	糖尿病
+T158	Disease 5949 5952	糖尿病
+T159	Disease 6008 6011	糖尿病
+T160	Disease 6030 6033	糖尿病
+T161	Disease 6125 6126;6127 6129	糖 尿病
+T162	Drug 6204 6207	胰岛素
+T163	Test_Value 6200 6202	较低
+T164	Test_Value 6214 6216	较低
+T165	Disease 6221 6224	糖尿病
+T166	Disease 6184 6187	糖尿病
+T167	Disease 6231 6234	糖尿病
+T168	Test_Value 6246 6248	较高
+T169	Disease 6434 6437	糖尿病
+T170	Disease 6444 6447	糖尿病
+T171	Disease 6556 6559	糖尿病
+T172	Disease 6662 6665	糖尿病
+T173	Test 5606 5608	腰围
+T174	Test 5685 5687	腰围
+T175	Disease 2335 2342	非致死性脑卒中
+T176	Test 5455 5457	体重
+T177	Disease 1331 1333	超重
+T178	Disease 1334 1336	肥胖
+T179	Disease 2326 2334	非致死性心肌梗死
+T180	Disease 2851 2853	超重
+T181	Disease 2854 2856	肥胖
+T182	Disease 3347 3354	心血管疾病死亡
+T183	Disease 4996 4998	抑郁
+T184	Test_Value 5143 5148	72. 8
+T185	Test_Value 5151 5164	77. 7 次 / min
+T186	Test_Value 5200 5205	41. 3
+T187	Test_Value 5208 5221	37. 8 次 / min
+T188	Symptom 5272 5275	高血糖
+T189	Symptom 5276 5278;5279 5280	高血 压
+T190	Symptom 5281 5285	血脂异常
+T191	Reason 6745 6748	高血糖
+T192	Reason 6749 6752	高血压
+T193	Reason 6753 6757	血脂异常
+T194	Disease 6895 6897	超重
+T195	Disease 6898 6900	肥胖
+T196	Anatomy 178 181	心血管

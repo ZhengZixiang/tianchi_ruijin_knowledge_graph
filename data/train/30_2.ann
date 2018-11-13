@@ -1,0 +1,545 @@
+T286	Drug 13 16	尿酸酶
+T287	Drug 17 25;26 29	选择性尿酸重吸收 抑制剂
+T288	Drug 31 34	尿酸酶
+T289	Drug 51 55	拉布立酶
+T290	Drug 70 74	普瑞凯希
+T291	Drug 88 92	拉布立酶
+T292	Disease 127 130	HUA
+T293	Level 125 127	急性
+T294	Treatment 136 139	放化疗
+T295	Disease 142 145	HUA
+T296	Drug 148 151;152 153	拉布立 酶
+T297	Drug 169 173	普瑞凯希
+T298	Level 195 198	难治性
+T299	Disease 198 200	痛风
+T300	Level 222 225	难治性
+T301	Disease 225 227	痛风
+T302	Drug 230 231;232 235	普 瑞凯希
+T304	Level 243 245	严重
+T305	SideEff 251 255	输液反应
+T306	SideEff 256 258;259 263	免疫 原性反应
+T307	Drug 268 279	选择性尿酸重吸收抑制剂
+T308	Drug 280 287	RDEA594
+T309	Disease 351 353	痛风
+T310	Test 390 393	肾功能
+T311	Drug 336 345	黄嘌呤氧化酶抑制剂
+T312	Drug 358 359;360 368	黄 嘌呤氧化酶抑制剂
+T313	Treatment 413 417	碱化尿液
+T314	Disease 445 451	尿酸性肾石症
+T315	Test 457 461	尿pH值
+T316	Test_Value 465 472	6.2—6.9
+T324	Drug 512 516	碳酸氢钠
+T325	Disease 520 527	慢性肾功能不全
+T326	Disease 529 532	HUA
+T327	Disease 536 538	痛风
+T328	Amount 545 554	0.5~1.0 g
+T329	Frequency 559 563	3次/d
+T330	SideEff 587 589	胀气
+T331	SideEff 590 595	胃肠道不适
+T332	Drug 618 624	枸橼酸盐制剂
+T333	Drug 627 633	枸橼酸氢钾钠
+T334	Drug 634 638	枸橼酸钾
+T335	Drug 639 640;641 644	枸 橼酸钠
+T336	Drug 653 657	枸橼酸盐
+T337	Drug 709 715	枸橼酸氢钾钠
+T338	Amount 720 731	2.5~5.0 g/d
+T339	Test 739 743	尿pH值
+T340	Disease 756 761	慢性肾衰竭
+T341	Disease 750 751;752 755	性 肾损伤
+T342	Disease 769 778	严重酸一碱平衡失调
+T343	Disease 779 780;781 785	肝 功能不全
+T344	Disease 795 797	痛风
+T345	Treatment 838 842	抬高患肢
+T346	Treatment 843 844;845 848	局 部冷敷
+T347	Drug 872 876	秋水仙碱
+T348	Drug 877 884	非甾体类消炎药
+T349	Drug 927 928;929 933	糖 皮质激素
+T351	Anatomy 948 951	大关节
+T353	Drug 971 978	短效糖皮质激素
+T352	Method 966 971	关节内注射
+T354	Drug 994 998	秋水仙碱
+T355	Disease 1031 1033	痛风
+T356	Amount 1067 1073	1.0 mg
+T357	Method 1073 1074;1075 1076	口 服
+T358	Amount 1083 1089	0.5 mg
+T359	Duration 1077 1080	1 h
+T360	Duration 1090 1094	12 h
+T361	Amount 1097 1103	0.5 mg
+T362	Frequency 1104 1110	1~3次/d
+T363	Drug 1114 1120	细胞色素P4
+T364	Drug 1126 1135	磷酸化糖蛋白抑制剂
+T365	Drug 1138 1141;1142 1143	环孢素 A
+T366	Drug 1144 1148	克拉霉素
+T367	Drug 1149 1153	维拉帕米
+T368	Drug 1154 1157	酮康唑
+T369	Drug 1163 1167	秋水仙碱
+T370	Drug 1168 1169;1170 1173	秋 水仙碱
+T371	SideEff 1189 1191	恶心
+T372	SideEff 1192 1194	呕吐
+T373	SideEff 1195 1196;1197 1198	腹 泻
+T374	SideEff 1199 1201	腹痛
+T375	SideEff 1227 1232	肝功能异常
+T376	Test 1233 1236	转氨酶
+T377	Test_Value 1236 1238	升高
+T378	SideEff 1258 1260	血尿
+T379	SideEff 1261 1263	少尿
+T380	SideEff 1264 1269	肾功能异常
+T381	Drug 1286 1290	秋水仙碱
+T382	Drug 1330 1346	非选择性环氧化酶(COX)抑制剂
+T383	Drug 1348 1356	COX一2抑制剂
+T384	SideEff 1397 1402	消化道溃疡
+T385	SideEff 1404 1405;1406 1410	肠 道穿孑L
+T386	SideEff 1411 1417	上消化道出血
+T387	Disease 1473 1481	活动性消化道溃疡
+T388	Symptom 1482 1484	出血
+T389	Disease 1489 1490;1491 1498	复 发性消化道溃疡
+T390	Symptom 1499 1501	出血
+T391	Disease 1549 1553	心肌梗死
+T392	Disease 1554 1559	心功能不全
+T393	Test 1580 1583	肾功能
+T394	Level 1584 1586	严重
+T395	Disease 1586 1591	慢性肾脏病
+T396	Drug 1614 1619	糖皮质激素
+T397	Level 1624 1626	严重
+T399	Disease 1626 1630	急性痛风
+T401	Drug 1642 1646	秋水仙碱
+T402	Drug 1647 1653	NSAIDs
+T403	Duration 1667 1672	2~5 d
+T404	Duration 1681 1687	7~10 d
+T405	Drug 1709 1714	糖皮质激素
+T406	Method 1705 1709	静脉使用
+T407	Drug 1717 1722	糖皮质激素
+T408	Disease 1731 1734	高血压
+T409	Disease 1735 1738	糖尿病
+T410	Disease 1739 1743	水钠潴留
+T411	Disease 1744 1746	感染
+T413	Anatomy 1773 1776	大关节
+T414	Drug 1797 1804	短效糖皮质激素
+T415	Method 1791 1797	关节腔内注射
+T416	Drug 1825 1831	NSAIDs
+T417	Drug 1832 1836	秋水仙碱
+T418	Drug 1837 1842	糖皮质激素
+T419	Level 1848 1851	难治性
+T421	Disease 1851 1855	急性痛风
+T422	Drug 1877 1886	IL一1受体拮抗剂
+T423	Disease 1928 1930	痛风
+T424	Level 1930 1932	急性
+T425	Disease 1935 1937	痛风
+T426	Drug 1967 1971	秋水仙碱
+T427	Method 1962 1964	口服
+T428	Amount 1977 1989	0.5~1.0 mg/d
+T429	Disease 1992 1997	肾功能不全
+T430	Test 2010 2013	肾功能
+T431	Disease 2016 2021	肾功能不全
+T432	Amount 2028 2034	0.5 mg
+T433	Frequency 2034 2038	隔日1次
+T434	Method 2039 2041	口服
+T435	Disease 2049 2054	肾功能不全
+T436	Disease 2055 2057	透析
+T437	Drug 2064 2065;2066 2069	秋 水仙碱
+T438	Drug 2074 2080	NSAIDs
+T439	Disease 2107 2110	冠心病
+T440	Disease 2111 2118	慢性心血管疾病
+T441	Drug 2138 2142	秋水仙碱
+T442	Drug 2131 2137	NSAIDs
+T443	Drug 2143 2149	NSAIDs
+T444	Drug 2167 2170	泼尼松
+T445	Drug 2171 2175	泼尼松龙
+T446	Amount 2177 2185	≤10 mg/d
+T447	SideEff 2196 2200	骨质疏松
+T448	Duration 2213 2218	3—6个月
+T449	Disease 2223 2229	痛风性关节炎
+T450	Disease 2252 2255	HUA
+T451	Disease 2300 2308	急性痛风性关节炎
+T453	Disease 2334 2337	痛风石
+T454	Test 2351 2354	血尿酸
+T455	Test_Value 2357 2366	300¨moL/L
+T456	Duration 2370 2375	6个月以上
+T457	Symptom 2376 2379	痛风石
+T461	Treatment 2449 2453	中医中药
+T462	Treatment 2454 2457	中医药
+T463	Drug 2521 2524	薏苡仁
+T464	Drug 2525 2527	芡实
+T465	Drug 2528 2530	山药
+T466	Disease 2564 2567	HUA
+T468	Drug 2601 2604	薏苡仁
+T469	Drug 2605 2608	土茯苓
+T470	Drug 2609 2611	菝葜
+T471	Drug 2612 2614	革薜
+T472	Drug 2615 2617	虎杖
+T473	Symptom 2632 2638	突发红肿灼痛
+T475	Anatomy 2629 2631	关节
+T476	Disease 2641 2643	痛风
+T477	Drug 2687 2689	黄柏
+T478	Drug 2690 2692	苍术
+T479	Drug 2693 2696	车前子
+T480	Drug 2697 2699	茵陈
+T481	Drug 2700 2702	羌活
+T467	Drug 2703 2705	蚕砂
+T483	Symptom 2722 2732	伴皮下结节和/或破溃
+T484	Symptom 2716 2720	关节畸形
+T486	Disease 2736 2738	痛风
+T487	Drug 2793 2796	威灵仙
+T488	Drug 2797 2800	天南星
+T489	Drug 2801 2803	姜黄
+T490	Drug 2804 2806	桂枝
+T491	Disease 2831 2833;2834 2837	痛风 性肾病
+T492	Symptom 2818 2823	尿中伴砂石
+T493	Symptom 2824 2826	尿少
+T494	Symptom 2826 2828	身肿
+T495	Symptom 2893 2897	淋漓灼痛
+T496	Symptom 2887 2888;2889 2892	排 尿频数
+T497	Drug 2907 2910	八正汤
+T498	Drug 2911 2915;2916 2917	革薜化毒 汤
+T499	Drug 2923 2926	车前草
+T500	Drug 2927 2929	篇蓄
+T501	Drug 2930 2933	蒲公英
+T502	Drug 2934 2936	木瓜
+T503	Drug 2937 2939	秦艽
+T504	Symptom 2945 2949	排尿艰涩
+T505	Symptom 2951 2955	突然中断
+T506	Symptom 2957 2963	尿中夹有砂石
+T507	Drug 2974 2977	石韦散
+T508	Drug 2983 2985	石韦
+T509	Drug 2986 2988	滑石
+T510	Drug 2989 2992	海金砂
+T511	Drug 3019 3027;3028 3029	温脾汤合济生肾气 丸
+T512	Drug 3035 3037	黄芪
+T513	Drug 3038 3040	党参
+T514	Drug 3041 3043	杜仲
+T515	Drug 3044 3046	狗脊
+T516	Drug 3047 3049	川断
+T517	Drug 3050 3052	附片
+T518	Drug 3069 3074	方如左归丸
+T519	Drug 3075 3080	六味地黄丸
+T520	Drug 3087 3089	熟地
+T521	Drug 3090 3092	黄精
+T522	Drug 3093 3095	杞子
+T523	Drug 3096 3099	山萸肉
+T524	Drug 3140 3143	土茯苓
+T525	Treatment 3241 3245	中药外敷
+T526	Treatment 3246 3248	熏洗
+T527	Treatment 3271 3277	中药保留灌肠
+T528	Treatment 3302 3304	针灸
+T529	Disease 3340 3343	HUA
+T530	Disease 3385 3388	HUA
+T531	Disease 3356 3361	代谢性疾病
+T532	Disease 3362 3365;3366 3367	肾脏疾 病
+T533	Disease 3368 3374	心脑血管疾病
+T534	Disease 3406 3409	HUA
+T535	Disease 3415 3418	HUA
+T536	Disease 3433 3440	慢性尿酸盐肾病
+T537	Disease 3441 3448	急性尿酸性肾病
+T538	Disease 3449 3455	尿酸性肾石症
+T539	Disease 3479 3482	HUA
+T540	Disease 3483 3486	HUA
+T541	Reason 3499 3502	HUA
+T542	Disease 3506 3511	慢性肾脏病
+T543	Disease 3524 3531	慢性尿酸盐肾病
+T544	Disease 3532 3539	慢性尿酸盐肾病
+T545	Anatomy 3588 3592	内皮细胞
+T546	Anatomy 3595 3598	肾小球
+T547	Symptom 3643 3647	夜尿增多
+T548	Symptom 3648 3652	低比重尿
+T549	Symptom 3653 3659	小分子蛋白尿
+T550	Disease 3634 3641	肾小管功能障碍
+T551	Disease 3666 3673	慢性尿酸盐肾病
+T552	Disease 3760 3767	慢性尿酸盐肾病
+T553	Level 3758 3760	晚期
+T554	Test 3739 3741;3742 3743	肾活 检
+T555	Anatomy 3745 3748	肾组织
+T556	Test_Value 3750 3757	尿酸盐结晶沉积
+T557	Test 3772 3778	肾小球滤过率
+T558	Test_Value 3778 3780	下降
+T559	Disease 3781 3786	慢性肾衰竭
+T560	Disease 3788 3795	慢陛尿酸盐肾病
+T561	Disease 3833 3838	肾功能损害
+T562	Disease 3848 3854	尿酸性肾石症
+T563	Test_Value 3859 3872	超过480 Ixmol/L
+T564	Test 3856 3859	血尿酸
+T565	Test_Value 3887 3899	<360 p,mol/L
+T566	Disease 3906 3908	痛风
+T567	Level 3903 3905	严重
+T568	Symptom 3910 3913	痛风石
+T569	Symptom 3920 3926	痛风频繁发作
+T570	Disease 3914 3919	慢性关节炎
+T571	Test 3936 3939	血尿酸
+T572	Test_Value 3947 3959	<300 p,mol/L
+T573	Test_Value 3967 3980	180 bLmol/L以下
+T574	Disease 3989 3996	急性尿酸性肾病
+T575	Disease 3997 4004	急性尿酸性肾病
+T576	Level 4005 4007	严重
+T577	Disease 4008 4011	HUA
+T578	Symptom 4029 4031	少尿
+T579	Symptom 4032 4034	无尿
+T580	Symptom 4035 4037;4038 4041	急性 肾损伤
+T581	Disease 4048 4055	肿瘤溶解综合征
+T582	Disease 4059 4066	急性尿酸性肾病
+T583	Symptom 4070 4074	尿路梗阻
+T584	Symptom 4077 4079	腰痛
+T585	Symptom 4080 4082	少尿
+T586	Symptom 4083 4085	无尿
+T587	Symptom 4086 4091	急性肾损伤
+T588	Test 4095 4098	血尿酸
+T589	Test_Value 4098 4102	显著升高
+T590	Test_Value 4103 4115	>900 txmol/L
+T591	Disease 4119 4126	急性尿酸性肾病
+T592	Test 4132 4135	肾活检
+T593	Disease 4138 4145	小管间质性肾炎
+T594	Test 4147 4151	肾脏病理
+T595	Test_Value 4153 4155;4156 4166	肾小 管不同程度变性、坏死
+T596	Test_Value 4169 4182;4183 4184	部分肾小管萎缩和肾间质纤维 化
+T597	Test_Value 4185 4193	肾小球无明显病变
+T598	Test_Value 4194 4203	毛细血管襻缺血皱缩
+T599	Test_Value 4214 4225	肾小管腔内尿酸结晶沉积
+T600	Test 4204 4208;4209 4211	偏振光显 微镜
+T601	Disease 4229 4236	急性尿酸性肾病
+T602	Treatment 4254 4258	静脉补液
+T603	Test 4269 4271	尿量
+T604	Test_Value 4274 4280	80~100
+T605	Test 4282 4285	血尿酸
+T606	Test_Value 4288 4300	300 Ixrnol/L
+T607	Disease 4305 4312	急性尿酸性肾病
+T608	Treatment 4351 4358	严格低嘌呤饮食
+T609	Treatment 4360 4364	水化治疗
+T610	Disease 4407 4414	肿瘤溶解综合征
+T611	Test 4423 4426	血尿酸
+T612	Test_Value 4427 4439	<480 Ixmol/L
+T613	Drug 4472 4475	别嘌醇
+T614	Test 4482 4485	血尿酸
+T615	Test_Value 4490 4492	升高
+T616	Drug 4499 4502	尿酸酶
+T617	Drug 4505 4509	非布司他
+T618	Drug 4526 4529	尿酸酶
+T619	Drug 4530 4533	别嘌醇
+T620	Treatment 4549 4551	透析
+T621	Disease 4558 4564	尿酸性肾石症
+T622	Disease 4584 4590	尿酸性肾石症
+T623	Disease 4670 4676	尿酸性肾石症
+T624	Symptom 4680 4682	腰痛
+T625	Symptom 4683 4685	血尿
+T626	Symptom 4704 4706	发热
+T627	Symptom 4707 4709	少尿
+T628	Symptom 4710 4712	无尿
+T629	Symptom 4713 4716	肾积水
+T631	Symptom 4695 4700	急性肾损伤
+T632	Symptom 4733 4736	肾积水
+T633	Symptom 4737 4742	肾实质萎缩
+T634	Disease 4760 4766	尿酸性肾石症
+T635	Test 4768 4773	尿液pH值
+T636	Test_Value 4774 4779	低于6.0
+T637	Test 4780 4785	尿沉渣检查
+T638	Test_Value 4788 4793	尿酸盐结晶
+T639	Test 4794 4798	肾脏B超
+T640	Test_Value 4800 4807	高回声区伴声影
+T641	Test 4814 4818	x线摄片
+T642	Test_Value 4818 4821	不显影
+T643	Test_Value 4883 4891	密度不一的结石影
+T644	Test 4893 4899	静脉肾盂造影
+T645	Test_Value 4902 4906	充盈缺损
+T646	Test 4907 4909	CT
+T647	Test_Value 4933 4943	300~400 HU
+T648	Treatment 5001 5005	排石疗法
+T649	Treatment 5006 5013	体外冲击波碎石
+T650	Operation 5017 5021	手术治疗
+T651	Treatment 5023 5027	排石疗法
+T652	Symptom 5049 5052;5053 5054	尿路梗 阻
+T653	Symptom 5055 5057	感染
+T654	Symptom 5058 5060	疼痛
+T655	Treatment 5074 5078	中医中药
+T656	Treatment 5079 5080;5081 5084	溶 石疗法
+T657	Treatment 5095 5101	增加液体摄入
+T658	Treatment 5102 5109	限制高嘌呤饮食
+T659	Drug 5123 5127	排石颗粒
+T660	Drug 5128 5131	尿石通
+T661	Treatment 5116 5120	中药治疗
+T662	Drug 5146 5154	枸橼酸氢钾钠颗粒
+T663	Treatment 5135 5137;5138 5140	溶石 疗法
+T664	Treatment 5158 5163	冲击波碎石
+T665	Duration 5170 5175	1~2个月
+T666	Disease 5305 5306;5307 5315	结 石远端器质性梗阻
+T667	Disease 5316 5321	肾功能不全
+T668	Disease 5327 5331	尿路感染
+T669	Operation 5372 5376	开放手术
+T670	Operation 5377 5383	经皮肾镜手术
+T671	Operation 5384 5385;5386 5392	输 尿管软镜手术
+T672	Symptom 5345 5349	尿路梗阻
+T673	Symptom 5352 5354	感染
+T674	Level 5350 5352	严重
+T675	Symptom 5356 5358;5359 5362	肾功 能受损
+T676	Disease 5201 5205	肾盂结石
+T677	Level 5191 5200	直径<2.O cm
+T678	Disease 5206 5212;5213 5216	肾上盏或肾中 盏结石
+T679	Level 5218 5227	直径<1.0 cm
+T680	Disease 5228 5233	肾下盏结石
+T681	Level 5234 5244	1.0~2.0 cm
+T682	Disease 5244 5246;5247 5249	下盏 结石
+T683	Level 5263 5275	直径2.0~3.0 cm
+T684	Level 5276 5277;5278 5288	表 面积<500 mm2
+T685	Disease 5291 5296	鹿角形结石
+T686	Treatment 5297 5302	冲击波碎石
+T687	Disease 5405 5411	复杂性肾结石
+T688	Level 5393 5401	大于2.0 em
+T689	Operation 5416 5420	经皮肾镜
+T690	Symptom 5421 5427	躯体严重畸形
+T691	Symptom 5428 5432	过度肥胖
+T692	Operation 5450 5457	输尿管软镜手术
+T693	Treatment 5460 5467	体外冲击波碎石
+T694	Level 5475 5484	小于2.0 c,m
+T695	Treatment 5508 5512	溶石疗法
+T696	Treatment 5513 5520	体外冲击波碎石
+T697	Operation 5521 5525;5526 5528	经皮肾镜 取石
+T698	Disease 5500 5505	鹿角形结石
+T699	Disease 5543 5548	慢性肾脏病
+T700	Disease 5550 5553	HUA
+T701	Disease 5564 5566;5567 5573	慢性 尿酸盐。肾病
+T702	Disease 5574 5579	慢性肾脏病
+T703	Disease 5582 5585	HUA
+T704	Test 5600 5603	肾功能
+T705	Disease 5611 5616	慢性肾脏病
+T706	Disease 5626 5628	痛风
+T709	Method 5658 5663	关节内注射
+T710	Test 5669 5673	eGFR
+T711	Drug 5680 5684	秋水仙碱
+T708	Method 5655 5657	口服
+T712	Duration 5653 5655	短期
+T713	Amount 5677 5680	低剂量
+T714	Disease 5688 5690	痛风
+T716	Disease 5705 5710	慢性肾脏病
+T717	Anatomy 5722 5725	肾小球
+T718	Disease 5733 5738	慢性肾脏病
+T719	Drug 5752 5755;5756 5761	抑制尿 酸生成药物
+T720	Drug 5764 5771	促尿酸排泄药物
+T721	Test 5773 5776	肾功能
+T722	Drug 5782 5783;5784 5786	别 嘌醇
+T723	Amount 5795 5798	低剂量
+T724	Drug 5827 5831	非布司他
+T725	Level 5832 5835	轻中度
+T726	Disease 5835 5840	肾功能不全
+T727	Level 5851 5854	轻中度
+T728	Disease 5854 5857	肝损伤
+T729	Drug 5899 5903	非布司他
+T730	Drug 5916 5919	别嘌醇
+T731	Disease 5965 5968;5969 5971	肾功能 不全
+T732	Level 5963 5965	重度
+T733	Disease 5956 5962	尿酸性肾石症
+T734	Amount 5946 5955	50 1TIg/a
+T735	Test 5972 5976	eGFR
+T736	Test_Value 5976 5997	<20 ml-rain~·1.73 m‘2
+T737	Disease 6026 6028	痛风
+T738	Disease 6011 6016	慢性肾脏病
+T739	Treatment 6041 6043	透析
+T740	Duration 6051 6053	短期
+T741	Amount 6055 6058	小剂量
+T1027	Disease 3547 3550	HUA
+T1028	Disease 3626 3629	HUA
+T1029	Disease 3719 3722	HUA
+T1099	Test 3681 3684	肾功能
+T1101	Test 4259 4263	心肾功能
+T1102	Test 4330 4333	肾功能
+T1103	Test 4440 4443	肾功能
+T1144	Test 6 8	尿酸
+T1148	Test 36 38	尿酸
+T1149	Test 98 100	尿酸
+T1150	Test 183 185	尿酸
+T1155	Test 478 480	尿酸
+T1156	Test 686 688	尿酸
+T1157	Test 1899 1901	尿酸
+T1158	Test 1918 1920	尿酸
+T1159	Test 1942 1944	尿酸
+T1160	Test 2260 2262	尿酸
+T1161	Test 3182 3184	尿酸
+T1162	Test 3209 3211	尿酸
+T1163	Test 3223 3225	尿酸
+T1164	Test 3232 3234	尿酸
+T1165	Test 3419 3421	尿酸
+T1169	Test 3468 3470	尿酸
+T1172	Test 3550 3552	尿酸
+T1174	Test 3674 3676	尿酸
+T1178	Test 3816 3818	尿酸
+T1180	Test 3877 3879	尿酸
+T1183	Test 4016 4018	尿酸
+T1193	Test 4601 4603	尿酸
+T1194	Test 4647 4649	尿酸
+T1195	Test 4659 4661	尿酸
+T1199	Test 4808 4810	尿酸
+T1203	Test 5339 5341	尿酸
+T1206	Test 5714 5716	尿酸
+T1207	Test 5725 5727	尿酸
+T1211	Test 6019 6021	尿酸
+T1259	Drug 5648 5653	糖皮质激素
+T1260	Drug 6058 6061;6062 6064	糖皮质 激素
+T1299	Disease 1905 1907	痛风
+T1300	Disease 1955 1957	痛风
+T1301	Disease 2245 2247	痛风
+T1302	Disease 2273 2275	痛风
+T1303	Disease 2287 2289	痛风
+T1304	Disease 2340 2342	痛风
+T1306	Disease 2783 2785	痛风
+T1317	Test 694 695;696 697	尿 酸
+T1	SideEff 245 250	心血管事件
+T2	Drug 57 68	rasburicase
+T3	Drug 75 86	pegloticase
+T4	Anatomy 303 308	URATl
+T5	Anatomy 309 316	有机酸转运子4
+T6	Anatomy 317 321	OAT4
+T7	Drug 288 297	1esinurad
+T8	Level 394 400	G3b~5期
+T9	Drug 422 427	降尿酸药物
+T10	Drug 431 436;437 439	促尿酸排泄 药物
+T11	SideEff 604 609	钠负荷过重
+T12	SideEff 610 613	高血压
+T13	Level 762 767	G4—5期
+T14	Disease 823 826	关节炎
+T15	Drug 885 891	NSAIDs
+T16	Anatomy 1003 1006	白细胞
+T17	SideEff 1202 1207	胃肠道反应
+T18	SideEff 1251 1252;1253 1256	肾 脏损害
+T19	Disease 1270 1275	肾功能损害
+T20	SideEff 1293 1297	骨髓抑制
+T21	Test 1305 1307;1308 1309	血常 规
+T22	Drug 1321 1327	NSAIDs
+T23	Drug 1371 1378;1379 1382	NSAIDs速 效制剂
+T24	Drug 1383 1393	非选择性COX抑制剂
+T25	Drug 1448 1456	COX一2抑制剂
+T26	Drug 1431 1433;1434 1442	非选 择性COX抑制剂
+T27	SideEff 1418 1425	胃肠道不良反应
+T28	SideEff 1458 1462;1463 1466	胃肠道不 良反应
+T29	Drug 1507 1513	NSAIDs
+T30	Disease 1534 1539	心血管事件
+T31	Drug 1522 1530	COX4抑制齐4
+T32	Drug 1565 1571	NSAIDs
+T33	Level 1592 1597	G4~5期
+T34	Level 1634 1636	较重
+T35	Symptom 1637 1641	全身症状
+T36	Level 1990 1992	轻度
+T37	Level 2014 2016	中度
+T38	Level 2047 2049	重度
+T39	SideEff 2086 2095;2096 2103	胃肠道、心血管、肾 损伤等不良反应
+T40	Amount 2164 2167	小剂量
+T41	Symptom 2391 2396	痛风石较大
+T42	Symptom 2397 2401	压迫神经
+T43	Symptom 2402 2407	痛风石破溃
+T44	Symptom 2408 2412	经久不愈
+T45	Symptom 2709 2715	肿痛迁延反复
+T46	Disease 3462 3466	肾脏疾病
+T47	Disease 3494 3498	肾脏疾病
+T48	Anatomy 3558 3565	肾髓质问质组织
+T49	Level 3840 3846	G2期及以上
+T50	Anatomy 4023 4026	肾小管
+T51	Disease 4451 4458	肿瘤溶解综合征
+T52	Symptom 4717 4722	血肌酐升高
+T53	Anatomy 4834 4836	肾脏
+T54	Disease 4836 4838;4839 4847	黄嘌 呤、次黄嘌呤结石
+T55	Disease 4910 4916	尿酸性肾石症
+T56	Disease 4959 4961	肿瘤
+T57	Disease 4925 4929	尿酸结石
+T58	Disease 4990 4996	尿酸性肾石症
+T59	Disease 5401 5404	肾结石
+T60	Disease 5493 5498	尿酸性结石
+T61	Drug 5638 5644	NSAIDs
+T62	Level 5844 5849	G1~3期
+T63	Level 5860 5875	Child—Pugh分级A/B
+T64	Level 5887 5892	G4~5期
+T65	SideEff 5903 5905;5906 5911	超敏 反应综合征
+T66	Drug 5923 5930	促尿酸排泄药物

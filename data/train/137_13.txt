@@ -1,0 +1,246 @@
+基础研究
+基金项目:国家自然科学基金项目(81070640,30971388)
+蒋先淑、瞿文娟、郭耘菘、李志勇);重庆医科大学附属第二医院内分泌
+科(杨刚毅);重庆医科大学检验系临床生化教研室,教育部实验诊断重
+点实验室(李伶)
+锌指蛋白 3 在普通 C57BL / 6J 小鼠组织器官中
+的表达差异及利拉鲁肽对其在 C57BL / 6J 和
+db / db 小鼠肝脏表达的影响
+潘红霞  蒋先淑  瞿文娟  郭耘菘  杨刚毅  李伶  李志勇
+[摘要]   目的  观察小鼠各组织中锌指蛋白 3(zinc-finger BED domain-containing 3, ZBED3)的表达差
+异及利拉鲁肽、葡萄糖和胰岛素刺激对 C57BL / 6J 和 db / db 小鼠肝脏 ZBED3 表达的影响。 方法 实时定量
+PCR 法比较 C57BL / 6J 小鼠各组织中 ZBED3 mRNA 表达差异,Western 印迹检测 ZBED3 在 C57BL / 6J 和
+db / db 小鼠肝脏的蛋白表达差异及观察不同浓度利拉鲁肽、葡萄糖、胰岛素对 C57BL / 6J 和 db / db 小鼠肝脏
+ZBED3 表达的影响。 结果 小鼠肌肉、脾脏、肾脏、脑、脂肪、心脏、肺、肝脏均有 ZBED3 mRNA 表达,其中肌
+肉表达最高。 与 C57BL / 6J 小鼠相比,db / db 小鼠肝脏 ZBED3 蛋白表达显著升高(P<0. 01)。 高浓度利拉
+鲁肽、葡萄糖、胰岛素均能够显著增加 db / db 小鼠肝脏 ZBED3 蛋白表达(P<0. 05);其次,高浓度葡萄糖能
+明显增加 C57BL / 6J 小鼠肝脏 ZBED3 表达(P<0. 01),而高浓度利拉鲁肽、胰岛素对 C57BL / 6J 小鼠肝脏
+ZEBD3 表达无明显影响。 结论 ZBED3 可能作为一种新因子参与糖代谢,且利拉鲁肽、葡萄糖及胰岛素均
+能够调节 db / db 小鼠肝脏 ZBED3 的表达,因此,本研究推测 ZBED3 可能在机体糖代谢中发挥着重要的作
+用。
+[关键词]   锌指蛋白 3; 葡萄糖; 胰岛素; 利拉鲁肽
+Zinc-finger BED domain-containing 3 expression in tissues of various organs in normal C57BL / 6J mice and
+the changes in the ZBED3 expression levels affected by liraglutide in C57BL / 6J mice and db / db mice Pan
+Hongxia*, Jiang Xianshu, Qu Wenjuan, Guo Yunsong, Yang Gangyi, Li Ling, Li Zhiyong. *Department of
+Endocrinology, Yongchuan Hospital, Chongqing Medical University, Chongqing 402160, China
+[Abstract]  Objective   To compare zinc-finger BED domain-containing 3 ( ZBED3) expression in various
+tissues of C57BL / 6J mice and the effects of liraglutide, glucose, and insulin on the levels of ZBED3 protein expression
+in C57BL / 6J mice and db / db mice. Methods The mRNA level of ZBED3 in various tissues of C57BL / 6J mice was
+measured by realtime PCR. The protein level of ZBED3 was measured by using western blot. Results ZBED3 mRNA
+levels were detected in muscle, spleen, kidney, brain, heart, lung, and liver of C57BL / 6J mice, yielding the highest
+expression in muscle. Additionally, The liver ZBED3 levels were higher in db / db mice compared with C57BL / 6J mice
+(P<0. 01) . Furthermore, the protein expression of ZBED3 was significantly increased in liver tissues of db / db mice
+treated with high concentrations of liraglutide, glucose or insulin(P<0. 05), however, the expression of ZBED3 only
+responded to high concentration of glucose in liver tissues of C57BL / 6J mice. Conclusion ZBED3 may act as a novel
+factor in regulating glucose metabolism. The expression of ZBED3 can be regulated by liraglutide, glucose, and
+insulin. Thus, ZBED3 may play an important role in conditioning of hyperglycemia.
+[Key words]  Zinc-finger BED domain-containing 3; Glucose; Insulin; Liraglutide
+(Chin J Endocrinol Metab, 2014, 30: 689-692)
+Wnt 信号通路在细胞的分化、增殖、凋亡、细胞癌
+变、肥胖和糖尿病、肿瘤侵袭等病理生理过程中起重要
+作用。 β-Catenin 在 Wnt 信号通路的调控中处于中心
+地位。 β-Catenin 的浓度受 Axin / GSK-3 / APC 复合体调
+控,这一复合体由 Axin 蛋白(轴蛋白)的不同区域分别
+结合 GSK3、CK1-α、β-Catenin 形成[1]。 Axin 是一个轴
+发育抑制因子( axis inhibitor),也是一个肿瘤抑制因
+子,在个体发育、细胞增殖及癌变等过程中起着关键作
+用[2]。 而 Axin 的功能通常通过其配体作用得以调
+节[3]。 最近研究显示,锌指蛋白 3 ( zinc-finger BED
+domain-containing 3, ZBED3)是一种新的 Axin 结合蛋
+白,据此推测 ZBED3 可通过 Wnt 信号通路参与机体的
+重要生理病理过程。 本研究组前期研究发现,ZBED3
+作为一种新的分泌性蛋白,与机体胰岛素抵抗密切相
+关[4];然而,关于二者之间具体关系及作用机制尚不
+完全明确。 因此,本研究拟对野生小鼠各组织中的
+ZBED3 表达进行检测;采用常见分子生物学手段对作
+为机体糖脂代谢的枢纽———肝脏组织中的 ZBED3 表
+达进行检测,进而初步探讨 ZBED3 在调节糖代谢中发
+挥的作用,以期为 2 型糖尿病的发生发展提供新的理
+论基础。
+材料和方法
+一、 动物饲养及分组处理
+8 周龄雄性 db / db 小鼠(购于北京大学动物中心)
+及 8 周龄雄性 C57BL / 6J 小鼠(购于重庆医科大学动
+物中心)各 6 只,分别作为实验组和对照组。 实验前
+均适应性喂养 1 周,2 组小鼠分笼喂养,普通饮食,明
+暗周期为 12 h(8 : 00 ~ 20 : 00),温度控制在(23 ±
+2)益。 8 周后断颈处死,采集肝脏用于体外肝组织原
+代培养,同时取肌肉、脾脏、肾脏、脑、脂肪、心脏、肺等
+组织器官用于总蛋白和 RNA 的提取。 实验过程中对
+动物的饲养及取材均遵守重庆医科大学动物管理与保
+护的有关规定。
+二、 方法
+1. 小鼠肝脏组织块的分离及培养:分别取 2 组小
+鼠肝脏组织 50 mg,利用 D-hank忆s 液(Gibco)轻柔洗涤
+3 次,紫外照射的无菌滤纸吸净组织液体,无菌方式将
+洗涤的 50 mg 肝脏组织平均剪成约每块 5 mg,置于温
+度为 25℃的 D-Hank忆s 溶液中进行润洗,然后,将其均
+匀置于含有 DMEM 培养基(Gibco)的六孔板中进行无
+菌培养。 按照指定时间给予不同浓度的胰岛素(1、10
+及 100 nmol / L)或葡萄糖(5、10、20 及 40 mmol / L)或利
+拉鲁肽(10 及 100 nmol / L)分别进行作用,无菌收集培
+养的组织,离心,弃上清,留取组织,保存于液氮中用于
+检测蛋白表达。
+2. 荧光实时定量 PCR ( RT-PCR) 测定 ZBED3
+mRNA 表达:取 C57BL / 6J 小鼠肌肉、脾脏、肾脏、脑、
+脂肪、 心 脏、 肺、 肝 脏 等 组 织, 采 用 Trizol ( Life
+technology,美 国 ) 提 取 组 织 总 RNA, 逆 转 录 合 成
+cDNA,采用 SYBR Green I 荧光染料通过实时定量 PCR
+方法检测 ZBED3 mRNA 表达,引物序列分别为 5'-
+ACTGGGCACGCCTGTTGG-3'和 5'-CGGGGCTCTGCTT-
+CTTTA-3',以 β-actin 为内参,引物序列( Invitrogen,上
+海)分别为 5'-GCTGTCCCTGTATGCCTCT-3'和 5'-GAT-
+GTCACGCACGATTTC-3',用 2-△△Ct 值计算其相对表达
+量。
+3. Western 印迹法检测 ZBED3 蛋白表达:提取肝
+脏组织,±比例加入蛋白裂解液(RIPA)、蛋白酶抑制
+剂(PMSF)4℃充分裂解 30 min,低温 12 000 转 / min 离
+心 35 min,留取上清,利用 BCA 法检测蛋白浓度;每泳
+道加入约 60 μg 蛋白进行 SDS-PAGE 蛋白电泳,经湿
+转转于 PVDF 膜,利用 5%脱脂奶粉室温封闭 1 h,依次
+加入稀释的抗 ZBED3(Abcam,英国)抗体、辣根过氧
+化物酶标记的二抗进行反应并依次洗脱,加入化学发
+光试剂后置化学发光成像系统进行成像检测,利用
+Quantity One 软件进行图像灰度值分析,以各目的与内
+参条带灰度值之比表示目的蛋白的相对表达量。
+三、 统计学处理
+各项指标均以 x-± s 表示,非正态分布数据采取自
+然对数转换。 两组间比较采用 t 检验,多组间比较采
+用方差分析,组内两两比较采用 SNK 法。 SPSS 16. 0
+统计软件处理所有数据,以 P<0. 05 认为差异有统计
+学意义。
+结    果
+一、 C57BL / 6J 小鼠各组织 ZBED3 mRNA 的相对
+表达水平
+通过 RT-PCR 对 ZBED3 在 C57BL / 6J 小鼠多个组
+织中的表达进行检测,如图 1 所示,其中肌肉、脾脏、肾
+脏、脑、脂肪、心脏、肺、肝脏均有 ZBED3 表达,以肌肉
+表达最高,肝脏表达最低。
+注:ZBED3:锌指蛋白 3 Zinc-finger BED domain-containing 3
+图 1  ZBED3 在 C57BL / 6J 各组织中的 mRNA 相对表达分布
+Fig 1  The tissue distribution of ZBED3 mRNA in C57BL / 6J mice
+二、 C57BL / 6J 小鼠与 db / db 小 鼠 肝 脏 组 织
+ZBED3 蛋白表达差异
+如图 2 所示,db / db 小鼠肝脏组织中 ZBED3 蛋白
+表达显著高于 C57BL / 6J 小鼠(P<0. 01)。
+三、 利拉鲁肽干预后 C57BL / 6J 小鼠与 db / db 小
+注: ZBED3: 锌指蛋白 3 Zinc-finger BED domain-containing 3; vs
+C57BL / 6J, aP<0. 01
+图 2  C57BL / 6J 小鼠与 db / db 小鼠肝脏组织 ZBED3 蛋白表达
+Fig 2  ZBED3 protein expressions in liver tissues of C57BL / 6J and db / db
+mice
+注: ZBED3: 锌指蛋白 3 Zinc-finger BED domain-containing 3; vs
+C57BL / 6J, aP<0. 01;vs 10 nmol / L, bP<0. 05
+图 3  利拉鲁肽刺激后小鼠肝脏组织 ZBED3 蛋白表达
+Fig 3   ZBED3 protein expressions in liver tissues of mice after liraglutide
+stimulation
+鼠肝脏组织 ZBED3 蛋白表达差异
+10 nmol / L 和 100 nmol / L 浓度的利拉鲁肽干预 2 h
+后, db / db 小鼠肝脏组织 ZBED3 蛋白表达均明显高于
+C57BL / 6J 小鼠(P<0. 01);100 nmol / L 的利拉鲁肽干
+预组 db / db 小鼠肝脏组织 ZBED3 蛋白表达显著高于
+10 nmol / L 组 (P < 0. 05)。 C57BL / 6J 小鼠肝脏组织
+ZBED3 蛋白表达与利拉鲁肽浓度无关(P >0. 05,图
+3)。
+四、 葡萄糖刺激后 C57BL / 6J 小鼠与 db / db 小鼠
+肝脏组织 ZBED3 蛋白表达差异
+分别用 5、10、20 及 40 mmol / L 浓度的葡萄糖作用
+培养肝脏组织 24 h 后,2 组小鼠肝脏组织 ZBED3 蛋白
+表达如图 4 所示。 结果显示,不同浓度葡萄糖刺激
+ZBED3 的蛋白表达量呈现浓度依赖性:db / db 小鼠肝
+脏组织 ZBED3 蛋白表达量在 10 mmol / L 浓度作用下
+达高 峰, 而 C57BL / 6J 小 鼠 在 20 mmol / L 浓 度 下
+ZBED3 蛋白表达最高;之后,随着浓度增加,ZBED3 蛋
+注: ZBED3:锌指蛋白 3 Zinc-finger BED domain-containing 3; vs 0
+mmol / L, aP<0. 01;vs 5 mmol / L, bP<0. 01;vs 10 mmol / L, cP<0. 01;vs 20
+mmol / L, dP<0. 01
+图 4  葡萄糖刺激后小鼠肝脏组织 ZBED3 蛋白表达
+Fig 4  ZBED3 protein expressions in liver tissues after glucose stimulation
+注: ZBED3: 锌指蛋白 3 Zinc-finger BED domain-containing 3; vs
+C57BL / 6J, aP<0. 05, bP<0. 01;vs 1 nmol / L, cP<0. 05, dP<0. 01;vs 10
+nmol / L, eP<0. 05
+图 5  胰岛素刺激后小鼠肝脏组织 ZBED3 蛋白表达
+Fig 5   ZBED3 protein expressions in liver tissues in C57BL / 6J and db / db
+mice after insulin stimulation
+白表达逐渐降低。 在各浓度作用下,db / db 小鼠肝脏
+组织 ZBED3 蛋白表达量均明显高于 C57BL / 6J 小鼠
+(P<0. 05 或 P<0. 01)。
+五、 胰岛素刺激后 C57BL / 6J 小鼠与 db / db 小鼠
+肝脏组织 ZBED3 蛋白表达差异
+分别用 1、10 和 100 nmol / L 浓度的胰岛素刺激 2 h
+后,2 组小鼠肝脏组织 ZBED3 蛋白表达如图 5 所示。
+db / db 小鼠肝脏组织 ZBED3 蛋白表达量显著高于
+C57BL / 6J 小鼠(P<0. 01);随着胰岛素浓度的增高,
+db / db 小鼠肝脏组织 ZBED3 蛋白表达逐渐升高(P<
+0. 01 或 P<0. 05),而 C57BL / 6J 小鼠肝脏组织 ZBED3
+蛋白表达无明显变化(P>0. 05)。
+讨    论
+近年研究提示 Wnt 通路能促进胰岛 β 细胞的增
+殖并诱导葡萄糖刺激的胰岛素分泌[5]。 Wnt 通路中的
+Axin 复合体处于调节稳态,CK1α 和 GSK3 可以磷酸
+化 Axin、APC,促进复合体的形成[6]。 Chen 等[7] 研究
+发现 ZBED3 包含 PPPPSPT 结构,该片段可以与 Axin
+紧密结合从而参与 Axin 复合体的调节,是一种新的能
+活化 Wnt 信号通路的 Axin 相关蛋白。 因此本研究推
+测 ZBED3 可能参与机体糖代谢,在糖尿病的发生和发
+展起重要作用。
+本研究分析了 ZBED3 mRNA 在 C57BL / 6J 小鼠组
+织中的分布情况,结果显示 ZBED3 在小鼠多个组织中
+均有不同程度的表达,提示其表达具有广泛性。 但其
+mRNA 相对表达量以肌肉最高, 肝脏最低, 推测
+ZBED3 可能作为“肌肉因子冶参与运动相关的代谢调
+节,具体的机制尚不明确。
+肝脏作为机体的“加工厂冶,是糖脂代谢的重要器
+官,因此本研究选用肝脏组织进行离体培养及进行相
+关研究,初步探讨 ZBED3 在糖脂代谢中的作用。 本研
+究显示,db / db 小鼠肝脏组织 ZBED3 蛋白表达明显高
+于野生对照 C57BL / 6J 小鼠,两者表达的差异性提示
+ZBED3 可能在血糖升高时参与糖代谢调节。
+利拉鲁肽 ( Liraglutide) 作为长效胰升糖素样肽
+(glucagon like peptide, GLP)-1 类似物,可以促进 β 细
+胞的再生,刺激其增殖并抑制其凋亡,从而增加胰
+岛 β 细胞的数量和质量。 另有研究报道细胞内
+GLP-1 对 Wnt 信号通路起着负反馈调节的作用,而
+Wnt / β-catenin 通路也可促进 GLP-1 的表达[8,9]。 因此
+本研究分别用不同浓度利拉鲁肽作用离体肝脏组织,
+观察利拉鲁肽对 ZBED3 蛋白表达的影响。 结果显示
+在 db / db 小鼠肝脏组织块 ZBED3 蛋白的表达在 100
+nmol / L 浓度的利拉鲁肽处理组显著高于 10 nmol / L 浓
+度的利拉鲁肽处理组,提示利拉鲁肽与胰岛素一样能
+够促进 ZBED3 的表达,且有浓度依赖性。 然而 GLP-1
+是通过影响胰岛素间接发挥作用还是通过其特异性受
+体直接调节 ZBED3 的表达尚需进一步研究。
+为进一步了解其在糖代谢中的作用,本研究观察
+了不同浓度高糖及高胰岛素对 ZBED3 表达的影响。
+分别以不同浓度的葡萄糖对肝脏组织块进行处理后,
+db / db 小鼠肝脏组织 ZBED3 蛋白表达随着葡萄糖浓
+度的升高而升高,在 10 mmol / L 浓度时表达达峰,但之
+后 ZBED3 的表达随着葡萄糖浓度的上升而下降。 提
+示葡萄糖可以刺激 ZBED3 分泌,但超过一定阈值,则
+会抑制 ZBED3 的释放。 因此,本研究推测葡萄糖对
+ZBED3 的调节可能就如同葡萄糖对胰岛素释放的调
+节一样:葡萄糖调节肝脏 ZBED3 分泌,高糖毒性会抑
+制 ZBED3 表达。 本研究还观察到,C57BL / 6J 小鼠和
+db / db 小鼠肝脏组织块在受到高浓度葡萄糖刺激时,
+ZBED3 蛋白表达的最大作用浓度不同———db / db 小鼠
+的最大作用浓度低于 C57BL / 6J 小鼠,这可能与两种
+小鼠的胰岛素敏感性不同有关。 同样,采用不同浓度
+的胰岛素刺激肝脏组织块后, db / db 小鼠肝脏组织
+ZBED3 蛋白表达随胰岛素浓度的升高而升高的,提示
+胰岛素能够刺激 ZBED3 的表达且 ZBED3 的表达具有
+明显的胰岛素浓度依赖性。
+无论利拉鲁肽、葡萄糖及胰岛素均能影响 db / db
+小鼠肝脏 ZBED3 的表达;而利拉鲁肽、胰岛素均对野
+生对照 C57BL / 6J 小鼠 ZBED3 的表达无影响,仅高浓
+度葡萄糖刺激使 ZBED3 表达上升。 综上所述,本研究
+推测 ZBED3 主要在机体糖代谢失调时或者受到较高
+浓度葡萄糖刺激时发挥代偿作用。
+总之,本研究提示 ZBED3 与糖代谢关系密切,
+ZBED3 表达升高可能是针对高血糖的一种代偿
+和保护机制,起着阻止 2 型糖尿病发生发展的作用。
+ZBED3 因其特殊结构与 Axin 等结合形成降解复
+合物,使得 β-Catenin 不能被依次磷酸化, 而使下
+游β-Catenin 浓度上升,进而进入细胞核以发挥作用,
+而高糖、高胰岛素情况下,机体表达更多的 ZBED3 以
+代偿,但其具体的作用机制目前尚不明确,需要进一步
+的研究证实。

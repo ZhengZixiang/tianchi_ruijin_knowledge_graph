@@ -1,0 +1,377 @@
+T1	Disease 153 159	2 型糖尿病
+T2	Disease 178 184	2 型糖尿病
+T3	Disease 1245 1251	2 型糖尿病
+T4	Disease 1516 1522	2 型糖尿病
+T5	Disease 1723 1729	2 型糖尿病
+T6	Disease 2437 2443	2 型糖尿病
+T7	Disease 2510 2516	2 型糖尿病
+T8	Disease 2575 2581	2 型糖尿病
+T9	Disease 2684 2690	2 型糖尿病
+T10	Disease 2929 2935	2 型糖尿病
+T11	Disease 2941 2947	2 型糖尿病
+T12	Disease 3051 3057	2 型糖尿病
+T13	Disease 3164 3170	2 型糖尿病
+T14	Disease 3221 3227	2 型糖尿病
+T15	Disease 3288 3294	2 型糖尿病
+T16	Disease 5144 5150	2 型糖尿病
+T17	Disease 5348 5351;5352 5355	2 型 糖尿病
+T18	Disease 5459 5465	2 型糖尿病
+T19	Disease 5562 5568	2 型糖尿病
+T20	Disease 6331 6337	2 型糖尿病
+T21	Disease 6440 6446	2 型糖尿病
+T22	Disease 3641 3642;3643 3647	2 型糖尿病
+T23	Disease 5407 5408;5409 5413	2 型糖尿病
+T24	Test 6373 6378	HBA1C
+T25	Test 5172 5181	高密度脂蛋白胆固醇
+T26	Test 5586 5595	高密度脂蛋白胆固醇
+T27	Test 5182 5187;5188 5192	低密度脂蛋 白胆固醇
+T28	Test 6484 6488	体重指数
+T29	Disease 5292 5297	代谢综合征
+T30	Disease 5318 5323	代谢综合征
+T31	Disease 2582 2587	糖尿病前期
+T32	Disease 5151 5156	糖尿病前期
+T33	Test 5257 5262	游离脂肪酸
+T34	Anatomy 95 99	β 细胞
+T35	Anatomy 2372 2376	β 细胞
+T36	Anatomy 2390 2394	β 细胞
+T37	Anatomy 2407 2411	β 细胞
+T38	Anatomy 2983 2987	β 细胞
+T39	Anatomy 3122 3126	β 细胞
+T40	Anatomy 4777 4781	β 细胞
+T41	Anatomy 6562 6566	β 细胞
+T42	Anatomy 3674 3678	脂肪细胞
+T43	Anatomy 3696 3700	脂肪细胞
+T44	Anatomy 3715 3719	脂肪细胞
+T45	Anatomy 3728 3732	脂肪细胞
+T46	Anatomy 3782 3786	脂肪细胞
+T47	Anatomy 3800 3804	脂肪细胞
+T48	Anatomy 3880 3884	脂肪细胞
+T49	Anatomy 3917 3921	脂肪细胞
+T50	Anatomy 3955 3959	脂肪细胞
+T51	Anatomy 4043 4047	脂肪细胞
+T52	Anatomy 4782 4786	脂肪细胞
+T53	Anatomy 5946 5950	脂肪细胞
+T54	Anatomy 6031 6035	脂肪细胞
+T55	Anatomy 6083 6084;6085 6088	脂 肪细胞
+T56	Anatomy 6580 6584	脂肪细胞
+T57	Anatomy 6618 6622	脂肪细胞
+T58	Test 4289 4293	甘油三酯
+T59	Test 5163 5167	甘油三酯
+T60	Test 5380 5384	甘油三酯
+T61	Test 5668 5672	甘油三酯
+T62	Test 6018 6020;6021 6023	甘油 三酯
+T63	Test 3131 3135	餐后血糖
+T64	Test 5921 5923	体重
+T65	Test 5943 5945	体重
+T66	Test 6024 6026	体重
+T67	Test 6313 6315	体重
+T68	Test 6518 6520	体重
+T69	Disease 5638 5643;5644 5645	2 型糖尿 病
+T70	Test 5423 5429	低密度脂蛋白
+T71	Anatomy 1986 1990	脂肪组织
+T72	Anatomy 4104 4108	脂肪组织
+T73	Anatomy 4233 4237	脂肪组织
+T74	Anatomy 5878 5882	脂肪组织
+T75	Anatomy 2176 2180	GIPR
+T76	Anatomy 2918 2922	GIPR
+T77	Anatomy 3182 3186	GIPR
+T78	Anatomy 3242 3246	GIPR
+T79	Anatomy 3365 3369	GIPR
+T80	Anatomy 3393 3397	GIPR
+T81	Anatomy 3768 3772	GIPR
+T82	Anatomy 3888 3892	GIPR
+T83	Anatomy 4704 4708	GIPR
+T84	Anatomy 4788 4792	GIPR
+T85	Anatomy 5934 5938	GIPR
+T86	Anatomy 6626 6630	GIPR
+T87	Test 4360 4363;4364 4365	甘油三 酯
+T88	Test 6479 6482	AUC
+T89	Test 2272 2274	血糖
+T90	Test 2309 2311	血糖
+T91	Test 2424 2426	血糖
+T92	Test 2730 2732	血糖
+T93	Test 2876 2878	血糖
+T94	Test 3140 3141;3142 3143	血 糖
+T95	Test 3433 3435	血糖
+T96	Test 3526 3528	血糖
+T97	Test 4532 4534	血糖
+T98	Test 4561 4563	血糖
+T99	Anatomy 73 86	葡萄糖依赖性促胰岛素释放肽
+T100	Anatomy 87 90	GIP
+T101	Anatomy 101 104	胰岛素
+T102	Disease 111 113	肥胖
+T103	Anatomy 133 136	GIP
+T104	Disease 143 145	肥胖
+T105	Disease 185 187	肥胖
+T106	Disease 1252 1254	肥胖
+T107	Anatomy 1176 1179	胰岛素
+T108	Anatomy 1187 1191	肠促胰素
+T109	Anatomy 1210 1213	GIP
+T110	Anatomy 1227 1230	GIP
+T111	Anatomy 1268 1271	GIP
+T112	Anatomy 1281 1284	GIP
+T113	Anatomy 1290 1294	十二指肠
+T114	Anatomy 1295 1297	空肠
+T115	Anatomy 1298 1306;1307 1308	内分泌性 K 细 胞
+T116	Anatomy 1373 1376	GIP
+T117	Anatomy 1396 1399	GIP
+T118	Anatomy 1439 1442	GIP
+T119	Anatomy 1489 1492	GIP
+T120	Anatomy 1453 1455	肠道
+T121	Anatomy 1539 1542	GIP
+T122	Test 1568 1571	GIP
+T123	Test_Value 1580 1596	10 ~ 20 pmol / L
+T124	Anatomy 1656 1659	GIP
+T125	Anatomy 1760 1767	二肽基肽酶-4
+T126	Anatomy 1801 1804	GIP
+T127	Disease 1813 1816	尿毒症
+T128	Disease 1817 1818;1819 1823	慢 性肾衰竭
+T129	Anatomy 1840 1842	肾脏
+T130	Anatomy 1849 1852	GIP
+T131	Anatomy 1860 1862	肾脏
+T132	Anatomy 1864 1867	GIP
+T133	Disease 1904 1907	肾衰竭
+T134	Anatomy 1912 1915	GIP
+T135	Anatomy 1934 1940	GIP 受体
+T136	Anatomy 1941 1947	GIP 受体
+T137	Anatomy 1978 1980	胰腺
+T138	Anatomy 1991 1995;1996 1997	肾上腺皮 质
+T139	Anatomy 1998 2000	垂体
+T140	Anatomy 2001 2003	心脏
+T141	Anatomy 2004 2006	睾丸
+T142	Anatomy 2007 2011	内皮细胞
+T143	Anatomy 2012 2015	骨细胞
+T144	Anatomy 2016 2018	气管
+T145	Anatomy 2019 2021	胸腺
+T146	Anatomy 2022 2023	肺
+T147	Anatomy 2024 2025	肾
+T148	Anatomy 2026 2027;2028 2030	甲 状腺
+T149	Anatomy 2031 2033	大脑
+T150	Anatomy 2041 2047	GIP 受体
+T151	Anatomy 2057 2063	GIP 受体
+T152	Anatomy 2096 2099	GIP
+T153	Anatomy 2103 2118	葡萄糖依赖性促胰岛素释放肽受体
+T154	Anatomy 2254 2257	GIP
+T155	Disease 2259 2262	糖尿病
+T156	Anatomy 2266 2269	GIP
+T157	Anatomy 2282 2285	GIP
+T158	Anatomy 2299 2302	胰岛素
+T159	Anatomy 2332 2335	胰岛素
+T160	Anatomy 2430 2433	GIP
+T161	Disease 2535 2537	肥胖
+T162	Anatomy 2546 2549	胰岛素
+T163	Anatomy 2629 2633	胰升糖素
+T164	Test 2661 2664	GIP
+T165	Test 2801 2804	GIP
+T166	Anatomy 2857 2864	肠道 K 细胞
+T167	Anatomy 2893 2897	肠促胰素
+T168	Anatomy 2907 2910	GIP
+T169	Anatomy 2966 2969	胰岛素
+T170	Anatomy 2989 2992	GIP
+T171	Anatomy 3005 3008	GIP
+T172	Anatomy 3038 3039;3040 3042	胰 岛素
+T173	Anatomy 3065 3068	GIP
+T174	Anatomy 3075 3078	胰岛素
+T175	Test_Value 3137 3139	升高
+T176	Disease 3155 3160	糖耐量受损
+T177	Anatomy 3197 3200	GIP
+T178	Anatomy 3323 3326	胰岛素
+T179	Disease 3355 3358	糖尿病
+T180	Anatomy 3445 3448	GIP
+T181	Disease 3455 3457	肥胖
+T182	Test_Value 3438 3440	提高
+T183	Anatomy 3458 3461	GIP
+T184	Anatomy 3505 3508	GIP
+T185	Anatomy 3515 3516;3517 3519	胰 岛素
+T186	Anatomy 3553 3556	GIP
+T187	Disease 3594 3596	肥胖
+T188	Disease 3631 3633	肥胖
+T189	Anatomy 3664 3667	GIP
+T190	Anatomy 3681 3687	GIP 受体
+T191	Anatomy 3707 3710	GIP
+T192	Anatomy 3723 3726	GIP
+T193	Anatomy 3793 3796	GIP
+T194	Anatomy 3859 3862	aP2
+T195	Anatomy 3808 3817	脂肪酸结合蛋白 2
+T196	Drug 3925 3934	GIP 受体拮抗剂
+T197	Anatomy 3936 3939	GIP
+T198	Anatomy 3984 3987	GIP
+T199	Anatomy 4057 4061	儿茶酚胺
+T200	Anatomy 4062 4065;4066 4068	胰高血 糖素
+T201	Anatomy 4125 4128	胰岛素
+T202	Anatomy 4169 4172	GIP
+T203	Anatomy 4176 4179	胰岛素
+T204	Anatomy 4193 4196	GIP
+T205	Anatomy 4200 4203	胰岛素
+T206	Anatomy 4225 4228	GIP
+T207	Anatomy 4251 4254	GIP
+T208	Anatomy 4323 4326	胰岛素
+T209	Anatomy 4334 4337	GIP
+T210	Anatomy 4346 4350	蛋白酯酶
+T211	Anatomy 4435 4438	GIP
+T212	Test 4517 4522	糖耐量试验
+T213	Test 4535 4537;4538 4539	胰岛 素
+T214	Test 4540 4543	GIP
+T215	Test 4564 4567	胰岛素
+T216	Test 4569 4572	GIP
+T217	Test 4629 4634	糖耐量试验
+T218	Anatomy 4764 4767	GIP
+T219	Anatomy 4797 4800	胰岛素
+T220	Anatomy 4837 4840	GIP
+T221	Disease 4861 4863	肥胖
+T222	Anatomy 4867 4869	肝脏
+T223	Anatomy 4870 4872	肌肉
+T224	Anatomy 4873 4875	胰岛
+T225	Anatomy 4891 4894	胰岛素
+T226	Anatomy 4895 4899;4900 4901	胰高血糖 素
+T227	Anatomy 4942 4950	十二指肠绒毛细胞
+T228	Anatomy 5004 5007	GIP
+T229	Anatomy 5015 5018	胰岛素
+T230	Anatomy 5045 5050	肠上皮细胞
+T231	Test 5306 5309	GIP
+T232	Disease 5358 5360	肥胖
+T233	Test 5399 5405	高密度脂蛋白
+T234	Test 5419 5422	胆固醇
+T235	Test 5433 5436	GIP
+T236	Test 5467 5470	GIP
+T237	Disease 5485 5487	肥胖
+T238	Test 5531 5534	GIP
+T239	Test 5601 5604	胆固醇
+T240	Test 5615 5618	GIP
+T241	Test 5649 5652	GIP
+T242	Disease 5689 5691	肥胖
+T243	Disease 5738 5740	肥胖
+T244	Disease 5798 5800	肥胖
+T245	Symptom 5801 5805	脂肪变性
+T246	Anatomy 5892 5895	肝组织
+T247	Symptom 5906 5910	脂肪变性
+T248	Drug 5980 5986;5987 5988	GIP 拮抗 剂
+T249	Test 5994 5997	GIP
+T250	Disease 6006 6009	脂肪肝
+T251	Test 6014 6017	胆固醇
+T252	Test 6027 6030	体脂肪
+T253	Drug 6048 6055	GIP 拮抗剂
+T254	Anatomy 6061 6064	胰岛素
+T255	Anatomy 6073 6077	小肠上部
+T256	Anatomy 6090 6093	GIP
+T257	Anatomy 6103 6106	GIP
+T258	Anatomy 6114 6117;6118 6119	十二指 肠
+T259	Anatomy 6120 6122	空场
+T260	Anatomy 6136 6139	GIP
+T261	Anatomy 6155 6158	GIP
+T262	Operation 6168 6172	RYGB
+T263	Operation 6163 6167	胃旁路术
+T264	Anatomy 6178 6179	胃
+T265	Anatomy 6199 6201	胃部
+T266	Anatomy 6222 6224	小胃
+T267	Anatomy 6243 6245	小肠
+T268	Anatomy 6251 6253	小肠
+T269	Test_Value 6308 6312	明显下降
+T270	Operation 6340 6345	胃旁路手术
+T271	Test 6360 6363	GIP
+T272	Disease 6451 6453	肥胖
+T273	Disease 6446 6447;6448 6449	肥 胖
+T274	Anatomy 6471 6474	GIP
+T275	Disease 6495 6498	糖尿病
+T276	Disease 6501 6503	肥胖
+T277	Anatomy 6536 6539	GIP
+T278	Disease 6635 6641	高胰岛素血症
+T279	Disease 6642 6644	肥胖
+T280	Anatomy 6657 6660	GIP
+T281	Disease 6686 6689	糖尿病
+T282	Disease 6690 6692	肥胖
+T283	Treatment 1899 1903	透析治疗
+T284	Anatomy 1981 1982	胃
+T285	Anatomy 1983 1985	小肠
+T286	Test_Value 4544 4548	明显升高
+T287	Test_Value 5327 5329	增加
+T288	Test_Value 5535 5539	明显升高
+T289	Test_Value 6315 6317	减轻
+T290	Anatomy 31 44	葡萄糖依赖性促胰岛素释放肽
+T291	Disease 45 48	糖尿病
+T292	Disease 49 51	肥胖
+T293	Anatomy 1135 1137	肠道
+T294	Anatomy 1168 1170	肠道
+T295	Anatomy 1525 1527	小肠
+T296	Test_Value 1834 1836	增加
+T297	Anatomy 1953 1957	大脑皮层
+T298	Anatomy 2074 2084	G 蛋白偶联受体家族
+T299	Test_Value 2473 2475	减少
+T300	Test_Value 2476 2478	不变
+T301	Test_Value 2479 2481	升高
+T302	Test 2719 2725	静脉高糖钳夹
+T303	Reason 3106 3111;3112 3116	GIP 反 应性降低
+T304	Anatomy 3470 3473	胰岛素
+T305	Reason 3622 3630	能量富余高脂饮食
+T306	Anatomy 4003 4008	脂蛋白酯酶
+T307	Anatomy 4012 4016	蛋白酯酶
+T308	Anatomy 4027 4031	乳糜微粒
+T309	Anatomy 4091 4094	GIP
+T310	Anatomy 4262 4266	乳糜微粒
+T311	Anatomy 4304 4310	3T3-L1
+T312	Disease 5070 5072	肥胖
+T313	Anatomy 5721 5728	GIP-GFP
+T314	Anatomy 5781 5784	GIP
+T315	Anatomy 5873 5875	皮下
+T316	Anatomy 5876 5878	内脏
+T317	Anatomy 6263 6266	消化道
+T318	Test 6395 6398;6399 6400	体重指 数
+T319	Anatomy 6458 6461	GIP
+T320	Anatomy 6506 6510	肠促胰素
+T321	Anatomy 6550 6553	胰岛素
+T322	Anatomy 6594 6599	脂蛋白脂酶
+T323	Test 5234 5241	空腹游离脂肪酸
+T324	Anatomy 3967 3972	前脂肪细胞
+T325	Anatomy 4313 4319	皮下脂肪细胞
+T326	Anatomy 4238 4242	甘油三酯
+T327	Test 5571 5577	空腹甘油三酯
+T328	Anatomy 4019 4026	极低密度脂蛋白
+T329	Anatomy 3962 3966	脂肪组织
+T330	Anatomy 4033 4036;4037 4038	甘油三 酯
+T331	Test 2839 2841	血糖
+T332	Reason 146 151	胰岛素抵抗
+T333	Anatomy 172 175	GIP
+T334	Anatomy 1052 1077	葡 萄 糖 依 赖 性 促 胰 岛 素 释 放 肽
+T335	Anatomy 1126 1129	GIP
+T336	Anatomy 1466 1468	肠道
+T337	Test 1828 1831	GIP
+T338	Anatomy 2234 2240	GIP 受体
+T339	Anatomy 2343 2348	胰岛素基因
+T340	Test 2456 2462	餐后 GIP
+T341	Test 2524 2527;2528 2530	GIP 分泌
+T342	Disease 2538 2541	糖尿病
+T343	Test 2595 2603	GIP 分泌水平
+T344	Test 2610 2618	GIP 分泌总量
+T345	Test 2736 2742	GIP 水平
+T346	Reason 2770 2778	GIP 分泌受损
+T347	Test 2788 2790	血糖
+T348	Test 2818 2820	血糖
+T349	Anatomy 2825 2828	GIP
+T350	Test 2951 2957	GIP 水平
+T351	Anatomy 3017 3028	生理性促胰岛素分泌多肽
+T352	Symptom 3174 3177	高血糖
+T353	Drug 3305 3312	外源性 GIP
+T354	Disease 3338 3341	糖尿病
+T355	Anatomy 3421 3424	胰岛素
+T356	Anatomy 3617 3620	GIP
+T357	Reason 3634 3639	胰岛素抵抗
+T358	Anatomy 4275 4279	十二指肠
+T359	Test 4473 4479	GIP 水平
+T360	Reason 4885 4890	胰岛素抵抗
+T361	Test 5031 5034	GIP
+T362	Test 5085 5088	GIP
+T363	Test 5105 5108	GIP
+T364	Test 5168 5171	胆固醇
+T365	Test 5209 5212	GIP
+T366	Test 5225 5233	GIP 分泌总量
+T367	Disease 5361 5364	糖尿病
+T368	Disease 5488 5490	糖尿
+T369	Anatomy 5684 5687	GIP
+T370	Reason 5741 5746	胰岛素抵抗
+T371	Anatomy 5813 5816	GIP
+T372	Test 5859 5862	GIP
+T373	Reason 5914 5919	胰岛素抵抗
+T374	Test 5957 5962	内脏脂肪量
+T375	Operation 6290 6294	RYGB
+T376	Test 6299 6308	空腹 GIP 水平
+T377	Reason 6647 6648;6649 6653	胰 岛素抵抗

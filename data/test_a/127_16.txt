@@ -1,0 +1,233 @@
+基础研究
+基金项目:国家自然科学基金项目(30771037,81070640,30871199,
+30971388);教育部博士点基金(20105503110002);重庆市自然科学基
+金重点项目(cstc2012 jjB10022)
+临床检验诊断学重点实验室(罗小河、李伶、杜林、贾彦军、冉文侠、张亚
+丽、罗妤);重庆医科大学附属第二医院内分泌科(杨刚毅);
+JAZF1 基因对 3T3-L1 脂肪细胞 Akt 和 AMPK
+信号途径的影响
+罗小河  李伶  杨刚毅  杜林  贾彦军  冉文侠  张亚丽  罗妤
+[摘要]   目的  探讨 JAZF1(juxtaposed with another zinc finger gene 1)基因对 3T3-L1 脂肪细胞蛋白激
+酶 B(Akt)和 AMP 活化的蛋白激酶(AMPK)信号通路的影响。 方法 构建 pGenesil-JAZF1shRNA 重组质
+粒,转染 3T3-L1 脂肪细胞后分别用胰岛素或利拉鲁肽处理细胞。 2-脱氧-3H-D-葡萄糖掺入法检测细胞的
+葡萄糖摄取,Western 印迹法检测各组细胞 Akt 和 AMPK 的磷酸化水平。 结果 成功构建的 pGenesil-
+JAZF1shRNA 重组载体转染 3T3-L1 脂肪细胞后下调 JAZF1 表达,使基础和胰岛素刺激的葡萄糖摄取降低
+33. 6%和 38. 8% (均 P<0. 05)。 胰岛素或利拉鲁肽增加 3T3-L1 脂肪细胞 Akt 和 AMPK 磷酸化水平(均 P<
+0. 05),JAZF1 表达下调降低基础和 2 种激素刺激的 Akt 和 AMPK 活性(均 P<0. 05)。 结论 JAZF1 基因可
+能通过 Akt 和 AMPK 信号通路改善糖代谢。
+[关键词]   JAZF1; 蛋白激酶 B; AMP 活化的蛋白激酶; 胰岛素; 利拉鲁肽
+Effect of JAZF1 on Akt and AMPK signal pathway in 3T3-L1 adipocytes Luo Xiaohe*, Li Ling, Yang
+Gangyi, Du Lin, Jia Yanjun, Ran Wenxia, Zhang Yali, Luo Yu. *Department of Clinical Biochemistry and the Key
+Laboratory of Laboratory Medical Diagnostics in the Ministry of Education, Chongqing University of Medical Science,
+Chongqing 400016, China
+[Abstract]  Objective  To explore the effect of juxtaposed with another zinc finger gene 1(JAZF1) on protein
+kinase B ( Akt ) and AMP-activated protein kinase ( AMPK) signal pathway in 3T3-L1 adipocytes. Methods
+Recombinant pGenesil-JAZF1shRNA plasmids were constructed. 3T3-L1 adipocytes transfected with pGenesil-HK or
+pGenesil-JAZF1 plasmid were treated with insulin or liraglutide. Glucose uptake was detected by 2-deoxy-3H-
+glucose. The phosphorylations of Akt and AMPK in 3T3-L1 adipocytes were detected by Western blot. Results
+Recombinant pGenesil-JAZF1shRNA plasmids was transfected into 3T3-L1 adipocytes and JAZF1 expression was
+downregulated, resulting in decreased basal and insulin-stimulated glucose uptake by 33. 6% and 38. 8% (both P<
+0. 05) . Insulin and liraglutide markedly increased the phosphorylation levels of Akt and AMPK in 3T3-L1 adipocytes
+(P < 0. 05 ) . The downregulation of JAZF1 expression decreased basal and this two hormones-stimaulted
+phophorylations of Akt and AMPK(all P<0. 05) . Conclusion JAZF1 gene may improve glucose metabolism through
+Akt and AMPK signal pathway.
+[Key words]  JAZF1; Protein kinase B; AMP-activated protein kinase; Insulin; Liraglutide
+(Chin J Endocrinol Metab, 2014, 30: 61-64)
+近年来,全基因组关联性研究发现不同人种的
+JAZF1(juxtaposed with another zinc finger gene 1,与另一
+个锌指并列的基因 1),又名 Tip27 ( TAK1-interacting
+protein 27,TAK1 相互作用的蛋白 27)与 2 型糖尿病、
+肥胖的发生发展具有密切的相关性,同时其不同变异
+体与前列腺癌、子宫内膜间质肿瘤等也有较强的相关
+性[1-4]。
+在不同人种中 JAZF1 基因的变异及单核苷酸多
+态性与 2 型糖尿病发生风险相关,在丹麦人群中发现
+JAZF1 与体重指数(BMI)密切相关,并且降低了急性
+时相胰岛素反应[5]。 此外,对激光捕获微切割技术获
+取的糖尿病患者及正常人的胰岛 β 细胞进行 DNA 芯
+片检测发现糖尿病患者胰岛细胞 JAZF1 基因的表达
+较正常人显著减少[6]。 推测 JAZF1 与糖尿病的发生
+可能有关,但目前 JAZF1 在胰岛素信号通路方面的作
+用却所知甚少。 本研究采用胰岛素和利拉鲁肽 2 种临
+床药物处理 JAZF1 基因沉默细胞,测定 JAZF1 基因表
+达下调时 3T3-L1 脂肪细胞蛋白激酶 B(Akt)和 AMP
+活化的蛋白激酶(AMPK)信号通路的变化,从分子信
+号水平探讨 JAZF1 对糖脂代谢的影响。
+材料和方法
+一、 材料
+3T3-L1 细胞购于上海生命科学院细胞库;胎牛血
+清、Opti-MEM、DMED 培养基购于美国 GIBICO 公司;
+小牛血清购自杭州四季青公司;LipofectamineTM 2000
+购自美国 Invitrogen 公司;pGenesil-1. 2 质粒、pGenesil-
+HK 质粒购自武汉晶赛生物工程有限公司;Akt、磷酸
+化 Akt、AMPK、磷酸化 AMPK 等多克隆抗体均购于美
+国 CST 公司;β-actin 和辣根过氧化物酶(HRP)标记的
+羊抗兔 IgG 购于北京中杉金桥生物技术有限公司;重
+组人胰岛素购于丹麦诺和诺德公司;利拉鲁肽购于诺
+和诺德(中国)制药有限公司。
+二、 方法
+1. 小鼠 JAZF1-shRNA 真核表达载体的构建及筛
+选鉴定:根据 Tuschl 等的 shRNA 序列设计原则,在小
+鼠 JAZF1 基因的 CDS 区选取 3 条目标序列(表 1);以
+Eco31I+Sense+Loop+Antisense+终止信号+SacI+Eco31I
+的序列结构合成正义链和反义链(表 2),经退火成为
+双链。 用 Eco31I 酶切质粒 pGenesil-1. 2 和目的片段,
+T4DNA 连接酶连接,酶切及测序鉴定后转染脂肪细
+胞,检测 JAZF1mRNA 和蛋白表达水平。
+表 1  JAZF1 三条 shRNA 目标序列
+Tab 1  Target sequences of three shRNAs against JAZF1
+编号
+Number
+起始位置
+Initiation site
+(bp)
+目标序列
+Target sequence
+GC 含量
+GC content
+1 116 ATAGCAGTGGCAGCCTTAC  52. 6%
+2 303 GAATGGAGGGGAAGAGAAG 62. 6%
+3 418 GTCCGCAAACCATTCAAAT  42. 1%
+2. 3T3-L1 前脂肪细胞的培养和诱导分化:根据本
+课题组前期采用的方法[7],3T3-L1 前脂肪细胞用完全
+培养液(DMEM+25 mmol / L 葡萄糖+10% 小牛血清+
+100 U / ml 青、链霉素)在 37℃孵箱(5% CO2)培养,每
+2 d 换液 1 次,待生长至完全融合后 48 h 时将培养液
+换成含 25 mmol / L 葡萄糖,0. 5 mmol / L 3-异丁甲基黄
+嘌呤(MIX),1 μmol / L 地塞米松和 10 μg / ml 胰岛素,
+10%胎牛血清的 DMEM 培养液开始诱导分化,48 h 后
+撤去MIX 和地塞米松,每 2 d 换 1 次液,直至 95%以上
+细胞分化为成熟脂肪细胞,收集前脂肪细胞和分化不
+同时间段的细胞置液氮灌中冻存备用。 油红 O 染色
+鉴定细胞分化情况。
+3. 细胞分组、转染及药物处理:将诱导分化成熟
+的 3T3-L1 脂肪细胞用胰岛素或利拉鲁肽处理后分为
+以下 8 组即:非处理空载组(B)、非处理转染组(T)、胰
+岛素处理空载组(BI)、胰岛素处理转染组(TI)、利拉
+鲁肽处理空载组(BL)、利拉鲁肽处理转染组(TL)、胰
+岛素+利拉鲁肽处理空载组(BIL)、胰岛素+利拉鲁肽
+处理转染组(TIL),每组设平行实验复孔(3 孔)。 将
+质粒用 Lipofectamine 以 1 : 2. 5 的比例转染细胞,具体
+转染方法参照 Lipofectamine TM2000 说明书。 均以
+100 nmol / L 胰岛素和利拉鲁肽处理细胞 10 min。
+4. 细胞葡萄糖摄取率(GUR)测定:将 3T3-L1 前
+脂肪细胞接种于 24 孔细胞培养板内,诱导分化成熟后
+转染重组质粒,48 h 后分别收集各组细胞,用 2-脱氧-
+3H-D-葡萄糖掺入法 ( 2-DOG) 测定各组脂肪细胞
+GUR。 分别检测在基础状态下和胰岛素刺激状态下各
+组脂肪细胞 GUR 的变化。 共 4 组,每组 3 个复孔,实
+验重复 2 次。
+5. Western 印迹法:收集细胞,加 RIPA、PMSF 及
+磷酸酶抑制剂混匀裂解,离心后取上清测蛋白浓度同
+时加 5×上样缓冲液,煮沸变性 5 min,-80℃保存备用。
+按每泳道 80 ~ 120 μg 蛋白上样电泳,半干转至 PVDF
+膜,5% 脱脂奶粉或胎牛血清室温封闭 2 ~ 3 h,一抗
+4℃孵育过夜,TBST 洗脱,二抗(1 : 1 000 稀释)孵育 1
+h 并洗脱,加发光剂,置于化学发光成像系统成像。 用
+Quantity One 软件分析条带灰度值,实验重复 3 次。
+三、 统计学处理
+所有数据均以 x- ± s 表示,用 SPSS 17. 0 统计软件
+进行成组 t 检验分析,P<0. 05 为差异有统计学意义。
+结    果
+一、 pGenesil-JAZF1 质粒酶切及测序鉴定结果与
+转染 3T3-L1 细胞表达结果
+表 2  三条 shRNA 双链插入序列
+Tab 2  Insertion sequences of three shRNA double-strands
+编号
+Number
+插入序列
+Insertion sequence
+1A 5'-TTTGATAGCAGTGGCAGCCTTACTTCAAGACGGTAAGGCTGCCACTGCTATTTTTTTG-3'
+1B 5'-AGCTCAAAAAAATAGCAGTGGCAGCCTTACCGTCTTGAAGTAAGGCTCCCACTGCTAT-3'
+2A 5'-TTTGGAATGGAGGGGAAGAGAAGTTCAAGACGCTTCTCTTCCCCTCCATTCTTTTTT-3'
+2B 5'-AGCTCAAAAAAGAATGGAGGGGAAGAGAAGCGTCTTGAACTTCTCTTCCCCTCCATTC-3'
+3A 5'-TTTGGGTCCGCAAACCATTCAAATTTCAAGACGATTTGAATGGTTTGCGGACTTTTTTG-3'
+3B 5'-AGCTCAAAAAAGTCCGCAAACCATTCAAATCGTCTTGAAATTTGAATGGTTTGCGGAC-3'
+pGenesil-JAZF1 质粒经 SacI 酶切出 2 条片段,分
+别代表 pGenesil 和含启动子的插入目的片段,与预期
+结果完全一致。 在转染脂肪细胞后,pGenesil-JAZF1-
+shRNA 1、2、3 各组 mRNA 表达量较空载转染组分别降
+低 55. 2% 、62. 1% 及 82. 3% ;蛋白表达量分别降低
+63. 8% 、61. 5%及 75. 0% (图 1)。
+注: E: 空 载 转 染 组 Transfected with empty vector; 1、 2、 3: 转 染
+pGenesil-JAZF1-shRNA 1、 2、 3 质 粒 Transfected with pGenesil-JAZF1-
+shRNA 1、2、3;与 E 组比较 vs E group,aP<0. 05
+图 1  RNA 干扰下调 3T3-L1 脂肪细胞 JAZF1mRNA 和蛋白表达
+Fig 1   The mRNA and protein expressions of JAZF1 in 3T3-L1 cells
+downregulated by RNA interference
+二、 脂肪细胞糖摄取结果
+无胰岛素刺激时,转染 JAZF1-shRNA 3 号抑制质
+粒组比空白对照组葡萄糖摄取率低约 33. 6% (P <
+0. 05);胰岛素刺激后,转染 JAZF1-shRNA 3 号抑制质
+粒组比空白对照组葡萄糖摄取率低约 38. 8% (P <
+0. 05,图 2)。
+三、 JAZF1 基因表达下调对脂肪细胞 Akt 和
+AMPK 磷酸化的影响
+胰岛素处理之后,BI 组 Akt 和 AMPK 磷酸化水平
+较 B 组分别增加 35. 1% 、78. 8% (均 P<0. 05)。 利拉
+鲁肽处理下,BL 组 Akt 和 AMPK 磷酸化水平较 B 组分
+别增加 48. 8% 、135. 8% (均 P<0. 05)。 胰岛素和利拉
+鲁肽共同处理条件下,BIL 组 Akt 和 AMPK 磷酸化水
+平较 B 组分别增加 47. 8% 、149. 1% (均 P<0. 05)。
+下调 JAZF1 基因表达之后, T 组 Akt 和 AMPK 磷
+注: Insulin:胰岛素;E:空载组 Empty vector group; JAZF1: JAZF1
+shRNA 组;与 E 组比较 vs E group,aP<0. 05
+图 2  下调 JAZF1 表达降低 3T3-L1 脂肪细胞葡萄糖摄取
+Fig 2  Downregulation of JAZF1 expression decreases glucose uptake in 3T3-
+L1 adipocytes
+酸化水平较 B 组分别降低 52. 4% 、31. 3% (P<0. 05);
+TI 组 Akt 和 AMPK 磷酸化水平较 BI 组分别降低
+16. 5% 、25. 7% (P<0. 05);TL 组 Akt 和 AMPK 磷酸化
+水平较 BL 组分别降低 25. 4% 、15. 3% (P<0. 05);TIL
+组 Akt 和 AMPK 磷酸化水平较 BIL 组分别降低
+23. 6% 、33. 8% (P<0. 05,图 3)。
+注:Akt:蛋白激酶 B;AMPK:AMP 活化的蛋白激酶 AMP activated
+protein kinase;p-Akt:磷酸化 Akt Phosphorylated Akt; t-Akt:总 Akt Total
+Akt;p-AMPK:磷酸化 AMPK Phosphorylated AMPK; t-AMPK:总 AMPK
+Total AMPK;Insulin:胰岛素;Liraglutide:利拉鲁肽;与空白对照组比较 vs
+Normal control group,aP<0. 05;与 JAZF1-shRNA 组比较 vs JAZF1-shRNA
+group,b P<0. 05
+图 3  JAZF1 对 Akt 和 AMPK 磷酸化水平的影响
+Fig 3  The effect of JAZF1 on levels of Akt and AMPK phosphorylation
+讨    论
+JAZF1 是一个新发现的与 2 型糖尿病的发生发展
+密切相关的基因,其编码一个相对分子量为 27 100 的
+锌指蛋白,拥有 3 个 C2H2 型锌指结构,能识别特定的
+核酸序列,可能参与基因转录的调控。 JAZF1 高表达
+于睾丸、脂肪等组织。 本课题组前期研究发现 JAZF1
+过表达减少了 3T3-L1 脂肪细胞的脂质合成,增加脂解
+作用,并明显改善脂质聚集[7]。 但国内外关于 JAZF1
+基因在糖脂代谢信号方面的作用机制尚未见相关报
+道。 本文通过下调 JAZF1 的表达,观察 Akt 和 AMPK
+磷酸化水平的变化,以阐明 JAZF1 在糖脂代谢方面的
+分子机制。
+外周组织的糖摄取减少是胰岛素抵抗的重要结
+果,本研究发现,在下调 JAZF1 基因表达时,3T3-L1 细
+胞糖摄取减少,说明 JAZF1 基因在一定程度上能够促
+进外周组织糖摄取,对于所涉及的分子机制,有待于进
+一步研究。
+Akt 处于多条信号通路的重要交叉点,对葡萄糖、
+脂肪、胆固醇和蛋白质等的代谢进行严格而有序的调
+控[8,9],是胰岛素抑制肝糖输出和促进骨骼肌糖摄取
+的关键调节因子[10],与糖尿病的发生发展密切相关。
+Akt 活性的改变可引起糖脂代谢相关基因的表达变
+化。 本研究发现 JAZF1 基因下调后,Akt 磷酸化水平
+降低,提示其可能通过影响 Akt 活性来调节脂肪细胞
+的糖脂代谢。
+AMPK 是调节细胞能量稳态的中心环节,被称为
+“细胞能量调节器冶,在增加组织和细胞对葡萄糖的摄
+取、脂肪酸氧化及调节基因转录等方面发挥重要作
+用[11]。 本研究发现,JAZF1 基因下调降低了 AMPK 活
+性,表明 JAZF1 基因可能通过调节 AMPK 活性影响糖
+脂代谢基因的表达。
+利拉鲁肽属于胰升糖素样肽 1(GLP-1)类似物,能
+促进胰岛素分泌,减轻体重和摄食,且改善胰岛 β 细
+胞功能,是目前改善糖尿病症状较为理想的药物[12]。
+本研究采用利拉鲁肽干预细胞后发现,Akt 和 AMPK
+活性明显升高,说明利拉鲁肽可能通过调节 Akt 和
+AMPK 活性发挥作用。
+综上所述,本研究结果表明:JAZF1 可能通过调节
+Akt 和 AMPK 活性,在糖尿病的发病机制中发挥着重
+要作用,但其对糖脂代谢的具体作用机制,尚需进一步
+研究。 此外利拉鲁肽也可能通过调节 Akt 和 AMPK 活
+性发挥作用。

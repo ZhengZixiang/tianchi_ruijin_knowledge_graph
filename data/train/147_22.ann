@@ -1,0 +1,359 @@
+T1	Disease 93 99	2 型糖尿病
+T2	Disease 1283 1289	2 型糖尿病
+T3	Disease 1328 1334	2 型糖尿病
+T4	Disease 1951 1957	2 型糖尿病
+T5	Test 1977 1982	HBA1C
+T6	Disease 4287 4292	NAFLD
+T7	Disease 4349 4354	NAFLD
+T8	Test 1505 1509	总胆固醇
+T9	Test 1637 1641	总胆固醇
+T10	Test 1827 1831	总胆固醇
+T11	Test 2020 2024	总胆固醇
+T12	Disease 1250 1256	动脉粥样硬化
+T13	Disease 2762 2768	动脉粥样硬化
+T14	Disease 5177 5183	动脉粥样硬化
+T15	Disease 5201 5207	动脉粥样硬化
+T16	Disease 5397 5400;5401 5404	动脉粥 样硬化
+T17	Disease 5530 5536	动脉粥样硬化
+T18	Test 1680 1685	游离脂肪酸
+T19	Test 3118 3120;3121 3124	游离 脂肪酸
+T20	Anatomy 3257 3259;3260 3262	脂肪 细胞
+T21	Anatomy 3424 3428	脂肪细胞
+T22	Anatomy 3437 3441	脂肪细胞
+T23	Anatomy 3451 3455	脂肪细胞
+T24	Anatomy 3479 3483	脂肪细胞
+T25	Anatomy 3506 3510	脂肪细胞
+T26	Anatomy 3553 3555;3556 3558	脂肪 细胞
+T27	Anatomy 3567 3571	脂肪细胞
+T28	Anatomy 3582 3583;3584 3587	脂 肪细胞
+T29	Anatomy 3621 3625	脂肪细胞
+T30	Anatomy 3881 3885	脂肪细胞
+T31	Anatomy 4752 4756	脂肪细胞
+T32	Drug 1494 1498	利拉鲁肽
+T33	Drug 1788 1792	利拉鲁肽
+T34	Drug 2671 2675	阿格列汀
+T35	Drug 1782 1786	西格列汀
+T36	Test 1581 1585	甘油三酯
+T37	Test 1701 1705	甘油三酯
+T38	Test 1803 1807	甘油三酯
+T39	Test 2008 2012	甘油三酯
+T40	Test 4888 4892	甘油三酯
+T41	Test 1089 1093	餐后血糖
+T42	Anatomy 3537 3540	脂联素
+T43	Anatomy 3638 3641	脂联素
+T44	Test 1913 1915	体重
+T45	Test 1917 1919	体重
+T46	Test 1994 1996	体重
+T47	Drug 1618 1619;1620 1623	艾 塞那肽
+T48	Drug 1965 1969	艾塞那肽
+T49	Drug 4850 4859	GLP-1 类似物
+T50	Anatomy 3854 3860	白色脂肪组织
+T51	Anatomy 3861 3867	褐色脂肪组织
+T52	Anatomy 5377 5383	ox-LDL
+T53	Anatomy 5511 5517	ox-LDL
+T54	Anatomy 1001 1007	GLP-1R
+T55	Anatomy 5082 5088	GLP-1R
+T56	Test 1529 1530;1531 1536	低 密度脂蛋白
+T57	Test 1657 1659;1660 1664	低密 度脂蛋白
+T58	Test 1851 1857	低密度脂蛋白
+T59	Test 2031 2035;2036 2038	低密度脂 蛋白
+T60	Anatomy 4766 4771	GLP-1
+T61	Anatomy 4983 4988	GLP-1
+T62	Anatomy 5047 5052	GLP-1
+T63	Anatomy 5099 5104	GLP-1
+T64	Anatomy 5221 5226	GLP-1
+T65	Anatomy 5270 5275	GLP-1
+T66	Anatomy 5435 5440	GLP-1
+T67	Anatomy 5566 5571	GLP-1
+T68	Anatomy 3270 3274	脂肪组织
+T69	Anatomy 3727 3731	脂肪组织
+T70	Anatomy 3760 3764	脂肪组织
+T71	Anatomy 4005 4009	脂肪组织
+T72	Anatomy 3340 3344	AMPK
+T73	Anatomy 3828 3832	AMPK
+T74	Anatomy 3923 3927	AMPK
+T75	Anatomy 4566 4570	AMPK
+T76	Anatomy 4582 4586	AMPK
+T77	Anatomy 4725 4729	AMPK
+T78	Anatomy 4775 4779	AMPK
+T79	Anatomy 3367 3370	FAS
+T80	Test 1900 1902	血糖
+T81	Anatomy 977 981	L 细胞
+T82	Anatomy 1011 1013	胰腺
+T83	Anatomy 1014 1016	小肠
+T84	Anatomy 1017 1019	大肠
+T85	Anatomy 1020 1022	肾脏
+T86	Anatomy 1023 1024	肺
+T87	Test 1237 1239	血脂
+T88	Test_Value 1239 1241	升高
+T89	Disease 1246 1249	脂肪肝
+T90	Disease 1257 1259	肥胖
+T91	Anatomy 1317 1320;1321 1322	肠促胰 素
+T92	Test_Value 1511 1528	下降 0. 13 mmol / L
+T93	Test_Value 1538 1555	下降 0. 20 mmol / L
+T94	Duration 1499 1503	26 周
+T95	Duration 1624 1628	26 周
+T96	Test 1630 1632	血脂
+T97	Test_Value 1642 1656	0. 05 mmol / L
+T98	Test_Value 1665 1679	0. 15 mmol / L
+T99	Test_Value 1706 1720	0. 05 mmol / L
+T100	Test_Value 1686 1700	0. 03 mmol / L
+T101	Amount 1793 1800	1. 8 mg
+T102	Test_Value 1833 1841;1842 1850	下降 0. 20 mmol / L
+T103	Test 1929 1931	血脂
+T104	Duration 1970 1975	36 个月
+T105	Test_Value 1984 1992	降低 1. 1%
+T106	Test_Value 2012 2018	降低 12%
+T107	Test_Value 2038 2043	下降 6%
+T108	Test 2045 2051	高密度脂蛋白
+T109	Test_Value 2051 2057	增加 24%
+T110	Anatomy 2205 2208	小肠酶
+T111	Anatomy 2235 2238	门静脉
+T112	Anatomy 2276 2279	肠粘膜
+T113	Anatomy 2292 2296	载脂蛋白
+T114	Anatomy 2299 2303	乳糜微粒
+T115	Anatomy 2423 2425;2426 2427	脂肪 酶
+T116	Anatomy 2441 2444	淋巴液
+T117	Anatomy 2452 2453;2454 2455	小 肠
+T118	Anatomy 2461 2465	载脂蛋白
+T119	Anatomy 2471 2475	载脂蛋白
+T120	Anatomy 2508 2515	Apo B48
+T121	Anatomy 2531 2533	小肠
+T122	Anatomy 2536 2539	脂蛋白
+T123	Anatomy 2544 2547;2548 2549	载脂蛋 白
+T124	Anatomy 2552 2556	乳糜微粒
+T125	Anatomy 2596 2603	Apo B48
+T126	Anatomy 2622 2626	乳糜微粒
+T127	Anatomy 2711 2714	TRL
+T128	Anatomy 2717 2723	残粒样脂蛋白
+T129	Anatomy 2724 2727	RLP
+T130	Test 2736 2738	血脂
+T131	Anatomy 2753 2757	内皮细胞
+T132	Operation 2784 2788	胃旁路术
+T133	Disease 2789 2791	肥胖
+T134	Test 2796 2798	血脂
+T135	Anatomy 2822 2824	小肠
+T136	Operation 2873 2877	胃旁路术
+T137	Anatomy 2896 2900	L 细胞
+T138	Anatomy 2927 2931	载脂蛋白
+T139	Test 2948 2950	血脂
+T140	Anatomy 3034 3035	胃
+T141	Anatomy 3286 3293	Srebp1c
+T142	Anatomy 3294 3298	Acc1
+T143	Anatomy 3299 3302	Fas
+T144	Anatomy 3360 3366	脂肪酸合成酶
+T145	Anatomy 3372 3386	硬脂酰辅酶 A 去饱和酶 1
+T146	Anatomy 3387 3391;3392 3393	SCD- 1
+T147	Disease 3471 3473	肥胖
+T148	Anatomy 3531 3536	TNF-α
+T149	Anatomy 3541 3544	内脂素
+T150	Anatomy 3545 3547	瘦素
+T151	Anatomy 3668 3670	肝脏
+T152	Anatomy 3671 3673	心脏
+T153	Anatomy 3813 3814;3815 3817	下 丘脑
+T154	Anatomy 4039 4044;4045 4048	激素敏感性 脂肪酶
+T155	Anatomy 4049 4052	HLS
+T156	Anatomy 4054 4064	肉毒碱棕榈酰转移酶I
+T157	Anatomy 4065 4076;4077 4078	长链酰基辅酶 A 脱氢 酶
+T158	Anatomy 4079 4083	LCAD
+T159	Anatomy 4085 4095	酰基辅酶 A 氧化酶
+T160	Anatomy 4096 4099	ACO
+T161	Anatomy 4124 4126	肝脏
+T162	Disease 4128 4135	非酒精性脂肪肝
+T163	Anatomy 4158 4160	肝脏
+T164	Anatomy 4177 4179	肝脏
+T165	Anatomy 4233 4235	肝脏
+T166	Anatomy 4254 4256	肝脏
+T167	Disease 4279 4286	非酒精性脂肪肝
+T168	Anatomy 4382 4387	DPP-4
+T169	Anatomy 4393 4395	肝脏
+T170	Anatomy 4487 4489	肝脏
+T171	Anatomy 4505 4506	肝
+T172	Anatomy 4514 4515	肝
+T173	Anatomy 4537 4538	肝
+T174	Anatomy 4546 4547	肝
+T175	Anatomy 4548 4553	环磷酸腺苷
+T176	Anatomy 4554 4558	cAMP
+T177	Anatomy 4613 4623	乙酰 CoA 羧化酶
+T178	Anatomy 4624 4627	ACC
+T179	Anatomy 4632 4633	肝
+T180	Anatomy 4662 4669	SREBP1c
+T181	Test 2225 2230	游离脂肪酸
+T182	Anatomy 3661 3666	游离脂肪酸
+T183	Test 2250 2251;2252 2255	甘 油三酯
+T184	Test 2285 2289	甘油三酯
+T185	Test 2635 2639	甘油三酯
+T186	Test 3458 3462	甘油三酯
+T187	Test 2833 2835	体重
+T188	Anatomy 157 159	脂肪
+T189	Anatomy 170 171;172 174	胆 固醇
+T190	Test 1072 1075	葡萄糖
+T191	Anatomy 1301 1304	脂肪酸
+T192	Drug 1762 1773	Lira-DPP-4i
+T193	Anatomy 2143 2151	脂类代谢调节因子
+T194	Anatomy 2214 2219	短链脂肪酸
+T195	Anatomy 2231 2233	甘油
+T196	Anatomy 2242 2247	长链脂肪酸
+T197	Anatomy 2262 2267	长链脂肪酸
+T198	Anatomy 2268 2272	甘油一酯
+T199	Anatomy 3067 3068	胃
+T200	Anatomy 3102 3103	胃
+T201	Test_Value 3131 3137	低了 39%
+T202	Anatomy 3198 3200	脂肪
+T203	Anatomy 3249 3251	脂肪
+T204	Anatomy 3276 3278	脂肪
+T205	Anatomy 3317 3319	肝脏
+T206	Anatomy 3330 3339	腺苷酸活化蛋白激酶
+T207	Anatomy 3352 3354	脂肪
+T208	Anatomy 3412 3414	脂肪
+T209	Reason 3686 3691	脂代谢紊乱
+T210	Anatomy 3722 3724	脂肪
+T211	Anatomy 3818 3827	腺苷酸活化蛋白激酶
+T212	Anatomy 3842 3844;3845 3847	交感 神经
+T213	Anatomy 3916 3922	腺苷酸环化酶
+T214	Anatomy 3946 3948	脂肪
+T215	Anatomy 4027 4029	脂肪
+T216	Anatomy 4153 4155	肝脂
+T217	Anatomy 4203 4206	胆固醇
+T218	Anatomy 4209 4211	胆汁
+T219	Anatomy 4299 4300	肝
+T220	Anatomy 4398 4400	脂肪
+T221	Anatomy 4431 4433	脂肪
+T222	Anatomy 4437 4439	脂肪
+T223	Anatomy 4507 4509	脂肪
+T224	Anatomy 4516 4518	脂肪
+T225	Anatomy 4634 4636	脂肪
+T226	Test 1556 1561	游离脂肪酸
+T227	Anatomy 1099 1100	胃
+T228	Anatomy 1121 1124;1125 1126	神经系 统
+T229	Anatomy 1133 1136	心血管
+T230	Duration 1756 1760	78 周
+T231	Method 2579 2583	静脉注射
+T232	Test_Value 2738 2740	升高
+T233	Test_Value 2950 2952	升高
+T234	Test_Value 4424 4428	显著下降
+T235	Test_Value 4467 4469	升高
+T236	Anatomy 4683 4686	ACC
+T237	Anatomy 4698 4699	肝
+T238	Anatomy 4687 4692	SCD-1
+T239	Anatomy 4740 4742	瘦素
+T240	Anatomy 4747 4750	抵抗素
+T241	Anatomy 4791 4792	肝
+T242	Drug 4860 4868	CNTO3649
+T243	Drug 4871 4880	exendin-4
+T244	Duration 4881 4884	4 周
+T245	Anatomy 4909 4910	肝
+T246	Anatomy 4886 4888	肝脏
+T247	Test 4911 4914	胆固醇
+T248	Test 4931 4935	肝内磷脂
+T249	Anatomy 4956 4957	肝
+T250	Disease 4972 4975	脂肪肝
+T251	Disease 5001 5004	脂肪肝
+T252	Disease 5016 5019	脂肪肝
+T253	Anatomy 5060 5061	肝
+T254	Disease 5071 5076	胰岛素抵抗
+T255	Anatomy 5121 5123	肝脏
+T256	Anatomy 5130 5132	血液
+T257	Anatomy 5134 5136;5137 5138	血管 壁
+T258	Anatomy 5149 5151	肝脏
+T259	Anatomy 5240 5246	高密度脂蛋白
+T260	Anatomy 5247 5250	HDL
+T261	Anatomy 5264 5266	肝脏
+T262	Anatomy 5302 5308	Apo A1
+T263	Anatomy 5315 5321	Apo A1
+T264	Anatomy 5291 5296	ABCA1
+T265	Anatomy 5281 5285	cAMP
+T266	Anatomy 5324 5327	HDL
+T267	Anatomy 5337 5343	Apo A1
+T268	Anatomy 5353 5356	HDL
+T269	Anatomy 5332 5336	载脂蛋白
+T270	Anatomy 5386 5390	巨噬细胞
+T271	Anatomy 5392 5396	泡沫细胞
+T272	Anatomy 5448 5454	乙酰辅酶 A
+T273	Anatomy 5455 5461;5462 5466	胆固醇酰基转 移酶 1
+T274	Anatomy 5467 5472	ACAT1
+T275	Anatomy 5484 5487	PKA
+T276	Anatomy 5493 5498	NF-κB
+T277	Anatomy 5520 5524	巨噬细胞
+T278	Test 5622 5624	血脂
+T279	Disease 5629 5632	糖尿病
+T280	Anatomy 5593 5594	肝
+T281	Test 1129 1132	肝功能
+T282	Test 1349 1350;1351 1355	游 离脂肪酸
+T283	Anatomy 1105 1112	胰岛 β 细胞
+T284	Anatomy 4743 4746	脂联素
+T285	Anatomy 42 50	胰升糖素样肽 1
+T286	Anatomy 73 81	胰升糖素样肽 1
+T287	Anatomy 924 932	胰升糖素样肽 1
+T288	Anatomy 1372 1378	GLP-1R
+T289	Anatomy 5370 5376	低密度脂蛋白
+T290	Anatomy 82 87	GLP-1
+T291	Anatomy 138 143	GLP-1
+T292	Anatomy 958 963	GLP-1
+T293	Anatomy 1030 1035	GLP-1
+T294	Anatomy 1476 1481	GLP-1
+T295	Anatomy 1892 1897	GLP-1
+T296	Anatomy 2071 2076	GLP-1
+T297	Anatomy 2090 2095	GLP-1
+T298	Anatomy 2157 2162	GLP-1
+T299	Anatomy 2180 2185	GLP-1
+T300	Anatomy 2316 2321	GLP-1
+T301	Anatomy 2382 2387	GLP-1
+T302	Anatomy 2481 2486	GLP-1
+T303	Anatomy 2586 2591	GLP-1
+T304	Drug 2651 2660	GLP-1 分解酶
+T305	Anatomy 2686 2691	GLP-1
+T306	Anatomy 2858 2863	GLP-1
+T307	Anatomy 2903 2908	GLP-1
+T308	Anatomy 2916 2921	GLP-1
+T309	Anatomy 2966 2971	GLP-1
+T310	Anatomy 3025 3030	GLP-1
+T311	Anatomy 3077 3082	GLP-1
+T312	Anatomy 3176 3181	GLP-1
+T313	Anatomy 3188 3193	GLP-1
+T314	Anatomy 3241 3246	GLP-1
+T315	Anatomy 3321 3325;3326 3327	GLP- 1
+T316	Anatomy 3404 3409	GLP-1
+T317	Anatomy 3609 3614	GLP-1
+T318	Anatomy 3715 3720	GLP-1
+T319	Anatomy 3774 3779	GLP-1
+T320	Anatomy 3798 3806	GLP-1 受体
+T321	Anatomy 3890 3895	GLP-1
+T322	Anatomy 3900 3905	GLP-1
+T323	Anatomy 4011 4016	GLP-1
+T324	Anatomy 4146 4151	GLP-1
+T325	Anatomy 4242 4247	GLP-1
+T326	Anatomy 4263 4268	GLP-1
+T327	Anatomy 4302 4307	GLP-1
+T328	Anatomy 4338 4343	GLP-1
+T329	Anatomy 4491 4496	GLP-1
+T330	Anatomy 4530 4535	GLP-1
+T331	Anatomy 4410 4413	FAS
+T332	Anatomy 4679 4682	FAS
+T333	Anatomy 969 971	小肠
+T334	Anatomy 1025 1026	脑
+T335	Anatomy 1079 1082	胰岛素
+T336	Symptom 1337 1341	血脂紊乱
+T337	Anatomy 1386 1390	肠促胰素
+T338	Anatomy 2308 2312	淋巴管道
+T339	Anatomy 2518 2525	Apo A-4
+T340	Anatomy 2563 2565	小肠
+T341	Anatomy 2565 2568	淋巴管
+T342	Anatomy 2606 2613	Apo A-4
+T343	Anatomy 2661 2666	DPP-4
+T344	Anatomy 2703 2710	甘油三酯脂蛋白
+T345	Anatomy 2887 2888;2889 2890	回 肠
+T346	Anatomy 2992 2993	胃
+T347	Anatomy 2993 2994	肠
+T348	Reason 3592 3597	胰岛素抵抗
+T349	Anatomy 3648 3651	胰岛素
+T350	Test 3932 3938	胰岛素敏感性
+T351	Disease 3974 3980	酒精性脂肪肝
+T352	Anatomy 4313 4319	二肽基肽酶4
+T353	Anatomy 4320 4325	DPP-4
+T354	Anatomy 4416 4421	SCD-1
+T355	Anatomy 4450 4458	肉碱棕榈酰转移酶
+T356	Anatomy 4459 4464	CPT-1
+T357	Anatomy 4646 4649	胆固醇
+T358	Anatomy 4653 4656;4657 4661	结合蛋 白 1c
+T359	Anatomy 165 166	肝

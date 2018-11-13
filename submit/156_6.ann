@@ -1,0 +1,383 @@
+T1	Disease 143 145	超重
+T2	Disease 146 148	肥胖
+T3	Disease 150 155	中心性肥胖
+T4	Disease 276 278	超重
+T5	Disease 279 281	肥胖
+T6	Disease 283 288	中心性肥胖
+T7	Test 434 438	体重指数
+T8	Test_Value 438 462	(25. 04 ± 3. 79) kg / m2
+T9	Test 465 467	腰围
+T10	Disease 488 490	超重
+T11	Disease 491 493	肥胖
+T12	Disease 520 525	中心性肥胖
+T13	Disease 593 595	超重
+T14	Disease 596 598	肥胖
+T15	Disease 599 604	中心性肥胖
+T16	Disease 639 644	中心性肥胖
+T17	Disease 657 660	高血压
+T18	Reason 661 662;663 665	高 血糖
+T19	Disease 666 670	血脂异常
+T20	Disease 672 676	代谢异常
+T21	Disease 679 681	超重
+T22	Disease 682 684	肥胖
+T23	Disease 685 690	中心性肥胖
+T24	Disease 736 738	超重
+T25	Disease 739 741	肥胖
+T26	Disease 742 747	中心性肥胖
+T27	Disease 824 826	超重
+T28	Disease 828 830	肥胖
+T29	Disease 832 837	中心性肥胖
+T30	Disease 2956 2958	超重
+T31	Disease 2959 2961	肥胖
+T32	Reason 2962 2967	中心性肥胖
+T33	Anatomy 2976 2981	脂 肪组织
+T34	Disease 2986 2988	肥胖
+T35	Disease 3019 3021	肥胖
+T36	Disease 3042 3050	慢性非传染性疾病
+T37	Disease 3058 3063	代谢综合征
+T38	Disease 3064 3070	2 型糖尿病
+T39	Disease 3071 3074	高血压
+T40	Disease 3075 3078;3079 3081	心血管 疾病
+T41	Disease 3093 3095	肥胖
+T42	Disease 3104 3106	死亡
+T43	Disease 3129 3131	肥胖
+T44	Disease 3168 3173	中心性肥胖
+T45	Disease 3187 3189	超重
+T46	Disease 3190 3192	肥胖
+T47	Disease 3193 3198	中心性肥胖
+T48	Test 4004 4006	血压
+T49	Test 4035 4037	身高
+T50	Test 4038 4040	体重
+T51	Test 4041 4043	腰围
+T52	Test 4044 4046	臀围
+T53	Test 4070 4072	血压
+T54	Test 4106 4108	血压
+T55	Test 4131 4132;4133 4134	身 高
+T56	Test 4135 4137	体重
+T57	Test 4138 4140	腰围
+T58	Test 4141 4143	臀围
+T59	Test 4144 4149	左右臂血压
+T60	Test 4151 4153	心率
+T61	Test 4157 4159	身高
+T62	Test 4189 4191	身高
+T63	Test 4193 4194;4195 4196	体 重
+T64	Test 4232 4235	腰臀围
+T65	Test 4274 4276	腰围
+T66	Test 4279 4281	血压
+T67	Test 4282 4284	心率
+T68	Test 4353 4355	身高
+T69	Test 4356 4359	腰臀围
+T70	Test 4369 4371	体重
+T71	Test_Value 4376 4380	1 kg
+T72	Test 4381 4382;4383 4384	血 压
+T73	Test 4417 4419	心率
+T74	Anatomy 4509 4512	静脉血
+T75	Disease 4522 4525	糖尿病
+T76	Test 4557 4566	口服葡萄糖耐量试验
+T77	Test 4613 4617	三酰甘油
+T78	Test 4619 4623	总胆固醇
+T79	Test 4625 4627;4628 4635	高密 度脂蛋白胆固醇
+T80	Test 4638 4643	HDL-C
+T81	Test 4645 4654	低密度脂蛋白胆固醇
+T82	Test 4656 4661	LDL-C
+T83	Test 4663 4667	空腹血糖
+T84	Test 4668 4679	糖负荷后 2 h 血糖
+T85	Test 4680 4684	2hPG
+T86	Test 4718 4720	血糖
+T87	Test 4732 4736	三酰甘油
+T88	Test 4752 4756	总胆固醇
+T89	Test 4768 4773	HDL-C
+T90	Test 4774 4779	LDL-C
+T91	Disease 4793 4795	超重
+T92	Disease 4796 4798	肥胖
+T93	Disease 4799 4804	中心性肥胖
+T94	Test 4807 4811	体重指数
+T95	Test_Value 4811 4817;4818 4825	<18. 5 kg / m2
+T96	Test_Value 4829 4840	24 kg / m2≤
+T97	Test 4840 4844	体重指数
+T98	Test_Value 4844 4855	<28 kg / m2
+T99	Disease 4856 4858	超重
+T100	Test 4860 4864	体重指数
+T101	Test_Value 4864 4875	≥28 kg / m2
+T102	Disease 4876 4878	肥胖
+T103	Disease 4892 4895	糖尿病
+T104	Test 4922 4924	腰围
+T105	Test_Value 4924 4930	≥90 cm
+T106	Test 4933 4935	腰围
+T107	Test_Value 4935 4941	≥85 cm
+T108	Disease 4943 4948	中心性肥胖
+T109	Test 4956 4960	体重指数
+T110	Test 4961 4963	体重
+T111	Test 4969 4971	身高
+T112	Test 4978 4981	腰臀比
+T113	Test 4983 4984;4985 4986	腰 围
+T114	Test 4992 4994	臀围
+T115	Disease 5003 5006	高血压
+T116	Disease 5029 5032	高血压
+T117	Test 5039 5042	收缩压
+T118	Test_Value 5042 5051	≥140 mmHg
+T119	Test 5057 5060	舒张压
+T120	Test_Value 5060 5068	≥90 mmHg
+T121	Test 5079 5081	血压
+T122	Test 5092 5095	收缩压
+T123	Test_Value 5095 5104	≥140 mmHg
+T124	Test 5109 5112	舒张压
+T125	Test_Value 5112 5115;5116 5120	≥90 mmHg
+T126	Disease 5124 5127	高血压
+T127	Disease 5139 5142	高血压
+T128	Disease 5146 5149	高血压
+T129	Disease 5178 5182	血脂异常
+T130	Disease 5249 5253	血脂异常
+T131	Test 5255 5260	LDL-C
+T132	Test_Value 5260 5275	≥4. 13 mmol / L
+T133	Test_Value 5276 5287	160 mg / dl
+T134	Test 5289 5293	总胆固醇
+T135	Test_Value 5293 5299;5300 5308	≥6. 20 mmol / L
+T136	Test 5326 5331	HDL-C
+T137	Test_Value 5332 5348	< 1. 03 mmol / L
+T138	Test 5363 5367	三酰甘油
+T139	Test_Value 5367 5382	≥2. 26 mmol / L
+T140	Test_Value 5383 5394	200 mg / dl
+T141	Disease 5400 5403	高血糖
+T142	Test 5406 5410	空腹血糖
+T143	Test_Value 5410 5424	≥7. 0 mmol / L
+T144	Test 5440 5444	2hPG
+T145	Test_Value 5444 5459	≥11. 1 mmol / L
+T146	Test_Value 5460 5471	200 mg / dl
+T147	Drug 5484 5487	胰岛素
+T148	Disease 5491 5494	糖尿病
+T149	Test 5495 5499	空腹血糖
+T150	Test_Value 5499 5500;5501 5514	< 7. 0 mmol / L
+T151	Test_Value 5515 5526	126 mg / dl
+T152	Test_Value 5529 5542	7. 8 mmol / L
+T153	Test_Value 5543 5554	140 mg / dl
+T154	Test 5557 5561	2hPG
+T155	Test_Value 5561 5576	<11. 1 mmol / L
+T156	Test_Value 5577 5588	200 mg / dl
+T157	Disease 5590 5595	糖耐量受损
+T158	Test_Value 5610 5624	110 mg / dl) ≤
+T159	Test 5624 5628	空腹血糖
+T160	Test_Value 5629 5644	< 7. 0 mmol / L
+T161	Test 5660 5664	2hPG
+T162	Test_Value 5664 5678	<7. 8 mmol / L
+T163	Test_Value 5679 5690	140 mg / dl
+T164	Disease 5692 5696;5697 5699	空腹血糖 受损
+T165	Disease 5708 5712	代谢异常
+T166	Disease 5718 5722	腹型肥胖
+T167	Test 5723 5725	腰围
+T168	Test_Value 5727 5730;5731 5733	≥90 cm
+T169	Test_Value 5737 5743	≥85 cm
+T170	Test 5752 5754	血糖
+T171	Test 5756 5760	空腹血糖
+T172	Test_Value 5761 5766;5767 5775	≥6. 1 mmol / L
+T173	Test 5778 5782	2hPG
+T174	Test_Value 5782 5796	≥7. 8 mmol / L
+T175	Disease 5805 5807;5808 5809	糖尿 病
+T176	Test 5823 5825	血压
+T177	Test_Value 5825 5839	≥130 / 85 mmHg
+T178	Disease 5849 5852	高血压
+T179	Test 5861 5867	空腹三酰甘油
+T180	Test_Value 5867 5868;5869 5883	≥ 1. 70 mmol / L
+T181	Test 5891 5896	HDL-C
+T182	Test_Value 5896 5911	<1. 04 mmol / L
+T183	Duration 5956 5959;5960 5963	6 个 月以上
+T184	Test 6640 6644	体重指数
+T185	Test_Value 6646 6661;6662 6669	25. 04 ± 3. 79) kg / m2
+T186	Test 6672 6674	腰围
+T187	Disease 6784 6786	超重
+T188	Disease 6787 6789	肥胖
+T189	Disease 6790 6795	中心性肥胖
+T190	Disease 6818 6820	超重
+T191	Disease 6835 6837	肥胖
+T192	Disease 6852 6857	中心性肥胖
+T193	Disease 6875 6877	超重
+T194	Disease 6879 6881	肥胖
+T195	Disease 6884 6889	中心性肥胖
+T196	Disease 6909 6911	超重
+T197	Disease 6912 6914	肥胖
+T198	Disease 6953 6955	超重
+T199	Disease 6976 6977;6978 6979	肥 胖
+T200	Disease 7000 7005	中心性肥胖
+T201	Disease 7031 7033	超重
+T202	Disease 7055 7057	肥胖
+T203	Disease 7061 7062;7063 7067	中 心性肥胖
+T204	Disease 7096 7098	超重
+T205	Disease 7099 7101	肥胖
+T206	Disease 7102 7107	中心性肥胖
+T207	Test 7143 7147	体重指数
+T208	Test 7148 7150	腰围
+T209	Test 7151 7153	臀围
+T210	Test 7154 7157	腰臀比
+T211	Test 7158 7162	空腹血糖
+T212	Test 7163 7167	2hPG
+T213	Test 7169 7172	收缩压
+T214	Test 7173 7176	舒张压
+T215	Test 7177 7182	HDL-C
+T216	Test 7185 7190	LDL-C
+T217	Test 7226 7229;7230 7231	总胆固 醇
+T218	Test 7232 7236	三酰甘油
+T219	Test 7287 7291	2hPG
+T220	Test 7314 7318	体重指数
+T221	Test 7319 7321	腰围
+T222	Test 7322 7324	臀围
+T223	Test 7325 7328	腰臀比
+T224	Test 7329 7333	空腹血糖
+T225	Disease 7345 7347	超重
+T226	Disease 7348 7350	肥胖
+T227	Disease 7351 7356	中心性肥胖
+T228	Disease 7526 7531	中心性肥胖
+T229	Disease 8703 8705	超重
+T230	Disease 8706 8708	肥胖
+T231	Disease 8709 8714	中心性肥胖
+T232	Test 8969 8973	体重指数
+T233	Test 9000 9002	腰围
+T234	Test 9028 9030	臀围
+T235	Test 9054 9057	腰臀比
+T236	Test 9074 9078	空腹血糖
+T237	Test 9113 9117	2hPG
+T238	Test 9353 9356	收缩压
+T239	Test 9388 9391	舒张压
+T240	Test 9424 9428	总胆固醇
+T241	Test 9458 9462	三酰甘油
+T242	Test 9487 9492	HDL-C
+T243	Test 9504 9509	LDL-C
+T244	Test 9736 9740	2hPG
+T245	Test 9750 9752	血糖
+T246	Test 9814 9819	HDL-C
+T247	Test 9820 9829	高密度脂蛋白胆固醇
+T248	Test 9868 9873	LDL-C
+T249	Test 9874 9883	低密度脂蛋白胆固醇
+T250	Test 9944 9948	2hPG
+T251	Test 9950 9953	收缩压
+T252	Test 9955 9958	舒张压
+T253	Test 9959 9963	三酰甘油
+T254	Test 9974 9978	总胆固醇
+T255	Test 9979 9984	HDL-C
+T256	Test 9987 9992	LDL-C
+T257	Disease 10035 10037	超重
+T258	Disease 10038 10040	肥胖
+T259	Disease 10041 10046	中心性肥胖
+T260	Disease 10064 10066	超重
+T261	Disease 10067 10069	肥胖
+T262	Disease 10070 10074;10075 10076	中心性肥 胖
+T263	Disease 10106 10108	超重
+T264	Disease 10109 10111	肥胖
+T265	Disease 10113 10118	中心性肥胖
+T266	Disease 10151 10155;10156 10157	中心性肥 胖
+T267	Disease 10188 10190	超重
+T268	Disease 10191 10193	肥胖
+T269	Disease 10194 10199	中心性肥胖
+T270	Disease 10234 10236	肥胖
+T271	Disease 10237 10239;10240 10243	中心 性肥胖
+T272	Test 10281 10285	睡眠时间
+T273	Test 10294 10297;10298 10301	睡眠≤ 4 h
+T274	Disease 10305 10307	超重
+T275	Test 10321 10329;10330 10331	睡眠时间超过 4 h
+T276	Disease 10356 10359	高血压
+T277	Disease 10360 10363	高血糖
+T278	Disease 10364 10366;10367 10369	血脂 异常
+T279	Disease 10370 10374	代谢异常
+T280	Disease 10378 10380	超重
+T281	Disease 10381 10383	肥胖
+T282	Disease 10384 10389	中心性肥胖
+T283	Disease 10430 10432	超重
+T284	Disease 10433 10435	肥胖
+T285	Disease 10436 10441	中心性肥胖
+T286	Disease 11283 11288	中心性肥胖
+T287	Test 11607 11615	睡眠时间≤4 h
+T288	Test 11680 11682	血糖
+T289	Disease 11697 11701	血脂异常
+T290	Disease 12282 12287	中心性肥胖
+T291	Test 12616 12620	睡眠时间
+T292	Test_Value 12620 12624	>4 h
+T293	Disease 12667 12670	高血压
+T294	Test 12714 12716	血糖
+T295	Disease 12759 12763	血脂异常
+T296	Test 12880 12882	体重
+T297	Test 12889 12891	身高
+T298	Disease 12893 12895	超重
+T299	Disease 12896 12898	肥胖
+T300	Disease 12946 12948	肥胖
+T301	Disease 12959 12961	超重
+T302	Disease 13022 13024	超重
+T303	Disease 13025 13027	肥胖
+T304	Disease 13053 13055;13056 13059	中心 性肥胖
+T305	Disease 13147 13148;13149 13150	超 重
+T306	Disease 13151 13153	肥胖
+T307	Disease 13154 13159	中心性肥胖
+T308	Disease 13214 13216	超重
+T309	Disease 13218 13220	肥胖
+T310	Disease 13222 13227	中心性肥胖
+T311	Test_Value 13250 13256	44. 8%
+T312	Disease 13263 13265	肥胖
+T313	Disease 13298 13303	中心性肥胖
+T314	Disease 13338 13344	2 型糖尿病
+T315	Disease 13351 13356	中心性肥胖
+T316	Test 13361 13363	腰围
+T317	Test_Value 13363 13369	≥90 cm
+T318	Test 13372 13374	腰围
+T319	Test_Value 13374 13377;13378 13380	≥85 cm
+T320	Test 13397 13399	腰围
+T321	Test_Value 13399 13405	≥85 cm
+T322	Test 13409 13411	腰围
+T323	Test_Value 13411 13417	≥80 cm
+T324	Test 13427 13431	体脂含量
+T325	Test 13528 13532	体重指数
+T326	Test 13533 13535	腰围
+T327	Test 13537 13540	腰臀比
+T328	Test 13548 13552	体重指数
+T329	Test 13555 13557	身高
+T330	Test 13558 13560	体重
+T331	Test 13586 13588	腰围
+T332	Test 13589 13592	腰臀比
+T333	Disease 13619 13624	全身性肥胖
+T334	Disease 13626 13631	中心性肥胖
+T335	Disease 13643 13648	心血管疾病
+T336	Disease 13650 13656	2 型糖尿病
+T337	Disease 13698 13700	超重
+T338	Disease 13702 13704	肥胖
+T339	Disease 13705 13710	中心性肥胖
+T340	Disease 13763 13765	超重
+T341	Disease 13778 13780	超重
+T342	Disease 13809 13810;13811 13812	肥 胖
+T343	Anatomy 13857 13859	卵巢
+T344	Test 13864 13865;13866 13868	雌 激素
+T345	Test_Value 13870 13872	下降
+T346	Test_Value 13880 13882	下降
+T347	Test 13886 13888	体重
+T348	Test_Value 13897 13899	下降
+T349	Test 13905 13907	体重
+T350	Test 13924 13926	体重
+T351	Test 13944 13948	体脂含量
+T352	Test 13949 13953	体脂分布
+T353	Test 13965 13969	体重指数
+T354	Disease 13993 13998	中心性肥胖
+T355	Disease 14040 14042	肥胖
+T356	Disease 14085 14087	肥胖
+T357	Disease 14114 14116	超重
+T358	Disease 14117 14118;14119 14120	肥 胖
+T359	Disease 14121 14126	中心性肥胖
+T360	Test 14140 14142	体重
+T361	Test 14176 14180	睡眠时间
+T362	Reason 14224 14228	睡眠不足
+T363	Disease 14239 14241	超重
+T364	Disease 14242 14244	肥胖
+T365	Disease 14253 14255	肥胖
+T366	Disease 14307 14310	高血压
+T367	Disease 14311 14314	高血糖
+T368	Disease 14315 14319	血脂异常
+T369	Disease 14320 14324	代谢异常
+T370	Disease 14329 14331	超重
+T371	Disease 14333 14335	肥胖
+T372	Disease 14337 14342	中心性肥胖
+T373	Disease 14362 14364	肥胖
+T374	Test 14394 14396	体重
+T375	Test 14398 14400	腰围
+T376	Test 14401 14403	臀围
+T377	Test 14409 14411	血压
+T378	Test 14412 14414	血糖
+T379	Test 14415 14417	血脂
+T380	Disease 14433 14435	肥胖
+T381	Disease 14436 14441	中心性肥胖
+T382	Disease 14451 14453	肥胖
+T383	Disease 14493 14495	肥胖

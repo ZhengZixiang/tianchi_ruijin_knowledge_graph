@@ -1,0 +1,312 @@
+临床研究
+基金项目:国家自然科学基金资助项目(81070639,30771038)
+2 型糖尿病及肥胖患者血浆颗粒蛋白前体
+水平及其与胰岛素抵抗的关系
+瞿华  邓华聪  胡振平  王行  邓敏  魏慧丽  李晓宇
+[摘要]   目的  检测 2 型糖尿病患者及肥胖患者血浆颗粒蛋白前体(PGRN)水平,探讨其与慢性炎症
+及胰岛素抵抗的关系。 方法  80 例 2 型糖尿病(T2DM)患者和 88 名正常糖耐量(NGT)个体以体重指数
+(BMI)≥25 kg / m2为切点分别分为正常体重(NW)亚组和肥胖(OB)亚组,检测空腹血糖(FPG)、糖负荷后
+2 h 血糖(2hPG)、HBA1C、血脂、空腹胰岛素(FINS)水平,计算 BMI 和腰臀比,并以稳态模型评估胰岛素抵抗
+指数(HOMA-IR)及胰岛 β 细胞功能(HOMA-β)。 采用 ELISA 法检测血浆 PGRN 及白细胞介素 6( IL-6)水
+平。 结果  血浆 PGRN 水平在 T2DM 组高于 NGT 组(P<0. 01),在 T2DM 组和 NGT 组内,OB 亚组 PGRN 水
+平高于对应 NW 亚组[(225. 22 ± 34. 39 对 195. 59 ± 50. 47 和 183. 79 ± 61. 63 对 148. 69 ± 55. 27) ng / ml, P<
+0. 05],相关性分析提示血浆 PGRN 水平与体重、腰围、BMI、收缩压、FPG、2hPG、HBA1C、甘油三酯(TG)、
+IL-6、FINS、HOMA-IR 呈正相关(P<0. 05 或 P<0. 01),与 HOMA-β 呈负相关(P<0. 05)。 多元线性回归分析
+提示 BMI、HBA1C、IL-6 及 TG 是血浆 PGRN 水平的独立影响因素(P<0. 05)。 结论  2 型糖尿病及肥胖患者
+血浆 PGRN 水平均升高,其升高程度与糖脂代谢紊乱、炎症及胰岛素抵抗的程度密切相关。
+[关键词]   糖尿病, 2 型; 肥胖; 颗粒蛋白前体; 胰岛素抵抗
+Relationship between plasma progranulin and insulin resistance in patients with type 2 diabetes mellitus and
+obesity    QU Hua, DENG Hua-cong, HU Zhen-ping, WANG Hang, DENG Min, WEI Hui-li, LI Xiao-yu.
+Department of Endocrinology, the First Affiliated Hospital of Chongqing Medical University, Chongqing 400016, China
+[Abstract]  Objective  To detect plasma progranulin (PGRN)level in subjects with newly diagnosed type 2
+diabetes mellitus and to investigate the relationship of plasma PGRN level with glycolipid metabolism, inflammation,
+and insulin resistance. Methods Eighty patients with newly diagnosed type 2 diabetes (T2DM) and 88 subjects with
+normal glucose tolerance (NGT) were recruited in the study. Both of them were divided into normal weight (NW)
+subgroup and obesity (OB) subgroup. Obesity was defined as body mass index(BMI)≥25 kg / m2 according to the
+World Health Organization-Western Pacific Region diagnostic criteria(2000). Body fat parameters were measured and
+BMI, waist-to-hip ratio were determined. Fasting plasma PGRN and interleukin-6( IL-6) levels were determined by
+ELISA, fasting plasma glucose ( FPG), 2 h plasma glucose after glucose loading(2hPG), HBA1C, fasting insulin
+(FINS), and lipids were also detected. Insulin resistance and pancreas β cell function were assessed by homeostasis
+model assessment (HOMA-IR, HOMA-β). Results Plasma PGRN level was significantly higher in T2DM group
+than that in NGT group(P<0. 01) . Within groups of T2DM and NGT, plasma PGRN level in OB subgroups was higher
+than that in NW subgroups [(225. 22 ±34. 39 vs 195. 59 ±50. 47 and 183. 79 ±61. 63 vs 148. 69 ±55. 27)ng / ml, P<
+0. 05] . Bivariate correlation analysis showed that plasma PGRN level was positively correlated with weight, waist
+circumference, BMI, systolic blood pressure, FPG, 2hPG, HBA1C, triglyceride(TG), IL-6, FINS, and HOMA-IR
+(P<0. 05 or P<0. 01),and was negatively correlated with HOMA-β(P<0. 05) . Multiple linear regression analysis
+showed that BMI, HBA1C, IL-6, and TG were independently related to plasma PGRN level(P<0. 05) . Conclusions
+Plasma PGRN level was increased in patients with type 2 diabetes as well as in obesity, and was closely related with
+glycolipid metabolism, inflammation, and insulin resistance.
+[Key words]  Dabetes mellitus,type 2; Obesity; Progranulin; Insulin resistance
+(Chin J Endocrinol Metab, 2013, 29: 570-574)
+胰岛素抵抗(insulin resistance)是 2 型糖尿病及肥
+胖发病的重要病理生理基础[1],但其分子机制尚未完
+全阐明,近年来炎症学说备受关注,认为 2 型糖尿病及
+肥胖是一种慢性低度炎症性疾病,炎症是引起胰岛素
+抵抗的关键[2-4]。
+颗粒蛋白(GRN)是近年来发现的一个独立的生
+长因子家族,包括 GRN A、B、C、D 和 F,他们都是由颗
+粒蛋白前体(progranulin, PGRN)水解而来,大部分组
+织器官中都有 PGRN 基因的表达,如脂肪组织、皮肤组
+织、胃肠道系统、生殖器官和乳腺上皮组织等[5,6]。
+PGRN 具有参与炎症反应、组织损伤修复、干预细胞周
+期及诱导肿瘤形成的病理生理作用。 最新研究表
+明[7],PGRN 可刺激脂肪细胞分泌白细胞介素 6
+(IL-6),参与肥胖大鼠胰岛素抵抗的发生[8],但其在人
+体中与炎症及胰岛素抵抗的关系尚不清楚,因此,本研
+究通过测定 PGRN 在 2 型糖尿病、肥胖及正常人群血
+浆中的水平,分析其与糖脂代谢、肥胖相关参数及炎症
+因子的相关性,从而探讨 PGRN 在胰岛素抵抗中的病
+理生理作用。
+对象和方法
+一、 对象
+168 例中国重庆地区汉族人,其中男性 64 例,女
+性 104 例,年龄 40 ~ 75 岁。 所有受试者均接受口服糖
+耐量试验,按 1999 年世界卫生组织(WHO)糖尿病诊
+断标准将研究对象分为正常糖耐量组(NGT 组)88 例、
+2 型糖尿病组(T2DM 组)80 例。 再根据 2000 年 WHO
+推荐的亚洲成年人肥胖诊断标准[9],以体重指数
+(BMI)25 kg / m2为切点,将研究对象分为 4 个亚组:正
+常糖 耐 量 正 常 体 重 亚 组 ( NGT-NW 组, BMI < 25
+kg / m2),正常糖耐量肥胖亚组(NGT-OB 组,BMI≥25
+kg / m2),2 型糖尿病正常体重亚组 ( T2DM-NW 组,
+BMI<25 kg / m2),2 型糖尿病肥胖亚组(T2DM-OB 组,
+BMI≥25 kg / m2)。 2 型糖尿病患者均为初次诊断,诊
+断前未接受包括饮食、运动疗法在内的任何糖尿病治
+疗措施。 除外高血压、继发性肥胖、糖尿病严重急、慢
+性并发症、急性炎症性疾病、肝、肾疾病者。 妊娠、哺乳
+期及服用避孕药物的女性亦排除在本研究之外。 本研
+究获得重庆医科大学附属第一医院伦理委员会批准,
+所有受试者均已签署知情同意书。
+二、 方法
+1. 资料采集:(1)人体参数的测定:由专人用同一
+测量工具测定身高、体重、腰围、臀围及血压,并计算
+BMI 及腰臀比。 (2)生化指标的测定:所有受试者清
+晨空腹(试验前禁食 12 h,禁饮 8 h)采静脉血测定血
+脂、肝肾功能 (采用全自动生化仪分析)、空腹血糖
+(FPG,氧化酶法)、空腹胰岛素(FINS,化学发光法)。
+稳态模型评估的胰岛素抵抗指数(HOMA-IR) = FPG
+(mmol / L) × FINS ( mU / L) / 22. 5,胰岛 β 细胞功能
+(HOMA-β)= 20 ×FINS(mU / L) / FPG(mmol / L) -3. 5。
+测定 IL-6 (ELISA 法,Bioswamp)、血浆 PGRN(ELISA
+法,中国武汉华美基因公司)
+三、 统计学处理
+计量数据均用 x- ± s 表示。 非正态分布数据(如
+HOMA-IR, HOMA-β)经对数转化为正态分布后进行
+分析。 多组间分析采用单因方差分析,2 组间分析采
+用独立样本 t 检验分析,相关分析采用 Pearson 相关分
+析及偏相关分析。 影响 PGRN 的多因素分析采用多元
+线性回归分析。 采用软件 SPSS 19. 0 进行分析,P <
+0. 05 为差异有统计学意义。
+结    果
+一、 一般临床资料比较(表 1)
+1. NGT 组和 T2DM 组的比较:2 组间年龄、体重、
+BMI、腰围、腰臀比差异无统计学意义(P>0. 05);收缩
+压、FPG、餐后 2 h 血糖(2hPG)、FINS、HBA1C、甘油三酯
+(TG)、低密度脂蛋白胆固醇 ( LDL-C)、PGRN、 IL-6、
+HOMA-IR 在 T2DM 组高于 NGT 组 (P < 0. 05 或 P <
+0. 01 ), T2DM 组高密度脂蛋白胆固醇 ( HDL-C)、
+HOMA-β 低于 NGT 组(P<0. 01)。
+2. 各亚组间糖脂代谢及肥胖相关指标比较:各亚
+组间年龄及性别匹配。 相比 NGT 两亚组,T2DM 两亚
+组的 FPG、2hPG 和 HBA1C均明显升高(P<0. 01)。 OB
+两亚组的体脂参数均高于其对应的 NW 两亚组(P<
+0. 01),而 OB 两亚组及 NW 两亚组组内的体脂参数差
+异均无统计学意义。 FINS、HOMA-IR 在 T2DM-OB 组
+最高,两者在 NGT-OB 组及 T2DM 各亚组均显著高于
+NGT-NW 组(P<0. 01),HOMA-β 在 T2DM-OB 亚组最
+低,在 NGT-NW 亚组最高(P<0. 05 或 P<0. 01)。 OB
+两亚组的总胆固醇、TG 及 LDL-C 均高于 NW 两亚组
+(P<0. 05 或 P<0. 01),NW 两亚组的 HDL-C 高于 OB
+两亚组 ( P < 0. 05 )。 IL-6 水平在 T2DM-OB、 T2DM-
+NW、NGT-OB、NGT-NW 组依次降低。
+二、 血浆 PGRN 水平各组比较
+1. 血浆 PGRN 水平在不同性别间比较:PGRN 水
+平在男性组和女性组之间差异无统计学意义。
+[(190. 11 ± 56. 63) 对 (185. 70 ± 59. 54) ng / ml,P =
+0. 636],在 NGT 及 T2DM 组内比较,PGRN 水平在男
+性和女性组间的差异也无统计学意义。
+2. 血浆 PGRN 水平在各亚组间比较:PGRN 在
+T2DM-OB 亚组最高[(225. 22 ±34. 39)ng / ml],其次±
+次为 T2DM-NW 亚组[(195. 59 ± 50. 47)ng / ml]、NGT-
+OB 亚组 [(183. 79 ± 61. 63) ng / ml]、 NGT-NW 亚组
+[(148. 69 ± 55. 27) ng / ml],T2DM 组高于 NGT 组,差
+异有统计学意义[(211. 52 ±44. 84 对 165. 44 ± 60. 67)
+ng / ml,P<0. 01]。
+三、 PGRN 与体脂、糖脂代谢以及胰岛素抵抗各参
+数的关系
+表 1  各组间一般临床及实验室参数比较(x-± s)
+Tab 1  Comparison of general clinical and laboratory indicators among various groups (x-± s)
+组别
+Group
+例数(男 / 女)
+n(M / F)
+年龄
+(岁)
+Age
+(year)
+体重
+Weight
+(kg)
+BMI
+(kg / m2)
+WC
+(cm) WHR
+SBP
+(mm Hg)
+NGT 88(35 / 53) 58. 81 ± 6. 67 62. 01 ± 9. 47 24. 75 ± 3. 86 84. 62 ± 8. 77 0. 89 ± 0. 06 121 ± 10
+NGT-NW 46(15 / 31) 58. 54 ± 5. 96 55. 83 ± 5. 74 22. 36 ± 1. 75 78. 17 ± 5. 72 0. 86 ± 0. 04 118 ± 9
+NGT-OB 42(20 / 22) 59. 10 ± 7. 43 68. 79 ± 8. 04d 27. 81 ± 3. 10d 91. 69 ± 5. 42d 0. 92 ± 0. 05b 123 ± 10
+T2DM 80(29 / 51) 61. 23 ± 7. 07 62. 93 ± 10. 20 25. 32 ± 2. 89 86. 52 ± 8. 13a 0. 89 ± 0. 05 135 ± 15b
+T2DM-NW 37(11 / 26) 61. 65 ± 6. 96 55. 54 ± 6. 27 22. 97 ± 1. 47 80. 38 ± 6. 20 0. 87 ± 0. 05 134 ± 16df
+T2DM-OB 43(18 / 25) 60. 86 ± 7. 22 69. 30 ± 8. 51h 27. 78 ± 2. 25h 91. 81 ± 5. 43h 0. 91 ± 0. 04h 136 ± 14df
+组别
+Group
+例数(男 / 女)
+n(M / F)
+DBP
+(mm Hg)
+FPG
+(mmol / L)
+2hPG
+(mmol / L)
+HBA1C
+(% )
+FINS
+(mU / L) HOMA-IR HOMA-β
+NGT 88(35 / 53)   74 ± 7 5. 31 ± 0. 39 6. 15 ± 1. 08 5. 67 ± 0. 72 7. 16 ± 4. 10 1. 70 ± 1. 00 82. 00 ± 51. 11
+NGT-NW 46(15 / 31)   74 ± 7 5. 25 ± 0. 33 6. 28 ± 1. 03 5. 49 ± 0. 32 5. 61 ± 2. 58 1. 32 ± 0. 64 93. 42 ± 39. 60
+NGT-OB 42(20 / 22)   75 ± 7 5. 40 ± 0. 43 6. 00 ± 1. 14 5. 57 ± 0. 35 8. 87 ± 4. 76ce 2. 12 ± 1. 14c 90. 90 ± 44. 27
+T2DM 80(29 / 51)   77 ± 10 7. 49 ± 1. 38b 13. 22 ± 3. 15b 6. 88 ± 0. 60b 10. 10 ± 6. 22b 3. 38 ± 2. 21b 55. 79 ± 38. 42b
+T2DM-NW 37(11 / 26)   74 ± 10 7. 28 ± 1. 34df 13. 58 ± 2. 99df 6. 79 ± 0. 78df 7. 58 ± 3. 88 2. 43 ± 1. 22d 63. 51 ± 32. 09df
+T2DM-OB 43(18 / 25)   79 ± 10ceg 7. 67 ± 1. 40df 13. 09 ± 3. 30df 6. 92 ± 0. 60df 12. 27 ± 7. 04dfh 4. 07 ± 2. 49dfh 43. 96 ± 26. 08dfg
+组别
+Group
+例数(男 / 女)
+n(M / F)
+IL-6
+(pg / ml)
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+PGRN
+(ng / ml)
+NGT 88(35 / 53) 3. 13 ± 2. 32 4. 62 ± 0. 97 1. 28 ± 0. 72 1. 36 ± 0. 30 2. 80 ± 1. 12 165. 44 ± 60. 67
+NGT-NW 46(15 / 31) 2. 57 ± 1. 78 4. 43 ± 0. 91 1. 07 ± 0. 51 1. 43 ± 0. 27 2. 47 ± 0. 69 148. 69 ± 55. 27
+NGT-OB 42(20 / 22) 3. 73 ± 2. 69 4. 82 ± 1. 00c 1. 48 ± 0. 84c 1. 28 ± 0. 32c 2. 84 ± 0. 78c 183. 79 ± 61. 63c
+T2DM 80(29 / 51) 6. 19 ± 3. 61b 4. 73 ± 0. 89 1. 84 ± 1. 19b 1. 22 ± 0. 30a 4. 01 ± 2. 44b 211. 52 ± 44. 84b
+T2DM-NW 37(11 / 26) 4. 46 ± 3. 37c 4. 59 ± 0. 84 1. 50 ± 0. 80c 1. 31 ± 0. 35 2. 55 ± 0. 64 195. 59 ± 50. 47d
+T2DM-OB 43(18 / 25) 7. 68 ± 3. 14dfg 4. 85 ± 0. 92c 2. 04 ± 1. 37deg 1. 14 ± 0. 23deg 5. 28 ± 2. 70c 225. 22 ± 34. 39dfg
+注:NGT:正常糖调节 Normal glucose regulation; NW:正常体重 Normal weight; OB:肥胖 Obesity; T2DM:2 型糖尿病 Type 2 diabetes mellitus; BMI:体
+重指数 Body mass index; WC:腰围 Waist circumference; WHR:腰臀比 Waist-hip ratio; SBP:收缩压 Systolic blood pressure; 1 mm Hg=0. 133 kPa; DBP:舒
+张压 Diastolic blood pressure; FPG:空腹血糖 Fasting plasma glucose; 2hPG:餐后 2 h 血糖 2 h postprandial plasma glucose; FINS:空腹胰岛素 Fasting serum
+insulin; HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment for insulin resistance index;HOMA-β:稳态模型评估的胰岛 β 细胞功能
+Homeostasis model assessment for β cell function;IL-6:白细胞介素-6 Interlukin 6; TC:总胆固醇 Total cholesterol; TG:甘油三酯 Triglyceride; HDL-C:高密度
+脂蛋白胆固醇 High density lipoprotein-cholesterol; LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol; PGRN:颗粒蛋白前体 Plasma
+progranulin; 与 NGT 组比较 vs NGT, aP<0. 05,bP<0. 01; 与 NGT-NW 组比较 vs NGT-NW,c P<0. 05, dP<0. 01; 与 NGT-OB 组比较 vs NGT-OB, eP<
+0. 05,fP<0. 01; 与 T2DM-NW 组比较 vs T2DM-NW, gP<0. 05,hP<0. 01
+相关性分析显示, PGRN 与体重、腰围、 FINS、
+HOMA-IR 呈正相关,有统计学意义( r = 0. 175、0. 191、
+0. 172、0. 228,P<0. 05);PGRN 与 BMI、收缩压、FPG、
+2hPG、HBA1C、TG 及 IL-6 呈显著正相关 ( r = 0. 286、
+0. 256、0. 348、0. 292、0. 276、0. 221、0. 383,P<0. 01);
+与 HOMA-β 呈负相关性( r = -0. 225,P<0. 05)。 以血
+浆 PGRN 为因变量,以 BMI、腰围、 收缩压、 2hPG、
+HBA1C、TG、IL-6、HOMA-IR 为自变量进一步行多元线
+性回归分析,结果显示 BMI、HBA1C、IL-6、TG 与血浆
+PGRN 水平独立相关(均 P<0. 05)。
+讨    论
+PGRN 是由 593 个氨基酸组成的生长因子,于
+1990 年由 Anakwe 等[10] 在豚鼠的精子细胞中发现,是
+分子量为 68 000 ~ 88 000 的分泌型蛋白,含有 7. 5 个
+模序,每个模序含有 12 个半胱氨酸,共形成 6 对二硫
+键。 既往关于 PGRN 的研究多集中于神经系统疾病和
+肿瘤方面,认为 PGRN 基因缺失可导致额颞叶痴呆
+(FTLD) [11-13]和阿尔茨海默病[14],且 PGRN 可通过激
+活细胞信号调节激酶(ERK)、磷酸肌醇 3 激酶(PI3K)
+通路发挥其促肿瘤细胞迁移,抗细胞凋亡等作用[7]。
+近年来 Youn 等[15]提出 PGRN 具有促进炎症因子表达
+及刺激巨噬细胞迁移的作用。 在动物及细胞实验中研
+究发现,脂肪组织可表达高水平的 PGRN,而高表达的
+PGRN 可促进脂肪细胞分泌 IL-6,并通过 IL-6 途径加
+快胰岛素受体底物 1(IRS-1)蛋白酶体的降解,影响胰
+岛素信号通路,参与形成胰岛素抵抗[8]。 但其在人体
+内表达如何? 是否也通过促进脂肪组织高表达炎症因
+子,导致胰岛素抵抗的形成尚未见报道。
+Youn 等[15]在 2009 年首次发现 PGRN 水平与 2 型
+糖尿病有关,其研究表明,2 型糖尿病患者血清 PGRN
+水平是正常糖耐量人群的 1. 4 倍,但他们并未观察脂
+代谢紊乱及肥胖可能对 2 型糖尿病患者血清 PGRN 水
+平带来的变化。 因此,本研究首次对不同体脂量和糖
+耐量的患者进行分组分析,发现 2 型糖尿病正常体重
+患者血浆 PGRN 水平是正常糖耐量正常体重组 1. 3
+倍,提示单纯糖耐量异常可导致血浆 PGRN 水平升高,
+相关性分析显示,血浆 PGRN 水平与 FPG、2hPG 呈正
+相关,且与 HBA1C水平独立相关,进一步证实人体内血
+浆 PGRN 水平与糖耐量异常程度密切相关。
+在肥胖及脂代谢紊乱与 PGRN 水平研究方面,已
+有动物实验证实 PGRN 基因在脂肪组织的基质细胞及
+脂肪细胞均有表达,且内脏脂肪组织 PGRN 基因表达
+高于皮下脂肪组织,并高于其他器官如脾脏、肺、脑
+等[5,6,15]。 Matsubara 等[8]发现 PGRN 基因敲除的小鼠
+可对抗由高脂饮食诱发的肥胖,且用重组 PGRN 处理
+的小鼠更易在高脂饮食的条件下诱发肥胖。 上述研究
+提示 PGRN 与肥胖密切相关,且肥胖可促使脂肪组织
+分泌更多的 PGRN,形成恶性循环。 本项研究结果提
+示糖耐量正常的肥胖患者组血浆 PGRN 水平是正常糖
+耐量正常体重组的 1. 2 倍,而 2 型糖尿病伴肥胖的患
+者其血浆 PGRN 水平是正常糖耐量正常体重组的 1. 5
+倍,提示单纯肥胖可引起血浆 PGRN 水平增高,且肥胖
+和糖耐量异常对血浆 PGRN 水平增高具有累加作用。
+相关性分析显示 PGRN 水平与体重、BMI 以及腰围呈
+正相关,且 BMI 是血浆 PGRN 水平的独立影响因素,
+上述结果均提示在人体内 PGRN 与肥胖密切相关。 本
+研究还发现受试者血浆 PGRN 水平与 LDL-C 正相关,
+与 HDL-C 负相关,且 TG 是血浆 PGRN 水平的独立影
+响因素,表明 PGRN 在人体内不仅与肥胖有关,也可能
+参与脂质代谢紊乱的病理过程。
+胰岛素抵抗是糖脂代谢紊乱及肥胖的共同病理基
+础。 Matsubara 等[8]研究发现用吡格列酮干预肥胖小
+鼠可明显改善其胰岛素抵抗,同时,PGRN 基因表达也
+明显下调。 此外,给予小鼠重组 PGRN 可使其 FINS 水
+平显著增高,胰岛素抵抗加重,而沉默大鼠的 PGRN 基
+因可阻断由高脂饮食所诱发的胰岛素抵抗。 上述研究
+结果均提示 PGRN 在大鼠体内可引起胰岛素抵抗。 本
+研究发现,PGRN、FINS 及 HOMA-IR 水平均在 2 型糖
+尿病伴肥胖患者中最高,其次为正常体重糖尿病患者
+和肥胖非糖尿病患者,且 PGRN 水平与 FINS、HOMA-
+IR 呈正相关,与 HOMA-β 负相关,提示在人体内
+PGRN 水平与胰岛素抵抗程度密切相关,且在高 PGRN
+水平时胰岛 β 细胞功能减弱。
+慢性炎症是导致胰岛素抵抗的重要机制[3]。 既
+往研究已证实炎症因子 IL-6 是引起糖尿病和肥胖患
+者发生胰岛素抵抗的因素之一,其机制在于 IL-6 可通
+过激活 JAK-STAT 通路,增加细胞因子信号转导负调
+控因子(SOCS3)表达,而 SOCS3 可直接增加 IRS-1 蛋
+白酶体的降解,从而抑制胰岛素信号通路,引起胰岛素
+抵抗[16-18]。 本研究发现 2 型糖尿病伴肥胖患者体内
+IL-6 水平高于正常体重的糖尿病患者及正常糖耐量的
+肥胖患者,且均高于正常糖耐量正常体重受试者,表明
+随着糖脂代谢紊乱及肥胖程度的加重,慢性炎症的水
+平升高,胰岛素抵抗增高。 Matsubara 等[8] 研究发现
+TNF-α 引起的脂肪细胞 IL-6 分泌增加在 PGRN 基因
+缺失的 3T3-L1 脂肪细胞可完全被抑制,且 PGRN 基因
+缺失的小鼠血清及脂肪细胞中的 IL-6 水平低于正常
+小鼠,胰岛素抵抗也明显改善。 在细胞水平和动物实
+验中证实 PGRN 是引起脂肪组织释放炎症因子 IL-6
+的重要因素,且其可以通过 IL-6 相关炎症通路发挥其
+增加胰岛素抵抗的作用。 本研究发现 IL-6 是 PGRN
+水平的独立影响因素,提示在人体内 PGRN 与炎症程
+度密切相关,但由于本研究为横断面研究,无法阐明在
+人体内 PGRN 与 IL-6 水平升高孰因孰果,且其在人体
+内的作用机制尚不清楚,需大量研究予以证实。
+本研究结果表明,血浆 PGRN 水平在 2 型糖尿病
+及肥胖患者体内均升高,且血浆 PGRN 水平与糖脂代
+谢紊乱、肥胖、胰岛素抵抗及炎症的程度密切相关。 深
+入研究 PGRN 与炎症及胰岛素抵抗的关系,有助于进
+一步明确 2 型糖尿病和肥胖的发病机制,为 2 型糖尿
+病及肥胖症的治疗提供新靶点。

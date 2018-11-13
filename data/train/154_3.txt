@@ -1,0 +1,477 @@
+临床研究
+学第二附属医院内分泌科(刘越素);030001 太原,山西医科大学第一附属医院内分泌科(许林鑫);第一作者现在石家庄
+市第二医院内分泌科
+2 型糖尿病患者颈动脉和下肢动脉粥样
+硬化分级与心脑血管疾病关系的研究
+刘珊  周翔海  胡萍  庞梦端  段妍  刘艳  刘越素  许林鑫
+[摘要]   目的  研究住院 2 型糖尿病患者颈动脉和下肢动脉粥样硬化分级与心脑血管疾病的关系。
+方法 收集 1 503 例平均年龄(55. 8 ± 12. 9)岁的住院 2 型糖尿病患者病历资料,采用血管彩超检查评估颈
+动脉和下肢动脉内-中膜厚度、粥样硬化斑块和管腔直径,±动脉粥样硬化程度分为 4 级:无动脉粥样硬化
+(1 级);动脉内-中膜增厚(2 级);粥样硬化斑块形成(3 级);动脉狭窄≥20% (4 级)。 冠心病及脑梗塞病
+史来自病历记录。 采用 logistic 多因素回归分析颈动脉和下肢动脉粥样硬化分级与冠心病、脑梗塞的相关
+性。 结果 多因素调整后回归分析显示,与颈动脉 1 级患者比较,颈动脉 3 级和 4 级患者的冠心病患病风
+险增加[OR=2. 30(95% CI 1. 17 ~ 4. 53),OR = 4. 05(95% CI 1. 88 ~ 8. 74)],脑梗塞患病风险增加[OR =
+1. 95(95% CI 1. 22 ~ 3. 10),OR=2. 68(95% CI 1. 50 ~ 4. 77)]。 与下肢动脉 1 级患者比较,下肢动脉 3 和 4
+级患者冠心病患病风险增加[OR=2. 39(95% CI 0. 99 ~ 5. 74),OR=4. 10(95% CI 1. 44 ~ 11. 67)];下肢动脉
+2、3 和 4 级患者脑梗塞患病风险增加[OR=2. 20(95% CI 1. 05 ~ 4. 63),OR = 3. 60(95% CI 1. 82 ~ 7. 10)和
+OR =3. 15(95% CI 1. 32 ~ 7. 50)]。 与颈动脉和下肢动脉分级均为 1 或 2 级患者相比,颈动脉和下肢动脉分
+级均为 3 或 4 级的患者,冠心病和脑梗塞的患病风险均增高;而仅有一个部位动脉分级为 3 或 4 级者,其冠
+心病和脑梗塞患病风险无明显增高。 结论 可以采用简单的动脉硬化分级方法评估 2 型糖尿病患者颈动
+脉或下肢动脉粥样硬化程度。 如同时评估颈动脉和下肢动脉粥样硬化,仅当两者均出现斑块或狭窄时,冠
+心病或脑梗塞的患病风险显著增高。
+[关键词]   糖尿病, 2 型; 动脉粥样硬化; 冠心病; 脑梗塞; 颈动脉分级
+Association of carotid artery and lower-extremity artery atherosclerosis and coronary heart disease or
+cerebral infarction in type 2 diabetes Liu Shan *, Zhou Xianghai, Hu Ping, Pang Mengduan,Duan Yan, Liu
+Yan, Liu Yuesu, Xu Linxin. *Department of Endocrinology and Metabolism, Peking University People忆 s Hospital,
+100044, China
+[Abstract ]   Objective   To investigate the association of carotid artery and lower-extremity artery
+atherosclerosis to coronary heart disease or cerebral infarction in diabetes mellitus. Methods Medical records of
+1 503 hospitalized patients with type 2 diabetes aged (55. 8 ± 12. 9) years were collected. Doppler-ultrasound of the
+carotid and lower-extremity arteries was used to assess the intima-media thickness, plaques, and diameter of the
+vessels. The degrees of carotid and lower-extremity artery atherosclerosis were classified into free of atherosclerosis
+(Grade 1), increased intima-media thickness ( Grade 2), presence of plaques ( Grade 3), and stenosis≥20%
+(Grade 4) . Histories of coronary heart disease and cerebral infarction were obtained from the medical records.
+Logistic regression analysis was used to estimate OR (95% CI) for the presence of coronary heart disease and cerebral
+infarction. Results Multivariate adjusted ORs(95% CI) for the presence of coronary heart disease were 2. 30(1. 17-
+4. 53) and 4. 05(1. 88-8. 74) in patients at Grade 3 and Grade 4 in carotid arteries, respectively, as compared with
+patients at Grade 1 in carotid arteries. The ORs(95% CI) for the presence of cerebral infarction were 1. 95(1. 22-
+3. 10) and 2. 68 (1. 50-4. 77) in patients at Grade 3 and Grade 4 in carotid arteries, respectively. Multivariate
+adjusted ORs(95% CI) for the presence of coronary heart disease were 2. 39(0. 99-5. 74) and 4. 10(1. 44-11. 67) in
+patients at Grade 3 and Grade 4 in lower-extremity arteries, respectively, as compared with patients at Grade 1 in
+lower-extremity arteries. For the presence of cerebral infarction, the ORs(95% CI) were 2. 20(1. 05-4. 63), 3. 60
+(1. 82-7. 10), and 3. 15 (1. 32-7. 50) in patients at Grade 2, Grade 3, and Grade 4 in lower-extremity arteries,
+respectively. Patients at Grade 3 or Grade 4 in both vascular locations were at a higher risk of coronary heart disease or
+cerebral infarction as compare with patients at Grade 1-2 in both vascular locations, whereas the risk was not
+significantly increased in patients at Grade 3-4 in only one vascular location. Conclusions The simple method of
+assessing the degree of arterial atherosclerosis can be used to evaluate carotid artery and lower-extremity artery
+atherosclerosis in patients with type 2 diabetes. Patients with plaques or stenosis in both vascular locations were with a
+significantly increased risk of coronary heart disease or cerebral infarction if they were evaluated concurrently.
+[Key words]   Diabetes mellitus, type 2; Atherosclerosis; Coronary heart disease; Cerebral infarction;
+Carotid artery degree
+(Chin J Endocrinol Metab, 2016, 32: 989-994)
+颈动脉和下肢动脉粥样硬化是心脑血管疾病的危
+险因素[1-3]。 与普通人群相比,2 型糖尿病患者动脉粥
+样硬化出现更早,进展速度更快,病变更弥散、广泛,易
+累及远端血管[4]。 颈动脉和下肢动脉彩超广泛应用
+于临床对 2 型糖尿病患者周围动脉粥样硬化的筛查和
+诊断。 既往采用 Crouse 积分评价 2 型糖尿病患者颈
+动脉粥样硬化程度的研究显示,随着颈动脉粥样硬化
+程度增加,急性缺血性脑卒中的发病风险增加[5]。 但
+由于 Crouse 积分需要用颈动脉超声测定所有斑块厚
+度,难以在临床广泛应用。 2 型糖尿病患者发生下肢
+动脉粥样硬化病变的风险较非糖尿病患者增高,既往
+研究 2 型糖尿病患者下肢动脉粥样硬化和心脑血管疾
+病的关系尚不明确,且多采用踝肱指数对下肢动脉硬
+化程度进行评价。
+尽管颈动脉和下肢动脉粥样硬化对患心脑血管疾
+病具有提示作用,目前临床缺乏利用动脉彩超检查结
+果对动脉粥样硬化进行分级并评估心脑血管疾病患病
+风险的系统,且颈动脉和下肢动脉粥样硬化程度存在
+不一致现象[6-7]。 在芬兰的一项普通人群的研究中,采
+用简单的动脉粥样硬化分级系统对颈动脉和下肢动脉
+进行评估,显示随着颈动脉和下肢动脉粥样硬化的加
+重,心肌梗死的发生风险增加[8-9]。 在 2 型糖尿病患者
+中,验证该分级系统评估颈动脉和下肢动脉粥样硬化
+程度与心脑血管疾病关系的研究较少。 本研究在住院
+的 2 型糖尿病患者中应用该分级系统验证颈动脉和下
+肢动脉粥样硬化程度与冠心病和脑梗塞患病风险的相
+关性,并探讨颈动脉和下肢动脉粥样硬化程度的一致
+性对冠心病和脑梗塞患病风险评估的影响。
+对象和方法
+一、 对象
+连续收集 2012 年 1 月至 2015 年 3 月在北京大学
+人民医院内分泌科住院的 1 666 例 2 型糖尿病患者的
+临床资料,所有患者均符合世界卫生组织(WHO)糖尿
+病诊断标准,本研究排除颈动脉及下肢动脉介入或手
+术治疗者 6 例,未做颈动脉彩超和(或)下肢动脉彩超
+者 157 例,所需临床资料齐全的 2 型糖尿病患者共
+1 503 例。
+二、 方法
+1. 颈动脉彩超采用日本东芝 Aplio 500 超声诊断
+仪,探头频率 7. 5 MHz,检测双侧颈总动脉、颈内动脉、
+颈动脉分叉处,下肢动脉彩超检测双侧股总动脉、股浅
+动脉、股深动脉、腘动脉、胫前动脉、胫后动脉及足背动
+脉。 颈动脉粥样硬化定义为单侧或双侧颈总动脉、分
+叉处及颈内动脉外段的管壁僵硬、内-中膜增厚、内膜
+下脂质沉积和(或)斑块形成。 任意点内-中膜厚度
+(intima-media thickness, IMT) [10-11] <0. 9 mm 为颈动脉
+内膜正常,IMT≥0. 9 mm 定义为颈动脉内-中膜增厚,
+IMT≥1. 2 mm 和(或)有斑块形成定义为颈动脉斑块。
+血管管径狭窄程度采用斑块处血管腔面积与正常血管
+腔面积百分比评价。
+2. 结果判定:根据动脉粥样硬化程度分为 1 ~ 4
+级[8],1 级:无动脉粥样硬化(无动脉内-中膜增厚及动
+脉斑块);2 级:动脉内-中膜增厚,但无明显斑块形成;
+3 级:动脉斑块形成,但未造成明显狭窄(动脉直径狭
+窄率<20% );4 级:动脉直径狭窄率≥20% 。 以最重侧
+分级作为最终分级。
+3. 缺血性心脏病定义:既往有心肌梗死病史、冠
+状动脉重建术史或行冠状动脉造影明确冠状动脉狭窄
+大于 50% ,符合任意一项为阳性。
+4. 脑梗塞定义:既往有明确脑梗塞病史,头颅计
+算机断层扫描(CT)或核磁共振检查(MRI)可见梗塞
+灶。
+5. 吸烟定义:正在吸烟,或既往吸烟而目前已戒
+烟。
+6. 一般资料与血生化指标测定:记录患者糖尿病
+病程、年龄、性别、吸烟史、饮酒史、高血压病史、收缩
+压、舒张压、身高、体重,计算体重指数 = 体重 /身高2
+(kg / m2)。 采用全自动生化分析仪(日立 7170 型,日
+本)测定静脉空腹血糖、血清总胆固醇、三酰甘油、低
+密度脂蛋白胆固醇( LDL-C)、高密度脂蛋白胆固醇
+(HDL-C)、谷丙转氨酶、谷草转氨酶、血肌酐;采用高
+压液相法(Primus ultra2,美国)测定 HBA1C。
+三、 统计学处理
+使用统计学软件 SPSS 22. 0 进行统计分析,正态
+分布的连续变量资料以 x-± s 表示,2 组间比较采用 t 检
+验,多组间比较采用方差分析;偏态分布的连续变量用
+中位数(四分位间距)表示,组间比较采用非参数检验
+(Mann-Whitney,U 检验)。 分类变量用 n(% )表示,组
+间比较采用 字2检验,动脉分级的一致性用 kappa 值表
+示。 危险因素分析采用 logistic 回归分析,P<0. 05 为
+差异有统计学意义。
+结    果
+一、 一般情况
+本研究共纳入 1 503 例住院的 2 型糖尿病患者,
+平均年龄(55. 8 ± 12. 9)岁,男性占 60. 1% 。 中位糖尿
+病病程 10 年,平均 HBA1C 9. 0% 。
+二、 有冠心病和无冠心病患者临床资料的比较
+与无冠心病患者比较,冠心病组患者中位病程较
+长[(14. 0 对 9. 0)年, P<0. 01],平均年龄较大[(65. 2
+对 54. 8)岁, P<0. 01],吸烟者比例更高(53. 4% 对
+43. 0% , P<0. 05),中位估算肾小球滤过率( estimated
+glomerular filtration rate, eGFR) 及平均 HBA1C 较低
+[(98. 22 对 122. 22)ml / min,(8. 8 ± 1. 7)% 对(9. 1 ±
+2. 0)% ,均 P <0. 01],平均空腹血糖较低 [(7. 32 ±
+2. 64 对 7. 90 ± 2. 96)mmol / L, P<0. 05],较高比例的
+患者正在服用他汀类药物 (62. 8% 对 22. 1% , P <
+0. 01),颈动脉分级 3 ~ 4 级的患者比例更高(80. 4%
+对 55. 4% , P<0. 01,表 1)。
+表 1  1 503 例住院 2 型糖尿病患者临床资料的比较[x-± s,中位数(四分位间距)]
+Tab 1  Comparison of clinical characteristics of 1503 hospitalized patients with type 2 diabetes[x-± s, M(25th,75th)]
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+病程
+(年)
+Duration
+(year)
+吸烟
+Smoking
+n(%)
+他汀类药物
+Statin
+n(%)
+体重指数
+Body
+mass index
+(kg / m2)
+收缩压
+Systolic blood
+pressure
+(mmHg)
+舒张压
+Diastolic
+blood pressure
+(mmHg)
+总胆固醇
+Total
+cholesterol
+(mmol / L)
+无冠心病
+Without CHD 1 355(803 / 552) 54. 8 ±12. 8 9. 0(4. 0,15. 0) 582(43. 0%) 299(22. 1%) 26. 1 ±4. 0 130±17 79±11 4. 70±1. 17
+有冠心病
+With CHD 148(100 / 48) 65. 2 ±12. 8
+b 14. 0(8. 0,20. 0)b 79(53. 4%)a 93(62. 8%)b 26. 6 ±3. 8 131±16 75±9 4. 00±1. 06
+无脑梗塞
+Without CI 1 233(765 / 468) 54. 1 ±12. 8 8. 0(3. 8,14. 5) 541(43. 9%) 282(22. 9%) 26. 2 ±3. 9 129±17 79±11 4. 66±1. 20
+有脑梗塞
+With CI 270(138 / 132)
+d 63. 7 ±10. 2d 13. 0(8. 0,18. 3)d 120(44. 4%) 119(44. 1%)d 26. 1 ±4. 0 134±17 77±10 4. 48±1. 12
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+三酰甘油
+Triglycerides
+(mmol / L)
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L)
+空腹血糖
+Fasting
+plasma glucose
+(mmol / L)
+HBA1C
+(%)
+ALT
+(U/ L)
+AST
+(U/ L)
+eGFR
+(ml / min)
+无冠心病
+Without CHD 1 355(803 / 552) 1. 64(1. 14,2. 43) 2. 72±0. 84 0. 98±0. 24 7. 90±2. 96 9. 1 ±2. 0 24. 54±19. 53 21. 76±12. 87 122. 22(102. 02,147. 61)
+有冠心病
+With CHD 148(100 / 48) 1. 49(1. 11,2. 19) 2. 27±0. 85 0. 92±0. 24 7. 32±2. 64
+a 8. 8 ±1. 7b 23. 05±15. 40 22. 16±20. 71 98. 22(79. 79,123. 86)b
+无脑梗塞
+Without CI 1 233(765 / 468) 1. 63(1. 14,2. 43) 2. 69±0. 85 0. 98±0. 25 7. 96±3. 00 9. 1 ±2. 0 25. 03±19. 58 21. 99±14. 28 123. 76(101. 46,148. 47)
+有脑梗塞
+With CI 270(138 / 132)
+d 1. 56(1. 14,2. 20) 2. 60±0. 87 0. 97±0. 20d 7. 30±2. 52c 8. 7 ±1. 9c 21. 50±16. 82d 20. 92±11. 59 111. 47(88. 74,126. 97)d
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+颈动脉粥样硬化分级
+Degree of CA
+n(%)
+下肢动脉粥样硬化分级
+Degree of LA
+n(%)
+1 级
+Grade 1
+2 级
+Grade 2
+3 级
+Grade 3
+4 级
+Grade 4
+1 级
+Grade 1
+2 级
+Grade 2
+3 级
+Grade 3
+4 级
+Grade 4
+无冠心病
+Without CHD 1 355(803 / 552) 361(26. 6%) 244(18. 0%) 638(47. 1%) 112(8. 3%) 262(19. 3%) 270(19. 9%) 768(56. 7%) 55(4. 1%)
+有冠心病
+With CHD 148(100 / 48) 12(8. 1%)
+b 17(11. 5%)b 83(56. 1%)b 36(24. 3%)b 6(4. 1%)b 19(12. 8%)b 104(70. 3%)b 19(12. 8%)b
+无脑梗塞
+Without CI 1 233(765 / 468) 346(28. 1%) 238(19. 3%) 552(44. 8%) 97(7. 9%) 258(20. 9%) 250(20. 3%) 673(54. 6%) 52(4. 2%)
+有脑梗塞
+With CI 270(138 / 132)
+d 27(10. 0%)d 23(8. 5%)d 169(62. 6%)d 51(18. 9%)d 10(3. 7%)d 39(14. 4%)d 199(73. 7%)d 22(8. 1%)d
+注:CHD:冠状动脉粥样硬化性心脏病 Coronary heart disease;CI:脑梗塞 Cerebral infarction;1 mmHg = 0. 133 kPa; LDL-C:低密度脂蛋白胆固醇 Low
+density lipoprotein-cholesterol; HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol; ALT:谷丙转氨酶 Alanine aminotransferase; AST:谷草转氨
+酶 Aspartate aminotransferase; eGFR:估算肾小球滤过率 Estimated glomerular filtration rate; CA:Carotid artery atherosclerosis;LA:Lower-extremity artery
+atherosclerosis; 动脉硬化分级:无动脉粥样硬化(1 级);动脉内-中膜厚度增厚,但无明显斑块形成(2 级);动脉斑块形成,但未造成明显狭窄,动脉直
+径狭窄率<20% (3 级);动脉直径狭窄率≥20% (4 级) The degree of artery atherosclerosis was classified into free of atherosclerosis (Grade 1), increased
+intima-media thickness without aterial plaque(Grade 2), presence of plaques with aterial stenosis <20% (Grade 3), and aterial stenosis≥20% (Grade 4);与无冠
+心病组比较 vs Without CHD group, aP<0. 05, bP<0. 01;与无脑梗塞组比较 vs Without CI group, cP<0. 05, dP<0. 01
+三、 有脑梗塞和无脑梗塞患者临床资料的比较
+与无脑梗塞患者比较,脑梗塞组患者中位病程较
+长且平均年龄较大[(13. 0 对 8. 0)年,(63. 7 ± 10. 2 对
+54. 1 ±12. 8)岁,均 P<0. 01];中位 eGFR 及平均 HDL-C
+较低[(111. 47 对123. 76)ml / min,(0. 97±0. 20 对0. 98±
+0. 25) mmol / L,均 P<0. 01]; 平均空腹血糖及 HBA1C水
+平较低[(7. 30 ± 2. 52 对 7. 96 ± 3. 00) mmol / L,(8. 7 ±
+1. 9)%对(9. 1 ± 2. 0)% ,均 P<0. 05];女性患者比例
+更高(48. 9%对 38. 0% , P<0. 01);较高比例的患者正
+在服用他汀类药物(44. 1%对 22. 9% , P<0. 01),颈动
+脉分级 3 ~ 4 级的患者比例更高(81. 5%对 52. 7% ,P<
+0. 01,表 1)。
+四、 颈动脉粥样硬化与冠心病、脑梗塞的相关性
+分析
+以是否有冠心病为因变量,调整年龄、性别、糖尿
+病病程、收缩压、体重指数、 LDL-C、HBA1C、吸烟史、
+eGFR 后,Logistic 回归分析结果显示,与无颈动脉粥样
+硬化(1 级)患者比较,颈动脉有斑块(3 级)和颈动脉
+狭窄≥20% (4 级)者,冠心病的患病风险均增加,差异
+具有统计学意义。 以是否有脑梗塞为因变量,调整年
+龄、性别、糖尿病病程、收缩压、体重指数、 LDL-C、
+HBA1C、吸烟史、eGFR、HDL-C 后,Logistic 回归分析结
+果显示,与无颈动脉粥样硬化(1 级)患者比较,颈动脉
+有斑块(3 级)和颈动脉狭窄≥20% (4 级)者,脑梗塞
+的患病风险均增加,差异具有统计学意义(表 2)。 随
+着颈动脉粥样硬化程度的加重,冠心病和脑梗塞的患
+病风险逐渐增加(P趋势<0. 01)。
+五、 下肢动脉粥样硬化与冠心病、脑梗塞的相关
+性分析
+以是否有冠心病为因变量,调整年龄、性别、糖尿
+病病程、收缩压、体重指数、 LDL-C、HBA1C、吸烟史、
+eGFR 后,Logistic 回归分析结果显示,与无下肢动脉粥
+样硬化(1 级)相比,下肢动脉有斑块(3 级)和下肢动
+脉狭窄≥20% (4 级)者,冠心病的患病风险均增加。
+以是否有脑梗塞为因变量,调整年龄、性别、糖尿病病
+程、收缩压、体重指数、LDL-C、HBA1C、吸烟史、eGFR、
+HDL-C 后,Logistic 回归分析结果显示,与无下肢动脉
+粥样硬化(1 级)患者相比,下肢动脉内膜增厚(2 级),
+下肢动脉有斑块(3 级)和下肢动脉狭窄≥20% (4 级)
+者,脑梗塞的患病风险均增加,差异均有统计学意义
+表 2  Logistic 回归分析颈动脉及下肢动脉粥样硬化与冠心病、脑梗塞存在风险的比值比[OR(95% CI)]
+Tab 2  Odds ratio(95% CI) of carotid artery or lower-extremity artery atherosclerosis degree for the presence of coronary heart disease and
+cerebral infarction in logistic regression analysis
+组别
+Group
+CHDa CIb
+OR(95% CI) P OR(95% CI) P
+颈动脉粥样硬化分级
+Degree of CA
+1 级 Grade 1 1. 00 - 1. 00 -
+2 级 Grade 2 1. 58(0. 71-3. 52) 0. 263 0. 88(0. 48-1. 62) 0. 687
+3 级 Grade 3 2. 30(1. 17-4. 53) 0. 016 1. 95(1. 22-3. 10) 0. 005
+4 级 Grade 4 4. 05(1. 88-8. 47) <0. 001 2. 68(1. 50-4. 77) 0. 001
+下肢动脉粥样硬化分级
+Degree of LA
+1 级 Grade 1 1. 00 - 1. 00 -
+2 级 Grade 2 1. 30(0. 49-3. 44) 0. 601 2. 20(1. 05-4. 63) 0. 037
+3 级 Grade 3 2. 39(0. 99-5. 74) 0. 052 3. 60(1. 82-7. 10) <0. 001
+4 级 Grade 4 4. 10(1. 44-11. 67) 0. 008 3. 15(1. 32-7. 50) 0. 010
+注:CA:Carotid artery atherosclerosis;LA:Lower-extremity artery atherosclerosis;CHD:冠心病 Coronary heart disease;CI:脑梗塞 Cerebral infarction;a:调
+整了年龄、性别、糖尿病病程、收缩压、体重指数、低密度脂蛋白胆固醇、HBA1C、吸烟史、估算肾小球滤过率 Adjusted for age, sex, diabetic duration,
+systolic blood pressure, body mass index,low density lipoprotein-cholesterol, HBA1C, smoking history, estimated glomerular filtration rate;b:额外调整了高密度
+脂蛋白胆固醇 Additionally adjusted for high density lipoprotein-cholesterol
+表 3  1 503 例住院 2 型糖尿病患者颈动脉分级与下肢动脉分级的一致性比较[n(% )]
+Tab 3  Consistency of atherosclerosis degree between carotid and lower-extremity arteries in 1 503 hospitalized patients with type 2 diabetes
+[n(% )]
+颈动脉粥样硬化分级
+Degree of CA
+下肢动脉粥样硬化分级
+Degree of LA
+1 级 Grade 1 2 级 Grade 2 3 级 Grade 3 4 级 Grade 4
+1 级 Grade 1   148(39. 7% ) 89(23. 9% ) 133(35. 7% )   3(0. 8% )
+2 级 Grade 2   41(15. 7% ) 85(32. 6% ) 131(50. 2% )   4(1. 5% )
+3 级 Grade 3   72(10. 0% ) 99(13. 7% ) 514(71. 3% )   36(5. 0% )
+4 级 Grade 4     7(4. 7% ) 16(10. 8% ) 94(63. 5% )   31(20. 9% )
+注: CA:Carotid artery atherosclerosis;LA:Lower-extremity artery atherosclerosis
+(表 2)。 随着下肢动脉粥样硬化程度的加重,冠心病
+和脑梗塞的患病风险逐渐增加(P趋势<0. 01)。
+六、 颈动脉与下肢动脉粥样硬化分级的一致性分
+析
+48. 2%的患者颈动脉与下肢动脉粥样硬化分级不
+一致(字2检验 P<0. 01),kappa 值为 0. 245(表 3)。
+七、 颈动脉与下肢动脉粥样硬化分级的一致性与
+冠心病、脑梗塞的相关性分析
+按照颈动脉与下肢动脉分级的一致性将研究对象
+分组。 组 1:颈动脉分级为 1 ~ 2 级,下肢动脉分级为
+1 ~ 2 级;组 2:颈动脉分级为 1 ~ 2 级,下肢动脉分级为
+3 ~ 4 级;组 3:颈动脉分级为 3 ~ 4 级,下肢动脉分级为
+1 ~ 2 级;组 4:颈动脉分级为 3 级,下肢动脉分级为 4
+级;组 5:颈动脉分级为 4 级,下肢动脉分级为 3 级;组
+6:颈动脉分级为 3 级,下肢动脉分级为 3 级;组 7:颈
+动脉分级为 4 级,下肢动脉分级为 4 级。 以是否有冠
+心病为因变量,调整年龄、性别、糖尿病病程、收缩压、
+体重指数、LDL-C、HBA1C、吸烟史、eGFR 后,Logistic 回
+归分析结果显示,与颈动脉和下肢动脉分级均为 1 ~ 2
+级(组 1)相比,颈动脉分级 1 ~ 2 级且下肢动脉为 3 ~ 4
+级的患者(组 2),或下肢动脉分级 1 ~ 2 级且颈动脉为
+3 ~ 4 级的患者(组 3),冠心病的患病风险无显著增
+高。 颈动脉或下肢动脉分级为 3 或 4 级的患者,无论
+两者分级是否一致,冠心病的患病风险显著增高。 以
+是否有脑梗塞为因变量,调整年龄、性别、糖尿病病程、
+收缩压、体重指数、LDL-C、HBA1C、吸烟史、eGFR、HDL-C
+后,Logistic 回归分析结果显示,与颈动脉和下肢动脉
+分级均为 1 ~ 2 级(组 1)相比,颈动脉分级 1 ~ 2 级且
+表 4  颈动脉和下肢动脉分级的一致性与患冠心病、脑梗塞的
+相关性
+Tab 4 Association between consistency of atherosclerosis degree
+between carotid and lower-extremity arteries and the presence
+of coronary heart disease and cerebral infarction
+颈动脉和下肢动
+脉粥样硬化分级
+Degree of CA and LA
+CHDa CIb
+OR(95% CI) P OR(95% CI) P
+CA 1-2,LA 1-2 1. 00 1. 00
+CA 1-2,LA 3-4 1. 45(0. 66-3. 19) 0. 351 1. 66(0. 91-3. 06) 0. 101
+CA 3-4,LA 1-2 1. 37(0. 59-3. 19) 0. 470 1. 84(0. 98-3. 42) 0. 056
+CA 3,LA 4 4. 44(1. 52-12. 95) 0. 006 2. 23(0. 87-5. 73) 0. 059
+CA 4,LA 3 4. 44(2. 00-9. 85) <0. 001 4. 96(2. 57-9. 59) <0. 001
+CA 3,LA 3 2. 33(1. 19-4. 55) 0. 014 3. 11(1. 84-5. 25) <0. 001
+CA 4,LA 4 4. 75(1. 66-13. 58) 0. 004 3. 03(1. 19-7. 72) 0. 021
+注:CA:颈动脉粥样硬化 Carotid artery atherosclerosis;LA:下肢动脉
+粥样硬化 Lower-extremity artery atherosclerosis; CHD:冠心病 Coronary
+heart disease;CI:脑梗塞 Cerebral infarction;a:调整了年龄、性别、糖尿病
+病程、收缩压、体重指数、低密度脂蛋白胆固醇、HBA1C、吸烟史、估算肾
+小球滤过率 Adjusted for age, sex, diabetic duration, systolic blood pressure,
+body mass index, low density lipoprotein-cholesterol, HBA1C, smoking
+history, estimated glomerular filtration rate;b:额外调整了高密度脂蛋白胆
+固醇 Additionally adjusted for high density lipoprotein-cholesterol
+下肢动脉为 3 ~ 4 级的患者(组 2),脑梗塞的患病风险
+无显著增高。 颈动脉为 3 ~ 4 级且下肢动脉分级 1 ~ 2
+级的患者(组 3)及颈动脉分级 3 级且下肢动脉 4 级
+(组 4)的患者,脑梗塞的患病风险有增高趋势,但差异
+无统计学意义。 颈动脉和下肢动脉分级均为 3 级或颈
+动脉分级 4 级且下肢动脉分级 3 或 4 级的患者,脑梗
+塞的患病风险显著增高(表 4)。
+讨    论
+本研究显示,颈动脉或下肢动脉粥样硬化斑块或
+狭窄是冠心病和脑梗塞患病的危险因素,随着动脉粥
+样硬化程度的增加,冠心病和脑梗塞患病风险逐渐增
+高。 与颈动脉和下肢动脉均无斑块或狭窄的患者相
+比,仅有颈动脉或仅有下肢动脉出现斑块或狭窄的患
+者,其冠心病和脑梗塞的患病风险无显著增高;当颈动
+脉和下肢动脉均出现斑块或狭窄时,无论二者动脉硬
+化分级是否一致,冠心病和脑梗塞患病风险均增高。
+在中国 2 型糖尿病住院患者中,颈动脉粥样硬化
+是冠心病患病的独立危险因素[12]。 对门诊和住院的
+日本 2 型糖尿病患者的研究显示,随着超声检测的颈
+动脉最厚 IMT 的增加,冠状动脉狭窄≥50%的风险增
+高[13-14],提示在 2 型糖尿病患者中,动脉粥样硬化程
+度与冠心病患病风险相关。 在韩国 2 型糖尿病合并急
+性脑梗塞住院的患者中,颈动脉 IMT 及颈动脉斑块
+Crouse 积分均高于无急性脑梗塞的 2 型糖尿病患
+者[4]。 上述研究中,Crouse 积分需测定所有斑块厚
+度[15],难以被临床广泛应用,且测定颈动脉 IMT 时未
+考虑颈动脉狭窄。 本研究采用更为简单的颈动脉粥样
+硬化分级方法[8],结果显示该分级方法中随着颈动脉
+粥样硬化程度的增加,冠心病或脑梗塞患病风险增加。
+以往研究中,多采用踝肱指数评估 2 型糖尿病患者下
+肢动脉粥样硬化程度与心血管疾病之间的关系[16],但
+踝肱指数在糖尿病患者合并动脉壁广泛钙化时,不能
+准确反映下肢动脉粥样硬化程度[17]。 本研究采用临
+床超声检查结果对下肢动脉粥样硬化程度进行分级,
+结果显示随着下肢动脉粥样硬化程度的增加,冠心病
+或脑梗塞患病风险逐渐增高。 在 2 型糖尿病患者中,
+颈动脉和下肢动脉斑块的出现存在不一致现象,有报
+道中国已诊断的 2 型糖尿病患者中,39. 8% 的患者仅
+有颈动脉斑块或仅有下肢动脉斑块[6]。 本研究中,颈
+动脉和下肢动脉分级不一致率为 48. 2% 。 颈动脉和
+下肢动脉分级一致性与冠心病和脑梗塞患病风险的关
+系少有研究,本研究结果提示,颈动脉和下肢动脉同时
+存在斑块或狭窄者,无论分级是否一致,冠心病或脑梗
+塞患病风险均增高。
+周围动脉作为心血管系统的一部分,与心脑血管
+具有相似的解剖结构,因此对周围动脉硬化程度的分
+级能反映心脑血管病变的程度。 在既往 Li 等[6] 的研
+究和本研究中发现部分患者颈动脉和下肢动脉硬化程
+度不一致,可能的原因是颈动脉和下肢动脉发生粥样
+硬化的危险因素不完全相同,例如,高血压与颈动脉斑
+块形成关系更密切,高脂血症与下肢动脉斑块形成关
+系更密切[7]。 周围动脉粥样硬化患者是心血管风险
+的极高危人群,在下肢动脉粥样硬化患者中采用他汀
+类药物治疗能够显著降低心血管事件的发生风险[18],
+在无症状的颈动脉狭窄>50% 的患者中,阿司匹林治
+疗能够显著降低脑卒中的发生风险[19-20]。 既往无心
+血管疾病者中基于是否存在颈动脉粥样硬化而进行他
+汀类药物治疗能否降低心血管事件的风险目前尚无定
+论。 本研究显示,在 2 型糖尿病患者中,随着颈动脉和
+下肢动脉粥样硬化程度的加重,冠心病和脑梗塞的患
+病风险逐渐增加,提示在 2 型糖尿病患者中进行周围
+动脉粥样硬化的筛查和分级,可能有助于更精确地早
+期识别需要使用他汀类药物和阿司匹林控制危险因
+素、预防心血管事件的患者。 应进一步设计随机对照
+的临床试验评估基于颈动脉和下肢动脉粥样硬化程度
+进行药物干预对降低心血管事件风险的作用。
+本研究样本量较大,住院患者资料较为齐全。 但
+本研究是单中心横断面研究,由于冠心病、脑梗塞的诊
+断均来自病史,存在低估冠心病和脑梗塞患病的可能。
+进一步的研究包括进行多中心前瞻性队列研究,验证
+该动脉硬化分级方法在预测糖尿病患者心脑血管疾病
+发病风险中的能力。
+本研究提示,可以采用简单的动脉硬化分级方法
+评估 2 型糖尿病患者颈动脉或下肢动脉粥样硬化程
+度。 如同时评估颈动脉和下肢动脉粥样硬化,仅当两
+者均出现斑块或狭窄时,冠心病或脑梗塞的患病风险
+显著增高。

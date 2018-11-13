@@ -1,0 +1,473 @@
+T1	Disease 9896 9902	2 型糖尿病
+T2	Test 539 543	空腹血糖
+T3	Test 3969 3973	空腹血糖
+T4	Test 4115 4119	空腹血糖
+T5	Test 4428 4430;4431 4433	空腹 血糖
+T6	Test 4487 4491	空腹血糖
+T7	Test 7135 7139	空腹血糖
+T8	Disease 144 146	肥胖
+T9	Disease 242 244	肥胖
+T10	Test 297 301	体重指数
+T11	Test 302 304	腰围
+T12	Test 350 357	HOMA-IR
+T13	Test 381 385	体重指数
+T14	Test 386 388	腰围
+T15	Test 389 392	腰臀比
+T16	Test 413 415	腰围
+T17	Test_Value 419 427	87. 5 cm
+T18	Test 430 432	腰围
+T19	Test_Value 436 441	84 cm
+T20	Test 444 448	体重指数
+T21	Test 476 480	体重指数
+T22	Test 544 547	胰岛素
+T23	Test 548 553;554 556	HOMA- IR
+T24	Disease 580 582	肥胖
+T25	Disease 586 591	中心性肥胖
+T26	Test 606 608	腰围
+T27	Disease 625 630	代谢综合征
+T28	Disease 631 636	心血管疾病
+T29	Test 654 658	体重指数
+T30	Test 660 662	腰围
+T31	Anatomy 2800 2802	肝脏
+T32	Anatomy 2804 2808	脂肪组织
+T33	Anatomy 2809 2812	骨骼肌
+T34	Disease 2876 2881	代谢综合征
+T35	Disease 2938 2943	代谢综合征
+T36	Reason 2996 3001	胰岛素抵抗
+T37	Disease 3007 3008;3009 3010	肥 胖
+T38	Test 3035 3037;3038 3040	体重 指数
+T39	Test 3055 3057	腰围
+T40	Test 3103 3107	体重指数
+T41	Test 3108 3110	腰围
+T42	Test 3111 3114	腰臀比
+T43	Test 3126 3130	体重指数
+T44	Test 3131 3133	腰围
+T45	Test 3190 3196	脂质蓄积指数
+T46	Test 3237 3245	腰围 /身高比值
+T47	Test 3266 3270	WHtR
+T48	Test 3231 3234	LAP
+T49	Test 3281 3283	腰围
+T50	Test 3284 3288	体重指数
+T51	Disease 3315 3320	代谢综合征
+T52	Disease 3363 3367;3368 3369	代谢综合 征
+T53	Disease 3383 3388	代谢综合征
+T54	Disease 3442 3444	肥胖
+T55	Disease 3452 3457	胰岛素抵抗
+T56	Test 3822 3824	身高
+T57	Test 3825 3827	体重
+T58	Test 3828 3830	腰围
+T59	Test 3831 3833	臀围
+T60	Test 3834 3836	血压
+T61	Test 3841 3845	体重指数
+T62	Test 3846 3849	腰臀比
+T63	Test 3856 3859	收缩压
+T64	Test 3860 3863	舒张压
+T65	Test 3974 3978	甘油三酯
+T66	Test 3979 3983	总胆固醇
+T67	Test 4000 4005	空腹胰岛素
+T68	Test 4104 4111	HOMA-IR
+T69	Test 4088 4095	HOMA-IR
+T70	Test 4131 4136	空腹胰岛素
+T71	Test 4158 4165	HOMA-IR
+T72	Test 4229 4233	体重指数
+T73	Test 4243 4247	体重指数
+T74	Test 4248 4250	体重
+T75	Test 4256 4258	身高
+T76	Test 4264 4268	体重指数
+T77	Test 4292 4296	体重指数
+T78	Test 4309 4311	体重
+T79	Test 4317 4318;4319 4322	体 重指数
+T80	Test_Value 4296 4307	<24 kg / m2
+T81	Test_Value 4322 4333	<28 kg / m2
+T82	Test_Value 4268 4274;4275 4282	<18. 5 kg / m2
+T83	Test_Value 4341 4352	≥28 kg / m2
+T84	Test 4337 4341	体重指数
+T85	Test 4358 4359;4360 4361	腰 围
+T86	Test 4371 4373	腰围
+T87	Test_Value 4373 4379	≥85 cm
+T88	Test 4383 4385	腰围
+T89	Test_Value 4385 4391	≥80 cm
+T90	Test 4401 4404	腰臀比
+T91	Test_Value 4473 4486	5. 6 mmol / L
+T92	Test_Value 4433 4447	≥7. 0 mmol / L
+T93	Disease 4464 4468;4469 4471	空腹血糖 受损
+T94	Test_Value 4491 4502	<7 mmol / L
+T95	Test 4519 4522	收缩压
+T96	Test_Value 4522 4531	≥140 mmHg
+T97	Test 4553 4556	舒张压
+T98	Test_Value 4556 4557;4558 4565	≥ 90 mmHg
+T99	Test 4606 4608	腰围
+T100	Test 4692 4696	体重指数
+T101	Test_Value 4696 4707	<24 kg / m2
+T102	Test 4710 4715;4716 4718	HOMA- IR
+T103	Test_Value 4719 4726	> 3. 54
+T104	Disease 4727 4734	代谢正常性肥胖
+T105	Disease 4770 4773	MHO
+T106	Test 4775 4779	体重指数
+T107	Test_Value 4779 4790	≥28 kg / m2
+T108	Test 4794 4801	HOMA-IR
+T109	Test 4976 4979;4980 4981	体重指 数
+T110	Test 4982 4984	腰围
+T111	Test 4985 4988	腰臀比
+T112	Test 5002 5004	腰围
+T113	Test 5185 5189	体重指数
+T114	Disease 5193 5198	中心性肥胖
+T115	Test 5218 5222	体重指数
+T116	Test 5246 5250	体重指数
+T117	Test 5253 5255	腰围
+T118	Test 5278 5282	体重指数
+T119	Test 5283 5285	腰围
+T120	Test 5309 5316	HOMA-IR
+T121	Test 5345 5349	体重指数
+T122	Test 5350 5352	腰围
+T123	Test 5353 5356	腰臀比
+T124	Disease 6983 6988	中心型肥胖
+T125	Disease 6989 6995	非中心性肥胖
+T126	Test 7012 7016	体重指数
+T127	Test 7022 7026	体重指数
+T128	Test 7054 7058	体重指数
+T129	Test 7182 7187	空腹胰岛素
+T130	Disease 3804 3807	糖尿病
+T131	Disease 7395 7400	代谢综合征
+T132	Disease 7434 7439	代谢综合征
+T133	Reason 7461 7466	胰岛素抵抗
+T134	Disease 7542 7544	肥胖
+T135	Disease 7602 7604	肥胖
+T136	Disease 7723 7725	肥胖
+T137	Anatomy 7871 7874	神经肽
+T138	Anatomy 7879 7881	瘦素
+T139	Anatomy 7882 7885	神经肽
+T140	Anatomy 7864 7867	雌激素
+T141	Disease 8029 8034	中心性肥胖
+T142	Disease 8044 8049	全身性肥胖
+T143	Disease 8239 8244	胰岛素抵抗
+T144	Disease 8245 8250	代谢综合征
+T145	Disease 8292 8294;8295 8298	心血 管疾病
+T146	Reason 8285 8291	腹部脂肪蓄积
+T147	Anatomy 8329 8333	脂肪细胞
+T148	Disease 8365 8370	内脏型肥胖
+T149	Disease 8372 8378;8379 8380	皮下脂肪型肥 胖
+T150	Anatomy 8397 8399	腹腔
+T151	Disease 8545 8547	肥胖
+T152	Anatomy 8469 8473	皮下脂肪
+T153	Operation 8558 8559;8560 8564	网 膜切除术
+T154	Operation 8591 8594	吸脂术
+T155	Disease 8671 8675;8676 8677	中心性肥 胖
+T156	Test 8765 8767	腰围
+T157	Test 8797 8801	体重指数
+T158	Test 8802 8804	腰围
+T159	Test 8691 8693	腰围
+T160	Reason 8878 8883	胰岛素抵抗
+T161	Disease 8884 8886	肥胖
+T162	Disease 8921 8926	中心性肥胖
+T163	Disease 8917 8919	肥胖
+T164	Test 8905 8912	HOMA-IR
+T165	Test 8961 8965	体重指数
+T166	Test 8966 8968	腰围
+T167	Test 8985 8989	体重指数
+T168	Test 8991 8993	腰围
+T169	Test 9018 9022	体重指数
+T170	Test 9023 9025	腰围
+T171	Test 9069 9071	腰围
+T172	Test 9072 9076	体重指数
+T173	Test 9116 9118	腰围
+T174	Test 9168 9172	体重指数
+T175	Test 9144 9146	腰围
+T176	Test 9192 9193;9194 9195	腰 围
+T177	Test 9198 9202	体重指数
+T178	Test 9216 9218	腰围
+T179	Disease 9237 9242	中心性肥胖
+T180	Test 9243 9244;9245 9246	腰 围
+T181	Test 9262 9264	腰围
+T182	Test_Value 9268 9276	86. 4 cm
+T183	Test_Value 9282 9290	83. 5 cm
+T184	Test 9297 9299	腰围
+T185	Test_Value 9307 9315	91. 3 cm
+T186	Test_Value 9318 9326	83. 4 cm
+T187	Test 9333 9335	腰围
+T188	Test_Value 9339 9344	94 cm
+T189	Test_Value 9349 9354	80 cm
+T190	Test_Value 9364 9369	85 cm
+T191	Test_Value 9373 9378	80 cm
+T192	Test 9395 9397	腰围
+T193	Test 9451 9453	腰围
+T194	Disease 9483 9485	肥胖
+T195	Disease 9488 9493	中心性肥胖
+T196	Disease 9501 9505	代谢紊乱
+T197	Disease 9543 9548	中心性肥胖
+T198	Test 9533 9537	体重指数
+T199	Test 9562 9566	体重指数
+T200	Test 9573 9575	腰围
+T201	Test 9665 9669	体重指数
+T202	Test 9672 9674	腰围
+T203	Test 9727 9731	体重指数
+T204	Test 9767 9769	腰围
+T205	Disease 9817 9819	肥胖
+T206	Disease 9857 9861;9862 9863	代谢综合 征
+T207	Disease 9903 9908	心血管疾病
+T208	Test 9986 9990	体重指数
+T209	Test 10037 10041	体重指数
+T210	Disease 10029 10031	肥胖
+T211	Disease 10103 10105	肥胖
+T212	Disease 10065 10067	肥胖
+T213	Disease 10178 10183	心血管事件
+T214	Disease 10207 10211;10212 10213	代谢综合 征
+T215	Disease 10225 10227	超重
+T216	Disease 10228 10230	肥胖
+T217	Disease 10264 10266;10267 10272	慢性 肾功能衰竭
+T218	Disease 10273 10276	高血压
+T219	Disease 10277 10286	动脉粥样硬化性疾病
+T220	Disease 10324 10326	肥胖
+T221	Disease 10248 10250	肥胖
+T222	Disease 10251 10253	超重
+T223	Disease 10334 10339	代谢综合征
+T224	Disease 10360 10362	肥胖
+T225	Disease 10369 10374	代谢综合征
+T226	Disease 10423 10425	肥胖
+T227	Test 10426 10428	血压
+T228	Test 10429 10431	血糖
+T229	Test 10432 10436	甘油三酯
+T230	Test 10438 10442	总胆固醇
+T231	Test 5977 5981	总胆固醇
+T232	Test 5852 5856	体重指数
+T233	Test 5912 5916	体重指数
+T234	Test 8069 8073	体重指数
+T235	Test 8103 8107	体重指数
+T236	Test 8145 8149	体重指数
+T237	Test 8169 8173	体重指数
+T238	Test 5961 5965	空腹血糖
+T239	Test 5939 5942	收缩压
+T240	Test 5950 5953	舒张压
+T241	Test 220 222	腰围
+T242	Test 4405 4407	腰围
+T243	Test 6847 6849	腰围
+T244	Test 6880 6882	腰围
+T245	Test 6932 6934	腰围
+T246	Test 223 225	臀围
+T247	Test 4413 4415	臀围
+T248	Test 1641 1648	HOMA-IR
+T249	Test 2337 2344	HOMA-IR
+T250	Test 7243 7250	HOMA-IR
+T251	Test 2349 2355	HOMA-β
+T252	Test 7311 7317	HOMA-β
+T253	Disease 7468 7473	代谢综合征
+T254	Disease 7646 7651	代谢综合征
+T255	Disease 8384 8389	代谢综合征
+T256	Test 5993 5997	甘油三酯
+T257	Test 1505 1508	BMI
+T258	Test 1732 1735	BMI
+T259	Test 5441 5444	BMI
+T260	Test 5457 5460	BMI
+T261	Test 5467 5470	BMI
+T262	Test 5474 5477	BMI
+T263	Test 5848 5851	BMI
+T264	Test 214 216	身高
+T265	Test 217 219	体重
+T266	Test 5413 5415	体重
+T267	Test 8638 8640	体重
+T268	Test 9612 9614	体重
+T269	Test 9626 9628	体重
+T270	Test 9844 9846	体重
+T271	Test 10170 10172	体重
+T272	Test 10217 10219	体重
+T273	Disease 454 455;456 460	中 心性肥胖
+T274	Disease 4633 4642	体重正常代谢性肥胖
+T275	Disease 7402 7407	心血管疾病
+T276	Disease 9057 9062	心血管疾病
+T277	Disease 10401 10406	心血管疾病
+T278	Test 4590 4591;4592 4593	腰 围
+T279	Disease 365 370	中心性肥胖
+T280	Disease 3063 3065;3066 3069	中心 性肥胖
+T281	Disease 4363 4368	中心性肥胖
+T282	Disease 4393 4394;4395 4399	中 心性肥胖
+T283	Disease 5054 5059	中心性肥胖
+T284	Disease 5324 5327;5328 5330	中心性 肥胖
+T285	Disease 5416 5421	中心性肥胖
+T286	Disease 5482 5487	中心性肥胖
+T287	Disease 5488 5493	中心性肥胖
+T288	Disease 5893 5898	中心性肥胖
+T289	Disease 6016 6021	中心性肥胖
+T290	Disease 6100 6105	中心性肥胖
+T291	Disease 6194 6199	中心性肥胖
+T292	Disease 6279 6284	中心性肥胖
+T293	Disease 6379 6384	中心性肥胖
+T294	Disease 6463 6468	中心性肥胖
+T295	Disease 6556 6561	中心性肥胖
+T296	Disease 6640 6645	中心性肥胖
+T297	Disease 6743 6748	中心性肥胖
+T298	Disease 8076 8081	中心性肥胖
+T299	Disease 8087 8092	中心性肥胖
+T300	Disease 8184 8189	中心性肥胖
+T301	Disease 8699 8703;8704 8705	中心性肥 胖
+T302	Disease 9700 9705	中心性肥胖
+T303	Disease 3046 3048	肥胖
+T304	Disease 3692 3695	糖尿病
+T305	Disease 4235 4236;4237 4241	全 身性肥胖
+T306	Disease 4353 4355	肥胖
+T307	Disease 4451 4454	糖尿病
+T308	Disease 4506 4509	糖尿病
+T309	Disease 4515 4518	高血压
+T310	Disease 4569 4572	高血压
+T311	Disease 5040 5042	肥胖
+T312	Disease 5320 5322	肥胖
+T313	Test_Value 6890 6898	87. 5 cm
+T314	Test_Value 6943 6948	84 cm
+T315	Disease 7408 7411	糖尿病
+T316	Disease 7642 7645	糖尿病
+T317	Disease 7664 7666	肥胖
+T318	Disease 7680 7684	中性肥胖
+T319	Disease 7774 7776	肥胖
+T320	Disease 7810 7812	肥胖
+T321	Disease 7899 7901	肥胖
+T322	Disease 7918 7920	肥胖
+T323	Disease 7980 7982	肥胖
+T324	Disease 7989 7991	肥胖
+T325	Disease 8114 8119	全身性肥胖
+T326	Reason 8935 8936;8937 8941	胰 岛素抵抗
+T327	Disease 9604 9607	糖尿病
+T328	Test_Value 10041 10044	≥28
+T329	Disease 649 652	肥胖症
+T330	Reason 664 669	胰岛素抵抗
+T331	Test_Value 4149 4154	22. 5
+T332	Test 4584 4588	约登指数
+T333	Test 4612 4616	约登指数
+T334	Disease 10121 10126	心血管事件
+T335	Test 8335 8339	脂肪因子
+T336	Test 2813 2820	胰岛素的敏感性
+T337	Anatomy 2833 2836	胰岛素
+T338	Disease 4334 4336	超重
+T339	Test 6870 6874	约登指数
+T340	Disease 7575 7577	超重
+T341	Disease 9636 9641	心血管死亡
+T342	Disease 9643 9646;9647 9650	非心血 管死亡
+T343	Disease 77 79	肥胖
+T344	Disease 85 90	胰岛素抵抗
+T345	Disease 361 363	肥胖
+T346	Disease 2861 2867	代谢异常疾病
+T347	Anatomy 3924 3927	肘静脉
+T348	Test_Value 4197 4202	3. 54
+T349	Test_Value 4686 4692	18. 5≤
+T350	Disease 4680 4684	MONW
+T351	Reason 4990 4995	胰岛素抵抗
+T352	Test_Value 5222 5224	正常
+T353	Test_Value 5225 5226;5227 5228	超 重
+T354	Disease 7085 7089	MONW
+T355	Disease 7093 7096	MHO
+T356	Disease 7110 7114	MONW
+T357	Disease 7126 7129	MHO
+T358	Disease 7789 7791	肥胖
+T359	Test_Value 8073 8075	正常
+T360	Reason 8273 8281	体内脂肪分布异常
+T361	Anatomy 8317 8321	腹内脂肪
+T362	Anatomy 8354 8358	皮下脂肪
+T363	Anatomy 8391 8395	内脏脂肪
+T364	Anatomy 8402 8407;8408 8409	周围皮下脂 肪
+T365	Anatomy 8444 8448	皮下脂肪
+T366	Anatomy 8501 8505	内脏脂肪
+T367	Anatomy 8566 8570	内脏脂肪
+T368	Anatomy 8596 8600	皮下脂肪
+T369	Disease 8610 8614	代谢异常
+T370	Anatomy 8620 8624	皮下脂肪
+T371	Anatomy 8627 8631	内脏脂肪
+T372	Disease 8864 8868	代谢异常
+T373	Disease 8947 8949	肥胖
+T374	Disease 9222 9225	糖尿病
+T375	Test_Value 9537 9539	正常
+T376	Test_Value 9575 9577	正常
+T377	Test_Value 9669 9671	正常
+T378	Test_Value 9675 9677	超标
+T379	Test 9708 9712	代谢指标
+T380	Disease 9826 9830	代谢异常
+T381	Disease 9932 9936	MONW
+T382	Test_Value 9993 9994;9995 9998	正 常范围
+T383	Disease 10086 10089	MHO
+T384	Disease 10110 10112	肥胖
+T385	Disease 10155 10158	MHO
+T386	Test 10458 10462	代谢指标
+T387	Disease 10188 10192	全因死亡
+T388	Test_Value 305 307	增加
+T389	Test_Value 358 360	增加
+T390	Reason 154 159	胰岛素抵抗
+T391	Reason 308 313	胰岛素抵抗
+T392	Reason 393 398	胰岛素抵抗
+T393	Reason 593 598	胰岛素抵抗
+T394	Reason 617 622	胰岛素抵抗
+T395	Reason 2778 2783	胰岛素抵抗
+T396	Anatomy 2785 2788	胰岛素
+T397	Reason 2852 2857	胰岛素抵抗
+T398	Disease 2926 2928	肥胖
+T399	Disease 2965 2967	肥胖
+T400	Reason 2980 2981;2982 2986	胰 岛素抵抗
+T401	Reason 3085 3090	胰岛素抵抗
+T402	Reason 3302 3306;3307 3308	胰岛素抵 抗
+T403	Reason 3353 3358	胰岛素抵抗
+T404	Reason 4064 4069	胰岛素抵抗
+T405	Test_Value 4286 4291	18. 5
+T406	Reason 4595 4600	胰岛素抵抗
+T407	Test_Value 4801 4808;4809 4810	<1. 69。 4
+T408	Reason 5262 5266;5267 5268	胰岛素抵 抗
+T409	Reason 5289 5294	胰岛素抵抗
+T410	Test_Value 4314 4316	24
+T411	Disease 7430 7432	肥胖
+T412	Disease 7490 7497	葡萄糖调节受损
+T413	Disease 7498 7501	高血压
+T414	Disease 7502 7505;7506 7507	血脂紊 乱
+T415	Reason 8233 8235	肥胖
+T416	Reason 8299 8304	胰岛素抵抗
+T417	Anatomy 8340 8344	脂肪细胞
+T418	Reason 8580 8585	胰岛素抵抗
+T419	Disease 8605 8607	肥胖
+T420	Reason 8653 8658	胰岛素抵抗
+T421	Reason 8768 8773	胰岛素抵抗
+T422	Reason 8808 8813	胰岛素抵抗
+T423	Reason 8826 8831	胰岛素抵抗
+T424	Disease 8851 8853	肥胖
+T425	Reason 8855 8860	胰岛素抵抗
+T426	Reason 8969 8974	胰岛素抵抗
+T427	Reason 8995 9000	胰岛素抵抗
+T428	Reason 9035 9040	胰岛素抵抗
+T429	Reason 9120 9125	胰岛素抵抗
+T430	Test 9129 9132;9133 9134	体重指 数
+T431	Reason 9173 9178	胰岛素抵抗
+T432	Reason 9203 9208	胰岛素抵抗
+T433	Reason 9445 9450	胰岛素抵抗
+T434	Reason 9494 9499	胰岛素抵抗
+T435	Disease 9654 9656	超重
+T436	Disease 9657 9659	肥胖
+T437	Disease 9717 9722	中心性肥胖
+T438	Test 9761 9763;9764 9766	体重 指数
+T439	Reason 9777 9782	胰岛素抵抗
+T440	Disease 9783 9787	代谢异常
+T441	Reason 9820 9825	胰岛素抵抗
+T442	Reason 9851 9856	胰岛素抵抗
+T443	Reason 9877 9882	胰岛素抵抗
+T444	Disease 10005 10011	高胰岛素血症
+T445	Reason 10012 10017	胰岛素抵抗
+T446	Disease 10049 10052;10053 10054	代谢异 常
+T447	Reason 10327 10330;10331 10333	胰岛素 抵抗
+T448	Reason 10363 10368	胰岛素抵抗
+T449	Disease 260 265	中心性肥胖
+T450	Disease 2971 2976	中心性肥胖
+T451	Disease 7032 7035;7036 7038	中心性 肥胖
+T452	Disease 8156 8161	中心性肥胖
+T453	Test 334 342;343 349	稳态模型评估的胰 岛素抵抗指数
+T454	Test 508 510	体重
+T455	Disease 515 517	肥胖
+T456	Disease 532 534	肥胖
+T457	Reason 2929 2937	全身脂肪分布异常
+T458	Reason 3134 3139	胰岛素抵抗
+T459	Reason 3151 3153;3154 3157	胰岛 素抵抗
+T460	Disease 3706 3709	糖尿病
+T461	Test 4072 4081;4082 4087	稳态模型评估的胰岛 素抵抗指数
+T462	Reason 4217 4222	胰岛素抵抗
+T463	Reason 5071 5072;5073 5077	胰 岛素抵抗
+T464	Reason 6853 6858	胰岛素抵抗
+T465	Test 7293 7309	稳态模型评估的 β 细胞功能指数
+T466	Reason 7452 7457	胰岛素抵抗
+T467	Disease 7538 7540	超重
+T468	Reason 8483 8488	胰岛素抵抗
+T469	Reason 8515 8520	胰岛素抵抗
+T470	Reason 8678 8683	胰岛素抵抗
+T471	Reason 8716 8721	胰岛素抵抗
+T472	Disease 9568 9570	超重
+T473	Disease 9869 9874	单纯性肥胖

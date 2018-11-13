@@ -1,0 +1,272 @@
+T1	Disease 1372 1378	2 型糖尿病
+T2	Disease 1976 1982	2 型糖尿病
+T3	Disease 2101 2107	2 型糖尿病
+T4	Test 546 551	HBA1C
+T5	Test 1340 1345	HBA1C
+T6	Drug 1087 1091	格列齐特
+T7	Drug 468 472	二甲双胍
+T8	Drug 660 664	二甲双胍
+T9	Drug 1076 1080	二甲双胍
+T10	Test 505 509	空腹血糖
+T11	Test 704 708	空腹血糖
+T12	Test 796 797;798 801	空 腹血糖
+T13	Test 885 889	空腹血糖
+T14	Test 1104 1108	空腹血糖
+T15	Test 578 582	体重指数
+T16	Test 927 929;930 933	甲状 腺功能
+T17	Drug 0 4	利拉鲁肽
+T18	Drug 286 290	利拉鲁肽
+T19	Drug 644 648	利拉鲁肽
+T20	Drug 767 771	利拉鲁肽
+T21	Drug 1063 1067	利拉鲁肽
+T22	Drug 1269 1273	利拉鲁肽
+T23	Drug 1649 1653	利拉鲁肽
+T24	Drug 1965 1969	利拉鲁肽
+T25	Drug 2010 2014	利拉鲁肽
+T26	Drug 2255 2259	利拉鲁肽
+T27	Drug 3093 3097	利拉鲁肽
+T28	Drug 3205 3209	利拉鲁肽
+T29	Drug 3236 3240	利拉鲁肽
+T30	Drug 3347 3351	利拉鲁肽
+T31	Drug 479 483	阿卡波糖
+T32	Drug 473 477	吡格列酮
+T33	Drug 1081 1085	吡格列酮
+T34	Test 1282 1284	体重
+T35	Test 1632 1634	体重
+T36	Test 3367 3369	体重
+T37	Drug 1071 1075	沙格列汀
+T38	Drug 1677 1681	沙格列汀
+T39	Drug 678 680;681 683	比索 洛尔
+T40	Drug 1096 1100	比索洛尔
+T41	Drug 1970 1974	艾塞那肽
+T42	Drug 2050 2054	艾塞那肽
+T43	Drug 2112 2116	艾塞那肽
+T44	Test 617 621	心脏彩超
+T45	Test 944 948	心脏彩超
+T46	Test 598 601	心电图
+T47	Test 949 952	心电图
+T48	Test 957 961;962 967	24 h 动态心电图
+T49	Test 1175 1185	24 h 动态心电图
+T50	Disease 357 362;363 364	2 型糖尿 病
+T51	Test 1393 1398	GLP-1
+T52	Test 1532 1537	GLP-1
+T53	Anatomy 1841 1846	GLP-1
+T54	Drug 2772 2777	GLP-1
+T55	Drug 484 489	甘精胰岛素
+T56	Test 498 500	血糖
+T57	Test 756 758	血糖
+T58	Anatomy 378 381	心血管
+T59	Symptom 425 428	血糖高
+T60	Duration 429 433	10 年
+T61	Symptom 434 436	消瘦
+T62	Duration 437 441	8 个月
+T63	Symptom 442 444	心悸
+T64	Duration 445 449	3 个月
+T65	Amount 490 494	30 U
+T66	Test_Value 514 536	15. 0 ~ 17. 0 mmol / L
+T67	Test_Value 552 557	9. 8%
+T68	Test 559 561	心率
+T69	Test_Value 562 577	80 ~ 90 次 / min
+T70	Test_Value 583 597	30. 08 kg / m2
+T71	Test_Value 602 609;610 616	侧壁、下壁心肌 呈缺血型改变
+T72	Test_Value 622 632	左室舒张功能轻度下降
+T73	Test 633 637	神经电图
+T74	Amount 649 656	0. 6 mg
+T75	Frequency 657 659	qd
+T76	Amount 665 669	0. 5
+T77	Frequency 670 673	tid
+T78	Amount 684 688	5 mg
+T79	Frequency 689 691	qd
+T80	Duration 696 700	10 d
+T81	Test_Value 712 723;724 732	6. 0 ~ 8. 0 mmol / L
+T82	Test 733 735	心率
+T83	Test_Value 739 754	70 ~ 80 次 / min
+T84	Symptom 781 783	心悸
+T85	Symptom 785 789	全身乏力
+T86	Symptom 790 794	性欲减退
+T87	Test_Value 805 826	6. 0 ~ 10. 0 mmol / L
+T88	Test 837 839	心率
+T89	Test_Value 844 860	90 ~ 110 次 / min
+T90	Test_Value 893 914	6. 7 ~ 12. 4 mmol / L
+T91	Test 915 920	HBA1C
+T92	Test_Value 920 925	8. 5%
+T93	Test 934 938	神经电图
+T94	Test 939 941	胸片
+T95	Test 968 974	全程心跳总数
+T96	Test_Value 975 984	127 338 次
+T97	Test 985 989	平均心率
+T98	Test_Value 990 1000	93 次 / min
+T99	Test 1001 1002;1003 1006	最 高心率
+T100	Test_Value 1007 1018	112 次 / min
+T101	Test 1019 1023	最低心率
+T102	Test_Value 1024 1034	78 次 / min
+T103	Test_Value 1112 1123;1124 1132	6. 0 ~ 8. 0 mmol / L
+T104	Test 1150 1152	心率
+T105	Test_Value 1156 1163;1164 1171	76 ~ 85 次 / min
+T106	Test 1186 1192	全程心跳总数
+T107	Test_Value 1193 1202	115 749 次
+T108	Test 1203 1205;1206 1208	平均 心率
+T109	Test_Value 1209 1219	82 次 / min
+T110	Test 1220 1224	最高心率
+T111	Test_Value 1225 1235	99 次 / min
+T112	Test 1236 1240	最低心率
+T113	Test_Value 1241 1251	68 次 / min
+T114	Duration 1278 1282	8 个月
+T115	Test 1305 1307	心率
+T116	Test_Value 1311 1326	78 ~ 86 次 / min
+T117	Drug 1459 1467;1468 1471	GLP-1 受体 激动剂
+T118	Drug 1472 1513	二肽基肽酶 4(dipeptidyl peptidase-4, DPP-4)抑制剂
+T119	Anatomy 1738 1741	心血管
+T120	Test 1755 1757	心率
+T121	Test 1815 1817	心率
+T122	Drug 1821 1824	利血平
+T123	Drug 1825 1829	普萘洛尔
+T124	Drug 1830 1834	酚妥拉明
+T125	Drug 1891 1902;1903 1907	长效 GLP-1 受体 激动 剂
+T126	Drug 1908 1917	Exendin-4
+T127	Test 1922 1925	心 率
+T128	Test 2015 2017	心率
+T129	Amount 2117 2124	2. 5 μg
+T130	Amount 2127 2131	5 μg
+T131	Test 2140 2142	心率
+T132	Amount 2181 2186	10 μg
+T133	Amount 2189 2194	15 μg
+T134	Test 2202 2203;2204 2205	心 率
+T135	Anatomy 2276 2280	迷走神经
+T136	Anatomy 2286 2290	交感神经
+T137	Test 2322 2324	心率
+T138	Anatomy 2327 2331	交感神经
+T139	Anatomy 2347 2351	交感神经
+T140	Anatomy 2354 2358	迷走神经
+T141	Anatomy 2381 2385	交感神经
+T142	Test 2391 2393	心率
+T143	Anatomy 2404 2408	迷走神经
+T144	Anatomy 2464 2468	迷走神经
+T145	Anatomy 2495 2499	迷走神经
+T146	Drug 2538 2547	Exendin-4
+T147	SideEff 2550 2553;2554 2555	心率增 快
+T148	SideEff 2556 2563	心率变异性降低
+T149	Anatomy 2624 2630	心脏迷走神经
+T150	Test 2633 2635	心率
+T151	Test 2636 2640;2641 2642	心率变异 性
+T152	Drug 2647 2658	GLP-1 受体激动剂
+T153	Anatomy 2661 2666	肾上腺髓质
+T154	Anatomy 2667 2671;2672 2677	脑干交感 神经调节核
+T155	Drug 2683 2688	GLP-1
+T156	Drug 2692 2695	心得安
+T157	Operation 2697 2703	肾上腺切除术
+T158	Operation 2724 2731;2732 2733	双侧迷走神经切 除
+T159	Anatomy 2748 2752	交感神经
+T160	Anatomy 2761 2765	迷走神经
+T161	Anatomy 2786 2790	迷走神经
+T162	Anatomy 2801 2807	心脏迷走神经
+T163	Test 2818 2823	心率变异性
+T164	Test 2826 2828;2829 2832	心率 变异性
+T165	Test 2833 2835	心率
+T166	Test 2870 2875	心率变异性
+T167	Anatomy 2876 2881	心血管系统
+T168	Anatomy 2894 2900	自主神经系统
+T169	Test 2919 2924	心率变异性
+T170	Disease 2932 2935	糖尿病
+T171	Disease 2962 2965	糖尿病
+T172	Test 3098 3100	心率
+T173	Test_Value 3102 3117	80 ~ 90 次 / min
+T174	Drug 3168 3175	β 受体阻断剂
+T175	Duration 3210 3214	3 个月
+T176	Duration 3220 3224	8 个月
+T177	Drug 3292 3301	DPP-4 抑制剂
+T178	Drug 3411 3420	DPP-4 抑制剂
+T179	Test 1035 1040	心率变异性
+T180	Test 1252 1254	心率
+T181	Symptom 1383 1391	肠促胰素效应受损
+T182	Anatomy 1448 1452	肠促胰素
+T183	Anatomy 1568 1573	肠促胰素酶
+T184	Drug 2018 2019;2020 2022	安 慰剂
+T185	Frequency 2056 2063	2 次 / d
+T186	Symptom 2298 2300;2301 2303	心率 增加
+T187	Test 2414 2416	心率
+T188	Test 2457 2459	心率
+T189	Anatomy 2532 2534	脑室
+T190	Symptom 2794 2798	心率增快
+T191	Test_Value 500 504	控制不佳
+T192	Test_Value 637 638;639 640	正 常
+T193	Test_Value 758 762	控制良好
+T194	Test_Value 941 943	正常
+T195	Symptom 1256 1262	性欲恢复正常
+T196	Test_Value 1401 1405	显著下降
+T197	Test_Value 1427 1430;1431 1433	进一步 降低
+T198	Symptom 1696 1700	性欲恢复
+T199	Anatomy 1882 1889	外周和中枢系统
+T200	Test_Value 2631 2633	减弱
+T201	Level 3225 3226;3227 3230	明 显加重
+T202	Symptom 3323 3327	性欲恢复
+T203	Drug 296 320;321 341	胰升糖素样肽 1 ( glucagon-like peptide-1, GLP-1)类似物
+T204	Test 1419 1424	GLP-1
+T205	Anatomy 1522 1530	GLP-1 受体
+T206	Drug 1578 1583	GLP-1
+T207	Drug 1612 1617	GLP-1
+T208	Anatomy 1715 1720	GLP-1
+T209	Drug 1731 1736	GLP-1
+T210	Anatomy 1793 1798	GLP-1
+T211	Drug 2476 2481	GLP-1
+T212	Drug 3020 3025	GLP-1
+T213	Drug 3429 3434	GLP-1
+T214	SideEff 5 9	心动过速
+T215	SideEff 398 402	心率增快
+T216	Symptom 827 829	心悸
+T217	Symptom 872 874	心悸
+T218	Symptom 875 877	乏力
+T219	Symptom 1141 1143	心悸
+T220	Symptom 1144 1146	乏力
+T221	Test_Value 1284 1285;1286 1293	下 降 15 kg
+T222	Test_Value 1345 1353	升至 9. 0%
+T223	SideEff 1657 1661	心动过速
+T224	SideEff 1670 1674	性欲减退
+T225	SideEff 1662 1669	心率变异性降低
+T226	Symptom 1682 1685;1686 1687	心率减 慢
+T227	Symptom 1688 1695	心率变异性升高
+T228	Test 1850 1852	心率
+T229	Test_Value 1852 1854	增快
+T230	Anatomy 1856 1860	儿茶酚胺
+T231	Test_Value 2023 2040	增加约 2. 71 次 / min
+T232	Test_Value 2066 2083	增加约 0. 88 次 / min
+T233	Test_Value 2144 2147;2148 2161	增加为 3. 60 次 / min
+T234	Test_Value 2164 2177	7. 27 次 / min
+T235	Test_Value 2205 2222	增加约 9. 67 次 / min
+T236	Test_Value 2225 2238	9. 66 次 / min
+T237	SideEff 2260 2266	心率明显增快
+T238	Anatomy 2434 2436	心脏
+T239	Anatomy 2436 2440	自主神经
+T240	SideEff 2486 2490	心率增快
+T241	Anatomy 2567 2572	副交感神经
+T242	Anatomy 2572 2576	节前神经
+T243	Anatomy 2586 2596	抑制性甘氨酸能神经元
+T244	Anatomy 2603 2611	GLP-1 受体
+T245	SideEff 2708 2712	心率增快
+T246	SideEff 2740 2744	心率增快
+T247	Anatomy 2852 2854	交感
+T248	Anatomy 2855 2856;2857 2863	副 交感神经系统
+T249	Symptom 2910 2911;2912 2918	心 率变异性降低
+T250	Symptom 2942 2950	自主神经系统损害
+T251	Anatomy 2969 2973	自主神经
+T252	Anatomy 2978 2982	交感神经
+T253	Anatomy 2987 2991	迷走神经
+T254	Test 2999 3004	心率变异性
+T255	Test_Value 3004 3008	明显降低
+T256	SideEff 3032 3035;3036 3045	加剧交 感-迷走神经的失衡
+T257	SideEff 3046 3057	使心率变异性进一步降低
+T258	SideEff 3058 3063;3064 3065	降低了室颤 阈
+T259	SideEff 3069 3075	恶性心律失常
+T260	Disease 3077 3079	猝死
+T261	Test 3128 3130	心率
+T262	Test_Value 3130 3154	(74. 44 ± 13. 28)次 / min
+T263	SideEff 3182 3192	心脏植物神经功能紊乱
+T264	SideEff 3217 3219	心悸
+T265	SideEff 3241 3253;3254 3255	迷走神经的兴奋性进一步抑 制
+T266	SideEff 3256 3266	心率变异性进一步降低
+T267	SideEff 3267 3275	心率明显增快所致
+T268	SideEff 3283 3287	性欲减退
+T269	Symptom 3307 3311	心率减慢
+T270	Symptom 3312 3315;3316 3322	心率变 异性较前升高
+T271	SideEff 3397 3400;3401 3407	对心率 和情绪的影响
+T272	Symptom 3421 3425	心率减慢

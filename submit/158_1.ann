@@ -1,0 +1,118 @@
+T1	Disease 37 46	胰腺神经内分泌肿瘤
+T2	Disease 68 77	胰腺神经内分泌肿瘤
+T3	Disease 86 95	多发性内分泌腺瘤病
+T4	Disease 107 109	死亡
+T5	Anatomy 119 125	P-NETs
+T6	Anatomy 165 169	MEN1
+T7	Disease 186 188	肿瘤
+T8	Disease 245 254	胰腺神经内分泌肿瘤
+T9	Disease 256 264	多发性内分泌腺瘤
+T10	Anatomy 1184 1188	甲状旁腺
+T11	Disease 1236 1246	Wermer 综合征
+T12	Disease 1256 1265	多发性内分泌腺瘤病
+T13	Anatomy 1326 1330	MEN1
+T14	Anatomy 1346 1350	MEN1
+T15	Anatomy 1354 1361	MEN1 基因
+T16	Anatomy 1371 1376	内分泌腺体
+T17	Disease 1377 1382	肿瘤综合征
+T18	Anatomy 1393 1395;1396 1398	甲状 旁腺
+T19	Anatomy 1399 1401	胰岛
+T20	Anatomy 1402 1404	垂体
+T21	Anatomy 1420 1422;1423 1425	甲状 旁腺
+T22	Anatomy 1431 1436	内分泌腺体
+T23	Disease 1438 1443	胰岛细胞瘤
+T24	Disease 1446 1447;1448 1456	胰 腺神经内分泌肿瘤
+T25	Anatomy 1466 1470	MEN1
+T26	Disease 1473 1475	死亡
+T27	Anatomy 1491 1497	P-NETs
+T28	Disease 1524 1528	胰岛素瘤
+T29	Disease 1529 1533	胃泌素瘤
+T30	Disease 1534 1538;1539 1540	胰升糖素 瘤
+T31	Disease 1541 1546	功能性肿瘤
+T32	Disease 1547 1552	无功能肿瘤
+T33	Disease 1583 1587	胃泌素瘤
+T34	Disease 1590 1592;1593 1596	消化 道溃疡
+T35	Symptom 1597 1599	出血
+T36	Drug 1605 1612	氢离子泵抑制剂
+T37	Drug 1613 1617;1618 1621	生长抑素 类似物
+T38	Disease 1651 1655	恶性肿瘤
+T39	Disease 1679 1681	死亡
+T40	Disease 1784 1786	死亡
+T41	Anatomy 1818 1824	P-NETs
+T42	Disease 1889 1891	肿瘤
+T43	Anatomy 1986 1993	MEN1 基因
+T44	Test 2042 2047	空腹胰岛素
+T45	Test 2048 2051	胃泌素
+T46	Disease 2054 2058	胰岛素瘤
+T47	Disease 2059 2060;2061 2064	胃 泌素瘤
+T48	Test 2101 2105	胰升糖素
+T49	Anatomy 2114 2115;2116 2119	胰 腺多肽
+T50	Test 2237 2242	胰腺 CT
+T51	Test 2243 2246	MRI
+T52	Test 2248 2252	超声内镜
+T53	Test 2265 2272	超声内镜敏感性
+T54	Test_Value 2283 2290	0. 3 cm
+T55	Disease 2292 2294	肿瘤
+T56	Anatomy 2307 2310;2311 2312	胰腺左 侧
+T57	Disease 2335 2338;2339 2341	无功能 肿瘤
+T58	Test 2374 2377	MRI
+T59	Test 2378 2383	奥曲肽扫描
+T60	Test 2384 2386	CT
+T61	Test 2396 2399	MRI
+T62	Drug 2403 2406	奥曲肽
+T63	Test 2453 2459	PET-CT
+T64	Test 2477 2479	CT
+T65	Test 2482 2488	PET-CT
+T66	Test 2511 2517	胰腺 MRI
+T67	Test 2546 2548	CT
+T68	Test 2557 2563;2564 2571	胰腺灌注 / 动脉增强 CT
+T69	Test 2630 2637	腹部薄层 CT
+T70	Disease 2652 2654	肿瘤
+T71	Test_Value 2666 2673	0. 5 cm
+T72	Test 2692 2698	PET-CT
+T73	Disease 2838 2840	肿瘤
+T74	Anatomy 2915 2928	MEN1 基因 Jun-D
+T75	Anatomy 3086 3090	ATRX
+T76	Disease 3124 3125;3126 3129	胰 岛素瘤
+T77	Anatomy 3131 3138	体细胞 YY1
+T78	Disease 3201 3203	肿瘤
+T79	Disease 3295 3297	肿瘤
+T80	Disease 3354 3356	肿瘤
+T81	Anatomy 3376 3378	胰腺
+T82	Disease 3385 3388	糖尿病
+T83	Disease 3438 3442	胃泌素瘤
+T84	Disease 3470 3474	胃泌素瘤
+T85	Anatomy 3479 3483	十二指肠
+T86	Anatomy 3484 3486	胰腺
+T87	Disease 3494 3496	肿瘤
+T88	Operation 3532 3541	全胰十二指肠切除术
+T89	Disease 3545 3548	糖尿病
+T90	Symptom 3550 3554	消化不良
+T91	Operation 3583 3591	胰十二指肠切除术
+T92	Anatomy 3598 3600	胰腺
+T93	Operation 3602 3610	全十二指肠切除术
+T94	Disease 3611 3615	PPTD
+T95	Test 3631 3634	胃泌素
+T96	Drug 3638 3645	氢离子泵抑制剂
+T97	Symptom 3651 3655;3656 3657	胃肠道穿 孔
+T98	Disease 3701 3710	MEN1 胃泌素瘤
+T99	Disease 3723 3731	非转移性胃泌素瘤
+T100	Operation 3733 3737	手术治疗
+T101	Test_Value 3768 3772;3773 3775	小于 1 cm
+T102	Test_Value 3788 3795	大于 3 cm
+T103	Test_Value 3808 3812	2 cm
+T104	Test_Value 3833 3838;3839 3841	1 ~ 2 cm
+T105	Disease 3845 3847	肿瘤
+T106	Disease 3878 3880	死亡
+T107	Disease 3917 3919	肿瘤
+T108	Disease 3954 3956	肿瘤
+T109	Disease 4078 4085	肿瘤细胞缩减术
+T110	Disease 4091 4097	肝动脉栓塞术
+T111	Drug 4107 4114	生长抑素类似物
+T112	Drug 4123 4127	舒尼替尼
+T113	Drug 4128 4132	依维莫司
+T114	Drug 4233 4242	长效生长抑素类似物
+T115	Anatomy 4289 4295	P-NETs
+T116	Disease 4308 4310	肿瘤
+T117	Symptom 4336 4341	发病年龄早
+T118	Anatomy 4358 4362	MEN1

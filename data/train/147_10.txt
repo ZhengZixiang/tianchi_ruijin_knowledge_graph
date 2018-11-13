@@ -1,0 +1,228 @@
+临床研究
+基金项目:国家自然科学基金(81001280,81202277);河南省科技
+攻关项目(112102310198)
+杰);郑州大学基础医学院(刘莉,乐晓萍)
+CIDEB、CIDEC 基因单倍型及单倍型交互作用与肥胖的关系
+平智广  刘莉  詹芳芳  戚敏杰  乐晓萍
+[提要]   选取 528 名无关研究对象,男性 198 人,女性 330 人,平均年龄(52. 2 ± 13. 4)岁,±体重指数
+分为正常体重组 253 人和超重肥胖组 275 人。 检测 CIDEB 和 CIDEC 基因的 10 个 SNPs,采用 SHEsis 分析
+基因的单倍型。 按加性遗传模式对各位点与肥胖的关系进行 logistic 回归,分析两种基因的单倍型致肥胖
+的主效应与交互作用。 CIDEB 基因的 rs2144493 位点可能与肥胖有关,C 为保护性等位基因,OR(95% CI)
+为 0. 722(0. 525 ~ 0. 992)。 CIDEB 基因 CCTT 单倍型携带者和 CIDEC 基因 GCG 单倍型携带者可能更易患
+超重肥胖。 两个基因单倍型之间存在交互作用。 CIDEB、CIDEC 基因单倍型在致肥胖方面可能存在独立以
+及交互作用。
+[关键词]   CIDE 基因; 单倍型; 肥胖; 交互作用
+The main effect and interaction between haplotypes of CIDEB and CIDEC to obesity Ping Zhiguang *, Liu
+Li, Zhan Fangfang, Qi Minjie, Le Xiaoping. *College of Public Health, Zhengzhou University, Zhengzhou 450001,
+China
+[Summary]  A selection of 528 unrelated subjects were enrolled(198 males, 330 females) with the mean age
+of (52. 23 ± 13. 41) years old. According to body mass index, 253 persons belonged to the normal weight group and
+275 persons overweight / obesity group. A total of 10 SNPs in CIDEB and CIDEC genes were detected. SHEsis online
+were used to get the haplotypes of these two genes. The relationship between above SNPs and obesity were analyzed
+under additive inheritance pattern. The main effects and interaction on obesity induced by two genes忆 haplotypes were
+analyzed by logistic regression. rs2144493 in CIDEB gene was associated with obesity, C was a protective alleles, OR
+(95% CI) equals 0. 722(0. 525-0. 992) . CCTT haplotype of CIDEB gene carriers and GCG haplotype of CIDEC gene
+carriers were more prone to obesity or overweight, there was an interaction between the haplotypes of 2 genes. CIDEB,
+CIDEC haplotypes may play independent and interactive roles in causing obesity.
+[Key words]  CIDE gene; Haplotype; Obesity; Interaction
+(Chin J Endocrinol Metab, 2015, 31: 518-521)
+肥胖是患病率很高的一种慢性代谢性疾病,是心血管疾
+病、高血压、2 型糖尿病、非酒精性肝病及癌症等的主要危险因
+素之一[1,2] 。 肥胖已成为影响生命质量和增加各国财政负担的
+全球性重要公共卫生问题[3] 。 大量的双生子、寄养子家庭研究
+证实遗传因素在肥胖的发生、发展中起着重要作用。 虽有单位
+点突变导致的少数肥胖,但大多数肥胖是由于大量基因共同作
+用的结果[4,5] 。
+CIDE( cell death-inducing DNA fragmentation factor 45-like
+effector)家族包括 CIDEA、CIDEB 和 CIDEC 小鼠中 CIDEC 被称
+为脂肪特异性蛋白 27( fat special protein 27, FSP27) [6] ,主要分
+布于棕色脂肪组织(brown adipose tissue, BAT),肝脏和白色脂
+肪组织(white adipose tissues,WATs) [7] 。 最初 CIDE 家族被认
+为与凋亡有关[6,8] ,近来研究发现 CIDE 蛋白在脂质贮存、脂滴
+形成、脂质分解等脂肪代谢过程甚至肥胖、糖尿病和脂肪肝等
+疾病的发生中具有重要作用[2,9,10] 。 然而,目前关于 CIDE 家族
+与肥胖的研究主要集中在动物实验和蛋白质水平,而人群中
+CIDE 基因多态性与肥胖的关系仍未被揭示。
+单倍型致病研究是探索基因多态性与疾病关系的一个重
+要途径,然而目前对于单倍型之间交互作用的研究极少。 由于
+肥胖是多基因遗传的复杂性疾病,且发病往往为多个微效基因
+共同作用所致,因此,本研究将对人群 CIDEB 和 CIDEC 基因单
+倍型及交互作用进行探索,以明确 CIDE B / C 基因与汉族人群
+肥胖的关系及其可能的致肥胖作用方式。
+一、 对象和方法
+1. 对象:采用 PGA 软件估计样本量。 超重肥胖率设定为
+20% ,致病等位基因频率设为 5% , α=0. 05, β=0. 10,其余设置
+按软件默认,计算结果为每组 208 例。 于 2011 年进行现场调
+查获得 528 名无关汉族个体,所有调查对象均按要求填写了调
+查问卷。 所有调查对象均测量身高、体重用于计算体重指数,
+抽取肘静脉血 2 ml,血清用于测定血脂(总胆固醇、甘油三酯、
+高密度脂蛋白胆固醇、低密度脂蛋白胆固醇)水平,白细胞提取
+DNA 用于检测单核苷酸多态性(single nucleotide polymorphism,
+SNP)。 根据体重指数将研究对象分为肥胖超重组(体重指数
+≥24 kg / m2)和体重正常组(体重指数<24 kg / m2) [11] 。
+2. 方法:(1)SNPs 的选择:在 CIDEB 和 CIDEC 基因上各选
+择了 5 个 SNPs,筛选依据为满足下列条件之一:淤已报道与肥
+胖或代谢异常有关;于具有杂合性且最小等位基因频率(minor
+allele frequency,MAF)>0. 05;盂所在基因片段能够引起功能性
+改变。 (2)基因分型:采用 Promega 公司的基因组 DNA 提取试
+剂盒按说明书操作提取 DNA,并采用凝胶电泳检测 DNA 质量。
+采用 snapshot 或连接酶技术(ligase detection reaction,LDR)进行
+SNP 分型。 引物信息见表 1。 Snapshot 法检测:PCR 反应体系
+包括 DNA 1 滋l,10×缓冲液 1. 5 滋l,25 mmol / L 的 MgCl21. 5 滋l,
+DNTP 0. 3 滋l,引物混合 0. 15 滋l,Taq 酶 0. 3 滋l,去离子水补至
+15 滋l。PCR 反应条件如下:94℃ 预变性 3 min,94℃ 变性 15 s,
+60℃复性 15 s,72℃延伸 30 s,11 个循环,每个循环降低 0. 5℃,
+然后 94℃变性 15 s,54℃复性 15 s,72℃延伸 30 s,24 个循环,最
+后 72℃延伸 3 min。 纯化产物,去除多余的 ddNTP 和引物。 延
+伸反应体系:PCR 产物 2 滋l,Snapshot Mix 试剂 1 滋l,延伸引物混
+合 2 滋l,加去离子水补至 6 滋l。 延伸反应条件:96℃ 预变性
+1 min,96℃变性 10 s,52℃复性 5 s,60℃延伸 30 s,30 循环。 取
+1 滋l 延伸产物,加 8 滋l 上样液,95℃变性 3 min,立即冰水浴。 在
+ABI 3730XL 进行测序。 LDR 反应:PCR 反应体系包括 DNA
+1 滋l,10×缓冲液 1. 5 滋l,25 mmol / L 的 MgCl21. 5 滋l,10 mmol / L
+dNTP 0. 3 滋l,正向引物 0. 25 滋l,反向引物 0. 25 滋l,Taq 酶 0. 2
+滋l,去离子水补至 15 滋l。 PCR 反应条件如下:94℃ 预变性 2
+min,94℃变性 20 s,56℃复性 20 s,72℃延伸 40 s,35 个循环,
+72℃延伸 3 min。 连接反应体系:PCR 产物 2 滋l,10×Taq DNA 连
+接酶缓冲液 1 滋l, 40 U / 滋l Taq DNA 连接酶 0. 125 滋l,加去离子
+水补至 10 滋l。 探针 0. 01 滋l /条。 连接条件:94℃ 30 s,56℃ 3
+min,30 循环。 取 1 滋l 连接产物,加 10 滋l 上样液,95℃变性 3
+min,立即冰水浴。 在 ABI 3730XL 进行检测。
+3. 统计学处理:年龄、身高、体重、体重指数采用 x-± s 描述,
+组间比较采用 t 检验。 性别采用频数、百分比描述,组间比较采
+用 字2检验。 采用 Jurg Ott 教授开发的 Hardy-Weinberg 平衡检测
+软件分析各位点的哈温平衡。 采用 SHEsis 在线软件分析
+CIDEB、CIDEC 基因的单倍型。 采用 IBM SPSS 21. 0 进行 logistic
+回归,分析 CIDEB、CIDEC 单倍型及其交互作用与肥胖的关系。
+检验水准设为 α=0. 05。
+二、 结果
+1. 研究人群的一般特征:研究对象 528 人,男性 198 人,女
+性 330 人,平均年龄(52. 2 ± 13. 4)岁。 组间年龄、性别、身高无
+统计学差异,组间具有可比性。 超重肥胖组的体重、总胆固醇、
+甘油三酯、低密度脂蛋白均高于正常体重组。 超重肥胖组的高
+密度脂蛋白低于正常体重组。 研究人群一般特征详见表 2。
+2. 10 个 SNP 的特征:CIDEB 和 CIDEC 基因分型,各位点
+均满足哈温平衡(Hardy-Weinberg equilibrium,P>0. 05),研究对
+象的遗传信息具有一定的代表性。 CIDEB 基因的 rs1950504 位
+点和 CIDEC 基因的 rs79419480 和 rs61742367 位点仅检测出一
+种等位基因,不存在多态性,因此在后续分析中未纳入上述 3
+个位点。
+3. SNPs 单位点致肥胖作用:表 3 为各 SNP 位点基因型在
+正常体重组和超重肥胖组的分布情况。 采用 logistic 回归按加
+性遗传模式对各位点与肥胖的关系进行分析,结果显示仅
+rs2144493 位点具有统计学作用,其中 C 为保护性等位基因,C
+等位基因携带者不容易患肥胖,OR(95% CI)= 0. 722(0. 525 ~
+0. 992)。
+4. 单倍型致肥胖作用分析:采用 SHEsis 软件分别估算
+CIDEB、CIDEC 基因的单倍型,整理二者各种单倍型出现的频
+率,其中 CIDEB 基因常见单倍型为 CCTT、CTTT 和 ATCC,占可
+能单倍型总数的 98. 4% ,CIDEC 基因常见单倍型为 GAA 和
+GCG,占可能单倍型总数的 99. 1% 。
+采用 logistic 回归分析 CIDEB、CIDEC 基因单倍型之间的交
+互作用与肥胖的关系,因“其他冶分类频率过低可能导致变异度
+增大而使结果不准,且“其他冶为多种可能单倍型的组合,无法
+清楚地解释其作用,故在分析中未纳入“其他冶分类。 CIDEB 为
+3 种常见单倍型,分析时进行了哑变量化,以 ATCC 单倍型为参
+表 1  CIDEB 和 CIDEC 基因 10 个 SNP 位点引物
+SNP 位点 上游引物 下游引物 分型方法
+rs1950504 5'-CCGAGCATCAGCCCGAAAGGA-3' 5'-AGCCTGCAGCGCTGCCTCGCA-3' snapshot
+rs2144492 5'-CTTATGGCTTCTCCAGTAGGT-3' 5'-GTATGTGTGTCTTTGGTGATGA-3' snapshot
+rs2332320 5'-CTCTGTGCCAGGTATGAGGAC-3' 5'-GCAGGAGATAGGGAGAGTTCG-3' LDR
+rs2281472 5'-AAAACTGAAGAACACGGAGAGC-3' 5'-CCATTCAGCAGTAGGGTCTCC-3' LDR
+rs2144493 5'-TCAGCATAACGCCTCACATCC-3' 5'-GGGGAGTTTAGGGACAGGAGG-3' LDR
+rs17222536 5'-CTGCAGTATCTTCAGACAGGT-3' 5'-ACCTACTTCGTGGTTTTGACT-3' LDR
+rs391709 5'-CTCAGGACATTTACAACCACA-3' 5'-GTATTCAGAAACCGAGACCAG-3' snapshot
+rs462378 5'-AGCACCAAGTCCAGGTTAGAG-3' 5'-TTCTAAGTTTCCTCCCCTATTTC-3' LDR
+rs79419480 5'-CTGACCTCCATCTCTGCTGAA-3' 5'-CTCACCCTGATGCTTCAACTG-3' LDR
+rs61742367 5'-CTGACCTCCATCTCTGCTGAA-3' 5'-CTCACCCTGATGCTTCAACTG-3' LDR
+表 2  研究人群的一般特征
+组别 例数(男 / 女) 年龄(岁)
+身高
+(cm)
+体重
+(kg)
+总胆固醇
+(mmol / L)
+甘油三酯
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+正常体重组 253(101 / 152) 51. 9 ± 14. 7 158. 9 ± 8. 4 54. 0 ± 7. 1 4. 24 ± 0. 86 1. 30 ± 0. 78 1. 21 ± 0. 30 2. 45 ± 0. 71
+超重肥胖组 275(97 / 178)  52. 6 ± 12. 2 157. 7 ± 8. 0 67. 4 ± 8. 8a 4. 65 ± 0. 87a 2. 01 ± 1. 28a 1. 11 ± 0. 22a 2. 63 ± 0. 74a
+注:HDL-C:高密度脂蛋白胆固醇;LDL-C:低密度脂蛋白胆固醇;组间比较, aP<0. 01
+表 3  基因型在不同组间的分布
+SNP 位点
+正常体重组
+(n=253)
+超重肥胖组
+(n=275)
+合计
+(n=528)
+WW WM MM WW WM MM WW WM MM
+rs2144492 165 79 9 193 77 5 358 156 14
+rs2332320 63 122 68 64 139 72 27 261 140
+rs2281472 10 86 157 79 190 6 165 347
+rs2144493 10 85 158 76 193 6 161 351
+rs17222536 250 3 0 74 1 0 24 4 0
+rs391709 9 88 156 2 100 163 1 188 319
+rs462378 9 85 159 4 99 162 3 184 321
+照。 结果显示,CIDEB 单倍型(P<0. 01)、CIDEC(P=0. 02)单倍
+型及其交互作用 (P < 0. 01) 均对肥胖有一定的作用,其中
+CIDEB 基因的 CCTT 单倍型与 CIDEC 基因具有一定的交互作
+用(P<0. 01)。
+三、 讨论
+何耀[12]指出我国人群超重 /肥胖的人群患病及发病水平
+近 20 年来呈快速增长趋势,其防治形势和任务异常艰巨。 在
+我国,体重正常人群中有 15% ~20%的中心性肥胖者伴有心脑
+血管疾病危险因素的聚集[13] ,提示肥胖的防治工作应尽早开
+展,而通过检测易感基因发现肥胖高危人群并进行有目的的宣
+教则是肥胖早期防治的重要途径之一。 随着分子生物学技术
+的发展,中高通量遗传信息的检测使得基因-基因交互作用在
+复杂疾病的病因学研究中越来越受到重视[14] 。 目前的研究主
+要集中在位点与位点的交互作用,而单倍型与单倍型的交互作
+用鲜有报道。
+CIDE 家族包括 CIDEA、CIDEB 和 CIDEC,在哺乳动物中,
+分别主要表达于棕色脂肪、肝脏和白色脂肪[15] 。 考虑到成人
+体内棕色脂肪较少,因此本研究重点研究了 CIDEB 和 CIDEC
+基因。 近年来发现该家族成员与脂代谢有着非常重要的关
+系[16] 。 肝脏 CIDEB 缺乏活性(突变)的小鼠含有高水平的三
+酰甘油,而 VLDL 的分泌量却很低[17] ,其原因是 VLDL 包裹三
+酰甘油是在 CIDEB 的介导下完成的,CIDEB 可调控三酰甘油和
+胆固醇水平。 CIDEC(Fsp27)在脂滴形成中发挥重要作用,将
+脂肪细胞中的 Fsp27 敲除后,细胞凋亡时脂滴的直径就会减
+小,而脂滴的数量以及葡萄糖的摄取率和脂滴的溶解均会适度
+增加[18] 。 从细胞学的角度来看,细胞内糖脂代谢紊乱是肥胖
+等多种代谢性疾病发生的基础,而 CIDE 蛋白质正是调控细胞
+内糖脂代谢稳态的分子基础。 然而,目前有关 CIDE 家族人群
+基因多态性与肥胖关系的研究未见报道。 因此本研究的结果
+将为明确 CIDEB、CIDEC 基因与肥胖关系并将相应的遗传因素
+作为防治肥胖、糖尿病、肝脂肪变性等代谢紊乱疾病的分子靶
+点提供了理论依据。
+因此本研究对 CIDEB、CIDEC 基因 10 个 SNPs 的等位基
+因、基因型分布进行了描述,通过单因素 logistic 回归分析发现:
+rs2144493 可能与超重肥胖有关,其中 C 等位基因为保护性等
+位基因,携带 C 等位基因者不易患超重 /肥胖,T 等位基因则为
+危险性等位基因。 本研究还发现 CIDEB、CIDEC 基因单倍型在
+致肥胖方面可能存在独立以及交互作用。
+单倍型是指在同一染色体上进行共同遗传的多个基因座
+上等位基因的组合,常作为一个整体进行遗传[19] ,其对疾病的
+作用可能更为明显。 已有研究表明 FTO 基因[20,21] 、Leptin 基
+因[22] 、ADIPOQ[23]等的单倍型与肥胖有关。 本文重点研究了
+CIDEB 和 CIDEC 基因单倍型与人群肥胖的关系。 单倍型虽然
+可通过等位基因特异性聚合酶链反应和体细胞杂交两种方法
+获得,但由于实施难度以及费用等问题,更为常用的方法则是
+利用软件进行估计。 本文采用常用单倍型估计软件 SHEsis
+online 估计 CIDEB 和 CIDEC 基因的单倍型,其中 rs1950504、
+rs79419480 和 rs61742367 三个位点仅检出一种等位基因,不存
+在多态性,所以对 CIDEB 基因的 4 个 SNP、CIDEC 基因的 3 个
+SNP 检测了可能的单倍型。 本研究发现 CIDEB 基因的 CCTT
+单倍型、CIDEC 基因的 GCG 单倍型携带者可能更易患超重肥
+胖。
+在单倍型分析时,本研究分别估算 CIDEB、CIDEC 以及两
+者同时存在的等位基因组合,估计各种潜在单倍型的频率,将
+数据整理后采用 logistic 回归分析单倍型及其交互作用致肥胖
+的作用。 本研究首次尝试采用 SHEsis 构建单倍型后进行单倍
+型-单倍型交互作用分析,为基因-基因交互作用提供了新的分
+析思路,也为疾病遗传学病因的阐明提供了理论依据。

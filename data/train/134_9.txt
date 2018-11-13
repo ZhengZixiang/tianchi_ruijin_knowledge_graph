@@ -1,0 +1,408 @@
+临床研究
+基金项目:贵州省省长专项基金项目(2010-82),贵州省科学技术
+厅[黔科合 LG 字(2011)016 号]
+1 403 名社区人群血清 25-羟维生素 D 及
+甲状旁腺素水平对血压的影响
+王睿  张巧  时立新  彭年春  徐淑静  张淼  张松
+[摘要]   目的  探讨血清 25-羟维生素 D(25OHD)、甲状旁腺素(PTH)、血糖、血脂、尿酸、肥胖、胰岛
+素及生活方式等因素对血压的影响。 方法 资料来源于 2009 年贵阳市居民健康横断面调查,纳入 20 ~ 79
+岁调查对象 1 403 名(男性 582 名,女性 821 名)社区居民,平均(45. 3 ± 14. 4)岁。 所有调查对象均进行问
+卷调查及体格检查,用全自动生化分析仪检测空腹血糖及餐后 2 h 血糖(2hPG)、甘油三酯(TG)、高密度脂
+蛋白胆固醇、血钙、血磷、血肌酐及血尿酸,用化学发光法测血清胰岛素,用放射免疫试剂盒测定 25OHD 及
+PTH 浓度。 结果 通径分析结果表明,影响收缩压的因素按效应大小依次为年龄、体重指数(BMI)、胰岛
+素、性别、25OHD、PTH、2hPG、TG,其总通径系数分别为 0. 453、0. 294、0. 120、-0. 106、-0. 049、0. 047、0. 030、
+0. 030。 影响舒张压的因素按效应依次为 BMI、年龄、性别、胰岛素、2hPG、TG,其通径系数依次为 0. 348、
+0. 217、-0. 146、0. 143、0. 035、0. 035。 胰岛素、TG、2hPG 经 BMI 间接作用于收缩压和舒张压,BMI、PTH、
+25OHD 直接作用于血压;年龄、性别直接和经 BMI 间接影响血压。 结论 影响成年人血压的因素以年龄和
+代谢紊乱指标(血清胰岛素、TG、2hPG 等)最为重要,25OHD 和 PTH 可能与收缩压相关。
+[关键词]   血压; 25-羟维生素 D; 甲状旁腺素
+Relationship of serum 25-hydroxyvitamin D and parathyroid hormone levels with blood pressure in 1 403
+community adults Wang Rui, Zhang Qiao, Shi Lixin, Peng Nianchun, Xu Shujing, Zhang Miao, Zhang
+Song. Department of Endocrinology, the Affiliated Hospital of Guiyang Medical College, Guiyang 550004, China
+[Abstract]  Objective  To investigate the association of serum 25-hydroxyvitamin D (25OHD), parathyroid
+hormone (PTH), blood glucose, blood lipid, uric acid, obesity, insulin etc with blood pressure. Methods A total
+of 1 403 residents aged(45. 3 ±14. 4) years were enrolled from Guiyang residents during a health survey in 2009. The
+standard questionnaire survey and physical examination were performed in all subjects. The fasting plasma glucose,
+postprandial 2 h plasma glucose ( 2hPG ), triglyceride, high density lipoprotein-cholesterol, serum calcium,
+phosphorus, creatinine, and uric acid were determined by automatic biochemical analyzer, serum insulin by
+chemiluminescence method, and serum 25OHD and PTH by radioimmunoassay. Results Path analysis showed that
+age, gender, body mass index ( BMI), insulin, 25OHD, PTH, 2hPG, and triglyceride affected systolic blood
+pressure, with the repective path coefficients of 0. 453, 0. 294, 0. 120, -0. 106, -0. 049, 0. 047, 0. 030, and
+0. 030. BMI, age, gender, insulin, 2hPG, triglyceride affected diastolic blood pressure, with the path coefficients
+0. 348, 0. 217, -0. 146, 0. 134, 0. 035, and 0. 035 respectively. Insulin, triglyceride, 2hPG indirectly influenced
+blood pressure through BMI. BMI, PTH, and 25OHD had a significant and direct effect on blood pressure. Gender
+and age directly and indirectly influenced blood pressure through BMI. Conclusion The most significant influential
+factors on blood pressure are age, serum insulin, triglyceride, and 2hPG in the population of Guiyang. Serum 25OHD
+is negatively associated with systolic blood pressure while PTH level is positively associated with systolic blood
+pressure.
+[Key words]  Blood pressure; Serum 25-hydroxyvitamin D; Parathyroid hormone
+(Chin J Endocrinol Metab, 2014, 30: 397-401)
+高血压病是影响人类健康和致死的主要原因之
+一。 高血压发生与遗传、性别、种族、高盐饮食、肥胖、
+缺乏体力活动等多种因素有关。 越来越多的研究显示
+血清甲状旁腺素(PTH)和 25-羟维生素 D(25OHD)除
+了维持钙磷代谢平衡、保证骨骼健康外,还可能影响血
+压水平。 早在 1980 年 Mc Carron 等[1]就假定钙代谢紊
+乱与高血压发生相关,发现高血压患者与正常血压者
+相比尿钙明显增多;近年来国外研究显示:血 25OHD
+与收缩压呈负相关[2];部分高血压患者存在维生素 D
+缺乏和 PTH 水平偏高状态,改善维生素 D 营养状况
+后,血压可有效降低[3,4]。 He 等[5] 对 2003 年至 2006
+年美国健康和营养调查的数据进行分析,发现血清
+25OHD 与收缩压呈负相关,PTH 与收缩压和舒张压呈
+正相关,当 25OHD 和 PTH 都包括在同样的分析模型
+时,PTH 与收缩压和舒张压的关系保持不变, 但
+25OHD 与收缩压和舒张压的相关性减弱。 国内大理
+市的一项研究认为在中国人群血 25OHD 和 PTH 与血
+压不相关,二者均不是高血压发生的危险因素[6]。 二
+者与血压的相关性仍存在争议。 本研究采用 2009 年
+1 403 名贵阳市社区人群健康横断面调查资料,探讨血
+清 25OHD 及 PTH 水平与其他高血压危险因素对成年
+人血压的影响,为高血压的防治提供依据。
+对象和方法
+一、 对象
+研究对象来源于 2009 年 11 月至 2010 年 2 月间
+贵阳市社区 1 512 名健康人群的调查资料;入选人群
+为贵阳市生活 10 年以上,年龄为 20 ~ 79 岁的居民,各
+年龄段人数及男女比例按照 2000 年我国第五次人口
+普查结果分配,其中资料齐全的 1 403 名作为调查对
+象,男性 582 名,女性 821 名。 排除标准:(1)服糖皮
+质激素者;(2)下丘脑、垂体、肾上腺疾病;(3)急性代
+谢紊乱及肝功能异常、肾功能异常等其他严重全身性
+疾病或慢性消耗性疾病;(4)精神疾病的患者。 本研
+究获得贵阳医学院附属医院伦理委员会批准,研究对
+象均签署知情同意书。
+二、 方法
+身高、体重按照标准程序使用健民牌国民体质测
+评体系的身高测定仪、体重测定仪测定,记录身高时以
+cm 为单位,精确到 0. 1 cm;体重以 kg 为单位,精确到
+0. 1 kg;腰围测量取腰部肋下缘与髋骨上缘之中点的
+周径,臀围测量取耻骨联合水平测量臀部最大周径,受
+试者在测定时只穿贴身衣裤,体重指数(BMI) = 体重
+(kg) /身高2(cm2)。 使用汞式血压计,受试者取坐位,
+统一测量右上肢血压。 受试者测血压前需安静休息
+10 min,受检前 15 min 停止吸烟,测血压前避免饮用茶
+及咖啡类饮料。 若 1 次升高,给予复测,取 3 次平均
+值。
+所 有 调 查 对 象 均 行 口 服 葡 萄 糖 耐 量 试 验
+(OGTT),无糖尿病病史者口服 75 g 无水葡萄糖溶液,
+既往有糖尿病病史者服用 80 g 方便面饼。 试验前禁
+食至少 10 h,以氟化钠-草酸钾抗凝管采集空腹及
+OGTT 试验 2 h 后静脉血,立即分离血浆,于 2℃ ~ 8℃
+冰箱保存,同时留取清晨空腹静脉血分离血清,冻存于
+-70℃冰箱。 使用 OLYMPUS AU5400 全自动生化分析
+仪检测空腹血糖(FPG)、餐后 2 h 血糖(2hPG)、甘油三
+酯(TG)、高密度脂蛋白胆固醇(HDL-C)、血钙、血磷、
+血肌酐、血尿酸,测定的批内 CV 均<3% ,批间 CV 均<
+5% ,血胰岛素测定使用化学发光法。 使用美国
+DiaSorin 放射免疫试剂盒、西安 SH6080 核仪器进行全
+自动检测血清 25OHD 及 PTH 水平。 血清 25OHD 水
+平测定试剂盒批间 CV 为 11. 1% ,批内 CV 为 8. 8% 。
+PTH 测定试剂盒批间 CV 为 4. 9% ,批内 CV 为 2. 4% 。
+三、 统计学处理
+统计软件包采用 SPSS 19. 0 和 Amos 17. 0,计量资
+料用 x-± s 表示,组间比较进行方差齐性检验后,正态分
+布 2 组间比较采用 t 检验,对总人群及性别分层的数
+据进行描述性分析,组间百分率的比较用 字2 检验,因
+素间关系采用两变量线性相关分析,因素效应采用通
+径分析(path analysis),P<0. 05 为差异有统计学意义。
+结    果
+一、 基线特征
+1 512 名 20 ~ 79 岁调查对象参与本研究,平均年
+龄为(46. 1 ± 14. 7)岁。 资料完整(完成血脂、尿酸、血
+糖、血钙、血磷、血肌酐、血胰岛素、25OHD 及 PTH 者)
+的 1 403 名研究对象中男性 582 名、女性 821 名,各项
+研究指标按性别分层后的情况见表 1,血清 PTH、血清
+胰岛素、血磷、血肌酐、HDL-C、尿酸、TG、FPG、血压、
+BMI、吸烟、饮酒及补充钙剂等指标的性别差异具有统
+计学意义(P<0. 05 或 P<0. 01)。
+二、 各因素与血压的线性相关分析
+初步分析显示吸烟、饮酒、体育活动、是否补充钙
+剂和维生素 D、饮用牛奶等生活方式以及血尿酸水平
+与血压无相关性,年龄、BMI、2hPG、TG、血清胰岛素与
+收缩压呈正相关, 相关系数依次为 0. 45、 0. 411、
+0. 302、0. 194、0. 176(均 P<0. 05),与舒张压亦呈正相
+关,相关系数依次为 0. 222、0. 397、 0. 188、 0. 199、
+0. 219(均 P<0. 05)。 血清 PTH 与收缩压及舒张压均
+呈正相关,相关系数分别为 0. 065 和 0. 054 (均 P <
+0. 05)。 血清 25OHD 水平与收缩压及舒张压未发现
+相关性。
+三、 通径分析
+在初步分析因素间线性相关关系的基础上,建立
+通径分析模型,重点分析 PTH 和 25OHD 以及各种代
+谢指标和血压之间的效应关系。
+1. 选择变量: 以 BMI 和血压值作为内生变量;
+以性别(男 = 1,女 = 2)、年龄、2hPG、TG、血清胰岛素、
+PTH、25OHD 作为外生变量,除性别外,各变量均为连
+续性变量。
+表 1  不同性别调查对象临床特点[x-± s,n(% )]
+Tab 1  Characteristics of participants by gender [x-± s,n(% )]
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+WC
+(cm)
+BMI
+(kg / m2)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+BUA
+(μmol / L)
+FPG
+(mmol / L)
+2hPG
+(mmol / L)
+男性
+Male 582 45. 4 ± 15. 0 85. 44 ± 8. 96 24. 2 ± 3. 3 2. 0 ± 1. 6 1. 14 ± 0. 34 378. 18 ± 78. 24 6. 2 ± 1. 9 7. 2 ± 3. 8
+女性
+Female 821 45. 7 ± 14. 2 78. 78 ± 9. 34
+b 23. 4 ± 3. 7b 1. 6 ± 1. 4b 1. 26 ± 0. 32b 290. 95 ± 67. 57b 5. 9 ± 1. 6a 7. 1 ± 3. 6
+组别
+Group
+例数
+n
+Ca
+(mmol / L)
+P
+(mmol / L)
+sCr
+(μmol / L)
+FINS
+(mU / L)
+25OHD
+(ng / ml)
+PTH
+(pg / ml)
+SBP
+(mmHg)
+DBP
+(mmHg)
+男性
+Male 582 2. 37 ± 0. 15 1. 03 ± 0. 18 74. 88 ± 12. 70 10. 0 ± 6. 9 20. 7 ± 9. 6 33. 5 ± 12. 4 121 ± 17 79 ± 11
+女性
+Female 821 2. 36 ± 0. 17 1. 11 ± 0. 15
+b 55. 84 ± 10. 08b 9. 0 ± 5. 2b 20. 4 ± 8. 3 30. 4 ± 13. 2b 116 ± 21b 75 ± 12b
+组别
+Group
+例数
+n
+吸烟史
+Smoking
+饮酒史
+Drinking
+体育锻炼
+Physical exercise
+糖尿病家族史
+Diabetes history
+补充钙剂
+Calcium
+饮用牛奶
+Milk
+补充维生素 D
+Vitamin D
+男性
+Male 582   341(58. 59)   189(32. 47) 237(54. 73) 65(11. 17)   49(8. 42) 104(17. 87) 14(2. 40)
+女性
+Female 821   62(7. 55)
+b   43(5. 23) b 386(47. 02) 115(14. 00)   124(15. 10) b 168(20. 46) 32(3. 90)
+注:WC:腰围 Waist circumference;BMI:体重指数 Body mass index;TG:甘油三酯 Triglyceride;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-
+cholesterol;BUA:血尿酸 Blood uric acid;FPG:空腹血糖 Fasting plasma glucose;2hPG:餐后 2 h 血糖 Postprandial 2 h plasma glucose;Ca:钙;P:磷;sCr:血肌
+酐 Serum creatinine;FINS:空腹胰岛素 Fasting insulin;25OHD:25-羟维生素 D 25-hydroxy vitamin D; PTH:甲状旁腺素 Parathyroid hormone;SBP:收缩压
+Systolic blood pressure;1 mmHg=0. 133 kPa;DBP:舒张压 Diastolic blood pressure;与男性比较 vs Male,aP<0. 05,bP<0. 01
+表 2  收缩压、舒张压通径分析修正模型的拟和优度指标
+Tab 2  The path analysis model goodness of fit indices of systolic and diastolic blood pressure
+拟和优度指标
+Goodness-of-fit parameter
+判断标准
+Criterion for judgement
+收缩压模型
+Systolic blood pressure model
+舒张压模型
+Diastolic blood pressure model
+字2 / df <3. 00 字
+2 =42. 950,df =15,P<0. 001,
+字2 / df =2. 863
+字2 =32. 313,df =15,P=0. 006,
+字2 / df =2. 154
+GFI >0. 90 0. 944 0. 959
+NFI >0. 90 0. 972 0. 976
+IFI >0. 90 0. 982 0. 987
+CFI >0. 90 0. 981 0. 986
+RMSEA <0. 05 0. 036 0. 029
+注:GFI:拟和优度指数 Goodness-of-fit index;NFI:规范拟合指数 Normed fit index;IFI:增值拟合指数 Incremental fit index; CFI:比较拟合指数
+Comparative fit index; RMSEA:近似误差均方根 Root mean square error of approximation
+表 3  各因素影响收缩压回归方程拟合结果
+Tab 3  The fitting results of the regression equation of influencing factors and systolic blood pressure
+因变量
+Dependent variable
+自变量
+Independent variable
+回归系数
+Regression coefficient
+标准误
+Standard error t P
+标准化偏回归系数
+Standardized partial regression coefficient
+BMI FINS 0. 245 0. 014 17. 883 0. 000 0. 410
+Age 0. 067 0. 006 11. 620 0. 000 0. 275
+TG 0. 239 0. 055 4. 372 0. 000 0. 102
+2hPG 0. 097 0. 023 4. 192 0. 000 0. 101
+Gender -0. 421 0. 161 -2. 622 0. 009 -0. 058
+SBP Age 0. 497 0. 032 15. 708 0. 000 0. 372
+BMI 1. 610 0. 129 12. 489 0. 000 0. 294
+Gender -3. 524 0. 895 -3. 936 0. 000 -0. 089
+25OHD -0. 107 0. 050 -2. 135 0. 033 -0. 049
+PTH 0. 072 0. 034 2. 099 0. 036 0. 047
+注:Age:年龄; Gender:性别;余略语同表 1 The other abbreviations are the same as Tab 1
+2. 拟和模型:收缩压和舒张压模型拟和优度指标
+见表 2,各指标均达到理想模型的判断标准,表明模型
+较好。
+3. 收缩压模型:性别、年龄、PTH 和 25OHD 对收
+缩压有直接影响,而 2hPG、TG 以及胰岛素等指标通过
+中间变量 BMI 间接影响收缩压。 各指标对收缩压影
+响多为正相关,但性别、25OHD 的效应为负相关。 标
+准回归系数显示,PTH 对收缩压影响为正相关(回归
+系数为 0. 072,P<0. 05),25OHD 的影响为负相关(回
+归系数为-0. 107,P<0. 05,表 3),影响收缩压的因素
+见表 4,按效应大小依次为年龄、BMI、胰岛素、性别、
+25OHD、PTH、2hPG 和 TG。
+表 4  各因素影响收缩压的标准化通径系数
+Tab 4  The standardized path coefficients of factors affecting systolic
+blood pressure
+变量
+Variable
+直接通径系数
+Direct path
+coefficients
+间接通径系数
+Indirect path
+coefficients
+总通径系数
+Total path
+coefficients
+Age 0. 372 0. 081 0. 453
+BMI 0. 294 0. 000 0. 294
+FINS 0. 000 0. 120 0. 120
+Gender -0. 089 -0. 017 -0. 106
+25OHD -0. 049 0. 000 -0. 049
+PTH 0. 047 0. 000 0. 047
+2hPG 0. 000 0. 030 0. 030
+TG 0. 000 0. 030 0. 030
+注:略语同表 1 和表 3 The abbreviations are the same as Tab 1 and Tab 3
+4. 舒张压模型:影响舒张压相关因素通径系数见
+表 5,PTH 和 25OHD 对舒张压无明显影响 (均 P >
+0. 05)。影响舒张压的因素按作用大小依次为 BMI、年
+龄、性别、血清胰岛素、2hPG 和 TG。
+表 5  各因素影响舒张压的标准化通径系数
+Tab 5   The standardized path coefficients of factors affecting
+diastolic blood pressure
+变量
+Variable
+直接通径系数
+Direct path
+coefficients
+间接通径系数
+Indirect path
+coefficients
+总通径系数
+Total path
+coefficients
+BMI 0. 348 0. 000 0. 348
+Age 0. 121 0. 096 0. 217
+Gender -0. 126 -0. 020 -0. 146
+FINS 0. 000 0. 143 0. 143
+2hPG 0. 000 0. 035 0. 035
+TG 0. 000 0. 035 0. 035
+注:略语同表 1 和表 3 The abbreviations are the same as Tab 1 and Tab 3
+讨    论
+高血压是遗传与环境等多种因素交互作用的结
+果,高血压的发生与遗传、性别、种族、高盐饮食、肥胖、
+缺乏体力活动等多种因素有关。 越来越多的流行病调
+查研究显示维生素 D、PTH 水平与血压尤其是收缩压
+水平相关。 Garcia 等[7]针对 332 例维生素 D 缺乏的患
+者进行研究发现血 PTH 浓度和收缩压以及舒张压呈
+正相关。 Judd 等[8] 通过美国第三次健康和营养横断
+面数据分析发现在美国的非高血压人群中,血 25OHD
+水平与收缩压呈负相关。 Zhao 等[9] 横断面研究了美
+国 7 288 名 20 岁及以上成人血压与维生素 D、PTH 之
+间的关系,认为维生素 D 与血压呈负相关,PTH 与血
+压正相关。 Griffin 等[10]随访研究 559 名 24 ~ 44 岁的
+妇女,14 年后发现低维生素 D 状态收缩压明显升高。
+Jorde 等[11]针对 1994 年测定了血 PTH 值的 1 784 名受
+试者,在 2001 年再次进行跟踪随访后发现高 PTH 水
+平是男性收缩压升高的危险预测因子,高四分位数的
+PTH 值与低四分位数 PTH 值患者的收缩压差值为 3. 5
+mmHg(1 mmHg = 0. 133 kPa)。 本研究以贵阳市社区
+人群为对象,分析高血压的常见危险因素及 25OHD、
+PTH 对血压水平的影响,发现血清 25OHD、PTH 可能
+对收缩压有一定的影响,且前者呈负相关,后者呈正相
+关,其作用不及 BMI、年龄及胰岛素,但强于 2hPG、TG
+对血压的影响,未发现 PTH 和 25OHD 对舒张压的影
+响,本研究与上述研究结果一致[8,9]。
+维生素 D 缺乏可能引起高血压的机制为:(1)维
+生素 D 可抑制肾素释放,抑制肾素活性。 (2)维生素
+D 直接抑制血管平滑肌细胞增殖。 (3)维生素 D 缺乏
+可促进血管炎性反应。 (4)1,25-二羟维生素 D3 还可
+抑制肾素 mRNA 的表达[12]。 PTH 对心血管的影响主
+要表现在:(1)Gennari 等[13] 认为 PTH 通过上调肾素-
+血管紧张素-醛固酮系统以及血管收缩而使血压升高;
+(2)促进血管炎性反应,Rashid 等[14]发现 PTH 能够激
+活蛋白激酶 C 和蛋白激酶 A 途径,诱导一氧化氮、晚
+期糖基化终末产物受体及白细胞介素 6 的表达,使血
+管内膜受损。 一氧化氮是十分重要的内皮信号物质,
+对扩张血管起着重要作用,而晚期糖基化终末产物受
+体与白细胞介素 6 却能促进动脉硬化进程。 (3)PTH
+促进血管钙化:高 PTH 水平会导致明显的钙磷代谢障
+碍及钙磷乘积水平异常,而血钙、血磷和钙磷乘积水平
+是心血管系统钙化、钙化防御及其他软组织钙化的独
+立危险因素[15]。 目前大多数的研究认为维生素 D 与
+PTH 均独立作用使血压升高,二者是否共同作用使血
+压升高,机制不明,Richart 等[16] 认为 PTH 与维生素 D
+互相共同作用介导钙离子内流,升高的 PTH / 25OHD
+比值促进了包括代谢和动脉钙化的靶细胞的钙离子内
+流,并且发现了在高血压状况下有着明显升高的 PTH /
+25OHD 比值。
+本研究还分析高血压的常见危险因素血糖、血脂、
+尿酸、肥胖、胰岛素对血压水平的影响,发现 BMI、年
+龄、胰岛素及性别为收缩压及舒张压的主要相关影响
+因素。 国内刘力生[17] 认为超重和肥胖是我国高血压
+发病的重要危险因素,本研究发现 BMI 是收缩压(仅
+次于年龄)及舒张压主要相关影响因素,与上述研究
+结果一致[17]。 研究还发现年龄和血压密切关联,胰岛
+素与血压相关,可能年龄代表了和机体成长、衰老过程
+中多个因素的综合效应。 对吸烟、饮酒、体育活动的生
+活方式因素也进行了调查,未发现吸烟、饮酒、体育活
+动对血压的影响,可能与生活方式因素之间相互影响,
+存在混杂作用或交互作用,其效应难以检出;而且上述
+因素最终是通过影响生理因素(代谢及激素)而影响
+血压,故当生活方式和生理性因素放在一起时,模型中
+生理因素的效应可能掩盖了生活方式因素[18,19]。 另
+有研究报道尿酸也是高血压危险因素之一[20],本研究
+未能证实尿酸对血压的影响,尿酸和血压之间的关系
+还需进一步研究验证。
+本研究的优势:(1)研究样本来源于整群随机抽
+样的自然人群,年龄在 20 ~ 79 岁,样本量较大,具有较
+好的代表性;(2)较全面探讨影响血压常见危险因素
+如血糖、血脂、尿酸、肥胖、胰岛素及生活方式,同时重
+点探讨维生素 D、PTH 对血压的影响;(3)采用通径分
+析手段,对多个因素的效应进行综合分析,能较好地反
+映因素间的因果关联;各因素效应大小可以比较。 本
+研究缺陷:(1)为横断面研究,各变量间的关联具有偶
+然性,可能不能反映真实的因果关系,且关联容易受到
+偏倚的影响;(2)横断面研究中,研究对象中检出部分
+高血压者,已经改变了不良行为方式或其他危险因素,
+导致相关危险因素的关联难以发现。
+本研究进一步证实 BMI、年龄、胰岛素及性别为收
+缩压及舒张压的主要相关影响因素,并发现血清维生
+素 D、PTH 可能对收缩压有一定的影响,其作用虽不及
+BMI、年龄及胰岛素,但强于 2hPG、TG 影响。 故针对
+高血压的防治,需提倡健康生活方式,控制体重,并进
+一步关注维生素 D 的营养状况并注意监测血 PTH 水
+平对血压的影响。

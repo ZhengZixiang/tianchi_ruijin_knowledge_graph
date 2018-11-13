@@ -1,0 +1,436 @@
+T1	Disease 430 432;433 438	糖尿 病神经病变
+T2	Disease 478 485	糖尿病神经病变
+T3	Disease 996 1003	糖尿病神经病变
+T4	Disease 4149 4156	糖尿病神经病变
+T5	Disease 865 869;870 872	2 型糖 尿病
+T6	Disease 1910 1916	2 型糖尿病
+T7	Disease 3068 3074	2 型糖尿病
+T8	Disease 5587 5593	2 型糖尿病
+T9	Disease 5850 5856	2 型糖尿病
+T10	Test 1455 1460	HBA1C
+T11	Test 2573 2578	HBA1C
+T12	Drug 1973 1977	二甲双胍
+T13	Test 912 916	空腹血糖
+T14	Test 2548 2552	空腹血糖
+T15	Test 3581 3585	空腹血糖
+T16	Test 3501 3503;3504 3506	尿白 蛋白
+T17	Test 3506 3510	肌酐比值
+T18	Test 1213 1217	体重指数
+T19	Test 3386 3387;3388 3391	体 重指数
+T20	Test 1416 1419	肝功能
+T21	Test 2533 2536	肝功能
+T22	Test 3624 3627	肝功能
+T23	Test 1423 1426	肾功能
+T24	Test 2541 2544	肾功能
+T25	Test 3631 3634	肾功能
+T26	Test 1420 1422	尿酸
+T27	Test 2537 2539	尿酸
+T28	Test 3628 3630	尿酸
+T29	Test 4692 4697	RANKL
+T30	Disease 345 349	夏克氏足
+T31	Disease 367 375	神经营养性关节病
+T32	Disease 412 423	Charcot 关节病
+T33	Disease 425 429	夏克氏足
+T34	Disease 519 523	夏克氏足
+T35	Disease 582 585	糖尿病
+T36	Symptom 825 828;829 830	左足红 肿
+T37	Method 883 887	皮下注射
+T38	Test 906 908	血糖
+T39	Test 934 943	餐后 2 h 血糖
+T40	Symptom 976 980	双足麻木
+T41	Symptom 981 985	足趾刺痛
+T42	Symptom 1084 1086;1087 1089	左足 红肿
+T43	Test 1104 1112	足部 X 线检查
+T44	Disease 1115 1118;1119 1123	足部软 组织感染
+T45	Symptom 1133 1139	左足红肿加重
+T46	Test 1169 1171	血压
+T47	Test 1172 1174	血压
+T48	Test_Value 1218 1232	25. 46 kg / m2
+T49	Symptom 1233 1237	左足水肿
+T50	Symptom 1238 1240	发红
+T51	Symptom 1241 1243	发热
+T52	Symptom 1244 1246	畸形
+T53	Test 1350 1356	踝 /肱指数
+T54	Test 1388 1391	尿蛋白
+T55	Test_Value 1407 1410	1 g
+T56	Test 1429 1432;1433 1434	空腹血 糖
+T57	Test 1449 1451	尿糖
+T58	Test 1469 1474	X 线平片
+T59	Test 1503 1506	MRI
+T60	Test 1610 1611;1612 1613	超 声
+T61	Disease 1708 1712	高血压病
+T62	Drug 1735 1741	营养神经药物
+T63	Test 1744 1746	血糖
+T64	Disease 1812 1816	足底溃疡
+T65	Symptom 1844 1848	血糖升高
+T66	Symptom 1854 1858	右足溃疡
+T67	Symptom 1864 1868	左足变形
+T68	Test 1902 1904	血糖
+T69	Drug 1946 1949	诺和锐
+T70	Frequency 1953 1959	每日 2 次
+T71	Method 1959 1963	皮下注射
+T72	Test 1980 1982	血糖
+T73	Test 1995 1997	血糖
+T74	Symptom 2143 2148	双下肢麻木
+T75	Symptom 2149 2151	刺痛
+T76	Disease 2157 2163;2164 2165	糖尿病神经病 变
+T77	Symptom 2185 2189	右足变形
+T78	Symptom 2235 2236;2237 2240	左 足变形
+T79	Symptom 2242 2246	双足变形
+T80	Test_Value 2301 2315	29. 38 kg / m2
+T81	Symptom 2316 2320	左足水肿
+T82	Symptom 2321 2323	发红
+T83	Symptom 2324 2327	皮温高
+T84	Test 2491 2497	踝 /肱指数
+T85	Test 2567 2569	尿糖
+T86	Test_Value 2553 2566	8. 9 mmol / L
+T87	Test 2599 2602	尿蛋白
+T88	Test 2607 2615	双足 X 线平片
+T89	Test 2673 2676	MRI
+T90	Disease 2801 2806	右足底溃疡
+T91	Disease 2866 2868;2869 2871	血脂 异常
+T92	Drug 2893 2898;2899 2900	营养神经药 物
+T93	Test 2903 2905	血糖
+T94	Test 2906 2908	血压
+T95	Test 2909 2911	血脂
+T96	Symptom 3024 3028	血糖升高
+T97	Drug 3088 3091	消渴丸
+T98	Drug 3118 3122	降糖药物
+T99	Test 3123 3125	血糖
+T100	Frequency 3155 3161	每日 2 次
+T101	Method 3162 3166	皮下注射
+T102	Symptom 3176 3178;3179 3181	手足 麻木
+T103	Symptom 3229 3233	右足肿胀
+T104	Symptom 3234 3238	疼痛加重
+T105	Symptom 3239 3243	不能行走
+T106	Drug 3354 3356;3357 3361	复方 利血平片
+T107	Test 3363 3365	血压
+T108	Test_Value 3392 3406	28. 96 kg / m2
+T109	Test 3452 3458	踝 /肱指数
+T110	Test 3524 3532	双足 X 线平片
+T111	Test 3551 3557	MRI 平扫
+T112	Test 3601 3603	尿糖
+T113	Test_Value 3586 3600	13. 6 mmol / L
+T114	Test 3638 3640	眼底
+T115	Test 3659 3661	超声
+T116	Disease 3756 3760	高血压病
+T117	Drug 3783 3789	营养神经药物
+T118	Test 3792 3794	血糖
+T119	Disease 3844 3848	夏克氏足
+T120	Disease 3896 3898	骨折
+T121	Disease 3995 4006	Charcot 关节病
+T122	Disease 4033 4043	糖尿病神经性骨关节病
+T123	Disease 4050 4053	脊髓痨
+T124	Disease 4070 4077	神经性骨关节病
+T125	Disease 4132 4138	神经骨关节病
+T126	Disease 4217 4221	夏克氏足
+T127	Disease 4291 4297	自主神经病变
+T128	Disease 4316 4320	骨质疏松
+T129	Disease 4446 4449	糖尿病
+T130	Disease 4453 4459	周围神经病变
+T131	Disease 4600 4604	肾脏疾病
+T132	Disease 4605 4608	肾移植
+T133	Disease 4609 4619;4620 4621	皮质醇引起的骨质疏松 症
+T134	Anatomy 4622 4637	核因子-κB 受体活化因子配体
+T135	Disease 4715 4719	夏克氏足
+T136	Anatomy 4732 4736	足部关节
+T137	Symptom 4764 4766	肿胀
+T138	Symptom 4767 4769	红斑
+T139	Symptom 4771 4775	皮温升高
+T140	Symptom 4776 4780	感觉减退
+T141	Test 4835 4840	X 线平片
+T142	Disease 5094 5098	夏克氏足
+T143	Test 5100 5105	X 线平片
+T144	Disease 5114 5118	夏克氏足
+T145	Test 5137 5140	MRI
+T146	Test 5148 5150	CT
+T147	Disease 5190 5201	Charcot 关节病
+T148	Disease 5202 5205	骨髓炎
+T149	Test 5212 5217	骨穿刺活检
+T150	Test 5237 5239	活检
+T151	Disease 5263 5267	夏克氏足
+T152	Disease 5274 5278	夏克氏足
+T153	Disease 5414 5426	急性 Charcot 足
+T154	Disease 5499 5508	Charcot 足
+T155	Test 5606 5608	血糖
+T156	Disease 5620 5626	周围神经病变
+T157	Symptom 5630 5634	双足麻木
+T158	Test 5737 5740	X 线
+T159	Test 5763 5766	MRI
+T160	Disease 5922 5926	夏克氏足
+T161	Disease 5970 5973	糖尿病
+T162	Disease 6032 6035	糖尿病
+T163	Symptom 6040 6043	足肿胀
+T164	Symptom 6044 6046	发热
+T165	Symptom 6047 6049	畸形
+T166	Anatomy 1364 1367	肱动脉
+T167	Method 1159 1161	口服
+T168	Test 1522 1524	MR
+T169	Treatment 1716 1720	患足减压
+T170	Treatment 1721 1723	制动
+T171	Treatment 1724 1726	换药
+T172	Drug 1920 1924	口服药物
+T173	Drug 1935 1939	口服药物
+T174	Amount 1950 1953	30冶
+T175	Test 2081 2085	X 线片
+T176	Test 2125 2128	MRI
+T177	Treatment 2877 2879	减压
+T178	Treatment 2880 2882	制动
+T179	Treatment 2883 2885	换药
+T180	Symptom 3138 3141;3142 3143	视物模 糊
+T181	Amount 3151 3154	30R
+T182	Treatment 3766 3767;3768 3769	减 压
+T183	Treatment 3770 3772	制动
+T184	Treatment 3773 3775	换药
+T185	Disease 4422 4426	足部病变
+T186	Disease 4558 4561	足畸形
+T187	Disease 4594 4599	些代谢异常
+T188	Test 4793 4798	X 线平片
+T189	Test 4905 4909	关节功能
+T190	Disease 5152 5156	关节创伤
+T191	Disease 5160 5162	骨折
+T192	Disease 5167 5171	韧带损伤
+T193	Disease 5302 5305	足畸形
+T194	Anatomy 5317 5319	关节
+T195	Treatment 5405 5412	制动和减少压力
+T196	Treatment 5460 5462	制动
+T197	Treatment 5463 5465	减压
+T198	Treatment 5475 5476;5477 5478	减 压
+T199	Treatment 5479 5481	制动
+T200	Treatment 5531 5533	减压
+T201	Treatment 5534 5536	制动
+T202	Disease 5537 5539	畸形
+T203	Treatment 5802 5804	制动
+T204	Treatment 5806 5808	加压
+T205	Test 5933 5938	影像学检查
+T206	Duration 831 835	2 个月
+T207	Test_Value 918 933	7 ~ 10 mmol / L
+T208	Test_Value 945 960	7 ~ 10 mmol / L
+T209	Symptom 1254 1258;1259 1260	右足无水 肿
+T210	Symptom 1261 1267	皮肤颜色正常
+T211	Symptom 1268 1271	无发热
+T212	Symptom 1288 1289;1290 1292	搏 动弱
+T213	Symptom 1299 1312	双侧跟腱反射及髌腱反射减弱
+T214	Test_Value 1335 1338	33℃
+T215	Test_Value 1342 1348	30. 5℃
+T216	Test_Value 1372 1377	0. 71
+T217	Test_Value 1381 1386	0. 69
+T218	Symptom 1314 1319;1320 1325	双侧震动觉 及触觉消失
+T219	Test_Value 1435 1448	9. 1 mmol / L
+T220	Test_Value 1452 1453	+
+T221	Test_Value 1461 1466	8. 7%
+T222	Duration 1849 1853	16 年
+T223	Duration 1859 1860;1861 1863	7 个月
+T224	Duration 1869 1873	5 个月
+T225	Disease 1803 1807	左足畸形
+T226	Test_Value 1904 1906	升高
+T227	Symptom 2329 2335	右下肢无水肿
+T228	Symptom 2336 2338;2339 2367	右足 底外侧缘,有一直径为 3 cm,深度为 5 mm 的溃疡
+T229	Symptom 2368 2373	未暴露骨骼
+T230	Symptom 2375 2392	溃疡边缘可见少量分泌物及增生角质层
+T231	Symptom 2401 2404;2405 2422	扪及足 背、胫后、膝盖窝内扪及动脉,搏动弱
+T232	Symptom 2429 2434;2435 2443	双侧跟腱反 射及髌腱反射减弱
+T233	Symptom 2445 2455	双侧震动觉及触觉消失
+T234	Test 2471 2475	足背温度
+T235	Test_Value 2479 2482	34℃
+T236	Test_Value 2486 2489	33℃
+T237	Test_Value 2513 2518	0. 67
+T238	Test_Value 2522 2527	0. 65
+T239	Test_Value 2570 2571	+
+T240	Test_Value 2579 2584	8. 7%
+T241	Test_Value 2595 2598	136
+T242	Test_Value 2680 2689;2690 2702	双足压脂 T2WI 像显示跗骨及跖骨骨髓水肿
+T243	Test_Value 2703 2710	骨质边缘欠光整
+T244	Test_Value 2711 2717;2718 2721	跖跗关节腔少 量积液
+T245	Test_Value 2722 2729	周围软组织肿胀
+T246	Test_Value 2730 2742	足底部局部皮下软组织肿胀
+T247	Test_Value 2754 2772	双眼底可见较多出血斑及硬性、软性渗出
+T248	Test_Value 2774 2777;2778 2783	左室舒 张功能减退
+T249	Test_Value 2784 2796	双侧下肢动脉多段斑块形成
+T250	Test 2751 2753	眼底
+T251	Test_Value 1566 1572	关节间隙存在
+T252	Symptom 2916 2922	双足红肿症状
+T253	Symptom 2925 2928;2929 2930	皮温下 降
+T254	Duration 3029 3033	15 年
+T255	Duration 3043 3047	3 个月
+T256	Symptom 3274 3275;3276 3279	右 足肿胀
+T257	Test_Value 3313 3327	160 / 100 mmHg
+T258	Symptom 3418 3424	足跟处最明显
+T259	Test_Value 3440 3443	29℃
+T260	Test_Value 3447 3450	33℃
+T261	Test_Value 3474 3479	0. 91
+T262	Test_Value 3483 3488	0. 89
+T263	Symptom 3490 3499	双足背动脉搏动有力
+T264	Test_Value 3511 3514	111
+T265	Symptom 3932 3948	修复后的骨隆起可导致局部压力增加
+T266	Reason 4300 4306	足血流量增加
+T267	Reason 4311 4315	骨量减少
+T268	Reason 4325 4327;4328 4334	继发 性骨强度下降
+T269	Level 4814 4816	前期
+T270	Level 4817 4820	进展期
+T271	Level 4821 4824	融合期
+T272	Level 4825 4828	重构期
+T273	Test_Value 4840 4848	骨质无或轻微异常
+T274	Test_Value 4876 4879	常无痛
+T275	Disease 4897 4901	关节破坏
+T276	Disease 4902 4904	畸形
+T277	Level 4945 4948	进展期
+T278	Level 5020 5023	融合期
+T279	Level 5003 5005	前期
+T280	Level 5006 5009	进展期
+T281	Symptom 5027 5034	软组织肿胀减轻
+T282	Symptom 5035 5039	骨痂增值
+T283	Symptom 5040 5043;5044 5047	骨折愈 合固定
+T284	Symptom 5050 5057	骨性的关节强直
+T285	Symptom 5058 5062	增生肥大
+T286	Level 5066 5069	重构期
+T287	Level 5086 5089	重构期
+T288	Test_Value 5244 5253;5254 5261	滑膜深层内嵌有许多 骨碎片和软组织
+T289	Duration 5596 5605	15 ~ 20 年
+T290	Symptom 5696 5705	触觉、痛觉明显减退
+T291	Symptom 5706 5708;5709 5713	震动 阈值增加
+T292	Symptom 5714 5720	跟腱反射减弱
+T293	Symptom 5721 5732	皮温高于健侧 2℃以上
+T294	Test_Value 5779 5785	关节间隙异常
+T295	Test_Value 5786 5790	骨髓水肿
+T296	Test_Value 1510 1514	左足横断
+T297	Test 2586 2587;2588 2594	尿 白蛋白肌酐比
+T298	Anatomy 4639 4642	护骨素
+T299	Disease 29 36	糖尿病夏克氏足
+T300	Operation 561 563	截肢
+T301	Disease 670 677	糖尿病夏克氏足
+T302	Symptom 815 819	血糖升高
+T303	Drug 887 891	“诺和灵
+T304	Amount 892 895	30R
+T305	Drug 1010 1013	弥可保
+T306	Anatomy 1035 1043	右足第一跖骨头处
+T307	Symptom 1043 1051	足底溃疡合并感染
+T308	Operation 1053 1063	经跖跗关节断开截肢术
+T309	Symptom 1090 1093	无疼痛
+T310	Disease 1149 1153	高血压病
+T311	Drug 1162 1166	心痛定片
+T312	Symptom 1274 1287	扪及足背、胫后、腘动脉搏动
+T313	Test 1327 1331	足背温度
+T314	Test 1396 1400;1401 1406	24 h 尿蛋白定量
+T315	Test_Value 1393 1394	+
+T316	Test_Value 1477 1481;1482 1495	左足 X 线平片骨质结构未见明显异常
+T317	Test_Value 1529 1544	跟骨、距骨、跗骨及跖骨骨髓水肿
+T318	Test_Value 1546 1551;1552 1565	第 2 跖 趾关节构成骨骨髓腔信号减低
+T319	Test_Value 1573 1579;1580 1582	足底部软组织 肿胀
+T320	Test 1590 1592	眼底
+T321	Test_Value 1593 1608	双眼底可见散在出血斑及硬性渗出
+T322	Test_Value 1616 1632	双侧颈总、颈内、颈外动脉斑块形成
+T323	Test_Value 1633 1640;1641 1652	双侧股浅动脉及 胫前、胫后动脉斑块形成
+T324	Disease 1657 1666	左足糖尿病夏克氏足
+T325	Disease 1675 1681	周围神经病变
+T326	Disease 1682 1684	肾病
+T327	Disease 1689 1694	视网膜病变
+T328	Disease 1699 1702;1703 1707	周围大 血管病变
+T329	Disease 1667 1671;1672 1674	2 型糖 尿病
+T330	Level 1695 1698	3 期
+T331	Level 1685 1688	4 期
+T332	Symptom 1757 1762;1763 1764	左足红肿症 状
+T333	Drug 1966 1967;1968 1970	拜 糖苹
+T334	Symptom 2205 2210	右足底溃疡
+T335	Test 2263 2267;2268 2269	足部 X 线
+T336	Disease 2274 2277	足畸形
+T337	Disease 2278 2281	足溃疡
+T338	Test 2295 2298;2299 2300	体重指 数
+T339	Disease 2457 2459	溃疡
+T340	Test 2460 2463;2464 2466	骨探针 试验
+T341	Anatomy 2505 2508	肱动脉
+T342	Anatomy 2498 2500;2501 2503	足背 动脉
+T343	Test_Value 2618 2621;2622 2632	双足跖 趾关节、趾间关节变形
+T344	Test_Value 2633 2652;2653 2658	第 1、2 跖骨间软组织内可见条片状高 密度钙化影
+T345	Disease 2808 2817	双足糖尿病夏克氏足
+T346	Disease 2818 2824	2 型糖尿病
+T347	Disease 2825 2831	周围神经病变
+T348	Disease 2832 2836;2837 2842	糖尿病肾 病 3 期
+T349	Disease 2843 2852	视网膜病变 4 期
+T350	Disease 2853 2860	周围大血管病变
+T351	Disease 2861 2865	高血压病
+T352	Symptom 2942 2949	双足畸形未加重
+T353	Symptom 2973 2980	双足畸形未加重
+T354	Symptom 2981 2986;2987 2990	右足溃疡逐 渐愈合
+T355	Symptom 2991 2997	无新溃疡发生
+T356	Symptom 3034 3037;3038 3039	右足肿 胀
+T357	Symptom 3040 3042	疼痛
+T358	Drug 3094 3098	降糖灵片
+T359	Drug 3147 3150	甘舒霖
+T360	Symptom 3207 3211	右足肿胀
+T361	Symptom 3212 3213;3214 3215	微 痛
+T362	Test 3258 3266	右足 X 线平片
+T363	Disease 3303 3306	高血压
+T364	Symptom 3407 3411	左足肿胀
+T365	Symptom 3412 3414	发红
+T366	Symptom 3415 3417	畸形
+T367	Test 3432 3436	足背温度
+T368	Anatomy 3466 3469	肱动脉
+T369	Anatomy 3459 3463	足背动脉
+T370	Disease 3535 3536;3537 3543	右 跟骨多发骨折
+T371	Disease 3558 3567	右足多发粉碎性骨折
+T372	Disease 3568 3570;3571 3573	骨髓 水肿
+T373	Test 3607 3612	HBA1C
+T374	Test_Value 3612 3617	9. 8%
+T375	Test_Value 3641 3649;3650 3657	双眼底可见散在出 血斑及硬性渗出
+T376	Test_Value 3664 3672	左室舒张功能减退
+T377	Test_Value 3673 3678;3679 3685	双侧颈总动 脉内斑块形成
+T378	Test_Value 3686 3701	双侧股浅动脉及胫前动脉斑块形成
+T379	Disease 3706 3707;3708 3714	糖 尿病夏克氏足
+T380	Disease 3715 3721	2 型糖尿病
+T381	Disease 3738 3743	糖尿病肾病
+T382	Disease 3722 3728	周围神经病变
+T383	Disease 3729 3736	双侧视网膜病变
+T384	Disease 3748 3755	周围大血管病变
+T385	Symptom 3825 3828;3829 3833	右足畸 形未加重
+T386	Disease 3889 3893	神经病变
+T387	Symptom 3906 3913	早期无痛或微痛
+T388	Symptom 3915 3919	局部肿胀
+T389	Symptom 3920 3922	热感
+T390	Disease 3951 3955	溃疡形成
+T391	Reason 3961 3964	脊髓痨
+T392	Reason 3965 3970	脊髓空洞症
+T393	Reason 3971 3974	麻风病
+T394	Reason 3975 3979	长期酗酒
+T395	Reason 3980 3984	脊髓损伤
+T396	Reason 3985 3987	压缩
+T397	Reason 4064 4067	糖尿病
+T398	Reason 4121 4125	梅毒感染
+T399	Reason 4126 4129	脊髓痨
+T400	Reason 4230 4235	神经血管性
+T401	Reason 4236 4241	神经创伤性
+T402	Disease 4245 4251	急性夏克氏足
+T403	Disease 4262 4266	神经病变
+T404	Level 4260 4262	严重
+T405	Disease 4338 4342	神经病变
+T406	Disease 4345 4352	感觉减退或丧失
+T407	Disease 4361 4363	创伤
+T408	Disease 4367 4370	骨破坏
+T409	Disease 4569 4576	糖尿病夏克氏足
+T410	Disease 4751 4760	糖尿病足病神经病变
+T411	Symptom 4851 4855	关节肿胀
+T412	Symptom 4856 4858	红斑
+T413	Symptom 4859 4863	皮温升高
+T414	Symptom 4865 4869	感觉减退
+T415	Symptom 4870 4875	深反射消失
+T416	Symptom 4951 4953;4954 4959	软组 织严重肿胀
+T417	Symptom 4960 4981;4982 4983	骨与软骨的骨折、断裂以及不同程度的关节半脱 位
+T418	Symptom 5658 5662	足部肿胀
+T419	Symptom 5663 5665	发红
+T420	Symptom 5666 5668	发热
+T421	Symptom 5669 5671	畸形
+T422	Symptom 5672 5676;5677 5679	无或轻微 疼痛
+T423	Symptom 5687 5695	患侧足部明显畸形
+T424	Test_Value 5742 5752	患足部分关节结构紊乱
+T425	Test_Value 5753 5758	软组织肿胀
+T426	Test_Value 5767 5773;5774 5778	部分关节脱位 和半脱位
+T427	Test_Value 5791 5795	可见骨折
+T428	Drug 5809 5815	营养神经药物
+T429	Disease 5864 5865;5866 5874	1 型糖尿病夏克氏足
+T430	Disease 5991 5998	糖尿病夏克氏足
+T431	Symptom 6050 6056	无或轻微疼痛
+T432	Anatomy 4383 4384	足
+T433	Anatomy 4389 4390	足
+T434	Anatomy 4391 4393	踝部
+T435	Anatomy 4394 4395	骨
+T436	Anatomy 4396 4398	关节

@@ -1,0 +1,516 @@
+T1	Disease 89 96	亚急性甲状腺炎
+T2	Anatomy 99 104	甲状腺滤泡
+T3	Disease 112 120	一过性甲状腺毒症
+T4	Disease 126 134	Graves 病
+T5	Disease 152 154	甲亢
+T6	Disease 204 212	Graves 病
+T7	Disease 214 221	亚急性甲状腺炎
+T8	Symptom 1309 1311	心悸
+T9	Symptom 1312 1314	多汗
+T10	Duration 1315 1318	2 周
+T11	Symptom 1368 1370	乏力
+T12	Symptom 1371 1373	心悸
+T13	Symptom 1374 1376	怕热
+T14	Symptom 1377 1379	多汗
+T15	Symptom 1384 1386	咽痛
+T16	Symptom 1392 1394	腹泻
+T17	Test 1420 1423	FT3
+T18	Test_Value 1424 1431;1432 1440	>46. 08 pmol / L
+T19	Test 1466 1469	FT4
+T20	Test_Value 1470 1486	>77. 22 pmol / L
+T21	Test 1505 1508	TSH
+T22	Test_Value 1508 1522	<0. 27 mIU / L
+T23	Test 1542 1544;1545 1551	甲状 腺球蛋白抗体
+T24	Test_Value 1558 1571	3. 07 kIU / L
+T25	Test 1589 1593;1594 1600	甲状腺过 氧化物酶抗体
+T26	Test_Value 1608 1621	0. 52 kIU / L
+T27	Test 1638 1641	血常规
+T28	Test 1642 1643;1644 1646	肝 功能
+T29	Disease 1653 1661	甲状腺功能亢进症
+T30	Drug 1664 1668	甲巯咪唑
+T31	Drug 1685 1689	倍他乐克
+T32	Drug 1669 1671	赛治
+T33	Amount 1672 1674;1675 1677	10 mg
+T34	Frequency 1678 1681	tid
+T35	Method 1682 1684	po
+T36	Amount 1690 1695	25 mg
+T37	Frequency 1696 1699	bid
+T38	Method 1700 1702	po
+T39	Drug 1703 1706	强的松
+T40	Amount 1707 1711	5 mg
+T41	Frequency 1712 1715	bid
+T42	Method 1716 1718	po
+T43	Duration 1722 1725	4 d
+T44	Test 1745 1753;1754 1755	促甲状腺素受体抗 体
+T45	Test 1756 1760	TRAb
+T46	Test_Value 1762 1773	8. 43 U / L
+T47	Test 1789 1791	血沉
+T48	Test_Value 1792 1802	100 mm / h
+T49	Symptom 1832 1834	发热
+T50	Test 1835 1837	体温
+T51	Symptom 1850 1852	干咳
+T52	Symptom 1857 1859	寒战
+T53	Symptom 1864 1866	神清
+T54	Symptom 1867 1869	气平
+T55	Test 1870 1872	心率
+T56	Test_Value 1873 1876;1877 1884	120 次 / min
+T57	Test 1885 1887	呼吸
+T58	Test_Value 1888 1898	20 次 / min
+T59	Test 1899 1901	血压
+T60	Test_Value 1902 1915	120 / 80 mmHg
+T61	Symptom 1950 1956	眼球活动自如
+T62	Symptom 1964 1975	Joffory 征阴性
+T63	Symptom 1976 1986	Graefe 征阴性
+T64	Symptom 1987 1993	辐凑反射正常
+T65	Symptom 2001 2002;2003 2008	气 管位置居中
+T66	Symptom 2009 2016	甲状腺2°肿大
+T67	Symptom 2017 2023	两侧肿大对称
+T68	Symptom 2024 2028	质地中等
+T69	Symptom 2029 2032;2033 2034	活动度 好
+T70	Symptom 2035 2040	压痛(+)
+T71	Symptom 2069 2075	第一心音亢进
+T72	Symptom 2076 2079	节律齐
+T73	Symptom 2080 2092	各瓣膜区未闻及病理性杂音
+T74	Drug 2100 2103	强的松
+T75	Amount 2108 2113	10 mg
+T76	Frequency 2114 2117	tid
+T77	Method 2118 2120	po
+T78	Drug 2121 2125	倍他乐克
+T79	Amount 2126 2131	25 mg
+T80	Frequency 2132 2135	bid
+T81	Method 2136 2138	po
+T82	Test 2148 2151	白细胞
+T83	Test_Value 2170 2179	105 g / L
+T84	Test_Value 2152 2164	8. 3×109 / L
+T85	Test 2165 2169	血红蛋白
+T86	Test 2180 2183;2184 2188	中性细 胞百分比
+T87	Test_Value 2189 2195	75. 1%
+T88	Test 2202 2205	白蛋白
+T89	Test_Value 2206 2214	39 g / L
+T90	Test 2215 2221	丙氨酸转氨酶
+T91	Test 2223 2226	ALT
+T92	Test_Value 2227 2235	57 U / L
+T93	Test 2236 2245	门冬氨酸氨基转移酶
+T94	Test 2246 2249	AST
+T95	Test_Value 2250 2258	60 U / L
+T96	Test 2259 2265	γ-谷氨酰胺
+T97	Test 2267 2271	γ-GT
+T98	Test_Value 2272 2280	60 U / L
+T99	Test 2281 2285	总胆红素
+T100	Test_Value 2286 2300	12. 8 μmol / L
+T101	Test 2302 2305	肾功能
+T102	Test 2306 2309	电解质
+T103	Test 2320 2322	血沉
+T104	Test_Value 2323 2332	91 mm / h
+T105	Test 2336 2342	C 反应蛋白
+T106	Test_Value 2347 2360	95. 30 mg / L
+T107	Test 2370 2381	甲状腺摄131 I 率
+T108	Test_Value 2388 2394	60. 1%
+T109	Test_Value 2414 2420	85. 4%
+T110	Test 2442 2447	甲状腺彩超
+T111	Symptom 2600 2602	干咳
+T112	Symptom 2607 2609	乏力
+T113	Symptom 2610 2612	胸痛
+T114	Symptom 2613 2615	气促
+T115	Symptom 2622 2630	双下肺呼吸音消失
+T116	Symptom 2631 2643;2644 2645	双侧中肺部可闻及少许湿罗 音
+T117	Test 2656 2661	胸部 CT
+T118	Test 2672 2675	B 超
+T119	Test 2759 2760	糖
+T120	Test_Value 2761 2775	7. 32 mmol / L
+T121	Test 2776 2777	氯
+T122	Test_Value 2778 2794	115. 00 mmol / L
+T123	Test 2795 2797	蛋白
+T124	Test_Value 2798 2810	17. 00 g / L
+T125	Test 2811 2815;2816 2817	乳酸脱氢 酶
+T126	Test_Value 2818 2830	49. 00 U / L
+T127	Test 2831 2836	腺苷脱氨酶
+T128	Test_Value 2837 2848	1. 00 U / L
+T129	Test 2869 2873	腹部超声
+T130	Level 2908 2910	中度
+T131	Level 2937 2939	中度
+T132	Test 2977 2980	白细胞
+T133	Test_Value 2981 2993	5. 2×109 / L
+T134	Test 2994 2995;2996 2999	血 红蛋白
+T135	Test_Value 3000 3008	83 g / L
+T136	Test 3009 3016	中性细胞百分比
+T137	Test_Value 3017 3023	73. 4%
+T138	Test 3025 3028	血小板
+T139	Test_Value 3029 3040	209×109 / L
+T140	Test 3047 3050	白蛋白
+T141	Test_Value 3051 3059	24 g / L
+T142	Test 3061 3064	ALT
+T143	Test_Value 3065 3073	40 U / L
+T144	Test 3074 3077	AST
+T145	Test_Value 3078 3086	20 U / L
+T146	Test 3087 3091	γ-GT
+T147	Test_Value 3092 3100	51 U / L
+T148	Test 3101 3102;3103 3106	总 胆红素
+T149	Test_Value 3107 3117	6 μmol / L
+T150	Test 3143 3145	pH
+T151	Test_Value 3146 3151	7. 45
+T152	Test 3152 3158	二氧化碳分压
+T153	Test_Value 3159 3169	32. 5 mmHg
+T154	Test 3170 3173	氧分压
+T155	Test_Value 3174 3180;3181 3185	152. 3 mmHg
+T156	Test 3191 3196	全血碱剩余
+T157	Test_Value 3197 3210	0. 1 mmol / L
+T158	Test 3212 3220	B 型钠尿肽前体
+T159	Test 3222 3229	pro-BNP
+T160	Test_Value 3231 3245	850. 00 ng / L
+T161	Test 3263 3268	心梗标志物
+T162	Test 3283 3287	糖类抗原
+T163	Test 3288 3293	CA125
+T164	Test_Value 3294 3308	126. 40 U / ml
+T165	Test 3319 3323	甲胎蛋白
+T166	Test 3324 3327	AFP
+T167	Test 3329 3333	癌胚抗原
+T168	Test 3334 3337	CEA
+T169	Test 3347 3349;3350 3352	抗核 抗体
+T170	Test 3353 3356	ANA
+T171	Test 3358 3365	抗可提取核抗原
+T172	Test 3366 3369	ENA
+T173	Test_Value 3374 3376	阴性
+T174	Test_Value 3341 3345	正常范围
+T175	Symptom 3393 3395	气促
+T176	Symptom 3400 3402	胸痛
+T177	Symptom 3404 3408	急性病容
+T178	Symptom 3409 3412;3413 3416	颈静脉 无充盈
+T179	Symptom 3417 3427	肝颈静脉回流征(-)
+T180	Symptom 3428 3436	双下肺叩诊呈浊音
+T181	Symptom 3437 3442;3443 3446	双中上肺呼 吸音粗
+T182	Symptom 3447 3458	双中下肺可闻及细湿罗音
+T183	Symptom 3459 3467	双下肺呼吸音消失
+T184	Test 3468 3470	HR
+T185	Test_Value 3471 3474;3475 3479	124 次 /分
+T186	Disease 3487 3494	急性心功能不全
+T187	Treatment 3496 3498	吸氧
+T188	Treatment 3499 3502	半卧位
+T189	Anatomy 3515 3520	心肌细胞膜
+T190	Symptom 3552 3554	胸闷
+T191	Symptom 3555 3557	心悸
+T192	Symptom 3558 3560	气促
+T193	Test 3578 3581	FT3
+T194	Test_Value 3582 3597	19. 56 pmol / L
+T195	Test 3598 3601	FT4
+T196	Test 3618 3621	TSH
+T197	Test_Value 3621 3622;3623 3637	< 0. 005 mIU / L
+T198	Test 3639 3646	pro-BNP
+T199	Test_Value 3647 3660	137. 10ng / L
+T200	Test 3668 3670	血沉
+T201	Test_Value 3671 3680	56 mm / h
+T202	Test 3682 3687	CA125
+T203	Disease 4139 4147	Graves 病
+T204	Disease 4149 4156	亚急性甲状腺炎
+T205	Disease 4157 4160	亚甲炎
+T206	Disease 4218 4221	亚甲炎
+T207	Disease 4225 4233	Graves 病
+T208	Anatomy 4299 4302	甲状腺
+T209	Anatomy 4329 4336	辅助 T 细胞
+T210	Disease 4351 4354	亚甲炎
+T211	Disease 4358 4366	Graves 病
+T212	Disease 4376 4377;4378 4380	亚 甲炎
+T213	Disease 4382 4390	Graves 病
+T214	Disease 4395 4403	Graves 病
+T215	Disease 4405 4408	亚甲炎
+T216	Disease 4426 4429	亚甲炎
+T217	Disease 4618 4621	亚甲炎
+T218	Disease 4623 4631	Graves 病
+T219	Symptom 4636 4641	甲状腺毒症
+T220	Test 4717 4721	TRAb
+T221	Test 4725 4730	甲状腺超声
+T222	Test 4734 4740;4741 4742	甲状腺细针活 检
+T223	Test 4743 4746	FNA
+T224	Test 4773 4777	TRAb
+T225	Test_Value 4780 4782	阴性
+T226	Test 4798 4802	TRAb
+T227	Test_Value 4804 4808	明显升高
+T228	Test 4822 4826	TRAb
+T229	Test_Value 4827 4829	阳性
+T230	Disease 4834 4842	Graves 病
+T231	Disease 4850 4855	单纯亚甲炎
+T232	Test 4876 4883	TRAb 抗体
+T233	Disease 4911 4919	Graves 病
+T234	Test 4922 4926	TRAb
+T235	Test_Value 4929 4931	阴性
+T236	Test 4948 4952	TRAb
+T237	Test_Value 4955 4975	1. 11 ~ 13. 65 U / L
+T238	Test 4997 5001	TRAb
+T239	Test 5019 5024	甲状腺超声
+T240	Disease 5041 5044	亚甲炎
+T241	Disease 5125 5133	Graves 病
+T242	Anatomy 5136 5139	甲状腺
+T243	Disease 5204 5212	Graves 病
+T244	Disease 5214 5217	亚甲炎
+T245	Anatomy 5267 5272	多核巨细胞
+T246	Symptom 5223 5228	甲状腺增大
+T247	Symptom 5229 5233;5234 5235	弥漫性病 变
+T248	Symptom 5236 5245	单发、多发低回声区
+T249	Disease 5286 5289	亚甲炎
+T250	Disease 5299 5307	Graves 病
+T251	Anatomy 5308 5316	甲状腺内滤泡细胞
+T252	Anatomy 5331 5335	滤泡细胞
+T253	Symptom 5379 5383	滤泡破坏
+T254	Symptom 5384 5390	炎症细胞浸润
+T255	Symptom 5391 5396	多核巨细胞
+T256	Disease 5397 5400	亚甲炎
+T257	Test 5439 5450	甲状腺摄131 I 率
+T258	Disease 5455 5458	亚甲炎
+T259	Disease 5460 5468	Graves 病
+T260	Disease 5414 5422	Graves 病
+T261	Disease 5475 5478	亚甲炎
+T262	Anatomy 5482 5489	甲状腺滤泡细胞
+T263	Disease 5561 5564	亚甲炎
+T264	Anatomy 5539 5543	滤泡细胞
+T265	Test 5514 5516	T3
+T266	Test 5517 5519	T4
+T267	Test 5574 5577	TT3
+T268	Test 5578 5581	TT4
+T269	Test 5582 5585	FT3
+T270	Test 5586 5589	FT4
+T271	Test 5593 5604	甲状腺摄131 I 率
+T272	Test_Value 5605 5606;5607 5610	明 显降低
+T273	Test 5664 5675	甲状腺摄131 I 率
+T274	Test_Value 5677 5681	正常范围
+T275	Test_Value 5682 5683;5684 5689	高 于正常水平
+T276	Disease 5645 5646;5647 5649	亚 甲炎
+T277	Disease 5652 5660	Graves 病
+T278	Disease 5731 5734	亚甲炎
+T279	Test 5739 5750	甲状腺摄131 I 率
+T280	Disease 5763 5771	Graves 病
+T281	Disease 5776 5784	Graves 病
+T282	Disease 5786 5789	亚甲炎
+T283	Duration 5821 5829	3 ~ 6 个月
+T284	Disease 5897 5905	Graves 病
+T285	Disease 5906 5907;5908 5910	亚 甲炎
+T286	Disease 5994 5995;5996 5997	甲 减
+T287	Symptom 6097 6099	乏力
+T288	Symptom 6100 6102	心悸
+T289	Symptom 6103 6105	怕热
+T290	Symptom 6106 6108	多汗
+T291	Disease 6109 6111	甲亢
+T292	Test 6116 6120	TRAb
+T293	Test 6121 6132	甲状腺摄131 I 率
+T294	Test_Value 6133 6137	明显升高
+T295	Test 6138 6146	甲状腺同位素显像
+T296	Disease 6168 6176	Graves 病
+T297	Symptom 6187 6191	颈部压痛
+T298	Test 6193 6195	血沉
+T299	Test_Value 6195 6199	明显升高
+T300	Test 6200 6205	甲状腺超声
+T301	Test 6242 6246	TGAb
+T302	Test 6247 6252	TPOAb
+T303	Test_Value 6253 6255	阴性
+T304	Disease 6260 6263	亚甲炎
+T305	Test 6273 6275;6276 6284	甲状 腺131 I 率
+T306	Disease 6290 6293	亚甲炎
+T307	Disease 6300 6303	亚甲炎
+T308	Disease 6306 6312;6313 6314	Graves 病
+T309	Test 6317 6325	摄131 I 率
+T310	Disease 6345 6353	Graves 病
+T311	Disease 6355 6358	亚甲炎
+T312	Symptom 6403 6405	气促
+T313	Symptom 6407 6411	端坐呼吸
+T314	Disease 6423 6429	甲亢性心脏病
+T315	Disease 6436 6441	甲状腺毒症
+T316	Drug 6454 6456	赛治
+T317	Drug 5860 5865	糖皮质激素
+T318	Drug 5867 5873;5874 5875	β-受体阻滞 剂
+T319	Drug 5854 5859	解热镇痛药
+T320	Disease 6468 6472	甲状腺炎
+T321	Disease 6477 6479	甲减
+T322	Drug 6526 6528	赛治
+T323	Amount 6529 6534	15 mg
+T324	Frequency 6535 6537	qd
+T325	Method 6538 6540	po
+T326	Drug 6542 6546	倍他乐克
+T327	Drug 6547 6550	呋塞米
+T328	Drug 6551 6552;6553 6554	速 尿
+T329	Drug 6556 6559	螺内酯
+T330	Drug 6560 6564	安体舒通
+T331	Test 6602 6605	FT3
+T332	Test_Value 6606 6620	4. 36 pmol / L
+T333	Test 6621 6624	FT4
+T334	Test_Value 6625 6639	8. 16 pmol / L
+T335	Test 6641 6644	TSH
+T336	Test_Value 6645 6658	0. 03 mIU / L
+T337	Drug 6660 6662	赛治
+T338	Amount 6665 6669	5 mg
+T339	Frequency 6670 6672	qd
+T340	Method 6673 6675	po
+T341	Test 6701 6704	FT3
+T342	Test_Value 6705 6719	3. 77 pmol / L
+T343	Test 6720 6723	FT4
+T344	Test_Value 6724 6738	8. 39 pmol / L
+T345	Test 6739 6742	TSH
+T346	Test_Value 6743 6748;6749 6756	5. 77 mIU / L
+T347	Test 6784 6787	FT3
+T348	Test_Value 6788 6793;6794 6802	4. 18 pmol / L
+T349	Test 6803 6806	FT4
+T350	Test_Value 6807 6822	14. 13 pmol / L
+T351	Test 6823 6826	TSH
+T352	Test_Value 6827 6840	0. 53 mIU / L
+T353	Test 6841 6845	TRAb
+T354	Test_Value 6846 6848	阴性
+T355	Test 2198 2201	肝功能
+T356	Test 3042 3043;3044 3046	肝 功能
+T357	Test 3119 3122	肾功能
+T358	Test 1414 1419	甲状腺功能
+T359	Test 3572 3577	甲状腺功能
+T360	Test 3702 3707	甲状腺功能
+T361	Test 5836 5837;5838 5842	甲 状腺功能
+T362	Test 5973 5978	甲状腺功能
+T363	Test 6028 6033	甲状腺功能
+T364	Test 6267 6272	甲状腺功能
+T365	Test 6504 6509	甲状腺功能
+T366	Test 6596 6601	甲状腺功能
+T367	Test 6695 6700	甲状腺功能
+T368	Test 6778 6783	甲状腺功能
+T369	Test 3746 3749	TSH
+T370	Test 3716 3719	FT4
+T371	Test 3731 3734	FT3
+T372	Test 1601 1606	TPOAb
+T373	Disease 41 49	Graves 病
+T374	Disease 4463 4468	甲状腺疾病
+T375	Disease 5025 5030	甲状腺疾病
+T376	Disease 51 58	亚急性甲状腺炎
+T377	Duration 1347 1350	2 周
+T378	Test 2507 2515	甲状腺同位素显像
+T379	Anatomy 5368 5371	甲状腺
+T380	Test 5547 5554	甲状腺摄碘功能
+T381	Test_Value 5618 5621	<5%
+T382	Level 1729 1734	无明显改善
+T383	Test_Value 2311 2312;2313 2316	正 常范围
+T384	Anatomy 170 173	甲状腺
+T385	Drug 5883 5889	抗甲状腺药物
+T386	Drug 5955 5961	抗甲状腺药物
+T387	Drug 6014 6020	抗甲状腺药物
+T388	Drug 6050 6056	抗甲状腺药物
+T389	Drug 6372 6377	抗甲状腺药
+T390	Disease 8 11	糖尿病
+T391	Disease 21 24	糖尿病
+T392	Disease 33 36	糖尿病
+T393	Test_Value 1488 1503	12. 00 ~ 22. 00
+T394	Test_Value 1527 1540	0. 27 ~ 4. 20
+T395	Test_Value 1572 1587	0. 00 ~ 115. 00
+T396	Test_Value 1622 1636	0. 00 ~ 35. 00
+T397	Test_Value 1646 1648	正常
+T398	Test_Value 1774 1787	0. 00 ~ 2. 00
+T399	Test_Value 1803 1809	0 ~ 38
+T400	Level 1848 1850	少量
+T401	Test_Value 2362 2367	0 ~ 3
+T402	Test_Value 2396 2404	5% ~ 25%
+T403	Test_Value 2422 2430	20% ~45%
+T404	Test 2479 2485;2486 2487	多普勒彩色血 流
+T405	Level 2598 2600	明显
+T406	Test 2849 2853	胸水涂片
+T407	Test 2878 2880	心超
+T408	Level 2922 2923;2924 2925	轻 度
+T409	Test 2973 2976	血常规
+T410	Test 3123 3126	电解质
+T411	Test 3137 3138;3139 3142	血 气分析
+T412	Test_Value 3246 3261	5. 00 ~ 125. 00
+T413	Test_Value 3309 3315	0 ~ 35
+T414	Treatment 3503 3505	扩冠
+T415	Treatment 3510 3513	极化液
+T416	Treatment 3507 3509	利尿
+T417	Symptom 5161 5165	腺体肿大
+T418	Test 5170 5174	CDFI
+T419	Anatomy 5352 5355	滤泡腔
+T420	Test_Value 5589 5591	升高
+T421	Test_Value 6327 6329	正常
+T422	Test_Value 6330 6332	升高
+T423	Amount 6486 6490	较小剂量
+T424	Test_Value 5751 5754;5755 5756	明显降 低
+T425	Test_Value 2454 2455;2456 2461	内 部回声减低
+T426	Test_Value 2689 2712	范围分别是 62 mm×79 mm×90 mm
+T427	Test_Value 2715 2723;2724 2732	62 mm×73 mm×98 mm
+T428	Test 2752 2756	胸水结果
+T429	Test_Value 2873 2877	未见腹水
+T430	Test_Value 3268 3272;3273 3275	未见明显 异常
+T431	Test_Value 3126 3132	未见明显异常
+T432	Test 3276 3281	肿瘤标记物
+T433	Test_Value 4872 4874	升高
+T434	Test_Value 5054 5064	腺体内的片状低回声区
+T435	Test_Value 5065 5072;5073 5075	受累腺体血流不 增加
+T436	Test 5083 5085	超声
+T437	Test_Value 5088 5100	伴轻微血运增加的等回声区
+T438	Test_Value 5110 5116	血运恢复正常
+T439	Test_Value 5184 5192	血流呈弥漫性分布
+T440	Test_Value 5193 5199	呈“火海征冶
+T441	Test_Value 5554 5556	下降
+T442	Test_Value 5519 5521	升高
+T443	Symptom 5564 5565;5566 5567	甲 亢
+T444	Test_Value 5705 5707	升高
+T445	Treatment 5965 5969	对症治疗
+T446	Test_Value 5979 5983	恢复正常
+T447	Test_Value 6037 6039	正常
+T448	Disease 180 183;184 187	甲亢性 心脏病
+T449	Symptom 1359 1366	颈前区肿胀不适
+T450	Symptom 1380 1383	无发热
+T451	Test 1552 1556	TGAb
+T452	Test_Value 1840 1846	38. 5℃
+T453	Symptom 1853 1856	无畏寒
+T454	Symptom 1937 1944	全身皮肤无潮湿
+T455	Symptom 1945 1949	无突眼征
+T456	Symptom 1957 1962	无瞬目减少
+T457	Symptom 1994 2000	伸舌震颤阳性
+T458	Symptom 2041 2046	未触及结节
+T459	Symptom 2047 2050	无震颤
+T460	Symptom 2051 2056	无血管杂音
+T461	Symptom 2057 2063;2064 2067	双手水平细颤 (+)
+T462	Drug 2105 2107	赛治
+T463	Test 2343 2346	CRP
+T464	Test_Value 2566 2575;2576 2583	甲状腺弥漫性肿大伴 局部锝功能增高
+T465	Symptom 2603 2606	无心悸
+T466	Test_Value 2664 2670	双侧胸腔积液
+T467	Test 2743 2751	诊断性胸腔穿刺术
+T468	Test_Value 2885 2890	二尖瓣反流
+T469	Test_Value 2902 2907	三尖瓣返流
+T470	Level 2892 2894	轻微
+T471	Level 2895 2897	轻度
+T472	Symptom 2930 2936	肺动脉压增高
+T473	Test_Value 2958 2969	未见节段性室壁运动异常
+T474	Symptom 3388 3392	突发心慌
+T475	Symptom 3396 3399	无胸闷
+T476	Symptom 3546 3551	无明显咳嗽
+T477	Symptom 3564 3568	胸水消失
+T478	Test_Value 3602 3617	53. 88 pmol / L
+T479	Symptom 1387 1389;1390 1391	无腹 痛
+T480	Test 4589 4594	甲状腺功能
+T481	Test_Value 4594 4596	正常
+T482	Disease 4601 4603	甲减
+T483	Test 4751 4762	甲状腺摄131 I 率
+T484	Disease 4767 4770	亚甲炎
+T485	Disease 4787 4795	Graves 病
+T486	Disease 4814 4817	亚甲炎
+T487	Anatomy 5178 5183	甲状腺腺体
+T488	Test 5259 5262	FNA
+T489	Test 5499 5501	T3
+T490	Test 5502 5504	T4
+T491	Test 5527 5530	TSH
+T492	Test 5708 5716	甲状腺刺激性抗体
+T493	Disease 5795 5800	单纯亚甲炎
+T494	Test_Value 6147 6149;6150 6156	甲状 腺弥漫性肿大
+T495	Test_Value 6157 6164	局部锝功能增高
+T496	Test_Value 6208 6212;6213 6217	甲状腺弥 漫性病变
+T497	Test_Value 6218 6224	内部回声减低
+T498	Test_Value 6225 6231	呈“水洗征冶
+T499	Test_Value 6234 6240	片状低回声区
+T500	Symptom 6400 6402	心慌
+T501	Amount 6491 6492;6493 6495	5 mg
+T502	Symptom 1301 1308	颈前区肿胀不适
+T503	Test_Value 2448 2453	甲状腺肿大
+T504	Test_Value 2462 2468	呈“水洗征冶
+T505	Test_Value 2469 2477	可见片状低回声区
+T506	Test_Value 2491 2498	内部血流稍丰富
+T507	Test_Value 2516 2518;2519 2524	甲状 腺面积增大
+T508	Test_Value 2525 2538	两叶甲状腺放射性分布欠均匀
+T509	Test_Value 2539 2546;2547 2549	局部放射性摄取 增高
+T510	Test_Value 2551 2564	甲状腺峡部及椎体叶隐约显影
+T511	Test_Value 2677 2681;2682 2688	左、右侧 胸腔无回声区
+T512	Test_Value 2853 2859	未见肿瘤细胞
+T513	Test_Value 2915 2921	主动脉瓣返流
+T514	Test_Value 2944 2953	各房室大小正常范围
+T515	Anatomy 5277 5284	结核样肉芽组织
+T516	Disease 4581 4583	甲亢

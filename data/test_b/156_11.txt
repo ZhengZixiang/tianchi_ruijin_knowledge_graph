@@ -1,0 +1,267 @@
+基础研究
+基金项目:国家自然科学基金项目(81170744,81370902);中华医学会临床医学科研专项(13020180403)
+重点实验室
+二肽基肽酶 4 抑制剂通过胰岛 γ 氨基丁酸
+影响 Bcl-2 及 Bax 蛋白的表达
+董莹  李强  陈静芳  王萍  张巾超
+[摘要]   目的  研究二肽基肽酶 4(dipeptidyl peptidase-4, DPP-4)抑制剂对胰岛 β 细胞 Bcl-2 及 Bax
+蛋白表达的调节作用是否通过增加胰腺组织中 γ 氨基丁酸(γ amino acid butyric acid, GABA)含量这个途径
+实现。 方法 清洁级 SD 大鼠 50 只,随机选取 10 只为正常对照组。 余 40 只采用高脂喂养联合链脲佐菌素
+(STZ)的方法诱导成糖尿病模型。 随机分为 3 组:糖尿病对照组、DPP-4 抑制剂组、拮抗剂组(DPP-4 抑制
+剂+GABA 受体拮抗剂)。 药物干预 6 周后检测血糖、血清胰岛素、胰升糖素的水平及胰岛 β 细胞中 GABA、
+Bcl-2 及 Bax 蛋白的表达情况。 结果 (1) DPP-4 抑制剂组与糖尿病对照组相比,血清胰岛素水平升高(P<
+0. 05),血糖水平降低(P<0. 05),血清胰升糖素水平降低(P<0. 05)。 (2) 拮抗剂组与 DPP-4 抑制剂组相
+比,大鼠血清胰岛素水平降低(P<0. 05),血糖水平升高(P<0. 05),血清胰升糖素水平升高(P<0. 05)。(3)
+DPP-4 抑制剂组与糖尿病对照组相比,大鼠胰岛 β 细胞 GABA 表达升高(P<0. 05),Bax 蛋白表达降低(P<
+0. 05),Bcl-2 蛋白的表达升高(P<0. 05)。 (4) 拮抗剂组与糖尿病对照组相比,大鼠胰岛 β 细胞 GABA 表达
+升高(P<0. 05),与 DPP-4 抑制剂组相比,大鼠胰岛 β 细胞 Bax 蛋白表达升高(P<0. 05),Bcl-2 蛋白的表达
+降低(P<0. 05)。 结论 DPP-4 抑制剂能够通过增加胰岛 GABA 表达来促进胰岛素分泌,减少胰升糖素分
+泌,增加胰岛 β 细胞抗凋亡蛋白 Bcl-2 的表达,降低胰岛 β 细胞促凋亡蛋白 Bax 的表达,抑制 2 型糖尿病大
+鼠胰岛 β 细胞的凋亡。
+[关键词]   DPP-4 抑制剂; γ 氨基丁酸; Bcl-2 蛋白; Bax 蛋白; 胰岛 β 细胞凋亡
+Dipeptidyl peptidase-4 inhibitor impacts the expression of Bcl-2 and Bax through γ amino acid bwtyric acid in
+pancreas islets Dong Ying, Li Qiang, Chen Jingfang, Wang Ping, Zhang Jinchao. Department of Endocrinology
+and Metabolism, the Second Affiliated Hospital of Harbin Medical University, Diabetes Hospital, Hormone and
+Endocrinology Key Laboratory of Harbin Medical University, Harbin 150086, China
+[Abstract]   Objective   To explore the effects of dipeptidyl peptidase ( DPP-4 ) inhibitor on proteins
+expression of Bcl-2 and Bax of islet β-cells through increasing the expression of islet γ amino acid butyric acid
+(GABA). Methods A total of 50 rats of clean grade were studied. Among them, ten rats were randomly selected as
+normal controls, the remaining forty rats were fed with high-fat diet and then intraperitoneal injection with
+streptozotocin, the diabetic rats models were then established. Rats were randomly divided into three groups: i.
+e. diabetic control group, DPP-4 inhibitor group, and antagonist group ( DPP-4 inhibitor and GABA receptor
+antagonist) . Six weeks later, blood glucose, serum insulin, glucagon, and the proteins expression of GABA, Bcl-2,
+and Bax of islet β-cells were measured. Results (1) Compared with diabetic control group, serum insulin was
+increased (P<0. 05), blood glucose and serum glucagon were decreased in DPP-4 inhibitor group (P<0. 05) . (2)
+Compared with DPP-4 inhibitor group, serum insulin was decreased (P<0. 05), blood glucose and serum glucagon
+were increased(P<0. 05) in antagonist group. (3) Compared with diabetic control group, the expression of GABA was
+increased (P< 0. 05), the expression of Bcl-2 protein was increased (P < 0. 05) in pancreatic β-cells in DPP-4
+inhibitor group. ( 4) Compared with diabetic control group, the expression of GABA in pancreatic β-cells was
+increased in antagonist group(P<0. 05) . Compared with DPP-4 inhibitor group, the expression of Bax protein in
+pancreatic β-cells was increased in antagonist group(P<0. 05) , while the expression of Bcl-2 protein was decreased
+(P< 0. 05) . Conclusions DPP-4 inhibitor could increase the secretion of insulin, decrease the secretion of
+glucagon, up-regulate expression of anti-apoptosis protein Bcl-2, and down-regulate expression of apoptosis protein
+Bax in pancreatic β-cells through increasing the expression of GABA, inhibiting pancreatic β-cells apoptosis and
+protecting the damaged β-cells in type 2 diabetic rats.
+[Key words]  Dipeptidyl peptidase-4 inhibitor; γ amino acid butyric acid; Bcl-2 protein; Bax protein; Islet
+β-cell apoptosis
+(Chin J Endocrinol Metab, 2016, 32: 227-231)
+2 型糖尿病发病的核心环节是胰岛 β 细胞受损。
+二肽基肽酶 4(dipeptidyl peptidase-4, DPP-4)抑制剂作
+为临床上治疗糖尿病的新药之一,能增加胰升糖素样
+肽 1(glucagon-like peptide-1, GLP-1)活性,改善糖脂代
+谢,促进胰岛 β 细胞增殖和抑制胰岛 β 细胞凋亡[1]。
+DPP-4 抑制剂对于阻止链脲佐菌素(STZ)诱导的糖尿
+病小鼠高血糖症的进程主要包括在减少 β 细胞凋亡
+的同时减少 α 细胞的增殖[2]。 γ 氨基丁酸( γ amino
+acid butyric acid, GABA)是胰岛 β 细胞在葡萄糖刺激
+下所产生的递质,它作用于 β 细胞和 α 细胞,促进胰
+岛素分泌,减少胰升糖素的分泌。 同时可以促进 β 细
+胞增殖,减少 β 细胞凋亡,通过促进 DNA 的合成,减少
+STZ 诱导的克隆 INS-1 细胞和用其他方法诱导的离体
+胰岛 β 细胞的凋亡[3]。 GABA 对胰岛 β 细胞的作用
+是去极化,启动 Ca+ -磷酸肌醇 3 激酶 /蛋白激酶 B
+(PI3k / Akt)的途径来增加胰岛素的分泌,胰岛素通过
+细胞外信号调节激酶(ERK)途径反馈性抑制 β 细胞
+过多得产生 GABA。 GABA 对 α 细胞的作用是超极
+化,使其产生胰升糖素减少[3-4]。 DPP-4 抑制剂促进胰
+岛素分泌、抑制胰升糖素分泌,抑制胰岛 β 细胞凋亡
+和促进其增殖是否与 GABA 有关尚不明确。
+材料和方法
+一、 材料
+1. 实验动物:8 周龄雄性 SD 大鼠 50 只,体重
+200 ~ 240 g,购自北京维通利华实验动物有限公司。
+2. 药物和试剂:西格列汀(MK0626)购自默沙东
+公司,STZ(S0130)购自美国 Sigma 公司,荷包牡丹碱
+(bicuculline LX-550-515-M250)购自美国 Enzo 公司,
+胰岛素、胰升糖素试剂盒购自上海 Bio-Swamp Life
+Science, GABA、 Bcl-2、 Bax 免 疫 组 化 染 色 试 剂 盒
+(BA0601、BA0412、BA0315) 购自武汉贝茵莱生物科技
+有限公司。
+二、 方法
+1. 实验分组及干预:清洁级 8 周龄雄性 SD 大鼠
+50 只,体重约 200 ~ 240 g,适应性喂养 1 周后,随机选
+取 10 只为正常对照组,饲以普通饲料。 余 40 只用于
+制造糖尿病模型。 高脂饲料喂养 4 周。 每 100 g 高脂
+饲料含蛋白质 24. 64 g,脂肪 29. 98 g,碳水化合物
+37. 10 g,总热量为 432. 92 kcal[5]。 4 周后禁食 12 h,
+STZ 35 mg / kg(以 pH 4. 4 的 0. 1 mmol / L 柠檬酸钠缓冲
+液配置而成)腹腔注射,正常对照组注射等容积的缓
+冲液。 72 h 后,用罗氏血糖仪检测血糖值,如血糖值≥
+16. 7 mmol / L 说明造模成功。 40 只大鼠造模后,死亡
+2 只,失败 2 只,余 36 只,随机分为 3 组,分别为糖尿
+病对照组、DPP-4 抑制剂组和拮抗剂组。 DPP-4 抑制
+剂组给予西格列汀 10 mg / kg、2 次 / d[6]灌胃,同时给予
+剂组给予西格列汀 10 mg / kg、2 次 / d 灌胃,同时给予
+注射。 糖尿病对照组给予蒸馏水 10 mg / kg、2 次 / d 灌
+给予蒸馏水 10 mg / kg、2 次 / d 灌胃,生理盐水 1 mg·
+kg-1·d-1腹腔注射。 干预 6 周,每周空腹检测 1 次血
+糖,称量 1 次体重。 6 周后将各组大鼠空腹 8 h 后麻
+醉,选取股动脉穿刺取血,取上清液备用。 迅速取出胰
+腺组织,4%多聚甲醛固定,石蜡包埋。
+2. 各项指标检测:从大鼠尾静脉采血,使用葡萄
+糖氧化酶法检测血糖值。 使用 ELISA 的方法测定血
+清胰岛素、胰升糖素的浓度。 采用免疫组织化学染色
+法检测胰岛 GABA(滴度为 1 : 400)、Bcl-2 (滴度为
+1 : 100)及 Bax 蛋白(滴度为 1 : 50)的表达情况,胰岛
+细胞质内出现棕黄色颗粒为阳性表达,每只老鼠制作
+2 张切片,随机选取 1 张,并在高倍镜(40×)下从选取
+的切片上随机选取 5 个胰岛,用 Image-Pro Plus 6. 0 图
+像分析软件测定平均光密度,以平均光密度表示阳性
+物质的表达情况,再进行数据的分析和处理从而得出
+实验结果。
+三、 统计学处理
+对原始数据进行正态性检验,并对 6 组做方差齐
+性检验,符合正态性和方差齐性的用方差分析,不符合
+的用秩和检验做分析;方差分析或秩和检验有统计学
+差异的前提下进行多组间的两两比较,用 SNK 方法。
+P<0. 05 为组间差异有统计学意义。
+结    果
+一、 各组大鼠血糖、血清胰岛素及胰升糖素的比
+较
+DPP-4 抑制剂组与糖尿病对照组相比,血清胰岛
+素水平升高(P<0. 05),血糖水平降低(P<0. 05),血清
+注:GABA:γ 氨基丁酸 γ amino acid butyric acid;DPP-4:二肽基肽酶 4 Dipeptidyl peptidase-4
+图 1  4 组大鼠胰岛 GABA、Bcl-2、Bax 免疫组化结果(40×)
+Fig 1  Immunohistochemical staining analysis of GABA, Bcl-2, Bax in pancreatic islets of rats among 4 groups (40×)
+表 1  4 组大鼠血糖、胰岛素及胰升糖素的比较(x-± s)
+Tab 1  The blood glucose, insulin, and glucagon levels of rats among
+4 groups(x-± s)
+组别
+Group
+鼠数
+n
+血糖
+Blood glucose
+(mmol / L)
+胰岛素
+Insulin
+(ng / ml)
+胰升糖素
+Glucagon
+(pg / ml)
+正常对照组
+Normal control group 10 6. 13 ±1. 13 2. 46 ±0. 14 90. 60 ±7. 05
+糖尿病对照组
+Diabetic control group 10 29. 52 ±2. 60
+a 2. 30 ±0. 13a 100. 81 ±4. 23a
+DPP-4 抑制剂组
+DPP-4 inhibitor group 10 17. 33 ±3. 08
+b 2. 63 ±0. 09b 81. 07 ±3. 47b
+拮抗剂组
+Antagonist group 10 22. 76 ±3. 49
+c 2. 42 ±0. 11c 91. 11 ±4. 98c
+注:DPP-4:二肽基肽酶 4 Dipeptidyl peptidase-4;与正常对照组比较
+vs Normal control group, aP<0. 05;与糖尿病对照组比较 vs Diabetic control
+group, bP<0. 05;与 DPP-4 抑制剂组比较 vs DPP-4 inhibitor group, cP<
+0. 05
+胰升糖素水平降低(P<0. 05)。 拮抗剂组与 DPP-4 抑
+制剂组相比,大鼠血清胰岛素水显降低(P<0. 05),血
+糖水平升高(P<0. 05),血清胰升糖素水平升高(P<
+0. 05,表 1)。
+二、 各组大鼠胰岛 GABA、Bcl-2、Bax 蛋白表达情
+况的比较
+DPP-4 抑制剂组与糖尿病对照组相比,大鼠胰岛
+β 细胞 GABA 表达升高(P<0. 05),GABA 表达见图 1。
+大鼠胰岛 β 细胞 Bax 蛋白表达降低(P<0. 05),Bcl-2
+蛋白的表达升高(P<0. 05),拮抗剂组与糖尿病对照组
+表 2  4 组大鼠胰腺组织中 GABA、Bcl-2 及 Bax 平均光密度的
+比较(x-± s)
+Tab 2 Expression of GABA, Bcl-2, and Bax IOD in pancreatic of
+rats among 4 groups(x-± s)
+组别
+Group
+鼠数
+n GABA Bcl-2 Bax
+正常对照组
+Normal control group 10 0. 31 ±0. 03 0. 32 ±0. 03 0. 23 ±0. 02
+糖尿病对照组
+Diabetic control group 10 0. 24 ±0. 03
+a 0. 21 ±0. 02a 0. 26 ±0. 01a
+DPP-4 抑制剂组
+DPP-4 inhibitor group 10 0. 28 ±0. 05
+b 0. 24 ±0. 01b 0. 21 ±0. 02b
+拮抗剂组
+Antagonist group 10 0. 32 ±0. 06
+b 0. 21 ±0. 02c 0. 24 ±0. 01c
+注:DPP-4:二肽基肽酶 4 Dipeptidyl peptidase-4;GABA:γ 氨基丁酸 γ
+amino acid butyric acid;与正常对照组比较 vs Normal control group, aP<
+0. 05;与糖尿病对照组比较 vs Diabetic control group, bP<0. 05;与 DPP-4 抑
+制剂组比较 vs DPP-4 inhibitor group, cP<0. 05
+相比,大鼠胰岛 β 细胞 GABA 表达升高(P<0. 05),与
+DPP-4 抑制剂组相比,大鼠胰岛 β 细胞 Bax 蛋白表达
+升高(P<0. 05),Bcl-2 蛋白的表达降低(P<0. 05,表
+2)。
+讨    论
+DPP-4 抑制剂通过竞争性结合 DPP-4 活化的部
+位,降低酶活性,抑制 GLP-1 的降解,提高内源性 GLP-
+1 的浓度,调节血糖水平、保护胰岛 β 细胞。 GLP-1 可
+以呈葡萄糖依赖性地促进胰岛 β 细胞分泌胰岛素,同
+时抑制胰岛 α 细胞分泌胰升糖素,另外还有抑制食
+欲,延缓胃排空等作用。 Wang 等[7] 证实 GLP-1 能够
+通过 cAMP 途径刺激胰岛 β 细胞释放 GABA,主要与
+其增加合成 GABA 所需的 GAD 蛋白的表达有关。 另
+有研究发现 GABA 还能改善糖耐量,增加胰岛素敏感
+性[8]。 GABA 是中枢神经系统中一种主要的抑制性神
+经递质,同时由胰岛 β 细胞产生,储存在突触样微泡
+当中。 GABA 能够显著降低循环血中炎症因子水平,
+增加抗炎症因子来抑制炎症反应,同时还能增加
+调节性 T 细胞的数量。 GABA 对胰岛 β 细胞的再生和
+免疫抑制作用使人们认识到,GABA 在调控胰岛细胞
+功能和血糖稳态中所起到的关键作用可能有助于临床
+治疗[3]。 在不同的人和动物模型中,GABA 能够抑制
+胰岛 β 细胞凋亡,促进其增殖,预防糖尿病的发生和
+发展[8-9]。
+2 型糖尿病进展的关键是胰岛 β 细胞进行性受损
+和胰岛素分泌不足。 经动物实验证实,DPP-4 抑制剂
+能够使胰岛 β 细胞胰岛素颗粒的胞吐作用增强,呈葡
+萄糖依赖性地促进 β 细胞分泌胰岛素,降低 α 细胞分
+泌胰升糖素,改善血糖调节障碍,降低空腹和餐后血
+糖[10-12]。 对不同时期的 2 型糖尿病患者使用剂量不
+等的 DPP-4 抑制剂进行治疗后发现,DPP-4 抑制剂能
+够改善 2 型糖尿病患者的胰岛功能,空腹和餐后胰岛
+素水平均增加,胰岛素原 /胰岛素得到改善,血糖和
+HBA1C均有显著降低[13-15]。 在本研究中,对糖尿病大
+鼠进行 DPP-4 抑制剂治疗后,其血糖水平明显下降,
+血清胰岛素水平升高,血清胰升糖素水平降低,显著改
+善糖尿病大鼠的血糖水平。 有研究指出,胰岛 β 细胞
+释放 GABA 是葡萄糖依赖性的[16]。 它通过旁分泌与
+胰岛 α 细胞表面的 GABA 受体结合后,激活细胞表面
+的 Cl-离子通道使其超极化,抑制胰升糖素的分泌[17]。
+GABA 对糖尿病小鼠有显著的降糖效果(与增加循环
+血中胰岛素的水平和降低胰升糖素水平有关)。
+GABA 与胰岛 β 细胞 GABA 受体结合后,促进钙内流,
+使细胞膜发生去极化,刺激胰岛 β 细胞分泌胰岛
+素[18]。 GABA 调节胰岛素分泌的作用一部分与激活
+GABA 的 B 型受体有关[19]。 胰岛素又能够通过 ERK
+途径反馈性抑制胰岛 β 细胞产生过多的 GABA[4]。 在
+2 型糖尿病患者中,编码 GABA A 通道亚单位 α1、α2、
+β2 和 β3 的基因表达均下调,GABA 通过激活胰岛 α
+细胞和 β 细胞上的 GABA A 型通道和 GABA B 型通道
+来调节 2 型糖尿病患者和正常人胰岛的激素分泌,
+GABA A 型受体拮抗剂能够减少胰岛素、促进胰升糖
+素的分泌,而 GABA B 受体拮抗剂能够刺激胰岛素分
+泌[20]。 本研究证实,使用 DPP-4 抑制剂的同时阻断
+GABA 受体(荷包牡丹碱为 GABA A 受体)后,胰岛素
+水平降低、胰升糖素水平升高,血糖升高。
+DPP-4 抑制剂能够保护糖尿病小鼠的胰岛 β 细
+胞,促进抗凋亡基因 Bcl-2 mRNA 的表达,抑制促凋亡
+基因 Bax mRNA 的表达,同时通过多种途径最终抑制
+胰岛 β 细胞凋亡,延缓糖尿病进程[21]。 在本研究中,
+与糖尿病对照组相比,DPP-4 抑制剂组大鼠的胰岛
+GABA 表达增加,胰岛 Bcl-2 蛋白表达增加,Bax 蛋白
+表达降低,其抗凋亡作用明显。 GABA 通过自分泌与
+胰岛 β 细胞表面的 GABA 受体结合,使其发生去极
+化,激活 PI3K / Akt 信号通路,促进胰岛 β 细胞增殖,
+抑制其凋亡,GABA 表现出的免疫抑制的作用也能阻
+止 β 细胞受到自身免疫所造成的损伤,它能够减轻淋
+巴细胞对胰岛的浸润,恢复 β 细胞体积,从而延缓糖
+尿病的发展[17,22]。 在本研究中,与单独使用 DPP-4 抑
+制剂组相比,拮抗剂组的糖尿病大鼠的胰岛抗凋亡蛋
+白 Bcl-2 蛋白表达降低,促凋亡蛋白 Bax 蛋白表达增
+加,同时胰岛 GABA 表达也增加。
+总之,DPP-4 抑制剂能够通过增加胰岛 GABA 的
+表达促进胰岛素分泌,减少胰升糖素分泌,降低血糖,
+促进抗凋亡蛋白 Bcl-2 的表达,抑制促凋亡蛋白 Bax
+的表达,从而抑制胰岛 β 细胞凋亡,保护受损的胰岛 β
+细胞。 DPP-4 抑制剂对胰岛 β 细胞发挥保护作用的其
+他途径有待进一步研究。

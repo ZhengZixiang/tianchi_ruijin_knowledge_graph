@@ -1,0 +1,287 @@
+临床研究
+内分泌代谢病研究所
+ACTH 非依赖性库欣综合征术后糖皮质激素
+替代治疗方法分析
+魏薇  周薇薇  苏颋为  蒋怡然  张翠  钟旭  武鲁铭  宁光  王卫庆
+[摘要]   目的  ACTH 非依赖性库欣综合征术后糖皮质激素替代方案及其影响因素分析。 方法 纳
+入 2003 ~ 2013 年瑞金医院内分泌科临床诊断为 ACTH 非依赖性库欣综合征,病理明确为肾上腺皮质腺瘤
+患者 181 例。 通过评估术前内分泌水平、影像学及临床随访资料,分析术后糖皮质激素替代剂量及替代时
+间的影响因素。 结果 所有患者术中及术后均需要激素替代,醋酸可的松平均替代时间为 12 个月(6 ~ 15
+个月),平均替代累积剂量为(8. 12 ± 5. 07) g。 Spearman 相关性分析显示发病年龄分别与术后激素替代时
+间( r=0. 250,P=0. 010)及激素替代累积剂量( r=0. 244,P= 0. 013)呈正相关,进一步行多元逐步回归分析
+提示发病年龄是术后可的松替代时间及替代剂量的独立影响因素(P<0. 05)。 术后 ACTH 先于皮质醇恢
+复并在术后 9 个月达到高峰,当肾上腺皮质功能恢复正常后 ACTH 降至正常范围。 2. 88% (3 / 104)患者出
+现激素撤退综合征。 库欣综合征体征、体重指数、血压、血糖及血脂在术后半年内得到显著改善。 结论
+ACTH 非依赖性库欣综合征术后需要醋酸可的松替代,发病年龄越大的患者术后激素替代时间越长并且累
+积剂量越大。 激素减量过程中需注意激素撤退综合征的发生。
+[关键词]   ACTH 非依赖性库欣综合征; 肾上腺腺瘤切除术; 糖皮质激素替代治疗; 下丘脑-垂体-肾
+上腺轴
+On the postoperative steroid replacement in patients with ACTH independent Cushing忆s Syndrome Wei Wei,
+Zhou Weiwei, Su Tingwei, Jiang Yiran, Zhang Cui, Zhong Xu, Wu Luming, Ning Guang, Wang Weiqing.
+Department of Endocrine and Metabolic Diseases, Clinical Center for Endocrine and Metabolic Diseases, Shanghai
+Institute of Endocrine and Metabolic Diseases, Ruijin Hospital, Shanghai Jiaotong University School of Medicine,
+Shanghai 200025, China
+[Abstract]   Objective   To investigate the preoperative factors in influencing the postoperative steroid
+replacement in patients with ACTH-independent Cushing忆 s syndrome. Methods One hundred and eighty-one
+patients with adrenal cortical adenoma underwent unilateral adrenalectomy from 2003 to 2013. All preoperative and
+postoperative follow-up clinical parameters were acquired and analyzed. Results All patients need glucocorticoid
+(GC) replacement during and after surgery. At the median follow-up of 32 months(14-64 months), 104 patients
+withdrew the cortisone acetate replacement, with a median replacement duration of 12 months(6-15 months) and an
+average cumulative dosage of(8. 12 ± 5. 07) g. Spearman correlation analysis showed that the age at diagnosis was
+positively correlated with the duration of GC replacement therapy( r = 0. 250, P = 0. 010) as well as the cumulative
+dosage of GC( r=0. 244, P = 0. 013). Multiple stepwise regression analysis indicated that age at diagnosis was the
+independent factor that influenced both the duration and cumulative dosage of postoperative cortisone acetate
+replacement(P<0. 05) . Plasma ACTH levels gradually increased and peaked during the 9th month, there was a lag of
+several months in the recovery of normal adrenal responsiveness. After that period, corticosteroid rose to normal
+levels, and followed by plasma ACTH concentrations, which fell to normal. 2. 88% (3 / 104) of the patients presented
+with steroid withdrawal syndrome ( SWS ). Most features of hypercortisolism resolved within 6 months after
+surgery. Conclusion An empirical experience in Ruijin hospital in using cortisol replacement therapy for patients
+with ACTH-independent Cushing忆s syndrome after unilateral adrenalectomy was herewith reported. The older patients
+tended to prolong the replacement therapy of steroids and thus had to deal with a larger cumulative dosage. We should
+be aware of the risk of development of SWS postoperatively.
+[Key words]   Cushing忆s syndrome; Adrenalectomy; Steroid replacement therapy; Hypothalamic-pituitary-
+gonad axis
+(Chin J Endocrinol Metab, 2014, 30: 834-838)
+库欣综合征(Cushing syndrome)又称为皮质醇增
+多症,是一组下丘脑-垂体-肾上腺轴 ( hypothalamus-
+pituitary-adrenal axis, HPA 轴)调控失常,肾上腺皮质
+分泌过多糖皮质激素而导致的以向心性肥胖、满月脸、
+多血质外貌、紫纹、高血压、继发性糖尿病和骨质疏松
+等症状为表现的临床综合征。 促肾上腺皮质激素
+(adrenocorticotrophic hormone, ACTH)非依赖性库欣综
+合征约占 10% ~ 15% ,10% 为单侧肾上腺腺瘤引起,
+主要治疗方法为肾上腺腺瘤切除术[1]。
+肾上腺皮质腺瘤自主分泌过量的皮质醇,使下丘
+脑促肾上腺皮质激素释放激素细胞 ( corticotropin
+releasing hormone, CRH)和垂体 ACTH 细胞处于抑制
+状态,对 HPA 轴产生负反馈抑制,导致腺瘤以外同侧
+及对侧肾上腺功能抑制及结构萎缩。 患者术后会出现
+肾上腺皮质功能不全的症状,需补充糖皮质激素直到
+HPA 轴恢复正常,一般需要 6 ~ 18 个月[2]。
+目前 ACTH 非依赖性库欣综合征患者术后糖皮质
+激素替代治疗无统一方案,激素替代种类繁多,减药及
+停药标准各不相同[3-8]。 停用或过快减少糖皮质激素
+替代剂量可引起激素撤退综合征( steroid withdrawal
+syndrome) [9],表现为肾上腺皮质功能不全的症状,例
+如乏力、低热、心动过速、体位性低血压等,严重者甚至
+危及生命。 但长期过量使用糖皮质激素替代会带来一
+些潜在负作用,如医源性库欣综合征、骨质疏松[10]、心
+血管事件[11,12]、糖脂代谢紊乱[13]的发生率增高。 因此
+我们需准确把握术后糖皮质激素替代剂量及替代时
+间,以避免替代不足或过度引起的并发症。 本研究通
+过回顾性分析瑞金医院 181 例进行单侧肾上腺皮质腺
+瘤切除术的 ACTH 非依赖性库欣综合征,探讨分析术
+后糖皮质激素替代剂量及替代时间的影响因素。
+对象和方法
+一、 对象
+本研究纳入 2002 年 1 月至 2013 年 6 月在瑞金医
+院内分泌科诊断为 ACTH 非依赖性库欣综合征,行肾
+上腺腺瘤切除术且病理证实为肾上腺皮质腺瘤的 181
+例患者。 符合下述纳入标准的患者共 134 例(剔除 47
+例,包括亚临床库欣综合征 23 例、死亡 2 例、术前或术
+后临床资料缺失 18 例、服用醋酸可的松以外药物 2
+例、术前酮康唑治疗 2 例)。
+入选标准:(1)符合库欣综合征诊断标准,参考
+2008 年国际内分泌协会《库欣综合征诊断指南》 [14];
+(2)ACTH 水平低于正常范围;(3)影像学检查提示单
+侧肾上腺实质性占位;(4)肾上腺腺瘤切除术并且手
+术病理证实为肾上腺皮质腺瘤。
+二、 方法
+1. 患者明确诊断后转泌尿外科行肾上腺腺瘤切
+除术,手术日和术后 3 日内给予氢化可的松静脉补充,
+术后第 4 日起改为口服醋酸可的松,并逐步减少至初
+始维持剂量 37. 5 mg[15,16]。
+2. 糖皮质激素替代减量及停止替代标准[17]:24 h
+尿游离皮质醇(24 h-urinary free cortisol, 24 hUFC)水平
+达到正常上限 2 / 3 时予以减药;当 8 : 00 血清皮质醇
+水平达到正常范围,并且无肾上腺皮质功能不全的表
+现时停止激素替代。
+3. 收集初次就诊资料,包括库欣综合征体征评
+估、生化及内分泌激素检验、影像学检查、病理诊断。
+术后定期随访,分别于术后 1、3、6、9、12、18 个月来院
+复查,监测内分泌激素及库欣综合征体征改善情况。
+4. 血尿皮质醇检测使用化学发光法进行检测
+(Beckman Coulter 公司),8 : 00 血清皮质醇正常值范
+围为 6. 7 ~ 22. 6 μg / dl,24 hUFC 正常值范围为 21 ~
+111 μg / 24 h。 血浆 ACTH 测定使用酶联免疫吸附测定
+方法进行检测(CIS bio international 公司),正常值范围
+为 12 ~ 78 pg / ml。
+三、 统计学处理
+采用 SPSS 19. 0 统计软件分析,计量资料符合正
+态分布者以 x-± s 表示,偏态分布以 M(四分位数间距)
+表示,计数资料以 n(% )表示。 正态分布变量组间比
+较采用单因素 ANOVA 检验,偏态分布组间比较采用
+Mann-Whitney 非参数检验,组间率的比较使用 字2检验,
+术前术后临床指标检查采用配对样本 t 检验。 相关性
+检验采用 Spearman 相关性分析,多因素分析采用多元
+逐步回归分析。 α=0. 05,均为双侧检验。
+结    果
+ACTH 非依赖性库欣综合征患者共 134 例,其中
+男性 5 例,女性 129 例。 平均随访 32 个月(14 ~ 64 个
+月),其中随访时距手术时间≤1 年者占 17. 8% ,1 ~ 5
+年者占 53. 5% ,>5 年者占 28. 7% 。 截止至本次随访,
+共 104 例患者停止醋酸可的松替代,平均替代时间为
+12 个月(6 ~ 15 个月),平均替代累积剂量为(8. 12 ±
+5. 07) mg。 激素替代时间与替代累积剂量呈显著正相
+关( r=0. 950, P<0. 01, 图 1)。
+分别针对醋酸可的松替代时间和累积剂量与术前
+各指标进行相关性分析,结果显示发病年龄分别与替
+代时间( r = 0. 250, P = 0. 010)及累积剂量( r = 0. 244,
+P=0. 013)呈正相关(图 1)。 进一步以醋酸可的松替
+代时间为因变量建立多元线性回归模型,结果显示发
+病年龄为影响替代时间的主要因素(回归系数为0. 912,
+注:GC:糖皮质激素 Glucocorticoids
+图 1  术后激素替代时间、替代累积剂量与起病年龄的相关性
+Fig 1  Correlation between duration, the cumulative dosage of GC replacement
+therapy and the age at diagnose
+注:m:月 month
+图 2  血清游离皮质醇及 ACTH 变化曲线
+Fig 2  Change of serum free cortisol and ACTH
+P=0. 002),而其余术前各指标未进入回归方程。 以
+激素替代累积剂量为因变量建立多元线性回归模型,
+显示发病年龄同样为影响替代累积剂量的独立影响因
+素(回归系数为 0. 132, P=0. 001)。
+术后 8 : 00 血清皮质醇和 ACTH 均显著低于正常
+范围,ACTH 水平逐渐上升并在术后 9 个月升至最高
+[(103. 59 ±17. 47) pg / ml],随后下降并回落至正常范
+围。 8 : 00 血清皮质醇在术后 3 ~ 6 个月仍低于正常
+下限,9 ~ 12 个月逐渐上升至正常范围(图 2)。 随着
+肾上腺皮质功能恢复,患者逐渐减少激素替代剂量直
+至停药,停止激素替代时血清皮质醇水平为(10. 51 ±
+3. 08) μg / dl。 术后 3、6、9、12 及 18 个月停药人数占总
+人群的比例分别为 15. 83% 、 27. 5% 、 10% 、 23. 34%
+及 14. 16% ,累计停药人数所占比例为 15. 83% 、
+43. 33% 、53. 33% 、76. 67%及 90. 83% 。
+2. 88% (3 / 104 例)患者在激素替代中发生激素撤
+退综合征,均发生于术后 3 个月内,表现为低热、恶心
+呕吐、心动过速等。 将醋酸可的松替代剂量加倍后,2
+例患者上述症状得到缓解,而另 1 例患者在给予 50 mg
+表 1  术前与术后 6 个月临床及生化指标比较
+Tab 1  Comparison of clinical and biochemical data before and 6 months after operation
+时间
+Time
+体重指数
+Body mass index
+(kg / m2)
+收缩压
+Systolic blood pressure
+(mmHg)
+舒张压
+Diastolic blood pressure
+(mmHg)
+总胆固醇
+Total cholesterol
+(mmol / L)
+甘油三酯
+Triglycerides
+(mmol / L)
+术前
+Before operation 24. 90 ± 2. 93 140 ± 18 91. 8 ± 12. 8 5. 42 ± 1. 27 1. 67 ± 0. 93
+术后 6 个月
+6 months after operation 22. 97 ± 3. 18
+a 117 ± 18a 75. 4 ± 13. 1a 3. 99 ± 0. 77a 1. 32 ± 0. 69a
+时间
+Time
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+空腹血糖
+Fasting plasma glucose
+(mmol / L)
+餐后血糖
+Postprandial plasma glucose
+(mmol / L)
+HOMA-IR
+术前
+Before operation 1. 70 ± 0. 62 3. 18 ± 1. 10 5. 52 ± 1. 31 10. 33 ± 3. 91 2. 73 ± 1. 91
+术后 6 个月
+6 months after operation 1. 30 ± 0. 43
+a 2. 25 ± 0. 64a 4. 73 ± 0. 57a 6. 60 ± 2. 15a 1. 29 ± 0. 84a
+注:1 mmHg = 0. 133 kPa;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low-density lipoprotein-
+cholesterol;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment for insulin resistance;与术前比较 vs Before operation,aP<0. 05
+氢化可的松静脉点滴后缓解。 所有患者在症状缓解后
+逐渐缓慢地减回原有可的松替代剂量。 发生激素撤退
+综合征和未发生激素撤退综合征患者术前各临床指标
+及术后激素替代时间无统计学差异(P>0. 05)。
+库欣综合征典型体征、体重指数、血压、血脂及血
+糖水平在手术后半年内得到显著改善(表 1),平均缓
+解时间 4. 5 个月(3. 3 ~ 6. 5 个月)。 高血压的发生率
+由术前 67. 6% 降至 15. 5% ,高脂血症的发生率从
+57. 7%降为 5. 6% ,糖代谢异常从 73. 5%降至 16. 2% 。
+讨    论
+单侧肾上腺腺瘤引起的库欣综合征的皮质醇分泌
+为自主性,升高的皮质醇通过 HPA 轴负反馈抑制垂体
+分泌 ACTH,造成腺瘤周围及对侧肾上腺组织萎缩及
+功能低下。 HPA 轴功能从受抑制到恢复正常遵循特
+定的变化规律[18],本组资料显示当手术切除高分泌腺
+瘤后,血皮质醇及 ACTH 水平均显著低于正常,血皮质
+醇水平的恢复略慢于 ACTH,ACTH 最先升高并不断刺
+激萎缩的肾上腺组织,使其功能得到慢慢恢复。 当血
+清皮质醇水平恢复后,ACTH 水平降至正常范围。
+HPA 轴恢复正常功能前患者需补充糖皮质激素
+以避免肾上腺皮质功能不全的发生。 目前国内外库欣
+综合征肾上腺术后糖皮质激素替代治疗方面尚无统一
+方案,但基本遵循术中及术后给药,由静脉替代改为口
+服替代,逐渐减量的原则。 激素替代的种类多选择氢
+化可的松或醋酸可的松等短效类激素,药物在血中作
+用时间约 8 ~ 12 h,易于模拟生理性激素分泌,方便药
+物剂量调节[19]。 瑞金医院 ACTH 非依赖性库欣综合
+征患者行单侧肾上腺腺瘤切除术时,术中及术后 3 d
+内给予氢化可的松静脉补充并逐步减量,随后改为醋
+酸可的松口服替代。 术后对激素替代量进行调整依赖
+于临床症状和肾上腺皮质激素指标的恢复。
+本研究中 ACTH 非依赖性库欣综合征患者术后醋
+酸可的松平均替代时间 12 个月(6 ~ 15 个月)。 这一
+结果与 Shen 等[6] 及 Mishra 等[7] 研究一致, 但较
+Doherty 等[4]及 Klose 等[5]研究结果偏短,可能与激素
+替代方案及停药标准不同有关。 在后两者的研究中,
+术后每 3 ~ 6 个月复查 ACTH 兴奋试验,在 HPA 轴恢
+复正常前一直维持生理剂量(20 ~ 30 mg)氢化可的松
+替代。 而本研究中依据随访 24 hUFC 水平逐渐减少激
+素替代剂量,24 hUFC 可较准确的反应体内糖皮质激
+素替代水平,而在替代过程中使患者 24 hUFC 水平维
+持在正常范围的下 2 / 3 区间,以利于 HPA 轴正常反馈
+的恢复[19]。 但在激素减量过程中需注意避免激素撤
+退综合征的发生。
+本研究中 3 例患者在术后 3 个月内发生激素撤退
+综合征,增加激素替代剂量后可缓解。 激素撤退综合
+征常发生于将糖皮质激素由超生理剂量减为低维持剂
+量时,可产生一系列肾上腺皮质功能不全的症状,如恶
+心、呕吐、体重减轻、关节肌肉酸痛[20]。 Bhattacharyya
+等[9]也曾报道过 3 例库欣综合征术后发生激素撤退综
+合征的病例。 目前激素撤退综合征的发生机制尚未明
+确,可能与术前长期暴露于高激素水平,导致机体对糖
+皮质激素产生耐受和抵抗有关[20]。 近年来也有研究
+指出激素撤退综合征的发生与体内白细胞介素 6
+(interleukin-6, IL-6)水平升高相关[21]。
+术前由于血皮质醇长期分泌过多,引起蛋白质、脂
+肪、糖、电解质代谢紊乱,患者表现出典型的高皮质醇
+血症的症状和体征。 术后随着患者皮质醇水平的降
+低,代谢紊乱得到纠正,高皮质醇血症的症状和体征在
+术后半年内明显缓解,平均缓解时间 4. 5 个月。 部分
+患者甚至出现轻微的肾上腺皮质功能不全的表现,此
+时临床医生容易忽略对激素剂量做出及时调整,造成
+HPA 轴恢复减慢,需引起重视。
+本组资料显示,术前患者发病年龄越大,术后醋酸
+可的松替代时间越长,替代累积剂量越大,其余术前各
+临床生化指标与激素替代时间及剂量无相关性。 研究
+发现在老年人中,随着年龄的增加对 HPA 轴负反馈调
+节的敏感性下降[22]。 发病年龄越大的患者 HPA 轴恢
+复所需要的时间越长,术后激素替代时间也相应增加。
+术后患者醋酸可的松替代时间差异较大,从 1 个月到
+50 个月不等,其发生机制可能与肾上腺组织中糖皮质
+激素受体及 ACTH 受体表达的差异性相关。 ACTH 通
+过激活类固醇合成酶的活性同时通过上调自身受体的
+表达来刺激肾上腺皮质分泌皮质醇。 Imai 等[23] 发现
+库欣综合征肾上腺腺瘤外正常肾上腺组织中 ACTH 受
+体 mRNA 的表达被抑制,提示腺瘤外正常肾上腺组织
+中 ACTH 受体的表达程度可能与术后萎缩的正常肾上
+腺组织在 ACTH 刺激下恢复正常功能所用的时间相
+关,有待今后进一步的实验证明。
+综上所述,本文回顾了瑞金医院库欣综合征术后
+糖皮质激素替代治疗方法。 起病年龄为影响术后糖皮
+质激素替代时间及累积剂量的独立危险因素。 临床医
+生需制定合理的替代及减药方案,既避免激素撤退综
+合征的发生,又尽可能减少过度糖皮质激素替代所带
+来的并发症。

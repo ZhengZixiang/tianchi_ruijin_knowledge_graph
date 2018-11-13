@@ -1,0 +1,258 @@
+糖尿病发病相关因素
+基金项目:上海市科学技术委员会科研计划项目(08411962500)
+军、徐炯、陈灶萍、盛励、丁和远、王芳、查兵兵、吴越越、黄新梅、孙田
+歌);闵行区慢性病平台(顾勇)
+@ 5thhospital. com
+社区老年正常糖耐量人群胰岛素抵抗和胰岛 β 细胞功能
+研究
+刘军  徐炯  陈灶萍  盛励  丁和远  王芳  查兵兵  吴越越  黄新梅  孙田歌  顾勇
+[提要]   入选老年正常糖耐量(NGT)者 2 929 名、糖耐量受损( IGT)者 448 例和 2 型糖尿病(T2DM)
+患者 1 143 例。 NGT 者根据空腹血糖(FBG)四分位数和十分位数分别分为 4 个亚组和 10 个亚组。 结果显
+示,中国老年 NGT 人群随着血糖升高,空腹胰岛素和稳态模型评估的胰岛素抵抗指数(HOMA-IR)逐渐升
+高。 以 HOMA-IR 的 75%位点 2. 15 为切割点,≥2. 15 者在 4 个 NGT 亚组、IGT 组、T2DM 组中的比例逐渐
+升高;超重或肥胖、高血压和高甘油三酯组 HOMA-IR≥2. 15 比例明显升高;相反,中国老年 NGT 人群中随
+着血糖升高,稳态模型评估的胰岛 β 细胞功能指数(HOMA-β)逐渐下降,以 HOMA-β 25%位点 41. 79 为切
+割点,<41. 79 者在 4 个 NGT 亚组、IGT 组、T2DM 组中的比例逐渐升高;非肥胖、正常血压和正常甘油三酯
+血症患者 HOMA-β<41. 79 的比例明显升高。 logistic 回归分析显示年龄和处置指数是影响老年 2 型糖尿病
+独立的危险因素。
+[关键词]   老年人; 胰岛素抵抗; 胰岛 β 细胞功能; 正常糖耐量
+Insulin resistance and β-cell function in old subjects with normal glucose tolerance in a community    LIU
+Jun*, XU Jiong, CHEN Zao-ping, SHENG Li, DING He-yuan, WANG Fang, ZHA Bing-bing, WU Yue-yue,
+HUANG Xin-mei, SUN Tian-ge, GU Yong. *Department of Endocrinology, Shanghai Fifth People忆s Hospital, Fudan
+University, Shanghai 200240, China
+[Summary]  A total of 2 929 subjects with normal glucose tolerance(NGT), 448 impaired glucose tolerance
+(IGT), and 1 143 patients with type 2 diabetes mellitus ( T2DM) in a community were enrolled in this study.
+Homeostasis model assessment ( HOMA) was applied to evaluate the status of insulin resistance and β-cell
+function. Furthermore, insulin sensitive check index ( QUICK) and deposition index ( DI) were caculated. The
+subjects with NGT were assigned into 4 subgroups and 10 subgroups according to quartiles and deciles of fasting blood
+glucose (FBG). The results showed that the levels of fasting insulin and homeostasis model assessment for insulin
+resistant index(HOMA-IR) were elevated while homeostasis model assessment for β-cell function (HOMA-β) were
+decreased with the increase of FBG level in NGT group. The ratio of HOMA-IR≥2. 15 was increased step by step in 4
+NGT subgroups, IGT group, and T2DM group, being higher in obesity group, hypertension group, and
+hypertriglyceridemia group compared with normal subjects. On the contrary, the ratio of HOMA-β < 41. 79 was
+gradually increased in 4 NGT subgroups, IGT group, and T2DM group, being higher groups with normal body weight,
+normal blood pressure, and normal triglyceridemia compared with corresponding abnormal groups. Logistic regression
+analysis showed that deposition index and age were the independent risk factors of type 2 diabetes mellitus in old
+subjects.
+[Key words]  Old people; Insulin resistance; β-cell function; Normal glucose tolerance
+(Chin J Endocrinol Metab, 2013, 29: 761-764)
+胰岛素抵抗和胰岛 β 细胞功能缺陷是 2 型糖尿病发生的
+主要机制。 国外部分研究显示老年人群糖尿病发生主要与胰
+岛 β 细胞功能减退有关[1] 。 但是也有研究显示胰岛素抵抗是
+老年糖尿病发生的主要原因[2] 。 为此本研究检测了某一社区
+老年正常糖耐量(NGT)、糖耐量受损( IGT)和 2 型糖尿病患者
+的血压、血脂、血糖、胰岛素和体重指数(BMI),旨在探讨老年
+NGT 人群胰岛素抵抗和胰岛 β 细胞功能变化及对糖尿病发生
+的影响。
+一、 对象和方法
+1. 对象:于 2008 年 3 月至 6 月入选上海市闵行区江川社
+区 NGT 受试者 2 929 名(男性 1 356 名,女性1 573 名),年龄
+(69. 92 ± 6. 53)岁,均经口服葡萄糖耐量试验排除糖尿病和糖
+调节受损。 根据空腹血糖( FBG) 四分位数,将 NGT 组分为
+NGT1 组( FBG < 4. 61 mmol / L),NGT2 组 (4. 61≤FBG < 5. 05
+mmol / L),NGT3 组 (5. 05≤FBG < 5. 53 mmol / L) 和 NGT4 组
+(5. 53≤FBG<6. 10 mmol / L)。 根据 FBG 十分位数,将 NGT 组
+分为:NGT01 组(<4. 28 mmol / L);NGT02 组(4. 28≤FBG<4. 53
+mmol / L);NGT03 组 (4. 53≤FBG < 4. 70 mmol / L);NGT04 组
+(4. 70≤FBG < 4. 88 mmol / L);NGT05 组 (4. 88≤FBG < 5. 05
+mmol / L);NGT06 组 (5. 05≤FBG < 5. 23 mmol / L);NGT07 组
+(5. 23≤FBG < 5. 42 mmol / L);NGT08 组 (5. 42≤FBG < 5. 64
+mmol / L);NGT09 组 (5. 64≤FBG < 5. 95 mmol / L);NGT10 组
+(5. 95≤FBG<6. 10 mmol / L)。 IGT 患者 448 例(男性 229 例,女
+性 219 例),年龄(70. 82 ± 7. 23)岁。 2 型糖尿病患者 1 143 例
+(T2DM 组,男性 544 例,女性 599 例),年龄(71. 37 ± 6. 73)岁。
+按照 2004 年中国医学会糖尿病学分会(CDS)关于代谢综合征
+的诊断标准,以 BMI 25 kg / m2 为切割点,分为正常体重( <25
+kg / m2)和超重 /肥胖(≥25 kg / m2 )亚组;以收缩压 /舒张压≥
+140 / 90 mm Hg(1 mm Hg=0. 133 kPa),和(或)已确诊为高血压
+为切割点,分为正常血压组和高血压亚组;以甘油三酯(TG)≥
+1. 7 mmol / L 为切割点,分为正常 TG 组和高 TG 亚组。 胰岛素
+抵抗和胰岛功能分组方法:以老年正常糖耐量稳态模型评估的
+胰岛素抵抗指数 (HOMA-IR) 的 75% 位点 2. 15 为切割点,
+HOMA-IR≥2. 15 为胰岛素抵抗,以老年正常糖耐量稳态模型
+评估的胰岛 β 细胞功能指数(HOMA-β)25% 位点 41. 79 为切
+割点,HOMA-β<41. 79 为胰岛素分泌功能减退。
+2. 方法:(1)血样本采集:所有受试者禁食 12 h 后,于次日
+晨 8 : 00 进行体检,采集空腹和餐后 2 h 血样本,其中空腹 3 ml
+血样本加入 0. 3 ml 3. 84% 枸橼酸钠。 血样离心后分别吸取血
+清、血浆,冰冻于-70℃下,所有样本收集后统一测定。 (2)简
+易体脂参数评价:BMI=体重(kg) /身高2(m2);体内脂肪百分比
+(body fat percentage,BF% )评价[3] ,男性=1. 2×BMI+0. 23×年龄
+-16. 2,女性=1. 2×BMI+0. 23×年龄-5. 4。 (3)胰岛素抵抗和胰
+岛 β 细胞功能评估:HOMA-IR = FBG ×空腹胰岛素 ( FINS) /
+22. 5;定量胰岛素敏感性检测指数 ( QUICK) = 1 / ( logFBG +
+logFINS); 处 置 指 数 ( desposition index, DI ) = HOMA-β /
+HOMA-IR;HOMA-β=20×FINS / (FBG-3. 5)。 (4)检测方法:血
+浆血糖采用葡萄糖氧化酶法(罗氏公司);总胆固醇(TC)、TG
+采用酶法(罗氏公司)。 胰岛素采用电化学免疫发光法(罗氏
+公司)。
+3. 统计学处理:所有计量资料均用 x-± s 差表示。 经正态性
+检验,TG、FINS、HOMA-IR HOMA-β、QUICK 和 DI 为非正态数
+据行自然对数转换。 计数资料用 字2 检验。 组间差异性研究用
+方差分析(Bonferroni 法)。 HOMA-IR 和 HOMA-β 与各指标相
+关性研究用 Spearman 相关分析。 影响老年糖尿病发生多因素
+分析采用 logistic 回归分析(Forward)。 所有统计用 SPSS 15. 0
+统计软件完成。 P<0. 05 为差异有统计学意义。
+二、 结果
+1. 各组间临床资料比较:NGT3 组、NGT4 组、 IGT 组和
+T2DM 组 BF% 、TG、FBG 和 FINS 水平高于 NGT1 组(P<0. 05)。
+NGT4 组 BMI 和 TC 水平高于 NGT1 组(P<0. 05)。 NGT4 组、
+IGT 组和 T2DM 组餐后 2 h 血糖(2hPG)水平高于 NGT1 组(P<
+0. 05)。 NGT4 组 BMI、TG 和 FINS 高于 NGT2 组(P<0. 05)。
+NGT3 组 FBG 水平高于 NGT2 组(P<0. 05)。 NGT4 组和 IGT 组
+FBG 和 2hPG 水平高于 NGT2 组 (P < 0. 05)。 T2DM 组 BMI、
+BF% 、收缩压、 TG、 FBG、2hPG 和 FINS 水平高于 NGT2 ( P <
+0. 05)。T2DM 组 BMI、BF% 、收缩压、FBG、2hPG 和 FINS 水平高
+于 NGT3(P<0. 05)。 NGT4 组和 IGT 组 FBG 和 2hPG 水平高于
+NGT3(P<0. 05)。 T2DM 组 FBG 和 2hPG 水平高于 NGT4(P<
+0. 05)。 T2DM 组 BF%和收缩压水平高于 IGT(P<0. 05,表 1)。
+2. 各组胰岛素抵抗比较:NGT 者 HOMA-IR 水平随血糖升
+高逐渐增加,而 QUICK 水平逐渐降低,组间差异有统计学意义
+(P<0. 05),IGT 组 HOMA-IR 水平低于 NGT4 组,QUIICK 水平
+高于 NGT4 组(P<0. 05),T2DM 组 HOMA-IR 水平最高,QUIICK
+水平最低(表 2)。
+以正常对照组 HOMA-IR 的 75%位点 2. 15 为切割点,比较
+各组 HOMA-IR≥2. 15 的分布频率。 NGT1 组、NGT2 组、NGT3
+组、NGT4 组、IGT 组和 T2DM 组分别有 21 例(2. 9% )、55 例
+表 1  各组临床和实验室资料(x-± s)
+组别 例数(男 / 女) 年龄(岁)
+体重指数
+(kg / m2) BF%
+收缩压
+(mm Hg)
+舒张压
+(mm Hg)
+NGT1 718(362 / 352) 69. 79 ± 6. 60 23. 13 ± 3. 14 32. 97 ± 6. 48 129 ± 15 80 ± 9
+NGT2 722(321 / 401) 69. 90 ± 6. 44 23. 10 ± 3. 17 33. 60 ± 6. 49 129 ± 15 80 ± 9
+NGT3 747(334 / 413) 69. 83 ± 6. 58 23. 51 ± 3. 21 34. 04 ± 6. 79a 131 ± 15 80 ± 8
+NGT4 742(339 / 403) 70. 13 ± 6. 50 23. 83 ± 3. 30ab 34. 39 ± 6. 87a 131 ± 14a 80 ± 9
+IGT 448(229 / 219) 70. 82 ± 7. 23 23. 45 ± 3. 02 33. 51 ± 6. 69 131 ± 15 80 ± 9
+T2DM 1 143(544 / 599) 71. 37 ± 6. 73abcd 24. 08 ± 3. 21abce 34. 77 ± 6. 74abe 133 ± 14abce 80 ± 8
+组别 例数(男 / 女) TG
+*
+(mmol / L)
+TC
+(mmol / L)
+FBG
+(mmol / L)
+2hPG
+(mmol / L)
+FINS*
+(mU / L)
+NGT1 718(362 / 352) 0. 48 ± 0. 46 5. 71 ± 1. 09 4. 30 ± 0. 24 6. 35 ± 0. 89 1. 62 ± 0. 56
+NGT2 722(321 / 401) 0. 53 ± 0. 47 5. 77 ± 1. 02 4. 83 ± 0. 13a 6. 32 ± 1. 02 1. 67 ± 0. 51
+NGT3 747(334 / 413) 0. 57 ± 0. 52a 5. 80 ± 1. 07 5. 28 ± 0. 14ab 6. 42 ± 1. 22 1. 74 ± 0. 56a
+NGT4 742(339 / 403) 0. 61 ± 0. 50ab 5. 88 ± 1. 03a 5. 96 ± 0. 36abc 7. 45 ± 1. 88abc 1. 86 ± 0. 60abc
+IGT 448(229 / 219) 0. 60 ± 0. 55a 5. 76 ± 1. 03 5. 09 ± 0. 51abcd 9. 15 ± 0. 91abcd 1. 77 ± 0. 65a
+T2DM 1 143(544 / 599) 0. 66 ± 0. 55abc 5. 79 ± 1. 18 7. 47 ± 2. 65abcde 13. 88 ± 8. 96abcde 1. 93 ± 0. 70abce
+注:NGT:正常糖耐量;NGT1:FBG<4. 61 mmol / L;NGT2 组:4. 61≤FBG<5. 05 mmol / L;NGT3:5. 05≤FBG<5. 53 mmol / L;NGT4:5. 53≤FBG<6. 10
+mmol / L;IGT:糖耐量受损;T2DM:2 型糖尿病;BF% :体内脂肪百分比;1 mm Hg = 0. 133 kPa;TG:甘油三酯;TC:总胆固醇;FBG:空腹血糖;2hPG:餐后
+2 h 血糖;FINS:空腹胰岛素;*数据经对数转换;与 NGT1 组比较,aP<0. 05;与 NGT2 组比较,bP<0. 05;与 NGT3 组比较,cP<0. 05;与 NGT4 组比较,
+dP<0. 05;与 IGT 组比较,eP<0. 05
+表 2  各组间 HOMA-IR, HOMA-β, QUICK 及 DI 比较(x-± s)
+组别 例数 HOMA-IR HOMA-β QUICK DI
+NGT1 718 -0. 04 ± 0. 57 4. 89 ± 0. 64 -0. 95 ± 0. 10 4. 92 ± 0. 38
+NGT2 722 0. 13 ± 0. 51a 4. 38 ± 0. 52a -0. 98 ± 0. 09a 4. 25 ± 0. 12a
+NGT3 747 0. 29 ± 0. 56ab 4. 16 ± 0. 56ab -1. 00 ± 0. 09ab 3. 88 ± 0. 10ab
+NGT4 742 0. 53 ± 0. 61abc 3. 98 ± 0. 60abc -1. 04 ± 0. 10abc 3. 44 ± 0. 20abc
+IGT 448 0. 28 ± 0. 67abd 4. 33 ± 0. 68acd -1. 00 ± 0. 10abd 4. 05 ± 0. 43abcd
+T2DM 1 143 0. 77 ± 0. 80abcde 3. 75 ± 0. 86abcde -1. 07 ± 0. 13abcde 2. 98 ± 0. 93abcde
+注:HOMA-IR:稳态模型评估的胰岛素抵抗指数; HOMA-β:稳态模型评估的胰岛 β 细胞功能;QUICK:定量胰岛素敏感性检测指数;DI:处置指
+数;余略语同表 1;各指标数据均经对数转换;与 NGT1 组比较,aP<0. 05;与 NGT2 组比较,bP<0. 05;与 NGT3 组比较,cP<0. 05;与 NGT4 组比较,dP<
+0. 05;与 IGT 组比较,eP<0. 05
+(7. 6% )、89 例(11. 9% )、189 例(25. 5% )、67 例(15. 0% )、448
+例(39. 2% )。 超重或肥胖各组患者胰岛素抵抗发生率高于正
+常体重组,对于合并有高血压的患者,不管有无超重,胰岛素抵
+抗发生率高于正常血压者。 同样可以发现合并高 TG 血症患者
+胰岛素抵抗发生率高于正常 TG 组,如果同时合并超重者,胰岛
+素抵抗表现更为明显。 老年正常糖耐量者随血糖升高,
+HOMA-IR 逐渐升高(图 1)。
+注:HOMA-IR:稳态模型评估的胰岛素抵抗指数;NGT01 组:空腹血
+糖(FBG)<4. 28 mmol / L;NGT02 组:4. 28≤FBG<4. 53 mmol / L;NGT03
+组:4. 53≤FBG<4. 70 mmol / L;NGT04 组:4. 70≤FBG<4. 88 mmol / L;
+NGT05 组:4. 88≤FBG < 5. 05 mmol / L;NGT06 组:5. 05≤FBG < 5. 23
+mmol / L;NGT07 组:5. 23≤FBG<5. 42 mmol / L;NGT08 组:5. 42≤FBG<
+5. 64 mmol / L;NGT09 组:5. 64≤FBG<5. 95 mmol / L;NGT10 组:5. 95≤
+FBG<6. 10 mmol / L
+图 1  老年正常糖耐量人群胰岛素敏感性的变化
+所有组别 Spearman 相关性分析显示,HOMA-IR 与 FBG、
+2hPG、FINS、BMI、收缩压、舒张压、TG 和 TC( r 分别为 0. 507、
+0. 291、0. 932、0. 342、0. 115、0. 098、0. 347 和 0. 070,均 P<0. 01)
+呈正相关,与 DI( r = -0. 506,P<0. 01)呈负相关。 各组 FBG 与
+DI 呈负相关(P<0. 05),与 HOMA-IR 呈正相关(P<0. 05)。
+3. 各组胰岛 β 细胞功能比较:NGT 者 HOMA-β 和 DI 水平
+随血糖水平升高逐渐降低,组间差异有统计学意义(P<0. 05)。
+IGT 组 HOMA-β 和 DI 水平高于 NGT3 组和 NGT4 组 ( P <
+0. 05)。T2DM 组 HOMA-β 和 DI 水平最低(表 2)。
+以 HOMA-β 25% 位点 41. 79 为切割点,比较 HOMA-β≤
+41. 79 各组的分布频率,NGT1 组、NGT2 组、NGT3 组、NGT4 组、
+IGT 组和 T2DM 组分别有 17 例(2. 4% )、57 例(7. 9% )、109 例
+(14. 6% )、177 例(23. 9% )、56 例(12. 5% )、455 例(39. 8% )。
+合并有高血压患者胰岛 β 细胞功能减退的发生率低于无高血
+压患者,超重患者胰岛 β 功能减退低于正常体重者,两者同时
+合并胰岛 β 细胞功能减退的比例最少。 高 TG 患者胰岛 β 细
+胞功能减退的比例低于正常 TG 组,如果同时合并肥胖或超重
+患者胰岛 β 细胞功能减退的比例最低。 老年正常糖耐量随着
+血糖逐渐升高,HOMA-β 逐渐降低(图 2)。
+注:HOMA-β:稳态模型评估的胰岛 β 细胞功能指数;分组同图 1
+图 2  老年正常糖耐量人群胰岛 β 细胞功能的变化
+所有组别 Spearman 相关性分析显示,HOMA-β 与 DI、
+FINS、BMI、舒张压和 TG( r 分别为 0. 593、0. 591、0. 194、0. 061、
+0. 165,均 P<0. 01)呈正相关,与 FBG、2hPG 和年龄( r 分别为
+-0. 593、-0. 275、-0. 044,P<0. 01)呈负相关。 各组别 FBG 与
+HOMA-β 呈负相关(P<0. 05)。
+4. 影响老年糖尿病发生的 logistic 回归分析:以糖尿病有
+无为因变量,年龄、性别、BMI、BF% 、收缩压、舒张压、HOMA-
+IR、HOMA-B、TC、TG 和 DI 为自变量, logistic 回归分析显示, 年
+龄和 DI 是影响老年 2 型糖尿病独立的危险因素(B 分别为
+0. 034 和 - 2. 409, SE 分别为 0. 008 和 0. 095,Wald 分别为
+19. 315 和 648. 270,P 值分别为 0. 004 和 0. 034)。 回归方程 =
+年龄×0. 034+DI×(-2. 409)+5. 432。
+三、 讨论
+胰岛素抵抗与胰岛 β 细胞功能减退是 2 型糖尿病发生的
+机制。 但是对于老年 2 型糖尿病的发生是胰岛素抵抗为主,还
+是胰岛 β 细胞功能减退为主,目前意见尚存分歧。 Lorenzo
+等[4]在中年随访人群中发现胰岛素抵抗和胰岛功能减退是预
+测糖尿病发生的独立的危险因素。 Bryhni 等[1] 通过高胰岛素
+正常葡萄糖钳夹试验研究发现,老年和年轻患者胰岛素抵抗相
+近,老年糖尿病发生主要与患者胰岛功能下降及腹部脂肪堆积
+有关。 但是 Huan 等[2]的 8 年随访研究显示,用高胰岛素正常
+葡萄糖钳夹试验评估的胰岛素抵抗指标是预测老年 2 型糖尿
+病发生独立的危险因素。
+本研究显示老年 NGT 人群,尽管血糖在正常范围,但是已
+经出现随着血糖升高,胰岛素抵抗指数逐渐升高,在合并高血
+压、高 TG、超重和肥胖患者中更为明显,这与张研等[5] 的结果
+一致。 IRAS 研究显示通过 5 年随访 1 230 例基线没有糖尿病
+家族史的患者,发现胰岛素抵抗、胰岛 β 功能缺陷和内脏脂肪
+堆积是预测 2 型糖尿病发生[6] 。 Motta 等[7] 研究 1 549 例 65 ~
+84 岁的老年 NGT 者,也发现由于胰岛素抵抗,代偿性高分泌胰
+岛素是导致糖尿病发生的重要原因。 老年人群导致胰岛素抵
+抗的原因可能是随着年龄的增长,骨骼肌线粒体功能下降,氧
+化应激产物产生增加[8] 。 体育锻炼可以通过激活 AMP 活化蛋
+白激酶和 PPARγ 共激活因子-1α,提高线粒体功能,降低糖尿
+病的发生[9] 。 另外,随着年龄的增长,内脏脂肪堆积逐渐增多
+和铁的超载也可能是胰岛素抵抗的原因。 通过转基因技术使
+得老年大鼠内脏脂肪堆积,代谢紊乱明显增加,通过手术去除
+内脏脂肪,代谢紊乱明显改善,但是去除皮下脂肪,代谢紊乱没
+有明显改善[10] 。 因此,提示老年人群胰岛素抵抗可能主要继
+发于肥胖和体脂分布。
+本研究观察到一社区老年 NGT 人群,随着血糖升高,胰岛
+β 细胞功能逐渐下降,但是合并超重或肥胖、高血压和高 TG 血
+症患者胰岛 β 细胞功能好于正常体重、血压正常和低 TG 的患
+者。 在校正了胰岛素抵抗的情况下,胰岛 β 细胞功能减退和增
+龄是老年 2 型糖尿病发生独立的危险因素,提示老年患者随着
+年龄增长,在胰岛素抵抗的基础上,胰岛 β 细胞功能减退是老
+年 2 型糖尿病发生的主要原因。 贾伟平等[11] 研究显示在
+NGT、IGT 和 2 型糖尿病患者胰岛素抵抗逐渐严重,胰岛 β 细胞
+功能逐渐减退。 韩学尧等[12]通过 2 型糖尿病一级亲属研究发
+现,2 型糖尿病一级亲属 NGT 经空腹血糖受损( IFG)和 IGT 到
+糖尿病状态,HOMA-IR 逐渐升高,HOMA-β、早时相胰岛 β 细胞
+功能和 DI 进行性下降,同样发现了在 2 型糖尿病一级亲属随
+着血糖升高胰岛素抵抗加重,胰岛 β 细胞功能减退。 本课题组
+既往的中年 2 型糖尿病正常体重一级亲属 5 年随访研究显示,
+随着年龄增长,在中国非肥胖 2 型糖尿病一级亲属主要表现为
+胰岛 β 细胞功能的减退[13] 。 Akehi 等[14] 等观察了<30、30 ~ 49
+和≥50 岁的正常糖耐量的患者,发现随着年龄的增长,胰岛素
+抵抗没有明显的变化,尽管 30 min 早期相胰岛素分泌没有差
+异,但是 HOMA-β 和 DI 逐渐降低,支持胰岛 β 细胞功能减退是
+老年糖尿病发生的主要原因。

@@ -1,0 +1,328 @@
+T1	Disease 3428 3434	2 型糖尿病
+T2	Disease 3928 3934	2 型糖尿病
+T3	Disease 9287 9293	2 型糖尿病
+T4	Disease 9429 9435	2 型糖尿病
+T5	Disease 9578 9584	2 型糖尿病
+T6	Disease 9850 9856	2 型糖尿病
+T7	Disease 10005 10011	2 型糖尿病
+T8	Disease 10030 10036	2 型糖尿病
+T9	Disease 10066 10072	2 型糖尿病
+T10	Disease 10099 10105	2 型糖尿病
+T11	Disease 10186 10192	2 型糖尿病
+T12	Disease 10531 10537	2 型糖尿病
+T13	Disease 10576 10582	2 型糖尿病
+T14	Disease 11232 11238	2 型糖尿病
+T15	Disease 11291 11297	2 型糖尿病
+T16	Disease 11341 11347	2 型糖尿病
+T17	Disease 11367 11373	2 型糖尿病
+T18	Disease 11473 11479	2 型糖尿病
+T19	Test 4095 4100	HDL-C
+T20	Test 8151 8156	HDL-C
+T21	Test 9236 9241	HDL-C
+T22	Test 4113 4118	LDL-C
+T23	Test 8161 8166	LDL-C
+T24	Test 8200 8205	LDL-C
+T25	Test 9242 9247	LDL-C
+T26	Test 394 398	空腹血糖
+T27	Test 4334 4338	空腹血糖
+T28	Test 4423 4427	空腹血糖
+T29	Test 4503 4507	空腹血糖
+T30	Test 5057 5061	空腹血糖
+T31	Test 5275 5279	空腹血糖
+T32	Test 8718 8722	空腹血糖
+T33	Test 10350 10351;10352 10355	空 腹血糖
+T34	Test 10789 10793	空腹血糖
+T35	Test 10993 10997	空腹血糖
+T36	Test 11007 11008;11009 11012	空 腹血糖
+T37	Test 4085 4094	高密度脂蛋白胆固醇
+T38	Test 6505 6514	高密度脂蛋白胆固醇
+T39	Test 4102 4107;4108 4112	低密度脂蛋 白胆固醇
+T40	Test 6556 6565	低密度脂蛋白胆固醇
+T41	Disease 197 198;199 203	妊 娠糖尿病
+T42	Disease 249 254	妊娠糖尿病
+T43	Disease 832 837	妊娠糖尿病
+T44	Disease 869 874	妊娠糖尿病
+T45	Disease 914 919	妊娠糖尿病
+T46	Disease 3604 3609	妊娠糖尿病
+T47	Disease 3693 3698	妊娠糖尿病
+T48	Disease 3869 3874	妊娠糖尿病
+T49	Disease 3956 3961	妊娠糖尿病
+T50	Disease 4291 4296	妊娠糖尿病
+T51	Disease 4697 4700;4701 4703	妊娠糖 尿病
+T52	Disease 7706 7711	妊娠糖尿病
+T53	Disease 8232 8237	妊娠糖尿病
+T54	Disease 8268 8273	妊娠糖尿病
+T55	Disease 8326 8331	妊娠糖尿病
+T56	Disease 8400 8405	妊娠糖尿病
+T57	Disease 8444 8449	妊娠糖尿病
+T58	Disease 8486 8491	妊娠糖尿病
+T59	Disease 9097 9102	妊娠糖尿病
+T60	Disease 9155 9160	妊娠糖尿病
+T61	Disease 9192 9197	妊娠糖尿病
+T62	Disease 9415 9420	妊娠糖尿病
+T63	Disease 9597 9602	妊娠糖尿病
+T64	Disease 9822 9827	妊娠糖尿病
+T65	Disease 9875 9880	妊娠糖尿病
+T66	Disease 9951 9956	妊娠糖尿病
+T67	Disease 10090 10095	妊娠糖尿病
+T68	Disease 10175 10180	妊娠糖尿病
+T69	Disease 10477 10482	妊娠糖尿病
+T70	Disease 10548 10553	妊娠糖尿病
+T71	Disease 10560 10565	妊娠糖尿病
+T72	Disease 10617 10622	妊娠糖尿病
+T73	Disease 10639 10644	妊娠糖尿病
+T74	Disease 10682 10687	妊娠糖尿病
+T75	Disease 10760 10765	妊娠糖尿病
+T76	Disease 10858 10863	妊娠糖尿病
+T77	Disease 10896 10899;10900 10902	妊娠糖 尿病
+T78	Disease 10939 10944	妊娠糖尿病
+T79	Disease 11049 11054	妊娠糖尿病
+T80	Disease 11070 11075	妊娠糖尿病
+T81	Disease 11100 11105	妊娠糖尿病
+T82	Disease 11247 11252	妊娠糖尿病
+T83	Disease 11420 11425	妊娠糖尿病
+T84	Disease 11501 11506	妊娠糖尿病
+T85	Disease 11675 11680	妊娠糖尿病
+T86	Disease 11721 11726	妊娠糖尿病
+T87	Disease 11767 11769;11770 11773	妊娠 糖尿病
+T88	Disease 11843 11848	妊娠糖尿病
+T89	Test 843 847	体重指数
+T90	Test 4023 4027	体重指数
+T91	Test 8412 8416	体重指数
+T92	Test 10953 10957	体重指数
+T93	Test 316 320	OGTT
+T94	Test 4064 4068	OGTT
+T95	Test 361 364	腰臀比
+T96	Test 854 857	腰臀比
+T97	Test 899 902	腰臀比
+T98	Test 4038 4041	腰臀比
+T99	Test 4991 4994	腰臀比
+T100	Test 8423 8426	腰臀比
+T101	Test 10242 10245	腰臀比
+T102	Test 10958 10961	腰臀比
+T103	Test 11705 11708	腰臀比
+T104	Test 298 300	腰围
+T105	Test 355 357	腰围
+T106	Test 848 850	腰围
+T107	Test 4030 4032	腰围
+T108	Test 4985 4987	腰围
+T109	Test 8417 8419	腰围
+T110	Test 301 303	臀围
+T111	Test 358 360	臀围
+T112	Test 851 853	臀围
+T113	Test 4033 4035	臀围
+T114	Test 4988 4990	臀围
+T115	Test 8420 8422	臀围
+T116	Test 305 314	口服葡萄糖耐量试验
+T117	Test 10771 10788	75 g 葡萄糖口服葡萄糖耐量试验
+T118	Disease 11284 11289	代谢综合征
+T119	Disease 9752 9757	糖尿病前期
+T120	Test 4075 4079	甘油三酯
+T121	Test 8132 8136	甘油三酯
+T122	Test 8181 8185	甘油三酯
+T123	Test 9226 9230	甘油三酯
+T124	Test 485 489	餐后血糖
+T125	Test 597 601	餐后血糖
+T126	Test 5127 5131	餐后血糖
+T127	Test 5306 5310	餐后血糖
+T128	Test 8569 8573	餐后血糖
+T129	Test 8757 8761	餐后血糖
+T130	Test 10384 10386;10387 10389	餐后 血糖
+T131	Test 10998 11002	餐后血糖
+T132	Disease 7332 7335	GDM
+T133	Disease 7702 7705	GDM
+T134	Disease 8546 8549	GDM
+T135	Disease 8690 8693	GDM
+T136	Disease 8919 8922	GDM
+T137	Disease 9093 9096	GDM
+T138	Disease 465 468	IFG
+T139	Disease 481 484	IFG
+T140	Disease 4413 4416	IFG
+T141	Disease 5204 5207	IFG
+T142	Disease 5222 5225	IFG
+T143	Disease 5297 5300	IFG
+T144	Disease 10272 10275	IFG
+T145	Disease 10368 10371	IFG
+T146	Disease 548 551	IGT
+T147	Disease 612 615	IGT
+T148	Disease 4498 4501	IGT
+T149	Disease 5252 5255	IGT
+T150	Disease 5339 5342	IGT
+T151	Disease 7742 7745	IGT
+T152	Disease 7780 7783	IGT
+T153	Disease 8493 8496	IGT
+T154	Disease 10285 10288	IGT
+T155	Disease 10403 10406	IGT
+T156	Test 291 293	体重
+T157	Test 352 354	体重
+T158	Test 840 842	体重
+T159	Test 896 898	体重
+T160	Test 4015 4017	体重
+T161	Test 4926 4928	体重
+T162	Test 10239 10241	体重
+T163	Test 10291 10293	体重
+T164	Test 11702 11704	体重
+T165	Disease 215 223	妊娠期糖耐量受损
+T166	Disease 224 228	GIGT
+T167	Test 322 326	血脂检测
+T168	Test_Value 414 438	(4. 84 ± 0. 57) mmol / L
+T169	Disease 457 460;461 464	空腹血 糖受损
+T170	Test_Value 505 529	(7. 33 ± 1. 50) mmol / L
+T171	Disease 541 545;546 547	糖耐量受 损
+T172	Disease 822 830	妊娠期糖耐量受损
+T173	Disease 3502 3505	糖尿病
+T174	Disease 3887 3895	妊娠期糖耐量受损
+T175	Disease 3896 3900	GIGT
+T176	Test_Value 4239 4243	5. 8
+T177	Test_Value 4244 4249	10. 2
+T178	Test_Value 4250 4254	9. 2
+T179	Test_Value 4257 4270	8. 0 mmol / L
+T180	Test 4199 4210	口服 75 g 葡萄糖
+T181	Disease 4279 4283	GIGT
+T182	Test_Value 4338 4343;4344 4352	≥7. 0 mmol / L
+T183	Test 4357 4363	2 h 血糖
+T184	Test_Value 4363 4378	≥11. 1 mmol / L
+T185	Disease 4379 4385	空腹血糖受损
+T186	Test_Value 4418 4423	6. 1≤
+T187	Test_Value 4427 4432;4433 4441	<7. 0 mmol / L
+T188	Test 4442 4448	2 h 血糖
+T189	Test_Value 4448 4462	<7. 8 mmol / L
+T190	Disease 4463 4468	糖耐量受损
+T191	Test_Value 4507 4521	<6. 1 mmol / L
+T192	Test_Value 4523 4528	7. 8≤
+T193	Test 4529 4535	2 h 血糖
+T194	Test_Value 4535 4550	<11. 1 mmol / L
+T195	Disease 4691 4695	GIGT
+T196	Test_Value 5091 5114	4. 84 ± 0. 57) mmol / L
+T197	Test_Value 5137 5150	6. 84 ± 1. 93
+T198	Disease 5243 5247;5248 5249	糖代谢异 常
+T199	Test 7808 7813	脂代谢指标
+T200	Disease 7848 7850;7851 7854	糖代 谢异常
+T201	Test_Value 7898 7912	≥1. 7 mmol / L
+T202	Test_Value 7941 7955	≥5. 2 mmol / L
+T203	Test_Value 7996 7997;7998 8011	≤ 1. 0 mmol / L
+T204	Test_Value 8053 8067	≥3. 2 mmol / L
+T205	Test 8141 8144	胆固醇
+T206	Test 8190 8191;8192 8194	胆 固醇
+T207	Disease 8240 8244	GIGT
+T208	Disease 8320 8324	GIGT
+T209	Disease 8394 8398	GIGT
+T210	Test 8408 8409;8410 8411	体 重
+T211	Disease 8438 8442	GIGT
+T212	Disease 8504 8508	GIGT
+T213	Disease 9149 9153	GIGT
+T214	Disease 9186 9190	GIGT
+T215	Test 9231 9234	胆固醇
+T216	Disease 9400 9404	GIGT
+T217	Disease 9447 9449	肥胖
+T218	Disease 9545 9547;9548 9549	糖尿 病
+T219	Disease 9568 9571	糖尿病
+T220	Disease 9711 9714	糖尿病
+T221	Disease 9994 9998;9999 10000	妊娠糖尿 病
+T222	Disease 10022 10026;10027 10028	妊娠糖尿 病
+T223	Disease 10676 10680	GIGT
+T224	Test_Value 10815 10829	10. 0 mmol / L
+T225	Test 10808 10814	1 h 血糖
+T226	Test 10830 10836	2 h 血糖
+T227	Test_Value 10837 10841;10842 10850	8. 5 mmol / L
+T228	Disease 10868 10872	GIGT
+T229	Disease 10933 10937	GIGT
+T230	Disease 11258 11261	冠心病
+T231	Disease 11298 11303	中心型肥胖
+T232	Disease 11313 11323	高 LDL-C 血症
+T233	Disease 11324 11327	高血压
+T234	Disease 11460 11464;11465 11466	妊娠糖尿 病
+T235	Disease 11121 11126	心血管疾病
+T236	Test 6292 6297	HDL-C
+T237	Test 6309 6314	LDL-C
+T238	Test 6258 6262	总胆固醇
+T239	Test 5583 5587	体重指数
+T240	Test 6907 6911	体重指数
+T241	Test 1920 1924	OGTT
+T242	Test 6228 6232	甘油三酯
+T243	Disease 1699 1702	GDM
+T244	Disease 3032 3035	GDM
+T245	Disease 3055 3058	GDM
+T246	Disease 6661 6664	GDM
+T247	Disease 6859 6862	GDM
+T248	Disease 2274 2277	IFG
+T249	Disease 2466 2469	IGT
+T250	Disease 2552 2555	IGT
+T251	Test 5668 5671	腰臀比
+T252	Test 6992 6995	腰臀比
+T253	Test 6552 6555	LDL
+T254	Test 4153 4155	血糖
+T255	Test 10594 10596	血糖
+T256	Test 5614 5616	腰围
+T257	Test 6938 6940	腰围
+T258	Test 5642 5644	臀围
+T259	Test 6966 6968	臀围
+T260	Test 5549 5551	身高
+T261	Test 5563 5565	体重
+T262	Test 6887 6889	体重
+T263	Test_Value 5005 5007	下降
+T264	Test_Value 5133 5135	下降
+T265	Reason 8276 8278	年龄
+T266	Reason 11138 11141	胆固醇
+T267	Disease 11390 11392	死亡
+T268	Disease 11380 11385	心血管事件
+T269	Disease 14 19	糖代谢异常
+T270	Disease 93 98	糖代谢异常
+T271	Test_Value 601 603	正常
+T272	Disease 880 883	糖尿病
+T273	Disease 3642 3647	糖代谢异常
+T274	Test 4081 4084	胆固醇
+T275	Test 4168 4170	血脂
+T276	Disease 4189 4194	糖代谢异常
+T277	Disease 4300 4305	糖代谢异常
+T278	Disease 4326 4329	糖尿病
+T279	Disease 4775 4779	GIGT
+T280	Disease 4781 4785;4786 4787	妊娠糖尿 病
+T281	Test_Value 5153 5160;5161 5176	7. 33 ± 1. 50) mmol / L
+T282	Disease 8262 8266	GIGT
+T283	Disease 8220 8228	妊娠期糖代谢异常
+T284	Disease 9271 9276	糖代谢异常
+T285	Disease 9703 9708	糖代谢异常
+T286	Symptom 9837 9841;9842 9843	糖代谢异 常
+T287	Symptom 9912 9917	糖代谢异常
+T288	Disease 10314 10319	糖代谢异常
+T289	Test_Value 10355 10357	正常
+T290	Test_Value 10389 10391	正常
+T291	Symptom 10416 10423	产后糖代谢异常
+T292	Symptom 10446 10451	糖代谢异常
+T293	Symptom 10497 10502	糖代谢异常
+T294	Disease 10707 10708;10709 10715	妊 娠合并糖尿病
+T295	Symptom 11109 11114	糖代谢异常
+T296	Test 711 716	HDL-C
+T297	Test 761 766	LDL-C
+T298	Disease 700 710	低高密度脂蛋白胆固醇
+T299	Reason 11165 11170	腰臀比增加
+T300	Disease 3543 3546	糖尿病
+T301	Level 3546 3548	前期
+T302	Disease 11305 11312	空腹胰岛素升高
+T303	Disease 636 643	高甘油三酯血症
+T304	Test 8290 8292	体重
+T305	Test_Value 399 412	5. 19 ± 0. 06
+T306	Test_Value 490 503	6. 84 ± 1. 93
+T307	Disease 664 670	高胆固醇血症
+T308	Disease 749 759	高低密度脂蛋白胆固醇
+T309	Symptom 936 941	脂代谢异常
+T310	Test 4231 4233	血糖
+T311	Test_Value 5075 5088	5. 19 ± 0. 06
+T312	Disease 7864 7869	脂代谢紊乱
+T313	Disease 7890 7897	高甘油三酯血症
+T314	Disease 7934 7940	高胆固醇血症
+T315	Disease 7985 7995	低 HDL-C 血症
+T316	Disease 8042 8043;8044 8052	高 LDL-C 血症
+T317	Disease 8293 8299	新生儿低血糖
+T318	Test_Value 10794 10807	5. 1 mmol / L
+T319	Reason 11142 11152	高 LDL-C 血症
+T320	Reason 11132 11137	高甘油三酯
+T321	Reason 11153 11162;11163 11164	低 HDL-C 血 症
+T322	Disease 11180 11187	高甘油三酯血症
+T323	Disease 11188 11189;11190 11198	低 HDL-C 血症
+T324	Disease 11742 11743;11744 11748	脂 代谢异常
+T325	Test 10587 10589	血糖
+T326	Test 10667 10669	血糖
+T327	Symptom 3669 3674	脂代谢异常
+T328	Disease 10300 10305	糖代谢异常

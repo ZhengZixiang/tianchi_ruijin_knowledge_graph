@@ -1,0 +1,345 @@
+T1	Symptom 42 48	右侧颊部红肿
+T2	Symptom 49 51	疼痛
+T3	Disease 58 63	库欣综合征
+T4	Symptom 110 117	右侧面部红肿痛
+T5	Disease 128 144;145 146	非促肾上腺皮质激素依赖性库欣综合 征
+T6	Disease 149 154	肾上腺肿瘤
+T7	Symptom 155 161	右侧面部感染
+T8	Treatment 165 168	抗感染
+T9	Drug 175 178	酮康唑
+T10	Duration 200 205	16 个月
+T11	Operation 211 221	右侧肾上腺肿瘤切除术
+T12	Disease 232 237	库欣综合征
+T13	Disease 239 243	严重感染
+T14	Test 256 259	皮质醇
+T15	Disease 1315 1318	高血压
+T16	Symptom 1330 1336	右侧颜面肿痛
+T17	Symptom 1356 1358	头晕
+T18	Test 1368 1370	血压
+T19	Test_Value 1370 1373;1374 1388	升高达 170 / 120 mmHg
+T20	Test 1410 1412	血脂
+T21	Test_Value 1414 1416	升高
+T22	Disease 1423 1426	高血压
+T23	Disease 1427 1430	高血脂
+T24	Symptom 1448 1449;1450 1451	口 干
+T25	Symptom 1452 1454	多饮
+T26	Symptom 1455 1457	多尿
+T27	Test 1464 1466	体重
+T28	Test_Value 1466 1468	下降
+T29	Test 1480 1482	血糖
+T30	Test_Value 1482 1486	明显升高
+T31	Disease 1491 1494	糖尿病
+T32	Test 1503 1505	血糖
+T33	Symptom 1520 1524	面部变圆
+T34	Symptom 1526 1531	多血质外貌
+T35	Symptom 1532 1537	颈部脂肪垫
+T36	Symptom 1538 1540;1541 1546	皮肤 易出现瘀斑
+T37	Symptom 1547 1554	无明显皮肤紫纹
+T38	Symptom 1555 1560	无明显多毛
+T39	Symptom 1561 1563	痤疮
+T40	Symptom 1564 1569;1570 1573	四肢皮肤逐 渐松弛
+T41	Test 1576 1578	血糖
+T42	Test 1579 1581	血压
+T43	Test 1598 1599;1600 1601	血 糖
+T44	Test 1602 1604	血压
+T45	Test 1605 1607	血脂
+T46	Drug 1626 1629	胰岛素
+T47	Amount 1639 1643	30 U
+T48	Test 1650 1652	血糖
+T49	Symptom 1654 1657	低血糖
+T50	Symptom 1675 1679	右侧牙痛
+T51	Disease 1692 1702	右下第二磨牙根尖周炎
+T52	Symptom 1726 1728	发热
+T53	Test 1733 1736	白细胞
+T54	Test_Value 1738 1744	升高伴核左移
+T55	Treatment 1748 1757	头孢氨苄抗感染治疗
+T56	Method 1782 1784	静脉
+T57	Drug 1784 1788	头孢曲松
+T58	Method 1804 1808	静脉注射
+T59	Treatment 1808 1813	抗感染治疗
+T60	Symptom 1826 1832	局部症状肿痛
+T61	Anatomy 1847 1851	右侧面部
+T62	Symptom 1854 1865	右侧乳突区出现进食困难
+T63	Symptom 1872 1874	乏力
+T64	Symptom 1875 1878	胃纳差
+T65	Symptom 1879 1888	恶心伴全身关节酸痛
+T66	Test 1893 1897	腹部超声
+T67	Anatomy 1904 1909	右侧肾上腺
+T68	Treatment 1939 1942	抗感染
+T69	Duration 1951 1954	2 d
+T70	Disease 1968 1973	库欣综合征
+T71	Disease 1974 1978	面部感染
+T72	Symptom 1995 1998	精神差
+T73	Symptom 1999 2002	睡眠差
+T74	Symptom 2015 2022	疼痛夜间睡眠差
+T75	Test 2030 2032	体重
+T76	Test_Value 2032 2039	下降 2 kg
+T77	Disease 2045 2048	糖尿病
+T78	Duration 2049 2052	3 年
+T79	Disease 2055 2058	高血压
+T80	Duration 2059 2062	9 年
+T81	Test 2063 2065	血糖
+T82	Test 2066 2068	血压
+T83	Disease 2076 2078	肝炎
+T84	Disease 2079 2081	结核
+T85	Test 2103 2105	体温
+T86	Test 2113 2115	脉搏
+T87	Test_Value 2116 2126	76 次 / min
+T88	Test 2127 2129	呼吸
+T89	Test_Value 2130 2140	24 次 / min
+T90	Test 2142 2144	血压
+T91	Test_Value 2145 2158	150 / 90 mmHg
+T92	Test 2160 2162	身高
+T93	Test_Value 2163 2169	160 cm
+T94	Test 2170 2172	体重
+T95	Test_Value 2173 2178	50 kg
+T96	Test 2179 2183	体重指数
+T97	Test_Value 2184 2190;2191 2198	22. 44 kg / m2
+T98	Symptom 2200 2204	神志淡漠
+T99	Symptom 2205 2208	精神差
+T100	Symptom 2209 2212	满月脸
+T101	Symptom 2213 2220	面部多血质外貌
+T102	Symptom 2221 2225;2226 2229	右侧颜面 部红肿
+T103	Symptom 2230 2236	局部皮温升高
+T104	Anatomy 2248 2253	右侧眼眶下
+T105	Anatomy 2257 2262	下颌骨上缘
+T106	Anatomy 2273 2277	右侧颧骨
+T107	Symptom 2288 2295	颈部脂肪垫明显
+T108	Symptom 2296 2301	无皮肤紫纹
+T109	Symptom 2302 2305	无多毛
+T110	Symptom 2306 2310	四肢消瘦
+T111	Symptom 2311 2313;2314 2316	皮肤 松弛
+T112	Symptom 2317 2323	甲状腺无肿大
+T113	Symptom 2324 2330	双肺呼吸音粗
+T114	Symptom 2331 2341	双肺底可闻及少量啰音
+T115	Test 2343 2345	心率
+T116	Test_Value 2346 2356	76 次 / min
+T117	Symptom 2357 2359	律齐
+T118	Symptom 2360 2367	心界向左下扩大
+T119	Symptom 2378 2381	腹平软
+T120	Symptom 2382 2388	局部未见紫纹
+T121	Symptom 2390 2398	肝脾触诊未及异常
+T122	Symptom 2399 2405	未及血管杂音
+T123	Symptom 2406 2407;2408 2413	双 下肢无水肿
+T124	Symptom 2414 2424	双侧足背动脉搏动对称
+T125	Anatomy 2425 2427	足趾
+T126	Disease 2433 2436;2437 2440	甲床真 菌感染
+T127	Disease 2461 2469	典型高皮质醇血症
+T128	Disease 2474 2475;2476 2480	库 欣综合征
+T129	Disease 2483 2488	肾上腺占位
+T130	Disease 2490 2494	面部感染
+T131	Disease 2501 2505;2506 2508	继发性糖 尿病
+T132	Disease 2509 2515	继发性高血压
+T133	Test 2530 2539	非促肾上腺皮质激素
+T134	Disease 2571 2584	ACTH)依赖性库欣综合征
+T135	Disease 2587 2591;2592 2595	肾上腺发 现肿块
+T136	Disease 2601 2606	库欣综合征
+T137	Test 2645 2649	ACTH
+T138	Disease 2663 2676	ACTH 依赖性库欣综合征
+T139	Disease 2685 2686;2687 2691	库 欣综合征
+T140	Disease 2698 2717;2718 2722	肾上腺肿物不能除外 ACTH 依赖的库 欣综合征
+T141	Test 2728 2732	ACTH
+T142	Symptom 2759 2765	右侧牙痛起病
+T143	Symptom 2774 2776	发热
+T144	Symptom 2777 2781	面部疼痛
+T145	Disease 2790 2792	感染
+T146	Anatomy 2802 2806	右侧面部
+T147	Disease 2838 2844	咽旁间隙感染
+T148	Symptom 2896 2902	咬肌部位压痛
+T149	Disease 2906 2912	咽旁间隙感染
+T150	Disease 2927 2931	咽部感染
+T151	Test 2937 2940;2941 2945	面部磁 共振检查
+T152	Disease 2952 2954	感染
+T153	Test 2965 2969	血电解质
+T154	Test_Value 2972 2986	4. 08 mmol / L
+T155	Test_Value 2989 3001	139 mmol / L
+T156	Test_Value 3004 3016	104 mmol / L
+T157	Test 3017 3018	钙
+T158	Test_Value 3019 3033	2. 18 mmol / L
+T159	Test 3034 3035	磷
+T160	Test_Value 3036 3050	0. 88 mmol / L
+T161	Test_Value 3056 3061;3062 3070	26. 2 mmol / L
+T162	Test 3072 3075	血常规
+T163	Test 3076 3081	白细胞计数
+T164	Test_Value 3082 3095	9. 26×109 / L
+T165	Test 3096 3101	中性粒细胞
+T166	Test_Value 3102 3108	84. 4%
+T167	Test 3113 3117	淋巴细胞
+T168	Test 3126 3131	红细胞计数
+T169	Test_Value 3132 3147	3. 95 ×1012 / L
+T170	Test 3148 3152	血红蛋白
+T171	Test_Value 3153 3162	119 g / L
+T172	Test 3163 3168	血小板计数
+T173	Test_Value 3169 3180	503×109 / L
+T174	Test 3185 3190	HBA1C
+T175	Test_Value 3191 3197	10. 4%
+T176	Test 3231 3233	尿量
+T177	Test 3243 3246	皮质醇
+T178	Test_Value 3256 3270	24. 86 μg / dl
+T179	Test_Value 3280 3294	22. 69 μg / dl
+T180	Test_Value 3305 3319	23. 79 μg / dl
+T181	Test 3320 3324;3325 3326	24 h 尿
+T182	Test 3348 3352	ACTH
+T183	Test_Value 3352 3373	8. 19 ~ 9. 55 pg / ml
+T184	Test 3378 3384;3385 3391	2 mg 地 塞米抑制试验
+T185	Test 3392 3396	血皮质醇
+T186	Test_Value 3397 3411	23. 49 μg / dl
+T187	Test 3412 3416	尿皮质醇
+T188	Test 3435 3437	心超
+T189	Test_Value 3438 3445	二尖瓣轻度反流
+T190	Symptom 3446 3450	左心扩大
+T191	Test 3452 3459	面部磁共振成像
+T192	Anatomy 3470 3481	右侧腮腺-咬肌区域占位
+T193	Anatomy 3482 3486	右颌下腺
+T194	Anatomy 3487 3491	咽旁间隙
+T195	Symptom 3496 3506	局部颜面部软组织肿胀
+T196	Symptom 3507 3513	脂肪间隙模糊
+T197	Test_Value 3527 3536	双侧上颌窦及筛窦炎
+T198	Test 3567 3575	腹部 CT 平扫
+T199	Test_Value 3577 3584	右肾上腺区占位
+T200	Disease 3585 3587;3588 3589	拟腺 瘤
+T201	Disease 3606 3612	左肾盂小结石
+T202	Disease 3622 3637	非 ACTH 依赖性库欣综合征
+T203	Disease 3640 3647	肾上腺皮质腺瘤
+T204	Symptom 3649 3655	咽旁间隙感染
+T205	Disease 3670 3674	面部感染
+T206	Disease 3678 3683	库欣综合征
+T207	Drug 3696 3699	甲硝唑
+T208	Drug 3700 3706	去甲万古霉素
+T209	Method 3708 3710	静脉
+T210	Drug 3710 3713	抗菌素
+T211	Test 3782 3786	尿皮质醇
+T212	Test_Value 3788 3790	升高
+T213	Test 3791 3798	皮质醇昼夜节律
+T214	Drug 3811 3815	地塞米松
+T215	Test 3821 3825	血皮质醇
+T216	Disease 3838 3843	库欣综合征
+T217	Test 3845 3849	ACTH
+T218	Test_Value 3852 3854	降低
+T219	Test 3855 3861	肾上腺 CT
+T220	Test_Value 3890 3893	高信号
+T221	Test_Value 3903 3913	低信号不被强化的病灶
+T222	Disease 3917 3921	面部感染
+T223	Disease 3950 3955	肾上腺占位
+T224	Disease 3971 3976	肾上腺萎缩
+T225	Test 3988 3994	肾上腺 CT
+T226	Disease 4004 4006	感染
+T227	Operation 4015 4020	肾上腺手术
+T228	Drug 4024 4027	酮康唑
+T229	Test 4048 4051	肝功能
+T230	Amount 4058 4064	400 mg
+T231	Frequency 4065 4072	2 次 / d
+T232	Duration 4073 4076	2 周
+T233	Test 4079 4082	肝功能
+T234	Test_Value 4082 4084	正常
+T235	Symptom 4089 4091	乏力
+T236	Symptom 4092 4094	纳差
+T237	Test 4104 4108	皮质醇血
+T238	Test_Value 4109 4123	21. 92 μg / dl
+T239	Test_Value 4126 4142	75. 90 μg / 24 h
+T240	Drug 4181 4184	酮康唑
+T241	Drug 4192 4195	酮康唑
+T242	Duration 4198 4202	1 个月
+T243	Test 4205 4209	血皮质醇
+T244	Test_Value 4210 4222	6. 7 μg / dl
+T245	Symptom 4228 4230	脱发
+T246	Anatomy 4231 4233	蜕皮
+T247	Symptom 4234 4237	胃纳差
+T248	Symptom 4238 4242	关节酸痛
+T249	Test 4248 4253	维生素 D
+T250	Drug 4255 4257	钙片
+T251	Drug 4264 4269	醋酸可的松
+T252	Amount 4270 4278	12. 5 mg
+T253	Method 4287 4289	口服
+T254	Test 4304 4307	皮质醇
+T255	Test 4308 4312	ACTH
+T256	Test 4321 4325	ACTH
+T257	Test_Value 4326 4328	升高
+T258	Test 4329 4330;4331 4334	血 皮质醇
+T259	Test_Value 4341 4354	5 ~ 6 μg / dl
+T260	Drug 4369 4370;4371 4373	酮 康唑
+T261	Drug 4374 4377	可的松
+T262	Operation 4386 4391	肾上腺手术
+T263	Anatomy 4401 4406	右侧肾上腺
+T264	Disease 4407 4411	皮质腺瘤
+T265	Drug 4425 4429;4430 4431	糖皮质激 素
+T266	Test 4446 4450	血皮质醇
+T267	Test_Value 4452 4464	7. 2 μg / dl
+T268	Test 4465 4468;4469 4470	尿皮质 醇
+T269	Test_Value 4472 4487	44. 6 μg / 24 h
+T270	Test 4491 4504	1 mg 地塞米松抑制试验
+T271	Test 4505 4509	血皮质醇
+T272	Test_Value 4516 4528	1. 6 μg / dl
+T273	Disease 4532 4535	库欣病
+T274	Disease 4551 4553	感染
+T275	Disease 4554 4559	库欣综合征
+T276	Disease 4594 4599	库欣综合征
+T277	Disease 4616 4619	库欣病
+T278	Disease 4628 4630	死亡
+T279	Disease 4631 4633	感染
+T280	Disease 4635 4637;4638 4641	心血 管疾病
+T281	Disease 4649 4654	库欣综合征
+T282	Test 4657 4661	高皮质醇
+T283	Disease 4681 4683	感染
+T284	Disease 4712 4717	库欣综合征
+T285	Disease 4725 4728;4729 4732	高皮质 醇血症
+T286	Anatomy 4743 4748	HPA 轴
+T287	Disease 4760 4762	感染
+T288	Anatomy 4776 4786	下丘脑-垂体-肾上腺
+T289	Disease 4789 4792	糖尿病
+T290	Drug 4813 4816;4817 4821	单纯糖 皮质激素
+T291	Symptom 4835 4840	近端肌无力
+T292	Symptom 4841 4843	纳差
+T293	Disease 4908 4914	咽旁间隙感染
+T294	Test 4952 4957	广谱抗菌素
+T295	Disease 4967 4971	真菌感染
+T296	Test 4977 4980	MRI
+T297	Disease 5042 5044	感染
+T298	Test 5055 5060	血尿皮质醇
+T299	Disease 5075 5088	高皮质醇状态诊断库欣综合征
+T300	Test 5096 5100	ACTH
+T301	Test_Value 5103 5109	低于正常低限
+T302	Drug 5125 5128;5129 5130	地塞米 松
+T303	Test 5136 5140	血皮质醇
+T304	Test_Value 5148 5160	2 μg / dl 以下
+T305	Test 5168 5171	皮质醇
+T306	Test 5202 5210	肾上腺影像学检查
+T307	Disease 5212 5226	非 ACTH 依赖库欣综合征
+T308	Disease 5227 5230;5231 5233	肾上腺 腺瘤
+T309	Disease 5260 5264;5265 5267	高皮质醇 血症
+T310	Level 5268 5270	严重
+T311	Disease 5270 5272	感染
+T312	Test 5320 5321;5322 5324	皮 质醇
+T313	Disease 5329 5335	凝血功能异常
+T314	Symptom 5336 5342	精神状态异常
+T315	Drug 5375 5378;5379 5380	氨鲁米 特
+T316	Drug 5381 5384	酮康唑
+T317	Drug 5385 5388	甲吡酮
+T318	Drug 5389 5392	米托坦
+T319	Drug 5393 5397	米非司酮
+T320	Drug 5398 5402	依托咪酯
+T321	Drug 5438 5441	酮康唑
+T322	Drug 5443 5447	米非司酮
+T323	Test 5454 5457	皮质醇
+T324	Anatomy 5468 5469;5470 5476	糖 皮质激素受体
+T325	Test 5497 5498;5499 5501	皮 质醇
+T326	Drug 5521 5526	糖皮质激素
+T327	Drug 5529 5534	糖皮质激素
+T328	Drug 5554 5557	酮康唑
+T329	Drug 5561 5564	酮康唑
+T330	Disease 5567 5572	肝功能损伤
+T331	Disease 5575 5580	库欣综合征
+T332	Duration 5605 5612	1 ~ 2 周
+T333	Test 5618 5620;5621 5622	肝功 能
+T334	Disease 5625 5628	肝损伤
+T335	Drug 5648 5651	酮康唑
+T336	Test 5653 5656	皮质醇
+T337	Disease 5669 5678	肾上腺皮质功能减退
+T338	Drug 5691 5693;5694 5697	糖皮 质激素
+T339	Drug 5709 5712	酮康唑
+T340	Test 5715 5722;5723 5725	垂体-肾上腺轴 功能
+T341	Disease 5737 5742	肾上腺肿瘤
+T342	Drug 5749 5750;5751 5755	糖 皮质激素
+T343	Test 5775 5778	皮质醇
+T344	Drug 5800 5803	酮康唑
+T345	Drug 5818 5822	米菲司酮

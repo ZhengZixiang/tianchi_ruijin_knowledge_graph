@@ -1,0 +1,251 @@
+T1	Disease 4136 4144	糖尿病视网膜病变
+T2	Disease 6239 6247	糖尿病视网膜病变
+T3	Disease 2069 2076	糖尿病神经病变
+T4	Disease 2537 2541;2542 2544	1 型糖 尿病
+T5	Disease 50 56	2 型糖尿病
+T6	Disease 110 116	2 型糖尿病
+T7	Disease 158 164	2 型糖尿病
+T8	Disease 475 481	2 型糖尿病
+T9	Disease 2447 2453	2 型糖尿病
+T10	Disease 3863 3869	2 型糖尿病
+T11	Disease 3942 3948	2 型糖尿病
+T12	Disease 3926 3927;3928 3932	2 型糖尿病
+T13	Disease 4149 4150;4151 4155	糖 尿病肾病
+T14	Test 245 250	HBA1C
+T15	Test 1204 1209	HBA1C
+T16	Test 2769 2774	HBA1C
+T17	Test 3318 3323	HBA1C
+T18	Test 3567 3572	HBA1C
+T19	Test 4667 4672	HBA1C
+T20	Test 5955 5960	HBA1C
+T21	Test 2731 2736	HDL-C
+T22	Test 3330 3335	HDL-C
+T23	Test 4706 4711	HDL-C
+T24	Test 5243 5248	HDL-C
+T25	Test 2748 2753	LDL-C
+T26	Test 3336 3341	LDL-C
+T27	Test 4723 4728	LDL-C
+T28	Test 5295 5300	LDL-C
+T29	Disease 2110 2112;2113 2115	糖尿 病足
+T30	Test 2674 2678	空腹血糖
+T31	Test 2690 2692	TC
+T32	Test 3327 3329	TC
+T33	Test 4692 4694	TC
+T34	Test 5217 5219	TC
+T35	Test 2706 2708	TG
+T36	Test 3324 3326	TG
+T37	Test 4678 4680	TG
+T38	Test 5196 5198	TG
+T39	Test 5249 5258	高密度脂蛋白胆固醇
+T40	Test 2738 2747	低密度脂蛋白胆固醇
+T41	Test 5301 5307;5308 5311	低密度脂蛋白 胆固醇
+T42	Test 2684 2688	总胆固醇
+T43	Test 5220 5224	总胆固醇
+T44	Test 3299 3303	体重指数
+T45	Test 5089 5093	体重指数
+T46	Test 3304 3307	收缩压
+T47	Test 5114 5117	收缩压
+T48	Test 3308 3311	舒张压
+T49	Test 5167 5170	舒张压
+T50	Test 254 258	肝肾功能
+T51	Test 2680 2683	肾功能
+T52	Disease 132 141	糖尿病周围神经病变
+T53	Disease 183 192	糖尿病周围神经病变
+T54	Disease 201 206;207 211	糖尿病周围 神经病变
+T55	Disease 263 272	糖尿病周围神经病变
+T56	Disease 294 303	糖尿病周围神经病变
+T57	Disease 385 394	糖尿病周围神经病变
+T58	Disease 448 457	糖尿病周围神经病变
+T59	Disease 518 527	糖尿病周围神经病变
+T60	Disease 2153 2162	糖尿病周围神经病变
+T61	Disease 2378 2382;2383 2388	糖尿病周 围神经病变
+T62	Disease 3810 3819	糖尿病周围神经病变
+T63	Disease 4183 4192	糖尿病周围神经病变
+T64	Disease 4218 4227	糖尿病周围神经病变
+T65	Disease 4990 4999	糖尿病周围神经病变
+T66	Disease 5038 5047	糖尿病周围神经病变
+T67	Test 5199 5203	甘油三酯
+T68	Disease 2020 2023	DPN
+T69	Disease 2081 2084	DPN
+T70	Disease 2141 2144	DPN
+T71	Disease 2332 2335	DPN
+T72	Disease 2517 2520	DPN
+T73	Disease 2525 2528	DPN
+T74	Disease 2833 2836	DPN
+T75	Disease 2870 2873	DPN
+T76	Disease 3084 3087	DPN
+T77	Disease 3355 3358	DPN
+T78	Disease 3369 3372	DPN
+T79	Disease 3399 3402	DPN
+T80	Disease 3422 3425	DPN
+T81	Disease 3637 3640	DPN
+T82	Disease 3650 3653	DPN
+T83	Disease 4369 4372	DPN
+T84	Disease 4499 4502	DPN
+T85	Disease 4759 4762	DPN
+T86	Disease 4986 4989	DPN
+T87	Disease 5350 5353	DPN
+T88	Disease 5361 5364	DPN
+T89	Disease 5443 5446	DPN
+T90	Disease 5474 5477	DPN
+T91	Disease 5619 5622	DPN
+T92	Disease 5671 5674	DPN
+T93	Disease 5702 5705	DPN
+T94	Disease 5711 5714	DPN
+T95	Disease 5747 5750	DPN
+T96	Disease 5808 5811	DPN
+T97	Disease 5913 5916	DPN
+T98	Disease 5970 5973	DPN
+T99	Disease 5981 5984	DPN
+T100	Disease 6009 6012	DPN
+T101	Disease 6024 6027	DPN
+T102	Disease 6093 6096	DPN
+T103	Disease 6205 6208	DPN
+T104	Disease 6420 6423	DPN
+T105	Disease 6445 6448	DPN
+T106	Disease 6488 6491	DPN
+T107	Disease 6528 6531	DPN
+T108	Test 4463 4466	BMI
+T109	Test 5085 5088	BMI
+T110	Test 2624 2626	身高
+T111	Test 2627 2629	体重
+T112	Drug 4961 4966	维生素 D
+T113	Drug 5428 5433	维生素 D
+T114	Disease 1978 1986;1987 1988	糖尿病周围神经病 变
+T115	Disease 2245 2250	心血管疾病
+T116	Test 5998 6000	血糖
+T117	Test 6071 6073	血糖
+T118	Test 6140 6142	血糖
+T119	Disease 56 60;61 63	周围神经 病变
+T120	Test 251 253	血脂
+T121	Test 372 381	25 羟维生素 D
+T122	Disease 483 489	周围神经病变
+T123	Disease 1942 1945	糖尿病
+T124	Disease 1958 1961;1962 1967	糖尿病 慢性并发症
+T125	Disease 2025 2028	糖尿病
+T126	Disease 2038 2044	微血管并发症
+T127	Disease 2056 2059	糖尿病
+T128	Symptom 2092 2100	肢体末端麻木不适
+T129	Symptom 2101 2105	感觉减退
+T130	Disease 2242 2244	肿瘤
+T131	Disease 2251 2254	糖尿病
+T132	Disease 2255 2264	糖尿病微血管并发症
+T133	Anatomy 2301 2306	神经元细胞
+T134	Test 2366 2374	25-(OH)D
+T135	Disease 2503 2507	神经病变
+T136	Disease 2545 2551	妊娠期糖尿病
+T137	Disease 2552 2558	肝肾功能不全
+T138	Level 2559 2561	严重
+T139	Disease 2568 2573	周围血管病
+T140	Test 2592 2600	25-(OH)D
+T141	Disease 2616 2619	糖尿病
+T142	Test 2696 2703	甘 油 三 酯
+T143	Test 2712 2729	高 密 度 脂 蛋 白 胆 固 醇
+T144	Test 2843 2852	密歇根神经病变评分
+T145	Test 2856 2860	MNSI
+T146	Test 2862 2868	神经传导速度
+T147	Symptom 2953 2967	第一足趾、足背、足底感觉减退
+T148	Test 2969 2970;2971 2973	肌 电图
+T149	Test 3010 3013	肌电图
+T150	Test 3000 3003	肌电图
+T151	Test_Value 3048 3052	≥3 分
+T152	Symptom 3054 3058	感觉异常
+T153	Symptom 3060 3062	麻木
+T154	Symptom 3063 3065	疼痛
+T155	Symptom 3066 3068	刺痛
+T156	Disease 3077 3081	神经病变
+T157	Disease 3360 3363	糖尿病
+T158	Test 3490 3498	25-(OH)D
+T159	Disease 3520 3523	糖尿病
+T160	Disease 3560 3563	糖尿病
+T161	Test 3626 3634	25-(OH)D
+T162	Disease 3670 3671;3672 3674	糖 尿病
+T163	Test 3677 3679	血压
+T164	Test 3680 3682	血脂
+T165	Test 3683 3694	血清 25-(OH)D
+T166	Test 3738 3748	血清25-(OH)D
+T167	Disease 3888 3891	糖尿病
+T168	Reason 3916 3924	维生素 D 缺乏
+T169	Disease 3980 3984;3985 3989	糖尿病慢 性并发症
+T170	Disease 4019 4022	糖尿病
+T171	Disease 4039 4046;4047 4049	糖尿病微血管并 发症
+T172	Disease 4065 4071;4072 4075	糖尿病微血管 并发症
+T173	Disease 4081 4092	糖尿病增殖期视网膜病变
+T174	Test 4097 4108	血清 25-(OH)D
+T175	Disease 4156 4165	糖尿病大血管并发症
+T176	Disease 5404 5413	糖尿病痛性神经病变
+T177	Duration 5437 5441	3 个月
+T178	Test 5450 5456	疼痛症状评分
+T179	Disease 5537 5540	糖尿病
+T180	Test 5554 5565	血清 25-(OH)D
+T181	Test 5586 5597	血清 25-(OH)D
+T182	Test_Value 5598 5601;5602 5609	<30 ng / ml
+T183	Disease 5611 5614	糖尿病
+T184	Test 5646 5657	血清 25-(OH)D
+T185	Test_Value 5657 5668	<20 ng / ml
+T186	Test 5717 5728	血清 25-(OH)D
+T187	Reason 5792 5805	血清 25-( OH) D
+T188	Disease 5948 5951	糖尿病
+T189	Disease 5988 5991	糖尿病
+T190	Disease 6076 6079	糖尿病
+T191	Disease 6159 6162	糖尿病
+T192	Disease 6248 6251;6252 6256	糖尿病 肾脏病变
+T193	Anatomy 6281 6285	神经系统
+T194	Anatomy 6349 6353	神经细胞
+T195	Anatomy 6386 6387;6388 6393	周 围神经细胞
+T196	Anatomy 6406 6410	神经细胞
+T197	Drug 5397 5402	维生素 D
+T198	Test 5479 5484	维生素 D
+T199	Test_Value 307 321	12. 73 ± 4. 68
+T200	Test_Value 324 337	17. 56 ±5. 28
+T201	Test 2205 2206	钙
+T202	Test 2206 2207	磷
+T203	Anatomy 2210 2211	骨
+T204	Test 2237 2240	维生素
+T205	Test 2289 2295	神经营养因子
+T206	Disease 2561 2566	心脑血管病
+T207	Anatomy 2647 2650	静脉血
+T208	Test 6120 6126	胰岛素敏感性
+T209	Test 6129 6132	胰岛素
+T210	Anatomy 6288 6290	神经
+T211	Anatomy 6324 6326	神经
+T212	Anatomy 6326 6328	肌肉
+T213	Anatomy 6396 6401	神经感受器
+T214	Reason 439 447	维生素 D 缺乏
+T215	Symptom 3971 3979	维生素 D 缺乏
+T216	Test 4123 4125;4126 4131	血清 维生素 D
+T217	Test_Value 5550 5553	低水平
+T218	Disease 5736 5743;5744 5745	维生素 D 缺 乏
+T219	Symptom 5903 5911	维生素 D 缺乏
+T220	Disease 6014 6022	维生素 D 缺乏
+T221	Disease 6435 6443	维生素 D 缺乏
+T222	Disease 6518 6526	维生素 D 缺乏
+T223	Test 3956 3961	维生素 D
+T224	Reason 463 466;467 471	维生素 D 水平
+T225	Test 38 45	血清维生素 D
+T226	Test 119 128	25 羟维生素 D
+T227	Test 228 240	血清 25 羟维生素 D
+T228	Test 274 286	血清 25 羟维生素 D
+T229	Test 2352 2365	血清 25 羟维生素 D3
+T230	Test 2786 2788;2789 2797	血清 25-(OH)D
+T231	Symptom 2904 2907	膝反射
+T232	Symptom 2909 2912	踝反射
+T233	Symptom 2913 2919	震动觉的减弱
+T234	Test 3015 3021	运动传导速度
+T235	Test 3022 3028	感觉传导速度
+T236	Test 3041 3048	MNSI 评分
+T237	Test_Value 3032 3038	≥2 项减慢
+T238	Test 3404 3415	血清 25-(OH)D
+T239	Test 3545 3556	血清 25-(OH)D
+T240	Test 3795 3805	血清25-(OH)D
+T241	Test 3872 3883	血清 25-(OH)D
+T242	Disease 5567 5570	糖尿病
+T243	Symptom 5570 5571;5572 5579	复 合神经感觉异常
+T244	Symptom 5580 5583	麻木感
+T245	Test 5879 5887	25-(OH)D
+T246	Test 5936 5944	25-(OH)D
+T247	Anatomy 6332 6337	神经元细胞
+T248	Anatomy 6338 6340	髓鞘
+T249	Disease 6372 6380	维生素 D 缺乏
+T250	Disease 6476 6479;6480 6484	维生素 D 缺乏
+T251	Test 4052 4059	血清维生素 D

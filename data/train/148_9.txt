@@ -1,0 +1,153 @@
+临床研究
+基金项目:南京市卫生局基金项目(YKK13195)
+血脂水平对胰岛功能的影响在 2 型糖尿病和正常人群中存在
+差异
+郭雯  李杰  王亚梅  陈晓倩  上官海燕  欣冰
+[提要]   研究血脂对胰岛功能的影响在 2 型糖尿病及正常人群中是否表现不同。 结果表明,在正常
+人群中,处置指数(DI)0 与高密度脂蛋白胆固醇(HDL-C)呈正相关,DI30 与总胆固醇( TC)、甘油三酯
+(TG)、低密度脂蛋白胆固醇(LDL-C)呈负相关,DI120 与 TC、LDL-C 呈负相关;在 2 型糖尿病中,DI0 与 TC、
+LDL-C 呈负相关,DI30 与 TC、TG、LDL-C、TG / HDL-C 呈负相关,DI120 与 TC、TG、LDL-C、TG / HDL-C 呈负相
+关。
+[关键词]   胰岛 β 细胞功能; 血脂; 糖尿病, 2 型
+Different effects of lipid components on insulin secretion in patients with type 2 diabetes and subjects with
+normal glucose metabolism Guo Wen, Li Jie, Wang Yamei, Chen Xiaoqian, Shangguan Haiyan, Xin Bing.
+Department of Endocrinology, Nanjing Municipal Hospital for Governmental Organizations, Nanjing 210018, China
+[Summary]  The effects of lipid components on insulin secretion in patients with type 2 diabetes(T2DM) and
+control subjects were explored. The results demonstrated that in control group, disposal index(DI)0 was positively
+correlated with high density cholesterol(HDL-C), while DI30 was negatively correlated with total cholesterol(TC),
+triglycerides( TG) and low density cholesterol ( LDL-C), and DI120 was also negatively correlated with TC and
+LDL-C. In T2DM group, DI0 was negatively correlated with TC and LDL-C, DI30 was negatively correlated with TC,
+TG, LDL-C and TG / HDL-C, DI120 was negatively correlated with TC, TG, LDL-C and TG / HDL-C.
+[Key words]  Pancreatic β cell function; Blood lipid; Diabetes mellitus, type 2
+(Chin J Endocrinol Metab, 2015, 31: 599-600)
+2 型糖尿病患者(T2DM)多数伴有脂代谢紊乱,国内外关
+于脂质对 β 细胞功能影响的研究已有报道,但是关于脂质各组
+分对 β 细胞功能的影响及这些影响在 T2DM 和正常人群中是
+否存在差异的研究少有报道。 为此本研究主要探讨 T2DM 及
+正常人群中血脂水平对 β 细胞功能的影响以及这些影响在这
+两种人群中是否表现不同,完善“脂毒性冶理论,对糖尿病的防
+治具有重要价值。
+一、 对象和方法
+1. 对象:选取 510 例初诊 T2DM(T2DM 组)及 554 名健康
+人群为对照组。 所有人群均行口服 75 g 葡萄糖耐量试验,2 型
+糖尿病的诊断参照 1999 年世界卫生组织标准,排除甲状腺疾
+病、肝、肾等与脂代谢紊乱相关疾病的患者,排除有服用降脂药
+及其他影响血脂代谢药物病史的患者。
+2. 方法:(1)标本的收集与保存。 所有研究对象均为空腹
+12 h 以上,收集空腹血样本及糖负荷后 30 和 120 min 血样本 3
+ml,4℃ 离心(3 000 转 / min) 15 min,分离血清并分装保存于
+-80℃。(2)体格检查和生化检测。 按国际标准测定身高、体重
+等。 用全自动生化分析仪测定常规生化指标。 用放射免疫法
+测定胰岛素水平,所有步骤均参照产品说明书。 (3)计算公式。
+稳态模型评估的胰岛素分泌指数(HOMA-β) = 20 ×空腹胰岛
+素 / (空腹血糖 - 3. 5 );稳态模型评估的胰岛素抵抗指数
+(HOMA-IR)= (空腹血糖×空腹胰岛素) / 22. 5; Matsuda index =
+1 000 / (空腹血糖×空腹胰岛素×平均 OGTT 血糖×平均 OGTT 胰
+岛素) 1 / 2,表示全身胰岛素敏感指数;处置指数(DI)0 = HOMA-
+β / HOMA-IR,表示校正胰岛素抵抗指数后基础胰岛素分泌能
+力;DI30 = ( InsAUC30 / GluAUC30) ×Matsuda index,表示校正胰
+岛素抵抗指数后早时相胰岛素分泌能力;DI120 = (InsAUC120 /
+GluAUC120)×Matsuda index,表示校正胰岛素抵抗指数后总体
+胰岛素分泌能力;所有计算方法参照文献报道[1]。
+3. 统计学处理:采用 SPSS 18. 0 统计软件进行分析,结果
+以 x-± s 表示,两组之间比较采用 t 检验,胰岛功能与其他变量的
+相关分析采用 Pearson 相关,并对胰岛功能与其他变量的关系
+进行多元逐步回归分析。 P<0. 05 为差异有统计学意义。
+二、 结果
+1. T2DM 组和对照组一般资料、血脂水平及胰岛功能的结
+果:T2DM 组体重指数(BMI)、总胆固醇(TC)、甘油三酯(TG)、
+低密度脂蛋白胆固醇 ( LDL-C)、 TG /高密度脂蛋白胆固醇
+(HDL-C)均高于对照组,而 HDL-C、DI0、DI30、DI120 均低于对
+照组(P<0. 05);两组的年龄无明显差异(表 1)。
+2. T2DM 组和对照组胰岛功能与血脂及其他指标的关系:
+Pearson 相关分析提示在正常人群中,DI0 与 HDL-C 呈正相关,
+DI30 与 TC、TG、LDL-C 呈负相关,DI120 与 TC、LDL-C 呈负相关
+表 1  2 型糖尿病组和对照组一般资料及胰岛功能的特点(x-± s)
+组别 例数 年龄(岁)
+BMI
+(kg / m2)
+TC
+(mmol / L)
+TG
+(mmol / L)
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L) TG / HDL-C DI0 DI30 DI120
+对照组 554 56. 5 ± 8. 1 23. 6 ± 3. 0 4. 7 ± 0. 7 1. 3 ± 0. 8 2. 7 ± 0. 5 1. 4 ± 0. 3 1. 1 ± 0. 9 48. 6 ± 13. 8 142. 4 ± 47. 1 182. 6 ± 61. 3
+T2DM 组 510 55. 6 ± 12. 4 25. 7 ± 14. 9b 4. 9 ± 1. 0a 1. 8 ± 1. 9b 3. 1 ± 0. 7b 1. 1 ± 0. 2b 1. 8 ± 2. 2b 18. 1 ± 16. 0b 41. 1 ± 22. 0b 53. 2 ± 33. 4b
+注: T2DM: 2 型糖尿病; BMI: 体重指数; TC: 总胆固醇; TG: 甘油三酯; LDL-C: 低密度脂蛋白胆固醇; HDL-C: 高密度脂蛋白胆固醇; DI: 处置
+指数; 与对照组比较,aP<0. 05, bP<0. 01
+表 2  2 型糖尿病组和对照组胰岛功能与血脂及其他指标的相关性( r 值)
+组别 例数 年龄
+BMI
+(kg / m2)
+TC
+(mmol / L)
+TG
+(mmol / L)
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L) TG / HDL-C
+对照组
+DI0 554 -0. 086 -0. 146b 0. 019 -0. 072 0. 006 0. 108a -0. 097
+DI30 554 -0. 111b -0. 014 -0. 133b -0. 084a -0. 114b -0. 021 -0. 085
+DI120 554 -0. 086a 0. 005 -0. 127b -0. 066 -0. 128b 0. 014 -0. 070
+2 型糖尿病组
+DI0 510 0. 041 -0. 033 -0. 108a -0. 095 -0. 111a 0. 028 -0. 091
+DI30 510 0. 013 -0. 067 -0. 168b -0. 164b -0. 176b 0. 049 -0. 156b
+DI120 510 0. 023 -0. 059 -0. 159b -0. 116a -0. 163b 0. 053 -0. 106a
+注: 略语同表 1; aP<0. 05,bP<0. 01
+(P<0. 05);在 T2DM 患者中,DI0 与 TC、LDL-C 呈负相关,DI30
+与 TC、 TG、 LDL-C、 TG / HDL-C 呈负相关, DI120 与 TC、 TG、
+LDL-C、TG / HDL-C 呈负相关(P<0. 05,表 2)。 多元逐步回归分
+析提示,在 T2DM 患者中,DI0 与 LDL-C(β= -0. 116,P= 0. 019)
+密切相关,DI30 与 LDL-C(β = -0. 164,P = 0. 001)、TG / HDL-C
+(β= -0. 137,P=0. 005)密切相关,DI120 与 LDL-C(β= -0. 165,
+P=0. 001)密切相关;在正常人群中,DI0 与血脂无相关性,DI30
+与 TC( β = - 0. 129,P = 0. 003) 密切相关,DI120 与 TC ( β =
+-0. 133,P=0. 002)密切相关。
+三、 讨论
+本研究发现,正常人群中 TG 仅与 DI30 呈负相关,而 T2DM
+中 TG 与 DI30、DI120 呈负相关,提示 TG 对 β 细胞的脂毒性作
+用主要表现在 T2DM 中,并且主要影响胰岛素的早相分泌和总
+体分泌,造成这一差异的原因可能是 T2DM 血清 TG 高于正常
+人群。 我们推测 T2DM 血清高水平的 TG 异位蓄积在这些患者
+的胰岛内,影响胰岛内糖的利用和氧化,胰岛素分泌受损。
+胆固醇通过影响 β 细胞内葡萄糖激酶活性、细胞膜上脂质
+筏的结构和诱导 β 细胞凋亡等途径影响胰岛素的分泌。 本研
+究发现在正常人群中,TC 与 DI30、DI120 呈负相关,而在 T2DM
+中 TC 与 DI0、DI30、DI120 均呈负相关,提示 TC 在正常人群及
+T2DM 中对 β 细胞的脂毒性作用相似,主要影响胰岛素的早相
+分泌及总体分泌。 我们推测循环中过多的 TC 一方面通过胰岛
+表面相关受体进入胰岛内,引起胰岛内胆固醇蓄积,降低葡萄
+糖激酶活性,诱导 β 细胞凋亡,减少胰岛素分泌,另一方面循环
+中过多的 TC 蓄积在 β 细胞膜上,改变脂质筏的结构,影响分泌
+胰岛素的囊泡胞吐过程,进而影响胰岛素分泌。
+LDL-C 浓度在 1. 6 ~ 3. 1 mmol / L 时孵育 β 细胞并不能导
+致其凋亡,当 LDL-C 浓度大于 6 mmol / L 时能导致其凋亡[2] ,可
+见 LDL-C 的浓度对其影响 β 细胞功能起到一定作用。 本研究
+发现在正常人群中, LDL-C 与 DI30、DI120 呈负相关,而在
+T2DM 中 LDL-C 与 DI0、DI30、DI120 均呈负相关,提示 LDL-C
+在正常人群及 T2DM 患者中对 β 细胞的脂毒性作用存在一定
+的差异,其主要原因是 T2DM 血清 LDL-C 水平高于正常人群,
+加剧了氧化应激过程,诱发 β 细胞功能障碍和凋亡。
+HDL 为细胞内胆固醇的主要受体,对 β 细胞功能有保护作
+用。 注射重组 rHDL 至 T2DM 患者体内,其胰岛素分泌增加,血
+糖水平降低,骨骼肌葡萄糖摄取增加。 服用 CETP 抑制剂
+者[3] ,血清 HDL-C 水平增加,胰岛 β 细胞功能改善,餐后胰岛
+素分泌增加。 本研究发现 HDL-C 在正常人群中仅与 DI0 呈正
+相关,对 T2DM 的 β 细胞功能无影响,本研究仅测定 HDL-C 水
+平,并没有测定 HDL 的分子大小及组成成分,我们推测 T2DM
+高水平的血清胆固醇使得 HDL 携带更多的胆固醇,影响 HDL
+的分子大小及成分改变,从而失去了对 β 细胞功能的保护作
+用。
+在 T2DM 患者中,TG / HDL-C 与胰岛素分泌减少、β 细胞功
+能障碍、血糖控制差密切相关,在正常人群中 TG / HDL-C 与 β
+细胞功能无明显相关性[4] ,这与本研究结果基本一致,说明血
+脂对胰岛功能的影响在正常人群和 T2DM 中存在不同的病理
+生理机制。
+本研究结果表明血脂各组分均能影响 β 细胞功能,但在正
+常人群及 T2DM 患者中存在一定的差异,具体机制尚不明确,
+积极地采取降脂措施有利于改善 β 细胞功能。

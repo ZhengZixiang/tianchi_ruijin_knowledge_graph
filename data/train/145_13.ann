@@ -1,0 +1,195 @@
+T1	Disease 40 46	2 型糖尿病
+T2	Disease 107 113	2 型糖尿病
+T3	Disease 146 152	2 型糖尿病
+T4	Disease 271 277	2 型糖尿病
+T5	Disease 525 531	2 型糖尿病
+T6	Disease 2540 2546	2 型糖尿病
+T7	Disease 2707 2713	2 型糖尿病
+T8	Disease 2883 2889	2 型糖尿病
+T9	Disease 4447 4453	2 型糖尿病
+T10	Disease 4503 4509	2 型糖尿病
+T11	Disease 4982 4988	2 型糖尿病
+T12	Disease 5562 5568	2 型糖尿病
+T13	Disease 5599 5605	2 型糖尿病
+T14	Disease 5855 5861	2 型糖尿病
+T15	Disease 6161 6167	2 型糖尿病
+T16	Disease 6276 6282	2 型糖尿病
+T17	Disease 2798 2799;2800 2804	2 型糖尿病
+T18	Test 440 445	HBA1C
+T19	Test 2641 2646	HBA1C
+T20	Test 3161 3166	HBA1C
+T21	Test 3296 3301	HBA1C
+T22	Test 4882 4887	HBA1C
+T23	Test 5711 5716	HBA1C
+T24	Test 424 428	体重指数
+T25	Test 3156 3160	体重指数
+T26	Test 3274 3278	体重指数
+T27	Test 4850 4854	体重指数
+T28	Test 5679 5683	体重指数
+T29	Disease 48 50	抑郁
+T30	Drug 93 96	胰岛素
+T31	Drug 97 103	口服降糖药物
+T32	Disease 115 117	抑郁
+T33	Disease 248 249;250 251	抑 郁
+T34	Disease 286 288	抑郁
+T35	Drug 301 303;304 305	胰岛 素
+T36	Drug 316 319	胰岛素
+T37	Drug 361 364	胰岛素
+T38	Disease 429 432	糖尿病
+T39	Drug 451 454	胰岛素
+T40	Disease 455 457	抑郁
+T41	Disease 533 535	抑郁
+T42	Disease 2506 2509	糖尿病
+T43	Disease 2511 2513	抑郁
+T44	Disease 2550 2552	抑郁
+T45	Disease 2558 2561	糖尿病
+T46	Disease 2578 2580	抑郁
+T47	Disease 2599 2602	糖尿病
+T48	Disease 2651 2654	糖尿病
+T49	Disease 2654 2656	抑郁
+T50	Disease 2671 2673	抑郁
+T51	Drug 2694 2697	胰岛素
+T52	Drug 2698 2702	口服药物
+T53	Disease 2715 2717	抑郁
+T54	Drug 2902 2905	胰岛素
+T55	Disease 2929 2934	甲状腺疾病
+T56	Disease 2937 2938;2939 2944	神 经系统疾病
+T57	Disease 2945 2948	精神病
+T58	Disease 2951 2959	肝、肾等慢性疾病
+T59	Disease 2961 2967;2968 2970	糖尿病急性并 发症
+T60	Disease 2971 2979	严重的慢性并发症
+T61	Drug 2994 2997	胰岛素
+T62	Drug 3025 3028	胰岛素
+T63	Drug 3036 3039	胰岛素
+T64	Drug 3052 3055	胰岛素
+T65	Drug 3059 3062;3063 3065	口服降 糖药
+T66	Disease 3136 3139	糖尿病
+T67	Disease 3143 3146	糖尿病
+T68	Disease 3149 3155	糖尿病并发症
+T69	Level 4273 4275	轻度
+T70	Disease 4275 4277	抑郁
+T71	Disease 4290 4292	抑郁
+T72	Disease 4303 4305	抑郁
+T73	Level 4288 4290	中度
+T74	Level 4301 4303	重度
+T75	Disease 4531 4533	抑郁
+T76	Disease 4565 4567	抑郁
+T77	Level 4562 4565	中重度
+T78	Drug 4590 4593	胰岛素
+T79	Drug 4596 4600	口服药物
+T80	Drug 4625 4629	口服药物
+T81	Drug 4633 4636	胰岛素
+T82	Disease 4662 4665	高血压
+T83	Disease 4667 4669	抑郁
+T84	Disease 4694 4696	抑郁
+T85	Drug 4703 4707	口服药物
+T86	Drug 4773 4777	口服药物
+T87	Drug 4782 4785	胰岛素
+T88	Disease 4869 4872	糖尿病
+T89	Disease 4875 4878	糖尿病
+T90	Disease 4969 4971	抑郁
+T91	Disease 4991 4993	抑郁
+T92	Disease 5017 5019	抑郁
+T93	Disease 5039 5041	抑郁
+T94	Disease 5060 5062	抑郁
+T95	Level 5056 5060	中、重度
+T96	Level 5037 5039	轻度
+T97	Drug 5079 5080;5081 5083	胰 岛素
+T98	Drug 5085 5089	口服药物
+T99	Disease 5094 5096	抑郁
+T100	Drug 5111 5114	胰岛素
+T101	Disease 5130 5132	抑郁
+T102	Level 5122 5124	轻度
+T103	Level 5126 5130	中、重度
+T104	Drug 5141 5145	口服药物
+T105	Disease 5182 5185	糖尿病
+T106	Disease 5415 5416;5417 5418	抑 郁
+T107	Disease 5419 5422	糖尿病
+T108	Symptom 5444 5447;5448 5449	情绪低 落
+T109	Symptom 5450 5461	对事物失去兴趣或愉快感
+T110	Symptom 5462 5467	自我评价低
+T111	Symptom 5479 5483	思维迟钝
+T112	Symptom 5484 5491	注意力难以集中
+T113	Disease 5498 5500	抑郁
+T114	Disease 5512 5515	糖尿病
+T115	Drug 5532 5535	胰岛素
+T116	Disease 5539 5542	糖尿病
+T117	Drug 5592 5595	胰岛素
+T118	Disease 5607 5609	抑郁
+T119	Drug 5637 5640	胰岛素
+T120	Disease 5643 5645	抑郁
+T121	Disease 5698 5701	糖尿病
+T122	Disease 5704 5707	糖尿病
+T123	Drug 5725 5729	口服药物
+T124	Drug 5733 5736	胰岛素
+T125	Drug 5802 5805	胰岛素
+T126	Disease 5808 5811	糖尿病
+T127	Drug 5834 5837	胰岛素
+T128	Disease 5842 5844	抑郁
+T129	Drug 5872 5875	胰岛素
+T130	Drug 5903 5906	胰岛素
+T131	Drug 5934 5937	胰岛素
+T132	Drug 5947 5950	胰岛素
+T133	Drug 5971 5974	胰岛素
+T134	Drug 6062 6065	胰岛素
+T135	Disease 6069 6071	抑郁
+T136	Disease 6080 6082	抑郁
+T137	Level 6096 6098	轻度
+T138	Level 6100 6104	中、重度
+T139	Disease 6104 6106	抑郁
+T140	Drug 6223 6226	胰岛素
+T141	Disease 6229 6231	抑郁
+T142	Disease 6241 6244	糖尿病
+T143	Drug 6269 6272	胰岛素
+T144	Disease 6284 6286	抑郁
+T145	Drug 6298 6302	口服药物
+T146	Disease 6307 6309	抑郁
+T147	Drug 6333 6336	胰岛素
+T148	Disease 6339 6342	糖尿病
+T149	Disease 6360 6363	糖尿病
+T150	Disease 177 179	抑郁
+T151	Drug 293 297	口服药物
+T152	Disease 308 310	抑郁
+T153	Drug 329 333	口服药物
+T154	Drug 382 386	口服药物
+T155	Drug 463 467	口服药物
+T156	Disease 3178 3180	抑郁
+T157	Disease 3194 3196	抑郁
+T158	Drug 3337 3341	口服药物
+T159	Drug 3445 3448	胰岛素
+T160	Disease 3603 3606	糖尿病
+T161	Drug 3610 3614	口服药物
+T162	Drug 3708 3711	胰岛素
+T163	Disease 3871 3874	高血压
+T164	Drug 3977 3980	胰岛素
+T165	Disease 4081 4083	抑郁
+T166	Drug 4089 4093	口服药物
+T167	Disease 5189 5196	慢性终身性疾病
+T168	Drug 5213 5216	胰岛素
+T169	Drug 5218 5222	口服药物
+T170	Disease 5225 5227	抑郁
+T171	Disease 5246 5248	抑郁
+T172	Disease 5251 5253	抑郁
+T173	Disease 5258 5260	抑郁
+T174	Level 5249 5251	轻度
+T175	Level 5254 5258	中、重度
+T176	Drug 5261 5265	口服药物
+T177	Drug 5306 5309	胰岛素
+T178	Drug 5361 5365	口服药物
+T179	Disease 5429 5433	心理障碍
+T180	Drug 6053 6057	口服药物
+T181	Disease 6210 6212	抑郁
+T182	Duration 2907 2909;2910 2911	≥1 年
+T183	Drug 518 521	胰岛素
+T184	Drug 2896 2901	口服降糖药
+T185	Disease 2919 2926	自身免疫性疾病
+T186	Level 2971 2973	严重
+T187	Drug 3009 3013	口服药物
+T188	Disease 4320 4322	抑郁
+T189	Disease 4720 4722	抑郁
+T190	Disease 4789 4791	抑郁
+T191	Symptom 5468 5472	睡眠障碍
+T192	Symptom 5473 5476;5477 5478	食欲改 变
+T193	SideEff 5953 5956	低血糖
+T194	Anatomy 2953 2954	肾
+T195	Anatomy 2951 2952	肝

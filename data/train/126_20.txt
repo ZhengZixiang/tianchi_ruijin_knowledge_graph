@@ -1,0 +1,203 @@
+基础研究
+李冲、李珊、王志芳、王小红),生物细胞治疗中心(张毅)
+艾塞那肽抑制高糖诱导内皮细胞凋亡的作用机制
+杨威  郑丽丽  李冲  李珊  王志芳  王小红  张毅
+[提要]   在正常糖浓度(5. 5 mmol / L)和高糖(33 mmol / L)培养的人脐静脉内皮细胞(HUVECs)分别
+加入不同浓度的艾塞那肽并干预不同时间后,噻唑蓝(MTT)法检测细胞活力,应用流式细胞仪检测细胞早
+期凋亡率,Western 印迹法检测蛋白激酶 B(Akt)磷酸化、Bcl-2 和 Bax 蛋白表达水平。 结果显示,HUVECs
+经高糖培养 48 和 72 h 后,细胞活力明显下降(P<0. 01)。 经 1、10 和 100 nmol / L 艾塞那肽干预 48 h 后,细
+胞活力明显增加,并呈浓度依赖性(P<0. 01)。 与正常糖浓度组比较,高糖组细胞凋亡率升高,Akt 磷酸化
+和 Bcl-2 蛋白表达水平下降,Bax 蛋白表达增加,Bcl-2 / Bax 比值降低(P<0. 01)。 艾塞那肽干预后,细胞凋
+亡率下降,Akt 磷酸化和 Bcl-2 蛋白表达增加,Bax 蛋白表达下降,Bcl-2 / Bax 比值升高(P<0. 01),而艾塞那
+肽的作用可被磷酸肌醇 3 激酶(PI3K)抑制剂 LY294002 所对抗(P<0. 01)。 提示艾塞那肽可通过 PI3k / Akt
+信号通路调节 Bcl-2 / Bax 蛋白表达来抑制高糖诱导的内皮细胞凋亡,起到保护内皮细胞的作用。
+[关键词]   胰升糖素样肽 1; 艾塞那肽; 高糖; 内皮细胞; 细胞凋亡
+Inhibitory mechanism of exenatide on the apoptosis of endothelial cells induced by high glucose     YANG
+Wei*, ZHENG Li-li, LI Chong, LI Shan, WANG Zhi-fang, WANG Xiao-hong, ZHANG Yi. *Department of
+Endocrinology, the First Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, China
+[Summary]   After human umbilical vein endothelial cells ( HUVECs ) were incubated with various
+concentrations of exenatide for 24, 48, and 72 h under the conditions of 5. 5 and 33 mmol / L glucose, the cell viability
+was detected by MTT assay. The apoptosis rate of endothelial cells was measured by flow cytometry. Protein kinase B
+(Akt) phosphorylation, Bcl-2, and Bax protein expression were detected by Western blotting. The results showed that
+the cell viability was decreased after HUVECs were incubated with high glucose for 48 and 72 h(P<0. 01) . Treatment
+with 1, 10, and 100 nmol / L exenatide for 48 h significantly increased the cell viability in the presence of high glucose,
+in a dose-dependent manner (P<0. 01) . High glucose inhibited Akt phosphorylation and Bcl-2 protein expression,
+stimulated Bax protein expression, with decreased Bcl-2 / Bax ratio and increased apoptosis ratio of cells. After
+treatment with exenatide, the cell apoptosis reduced, Akt phosphorylation and Bcl-2 protein expression increased, and
+Bax protein expression decreased, with increased Bcl-2 / Bax ratio ( P < 0. 01 ) . These effects of exenatide on
+endothelial cell were abrogated by an inhibitor of phosphotylinosital 3 kinase ( PI3K) LY294002 ( P < 0. 01 ),
+suggesting that the exenatide may regulate Bcl-2 / Bax protein expression and inhibit endothelial cell apoptosis induced
+by high glucose through PI3k / Akt signal pathway, and thus may protect endothelial cells.
+[Key words]  Glucagon-like peptide-1; Exenatide; High glucose; Endothelial cells; Apoptosis
+(Chin J Endocrinol Metab, 2013, 29: 809-811)
+糖尿病血管并发症是糖尿病患者致残致死的主要原因。
+研究证实氧化应激在糖尿病血管并发症的发生发展中起重要
+作用[1] ,但现有的抗氧化剂对其预防和治疗缺乏有效性。 胰升
+糖素样肽 1(GLP-1)作为新型降糖药应用于临床的同时观察到
+其有抗氧化应激的作用,但具体机制不明。 本课题组前期研究
+发现,GLP-1 受体激动剂艾塞那肽可通过抑制 NF-κB 活性降低
+细胞间黏附分子 1 和血管细胞黏附分子 1 的高表达,减轻氧化
+应激对血管内皮的损伤,起到保护血管内皮细胞的作用[2] 。 有
+研究证实,氧化应激产生的大量活性氧自由基如 H2O2能够通
+过激活非选择性钙通道、调节细胞凋亡相关基因表达,诱导内
+皮细胞凋亡[3] 。 磷脂酰肌醇 3 激酶 /蛋白激酶 B(PI3K / Akt)通
+路是目前已知重要的抗凋亡通路,那么艾塞那肽是否通过
+PI3K / Akt 通路抑制高糖引起的内皮细胞凋亡,减轻高糖引起的
+内皮细胞氧化应激损伤,目前关于这方面的文献报道较少。 本
+研究以高糖诱导人脐静脉内皮细胞(HUVECs)损伤,观察艾塞
+那肽对高糖诱导的内皮细胞凋亡的影响,并探讨其可能的分子
+机制。
+一、 材料和方法
+1. 材料:HUVECs 购自美国 ATCC 公司,艾塞那肽注射液
+由美国礼来公司惠赠,低糖含双抗 DMEM 培养基购自美国
+GBICO 公司,胎牛血清(FBS)购自杭州四季青生物科技公司,
+D-葡萄糖、胰蛋白酶购自 Sigma 公司,兔抗人 β-actin 单克隆抗
+体、兔抗人 Bcl-2 单克隆抗体、兔抗人 Bax 单克隆抗体、辣根过
+氧化物酶标记山羊抗兔 IgG 购自武汉博士德公司:噻唑蓝
+(MTT)试剂盒、Akt、磷酸化 Akt 抗体购自上海碧云天生物技术
+有限公司。
+2. 方法:(1)细胞培养:HUVECs 培养于含 10% ~15% FBS
+的低糖 DMEM 培养液中,其中 D-葡萄糖为 5. 5 mmol / L,置于
+37℃,5% CO2培养箱内培养,每 2 d 换培养液 1 次。 (2)MTT 法
+检测细胞活力:取对数生长期细胞以每孔 1×104个细胞总数接
+种于 96 孔板,在正常糖浓度(5. 5 mmol / L)和高糖(33 mmol / L)
+状态下,分别加入 1、10 和 100 nmol / L 艾塞那肽,干预 24、48 和
+72 h 后,弃培养液,PBS 冲洗 2 遍,每孔加入 MTT 液 10 滋l,继续
+放入 37℃,5% CO2培养箱内培养 4 h,加入二甲基亚砜 100 滋l,
+震荡 匀,用酶标仪在波长 490 nm 处测各孔吸光度值(A)。
+(3)流式细胞仪检测细胞凋亡率:取对数生长期细胞以每孔 1×
+105个细胞总数接种于 6 孔板,在正常糖浓度下分别加 10
+nmol / L 艾塞那肽和 33 mol / L 甘露醇(高渗组),在高糖状态下
+加 10 nmol / L 艾塞那肽和 10 μmol / L 的 LY294002,干预 48 h 后
+收集细胞,PBS 漂洗 3 次,将细胞重悬于 500 滋l 结合缓冲液,加
+入 5 滋l 膜联蛋白(Annexin)吁-FITC 和 5 滋l 碘化丙啶, 室温避
+光 10 min, 1 h 内送流式细胞仪检测细胞凋亡。 以上实验重复 3
+次。 (4)Western 印迹法:检测 Bcl-2、Bax 蛋白表达及 Akt 磷酸
+化水平变化。 按照上述条件处理细胞 48 h 后,用预冷 PBS 洗涤
+3 次,每孔加入细胞裂解液 40 滋l,冰上裂解 30 min 后 12 000
+转 / min 4℃离心 20 min,BCA 法测蛋白浓度。 每份标本取 20 μg
+蛋白,SDS-PAGE 电泳分离,转移到 PVDF 膜上,含 5%脱脂奶粉
+的 TBST 室温下封闭 1 h,加一抗 4℃过夜,TBST 洗膜 10 min×3
+次,辣根过氧化物酶标记的兔抗 IgG 室温孵育 2 h,常规洗膜,
+化学发光法显色。 图片采用 image-J 进行灰度分析处理。 以上
+实验重复 3 次。
+3. 统计学处理:数据以 x-± s 表示,结果采用 SPSS 17. 0 进行
+统计学分析。 实验数据均进行正态分布检验及方差齐性检验,
+组间差异比较采用单因素方差分析(one-way ANOVA),P<0. 05
+为差异有统计学意义。
+二、 结果
+1. 艾塞那肽增加高糖抑制的 HUVECs 增殖:在正常糖浓度
+下 HUVECs 以 1、10 和 100 nmol / L GLP-l 分别干预 24、48 和 72
+h 后,不同浓度 GLP-1 对细胞活力均无明显影响(P>0. 05)。
+HUVECs 经高糖培养 24 h 后,与正常糖浓度相比细胞活力差异
+无统计学意义(P>0. 05),而 48 和 72 h 后,高糖较正常糖浓度
+细胞活力明显下降(P<0. 01);高糖浓度下 HUVECs 以 1、10 和
+100 nmol / L 艾塞那肽分别干预 24 h、72 h 后,与高糖对照组相比
+细胞活力差异无统计学意义(P>0. 05),但干预 48 h 后,细胞活
+力明显增加,并呈浓度依赖性(P<0. 01,表 1)。
+2. 艾塞那肽对内皮细胞凋亡的影响:与正常糖浓度比较,
+高渗对内皮细胞的凋亡无明显影响(P>0. 05),而高糖显著增
+加细胞凋亡率(P<0. 01);在正常糖浓度下,艾塞那肽对细胞凋
+亡无明显影响(P>0. 05),但艾塞那肽能显著降低高糖诱导的
+内皮细胞凋亡(P<0. 01), LY294002 可对抗艾塞那肽的抗凋亡
+作用(P<0. 01,表 2)。
+3. 艾塞那肽对内皮细胞 Akt 磷酸化、Bcl-2 和 Bax 蛋白表
+达的影响:各组之间 Akt 蛋白表达无明显变化(P>0. 05)。 与
+正常糖浓度比较,高渗对细胞 Akt 磷酸化、Bcl-2 和 Bax 的蛋白
+表达无明显影响(P>0. 05), 而高糖能明显降低 Akt 磷酸化和
+表 1 不同浓度的艾塞那肽对 HUVECs 增殖的影响(x-± s,n=5)
+组别 24 h 48 h 72 h
+NG 0. 369 2 ± 0. 025 4 0. 558 2 ± 0. 036 3 0. 703 0 ± 0. 018 9
+NG+EX1 0. 364 2 ± 0. 012 4 0. 552 4 ± 0. 027 0 0. 697 8 ± 0. 011 3
+NG+EX10 0. 374 4 ± 0. 025 5 0. 569 0 ± 0. 049 7 0. 706 8 ± 0. 018 9
+NG+EX100 0. 366 0 ± 0. 015 4 0. 567 8 ± 0. 033 0 0. 705 8 ± 0. 019 0
+HG 0. 350 2 ± 0. 009 4 0. 408 2 ± 0. 004 9a 0. 653 6 ± 0. 021 6a
+HG+EX1 0. 351 6 ± 0. 010 2 0. 504 8 ± 0. 006 8b 0. 661 6 ± 0. 025 7
+HG+EX10 0. 359 4 ± 0. 015 3 0. 542 8 ± 0. 005 4bc 0. 666 6 ± 0. 023 7
+HG+EX100 0. 363 4 ± 0. 013 0 0. 581 0 ± 0. 031 5bd 0. 669 8 ± 0. 025 3
+注:HUVECs:人脐静脉内皮细胞;NG:正常糖浓度(5. 5 mmol / L);
+EX1:1 nmol / L 艾塞那肽; EX10: 10 nmol / L 艾塞那肽; EX100: 100
+nmol / L 艾塞那肽;HG:高糖(33 mmol / L);与 NG 组比较,a P<0. 01;与
+HG 组比较,bP<0. 01;与 HG+EX1 组比较,cP<0. 01;与 HG+EX10 组比
+较,dP<0. 01
+表 2  艾塞那肽对内皮细胞凋亡、Bcl-2、Bax 蛋白表达和 Akt 磷
+酸化的影响(x-± s)
+组别 细胞凋亡率(% ) Bcl-2 / Bax p-Akt / Akt
+NG 0. 83 ± 0. 25 2. 113 ± 0. 015 0. 941 ± 0. 002
+NG+EX 1. 33 ± 0. 15 2. 137 ± 0. 015 0. 941 ± 0. 003
+HG 17. 50 ± 0. 40a 0. 990 ± 0. 036a 0. 762 ± 0. 001a
+HG+EX 8. 03 ± 0. 45b 1. 667 ± 0. 025b 0. 868 ± 0. 001b
+HS 1. 27 ± 0. 25 2. 110 ± 0. 020 0. 939 ± 0. 008
+HG+EX+LY294002 22. 33 ± 0. 67c 0. 943 ± 0. 025c 0. 650 ± 0. 001c
+注:Akt:蛋白激酶 B;EX:10 mmol / L 艾塞那肽;HS:高渗组 (33
+mmol / L 甘露醇);LY294002:磷酸肌醇 3 激酶抑制剂;余略语同表 1;与
+NG 组相比,aP<0. 01;与 HG 组比较,bP<0. 01;与 HG+EX 组比较,cP<
+0. 01
+注:1:正常糖浓度组;2:正常糖浓度+艾塞那肽组;3:高糖组;4:高
+糖+艾塞那肽组;5:高渗组;6:高糖+艾塞那肽+LY294002 组;Akt:蛋白
+激酶 B;p-Akt:磷酸化 Akt
+图 1  艾塞那肽对内皮细胞 Akt 磷酸化、Bcl-2 和 Bax 蛋白表达的影响
+Bcl-2 的蛋白表达,增加 Bax 蛋白表达,Bcl-2 / Bax 比值降低,差
+异均有统计学意义(P<0. 01);在正常糖浓度下艾塞那肽干预
+对 Akt 磷酸化、Bcl-2 和 Bax 的蛋白表达无明显作用(P>0. 05),
+但能显著增加高糖抑制的内皮细胞 Akt 磷酸化和 Bcl-2 蛋白表
+达,降低 Bax 蛋白表达,Bcl-2 / Bax 比值升高,差异均有统计学
+意义(P<0. 01)。 而 LY294002 可对抗艾塞那肽对 Akt 磷酸化、
+Bcl-2 和 Bax 蛋白表达的调节作用(P<0. 01,表 2,图 1)。
+三、 讨论
+动脉粥样硬化是糖尿病大血管病变的病理基础,目前已有
+研究证实糖尿病患者长期高血糖可以通过多种途径促进动脉
+粥样硬化斑块的形成[4] 。 高糖可以导致多种形式的血管内皮
+细胞功能失调, 其中内皮细胞凋亡被认为与糖尿病相关的动脉
+粥样硬化发生发展有关[5] 。 因此,将高糖诱导的血管内皮细胞
+的凋亡作为干预的靶点,对预防和延缓糖尿病动脉粥样硬化具
+有指导意义。
+GLP-1 是一种由肠道 L 细胞分泌的重要肠促胰岛素激素,
+其通过葡萄糖依赖的方式促进胰岛素分泌、抑制胰升糖素分
+泌、延缓胃排空、减少摄食、促进胰岛 β 细胞增殖等作用维持血
+糖的稳定,是一种前景广阔的新型降糖药物[6] 。 近年研究表明
+GLP-1 对心血管系统及内皮细胞功能有着保护作用,但其具体
+机制尚未阐明。 本研究发现,在高糖状态下加入 1、10 和 100
+nmol / L 艾塞那肽干预 24 h 后,对内皮细胞活力无明显影响,可
+能因为作用时间不足,内皮细胞损伤表现不明显;当干预时间
+延长至 48 h 时,可显著提高高糖状态下内皮细胞活力,并呈剂
+量依赖性;但干预 72 h 后,艾塞那肽各干预组与高糖对照组相
+比细胞活力差异并无统计学意义,其具体机制有待研究。 以上
+结果提示艾塞那肽可增加高糖降低的内皮细胞活力,对内皮细
+胞具有保护作用,其中以 10 nmol / L 的艾塞那肽干预 48 h 作用
+最为明显,故选择此浓度和干预时间进行后续实验。
+PI3K / Akt 通路是目前所知重要的抗凋亡通路。 Timmers
+等[7]发现艾塞那肽能显著降低心肌梗死面积,这与其提高心肌
+细胞中 Akt 磷酸化和 Bcl-2 的表达量,降低半胱氨酸蛋白酶 3
+(caspase-3) 活性,从而减少心肌细胞凋亡有关。 Li 等[8] 在
+GLP-1 受体过表达的 SH-SY5Y 细胞中发现,给予 GLP-1 及其类
+似物 exendin-4 可以剂量依赖性地减少过氧化氢诱导的细胞凋
+亡,其作用由激活 PI3K 途径,最终降低 caspase-3 活性及下调
+Bax、上调 Bcl-2 表达所介导。 Ferna忆ndez-Hernando 等[9] 研究发
+现,与野生型小鼠相比,Akt1 敲除小鼠的内皮细胞在经神经酰
+胺诱导后细胞凋亡明显增加,活化的 caspase-3 表达相应增加,
+动脉粥样硬化病变也相应加重。 Bcl-2 基因家族是研究最早的
+与凋亡有关的基因,其中 Bax 和 Bcl-2 是 2 种重要的凋亡相关
+基因,Bax 是促凋亡基因,Bcl-2 是抗凋亡基因。 有学者报道
+Bcl-2 与 Bax 调节细胞凋亡不仅取决于自身表达水平, 而且还
+与 Bcl-2 / Bax 的比值有关,细胞是否发生凋亡及凋亡的严重程
+度取决于 Bcl-2 / Bax 比值,当比值高时趋向抗凋亡作用,当比值
+低时促进细胞凋亡,提高 Bcl-2、降低 Bax 的表达能增加细胞抗
+凋亡作用[10] 。 本研究结果显示,高糖能诱导内皮细胞凋亡,减
+少 Akt 磷酸化和 Bcl-2 的蛋白表达,增加 Bax 蛋白表达,Bcl-2 /
+Bax 比值下降,艾塞那肽抑制高糖诱导的内皮细胞凋亡,显著增
+加 Akt 磷酸化和 Bcl-2 蛋白的表达,降低 Bax 蛋白表达,Bcl-2 /
+Bax 比值升高。 而加入 PI3K 抑制剂 LY294002 可阻断艾塞那
+肽对高糖诱导的内皮细胞凋亡的保护作用,Akt 磷酸化和 Bcl-2
+蛋白表达明显受到抑制,Bax 蛋白表达增加,Bcl-2 / Bax 比值降
+低。 作为 PI3K 的下游分子,当 PI3K 的活性被 LY294002 抑制
+时,即使在艾塞那肽存在的情况下,Akt 的活化也受到抑制,同
+时其下游抗凋亡蛋白 Bcl-2 相应下调,凋亡蛋白 Bax 相应上调,
+Bcl-2 / Bax 比值降低。 这提示 GLP-1 至少可以通过 PI3K / Akt
+信号通路调节 Bcl-2 和 Bax 的表达从而抑制高糖诱导的内皮细
+胞凋亡,发挥对内皮细胞的保护作用。
+综上所述,高糖可增加内皮细胞的凋亡,而 GLP-1 受体激
+动剂艾塞那肽可能通过 PI3k / Akt 信号通路调节 Bcl-2 / Bax 蛋
+白表达抑制高糖诱导的内皮细胞凋亡,起到保护血管内皮细胞
+的作用。 这一结果可能为艾塞那肽治疗糖尿病血管并发症提
+供新的理论依据。

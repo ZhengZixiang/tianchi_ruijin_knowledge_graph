@@ -1,0 +1,415 @@
+T1	Disease 4494 4500	2 型糖尿病
+T2	Disease 4623 4629	2 型糖尿病
+T3	Test 5550 5554	总胆固醇
+T4	Test 1372 1376	体重指数
+T5	Test 1826 1829	肝功能
+T6	Test 1649 1652	肾功能
+T7	Test 3701 3704	肾功能
+T8	Test 5002 5005	肾功能
+T9	Test 1411 1414	腰臀比
+T10	Test 1393 1395	腰围
+T11	Test 1402 1404	臀围
+T12	Disease 65 70	代谢综合征
+T13	Disease 208 213	代谢综合征
+T14	Disease 249 254	代谢综合征
+T15	Disease 283 288	代谢综合征
+T16	Disease 314 319	代谢综合征
+T17	Disease 2655 2660	代谢综合征
+T18	Disease 4722 4727	代谢综合征
+T19	Disease 5136 5141	代谢综合征
+T20	Disease 5332 5337	代谢综合征
+T21	Test 1660 1665	甲状腺功能
+T22	Test 4361 4366	甲状腺功能
+T23	Test 5373 5377	甘油三酯
+T24	Test 5570 5574	甘油三酯
+T25	Test 1341 1343	体重
+T26	Test 1363 1365	体重
+T27	Disease 3384 3396	Gitelman 综合征
+T28	Disease 52 63	Bartter 综合征
+T29	Disease 107 118	Bartter 综合征
+T30	Disease 146 151	肾小管疾病
+T31	Symptom 165 169	肾性低钾
+T32	Symptom 170 176	代谢性碱中毒
+T33	Symptom 177 180	高肾素
+T34	Symptom 181 187	高醛固酮血症
+T35	Disease 195 206	Bartter 综合征
+T36	Disease 236 247	Bartter 综合征
+T37	Symptom 1162 1168	反复四肢无力
+T38	Symptom 1211 1216;1217 1219	活动后四肢 无力
+T39	Symptom 1221 1223	口干
+T40	Symptom 1224 1226	多饮
+T41	Symptom 1227 1229	多尿
+T42	Test 1236 1238	血钾
+T43	Test_Value 1239 1252	2. 0 mmol / L
+T44	Disease 1258 1262	低钾血症
+T45	Test 1282 1284	血钾
+T46	Test_Value 1289 1302	1. 4 mmol / L
+T47	Test 1319 1321	血压
+T48	Test 1352 1353;1354 1355	身 高
+T49	Test_Value 1356 1362	165 cm
+T50	Test_Value 1366 1371	74 kg
+T51	Test_Value 1377 1391	27. 18 kg / m2
+T52	Test_Value 1396 1401	93 cm
+T53	Test_Value 1405 1410	97 cm
+T54	Test_Value 1415 1420	0. 96
+T55	Test 1421 1423	血压
+T56	Test 1511 1515	尿 pH
+T57	Test_Value 1516 1520	7. 0
+T58	Test 1654 1659	甲状旁腺素
+T59	Test 1669 1676	24 h 尿钾
+T60	Test 1699 1706	24 h 尿钙
+T61	Test 1727 1730	血清钾
+T62	Test 1752 1753	钠
+T63	Test 1773 1774	氯
+T64	Test 1792 1793	钙
+T65	Test 1808 1809	镁
+T66	Test_Value 1677 1697	44. 24 ~ 99. 32 mmol
+T67	Test_Value 1707 1725	3. 85 ~ 4. 07 mmol
+T68	Test_Value 1775 1791	90 ~ 96 mmol / L
+T69	Test_Value 1794 1807	2. 4 mmol / L
+T70	Test_Value 1810 1815;1816 1824	1. 07 mmol / L
+T71	Test 2053 2057	ACTH
+T72	Test 2059 2062	皮质醇
+T73	Test 2077 2080	B 超
+T74	Test 2309 2314	小球滤过率
+T75	Test 2318 2323	肾穿刺活检
+T76	Test 2384 2390	PAS 染色
+T77	Test 2444 2446	电镜
+T78	Disease 2635 2646	Bartter 综合征
+T79	Disease 2661 2666	中心性肥胖
+T80	Disease 2667 2670;2671 2675	混合性 高脂血症
+T81	Disease 2676 2681	糖耐量受损
+T82	Disease 2682 2690	非酒精性脂肪肝病
+T83	Drug 2710 2716	氯化钾缓释片
+T84	Drug 2725 2732	苯扎贝特分散片
+T85	Drug 2744 2747;2748 2752	吲哚美 辛肠溶片
+T86	Drug 2763 2767	依那普利
+T87	Method 2777 2779	口服
+T88	Disease 2795 2806	Bartter 综合征
+T89	Disease 2862 2864;2865 2872	继发 性醛固酮增多症
+T90	Disease 2878 2880	水肿
+T91	Disease 2883 2886	高血压
+T92	Level 2924 2926	严重
+T93	Disease 3038 3040	BS
+T94	Disease 3229 3236	新生儿型 BS
+T95	Disease 3365 3367;3368 3379	低血 镁、低尿钙变异型 BS
+T96	Disease 3455 3457;3458 3463	新生 儿型 BS
+T97	Disease 3497 3503	经典型 BS
+T98	Disease 3536 3542	BS 变异型
+T99	Symptom 3610 3613	低渗尿
+T100	Symptom 3614 3616	多尿
+T101	Disease 3641 3644	cBS
+T102	Disease 3667 3670	aBS
+T103	Test 3675 3677	尿钙
+T104	Disease 3687 3693	肾钙质沉着症
+T105	Disease 3709 3711	GS
+T106	Symptom 3737 3740	易疲劳
+T107	Symptom 3741 3744	肌无力
+T108	Symptom 3745 3749	手足抽搦
+T109	Symptom 3756 3758	腹痛
+T110	Symptom 3760 3762	发热
+T111	Symptom 3763 3765	呕吐
+T112	Disease 3810 3812	BS
+T113	Symptom 3833 3840	活动后四肢无力
+T114	Symptom 3842 3844	口干
+T115	Symptom 3845 3847	多饮
+T116	Symptom 3848 3850	多尿
+T117	Disease 3904 3907	cBS
+T118	Test 3909 3912	肾活检
+T119	Disease 3916 3918	BS
+T120	Disease 3959 3961	BS
+T121	Disease 3973 3975	BS
+T122	Anatomy 4036 4041	平滑肌细胞
+T123	Anatomy 4053 4056;4057 4059	肾小球 旁器
+T124	Test 4071 4074	肾活检
+T125	Disease 4079 4081	BS
+T126	Disease 4094 4096	BS
+T127	Test 4098 4101	肾活检
+T128	Anatomy 4103 4109	肾小球旁细胞
+T129	Disease 4117 4119	BS
+T130	Disease 4128 4130	BS
+T131	Test 4139 4142	肾活检
+T132	Disease 4166 4168	BS
+T133	Drug 4190 4194	襻利尿药
+T134	Drug 4196 4202	噻嗪类利尿药
+T135	Disease 4207 4209	BS
+T136	Test 4222 4224	尿氯
+T137	Disease 4231 4233	BS
+T138	Drug 4255 4258	利尿药
+T139	Disease 4268 4273	自发性呕吐
+T140	Disease 4280 4282	BS
+T141	Disease 4310 4315	低钾碱中毒
+T142	Disease 4322 4325	高血压
+T143	Disease 4337 4342	周期性麻痹
+T144	Test 4356 4358	尿钾
+T145	Disease 4390 4395	肾性尿崩征
+T146	Disease 4396 4401	囊性纤维化
+T147	Disease 4402 4406;4407 4413	先天性肾 上腺皮质增生
+T148	Disease 4436 4439;4440 4446	原发性 醛固酮增多症
+T149	Disease 4448 4454	低钾性碱中毒
+T150	Disease 4476 4479	高血压
+T151	Disease 4488 4490	BS
+T152	Anatomy 4525 4532	胰岛 B 细胞
+T153	Disease 4533 4536	高血糖
+T154	Disease 4566 4569	高血糖
+T155	Disease 4615 4617	BS
+T156	Disease 4633 4637	高脂血症
+T157	Disease 4668 4674	高醛固酮血症
+T158	Anatomy 4675 4676;4677 4690	肾 素-血管紧张素-醛固酮系统
+T159	Disease 4695 4701	高胰岛素血症
+T160	Disease 4717 4719	BS
+T161	Disease 4744 4750	经典型 BS
+T162	Disease 4776 4778;4779 4783	经典 型 BS
+T163	Drug 4801 4804	氯化钾
+T164	Anatomy 4817 4819	肾脏
+T165	Drug 4828 4832	安体舒通
+T166	Drug 4833 4837;4838 4839	保钾利尿 剂
+T167	Disease 4848 4851	低血钾
+T168	Drug 4860 4865;4866 4871	前列腺素合 成酶抑制剂
+T169	Drug 4873 4876	消炎痛
+T170	Drug 4877 4881	阿司匹林
+T171	Drug 4882 4885	布洛芬
+T172	Anatomy 4906 4920	肾素-血管紧张素-醛固酮系统
+T173	Drug 4935 4939	安体舒通
+T174	Method 4945 4947	口服
+T175	Drug 4947 4950	氯化钾
+T176	Drug 4951 4952;4953 4956	安 体舒通
+T177	Drug 4957 4966	血管紧张素酶抑制剂
+T178	Drug 4967 4971	吲哚美辛
+T179	Drug 4979 4981;4982 4983	利尿 剂
+T180	Disease 5015 5021	经典型 BS
+T181	Disease 5076 5080	低钾血症
+T182	Disease 5084 5089	高肾素血症
+T183	Test 5094 5096	血压
+T184	Disease 5112 5114	BS
+T185	Disease 5128 5130	肥胖
+T186	Symptom 5186 5188	口干
+T187	Symptom 5189 5191	多饮
+T188	Symptom 5192 5193;5194 5195	多 尿
+T189	Test 5199 5202	血清钾
+T190	Test 5205 5207	尿钾
+T191	Test 5215 5217	血压
+T192	Disease 5261 5270	高肾素高醛固酮血症
+T193	Disease 5272 5276	低镁血症
+T194	Disease 5277 5279;5280 5282	低尿 钙症
+T195	Test 5283 5290	肾组织病理检查
+T196	Disease 5310 5316	经典型 BS
+T197	Disease 5340 5345	糖耐量异常
+T198	Disease 5346 5353	混合性高脂血症
+T199	Disease 5354 5362	非酒精性脂肪肝病
+T200	Disease 5363 5366;5367 5369	中心性 肥胖
+T201	Drug 5416 5423	苯扎贝特分散片
+T202	Drug 5435 5442	吲哚美辛肠溶片
+T203	Drug 5453 5457	依那普利
+T204	Method 5467 5469	口服
+T205	Symptom 5521 5525	四肢无力
+T206	Test 5533 5535	血钾
+T207	Test_Value 5536 5549	4. 3 mmol / L
+T208	Test_Value 5555 5569	7. 15 mmol / L
+T209	Test_Value 5575 5589	9. 09 mmol / L
+T210	Symptom 5605 5609	四肢无力
+T211	Test 5610 5613	血清钾
+T212	Disease 137 140	BS)
+T213	Disease 153 162	常染色体隐性遗传病
+T214	Disease 301 312	Bartter 综合征
+T215	Test 1522 1524;1525 1527	血气 分析
+T216	Test 1645 1648	血常规
+T217	Treatment 2616 2618	补钾
+T218	Treatment 2619 2621	调脂
+T219	Treatment 2622 2624	护肝
+T220	Disease 2849 2858	常染色体隐性遗传病
+T221	Test 3767 3771	生化检查
+T222	Level 3871 3873	严重
+T223	Disease 3980 3985	遗传性疾病
+T224	Disease 4021 4024	高肾素
+T225	Anatomy 4030 4035	肾小球旁器
+T226	Test 4157 4162	遗传学检查
+T227	Test 4351 4355	血气分析
+T228	Test 4417 4421	生化检查
+T229	Test 4583 4590	胰岛素原类似物
+T230	Anatomy 4996 4999	消化道
+T231	Test 5029 5034	实验室检查
+T232	Disease 5119 5124	代谢性疾病
+T233	Test 5246 5251	实验室检查
+T234	Disease 269 278;279 281	Bartter 综 合征
+T235	Duration 1169 1172	5 年
+T236	Test_Value 2414 2416	阴性
+T237	Test 2417 2420	IgM
+T238	Test_Value 2420 2421	+
+T239	Test 2426 2432	IGA C3
+T240	Test_Value 2433 2435	阴性
+T241	Test 2436 2439	C1q
+T242	Test_Value 2440 2442	阴性
+T243	Reason 3133 3140	肾小管离子通道
+T244	Disease 3279 3285	经典型 BS
+T245	Reason 3241 3261	Na-K-2Cl 协同转运体 NKCC2
+T246	Test_Value 3680 3682	增加
+T247	Test_Value 4225 4227	减少
+T248	Test_Value 4468 4470	降低
+T249	Test_Value 5202 5204	降低
+T250	Test_Value 5209 5211	增多
+T251	Test_Value 5377 5379	升高
+T252	Symptom 1460 1464	发育正常
+T253	Test_Value 2392 2396;2397 2403	胞浆内红 染的颗粒物质
+T254	Test_Value 2499 2504	无明显增生
+T255	Test_Value 2524 2526;2527 2529	空泡 变性
+T256	Test_Value 2554 2556;2557 2562	未见 电子致密物
+T257	Reason 3141 3146	转运子基因
+T258	Reason 3264 3276	K+通道 ROMK 缺陷
+T259	Reason 3290 3302;3303 3305	Cl-通道 ClC-Kb 缺陷
+T260	Reason 3325 3337	barttin 蛋白异常
+T261	Reason 3354 3362	钙敏受体基因突变
+T262	Reason 3400 3407;3408 3420	Na-Cl 同 向转运体 NCCT 缺陷
+T263	Symptom 3826 3831	青少年起病
+T264	Treatment 1265 1267	补钾
+T265	Treatment 1304 1306	补钾
+T266	Test_Value 1424 1437	120 / 62 mmHg
+T267	Symptom 1465 1469	体型肥胖
+T268	Symptom 1470 1476	全身未见紫绀
+T269	Symptom 1478 1481	满月脸
+T270	Symptom 1482 1485	水牛背
+T271	Symptom 1487 1489;1490 1494	甲状 腺无肿大
+T272	Symptom 1495 1504	心肺腹查体未见异常
+T273	Test 1529 1531	pH
+T274	Test_Value 1532 1537	7. 35
+T275	Test 1538 1545	二氧化碳结合力
+T276	Test_Value 1546 1557	25 mmol / L
+T277	Test 1558 1564	二氧化碳分压
+T278	Test_Value 1565 1567;1568 1572	43 mmHg
+T279	Test 1573 1576	氧分压
+T280	Test_Value 1577 1584	65 mmHg
+T281	Test 1585 1588	剩余碱
+T282	Test_Value 1589 1602	6. 2 mmol / L
+T283	Test 1603 1609	实际碳酸氢根
+T284	Test_Value 1610 1624	30. 6 mmol / L
+T285	Test_Value 1734 1751	7 ~ 3. 1 mmol / L
+T286	Test_Value 1754 1772	138 ~ 148 mmol / L
+T287	Test 1830 1838	丙氨酸氨基转移酶
+T288	Test_Value 1839 1847	91 U / L
+T289	Test 1848 1855;1856 1859	天门冬氨酸氨基 转移酶
+T290	Test_Value 1860 1868	54 U / L
+T291	Test 1869 1880	L-γ-谷氨酰基转移酶
+T292	Test_Value 1881 1889	84 U / L
+T293	Test 1890 1896	C-反应蛋白
+T294	Test_Value 1897 1902;1903 1909	21. 8 mg / L
+T295	Test 1910 1914	肌酸激酶
+T296	Test_Value 1915 1924	910 U / L
+T297	Test 1925 1932	肌酸激酶同工酶
+T298	Test_Value 1933 1941	29 U / L
+T299	Test 1943 1947	总胆固醇
+T300	Test_Value 1948 1962	7. 81 mmol / L
+T301	Test 1963 1967	甘油三酯
+T302	Test_Value 1968 1983	15. 76 mmol / L
+T303	Test 2009 2018	低密度脂蛋白胆固醇
+T304	Test_Value 2019 2033	3. 26 mmol / L
+T305	Test 1984 1993	高密度脂蛋白胆固醇
+T306	Test_Value 1994 2008	1. 11 mmol / L
+T307	Test 2081 2095	上腹部 CT 增强加血管成像
+T308	Test_Value 2096 2099	脂肪肝
+T309	Test_Value 2100 2107;2108 2115	双肾上腺区及双 肾动脉未见异常
+T310	Test 2117 2124	OGTT 试验
+T311	Test 2124 2128	空腹血糖
+T312	Test_Value 2129 2143	5. 49 mmol / L
+T313	Test 2144 2150	1 h 血糖
+T314	Test_Value 2151 2166	13. 83 mmol / L
+T315	Test 2167 2173	2 h 血糖
+T316	Test_Value 2174 2188	7. 93 mmol / L
+T317	Test 2189 2194	空腹胰岛素
+T318	Test_Value 2195 2207	17. 9 mU / L
+T319	Test 2209 2216	1 h 胰岛素
+T320	Test_Value 2217 2227	247 mU / L
+T321	Test 2228 2235	2 h 胰岛素
+T322	Test_Value 2236 2249	119. 1 mU / L
+T323	Test 2265 2266;2267 2274	卧 立位醛固酮试验
+T324	Test_Value 2282 2297	290. 60 pg / ml
+T325	Test_Value 2301 2308	331. 12
+T326	Test_Value 2326 2336	肾小球球旁器细胞增生
+T327	Test_Value 2338 2349	系膜细胞和基质轻度增生
+T328	Test_Value 2350 2365;2366 2368	部分近端肾小管上皮有大的空泡样 变性
+T329	Test_Value 2369 2383	肾髓质间质细胞明显增生、肥大
+T330	Test 2405 2413	免疫荧光 IgG
+T331	Test_Value 2449 2464	肾小球毛细血管内皮细胞空泡变性
+T332	Test_Value 2465 2468;2469 2476	管腔内 可见红细胞聚集
+T333	Test_Value 2478 2488	肾小囊壁层无明显增厚
+T334	Test_Value 2489 2496;2497 2498	壁层细胞空泡变 性
+T335	Test_Value 2506 2514	基底膜无明显增厚
+T336	Test_Value 2515 2523	脏层上皮细胞肿胀
+T337	Test_Value 2531 2538	足突节段性融合
+T338	Test_Value 2540 2552	系膜细胞和基质无明显增生
+T339	Test_Value 2564 2575	肾小管上皮细胞空泡变性
+T340	Test_Value 2577 2585	肾间质无特殊病变
+T341	Disease 2590 2601	Bartter 综合征
+T342	Drug 2694 2697	螺内酯
+T343	Amount 2699 2702;2703 2705	160 mg
+T344	Frequency 2706 2709	bid
+T345	Amount 2717 2720	1 g
+T346	Frequency 2721 2724	q8h
+T347	Amount 2733 2739	0. 4 g
+T348	Frequency 2740 2743	tid
+T349	Amount 2753 2758	25 mg
+T350	Frequency 2759 2762	tid
+T351	Amount 2768 2773	10 mg
+T352	Frequency 2774 2776	qd
+T353	Reason 2831 2836;2837 2846	髓袢升支对 氯化钠的重吸收减少
+T354	Symptom 2927 2931	低钾血症
+T355	Symptom 2932 2938	代谢性碱中毒
+T356	Symptom 2939 2952;2953 2955	肾素、血管紧张素2及醛固酮 增高
+T357	Symptom 2956 2960	血压正常
+T358	Symptom 2961 2974	对外源性血管加压素反应低下
+T359	Symptom 2975 2980;2981 2983	肾小球旁器 增生
+T360	Anatomy 3055 3071;3072 3082	肾小管袢升段 Na+ -K+ - 2Cl-协同转运蛋白
+T361	Anatomy 3088 3094	离子通道基因
+T362	Reason 3098 3100;3101 3110	近端 肾小管离子转运障碍
+T363	Symptom 3159 3161;3162 3165	加压 素抵抗
+T364	Symptom 3166 3173	尿浓缩能力受损
+T365	Symptom 3174 3188	对血管紧张素2作用的相对抵抗
+T366	Symptom 3190 3195	高前列腺素
+T367	Disease 3317 3322	神经性耳聋
+T368	Disease 3308 3315	新生儿型 BS
+T369	Disease 3338 3340	BS
+T370	Disease 3343 3351	常染色体显性遗传
+T371	Symptom 3595 3599	羊水过多
+T372	Symptom 3617 3621	体重减轻
+T373	Symptom 3774 3778	低钾血症
+T374	Symptom 3779 3785	代谢性碱中毒
+T375	Symptom 3792 3796	低镁血症
+T376	Symptom 3797 3801	尿钙降低
+T377	Symptom 3859 3863	血压正常
+T378	Symptom 3873 3877	低钾血症
+T379	Test 3878 3880	肾素
+T380	Test 3882 3887	醛固酮增高
+T381	Test 3888 3891	血清镁
+T382	Test 3892 3894	尿钙
+T383	Test_Value 3934 3936;3937 3943	肾小 球旁细胞增生
+T384	Test 3949 3952	肾活检
+T385	Test 3952 3956	病理检查
+T386	Symptom 3989 3991	低钾
+T387	Symptom 3992 3995	碱中毒
+T388	Symptom 3997 3999;4000 4003	血容 量不足
+T389	Symptom 4009 4019	高肾素、高醛固酮血症
+T390	Anatomy 4044 4050	分泌肾素细胞
+T391	Anatomy 4297 4302	盐皮质激素
+T392	Test 4455 4458	血肾素
+T393	Test 4459 4465	血管紧张素2
+T394	Test 4542 4545	胰岛素
+T395	Disease 4661 4667	慢性低钾血症
+T396	Treatment 4790 4799	纠正低血钾和碱中毒
+T397	Drug 4889 4894;4895 4901	血管紧张素 转化酶抑制剂
+T398	Symptom 5177 5183	反复四肢无力
+T399	Treatment 5223 5225	补钾
+T400	Symptom 5237 5241	体型肥胖
+T401	Symptom 5242 5245	无水肿
+T402	Test 5257 5258	氯
+T403	Test 5259 5260	钾
+T404	Test_Value 5290 5297	肾小球旁器增生
+T405	Drug 5400 5404	螺内酯片
+T406	Amount 5405 5411	160 mg
+T407	Frequency 5412 5415	bid
+T408	Amount 5424 5430	0. 4 g
+T409	Frequency 5431 5434	tid
+T410	Amount 5443 5448	25 mg
+T411	Frequency 5449 5452	tid
+T412	Amount 5458 5463	10 mg
+T413	Frequency 5464 5466	qd
+T414	Symptom 3628 3630	脱水
+T415	Level 3625 3627	严重

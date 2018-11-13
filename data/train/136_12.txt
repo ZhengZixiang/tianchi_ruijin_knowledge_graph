@@ -1,0 +1,240 @@
+临床研究
+2 型糖尿病患者血清胎球蛋白 A 水平与糖尿病肾病的相关性
+居会祥  周中卫  孙明忠  季禹乔  张洁  陈思聪  季建伟
+[提要]   探讨 2 型糖尿病(T2DM)患者血清胎球蛋白 A(Fetuin-A)水平与糖尿病肾病(DN)的相关性。
+选取 T2DM 患者正常蛋白尿(NA)组 101 例、微量白蛋白尿(MA)组 87 例、大量白蛋白尿(OA)组 44 例,另
+选取正常对照(NC)组 130 名。 血清 Fetuin-A 在 NC、NA、MA 及 OA 组中水平依次升高,组间比较及组内两
+两比较差异均有统计学意义(P<0. 05 或 P<0. 01);T2DM 患者的 Fetuin-A 与病程、尿白蛋白 /肌酐比值
+(ACR)、空腹血糖、餐后 2 h 血糖及 C 反应蛋白(CRP)呈正相关(P<0. 05 或 P<0. 01),与年龄及脂联素呈负
+相关(均 P<0. 01);多元逐步回归分析显示,病程、Fetuin-A、CRP 及脂联素是 ACR 的独立影响因素(均 P<
+0. 01)。 Fetuin-A 可能通过促炎性效应及抑制脂联素表达参与 DN 的发生发展。
+[关键词]   糖尿病肾病; 胎球蛋白 A; 糖尿病, 2 型
+Association between serum fetuin A and diabetic nephropathy in patients with type 2 diabetes Ju Huixiang,
+Zhou Zhongwei, Sun Mingzhong, Ji Yuqiao, Zhang Jie, Chen Sicong, Ji Jianwei. Department of Clinical Laboratory,
+the Affiliated Yancheng Hospital of Southeast University Medical College, Yancheng 224001, China
+[Summary]  The association between serum fetuin A and diabetic nephropathy (DN) in patients with type 2
+diabetes mellitus(T2DM)was investigated. Serum levels of fetuin-A and adiponectin were measured by ELISA and the
+clinical data were collected in 101 T2DM patients with normal albuminuria ( NA group ), 87 patients with
+microalbuminuria (MA group),44 patients with overt albuminuria(OA group), and 130 normal control subjects(NC
+group). Fetuin-A levels increased progressively from NC, NA, MA, to OA groups, and there were significant
+differences among groups(P<0. 05 or P<0. 01) . Fetuin-A level in patients was positively associated with duration of
+illness, urinary albumin to creatinine ratio (ACR), fasting blood glucose, 2-hour postprandial blood glucose, and
+C-reactive protein(CRP, P<0. 05 or P<0. 01), but was negatively associated with age and adiponectin ( all P<
+0. 01) . Multiple stepwise regression analysis indicated that duration of diabetes, fetuin-A, CRP, and adiponectin
+were independent determinants for ACR ( all P < 0. 01 ) . Fetuin-A may be involved in the development and
+pathogenesis of DN by proinflammatory effects and repressing adiponectin production.
+[Key words]  Diabetic nephropathy; Fetuin-A; Diabetes mellitus, type 2
+(Chin J Endocrinol Metab, 2014, 30: 592-594)
+糖尿病肾病(diabetic nephropathy,DN)是糖尿病微血管病
+变的主要并发症之一,也是导致终末期肾衰及糖尿病相关的致
+死、致残的一个重要原因。 DN 确切的致病机制至今还不清楚,
+通常认为,DN 患者是在长期高血糖负荷状态下,在一定遗传因
+素及一些相关获得性因素共同参与下,逐渐形成的细胞因子网
+络调控紊乱,最终导致以肾小球硬化为主要病理特征的肾功能
+损害[1] 。 胎球蛋白 A(Fetuin-A)作为一种新型的生物标志物目
+前已被证实和糖尿病的多种并发症如外周血管疾病、冠状动脉
+疾病及心血管疾病等密切相关[2-4] ,但 Fetuin-A 和 DN 的关系
+报道较少。 本研究通过比较 2 型糖尿病(T2DM)肾病患者不同
+蛋白尿水平状态下血清 Fetuin-A 水平的变化,探讨 Fetuin-A 与
+DN 的相关性及其可能的致病机制。
+一、 对象和方法
+1. 对象:选取 2012 年 9 月至 2013 年 6 月在东南大学医学
+院附属盐城医院内分泌科收治的 T2DM 患者。 初选病例数为
+500 例,排除 T2DM 合并非酒精性脂肪肝(NAFLD)患者 171 例;
+排除 T2DM 合并恶性肿瘤、其他急、慢性肾脏疾病、肝功能异
+常、遗传性疾病、自身免疫性疾病及其他内分泌系统疾病等 97
+例。 最后入选病例为 232 例,其中男性 119 例,女性 113 例,平
+均年龄(61. 98±10. 42)岁,所有患者均符合 1999 年世界卫生组
+织(WHO)制定的糖尿病诊断标准。 依据尿白蛋白 /肌酐比值
+(albumin to creatinine ratio,ACR)将 T2DM 患者分成 3 组:ACR<
+3 mg / mmol 的正常白蛋白尿(NA)组;3≤ACR<30 mg / mmol 的
+微量白蛋白尿(MA)组;ACR≥30 mg / mmol 的大量白蛋白尿
+(OA)组。 另选择同期本院的健康体检者 130 名作为正常对照
+(NC)组,男性 67 名,女性 63 名,平均年龄(61. 32 ± 9. 15)岁。
+所有入选的健康体检者均排除非酒精性脂肪肝、急慢性感染、
+肝、肾功能不全及其它内分泌系统疾病等。
+2. 方法:收集并记录所有受试者的身高、体重、腰围、臀围
+等数据,计算体重指数和腰臀比;连续收集 T2DM 患者 3 d 的晨
+尿标本,测定尿白蛋白及尿肌酐,计算 3 次尿 ACR 的平均值;
+空腹血糖(FBG)、餐后 2 h 血糖(2hPG)、总胆固醇(TC)、甘油
+三酯(TG)、高密度脂蛋白胆固醇(HDL-C)、低密度脂蛋白胆固
+醇(LDL-C)及尿肌酐采用 Roche 公司 7600 全自动生化分析仪
+及其配套试剂测定;HBA1C采用上海惠中公司 MQ-2000PT 糖化
+血红蛋白仪及其配套试剂测定;尿白蛋白及 C 反应蛋白(CRP)
+检测采用 Beckman-coulter IMMAGE 800 特种蛋白分析仪及其配
+套试剂;Fetuin-A 及脂联素均采用 ELISA 法检测,试剂盒分别
+购自捷克 BioVendor 公司及美国 Linco 公司,操作严格按照试剂
+盒说明书进行。
+3. 统计学处理: 采用 SPSS 17. 0 统计学软件进行统计分
+析。 正态分布资料以 x-± s 表示,偏态分布资料以中位数(四分
+位数间距)表示。 正态分布资料多组间比较用单因素方差分
+析,组间两两比较采用 SNK-q 检验,率的比较采用 字2检验;偏态
+分布资料多组间比较采用 Kruskal-Wallis H 检验,组间两两比较
+用 Nemenyi 检验;变量间的关系采用 Person 相关分析及多元逐
+步回归分析。 P<0. 05 为差异有统计学意义。
+二、 结果
+1. 正常对照组与 T2DM 组中不同程度蛋白尿组一般资料
+及生化指标比较:各组间性别、年龄及 2hPG 比较差异无统计学
+意义(P>0. 05),其余指标的组间比较均有统计学差异(P<
+0. 01)。 与 NC 组比较,NA、MA 及 OA 组的体重指数、腰臀比、
+Fetuin-A、FBG、CRP、TC、TG、LDL-C 及 HBA1C均升高,脂联素降
+低(P<0. 05);与 NA 组比较,MA 及 OA 组的病程、Fetuin-A、
+CRP 及 ACR 均升高,脂联素降低(P<0. 05);与 MA 组比较,OA
+组的病程、Fetuin-A、CRP、ACR 及 LDL-C 升高,脂联素降低(P<
+0. 05,表 1)。
+2. 血清 Fetuin-A 与其他指标的相关性分析:Person 相关分
+析显示,T2DM 组中,Fetuin-A 水平与病程( r = 0. 318)、ACR( r =
+0. 487)、FBG( r=0. 393)、2hPG( r=0. 410)及 CRP( r= 0. 205)呈
+正相关(P<0. 05 或 P<0. 01),与年龄( r = -0. 411)及 APN( r =
+-0. 454)呈负相关(均 P<0. 01),与其他指标无相关性 (P >
+0. 05)。
+3. 多元逐步回归分析:T2DM 组中,取自然对数将 ACR 转
+换为正态分布,以 ln(ACR)为因变量,以年龄、病程、体重指数、
+腰臀比、 Fetuin-A、脂联素、 FBG、2hPG、 CRP、 TC、 TG、HDL-C、
+LDL-C、HBA1C等为自变量,进行多元逐步回归分析,结果显示,
+病程(β=0. 066)、Fetuin-A(β= 0. 030)、CRP(β= 0. 045)及脂联
+素(β= -0. 052)是 ln(ACR)的独立影响因素(均 P<0. 01)。
+三、 讨论
+糖尿病引起肾损害的致病机制涉及多种可能的因素,包括
+遗传因素、糖代谢紊乱、蛋白激酶 C 的激活、血流动力学改变、
+氧化应激、慢性炎症及炎性细胞因子的参与等,在这些影响因
+素中,慢性炎症及炎性细胞因子的作用近来越来越受到研究者
+们的重视[1,5] 。
+Fetuin-A 主要是由肝脏合成并分泌的一种糖蛋白,是肝脏
+和骨骼肌组织中胰岛素受体酪氨酸激酶的内源性抑制剂[6] 。
+Fetuin-A 基因敲除的小鼠,其胰岛素分泌增加,表现有消瘦及游
+离脂肪酸分泌减少等现象,且高脂肪饮食不会导致基因敲除的
+小鼠体重增加[7] 。 Fetuin-A 和脂代谢密切相关,Fetuin-A 表达
+水平在 NAFLD 患者中表现为显著增高[8] 。 由于 T2DM 合并
+NAFLD 现象较为常见,因此, 为了避免混淆偏倚, 本研究所选
+择的病例及正常对照人群均通过高频超声排除 NAFLD,本研
+表 1  正常对照与 2 型糖尿病组中不同程度蛋白尿组一般资料及生化指标比较[x-± s,中位数(四分位数间距)]
+组别 例数(男 / 女) 年龄(岁)
+病程
+(年)
+体重指数
+(kg / m2) 腰臀比
+Fetuin-A
+(μg / ml)
+NC 130(67 / 63) 61. 32 ± 9. 15 - 22. 62 ± 2. 50 0. 83 ± 0. 04 257. 30(203. 50,312. 80)
+NA 101(53 / 48) 60. 83 ± 10. 21 7. 15 ± 6. 05 24. 83 ± 3. 38a 0. 87 ± 0. 07a 344. 50(309. 20,395. 80) a
+MA   87(40 / 47) 62. 25 ± 9. 87 9. 73 ± 7. 54b 25. 27 ± 3. 21a 0. 88 ± 0. 08a 379. 30(338. 60,423. 30) ab
+OA   44(25 / 19) 63. 09 ± 9. 92 13. 22 ± 7. 76bc 25. 16 ± 3. 30a 0. 88 ± 0. 07a 426. 40(385. 10,481. 20) abc
+字2 =1. 576
+P>0. 05
+F=0. 414
+P>0. 05
+F=13. 733
+P<0. 01
+F=41. 137
+P<0. 01
+F=37. 841
+P<0. 01
+H=200. 759
+P<0. 01
+组别 例数(男 / 女) APN(mg / L)
+FBG
+(mmol / L)
+2hPG
+(mmol / L)
+CRP
+(mg / L)
+ACR
+(mg / mmol)
+NC 130(67 / 63) 10. 93 ± 2. 52 4. 55 ± 0. 63 - 2. 43 ± 2. 35 -
+NA 101(53 / 48) 7. 45 ± 2. 29a 8. 24 ± 2. 91a 16. 53 ± 5. 15 5. 02 ± 5. 05a 1. 93(1. 21,2. 53)
+MA   87(40 / 47) 6. 07 ± 2. 23ab 8. 40 ± 3. 33a 17. 32 ± 4. 80 5. 55 ± 5. 11ab 7. 57(3. 32,24. 83) b
+OA   44(25 / 19) 4. 35 ± 2. 15abc 8. 45 ± 3. 27a 17. 14 ± 4. 73 6. 12 ± 5. 20abc 48. 78(37. 56,79. 81) bc
+字2 =1. 576
+P>0. 05
+F=271. 671
+P<0. 01
+F=277. 321
+P<0. 01
+F=2. 289
+P>0. 05
+F=121. 422
+P<0. 01
+H=195. 617
+P<0. 01
+组别 例数(男 / 女) TC(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+HBA1C
+(% )
+NC 130(67 / 63) 4. 72 ± 0. 91 1. 23 ± 0. 50 1. 43 ± 0. 31 2. 35 ± 0. 62 5. 53(5. 16,6. 15)
+NA 101(53 / 48) 5. 09 ± 1. 08a 1. 65 ± 1. 23a 1. 14 ± 0. 53a 3. 35 ± 0. 72a 8. 64(7. 25,10. 43) a
+MA   87(40 / 47) 5. 07 ± 1. 11a 1. 88 ± 1. 13a 1. 17 ± 0. 56a 3. 19 ± 0. 69a 9. 05(7. 67,10. 58) a
+OA   44(25 / 19) 5. 20 ± 1. 13a 1. 90 ± 1. 18a 1. 15 ± 0. 52a 3. 62 ± 0. 77ac 8. 95(7. 60,10. 66) a
+字2 =1. 576
+P>0. 05
+F=7. 687
+P<0. 01
+F=23. 115
+P<0. 01
+F=14. 410
+P<0. 01
+F=77. 192
+P<0. 01
+H=245. 588
+P<0. 01
+注:NC:正常对照;NA:正常白蛋白尿;MA:微量白蛋白尿;OA:大量白蛋白尿;Fetuin-A:胎球蛋白 A;APN:脂联素;FBG:空腹血糖;2hPG:餐后 2 h
+血糖;CRP:C 反应蛋白;ACR:尿白蛋白 / 肌酐比值;TC:总胆固醇;TG:甘油三酯;HDL-C:高密度脂蛋白胆固醇;LDL-C:低密度脂蛋白胆固醇;与 NC 比
+较,aP<0. 05;与 NA 比较,bP<0. 05;与 MA 比较,cP<0. 05;“-冶:无统计数据,未纳入组间统计比较
+究中,通过高频超声排除的 T2DM 合并 NAFLD 患者数占初选
+T2DM 病例数约 34% 。 Fetuin-A 水平还受年龄及种族等因素影
+响,年龄越大,Fetuin-A 表达水平越低[4] ,本研究结果也表明血
+清 Fetuin-A 水平与年龄呈负相关。 此外, 不同种族之间
+Fetuin-A 水平也可能存在差异,Mehrotra 等[9] 研究显示,拉丁美
+洲的 DN 患者 Fetuin-A 平均水平显著高于非裔美国人中的 DN
+患者。 Fetuin-A 水平由于受诸多因素的影响,因此有些报道往
+往存在不一致的现象。 Roos 等[10] 最近的一项研究则显示,血
+清 Fetuin-A 水平与 DN 没有相关性,与本研究结果不一致,可能
+和研究所选择的不同群体有关。
+Fetuin-A 除了对脂肪组织中胰岛素等活性有着重要影响,
+还有其他生物学效应。 Fetuin-A 能够通过刺激单核细胞分泌某
+些细胞因子从而具有促炎性效应,导致某些器官和组织产生慢
+性炎症[11] 。 本研究观察到在 DN 患者中,随着尿白蛋白排泄量
+的增加,CRP 也明显增高,血清 Fetuin-A 水平与 ACR 及 CPR 均
+呈正相关。 CRP 是非特异性炎症的一种敏感指标,目前已被证
+实与 T2DM 合并大血管病变密切相关[12] 。 本研究进一步证实
+糖尿病微血管病变与炎症的相关性,提示 Fetuin-A 在 DN 发生
+发展过程中可能的促炎性效应,其促炎性效应的具体作用机制
+有待进一步研究。
+本研究还观察到血清 Fetuin-A 与脂联素呈负相关,多元逐
+步回归分析也显示,脂联素与 ACR 呈负相关,提示脂联素可能
+是 DN 的保护因子。 脂联素是脂肪细胞分泌的一种血浆激素
+蛋白,在内脏及皮下脂肪组织中呈高表达并进入血液循环,脂
+联素能够增强胰岛素敏感性,能通过改善糖脂代谢、抗炎性及
+抗动脉粥样硬化等效应调节人体中的糖、脂及氨基酸等代
+谢[13] ,此外,脂联素还能通过刺激一氧化氮的产生来调节血管
+内皮细胞的功能,从而对糖尿病的血管并发症起着保护作
+用[14] 。 脂联素同时也是调节尿白蛋白排泄量的关键性因子之
+一,其可能通过单磷酸腺苷活化蛋白激酶(AMPK)通路调节肾
+小球足细胞的氧化应激作用从而负向调控尿白蛋白排泄
+量[15] 。
+Fetuin-A 和脂联素的生物学效应密切相关,编码人 Fetuin-
+A 和脂联素的基因均位于人类染色体 3q27 位点,两基因彼此
+相邻,这一染色体区域先前一直被视为 T2DM 和代谢性综合征
+的敏感位点[16] 。 Li 等[17]新近的一项动物实验研究表明,高脂
+饮食喂养的大鼠其血清 Fetuin-A 及尿白蛋白排泄量较正常饮
+食喂养的大鼠明显增高。 研究者将实验大鼠随机分成 3 组,分
+别喂养正常饮食、高脂饮食及高脂饮食加降脂药物非诺贝特。
+实验结果显示,高脂饮食组血清 Fetuin-A 与 ACR 呈正相关,与
+脂联素呈负相关,但是将非诺贝特加进高脂饮食进行干预后,
+Fetuin-A 及尿白蛋白排泄量明显降低,脂联素则升高。 另外,
+Fetuin-A 除了具有促炎性效应,还能够抑制脂肪组织中脂联素
+基因的表达从而使外周血中脂联素表达水平下降[7] 。 本研究
+中,随着 DN 的进展,血清 Fetuin-A 水平逐渐升高,而脂联素血
+清水平逐渐下降。 因此,推测脂联素和 Fetuin-A 很可能通过相
+互协同作用参与 DN 的发生发展。
+为了明确 ACR 的影响因素,本研究将所有可能影响 ACR
+的自变量均纳入多元回归方程,在校正了年龄、体重指数、腰臀
+比、FBG、2hPG、TC、TG、HDL-C、LDL-C、HBA1C等影响因素后,发
+现病程、Fetuin-A、CRP 及脂联素是 ACR 的独立影响因素。 综
+合前述,本研究认为,Fetuin-A 可能通过其促炎性效应及抑制脂
+联素表达从而参与 DN 的发生和发展。

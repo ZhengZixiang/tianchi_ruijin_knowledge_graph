@@ -1,0 +1,196 @@
+基础研究
+基金项目: 天津市应用基础及前沿技术研究计划重点项目
+(10JCZDJC19900);天津医科大学科学基金(2011KY25)
+激素与发育重点实验室
+促甲状腺素通过促进 TNF-α 分泌下调 3T3-L1 脂肪细胞的
+IRS-1 表达
+张雅静  冯玲  赵伟  汤莎莎  张宏
+[提要]   转染促甲状腺素受体(TSHR)shRNA 的 3T3-L1 脂肪细胞以牛促甲状腺素(TSH)刺激,酶联
+免疫吸附法(ELISA)检测培养基中肿瘤坏死因子 α(TNF-α)水平,Western 印迹法检测胰岛素受体底物 1
+(IRS-1)的蛋白表达,免疫沉淀法检测 IRS-1 酪氨酸磷酸化。 结果显示,1 mIU / ml TSH 明显增加 3T3-L1 脂
+肪细胞 TNF-α 分泌[(341. 85 ± 12. 00 对 522. 67 ± 36. 22)ng / L,P<0. 01];随着 TSH 刺激浓度的增加,IRS-1
+蛋白表达及其酪氨酸磷酸化明显降低(均 P<0. 01),而以 RNA 干扰下调 TSHR 后上述作用消失。 另外,
+TNF-α 拮抗剂 WP9QY 也可逆转 TSH 对 IRS-1 的下调作用。 这些结果提示 TSH 与 3T3-L1 脂肪细胞表面
+TSHR 结合后,可能通过促进 TNF-α 分泌进而下调 IRS-1 的表达及其酪氨酸磷酸化,而参与胰岛素抵抗的
+发生。
+[关键词]   胰岛素抵抗; 促甲状腺素; 肿瘤坏死因子 α; 胰岛素受体底物 1; 小发夹 RNA
+Thyroid-stimulating hormone decreases insulin receptor substrate 1 expression via stimulating TNF-α
+secretion in 3T3-L1 adipocytes Zhang Yajing, Feng Ling, Zhao Wei, Tang Shasha, Zhang Hong. Key Lab of
+Hormone and Development of Health Ministry, Research Institute of Endocrinology, the Metabolic Disease Hospital
+Affiliated to Tianjin Medical University, Tianjin 300070, China
+[Summary]  3T3-L1 adipocytes transfected with TSH receptor ( TSHR) shRNA were incubated with bovine
+TSH. The concentration of tumor necrosis factor ( TNF)-α in culture medium was measured by enzyme linked
+immunosorbent asssy. Protein level of insulin receptor substrate 1 ( IRS-1) was quantified by Western blotting.
+Tyrosine phosphorylation of IRS-1 was measured by immunoprecipitation. The results showed that 1 mIU / ml TSH
+significantly sitmulated TNF-α release in 3T3-L1 adipocytes[(341. 85 ±12. 00 vs 522. 67 ±36. 22)ng / L,P<0. 01],
+along with the decreases in IRS-1 protein expression and its tyrosine phosphorylation (P < 0. 01) . These effects
+disappeared when TSHR expression was down-regulated with RNA interference in 3T3-L1 adipocytes. In addition,
+WP9QY, a TNF-α antagonist, blocked TSH-decreased IRS-1 expresssion. These results suggest that TSH down-
+regulates IRS-1 protein expression and its tyrosine phosphorylation through stimulating production of TNF-α, and thus
+contributes to the development of insulin resistance.
+[Key words]   Insulin resistance; Thyrotropic-stimulating hormone; Tumor necrosis factor-alpha; Insulin
+receptor substrate 1; Small hairpin RNA
+(Chin J Endocrinol Metab, 2014, 30: 65-68)
+近年来,大量的研究表明,脂肪组织不仅是能量储存场所,
+而且是一个重要的内分泌器官[1] ,能分泌多种生物活性物质包
+括肿瘤坏死因子 α(TNF-α)、白细胞介素 6( IL-6)、抵抗素等影
+响胰岛素的敏感性。 且亦有研究发现[2,3] ,在脂肪细胞表面同
+样存在功能性促甲状腺激素受体(TSHR)表达,促甲状腺激素
+(TSH)是否参与脂肪细胞分泌促炎症因子,进而在胰岛素抵抗
+的发生中发挥作用,尚鲜见报道。 本研究选用目前较为广泛应
+用于胰岛素抵抗研究的 3T3-L1 脂肪细胞株,通过研究 TSH 与
+脂肪细胞表面 TSHR 结合后是否通过促进脂肪细胞分泌
+TNF-α,进而下调胰岛素受体底物 1(IRS-1)的蛋白表达及酪氨
+酸磷酸化,探讨 TSH 是否参与胰岛素抵抗的发生及可能机制。
+一、 材料和方法
+1. 材料:3T3-L1 前脂肪细胞株、DMEM 高糖培养基购于南
+京 KeyGNE 公司;3-异丁基-1-甲基黄嘌呤( IBMX)、胰岛素、地
+塞米松、油红 O、牛 TSH 购于美国 Sigma 公司;TNF-α 拮抗剂
+WP9QY 购于美国 Santa cruz 公司;LipofectamineTM 2000 购于美
+国 Invitrogen 公司;高纯质粒抽提试剂盒购于北京 TIANGEN 公
+司;小鼠 TNF-α 酶联免疫检测试剂盒购于美国 R&D systems 公
+司;小鼠单克隆 IRS-1 抗体、IRS-1 酪氨酸磷酸化抗体———抗
+Phospho-cdc2(Tyr15)兔单克隆抗体、Protein A+G 琼脂糖购于碧
+云天生物技术研究所。 β-tubulin 抗体购于天津三箭生物技术
+公司;辣根过氧化物酶标记的二抗均购于北京中山金桥生物技
+术有限公司;增强化学发光(ECL)试剂盒购于北京全式金生物
+技术有限公司。
+2. 方法:(1)3T3-L1 前脂肪细胞培养和诱导分化:将细胞
+以 1. 5×104 / cm2细胞密度接种于细胞培养瓶,并以含 10%小牛
+血清的高糖 DMEM 培养基,置于 37℃、5% CO2细胞培养箱进行
+培养。 每 48 h 更换 1 次培养基,约 3 ~ 4 d 细胞生长至培养瓶底
+60% ~70%汇合时,换含 0. 5 mmol / L 的 IBMX、1. 7 μmol / L 胰
+岛素、0. 25 μmol / L 地塞米松和 10%胎牛血清的 DMEM 高糖培
+养基培养 48 h 后,撤去 IBMX 和地塞米松,再 48 h 后撤去胰岛
+素,每 48 h 换液 1 次,分化 8 ~ 10 d,油红 O 染色鉴定,倒置显微
+镜下观察细胞形态、拍照,记录细胞分化情况。 (2)实验分组:
+将细胞分为 3T3-L1 脂肪细胞组、TSHR shRNA 组、TNF-α 拮抗
+剂组(10 μmol / L WP9QY 预处理 15min)。 检测不同浓度牛 TSH
+刺激 4 h 后培养基中 TNF-α 水平,24 h 后检测 IRS-1 的蛋白及
+其酪氨酸磷酸化水平。 实验前诱导成熟的脂肪细胞在无血清
+DMEM 培养基中过夜,在干预之前,予以 100 nmol / L 胰岛素孵
+育 10 min,实验重复进行 3 次。 (3)TNF-α 浓度的测定:按照试
+剂盒说明,取培养基上清,采用酶联免疫吸附试验(ELISA)检
+测 TNF-α 浓度。 (4)TSHR shRNA 转染:TSHR shRNA 重组表达
+质粒基因序列为 5'-CTGACCTGACCAAAGTTTA-3',随机打乱 19
+个碱基顺序作为阴性对照组。 挑取少量 TSHR-shRNA 重组表
+达质粒菌种,参照高纯质粒抽提试剂盒说明书提取质粒,取 4
+μg 质粒、10 滋l LipofectamineTM 2000 稀释、混匀、室温孵育 20
+min 转染 3T3-L1 脂肪细胞 12、24 和 48 h 后Western 印迹法检测
+转染效果。 (5)Western 印迹法检测 IRS-1 蛋白水平:RIPA 裂
+解液裂解贴壁的 3T3-L1 脂肪细胞,提取总蛋白,BCA 法测定蛋
+白含量, 等量上样进行 SDS-聚丙烯酰胺凝胶电泳、 转膜、 封
+闭、 抗体 孵 育、 ECL 法 显 示 蛋 白 条 带。 ( 6 ) 免 疫 沉 淀 法
+(Immunoprecipitation,IP)检测 IRS-1 酪氨酸磷酸化水平:RIPA
+裂解液裂解贴壁的 3T3-L1 脂肪细胞,提取总蛋白,取 200 μg 蛋
+白样品,加入 2 μg 抗 Phospho-cdc2(Tyr15)兔单克隆抗体,4℃
+缓慢 动过夜,再加入 20 滋l 充分重悬的琼脂糖,4℃缓慢 动 3
+h,离心,弃上清,PBS 洗涤,上样进行 SDS-聚丙烯酰胺凝胶电
+泳。 SYNGENE 全自动凝胶成像分析系统中照相,用 gene tool
+分析软件进行灰度值测定,确定蛋白相对表达量。
+3. 统计学处理:采用 SPSS 13. 0 软件进行统计分析,数据
+用 x-± s 表示,非正态分布的数据进行对数转化,组间比较采用
+方差分析,两两比较采用 LSD 检验。 P<0. 05 为差异有统计学
+意义。
+二、 结果
+1. 3T3-L1 前脂肪细胞的培养及诱导分化:小鼠 3T3-L1 前
+脂肪细胞与成纤维细胞形态相似;经油红 O 染色,诱导分化成
+熟脂肪细胞胞浆内遍布亮红色颗粒,苏木素复染后,细胞核呈
+蓝色,偏离细胞中央,可用于实验。
+2. TSHR shRNA 质粒转染:荧光显微镜下观察质粒转染效
+率,未转染的 3T3-L1 脂肪细胞作为正常对照组,未发现绿色荧
+光颗粒出现,即无增强的绿色荧光蛋白(eGFP)表达;分别观察
+转染后 12、24 及 48 h 的 eGFP 表达情况,同一显微镜视野下观
+察,随转染时间的延长,eGFP 表达量逐渐增多,转染 48 h 后效
+率最高。
+进一步以 Western 印迹法验证 TSHR shRNA 转染成熟脂肪
+细胞后 TSHR 蛋白表达情况。 与正常对照组(C 组)及阴性对
+照组(NC 组)相比,转染 48 h 后 TSHR 蛋白表达减少最为明显,
+差异具有统计学意义(P<0. 05 或 P<0. 01,图 1)。
+3. TSH 对 3T3-L1 脂肪细胞 TNF-α 分泌的影响:以 0. 01、
+0. 1 和 1 mIU / ml 牛 TSH 刺激诱导分化成熟的 3T3-L1 脂肪细胞
+4 h 后,3T3-L1 脂肪细胞组培养基中的 TNF-α 水平随 TSH 刺激
+注:C:正常对照组;NC:阴性对照组; TSHR:促甲状腺素受体;
+shRNA: 小发夹 RNA;与 C 组相比,aP < 0. 05,bP < 0. 01;与 NC 组相
+比,cP<0. 05
+图 1  TSHR shRNA 下调 TSHR 的蛋白表达
+注:TSHR:促甲状腺素受体;IRS-1:胰岛素受体底物 1;与对照组比
+较,aP<0. 05,bP<0. 01
+图 2  下调 TSHR 表达对抗 TSH 降低的 IRS-1 蛋白表达及其酪氨酸磷
+酸化
+注:IRS-1:胰岛素受体底物 1;WP9QY:肿瘤坏死因子 α 拮抗剂;与
+对照组比较,aP<0. 01;与 TSH 组比较,bP<0. 05
+图 3  WP9QY 逆转 TSH 降低的 IRS-1 蛋白表达及其酪氨酸磷酸化
+浓度增加呈上升趋势,差异有统计学意义[(341. 85 ± 12. 00 对
+411. 08 ± 12. 03, 431. 51 ± 30. 10, 522. 67 ± 36. 22)ng / L,P<0. 05
+或 P<0. 01],而该作用不存在于 TSHR shRNA 转染后的脂肪细
+胞[(339. 62 ±14. 39 对 347. 00 ±21. 67,356. 23 ±22. 38,368. 50 ±
+26. 11)ng / L,P>0. 05]。
+4. TSH 对 3T3-L1 脂肪细胞 IRS-1 蛋白表达及其酪氨酸磷
+酸化的影响:与空白对照组比较,随着 TSH 刺激浓度的增加,
+IRS-1 蛋白表达及其酪氨酸磷酸化水平呈下降趋势,TSH 浓度
+增至 1 mIU / ml 时,与对照组相比差异均有统计学意义(0. 48 ±
+0. 03 对 1. 02 ± 0. 26,均 P<0. 01,图 2)。 上述效应均未见于
+TSHR shRNA 转染脂肪细胞组,此变化趋势与 TNF-α 变化趋势
+相反。 WP9QY 可以逆转 TSH 对脂肪细胞 IRS-1 的抑制效应
+(图 3)。
+三、 讨论
+近年来,大量的研究发现[4-6] ,TSHR 不仅表达于甲状腺滤
+泡细胞表面,亦表达于脂肪组织,且血清 TSH 与胰岛素抵抗的
+发生相关。 本课题前期研究同样发现[7] ,2 型糖尿病患者血清
+TSH 水平显著高于正常人群(P<0. 01),在 2 型糖尿病大鼠的
+研究中发现,血清 TSH 水平与附睾脂肪组织核转录因子-κB
+p65(NF-kB p65)、TNF-α 蛋白表达水平正相关,与胰岛素敏感
+指数呈负相关[8] 。 脂肪组织为胰岛素作用的重要靶组织,其分
+泌的 TNF-α 等多种炎症因子在胰岛素抵抗发生中具有重要作
+用。 TSH 是否参与脂肪细胞分泌 TNF-α 等促炎症因子,进而在
+胰岛素抵抗的发生中发挥作用,尚少见报道。
+在生理状态下,TSH 与甲状腺滤泡细胞膜上 TSHR 结合
+后,经 G 蛋白介导,通过环腺苷酸(cAMP)或二磷酸肌醇途径,
+产生相应的生物学效应。 本课题前期关于 TSH 在脂肪细胞的
+甲状腺以外效应的研究中发现[8,9] , TSH 可激活脂肪细胞
+cAMP-蛋白激酶 A 信号途径,活化 NF-κB,诱导 TNF-α 基因转
+录,进而抑制葡萄糖转运蛋白 4 的蛋白表达及转位。 为进一步
+探索 TSH 是否通过脂肪细胞表面 TSHR 介导而促进 TNF-α 分
+泌,本研究采用 TSHR shRNA 沉默脂肪细胞表面 TSHR,结果显
+示,随着 TSH 刺激浓度增加,3T3-L1 脂肪细胞培养基中的
+TNF-α 水平呈上升趋势,而下调 TSHR 后此作用消失,提示 TSH
+通过脂肪细胞表面 TSHR,剂量依赖性地促进 TNF-α 分泌。
+众所周知,胰岛素信号转导经由靶细胞膜上胰岛素受体
+(IR)介导,IRS-1 是 IR 下游第一个底物分子,广泛分布于胰岛
+素敏感组织。 IRS-1 通过自身酪氨酸磷酸化介导胰岛素信号转
+导,磷酸化的 IRS-1 与磷脂酰肌醇-3 激酶(PI3-K)的 p85 调节
+亚单位结合,催化 p110 而激活 PI3-K,进一步使蛋白激酶 B 的
+丝氨酸残基磷酸化,从而导致 GLUT4 从胞浆转位至细胞膜,促
+进葡萄糖的摄取、利用。 组织细胞内 IRS-1 蛋白水平、结构、功
+能状态(酪氨酸磷酸化)是胰岛素信号转导的基础,当 IRS-1 浓
+度降低或结构、活性异常,均可导致胰岛素信号转导阻滞,进而
+导致胰岛素抵抗的发生[10] 。
+TNF-α 是导致胰岛素抵抗的重要因素之一,脂肪细胞分泌
+的 TNF-α 通过多种途径影响胰岛素信号转导[11] 。 有研究表
+明[12] ,TNF-α 抑制 IRS-1 酪氨酸磷酸化的可能机制包括 IRS-1
+降解加速和 IRS-1 蛋白上的丝氨酸残基磷酸化反馈抑制酪氨
+酸磷酸化。 近年来,有研究表明[13] ,TNF-α 能够有效抑制胰岛
+素敏感细胞 IR 的酪氨酸蛋白激酶的催化活性,影响脂肪细胞
+胰岛素受体水平或抑制其自身酪氨酸磷酸化。
+与 Shen 等[13]的研究不同,本研究检测不同浓度 TSH 刺激
+3T3-L1 脂肪细胞发现,随着 TSH 刺激浓度的增加,3T3-L1 细胞
+IRS-1 蛋白表达水平及酪氨酸磷酸化均呈下降趋势,但仅当
+TSH 浓度增至 1 mIU / ml 时,IRS-1 蛋白水平较对照组及 0. 01
+mIU / ml TSH 组明显降低,而当 TSH 浓度增至 0. 1 mIU / ml 时
+IRS-1 酪氨酸磷酸化水平即已较对照组明显降低,提示当 TSH
+刺激 TNF-α 分泌浓度较高时,可下调 IRS-1 蛋白的表达,而较
+小剂量的 TSH 促进脂肪细胞分泌较低浓度的 TNF-α 时即可抑
+制 IRS-1 酪氨酸磷酸化。 IRS-1 的上述变化趋势与 TNF-α 分泌
+趋势相反。 进一步予以 TNF-α 拮抗剂———WP9QY 干预后显
+示,WP9QY 可以逆转 TSH 对 IRS-1 的抑制作用。 因此,本研究
+结果提示 TSH 与脂肪细胞表面 TSHR 结合后,可能通过促进脂
+肪细胞分泌 TNF-α 进而下调 IRS-1 的表达,并干扰 IRS-1 正常
+的酪氨酸磷酸化,抑制胰岛素的 PI3K 信号通路,导致 GLUT4
+的表达和胞膜转位下调[9,14] ,进而参与胰岛素抵抗的发生。
+总之,本研究为胰岛素抵抗发生机制的研究提供了新思
+路,临床上合理调控血清 TSH 水平,可能有助于胰岛素抵抗及
+2 型糖尿病的防治。 但胰岛素抵抗发病机制复杂,本研究仅选
+用 3T3-L1 脂肪细胞株体外培养进行研究,不能完全模拟人体
+内环境,不能完全解释 TSH 在机体内脂肪组织的甲状腺以外效
+应,有待于在今后研究中进一步完善。

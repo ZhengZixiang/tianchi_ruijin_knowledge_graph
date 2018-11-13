@@ -1,0 +1,376 @@
+基础研究
+基金项目:辽宁省科技攻关计划(2011225017);2011 年辽宁省“百
+千万人才工程冶资助项目(2011921037);沈阳市科技攻关计划( F11-
+262-9-06)
+灿、邵滢、王秋月);沈阳市第八人民医院(周月宏);中国医科大学(王
+冠)
+α-硫辛酸通过 mTOR 信号通路调节高糖诱导
+的大鼠肾小球系膜细胞增殖
+吕川  吴灿  周月宏  邵滢  王冠  王秋月
+[摘要]   目的  观察 α-硫辛酸(α lipoic acid,LA)是否通过哺乳动物雷帕霉素靶蛋白(mTOR)信号通
+路调节高糖诱导的肾小球系膜细胞增殖。 方法 应用四甲基偶氮唑盐(MTT)法检测细胞增殖,流式细胞
+术检测细胞周期,实时定量 PCR 检测 AMP 活化的蛋白激酶(AMPK)mRNA 的表达,Western 印迹法检测
+AMPK、蛋白激酶 B(Akt)、mTOR、核糖体 40S 小亚基 s6 蛋白激酶(p70S6K)、真核细胞翻译起始因子 4E 结
+合蛋白 1(4EBP1)的磷酸化水平。 结果 0. 25 mmol / L LA 促进高糖培养的大鼠肾小球系膜细胞增殖(P<
+0. 01),增加 S 期细胞数量(P<0. 01),并增加肾小球系膜细胞 Akt、mTOR、p70S6K、4EBP1 磷酸化水平(均
+P<0. 05)。 而抑制 Akt 活性后,0. 25 mmol / L LA 的上述作用消失。 相反,1. 0 mmol / L LA 则抑制高糖培养的
+大鼠肾小球系膜细胞增殖(P<0. 01),并降低 S 期细胞比例(P<0. 01),还增加 AMPK 的磷酸化(P<0. 01),
+降低 mTOR、p70S6K、4EBP1 的蛋白表达活性(P<0. 05)。 抑制 AMPK 活性可逆转 1. 0 mmol / L LA 的上述作
+用。 结论 LA 可通过调控 mTOR 信号通路,对高糖诱导的肾小球系膜细胞增殖呈浓度依赖性的调节作
+用。
+[关键词]   α-硫辛酸; 哺乳动物雷帕霉素靶蛋白; 糖尿病; 糖尿病肾脏疾病; 肾小球系膜细胞
+Alpha lipoic acid modulates high glucose-induced rat mesangial cell proliferation via mTOR signaling pathway
+Lyu Chuan*, Wu Can, Zhou Yuehong, Shao Ying, Wang Guan, Wang Qiuyue. *Division of Endocrinology, First
+Affiliated Hospital, China Medical University, Shenyang 110001, China
+[Abstract]  Objective  To examine whether alpha lipoic acid(LA)regulates high glucose-induced mesangial
+cell proliferation via mammalian target of rapamycin(mTOR) signaling. Methods The cell proliferation and cycle
+were determined by methylthiazoletetrazolium(MTT)assay and flow cytometry, respectively. The mRNA expression of
+AMP-activated protein kinase(AMPK)was detected by realtime PCR. The phosphorylation levels of protein kinase B
+(Akt), mTOR, eukaryotic translation initiation factor 4E binding protein 1(4EBP1), and 70S6 kinase(p70S6K)
+were measured by Western blot. Results 0. 25 mmol / L LA promoted high glucose-sitmulated rat mesangial cell
+proliferation(P<0. 01)and entry of cell cycle into S phase(P<0. 01), along with increased phosphorylation levels of
+Akt, mTOR, p70S6K, and 4EBP1(P<0. 05) . These effects of 0. 25 mmol / L LA disappeared when Akt activity was
+inhibited. On the contrary, 1. 0 mmol / L LA inhibited high glucose-induced cell proliferation(P<0. 01) and entry of
+cell cycle into S phase(P<0. 01), with the decreased phosphorylation levels of mTOR, p70S6K, and 4EBP1(P<
+0. 05)and the enhanced activity of AMPK(P<0. 01) . These effects of 1. 0 mmol / L LA were prevented when AMPK
+activity was inhibited. Conclusions LA dose-dependently regulates mesangial cell proliferation induced by glucose
+via mTOR signaling pathway.
+[Key words]   Alpha-lipoic acid; Mammalian target of rapamycin; Diabetes mellitus; Diabetic kidney
+disease; Glomerular mesangial cells
+(Chin J Endocrinol Metab, 2015, 31: 263-271)
+糖尿病肾脏疾病(diabetic kidney disease,DKD)是
+糖尿病的微血管并发症之一,目前糖尿病患者肾小球
+硬化和终末期肾脏疾病患病率仍不断升高,明显增加
+了糖尿病患者人群的死亡率[1,2]。 肾小球硬化是 DKD
+的典型特征,肾小球系膜细胞增殖和细胞外基质过度
+生成是 DKD 肾小球硬化的始动机制[3]。 因此,有效抑
+制肾小球系膜细胞增殖对于防治 DKD 肾小球硬化具
+有重要意义。
+α-硫辛酸(LA)作为一种强效抗氧化剂,对葡萄糖
+和脂代谢发挥重要调节作用,还可有效改善糖尿病肾
+脏肥大和细胞外基质的积聚。 但是,LA 对高糖诱导的
+肾小球系膜细胞增殖影响的研究较少。 LA 作为一种
+短链脂肪酸,已被证实可激活多种组织细胞 AMP 活化
+的蛋白激酶(AMPK) [4-7]。 研究发现,Ca2+ /钙调素±
+赖性蛋白激酶(CaMKK)在哺乳动物细胞中广泛表达,
+并作为 AMPK 的上游激活物[8]。 LA 通过增加大鼠骨
+骼肌 CaMKK 活性,促进 AMPK 活化并抑制哺乳动物
+雷帕霉素靶蛋白(mTOR) /核糖体 40S 小亚基 s6 蛋白
+激酶(p70S6K)信号,进而抑制了蛋白质合成并改善了
+高糖诱导的胰岛素抵抗[9]。 近年来研究发现 LA 可直
+接与胰岛素受体酪氨酸激酶区结合,激活肝细胞和甲
+状腺细胞蛋白激酶 B(Akt)通路[10,11]。 LA 还可通过
+激活 Akt 以促进 mTOR、 p70S6K 和 4E 结合蛋白 1
+(4EBP1)磷酸化,有效改善脑血管内皮细胞缺血再灌
+注损伤[12]。 这些结果表明 LA 可以通过激活 AMPK、
+Akt 调控组织细胞 mTOR 信号通路。
+mTOR 是一种丝氨酸 /苏氨酸激酶,参与组成两种
+功能性蛋白复合物:mTORC1 和 mTORC2。 mTORC1
+是由 mTOR、mLST8、PRAS40 和 Raptor 形成的蛋白复
+合物。 mTORC1 通过磷酸化其下游的两个效应因子
+p70S6K 及 4EBP1 对细胞的生长、增殖和蛋白质合成
+发挥重要的调节作用[13]。 Akt 可通过磷酸化抑制
+TSC2 进而间接激活 mTOR,导致 mTORC1 信号增强,
+同时 Akt 还 可 促 进 PRAS40 磷 酸 化 并 减 弱 其 对
+mTORC1 的抑制作用[14]。 而 AMPK 则通过刺激 TSC2
+(Ser-1345)磷酸化以间接地抑制 mTOR,导致 mTORC1
+信号减弱,AMPK 也可刺激 Raptor( Ser722 和 Ser792)
+发生磷酸化并促进其对 mTORC1 的抑制作用[15]。 糖
+尿病时,高血糖通过增加 Akt 活性并抑制 AMPK,间接
+激活 mTORC1[16]。 mTORC1 激活与糖尿病肾脏病理
+改变密切相关,包括细胞外基质增加、肾小球肥大、肾
+小球基底膜增厚[17]。
+因此,基于上述研究结果,本研究将观察 LA 是否
+对高糖诱导的肾小球系膜细胞增殖发挥调节作用,并
+探讨 LA 的这一作用是否通过激活 AMPK、Akt 进而调
+控 mTOR / p70S6K / 4EBP1 信号通路而实现。
+材料和方法
+一、 材料
+大鼠肾小球系膜细胞系(HBZY-1)购自中国典型
+培养物保藏中心(武汉,中国);MEM 培养基(GIBCO,
+美国)、胎牛血清(ABGENT,South America)、胰蛋白酶
+(Hyclone,美国);LA(Sigma,美国),PI3K / Akt 抑制剂
+LY294002(Cell signaling technology,美国);CaMKK 抑
+制剂 STO-609(Sigma,美国);四甲基偶氮唑盐(MTT)、
+PI、RNA 酶(碧云天生物技术研究所,北京);RNA 提取
+试剂盒、反转录试剂盒、实时定量 PCR 试剂及 PCR 引
+物合成(TaKaRa,日本);兔抗鼠 AMPKa、Akt、mTOR、
+4EBP1、p70S6K 单克隆抗体和兔抗鼠磷酸化 AMPK
+( Thr172 )、 磷 酸 化 Akt ( Ser473 )、 磷 酸 化 mTOR
+(Ser2448)、磷酸化 p70S6K(Thr389)、磷酸化 4EBP1
+(Thr70)、磷酸化 Raptor ( Ser792) 抗体购自美国 Cell
+Signaling Technology 公司;兔抗鼠 β-actin 单抗(美国
+Santa Cruz Biotechnology);HRP 标记山羊抗兔 IgG(中
+山金桥);ECL 发光液(碧云天生物技术研究所,北
+京)。
+二、 方法
+1. 细胞培养及分组:HBZY-1 大鼠肾小球系膜细
+胞,用含 10% 胎牛血清、青霉素 100 U / ml 和链霉素
+100 μg / ml 的 MEM 培养基,置 37℃、饱和湿度 5% CO2
+的孵箱内贴壁传代培养,隔日换液,用含 0. 25% 胰酶
+的消化液 3 ~ 4 d 消化、传代。 取 7 ~ 9 代对数生长期
+细胞,以每孔 2×105个细胞接种 6 孔板中,培养细胞待
+其贴壁融合 70% ~80% 后用无血清 1640 培养基同步
+化过夜,用于分组处理:(1)正常对照组(NG,含葡萄
+糖 5 mmol / L);(2) 渗透压对照组(Man,含葡萄糖 5
+mmol / L+甘露醇 25 mmol / L);(3)高糖(HG,含葡萄糖
+30 mmol / L)组;(4)HG+0. 1 mmol / L 的 LA 组;(5)HG
++0. 25 mmol / L 的 LA 组;(6) HG+0. 5 mmol / L 的 LA
+组;(7) HG + 0. 75 mmol / L 的 LA 组; (8 ) HG + 1. 0
+mmol / L 的 LA 组;培养 12、24、48 h 后收集各组细胞。
+基于以上实验筛选出 LA 对大鼠肾小球系膜细胞增殖
+发挥促进或抑制作用最显著的浓度,并在 LY294002
+和 STO-609 存在时观察 LA 的作用。
+2. 细胞增殖分析:MTT 法被用来作为细胞增殖的
+检测指标。 将传代培养的细胞接种到 96 孔板中(每
+孔 5×103个)。 用无血清 1640 培养基同步化培养过夜
+后,细胞用上述试剂分别处理 12、24、48 h 后,每孔加
+20 滋l MTT(5 mg / ml),继续培养 4 h 后弃上清,每孔加
+入 100 滋l DMSO。 待甲瓒结晶完全溶解后,选择 570
+nm 波长用全波长酶标仪(美国 Biotek synergy 公司)测
+量各孔 OD 值。 每组设 6 个复孔。
+3. 流式细胞术:运用流式细胞术检测细胞周期。
+同步化的细胞经试剂处理 24 h 后,用胰酶消化、收集
+细胞,并用预冷的 PBS 洗 2 次,再用 PBS 稀释至 70%
+的乙醇在 4℃固定 24 h。 固定的细胞经 PBS 洗涤后,
+用 50 μg / ml 的 RNA 酶在 37℃恒温箱中处理 30 min。
+随后,用 50 μg / ml 的碘化丙啶在 4℃避光染色 30 min。
+再用流式细胞仪 FACS Calibur(BD,美国)采集细胞。
+每个样品细胞数量为 1 ×106 个,运用 CellQuest 软件
+(BD, USA)分析细胞周期。
+4. 实时定量 PCR:提取细胞总 RNA 后合成 cDNA
+模板,引物序列由 TAKARA 设计合成:AMPKa 上游引
+物为 5'-TGAAGATCGGCCACTACATCCT-3',下游引物
+为 5'-CACAGCAACTTTATGTCCAGTCAAC-3'; β-actin
+上 游 引 物 为 5'-TGACAGGATGCAGAAGGAGATTAC-
+3忆,下游引物为 5'-GAGCCACCAATCCACACAGA-3'。
+以 β-actin 作为内参照,采用 SYBRGreenI 荧光定量
+PCR 方法,按说明书取 cDNA 2 滋l,上下游引物 (10
+μmol / L)各 1 滋l,SYBR Premix Ex TaqII(2X)12. 5 滋l 加
+双蒸水至 25 滋l 配制反应体系,使用 Real-time PCR 仪
+(Thermal Cycler Dice Real Time System, TaKaRa)以两
+步法 PCR 反应扩增。 反应条件:95℃预变性 30 s;95℃
+变性 5 s;60℃退火 30 s;72℃延伸 30 s,共 40 个循环。
+每组实验在相同条件下重复 3 次。 反应结束后行产物
+的溶解曲线分析。 并运用 2-△△Ct法进行数据分析[18]。
+5. Western 印迹法:用 RIPA 细胞裂解液裂解细胞
+并提取上清。 用 BCA 法测定蛋白浓度后,用 4% ~
+15% SDS-PAGE 分离蛋白样品(每组 60 μg)并转移至
+PVDF 膜。 然后将膜放在含 5% BSA 的 TBST 缓冲液
+中室温 1. 5 h,随后用特异性抗体将膜 4℃孵育过夜。
+再以相应的二抗(1 : 5 000)孵育 2 h。 免疫复合物使
+用 ECL 法检测,蛋白条带使用 Microchemi 4. 2 凝胶成
+像系统成像分析。
+三、 统计学处理
+实验数据以 x- ± s 表示,采用 (Graph Pad Prism襆
+5. 0; Graph Pad Software)统计分析软件分析实验数据,
+组间比较采用单因素方差分析(post-hoc Bonferroni忆s 校
+正)。 P<0. 05 为差异有统计学意义。
+注:LA:α-硫辛酸 α lipoic acid;NG:正常葡萄糖 Normal glucose 5 mmol / L;Man:25 mmol / L 甘露醇 25 mmol / L mannitol;HG:高糖 High glucose 30
+mmol / L; 与 NG 组相比 vs NG group,aP<0. 05;与 HG 相比 vs HG group,bP<0. 05
+图 1  LA 对高糖诱导的大鼠肾小球系膜细胞增殖的影响
+Fig 1  Effect of LA on high glucose-induced rat mesangial cell proliferation
+注:肾小球系膜细胞在含 30 mmol / L 葡萄糖的培养液中培养 1 h,再用不同浓度 LA 分别刺激 24 h 后,分别收集各组细胞并采用流式细胞术检测
+细胞周期 Mesangial cells were preincubated with 30 mmol / L glucose for 1 h, and then stimulated with various concentrations of LA for 24 h, respectively. The cells
+were collected for detecting cell cycle by flow cytometry;略语同图 1 The abbreviations are the same as Fig 1; 与 NG 组相比 vs NG group,aP<0. 05;与 HG 相比 vs
+HG group,bP<0. 05
+图 2  LA 对高糖培养的大鼠肾小球系膜细胞周期的影响
+Fig 2  Effect of LA on high glucose-treated mesangial cell cycle
+结    果
+一、 LA 对高糖诱导的大鼠肾小球系膜细胞增殖
+和细胞周期的影响
+孵育时间为 12、24 和 48 h 时,NG 组和 Man 组细
+胞增殖无明显差异。 与 NG 组比较,HG 组细胞增殖明
+显增加(P<0. 01)。 孵育时间为 12 h、24 h 时,HG+
+0. 25 mmol / L 的 LA 组细胞增殖明显高于 HG 组(P<
+0. 01)。 孵育时间为 48 h 时,HG+0. 25 mmol / L 的 LA
+组细胞增殖仍较 HG 组轻度增加(P>0. 05)。 与 HG
+组比较,LA 刺激浓度大于 0. 5 mmol / L 时,高糖培养的
+肾小球系膜细胞增殖呈下降趋势,孵育时间为 12、24
+和 48 h,当 LA 浓度增加至 1. 0 mmol / L 时,与 HG 组比
+较细胞增殖下降最显著(P<0. 01,图 1)。
+注:大鼠肾小球系膜细胞高糖(30 mmol / L)预处理 1 h,然后分别用不同浓度 LA 刺激 24 h, AMPKa mRNA 的表达以实时定量 PCR 检测,AMPKa、
+Akt、mTOR、4EBP1 和 p70S6K 的蛋白磷酸化以 Western 印迹法检测 Mesangial cells were preincubated with high glucose(30 mmol / L) for 1 h, and then
+stimulated with various concentrations of LA for 24 h, respectively. The expression of AMPKa mRNA was detected by realtime PCR. Phosphorylation of AMPKa,
+Akt, mTOR, 4EB-P1, and p70S6K were determined by Western blot; AMPK:AMP 活化的蛋白激酶 AMP activated protein kinase;Akt:蛋白激酶 B Protein
+kinase B;mTOR:哺乳动物雷帕霉素靶蛋白 The mammalian target of rapamycin;4EB-P1: 真核细胞翻译起始因子 4E 结合蛋白 1 Eukaryotic translation
+initiation factor 4E binding protein 1; p70S6K:核糖体 40S 小亚基 s6 蛋白激酶 p70S6 kinase;余略语同图 1 The other abbreviations are the same as Fig 1;与 NG
+组相比 vs NG group,aP<0. 05;与 HG 组相比 vs HG group,bP<0. 05
+图 3  LA 对大鼠肾小球系膜细胞 AMPKa、Akt、 mTOR、4EBP1 和 p70S6K 蛋白磷酸化的影响
+Fig 3  Effects of LA on the phosphorylation levels of AMPK, Akt, mTOR, 4E-BP1, and p70S6K
+进一步以流式细胞术检测细胞周期,孵育时间为
+24 h 时,与 NG 比较,HG 组 G0 / G1 期细胞比例下降了
+16% (P<0. 01),而 S 期细胞比例升高了 96. 4% (P<
+0. 01)。 HG+0. 25 mmol / L 的 LA 组 S 期细胞比例较
+HG 组升高了 40. 8% (P<0. 01)。 HG+1. 0 mmol / L 的
+LA 组 G0 / G1 期细胞比例升高 26. 5% (P<0. 01),S 期
+细胞比例下降了 73. 6% (P<0. 01,图 2)。
+二、 LA 对高糖诱导的大鼠肾小球系膜细胞
+AMPK、Akt、mTOR、p70S6K 和 4EBP1 的表达及活性的
+影响
+与 NG 组比较,HG 组细胞 AMPKa mRNA 表达水
+平、蛋白磷酸化水平均显著下降(均 P<0. 05),0. 25
+mmol / L 的 LA 可逆转高糖的这一作用。 与 NG 组比
+较,HG 组细胞 Akt、mTOR、4EBP1 和 P70S6K 蛋白磷酸
+化水平显著升高(P<0. 05),当 LA 刺激浓度为 0. 1
+mmol / L 和 0. 25 mmol / L 时,Akt 磷酸化水平较 HG 组
+进一步增加(P<0. 05)。 LA 刺激浓度为 0. 25 mmol / L
+时,mTOR、4EBP1 和 P70S6K 蛋白磷酸化水平较 HG
+组均升高最显著(P<0. 05,图 3)。 与 HG 组比较,随着
+LA 刺激浓度的增加, 细胞 AMPKa mRNA 表达和
+AMPKa 磷酸化水平呈升高趋势,LA 浓度增加至 1. 0
+mmol / L 时,与 HG 组比较增加最显著(P<0. 01)。 当
+LA 刺激浓度大于 0. 5 mmol / L 时,Akt 磷酸化水平与
+HG 组相比差异无统计学意义。 mTOR、 4EBP1 和
+P70S6K 蛋白磷酸化水平与 HG 组比较呈下降趋势,
+LA 浓度增加至 1 mmol / L 时,磷酸化水平最低 (P <
+0. 01,图 3)。
+三、 LA 对高糖诱导的肾小球系膜细胞 mTOR 信
+号的激活作用具有 Akt 依赖性
+与 HG 组比较,0. 25 mmol / L LA 刺激使细胞 Akt、
+mTOR、4EBP1、p70S6K 蛋白磷酸化水平明显增加(均
+P<0. 01)。 PI3K 抑制剂 LY294002 浓度依赖性地阻断
+了 LA 对肾小球系膜细胞 Akt 的激活作用后,LA 诱导
+的 mTOR、4EBP1、p70S6K 蛋白磷酸化也被解除(图 4)。
+注:肾小球系膜细胞用高糖预处理 30 min,分别加入终浓度 2. 5、5、10 μmol / L 的 LY294002,30 min 后加入 0. 25 mmol / L LA 处理细胞 24 h,用
+Western 印迹法检测 Akt、mTOR、4EBP1 和 P70S6K 的蛋白磷酸化水平 Mesangial cells were pre-incubated with high glucose for 30 min and with different
+concentrations of LY294002 for another 30 min, then stimulated with 0. 25 mmol / L LA for 24 h. The phosphorylation levels of Akt, mTOR, 4E-BP1, and p70S6K
+were determined by Western blot;略语同图 1 和图 3 The abbreviations are the same as Fig 1 and Fig 3;与 NG 组相比 vs NG group,aP<0. 05;与 HG 相比 vs HG
+group,bP<0. 05
+图 4  LY294002 浓度依赖性地逆转 LA 对肾小球系膜细胞 Akt-mTOR 信号的激活
+Fig 4  LY294002 dose-dependently reverses LA-induced Akt-mTOR activation in mesangial cells
+四、 LY294002 可逆转 LA 对肾小球系膜细胞增殖
+和细胞周期的影响
+与 HG 组比较,0. 25 mmol / L LA 刺激使肾小球系
+膜细胞增殖明显增加(P<0. 05),浓度 10 μmol / L 的
+LY294002 可完全阻断 LA 对肾小球系膜细胞增殖的
+促进作用(图 5A)。
+进一步以流式细胞术检测细胞周期,孵育 24 h
+时,与 HG 组比较,0. 25 mmol / L LA 刺激导致 G0 / G1
+期细胞比例下降(P<0. 01)和 S 期细胞比例增加(P<
+0. 01),其作用可被 10 μmol / L LY294002 所阻断(图
+5B)。
+五、 LA 对高糖培养的肾小球系膜细胞 mTOR 信
+号的抑制作用具有 AMPK 依赖性
+与 HG 组比较,1 mmol / L LA 使细胞 AMPK 磷酸化
+水平显著升高(P<0. 01),而 mTOR、4EBP1、p70S6K 磷
+酸化水平明显降低(P<0. 01)。 5 μg / ml 以上浓度的
+CaMKK 抑制剂 STO-609 阻断了 LA 对肾小球系膜细胞
+AMPK 的激活作用后,其对 mTOR 信号的抑制作用也
+被逆转(图 6)。
+六、 STO-609 逆转 LA 对肾小球系膜细胞增殖的
+抑制作用
+与 HG 组比较,1 mmol / L LA 刺激明显抑制了大鼠
+肾小球系膜细胞增殖,STO-609 可浓度依赖性地逆转
+LA 对肾小球系膜细胞增殖的抑制作用(图 7A)。 与
+HG 组比较,1 mmol / L LA 刺激使 G0 / G1 期肾小球系膜
+细胞比例增加(P<0. 01),S 期细胞比例明显减少(P<
+0. 01)。 10 μg / ml STO-6095 可完全逆转 LA 对肾小球
+系膜细胞周期的上述调节作用(P<0. 01,图 7B)。
+讨    论
+目前虽然已有较多研究表明 LA 对糖尿病肾脏发
+挥保护作用[8,19]。 但是,LA 对高糖诱导的肾小球系膜
+细胞增殖的影响及机制仍不十分清楚。 肾小球系膜细
+胞增殖是早期 DKD 的典型特征。 Feng 等[20] 研究显
+示,糖尿病导致大鼠肾小球系膜细胞增殖,而 LA(35
+mg / kg 尾静脉注射)可减轻糖尿病大鼠肾小球系膜细
+胞增殖。 与上述研究结果一致,本研究显示高糖刺激
+12、24 和 48 h,均导致肾小球系膜细胞增殖显著增加。
+与 Gao 等[21]的研究结果一致, 本研究发现高糖刺激
+也明显促进肾小球系膜细胞周期从 G0 / G1 期向 S 期
+注:肾小球系膜细胞用高糖预处理 30 min,分别加入不同浓度 LY294002,30 min 后加入 0. 25 mmol / L LA 处理细胞 12、24、48 h,用 MTT 法检测细
+胞增殖 Mesangial cells were pre-incubated with high glucose for 30 min and with different concentrations of LY294002 for another 30 min, then stimulated with 0. 25
+mmol / L LA for 12, 24, and 48 h. MTT assay was used to detect cell proliferation;略语同图 1 The abbreviations are the same as Fig 1;与 NG 组相比 vs NG
+group,aP<0. 05;与 HG 相比 vs HG group,bP<0. 05
+图 5  PI3K 抑制剂 LY294002 可抑制 LA 对肾小球系膜细胞的促增殖和周期进展作用
+Fig 5  LY294002 inhibits LA-induced mesangial cell proliferation and cycle progression
+注:肾小球系膜细胞用高糖预处理 30 min,分别加入不同浓度 STO-609,30 min 后加入 1 mmol / L LA 处理细胞 24 h,用 Western 印迹法检测细胞
+AMPK、mTOR、4EBP1 和 P70S6K 的蛋白磷酸化水平 Mesangial cells were pre-incubated with high glucose for 30 min and with different concentrations of STO-
+609 for another 30 min, then stimulated with 1mmol / L LA for 24 h. The phosphorylation levels of AMPK, mTOR,4E-BP1, and p70S6K were determined by Western
+blot;略语同图 1 The abbreviations are the same as Fig 1;与 NG 组相比 vs NG group,aP<0. 05;与 HG 相比 vs HG group,bP<0. 05
+图 6  STO-609 可通过降低 AMPK 活性逆转 LA 对肾小球系膜细胞 mTOR 信号的抑制作用
+Fig 6  STO-609 reverses LA-inhibited AMPK-mTOR phosphorylation in mesangial cells
+进展。
+本研究首次发现相对低浓度的 LA (0. 1、0. 25
+mmol / L)对高糖诱导的大鼠肾小球系膜细胞增殖发挥
+促进作用,并进一步促进高糖培养的大鼠肾小球系膜
+细胞周期从 G0 / G1 期向 S 期进展。 这说明相对低浓
+度 LA 对肾小球系膜细胞的促增殖作用,可能与刺激
+了调节细胞周期进展的信号通路有关。
+mTORC1 是调节细胞生长和增殖的重要信号分
+子。 mTORC1 的激活与糖尿病肾脏病理改变的发生发
+展密切相关。 高血糖、脂联素水平下降等多种原因导
+致糖尿病肾脏 AMPK 活性下降[22]。 AMPK 活性下降
+和丝氨酸 /苏氨酸激酶 Akt 活性增加是糖尿病肾脏
+mTORC1 信号通路激活的主要原因[16]。 mTOR 的激
+活对于 mTORC1 活性的增加发挥核心作用。 既往研
+究发现 LA 对 C2C12 成肌细胞 AMPK 具有激活作用,
+且该作用呈浓度依赖性[4]。 这些研究结果促使本研
+究检测 LA 对肾小球系膜细胞 AMPK、Akt 信号分子及
+其下游 mTOR / p70S6K / 4EBP1 信号通路的调节作用。
+本研究证实了 LA 对大鼠肾小球系膜细胞 AMPK
+也具有剂量依赖性激活作用,相对低浓度 LA(0. 25
+mmol / L)仅能避免高糖所致的大鼠肾小球系膜细胞
+AMPK 活性下降。 本研究还发现 LA 对肾小球系膜细
+胞 Akt 也有激活作用,且 LA 浓度为 0. 25 mmol / L 时
+Akt 磷酸化水平最高。 LA 刺激浓度为 0. 1、 0. 25
+mmol / L 时, 激 活 肾 小 球 系 膜 细 胞 mTOR / 4EBP1 /
+P70S6K 信号通路。 为探索低浓度 LA(0. 25 mmol / L)
+是否通过激活 Akt 进而增强大鼠肾小球系膜细胞
+mTOR / p70S6K / 4EBP1 信号,本研究选用 PI3K / Akt 特
+异性抑制剂 LY294002,结果显示抑制 Akt 活性后,
+0. 25 mmol / L LA 对肾小球系膜细胞 mTOR、4EBP1、
+P70S6K 蛋白的激活作用被解除,提示高糖环境下,相
+对低剂量的 LA 对肾小球系膜细胞 mTOR / 4EBP1 /
+P70S6K 的激活作用是 Akt 依赖性的。
+为进一步探索相对低浓度 LA 对肾小球系膜细胞
+注:肾小球系膜细胞用高糖预处理 30 min,分别加不同浓度 STO-609,30 min 后加入 1 mmol / L LA 处理细胞 12、24、48 h,用 MTT 法检测细胞增殖,
+加入 1 mmol / L LA 处理细胞 24 h 后以流式细胞术检测细胞周期 Mesangial cells were pre-incubated with high glucose medium for 30 min and with different
+concentrations of STO-609 for another 30 min, then stimulated with 1 mmol / L LA for 12, 24, and 48 h. MTT assay was used to detect cell proliferation. Flow
+cytometry was used to detect cell cycle after the cells were treated with 1 mmol / L LA;略语同图 1 The abbreviations are the same as Fig 1;与 NG 组相比 vs NG
+group,aP<0. 05;与 HG 相比 vs HG group,bP<0. 05
+图 7  CaMKK 抑制剂 STO-609 逆转 LA 对系膜细胞增殖和细胞周期进展的抑制作用
+Fig 7  STO-609 reverses LA-inhibited mesangial cell proliferation and cell cycle progression
+的促增殖作用是否通过激活 Akt-mTOR 信号通路实
+现,本研究选用 LY294002 抑制肾小球系膜细胞 Akt 活
+性后,0. 25 mmol / L LA 对大鼠肾小球系膜细胞增殖和
+细胞周期进展的调节作用也被逆转。 相对低浓度的
+LA 发挥生长因子样作用,通过刺激肾小球系膜细胞
+Akt-mTOR / 4EBP1 / P70S6K 信号通路刺激细胞增殖,
+可能促进早期 DKD 的进展。 但是,研究已经证明 LA
+能有效对抗糖尿病时氧化应激、炎症反应等,对糖尿病
+肾脏发挥保护作用。 本研究未检测 LA 对氧化应激、
+炎症反应指标的影响。 因此,相对低浓度 LA 在机体
+内对糖尿病肾脏的作用尚需进一步研究。
+值得注意的是,本研究还发现高浓度 LA( >0. 5
+mmol / L)对高糖刺激的肾小球系膜细胞增殖发挥抑制
+作用,1. 0 mmol / L LA 完全抑制了高糖所致的细胞周
+期进展。 在 LA 刺激浓度为 1. 0 mmol / L 时,刺激
+AMPK 的作用最强,对 Akt 活性无明显影响,显著抑制
+mTOR 信号。 为探索高浓度 LA(1. 0 mmol / L)是否通
+过激活 AMPK 进而抑制大鼠肾小球系膜细胞 mTOR /
+p70S6K / 4EBP1 信 号 和 细 胞 增 殖, 本 研 究 选 用 了
+CaMKK 特异性抑制剂 STO-609,结果发现抑制 CaMKK
+活性后,LA(1. 0 mmol / L)对肾小球系膜细胞 AMPK 的
+激活作用被阻断,并且 LA 对 mTOR / 4EBP1 / P70S6K
+信号的抑制作用也被逆转,LA 对肾小球系膜细胞增殖
+和细胞周期进展的抑制作用也被逆转。
+上述结果说明高剂量 LA 通过激活 AMPK-mTOR /
+P70S6K / 4EBP1 信号通路抑制高糖诱导的肾小球系膜
+细胞增殖,对早期糖尿病肾病发挥保护作用。 临床上
+静脉应用高剂量 LA(600 mg / d)治疗糖尿病周围神经
+病变,取得了确切的疗效。 近期一项研究表明静脉应
+用 LA 可降低早期糖尿病肾病患者尿蛋白[23],虽然该
+研究未检测 LA 对患者肾小球的形态学影响,但间接
+证明了治疗糖尿病神经病变时所应用的相对高剂量
+LA 对早期 DKD 也 发 挥 保 护 作 用。 本 研 究 也 为
+AMPK-mTOR 信号通路的激活在糖尿病肾脏疾病中的
+保护作用提供了新的依据[24,25]。
+总之,本研究为理解 LA 改善糖尿病肾脏肾小球
+系膜细胞增殖的分子机制提供了新思路,临床上治疗
+糖尿病周围神经病变时应用的高剂量 LA 可能有效改
+善糖尿病肾小球系膜细胞增殖、肾脏肥大。 但 LA 的
+作用机制较为复杂,本研究仅选用大鼠肾小球系膜细
+胞系体外培养进行研究,不能完全模拟体内环境,不能
+完全解释 LA 在体内对糖尿病肾脏肾小球系膜细胞增
+殖的调节效应,有待于在今后研究中进一步完善。

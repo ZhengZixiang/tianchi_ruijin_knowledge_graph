@@ -1,0 +1,350 @@
+T1	Disease 48 51	糖尿病
+T2	Disease 73 76	糖尿病
+T3	Disease 87 89;90 91	糖尿 病
+T4	Disease 132 135	糖尿病
+T5	Test 145 147	血糖
+T6	Symptom 164 167	低血糖
+T7	Symptom 168 172	体重增加
+T8	Symptom 173 177	液体潴留
+T9	Symptom 179 184	胃肠道反应
+T10	Drug 187 197;198 203	钠-葡萄糖共转运蛋白 2 抑制剂
+T11	Test 233 235	尿糖
+T12	Disease 239 245	2 型糖尿病
+T13	Test 287 289	体重
+T14	Test 291 293	血压
+T15	Disease 302 303;304 308	心 血管事件
+T16	Disease 326 332	2 型糖尿病
+T17	Drug 359 375	钠-葡萄糖共转运蛋白 2 抑制剂
+T18	Disease 2020 2026	2 型糖尿病
+T19	Disease 2140 2143	糖尿病
+T20	Disease 2155 2158	糖尿病
+T21	Disease 2185 2190	糖尿病前期
+T22	Disease 2222 2225	糖尿病
+T23	Anatomy 2239 2242	心血管
+T24	Anatomy 2243 2244	眼
+T25	Anatomy 2245 2247	肾脏
+T26	Anatomy 2249 2251	神经
+T27	Disease 2252 2256	牙齿病变
+T28	Disease 2258 2260	感染
+T29	Disease 2270 2275	心血管疾病
+T30	Disease 2276 2277;2278 2279	失 明
+T31	Disease 2280 2282	肾衰
+T32	Disease 2284 2288	下肢截肢
+T33	Disease 2298 2303	心血管疾病
+T34	Disease 2312 2318	2 型糖尿病
+T35	Disease 2322 2327	心血管事件
+T36	Disease 2334 2335;2336 2338	高 血糖
+T37	Test 2346 2348	体重
+T38	Disease 2348 2350	超重
+T39	Disease 2351 2353	肥胖
+T40	Disease 2354 2357	高血压
+T41	Reason 2358 2361	高血脂
+T42	Disease 2363 2366;2367 2370	2 型 糖尿病
+T43	Test 2389 2391	血糖
+T44	Test 2392 2394	血压
+T45	Anatomy 2396 2399	胆固醇
+T46	Test_Value 2403 2407	接近正常
+T47	Disease 2417 2423	糖尿病并发症
+T48	Disease 2445 2451	2 型糖尿病
+T49	Test 2462 2464	血糖
+T50	Disease 2475 2481	2 型糖尿病
+T51	Test 2489 2490;2491 2492	血 糖
+T52	Test 2509 2514	HBA1C
+T53	Disease 2601 2607	2 型糖尿病
+T54	Drug 2626 2642	钠-葡萄糖共转运蛋白 2 抑制剂
+T55	Test 2712 2714	血糖
+T56	Symptom 2721 2724	低血糖
+T57	Symptom 2725 2729	体重增加
+T58	Disease 2754 2760	2 型糖尿病
+T59	Symptom 2794 2796;2797 2798	低血 糖
+T60	Anatomy 2900 2903	肾小球
+T61	Anatomy 2907 2910	肾小管
+T62	Anatomy 2918 2930	钠-葡萄糖共转运蛋白 2
+T63	Anatomy 2942 2950;2951 2955	钠-葡萄糖共转运 蛋白 1
+T64	Anatomy 2964 2966	肾脏
+T65	Anatomy 2975 2981;2982 2988	钠-葡萄糖共 转运蛋白 2
+T66	Disease 2997 3003	2 型糖尿病
+T67	Test 3005 3013;3014 3015	肾葡萄糖重吸收功 能
+T68	Test_Value 3015 3017	增强
+T69	Symptom 3023 3026	高血糖
+T70	Anatomy 3027 3029	肾脏
+T71	Test 3041 3042;3043 3044	血 糖
+T72	Anatomy 3058 3070	钠-葡萄糖共转运蛋白 2
+T73	Anatomy 3075 3078	肾小管
+T74	Test 3099 3101	血糖
+T75	Drug 3112 3118	胰岛素促泌剂
+T76	Drug 3119 3125	胰岛素增敏剂
+T77	Test 3140 3142	血糖
+T78	Anatomy 3147 3150	胰岛素
+T79	Anatomy 3155 3162	胰腺 β 细胞
+T80	Anatomy 3172 3176	β 细胞
+T81	Disease 3235 3238	低血糖
+T82	Test 3272 3274	体重
+T83	Anatomy 3319 3321	肾脏
+T84	Test 3335 3336;3337 3338	血 糖
+T85	Symptom 3343 3346	低血糖
+T86	Disease 3389 3395	2 型糖尿病
+T87	Drug 3402 3404;3405 3407	达格 列净
+T88	Duration 3410 3414	12 周
+T89	Drug 3421 3425	达格列净
+T90	Test 3432 3437	HBA1C
+T91	Test_Value 3443 3447	显著下降
+T92	Drug 3459 3463	达格列净
+T93	Amount 3464 3472	5 mg / d
+T94	Amount 3484 3493	10 mg / d
+T95	Disease 3521 3526;3527 3528	2 型糖尿 病
+T96	Drug 3532 3536	达格列净
+T97	Amount 3537 3542	10 mg
+T98	Test 3549 3554	HBA1C
+T99	Test 3569 3574	HBA1C
+T100	Test_Value 3574 3577	>9%
+T101	Test 3581 3586	HbA1C
+T102	Drug 3646 3650	卡格列净
+T103	Disease 3661 3667	2 型糖尿病
+T104	Test 3671 3676	HBA1C
+T105	Test 3677 3681	空腹血糖
+T106	Drug 3695 3699	卡格列净
+T107	Drug 3735 3738;3739 3740	卡格列 净
+T108	Test 3742 3747	HBA1C
+T109	Test 3748 3752	空腹血糖
+T110	Drug 3765 3771	恩格列净单药
+T111	Drug 3809 3813	恩格列净
+T112	Disease 3821 3827	2 型糖尿病
+T113	Test 3830 3831;3832 3833	血 糖
+T114	Drug 3877 3881	达格列净
+T115	SideEff 3886 3891	低血糖事件
+T116	SideEff 3921 3926	低血糖事件
+T117	Drug 3953 3957	卡格列净
+T118	Drug 3958 3962	恩格列净
+T119	SideEff 3982 3987	低血糖事件
+T120	Test 4034 4036	体重
+T121	Drug 4037 4041	达格列净
+T122	Drug 4053 4056;4057 4058	二甲双 胍
+T123	Drug 4069 4073	达格列净
+T124	Test 4076 4078	体重
+T125	Amount 4086 4090	5 mg
+T126	Drug 4103 4107	二甲双胍
+T127	Amount 4118 4123	10 mg
+T128	Test_Value 4126 4134	2. 73 kg
+T129	Drug 4137 4141	二甲双胍
+T130	Test 4211 4213	体重
+T131	Test_Value 4213 4218	减轻≥3%
+T132	Drug 4225 4229	达格列净
+T133	Amount 4230 4234	5 mg
+T134	Amount 4246 4251	10 mg
+T135	Drug 4263 4266	安慰剂
+T136	Test 4277 4279	体重
+T137	Test_Value 4279 4282;4283 4285	减轻≥ 5%
+T138	Test_Value 4302 4308	29. 6%
+T139	Drug 4331 4335	达格列净
+T140	Amount 4336 4341	10 mg
+T141	Duration 4345 4349	24 周
+T142	Test 4352 4354	体重
+T143	Test_Value 4358 4366	2. 55 kg
+T144	Drug 4368 4370;4371 4373	达格 列净
+T145	Test 4396 4398	体重
+T146	Drug 4407 4410	胰岛素
+T147	Test 4413 4415	血糖
+T148	Drug 4435 4438	胰岛素
+T149	Drug 4440 4443	安慰剂
+T150	Test 4444 4446	体重
+T151	Test_Value 4453 4461	0. 82 kg
+T152	Drug 4468 4472	达格列净
+T153	Drug 4474 4477	胰岛素
+T154	Drug 4506 4510	达格列净
+T155	Drug 4512 4515	胰岛素
+T156	Test_Value 4517 4528	减少 1. 60 kg
+T157	Drug 4545 4546;4547 4549	胰 岛素
+T158	Drug 4551 4554	安慰剂
+T159	Test 4555 4557	体重
+T160	Amount 4573 4577	5 mg
+T161	Drug 4578 4582	达格列净
+T162	Drug 4585 4588	胰岛素
+T163	Amount 4612 4617	10 mg
+T164	Drug 4618 4622	达格列净
+T165	Drug 4625 4628	胰岛素
+T166	Test_Value 4629 4640	减少 1. 50 kg
+T167	Drug 4669 4673	卡格列净
+T168	Test 4693 4695	体重
+T169	Drug 4700 4704	卡格列净
+T170	Amount 4705 4711	100 mg
+T171	Duration 4729 4733	26 周
+T172	Test 4737 4739	体重
+T173	Test_Value 4762 4769	2. 5 kg
+T174	Drug 4822 4826	二甲双胍
+T175	Test 4832 4834	血糖
+T176	Drug 4838 4842	二甲双胍
+T177	Drug 4845 4849	卡格列净
+T178	Drug 4866 4870	格列美脲
+T179	Test_Value 4899 4906	4. 0 kg
+T180	Drug 4907 4911	格列美脲
+T181	Drug 4929 4933	恩格列净
+T182	Drug 4971 4975	恩格列净
+T183	Amount 4976 4981	10 mg
+T184	Amount 4982 4987	25 mg
+T185	Duration 4993 4997	24 周
+T186	Test 4999 5001	体重
+T187	Test_Value 5012 5020	1. 93 kg
+T188	Drug 5043 5047	西格列汀
+T189	Amount 5048 5054	100 mg
+T190	Test_Value 5062 5070	0. 52 kg
+T191	Drug 5089 5093	吡格列酮
+T192	Drug 5094 5098	二甲双胍
+T193	Drug 5108 5112	恩格列净
+T194	Amount 5113 5118	10 mg
+T195	Amount 5120 5125	25 mg
+T196	Test_Value 5142 5150	1. 95 kg
+T197	Test_Value 5153 5161	1. 81 kg
+T198	Anatomy 5189 5192	肾小管
+T199	Disease 5202 5208	2 型糖尿病
+T200	Test 5254 5256	体重
+T201	Disease 5268 5274	2 型糖尿病
+T202	Test 5276 5278	体重
+T203	Test_Value 5278 5280	减轻
+T204	Disease 5294 5297	高血糖
+T205	Disease 5298 5301	高血压
+T206	Test 5312 5314	体重
+T207	Disease 5320 5325	心血管疾病
+T208	Disease 5326 5331	胰岛素抵抗
+T209	Drug 5369 5373	达格列净
+T210	Duration 5378 5382	12 周
+T211	Test 5384 5386	血压
+T212	Test_Value 5386 5390	显著下降
+T213	Test 5391 5394	收缩压
+T214	Drug 5401 5405	达格列净
+T215	Amount 5406 5410	5 mg
+T216	Test_Value 5413 5417;5418 5422	2. 9 mmHg
+T217	Amount 5442 5447	10 mg
+T218	Test_Value 5450 5459	6. 4 mmHg
+T219	Test_Value 5466 5475	2. 4 mmHg
+T220	Drug 5476 5480	二甲双胍
+T221	Test_Value 5482 5491	0. 4 mmHg
+T222	Drug 5492 5496	达格列净
+T223	Test 5525 5528	舒张压
+T224	Test_Value 5554 5563	0. 6 mmHg
+T225	Drug 5564 5568	达格列净
+T226	Drug 5685 5689	达格列净
+T227	Test 5689 5691	血压
+T228	Disease 5715 5718	糖尿病
+T229	Disease 5719 5722	高血压
+T230	Test 5734 5736	血糖
+T231	Test 5738 5743	HBA1C
+T232	Test 5762 5764	血压
+T233	Test_Value 5768 5788;5789 5793	140 ~ 165 / 85 ~ 105 mmHg
+T234	Drug 5800 5804	达格列净
+T235	Drug 5815 5819	达格列净
+T236	Test 5824 5826	血压
+T237	Test_Value 5826 5830	明显下降
+T238	Test 5833 5836	收缩压
+T239	Test_Value 5844 5849;5850 5854	4. 28 mmHg
+T240	Drug 5865 5869	卡格列净
+T241	Drug 5880 5884	卡格列净
+T242	Amount 5885 5891	100 mg
+T243	Drug 5903 5907	格列美脲
+T244	Test 5909 5912	收缩压
+T245	Drug 5919 5923	格列美脲
+T246	Test_Value 5938 5948	4. 76 mmHg
+T247	Drug 5960 5964	恩格列净
+T248	Drug 6019 6023	恩格列净
+T249	Test 6039 6042	收缩压
+T250	Test_Value 6056 6065	2. 6 mmHg
+T251	Amount 6066 6071	25 mg
+T252	Test_Value 6076 6080;6081 6085	3. 4 mmHg
+T253	Drug 6088 6092	恩格列净
+T254	Drug 6134 6138	二甲双胍
+T255	Drug 6144 6145;6146 6149	恩 格列净
+T256	Test 6149 6152	收缩压
+T257	Test_Value 6152 6156	明显下降
+T258	Test_Value 6165 6174	4. 5 mmHg
+T259	Amount 6175 6180	25 mg
+T260	Test 6205 6207	血压
+T261	Drug 6228 6231	利尿剂
+T262	Drug 6256 6261;6262 6264	β 受体阻 滞剂
+T263	Drug 6265 6271	钙通道拮抗剂
+T264	Test 6276 6278	血压
+T265	Test_Value 6295 6305	5. 13 mmHg
+T266	Drug 6310 6316	噻嗪类利尿剂
+T267	Test 6321 6323	血压
+T268	Test_Value 6329 6339	2. 38 mmHg
+T269	Drug 6372 6376	达格列净
+T270	Test 6383 6385	尿量
+T271	Test_Value 6385 6400	增加可达 450 ml / d
+T272	Test 6411 6413	体重
+T273	Test_Value 6413 6415	减轻
+T274	Test 6427 6429	血压
+T275	Test_Value 6429 6431	下降
+T276	Drug 6476 6487	SGLT-2i 类药物
+T277	Drug 6521 6525	二甲双胍
+T278	Drug 6526 6529	磺脲类
+T279	Drug 6531 6537	噻唑烷二酮类
+T280	Test 6541 6543	血糖
+T281	Test 6548 6553	HBA1C
+T282	Disease 6567 6573	2 型糖尿病
+T283	Drug 6577 6581	达格列净
+T284	Drug 6603 6607	达格列净
+T285	Disease 6612 6616	心肌梗死
+T286	Disease 6617 6619	卒中
+T287	Disease 6620 6624;6625 6626	心血管死 亡
+T288	Disease 6629 6631	死亡
+T289	Drug 6688 6692	降糖药物
+T290	Drug 6702 6706	达格列净
+T291	Disease 6714 6720	2 型糖尿病
+T292	Drug 6775 6786	SGLT-2i 类药物
+T293	Disease 6867 6868;6869 6873	心 血管疾病
+T294	Disease 6875 6881	2 型糖尿病
+T295	Drug 6891 6895	恩格列净
+T296	Amount 6896 6898;6899 6901	10 mg
+T297	Amount 6902 6907	25 mg
+T298	Drug 6947 6951	恩格列净
+T299	Disease 6955 6960	心血管死亡
+T300	Disease 6961 6967;6968 6970	非致死性心肌 梗死
+T301	Disease 6971 6973	卒中
+T302	Drug 7021 7024	安慰剂
+T303	Disease 7027 7032	心血管死亡
+T304	Disease 7074 7078	全因死亡
+T305	Disease 7119 7121	心衰
+T306	Test 7207 7209	血糖
+T307	Test 7210 7212	体重
+T308	Test 7213 7215	血压
+T309	Test 7216 7218;7219 7221	内脏 脂肪
+T310	Test 7226 7230	动脉硬度
+T311	Test 7231 7235	心脏功能
+T312	Test 7236 7241	心脏需氧量
+T313	Test 7242 7246	心肾功能
+T314	Symptom 7253 7256	蛋白尿
+T315	Test 7257 7259	尿酸
+T316	Anatomy 7310 7314	β 细胞
+T317	Disease 7317 7321;7322 7323	胰岛素抵 抗
+T318	Drug 7340 7343	胰岛素
+T319	Drug 7348 7350;7351 7353	达格 列净
+T320	Drug 7360 7363	胰岛素
+T321	Anatomy 7372 7375	胰岛素
+T322	Drug 7385 7389	达格列净
+T323	Drug 7391 7394	胰岛素
+T324	Drug 7419 7422	胰岛素
+T325	Amount 7433 7442;7443 7445	10. 5 U,5 mg
+T326	Drug 7446 7450	达格列净
+T327	Drug 7452 7455	胰岛素
+T328	Amount 7474 7479	10 mg
+T329	Drug 7480 7484	达格列净
+T330	Drug 7487 7490	胰岛素
+T331	Drug 7572 7575	胰岛素
+T332	Drug 7610 7613	安慰剂
+T333	Amount 7624 7633	5 / 10 mg
+T334	Drug 7634 7638	达格列净
+T335	Drug 7640 7643	胰岛素
+T336	Amount 7665 7670	10 mg
+T337	Drug 7671 7675	达格列净
+T338	Drug 7677 7680	胰岛素
+T339	Drug 7774 7778	达格列净
+T340	Amount 7779 7784	10 mg
+T341	Drug 7798 7801	胰岛素
+T342	Disease 7860 7865	心血管事件
+T343	Disease 7909 7913;7914 7916	2 型糖 尿病
+T344	Test 7929 7931	血糖
+T345	Test 7938 7940	血压
+T346	Test 7942 7944	血脂
+T347	Test 7945 7947	体重
+T348	Disease 7956 7959	糖尿病
+T349	Disease 7971 7977	心血管并发症
+T350	Disease 8007 8010	糖尿病

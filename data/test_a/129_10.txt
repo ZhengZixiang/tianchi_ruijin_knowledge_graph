@@ -1,0 +1,269 @@
+基础研究
+基金项目:国家自然科学基金资助项目(81370941)
+强);广东省深圳市南山医院内分泌科(桂书彦);华中科技大学同济医
+学院附属同济医院内分泌科(袁刚)
+Wnt 信号通路对体外培养小鼠 NIT-1 胰岛
+细胞 PPARγ 及葡萄糖激酶表达的影响
+周博文  任汉强  桂书彦  袁刚
+[摘要]   目的  通过体外培养干预,研究激活 Wnt 信号通路对小鼠 NIT-1 胰岛细胞中 PPARγ 及葡萄
+糖激酶(Glucokinase,GK)表达的影响,探讨 Wnt 信号通路与 PPARγ 在胰岛细胞中的对话。 方法 重组
+Wnt3a 蛋白干预体外培养的小鼠 NIT-1 胰岛细胞,激活 Wnt 信号通路,荧光定量 PCR 及 Western 印迹方法
+比较 PPARγ 的 mRNA 及蛋白水平,荧光定量 PCR 方法比较 GK 的 mRNA 水平。 结果 Wnt3a 干预组细胞
+的 PPARγ 及 GK 的 mRNA 水平均较对照组增加 41. 2%和 65. 0% (P<0. 01),PPARγ 蛋白表达亦明显增加
+(P<0. 01)。 予 dickkopf 1 阻断 Wnt 信号通路,PPARγ 与 GK 的表达较 Wnt3a 干预组降低,激活 Wnt 通路同
+时以 wortmannin 阻断磷酸肌醇 3 激酶(PI3K)通路,PPARγ 与 GK 的的表达亦较单纯 Wnt3a 干预组降低。
+同时阻断 Wnt 及 PI3K 通路时,PPARγ 的蛋白水平较 Wnt3a 干预组下降的更为显著,且较单独阻断 Wnt 或
+PI3K 信号通路时更明显。 结论 激活 Wnt 信号通路,能够上调胰岛细胞 PPARγ 及 GK 的表达,且作用部
+分依赖于 PI3K 通路。
+[关键词]   Wnt 信号通路; 胰岛 β 细胞; PPARγ; 葡萄糖激酶
+Influence of Wnt signaling pathway on peroxisome proliferator-activated receptor γ and glucokinase
+expression in mice NIT-1 β-cell cultured in vitro Zhou Bowen *, Ren Hanqiang, Gui Shuyan, Yuan Gang.
+*Department of Endocrinology, Affiliated Hospital of Jianghan University, Wuhan 430015, China
+[Abstract]   Objective   To investigate the expression of peroxisome proliferator-activated receptor γ
+(PPARγ) and glucokinase ( GK) induced by Wnt signaling pathway in mice NIT-1 β-cells, and to explore the
+interaction between PPARγ and Wnt signaling pathways. Methods Recombinant Wnt3a protein was applied to
+NIT-1 beta-cells to activate Wnt signaling pathway. The expression of PPARγ was determined by real-time PCR and
+Western blotting. The expression of GK was determined by real time PCR. Results Wnt3a rapidly activated Wnt /
+β-catenin / TCF signaling pathway, and increased PPARγ and GK mRNA expression by 41. 2% and 65. 0% in NIT-1
+cells, with PPARγ protein expression increasing by 97. 8% (P<0. 01) . These effects were abrogated by Wnt and
+PIK3 inhibitors, dickkopf 1 and wortmannin treatment ( P < 0. 01) . Conclusions PPARγ and GK can be up-
+regulated by Wnt singnaling, and the effects might partially be PI3K-dependent.
+[Key words]  Wnt-signaling; Pancreatic β-cell; Peroxisome proliferator-activated receptor γ; Glucokinase
+(Chin J Endocrinol Metab, 2014, 30: 990-994)
+Wnt 信号通路由原癌基因 wnt 负责编码的配体蛋
+白所激活,是影响细胞寿命的重要通路之一。 近来研
+究发现,Wnt 信号通路与糖尿病密切相关[1-7]。 本组前
+期通过对小鼠 NIT-1 胰岛细胞的研究发现,Wnt3a 蛋
+白能够通过激活 Wnt 经典信号通路,影响下游诸多靶
+基因的转录表达,促进 NIT-1 细胞增殖,减少凋亡,增
+加胰岛素的分泌[8]。 Wnt 蛋白能够与细胞表面的跨膜
+受体卷曲蛋白(frizzled)及辅助受体低密度脂蛋白受体
+相关 蛋 白 ( LRP5 / 6 ) 结 合, 使 细 胞 内 蓬 乱 蛋 白
+(dishevelled,Dvl / Dsh)被磷酸化激活,阻碍大肠腺瘤样
+息肉蛋白 ( adenomatous polyposis coli, APC)、轴蛋白
+(Axin)、GSK3β 和酪蛋白激酶 1α( casein kinase 1α,
+CK1α)组成多蛋白破坏复合体,从而抑制 β-连接蛋白
+(β-catenin)在 GSK3β 作用下的磷酸化过程,使细胞内
+非磷酸化的 β-catenin 水平升高,β-catenin 进入核内,
+通过激活下游核转录因子 T 细胞特异性转录因子 /淋
+巴增强结合因子 ( T cell-specific transcription factor /
+lymphoid enhancer-binding factor,TCF / LEF)活性,启动
+一系列靶基因的转录[9-11]。
+Wnt 信号通路在细胞内与许多通路存在对话。
+PI3K / Akt 通路便是其中之一,我们前期通过体外细胞
+实验,发现磷脂酰肌醇 3 激酶 ( phosphatidylinositol 3
+kinase,PI3K) 及其下游蛋白丝 /苏氨酸蛋白激酶 B
+(Akt)至少部分介导了 Wnt 信号通路对胰岛细胞的相
+关促进作用,二者通过胰岛素受体底物-2 ( insulin
+receptor substrate-2,IRS-2)、糖原合成激酶 3β(glycogen
+synthase kinase 3β, GSK-3β) 等相联系,同时还发现
+PPARγ mRNA 表达也有改变[12]。 PPAR 属于激素核
+受体超家族,有 3 种不同的亚型,分别为 PPARα、β / δ
+及 γ[13]。 这类受体的靶基因功能涉及细胞分化成熟、
+增殖凋亡、炎症应答及氧化应激等方面,可参与调控机
+体多个器官组织的相关病理生理过程,如脂肪生成、骨
+代谢、动脉粥样硬化发生发展、肿瘤发生等[14]。 文献
+报道,在有关结肠癌研究中也发现 Wnt 通路激活后上
+调 PPARγ 的表达,增加细胞增殖[15]。 在高糖刺激脂
+肪形成的过程中,高糖能够通过激活细胞外信号调节
+蛋白激酶 1 / 2(Extracellular regulated protein kinase1 / 2,
+ERK1 / 2),上调 PI3K / Akt 的表达,从而增强 PPARγ ±
+赖性的脂肪形成过程[16]。 Schinner 等[17] 发现在小鼠
+胰岛细胞,作为调控胰岛素释放的重要成分的 GK 基
+因,亦可能是 Wnt 信号通路下游的靶基因之一,并且
+Wnt 对 GK 的激活作用可能依赖 PPARγ 的存在。 前
+期也有研究提示 PPARγ 受体激动剂能够通过增加胰
+岛 β 细胞 IRS-2 的表达,从而激活 PI3K / Akt 通路,影
+响细胞功能[18]。 综合这些,我们推测 PPARγ 可能参
+与 Wnt 信号通路对胰岛细胞数量及功能的调节,并与
+Wnt 及 PI3K / Akt 通路有着复杂的联系。
+为此,本研究以小鼠 NIT-1 胰岛 β 细胞为对象,研
+究激活 Wnt 经典信号通路对 PPARγ 和 GK 表达的影
+响。
+材料和方法
+一、 材料
+小鼠 NIT-1 细胞系获赠于同济医院心血管实验
+室,PRMI1640 培养基、 胎牛血清 ( FBS) 购自美国
+Hyclone 公司,胰酶(1 : 250)购自美国 AMRESCO 公
+司,重组小鼠 Wnt3a 蛋白、重组 DKK1 蛋白购自美国
+R&D 公司,Wort 蛋白购自德国 Sigma 公司,Trizol 试
+剂、DEPC 水购自上海 Invitrogen 公司,RNase、逆转录
+试剂盒购自日本 TAKARA 公司,荧光定量 PCR 试剂
+盒购自日本 TOYOBO 公司,核酸及蛋白 marker 购自加
+拿大 Fermentas 公司,小鼠抗鼠 β-actin、 tubulin、 Free
+β-catenin、PPARγ 单克隆抗体购自美国 Santa Cruz 公
+司,HRP 标记羊抗鼠 IgG 抗体购自北京中杉金桥生物
+公司。 引物合成由上海生物工程公司完成。
+二、 方法
+1. NIT-1 细胞的培养及干预:选择状态良好,融合
+60%左右的 NIT-1 细胞,按 5×105 / ml、2. 5 ×105 / ml 的
+密度分别接种 6 孔板、12 孔板。 选择对数生长期的细
+胞,以随机数字表法随机分组:(1) 空白对照组:无特
+殊干预的 PRMI1640 完全培养液培养 24 h;(2) Wnt3a
+组:用含有 100 ng / ml 的 Wnt3a 蛋白的 PRMI1640 完全
+培养液孵育 24 h;(3) Wnt3a+DKK1 组:先用 160 ng / ml
+的 DKK1 预处理 1 h,再与含 100 ng / ml 的 Wnt3a 蛋白
+PRMI1640 完全培养液孵育 24 h;(4) Wnt3a+Wort 组:
+先用 100 nmol / L 的 wortmannin 预处理 1 h,再与含 100
+ng / ml 的 Wnt3a 蛋白 PRMI1640 完全培养液孵育 24 h;
+(5) Wnt3a+DKK1+Wort 组:先用 160 ng / ml 的 DKK1
+与 100 nmol / L 的 wortmannin 共同预处理 1 h,再与含
+100 ng / ml 的 Wnt3a 蛋白 PRMI1640 完全培养液孵育
+24 h,以上 5 组同时终止干预。
+2. 荧光定量 PCR:终止干预后以 Trizol 试剂提取
+细胞总 RNA,逆转录合成 cDNA,反应体系:总 RNA 模
+板 3 滋l、Olig(dT)引物 1 滋l、去离子水 8 滋l、5×反应缓冲
+液 4 滋l、Rnase 抑制剂 1 滋l、dNTP 混合物 2 滋l、M-MuLV
+逆转录酶 1 滋l(总体积 20滋l);反应条件:42℃ 45 min,
+80℃ 10 min,4℃ 5 min;荧光定量 PCR 反应:日本
+TOYOBO 公司 SYBR Green real time PCR master mix plus
+( QPK212 plus) 试剂盒; β-actin 引物为 5'-CCGTG-
+AAAAGATGACCCAG-3' 和 5'-TAGCCACGCTCGGTCA-
+GG-3',产物 294 bp,退火温度 59℃;TCF7L2 引物为 5'-
+AATCCTTGCCTTTCGCTTCC-3'和 5'-TCTGTGACTTGG-
+CGTCTTGG-3',产物 269 bp,退火温度 60℃;PPARγ 引
+物为 5'-TCTCACAATGCCATCAGGTTT-3'和 5'-TGAT-
+TTGTCCGTTGTCTTTCC-3',产 物 264 bp, 退 火 温 度
+58℃;GK 引物为 5'-GTGGTGGCAATGGTGAATGAC-3'
+和 5'-TGAGCAGCACAAGTCGTACCA-3',产物 328 bp,
+退火温度 60℃;反应体系:SYBR 荧光混合染剂 12. 5
+滋l、Plus 溶液 2. 5 滋l、上下游引物各 1 滋l、cDNA 2. 5 滋l、
+ddH2O 5. 5 滋l(总体积 20 滋l);反应条件:50℃ 2 min;
+95℃ 15 s、退火 15 s(温度如上述)、72℃ 45 s,40 个循
+环;72℃ 10 min。 分别监测内参 β-actin 和目的基因的
+扩增倍数,计算 △Ct 值。
+3. Western 印迹法:终止干预后,冰上提取细胞总
+蛋白,按 4 : 1 比例混合蛋白样品和 5×上样缓冲液,充
+分变性后行 SDS-PAGE 恒压电泳:浓缩胶为 80 V,分离
+胶为 120 V, 溴酚蓝跑出胶底缘时终止电泳; 冰浴下
+恒流湿转: 200 mA, 1. 5 ~ 2 h, 封闭后行免疫反应,
+小鼠抗鼠 PPARγ 抗体 (1 : 1 000)、小鼠抗鼠 Free
+β-catenin 抗体(1 : 2 000)4℃孵育过夜(12 ~ 16 h),洗
+膜后置于稀释比例为 1 : 10 000 辣根标记的羊抗鼠二
+抗中,室温 床孵育 2 ~ 3 h,洗膜后行化学发光、显影
+及定影,最后将胶片放入凝胶图像分析系统中拍照并
+分析目的条带的灰度值。
+三、 统计学处理
+实验数据以 x-± s 表示,单因素方差分析进行多组
+间差异比较,t 检验进行两组间差异比较,P<0. 05 则
+认为差异具有统计学意义。
+结    果
+一、 Wnt3a 蛋白激活经典的 Wnt / β-catenin / TCF
+信号通路
+分组干预小鼠 NIT-1 胰岛 β 细胞,分别提取细胞
+mRNA 和总蛋白,通过荧光定量 PCR 检测发现,Wnt3a
+蛋白干预组细胞的 TCF7L2 mRNA 表达比正常对照组
+(Con)增加 3 倍(P<0. 01,图 1);通过 Western 印迹检
+测发现,Wnt3a 蛋白干预组细胞的游离活性 β-catenin
+蛋白表达水平比正常对照组增加 31. 3% ,提示 Wnt3a
+蛋白干预后,Wnt 信号通路被激活; 加入 Wnt 信号通
+注:Con:对照组 Control group;Wnt3a:Wnt3a 蛋白干预组 Wnt3a-
+treated group;Wnt3a+DKK1:Wnt3a 蛋白+DKK1 蛋白干预组 Wnt3a- and
+DKK1-treated group;与 Con 组比较 vs Con group, aP<0. 01;与 Wnt3a 组比
+较 vs Wnt3a group, bP<0. 01
+图 1  荧光定量 PCR 法检测 TCF7L2 表达
+Fig 1  Quantitative PCR analysis of TCF7L2 expression
+注:β-catenin:β-连接蛋白;余略语同图 1 The other abbreviations are
+the same as Fig 1;与 Con 组比较 vs Con group, aP<0. 01;与 Wnt3a 组比较
+vs Wnt3a group, bP<0. 01
+图 2  Western 印迹检测游离 β-catenin 的蛋白表达
+Fig 2  Western blot analysis of β-catenin protein expression
+路阻断剂 DKK1 后, TCF7L2 mRNA 表达较单纯 Wnt3a
+组减少 63. 4% ,β-catenin 游离蛋白含量比单纯 Wnt3a
+组减少 34. 3% (P<0. 01,图 2),此时提示 Wnt 信号通
+路被阻断。
+二、 Wnt3a 蛋白上调 NIT-1 胰岛 β 细胞 PPARγ
+mRNA 及蛋白的表达
+如前所述分组干预小鼠 NIT-1 胰岛 β 细胞, 通过
+荧光定量 PCR 检测发现,Wnt3a 蛋白干预细胞后,
+PPARγ 的 mRNA 含量较对照组升高 41. 2% ( P <
+0. 01),而用 DKK1 及 wortmannin 分别阻断 Wnt 及
+PI3K / Akt 信号通路后,PPARγ 的 mRNA 表达较 Wnt3a
+组明显下降(P<0. 01,图 3A)。 Western 印迹检测与
+荧光定量 PCR 呈相同趋势,Wnt3a 蛋白干预后,细胞
+PPARγ 的蛋白表达量较对照组增加 97. 8% ( P <
+0. 01),予以 DKK1 阻断 Wnt 信号通路后,表达量较
+Wnt3a 组下降 36. 2% (P<0. 01),予以 wortmannin 阻断
+PI3K / Akt 通路后,表达量较 Wnt3a 组下降 28. 1% (P<
+注: 略语同图 1 The abbreviations are the same as Fig 1; Wort:磷酸肌
+醇 3 激酶抑制剂 Phosphatidylinositol 3 kinase inhibitor wortmannin; A:荧光
+定量 PCR 法 检 测 PPARγ 表 达 Quantitative PCR analysis of PPARγ
+expression; B:Western blot 检测 PPARγ 的蛋白表达 Western blot analysis
+of PPARγ expression; 与 Con 组比较 vs Con group, aP<0. 01; 与 Wnt 组比
+较 vs Wnt group, bP<0. 01; 与 Wnt+DKK1+Wort 组比较 vs Wnt+DKK1+
+Wort group, cP<0. 01
+图 3  Western 印迹检测 PPARγ 的蛋白表达
+Fig 3  Western blot analysis of PPARγ protein expression
+0. 01),而予以 DKK1 与 wortmannin 同时阻断两条信号
+通路时,PPARγ 蛋白的表达较 Wnt3a 组下降 83. 4%
+(P<0. 01,图 3B)。
+三、 Wnt3a 上调 NIT-1 胰岛 β 细胞 GK mRNA 的
+表达
+同前分组干预小鼠 NIT-1 胰岛 β 细胞,通过荧光
+定量 PCR 法比较 GK 基因表达发现,Wnt3a 组 GK 的
+mRNA 含量较对照组升高 65% (P<0. 01),而用 DKK1
+及 wortmannin 分别阻断 Wnt 及 PI3K / Akt 信号通路
+后,GK 的 mRNA 的表达亦较 Wnt3a 组明显下降(P<
+0. 01,图 4)。
+注: GK: 葡萄糖激酶 Glucokinase; 其他 略 语 同 图 3 The other
+abbreviations are the same as Fig 3;与 Con 组比较 vs Con group, aP<0. 01;
+与 Wnt 组比较 vs Wnt group, bP<0. 01
+图 4  Western 印迹检测 GK 的蛋白表达
+Fig 4  Western blot analysis of GK protein expression
+讨    论
+本实验对 Wnt 信号通路与 PPARγ 和 GK 之间的
+作用进行了初步的探讨,发现在小鼠 NIT-1 胰岛细胞,
+重组 Wnt3a 蛋白激活 Wnt / β-catenin / TCF 信号通路,
+同时 PPARγ 和 GK 的表达明显上升,予 DKK1 阻断
+Wnt 信号通路后,PPARγ 和 GK 的表达即被抑制,说明
+Wnt 信号通路可以调控 PPARγ 和 GK 的表达。
+关于 Wnt 信号通路与 PPARγ 的关系一直存在争
+议。 有研究提出,在脂肪细胞,激活 Wnt 信号通路,能
+够抑制 CCAAT 转录增强子结合蛋白 α ( CCAAT /
+enhancer binding protein, C / EBPα)及 PPARγ 表达,阻
+止前脂肪细胞向成熟脂肪细胞的转化,抑制脂肪形
+成[19]。 在骨转化过程,激活 Wnt 信号通路,同样能够
+下调 C / EBPα 及 PPARγ 表达,促进间充质细胞(具有
+多方向分化潜能)向成骨细胞转化[20]。 另外,在肿瘤
+细胞,激活 Wnt 信号通路,能减少 PPARγ 的表达,从而
+抑制细胞分化及凋亡。 也有不同的观点, Jansson
+等[15]就发现,在结肠癌细胞,依赖于 Wnt 信号通路的
+激活,PPARγ 的水平异常升高。 本研究也表明在小鼠
+NIT-1 胰岛细胞中,激活 Wnt / β-catenin / TCF 信号通
+路,能够上调 PPARγ 的表达。 以上研究提示在不同的
+组织和细胞中,Wnt 信号通路对 PPARγ 表达的影响可
+能不一样。
+Chuang 等[16] 研 究 发 现, 高 糖 能 够 通 过 激 活
+ERK1 / 2,上调 PI3K / Akt 的表达,从而促进 PPARγ ±
+赖性的脂肪形成,表明了一定条件下 PI3K / Akt 对
+PPARγ 的促进作用。 本研究也对于 PI3K / Akt 与
+PPARγ 的关联进行了初步探讨,在 Wnt3a 蛋白干预的
+基础上,加用 PI3K / Akt 通路的阻滞剂 wortmannin(100
+nmol / L,此干预剂量并不影响基础状态下细胞 PI3K 通
+路相关因子及 PPARγ 的表达),发现 PPARγ 的表达明
+显下降,提示 Wnt3a 对 NIT-1 细胞 PPARγ 的刺激作用
+部分依赖于 PI3K 通路。 而予以 DKK1 及 wortmannin
+同时阻断 Wnt 及 PI3K 通路,PPARγ 的蛋白表达进一
+步下降,提示 PI3K 通路可能仅部分介导了 Wnt3a 对
+PPARγ 的促进作用。
+GK 作为机体葡萄糖的感应器选择性地存在于肝
+细胞、胰岛细胞、肠上皮细胞及神经元细胞等,发挥重
+要的生理功能。 在胰岛 β 细胞,GK 与葡萄糖转运体 2
+(glucose transporter 2)共同组成葡萄糖感应元件,调控
+糖刺激的胰岛素释放过程。 Kim 等[18,21] 发现,在胰岛
+β 细胞中,激活 PPARγ 能够直接上调 GK 基因的表达
+和酶的活性,增加细胞胰岛素释放的功能。 在肝脏细
+胞,则表现为通过 GK 调节糖代谢以维持机体血糖稳
+态,这些证据表明 PPARγ 对 GK 有着直接的激活调控
+作用。 Schinner 等[17] 用含有 β-catenin 与 PPARγ 的质
+粒共转染细胞,GK 的表达增高,而单以含有 β-catenin
+的质粒转染时,GK 的表达无升高的变化,而用重组
+Wnt3a 干预胰岛 β 细胞,GK mRNA 表达明显升高,提
+示 Wnt 通路和 PPARγ 表达均可能调控 GK。 本研究结
+果显示 Wnt3a 激活经典 Wnt 通路后, GK 表达与
+PPARγ 呈现相同的增加趋势,而 DKK1 和 wortmannin
+可抑制 PPARγ 和 GK 的表达,提示 Wnt 通路可能通过
+PPARγ 而调节 GK 表达,而 PI3K 通路可能部分介导了
+Wnt3a 对 GK 的促进作用。 结合前期的研究基础,本
+研究推测 Wnt3a 可能通过激活 PPARγ,上调 GK 的表
+达,从而影响胰岛 β 细胞的分泌功能。

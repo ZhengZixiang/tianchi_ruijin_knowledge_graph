@@ -1,0 +1,252 @@
+T1	Disease 6076 6082	1 型糖尿病
+T2	Disease 6099 6105	2 型糖尿病
+T3	Test 7428 7433	HBA1C
+T4	Test 215 221	毛细血管血糖
+T5	Test 254 260	毛细血管血糖
+T6	Test 435 437;438 442	毛细 血管血糖
+T7	Test 557 563	毛细血管血糖
+T8	Test 580 586	毛细血管血糖
+T9	Test 4480 4486	毛细血管血糖
+T10	Test 5689 5695	毛细血管血糖
+T11	Test 6340 6346	毛细血管血糖
+T12	Test 6392 6398	毛细血管血糖
+T13	Test 7028 7034	毛细血管血糖
+T14	Test 7095 7098;7099 7102	毛细血 管血糖
+T15	Test 7922 7928	毛细血管血糖
+T16	Test 222 226	静脉血糖
+T17	Test 261 265	静脉血糖
+T18	Test 268 272	静脉血糖
+T19	Test 430 434	静脉血糖
+T20	Test 588 592	静脉血糖
+T21	Test 3596 3600	静脉血糖
+T22	Test 4555 4559	静脉血糖
+T23	Test 6347 6351	静脉血糖
+T24	Test 6399 6403	静脉血糖
+T25	Test 6997 7001	静脉血糖
+T26	Test 7035 7039	静脉血糖
+T27	Test 7103 7107	静脉血糖
+T28	Test 7929 7933	静脉血糖
+T29	Test 7969 7970;7971 7974	静 脉血糖
+T30	Test 66 68	血糖
+T31	Test 143 145	血糖
+T32	Test 147 149	血糖
+T33	Anatomy 179 186	指尖毛细血管血
+T34	Anatomy 187 192	前臂静脉血
+T35	Test 204 206	血糖
+T36	Test 282 284	血糖
+T37	Test 311 313	血糖
+T38	Test 340 342	血糖
+T39	Test 376 378	血糖
+T40	Test 401 403	血糖
+T41	Test 404 406	血糖
+T42	Test 475 477	血糖
+T43	Test_Value 479 493	<4. 2 mmol / L
+T44	Test 506 508	血糖
+T45	Test_Value 511 525	≥4. 2 mmol / L
+T46	Test 704 706	血糖
+T47	Test 725 727	血糖
+T48	Test 752 754	血糖
+T49	Test 759 761	血糖
+T50	Test 3636 3638	血糖
+T51	Disease 3639 3642	糖尿病
+T52	Test 3648 3650	血糖
+T53	Test 3653 3655	血糖
+T54	Test 3667 3669	血糖
+T55	Test 3696 3698	血糖
+T56	Test 3738 3740	血糖
+T57	Disease 3743 3746	糖尿病
+T58	Test 3753 3755	血糖
+T59	Test 3819 3821	血糖
+T60	Test 3836 3838	血糖
+T61	Test 3860 3862	血糖
+T62	Test 3893 3895	血糖
+T63	Test 3924 3926	血糖
+T64	Test 3964 3966	血糖
+T65	Test 3973 3975	血糖
+T66	Test 3984 3986	血糖
+T67	Test 4213 4218	血细胞压积
+T68	Test_Value 4221 4240	0. 30 ~ 0. 60 L / L
+T69	Test 4261 4263	血糖
+T70	Disease 4266 4269	糖尿病
+T71	Test 4276 4278	血糖
+T72	Level 4282 4284	严重
+T73	Disease 4284 4295	心、脑、肝、肾功能不全
+T74	Level 4299 4300;4301 4302	严 重
+T75	Disease 4302 4306	营养不良
+T76	Level 4319 4322	中重度
+T77	Disease 4322 4324	贫血
+T78	Disease 4328 4330	脱水
+T79	Level 4326 4328	严重
+T80	Test 4373 4375	血糖
+T81	Test 4418 4420	血糖
+T82	Anatomy 4445 4450	毛细血管血
+T83	Test 4459 4461	血糖
+T84	Test 4464 4465;4466 4467	血 糖
+T85	Test 4548 4550	血糖
+T86	Test 4668 4670	血糖
+T87	Test 4679 4681	血糖
+T88	Test 4734 4736	血糖
+T89	Test 4766 4768	血糖
+T90	Test 4780 4782	血糖
+T91	Test 4790 4792	血糖
+T92	Test 4812 4814	血糖
+T93	Test 4826 4828	血糖
+T94	Test 4853 4855	血糖
+T95	Test 4867 4869	血糖
+T96	Test 4880 4882	血糖
+T97	Test 4908 4910	血糖
+T98	Test_Value 4913 4919;4920 4928	< 4. 2 mmol / L
+T99	Test_Value 4946 4953;4954 4962	± 0. 28 mmol / L
+T100	Test_Value 4963 4978	±0. 56 mmol / L
+T101	Test_Value 4979 4994	±0. 83 mmol / L
+T102	Test_Value 5014 5030	± 0. 83 mmol / L
+T103	Test 5038 5040	血糖
+T104	Test 5045 5047	血糖
+T105	Test_Value 5066 5081	±0. 83 mmol / L
+T106	Test 5086 5088	血糖
+T107	Test_Value 5090 5104	≥4. 2 mmol / L
+T108	Test 5162 5164	血糖
+T109	Test 5170 5172	血糖
+T110	Test 5202 5204	血糖
+T111	Test_Value 5302 5316	<3. 9 mmol / L
+T112	Test 5325 5326;5327 5328	血 糖
+T113	Test_Value 5328 5342	<3. 9 mmol / L
+T114	Test 5440 5442	血糖
+T115	Test 5480 5482	血糖
+T116	Test 5497 5499	血糖
+T117	Test 5533 5535	血糖
+T118	Disease 5646 5651	血糖过低症
+T119	Disease 5654 5659	血糖过高症
+T120	Test 5797 5799	血糖
+T121	Test_Value 5800 5815	< 5. 6 mmol / L
+T122	Test_Value 5821 5835	<0. 3 mmol / L
+T123	Test 5837 5839	血糖
+T124	Test_Value 5841 5855	≥5. 6 mmol / L
+T125	Test 6151 6153	血糖
+T126	Test_Value 6158 6170;6171 6179	1. 0 ~ 31. 5 mmol / L
+T127	Test 6181 6186	红细胞压积
+T128	Test_Value 6191 6199	30% ~60%
+T129	Test 6205 6207	血糖
+T130	Test 6209 6211	血糖
+T131	Test 6240 6242	血糖
+T132	Test 6247 6249	血糖
+T133	Test 6261 6263	血糖
+T134	Test 6265 6267	血糖
+T135	Test 7007 7009	血糖
+T136	Test_Value 7011 7025	<4. 2 mmol / L
+T137	Test 7074 7076	血糖
+T138	Test_Value 7078 7092	≥4. 2 mmol / L
+T139	Test 7151 7153	血糖
+T140	Disease 7313 7316	糖尿病
+T141	Test 7327 7328;7329 7330	血 糖
+T142	Disease 7342 7345	糖尿病
+T143	Test 7348 7350	血糖
+T144	Test 7361 7363	血糖
+T145	Disease 7404 7407	糖尿病
+T146	Test 7416 7418	血糖
+T147	Test 7443 7445	血糖
+T148	Disease 7453 7456	糖尿病
+T149	Disease 7470 7473	糖尿病
+T150	Test 7494 7496	血糖
+T151	Test 7518 7520	血糖
+T152	Drug 7527 7530	胰岛素
+T153	Test 7541 7543	血糖
+T154	Test 7550 7552	血糖
+T155	Drug 7567 7570	胰岛素
+T156	Test 7591 7593	血糖
+T157	Drug 7600 7603	胰岛素
+T158	Test 7628 7630	血糖
+T159	Test 7638 7639;7640 7641	血 糖
+T160	Test 7679 7681	血糖
+T161	Test 7708 7710	血糖
+T162	Test 7727 7729	血糖
+T163	Test 7748 7750	血糖
+T164	Test 7766 7768	血糖
+T165	Test 7802 7804	血糖
+T166	Test 7857 7859	血糖
+T167	Test 7918 7920	血糖
+T168	Test_Value 7995 8002;8003 8011	± 0. 83 mmol / L
+T169	Test 8013 8015	血糖
+T170	Test_Value 8017 8031	<4. 2 mmol / L
+T171	Test 8046 8048	血糖
+T172	Test_Value 8050 8064	≥4. 2 mmol / L
+T173	Test 8100 8102	血糖
+T174	Test 8124 8126	血糖
+T175	Test 8149 8151	血糖
+T176	Test 8162 8163;8164 8165	血 糖
+T177	Test_Value 8167 8181	<5. 6 mmol / L
+T178	Test_Value 8186 8200	<0. 1 mmol / L
+T179	Test_Value 8218 8233	< 0. 3 mmol / L
+T180	Test 8235 8237	血糖
+T181	Test 8297 8299	血糖
+T182	Test 8300 8302	血糖
+T183	Test 8320 8322	血糖
+T184	Test 8331 8333	血糖
+T185	Test 8343 8345	血量
+T186	Test 8346 8351	红细胞压积
+T187	Test 8374 8376	血量
+T188	Test_Value 8413 8417	<35%
+T189	Test 8418 8421;8422 8424	红细胞 压积
+T190	Test 8447 8449	血糖
+T191	Test 8456 8458	血糖
+T192	Test 8496 8498	血糖
+T193	Test 8505 8508;8509 8511	红细胞 压积
+T194	Test 8539 8541	血糖
+T195	Test 8570 8572	血糖
+T196	Test 8589 8591	血糖
+T197	Test 8667 8669	血糖
+T198	Test 8692 8694	血糖
+T199	Test 8705 8707	血糖
+T200	Test 8740 8742	血糖
+T201	Test 8745 8747	血糖
+T202	Test 8753 8754;8755 8756	血 糖
+T203	Test 8777 8778;8779 8780	血 糖
+T204	Test 8815 8817	血糖
+T205	Test 8834 8836	血糖
+T206	Test 8871 8873	血糖
+T207	Test 8882 8884	血糖
+T208	Test 8900 8902	血糖
+T209	Disease 8926 8929	糖尿病
+T210	Test 8935 8937	血糖
+T211	Test 8948 8950	血糖
+T212	Disease 8974 8977	糖尿病
+T213	Test 3562 3564	血糖
+T214	Test 3579 3581	血糖
+T215	Test 6496 6498	血糖
+T216	Test 6499 6501	血糖
+T217	Test 6598 6600	血糖
+T218	Test 7203 7205	血糖
+T219	Test 7263 7265	血糖
+T220	Anatomy 235 238	静脉血
+T221	Test_Value 4241 4249	30% ~60%
+T222	Anatomy 4439 4443	手指指腹
+T223	Anatomy 4508 4513	同臂静脉血
+T224	Anatomy 4615 4616;4617 4619	静 脉血
+T225	Test 5697 5702	VBG 值
+T226	Test 5819 5821	SD
+T227	Test 5746 5748;5749 5750	标准 差
+T228	Test 5751 5753	SD
+T229	Test 5756 5763	变异系数百分比
+T230	Test 5765 5768	CV%
+T231	Test 5858 5861	CV%
+T232	Test_Value 5862 5863;5864 5866	< 5%
+T233	Test_Value 8035 8040	± 20%
+T234	Test 8184 8186	SD
+T235	Test 8215 8217	SD
+T236	Test 8258 8261	CV%
+T237	Test_Value 8264 8269	3. 4%
+T238	Test 8285 8288	CV%
+T239	Test_Value 8289 8292	<5%
+T240	Test 8472 8474	血量
+T241	Test_Value 8463 8470	0. 5 滋l
+T242	Disease 8714 8717	糖尿病
+T243	Test_Value 7213 7228	0. 078 mmol / L
+T244	Test_Value 7238 7252	<0. 3 mmol / L
+T245	Test 8352 8354	温度
+T246	Test 8355 8357	湿度
+T247	Test 450 452	血糖
+T248	Test_Value 458 473	±0. 83 mmol / L
+T249	Disease 5575 5583	血糖过低或过高症
+T250	Test_Value 7052 7059;7060 7068	± 0. 83 mmol / L
+T251	Test 7987 7991	血糖差值
+T252	Test_Value 8239 8246;8247 8255	大于 5. 6 mmol / L

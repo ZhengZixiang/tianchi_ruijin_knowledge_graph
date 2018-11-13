@@ -1,0 +1,281 @@
+糖尿病相关议题
+基金项目:国家自然科学基金项目(30771037, 81270913, 81070640, 30871199 和 30971388);教育部博士点基金
+(20105503110002);重庆市自然科学基金重点项目(cstc2012 jjB10022)
+科大学附属第二医院内分泌科(杨刚毅、李伶、李钶、张利莉);重庆医科大学统计学教研室(钟晓妮)
+不同糖耐量人群血清含 BED 锌指蛋白 3 水平
+及其与胰岛素抵抗的相关性研究
+罗涌  杨刚毅  李伶  李钶  张利莉  钟晓妮  阳皓  张程  徐伟  冉东川  何艳
+袁云川  张先祥
+[摘要]   目的  探讨不同糖耐量人群血清中含 BED 锌指蛋白 3(ZBED3)水平的变化及其与胰岛素抵
+抗的关系。 方法 以 2 型糖尿病(T2DM,n=109)、糖耐量正常(NGT,n= 113)、糖耐量受损( IGT,n = 89)者
+为研究对象。 采用酶联免疫法测定患者血清 ZBED3 水平,分析其与人体学指标如血压、腰臀比、体重指数
+(BMI)及其他相关代谢指标的关系,并分析高胰岛素、高血糖对 ZBED3 的影响。 结果 T2DM 组血清
+ZBED3 水平明显高于 IGT 组和 NGT 组[(142. 1 ±31. 0 对 122. 2 ±25. 4 和 96. 0 ±19. 7)ng / L,均 P<0. 01];女
+性人群中血清 ZBED3 水平明显高于男性[(122. 0 ± 34. 6 对 114. 7 ± 26. 6) ng / L,P<0. 05];超重组血清
+ZBED3 水平高于非超重组[(131. 1 ± 31. 6 对 88. 6 ± 17. 1) ng / L,P<0. 01)];血清 ZBED3 水平与 BMI、腰臀
+比、体脂百分比(BF% )、收缩压、舒张压、甘油三酯(TG)、空腹血糖、空腹胰岛素、HBA1C、稳态模型评估的胰
+岛素抵抗指数(HOMA-IR)呈明显正相关(均 P<0. 01),与高密度脂蛋白胆固醇呈负相关(P<0. 01),多元逐
+步回归分析显示腰臀比、BF% 、舒张压、TG、HBA1C、HOMA-IR 是影响血清 ZBED3 的独立相关因素;糖耐量
+正常者口服 75 g 葡萄糖 30 min 后血清 ZBED3 从基线(96. 0 ± 19. 7)ng / L 快速上升到(169. 0 ± 39. 1) ng / L
+(P<0. 01),而后逐渐下降,2 h 时为(93. 5 ± 29. 1)ng / L。 结论 血清 ZBED3 在 T2DM、IGT 患者及超重人群
+中均明显升高,其可能与胰岛素抵抗发生发展相关,并受血糖和胰岛素影响。
+[关键词]   含 BED 锌指蛋白 3; 糖尿病, 2 型; 胰岛素抵抗; 肥胖
+Circulating ZBED3 level is associated with insulin resistance in subjects with different status of glucose
+tolerance Luo Yong*, Yang Gangyi, Li Ling, Li Ke, Zhang Lili, Zhong Xiaoni, Yang Hao, Zhang Cheng, Xu
+Wei, Ran Dongchuan, He Yan, Yuan Yunchuan, Zhang Xianxiang. *Department of Endocrinology and Metabolism,
+Chongqing Three Gorges Central Hospital, Chongqing 404000, China
+[Abstract]   Objective   To evaluate the plasma zinc-finger BED domain-containing 3 ( ZBED3) levels in
+subjects with different status of glucose tolerance, and to explore the relationship between ZBED3 and insulin
+resistance. Methods There were 109 patients with newly diagnosed type 2 diabetes mellitus ( T2DM), 89
+individuals with impaired glucose tolerance ( IGT), 113 sex-, age-, and body mass index (BMI)-matched subjects
+with normal glucose tolerance (NGT) included in this study. Plasma ZBED3 level was determined by ELISA. The
+relationships of plasma ZBED3 with metabolic parameters, hyperglycemia, and hyperinsulinemia were analyzed.
+Results Plasma ZBED3 level was higher in T2DM group than those in IGT and NGT groups [(142. 1±31. 0 vs 122. 2
+± 25. 4 and 96. 0 ± 19. 7)ng / L, both P<0. 01] . Women had higher plasma ZBED3 level than men did [(122. 0 ±
+34. 6 vs 114. 7 ± 26. 6) ng / L,P<0. 05] . There was higher ZBED3 level in overweight patients compared with lean
+individuals [(131. 1 ± 31. 6 vs 88. 6 ± 17. 1) ng / L,P<0. 01)]. Plasma ZBED3 level was positively correlated with
+BMI, waist-hip rate ( WHR), body fat% ( BF% ), systolic blood pressure, diastolic blood pressure ( DBP),
+triglyceride ( TG), fasting blood glucose, fasting insulin, HBA1C, and homeostasis model assessment insulin
+resistance index ( HOMA-IR), while inversely correlated with high density lipoprotein-cholesterol ( P < 0. 01) .
+Moreover,logistic analysis showed that WHR, BF% , DBP, TG, HBA1C, and HOMA-IR were independently related
+to plasma ZBED3 level. Circulating ZBED3 level in normal subjects was rapidly elevated from(96. 0 ± 19. 7)ng / L at
+0 min to (169. 0 ± 39. 1) ng / L at 30 min during oral glucose tolerant test (P<0. 01), then gradually decreased to
+(93. 5 ± 29. 1) ng / L at 2 h. Conclusion The plasma ZBED3 levels were raised in patients with type 2 diabetes and in
+subjects with IGT and overweight. These results indicate that ZBED3 may contribute to the pathogenesis of insulin
+resistance in humans and it is influenced by glucose and insulin.
+[Key words]  Zinc-finger BED domain-containing 3; Diabetes mellitus, type 2; Insulin resistance; Obesity
+(Chin J Endocrinol Metab, 2014, 30: 373-376)
+最新的一项关于全球糖尿病大型流行病学研究显
+示 1980 年至 2008 年间全球糖尿病患者由 1. 5 亿增加
+到 3. 47 亿,中国是糖尿病患病率增长最快的国家之
+一。 但糖尿病的病因和发病机制尚未完全阐明,医学
+界普遍认为其是复合病因引起的综合征。 近期全基因
+组关联分析发现含 BED 型锌指蛋白 3(zinc-finger BED
+domain-containing 3, ZBED3)是 12 个新的糖尿病风险
+基因之一[1]。 因此,本研究通过检测正常健康人群与
+不同糖耐量异常人群血清 ZBED3 水平差异,分析其与
+相关代谢指标的关系。
+对象和方法
+一、 对象
+本研究共纳入 2010 年至 2012 年本院门诊患者、
+住院患者、健康体检者共 311 例。 2 型糖尿病(T2DM,
+按 1999 年世界卫生组织诊断标准)患者 109 例(男性
+45 例,女性 64 例),年龄(54 ± 11)岁,体重指数(BMI)
+为(24. 61 ± 3. 33) kg / m2。 糖耐量受损( IGT)者 89 例
+(男性 25 例,女性 64 例),年龄 (52 ± 10) 岁, BMI
+(23. 73 ±3. 28)kg / m2。 IGT 与 2 型糖尿病患者均为初
+诊患者,未接受任何药物治疗和饮食控制。 正常对照
+(NGT)组为健康体检或志愿者 113 名(男性 37 名,女
+性 76 名),年龄(52 ±9)岁,BMI(23. 68 ± 3. 81)kg / m2,
+且均经口服葡萄糖耐量试验(OGTT)证实为糖耐量正
+常。 排除标准:(1)有明显的肝肾疾病,有大血管并发
+症等;(2)正在使用全身类固醇治疗及可能影响血糖
+的药物;(3)妊娠妇女;(4)有明显血液系统疾病者;
+(5)有肿瘤病史者。
+二、 方法
+1. 标本的收集:所有受试者均空腹 10 h 采集空腹
+静脉血液,口服 75 g 葡萄糖后 0. 5、1 和 2 h 再次采集
+静脉血。 一份冻存于-70℃ 冰箱用于血清 ZBED3 测
+定。 一份用于检测 HBA1C。 另一份离心取血清测定相
+关指标,如空腹血糖(FPG)、空腹胰岛素(FINS)、血脂
+等。 研究者详细询问受试者年龄、个人史、既往史、用
+药史、家族史等基本情况。 由专人负责测量身高、体
+重、血压、腰围、臀围、体脂百分比(BF% )。 腰臀比 =
+腰围 /臀围,BMI =体重(kg) /身高2(m2),稳态模型评
+估的胰岛 β 细胞分泌指数 ( HOMA-β) = 20 × FINS /
+(FPG - 3. 5 ), 稳态模型评估的胰岛素抵抗指数
+(HOMA-IR)= FPG×FINS / 22. 5。
+2. 主要试剂与测定方法:血浆葡萄糖测定采用氧
+化酶法;血清胰岛素测定采用放射免疫法(中国原子
+能科学研究院药盒);游离脂肪酸(FFA)测定采用酶法
+(英国 RANDOX 公司药盒);HBA1C测定采用高压液相
+法(美国 Bio-Rad 药盒);血脂测定采用酶法(浙江东瓯
+生物工程有限公司药盒);BF% 用 TBF-410 体脂分析
+仪测定。 ZBED3 测定采用酶联免疫法(ELISA, 艾莱
+萨生物科技有限公司,上海),线性范围 31. 2 ~ 1 000
+ng / L,批内 CV 分别为 13% ;批间 CV 为 14% 。
+三、 统计学处理
+运用 SPSS 17. 0 和 SAS 软件。 所有正态分布的数
+据以 x-± s 表示。 连续变量组间比较采用方差分析、分
+类变量采用 字2 检验。 P<0. 05 为差异有统计学意义。
+血清 ZBED3 和其他相关指标间的关系采用直线相关
+及多元逐步线性回归分析。 卡方趋势检验分析血清
+ZBED3 浓度与糖代谢异常的相关性。
+结    果
+一、 一般临床资料与生化指标比较
+T2DM 和 IGT 组腰臀比、 BF% 、 收缩压、 FPG、
+FINS、糖负荷后 2 h 血糖(2hPG), 2 h 胰岛素、HBA1C、
+HOMA-IR 等显著高于 NGT 组(P<0. 05 或 P<0. 01),
+而 HOMA-β 显著低于 NGT 组(均 P<0. 01)。 T2DM 组
+BMI、舒张压、甘油三酯(TG)、FFA 显著高于 NGT 组
+(P<0. 05 或 P<0. 01),而高密度脂蛋白胆固醇(HDL-
+C)明显低于 NGT 组(P<0. 01)。 T2DM 组的收缩压、
+舒张压、FFA、2hPG、2 h 胰岛素、TG、FFA、HOMA-IR、
+HBA1C、FPG、FINS 显著高于 IGT 组,HOMA-β、HDL-C
+低于 IGT 组(P<0. 05 或 P<0. 01)。 3 组之间的年龄、
+性别、TC、低密度脂蛋白胆固醇无明显差异(表 1)。
+二、 各组血清 ZBED3 水平比较
+T2DM 组血清 ZBED3 水平显著高于 NGT、IGT 组,
+而 IGT 明显高于 NGT 组(P<0. 01,表 1)。 按 BMI 分
+为超重或肥胖(BMI≥25 kg / m2)和正常体重(BMI<25
+kg / m2)比较,总人群中超重组( n = 118)血清 ZBED3
+水平高于非超重组[n = 193,(131. 1 ± 31. 6 对 112. 5 ±
+30. 6) ng / L,P<0. 01]。 NGT 组中,超重组血清 ZBED3
+水平高于非超重组[(110. 9 ± 15. 9 对 88. 6 ± 17. 1)
+ng / L,P<0. 01)]。 IGT 组中, 超重组血清 ZBED3 水
+平略高于非超重组[ (125 . 0 ± 26 . 8 对 120. 3 ±24. 5)
+ng / L,P>0. 05]。 T2DM 组中,超重组血清 ZBED3 水平
+表 1  各组血浆 ZBED3 水平和其他指标比较(x-± s)
+Tab 1  Clinical characteristics and plasma ZBED3 levels in various groups(x-± s)
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+BMI
+(kg / m2) WHR
+BF%
+(% )
+SBP
+(mmHg)
+DBP
+(mmHg)
+TG
+(mmol / L)
+NGT 113   52 ± 9 23. 68 ± 3. 81 0. 86 ± 0. 06 28. 54 ± 8. 01   117 ± 15   75 ± 9 1. 18 ± 0. 71
+IGT 89   52 ± 10 23. 73 ± 3. 28 0. 88 ± 0. 08a 30. 91 ± 6. 68a   121 ± 17a   79 ± 11 1. 41 ± 0. 75
+T2DM 109   54 ± 11 24. 61 ± 3. 33a 0. 91 ± 0. 05b 31. 64 ± 7. 62b   127 ± 17bc   81 ± 12bc 1. 99 ± 0. 73bd
+组别
+Group
+例数
+n
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+FFA
+(μmol / L)
+FPG
+(mmol / L)
+2hPG
+(mmol / L)
+NGT 113 4. 80 ± 1. 18 1. 38 ± 0. 33 2. 88 ± 0. 91 0. 46 ± 0. 23 5. 15 ± 0. 51 6. 17 ± 1. 10
+IGT 89 5. 01 ± 0. 89 1. 41 ± 0. 33 2. 84 ± 0. 65 0. 50 ± 0. 23 5. 98 ± 0. 71b 9. 31 ± 0. 92b
+T2DM 109 5. 02 ± 0. 93 1. 25 ± 0. 27bd 2. 87 ± 0. 78 0. 61 ± 0. 36ac 9. 24 ± 3. 54bd 17. 91 ± 6. 60bd
+组别
+Group
+例数
+n
+FINS
+(mU / L)
+2hIns
+(mU / L)
+HBA1C
+(% ) HOMA-IR HOMA-β
+ZBED3
+(ng / L)
+NGT 113 7. 77 ± 3. 67 43. 53 ± 22. 98 5. 69 ± 0. 34 1. 79 ± 0. 87   104 ± 56 96. 0 ± 19. 7
+IGT 89 9. 90 ± 4. 76a 73. 54 ± 35. 70b 5. 99 ± 0. 52b 2. 66 ± 1. 60b     84 ± 48a 122. 2 ± 25. 4b
+T2DM 109 12. 55 ± 4. 78b 92. 31 ± 38. 30bd 8. 03 ± 2. 12bd 4. 98 ± 3. 48bc     59 ± 24bd 142. 1 ± 31. 0bd
+注:NGT:正常糖耐量 Normal glucose tolerance; IGT:糖耐量受损 Impaired glucose tolerance; T2DM:2 型糖尿病 Type 2 diabetes mellitus; BMI:体重指
+数 Body mass index; WHR:腰臀比 Waist hip ratio; BF% :体脂百分比 Body fat % ; SBP:收缩压 Systolic blood pressure; 1 mmHg=0. 133 kPa; DBP:舒张压
+Diastolic blood pressure; TG:甘油三酯 Triglyceride; TC:总胆固醇 Total cholesterol; HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol; LDL-
+C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol; FFA:游离脂肪酸 Free fatty acid; FPG:空腹血糖 Fasting plasma glucose; 2hPG:糖负荷后 2 h 血
+糖 2 h plasma glucose after glucose loading;FINS:空腹胰岛素 Fasting plasma insulin; 2hIns:糖负荷后 2 h 糖岛素 2 h insulin after glucose loading; HOMA-IR:
+稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment insulin resistance index; HOMA-β:稳态模型评估的胰岛 β 细胞分泌指数 Homeostasis
+model assessment β cell secretion index; ZBED3:含 BED 型锌指蛋白 3 Zinc-finger BED domain-containing 3;与 NGT 相比 vs NGT group,aP<0. 05, bP<0. 01;
+与 IGT 相比 vs IGT group,cP<0. 05,dP<0. 01
+高于非超重组[(149. 6 ± 33. 1 对 135. 9 ± 28. 0) ng / L,
+P<0. 05,图 1]。 女性人群(n = 205 人)中血清 ZBED3
+水平明显高于男性人群[ n = 106,(122. 0 ± 34. 6 对
+114. 7 ± 26. 6) ng / L,P<0. 05]。
+三、 血清 ZBED3 的影响因素
+线性相关及回归分析显示,血清 ZBED3 水平与
+BMI、腰臀比、BF% 、收缩压、舒张压、TG、FPG、FINS、
+HBA1C、HOMA-IR 呈明显正相关 ( r 分别为 0. 316、
+0. 280、0. 350、 0. 169、 0. 146、 0. 332、 0. 317、 0. 392、
+0. 317、0. 413,均 P<0. 01),而与 HDL-C 呈明显负相关
+( r= -0. 181,P<0. 01)。 多元线性逐步回归分析表明
+腰臀比、 BF% 、 舒张压、TG 是影响血清 ZBED3 水平的
+注:TOTAL:总计;余略语同表 1 The other abbreviations are the same as
+Tab 1;与 BMI<25 kg / m2 比较 vs BMI<25 kg / m2,aP<0. 05,bP<0. 01
+图 1  正常体重者与超重者血清 ZBED3 水平比较
+Fig 1  Comparison of ZBED3 level between normal body weight and obesity
+groups
+独立相关因素,其回归公式为:YZBED3 = -22. 782 +
+1. 901 × HOMA-IR + 1. 018 × BF% + 3. 572 × HBA1C +
+4. 867×TG+0. 277×舒张压+59. 527×腰臀比。 在 T2DM
+患者中,行平均分检验, 字2 = 65. 04,P<0. 01。 卡方趋
+势检验表明 ZBED3 水平与 T2DM 之间存在剂量反应
+关系,随着 ZBED3 的水平增高,T2MD 的发病危险性
+增大(U=8. 63,P<0. 01)。
+四、 糖负荷对血清 ZBED3 水平的影响
+NGT 组空腹血清 ZBED3 为(96. 0 ±19. 7)ng / L,口
+服 75 g 葡萄糖后在 30 min 快速上升(169. 0 ± 39. 1)
+ng / L,1 h 逐渐下降到(134. 1 ± 34. 5)ng / L (P<0. 01),
+2 h 下降到(93. 5 ± 29. 1)ng / L(图 2)。
+讨    论
+Wnt / β-catenin 信号转导途径是调控细胞形态、运
+动、黏附、增殖、分化及癌变等过程的主要途径,轴蛋白
+(Axin)是 Wnt / β-catenin 途径的关键蛋白,它作为构架
+蛋白与 APC、糖原合成酶激酶 3β(GSK-3β)、β 连环蛋
+白和 CKIα 结合形成复合体促进 β 连环蛋白的降解,
+即使不同的亚型,都主要作为 Wnt 通路的抑制因子存
+在[2],经典 Wnt 通路通过诱导低密度脂蛋白受体相关
+蛋白(LRP5 / 6)与 Axin 的相互作用稳定 β-连环蛋白。
+而 Axin 的功能通常通过其配体进行调节 [3] ,Chen
+等 [4] 在 2009 年首次提出一种新的轴结合蛋白———
+注:ZBED3:含 BED 型锌指蛋白 3 Zinc-finger BED domain-containing
+3;与 0 min 比较 vs 0 min,aP<0. 05, bP<0. 01
+图 2  口服葡萄糖耐量试验过程中正常人血清 ZBED3、血糖、胰岛素水
+平的变化
+Fig 2   Changes of ZBED3, blood glucose, and insulin levels during oral
+glucose tolerant test
+ZBED3,并明确提出 ZBED3 与 Axin 结合,抑制 GSK-
+3β 磷酸化 β 连环蛋白,导致细胞质中 β-连环蛋白的
+累积,后者转移到细胞核内与核内的转录因子 LEF-1 /
+TCF 家族成员结合,以激活特定基因的表达。 因此
+ZBED3 可能通过 Wnt / β-catenin 通路抑制脂肪细胞的
+生成,激活该信号通路能够使脂肪的生成减少。 最近
+全基因组关联分析也进一步提示 ZDED3 基因的表达
+及多个位点的单核苷酸多态性与糖尿病的发生发展密
+切相关,被普遍认为是糖尿病的易感基因,其易感位点
+突变的患者,即 ZBED3 的风险基因携带者有更高的空
+腹、2 h 胰升糖素水平[1,5]。
+尽管获得了上述这些结果,但目前尚无 ZBED3 在
+人体,尤其是其与糖尿病患者的相关性研究。 本研究
+报道了血浆 ZBED3 在 T2DM、IGT 组以及超重组中的
+水平明显增高,并与肥胖相关指标(如腰臀比、BMI、
+BF% 等)、 收缩压、 舒张压、 TG、 FPG、 FINS、 HBA1C、
+HOMA-IR 呈正相关,而与 HDL-C 负相关。 卡方趋势
+检验也表明 ZBED3 水平与糖代谢紊乱程度存在量效
+关系。 这结果似乎与既往研究相矛盾,究其原因可能
+就像“瘦素抵抗冶,是胰岛素抵抗状态下对高血糖、高
+脂、脂肪大量堆积刺激后的一种代偿机制。 高血糖、高
+脂刺激后 ZBED3 代偿增加,ZBED3 与 Axin 结合增加,
+抑制 GSK-3β 磷酸化 β 连环蛋白,导致细胞质中 β 连
+环蛋白的累积,以降低血糖、血脂。 由于 ZBED3 的正
+常生理功能主要是通过 Axin 介导,持续的代偿升高还
+有可能造成了 ZBED3 配体水平的反馈性下调,这就是
+“ZBED3 抵抗冶,以致于 ZBED3 进一步增高。 因此血
+中 ZBED3 水平增加,可能是一种代偿保护作用。
+同时由于 ZBED3 与 LRP5 / 6 结构及功能相似,而
+LRP5 / 6 与动脉硬化、冠心病之间存在着直接关系[6],
+因此 ZBED3 可能通过这一机制导致血压的升高。 本
+研究还发现 ZBED3 在女性中的水平明显高于男性。
+这一结果提示血中 ZBED3 水平具有性别特异性,并可
+能受性激素调节。 然而,这些推测有待于进一步的研
+究加以证实。
+为探索高胰岛素、高血糖对 ZBED3 分泌的影响,
+本研究观察了 NGT 组血浆 ZBED3 在 OGTT 过程中的
+动态改变。 结果显示 ZBED3 在口服葡萄糖后 30 min
+达峰值,2 h 下降到基线水平,提示 ZBED3 的分泌可能
+与高胰岛素、高血糖有关。
+总之,本研究报道血清 ZBED3 与肥胖和胰岛素抵
+抗的发生和发展相关,但其具体生理功能尚需进一步
+的研究。

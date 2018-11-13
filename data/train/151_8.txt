@@ -1,0 +1,492 @@
+THE SEVENTH EDITORIAL BOARD OF
+CHINESE JOURNAL OF ENDOCRINOLOGY AND METABOLISM
+(按姓氏拼音为序)
+通讯编委  Corresponding Referees
+蔡晓凌(北京)    曹亚南(上海)    常宝成(天津)    陈燕铭(广东)    陈燕燕(北京)
+程  飞(北京)    谷伟军(北京)    顾燕云(上海)    何兰杰(宁夏)    侯为开(山东)
+胡  承(上海)    胡耀敏(上海)    邝  建(广东)    李燕虹(广东)    刘福平(北京)
+刘彦君(北京)    陆洁莉(上海)    马华梅(广东)    茅江峰(北京)    乔  洁(上海)
+秦映芬(广西)    任  萌(广东)    任  艳(四川)    苏  恒(云南)    孙首悦(上海)
+汪启迪(上海)    王  鸥(北京)    王爱红(北京)    王海宁(北京)    王育璠(上海)
+温俊平(福建)    吴胜利(新疆)    徐向进(福建)    许  雯(广东)    严孙杰(福建)
+杨  静(山西)    杨丽辉(西藏)    杨叶虹(上海)    叶红英(上海)    袁凌青(湖南)
+曾天舒(湖北)    张  梅(江苏)    张  巧(贵州)    张  松(贵州)    张洪梅(上海)
+张少玲(广东)    张志国(上海)    周  嘉(广西)    周  健(上海)    周嘉强(浙江)
+临床研究
+基金项目:国家自然科学基金项目(81030014、81270902、81471057)
+云、周丽诺、何敏、闻杰、陈立立、杨叶虹、李益明、朱禧星)、心内科(范维琥)、消化科(刘杰);上海交通大学附属第三人民
+医院内分泌科(陈凤玲);上海交通大学附属第六人民医院内分泌科(李连喜);上海交通大学附属第一人民医院内分泌科
+(黄颖);上海交通大学附属第九人民医院内分泌科(李琴);上海徐汇区大华医院(叶威巍)
+2 型糖尿病患者高发“代谢性炎症综合征冶
+胡仁明  谢颖  鹿斌  陈凤玲  李连喜  黄颖  李琴  叶威巍  张朝云  周丽诺  何敏
+范维琥  刘杰  闻杰  陈立立  杨叶虹  李益明  朱禧星
+[摘要]   目的  代谢失调所致的产物,如游离脂肪酸、脂多糖等常常诱发慢性低度炎症,称代谢性炎
+症(Metabolic inflammation 或 Metflammation),后者参与并导致动脉粥样硬化、2 型糖尿病、非酒精性脂肪肝
+及肥胖等代谢性疾病的发生。 这些与代谢性炎症密切相关的代谢性疾病常共生,因此我们提出“代谢炎症
+性综合征(Metabolic inflammatory syndrome,MIS)冶的概念及诊断标准,并建议如果患者伴有 2 个及 2 个以上
+上述代谢性疾病时可诊断 MIS。 本文旨在分析糖尿病患者 MIS 及其组分的流行特征,比较 MIS 与代谢综
+合征(MS)的临床意义。 方法 对上海 6 家医院的 2 001 例 2 型糖尿病住院患者进行多中心横断面研究。
+结果 在 2 型糖尿病患者中,MIS 的检出率为 96. 2% ,高于 MS 的患病率(71. 3% )。 MIS 单组分中动脉粥
+样硬化的检出率最高(75. 6% )。 MIS、动脉粥样硬化及 MS 均是冠心病的危险因素[OR 值分别为 2. 252
+(95% CI1. 026 ~ 4. 942,P=0. 043)、2. 726(95% CI1. 953 ~ 3. 804,P<0. 01)、1. 915(95% CI 1. 444 ~ 2. 540,P<
+0. 01)]。 结论 以动脉粥样硬化、2 型糖尿病、非酒精性脂肪肝及肥胖作为组分,MIS 的检出率高,比 MS
+更有利于识别炎症相关代谢性疾病的患者;MIS 的概念及诊断有利于动脉粥样硬化的早期筛查和防治。
+[关键词]   代谢性炎症; 代谢炎症性综合征; 糖尿病, 2 型; 动脉粥样硬化; 非酒精性脂肪肝
+High detective rate of "metabolic inflammatory syndrome" in patients with type 2 diabetes Hu Renming*, Xie
+Ying, Lu Bin, Chen Fengling, Li Lianxi, Huang Ying, Li Qin, Ye Weiwei, Zhang Zhaoyun, Zhou Linuo, He Min,
+Fan Weihu, Liu Jie, Weng Jie, Chen Lili, Yang Yehong, Li Yiming, Zhu Xixing. *Department of Endocrinology,
+Endocrine and Diabetes institute, Huashan Hospital Affiliated to Fudan University, Shanghai 200040, China
+[Abstract]   Objective   Metabolites produced by metabolic imbalance such as free fatty acids and
+lipopolysaccharides can result in a state of chronic low-grade inflammation, or metabolic inflammation, which plays an
+important role in the pathogenesis of atherosclerosis, type 2 diabetes, non-alcoholic fatty liver disease, and
+obesity. The above metabolic disorders are closely related with the metabolic inflammation, which always
+coexist. Therefore, we proposed the concept of " metabolic inflammatory syndrome (MIS)" . According to our study,
+patients with two or more metabolic disorders above could be diagnosed as MIS. The current research is aimed to
+investigate the prevalence of MIS and its components, and to compare the clinical values of MIS and metabolic
+syndrome(MS). Methods 2 001 in patients with type 2 diabetes from 6 hospitals in Shanghai were recruited in the
+current multi-center cross-sectional study. The diagnostic rates of MIS and MS and their components of both syndromes
+were compared. Results In the patients with type 2 diabetes, the detective rate of MIS was 96. 2% , which was
+higher than that of MS (71. 3% ). Among 4 components of MIS, atherosclerosis showed the highest detective rate
+(75. 6% ). MIS[OR=2. 252 (95% CI 1. 026-4. 942),P = 0. 043], atherosclerosis[OR = 2. 726 (95% CI 1. 953-
+3. 804),P<0. 001], and MS[OR=1. 915 (95% CI 1. 444-2. 540),P<0. 01] were the risk factors of coronary heart
+disease. Conclusion With atherosclerosis, type 2 diabetes mellitus, non-alcoholic fatty liver disease, and obesity as
+its 4 components, MIS has a high detective rate in patients with metabolic disorders, and seems to be more sensitive
+than MS to distinguish inflammation-related metabolic diseases. The concept of MIS will promote the screening and
+prevention of atherosclerosis in its early stage.
+[Key words]   Metabolic inflammation; Metabolic inflammatory syndrome; Diabetes mellitus, type 2;
+Atherosclerosis; Non-alcoholic fatty liver disease
+(Chin J Endocrinol Metab, 2016, 32: 27-32)
+动脉粥样硬化(Atherosclerosis, AS) [1]和 2 型糖尿
+病[2-3]被认为是慢性低度炎症性疾病。 糖尿病对人类
+的主要危害是心脑血管并发症[4]。 由 AS 引发的卒
+中、心肌梗死等心脑血管疾病已是危害人类健康的第
+一杀手。 近年研究发现极化的巨噬细胞参与 AS(包括
+冠状动脉和脑动脉粥样硬化)病理生理的全过程[5]。
+单核巨噬细胞不仅入侵血管内膜吞噬胆固醇,并形成
+泡沫样细胞及导致 AS,巨噬细胞也可侵袭胰岛[6]、脂
+肪细胞[7]和肝脏[8] 并损伤这些细胞组织,从而参与 2
+型糖尿病、肥胖和非酒精性脂肪肝(non-alcoholic fatty
+liver disease, NAFLD)的病理生理过程。 AS、2 型糖尿
+病、NAFLD 及肥胖常常聚集、同存或并发,如 75%的肥
+胖和糖尿病患者伴有脂肪肝[8],冠状动脉粥样硬化狭
+窄住院患者糖代谢异常者占 76. 9% ,其中糖尿病占
+52. 9% [4]。 动物实验表明,过度表达诱导炎症的因子
+(如 MG53 等)可同时引起数个代谢性危险因素,导致
+肥胖、脂肪肝及糖耐量受损[9],予抗炎治疗后,这些危
+险因素可部分得到改善[9-10]。 上海华山医院研究组发
+现 micro-RNA145 抑制巨噬细胞的极化,过度表达
+micro-RNA145 的小鼠模型,其糖耐量受损、肥胖、脂肪
+肝得到明显改善,动脉粥样硬化的风险降低 (待发
+表)。 综上所述,由于现代生活习惯和环境的变化产
+生代谢紊乱及代谢产物,包括游离脂肪酸( FFA)和
+脂多 糖[10] 等 极 化 巨 噬 细 胞 并 诱 发 慢 性 低 度 炎
+症[11-12] ,也称代谢性炎症(Metabolic inflammation 或称
+Metflammation),后者损伤组织和器官并导致代谢性疾
+病。 基于 AS、NAFLD、2 型糖尿病及肥胖聚集且与慢
+性炎症密切相关,本研究组由此提出了代谢性炎症综
+合征(Metabolic inflammatory syndrome, MIS)的概念,并
+建议将伴有 4 个代谢性疾病中 2 个或 2 个以上的患者
+诊断为 MIS[13]。 本研究旨在分析和研究 MIS 及其组
+分在 2 型糖尿病患者中的流行特征,比较 MIS 与代谢
+性综合征(MS)的临床意义。
+对象和方法
+一、 对象
+对 2014 年 1 月至 2015 年 1 月在复旦大学附属华
+山医院、上海市第一人民医院、上海市第三人民医院、
+上海市第六人民医院、上海市第九人民医院、上海市徐
+汇区大华医院登记住院的 2 型糖尿病患者进行多中心
+横断面研究。 纳入患者为入院时已明确诊断为 2 型糖
+尿病、年龄介于 28 岁至 90 岁间,且住院资料完整,并
+排除以下情况:酗酒史、慢性自身免疫性疾病史、妊娠
+高血压病或继发性高血压病史、其他类型的糖尿病、住
+院期间处于感染或其他严重疾病状态。 共有 2 001 例
+患者列入本次分析。
+二、 方法
+1. 资料收集:根据住院病史材料,收集以下资料:
+(1)一般情况:年龄、性别;(2)生活方式:吸烟、饮酒;
+(3)患病情况:2 型糖尿病、高血压病、冠状动脉粥样硬
+化性心脏病、NAFLD;(4)体格检查:身高、体重、血压;
+(5)实验室检查:HBA1C、总胆固醇 ( TC)、三酰甘油
+(TG)、低密度脂蛋白胆固醇(LDL-C)、高密度脂蛋白
+胆固醇(HDL-C)、血尿酸、尿白蛋白肌酐比值(ACR)
+等;(6)超声检查:肝脏、颈动脉及双下肢动脉,颈动脉
+及双下肢动脉斑块阳性者为 AS。
+2. MS、MIS 及其组分的定义:按 2004 年中华医学
+会糖尿病学分会(CDS)的建议,具备以下 4 个组分的
+3 项或全部者为 MS:(1)体重指数(BMI)≥25 kg / m2
+(BMI≥25 kg / m2时全因死亡率增加);(2)高血糖:空
+腹血糖 ( FPG) ≥6. 1 mmol / L 及 (或) 餐后 2h 血糖
+(2hPG≥7. 8 mmol / L,或(及)诊断为糖尿病正在治疗
+者;(3)高血压:血压≥140 / 90 mmHg(1 mmHg = 0. 133
+kPa),或(及)确诊高血压病史正在治疗者;(4)血脂紊
+乱:TG≥1. 7 mmol / L 及(或) HDL-C<1. 0 mmol / L(女)
+或 0. 9 mmol / L(男) [2]。 白蛋白尿(ACR≥30 mg / g)、
+高尿酸血症(男性血尿酸>420 μmol / L,女性血尿酸>
+360 μmol / L)也作为 MS 的候选组分进行研究。 冠心
+病定义为出院病史诊断为冠心病者。 本研究定义 MIS
+为具有以下 4 项组分的 2 项或 2 项以上者:(1)2 型糖
+尿病;(2)BMI≥25 kg / m2(超重或肥胖);(3)NAFLD:
+超声诊断为脂肪肝并且根据病史排除酒精性脂肪肝;
+(4)AS:超声检查颈动脉或下肢动脉存在斑块。
+三、 统计学处理
+对总体数据进行描述性分析。 计量资料用 x-± s 表
+示,组间比较用方差分析。 计数资料用百分比 /百分率
+表示,组间比较用 字2 检验(双边)。 所有数据处理均由
+SPSS 16. 0 软件完成。 P<0. 05 为差异有统计学意义。
+结    果
+一、 研究对象的特征
+共纳入研究对象 2 001 例,平均年龄 (61. 87 ±
+12. 13)岁,男性占 53. 42% ,女性占 46. 58% ,平均 2 型
+糖尿病病程(9. 78 ± 7. 58)年。 男性 BMI、FPG、TG 与
+女性相比无显著差异,年龄、2 型糖尿病病程、收缩压、
+TC、HDL-C、 LDL-C 低于女性,舒张压、体重、身高、
+HBA1C、血尿酸高于女性(表 1)。
+二、 受试者中 MS、MIS 及其组分组合的特征
+1. 2 型糖尿病患者中 MS、MIS 及其组分的检出率:
+如表 2 所示, 受试者中 MIS 的检出率为 96. 2% , 男性
+表 1  研究对象的一般特征及实验室检查数据(x-± s)
+Tab 1  General characteristics and laboratory data of the subjects(x-± s)
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+T2DM 病程
+(年)
+Duration of T2DM
+(year)
+SBP
+(mmHg)
+DBP
+(mmHg)
+体重
+Weight
+(kg)
+身高
+Height
+(m)
+BMI
+(kg / m2)
+男性
+Male 1 069 60. 55 ± 12. 88 8. 92 ± 7. 29 134 ± 18
+81 ± 23 74. 93 ± 11. 75 1. 70 ± 0. 06 25. 79 ± 3. 49
+女性
+Female 932 63. 38 ± 11. 01
+a 10. 77 ± 7. 78a 136 ± 19a 80 ± 11 65. 18 ± 10. 57a 1. 62 ± 0. 65a 25. 91 ± 3. 76
+总计
+Total 2 001 61. 87 ± 12. 13 9. 78 ± 7. 58 135 ± 18
+81 ± 19 70. 41 ± 12. 22 1. 66 ± 0. 45 25. 85 ± 3. 62
+组别
+Group
+例数
+n
+HBA1C
+(% )
+FPG
+(mmol / L)
+SUA
+(mmol / L)
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+男性
+Male 1 069 8. 93 ± 2. 29 8. 88 ± 6. 95 0. 37 ± 0. 11 4. 64 ± 1. 24 2. 06 ± 1. 73 1. 03 ± 0. 27 2. 78 ± 0. 90
+女性
+Female 932 8. 60 ± 2. 10
+a 8. 42 ± 3. 89 0. 33 ± 0. 11a 5. 00 ± 1. 31a 2. 19 ± 2. 00 1. 14 ± 0. 31a 2. 95 ± 0. 97a
+总数
+Total 2 001 8. 77 ± 2. 21 8. 67 ± 5. 74 0. 35 ± 0. 11 4. 81 ± 1. 29 2. 12 ± 1. 86 1. 08 ± 0. 29 2. 86 ± 0. 94
+注:T2DM:2 型糖尿病 Type 2 diabetes mellitus;SBP:收缩压 Systolic blood pressure;1 mmHg=0. 133 kPa; DBP:舒张压 Diastolic blood pressure;BMI:体
+重指数 Body mass index;FPG:空腹血糖 Fasting plasma glucose;SUA:血尿酸 Serum uric acid;TC:总胆固醇 Total cholesterol;TG:三酰甘油 Triglyceride;
+HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;与男性相比 vsMale,aP<
+0. 05
+MIS 的检出率高于女性 ( 97. 1% 对 95. 2% , P =
+0. 016)。MIS 组分中 AS 的检出率最高(总计 75. 6% ),
+男性高于女性(78. 3%对 72. 4% ,P<0. 01);其次为超
+重 /肥胖,其检出率为 61. 7% ,男性高于女性(64. 0%
+对 59. 1% ,P = 0. 014);NAFLD 的检出率为 51. 30% ,
+男性与女性之间无明显差异。
+如表 3 所示,受试者中 MS 的检出率为 71. 3% ,男
+女间无明显差异。 MS 的组分中,高血压的检出率最高
+(总计 73. 1% ),女性检出率高于男性 (75. 1% 对
+71. 4% ,P = 0. 034);其次为血脂紊乱(62. 40% )和超
+重 /肥胖(61. 70% )。 其候选组分中,白蛋白尿患病率
+21. 9% ;高尿酸血症患病率为 35. 0% ,女性高于男性
+(38. 4%对 32. 0% ,P=0. 002)。
+2. 2 型糖尿病患者 MIS 组分不同组合的情况:受
+试者中除 2 型糖尿病外,符合 MIS 其余组分至少 1 项、
+2 项、3 项的比例分别为 96. 2% 、69. 0% 、23. 4% 。 除 2
+型糖尿病外,符合 MIS 组分 1 项的组合中,以 AS(n =
+1 512)最多;符合 MIS 组分 2 项的组合中,以“超重 /肥
+胖+AS冶人数最多,占 45. 3% (n=906,表 4)。
+3. MIS 及其组分的检出率在不同年龄组的变化
+情况:除 45 ~ 59 岁组外,受试者 MIS 的检出率随年龄
+增长而升高(P=0. 01), 75 岁以上年龄组的 MIS 检出
+率最高。 <45 岁组、45 ~ 59 岁组、60 ~ 74 岁组、≥75
+岁组的 MIS 检出率分别为 95. 2% 、 94. 4% 、 97. 3% 和
+表 2  2 型糖尿病患者中 MIS 及其组分的检出率[n(% )]
+Tab 2  Incidences of MIS and its components in patients with T2DM
+[n(% )]
+组别
+Group
+例数
+n MIS AS NAFLD OW/ OB
+男性
+Male 1 069 1 038(97. 1) 837(78. 3) 556(52. 0) 684(64. 0)
+女性
+Female 932 887(95. 2)
+a 675(72. 4) a 471(50. 5) 551(59. 1) a
+总计
+Total 2 001 1 925(96. 2) 1 512(75. 6) 1 027(51. 3)1 235(61. 7)
+注:MIS:代谢性炎症综合征 Metabolic inflammatory syndrome; AS:动
+脉粥样硬化 Atherosclerosis; NAFLD:非酒精性脂肪肝 Non-alcoholic fatty
+liver disease; OW / OB: 超重 / 肥胖 Overweight / obesity; 与男性相比 vs
+Male,aP<0. 05
+表 3  2 型糖尿病患者中 MS 及其组分、候选组分的患病率[n(% )]
+Tab 3  Prevalences of MS, its components and its candidate components in patients with T2DM[n(% )]
+组别
+Group
+例数
+n MS
+高血压
+Hypertension
+血脂紊乱
+Dyslipidemia
+超重 / 肥胖
+Overweight
+/ Obesity
+白蛋白尿
+Albuminuria
+高尿酸血症
+Hyperuricemia
+男性
+Male 1 069 767(71. 7) 763(71. 4) 700(65. 5) 684(64. 0) 247(23. 1) 342(32. 0)
+女性
+Female 932 660(70. 8) 700(75. 1)
+a 548(58. 8) a 551(59. 1) a 192(20. 6) 358(38. 4) a
+总计
+Total 2 001 1 427(71. 3) 1 463(73. 1) 1 248(62. 4) 1 235(61. 7) 439(21. 9) 700(35. 0)
+注:MS: 代谢综合征 Metabolic syndrome; T2DM:2 型糖尿病 Type 2 diabetes mellitus;与男性相比 vs Male,aP<0. 05
+97. 7% 。 MIS 的增龄趋势有性别差异,男性中 MIS 检
+出率均随年龄增长而升高,但女性中此趋势不明显;且
+各年龄段男性的 MIS 检出率均高于女性(图 1)。
+MIS 的组分中,随年龄增长,AS 的检出率显著升
+高(P<0. 01),NAFLD、超重 /肥胖的患病率减少(表
+5)。
+三、 MIS 及其组分与冠心病之间的关系
+本研究中,MIS 及其组分 AS、超重 /肥胖均是冠心
+病的危险因素。 未校正前,MIS、AS、超重 /肥胖的 OR
+(即冠心病相 对 危 险 度 ) 分 别 是 2. 252 ( 95% CI
+1. 026 ~ 4. 942,P = 0. 043)、2. 726 (95% CI 1. 953 ~
+3. 804,P<0. 001)和 1. 293(95% CI 1. 018 ~ 1. 642, P=
+表 4  2 型糖尿病患者 MIS 组分不同组合的情况
+Tab 4  Different combination of components of MIS in patients with
+type 2 diabetes mellitus
+MIS 组分组合个数
+Number of combined
+MIS components
+OW / OB NAFLD AS 例数n
+构成比
+Constituent ratio
+(% )
+1 1 925 96. 2
++ 1 235 61. 7
++ 1 027 51. 3
++ 1 512 75. 6
+1 381 69. 0
++ + 657 32. 8
++ + 906 45. 3
++ + 754 37. 7
+3 + + + 468 23. 4
+注:略语同表 2 The abbreviations are the same as Tab 2
+注:MIS:代谢性炎症综合征 Metabolic inflammatory syndrome
+图 1  2 型糖尿病患者中各年龄组男性、女性的 MIS 检出率
+Fig 1  Detective rate of MIS in male and female type 2 diabetic patients among
+different age groups
+0. 035)。 校正年龄、性别、吸烟、 HBA1C后, MIS、AS 和
+超重 /肥胖的 OR 分别为 1. 604 (P = 0. 261)、1. 525
+(95% CI 1. 042 ~ 2. 232,P = 0. 030)和 1. 399(95% CI
+1. 072 ~ 1. 826,P = 0. 013)。 校正年龄、性别、吸烟、
+HBA1C、高血压、血脂紊乱后,MIS、超重 /肥胖的 OR 分
+别是 1. 471、1. 290,均无统计学意义(均 P>0. 05),AS
+的 OR 是 1. 512(95% CI 1. 032 ~ 2. 232,P = 0. 030)。
+NAFLD 与冠心病的关联无统计学意义(P=0. 537)。
+在本研究中,年龄、女性、MS 及其组分超重 /肥胖、
+高血压均是冠心病的危险因素(P<0. 05),其中 MS 及
+高血压的 OR 分别为 1. 915(95% CI 1. 444 ~ 2. 540,P<
+0. 01)和 2. 678(95% CI 1. 951 ~ 3. 676,P<0. 01)。 校
+正年龄、性别、吸烟、HBA1C 后,MS 及其组分超重 /肥
+胖、高血压仍是冠心病的危险因素,MS 及高血压的 OR
+分别是 1. 885(95% CI 1 . 378 ~ 2. 577,P = 0. 028)和
+1. 896(95% CI 1. 340 ~ 2. 682,P<0. 01)。 吸烟、血脂
+紊乱、白蛋白尿、高尿酸血症与冠心病的关联无统计学
+意义(P>0. 05,表 6)。
+讨    论
+慢性低度炎症(代谢性炎症)与代谢性疾病关系
+密切。 20 世纪 90 年代研究结果已证实 AS 是炎症性
+疾病[1]。 此后众多研究工作者认为 2 型糖尿病也可称
+自身代谢性炎症疾病[2-3]。 近年的研究结果提示
+NAFLD 和肥胖也是与代谢性炎症密切相关的疾
+病[7-8,14]。 这些代谢性疾病的高发常与不良的生活方
+式有关,后者常可诱发代谢性炎症。 研究表明,除了饱
+和脂肪酸等内源性损伤相关分子模式之外,外源性病
+原相关分子模式如革兰氏阴性细菌的脂多糖也能引起
+慢性低度炎症[15]。 巨噬细胞、T 细胞等免疫细胞均参
+与了炎症反应,其中巨噬细胞的极化在形成胰岛素抵
+抗和 AS 等病理过程中起关键作用[14]。 大量研究分析
+慢性低度炎症与代谢性疾病的关系,结果表明相关的
+代谢性疾病谱较广,而常见的代谢性疾病往往同存。
+基于 2 个以上内分泌器官肿瘤称多发性内分泌腺瘤病
+及二个以上内分泌腺体功能低下可称多腺体自身免疫
+表 5  2 型糖尿病患者各年龄组 MIS 组分的检出率
+Tab 5  Detective rates of MIS components among different age groups in patients with type 2 diabetes mellitus
+年龄
+(岁)
+Age
+(year)
+外周 AS
+Peripheral AS NAFLD OW/ OB
+男性a
+Male
+女性a
+Female
+合计a
+Total
+男性
+Male
+女性
+Female
+合计
+Total
+男性a
+Male
+女性
+Female
+合计a
+Total
+<45  47. 6% 38. 5% 45. 5% 54. 8% 64. 1% 57. 0% 79. 4% 61. 5% 75. 2%
+45 ~ 54 70. 0% 58. 5% 64. 5% 54. 1% 53. 2% 53. 7% 61. 8% 55. 4% 58. 7%
+55 ~ 64 88. 7% 79. 7% 84. 3% 50. 4% 48. 5% 49. 4% 64. 3% 62. 4% 63. 4%
+≥65  92. 8% 89. 7% 91. 2% 49. 7% 47. 1% 48. 4% 56. 3% 58. 0% 57. 2%
+注:略语同表 2 The abbreviations are the same as Tab 2;aP<0. 01
+表 6  冠心病与 MS 及其组分、年龄、性别、吸烟之间的关系
+Tab 6  The association of CAD with MS and its components, age, gender, smoking
+CAD 危险因素
+Risk factors of CAD OR(95% CI) P OR(95% CI)
+a P
+年龄
+Age 1. 072(1. 060,1. 084) <0. 001 1. 075(1. 061,1. 088) <0. 001
+女性
+Female 1. 497(1. 192,1. 880) 0. 001 1. 537(1. 157,2. 043) 0. 003
+吸烟
+Smoking 0. 855(0. 680,1. 077) 0. 183 1. 290(0. 981,1. 698) 0. 068
+HBA1C 0. 908(0. 857,0. 962) 0. 001 0. 934(0. 879,0. 993) 0. 028
+MS(CDS) 1. 915(1. 444,2. 540) <0. 001 1. 885(1. 378,2. 577) <0. 001
+OW / OB 1. 293(1. 018,1. 642) 0. 035 1. 399(1. 072,1. 826) 0. 013
+高血压
+Hypertension 2. 678(1. 951,3. 676) <0. 001 1. 896(1. 340,2. 682) <0. 001
+血脂紊乱
+Dyslipidemia 0. 936(0. 742,1. 182) 0. 579 1. 194(0. 918,1. 552) 0. 186
+白蛋白尿
+Albuminuria 0. 798(0. 599,1. 062) 0. 122 0. 730(0. 527,1. 010) 0. 057
+高尿酸血症
+Hyperuricemia 1. 065(0. 841,1. 349) 0. 601 0. 871(0. 668,1. 137) 0. 309
+注:CAD:冠心病 Coronary artery disease; MS:代谢综合征 Metabolic syndrome;其他略语同表 2 The other abbreviations are the same as Tab2;a校正年龄、
+性别、吸烟、HBA1C Adjusting age, gender, smoking, and HbA1C
+综合征(Polyglandular autoimmune syndrome, PGA),我
+们建议具有 2 个以上上述代谢性疾病(AS、NAFLD、2
+型糖尿病及肥胖)定义为 MIS。
+本研究在 2 型糖尿病患者中进行多中心横断面调
+查,分析 MIS 的流行病学特点,观察到 MIS 的检出率
+高达 96. 2% 。 除 2 型糖尿病外,符合 MIS 其余组分至
+少 2 项、3 项的比例分别为 69. 0% 、23. 4% 。 AS、超重 /
+肥胖和非酒精性脂肪肝的检出率分别是 75. 6% ,
+61. 7% 、51. 30% 。 本课题研究结果证明 AS、NAFLD、2
+型糖尿病及肥胖高度聚集或伴发。 AS、NAFLD、2 型糖
+尿病及肥胖常共存或伴发,理论上讲大部分患者应该
+并存 4 种代谢性疾病,但我们观察到只有近 1 / 4 糖尿
+病患者同时存在 AS、NAFLD 及肥胖,此可能为糖尿病
+患者注意了控制血糖及减肥有关,但需要更大样本研
+究证实,也需要从 AS、NAFLD 及肥胖患者人群研究
+MIS。
+AS 已成为威胁人类健康的主要危险因素,因此筛
+查和早期诊断 AS 至关重要。 本研究采用颈动脉及下
+肢动脉 B 超检查,斑块阳性者为 AS。 糖尿病患者 AS
+的检出率明显高于 NAFLD 和肥胖的检测率, 并且是
+冠脉动脉粥样硬化独立危险因素。 本研究结果提示外
+周动脉 B 超检查斑块是筛查 AS 安全、简单、有效的方
+法。 糖尿病并发 AS 是诱发心脑血管病变的主要危险
+因素。 MIS 的概念和诊断将鼓励和促进 2 型糖尿病、
+NAFLD 及肥胖患者筛查 AS,因此 MIS 的概念有助于
+AS 的早期诊断和防治。
+早在 20 世纪 60 ~ 70 年代,研究者已发现肥胖、高
+血压、血脂紊乱、糖尿病聚集的人群中心血管疾病的发
+病风险更高,并把这些代谢性危险因素的组合称为
+MS[16]。 1998 年世界卫生组织(WHO)专家组正式对
+此命名并提出诊断标准[17],其后多种组织机构对其组
+分进行讨论并修订。 先后被纳入各个诊断标准的组分
+除最初的 4 项外,尚有微量白蛋白尿、空腹血糖受损或
+糖耐量受损等[17];有争议的危险因素包括慢性低度炎
+症指标(如 C 反应蛋白、纤溶酶原激活物抑制物 1)、高
+尿酸血症、NAFLD 等[18-19];本研究结果显示高血压是
+MS 检出率最高的组分并且也是冠心病的危险因素,但
+是我们没有采用高血压作为 MIS 的组分,因为高血压
+的原因较复杂,其中包括继发性高血压,另外 AS 的检
+出率高于高血压。 未校正前,MIS 对冠心病的 OR 值
+高于 MS;校正了冠心病其他传统风险因素(年龄、性
+别、吸烟、HBA1C)后,MIS 的 OR 值无统计学意义,而
+MS 仍有统计学意义,提示 MIS 受性别、年龄、吸烟、
+HBA1C中至少 1 个以上因素的影响。 分析 MIS 的组
+分,外周 AS 在校正了以上因素后仍是冠心病的独立
+危险因素。 提示外周 AS 是 MIS 的合适组分。
+2 型糖尿病患者中 MIS 与 MS(CDS 标准)具有以
+下特点:(1)MIS 为 96. 2% ,检出率高于 MS;(2)MIS
+检出率男性高于女性,MS 检出率男女间无明显差异;
+(3)男性 MIS 检出率随年龄增长而升高,女性无此趋
+势;(4)检出率按由高到低排列,MIS 的组分为 AS、肥
+胖、NAFLD,MS 的组分及候选组分为高血压、血脂紊
+乱、肥胖、白蛋白尿、高尿酸血症;外周 AS 检出率高于
+高血压;(5)MIS 组分 2 项的组合形式中,“2 型糖尿病
++AS冶的人数最多;(6)MIS 的组分中,AS 的检出率随
+年龄增长而显著升高;NAFLD、肥胖的患病率随年龄
+增长而减少;(7)MS 的组分较多,还在考虑增加,既有
+生化指标又有临床诊断,不够精炼,另外,按照 MS 的
+诊断标准,库欣综合征型也符合 MS 的诊断,提示 MS
+的概念欠严谨;MIS 强调各组分与慢性低度炎症密切
+相关,旨在从系统生物学的角度研究 AS、NAFLD、2 型
+糖尿病及肥胖共同机制及关联规律,容易操作和诊断;
+提示 MIS 较 MS 有一定的优势。
+在 2 型糖尿病患者中,MIS 检出率高于 MS,表明
+MIS 更有利于发现炎症相关的代谢性疾病;在 MIS 其
+他组分中,AS 检出率很高,且高于任何一项 MS 的组
+分,提示在 2 型糖尿病患者中,AS 的检查适合作为
+MIS 的初筛检查,脂肪肝和肥胖的筛查也是识别 MIS
+的重要手段。 MIS 的诊断需要筛查所有组分,因此
+MIS 的概念有利于 AS、NAFLD、2 型糖尿病及肥胖早期
+诊断,特别是促进 AS 的诊断和防治。 抗炎治疗糖尿
+病已取得可喜的进展:白细胞介素 1 受体抗体改善胰
+岛功能, HBA1C降低 0. 8% [20];黄连素调控巨噬细胞极
+化[21]及治疗伴脂代谢紊乱的 2 型糖尿病有效[22];
+GLP-1 和二甲双胍都通过 STAT3 调控巨噬细胞极
+化[23-24],提示 GLP-1 和二甲双胍不仅治疗糖尿病有
+效,也有可能对 MIS 的治疗有一定的作用,因此值得
+关注和研究抗炎治疗 MIS[25]。 事实上,临床实践已证
+明二甲双胍具有降糖、减重、减轻脂肪肝及减少心血管
+事件风险的作用,显示二甲双胍有利于 MIS 的防治,
+也提示 MIS 的概念具有重要的防治代谢性疾病的临
+床意义。 本研究基于现代不良生活规律导致代谢性炎
+症,后者损伤组织及器官,形成代谢性疾病的研究结
+果,从系统生物学(或整合医学)的角度,提出 MIS 的
+概念及诊断方法,旨在抛砖引玉,期待基础和临床不同
+学科的专家从系统生物学的角度探讨和研究慢性低度
+炎症与代谢性疾病关系,探索慢病防治新方法。
+志谢  感谢陈家伦、陈家伟、项坤三、潘长I、陈名道、贾伟平、包玉
+倩、彭永德、宋怀东和陆颖理参与本课题的讨论和设计。

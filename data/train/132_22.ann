@@ -1,0 +1,475 @@
+T1	Disease 6879 6885	1 型糖尿病
+T2	Disease 7044 7050	1 型糖尿病
+T3	Disease 7143 7148	糖尿病前期
+T4	Test 1233 1238	甲状腺功能
+T5	Test 6113 6118	甲状腺功能
+T6	Anatomy 7060 7067	胰岛 β 细胞
+T7	Test 4435 4437	体重
+T8	Test 6070 6080	甲状腺过氧化物酶抗体
+T9	Disease 12 19	甲状腺相关眼病
+T10	Disease 47 54	甲状腺相关眼病
+T11	Disease 55 58	TAO
+T12	Drug 76 81	糖皮质激素
+T13	Drug 100 109	肿瘤坏死因子抑制剂
+T14	Drug 110 122	抗 CD20 单克隆抗体
+T15	Disease 139 142	TAO
+T16	Drug 155 160	糖皮质激素
+T17	Disease 170 177	甲状腺相关眼病
+T18	Disease 200 207	甲状腺相关眼病
+T19	Drug 215 220	糖皮质激素
+T20	Drug 222 234	抗 CD20 单克隆抗体
+T21	Disease 1108 1115	甲状腺相关眼病
+T22	Disease 1151 1154	TAO
+T23	Anatomy 1161 1165	眼眶组织
+T24	Disease 1189 1197	Graves 病
+T25	Disease 1210 1221	慢性淋巴细胞性甲状腺炎
+T26	Disease 1225 1231	桥本甲状腺炎
+T27	Disease 1250 1253	TAO
+T28	Method 1303 1305	口服
+T29	Drug 1310 1312;1313 1316	糖皮 质激素
+T30	Treatment 1317 1321	眼眶放射
+T31	Operation 1322 1326	手术减压
+T32	Drug 1347 1352	糖皮质激素
+T33	Disease 1391 1394	TAO
+T34	Drug 1415 1427	抗 CD20 单克隆抗体
+T35	Disease 1447 1454	甲状腺相关眼病
+T36	Disease 1515 1517	眼病
+T37	Disease 1572 1575	TAO
+T38	Disease 1598 1601	TAO
+T39	Drug 1612 1616	依那西普
+T40	Drug 1617 1627	Etanercept
+T41	Disease 1671 1673	眼病
+T42	Drug 1743 1749	英夫利西单抗
+T43	Test 1811 1814	色视觉
+T44	Test 1815 1818	视敏度
+T45	Disease 1939 1945	类风湿关节炎
+T46	Disease 1981 1984	TAO
+T47	Drug 1998 2003	利妥昔单抗
+T48	Drug 2004 2013	Rituximab
+T49	Drug 2015 2018	RTX
+T50	Anatomy 2024 2030	前 B 细胞
+T51	Anatomy 2031 2038	成熟 B 细胞
+T52	Drug 2066 2069	RTX
+T53	Anatomy 2085 2089	B 细胞
+T54	Anatomy 2102 2106	B 细胞
+T55	Anatomy 2129 2134	造血干细胞
+T56	Anatomy 2135 2141	祖 B 细胞
+T57	Drug 2164 2167	RTX
+T58	Drug 2201 2204	RTX
+T59	Disease 2207 2214	非霍奇金淋巴瘤
+T60	Disease 2226 2236	慢性淋巴细胞性白血病
+T61	Disease 2237 2246	难治性类风湿关节炎
+T62	Drug 2279 2282	RTX
+T63	Disease 2288 2296	Graves 病
+T64	Disease 2299 2300;2301 2309	自 身免疫性甲状腺炎
+T65	Drug 2372 2375	甲强龙
+T66	Method 2375 2379	静脉冲击
+T67	Drug 2398 2401	RTX
+T68	Method 2402 2406	静脉输注
+T69	Disease 2419 2421	眼病
+T70	Drug 2454 2457	RTX
+T71	Disease 2461 2464	TAO
+T72	Drug 2477 2480	RTX
+T73	Disease 2495 2498	淋巴瘤
+T74	Amount 2503 2506;2507 2514	375 mg / m2
+T75	Method 2514 2516	静注
+T76	Frequency 2517 2523	每周 1 次
+T77	Duration 2527 2530	4 周
+T78	Disease 2535 2541	类风湿关节炎
+T79	Amount 2547 2555	1 000 mg
+T80	Method 2556 2558	静注
+T81	Frequency 2559 2572	间隔 2 周,共输 2 次
+T82	Disease 2577 2580	淋巴瘤
+T83	Disease 2599 2602	TAO
+T84	Disease 2635 2638	TAO
+T85	Drug 2651 2654	RTX
+T86	Amount 2654 2660	100 mg
+T87	Method 2661 2665	静脉注射
+T88	Drug 2709 2712	RTX
+T89	Disease 2715 2718	TAO
+T90	Test 2745 2748	CAS
+T91	Drug 2774 2777	RTX
+T92	Test 2782 2785	CAS
+T93	Disease 2831 2834	淋巴瘤
+T94	Disease 2837 2843	类风湿关节炎
+T95	Drug 2865 2868	RTX
+T96	Test 2875 2878	突眼度
+T97	Drug 2927 2930	RTX
+T98	Test 2936 2939	突眼度
+T99	Test 2954 2957	突眼度
+T100	Test_Value 2964 2976	22. 4 ± 0. 5
+T101	Test_Value 2981 2993	20. 9 ± 0. 6
+T102	Disease 3002 3006;3007 3008	僵人综合 征
+T103	Drug 3022 3025	RTX
+T104	Duration 3029 3033	3 个月
+T105	Test 3035 3038	影像学
+T106	Drug 3103 3108	糖皮质激素
+T107	Disease 3113 3114;3115 3116	眼 病
+T108	Disease 3124 3130	类风湿关节炎
+T109	Drug 3134 3137	RTX
+T110	Test 3160 3163	CAS
+T111	Test 3203 3206	突眼度
+T112	Disease 3235 3243	Graves 病
+T113	Drug 3339 3342	RTX
+T114	Anatomy 3359 3370	CD20+B 淋巴细胞
+T115	Drug 3380 3383	RTX
+T116	Disease 3389 3397	Graves 病
+T117	Drug 3426 3429	RTX
+T118	Disease 3460 3463	TAO
+T119	Drug 3482 3485	RTX
+T120	Test 3496 3500	IL-6
+T121	Test 3542 3548	sIL-6R
+T122	Drug 3559 3562	RTX
+T123	Anatomy 3571 3572;3573 3577	B 淋巴细胞
+T124	Drug 3615 3620	糖皮质激素
+T125	Level 3626 3629	中重度
+T126	Disease 3629 3631	眼病
+T127	SideEff 3665 3668	高血压
+T128	SideEff 3669 3672	高血糖
+T129	SideEff 3673 3676	糖尿病
+T130	SideEff 3677 3681	骨质疏松
+T131	SideEff 3682 3687	类库欣症状
+T132	Drug 3697 3700	RTX
+T133	SideEff 3726 3728	发热
+T134	SideEff 3729 3731	寒战
+T135	SideEff 3732 3734	恶心
+T136	SideEff 3735 3737	呕吐
+T137	SideEff 3738 3741	低血压
+T138	SideEff 3742 3746	过敏反应
+T139	SideEff 3747 3748;3749 3754	急 性输液反应
+T140	Drug 3771 3776	糖皮质激素
+T141	Drug 3778 3782	抗组胺药
+T142	Drug 3786 3792	对乙酰氨基酚
+T143	Disease 3818 3824	血色素沉着症
+T144	Drug 3838 3841	RTX
+T145	Disease 3853 3857	心搏骤停
+T146	Drug 3868 3871	RTX
+T147	Disease 3876 3879	TAO
+T148	Method 3898 3900	静脉
+T149	Drug 3912 3915	RTX
+T150	Method 3916 3920	球后注射
+T151	Disease 3930 3933	TAO
+T152	Drug 3939 3944	糖皮质激素
+T153	Disease 3949 3951	眼病
+T154	Drug 3963 3966	RTX
+T155	Method 3967 3971	球后注射
+T156	Drug 3976 3979	RTX
+T157	Amount 3980 3988	10 mg /次
+T158	Frequency 3989 3993;3994 3995	每周 1 次
+T159	Duration 3999 4002	4 周
+T160	Test 4030 4033	CAS
+T161	SideEff 4094 4100	轻度体温升高
+T162	Drug 4112 4115	RTX
+T163	Method 4116 4120	球后注射
+T164	Disease 4138 4141	TAO
+T165	Drug 4155 4160	糖皮质激素
+T166	Drug 4163 4168	糖皮质激素
+T167	Drug 4185 4187	GC
+T168	Disease 4193 4196	TAO
+T169	Anatomy 4220 4224	T 细胞
+T170	Anatomy 4226 4230	B 细胞
+T171	Anatomy 4236 4240	单核细胞
+T172	Anatomy 4241 4245	巨噬细胞
+T173	Method 4347 4349	口服
+T174	Method 4350 4354	静脉输注
+T175	Method 4384 4386	口服
+T176	Method 4387 4391	静脉输注
+T177	Anatomy 4402 4404	眼球
+T178	Method 4418 4420	口服
+T179	Amount 4445 4460	60 ~ 100 mg / d
+T180	Drug 4462 4465	强的松
+T181	Duration 4487 4495	4 ~ 5 个月
+T182	Method 4498 4501;4502 4503	静脉途 径
+T183	Drug 4505 4508	甲强龙
+T184	Frequency 4612 4618	每周 1 次
+T185	Method 4618 4622	静脉输注
+T186	Duration 4625 4629	12 周
+T187	Drug 4630 4633	甲强龙
+T188	Disease 4697 4699	眼病
+T189	Method 4718 4722	静脉输注
+T190	Method 4723 4725	口服
+T191	SideEff 4791 4796	急性肝衰竭
+T192	Method 4832 4836	静脉输注
+T193	Drug 4837 4839	GC
+T194	Drug 4926 4928	GC
+T195	Drug 4954 4957	甲强龙
+T196	Method 4957 4961	静脉冲击
+T197	Disease 4964 4966	眼病
+T198	Test 4972 4977	血清转氨酶
+T199	Test 5019 5022	转氨酶
+T200	Drug 5047 5049	GC
+T201	Test 5059 5062	转氨酶
+T202	Drug 5095 5097	GC
+T203	Method 5116 5120	静脉途径
+T204	Disease 5123 5126	TAO
+T205	Disease 5146 5148	眼病
+T206	Amount 5193 5196	大剂量
+T207	Drug 5196 5199	甲强龙
+T208	Drug 5211 5214	甲强龙
+T209	Drug 5285 5287	GC
+T210	Drug 5308 5311	环孢素
+T211	Drug 5317 5319	GC
+T212	Drug 5333 5335	GC
+T213	Disease 5367 5370	TAO
+T214	Drug 5378 5381	环孢素
+T215	Drug 5382 5393	cyclosporin
+T216	Drug 5400 5403	环孢素
+T217	Anatomy 5442 5448	T 淋巴细胞
+T218	Drug 5471 5473	GC
+T219	Disease 5477 5480	TAO
+T220	Drug 5501 5504	环孢素
+T221	Method 5506 5508	口服
+T222	Drug 5508 5510	激素
+T223	Drug 5511 5514	环孢素
+T224	Method 5539 5543	静脉应用
+T225	Drug 5544 5546	GC
+T226	Method 5548 5550	口服
+T227	Drug 5550 5553	环孢素
+T228	Drug 5578 5581	环孢素
+T229	SideEff 5596 5599	高血压
+T230	SideEff 5600 5607	肝脏和神经毒性
+T231	Method 5610 5612	口服
+T232	Drug 5612 5614	激素
+T233	Drug 5615 5616;5617 5619	环 孢素
+T234	Disease 5626 5629	TAO
+T235	Drug 5648 5651	环孢素
+T236	Drug 5718 5722	甲氨蝶呤
+T237	Drug 5723 5727	环磷酰胺
+T238	Drug 5728 5731;5732 5733	硫唑嘌 呤
+T239	Drug 5734 5737	西美仲
+T240	Method 5793 5797	静脉注射
+T241	Drug 5797 5802	免疫球蛋白
+T242	Drug 5833 5837	IVIg
+T243	Method 5839 5841	口服
+T244	Drug 5841 5843	激素
+T245	Test 5878 5887	甲状腺相关抗体滴度
+T246	Drug 5957 5961	IVIg
+T247	Disease 5965 5968	TAO
+T248	Drug 5980 5981	硒
+T249	Disease 5990 5995	甲状腺疾病
+T250	Disease 6014 6024	自身免疫性甲状腺疾病
+T251	Disease 6033 6039	桥本甲状腺炎
+T252	Drug 6042 6043	硒
+T253	Anatomy 6054 6057	甲状腺
+T254	Anatomy 6085 6088	甲状腺
+T255	Disease 6098 6106	Graves 病
+T256	Drug 6107 6108	硒
+T257	Disease 6176 6179	TAO
+T258	Drug 6192 6193	硒
+T259	Drug 6194 6198;6199 6200	己酮可可 碱
+T260	Drug 6201 6204	安慰剂
+T261	Drug 6220 6221	硒
+T262	Disease 6232 6234	眼病
+T263	Test 6239 6242	CAS
+T264	Drug 6280 6281	硒
+T265	Drug 6312 6313	硒
+T266	Disease 6316 6319	TAO
+T267	Drug 6331 6336	糖皮质激素
+T268	Method 6336 6341	全身性给药
+T269	Amount 6345 6348	大剂量
+T270	Drug 6348 6351	甲强龙
+T271	Method 6351 6353;6354 6356	静脉 冲击
+T272	Drug 6437 6441;6442 6447	肿瘤坏死 因子抑制剂
+T273	Drug 6448 6457	抗 CD20 单抗
+T274	Drug 6546 6548	GC
+T275	Drug 6562 6564	GC
+T276	Drug 6577 6579	GC
+T277	Disease 6581 6583	眼病
+T278	Drug 6596 6599	强的松
+T279	Drug 6608 6611	甲强龙
+T280	Method 6611 6615	静脉冲击
+T281	Disease 6618 6619;6620 6621	眼 病
+T282	Method 6627 6629	口服
+T283	Drug 6629 6631	激素
+T284	Drug 6632 6635	环孢素
+T285	Disease 6674 6677	TAO
+T286	Anatomy 6682 6688	T 淋巴细胞
+T287	Anatomy 6710 6714	眼眶组织
+T288	Anatomy 6716 6724	慢性炎症浸润细胞
+T289	Anatomy 6728 6732	T 细胞
+T290	Anatomy 6743 6752	CD20+B 细胞
+T291	Anatomy 6753 6757	淋巴细胞
+T292	Disease 6774 6776	眼病
+T293	Anatomy 6794 6798	T 细胞
+T294	Anatomy 6830 6834	T 细胞
+T295	Disease 6865 6868	TAO
+T296	Disease 6886 6891;6892 6893	类风湿关节 炎
+T297	Drug 6931 6939	抗 CD3 抗体
+T298	Anatomy 6979 6983	T 细胞
+T299	Anatomy 7024 7032	CD4+T 细胞
+T300	Test 7050 7052	血糖
+T301	Drug 7089 7097	抗 CD3 抗体
+T302	Anatomy 7101 7109	调节性 T 细胞
+T303	Drug 7113 7122	抗 CD20 单抗
+T304	Drug 7123 7131	抗 CD3 抗体
+T305	Disease 7168 7169;7170 7172	糖 尿病
+T306	Disease 7184 7187	糖尿病
+T307	Disease 7192 7195	糖尿病
+T308	Anatomy 7207 7231	细胞毒性 T 淋巴细胞相关抗原-4 抗体融合蛋白
+T309	Anatomy 7232 7236;7237 7241	CTLA 4-Ig
+T310	Anatomy 7243 7260	细胞毒性 T 淋巴细胞相关抗原-4
+T311	Anatomy 7307 7313	CTLA-4
+T312	Anatomy 7316 7322	T 淋巴细胞
+T313	Anatomy 7396 7400;7401 7405	CTLA 4-Ig
+T314	Anatomy 7409 7415	CTLA 4
+T315	Anatomy 7488 7492	T 细胞
+T316	Disease 7506 7511	多发性硬化
+T317	Disease 7512 7518	类风湿关节炎
+T318	Disease 7542 7545	TAO
+T319	Disease 7615 7618	TAO
+T320	Disease 7636 7639	TAO
+T321	Disease 7668 7671	TAO
+T322	Disease 7818 7821	TAO
+T323	Drug 125 130	免疫抑制剂
+T324	Drug 5681 5686	免疫抑制剂
+T325	Drug 5740 5745	免疫抑制剂
+T326	Anatomy 1498 1506	肿瘤坏死因子-α
+T327	Anatomy 1507 1512	TNF-α
+T328	Anatomy 1550 1555	TNF-α
+T329	Test 1632 1639	临床活动度评分
+T330	Test 1666 1669	CAS
+T331	Duration 1786 1790	72 h
+T332	Duration 1805 1806;1807 1808	1 周
+T333	SideEff 1862 1864	感染
+T334	Anatomy 2041 2048	CD20 抗原
+T335	Anatomy 2072 2079	CD20 抗原
+T336	Anatomy 2154 2161	CD20 抗原
+T337	Level 2173 2176	严重的
+T338	SideEff 2176 2180	免疫抑制
+T339	Duration 3153 3156	8 周
+T340	Test 3433 3435	抗体
+T341	Test 3503 3508	可溶性受体
+T342	Method 3608 3610	口服
+T343	Method 3611 3613	静脉
+T344	Amount 3646 3649	大剂量
+T345	Amount 4543 4554	4. 2 至 12 g
+T346	Disease 5324 5326	眼病
+T347	Method 5489 5491	口服
+T348	Drug 5491 5493	激素
+T349	Test 5658 5662	血药浓度
+T350	Drug 6011 6012	硒
+T351	Anatomy 6046 6049	硒蛋白
+T352	Duration 6187 6191	6 个月
+T353	Anatomy 6940 6946	CD3 分子
+T354	Anatomy 6948 6959	T 细胞受体(TCR)
+T355	Anatomy 6962 6967;6968 6975	TCR / CD3 复合体
+T356	Drug 6997 7002;7003 7005	抗 CD3 抗体
+T357	Anatomy 7007 7014	TCR 复合体
+T358	Anatomy 7151 7155	CD20
+T359	Anatomy 7334 7338	CD28
+T360	Anatomy 7354 7356	B7
+T361	Anatomy 7357 7361	CD80
+T362	Anatomy 7364 7368	CD86
+T363	Anatomy 7453 7455	B7
+T364	Anatomy 7470 7474	CD28
+T365	Disease 0 5	内分泌疾病
+T366	Method 81 83	冲击
+T367	Treatment 209 213	免疫治疗
+T368	Treatment 178 182	免疫疗法
+T369	Disease 1116 1149	Thyroid associated ophthalmopathy
+T370	Test_Value 1238 1240	正常
+T371	Test_Value 1241 1243	减退
+T372	Treatment 1400 1401;1402 1405	免 疫治疗
+T373	Treatment 1440 1446	免疫抑制疗法
+T374	Treatment 1427 1431	免疫治疗
+T375	Treatment 1475 1479	免疫治疗
+T376	Treatment 1485 1492	抗细胞因子治疗
+T377	Drug 1560 1567	抗细胞因子制剂
+T378	Symptom 1684 1692	软组织炎症的改善
+T379	Disease 1948 1953	自身免疫病
+T380	Drug 2052 2058;2059 2065	人 /鼠嵌合 型单克隆抗体
+T381	Disease 2725 2727	眼病
+T382	Level 2802 2805	静止期
+T383	Disease 2932 2934	眼病
+T384	Level 3099 3101	重度
+T385	Level 3623 3626	活动期
+T386	SideEff 3656 3660;3661 3664	全身性不 良反应
+T387	Test_Value 4036 4040	明显下降
+T388	Level 4056 4058;4059 4060	静止 期
+T389	Level 4134 4137	活动期
+T390	Drug 4169 4183	Glucocorticoid
+T391	Anatomy 4259 4265	免疫活性细胞
+T392	Method 4378 4383	全身性用药
+T393	Drug 4510 4514	生理盐水
+T394	Method 4683 4688	全身性用药
+T395	Test_Value 4978 4980;4981 4983	轻微 升高
+T396	Amount 4991 4994	高剂量
+T397	Amount 5005 5008	低剂量
+T398	Test_Value 5022 5027	升高更显著
+T399	Anatomy 5080 5083	甲状腺
+T400	SideEff 5137 5144	致命性不良反应
+T401	Treatment 6460 6466	免疫抑制疗法
+T402	Disease 6691 6695;6696 6699	自身免疫 性疾病
+T403	Treatment 6835 6842	靶向的免疫疗法
+T404	Disease 6896 6903	自身免疫性疾病
+T405	Anatomy 7344 7350	抗原递呈细胞
+T406	Treatment 7685 7688;7689 7693	抗细胞 因子治疗
+T407	Treatment 7703 7711	自身抗原靶向治疗
+T408	Treatment 7834 7838	免疫治疗
+T409	Level 3145 3152	迅速持久的缓解
+T410	Level 2939 2943	改善明显
+T411	Level 3211 3217	未见明显改善
+T412	Level 2695 2699	长期缓解
+T413	Test_Value 6082 6084	减少
+T414	Test_Value 6120 6121;6122 6123	正 常
+T415	Level 6224 6228;6229 6231	生活质量 改善
+T416	Test_Value 6245 6249	明显降低
+T417	Anatomy 7261 7284;7285 7305	cytotoxic T lymphocyte- associated antigen-4
+T418	Level 7808 7810	严重
+T419	Method 1306 1308	静脉
+T420	SideEff 1355 1366	糖、脂代谢及电解质紊乱
+T421	SideEff 1723 1730	眼周炎症的复发
+T422	Level 1764 1767	中重度
+T423	Disease 1767 1772	活动期眼病
+T424	SideEff 1869 1872	致肿瘤
+T425	Drug 1910 1928	白细胞介素-6(IL-6)受体拮抗剂
+T426	Treatment 1989 1997	B 细胞靶向治疗
+T427	Anatomy 2144 2147	浆细胞
+T428	Disease 2389 2392	TAO
+T429	Level 2385 2388	活动期
+T430	Anatomy 2427 2431	眼眶组织
+T431	Anatomy 2431 2435	淋巴细胞
+T432	Anatomy 2672 2685	外周血 CD20+B 细胞
+T433	Level 2761 2763;2764 2767	重度 活动期
+T434	Disease 2767 2769	眼病
+T435	Test 2870 2874	眼球运动
+T436	Level 3009 3012	静止期
+T437	Disease 3013 3016	TAO
+T438	Test_Value 3040 3042;3043 3052	眼外 肌形态也有明显改善
+T439	Test_Value 3172 3184	5. 5 ±0. 8 分
+T440	Test_Value 3188 3201	1. 3 ± 0. 5 分
+T441	Test 3207 3211	眼球运动
+T442	SideEff 3227 3233	进行性的斜视
+T443	Test 3252 3262	促甲状腺激素受体抗体
+T444	Test 3296 3300	TRAb
+T445	Anatomy 3353 3358	浆细胞前体
+T446	Level 3922 3923;3924 3929	活 动期中重度
+T447	SideEff 4086 4090;4091 4093	暂时性的 恶心
+T448	Anatomy 4297 4299	眼眶
+T449	Anatomy 4299 4304	成纤维细胞
+T450	Method 4355 4359	局部注射
+T451	Method 4360 4366	结膜下或球后
+T452	Amount 4641 4647	500 mg
+T453	Amount 4654 4660	250 mg
+T454	Level 4691 4697	活动期中重度
+T455	SideEff 4797 4800	心血管
+T456	SideEff 4802 4807	脑血管事件
+T457	SideEff 5154 5159	急性肝衰竭
+T458	SideEff 5163 5168	脑血管事件
+T459	SideEff 5172 5176;5177 5178	心血管事 件
+T460	Frequency 5186 5191	每日或隔日
+T461	Amount 5217 5224	不小于 8 g
+T462	Drug 5349 5361	非糖皮质激素类免疫抑制剂
+T463	Drug 5688 5691	环孢素
+T464	Treatment 5757 5759;5760 5764	激素 替代治疗
+T465	Anatomy 5898 5901	甲状腺
+T466	Anatomy 5902 5906	淋巴细胞
+T467	Disease 5986 5989	硒缺乏
+T468	Level 6376 6380	中至重度
+T469	Disease 6380 6382;6383 6388	活动 期 TAO
+T470	Method 6594 6596	口服
+T471	Treatment 6657 6665	T 细胞靶向治疗
+T472	Level 6700 6703	活动期
+T473	Disease 6704 6707	TAO
+T474	Treatment 7652 7658;7659 7661	B 细胞靶向 治疗
+T475	Treatment 7694 7702	T 细胞靶向治疗

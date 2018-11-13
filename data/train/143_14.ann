@@ -1,0 +1,379 @@
+T1	Disease 17 22	糖尿病肾病
+T2	Disease 3253 3258	糖尿病肾病
+T3	Disease 3309 3311;3312 3315	糖尿 病肾病
+T4	Disease 3507 3512	糖尿病肾病
+T5	Disease 11699 11704	糖尿病肾病
+T6	Disease 12119 12124	糖尿病肾病
+T7	Disease 12501 12506	糖尿病肾病
+T8	Test 4588 4592	空腹血糖
+T9	Test 5113 5114;5115 5118	空 腹血糖
+T10	Test 415 417;418 420	尿白 蛋白
+T11	Test 5020 5022;5023 5025	尿白 蛋白
+T12	Test 6745 6749	尿白蛋白
+T13	Test 6866 6870	尿白蛋白
+T14	Test 7726 7730	尿白蛋白
+T15	Test 12456 12460	尿白蛋白
+T16	Test 13017 13021	尿白蛋白
+T17	Test 402 405	尿素氮
+T18	Test 5108 5111	尿素氮
+T19	Test 6755 6758	尿素氮
+T20	Test 6875 6878	尿素氮
+T21	Test 7790 7793	尿素氮
+T22	Test 12468 12471	尿素氮
+T23	Test 13028 13031	尿素氮
+T24	Test 398 401	血肌酐
+T25	Test 5104 5107	血肌酐
+T26	Test 6750 6751;6752 6754	血 肌酐
+T27	Test 6871 6874	血肌酐
+T28	Test 7757 7760	血肌酐
+T29	Test 12463 12466	血肌酐
+T30	Test 13024 13027	血肌酐
+T31	Disease 12582 12585	乳腺癌
+T32	Disease 12613 12616	乳腺癌
+T33	Test 392 394	体重
+T34	Test 6692 6694	体重
+T35	Test 6895 6897	体重
+T36	Test 7506 7508	体重
+T37	Test 7636 7638	体重
+T38	Disease 124 127	糖尿病
+T39	Anatomy 129 130;131 137	肾 小球系膜细胞
+T40	Disease 232 235	糖尿病
+T41	Disease 249 251;252 253	糖尿 病
+T42	Disease 261 264	糖尿病
+T43	Disease 277 280	糖尿病
+T44	Anatomy 349 353	肾脏皮质
+T45	Test 406 414	24 h 尿蛋白
+T46	Test 431 435	肾重指数
+T47	Anatomy 438 442	肾脏组织
+T48	Test 642 644	光镜
+T49	Test 645 647	电镜
+T50	Disease 845 848	糖尿病
+T51	Anatomy 850 853	肾皮质
+T52	Disease 872 875	糖尿病
+T53	Anatomy 878 882	系膜细胞
+T54	Disease 914 918;919 920	糖尿病肾 病
+T55	Disease 3284 3287	糖尿病
+T56	Anatomy 3383 3387	FoxO
+T57	Disease 3449 3452	糖尿病
+T58	Anatomy 3454 3457	肾皮质
+T59	Anatomy 3484 3486	肾脏
+T60	Disease 3640 3643	糖尿病
+T61	Anatomy 3678 3682	系膜细胞
+T62	Anatomy 3720 3722	肾脏
+T63	Anatomy 3765 3771	肾脏系膜细胞
+T64	Disease 4389 4392	糖尿病
+T65	Test 4593 4595	血糖
+T66	Disease 4627 4630	糖尿病
+T67	Anatomy 4733 4737	肾脏皮质
+T68	Disease 4743 4746	糖尿病
+T69	Anatomy 4770 4774	肾脏皮质
+T70	Anatomy 4886 4890	肾脏皮质
+T71	Test 5011 5019	24 h 尿蛋白
+T72	Test 5124 5126	血糖
+T73	Anatomy 5147 5150	肾皮质
+T74	Anatomy 5198 5201	肾皮质
+T75	Anatomy 5235 5238	肾皮质
+T76	Anatomy 5464 5467	肾皮质
+T77	Test 5548 5551	PCR
+T78	Test 6524 6531	倒置荧光显微镜
+T79	Anatomy 6559 6562	肾皮质
+T80	Symptom 6629 6633	精神萎靡
+T81	Test 6699 6701	血糖
+T82	Test 6702 6706	肾重指数
+T83	Test 6736 6744	24 h 尿蛋白
+T84	Test 6852 6856	肾重指数
+T85	Test 6857 6865	24 h 尿蛋白
+T86	Test 6898 6900	血糖
+T87	Test 7114 7124	Western 印迹
+T88	Test 7655 7657	血糖
+T89	Anatomy 10277 10279	肾脏
+T90	Test 10284 10292	光镜 HE 染色
+T91	Disease 11705 11708	糖尿病
+T92	Disease 12093 12096	糖尿病
+T93	Disease 12098 12103	慢性肾衰竭
+T94	Disease 12104 12106	死亡
+T95	Anatomy 12214 12221	肾小球系膜细胞
+T96	Anatomy 12288 12292;12293 12294	细胞外基 质
+T97	Disease 12333 12338	肾小球硬化
+T98	Disease 12339 12343	肾纤维化
+T99	Disease 12363 12370	糖尿病肾脏病变
+T100	Anatomy 12353 12356;12357 12358	系膜细 胞
+T101	Disease 12415 12418	糖尿病
+T102	Anatomy 12420 12427	肾小球系膜细胞
+T103	Disease 12435 12438;12439 12441	肾小球 硬化
+T104	Test 12442 12446	肾重指数
+T105	Test 12447 12455	24 h 尿蛋白
+T106	Anatomy 12478 12480	肾脏
+T107	Anatomy 12493 12497	系膜细胞
+T108	Disease 12760 12763	糖尿病
+T109	Anatomy 12765 12768	肾皮质
+T110	Test 12770 12774;12775 12778	倒置荧光 显微镜
+T111	Anatomy 12926 12930	系膜细胞
+T112	Disease 12975 12978	糖尿病
+T113	Anatomy 12981 12987	肾脏系膜细胞
+T114	Test 13002 13006	肾重指数
+T115	Test 13008 13016	24 h 尿蛋白
+T116	Disease 13097 13100	糖尿病
+T117	Anatomy 13102 13108	肾脏系膜细胞
+T118	Disease 13114 13115;13116 13118	糖 尿病
+T119	Anatomy 13151 13157	肾脏系膜细胞
+T120	Drug 13644 13648	白藜芦醇
+T121	Anatomy 13785 13789	系膜细胞
+T122	Anatomy 13820 13823;13824 13825	系膜细 胞
+T123	Anatomy 13858 13862	系膜细胞
+T124	Anatomy 13894 13897	肾皮质
+T125	Anatomy 13921 13925	系膜细胞
+T126	Disease 13943 13948	肾小球硬化
+T127	Anatomy 13952 13955	肾皮质
+T128	Anatomy 13986 13988;13989 13990	肾皮 质
+T129	Anatomy 14023 14030	肾小球系膜细胞
+T130	Anatomy 14051 14056	FoxO1
+T131	Anatomy 14065 14072	p27Kip1
+T132	Anatomy 14081 14085	系膜细胞
+T133	Disease 14096 14099	糖尿病
+T134	Anatomy 14187 14194	肾小球系膜细胞
+T135	Disease 14207 14210	糖尿病
+T136	Anatomy 204 209	FoxO1
+T137	Anatomy 695 700	FoxO1
+T138	Anatomy 992 997	FoxO1
+T139	Anatomy 1347 1352	FoxO1
+T140	Anatomy 1489 1494	FoxO1
+T141	Anatomy 2289 2294	FoxO1
+T142	Anatomy 2366 2371	FoxO1
+T143	Anatomy 2565 2570	FoxO1
+T144	Anatomy 2691 2696	FoxO1
+T145	Anatomy 2732 2737	FoxO1
+T146	Anatomy 2894 2899	FoxO1
+T147	Anatomy 3913 3918	FoxO1
+T148	Anatomy 4059 4064	FoxO1
+T149	Anatomy 4227 4232	FoxO1
+T150	Anatomy 4365 4370	FoxO1
+T151	Anatomy 5889 5894	FoxO1
+T152	Anatomy 7281 7286	FoxO1
+T153	Anatomy 9304 9309	FoxO1
+T154	Anatomy 9366 9371	FoxO1
+T155	Anatomy 9418 9423	FoxO1
+T156	Anatomy 9930 9935	FoxO1
+T157	Anatomy 10455 10460	FoxO1
+T158	Anatomy 10515 10520	FoxO1
+T159	Anatomy 10539 10544	FoxO1
+T160	Anatomy 11389 11394	FoxO1
+T161	Anatomy 13592 13597	FoxO1
+T162	Anatomy 14131 14136	FoxO1
+T163	Test 463 466	PCR
+T164	Test 5775 5778	PCR
+T165	Test 5831 5834	PCR
+T166	Test 395 397	血糖
+T167	Anatomy 12278 12283	TGF-β
+T168	Anatomy 153 156	MCs
+T169	Test 447 449	光镜
+T170	Test 450 452	电镜
+T171	Anatomy 552 556	mRNA
+T172	Anatomy 935 945	叉头状转录因子 O1
+T173	Disease 947 950	糖尿病
+T174	Anatomy 957 961	系膜细胞
+T175	Disease 3291 3296	慢性并发症
+T176	Disease 3620 3622	肿瘤
+T177	Disease 4480 4483	糖尿病
+T178	Disease 4665 4668	糖尿病
+T179	Disease 4676 4678;4679 4680	糖尿 病
+T180	Disease 4693 4696	糖尿病
+T181	Anatomy 4846 4848	肌肉
+T182	Anatomy 4851 4853	皮肤
+T183	Anatomy 5135 5137	右肾
+T184	Anatomy 5175 5179	右肾上极
+T185	Test 5219 5221;5222 5225	电子 显微镜
+T186	Test 5281 5283	光镜
+T187	Test 5284 5286	电镜
+T188	Test 5293 5295	光镜
+T189	Test 5305 5310	光学显微镜
+T190	Anatomy 5313 5317	肾脏组织
+T191	Anatomy 5330 5334	右肾上极
+T192	Test 5422 5427	电子显微镜
+T193	Anatomy 5430 5432	肾脏
+T194	Anatomy 5479 5482	RNA
+T195	Anatomy 5497 5500	RNA
+T196	Anatomy 5503 5506	RNA
+T197	Anatomy 5512 5516	cDNA
+T198	Anatomy 5722 5725	肾皮质
+T199	Test 6509 6516	倒置荧光显微镜
+T200	Test 6599 6603	生化指标
+T201	Anatomy 6992 6996	mRNA
+T202	Anatomy 7034 7038	mRNA
+T203	Anatomy 7085 7089	mRNA
+T204	Anatomy 7180 7181;7182 7184	肾 皮质
+T205	Disease 7277 7280	糖尿病
+T206	Disease 7338 7341	糖尿病
+T207	Anatomy 7403 7406	肾皮质
+T208	Test 7509 7513	肾重指数
+T209	Test 7514 7518	生化指标
+T210	Test 7694 7697	尿蛋白
+T211	Disease 9059 9062	糖尿病
+T212	Disease 9091 9094	糖尿病
+T213	Disease 9152 9155	糖尿病
+T214	Test 9205 9209	肾重指数
+T215	Anatomy 9300 9303	肾皮质
+T216	Disease 9894 9897	糖尿病
+T217	Disease 9926 9929	糖尿病
+T218	Disease 9987 9990	糖尿病
+T219	Test 10279 10281	病理
+T220	Anatomy 10382 10385	肾皮质
+T221	Test 10392 10399	p-FoxO1
+T222	Test 10402 10409	p27Kip1
+T223	Disease 11353 11356	糖尿病
+T224	Disease 11385 11388	糖尿病
+T225	Disease 11446 11449	糖尿病
+T226	Test 11549 11551	病理
+T227	Disease 11712 11718	微血管并发症
+T228	Disease 11800 11803	糖尿病
+T229	Disease 11832 11835	糖尿病
+T230	Disease 11893 11896	糖尿病
+T231	Test 11989 11997	肾脏 HE 染色
+T232	Reason 12208 12212	高糖刺激
+T233	Anatomy 12231 12235	细胞因子
+T234	Disease 13269 13273	糖尿病组
+T235	Disease 13301 13304	糖尿病
+T236	Disease 13362 13365	糖尿病
+T237	Test 13458 13462	肾脏电镜
+T238	Disease 13617 13619	肿瘤
+T239	Disease 13715 13717	肿瘤
+T240	Anatomy 14150 14152	肾脏
+T241	Anatomy 173 179	空慢病毒载体
+T242	Disease 344 347	糖尿病
+T243	Test_Value 719 723	显著升高
+T244	Test_Value 785 789	明显降低
+T245	Test_Value 3473 3475	降低
+T246	Test_Value 4595 4610	≥16. 7 mmol / L
+T247	Duration 6577 6580	8 周
+T248	Test_Value 6696 6698	降低
+T249	Test_Value 6706 6708	升高
+T250	Test_Value 6882 6884	降低
+T251	Test_Value 7043 7045	降低
+T252	Test_Value 7094 7096	升高
+T253	Test_Value 7234 7238	显著增加
+T254	Test_Value 10070 10074	明显降低
+T255	Test_Value 10107 10111	明显升高
+T256	Test_Value 10170 10174	明显降低
+T257	Anatomy 10205 10212	p27Kip1
+T258	Test_Value 12473 12475	升高
+T259	Test_Value 12871 12875	明显升高
+T260	Test_Value 12914 12918	显著降低
+T261	Test_Value 13031 13035	明显低于
+T262	Anatomy 13930 13935	细胞外基质
+T263	Test_Value 628 641	转染组多量绿色荧光蛋白表达
+T264	Test_Value 6535 6544	大量 GFP 表达
+T265	Test_Value 10222 10226	显著增加
+T266	Test_Value 11591 11594;11595 11598	足突分 布均匀
+T267	Test_Value 11599 11602	无融合
+T268	Test_Value 11631 11641	基底膜增厚或者不光滑
+T269	Test_Value 11642 11650	足突融合逐渐加重
+T270	Test_Value 11674 11680	足突融合改善
+T271	Disease 14272 14274	DN
+T272	Level 14269 14271	早期
+T273	Disease 14285 14287	DN
+T274	Anatomy 5 10	FoxO1
+T275	Anatomy 73 83	叉头状转录因子 O1
+T276	Anatomy 114 119	FoxO1
+T277	Anatomy 281 286	FoxO1
+T278	Anatomy 476 479	肾皮质
+T279	Anatomy 486 502	细胞周期蛋白依赖性激酶抑制 1B
+T280	Test 599 606	p27Kip1
+T281	Test 617 624	倒置荧光显微镜
+T282	Test_Value 651 665;666 674	各时间段 CA 组肾脏病变较 DM 组明显改善
+T283	Test 574 579	FoxO1
+T284	Anatomy 701 708	p27Kip1
+T285	Test 709 719	mRNA 及蛋白水平
+T286	Test 734 744	p-FoxO1 蛋白
+T287	Test 767 785	p-FoxO1 / FoxO1 比值
+T288	Anatomy 855 860	FoxO1
+T289	Anatomy 900 907	p27Kip1
+T290	Reason 3299 3308	系膜细胞的过度增殖
+T291	Anatomy 3333 3339;3340 3344	叉头状转录因 子 O1
+T292	Anatomy 3375 3380	FoxO1
+T293	Test 3459 3472	FoxO1 mRNA 水平
+T294	Anatomy 3500 3505	FoxO1
+T295	Anatomy 3529 3536	p27Kip1
+T296	Anatomy 3585 3592	p27Kip1
+T297	Anatomy 3595 3600	FoxO1
+T298	Anatomy 3649 3654	FoxO1
+T299	Anatomy 3663 3670	p27Kip1
+T300	Disease 3690 3697	糖尿病肾脏病变
+T301	Anatomy 3736 3741	FoxO1
+T302	Anatomy 3754 3761	p27Kip1
+T303	Anatomy 4697 4702	FoxO1
+T304	Anatomy 4762 4765;4766 4767	右侧肾 脏
+T305	Anatomy 4788 4793	FoxO1
+T306	Symptom 6634 6635;6636 6638	饮 水量
+T307	Symptom 6639 6642	尿量多
+T308	Test 6976 6981	FoxO1
+T309	Test 6982 6989	p27Kip1
+T310	Test 7018 7023	FoxO1
+T311	Test 7024 7031	p27Kip1
+T312	Test 7071 7076	FoxO1
+T313	Test 7077 7084	p27Kip1
+T314	Test 7127 7132	FoxO1
+T315	Test 7134 7141	p-FoxO1
+T316	Test 7143 7150	p27Kip1
+T317	Test 7185 7190	FoxO1
+T318	Test 7209 7216	p-FoxO1
+T319	Test 7218 7233	p-FoxO1 / FoxO1
+T320	Test 7250 7257	p27Kip1
+T321	Test 10096 10101	FoxO1
+T322	Test 10124 10131	p-FoxO1
+T323	Test 10152 10167	p-FoxO1 / FoxO1
+T324	Test 10188 10193	FoxO1
+T325	Test_Value 10301 10309;10310 10311	肾小球结构未见异 常
+T326	Test_Value 10334 10341	肾小球体积增大
+T327	Test_Value 10343 10349	系膜细胞增生
+T328	Test_Value 10351 10360	肾小球系膜基质增多
+T329	Test 10386 10391	FoxO1
+T330	Test 11569 11575	电镜超微结构
+T331	Test_Value 11582 11590	肾小球基底膜正常
+T332	Anatomy 11836 11841	FoxO1
+T333	Anatomy 12132 12136	系膜细胞
+T334	Anatomy 12140 12145	细胞外基质
+T335	Anatomy 12149 12155	肾小球基底膜
+T336	Reason 12171 12177	系膜细胞增殖
+T337	Anatomy 12237 12246	转化生长因子 β1
+T338	Anatomy 12528 12535	胰岛 β 细胞
+T339	Test 12537 12542	FoxO1
+T340	Anatomy 12554 12561	胰岛 β 细胞
+T341	Test 12589 12594	FoxO1
+T342	Test 12602 12607	FoxO1
+T343	Anatomy 12635 12640	FoxO1
+T344	Anatomy 12662 12667	FoxO1
+T345	Anatomy 12704 12709	FoxO1
+T346	Anatomy 12718 12723	FoxO1
+T347	Anatomy 12813 12818	FoxO1
+T348	Anatomy 12855 12860	FoxO1
+T349	Test 12861 12871	mRNA 及蛋白表达
+T350	Anatomy 12876 12883	p-FoxO1
+T351	Test 12896 12914	p-FoxO1 / FoxO1 比值
+T352	Test 12919 12923	肾脏病理
+T353	Anatomy 12957 12962	FoxO1
+T354	Test 13050 13054	肾脏功能
+T355	Anatomy 13120 13122	肾脏
+T356	Anatomy 13132 13137	FoxO1
+T357	Anatomy 13163 13170	p27Kip1
+T358	Anatomy 13305 13310	FoxO1
+T359	Anatomy 13581 13588	p27kip1
+T360	Disease 13654 13657	白血病
+T361	Anatomy 13662 13667	FoxO1
+T362	Anatomy 13676 13683	p27Kip1
+T363	Disease 13692 13695	白血病
+T364	Anatomy 13733 13740	p27Kip1
+T365	Anatomy 13766 13773	p27Kip1
+T366	Anatomy 13806 13813	p27Kip1
+T367	Anatomy 13842 13849	p27Kip1
+T368	Anatomy 13899 13910	p27Kip1mRNA
+T369	Anatomy 13972 13977	FoxO1
+T370	Anatomy 13992 14003	p27Kip1mRNA
+T371	Test 14104 14109	FoxO1
+T372	Test 14154 14159	FoxO1
+T373	Test 14171 14178	p27Kip1
+T374	Anatomy 14202 14204	肾脏
+T375	Anatomy 14223 14228	FoxO1
+T376	Reason 14234 14247	调节 p27Kip1 表达
+T377	Reason 14250 14254;14255 14259	抑制系膜 细胞增殖
+T378	Anatomy 14262 14267	FoxO1
+T379	Test 580 589	磷酸化 FoxO1

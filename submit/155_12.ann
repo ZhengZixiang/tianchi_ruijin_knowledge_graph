@@ -1,0 +1,249 @@
+T1	Test_Value 147 149	提高
+T2	Disease 174 181	内分泌代谢疾病
+T3	Drug 370 374	骨化三醇
+T4	Disease 375 378	糖尿病
+T5	Anatomy 380 382	股骨
+T6	Drug 451 455	骨化三醇
+T7	Disease 457 460	糖尿病
+T8	Drug 479 484	链脲佐菌素
+T9	Drug 485 488	STZ
+T10	Disease 490 493	糖尿病
+T11	Drug 501 505	骨化三醇
+T12	Test 531 540	骨特异性碱性磷酸酶
+T13	Test 541 545	BALP
+T14	Anatomy 569 573	TRAP
+T15	Drug 575 583	活性维生素 D3
+T16	Anatomy 592 594	股骨
+T17	Test 616 624	股骨三点弯曲实验
+T18	Anatomy 635 640	股骨硬组织
+T19	Anatomy 671 675	股骨组织
+T20	Disease 710 713	糖尿病
+T21	Test 716 718	体重
+T22	Test 776 777;778 781	血 钙浓度
+T23	Test 835 837	血磷
+T24	Disease 898 901	糖尿病
+T25	Test_Value 956 962;963 990	(0. 66 ± 0. 02 对 0. 51 ± 0. 02) mm
+T26	Test_Value 1148 1151;1152 1153	显著降 低
+T27	Drug 1154 1158	骨化三醇
+T28	Disease 1173 1176	糖尿病
+T29	Disease 1186 1191	骨代谢紊乱
+T30	Reason 1192 1197	骨强度降低
+T31	Drug 1198 1202	骨化三醇
+T32	Disease 1211 1214	糖尿病
+T33	Anatomy 1215 1218	股骨骨
+T34	Drug 1243 1247	骨化三醇
+T35	Disease 1249 1253	骨质疏松
+T36	Disease 3067 3072	骨质疏松症
+T37	Reason 3076 3080	骨量减少
+T38	Reason 3081 3087	骨微结构破坏
+T39	Reason 3090 3092;3093 3096	骨脆 性增加
+T40	Disease 3101 3103	骨折
+T41	Disease 3107 3111	骨骼疾病
+T42	Disease 3113 3118	骨质疏松症
+T43	Disease 3128 3135	骨质疏松性骨折
+T44	Disease 3136 3140	椎体骨折
+T45	Disease 3145 3149	髋部骨折
+T46	Disease 3158 3162	髋部骨折
+T47	Disease 3183 3185	死亡
+T48	Disease 3190 3192	骨折
+T49	Disease 3222 3224	死亡
+T50	Disease 3230 3233	糖尿病
+T51	Disease 3253 3256	糖尿病
+T52	Disease 3266 3269	糖尿病
+T53	Disease 3272 3274;3275 3277	骨质 疏松
+T54	Disease 3289 3292	糖尿病
+T55	Drug 3310 3315	维生素 D
+T56	Anatomy 3342 3347	类固醇激素
+T57	Test 3356 3375	1,25-(OH) 2 -维生素 D3
+T58	Anatomy 3385 3393	维生素 D 受体
+T59	Anatomy 3414 3416	肾脏
+T60	Anatomy 3417 3419	肠道
+T61	Test 3420 3421	钙
+T62	Test 3422 3423	磷
+T63	Test 3444 3449	维生素 D
+T64	Disease 3475 3478	糖尿病
+T65	Anatomy 3482 3484	股骨
+T66	Test 3519 3524	维生素 D
+T67	Disease 3534 3537	糖尿病
+T68	Drug 3557 3564	活性维生素 D
+T69	Disease 3566 3569	糖尿病
+T70	Anatomy 3571 3573	股骨
+T71	Test 3578 3583;3584 3587	骨组织形态 学参数
+T72	Test 3665 3667	体重
+T73	Test_Value 3667 3676;3677 3685	(93. 23 ± 3. 43) g
+T74	Drug 3856 3860	骨化三醇
+T75	Drug 3887 3892	链脲佐菌素
+T76	Drug 3941 3943;3944 3946	骨化 三醇
+T77	Disease 3948 3951	糖尿病
+T78	Drug 3973 3977	骨化三醇
+T79	Disease 3980 3983	糖尿病
+T80	Drug 3988 3995	10%水合氯醛
+T81	Operation 4010 4014	腹腔麻醉
+T82	Method 4019 4023	腹腔注射
+T83	Drug 4023 4028	链脲佐菌素
+T84	Drug 4029 4032	STZ
+T85	Disease 4047 4050	糖尿病
+T86	Test 4082 4084	血糖
+T87	Test 4088 4090	血糖
+T88	Test 4091 4093	血糖
+T89	Test_Value 4093 4108	≥33. 3 mmol / L
+T90	Test 4152 4156	空腹血糖
+T91	Test 4158 4159;4160 4161	体 重
+T92	Test 4168 4172	空腹血糖
+T93	Test_Value 4173 4190	大于 16. 7 mmol / L
+T94	Operation 4258 4262	腹腔麻醉
+T95	Anatomy 4279 4281	股骨
+T96	Anatomy 4320 4322	股骨
+T97	Test 4410 4421	血清骨特异性碱性磷酸酶
+T98	Test 4422 4426	BALP
+T99	Test 4449 4453	BALP
+T100	Test 4458 4469	血清抗酒石酸酸性磷酸酶
+T101	Anatomy 4470 4474	TRAP
+T102	Test 4476 4489	1,25-二羟维生素 D3
+T103	Drug 4517 4532;4533 4537	1,25-(OH) 2 -维生 素 D3
+T104	Anatomy 4584 4588	左侧股骨
+T105	Test 4614 4620	三点弯曲实验
+T106	Test_Value 4628 4633	18 mm
+T107	Test_Value 4656 4666	2 mm / min
+T108	Anatomy 4737 4739	股骨
+T109	Anatomy 4758 4761;4762 4763	股骨横 径
+T110	Anatomy 4764 4766	股骨
+T111	Test 4798 4803	骨皮质厚度
+T112	Anatomy 4805 4808	骨组织
+T113	Anatomy 4900 4903	骨组织
+T114	Test 4953 4959	骨小梁节点数
+T115	Drug 5072 5076	骨化三醇
+T116	Disease 5078 5081	糖尿病
+T117	Disease 5128 5130	死亡
+T118	Test 5187 5189	体重
+T119	Test 5190 5192	血糖
+T120	Drug 5205 5209	骨化三醇
+T121	Disease 5211 5214	糖尿病
+T122	Test 5217 5219	血糖
+T123	Test 5228 5230	体重
+T124	Test 5257 5261	BALP
+T125	Test 5262 5266	TRAP
+T126	Test 5267 5286	1,25-(OH) 2 -维生素 D3
+T127	Drug 5297 5301	骨化三醇
+T128	Disease 5303 5306	糖尿病
+T129	Test 5307 5314	血清 BALP
+T130	Test 5315 5319	TRAP
+T131	Test 5330 5340	血清活性维生素 D3
+T132	Anatomy 5371 5374	骨组织
+T133	Drug 5389 5393	骨化三醇
+T134	Disease 5395 5398	糖尿病
+T135	Test 5425 5429	空腹血糖
+T136	Test 5443 5445	体重
+T137	Test 5453 5457	空腹血糖
+T138	Test 5472 5474	体重
+T139	Test 5483 5487	空腹血糖
+T140	Test 5503 5505	体重
+T141	Drug 5611 5615	骨化三醇
+T142	Drug 5852 5856	骨化三醇
+T143	Disease 5861 5864	糖尿病
+T144	Drug 5915 5934	1,25-(OH) 2 -维生素 D3
+T145	Drug 6096 6100	骨化三醇
+T146	Test 6340 6344	皮质厚度
+T147	Drug 6490 6494	骨化三醇
+T148	Drug 6879 6883	骨化三醇
+T149	Drug 7130 7134	骨化三醇
+T150	Test 7240 7244	皮质厚度
+T151	Test 7251 7259	股骨平均皮质厚度
+T152	Drug 7264 7265;7266 7269	骨 化三醇
+T153	Disease 7271 7274	糖尿病
+T154	Test 7275 7283	股骨平均皮质厚度
+T155	Disease 7294 7297	糖尿病
+T156	Drug 7299 7303	骨化三醇
+T157	Test 7306 7310	皮质厚度
+T158	Drug 7336 7340	骨化三醇
+T159	Disease 7341 7344	糖尿病
+T160	Test_Value 7367 7371	显著降低
+T161	Disease 7394 7397	糖尿病
+T162	Drug 7401 7405	骨化三醇
+T163	Anatomy 7408 7410	股骨
+T164	Drug 7450 7454	骨化三醇
+T165	Disease 7456 7459	糖尿病
+T166	Test_Value 7485 7489	显著降低
+T167	Disease 7512 7515	糖尿病
+T168	Drug 7519 7523	骨化三醇
+T169	Disease 7574 7580	1 型糖尿病
+T170	Disease 7582 7588	2 型糖尿病
+T171	Test 7589 7592	骨密度
+T172	Disease 7614 7620	1 型糖尿病
+T173	Symptom 7624 7629;7630 7631	桡骨骨量减 少
+T174	Disease 7641 7647	1 型糖尿病
+T175	Anatomy 7649 7651	股骨
+T176	Test 7651 7654	骨密度
+T177	Test_Value 7654 7656	降低
+T178	Disease 7666 7671;7672 7673	2 型糖尿 病
+T179	Anatomy 7675 7677	股骨
+T180	Test 7677 7685	骨密度的 T 值
+T181	Disease 7688 7691	糖尿病
+T182	Disease 7720 7723	糖尿病
+T183	Disease 7740 7743;7744 7745	股骨骨 折
+T184	Disease 7771 7777	1 型糖尿病
+T185	Disease 7780 7784	股骨骨折
+T186	Disease 7840 7846	1 型糖尿病
+T187	Disease 7852 7854	骨折
+T188	Anatomy 7871 7873	股骨
+T189	Disease 7873 7875	骨折
+T190	Disease 7897 7904	骨质疏松性骨折
+T191	Reason 7907 7912	骨强度下降
+T192	Test 7918 7920;7921 7922	骨强 度
+T193	Test 7925 7928	骨密度
+T194	Test 7947 7950	骨密度
+T195	Test 7962 7965	骨强度
+T196	Test 7972 7976	骨矿含量
+T197	Test 8031 8033	骨量
+T198	Test 8042 8047	骨皮质厚度
+T199	Anatomy 8061 8063	骨骼
+T200	Disease 8130 8133	糖尿病
+T201	Anatomy 8136 8138	股骨
+T202	Test_Value 8174 8177;8178 8179	显著降 低
+T203	Disease 8190 8196	1 型糖尿病
+T204	Disease 8198 8200	骨折
+T205	Test_Value 8208 8210	增高
+T206	Anatomy 8230 8233	骨组织
+T207	Disease 8260 8263	糖尿病
+T208	Disease 8265 8270	骨脆性增加
+T209	Anatomy 8280 8284	成骨细胞
+T210	Anatomy 8317 8320	胰岛素
+T211	Anatomy 8331 8336	I 型胶原
+T212	Anatomy 8341 8343;8344 8346	成骨 细胞
+T213	Anatomy 8354 8362	胰岛素样生长因子
+T214	Disease 8367 8370	高血糖
+T215	Anatomy 8372 8379	糖基化终末产物
+T216	Anatomy 8380 8384	成骨细胞
+T217	Test 8392 8399	活性维生素 D
+T218	Disease 8406 8414	糖尿病微血管病变
+T219	Anatomy 8416 8417	骨
+T220	Disease 8444 8447	糖尿病
+T221	Drug 8460 8464	骨化三醇
+T222	Test 8473 8477	骨骼脆性
+T223	Disease 8524 8530	1 型糖尿病
+T224	Test 8531 8534	骨密度
+T225	Anatomy 8535 8537	骨骼
+T226	Test 8561 8563	血糖
+T227	Disease 8570 8571;8572 8579	糖 尿病血管并发症
+T228	Disease 8582 8587	糖尿病肾病
+T229	Test 8613 8620	血清维生素 D
+T230	Anatomy 8627 8629	骨骼
+T231	Test 8644 8649	维生素 D
+T232	Drug 8672 8676	骨化三醇
+T233	Anatomy 8678 8682	成骨细胞
+T234	Drug 8706 8711	维生素 D
+T235	Disease 8713 8716	糖尿病
+T236	Test 8738 8743	维生素 D
+T237	Anatomy 8745 8753	维生素 D 受体
+T238	Disease 8766 8769	糖尿病
+T239	Disease 8804 8807	糖尿病
+T240	Drug 8813 8817	骨化三醇
+T241	Test 8823 8829	骨小梁板厚度
+T242	Test 8830 8835	骨小梁体积
+T243	Disease 8887 8894	原发性骨质疏松
+T244	Disease 8961 8964	糖尿病
+T245	Test 8980 8983	骨强度
+T246	Test_Value 8983 8985	降低
+T247	Drug 8986 8988;8989 8991	骨化 三醇
+T248	Disease 8999 9002	糖尿病
+T249	Anatomy 9003 9006	股骨骨

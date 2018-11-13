@@ -1,0 +1,354 @@
+基础研究
+基金项目:国家自然科学基金项目(81070684,81270952),江苏省
+科技支撑计划项目 ( BE 2011802 ),江苏省医学重点人才项目 ( RC
+201169)
+11β-HSD1 与 S100A16 共同调节 3T3-L1 脂肪
+细胞的分化
+李璐  辛婧  薛一  杜新丽  张日华  刘云
+[摘要]   目的  探讨 11β-羟基类固醇脱氢酶(11β-HSD1)与 S100A16 基因共同调节 3T3-L1 前脂肪细
+胞分化的作用及其机制。 方法 分别构建慢病毒载体 PLJM1-11β HSD1 和 PLJM1-S100A16-GFP,共转染
+3T3-L1 前脂肪细胞,用 2. 5 μg / ml 嘌呤霉素筛选 2 周后建立 11β-HSD1 与 S100A16 共表达的稳定转染细胞
+株。 以 Western 印迹法验证慢病毒载体转染效果,采用实时定量 PCR 检测脂肪细胞分化相关标志基因表
+达的变化,采用油红染色观察各组脂肪细胞分化后脂滴堆积水平,同时测定甘油三酯含量;以荧光素酶报
+告基因检测 11β-HSD1 与 S100A16 对 PPARγ 启动子活性影响。 结果 11β-HSD1 与 S100A16 蛋白在慢病
+毒感染的 3T3-L1 共转细胞株中的表达较空载对照细胞明显升高。 在 11β-HSD1 与 S100A16 共转染 3T3-L1
+细胞株诱导分化 8 d 后,可见脂滴形成及甘油三酯含量较 11β-HSD1 与 S100A16 单独过表达的 3T3-L1 细胞
+株、正常 3T3-L1 及空载对照组明显升高(P<0. 05),脂肪细胞分化标志基因 PPARγ、CCAAT 增强子结合蛋
+白 α(C / EBPα)、脂蛋白脂酶、脂肪细胞脂肪酸结合蛋白、脂肪酸合成酶表达明显上调。 报告基因结果显示
+11β-HSD1 与 S100A16 共表达明显增强 PPARγ 启动子活性。 结论 11β-HSD1 与 S100A16 可能通过协同
+调控 PPARγ 表达共同促进 3T3-L1 前脂肪细胞分化,在肥胖的发生发展中起重要作用。
+[关键词]   11β-羟基类固醇脱氢酶; S100A16; PPARγ; 3T3-L1 前脂肪细胞; 肥胖
+11 β-hydroxysteriod dehydrogenase and S100A16 co-regulate differentiation of 3T3-L1 adipocytes Li Lu,
+Xin Jing, Xue Yi, Du Xinli, Zhang Rihua, Liu Yun. Department of Gerontology, the First Affiliated Hospital, Nanjing
+Medical University, Nanjing 210029, China
+[Abstract]   Objective   To investigate the synergistic effect of 11 β-hydroxysteriod dehydrogenase (11β-
+HSD1) and S100A16 on the differentiation of 3T3-L1 preadipocytes and its mechanism. Methods Lentiviral vectors
+PLJM1-11β-HSD1 and PLJM1-S100A16-GFP were respectively constructed and co-transfected into 3T3-L1
+preadipocytes. The cell strains expressing 11β-HSD1 / S100A16 were screened with 2. 5 μg / ml puromycin for two
+weeks. Western blot was employed to verify the lentiviral carrier transfection effects. The expressions of marker genes
+related to the adipocyte differentiation were detected by mean of realtime PCR. Oil red O staining was used to observe
+the lipid droplet accumulation and the content of triglyceride was measured after differentiation of preadipocytes. The
+effect of 11β-HSD1 and S100A16 on PPARγ promoter activity was detected by luciferase reporter gene. Results
+Compared with the empty vector group, the expressions of 11β-HSD1 and S100A16 protein in the lentivirus co-
+transfected 3T3-L1 cell strain were significantly higher. After 3T3-L1 cell strain co-expressing 11β-HSD1 and
+S100A16 was induced to differentiate for 8 days, the lipid droplets accumulation and triglyceride content were
+siginificantly increased, along with increased expressions of adipocyte differentiation marker genes such as PPARγ,
+CCAAT / enhancer binding protein α, lipoprotein lipase, fatty acid synthase, and adipocyte fatty acid-binding protein,
+in comparison with 11β-HSD1 or S100A16 overexpression. The result of reporter gene indicated that 11β-HSD1 /
+S100A16 enhanced PPARγ promoter activity. Conclusions 11β-HSD1 and S100A16 may jointly promote the
+differentiation of 3T3-L1 preadipocytes through a synergistic effect on PPARγ expression and play a critical role in the
+development of obesity.
+[Key words]  11 β-hydroxysteriod dehydrogenase; S100A16; PPARγ; 3T3-L1 preadipocytes; Obesity
+(Chin J Endocrinol Metab, 2014, 30: 779-785)
+肥胖已经成为全球瞩目的流行病之一,肥胖本身
+及其相关并发症如 2 型糖尿病、心血管疾病、高血压和
+癌症等已经严重威胁人们的健康,也给社会带来了沉
+重的负担[1]。 随着遗传学、分子生物学的发展,从分
+子水平探讨肥胖的发生机制,研究肥胖相关基因在肥
+胖发生中的重要性已逐渐受到重视。
+11β-羟基 类 固 醇 脱 氢 酶 ( 11beta-hydroxysteriod
+dehydrogenase,11β-HSD1)是一种微粒体酶,广泛分布
+于组织中,其中在肝脏、脂肪、性腺、脑组织中表达较
+高。 作为糖皮质激素的代谢酶,其主要功能是将无活
+性的可的松转化为有活性的氢化可的松[2],而氢化可
+的松能促进前脂肪细胞分化、促进脂质在细胞内聚
+集[3]。 因此,11β-HSD1 通过调节局部糖皮质激素的
+活性,参与胰岛素抵抗、肥胖、2 型糖尿病和高血压等
+的病理生理过程,是代谢综合征产生的可能原因之
+一[4]。 本课题组前期研究及相关研究结果已经明确
+11β-HSD1 作为公认的肥胖相关基因,其抑制剂已经
+成为治疗肥胖及代谢综合征的新方法。
+有趣的是在本课题组前期研究中通过 RNAi 干扰
+3T3-L1 前脂肪细胞 11β-HSD1 的表达后,采用基因芯
+片筛查,发现属于 S100 家族的新成员钙结合蛋白
+S100A16 表达下调近 60% [5,6]。 S100A16(GenBank 号
+NM_026416)是新近发现的钙结合蛋白,属于 S100 家
+族的新成员,目前关于其生物学功能尤其是它与肥胖
+的关系尚不清楚。 进一步研究发现 S100A16 基因随
+正常 3T3-L1 细胞分化过程表达增加,能够促进脂肪形
+成;在肥胖大鼠及 ob / ob 小鼠脂肪组织中高表达,在
+3T3-L1 细胞分化后期抑制葡萄糖的摄取,S100A16 在
+3T3-L1 细胞的表达对胰岛素的敏感性有负性调节作
+用,我们首次揭示了 S100A16 与肥胖紧密相关。
+作为一个体外模型,3T3-L1 细胞被广泛应用于肥
+胖研究中。 鉴于 11β-HSD1 及 S100A16 与肥胖的相关
+性,尤其 11β-HSD1 干扰后出现 S100A16 的下调,于是
+我们推测 11β-HSD1 是否通过 S100A16 在肥胖中发挥
+作用? 它们是否共同调节脂肪细胞的分化? 其可能的
+机制是什么? 为此,本研究构建了 11β-HSD1 高表达
+质粒 PLJM1-11βHSD1 及 S100A16 高表达质粒 PLJM1-
+S100A16-GFP,并分别建立 11β-HSD1、S100A16 稳定
+转染细胞系及双质粒同时过表达的共转细胞系,进一
+步研究 11β-HSD1 及 S100A16 对前脂肪细胞分化的共
+同影响。 同时采用含有 PPARγ 启动子的荧光素酶报
+告基因检测 11β-HSD1 与 S100A16 与其结合情况,进
+一步探讨 11β-HSD1 及 S100A16 调节前脂肪细胞分化
+的机制,为研究脂肪细胞分化及肥胖发生的分子机制
+奠定基础。
+材料和方法
+一、 材料
+TRIzol Reagent、焦碳酸二乙酯 DEPC、无 RNAase
+水、M-MLV-Reverse Transcriptase system、 RNase 抑制
+剂、Lipofectamine 2000TM 细胞转染试剂盒均购于上海
+Invitrogen 公 司; 反 转 录 试 剂 盒 ( PrimeScriptTM RT
+reagent Kit, ExpandTM Template PCR System)、限制性核
+酸内切酶(EcoRI、NheI)、T4 DNA 连接酶、Taq DNA 聚
+合酶、DNA 片段纯化试剂盒均购自 Takara;质粒小量
+抽提试剂盒(天根),质粒中抽试剂盒(QIAGEN);胶回
+收试剂盒(OMEGA,Ultra-Sep Gel Extraction Kit);DNA
+电泳缓冲液、琼脂购于 GeneTech 公司。 油红试剂、3-
+异丁基-1-甲基磺嘌呤( IBMX)、胰岛素及地塞米松购
+自美国 Sigma 公司。 高糖 DMEM 培养液及新生胎牛
+血清(FBS)购自 Hyclone 公司。 辣根过氧化物酶标记
+二抗试剂盒(北京中杉);兔抗小鼠 11β-HSD1 多克隆
+抗体及 S100A16 兔源抗体购自美国 Research Genetics
+公司。 各种引物由北京六合华大生物有限公司合成。
+3T3-L1 前体脂肪细胞株及 293T 细胞购自上海细
+胞生物研究所。 大肠杆菌感受态细胞 DH5α 及
+PLJM1-NRGI-GFP、PLJM1 载体由南京医科大学分子遗
+传研究室李建民教授馈赠。
+二、 方法
+1. 慢病毒载体 PLJM1-11βHSD 的构建及 3T3-L1
+稳定转染细胞株的建立:从小鼠 3T3-L1 细胞提取总
+RNA 经 RT-PCR 获得 cDNA。 根据 11β-HSD1 GenBank
+登录号 NM_008288 mRNA 序列分别设计引物(表 1),
+由北京六合华大基因科技股份有限公司合成。 上游引
+物酶切位点 NheI,下游引物酶切位点 EcoRI。 扩增
+11β-HSD1cDNA,经酶切纯化与双酶切后的 PLJM1
+(NheI / EcoRI)慢病毒载体连接得到 PLJM1-11βHSD1
+慢病毒载体,转化感受态细菌 DH5α,PCR 筛选阳性克
+隆,质粒抽提测序鉴定。 以脂质体 LipofectamineTM
+2000 介导 PLJM1-11βHSD1 和慢病毒包装质粒 △8. 91、
+PVSVG 共转染 293T 细胞,生产慢病毒。 利用所获取
+的慢病毒感染 3T3-L1 细胞,用含 2. 5 μg / ml 嘌呤霉素
+的 DMEM 完全培养基培养感染后的 3T3-L1 细胞,根
+据细胞状态约每 2 d 换 1 次液,共培养 2 周,显微镜下
+挑选单克隆稳定细胞株,并冻存保种。
+2. 慢病毒载体 PLJM1-S100A16-GFP 的构建及
+3T3-L1 稳定转染细胞株的建立:以上述同样方式扩增
+S100A16 cDNA,经酶切纯化与双酶切后的 PLJM1-
+NRG1-GFP 慢病毒载体连接得到 PLJM1-S100A16-GFP
+慢病毒载体,转化感受态细菌 DH5α,PCR 筛选阳性克
+隆,质粒抽提测序鉴定。 以脂质体 LipofectamineTM
+2000 介导 PLJM1-S100A16-GFP 和慢病毒包装质粒
+△8. 91、PVSVG 共转染 293T 细胞,生产慢病毒。 利用
+所获取的慢病毒感染 3T3-L1 细胞,根据绿色荧光效率
+挑单克隆细胞筛选稳定细胞株。
+3. 11β-HSD1、S100A16 双质粒同时过表达的共转
+细胞系的建立:(1)制备高表达 11β-HSD1 的病毒上
+清: 对测序正确的 PLJM1-11βHSD1 质粒(嘌呤霉素抗
+表 1  实时定量 PCR 引物序列
+Tab 1  Primer sequences for realtime PCR
+基因
+Gene
+引物序列
+Primer sequences
+11β-HSD1 F:5'-GGGGCTAGCGGATCCGCCACCATGGCAGTTATGAAAAATTACC-3'R:5'-GGGGAATTCCTCGAGCCTAGTTACTTACAAACATGTCC-3'
+S100A16 F:5'-CGTGCTAGCGCCACCATGGCTGACTGCTATACAC-3'R:5'-GCTGAATTCTCGAGAGGAGAAGGGAGGAAGAAAG-3'
+GAPDH F:5'-ACGGATTTGGTCGTATTGGG-3'R:5'-CGCTCCTGGAAGATGGTGAT-3'
+C / EBPα F:5'-CAGTTTGGCAAGAATCAGAGCA-3'R:5'-GGGTGAGTTCATGGAGGAATGG-3'
+PPARγ F:5'-GACCACTCGCATTCCTTT-3'R:5'-CCACAGACTCGGCACTCA-3'
+LPL F:5'-TCTCCTGATGACGCTGAT-3'R:5'-GTGTTGCTTGCCATTCTC-3'
+FAS F:5'-GGGACAGGACAAGACAAAAAGGG-3'R:5'-AGCCACGAGTGAGTGTACGGGAG-3'
+aP2 F:5'-TCACCTGGAAGACAGCTCCT-3'R:5'-AATCCCCATTTACGCTGATG-3'
+注:11β-HSD1:11β-羟基类固醇脱氢酶 11 β-hydroxysteriod dehydrogenase;C / EBPα:CCAAT 增强子结合蛋白 CCAAT / enhancer binding protein α;
+LPL:脂蛋白脂酶 Lipoprotein lipase; FAS:脂肪酸合成酶 Fatty acid synthase;aP2:脂肪细胞脂肪酸结合蛋白 Adipocyte fatty acid-binding protein
+性)及包装质粒 PVSVG,△8. 91 按上述方法转染 293T
+细胞,转染后 48 和 72 h 收集包装产生的高表达 11β-
+HSD1 的病毒上清。 (2)11β-HSD1、S100A16 共转染细
+胞系的建立:将以上获得的高表达 11β-HSD1 的病毒
+上清感染根据绿色荧光挑取单克隆筛选出的 S100A16
+稳定表达细胞株 PLJM1-S100A16-3T3-L1。 对高表达
+11β-HSD1 的病毒感染后的 PLJM1-S100A16-3T3-L1 细
+胞传代,传代后开始用含 2. 5 μg / ml 嘌呤霉素的
+DMEM 完全培养基培养,根据细胞状态约每 2 d 换 1
+次液,用嘌呤霉素筛选 2 周,显微镜下可见带绿色荧光
+且经嘌呤霉素筛选后存活下来的单克隆细胞团即为
+11β-HSD1、S100A16 共转细胞系。
+4. Western 印迹法检测 11β-HSD1、S100A16 的蛋
+白表达:分别收取正常 3T3-L1 细胞、转入空载质粒
+PLJM1 的 3T3-L1 细胞(PLJM1-3T3-L1)及以上 3 组稳
+转细胞株总蛋白质,测定蛋白质浓度,制备 12% 分离
+胶及 5%浓缩胶,100V 稳压电泳;半干转膜。 其中一
+抗为兔抗小鼠 11β-HSD1 多克隆抗体(抗体浓度 1 :
+200)或 S100A16 多克隆抗体(工作浓度为 1 : 500),二
+抗为羊抗兔 IgG-辣根过氧化物酶(工作浓度为 1 :
+2 000),用免疫印迹化学发光法检测各组细胞株 11β-
+HSD1、S100A16 的蛋白表达水平。
+5. 3T3-L1 细胞培养及诱导分化:3T3-L1 前脂肪细
+胞采用含有 10% FBS 的 DMEM 高糖培养基培养,在
+5% CO2、 37℃ 培养箱中生长,根据细胞状况进行换
+液。 当细胞生长至完全融合后 2 d 用含有 10% FBS,
+0. 5 mmol / L IBMX,1 μg / ml 胰岛素及 1 μmol / L 地塞米
+松的 DMEM 高糖培养液诱导 2 d 后,换含 10% FBS、1
+μg / ml 胰岛素的高糖培养液继续培养 2 d。 此后撤去
+胰岛素换用 10% FBS 的高糖 DMEM 培养液直到第 8
+天细胞完全分化成熟。 分别于刺激分化的第 0、4、8 天
+收取细胞 RNA 或蛋白,用于相关指标检测。
+6. 油红 O 染色及甘油三酯( TG) 含量的测定:
+3T3-L1 细胞在分化不同天数(0、4、8 d)进行油红 O 染
+色,即细胞经 10%缓冲福尔马林(pH 7. 4)固定 10 min
+后,用 PBS 洗涤 3 次,加入 60% 异丙醇与油红 O 染料
+应用液避光孵育 20 min,吸弃液体用自来水冲洗干净,
+倒置显微镜下观察脂滴形成情况。
+TG 含量的测定:将培养皿中的培养基吸出,PBS
+洗涤 3 次,用 0. 25% 的胰蛋白酶消化成细胞悬液,转
+移到 Eppendorf 管中,1 000 转 / min 离心 10 min,弃上
+清,加入 50 滋l 裂解液,并在冰上孵育 30 min,每 5 min
+震荡 15 s /次,12 000 转 / min 离心 10 min,吸上清移至
+新的 Eppendorf 管。 测定蛋白浓度。 再加异丙醇 10
+滋l /管,混匀。 采用 TG 测定试剂盒通过分光光度计测
+定 A 值(510 nm)定量分析 TG 的含量。
+7. 实时荧光定量 PCR 检测:采用实时荧光定量
+PCR 检测上述各组细胞的脂肪细胞分化标志基因
+PPARγ、CCAAT 增强子结合蛋白(C / EBPα)、脂蛋白脂
+酶(LPL)、脂肪合成酶(FAS)、脂肪细胞脂肪结合蛋白
+(aP2)的表达,使用 GeneBank 软件设计引物(表 1)。
+实时定量 PCR 总反应体系为 20 滋l, 应用 Quanti
+TectonicSYBR Green PCR Master Mix。 反应条件:95℃
+预变性 10 s,94℃变性 30 s,60℃退火 30s,72℃延伸 30
+s,80℃读板 5 s,40 个循环,72℃ ~ 94℃ ,每 0 . 5℃
+读一次制备熔解曲线。 GAPDH 作为内参照,所得值
+以 GAPDH 标化后输入 Excel 软件进行分析。
+8. 荧光素酶报告基因检测:首先构建含有 PPARγ
+启动子全长(约 2 000 bp)的荧光素酶报告基因质粒
+(pGL-3-PPARγ)。 3T3-L1 细胞接种 12 孔板,12 h 后
+进行共转染实验。 采用 X-TremeGENE HP DNA 转染
+试剂 分 别 转 染 11β-HSD1 / pGL-3-PPARγ、 S100A16 /
+pGL-3-PPARγ、 11β-HSD1 / S100A16 / pGL-3-PPARγ, 内
+参质粒均为 rPL,转染后 24 h 以双荧光酶报告分析系
+统(Promega 公司)监测荧光素酶值。
+三、 统计学处理
+每个实验独立重复 3 次以上,实验数据以 3 次实
+验 x-± s 表示,组间差异用双尾 Student忆s t 检验,P<0. 05
+为差异有统计学意义。
+结    果
+一、 稳定转染慢病毒 3T3-L1 细胞株的构建及其
+验证
+以 PLJM1-11βHSD1 慢病毒载体转染 293T 细胞,
+分别收集转染后 24 及 48 h 病毒上清感染 3T3-L1 细
+胞,加含 2. 5 μg / ml 嘌呤霉素的完全培养液筛选 14 d
+后挑单克隆并扩增,得到稳定的单克隆细胞株。 然后
+收集蛋白进行 Western 印迹验证,结果显示 PLJM1-
+11βHSD1-3T3-L1 细胞与空白对照 3T3-L1 细胞及空载
+对照 PLJM1-3T3-L1 细胞相比,11β-HSD1 蛋白表达明
+显升高(图 1A),证明稳定转染细胞株构建成功。 本
+课题组以往的研究也显示 PLJM1-S100A16-GFP-3T3-
+L1 细胞与空白对照 3T3-L1 细胞及空载对照 PLJM1-
+3T3-L1 细胞相比, S100A16 蛋白表达明显升高 (P <
+0. 01),表明稳定感染细胞株筛选成功[7]。 11β-HSD1
++ S100A16 共 转 组 细 胞 同 时 高 表 达 11β-HSD1、
+S100A16 蛋白,证明 11β-HSD1+S100A16 共转染细胞
+系构建成功(图 1B)。
+二、 11β-HSD1、S100A16 协同促进 3T3-L1 前脂肪
+细胞分化
+对以上稳定细胞系按照上述方法进行诱导分化,
+采用油红 O 染色显微镜下观察脂滴形成情况,结果发
+现 11β-HSD1、S100A16 高表达可协同促进 3T3-L1 细
+胞分化过程中脂滴的形成。 与相应的对照组比较,细
+胞分化 8 d 时,11β-HSD1、S100A16 高表达可明显增加
+TG 含量(P<0. 01,图 2)。
+三、 11β-HSD1、S100A16 共同上调 3T3-L1 细胞分
+化过程中相关标志基因的表达
+实时定量 PCR 结果显示,各组细胞分化 4 和 8 d
+后,11β-HSD1、S100A16 高表达组 PPARγ、C / EBP-α、
+LPL、AP2、FAS 的 mRNA 表达水平较对照组明显升高,
+而共转组的上调作用最为明显,说明两者对脂肪细胞
+的分化有协同促进作用(图 3)。
+四、 11β-HSD1 和 S100A16 增加 PPARγ 启动子活
+性
+将含 PPARγ 的荧光素酶报告基因质粒分别与
+11β-HSD1、S100A16 及 11β-HSD1 / S100A16 表达质粒
+共转染 3T3-L1 前脂肪细胞 24 h, 结果显示, 11β-
+HSD1 / S100A16 表达质粒能显著上调 PPARγ 活性,
+提示 11β-HSD1 可能与 S100A16 协同作用共同上调
+PPARγ 活性,进而促进前脂肪细胞分化(图 4)。
+讨    论
+肥胖是全球最常见的流行病之一,常并发 2 型糖
+注:CON:对照组 Control group;EV:空载组 Empty vector group;11 b-HSD1:11 b-HSD1 转染组 11 b-HSD1 tranfected group;S100A16: S100A16 转染组
+S100A16 transfected group;11 b-HSD1+S100A16 共转染组 11 b-HSD1 and S100A16 co-tranfected group;余略语同表 1 The other abbreviations are the same as
+Tab 1;与 EV 组相比 vs EV group, aP<0. 01
+图 1  11β-HSD1 / S100A16 共转染稳定表达细胞株的验证
+Fig 1  Construction and validation of the 3T3-L1 pre-adipocyte line expressing 11β-HSDl and S100A16 protein stably
+注:TG:甘油三酯 Triglyceride;余略语同表 1 和图 1 The other abbreviations are the same as Tab 1 and Fig 1;与 EV 组相比 vs EV group,aP<0. 01
+图 2  S100A16 与 11β-HSD1 对 3T3-L1 细胞分化的影响
+Fig 2  Effect of 11β-HSD1 / S100A16 on 3T3-L1 preadipocyte differentiation
+尿病、高血压及脂代谢紊乱等代谢疾病。 因此,积极探
+讨肥胖及其并发症的病因和发病机制、寻找有效的早
+期防治靶标,目前已成为学者重要的研究方向之
+一[8]。 近年来,脂肪细胞分化给肥胖研究带来了一个
+全新的视角,因为不管肥胖的病因和发病机制如何复
+杂,其核心环节是前脂肪细胞分化、增生异常导致脂肪
+组织堆积过多和(或)分布异常[9,10]。 尤其是以 3T3-
+L1 为代表的前脂肪细胞系的应用,为肥胖功能基因组
+和蛋白质组的研究提供了快速简便的研究平台,极大
+地推动了肥胖发生机制研究的进程。
+既往研究表明 3T3-L1 前脂肪细胞向成熟脂肪细
+胞分化的过程是一个由分化转录因子调控的大量基因
+有时序表达的复杂过程,其改变涉及了 C / EBPα、FAS、
+aP2、LPL 及 PPARγ 等多个脂肪细胞分化相关基因的
+表达改变[11]。 因此,本课题组以往应用实时定量 PCR
+检测这些基因在 11β-HSD1 基因高表达 3T3-L1 细胞
+分化过程中的表达趋势,结果发现 11β-HSD1 基因高
+表达能在成脂分化早期显著而特异地上调 FAS 和 LPL
+等基因的表达,促进 3T3-L1 细胞的分化[12]。
+11β-HSD1 作为糖皮质激素前体调节剂能促进前
+脂肪细胞分化。 另有资料显示,细胞内 11β-HSD1 活
+性在代谢综合征患者脂肪组织中普遍增加;同时在
+11β-HSD1 转基因小鼠中也表现出内脏脂肪组织增
+多[13-15]。 这可能因为 11β-HSD1 主要作用是活化糖皮
+质激素, 使糖皮质激素受体得到了充分激活, 糖皮质
+激素能促进前脂肪细胞分化,增加脂肪细胞内脂质生
+注:略语同表 1 和图 1 The abbreviations are the same as Tab 1 and Fig 1;与 EV 组比较 vs EV group,aP<0. 05,bP<0. 01
+图 3  S100A16 与 11β-HSD1 对脂肪细胞分化标志基因表达的影响
+Fig 3  Impact of S100A16 and 11β-HSD1 on the expression of marker genes of adipocyte differentiation
+注:略语同图 1 The abbreviations are the same as Fig 1; 与 EV 组相比
+vs EV group,aP<0. 05
+图 4  11β-HSD1 和 S100A16 增加 PPARγ 启动子活性
+Fig 4  11β-HSDl and S100A16 increase PPARγ promoter activity
+成[16-18]。 有研究报道了 11β-HSD1 缺乏在小鼠的脂肪
+细胞功能、分布及基因表达方面能起到保护效应[19]。
+因此,进一步探讨 11β-HSD1 对脂肪细胞分化的影响
+及机制对治疗肥胖及 2 型糖尿病显得很有意义。
+本 课 题 组 前 期 以 RNA 干 扰 技 术 构 建
+pGCsilencerTM H1 / TetO1-11β-HSD1 质粒转染 3T3-L1
+细胞并通过 G418 筛选稳定表达株,同时建立正常及
+pGCsilencerTM H1 / TetO1-11β-HSD11-2 质粒转染后的
+3T3-L1 细胞诱导分化模型[20],以分化 0、8 d 的标本进
+行基因芯片筛查[5,6],获得表达差异明显的一条小鼠
+全长基因 S100A16,并且发现 S100A16 基因随 3T3-L1
+细胞分化过程表达增加,提示 S100A16 与肥胖相关。
+既往研究中我们利用传统的 3T3-L1 细胞模型,证实了
+11β-HSD1、 S100A16 能 分 别 促 进 前 脂 肪 细 胞 分
+化[5,21];但是目前国内外尚无 11β-HSD1 与 S100A16
+关系的研究文献,也未见 11β-HSD1 / S100A16 与脂肪
+细胞分化和脂质聚集关系的报道。 为进一步研究
+11β-HSD1、S100A16 基因在脂肪细胞分化中的共同作
+用,本研究构建了 11β-HSD1、S100A16 共同高表达稳
+定转染细胞株,通过 Western 印迹验证转染成功(图
+1)。 对上述稳定细胞系进行诱导分化,采用油红 O 染
+色,结果发现 11β-HSD1、S100A16 高表达可协同促进
+3T3-L1 细胞分化过程中脂滴的形成,TG 含量增加(图
+2)。 实时定量 PCR 结果显示,11β-HSD1、S100A16 高
+表达组细胞 PPARγ、C / EBPα、LPL、AP2、FAS 的 mRNA
+表达水平较对照组明显升高,共转组的上调作用最为
+明显,说明两者对脂肪细胞的分化有协同促进作用
+(图 3)。
+PPARγ 在脂质合成中起重要作用,为进一步探讨
+11β-HSD1 及 S100A16 促进 3T3-L1 细胞分化的机制,
+我们构建了 PPARγ 荧光素酶报告基因质粒,分别与空
+载质粒、11β-HSD1 表达质粒、 S100A16 表达质粒及
+11β-HSD1 / S100A16 共表达质粒转染 3T3-L1 前脂肪
+细胞,结果发现共转染 11β-HSD1 / S100A16 后 PPARγ
+的结合明显增强,表明 11β-HSD1 可能与 S100A16 协
+同作用上调 PPARγ 活性,进而促进前脂肪细胞分化
+(图 4)。
+总之,本研究揭示了 S100A16 与 11β-HSD1 在脂
+肪细胞分化及脂质合成中有协同作用,这可能是由于
+上调了 PPARγ 及其下游基因如 aP2、C / EBPα 等的表
+达。 为进一步研究它们在肥胖中的作用,我们已经构
+建了 S100A16 转基因及基因敲除小鼠模型,并与 11β-
+HSD1 转基因及基因敲除小鼠交配,在整体水平揭示
+S100A16 及 11β-HSD1 共同调节脂肪细胞分化的作用
+及其机制,为揭示肥胖发生的分子机制,寻找新的治疗
+靶标提供依据。

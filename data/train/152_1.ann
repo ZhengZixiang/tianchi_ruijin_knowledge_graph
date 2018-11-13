@@ -1,0 +1,269 @@
+T1	Disease 4427 4434	糖尿病神经病变
+T2	Disease 2277 2282	糖尿病肾病
+T3	Disease 2909 2914	糖尿病肾病
+T4	Disease 3230 3235	糖尿病肾病
+T5	Disease 3314 3319	糖尿病肾病
+T6	Drug 1864 1868	二甲双胍
+T7	Drug 1923 1927	二甲双胍
+T8	Disease 2790 2799	糖尿病周围神经病变
+T9	Disease 3088 3097	糖尿病周围神经病变
+T10	Drug 1747 1753	噻唑烷二酮类
+T11	Disease 1974 1978	前列腺癌
+T12	Disease 4245 4249	前列腺癌
+T13	Drug 3254 3255;3256 3259	利 拉鲁肽
+T14	Drug 4421 4425	西格列汀
+T15	Drug 1755 1759	吡格列酮
+T16	Anatomy 2580 2583	ROS
+T17	Disease 1879 1882	乳腺癌
+T18	Disease 1969 1970;1971 1973	乳 腺癌
+T19	Disease 3719 3722	乳腺癌
+T20	Disease 1514 1517	结肠癌
+T21	Disease 3885 3887	肺癌
+T22	Drug 4416 4420	沙格列汀
+T23	Drug 3017 3021	白藜芦醇
+T24	Disease 1886 1887;1888 1889	肺 癌
+T25	Test 3190 3192	血糖
+T26	Drug 3387 3393	DPP-4i
+T27	Drug 4408 4414	DPP-4i
+T28	Drug 4653 4659	DPP-4i
+T29	Disease 140 143	糖尿病
+T30	Disease 150 152	肿瘤
+T31	Disease 177 180	糖尿病
+T32	Disease 186 188	肿瘤
+T33	Disease 201 204	糖尿病
+T34	Disease 229 231	肿瘤
+T35	Disease 245 248	糖尿病
+T36	Disease 329 332	糖尿病
+T37	Disease 380 382	肿瘤
+T38	Disease 392 395	糖尿病
+T39	Disease 397 399	肿瘤
+T40	Disease 418 421	糖尿病
+T41	Disease 423 425	肿瘤
+T42	Drug 338 342	抗氧化剂
+T43	Drug 427 431	抗氧化剂
+T44	Disease 1418 1421	糖尿病
+T45	Disease 1424 1426	肿瘤
+T46	Disease 1447 1450	糖尿病
+T47	Disease 1451 1453	肿瘤
+T48	Disease 1466 1469	糖尿病
+T49	Disease 1470 1472	肿瘤
+T50	Disease 1503 1506	糖尿病
+T51	Disease 1511 1513	肿瘤
+T52	Disease 1518 1521	胰腺癌
+T53	Disease 1522 1524	肝癌
+T54	Disease 1532 1534;1535 1536	糖尿 病
+T55	Disease 1538 1540	肿瘤
+T56	Disease 1570 1573	糖尿病
+T57	Disease 1577 1580	糖尿病
+T58	Disease 1642 1645	糖尿病
+T59	Disease 1694 1697	糖尿病
+T60	Disease 1700 1702	肿瘤
+T61	Disease 1769 1772	膀胱癌
+T62	Drug 1817 1835	胰升糖素样肽 1(GLP-1)激动剂
+T63	Disease 1844 1850	胰腺上皮瘤变
+T64	Disease 1876 1878	肿瘤
+T65	Disease 1883 1885	肠癌
+T66	Disease 1909 1911	肿瘤
+T67	Disease 1979 1982	卵巢癌
+T68	Disease 2001 2004	糖尿病
+T69	Disease 2008 2010	肿瘤
+T70	Disease 2036 2039	糖尿病
+T71	Disease 2059 2062	糖尿病
+T72	Disease 2064 2066	肿瘤
+T73	Disease 2089 2092	糖尿病
+T74	Disease 2190 2195	胰岛素抵抗
+T75	Disease 2200 2203	糖尿病
+T76	Disease 2216 2219	糖尿病
+T77	Disease 2234 2237	糖尿病
+T78	Symptom 2252 2256	血糖波动
+T79	Disease 2283 2288	糖尿病溃疡
+T80	Drug 2365 2369	抗氧化剂
+T81	Disease 2375 2378	糖尿病
+T82	Drug 2403 2406;2407 2408	抗氧化 剂
+T83	Drug 2437 2441	抗氧化剂
+T84	Drug 2462 2467	维生素 C
+T85	Drug 2468 2473	维生素 E
+T86	Drug 2474 2478	胡萝卜素
+T87	Drug 2449 2458;2459 2460	外源性非酶类抗氧化 剂
+T88	Drug 2479 2482	褪黑素
+T89	Drug 2488 2492	抗氧化剂
+T90	Drug 2530 2539	内源性酶类抗氧化剂
+T91	Drug 2542 2549	超氧化物歧化酶
+T92	Drug 2552 2555	SOD
+T93	Drug 2557 2566	谷胱甘肽过氧化物酶
+T94	Drug 2568 2574	GSH-PX
+T95	Drug 2678 2680;2681 2683	抗氧 化剂
+T96	Drug 2725 2730	维生素 C
+T97	Drug 2731 2736	维生素 E
+T98	Drug 2737 2739;2740 2741	硫辛 酸
+T99	Disease 2746 2749	糖尿病
+T100	Drug 2754 2758	抗氧化剂
+T101	Disease 2800 2806	血管功能紊乱
+T102	Drug 2834 2837	褪黑素
+T103	Test 2850 2859	胰岛 β 细胞功能
+T104	Drug 2876 2884	Nrf2 激动剂
+T105	Drug 2884 2888	莱菔硫烷
+T106	Disease 2925 2928	糖尿病
+T107	Disease 2932 2939	代谢紊乱症候群
+T108	Drug 2961 2965	抗氧化剂
+T109	Disease 2971 2974	糖尿病
+T110	Drug 2986 2989	姜黄素
+T111	Drug 2990 2993	肉桂醛
+T112	Disease 2998 3003	糖尿病溃疡
+T113	Disease 3027 3030	糖尿病
+T114	Drug 3063 3066	硫辛酸
+T115	Drug 3075 3079	抗氧化剂
+T116	Drug 3130 3134	抗氧化剂
+T117	Drug 3177 3180	胰岛素
+T118	Disease 3184 3187	糖尿病
+T119	Anatomy 3273 3275	肾脏
+T120	Drug 3339 3351	二肽基肽酶 IV 抑制剂
+T121	Drug 3431 3435	抗氧化剂
+T122	Disease 3436 3439	糖尿病
+T123	Disease 3468 3471	糖尿病
+T124	Disease 3478 3480	肿瘤
+T125	Disease 3499 3501	肿瘤
+T126	Disease 3549 3551	肿瘤
+T127	Drug 3569 3573	抗氧化剂
+T128	Disease 3576 3578	肿瘤
+T129	Disease 3620 3622	肿瘤
+T130	Drug 3658 3662	抗氧化剂
+T131	Disease 3668 3670	肿瘤
+T132	Drug 3779 3783	抗氧化剂
+T133	Drug 3784 3786;3787 3793	N- 乙酰半胱氨酸
+T134	Drug 3794 3797	NAC
+T135	Disease 3803 3807	黑色素瘤
+T136	Disease 3822 3826	黑色素瘤
+T137	Drug 3851 3854	NAC
+T138	Drug 3856 3861	维生素 E
+T139	Disease 3911 3915	黑色素瘤
+T140	Disease 3941 3945	黑色素瘤
+T141	Disease 3960 3964	黑色素瘤
+T142	Drug 3991 3995	抗氧化剂
+T143	Drug 4070 4074	抗氧化剂
+T144	Drug 4075 4084	维生素 A、C、E
+T145	Drug 4085 4091	β-胡萝卜素
+T146	Drug 4092 4093	硒
+T147	Disease 4100 4105	胃肠道肿瘤
+T148	Drug 4227 4231	抗氧化剂
+T149	Drug 4232 4237	维生素 E
+T150	Disease 4310 4313	糖尿病
+T151	Disease 4317 4320	糖尿病
+T152	Drug 4438 4439;4440 4442	硫 辛酸
+T153	Disease 4448 4450	肿瘤
+T154	Disease 4468 4470	肿瘤
+T155	Drug 4391 4397	抗糖尿病药物
+T156	Anatomy 4521 4525	Nrf2
+T157	Anatomy 4560 4564	Nrf2
+T158	Disease 4620 4622	肿瘤
+T159	Disease 4706 4708	肝癌
+T160	Disease 4731 4733	肝癌
+T161	Disease 4753 4756	糖尿病
+T162	Drug 4769 4773	抗氧化剂
+T163	Disease 4775 4778	糖尿病
+T164	Disease 4780 4782	肿瘤
+T165	Anatomy 4798 4802	Nrf2
+T166	Disease 4807 4809	肿瘤
+T167	Disease 4869 4871	肿瘤
+T168	Drug 4885 4889	抗氧化剂
+T169	Drug 4931 4935	抗氧化剂
+T170	Disease 4940 4942	肿瘤
+T171	Drug 4991 4995	抗氧化剂
+T172	Drug 5010 5014	抗氧化剂
+T173	Drug 5031 5032;5033 5036	抗 氧化剂
+T174	Disease 5048 5050	肿瘤
+T175	Drug 5109 5113	抗氧化剂
+T176	Disease 5114 5117	糖尿病
+T177	Disease 5126 5128	肿瘤
+T178	Disease 5175 5177	肿瘤
+T179	Anatomy 5218 5222	Nrf2
+T180	Drug 5224 5228	抗氧化剂
+T181	Anatomy 5257 5261	Nrf2
+T182	Drug 5372 5378	抗糖尿病药物
+T183	Disease 5383 5385	肿瘤
+T184	Treatment 144 149	抗氧化治疗
+T185	Treatment 195 200	抗氧化治疗
+T186	Treatment 249 254	抗氧化治疗
+T187	Test 1597 1600	胰岛素
+T188	Test 1603 1611;1612 1613	胰岛素样生长因子 I
+T189	Duration 2243 2245	长期
+T190	Anatomy 3034 3041	胰岛素信号通路
+T191	Anatomy 3044 3045	肝
+T192	Anatomy 3276 3282;3283 3289	NAD(P) H 过氧化酶
+T193	Anatomy 3293 3304	cAMP-蛋白激酶 A
+T194	Anatomy 3305 3308	PKA
+T195	Reason 3527 3537;3538 3539	细胞氧化 DNA 损 伤
+T196	Reason 3540 3544	基因突变
+T197	Drug 3614 3618	抗氧化剂
+T198	Anatomy 3745 3749	胞外基质
+T199	Anatomy 3871 3881	ROS-p53 信号
+T200	Anatomy 3900 3907	RhoA 通路
+T201	Test 3975 3978	Rac
+T202	Test 3981 3984	Rho
+T203	Test 4000 4004	氧自由基
+T204	Test 4007 4010	Rac
+T205	Test_Value 4011 4013	增加
+T206	Test 4014 4017	Rho
+T207	Disease 4150 4152	死亡
+T208	Anatomy 4485 4491;4492 4499	Keap1- C151 位点
+T209	Anatomy 4534 4541	Nrf2 通路
+T210	Test_Value 4568 4570	上调
+T211	Disease 4890 4892	肿瘤
+T212	Disease 4998 5000	癌症
+T213	Drug 5168 5170;5171 5173	抗氧 化剂
+T214	Drug 2389 2395	常规降糖药物
+T215	Drug 2018 2019;2020 2024	口 服降糖药
+T216	SideEff 2514 2517	促氧化
+T217	Anatomy 2600 2643	nuclear factor erythroid 2-related factor 2
+T218	Anatomy 2659 2666	II 相解毒酶
+T219	Anatomy 2667 2671	抗氧化酶
+T220	Drug 2719 2724	三联抗氧化
+T221	Drug 2890 2902	sulforaphane
+T222	Drug 2904 2906	SF
+T223	Drug 3119 3123	降糖药物
+T224	Drug 4859 4863	降糖药物
+T225	Anatomy 5235 5239	正常细胞
+T226	Anatomy 5263 5267	正常细胞
+T227	Anatomy 2179 2186	胰岛 β 细胞
+T228	Anatomy 2119 2120;2121 2124	活 性氧簇
+T229	Anatomy 2150 2153	ROS
+T230	Anatomy 3406 3409	ROS
+T231	Anatomy 3732 3735	ROS
+T232	Anatomy 1953 1957	AMPK
+T233	Disease 258 260	肿瘤
+T234	Anatomy 348 361	核因子 E2 相关因子 2
+T235	Anatomy 362 366	Nrf2
+T236	Disease 1624 1626	肿瘤
+T237	Disease 1662 1668	肝肾功能损伤
+T238	Anatomy 1941 1944;1945 1952	AMP 活化的蛋白激酶
+T239	Anatomy 1934 1938	LKB1
+T240	Disease 1964 1966	肿瘤
+T241	Disease 2042 2044	肿瘤
+T242	Symptom 2246 2251	高血糖状态
+T243	Disease 2335 2343	糖尿病慢性并发症
+T244	Disease 2417 2425	糖尿病慢性并发症
+T245	Anatomy 2585 2598	核因子 E2 相关因子 2
+T246	Anatomy 2644 2648	Nrf2
+T247	Anatomy 2945 2948	肾小球
+T248	Disease 3399 3401	肿瘤
+T249	Disease 3725 3727	肿瘤
+T250	Disease 3740 3742	肿瘤
+T251	Disease 4024 4028	黑色素瘤
+T252	Disease 4329 4331	肿瘤
+T253	Anatomy 4505 4509	Nrf2
+T254	Anatomy 4571 4580;4581 4588	肿瘤转移相关蛋白低 氧诱导因子 1
+T255	Anatomy 4589 4597	血管内皮生长因子
+T256	Anatomy 4604 4606;4607 4609	肿瘤 细胞
+T257	Anatomy 4636 4643	Nrf2 基因
+T258	Disease 4664 4666	肿瘤
+T259	Anatomy 4680 4687	Nrf2 通路
+T260	Disease 4692 4694	肿瘤
+T261	Anatomy 4721 4725	Nrf2
+T262	Anatomy 4763 4767	Nrf2
+T263	Anatomy 5103 5107	Nrf2
+T264	Disease 5137 5139	肿瘤
+T265	Disease 5229 5230;5231 5232	肿 瘤
+T266	Disease 5268 5270	肿瘤
+T267	Anatomy 5336 5340	Nrf2
+T268	Drug 5342 5348	抗糖尿病药物
+T269	Anatomy 5366 5370	Nrf2

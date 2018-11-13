@@ -1,0 +1,344 @@
+T1	Test 8 10	超声
+T2	Treatment 19 22	放化疗
+T3	Disease 52 58	2 型糖尿病
+T4	Test 68 70;71 72	血尿 酸
+T5	Disease 75 81	冠状动脉病变
+T6	Disease 138 144	2 型糖尿病
+T7	Test 156 159	血尿酸
+T8	Disease 162 168	冠状动脉病变
+T9	Test 181 185	冠脉造影
+T10	Test_Value 190 192	阴性
+T11	Test 207 209	血糖
+T12	Disease 211 214	糖尿病
+T13	Test 216 218	血糖
+T14	Disease 235 242	急性冠脉综合征
+T15	Test 250 254	冠脉造影
+T16	Test 258 264	冠脉狭窄指数
+T17	Test 265 268	CSI
+T18	Disease 270 273;274 275	冠脉病 变
+T19	Disease 279 283	冠脉病变
+T20	Test 290 292	血糖
+T21	Disease 296 299	糖尿病
+T22	Test 305 308	血尿酸
+T23	Disease 330 336	冠状动脉病变
+T24	Test 340 343	CSI
+T25	Disease 347 353	冠状动脉病变
+T26	Disease 404 410	冠状动脉病变
+T27	Test 440 443	血尿酸
+T28	Test 457 460	血尿酸
+T29	Disease 463 467	冠脉病变
+T30	Test 478 480	血糖
+T31	Disease 485 491	2 型糖尿病
+T32	Test 514 517	血尿酸
+T33	Disease 523 529	冠状动脉病变
+T34	Test 554 556	尿酸
+T35	Test 2422 2425	血尿酸
+T36	Disease 2442 2448	急性心肌梗死
+T37	Disease 2451 2456	心血管事件
+T38	Test 2473 2475	尿酸
+T39	Disease 2481 2487	2 型糖尿病
+T40	Disease 2518 2519;2520 2524	2 型糖尿病
+T41	Test 2538 2541	血尿酸
+T42	Disease 2545 2549	冠脉病变
+T43	Disease 2564 2567	糖尿病
+T44	Disease 2573 2577	冠脉病变
+T45	Disease 2585 2589	冠脉病变
+T46	Disease 2642 2647;2648 2650	急性冠脉综 合征
+T47	Test 2667 2671	冠脉造影
+T48	Test_Value 2679 2681	阴性
+T49	Drug 2778 2781	利尿剂
+T50	Drug 2782 2789	促尿酸排泄药物
+T51	Disease 2795 2797;2798 2800	心力 衰竭
+T52	Disease 2801 2803	感染
+T53	Disease 2804 2806	肿瘤
+T54	Disease 2807 2809	痛风
+T55	Disease 2816 2822	原发性肾脏病
+T56	Disease 2845 2849	高血压病
+T57	Disease 2850 2853	糖尿病
+T58	Test 2866 2868	身高
+T59	Test 2869 2871	体重
+T60	Test 2872 2876	体重指数
+T61	Test 2877 2880	BMI
+T62	Test 2883 2885	血压
+T63	Test 2923 2925	血压
+T64	Test 2926 2928	血糖
+T65	Test 2929 2931	血脂
+T66	Disease 2948 2951	糖尿病
+T67	Anatomy 2994 2997	静脉血
+T68	Test 2999 3003	生化指标
+T69	Disease 3031 3034	糖尿病
+T70	Test 3051 3055	空腹血糖
+T71	Test 3056 3059	FPG
+T72	Test 3061 3067;3068 3070	餐后 2 h 血糖
+T73	Test 3071 3075	2hPG
+T74	Test 3098 3101	胰岛素
+T75	Test 3168 3171	FPG
+T76	Test 3173 3178	空腹胰岛素
+T77	Test 3179 3183	FINS
+T78	Test 3190 3204	稳态模型评估的胰岛素抵抗指数
+T79	Test 3205 3212	HOMA-IR
+T80	Test 3215 3218	FPG
+T81	Test 3219 3223	FINS
+T82	Disease 3237 3243	2 型糖尿病
+T83	Disease 3253 3256	糖尿病
+T84	Test 3282 3286;3287 3292	口服葡萄 糖耐量试验
+T85	Test 3293 3297	OGTT
+T86	Test 3308 3310	血糖
+T87	Test 3332 3335	FPG
+T88	Test_Value 3335 3349	≥7. 0 mmol / L
+T89	Test 3356 3360	2hPG
+T90	Test 3379 3387	谷氨酸脱羧酶抗体
+T91	Test 3389 3393	GADA
+T92	Test 3395 3401	胰岛细胞抗体
+T93	Disease 3416 3417;3418 3422	1 型糖尿病
+T94	Test 3427 3429	血糖
+T95	Test_Value 3429 3431	正常
+T96	Test 3437 3440	FPG
+T97	Test_Value 3441 3455	<5. 6 mmol / L
+T98	Test 3458 3462	2hPG
+T99	Test_Value 3462 3476	<7. 8 mmol / L
+T100	Disease 3478 3481	糖尿病
+T101	Disease 3482 3489	自身免疫性疾病
+T102	Disease 3498 3501	高血压
+T103	Anatomy 3551 3557	右上臂肱动脉
+T104	Test 3559 3562	收缩压
+T105	Test_Value 3562 3571	≥140 mmHg
+T106	Test 3595 3598	舒张压
+T107	Test_Value 3598 3606	≥90 mmHg
+T108	Disease 3611 3613;3614 3615	高血 压
+T109	Test 3623 3625	血压
+T110	Disease 3647 3653;3654 3655	急性冠脉综合 征
+T111	Test 3656 3660	冠脉造影
+T112	Disease 3677 3678;3679 3685	急 性冠脉综合征
+T113	Test 3699 3702;3703 3706	冠脉造 影检查
+T114	Test 3708 3712	冠脉造影
+T115	Disease 3734 3740	冠状动脉病变
+T116	Anatomy 3748 3751	左主干
+T117	Disease 3827 3833	冠状动脉病变
+T118	Test 3840 3846	冠脉狭窄指数
+T119	Test 3872 3875	CSI
+T120	Test_Value 3933 3937	>75%
+T121	Test 3964 3974	冠状动脉病变狭窄指数
+T122	Test 4161 4162;4163 4164	血 糖
+T123	Disease 4215 4221	2 型糖尿病
+T124	Disease 4282 4288	2 型糖尿病
+T125	Disease 4339 4345	2 型糖尿病
+T126	Test 4408 4410	血糖
+T127	Disease 4415 4416;4417 4421	2 型糖尿病
+T128	Test 4480 4482	血糖
+T129	Test 4483 4485	血脂
+T130	Anatomy 4487 4490	心血管
+T131	Test 4591 4593	血糖
+T132	Test 4594 4596	血脂
+T133	Test 4733 4736	血尿酸
+T134	Test 4745 4748	血尿酸
+T135	Test 4775 4777	尿酸
+T136	Test 4783 4785	尿酸
+T137	Test 4804 4806	血糖
+T138	Disease 4813 4816	糖尿病
+T139	Test 4826 4829	腰臀比
+T140	Test 4843 4846	血尿酸
+T141	Test 4859 4861;4862 4864	总胆 固醇
+T142	Test 4866 4868	TC
+T143	Test 4882 4886	三酰甘油
+T144	Test 4889 4891	TG
+T145	Test 4906 4910	FINS
+T146	Test 4924 4931	HOMA-IR
+T147	Test_Value 4944 4947;4948 4949	明显升 高
+T148	Test 4950 4955	HDL-C
+T149	Test_Value 4965 4969	明显降低
+T150	Disease 4992 4995	糖尿病
+T151	Disease 5030 5036	冠状动脉病变
+T152	Test 5043 5045	尿酸
+T153	Test_Value 5045 5047	升高
+T154	Test 5052 5054	血糖
+T155	Disease 5061 5064	糖尿病
+T156	Test 5075 5078	CSI
+T157	Disease 5079 5085	冠状动脉病变
+T158	Disease 5138 5141	糖尿病
+T159	Disease 5162 5168	冠状动脉病变
+T160	Test 5339 5342	FPG
+T161	Test 5354 5356	TG
+T162	Test 5368 5370	TC
+T163	Test 5808 5813	HDL-C
+T164	Test 5825 5830	LDL-C
+T165	Test 5872 5876	FINS
+T166	Test 5886 5893	HOMA-IR
+T167	Test 6352 6354	血糖
+T168	Test 6490 6493	腰臀比
+T169	Test 6516 6519	收缩压
+T170	Test 6566 6569	舒张压
+T171	Test 6595 6598	FPG
+T172	Test 6599 6602;6603 6604	空腹血 糖
+T173	Test 6629 6631	TG
+T174	Test 6632 6636	三酰甘油
+T175	Test 6650 6652	TC
+T176	Test 6653 6657	总胆固醇
+T177	Test 6676 6681	HDL-C
+T178	Test 6682 6691	高密度脂蛋白胆固醇
+T179	Test 6730 6735	LDL-C
+T180	Test 6736 6745	低密度脂蛋白胆固醇
+T181	Test 6786 6789	血肌酐
+T182	Test 6812 6814	尿酸
+T183	Test 6831 6835	FINS
+T184	Test 6836 6841	空腹胰岛素
+T185	Test 6859 6866	HOMA-IR
+T186	Test 6874 6881	胰岛素抵抗指数
+T187	Disease 6944 6948	NFDR
+T188	Test 7004 7006	尿酸
+T189	Test_Value 7006 7008	升高
+T190	Disease 7013 7019	冠状动脉病变
+T191	Disease 7123 7129	冠状动脉病变
+T192	Test 7357 7363	冠脉狭窄指数
+T193	Disease 7444 7448	NFDR
+T194	Test 7504 7507	血尿酸
+T195	Disease 7516 7519	糖尿病
+T196	Drug 7534 7537	CSI
+T197	Disease 7542 7546	冠脉病变
+T198	Disease 7547 7548;7549 7552	心 脏疾病
+T199	Test 7582 7585	血尿酸
+T200	Test 7590 7592	血糖
+T201	Disease 7600 7606	冠状动脉病变
+T202	Test 7661 7664	血尿酸
+T203	Disease 7680 7683	糖尿病
+T204	Disease 7686 7692	冠状动脉病变
+T205	Disease 7719 7725	心血管并发症
+T206	Disease 7752 7758	2 型糖尿病
+T207	Disease 7762 7765	糖尿病
+T208	Disease 7777 7782	糖代谢异常
+T209	Test 7787 7791	胰岛功能
+T210	Disease 7796 7799;7800 7803	高胰岛 素血症
+T211	Disease 7804 7809	胰岛素抵抗
+T212	Test 7823 7825	血糖
+T213	Test 7857 7859	尿酸
+T214	Disease 7861 7867	冠状动脉病变
+T215	Test 7881 7883	血糖
+T216	Disease 7886 7889	糖尿病
+T217	Test 7901 7903	尿酸
+T218	Test 7904 7908	FINS
+T219	Test 7911 7918	HOMA-IR
+T220	Test_Value 7920 7924	明显升高
+T221	Test 7936 7943	HOMA-IR
+T222	Test 7986 7988	尿酸
+T223	Test 8017 8020	血尿酸
+T224	Test_Value 8022 8024	升高
+T225	Anatomy 8028 8030	胰岛
+T226	Reason 8035 8043	胰岛素敏感性降低
+T227	Test 8044 8047	糖耐量
+T228	Test_Value 8047 8049	降低
+T229	Test 8070 8073	血尿酸
+T230	Disease 8077 8082	胰岛素抵抗
+T231	Disease 8088 8094	2 型糖尿病
+T232	Disease 8129 8133;8134 8136	2 型糖 尿病
+T233	Test 8147 8150	BMI
+T234	Reason 8157 8160;8161 8164	体力活 动水平
+T235	Disease 8165 8168	高血压
+T236	Test 8169 8171	TC
+T237	Test 8172 8174	TG
+T238	Test 8183 8185	尿酸
+T239	Disease 8187 8190	糖尿病
+T240	Test 8211 8214	血尿酸
+T241	Anatomy 8219 8229	单核细胞趋化蛋白 1
+T242	Test 8230 8235	MCP-1
+T243	Test 8241 8246	MCP-1
+T244	Anatomy 8248 8252	脂肪细胞
+T245	Test 8272 8274;8275 8276	血尿 酸
+T246	Test 8279 8282	脂联素
+T247	Anatomy 8292 8296	脂肪细胞
+T248	Drug 8300 8306	胰岛素增敏剂
+T249	Test 8319 8322	血尿酸
+T250	Anatomy 8327 8331	脂肪细胞
+T251	Reason 8349 8354	胰岛素抵抗
+T252	Test 8362 8365	血尿酸
+T253	Test 8380 8384	一氧化氮
+T254	Anatomy 8389 8392	骨骼肌
+T255	Test 8408 8410	尿酸
+T256	Anatomy 8421 8423	胰腺
+T257	Anatomy 8426 8427;8428 8434	胰 岛 β 细胞
+T258	Disease 8441 8446	糖代谢紊乱
+T259	Test 8463 8465	血糖
+T260	Disease 8468 8471	糖尿病
+T261	Disease 8479 8483;8484 8486	冠状动脉 病变
+T262	Test 8490 8493	CSI
+T263	Test 8503 8510;8511 8512	冠状动脉病变程 度
+T264	Reason 8534 8535;8536 8540	胰 岛素抵抗
+T265	Disease 8553 8556	糖尿病
+T266	Reason 8559 8560;8561 8574	胰 岛素抵抗相关的高胰岛素血症
+T267	Disease 8575 8580	心血管疾病
+T268	Disease 8598 8604	2 型糖尿病
+T269	Disease 8618 8624	冠状动脉病变
+T270	Disease 8651 8654	糖尿病
+T271	Test 8666 8673	胰岛素抵抗程度
+T272	Disease 8678 8681	糖尿病
+T273	Reason 8682 8685;8686 8688	慢性高 血糖
+T274	Disease 8689 8694	胰岛素抵抗
+T275	Disease 8695 8700	脂代谢紊乱
+T276	Reason 8714 8720	慢性炎症反应
+T277	Reason 8721 8725	氧化应激
+T278	Anatomy 8729 8733	动脉内膜
+T279	Disease 8738 8744	冠状动脉病变
+T280	Disease 8763 8766	糖尿病
+T281	Test 8793 8795	血糖
+T282	Disease 8802 8805	糖尿病
+T283	Test 8813 8815	尿酸
+T284	Disease 8816 8822	冠状动脉病变
+T285	Drug 8823 8826	CSI
+T286	Reason 8838 8847	基线血尿酸水平升高
+T287	Disease 8848 8853	心血管疾病
+T288	Test 8880 8882;8883 8884	血尿 酸
+T289	Drug 8890 8894	抗氧化剂
+T290	Drug 8896 8900	促氧化剂
+T291	Test_Value 8911 8913	较低
+T292	Test 8915 8917	尿酸
+T293	Test 8923 8925	尿酸
+T294	Test 8963 8965	尿酸
+T295	Anatomy 8967 8973	髓过氧化物酶
+T296	Anatomy 8974 8977	MPO
+T297	Test 9009 9011	尿酸
+T298	Test 9018 9023	MCP-1
+T299	Anatomy 9031 9035	脂肪细胞
+T300	Test 9054 9056	尿酸
+T301	Test 9059 9062	脂联素
+T302	Anatomy 9072 9076	脂肪细胞
+T303	Test 9088 9091	血尿酸
+T304	Anatomy 9096 9100	脂肪细胞
+T305	Level 9109 9111	低度
+T306	Disease 9111 9115	炎症反应
+T307	Test 9120 9121;9122 9123	尿 酸
+T308	Anatomy 9134 9137	血管壁
+T309	Anatomy 9151 9156	中性粒细胞
+T310	Test 9189 9191	血糖
+T311	Disease 9194 9197	糖尿病
+T312	Test 9207 9209	TC
+T313	Test 9210 9212	TG
+T314	Test 9214 9217	腰臀比
+T315	Test_Value 9218 9222	明显升高
+T316	Test 9223 9228	HDL-C
+T317	Test_Value 9229 9232;9233 9234	明显降 低
+T318	Test 9243 9245	TC
+T319	Test 9270 9272	TG
+T320	Test 9297 9300	腰臀比
+T321	Test 9327 9332	HDL-C
+T322	Test 9359 9361	尿酸
+T323	Test 9395 9398	腰臀比
+T324	Disease 9402 9406	腹型肥胖
+T325	Disease 9414 9418	腹型肥胖
+T326	Disease 9424 9429	胰岛素抵抗
+T327	Reason 9434 9439	胰岛素抵抗
+T328	Disease 9442 9446	血脂紊乱
+T329	Test 9456 9458	尿酸
+T330	Test_Value 9458 9460	升高
+T331	Disease 9461 9467	冠状动脉病变
+T332	Disease 9483 9489	2 型糖尿病
+T333	Test 9509 9511	尿酸
+T334	Test 9522 9524	尿酸
+T335	Anatomy 9528 9534	血管内皮细胞
+T336	Test 9543 9544;9545 9550	胰 岛素敏感性
+T337	Test 9551 9557	胰岛细胞功能
+T338	Anatomy 9559 9563	脂肪细胞
+T339	Test 9572 9574	血糖
+T340	Disease 9583 9589	冠状动脉病变
+T341	Disease 9597 9603	冠状动脉病变
+T342	Disease 9606 9609	糖尿病
+T343	Test 9621 9624	血尿酸
+T344	Disease 9661 9666;9667 9668	冠状动脉病 变

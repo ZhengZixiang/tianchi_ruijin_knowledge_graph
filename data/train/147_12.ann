@@ -1,0 +1,427 @@
+T1	Test 4619 4622	TSH
+T2	Symptom 446 450	剧烈头痛
+T3	Symptom 460 464	视力剧降
+T4	Symptom 475 479	眼睑下垂
+T5	Symptom 480 482	复视
+T6	Symptom 385 387	头痛
+T7	Symptom 397 401	视力下降
+T8	Symptom 411 413	呕吐
+T9	Symptom 424 426	头昏
+T10	Disease 3249 3253	垂体卒中
+T11	Disease 3233 3236	垂体瘤
+T12	Disease 82 86	垂体卒中
+T13	Test 214 217	MRI
+T14	Test 231 234	MRI
+T15	Test 261 264	MRI
+T16	Test 295 298	MRI
+T17	Test 353 356	MRI
+T18	Anatomy 710 716	垂体-靶腺轴
+T19	Disease 756 758	PA
+T20	Disease 766 768	PA
+T21	Disease 688 692	无功能瘤
+T22	Disease 795 798	功能瘤
+T23	Disease 3399 3402	垂体瘤
+T24	Disease 3412 3414	PA
+T25	Disease 3432 3434	PA
+T26	Disease 3462 3464	PA
+T27	Disease 3551 3553	PA
+T28	Disease 3613 3615	PA
+T29	Disease 3681 3684	垂体瘤
+T30	Disease 3724 3733	Rathke 囊肿
+T31	Disease 3740 3741;3742 3746	嗜 酸细胞瘤
+T32	Disease 3747 3751	泌乳素瘤
+T33	Disease 3759 3763	颅咽管瘤
+T34	Symptom 3833 3835	梗死
+T35	Test 3840 3843	MRI
+T36	Operation 3793 3797	经蝶手术
+T37	Operation 3802 3806	经颅手术
+T38	Disease 3939 3941	PA
+T39	Symptom 3969 3973	视力下降
+T40	Symptom 3974 3978	眼睑下垂
+T41	Test 4006 4009	MRI
+T42	Anatomy 4076 4079	红细胞
+T43	Disease 4113 4116;4117 4131	促肾上 腺皮质激素(ACTH)微腺瘤
+T44	Test 4156 4159	MRI
+T45	Test 4221 4224	MRI
+T46	Test 4251 4254	MRI
+T47	Test 4295 4298	MRI
+T48	Test 4344 4347	MRI
+T49	Test 4371 4374	MRI
+T50	Test 4399 4402	MRI
+T51	Disease 4421 4425	GH 瘤
+T52	Test 4499 4502	MRI
+T53	Anatomy 4537 4539	垂体
+T54	Drug 4572 4576	皮质激素
+T55	Test 4583 4585;4586 4590	血浆 ACTH
+T56	Test 4592 4597	游离皮质醇
+T57	Test 4624 4629	甲状腺激素
+T58	Test 4659 4661	睾酮
+T59	Test 4662 4665	雌二醇
+T60	Test 4666 4668	孕酮
+T61	Test 4717 4720	尿比重
+T62	Test 4722 4726	血电解质
+T63	Test 4732 4735	MRI
+T64	Anatomy 4741 4743	垂体
+T65	Symptom 4747 4749	出血
+T66	Symptom 5009 5011	头痛
+T67	Symptom 5023 5027	视力下降
+T68	Symptom 5040 5042	呕吐
+T69	Symptom 5056 5058	头昏
+T70	Symptom 5077 5081	剧烈头痛
+T71	Symptom 5091 5095	视力剧降
+T72	Symptom 5107 5111	眼睑下垂
+T73	Symptom 5112 5114	复视
+T74	Disease 5229 5233	GH 瘤
+T75	Symptom 5278 5282	视野缺损
+T76	Symptom 5292 5299	多灶性垂体出血
+T77	Symptom 5379 5383	视力模糊
+T78	Test 5394 5397	MRI
+T79	Symptom 5459 5461	头痛
+T80	Symptom 5440 5444	视力下降
+T81	Disease 5478 5483	PRL 瘤
+T82	Symptom 7570 7572	闭经
+T83	Symptom 7574 7576	溢乳
+T84	Disease 7583 7588	PRL 瘤
+T85	Symptom 7599 7601	头痛
+T86	Symptom 7605 7607;7608 7610	乳房 肥大
+T87	Symptom 7611 7613	泌乳
+T88	Test_Value 7621 7637	108 ~ 653 μg / L
+T89	Disease 7645 7649	GH 瘤
+T90	Symptom 7653 7658	肢端肥大症
+T91	Test 7662 7664	GH
+T92	Test_Value 7671 7683	31. 2 μg / L
+T93	Test_Value 7685 7695	>50 μg / L
+T94	Disease 7703 7708	FSH 瘤
+T95	Test_Value 7719 7732	180. 1 IU / L
+T96	Symptom 7736 7740	性欲下降
+T97	Symptom 7742 7746	视物模糊
+T98	Disease 7753 7759	ACTH 瘤
+T99	Disease 7763 7766	库欣病
+T100	Disease 7773 7776;7777 7778	PRL 瘤
+T101	Disease 7787 7796	Rathke 囊肿
+T102	Disease 7803 7812	Rathke 囊肿
+T103	Disease 7815 7817;7818 7824	无功 能嗜酸细胞瘤
+T104	Symptom 7841 7845	视力受损
+T105	Disease 7867 7871	GH 瘤
+T106	Disease 7873 7881	糖尿病酮症酸中毒
+T107	Disease 7887 7892	PRL 瘤
+T108	Test_Value 7906 7919	168. 2 μg / L
+T109	Test_Value 7921 7932	>200 μg / L
+T110	Disease 7938 7942	GH 瘤
+T111	Anatomy 11503 11505	垂体
+T112	Disease 11445 11447	PA
+T113	Disease 11470 11472	PA
+T114	Disease 11392 11394	PA
+T115	Disease 11408 11410	PA
+T116	Disease 11433 11435	PA
+T117	Disease 11322 11325	垂体瘤
+T118	Disease 11297 11299	PA
+T119	Reason 11328 11330	大小
+T120	Reason 11331 11341	对周边形成的基础压力
+T121	Reason 11343 11347	持续时间
+T122	Reason 11348 11354	肿瘤生长速度
+T123	Reason 11357 11362	出血的速度
+T124	Reason 11363 11367	总出血量
+T125	Reason 11368 11371;11372 11378	局部软 组织的耐受力
+T126	Disease 11232 11234	卒中
+T127	Disease 11132 11134	PA
+T128	Disease 11156 11159	功能瘤
+T129	Disease 11164 11168	非功能瘤
+T130	Anatomy 11223 11225	垂体
+T131	Disease 10852 10854	PA
+T132	Symptom 10865 10867	头痛
+T133	Symptom 10875 10877	呕吐
+T134	Symptom 10878 10884	急性视野缺损
+T135	Symptom 10885 10892	海绵窦神经受损
+T136	Symptom 10932 10934	头痛
+T137	Disease 10910 10912	PA
+T138	Symptom 10951 10956	视神经受损
+T139	Disease 11072 11074	PA
+T140	Disease 11091 11093	PA
+T141	Disease 10100 10102	PA
+T142	Disease 10132 10134	PA
+T143	Disease 10165 10167	PA
+T144	Operation 10175 10176;10177 10179	减 压术
+T145	Disease 10197 10200	垂体瘤
+T146	Disease 10211 10213	PA
+T147	Disease 10321 10323	PA
+T148	Disease 10335 10338	垂体瘤
+T149	Disease 10349 10351	PA
+T150	Disease 10363 10366	垂体瘤
+T151	Disease 10382 10384	PA
+T152	Disease 10413 10415	PA
+T153	Disease 10460 10463	垂体瘤
+T154	Disease 10596 10598	PA
+T155	Disease 10621 10624	垂体瘤
+T156	Disease 10634 10636	PA
+T157	Disease 10656 10658	PA
+T158	Disease 10681 10683	PA
+T159	Disease 10709 10711	PA
+T160	Test_Value 7952 7965	>34. 8 μg / L
+T161	Disease 7973 7978	PRL 瘤
+T162	Symptom 7988 7990	闭经
+T163	Symptom 7990 7992	溢乳
+T164	Symptom 7994 7998	视力下降
+T165	Disease 8005 8008	NFA
+T166	Symptom 8011 8013	闭经
+T167	Symptom 8013 8014;8015 8016	溢 乳
+T168	Test 8017 8020	PRL
+T169	Test_Value 8023 8036	58. 42 μg / L
+T170	Disease 8049 8058	Rathke 囊肿
+T171	Disease 8060 8062;8063 8067	生长 发育迟缓
+T172	Symptom 8090 8092	头痛
+T173	Symptom 8097 8101	视力下降
+T174	Symptom 8126 8127;8128 8129	闭 经
+T175	Symptom 8138 8140	泌乳
+T176	Disease 8145 8148	NFA
+T177	Symptom 8149 8151	溢乳
+T178	Test 8152 8155	PRL
+T179	Test_Value 8158 8171	45. 50 μg / L
+T180	Disease 8179 8184	PRL 瘤
+T181	Test 8185 8188	PRL
+T182	Test_Value 8188 8199	>200 μg / L
+T183	Symptom 8223 8225	喜睡
+T184	Symptom 8229 8233	毛发脱落
+T185	Disease 8238 8241	垂体瘤
+T186	Symptom 8266 8268	头痛
+T187	Symptom 8273 8277	视力下降
+T188	Symptom 8301 8305	性欲下降
+T189	Symptom 8306 8308	不育
+T190	Symptom 8314 8316	停经
+T191	Anatomy 8331 8334	硬脑膜
+T192	Anatomy 8359 8364	海绵窦神经
+T193	Disease 8505 8508	功能瘤
+T194	Disease 8528 8532	无功能瘤
+T195	Disease 8687 8690	尿崩症
+T196	Disease 8695 8699	低钠血症
+T197	Test 8704 8707	MRI
+T198	Disease 8722 8728	ACTH 瘤
+T199	Disease 3254 3256	PA
+T200	Disease 3322 3323;3324 3325	卒 中
+T201	Duration 4289 4294	2 周以上
+T202	Duration 4332 4341;4342 4343	2 周或 2 周以 内
+T203	Test 5285 5288	MRI
+T204	Duration 5390 5393	2 天
+T205	Duration 5282 5284	半年
+T206	Test 8774 8777	MRI
+T207	Disease 8858 8860	PA
+T208	Disease 8848 8850	PA
+T209	Anatomy 8863 8865	垂体
+T210	Disease 8907 8910	垂体瘤
+T211	Disease 8915 8918	功能瘤
+T212	Disease 8919 8922	NFA
+T213	Disease 8926 8935	Rathke 囊肿
+T214	Disease 8936 8938;8939 8941	颅咽 管瘤
+T215	Disease 8951 8954	垂体瘤
+T216	Disease 8975 8977	PA
+T217	Disease 8999 9001	PA
+T218	Disease 9033 9035	PA
+T219	Disease 9044 9046	PA
+T220	Symptom 9122 9127	内分泌危象
+T221	Disease 9157 9160	垂体瘤
+T222	Disease 9178 9180	PA
+T223	Test 6438 6441	FSH
+T224	Test 9262 9265	MRI
+T225	Symptom 9304 9306	出血
+T226	Test 9308 9311	MRI
+T227	Disease 9349 9351	PA
+T228	Anatomy 9366 9369	海绵窦
+T229	Anatomy 9374 9377	视交叉
+T230	Disease 9411 9414	垂体瘤
+T231	Disease 9445 9447	PA
+T232	Symptom 9474 9476	出血
+T233	Anatomy 9520 9522	垂体
+T234	Test 9565 9568	MRI
+T235	Test 9595 9598	MRI
+T236	Disease 9603 9605	PA
+T237	Test 9622 9625	MRI
+T238	Disease 9630 9632	PA
+T239	Disease 9665 9669	GH 瘤
+T240	Disease 9672 9675;9676 9678	酮症酸 中毒
+T241	Test 9684 9687	MRI
+T242	Anatomy 9720 9722	垂体
+T243	Disease 9763 9766	垂体瘤
+T244	Anatomy 9781 9783	垂体
+T245	Disease 9823 9825	PA
+T246	Disease 9855 9857	PA
+T247	Disease 9912 9914	PA
+T248	Disease 9971 9973	PA
+T249	Disease 10045 10047	PA
+T250	Duration 10522 10528	2 周或以上
+T251	Disease 165 169	垂体卒中
+T252	Disease 190 192	PA
+T253	Test_Value 218 220	阴性
+T254	Test_Value 265 267	阳性
+T255	Test_Value 236 238	阳性
+T256	Disease 3336 3338	卒中
+T257	Test_Value 4260 4262	阳性
+T258	Test_Value 4225 4227	阴性
+T259	Test_Value 4305 4307	阳性
+T260	Test 4349 4353	术后病理
+T261	Test_Value 4353 4355	阳性
+T262	Test_Value 4403 4405	阳性
+T263	Test_Value 4506 4508	阳性
+T264	Test 4803 4806	MRI
+T265	Test_Value 5398 5400	阳性
+T266	Test_Value 9312 9314	阴性
+T267	Disease 4386 4388	卒中
+T268	Symptom 6738 6740	头痛
+T269	Symptom 6741 6743	头昏
+T270	Symptom 6744 6748	视力下降
+T271	Symptom 6749 6751	乏力
+T272	Symptom 6752 6756	行走缓慢
+T273	Anatomy 6759 6762	海绵窦
+T274	Duration 6770 6778	1 天至 8 周
+T275	Test 6782 6785	MRI
+T276	Disease 6814 6816	卒中
+T277	Disease 6832 6834	卒中
+T278	Disease 6872 6876	GH 瘤
+T279	Disease 6878 6886	糖尿病酮症酸中毒
+T280	Operation 10309 10313	手术减压
+T281	Disease 7451 7454	功能瘤
+T282	Disease 7464 7470	ACTH 瘤
+T283	Disease 7487 7492	PRL 瘤
+T284	Disease 7498 7502	GH 瘤
+T285	Disease 7508 7511	PRL
+T286	Disease 7518 7522	GH 瘤
+T287	Disease 7528 7533	PRL 瘤
+T288	Disease 7539 7543	GH 瘤
+T289	Duration 8479 8483	93 周
+T290	Duration 8493 8498	200 周
+T291	Disease 8794 8796	卒中
+T292	Disease 8799 8801	卒中
+T293	Disease 8872 8874	出血
+T294	Symptom 9030 9032	梗死
+T295	Symptom 9108 9110	梗死
+T296	Symptom 9162 9163;9164 9168	缺 血型梗塞
+T297	Symptom 9710 9712	出血
+T298	Disease 3280 3282	死亡
+T299	Test 4300 4304	术后病理
+T300	Test_Value 5307 5309	阳性
+T301	Test_Value 6786 6788	阴性
+T302	Disease 10243 10248	出血性压迫
+T303	Test 227 229	病理
+T304	Test 202 204	病理
+T305	Test 291 293	病理
+T306	Test 256 258	病理
+T307	Test_Value 299 301	阳性
+T308	Test_Value 3850 3852	阴性
+T309	Anatomy 4059 4066	陈旧性血性液体
+T310	Test 4083 4085;4086 4088	术后 病理
+T311	Symptom 4166 4170	占位症状
+T312	Test 4208 4210	病理
+T313	Test_Value 4375 4376;4377 4378	阴 性
+T314	Symptom 4487 4493	局部压迫症状
+T315	Symptom 5000 5006	占位效应症状
+T316	Symptom 5433 5437	占位症状
+T317	Symptom 5483 5485	少经
+T318	Symptom 5405 5411	血样液体溢出
+T319	Duration 7982 7986	9 个月
+T320	Level 8653 8655	轻型
+T321	Level 8657 8659	重型
+T322	Level 8525 8527	重型
+T323	Level 8503 8505	轻型
+T324	Test 9300 9302	病理
+T325	Level 9359 9361	重型
+T326	Level 9378 9381	较重型
+T327	Level 9392 9396	亚急性型
+T328	Level 9397 9398;9399 9402	亚 临床型
+T329	Test_Value 9599 9601	阴性
+T330	Test_Value 9626 9628	阳性
+T331	Test_Value 9688 9690	阳性
+T332	Test_Value 9702 9704	阴性
+T333	Symptom 9697 9701	占位症状
+T334	Level 9926 9929	无症状
+T335	Level 9930 9932;9933 9936	内分 泌病变
+T336	Level 11154 11156	轻型
+T337	Level 11162 11164	重型
+T338	Symptom 11515 11520	内分泌症状
+T339	Reason 3238 3240	出血
+T340	Reason 3244 3246	梗死
+T341	Disease 3502 3505	垂体瘤
+T342	Disease 208 212	垂体出血
+T343	Disease 661 667	功能性垂体瘤
+T344	Disease 3381 3383	PA
+T345	Disease 3491 3493	PA
+T346	Treatment 3684 3689	伽玛刀治疗
+T347	Disease 3701 3703;3704 3708	功能 性垂体瘤
+T348	Symptom 3825 3830	陈旧性出血
+T349	Treatment 3891 3896	伽玛刀治疗
+T350	Disease 3919 3923	无功能瘤
+T351	Disease 3924 3927	NFA
+T352	Symptom 3966 3968	头痛
+T353	Disease 4215 4218	垂体瘤
+T354	Symptom 4218 4220	出血
+T355	Disease 4231 4233	卒中
+T356	Disease 271 273	卒中
+T357	Disease 4243 4244;4245 4246	卒 中
+T358	Disease 4272 4274	卒中
+T359	Disease 4316 4318	卒中
+T360	Disease 4515 4517	卒中
+T361	Test 4612 4617	促甲状腺素
+T362	Test 4642 4647	促性腺激素
+T363	Test 4655 4657	LH
+T364	Test 4649 4652	FSH
+T365	Test 4670 4674	生长激素
+T366	Test 4675 4677	GH
+T367	Test 4679 4682	催乳素
+T368	Test 4684 4687	PRL
+T369	Disease 5069 5071	卒中
+T370	Disease 5324 5329	无功能腺瘤
+T371	Symptom 5375 5379	突发头痛
+T372	Symptom 5383 5389	右侧眼睑下垂
+T373	Test 7614 7617	PRL
+T374	Test 7709 7712	FSH
+T375	Test 7896 7899	PRL
+T376	Disease 10776 10780	垂体危象
+T377	Symptom 10971 10978	海绵窦神经受损
+T378	Test 7946 7948	GH
+T379	Symptom 8208 8213	性功能减退
+T380	Symptom 8218 8220	怕冷
+T381	Symptom 8220 8222	乏力
+T382	Anatomy 8594 8600	垂体甲状腺轴
+T383	Anatomy 8601 8604	PTA
+T384	Anatomy 8619 8624;8625 8626	垂体肾上腺 轴
+T385	Anatomy 8627 8630	PAA
+T386	Anatomy 8632 8637	垂体性腺轴
+T387	Anatomy 8638 8641	PGA
+T388	Disease 8729 8732	微腺瘤
+T389	Disease 303 305	卒中
+T390	Disease 244 246	卒中
+T391	Duration 276 281	2 周以上
+T392	Duration 307 314;315 316	小于或等于 2 周
+T393	Disease 438 440	卒中
+T394	Disease 3994 3996	卒中
+T395	Disease 4408 4410	卒中
+T396	Disease 4426 4434	糖尿病酮症酸中毒
+T397	Disease 4453 4455	卒中
+T398	Disease 4467 4469	卒中
+T399	Disease 7472 7477	FSH 瘤
+T400	Disease 8762 8765	大腺瘤
+T401	Disease 8866 8871	缺血性梗死
+T402	Disease 8878 8883	出血性梗死
+T403	Anatomy 8892 8894	垂体
+T404	Anatomy 8897 8899	垂体
+T405	Disease 8954 8956	梗死
+T406	Disease 8957 8959	出血
+T407	Disease 8979 8980;8981 8983	垂 体瘤
+T408	Disease 8983 8985	出血
+T409	Disease 8988 8993	出血性梗死
+T410	Disease 9188 9194	出血性 PA
+T411	Disease 9210 9215	垂体瘤出血
+T412	Disease 9237 9242	垂体瘤出血
+T413	Disease 9274 9280	亚临床 PA
+T414	Disease 9315 9321	隐匿型 PA
+T415	Disease 9436 9438	腺瘤
+T416	Symptom 9485 9488;9489 9490	突发头 痛
+T417	Symptom 9502 9506	垂体出血
+T418	Disease 9550 9555	隐匿 PA
+T419	Disease 9637 9639	卒中
+T420	Disease 9730 9732	PA
+T421	Disease 9752 9754	PA
+T422	Level 9937 9942	海绵窦受损
+T423	Level 9943 9949	急性视力受损
+T424	Level 9950 9962;9963 9964	格拉斯哥评分(GCS)下 降
+T425	Symptom 4092 4098	垂体组织出血
+T426	Test 4258 4260	病理
+T427	Anatomy 8344 8347	视交叉

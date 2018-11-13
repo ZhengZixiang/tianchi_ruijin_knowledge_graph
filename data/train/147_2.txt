@@ -1,0 +1,386 @@
+THE SEVENTH EDITORIAL BOARD OF
+CHINESE JOURNAL OF ENDOCRINOLOGY AND METABOLISM
+(按姓氏拼音为序)
+通讯编委  Corresponding Referees
+蔡晓凌(北京)    曹亚南(上海)    常宝成(天津)    陈燕铭(广东)    陈燕燕(北京)
+程  飞(北京)    谷伟军(北京)    顾燕云(上海)    何兰杰(宁夏)    侯为开(山东)
+胡  承(上海)    胡耀敏(上海)    邝  建(广东)    李燕虹(广东)    刘福平(北京)
+刘彦君(北京)    陆洁莉(上海)    马华梅(广东)    茅江峰(广东)    乔  洁(上海)
+秦映芬(广西)    任  萌(广东)    任  艳(四川)    苏  恒(云南)    孙首悦(上海)
+汪启迪(上海)    王  鸥(北京)    王爱红(北京)    王海宁(北京)    王育璠(上海)
+温俊平(福建)    吴胜利(新疆)    徐向进(福建)    许  雯(广东)    严孙杰(福建)
+杨  静(山西)    杨丽辉(西藏)    杨叶虹(上海)    叶红英(上海)    袁凌青(湖南)
+曾天舒(湖北)    张  梅(江苏)    张  巧(贵州)    张  松(贵州)    张洪梅(上海)
+张少玲(广东)    张志国(上海)    周  嘉(广西)    周  健(上海)    周嘉强(浙江)
+临床研究
+基金项目:国家自然科学基金面上项目(81370965);江苏省自然科学基金项目(BK2009208);江苏省卫生厅国际交
+流支撑计划及面上科技项目(H201247)
+新诊断 2 型糖尿病患者血清催产素水平
+与胰岛素抵抗、C 反应蛋白的相关性
+袁国跃  钱唯韵  王苏  蒋丹  杨奇超  刘媛馨  俞淑琴  胡浩  孙文君  朱天一
+汤冰倩
+[摘要]   目的  观察肥胖及 2 型糖尿病患者体内血清催产素及超敏 C 反应蛋白(hs-CRP)水平,探讨
+催产素与 hs-CRP、糖脂代谢、胰岛素抵抗及胰岛 β 细胞功能的关系。 方法 选取研究对象 176 例,其中新
+诊断 2 型糖尿病(T2DM)患者 88 例、正常糖耐量(NGT)个体 88 例,以体重指数 25 kg / m2为切点将研究对
+象分为正常体重(NW)亚组和肥胖(OB)亚组。 所有研究对象均行口服 75 g 葡萄糖耐量试验(OGTT),检测
+HBA1C、空腹血糖、餐后 2 h 血糖、空腹胰岛素、餐后 2h 胰岛素及血脂水平,并以稳态模型评估的胰岛素抵抗
+指数(HOMA-IR)及胰岛 β 细胞功能(HOMA-β)。 采用化学发光法检测 hs-CRP 水平,采用酶免法检测血清
+催产素水平。 结果 T2DM 组血清催产素水平显著低于 NGT 组(P<0. 01),T2DM 组血清 hs-CRP 水平显著
+高于 NGT 组(P<0. 01)。 在 T2DM 组和 NGT 组内,OB 亚组催产素水平均低于对应的 NW 亚组[7. 16
+(6. 45 ~ 8. 82)对 7. 98(7. 03 ~ 9. 17) ng / L;9. 23(8. 16 ~ 10. 36)对 9. 86(8. 77 ~ 12. 06) ng / L, P<0. 05];OB
+亚组 hs-CRP 水平均高于对应的 NW 亚组[0. 99(0. 25 ~ 1. 97)对 0. 54(0. 19 ~ 0. 91) mg / L;3. 47(1. 63 ~
+6. 20)对 1. 65(0. 81 ~ 3. 81) mg / L, P<0. 05]。 相关性分析显示血清催产素与 hs-CRP、体重指数、腰围、腰臀
+比、HBA1C、空腹血糖、餐后 2 h 血糖、空腹胰岛素、餐后 2 h 胰岛素、总胆固醇、甘油三酯、LDL-C、HOMA-IR
+呈负相关(P<0. 05 或 P<0. 01),与 HOMA-β 呈显著正相关(P<0. 01)。 根据 hs-CRP 水平将研究对象按三
+分位分组,随着 hs-CRP 水平升高,催产素水平显著降低(P<0. 05 或 P<0. 01)。 结论 血清催产素水平在
+肥胖及 2 型糖尿病患者体内降低,其与炎症程度、体重指数、糖脂代谢紊乱、胰岛素抵抗及胰岛 β 细胞功能
+密切相关,提示催产素可能参与肥胖和 2 型糖尿病的发生发展。
+[关键词]   催产素; 肥胖症; 糖尿病, 2 型; 炎症
+Association of oxytocin with insulin resistance and highly sensitive C-reactive protein in patients with newly
+diagnosed type 2 diabetes Yuan Guoyue, Qian Weiyun, Wang Su, Jiang Dan, Yang Qichao, Liu Yuanxin, Yu
+Shuqin, Hu hao, Sun Wenjun, Zhu Tianyi, Tang Bingqian. Department of Endocrinology, Affiliated Hospital of
+Jiangsu University, Zhenjiang 212001, China
+[Abstract]  Objective  To detect serum oxytocin and highly sensitive C-reactive protein (hs-CRP) levels in
+obese and type 2 diabetes mellitus(T2DM) subjects and investigate the relationships between serum oxytocin levels
+and hs-CRP, glycolipid metabolism, insulin resistance and pancreas β cell function. Methods A total of 176
+subjects were enrolled in the study, including 88 patients with newly-diagnosed type 2 diabetes ( T2DM) and 88
+subjects with normal glucose tolerance(NGT). NGT and T2DM groups were further divided each into normal weight
+(NW) and obese(OB) subgroups. Obesity was defined as body mass index(BMI)≥25 kg / m2 according to the WHO-
+Western Pacific Region diagnostic criteria ( 2000). 75g oral glucose tolerance test ( OGTT) was performed in all
+subjects. Fasting plasma glucose ( FPG), 2 h postprandial plasma glucose (2hPG), fasting insulin ( FINS), 2h
+postprandial serum insulin(2hINS), HBA1C and lipids were also determined. Insulin resistance and pancreas β-cell
+function were determined by homeostasis model assessment ( HOMA-IR, HOMA-β). Highly sensitive C-reactive
+protein(hs-CRP) level was determined by chemiluminescence immunoassay and fasting serum oxytocin level was
+determined by ELISA. Results Serum oxytocin level was lower in T2DM group than that in NGT group(P<0. 01),
+while serum hs-CRP level was higher in T2DM group than that in NGT group(P<0. 01) . The level of serum oxytocin in
+subjects with obesity was also lower than that in subjects with NW in both NGT and T2DM groups [7. 16(6. 45-8. 82)
+vs 7. 98(7. 03-9. 17) ng / L and 9. 23(8. 16-10. 36) vs 9. 86(8. 77-12. 06) ng / L, P<0. 05] . The level of serum hs-
+CRP in subjects with obesity was higher than that in subjects with NW in both NGT and T2DM groups [0. 99(0. 25-
+1. 97) vs 0. 54(0. 19-0. 91) mg / L and 3. 47(1. 63-6. 20) vs 1. 65(0. 81-3. 81) mg / L, P<0. 05] . Serum oxytocin
+level was negatively correlated with hs-CRP, BMI, WC, WHR, HBA1C, FPG, 2hPG, FINS, 2hINS, total
+cholesterol, triglycerides, LDL-C and HOMA-IR, while was positively correlated with HOMA-β(P<0. 05) . Subjects
+within the upper serum hs-CRP tertile had lower level of oxytocin when compared to subjects in the middle or lower
+serum hs-CRP tertiles(P<0. 05 ) . Conclusion Serum oxytocin level was decreased in subjects with type 2 diabetes
+as well as with obesity. Serum oxytocin level was closely correlated with inflammation, glycolipid metabolism, insulin
+resistance, and pancreas β cell function. It may play an important role in the pathogenesis of obesity and T2DM.
+[Key words]  Oxytocin; Obesity; Diabetes mellitus, type 2; Inflammation
+(Chin J Endocrinol Metab, 2015, 31: 481-485)
+2 型糖尿病及肥胖如今被认为是一种慢性低度炎
+症性疾病,而炎症是胰岛素抵抗的基础[1]。 催产素
+(oxytocin)是下丘脑分泌的一种多肽激素,在妇女怀孕
+后期及哺乳期分泌旺盛,以促进子宫收缩及泌乳。 近
+年来的研究表明,催产素是一个多效能的激素,在能量
+平衡和抵抗炎症中也发挥着重要的作用[2]。 动物实
+验研究显示,给予催产素注射能有效逆转小鼠肥胖、胰
+岛素抵抗及炎症状态[3,4]。 细胞实验也证实,经催产
+素处理的成熟的 3T3-L1 脂肪细胞,脂代谢相关基因表
+达有所增加[5]。 以上研究结果表明,催产素与糖脂代
+谢、胰岛素抵抗与炎症反应之间存在密切联系。 然而
+国内外有关催产素和代谢功能、炎症因子的人群研究
+鲜见报道。 因此,本课题组首次观察了 2 型糖尿病、肥
+胖及正常人群血清催产素水平,发现其在肥胖及 2 型
+糖尿病人群中显著下降[6],这部分研究结果发表于
+2014 年 12 月《 J Clin Endocrinol Metab》。 本文进一步
+深入分析了催产素与炎症的相关性,从而探讨其在肥
+胖和 2 型糖尿病中的病理生理作用。
+对象和方法
+一、 对象
+选取研究对象共 176 例,其中男性 114 例,女性
+62 例,年龄 35 ~ 60 岁。 所有研究对象来自 2012 年 10
+月至 2013 年 11 月江苏大学附属医院内分泌代谢科的
+患者和体检中心的健康人群。 根据 1999 年世界卫生
+组织(WHO)的诊断标准,将研究对象分为正常糖耐量
+组(NGT 组)88 例,2 型糖尿病组(T2DM 组)88 例。 参
+照 2000 年 WHO 亚太地区成人肥胖标准[7],按体重指
+数 25 kg / m2将研究对象分为 4 个亚组,其中正常糖耐
+量正常体重亚组(NGT-NW 组)46 例,正常糖耐量肥胖
+亚组(NGT-OB 组)42 例,
+2 型糖尿病正常体重亚组(T2DM-NW 组)42 例,2
+型糖尿病肥胖亚组(T2DM-NW 组)46 例。 所有研究对
+象近期无抗精神病药、糖皮质激素、雌激素、避孕药等
+药物服用史及妊娠哺乳史,所有 2 型糖尿病患者均为
+门诊初诊且未接受过任何药物治疗者,包括降糖降脂
+降压治疗,除外糖尿病急性并发症、继发性肥胖、炎症
+性疾病及肝、肾疾病的患者。 本研究已获得江苏大学
+附属医院伦理委员会批准。
+二、 方法
+1. 人体测量学:由专人测定身高、体重、腰围、臀
+围及血压,计算体重指数及腰臀比。
+2. 研究对象于试验前晚禁食 10 h,次日行 75 g 口
+服葡萄糖耐量试验(OGTT),采静脉血测定血糖(葡萄
+糖氧化酶法)及胰岛素(化学发光法)。 采用高压液相
+层析法测定 HBA1C,采用酶法测定甘油三酯、总胆固
+醇、高密度脂蛋白胆固醇(HDL-C)、低密度脂蛋白胆
+固醇(LDL-C)。 超敏 C 反应蛋白(hs-CRP)水平采用
+化学发光法测定(深圳新产业生物医学公司,批内 CV
+≤10% ,批间 CV≤15% )。 催产素浓度由 ELISA 法测
+定(德国 IBL 公司,批内 CV≤12. 4% ,批间 CV≤
+14. 5% )。
+3. 采用稳态模式评估法来评估胰岛素抵抗
+(HOMA-IR)指数和胰岛 β 细胞功能(HOMA-β)指数:
+HOMA-IR=空腹血糖×空腹胰岛素 / 22. 5,HOMA-β=空
+腹胰岛素×20 / (空腹血糖-3. 5)。
+三、 统计学处理
+所有数据统计分析均运用软件 SPSS 16. 0。 正态
+分布的数据运用 x-± s 表示。 非正态分布数据以中位数
+(四分位数间距)表示,对非正态分布数据予对数转
+换,符合正态分布后行统计分析。 两组间比较采用独
+立样本 t 检验,多组间比较采用单因素方差分析
+(ANOVA)。 血清催产素与 hs-CRP、糖脂代谢、胰岛素
+抵抗及胰岛 β 细胞功能等的相关性运用 Pearson 简单
+相关、偏相关以及多元逐步回归进行相关性分析。 P<
+0. 05 为差异有统计学意义。
+结    果
+一、 一般临床资料比较(表 1)
+NGT 和 T2DM 组间年龄、性别匹配,体重指数、腰
+围、腰臀比、收缩压、舒张压差异无统计学意义(P >
+0. 05)。 T2DM 组 HBA1C、 空腹血糖、 餐后 2 h 血糖、 空
+表 1  各组间一般临床及实验室参数比较(x-± s)
+Tab 1  Comparison of general clinical and laboratory indicators in various groups(x-± s)
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+体重指数
+Body mass
+index
+(kg / m2)
+腰围
+Waist
+circumference
+(cm)
+腰臀比
+Waist-to-hip
+ratio
+收缩压
+Systolic blood
+pressure
+(mmHg)
+舒张压
+Diastolic blood
+pressure
+(mmHg)
+HBA1C
+(% )
+NGT 88(58 / 30) 46. 5 ± 8. 9 25. 02 ± 3. 41 87. 74 ± 11. 13 0. 90 ± 0. 05   125 ± 15   80 ± 11 5. 26 ± 0. 30
+NGT-NW 46(29 / 17) 47. 8 ± 8. 4 22. 50 ± 1. 58 80. 18 ± 5. 89 0. 87 ± 0. 04   122 ± 13   78 ± 9 5. 19 ± 0. 27
+NGT-OB 42(29 / 13) 45. 2 ± 9. 2 27. 78 ± 2. 66d 96. 02 ± 9. 53d 0. 93 ± 0. 06d   129 ± 16c   83 ± 13c 5. 34 ± 0. 31
+T2DM 88(56 / 32) 47. 9 ± 11. 4 25. 05 ± 3. 22 89. 22 ± 7. 68 0. 91 ± 0. 05   129 ± 15   79 ± 8 9. 29 ± 2. 14b
+T2DM-NW 42(28 / 14) 49. 0 ± 11. 9 22. 38 ± 1. 87 83. 95 ± 7. 17 0. 90 ± 0. 04   130 ± 15c   78 ± 9e 9. 34 ± 2. 39df
+T2DM-OB 46(28 / 18) 46. 9 ± 11. 1 27. 49 ± 2. 03h 94. 03 ± 4. 21h 0. 93 ± 0. 05h   128 ± 14c   80 ± 6 9. 25 ± 1. 91df
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+空腹血糖
+Fasting plasma
+glucose
+(mmol / L)
+餐后 2 h 血糖
+2 h postprandial
+glucose
+(mmol / L)
+空腹胰岛素
+Fasting insulin
+(mU / L)
+餐后 2 h 胰岛素
+2 h postprandial
+insulin
+(mU / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+甘油三酯
+Triglycerides
+(mmol / L)
+LDL-C
+(mmol / L)
+NGT 88(58 / 30) 5. 07 ± 0. 45 5. 85 ± 1. 17 7. 14 ± 3. 01 26. 47 ± 15. 53 4. 58 ± 0. 69 1. 56 ± 0. 92 2. 84 ± 0. 63
+NGT-NW 46(29 / 17) 5. 13 ± 0. 43 5. 73 ± 1. 22 6. 44 ± 2. 31 23. 91 ± 15. 30 4. 61 ± 0. 72 1. 37 ± 0. 87 2. 80 ± 0. 66
+NGT-OB 42(29 / 13) 5. 01 ± 0. 46 5. 98 ± 1. 10 7. 91 ± 3. 49c 29. 28 ± 15. 47 4. 56 ± 0. 66 1. 78 ± 0. 93 2. 88 ± 0. 61
+T2DM 88(56 / 32) 9. 98 ± 3. 03b 19. 47 ± 5. 31b 8. 26 ± 3. 85a 35. 85 ± 21. 76b 4. 96 ± 1. 29a 2. 45 ± 1. 68b 3. 12 ± 1. 12a
+T2DM-NW 42(28 / 14) 10. 23 ± 3. 32df 19. 78 ± 6. 09df 7. 12 ± 3. 00 32. 53 ± 17. 71c 4. 81 ± 1. 42 2. 28 ± 1. 93d 2. 90 ± 1. 18
+T2DM-OB 46(28 / 18) 9. 76 ± 2. 76df 19. 18 ± 4. 45df 9. 30 ± 4. 26dh 38. 88 ± 24. 71de 5. 10 ± 1. 17c 2. 61 ± 1. 42df 3. 32 ± 1. 03deg
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+HDL-C
+(mmol / L) HOMA-IR HOMA-β
+hs-CRP
+(mg / L)
+催产素
+Oxytocin
+(ng / L)
+NGT 88(58 / 30) 1. 28 ± 0. 34 1. 40(1. 05-1. 95) 87. 84(64. 17-123. 71) 0. 58(0. 21-1. 22) 9. 53(8. 62-11. 12)
+NGT-NW 46(29 / 17) 1. 35 ± 0. 34 1. 32(1. 00-1. 67) 75. 31(55. 47-102. 21) 0. 54(0. 19-0. 91) 9. 86(8. 77-12. 06)
+NGT-OB 42(29 / 13) 1. 21 ± 0. 32 1. 51(1. 14-2. 53) c 102. 68(69. 30-141. 96) c 0. 99(0. 25-1. 97) c 9. 23(8. 16-10. 36) c
+T2DM 88(56 / 32) 1. 17 ± 0. 39a 3. 16(2. 09-4. 54) b 24. 73(16. 32-44. 08) b 2. 59(1. 01-5. 25) b 7. 69(6. 56-8. 92) b
+T2DM-NW 42(28 / 14) 1. 27 ± 0. 51 2. 94(1. 79-2. 94) df 18. 35(14. 38-38. 76) df 1. 65(0. 81-3. 81) de 7. 98(7. 03-9. 17) de
+T2DM-OB 46(28 / 18) 1. 07 ± 0. 19dg 3. 29(2. 27-5. 57) dfg 30. 33(18. 79-49. 37) dfg 3. 47(1. 63-6. 20) dfg 7. 16(6. 45-8. 82) dfg
+注:NGT:正常糖调节 Normal glucose regulation;NW:正常体重 Normal weight;OB:肥胖 Obesity;T2DM:2 型糖尿病 Type 2 diabetes mellitus;1 mmHg =
+0. 133 kPa;LDL-C:低密度脂蛋白胆固醇 Low-density lipoprotein-cholesterol;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;HOMA-IR:
+稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment for insulin resistance;HOMA-β:稳态模型评估的胰岛 β 细胞功能指数 Homeostasis model
+assessment for β-cell function;hs-CRP:超敏 C 反应蛋白 High sensitive C-reactive protein;vs NGT, aP<0. 05, bP<0. 01;vs NGT-NW, cP<0. 05, dP<0. 01;vs
+NGT-OB, eP<0. 05, fP<0. 01;vs T2DM-NW, gP<0. 05, hP<0. 01
+腹胰岛素、餐后 2 h 胰岛素、甘油三酯、总胆固醇、LDL-
+C、HOMA-IR、 hs-CRP 高于 NGT 组 ( P < 0. 05 或 P <
+0. 01),HDL-C、HOMA-β 低于 NGT 组(P<0. 05 或 P<
+0. 01)。
+各亚组间的年龄及性别匹配。 T2DM 两亚组的空
+腹血糖、餐后 2 h 血糖和 HBA1C均明显高于 NGT 两亚
+组(P<0. 01)。 OB 两亚组的体重指数、腰围及腰臀比
+均高于其对应的 NW 两亚组(P<0. 01)。 在 4 个亚组
+中,T2DM-OB 组空腹胰岛素、餐后 2 h 胰岛素、甘油三
+酯、总胆固醇、LDL-C 水平最高,HDL-C 水平最低(P<
+0. 05 或 P < 0. 01)。 HOMA-IR 在 T2DM-OB、 T2DM-
+NW、NGT-OB、NGT-NW 组依次降低,HOMA-β 在 OB
+亚组高于 NW 亚组(P<0. 05 或 P<0. 01)。 hs-CRP 水
+平在 T2DM-OB、T2DM-NW、NGT-OB、NGT-NW 组依次
+降低(P<0. 05 或 P<0. 01)。
+二、 血清催产素及 hs-CRP 水平各组间比较
+男性组和女性组相比,血清催产素水平的差异无
+统计学意义 [8. 69 (7. 32 ~ 9. 77) 对 8. 90 (7. 13 ~
+10. 15) ng / L,P=0. 864]。
+与 NGT 组相比,T2DM 组血清催产素水平显著降
+低,差异有统计学意义[7. 69 (6. 56 ~ 8. 92)对 9. 53
+(8. 62 ~ 11. 12 ) ng / L, P < 0. 01 ]。 催产素水平在
+T2DM-OB 亚组最低[7. 16(6. 45 ~ 8. 82) ng / L],其次
+依次为 T2DM-NW 亚组[7. 98 (7. 03 ~ 9. 17) ng / L]、
+NGT-OB 亚组[9. 23 (8. 16 ~ 10. 36) ng / L]、NGT-NW
+亚组[9. 86(8. 77 ~ 12. 06) ng / L, P<0. 05 或 P<0. 01]。
+与 NGT 组相比,T2DM 组血清 hs-CRP 水平显著
+升高,差异有统计学意义[0. 58(0. 21 ~ 1. 22) 对 2. 59
+(1. 01 ~ 5. 25 ) mg / L, P < 0. 01 ]。 Hs-CRP 水平在
+T2DM-OB 亚组最高[3. 47(1. 63 ~ 6. 20) mg / L],其次
+依次为 T2DM-NW 亚组[1. 65(0. 81 ~ 3. 81) mg / L]、
+NGT-OB 亚组[0. 99(0. 25 ~ 1. 97) mg / L]、NGT-NW 亚
+组[0. 54(0. 19 ~ 0. 91) mg / L, P<0. 05 或 P<0. 01]。
+三、 hs-CRP 水平三分位分组后一般临床资料比较
+(表 2)
+根据 hs-CRP 水平将研究对象按三分位分组,随着
+表 2  hs-CRP 水平三分位后组间一般临床及实验室参数比较(x-± s)
+Tab 2  The general clinical and laboratory indicators of the study subjects according to the tertiles of hs-CRP(x-± s)
+hs-CRP
+(mg / L)
+例数(男 / 女)
+n(Male / Female)
+体重指数
+Body mass index
+(kg / m2)
+空腹血糖
+Fasting plasma glucose
+(mmol / L)
+餐后 2 h 血糖
+2 h postprandial glucose
+(mmol / L)
+HOMA-IR
+催产素
+Oxytocin
+(ng / L)
+<0. 65 59(33 / 26) 23. 73 ± 2. 15 6. 14 ± 2. 79 8. 59 ± 6. 57 1. 50(1. 13-2. 02) 9. 07(8. 11-11. 13)
+0. 65-2. 37 59(45 / 14) 25. 31 ± 3. 31b 7. 58 ± 3. 20a 13. 04 ± 7. 64b 2. 08(1. 21-3. 19) b 8. 67(7. 18-9. 82)
+>2. 37 58(36 / 22) 26. 09 ± 3. 52b 8. 89 ± 3. 28bc 16. 41 ± 7. 30bc 3. 00(1. 89-4. 00) bc 8. 71(6. 90-9. 50) b
+注:hs-CRP:超敏 C 反应蛋白 High sensitive C-reactive protein;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment for insulin
+resistance;vs <0. 65, aP<0. 05, bP<0. 01;vs 0. 65-2. 37, cP<0. 05
+注:hs-CRP:超敏 C 反应蛋白 High-sensitive C-reactive protein
+图 1  催产素与 hs-CRP 的直线相关性
+Fig 1  Correlation between oxytocin and hs-CRP
+hs-CRP 水平升高,体重指数、空腹血糖、餐后 2 h 血糖
+及 HOMA-IR 显著升高(P<0. 05 或 P<0. 01),催产素
+水平显著降低(P<0. 01)。
+四、 催产素与炎症、糖脂代谢、胰岛素抵抗及胰岛
+β 细胞功能的关系
+相关性分析显示,催产素与体重指数、腰围、腰臀
+比、HBA1C、空腹血糖、餐后 2 h 血糖、空腹胰岛素、餐后
+2 h 胰岛素、总胆固醇、甘油三酯、LDL-C、HOMA-IR、
+hs-CRP 呈负相关,有统计学意义( r 分别为-0. 231、
+-0. 205、-0. 167、-0. 381、-0. 315、-0. 381、-0. 185、
+-0. 230、-0. 223、-0. 289、-0. 181、-0. 333、-0. 199,
+P<0. 05 或 P<0. 01,图 1);与 HOMA-β 呈显著正相关
+( r=0. 248, P<0. 01)。 偏相关分析显示,在校正体重
+指数、腰臀比后,催产素仍与 HBA1C、空腹血糖、餐后
+2 h 血糖、空腹胰岛素、餐后 2 h 胰岛素、总胆固醇、甘
+油三酯、LDL-C、HOMA-IR、hs-CRP 呈负相关,有统计
+学意义( r 分别为-0. 386、-0. 321、-0. 376、-0. 154、
+-0. 175、-0. 210、-0. 240、-0. 149、-0. 288、-0. 154,
+P<0. 05 或 P<0. 01);与 HOMA-β 呈显著正相关( r =
+0. 281, P<0. 01)。 进一步以血清催产素为因变量,以
+体重指数、腰围、腰臀比、HBA1C、空腹血糖、餐后 2 h 血
+糖、空腹胰岛素、餐后 2 h 胰岛素、总胆固醇、甘油三
+酯、LDL-C、HOMA-IR、HOMA-β、hs-CRP 为自变量进一
+步行多元逐步回归分析,结果显示餐后 2 h 血糖、体重
+指数、总胆固醇是血清催产素的独立影响因素(β 分别
+为-0. 006,-0. 008,-0. 020,P<0. 05 或 P<0. 01)。
+讨    论
+神经垂体激素———催产素,是一种主要由下丘脑
+室旁核和室上核合成和分泌的九肽。 其因经典的促进
+子宫收缩和参与泌乳作用,被广泛应用于产科。 除此
+之外,他还作为神经递质起作用,使之具有许多其他复
+杂的生理功能,如参与学习、记忆的过程、影响药物成
+瘾性及社会适应性行为、母性行为、性行为、摄食、痛觉
+调节以及体温的调节等[8-11]。 近年来越来越多的研究
+表明,催产素在能量平衡和物质代谢中也发挥着重要
+的作用。
+在本研究中,我们发现肥胖组的血清催产素水平
+显著低于正常体重组。 此外,血清催产素水平和体重
+指数、腰围、腰臀比呈负相关,多元逐步回归分析显示
+体重指数是血清催产素水平的独立影响因素。
+Takayanagi 等[12]发现催产素受体缺失的小鼠发展成为
+迟发型的肥胖。 Deblon 等[5] 向高脂饮食介导的肥胖
+大鼠脑室和皮下注入不同浓度的催产素,发现大鼠的
+体重均有所减轻。 Cai 等[3] 向高脂饮食介导的肥胖小
+鼠脑室内注射催产素,观察到与前者类似的结果。 以
+上研究结果显示,催产素和肥胖密切相关。 肥胖的核
+心病理机制即脂肪细胞数量的不断增加及体积的不断
+增大[13],有研究显示[14],催产素通过减小脂肪细胞的
+体积,增加小脂肪细胞的数目来改善脂肪细胞的分化,
+从而逆转肥胖状态。 本研究相关分析显示血清催产素
+水平与总胆固醇、甘油三酯、LDL-C 呈负相关,且总胆
+固醇是血清催产素水平的独立影响因素,提示催产素
+在人体内不仅与肥胖有关,且参与了脂质代谢紊乱的
+病理过程。
+本研究发现血清催产素水平在 T2DM-OB 组最
+低,其次为 T2DM-NW 组、NGT-OB 组及 NGT-NW 组。
+催产素水平和 HBA1C、空腹血糖、餐后 2 h 血糖、空腹胰
+岛素、餐后 2 h 胰岛素、HOMA-IR 呈负相关,与 HOMA-
+β 呈显著正相关。 校正腰臀比、体重指数后,催产素水
+平仍与上述指标存在相关性,提示糖代谢紊乱可能独
+立于肥胖影响血清催产素浓度。 Zhang 等[3] 通过高脂
+饮食喂养或注射 STZ 建立了前期 2 型糖尿病鼠模型,
+并向小鼠脑室内注射催产素,发现其能有效逆转模型
+鼠的胰岛素抵抗状态,并改善胰岛 β 细胞的分泌功
+能。 以上结果显示,催产素可能在增加胰岛素敏感性
+和改善胰岛 β 细胞功能中起到了重要的代偿作用。
+近年来研究表明,炎症反应在糖尿病的发生发展
+中起着重要的作用,慢性炎症是导致胰岛素抵抗的重
+要机制[15]。 超敏 C 反应蛋白(hs-CRP)是机体受到损
+伤或发生各种急慢性炎症后的一种敏感的急性期反应
+蛋白,其合成受 IL-6、TNF-α 等调控,是反映炎症的最
+敏感的指标。 炎症反应可抑制胰岛素受体底物 1 的酪
+氨酸磷酸化,导致胰岛素信号转导受阻,从而引起胰岛
+素抵抗[16]。 同时炎症抑制胰岛素受体底物 2 引起 β
+细胞凋亡增加[17]。 当胰岛 β 细胞凋亡超过其增生能
+力时,β 细胞数量减少,进而 β 细胞分泌功能受损。 本
+研究发现:2 型糖尿病伴肥胖患者血清 hs-CRP 水平显
+著高于 T2DM-NW 及 NGT-OB 组,而这 3 组血清 hs-
+CRP 又高于 NGT-NW 组,这与我们既往研究结果一
+致[18],表明随着糖脂代谢紊乱的加重,慢性炎症的水
+平升高,胰岛素抵抗程度加重,胰岛 β 细胞分泌功能
+减弱。 Szeto 等[19]在遗传性高脂血症家兔的研究中发
+现,外周注射催产素能显著降低其血浆中的 hs-CRP 水
+平,并且降低其附睾脂肪组织中(白细胞介素-6) IL-6、
+单核细胞趋化蛋白-1(MCP-1)的水平,提高脂联素等
+抗炎因子的表达水平,从而有效抑制其炎症和动脉粥
+样硬化的发展。 本研究发现血清催产素水平与 hs-
+CRP 呈显著负相关,提示在人体内催产素与炎症程度
+密切相关,我们猜想其可以通过减轻机体炎症反应,从
+而发挥其改善胰岛素抵抗及胰岛 β 细胞功能的作用。
+综上所述,本研究结果显示,血清催产素水平在肥
+胖以及糖尿病人群均降低,催产素与炎症反应、肥胖、
+糖脂代谢、胰岛素抵抗及胰岛 β 细胞功能密切相关,
+提示催产素可能参与肥胖和 2 型糖尿病的发生发展。

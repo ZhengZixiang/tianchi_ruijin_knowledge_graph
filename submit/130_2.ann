@@ -1,0 +1,228 @@
+T1	Disease 170 173	糖尿病
+T2	Anatomy 175 186	Betatrophin
+T3	Anatomy 215 219	β 细胞
+T4	Disease 224 227	糖尿病
+T5	Anatomy 241 245	β 细胞
+T6	Disease 263 268	胰岛素抵抗
+T7	Anatomy 272 276	β 细胞
+T8	Disease 293 298	胰岛素抵抗
+T9	Anatomy 303 307	β 细胞
+T10	Reason 331 336	胰岛素抵抗
+T11	Anatomy 338 340	肝脏
+T12	Anatomy 344 355	Betatrophin
+T13	Anatomy 360 364	β 细胞
+T14	Disease 412 418	2 型糖尿病
+T15	Anatomy 423 434	Betatrophin
+T16	Test_Value 438 440	升高
+T17	Disease 446 449	糖尿病
+T18	Anatomy 451 462	Betatrophin
+T19	Disease 476 479	糖尿病
+T20	Anatomy 481 492	Betatrophin
+T21	Anatomy 1511 1522	Betatrophin
+T22	Anatomy 1573 1577	β 细胞
+T23	Anatomy 1581 1584	胰岛素
+T24	Disease 1612 1618	2 型糖尿病
+T25	Anatomy 1624 1628	β 细胞
+T26	Anatomy 1633 1636	胰岛素
+T27	Disease 1638 1643	胰岛素抵抗
+T28	Anatomy 1664 1668	β 细胞
+T29	Reason 1674 1679	胰岛素不足
+T30	Drug 1698 1699;1700 1702	胰 岛素
+T31	Anatomy 1716 1720	β 细胞
+T32	Symptom 1729 1732	高血糖
+T33	Disease 1733 1746	致命性大血管、微血管并发症
+T34	Anatomy 1750 1751;1752 1754	β 细胞
+T35	Disease 1761 1764	糖尿病
+T36	Test 1773 1775	血糖
+T37	Disease 1780 1783	糖尿病
+T38	Disease 1800 1805	胰岛素抵抗
+T39	Anatomy 1807 1811	β 细胞
+T40	Anatomy 1823 1827	β 细胞
+T41	Anatomy 1864 1866	胰腺
+T42	Anatomy 1881 1885	腺泡细胞
+T43	Disease 1902 1907	胰岛素抵抗
+T44	Anatomy 1911 1913	胰腺
+T45	Anatomy 1914 1917;1918 1920	胰岛祖 细胞
+T46	Anatomy 1924 1928	β 细胞
+T47	Anatomy 1933 1937	β 细胞
+T48	Disease 1959 1964	胰岛素抵抗
+T49	Anatomy 1986 1990	β 细胞
+T50	Anatomy 1998 2000	胰岛
+T51	Anatomy 2039 2046	胰腺内分泌细胞
+T52	Disease 2068 2071	糖尿病
+T53	Disease 2078 2083	胰岛素抵抗
+T54	Drug 2093 2098;2099 2102	胰升糖素样 肽 1
+T55	Anatomy 2103 2116	葡萄糖依赖性促胰岛素释放肽
+T56	Test 2125 2128	脂联素
+T57	Test 2129 2131	瘦素
+T58	Test 2139 2146	白细胞介素 6
+T59	Anatomy 2147 2150;2151 2152	巨噬细 胞
+T60	Test 2157 2164	白细胞介素 1
+T61	Anatomy 2165 2170	干扰素 γ
+T62	Test 2171 2177;2178 2179	肿瘤坏死因子 α
+T63	Test 2186 2189	骨钙素
+T64	Test 2190 2197	甲状腺源性因子
+T65	Test 2198 2201;2202 2203	甲状腺 素
+T66	Anatomy 2209 2213	β 细胞
+T67	Anatomy 2232 2233;2234 2236	β 细胞
+T68	Disease 2268 2273	胰岛素抵抗
+T69	Anatomy 2277 2281	β 细胞
+T70	Anatomy 2292 2294	肝脏
+T71	Anatomy 2295 2297	胰腺
+T72	Anatomy 2303 2306	内胚层
+T73	Anatomy 2315 2317	肝脏
+T74	Anatomy 2320 2322	肌肉
+T75	Anatomy 2323 2327	脂肪组织
+T76	Anatomy 2328 2331	胰岛素
+T77	Anatomy 2342 2346	β 细胞
+T78	Disease 2349 2355	高胰岛素血症
+T79	Anatomy 2365 2366;2367 2368	肌 肉
+T80	Anatomy 2369 2373	脂肪组织
+T81	Anatomy 2374 2376	大脑
+T82	Disease 2380 2387	肝脏胰岛素抵抗
+T83	Anatomy 2395 2399	β 细胞
+T84	Anatomy 2416 2418	肝脏
+T85	Anatomy 2423 2425	肝脏
+T86	Disease 2435 2440	胰岛素抵抗
+T87	Anatomy 2445 2449	β 细胞
+T88	Level 2489 2491	严重
+T89	Disease 2491 2498	肝脏胰岛素抵抗
+T90	Anatomy 2499 2508	肝特异性胰岛素受体
+T91	Anatomy 2524 2526	肝脏
+T92	Anatomy 2541 2544	肝细胞
+T93	Anatomy 2546 2550	β 细胞
+T94	Anatomy 2560 2564	β 细胞
+T95	Anatomy 2638 2642	胰岛细胞
+T96	Anatomy 2652 2654	肝脏
+T97	Anatomy 2682 2686	β 细胞
+T98	Anatomy 2698 2702	β 细胞
+T99	Anatomy 2745 2747	肝脏
+T100	Anatomy 2748 2755	胰岛 β 细胞
+T101	Anatomy 2771 2782	肝脏丝裂原活化蛋白激酶
+T102	Disease 2824 2826	肥胖
+T103	Anatomy 2829 2833	β 细胞
+T104	Anatomy 2844 2846	肝脏
+T105	Disease 2847 2848;2849 2853	胰 岛素抵抗
+T106	Anatomy 2857 2861	β 细胞
+T107	Disease 2903 2908	胰岛素抵抗
+T108	Disease 2928 2933	胰岛素抵抗
+T109	Anatomy 2938 2942	β 细胞
+T110	Drug 2958 2971	胰岛素受体拮抗剂 S961
+T111	Disease 2983 2988	胰岛素抵抗
+T112	Anatomy 2990 2994	β 细胞
+T113	Anatomy 3053 3057	β 细胞
+T114	Anatomy 3068 3072	β 细胞
+T115	Anatomy 3111 3113	肝脏
+T116	Test_Value 3113 3114;3115 3121	上 调了 4 倍
+T117	Anatomy 3122 3128	白色脂肪组织
+T118	Anatomy 3138 3140	肌肉
+T119	Anatomy 3142 3145;3146 3147	β 细 胞
+T120	Anatomy 3175 3177	肝脏
+T121	Anatomy 3182 3186	β 细胞
+T122	Anatomy 3203 3207	β 细胞
+T123	Anatomy 3218 3220	胰腺
+T124	Test 3222 3226;3227 3228	胰岛素含 量
+T125	Test 3237 3240	糖耐量
+T126	Anatomy 3247 3251	胰腺细胞
+T127	Anatomy 3262 3266	β 细胞
+T128	Anatomy 3267 3272	内分泌细胞
+T129	Anatomy 3277 3279	肝脏
+T130	Anatomy 3281 3285	脂肪组织
+T131	Anatomy 3322 3333	Betatrophin
+T132	Anatomy 3334 3345	Betatrophin
+T133	Anatomy 3355 3357	肝脏
+T134	Anatomy 3360 3362	肝脏
+T135	Anatomy 3388 3394	分泌性糖蛋白
+T136	Anatomy 3405 3416	Betatrophin
+T137	Anatomy 3421 3432	Betatrophin
+T138	Anatomy 3440 3444	β 细胞
+T139	Anatomy 3462 3470	β 细胞生长因子
+T140	Disease 3497 3502	胰岛素抵抗
+T141	Anatomy 3509 3517	β 细胞生长因子
+T142	Disease 3526 3532	2 型糖尿病
+T143	Treatment 3539 3546	胰岛干细胞移植
+T144	Disease 3548 3554	1 型糖尿病
+T145	Disease 3577 3580	糖尿病
+T146	Disease 3598 3601	糖尿病
+T147	Anatomy 3603 3614	Betatrophin
+T148	Disease 3634 3640	1 型糖尿病
+T149	Drug 3659 3662	胰岛素
+T150	Disease 3669 3672;3673 3675	胰岛素 抵抗
+T151	Disease 3684 3690	1 型糖尿病
+T152	Anatomy 3697 3708	Betatrophin
+T153	Disease 3750 3754;3755 3757	1 型糖 尿病
+T154	Reason 3762 3767	胰岛素抵抗
+T155	Disease 3778 3783;3784 3785	2 型糖尿 病
+T156	Disease 3830 3836	2 型糖尿病
+T157	Disease 3863 3872	2 型 糖 尿 病
+T158	Anatomy 3881 3892	Betatrophin
+T159	Test_Value 3895 3899	显著升高
+T160	Disease 3920 3921;3922 3926	2 型糖尿病
+T161	Disease 3986 3992	2 型糖尿病
+T162	Anatomy 3997 4008	Betatrophin
+T163	Disease 4033 4039	2 型糖尿病
+T164	Disease 4063 4072	2 型 糖 尿 病
+T165	Anatomy 4092 4103	Betatrophin
+T166	Disease 4183 4189	2 型糖尿病
+T167	Method 4194 4196	口服
+T168	Drug 4196 4200	二甲双胍
+T169	Drug 4201 4204	磺脲类
+T170	Drug 4213 4216	胰岛素
+T171	Anatomy 4229 4240	Betatrophin
+T172	Disease 4263 4269	2 型糖尿病
+T173	Disease 4293 4299	2 型糖尿病
+T174	Disease 4355 4361	2 型糖尿病
+T175	Anatomy 4371 4382	Betatrophin
+T176	Disease 4438 4444	2 型糖尿病
+T177	Anatomy 4449 4460	Betatrophin
+T178	Test_Value 4463 4465	升高
+T179	Disease 4496 4502	2 型糖尿病
+T180	Test 4516 4520	体重指数
+T181	Test 4537 4551;4552 4553	口服 75 g 葡萄糖耐量试 验
+T182	Test 4554 4558	OGTT
+T183	Test 4560 4567	胰岛素释放试验
+T184	Test 4580 4587	胰岛素抵抗指数
+T185	Test 4595 4602	HOMA-IR
+T186	Test 4612 4620	胰岛素敏感性指数
+T187	Anatomy 4629 4631	肝脏
+T188	Test 4644 4666;4667 4674	稳态模型评估的胰岛 β 细胞 功 能 指 数 (HOMA-β
+T189	Test 4684 4692	胰岛素曲线下面积
+T190	Test 4703 4704;4705 4711	血 糖曲线下面积
+T191	Test 4713 4721	InsAUC30
+T192	Test 4724 4732	GluAUC30
+T193	Test 4769 4782	血 糖 曲 线 下 面 积
+T194	Test 4785 4794	InsAUC120
+T195	Test 4797 4806	GluAUC120
+T196	Anatomy 4842 4853	Betatrophin
+T197	Disease 4873 4879	2 型糖尿病
+T198	Anatomy 4884 4895	Betatrophin
+T199	Disease 4931 4937	2 型糖尿病
+T200	Anatomy 4942 4953	Betatrophin
+T201	Test 4960 4974	OGTT 试验 2 h 血糖
+T202	Test 4975 4979	2hPG
+T203	Test 4982 4989	餐后血清胰岛素
+T204	Test 4990 4993	PSI
+T205	Test 5006 5013	HOMA-IR
+T206	Anatomy 5038 5049	Betatrophin
+T207	Disease 5077 5083	2 型糖尿病
+T208	Test 5088 5092	2hPG
+T209	Test 5093 5096	PSI
+T210	Anatomy 5101 5112	Betatrophin
+T211	Disease 5140 5149	2 型 糖 尿 病
+T212	Anatomy 5158 5169	Betatrophin
+T213	Test_Value 5172 5176	显著升高
+T214	Disease 5192 5197	胰岛素抵抗
+T215	Anatomy 5202 5204	肝脏
+T216	Anatomy 5207 5218	Betatrophin
+T217	Anatomy 5229 5233	β 细胞
+T218	Anatomy 5242 5245	胰岛素
+T219	Anatomy 5295 5301	mTORC1
+T220	Anatomy 5303 5314	PKC灼 / GSK3
+T221	Anatomy 5316 5340;5341 5349	PDGF-PDGF receptor-MAPK- Ezh2-p16
+T222	Anatomy 5375 5378	Akt
+T223	Anatomy 5394 5405	Betatrophin
+T224	Anatomy 5423 5426	Akt
+T225	Anatomy 5438 5442	β 细胞
+T226	Anatomy 5452 5463	Betatrophin
+T227	Disease 5468 5474	2 型糖尿病
+T228	Disease 5492 5498	2 型糖尿病

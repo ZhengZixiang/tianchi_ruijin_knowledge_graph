@@ -1,0 +1,388 @@
+T1	Disease 5110 5116	2 型糖尿病
+T2	Test 4850 4854	空腹血糖
+T3	Test 1829 1833	总胆固醇
+T4	Test 3929 3932;3933 3935	甲状腺 功能
+T5	SideEff 4388 4392	前列腺癌
+T6	Disease 4653 4656	乳腺癌
+T7	Disease 4657 4660	结肠癌
+T8	Test 1436 1439	TSH
+T9	Test 3839 3842	TSH
+T10	Test 3865 3868	TSH
+T11	Test 3940 3943	TSH
+T12	Test 5394 5397	脂联素
+T13	Test 5405 5408	脂联素
+T14	Test 5428 5431	脂联素
+T15	Test 1867 1869	体重
+T16	Drug 3117 3122	维生素 D
+T17	Drug 4554 4559	维生素 D
+T18	Drug 4774 4779	维生素 D
+T19	Test 4239 4247	性激素结合球蛋白
+T20	Drug 3061 3066	糖皮质激素
+T21	Test 1192 1197	IGF-I
+T22	Test 1613 1618	IGF-I
+T23	Anatomy 1699 1700;1701 1704	脂 肪组织
+T24	Anatomy 1822 1826	脂肪组织
+T25	Anatomy 5350 5354	脂肪组织
+T26	Anatomy 5366 5370	脂肪组织
+T27	Disease 2308 2312	骨质疏松
+T28	Disease 2626 2630	骨质疏松
+T29	Disease 3076 3080	骨质疏松
+T30	Disease 4598 4599;4600 4603	骨 质疏松
+T31	Disease 4615 4619	骨质疏松
+T32	Test 4258 4262	游离睾酮
+T33	Test 4432 4436	游离睾酮
+T34	Test 4034 4037	FSH
+T35	Test 4054 4057	FSH
+T36	Test 4196 4199	FSH
+T37	Test 5585 5588	FSH
+T38	Test 1870 1873	骨密度
+T39	Test 4317 4320	骨密度
+T40	Test 2989 2991	血糖
+T41	Test 4874 4876	血糖
+T42	Anatomy 1405 1408	下丘脑
+T43	Anatomy 1409 1411	垂体
+T44	Anatomy 1491 1493	GH
+T45	Anatomy 1494 1496	GH
+T46	Anatomy 1507 1509	肝脏
+T47	Anatomy 1498 1502	垂体前叶
+T48	Anatomy 1528 1530	肌肉
+T49	Anatomy 1531 1533	骨骼
+T50	Anatomy 1538 1540	GH
+T51	Anatomy 1559 1563	生长抑素
+T52	Anatomy 1543 1551	生长激素释放激素
+T53	Anatomy 1578 1583	胃促生长素
+T54	Anatomy 1553 1557	GHRH
+T55	Test 1610 1612	GH
+T56	Anatomy 1658 1660	垂体
+T57	Anatomy 1718 1720	GH
+T58	Anatomy 1739 1741	GH
+T59	Test 1874 1876	血脂
+T60	SideEff 1897 1900	关节痛
+T61	SideEff 1901 1906	腕管综合征
+T62	SideEff 1907 1913	男子乳腺发育
+T63	Disease 1999 2005	GH 缺乏症
+T64	Test 2023 2030	ghrelin
+T65	Test_Value 2033 2035	降低
+T66	Anatomy 2037 2039;2040 2050	垂体 ghrelin 受体
+T67	Anatomy 2051 2058	ghrelin
+T68	Anatomy 2060 2064	生长激素
+T69	Disease 2080 2084	髋部骨折
+T70	Drug 2095 2106	ghrelin 类似物
+T71	Anatomy 2196 2199	催乳素
+T72	Anatomy 2189 2192	催乳素
+T73	Anatomy 2255 2258	催乳素
+T74	Anatomy 2264 2267	催乳素
+T75	Disease 2296 2298;2299 2306	继发 性性腺功能减退
+T76	Disease 2357 2368	原发性甲状腺功能减退症
+T77	Disease 2369 2376	慢性肾功能衰竭
+T78	Drug 2380 2383	雌激素
+T79	Drug 2385 2388	阿片类
+T80	Drug 2389 2393	西咪替丁
+T81	Anatomy 2430 2434	垂体后叶
+T82	Anatomy 2411 2416	抗利尿激素
+T83	Anatomy 2417 2423	下丘脑室上核
+T84	Anatomy 2440 2443	ADH
+T85	Anatomy 2471 2474	ADH
+T86	Anatomy 2486 2489	ADH
+T87	Anatomy 2491 2493	肾脏
+T88	Test 2508 2514	心房利尿钠肽
+T89	Test_Value 2514 2516	增加
+T90	Anatomy 2546 2549	ADH
+T91	Anatomy 2575 2578	ADH
+T92	Disease 2605 2609	低钠血症
+T93	Anatomy 2639 2642	肾上腺
+T94	Anatomy 2651 2659	肾上腺皮质束状带
+T95	Test 2778 2783	血清皮质醇
+T96	Anatomy 2816 2820	皮质醇轴
+T97	Test 2939 2951	24 h 皮质醇分泌速率
+T98	Test_Value 2991 3004	低于 50 mg / dl
+T99	Disease 3038 3040	骨折
+T100	Disease 3041 3045	睡眠障碍
+T101	Test_Value 3054 3056	升高
+T102	Amount 3095 3115	1 000 ~ 1 500 mg / d
+T103	Drug 3093 3094	钙
+T104	Anatomy 3147 3150	醛固酮
+T105	Anatomy 3152 3160	肾上腺皮质球状带
+T106	Anatomy 3192 3196	ACTH
+T107	Anatomy 3200 3203	醛固酮
+T108	Disease 3284 3289;3290 3294	原发性醛固 酮增多症
+T109	Anatomy 3344 3347	雄激素
+T110	Anatomy 3326 3334	肾上腺皮质网状带
+T111	Anatomy 3349 3352	雌激素
+T112	Anatomy 3515 3521	去甲肾上腺素
+T113	Anatomy 3522 3526	肾上腺素
+T114	Anatomy 3560 3566	去甲肾上腺素
+T115	Anatomy 3601 3607	去甲肾上腺素
+T116	Anatomy 3628 3631	甲状腺
+T117	Test 3669 3674	甲状腺激素
+T118	Anatomy 3752 3754	T4
+T119	Anatomy 3756 3758	T3
+T120	Test 3806 3810	反 T3
+T121	Test_Value 3819 3821	升高
+T122	Test 3812 3816	r-T3
+T123	Test 3823 3829	血清甲状腺素
+T124	Test_Value 3874 3876	下降
+T125	Disease 3957 3963;3964 3966	亚临床甲状腺 疾病
+T126	Anatomy 3997 3999	性腺
+T127	Test 4060 4062	LH
+T128	Test 4040 4042	LH
+T129	Anatomy 4015 4017	卵巢
+T130	Anatomy 4168 4178	下丘脑-垂体-性腺轴
+T131	Test 4191 4193	LH
+T132	Test_Value 4247 4249	升高
+T133	Test_Value 4263 4265	降低
+T134	Test 4267 4269	睾酮
+T135	Test_Value 4269 4271	下降
+T136	Symptom 4285 4287	乏力
+T137	Symptom 4274 4278	脂肪增加
+T138	Symptom 4279 4281;4282 4284	肌肉 减少
+T139	Symptom 4288 4290	抑郁
+T140	Symptom 4291 4293	贫血
+T141	Symptom 4294 4298	勃起障碍
+T142	Drug 4306 4308	睾酮
+T143	Test 4321 4324	肌肉量
+T144	Test 4325 4327	力量
+T145	Test_Value 4327 4331	轻度增加
+T146	Disease 4337 4339;4340 4343	向心 性肥胖
+T147	Disease 4350 4356	勃起功能障碍
+T148	SideEff 4372 4378	红细胞增多症
+T149	SideEff 4379 4387	睡眠呼吸暂停加重
+T150	Drug 4406 4408	睾酮
+T151	Test_Value 4444 4446	降低
+T152	Drug 4451 4453	睾酮
+T153	Anatomy 4473 4477	甲状旁腺
+T154	Anatomy 3983 3985	性腺
+T155	Test 4481 4486	甲状旁腺素
+T156	Test 4487 4490	PTH
+T157	Anatomy 4564 4566	皮肤
+T158	Anatomy 4571 4573	肾脏
+T159	Test 4580 4583	PTH
+T160	Test_Value 4584 4586	升高
+T161	Disease 4542 4550	维生素 D 缺乏
+T162	Disease 4623 4625	骨折
+T163	Disease 4661 4662;4663 4664	抑 郁
+T164	Test_Value 4694 4698;4699 4709	40 ~ 60 ng / ml
+T165	Amount 4753 4762	800 U / d
+T166	Anatomy 4809 4811	胰腺
+T167	Disease 4834 4837	糖尿病
+T168	Disease 4812 4815	糖尿病
+T169	Disease 4839 4844	糖耐量受损
+T170	Test 4887 4894;4895 4898	高胰岛素正糖钳 夹试验
+T171	Disease 4905 4907	肥胖
+T172	Anatomy 4936 4946	肌肉葡萄糖转运体 4
+T173	Anatomy 4970 4973	胰岛素
+T174	Anatomy 5006 5009	胰岛素
+T175	Anatomy 5058 5061	胰岛素
+T176	Anatomy 5095 5098;5099 5101	前胰岛 素原
+T177	Anatomy 5168 5171	松果体
+T178	Anatomy 5174 5177	褪黑素
+T179	Disease 5192 5196	睡眠障碍
+T180	Amount 5212 5219	0. 3 mg
+T181	Drug 5306 5310	雷美替胺
+T182	Drug 5297 5302;5303 5306	褪黑素受体 激动剂
+T183	Disease 5342 5345	失眠症
+T184	Anatomy 5358 5360	瘦素
+T185	Anatomy 5361 5363	瘦素
+T186	Test 5505 5508	醛固酮
+T187	Test 5509 5511	GH
+T188	Test 5512 5514	肾素
+T189	Test 5515 5518	雌激素
+T190	Test 5519 5522	催乳素
+T191	Test 5528 5530	睾酮
+T192	Test 5535 5538	降钙素
+T193	Test 5552 5555	皮质醇
+T194	Test 5556 5557;5558 5561	肾 上腺素
+T195	Test 5562 5565	胰岛素
+T196	Test 5566 5570	甲状腺素
+T197	Test 5571 5573	T4
+T198	Test 5589 5591	LH
+T199	Test 5593 5599	去甲肾上腺素
+T200	Test 5600 5603	PTH
+T201	Disease 5740 5745	肌肉减少症
+T202	Test_Value 1646 1648	减少
+T203	Test_Value 1655 1657	下降
+T204	Reason 2339 2341	应激
+T205	Reason 2342 2346	剧烈运动
+T206	Symptom 2517 2521	渴感减弱
+T207	Test 2618 2620	骨钙
+T208	Test_Value 2862 2864	升高
+T209	Symptom 3179 3181	低钠
+T210	Anatomy 3449 3452	胰岛素
+T211	Test_Value 4043 4045	升高
+T212	Test_Value 4066 4068	下降
+T213	Reason 4518 4520	低钙
+T214	Test 4527 4528	钙
+T215	Test 4590 4592	骨钙
+T216	Disease 4647 4652	心血管事件
+T217	Disease 5662 5666	睡眠障碍
+T218	Symptom 5667 5673	体力活动减少
+T219	Symptom 5674 5678	脂肪增加
+T220	Disease 5716 5721	老年综合征
+T221	Reason 5763 5768	维生素 D
+T222	Anatomy 1176 1181	肾上腺皮质
+T223	Test_Value 1184 1185;1186 1187	下 降
+T224	Test_Value 1339 1341;1342 1344	明显 下降
+T225	Anatomy 1673 1680	ghrelin
+T226	Anatomy 1708 1712	内脏脂肪
+T227	Drug 1766 1770	生长激素
+T228	Anatomy 1801 1804	瘦组织
+T229	Test 1855 1859	肌肉力量
+T230	Test 1860 1862;1863 1865	功能 状态
+T231	Method 2092 2094	口服
+T232	Anatomy 2154 2157	瘦组织
+T233	Test 2170 2174	肌肉力量
+T234	Test 2176 2180	功能状态
+T235	Anatomy 2272 2277	多巴胺系统
+T236	Test_Value 2323 2325	升高
+T237	Symptom 2461 2463;2464 2466	低血 容量
+T238	Test_Value 2505 2507	降低
+T239	Disease 2533 2535	脱水
+T240	Anatomy 2589 2591	肾脏
+T241	Anatomy 2663 2666	皮质醇
+T242	Test_Value 2747 2749	提前
+T243	Test_Value 2957 2959	较高
+T244	Anatomy 2976 2981	肾上腺皮质
+T245	Amount 3124 3141	800 ~ 1 000 U / d
+T246	Test_Value 3310 3314	正常范围
+T247	Anatomy 3570 3574	交感神经
+T248	Anatomy 3621 3624	甲状腺
+T249	Test_Value 3698 3702	轻微下降
+T250	Test_Value 3741 3742;3743 3746	正 常水平
+T251	Drug 3890 3894	甲状腺素
+T252	Symptom 4091 4096	更年期症状
+T253	Treatment 4074 4075;4076 4081	激 素替代治疗
+T254	Test_Value 4235 4237	下降
+T255	Test_Value 4250 4251;4252 4255	正 常高值
+T256	Anatomy 4532 4534	肠道
+T257	Anatomy 4781 4782;4783 4784	骨 骼
+T258	Test_Value 4957 4959	下降
+T259	Test 5132 5138	高糖钳夹试验
+T260	Test_Value 5147 5149	减少
+T261	Test_Value 5150 5152	缺失
+T262	Test_Value 5161 5163	减少
+T263	Test_Value 5186 5188	下降
+T264	Amount 5237 5243;5244 5246	(1 ~ 5 mg
+T265	Anatomy 5292 5297	视交叉上核
+T266	Test_Value 5387 5389	下降
+T267	Reason 5779 5783	炎症因子
+T268	Anatomy 949 954	内分泌系统
+T269	Anatomy 962 966	内分泌腺
+T270	Anatomy 982 984	激素
+T271	Anatomy 1085 1090	内分泌系统
+T272	Anatomy 175 180	内分泌系统
+T273	Anatomy 182 184	腺体
+T274	Anatomy 77 82	内分泌系统
+T275	Anatomy 118 120	激素
+T276	Disease 3239 3244	肾功能不全
+T277	Reason 4508 4516	维生素 D 缺乏
+T278	Reason 4638 4646	维生素 D 缺乏
+T279	Test 1138 1148	GH / IGF-I
+T280	Test 1512 1517	IGF-I
+T281	Test 1518 1523	IGF-I
+T282	Test 1951 1956	IGF-I
+T283	Test 5619 5624	IGF-I
+T284	Test 4227 4230	总睾酮
+T285	Disease 3032 3037	骨密度降低
+T286	SideEff 1914 1918	血糖升高
+T287	Test 1122 1137	生长激素 /胰岛素样生长因子I
+T288	Anatomy 1150 1157;1158 1161	下丘脑-垂体- 性腺轴
+T289	Test 1170 1175	脱氢表雄酮
+T290	Test 1198 1200	睾酮
+T291	Test 1201 1206	脱氢表雄酮
+T292	Test 1207 1211	DHEA
+T293	Test 1262 1265	醛固酮
+T294	Test 1309 1312	胰岛素
+T295	Test 1327 1331	DHEA
+T296	Test 1332 1334	GH
+T297	Test 1412 1422	垂体促肾上腺皮质激素
+T298	Test 1423 1427	ACTH
+T299	Test 1429 1435	促甲状腺激素
+T300	Test 1442 1444	GH
+T301	Test 1472 1474	GH
+T302	Test 1641 1643	GH
+T303	Test 1650 1654	GHRH
+T304	Test 1662 1666	GHRH
+T305	Drug 1791 1793	GH
+T306	SideEff 1890 1892;1893 1896	软组 织水肿
+T307	Drug 1973 1979	重组人 GH
+T308	Disease 1986 1990;1991 1995	下丘脑- 垂体疾病
+T309	Drug 2237 2242	甲氧氯普胺
+T310	Drug 2231 2237	多巴胺拮抗剂
+T311	Disease 2286 2292	高催乳素血症
+T312	Test 2318 2321	催乳素
+T313	Anatomy 2347 2350	下丘脑
+T314	Anatomy 2351 2353	垂体
+T315	Test 2400 2405	抗利尿激素
+T316	Test 2406 2409	ADH
+T317	Symptom 2456 2459	低血压
+T318	Test 2500 2503	醛固酮
+T319	Symptom 2613 2615	低钠
+T320	Test 2646 2649	皮质醇
+T321	Test 2678 2684	基础血皮质醇
+T322	Test 2686 2690	ACTH
+T323	Test 2698 2701	皮质醇
+T324	Test 2718 2721	皮质醇
+T325	Test 2736 2738;2739 2744	夜间 皮质醇浓度
+T326	Test 2750 2753	皮质醇
+T327	Drug 2849 2853	ACTH
+T328	Test 2857 2860	皮质醇
+T329	Drug 2880 2884	地塞米松
+T330	Test 2887 2890	皮质醇
+T331	Test 2910 2913	皮质醇
+T332	Test 2952 2955	CPR
+T333	Symptom 3024 3029	记忆力减退
+T334	Test 3048 3051	皮质醇
+T335	Test 3164 3167	醛固酮
+T336	Test 3210 3215	醛固酮水平
+T337	Test 3226 3230	肾素活性
+T338	Test 3252 3254	尿钠
+T339	Test_Value 3254 3256	增多
+T340	Disease 3257 3260;3261 3262	低钠血 症
+T341	Disease 3263 3267	高钾血症
+T342	Test 3271 3274	醛固酮
+T343	Test 3301 3305	尿醛固酮
+T344	Test 3320 3324	DHEA
+T345	Test 3338 3342	DHEA
+T346	Test 3359 3363	DHEA
+T347	Test 3380 3384	DHEA
+T348	Test 3408 3412	DHEA
+T349	Test 3428 3432	DHEA
+T350	Test 3480 3484	DHEA
+T351	Test 3527 3533	去甲肾上腺素
+T352	Test 3545 3549	肾上腺素
+T353	Anatomy 3582 3587	肾上腺髓质
+T354	Anatomy 3644 3649	甲状腺结节
+T355	Test 3654 3657	TRH
+T356	Test 3687 3696	甲状腺素结合球蛋白
+T357	Test 3723 3731	四碘甲状腺原氨酸
+T358	Test 3732 3734	T4
+T359	Test 3771 3773	T3
+T360	Test 4019 4022	雌激素
+T361	Test 4023 4026	雄激素
+T362	Test 4213 4215	睾酮
+T363	Reason 4344 4349	胰岛素抵抗
+T364	Symptom 4418 4423	雄激素缺乏
+T365	Test 4442 4444	睾酮
+T366	Reason 4500 4502	低钙
+T367	Reason 4504 4506	高磷
+T368	Reason 4605 4613	维生素 D 缺乏
+T369	Test 4679 4688	25 羟维生素 D
+T370	Test 4920 4922;4923 4927	胰岛 素敏感性
+T371	Test 4950 4952;4953 4957	胰岛 素敏感性
+T372	Symptom 4999 5004	高血糖状态
+T373	Test 5042 5051	静脉葡萄糖耐量试验
+T374	Test 5071 5074	胰岛素
+T375	Disease 5120 5125	老年糖尿病
+T376	Test 5140 5147	早期胰岛素分泌
+T377	Test 5153 5157;5158 5161	晚期胰岛 素分泌
+T378	Test 5181 5184	褪黑素
+T379	Drug 5208 5211	褪黑素
+T380	Test 5383 5387	瘦素水平
+T381	Test 5614 5616	GH
+T382	Test 5627 5629;5630 5631	皮质 醇
+T383	Test 5634 5638	DHEA
+T384	Test 5642 5644	睾酮
+T385	Test 5646 5649	雌激素
+T386	Reason 5760 5762	睾酮
+T387	Reason 5769 5772;5773 5774	生长激 素
+T388	Reason 5775 5778	皮质醇

@@ -1,0 +1,45 @@
+T4	Disease 1119 1124	2型糖尿病
+T6	Operation 109 114;115 119	腹腔镜垂直 胃绑带术
+T7	Operation 608 613	腹腔镜手术
+T8	Operation 622 626	开腹手术
+T10	Operation 783 793	肥胖与糖尿病外科手术
+T11	Operation 1034 1036;1037 1045	肥胖 与糖尿病外科手术
+T12	Operation 1062 1072	肥胖与糖尿病外科手术
+T13	Duration 1148 1155	病程小于15年
+T14	Test 1158 1164	空腹血清C肽
+T15	Test_Value 1174 1178	二分之一
+T16	Test 1182 1187	体质量指数
+T17	Test_Value 1211 1226	25.0~27.5 kg/m²
+T22	Operation 1565 1577;1578 1582	腹腔镜Roux-en-Y 胃旁路术
+T23	Operation 1632 1641	腹腔镜胃袖状切除术
+T24	Operation 1682 1690;1691 1695	胆胰分流并十二指 肠转位术
+T25	Operation 1753 1759	BPD-DS
+T26	Disease 1784 1791;1792 1796	维生素和微量元 素的缺乏
+T27	Operation 1847 1848;1849 1869	胃 旁路术基础上发展的mini-bypass
+T28	Operation 1870 1877;1878 1890	袖状胃切除术基 础上发展的“SG+X术”
+T29	Operation 1893 1897	胃折叠术
+T30	Operation 1898 1903;1904 1907	空回肠侧侧 吻合术
+T31	Test 2076 2078	血糖
+T32	Test 2079 2085	糖化血红蛋白
+T33	Test 2086 2089	胰岛素
+T34	Test 2090 2092	C肽
+T35	Test 2103 2106	血生化
+T36	Test 2107 2114	营养状况及心理
+T37	Test 2115 2119	精神评估
+T38	Test 2130 2133	骨密度
+T39	Test 2134 2142	维生素及微量元素
+T43	Disease 1144 1148	T2DM
+T44	Test 1204 1207	BMI
+T49	Disease 71 73	肥胖
+T50	Disease 74 77	糖尿病
+T9	Anatomy 639 645	胃旁路的胃囊
+T51	Disease 1115 1117	肥胖
+T18	Disease 1234 1238	T2DM
+T52	Disease 1241 1243	肥胖
+T19	Disease 1386 1388	肥胖
+T20	Disease 1490 1491;1492 1493	肥 胖
+T21	Drug 1802 1805	维生素
+T53	Drug 1805 1809	微量元素
+T1	Test_Value 1168 1178	正常值下限的二分之一
+T2	Disease 1391 1396	代谢综合征
+T3	Disease 1496 1501	代谢性疾病

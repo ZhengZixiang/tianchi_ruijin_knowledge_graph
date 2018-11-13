@@ -1,0 +1,168 @@
+T1	Disease 778 784	2 型糖尿病
+T2	Disease 1390 1395	糖尿病肾病
+T3	Disease 2517 2522	糖尿病肾病
+T4	Test 893 898	HBA1C
+T5	Test 1220 1225	HBA1C
+T6	Test 1006 1011	LDL-C
+T7	Test 1300 1305	LDL-C
+T8	Test 926 930	空腹血糖
+T9	Test 1233 1237	空腹血糖
+T10	Test 1487 1491	空腹血糖
+T11	Test 1630 1634	空腹血糖
+T12	Test 1773 1777	空腹血糖
+T13	Test 1449 1452	尿素氮
+T14	Disease 1967 1972	妊娠糖尿病
+T15	Test 975 979	总胆固醇
+T16	Test 1280 1284	总胆固醇
+T17	Test 1671 1675	总胆固醇
+T18	Test 1590 1594	体重指数
+T19	Test 1733 1737	体重指数
+T20	Test 1825 1829	体重指数
+T21	Test 954 956;957 959	甘油 三酯
+T22	Test 1260 1264	甘油三酯
+T23	Test 1651 1655	甘油三酯
+T24	Test 807 809	身高
+T25	Test 1179 1181	身高
+T26	Test 1410 1412	身高
+T27	Test 817 819	体重
+T28	Test 1189 1191	体重
+T29	Test 1420 1422	体重
+T30	Test 1989 1991	体重
+T31	Disease 456 459	糖尿病
+T32	Disease 563 566	肾囊肿
+T33	Disease 567 570	糖尿病
+T34	Disease 574 582	RCAD 综合征
+T35	Disease 699 702	糖尿病
+T36	Disease 721 724	糖尿病
+T37	Drug 793 796	胰岛素
+T38	Test 826 828	血压
+T39	Test_Value 829 837;838 843	160 / 90 mm Hg
+T40	Test_Value 810 816	165 cm
+T41	Test_Value 820 825	74 kg
+T42	Test_Value 899 905	7. 20%
+T43	Test_Value 931 945	7. 51 mmol / L
+T44	Test_Value 960 974	1. 99 mmol / L
+T45	Test 995 1003;1004 1005	低密度脂蛋白胆固 醇
+T46	Test_Value 1012 1026	2. 94 mmol / L
+T47	Test 1027 1033	尿微量白蛋白
+T48	Test 1059 1063	腹部超声
+T49	Disease 1163 1166	糖尿病
+T50	Test_Value 1182 1188	168 cm
+T51	Test_Value 1192 1197	67 kg
+T52	Test 1198 1200	血压
+T53	Test_Value 1201 1215	160 / 85 mm Hg
+T54	Test_Value 1229 1231	7%
+T55	Test_Value 1238 1252	8. 30 mmol / L
+T56	Test_Value 1285 1299	6. 62 mmol / L
+T57	Test_Value 1306 1320	4. 46 mmol / L
+T58	Test 1321 1327	尿 MALB
+T59	Test_Value 1328 1342	699. 24 mg / L
+T60	Test 1343 1347	腹部超声
+T61	Test_Value 1348 1351	脂肪肝
+T62	Disease 1381 1384	糖尿病
+T63	Disease 1396 1399	尿毒症
+T64	Test_Value 1413 1416;1417 1419	182 cm
+T65	Test_Value 1423 1428	93 kg
+T66	Test 1429 1431	血压
+T67	Test_Value 1432 1447	180 / 100 mm Hg
+T68	Test_Value 1492 1506	6. 83 mmol / L
+T69	Test 1508 1512	腹部超声
+T70	Test_Value 1512 1517;1518 1521	未见脏器囊 肿表现
+T71	Test_Value 1595 1609	30. 70 kg / m2
+T72	Test 1610 1612	血压
+T73	Test_Value 1613 1628	180 / 100 mm Hg
+T74	Test_Value 1635 1649	4. 51 mmol / L
+T75	Test_Value 1656 1661;1662 1670	4. 26 mmol / L
+T76	Test_Value 1676 1690	5. 07 mmol / L
+T77	Test_Value 1696 1699	无异常
+T78	Test 1701 1705	腹部超声
+T79	Test_Value 1707 1712	轻度脂肪肝
+T80	Test_Value 1738 1752	19. 72 kg / m2
+T81	Test 1753 1754;1755 1756	血 压
+T82	Test_Value 1757 1771	135 / 90 mm Hg
+T83	Test_Value 1778 1792	5. 54 mmol / L
+T84	Test 1799 1801	血脂
+T85	Test_Value 1801 1802;1803 1804	正 常
+T86	Test_Value 1830 1844	23. 88 kg / m2
+T87	Drug 1978 1981	胰岛素
+T88	Anatomy 2228 2233	HNF1β
+T89	Anatomy 2237 2239	肝脏
+T90	Anatomy 2256 2258	肾脏
+T91	Anatomy 2259 2261	胰腺
+T92	Anatomy 2262 2264	卵巢
+T93	Anatomy 2265 2267	睾丸
+T94	Anatomy 2268 2269;2270 2271	肺 脏
+T95	Anatomy 2272 2274	食管
+T96	Anatomy 2275 2278	胃肠道
+T97	Anatomy 2280 2285	HNF1β
+T98	Disease 2338 2341	糖尿病
+T99	Disease 2506 2509	糖尿病
+T100	Disease 2533 2536	尿毒症
+T101	Disease 2613 2616	肾囊肿
+T102	Disease 2620 2623	肝囊肿
+T103	Disease 2632 2635	脾囊肿
+T104	Disease 2636 2638	胰腺
+T105	Disease 2639 2642	甲状腺
+T106	Disease 2643 2647	卵巢囊肿
+T107	Disease 2660 2663	糖尿病
+T108	Disease 430 434	MODY
+T109	Disease 500 504	MODY
+T110	Test 2033 2036	PCR
+T111	Disease 60 66	成人型糖尿病
+T112	Disease 385 391	成人型糖尿病
+T113	Reason 472 485	葡萄糖刺激的胰岛素分泌缺陷
+T114	Test 1117 1121	眼科检查
+T115	Treatment 1973 1977	饮食控制
+T116	Test_Value 1993 2000	3. 1 kg
+T117	Disease 2066 2068;2069 2070	糖尿 病
+T118	Anatomy 2137 2145	HNF1β 基因
+T119	Anatomy 2147 2158	第 17 号染色体长臂
+T120	Disease 510 515	MODY5
+T121	Anatomy 517 520	肝细胞
+T122	Anatomy 527 536	1β(HNF1β)
+T123	Duration 799 802	5 年
+T124	Test 1034 1038	MALB
+T125	Duration 1168 1171	8 年
+T126	Duration 785 789	21 年
+T127	Treatment 1402 1406	血液透析
+T128	Duration 1372 1376	8 年前
+T129	Anatomy 2041 2049	HNF1β 基因
+T130	Disease 2300 2305	MODY5
+T131	Anatomy 2372 2380	HNF1β 基因
+T132	Disease 2484 2487	糖尿病
+T133	Anatomy 2538 2543	S547F
+T134	Disease 2553 2555;2556 2557	糖尿 病
+T135	Disease 2674 2679	MODY5
+T136	Disease 2717 2722	MODY5
+T137	Reason 450 455	单基因突变
+T138	Test_Value 1122 1130	糖尿病视网膜病变
+T139	Test 946 951	肝、肾功能
+T140	Test 1691 1696	肝、肾功能
+T141	Test 1793 1798	肝、肾功能
+T142	Anatomy 464 471	胰岛 β 细胞
+T143	Disease 647 649;650 651	糖尿 病
+T144	Disease 653 658	肝、肾囊肿
+T145	Test_Value 864 868	心肺正常
+T146	Test_Value 869 873	肝脾不大
+T147	Test_Value 876 878;879 885	足背 动脉搏动减弱
+T148	Test_Value 980 994	4. 82 mmol / L
+T149	Test_Value 1039 1050	6. 0 mg / L
+T150	Test_Value 1064 1087	肝左叶囊肿 1. 67 cm×1. 44 cm
+T151	Test_Value 1088 1098;1099 1110	右肾囊肿 2. 19 cm×2. 03 cm
+T152	Test_Value 1136 1137;1138 1140	白 内障
+T153	Test 1253 1257	肝、肾功
+T154	Test_Value 1265 1270;1271 1279	2. 32 mmol / L
+T155	Test_Value 1453 1467	29. 3 mmol / L
+T156	Test 1468 1469;1470 1471	肌 酐
+T157	Disease 1538 1547	先天性智力发育不全
+T158	Anatomy 2083 2091	HNF1β 基因
+T159	Anatomy 2355 2363	HNF1β 基因
+T160	Disease 2491 2494	糖尿病
+T161	Disease 2497 2502	肝、肾囊肿
+T162	Disease 2595 2598	糖尿病
+T163	Disease 2600 2604	脏器囊肿
+T164	Anatomy 2632 2633	脾
+T165	Anatomy 2643 2645	卵巢
+T166	Anatomy 2620 2621	肝
+T167	Anatomy 2613 2614	肾
+T168	Anatomy 2520 2521	肾

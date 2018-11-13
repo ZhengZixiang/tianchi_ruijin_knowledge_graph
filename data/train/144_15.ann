@@ -1,0 +1,170 @@
+T1	Test 3400 3405	HDL-C
+T2	Test 4355 4360	HDL-C
+T3	Test 5423 5428	HDL-C
+T4	Test 5991 5996	HDL-C
+T5	Test 3418 3423	LDL-C
+T6	Test 4361 4366	LDL-C
+T7	Test 5440 5445	LDL-C
+T8	Test 6007 6012	LDL-C
+T9	Test 3099 3101;3102 3104	空腹 血糖
+T10	Test 4875 4879	空腹血糖
+T11	Test 648 651	尿素氮
+T12	Test 3441 3444	尿素氮
+T13	Test 4367 4370	尿素氮
+T14	Test 5458 5461	尿素氮
+T15	Test 3152 3155	血肌酐
+T16	Test 3445 3448	血肌酐
+T17	Test 3386 3388	TC
+T18	Test 4352 4354	TC
+T19	Test 3430 3432	TG
+T20	Test 4349 4351	TG
+T21	Test 628 637	高密度脂蛋白胆固醇
+T22	Test 3390 3399	高密度脂蛋白胆固醇
+T23	Test 5997 6006	高密度脂蛋白胆固醇
+T24	Test 638 647	低密度脂蛋白胆固醇
+T25	Test 6013 6022	低密度脂蛋白胆固醇
+T26	Test 622 626	总胆固醇
+T27	Test 3380 3382;3383 3385	总胆 固醇
+T28	Test 5408 5412	总胆固醇
+T29	Test 606 610	体重指数
+T30	Test 3313 3317	体重指数
+T31	Test 4331 4335	体重指数
+T32	Test 4838 4842	体重指数
+T33	Test 3041 3044	收缩压
+T34	Test 3291 3294	收缩压
+T35	Test 4336 4339	收缩压
+T36	Test 4853 4856	收缩压
+T37	Test 3075 3078	舒张压
+T38	Test 3295 3298	舒张压
+T39	Test 4340 4343	舒张压
+T40	Test 4864 4867	舒张压
+T41	Test 3287 3289	腰围
+T42	Test 151 153	尿酸
+T43	Test 739 741	尿酸
+T44	Test 2290 2292	尿酸
+T45	Test 2417 2419	尿酸
+T46	Test 2527 2529	尿酸
+T47	Test 2651 2653	尿酸
+T48	Test 2716 2718	尿酸
+T49	Test 3434 3436	尿酸
+T50	Test 6118 6120	尿酸
+T51	Test 6190 6192	尿酸
+T52	Test 6230 6232	尿酸
+T53	Test 6348 6350	尿酸
+T54	Test 6505 6507	尿酸
+T55	Test 6514 6516	尿酸
+T56	Test 6568 6570	尿酸
+T57	Test 6578 6580	尿酸
+T58	Disease 6088 6093	代谢综合征
+T59	Test 617 621	甘油三酯
+T60	Test 3425 3429	甘油三酯
+T61	Test 4891 4895	甘油三酯
+T62	Test 3278 3280	身高
+T63	Test 3281 3283	体重
+T64	Disease 124 129	高尿酸血症
+T65	Disease 234 242	原发性高尿酸血症
+T66	Test 250 258	聚合酶链反应技术
+T67	Test 259 265	基因测序技术
+T68	Disease 279 284	高尿酸血症
+T69	Disease 460 465	高尿酸血症
+T70	Disease 541 546	高尿酸血症
+T71	Test 611 613	血压
+T72	Test 614 616	血糖
+T73	Test 652 654	肌酐
+T74	Anatomy 745 752	SLC17A1
+T75	Disease 2253 2258	高尿酸血症
+T76	Disease 2308 2311	高尿酸
+T77	Disease 2348 2353	高尿酸血症
+T78	Disease 2369 2374	高尿酸血症
+T79	Disease 2404 2409	高尿酸血症
+T80	Anatomy 2607 2612	肾小管细胞
+T81	Anatomy 2645 2650	肾近端小管
+T82	Test 2661 2662;2663 2664	尿 酸
+T83	Disease 2833 2840;2841 2842	原发性高尿酸血 症
+T84	Disease 2886 2891	高尿酸血症
+T85	Disease 2963 2968	高尿酸血症
+T86	Disease 3037 3040	高血压
+T87	Drug 3090 3093	降压药
+T88	Disease 3095 3098	糖尿病
+T89	Drug 3126 3129	胰岛素
+T90	Drug 3130 3136	口服降糖药物
+T91	Disease 3138 3140;3141 3145	心脑 血管疾病
+T92	Disease 3146 3151	肾功能不全
+T93	Test 3284 3286	腹围
+T94	Test 3407 3415;3416 3417	低密度脂蛋白胆固 醇
+T95	Test 3437 3440	FBG
+T96	Disease 3656 3661	高尿酸血症
+T97	Disease 3998 4002;4003 4004	高尿酸血 症
+T98	Disease 4056 4061	高尿酸血症
+T99	Disease 4202 4207	高尿酸血症
+T100	Test 4344 4347	FBG
+T101	Test 4371 4373	肌酐
+T102	Test 5473 5475	肌酐
+T103	Disease 6030 6035	高尿酸血症
+T104	Disease 6055 6060	高尿酸血症
+T105	Disease 6069 6071	痛风
+T106	Disease 6072 6076	肾脏病变
+T107	Disease 6079 6082	高血压
+T108	Disease 6084 6087	糖尿病
+T109	Disease 6131 6136	高尿酸血症
+T110	Disease 6308 6311	痛风病
+T111	Disease 6354 6356	痛风
+T112	Disease 6441 6443	痛风
+T113	Anatomy 6503 6505	肾脏
+T114	Disease 6615 6620	高尿酸血症
+T115	Disease 6666 6671	高尿酸血症
+T116	Disease 6746 6751	高尿酸血症
+T117	Disease 6794 6796	痛风
+T118	Disease 6833 6837;6838 6839	高尿酸血 症
+T119	Disease 6893 6898	高尿酸血症
+T120	Disease 6993 6998	高尿酸血症
+T121	Disease 7025 7030	高尿酸血症
+T122	Anatomy 1127 1134	SLC17A1
+T123	Anatomy 1516 1523	SLC17A1
+T124	Anatomy 2033 2040	SLC17A1
+T125	Anatomy 2167 2174	SLC17A1
+T126	Anatomy 2510 2517	SLC17A1
+T127	Anatomy 3886 3893	SLC17A1
+T128	Test 3105 3108	FBG
+T129	Anatomy 2659 2661	肾脏
+T130	Anatomy 2583 2596	Na+依赖磷酸盐转运蛋白体
+T131	Test_Value 3002 3015	≥417 μmol / L
+T132	Test_Value 3020 3033	≥357 μmol / L
+T133	Test_Value 3044 3053	>140 mmHg
+T134	Test_Value 3078 3086	>90 mmHg
+T135	Test_Value 3109 3123	≥7. 0 mmol / L
+T136	Test_Value 3155 3168	>124 μmol / L
+T137	Anatomy 6397 6404	SLCl7A1
+T138	Anatomy 6405 6412	SLCl7A3
+T139	Anatomy 6413 6420	SLCl7A4
+T140	Anatomy 6457 6464	SLCl7A3
+T141	Anatomy 6470 6477	SLCl7Al
+T142	Anatomy 6480 6487	SLCl7A4
+T143	Reason 2259 2274	人体内嘌呤物质新陈代谢发生紊乱
+T144	Reason 2320 2331	遗传和环境因素共同引起
+T145	Anatomy 2574 2578	转运蛋白
+T146	Test_Value 6122 6124	增高
+T147	Anatomy 6494 6501	SLCl7A1
+T148	Anatomy 6536 6543	SLCl7A1
+T149	Anatomy 6553 6557	转运蛋白
+T150	Disease 706 711	高尿酸血症
+T151	Reason 2279 2285	尿酸排出减少
+T152	Reason 2355 2361	尿酸生成过多
+T153	Reason 2376 2382	尿酸排泄减少
+T154	Anatomy 132 139	SLC17A1
+T155	Anatomy 200 207	SLC17A1
+T156	Anatomy 301 308	SLC17A1
+T157	Anatomy 668 675	SLC17A1
+T158	Anatomy 2392 2394	肾脏
+T159	Test 2394 2395;2396 2397	尿 酸
+T160	Anatomy 2701 2708	SLC17A1
+T161	Disease 2754 2762	原发性高尿酸血症
+T162	Anatomy 2789 2799	SLC17A1 基因
+T163	Test 3184 3186	尿酸
+T164	Anatomy 3965 3975	SLC17A1 基因
+T165	Anatomy 6178 6188	SLC17A1 基因
+T166	Anatomy 6215 6225	SLC17A1 基因
+T167	Anatomy 6560 6566	肾脏近曲小管
+T168	Anatomy 6714 6724	SLC17A1 基因
+T169	Anatomy 6780 6790	SLC17A1 基因
+T170	Anatomy 6957 6967	SLC17A1 基因

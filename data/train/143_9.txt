@@ -1,0 +1,245 @@
+临床研究
+基金项目:国家自然科学基金(81160100);甘肃省卫生行业项目科
+研计划(GSWST2011-01)
+郭茜),超声科(高翠霞);750000 银川,宁夏医科大学(杨斌)
+亚临床甲状腺功能减退症患者 TSH 与动脉粥样硬化
+相关因子关系的研究
+田利民  杨斌  高翠霞  刘静  郭茜
+[提要]   250 例初次诊断的亚临床甲状腺功能减退症(SCH)患者和 120 名健康志愿者,根据 TSH 水
+平将患者分为 2 组:A 组 TSH<10 mIU / L,B 组 TSH>10 mIU / L,B 组进行左旋甲状腺素(L-T4)替代治疗;比
+较甲状腺功能、血脂及动脉粥样硬化相关指标。 SCH 患者总胆固醇、低密度脂蛋白胆固醇( low-density
+lipoprotein cholesterol, LDL-C)、非对称二甲精氨酸(asymmetric dimethyl arginine, ADMA)、颈动脉内膜中层
+厚度(carotid artery intima media thickness, CIMT)、血栓素 B2(thromboxane B2,TXB2)、C 反应蛋白(C-reactive
+protein, CRP)高于正常组,一氧化氮(nitric oxide, NO)低于正常组(均 P<0. 05)。 B 组 L-T4治疗后 TSH 恢
+复正常,总胆固醇、LDL-C、ADMA、CIMT、血栓素 B2 下降,NO 升高(均 P<0. 05)。 相关分析显示 TSH 与总
+胆固醇、LDL-C、ADMA、CIMT、血栓素 B2 正相关,与 NO 负相关;多元逐步线性回归分析显示 TSH 是 CIMT、
+NO 的独立影响因素。 高 TSH 是 SCH 患者发生动脉粥样硬化的重要危险因素。
+[关键词]   甲状腺功能减退症; 促甲状腺素; 动脉粥样硬化; 左旋甲状腺素
+Relationship of TSH with atherosclerosis-related factors in subclinical hypothyroidism Tian Limin *, Yang
+Bin, Gao Cuixia, Liu Jing, Guo Qian. *Department of Endocrinology, Gansu Provincial Hospital, Lanzhou 730000,
+China
+[Summary]   Two hundred and fifty patients with subclinical hypothyroidism ( SCH) and 120 euthyroid
+volunteers were recruited for the study, SCH patients were stratified into 2 groups according to TSH levels( group A:
+TSH<10 mIU / L; group B: TSH>10 mIU / L) . All subjects were examined for clinical characteristics, thyroid profile,
+lipid profile, and biomarkers of early atherosclerosis. Patients in group B received L-thyroxine replacement treatment
+to achieve euthyroidism. After 6 months of stable euthyroidism all measurements were repeated. SCH patients had
+higher levels of total cholesterol(TC), low-density lipoprotein-cholesterol(LDL-C), asymmetric dimethyl arginine
+(ADMA), carotid artery intima media thickness(CIMT), thromboxane B2(TXB2), and C-reactive protein(CRP)
+but with lower nitric oxide(NO) level compared with euthyroid subjects. Levels of TC, LDL-C, CIMT, TXB2, and
+ADMA decreased, and NO level increased significantly after 6 months of euthyroidism. TSH was positively correlated
+with TC, LDL-C, CIMT, ADMA, and TXB2; and negatively correlated with NO. Based on multivariate regression
+analysis, TSH was an independent influential factor of CIMT and NO. We conclude that raised TSH is an important
+risk factor of atherosclerosis in SCH.
+[Key words]  Hypothyroidism; Thyroid-stimulating hormone; Atherosclerosis; L-thyroxine
+(Chin J Endocrinol Metab, 2015, 31: 133-135)
+近年研究表明, 亚临床甲状腺功能减退 ( subclinical
+hypothyroidism, SCH)与动脉粥样硬化心血管疾病之间存在明
+显相关[1] 。 SCH 是甲减的早期阶段,甲状腺素水平在正常范
+围,而 TSH 高于正常,推测 TSH 可能在 SCH 与心血管风险的关
+系中发挥重要作用。 本研究通过检测 SCH 患颈动脉内膜中层
+厚度(carotid artery intima media thickness, CIMT)及血清一氧化
+氮 ( nitric oxide, NO)、 内 皮 素 1 ( endothelin-1 )、 前 列 环 素
+(prostacyclin)、血栓烷 A2( thromboxane A2)等相关因子水平的
+变化,探讨 TSH 在 SCH 患者动脉粥样硬化病变的作用。
+一、 对象和方法
+1. 对象:2012 年 8 月至 2013 年 10 月在甘肃省人民医院内
+分泌门诊选取 250 例(男 47 例,女 203 例)初次诊断的 SCH 患
+者,其中 206 例患者由桥本甲状腺炎引起,甲状腺过氧化物酶
+抗体(TPOAb)及甲状腺球蛋白抗体(TGAb)阳性;44 例抗体阴
+性患者(32 例为甲状腺手术或碘治疗后继发亚临床甲减;12 例
+为原因不明的抗体阴性患者),并选取 120 名(男 22 名,女 98
+名)健康志愿者作为正常对照。 纳入标准:年龄 20 ~ 50 岁,体
+重指数 20 ~ 24;SCH 诊断标准为血清 TSH 升高、FT4 在正常范
+围;正常对照组年龄、血压、体重指数、血清 FT4与 SCH 患者组
+匹配。 排除标准:已知甲状腺疾病、服用影响甲状腺功能的药
+物及降血脂药物、冠心病、糖尿病、高血压、高血脂、急慢性炎
+症、结缔组织病、近 2 年内怀孕、吸烟、酗酒。 检查者均签署知
+情同意书,得到甘肃省人民医院伦理委员会同意。
+2. 方法:记录所有研究对象的年龄、血压、体重指数。 所有
+检查者采集空腹静脉血,化学发光法测定甲状腺功能(美国雅
+培公司),正常参考范围为:TSH = 0. 35 ~ 4. 95 mIU / L、FT3 =
+2. 63 ~ 5. 71 pmol / L、FT4 = 9. 01 ~ 19. 05 pmol / L、TGAb<4. 11
+IU / ml、 TPOAb<5. 61 IU / ml; 酶比色法测定血脂及 CRP(美国
+贝克曼库尔特公司); ELISA 法 测 定 非 对 称 二 甲 精 氨 酸
+(asymmetric dimethyl arginine, ADMA)、内皮素 1、6-酮前列腺素
+F1α(6-keto prostaglandin)、血栓素 B2(thromboxane B2,ELISA 试
+剂盒均来自上海源叶生物科技有限公司),以硝酸还原酶法测
+定 NO(南京建成生物工程研究所)。 6-酮前列腺素 F1α 为前列
+环素的稳定代谢物,血栓素 B2 为血栓烷 A2 的稳定代谢物,它
+们分别反映前列环素和血栓烷 A2 的水平。
+颈动脉的超声检测:采用 Aloka SSD prosound a10 彩色多普
+勒超声诊断仪,高频线阵探头,频率为 7. 5 MHZ。 受检者平卧
+仰头,头转向对侧,暴露颈动脉,在颈动脉下颌角后方测定颈动
+脉内膜中层厚度,根据曼海姆颈动脉内膜中层厚度共识的意
+见[2] ,受检者 CIMT 超过 1. 5 mm 或超过周边内膜 50% 或 0. 5
+mm 视为斑块予以排除。 入选者计算左右颈双侧的平均值进行
+分析。
+根据 TSH 水平将 SCH 患者分为两组(A 组:4. 95 mIU / L<
+TSH<10 mIU / L,130 例;B 组:TSH≥10 mIU / L,120 例),依据美
+国甲状腺协会和临床内分泌医师协会 2012 年甲减诊治指南的
+观点[3] ,我们对所有 B 组患者给予 L-T4替代治疗,治疗达标标
+准为:0. 35 mIU / L<TSH<4. 95 mIU / L,L-T4从 12. 5 μg / d 开始给
+药,每月测量甲状腺功能,根据 TSH 水平调整 L-T4剂量,直至达
+标。 达标后以维持剂量(12. 5 ~ 100 μg / d,中位数 37. 5 μg / d)
+继续治疗 6 个月后再次测量上述各项指标,总治疗时间 7 ~ 12
+个月,中位数 9 个月。 治疗期间患者未使用调脂药物。
+3. 统计学处理:使用 SPSS 17. 0 软件进行统计分析,正态
+分布资料以 x-± s 表示,非正态资料以 M±四分位数间距表示,两
+组间比较采用 t 检验,多组间比较采用方差分析,协方差分析
+进行影响因素的校正。 单因素分析采用 Pearson 相关分析,多
+因素分析采用多元线性逐步回归分析。
+二、 结果
+1. 各组临床、甲功及血脂资料的比较:A 组、B 组 TSH、总
+胆固醇、LDL-C 均高于正常组(P<0. 05 或 P<0. 01);A 组、B 组
+平均动脉压(mean arterial pressure,MAP)、体重指数(body mass
+index, BMI)、FT3、FT4与正常组比较无统计学差异(表 1)。
+2. 各组动脉粥样硬化相关指标的比较:A 组、B 组 NO 均低
+于正常组,ADMA、血栓素 B2 和 CRP 均高于正常组(P<0. 05 或
+P<0. 01),A 组 CIMT 与正常组无差异,而 B 组 CIMT 高于正常
+组(P<0. 05)。 A 组、B 组内皮素 1 和 6-酮前列腺素 F1α 与正常
+组比较均无统计学差异(表 1)。
+经血脂校正后,A 组、B 组 ADMA、血栓素 B2 与正常组比较
+无统计学差异,但 A 组 NO、CRP 仍大于正常组(P<0. 05),B 组
+NO、CRP、CIMT 仍大于正常组(P<0. 05)。
+3. B 组治疗前后各类指标的变化:B 组 SCH 患者治疗后
+TSH 恢复正常,治疗后总胆固醇、LDL-C、ADMA、CIMT、血栓素
+B2 降低,NO 升高,差异均有统计学意义(均 P<0. 05);MAP、
+BMI、FT4、CRP 在治疗前后无统计学差异(表 2)。
+以自身抗体阳性和阴性对患者分类,分别对 CRP 进行统
+计,抗体阳性患者 CRP 高于正常组[(0. 47 ± 0. 02 对 0. 26 ±
+0. 02) mg / L, P<0. 001],抗体阴性患者 CRP 与正常组无显著差
+异[(0. 28 ± 0. 02 对 0. 26 ± 0. 02) mg / L, P>0. 05]。 B 组内抗体
+阳性患者治疗后 TPOAb、TGAb 水平降低[ (128. 24 ± 70. 38 对
+表 1  各组临床、甲状腺功能、血脂及动脉粥样硬化相关指标的比较
+组别 年龄(岁)
+体重指数
+(kg / m2)
+平均动脉压
+(mmHg)
+总胆固醇
+(mmol / L)
+甘油三酯
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+TSH
+(mIU / L)
+FT3
+(pmol / L)
+对照组 37. 5 ± 6. 4 20. 9 ± 2. 1 82. 4 ± 5. 0 3. 50 ± 0. 37 1. 45 ± 0. 26 1. 28 ± 0. 14 2. 43 ± 0. 30 2. 44 ± 3. 42 4. 25 ± 0. 23
+A 组(TSH<10mIU / L) 38. 4 ± 10. 8 22. 1 ± 2. 9 84. 0 ± 11. 9 4. 20 ± 0. 73b 1. 58 ± 0. 86 1. 23 ± 0. 19 2. 74 ± 0. 54a 8. 00 ± 2. 43b 4. 60 ± 0. 63
+B 组(TSH≥10mIU / L) 36. 2 ± 9. 6 22. 5 ± 1. 2 83. 9 ± 12. 2 4. 79 ± 1. 02b 1. 62 ± 0. 38 1. 15 ± 0. 37 3. 01 ± 0. 47b 16. 64 ± 3. 44b 4. 42 ± 0. 60
+组别
+FT4
+(pmol / L)
+NO
+(μmol / L)
+ADMA
+(μmol / L)
+血栓素 B2
+(pg / ml)
+6-酮前列腺素 F1α
+(pg / ml)
+内皮素 1
+(pg / ml)
+C 反应蛋白
+(mg / L)
+CIMT
+(mm)
+对照组 11. 13 ± 0. 74 52. 4 ± 9. 8 0. 83 ± 0. 11 83. 7 ± 11. 4 331. 7 ± 27. 8 7. 9 ± 1. 23 0. 26 ± 0. 02 0. 77 ± 0. 17
+A 组(TSH<10mIU / L) 12. 92 ± 1. 11 39. 6 ± 5. 4b 0. 92 ± 0. 14a 98. 1 ± 13. 1b 315. 6 ± 22. 9 8. 1 ± 1. 50 0. 35 ± 0. 02b 0. 80 ± 0. 15
+B 组(TSH≥10mIU / L) 11. 85 ± 1. 33 33. 1 ± 7. 6b 1. 05 ± 0. 10b 123. 6 ± 13. 1b 333. 6 ± 30. 4 8. 5 ± 0. 51 0. 56 ± 0. 03b 0. 89 ± 0. 21a
+注:1 mmHg=0. 133 kPa;HDL-C:高密度脂蛋白胆固醇;LDL-C:低密度脂蛋白胆固醇;ADMA:非对称二甲精氨酸;CIMT:颈动脉内膜中层厚度;与
+对照组比较,aP<0. 05,bP<0. 01
+表 2  治疗前后各类资料的比较
+组别
+体重指数
+(kg / m2)
+平均动脉压
+(mmHg)
+总胆固醇
+(mmol / L)
+LDL-C
+(mmol / L)
+TSH
+(mIU / L)
+FT4
+(pmol / L)
+治疗前 22. 5 ± 1. 2 83. 9 ± 12. 2 4. 79 ± 1. 02 3. 01 ± 0. 47 16. 64 ± 3. 44 11. 85 ± 1. 33
+治疗后 21. 5 ± 1. 1 84. 8 ± 10. 9 4. 21 ± 1. 05a 2. 69 ± 0. 41a 3. 01 ± 2. 98b 12. 55 ± 1. 42
+组别 NO(μmol / L)
+ADMA
+(μmol / L)
+血栓素 B2
+(pg / ml)
+C 反应蛋白
+(mg / L)
+CIMT
+(mm)
+治疗前 33. 1 ± 7. 6 1. 05 ± 0. 10 123. 6 ± 13. 1 0. 56 ± 0. 03 0. 89 ± 0. 21
+治疗后 42. 3 ± 4. 9b 0. 90 ± 0. 10a 112. 0 ± 7. 6a 0. 58 ± 0. 02 0. 81 ± 0. 28a
+注:1 mmHg=0. 133 kPa;LDL-C:低密度脂蛋白胆固醇;ADMA:非对称二甲精氨酸;CIMT:颈动脉内膜中层厚度;与治疗前比较,aP<0. 05,bP<0. 01
+45. 17±51. 24) IU / ml;(101. 54±65. 87 对 52. 85±49. 38) IU / ml,
+均 P<0. 05],但 CRP 水平无显著变化[(0. 65 ± 0. 03 对 0. 68 ±
+0. 02) mg / L, P>0. 05]。
+4. 相关及回归分析:Pearson 相关分析,总胆固醇 ( r =
+0. 425, P = 0. 01)、LDL-C ( r = 0. 228, P = 0. 04)、ADMA( r =
+0. 257, P=0. 04)、血栓素 B2( r = 0. 259, P = 0. 04)、CIMT( r =
+0. 401, P=0. 02)均与 TSH 正相关,NO( r= -0. 352, P=0. 02)与
+TSH 负相关。
+以动脉粥样硬化指标 NO、血栓素 B2、IMT 为应变量,以相
+关危险因素为自变量,分别进行多元线性逐步回归分析,校正
+年龄、血压、体重指数之后,NO 与 TSH、总胆固醇、ADMA 独立
+相关(β 分别为-0. 425、0. 312 和-0. 214,均 P<0. 05);血栓素
+B2 与 LDL 独立相关(β = 0. 401, P<0. 01);IMT 与 LDL-C、TSH
+独立相关(β 分别为 0. 435 和 0. 427,均 P<0. 01)。
+三、 讨论
+动脉内膜中层厚度( artery intima-media thickness, IMT)是
+动脉粥样硬化可靠的定量指标,颈动脉内膜增厚不仅可以反映
+颈动脉局部病变,而且是全身动脉粥样硬化早期病变的标志。
+Monzani 等[4]在不分层的情况下发现 SCH 患者 CIMT 高于正
+常,本研究中 TSH>10 mIU / L 的患者 CIMT 显著高于正常组,而
+TSH<10 mIU / L 的患者 CIMT 与正常组差异不显著,TSH<10
+mIU / L 的患者如发病时间较长是否可以引起 CIMT 的显著变化
+需要进一步证实。 血脂异常是引起 CIMT 升高的重要因素,在
+本研究中 SCH 患者总胆固醇、LDL-C 高于正常组,但我们发现
+经血脂校正后,CIMT 的差异仍存在,且 TSH 是 CIMT 的独立影
+响因素,表明 TSH 可以通过独立于血脂的途径影响 CIMT。
+IMT 被广泛用作心血管病变干预的替代终点,L-T4 治疗后,患
+者血清 fT4 水平并无显著变化,TSH 水平显著降低,CIMT 随
+TSH 下降而明显改善,表明降低 TSH 可以改善动脉粥样硬化前
+期病变。
+内皮细胞的损伤是动脉粥样硬化的起始环节,血管内皮能
+合成和分泌具有舒张血管作用的一氧化氮 NO、前列环素,以及
+缩血管物质内皮素 1,正常情况下,内皮分泌的活性因子处于平
+衡状态,病理情况下内皮分泌的活性物质失衡引发血管病变。
+本研究中 SCH 患者 NO 水平低于正常对照组,这与之前的报道
+是一致的[5] 。 高胆固醇和 ADMA 是已知的影响 NO 合成的重
+要因素,本研究 SCH 患者 ADMA 高于正常且 ADMA 与总胆固
+醇均与 NO 相关。 血脂校正后 ADMA 在各组间差异消失,但
+SCH 患者 NO 仍低于正常,表明 SCH 患者存在独立于血脂的途
+径影响 NO 水平。 我们之前的一项研究发现,体外培养的血管
+内皮细胞经 TSH 刺激后内皮一氧化氮合酶、前列环素表达水平
+降低,而内皮素 1 表达水平增高[6] ,本研究多元分析也显示,
+TSH 是导致 SCH 患者 NO 水平下降的独立影响因素,与 Taddei
+等[7]的研究结果一致,表明在 SCH 患者中,TSH 的直接作用导
+致内皮功能紊乱。
+血小板活化诱发血栓形成和释放促动脉粥样硬化因子,是
+动脉粥样硬化前期推动病变进展的重要改变。 血栓烷 A2 是血
+小板活化的重要标志物,本研究 SCH 组血栓素 B2 高于正常组
+且血栓素 B2 与 TSH 水平正相关,表明 SCH 患者出现血小板活
+化增加且与高 TSH 有关。 一般认为高血脂和内皮细胞结构损
+伤均可以引起血小板活化,但本研究数据经血脂校正后,血栓
+素 B2 在各组间差异消除,表明 TSH 通过升高血脂而诱导血小
+板活化增加。
+CRP 是与心血管疾病关系最密切的炎症标记物,CRP 水平
+较高的个体未来心血管发病率显著增加,且不依赖于胆固醇水
+平。 本研究发现自身抗体阳性患者 CRP 水平高于正常,而抗
+体阴性患者 CRP 水平在各组间无显著差异,表明患者 CRP 升
+高是由自身免疫引起,与 TSH 无关。 抗体阳性患者治疗后抗体
+水平显著下降,但 CRP 水平无明显改善,其机制需要进一步研
+究。
+总之,我们的研究表明,SCH 与动脉粥样硬化存在密切关
+系,升高的 TSH 在其中发挥重要作用。

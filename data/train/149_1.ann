@@ -1,0 +1,259 @@
+T1	Test 6645 6654	高密度脂蛋白胆固醇
+T2	Test 5281 5285	脂肪因子
+T3	Test 7294 7298	脂肪因子
+T4	Test 156 160	体重指数
+T5	Test 3970 3974	体重指数
+T6	Test 6274 6278	体重指数
+T7	Test 7688 7690;7691 7693	体重 指数
+T8	Test 5439 5442	腰臀比
+T9	Test 6974 6977	腰臀比
+T10	Test 7729 7731	腰围
+T11	Test 6642 6644	尿酸
+T12	Disease 7771 7776	代谢综合征
+T13	Test 6636 6641	游离脂肪酸
+T14	Test 7359 7364	游离脂肪酸
+T15	Test 6621 6624	TSH
+T16	Test 3967 3969	体重
+T17	Test 5206 5208	体重
+T18	Test 6535 6537	体重
+T19	Test 6892 6894	体重
+T20	Test 6305 6308	骨密度
+T21	Test 6411 6413	血糖
+T22	Disease 113 115	肥胖
+T23	Disease 128 130	肥胖
+T24	Disease 181 183	肥胖
+T25	Disease 222 227	代谢性肥胖
+T26	Disease 262 264	肥胖
+T27	Disease 287 289	肥胖
+T28	Disease 343 345	肥胖
+T29	Disease 377 379	肥胖
+T30	Disease 403 405	肥胖
+T31	Disease 411 413	肥胖
+T32	Disease 423 430	异常代谢性肥胖
+T33	Disease 439 446;447 449	代谢状态异常性 肥胖
+T34	Disease 484 492;493 494	体重正常代谢性肥 胖
+T35	Disease 496 498	肥胖
+T36	Disease 583 592	体重正常代谢性肥胖
+T37	Disease 3371 3373	肥胖
+T38	Disease 3429 3431	肥胖
+T39	Disease 3454 3456	肥胖
+T40	Disease 3569 3571	肥胖
+T41	Disease 3586 3590	代谢紊乱
+T42	Disease 3593 3595	肥胖
+T43	Disease 3574 3579	代谢性疾病
+T44	Disease 3640 3642	肥胖
+T45	Disease 3688 3690	肥胖
+T46	Disease 3727 3729	肥胖
+T47	Disease 3752 3754	肥胖
+T48	Disease 3796 3798	肥胖
+T49	Disease 3832 3834	肥胖
+T50	Disease 3846 3848	肥胖
+T51	Disease 3883 3888	原发性肥胖
+T52	Disease 3878 3880	肥胖
+T53	Disease 3894 3899	获得性肥胖
+T54	Disease 3901 3906	继发性肥胖
+T55	Disease 3955 3957	肥胖
+T56	Disease 4013 4015	肥胖
+T57	Disease 4025 4027	肥胖
+T58	Reason 4072 4076	中枢调控
+T59	Reason 4077 4082	下丘脑调节
+T60	Reason 4083 4084;4085 4088	棕 色脂肪
+T61	Reason 4089 4093	低度炎症
+T62	Disease 4149 4151	肥胖
+T63	Disease 4164 4166	肥胖
+T64	Reason 4197 4201	基因改变
+T65	Reason 4202 4207	线粒体应激
+T66	Reason 4208 4212	炎症反应
+T67	Reason 4213 4217;4218 4221	内环境稳 态失衡
+T68	Disease 4224 4226	肥胖
+T69	Disease 4280 4282	肥胖
+T70	Disease 4326 4330	腹型肥胖
+T71	Disease 4331 4336	周围性肥胖
+T72	Disease 4337 4341;4342 4345	正常代谢 性肥胖
+T73	Disease 4346 4358	体重正常的代谢异常性肥胖
+T74	Disease 4424 4426	肥胖
+T75	Disease 4514 4516	肥胖
+T76	Disease 4492 4494	肥胖
+T77	Disease 4529 4531	肥胖
+T78	Disease 4580 4582	肥胖
+T79	Disease 4644 4646	肥胖
+T80	Disease 4747 4749	肥胖
+T81	Test 4777 4781	脂肪含量
+T82	Disease 4804 4806	肥胖
+T83	Disease 4808 4815	代谢正常性肥胖
+T84	Disease 4847 4860	代 谢 异 常 性 肥 胖
+T85	Disease 4959 4970	高 代 谢 性 肥 胖
+T86	Test 5209 5213	体脂含量
+T87	Test 5214 5218	体脂分布
+T88	Symptom 5219 5221;5222 5225	肝脂 肪沉积
+T89	Test 5244 5249	基础代谢率
+T90	Test 5258 5260	血压
+T91	Test 5261 5265	激素水平
+T92	Disease 5309 5311	肥胖
+T93	Disease 5324 5331	代谢正常性肥胖
+T94	Test 5411 5415	脂肪含量
+T95	Test_Value 5415 5416	高
+T96	Test_Value 5442 5444	<1
+T97	Symptom 5454 5459	肝脂肪沉积
+T98	Level 5484 5486	严重
+T99	Disease 5486 5488	肥胖
+T100	Disease 5503 5508	心血管意外
+T101	Disease 5528 5530	肥胖
+T102	Disease 5569 5571	肥胖
+T103	Disease 5624 5626	超重
+T104	Level 5627 5628;5629 5630	轻 度
+T105	Disease 5630 5632	肥胖
+T106	Disease 5659 5664	心血管意外
+T107	Disease 5729 5731	肥胖
+T108	Symptom 5736 5743	皮肤萎黄无弹性
+T109	Symptom 5744 5747	无光泽
+T110	Symptom 5748 5755	脂肪分布异性化
+T111	Disease 5758 5761;5762 5763	腹型肥 胖
+T112	Symptom 5766 5770	赘肉较多
+T113	Symptom 5771 5779	精神萎靡缺乏欲望
+T114	Symptom 5784 5787;5788 5792	智力和 发育障碍
+T115	Symptom 5817 5822	性激素低下
+T116	Symptom 5833 5837	少言寡欲
+T117	Symptom 5838 5840;5841 5844	喜静 不喜动
+T118	Symptom 5845 5849	兴奋性差
+T119	Level 5853 5855	严重
+T120	Symptom 5871 5876	女性男性化
+T121	Symptom 5877 5882	男性女性化
+T122	Disease 5914 5916;5917 5920	下丘 脑肥胖
+T123	Disease 5921 5930	肥胖生殖无能综合征
+T124	Disease 5931 5939	垂体前叶功能减退
+T125	Disease 5948 5950	肥胖
+T126	Disease 5961 5966;5967 5968	低代谢性肥 胖
+T127	Disease 5977 5979	肥胖
+T128	Symptom 6121 6125	皮肤红润
+T129	Symptom 6126 6130	血供丰富
+T130	Symptom 6134 6142	皮肤毛细血管扩张
+T131	Symptom 6145 6147	紫纹
+T132	Symptom 6148 6151	蜘蛛痣
+T133	Symptom 6170 6174	精力旺盛
+T134	Symptom 6175 6179	多吃好斗
+T135	Symptom 6180 6182;6183 6185	兴奋 性高
+T136	Disease 6218 6224	高胰岛素血症
+T137	Disease 6231 6234	高血压
+T138	Disease 7119 7125	高胰岛素血症
+T139	Disease 7127 7131	黑棘皮病
+T140	Disease 7109 7111	肥胖
+T141	Disease 7173 7175	肥胖
+T142	Reason 7178 7183	胰岛素抵抗
+T143	Reason 7184 7188	瘦素抵抗
+T144	Symptom 7201 7207	皮肤色素沉着
+T145	Symptom 7208 7212	皮厚肉多
+T146	Disease 7225 7226;7227 7232	高 胰岛素血症
+T147	Disease 7233 7238	高瘦素血症
+T148	Symptom 7246 7252	皮肤色素沉着
+T149	Disease 7303 7308	高尿酸血症
+T150	Test 7352 7353;7354 7358	C 反应蛋白
+T151	Test 7365 7370	白细胞介素
+T152	Symptom 7438 7442	代谢异常
+T153	Test 7556 7559	胰岛素
+T154	Level 7580 7582	严重
+T155	Disease 7590 7596	低雄激素血症
+T156	Disease 7613 7619	下丘脑性肥胖
+T157	Disease 7625 7634	体重正常代谢性肥胖
+T158	Disease 7705 7707	肥胖
+T159	Test_Value 7731 7733	增加
+T160	Reason 7788 7790;7791 7793	脂肪 分布
+T161	Disease 7835 7837	肥胖
+T162	Disease 7876 7878	肥胖
+T163	Disease 7950 7952	肥胖
+T164	Symptom 364 368	皮肤表征
+T165	Disease 415 422	正常代谢性肥胖
+T166	Disease 451 457	低代谢性肥胖
+T167	Disease 458 464	高代谢性肥胖
+T168	Disease 465 472	炎症代谢性肥胖
+T169	Disease 511 518	正常代谢性肥胖
+T170	Disease 529 535	低代谢性肥胖
+T171	Disease 547 553	高代谢性肥胖
+T172	Disease 565 572	炎症代谢性肥胖
+T173	Drug 3522 3528	Qsymia
+T174	Drug 3538 3548	Lorcaserin
+T175	Disease 3820 3822	超重
+T176	Disease 4468 4470	肥胖
+T177	Disease 4631 4633	肥胖
+T178	Symptom 4761 4765	皮肤表征
+T179	Symptom 4766 4767;4768 4771	代 谢特点
+T180	Disease 4996 5003	炎症代谢性肥胖
+T181	Test 5230 5234	皮肤表征
+T182	Reason 5364 5368	家族遗传
+T183	Reason 5369 5373;5374 5375	种族特异 性
+T184	Disease 5495 5499	代谢异常
+T185	Disease 5685 5691	低代谢性肥胖
+T186	Test 5432 5436	激素分泌
+T187	Test 5427 5431	代谢指标
+T188	Reason 5889 5891;5892 5895	先天 性因素
+T189	Reason 5896 5902	后天发育异常
+T190	Reason 5903 5910	内分泌代谢紊乱
+T191	Disease 6080 6086	高代谢性肥胖
+T192	Disease 7077 7084	炎症代谢性肥胖
+T193	Disease 7166 7170	代谢紊乱
+T194	Symptom 7391 7395	体力旺盛
+T195	Symptom 7396 7400	精力充沛
+T196	Symptom 7401 7405;7406 7408	脂肪含量 适中
+T197	Disease 7417 7421	代谢紊乱
+T198	Disease 7445 7451	心血管并发症
+T199	Disease 77 79	肥胖
+T200	Disease 118 123	代谢性疾病
+T201	Disease 604 606	肥胖
+T202	Disease 636 638	肥胖
+T203	Disease 666 668	肥胖
+T204	Disease 3386 3391	代谢性疾病
+T205	Disease 3926 3928	肥胖
+T206	Reason 4040 4044	节俭基因
+T207	Reason 4047 4051	环境土壤
+T208	Reason 4054 4058	营养过剩
+T209	Reason 4060 4064	生长追赶
+T210	Disease 4758 4760	肥胖
+T211	Disease 5097 5099	肥胖
+T212	Disease 5113 5115	肥胖
+T213	Test 5251 5257	糖脂代谢指标
+T214	Test 5275 5277;5278 5280	炎症 因子
+T215	Symptom 5399 5403	皮肤白润
+T216	Symptom 5404 5406	光滑
+T217	Symptom 5407 5410	弹性好
+T218	Symptom 5417 5423	分布基本正常
+T219	Disease 5475 5479	骨关节炎
+T220	Level 5642 5644	严重
+T221	Test_Value 7694 7698	正常范围
+T222	Symptom 7712 7715;7716 7719	脂肪含 量异常
+T223	Symptom 7720 7727	脂肪的异位集聚
+T224	Reason 7809 7813	脂肪溢出
+T225	Reason 7815 7820	脂肪重分布
+T226	Symptom 7565 7569	炎症状态
+T227	Level 7435 7437	严重
+T228	Test 7343 7347	炎症因子
+T229	Test_Value 7299 7301	升高
+T230	Test 7286 7290	促炎因子
+T231	Test 7102 7106	炎症因子
+T232	Test_Value 7106 7108	升高
+T233	Test_Value 6978 6980	>1
+T234	Symptom 6967 6973	糖脂代谢紊乱
+T235	Test 5051 5053	体重
+T236	Reason 4094 4098	菌群失调
+T237	Reason 4101 4105	胆汁代谢
+T238	Reason 4106 4110	脂肪溢出
+T239	Reason 4112 4116	异位分布
+T240	Disease 4899 4905;4906 4907	代谢异常性肥 胖
+T241	Disease 4924 4929;4930 4931	低代谢性肥 胖
+T242	Disease 5054 5061	正常代谢性肥胖
+T243	Symptom 5466 5473	关节及运动障碍
+T244	Symptom 5797 5801	低代谢率
+T245	Symptom 5802 5807	低激素水平
+T246	Symptom 5809 5813;5814 5816	垂体功能 减退
+T247	Symptom 5823 5830	甲状腺功能减退
+T248	Disease 5855 5858	脂肪肝
+T249	Treatment 6040 6046	激素替代治疗
+T250	Anatomy 6158 6162	内脏脂肪
+T251	Symptom 6186 6193	激素水平常升高
+T252	Anatomy 7213 7215	脂肪
+T253	Anatomy 7216 7218	肌肉
+T254	Disease 7270 7275	脂代谢紊乱
+T255	Disease 7264 7269	糖代谢异常
+T256	Anatomy 7309 7311	脂肪
+T257	Reason 7583 7588	胰岛素抵抗
+T258	Test 7734 7738	腹内脂肪
+T259	Test_Value 7738 7740	增多

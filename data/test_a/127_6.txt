@@ -1,0 +1,306 @@
+临床研究
+都医科大学肾病学系
+维持性血液透析的糖尿病患者空腹血糖水平
+与心血管预后的关系
+于玲  李寒  王世相
+[摘要]   目的  探讨维持性血液透析的糖尿病患者空腹血糖控制情况与心血管事件发生风险的关
+系。 方法 根据空腹血糖,将 2009 年 7 月在本科进行规律血液透析的 154 例患者分为 3 组:非糖尿病空腹
+血糖正常组(A 组,n=84)、糖尿病空腹血糖控制良好组(B 组,n= 41)、糖尿病空腹血糖控制欠佳组(C 组,
+n=29),收集患者人体测量学指标、实验室数据,并随访 36 个月,记录患者心血管事件及低血糖发生情况。
+结果 B 组和 C 组患者超敏 C 反应蛋白(CRP)及甘油三酯较 A 组患者高,腰围较 A 组大;C 组患者高密度
+脂蛋白胆固醇及全段甲状旁腺激素水平最低,而体重指数最高(P<0. 05)。 随访期间共发生 47 例心血管事
+件,用 Kaplan-Meier 法分析心血管事件累计发生率,C 组明显高于 A 组和 B 组(均 P<0. 01),而后 2 组间差
+异无统计学意义。 经多因素 Cox 风险回归分析表明空腹血糖≥7. 2 mmol / L、超敏 CRP 是心血管事件累计
+发生的独立危险因素(P<0. 05 或 P<0. 01)。 结论 空腹血糖控制在 5. 6 ~ 7. 2 mmol / L 可显著改善合并糖
+尿病的维持性血液透析患者心血管预后。
+[关键词]   血液透析; 心血管事件; 空腹血糖; 炎症
+Relationship of fasting plasma glucose with cardiovascular events in diabetic patients treated with maintenance
+hemodialysis Yu Ling, Li Han, Wang Shixiang. Department of Blood Purification, Chao-yang Hospital, Capital
+Medical University, Beijing 100020, China
+[Abstract]   Objective   To investigate the potential contributing effects of fasting plasma glucose on
+cardiovascular events in diabetic patients treated with maintenance hemodialysis. Methods According to fasting
+plasma glucose, 154 patients undergoing maintenance hemodialysis in our department were assigned into group A(n=
+84) nondiabetic with normal fasting blood glucose, group B ( n = 41) diabetic with good control of fasting blood
+glucose, and group C(n=29) diabetic with poor control of fasting glucose. Anthropometric and laboratory data were
+collected, and the participants were followed up for 36 months. Cardiovascular events and hypoglycemia were recorded
+and analyzed. Results Highly-sensitive C reactive protein ( hs-CRP), triglyceride, and waist circumference were
+significantly higher in group B and group C compared with group A. Body mass index in group C was the highest while
+high density lipoprotein-cholesterol and intact parathyroid hormone levels were the lowest among 3 groups ( P <
+0. 05) . During the 36 months follow-up, 47 cases of cardiovascular events occurred. Kaplan-Meier curves showed that
+cumulative incidence of cardiovascular events was significantly higher in group C than group A and B(both P<0. 01),
+and no significant difference was found between group A and B. Cox regressive analysis revealed that fasting plasma
+glucose and hs-CRP were independant risk factors for cumulative incidence of cardiovascular events (P<0. 05 or P<
+0. 01) . Conclusions If fasting plasma glucose is controlled within the range of 5. 6 to 7. 2 mmol / L, cardiovascular
+outcomes may be significantly ameliorated in diabetic patients treated with maintenance hemodialysis.
+[Key words]  Hemodialysis; Cardiovascular events; Fasting plasma glucose; Inflammation
+(Chin J Endocrinol Metab, 2014, 30: 22-25)
+在一般人群中,糖尿病及血糖控制不佳是心血管
+事件的独立危险因素,在维持性血液透析(maintenance
+hemodialysis,MHD) 患者中,有研究报道,空腹血糖
+(FPG)升高是非糖尿病 MHD 患者短期死亡的危险因
+素[1];而对于糖尿病肾病行 MHD 的患者,良好的血糖
+控制可降低死亡风险[2]。 心血管事件是 MHD 患者最
+主要的死亡原因。 血糖水平是否与合并糖尿病的
+MHD 患者心血管事件发生风险相关国内少有报道。
+由于 HBA1C受血红蛋白水平的影响,因此本研究拟通
+过 FPG 与心血管事件的关系,探讨 MHD 患者的血糖
+控制情况对心血管事件的影响。
+对象和方法
+一、 对象
+选择 2009 年 7 月在首都医科大学附属北京朝阳
+医院血液净化科行规律血液透析的患者为研究对象。
+入选标准:(1)透析龄大于 3 个月;(2)病情稳定;(3)
+使用自体动静脉内瘘;(4)自愿参加此项研究者。 排
+除标准:(1)有明确的心血管疾病史(包括:冠脉造影
+或冠脉 CT 明确诊断的缺血性心脏病、头颅 CT 诊断的
+脑出血或脑梗死,腔隙性脑梗死除外);(2)有恶性肿
+瘤;(3)严重肝脏或胰腺疾病。 共入选患者 154 例,其
+中男性 87 例,女性 67 例;平均年龄(56 ±15)岁。 原发
+病为:慢性肾小球肾炎 53 例(34. 42% ),糖尿病肾病
+37 例(24. 02% ),高血压肾损害 26 例(16. 88% ),其他
+肾病 38 例(24. 68% )。 所有患者均每周透析 3 次,每
+次 4 h,规律行血液透析滤过或血液灌流 1 次 /周,透析
+器为一次性聚砜膜透析器,并且使用标准碳酸盐无糖
+透析液,透析液流速 500 ml / min,血流速 200 ~ 350
+ml / min,透析液成分:钠 138 mmol / L,钾 2. 0 ~ 2. 5
+mmol / L,钙 1. 25 ~ 1. 5 mmol / L。 尿素清除指数均大于
+1. 2。 本研究获医院伦理委员会批准,所有患者均签署
+知情同意书。
+二、 方法
+收集并记录患者的一般资料,包括性别、年龄、透
+析年龄、服药情况,透析前坐位血压,透析后身高、体
+重、腰围,计算体重指数 ( BMI) = 体重 ( kg) /身高2
+(m2),平均动脉压(mmHg,1 mmHg =0. 133 kPa)= (收
+缩压+2×舒张压) / 3。 同时于透析当日空腹至少 8 h 检
+测患者的实验室数据,包括:血清白蛋白、总胆固醇
+(TC)、高密度脂蛋白胆固醇(HDL-C)、低密度脂蛋白
+胆固醇(LDL-C)、甘油三酯(TG)、脂蛋白 a、尿素氮、肌
+酐、尿酸、血钙、血磷、血糖、超敏 C 反应蛋白(CRP)、
+全段甲状旁腺激素(iPTH)、血红蛋白。
+根据美国糖尿病协会 2009 年糖尿病诊疗指南中
+血糖控制标准,按照 FPG 将患者分为 3 组:非糖尿病
+空腹血糖正常组(无糖尿病史且 FPG<5. 6 mmol / L, A
+组,n=84),糖尿病空腹血糖控制良好组(已诊断糖尿
+病且 5. 6<FPG<7. 2 mmol / L, B 组,n = 41),糖尿病空
+腹血糖控制欠佳组 (已诊断糖尿病且 FPG ≥7. 2
+mmol / L,C 组,n=29),将 3 组患者的基线数据做横断
+面分析。
+随访 36 个月,记录患者低血糖(低血糖是指血
+糖<3. 9 mmol / L 或伴低血糖症状且服糖后症状改善)
+及心血管事件(心血管事件是指有症状的心绞痛、急
+性心肌梗死、充血性心力衰竭、心源性猝死、脑血管意
+外、外周血管疾病[3] )的发生情况及时间。 将发生心
+血管事件作为观察终点,观察结束时仍未发生心血管
+事件者以研究结束时间为终点。
+三、 统计学处理
+应用 SPSS 17. 0 统计软件进行统计学分析。 符合
+正态分布的计量资料结果以 x-± s 表示,组间比较采用
+方差分析,不符合正态分布的计量资料以中位数表示,
+并进行对数转换,符合正态分布后组间比较采用方差
+分析。 计数资料采用频数表示(构成比,率),组间比
+较采用 字2 检验。 用 Kaplan-Meier 法、Log-rank 检验分
+析不同 FPG 组间心血管事件发生率并描绘生存曲线。
+采用多因素 Cox 比例风险回归分析影响心血管事件的
+因素。 P<0. 05 为差异具有统计学意义。
+结    果
+一、 不同组间患者一般情况、生化指标的比较
+基线时,3 组患者的 BMI、腰围、HDL-C、TG、超敏
+CRP、iPTH 水平差异有统计学意义(P<0. 05,表 1)。 B
+组和 C 组患者超敏 CRP 及 TG 较 A 组患者高,腰围较
+A 组大;C 组患者 HDL-C 及 iPTH 水平最低,而 BMI 最
+高。 3 组患者的年龄、性别、透析年龄、降压药、平均动
+脉压及血清白蛋白、TC、LDL-C、脂蛋白 a、尿素氮、肌
+酐、尿酸、血磷、血钙、钙磷乘积及血红蛋白差异无统计
+学意义(P>0. 05,表 1)。
+二、 不同组间发生心血管事件率的比较
+随访期间发生心血管事件共 47 例(有发生 2 次或
+以上事件者,统计总心血管事件时记为 1 次,以最先发
+生终点事件的时间作为结局时间), 总发生率为
+30. 5% ,A 组心血管事件率为 22. 6% (19 例),B 组心
+血管事件率 29. 3% (12 例),C 组心血管事件率55. 2%
+(16 例),3 组间发生心血管事件差异有统计学意义
+(字2 =10. 815,P=0. 004)。 用 Kaplan-Meier 法分析不同
+组间的心血管事件累计发生率和描述心血管事件累
+计发生曲线(图 1),经 log-rank 检验,A 组、B 组分别
+与 C 组间差异存在统计学意义(均 P<0. 01),而 A 组
+与 B 组间差异无统计学意义( 字2 = 0. 951,P = 0. 329)。
+随访期间低血糖共发生 13 例(有发生 2 次或以上者,
+统计低血糖时记 1 次),低血糖发生率 3 组间差异无统
+计学意义(P>0. 05,表 1)。
+三、 影响心血管事件的 Cox 比例风险回归模型
+选取 A 组作为对照组,以心血管事件作为因变
+量,以空腹血糖分组作为自变量,单因素 Cox 回归模型
+显示,C 组发生心血管事件的相对危险度 (RR) 为
+2. 611(95% CI 1. 152 ~ 5. 017,P=0. 009);若以 B 组为
+对照组,C 组发生心血管事件的相对危险度(RR)为
+1. 441(95% CI 1. 052 ~ 3. 171,P = 0. 020)。 将与心血
+管事件发生相关的变量年龄、腰围、血清白蛋白、脂蛋
+白 a、 FPG≥7. 2 mmol / L、 肌酐、 钙磷乘积及超敏 CRP
+表 1  各组患者基线资料比较[x-± s,中位数(四分位数)]
+Tab 1  Comparison of baseline data in patients of various groups[x-± s,M(Quartile)]
+组别
+Group
+例数
+n
+男性
+Male
+n(% )
+年龄
+(岁)
+Age
+(year)
+透析龄
+(月)
+Hemodialysis age
+(month)
+CCB
+n(% )
+RAASB
+n(% )
+MAP
+(mmHg)
+低血糖
+Hypoglycemia
+(% )
+BMI
+(kg / m2)
+WC
+(cm)
+A  84 41(48. 8) 56 ± 17 84 ± 47 49(58. 3) 44(52. 4) 98 ± 12 6. 0 21. 81 ± 3. 72   84 ± 12
+B  41 27(65. 8) 55 ± 12 77 ± 48 30(73. 2) 22(53. 7) 100 ± 11 12. 2 23. 22 ± 3. 88   89 ± 12a
+C  29 19(65. 5) 60 ± 12 66 ± 41 22(75. 9) 13(44. 8) 102 ± 11 10. 3 24. 41 ± 4. 94a   91 ± 13a
+总体
+Total 154 87(56. 5) 56 ± 15 79 ± 46 101(65. 6) 79(51. 3) 99 ± 12 8. 4 22. 67 ± 4. 12   86 ± 12
+组别
+Group
+例数
+n
+Hb
+(g / L)
+Alb
+(g / L)
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+TG
+(mmol / L)
+Lp(a)
+(mg / dl)
+A  84 109. 9 ± 17. 5 36. 2(33. 9,38. 7) 4. 1 ± 1. 0 1. 28 ± 0. 38 2. 21 ± 0. 72 1. 26(0. 84,1. 72) 24. 5(19. 0,32. 2)
+B  41 113. 4 ± 15. 1 34. 6(32. 3,37. 8) 4. 6 ± 1. 2 1. 18 ± 0. 38 2. 45 ± 0. 71 1. 81(1. 22,3. 06) a 26. 5(18. 9,43. 4)
+C  29 106. 9 ± 15. 4 34. 8(31. 7,36. 9) 4. 2 ± 1. 1 1. 07 ± 0. 40a 2. 30 ± 0. 67 1. 85(0. 96,2. 90) a 30. 4(19. 6,37. 4)
+总体
+Total 154 110. 3 ± 16. 6 35. 8(33. 3,38. 0) 4. 2 ± 1. 1 1. 22 ± 0. 39 2. 32 ± 0. 72 1. 42(0. 92,2. 08) 25. 7(19. 2,36. 7)
+组别
+Group
+例数
+n
+BUN
+(mmol / L)
+Cr
+(μmol / L)
+UA
+(μmol / L)
+Ca
+(mmol / L)
+P
+(mmol / L)
+Ca*P
+(mg2 / dl2)
+hs-CRP
+(mg / L)
+iPTH
+(pg / dl)
+A  84 24. 1 ± 6. 7 906. 5 ± 232. 7 400. 4 ± 99. 9 2. 21 ± 0. 25 1. 82 ± 0. 62 50. 1 ± 18. 5 1. 3(0. 7,4. 2)   311(194,477)
+B  41 24. 2 ± 7. 9 932. 1 ± 270. 1 429. 3 ± 109. 9 2. 12 ± 0. 35 1. 81 ± 0. 68 46. 8 ± 17. 8 3. 2(1. 8,6. 6) a   280(151,496)
+C  29 25. 7 ± 4. 8 824. 4 ± 223. 4 393. 6 ± 70. 5 2. 15 ± 0. 22 1. 78 ± 0. 51 47. 8 ± 15. 6 5. 0(2. 6,11. 7) a   128(69,230) ab
+总体
+Total 154 24. 4 ± 6. 8 897. 8 ± 242. 8 406. 8 ± 98. 4 2. 17 ± 0. 27 1. 81 ± 0. 62 48. 8 ± 17. 8 2. 9(1. 0,5. 5)   272(144,469)
+注:A:非糖尿病空腹血糖正常组 Normal fasting blood glucose without diabetes group;B:糖尿病空腹血糖控制良好组 Well-controlled fasting blood
+glucose with diabetes group;C:糖尿病空腹血糖控制欠佳组 Poorly-controlled fasting blood glucose with diabetes group;CCB:钙通道拮抗剂 Calcium channel
+blocker; RAASB:肾素-血管紧张素-醛固酮系统拮抗剂 Renin-angiotensin-aldosterone system blocker; MAP:平均动脉压 Mean arterial pressure;BMI:体重指
+数 Body mass index;WC:腰围 Waist circumference;Hb:血红蛋白 Hemoglobin;Alb:血清白蛋白 Serum albumin;TC:总胆固醇 Total cholesterol;HDL-C:高密
+度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;TG:甘油三酯 Triglyceride;Lp(a):脂
+蛋白 a Lipoprotein a;BUN:尿素氮 Blood urea nitrogen;Cr:血肌酐 Creatinine;UA:血尿酸 Uric acid;Ca:血钙 Serum calcium;P:血磷 Serum phosphate;
+Ca*P:钙磷乘积 Product of calcium and phosphorus;hs-CRP:超敏 C 反应蛋白 Highly-sensitive C reactive protein;iPTH:全段甲状旁腺激素 Intact parathyroid
+hormone;与 A 组比较 vs A group,aP<0. 05;与 B 组比较 vs B group,bP<0. 05
+注:组别同表 1 The groups are the same as Tab 1
+图 1  各组心血管事件累计发生率
+Fig 1  Accumulated incidence of cardiovascular events in various groups
+作为自变量,应用多变量 Cox 比例风险回归分析,结果
+表明 FPG≥7. 2 mmol / L、超敏 CRP 是心血管事件累计
+发生的独立危险因素 (HR 2. 220, 95% CI 1. 144 ~
+4. 306, P = 0. 018;HR 1. 113,95% CI 1. 032 ~ 1. 200,
+P=0. 005)。
+讨    论
+随着合并糖尿病的 MHD 患者(包括糖尿病肾病、
+移植术后服用药物所致)不断增加,以及患者对生活
+质量的要求不断提高,应重视这部分患者的特殊性,并
+积极寻求可控因素以降低患者心血管事件风险。
+糖尿病是代谢综合征的一部分,糖尿病患者多伴
+有血脂紊乱及肥胖。 本研究显示,合并糖尿病的 MHD
+患者代谢紊乱 ( TG 升高,HDL-C 降低,腰围大,BMI
+高)的发生较非糖尿病的患者高,这与国外的报道相
+一致[4]。 本研究发现,C 组 iPTH 明显低于 A、B 组,而
+A、B 组之间无差异,表明高血糖可抑制 iPTH 分泌,但
+目前具体机制尚不完全清楚。 Sugimoto 等[5] 认为高血
+糖可能是通过抑制 PTH 合成和耗竭甲状旁腺细胞的
+PTH 储存池来抑制其分泌。 其他因素如低胰岛素水
+平、糖尿病低镁血症、糖尿病严重微血管疾病引起的甲
+状旁腺功能不良等也可能是合并糖尿病患者 PTH 水
+平低的原因。
+糖尿病是 MHD 患者心血管事件发生的危险因
+素,对于合并糖尿病的 MHD 患者,是否可从严格的血
+糖控制中获益,仍存分歧[6-8]。 本研究显示,适当的血
+糖控制(FPG 5. 6 ~ 7. 2 mmol / L)可明显降低合并糖尿
+病的 MHD 患者的心血管事件发生率(下降 44. 1% ),
+且未增加发生低血糖的风险。 经多因素 COX 风险比
+例回归分析显示,FPG≥7. 2 mmol / L 发生心血管事件
+的风险是 FPG<7. 2 mmol / L 患者的 2. 2 倍。 高血糖影
+响电解质平衡、钾钙通道的功能及交感神经的活动,与
+肾功能衰竭患者的心律失常有关[9];血液透析对小分
+子物质的快速清除使血浆渗透压下降,水分进入组织
+和细胞内,影响血管再充盈,是诱发低血压甚至心肌缺
+血的因素;高血糖诱导高反应性氧自由基的过度产生,
+引起氧化应激和炎症因子的释放,干扰一氧化氮的产
+生或对其敏感性下降,增加血管张力,从而诱发心血管
+事件的发生[10]。 此外,血糖控制不佳可引起口渴,透
+析间期体重增长过多,使患者发生充血性心力衰竭与
+死亡风险升高[11,12];透析过程中超滤过快可导致有效
+循环血容量减少、血压下降[13]。 同时,也有研究表明,
+在合并糖尿病的 MHD 患者中,血糖控制不良与心源
+性猝死、心血管事件相关,并增加卒中及因心力衰竭致
+死的风险[14]。 CRP 是慢性炎症状态下细胞因子产生
+的标志,是慢性炎症状态的最敏感而特异的指标。 近
+年来认为,终末期肾脏病不仅是机体对肾功能进行性
+衰竭所产生的一系列复杂的细胞、生化反应,同时还是
+一个以细胞因子驱动为特征的全身性慢性炎症反
+应[15]。 本研究显示,微炎症状态在 MHD 患者中普遍
+存在(46. 1% ),与心血管事件相关,并且是心血管事
+件的独立危险因素。 MHD 患者的微炎症状态是多种
+因素介导的,血液透析治疗过程中如透析膜和管路的
+生物不相容性可通过刺激合成和(或)释放一些促炎
+症因子而促进炎症产生,如 CRP、白细胞介素(IL)-1、
+IL-6、肿瘤坏死因子-α、干扰素-γ[16]。 另外,通过透析
+液污染物如内毒素等可以刺激细胞分泌细胞因子并产
+生炎症反应[17]。 CRP 通过多重机制参加心血管炎性
+改变,在 MHD 患者心血管疾病形成中起重要作用[18]。
+近年来,营养不良、炎症和动脉粥样硬化(MIA)三者之
+间的关系逐渐被人们认识。 炎症被许多学者认为是
+MIA 综合征的中心环节,能够增加透析患者发生心血
+管疾病的危险性[19]。 此外,内皮依赖性血管舒张功能
+受损也是 MHD 患者的特征[20]。 同时有研究显示微炎
+症与内皮功能紊乱在终末期肾脏病患者中同时存在,
+互相促进,通过独立及协同效应而影响患者全因死亡
+及致死性、非致死性心血管事件的发生[21]。
+本研究表明,MHD 患者心血管事件的发生率高,
+其中合并糖尿病的患者存在更多心血管事件的危险因
+素(包括糖脂代谢紊乱、肥胖、微炎症),但空腹血糖控
+制理想后明显降低发生心血管事件的风险。 因此认
+为,对于血糖升高的血液透析患者,应当从饮食控制、
+食物结构、体育活动以及必要的药物治疗等方面积极
+采取措施,将血糖控制在适当范围,以期减少其心血管
+事件发生,提高生活质量。

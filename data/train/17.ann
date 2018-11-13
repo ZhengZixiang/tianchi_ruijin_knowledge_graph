@@ -1,0 +1,438 @@
+T1	Level 30 34	异常增高
+T3	Operation 48 50	手术
+T4	Test 61 65	儿茶酚胺
+T5	Test 66 69	皮质醇
+T6	Test 70 74	炎性介质
+T7	Test 75 79;80 83	胰岛素拮 抗因子
+T8	Test 86 90	血糖增高
+T9	Disease 101 104	糖尿病
+T10	Disease 105 109;110 111	代谢综合 征
+T11	Disease 112 127	胰岛素抵抗或胰岛素分泌障碍疾病
+T12	Disease 136 142	围术期高血糖
+T2	Drug 154 156	激素
+T13	Drug 157 162	含糖营养液
+T14	Test 170 173	高血糖
+T15	Level 167 169	增加
+T16	Treatment 195 199	降糖治疗
+T17	Test 205 208	低血糖
+T18	Test 209 215	血糖剧烈波动
+T19	Test 231 235	血糖异常
+T20	Test 238 241	高血糖
+T21	Test 242 245	低血糖
+T22	Test 247 251	血糖波动
+T23	Disease 259 261	死亡
+T24	Disease 265 267	感染
+T25	Disease 268 273	伤口不愈合
+T26	Disease 276 282	心脑血管事件
+T27	Treatment 314 321	血糖监测和调控
+T28	Test 433 437	血糖异常
+T29	Test 445 449	血糖异常
+T30	Disease 450 451;452 454	高 血糖
+T31	Disease 460 469	合并糖尿病的高血糖
+T32	Disease 470 476	应激性高血糖
+T33	Disease 512 520	手术围术期高血糖
+T34	Disease 524 527	糖尿病
+T35	Disease 535 538	糖尿病
+T36	Disease 548 549;550 552	糖 尿病
+T37	Operation 553 557	外科手术
+T38	Operation 599 603	择期手术
+T39	Disease 615 621	隐匿性糖尿病
+T40	Disease 636 639	糖尿病
+T41	Disease 650 653	糖尿病
+T42	Test 655 659	血糖升高
+T43	Disease 665 670	围术期死亡
+T44	Disease 672 675	并发症
+T45	Reason 697 699	应激
+T46	Level 703 707	显著增高
+T47	Reason 712 715;716 717	手术应 激
+T48	Level 717 719	很强
+T49	Disease 723 725	感染
+T50	Disease 726 729	败血症
+T51	Level 737 739	危重
+T52	Disease 779 783	术后感染
+T53	Level 791 793;794 796	过于 严格
+T54	Level 800 803	“正常
+T55	Disease 810 813	低血糖
+T56	Operation 861 865	心脏手术
+T57	Operation 874 878	外科手术
+T58	Test 882 887	理想血糖值
+T59	Disease 956 959	高血糖
+T60	Disease 966 969	低血糖
+T61	Level 974 976	平稳
+T62	Reason 978 980	禁食
+T63	Reason 982 991	降糖方案未及时调整
+T64	Reason 992 998	降糖治疗中断
+T65	Disease 1004 1007;1008 1012	围术期 血糖波动
+T66	Disease 1013 1019	稳定的高血糖
+T67	Treatment 1024 1031	严密的血糖监测
+T68	Treatment 1032 1034;1035 1043	及时 调整降糖治疗方案
+T69	Test 1046 1053	围术期血糖平稳
+T70	Test 1070 1076	术前血糖水平
+T71	Treatment 1077 1081	治疗方案
+T72	Symptom 1082 1087	有无并发症
+T73	Operation 1088 1092	手术类型
+T74	Test 1132 1146	糖化血红蛋白HBA1C  c
+T75	Level 1155 1157	平均
+T76	Disease 1170 1173	糖尿病
+T77	Disease 1188 1191	糖尿病
+T78	Test 1208 1217;1218 1220	BMI>,25蚝/ m2
+T79	Reason 1225 1228	高血压
+T80	Reason 1229 1232	高血脂
+T81	Reason 1233 1238	心血管疾病
+T82	Reason 1239 1245	糖尿病家族史
+T84	Test_Value 1298 1308	HbAlc≥6.5%
+T85	Disease 1313 1316	糖尿病
+T86	Disease 1323 1326	糖尿病
+T87	Test_Value 1332 1343	HBA1C  c≤7%
+T88	Level 1348 1352	控制满意
+T89	Test_Value 1361 1374	HBA1C  c>8.5%
+T90	Operation 1382 1386	择期手术
+T91	Disease 1389 1395	应激性高血糖
+T92	Test 1396 1404	HBA1C  c
+T93	Disease 1410 1412	贫血
+T94	Reason 1413 1417	近期输血
+T95	Reason 1424 1432	HBA1C  c
+T96	Disease 1449 1452	糖尿病
+T97	Reason 1462 1467	糖尿病类型
+T98	Reason 1468 1469;1470 1471	病 程
+T99	Treatment 1472 1479	目前的治疗方案
+T100	Reason 1480 1487	低血糖发作情况
+T101	Reason 1493 1497;1498 1500	糖尿病并 发症
+T102	Disease 1503 1511	糖尿病酮症酸中毒
+T103	Disease 1512 1517	高渗综合症
+T104	Operation 1518 1523	非急诊手术
+T105	Level 1528 1531	病程长
+T106	Disease 1532 1535	糖尿病
+T107	Disease 1541 1544	冠心病
+T108	Disease 1545 1550;1551 1552	心脑血管疾 病
+T109	Disease 1554 1558	心肌缺血
+T110	Level 1562 1565	不典型
+T111	Disease 1585 1591	围术期高血糖
+T112	Reason 1596 1600	手术越大
+T113	Reason 1601 1602;1603 1606	应 激越强
+T114	Test 1607 1611	血糖增高
+T115	Level 1611 1614	越明显
+T116	Operation 1616 1620	区域麻醉
+T117	Operation 1623 1627	全身麻醉
+T118	Drug 1631 1637	吸人性麻醉药
+T119	Test 1639 1643	血糖升高
+T120	Level 1647 1649	显著
+T121	Disease 1661 1664	糖尿病
+T122	Operation 1670 1674	区域麻醉
+T123	Drug 1684 1687	胰岛素
+T124	Drug 1696 1700	降糖药物
+T125	Drug 1715 1718	胰岛素
+T126	Test 1730 1734	餐后血糖
+T127	Drug 1736 1739	胰岛素
+T128	Drug 1756 1761	口服降糖药
+T129	Drug 1762 1768;1769 1770	非胰岛素注射 剂
+T130	Drug 1771 1774	磺脲类
+T131	Drug 1775 1779	格列奈类
+T132	Drug 1779 1784	口服降糖药
+T133	Disease 1788 1791	低血糖
+T134	Disease 1812 1817	乳酸酸中毒
+T135	Disease 1821 1825;1826 1828	肾功能不 全者
+T136	Test 1848 1852	监测血糖
+T137	Drug 1855 1857;1858 1861	常规 胰岛素
+T138	Drug 1890 1895	短效胰岛素
+T139	Method 1895 1899	皮下注射
+T140	Operation 1922 1928	短小局麻手术
+T141	Drug 1931 1936	口服降糖药
+T142	Drug 1948 1953	长期胰岛素
+T143	Test 1963 1967	基础血糖
+T144	Drug 1969 1975	中长效胰岛素
+T145	Test 1979 1983	餐后血糖
+T146	Drug 1984 1989	短效胰岛素
+T147	Method 1989 1993	皮下注射
+T148	Reason 1995 2001	长时间大手术
+T149	Reason 2002 2010	术后无法恢复进食
+T150	Disease 2011 2014	糖尿病
+T151	Drug 2023 2028	短效胰岛素
+T152	Method 2028 2034	持续静脉泵注
+T153	Operation 2039 2045	短小门诊手术
+T154	Drug 2055 2061	中长效胰岛素
+T155	Amount 2067 2076	减少1/3~1/2
+T156	Drug 2080 2087	餐前短效胰岛素
+T158	Test_Value 2100 2128	餐前血糖≤140 mg/dl(7.8 retool/L)
+T157	Test_Value 2129 2132;2133 2159	餐后血 糖≤180 mg/dl(10.0 retool/L)
+T159	Reason 2160 2166	手术风险越高
+T160	Test 2167 2171	术前血糖
+T161	Test 2188 2192	术前血糖
+T162	Level 2192 2198	长期显著增高
+T163	Level 2208 2212	下降过陕
+T164	Test 2240 2244	术前血糖
+T165	Test_Value 2249 2264;2265 2274	空腹≤180 mg/cU(10 retool/L)
+T166	Test_Value 2275 2306	随机或餐后2小时≤216 mg/dl(12 mmol/L)E⋯
+T167	Reason 2318 2323	长时间禁食
+T168	Test 2352 2356	血糖监测
+T169	Drug 2363 2367	含糖液体
+T170	Reason 2372 2378	精神紧张应激
+T171	Disease 2385 2386;2387 2389	低 血糖
+T172	Level 2468 2470	严重
+T173	Disease 2470 2473	低血糖
+T174	Test 2509 2518	动脉或静脉血气分析
+T175	Test 2523 2527	血糖监测
+T176	Reason 2533 2536	低血压
+T177	Reason 2537 2542	组织低灌注
+T178	Reason 2543 2545	贫血
+T179	Reason 2548 2551	高血脂
+T180	Reason 2552 2558	高胆红素血症
+T181	Test 2607 2609	血糖
+T182	Test_Value 2609 2622	高0.3 retool/L
+T183	Test 2644 2648	空腹血糖
+T184	Test 2650 2655	三餐后血糖
+T185	Test 2656 2660	睡前血糖
+T186	Frequency 2665 2671	每4~6小时
+T187	Test 2682 2686	术中血糖
+T188	Disease 2692 2695	低血糖
+T189	Frequency 2703 2706;2707 2713	1~2 小时监测一次
+T190	Reason 2716 2718	危重
+T191	Reason 2721 2724	大手术
+T193	Frequency 2739 2751	每0.5~1小时监测一次
+T194	Operation 2752 2758	体外循环手术
+T195	Frequency 2773 2782	每15分钟监测一次
+T196	Test 2767 2771	血糖波动
+T197	Level 2771 2772	大
+T198	Test_Value 2783 2792;2793 2807	血糖≤70 mg/ dl(3.9 mmol/L)
+T199	Frequency 2808 2819	每5~15分钟监测一次
+T200	Disease 2821 2824	低血糖
+T201	Level 2836 2840	病情稳定
+T202	Operation 2841 2845	门诊手术
+T203	Test 2895 2900	围术期血糖
+T204	Test_Value 2903 2925;2926 2947	140 mg/dl(7.8 mmol/L)~ 180 mg/dl(10.0 mmol/L
+T205	Level 2952 2956	控制过严
+T206	Test_Value 2967 2993	餐前血糖≤140 mg/dl(7.8 mmol/L)
+T207	Test_Value 2994 2999;3000 3022	餐后血糖≤ 180 mg/dl(10.0 mmol/L)
+T208	Level 3040 3042	危重
+T209	Test_Value 3053 3078	≤150 mg/dl(8.4 mmol/L)L8J
+T210	Reason 3086 3090	手术类型
+T211	Reason 3091 3097	术前血糖水平
+T212	Reason 3098 3102	脏器功能
+T213	Operation 3120 3124	整形手术
+T214	Test_Value 3134 3172;3173 3184	血糖目标降低至108 mg/dl(6.0 mmol/L)~144 mg/dl (8.0 mmol/L
+T215	Disease 3190 3196	术后伤口感染
+T216	Disease 3197 3202	脑血管疾病
+T217	Disease 3206 3212	低血糖耐受差
+T218	Test_Value 3224 3234;3235 3254	≤214 mg/dl (12.0 retool/L)口’7]
+T219	Reason 3255 3257	高龄
+T220	Reason 3258 3264	有严重合并症
+T221	Reason 3265 3272	频繁发作低血糖
+T222	Test_Value 3301 3325	250 mg/dl(13.9 retool/L)
+T223	Disease 3342 3345	糖尿病
+T224	Drug 3354 3357	葡萄糖
+T225	Drug 3371 3374	胰岛素
+T226	Method 3378 3383	3~4:1
+T227	Drug 3388 3391	胰岛素
+T228	Treatment 3395 3400	肠内外营养
+T229	Drug 3406 3409	营养液
+T230	Drug 3418 3426	糖尿病专用型制剂
+T231	Method 3439 3442;3443 3444	缓慢输 注
+T232	Test 3449 3453	糖类总量
+T233	Test 3463 3467	血糖峰值
+T234	Test 3471 3475	血糖波动
+T235	Test 3485 3489	血糖升高
+T236	Drug 3495 3499	地塞米松
+T237	Drug 3527 3531;3532 3533	糖皮质激 素
+T238	Drug 3534 3541	儿茶酚胺类药物
+T239	Drug 3542 3546	生长抑素
+T240	Drug 3547 3552	免疫抑制剂
+T241	Test 3557 3558;3559 3562	血 糖增高
+T242	Test_Value 3566 3593	血糖>180 mg/dl(10.0 retool/L)
+T243	Drug 3595 3598	胰岛素
+T244	Method 3607 3613	静脉给胰岛素
+T245	Method 3637 3641	静脉给药
+T246	Method 3642 3651	持续静脉泵注胰岛素
+T247	Test 3657 3661	血糖波动
+T248	Disease 3662 3665	糖尿病
+T192	Reason 2725 2733;2734 2735	持续静脉输注胰岛 素
+T249	Drug 3675 3680	静脉胰岛素
+T250	Method 3688 3694	持续静脉泵注
+T251	Drug 3694 3697	胰岛素
+T252	Disease 3698 3704	应激性高血糖
+T253	Method 3711 3720	单次或间断静脉推注
+T254	Drug 3720 3723	胰岛素
+T255	Test 3725 3729	血糖仍高
+T256	Method 3732 3736	持续泵注
+T257	Drug 3742 3747	短效胰岛素
+T258	Test 3771 3775	血糖水平
+T259	Drug 3776 3783	术前胰岛素用量
+T260	Reason 3784 3790	手术刺激大小
+T261	Drug 3797 3800	胰岛素
+T262	Disease 3835 3838	低血糖
+T263	Drug 3839 3842	胰岛素
+T264	Method 3842 3846	皮下注射
+T265	Level 3849 3853	病情稳定
+T266	Level 3854 3857	非重症
+T267	Level 3895 3897	严重
+T268	Disease 3897 3900	高血糖
+T269	Disease 3904 3909	渗透性利尿
+T270	Disease 3912 3917	高渗性脱水
+T271	Disease 3919 3923	低钾血症
+T272	Treatment 3927 3935	维持水电解质平衡
+T273	Test 3945 3949	血糖水平
+T274	Level 3949 3951	增高
+T275	Drug 3956 3960	无糖液体
+T276	Disease 3979 3983	酮体合成
+T277	Disease 3984 3987	酸中毒
+T278	Test_Value 3991 4003;4004 4020	血糖<250 mg/dl (13.9 retool/L)的
+T279	Method 4024 4028	静脉泵注
+T280	Drug 4028 4031	胰岛素
+T281	Method 4035 4037	泵注
+T282	Drug 4044 4047	胰岛素
+T283	Drug 4048 4052	含糖液体
+T284	Drug 4068 4071	胰岛素
+T285	Method 4073 4075	双泵
+T286	Method 4077 4079	输注
+T287	Test 4084 4088	血糖波动
+T288	Disease 4108 4112	低钾血症
+T289	Method 4116 4119;4120 4123	持续静 脉泵注
+T290	Drug 4123 4126	胰岛素
+T291	Test 4130 4134	监测血钾
+T292	Disease 4146 4149	低血糖
+T293	Disease 4152 4155	低血糖
+T294	Disease 4160 4163	高血糖
+T295	Test_Value 4166 4179;4180 4187	≤50 mg/dl(2.8 mmol/L)
+T296	Disease 4189 4196	现认知功能障碍
+T297	Test_Value 4200 4213;4214 4223	≤40 mg/dl(2.2 retool/L)
+T298	Level 4224 4226	严重
+T299	Disease 4226 4229	低血糖
+T300	Disease 4232 4235	脑死亡
+T301	Disease 4240 4243	低血糖
+T302	Disease 4243 4244;4245 4249	围 术期死亡
+T303	Disease 4258 4261	低血糖
+T304	Reason 4271 4273	衰弱
+T305	Level 4274 4276	严重
+T306	Reason 4276 4278	感染
+T307	Reason 4279 4281;4282 4286	肝肾 功能不全
+T308	Disease 4289 4292	低血糖
+T309	Disease 4325 4329	生低血糖
+T310	Disease 4332 4333;4334 4336	脑 损伤
+T311	Test_Value 4342 4363	100 mg/dl(5.6 mmol/L)
+T312	Operation 4379 4383	全麻镇静
+T313	Disease 4386 4389	低血糖
+T314	Method 4406 4412	3.静脉输注
+T315	Drug 4412 4415	胰岛素
+T316	Test_Value 4420 4434;4435 4444	≤100 mg/dl(5.6 retool/L)
+T317	Test_Value 4455 4470;4471 4480	血糖≤70 mg/dl(3.9 retool/L)
+T318	Drug 4484 4487	胰岛素
+T319	Method 4512 4514	口服
+T320	Amount 4514 4520	10~259
+T321	Drug 4525 4534;4535 4538	碳水化合物(如含糖 饮料)
+T322	Method 4544 4548	静脉推注
+T323	Drug 4548 4554	50%葡萄糖
+T324	Amount 4554 4563	20~50 rnl
+T325	Method 4566 4567;4568 4573	持 续静脉点滴
+T326	Drug 4573 4582	5%或10%葡萄糖
+T327	Frequency 4587 4594	每5~15分钟
+T328	Test_Value 4601 4627	血糖≥100 mg/dl(5.6 retool/L)
+T329	Disease 4635 4638	低血糖
+T330	Reason 4664 4668	疼痛应激
+T331	Reason 4669 4671	感染
+T332	Reason 4672 4680	肠内外营养液输注
+T333	Method 4710 4716	持续静脉泵注
+T334	Drug 4716 4719	胰岛素
+T335	Method 4727 4729	泵注
+T336	Treatment 4737 4741	机械通气
+T337	Drug 4744 4750	血管活性药物
+T338	Disease 4751 4754	ICU
+T339	Test 4761 4765	血糖波动
+T340	Drug 4766 4769	胰岛素
+T341	Method 4770 4774	静脉泵注
+T342	Level 4778 4782	病情稳定
+T343	Method 4786 4790	皮下注射
+T344	Drug 4790 4793	胰岛素
+T345	Method 4799 4800;4801 4804	静 脉泵速
+T346	Anatomy 4806 4808	皮下
+T347	Drug 4808 4811	胰岛素
+T348	Method 4814 4818	皮下注射
+T349	Method 4819 4823	静脉泵注
+T350	Level 4837 4841	平稳过渡
+T351	Symptom 4850 4855;4856 4857	术后恶心呕 吐
+T352	Drug 4877 4882;4883 4885	餐前短效胰 岛素
+T353	Frequency 4897 4899	长期
+T354	Drug 4899 4902	胰岛素
+T355	Drug 4951 4956	口服降糖药
+T356	Test 4962 4965	肾功能
+T357	Disease 4999 5002	糖尿病
+T358	Disease 5051 5054	低血糖
+T359	Method 5063 5067	皮下注射
+T360	Drug 5067 5072	速效胰岛素
+T361	Drug 5079 5084	常规胰岛素
+T362	Disease 5094 5097	低血糖
+T363	Drug 5110 5114	含糖饮料
+T364	Test 5156 5160	血糖异常
+T365	Test 5199 5205	糖化血红蛋白
+T366	Disease 5213 5222	高血糖相关不良事件
+T367	Test_Value 5259 5291;5292 5305	140 mg/dl(7.8 rnmol/L)~180 mg/dl (10.0 mmol/L)
+T368	Test_Value 5327 5352	血糖>180 mg/dl(10.0 mmol/L)
+T369	Drug 5356 5359	胰岛素
+T370	Drug 5363 5368	短效胰岛素
+T371	Method 5368 5374	持续静脉泵注
+T372	Test 5385 5387;5388 5390	血糖 波动
+T373	Treatment 5411 5414;5415 5416	监测血 糖
+T374	Test 1332 1337	HBA1C
+T375	Test 1361 1366	HBA1C
+T376	Test 1424 1429	HBA1C
+T377	Drug 1805 1809	二甲双胍
+T378	Drug 4957 4961	二甲双胍
+T379	Test 1204 1208	体重指数
+T382	Test 2994 2998	餐后血糖
+T383	Test 1289 1294	HBA1C
+T384	Operation 1271 1275	器官移植
+T385	Test 3 5	血糖
+T386	Test 28 30	血糖
+T387	Test 379 381	血糖
+T388	Test 418 420	血糖
+T389	Test 701 703	血糖
+T390	Test 746 748	血糖
+T391	Test 763 765	血糖
+T392	Test 908 910	血糖
+T393	Test 933 935	血糖
+T394	Test 944 946	血糖
+T395	Test 972 974	血糖
+T396	Test 1113 1115	血糖
+T397	Test 1157 1159	血糖
+T398	Test 1176 1178	血糖
+T399	Test 1346 1348	血糖
+T400	Test 1863 1865	血糖
+T401	Test 1901 1903	血糖
+T402	Test 2036 2038	血糖
+T403	Test 2204 2206	血糖
+T404	Test 2405 2407	血糖
+T405	Test 2418 2420	血糖
+T406	Test 2428 2430	血糖
+T407	Test 2443 2445	血糖
+T408	Test 2458 2460	血糖
+T409	Test 2474 2476	血糖
+T410	Test 2570 2572	血糖
+T411	Test 2588 2590	血糖
+T412	Test 2600 2602	血糖
+T413	Test 2629 2631	血糖
+T414	Test 2675 2676;2677 2678	血 糖
+T415	Test 2713 2715	血糖
+T416	Test 2873 2875	血糖
+T417	Test 2884 2886	血糖
+T418	Test 3047 3049	血糖
+T419	Test 3109 3111	血糖
+T420	Test 3213 3215	血糖
+T421	Test 3277 3279	血糖
+T422	Test 3292 3294	血糖
+T423	Test 3327 3329	血糖
+T424	Test 3337 3339	血糖
+T425	Test 3518 3520	血糖
+T426	Test 3811 3813	血糖
+T427	Test 4058 4060	血糖
+T428	Test 4164 4166	血糖
+T429	Test 4319 4321	血糖
+T430	Test 4366 4368	血糖
+T431	Test 4418 4420	血糖
+T432	Test 4491 4493	血糖
+T433	Test 4584 4586	血糖
+T434	Test 4645 4647	血糖
+T435	Test 4682 4684	血糖
+T436	Test 4695 4697	血糖
+T437	Test 5148 5150	血糖
+T438	Test 5240 5242	血糖
+T439	Test 5252 5254	血糖
+T440	Test 5308 5310	血糖
+T441	Test 5399 5401	血糖

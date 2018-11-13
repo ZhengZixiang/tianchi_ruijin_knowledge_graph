@@ -1,0 +1,316 @@
+非酒精性脂肪性肝病
+基金项目:国家自然科学基金项目(81270939)
+学附属医院内分泌科(吕文山)
+2 型糖尿病患者非酒精性脂肪性肝病与
+白蛋白尿的关系
+姚培培  吕文山  高燕燕  孙瑞霞  李莉  王静  孙丽萍  郭娅棣
+[摘要]   目的  探讨 2 型糖尿病患者非酒精性脂肪性肝病(NAFLD)患病情况及其与白蛋白尿的关
+系。 方法 将 1 205 例住院 2 型糖尿病患者根据 B 超结果分为 NAFLD 组和无 NAFLD 组;按晨尿白蛋白 /
+肌酐比值分为无白蛋白尿(NA)组和白蛋白尿(AU)组。 收集患者一般临床资料及实验室检查结果,运用
+字2检验及二元 logistic 回归等统计学方法进行分析。 结果 (1) 2 型糖尿病患者 NAFLD 检出率为 60. 8% ,
+logistic 回归分析显示 NAFLD 与甘油三酯、体重指数(BMI)、空腹血糖、腰围、舒张压、收缩压呈正相关(均
+P<0. 05),与血肌酐、糖尿病病程、AU、高密度脂蛋白胆固醇(HDL-C)呈负相关(均 P<0. 05);(2)患者 AU
+检出率为 31. 0% ,logistic 回归分析显示 AU 与总胆固醇、HBA1C、BMI、糖尿病病程、收缩压、血肌酐呈正相关
+(均 P<0. 05),与 NAFLD 和 HDL-C 负相关(均 P<0. 01);(3)根据患者年龄、糖尿病病程分层研究显示
+NAFLD 检出率随年龄和病程增加而降低(P<0. 05);AU 检出率随年龄和病程增加而升高(P<0. 05)。 AU
+组 NAFLD 检出率显著低于 NA 组(53. 4% 对 64. 2% , P<0. 05),偏相关分析显示,校正年龄和病程后,AU
+和 NAFLD 无相关性(P>0. 05)。 结论 随年龄和糖尿病病程增加 2 型糖尿病住院患者 NAFLD 检出率有下
+降趋势,而 AU 检出率增加,NAFLD 的发生与 AU 负相关,但校正年龄和病程后二者无相关性。
+[关键词]   糖尿病, 2 型; 非酒精性脂肪性肝病; 白蛋白尿
+Association of nonalcoholic fatty liver disease and albuminuria in patients with type 2 diabetes mellitus Yao
+Peipei*, Lyv Wenshan, Gao Yanyan, Sun Ruixia, Li Li, Wang Jing, Sun Liping, Guo Yadi. *Department of
+Endocrinology, the Affiliated Hospital of Medical College Qingdao University, Qingdao 266100, China
+[Abstract]   Objective   To investigate the prevalence and risk fatcors of nonalcoholic fatty liver disease
+(NAFLD) and its relationship with albuminuria in in-patients with type 2 diabetes mellitus (T2DM). Methods A
+total of 1 205 in-patients with T2DM were enrolled in this study. The patients were divided into NAFLD group and non-
+NAFLD group by mean of liver ultrasonography, and into negative albuminuria group(NA) and albuminuria group
+(AU) according to albumin-to-creatinine ratio. The general information and laboratory data of patients were
+collected. Chi-square test and binary logistic regression analysis were conducted. Results (1) The prevalence of
+NAFLD in the patients with T2DM was 60. 8% . Binary logistic regression revealed that NAFLD was positively
+correlated with triglyceride, body mass index (BMI), fasting plasma glucose, waist circumference, diastolic blood
+pressure, and systolic blood pressure (SBP), and negatively correlated with serum creatinine, duration of diabetes,
+AU, and high density lipoprotein-cholesterol(HDL-C, all P<0. 05) . (2) The prevalence of AU was 31. 0% in these
+patients. Binary logistic regression revealed that AU was positively correlated with total cholesterol ( TC), HBA1C,
+BMI, duration of diabetes, SBP, and creatinine; and negatively correlated with NAFLD and HDL-C ( all P <
+0. 05) . (3) As subjects were divided into three groups based on their age, the prevalence of NAFLD was decreased
+and that of AU was increased with aging and diabetes duration (all P<0. 05) . The prevalence of NAFLD in patients
+with AU was significantly lower than that in patients without AU (53. 4% vs 64. 2% , P<0. 05) . Partial correlations
+analysis indicated no significant correlation between NAFLD and AU after being adjusted by age and duration of
+diabetes(P>0. 05) . Conclusions With aging and prolonged diabetes, the prevalence of NAFLD is decreased and
+that of AU is increased. NAFLD is negatively correlated with AU, but this correlation does disappear after adjustment
+for age and duration of diabetes.
+[Key words]  Diabetes mellitus, type 2; Nonalcoholic fatty liver disease; Albuminuria
+(Chin J Endocrinol Metab, 2014, 30: 13-17)
+已有研究报道 2 型糖尿病合并非酒精性脂肪性肝
+病(nonalcoholic fatty liver disease,NAFLD)患者年龄较
+大、病程较长,且其慢性肾病等糖尿病并发症患病率显
+著增加[1-4]。 Hwang 等[5] 研究认为,NAFLD 是糖尿病
+前期及新发 2 型糖尿病患者微量白蛋白尿的独立危险
+因素。 但最近李明珍等[6] 的研究却发现合并 NAFLD
+的 2 型糖尿病患者年龄较小、糖尿病病程较短,与张义
+德等[7]对 2 型糖尿病合并肾病患者的研究结果一致。
+本研究旨在分析住院 2 型糖尿病患者 NAFLD 和白蛋
+白尿(AU)的患病情况及其危险因素,揭示 NAFLD 和
+AU 的关系,为 NAFLD 防治提供理论依据。
+对象和方法
+一、 对象
+选取 2008 年 1 月至 2012 年 1 月期间在本院东区
+内分泌病区住院的符合 1999 年世界卫生组织糖尿病
+诊断标准的 2 型糖尿病患者 1 205 例(男性 459 例,女
+性 746 例),排除病毒性、药物性、自身免疫性肝炎及
+大量饮酒史者(酒精摄入量男性 > 20 g / d,女性 > 10
+g / d),以及由心脏、肝脏、泌尿系统疾病、药物及其他
+全身疾病引起的白蛋白尿者。 NAFLD 诊断标准采用
+2010 年中华医学会肝脏病学分会脂肪肝和酒精性肝
+病学组非酒精性脂肪性肝病诊断标准。 根据 B 超诊
+断结果将研究对象分为 2 组:NAFLD 组(男性 271 例,
+女性 462 例)和非 NAFLD 组(男性 188 例,女性 284
+例)。 根 据 清 晨 尿 白 蛋 白 /肌 酐 比 值 ( albumin-to-
+creatinine ratio, ACR)将患者分为无白蛋白尿(NA)组
+和 AU 组(包括微量蛋白尿者和临床蛋白尿者),ACR<
+30 μg / mg 为蛋白尿阴性;2 次 ACR 数值在 30 ~ 299. 9
+μg / mg 为微量蛋白尿;ACR≥300 μg / mg 为临床蛋白
+尿[8]。
+二、 方法
+1. 一般资料采集:详细询问患者病史,空腹隔夜
+禁饮食 12 h,于清晨测量身高、体重、腰围、血压等,并
+计算体重指数(BMI)= 体重(kg) /身高2(m2)。
+2. 实验室检查:空腹血糖(FPG)采用葡萄糖氧化
+酶法,HBA1C 采用高效液相法,肝肾功能、总胆固醇
+(TC)、甘油三酯(TG)、高密度脂蛋白胆固醇(HDL-C)
+及低密度脂蛋白胆固醇(LDL-C)、血尿肌酐采用酶法
+测定(全自动生化仪),尿微量白蛋白定量用酶联免疫
+吸附法测定。
+三、 统计学处理
+采用 SPSS 17. 0 进行统计分析,计量资料统计描
+述采用 x-± s 表示。 对数据进行正态检验后,符合正态
+分布及方差齐性的组间均数比较采用方差分析,非正
+态分布资料以对数转换后进行分析。 定性资料统计描
+述采用频数及构成比,率的比较采用 字2检验。 多因素
+分析采用成组设计的 logistic 逐步回归分析。 P<0. 05
+为差异有统计学意义。
+结    果
+一、 NAFLD 检出情况及其临床特征
+1 205 例 2 型糖尿病患者检出 733 例 NAFLD
+(60. 8% ),其中男性检出 271 例 NAFLD(59. 0% ),女
+性检出 462 例(61. 9% ),性别间差异无统计学意义
+(P>0. 05);校正年龄、病程和 BMI 后,NAFLD 组与非
+NAFLD 组之间各参数的比较如表 1 所示, NAFLD 组
+收缩压、舒张压、腰围、血 TG、FPG、HBA1C显著高于无
+NAFLD 组(P<0. 05),HDL-C 显著低于无 NAFLD 组
+(P<0. 05),2 组身高、体重、TC、LDL-C、血肌酐、估算
+的肾小球滤过率 ( eGFR) 差异无统计学意义 ( P >
+0. 05)。
+Logistic 回归分析显示 NAFLD 与 TG(OR = 1. 50,
+95% CI 1. 29 ~ 1. 74)、 BMI(OR=1. 29, 95% CI 1. 20 ~
+表 1  校正年龄、病程、BMI 后 NAFLD 与无 NAFLD 组一般资料及生化指标比较(x-± s)
+Tab 1  Comparison of general and biochemical data between NAFLD and non-NAFLD groups after adjustment for age, duration of diabetes, and
+BMI(x-± s)
+组别
+Group
+例数
+n
+Ht
+(cm)
+BW
+(kg)
+WC
+(cm)
+SBP
+(mmHg)
+DBP
+(mmHg)
+TG
+(mmol / L)
+TC
+(mmol / L)
+non-NAFLD 472 163. 94 ± 0. 40 70. 50 ± 0. 36 92. 49 ± 0. 35 131. 79 ± 0. 82 78. 21 ± 0. 45 1. 49 ± 0. 07 4. 95 ± 0. 06
+NAFLD 733 164. 25 ± 0. 32 71. 13 ± 0. 28 94. 31 ± 0. 27a 141. 40 ± 0. 64a 82. 73 ± 0. 35a 2. 09 ± 0. 05a 5. 05 ± 0. 05
+组别
+Group
+例数
+n
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+FPG
+(mmol / L)
+HBA1C
+(% )
+sCr
+(μmol / L)
+eGFR
+non-NAFLD 472 1. 24 ± 0. 01 2. 92 ± 0. 04 7. 69 ± 0. 16 8. 31 ± 0. 12 86. 79 ± 1. 10 81. 33 ± 1. 02
+NAFLD 733 1. 17 ± 0. 01a 2. 96 ± 0. 03 8. 99 ± 0. 12a 8. 98 ± 0. 10a 84. 03 ± 0. 86 82. 44 ± 0. 79
+注:BMI:体重指数 Body mass index;NFLAD:非酒精性脂肪性肝病 Nonalcoholic fatty liver;non-NFLAD:非 NFLAD No NFLAD;Ht:身高 Height;BW:体
+重 Body weight;WC:腰围 Waist circumference;SBP:收缩压 Systolic blood pressure;1 mmHg=0. 133 kPa;DBP:舒张压 Diastolic blood pressure;TG:甘油三酯
+Triglyceride;TC:总胆固醇 Total cholesterol;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density
+lipoprotein-cholesterol;FPG:空腹血糖 Fasting plasma glucose;sCr:血肌酐 Serum creatinine;eGFR:估算肾小球滤过率 Estimated glomerular filtration rate;与
+非 NAFLD 组比较 vs non-NFLAD group,aP<0. 05
+表 2  校正年龄、病程后 AU 组与 NA 组一般资料及生化指标比较(x-± s)
+Tab 2  Comparison of general and biochemical data between AU and NA group after adjustment for age and duration of diabetes (x-± s)
+组别
+Group
+例数
+n
+Ht
+(cm)
+BW
+(kg)
+BMI
+(kg / m2)
+WC
+(cm)
+SBP
+(mmHg)
+DBP
+(mmHg)
+TG
+(mmol / L)
+NA 832 164. 22 ± 0. 28 70. 59 ± 0. 40 26. 08 ± 0. 12 93. 32 ± 0. 37 135. 66 ± 0. 60 80. 51 ± 0. 34 1. 74 ± 0. 05
+AU 373 163. 91 ± 0. 43 71. 53 ± 0. 61 26. 64 ± 0. 19a 94. 20 ± 0. 55 142. 05 ± 0. 91a 81. 91 ± 0. 51a 2. 11 ± 0. 07a
+组别
+Group
+例数
+n
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+FPG
+(mmol / L)
+HBA1C
+(% )
+sCr
+(μmol / L)
+eGFR
+NA 832 4. 88 ± 0. 04 1. 21 ± 0. 01 2. 87 ± 0. 03 8. 31 ± 0. 11 8. 58 ± 0. 09 81. 47 ± 0. 75 84. 53 ± 0. 70
+AU 373 5. 29 ± 0. 07a 1. 16 ± 0. 15a 3. 09 ± 0. 05a 8. 86 ± 0. 17a 9. 01 ± 0. 13a 93. 16 ± 1. 14a 76. 44 ± 1. 07a
+注:NA:无白蛋白尿组 Negative albuminuria group;AU: 白蛋白尿组 Albuminuria group;余略语同表 1 The other abbreviations are the same as Tab 1;与
+NA 组相比 vs NA group,aP<0. 05
+注: 略语同表 1 The abbreviations are the same Tab 1;与<50 岁组比较 vs<50 years group,aP<0. 05;与<5 年组比较 vs<5 years group,bP<0. 05
+图 1  2 型糖尿病患者 NAFLD 和 AU 检出率与年龄和病程的关系
+Fig 1  The relationship of NAFLD or AU detection rate with age or the duration of diabetes
+1. 39)、FPG(OR = 1. 11,95% CI 1. 05 ~ 1. 17I)、腰围
+(OR=1. 03,95% CI 1. 01 ~ 1. 06)、收缩压(OR = 1. 03,
+95% CI 1. 02 ~ 1. 04)、舒张压 (OR = 1. 03,95% CI
+1. 01 ~ 1. 05)呈正相关,与血肌酐(OR = 0. 99,95% CI
+0. 98 ~ 1. 00)、病程(OR = 0. 95,95% CI 0. 93 ~ 0. 97)、
+AU(OR = 0. 45,95% CI 0. 31 ~ 0. 64)、HDL-C(OR =
+0. 39,95% CI 0. 23 ~ 0. 68)负相关(均 P<0. 01)。
+二、 AU 检出情况及其临床特征
+1 205 例住院 2 型糖尿病患者共检出 AU 373 例
+(31. 0% ),其中男性中检出 AU 140 例(30. 5% ),女性
+检出 AU 233 例(31. 2% ),性别间差异亦无统计学意
+义(P>0. 05);校正了年龄、病程后,AU 组 BMI、收缩
+压、舒张压仍显著高于 NA 组(P<0. 05,表 2)。 Logistic
+回归分析显示,AU 与 TC(OR = 1. 42,95% CI 1. 23 ~
+1. 63)、HBA1C(OR = 1. 08,95% CI 1. 02 ~ 1. 14)、BMI
+(OR = 1. 07,95% CI 1. 02 ~ 1. 12)、病程(OR = 1. 05,
+95% CI 1. 03 ~ 1. 08)、收缩压 (OR = 1. 02,95% CI
+1. 01 ~ 1. 03)、血肌酐(OR=1. 02,95% CI 1. 01 ~ 1. 03)
+正相关,而与 NAFLD ( OR = 0. 44, 95% CI 0. 31 ~
+0. 62)、HDL-C(OR=0. 23,95% CI 0. 12 ~ 0. 43)负相关
+(均 P<0. 01)。
+三、 2 型糖尿病患者 NAFLD 与 AU 的关系
+根据患者年龄将研究对象分为<50、50 ~ 60 和≥
+60 岁 3 个亚组,NAFLD 检出率随年龄增长而降低,分
+别为 72. 7% 、62. 1% 和 57. 7% (P<0. 05);AU 检出率
+随年龄增加而升高,分别为 20. 2% 、26. 9% 和 34. 6%
+(P<0. 05,图 1A)。 根据糖尿病病程分为<5、5 ~ 10 和
+≥10 年 3 个亚组,NAFLD 检出率随病程增加而降低,
+分别为 74. 5% 、65. 5% 和 50. 8% (P<0. 05);AU 检出
+率随病程增加而升高, 分别为 17. 0% 、 23. 3% 和
+42. 6% (P<0. 05,图 1B)。 AU 患者 NAFLD 检出率低
+于 NA 患者(53. 4%对 64. 2% ,P<0. 05),NAFLD 检出
+率与 AU 显著负相关( r= -0. 103,P<0. 05)。 偏相关分
+析发现,校正了病程和年龄后,二者虽呈负相关,但无
+统计学意义( r= -0. 055,P>0. 05)。
+讨    论
+2 型糖尿病是 NAFLD、肝纤维化、肝硬化、乃至肝
+癌等 NAFLD 相关终末肝病的独立危险因素[9,10]。 本
+研究显示,1 205 例住院 2 型糖尿病患者,NAFLD 检出
+率为 60. 8% ,AU 检出率为 31. 0% ,男女性别间差异都
+无显著性;NAFLD 组体重、腰围、BMI、收缩压、舒张压、
+TG、FPG、HBA1C显著高于无 NAFLD 组,HDL-C 显著低
+于无 NAFLD 组;logistic 回归分析显示 NAFLD 与 TG、
+BMI、FPG、 腰围、 收缩压、 舒张压呈正相关, 而与
+HDL-C 负相关,提示肥胖、糖脂代谢紊乱和血压控制
+不佳是 2 型糖尿病患者发生 NAFLD 的危险因素,与以
+往研究相符[9,11]。
+本研究的 NAFLD 检出率虽低于 Lu 等[12] 报道的
+患病率(75. 18% ),但远高于 5 年前周健等[11] 报道的
+42. 1% 。 考虑到本研究仅以腹部 B 超为诊断标准,受
+NAFLD 诊断敏感性较低的限制,我国 2 型糖尿病患者
+合并 NAFLD 的检出率可能更高, 对这一人群行
+NAFLD 筛查和干预具有积极临床意义[1,13,14]。
+吴景程、 张育仁等[3,4] 关于 2 型糖尿病合并
+NAFLD 与微血管病变及尿白蛋白排泄率关系的研究
+认为 2 型糖尿病合并 NAFLAD 者年龄较大,病程较
+长,且糖尿病肾病等糖尿病并发症显著增加, 与
+Targher 等[1,2] 对门诊 2 型糖尿病患者的研究结果一
+致。 但最近李明珍等[6]在 2 型糖尿病患者血尿酸水平
+与 NAFLD 相关性的研究中却发现合并 NAFLD 的 2 型
+糖尿病患者年龄较小、糖尿病病程较短,以往张义德
+等[7]也报道 2 型糖尿病合并糖尿病肾病伴 NAFLD 者
+相对年轻,且糖尿病病程较短。 因此,2 型糖尿病患者
+发生 NAFLD 的危险因素及其与 AU 的关系尚不明确。
+对住院 2 型糖尿病患者进行大规模横断面研究,并对
+患者年龄、糖尿病病程进行分层研究,在了解 2 型糖尿
+病患者 NAFLD 及 AU 患病情况及其危险因素的基础
+上,探讨 2 型糖尿病患者 NAFLD 与 AU 的关系,可为 2
+型糖尿病患者 NAFLD 的及早发现和防治提供依据。
+本研究中 NAFLD 组 eGFR 显著高于无 NAFLD
+组,而年龄、病程、血肌酐显著低于无 NAFLD 组,
+logistic 回归分析显示 NAFLD 与血肌酐、病程、AU 呈
+负相关,这与以往文献报道不完全一致[1,2,7,9,14,15]。 虽
+然 Targher 等[1,2]报道 2 型糖尿病合并 NAFLD 患者年
+龄较大、病程较长,但许多其他研究表明 2 型糖尿病合
+并 NAFLD 患者多较年轻,且糖尿病病程较短[6,14-16],
+与本研究结果一致。 国内 Lu 等[12]对 2 型糖尿病患者
+的研究也未发现 NAFLD 检出率随年龄增加而升高,他
+们发现 40 ~ 59 岁的 2 型糖尿病患者更易患 NAFLD,
+可能与这一人群工作繁忙,在外就餐和进食高热量饮
+食较多,没有时间运动有关。 本课题组对参加糖尿病
+教育的患者进行调查研究也发现年轻患者更渴望接受
+糖尿病教育、加强糖尿病管理,但其时间和精力有
+限[17]。 老年 2 型糖尿病患者 NAFLD 检出率降低,可
+能得益于退休后有更多的时间和精力管理糖尿病,规
+律服用一些降糖、调脂等影响脂肪肝的药物。 校正了
+年龄、病程和 BMI 后,2 型糖尿病合并 NAFLD 与无
+NAFLD 者的体重、血肌酐、eGFR 则无显著差异。 据此
+推测血肌酐、eGFR、体重与 2 型糖尿病患者 NAFLD 的
+关系可能受年龄、病程和 BMI 影响,并非 NAFLD 的独
+立危险因素。
+AU 组单因素分析显示年龄、病程、收缩压、TG、
+TC、LDL-C、FPG、HBA1C、血肌酐显著高于 NA 组,而
+HDL-C、eGFR 低于 NA 组(P<0. 05)。 校正了年龄和
+病程后,AU 组的 BMI、收缩压、舒张压也显著高于 NA
+组(P<0. 05);logistic 回归分析显示 AU 与 TC、HBA1C、
+BMI、病程、收缩压、血肌酐正相关,支持糖脂代谢紊乱
+和血压控制不良是 2 型糖尿病患者发生 AU 的独立危
+险因素,与文献报道一致[18-20]。
+根据年龄和病程差异将研究对象分为不同亚组研
+究发现 NAFLD 检出率随年龄和病程增加而降低,AU
+检出率则随年龄和病程增加而升高。 本研究也显示
+AU 者 NAFLD 检出率显著低于 NA 患者,NAFLD 检出
+率与 AU 显著负相关。 但校正了年龄和病程后,
+NAFLD 和 AU 无显著相关性。 张义德等[7] 认为 2 型
+糖尿病患者 NAFLD 与肾脏等靶器官损害并不平行,伴
+NAFLD 患者相对年轻,且糖尿病病程较短,主要伴随
+肥胖、血脂异常等代谢紊乱。 在 2 型糖尿病自然病程
+中,随年龄和病程的增加,AU 等慢性并发症逐步进
+展,NFLAD 检出率可与 AU 显著负相关[7,21-23]。
+综上所述,本院住院 2 型糖尿病患者 NAFLD 检出
+率为 60. 8% ,NAFLD 与 TG、BMI、FPG、腰围、收缩压、
+舒张压和 HDL-C 水平显著相关;患者 AU 检出率为
+31. 0% ,AU 的发生也与 TC、HBA1C、BMI、病程、收缩压
+和 HDL-C 水平显著相关。 2 型糖尿病合并 AU 者
+NAFLD 检出率显著低于 NA 患者,NAFLD 检出率与
+AU 显著负相关,但校正了年龄和病程后,2 型糖尿病
+患者 NAFLD 和 AU 无显著相关性;2 型糖尿病合并
+AU 与 NAFLD 的负相关可能是受患者年龄和病程影
+响所致。

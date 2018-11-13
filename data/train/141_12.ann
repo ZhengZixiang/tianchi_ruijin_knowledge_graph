@@ -1,0 +1,305 @@
+T1	Disease 182 188	1 型糖尿病
+T2	Disease 259 265	1 型糖尿病
+T3	Disease 337 343	1 型糖尿病
+T4	Disease 379 385	1 型糖尿病
+T5	Disease 898 904	1 型糖尿病
+T6	Disease 3518 3524	1 型糖尿病
+T7	Disease 4352 4358	1 型糖尿病
+T8	Disease 7077 7083	1 型糖尿病
+T9	Disease 7495 7501	1 型糖尿病
+T10	Disease 9879 9885	1 型糖尿病
+T11	Disease 9936 9942	1 型糖尿病
+T12	Disease 9995 10001	1 型糖尿病
+T13	Disease 10503 10509	1 型糖尿病
+T14	Disease 10616 10622	1 型糖尿病
+T15	Disease 3319 3325	2 型糖尿病
+T16	Disease 9792 9798	2 型糖尿病
+T17	Disease 10262 10268	2 型糖尿病
+T18	Disease 10454 10460	2 型糖尿病
+T19	Disease 4402 4403;4404 4408	1 型糖尿病
+T20	Disease 9922 9923;9924 9928	1 型糖尿病
+T21	Disease 9978 9979;9980 9984	1 型糖尿病
+T22	Disease 9760 9765	糖尿病肾病
+T23	Test 4435 4439	静脉血糖
+T24	Test 3880 3883	ABI
+T25	Test 3656 3658	体重
+T26	Test 4421 4423	体重
+T27	Test 4506 4508	体重
+T28	Test 4707 4709	体重
+T29	Test 7248 7250	体重
+T30	Test 7264 7266	体重
+T31	Test 7329 7331	体重
+T32	Test 7358 7360	体重
+T33	Test 7425 7427	体重
+T34	Test 8242 8244	体重
+T35	Test 8370 8372	体重
+T36	Test 4281 4286	MCP-1
+T37	Test 6285 6290	MCP-1
+T38	Test 6504 6509	MCP-1
+T39	Disease 310 313	糖尿病
+T40	Drug 329 334	链脲佐菌素
+T41	Test 354 361	qRT-PCR
+T42	Test 364 376	Western 印迹方法
+T43	Test 503 510	qRT-PCR
+T44	Disease 513 516	糖尿病
+T45	Disease 812 815	糖尿病
+T46	Disease 873 876	糖尿病
+T47	Disease 964 972	糖尿病血管并发症
+T48	Disease 3037 3040	糖尿病
+T49	Disease 3064 3067	糖尿病
+T50	Disease 3094 3100	糖尿病并发症
+T51	Disease 3102 3106	血管病变
+T52	Disease 3173 3180	糖尿病血管病变
+T53	Anatomy 3206 3211	miRNA
+T54	Disease 3282 3285	糖尿病
+T55	Anatomy 3336 3347	胸主动脉血管平滑肌细胞
+T56	Disease 3430 3433	糖尿病
+T57	Disease 3448 3449;3450 3460	血 管平滑肌细胞炎症反应
+T58	Disease 3595 3603	糖尿病血管并发症
+T59	Drug 4392 4395	STZ
+T60	Drug 4453 4456	STZ
+T61	Test 4643 4645	血糖
+T62	Disease 4686 4689	糖尿病
+T63	Test 4710 4712	血糖
+T64	Drug 4738 4741;4742 4744	戊巴比 妥钠
+T65	Method 4760 4765	腹腔内注射
+T66	Amount 4746 4756	50 mg / kg
+T67	Anatomy 4831 4835	胸主动脉
+T68	Anatomy 4821 4822;4823 4824	心 肺
+T69	Anatomy 4917 4922	miRNA
+T70	Disease 4962 4965	糖尿病
+T71	Anatomy 4968 4972	胸主动脉
+T72	Test 5378 5381	PCR
+T73	Disease 5684 5687	糖尿病
+T74	Anatomy 5690 5694	胸主动脉
+T75	Disease 6655 6658	糖尿病
+T76	Disease 7097 7100	糖尿病
+T77	Disease 7163 7166	糖尿病
+T78	Test 7234 7236	血糖
+T79	Disease 7238 7241	糖尿病
+T80	Disease 7350 7353	糖尿病
+T81	Disease 7416 7419	糖尿病
+T82	Disease 7452 7455	糖尿病
+T83	Anatomy 7457 7461	胸主动脉
+T84	Anatomy 7513 7517	胸主动脉
+T85	Disease 7591 7594	糖尿病
+T86	Test 7658 7669	Western 印迹法
+T87	Disease 7683 7686	糖尿病
+T88	Anatomy 7687 7691	胸主动脉
+T89	Disease 7754 7757	糖尿病
+T90	Anatomy 7759 7763	胸主动脉
+T91	Disease 7808 7811	糖尿病
+T92	Anatomy 7813 7817	胸主动脉
+T93	Anatomy 7818 7824	炎症介质基因
+T94	Test 7837 7844	qRT-PCR
+T95	Disease 7857 7859;7860 7861	糖尿 病
+T96	Anatomy 7864 7868	胸主动脉
+T97	Disease 8087 8090	糖尿病
+T98	Disease 8165 8168	糖尿病
+T99	Anatomy 8171 8175	胸主动脉
+T100	Test 8239 8241	血糖
+T101	Test 8342 8344	血糖
+T102	Anatomy 9425 9430	miRNA
+T103	Anatomy 9480 9486	miRNAs
+T104	Anatomy 9537 9543	miRNAs
+T105	Disease 9545 9546;9547 9549	糖 尿病
+T106	Anatomy 9567 9571;9572 9574	胰岛 β 细胞
+T107	Anatomy 9587 9593	胰岛素靶组织
+T108	Disease 9605 9611	糖尿病心肌病
+T109	Disease 9612 9616	心律失常
+T110	Disease 9652 9653;9654 9656	糖 尿病
+T111	Disease 9683 9684;9685 9689	肾 脏纤维化
+T112	Anatomy 9799 9806	血管平滑肌细胞
+T113	Anatomy 9859 9864;9865 9867	血管平滑肌 细胞
+T114	Anatomy 9886 9892;9893 9894	血管平滑肌细 胞
+T115	Anatomy 9943 9949;9950 9951	血管平滑肌细 胞
+T116	Anatomy 10057 10064	血管平滑肌细胞
+T117	Anatomy 10280 10287	血管平滑肌细胞
+T118	Disease 10304 10305;10306 10313	糖 尿病血管并发症
+T119	Disease 10352 10355	糖尿病
+T120	Anatomy 10371 10373;10374 10379	血管 平滑肌细胞
+T121	Anatomy 10511 10515	胸主动脉
+T122	Anatomy 10555 10559	单核细胞
+T123	Anatomy 10560 10567	血管平滑肌细胞
+T124	Disease 10573 10584	血管平滑肌细胞功能失调
+T125	Disease 10589 10593;10594 10598	糖尿病血 管并发症
+T126	Disease 10727 10735	糖尿病血管并发症
+T127	Anatomy 6411 6415	IL-6
+T128	Anatomy 9710 9713	Akt
+T129	Test 3754 3757	PCR
+T130	Test 5233 5236	PCR
+T131	Test 5250 5253	PCR
+T132	Test 5308 5311	PCR
+T133	Test 6042 6045	PCR
+T134	Test 6725 6728	PCR
+T135	Test 6855 6858	PCR
+T136	Test 6890 6893	PCR
+T137	Method 325 329	腹腔注射
+T138	Anatomy 4816 4818	胸腔
+T139	Test 431 436	MCP-1
+T140	Disease 159 162	心血管
+T141	Anatomy 286 290	炎症基因
+T142	Test 993 1001	MiR-200b
+T143	Disease 1003 1011	糖尿病, 1 型
+T144	Anatomy 1013 1017	胸主动脉
+T145	Anatomy 1019 1023	炎症基因
+T146	Disease 3052 3057;3058 3059	非传染性疾 病
+T147	Level 3145 3147	严重
+T148	Test 171 179	MiR-200b
+T149	Anatomy 4288 4294	肿瘤坏死因子
+T150	Test 4927 4934	qRT-PCR
+T151	Test 5395 5399;5400 5404	miR- 200b
+T152	Test 5438 5445	miR-200
+T153	Test 5467 5475	miR-200b
+T154	Test 5488 5496	miR-200b
+T155	Test 5526 5534	miR-200b
+T156	Test 5630 5638	miR-200b
+T157	Test 6510 6520	单核细胞趋化蛋白-1
+T158	Test 6475 6486	OX-2:环氧化酶 2
+T159	Test 6563 6574	肿瘤坏死因子 α Tu
+T160	Disease 7131 7133	死亡
+T161	Disease 7635 7638	糖尿病
+T162	Disease 8233 8236	糖尿病
+T163	Disease 8629 8632	糖尿病
+T164	Disease 8752 8755	糖尿病
+T165	Disease 8815 8818	糖尿病
+T166	Anatomy 8821 8825	胸主动脉
+T167	Disease 8953 8956	糖尿病
+T168	Disease 9016 9019	糖尿病
+T169	Anatomy 9022 9026	胸主动脉
+T170	Disease 9154 9157	糖尿病
+T171	Disease 9282 9285	糖尿病
+T172	Anatomy 9288 9292	胸主动脉
+T173	Anatomy 9295 9300	各炎症基因
+T174	Anatomy 10152 10156	肿瘤细胞
+T175	Disease 10182 10183;10184 10185	肿 瘤
+T176	Disease 10229 10233	炎症反应
+T177	Anatomy 4808 4812	胸骨左缘
+T178	Test_Value 542 545;546 547	明显上 调
+T179	Test 794 804	Western 印迹
+T180	Reason 941 954;955 959	增加调控通路下游相关炎症基 因的表达
+T181	Test_Value 3370 3374	显著上调
+T182	Anatomy 3378 3391;3392 3397	靶基因锌指 E 盒结合同源 异形盒 1
+T183	Test 3557 3558;3559 3564	炎 症介质基因
+T184	Method 4386 4391	腹腔内注射
+T185	Drug 4492 4495	STZ
+T186	Method 4532 4537	腹腔内注射
+T187	Drug 4538 4541	STZ
+T188	Method 4573 4577	腹腔注射
+T189	Drug 4578 4581	STZ
+T190	Test_Value 4651 4668	高于 16. 7 mmol / L
+T191	Anatomy 5664 5668	Zeb1
+T192	Test_Value 7178 7192	(6. 05 ±0. 17)
+T193	Test_Value 7193 7217	(26. 54 ± 0. 83)mmol / L
+T194	Test_Value 7612 7613;7614 7617	显 著上调
+T195	Test_Value 7781 7785	明显下调
+T196	Anatomy 9672 9680	转化生长因子 β
+T197	Test_Value 9820 9824	显著上调
+T198	Anatomy 9832 9836	Zeb1
+T199	Anatomy 9846 9852	炎症介质基因
+T200	Test_Value 10015 10019	显著上调
+T201	Test 10020 10024	Zeb1
+T202	Test_Value 10028 10030	下调
+T203	Anatomy 10032 10036	Zeb1
+T204	Anatomy 10041 10045	锌指结构
+T205	Anatomy 10046 10052	转录抑制因子
+T206	Anatomy 10080 10084	Zeb1
+T207	Anatomy 10095 10103	标准 E 盒元件
+T208	Anatomy 10195 10206	Zeb1 的剪接变异体
+T209	Anatomy 10324 10328	Zeb1
+T210	Anatomy 10357 10361	Zeb1
+T211	Anatomy 10531 10535	炎症介质
+T212	Test 597 602	COX-2
+T213	Test 609 614	TNF-α
+T214	Test 817 821	Zeb1
+T215	Test_Value 7269 7288	(246. 23 ± 0. 74) g
+T216	Test_Value 7290 7308	(395. 84 ±16. 71)g
+T217	Test_Value 7363 7382	(245. 63 ± 0. 63) g
+T218	Test_Value 7384 7403	(200. 63 ± 6. 64) g
+T219	Anatomy 7581 7589	miR-200b
+T220	Test 603 608	MCP-1
+T221	Test 7876 7881	MCP-1
+T222	Test 8189 8194	MCP-1
+T223	Anatomy 10421 10426	MCP-1
+T224	Disease 190 196	胸主动脉炎症
+T225	Anatomy 267 271	胸主动脉
+T226	Anatomy 272 280	miR-200b
+T227	Test 387 400	胸主动脉 miR-200b
+T228	Test 401 411	炎症基因环氧化酶-2
+T229	Test 420 428	单核细胞趋化蛋白
+T230	Test 438 446	肿瘤坏死因子 α
+T231	Test 454 461	白细胞介素 6
+T232	Test 463 467	IL-6
+T233	Test 470 485;486 494	miR-200b 靶基因转录抑 制因子 Zeb1
+T234	Test 519 532	胸主动脉 miR-200b
+T235	Test 617 621	IL-6
+T236	Test 907 921	胸主动脉中 miR-200b
+T237	Reason 926 938	抑制靶标 Zeb1 表达
+T238	Anatomy 3119 3122	大血管
+T239	Anatomy 3123 3126	微血管
+T240	Anatomy 3131 3132	心
+T241	Anatomy 3133 3134	脑
+T242	Anatomy 3135 3136	肾
+T243	Anatomy 3138 3141	视网膜
+T244	Anatomy 3142 3144	下肢
+T245	Anatomy 3183 3185;3186 3189	微小 RNA
+T246	Anatomy 3291 3296	miRNA
+T247	Test 3349 3357	miR-200b
+T248	Anatomy 3435 3443	miR-200b
+T249	Disease 3465 3472	糖尿病血管病变
+T250	Drug 3504 3509	链脲佐菌素
+T251	Test 3527 3541	胸主动脉中 miR-200b
+T252	Test 3542 3553	转录抑制因子 Zeb1
+T253	Disease 3577 3583	1 型糖尿病
+T254	Disease 3583 3584;3585 3588	血 管病变
+T255	Anatomy 4313 4317	IL-6
+T256	Test 4647 4649	血糖
+T257	Anatomy 4719 4723	胸主动脉
+T258	Anatomy 4854 4860	胸主动脉外膜
+T259	Anatomy 4861 4865	脂肪组织
+T260	Test 4938 4946	miR-200b
+T261	Anatomy 6596 6600	IL-6
+T262	Test 6626 6633	qRT-PCR
+T263	Anatomy 6660 6664	胸主动脉
+T264	Test 7170 7172	血糖
+T265	Test 7463 7471	miR-200b
+T266	Test 7484 7491	qRT-PCR
+T267	Test 7519 7527	miR-200b
+T268	Anatomy 7596 7600	胸主动脉
+T269	Anatomy 7640 7644	胸主动脉
+T270	Test 7693 7697	Zeb1
+T271	Test 7765 7769	Zeb1
+T272	Test 7646 7650	Zeb1
+T273	Test 7870 7875	COX-2
+T274	Test 7882 7887	TNF-α
+T275	Test 7890 7894	IL-6
+T276	Anatomy 8091 8094;8095 8096	胸主动 脉
+T277	Test 8176 8185;8186 8187	炎症介质 COX- 2
+T278	Test 8196 8201	TNF-α
+T279	Test 8204 8208	IL-6
+T280	Anatomy 9577 9580	胰岛素
+T281	Anatomy 9622 9630	miR-200b
+T282	Anatomy 9633 9640	miR-200
+T283	Anatomy 9658 9665	miR-200
+T284	Anatomy 9717 9724	肾小球系膜细胞
+T285	Anatomy 9732 9739	miR-200
+T286	Anatomy 9746 9750	Zeb1
+T287	Anatomy 9809 9817	miR-200b
+T288	Anatomy 9896 9903	miR-200
+T289	Anatomy 9953 9960	miR-200
+T290	Test 10003 10007;10008 10012	miR- 200b
+T291	Anatomy 10133 10137	Zeb1
+T292	Test 10213 10218	IL-12
+T293	Anatomy 10250 10257	miR-200
+T294	Anatomy 10298 10302	Zeb1
+T295	Anatomy 10382 10386	炎症细胞
+T296	Anatomy 10386 10390	炎症基因
+T297	Anatomy 10415 10420	COX-2
+T298	Anatomy 10428 10433	TNF-α
+T299	Anatomy 10436 10440	IL-6
+T300	Anatomy 10483 10487	Zeb1
+T301	Anatomy 10623 10630	血管平滑肌细胞
+T302	Test 10631 10639	miR-200b
+T303	Test 10650 10656	Zeb1 表
+T304	Disease 10697 10705	糖尿病血管并发症
+T305	Anatomy 9697 9703	蛋白激酶 B

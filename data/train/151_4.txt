@@ -1,0 +1,260 @@
+甲状腺疾病
+基金项目:安徽省科技计划项目(12010402134)
+(燕小莉、康冬梅);上海交通大学医学院附属瑞金医院医学基因组学国
+家重点实验室(占明、宋怀东);徐州市中心医院内分泌科(梁军)
+FOXE1 rs925489 基因多态性与中国汉族人群
+正常范围高 TSH 水平的相关性研究
+燕小莉  占明  梁军  康冬梅  宋怀东
+[摘要]   目的   研究叉头框 El (FOXE1) 基因上 2 个单核苷酸多态性 ( SNP) 位点 rs925489 和
+rs1443434 的基因多态性与中国汉族人群正常范围高促甲状腺素(TSH)水平的相关性。 方法 纳入 TSH
+和甲状腺过氧化物酶抗体(TPOAb)均在正常范围内的受试者 1 400 名。 依据 TSH、TPOAb 水平分别将人群
+分为:正常范围高 TSH 组(H-TSH 组,n=195)与正常范围 TSH 对照组(TSH 对照组,n = 1 205)及正常范围
+高 TPOAb 组(H-TPOAb 组,n=711)与正常范围低 TPOAb 组(L-TPOAb 组,n= 689)。 采用全基因组芯片对
+所有受试者的这 2 个 SNP 位点进行基因分型。 结果 H-TSH 组与 TSH 对照组的 rs925489 基因型分布及等
+位基因频率差异均有统计学意义(均 P<0. 05),即 H-TSH 组基因型 TT 及等位基因 T 的频率均高于 TSH 对
+照组(89. 75%对 83. 15% 、94. 62%对 91. 29% )。 经性别、年龄和高密度脂蛋白胆固醇校正后,rs925489 基
+因型分布与正常范围 TSH 水平显著相关(β= -0. 232,P<0. 01)。 而 rs1443434 基因型分布及等位基因频率
+在 2 个 TSH 组间或 2 个 TPOAb 组间无差异。 结论 FOXE1 rs925489 基因多态性可能与中国汉族人群正常
+范围高 TSH 水平相关。
+[关键词]   叉头框 El; rs925489; 多态性, 单核苷酸; 促甲状腺素
+Correlation of FOXE1 rs925489 gene polymorphism and high normal TSH level in Chinese Han population
+Yan Xiaoli*, Zhan Ming, Liang Jun, Kang Dongmei, Song Huaidong. *Department of Senile Endocrinology, the
+Affiliated Provincial Hospital of Anhui Medical University, Hefei 230001, China
+[Abstract]  Objective   To explore the correlation of the gene polymorphism of the two single nucleotide
+polymorphisms(SNPs) rs1443434 and rs925489 on forkhead box El(FOXE1) with the high normal thyroid stimulating
+hormone (TSH) level in Chinese Han population. Methods 1 400 subjects with normal serum TSH and thyroid
+peroxidase antibody (TPOAb) levels were included. According to TSH or TPOAb levels, the subjects were divided
+into high normal TSH group(H-TSH group,n=195) and normal TSH control group(TSH control group,n=1 205) or
+high normal TPOAb group (H-TPOAb group,n = 711) and low normal TPOAb group ( L-TPOAb group,n = 689),
+respectively. The genotypes on the two SNPs of all the subjects were performed by whole-genome genotyping
+chips. Results There were significant differences in rs925489 genotypic distributions and allele frequencies between
+H-TSH group and TSH control group(both P<0. 05) . The genotype TT and allele T in H-TSH group were significantly
+higher than those in TSH control group (89. 75% vs 83. 15% , 94. 62% vs 91. 29% ). The normal TSH levels were
+positively associated with rs925489 genotypic distributions after adjustment for sex, age, and high density lipoprotein
+cholesterol ( P < 0. 01 ) . There were no significant differences in rs1443434 genotypic distributions and allele
+frequencies between two TSH groups or two TPOAb groups. Conclusion FOXE1 rs925489 gene polymorphism may
+be correlated with the high normal TSH level in Chinese Han population.
+[Key words]  Forkhead box El; rs925489; Polymorphism, single nucleotide; TSH
+(Chin J Endocrinol Metab, 2016, 32: 11-14)
+通常认为,在甲状腺疾病发生发展过程中 TSH 的
+变化常常先于甲状腺激素的变化,因此 TSH 为诊断甲
+状腺疾病最敏感的指标。 由于亚临床甲状腺功能减退
+症缺乏临床特异症状,仅能通过血清 TSH 值确诊,因
+此 TSH 参考值上限的确定已成为近年国际内分泌学
+界争论的焦点之一。 在 2003 年,美国国家临床生化协
+会(NACB)指南建议将 TSH 上限进一步降低到 2. 5
+mIU / L[1]。FOXE1 基因,过去被称为甲状腺转录因子-2
+(TTF2),从属于叉头 /螺旋翼结构的转录因子家族,胚
+胎早期即在甲状腺内开始表达,调节甲状腺滤泡细胞
+的生长与分化。 国外已有研究发现, FOXE1 基因
+rs944289[2]、 rs755109[3] 与 TSH 水平相关。 该基因
+rs925489 和 rs1443434 与 TSH 水平的相关性目前国内
+外研究较少,本研究探讨其与中国汉族人群正常范围
+高 TSH 水平的相关性。
+对象和方法
+一、 对象
+选取 2009 年 1 月至 2010 年 1 月在江苏省徐州市
+中心医院行健康体检者共 1 400 名,其中男性 339 名,
+女性 1 061 名,平均年龄(45 ± 9)岁,所有受试者均为
+中国汉族人群[4-5]。 经体检和实验室检查,排除有甲状
+腺疾病个人史或家族史、服用甲状腺激素类药物、抗甲
+状腺药物及影响甲状腺功能的药物(避孕药或雌激
+素,糖皮质激素,抗癫痫药,碘剂)、有可见或可触及的
+甲状腺肿、内分泌肿瘤史、严重的肝肾等非甲状腺疾
+病、怀孕或产后 1 年内、 TSH 在正常参考值范围
+(0. 35 ~ 4. 94 mIU / L) 之外、甲状腺过氧化酶抗体
+(TPOAb)阳性(≥5. 61 IU / ml)者。 美国 NACB 建议将
+TSH 正常值上限进一步降低到 2. 5 mIU / L[1],据此本
+研究将人群分为正常范围高 TSH 组(H-TSH 组,2. 5<
+TSH≤4. 94 mIU / L,n = 1205)与正常范围 TSH 对照组
+(TSH 对照组,0. 35≤TSH≤2. 5 mIU / L,n = 195)。 ±
+据 TPOAb 水平如何进行较为合理的分组,目前研究尚
+缺。 经统计 TPOAb 在该人群中呈偏态分布,其中位数
+值为 0. 240 IU / ml,据此本研究将人群分为正常范围高
+TPOAb 组(H-TPOAb 组,0. 240≤TPOAb<5. 61 IU / ml,
+n = 711 ) 与 正 常 范 围 低 TPOAb 组 ( L-TPOAb 组,
+TPOAb<0. 240 IU / ml,n = 689)。 本研究经医院伦理委
+员会批准,并取得受试者的知情同意。
+二、 方法
+1. 测量指标:身高、体重、血压,并计算体重指数
+(BMI)= 体重(kg) /身高2(m2)。 临床生化指标:采集
+受试者 5ml 空腹静脉血,采血后 30 min 内离心,分离
+血清,TSH 及 TPOAb 采用固相化学发光酶免疫分析法
+测定 (美国贝克曼库尔特公司), TSH 测定范围在
+0. 01 ~ 100 mIU / L,试剂盒正常值参考范围在 0. 35 ~
+4. 94 mIU / L,TPOAb 测定范围在 0. 1 ~ 600 IU / ml,试剂
+盒参考范围<5. 61 IU / ml。 空腹血糖(FPG)采用葡萄
+糖氧化酶法测定,总胆固醇(TC)、三酰甘油(TG)及高
+密度脂蛋白胆固醇(HDL-C)采用全自动生化分析仪
+测定。
+2. 提取基因组 DNA:在全自动核酸提取仪(日本
+富士公司)上用全血 DNA 提取试剂盒提取受试者外
+周血白细胞基因组 DNA。 使用紫外线分光光度计(美
+国热电公司) 测量吸光度 ( A),DNA 纯度为 A260 /
+A280 =1. 8 ~ 2. 0。 稀释样本 DNA 至 150 mg / L 后再进
+行基因分型。
+3. 检测基因多态性:在 IIlumina 激光共聚焦微珠
+芯片平台(美国 lllumina 公司)上采用全基因组芯片对
+样本 DNA657366 个 SNP 位点基因进行基因分型检
+测。 再找出芯片中 FOXE1 基因区域内 rs925489 和
+rs1443434 位点在所有受试者中的基因分型结果。
+三、 统计学处理
+所有数据输入 Excel 表,应用 Haploview 4. 2 软件
+对 rs925489、 rs1443434 进行 Hardy-Weinberg 平衡检
+验。 下述应用 SPSS 17. 0 软件进行统计分析:H-TSH
+组与 TSH 对照组及 H-TPOAb 组与 L-TPOAb 组一般情
+况及临床生化指标中的计量资料用 x-± s 表示,2 组间
+均数比较使用 t 检验,FOXE1 基因 SNP 位点基因型分
+布及等位基因频率间差异比较使用 R×C 列联表 字2 检
+验,基因型分布与血清 TSH 及 TPOAb 水平的相关性
+分析使用多元线性回归分析,P<0. 05 表示差异有统计
+学意义。
+结    果
+一、 不同 TSH 及 TPOAb 水平组间一般情况及生
+化指标的比较
+H-TSH 组与 TSH 对照组之间女性比例和血清高
+密度脂蛋白胆固醇水平差异有统计学意义(分别为 t =
+-4. 136,P<0. 01;t = 2. 333,P<0. 05)。 H-TPOAb 组与
+L-TPOAb 组之间女性比例和年龄有显著差异(分别为
+t= -5. 512,P<0. 01;t=1. 913,P<0. 05,表 1)。
+二、 Hardy-Weinberg 平衡检验
+受试样本 FOXE1 基因 rs925489 和 rs1443434 平
+衡吻合度检验的 字2 值分别为 0. 245、0. 454 (均 P >
+0. 05),即各基因型的期望值与观察值间无统计学差
+异,基因型和等位基因的分布具有群体代表性及可靠
+性。
+三、 不同 TSH 及 TPOAb 水平组间 FOXE1 基因
+SNP 位点基因型分布及等位基因频率的比较
+H-TSH 组与 TSH 对照组的 rs925489 基因型分布
+及等位基因频率差异均有统计学意义(TT、CT、CC,
+字2 =6. 140,P<0. 05;T、C, 字2 = 4. 915,P<0. 05),即 H-
+TSH 组基因型 TT 及等位基因 T 的频率高于 TSH 对照
+组(89. 75% 对 83. 15% ;94. 62% 对 91. 29% )。 2 个
+TSH 组间 rs1443434 的基因型分布及等位基因频率无
+显著差异(TT、GT、GG, 字2 = 0. 649,P>0. 05;T、G, 字2 =
+0. 680,P>0. 05)。 H-TPOAb 组与 L-TPOAb 组比较,2
+个 SNP 位点基因型分布及等位基因频率差异无显著
+性(均 P>0. 05,表 2、3)。
+表 1  不同 TSH 及 TPOAb 水平组间一般情况及生化指标的比较(x-± s)
+Tab 1  Comparison of clinical features and serum biochemical parameters among different TSH and TPOAb level groups(x-± s)
+组别
+Group
+例数
+n
+女性
+Female
+年龄
+(岁)
+Age
+(year)
+BMI
+(kg / m2)
+SBP
+(mmHg)
+DBP
+(mmHg)
+FPG
+(mmol / L)
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+H-TSH 195 167(85. 64) 45. 69 ± 9. 41 22. 34 ± 2. 29 115 ± 11 75 ± 8 4. 85 ± 0. 42 4. 87 ± 0. 80 0. 94 ± 0. 38 1. 47 ± 0. 29
+C-TSH 1 205 889(73. 78) b 44. 93 ± 9. 05 22. 21 ± 2. 13 115 ± 11 75 ± 8 4. 88 ± 0. 45 4. 81 ± 0. 72 0. 88 ± 0. 38 1. 40 ± 0. 31a
+H-TPOAb 711 590(83. 00) 45. 53 ± 9. 30 22. 35 ± 2. 32 115 ± 11 75 ± 8 4. 89 ± 0. 42 4. 84 ± 0. 79 0. 91 ± 0. 38 1. 41 ± 0. 31
+L-TPOAb 689 471(68. 30) d 44. 55 ± 8. 73c 22. 11 ± 2. 02 112 ± 11 75 ± 8 4. 86 ± 0. 46 4. 81 ± 0. 70 0. 86 ± 0. 38 1. 41 ± 0. 31
+注:TSH:促甲状腺素 Thyroid stimulating hormone;TPOAb:甲状腺过氧化物酶抗体 Thyroid peroxidase antibody;H-TSH:正常范围高 TSH High normal
+TSH;C-TSH:正常范围 TSH 对照组 Normal TSH control group;H-TPOAb:正常范围高 TPOAb High normal TPOAb;L-TPOAb:正常范围低 TPOAb Low normal
+TPOAb;BMI: 体重指数 Body mass index;SBP:收缩压 Systolic blood pressure; 1 mmHg=0. 133 kPa; DBP: 舒张压 Diastolic blood pressure; FPG:空腹血糖
+Fasting plasma glucose;TC: 总胆固醇 Total cholesterol; TG:三酰甘油 Triglyceride; HDL-C:高密度脂蛋白胆固醇 High density lipoprotein cholesterol; 与
+H-TSH 组比较 vs H-TSH group,aP<0. 05,bP<0. 01;与 H-TPOAb 组比较 vs H-TPOAb group,cP<0. 05,dP<0. 01
+表 2  不同 TSH 水平组间 FOXE1 基因 SNP 位点基因型分布及等位基因频率的比较[n(% )]
+Tab 2  Comparison of genotypic distributions and allele frequencies on SNPs within FOXE1 between two TSH groups[n(% )]
+组别
+Group
+rs925489 rs1443434
+TT CT CC T C TT GT GG T G
+H-TSH 175(89. 75) 19(9. 74) 1(0. 51) 369(94. 62) 21(5. 38) 147(75. 38) 44(22. 56) 4(2. 06) 338(86. 67) 52(13. 33)
+C-TSH 1 002(83. 15) 196(16. 26) 7(0. 59) 2 200(91. 29) 210(8. 71) 939(77. 93) 246(20. 41) 20(1. 66) 2 124(88. 13) 286(11. 87)
+字2 6. 140 4. 915 0. 649 0. 680
+P 0. 047 0. 027 0. 723 0. 410
+注:FOXE1:叉头框 El Forkhead boxEl;SNP:单核苷酸多态性 Single nucleotide polymorphism;余略语同表 1 The other abbreviations are the same as Tab 1
+表 3  不同 TPOAb 水平组间 FOXE1 基因 SNP 位点基因型分布及等位基因频率的比较[n(% )]
+Tab 3  Comparison of genotypic distributions and allele frequencies on SNPs within FOXE1 between two TPOAb groups[n(% )]
+组别
+Group
+rs925489 rs1443434
+TT CT CC T C TT GT GG T G
+H-TPOAb 605(85. 09) 101(14. 21) 5(0. 70) 1 311(92. 19) 111(7. 81) 555(78. 06) 147(20. 68) 9(1. 26) 1 257(88. 40) 165(11. 60)
+L-TPOAb 573(83. 16) 112(12. 26) 4(0. 58) 1 258(91. 29) 120(8. 71) 531(77. 07) 143(20. 75) 15(2. 18) 1 205(87. 45) 173(12. 55)
+字2 1. 203 0. 753 1. 740 0. 520
+P 0. 548 0. 386 0. 419 0. 471
+注:略语同表 1 和表 2 The abbreviations are the same as Tab 1 and Tab 2
+四、 FOXE1 基因 SNP 位点基因型分布与血清
+TSH 及 TPOAb 水平的多元线性回归分析
+经校正性别、年龄和高密度脂蛋白胆固醇后,
+rs925489 基因型分布与血清 TSH 水平呈显著性相关
+(β= -0. 232,P<0. 01),与血清 TPOAb 水平无关(β =
+-0. 341,P>0. 05);rs1443434 基因型分布与血清 TSH
+及 TPOAb 水平均无关 (β 值分别为-0. 015、-0. 350,
+均 P>0. 05)。
+讨    论
+研究发现在健康受试人群中,血清 TSH 测量值显
+示出相当大的个体差异,使得实验室参考值范围较宽,
+而个体内变异却在较狭窄的范围内,这表明每个人都
+有自身的个体设定点[6]。 Panicker 等[7]认为这种现象
+是由血清 TSH 水平变异在数量性状遗传模型中的遗
+传贡献度为 65%所决定。 与此同时,Samollow 等[8] 研
+究也发现基因变异对 TSH 水平的影响占到 26% ~
+64% ,而环境因素(如性别、年龄、糖尿病状态)及生活
+方式 (如吸烟、饮酒、体育锻炼、口服避孕药) 仅占
+2% ~ 18% 。 人类 FOXE1 基因定位于染色体 9q22.
+23,只含一个外显子,其编码蛋白由 N 端区域、高度保
+守的叉头区域、α 螺旋多聚丙氨酸通道和独特的 C 端
+残基组成,在甲状腺组织中高表达,促进甲状腺形成、
+发育和分化,被认为是启动甲状腺分化的众多转录因
+子和辅因子的调控中心[9]。 FOXE1 基因可参与对甲
+状腺特异基因———甲状腺球蛋白(Tg)和甲状腺过氧
+化物酶(TPO)基因的调节[10]。 研究还发现,甲状腺疾
+病患者的甲状腺组织 FOXE1 基因较正常对照组表达
+增加[11]。
+目前,国际和国内大多数实验室的 TSH 上限值采
+用 5. 0mIU / L,然而近年研究发现处于正常范围较高水
+平的 TSH 依然可能会对机体产生不利影响,如增加甲
+状腺功能减退症的发病率[12],与血脂异常[13-14]、代谢
+综合征[15]甚至甲状腺癌密切相关[16]。 因此 2003 年
+美国 NACB 指南建议将 TSH 正常值上限进一步降低
+到 2. 5 mIU / L[1]。 本研究以 2. 5 mIU / L 作为 TSH 分组
+的切入点,探讨 TSH 处于正常范围高水平与对照水平
+的两类人群 FOXE1 基因多态性是否存在差异。 结果
+显示 H-TSH 组 rs925489 位点基因型 TT 及等位基因 T
+的频率均高于 TSH 对照组,对混杂因素进行校正后,
+该位点基因型分布与血清 TSH 水平呈显著相关,即携
+带等位基因 T 越多,TSH 水平就越高。 推测可能的机
+制是等位基因 T 通过下调 Tg 和 TPO 基因转录,减少
+甲状腺激素的合成和释放,进而升高 TSH 水平。 这与
+Gudmundsson 等[2] 在冰岛对 192 例甲状腺癌患者和
+37 196 名对照者中进行的全基因组关联研究的结果类
+似,即 FOXE1 基因 rs965513 与 TSH 水平显著相关[本
+研究中国汉族人群中 rs965513 与 rs925489 完全连锁
+( r2 =0. 97)],此后在美国和西班牙人群中印证了这一
+结果。 本研究显示 rs1443434 基因型分布与正常范围
+TSH 水平无关。 然而,Medici 等[17] 对 1 121 例荷兰白
+种人 68 个基因的 1 512 个多态性研究中却发现该位
+点基因型分布与血清 TSH 水平呈临界显著相关,与本
+研究结果不一致,可能是由于种族差异所造成。 由于
+TPOAb 是甲状腺自身免疫的重要标志,因此我们也对
+其进行了分析,结果发现这 2 个 SNP 位点基因型分布
+与正常范围 TPOAb 水平无相关性。
+综上所述,FOXE1 rs925489 基因多态性与中国汉
+族人群正常范围高 TSH 水平相关,或许能为正常范围
+高 TSH 血症的发病机制及治疗提供遗传学线索。 然
+而本研究也存在一定的不足。 其一,由于 TSH 是检测
+甲状腺功能最敏感的指标,因此我们没有测定甲状腺
+激素,这可能会导致某些 TSH 水平正常的甲状腺疾病
+如甲状腺激素不敏感综合征被错误纳入;其二,H-TSH
+组样本量较小;其三,TSH 水平受非遗传性影响因素较
+多。 因此仍需更精确的研究来进一步验证本结论的真
+实性。

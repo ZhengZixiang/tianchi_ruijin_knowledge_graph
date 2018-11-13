@@ -1,0 +1,158 @@
+T1	Disease 5598 5601	结肠癌
+T2	Test 3968 3970	体重
+T3	Test 4226 4228	体重
+T4	Test 4677 4679	体重
+T5	Test 4689 4691	体重
+T6	Test 4734 4736	体重
+T7	Disease 204 211	甲状腺乳头状癌
+T8	Disease 224 231	甲状腺乳头状癌
+T9	Disease 255 262	甲状腺乳头状癌
+T10	Test 350 356	PET-CT
+T11	Test 368 381	放射性核素发射式计算机断层
+T12	Test 382 385	ECT
+T13	Test 457 463	PET-CT
+T14	Test 489 492	ECT
+T15	Method 495 499	腹腔注射
+T16	Drug 499 506	放射性99m锝
+T17	Disease 552 559	甲状腺乳头状癌
+T18	Disease 583 586;587 591	甲状腺 乳头状癌
+T19	Disease 2524 2528	甲状腺癌
+T20	Disease 2543 2545;2546 2551	分化 型甲状腺癌
+T21	Disease 2586 2589	DTC
+T22	Anatomy 2594 2603	甲状腺滤泡上皮细胞
+T23	Disease 2606 2613	甲状腺乳头状癌
+T24	Disease 2623 2627	甲状腺癌
+T25	Disease 2637 2641;2642 2645	甲状腺乳 头状癌
+T26	Disease 2675 2678	PTC
+T27	Disease 2687 2691	甲状腺癌
+T28	Disease 2703 2706	DTC
+T29	Disease 2724 2727	DTC
+T30	Anatomy 2738 2743	甲状腺组织
+T31	Disease 2764 2767	DTC
+T32	Drug 2784 2789	131 I
+T33	Drug 2801 2806	131 I
+T34	Anatomy 2820 2825	甲状腺组织
+T35	Drug 2874 2879	131 I
+T36	Disease 2881 2885	甲状腺癌
+T37	Anatomy 2944 2946	腮腺
+T38	Anatomy 2947 2951	甲状旁腺
+T39	Disease 2963 2967;2968 2971	血液系统 并发症
+T40	Disease 2982 2986	甲状腺癌
+T41	Reason 3012 3014	低碘
+T42	Anatomy 3016 3021	甲状腺细胞
+T43	Anatomy 3040 3045	甲状腺细胞
+T44	Disease 3088 3091	DTC
+T45	Disease 3053 3054;3055 3061	甲 状腺恶性肿瘤
+T46	Disease 3111 3114	PTC
+T47	Disease 3126 3133	甲状腺恶性肿瘤
+T48	Disease 3155 3158	PTC
+T49	Disease 3176 3179	PTC
+T50	Disease 3227 3230	PTC
+T51	Disease 3284 3291	甲状腺滤泡状癌
+T52	Disease 3313 3316	PTC
+T53	Disease 3345 3348	PTC
+T54	Disease 4065 4072	甲状腺乳头状癌
+T55	Disease 4293 4300	甲状腺乳头状癌
+T56	Test 4303 4306	ECT
+T57	Test 4309 4315	PET-CT
+T58	Test 4326 4339	放射性核素发射式计算机断层
+T59	Test 4340 4343	ECT
+T60	Method 4374 4378	腹腔注射
+T61	Test 4401 4407	PET-CT
+T62	Disease 4457 4464	甲状腺乳头状癌
+T63	Anatomy 4490 4494	肿瘤组织
+T64	Anatomy 4495 4496	肝
+T65	Method 4597 4601	皮下注射
+T66	Disease 4620 4622	死亡
+T67	Test_Value 4691 4695	未再增长
+T68	Test_Value 4696 4699;4700 4701	增长缓 慢
+T69	Test 5345 5351	PET-CT
+T70	Test 5354 5357	ECT
+T71	Test 5375 5381	PET-CT
+T72	Test 5465 5468	ECT
+T73	Test 5537 5540	ECT
+T74	Anatomy 5806 5809	甲状腺
+T75	Anatomy 5810 5811	胃
+T76	Anatomy 5812 5815	唾液腺
+T77	Drug 5820 5825	131 I
+T78	Drug 5827 5835	放射性99mTc
+T79	Drug 5841 5849	放射性131 I
+T80	Drug 5851 5858	放射性99m锝
+T81	Drug 5875 5880	99mTc
+T82	Disease 5911 5915	甲状腺癌
+T83	Anatomy 5969 5972	甲状腺
+T84	Drug 5985 5992	放射性99m锝
+T85	Anatomy 6001 6004	甲状腺
+T86	Anatomy 6016 6021	甲状腺结节
+T87	Disease 6029 6030;6031 6034	甲 状腺癌
+T88	Drug 6067 6075	放射性99mTc
+T89	Method 6103 6107	皮下注射
+T90	Drug 6107 6112	131 I
+T91	Drug 6200 6205	131 I
+T92	Drug 6207 6215	放射性99mTc
+T93	Drug 6243 6251	放射性99mTc
+T94	Drug 6256 6264	放射性131 I
+T95	Disease 6278 6282	甲状腺癌
+T96	Disease 6292 6298;6299 6301	甲状腺未分化 肿瘤
+T97	Disease 6302 6309	甲状腺乳头状癌
+T98	Disease 6310 6314	滤泡状癌
+T99	Disease 6315 6318	髓样癌
+T100	Disease 6358 6365	甲状腺未分化癌
+T101	Symptom 6353 6354;6355 6357	恶 病质
+T102	Disease 6371 6378	甲状腺未分化癌
+T103	Disease 6399 6402;6403 6407	甲状腺 未分化癌
+T104	Symptom 6452 6455	恶病质
+T105	Test 6478 6482;6483 6486	白细胞抑 制因子
+T106	Test 6515 6524	转化生长因子 β1
+T107	Disease 6575 6582	甲状腺乳头状癌
+T108	Disease 6588 6590;6591 6596	甲状 腺乳头状癌
+T109	Disease 6718 6723;6724 6726	甲状腺滤泡 状癌
+T110	Disease 6815 6818	PTC
+T111	Disease 6848 6855	甲状腺乳头状癌
+T112	Disease 6877 6880	PTC
+T113	Test 6917 6923	PET-CT
+T114	Disease 6989 6992	PTC
+T115	Test 6892 6895	ECT
+T116	Disease 7012 7015	PTC
+T117	Drug 7005 7009	放射性碘
+T118	Disease 7039 7046	甲状腺乳头状癌
+T119	Disease 2614 2616;2617 2619	滤泡 状癌
+T120	Reason 2980 2981	碘
+T121	Reason 3124 3125	碘
+T122	Reason 3081 3086	碘摄入增加
+T123	Disease 3269 3272;3273 3276	神经内 分泌瘤
+T124	Disease 3365 3368	PTC
+T125	Anatomy 5199 5200	心
+T126	Anatomy 5201 5202	肝
+T127	Anatomy 5203 5204	脾
+T128	Anatomy 5205 5206	肺
+T129	Anatomy 5207 5208	肾
+T130	Anatomy 5209 5214	局部淋巴结
+T131	Test 5701 5707	PET-CT
+T132	Test 5710 5713	ECT
+T133	Drug 5939 5944	99mTc
+T134	Disease 6183 6189	神经内分泌瘤
+T135	Disease 36 39	糖尿病
+T136	Disease 46 49	糖尿病
+T137	Disease 58 61	糖尿病
+T138	Disease 123 130	甲状腺乳头状癌
+T139	Disease 530 535;536 538	甲状腺乳头 状癌
+T140	Treatment 2708 2710	化疗
+T141	Treatment 2792 2795	内照射
+T142	Anatomy 2835 2841	淋巴结转移灶
+T143	Drug 3170 3174	放射性碘
+T144	Anatomy 4163 4166	颈背部
+T145	Anatomy 5325 5326	肝
+T146	Anatomy 5957 5960	甲状腺
+T147	Drug 6077 6082	131 I
+T148	Anatomy 6408 6416	Thena 细胞
+T149	Test 4231 4232;4233 4236	肿 瘤大小
+T150	Test 4707 4709	体重
+T151	Treatment 238 244	放射性碘治疗
+T152	Treatment 596 602	放射性碘治疗
+T153	Treatment 2711 2716	外放射治疗
+T154	Treatment 2905 2915	131 I 放射治疗
+T155	Treatment 3195 3205	131 I 放射治疗
+T156	Disease 3656 3663	甲状腺乳头状癌
+T157	Disease 3670 3676	甲状腺乳头癌
+T158	Test 6470 6477	白细胞介素 6

@@ -1,0 +1,396 @@
+临床研究
+基金项目:国家自然科学基金(81370903);教育部留学归国人员基
+金(20071108);中国博士后基金(20060390237);黑龙江省留学归国人
+员基金(LC06C23)
+(安盟盟、宋海燕、朱莉莉、王政、杨鲁杰),急诊创伤外科(刘浩)
+2 型糖尿病足病患者血清与足部肌肉组织中
+SPARC 水平的变化
+安盟盟  宋海燕  刘浩  朱莉莉  王政  杨鲁杰
+[摘要]   目的  观察富含半胱氨酸的酸性分泌蛋白(secreted protein acidic and rich in cysteine, SPARC)
+在 2 型糖尿病足病患者血清及足部肌肉组织中表达水平的变化。 方法 选取 2 型糖尿病未合并下肢动脉
+血管、周围神经病变患者 40 例作为 DMA 组,2 型糖尿病合并下肢动脉血管、周围神经病变患者 40 例作为
+DMB 组,2 型糖尿病足病患者 40 例作为 DF 组,以及健康体检者(包括血脂异常)40 名作为 NC 组;DF 组及
+NC 组各 6 例取肌肉组织。 分别采取 ELISA 法检测血清 SPARC 水平,RT-PCR、Western 印迹法、免疫荧光
+法、免疫组化法检测肌肉组织 SPARC mRNA 和蛋白的表达水平。 结果 DMA 组及 DMB 组血清 SPARC 水
+平高于 NC 组及 DF 组[(1 040. 48 ±212. 12、1 068. 36 ±165. 45 对 841. 93 ±144. 57、835. 43 ±188. 37)ng / L,P<
+0. 01],DF 组与 NC 组、DMA 组与 DMB 组之间无差异统计学意义(P>0. 05)。 DF 患者足部肌肉组织中
+SPARC mRNA 和蛋白呈高表达(P<0. 01)。 结论 DF 患者足部肌肉组织中 SPARC mRNA 和蛋白表达增
+高,表明 SPARC 可能参与糖尿病足损伤肌肉组织的修复及愈合。
+[关键词]   富含半胱氨酸的酸性分泌蛋白; 糖尿病, 2 型; 糖尿病足
+Variations of SPARC levels in serum and foot muscle tissue of patients with type 2 diabetic foot An
+Mengmeng*, Song Haiyan, Liu Hao, Zhu Lili, Wang Zheng, Yang Lujie. *Department of Endocrinology and
+Metabolic Disease, the Second Affiliated Hospital of Harbin Medical University, Harbin 150086, China
+[Abstract]  Objective  To observe secreted protein acidic and rich in cysteine(SPARC) levels in serum and
+foot muscle tissue of patients with type 2 diabetic foot(DF). Methods All participants were divided into four groups
+with 40 cases in each group, including type 2 diabetic patients without (DMA) and with (DMB) lower limb arterial
+sclerosis and peripheral neuropathy, DF group, and normal control (NC) group. The muscle tissues of foot from DF
+group(n=6) and NC group(n = 6) were taken. Serum SPARC level was measured with ELISA. RT-PCR, Western
+blot, immunofluorescence, and immunohistochemistry were used to examine SPARC mRNA and protein expressions in
+the foot muscle. Results Serum SPARC levels were higher in DMA and DMB groups compared with NC and DF
+groups[(1 040. 48 ± 212. 12 and 1 068. 36 ± 165. 45 vs 841. 93 ± 144. 57 and 835. 43 ± 188. 37) ng / L, P <
+0. 01] . There was no significant difference in serum SPARC level between DF and NC groups or DMA and DMB
+groups(P>0. 05) . The expression levels of SPARC mRNA and protein in the foot muscle were higher in DF compared
+with NC group(P<0. 05) . Conclusion SPARC mRNA and protein expressions in foot muscle tissue are higher in DF
+group compared with control group, indicating that SPARC may participate in the repair and healing of damaged
+muscle tissue of diabetic foot.
+[Key words]  Secreted protein acidic and rich in cysteine; Diabetes mellitus, type 2; Diabetic foot
+(Chin J Endocrinol Metab, 2015, 31: 961-966)
+富含半胱氨酸的酸性分泌蛋白(SPARC)在人体
+组织中广泛表达,血液循环中的 SPARC 主要来源于脂
+肪组织[1-2],它参与胚胎发育、细胞更新、血管形成、肿
+瘤生成、组织重塑及创伤修复、纤维化等[2-4]。 已有研
+究发现 SPARC 与肥胖、胰岛素抵抗、糖尿病肾病、糖尿
+病视网膜病变等有密切关系[5-9]。 众所周知,糖尿病足
+(DF)是糖尿病患者最严重的并发症之一,临床上称
+“DF 是糖尿病患者的终结者冶,具有很强的致残性,最
+终结局是溃疡、截肢和死亡,严重影响了患者的生活及
+生存质量。 糖尿病患者有 15% 发展成足溃疡和 15%
+发展为下肢截肢的几率。 全世界平均每 30 s 就有一
+个人因糖尿病截肢。 近年来临床研究多关注 SPARC
+与肿瘤、 创伤修复的相关性, 已有动物实验证明
+SPARC 缺失小鼠表现出显著的愈合延迟,它通过调节
+成纤维细胞迁移和促进肉芽组织形成在伤口愈合中起
+着重要作用[4]。 DF 常伴随着周围神经病变和(或)外
+周血管病变,预防及治疗糖尿病足已成为研究热点。
+本研究希望通过观察 DF 患者血清及足部肌肉组织中
+SPARC 水平的变化,进一步研究 SPARC 与 DF 的关
+系,探讨 SPARC 在 DF 创伤修复及愈合中的作用,最
+终应用到临床上,降低糖尿病并发症的发生率及 DF
+致残率,成为预防 DF 发展或促进其伤口愈合的一个
+有吸引力的干预或治疗靶点,给糖尿病患者带来新希
+望。
+对象和方法
+一、 对象
+1. 血清标本:共选取本院 160 名志愿者(包括 120
+例内分泌科住院患者及 40 名同期门诊健康体检者):
+2 型糖尿病未合并下肢动脉血管、周围神经病变者 40
+例(男性 30 例,女性 10 例)作为 DMA 组;2 型糖尿病
+合并下肢动脉血管、周围神经病变者 40 例(男性 21
+例,女性 19 例)作为 DMB 组,下肢彩色多普勒检查是
+否有下肢动脉血管病变,糖尿病周围神经病变诊断主
+要依据临床症状和神经肌电图检查;2 型糖尿病足病
+患者 40 例(男性 30 例,女性 10 例)作为 DF 组,糖尿
+病足 Wagner 分级分为 0 ~ 5 级,本研究 DF 组选择对
+象为 Wagner 分级 2 ~ 4 级 DF 患者(糖尿病诊断符合
+1999 年世界卫生组织糖尿病诊断标准,DF 诊断符合
+1999 年世界卫生组织糖尿病足诊断标准);同期健康
+体检者 40 名(男性 29 名,女性 11 名,不排除血脂异
+常)作为 NC 组,通过糖耐量试验筛选排除糖尿病。 受
+试者空腹 8 h 后清晨抽取静脉血,离心后吸取上层血
+清于 EP 管中,放置-80℃冰箱备存。 其中,排除恶性
+肿瘤、严重的急性并发症及甲状腺疾病等。
+2. 肌肉组织标本:选择 12 例需要进行下肢手术
+的择期手术志愿者,其中 6 例为非糖尿病患者作为对
+照组,通过糖耐量试验筛选排除糖尿病;6 例为 2 型糖
+尿病足病患者作为 DF 组,选择对象为 Wagner 分级
+2 ~ 4 级 DF 患者,手术获取标本为足部溃疡边缘肌肉
+组织。 其中,两组均排除恶性肿瘤及风湿免疫系统疾
+病等。 冻存管分装后迅速放入液氮中,随后转移至
+-80℃冰箱备存。
+以上研究对象均来自 2013 年 6 月至 2014 年 6 月
+在哈尔滨医科大学附属第二临床学院的住院患者和体
+检者,所有受检对象均知情同意;血清标本的指标测定
+均在本院生化实验室及激素与内分泌重点实验室完
+成。
+二、 方法
+1. 材料:酶联免疫吸附法(ELISA)试剂盒购自美
+国 R&D systems,DNA 提取试剂(Trizol)和 platinum Taq
+DNA polymerase 为美国 Invitrogen 公司产品, Thermo
+Script RT-PCR System 反转录试剂盒为美国 Promega 公
+司产品。 β-actin 抗体为北京中杉金桥生物技术有限
+公司产品,SPARC 抗体、免疫荧光二抗抗体来自美国
+Santa cruz 公司,蛋白裂解液、BCA 试剂盒、电化学发光
+(ECL)免疫发光试剂盒购自中国碧云天公司。
+2. 双抗体夹心 ELISA:取出-80℃冰箱中备存的
+血清,样品血清稀释 40 倍,然后采用双抗体夹心酶联
+免疫吸附法测定,最后通过多功能酶标仪读取标准品
+及样品的吸光度值(A 值),通过标准品的浓度及 A 值
+制定标准曲线计算出样品血清中 SPARC 的浓度,最后
+乘以稀释倍数。
+3. RT-PCR:取对照组和 DF 组肌肉组织各 50 mg,
+液氮研磨至粉末状后转入 EP 管中,加入 1 ml Trizol 试
+剂提取总 RNA,逆转录为 cDNA。 SPARC 和 β-actin 引
+物由美国 Invitrogen 公司合成,SPARC 上游引物为 5'-
+GAAGGTATGCAGCAATGACAACAA-3',下游引物为 5'-
+TTCGGTCAGCTCGGAATCCA-3',产物 160 bp。 β-actin
+上游引物为 5'-CCCAGCACAATGAAGATCAAGATCAT-
+3忆,下游引物为 5'-ATCTGCTGGAAGGTGGACAGCGA-
+3忆,产物 101 bp。 PCR 扩增采用 25 滋l 反应体系:94℃
+预变性 3 min,94℃变性 30 s,56. 5℃退火 30 s,72℃延
+伸 1 min,31 个循环,72℃终末延伸 5 min。 扩增产物
+经琼脂糖凝胶电泳后,用凝胶成像系统进行紫外光成
+像和图形分析。
+4. Western 印迹法:取对照组和 DF 组肌肉组织各
+50 mg,液氮研磨至粉末状转入 EP 管中,加入蛋白裂解
+液,充分震荡、混匀、离心后吸取上清,BCA 法测定样
+品蛋白浓度。 取 15 μg 总蛋白以 SDS-PAGE 凝胶电
+泳,转膜,5%脱脂奶粉封闭 60 min。 以 1 : 800 稀释抗
+小鼠抗 SPARC 抗体及小鼠抗 β-actin 抗体室温孵育 30
+min,再 4℃过夜。 1 : 9 000 稀释二抗山羊抗小鼠抗
+体,室温孵育 1. 5 h,特异性反应条带经 ECL 化学发光
+显色, 暗室 X 片压片曝光。 经扫描进入电 脑 用
+Scanimage 灰度处理软件测定电泳条带灰度值。
+5. 免疫荧光法:取新鲜肌肉组织经多聚甲醛磷酸
+盐缓冲液( PBS)固定 2 h,冰冻切片。 经 10 mmol / L
+PBS 漂洗 30 min,0. 1 mmol / L 曲拉通-X100 作用 10
+min,山羊血清 37℃ 封闭 4 h,加小鼠抗 SPARC 一抗
+(1 : 200),37℃孵育过夜,PBS 漂洗后加 FITC 标记的
+山羊抗小鼠二抗,37℃孵育 90 min,PBS 漂洗后 90%甘
+油封片,免疫荧光显微镜观察拍片。
+6. 免疫组化:取新鲜肌肉组织经石蜡包埋后切
+片、脱蜡,3%过氧化氢浸泡阻断 10 min,PBS 漂洗后滴
+加山羊血清,15 min 后弃去封闭液直接加入小鼠抗
+SPARC 一抗(1 : 100),室温孵育 3 h。 PBS 漂洗后加
+入山羊抗小鼠二抗,37℃孵育 1 h,PBS 冲洗后滴加约
+100 滋l 二氨基联苯氨(DAB)显色液,清水冲洗 2 min
+后浸泡于苏木精染液中复染,清水冲洗、脱水,中性树
+胶封片,光学显微镜下观察拍片。
+三、 统计学处理
+采用 SPSS 17. 0 软件进行数据分析,计量数据以
+x-± s 表示,各组间变量比较用 F 检验,并进行 Pearson
+相关性分析,以 P<0. 05 为差异有统计学意义。
+结    果
+一、 各组研究对象的临床资料及 SPARC 水平分
+析
+由表 1 可见,各组间的三酰甘油(TG)、低密度脂
+蛋白胆固醇(LDL-C)差异无统计学意义(P>0. 05);
+DMB 组及 DF 组的年龄均明显大于 NC 组和 DMA 组
+(P < 0. 01 ); DMA 组、 DMB 组、 DF 组的空腹血糖
+(FPG)、空腹胰岛素(FINS)、稳态模型评估的胰岛素
+抵抗指数(HOMA-IR)、HBA1C、糖化白蛋白(GA)均显
+著高于 NC 组 (均 P < 0. 01),高密度脂蛋白胆固醇
+(HDL-C)显著低于 NC 组(P<0. 05 或 P<0. 01);DMA
+组和 DMB 组的 SPARC 水平显著高于 NC 组和 DF 组
+(P<0. 01),NC 组与 DF 组相比、DMA 组与 DMB 组相
+比,SPARC 水平差异无统计学意义(P>0. 05)。 3 组糖
+尿病组之间相比较,病程有统计学意义(P<0. 01),体
+重指数(BMI)、FPG、FINS、HBA1C、TG、HDL-C、LDL-C
+差异均无统计学意义(P>0. 05);DF 组 GA 水平高于
+NC 组及 DMA 组(P<0. 01),DF 组 HOMA-IR 水平与
+其余 3 组相比差异均有统计学意义(P<0. 01,表 1)。
+Pearson 相关分析表明, SPARC 与 FPG、HBA1C、
+GA、HOMA-IR 呈显著正相关( r 分别为 0. 510、0. 423、
+0. 423、0. 327,P<0. 05 或 P<0. 01)。
+二、 2 组手术患者的临床资料及实验结果比较
+2 组间进行比较,DF 组 FPG、HBA1C、GA、FINS、
+HOMA-IR 水平均显著高于对照组 (P < 0. 05 或 P <
+0. 01),HDL-C 水平低于对照组(P<0. 05);年龄、BMI、
+SPARC 差异无明显统计学意义(P>0. 05,表 2)。
+RT-PCR 和 Western 印迹结果显示,DF 组肌肉组
+织中 SPARC mRNA 和蛋白表达水平均明显高于对照
+组(P<0. 01,图 1 和图 2)。 免疫荧光结果显示,DF 组
+肌肉组织细胞内染色多,荧光强度较强且密集,肌纤维
+结构破坏,对照组肌肉组织细胞内染色少,荧光强度较
+弱(图 3),表明 DF 组肌肉组织内 SPARC 表达较对照
+组明显增加。 免疫组化结果显示,DF 组萎缩、坏疽的
+肌纤维组织中 SPARC 灶状深棕色,肌纤维长短、粗
+细不一,CON 组肌纤维细胞中弥漫性淡棕黄色,肌
+纤维结构清晰,排列整齐有序,表明 DF 组肌肉组织
+SPARC 蛋白表达水平较 CON 组上调(图 4)。 该结果
+表 1  各组临床数据及 SPARC 水平分析(x-± s)
+Tab 1  Analysis of clinical data and SPARC levels in various groups(x-± s)
+组别
+Group
+例数(男性 / 女性)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+SBP
+(mmHg)
+DBP
+(mmHg)
+BMI
+(kg / m2)
+FPG
+(mmol / L)
+FINS
+(mU / L) HOMA-IR
+NC 40(29 / 11) 39. 86 ± 3. 94   118 ± 5 69 ± 6 23. 59 ± 1. 61 5. 27 ± 0. 36 7. 16 ± 1. 20 1. 71 ± 0. 35
+DMA 40(30 / 10) 40. 23 ± 5. 16   122 ± 10 82 ± 8b 24. 54 ± 2. 76 9. 59 ± 2. 45b 10. 18 ± 3. 42b 4. 04 ± 2. 00b
+DMB 40(21 / 19) 52. 16 ± 5. 68bd   134 ± 15bd 84 ± 6b 24. 87 ± 2. 23 a 9. 73 ± 2. 16b 9. 92 ± 3. 65b 4. 51 ± 2. 23b
+DF 40(30 / 10) 54. 71 ± 7. 93bd   139 ± 22bd 81 ± 8b 24. 48 ± 2. 80 9. 56 ± 2. 09b 12. 56 ± 4. 42b 6. 55 ± 1. 58bde
+组别
+Group
+例数(男性 / 女性)
+n(Male / Female)
+HBA1C
+(% )
+GA
+(% )
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+SPARC
+(ng / L)
+NC 40(29 / 11) 5. 22 ± 0. 25 13. 68 ± 0. 86 4. 99 ± 0. 67 1. 77 ± 1. 00 1. 27 ± 0. 23 2. 91 ± 0. 72 841. 93 ± 144. 57
+DMA 40(30 / 10) 8. 75 ± 1. 95b 20. 86 ± 6. 06b 4. 48 ± 0. 73b 1. 88 ± 1. 42 1. 07 ± 0. 24b 2. 80 ± 0. 80 1 040. 48 ± 212. 12b
+DMB 40(21 / 19) 8. 61 ± 1. 94b 22. 13 ± 5. 75b 4. 92 ± 0. 77c 2. 13 ± 1. 41 1. 11 ± 0. 21a 3. 06 ± 0. 82 1 068. 36 ± 165. 45b
+DF 40(30 / 10) 8. 96 ± 1. 82b 24. 81 ± 6. 97bd 4. 68 ± 0. 87 1. 60 ± 1. 04 1. 06 ± 0. 37b 3. 06 ± 0. 89 835. 43 ± 188. 37df
+注:NC:正常对照 Normal control group; DMA:2 型糖尿病无下肢动脉血管、周围神经病变组 Type 2 diabetes mellitus without lower limb arteries and
+peripheral neuropathy group; DMB:2 型糖尿病合并下肢动脉血管、周围神经病变组 Type 2 diabetes mellitus with lower limb arteries and peripheral neuropathy
+group; DF:2 型糖尿病足病组 Type 2 diabetic foot group; SBP:收缩压 Systolic blood pressure; 1 mmHg = 0. 133 kPa; DBP:舒张压 Diastolic blood pressure;
+BMI:体重指数 Body mass index; FPG:空腹血糖 Fasting plasma glucose; FINS:空腹胰岛素 Fasting insulin; HOMA-IR:稳态模型评估的胰岛素抵抗指数
+Homeostasis model assessment for insulin resistence index; GA:糖化白蛋白 Glycated albumin; TC:总胆固醇 Total cholesterol; TG:三酰甘油 Triglyceride;
+HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol; LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol; SPARC:富含半胱氨酸
+的酸性分泌蛋白 Secreted protein acidic and rich in cysteine; 与 NC 组比较 vs NC group,aP<0. 05,bP<0. 01; 与 DMA 组比较 vs DMA group,cP<0. 05,dP<
+0. 01; 与 DMB 组比较 vs DMB group,eP<0. 05,fP<0. 01
+表 2  2 组手术患者的临床资料及血清 SPARC 水平分析(x-± s)
+Tab 2  Analysis of clinical data and serum SPARC levels of the two groups for operation(x-± s)
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+SBP
+(mmHg)
+DBP
+(mmHg)
+BMI
+(kg / m2)
+FPG
+(mmol / L)
+FINS
+(mU / L) HOMA-IR
+CON 6 49. 67 ± 4. 46 120 ± 60 72 ± 6 22. 93 ± 1. 65 5. 30 ± 0. 24 6. 87 ± 0. 73 1. 62 ± 0. 22
+DF  6 56. 60 ± 6. 50 124 ± 13 76 ± 4 23. 75 ± 3. 87 6. 48 ± 0. 92a 14. 68 ± 8. 36 a 2. 65 ± 0. 51b
+组别
+Group
+例数
+n
+HBA1C
+(% )
+GA
+(% )
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+SPARC
+(ng / L)
+CON 6 5. 20 ± 0. 37 14. 27 ± 0. 94 5. 30 ± 0. 67 1. 87 ± 0. 64 1. 35 ± 0. 18 2. 31 ± 0. 49 983. 32 ± 126. 68
+DF  6 8. 68 ± 1. 77b 20. 24 ± 5. 67 a 4. 80 ± 0. 48 1. 76 ± 0. 57 1. 02 ± 0. 20 a 2. 84 ± 0. 50 864. 07 ± 151. 40
+注:CON:对照组 Control group; DF:2 型糖尿病足病组 Type2 diabetic foot group;余略语同表1 The other abbreviations are the same as Tab 1;与 CON组
+比较 vs CON group,aP<0. 05,bP<0. 01
+注:略语同表 1 和表 2 The abbreviations are the same as Tab 1 and Tab
+2; 与 CON 组比较 vs CON group,aP<0. 01
+图 1  2 组肌肉组织 SPARC mRNA 表达水平
+Fig 1  SPARC mRNA in muscle tissue of the two groups
+注:略语同表 1 和表 2 The abbreviations are the same as Tab 1 and Tab
+2; 与 CON 组比较 vs CON group,aP<0. 01
+图 2  2 组肌肉组织 SPARC 蛋白表达水平
+Fig 2  SPARC protein expressions in muscle tissue of the two groups
+与 Western 印迹分析结果一致。
+讨    论
+DF 是指糖尿病患者由于合并神经病变及各种不
+同程度末梢血管病变而导致下肢感染、溃疡形成和
+(或)深部组织的破坏。 在临床上,糖尿病患者长期处
+于高血糖与蛋白质的非酶糖化状态、脂质代谢紊乱、血
+液的高凝状态,诸多因素使糖尿病患者下肢血管硬化、
+血管壁增厚、弹性下降,血管容易形成血栓并集结成斑
+块,造成下肢血管闭塞、循环障碍、末端神经损伤,从而
+导致下肢组织病变。 DF 的发生发展与糖尿病病程有
+密切关系。 SPARC 主要存在于细胞外基质,是一种调
+节生长因子、细胞因子和细胞外基质活性的小分子糖
+蛋白,在组织发育和修复过程中扮演着多种角色。
+DF 的深部溃疡、坏疽往往累及肌肉组织,SPARC
+在许多组织中表达,特别是在针对损伤应答进行细胞
+外基质重塑的受损肌肉组织中[10]。 受损的肌肉组织
+中不同类型的细胞均表达 SPARC,SPARC 在肌肉发育
+和再生过程中表达增加[2,11]。 骨骼肌的修复主要是靠
+骨骼肌干细胞、骨骼肌卫星细胞调节,众所周知包括细
+胞外基质的多种因素调节骨骼肌卫星细胞功能及再
+生,其中 SPARC 在骨骼肌疾病过程中表达高度上
+调[12]。 本研究结果显示 DF 组肌肉组织中肌纤维结构
+破坏,肌纤维长短、粗细不一,SPARC mRNA 和蛋白表
+达水平明显增高,表明受损的肌肉组织中 SPARC 表达
+增高,SPARC 可能参与糖尿病足损伤肌肉组织的修复
+及愈合。 在果蝇的研究中发现,细胞能在凋亡刺激下
+分泌 SPARC,从而抑制细胞死亡[13],那么在创伤修复
+中 SPARC 也可能抑制了创伤周围的肌细胞凋亡,也减
+少了胰岛细胞数量下降,胰岛素分泌增多致血糖下降,
+双向促进了伤口的愈合。 有文献称,SPARC 缺失小鼠
+的皮肤、骨骼、心脏和牙周韧带胶原蛋白显著减少[14],
+SPARC 表达减少引起肌纤维直径减 小 和 肌 肉 萎
+缩 [15] ;SPARC 缺失小鼠真皮伤口愈合过程中有异常
+注:A、C:DF 组肌肉组织 SPARC 免疫荧光标记结果及形态结构扫描图 SPARC immunofluorescence and morphology scan in muscle tissue of DF group;
+B、D:CON 组肌肉组织 SPARC 免疫荧光标记结果及正常形态结构扫描图 SPARC immunofluorescence and normal morphology scan in muscle tissue of CON
+group; 略语同表 1 和表 2 The abbreviations are the same as Tab 1 and Tab 2
+图 3  2 组肌肉组织 SPARC 免疫荧光结果
+Fig 3  Immunofluorescence results of SPARC in muscle tissue of the two groups
+注:A:DF 组肌肉组织 SPARC 免疫组化结果 SPARC immunohistochemical result in muscle tissue of DF group; B:CON 组肌肉组织 SPARC 免疫组化结
+果 SPARC immunohistochemical result in muscle tissue of CON group; 略语同表 1 和表 2 The abbreviations are the same as Tab 1 and Tab 2
+图 4  2 组肌肉组织 SPARC 免疫组化结果
+Fig 4  Immunohistochemical results of SPARC in muscle tissue of the two groups
+纤维母细胞迁移及心肌梗死后心脏破裂增加[16-17]。
+在临床上,DF 患者长期处于活动受限及慢性消耗性疾
+病状态,导致肌肉失用性萎缩及胶原蛋白含量下降,肌
+肉组织中 SPARC 表达增加可能减轻肌肉萎缩的程度
+及胶原蛋白含量下降,有利于 DF 的创伤修复。 另外,
+转化生长因子 β(TGF-β)是与损伤修复关系最密切的
+生长因子之一,能够诱导细胞外基质的产生和积聚,促
+进胶原合成,而 SPARC 能通过 TGF-β 受体和 Smad2 / 3
+依赖途径刺激 TGF-β 信号系统。 DF 患者损伤肌肉组
+织中 SPARC 表达增高诱导 TGF-β 表达增加,促进胶
+原的合成及损伤组织修复,表明 SPARC 对组织重塑和
+损伤修复的作用还包括对生长因子活性的调节作用,
+进一步提示 SPARC 可能通过多方面的作用机制参与
+DF 损伤组织的修复及愈合。 之前的研究假设 SPARC
+参与伤口愈合是因为其在伤口部位的成纤维细胞和巨
+噬细胞中高度表达,Basu 等[4] 研究首次表明 SPARC
+通过调节成纤维细胞迁移来促进肉芽组织形成使伤口
+愈合。 SPARC 的修复作用还表现在参与角膜组织创
+伤修复及对心肌梗死区愈合的重要调节作用。 有研究
+报道,SPARC 参与调节炎症反应[18-19],SPARC 在肥胖
+导致的胰岛素抵抗、线粒体功能障碍和炎症中发挥着
+至关重要的作用[20]。 DF 绝大多数伴有破溃、感染,足
+部肌肉组织中 SPARC 水平也可能与炎症有一定的相
+关性。
+本研究结果显示,DMA 组及 DMB 组血清 SPARC
+水平均明显高于 NC 组,且 SPARC 与 HOMA-IR、FPG、
+HBA1C、GA 呈正相关,说明 SPARC 与胰岛素抵抗及糖
+尿病的发病机制可能相关。 有研究报道高水平的
+SPARC 抑制皮下脂肪组织扩张,降低其储存 TG 的能
+力,可能是通过增加肝脏和肌肉等异位脂质储存导致
+胰岛素抵抗。 SPARC 水平如果减少并恢复到正常水
+平,胰岛素抵抗可能会有不同程度的减轻,但对血糖、
+HBA1C的影响尚未见相关研究报道。 Song 等[21] 研究
+表明,SPARC 可与 AMP 活化的蛋白激酶(AMPK)相互
+增强,通过激活 AMPK 调节葡萄糖代谢。 SPARC 可能
+通过 AMPK 途径参与了一些代谢疾病的发生,如肥胖
+和糖尿病[22]。 DF 组血清 SPARC 水平低于 DMA 组和
+DMB 组,可能与 DF 属于慢性消耗性疾病,脂肪量减
+少、脂肪营养不良及脂肪萎缩,占血循环中 SPARC 主
+要来源的脂肪组织分泌 SPARC 减少有关,相关机制有
+待进一步研究。 DMB 组与 DMA 组血清 SPARC 水平
+有差异,也可能与下肢动脉血管粥样硬化有关。 有研
+究提示 SPARC 可通过影响相关生长因子而调控内皮
+细胞、成纤维细胞等的增殖与分化,引起细胞外基质改
+变,阻碍血管内皮细胞增殖及修复,破坏血管稳定性,
+引发和加速动脉硬化的形成。 SPARC 可增强血管平
+滑肌细胞的分离及迁移,使其沉积于血管内膜;还会增
+加血管内皮细胞的通透性,造成血管屏障受损。 但过
+量的 SPARC 将阻止内皮细胞增殖,不利于修复受损的
+血管,其对纤溶酶原激活物抑制物 1 产物的刺激作用
+加速了血管内皮动脉粥样硬化的形成。
+总之,本研究观察到 SPARC 与 FPG、HOMA-IR、
+HBA1C、GA 呈正相关,DF 组足部肌肉组织中 SPARC
+mRNA 和蛋白的表达均明显增高,提示 SPARC 可能参
+与糖尿病足损伤肌肉组织的修复及愈合,但其多方面
+的作用机制需进一步研究。 在将来的临床治疗中,我
+们或许可以展望研究 SPARC 作为新药靶点之一,更多
+具体完善的研究机制及临床治疗方向仍有待于进一步
+探索。

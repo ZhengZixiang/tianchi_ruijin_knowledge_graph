@@ -1,0 +1,323 @@
+基础研究
+(程丽静);北京大学医学部生理与病理生理学系,北京大学糖尿病中心(张晓燕、霍明、张冬娟、吴静、魏明芬)
+肝 X 受体上调糖尿病小鼠肾脏脂肪酸合成酶
+的表达
+王冰  程丽静  高政南  张晓燕  霍明  张冬娟  吴静  魏明芬
+[摘要]   目的   探讨肝 X 受体( liver X receptor,LXR)对糖尿病小鼠肾脏脂肪酸合成酶( fatty acid
+synthase,FAS)表达的影响及可能机制。 方法 在体研究部分:糖尿病 db / db 小鼠和对照的 db / m 小鼠分别
+印迹法检测 FAS 和活化型固醇调节元件结合蛋白(sterol regulatory element-binding protein-1,SREBP-1)的表
+达水平。 离体研究部分:TO901317(10 μmol / L)刺激小鼠近曲小管上皮细胞系(MCT 细胞)24 h,或转染
+SREBP-1c 表达质粒。 LXR 或 SREBP-1c 表达质粒转染人胚肾细胞系(HEK293 细胞)12 h,分别采用实时荧
+光定量 PCR、转染荧光素酶报告基因等方法,检测 FAS 表达和 FAS 启动子活性水平。 结果 免疫组化结果
+显示 FAS 蛋白主要表达在肾皮质,肾小球表达量较少。 同对照组 db / m 小鼠相比,db / db 小鼠肾脏 FAS
+mRNA 和蛋白水平均明显降低(P<0. 05);TO901317 处理可使 db / db 小鼠肾脏 FAS mRNA 表达升高 1. 3 倍
+(P<0. 01);db / m 小鼠肾脏 SREBP-1 的 mRNA 升高 5. 1 倍(P<0. 01),db / db 小鼠肾脏 SREBP-1 的 mRNA 升
+高 17 倍(P<0. 01);TO901317 也能上调 MCT 细胞 FAS 的 mRNA 表达水平,升高 1. 5 倍(P<0. 05);过表达
+SREBP-1c 也可使 MCT 细胞中 FAS mRNA 的表达量增加 1. 8 倍(P<0. 05);不仅如此,LXR 的激活、过表达
+LXR 或 SREBP-1c 能增加 HEK293 细胞 FAS 基因启动子活性(P<0. 01)。 结论 LXR 能够通过其本身的直
+接作用和 SREBP-1c 的间接作用上调肾脏 FAS 的表达,LXR 可能介导了糖尿病肾脏的脂质代谢紊乱过程。
+[关键词]   肝 X 受体; 固醇调节元件结合蛋白; 脂肪酸合成酶; 糖尿病, 2 型
+Activation of liver X receptor upregulates fatty acid synthase expression in diabetic kidney Wang Bing *,
+Cheng Lijing, Gao Zhengnan, Zhang Xiaoyan, Huo Ming, Zhang Dongjuan, Wu Jing, Wei Mingfen. *Department of
+Endocrinology, Dalian Municipal Central Hospital Affiliated to Dalian Medical university, Dalian 116003, China
+[Abstract]   Objective   To investigate the effect and mechanism of liver X receptor ( LXR) agonist on
+expression of fatty acid synthase(FAS)in diabetic kidney. Methods In the part of in vivo study, immunostaining was
+used to detect the FAS protein expression in kidney. 16-week-old male db / db mice on C57BL / 6 background were
+Carboxymethyl Cellulose Sodium, CMC-Na)alone for 7 d; Quantitative RT-PCR and Western blot were used to detect
+mRNA and protein levels of FAS and SREBP-1. In the part of in vitro study, MCT cell( a mouse murine proximal
+tubule cell line)was treated with 10 μmol / L TO901317 for 24 h or transfected with active SREBP-1c expression vector
+(SREBP-1cN). HEK293 cells( a human renal tubule cell line) were transfected with mFAS-(1. 7 kb)-luc, LXR
+expression vector or SREBP-1cN for 12 h. Quantitative RT-PCR and luciferase reproter assay were utilized to examine
+FAS mRNA level and FAS promoter activity. Results FAS was abundantly expressed in renal cortex, with low
+expresson in renal glomeruli. The mRNA and protein expressious of FAS in kidney of db / db mice were lowered
+compared with db / m mice. TO90137 treatment increased FAS mRNA expression by 1. 3-fold. TO901317 increased
+expression of SREBP-1 in kidneys of db / m and db / db mice by 5. 1-fold and 17-fold, respectively. TO901317 and
+overexpression of SREBP-1c increased expression of FAS in MCT cells by 1. 5-fold and 1. 8-fold. Transcription activity
+of FAS were induced by TO901317, LXR, and SREBP-1cN overexpressions in HEK293 cells. Conclusions Both
+direct(LXRE)and indirect(SREBP-1c)mechanisms may contribute to the up-regulation of FAS expression by LXR in
+renal proximal tubule cells.
+[Key words]  Liver X receptor; Sterol regulatory element-binding protein-1c; Fatty acid synthase; Diabetes
+mellitus, type 2
+(Chin J Endocrinol Metab, 2016, 32: 56-61)
+糖尿病是严重威胁人类健康的重大疾病,糖尿病
+肾病(diabetic nephropathy,DN)是糖尿病最常见的并
+发症之一,也是全球终末期肾脏病的首要原因。 目前
+DN 确切的发病机制尚不明了,越来越多的证据表明,
+脂质代谢的异常及肾脏脂质聚积在 DN 的发生中具有
+重要作用。 肝 X 受体(liver X receptor,LXR)是核受体
+超家族的成员,LXR 是重要的糖代谢调节基因,与胰
+岛素抵抗的发生密切相关。 有证据表明,LXR 还能够
+调控一系列同脂质代谢相关基因的表达,活化型固醇
+调节元件结合蛋白 ( sterol regulatory element-binding
+protein-1, SREBP-1 ) 和 脂 肪 酸 合 成 酶 ( fatty acid
+synthase,FAS)均是其靶基因,SREBP-1c 是脂质稳态
+的主要转录调节因子,可直接激活多个参与脂肪酸合
+成的酶,包括 FAS。 由此可见,LXR、SREBP-1c 和 FAS
+共同参与维持脂质代谢平衡。 本研究将分别从动物实
+验和细胞学研究两方面探讨 LXR、SREBP-1c 和 FAS
+是否介导了糖尿病时肾脏脂质代谢紊乱的发生和发
+展,LXR 的激活对肾脏 FAS 表达的影响及可能的调控
+机制。
+材料和方法
+一、 材料
+1. 实验动物:16 周龄、雄性、C57BL / 6 背景下瘦素
+受体基因缺陷小鼠:实验组-纯合子 db / db 小鼠;对照
+组-杂合子 db / m 小鼠,来自北京大学医学部动物中心。
+2. 细胞来源:小鼠近曲小管上皮细胞系(MCT 细
+胞)和人胚肾细胞系(HEK293 细胞)来源于北京大学
+医学部生理与病理生理学系、北京大学糖尿病中心。
+3. 质粒来源:小鼠 FAS 启动子报告基因表达质粒
+构建:扩增小鼠 FAS 启动子( -1. 74 kb ~ 75 bp)区域,
+共 1 822 bp,后利用引物两端设计的 Xho 玉与 Hind 3
+酶切位点,将其定向克隆入 pGL3-Basic vector 中,构建
+成重组质粒。 LXR 及 SREBP-1c 表达质粒由北京大学
+医学部生理与病理生理学系、北京大学糖尿病中心管
+又飞教授(现工作于大连医科大学)惠赠。
+4. 试剂:LXR 激动剂 TO901317 溶液购自美国
+Cayman Chemical 公司,并溶于二甲基亚砜(DMSO);
+PCR 引物由北京奥科生物技术有限责任公司合成;兔
+来源 FAS 多克隆抗体购自美国 Santa Cruz 公司;Bright-
+Glo 明亮荧光素酶检测试剂盒与 β-半乳糖苷酶报告基
+因测定试剂盒均购自美国 Promega 公司。
+二、 方法
+1. 动物处理:将 db / db 小鼠和 db / m 小鼠分别以
+甲基纤维素钠中)灌胃处理 7 d。 分组如下(每组 5 只
+小鼠):db / m+DMSO、db / m+TO901317、db / db+DMSO、
+db / db+TO901317。
+2. 细胞处理:MCT 细胞用含 10% 胎牛血清的
+DMEM 培养液,于 37℃、5% CO2 条件下培养,细胞生
+长至 90% 融合时以 1 : 2 传代,以相同密度接种到六
+孔板中。 融合度达 80%时进行无血清培养 24 h,再分
+别给予 DMSO 或 TO901317(10 μmol / L)处理 24 h,或
+转染 SREBP-1c 表达质粒(2 μg)24 h。
+3. 免疫组织化学染色:小鼠肾脏组织石蜡切片±
+次经过脱蜡、水化、封闭内源性过氧化物酶、滴加兔来
+源 FAS 多克隆抗体(1 : 100)37℃孵育 1 h、滴加辣根
+过氧化物酶标记的二抗 (1 : 500)、二氨基联苯胺
+(DAB)显色等步骤。 连续切片分别选用 Tamm-Horsfall
+glycoprotein(THP)蛋白和水通道蛋白 2(AQP2)作为
+marker 蛋白,通过检测 THP 和 AQP2 的表达,进一步
+确定 FAS 蛋白在肾脏的表达部位。 抗体浓度:THP
+(1 : 500),AQP2 (1 : 200)。
+4. 蛋白印迹:提取小鼠肾脏组织蛋白并定量,取
+100 μg 进行聚丙烯酰胺凝胶电泳,转膜后封闭 1 h,加
+兔来源 FAS 多克隆抗体(1 : 500)室温孵育 1 h,洗膜
+后加羊抗兔 IgG(1 : 5 000)室温孵育 1 h,洗膜后进行
+化学法发光。
+5. 实时荧光定量 PCR:定量检测 FAS 和 SREBP-1
+的 mRNA 水平。 参照 RNA trip 说明书提取肾组织总
+RNA 和 MCT 细胞总 RNA,逆转录为 cDNA 模板后进
+行 PCR 扩增。 β-actin 为内参,SYBR Green 作检测染
+料,设对照组相对表达量为 100% ,计算目标基因相对
+表达量的变化。 引物序列:小鼠 FAS(132 bp)上游:5'-
+AGGGGTCGACCTGGTCCTCA-3',下游:5'-GCCATGCC-
+CAGAGGGTGGTT-3';小鼠 SREBP-1(193 bp)上游:5'-
+GGAGCCATGGATTGCACATT-3',下游:5'-GCTTCCAG-
+AGAGGAGGCCAG-3';β-actin(291bp)上游:5'-ATCTG-
+GCACCACACCTTC-3',下游:5'-AGCCAGGTCCAGACG-
+CA-3'。 小鼠 FAS 的 PCR 反应条件为:94℃ 预变性 5
+min,94℃,30 s;63℃,30 s;72℃,30 s,共 35 个循环,最
+后 72℃,7 min 总延伸。 小鼠 SREBP-1 的 PCR 反应条
+件为:94℃预变性 5 min,94℃,30 s;60℃,30 s;72℃,
+30 s,共 35 个循环,最后 72℃,终末延伸 7 min。
+6. 转染荧光素酶报告基因表达质粒检测:接种适
+量 HEK293 细胞(0. 5 ~ 1. 0×105)于 24 孔板中,至细胞
+密度为 60% 左右,每孔均转染 0. 6 μg 小鼠 FAS 启动
+子报告基因表达质粒和 0. 2 μg β-半乳糖苷酶质粒
+(β-gal,为转染参照),同时转染 pcDNA 3. 1 表达载体、
+LXR 表达质粒或 SREBP-1c 表达质粒 0. 4 μg,12 h 后
+加入 TO901317(或 DMSO),再经 24 h 后收集细胞,参
+照试剂盒说明书测定荧光值及 β-gal 活性,荧光值与
+β-gal 活性的比值即为相对荧光素酶活性值,用来表示
+启动子活性,对照组的相对荧光素酶活性为 100% 。
+三、 统计学处理
+应用软件 SPSS 13. 0,采用独立样本 t 检验比较 2
+组间均数的差异,单因素随机组方差分析进行 4 组间
+的均数比较,P<0. 05 为差异有统计学意义。
+结    果
+一、 FAS 蛋白在正常小鼠肾脏的分布
+FAS 蛋白在正常小鼠肾脏表达量较高,主要集中
+表达于肾皮质区,髓质区表达量较少,在皮质区相对集
+中表达于近曲小管上皮细胞,而肾小球表达量较少。
+(图 1)。
+连续切片结果显示,FAS 蛋白在 THP 特异性表达
+部位即肾脏髓袢升支粗段和远曲小管处有表达;此外,
+FAS 蛋白在 AQP2 特异性表达部位即肾脏集合管处也
+有表达(图 2)。
+二、 FAS 在 db / db 小鼠肾脏表达的改变
+实时荧光定量 PCR 结果显示,糖尿病 db / db 小鼠
+肾脏上的 FAS mRNA 水平较对照 db / m 小鼠明显下调
+(P<0. 05)。
+蛋白印迹显示 FAS 蛋白在 db / db 小鼠肾脏上的
+表达明显低于对照组 db / m 小鼠(图 3)。
+三、 TO901317 对 db / m 和 db / db 小鼠肾脏 FAS 表
+达的影响
+TO901317 灌胃处理 7 d 可使 db / db 小鼠肾脏 FAS
+mRNA 水平明显升高,较对照组增加 1. 3 倍 ( P <
+0. 01),即可使 db / db 小鼠相对于 db / m 小鼠的下调趋
+势逆转(图 4)。
+四、 TO901317 对 db / m 和 db / db 小鼠肾脏 SREBP-1
+表达的影响
+TO901317 灌胃 7 d 处理也可使 db / m 和 db / db 小
+鼠肾脏 SREBP-1 mRNA 水平明显升高,使 db / m 小鼠
+升高 5. 1 倍 (P < 0. 01),db / db 小鼠升高 17 倍 (P <
+0. 01)。
+db / db 小鼠肾脏上的 SREBP-1 表达水平是对照
+db / m 小鼠的 2. 4 倍(P<0. 05,图 5)。
+注:FAS: 脂肪酸合成酶 Fatty acid synthase; A:肾脏整体 Whole kidney(×40);B:肾脏髓质 Renal medullar(×100); C:肾脏皮质 Renal cortex(×100);
+D:阴性对照 Negtive control(×100)
+图 1  FAS 蛋白在 C57 小鼠肾脏的分布(免疫组织化学染色)
+Fig 1  Intrarenal expression of FAS protein in kidney of C57 mouse(Immunostaining)
+注:FAS: 脂肪酸合成酶 Fatty acid synthase; THP: Tamm-Horsfall glycoprotein; AQP2: 水通道蛋白 2 Aquaporin-2
+图 2  FAS 蛋白在 C57 小鼠肾脏的分布(免疫组织化学染色×100,连续切片)
+Fig 2  Intrarenal expression of FAS protein in kidney of C57 mouse(Immunostaining×100, Serial section of renal cortex)
+注:FAS: 脂肪酸合成酶 Fatty acid synthase; 与 db / m 组比较 vs db / m
+group,aP<0. 05
+图 3  db / db 小鼠与 db / m 小鼠肾脏 FAS 蛋白含量
+Fig 3  FAS protein expression in kidneys of db / db and db / m mice
+注:FAS: 脂肪酸合成酶 Fatty acid synthase; TO:TO901317; 与 db / m
+组比较 vs db / m group,a P<0. 05; 与 db / db 组比较 vs db / db group,b P<
+0. 01
+图 4  TO901317 对 db / db 和 db / m 小鼠肾脏 FAS 表达的影响
+Fig 4  Effect of TO901317 treatment on FAS expression in kidneys of db / db
+and db / m mice
+注: SREBP-1: 活化型固醇调节元件结合蛋白-1 Sterol regulatory
+element-binding protein-1; TO: TO901317; 与 db / m 组 比 较 vs db / m
+group,aP<0. 05,bP<0. 01; 与 db / db 组比较 vs db / db group,cP<0. 01
+图 5  TO901317 对 db / m、db / db 小鼠肾脏 SREBP-1 表达的影响
+Fig 5  Effect of TO901317 treatment on SREBP-1 expression in kidneys of
+db / db and db / m mice
+五、 TO901317 对 MCT 细胞 FAS 表达的影响
+10 μmol / L TO901317 处理 24 h 可使 MCT 细胞
+FAS 的 mRNA 水平升高 1. 5 倍(P<0. 05)。
+六、 过表达 SREBP-1c 对 MCT 细胞 FAS mRNA 水
+平的影响
+MCT 细胞转染 SREBP-1cN 质粒, 使其过表达
+SREBP-1c,可使 MCT 细胞中的 FAS mRNA 表达增加
+1. 8 倍(P<0. 05)。
+七、 TO901317 及过表达 LXR 或 SREBP-1c 对 FAS
+启动子活性的影响
+10 μmol / L TO901317 处理 HEK293 细胞 24 h 可显
+著增加 FAS 启动子活性,为对照组的 2. 1 倍 ( P <
+0. 01);经转染过表达 LXR 或 SREBP-1c 后,FAS 启动
+子活性均明显增加,分别为对照组的 1. 5 倍和 2. 7 倍
+(P<0. 01,图 6)。
+注: LXR: 肝 X 受体 Liver X receptor; SREBP-1c: 活化型固醇调
+节元件结合 蛋 白-1c Sterol regulatory element-binding protein-1c; TO:
+TO901317; 与对照组比较 vs Control group,aP<0. 01
+图 6  TO901317 或过表达 LXR、SREBP-1c 对 FAS 启动子活性的影响
+Fig 6 Effects of TO901317 and over-expression of LXR and SREBP-1cN on
+transcriptional activity of FAS gene promoter
+讨    论
+糖尿病是严重威胁人类健康的重大疾病,DN 是
+糖尿病最常见的并发症之一,也是全球终末期肾脏病
+的首要原因 [1] 。 目前 DN 确切的发病机制尚不明了,
+越来越多的证据表明,脂质代谢的异常及肾脏脂质聚
+积在 DN 的发生中具有重要作用[2]。 高脂饮食可导致
+血清胰岛素水平及血糖水平升高,而这两者可协同导
+致肾小管脂质的沉积及细胞外基质的蓄积[3]。 有研
+究发现,1 型和 2 型糖尿病肾病小鼠模型中,肾脏中三
+酰甘油和胆固醇的含量较对照小鼠明显增高[4]。
+Proctor 等[5]在 Akita 和 OVE26 两种 1 型糖尿病小鼠模
+型中观察到肾小球硬化和蛋白尿程度与肾脏中三酰甘
+油和胆固醇的积聚程度明显相关,并且 LXR、SREBP
+和碳水化合物反应元件结合蛋白(ChREBP)等调脂因
+子也有显著改变。 更为重要的是,在 DN 的发病过程
+中,肾脏并非只是高糖状态下的被动受害者,它作为脂
+代谢的重要器官之一,其局部的脂质代谢紊乱反过来
+主动参与和介导 DN 的形成和进展[6]。
+代谢性核受体是一大类配体激活转录因子核受体
+超家族,主要包括脂质过氧化物体增殖物激活受体
+(PPARs)、LXRs、法尼酯衍生物 X 受体 ( farnesoid X
+receptors,FXRs),它们在脂肪生成、脂质代谢、胰岛素
+敏感性、炎症和血压调节等方面起着关键作用。 现已
+明确,LXR 被内源性配体氧化甾醇或人工合成配体
+TO901317 激活后,与 RXRα 形成异源二聚体,再与其
+靶基因启动子区域的 LXRE 结合,从而调节靶基因的
+转录。 LXR 有两种亚型,即 LXRα 和 LXRβ,LXRα 主
+要表达于肝脏、肠、肾脏、脾等脂质代谢旺盛的器官;而
+LXRβ 的表达则不具特异性,广泛表达于多种器官组
+织。 LXR 参与胆固醇代谢和动脉粥样硬化形成,激活
+LXRs 可以使动脉粥样硬化减轻。 LXR 的激活还可通
+过抑制糖异生过程,改善糖尿病模型动物的胰岛素抵
+抗状态[7]。 Wu 等[8]的研究显示,LXRα mRNA 广泛表
+达在兔肾肾单位的每一个节段,包括肾小球系膜细胞、
+内皮细胞和足细胞。
+SREBP-1c 是脂质稳态的主要转录调节因子,可激
+活合成脂肪酸所需的所有基因,其活性受 LXR 的紧密
+调控。 研究表明,STZ 诱导的 1 型糖尿病大鼠肾脏
+SREBP-1 表达显著增高[9],并且在没有高糖和高脂血
+症的情况下,肾脏 SREBP-1a 表达的增加可以导致肾
+脏的脂质聚集。 而 SREBP-1 启动子区含有 LXRE,可
+在转录水平受到 LXR 的调节[10]。 FAS 和 SCD-1 是受
+SREBP-1c 调节的脂质代谢相关酶类。 FAS 是催化合
+成内源性饱和长链脂肪酸的关键酶,它催化合成的脂
+肪酸是合成三酰甘油的重要原料。 分析 FAS 的启动
+子区不仅存在 SRE 也有 LXRE。 由此可见,FAS 不仅
+是 SREBP-1c 的靶基因, 也是 LXR 的 靶 基 因[11],
+SREBP-1c 和 FAS 都是 LXR 众多靶基因中涉及脂质代
+谢的重要部分,在转录水平受 LXR 的调节。 最新研究
+发现, LXR 是葡萄糖的感受器, 葡萄糖可以激活
+LXR[12]。 既然肾脏局部脂质代谢紊乱、炎症反应和
+RAS 激活在糖尿病肾病中的致病作用比较确定,而这
+些致病环节均与 LXR 密切相关;葡萄糖作为始动因素
+上调 LXR 的作用在肝细胞中已得到证实[13],由此推
+测,LXR 很可能作为上游通路或中心环节,通过影响
+肾脏局部脂质代谢紊乱、炎症反应和 RAS 激活,介导
+了高糖对肾脏的损害,参与 DN 的形成和进展。 既往
+对于 DN 的机制研究多集中于肾小球方面,但越来越
+多的证据表明,肾小管损伤在糖尿病肾病的发生中,亦
+具有不可忽视的作用[14]。 为此,本研究通过观察糖尿
+病小鼠(db / db)肾脏 FAS 表达及 TO901317 对 MCT 和
+HEK293 细胞 FAS 和 SREBP-1 表达的影响来验证糖
+尿病时 LXR 对肾脏 FAS 的调节作用及可能的机制。
+本研究结果显示:FAS 蛋白在正常小鼠肾脏表达
+量较高,主要集中在肾脏皮质区,而肾脏髓质区表达量
+较少,在皮质区相对集中表达于近曲小管上皮细胞,而
+肾小球表达量较少。 此外,FAS 蛋白在髓袢升支粗段、
+远曲小管和集合管处也有表达。 db / db 小鼠为瘦素受
+体基因缺陷小鼠,是由于位于小鼠 4 号染色体上的瘦
+素受体(leptin receptor)基因发生突变所致。 该小鼠存
+在明显的代谢紊乱和胰岛素抵抗现象,其糖尿病的表
+现和病程也与人类 2 型糖尿病极为相似。 此外,db / db
+小鼠微血管并发症多见,尤其好发糖尿病肾病,其肾脏
+病变的发病过程与人 2 型糖尿病肾病非常相似。 因此
+可以说,db / db 小鼠是研究糖尿病及糖尿病肾病的理
+想模型。 研究表明,db / db 小鼠肾皮质的肾小管沉积
+着大量脂滴,并且随着小鼠周龄的增加,脂滴的沉积范
+围也在明显增大,这说明 db / db 小鼠同样也存在着肾
+脏的脂质浸润[15]。 那么造成 db / db 小鼠肾脏脂质沉
+积的原因是什么呢? 是否由于肾脏局部脂质代谢相关
+基因的激活导致糖尿病小鼠肾脏的脂质沉积呢? 本研
+究检测了小鼠肾脏脂质合成相关酶类如 FAS 及其调
+节因子 SREBP-1c 的表达,结果显示:db / db 小鼠肾脏
+FAS 蛋白较对照组 db / m 小鼠明显下降,db / db 小鼠肾
+脏 FAS mRNA 水平也明显较对照组 db / m 小鼠降低,
+该现象说明,db / db 小鼠肾脏脂质的沉积并非由于其
+肾脏本身脂肪酸合成的关键酶即 FAS 的表达增加所
+致。 TO901317 作为 LXR 的激动剂应用于 db / db 小
+鼠,使其血糖得到明显下降的同时,却可使 db / db 小鼠
+肾脏 FAS mRNA 水平明显上升,这可能就是 LXR 的激
+活可以加重糖尿病肾病脂质紊乱发生的重要原因。 正
+如我们之前所介绍的,TO901317 能够通过 LXRE 的直
+接作用和 SREBP-1c 的间接作用上调肝脏 FAS 的表
+达,那么,LXR 上调肾脏 FAS 的表达是通过什么机制
+的? 我们检测实验组小鼠肾脏 SREBP-1 的水平,发现
+TO901317 处理小鼠,也可以上调 db / m 小鼠和 db / db
+小鼠肾脏 SREBP-1 的 mRNA 水平。 为进一步验证
+LXR 上调肾脏 FAS 的机制,应用 LXR 的激动剂也能
+上调 MCT 细胞 FAS 的表达量。 而且本研究中心之前
+的研究已证实,TO901317 处理 MCT 细胞也能增加
+SREBP-1c 的 表 达[16]。 LXR 的 激 活 能 增 加 肾 脏
+SREBP-1 和 FAS 表达荧光素酶报告基因的结果也验
+证了 LXR 上调 FAS 的机制,不仅 TO901317 可增加
+HEK293 细胞上 FAS 启动子活性,过表达 LXR 或
+SREBP-1c 亦可增加 FAS 启动子活性。 该结果提示,
+LXR 上调肾脏 FAS 的表达很可能是通过 LXR 的直接
+作用和 SREBP-1c 的间接作用来实现的。
+总之,本研究通过对糖尿病小鼠肾脏、MCT 细胞
+和 HEK293 细胞 FAS 表达的研究,明确了 LXR 对肾脏
+FAS 表达的上调作用及分子机制,证实了 LXR 可能介
+导糖尿病肾病的发病过程,从而为进一步的研究及评
+估 LXR 激动剂对糖尿病肾病的治疗作用提供重要的
+实验依据。

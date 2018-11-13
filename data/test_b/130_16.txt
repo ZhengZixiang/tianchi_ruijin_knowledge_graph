@@ -1,0 +1,288 @@
+基础研究
+基金项目:国家自然科学基金(项目编号:81460168);贵州省科学技术基金项目(黔科合 J 字 LKZ[2013]19 号);贵
+州省优秀科技教育人才省长专项资金项目(黔省专合字[2008]110 号);贵州省科技合作项目(黔科合区域合[2010]7004
+号)
+1,25-二羟维生素 D3 对实验糖尿病大鼠模型
+肝脏中甘油三酯含量的影响及其机制探讨
+阳琰  高琳  晏永慧  王小英  廖鑫  黄琦  张晗  陈其容
+[摘要]   目的  活性维生素 D 与 2 型糖尿病、高脂血症的发生发展密切相关,通过观察 1,25-二羟维
+生素 D3[1,25(OH) 2D3]对实验糖尿病大鼠模型肝脏中过氧化物酶增殖物激活受体-α(PPAR-α)、肝细胞
+核因子-4α(HNF-4α)、胆固醇调节元件结合蛋白-1C(SREBP-1C)、载脂蛋白 A5(apoA5)表达及甘油三酯含
+量的影响,探讨 1,25(OH) 2D3 调控肝脏甘油三酯的机制。 方法 取 80 只健康雄性 Wistar 大鼠,分成糖尿
+病组 20 只、1,25(OH) 2D3 干预组(VitD 干预组)20 只、PPAR-α 抑制组 20 只和正常对照组 20 只。 以随机
+数字表法,取各组大鼠各 15 只,心内取血检测生化指标,采用实时荧光定量 PCR、Western 印迹法分别对大
+鼠的肝脏组织中 PPAR-α、HNF-4α、SREBP-1C、apoA5 基因及蛋白表达水平进行检测,并用酶法检测肝脏组
+织中甘油三酯含量。 结果 (1)糖尿病组肝脏中 PPAR-α、HNF-4α、apoA5 基因、蛋白表达较正常对照组显
+著降低(P<0. 05),而 SREBP-1C 基因、蛋白表达及甘油三酯含量较正常对照组显著增加(P<0. 05)。 (2)
+VitD 干预组肝脏中 PPAR-α、HNF-4α、apoA5 基因及蛋白表达较糖尿病组明显增加(P<0. 05),而 SREBP-1C
+基因及蛋白、甘油三酯含量较糖尿病组明显减少(P<0. 05)。 (3) VitD 干预组肝脏中 PPAR-α、HNF-4α、
+SREBP-1C、apoA5 基因、蛋白表达、甘油三酯含量较正常对照组无显著性差异(P>0. 05)。(4)PPAR-α 抑制
+组 PPAR-α、HNF-4α、apoA5 基因、蛋白表达较正常对照组显著降低(P<0. 05),而 SREBP-1C 基因、蛋白表
+达、甘油三酯含量较正常对照组明显增加(P<0. 05)。 (5)PPAR-α 抑制组 PPAR-α 基因、蛋白表达较糖尿
+病组显著降低(P<0. 05),而 HNF-4α、apoA5、SREBP-1C 基因、蛋白表达及甘油三酯含量与糖尿病组无显著
+性差异(P<0. 05)。 (6)PPAR-α 抑制组 PPAR-α、HNF-4α、apoA5 基因、蛋白表达较 VitD 干预组显著降低
+(P<0. 05),而 SREBP-1C 基因、蛋白表达及甘油三酯含量较 VitD 干预组显著增加 (P < 0. 05)。 结论
+1,25(OH) 2D3 可能通过上调肝脏中 PPAR-α、HNF-4α、apoA5 表达,抑制 SREBP-1C 的表达,从而降低甘油
+三酯水平。
+[关键词]   1,25-二羟维生素 D3; 糖尿病, 实验性; 过氧化物酶增殖物激活受体-α; 肝细胞核因子-
+4α; 胆固醇调节元件结合蛋白-1C; 载脂蛋白 A5; 甘油三酯
+Investigation of the mechanism of 1,25-dihydroxyvitamin D3 on triglycerides content in liver of experimental
+diabetic rat model Yang Yan, Gao Lin, Yan Yonghui, Wang Xiaoying, Liao Xin, Huang Qi, Zhang Han, Chen
+Qirong. Department of Endocrinology, the First Affiliated Hospital of Zunyi Medical College, Zunyi 563099, China
+[Abstract]  Objective  Activity of vitamin D is correlated with type 2 diabetes mellitus and hyperlipidemia,
+but the concrete relationship of 1,25-dihydroxyvitamin D3[1,25(OH) 2 D3 ] and triglyceride is unknown. This study
+was to observe the gene and protein expression of peroxisome proliferator-activated receptor α(PPAR-α), hepatocyte
+neclear factor-4α(HNF-4α), sterol regulatory element binding proteins-1C( SREBP-1C), apolipoprotein( apoA5)
+during 1,25(OH) 2D3 regulation of triglyceride in liver of diabetes rat, as well as to investigate the mechanism of
+1,25(OH) 2D3 in influencing triglyceride in liver. Methods Eighty male Wistar Rats were divided into 4 groups: 20
+rats with diabetes mellitus(DM group), 20 rats of 1,25(OH) 2D3 treated group(VitD group), 20 rats with PPAR-α
+inhibition group, and 20 rats of normal control group. 15 from each group were taken in random by random number
+table to detect biochemical indicators and to detect the gene and protein expressions of PPAR-α, HNF-4α, SREBP-
+1C, apoA5 in liver, using realtime-fluorescent quantitation reverse transcription, polymerase chain reaction and
+Western blot. The level of triglyceride in liver was also detected. Results (1) The gene and protein expression of
+PPAR-α, HNF-4α, apoA5 in liver of diabetic rat was lower than that in normal control group (P < 0. 05) . The
+expression of SREBP-1C and the level of triglyceride in liver of diabetic rat were higher than those of normal control
+group(P<0. 05) . (2)The expression of PPAR-α, HNF-4α, apoA5 in liver of VitD group were higher than those of
+DM group(P<0. 05) . The gene and protein expression of SREBP-1C and the level of triglyceride in VitD group were
+lower than those in DM group(P<0. 05) . (3) The expression of PPAR-α, HNF-4α, SREBP-1C, apoA5, and the
+level of triglyceride showed no significant difference between VitD group and normal control group(P>0. 05) . (4)The
+expression of PPAR-α, HNF-4α, and apoA5 in liver of PPAR-α inhibition group was lower than that in normal control
+group(P<0. 05) . The expression of SREBP-1C and the level of triglyceride in liver of PPAR-α inhibition group were
+higher than those in normal control group(P<0. 05) . (5) The expression of PPAR-α in liver of PPAR-α inhibition
+group was lower than that in diabetic rat(P<0. 05) . The expression of HNF-4α, apoA5, SREBP-1C, and the level of
+triglyceride showed no significant difference between PPAR-α inhibition group and diabetic rat(P>0. 05) . (6)The
+expression of PPAR-α, HNF-4α, apoA5 in liver of PPAR-α inhibition group was lower than that in VitD group(P<
+0. 05) . The expression of SREBP-1C and the level of triglyceride in liver of PPAR-α inhibition group were higher than
+those in VitD group(P<0. 05) . Conclusions 1,25 (OH) 2 D3 may lower the level of serum triglyceride by up-
+regulating the expression of PPAR-α, HNF-4α, and apoA5 and inhibiting the expression of SREBP-1C in liver.
+[Key words]  1,25-dihydroxyvitamin D3; Diabetes mellitus, experimental; Peroxisome proliferator-activated
+receptor α; Hepatocyte neclear factor-4α; Sterol regulatory element binding proteins-1C; Apolipoprotein A5;
+Triglyceride
+(Chin J Endocrinol Metab, 2014, 30: 1115-1119)
+研究表明,活性维生素 D 与 2 型糖尿病发生有
+密切联系,活性维生素 D 在肝脏通过其受体激活过
+氧化物酶增殖物激活受体-α( PPAR-α)信号传导通
+路而 改 善 肝 脏 脂 肪 变 性 及 胰 岛 素 抵 抗 ( insulin
+resistance) [1,2]。 但目前关于活性维生素 D 降低甘油
+三酯的具体机制仍不清,本研究拟通过观察活性维生
+素 D 对糖尿病模型大鼠肝脏 PPAR-α、肝细胞核因子-
+4α(HNF-4α)、胆固醇调节元件结合蛋白-1C(SREBP-
+1C)、载脂蛋白 A5(apoA5)基因、蛋白表达及甘油三酯
+含量的影响,旨在初步探讨活性维生素 D 调控肝脏中
+甘油三酯代谢的机制,可能为防治高甘油三酯血症、糖
+尿病提供新的靶点。
+材料和方法
+一、 材料
+1. 实验动物:清洁级健康雄性 Wistar 大鼠 60 只,
+平均周龄为 6 周,平均体重为(210. 25 ± 11. 26) g。 购
+自中国农业科学院哈尔滨兽医研究所 (合格证号
+20020001)。
+2. 动物分组及糖尿病大鼠模型建立:80 只大鼠普
+通饲料适应性喂养 2 周,分为糖尿病组 20 只、1,25-二
+羟维生素 D3[1,25(OH) 2D3]干预组(VitD 干预组)20
+只、PPAR-α 抑制组 20 只和正常对照组 20 只。 以随机
+数字表法每组各取大鼠 15 只。 除对照组外所有大鼠
+给予高脂高胆固醇饲料喂养 4 周后,禁食 16 h,按 30
+mg / kg 单次腹腔注射链脲佐菌素(链脲佐菌素溶于枸
+橼酸缓冲液中配成浓度 0. 5% 的溶液,pH 7. 2),72 h
+后尾静脉采血测血糖,以血糖浓度>16. 7 mmol / L 作为
+糖尿病模型造模成功的标准, 造模后糖尿病组、
+PPAR-α 抑制组隔日腹腔注射与 VitD 干预组等量的花
+油生, 共 7 次。 VitD 干 预 组 通 过 腹 腔 隔 日 注 射
+1,25(OH) 2D3 5 μg / kg,共 7 次。 PPAR-α 抑制组隔日
+注射 PPAR-α 抑制剂(MK886),浓度为 5. 0 μmol / L,共
+7 次。 注射前首先将大鼠固定于操作台上,注射部位
+选择下腹部腹白线稍向左的位置,从下腹部朝头方向
+刺入皮肤,针头到达皮下后,再向前进针 3 ~ 5 ml,接着
+使注射针与皮肤呈 45毅角刺人腹肌,针尖通过腹肌后
+抵抗消失。 在此处保持针尖不动的状态下,回抽针栓,
+如无回血或尿液,再以一定的速度轻轻注入药液,完全
+注入后,按压注射部位,防止注射药液外溢。 2 周后实
+验结束并处死所有动物。 酶比色法测肝脏甘油三酯含
+量(试剂盒购自中生北控生物科技股份有限公司)。
+3. PPAR-α、HNF-4α、SREBP-1C 及 apoA5 基因检
+测(实时荧光定量 PCR):提取肝脏组织总 RNA,以总
+RNA 1. 5 μg 为逆转录反应模板,进行逆转录总的反应
+体积是 20 滋l。 PPAR-α、HNF-4α、SREBP-1C、apoA5 及
+内参照 β-actin 基因的引物由上海生工生物工程技术
+服务有限公司合成。 设计如下:PPAR-α 正义链 5'-
+CAGGCTATCATTACGGAGTC-3',反义链 5'-CTGGCAT-
+TTGTTTCTGTTCT-3';HNF-4α 正义链 5'-AACACTCCC-
+AATCCTCTGAA-3',反义链 5'-GCACCTCCATTCTCAC-
+CTT-3';SREBP-1C 正义链 5'-GAGGCCATGGATTGCA-
+CATT-3',反义链 5'-CCTGTCTCACCCCCAGCATA-3';
+apoA5 正义链 5'-ACGCACGCATCCAGCAGAAC-3',反
+义链 5'-TGAAAGATTCGGAAACTGC-3';β-actin 正义链
+5'-TAGTTGCGTTACACCCTTTCTTG-3',反义链 5'-TGC-
+TGTCACCTTCACCGTTC-3'。 反应条件:94℃ 预变性 5
+min,94℃变性 30 s,56℃ ~ 70℃退火 30 s,72℃延伸 1
+min,循环 26 ~ 32 次,72℃终末延伸 5 min。 3 个基因的
+退火温度和循环次数分别为:PPAR-α 56℃,30 个循
+环;HNF-4α 59℃,34 个循环;SREBP-1C 60℃,32 个循
+环;apoA5 70℃,31 个循环;β-actin 56℃,26 个循环。
+为了校正误差,本研究利用管家基因 β-actin 作为内
+参,以待测样品目的基因的拷贝数平均值除以该样品
+内参基因的拷贝数平均值,得到目的基因的相对含量。
+样品中模板的拷贝数,可由 SDS 软件通过所得到的 Ct
+值从标准曲线上计算得到。
+4. PPAR-α、HNF-4α、SREBP-1C 及 apoA5 蛋白检
+测(Western 印迹):收集各组肝脏组织,用蛋白定量方
+法定量。 取 30 μg 蛋白质加样,经 12% 聚丙烯酰胺凝
+胶电泳后转移到聚偏氟乙烯膜上,分别取抗 PPAR-α、
+HNF-4α、 SREBP-1C 及 apoA5 一 抗 稀 释 度 均 为
+1 : 2 000,二抗稀释度均为 1 : 1 000,碱性磷酸酶法显
+色,曝光。
+三、 统计学处理
+应用 SPSS 16. 0 统计软件包进行统计分析,结果
+采用 x-± s 表示,正态分布资料应用随机区组设计资料
+的方差分析及其两两比较,分析各组肝脏组织内
+PPAR-α、HNF-4α、SREBP-1C、apoA5 基因及蛋白表达与
+甘油三酯含量的差异。 P<0. 05 为差异有统计学意义。
+结    果
+一、 各组大鼠的体重、血糖及血脂水平
+糖尿病组、VitD 干预组、PPAR-α 抑制组大鼠与正
+常对照组相比,体重显著增加,血糖水平明显升高(P<
+0. 05)。 但 VitD 干预组、PPAR-α 抑制组大鼠与糖尿
+病组相比,体重及血糖差异均无统计学意义(P>0. 05,
+表 1)。
+糖尿病组、VitD 干预组、PPAR-α 抑制组大鼠与正
+常对照组大鼠相比,血甘油三酯、总胆固醇、低密度脂
+蛋白胆固醇水平显著升高(P<0. 05);但血高密度脂蛋
+白胆固醇水平差异无统计学意义(P>0. 05)。 VitD 干
+预组与糖尿病组相比,血甘油三酯水平显著降低(P<
+0. 05),其余血脂各项指标差异均无统计学意义(P>
+0. 05,表 1)。
+二、 各组大鼠肝脏 PPAR-α、HNF-4α、SREBP-1C、
+apoA5 基因、蛋白表达
+糖尿病组肝脏中 PPAR-α、HNF-4α、apoA5 基因、
+蛋白表达较正常对照组显著降低 ( P < 0. 05 ),而
+SREBP-1C 基因、蛋白表达较正常对照组显著增加(P<
+0. 05)。 VitD 干预组肝脏中 PPAR-α、HNF-4α、apoA5
+基因、蛋白表达较糖尿病组明显增加(P<0. 05),而
+SREBP-1C 基因、 蛋白表达明显受抑制(P<0. 05) 。
+VitD 干预组肝脏中 PPAR-α、 HNF-4α、 SREBP-1C、
+表 1  各组大鼠体重、血糖及血脂水平(x-± s)
+Tab 1  Levels of weight, glucose, and blood lipid in differernt groups(x-± s)
+组别
+Group
+鼠数
+n
+体重
+Weight
+(g)
+血糖
+Glucose
+(mmol / L)
+甘油三酯
+Triglyceride
+(mmol / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+CON 15 285. 2 ± 11. 6 5. 38 ± 0. 71 0. 41 ± 0. 07 1. 33 ± 0. 16 0. 35 ± 0. 05 0. 37 ± 0. 07
+DM 15 381. 0 ± 9. 3a 7. 39 ± 1. 67a 0. 72 ± 0. 25a 5. 42 ± 0. 72a 0. 35 ± 0. 06 1. 13 ± 0. 41a
+VitD+DM 15 378. 6 ± 8. 6a 6. 98 ± 1. 47a 0. 43 ± 0. 11ab 5. 31 ± 0. 61a 0. 36 ± 0. 07 1. 09 ± 0. 42a
+VitD+PPAR-α+DM 15 383. 6 ± 9. 1a 7. 12 ± 1. 52a 0. 73 ± 0. 31a 5. 28 ± 0. 65a 0. 34 ± 0. 07 1. 12 ± 0. 50a
+注:CON:正常对照组 Normal control group;DM:糖尿病组 Diabetes mellitus group;VitD+DM:维生素 D 干预组 Vitamin D treating group;PPAR-α 过氧
+化物酶增殖物激活受体-α Peroxisome proliferator-activated receptor α;VitD+PPAR-α+DM:PPAR-α 抑制组 PPAR-α inhibition group;HDL-C:高密度脂蛋白
+胆固醇 High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol; vs CON, aP<0. 05; vs DM, bP<0. 05
+表 2  各组肝脏组织中 PPAR-α、HNF-4α、SREBP-1C、apoA5 基因及甘油三酯含量的比较(x-± s)
+Tab 2  The comparion of PPAR-α, HNF-4α, SREBP-1C, apoA5 gene expression and triglyeride levels of different groups (x-± s)
+组别
+Group
+鼠数
+n PPAR-α mRNA HNF-4α mRNA SREBP-1C mRNA apoA5 mRNA
+甘油三酯
+Triglyceride
+(mg / g)
+CON 15 6. 87 ± 1. 87 5. 78 ± 1. 57 2. 32 ± 0. 28 5. 72 ± 1. 39 208. 14 ± 26. 37
+DM 15 2. 15 ± 0. 27a 2. 34 ± 0. 32a 7. 27 ± 2. 14a 1. 52 ± 0. 34a 434. 13 ± 37. 35a
+VitD+DM 15 6. 75 ± 1. 59 5. 72 ± 1. 37 2. 38 ± 0. 32 5. 74 ± 1. 42 210. 00 ± 26. 34
+VitD+PPAR-α+DM 15 0. 89 ± 0. 12ab 2. 31 ± 0. 27ab 7. 26 ± 2. 15ab 1. 54 ± 0. 33ab 433. 23 ± 37. 25ab
+注:PPAR-α 过氧化物酶增殖物激活受体-α Peroxisome proliferator-activated receptor α;HNF-4α:肝细胞核因子-4α Hepatocyte neclear factor-4α;
+SREBP-1C:胆固醇调节元件结合蛋白-1C Sterol regulatory element binding proteins-1C;apoA5:载脂蛋白 A5 Apolipoprotein A5;CON:正常对照组 Normal
+control group;DM:糖尿病组 Diabetes mellitus group;VitD+DM:维生素 D 干预组 Vitamin D treating group;VitD+PPAR-α+DM:PPAR-α 抑制组 PPAR-α
+inhibition group;vs CON, aP<0. 05;vs VitD+DM, bP<0. 05
+apoA5 基因、蛋白表达较正常对照组差异无统计学意
+义( P > 0. 05 )。 PPAR-α 抑制组 PPAR-α、 HNF-4α、
+apoA5 基因、蛋白表达比正常对照组显著降低( P<
+0. 05) ,而 SREBP-1C 基因、 蛋白表达明显增加(P<
+0. 05) 。 PPAR-α 抑制组 PPAR-α 基因、蛋白表达较糖
+尿病组显著降低 ( P < 0. 05 ), 而 HNF-4α、 apoA5、
+SREBP-1C 基因、蛋白表达与糖尿病组差异无统计学
+意义 (P < 0. 05)。 PPAR-α 抑制组 PPAR-α、HNF-4α、
+apoA5 基因、蛋白表达比 VitD 干预组显著降低(P <
+0. 05),而 SREBP-1C 基因、蛋白表达较 VitD 干预组显
+著增加(P<0. 05,表 2,图 1)。
+注:PPAR-α 过氧化物酶增殖物激活受体-α Peroxisome proliferator-
+activated receptor α;HNF-4α:肝细胞核因子-4α Hepatocyte neclear factor-
+4α;SREBP-1C:胆固醇调节元件结合蛋白-1C Sterol regulatory element
+binding proteins-1C;apoA5:载脂蛋白 A5 Apolipoprotein A5;CON:正常对
+照组 Normal control group;DM:糖尿病组 Diabetes mellitus group;VitD +
+DM:维生素 D 干预组 Vitamin D treating group;VitD+PPAR-α+DM:PPAR-
+α 抑制组 PPAR-α inhibition group
+图 1 各组肝脏组织中 PPAR-α、HNF-4α、SREBP-1C、apoA5 蛋白表达
+Fig 1 Comparison of PPAR-α, HNF-4α, SREBP-1C, apoA5 protein expression
+in liver among various groups
+三、 各组大鼠肝脏甘油三酯含量与血脂的关系
+Spearman 相关分析提示,大鼠肝脏甘油三酯与总
+胆固醇、低密度脂蛋白胆固醇均呈正相关( r 分别为
+0. 263,0. 323,P<0. 05),与高密度脂蛋白胆固醇呈负
+相关( r 为-0. 317,P<0. 05)。
+讨    论
+高甘油三酯血症( hypertriglyceridemia)所致的脂
+毒性近年来已引起人们的重视,因为其能抑制胰岛素
+的信号传递,从而引起并加重胰岛素抵抗,使胰岛素的
+生物效应降低,又能引起葡萄糖刺激的胰岛素分泌障
+碍,并导致 β 细胞凋亡,使胰岛素分泌减少[3]。 肝脏
+是甘油三酯代谢的重要器官,高甘油三酯血症是糖尿
+病发生、发展重要病理生理基础和特征[4]。 Reuben
+等[5]研究发现,肝脏移植可以使超过半数的糖尿病患
+者痊愈,说明糖尿病的病因不完全在胰腺本身,可能是
+基因缺陷或功能减弱引起肝细胞中某一代谢环节被削
+弱所致,也就是说 2 型糖尿病可能是一种肝脏代谢障
+碍性疾病[6]。 从肝脏脂代谢功能缺陷出发,可能是阐
+明 2 型糖尿病病因及发病机制的关键。
+肝脏是甘油三酯代谢的主要场所, PPAR-α、
+HNF4-a、apoA5 是甘油三酯在肝脏氧化的关键信号分
+子[7-10]。 apoA5 是新近发现唯一明确降低甘油三酯的
+超家族新成员,并特异表达于肝脏[11]。 SREBP 是膜结
+合的转录因子,参与脂质自稳态的许多方面(例如胆
+固醇、脂肪酸、甘油三酯和磷酯的合成 /摄取),SREBP-
+1C 在甘油三酯形成中起关键作用[12,13]。 最近有研究
+发现维生素 D 不仅与骨骼系统、肿瘤、自身免疫性疾
+病、心血管及呼吸系统疾病有关,还参与了肥胖、糖尿
+病的发生、发展[14]。 研究发现,补充维生素 D 更有利
+于糖尿病患者的血糖控制和稳定,补充维生素 D 可以
+作为糖尿病治疗的辅助手段之一[15]。 国外最新研究
+发现,血浆 25-羟维生素 D[25(OH)D]与胰岛素抵抗
+呈负相关关系,升高 2 型糖尿病患者血浆 25(OH)D
+水平能明显改善胰岛素抵抗作用,维生素 D 与胰岛素
+分泌、胰岛素敏感性密切相关,维生素 D 缺乏与糖尿
+病发生密切相关,并且补充维生素 D 能有效预防 2 型
+糖尿病[16,17]。 国外研究还发现,血浆 25(OH)D 水平
+与高脂血症有密切联系[18];但是 25(OH)D 调节血脂
+具体机制尚未阐明清楚。 本研究通过给糖尿病大鼠
+腹腔注射活性维生素 D,并取其肝脏组织检测 PPAR-
+α、HNF4-a、SREBP-1C、apoA5 基因及蛋白表达及甘油
+三酯含量,初步探讨了活性维生素 D 调控 2 型糖尿病
+大鼠肝脏中甘油三酯代谢的可能机制。
+本研究结果表明,活性维生素 D 与肝脏中 PPAR-
+α、HNF-4α、SREBP-1C、apoA5 表达水平及甘油三酯含
+量密切相关,血浆中 1,25(OH) 2D3 水平可以影响肝脏
+中甘油三酯。 糖尿病状态下肝脏中 PPAR-α、HNF-4α、
+apoA5 表达降低,SREBP-1C 表达升高,肝脏中甘油三
+酯含量增加,导致了血浆中甘油三酯水平的升高,反
+之,血浆中甘油三酯水平的升高会加重肝脏中甘油三
+酯的沉积,从而抑制了肝脏中 PPAR-α、HNF-4α、apoA5
+表达,而使 SREBP-1C 表达升高,这就形成了恶性循
+环。 升高血浆中 1,25(OH) 2D3 水平可以改善这一恶
+性循环,1,25(OH) 2D3 可能通过上调肝脏中 PPAR-α、
+HNF-4α、apoA5 表达,抑制 SREBP-1C 的表达,从而降
+低甘油三酯水平及改善胰岛素抵抗,从而起到防治高
+甘油三酯血症、糖尿病的作用,但具体机制有待进一步
+研究探索。

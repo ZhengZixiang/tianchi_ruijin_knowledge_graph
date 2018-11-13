@@ -1,0 +1,421 @@
+临床研究
+基金项目:上海市科学技术委员会科研计划项目(13441900302)
+病科,上海市内分泌代谢病研究所,上海市内分泌代谢病临床医学中心
+糖尿病足分中心(何泱、许蕾、钱泓洁、张杉杉、汤正义、宁光);上海交通
+大学医学院附属瑞金医院远洋分院内科(顾雪明、顾俊义、施建元、沈亚
+萍)
+垂体-性腺轴功能在男性糖尿病足溃疡患者中
+的变化及其与预后的相关性
+何泱  许蕾  钱泓洁  张杉杉  顾雪明  顾俊义  施建元  沈亚萍  汤正义  宁光
+[摘要]   目的  分析男性糖尿病足溃疡(DFU)患者的性激素水平与病情严重性的相关性,探讨男性
+DFU 患者预后的影响因素。 方法 收集 204 例男性 DFU 患者和 63 例高危 DFU 患者的基本资料,测定这
+些患者入院时血中卵泡刺激素、黄体生成素、催乳素、雌二醇、孕酮、睾酮、游离睾酮(FT)、性激素结合球蛋
+白水平;随访观察 DFU 患者 6 个月溃疡愈合、复发、心脑血管事件及死亡情况。 结果 随着 Wagner 级别增
+加,男性患者体内雌二醇水平上升(P趋势 =0. 001 2),睾酮、FT 水平下降(P趋势值分别为 0. 005、0. 002 7);随
+着 DFU 感染加重,男性患者体内催乳素呈升高趋势(P趋势 =0. 021),FT 水平下降(P趋势 = 0. 007);患者体内
+雌二醇水平增高是 DFU 患者心脑血管事件发生(OR=1. 11,P<0. 05)和死亡(OR=1. 01,P<0. 05)的危险因
+素。 结论 男性 DFU 患者垂体-性腺轴功能发生异常改变,多项指标似可提示病情严重性并帮助判断预
+后。
+[关键词]   糖尿病足溃疡; 雌二醇; 睾酮; 游离睾酮
+The change of functional status of pituitary-gonadal axis in male patients with diabetic foot ulcer and its
+association with prognosis He Yang*, Xu Lei, Qian Hongjie, Zhang Shanshan, Gu Xueming, Gu Junyi, Shi
+Jianyuan, Shen Yaping, Tang Zhengyi, Ning Guang. *Department of Endocrine and Metabolic Diseases, Shanghai
+Institute of Endocrine and Metabolic Diseases, Shanghai Clinical Center for Endocrine and Metabolic Diseases, Ruijin
+Hospital, Jiaotong University School of Medicine, Shanghai 200025, China
+[Abstract]  Objective  To investigate the association of sex hormones with the severity of diabetic foot ulcer
+(DFU), and to analyze the influential factors of prognosis in male patients with DFU. Methods The clinical data of
+204 hospitalized male patients with DFU and 63 male patients with high risk of DFU were collected. Serum
+concentrations of sex hormones from these patients, including FSH, LH, prolactin, estradiol, progesterone,
+testosterone, free testosterone ( FT), and sex hormone binding globulin were tested at admission. Patients were
+followed for 6 months to observe the rate of wound healing and recurrence, the occurrences of cardiovascular and
+cerebrovascular events, as well as the all-cause death. Results In male patients with DFU, the serum concentration
+of estradiol increased gradually with the increase of Wagner grades(Ptrend = 0. 001 2), while testosterone and FT
+decreased(Ptrend = 0. 005 and P = 0. 002 7). The serum concentration of prolactin increased with the severity of
+infection(Ptrend = 0. 021), while FT(Ptrend = 0. 007) decreased. High level of estradiol was one of the risk factors
+associated with the occurrences of cardiovascular and cerebrovascular events(OR=1. 11, P<0. 05)and death(OR =
+1. 01, P<0. 05) in male patients with DFU. Conclusions The hormones secreted from pituitary-gonadal axis are
+changed in male patients with DFU. Abnormality of these hormones might suggest the severity and prognosis of DFU.
+[Key words]  Diabetic foot ulcer; Estradiol; Testosterone; Free testosterone
+(Chin J Endocrinol Metab, 2015, 31: 23-27)
+糖尿病足溃疡(diabetic foot ulcer,DFU)作为糖尿
+病的严重并发症之一,因其患者数量不断增加、治疗困
+难和较高的致残致死率而越来越受到重视[1,2]。 DFU
+患者体内异常变化显著,包括本课题组以往报道的心
+脏功能和内分泌状态的异常[3-5]。 垂体性腺轴作为神
+经内分泌网络重要组成部分,参与了机体糖、蛋白质、
+脂肪及水盐代谢调节。 性激素水平在男性糖尿病、心
+力衰竭、慢性阻塞性肺疾病等严重全身性疾病患者体
+内发生异常[6-8],并与糖尿病的发生、心血管事件风险
+和死亡率的升高相关[6,9,10]。 而有关垂体-性腺轴功能
+在 DFU 患者体内的变化及其与 DFU 病情、局部感染
+严重性及预后的关系,尚未见文献报道,本研究将对其
+进行探讨。
+对象和方法
+一、 对象
+收集 2011 年 1 月至 2012 年 12 月在本院住院治
+疗的男性糖尿病足病患者,入选条件:(1)明确诊断为
+2 型糖尿病;(2)年龄≥50 岁;(3)有明确 DFU 发生的
+高危因素(下肢血管病变合并有足畸形、足部局部缺
+血或胼胝等征象)或已确诊为 DFU。 剔除标准:(1)既
+往有垂体、性腺、肾上腺疾病病史;(2)正在或曾经使
+用过外源性性激素者;(3)恶性足溃疡及其他可能由
+非糖尿病因素导致的足溃疡。 最终有 204 例男性 DFU
+患者入选本研究,并选取年龄匹配的 DFU 高危患者
+(即 Wagner 0 级患者)63 例作对照。 入选者年龄 50 ~
+90 岁,平均(65. 8 ± 11. 3)岁,糖尿病病程 0. 1 ~ 40 年,
+平均(11. 4 ± 7. 5)年。
+二、 方法
+1. 住院期间临床资料收集:患者入院后行常规病
+史采集和辅助检查。 性激素指标包括 FSH、LH、催乳
+素、雌二醇、孕酮、睾酮、游离睾酮(FT)和性激素结合
+蛋白(SHBG),由上海市内分泌代谢病研究所常规测
+定。 其它实验室检查和影像学等检查,由本院检测中
+身和局部综合治疗。
+2. 随访方式、时间及内容:随访采用门诊、再入院
+访为主,门诊随访至少 1 次 / 2 周;部分创面恶化、愈合
+随访为主。 以患者入选该研究后 6 个月为随访节点。
+随访内容包括溃疡愈合、复发、心脑血管事件发生和死
+亡情况。
+3. DFU 严重程度、感染严重程度的分级方法及相
+关结局变量判断标准:(1)溃疡严重程度:采用临床上
+常用的 Wagner 分级法[11],简述如下:0 级,皮肤完整
+(溃疡形成前),有外周血管病变与足部高危体征;1
+级,皮肤表面溃疡,在皮下脂肪层以内;2 级,溃疡深度
+达肌腱或韧带;3 级,有骨髓炎;4 级,足趾或足前端坏
+疽;5 级,整个或涉及足中后部分坏疽。 (2)感染程度:
+采用美国感染疾病协会[12] 关于糖尿病足感染的临床
+分类指南,简述如下:无感染:无局部化脓或全身炎症
+征象;轻度感染:化脓、红肿、疼痛、触痛、局部发热,硬
+结中有 2 个或 2 个以上,或蜂窝织炎直径、溃疡边缘红
+肿小于 2 cm,同时感染局限于皮肤和皮肤下组织,没
+有局部和全身并发症;中度感染:患者全身情况包括糖
+代谢稳定,有下列征象之一:直径大于 2 cm 的蜂窝织
+炎,淋巴管炎,筋膜下感染扩散,深部组织脓肿,坏疽,
+累及肌肉、肌腱、关节、骨骼;重度感染:有全身毒血症
+状,代谢不稳定。 (3)结局变量:溃疡愈合指溃疡创面
+皮肤完全覆盖,或已形成痂皮;溃疡复发指原溃疡愈合
+后在相同或其他位置发生新的溃疡;心脑血管事件指
+心肌梗死、不稳定性心绞痛、心力衰竭(心衰)及脑卒
+中,由心脑血管专科医师诊断,并有生化和影像学证
+据。
+三、 统计学处理
+连续变量以 x-± s 表示,两组间比较采用 t 检验,多
+组间比较采用方差分析;不同 Wagner 级别、感染分级
+下各变量变化趋势采用线性回归、多元线性回归分析。
+计数资料用率表示,组间比较采用 字2 检验。 采用
+logistic 回归计算各影响因素对结局事件发生的比值比
+(OR 值)。 偏态分布的变量进行对数转换,使之变为
+正态分布后再纳入统计分析。 P<0. 05 为差异有统计
+学意义。 采用 SAS 8. 1 统计软件进行数据分析。
+结    果
+一、 基本资料
+入选本研究的 267 例男性患者按其糖尿病足病病
+情严重程度,自 Wagner 0 级至 5 级分为 6 组,各组分
+别为 63、40、48、42、66、8 例。 研究对象总体情况与国
+内同行和本课题组以前的报道类似[2,13]:年龄较大、糖
+尿病病程较长、入院前 3 个月血糖控制情况较差。 年
+龄、糖尿病病程、体重指数(BMI)、血压、HBA1C组间无
+差异。 随着糖尿病足病病情加重、Wagner 分级增加,
+患者体内与营养状态相关的指标血浆白蛋白和血红蛋
+白逐渐降低;甘油三酯、总胆固醇、高密度脂蛋白胆固
+醇及低密度脂蛋白胆固醇等脂代谢相关指标均不断降
+低;血白细胞数目逐渐增加;空腹 C 肽逐渐减少;静
+息心率呈升高趋势;尿蛋白排出增加(上述指标 P趋势<
+0. 05)。
+二、 高危 DFU 组与 DFU 组性激素水平比较
+以高危 DFU(即Wagner 0 级)组作为对照,DFU 组
+患者雌二醇水平高于对照组(P = 0. 000 7),其睾酮
+(P=0. 045)、FT(P = 0. 018)水平则低于对照组;2 组
+患者 FSH、LH、催乳素、孕酮和 SHBG 水平差异无统计
+学意义(P>0. 05,表 1)。 其中,对照组和 DFU 组雌二
+醇高于正常上限者所占比例分别为 7. 9% 和 20. 6% ,
+两者比较差异有统计学意义(P = 0. 03);睾酮低于正
+常下限者所占比例分别为 15. 9%和 26. 4% ,两者比较
+无显著差异(P>0. 05);FT 低于正常下限者所占比例
+分别为 30. 2%和 63. 7% ,两者比较差异有统计学意义
+(P<0. 01)。
+三、 病情严重程度与性激素水平相关性
+表 1  DFU 高危患者和 DFU 患者性激素水平比较(x-± s)
+Tab 1  Comparison of sex hormone levels of patients with high risks of DFU and DFU(x-± s)
+组别
+Group
+例数
+n
+FSH
+(IU / L)
+LH
+(IU / L)
+PRL
+(μg / L)
+E2
+(pmol / L)
+P
+(nmol / L)
+T
+(nmol / L)
+FT
+(pg / ml)
+SHBG
+(nmol / L)
+NDFU 63 14. 01 ± 13. 37 8. 52 ± 5. 62 14. 83 ± 8. 61 97. 17 ± 41. 16 0. 79 ± 0. 85 14. 87 ± 6. 88 8. 52 ± 2. 44 29. 07 ± 14. 23
+DFU  204 13. 23 ± 12. 97 10. 88 ± 13. 24 17. 30 ± 11. 21 132. 15 ± 73. 76b 1. 23 ± 1. 39 12. 67 ± 7. 39a 7. 14 ± 3. 15a 40. 59 ± 22. 61
+注:DFU: 糖尿病足溃疡 Diabetic foot ulcer; NDFU:高危 DFU 组 Patients with high risks of diabetic foot ulcer; FSH:卵泡刺激素 Follicle-stimulating
+hormone; LH:黄体生成素 Luteinizing hormone; PRL:催乳素 Prolactin; E2:雌二醇 Estradiol; P:孕酮 Progesteron; T:睾酮 Testosterone; FT:游离睾酮 Free
+testosterone; SHBG:性激素结合球蛋白 Sex hormone binding globulin; 与高危 NDFU 组比较 vs NDFU group, aP<0. 05, bP<0. 01
+表 2  不同 Wagner 分级男性糖尿病足病患者性激素水平(x-± s)
+Tab 2  Sex hormone levels of male patients with diabetic foot disease in different Wagner grade(x-± s)
+Wagner 例数n
+FSH
+(IU / L)
+LH
+(IU / L)
+PRL
+(μg / L)
+E2
+(pmol / L)
+P
+(nmol / L)
+T
+(nmol / L)
+FT
+(pg / ml)
+SHBG
+(nmol / L)
+0 63 14. 01 ± 13. 37 8. 52 ± 5. 62 14. 83 ± 8. 61 97. 17 ± 41. 16 0. 79 ± 0. 85 14. 87 ± 6. 88 8. 52 ± 2. 44 29. 07 ± 14. 23
+1 40 9. 76 ± 5. 53 9. 40 ± 6. 12 13. 59 ± 7. 34 129. 75 ± 45. 47 1. 14 ± 0. 87a 16. 25 ± 7. 68 9. 17 ± 3. 41 50. 00 ± 27. 73
+2 48 15. 32 ± 17. 84 14. 23 ± 23. 87 16. 17 ± 9. 87 110. 20 ± 43. 18 0. 73 ± 0. 56 9. 56 ± 7. 29 6. 88 ± 3. 50 42. 80 ± 12. 39
+3 42 8. 44 ± 4. 81 6. 93 ± 4. 23 16. 14 ± 7. 48 122. 20 ± 59. 47 1. 05 ± 0. 90 11. 47 ± 7. 52 6. 48 ± 2. 01 31. 25 ± 11. 25
+4 66 16. 29 ± 13. 70 11. 97 ± 8. 85 21. 04 ± 15. 14a 136. 53 ± 62. 74a 1. 77 ± 2. 07 12. 85 ± 7. 29 7. 05 ± 2. 88 42. 75 ± 29. 29
+5 8 17. 84 ± 21. 82 9. 78 ± 10. 94 17. 82 ± 7. 75 286. 95 ± 228. 96a 1. 20 ± 0. 98 5. 41 ± 4. 14a 3. 49 ± 1. 90a 40. 90 ± 16. 65
+注:缩略语同表 1 The abbreviations are the same as Tab 1;与 Wagner 0 级比较 vs Wagner 0 group, aP<0. 05
+随着糖尿病足病病情加重,即 Wagner 级别增加,
+男性患者雌二醇、催乳素水平升高(β = 12. 82、1. 27,组
+间 P趋势<0. 01),经年龄、糖尿病病程和 BMI 校正后,雌
+二醇升高趋势±旧存在(β = 11. 36,P<0. 01),催乳素
+变化趋势消失(趋势 P趋势>0. 05);同时,随 Wagner 级
+别增加,睾酮、FT 水平呈下降趋势(β = -0. 91、-0. 59,
+趋势 P趋势<0. 05),经年龄、糖尿病病程和 BMI 校正后
+上述变化趋势±旧存在 ( β = - 1. 1、 - 0. 56, P趋势 <
+0. 01)。FSH、LH、孕酮、SHBG 水平则与糖尿病足病病
+情严重程度无显著相关性(组间 P趋势 >0. 05,表 2、表
+3)。
+四、 感染程度与性激素水平相关性
+不同感染程度组间各性激素水平比较均无显著差
+异(P>0. 05,表 4)。 随感染程度加重,男性 DFU 患者
+体内催乳素呈升高趋势( β =回归系数为 2 . 88,组间
+P趋势 = 0. 021) ,经年龄、糖尿病病程、BMI 校正后该趋
+势消失(组间 P趋势>0. 05)。 此外, FT 在年龄、 糖尿病
+表 3  随 Wagner 级别增加男性糖尿病足病患者性激素水平变
+化趋势
+Tab 3 The variation trend of sex hormones with the increase of
+Wagner grades in male patients with diabetic foot disease
+性激素
+Sex
+hormones
+模型 1
+Model 1
+模型 2
+Model 2
+趋势 P 值
+P value
+for trend
+r2 β
+趋势 P 值
+P value
+for trend
+r2 β
+FSH 0. 610 0. 001 6 0. 32 0. 510 0. 041 4 0. 45
+LH 0. 270 0. 007 6 0. 58 0. 470 0. 015 7 0. 45
+PRL 0. 009 0. 041 3 1. 27 0. 075 0. 053 9 0. 88
+E2 <0. 01 0. 104 5 12. 82 0. 001 0. 087 8 11. 36
+P 0. 240 0. 059 3 0. 18 0. 360 0. 027 3 0. 12
+T 0. 008 0. 042 7 -0. 91 0. 005 0. 068 4 -1. 10
+FT 0. 003 0. 103 1 -0. 59 0. 003 0. 109 1 -0. 56
+SHBG 0. 440 0. 013 5 1. 60 0. 746 0. 196 1 0. 84
+注:模型 1:未校正 Unadjusted;模型 2:对年龄、糖尿病病程和体重
+指数进行校正 Data adjusted by age,course of diabetes,and body mass index;
+r2:决定系数 Determinate coefficient; β:回归系数(模型 1)或偏回归系数
+(模型 2 ) Regression coefficient ( Model 1 ) or Partial regression coefficient
+(Model 2);其他缩略语同表 1 The other abbreviations are the same as Tab 1
+表 4  不同感染程度男性 DFU 患者性激素水平(x-± s)
+Tab 4  Sex hormone levels in male patients with diabetic ulcers in different stages of infection (x-± s)
+感染程度
+Infection
+severity
+例数
+n
+FSH
+(IU / L)
+LH
+(IU / L)
+PRL
+(μg / L)
+E2
+(pmol / L)
+P
+(nmol / L)
+T
+(nmol / L)
+FT
+(pg / ml)
+SHBG
+(nmol / L)
+无感染
+Uninfected 10 10. 62 ± 6. 25 9. 4 ± 4. 61 16. 80 ± 7. 53 133. 39 ± 58. 17 1. 38 ± 1. 12 16. 66 ± 10. 31 10. 13 ± 2. 77 56. 04 ± 40. 92
+轻度
+Mild 56 14. 46 ± 11. 15 10. 96 ± 7. 53 13. 62 ± 7. 07 121. 31 ± 49. 03 0. 92 ± 0. 91 13. 87 ± 8. 27 7. 31 ± 3. 69 54. 23 ± 29. 81
+中度
+Moderate 74 13. 24 ± 15. 42 11. 45 ± 19. 32 16. 88 ± 9. 44 114. 96 ± 46. 81 1. 05 ± 0. 96 11. 79 ± 5. 93 7. 65 ± 3. 27 30. 01 ± 10. 32
+重度
+Severe 64 12. 53 ± 12. 49 10. 36 ± 9. 24 21. 08 ± 15. 09 160. 77 ± 106. 07 1. 69 ± 1. 99 12. 46 ± 7. 76 6. 21 ± 2. 27 39. 12 ± 20. 36
+P 值
+P value 0. 91 0. 98 0. 08 0. 06 0. 13 0. 53 0. 10 0. 09
+注:缩略语同表 1 The abbreviations are the same as Tab 1
+病程、BMI 校正前与感染程度组间 P趋势 = 0. 05,经上述
+因素校正后, FT 水平随感染程度加重而降低 ( β =
+-1. 31,P=0. 007)。 男性 DFU 患者 FSH、LH、雌二醇、
+睾酮、SHBG 与感染程度无显著相关性(组间 P趋势 >
+0. 05,表 5)。
+表 5  随感染程度加重男性 DFU 患者性激素水平变化趋势
+Tab 5  The variation trend of sex hormone levels with the growth of
+infection severity in male patients with diabetic foot ulcers
+性激素指标
+Sex hormones
+模型 1
+Model 1
+模型 2
+Model 2
+趋势 P 值
+P value
+for trend
+r2 β
+趋势 P 值
+P value
+for trend
+r2 β
+FSH 0. 79 0. 000 7 -0. 39 0. 10 0. 054 0 -0. 001
+LH 0. 97 0. 000 0 -0. 05 0. 81 0. 021 8 -0. 45
+PRL 0. 02 0. 051 9 2. 88 0. 07 0. 100 2 2. 73
+E2 0. 07 0. 022 6 15. 16 0. 24 0. 045 3 11. 74
+P 0. 08 0. 030 6 0. 27 0. 58 0. 081 5 0. 08
+T 0. 32 0. 010 0 -0. 83 0. 07 0. 058 0 -1. 77
+FT 0. 05 0. 043 9 -0. 75 0. 01 0. 147 8 -1. 31
+SHBG 0. 13 0. 065 1 -7. 16 0. 12 0. 364 2 -10. 70
+注: BMI: 体重指数 Body mass index; 模型 1: 未校正 Model 1:
+Unadjusted data;模型 2:对年龄、糖尿病病程和 BMI 进行校正 Model 2:
+Data adjusted by age, course of diabetes, and BMI;r2:决定系数,Determinate
+coefficient;β:回归系数 (模型 1 ) 或偏回归系数 (模型 2 ) Regression
+coefficient(Model 1)or Partial regression coefficient(Model 2); 其他缩略语
+及单位同表 1 The other abbreviations and units are the same as Tab 1
+五、 预后及相关危险因素
+1. 溃疡愈合:至 6 个月随访期结束,入选本研究
+的 204 例 DFU 患者中 148 例已愈合,愈合率 72. 5% 。
+采用 logistic 回归分析年龄、糖尿病病程、DFU 病情严
+重程度、HBA1C、血红蛋白、白蛋白、总胆固醇、甘油三
+酯、左室射血分数、各项性腺指标对溃疡愈合的影响,
+结果提示严重足溃疡 (OR = 4. 91,95% CI 1. 31 ~
+23 . 17,P<0. 05) 、糖尿病病程长(OR = 1. 18,95% CI
+1. 09 ~ 2. 34,P<0. 05)、较低心脏射血分数(OR= 1. 14,
+95% CI 1. 03 ~ 1. 27,P<0. 05)是溃疡不愈合的危险因
+素。 溃疡愈合情况与男性患者体内性激素水平无明确
+关系。
+2. 溃疡复发:204 例 DFU 患者 6 个月内有 76 例
+复发,其中 42 例为原溃疡部位愈合后再发,34 例为其
+他部位复发,复发率为 37. 3% 。 logistic 回归分析提
+示,在众多因素中,只有糖尿病病程(OR = 1. 12,95%
+CI 1. 05 ~ 2. 21,P<0. 05)是溃疡复发的影响因素。 溃
+疡复发与男性 DFU 患者体内性激素水平无明确关系。
+3. 心脑血管事件:随访 6 个月,204 例 DFU 患者
+中共有 18 例发生心脑血管事件,其中脑卒中 12 例,心
+力衰竭 6 例,心脑血管事件发生率为 8. 8% 。 logistic
+回归分析提示糖尿病足溃疡严重程度 (OR = 4. 37,
+95% CI 1. 28 ~ 10. 69,P <0. 05)、雌二醇水平(OR =
+1. 11,95% CI 1. 08 ~ 1. 19,P<0. 05)与心脑血管事件
+发生正相关,白蛋白水平(OR = 0. 88,95% CI 0. 77 ~
+0. 98,P<0. 05)与心脑血管事件发生负相关。
+4. 死亡:204 例 DFU 患者 6 个月时有 6 例死亡,
+其中 4 例死于心力衰竭,2 例死于肾功能不全,死亡率
+2. 9% 。 logistic 回归分析结果显示,DFU 患者体内白
+蛋白(OR=0. 74,95% CI 0. 58 ~ 0. 93,P<0. 05)和雌二
+醇水平(OR=1. 01,95% CI 1. 002 ~ 1. 024,P<0. 05)是
+影响 DFU 患者死亡的因素,随白蛋白水平降低、雌二
+醇水平升高,患者死亡风险增加,但雌二醇水平对死亡
+的影响很弱。
+讨    论
+本文的数据分析发现,DFU 病情与患者内源性性
+激素状态相关,男性 DFU 患者内源性睾酮、FT 水平低
+于高危患者,且随足病病情加重而下降;相反,DFU 男
+性患者内源性雌二醇水平高于高危 DFU 者,并随足病
+病情加重而升高;睾酮、FT、雌二醇的这种变化趋势独
+立于年龄、BMI 和糖尿病病程等因素。 DFU 患者 6 个
+月内复发率较高,发生心脑血管事件和死亡的风险大;
+男性 DFU 患者内源性雌二醇水平与心脑血管事件发
+生和死亡正相关。
+目前尚缺乏 DFU 病情、预后与性激素水平相关性
+研究的文献报道,不过多项男性性激素水平与心脑血
+管疾病、外周血管病变及死亡相关性研究的结果与本
+研究结果类似。 Jones 等[14] 的横断面研究发现,老年
+男性冠心病患者体内睾酮和 FT 水平低于非冠心病患
+者,且睾酮随冠心病病情加重而降低;Tivesten 等[15] 研
+究提示,与无外周血管病变者相比,老年男性下肢外周
+血管病变者体内睾酮降低、雌二醇升高。 在 Tivesten
+等[16]进行的一项随访期限为 3 年的前瞻性研究中,中
+年男性体内雌二醇水平与颈动脉内膜中层厚度的增加
+正相关;LercHBA1C  m 等[17] 发现高雌二醇水平是男性患
+者全因死亡的危险因素;另有研究发现男性低睾酮水
+平是心血管和呼吸系统疾病致死的独立危险因素[8]。
+但本研究中并未发现男性 DFU 患者体内睾酮、FT 水
+平与心血管事件和死亡的相关性,一方面与二者研究
+对象不同有关,另一方面因随访时间较短,尚需要更长
+时间的随访来进一步观察睾酮、FT 水平与 DFU 预后
+的关系。
+男性体内睾酮由睾丸间质细胞分泌,其在血中主
+要与血浆蛋白结合(其中 65% 与 SHBG 结合,其余与
+血浆白蛋白或其他血浆蛋白结合),仅有 2%的睾酮以
+游离形式存在,本研究中,男性糖尿病足病患者睾酮和
+FT 水平均与病情严重程度呈负相关,而 SHBG、FSH、
+LH 在不同病情组无显著差异,提示睾酮和 FT 水平的
+变化主要与睾丸分泌状态的改变有关,而非垂体功能
+或血浆蛋白改变所致。 近年研究提示,在男性体内,睾
+酮可通过抑制肿瘤坏死因子-α 等促炎因子的产生、促
+进白细胞介素-10 等抗炎因子的产生和抑制炎症细胞
+与血管内皮细胞的黏附而抑制炎症反应[18,19];同时,
+睾酮通过直接使血管平滑肌细胞上钾离子、钙离子通
+道失活或通过促进一氧化氮等扩血管介质的产生而舒
+张血管[20,21]。 因此,睾酮 / FT 在男性体内参与了炎症
+反应的调节并与血管舒缩平衡相关,而炎症反应和血
+管功能障碍是糖尿病足病发生、 发展的重要环
+节[22,23],这可能是男性患者睾酮 / FT 水平与糖尿病足
+病病情严重程度呈负相关的潜在机制。
+男性血液中的雌二醇 20% 来自睾丸间质细胞的
+分泌,其余部分主要来自于脂肪、肌肉等外周组织处睾
+酮向雌二醇的转化,因此男性血循环中雌二醇水平主
+要受睾酮水平影响[24]。 在本研究中,随着糖尿病足病
+病情加重,男性患者体内睾酮和 FT 的水平下降,但雌
+二醇水平却逐渐升高,且这种升高趋势独立于年龄、
+BMI 等影响男性雌二醇水平的因素而存在,提示随糖
+尿病足病病情加重,睾酮向雌二醇的转化明显增多,有
+关其机制还有待进一步研究。 此外,在男性体内,与睾
+酮的作用相反,临床研究提示雌二醇水平与超敏 C 反
+应蛋白和纤维蛋白原等炎症标志物正相关[25],基础研
+究发现雌二醇促进炎症细胞分泌炎症因子干扰素 γ,
+并抑制抗炎因子的产生[26],因而男性体内雌二醇促进
+炎症反应,同时促使以慢性炎症反应为特征的动脉粥
+样硬化的发生[15],如前所述,炎症反应和下肢血管病
+变(包括下肢动脉粥样硬化)是 DFU 发生的重要环节,
+故解释了本研究中男性患者雌二醇水平与糖尿病足病
+情严重程度呈正相关性。 同时雌二醇的促动脉粥样硬
+化作用可能是本研究中高雌二醇水平男性 DFU 患者
+心脑血管事件发生率高、死亡率高的潜在机制。
+本研究中有关糖尿病足病病情严重性与性激素水
+平的相关性研究是横断面的研究,尚难以阐明男性低
+睾酮水平和高雌二醇水平是糖尿病足溃疡发生、加重
+的原因或是结果,还有待进一步的前瞻性研究证实。
+男性 DFU 患者垂体性腺轴功能状态发生改变,睾
+酮、FT 水平与足病病情负相关,雌二醇水平与足病病
+情正相关,高雌二醇水平是男性 DFU 患者发生心脑血
+管事件和死亡的危险因素,这些改变对男性 DFU 患者
+的病情判断和预后提示具有一定的意义;由于这些激
+素参与糖、脂肪和蛋白质的代谢,进一步阐明它们在
+DFU 中的作用,将有助于 DFU 患者的治疗和心脑血管
+事件的预防。

@@ -1,0 +1,359 @@
+临床研究
+基金项目:科技部 973 项目(2012CB722403);新疆重大疾病医学重点实验室开放课题(SKLIB-XJMDR-2012-Y4);新
+疆研究生科研创新基金(XJGRI2013083)
+强),基础医学院(张蓓);新疆医科大学第一附属医院代谢性疾病实验室(马琦、姚华)
+新疆维吾尔族代谢综合征危险因素与尿酸的
+关系研究
+王婷婷  马琦  马艳  张蓓  苏银霞  王志强  姚华
+[摘要]   目的  分析血尿酸在维吾尔族的分布特点及与代谢综合征危险因素的相关性。 方法 对
+4 428 名在新疆乌鲁木齐和喀什医院的维吾尔族体检人群进行问卷调查、体格检查和生化指标检测。 结果
+(1)代谢综合征、高尿酸血症现患病率为 21. 3% 、8. 2% 。 随着尿酸水平的增高,冠心病、高血糖、高血压、中
+心型肥胖、血脂紊乱检出率也呈上升趋势。 血压、血糖、HBA1C、甘油三酯、总胆固醇、载脂蛋白 A、低密度脂
+蛋白胆固醇、体重指数(BMI)和腰臀比随着尿酸水平的增高,逐渐增高。 高密度脂蛋白胆固醇逐渐降低。
+(2)代谢性疾病组分累积后高尿酸血症检出率依次增高(P<0. 01)。 随着尿酸浓度的升高,代谢综合征的
+检出率也逐渐增高(P<0. 01)。 (3) Logistic 多元回归分析显示,腰臀比(OR = 7. 639,95% CI 1. 744 ~
+33. 466)、冠心病(OR = 2. 784,95% CI 1. 718 ~ 4. 510)、尿酸高(OR = 2. 155,95% CI 1. 457 ~ 3. 188)、吸烟
+(OR=1. 437,95% CI 1. 071 ~ 1. 927)、代谢性疾病家族史(OR = 1. 333,95% CI 1. 044 ~ 1. 703)、工作压力
+(OR=1. 290,95% CI 1. 021 ~ 1. 631)、BMI(OR = 1. 146,95% CI 1. 112 ~ 1. 181)是代谢综合征的危险因素。
+锻炼身体(OR=0. 472,95% CI 0. 370 ~ 0. 604)和食盐量较少(OR = 0. 793,95% CI 0. 662 ~ 0. 949)为保护性
+因素。 结论 血尿酸水平与多种代谢指标有相关性,随着尿酸水平的增加,多种代谢异常聚集的患病风险
+升高,应对危险因素进行综合防控,并注意血尿酸代谢异常所带来的不利影响。
+[关键词]   尿酸; 代谢综合征; 危险因素; 维吾尔族; 聚集
+The relationship of serum uric acid with risk factors of metabolic syndrome in Uygur in Xinjiang Wang
+Tingting*, Ma Qi, Ma Yan, Zhang Bei, Su Yinxia, Wang Zhiqiang, Yao Hua. *Department of Maternal, Child and
+Adolescent Health, School of Public Health, Xinjiang Medical University, Urumqi 830011, China
+[Abstract]  Objective  To analyze the distribution characteristics of blood uric acid and its relationship with
+the risk factors of metabolic syndrome in Uygur. Methods The questionnaire, anthropometric measurements, and
+biochemical detection were carried out in 4 428 healthy Uygur subjects in Xinjiang Urumqi and Kashi hospitals.
+Results (1) The prevalences of hyperuricemia and metabolic syndrome were 21. 3% and 8. 2% , respectively. With
+the increased blood uric acid level, the incidences of coronary heart disease, hyperglycemia, hypertension, central
+obesity,and dyslipidemia were raised. Blood pressure, blood glucose, HBA1C, triglyceride, total cholesterol,
+apolipoprotein A, low density lipoprotein-cholesterol, body mass index (BMI), and waist to hip ratio (WHR) were
+increased with increased uric acid level, while high density lipoprotein-cholesterol was decreased. (2) The incidence
+of hyperuricemia was increased further when the number of metabolic syndrome components was accumulated (P<
+0. 01) . With the increase of uric acid level, the prevalence of metablic syndrome gradually raised (P<0. 01) . (3)
+Multiple logistic regression analysis showed that WHR(OR=7. 639,95% CI 1. 744-33. 466), coronary heart disease
+(OR=2. 784,95% CI 1. 718-4. 510), hyperuricemia(OR= 2. 155,95% CI 1. 457-3. 188), smoking(OR=1. 437,
+95% CI 1. 071-1. 927), family history of metabolic diseases (OR = 1. 333,95% CI 1. 044-1. 703), occupational
+pressure (OR=1. 290,95% CI 1. 021-1. 631), and BMI(OR=1. 146, 95% CI 1. 112-1. 181) were the risk factors of
+metabolic syndrome. Exercise (OR=0. 472, 95% CI 0. 370-0. 604) and low salt diet (OR = 0. 793,95% CI 0. 662-
+0. 949) were the protective factors. Conclusion Serum uric acid level is correlated with a variety of metabolic
+parameters. With the increased uric acid level, the risk of multiple metabolic abnormality was increased.
+Comprehensive prevention and control should be taken for the reduction of the risk factors and much attention should be
+paid to the adverse effects of hyperuricemia.
+[Key words]  Uric acid; Metabolic syndrome; Risk factor; Uygur; Association
+(Chin J Endocrinol Metab, 2014, 30: 755-759)
+近 年 来, 国 内 外 对 代 谢 综 合 征 ( metabolic
+syndrome,MS)的流行病学调查研究比较多,维吾尔族
+MS 的患病率高于新疆的汉族和哈萨克族[1],但是高
+尿酸血症的患病率低于汉族[2]。 维吾尔族是新疆从
+游牧民族较早转为定居农业的民族之一,在生活方式
+和饮食习惯与汉族有一定的区别,体格特征也有一定
+区别,他们至今仍保留着许多游牧民族特有的风俗,有
+高脂肪、高蛋白、低碳水化合物饮食的特点,腹型肥胖
+在成人中较多见,这些都是代谢性疾病的诱因。 对于
+血尿酸水平与 MS 的关系研究报道不一[3,4],提示其在
+不同地区、不同特征、不同环境因素人群中的表现可能
+有差异。 本研究以新疆典型的维吾尔族居民为研究对
+象,通过把尿酸作为一个关注指标,分析尿酸在维吾尔
+族的分布特点和对代谢异常发生的影响,以期为维吾
+尔族居民 MS 的防治提供一定的参考。
+对象和方法
+一、 对象
+选择 2012 年 8 月至 2013 年 8 月在新疆医科大学
+第一附属医院和喀什第一人民医院体检中心体检的维
+吾尔族,年龄 20 ~ 70 岁,共 4 428 名,来自喀什地区
+1 775 名,乌鲁木齐 2 653 名。 其中男性 2 516 名,占
+56. 82% ;女性 1 912 名,占 43. 17% 。 平均年龄(42. 69
+±10. 34)岁,男性(43. 24 ± 10. 76)岁,女性(41. 97 ±
+9. 72)岁,受教育程度高中及以下占 40. 4% ,大专占
+29. 3% ,本科及以上占 30. 3% 。
+二、 方法
+1. 样本及数据收集:(1)问卷调查:采用自行设计
+调查问卷,由经过统一培训的调查员在签订知情同意
+书后进行一对一面访调查。 内容包括一般人口学特
+征、生活方式、饮食习惯、运动状况及相关疾病情况和
+家族史等。 (2)体格检查:由专业人员采用统一标准
+测量身高、体重、腰围、臀围和血压。 (3)实验室检测:
+使用实验室标准执行程序采集血样,生化指标的的测
+定均由新疆医科大学第一附属医院检验科采用日立
+7600 全自动生化分析仪(日本日立公司)进行测定,且
+质控合格。
+2. 诊断标准和相关定义:(1)MS 诊断标准,依据
+2005 年国际糖尿病联盟( IDF)标准[5]。 (2)其他代谢
+性疾病的定义:淤高尿酸血症(HUA):根据 1977 年美
+国风湿协会的诊断标准[6] 定义为:男性≥7 mg / dl
+(416. 4 μmol / L),女性≥6 mg / dl(356. 9 μmol / L)。 于
+高血糖:空腹血糖(FBG)≥6. 1 mmol / L 或已确诊为糖
+尿病者[7]。 盂高血压:收缩压 /舒张压≥140 / 90 mmHg
+(1 mmHg = 0. 133 kPa) 或已确诊为高血压并治疗
+者[7]。 ④血脂紊乱:满足下列任意一项,总胆固醇
+(TC)≥5. 7 mmol / L 或甘油三酯(TG)≥1. 7 mmol / L
+或高密度脂蛋白胆固醇 (HDL-C) < 0. 9 mmol / L[7]。
+(3)危险因素定义:淤吸烟定义为过去吸烟达到 100
+支或现在正在吸烟。 于饮酒定义每天饮白酒、葡萄酒
+(或米酒)、啤酒的量分别达到 50、100 和 300 ml。 盂代
+谢性疾病家族史为亲生父母、子女及亲兄弟姐妹中有
+患高血压、糖尿病、肥胖。 高血压根据县级以上医师的
+诊断或者已经服用降压药,肥胖根据 2002 年中国肥胖
+问题工作组的建议,体重指数(BMI)≥28 kg / m2 者为
+肥胖。 糖尿病根据县级以上医师确诊或者进行药物治
+疗。 ④按具有 MS 组分数目不同分为: MS0、 MS1、
+MS2、MS3、MS4、MS5 组,即分别具有 MS 组分中 1、2、
+3、4、5 个组分。 虞冠心病诊断标准:参照 1997 年世界
+卫生组织冠心病诊断标准,即冠脉造影时左主干、左前
+降支、左回旋支、右冠状动脉或其主要分支血管直径狭
+窄率≥50% 。
+三、 统计学处理
+采用 EpiData 3. 0 建立数据库并进行检查、核对和
+校正;应用 SPSS 17. 0 软件进行方差分析、 字2 检验、多
+因素条件 logistic 回归分析,P<0. 05 为差异有统计学
+意义。
+结    果
+一、 横断面调查人群的基本特征
+研究对象中高尿酸血症、MS 及其危险因素分布见
+表 1。 基线调查时 MS、高血压、高血糖、中心型肥胖、
+HUA、血脂紊乱的现患病率为 21. 3% 、40. 5% 、10% 、
+55. 8% 、8. 2% 、64. 7% ,并随年龄的增加而升高,且男
+性高于女性。 在危险因素中,男性与女性相比,代谢综
+合征、高血糖、高尿酸血症、高血压、中心性肥胖、血脂
+紊乱、吸烟、喝酒、代谢性疾病家族史的差异均有统计
+学意义,男性的比例高于女性。 不同年龄段人群(年
+龄按照三分位数分组)的 HUA 患病率和吸烟率无统
+计学意义,除代谢性疾病家族史和饮酒外,其余的比例
+均随年龄增加而升高,≥46 岁人群的饮酒、吸烟率有
+下降趋势(表 2)。
+二、 尿酸四分位后人群的一般特点
+如表 3 所示,随着尿酸水平的增高,男性所占比例
+表 1  调查对象代谢综合征危险因素患病率的性别差异[n(% )]
+Tab 1  The prevalence of risk factors of metabolic syndrome according to gender of subjects[n(% )]
+组别
+Group
+例数
+n
+代谢综合征
+MS
+高血糖
+Hyperglycemia
+高尿酸血症
+HUA
+高血压
+Hypertension
+中心型肥胖
+Central obesity
+血脂紊乱
+Dyslipidemia
+饮酒
+Drinking
+吸烟
+Smorking
+代谢性疾病家族史
+Metabolic disease
+family history
+男性
+Male 2 516 698(27. 7) 350(13. 9) 286(11. 4) 798(31. 7) 1 476(58. 7) 1 838(73. 1) 866(35. 2) 1 506(59. 9) 1 174(46. 7)
+女性
+Female 1 912 246(12. 9) 90(4. 7)
+a   76(4. 0) 994(52. 0) a 994(52. 0) a 1 028(53. 8) a   34(1. 8) a   20(1. 0) a 1 018(53. 2) a
+合计
+Ttotal 4 428 944(21. 3) 440(10. 0) 362(8. 2) 1 792(40. 5) 2 470(55. 8) 2 866(64. 7) 900(20. 8) 1 526(34. 5) 2 192(49. 5)
+注:MS: Metabolic syndrome;HUA:Hyperuricemia;与男性比较 vs Male,aP<0. 05
+表 2  调查对象代谢综合征危险因素患病率的年龄分布[n(% )]
+Tab 2  The prevalence of risk factors of metabolic syndrome according to age of subjects [n(% )]
+年龄
+(岁)
+Age
+(year)
+例数
+n
+代谢综合征
+MS
+高血糖
+Hyperglycemia
+高尿酸血症
+HUA
+高血压
+hypertension
+中心型肥胖
+Central obesity
+血脂紊乱
+Dyslipidemia
+饮酒
+Drinking
+吸烟
+Smoking
+代谢性疾病家族史
+Metabolic disease
+family history
+≤38 1 476 158(10. 7)   46(3. 2) 112(7. 6) 260(17. 6) 604(40. 9) 754(51. 0) 318(22. 1) 476(32. 2) 758(51. 4)
+38-46 1 476 252(17. 1) a   108(7. 4) a 106(7. 2) 282(19. 1) 882(59. 8) 1 024(69. 5) 336(23. 3) 556(37. 7) 778(52. 8)
+≥46 1 476 534(36. 2) ab  286(19. 5) ab 144(9. 8) b 606(41. 1) ab 984(66. 7) ab 1 088(73. 7) ab 246(16. 9) ab 494(33. 5) 656(44. 4) ab
+注:MS:Metabolic syndrome;HUA:Hyperuricemia;与≤38 岁比较 vs ≤38 years,aP<0. 05;与 38-46 岁比较 vs 38-46 year,bP<0. 05
+表 3  尿酸水平四分位后一般人群特点(x-± s)
+Tab 3  Characteristics of study cohort according to serum uric acid quartile(x-± s)
+组别
+Group
+例数
+n
+SBP
+(mmHg)
+DBP
+(mmHg)
+FPG
+(mmol / L)
+HBA1C
+(mmol / L)
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+Q1   1 106 114 ± 15 74 ± 9 5. 00 ± 1. 19 2. 22 ± 0. 44 2. 57 ± 2. 04 3. 17 ± 1. 81 1. 41 ± 0. 39 2. 66 ± 1. 65
+Q2   1 106 123 ± 17 75 ± 11 5. 20 ± 1. 20 2. 22 ± 0. 42 2. 67 ± 1. 96 3. 56 ± 1. 90 1. 29 ± 0. 31 2. 81 ± 0. 74
+Q3   1 108 128 ± 17 80 ± 10 5. 20 ± 1. 42 2. 22 ± 0. 42 3. 08 ± 2. 14 3. 82 ± 1. 96 1. 20 ± 0. 34 2. 94 ± 0. 76
+Q4   1 108 129 ± 18 82 ± 10 5. 24 ± 1. 37 2. 48 ± 0. 52 3. 48 ± 2. 45 4. 18 ± 1. 87 1. 15 ± 0. 37 3. 09 ± 0. 88
+P 值
+P Value <0. 05 <0. 05 >0. 05 <0. 05 <0. 05 <0. 05 <0. 05 <0. 05
+组别
+Group
+例数
+n
+ApoA
+(g / L)
+ApoB
+(g / L)
+BMI
+(kg / m2)
+WHR
+高血压
+Hypertension
+(% )
+血脂紊乱
+Dyslipidemia
+(% )
+高血糖
+Hyperglycemia
+(% )
+中心型肥胖
+Central obesity
+(% )
+Q1   1 106 1. 36 ± 0. 24 0. 80 ± 0. 16 24. 56 ± 4. 08 0. 86 ± 0. 074 10. 3 51. 7   6. 3 46. 3
+Q2   1 106 1. 19 ± 0. 25 0. 88 ± 0. 41 25. 87 ± 3. 84 0. 89 ± 0. 085 23. 6 59. 6 10. 5 53. 2
+Q3   1 108 1. 24 ± 0. 18 0. 92 ± 0. 26 26. 85 ± 3. 92 0. 91 ± 0. 070 31. 4 68. 2 10. 0 55. 4
+Q4   1 108 1. 28 ± 0. 24 0. 90 ± 0. 22 28. 00 ± 3. 98 0. 93 ± 0. 080 38. 3 79. 4 13. 2 68. 2
+P 值
+P Value <0. 05 >0. 05 <0. 05 <0. 05 <0. 05 <0. 05 <0. 05 <0. 05
+注:Q1:血尿酸 Serum uric acid<214. 76 μmol / L;Q2:血尿酸 Serum uric acid 214. 76 ~ 271. 05 μmol / L;Q3:血尿酸 Serum uric acid 271. 06 ~ 334. 43
+μmol / L;Q4:血尿酸 Serum uric acid>334. 42 μmol / L;SBP:收缩压 Systolic blood pressure;1 mmHg=0. 133 kPa;DBP:舒张压 Diastolic blood pressure;FPG:
+空腹血糖 Fasting plasma glucose;TC:总胆固醇 Total cholesterol; TG:甘油三酯 Triglyceride;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-
+cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;Apo:载脂蛋白 Apolipoprotein; BMI:体重指数 Body mass index;WHR:腰臀比
+Waist to hip ratio
+也逐渐增高,在尿酸 Q4 组最高达到 91. 30% 。 并且高
+中及以下教育、吸烟者和饮酒者也呈上升趋势。 患有
+冠心病、高血糖、高血压、中心型肥胖、血脂紊乱人群所
+占比例随之升高。 收缩压、舒张压、 FBG、HBA1C、 TG、
+TC、载脂蛋白 A、低密度脂蛋白胆固醇、BMI 和腰臀比
+随着尿酸水平的增高,逐渐增高。 HDL-C 逐渐降低。
+方差分析显示各组间增幅差异均具有统计学意义(P<
+0. 05,表 3)。
+三、 血尿酸与 MS 及其组分的关系
+代谢性疾病组分累计后 HUA 检出率,MS0 组为
+1. 57% (14 / 890),MS1 组为 6. 6% (70 / 1058),MS2 组
+为 7. 0% (100 / 1 426),MS3 组为 14. 0% (110 / 786),
+MS4 组为 21. 9% (50 / 28),MS5 组为 45. 0% (18 / 40),
+与 MS0 组相比,HUA 患病率随着代谢紊乱组分的累积
+而呈现检出率增高的现象(P<0. 05)。 当聚集所有 MS
+组分(MS5)时 HUA 的检出率为 45. 0% ,且各组分间
+的 HUA 差异具有统计学意义(P<0. 05)。
+尿酸四分位分组后可以看出随着尿酸浓度的升
+高,MS 的检出率也呈现逐渐增高,分别为 17. 7%
+(196 / 1 106)、26. 9% (298 / 1 108)、30. 1% (334 / 1 108)
+和 51. 7% (572 / 1 106)。 统计检验提示各组间的 MS
+检出率均具有差异(字2 =317. 99,P<0. 01)。
+四、 MS 危险因素的多元 logistic 回归分析
+Logistic 多元回归分析显示,校正了年龄、性别、受
+教育程度、来源地、月收入影响后,MS 危险因素 OR 值
+由高到低依次为:腰臀比 7. 639 (95% CI 1. 744 ~
+33. 466)、冠心病 2. 784(95% CI 1. 718 ~ 4. 510)、尿酸
+高 2. 155(95% CI 1. 457 ~ 3. 188)。 以尿酸第 4 分位为
+对照,尿酸第 1、2、3 分位患 MS 风险的 OR 值分别为
+0. 347(95% CI 0. 225 ~ 0. 535)、0. 515(95% CI 0. 370 ~
+0. 780)、0. 569(95% CI 0. 410 ~ 0. 789),尿酸低者为保
+护性因素。 吸烟患 MS 的风险 OR 值为 1. 437(95% CI
+1. 071 ~ 1. 927);代谢性疾病家族史患 MS 风险的 OR
+值为 1. 333(95% CI 1. 044 ~ 1. 703),有工作压力患 MS
+风险的 OR 值为 1. 290(95% CI 1. 021 ~ 1. 631);BMI
+的 OR 值为 1. 146(95% CI 1. 112 ~ 1. 181)。 锻炼身体
+(OR= 0. 472,95% CI 0. 370 ~ 0. 604)和食盐量较少
+(OR=0. 793,95% CI 0. 662 ~ 0. 949)为保护性因素。
+未进入模型的变量为喝酒 ( OR = 0. 958, 95% CI
+0. 781 ~ 1. 173)、 喜 欢 吃 肉 ( OR = 0. 982, 95% CI
+0. 690 ~ 1. 398)、豆制品(OR = 1. 058,95% CI 0. 834 ~
+1. 342)。
+讨    论
+Masuo 等[8]对 433 名男性进行 5 年随访后发现相
+对较高的尿酸水平可预测随后的体重增加。 HUA 是
+体重增加或肥胖的预测因子。 而本研究与之结果相
+似,随着尿酸水平的升高,BMI 和腰臀比逐渐升高。 这
+证实了中国新疆维吾尔族人群同样存在血尿酸与体重
+之间的密切联系。 男性腰围的变化是尿酸水平变化的
+预测因子。 减轻体重可作为非药物治疗的有效方法来
+降低尿酸水平[9]。
+此外,本研究显示随着尿酸的升高冠心病异常比
+例明显升高,可能与升高的血尿酸常伴随体内多种代
+谢指标的紊乱有关。 而这些代谢紊乱的发生或尿酸微
+结晶的析出可作用于血管内皮引起血管损害[10],最终
+导致了心脑血管疾病患病风险的升高。 很多研
+究[11,12]已证实 HUA 往往与高甘油三酯血症、肥胖、高
+血压、高血糖等 MS 组分伴随出现,这和本研究结果是
+一致的。 本调查表明,随着尿酸水平的增高,血压也随
+之升高,一项研究认为尿酸水平升高是发生高血压和
+血压长期变化的独立预测因素支持了本研究结果[13]。
+HUA 引起高血压机制目前尚不十分明确,目前主要考
+虑与肾素-血管紧张素-醛固酮系统的激活、免疫炎性
+反应以及胰岛素抵抗有关。 本研究中尿酸和血糖关系
+密切,据报道尿酸在 2 型糖尿病中与胰岛素抵抗有关,
+而 HUA 通常还早先于高胰岛素血症或 2 型糖尿病发
+生,与 2 型糖尿病的发病正相关[14-16]。
+对数据进一步分析显示随着 MS 组分的累积,
+HUA 的患病率呈现上升特点。 说明尿酸与MS 及其组
+分之间密切相关。 尿酸在 MS 中的作用最强有力的证
+据来自动物实验,动物实验表明,降低尿酸可预防或逆
+转MS 的特征[17-19]。 虽然目前 HUA 与MS 各组分间相
+关的机制还有待进一步明确,但 Onat 等[20] 研究提示,
+血尿酸每增加 1 个标准差,MS 患病率增加 35% 。 目
+前对于尿酸与 MS 之间研究集中在胰岛素抵抗(IR)这
+一中心环节[9,21]。 学者们认为 MS 的病理生理基础是
+高胰岛素血症和 IR。 MS 和 HUA 之间以 IR 为中心环
+节相互作用又相互影响。
+对于 MS 的危险因素分析,吸烟的风险与韦亚
+林[22]等报道的吸烟比不吸烟者患 MS 的 OR 值为
+1. 698(95% CI 1. 129 ~ 2. 553)基本一致。 吸烟可导致
+血儿茶酚胺、皮质醇、生长素等激素水平增高,从而增
+加胰岛素抵抗[23]。 Canoy 等[24] 研究吸烟可加重腹部
+脂肪的堆积,而中心型肥胖是 MS 的核心,本研究中腰
+臀比的 OR 值达到 7. 639(95% CI 1. 744 ~ 33. 466)。
+多元 logistic 回归分析表明代谢危险因素家族史是代
+谢性疾病的危险因素,这也进一步证实了多代谢紊乱
+中遗传的作用。 盐的摄入过高,为高血压的公认危险
+因子,而 MS 可增强血压对食盐摄入的敏感性。 多项
+研究显示,劳动强度低、运动量少促进了 MS 的发生和
+发展[25,26]。 这提示运动量少是 MS 各组分的共同危险
+因素,情绪压抑、性格易怒者 MS 的患病几率增加[27]。
+新疆维吾尔自治区处于中国内陆且离海最远,并
+且经济欠发达,本调查表明的维吾尔族大部分居民都
+是面食摄入比较多,多食牛羊肉,少食蔬菜,几乎不摄
+入海产品,这也导致腹型肥胖者居多,虽然 HUA 的患
+病率不高,但代谢性疾病的聚集严重和尿酸相关。
+尿酸在人体内的利害关系也是争议的热点,尿酸
+与机体的抗氧化能力有关,一定水平的血尿酸可以减
+弱有毒代谢产物对细胞的毒性,保护细胞,低血尿酸则
+可能引起部分疾病,如一些神经性疾病[28],目前,尿酸
+与多种疾病独立相关,可以作为多种代谢紊乱的标志
+物及预测因子,然而,血尿酸是作为疾病伴随的代谢产
+物还是促进疾病发生发展的危险因素仍不明确,以血
+尿酸水平作为治疗的靶点对改善 MS 或其各个组分的
+作用,仍亟待大量的实验和研究证实。

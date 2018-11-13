@@ -1,0 +1,357 @@
+T1	Test 6353 6359	游离甲状腺素
+T2	Disease 4728 4733	缺血性卒中
+T3	Disease 4759 4764	缺血性卒中
+T4	Disease 4837 4842	缺血性卒中
+T5	Test 5919 5922	TSH
+T6	Test 5958 5961	TSH
+T7	Test 5925 5928	FT4
+T8	Test 6361 6364	FT4
+T9	Test 6377 6380	FT4
+T10	Test 5931 5934	TT4
+T11	Disease 6056 6061	心血管疾病
+T12	Drug 6264 6269	糖皮质激素
+T13	Anatomy 332 341	GH-IGF-I轴
+T14	Test 1729 1734	IGF-I
+T15	Anatomy 2198 2203	IGF-I
+T16	Test 2283 2288	IGF-I
+T17	Test 6114 6119	IGF-I
+T18	Test 6173 6178	IGF-I
+T19	Test 3102 3105	骨密度
+T20	Test 6044 6047	骨密度
+T21	Anatomy 31 39	下丘脑-垂体前叶
+T22	Anatomy 64 68;69 71	下丘脑- 垂体
+T23	Anatomy 110 120	CRH-ACTH 轴
+T24	Anatomy 132 136	垂体前叶
+T25	Anatomy 183 191	下丘脑-垂体前叶
+T26	Anatomy 254 258	垂体前叶
+T27	Anatomy 344 354	CRH-ACTH 轴
+T28	Anatomy 1845 1853	下丘脑-垂体前叶
+T29	Anatomy 1872 1878	垂体前叶细胞
+T30	Anatomy 1997 1999	GH
+T31	Anatomy 2008 2013	GH 细胞
+T32	Anatomy 2073 2076	下丘脑
+T33	Anatomy 2077 2080	胃肠道
+T34	Anatomy 2100 2104	GHRH
+T35	Anatomy 2106 2110	生长抑素
+T36	Anatomy 2111 2113	SS
+T37	Anatomy 2118 2126	垂体 GH 细胞
+T38	Anatomy 2133 2135	GH
+T39	Anatomy 2140 2143	胃肠道
+T40	Anatomy 2146 2152	胃促生长激素
+T41	Anatomy 2167 2169	GH
+T42	Anatomy 2175 2177	GH
+T43	Anatomy 2189 2191	肝脏
+T44	Test_Value 2221 2223	升高
+T45	Anatomy 2229 2230;2231 2232	垂 体
+T46	Anatomy 2251 2253	垂体
+T47	Test 2278 2280	GH
+T48	Anatomy 2353 2356	下丘脑
+T49	Anatomy 2369 2377	垂体 GH 细胞
+T50	Anatomy 2379 2383	GHRH
+T51	Anatomy 2496 2505	GH-IGF-I轴
+T52	Test_Value 2614 2616	降低
+T53	Drug 2775 2779	rhGH
+T54	Drug 2766 2773	重组人生长激素
+T55	Drug 2791 2794	性激素
+T56	Drug 2808 2812	rhGH
+T57	Drug 2838 2842	rhGH
+T58	Drug 2844 2847	性激素
+T59	Drug 2890 2894	rhGH
+T60	SideEff 2909 2911	水肿
+T61	SideEff 2912 2917	腕管综合征
+T62	SideEff 2918 2921	关节痛
+T63	Drug 3005 3009	rhGH
+T64	Drug 3054 3056	GH
+T65	Drug 3122 3126	rhGH
+T66	Drug 3074 3078	rhGH
+T67	Test 3089 3090;3091 3093	肌 肉量
+T68	Test 3096 3099	体脂量
+T69	Test 3106 3108	血脂
+T70	SideEff 3135 3137	水肿
+T71	SideEff 3138 3141	关节痛
+T72	SideEff 3142 3147	腕管综合征
+T73	SideEff 3148 3152;3153 3155	男性乳房 增生
+T74	Test_Value 3170 3172	上升
+T75	Drug 3195 3199	rhGH
+T76	Disease 3313 3319	GH 缺乏症
+T77	Anatomy 3337 3348	下丘脑-垂体-肾上腺轴
+T78	Anatomy 3349 3352	HPA
+T79	Anatomy 3359 3364;3365 3370	促肾上腺皮 质释放激素
+T80	Anatomy 3371 3374	CRH
+T81	Anatomy 3392 3394;3395 3399	垂体 门脉系统
+T82	Anatomy 3401 3405	垂体前叶
+T83	Anatomy 3409 3413	ACTH
+T84	Test_Value 3426 3428	增高
+T85	Anatomy 3431 3436	肾上腺皮质
+T86	Anatomy 3494 3499	HPA 轴
+T87	Anatomy 3523 3528	HPA 轴
+T88	Anatomy 3547 3552	HPA 轴
+T89	Anatomy 3581 3586	HPA 轴
+T90	Anatomy 3596 3601	HPA 轴
+T91	Anatomy 3668 3673	HPA 轴
+T92	Test_Value 3690 3692	升高
+T93	Anatomy 3695 3700	HPA 轴
+T94	Test 3740 3744	血皮质醇
+T95	Test 3762 3773	24 h 平均血皮质醇
+T96	Anatomy 3847 3852	HPA 轴
+T97	Anatomy 3916 3921	HPA 轴
+T98	Anatomy 3902 3908	海马神经细胞
+T99	Anatomy 3972 3977	海马区细胞
+T100	Anatomy 3996 4001	HPA 轴
+T101	Anatomy 4024 4028	神经细胞
+T102	Anatomy 4034 4039	HPA 轴
+T103	Anatomy 4054 4059	HPA 轴
+T104	Anatomy 4076 4081	HPA 轴
+T105	Disease 4128 4130	抑郁
+T106	Disease 4131 4133	焦虑
+T107	Anatomy 4220 4225	HPA 轴
+T108	Anatomy 4246 4251	HPA 轴
+T109	Disease 4561 4564;4565 4570	垂体前 叶功能减退
+T110	Disease 4580 4584	垂体肿瘤
+T111	Reason 4600 4604	血压升高
+T112	Reason 4605 4609	抗凝治疗
+T113	Reason 4610 4612	外伤
+T114	Disease 4616 4620	垂体肿瘤
+T115	Reason 4625 4629	缺血梗死
+T116	Reason 4630 4632	出血
+T117	Anatomy 4645 4648	视交叉
+T118	Symptom 4662 4664	头痛
+T119	Symptom 4665 4671	视力迅速下降
+T120	Symptom 4673 4676;4677 4679	眼外肌 麻痹
+T121	Disease 4688 4694	缺血性脑卒中
+T122	Disease 4697 4705	垂体前叶功能减退
+T123	Disease 4750 4758	垂体前叶功能减退
+T124	Disease 4483 4487	垂体肿瘤
+T125	Disease 4333 4341	垂体前叶功能减退
+T126	Disease 4302 4310	垂体前叶功能减退
+T127	Test 3782 3786;3787 3792	午夜血皮 质醇最低值
+T128	Symptom 4855 4859	全身不适
+T129	Disease 4917 4925	垂体前叶功能减退
+T130	Symptom 4998 5002	全身不适
+T131	Symptom 5003 5005	乏力
+T132	Symptom 5006 5009	精神差
+T133	Symptom 5010 5011;5012 5015	情 绪障碍
+T134	Symptom 5016 5020	食欲下降
+T135	Symptom 5086 5088	疲乏
+T136	Symptom 5089 5093	全身无力
+T137	Symptom 5094 5096	纳差
+T138	Symptom 5097 5101;5102 5105	肌肉及关 节疼痛
+T139	Symptom 5112 5116	抑郁障碍
+T140	Disease 5135 5147	继发性肾上腺皮质功能减退
+T141	Disease 5148 5159;5160 5161	原发性肾上腺皮质功能减 退
+T142	Test_Value 5180 5182	降低
+T143	Anatomy 5201 5215	肾素-血管紧张素-醛固酮系统
+T144	Test_Value 5244 5246	降低
+T145	Disease 5296 5303	稀释性低钠血症
+T146	Symptom 5333 5337	全身不适
+T147	Disease 5354 5366	垂体 ACTH 分泌不足
+T148	Anatomy 5391 5400	GH-IGF-I轴
+T149	Test 5469 5471;5472 5474	血皮 质醇
+T150	Test_Value 5493 5507	低于 83 nmol / L
+T151	Test_Value 5517 5519	降低
+T152	Disease 5531 5540	ACTH 分泌不足
+T153	Test_Value 5559 5576	83 ~ 497 nmol / L
+T154	Test 5626 5636	胰岛素低血糖刺激试验
+T155	Symptom 5683 5685	乏力
+T156	Symptom 5686 5688	怕冷
+T157	Symptom 5689 5694	记忆力下降
+T158	Symptom 5695 5697	便秘
+T159	Symptom 5698 5702	体重增加
+T160	Disease 5807 5811	鞍区占位
+T161	Disease 5846 5849;5850 5851	低钠血 症
+T162	Disease 5852 5865	不适当 ADH 分泌综合征
+T163	Disease 5882 5888	大细胞性贫血
+T164	Disease 5902 5908;5909 5912	持续性高胆固 醇血症
+T165	Test_Value 5952 5956	低于正常
+T166	Test_Value 5972 5976	轻度升高
+T167	Test_Value 5977 5980;5981 5987	<10 mU / L
+T168	Test 6032 6035	肌肉量
+T169	Test 6038 6041	脂肪量
+T170	Anatomy 6070 6072	GH
+T171	Disease 6087 6095	垂体前叶功能减退
+T172	Anatomy 6123 6132	GH-IGF-I轴
+T173	Anatomy 6153 6162	GH-IGF-I轴
+T174	Disease 6208 6216	垂体前叶功能减退
+T175	Drug 6279 6284	甲状腺激素
+T176	Disease 6294 6299	肾上腺危象
+T177	Drug 6301 6305	甲状腺素
+T178	Amount 6321 6341	6. 25 ~ 12. 5 μg / d
+T179	Drug 6434 6436	GH
+T180	Drug 6444 6446	GH
+T181	Test 2153 2160	Ghrelin
+T182	Test 2254 2256	GH
+T183	Test_Value 2292 2294	降低
+T184	Test_Value 2334 2340	下降 14%
+T185	Test_Value 2365 2367	减少
+T186	Test 2417 2420	性激素
+T187	Test_Value 2422 2424	下降
+T188	Disease 2433 2437	营养不良
+T189	Symptom 2446 2454	夜间睡眠时间缩短
+T190	Symptom 2455 2462	日间活动量减少
+T191	Duration 3064 3068	27 周
+T192	Disease 5316 5320	普通感冒
+T193	Operation 5812 5816	鞍区手术
+T194	Duration 6345 6348	4 周
+T195	Anatomy 3 11	下丘脑-垂体前叶
+T196	Anatomy 2004 2006	垂体
+T197	Test 2090 2096;2097 2099	生长激素释放 激素
+T198	Anatomy 2542 2545	骨骼肌
+T199	Test 2824 2827	体脂量
+T200	Test 2830 2834;2835 2837	非脂肪体 质量
+T201	Test_Value 2816 2818	减少
+T202	Test_Value 2828 2830	增加
+T203	Test 2860 2864	肌肉力度
+T204	Test 2876 2878	肌力
+T205	Test 2879 2883	运动耐力
+T206	Test_Value 3451 3453	升高
+T207	Symptom 3562 3566	应激反应
+T208	Symptom 3714 3716	应激
+T209	Symptom 3745 3749	应激反应
+T210	Test_Value 3897 3899	升高
+T211	Test_Value 3962 3964	升高
+T212	Anatomy 4021 4023	海马
+T213	Disease 4007 4015;4016 4018	老龄相关的记忆力 障碍
+T214	Symptom 4066 4070	应激反应
+T215	Disease 4121 4122;4123 4126	情 绪障碍
+T216	Test 4184 4190	非脂肪体质量
+T217	Test_Value 4190 4192	减少
+T218	Test 4176 4180	腹腔脂肪
+T219	Test_Value 4180 4181;4182 4183	增 加
+T220	Disease 4352 4354;4355 4361	垂体 前叶功能减退
+T221	Anatomy 4720 4724	脑前循环
+T222	Anatomy 4725 4728	后循环
+T223	Symptom 4777 4785	单项垂体激素不足
+T224	Symptom 4794 4798;4799 4803	多项垂体 激素不足
+T225	Disease 4634 4636	肿瘤
+T226	Test 5073 5079	血皮质醇水平
+T227	Test_Value 5079 5081	降低
+T228	Symptom 5225 5230	血容量不足
+T229	Symptom 5231 5235	高钾血症
+T230	Test 5587 5591	刺激试验
+T231	Disease 5728 5732;5733 5737	垂体前叶 激素不足
+T232	Test_Value 5968 5970	正常
+T233	Test_Value 6035 6037	减少
+T234	Test_Value 6041 6043	增加
+T235	Symptom 6048 6049;6050 6053	体 质虚弱
+T236	Disease 5664 5671	甲状腺功能低下
+T237	Test 1912 1915	TSH
+T238	Disease 5642 5650	TSH 分泌不足
+T239	Reason 5651 5662	垂体 TSH 分泌不足
+T240	Disease 5752 5760	TSH 分泌不足
+T241	Disease 5993 6001	TSH 分泌不足
+T242	Test 6252 6255	TSH
+T243	Anatomy 96 101	IGF-I
+T244	Test 1985 1990	IGF-I
+T245	Test 2214 2219	IGF-I
+T246	Test 3164 3166	血糖
+T247	Anatomy 82 84	GH
+T248	Anatomy 77 81	生长激素
+T249	Anatomy 86 95	胰岛素样生长因子I
+T250	Reason 156 160	鞍区肿瘤
+T251	Disease 170 172;173 179	垂体 前叶功能受损
+T252	Disease 280 288	垂体前叶功能低下
+T253	Reason 161 163	缺血
+T254	Reason 164 167	纤维化
+T255	Disease 372 380	垂体前叶功能减退
+T256	Test 1881 1885	生长激素
+T257	Test 1886 1888	GH
+T258	Test 1891 1899	促肾上腺皮质激素
+T259	Test 1900 1904	ACTH
+T260	Test 1906 1911	促甲状腺素
+T261	Test 1936 1938	GH
+T262	Test 1941 1945	ACTH
+T263	Test 1972 1984	GH-胰岛素样生长因子I
+T264	Test 2233 2235	GH
+T265	Test 2320 2322	GH
+T266	Test 2360 2364	GHRH
+T267	Test 2397 2399	GH
+T268	Symptom 2438 2439;2440 2445	腹 腔脂肪增多
+T269	Test 2472 2477	GH 水平
+T270	Reason 2579 2584	GH 不足
+T271	Disease 2592 2594;2595 2597	睡眠 障碍
+T272	Disease 2599 2605	认知功能下降
+T273	Test 2609 2611	GH
+T274	Test 2631 2633	GH
+T275	Drug 2656 2662	重组人 GH
+T276	Disease 2926 2929	糖尿病
+T277	Disease 2930 2935	糖耐量受损
+T278	Disease 3187 3192	GH 不足
+T279	Test 3226 3228	GH
+T280	Test 3238 3240	GH
+T281	Drug 3263 3265	GH
+T282	Drug 3300 3302	GH
+T283	Anatomy 3378 3384	下丘脑室旁核
+T284	Anatomy 3384 3388	神经细胞
+T285	Test 3417 3423	血 ACTH
+T286	Test 3438 3441	皮质醇
+T287	Test 3445 3449	血皮质醇
+T288	Test 3461 3464	CRH
+T289	Test 3467 3471	ACTH
+T290	Test 3480 3484	血皮质醇
+T291	Test 3682 3688	基础血皮质醇
+T292	Test 3728 3733	血浆皮质醇
+T293	Drug 3818 3826	外源性 ACTH
+T294	Anatomy 3859 3864	大脑海马区
+T295	Anatomy 3864 3866;3867 3869	神经 细胞
+T296	Test 3891 3894	皮质醇
+T297	Test 3956 3960	血皮质醇
+T298	Anatomy 4105 4110	HPA 轴
+T299	Symptom 4135 4140	记忆力下降
+T300	Symptom 4141 4147	神经功能退化
+T301	Symptom 4148 4152;4153 4154	骨密度降 低
+T302	Symptom 4155 4164	免疫与代谢功能异常
+T303	Anatomy 4197 4202	HPA 轴
+T304	Reason 4380 4382;4383 4386	垂体 大腺瘤
+T305	Reason 4387 4395	垂体周围肿瘤压迫
+T306	Reason 4409 4410;4411 4414	垂 体手术
+T307	Reason 4415 4419	放射治疗
+T308	Reason 4421 4428	垂体浸润性病变
+T309	Reason 4430 4438	淋巴细胞性垂体炎
+T310	Reason 4474 4478	催乳素瘤
+T311	Reason 4510 4516	无功能性肿瘤
+T312	Reason 4531 4535	GH 瘤
+T313	Reason 4537 4541	催乳素瘤
+T314	Reason 4555 4560	垂体瘤卒中
+T315	Operation 4591 4592;4593 4598	冠 脉搭桥手术
+T316	Anatomy 4650 4652	鞍区
+T317	Disease 4451 4459	垂体前叶功能减退
+T318	Disease 4499 4503	垂体肿瘤
+T319	Test 3813 3814;3815 3817	皮 质醇
+T320	Anatomy 3570 3577	海马区神经细胞
+T321	Disease 4808 4821	GH-IGF-I轴功能减退
+T322	Symptom 4860 4862	乏力
+T323	Symptom 4863 4865	纳差
+T324	Symptom 4871 4875	低钠血症
+T325	Symptom 4876 4879	低血糖
+T326	Test 4886 4890;4891 4893	垂体前叶 功能
+T327	Disease 5054 5063	ACTH 分泌不足
+T328	Test 5123 5127	ACTH
+T329	Test_Value 5130 5132	减少
+T330	Test 5173 5177	ACTH
+T331	Symptom 5185 5190;5191 5192	皮肤色素减 退
+T332	Test 5238 5242	血皮质醇
+T333	Test 5261 5264	CRH
+T334	Test 5267 5270	ADH
+T335	Test 5278 5281	ADH
+T336	Anatomy 5247 5248;5249 5258	下 丘脑室旁核神经细胞
+T337	Disease 5343 5350	稀释性低钠血症
+T338	Disease 5408 5415	ACTH 不足
+T339	Disease 5416 5420	低血糖症
+T340	Disease 5432 5441	ACTH 分泌不足
+T341	Test 5476 5480	ACTH
+T342	Test 5487 5491	血皮质醇
+T343	Test 5510 5514	ACTH
+T344	Test 5550 5554	血皮质醇
+T345	Disease 5606 5612;5613 5615	缺血性心血管 疾病
+T346	Disease 5827 5835	垂体前叶激素缺乏
+T347	Test 5871 5873	肌酶
+T348	Test_Value 5873 5875	升高
+T349	Disease 5894 5901	心包或胸腔积液
+T350	Test 5948 5950	T4
+T351	Test_Value 5964 5966	降低
+T352	Disease 6006 6013	GH 分泌不足
+T353	Disease 6020 6027	GH 分泌不足
+T354	Test 6245 6249	ACTH
+T355	Disease 6407 6415	垂体前叶功能减退
+T356	Test 6416 6418	GH
+T357	Reason 4396 4405	垂体内分泌细胞毁损

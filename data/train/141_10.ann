@@ -1,0 +1,323 @@
+T1	Disease 5630 5636	2 型糖尿病
+T2	Test 2024 2029	HDL-C
+T3	Test 2549 2554	HDL-C
+T4	Test 4248 4253	HDL-C
+T5	Test 4526 4531	HDL-C
+T6	Test 5200 5205	HDL-C
+T7	Test 5914 5919	HDL-C
+T8	Test 2042 2047	LDL-C
+T9	Test 4254 4259	LDL-C
+T10	Test 5126 5131	LDL-C
+T11	Test 1985 1989	空腹血糖
+T12	Test 2345 2349	空腹血糖
+T13	Test 2965 2969	空腹血糖
+T14	Test 2396 2400	2hPG
+T15	Test 1990 1993	FPG
+T16	Test 2350 2353	FPG
+T17	Test 2852 2855	FPG
+T18	Test 4238 4241	FPG
+T19	Test 4522 4525	FPG
+T20	Test 5196 5199	FPG
+T21	Test 2001 2003	TC
+T22	Test 2647 2649	TC
+T23	Test 4242 4244	TC
+T24	Test 5120 5122	TC
+T25	Test 5884 5886	TC
+T26	Test 2010 2012	TG
+T27	Test 2514 2516	TG
+T28	Test 2621 2623	TG
+T29	Test 4245 4247	TG
+T30	Test 4460 4462	TG
+T31	Test 5123 5125	TG
+T32	Test 5161 5163	TG
+T33	Test 5887 5889	TG
+T34	Test 2014 2023	高密度脂蛋白胆固醇
+T35	Test 3207 3213;3214 3217	高密度脂蛋白 胆固醇
+T36	Test 2032 2041	低密度脂蛋白胆固醇
+T37	Test 3229 3235;3236 3239	低密度脂蛋白 胆固醇
+T38	Test 2060 2065	谷丙转氨酶
+T39	Test 3267 3272	谷丙转氨酶
+T40	Test 2049 2054	谷草转氨酶
+T41	Test 3281 3286	谷草转氨酶
+T42	Test 1995 1996;1997 2000	总 胆固醇
+T43	Test 2981 2985	总胆固醇
+T44	Test 1868 1872	体重指数
+T45	Test 2928 2932	体重指数
+T46	Test 2449 2452	收缩压
+T47	Test 2943 2946	收缩压
+T48	Test 4229 4232	收缩压
+T49	Test 4452 4455	收缩压
+T50	Test 5112 5115	收缩压
+T51	Test 5153 5156	收缩压
+T52	Test 2454 2455;2456 2458	舒 张压
+T53	Test 2954 2957	舒张压
+T54	Test 4456 4459	舒张压
+T55	Test 5116 5119	舒张压
+T56	Test 5157 5160	舒张压
+T57	Test 2055 2058	AST
+T58	Test 4263 4266	AST
+T59	Test 4532 4535	AST
+T60	Test 5207 5210	AST
+T61	Test 5890 5893	AST
+T62	Test 2067 2070	ALT
+T63	Test 4267 4270	ALT
+T64	Test 4536 4539	ALT
+T65	Test 5211 5214	ALT
+T66	Test 5894 5897	ALT
+T67	Test 2086 2088	尿酸
+T68	Test 3253 3255	尿酸
+T69	Disease 43 48	代谢综合征
+T70	Disease 225 230	代谢综合征
+T71	Disease 294 299	代谢综合征
+T72	Disease 336 341	代谢综合征
+T73	Disease 1568 1573	代谢综合征
+T74	Disease 1643 1648	代谢综合征
+T75	Disease 2252 2257	代谢综合征
+T76	Disease 2274 2279	代谢综合征
+T77	Disease 2783 2788	代谢综合征
+T78	Disease 3602 3607	代谢综合征
+T79	Disease 3643 3648	代谢综合征
+T80	Disease 3880 3885	代谢综合征
+T81	Disease 4799 4804	代谢综合征
+T82	Disease 4817 4822	代谢综合征
+T83	Disease 4875 4880	代谢综合征
+T84	Disease 4893 4898	代谢综合征
+T85	Disease 5728 5733	代谢综合征
+T86	Disease 5838 5843	代谢综合征
+T87	Disease 5950 5951;5952 5956	代 谢综合征
+T88	Disease 6024 6029	代谢综合征
+T89	Disease 6082 6087	代谢综合征
+T90	Disease 4636 4641	糖尿病前期
+T91	Disease 4696 4701	糖尿病前期
+T92	Disease 5607 5612	糖尿病前期
+T93	Test 2079 2082	GGT
+T94	Test 4271 4274	GGT
+T95	Test 4466 4469	GGT
+T96	Test 5136 5139	GGT
+T97	Test 5167 5170	GGT
+T98	Test 5898 5901	GGT
+T99	Test 1873 1876	BMI
+T100	Test 2322 2325	BMI
+T101	Test 4225 4228	BMI
+T102	Test 4448 4451	BMI
+T103	Test 5057 5060	BMI
+T104	Test 5108 5111	BMI
+T105	Test 5149 5152	BMI
+T106	Test 2089 2091	UA
+T107	Test 4260 4262	UA
+T108	Test 4463 4465	UA
+T109	Test 5132 5134	UA
+T110	Test 5164 5166	UA
+T111	Test 1842 1844	身高
+T112	Test 1848 1850	体重
+T113	Disease 36 42	胰腺脂肪浸润
+T114	Disease 140 146	胰腺脂肪浸润
+T115	Disease 174 180	胰腺脂肪浸润
+T116	Disease 217 220;221 224	胰腺脂 肪浸润
+T117	Disease 286 289;290 293	胰腺脂 肪浸润
+T118	Anatomy 1461 1465	皮下脂肪
+T119	Anatomy 1468 1472	内脏脂肪
+T120	Anatomy 1476 1478	肝脏
+T121	Anatomy 1479 1481	胰腺
+T122	Anatomy 1482 1484	心脏
+T123	Anatomy 1485 1486;1487 1489	骨 骼肌
+T124	Disease 1500 1502	肥胖
+T125	Disease 1503 1508	胰岛素抵抗
+T126	Disease 1518 1519;1520 1525	脂 肪异位沉积
+T127	Disease 1529 1532	脂肪肝
+T128	Disease 1535 1537	肥胖
+T129	Disease 1538 1542	血脂异常
+T130	Disease 1543 1548	胰岛素抵抗
+T131	Disease 1559 1562	糖尿病
+T132	Anatomy 1594 1596	胰腺
+T133	Disease 1598 1604	胰腺脂肪浸润
+T134	Disease 1628 1634	胰腺脂肪浸润
+T135	Test 1856 1858	血压
+T136	Test 2072 2078	谷氨酰转肽酶
+T137	Test 2152 2158	腹部超声检查
+T138	Disease 2171 2174	脂肪肝
+T139	Disease 2201 2207	胰腺脂肪浸润
+T140	Disease 2266 2269	糖尿病
+T141	Disease 2312 2314	超重
+T142	Disease 2318 2320	肥胖
+T143	Disease 2436 2439	糖尿病
+T144	Disease 2499 2501;2502 2503	高血 压
+T145	Disease 2341 2344	高血糖
+T146	Disease 2639 2646	高 TG 血症
+T147	Disease 2666 2673	高 TC 血症
+T148	Disease 2705 2709;2710 2712	胰腺脂肪 浸润
+T149	Disease 2761 2767	胰腺脂肪浸润
+T150	Disease 2776 2782	胰腺脂肪浸润
+T151	Test 3191 3195	三酰甘油
+T152	Disease 4212 4218	胰腺脂肪浸润
+T153	Test 4233 4235;4236 4237	舒张 压
+T154	Disease 4277 4279;4280 4284	胰腺 脂肪浸润
+T155	Disease 4313 4319	胰腺脂肪浸润
+T156	Disease 4320 4323	脂肪肝
+T157	Disease 4331 4337	胰腺脂肪浸润
+T158	Disease 4342 4345	脂肪肝
+T159	Disease 4611 4617	胰腺脂肪浸润
+T160	Disease 4642 4645	糖尿病
+T161	Disease 4646 4649	脂肪肝
+T162	Disease 4650 4654;4655 4657	高 TC 血症
+T163	Disease 4658 4665	高 TG 血症
+T164	Disease 4689 4691	超重
+T165	Disease 4693 4695	肥胖
+T166	Disease 4702 4705	糖尿病
+T167	Disease 4706 4709	脂肪肝
+T168	Disease 4710 4717	高 TG 血症
+T169	Disease 4742 4748	胰腺脂肪浸润
+T170	Disease 4792 4798	胰腺脂肪浸润
+T171	Disease 4805 4811	胰腺脂肪浸润
+T172	Disease 4841 4847	胰腺脂肪浸润
+T173	Disease 4866 4872	胰腺脂肪浸润
+T174	Disease 4906 4908	超重
+T175	Disease 4909 4911	肥胖
+T176	Disease 4912 4915	高血压
+T177	Disease 4958 4964	胰腺脂肪浸润
+T178	Disease 5047 5053	胰腺脂肪浸润
+T179	Disease 5061 5064	高血压
+T180	Disease 5065 5068	高血糖
+T181	Disease 5070 5074	血脂异常
+T182	Disease 5075 5079	代谢异常
+T183	Disease 5092 5095	脂肪肝
+T184	Disease 5096 5098;5099 5103	胰腺 脂肪浸润
+T185	Disease 5216 5219	脂肪肝
+T186	Test 5239 5241	血糖
+T187	Disease 5266 5272	胰腺脂肪浸润
+T188	Test 5277 5280	胰岛素
+T189	Test 5288 5290	血糖
+T190	Disease 5305 5311	胰腺脂肪浸润
+T191	Anatomy 5314 5316	胰腺
+T192	Disease 5332 5337	胰岛素抵抗
+T193	Disease 5382 5388	胰腺脂肪浸润
+T194	Disease 5427 5431;5432 5434	胰腺脂肪 浸润
+T195	Disease 5470 5476	胰腺脂肪浸润
+T196	Test 5506 5508	超声
+T197	Test 5509 5511	CT
+T198	Test 5512 5515	磁共振
+T199	Disease 5537 5543	胰腺脂肪浸润
+T200	Disease 5544 5547	脂肪肝
+T201	Disease 5588 5594	胰腺脂肪浸润
+T202	Disease 5613 5616	糖尿病
+T203	Test 5664 5665;5666 5667	血 糖
+T204	Disease 5682 5685	脂肪肝
+T205	Disease 5690 5693;5694 5697	胰腺脂 肪浸润
+T206	Disease 5705 5711	胰腺脂肪浸润
+T207	Disease 5715 5721	胰腺脂肪浸润
+T208	Disease 5785 5786;5787 5790	高 脂血症
+T209	Disease 5791 5796	高尿酸血症
+T210	Disease 5797 5800	糖尿病
+T211	Disease 5801 5807	心脑血管疾病
+T212	Disease 5847 5850;5851 5853	心血管 疾病
+T213	Disease 5854 5857	糖尿病
+T214	Disease 5874 5880	胰腺脂肪浸润
+T215	Disease 5930 5936	胰腺脂肪浸润
+T216	Disease 6016 6019;6020 6023	胰腺脂 肪浸润
+T217	Test 2005 2009	三酰甘油
+T218	Test 148 152	代谢指标
+T219	Anatomy 318 320	胰腺
+T220	Disease 322 326	脂肪浸润
+T221	Test 2115 2117	超声
+T222	Disease 2998 3004	胰腺脂肪浸润
+T223	Disease 3089 3095	胰腺脂肪浸润
+T224	Test 3295 3301	谷氨酰转肽酶
+T225	Disease 3311 3317	胰腺脂肪浸润
+T226	Disease 3553 3559	胰腺脂肪浸润
+T227	Disease 3656 3662	胰腺脂肪浸润
+T228	Disease 3586 3592	胰腺脂肪浸润
+T229	Disease 3595 3601	胰腺脂肪浸润
+T230	Disease 3753 3759	胰腺脂肪浸润
+T231	Disease 3906 3908	超重
+T232	Disease 3909 3911	肥胖
+T233	Disease 3912 3915	高血压
+T234	Disease 3938 3944	胰腺脂肪浸润
+T235	Disease 4005 4011	胰腺脂肪浸润
+T236	Disease 4088 4094	胰腺脂肪浸润
+T237	Disease 3873 3879	胰腺脂肪浸润
+T238	Disease 3864 3870	胰腺脂肪浸润
+T239	Test 4122 4124	血压
+T240	Test 4153 4156;4157 4158	血脂紊 乱
+T241	Disease 4168 4171	脂肪肝
+T242	Disease 4188 4194	胰腺脂肪浸润
+T243	Disease 5940 5946	物质代谢紊乱
+T244	Disease 2875 2881	胰腺脂肪浸润
+T245	Disease 2884 2890	胰腺脂肪浸润
+T246	Test_Value 4125 4138	140 / 90 mmHg
+T247	Anatomy 4472 4473	肝
+T248	Anatomy 4477 4478	胰
+T249	Anatomy 4491 4493	肝胰
+T250	Anatomy 4546 4548	肝胰
+T251	Anatomy 4542 4543	肝
+T252	Anatomy 4571 4572	胰
+T253	Disease 3416 3422	胰腺脂肪浸润
+T254	Anatomy 1526 1528	肝脏
+T255	Test_Value 2554 2568	<0. 9 mmol / L
+T256	Test_Value 2585 2600	< 1. 0 mmol / L
+T257	Test_Value 2855 2869	≥6. 1 mmol / L
+T258	Test 5054 5056	年龄
+T259	Test_Value 4488 4490	上升
+T260	Test_Value 5171 5173	升高
+T261	Test_Value 5140 5142	升高
+T262	Disease 5756 5757;5758 5763	脂 肪代谢紊乱
+T263	Disease 5769 5780	糖代谢、嘌呤代谢的紊乱
+T264	Test_Value 5906 5908	高于
+T265	Test_Value 5921 5923	低于
+T266	Reason 169 173	体重指数
+T267	Reason 5402 5407	糖尿病前期
+T268	Reason 4737 4740	BMI
+T269	Reason 202 205	脂肪肝
+T270	Disease 240 246	胰腺脂肪浸润
+T271	Anatomy 1589 1591	脂肪
+T272	Test 2386 2395	餐后 2 h 血糖
+T273	Test_Value 2175 2181	肝实质高回声
+T274	Test_Value 2208 2214	胰腺形态饱满
+T275	Disease 2445 2448	高血压
+T276	Disease 2509 2513	血脂紊乱
+T277	Disease 2715 2719	脂肪浸润
+T278	Disease 3916 3921	高三酰甘油
+T279	Disease 3933 3936	高血糖
+T280	Disease 3922 3932	低高密度脂蛋白胆固醇
+T281	Disease 4377 4383	单纯脂肪肝组
+T282	Disease 4395 4404	单纯胰腺脂肪浸润组
+T283	Disease 4419 4422	脂肪肝
+T284	Disease 4423 4429	胰腺脂肪浸润
+T285	Reason 4773 4776	脂肪肝
+T286	Test 4918 4920	TG
+T287	Test_Value 4916 4917	高
+T288	Test 4923 4928	HDL-C
+T289	Test_Value 4921 4922	低
+T290	Disease 4929 4933	高血糖)
+T291	Disease 4937 4943	胰腺脂肪浸润
+T292	Disease 4997 5003	胰腺脂肪浸润
+T293	Disease 5230 5236	胰腺脂肪浸润
+T294	Anatomy 5322 5325	胰岛素
+T295	Anatomy 5350 5353	胰岛素
+T296	Reason 5395 5397	超重
+T297	Reason 5398 5400	肥胖
+T298	Reason 5408 5411	糖尿病
+T299	Reason 5412 5415	脂肪肝
+T300	Reason 5416 5423	高 TG 血症
+T301	Reason 5442 5444	超重
+T302	Reason 5445 5447	肥胖
+T303	Reason 5477 5479	肥胖
+T304	Reason 5487 5488;5489 5492	腹 型肥胖
+T305	Reason 5493 5497	内脏脂肪
+T306	Disease 5572 5575	脂肪肝
+T307	Disease 5640 5646	胰腺功能异常
+T308	Test 5655 5662	脂肪的异位沉积
+T309	Test_Value 2182 2189;2190 2192	血管和肝内结构 模糊
+T310	Test_Value 2215 2220	体积略增大
+T311	Test_Value 2221 2223;2224 2226	边缘 模糊
+T312	Test_Value 2227 2234	回声细密、明亮
+T313	Test_Value 2235 2243	强于正常肝脏回声
+T314	Test_Value 2325 2339	≥25. 0 kg / m2
+T315	Test_Value 2354 2368	≥6. 1 mmol / L
+T316	Test_Value 2401 2415	≥7. 8 mmol / L
+T317	Test_Value 2458 2472	≥140 / 90 mmHg
+T318	Test_Value 2516 2530	≥1. 7 mmol / L
+T319	Test_Value 2649 2655;2656 2664	≥5. 72 mmol / L
+T320	Test_Value 2623 2637	≥1. 7 mmol / L
+T321	Disease 4630 4632	超重
+T322	Disease 4633 4635	肥胖
+T323	Anatomy 1493 1497	异位脂肪

@@ -1,0 +1,256 @@
+基础研究
+基金项目:贵州省贵阳市科技计划项目(2011103)
+降钙素对大鼠中脑导水管周围灰质谷氨酸
+释放的影响
+李海英  肖智  李树法  向菲  王青  蒋慧
+[摘要]   目的  探讨降钙素促进中脑导水管周围灰质(PAG)神经元谷氨酸释放的机制。 方法 原代
+培养 PAG 神经细胞,免疫组化法鉴定原代培养的 PAG 神经细胞为 PAG 神经元细胞;高效液相色谱法
+(HPLC)观察鲑鱼降钙素(sCT)是否诱发 PAG 神经元谷氨酸释放并探讨其可能的细胞信号机制。 结果
+sCT 可促进 PAG 神经元谷氨酸释放(P<0. 01),此作用可被 sCT 受体拮抗剂 sCT8-32 所阻断(P<0. 01)。
+sCT 诱发的 PAG 神经元谷氨酸释放可以被蛋白激酶 C(PKC)阻断剂白屈菜季氨碱(Che)部分阻断(P<
+0. 01)。 结论 sCT 通过与 PAG 神经元上的降钙素受体结合,激活蛋白激酶 PKC 信号途径引起 PAG 神经
+元谷氨酸释放增加。
+[关键词]   降钙素; 中脑导水管周围灰质; 神经元; 谷氨酸; 高效液相色谱
+Effect of calcitonin on glutamate release in rat midbrain periaqueductal gray matter Li Haiying, Xiao Zhi,
+Li Shufa, Xiang Fei, Wang Qing, Jiang Hui. Department of Endocrinology, the First People忆s Hospital of Guiyang
+City, Guiyang 550002, China
+[Abstract]  Objective  To investigate the effect and mechanism of calcitonin(CT) in glutamate release from
+primary cultured neurons of midbrain periaqueductal gray matter(PAG). Methods Primary dissociated culture of
+PAG neurons was prepared from neonatal Sprague-Dawley(SD) rats. The cultured cells were divided into 4 groups:
+control group, salmon calcitonin(sCT) group, CT antagonist group(sCT8-32), and protein kinase C(PKC) inhibitor
+chelerythrine(Che) group. Each group was further divided into subgroups representing low, middle, and high levels
+of drugs. Glutamate release from the cultured PAG neurons evoked by sCT and / or other interfering factors was detected
+by using high-performance liquid chromatography(HPLC) assay. Results (1) Compared with the control group,
+sCT group yielded a time-dependent and concentration-dependent glutamate release from the cultured PAG neurons,
+and the most effective concentration of sCT was 20 nmol / L(P<0. 01) . (2) sCT8-32, a selective antagonist of CT
+receptor, significantly reversed the effect of 20 nmol / L sCT on glutamate release from cultured PAG neurons, and the
+most effective concentration was 100nmol / L sCT8-32(P<0. 01) . (3) Incubation of the cultured neurons with Che
+inhibited the glutamate release from cultured PAG neurons evoked by 20 nmol / L sCT, and 100 μmol / L Che was most
+effective(P<0. 01) . Conclusion CT receptors participates in the glutamate release from PAG neurons in which
+intracellular protein kinase C signaling pathway is involved.
+[Key words]  Calcitonin; Periaqueductal grey; Neuron; Glutamate; High-performance liquid chromatography
+(Chin J Endocrinol Metab, 2014, 30: 511-515)
+谷氨酸是中枢兴奋性神经递质中最重要的一种,
+在中枢疼痛调制中起重要作用。 研究显示,谷氨酸及
+其受体在中枢多个层面参与对慢性疼痛的调制[1,2]。
+中脑导水管周围灰质( periaqueductal gray,PAG)是下
+行性疼痛调制系统重要的组成部分之一。 PAG 有大
+量谷氨酸及其受体分布,通过在 PAG 微量注射谷氨酸
+可产生镇痛作用[3-6]。
+哺乳动物降钙素(calcitonin,CT)由甲状腺滤泡旁
+细胞(C 细胞)分泌,在不同部位产生不同的生理作
+用,可扩张血管、参与疼痛调制以及糖原摄取、糖酵解
+等[7]。 在中枢,降钙素受体(calcitonin receptor, CT-R)
+分布广泛,其中在 PAG 腹侧、腹外侧均有 CT-R 分布。
+在大鼠 PAG 和侧脑室微量注射 CT 后均可引起大鼠痛
+阈上升且在 PAG 注射后痛阈上升更明显,说明 PAG
+在 CT 的中枢镇痛效应中有重要的作用[8]。 本研究组
+前期研究显示:在神经性疼痛大鼠(CCI) PAG 中微量
+注射鲑鱼降钙素(salmon calcitonin,sCT)可使 PAG 中
+CT-R 的表达上调并缓解神经痛大鼠的疼痛相关行
+为[9],但对其产生镇痛作用的具体机制不明。 本实验
+在上述研究的基础上,进一步在细胞水平验证 PAG 中
+CT 受体活化与 PAG 神经元谷氨酸释放之间的关系,
+求证 sCT 通过调节 PAG 神经元谷氨酸释放达到镇痛
+作用并对其信号通路进行初步探讨。
+材料和方法
+一、 材料
+自动进样器(日本岛津公司);荧光检测器(日本
+岛津公司);Nova-Pak 3. 9 mm×150 mm C18 色谱柱(美
+国 WATERS 公司); 高效液相色谱仪 ( 日本岛津
+Shimadzu LC-20AT);低温高速离心机(美国 Sigma 公
+司)。 L-glutamic acid 标准品(美国 Sigma 公司);邻苯
+二甲醛(OPA)、2-巯基乙醇(美国 Amresco 公司);sCT
+(美国 Sigma 公司,纯度>97% ),溶于 0. 001N 醋酸, 终
+浓度 2、20 和 200 nmol / L;sCT8-32(美国 Bachem 公司)
+溶于去离子水,终浓度 1、10 和 100nmol / L;Che(美国
+Sigma 公司)溶于 0. 9% NaCl,终浓度为 1、10、100 和
+500μmol / L;DMEM 培养基(美国 Gibco-BRL 公司);胎
+牛血清 ( 兰州民海生物); 神经细胞完全培养液
+(Neurobasal+B27)购于美国 Sigma 公司;四甲基偶氮
+唑(MTT)由南京建成公司提供;单克隆神经元特异核
+蛋白(NeuN)购于美国 Millipore 公司。
+二、 方法
+1. PAG 神经元原代培养:在体视显微镜下分离
+Sprague-Dawley(SD)乳大鼠(1 ~ 2 d) PAG 组织,剔除
+脑膜及部分结缔组织后用 0. 125%胰蛋白酶 37℃消化
+45 min, 用胎牛血清终止消化;离心、吹打获得细胞悬
+液,调整密度为 5×106 / ml,接种于培养皿内(培养基为
+90% DMEM / F12+10%胎牛血清), 吸出上清液接种于
+经多聚赖氨酸包被的 96 孔板上,在培养箱内静置 2 h;
+补充加入神经细胞完全培养液(Neurobasal+B27)以及
+谷氨酰胺;细胞贴壁 24 h 后添加终浓度为 10 滋nmol / L
+的阿糖胞苷作用 24h,抑制过度增长的胶质细胞。
+2. 免疫细胞化学染色:将培养 4 d 后的 PAG 神经
+细胞接种于盖玻片上。 将细胞爬片取出后用 4%多聚
+甲醛固定 20 min; 0. 01 mmol / L PBS 漂洗后滴加
+1 : 200 稀 释 的 小 鼠 抗 大 鼠 神 经 元 特 异 核 蛋 白
+(neuronal nuclear protein, NeuN), 37℃孵育 1 h,4℃过
+夜;取出爬片,0. 01 mmol / L PBS 漂洗 5 min×3 次;滴加
+生物素标记的驴抗小鼠 IgG(1 : 200),37℃孵育 1 h;
+辣根酶标记链霉卵白素(1 : 200),37℃孵育 1 h;DAB
+显色 10 min,2. 5% 硫酸镍胺增强显色。 神经元细胞
+NeuN 阳性细胞着紫褐色。
+3. 实验分组和给药方法:原代培养的 PAG 神经元
+随机分为 4 组:对照组、 sCT 组、 CT 受体拮抗剂组
+(sCT8-32 组)和白屈菜季氨碱(Che)组。 其中对照组
+不加任何药物处理,sCT 组再分为 2、20 和 200 nmol / L
+3 个亚组;sCT8-32 组再分为 1、10 和 100 nmol / L 3 个
+亚组;Che 组再分为 1、10、100 和 500 μmol / L 4 个亚
+组。
+4. 高效液相色谱法(HPLC)检测谷氨酸的释放:
+标准曲线制备:准确称量 L-glutamic acid 标准品,以三
+蒸水配成 1 mmol / L 的贮备液;临用前以流动相稀释成
+0. 5、1. 0、2. 0、4. 0、8. 0 μmol / L 梯度的标准液;取各浓
+度标准液 25 滋l,加入衍生试剂 100 滋l,迅速置涡旋振
+荡器振荡 1 min,用乙酸缓冲液将体积补充至 200 滋l,
+进样量为 20 滋l;应用外标法进行定量分析,以谷氨酸
+标准液浓度对峰面积进行直线回归,得到线性方程。
+样品制备:各个样品取培养液 1 000 滋l; 各个样品按体
+积比 3 : 2 加入高氯酸,4℃离心 10 000 r / min,5 min;
+取上清按体积比 4 : 3 加入 2 mol / L KHCO3,4℃离心
+10 000 r / min,5 min,取上清,待测;50 mg OPA,50 滋l
+2-巯基乙醇,0. 4 mol / L 硼酸缓冲液(pH 9. 5)11 ml 制
+得衍生液,避光保存,每日补充 20 滋l 2-巯基乙醇;取样
+品 25 滋l,加入 100 滋l 衍生液涡旋振荡器振荡充分,严
+格控制衍生时间 1 min,用乙酸缓冲液将体积补充至
+200 滋l,进样量为 20 滋l。 流动相 A:0. 05 mol / L 乙酸缓
+冲液(pH 6. 5):甲醇:四氢呋喃=80 : 20 : 0. 8(V / V);
+流动相 B:0. 05 mol / L 柠檬酸缓冲液:甲醇 = 20 : 80
+(V / V)。 过滤,除气,流速为 0. 6 ml / min。 激发波长
+330 nm,发射波长 425 nm;浓度计算:结合线性方程计
+算各组样品谷氨酸浓度。
+三、 统计学处理
+采用 SPSS 15. 0 统计学软件进行分析,实验结果
+以 x-± s 表示,组间比较采用独立样本 t 检验或单因素
+方差分析,P<0. 05 为差异有统计学意义。
+结    果
+一、 绘制谷氨酸标准曲线
+以谷氨酸标准品浓度为横坐标,峰面积为纵坐标,
+制作谷氨酸标准曲线。
+二、 原代培养 PAG 神经元的鉴定
+取 SD 乳大鼠 PAG 组织进行神经元原代细胞培
+养,培养 4 d 后免疫细胞化学染色鉴定所培养细胞类
+型。 结果显示:培养的 PAG 神经元纯度>98% ,其神经
+元特异核蛋白(NeuN)阳性表达(图 1)。
+三、 sCT 对 PAG 神经元细胞释放谷氨酸的影响
+在培养的 PAG 神经元孵育液加入 2、 20、 200
+nmol / L sCT 后 2 min,HPLC 检测培养液上清即可检测
+出培养液谷氨酸浓度增加,提示已有谷氨酸释放。 随
+sCT 作用时间延长,上清液中谷氨酸含量逐渐升高, 其
+注:PAG:中脑导水管周围灰质 midbrain periaqueductal gray
+图 1  原代培养的 PAG 神经细胞及其鉴定 (×400)
+Fig 1  The identification of the primary cultured PAG neurons (×400)
+注:PAG:中脑导水管周围灰质 Midbrain periaqueductal gray matter;
+sCT:鲑鱼降钙素 Salmon calcitonin;( A) 对照组 Control; ( B) 2 nmol / L
+sCT;(C)20 nmol / L sCT;(D)200 nmol / L sCT;vs 0, aP<0. 01
+图 2  不同浓度 sCT 对 PAG 神经元谷氨酸释放的影响
+Fig 2   Effect of different concentrations of sCT on PAG neuron glutamate
+release
+中作用 10 min 时谷氨酸含量明显上升,与对照组比
+较,差异有统计学意义(P<0. 01),其中 20 nmol / L sCT
+促进 PAG 神经元谷氨酸释放的作用最强(图 2)。
+四、 sCT8-32 预处理对 sCT 诱发的 PAG 神经元细
+胞谷氨酸释放的影响
+注:PAG:中脑导水管周围灰质 Midbrain periaqueductal gray matter;
+sCT:鲑鱼降钙素 Salmon calcitonin;(A)1 nmol / L sCT8-32;(B)10 nmol / L
+sCT8-32;(C)100 nmol / L sCT8-32;vs 0, aP<0. 01
+图 3  不同浓度 sCT8-32 对 sCT 诱发的 PAG 神经元谷氨酸释放的影响
+Fig 3   Effect of different concentrations of sCT8-32 on sCT-evoked PAG
+neuron glutamate release
+注:PAG:中脑导水管周围灰质 Midbrain periaqueductal gray matter;
+sCT:鲑鱼降钙素 Salmon calcitonin;Che:白屈菜季氨碱 Chelerythrine;
+(A)1 μmol / L Che;(B)10 μmol / L Che;(C)100 μmol / L Che;( D) 500
+μmol / L Che;vs 0, aP<0. 01
+图 4  不同浓度 Che 对 sCT 诱发的 PAG 神经元 Glu 释放的影响
+Fig 4  Effect of different concentrations of Che on sCT-evoked PAG neuron
+glutamate release
+在培养的 PAG 神经元孵育液中分别加入 1、10、
+100 nmol / L sCT8-32,孵育 10 min,再加入 20 nmol / L
+sCT,HPLC 检测,观察到 sCT 作用 10 min 后,上清液中
+谷氨酸浓度与单独加入 sCT 相比明显减少,其中 100
+nmol / L sCT8-32 对 sCT 诱发的神经元谷氨酸释放抑制
+作用最强,差异有统计学意义(P<0. 01, 图 3)。
+五、 Che 预处理对 sCT 诱发的 PAG 神经元细胞谷
+氨酸释放的影响
+在培养的 PAG 神经元孵育液中分别加入 1、10、
+100、500 μmol / L PKC 抑制剂 Che,以上各浓度的 Che
+预先孵育 20 min 后再加入 20 nmol / L sCT,HPLC 检测,
+观察到 sCT 作用 10 min 后,上清液中谷氨酸浓度与单
+独加入 sCT 比较明显降低,其中 100 μmol / L Che 对
+sCT 诱发的谷氨酸释放抑制作用最强,与单独加入
+sCT 比较,差异均有统计学意义(均 P<0. 01, 图 4)。
+讨    论
+哺乳动物降钙素由甲状腺滤泡旁细胞(C 细胞)
+分泌。 降钙素基因位于 11 号染色体,能编码 3 种激
+素:降钙素(CT),降钙蛋白(kataclcin, KC)以及降钙
+素基因相关肽(calcitonin gene related peptide, CGRP)。
+既往对 CGRP 在疼痛调制中的作用研究较多,而对 CT
+在疼痛调制中的作用研究较少。 临床上,CT 被应用于
+高钙血症以及骨质疏松治疗,也应用于疼痛治疗,包括
+骨骼组织病变所致疼痛和神经性疼痛(椎间孔狭窄所
+致疼痛、糖尿病外周神经病变疼痛、带状疱疹后疼痛
+等),但是对降钙素的镇痛机制了解不清。 有研究提
+示:降钙素可升高患者血浆中 β-内啡肽水平进而产生
+镇痛作用[10],也可通过降低前列腺素 E2 后降低炎症
+反应,间接达到镇痛效应[11]。 降钙素受体是 G 蛋白偶
+联受体,CT 通过作用于中枢神经系统神经细胞膜上降
+钙素受体产生作用[12]。
+鲑鱼降钙素(sCT)是一种多肽激素,由 32 个氨基
+酸组成,其结构与人降钙素类似但作用更强,是治疗绝
+经后骨质疏松的主要药物,有降低血钙、扩张血管及中
+枢神经递质的作用[13]。 早期研究提示:大鼠鞘内注射
+致痛物质后引起的疼痛反应可以通过脑室内注射 sCT
+d-1)能反转神经性疼痛大鼠疼痛症状[15]。 在中枢,降
+钙素受体主要分布于下丘脑、正中隆起、垂体、黑质、苍
+白球等[16],与疼痛调制相关的 CT 受体主要在脑桥内
+侧网状结构和 PAG[17],当降钙素与受体结合后,胞内
+cAMP 水平上调,激活下游蛋白激酶产生生理功能。
+研究发现,机体对外来的伤害性刺激产生的疼痛
+可以进行调节, 此功能由内源性疼痛调制系统
+(endogenous pain modulatory system)完成,该系统以脑
+干中线结构为中心,包含多个脑区结构[18-21],由 PAG、
+延髓头端腹内侧核群(RVM),中缝大核(NRM)及附
+近网状结构和部分脑桥背外侧成分的神经元构成,主
+要通过羟胺能和去甲肾上腺素能神经通路对脊髓和延
+髓上传的痛觉信息产生抑制性或易化性调制, 其抑制
+性和易化性处于平衡状态时,动物表现为正常状态,若
+易化性大于抑制性,动物表现为疼痛状态,可见来自皮
+层和皮层下结构的下传镇痛信息和脊髓、延髓的上传
+疼痛信息均“汇集冶于 PAG,因此 PAG 在下行痛觉抑
+制系统中处于核心部位,是机体内源性疼痛调制系统
+的关键部位[22,23]。 有研究提示:sCT 注入 PAG 可剂量
+依赖的升高神经痛大鼠(CCI)热痛阈值,阿片受体阻
+断剂-纳洛酮不可逆转 sCT 介导的镇痛作用,说明 sCT
+的镇痛机制可能独立于阿片镇痛机制之外[9,17]。 在外
+周,皮下注射 CT 可以提高外周神经 CT 受体和背根神
+经节 Na+通道 mRNA 表达,进而缓解疼痛[24]。
+中枢神经系统细胞外谷氨酸可能来源神经元受兴
+奋后释放,但近年研究发现,谷氨酸也是一种胶质递质
+(gliotransmitter)可能由胶质细胞(主要是星型胶质细
+胞)释放,参与胶质细胞和神经元之间的联系,因此本
+研究中,我们需首先明确谷氨酸来源。 神经元特异核
+蛋白(NeuN)可标记分化成熟的神经元[25],分化成熟
+后的神经元表现为免疫反应阳性,NeuN 的单克隆抗体
+可与脊椎动物神经系统几乎所有部位的成熟神经细胞
+核发生免疫反应。 在本研究中,我们采用 NeuN 对原
+代培养的 PAG 神经细胞进行鉴定,发现 98%以上培养
+的神经细胞表现为 NeuN 阳性,说明本研究中细胞外
+谷氨酸浓度变化均由神经元受到不同药物刺激后释放
+所致。
+本研究发现,体外原代培养的大鼠 PAG 神经元加
+入 sCT 后,引起 PAG 神经元谷氨酸释放增加并且与
+sCT 的浓度和作用时间依赖;鲑鱼降钙素 8-32( sCT8-
+32)是降钙素受体拮抗剂,将 sCT8-32 加入培养的 PAG
+神经元预孵育后再加入 sCT,培养 PAG 神经元谷氨酸
+释放量显著减少,因此 sCT 通过结合 PAG 谷氨酸能神
+经元上受体后引起谷氨酸释放量增加;将培养的 PAG
+神经元与 PKC 信号通路阻断剂 Che 预孵育后再加入
+sCT,观察到培养 PAG 神经元谷氨酸释放量显著减少
+但仍高于对照组。 以上研究可知 sCT 与受体结合后,
+部分通过激活胞内 PKC 信号通路,引起 PAG 神经元
+功能的变化,谷氨酸的释放量增加。 结合本研究组前
+期研究:在神经性疼痛大鼠 PAG 中微量注射 sCT 可使
+PAG 中 CT-R 的表达上调并缓解神经痛大鼠的疼痛相
+关行为[9],我们认为 sCT 与其受体结合后,促进谷氨
+酸释放可能是其对神经性疼痛产生镇痛的机制之一。

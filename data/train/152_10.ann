@@ -1,0 +1,350 @@
+T1	Test 204 208	空腹血糖
+T2	Test 3615 3619	空腹血糖
+T3	Test 5577 5581	空腹血糖
+T4	Test 6157 6161	空腹血糖
+T5	Test 3620 3623	FPG
+T6	Test 3652 3655	FPG
+T7	Test 3987 3990	FPG
+T8	Test 4007 4010	FPG
+T9	Test 5414 5417	FPG
+T10	Test 5703 5706	FPG
+T11	Test 6153 6156	FPG
+T12	Test 3998 4002	FINS
+T13	Test 5449 5453	FINS
+T14	Test 5718 5722	FINS
+T15	Test 6185 6189	FINS
+T16	Test 3992 3997	空腹胰岛素
+T17	Test 6190 6195	空腹胰岛素
+T18	Test 3532 3534	体重
+T19	Test 3804 3806	体重
+T20	Test 409 414	血清胰岛素
+T21	Test 5319 5323;5324 5325	血清胰岛 素
+T22	Test 352 354	血糖
+T23	Test 3612 3614	血糖
+T24	Test 3955 3957	血糖
+T25	Test 5314 5316	血糖
+T26	Test 5343 5345	血糖
+T27	Test 8818 8820	血糖
+T28	Drug 128 131	姜黄素
+T29	Disease 132 137	糖尿病脑病
+T30	Disease 174 179	糖尿病脑病
+T31	Drug 191 194	姜黄素
+T32	Test 209 212	胰岛素
+T33	Drug 228 231	姜黄素
+T34	Disease 232 237	糖尿病脑病
+T35	Drug 257 260	姜黄素
+T36	Disease 261 264	糖尿病
+T37	Anatomy 266 267;268 271	海 马神经
+T38	Test 290 301	海马脑源性神经营养因子
+T39	Test 302 306	BDNF
+T40	Test 308 320	环磷腺苷反应元件结合蛋白
+T41	Test 322 326	CREB
+T42	Drug 335 338	姜黄素
+T43	Amount 338 341	高剂量
+T44	Disease 346 349	糖尿病
+T45	Drug 467 470	姜黄素
+T46	Disease 475 478	糖尿病
+T47	Disease 489 492	糖尿病
+T48	Anatomy 494 499	海马齿状回
+T49	Test 513 523	BrdU 阳性细胞数
+T50	Anatomy 567 570	海马区
+T51	Test 571 575	BDNF
+T52	Drug 616 619	姜黄素
+T53	Anatomy 640 643	海马区
+T54	Disease 652 657	糖尿病脑病
+T55	Disease 677 682	糖尿病脑病
+T56	Drug 690 693	姜黄素
+T57	Drug 9384 9387	姜黄素
+T58	Disease 9390 9393	糖尿病
+T59	Anatomy 9427 9429	胰岛
+T60	Disease 9465 9470	胰岛素抵抗
+T61	Anatomy 9491 9496	海马神经元
+T62	Drug 9500 9503	姜黄素
+T63	Test 9509 9511;9512 9513	胰岛 素
+T64	Drug 9558 9561	姜黄素
+T65	Disease 9605 9607	DE
+T66	Drug 9619 9622	姜黄素
+T67	Disease 9644 9646	DE
+T68	Drug 8804 8807	姜黄素
+T69	Disease 8811 8814	糖尿病
+T70	Disease 8835 8837	DE
+T71	Symptom 8845 8848	高血糖
+T72	Drug 8861 8864	姜黄素
+T73	Symptom 8865 8868	高血糖
+T74	Anatomy 8888 8890	海马
+T75	Anatomy 8891 8897	中枢神经系统
+T76	Anatomy 8984 8987	神经元
+T77	Disease 9030 9033	糖尿病
+T78	Drug 9038 9041	姜黄素
+T79	Test 9055 9061;9062 9068	BrdU 阳 性细胞的比例
+T80	Drug 9071 9074	姜黄素
+T81	Disease 9090 9093	糖尿病
+T82	Anatomy 9109 9113	CREB
+T83	Anatomy 9151 9155	CREB
+T84	Anatomy 9167 9174	海马 NSCs
+T85	Anatomy 9179 9182	神经元
+T86	Anatomy 9209 9213	BDNF
+T87	Anatomy 9216 9220	CREB
+T88	Anatomy 9236 9240	CREB
+T89	Anatomy 9247 9251	BDNF
+T90	Anatomy 9262 9266	CREB
+T91	Anatomy 9285 9289	BDNF
+T92	Anatomy 9291 9300	新生海马 NSCs
+T93	Anatomy 9318 9324	神经前体细胞
+T94	Drug 9345 9348	姜黄素
+T95	Test 9351 9361	CREB 磷酸化水平
+T96	Anatomy 9366 9369	海马区
+T97	Test 9370 9374	BDNF
+T98	Drug 8296 8299	姜黄素
+T99	Drug 8332 8335	姜黄素
+T100	Disease 8439 8442	糖尿病
+T101	Disease 8455 8460	代谢性疾病
+T102	Disease 8461 8464	糖尿病
+T103	Anatomy 8465 8470;8471 8472	中枢神经系 统
+T104	Disease 8486 8489	糖尿病
+T105	Symptom 8510 8516	认知功能障碍
+T106	Symptom 8517 8518;8519 8520	痴 呆
+T107	Symptom 8521 8526	精神性疾患
+T108	Disease 8578 8580	DE
+T109	Anatomy 8605 8609	大脑神经
+T110	Disease 8645 8647	DE
+T111	Symptom 8649 8653	认知障碍
+T112	Disease 8664 8667	糖尿病
+T113	Test 8679 8691	Morris 水迷宫实验
+T114	Disease 8706 8709	糖尿病
+T115	Drug 8713 8716	姜黄素
+T116	Drug 8767 8770	姜黄素
+T117	Disease 8777 8780	糖尿病
+T118	Drug 8003 8006	姜黄素
+T119	Test 8012 8016	BDNF
+T120	Anatomy 8008 8011	海马区
+T121	Disease 8048 8051	糖尿病
+T122	Anatomy 8052 8055	海马区
+T123	Test 8056 8060	BDNF
+T124	Drug 8084 8087	姜黄素
+T125	Test 8095 8099	BDNF
+T126	Anatomy 8090 8091;8092 8094	海 马区
+T127	Disease 8114 8117	糖尿病
+T128	Anatomy 8120 8123	海马区
+T129	Test 8126 8130	CREB
+T130	Drug 8150 8153	姜黄素
+T131	Test 8156 8160	CREB
+T132	Disease 8190 8193	糖尿病
+T133	Test 8195 8206	CREB 的磷酸化水平
+T134	Drug 8218 8219;8220 8222	姜 黄素
+T135	Test 8226 8236	CREB 磷酸化水平
+T136	Drug 8259 8262	姜黄素
+T137	Test 8269 8279	CREB 磷酸化水平
+T138	Drug 7931 7934	姜黄素
+T139	Test 7941 7952	BrdU 阳性细胞比例
+T140	Drug 7969 7972	姜黄素
+T141	Disease 7985 7987;7988 7989	糖尿 病
+T142	Disease 2536 2541	糖尿病脑病
+T143	Disease 2566 2568	DE
+T144	Symptom 2592 2596;2597 2601	学习记忆 能力减退
+T145	Symptom 2602 2608	空间定向困难
+T146	Disease 2610 2612	DE
+T147	Disease 2679 2681	DE
+T148	Disease 2683 2689	阿尔茨海默病
+T149	Disease 2714 2716	AD
+T150	Disease 2774 2777	糖尿病
+T151	Disease 2781 2783	AD
+T152	Anatomy 2797 2800	干细胞
+T153	Disease 2809 2811	DE
+T154	Anatomy 2849 2853	NSCs
+T155	Disease 2863 2868	糖尿病脑病
+T156	Anatomy 2882 2883;2884 2887	海 马结构
+T157	Anatomy 2889 2893	部分皮层
+T158	Anatomy 2894 2897	齿状回
+T159	Anatomy 2898 2900	海马
+T160	Anatomy 2901 2903	下托
+T161	Anatomy 2904 2907	前下托
+T162	Anatomy 2908 2909;2910 2912	傍 下托
+T163	Anatomy 2913 2917	内嗅皮质
+T164	Anatomy 2943 2950	海马 NSCs
+T165	Drug 2971 2974	姜黄素
+T166	Drug 3015 3017;3018 3019	姜黄 素
+T167	Drug 3047 3050	姜黄素
+T168	Drug 3087 3090	姜黄素
+T169	Disease 3092 3094	DE
+T170	Anatomy 3123 3132	脑源性神经营养因子
+T171	Anatomy 3133 3137	BDNF
+T172	Anatomy 3140 3147;3148 3154	环磷酸腺苷反应 元件结合蛋白
+T173	Anatomy 3155 3159	CREB
+T174	Drug 3163 3166	姜黄素
+T175	Disease 3182 3184	DE
+T176	Drug 3207 3210	姜黄素
+T177	Disease 3472 3475	糖尿病
+T178	Test_Value 3624 3639	>16. 7 mmol / L
+T179	Test_Value 3655 3670	>16. 7 mmol / L
+T180	Disease 3749 3752	糖尿病
+T181	Drug 3754 3756;3757 3758	姜黄 素
+T182	Drug 3770 3773	姜黄素
+T183	Drug 3782 3783;3784 3786	姜 黄素
+T184	Duration 3813 3817	12 周
+T185	Disease 3818 3821	糖尿病
+T186	Drug 3824 3827	姜黄素
+T187	Drug 3890 3893	姜黄素
+T188	Drug 3899 3902	姜黄素
+T189	Drug 3905 3908	姜黄素
+T190	Duration 3974 3976;3977 3978	12 周
+T191	Test 4023 4026	胰岛素
+T192	Test 4044 4056	Morris 水迷宫测试
+T193	Drug 5304 5307	姜黄素
+T194	Disease 5309 5312	糖尿病
+T195	Test_Value 5317 5319	升高
+T196	Disease 5337 5340	糖尿病
+T197	Disease 5389 5392	糖尿病
+T198	Amount 5396 5399	高剂量
+T199	Drug 5399 5402	姜黄素
+T200	Duration 5405 5409	12 周
+T201	Drug 5439 5442	姜黄素
+T202	Drug 5478 5481	姜黄素
+T203	Disease 5487 5490	糖尿病
+T204	Drug 5499 5502	姜黄素
+T205	Disease 5520 5523	糖尿病
+T206	Drug 5547 5550	姜黄素
+T207	Disease 5560 5563	糖尿病
+T208	Disease 6529 6532	糖尿病
+T209	Drug 6555 6557;6558 6559	姜黄 素
+T210	Disease 6591 6594	糖尿病
+T211	Drug 6625 6628	姜黄素
+T212	Disease 6680 6683	糖尿病
+T213	Drug 6737 6740	姜黄素
+T214	Test 6803 6808	水迷宫实验
+T215	Drug 6813 6816	姜黄素
+T216	Disease 6821 6824	糖尿病
+T217	Drug 6840 6843	姜黄素
+T218	Anatomy 6871 6878;6879 6883	海马齿状回颗粒 下层细胞
+T219	Anatomy 6910 6917	齿状回颗粒细胞
+T220	Disease 6973 6976	糖尿病
+T221	Test 6982 6990;6991 6992	BrdU 阳性细 胞
+T222	Drug 6993 6996	姜黄素
+T223	Anatomy 6998 7005	海马齿状回细胞
+T224	Disease 7033 7036	糖尿病
+T225	Anatomy 507 509	海马
+T226	Anatomy 624 638	BDNF / CREB 通路
+T227	Test_Value 9388 9390	提高
+T228	Test 9431 9434	胰岛素
+T229	Test_Value 9563 9565	上调
+T230	Anatomy 8918 8920	内脏
+T231	Test 8942 8946	神经发生
+T232	Anatomy 8988 8992	神经回路
+T233	Disease 8356 8358	炎症
+T234	Reason 8336 8338	高糖
+T235	Anatomy 8349 8353	炎症因子
+T236	Test_Value 8374 8376	降低
+T237	Test 8419 8427	炎症相关转录因子
+T238	Test 8428 8433	NF-κB
+T239	Test_Value 8417 8419	下调
+T240	Test_Value 8006 8008	上调
+T241	Test_Value 8206 8208	降低
+T242	Test_Value 7935 7939	显著增加
+T243	Disease 7992 7998	学习记忆障碍
+T244	Reason 2642 2646	氧化应激
+T245	Reason 2648 2653	内质网应激
+T246	Reason 2654 2658	炎症反应
+T247	Test 2731 2735	病理改变
+T248	Test_Value 2740 2749	脑内淀粉样肽的生成
+T249	Test_Value 2750 2754	脑内炎症
+T250	Test_Value 2755 2761	氧化应激反应
+T251	Anatomy 3020 3022	神经
+T252	Disease 3706 3708	死亡
+T253	Duration 3925 3929	12 周
+T254	Test 4920 4929	BrdU 阳性细胞
+T255	Test_Value 5307 5309	降低
+T256	Test_Value 5347 5349;5350 5352	显著 升高
+T257	Test_Value 5373 5377	显著下降
+T258	Test_Value 5418 5422	显著下降
+T259	Test 6537 6541	逃≥时间
+T260	Test 6542 6546	航行距离
+T261	Test 6596 6600	逃≥时间
+T262	Test 6601 6605	航行距离
+T263	Test_Value 6605 6607	延长
+T264	Test 6630 6634	逃≥时间
+T265	Test 6635 6638;6639 6640	航行距 离
+T266	Test_Value 6640 6642	缩短
+T267	Test 6659 6665	空间探索实验
+T268	Test 6686 6694;6695 6696	在目标象限内的时 间
+T269	Test 6711 6718	穿越平台的次数
+T270	Test_Value 6718 6720	减少
+T271	Test_Value 6743 6745	延长
+T272	Test 6748 6755;6756 6757	在目标象限的时 间
+T273	Test_Value 6773 6775	增加
+T274	Test 6776 6783	穿越平台的次数
+T275	Anatomy 6948 6951	齿状回
+T276	Test_Value 6970 6972	较多
+T277	Test_Value 7056 7060	显著下降
+T278	Disease 84 87	糖尿病
+T279	Anatomy 76 80	海马神经
+T280	Drug 71 74	姜黄素
+T281	Drug 164 169	链脲佐菌素
+T282	Drug 3226 3231	链脲佐菌素
+T283	Drug 3233 3236	STZ
+T284	Drug 3245 3255	5-溴脱氧尿嘧啶核苷
+T285	Drug 3571 3574	STZ
+T286	Anatomy 4951 4955	海马组织
+T287	Anatomy 4885 4886	脑
+T288	Drug 5553 5556	STZ
+T289	Drug 8656 8659	STZ
+T290	Test 4510 4512	体重
+T291	Test 3958 3963	血清胰岛素
+T292	Test 5366 5371	血清胰岛素
+T293	Test 9395 9396;9397 9401	血 清胰岛素
+T294	Duration 197 201	12 周
+T295	Disease 237 241	认知障碍
+T296	Disease 480 486	空间记忆障碍
+T297	Test 592 596	CREB
+T298	Disease 660 662;663 667	空间 记忆障碍
+T299	Anatomy 9439 9443	CREB
+T300	Symptom 9473 9476	高血糖
+T301	Anatomy 9479 9483	CREB
+T302	Anatomy 9518 9522	BDNF
+T303	Anatomy 9525 9529	CREB
+T304	Anatomy 9536 9539	海马区
+T305	Anatomy 9566 9570	BDNF
+T306	Anatomy 9573 9577	CREB
+T307	Anatomy 9583 9594	大脑海马齿状回颗粒下层
+T308	Disease 9611 9617	空间认知障碍
+T309	Disease 8851 8857	糖尿病并发症
+T310	Disease 8877 8881	认知障碍
+T311	Anatomy 8931 8934;8935 8939	海马齿 状回颗粒
+T312	Anatomy 8956 8958;8959 8961	颗粒 下层
+T313	Anatomy 8971 8979	齿状回颗粒细胞层
+T314	Anatomy 9044 9051	海马齿状回颗粒
+T315	Anatomy 9076 9079	海马区
+T316	Disease 9096 9102	学习记忆障碍
+T317	Anatomy 9185 9189	NSCs
+T318	Anatomy 9190 9192;9193 9196	新生 神经元
+T319	Anatomy 8343 8347	单核细胞
+T320	Anatomy 8376 8384	组蛋白乙酰转移酶
+T321	Anatomy 8389 8390;8391 8399	组 蛋白脱乙酰酶 2
+T322	Symptom 8445 8446;8447 8449	高 血糖
+T323	Disease 8490 8494;8495 8497	认知功能 障碍
+T324	Disease 8527 8531	慢性脑病
+T325	Disease 8587 8590	糖尿病
+T326	Anatomy 8591 8597	中枢神经系统
+T327	Disease 8696 8704	空间学习记忆障碍
+T328	Disease 8783 8790;8791 8792	空间学习记忆障 碍
+T329	Test 8024 8028	CREB
+T330	Anatomy 7976 7979	海马区
+T331	Disease 2571 2572;2573 2578	认 知功能障碍
+T332	Disease 2582 2588	糖尿病并发症
+T333	Reason 2664 2671	海马神经元凋亡
+T334	Symptom 2629 2632	高血糖
+T335	Symptom 2633 2637	血糖波动
+T336	Anatomy 2819 2820;2821 2830	大 脑海马区神经干细胞
+T337	Reason 2855 2857;2858 2862	神经 发生障碍
+T338	Disease 3027 3031	认知障碍
+T339	Anatomy 3053 3060	胚胎神经祖细胞
+T340	Anatomy 3063 3067;3068 3070	成年海马 神经
+T341	Disease 3098 3102	认知障碍
+T342	Anatomy 3109 3111	海马
+T343	Disease 5526 5532;5533 5535	空间学习记忆 障碍
+T344	Disease 6827 6835	空间学习记忆障碍
+T345	Anatomy 6847 6849	海马
+T346	Test 6871 6878;6879 6888	海马齿状回颗粒 下层细胞的增殖情况
+T347	Test 6952 6961	BrdU 阳性细胞
+T348	Test 6998 7009	海马齿状回细胞增殖情况
+T349	Anatomy 7048 7053	齿状回细胞
+T350	Test 7038 7042;7043 7047	BrdU 阳性细胞

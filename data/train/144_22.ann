@@ -1,0 +1,276 @@
+T1	Disease 3338 3344	1 型糖尿病
+T2	Disease 3412 3418	1 型糖尿病
+T3	Disease 5145 5151	1 型糖尿病
+T4	Disease 1096 1102	2 型糖尿病
+T5	Disease 1189 1195	2 型糖尿病
+T6	Disease 1201 1205;1206 1208	2 型糖 尿病
+T7	Disease 1249 1255	2 型糖尿病
+T8	Disease 1309 1315	2 型糖尿病
+T9	Disease 1398 1404	2 型糖尿病
+T10	Disease 2421 2427	2 型糖尿病
+T11	Disease 3509 3513;3514 3516	2 型糖 尿病
+T12	Disease 3528 3534	2 型糖尿病
+T13	Disease 3641 3647	2 型糖尿病
+T14	Disease 5111 5117	2 型糖尿病
+T15	Disease 5410 5416	2 型糖尿病
+T16	Test 3573 3578	HBA1C
+T17	Test 3447 3451	体重指数
+T18	Test 3567 3571	体重指数
+T19	Disease 2483 2489	动脉粥样硬化
+T20	Disease 1290 1295	代谢综合征
+T21	Anatomy 195 199	β 细胞
+T22	Anatomy 3230 3234	β 细胞
+T23	Anatomy 3705 3709	β 细胞
+T24	Anatomy 4190 4194	β 细胞
+T25	Anatomy 4208 4212	β 细胞
+T26	Anatomy 4291 4295	β 细胞
+T27	Anatomy 4326 4330	β 细胞
+T28	Anatomy 4423 4427	β 细胞
+T29	Anatomy 4499 4503	β 细胞
+T30	Anatomy 4603 4607	β 细胞
+T31	Anatomy 4729 4733	β 细胞
+T32	Anatomy 4789 4793	β 细胞
+T33	Anatomy 5012 5016	β 细胞
+T34	Anatomy 5030 5034	β 细胞
+T35	Anatomy 5133 5137	β 细胞
+T36	Anatomy 2096 2100	脂肪细胞
+T37	Anatomy 3958 3960;3961 3963	脂肪 细胞
+T38	Test 2252 2256	甘油三酯
+T39	Test 2668 2672	甘油三酯
+T40	Test 2788 2789;2790 2793	甘 油三酯
+T41	Test 2814 2818	甘油三酯
+T42	Test 2883 2887	甘油三酯
+T43	Test 3053 3057	甘油三酯
+T44	Test 5315 5319	甘油三酯
+T45	Anatomy 4063 4064;4065 4067	β 细胞
+T46	Anatomy 148 150	肝脏
+T47	Anatomy 151 157	白色脂肪组织
+T48	Anatomy 158 164	褐色脂肪组织
+T49	Disease 258 261	糖尿病
+T50	Disease 262 267	脂代谢疾病
+T51	Reason 1215 1220	胰岛素抵抗
+T52	Reason 1221 1232	胰岛 β 细胞功能障碍
+T53	Disease 1240 1245	胰岛素抵抗
+T54	Disease 1262 1265	糖尿病
+T55	Disease 1277 1282	胰岛素抵抗
+T56	Disease 1354 1359;1360 1361	2 型糖尿 病
+T57	Disease 1417 1420	糖尿病
+T58	Drug 1432 1438	胰岛素增敏剂
+T59	Drug 1439 1445	胰岛素促泌剂
+T60	Drug 1446 1452	糖苷酶抑制剂
+T61	Drug 1453 1456;1457 1460	注射用 胰岛素
+T62	Test 1492 1494	血糖
+T63	Disease 1504 1507	糖尿病
+T64	Reason 1519 1532	胰岛 β 细胞数量相对不足
+T65	Disease 1555 1557;1558 1561	胰岛 素抵抗
+T66	Anatomy 1563 1565	肝脏
+T67	Anatomy 1566 1572	白色脂肪组织
+T68	Disease 1633 1636	糖尿病
+T69	Disease 1694 1703	胰 岛 素 抵 抗
+T70	Disease 1767 1772	胰岛素抵抗
+T71	Anatomy 2094 2095	肝
+T72	Test 2401 2403	血脂
+T73	Disease 2415 2417	肥胖
+T74	Disease 2530 2535;2536 2537	动脉粥样硬 化
+T75	Test 2538 2540	血脂
+T76	Disease 2551 2556	胰岛素抵抗
+T77	Disease 2560 2564;2565 2567	高胆固醇 血症
+T78	Test 2589 2592	胆固醇
+T79	Anatomy 2712 2719	脂 肪 组 织
+T80	Test 2832 2839	极低密度脂蛋白
+T81	Test 2848 2854	脂蛋白脂肪酶
+T82	Anatomy 2878 2882	脂肪组织
+T83	Anatomy 2896 2900	心脏组织
+T84	Anatomy 2958 2962	脂肪组织
+T85	Anatomy 3174 3180;3181 3182	胰岛 β 细 胞
+T86	Disease 3288 3291	糖尿病
+T87	Test 3441 3443	血脂
+T88	Disease 3749 3752	肥 胖
+T89	Disease 3755 3764	2 型 糖 尿 病
+T90	Test 3770 3781	Betatrophin
+T91	Test 3803 3814	Betatrophin
+T92	Test 3843 3849	高密度脂蛋白
+T93	Anatomy 3878 3882	脂肪组织
+T94	Anatomy 3935 3939	脂肪组织
+T95	Disease 4029 4034	胰岛素抵抗
+T96	Disease 4055 4060	胰岛素抵抗
+T97	Anatomy 4584 4586	肝脏
+T98	Anatomy 4588 4592	脂肪组织
+T99	Disease 4635 4638	糖尿病
+T100	Anatomy 4681 4683	肝脏
+T101	Anatomy 4684 4688	脂肪组织
+T102	Disease 4751 4756	胰岛素抵抗
+T103	Anatomy 4772 4774;4775 4777	胰腺 细胞
+T104	Anatomy 4807 4809	肝脏
+T105	Anatomy 4810 4814	白色脂肪
+T106	Anatomy 4815 4819	棕色脂肪
+T107	Anatomy 4884 4886	肝脏
+T108	Anatomy 4887 4893	白色脂肪组织
+T109	Anatomy 4913 4915	肝脏
+T110	Anatomy 4921 4927	白色脂肪组织
+T111	Anatomy 4928 4930	心脏
+T112	Anatomy 4931 4933	大脑
+T113	Anatomy 4934 4936	胰腺
+T114	Anatomy 4937 4940	骨骼肌
+T115	Anatomy 4949 4951	肝脏
+T116	Disease 5183 5186	糖尿病
+T117	Disease 5267 5270	糖尿病
+T118	Disease 5271 5274	糖尿病
+T119	Test 5288 5290	血糖
+T120	Disease 5407 5409	肥胖
+T121	Anatomy 322 333	Betatrophin
+T122	Anatomy 491 502	Betatrophin
+T123	Anatomy 606 617	Betatrophin
+T124	Anatomy 783 794	Betatrophin
+T125	Anatomy 828 839	Betatrophin
+T126	Anatomy 941 952	Betatrophin
+T127	Anatomy 1655 1666	Betatrophin
+T128	Anatomy 2025 2036	Betatrophin
+T129	Anatomy 2078 2089	Betatrophin
+T130	Anatomy 4386 4397	Betatrophin
+T131	Anatomy 4476 4487	Betatrophin
+T132	Test 96 100	糖脂代谢
+T133	Test 211 214	糖耐量
+T134	Test 235 238	脂代谢
+T135	Test 1578 1582;1583 1584	分泌性蛋 白
+T136	Test 1625 1628	糖耐量
+T137	Test 1803 1805	激素
+T138	Test 1808 1810	激素
+T139	Test 1974 1982	肝细胞癌相关蛋白
+T140	Test 2171 2178	ANGPTL8
+T141	Test 2259 2263	脂质代谢
+T142	Test 2284 2287	脂代谢
+T143	Test 2333 2342	(ANGPTL8)
+T144	Test 2657 2660	脂代谢
+T145	Test 2729 2732	体 重
+T146	Test 3091 3094	脂代谢
+T147	Test 3134 3137	糖代谢
+T148	Test 3277 3280	糖耐量
+T149	Disease 3505 3507	肥胖
+T150	Test 3712 3717	糖代谢指标
+T151	Anatomy 4116 4118	肝脏
+T152	Anatomy 4185 4187	胰岛
+T153	Anatomy 4597 4599	胰腺
+T154	Anatomy 4794 4799	内分泌细胞
+T155	Test 4999 5001	激素
+T156	Test 5361 5363	激素
+T157	Disease 5417 5421;5422 5424	代谢性疾 病的
+T158	Reason 1301 1306	胰岛素抵抗
+T159	Anatomy 1933 1939	Gm6484
+T160	Anatomy 1944 1952	EG624219
+T161	Anatomy 1964 1972	C190rf80
+T162	Anatomy 1983 1987	TD26
+T163	Anatomy 2149 2156	lipasin
+T164	Anatomy 2182 2186	TD26
+T165	Anatomy 2188 2196	c19orf80
+T166	Anatomy 2198 2210	RIFL PRO1185
+T167	Anatomy 2212 2219	PVPA599
+T168	Anatomy 2221 2227	Gm6484
+T169	Anatomy 2059 2064	Dock6
+T170	Test_Value 2568 2582	≥5. 2 mmol / L
+T171	Test_Value 2595 2609	<5. 2 mmol / L
+T172	Test_Value 2821 2825	明显下降
+T173	Test_Value 2840 2844	分泌减少
+T174	Test_Value 2855 2859	活性增加
+T175	Test_Value 2890 2894	明显减少
+T176	Test_Value 3383 3394	300 pg / ml
+T177	Test 3608 3614	餐后 2 h
+T178	Anatomy 4147 4149	胰岛
+T179	Anatomy 4221 4224	肾被膜
+T180	Anatomy 4158 4161	肾被膜
+T181	Drug 4377 4381	S961
+T182	Test_Value 3617 3623	升高 35%
+T183	Test_Value 3787 3789	降低
+T184	Test_Value 3820 3824	明显增高
+T185	Test 2453 2462	低密度脂蛋白胆固醇
+T186	Test 2448 2452	总胆固醇
+T187	Anatomy 83 94	Betatrophin
+T188	Anatomy 122 133	Betatrophin
+T189	Anatomy 184 191	胰岛 β 细胞
+T190	Anatomy 219 230	Betatrophin
+T191	Anatomy 240 251	Betatrophin
+T192	Disease 1130 1135;1136 1137	2 型糖尿 病
+T193	Disease 1124 1126	肥胖
+T194	Anatomy 1335 1337	胰岛
+T195	Anatomy 1340 1347	胰岛 β 细胞
+T196	Anatomy 1381 1388	胰岛 β 细胞
+T197	Anatomy 1587 1598	Betatrophin
+T198	Anatomy 1611 1618	胰岛 β 细胞
+T199	Anatomy 1741 1747;1748 1751	胰岛素受体拮 抗剂肽
+T200	Anatomy 1790 1801	Betatrophin
+T201	Anatomy 1818 1825	胰岛 β 细胞
+T202	Anatomy 1839 1850	Betatrophin
+T203	Anatomy 1864 1867	胰岛素
+T204	Anatomy 1868 1875	胰岛 β 细胞
+T205	Anatomy 1887 1898	Betatrophin
+T206	Anatomy 2157 2164;2165 2168	血管生成素样蛋 白 8
+T207	Anatomy 2241 2243	肝脏
+T208	Anatomy 2271 2282	Betatrophin
+T209	Anatomy 2288 2299	Betatrophin
+T210	Anatomy 2305 2313	血管生成素样蛋白
+T211	Anatomy 2323 2333	血管生成素样蛋白 8
+T212	Anatomy 2353 2360;2361 2362	血管生成素样蛋 白
+T213	Anatomy 2387 2398	Betatrophin
+T214	Anatomy 2433 2444	Betatrophin
+T215	Test 2463 2466;2467 2470	载脂蛋 白 B
+T216	Anatomy 2514 2525	Betatrophin
+T217	Anatomy 2625 2636	Betatrophin
+T218	Anatomy 2641 2652	Betatrophin
+T219	Anatomy 2688 2695	ANGPTL8
+T220	Anatomy 2758 2765	ANGPTL8
+T221	Anatomy 2917 2924	ANGPTL8
+T222	Test 2962 2965	脂肪酸
+T223	Anatomy 2975 2986	Betatrophin
+T224	Anatomy 2991 2996	脂蛋白酯酶
+T225	Anatomy 3010 3017	ANGPTL3
+T226	Anatomy 3038 3041;3042 3045	脂蛋白 脂肪酶
+T227	Anatomy 3069 3080	Betatrophin
+T228	Anatomy 3121 3132	Betatrophin
+T229	Anatomy 3158 3169	Betatrophin
+T230	Test 3197 3200	胰岛素
+T231	Anatomy 3213 3224	Betatrophin
+T232	Test 3240 3246	β 细胞功能
+T233	Anatomy 3254 3265	Betatrophin
+T234	Anatomy 3296 3307	Betatrophin
+T235	Anatomy 3349 3360	Betatrophin
+T236	Anatomy 3366 3377	Betatrophin
+T237	Anatomy 3423 3434	Betatrophin
+T238	Test 3452 3455	胰岛素
+T239	Anatomy 3474 3485	Betatrophin
+T240	Anatomy 3543 3554	Betatrophin
+T241	Anatomy 3652 3663	Betatrophin
+T242	Anatomy 3680 3691	Betatrophin
+T243	Test 3828 3835;3836 3842	胰岛素敏感指数 QUICKI
+T244	Anatomy 3884 3895	Betatrophin
+T245	Drug 4011 4019	胰岛素受体拮抗剂
+T246	Anatomy 4041 4052	Betatrophin
+T247	Drug 4097 4105	胰岛素受体拮抗剂
+T248	Anatomy 4119 4130	Betatrophin
+T249	Anatomy 4168 4179	Betatrophin
+T250	Anatomy 4227 4231;4232 4234	胰岛 β 细胞
+T251	Anatomy 4239 4250	Betatrophin
+T252	Anatomy 4258 4265	胰岛 β 细胞
+T253	Anatomy 4367 4368;4369 4375	胰 岛 β 细胞
+T254	Anatomy 4445 4452	胰岛 β 细胞
+T255	Anatomy 4454 4465	Betatrophin
+T256	Anatomy 4516 4527	Betatrophin
+T257	Anatomy 4552 4563	Betatrophin
+T258	Anatomy 4618 4629	Betatrophin
+T259	Anatomy 4652 4663	Betatrophin
+T260	Anatomy 4668 4679	Betatrophin
+T261	Anatomy 4697 4701;4702 4704	胰岛 β 细胞
+T262	Anatomy 4713 4724	Betatrophin
+T263	Anatomy 4757 4768	Betatrophin
+T264	Anatomy 4857 4868	Betatrophin
+T265	Anatomy 4898 4909	Betatrophin
+T266	Anatomy 4953 4964	Betatrophin
+T267	Anatomy 5049 5060	Betatrophin
+T268	Anatomy 5072 5083	Betatrophin
+T269	Anatomy 5093 5104	Betatrophin
+T270	Anatomy 5163 5174	Betatrophin
+T271	Anatomy 5207 5218	Betatrophin
+T272	Anatomy 5232 5243	Betatrophin
+T273	Drug 5284 5287	胰岛素
+T274	Anatomy 5302 5313	Betatrophin
+T275	Disease 5343 5348	心血管疾病
+T276	Anatomy 5388 5399	Betatrophin

@@ -1,0 +1,531 @@
+T1	Disease 2567 2573	2 型糖尿病
+T2	Disease 2831 2832;2833 2837	2 型糖尿病
+T3	Test 2968 2973	HBA1C
+T4	Test 2918 2922	空腹血糖
+T5	Test 4363 4366	血肌酐
+T6	Test 4944 4949	甲状腺功能
+T7	Test 3082 3085	TSH
+T8	Test 4951 4954	TSH
+T9	Test 5069 5072	FT4
+T10	Test 5037 5040	FT3
+T11	Disease 192 194	肺癌
+T12	Disease 227 229	肺癌
+T13	Disease 7439 7441	肺癌
+T14	Disease 7553 7555	肺癌
+T15	Drug 2357 2362	醋酸可的松
+T16	Disease 72 81	肾上腺皮质功能不全
+T17	Disease 83 95	抗利尿激素分泌异常综合征
+T18	Disease 96 101	SIADH
+T19	Disease 138 150	原发性肾上腺皮质功能不全
+T20	Disease 198 203	SIADH
+T21	Drug 206 210	托伐普坦
+T22	Test 211 212;213 214	血 钠
+T23	Disease 233 238	SIADH
+T24	Drug 239 243	托伐普坦
+T25	Test 246 248	血钠
+T26	Test 272 275	皮质醇
+T27	Test_Value 284 286	降低
+T28	Drug 306 311	糖皮质激素
+T29	Test 317 319	血钠
+T30	Disease 344 349	SIADH
+T31	Level 354 356	严重
+T32	Symptom 2152 2158	皮肤色素沉着
+T33	Symptom 2159 2161	乏力
+T34	Symptom 2171 2173	嗜睡
+T35	Duration 2174 2178	20 d
+T36	Symptom 2193 2199	皮肤色素沉着
+T37	Symptom 2200 2203;2204 2208	腋毛及 阴毛脱落
+T38	Symptom 2215 2217	恶心
+T39	Symptom 2218 2220	呕吐
+T40	Test 2223 2225	血压
+T41	Test_Value 2228 2233;2234 2254	(80 ~ 90) / (50 ~ 60) mmHg
+T42	Test 2276 2280	ACTH
+T43	Test_Value 2281 2292	493 pg / ml
+T44	Test 2330 2336	血及尿皮质醇
+T45	Test_Value 2336 2339;2340 2341	明显降 低
+T46	Disease 2346 2355	Addison 病
+T47	Symptom 2367 2369	乏力
+T48	Symptom 2370 2372	恶心
+T49	Disease 2389 2395	上呼吸道感染
+T50	Test 2408 2410	血压
+T51	Test_Value 2413 2425	30 / 20 mmHg
+T52	Test 2426 2428	血钠
+T53	Test_Value 2429 2447	121 ~ 127 mmol / L
+T54	Disease 2452 2457	肾上腺危象
+T55	Drug 2486 2491	醋酸泼尼松
+T56	Frequency 2491 2495	每日两次
+T57	Amount 2498 2503	10 mg
+T58	Amount 2512 2517;2518 2520	6. 25 mg
+T59	Duration 2531 2535	20 d
+T60	Symptom 2546 2548	乏力
+T61	Symptom 2549 2551	嗜睡
+T62	Disease 2581 2587	桥本甲状腺炎
+T63	Disease 2611 2623	原发性甲状旁腺功能减退症
+T64	Disease 2628 2634	慢性支气管炎
+T65	Test 2650 2652	体温
+T66	Test 2660 2662	心率
+T67	Test_Value 2663 2673	80 次 / min
+T68	Test 2674 2676	血压
+T69	Test_Value 2677 2684;2685 2689	95 / 60 mmHg
+T70	Test 2690 2692	呼吸
+T71	Test_Value 2693 2703	20 次 / min
+T72	Symptom 2705 2713	全身皮肤色素沉着
+T73	Symptom 2714 2721	腋毛、阴毛稀少
+T74	Symptom 2723 2729	双肺呼吸音粗
+T75	Symptom 2730 2742	双下肺可闻及呼气相哮鸣音
+T76	Disease 2777 2795	自身免疫性多内分泌腺病综合征 1 型
+T77	Disease 2796 2803;2804 2805	Addison 病
+T78	Disease 2818 2830	原发性甲状旁腺功能减退症
+T79	Disease 2838 2844	慢性支气管炎
+T80	Test 2867 2869	肌酐
+T81	Test_Value 2870 2872;2873 2881	99 μmol / L
+T82	Test 2882 2883	K
+T83	Test_Value 2884 2898	4. 03 mmol / L
+T84	Test 2899 2901	Na
+T85	Test_Value 2902 2917	140. 9 mmol / L
+T86	Test_Value 2926 2929;2930 2940	6 ~ 8 mmol / L
+T87	Test 2941 2950	餐后 2 h 血糖
+T88	Test_Value 2951 2966	8 ~ 10 mmol / L
+T89	Test_Value 2974 2979	6. 9%
+T90	Test_Value 2994 3007	1. 42 μg / dl
+T91	Test_Value 3034 3047	2. 29 pg / ml
+T92	Test 3048 3050;3051 3053	生长 激素
+T93	Test_Value 3054 3067	0. 54 ng / ml
+T94	Test_Value 3086 3099	1. 72 μIU / L
+T95	Test 3116 3118	LH
+T96	Test_Value 3119 3133	18. 5 mIU / ml
+T97	Test 3154 3157	FSH
+T98	Test_Value 3158 3168	68 mIU / L
+T99	Drug 3193 3198	醋酸泼尼松
+T100	Amount 3202 3209	7. 5 mg
+T101	Test 3238 3240	血钠
+T102	Symptom 3257 3259	发热
+T103	Symptom 3262 3264	咳嗽
+T104	Symptom 3266 3268	咳痰
+T105	Symptom 3270 3272	乏力
+T106	Test 3280 3282	血压
+T107	Test_Value 3283 3291;3292 3296	105 / 60 mmHg
+T108	Test 3302 3305	白细胞
+T109	Test_Value 3306 3321	9. 93 × 109 / L
+T110	Test 3322 3330	中性粒细胞百分比
+T111	Test_Value 3331 3337	84. 1%
+T112	Test 3342 3344	血糖
+T113	Test_Value 3345 3359	6. 01 mmol / L
+T114	Test 3360 3362	Na
+T115	Test_Value 3363 3378	127. 6 mmol / L
+T116	Test 3379 3381	Cl
+T117	Test_Value 3382 3387;3388 3396	94. 2 mmol / L
+T118	Disease 3406 3411	肾上腺危象
+T119	Drug 3415 3418	舒普深
+T120	Amount 3419 3425	3. 0 g
+T121	Method 3426 3428	静滴
+T122	Frequency 3429 3435	q 12 h
+T123	Drug 3440 3445	氢化可的松
+T124	Amount 3446 3451	50 mg
+T125	Method 3452 3454	静滴
+T126	Symptom 3459 3461	乏力
+T127	Symptom 3462 3464	嗜睡
+T128	Test 3475 3477	血钠
+T129	Test_Value 3478 3493	124. 7 mmol / L
+T130	Drug 3496 3501	氢化可的松
+T131	Amount 3502 3514	100 ~ 150 mg
+T132	Method 3515 3517	静滴
+T133	Frequency 3518 3520	qd
+T134	Duration 3521 3524	7 d
+T135	Drug 3528 3531	盐胶囊
+T136	Test 3536 3538	血钠
+T137	Test_Value 3542 3560	124 ~ 132 mmol / L
+T138	Method 3562 3566	静脉滴注
+T139	Drug 3567 3577	0. 9% 生理盐水
+T140	Amount 3578 3584	500 ml
+T141	Test 3585 3587	血钠
+T142	Test_Value 3592 3594	下降
+T143	Test 3607 3612	胸部 CT
+T144	Anatomy 3614 3620	右肺下叶背段
+T145	Anatomy 3629 3632	右肺门
+T146	Anatomy 3633 3635	纵膈
+T147	Disease 3694 3706	抗利尿激素分泌异常综合征
+T148	Disease 3708 3713	SIADH
+T149	Method 3757 3759	口服
+T150	Drug 3759 3762	盐胶囊
+T151	Method 3526 3528	口服
+T152	Test 3768 3770	血钠
+T153	Test_Value 3774 3792	110 ~ 130 mmol / L
+T154	Test 3801 3807	PET-CT
+T155	Anatomy 3809 3811;3812 3814	右肺 下叶
+T156	Anatomy 3822 3827	右侧锁骨窝
+T157	Anatomy 3828 3830	纵膈
+T158	Anatomy 3831 3834	右肺门
+T159	Disease 3890 3899	Addison 病
+T160	Disease 3910 3915	SIADH
+T161	Drug 3957 3962	糖皮质激素
+T162	Duration 4069 4072	1 周
+T163	Duration 4084 4087	1 周
+T164	Symptom 4091 4099	右上肢不自主运动
+T165	Symptom 4100 4104	自言自语
+T166	Symptom 4140 4141;4142 4145	反 应迟钝
+T167	Symptom 4146 4155	记忆力及计算力下降
+T168	Disease 4161 4168	慢性浅表性胃炎
+T169	Test 4177 4179	体温
+T170	Test_Value 4180 4186	36. 5℃
+T171	Test 4187 4189	心率
+T172	Test_Value 4190 4200	70 次 / min
+T173	Test 4201 4203	呼吸
+T174	Test_Value 4204 4210;4211 4214	18 次 / min
+T175	Test 4215 4217	血压
+T176	Test_Value 4218 4231	120 / 70 mmHg
+T177	Symptom 4233 4239	神志意识模糊
+T178	Anatomy 4247 4249	皮肤
+T179	Anatomy 4251 4253	肺脏
+T180	Drug 6715 6720	糖皮质激素
+T181	Drug 7046 7051	糖皮质激素
+T182	Drug 7239 7244	糖皮质激素
+T183	Drug 6398 6402	舒尼替尼
+T184	Test 5145 5148	FSH
+T185	Drug 6765 6767;6768 6771	氢化 可的松
+T186	Drug 7685 7688;7689 7691	氢化可 的松
+T187	Drug 7780 7785	氢化可的松
+T188	Disease 5 14	肾上腺皮质功能不全
+T189	Disease 16 28	抗利尿激素分泌异常综合征
+T190	Duration 2162 2166	27 年
+T191	Duration 2186 2190	27 年
+T192	Drug 2481 2485	口服激素
+T193	Duration 2574 2579	10 余年
+T194	Duration 2623 2624;2625 2626	数 月
+T195	Duration 2637 2641	20 年
+T196	Anatomy 2744 2746	心脏
+T197	Anatomy 2747 2749	腹部
+T198	Amount 3932 3938	500 ml
+T199	Drug 3926 3931	9%氯化钠
+T200	Symptom 4240 4245	查体不合作
+T201	Level 163 165	严重
+T202	Test_Value 216 218	正常
+T203	Test_Value 248 250	正常
+T204	Test_Value 321 323	正常
+T205	Anatomy 2458 2460	静脉
+T206	Test 2855 2858	血常规
+T207	Test_Value 2858 2862	基本正常
+T208	Test 2990 2993	皮质醇
+T209	Test_Value 3240 3242	正常
+T210	Duration 3244 3247	6 d
+T211	Test 3298 3301	血常规
+T212	Anatomy 3639 3642	淋巴结
+T213	Anatomy 3836 3839	淋巴结
+T214	Frequency 4118 4129	2 ~ 3 次 / d
+T215	Symptom 4059 4068	发作性精神行为异常
+T216	Anatomy 4254 4256	心脏
+T217	Anatomy 4257 4259	腹部
+T218	Symptom 4266 4274	时间空间定向力差
+T219	Symptom 4275 4279;4280 4285	近记忆力 及计算力差
+T220	Symptom 4286 4289	病理征
+T221	Test 4310 4313	血常规
+T222	Test 4313 4316	白细胞
+T223	Test_Value 4317 4330	3. 38×109 / L
+T224	Test 4331 4333	Hb
+T225	Test_Value 4334 4342	86 g / L
+T226	Test 4344 4347	血小板
+T227	Test_Value 4348 4359	212×109 / L
+T228	Test_Value 4367 4378	60 μmol / L
+T229	Test 4379 4381	Na
+T230	Test_Value 4382 4394	114 mmol / L
+T231	Test 4395 4397	Cl
+T232	Test_Value 4398 4409	71 mmol / L
+T233	Test 4410 4411	K
+T234	Test_Value 4411 4424	3. 7 mmol / L
+T235	Drug 4447 4450	再普乐
+T236	Test 4463 4465	血钠
+T237	Test_Value 4469 4474;4475 4487	111 ~ 125 mmol / L
+T238	Test 4489 4493	血渗透压
+T239	Test_Value 4494 4506	256 mmol / L
+T240	Test 4507 4511	尿渗透压
+T241	Test_Value 4512 4524	314 mmol / L
+T242	Test 4525 4526;4527 4530	尿 钠浓度
+T243	Test_Value 4531 4543	139 mmol / L
+T244	Test_Value 4557 4571	11. 95 μg / dl
+T245	Test 4587 4591	ACTH
+T246	Test_Value 4592 4606	11. 01 pg / ml
+T247	Test 4621 4629	PET / CT
+T248	Anatomy 4630 4634	左肺上叶
+T249	Anatomy 4634 4637	支气管
+T250	Anatomy 4655 4657	纵膈
+T251	Anatomy 4658 4661	左肺门
+T252	Anatomy 4665 4667;4668 4669	淋巴 结
+T253	Test 4670 4676	支气管镜活检
+T254	Disease 4690 4695	SIADH
+T255	Method 4701 4703	口服
+T256	Drug 4703 4706	盐胶囊
+T257	Drug 4707 4711	托伐普坦
+T258	Amount 4712 4717	15 mg
+T259	Frequency 4718 4720	qd
+T260	Test 4726 4728	血钠
+T261	Test_Value 4734 4752	133 ~ 139 mmol / L
+T262	Test 4755 4759	血渗透压
+T263	Test_Value 4760 4772	285 mmol / L
+T264	Test 4773 4777	尿渗透压
+T265	Test_Value 4778 4781;4782 4790	729 mmol / L
+T266	Test 4791 4798	24 h 尿钠
+T267	Test_Value 4802 4814	109 mmol / L
+T268	Drug 4822 4824	卡铂
+T269	Drug 4827 4831	足叶乙甙
+T270	Treatment 4831 4833	化疗
+T271	Duration 4834 4838	3 周期
+T272	Drug 4839 4841	卡铂
+T273	Amount 4842 4848	500 mg
+T274	Drug 4852 4854	VP
+T275	Duration 4849 4851	d1
+T276	Amount 4854 4863	16 100 mg
+T277	Duration 4864 4870	d1 ~ 5
+T278	Test 4877 4879	血钠
+T279	Test_Value 4885 4903	124 ~ 130 mmol / L
+T280	Test 4906 4909	皮质醇
+T281	Test_Value 4910 4915;4916 4923	2. 04 μg / dl
+T282	Test 4924 4928	ACTH
+T283	Test_Value 4929 4943	< 1. 0 pg / ml
+T284	Test_Value 4955 4969	1. 37 μIU / ml
+T285	Test 4986 4988	T3
+T286	Test_Value 4989 5002	1. 0 nmol / L
+T287	Test 5018 5020	T4
+T288	Test_Value 5021 5035	82. 6 nmol / L
+T289	Test_Value 5041 5055	4. 04 pmol / L
+T290	Test_Value 5073 5088	16. 94 pmol / L
+T291	Test 5111 5113	LH
+T292	Test_Value 5114 5129	26. 79 m IU / L
+T293	Test_Value 5149 5165	74. 81 m IU / ml
+T294	Test 5183 5185	GH
+T295	Test_Value 5186 5200	0. 825 ng / ml
+T296	Test 5216 5223	脑垂体 MRI
+T297	Disease 5239 5244	SIADH
+T298	Disease 5247 5257;5258 5260	继发性肾上腺皮质功能 不全
+T299	Disease 5268 5272	低钠血症
+T300	Disease 5279 5284	电解质紊乱
+T301	Symptom 5332 5336	低钠血症
+T302	Disease 5339 5346	多器官功能障碍
+T303	Level 5329 5330;5331 5332	严 重
+T304	Disease 5358 5359;5360 5363	低 钠血症
+T305	Reason 5374 5378	摄入不足
+T306	Reason 5395 5401	体液丢失过多
+T307	Reason 5424 5433	肾上腺皮质功能不全
+T308	Anatomy 5405 5408	胃肠道
+T309	Anatomy 5409 5411	肾脏
+T310	Anatomy 5412 5414	皮肤
+T311	Reason 5441 5450	肾上腺皮质功能不全
+T312	Level 5455 5457	严重
+T313	Disease 5457 5461	低钠血症
+T314	Reason 5467 5474	稀释性低钠血症
+T315	Disease 5477 5482	SIADH
+T316	Disease 5483 5485;5486 5487	肝硬 化
+T317	Disease 5488 5493	肾病综合征
+T318	Disease 5494 5499	心功能不全
+T319	Symptom 5507 5512	血容量过多
+T320	Reason 5514 5523	肾上腺皮质功能不全
+T321	Reason 5525 5530	SIADH
+T322	Level 5535 5537	严重
+T323	Disease 5537 5541	低钠血症
+T324	Disease 5618 5623	SIADH
+T325	Anatomy 5625 5630	肾上腺皮质
+T326	Disease 5772 5777	SIADH
+T327	Anatomy 5802 5805	肾小管
+T328	Anatomy 5830 5844	肾素-血管紧张素-醛固酮系统
+T329	Test 5847 5849	尿钠
+T330	Test_Value 5849 5851	增加
+T331	Symptom 5869 5875	血渗透压下降
+T332	Test 5876 5881	血浆渗透压
+T333	Test_Value 5881 5894	<280 mmol / L
+T334	Test 5896 5897;5898 5899	血 钠
+T335	Test_Value 5899 5912	<134 mmol / L
+T336	Symptom 5918 5922	低钠血症
+T337	Test_Value 5934 5938;5939 5947	>100 mmol / L
+T338	Symptom 5954 5956	水肿
+T339	Symptom 5957 5963	低血容量状态
+T340	Test 5968 5972	尿钠浓度
+T341	Test 5923 5927	尿渗透压
+T342	Test_Value 5975 5978;5979 5987	>40 mmol / L
+T343	Anatomy 5995 5997	肾脏
+T344	Anatomy 5998 6001	肾上腺
+T345	Drug 6031 6035	托伐普坦
+T346	Drug 6044 6047;6048 6049	托伐普 坦
+T347	Drug 6055 6064	选择性非肽类拮抗剂
+T348	Method 6052 6054	口服
+T349	Anatomy 6072 6075	AVP
+T350	Anatomy 6078 6083	远端肾小管
+T351	Anatomy 6084 6089	V2 受体
+T352	Anatomy 6094 6096	肾脏
+T353	Disease 6115 6120	SIADH
+T354	Symptom 6123 6127	低钠血症
+T355	Drug 6155 6159	托伐普坦
+T356	Disease 6169 6174	SIADH
+T357	Disease 6211 6220	肾上腺皮质功能不全
+T358	Anatomy 6233 6238	盐皮质激素
+T359	Test 6245 6247	尿钠
+T360	Test_Value 6247 6249	增加
+T361	Symptom 6250 6257;6258 6259	有效循环容量减 少
+T362	Test 6185 6187	血钠
+T363	Anatomy 6265 6268	AVP
+T364	Test 6272 6274	血钠
+T365	Disease 6304 6313	肾上腺皮质功能不全
+T366	Disease 6325 6337	继发性肾上腺皮质功能不全
+T367	Anatomy 6340 6343	下丘脑
+T368	Anatomy 6344 6346	垂体
+T369	Drug 6358 6360	卡铂
+T370	Drug 6361 6363	顺铂
+T371	Drug 6369 6373	甲地孕酮
+T372	Drug 6374 6377;6378 6385	非核苷 逆转录酶抑制剂
+T373	Drug 6386 6397	Rilpivirine
+T374	Disease 6437 6440	卵巢癌
+T375	Drug 6444 6446	卡铂
+T376	Drug 6447 6449	顺铂
+T377	Test 6450 6453;6454 6455	血皮质 醇
+T378	Test_Value 6459 6463	明显下降
+T379	Anatomy 6475 6482;6483 6487	下丘脑-垂体- 肾上腺轴
+T380	Disease 6501 6506	SIADH
+T381	Disease 6509 6518	肾上腺皮质功能不全
+T382	Symptom 6557 6559	恶心
+T383	Symptom 6560 6562	呕吐
+T384	Symptom 6563 6567	意识障碍
+T385	Level 6576 6578	严重
+T386	Symptom 6578 6582	低钠血症
+T387	Test 6583 6585	尿钠
+T388	Test_Value 6585 6587	升高
+T389	Test 6588 6592	尿渗透压
+T390	Test 6594 6596;6597 6599	血渗 透压
+T391	Test 6600 6603	皮质醇
+T392	Test_Value 6603 6605	正常
+T393	Disease 6611 6623	垂体 Rathke 囊肿
+T394	Disease 6627 6632	SIADH
+T395	Test 6641 6643	血钠
+T396	Test_Value 6645 6647	正常
+T397	Symptom 6659 6663	低钠血症
+T398	Disease 6668 6677	Rathke 囊肿
+T399	Test 6682 6685	皮质醇
+T400	Test 6687 6694	ACTH 水平
+T401	Test_Value 6694 6696	下降
+T402	Disease 6702 6714	继发性肾上腺皮质功能不全
+T403	Test 6725 6727	血钠
+T404	Test_Value 6730 6732	正常
+T405	Disease 6750 6754	垂体卒中
+T406	Test 6796 6797;6798 6801	血 钠水平
+T407	Test_Value 6803 6805	下降
+T408	Disease 6813 6818	SIADH
+T409	Disease 6824 6833	肾上腺皮质功能不全
+T410	Symptom 6836 6846	继发性 AVP 升高
+T411	Test 6864 6871	肾上腺激素水平
+T412	Disease 6889 6898	肾上腺皮质功能不全
+T413	Disease 6906 6911	SIADH
+T414	Symptom 6938 6942	全身疲乏
+T415	Symptom 6944 6945;6946 6949	低 钠血症
+T416	Test 6950 6953	AVP
+T417	Test_Value 6954 6956	升高
+T418	Test 6957 6960	皮质醇
+T419	Test_Value 6960 6962	正常
+T420	Anatomy 6968 6974	中枢神经系统
+T421	Disease 6975 6976;6977 6981	肾 上腺结核
+T422	Disease 6985 6990	SIADH
+T423	Symptom 7006 7007;7008 7009	恶 心
+T424	Symptom 7010 7012	乏力
+T425	Symptom 7013 7017	意识障碍
+T426	Symptom 7018 7022	血压下降
+T427	Test 7025 7030	皮质醇水平
+T428	Test_Value 7030 7034	正常低限
+T429	Test 7036 7040	ACTH
+T430	Test_Value 7041 7045	明显升高
+T431	Test 7068 7071	皮质醇
+T432	Test_Value 7075 7077	正常
+T433	Disease 7081 7086	SIADH
+T434	Disease 7140 7149	肾上腺皮质功能不全
+T435	Disease 7181 7190	Addison 病
+T436	Disease 7196 7201	肾上腺危象
+T437	Disease 7206 7210	肺部感染
+T438	Level 7214 7216	严重
+T439	Disease 7216 7220	低钠血症
+T440	Disease 7229 7232;7233 7235	肾上腺 危象
+T441	Anatomy 7253 7255	静脉
+T442	Disease 7262 7266	低钠血症
+T443	Disease 7272 7277	SIADH
+T444	Drug 7298 7302	托伐普坦
+T445	Amount 7303 7308	15 mg
+T446	Frequency 7309 7311	qd
+T447	Drug 7312 7317	醋酸泼尼松
+T448	Amount 7318 7325	7. 5 mg
+T449	Amount 7334 7338	5 mg
+T450	Test 7349 7351	血钠
+T451	Test_Value 7362 7380	136 ~ 142 mmol / L
+T452	Drug 7381 7383;7384 7386	托伐 普坦
+T453	Amount 7402 7407	15 mg
+T454	Test 7408 7410	血钠
+T455	Test_Value 7413 7417	正常范围
+T456	Symptom 7420 7421;7422 7423	乏 力
+T457	Symptom 7424 7426	恶心
+T458	Symptom 7427 7429	呕吐
+T459	Disease 7470 7481;7482 7483	原发性肾上腺皮质功能不 全
+T460	Disease 7486 7491	SIADH
+T461	Level 7517 7519	严重
+T462	Disease 7519 7523	低钠血症
+T463	Test 7529 7533	尿渗透压
+T464	Test 7534 7538	尿钠水平
+T465	Disease 7542 7547	SIADH
+T466	Drug 7560 7564	托伐普坦
+T467	Disease 7579 7583	低钠血症
+T468	Test 7587 7593	血皮质醇水平
+T469	Treatment 7594 7596	化疗
+T470	Test_Value 7597 7601	明显下降
+T471	Drug 7604 7606	卡铂
+T472	Disease 7609 7613;7614 7622	继发性肾 上腺皮质功能不全
+T473	Drug 7625 7628	强的松
+T474	Amount 7629 7634	10 mg
+T475	Frequency 7635 7638	bid
+T476	Duration 7639 7642	1 周
+T477	Test 7645 7647	血钠
+T478	Test_Value 7648 7669	132. 2 ~ 138 mmol / L
+T479	Treatment 7677 7679	化疗
+T480	Amount 7692 7697	20 mg
+T481	Amount 7706 7711	10 mg
+T482	Test 7721 7723	血钠
+T483	Test_Value 7727 7736;7737 7745	136 ~ 140 mmol / L
+T484	Treatment 7749 7751	化疗
+T485	Duration 7752 7756	6 疗程
+T486	Test 7770 7772	血钠
+T487	Test_Value 7773 7775	正常
+T488	Drug 7786 7790	托伐普坦
+T489	Disease 7810 7815	SIADH
+T490	Disease 7817 7834	原发性 /继发性肾上腺皮质功能不全
+T491	Level 7839 7841	严重
+T492	Disease 7841 7845	低钠血症
+T493	Disease 7883 7890	顽固性低钠血症
+T494	Disease 2806 2817	原发性甲状腺功能减退症
+T495	Anatomy 6002 6005	甲状腺
+T496	Disease 4679 4684	小细胞肺癌
+T497	Disease 5233 5238	小细胞肺癌
+T498	Disease 6161 6166	小细胞肺癌
+T499	Disease 104 110;111 112	顽固性低钠血 症
+T500	Disease 165 169	低钠血症
+T501	Disease 261 265;266 269	顽固性低 钠血症
+T502	Test 277 281	ACTH
+T503	Disease 296 305	肾上腺皮质功能不全
+T504	Disease 325 342	原发性 /继发性肾上腺皮质功能不全
+T505	Disease 356 360	低钠血症
+T506	Disease 386 393	顽固性低钠血症
+T507	Symptom 2210 2214	间断乏力
+T508	Test_Value 2653 2659	36. 4℃
+T509	Symptom 2757 2770	双下肢轻度对称性凹陷性水肿
+T510	Test 3022 3033	8 : 00 ACTH
+T511	Amount 3213 3217	5 mg
+T512	Symptom 3253 3254;3255 3256	寒 战
+T513	Symptom 3273 3277	嗜睡加重
+T514	Disease 3399 3404	呼吸道感染
+T515	Disease 3654 3661	顽固性低钠血症
+T516	Disease 3716 3720	低钠血症
+T517	Test 3847 3855	锁骨上淋巴结穿刺
+T518	Disease 3878 3885	顽固性低钠血症
+T519	Symptom 4106 4115	言语内容杂乱不切题
+T520	Anatomy 6223 6228	糖皮质激素
+T521	Disease 2588 2593;2594 2600	原发性甲状 腺功能减退症
+T522	Disease 3860 3868;3869 3872	小细胞肺癌伴淋巴 结转移
+T523	Disease 3901 3902;3903 3907	小 细胞肺癌
+T524	Disease 7288 7292;7293 7294	小细胞肺 癌
+T525	Test 4425 4430	头颅MRI
+T526	Test 4544 4556	血 8 : 00 皮质醇
+T527	Treatment 7439 7443	肺癌化疗
+T528	Reason 7550 7555	小细胞肺癌
+T529	Test 4432 4437	脑脊液检查
+T530	Test_Value 4437 4441	未见异常
+T531	Test 5786 5791	抗利尿激素

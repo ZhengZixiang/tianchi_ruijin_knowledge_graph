@@ -1,0 +1,350 @@
+T1	Disease 41 47	2 型糖尿病
+T2	Disease 135 141	2 型糖尿病
+T3	Disease 178 184	2 型糖尿病
+T4	Disease 1187 1193	2 型糖尿病
+T5	Disease 3985 3991	2 型糖尿病
+T6	Disease 4245 4251	2 型糖尿病
+T7	Disease 4309 4315	2 型糖尿病
+T8	Disease 4504 4510	2 型糖尿病
+T9	Disease 4603 4609	2 型糖尿病
+T10	Disease 4825 4831	2 型糖尿病
+T11	Disease 7809 7815	2 型糖尿病
+T12	Disease 9264 9270	2 型糖尿病
+T13	Disease 9391 9397	2 型糖尿病
+T14	Disease 9433 9439	2 型糖尿病
+T15	Disease 9469 9475	2 型糖尿病
+T16	Disease 9672 9678	2 型糖尿病
+T17	Disease 10108 10114	2 型糖尿病
+T18	Disease 10163 10169	2 型糖尿病
+T19	Disease 10249 10255	2 型糖尿病
+T20	Disease 10311 10317	2 型糖尿病
+T21	Disease 10929 10935	2 型糖尿病
+T22	Disease 10986 10992	2 型糖尿病
+T23	Disease 4413 4414;4415 4419	2 型糖尿病
+T24	Test 4713 4718	HBA1C
+T25	Test 4898 4903	HBA1C
+T26	Test 8582 8587	LDL-C
+T27	Test 9094 9099	LDL-C
+T28	Test 669 673	空腹血糖
+T29	Test 4878 4882	空腹血糖
+T30	Test 6275 6279	空腹血糖
+T31	Test 6826 6830	空腹血糖
+T32	Test 8089 8093	空腹血糖
+T33	Test 9100 9109	低密度脂蛋白胆固醇
+T34	Test 967 971	总胆固醇
+T35	Test 5973 5977	总胆固醇
+T36	Test 8548 8552	总胆固醇
+T37	Test 9502 9506	总胆固醇
+T38	Test 207 211	体重指数
+T39	Test 474 478	体重指数
+T40	Test 4227 4231	体重指数
+T41	Test 4390 4394	体重指数
+T42	Test 4681 4685	体重指数
+T43	Test 4799 4803	体重指数
+T44	Test 5703 5707	体重指数
+T45	Test 6585 6589	体重指数
+T46	Test 7959 7963	体重指数
+T47	Test 9372 9376	体重指数
+T48	Test 5591 5595	OGTT
+T49	Test 857 860	收缩压
+T50	Test 7019 7022	收缩压
+T51	Test 8599 8602	收缩压
+T52	Test 9613 9616	收缩压
+T53	Test 924 927	舒张压
+T54	Test 7083 7086	舒张压
+T55	Test 8634 8637	舒张压
+T56	Test 9617 9620	舒张压
+T57	Test 5726 5729	腰臀比
+T58	Test 417 419	腰围
+T59	Test 5691 5693	腰围
+T60	Test 5730 5732	腰围
+T61	Test 6468 6470	腰围
+T62	Test 6534 6536	腰围
+T63	Test 7990 7992	腰围
+T64	Test 7571 7573	尿酸
+T65	Test 7627 7629	尿酸
+T66	Test 10498 10500	尿酸
+T67	SideEff 10812 10817	高尿酸血症
+T68	Test 6033 6036	尿酮体
+T69	Test 5694 5696	臀围
+T70	Test 5738 5740	臀围
+T71	Test 1080 1089	口服葡萄糖耐量试验
+T72	Test 5550 5552;5553 5560	口服 葡萄糖耐量试验
+T73	Test 6060 6062;6063 6069	胰岛 素曲线下面积
+T74	Test 1114 1121	胰岛素抵抗指数
+T75	Test 6256 6259;6260 6264	胰岛素 抵抗指数
+T76	Test 7330 7335;7336 7338	胰岛素抵抗 指数
+T77	Test 9145 9152	胰岛素抵抗指数
+T78	Test 1122 1129	HOMA-IR
+T79	Test 3595 3602	HOMA-IR
+T80	Test 6265 6272	HOMA-IR
+T81	Test 7339 7346	HOMA-IR
+T82	Test 8670 8677	HOMA-IR
+T83	Test 9130 9137	HOMA-IR
+T84	Test 735 740	空腹胰岛素
+T85	Test 6280 6285	空腹胰岛素
+T86	Test 6891 6896	空腹胰岛素
+T87	Test 8155 8160	空腹胰岛素
+T88	Anatomy 5652 5659	胰岛 β 细胞
+T89	Anatomy 7191 7195	β 细胞
+T90	Test 792 796	甘油三酯
+T91	Test 5953 5957	甘油三酯
+T92	Test 8518 8522	甘油三酯
+T93	Test 2072 2075	BMI
+T94	Test 2382 2385	BMI
+T95	Test 5684 5686	身高
+T96	Test 1195 1197	体重
+T97	Test 4092 4094	体重
+T98	Test 6465 6467	体重
+T99	Test 6481 6483	体重
+T100	Test 7939 7941	体重
+T101	Test 9326 9328	体重
+T102	Test 325 327	血糖
+T103	Test 328 330	血脂
+T104	Test 331 333	血压
+T105	Test_Value 368 386	(70. 5 ± 11. 0) kg
+T106	Test_Value 389 407	(65. 9 ± 10. 5) kg
+T107	Test_Value 420 440	(86. 68 ± 10. 26) cm
+T108	Test_Value 479 503	(25. 99 ± 2. 78) kg / m2
+T109	Test_Value 505 529	(23. 89 ± 2. 66) kg / m2
+T110	Test 544 550	内脏脂肪面积
+T111	Test_Value 551 573	(104. 79 ± 29. 65) cm2
+T112	Test_Value 575 596	(97. 44 ± 29. 14) cm2
+T113	Test 607 612	体脂肪重量
+T114	Test_Value 633 650	(20. 9 ± 4. 5) kg
+T115	Test_Value 674 698	(8. 47 ± 1. 77) mmol / L
+T116	Test_Value 741 761	(10. 8 ±4. 0)mIU / L
+T117	Test_Value 764 782	(7. 1±4. 2)mIU / L
+T118	Test_Value 823 847	(1. 28 ± 0. 50) mmol / L
+T119	Test_Value 861 876	(127 ± 11) mmHg
+T120	Test_Value 899 914	(117 ± 10) mmHg
+T121	Test_Value 928 940	(80 ±7) mmHg
+T122	Test_Value 943 956	(73 ±10) mmHg
+T123	Reason 1200 1205	胰岛素抵抗
+T124	Reason 4132 4137	胰岛素抵抗
+T125	Disease 4222 4226	重度肥胖
+T126	SideEff 4345 4348	低血糖
+T127	SideEff 4349 4351	头晕
+T128	SideEff 4352 4354	疲劳
+T129	SideEff 4355 4357	怕冷
+T130	Test_Value 4803 4806;4807 4814	≤40 kg / m2
+T131	Duration 4818 4823	5 年以内
+T132	Test 4847 4849	血糖
+T133	Test 4854 4856	血糖
+T134	Test_Value 4904 4908	≥10%
+T135	Disease 4949 4952	脂肪肝
+T136	Disease 4946 4948	肝病
+T137	Disease 4971 4974	肺结核
+T138	Disease 4976 4980	营养不良
+T139	Disease 4987 4992	神经性厌食
+T140	Disease 4993 4996	易饿病
+T141	Disease 4997 4999	癫痫
+T142	Disease 5000 5005	精神分裂症
+T143	Disease 5014 5018	广泛肿瘤
+T144	Disease 5019 5022	转移癌
+T145	Disease 5023 5026	艾滋病
+T146	Drug 5140 5143	胰岛素
+T147	Test 5214 5216	血糖
+T148	Test 5217 5219	血压
+T149	Test 5220 5222	心率
+T150	Test 5234 5236	血糖
+T151	Test_Value 5236 5250	≤3. 9 mmol / L
+T152	Test 5281 5283	血糖
+T153	Test 5598 5607	静脉葡萄糖耐量试验
+T154	Test 5687 5688;5689 5690	体 重
+T155	Test 5697 5699	血压
+T156	Test 5700 5702	心率
+T157	Test 5988 5994	低密度脂蛋白
+T158	Test_Value 6506 6524	(65. 9 ± 10. 5) kg
+T159	Test_Value 6537 6555	(86. 7 ± 10. 3) cm
+T160	Test_Value 6558 6575	(81. 0 ± 9. 8) cm
+T161	Test_Value 6590 6599;6600 6614	(25. 99 ± 2. 78) kg / m2
+T162	Test_Value 6616 6639	(23. 89 ±2. 66) kg / m2
+T163	Test 6654 6660	内脏脂肪面积
+T164	Test_Value 6661 6683	(104. 79 ± 29. 65) cm2
+T165	Test_Value 6685 6692;6693 6705	(97. 44 ±29. 14) cm2
+T166	Test 6718 6723	体脂肪重量
+T167	Test_Value 6831 6854	(8. 47 ±1. 77) mmol / L
+T168	Test_Value 6858 6881	(6. 30 ±1. 82) mmol / L
+T169	Test_Value 6921 6941	(7. 13±4. 19)mIU / L
+T170	Test_Value 6957 6981	(2. 36 ± 1. 71) mmol / L
+T171	Test_Value 6984 7008	(1. 28 ± 0. 50) mmol / L
+T172	Test_Value 7023 7037	(127 ±11) mmHg
+T173	Test_Value 7058 7073	(117 ± 10) mmHg
+T174	Test_Value 7103 7117	(73 ± 10) mmHg
+T175	Test 7134 7140	低密度脂蛋白
+T176	Test_Value 7235 7259	(62. 37 ±40. 28) mIU / L
+T177	SideEff 7448 7451	低血糖
+T178	Test 7452 7456	末梢血糖
+T179	SideEff 7519 7522	低血糖
+T180	Test_Value 7578 7594	322. 20 μmol / L
+T181	Test_Value 7600 7616	547. 40 μmol / L
+T182	Test 7675 7683	丙氨酸氨基转移酶
+T183	Test_Value 7687 7696	162 U / L
+T184	Test 7697 7707	天门冬氨酸氨基转移酶
+T185	Test_Value 7711 7719	72 U / L
+T186	Test_Value 7733 7741	74 U / L
+T187	Test_Value 7744 7752	50 U / L
+T188	SideEff 7760 7764	心律失常
+T189	SideEff 7765 7770	电解质紊乱
+T190	SideEff 7771 7776	酮症酸中毒
+T191	SideEff 7777 7782	血细胞减少
+T192	SideEff 7783 7784;7785 7786	贫 血
+T193	Test 9309 9311	血糖
+T194	Test_Value 9376 9387	>40 kg / m2
+T195	Test 9495 9501	低密度脂蛋白
+T196	Test 9642 9644	血压
+T197	Test_Value 9644 9646	降低
+T198	Duration 9600 9603	9 天
+T199	Disease 9681 9684	高血压
+T200	Disease 9694 9697	高血压
+T201	Duration 9846 9849	9 天
+T202	Duration 10056 10059	8 周
+T203	Test 10570 10572	酮体
+T204	Test_Value 10579 10601	0. 33 ~ 0. 72 mmol / L
+T205	Disease 10629 10634	酮症酸中毒
+T206	SideEff 10672 10674;10675 10676	低血 糖
+T207	SideEff 10711 10713	脱发
+T208	SideEff 10714 10716	抽筋
+T209	SideEff 10733 10735	口臭
+T210	SideEff 10757 10761	心律失常
+T211	SideEff 10762 10767	电解质紊乱
+T212	SideEff 10818 10821	低血糖
+T213	SideEff 10864 10867	低血糖
+T214	SideEff 10683 10685	头痛
+T215	SideEff 10686 10688	疲劳
+T216	SideEff 10689 10691	怕冷
+T217	SideEff 10692 10696	皮肤干燥
+T218	SideEff 10704 10710	排便习惯改变
+T219	SideEff 10697 10701;10702 10703	一过性皮 疹
+T220	Test_Value 613 627;628 630	(22. 8 ± 4. 9) kg
+T221	Test_Value 701 716;717 725	(6. 30 ± 1. 82) mmol / L
+T222	Test_Value 797 804;805 820	(2. 36± 1. 71) mmol / L
+T223	Test 972 976;977 979	低密度脂 蛋白
+T224	Test_Value 1132 1144	4. 12 ±1. 87
+T225	Test_Value 1148 1160	2. 02 ±1. 25
+T226	Test_Value 4882 4897	>16. 7 mmol / L
+T227	Disease 4981 4984;4985 4986	酒精中 毒
+T228	Disease 5006 5010;5011 5013	阿尔茨海 默病
+T229	Test 5708 5710	体重
+T230	Test 5716 5717;5718 5719	身 高
+T231	Test_Value 6897 6905;6906 6918	(10. 8 ± 4. 0)mIU / L
+T232	Test 7128 7131;7132 7133	总胆固 醇
+T233	Test_Value 7087 7092;7093 7100	(80 ± 7) mmHg
+T234	Test 6951 6954;6955 6956	甘油三 酯
+T235	Test_Value 7262 7278;7279 7286	(98. 18 ±77. 17) mIU / L
+T236	Test_Value 7349 7362	4. 12 ± 1. 87
+T237	Test_Value 7366 7379	2. 02 ± 1. 25
+T238	Test_Value 7456 7461;7462 7470	≤3. 9 mmol / L
+T239	Test 7493 7495	血糖
+T240	Test_Value 7497 7510	3. 1 mmol / L
+T241	SideEff 7539 7542	低血糖
+T242	Test 8053 8059	内脏脂肪面积
+T243	Test 1010 1016	胰岛素分泌量
+T244	Test 4043 4045	血糖
+T245	Test 4097 4099	血糖
+T246	Treatment 9457 9461	限食疗法
+T247	Test 10070 10077	内脏脂肪减少量
+T248	Disease 10895 10898	糖尿病
+T249	Disease 4963 4969	严重慢性感染
+T250	Anatomy 143 146	胰岛素
+T251	Test 334 339	胰岛素分泌
+T252	Test 340 346	胰岛素敏感性
+T253	Disease 4026 4029	糖尿病
+T254	Anatomy 4120 4123	胰岛素
+T255	Test_Value 4231 4242	>40 kg / m2
+T256	Duration 4257 4260	7 d
+T257	Treatment 31 39	短期极低热量限食
+T258	Treatment 125 133	短期极低热量限食
+T259	Treatment 4261 4267	极低热量限食
+T260	Treatment 4291 4299	短期极低热量限食
+T261	Anatomy 4326 4328	胰岛
+T262	Test_Value 4394 4405	≤40 kg / m2
+T263	Anatomy 4437 4439;4440 4441	脂肪 酸
+T264	Treatment 4489 4497	短期极低热量限食
+T265	Test_Value 4685 4694;4695 4709	(25. 91 ± 2. 83) kg / m2
+T266	Test_Value 4719 4734	7. 88% ± 1. 82%
+T267	Test 4663 4665	年龄
+T268	Test_Value 4665 4680	(41. 3 ± 7. 3)岁
+T269	Disease 4737 4740	糖尿病
+T270	Disease 4764 4767	糖尿病
+T271	Disease 5051 5054	糖尿病
+T272	Anatomy 5202 5204	胰岛
+T273	Drug 5254 5262	20 g 葡萄糖
+T274	Duration 5306 5309	9 d
+T275	Treatment 5310 5316	极低热量限食
+T276	Method 5430 5434	静脉推注
+T277	Frequency 5442 5446;5447 5448	每天 2 次
+T278	Amount 5449 5455	每次 2 g
+T279	Test 5644 5649	IVGTT
+T280	Test 5752 5758	内脏脂肪含量
+T281	Anatomy 5861 5864	静脉血
+T282	Test 5942 5945	胰岛素
+T283	Anatomy 7398 7400	胰岛
+T284	Treatment 7525 7531	极低热量限食
+T285	Disease 9239 9242	糖尿病
+T286	Anatomy 9314 9317	胰岛素
+T287	Treatment 9401 9409	短期极低热量限食
+T288	Treatment 9416 9424	短期极低热量限食
+T289	Anatomy 9451 9453	胰岛
+T290	Treatment 9603 9609	极低热量限食
+T291	Test_Value 9622 9624	降低
+T292	Test 9774 9777	胰岛素
+T293	Test 9799 9802	胰岛素
+T294	Anatomy 9822 9824	胰岛
+T295	Treatment 9849 9855	极低热量限食
+T296	Test 9855 9863;9864 9870	胰岛素第一时相分 泌曲线下面积
+T297	Test 9888 9894;9895 9903	胰岛素第二时 相分泌曲线下面积
+T298	Test_Value 9870 9872	增多
+T299	Test 9934 9941	胰岛素释放试验
+T300	Disease 10007 10009	肥胖
+T301	Test 10194 10200	胰岛素敏感性
+T302	Treatment 10299 10307	短期极低热量限食
+T303	Treatment 10448 10454	极低热量限食
+T304	Test_Value 10501 10503	增加
+T305	Test_Value 10641 10644;10645 10653	>25 mmol / L
+T306	Test_Value 10609 10613;10614 10622	0. 1 mmol / L
+T307	Disease 10949 10952	糖尿病
+T308	Treatment 10965 10966;10967 10972	短 期极低限食
+T309	SideEff 7565 7570	高尿酸血症
+T310	Test 10635 10638	血酮体
+T311	Test 5503 5504;5505 5509	空 腹尿酮体
+T312	Test 7296 7305	口服葡萄糖耐量试验
+T313	Test 257 266	胰岛 β 细胞功能
+T314	Test 305 306;307 315	胰 岛 β 细胞功能
+T315	Anatomy 49 53;54 56	胰岛 β 细胞
+T316	Test 365 367	体重
+T317	Anatomy 997 999	静脉
+T318	Test 999 1006	葡萄糖耐量试验
+T319	Drug 4432 4436	左卡尼汀
+T320	SideEff 5229 5230;5231 5233	低 血糖
+T321	Drug 5434 5438	左卡尼汀
+T322	Test 7305 7311;7312 7316	胰岛素分泌曲 线下面积
+T323	Test 7214 7223	静脉葡萄糖耐量试验
+T324	Disease 7652 7654	痛风
+T325	SideEff 7666 7674	一过性转氨酶增高
+T326	Level 9367 9369	重度
+T327	Disease 9369 9371	肥胖
+T328	Level 9428 9430	重度
+T329	Disease 9430 9432	肥胖
+T330	Disease 10514 10516	痛风
+T331	SideEff 10532 10534	酮症
+T332	SideEff 10719 10723	月经紊乱
+T333	Disease 10844 10846	痛风
+T334	Test_Value 10849 10851;10852 10862	低于 3 mmol / L
+T335	SideEff 10680 10682	头晕
+T336	Level 10677 10679	轻微
+T337	SideEff 10726 10727;10728 10732	转 氨酶增高
+T338	Test 7227 7230;7231 7234	胰岛素 分泌量
+T339	Disease 4956 4959;4960 4962	肾功能 衰竭
+T340	Test 5881 5883	血糖
+T341	Disease 4306 4308	肥胖
+T342	Disease 4410 4412	肥胖
+T343	Disease 4501 4503	肥胖
+T344	Test_Value 4792 4797	18. 5
+T345	Test 6070 6076	胰岛素敏感性
+T346	Level 4303 4304;4305 4306	重 度
+T347	Level 4408 4410	重度
+T348	Level 4499 4501	重度
+T349	Level 9463 9465	重度
+T350	Disease 9465 9466;9467 9468	肥 胖

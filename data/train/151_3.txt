@@ -1,0 +1,325 @@
+甲状腺疾病
+基金项目:金赛儿科中青年内分泌医师科研基金(5201-2130108)
+甲巯咪唑治疗 379 例甲状腺功能亢进儿童的
+单中心临床研究
+毛晓健  马晓丹  刘丽  黄永兰  周志红  李秀珍  程静  吴冬燕
+[摘要]   目的  观察甲巯咪唑(methimazole,MMI)对中国南方儿童甲状腺功能亢进症(甲亢)的治疗
+效果、MMI 相关不良反应,识别与缓解和复发有关的预测因子。 方法 回顾性分析广州市妇女儿童医疗中
+心于 2004 年 3 月至 2014 年 7 月收治的中国南方汉族甲亢患儿 379 例,平均诊断年龄为(9. 3 ± 2. 3)岁(范
+围 2. 0 ~ 15. 9 岁),女孩 260 例,男孩 119 例。 所有患儿均用 MMI 治疗。 结果 经过 MMI 治疗 3 和 6 个月,
+分别有 96. 3% (365 / 379)和 98. 9% (375 / 379)的甲亢患儿 FT3、FT4和 TSH 可恢复至正常水平。 观察结束时
+256 例(67. 5% )患儿仍在持续用药,44 例(11. 6% )失访,79 例(20. 8% )缓解,其中 35 例(44. 3% )缓解后
+复发。 持续缓解组与缓解后复发组相比,初诊时 FT3、FT4水平更低(P<0. 05 或 P<0. 01);经 MMI 治疗 3 个
+月内甲状腺功能恢复正常的患儿更容易长期缓解(P<0. 05);有甲状腺疾病家族史的患儿缓解停药后更容
+易复发(P<0. 05)。 而诊断年龄、性别、突眼、甲状腺肿大程度、抗甲状腺过氧化物酶抗体(TPOAb)、甲状腺
+球蛋白抗体(TGAb)在持续缓解组与缓解后复发组间差异无统计学意义。 MMI 不良反应的发生率为
+27. 7% ,主要为谷丙转氨酶升高、胆红素升高、中性粒细胞减少,66. 7%的不良反应发生在用药后的前 3 个
+月。 结论 MMI 治疗儿童甲亢效果好,但缓解率低,复发率高。 初诊时甲状腺功能水平低,治疗 3 个月内
+甲状腺功能恢复正常可以作为缓解的预测因子。 MMI 治疗儿童甲亢的不良反应在服药后的前 3 个月高
+发,治疗过程中应注意监测。
+[关键词]   甲巯咪唑; 儿童; 甲亢; 缓解; 复发
+Clinical research on methimazole treatment of 379 children with hyperthyroidism at a single institution Mao
+Xiaojian, Ma Xiaodan, Liu Li, Huang Yonglan, Zhou Zhihong, Li Xiuzhen, Cheng Jing, Wu Dongyan. The
+Department of Genetics and Endocrinology, Guangzhou Women and Children忆s Medical Center, Guangzhou Medical
+University, Guangzhou 510623, China
+[Abstract]   Objective   To investigate the clinical efficacy and adverse events of methimazole ( MMI)
+treatment for children with hyperthyroidism, and to identify the predictors of remission and relapse. Methods A total
+of 379 children(260 girls and 119 boys)diagnosed with hyperthyroidism and treated by MMI in Guangzhou Women and
+Children忆s Medical Center from March, 2004 to July, 2014 were retrospectively analyzed. The average age at
+diagnosis was(9. 3 ± 2. 3)years (range 2. 0 ~ 15. 9 years) . Results After treatment with MMI for 3 and 6 months,
+the thyroid functions of 96. 3% (365 / 379) and 98. 9% (375 / 379) patients returned to normal, respectively. By the
+end of this study, 256(67. 5% ) patients continued to use MMI treatment and 44 patients(11. 6% ) dropped out. 79
+patients (20. 8% ) achieved remission, 35 patients (44. 3% ) of whom experienced a later relapse. Children who
+achieved constant remission had significantly lower FT3 and FT4 levels at diagnosis compared with the relapsed
+children (P<0. 05 or P<0. 01) . It was more likely to remain long-term remission for children turned to be euthyroid
+within 3 months after initiating MMI treatment(P<0. 05) . The relieved patients with family history of thyroid diseases
+were more likely to be relapsed (P<0. 05) . There were no significant differences in age, gender, exophthalmos,
+initial goiter size, thyroid peroxidase autoantibody, and thyroglobulin antibody levels between the relieved and
+relapsed patients. The overall incidence of adverse events associated with MMI was 27. 7% , mainly elevated alanine
+aminotransferase, bilirubin, and neutropenia. Most(66. 7% ) of adverse events occurred within the first three months
+of MMI treatment. Conclusion MMI has a good effect on pediatric hyperthyroidism, with low remission and high
+relapse rate. The low thyroid hormone concentrations at diagnosis and normalization of thyroid function within three
+months seem to be useful predictors of remission. Vigilance is needed concerning MMI-associated adverse events
+throughout the MMI treatment period, especially during the first trimester of MMI initiation.
+[Key words]  Methimazole; Children; Hyperthyroidism; Remission; Relapse
+(Chin J Endocrinol Metab, 2016, 32: 6-10)
+甲状腺功能亢进症(Hyperthyroidism),简称甲亢,
+是由多种病因引起的甲状腺合成和分泌过多甲状腺激
+素而导致基础代谢率增高的内分泌疾病[1],引起甲亢
+的病因包括:Graves 病、毒性多结节性甲状腺肿、甲状
+腺自主高功能腺瘤、碘甲亢、垂体甲亢、绒毛膜促性腺
+激素(HCG)相关性甲亢。 其中 Graves 病最为常见,占
+所有甲亢的 85% 左右。 而 Graves 病也是引起儿童甲
+亢最常见的病因,占所有 Graves 病患者的 1% ~
+5% [2],儿童甲亢的最佳治疗方法仍存在争议。 手术
+和放射性131 I( radioactive iodine,RAI)治疗经常会导致
+永久性甲状腺功能减退[2-3],而需要终生服用甲状腺素
+替代治疗。 儿童甲亢仍首选抗甲状腺药物 ( Anti-
+thyroid drugs,ATDs)治疗[4-5],药物中首选甲巯咪唑片
+(Methimazole,MMI)。 国外研究表明,儿童甲亢药物治
+疗缓解率较成人低,且存在 MMI 相关不良反应,但中
+国甲亢患儿 MMI 治疗缺乏大样本的临床研究报道,有
+必要进行进一步的研究。 本研究旨在了解 MMI 治疗
+中国儿童甲亢的效果、MMI 相关不良反应,并探讨
+MMI 治疗儿童甲亢缓解及复发的预测指标。
+对象和方法
+一、 对象
+回顾性分析广州市妇女儿童医疗中心 2004 年 3
+月至 2014 年 7 月诊治的中国南方汉族甲亢患儿,儿童
+甲亢诊断标准参考中国甲状腺疾病诊治指南-甲状腺
+功能亢进症(2008) [6]:(1)临床高代谢的症状和体征;
+(2)甲状腺体征:甲状腺肿和(或)甲状腺结节。 少数
+病例无甲状腺体征;(3)血清激素:总甲状腺素(TT4)、
+游离甲状腺素(FT4)、总三碘甲状腺原氨酸(TT3)、游
+离三碘甲状腺原氨酸(FT3)增高,促甲状腺素(TSH)
+降低(一般<0. 1 mIU / L)。 排除药物引起的继发性甲
+亢、甲状腺肿瘤引起的甲亢、TSH 增高型甲亢等类型甲
+亢和新生儿甲亢,入选的患儿有 379 例。 379 例患儿
+d-1,1 次或分次口服。 口服 MMI 至临床症状缓解,FT3
+和 FT4恢复正常后开始逐渐减量,如甲状腺功能仍稳
+定,逐步减至维持量 2. 5 mg qod,疗程 2 年或更长,或
+至观察截止时间。 停药后第 1 年每 3 个月复查甲状腺
+功能,至第 2 年后每半年复查甲状腺功能。 缓解的标
+准为[5]:停药 1 年,FT4 和 FT3 维持在正常范围。 复发
+的定义为:再次出现高代谢的症状和体征,实验室检查
+FT3、FT4升高且 TSH 降低。 记录患儿的诊断年龄、性
+别、甲状腺疾病家族史、临床资料、实验室检查结果、药
+物相关不良反应(包括粒细胞减少症、过敏反应、肝损
+害、关节痛、肌肉痛等)、治疗时间及随访时间等信息。
+本研究通过医院伦理委员会批准,收集患儿临床资料
+时均获得监护人知情同意。
+二、 方法
+TT3、FT3、TT4、FT4 和 TSH 均采用化学发光法检
+测。
+三、 统计学处理
+患儿的性别(男性、女性),甲状腺疾病家族史(阳
+性、阴性),突眼情况(有或无),MMI 治疗 3 个月甲状
+腺功能是否可恢复正常(是、否)为二项分类变量,甲
+状腺肿大程度(I°、2°、3°)为多分类变量,为定性变
+量。 患儿诊断年龄、FT3、FT4等各项实验室检查结果是
+定量变量。 定量变量符合正态分布的用 x-± s 描述其集
+中和离散趋势,不符合正态分布的定量资料用中位数
+和四分位数间距描述其平均水平和变异程度。 应用
+SPSS 13. 0 统计学软件进行统计学分析,用 Shapiro-
+Wilk 检验进行正态性分布,P>0. 05 表示符合正态性分
+布。 对符合正态性分布的数据用 Levene忆s 检验进行方
+差齐性检验,P>0. 05 表示方差齐。 符合正态分布的 2
+组均数差异的比较用 t 检验,不符合正态性分布或方
+差不齐时用 Mann-Whitney 秩和检验。
+结    果
+一、 临床特征
+379 例患儿中男孩 119 例(31. 4% ),女孩 260 例
+(68. 6% ),男女比例 1 : 2. 18。 平均诊断年龄为(9. 3
+± 2. 3)岁(范围 2. 0 ~ 15. 9 岁)。 图 1 描述了 379 例患
+儿的诊断年龄和性别分布,可见儿童甲亢可在任何年
+龄发病,在青春期高发。 379 例患儿的临床表现如下:
+食欲亢进 254 例(67. 0% ),多汗 276 例(72. 8% ),心
+悸 192 例(50. 7% ),体重减轻 28 例(7. 4% ),注意力
+不集中 23 例(6. 1% ),甲状腺肿大 334 例(88. 1% ),
+心动过速 192 例(50. 7% ),手震颤 73 例(19. 3% ),消
+瘦 103 例(27. 2% )。 334 例甲状腺肿大,其中I度 17
+例( 5. 1% ), 2 度 280 例 ( 83. 8% ), 3 度 37 例
+(11. 1% );突眼 128 例(33. 8% ),均为良性突眼。 379
+例患儿中合并基础病 21-三体综合征 3 例,Turner 综合
+征 5 例;累积多个内分泌腺体或其他脏器合并突发的
+有 2 例、糖尿病 5 例、重症肌无力 4 例(均无合并胸腺
+瘤病史)。
+图 1  379 例甲亢患儿诊断年龄及性别分布特征
+Fig 1  Distribution of 379 children with hyperthyroidism according to age and
+sex at diagnosis
+甲状腺疾病家族史阳性的有 64 例(16. 9% ),其中一
+级亲属家族史阳性的有 45 例(70. 3% )。
+二、 MMI 治疗效果
+379 例患儿初始 MMI 用药剂量的中位数为 13. 0
+mg / d(范围 5 ~ 40 mg / d),平均随访时间为 2. 3 年(范
+围 0. 5 ~ 10. 3 年)。 经过 MMI 治疗 3 个月,96. 3%
+(365 / 379)的甲亢患儿 FT3、FT4可恢复至正常水平;经
+过 MMI 治疗 6 个月,98. 9% (375 / 379) 的甲亢患儿
+FT3、FT4可恢复正常。 截止观察时间 379 例患儿中有
+256 例(67. 5% )仍在持续用药,79 例(20. 8% )得到了
+缓解,44 例(11. 6% )患儿失访。 此 256 例持续用药患
+儿平均用药时间为 2 年(范围 0. 3 ~ 10. 3 年),其中
+142 例治疗时间超过 2 年(55. 7% ),76 例超过 3 年
+(29. 8% ),37 例超过 4 年(14. 5% ),21 例超过 5 年
+(8. 2% ),2 例超过 10 年(0. 8% )。 256 例持续用药的
+患儿中疗程超过 2 年的患儿有 79. 6% (113 / 142)曾尝
+试减量或停药,但在减量或停药过程中出现病情反复
+而需继续服药治疗,且继续用 MMI 治疗仍然有效。 79
+例达到缓解标准患儿中有 44 例(55. 7% ),随诊至本
+研究截止时间至少 1. 5 年未再复发;35 例(44. 3% )复
+发,缓解后半年内复发的有 23 例(65. 7% ),半年到 1
+年内复发的有 9 例(25. 7% ),1 年到 2 年内复发的有 3
+例(8. 6% )。
+表 1 将持续缓解组与缓解后复发组的临床表现和
+生化指标进行了比较,持续缓解组与缓解后复发组患
+儿的诊断年龄、性别比例、是否突眼、甲状腺肿大程度、
+TPOAb 阳性、TGAb 阳性相比差异无统计学意义。 而
+持续缓解组患儿的甲状腺疾病家族史(包括甲亢和甲
+低)阳性率较缓解后复发组低( 字2 = 5. 073,P<0. 05);
+初诊时 FT3(Z= -2. 83,P<0. 01)和 FT4(Z= -2. 375,P<
+0. 05)较缓解后复发组低,经 MMI 治疗 3 个月内持续
+缓解组患儿的甲状腺功能恢复正常的比例较缓解后复
+发组高(字2 =5. 713,P<0. 05),MMI 治疗至停药的时间
+持续缓解组患儿较缓解后复发组所需的时间短(Z =
+-3. 792,P<0. 01)。 缓解后复发组中有甲状腺疾病家
+族史的人高于持续缓解组( 字2 = 5. 073,P<0. 05)。 以
+上数据提示初诊时病情程度较轻、患儿对 MMI 治疗效
+果反应较好,在治疗 3 个月内甲状腺功能可以恢复正
+常的患儿治疗时间短且容易达到缓解,有甲状腺疾病
+家族史的患儿缓解后容易复发,而患儿的诊断年龄、性
+别、是否突眼、甲状腺肿大程度、TPOAb 和 TGAb 水平
+则与缓解和复发无相关性。
+三、 MMI 相关不良反应
+本研究中 379 例患儿有 105 例(27. 7% )发生了不
+良反应,其中药物性肝损害 54 例(14. 2% ),一过性中
+性粒细胞减少症 41 例(10. 8% )、皮疹 18 例(4. 7% )、
+关节痛 3 例(0. 8% )、脱发 2 例(0. 5% )、肌肉痛 1 例
+(0. 3%)。 在发生肝损害的 54 例患儿中有 9 例表现为
+表 1  持续缓解组和缓解后复发组的临床及生化特征比较[x-± s, 中位数(四分位数)]
+Tab 1  Comparison of clinical and biochemical data between remission and relapsed groups[x-± s, M(Quartile)]
+组别
+Group
+例数
+n
+诊断年龄
+(岁)
+Diagnosis age
+(year)
+性别(女性 / 男性)
+Gender(Female / Male)
+甲状腺疾病家族史
+Thyroid disease
+family history
+(% )
+突眼
+Exophthalmos
+(% )
+甲状腺肿大程度
+Degree of goiter
+(% )
+0 1 2 3
+持续缓解组
+Remission group 44 9. 1 ± 2. 8 29 / 15 9. 1 25. 0 11. 4 6. 8 79. 5 2. 3
+缓解后复发组
+Relapsed group 35 8. 7 ± 2. 6 20 / 15 28. 6
+a 34. 3 14. 3 5. 3 71. 4 8. 6
+组别
+Group
+例数
+n
+初始 FT3
+Baseline FT3
+(pmol / L)
+初始 FT4
+Baseline FT4
+(pmol / L)
+TPOAb 阳性
+TPOAb positive
+(% )
+TGAb 阳性
+TGAb positive
+(% )
+3 个月内甲功恢复正常
+Thyroid function returns
+to normal in 3 months
+(% )
+MMI 治疗时间
+(年)
+MMI treatment time
+(year)
+持续缓解组
+Remission group 44 9. 9(7. 2-15. 1) 30. 1(26. 8-50. 7) 34(77. 3) 25(56. 8) 79. 5 3. 0(1. 2-4. 0)
+缓解后复发组
+Relapsed group 35 13. 7(9. 1-26. 3)
+b 36. 3(31. 2-75. 4) a 27(77. 1) 23(65. 7) 37. 1a 4. 2(3. 2-5. 1) b
+注:TPOAb:甲状腺过氧化物酶抗体 Thyroid peroxidase antibody; TGAb:甲状腺球蛋白抗体 Thyroglobulin antibody;与持续缓解组比较 vs Remission
+group,aP<0. 05,bP<0. 01
+图 2  甲巯咪唑相关不良反应及出现的时间
+Fig 2  Incidence and onset time of methimazole-induced adverse events
+谷丙转氨酶(ALT)升高,45 例表现为胆红素升高,ALT
+和胆红素升高的倍数均在 2 倍以内,经过护肝、利胆等
+对症治疗均可以恢复正常,均未停用 MMI 治疗。 发生
+中性粒细胞减少症的患儿中有 2 例(4. 8% )发生了粒
+细胞缺乏症,分别发生在用药后的第 3 个月和第 9 个
+月,均仅出现一次粒细胞缺乏症,服用鲨甘醇片(10 ~
+50 mg,bid)后,患儿的中性粒细胞水平可以恢复正常,
+因此在严密的随访过程中并未停用 MMI。 66. 7% 的
+不良反应发生在用药前的 3 个月,13. 3% 不良反应发
+生在服药后 3 ~ 6 个月内,9. 5% 不良反应发生在服药
+后 1 年内,10. 5% 不良反应发生在服药后的 1 ~ 2 年。
+患儿发生药物不良反应的频率及时间见图 2。
+讨    论
+儿童甲亢目前临床上仍首选药物治疗,其中以
+MMI 作为首选。 国外的研究表明,儿童甲亢药物治疗
+的缓解率比成人低, 在儿童的缓解率为 15% ~
+47. 6% [1,3,7-8],成人的缓解率为 39. 5% ~ 85% [5],停用
+ATD 的复发率为 10% ~ 90% [9-11],但我国对儿童甲亢
+MMI 药物治疗效果及不良反应的研究较少。 尽管美
+国甲状腺协会提出 MMI 治疗 1 ~ 2 年后仍未缓解的儿
+童可以选择其他手术或是放射性131 I 治疗[12],但是对
+于儿童甲亢是否选择手术或是放射性131 I 治疗仍然存
+在争议[3,13-14]。 研究发现长期 ATD 治疗儿童甲亢可以
+改善其治疗效果[5,15-16]。 文献中报道的 ATD 治疗儿童
+甲亢的缓解率随着用药时间的延长而增加,ATD 治疗
+1 年的缓解率为 10% ~ 25% ,2 年为 14% ~ 25% ,4 年
+为 20% ~ 26% ,10 年为 15% ~ 49% [17]。 本研究 MMI
+治疗儿童甲亢缓解患儿平均用药时间为 3. 3 年(范围
+0. 5 ~ 9. 1 年),缓解率为 20. 8% ,与文献报道基本一
+致。 缓解后的复发率为 44. 3% ,缓解后半年内为复发
+的高峰期。 本研究 256 例不能停药的患儿中,有 2 例
+治疗时间长达 10 年以上,仍未能停药,21 例治疗长达
+5 年亦不能停药,遇到此种情况的患儿是继续药物治
+疗还是选择其他治疗方式仍无较统一的认识。 以上数
+据表明 MMI 治疗儿童甲亢所需时间长,缓解率低,复
+发率高,且停药后容易复发。 因此停药后仍需定期检
+查,以防复发,尤其是在停药后的 2 年内进行定期检查
+尤为重要。
+文献中探讨的与甲亢缓解和复发相关的预测因子
+尚未得出统一的结论。 有研究认为促甲状腺素受体抗
+体(TRAb)水平可以作为儿童甲亢缓解的预测因子,
+TRAb 在治疗 1 年内能恢复正常的患儿较易缓解,停
+药后 TRAb 水平仍较高的容易复发[1,9];但也有研究认
+为 TRAb 水平不能作为缓解的预测因子[5,18-19]。 Glaser
+等[20]研究认为初诊时体重指数高和甲状腺肿程度轻
+是缓解的预测因子。 另一些研究发现,年龄大,初诊时
+FT3、FT4水平低,在治疗 3 个月内甲状腺功能可以恢复
+正常的患儿容易缓解[19]。 亦有研究发现即使对同一
+人群的研究,得出的预测因子也不同[9,19]。
+在本研究中,初始 FT3、FT4 水平低的患儿比水平
+高的患儿容易达到缓解(P<0. 05),对药物治疗反应
+好,服药后 3 个月内甲状腺功能恢复正常的患儿更容
+易缓解,与 Graser 等[19]报道的一致。 有甲状腺疾病家
+族史的患儿容易复发,与 Ohye 等[5] 报道的不一致,尚
+需更大样本的研究才能得出可靠的结论。 在本研究
+中,甲亢患儿的诊断年龄、性别、甲状腺肿大程度、是否
+突眼、TPOAb 阳性、TGAb 阳性与缓解和复发无相关
+性,与 Ohye 等[5]报道的一致。 需要指出的是,因早期
+本中心未进行 TRAb 抗体测定,故本研究未分析 TRAb
+抗体水平对甲亢患儿预后的影响,有待于在以后的研
+究中进一步总结;病例中有近 20 例合并其他疾病未剔
+除,可能会给结果带来部分影响。
+治疗儿童甲亢的 ATD 有丙基硫氧嘧啶片(PTU)
+和 MMI,研究发现 MMI 能更有效地降低甲状腺激素水
+平而且不良反应较 PTU 少,因此 MMI 成为治疗儿童
+甲亢的首选[17,21]。 MMI 相关不良反应包括荨麻疹、关
+节痛、粒细胞减少、肝损伤、血管炎等[22-27],MMI 不良
+反应发生的频率为 1% ~ 30% ,且与剂量有关[5,7,22]。
+本研究中 MMI 不良反应的发生率为 27. 7% ,主要发生
+在用药后的前 3 个月,与文献报道基本一致[22]。 MMI
+主要引起胆汁淤积性肝损伤,肝细胞损害较少,其机制
+尚不清楚,目前认为,药物在肝脏进行生物转换的过程
+中形成的代谢活性产物参与肝损伤的发生;细胞因子
+介导的免疫反应也参与肝损伤的发病机制[4,28]。 在本
+研究中胆红素升高的比例占 83. 3% ,主要为胆汁淤积
+性肝损伤,与 Heidari 等[28] 报道一致。 本研究中肝功
+能指标升高均在 2 倍以内,发生中性粒细胞缺乏的 2
+例患儿均未出现严重的后果,与文献中报道的 MMI 不
+良反应发生的程度轻一致[4]。 本研究还表明,MMI 大
+多引起轻微的不良反应,且不良反应大多发生在用药
+后 3 个月内,但是亦有用药 1 年后才出现不良反应的
+情况,在用药过程中需要提高警惕。
+综上所述,MMI 治疗中国南方儿童甲亢效果好,
+不良反应小,但治疗疗程长,缓解率低,复发率高,定期
+检查十分重要。 在给患儿制定治疗方案时要充分考虑
+已确定的与缓解相关的因素及药物不良反应,鼓励患
+者和医生共同讨论治疗风险利弊及治疗的选择。

@@ -1,0 +1,302 @@
+临床研究
+基金项目:国家自然科学基金项目(81270866)
+成人特发性孤立性 ACTH 缺乏症三例临床
+分析并文献复习
+郭清华  陈康  陆菊明  母义明  窦京涛  吕朝晖  巴建明  李江源  潘长玉
+[摘要]   目的  成人特发性孤立性 ACTH 缺乏症(adult idiopathic isolated ACTH deficiency,AIIAD)十
+分少见,临床漏诊和误诊率高。 本文通过分析总结本院 3 例 AIIAD 患者的临床特点并复习文献总结特征,
+以提高对该病的认识。 方法 采用回顾性分析的方法,收集本院近 15 年来收治的 AIIAD 患者共 3 例,对其
+临床表现、实验室检查和治疗反应进行分析,并复习文献资料,总结该病的临床特征。 结果 3 例 AIIAD 患
+者(男性 2 例,女性 1 例)发病时年龄 52 ~ 68 岁。 均以乏力、体重下降起病,确诊前病程 7 个月到 4 年不等,
+多次辗转就诊,长期得不到正确诊断,分别误诊为更年期综合征、甲状腺炎和胃肠道疾病。 通过分析此 3
+例患者,并结合文献复习,总结该病的临床特征如下:(1)发病年龄多数 40 岁以上,无糖皮质激素使用史;
+(2)起病隐匿,多以乏力、消瘦起病,反复多次诊治;(3)皮肤无色素沉着;(4)可表现性功能减退、月经紊
+乱,但性激素正常;(5)低钠血症较易出现,高钾血症少见;(6)血淋巴细胞和嗜酸性粒细胞常增高;(7)血
+浆 ACTH、皮质醇明显降低,但垂体其他激素轴系包括促甲状腺激素、促性激素轴和生长激素等均正常;
+(8)多伴有甲状腺疾病或甲状腺自身抗体阳性;(9)常伴有其他自身免疫性疾病,并随糖皮质激素的替代治
+疗而缓解;(10)垂体 MRI 未见异常或呈空泡蝶鞍;(11)无器质性病变所致垂体 ACTH 分泌异常。 结论
+AIIAD 起病隐袭,症状不典型,临床上对任何不能解释的低钠血症、乏力、体重下降应该想到该病的可能性。
+充分认识其临床特征有助于提高临床诊断率,减少漏诊、误诊。
+[关键词]   成人特发性孤立性 ACTH 缺乏症; 临床特征; 诊断
+Analysis of three patients with adult idiopathic isolated ACTH deficiency and literature review Guo
+Qinghua, Chen Kang, Lu Juming, Mu Yiming, Dou Jingtao, Lyu Zhaohui, Ba Jian-ming, Li Jiangyuan, Pan
+Changyu. Chinese PLA General Hospital, Beijing 100853, China
+[Abstract]  Objective  Adult idiopathic isolated ACTH deficiency (AIIAD) is an underestimated disorder
+which is frequently misdiagnosed. In this paper, we presented 3 new cases of AIIAD and summarized the clinical
+characteristics by analyzing these cases and available literature for further understanding this disease. Methods
+Three cases of AIIAD in our hospital from 1998 to 2003 were retrospectively identified. Data of clinical features,
+laboratory findings, and response to treatment were collected. The clinical characteristics and pertinent literature were
+reviewed and analysed. Results These 3 cases of AIIAD aged 52-68 years old were misdiagnosed and incorrectly
+treated for 7 months to 4 years. All three cases presented the symptoms of fatigue and loss of weight at the onset, and
+were misdiagnosed as climacteric syndrome, thyroiditis, and gastrointestinal disease. The prevalence of AIIAD was
+very low, and it was thought to be an underestimated disorder. Through analyzing the 3 cases and literature review, the
+clinical features of this disease were summarized as follows: (1) Most patients were aged over 40 years and had no
+history of glucocorticoid medication. (2) Clinical presentations were insidious, with symptoms such as fatigue and
+weight loss. (3) Patients usually had no excessive pigmentation. (4)Hypogonadism in men and amenorrhea in women
+could be present. ( 5 ) Blood chemistry usually revealed hyponatremia but rarely hyperkalemia. ( 6 ) Blood
+lymphocytosis and eosinophilia were common. (7) Plasma ACTH and cortisol levels markedly decreased with normal
+secretion of other pituitary hormones. ( 8 ) High prevalence of thyroid disorder or positive anti-thyroid
+autoantibody. (9) Usually the other accompanied autoimmune diseases might be ameliorated with glucocorticoid
+replacement. (10) MRI revealed no structural pituitary defects except for empty sella. ( 11 ) No evidence of
+infiltration, trauma, surgery, infection, and radiotherapy of the pituitary gland was found. Conclusions AIIAD is an
+unspecified and underestimated condition with quite high incidence of misdiagnosis. Patients with unexplained
+hyponatremia, fatigue, and weight loss should be evaluated for the possibility of AIIAD. Fully understanding clinical
+features of AIIAD will help to improve the diagnosis and reduce misdiagnosis.
+[Key words]  Adult idiopathic isolated ACTH deficiency; Clinical features; Diagnosis
+(Chin J Endocrinol Metab, 2014, 30: 38-42)
+成人特发性孤立性 ACTH 缺乏症 (adult idiopathic
+isolated ACTH deficiency,AIIAD)临床报道很少[1],国
+内目前仅限于个案病例报道 5 例左右[2-5]。 其临床特
+征为继发性肾上腺皮质功能减退,除了 ACTH 分泌缺
+陷外垂体其他激素分泌正常,同时垂体影像学检查没
+有发现器质性病变,且不能以外源性使用糖皮质激素、
+ACTH 垂体瘤剔除术后等所致垂体 ACTH 功能减退所
+解释,是一种特殊类型的继发性肾上腺皮质功能减退,
+属于单纯性 ACTH 缺乏的一种。 临床上对于特发性生
+长激素缺乏、特发性低促性腺激素性性腺功能减退等
+单纯性某垂体激素的缺乏相对熟悉,但对于单纯性
+ACTH 缺乏的了解非常少,这与其临床表现不典型、漏
+诊和误诊率高不无相关。 本文旨在分析本院近 15 年
+来收治的 3 例 AIIAD 患者临床表现,结合文献复习总
+结其临床特征,提高对该类疾病的临床认识。
+临床资料
+例 1 男性,53 岁,因乏力、头晕、纳差、消瘦 1 年于
+1996 年 1 月入院。 1995 年 1 月无诱因出现全身乏力、
+食欲不振、恶心,伴有头晕,无头痛及视野缺损,血压
+85 / 50 mmHg(1 mmHg = 0. 133 kPa),有时四肢肌肉疼
+痛。 5 个月内体重下降 10 kg。 并出现性功能减退、头
+发及眉毛脱落。 于当地医院查胃镜、血红蛋白和血糖
+正常,FT3 5. 1 pmol / L, FT4 21. 3 pmol / L, TSH 14. 5
+μIU / ml,甲状腺过氧化物酶抗体(TPOAb)和甲状腺球
+蛋白抗体(TGAb)滴度高(具体不详),考虑为桥本甲
+状腺炎,对症处理后症状无缓解。 于 1996 年 1 月在本
+院门诊查 8 : 00 血皮质醇和 24 h 尿游离皮质醇
+(UFC)水平明显低于正常,收治入院。 发病以来,患者
+不嗜咸食,夜尿增多,4 ~ 5 次 /夜,大便正常,睡眠尚
+可。 于 1969 年飞行中曾有头颅外伤,出现短暂意识丧
+失,当时诊断为脑震荡和第十二胸椎压缩性骨折。 吸
+烟史 15 年,已戒,余无特殊记载。 体格检查:血压
+80 / 45 mmHg(1 mmHg = 0. 133 kPa),脉搏 45 次 / min,
+体重指数(BMI)19. 9 kg / m2,皮肤无色素沉着,头发及
+眉毛稀疏,阴毛、腋毛无脱落。 甲状腺I度肿大,质地
+中等。 心音弱,心率 45 次 / min,肺、腹无异常,双下肢
+无水肿,四肢肌力吁级。 入院后查血常规各项在正常
+范围,肝肾功能正常, 血钠 131 mmol / L, 血钾 4. 3
+mmol / L,空腹血糖 4. 7 mmol / L,血浆 ACTH 0 : 00 为
+3. 9 pmol / L(正常值 0 ~ 10. 2 pmol / L,下同),8 : 00 为
+4. 9 pmol / L(5. 1 ~ 18. 9 pmol / L),血皮质醇 0 : 00 及
+8 : 00 均<31. 25 nmol / L(8 : 00 正常值 185. 0 ~ 594. 8
+nmol / L),UFC <31. 3 nmol / 24 h (55. 2 ~ 345 nmol / 24
+h)。 胰岛素(0. 1 U / kg)耐量试验:30 min (血糖 1. 4
+mmol / L) ACTH 8. 2 pmol / L、血皮质醇<31. 25 nmol / L,
+45 min(血糖 2. 4 mmol / L) ACTH 7. 3 pmol / L、血皮质
+醇<31. 25 nmol / L。 ACTH 兴奋试验(ACTH 25 U 静滴
+3 d):第 1 日 UFC<31. 3 nmol / 24 h,低于正常,第 2 日
+135. 7 nmol / 24 h、第 3 日 348. 5 nmol / 24 h,反应接近正
+常。 TSH 14. 5 μIU / ml、 FT4 25. 3 pmol / L、 FSH 8. 4
+IU / L、LH 10. 7 IU / L、睾酮 22. 2 nmol / L;基础生长激素
+(GH)1. 1 μg / L,胰岛素低血糖兴奋试验 GH 22 μg / L;
+促性腺素释放激素(GnRH)兴奋试验 LH 峰值 47. 8
+mIU / L;促甲状腺素释放激素(TRH)兴奋试验 TSH 峰
+值 38. 2 μIU / ml,均正常。 心电图:窦性心动过缓;肾
+上腺 CT 扫描无异常;垂体核磁共振示空泡蝶鞍。 诊
+断为 AIIAD、继发性肾上腺皮质功能减退。 口服强的
+松 5 mg / d 替代治疗,患者乏力及头晕等症状明显好
+转,食欲增强,体重未再下降。
+例 2 女性,48 岁,主因头昏、乏力 4 年于 2007 年 8
+月入院。 患者于 2003 年起头昏、乏力、倦怠,自觉周身
+疼痛,坐位、站立时头昏明显,血压 80 ~ 90 / 50 ~ 60
+mmHg,劳累后心悸、气短伴多汗。 食欲减低、腹胀、便
+秘,无恶心、呕吐及腹泻。 患者出现双下肢无力、疼痛、
+麻木。 2005 年开始月经紊乱,常数月 1 次。 多次至当
+地医院考虑为更年期综合征,对症处理症状无改善。
+发病以来,躯体肤色无明显变化,无多饮、多尿,无视力
+下降、视野缺损、复视,体重无明显变化。 既往慢性支
+气管炎 20 余年,无糖皮质激素使用史。 生育 1 子 1
+女。 体格检查:血压 108 / 62 mmHg,BMI 25 kg / m2,发
+育正常,全身皮肤无色素沉着,双眼视力正常,视野无
+缺损。 甲状腺未触及肿大。 双肺呼吸音清,心率 72
+次 / min,律齐,腹软,肝、脾肋下未触及,脊柱、四肢无畸
+形,双下肢肌张力下降,肌力4级。 生理反射存在,病
+理征未引出。 入院后复查 UFC<25. 7 nmol / 24 h,血皮
+质醇 0 : 00 为<25. 7 nmol / L、8 : 00 为<25. 7 nmol / L、
+16 : 00 为<25. 7 nmol / L;血浆 ACTH 0 : 00 为<2. 2
+pmol / L、8 : 00 为<2. 2 pmol / L、16 : 00 为<2. 2 pmol /
+L。 TSH、FT3、FT4、FSH、LH、雌二醇均正常,GH 基础
+1. 6 μg / L,活动 30 min 后 6. 2 μg / L,甲状旁腺素正常。
+血生化肝肾功能正常,血电解质正常,空腹血糖 3. 7 ~
+5. 3 mmol / L。 血气分析正常。 TPOAb 和 TGAb 正常。
+红细胞沉降率(ESR)2 mm / h,血清蛋白电泳正常。 肝
+胆胰脾双肾超声未见明显异常;垂体 MRI 未见明显异
+常。 胸片未见异常。 诊断为 AIIAD,予以强的松片
+5mg / d,头昏、乏力等症状明显改善,下肢无力、疼痛和
+麻木消失。
+例 3 男性,63 岁,恶心、纳差、乏力 7 个月于 2009
+年 4 月入院。 患者于 2008 年 8 月无诱因出现恶心、纳
+差、乏力,不伴发热、腹痛、呕吐,无多饮、多尿,无盗汗、
+咳嗽、咯血,于当地医院查胃镜示“浅表性胃炎冶,治疗
+后症状无缓解,转诊某医院,查血钠 110 mmol / L,予高
+钠摄入及对症治疗,血钠升至 128 mmol / L,但症状仍
+无明显改善,出院后出现腹胀、呃逆,多次治疗无效。
+2009 年 2 月,无诱因出现腹泻,呈黄色稀水样便,每日
+6 ~ 7 次,不伴发热、腹痛。 3 月因上述症状加重,急诊
+入当地医院查血皮质醇低于正常(具体不详),静脉使
+用氢化可的松 100 mg / d,静滴 3 d 后改为强的松 15
+mg / d 口服,上述症状明显减轻,为进一步诊治就诊本
+院。 患者发病以来体重下降 12 kg,双下肢间断出现皮
+肤瘙痒和斑丘疹。 入院时已停服强的松 5 d,精神萎
+糜、食欲差,睡眠一般,小便正常。 无怕冷,阴腋毛无脱
+落。 既往有过敏性鼻炎,2007 年患“腔隙性脑梗死冶。
+生育 1 子,体健。 体格检查:体温 36. 4℃,脉搏 66
+次 / min,血压 120 / 70 mmHg, 体重 49 kg, BMI 18. 2
+kg / m2。发育正常,慢性病容,全身皮肤黏膜无黄染,双
+下肢散在红色斑丘疹,无眼睑水肿,口唇无发绀,伸舌
+居中,甲状腺I度肿大,质软,双肺呼吸音清晰,心率
+66 次 / min,律齐,各瓣膜听诊区未闻及杂音,腹软,无
+压痛,阴毛无脱落。 血皮质醇 0 : 00、8 : 00、16 : 00
+均<25. 7 nmol / L;血浆 ACTH 0 : 00、8 : 00、16 : 00 均<
+2. 2 pmol / L;UFC 26. 8 nmol / 24 h。 甲状腺功能 TT4
+170. 5 nmol / L,TT3 1. 36 nmol / L,FT3 4. 15 pmol / L,FT4
+23. 62 pmol / L,TSH 2. 45 mU / L,TGAb 197. 8 IU / ml,
+TPOAb 444. 7 IU / ml。性激素:睾酮 24. 5 nmol / L,雌二
+醇 102. 28 pg / ml,LH 10. 3 IU / L,催乳素 33. 19 μg / L,
+FSH 29. 84 IU / L,孕酮 1. 67 nmol / L。 血常规:白细胞
+7. 31×109 / L,淋巴细胞 66. 5% ,血红蛋白 120 g / L。 血
+肝肾功能正常,血钾 3. 2 mmol / L,钠 144 mmol / L,氯
+104. 6 mmol / L。 ESR、结核三项均正常。 腹部超声:胆
+囊结石,左肾囊肿,前列腺稍大。 肾上腺 CT 未见异
+常;垂体 MRI 未见异常,脑内多发缺血灶及软化灶。
+考虑诊断为 AIIAD,给予强的松 7. 5 mg / d 口服,患者
+恶心、纳差、乏力症状明显缓解,精神、食欲较前明显好
+转,血压恢复至 110 / 70 mmHg,血电解质正常,双下肢
+红色斑丘疹基本消退,瘙痒明显减轻,慢性鼻炎症状减
+轻。
+讨    论
+特发性孤立性垂体 ACTH 缺乏症 ( IIAD) 由
+Steinberg 等[6]于 1954 年首次报道,其临床特征为继发
+性肾上腺皮质功能减退,垂体除了 ACTH 分泌减低以
+外,其他激素分泌正常,垂体结构没有异常,不能以糖
+皮质激素使用史及 ACTH 瘤剔除术等常见单纯垂体
+ACTH 缺乏的原因解释,是继发性肾上腺皮质功能减
+退症 的 特 殊 类 型。 临 床 表 现 为 先 天 性 IIAD 和
+AIIAD[1]。
+IIAD 的确切发病率不详,国外日本报道较多,300
+例以上,推算可能的患病率为 7. 3 / 10 万和 3. 8 / 10
+万[7]。 泰国报道 20 年间儿童孤立性垂体 ACTH 缺乏
+症占继发性肾上腺皮质减退的 9. 1% ,即 11 例患者中
+仅有 1 例患者[8]。 Hannon 等[9] 报道排除了各种继发
+性单纯性垂体 ACTH 缺乏的原因外,真正意义的 IIAD
+的病例有 103 例。 中国作为亚洲国家,拥有世界人口
+之最,而对该病的报道目前仅限于几例个案报道,推测
+实际患者远不至此,可能基于该病的隐匿性及临床对
+该病的认识不足所致。 本文所报道的 IIAD 患者是本
+科建科以来诊治的 3 例病例,均为成人发病型。
+IIAD 的病因、发病机制不十分清楚。 TPIT 是一种
+细胞限制性 T-box 转录因子,在垂体阿黑皮素原
+(POMC)表达细胞最终分化中发挥重要作用,该基因
+的突变可导致新生儿发病的 IIAD,已发现 12 种不同
+的 TPIT 基因失功能性突变[10-12]。 而成人晚发型 IIAD
+发病推测与自身免疫关系最为密切[9],支持免疫机制
+参与成人晚发 IIAD 的依据有:(1)在 IIAD 或淋巴细
+胞性垂体炎患者中检测到针对一种分子量为 22 000
+垂体蛋白的抗体[13,14];(2) IIAD 常与许多自身免疫性
+疾病共存,包括 1 型糖尿病[15]、特发性血小板减少性
+紫癜[16]、普秃[17]、溃疡性结肠炎[17]、克罗恩病[18]、局
+灶性阶段性肾小球硬化[19]、迟发性性腺功能减退[20]
+等;常伴有自身免疫性甲状腺疾病,如原发性甲状腺功
+能减退[9]、桥本病[16]、 Graves 病[21]、无痛性甲状腺
+炎[17];(3)上述疾病在糖皮质激素替代治疗后部分或
+全部得到缓解。 本文所报道 3 例患者中有 2 例伴有
+TGAb 和 TPOAb 阳性,1 例患者伴有过敏性皮炎和过
+敏性鼻炎并且随着强的松的替代治疗而缓解。 另外,
+有研究者认为孤立性 ACTH 缺乏与空泡蝶鞍、头颅外
+伤有关,1 例创伤后孤立性垂体 ACTH 缺乏症患者 9
+个月后自然恢复正常[1,22]。 本文所报道的第 1 例患者
+在 27 年前发生过头颅外伤并形成了空泡蝶鞍。 实际
+上,在孤立性垂体 ACTH 缺乏症患者中有多例合并有
+空泡蝶鞍[23]。 在一项 24 例继发性肾上腺皮质功能减
+退和自身免疫性疾病的人群中,9 例进行了垂体 MRI
+检查,6 例存在部分性或完全性空泡蝶鞍,并同时存在
+针对 ACTH 细胞的抗体[24,25]。 由此可见,空泡蝶鞍、
+自身免疫和头颅外伤似乎存在某种关系,推测创伤所
+致的垂体促肾上腺皮质激素释放激素合成细胞的微损
+伤和暴露,触发了机体的自身免疫过程和自身抗体的
+生成,结局是垂体促肾上腺皮质激素释放激素合成细
+胞的破坏萎缩和空泡蝶鞍的形成。 这样就可以解释空
+泡蝶鞍和头颅外伤对垂体的影响为何仅是 ACTH 分泌
+缺陷而其他垂体前叶激素却没有受到影响。 该推测需
+要临床病例的进一步积累、总结和验证。 到目前为止,
+基因突变在 AIIAD 的发病中未发现有致病作用[26]。
+AIIAD 的临床表现多样而非特异,如乏力、恶心、
+体重下降及易低血糖等,临床上常易漏诊和误诊。 虽
+然不像原发性肾上腺皮质功能减退那样严重,但没有
+及时诊断和治疗很容易出现危及生命的危象。 本文所
+报道的 3 例患者有 4 个月到 4 年的反复诊治史,并曾
+分别被误诊为更年期综合征、甲状腺炎和浅表性胃炎。
+综合本文所述患者临床特点及文献报道,总结成人特
+发性孤立性 ACTH 缺乏症临床特征为:(1)发病年龄
+多数 40 岁以上[27],本文所报道患者为 53 ~ 68 岁,发
+病之前无糖皮质激素使用史,生长发育正常;(2)起病
+隐匿且非特异,多以乏力、消瘦起病,反复多次多年就
+诊和治疗,病情没有缓解,有些甚至在某些促发因素下
+病情急剧加重,常急诊就医;(3)皮肤无色素沉着,有
+别于原发性肾上腺皮质功能减退;(4)临床上男性可
+出现性功能减退,女性可出现月经紊乱,但性激素检查
+均正常,属于功能性紊乱,推测与全身状态、精神和情
+绪等有关;(5)血生化可表现为低钠血症、轻度低血
+糖、血钾正常或正常高值,高钾血症少见[28];本组 3 例
+均出现过低钠血症;(6)血淋巴细胞和嗜酸性粒细胞
+容易增高;(7)血浆 ACTH、皮质醇明显降低,但垂体其
+他激素轴系包括促甲状腺激素、促性激素和生长激素
+等均正常;(8)常伴有甲状腺疾病或自身抗体阳性[29],
+特发性继发性肾上腺功能减退中甲状腺自身抗体
+60%呈现阳性[30],一半 AIIAD 患者血浆 TSH 水平增
+高[9];(9)常伴有其他全身性自身免疫性疾病;(10)这
+些临床表现与 AIIAD 紧密相联,因为随着糖皮质激素
+的替代治疗这些疾病或临床表现也随之缓解;(11)垂
+体 MRI 未见异常或呈空泡蝶鞍;(12)无器质性病变所
+致垂体 ACTH 分泌异常,无鞍区手术、浸润、放疗等。
+AIIAD 的诊断可参照上述临床特征。 实际上对任
+何不能解释的低钠血症、乏力、体重下降均应该想到该
+病的可能性。 当然诊断中关键的步骤是垂体-肾上腺
+轴的功能评估。 首先需要确定的是肾上腺皮质功能减
+退, 其次确定是继发性功能减退, 最后除外垂体其他
+激素功能减退。 检测清晨血皮质醇水平通常是诊断步
+骤的第一步[31],低于 3 μg / dl 可确诊肾上腺皮质功能
+减退,高于 18 μg / dl 则可除外,介于 5 μg / dl 和 18
+μg / dl 之间的状态需要行 ITT 或胰升糖素刺激试验进
+行进一步评估。 血 ACTH 水平和延长 ACTH 刺激试验
+有助于鉴别原发性和继发性肾上腺皮质功能减退[1],
+继发性功能减退患者 ACTH 水平降低,肾上腺皮质醇
+对 ACTH 刺激呈现延迟反应。 但对于新近突然发生的
+继发性皮质功能减退,如垂体卒中、垂体 ACTH 瘤术
+后,ACTH 刺激试验容易出现假阴性[32]。 继发性肾上
+腺皮质功能减退确定后需要进一步明确垂体其他激素
+的分泌状态和进行垂体影像学检查。 GnRH 和 TRH
+试验可用于评估垂体 ACTH 以外的其他激素,但 TRH
+国内不可供,甲状腺功能基础状态常作为评价标准。
+AIIAD 的治疗与继发性肾上腺皮质功能减退症的
+糖皮质激素替代治疗原则一致,但不需要像合并有其
+他垂体前叶激素缺乏的继发性肾上腺功能减退症那样
+要考虑其他激素的替代治疗问题,但当合并原发性甲
+状腺功能减退时,甲状腺激素的补充需要迟于糖皮质
+激素的替代。 也不同于原发性肾上腺皮质功能减退,
+继发性不需要盐皮质激素辅助治疗。 基于对皮质醇生
+成率的研究以及临床应用观察,目前推荐每日的糖皮
+质激素替代治疗的剂量低于以往建议的剂量,尤其是
+继发性肾上腺皮质功能减退[32]。 每日氢化可的松替
+代治疗剂量为平均 20 mg(0. 30 mg / kg) 或者醋酸可的
+松 25 mg(0. 35 mg / kg),分 2 ~ 3 次口服。 也可口服等
+剂量中长效糖皮质激素强的松,平均 5 mg / d[1]。 如遇
+有应激状态时,为防止肾上腺危象,应加大剂量,如果
+发生危象,须按阿狄森氏病危象进行抢救。 糖皮质激
+素替代治疗的监测基本依赖于临床症状、体征的判断
+而非激素测定。 虽然 ACTH 替代治疗应该是更生理的
+治疗方式,但因其受到给药途径、治疗效果等影响,临
+床应用困难。
+总之,AIIAb 临床表现不典型,漏诊和误诊率很
+高。 本文通过分析本院近 15 年来收治 3 例患者的临
+床表现,并结合文献复习,对该病的临床特征进行了总
+结。 临床上对任何不能解释的低钠血症、乏力、体重下
+降均应该想到该病的可能性。 了解该病的临床特征有
+助于提高诊断率,减少误诊和漏诊。

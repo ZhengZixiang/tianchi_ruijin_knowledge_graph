@@ -1,0 +1,237 @@
+T1	Disease 543 549	2 型糖尿病
+T2	Disease 2323 2326;2327 2330	2 型 糖尿病
+T3	Disease 2836 2842	2 型糖尿病
+T4	Test 875 880	HBA1C
+T5	Test 1477 1482	HBA1C
+T6	Test 1994 1999	HBA1C
+T7	Drug 15 19	二甲双胍
+T8	Drug 1184 1188	二甲双胍
+T9	Drug 1510 1514	二甲双胍
+T10	Drug 1972 1976	二甲双胍
+T11	Drug 2737 2741	二甲双胍
+T12	Test 805 809	空腹血糖
+T13	Test 858 862	空腹血糖
+T14	Test 906 910	空腹血糖
+T15	Test 1126 1130	空腹血糖
+T16	Test 1314 1318	空腹血糖
+T17	Test 1431 1435	空腹血糖
+T18	Test 2486 2490	空腹血糖
+T19	Test 2019 2023	体重指数
+T20	Test 1824 1827	收缩压
+T21	Anatomy 1722 1729	胰岛 β 细胞
+T22	Anatomy 1831 1835	β 细胞
+T23	Anatomy 1869 1873	β 细胞
+T24	Anatomy 1880 1884	β 细胞
+T25	Drug 5 9	利拉鲁肽
+T26	Drug 621 625	利拉鲁肽
+T27	Drug 1227 1231	利拉鲁肽
+T28	Drug 1252 1256	利拉鲁肽
+T29	Drug 1355 1359	利拉鲁肽
+T30	Drug 1370 1374	利拉鲁肽
+T31	Drug 1536 1540	利拉鲁肽
+T32	Drug 1554 1558	利拉鲁肽
+T33	Drug 1946 1950	利拉鲁肽
+T34	Drug 2074 2078	利拉鲁肽
+T35	Drug 2101 2105	利拉鲁肽
+T36	Drug 2122 2126	利拉鲁肽
+T37	Drug 2178 2182	利拉鲁肽
+T38	Drug 2250 2254	利拉鲁肽
+T39	Drug 2643 2647	利拉鲁肽
+T40	Drug 2719 2723	利拉鲁肽
+T41	Drug 2757 2761	利拉鲁肽
+T42	Drug 2952 2956	利拉鲁肽
+T43	Test 930 932;933 935	餐后 血糖
+T44	Test 1143 1147	餐后血糖
+T45	Test 1332 1336	餐后血糖
+T46	Test 1454 1458	餐后血糖
+T47	Anatomy 1890 1891;1892 1894	β 细胞
+T48	Test 2024 2027	BMI
+T49	Test 565 567	体重
+T50	Test 2611 2613	体重
+T51	Test 2960 2962	体重
+T52	Disease 2363 2367	MODY
+T53	Drug 2582 2586	艾塞那肽
+T54	Drug 2850 2854	艾塞那肽
+T55	Drug 11 14	胰岛素
+T56	Disease 25 31	多发性硬化症
+T57	Disease 32 33;34 39	类 固醇糖尿病
+T58	Drug 335 340	糖皮质激素
+T59	Duration 329 331	长期
+T60	Amount 331 333	大量
+T61	Disease 350 353;354 360	继发性 类固醇糖尿病
+T62	Disease 366 369	糖尿病
+T63	Drug 375 380	糖皮质激素
+T64	Drug 391 396	糖皮质激素
+T65	Drug 413 415;416 419	糖皮 质激素
+T66	Symptom 431 436	胰岛素抵抗
+T67	Disease 453 460	类固醇性糖尿病
+T68	Test 558 560	血糖
+T69	Disease 592 599	类固醇性糖尿病
+T70	Disease 610 617	类固醇性糖尿病
+T71	Test 628 630	血糖
+T72	Symptom 652 656	血糖升高
+T73	Disease 675 681	多发性硬化症
+T74	Amount 685 688	大剂量
+T75	Method 694 698	冲击治疗
+T76	Drug 706 710	甲强龙片
+T77	Method 710 712	口服
+T78	Amount 717 726	24 mg / d
+T79	Amount 733 741	6 mg / d
+T80	Drug 753 759	雷公藤多甙片
+T81	Amount 760 769	60 mg / d
+T82	Drug 771 775	甲氨蝶呤
+T83	Amount 776 786	7. 5 mg /周
+T84	Test_Value 810 814;815 823	8. 0 mmol / L
+T85	Disease 828 835	类固醇性糖尿病
+T86	Test_Value 863 874	13 mmol / L
+T87	Test_Value 881 887	12. 4%
+T88	Test 903 905	血糖
+T89	Test_Value 914 929	9 ~ 12 mmol / L
+T90	Test_Value 939 955	18 ~ 22 mmol / L
+T91	Test 970 971;972 977	空 腹 C 肽
+T92	Test_Value 978 992	1. 85 nmol / L
+T93	Test 993 1003	餐后 2 h C 肽
+T94	Test_Value 1004 1018	3. 16 nmol / L
+T95	Symptom 1023 1025;1026 1029	胰岛 素抵抗
+T96	Treatment 1043 1047	保肝治疗
+T97	Drug 1051 1054;1055 1056	二甲双 胍
+T98	Drug 1058 1061	胰岛素
+T99	Amount 1073 1077	60 U
+T100	Drug 1078 1084	诺和锐胰岛素
+T101	Drug 1087 1092	甘精胰岛素
+T102	Amount 1093 1097	26 U
+T103	Drug 1104 1107	胰岛素
+T104	Test 1123 1125	血糖
+T105	Test_Value 1130 1142	>12 mmol / L
+T106	Test_Value 1147 1159	>19 mmol / L
+T107	Treatment 1165 1169	保肝治疗
+T108	Amount 1189 1199	1. 5 g / d
+T109	Method 1231 1233;1234 1236	皮下 注射
+T110	Amount 1237 1248	0. 6 mg / d
+T111	Test 1257 1259	血糖
+T112	Test 1274 1276	血糖
+T113	Drug 1282 1285	胰岛素
+T114	Drug 1297 1300	胰岛素
+T115	Amount 1305 1313	22 U / d
+T116	Test_Value 1336 1349	低于 9 mmol / L
+T117	Amount 1387 1398	0. 6 mg / d
+T118	Drug 1413 1416	胰岛素
+T119	Amount 1422 1430	12 U / d
+T120	Test_Value 1439 1453	4 ~ 5 mmol / L
+T121	Test_Value 1484 1490	10. 0%
+T122	Drug 1506 1509	胰岛素
+T123	Disease 1525 1531	类固醇糖尿病
+T124	Test 1541 1543	血糖
+T125	Disease 1559 1569	继发性类固醇性糖尿病
+T126	Disease 1584 1590	类固醇糖尿病
+T127	Disease 1613 1616	糖尿病
+T128	Drug 1621 1626	糖皮质激素
+T129	Disease 1630 1633	糖尿病
+T130	Drug 1642 1647	糖皮质激素
+T131	Drug 1662 1667	糖皮质激素
+T132	Symptom 1684 1687;1688 1690	胰岛素 抵抗
+T133	Symptom 1696 1699	高血糖
+T134	Drug 1706 1711	GLP-1
+T135	Anatomy 1738 1742	α 细胞
+T136	Drug 1753 1758	GLP-1
+T137	Drug 1804 1815	GLP-1 受体激动剂
+T138	Drug 1858 1863	GLP-1
+T139	Drug 1908 1913	糖皮质激素
+T140	Duration 1904 1906	长期
+T141	Disease 1916 1922	类固醇糖尿病
+T142	Test 1925 1927	血糖
+T143	Amount 1951 1955;1956 1962	0. 6 mg / d
+T144	Amount 1964 1967	小剂量
+T145	Drug 1968 1971	胰岛素
+T146	Test 1981 1983	血糖
+T147	Test_Value 2001 2007	12. 4%
+T148	Test_Value 2010 2013	10%
+T149	Test_Value 2028 2041	26. 5 kg / m2
+T150	Test 2042 2051	空腹和餐后 C 肽
+T151	Symptom 2061 2066	胰岛素抵抗
+T152	Duration 2070 2073	5 周
+T153	Test 2084 2086	血糖
+T154	Test 2108 2110	血糖
+T155	Disease 2188 2195	类固醇性糖尿病
+T156	Drug 2211 2216	糖皮质激素
+T157	Disease 2236 2240	高脂血症
+T158	Disease 2241 2244	高血压
+T159	Disease 2245 2247	肥胖
+T160	Disease 2276 2281	心血管疾病
+T161	Drug 2300 2308	肠促胰岛素类似物
+T162	Test 2313 2315	血糖
+T163	Disease 2319 2321	肥胖
+T164	Drug 2343 2352	GLP-1 类似物
+T165	Disease 2355 2360;2361 2362	1 型糖尿 病
+T166	Disease 2434 2441	类固醇性糖尿病
+T167	Disease 2461 2466	库欣综合征
+T168	Drug 2479 2484	GLP-1
+T169	Disease 2502 2509	类固醇性糖尿病
+T170	Drug 2514 2523	DPP-4 抑制剂
+T171	Test 2526 2528	血糖
+T172	Disease 2561 2577	Prader-Willi 综合征
+T173	Test 2614 2616	血糖
+T174	Amount 2655 2673	1. 2 ~ 1. 8 mg / d
+T175	Amount 2701 2712	0. 6 mg / d
+T176	Duration 2733 2736	1 周
+T177	Disease 2829 2832	银屑病
+T178	Disease 2832 2834	肥胖
+T179	Duration 2855 2856;2857 2858	1 年
+T180	Disease 2859 2862	银屑病
+T181	Disease 2887 2893	多发性硬化症
+T182	Disease 2901 2908	自身免疫性疾病
+T183	Disease 2923 2928	多发性硬化
+T184	Test 2971 2973	血糖
+T185	Test 2974 2976	血脂
+T186	Test 2977 2979	血压
+T187	Disease 2987 2993	类固醇糖尿病
+T188	Drug 3022 3033	GLP-1 受体激动剂
+T189	Disease 3034 3040	类固醇糖尿病
+T190	Test 1783 1784;1785 1786	体 重
+T191	Duration 407 409	长期
+T192	Amount 409 411	大量
+T193	Disease 583 586	糖尿病
+T194	Test 959 964	馒头餐试验
+T195	Duration 1204 1207	1 周
+T196	Duration 1264 1267	2 d
+T197	Duration 1293 1297	2 周后
+T198	Duration 1404 1407	3 周
+T199	Anatomy 1668 1670	糖原
+T200	Anatomy 1677 1679	肝糖
+T201	Anatomy 1731 1734	胰岛素
+T202	Anatomy 1744 1748	胰升糖素
+T203	Anatomy 2128 2135	生长激素释放肽
+T204	Anatomy 2165 2168	胰岛素
+T205	Duration 2207 2209	长期
+T206	Anatomy 2768 2771	胰岛素
+T207	Treatment 467 471;472 474	饮食运动 控制
+T208	Duration 657 660	2 年
+T209	Duration 1170 1174	1 周后
+T210	Test_Value 1177 1181	基本正常
+T211	Symptom 1364 1369	饱腹感明显
+T212	Anatomy 1761 1762	胃
+T213	Test_Value 2052 2053;2054 2055	很 高
+T214	Anatomy 2142 2143	胃
+T215	Symptom 2684 2688;2689 2690	饱腹感明 显
+T216	Symptom 2595 2599	体重减轻
+T217	Symptom 423 430	脂肪向心性堆积
+T218	Symptom 437 442	糖调节异常
+T219	Symptom 444 449	脂代谢异常
+T220	Drug 479 482	胰岛素
+T221	Drug 488 508;509 535	胰升糖素样肽-1( glucagons- like peptide-1,GLP-1)受体激动剂
+T222	Drug 688 694	甲基强的松龙
+T223	Test 1036 1038	肝酶
+T224	Test_Value 1038 1040	异常
+T225	Amount 1109 1116	大于 80 U
+T226	Test 1175 1177	肝酶
+T227	Test 1210 1212	血糖
+T228	Test_Value 1318 1331	低于 6 mmol / L
+T229	Test_Value 1462 1476	8 ~ 9 mmol / L
+T230	Test 1517 1519	血糖
+T231	SideEff 2222 2225;2226 2228	脂代谢 异常
+T232	Test 2402 2405	C 肽
+T233	Test_Value 2405 2407	阴性
+T234	Disease 2408 2411	糖尿病
+T235	Symptom 2469 2472	高血糖
+T236	Method 2474 2476	静脉
+T237	Symptom 2589 2593	血糖降低

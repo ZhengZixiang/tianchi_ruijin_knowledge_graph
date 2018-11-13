@@ -1,0 +1,267 @@
+临床研究
+基金项目:浙江省重大科技专项计划资助项目(2011C13032-1)
+疾病防治所
+腰围身高比预测非超重人群代谢综合征年龄
+性别差异分析
+张洁  王浩  苏丹婷  赵鸣  何青芳  王立新  张新卫  胡如英  俞敏
+[摘要]   目的  探讨腰围身高比(WHtR)预测非超重人群代谢综合征(MS)的效力和适宜切点,分析
+年龄性别差异的影响。 方法 选择参加 2010 年浙江省MS 流行病学调查的 10 792 名年龄≥18 周岁非超重
+居民(体重指数<24. 0 kg / m2)为研究对象,进行问卷调查、体格检查和 MS 相关组分检测,分性别和年龄组
+应用受试者工作特征曲线分析 WHtR 预测 MS 的曲线下面积(AUC)和最佳切点,采用多因素 logistic 回归
+模型进行 WHtR 与 MS 患病风险分析。 结果 WHtR 预测非超重男性和女性 MS 的 AUC 值分别为 0. 765
+(95% CI 0. 740 ~ 0. 789)和 0. 786(95% CI 0. 765 ~ 0. 807),WHtR 与非超重男性和女性 MS 患病风险的 OR
+值分别为 1. 23(95% CI 1. 20 ~ 1. 27)和 1. 22(95% CI 1. 20 ~ 1. 26),不同性别、年龄组 AUC 值和 OR 值均有
+显著性(P<0. 01);AUC 值和 OR 值在 18 ~ 34 岁组为女性大于男性,年龄≥35 岁各组均为男性大于女性;
+随着年龄增长,AUC 值和 OR 值在男性各年龄组略呈波动,在女性各年龄组逐渐减小。 预测最佳切点女性
+高于男性(0. 509 对 0. 498),男性最佳切点以 50 ~ 64 岁组最高,女性最佳切点随年龄增长呈升高趋势。 结
+论 WHtR 对非超重人群 MS 患病风险具有较好的预测效力和相关性,但应考虑年龄性别差异的影响。
+[关键词]   代谢综合征; 腰围身高比; 正常体重
+Age and sex difference in waist-to-height ratio as index for metabolic syndrome among non-overweight
+Chinese adults Zhang Jie, Wang Hao, Su Danting, Zhao Ming, He Qingfang, Wang Lixin, Zhang Xinwei, Hu
+Ruying, Yu Min. Department of Non-Communicable Chronic Diseases Control and Prevention, Zhejiang Provincial
+Center for Disease Control and Prevention, Hangzhou 310051, China
+[Abstract]   Objective   To evaluate the utility of waist-to-height ratio ( WHtR) in predicting metabolic
+syndrome(MS) among non-overweight Chinese adults, and to investigate the difference by age and sex. Methods
+Based on a population-based cross-sectional survey on MS in Zhejiang province in 2010, data of 10 792 non-overweight
+(body mass index < 24. 0 kg / m2 ) adults aged 18 years and older were analyzed by using the receiver operating
+characteristic(ROC)curve analysis and multiple logistic regression. Results The area under ROC curve (AUC)
+values of WHtR in MS prediction were 0. 765(95% CI 0. 740-0. 789) and 0. 786(95% CI 0. 765-0. 807), and odds
+ratios (OR) of WHtR for MS were 1. 23(95% CI 1. 20-1. 27) and 1. 22(95% CI 1. 20-1. 26) in non-overweight men
+and women, respectively. These two values were with significant difference among non-overweight adults with different
+aged and sexes(P<0. 01) . No-overweight men had smaller AUC and OR among 18-34 age group while larger AUC and
+OR among 35-49, 50-64, and 65-plus age groups than women. The AUC and OR showed slight difference among age
+groups in non-overweight men, while these two values decreased with age in non-overweight women. The optimal cutoff
+value was higher in non-overweight women(0. 509 vs 0. 498) than that in men. Non-overweight men aged 50-64 years
+old had higher cutoff value than those aged 18-34, 35-49, and 65-plus years, while among non-overweight women the
+cutoff values increased with age. Conclusion WHtR had preferable discriminatory power and association with MS
+among non-overweight Chinese adults. Further studies should be conducted to explore the difference by age and sex.
+[Key words]  Metabolic syndrome; Waist-to-height ratio; Normal weight
+(Chin J Endocrinol Metab, 2015, 31: 765-768)
+代谢综合征(metabolic syndrome, MS)是心血管病
+发病和死亡的重要危险因素,而中心型肥胖与其中多
+种代谢风险密切相关[1]。 中国人由于体脂分布趋向
+腹腔内积聚的特点,正常甚或低体重人群发生 MS 的
+风险亦增加[2]。 腰围身高比 ( waist-to-height ratio,
+WHtR)是近年建议的中心型肥胖和心血管代谢风险
+评价指标,全人群研究表明其对 MS 预测价值优于体
+重指数(BMI)和腰围[3-5]。 本研究利用 2010 年浙江省
+居民 MS 流行病学调查资料,对 WHtR 预测非超重人
+群 MS 的效力和适宜切点进行探讨,并分析年龄性别
+差异的影响。
+对象和方法
+一、 对象
+2010 年浙江省 MS 患病率调查对象是年龄≥18
+周岁的常住居民(连续居住 6 个月及以上)。 采用多
+阶段分层整群随机抽样的方法,在社会经济水平不同
+的 5 类地区(2 类城市、3 类农村)各抽取 3 个县(市、
+区),每个县(市、区)抽取 4 个乡镇(街道),每个乡镇
+(街道)抽取 3 个行政村(居委会),每个行政村(居委
+会)以 40 个家庭户为 1 群,整群抽取 1 个群中所有符
+合条件的居民为调查对象,在抽取的 19 113 名居民中
+有效调查 17 437 名(应答率为 91. 23% ),其中 10 792
+名非超重[根据中国肥胖问题工作组超重切点建议即
+体重指数(BMI) <24. 0 kg / m2] [6] 且无恶性肿瘤、脑卒
+中、冠心病急性事件既往史的居民作为本研究的对象。
+二、 方法
+1. 调查内容:采用统一设计调查问卷,由各调查
+点经培训考核合格的医务人员进行面对面询问调查,
+内容包括社会人口学特征、行为与生活方式(吸烟、饮
+酒、体力活动和饮食习惯)、主要慢性病史(高血压、糖
+尿病、脑卒中、冠心病诊断与治疗)等。 医学体检包括
+身高、体重、腰围和血压,受检者空腹、站立、脱鞋帽和
+外衣,采用经过校准的身高体重计测量身高和体重,分
+别精确到 0. 1 cm 和 0. 1 kg;腰围测量双侧肋弓下缘与
+髂嵴连线中点的水平周径,精确到 0. 1 cm,取 3 次测量
+的平均值;BMI 按照体重(kg) /身高2(m2)计算,WHtR
+按照腰围(cm) /身高(cm)计算;血压测量采用标准汞
+柱式血压计,取 2 次测定平均值。 采集空腹至少 8 h
+静脉血样,使用 Beckman CX4 Pro 全自动生化分析仪
+测定空腹血糖(FPG)、甘油三酯(TG)和高密度脂蛋白
+胆固醇(HDL-C),FPG 检测结果在 5. 6 ~ 7. 0 mmol / L
+之间者行口服葡萄糖耐量试验,检测糖负荷后 2 h 血
+糖(2hPG)。
+2. 指标和定义:MS 判定采用中华医学会糖尿病
+学分会(CDS)关于代谢综合征的诊断标准(2013) [7],
+即具备以下的 3 项或 3 项以上:(1)中心型肥胖(腰围
+男性≥90 cm,女性≥85 cm);(2)高血糖(FPG≥6. 1
+mmol / L 或 2hPG≥7. 8 mmol / L 或已确诊为糖尿病并治
+疗者);(3)高血压[收缩压≥130 mmHg(1 mmHg =
+0. 133 kPa)或舒张压≥85 mmHg 或已确诊为高血压并
+治疗者];(4)空腹 TG≥1. 7 mmol / L;(5)空腹 HDL-C<
+1. 04 mmol / L。
+三、 统计学处理
+采用 Epidata 3. 02 软件录入数据,应用 SPSS 19. 0
+统计软件包进行数据分析。 计量资料用 x-± s 表示,计
+数资料采用率描述,单因素组间比较分别采用 t 检验、
+方差分析和 字2 检验。 受试者工作特征(ROC)曲线分
+析 WHtR 预测 MS 的曲线下面积(AUC)和最佳切点
+(对应约登指数最大值)。 WHtR 与 MS 患病风险比值
+比(OR)采用多因素 logistic 回归模型分析。 P<0. 05
+为差异有统计学意义。
+结    果
+一、 基本特征
+共调查男性 4 948 名(占 45. 8% ),女性 5 844 名
+(占 54. 2% ),平均年龄分别为(50. 01 ± 16. 04)岁和
+(46. 63 ±15. 66)岁。 非超重男性身高、腰围明显高于
+女性[(166. 08 ±6. 68 对 156. 28 ±5. 90)cm, t = 80. 13,
+P<0. 01;(77. 63 ±6. 73 对 74. 60 ±6. 87)cm, t=23. 08,
+P<0. 01],女性 WHtR 明显高于男性(0. 48 ± 0. 05 对
+0. 47 ±0. 04,t= 11. 90,P<0. 01);随着年龄增长,男性
+和女性身高均呈下降趋势,腰围和 WHtR 则均表现为
+先升后降的变化趋势, 即 18 ~ 39 岁快速增长,40 ~ 74
+岁男性保持稳定而女性仍随年龄增长,75 岁后略呈下
+降(图 1)。 诊断 MS 共 937 例(8. 7% ),其中中心型肥
+胖 542 例(5. 0% ),高血糖 1 149 例(10. 6% ),高血压
+3 626 例(33. 6% ),TG 升高 1 813 例(16. 8% ),HDL-C
+图 1  非超重男性和女性身高、腰围与腰围身高比年龄变化趋势
+Fig 1  Age trend of height, waist, and waist-to-height ratio among non-overweight men and women
+降低 3 884 例(36. 0% );随着年龄增长,男性和女性
+MS 患病率均呈升高趋势( 字2 = 63. 41,P <0. 01; 字2 =
+336. 63,P<0. 01);18 ~ 34 岁组 MS 患病率无明显性别
+差异,35 ~ 49 岁组男性高于女性,年龄≥50 岁各组均
+为女性高于男性(表 1)。
+表 1  非超重人群分年龄、性别 MS 患病率
+Tab 1  The prevalence of metabolic syndrome among non-overweight
+adults based on age and gender
+年龄
+(岁)
+Age
+(year)
+男性
+Male
+女性
+Female
+调查数
+n
+MS
+n(% )
+调查数
+n
+MS
+n(% )
+18-34 1 006 24(2. 4) 1 511 22(1. 5)
+35-49 1 264 95(7. 5) 1 790 89(5. 0) a
+50-64 1 723 184(10. 7) 1 787 248(13. 9) a
+≥65 955 108(11. 3) 756 167(22. 1) a
+合计
+Total 4 948 411(8. 3) 5 844 526(9. 0)
+注:MS:代谢综合征 Metabolic syndrome; 与男性比较 vs Male, aP<
+0. 01
+二、 WHtR 预测 MS 的 ROC 曲线分析
+WHtR 预测非超重男性和女性 MS 的 AUC 值分别
+为 0. 765 (95% CI 0. 740 ~ 0. 789)和 0. 786 (95% CI
+0. 765 ~ 0. 807),不同性别、年龄组 AUC 值差异均有统
+计学意义(P<0. 01);不同性别比较,18 ~ 34 岁组女性
+AUC 大于男性,年龄≥35 岁各组均为男性 AUC 大于
+女性;随着年龄增长,男性各年龄组 AUC 略呈波动,女
+性各年龄组 AUC 逐渐减小。 WHtR 预测非超重女性
+MS 的最佳切点高于男性(0. 509 对 0. 498),但 18 ~ 34
+岁组男女最佳切点相近;男性最佳切点以年龄 50 ~ 64
+岁组最高,女性最佳切点随年龄增长呈升高趋势(表
+2)。
+三、 WHtR 与 MS 患病风险的 logistic 回归分析
+调整年龄、吸烟、饮酒、体力活动和日膳食总热量
+等因素,WHtR 与非超重男性和女性 MS 患病风险的
+OR 值分别为 1. 23(95% CI 1. 20 ~ 1. 27)和 1. 22(95%
+CI 1. 20 ~ 1. 26),不同性别、年龄组 OR 值差异均有统
+计学意义(P<0. 01)。 非超重男性 OR 值大于女性,但
+18 ~ 34 岁组为女性 OR 值大于男性;随着年龄增长,男
+性各年龄组 OR 值略呈波动,女性各年龄组 OR 值逐渐
+减小(表 3)。
+讨    论
+MS 是多种心血管代谢风险在个体聚集的状态,显
+著增加心血管疾病、 糖尿病的发病率和死亡率。 研究
+表明与 MS 密切相关的是内脏脂肪聚集而非总体脂肪
+的增加[8], 中国人体脂分布具有趋向腹腔内积聚的特
+表 2  WHtR 预测不同年龄、性别非超重人群 MS 的 ROC 曲线分析
+Tab 2  The ROC analysis on waist-to-height ratio predicting metabolic syndrome among non-overweight adults based on age and gender
+年龄
+(岁)
+Age
+(year)
+男性
+Male
+女性
+Female
+AUC
+(95% CI)
+最佳切点
+Cutoff point
+敏感度
+Sensitivity
+(% )
+特异度
+Specificity
+(% )
+AUC
+(95% CI)
+最佳切点
+Cutoff point
+敏感度
+Sensitivity
+(% )
+特异度
+Specificity
+(% )
+18-34 0. 740(0. 623-0. 858) 0. 481 54. 2 81. 9 0. 787(0. 703-0. 870) 0. 489 63. 6 88. 0
+35-49 0. 748(0. 705-0. 792) 0. 478 74. 7 59. 7 0. 746(0. 691-0. 800) 0. 499 61. 8 75. 1
+50-64 0. 740(0. 700-0. 779) 0. 500 58. 2 79. 0 0. 720(0. 684-0. 756) 0. 510 63. 2 71. 8
+≥65 0. 744(0. 694-0. 794) 0. 497 69. 4 68. 3 0. 709(0. 677-0. 742) 0. 523 64. 7 73. 5
+合计
+Total 0. 765(0. 740-0. 789) 0. 498 58. 6 79. 8 0. 786(0. 765-0. 807) 0. 509 64. 2 79. 5
+注:WHtR: 腰围身高比 Waist-to-height ratio; MS:代谢综合征 Metabolic syndrome; ROC:受试者工作特征 Receiver operating characteristic; AUC:曲线
+下面积 Area under ROC curve
+表 3  不同年龄、性别非超重人群 WHtR 与 MS 患病风险的 logistic 回归分析
+Tab 3  The logistic regression analysis on association between waist-to-height ratio and metabolic syndrome among non-overweight adults based
+on age and gender
+年龄
+(岁)
+Age
+(year)
+男性
+Male
+女性
+Female
+OR(95% CI) Wald P OR(95% CI) Wald P
+18-34 1. 20(1. 07-1. 34) 10. 48 <0. 01 1. 28(1. 21-1. 36) 67. 03 <0. 01
+35-49 1. 25(1. 17-1. 34) 42. 04 <0. 01 1. 24(1. 11-1. 36) 16. 22 <0. 01
+50-64 1. 24(1. 19-1. 30) 96. 07 <0. 01 1. 22(1. 18-1. 27) 108. 97 <0. 01
+≥65 1. 23(1. 17-1. 30) 57. 12 <0. 01 1. 20(1. 15-1. 26) 71. 52 <0. 01
+合计
+Total 1. 23(1. 20-1. 27) 211. 15 <0. 01 1. 22(1. 20-1. 26) 274. 28 <0. 01
+注:WHtR: 腰围身高比 Waist-to-height ratio; MS:代谢综合征 Metabolic syndrome; OR:比值比 Odds ratio
+点,Jia 等[9] 应用核磁共振技术发现我国 BMI < 25
+kg / m2人群亦有 14. 2% 表现为内脏脂肪的严重堆积,
+提示有相当比例正常甚或低体重人群可能出现心血管
+代谢异常。 本研究采用 CDS 关于 MS 的诊断标准
+(2013),发现非超重人群 MS 患病率已达到 8. 7% ,
+HDL-C 降低、高血压、TG 升高等组分患病率亦达较高
+水平;进一步 ROC 曲线和多因素 logistic 回归分析显
+示,WHtR 对不同年龄、性别非超重人群 MS 患病风险
+均有较好的预测效力和相关性,表明 WHtR 可成为非
+超重人群 MS 筛查的有效指标。
+Zhang 等[10]对中国 40 ~ 70 岁女性前瞻性队列研
+究和 Cai 等[11] 在北京现况调查显示 WHtR 对心血管
+代谢风险的预测效力和相关性随年龄增长而降低,本
+研究在非超重女性亦获得相似分析结果,但在非超重
+男性未发现明显年龄趋势。 本研究结果亦显示 WHtR
+对非超重人群 MS 的预测效力和患病风险存在年龄相
+关的性别差异,即年龄<35 岁为女性高于男性,年龄≥
+35 岁为男性高于女性。 WHtR 与心血管代谢风险的年
+龄性别差异可能与下列因素有关:(1)腰围或内脏脂
+肪 /总体脂肪比均存在年龄差异[12]。 Enzi 等[13] 研究
+表明正常体重人群随着年龄增长内脏脂肪聚集相对程
+度亦明显增加,本研究中非超重女性腰围与年龄具有
+更强的相关性。 (2)两性体脂分布具有不同的年龄变
+化特征。 Hsieh 等[14] 和 Kuk 等[15] 认为随着年龄增长
+具有相似腰围的男性内脏脂肪聚集程度比女性更明
+显。 (3)身高与心血管代谢风险呈显著负相关[16],本
+研究中非超重人群身高亦存在年龄和代际差异。
+进一步分析表明 WHtR 预测非超重男性和女性
+MS 的最佳切点亦呈不同的年龄变化特征,与 Cai
+等[11]在北京研究结果相似,可能亦与腰围与内脏脂肪
+聚集相关性的年龄性别差异有关。 因此,采用 WHtR
+预测非超重人群 MS 应考虑年龄性别差异的影响,分
+年龄性别选择适宜切点可有效提高筛查效率。 但鉴于
+本研究现况调查设计的局限性,WHtR 预测非超重人
+群 MS 的适宜切点有待进一步探讨。

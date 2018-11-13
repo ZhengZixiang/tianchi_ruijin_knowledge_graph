@@ -1,0 +1,201 @@
+基础研究
+基金项目:国家自然科学基金资助项目(81170759)
+上海市糖尿病研究所,上海市糖尿病重点实验室,上海市糖尿病临床医
+学中心(张蓉、俞立波、李梅芳、李连喜、陆俊茜、包玉倩、贾伟平),普外
+科(郭明高),核医学科(陆汉魁)
+具有摄锝功能甲状腺乳头状癌移植瘤裸鼠
+模型的建立
+张蓉  俞立波  李梅芳  郭明高  李连喜  陆汉魁  陆俊茜  包玉倩  贾伟平
+[摘要]   目的  建立具有摄锝功能甲状腺乳头状癌皮下移植瘤裸鼠模型,为研究甲状腺乳头状癌的
+发病机制及放射性碘治疗提供工具。 方法 取人甲状腺乳头状癌细胞系 IHH-4,以 1 ×107 细胞数制成
+200 滋l 细胞悬液接种于 9 只裸鼠(5 周龄雌性裸鼠,品系 BALB / c-nu / nu)皮下,观察成瘤时间,并用 PET-CT
+观察肿瘤大小及形态,用放射性核素发射式计算机断层(ECT)观察移植瘤的摄锝功能。 结果 裸鼠皮下
+成瘤率为 100. 0% (9 / 9),细胞接种后 1 周裸鼠皮下可以形成肉眼可见的肿瘤,4 周时 PET-CT 检测肿瘤大
+小约 1. 8 cm×2. 4 cm,ECT 显示腹腔注射放射性99m锝后 15 min 移植瘤可以显像。 结论 应用人甲状腺乳头
+状癌细胞系 IHH-4 成功建立甲状腺乳头状癌皮下移植瘤裸鼠模型,移植瘤具有良好的摄锝功能,为甲状腺
+乳头状癌发病机制及放射性碘治疗等的研究提供了良好的动物模型。
+[关键词]   甲状腺乳头状癌; 肿瘤裸鼠模型; 摄锝功能; 放射性核素发射式计算机断层
+Establishment of nude mice xenograft model of papillary thyroid carcinoma with the ability of 99mTc-intake
+Zhang Rong*, Yu Libo, Li Meifang, Guo Minggao, Li Lianxi, Lu Hankui, Lu Junxi, Bao Yuqian, Jia Weiping.
+*Department of Endocrinology and Metabolism, Shanghai Jiaotong University Affilliated sixth Peaple忆 s Hospital,
+Shanghai 200233, China
+[Abstract]  Objective   To establish the nude mice xenograft model of papillary thyroid carcinoma with the
+ability to accumulate 99mTc, and to provide a tool for further study in both pathogenesis and radioactive iodine treatment
+of papillary thyroid carcinoma. Methods 1×107 cells in 200 滋l suspension liquids of the human papillary thyroid
+carcinoma cell lines IHH-4 were inoculated into nine nude mice ( five week-old female nude mice, BALB / c-nu /
+nu) . Tumor formation was recorded, and the size and morphology of tumor were observed by PET-CT. Emission
+computed tomography (ECT) was used to observe the function of 99mTc intake by xenografts. Results The percentage
+of the formation of xenografts in nude mice was 100. 0% (9 / 9) . One week after the cells were injected into nude mice,
+visible tumors were formed. PET-CT performed by the fourth week demonstrated that tumor size was about 1. 8 cm ×
+2. 4 cm. Xenograft忆 image was displayed by ECT after 15 minutes of intraperitoneal injection of 99mTc. Conclusion
+The nude mice xenograft model of papillary thyroid carcinoma was successfully established by using the human
+papillary thyroid carcinoma cell lines IHH-4. The xenografts have the ability to accumulate 99mTc, thus providing a
+good animal model for the study of pathogenesis and radioactive iodine with treatment of papillary thyroid carcinoma.
+[Key words]   Papillary thyroid carcinoma; Tumors in nude mice model; 99mTc; Emission computed
+tomography
+(Chin J Endocrinol Metab, 2014, 30: 775-778)
+甲状腺癌是最常见的内分泌系统恶性肿瘤,分化
+型甲状腺癌(differentiated thyroid carcinoma, DTC)起源
+于甲状腺滤泡上皮细胞,包括甲状腺乳头状癌和滤泡
+状癌。 近年甲状腺癌发病率逐渐上升,其中甲状腺乳
+头状癌(papillary thyroid carcinoma, PTC)最常见,占全
+部甲状腺癌的 80%以上[1]。 DTC 对化疗、外放射治疗
+均不敏感,但 DTC 细胞及其转移灶保留了甲状腺组织
+摄取131 I 的能力,所以临床上治疗 DTC 的最佳方法是
+先手术切除,术后用131 I 进行内照射治疗。 利用131 I 发
+射的射线可有效破坏残余甲状腺组织及转移灶,清除
+患者淋巴结转移灶,最大限度地控制病情进展,提高患
+者的生存质量[2]。 由此可见,131 I 在甲状腺癌的治疗
+中具有重要的意义。 但是,临床上131 I 放射治疗时不
+同剂量、次数、治疗间隔时间、累积剂量等,都可能引起
+腮腺或甲状旁腺功能受损,严重者甚至造成血液系统
+并发症[2-4]。
+目前碘在甲状腺癌发病中的作用及机制也尚未阐
+明,Liu 等[5]认为低碘导致甲状腺细胞 DNA 损伤,体
+外碘的补充能够诱导甲状腺细胞的凋亡,甚至抑制甲
+状腺恶性肿瘤的发生。 但同时也有流行病学调查发
+现,碘摄入增加与 DTC 的发病率呈正相关。 高碘摄入
+地区的 PTC 比例有所提高,提示碘对甲状腺恶性肿瘤
+的作用并未明确。
+因此,为进一步研究碘在 PTC 发病中的作用及机
+制、放射性碘在 PTC 治疗中的作用机制以及体内模
+拟131 I 放射治疗产生的并发症等,建立具有摄碘或摄
+锝功能的 PTC 移植瘤裸鼠模型十分必要。 国内外已
+经成功构建具有摄锝或摄碘的裸鼠模型,包括神经内
+分泌瘤裸鼠模型[6]、甲状腺滤泡状癌裸鼠模型[7]。 但
+具有摄碘或摄锝功能的 PTC 移植瘤裸鼠模型尚未建
+立,因此我们拟建立具有摄锝功能的 PTC 移植瘤裸鼠
+模型,为进一步研究 PTC 提供良好的研究工具。
+材料和方法
+一、 材料
+RPMI 1640 和 Dulbecco忆 s Modified Eagle Media
+(DMEM)培养液、胰蛋白酶、胎牛血清(FBS)均为美国
+Gibco 公司产品,培养皿、移液管、离心管为 Corning 公
+司产品,放射性锝( 99mTcO-4 )由新科药厂提供,18F-FDG
+由原 子 高 科 股 份 有 限 公 司 提 供, ECT 为 ADAC
+Laboratories 公司 Precedence SPECT / CT 系统,PET-CT
+为 GE 公司 Discovery VCT 系统。
+二、 方法
+1. 甲状腺乳头状癌细胞的培养:人甲状腺乳头癌
+细胞系 IHH-4 由中国医科大学附属第一医院内分泌
+科关海霞教授惠赠。 细胞培养液为 RPMI1640+DMEM
+(1 : 1)培养液,内含 10% FBS、100 U / ml 青霉素、100
+μg / ml 链霉素,铺于 10 cm2 培养皿内,置 37℃、5%
+CO2孵箱内孵育。 IHH-4 细胞单层贴壁生长,呈小多边
+型,是多重耐药细胞系。 随时观察细胞的形态和数量,
+隔天细胞长至 85% ~ 90% 时传代以保持细胞最佳生
+长状态,待细胞进入对数生长期后,用于后续试验。 雌
+性 BALB / c-nu / nu 裸鼠购于中国医学科学院实验动物
+所,鼠龄 4 周, 体重 16 ~ 18 g。 裸鼠饲养于恒温
+(25℃ ~27℃)恒湿(40% ~50% )的 SPF 层流架中,经
+高压灭菌的标准饲料和水供动物自由食用,裸鼠需饲
+养 1 周以适应环境。
+2. 甲状腺乳头状癌裸鼠模型的建立:细胞传代
+后,待长满培养皿底 90%时予 0. 25%胰酶消化、离心,
+用无血清培养液制成细胞悬液,调整细胞浓度为 1 ×
+107个 / 0. 2 ml。 每只裸鼠于颈背部皮下注射细胞悬液
+0. 2 ml,共 9 只裸鼠。 每日观察裸鼠一般情况,包括活
+动量、进食、大小便、肤色,每周测量动物体重,测量肿
+瘤大小,按公式计算体积=长径×短径2 / 2,并绘制生长
+曲线。 32 d 后以颈椎脱臼法处死裸鼠,取出移植瘤。
+3. 甲状腺乳头状癌裸鼠 ECT 及 PET-CT 检查:第
+27 天行放射性核素发射式计算机断层(ECT)检查,显
+影剂为99mTc,剂量为 0. 5 mCi /只,腹腔注射后 15 min
+进行显像。 第 28 天行 PET-CT 检查,显像剂18F-FDG,
+剂量为 1 MBq /只,尾静脉注射 15 min 后显像。
+4. 甲状腺乳头状癌裸鼠病理学检查:第 32 天处
+死裸鼠,进行尸检并将肿瘤组织、肝等用 10% 甲醛固
+定、石蜡包埋、切片、常规苏木素-伊红染色 ( HE 染
+色)。
+结    果
+一、 裸鼠生长状况
+IHH-4 细胞皮下注射接种 9 只裸鼠,7 d 后均成
+瘤。 其中 1 号裸鼠于皮下注射 16 d 因移植瘤部位破
+溃、出血而死亡,其余 8 只裸鼠均成活。 移植瘤生长情
+况良好,裸鼠 1 ~ 3 周生长状态好,活动量、进食均无明
+显异常,体重稳步增长,第 4 周体重未再增长或增长缓
+慢, 裸鼠平均体重增长曲线见图 1、肿瘤体积曲线见图
+图 1  裸鼠体重增长曲线
+Fig 1  The growth curve of nude mice
+图 2  裸鼠肿瘤体积
+Fig 2  The tumor volumes of nude mice
+图 3  裸鼠成瘤观察
+Fig 3  Tumor formation of the nude mice
+2、裸鼠成瘤情况见图 3。
+二、 裸鼠移植瘤的解剖结果观察
+裸鼠在接种后第 1 周,于背部皮下长出肉眼可见
+肿瘤,成瘤率 100% 。 肿瘤直径约 5 mm ´7 mm,边界清
+楚,质地偏硬,活动度差。 第 4 周肿瘤直径约长(2. 4 ±
+0. 2)cm、宽(1. 8 ± 0. 3)cm,肿瘤的平均瘤重为(4. 11 ±
+0. 62)g。 移植瘤大体外观呈椭圆形,质软、色淡红色,
+表面有包膜, 切面未见坏死及出血灶(图 4) 。 解剖后
+图 4  第 4 周裸鼠移植瘤的解剖外观
+Fig 4 The anatomic appearance of the nude mice xenograft in the fourth week
+心、肝、脾、肺、肾及局部淋巴结等组织未见转移。
+三、 病理切片
+HE 染色研究移植瘤组织形态,于显微镜下观察,
+结果显示瘤组织为癌细胞特点,巢状排列,胞浆量少,
+透明,胞核呈圆形或椭圆形,核大小不一,可见病理性
+多核及核分裂相,细胞间见少许结缔组织。 肝未发现
+转移灶。
+四、 裸鼠移植瘤的 PET-CT 及 ECT 结果
+裸鼠成瘤后第 28 天予以 PET-CT 检查,显像结果
+如图 5A、5B 所示,可见移植瘤大小及形态(红色箭头
+所指部位),无18F-FDG( 18F-氟代脱氧葡萄糖)的摄取。
+裸鼠成瘤后第 27 天予以 ECT 检查,显像结果如图 5C
+所示,可见裸鼠移植瘤摄取99mTc 高于周围正常组织,
+表现为热结节,提示移植瘤具有摄锝功能,因此可以通
+过 ECT 检查判断移植瘤的大小及摄锝功能状态。
+讨    论
+1969 年 Rygaard 和 Povlson 首次成功建立结肠癌
+裸鼠移植瘤模型[8],为肿瘤的研究开创了新的局面。
+迄今为止,世界上建立的人体肿瘤裸鼠移植瘤模型达
+400 种以上,是进行肿瘤病因学、免疫学、药效学研究
+的理想动物模型。
+图 5  裸鼠移植瘤模型 PET-CT 及 ECT 检查结果
+Fig 5  The observation of nude mice by PET-CT and the function of 99mTc intaken by ECT
+甲状腺、胃、唾液腺都是易积聚131 I 和放射性99mTc
+的器官。 放射性131 I 与放射性99m锝为同族元素,具有
+相同的化学性质。99mTc 的能量适中(140 kev)、显影图
+像清晰、辐射剂量较低、甲状腺癌及结节检出率较高,
+故具有较好的参考价值[9]。99mTc 已成为目前国内最常
+用的甲状腺显像剂,可客观反映甲状腺的摄取能
+力[10],根据放射性99m锝的分布影像,可判断甲状腺的
+位置、形态、大小以及甲状腺结节的功能状态并寻找甲
+状腺癌的转移灶[11]。 Schipper 等[6] 研究表明裸鼠体
+内放射性99mTc 比131 I 分布的时间要长,其半衰期长达
+6 h,而皮下注射131 I 的裸鼠,1 h 时测量的碘值已经很
+低。 他们建立了具有摄锝、摄碘并表达钠碘转运体
+(sodium / iodine symporter)的神经内分泌瘤裸鼠模型,
+选择适宜的131 I 和放射性99mTc 剂量进行周期治疗后,
+裸鼠肿瘤较对照组变小,合适剂量的放射性99mTc 有望
+与放射性131 I 一样应用于肿瘤的治疗。
+在甲状腺癌裸鼠移植瘤模型方面,甲状腺未分化
+肿瘤、甲状腺乳头状癌、滤泡状癌、髓样癌裸鼠移植瘤
+模型均有构建成功。 Chang 等[12] 首次建立了出现恶
+病质的甲状腺未分化癌裸鼠模型,从甲状腺未分化癌
+手术患者的标本中分离并培养原代细胞,获得甲状腺
+未分化癌 Thena 细胞,处理后注入裸鼠皮下,4 周内肿
+瘤快速增长,随后其增长速度减慢,并出现恶病质,裸
+鼠血清中检测到高浓度的人白细胞介素 6、白细胞抑
+制因子( leukemia inhibitor factor)、转化生长因子 β1
+等。 Ahn 等[13] 建立了具有 BRAFV600E 突变及 RET /
+PTC1 重排细胞系的甲状腺乳头状癌裸鼠模型。 甲状
+腺乳头状癌细胞,包括 KAT10 细胞、NPA187 细胞、
+BHP2-7、 BHP7-13、 BHP18-21、 BHP10-3、 BHP14-9 及
+BHP5-16 细胞等均能成功构建移植瘤裸鼠模型[14]。
+国内袁耿彪[7] 也构建了具有摄碘功能的甲状腺滤泡
+状癌裸鼠模型。 这些体内裸鼠模型模拟了人体疾病,
+通过这些模型可以研究肿瘤的病因机制、免疫反应,药
+物疗效等,为临床提供新的治疗方案。
+国内刘翠萍[15] 用 IHH4 细胞建立了 PTC 裸鼠移
+植瘤模型,但是否具有摄锝功能尚未明确。 本研究以
+甲状腺乳头状癌细胞 IHH4 首次建立了具有摄锝功能
+的 PTC 裸鼠移植瘤模型,采用 ECT 观察发现移植瘤具
+有良好的摄锝功能,并用 PET-CT 观察了裸鼠移植瘤
+单独大小、形态及代谢功能状态,并在病理水平进一步
+证实了移植瘤的细胞特性。 此模型的成功建立为进一
+步研究碘在 PTC 发病中的作用及机制,以及放射性碘
+在 PTC 治疗中应用等提供了理想的体内研究模型工
+具,为甲状腺乳头状癌发病机制及治疗研究奠定了基
+础。

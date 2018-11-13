@@ -1,0 +1,339 @@
+T1	Disease 4505 4511	1 型糖尿病
+T2	Disease 371 377	2 型糖尿病
+T3	Disease 6953 6959	2 型糖尿病
+T4	Disease 7863 7869	2 型糖尿病
+T5	Disease 7883 7889	2 型糖尿病
+T6	Disease 6945 6950	代谢综合征
+T7	Anatomy 384 388	β 细胞
+T8	Anatomy 4691 4695	β 细胞
+T9	Anatomy 5095 5099	β 细胞
+T10	Anatomy 5304 5308	β 细胞
+T11	Anatomy 5354 5358	β 细胞
+T12	Anatomy 5433 5437	β 细胞
+T13	Anatomy 5535 5539	β 细胞
+T14	Anatomy 5554 5558	β 细胞
+T15	Anatomy 5646 5650	β 细胞
+T16	Anatomy 5672 5676	β 细胞
+T17	Anatomy 5744 5748	β 细胞
+T18	Anatomy 6089 6093	β 细胞
+T19	Anatomy 6238 6242	β 细胞
+T20	Anatomy 6290 6294	β 细胞
+T21	Anatomy 6333 6337	β 细胞
+T22	Anatomy 6358 6362	β 细胞
+T23	Anatomy 6419 6423	β 细胞
+T24	Anatomy 6517 6521	β 细胞
+T25	Anatomy 6538 6542	β 细胞
+T26	Anatomy 6563 6567	β 细胞
+T27	Anatomy 6746 6750	β 细胞
+T28	Anatomy 6782 6786	β 细胞
+T29	Anatomy 7604 7608	β 细胞
+T30	Anatomy 7691 7695	β 细胞
+T31	Anatomy 7783 7787	β 细胞
+T32	Anatomy 7811 7815	β 细胞
+T33	Anatomy 7278 7282	脂肪细胞
+T34	Anatomy 6487 6488;6489 6491	β 细胞
+T35	Anatomy 192 198	mTORC1
+T36	Anatomy 325 331	mTORC1
+T37	Anatomy 984 990	mTORC1
+T38	Anatomy 1223 1229	mTORC1
+T39	Anatomy 1917 1923	mTORC1
+T40	Anatomy 2004 2010	mTORC1
+T41	Anatomy 2143 2149	mTORC1
+T42	Anatomy 2326 2332	mTORC1
+T43	Anatomy 2333 2339	mTORC1
+T44	Anatomy 2471 2477	mTORC1
+T45	Anatomy 2587 2593	mTORC1
+T46	Anatomy 2661 2667	mTORC1
+T47	Anatomy 2720 2726	mTORC1
+T48	Anatomy 2761 2767	mTORC1
+T49	Anatomy 2800 2806	mTORC1
+T50	Anatomy 2885 2891	mTORC1
+T51	Anatomy 2929 2935	mTORC1
+T52	Anatomy 2967 2973	mTORC1
+T53	Anatomy 3385 3391	mTORC1
+T54	Anatomy 3462 3468	mTORC1
+T55	Anatomy 3496 3502	mTORC1
+T56	Anatomy 3568 3574	mTORC1
+T57	Anatomy 4965 4971	mTORC1
+T58	Anatomy 5004 5010	mTORC1
+T59	Anatomy 5083 5089	mTORC1
+T60	Anatomy 5258 5264	mTORC1
+T61	Anatomy 5293 5299	mTORC1
+T62	Anatomy 5344 5350	mTORC1
+T63	Anatomy 5452 5458	mTORC1
+T64	Anatomy 5489 5495	mTORC1
+T65	Anatomy 5567 5573	mTORC1
+T66	Anatomy 5652 5658	mTORC1
+T67	Anatomy 5821 5827	mTORC1
+T68	Anatomy 5914 5920	mTORC1
+T69	Anatomy 5993 5999	mTORC1
+T70	Anatomy 6043 6049	mTORC1
+T71	Anatomy 6108 6114	mTORC1
+T72	Anatomy 6138 6144	mTORC1
+T73	Anatomy 7086 7092	mTORC1
+T74	Anatomy 7204 7210	mTORC1
+T75	Anatomy 7321 7327	mTORC1
+T76	Anatomy 35 39	mTOR
+T77	Anatomy 92 96	mTOR
+T78	Anatomy 180 184	mTOR
+T79	Anatomy 423 427	mTOR
+T80	Anatomy 481 485	mTOR
+T81	Anatomy 836 840	mTOR
+T82	Anatomy 1383 1387	mTOR
+T83	Anatomy 1491 1495	mTOR
+T84	Anatomy 1650 1654	mTOR
+T85	Anatomy 1848 1852	mTOR
+T86	Anatomy 1858 1862	mTOR
+T87	Anatomy 1890 1894	mTOR
+T88	Anatomy 1901 1905	mTOR
+T89	Anatomy 1926 1930	mTOR
+T90	Anatomy 1937 1941	mTOR
+T91	Anatomy 2061 2065	mTOR
+T92	Anatomy 2102 2106	mTOR
+T93	Anatomy 2157 2161	mTOR
+T94	Anatomy 2204 2208	mTOR
+T95	Anatomy 2237 2241	mTOR
+T96	Anatomy 2874 2878	mTOR
+T97	Anatomy 3136 3140	mTOR
+T98	Anatomy 4276 4280	mTOR
+T99	Anatomy 4904 4908	mTOR
+T100	Anatomy 6809 6813	mTOR
+T101	Anatomy 6888 6892	mTOR
+T102	Anatomy 6967 6971	mTOR
+T103	Anatomy 7031 7035	mTOR
+T104	Anatomy 7585 7589	mTOR
+T105	Anatomy 7642 7646	mTOR
+T106	Anatomy 7727 7731	mTOR
+T107	Anatomy 7774 7778	mTOR
+T108	Anatomy 7851 7855	mTOR
+T109	Anatomy 2552 2556	Rheb
+T110	Anatomy 5069 5073	Rheb
+T111	Drug 212 222	mTOR 通路抑制剂
+T112	Drug 251 255	雷帕霉素
+T113	Drug 257 262	免疫抑制剂
+T114	Anatomy 287 290;291 292	β 细 胞
+T115	Disease 294 299	糖耐量异常
+T116	Anatomy 334 340	mTORC2
+T117	Anatomy 349 353	胰岛细胞
+T118	Drug 1733 1737	雷帕霉素
+T119	Drug 1965 1969	雷帕霉素
+T120	Drug 2013 2017	雷帕霉素
+T121	Anatomy 2029 2035	mTORC2
+T122	Anatomy 2108 2113	mLST8
+T123	Anatomy 2115 2121	DEPTOR
+T124	Anatomy 2220 2226	PRAS40
+T125	Drug 2228 2232	雷帕霉素
+T126	Anatomy 2306 2312	mTORC2
+T127	Anatomy 2617 2630	PI3K / Akt 通路
+T128	Anatomy 2894 2900	mTORC2
+T129	Anatomy 3015 3021	mTORC2
+T130	Anatomy 3624 3630	mTORC2
+T131	Anatomy 3631 3637	mTORC2
+T132	Anatomy 3724 3730	mTORC2
+T133	Anatomy 3733 3736	核糖体
+T134	Anatomy 3765 3771	mTORC2
+T135	Anatomy 3903 3909	mTORC2
+T136	Anatomy 4203 4205	肝脏
+T137	Anatomy 4221 4227	白色脂肪组织
+T138	Drug 4296 4300	雷帕霉素
+T139	Operation 4314 4318	器官移植
+T140	Operation 4327 4330	肾移植
+T141	Drug 4354 4358	雷帕霉素
+T142	Operation 4360 4363	肾移植
+T143	Disease 4367 4372	糖耐量异常
+T144	Operation 4394 4397	肾移植
+T145	Drug 4411 4415	雷帕霉素
+T146	Disease 4416 4424	移植后新发糖尿病
+T147	Disease 4471 4476	NODAT
+T148	Anatomy 4496 4500	胰岛细胞
+T149	Drug 4545 4549	雷帕霉素
+T150	Anatomy 4551 4555	胰岛细胞
+T151	Drug 4618 4620;4621 4622	胰岛 素
+T152	Drug 4648 4651;4652 4653	雷帕霉 素
+T153	Anatomy 4654 4658	胰岛细胞
+T154	Drug 4674 4678	雷帕霉素
+T155	Anatomy 4680 4684	胰岛细胞
+T156	Anatomy 4701 4705	胰岛细胞
+T157	Drug 4708 4712	雷帕霉素
+T158	Anatomy 4743 4745	胰岛
+T159	Anatomy 4746 4752	胰岛素瘤细胞
+T160	Drug 4755 4759	雷帕霉素
+T161	Drug 4851 4855	雷帕霉素
+T162	Anatomy 4861 4865	胰岛细胞
+T163	Drug 4890 4894	雷帕霉素
+T164	Disease 5188 5193	糖耐量受损
+T165	Anatomy 5269 5273	胰岛细胞
+T166	Anatomy 5464 5467;5468 5469	β 细 胞
+T167	Drug 5767 5771	雷帕霉素
+T168	Drug 5905 5909	雷帕霉素
+T169	Anatomy 6150 6156	mTORC2
+T170	Anatomy 6181 6187	mTORC2
+T171	Drug 6195 6199	雷帕霉素
+T172	Anatomy 6217 6223	mTORC2
+T173	Anatomy 6324 6330	mTORC2
+T174	Test 6398 6400	血糖
+T175	Anatomy 6631 6637	mTORC2
+T176	Anatomy 6658 6662	胰岛细胞
+T177	Anatomy 6729 6731	胰岛
+T178	Anatomy 6770 6776	mTORC2
+T179	Drug 6899 6903	雷帕霉素
+T180	Drug 6995 6999	雷帕霉素
+T181	Anatomy 7173 7175	肝脏
+T182	Anatomy 7212 7214	肝脏
+T183	Anatomy 7215 7219	脂肪组织
+T184	Anatomy 7228 7238	SREBP1 / 2
+T185	Anatomy 7255 7261	mTORC2
+T186	Anatomy 7329 7335	下视丘弓状核
+T187	Anatomy 7420 7432	阿片-促黑素细胞皮质素原
+T188	Anatomy 7513 7521	POMC 神经元
+T189	Anatomy 7525 7531	mTORC2
+T190	Disease 7541 7546	迟发性肥胖
+T191	Disease 7547 7552	糖耐量异常
+T192	Anatomy 7575 7577	胰岛
+T193	Test 7621 7623	血糖
+T194	Disease 7700 7705	胰岛素抵抗
+T195	Anatomy 995 1001	mTORC2
+T196	Anatomy 1234 1240	mTORC2
+T197	Anatomy 1953 1959	mTORC2
+T198	Anatomy 7134 7140	mTORC2
+T199	Anatomy 3915 3918	Akt
+T200	Anatomy 3974 3977	Akt
+T201	Anatomy 3999 4002	Akt
+T202	Anatomy 6210 6213	Akt
+T203	Anatomy 6669 6672	Akt
+T204	Anatomy 7179 7182	Akt
+T205	Drug 263 268	抗肿瘤药物
+T206	Disease 300 304	代谢紊乱
+T207	Test 428 438	丝氨酸 /苏氨酸激酶
+T208	Disease 449 452	糖尿病
+T209	Anatomy 1663 1673	丝氨酸 /苏氨酸激酶
+T210	Drug 1742 1748	免疫抑制药物
+T211	Drug 1749 1754	抗肿瘤药物
+T212	Anatomy 3109 3113	AGC)
+T213	Test 3233 3240	4E-BP1)
+T214	Test 3283 3289	(eIF4F
+T215	Anatomy 3490 3492	脂肪
+T216	Anatomy 3703 3706	核糖体
+T217	Anatomy 3779 3782	AGC
+T218	Test 4206 4208	脂质
+T219	Drug 4304 4310	免疫抑制药物
+T220	Drug 4562 4568	免疫抑制药物
+T221	Operation 4572 4576	移植术后
+T222	Test 5111 5114	胰岛素
+T223	Test 5119 5122	糖耐量
+T224	Test 5242 5245	糖耐量
+T225	Test 5677 5680	总蛋白
+T226	Test 6260 6263	糖耐量
+T227	Anatomy 6719 6724	siRNA
+T228	Treatment 6905 6911	移植免疫治疗
+T229	Drug 6912 6920	泌尿系统肿瘤药物
+T230	Disease 6931 6935	代谢紊乱
+T231	Test 7198 7201	脂代谢
+T232	Disease 7706 7710	营养失衡
+T233	Treatment 7821 7825	免疫抑制
+T234	Drug 7831 7837	移植免疫用药
+T235	Anatomy 7847 7849	胰岛
+T236	Anatomy 2297 2302	mSin1
+T237	Anatomy 2406 2420	结节性硬化复合体 1 / 2
+T238	Anatomy 2681 2685	TNFα
+T239	Anatomy 2695 2701	Wnt 通路
+T240	Anatomy 2638 2650	TSC1 / 2 复合体
+T241	Anatomy 2707 2715	TSC1 / 2
+T242	Anatomy 2750 2758	TSC1 / 2
+T243	Anatomy 2739 2742	精氨酸
+T244	Anatomy 2735 2738	亮氨酸
+T245	Anatomy 2728 2731	氨基酸
+T246	Anatomy 2911 2915	PI3K
+T247	Anatomy 3308 3323	S6K 磷酸化核糖体蛋白 S6
+T248	Anatomy 3514 3518	YY-1
+T249	Anatomy 3532 3537	HIF1α
+T250	Anatomy 3643 3647	PI3K
+T251	Anatomy 3755 3759	PI3K
+T252	Anatomy 3944 3948	TSC2
+T253	Anatomy 3951 3956	GSK3β
+T254	Anatomy 4021 4024	AKT
+T255	Anatomy 4045 4049	SGK1
+T256	Anatomy 5047 5058	TSC1 / TSC2
+T257	Anatomy 5143 5146	S6K
+T258	Anatomy 5160 5164	S6K1
+T259	Anatomy 5167 5171	rpS6
+T260	Anatomy 5223 5226	S6K
+T261	Anatomy 5398 5402	CDK4
+T262	Anatomy 5724 5728	TSC1
+T263	Anatomy 5847 5856	α-酮戊二酸脱氢酶
+T264	Test_Value 6400 6402	升高
+T265	Anatomy 6509 6513	PTEN
+T266	Anatomy 6578 6582	PTEN
+T267	Anatomy 6758 6762	GSIS
+T268	Anatomy 7147 7155	葡萄糖转运子 4
+T269	Anatomy 7300 7302	脂肪
+T270	Anatomy 7337 7338;7339 7360	神 经肽 Y /南 美 豚 鼠 相 关 蛋 白
+T271	Test_Value 7623 7625	升高
+T272	Anatomy 49 52	β细胞
+T273	Anatomy 201 207	mTORC2
+T274	Drug 222 226	雷帕霉素
+T275	Anatomy 440 447	胰岛 β 细胞
+T276	Test 1800 1806	胰岛细胞功能
+T277	Drug 2041 2045	雷帕霉素
+T278	Anatomy 2124 2139	Tti1 / Tel2 复合体
+T279	Anatomy 2595 2597;2598 2610	胰岛 素及胰岛素样生长因子 1
+T280	Anatomy 2843 2848	S6 激酶
+T281	Anatomy 3031 3055	环磷酸腺苷依赖性-环磷酸鸟苷依赖性-蛋白激酶 C
+T282	Anatomy 3155 3169	起始因子 4E 结合蛋白 1
+T283	Anatomy 3256 3262	4E-BP1
+T284	Anatomy 3270 3283	真核细胞翻译起始因子 4F
+T285	Anatomy 3417 3428	转录因子 SREBP1
+T286	Anatomy 3441 3444	脂肪酸
+T287	Anatomy 3445 3448	胆固醇
+T288	Anatomy 3475 3480	PPARγ
+T289	Anatomy 3506 3511	PGC1α
+T290	Anatomy 3792 3795	Akt
+T291	Anatomy 3796 3798;3799 3803	蛋白 激酶 C
+T292	Anatomy 3827 3841	血清和糖皮质激素调控激酶 1
+T293	Anatomy 4032 4037	FoxO1
+T294	Anatomy 4059 4065	mTORC2
+T295	Anatomy 4100 4104	PKCα
+T296	Anatomy 4124 4130	mTORC2
+T297	Anatomy 4168 4174	mTORC2
+T298	Anatomy 4234 4240	mTORC2
+T299	Test 4283 4292	胰岛 β 细胞功能
+T300	Anatomy 4770 4773	胰岛素
+T301	Test 4918 4924	β 细胞功能
+T302	Anatomy 4973 4980	胰岛 β 细胞
+T303	Anatomy 5012 5019	胰岛 β 细胞
+T304	Anatomy 5032 5039	胰岛 β 细胞
+T305	Disease 5183 5187	低胰岛素
+T306	Disease 5194 5200	胰岛细胞缩小
+T307	Anatomy 5230 5234	胰岛细胞
+T308	Anatomy 5368 5377	Cyclin D2
+T309	Anatomy 5380 5382	D3
+T310	Anatomy 5470 5473	胰岛素
+T311	Anatomy 5501 5508	胰岛 β 细胞
+T312	Anatomy 5600 5603	胰岛素
+T313	Anatomy 5609 5612	胰岛素
+T314	Anatomy 5625 5628	胰岛素
+T315	Test 5681 5684	胰岛素
+T316	Anatomy 5748 5751	胰岛素
+T317	Anatomy 5779 5782	胰岛素
+T318	Test 5835 5840	线粒体功能
+T319	Anatomy 5879 5882	胰岛素
+T320	Anatomy 5938 5941	胰岛素
+T321	Anatomy 5959 5962	胰岛素
+T322	Anatomy 6018 6025	胰岛 β 细胞
+T323	Anatomy 6030 6033	胰岛素
+T324	Anatomy 6051 6055	胰岛细胞
+T325	Anatomy 6158 6165	胰岛 β 细胞
+T326	Anatomy 6250 6253	胰岛素
+T327	Test 6385 6388	胰岛素
+T328	Anatomy 7095 7102	胰岛素敏感组织
+T329	Anatomy 7247 7249	脂质
+T330	Anatomy 7250 7252	脂肪
+T331	Anatomy 7265 7269	肝脏脂质
+T332	Anatomy 7655 7662	胰岛 β 细胞
+T333	Anatomy 1606 1616	雷帕霉素理论靶点蛋白
+T334	Anatomy 3961 3964	Akt
+T335	Anatomy 6460 6481	PI3K / Akt 通路的蛋白 PTEN
+T336	Anatomy 6588 6591;6592 6598	Akt Ser473
+T337	Anatomy 6606 6616	Akt Thr308
+T338	Anatomy 6644 6654	Akt Ser473
+T339	Anatomy 2494 2503	GTP 酶激活蛋白

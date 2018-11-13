@@ -1,0 +1,276 @@
+T1	Disease 105 111	2 型糖尿病
+T2	Disease 2597 2603	2 型糖尿病
+T3	Disease 2646 2652	2 型糖尿病
+T4	Disease 7428 7431;7432 7435	2 型 糖尿病
+T5	Disease 7476 7482	2 型糖尿病
+T6	Disease 7529 7535	2 型糖尿病
+T7	Disease 7867 7873	2 型糖尿病
+T8	Disease 7966 7969;7970 7973	2 型 糖尿病
+T9	Disease 8153 8159	2 型糖尿病
+T10	Disease 8358 8364	2 型糖尿病
+T11	Disease 8429 8435	2 型糖尿病
+T12	Disease 8615 8621	2 型糖尿病
+T13	Disease 8769 8775	2 型糖尿病
+T14	Disease 9012 9018	2 型糖尿病
+T15	Disease 9033 9039	2 型糖尿病
+T16	Test 3809 3814	HDL-C
+T17	Test 4535 4540	HDL-C
+T18	Test 5321 5326	HDL-C
+T19	Test 5809 5814	HDL-C
+T20	Test 6711 6716	HDL-C
+T21	Test 6952 6957	HDL-C
+T22	Test 5304 5309	LDL-C
+T23	Test 5793 5798	LDL-C
+T24	Test 237 241	空腹血糖
+T25	Test 3364 3366;3367 3369	空腹 血糖
+T26	Test 5829 5833	空腹血糖
+T27	Test 242 245	FPG
+T28	Test 277 280	FPG
+T29	Test 331 334	FPG
+T30	Test 1231 1234	FPG
+T31	Test 1285 1288	FPG
+T32	Test 3370 3373	FPG
+T33	Test 3417 3420	FPG
+T34	Test 3437 3440	FPG
+T35	Test 3581 3584	FPG
+T36	Test 3619 3622	FPG
+T37	Test 3703 3706	FPG
+T38	Test 3776 3779	FPG
+T39	Test 4227 4230	FPG
+T40	Test 4381 4384	FPG
+T41	Test 5338 5341	FPG
+T42	Test 5825 5828	FPG
+T43	Test 6700 6703	FPG
+T44	Test 6958 6961	FPG
+T45	Test 8829 8832	FPG
+T46	Test 8913 8916	FPG
+T47	Test 3794 3796	TC
+T48	Test 4524 4526	TC
+T49	Test 5290 5292	TC
+T50	Test 5785 5787	TC
+T51	Test 6704 6706	TC
+T52	Test 6946 6948	TC
+T53	Test 3785 3787	TG
+T54	Test 4521 4523	TG
+T55	Test 5277 5279	TG
+T56	Test 5777 5779	TG
+T57	Test 6707 6709	TG
+T58	Test 6949 6951	TG
+T59	Test 3798 3800;3801 3808	高密 度脂蛋白胆固醇
+T60	Test 5815 5824	高密度脂蛋白胆固醇
+T61	Test 3816 3825	低密度脂蛋白胆固醇
+T62	Test 5799 5808	低密度脂蛋白胆固醇
+T63	Test 3789 3793	总胆固醇
+T64	Test 5788 5792	总胆固醇
+T65	Test 6682 6686	体重指数
+T66	Test 4513 4516	收缩压
+T67	Test 4887 4890	收缩压
+T68	Test 6692 6695	收缩压
+T69	Test 6937 6938;6939 6941	收 缩压
+T70	Test 4517 4520	舒张压
+T71	Test 4898 4901	舒张压
+T72	Test 6696 6699	舒张压
+T73	Test 6942 6945	舒张压
+T74	Test 3780 3784	甘油三酯
+T75	Test 5780 5784	甘油三酯
+T76	Test 5353 5356	BMI
+T77	Test 5835 5838	BMI
+T78	Test 6687 6690	BMI
+T79	Test 6933 6936	BMI
+T80	Test 8101 8104	BMI
+T81	Test 3203 3205	体重
+T82	Test 5839 5841	体重
+T83	Disease 2471 2474	冠心病
+T84	Test_Value 246 260	<7. 0 mmol / L
+T85	Disease 262 265	糖尿病
+T86	Drug 271 275	降糖药物
+T87	Test 99 103	睡眠时间
+T88	Test 382 386	睡眠时间
+T89	Test 401 405	睡眠时间
+T90	Test 422 426	睡眠时间
+T91	Test_Value 391 399	<7 h / d
+T92	Test_Value 409 414;415 420	7 ~ 9 h / d
+T93	Test_Value 430 438	≥9 h / d
+T94	Test_Value 468 476	<7 h / d
+T95	Test_Value 477 488	7 ~ 9 h / d
+T96	Test_Value 490 498	≥9 h / d
+T97	Disease 501 504	糖尿病
+T98	Test_Value 632 643	7 ~ 9 h / d
+T99	Test_Value 649 657	<7 h / d
+T100	Test_Value 660 668	≥9 h / d
+T101	Disease 672 675	糖尿病
+T102	Disease 721 724	糖尿病
+T103	Disease 751 754	糖尿病
+T104	Disease 2475 2477	肿瘤
+T105	Disease 2478 2482	慢性肾病
+T106	Disease 2519 2522	糖尿病
+T107	Disease 2546 2549	糖尿病
+T108	Test 2570 2574	睡眠时间
+T109	Test_Value 2574 2582	≤6 h / d
+T110	Test_Value 2584 2592	>9 h / d
+T111	Disease 2604 2605;2606 2610	糖 耐量受损
+T112	Disease 2708 2710;2711 2712	糖尿 病
+T113	Test 2732 2736	睡眠时间
+T114	Disease 2737 2740	糖尿病
+T115	Test 2796 2800	睡眠时间
+T116	Disease 2801 2804	糖尿病
+T117	Test 3199 3201	血压
+T118	Disease 3305 3310	新发糖尿病
+T119	Disease 3333 3336	NOD
+T120	Test_Value 3374 3388	<7. 0 mmol / L
+T121	Disease 3391 3394	糖尿病
+T122	Test_Value 3420 3434	≥7. 0 mmol / L
+T123	Test_Value 3440 3454	<7. 0 mmol / L
+T124	Drug 3458 3462	降糖药物
+T125	Drug 3466 3469	胰岛素
+T126	Test_Value 3584 3598	<7. 0 mmol / L
+T127	Disease 3601 3604	糖尿病
+T128	Drug 3610 3614	降糖药物
+T129	Test 3632 3636	睡眠时间
+T130	Test 3862 3866	睡眠时间
+T131	Test_Value 3871 3879	<7 h / d
+T132	Test 3881 3885	睡眠时间
+T133	Test_Value 3889 3900	7 ~ 9 h / d
+T134	Test 3902 3906	睡眠时间
+T135	Test_Value 3911 3919	≥9 h / d
+T136	Test 3923 3927	睡眠时间
+T137	Disease 4130 4133	NOD
+T138	Test 4592 4596	睡眠时间
+T139	Disease 4599 4602	NOD
+T140	Test_Value 4693 4707	(7. 2 ± 1. 1)h
+T141	Disease 4725 4728	糖尿病
+T142	Test 4745 4749	睡眠时间
+T143	Disease 4751 4754	糖尿病
+T144	Test_Value 4764 4772	<6 h / d
+T145	Test_Value 4775 4789	6 ~ 6. 9 h / d
+T146	Test_Value 4792 4806	7 ~ 7. 9 h / d
+T147	Test_Value 4809 4823	8 ~ 8. 9 h / d
+T148	Test 5988 5992	睡眠时间
+T149	Test 5994 5998	睡眠时间
+T150	Test 6003 6007	睡眠时间
+T151	Test 6011 6015	睡眠时间
+T152	Disease 6024 6027	NOD
+T153	Disease 6099 6102	NOD
+T154	Disease 6133 6136	NOD
+T155	Disease 6233 6236	NOD
+T156	Disease 6608 6611	NOD
+T157	Disease 6752 6755	NOD
+T158	Test 6772 6776	睡眠时间
+T159	Test 6783 6787	睡眠时间
+T160	Test 6791 6795	睡眠时间
+T161	Disease 6799 6802	NOD
+T162	Test 6860 6864	睡眠时间
+T163	Test 6868 6872	睡眠时间
+T164	Disease 6876 6879	NOD
+T165	Test 6969 6973	睡眠时间
+T166	Test 6978 6982	睡眠时间
+T167	Disease 6986 6989	NOD
+T168	Test 7045 7048;7049 7050	睡眠时 间
+T169	Test 7054 7058	睡眠时间
+T170	Disease 7064 7067	NOD
+T171	Test 7136 7140	睡眠时间
+T172	Test 7242 7246	睡眠时间
+T173	Test_Value 7248 7254	8. 3 h
+T174	Test_Value 7281 7287	7. 2 h
+T175	Test_Value 7317 7323	7. 2 h
+T176	Test 7334 7336;7337 7339	睡眠 时间
+T177	Test 7388 7392	睡眠时间
+T178	Disease 7393 7396	糖尿病
+T179	Test 7422 7426	睡眠时间
+T180	Test 7470 7474	睡眠时间
+T181	Test 7495 7499	睡眠时间
+T182	Disease 7504 7507	NOD
+T183	Test 7516 7520	睡眠时间
+T184	Test 7625 7629	睡眠时间
+T185	Disease 7633 7636	糖尿病
+T186	Test 7671 7675	睡眠时间
+T187	Test 7679 7683	睡眠时间
+T188	Test 7688 7692	睡眠时间
+T189	Disease 7695 7698	糖尿病
+T190	Disease 7740 7743	糖尿病
+T191	Disease 7777 7780	糖尿病
+T192	Test 7834 7838	睡眠时间
+T193	Test 7851 7855	睡眠时间
+T194	Test 7859 7863	睡眠时间
+T195	Disease 7921 7924	糖尿病
+T196	Test 7960 7964	睡眠时间
+T197	Test 8005 8009	睡眠时间
+T198	Test 8015 8019	睡眠时间
+T199	Test 8022 8026	睡眠时间
+T200	Disease 8033 8036	糖尿病
+T201	Test 8055 8059	睡眠时间
+T202	Disease 8072 8075	糖尿病
+T203	Test 8111 8115	睡眠时间
+T204	Test_Value 8116 8123	8 h / d
+T205	Test_Value 8129 8137	<5 h / d
+T206	Test_Value 8140 8148	≥9 h / d
+T207	Test 8227 8230;8231 8232	睡眠时 间
+T208	Disease 8240 8243	糖尿病
+T209	Test 8275 8279	睡眠时间
+T210	Disease 8282 8285	糖尿病
+T211	Disease 8381 8384	糖尿病
+T212	Test 8423 8427	睡眠时间
+T213	Test 8480 8481;8482 8485	睡 眠时间
+T214	Anatomy 8508 8509;8510 8511	胰 腺
+T215	Anatomy 8560 8562	胰岛
+T216	Disease 8665 8677	阻塞性睡眠呼吸暂停综合征
+T217	Disease 8722 8725	糖尿病
+T218	Test 8760 8764	睡眠时间
+T219	Disease 8838 8841	糖尿病
+T220	Test 8845 8852	口服糖耐量试验
+T221	Test 8865 8869	睡眠时间
+T222	Disease 8873 8876	NOD
+T223	Disease 8990 8994	睡眠障碍
+T224	Disease 8997 9006	睡眠呼吸暂停综合征
+T225	Disease 9084 9087	糖尿病
+T226	Test 369 375	基线睡眠时间
+T227	Disease 2388 2391	糖尿病
+T228	Test 2535 2539	睡眠时间
+T229	Test 3120 3124	午睡时间
+T230	Anatomy 3757 3760	静脉血
+T231	Test 4124 4128	睡眠时间
+T232	Disease 4213 4216	糖尿病
+T233	Test 4472 4476	睡眠时间
+T234	Test 4489 4493	睡眠时间
+T235	Disease 6202 6205	NOD
+T236	Test_Value 7179 7182	9 h
+T237	Test_Value 7195 7198	7 h
+T238	Test 8307 8311	睡眠时间
+T239	Anatomy 8490 8494	交感神经
+T240	Test 8499 8503	儿茶酚胺
+T241	Test 8515 8518	胰岛素
+T242	Anatomy 8529 8531	大脑
+T243	Test 8551 8557	胰岛素敏感性
+T244	Test 8580 8582	瘦素
+T245	Test 8587 8591	饥饿激素
+T246	Test 8607 8611	睡眠时间
+T247	Test 8690 8696	胰岛素敏感性
+T248	Anatomy 8699 8703	交感神经
+T249	Test 9027 9031	睡眠时间
+T250	Disease 3311 3316;3317 3331	newly onset diabetes
+T251	Method 3464 3466	注射
+T252	Disease 4329 4331	死亡
+T253	Test_Value 5847 5856	7-9 h / d
+T254	Test_Value 5882 5892	> 10 h / d
+T255	Disease 5895 5898	NOD
+T256	Disease 6656 6659	NOD
+T257	Test_Value 7339 7341	不足
+T258	Test_Value 7520 7522	不足
+T259	Test_Value 7523 7525	过长
+T260	Test_Value 7675 7677	不足
+T261	Test_Value 7683 7685	充足
+T262	Test_Value 7692 7694	过长
+T263	Anatomy 8568 8575	胰岛 β 细胞
+T264	Test 2634 2637;2638 2639	睡眠时 间
+T265	Test 2701 2705	睡眠时间
+T266	Test 4247 4253	基线睡眠时间
+T267	Test 4687 4688;4689 4692	睡 眠时间
+T268	Test 6666 6670	睡眠时间
+T269	Test 7163 7169	平均睡眠时间
+T270	Test 7271 7279	每天平均睡眠时间
+T271	Test 7306 7314	平均每天睡眠时间
+T272	Test 7546 7550	睡眠时间
+T273	Reason 8340 8346	睡眠时间不足
+T274	Reason 8347 8349;8350 8354	睡眠 时间过长
+T275	Test 8541 8546	氢化可的松
+T276	Disease 8596 8598;8599 8602	胰岛 素抵抗

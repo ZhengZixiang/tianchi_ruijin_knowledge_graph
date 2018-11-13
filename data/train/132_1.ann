@@ -1,0 +1,816 @@
+T1	Disease 4673 4679	1 型糖尿病
+T2	Disease 7040 7046	1 型糖尿病
+T3	Disease 7099 7105	1 型糖尿病
+T4	Disease 7207 7213	1 型糖尿病
+T5	Disease 7067 7073	2 型糖尿病
+T6	Test 2545 2548	尿素氮
+T7	Disease 8000 8005	妊娠糖尿病
+T8	Disease 8643 8648	妊娠糖尿病
+T9	Disease 8664 8667;8668 8670	妊娠糖 尿病
+T10	Disease 8802 8807	妊娠糖尿病
+T11	Test 5 7	血酮
+T12	Test 1251 1253	血酮
+T13	Test 1331 1333	血酮
+T14	Test 1370 1372	血酮
+T15	Test 1635 1637	血酮
+T16	Test 1769 1771	血酮
+T17	Test 1780 1782	血酮
+T18	Test 1786 1788	血酮
+T19	Test 1799 1801	血酮
+T20	Test 1879 1881	血酮
+T21	Test 1901 1903	血酮
+T22	Test 2048 2050	血酮
+T23	Test 2114 2116	血酮
+T24	Test 2346 2348	血酮
+T25	Test 2430 2432	血酮
+T26	Test 2446 2452	血酮下降速度
+T27	Test 2468 2470	血酮
+T28	Test 2506 2508	血酮
+T29	Test 2660 2662	血酮
+T30	Test 2672 2674	血酮
+T31	Test 2736 2738	血酮
+T32	Test 2898 2900	血酮
+T33	Test 2992 2994	血酮
+T34	Test 3013 3015	血酮
+T35	Test 3038 3040	血酮
+T36	Test 3046 3048	血酮
+T37	Test 3057 3059	血酮
+T38	Test 3103 3105	血酮
+T39	Test 3167 3169	血酮
+T40	Test 3223 3225	血酮
+T41	Test 3282 3284	血酮
+T42	Test 3408 3410	血酮
+T43	Test 3587 3589	血酮
+T44	Test 3651 3653	血酮
+T45	Test 3673 3675	血酮
+T46	Test 3730 3732	血酮
+T47	Test 3766 3768	血酮
+T48	Test 3947 3949	血酮
+T49	Test 3972 3974	血酮
+T50	Test 4024 4026	血酮
+T51	Test 4062 4064	血酮
+T52	Test 4075 4077	血酮
+T53	Test 4081 4083	血酮
+T54	Test 4116 4118	血酮
+T55	Test 4182 4184	血酮
+T56	Test 4244 4246	血酮
+T57	Test 4558 4560	血酮
+T58	Test 4609 4611	血酮
+T59	Test 5291 5293	血酮
+T60	Test 5351 5353	血酮
+T61	Test 5511 5513	血酮
+T62	Test 5717 5719	血酮
+T63	Test 5882 5884	血酮
+T64	Test 6045 6047	血酮
+T65	Test 6066 6068	血酮
+T66	Test 6403 6405	血酮
+T67	Test 6531 6533	血酮
+T68	Test 6868 6870	血酮
+T69	Test 6987 6989	血酮
+T70	Test 7305 7307	血酮
+T71	Test 7417 7419	血酮
+T72	Test 7818 7820	血酮
+T73	Test 8461 8463	血酮
+T74	Test 8504 8506	血酮
+T75	Test 8629 8631	血酮
+T76	Test 8634 8636	血酮
+T77	Test 8649 8651	血酮
+T78	Test 8705 8707	血酮
+T79	Test 8736 8738	血酮
+T80	Test 8760 8762	血酮
+T81	Test 8777 8779	血酮
+T82	Test 8842 8844	血酮
+T83	Test 8856 8858	血酮
+T84	Test 8881 8883	血酮
+T85	Test 8885 8887	血酮
+T86	Test 9336 9338	血酮
+T87	Test 9627 9629	血酮
+T88	Test 9716 9718	血酮
+T89	Test 9760 9762	血酮
+T90	Test 9795 9797	血酮
+T91	Test 9812 9814	血酮
+T92	Test 9829 9831	血酮
+T93	Test 9926 9928	血酮
+T94	Test 9961 9963	血酮
+T95	Test 10003 10005	血酮
+T96	Test 10058 10060	血酮
+T97	Test 10217 10219	血酮
+T98	Test 10431 10433	血酮
+T99	Test 1254 1256	尿酮
+T100	Test 1318 1320	尿酮
+T101	Test 1445 1447	尿酮
+T102	Test 1513 1515	尿酮
+T103	Test 2726 2728	尿酮
+T104	Test 2833 2835	尿酮
+T105	Test 2863 2865	尿酮
+T106	Test 3226 3228	尿酮
+T107	Test 3238 3240	尿酮
+T108	Test 3535 3537	尿酮
+T109	Test 3557 3559	尿酮
+T110	Test 3594 3596	尿酮
+T111	Test 3616 3618	尿酮
+T112	Test 3654 3656	尿酮
+T113	Test 3676 3678	尿酮
+T114	Test 3716 3718	尿酮
+T115	Test 3896 3898	尿酮
+T116	Test 3921 3923	尿酮
+T117	Test 3942 3944	尿酮
+T118	Test 3986 3988	尿酮
+T119	Test 4041 4043	尿酮
+T120	Test 4145 4147	尿酮
+T121	Test 4229 4231	尿酮
+T122	Test 4581 4583	尿酮
+T123	Test 5296 5298	尿酮
+T124	Test 6684 6686	尿酮
+T125	Test 6709 6711	尿酮
+T126	Disease 7926 7929	GDM
+T127	Disease 7948 7951	GDM
+T128	Test 8554 8556	体重
+T129	Test 2273 2277	随机血糖
+T130	Test 4691 4695	随机血糖
+T131	Disease 2 5	糖尿病
+T132	Disease 21 24	糖尿病
+T133	Disease 46 51	酮症酸中毒
+T134	Disease 111 116	高血糖危象
+T135	Test 131 133	酮体
+T136	Disease 136 141	高血糖危象
+T137	Test 166 168	酮体
+T138	Test 204 206	酮体
+T139	Disease 262 267	糖尿病酮症
+T140	Disease 269 274	酮症酸中毒
+T141	Test 284 286	酮体
+T142	Test 293 295	酮体
+T143	Anatomy 315 317	肝脏
+T144	Test 411 413	酮体
+T145	Anatomy 417 421	血脑屏障
+T146	Anatomy 422 424	大脑
+T147	Test 633 635	酮体
+T148	Disease 682 685	糖尿病
+T149	Anatomy 720 722	肝脏
+T150	Test 732 734	酮体
+T151	Test 736 738	酮体
+T152	Anatomy 739 740	肝
+T153	Anatomy 757 758	心
+T154	Anatomy 759 760	脑
+T155	Anatomy 761 763	肌肉
+T156	Anatomy 768 771	肝细胞
+T157	Test 786 788	酮体
+T158	Anatomy 791 792	肝
+T159	Test 793 795	酮体
+T160	Disease 824 827	酮血症
+T161	Disease 828 831	酮尿症
+T162	Test 813 815	酮体
+T163	Disease 864 867	酸中毒
+T164	Disease 886 887;888 889	酮 症
+T165	Disease 891 896	糖尿病酮症
+T166	Disease 914 916	DK
+T167	Disease 918 924;925 927	糖尿病酮症酸 中毒
+T168	Disease 950 953	DKA
+T169	Test 1042 1044	酮体
+T170	Test 1053 1055	酮体
+T171	Disease 1106 1109	DKA
+T172	Treatment 1181 1183	补液
+T173	Amount 1185 1188	小剂量
+T174	Drug 1188 1191	胰岛素
+T175	Test 1225 1227	酮体
+T176	Test 1243 1245	酮体
+T177	Test 1549 1551	酮体
+T178	Test 1552 1556	乙酰乙酸
+T179	Test 1557 1559	丙酮
+T180	Disease 1595 1597	酮症
+T181	Test 1611 1616	β-羟丁酸
+T182	Test 1645 1650	β-羟丁酸
+T183	Disease 1660 1662	酮症
+T184	Test 1676 1681	β-羟丁酸
+T185	Test 1813 1818	β-羟丁酸
+T186	Test 1838 1843	β-羟丁酸
+T187	Test 1870 1875	β-羟丁酸
+T188	Test 1972 1977	β-羟丁酸
+T189	Disease 2023 2025	酮症
+T190	Disease 2043 2046	糖尿病
+T191	Disease 2065 2067	DK
+T192	Disease 2070 2073	DKA
+T193	Disease 2093 2096	DKA
+T194	Disease 2133 2135	酮症
+T195	Disease 2140 2142	DK
+T196	Disease 2145 2148	DKA
+T197	Test_Value 2234 2236	阳性
+T198	Disease 2251 2254	DKA
+T199	Disease 2314 2316	DK
+T200	Disease 2319 2322	DKA
+T201	Disease 2337 2340	糖尿病
+T202	Disease 2353 2355	DK
+T203	Disease 2358 2361	DKA
+T204	Disease 2398 2400	DK
+T205	Disease 2403 2406	DKA
+T206	Disease 2438 2441	DKA
+T207	Test 2503 2505	血糖
+T208	Test 2528 2531	电解质
+T209	Test 2532 2536	血气分析
+T210	Test 2549 2551	肌酐
+T211	Disease 2578 2581	酸中毒
+T212	Disease 2605 2608	酸中毒
+T213	Disease 2682 2685	DKA
+T214	Test 2704 2705;2706 2711	血 β-羟丁酸
+T215	Method 2759 2761	静脉
+T216	Drug 2761 2764	胰岛素
+T217	Method 2767 2769	皮下
+T218	Drug 2769 2772	胰岛素
+T219	Test 2780 2781;2782 2783	尿 酮
+T220	Test_Value 2755 2756;2757 2758	阴 性
+T221	Test 2787 2789	丙酮
+T222	Test 2790 2794	乙酰乙酸
+T223	Test 2806 2808	酮体
+T224	Drug 2869 2872	胰岛素
+T225	Disease 2907 2910	糖尿病
+T226	Disease 2967 2969	酮症
+T227	Test 3091 3096	β-羟丁酸
+T228	Test 3139 3144	β-羟丁酸
+T229	Test 3160 3165	β-羟丁酸
+T230	Test 3179 3184	β-羟丁酸
+T231	Amount 3272 3279	1 U / h
+T232	Amount 3291 3298	1 U / h
+T233	Disease 3327 3330	DKA
+T234	Test 3334 3336	血糖
+T235	Test_Value 3336 3351	≤11. 1 mmol / L
+T236	Drug 3364 3367	胰岛素
+T237	Test_Value 3379 3400	8. 3 ~ 11. 1 mmol / L
+T238	Test_Value 3411 3425	<0. 3 mmol / L
+T239	Test 3426 3432	静脉血 pH
+T240	Test_Value 3432 3437	>7. 3
+T241	Method 3450 3452	皮下
+T242	Drug 3452 3455	胰岛素
+T243	Disease 3461 3464	DKA
+T244	Disease 3465 3473	糖尿病酮症酸中毒
+T245	Test 3478 3482	乙酰乙酸
+T246	Test 3500 3502	丙酮
+T247	Test 3528 3533	β-羟丁酸
+T248	Test 3538 3539;3540 3541	血 酮
+T249	Test 3694 3696	血糖
+T250	Test_Value 3697 3713	> 13. 9 mmol / L
+T251	Disease 3721 3724	DKA
+T252	Test 3755 3756;3757 3758	尿 酮
+T253	Disease 3761 3764	DKA
+T254	Disease 3786 3788;3789 3792	糖尿 病酮症
+T255	Disease 3828 3833	糖尿病酮症
+T256	Test 3838 3842	血 pH
+T257	Test_Value 3843 3848	7. 36
+T258	Test 3849 3851;3852 3857	血清 HCO-3
+T259	Test_Value 3858 3872	13. 4 mmol / L
+T260	Test 3873 3880	血 β-羟丁酸
+T261	Test_Value 3881 3894	5. 4 mmol / L
+T262	Test_Value 3900 3902	阴性
+T263	Test_Value 3924 3926	阳性
+T264	Disease 3934 3937	DKA
+T265	Test_Value 3944 3946	阴性
+T266	Disease 3960 3963	DKA
+T267	Test_Value 3991 3993	阳性
+T268	Test 4068 4069;4070 4071	尿 酮
+T269	Test 4185 4187	血糖
+T270	Test 4188 4192	血 pH
+T271	Test 4193 4200	血 HCO-3
+T272	Test 4208 4209;4210 4211	血 酮
+T273	Test 4212 4214	血糖
+T274	Test 4232 4233;4234 4235	血 糖
+T275	Test 4247 4254	血 HCO-3
+T276	Test 4269 4276	血 HCO-3
+T277	Test_Value 4277 4288	18 mmol / L
+T278	Test 4292 4299	血 β-羟丁酸
+T279	Test_Value 4302 4303;4304 4312	3 mmol / L
+T280	Test 4313 4320	血 HCO-3
+T281	Test_Value 4321 4332	15 mmol / L
+T282	Test 4336 4343	血 β-羟丁酸
+T283	Test_Value 4348 4361	4. 4 mmol / L
+T284	Test 4362 4369	血 HCO-3
+T285	Test_Value 4370 4381	10 mmol / L
+T286	Test 4385 4391;4392 4393	血 β-羟丁 酸
+T287	Test_Value 4395 4408	7. 7 mmol / L
+T288	Test 4413 4420	血 HCO-3
+T289	Test_Value 4421 4432	18 mmol / L
+T290	Test 4437 4444	血 β-羟丁酸
+T291	Test_Value 4446 4459	3. 8 mmol / L
+T292	Test 4460 4467	血 HCO-3
+T293	Test_Value 4468 4479	15 mmol / L
+T294	Test 4484 4491	血 β-羟丁酸
+T295	Test_Value 4493 4506	5. 1 mmol / L
+T296	Test 4507 4514	血 HCO-3
+T297	Test_Value 4515 4526	10 mmol / L
+T298	Test 4531 4538	血 β-羟丁酸
+T299	Test_Value 4540 4553	8. 9 mmol / L
+T300	Test 4562 4566	血 pH
+T301	Test 4570 4574	阴离子隙
+T302	Test 4584 4591	血 HCO-3
+T303	Test 4593 4597	血 pH
+T304	Disease 4620 4623	糖尿病
+T305	Test 4635 4637	酮体
+T306	Drug 4642 4645	胰岛素
+T307	Drug 4657 4660	胰岛素
+T308	Drug 4664 4667	胰岛素
+T309	Test 4684 4686	血糖
+T310	Test_Value 4695 4710	≥13. 0 mmol / L
+T311	Disease 4721 4723	肺炎
+T312	Disease 4724 4727	肺结核
+T313	Disease 4735 4736;4737 4742	急 性肾盂肾炎
+T314	Disease 4743 4746	膀胱炎
+T315	Disease 4756 4759	阑尾炎
+T316	Disease 4760 4761;4762 4764	腹 膜炎
+T317	Disease 4765 4768	盆腔炎
+T318	Disease 4785 4791	急性心肌梗死
+T319	Disease 4792 4795;4796 4797	心力衰 竭
+T320	Disease 4798 4803	脑血管意外
+T321	Disease 4804 4806	外伤
+T322	Drug 4839 4844	糖皮质激素
+T323	Drug 4845 4849	苯乙双胍
+T324	Disease 4869 4872	库欣病
+T325	Disease 4873 4876;4877 4879	肢端肥 大症
+T326	Disease 4880 4885	胰升糖素瘤
+T327	Symptom 4924 4927	低血糖
+T328	Symptom 4970 4972	多尿
+T329	Symptom 4973 4975	口干
+T330	Symptom 4976 4978	多饮
+T331	Symptom 4985 4987	疲劳
+T332	Symptom 4988 4992	食欲不振
+T333	Symptom 4993 4997	视力模糊
+T334	Symptom 5006 5008	发热
+T335	Symptom 5009 5012;5013 5014	四肢无 力
+T336	Symptom 5027 5029	恶心
+T337	Symptom 5030 5032	呕吐
+T338	Symptom 5033 5035	腹痛
+T339	Symptom 5036 5038	腹泻
+T340	Symptom 5039 5040;5041 5045	消 化道症状
+T341	Symptom 5051 5055	深大呼吸
+T342	Symptom 5072 5078	注意力不集中
+T343	Symptom 5079 5083	精神萎靡
+T344	Symptom 5084 5086	烦躁
+T345	Symptom 5087 5092	神志渐恍惚
+T346	Symptom 5096 5098	谵妄
+T347	Symptom 5099 5101	嗜睡
+T348	Symptom 5102 5104	昏迷
+T349	Disease 5110 5115	糖尿病酮症
+T350	Disease 5116 5121	酮症酸中毒
+T351	Disease 5127 5129	DK
+T352	Disease 5132 5135	DKA
+T353	Disease 5137 5140	糖尿病
+T354	Disease 5173 5176	糖尿病
+T355	Disease 5184 5187	DKA
+T356	Symptom 5212 5216	意识障碍
+T357	Test 5228 5232	血、尿糖
+T358	Test 5233 5235	酮体
+T359	Disease 5248 5251	糖尿病
+T360	Symptom 5262 5264	腹痛
+T361	Test 5288 5290	血糖
+T362	Test 5348 5350	血糖
+T363	Test 5354 5357	电解质
+T364	Test 5358 5362	血气分析
+T365	Treatment 5334 5336;5337 5341	建立 静脉通道
+T366	Treatment 5373 5377	留置胃管
+T367	Treatment 5380 5382	吸氧
+T368	Treatment 5392 5396	补充液体
+T369	Test 5436 5438	尿量
+T370	Test 5497 5498;5499 5503	血 流动力学
+T371	Test 5504 5507	出入量
+T372	Test 5508 5510	血糖
+T373	Test 5514 5517	电解质
+T374	Test 5518 5524	动脉血气分析
+T375	Test 5538 5541	心功能
+T376	Level 5579 5581	严重
+T377	Test 5635 5640	血浆渗透压
+T378	Test 5673 5674;5675 5676	血 糖
+T379	Test_Value 5676 5691	≤11. 1 mmol / L
+T380	Drug 5708 5709;5710 5712	胰 岛素
+T381	Test 5720 5722	血糖
+T382	Drug 5732 5735	胰岛素
+T383	Method 5744 5746	静脉
+T384	Method 5764 5770	持续静脉滴注
+T385	Test 5780 5782	血糖
+T386	Amount 5795 5807	0. 14 U / kg
+T387	Method 5808 5810	静注
+T388	Test 5825 5826;5827 5828	血 糖
+T389	Test 5838 5840	血糖
+T390	Test 5879 5881	血糖
+T391	Disease 5887 5890	DKA
+T392	Amount 5900 5907	1 U / h
+T393	Disease 5915 5918	DKA
+T394	Test 5921 5923	血糖
+T395	Test_Value 5926 5931;5932 5940	11. 1 mmol / L
+T396	Drug 5944 5947	胰岛素
+T397	Amount 5952 5968;5969 5977	0. 02 ~ 0. 05 U· kg-1·h-1
+T398	Treatment 5980 5984	静脉补液
+T399	Drug 5999 6002	胰岛素
+T400	Test 6015 6017	血糖
+T401	Test_Value 6020 6041	8. 3 ~ 11. 1 mmol / L
+T402	Test_Value 6047 6061	<0. 3 mmol / L
+T403	Drug 6086 6089	胰岛素
+T404	Drug 6097 6100	胰岛素
+T405	Disease 6121 6124	酸中毒
+T406	Treatment 6133 6134;6135 6138	补 钾治疗
+T407	Treatment 6140 6144	补液治疗
+T408	Test 6149 6151	血钾
+T409	Test_Value 6151 6165	<5. 5 mmol / L
+T410	Test 6171 6173	尿量
+T411	Test_Value 6173 6183	>40 ml / h
+T412	Test 6197 6199	血钾
+T413	Test_Value 6199 6200;6201 6214	< 3. 3 mmol / L
+T414	Treatment 6220 6224	补钾治疗
+T415	Disease 6232 6235;6236 6237	酸碱失 衡
+T416	Test 6255 6259	血 pH
+T417	Test_Value 6259 6264	<6. 9
+T418	Test 6290 6292	pH
+T419	Test_Value 6292 6297	>7. 0
+T420	Test 6299 6304	静脉 pH
+T421	Test 6320 6322	pH
+T422	Test_Value 6325 6329;6330 6332	7. 0 以上
+T423	Test 6353 6361	24 h 出入量
+T424	Test 6368 6370	尿量
+T425	Test_Value 6370 6381	>2 ml / min
+T426	Test 6406 6408	血糖
+T427	Disease 6435 6438	酸中毒
+T428	Disease 6439 6441	酮症
+T429	Disease 6510 6512	酮症
+T430	Symptom 6527 6530	高血糖
+T431	Disease 6541 6546	糖尿病急症
+T432	Disease 6562 6565	DKA
+T433	Test 6573 6575	血糖
+T434	Disease 6586 6589	DKA
+T435	Disease 6609 6612	糖尿病
+T436	Test 6622 6624	血糖
+T437	Test 6660 6662	酮体
+T438	Disease 6698 6701	DKA
+T439	Disease 6732 6735	DKA
+T440	Treatment 6765 6777	纠正电解质及酸碱平衡紊乱
+T441	Drug 6803 6806	胰岛素
+T442	Method 6809 6811	静脉
+T443	Amount 6813 6816	小剂量
+T444	Drug 6816 6819	胰岛素
+T445	Test 6825 6827	血糖
+T446	Test 6837 6839	血糖
+T447	Drug 6888 6891	胰岛素
+T448	Method 6891 6895	皮下注射
+T449	Treatment 6900 6902	补液
+T450	Treatment 6928 6940	纠正水电解质平衡和酸中毒
+T451	Disease 6981 6984	糖尿病
+T452	Disease 7009 7012	DKA
+T453	Disease 7029 7032	DKA
+T454	Disease 7074 7081	特殊类型糖尿病
+T455	Disease 7087 7090	DKA
+T456	Disease 7110 7113	DKA
+T457	Disease 7153 7156	DKA
+T458	Disease 7193 7196	脑水肿
+T459	Disease 7200 7203	DKA
+T460	Reason 7222 7225;7226 7233	胰岛素 用量不足或中断
+T461	Reason 7234 7243	饮食失调或胃肠疾病
+T462	Reason 7249 7250;7251 7256	急 性重症感染
+T463	Disease 7299 7302	DKA
+T464	Disease 7329 7332	DKA
+T465	Disease 7406 7409	糖尿病
+T466	Disease 7463 7466	DKA
+T467	Disease 7481 7484	DKA
+T468	Test_Value 7506 7519	0. 5 mmol / L
+T469	Test 7531 7533	血糖
+T470	Disease 7540 7543	DKA
+T471	Test 7545 7547	血糖
+T472	Test 7495 7497	血糖
+T473	Disease 7567 7570	DKA
+T474	Test 7572 7574	血糖
+T475	Test 7597 7599	血糖
+T476	Disease 7613 7616	DKA
+T477	Test 7650 7652	血糖
+T478	Test_Value 7652 7653;7654 7668	> 13. 9 mmol / L
+T479	Test 7728 7730	血糖
+T480	Test 7760 7762	血糖
+T481	Test 8701 8703	血糖
+T482	Test 8740 8742	血糖
+T483	Test 8819 8821	血糖
+T484	Test 8831 8833	血糖
+T485	Test 8848 8850	血糖
+T486	Test 8861 8863	血糖
+T487	Test 9333 9335	血糖
+T488	Test 9446 9448	血糖
+T489	Test 9455 9457	血糖
+T490	Test 9923 9925	血糖
+T491	Test 9971 9973	血糖
+T492	Test 9979 9981	血糖
+T493	Test 249 251	血酮
+T494	Test 7731 7732;7733 7734	血 酮
+T495	Test 9897 9898;9899 9900	血 酮
+T496	Anatomy 311 314	脂肪酸
+T497	Anatomy 686 689	胰岛素
+T498	Anatomy 705 708	脂肪酸
+T499	Test 1273 1275	酮体
+T500	Test 1478 1482	乙酰乙酸
+T501	Test 1483 1485	丙酮
+T502	Test 1530 1532	酮体
+T503	Anatomy 3130 3134	毛细血管
+T504	Anatomy 3173 3177	毛细血管
+T505	Drug 3266 3268	岛素
+T506	Test 3303 3311	HCO-3 浓度
+T507	Treatment 5628 5630	补液
+T508	Treatment 5663 5665	补液
+T509	Drug 5894 5896	岛素
+T510	Treatment 6112 6120	纠正水电解质平衡
+T511	Treatment 6251 6253	补碱
+T512	Treatment 6267 6271	补碱治疗
+T513	Test 6346 6350	生命体征
+T514	Treatment 6363 6365	补液
+T515	Treatment 6752 6755;6756 6759	纠正失 水状态
+T516	Treatment 6903 6905	补液
+T517	Disease 7159 7161	死亡
+T518	Anatomy 7411 7415	毛细血管
+T519	Disease 246 249	糖尿病
+T520	Anatomy 433 434	肝
+T521	Symptom 650 652	饥饿
+T522	Symptom 653 655	禁食
+T523	Symptom 659 663	妊娠反应
+T524	Level 656 658	严重
+T525	Symptom 880 884	妊娠反应
+T526	Level 877 879	严重
+T527	Test_Value 2162 2166	高于正常
+T528	Disease 2183 2186	DKA
+T529	Test_Value 2854 2857;2858 2859	降至正 常
+T530	Test 3022 3026	生化指标
+T531	Test_Value 3573 3586	0. 5 mmol / L
+T532	Test_Value 3602 3615	0. 7 mmol / L
+T533	Test_Value 3623 3633	3 mmol / L
+T534	Test_Value 3489 3498	50 mg / L
+T535	Test_Value 3510 3520	500 mg / L
+T536	Symptom 3802 3807	肾阈值增高
+T537	Test_Value 3950 3954	显著升高
+T538	Test_Value 3974 3978	显著降低
+T539	Test_Value 3999 4001	更高
+T540	Disease 4774 4778	严重应激
+T541	Disease 4823 4829	特殊应激情况
+T542	Drug 4835 4837	药物
+T543	Disease 4862 4867	内分泌疾病
+T544	Symptom 4891 4893	妊娠
+T545	Symptom 4899 4901	妊娠
+T546	Symptom 4914 4916	饥饿
+T547	Symptom 4919 4921	饥饿
+T548	Drug 4937 4940	葡萄糖
+T549	Drug 4950 4953	葡萄糖
+T550	Amount 4948 4950	大量
+T551	Method 4944 4946	静脉
+T552	Method 4941 4943	口服
+T553	Amount 4933 4935	大量
+T554	Disease 10214 10217	糖尿病
+T555	Disease 10428 10431	糖尿病
+T556	Symptom 5255 5260	症状不典型
+T557	Drug 5409 5413	等渗盐水
+T558	Test_Value 5541 5543	正常
+T559	Drug 5610 5614	等渗盐水
+T560	Drug 5988 5991	葡萄糖
+T561	Drug 6007 6010	葡萄糖
+T562	Treatment 6337 6341	严密监测
+T563	Disease 6617 6621	急性疾病
+T564	Symptom 6642 6644	怀孕
+T565	Treatment 6781 6788	寻找和去除诱因
+T566	Treatment 6789 6794	防治并发症
+T567	Test_Value 6839 6853;6854 6862	下降 4. 2 ~ 5. 6 mmol / L
+T568	Treatment 6959 6974	控制或消除诱发疾病,防止并发症
+T569	Level 7049 7053	急性重症
+T570	Symptom 7440 7447	代谢失代偿状态
+T571	Test 7669 7671	酮体
+T572	Test_Value 7671 7685	>0. 5 mmol / L
+T573	Test_Value 7687 7701	<3. 0 mmol / L
+T574	Treatment 7705 7715	调整胰岛素用量、用法
+T575	Test_Value 7762 7763;7764 7778	> 13. 9 mmol / L
+T576	Test 7780 7782	酮体
+T577	Test_Value 7782 7796	≥3. 0 mmol / L
+T578	Disease 7797 7800	DKA
+T579	Test 7824 7828	血 pH
+T580	Test 7837 7842	HCO-3
+T581	Test_Value 7829 7835	> 7. 3
+T582	Test_Value 7843 7847;7848 7856	> 15 mmol / L
+T583	Disease 7869 7877	妊娠 糖 尿 病
+T584	Disease 7882 7893	妊 娠 期 糖 尿 病
+T585	Disease 7896 7907;7908 7925	gestational diabetes mellitus
+T586	Disease 7931 7937	糖尿病伴妊娠
+T587	Symptom 7970 7972;7973 7976	糖代 谢异常
+T588	Disease 7977 7983	糖尿病伴妊娠
+T589	Disease 7989 7992	糖尿病
+T590	Disease 8038 8043	饥饿性酮症
+T591	Symptom 8064 8068	早孕反应
+T592	Disease 8137 8142	饥饿性酮症
+T593	Disease 8195 8196;8197 8202	妊 娠期糖尿病
+T594	Disease 8203 8210	糖尿病合并妊娠
+T595	Reason 8214 8218	早孕反应
+T596	Disease 8222 8224	酮症
+T597	Reason 8227 8234	胰岛素使用不够
+T598	Disease 8237 8239	酮症
+T599	Disease 8241 8243	酮症
+T600	Disease 8255 8257	酮症
+T601	Disease 8264 8266	DK
+T602	Disease 8269 8272	DKA
+T603	Test 8286 8291	β-羟丁酸
+T604	Test 8278 8280	酮体
+T605	Anatomy 8295 8297	胎盘
+T606	Anatomy 8311 8316	大脑基底核
+T607	Symptom 8321 8326;8327 8328	神经功能障 碍
+T608	Disease 8342 8344	酮症
+T609	Disease 8348 8351;8352 8353	胎儿畸 形
+T610	Disease 8361 8363	酮症
+T611	Symptom 8367 8371	智力低下
+T612	Symptom 8374 8375;8376 8381	神 经功能障碍
+T613	Disease 8383 8391	胎儿宫内缺氧死亡
+T614	Disease 8399 8400;8401 8402	酮 症
+T615	Disease 8430 8433	DKA
+T616	Symptom 8487 8491	妊娠剧吐
+T617	Symptom 8477 8478;8479 8482	早 孕反应
+T618	Symptom 8533 8538	胃肠道不适
+T619	Test 8568 8570	酮体
+T620	Disease 8613 8616	DKA
+T621	Test 8604 8606	酮体
+T622	Test_Value 8606 8607;8608 8609	转 阴
+T623	Test_Value 8636 8638	转阴
+T624	Level 8660 8664	A1 级
+T625	Test_Value 8742 8748;8749 8757	>13. 9 mmol / L
+T626	Disease 8773 8775	酮症
+T627	Test 8786 8792	动脉血气分析
+T628	Test_Value 8779 8780;8781 8782	增 高
+T629	Level 8798 8802	A2 级
+T630	Drug 8811 8814	胰岛素
+T631	Treatment 8673 8681	单纯医学营养治疗
+T632	Test_Value 8863 8878	>13. 9 mmol / L
+T633	Test 8893 8894;8895 8900	动 脉血气分析
+T634	Disease 8902 8907	妊娠期酮症
+T635	Disease 8908 8913	酮症酸中毒
+T636	Disease 8924 8926	DK
+T637	Disease 8968 8970	DK
+T638	Reason 8979 8982;8983 8987	胰岛素 剂量不够
+T639	Disease 8990 8996	代谢性 DK
+T640	Treatment 9011 9020	合理调整胰岛素用量
+T641	Disease 9026 9029	DKA
+T642	Disease 9038 9041	DKA
+T643	Disease 9054 9061	老年糖尿病酮症
+T644	Disease 9064 9067	糖尿病
+T645	Disease 9080 9083	DKA
+T646	Symptom 9087 9091	高渗状态
+T647	Symptom 9092 9097	糖尿病高渗
+T648	Disease 9130 9133	糖尿病
+T649	Disease 9144 9147	糖尿病
+T650	Disease 9158 9161	DKA
+T651	Reason 9172 9174	感染
+T652	Reason 9188 9189;9190 9194	未 按时服药
+T653	Reason 9195 9200	停用胰岛素
+T654	Reason 9201 9207	心脑血管意外
+T655	Disease 9220 9223	糖尿病
+T656	Symptom 9293 9295	胸闷
+T657	Symptom 9296 9298	气促
+T658	Symptom 9299 9301	腹痛
+T659	Symptom 9302 9304	昏迷
+T660	Symptom 9305 9307	少尿
+T661	Disease 9322 9325	糖尿病
+T662	Disease 9340 9347	老年糖尿病酮症
+T663	Treatment 9365 9369	纠正脱水
+T664	Treatment 9410 9413	等渗液
+T665	Treatment 9414 9415;9416 9420	胃 肠道补液
+T666	Symptom 9470 9473	脑水肿
+T667	Symptom 9475 9477	脑疝
+T668	Test 9490 9493	电解质
+T669	Test 9499 9501	血钾
+T670	Test 9507 9509	血钾
+T671	Test_Value 9510 9512	过低
+T672	Test_Value 9513 9515	过高
+T673	Disease 9527 9531	心律失常
+T674	Disease 9532 9536	心脏事件
+T675	Disease 9537 9542	心源性猝死
+T676	Disease 9558 9560	DK
+T677	Disease 9565 9567	感染
+T678	Test 9702 9704	酮体
+T679	Test 9648 9653	β-羟丁酸
+T680	Disease 9739 9742	糖尿病
+T681	Test 9883 9885	酮体
+T682	Disease 9948 9951	糖尿病
+T683	Disease 10066 10069	DKA
+T684	Disease 10038 10041	糖尿病
+T685	Disease 10017 10020	糖尿病
+T686	Disease 10022 10024	酮症
+T687	Test_Value 2432 2434	下降
+T688	Duration 3666 3672	7. 8 h
+T689	Disease 7861 7868	妊娠糖尿病酮症
+T690	Test 2058 2060	血酮
+T691	Test 2085 2087	血酮
+T692	Test 2156 2159	血酮体
+T693	Test 2215 2218	血酮体
+T694	Test 2414 2417	血酮体
+T695	Test 2848 2851	血酮体
+T696	Test 2945 2948	血酮体
+T697	Test 7323 7326	血酮体
+T698	Test 7342 7345	血酮体
+T699	Test 7390 7393	血酮体
+T700	Test 7450 7453	血酮体
+T701	Test 7491 7494	血酮体
+T702	Test 7499 7502	血酮体
+T703	Test 7555 7558	血酮体
+T704	Test 7605 7608	血酮体
+T705	Test 1573 1575	尿酮
+T706	Test 2238 2241	尿酮体
+T707	Test 2752 2755	尿酮体
+T708	Test 2927 2930	尿酮体
+T709	Test 3809 3812	尿酮体
+T710	Test 7319 7322	尿酮体
+T711	Test 7362 7365	尿酮体
+T712	Disease 39 42;43 45	糖尿病 酮症
+T713	Test 333 337	乙酰乙酸
+T714	Test 356 358;359 362	β- 羟丁酸
+T715	Test 386 388	丙酮
+T716	Anatomy 751 755	肝外组织
+T717	Anatomy 801 805	肝外组织
+T718	Anatomy 833 836;837 838	乙酰乙 酸
+T719	Anatomy 840 845	β-羟丁酸
+T720	Disease 964 966	酮症
+T721	Anatomy 975 978	胰岛素
+T722	Anatomy 1001 1005	胰升糖素
+T723	Anatomy 1006 1010	儿茶酚胺
+T724	Anatomy 1011 1013;1014 1019	肾上 腺皮质激素
+T725	Anatomy 1020 1024	生长激素
+T726	Anatomy 1046 1051	β-羟丁酸
+T727	Anatomy 1064 1068	乙酰乙酸
+T728	Anatomy 1075 1077	丙酮
+T729	Symptom 1113 1115	缺氧
+T730	Anatomy 1120 1124	乙酰乙酸
+T731	Anatomy 1128 1133	β-羟丁酸
+T732	Test 1138 1147;1148 1150	β-羟丁酸 /乙酰 乙酸
+T733	Anatomy 1194 1199	β-羟丁酸
+T734	Anatomy 1203 1207	乙酰乙酸
+T735	Test 1208 1210;1211 1220	β- 羟丁酸 /乙酰乙酸
+T736	Test_Value 2218 2229	≥3 mmol / L
+T737	Test 2231 2234	尿酮体
+T738	Test_Value 2277 2296	反复高于 13. 9 mmol / L
+T739	Test 2302 2305;2306 2307	床旁血 酮
+T740	Symptom 2329 2334	高血糖状态
+T741	Reason 2621 2624	败血症
+T742	Reason 2625 2626;2627 2629	并 发症
+T743	Reason 2630 2637	胰岛素剂量不足
+T744	Test_Value 2835 2837	转阴
+T745	Test_Value 2865 2867	转阴
+T746	Drug 3355 3361	5%的葡萄糖
+T747	Test 3374 3376	血糖
+T748	Test 3563 3564;3565 3570	血 β-羟丁酸
+T749	Symptom 3794 3801	肾功能严重损伤
+T750	Test 4006 4010;4011 4018	β-羟丁 酸 /乙酰乙酸
+T751	Level 4715 4717	重症
+T752	Disease 4717 4719	感染
+T753	Anatomy 4728 4732	呼吸系统
+T754	Disease 4732 4734	感染
+T755	Anatomy 4747 4751	泌尿系统
+T756	Disease 4751 4753	感染
+T757	Level 4779 4782	大面积
+T758	Disease 4782 4784	烧伤
+T759	Operation 4807 4810	大手术
+T760	Level 4814 4817	严重的
+T761	Disease 4817 4821	精神刺激
+T762	Operation 4811 4813	麻醉
+T763	Symptom 5015 5019	全身不适
+T764	Symptom 5057 5062	烂苹果气味
+T765	Level 5203 5205	明显
+T766	Symptom 5205 5207	脱水
+T767	Symptom 5208 5211	酸中毒
+T768	Symptom 5329 5331	脱水
+T769	Symptom 5424 5426	脱水
+T770	Test 5430 5433	电解质
+T771	Symptom 5581 5583	脱水
+T772	Disease 5619 5622;5623 5626	心肾功 能不全
+T773	Drug 5697 5702	5%葡萄糖
+T774	Amount 5749 5760	0. 1 U / kg
+T775	Test_Value 5843 5863	4. 2 ~ 5. 6 mmol / L
+T776	Test_Value 6071 6073	转阴
+T777	Method 6089 6093;6094 6096	多次皮下 注射
+T778	Method 6101 6107	持续皮下注射
+T779	Treatment 6130 6132	补钾
+T780	Method 6192 6194	静脉
+T781	Treatment 6194 6196	补钾
+T782	Treatment 6230 6235;6236 6237	纠正酸碱失 衡
+T783	Treatment 6241 6246	不积极补碱
+T784	Treatment 6277 6286	补充等渗碳酸氢钠液
+T785	Test 6417 6421	血电解质
+T786	Reason 6472 6474	感染
+T787	Drug 6487 6491;6492 6493	敏感抗生 素
+T788	Symptom 6554 6560	单纯的高血糖
+T789	Test_Value 6624 6641	持续>16. 7 mmol / L
+T790	Symptom 6648 6649;6650 6653	酮 症症状
+T791	Anatomy 6671 6674;6675 6676	毛细血 管
+T792	Test 6678 6683	β-羟丁酸
+T793	Treatment 6741 6745	尽快补液
+T794	Treatment 6760 6764	降低血糖
+T795	Test_Value 6872 6874	转阴
+T796	Treatment 6947 6949	补钾
+T797	Treatment 6952 6954	补碱
+T798	Disease 7000 7005	糖尿病酮症
+T799	Reason 7216 7221	未及时就诊
+T800	Reason 7244 7246	外伤
+T801	Reason 7246 7248	手术
+T802	Reason 7257 7263	严重精神紧张
+T803	Reason 7264 7268	重度刺激
+T804	Reason 7269 7275;7276 7277	胰岛素拮抗激 素
+T805	Reason 7278 7285	应用糖皮质激素
+T806	Drug 7222 7225	胰岛素
+T807	Level 7252 7254	重症
+T808	Test_Value 7420 7427;7428 7436	大于 0. 5 mmol / L
+T809	Symptom 7585 7589	代谢紊乱
+T810	Test 7630 7633	血酮体
+T811	Disease 96 101	高血糖危象
+T812	Disease 2196 2201	高血糖危象
+T813	Symptom 9001 9005	血糖偏高
+T814	Symptom 9072 9077	高血糖危象
+T815	Symptom 9138 9143	高血糖危象
+T816	Symptom 9465 9466;9467 9469	低 血糖

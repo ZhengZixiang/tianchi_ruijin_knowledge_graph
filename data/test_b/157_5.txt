@@ -1,0 +1,356 @@
+临床研究
+基金项目:国家重点基础研究发展计划(973 计划) (2012CB722403),新疆重大疾病医学重点实验室开放课题
+(SKLIB-XJMDR-2015-Y7,SKLIB-XJMDR-2014-Y4),新疆医科大学第一附属医院科研基金(2013ZRQN18)
+诊治中心(苏银霞),新疆医科大学(王志强、买拉木古丽),临床医学研究院(房彬彬、侯琴琴)
+新疆维吾尔族 GCKR 基因 rs780094 多态性与
+高尿酸血症的相关性研究
+王黎  马琦  苏银霞  王志强  买拉木古丽  房彬彬  侯琴琴  姚华
+[摘要]   目的  探讨葡萄糖激酶调节蛋白(GCKR)基因 rs780094 多态性与新疆维吾尔族高尿酸血症
+的关系。 方法 采用病例-对照研究方法,选择维吾尔族高尿酸血症患者 1 026 例和正常对照 1 030 名。 采
+用 Sequenom Mass ARRAY 系统对 GCKR 基因 rs780094 进行基因分型,比较高尿酸血症组和正常对照组
+rs780094 基因型与等位基因分布频率差异;比较高尿酸血症组 rs780094 不同基因型与血压、血脂及血糖的
+关系;采用 logistic 回归分析 rs780094 位点与新疆维吾尔族人群高尿酸血症的关系。 结果 GCKR 基因
+rs780094 位点 G / G、A / G、A / A 三种基因型及 G、A 两种等位基因在高尿酸血症组和对照组分布差异有统计
+学意义(P<0. 05)。 GCKR 基因 rs780094 显性模式(OR=1. 295,95% CI 1. 078 ~ 1. 554,P= 0. 006)及隐性模
+式(OR=1. 284,95% CI 1. 024 ~ 1. 611,P= 0. 030)下可见与高尿酸血症的相关趋势。 高尿酸血症组 GCKR
+基因 rs780094 位点 GG 与 AA+AG 基因型比较,收缩压、舒张压及总胆固醇水平较低(P<0. 05)。 经调整单
+因素分析有显著性差异的混杂因素后,多因素条件 logistic 回归分析提示 GCKR 基因 rs780094 A / A 及 A / G
+基因型是维吾尔族高尿酸血症患病的危险因素(OR= 1. 355,95% CI 1. 094 ~ 1. 679,P = 0. 005)。 结论 在
+新疆维吾尔族人群中,GCKR 基因 rs780094 多态性与高尿酸血症相关,A / A 及 A / G 基因型可能是该人群高
+尿酸血症发生的危险因素。
+[关键词]   高尿酸血症; 多态性, 单核苷酸; GCKR 基因; 维吾尔族
+Association of GCKR gene rs780094 polymorphism with hyperuricemia in Uygur in Xinjiang Wang Li*, Ma
+Qi, Su Yinxia,Wang Zhiqiang,Mai Lamuguli, Fang Binbin, Hou Qinqin, Yao Hua. *The Key Laboratory of Xinjiang
+Metabolic Disease, the First Affiliated Hospital of Xinjiang Medical University, Urumqi 830054, China
+[Abstract]  Objective  To investigate the relationship between glucokinase regulator protein (GCKR) gene
+polymorphism rs780094 and hyperuricemia in Uygur in Xinjiang. Methods A case-control study including 1 026
+patients with hyperuricemia and 1 030 normal subjects was conducted. All the subjects were genotyped for GCKR gene
+rs780094 by Sequenom MassARRAY system. The results of rs780094 genotype and allele frequency between
+hyperuricemia group and control group were compared. The associations of different genotypes of rs780094 with blood
+pressure, blood lipid, and blood glucose were analyzed. Logistic regression analysis was used to analyse the
+relationship between polymorphism of rs780094 and hyperuricemia in Uygur in Xinjiang. Results The distributions
+of three genotypes(G / G, A / G, A / A) and two allele frequency (G and A) in GCKR rs780094 revealed statistical
+difference ( P < 0. 05 ) between hyperuricemia group and control group. A tendency toward association with
+hyperuricemia was observed under dominant model (OR=1. 295, 95% CI 1. 078 ~ 1. 554,P = 0. 006) and recessive
+model(OR=1. 284, 95% CI 1. 024 ~ 1. 611,P = 0. 030). The levels of systolic blood pressure, diastolic blood
+pressure, and total cholesterol were lower in hyperuricemia group with GCKR gene rs780094 loci GG genotype than
+those with AA+AG genotype. After adjusting confounding factors which had significant difference in the single factor
+analysis, logistic regression analysis showed that rs780094 A / A and A / G might be risk factors of hyperuricemia in
+Uygur in Xinjiang (OR = 1. 355,95% CI 1. 094 ~ 1. 679,P = 0. 005). Conclusion The GCKR rs780094 is
+associated with hyperuricemia in Uygur in Xinjiang. The A / A and A / G genotype of the GCKR rs780094 may increase
+the risk of hyperuricemia.
+[Key words]  Hyperuricemia; Polymorphism, single nucleotide; GCKR gene; Uygur nationality
+(Chin J Endocrinol Metab, 2016, 32: 281-285)
+尿酸是人体嘌呤代谢的终产物。 高尿酸血症是人
+体嘌呤代谢紊乱和(或)尿酸排泄减少所致血尿酸升
+高的一组异质性疾病。 一项对高尿酸血症患者 5 年随
+访的研究发现,有 18. 8%的患者发展为痛风[1]。 尿酸
+水平升高不仅与痛风、痛风性肾病的发病有关,还与 2
+型糖尿病、高血压、心血管疾病等代谢相关性疾病密切
+相关,是这些疾病发生发展的独立危险因素。 此外,多
+个流行病学研究表明高尿酸血症与心血管疾病
+(CVD)之间存在关联[2-4]。 高尿酸血症患病率正逐年
+攀升,研究显示,美国成人高尿酸血症的患病率已达
+21. 4% ,其中男性 21. 2% 、女性 21. 6% [5]。 日本成年
+男性高尿酸血症的患病率接近 30% [6]。 中国北方人
+群高尿酸血症的患病率为 13. 7% [7]。 最近的一项
+meta 分析表明,中国男性和女性高尿酸血症患病率分
+别为 21. 6%和 8. 6% [8]。 高尿酸血症已成为影响人类
+健康的常见病、多发病。
+葡萄糖激酶调节蛋白(glucokinase regulator protein,
+GCKR)是葡萄糖激酶( glucokinase,GCK) 的限速因
+子,研究表明 GCKR 基因多态性与体内三酰甘油
+(TG)、血糖及胰岛素水平密切相关[9]。 最近一项欧
+洲人群全基因关联研究证实了 10 个与血尿酸水平相
+关的基因,其中包括 GCKR[10]。 在中国汉族人群中也
+发现 GCKR 参与调节血尿酸水平[11]。 而不同人群同
+一基因多态性位点不同,多态性分布的频率也不同。
+目前尚缺乏维吾尔族人群 GCKR 基因多态性与高尿
+酸血症关联性的研究报道,为此本研究以新疆维吾尔
+族高尿酸血症患者为研究对象,检测 GCKR 基因
+rs780094 位点的等位基因和基因型,并探讨其和高尿
+酸血症的关系。
+对象和方法
+一、 对象
+选取 2012 年 6 月至 2013 年 3 月在新疆医科大学
+第一附属医院确诊为高尿酸血症的维吾尔族患者
+1 026 例(男性 633 例,女性 393 例),平均年龄(46. 82
+± 12. 13)岁(20 ~ 80 岁),正常对照者 1 030 名(男性
+640 例,女性 390 例),平均年龄(46. 71 ± 12. 24) 岁
+(20 ~ 80 岁)。 高尿酸血症诊断依据 2004 年《原发性
+痛风诊治指南》 [12]公布标准:男性≥417 μmol / L,女性
+≥357 μmol / L。 排除高血压 [收缩压 > 140 mmHg
+(1 mmHg=0. 133 kPa)或舒张压>90 mmHg,或服用降
+压药]、糖尿病[空腹血糖(FPG)≥7. 0 mmol / L、注射胰
+岛素或口服降糖药物]、心脑血管疾病、肾功能不全
+(血肌酐>124 μmol / L),以及服用任何影响糖脂代谢
+及尿酸代谢的药物者。 正常对照组为同期该院健康体
+检者,经仔细询问病史和相关检查,无痛风家族史且血
+尿酸检查正常,排除高血压、内分泌疾病、恶性肿瘤、冠
+心病、慢性肝肾疾病及其他慢性疾病。 受试者均为在
+新疆地区长期居住的维吾尔族居民,相互之间没有血
+缘关系。 2 组受试者性别、年龄比较差异均无统计学
+意义(P>0. 05)。 本研究获得新疆医科大学第一附属
+医院伦理委员会批准,所有受试者签署知情同意书。
+二、 方法
+1. 标本收集、生化检测及基因组 DNA 提取:收集
+所有受试者身高、体重、腹围、腰围、收缩压、舒张压等
+一般临床资料,计算研究对象的体重指数(BMI)。 所
+有受试者禁食 8 h 以上,于次日清晨采集静脉血 5 ml,
+并分为 2 份。 一份用于生化指标的检测,如总胆固醇
+(TC)、TG、高密度脂蛋白胆固醇(HDL-C)、低密度脂
+蛋白胆固醇(LDL-C)、尿酸、尿素氮、血肌酐、FPG 等,
+生化指标均由新疆医科大学第一附属医院检验中心统
+一测定。 另一份采用人血基因组提取试剂盒(北京百
+泰克生物技术有限公司)提取基因组 DNA,置-80℃冰
+箱保存集中送检。
+2. 基因分型:按照最小等位基因频率(MAF) >
+0. 05,连锁不平衡程度 ( r2 ) ≥0. 8 筛选条件,选取
+rs780094 多态性位点。 采用 Sequenom Mass ARRAY 系
+统(San Diego,CA,美国)对所有样本的 rs780094 位点
+进行基因分型。 随机抽取 5%的样本进行单核苷酸多
+态性(single nucleotide polymorphism,SNP)位点重复分
+型检测,计算基因分型的成功率和一致率,分型成功率
+在 95%以上,基因分型一致率在 98%以上。
+三、 统计学处理
+采用 SPSS 16. 0 统计软件进行数据处理。 采用
+Hardy-Weinberg 平衡检验样本群体代表性;计量资料
+以 x-± s 表示,2 组间比较采用 t 检验,方差不齐采用 t忆
+检验;计数资料采用 字2 检验;综合评价各因素与高尿
+酸血症的关系采用多因素 logistic 回归分析。 以 P<
+0. 05 为差异有统计学意义。
+结    果
+一、 一般临床特征比较
+高尿酸血症组 BMI、腰围、收缩压、TC、TG、LDL-C、
+FPG、血尿酸、肌酐、尿素氮均高于对照组,差异有统计
+学意义(P<0. 05)。 高尿酸血症组 HDL-C 低于对照组
+(P<0. 05)。 2 组舒张压比较差异无统计学意义(P>
+0. 05,表 1)。
+二、 基因分型比较
+2 组 GCKR 基因 rs780094 位点基因型的频数分
+布均符合 Hardy-Weinberg 平衡(P>0. 05), 2 组样本
+具有群体代表性。 高尿酸血症组与对照组 GCKR 基
+因 rs780094 位点 3 种基因型频率分布比较差异有统计
+学意义(P<0. 05)。 2 组 rs780094 位点 G、A 等位基因分
+布比较差异有统计学意义(P<0. 05)。 其中携带 A 等位
+基因患高尿酸血症的风险是携带 G 等位基因的 1. 217
+倍(OR=1. 217,95% CI 1. 075 ~1. 379,P=0. 002,表 2)。
+三、 GCKR 基因 rs780094 位点不同遗传模式
+logistic 回归分析
+以是否患高尿酸血症为因变量, GCKR 基因
+rs780094 多态性为自变量,进行 logistic 回归分析,结
+果表明,GCKR 基因 rs780094 显性遗传模式 (OR =
+1. 295,95% CI 1. 078 ~ 1. 554,P = 0. 006)、隐性遗传模
+式(OR=1. 284,95% CI 1. 024 ~ 1. 611,P=0. 030)是高
+尿酸血症的影响因素(表 3)。
+四、 GCKR 基因 rs780094 不同基因型之间血压、
+血脂及血糖水平比较
+如表 4 所示,维吾尔族高尿酸血症组 GCKR 基因
+rs780094 位点 GG 基因型组的收缩压、舒张压及 TC 水
+平低于 AA+AG 组,差异有统计学意义(P<0. 05 或 P<
+0. 01),TG 和 FPG 差异无统计学意义(P>0. 05)。
+五、 危险因素回归分析
+在校正单因素分析差异有显著性的 BMI、收缩压、
+表 1  高尿酸血症组与对照组一般临床资料比较(x-± s)
+Tab 1  Comparison of general clinical information between hyperuricemia and control groups(x-± s)
+组别
+Group
+例数
+n
+BMI
+(kg / m2)
+WC
+(cm)
+SBP
+(mmHg)
+DBP
+(mmHg)
+TC
+(mmol / L)
+TG
+(mmol / L)
+CON 1 030 27. 06 ± 2. 61 95. 83 ± 7. 40 124 ± 8 79 ± 6  3. 95 ± 1. 60 2. 32 ± 1. 90
+HUA 1 026 27. 59 ± 4. 77b 98. 94 ± 12. 42b 126 ± 16b 79 ± 11 4. 25 ± 1. 64b 2. 58 ± 1. 67b
+组别
+Group
+例数
+n
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+FPG
+(mmol / L)
+SUA
+(μmol / L)
+SCr
+(μmol / L)
+BUN
+(mmol / L)
+CON 1 030 1. 24 ± 0. 30 2. 85 ± 1. 01 4. 96 ± 0. 86 281. 70 ± 70. 43 71. 13 ± 17. 13 5. 08 ± 2. 44
+HUA 1 026 1. 00 ± 0. 34b 2. 93 ± 0. 78a 5. 39 ± 1. 98b 473. 84 ± 91. 91b 89. 39 ± 69. 52b 6. 55 ± 4. 19b
+注:CON:对照组 Control group;HUA:高尿酸血症组 High uric acid group;BMI:体重指数 Body mass index;WC:腰围 Waist circumference;SBP:收缩压
+Systolic blood pressure;1 mmHg=0. 133 kPa;DBP:舒张压 Diastolic blood pressure;TC:总胆固醇 Total cholesterol;TG:三酰甘油 Triglyceride;HDL-C:高密度
+脂蛋白胆固醇 High density lipoprotein cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein cholesterol;FPG:空腹血糖 Fasting plasma glucose;
+SUA:血尿酸 Serum uric acid;SCr:血肌酐 Serum creatinine;BUN:血尿素氮 Blood urea nitrogen;与 CON 组比较 vs CON group, aP<0. 05, bP<0. 01
+表 2  高尿酸组与对照组基因分型比较[n(% )]
+Tab 2  The discrepancy of rs780094 genotype and allele frequency distribution in hyperuricemia and control groups[n(% )]
+组别
+Group
+例数
+n
+基因型
+Genotype*
+等位基因
+Allele*
+GG AG AA G A
+CON 1 021 385(37. 708) 470(46. 033) 166(16. 259) 1 240(60. 725) 802(39. 275)
+HUA 1 017 324(31. 858) 490(48. 181) 203(19. 961) 1 138(55. 949) 896(44. 051)
+字2   9. 367 9. 563
+P    0. 009 0. 002
+注:略语同表 1 The abbreviations are the same as Tab 1;*表示有缺失数据 Missing data
+表 3  rs780094 位点与高尿酸血症的 logistic 回归分析结果
+Tab 3  The results of logistic regression analysis between rs780094 and hyperuricemia
+GCKR 基因 rs780094 遗传模式
+Genetic mode of GCKR gene rs780094 OR 95% CI P
+相加遗传模式(GG=0,AG=1,AA=2)
+Additive genetic mode(GG=0,AG=1,AA=2) 1. 178 (0. 624,2. 225) 0. 614
+显性遗传模式(GG=0,AA+AG=1)
+Dominant inheritance mode(GG=0,AA+AG=1) 1. 295 (1. 078,1. 554) 0. 006
+隐性遗传模式(GG+AG=0,AA=1)
+Recessive inheritance mode(GG+AG=0,AA=1) 1. 284 (1. 024,1. 611) 0. 030
+表 4  高尿酸组基因型 GG 组与 AA+AG 组生化指标比较(x-± s)
+Tab 4  Comparison of laboratory data between GG and AA+AG subgroups in hyperuricemia group(x-± s)
+组别
+Group
+例数
+n
+SBP
+(mmHg)
+DBP
+(mmHg)
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+FPG
+(mmol / L)
+GG    324   124 ± 14   78 ± 10 3. 76 ± 1. 60 2. 47 ± 1. 55 0. 98 ± 0. 42 2. 79 ± 1. 27 5. 44 ± 2. 21
+AA+AG 693   127 ± 17b   80 ± 11b 4. 02 ± 1. 60a 2. 62 ± 1. 73 1. 01 ± 0. 30 2. 87 ± 0. 89 5. 39 ± 1. 90
+注:略语同表 1 The abbreviations are the same as Tab 1, 与 GG 组比较 vs GG group, aP<0. 05, bP<0. 01
+表 5  多因素 logistic 回归分析结果
+Tab 5  The results of multinomial logistic analysis
+变量
+Variable B SE Wals 字
+2 P OR 95% CI
+常数项
+Constant term -1. 921 0. 167 132. 710 0. 000 0. 146 -
+BMI 0. 090 0. 091 0. 969 0. 325 1. 094 (0. 915,1. 309)
+SBP 2. 398 0. 285 70. 818 0. 000 10. 998 (6. 292,19. 224)
+TC 0. 266 0. 155 2. 943 0. 086 1. 305 (0. 963,1. 769)
+TG 0. 494 0. 107 21. 314 0. 000 1. 639 (1. 329,2. 021)
+HDL-C 1. 295 0. 112 133. 516 0. 000 3. 651 (2. 931,4. 549)
+LDL-C 0. 130 0. 110 1. 399 0. 237 1. 139 (0. 918,1. 414)
+FPG 2. 498 0. 308 65. 637 0. 000 12. 155 (6. 643,22. 243)
+SCr 1. 644 0. 445 13. 676 0. 000 5. 178 (2. 166,12. 377)
+BUN 1. 732 0. 297 34. 035 0. 000 5. 650 (3. 158,10. 108)
+GCKR 基因 rs780094 显性遗传模式
+Dominant inheritance mode of GCKR rs780094 0. 304 0. 109 7. 717 0. 005 1. 355 (1. 094,1. 679)
+注:略语同表 1 The abbreviations are the same as Tab 1
+TC、TG、HDL-C、LDL-C、FPG、肌酐、尿素氮,以是否患
+高尿酸血症为因变量, GCKR 基因 rs780094 显性遗传
+模式为自变量,进行多因素条件 logistic 回归分析,结
+果显示,GCKR 基因 rs780094 显性遗传模式 (OR =
+1. 355,95% CI 1. 094 ~ 1. 679,P = 0. 005)仍是维吾尔
+族高尿酸血症患病的危险因素(P<0. 05,表 5)。
+讨    论
+高尿酸血症是人体内嘌呤代谢发生紊乱和(或)
+尿酸的合成增加或排出减少而导致的疾病。 高尿酸血
+症不仅可引起痛风、肾脏病变,还与心血管疾病、2 型
+糖尿病、血脂异常及肥胖症等代谢综合征的发生发展
+密切相关。 高尿酸血症患者发展为痛风的风险与血尿
+酸浓度呈正相关[13]。
+高尿酸血症属于多基因病,具有家族聚集现象,提
+示遗传因素与血尿酸水平密切相关。 全基因组关联分
+析(GWAS)发现 GCKR 是与血尿酸浓度显著相关的候
+选基因之一[10]。 GCKR 定位于染色体 2p23,包含 19
+个外显子和 18 个内含子,全长 26 834 bp,编码 625 个
+氨基酸,是一种相对分子质量为 68×103的不耐热蛋白
+质,是糖异构酶家族的成员,主要存在于肝脏及胰岛细
+胞内。 GCKR 在机体内的主要作用为抑制糖酵解过程
+中的关键酶 GCK,调节血糖及 TG 水平。 GWAS 发现
+该基因与血尿酸水平关系最密切的 SNP 位于 GCKR
+第 16 个内含子区的 rs780094[14],其等位基因的配型
+存在 G / G、G / A、A / A 型与 C / C、C / T、T / T 型,该 SNP
+可使 FPG 升高及 TG 水平降低[15]。
+本研究对新疆地区维吾尔族 1 026 例高尿酸血症
+患者及 1 030 名正常对照人群的 GCKR 基因 rs780094
+位点多态性的研究表明,该位点在维吾尔族人群中存
+在多态性,高尿酸血症组 3 种基因型(G / G 31. 858% ,
+G / A 48. 181% , A / A 19. 961% ) 与 对 照 组 ( G / G
+37. 708% ,G / A 46. 033% ,A / A 16. 259% )分布差异显
+著(字2 =9. 367,P=0. 009)。 G、A 两等位基因在高尿酸
+血症 组 ( G 55. 949% , A 44. 051% ) 与 对 照 组 ( G
+60. 725% ,A 39. 275% ) 的分布差异有统计学意义
+(字2 =9. 563,P= 0. 002),高尿酸血症组 A 等位基因的
+频率高于对照组。 进一步分析发现,携带 A 等位基因
+患高尿酸血症的风险是携带 G 等位基因的 1. 217 倍
+(OR=1. 217,95% CI 1. 075 ~ 1. 379,P=0. 002)。 进一
+步采用 logistic 回归分析,以是否患高尿酸血症为因变
+量,GCKR 基因 rs780094 多态性为自变量,结果显示,
+GCKR 基因 rs780094 显性遗传模式(OR = 1. 295,95%
+CI 1. 078 ~ 1. 554,P = 0. 006)、隐性遗传模式(OR =
+1. 284,95% CI 1. 024 ~ 1. 611,P = 0. 030)是高尿酸血
+症的影响因素。 提示 A 等位基因可能与维吾尔族人
+群高尿酸血症的遗传易感性相关,即携带 A 等位基因
+的维吾尔族人群更易发生高尿酸血症。
+高尿酸血症患者血清尿酸水平升高的机制极其复
+杂,它与蛋白质摄入、尿酸的分泌和重吸收、肾脏的功
+能、代谢综合征及其各组成因子密切相关。 本研究也
+发现了与高尿酸血症患者相关的代谢特征,如高尿酸
+血症组 BMI、腰围、收缩压、TC、TG、LDL-C、FPG、血尿
+酸、肌酐、尿素氮均高于对照组(P<0. 05),HDL-C 低
+于对照组(P<0. 05)。 在对维吾尔族高尿酸血症组
+GCKR 基因 rs780094 位点不同基因型与血压、血脂及
+血糖水平的比较中发现,GG 基因型组收缩压、舒张压
+及 TC 水平低于 AA+AG 组(P<0. 05)。 可能与该基因
+位点在维吾尔族人群中突变,导致肾小管吸收尿酸的
+同时促进了钠的重吸收,引起水钠潴留和血压升高。
+本研究发现 rs780094 与 TC 水平具有相关性,而与 TG
+水平的相关性不显著,这与以往的报道不尽相同,是否
+由民族差异导致有待进一步研究。
+为了确定 GCKR 基因 rs780094 与高尿酸血症之
+间的关系,采用多因素 logistics 回归分析,以是否患高
+尿酸血症为因变量,在校正了上述有统计学差异的危
+险因素后,GCKR 基因 rs780094 显性遗传模式仍是高
+尿酸血症的危险因素(P<0. 05)。 即在其他因素固定
+不变的情况下,维吾尔族人群携带 A / A、A / G 基因型
+患高尿酸血症的危险是携带 G / G 基因型的 1. 355 倍
+(P=0. 005)。
+国内外也有关于 GCKR 基因与血清尿酸水平及
+高尿酸血症关联性的相关报道。 Van der Harst 等[16]对
+来自 PREVEND 研究中的 7 795 例白种人 5 个与尿酸
+相关基因及其潜在调节机制的研究中发现,在调整年
+龄、性别后 GCKR 基因 rs780094 与血清尿酸浓度升高
+相关,进一步研究发现其 T 等位基因与血清尿酸浓度
+相关。 Takeuchi 等[17] 对 17 226 例日本人 GCKR 基因
+的 rs780094 多态性与高尿酸血症的病例对照研究显
+示,该位点与尿酸水平密切相关,其 A 等位基因与尿
+酸及 TG 水平升高密切相关。 Sun 等[11]以社区为基础
+对 2 329 例汉族人群进行 GCKR 基因的 rs780094 多态
+性与血清尿酸水平关系的研究,结果表明 GCKR
+rs780094 与血清尿酸水平相关,在调整了年龄、BMI、
+FPG 和 TG 水平后,GCKR rs780094 与血清尿酸水平密
+切相关。
+综上所述,本研究在新疆维吾尔族人群中进行了
+GCKR 基因 rs780094 多态性与高尿酸血症之间的相关
+性研究,并证实了 GCKR 基因 rs780094 A 等位基因是
+高尿酸血症的危险因素,且携带 A / A、A / G 基因型患
+高尿酸血症的危险是携带 G / G 基因型的 1. 355 倍。
+这为揭示高尿酸血症的遗传异质性提供了一定的±
+据,为今后在该人群中开展高尿酸血症的防治提供了
+一定的参考。

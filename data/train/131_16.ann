@@ -1,0 +1,372 @@
+T1	Disease 8487 8492	糖尿病肾病
+T2	Test 4200 4205	HBA1C
+T3	Test 5437 5442	HBA1C
+T4	Test 5553 5558	HBA1C
+T5	Test 6279 6284	HBA1C
+T6	Test 3813 3814;3815 3818	空 腹血糖
+T7	Test 3827 3831	空腹血糖
+T8	Test 5432 5436	空腹血糖
+T9	Test 5548 5552	空腹血糖
+T10	Test 6264 6268	空腹血糖
+T11	Test 7540 7544	尿白蛋白
+T12	Test 4223 4226	尿素氮
+T13	Test 6306 6309	尿素氮
+T14	Test 7532 7535	尿素氮
+T15	Test 4218 4221	血肌酐
+T16	Test 5454 5455;5456 5458	血 肌酐
+T17	Test 6290 6293	血肌酐
+T18	Test 7536 7539	血肌酐
+T19	Drug 29 32	漆黄素
+T20	Disease 34 37	糖尿病
+T21	Anatomy 41 52	转录共激活子 p300
+T22	Anatomy 54 58;59 64	基质金属 蛋白酶 2
+T23	Disease 104 107	糖尿病
+T24	Disease 119 122	糖尿病
+T25	Drug 124 127	漆黄素
+T26	Test 190 195;196 198	细胞外基质 表达
+T27	Disease 287 290	糖尿病
+T28	Drug 295 298	漆黄素
+T29	Disease 338 341	糖尿病
+T30	Drug 405 408	漆黄素
+T31	Disease 423 426	糖尿病
+T32	Drug 449 452	漆黄素
+T33	Disease 467 470	糖尿病
+T34	Drug 477 480	漆黄素
+T35	Disease 502 505	糖尿病
+T36	Drug 539 542	漆黄素
+T37	Disease 547 550	糖尿病
+T38	Disease 564 567	糖尿病
+T39	Drug 602 605	漆黄素
+T40	Anatomy 607 618	转录共激活子 p300
+T41	Anatomy 620 629	基质金属蛋白酶 2
+T42	Anatomy 631 636	细胞外基质
+T43	Disease 638 641	糖尿病
+T44	Disease 2768 2771	糖尿病
+T45	Disease 2773 2778	终末期肾衰
+T46	Reason 2735 2743	细胞外基质的积聚
+T47	Disease 2744 2751	糖尿病肾脏病变
+T48	Disease 2752 2755	DKD
+T49	Disease 2796 2799	DKD
+T50	Anatomy 2883 2894	转录共激活子 p300
+T51	Disease 2971 2974	DKD
+T52	Drug 2996 2999	漆黄素
+T53	Anatomy 3026 3030	p300
+T54	Drug 3045 3048	漆黄素
+T55	Disease 3060 3063	DKD
+T56	Anatomy 3076 3085	基质金属蛋白酶 2
+T57	Anatomy 3087 3092	MMP-2
+T58	Anatomy 3095 3102	基质金属蛋白酶
+T59	Anatomy 3114 3120	肾小球基底膜
+T60	Anatomy 3121 3125	系膜基质
+T61	Disease 3135 3138	DKD
+T62	Anatomy 3156 3161	MMP-2
+T63	Drug 3163 3165;3166 3167	漆黄 素
+T64	Disease 3169 3172	DKD
+T65	Drug 3202 3205	漆黄素
+T66	Disease 3206 3209	糖尿病
+T67	Anatomy 3211 3213	肾脏
+T68	Anatomy 3214 3218	p300
+T69	Anatomy 3219 3224	MMP-2
+T70	Drug 3236 3239	漆黄素
+T71	Disease 3241 3244	DKD
+T72	Drug 3318 3321	漆黄素
+T73	Disease 3537 3540	糖尿病
+T74	Test 3668 3670	血糖
+T75	Test_Value 3677 3684;3685 3693	> 16. 7 mmol / L
+T76	Disease 3696 3699	糖尿病
+T77	Disease 3734 3737	糖尿病
+T78	Drug 3739 3742	漆黄素
+T79	Test 3806 3808	血糖
+T80	Test_Value 3831 3845	<6. 0 mmol / L
+T81	Drug 3871 3875	生理盐水
+T82	Disease 3879 3882	糖尿病
+T83	Drug 3887 3891	生理盐水
+T84	Drug 3902 3905	漆黄素
+T85	Amount 4018 4027	5 ml / kg
+T86	Method 4030 4034	腹腔注射
+T87	Anatomy 4037 4041	腹主动脉
+T88	Anatomy 4092 4094	肾脏
+T89	Anatomy 4127 4128;4129 4130	肾 脏
+T90	Test 4248 4256	24 h 尿蛋白
+T91	Test 4275 4277	体重
+T92	Test 4278 4280	肾重
+T93	Test 4284 4290	肾脏肥大指数
+T94	Test 4291 4293	KI
+T95	Test 4294 4296	肾重
+T96	Test 4298 4300	体重
+T97	Anatomy 5227 5235	肾小球毛细血管襻
+T98	Anatomy 5240 5243	肾小球
+T99	Test 5253 5275	肾小球系膜基质面积 /肾小球毛细血管襻面积比
+T100	Test 5443 5448	空腹胰岛素
+T101	Test 5459 5462	尿蛋白
+T102	Drug 5506 5509	漆黄素
+T103	Test 5512 5514;5515 5516	血肌 酐
+T104	Test 5522 5525	尿蛋白
+T105	Disease 5527 5530	糖尿病
+T106	Test 5559 5566	肾重与体重比值
+T107	Drug 5566 5569	漆黄素
+T108	Disease 5573 5575;5576 5577	糖尿 病
+T109	Drug 5589 5592	漆黄素
+T110	Disease 5596 5599	糖尿病
+T111	Anatomy 5655 5658	肾小球
+T112	Disease 5676 5679	糖尿病
+T113	Anatomy 5693 5696	肾小球
+T114	Drug 5714 5717	漆黄素
+T115	Disease 5727 5730	糖尿病
+T116	Disease 5774 5777	糖尿病
+T117	Drug 5812 5815	漆黄素
+T118	Disease 5820 5823	糖尿病
+T119	Disease 5947 5950	糖尿病
+T120	Drug 6004 6007	漆黄素
+T121	Disease 6030 6033	糖尿病
+T122	Anatomy 6130 6132	肾脏
+T123	Disease 6147 6150	糖尿病
+T124	Anatomy 6172 6174	系膜
+T125	Anatomy 6180 6183	基底膜
+T126	Drug 6188 6191	漆黄素
+T127	Disease 6201 6204	糖尿病
+T128	Anatomy 6215 6218	基底膜
+T129	Drug 7406 7409	漆黄素
+T130	Disease 7474 7476	肿瘤
+T131	Drug 7503 7506	漆黄素
+T132	Disease 7519 7522	糖尿病
+T133	Disease 7551 7554	糖尿病
+T134	Drug 7565 7568	漆黄素
+T135	Disease 7594 7597	糖尿病
+T136	Drug 7605 7608	漆黄素
+T137	Disease 7609 7612;7613 7617	糖尿病 肾脏病变
+T138	Drug 7633 7636	漆黄素
+T139	Disease 7642 7645	糖尿病
+T140	Anatomy 7648 7650	肾脏
+T141	Anatomy 7650 7661	转录共激活子 p300
+T142	Anatomy 7664 7669	MMP-2
+T143	Anatomy 7671 7674	ECM
+T144	Disease 7685 7688	糖尿病
+T145	Anatomy 7691 7697	肾脏固有细胞
+T146	Disease 7826 7829	DKD
+T147	Disease 7858 7861	糖尿病
+T148	Disease 7887 7890	糖尿病
+T149	Anatomy 7891 7893	肾脏
+T150	Disease 7956 7963	糖尿病肾脏病变
+T151	Drug 7967 7970	漆黄素
+T152	Drug 7997 8000	漆黄素
+T153	Disease 8003 8006	糖尿病
+T154	Anatomy 8008 8010	肾脏
+T155	Drug 8054 8057	漆黄素
+T156	Disease 8078 8081	糖尿病
+T157	Drug 8098 8101	漆黄素
+T158	Drug 8194 8197	漆黄素
+T159	Drug 8230 8233	漆黄素
+T160	Anatomy 8396 8399	ECM
+T161	Anatomy 8405 8408	ECM
+T162	Anatomy 8425 8428	ECM
+T163	Anatomy 8441 8446	MMP-2
+T164	Anatomy 8493 8496	ECM
+T165	Drug 8543 8546	漆黄素
+T166	Anatomy 8551 8553	肾脏
+T167	Drug 8574 8577	漆黄素
+T168	Disease 8582 8585	糖尿病
+T169	Drug 8611 8614	漆黄素
+T170	Anatomy 8648 8651	ECM
+T171	Disease 8807 8810	糖尿病
+T172	Anatomy 8883 8887	p300
+T173	Anatomy 8896 8901	TGF-β
+T174	Anatomy 8907 8912	MMP-2
+T175	Drug 8932 8935	漆黄素
+T176	Disease 8940 8943	糖尿病
+T177	Disease 8963 8966	糖尿病
+T178	Anatomy 8970 8974	p300
+T179	Anatomy 8981 8986	MMP-2
+T180	Test 6623 6625	体重
+T181	Test 3382 3385	PCR
+T182	Test 3334 3336	血糖
+T183	Test 3339 3341	血糖
+T184	Test 4186 4188	血糖
+T185	Anatomy 8685 8690	TGF-β
+T186	Anatomy 8714 8719	TGF-β
+T187	Anatomy 39 41	肾脏
+T188	Drug 96 101	链脲佐菌素
+T189	Test 163 168	HE 染色
+T190	Test 175 178	PAS
+T191	Test 179 188	Masson 染色
+T192	Test 200 204	免疫组化
+T193	Test 245 250	MMP-2
+T194	Anatomy 310 312	肾脏
+T195	Test 312 314	病理
+T196	Test 356 362	免疫组化分析
+T197	Anatomy 390 393	细胞核
+T198	Anatomy 394 397	细胞质
+T199	Test 496 500	蛋白表达
+T200	Anatomy 2847 2851;2852 2855	糖基化终 末产物
+T201	Anatomy 2858 2864	蛋白激酶 C
+T202	Anatomy 2923 2929	乙酰化组蛋白
+T203	Anatomy 2948 2953	细胞外基质
+T204	Anatomy 2957 2961	炎症因子
+T205	Drug 3007 3013	黄酮类化合物
+T206	Anatomy 3127 3130;3131 3132	4型胶 原
+T207	Anatomy 3141 3146	细胞外基质
+T208	Drug 3312 3317	链脲佐菌素
+T209	Anatomy 3410 3417	p300 抗体
+T210	Anatomy 3443 3447	抗体二抗
+T211	Drug 3582 3587	链脲佐菌素
+T212	Method 3651 3655	腹腔注射
+T213	Method 3783 3787	腹腔注射
+T214	Duration 3897 3901	24 周
+T215	Anatomy 3662 3665	尾静脉
+T216	Anatomy 3800 3803	尾静脉
+T217	Anatomy 3980 3983	尾静脉
+T218	Test 4393 4399	成像系统拍照
+T219	Test 4982 4983;4984 4986	总 蛋白
+T220	Test 5044 5049	电转移时间
+T221	Test 5113 5121;5122 5124	ECL 化学发光 显色
+T222	Test 5156 5158;5159 5161	灰度 比值
+T223	Test 5638 5642	免疫组化
+T224	Anatomy 5663 5666	细胞核
+T225	Anatomy 5667 5670	细胞质
+T226	Anatomy 5705 5706;5707 5709	细 胞核
+T227	Test 5746 5763	Western 印迹蛋白半定量分析
+T228	Level 5791 5799	增加了 189%
+T229	Level 5839 5842;5843 5846	下降了 44%
+T230	Test 5885 5887	蛋白
+T231	Test 5964 5966	蛋白
+T232	Level 5981 5988	降低约 35%
+T233	Level 5990 5993	51%
+T234	Test 6024 6026	蛋白
+T235	Level 6039 6042;6043 6046	升高约 26%
+T236	Level 6048 6051	92%
+T237	Test 6115 6120	HE 染色
+T238	Test 6222 6228	PAS 染色
+T239	Drug 7411 7417	黄酮类化合物
+T240	Anatomy 7477 7479	神经
+T241	Duration 7509 7513	24 周
+T242	Anatomy 7717 7723	ECM 基因
+T243	Anatomy 7745 7751	活化蛋白 1
+T244	Anatomy 7752 7757	NF-κB
+T245	Anatomy 7778 7784	转录共激活子
+T246	Anatomy 7803 7810	组蛋白乙酰化酶
+T247	Anatomy 7811 7814	HAT
+T248	Anatomy 7819 7823	p300
+T249	Anatomy 7870 7873	细胞核
+T250	Level 7914 7916;7917 7926	增加 约 1. 85 倍
+T251	Anatomy 8202 8205	PKC
+T252	Anatomy 8207 8211	蛋白激酶
+T253	Anatomy 8240 8243	PKC
+T254	Anatomy 8246 8250	氧自由基
+T255	Test 8255 8259	p300
+T256	Anatomy 8270 8274	p300
+T257	Anatomy 8338 8341	组蛋白
+T258	Anatomy 8360 8363	DNA
+T259	Anatomy 8365 8368	核小体
+T260	Anatomy 8384 8387	DNA
+T261	Anatomy 8376 8380	转录因子
+T262	Anatomy 8470 8474	4型胶原
+T263	Test 8601 8603	蛋白
+T264	Test 8637 8639	蛋白
+T265	Anatomy 8851 8855	p300
+T266	Test 152 156	生化指标
+T267	Symptom 2835 2837	高糖
+T268	Test 5194 5200	病理图像分析
+T269	Anatomy 5217 5219	系膜
+T270	Disease 7205 7206;7207 7209	糖 尿病
+T271	Anatomy 7079 7085	肾小球系膜区
+T272	Disease 7094 7097	糖尿病
+T273	Anatomy 7104 7105;7106 7108	系 膜区
+T274	Drug 7118 7121	漆黄素
+T275	Test 7153 7155	病理
+T276	Drug 7245 7248	漆黄素
+T277	Disease 7273 7276	糖尿病
+T278	Disease 7344 7347	糖尿病
+T279	Drug 7368 7371	漆黄素
+T280	Disease 7381 7384	糖尿病
+T281	Test 7545 7549	生化指标
+T282	Disease 8022 8025	糖尿病
+T283	Reason 8144 8147;8148 8149	氧化应 激
+T284	Anatomy 7332 7338	胶原纤维蛋白
+T285	Anatomy 7315 7321	胶原纤维蛋白
+T286	Anatomy 7354 7356;7357 7361	胶原 纤维蛋白
+T287	Anatomy 7162 7167	肾小球系膜
+T288	Test_Value 471 474;475 476	显著下 调
+T289	Test 3471 3475	尿白蛋白
+T290	Test 5449 5453	血尿素氮
+T291	Test 5517 5521	血尿素氮
+T292	Test 170 174	病理改变
+T293	Test 207 214	p300 表达
+T294	Test 229 233	p300
+T295	Test 235 244	基质金属蛋白酶 2
+T296	Test 271 281	MMP-2 mRNA
+T297	Test 328 337	细胞外基质蛋白表达
+T298	Anatomy 370 377	p300 蛋白
+T299	Anatomy 380 382	肾脏
+T300	Anatomy 382 385	肾小球
+T301	Anatomy 412 419	p300 蛋白
+T302	Test 457 464	p300 蛋白
+T303	Test 484 494	MMP-2 mRNA
+T304	Anatomy 552 554	肾脏
+T305	Anatomy 571 575	p300
+T306	Anatomy 582 587	MMP-2
+T307	Anatomy 2735 2740	细胞外基质
+T308	Anatomy 3020 3025	人单核细胞
+T309	Anatomy 3434 3442	MMP-2 抗体
+T310	Test 3672 3674	血糖
+T311	Test 3994 4001	24 h 尿液
+T312	Drug 4006 4015	10%水合氯醛溶液
+T313	Anatomy 4076 4078	双肾
+T314	Test 4096 4099;4100 4101	双肾重 量
+T315	Anatomy 4106 4107	肾
+T316	Anatomy 4107 4113	外周皮质组织
+T317	Anatomy 4191 4195	尾部静脉
+T318	Test 4195 4197	血糖
+T319	Test 4662 4672	MMP-2 mRNA
+T320	Test 4851 4854	PCR
+T321	Anatomy 4872 4877	MMP-2
+T322	Anatomy 4962 4966	p300
+T323	Anatomy 4969 4974	MMP-2
+T324	Test 5463 5465	肾重
+T325	Test 5466 5468	体重
+T326	Test 5622 5626	p300
+T327	Test 5647 5651	p300
+T328	Test 5681 5685	p300
+T329	Test 5721 5725	p300
+T330	Anatomy 5778 5785	肾脏 p300
+T331	Test 5825 5829	p300
+T332	Test 5873 5883	MMP-2 mRNA
+T333	Test 5890 5900	MMP-2 mRNA
+T334	Test 5936 5944	MMP-2 蛋白
+T335	Test 5952 5962	MMP-2 mRNA
+T336	Test 6012 6022	MMP-2 mRNA
+T337	Test 6091 6098	肾脏形态学变化
+T338	Test 6099 6110;6111 6114	肾脏细胞外基质积聚的定 量分析
+T339	Anatomy 6164 6169	系膜区细胞
+T340	Anatomy 6206 6211	系膜区细胞
+T341	Anatomy 7524 7525;7526 7527	肾 脏
+T342	Test 7571 7577	肾脏病理改变
+T343	Test_Value 7580 7582;7583 7593	细胞 外基质(ECM)集聚
+T344	Anatomy 7733 7739	ECM 基因
+T345	Anatomy 7847 7851	p300
+T346	Anatomy 7861 7863	肾脏
+T347	Anatomy 7863 7866	肾小球
+T348	Anatomy 7894 7898	p300
+T349	Test 7978 7982	p300
+T350	Test 8011 8017;8018 8021	p300 表 达水平
+T351	Anatomy 8046 8047;8048 8052	人 单核细胞
+T352	Test 8062 8066	p300
+T353	Anatomy 8085 8087	肾脏
+T354	Test 8088 8092	p300
+T355	Reason 8132 8138	蛋白激酶 C
+T356	Reason 8139 8142	PKC
+T357	Reason 8150 8156	miRNAs
+T358	Test 8163 8167	p300
+T359	Anatomy 8189 8193	内皮细胞
+T360	Anatomy 8456 8459	肾小球
+T361	Anatomy 8460 8463	基底膜
+T362	Test 8506 8511	MMP-2
+T363	Test 8556 8561	MMP-2
+T364	Test 8589 8594;8595 8599	MMP-2 mRNA
+T365	Test 8625 8635	MMP-2 mRNA
+T366	Anatomy 8664 8672	MMP-2 基因
+T367	Anatomy 8777 8785	MMP-2 基因
+T368	Anatomy 8813 8815	肾脏
+T369	Anatomy 8816 8820	p300
+T370	Anatomy 8828 8833	TGF-β
+T371	Anatomy 8859 8864	TGF-β
+T372	Anatomy 8945 8947	肾脏

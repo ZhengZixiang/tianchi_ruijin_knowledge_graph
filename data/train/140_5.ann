@@ -1,0 +1,491 @@
+T1	Disease 2717 2723	2 型糖尿病
+T2	Disease 2849 2855	2 型糖尿病
+T3	Disease 3039 3045	2 型糖尿病
+T4	Disease 4223 4229	2 型糖尿病
+T5	Disease 8227 8233	2 型糖尿病
+T6	Test 4084 4089	HBA1C
+T7	Test 6103 6108	HBA1C
+T8	Test 7818 7823	HBA1C
+T9	Test 4055 4060	HDL-C
+T10	Test 4565 4570	HDL-C
+T11	Test 6195 6200	HDL-C
+T12	Test 6219 6224	HDL-C
+T13	Test 6245 6250	HDL-C
+T14	Test 7046 7051	HDL-C
+T15	Test 7797 7802	HDL-C
+T16	Test 4072 4077	LDL-C
+T17	Test 6178 6183	LDL-C
+T18	Test 6994 6999	LDL-C
+T19	Test 7918 7923	LDL-C
+T20	Test 9808 9813	LDL-C
+T21	Drug 10002 10006	二甲双胍
+T22	Test 4236 4240	空腹血糖
+T23	Test 4399 4403	空腹血糖
+T24	Test 5740 5744	空腹血糖
+T25	Test 7808 7810;7811 7813	空腹 血糖
+T26	Test 7895 7899	空腹血糖
+T27	Test 10233 10237	空腹血糖
+T28	Test 4044 4053	高密度脂蛋白胆固醇
+T29	Test 7052 7061	高密度脂蛋白胆固醇
+T30	Test 4062 4071	低密度脂蛋白胆固醇
+T31	Test 7000 7009	低密度脂蛋白胆固醇
+T32	Test 4036 4040	总胆固醇
+T33	Test 6144 6148	总胆固醇
+T34	Test 6212 6216	总胆固醇
+T35	Test 7803 7807	总胆固醇
+T36	Test 7913 7917	总胆固醇
+T37	Test 3964 3968	体重指数
+T38	Test 4372 4376	体重指数
+T39	Test 5615 5619	体重指数
+T40	Test 7696 7700	体重指数
+T41	Test 7884 7888	体重指数
+T42	Test 9786 9790	体重指数
+T43	Test 3215 3219	OGTT
+T44	Test 4275 4279	OGTT
+T45	Test 3952 3955	收缩压
+T46	Test 4467 4470	收缩压
+T47	Test 5669 5672	收缩压
+T48	Test 7789 7792	收缩压
+T49	Test 3956 3959	舒张压
+T50	Test 4472 4475	舒张压
+T51	Test 5704 5707	舒张压
+T52	Test 7793 7796	舒张压
+T53	Test 3969 3972	腰臀比
+T54	Test 5646 5649	腰臀比
+T55	Test 7701 7704	腰臀比
+T56	Test 7890 7893	腰臀比
+T57	Test 9791 9794	腰臀比
+T58	Test 3945 3947	腰围
+T59	Disease 4199 4201;4202 4205	代谢 综合征
+T60	Disease 4354 4359	代谢综合征
+T61	Disease 6695 6700	代谢综合征
+T62	Disease 7732 7737	代谢综合征
+T63	Disease 10643 10648	代谢综合征
+T64	Disease 10664 10669	代谢综合征
+T65	Disease 158 163	糖尿病前期
+T66	Disease 244 249	糖尿病前期
+T67	Disease 262 267	糖尿病前期
+T68	Disease 316 321	糖尿病前期
+T69	Disease 377 382	糖尿病前期
+T70	Disease 654 659	糖尿病前期
+T71	Disease 695 700	糖尿病前期
+T72	Disease 2685 2690	糖尿病前期
+T73	Disease 2736 2741	糖尿病前期
+T74	Disease 2881 2886	糖尿病前期
+T75	Disease 2950 2955	糖尿病前期
+T76	Disease 2967 2972	糖尿病前期
+T77	Disease 3249 3254	糖尿病前期
+T78	Disease 3731 3736	糖尿病前期
+T79	Disease 4192 4197	糖尿病前期
+T80	Disease 4320 4321;4322 4326	糖 尿病前期
+T81	Disease 4974 4979	糖尿病前期
+T82	Disease 5005 5010	糖尿病前期
+T83	Disease 7656 7661	糖尿病前期
+T84	Disease 8092 8097	糖尿病前期
+T85	Disease 8134 8139	糖尿病前期
+T86	Disease 8217 8222	糖尿病前期
+T87	Disease 8346 8351	糖尿病前期
+T88	Disease 8429 8434	糖尿病前期
+T89	Disease 8487 8492	糖尿病前期
+T90	Disease 8897 8902	糖尿病前期
+T91	Disease 8938 8943	糖尿病前期
+T92	Disease 8996 9001	糖尿病前期
+T93	Disease 9079 9084	糖尿病前期
+T94	Disease 9467 9472	糖尿病前期
+T95	Disease 9643 9648	糖尿病前期
+T96	Disease 9683 9688	糖尿病前期
+T97	Disease 9747 9748;9749 9753	糖 尿病前期
+T98	Disease 9764 9769	糖尿病前期
+T99	Disease 9910 9915	糖尿病前期
+T100	Disease 9992 9997	糖尿病前期
+T101	Disease 10286 10291	糖尿病前期
+T102	Disease 10301 10306	糖尿病前期
+T103	Disease 11041 11046	糖尿病前期
+T104	Disease 11073 11078	糖尿病前期
+T105	Disease 11155 11160	糖尿病前期
+T106	Disease 11192 11197	糖尿病前期
+T107	Disease 11232 11233;11234 11238	糖 尿病前期
+T108	Disease 11251 11256	糖尿病前期
+T109	Disease 3569 3573	结直肠癌
+T110	Test 4031 4035	甘油三酯
+T111	Test 6114 6118	甘油三酯
+T112	Test 7712 7716	甘油三酯
+T113	Test 7908 7912	甘油三酯
+T114	Test 9803 9807	甘油三酯
+T115	Disease 165 168	结肠癌
+T116	Disease 252 255	结肠癌
+T117	Disease 325 328	结肠癌
+T118	Disease 450 453	结肠癌
+T119	Disease 664 667	结肠癌
+T120	Disease 702 705	结肠癌
+T121	Disease 2762 2765	结肠癌
+T122	Disease 2803 2806	结肠癌
+T123	Disease 2858 2861	结肠癌
+T124	Disease 2887 2890	结肠癌
+T125	Disease 3522 3525	结肠癌
+T126	Disease 3705 3708	结肠癌
+T127	Disease 3722 3725	结肠癌
+T128	Disease 3864 3867	结肠癌
+T129	Disease 4752 4755	结肠癌
+T130	Disease 4776 4779	结肠癌
+T131	Disease 4982 4985	结肠癌
+T132	Disease 5017 5020	结肠癌
+T133	Disease 5174 5177	结肠癌
+T134	Disease 7397 7400	结肠癌
+T135	Disease 7417 7420	结肠癌
+T136	Disease 7436 7439	结肠癌
+T137	Disease 7456 7459	结肠癌
+T138	Disease 7493 7496	结肠癌
+T139	Disease 7566 7569	结肠癌
+T140	Disease 7749 7752	结肠癌
+T141	Disease 8326 8327;8328 8330	结 肠癌
+T142	Disease 8381 8384	结肠癌
+T143	Disease 8418 8419;8420 8422	结 肠癌
+T144	Disease 8437 8440	结肠癌
+T145	Disease 8638 8641	结肠癌
+T146	Disease 8689 8692	结肠癌
+T147	Disease 8717 8720	结肠癌
+T148	Disease 8735 8738	结肠癌
+T149	Disease 8754 8757	结肠癌
+T150	Disease 8773 8776	结肠癌
+T151	Disease 8886 8889	结肠癌
+T152	Disease 8946 8949	结肠癌
+T153	Disease 9086 9089	结肠癌
+T154	Disease 9192 9195	结肠癌
+T155	Disease 9262 9265	结肠癌
+T156	Disease 9288 9291	结肠癌
+T157	Disease 9474 9477	结肠癌
+T158	Disease 9513 9516	结肠癌
+T159	Disease 9543 9546	结肠癌
+T160	Disease 9591 9594	结肠癌
+T161	Disease 9619 9622	结肠癌
+T162	Disease 9634 9637	结肠癌
+T163	Disease 9650 9653	结肠癌
+T164	Disease 9709 9712	结肠癌
+T165	Disease 9718 9721	结肠癌
+T166	Disease 9823 9826	结肠癌
+T167	Disease 10802 10805	结肠癌
+T168	Disease 11050 11053	结肠癌
+T169	Disease 11175 11178	结肠癌
+T170	Disease 11200 11203	结肠癌
+T171	Test 3939 3941	身高
+T172	Test 3942 3944	体重
+T173	Disease 175 179	结肠息肉
+T174	Disease 269 273	结肠息肉
+T175	Test 292 298	粪便隐血试验
+T176	Disease 349 353	结肠息肉
+T177	Test 405 411	全结肠镜检查
+T178	Disease 418 424	结肠黏膜病变
+T179	Disease 488 492	结肠息肉
+T180	Disease 539 544	腺瘤性息肉
+T181	Disease 612 616	结肠息肉
+T182	Disease 629 633	结肠息肉
+T183	Disease 2699 2702	糖尿病
+T184	Disease 2816 2818	肿瘤
+T185	Disease 2976 2980	结肠肿瘤
+T186	Disease 2988 2992	结肠息肉
+T187	Disease 3006 3010	结肠肿瘤
+T188	Disease 3190 3193	糖尿病
+T189	Test 3224 3229	糖耐量检查
+T190	Drug 3305 3310	糖皮质激素
+T191	Level 3327 3329	严重
+T192	Disease 3340 3347	慢性消耗性疾病
+T193	Disease 3349 3353	精神疾病
+T194	Test 3445 3451	粪便隐血试验
+T195	Disease 3584 3587	肠息肉
+T196	Test 3680 3685;3686 3693	血癌胚抗原 (CEA)检测
+T197	Disease 3710 3714	癌前病变
+T198	Test 3778 3783	电子结肠镜
+T199	Anatomy 3801 3803;3804 3806	回肠 末端
+T200	Disease 3812 3814	息肉
+T201	Test 4016 4018	血糖
+T202	Test 4022 4029	葡萄糖氧化酶法
+T203	Test 4284 4286	血糖
+T204	Disease 4363 4365	超重
+T205	Disease 4369 4371	肥胖
+T206	Test 4423 4429	2 h 血糖
+T207	Disease 4451 4454	糖尿病
+T208	Disease 4463 4466	高血压
+T209	Disease 4517 4520	高血压
+T210	Disease 4529 4533	血脂紊乱
+T211	Disease 4725 4728	糖尿病
+T212	Disease 4748 4751	糖尿病
+T213	Test 4989 4992	结肠镜
+T214	Test 5118 5121	结肠镜
+T215	Disease 5144 5150	结肠黏膜病变
+T216	Disease 5205 5209	结肠息肉
+T217	Disease 5240 5245	慢性结肠炎
+T218	Disease 5272 5273;5274 5277	结 肠憩室
+T219	Disease 5304 5309	结肠黑变病
+T220	Disease 5336 5346;5347 5348	结肠黏膜毛细血管扩张 症
+T221	Disease 5379 5383	结肠息肉
+T222	Disease 5394 5398	结肠息肉
+T223	Disease 7182 7186	多发息肉
+T224	Anatomy 7221 7223	直肠
+T225	Anatomy 7230 7234	乙状结肠
+T226	Anatomy 7240 7243	降结肠
+T227	Anatomy 7249 7252	横结肠
+T228	Anatomy 7258 7261	升结肠
+T229	Anatomy 7267 7269	肝曲
+T230	Anatomy 7275 7278	回盲部
+T231	Anatomy 7283 7285	脾曲
+T232	Disease 7300 7305	腺瘤性息肉
+T233	Disease 7312 7317	增生性息肉
+T234	Disease 7323 7328	炎症性息肉
+T235	Disease 7334 7339	混合性息肉
+T236	Test 7346 7350	息肉直径
+T237	Disease 7446 7449	直肠癌
+T238	Anatomy 7463 7467	近侧结肠
+T239	Anatomy 7473 7475;7476 7478	远侧 结肠
+T240	Disease 7515 7519	黏液腺癌
+T241	Disease 7603 7607	结肠息肉
+T242	Disease 7621 7625	结肠息肉
+T243	Disease 7682 7684	息肉
+T244	Test 7705 7711	2 h 血糖
+T245	Test 7717 7721;7722 7723	LDL- C
+T246	Disease 7741 7744	糖尿病
+T247	Test 7814 7817	CEA
+T248	Disease 7863 7867	结肠息肉
+T249	Test 7901 7907	2 h 血糖
+T250	Disease 7924 7927	糖尿病
+T251	Disease 8001 8005	结肠息肉
+T252	Disease 8145 8147;8148 8151	胰岛 素抵抗
+T253	Disease 8160 8164	慢性炎症
+T254	Disease 8165 8173;8174 8178	胰岛素样生长因子 水平增高
+T255	Disease 8185 8189	结肠肿瘤
+T256	Disease 8238 8242	结肠肿瘤
+T257	Disease 8261 8264	糖尿病
+T258	Disease 8294 8298	结肠息肉
+T259	Disease 8387 8393	结肠息肉癌变
+T260	Disease 8451 8455	结肠息肉
+T261	Disease 8496 8500	结肠息肉
+T262	Disease 8519 8521	息肉
+T263	Disease 8525 8529	结肠息肉
+T264	Test 8699 8701	肠镜
+T265	Test 8702 8704	病理
+T266	Disease 8906 8908;8909 8910	结肠 癌
+T267	Test 9014 9017	结肠镜
+T268	Test 9067 9070	结肠镜
+T269	Disease 9112 9118	结肠黏膜病变
+T270	Disease 9167 9173	结肠 息 肉
+T271	Disease 9256 9260	结肠息肉
+T272	Disease 9282 9286	结肠息肉
+T273	Anatomy 9300 9301;9302 9305	左 半结肠
+T274	Disease 9330 9334	多发息肉
+T275	Disease 9377 9381;9382 9383	腺瘤性息 肉
+T276	Disease 9412 9414	息肉
+T277	Disease 9432 9434	息肉
+T278	Disease 9485 9489	结肠息肉
+T279	Disease 9552 9554	腺癌
+T280	Test 9666 9669	结肠镜
+T281	Disease 9691 9695	结肠息肉
+T282	Disease 9744 9746	息肉
+T283	Disease 9759 9763	结肠息肉
+T284	Test 9795 9800;9801 9802	2 h 血 糖
+T285	Disease 9831 9834	糖尿病
+T286	Disease 9877 9881	结肠息肉
+T287	Disease 9895 9899	结肠息肉
+T288	Disease 9956 9957;9958 9961	结 肠息肉
+T289	Disease 10032 10036	结肠肿瘤
+T290	Disease 10069 10073	结肠肿瘤
+T291	Reason 10089 10095	性激素的差异
+T292	Disease 10122 10126	结肠息肉
+T293	Test 10137 10139	血糖
+T294	Disease 10140 10144	结肠肿瘤
+T295	Test 10185 10188;10189 10190	空腹血 糖
+T296	Disease 10209 10216	结肠腺瘤性息肉
+T297	Disease 10238 10242	结肠息肉
+T298	Disease 10263 10267	结肠息肉
+T299	Disease 10349 10354	糖耐量异常
+T300	Disease 10357 10360;10361 10363	结肠大 腺瘤
+T301	Reason 10383 10385	吸烟
+T302	Disease 10386 10390	结肠息肉
+T303	Disease 10400 10404	结肠息肉
+T304	Disease 10442 10444;10445 10447	结肠 息肉
+T305	Disease 10463 10467	结肠息肉
+T306	Disease 10488 10492	结肠息肉
+T307	Disease 10536 10540	结肠息肉
+T308	Disease 10579 10583	恶性肿瘤
+T309	Disease 10589 10591	腺瘤
+T310	Disease 10621 10625	结肠息肉
+T311	Disease 10649 10651;10652 10654	结肠 息肉
+T312	Disease 10700 10703;10704 10708	结肠腺 瘤性息肉
+T313	Reason 10733 10737	腹型肥胖
+T314	Disease 10738 10742	结肠息肉
+T315	Disease 10751 10754;10755 10756	结肠息 肉
+T316	Reason 10827 10831;10832 10834	糖尿病家 族史
+T317	Disease 10835 10839	结肠息肉
+T318	Disease 10852 10855;10856 10857	结肠息 肉
+T319	Reason 10869 10875	糖尿病家族史
+T320	Disease 10907 10909;10910 10912	结肠 息肉
+T321	Disease 11007 11008;11009 11011	糖 尿病
+T322	Disease 11013 11017	结肠息肉
+T323	Disease 11102 11106	结肠息肉
+T324	Disease 11240 11244	结肠息肉
+T325	Disease 3499 3503;3504 3505	糖尿病前 期
+T326	Test 4139 4142	CEA
+T327	Test 4008 4010	血糖
+T328	Test 3948 3949;3950 3951	臀 围
+T329	Level 484 487	中晚期
+T330	Test 3199 3209;3210 3214	75 g 口服葡萄糖 耐量试验
+T331	Level 9606 9608;9609 9610	中晚 期
+T332	Test 707 710	结肠镜
+T333	Disease 2742 2744	肿瘤
+T334	Disease 2773 2777	恶性肿瘤
+T335	Anatomy 2769 2773	消化系统
+T336	Disease 3047 3049	肿瘤
+T337	Disease 3407 3408;3409 3410	癌 症
+T338	Disease 3579 3581	癌症
+T339	Test 3824 3826	活检
+T340	Test 3832 3837	病理学检查
+T341	Treatment 3847 3852	内镜下治疗
+T342	Operation 3854 3860	外科手术治疗
+T343	Test 4561 4564	空腹血
+T344	Disease 4938 4940;4941 4943	结肠 息肉
+T345	Disease 5416 5419	单发息
+T346	Disease 5425 5429	大肠息肉
+T347	Disease 5432 5434	息肉
+T348	Disease 5832 5834	息肉
+T349	Disease 5949 5951	息肉
+T350	Test 6251 6255	癌胚抗原
+T351	Disease 6295 6297	息肉
+T352	Disease 6652 6655	大肠癌
+T353	Disease 6720 6723	糖尿病
+T354	Disease 6755 6757	息肉
+T355	Disease 6861 6863	息肉
+T356	Disease 7102 7104	息肉
+T357	Disease 8442 8444;8445 8447	癌前 病变
+T358	Disease 8590 8592	息肉
+T359	Disease 8759 8763	癌前病变
+T360	Disease 10409 10414	恶性病变的
+T361	Disease 10876 10878	肿瘤
+T362	Disease 11135 11137	息肉
+T363	Test 7405 7407	病理
+T364	Test 7557 7559	病理
+T365	Test 9363 9365	病理
+T366	Test 9530 9532	病理
+T367	Test_Value 556 561	>1 cm
+T368	Reason 583 584;585 590	性 别(男性)
+T369	Test 3553 3557	FOBT
+T370	Test_Value 3558 3560	阳性
+T371	Duration 3909 3913	10 h
+T372	Test 4010 4012	血脂
+T373	Test 4091 4098	高压液相色谱法
+T374	Test 4100 4104	FOBT
+T375	Test_Value 4240 4254	≥6. 1 mmol / L
+T376	Test_Value 4255 4269	<7. 0 mmol / L
+T377	Test_Value 4286 4300	≥7. 8 mmol / L
+T378	Test_Value 4301 4316	<11. 1 mmol / L
+T379	Test_Value 4541 4555	≥1. 7 mmol / L
+T380	Test_Value 4570 4584	<0. 9 mmol / L
+T381	Test_Value 4588 4602	<1. 0 mmol / L
+T382	Test_Value 7350 7355	<1 cm
+T383	Test 7362 7363;7364 7365	直 径
+T384	Test_Value 7366 7374	1 ~ 2 cm
+T385	Test 7380 7382	直径
+T386	Test_Value 7382 7387	>2 cm
+T387	Disease 7497 7499	腺癌
+T388	Disease 7671 7673	息肉
+T389	Reason 7972 7974	性别
+T390	Level 8522 8523;8524 8525	高 危
+T391	Test_Value 8533 8537	≥3 个
+T392	Test 8549 8550;8551 8552	直 径
+T393	Test_Value 8552 8557	>1 cm
+T394	Test_Value 8572 8578	43. 2%
+T395	Test_Value 8581 8586	>1 cm
+T396	Test_Value 8594 8600	14. 8%
+T397	Test 8789 8795	自然人群筛查
+T398	Test 8796 8801	伺机性筛查
+T399	Test 9422 9424	直径
+T400	Test_Value 9425 9430	> 1cm
+T401	Reason 9856 9858	性别
+T402	Test_Value 10190 10208	≥100 或 110 mg / dl
+T403	Reason 10481 10483	饮酒
+T404	Reason 10529 10533	规律运动
+T405	Reason 11209 11211	性别
+T406	Disease 2824 2826	死亡
+T407	Level 7570 7572	I期
+T408	Level 7577 7579	2期
+T409	Level 7584 7586	3期
+T410	Level 7592 7594	4期
+T411	Test_Value 8545 8548	绒毛状
+T412	Reason 10691 10698	高 LDL-C
+T413	Reason 10723 10729	较高体重指数
+T414	Reason 591 594	腰臀比
+T415	Reason 7975 7978	腰臀比
+T416	Reason 9859 9862	腰臀比
+T417	Reason 11212 11215	腰臀比
+T418	Disease 7994 7999	糖尿病前期
+T419	Reason 8286 8291	糖尿病前期
+T420	Reason 8317 8322	糖尿病前期
+T421	Test 4534 4541	空腹血甘油三酯
+T422	Reason 10682 10689	高甘油三酯血症
+T423	Disease 2959 2962	结肠癌
+T424	Disease 3384 3387	结肠癌
+T425	Disease 3509 3512	结肠癌
+T426	Disease 8622 8625	结肠癌
+T427	Disease 10014 10020	结肠癌前病变
+T428	Disease 11262 11265	结肠癌
+T429	Test 339 345	全结肠镜检查
+T430	Disease 527 531	多发息肉
+T431	Test 552 556	息肉直径
+T432	Reason 595 604	餐后 2 h 血糖
+T433	Reason 605 611	糖尿病家族史
+T434	Disease 2705 2706;2707 2709	高 血糖
+T435	Anatomy 3313 3316	下丘脑
+T436	Anatomy 3317 3319	垂体
+T437	Disease 3320 3325	肾上腺疾病
+T438	Anatomy 3330 3331	心
+T439	Anatomy 3332 3333	肝
+T440	Disease 3334 3339	肾功能损害
+T441	Disease 3357 3361	交流障碍
+T442	Disease 3613 3617	慢性便秘
+T443	Disease 3618 3622	慢性腹泻
+T444	Disease 3623 3627	黏液血便
+T445	Disease 3649 3654	慢性阑尾炎
+T446	Operation 3655 3659	阑尾切除
+T447	Disease 3661 3662;3663 3667	慢 性胆囊炎
+T448	Disease 3668 3671	胆结石
+T449	Test 3694 3698	全结肠镜
+T450	Test 3742 3746	全结肠镜
+T451	Test 3873 3877;3878 3883	术前或术 后病理诊断
+T452	Test 4396 4398	血糖
+T453	Test 5075 5085	大便隐血(FOBT)
+T454	Test 5778 5787	餐后 2 h 血糖
+T455	Test 7641 7646	结肠镜检查
+T456	Disease 7651 7655	结肠病变
+T457	Reason 7979 7985	2 h 血糖
+T458	Reason 7986 7989;7990 7993	糖尿病 家族史
+T459	Disease 8153 8159	高胰岛素血症
+T460	Disease 8357 8361	结肠肿瘤
+T461	Test 8400 8405	结肠镜检查
+T462	Disease 8410 8412	息肉
+T463	Disease 8611 8615;8616 8617	糖尿病前 期
+T464	Test 8746 8749	结肠镜
+T465	Test 9040 9043	结肠镜
+T466	Test 9104 9107	结肠镜
+T467	Reason 9863 9869	2 h 血糖
+T468	Reason 9870 9876	糖尿病家族史
+T469	Disease 9928 9932	腹型肥胖
+T470	Test 9934 9940	餐后血糖水平
+T471	Test_Value 9940 9942	较高
+T472	Disease 9946 9949	糖尿病
+T473	Disease 10100 10103;10104 10105	结肠肿 瘤
+T474	Reason 10115 10119	雄性激素
+T475	Test 10256 10262	2 h 血糖
+T476	Test 10321 10327	2 h 血糖
+T477	Test 10337 10343	2 h 血糖
+T478	Test_Value 10343 10345	增高
+T479	Disease 10576 10578	腺瘤
+T480	Reason 10789 10796	结肠肿瘤家族史
+T481	Reason 10900 10906	糖尿病家族史
+T482	Disease 10989 10995	糖尿病家族史
+T483	Reason 11216 11222	2 h 血糖
+T484	Reason 11223 11229	糖尿病家族史
+T485	Test_Value 4376 4377;4378 4391	≥ 25. 0 kg / m2
+T486	Test_Value 4475 4489	≥140 / 90 mmHg
+T487	Test_Value 4429 4443	≥7. 8 mmol / L
+T488	Test_Value 4403 4417	≥6. 1 mmol / L
+T489	Test 8530 8533	腺瘤数
+T490	Test 8561 8570	≥3 个息肉检出率
+T491	Test_Value 8538 8544	高度异型增生

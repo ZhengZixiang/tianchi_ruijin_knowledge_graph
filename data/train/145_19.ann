@@ -1,0 +1,388 @@
+T1	Test 2428 2433	谷丙转氨酶
+T2	Test 3416 3421	谷丙转氨酶
+T3	Test 2415 2420	谷草转氨酶
+T4	Test 3422 3427	谷草转氨酶
+T5	Test 1673 1676	肝功能
+T6	Test 1745 1748	肝功能
+T7	Test 2404 2407	肝功能
+T8	Test 1036 1038;1039 1042	甲状 腺功能
+T9	Test 1677 1682	甲状腺功能
+T10	Test 1930 1935	甲状腺功能
+T11	Test 4861 4866	甲状腺功能
+T12	Test 1425 1427	身高
+T13	Test 1416 1418	体重
+T14	Drug 8 13	131 碘
+T15	Disease 16 24	Graves 病
+T16	Level 25 27	严重
+T17	Disease 27 34	胆汁淤积性黄疸
+T18	Disease 336 344	Graves 病
+T19	Disease 345 355	自身免疫性甲状腺疾病
+T20	Disease 471 479	Graves 病
+T21	Disease 509 515;516 517	Graves 病
+T22	Anatomy 519 521	肝脏
+T23	Disease 524 527	肝肿大
+T24	Disease 528 533	肝功能异常
+T25	Disease 536 538	黄疸
+T26	Drug 573 576;577 580	抗甲状 腺药物
+T27	Drug 581 587	丙基硫氧嘧啶
+T28	Drug 588 592	甲硫咪唑
+T29	Drug 593 596	甲亢平
+T30	Drug 620 624	131碘
+T31	Disease 627 635	Graves 病
+T32	Drug 679 683	131碘
+T33	Drug 774 779	131 碘
+T34	Symptom 788 790	咳嗽
+T35	Symptom 795 797	发热
+T36	Test 861 865;866 869	甲状腺静 态显像
+T37	Disease 896 905	弥漫性毒性甲状腺肿
+T38	Test 907 916	甲状腺吸碘功能试验
+T39	Drug 961 965	甲硫咪唑
+T40	Drug 967 973	丙基硫氧嘧啶
+T41	Drug 983 989	抗甲状腺药物
+T42	Drug 1015 1019	131碘
+T43	Test 1081 1086	甲状腺超声
+T44	Drug 1207 1211	131碘
+T45	Symptom 1271 1278	皮肤及巩膜黄染
+T46	Symptom 1311 1316	双下肢浮肿
+T47	Test 1339 1341	体温
+T48	Test 1363 1364;1365 1366	血 压
+T49	Test 1402 1404	呼吸
+T50	Test_Value 1352 1362	95 次 / min
+T51	Test_Value 1367 1380	134 / 80 mmHg
+T52	Test_Value 1405 1415	20 次 / min
+T53	Test_Value 1419 1424	44 kg
+T54	Test_Value 1428 1434	152 cm
+T55	Symptom 1446 1455;1456 1457	双侧大腿皮肤可见瘀 点
+T56	Symptom 1465 1469	巩膜黄染
+T57	Symptom 1459 1464	双眼球突出
+T58	Symptom 1471 1478	双侧颈静脉充盈
+T59	Test 1605 1608	白细胞
+T60	Test 1623 1625;1626 1629	中性 粒细胞
+T61	Test 1639 1645	凝血酶原时间
+T62	Test 1654 1663	部分活化凝血酶时间
+T63	Test_Value 1609 1622	5. 92×109 / L
+T64	Test_Value 1630 1636	78. 3%
+T65	Test_Value 1646 1653	19. 6 s
+T66	Test_Value 1664 1671	48. 5 s
+T67	Test 1726 1729;1730 1731	腹部超 声
+T68	Disease 1756 1764	Graves 病
+T69	Disease 1765 1766;1767 1768	甲 亢
+T70	Disease 1769 1776	131碘治疗后
+T71	Disease 1777 1786	Graves 眼病
+T72	Disease 1787 1793	甲亢性心脏病
+T73	Disease 1804 1808	肺部感染
+T74	Drug 1845 1848	甲强龙
+T75	Amount 1849 1858	80 mg / d
+T76	Test 1865 1868	胆红素
+T77	Symptom 1888 1896	全身多处瘀点瘀斑
+T78	Test 2034 2040	促甲状腺激素
+T79	Disease 3008 3013	肝功能损害
+T80	Test 3022 3027	甲状腺激素
+T81	Disease 3111 3113	甲亢
+T82	Disease 3117 3125	Graves 病
+T83	Disease 3127 3130	肝损害
+T84	Disease 3138 3144	自身免疫疾病
+T85	Disease 3146 3153	系统性红斑狼疮
+T86	Disease 3154 3160;3161 3162	自身免疫性肝 炎
+T87	Disease 3177 3185	甲状腺和肝脏损害
+T88	Test 3206 3209	肝活检
+T89	Disease 3260 3266	甲亢性心脏病
+T90	Disease 3268 3272	心力衰竭
+T91	Disease 3303 3307	肝脏损害
+T92	Disease 3311 3314	肝硬化
+T93	Disease 3325 3327	感染
+T94	Disease 3328 3330	休克
+T95	Disease 3336 3338;3339 3340	肝损 害
+T96	Disease 3385 3387	甲亢
+T97	Disease 3396 3399	肝损害
+T98	Test 3431 3436	碱性磷酸酶
+T99	Test 3451 3456	血清胆红素
+T100	Disease 3472 3477	肝功能损害
+T101	Disease 3478 3481	肝肿大
+T102	Disease 3483 3488	病毒性肝炎
+T103	Drug 3508 3514	抗甲状腺药物
+T104	Drug 3515 3519	甲硫咪唑
+T105	Drug 3520 3526	丙基硫氧嘧啶
+T106	Drug 3528 3531	甲亢平
+T107	Disease 3536 3541	肝功能损害
+T108	Disease 3553 3560;3561 3564	抗甲状腺药物性 肝损害
+T109	Disease 3590 3594	变态反应
+T110	Drug 3611 3615	131碘
+T111	Disease 3619 3627	Graves 病
+T112	Drug 3633 3637	131碘
+T113	Anatomy 3652 3654	肝脏
+T114	Anatomy 3658 3660	肝脏
+T115	Anatomy 3669 3672	肝细胞
+T116	Drug 3714 3719	131 碘
+T117	Disease 3782 3789	甲状腺功能减退
+T118	Disease 3818 3820	甲亢
+T119	Disease 3824 3826	甲亢
+T120	Disease 3855 3862	甲状腺功能减退
+T121	Disease 3872 3879;3880 3883	一过性放射性甲 状腺炎
+T122	Disease 3885 3890	甲状腺毒症
+T123	Disease 3895 3900	甲状腺危象
+T124	Drug 3916 3920	131碘
+T125	Disease 3924 3929	甲状腺危象
+T126	Drug 4041 4044;4045 4046	131 碘
+T127	Disease 4054 4059	甲状腺危象
+T128	Test 4075 4077	超声
+T129	Test 4098 4107	24 h 碘摄取率
+T130	Drug 4218 4222	131碘
+T131	Disease 4225 4234	Graves 甲亢
+T132	Drug 4246 4251	131 碘
+T133	Disease 4255 4261;4262 4264	Graves 甲亢
+T134	Disease 4270 4279	Graves 甲亢
+T135	Drug 4279 4284	131 碘
+T136	Drug 4364 4370	抗甲状腺药物
+T137	Drug 4396 4401	131 碘
+T138	Disease 4424 4429	甲亢性肌病
+T139	Drug 4466 4470	131碘
+T140	Disease 4479 4485	甲亢性心脏病
+T141	Drug 4490 4494	131碘
+T142	Disease 4532 4537	肝功能受损
+T143	Drug 4545 4548	放射碘
+T144	Drug 4578 4584	抗甲状腺药物
+T145	Level 4587 4589	重度
+T146	Disease 4589 4591	甲亢
+T147	Disease 4598 4605	肝功能明显异常
+T148	Disease 4609 4611	黄疸
+T149	Drug 4613 4617	131碘
+T150	Test 4664 4671	游离甲状腺激素
+T151	Disease 4690 4698	Graves 病
+T152	Drug 4701 4704	放射碘
+T153	Drug 4726 4732	抗甲状腺药物
+T154	Drug 4745 4751	抗甲状腺药物
+T155	Drug 4782 4786	131碘
+T156	Drug 4829 4833	131碘
+T157	Disease 4843 4845;4846 4848	心力 衰竭
+T158	Disease 4849 4851	感染
+T159	Symptom 4899 4901	气促
+T160	Symptom 4903 4907	不能平卧
+T161	Drug 4915 4921	抗甲状腺药物
+T162	Drug 4940 4944	131碘
+T163	Disease 4962 4964;4965 4970	胆汁 淤积性黄疸
+T164	Disease 4973 4978	肝功能受损
+T165	Disease 5017 5022	肝功能损害
+T166	Test 5044 5049	甲状腺激素
+T167	Drug 5059 5063	131碘
+T168	Anatomy 5074 5081	甲状腺滤泡细胞
+T169	Disease 5110 5114;5115 5116	病毒性肝 炎
+T170	Disease 5117 5124	自身免疫性肝炎
+T171	Disease 5125 5132	胆管梗阻性疾病
+T172	Anatomy 5147 5154	甲状腺滤泡细胞
+T173	Disease 5188 5193	肝功能损害
+T174	Drug 5214 5218	131碘
+T175	Test 5229 5230;5231 5235	甲 状腺激素
+T176	Anatomy 5240 5242	肝脏
+T177	Disease 5282 5287;5288 5289	甲亢性心脏 病
+T178	Disease 5290 5294	心力衰竭
+T179	Disease 5295 5297	感染
+T180	Disease 5304 5309	肝功能损害
+T181	Disease 5322 5330	Graves 病
+T182	Disease 5353 5356	肝损害
+T183	Disease 5378 5386	Graves 病
+T184	Disease 5423 5431	Graves 病
+T185	Drug 5466 5472	甲基强的松龙
+T186	Level 5476 5478	重症
+T187	Amount 5499 5508	80 mg / d
+T188	Amount 5521 5523;5524 5530	40 mg / d
+T189	Amount 5543 5552	20 mg / d
+T190	Drug 5572 5577	131 碘
+T191	Disease 5581 5589	Graves 病
+T192	Drug 5606 5609	强的松
+T193	Drug 5622 5625	强的松
+T194	Amount 5630 5639	60 mg / d
+T195	Drug 5671 5678	熊去氧胆酸利胆
+T196	Drug 5695 5700	糖皮质激素
+T197	Disease 5710 5713	肝损害
+T198	Drug 5719 5724	糖皮质激素
+T199	Disease 5726 5734	Graves 病
+T200	Disease 5786 5794	Graves 病
+T201	Disease 5811 5816	肝功能损害
+T202	Disease 5834 5836	死亡
+T203	Drug 5844 5849	131 碘
+T204	Drug 5861 5865	131碘
+T205	Drug 5954 5958	131碘
+T206	Disease 2827 2835	Graves 病
+T207	Anatomy 369 374	心血管系统
+T208	Anatomy 375 379	神经系统
+T209	Anatomy 380 385	内分泌系统
+T210	Anatomy 386 390	消化系统
+T211	Amount 1020 1028	10. 1 mC
+T212	Amount 1211 1219	(20 mCi)
+T213	Treatment 1814 1816	护肝
+T214	Treatment 1825 1833	维持水电解质平衡
+T215	Treatment 1835 1839	营养支持
+T216	Test 1948 1957	总三碘甲状腺原氨酸
+T217	Test 1969 1978	总四碘甲状腺原氨酸
+T218	Test 1990 2000	游离三碘甲状腺原氨酸
+T219	Test 2012 2022	游离四碘甲状腺原氨酸
+T220	Test 2442 2447	碱性磷酸酶
+T221	Test 2456 2459	总蛋白
+T222	Test 2468 2477	γ-谷氨酰基转移酶
+T223	Test 2486 2490	总胆红素
+T224	Test 2502 2507	直接胆红素
+T225	Test 3216 3218	抗体
+T226	Drug 4116 4119	放射碘
+T227	Anatomy 4639 4642	甲状腺
+T228	Level 4755 4757	严重
+T229	Test 5029 5034	实验室检查
+T230	Anatomy 5064 5067	甲状腺
+T231	Treatment 5359 5365	全身支持疗法
+T232	Treatment 5366 5370	护肝治疗
+T233	Drug 5418 5420	激素
+T234	Treatment 5603 5605	护肝
+T235	Treatment 5668 5670	护肝
+T236	Treatment 5679 5681;5682 5686	营养 支持治疗
+T237	Duration 783 787	14 d
+T238	Duration 791 794	1 周
+T239	Test_Value 950 954	峰值前移
+T240	Test_Value 1102 1114	前后径 26. 1 mm
+T241	Test_Value 1115 1127	左右径 30. 8 mm
+T242	Test_Value 1143 1155	前后径 31. 8 mm
+T243	Test_Value 1156 1168	左右径 31. 4 mm
+T244	Symptom 1480 1486;1487 1497	双侧甲状腺2 度肿大,质中,无压痛
+T245	Symptom 1499 1508	左下肺可闻及湿啰音
+T246	Symptom 1510 1516;1517 1518	心界向两侧扩 大
+T247	Test 1519 1521	心率
+T248	Test_Value 1522 1532	95 次 / min
+T249	Test_Value 1533 1535	律齐
+T250	Test_Value 1536 1546	瓣膜区未闻及明显杂音
+T251	Symptom 1548 1554;1555 1567	肝右肋下 1 cm 可及,质软,无触痛
+T252	Test 1569 1573	墨菲氏征
+T253	Test_Value 1573 1575	阴性
+T254	Test 1577 1582	肝颈回流征
+T255	Test_Value 1582 1584	阳性
+T256	Symptom 1586 1587;1588 1597	双 下肢重度凹陷性水肿
+T257	Test_Value 1870 1875	进行性升高
+T258	Anatomy 3075 3084	肝小叶中央区域细胞
+T259	Anatomy 3042 3046	内脏组织
+T260	Anatomy 3248 3250;3251 3252	肝细 胞
+T261	Test_Value 3427 3429	升高
+T262	Test_Value 3436 3438	升高
+T263	Test_Value 3447 3449	升高
+T264	Test_Value 3456 3458	升高
+T265	Anatomy 3641 3644	消化道
+T266	Reason 3968 3972	过度劳累
+T267	Reason 3973 3975;3976 3980	极度 精神刺激
+T268	Reason 3995 3998	糖尿病
+T269	Reason 4032 4034	劳累
+T270	Test_Value 4109 4112	50%
+T271	Test_Value 4092 4096	42 g
+T272	Drug 4322 4327	131碘剂
+T273	Test_Value 4527 4529	较高
+T274	Test_Value 4681 4688	2 ~ 3 倍
+T275	Test_Value 4870 4872	下降
+T276	Duration 5558 5562	14 d
+T277	Duration 5509 5516	2 ~ 3 d
+T278	Duration 5531 5538	4 ~ 7 d
+T279	Duration 5650 5653	7 周
+T280	Amount 4148 4160	70 ~ 120 滋Ci
+T281	Duration 4800 4804	1 个月
+T282	Disease 430 435	肝功能异常
+T283	Disease 420 428	Graves 病
+T284	Disease 437 439	死亡
+T285	Test 490 493	肝功能
+T286	Disease 542 544;545 550	甲状 腺功能亢进
+T287	Disease 554 558	性肝损害
+T288	SideEff 598 604	中毒性肝损害
+T289	SideEff 606 613	胆汁淤积性黄疸
+T290	Level 637 639	严重
+T291	SideEff 640 643	肝损害
+T292	Disease 686 694	Graves 病
+T293	Level 697 699	严重
+T294	SideEff 699 706	胆汁淤积性黄疸
+T295	Disease 760 768	Graves 病
+T296	Symptom 798 802	皮肤黄染
+T297	Duration 803 806	3 d
+T298	Disease 850 858	Graves 病
+T299	Disease 870 878	甲状腺弥漫性肿大
+T300	Test_Value 917 927	3 h 94. 5%
+T301	Test_Value 929 931;932 937	24 h 50%
+T302	Test_Value 939 949	甲状腺摄131碘增高
+T303	Symptom 1069 1071	气促
+T304	Symptom 1072 1076	不能平卧
+T305	Test_Value 1087 1098;1099 1101	甲状腺左叶上下径 45 mm
+T306	Test_Value 1128 1139;1140 1142	甲状腺右叶上下径 45 mm
+T307	Test_Value 1169 1183	峡部前后径 12. 9 mm
+T308	Test 1231 1234	肝功能
+T309	Test 1226 1227;1228 1230	甲 状腺
+T310	Symptom 1280 1284	腹痛腹泻
+T311	Symptom 1285 1289	恶心纳差
+T312	Symptom 1290 1294;1295 1297	大便次数 增多
+T313	Symptom 1301 1303	发热
+T314	Symptom 1304 1306	咳嗽
+T315	Symptom 1307 1310	咳黄痰
+T316	Symptom 1317 1319	气促
+T317	Symptom 1320 1324;1325 1331	夜间不能 平卧较前加重
+T318	Test 1349 1351	脉搏
+T319	Test_Value 1342 1348	36. 9℃
+T320	Symptom 1436 1445	全身皮肤黄染、湿润
+T321	Disease 1695 1700	病毒性肝炎
+T322	Disease 1702 1709	自身免疫性肝炎
+T323	Disease 1710 1712	溶血
+T324	Test_Value 1731 1737	未见胆管扩张
+T325	Level 1794 1799	心功能3级
+T326	Drug 1817 1822	熊去氧胆酸
+T327	Disease 1913 1919	呼吸循环衰竭
+T328	Disease 1919 1921	死亡
+T329	Disease 2837 2840	肝损害
+T330	Test 2871 2876	甲状腺激素
+T331	Disease 2891 2896	肝功能损害
+T332	Test 2939 2944	甲状腺激素
+T333	Anatomy 2946 2949;2950 2954	线粒体 依赖途径
+T334	Test 2969 2974	甲状腺激素
+T335	Test 2980 2994	二磷酸尿苷葡萄糖醛酰基转移酶
+T336	Test 2998 3003	胆红素代谢
+T337	Test 3033 3037;3038 3039	基础代谢 率
+T338	Anatomy 3092 3093;3094 3096	肝 细胞
+T339	Reason 3285 3290	肝静脉淤血
+T340	Reason 3293 3300	肝小叶中央坏死
+T341	Disease 3357 3370	Graves 病相关肝损害
+T342	Test 3406 3411	肝功能检查
+T343	Test_Value 3412 3414	异常
+T344	Test 3441 3447	谷氨酰转肽酶
+T345	Disease 3489 3495	抗甲状腺药物
+T346	Disease 3499 3502	肝损害
+T347	Disease 3583 3588	肝细胞损伤
+T348	Method 3637 3639	口服
+T349	Anatomy 3679 3683	肝脏细胞
+T350	Anatomy 3705 3708	肝细胞
+T351	Level 3931 3933	严重
+T352	Disease 3933 3936	肝损害
+T353	Reason 3947 3949	感染
+T354	Disease 3953 3958	呼吸道感染
+T355	Reason 3965 3967	创伤
+T356	Reason 3984 3986	发热
+T357	Reason 3987 3989	腹泻
+T358	Reason 4002 4008;4009 4012	外科手术准备 不充分
+T359	Reason 4017 4028	131碘治疗后出现感冒
+T360	Reason 4029 4031	腹泻
+T361	Test 4079 4084	甲状腺大小
+T362	Anatomy 4136 4139	甲状腺
+T363	Drug 4168 4171	放射碘
+T364	Anatomy 4337 4340	甲状腺
+T365	Disease 4416 4421;4422 4423	甲亢性心脏 病
+T366	Drug 4454 4460	抗甲状腺药物
+T367	Test 4518 4525	基础甲状腺激素
+T368	Disease 4757 4759	黄疸
+T369	Disease 4760 4765	肝功能受损
+T370	Symptom 4886 4891	高代谢症状
+T371	Treatment 4986 4989	人工肝
+T372	Disease 5007 5014	胆汁淤积性黄疸
+T373	Drug 5137 5141	131碘
+T374	Disease 5158 5168	一过性放射性甲状腺炎
+T375	Test 5174 5179	甲状腺激素
+T376	Disease 5334 5337	肝损害
+T377	Drug 5387 5393	抗甲状腺药物
+T378	Disease 5395 5398	肝损害
+T379	Drug 5432 5438	抗甲状腺药物
+T380	Disease 5441 5442;5443 5445	肝 损害
+T381	Disease 5488 5491	肝损害
+T382	Disease 5479 5487	Graves 病
+T383	Level 5591 5593	严重
+T384	SideEff 5593 5600	胆汁淤积性黄疸
+T385	Disease 5738 5741	肝损害
+T386	Drug 5797 5801	131碘
+T387	Test 5885 5890	甲状腺激素
+T388	Test 5918 5923	甲状腺激素

@@ -1,0 +1,288 @@
+基础研究
+基金项目:湖北省教育厅科学技术研究项目(B2014018)
+清);中南大学湘雅医院消化科(刘霆);湖北科技学院糖尿病与心脑血
+管病变实验室(余薇、蔡飞、刘超)
+转录共激活因子在金雀异黄酮促进小鼠骨髓
+间充质干细胞向成骨细胞分化过程中的作用
+廖清船  刘霆  任平  张又枝  余薇  蔡飞  闵清  刘超
+[摘要]   目的   研究转录共激活因子( TAZ) 在金雀异黄酮(Gen) 促进小鼠骨髓间充质干细胞
+(BMSCs)向成骨细胞分化过程中的作用。 方法 全骨髓贴壁法原代培养小鼠 BMSCs,测定碱性磷酸酶
+(ALP)活性、钙(Ca)沉积量、骨唾液酸蛋白(BSP)和骨钙素(OC)表达水平反映 BMSCs 向成骨细胞分化状
+况;设计并合成针对 TAZ 的 siRNA(siTAZ)转染 BMSCs,在成骨定向分化培养基中添加 Gen,比较 siTAZ 转
+染组与 siTAZ 未转染组成骨细胞分化状况;免疫共沉淀实验观察 TAZ 和成骨细胞特异性转录因子 cbfa1 的
+结合,并观察 Gen 对 TAZ 表达及其与 cbfa1 结合的影响。 结果 BMSCs 向成骨细胞诱导分化过程检测到
+TAZ 表达,siTAZ 转染后 ALP 活性、Ca 沉积量显著降低。 Gen 剂量依赖性(0. 01 μmol / L、0. 1 μmol / L、
+1 μmol / L)刺激 TAZ 蛋白表达增加;Gen(1 μmol / L)不仅增加 TAZ 总蛋白表达,还促使 TAZ 向细胞核内移
+位,Gen(1 μmol / L)显著提高培养细胞 ALP 活性、Ca 沉积量以及 BSP 和 OC 表达水平,而在 siTAZ 转染组则
+未见明显变化;免疫共沉淀证实 TAZ 可以直接与 cbfa1 结合,Gen(1 μmol / L)可使 TAZ 与 cbfa1 结合增强。
+结论 TAZ 参与了 BMSCs 向成骨细胞分化过程,Gen 可通过增强 TAZ 表达及核移位促进 BMSCs 向成骨细
+胞分化。
+[关键词]   金雀异黄酮; 骨髓间充质干细胞; 成骨细胞分化; 转录共激活因子
+Role of TAZ in genistein induced osteoblastogenic differentiation of mouse bone marrow-derived mesenchymal
+stem cells Liao Qingchuan*, Liu Ting, Ren Ping, Zhang Youzhi, Yu Wei, Cai Fei, Min Qing, Liu Chao. *School
+of Pharmacy, Hubei University of Science and Technology, Xianning 437100, China
+[Abstract]  Objective  To investigate the role of transcriptional-coactivator with PDZ-binding motif(TAZ) in
+genistein-induced osteoblastogenic differentiation of mouse bone marrow-derived mesenchymal stem cells
+(BMSCs). Methods Mouse BMSCs were cultured in phenol red-free α-MEM containing osteogenic supplements for
+inducing osteogenic differentiation. BMSCs were transfected with siRNA-TAZ and treated with genistein. The temporal
+sequence of osteoblastic differentiation in BMSCs cultures was assayed by measuring alkaline phosphatase activity
+(ALP) and calcium deposition. The mRNA expression of bone sialoprotein ( BSP) and osteocalcin ( OC) were
+detected by reverse transcription-polymerase chain reaction(RT-PCR). The binding interaction between TAZ and
+cbfa1 was identified by co-immunoprecipitation. Results TAZ expression was detected during the induction of
+osteogenic differentiation, the ALP activity and calcium deposition were significantly decreased in BMSCs which were
+transfected with siRNA-TAZ. Genistein(0. 01-1 μmol / L) exhibited a dose-dependent effect on TAZ expression in
+mouse BMSCs cultures. Treatment with genistein ( 1 μmol / L) resulted in increased ALP avtivity and calcium
+deposition of BMSC cultures as function of time. Genistein(1 μmol / L) also promoted the nuclear localization of TAZ
+and augmented the interaction between TAZ and cbfa1, and by which upregulated cbfa1-mediated gene expression
+such as BSP and OC. However, the ALP avtivity and calcium deposition, as well as the expression of BSP and OC were
+not promoted by genistein in BMSCs transfected with siRNA-TAZ. Conclusion These data suggest that the TAZ plays
+an important role in genistein-induced osteoblastic differentiation of mouse BMSCs cultures.
+[Key words]   Genistein; Bone marrow-derived mesenchymal stem cells; Osteoblastic differentiation;
+Transcriptional-coactivator with PDZ-binding motif
+(Chin J Endocrinol Metab, 2016, 32: 133-138)
+骨质疏松是以骨质量的丢失以及骨组织的退变为
+特征的骨代谢疾病,研究发现其发病病因及愈后恢复
+与骨髓间充质干细胞(BMSCs)的增殖和分化密切相
+关[1]。 金雀异黄酮( genistein,以下简称 Gen)是一类
+植物来源的化合物,其结构与雌激素类似并具有弱雌
+激素样活性,近年来 Gen 因具有防治骨质疏松的功能
+而成为研究热点,但其作用机制尚未完全清楚。
+TAZ ( transcriptional co-activator with PDZ binding
+motif)是近年来新发现的一个具有 PDZ 基序的转录共
+激活因子,可通过与多种转录因子结合发挥生物功能,
+如:TAZ 与成骨细胞特异性转录因子 cbfa1 结合可促
+进 BMSCs 向成骨分化[2],与 PPARγ 结合则会抑制
+BMSCs 向脂肪细胞方向分化[3],而 TAZ 功能本身也受
+多种细胞因子及小分子物质调控[4]。 我们前期研究
+发现,BMSCs 在 Gen 作用下出现 cbfa1 活性增高并伴
+向成骨细胞分化趋势增强[5],但 TAZ 是否参与了 Gen
+诱导成骨细胞分化的过程尚未见报道。 本实验拟利用
+RNA 干扰技术沉默 TAZ 基因,并观察其对 Gen 诱导
+BMSCs 成骨性分化的影响,以进一步明确 Gen 防治骨
+质疏松的机制,为治疗骨质疏松性骨折提供新的思路。
+材料和方法
+一、 材料
+α-MEM、DMEM、胎牛血清(FBS)、青-链霉素溶液
+(P / S)、十二烷基磺酸纳(SDS)、Tween-20、丙烯酰胺、
+N,N忆-亚甲双丙烯酰胺、TEMED、过硫酸铵购自 GIBCO
+BRL(Grand Island, NY, USA)。 Genistein、蛋白酶 E、
+乙二胺四乙酸(EDTA)、维生素 C(Vit C)、β-磷酸甘油
+(β-GP)、p-硝基酚 ( pNP)、二乙醇胺、 p-磷酸硝基酚
+(pNPP)、二甲基亚砜 ( DMSO) 及钙试剂盒均购自
+Sigma 公司。 TAZ、cbfa1、Lambin、β-actin 单克隆抗体
+购自 Santa Cruz 公司。 核蛋白和胞浆蛋白提取试剂盒
+购自南京凯基生物科技发展有限公司,免疫共沉淀试
+剂盒(Protein A)购自 Roche 公司,GelDoc 2000 凝胶成
+像系统购自美国 BIO-RAD 公司。
+二、 方法
+1. 细胞培养及 TAZ-小干扰 RNA(siRNA)转染:选
+6 ~ 8 周昆明种雌性小鼠颈椎脱臼,无菌操作分离股骨
+和胫骨,剪去干骺端,用含 15% FBS、100 KU / L 青霉素
+G、100 mg / L 硫酸链霉素的 α-MEM(含酚红)冲洗骨髓
+腔得到骨髓细胞悬液,镜下计数,并将细胞浓度调整为
+1×107 / mL,种入 12 孔培养板,置 37℃、5% CO2培养箱
+内培养,第 3 d 换液一半,在第 5 d 全部换液后贴壁生
+长细胞即为 BMSCs。 培养基中添加成骨细胞分化添
+加剂(25 mg / L 维生素 C 和 5 mmol / L β-磷酸甘油),以
+诱导 BMSCs 向成骨细胞分化(并计为 0 d),继续培养
+12 d, 每 3 d 更换培养基 1 次。 TAZ-小干扰 RNA
+(siRNA)转染:TAZ-siRNA 序列:5'-GAGGTCAAACAG-
+GGATACTACATTA-3';对照 siRNA (Control siRNA) 序
+列:5'-GAUUACGUACUGAUCAGCUGCCGCA-3'。 BMSCs
+细胞培养至 40% ~50%融合时进行转染,siRNA 浓度调
+整为30 μmol / L,按照说明书制备 siRNA-LipofectamineTM
+2000 混合物,加入 12 孔培养板,置 37℃、5% CO2培养
+箱内培养孵育,24 h 后提取蛋白样品,Western 印迹检
+测转染效率。
+2. 细胞内碱性磷酸酶(ALP)活性测定:在成骨性
+诱导培养 0、3、6、9、12 d 时进行 ALP 活性测定,具体方
+法:用 PBS 洗涤细胞 2 次,0. 04 g / L 蛋白酶 E(含 1. 25
+mmol / L EDTA)消化并收集细胞。 细胞内 ALP 活性测
+定底物为 9×10-2mol / L pNPP,反应液 pH 为 10. 3,37℃
+反应 30 min,加 0. 1 mol / L NaOH 终止反应,400 nm 处
+测定吸光度,同时用考马斯亮蓝测定培养细胞蛋白质
+3. 钙(Ca)沉积量测定:在成骨性诱导培养 0、3、
+6、9、12 d 进行 Ca 沉积量测定,具体方法:用 PBS 洗涤
+细胞 2 次,0. 6 N HCl 200 滋l 脱钙 24 h,用 Sigma 钙测定
+试剂盒检测样本 HCl 上清液中钙浓度。 细胞脱钙后,
+加入裂解液(0. 1 mol / L NaOH、0. 1% SDS)200 滋l 裂解
+细胞,用考马斯亮蓝法测定细胞裂解液中蛋白质含量。
+Ca 沉积量表示为 mg / g pro。
+4. RT-PCR 检测成骨细胞分化相关基因表达:在
+成骨性诱导培养 9 d 提取总 RNA,检测骨唾液酸蛋白
+(BSP)mRNA 表达水平,在成骨性诱导培养 12 d 提取
+总 RNA,检测骨钙素 ( OC) mRNA 表达水平。 按照
+Trizol 试剂说明书提取总 RNA,测定总 RNA 含量和纯
+度,取 1 μg 总 RNA 用于逆转录合成 cDNA 第一链,再
+以其为模板进行 PCR 扩增。 利用 Primers 软件设计目
+的基因引物,BSP 上游引物:5'-CTCGGGTGTAACAGC-
+TAGCTAC-3',下游引物:5'-CGTTCAGAAGGACAGCT-
+GTCTG-3';OC 上游引物:5'-CTCTGTCTCTCTGACCTC-
+ACAG-3',下游引物:5'-GGAGCTGCTGTGACATCCAT-
+AC-3';内参 GAPDH 上游引物:5'-TGGCACAGTCAA-
+GGCCTGAGA-3',下游引物:5'-CTTCTGAGTGGCAGT-
+GATGG-3',由上海生工公司合成。 PCR 反应体系为 2
+滋l 逆转录产物、上下游引物各 0. 8 滋l,按照试剂盒说
+明加入其余试剂,共 20 滋l。 扩增条件为:预变性 95℃
+30 s,进入循环,95℃ 30 s,60℃ 70 s,70℃ 30 s,35 个循
+环后测定 △CT值,以 GAPDH 为内参照,2-△△Ct表示基因
+mRNA 相对表达量。
+5. Western 印迹检测:取贴壁培养的细胞,弃培养
+液,用冰冷的 PBS 洗涤细胞 3 次,胰酶消化后离心收
+集细胞。 按试剂盒说明依次提取胞浆和胞核蛋白,用
+Bradford 方法进行蛋白质浓度测定。 取提取的蛋白质
+样品(25 μg)加入等体积上样缓冲液,100℃煮 5 min,
+10% SDS-PAGE 电泳后电转移至 PVDF 膜上,封闭液
+室温封闭 1 h,1 : 1 000 一抗 4 益孵育过夜,TBST 洗涤
+3 次,1 : 2 000 二抗室温孵育 1 h,TBST 洗涤 3 次,ECL
+发光显影。
+6. 免疫共沉淀实验:具体操作按试剂盒说明书进
+行,收集细胞并加入细胞裂解液,14 000×g 4℃离心 10
+min,收集上清液,加 50 滋l 蛋白 A 4℃ 预吸附 4 h,
+14 000×g 4℃离心 30 s 后收集上清液,加 1 μg cbfa1 抗
+体或 TAZ 抗体 4℃  3 h,然后加 50 滋l 蛋白 A4℃ 过
+夜,14 000×g 4℃离心 30 s,弃上清,沉淀用 1 mL 缓冲
+液冲洗后用电泳缓冲液悬浮, 100℃ 煮沸 3 min,
+12 000×g 离心 20 s,收集上清 SDS-PAGE 电泳后转移
+到硝酸纤维素膜上,4℃封闭过夜,然后 Western 印迹
+检测。
+三、 统计学处理
+各组实验至少重复 3 次,实验数据以 x-± s表示,采
+用 SPSS 19. 0 统计软件包进行统计分析,用 t 检验进行
+组间比较,P<0. 05 为差异有统计学意义。
+结    果
+一、 TAZ 在成骨细胞分化过程中的表达
+BMSCs 在成骨细胞分化添加剂诱导下,成骨细胞
+转录因子 cbfa1 持续表达(图 1A),细胞内 ALP 活性、
+细胞培养 Ca 沉积量均呈时间依赖性增加(图 1C-D),
+提示 BMSCs 向成骨细胞分化。 Western 印迹结果显
+示,TAZ 蛋白在培养 3 d 后开始出现表达,此后一直持
+续至整个培养周期(12 d)(图 1A)。
+二、 TAZ-siRNA 转染对成骨细胞分化的影响
+Western 印 迹 结 果 显 示, BMSCs 转 染 Control-
+siRNA(Coni)24 h 后 TAZ 表达无明显变化,转染 TAZ-
+siRNA(TAZi)后,BMSCs 细胞 TAZ 蛋白表达显著降
+低,但 cbfa1 蛋白表达无显著变化(图 1B)。 BMSCs 在
+成骨细胞分化添加剂诱导培养 12 d,TAZ-siRNA 转染
+组与未转染组相比,ALP 活性、Ca 沉积量均显著降低
+(P<0. 05,图 1C-D)。
+三、 TAZ-siRNA 转染对 Gen 促进 BMSCs 向成骨细
+胞分化的影响
+BMSCs 在成骨性分化诱导下,Gen(1 μmol / L)处
+理组 ALP 活性、Ca 沉积量显著增加;以 GAPDH mRNA
+为内参,在诱导培养 9 d 和 12 d 时分别检测 BSP 和 OC
+的 mRNA 表达水平,RT-PCR 结果显示 Gen 处理组
+BSP 和 OC 表达显著增加 (P < 0. 05)。 BMSCs 转染
+TAZ-siRNA 后,Gen 刺激下 ALP 活性、Ca 沉积量、BSP
+和 OC 表达无显著变化(图 2)。
+四、 Gen 对 TAZ 蛋白表达和核移位的影响
+Western 印迹结果显示,BMSCs 在成骨性分化诱
+导下,Gen(0. 01 μmol / L,0. 1 μmol / L,1 μmol / L)剂量
+依赖性增加 TAZ 总蛋白表达(图 3A);分别收集胞浆
+注:TAZ:转录共激活因子 Transcriptional-coactivator with PDZ-binding motif
+图 1  TAZ 在成骨细胞分化过程中的表达
+Fig 1  TAZ expression during osteogenic differentiation of BMSCs
+注:TAZ:转录共激活因子 Transcriptional-coactivator with PDZ-binding motif
+图 2  TAZ-siRNA 转染逆转 Gen 促成骨细胞分化效应
+Fig 2  Reversal effect of TAZ-siRNA transfection on Gen-induced osteogenic differentiation in BMSCs cultures
+注:TAZ:转录共激活因子 Transcriptional-coactivator with PDZ-binding
+motif
+图 3  Gen 对 TAZ 蛋白表达及核移位的影响
+Fig 3  Effects of Gen on the expression and nuclear localization of TAZ
+蛋白和胞核蛋白, Western 印迹结果显示,浓度为
+1 μmol / L 的 Gen 刺激不仅使胞浆 TAZ 蛋白表达增加,
+同时胞核内 TAZ 蛋白亦出现明显增加,提示存在 TAZ
+向胞核内移位(图 3B)。
+五、 TAZ 和 cbfa1 的免疫共沉淀
+BMSCs 经裂解液裂解,收集蛋白进行免疫共沉淀
+实验。 在蛋白悬液中进行 TAZ 的免疫吸附和洗脱后,
+洗脱液中可以检测到 cbfa1(图 4A), 同样在总悬液中
+注:TAZ:转录共激活因子 Transcriptional-coactivator with PDZ-binding
+motif
+图 4  TAZ 和 cbfa1 的免疫共沉淀分析
+Fig 4  Identification of interaction between TAZ and cbfa1 by
+coimmunoprecipitation
+进行 cbfa1 的免疫吸附和洗脱后,洗脱液中可以检测
+到 TAZ(图 4B)。 而蛋白悬液中进行 IgG 的免疫吸附
+和洗脱后,洗脱液中既没有检测到 TAZ,也没有检测到
+cbfa1,说明 TAZ 和 cbfa1 可特异性结合。 在 Gen
+(1 μmol / L)作用下,TAZ 和 cbfa1 特异性结合显著增
+加(图 4C)。
+讨    论
+Gen 属异黄酮类植物雌激素,研究显示 Gen 可通
+过调节骨代谢,促进骨形成而发挥防治骨质疏松的功
+能,我们早期研究亦发现 Gen 可促进 BMSCs 向成骨细
+胞分化,但其作用机制尚不明确。 植物雌激素药理作
+用广泛,作用机制复杂,可能涉及到雌激素受体、丝分
+裂原激活蛋白激酶(MAPKs)激活、细胞核因子-κB 受
+体活化因子配体(RANKL) /骨保护素(OPG)介导等机
+制[6]。
+本次研究结果显示:(1)BMSCs 向成骨细胞诱导
+分化过程伴有 TAZ 蛋白表达,BMSCs 转染 TAZ-siRNA
+后,其向成骨细胞分化显著受抑制; (2) Gen 增强
+BMSCs 成骨性分化同时伴有 TAZ 蛋白表达增加及
+TAZ 向胞核移位,若预先以 TAZ-siRNA 转染 BMSCs
+后,则由 Gen 刺激的成骨分化效应显著受抑制;(3)免
+疫共沉淀实验证实 TAZ 和成骨细胞转录因子 cbfa1 的
+特异性结合,Gen 刺激可增强 TAZ 和 cbfa1 特异性结
+合。 从以上实验结果可以看出:(1) TAZ 可靶向调控
+BMSCs 向成骨细胞分化过程; (2) Gen 可通过刺激
+TAZ 表达及核移位,促进 BMSCs 向成骨细胞的分化。
+TAZ 是 Hippo 信号下游的一个转录共激活因子,
+在细胞核中积累的 TAZ 可以与许多转录因子结合调
+控基因表达。 研究发现,TAZ 是间充质干细胞分化的
+转录调节因子,TAZ 与 cbfa1 结合能强有力地促进成
+骨细胞分化,另一方面通过抑制 PPARγ 基因转录,抑
+制间充质干细胞向脂肪细胞分化[2-3,7];本研究将小鼠
+骨髓来源 BMSCs 转染 TAZ-siRNA 后在成骨条件培养,
+出现 Ca 沉积作用丧失、ALP 活性降低,成骨细胞分化
+缺陷,但 cbfa1 表达却无显著改变,进一步提示 TAZ 可
+能是通过调节 cbfa1 的转录活性实现对成骨细胞分化
+的调控。 除直接调控 cbfa1、PPARγ 等转录因子的活
+性,TAZ 也可能通过与 Wnt 等信号通路发生交叉对话
+调控 MSCs 分化,而转化生长因子(TGF)、肿瘤坏死因
+子(TNF) 等信号分子也能通过影响 TAZ 功能而在
+MSCs 分化调节中起作用[8-9]。 例如,骨形成蛋白-2
+(BMP-2)可刺激成骨细胞中 TAZ 表达水平增加促进
+骨折愈合过程,而在骨髓基质细胞中 TGF 诱导 TAZ 表
+达增加也是骨折修复所需要的。 在人脂肪来源 MSCs
+中,TNFα 可刺激 NFκB p65 转录因子表达,并募集到
+TAZ 启动子区域促进 TAZ 表达,从而促进成骨分化。
+BMSCs 是成骨细胞的重要来源,本研究显示 Gen
+刺激下,反映指标成骨细胞分化指标 ALP 活性、Ca 沉
+积量增加的同时伴有 TAZ 表达呈剂量依赖性增加,而
+TAZ-siRNA 可逆转 Gen 促成骨细胞分化效应,提示
+Gen 促成骨细胞分化有可能是通过 TAZ 介导。 研究
+表明,亚细胞定位对于 TAZ 的活性调节发挥着重要作
+用,最近研究发现小分子物质如 TM-25659、KR62980
+可通 过 影 响 TAZ 在 核 内 外 定 位 调 控 BMSCs 分
+化[10-11]。 KR62980 可使前脂肪细胞中 TAZ 核内定位
+水平增加,并结合到 PPARγ 抑制脂肪细胞分化;在鼠
+胚胎间充质干细胞系中,TM-25659 可促进 TAZ 向细
+胞核内移位,诱发 cbfa1 活性增加以及成骨细胞分化。
+本研究中,浓度为 1 μmol / L 的 Gen 刺激不仅使胞浆
+TAZ 蛋白表达增加,同时胞核内 TAZ 蛋白亦出现明显
+增加,表明存在 TAZ 向细胞核内移位。 TAZ 移位入核
+可直接与相关转录因子结合而调节其活性,本研究验
+证了 TAZ 与成骨细胞转录因子 cbfa1 存在特异性结
+合,而 Gen 可增强 TAZ 和 cbfa1 的特异性结合,并刺激
+受 cbfa1 调节的 BSP、OC 基因表达增加,显示出向成骨
+细胞分化的趋势,而转染 TAZ-siRNA 亦可逆转 Gen 刺
+激的 BSP 和 OC 表达增加,由此可见 TAZ 在 Gen 刺激
+BMSCs 向成骨细胞分化过程中的重要作用。
+本研究存在的不足之处在于没有阐明 Gen 到底
+是通过何种机制刺激 TAZ 表达增加及核移位的。 TAZ
+是具有 PDZ 结合域的转录共活化因子,其 C 端 PDZ 结
+合域有利于其停留于细胞核内,而 TAZ 蛋白在 Ser89
+被磷酸化后可与 14-3-3 蛋白结合,并从细胞核转移至
+胞浆。 YAP 为 TAZ 的旁系同源类似物,其在 Ser127 位
+的磷酸化受蛋白激酶 1 和 2(Mst1 / Mst2)的调节,并影
+响其在核内外的分布及转录活性[12]。 我们早期研究
+显示 Gen 对 BMSCs 定向分化影响与其调节相关
+MAPKs 活性有关[5,13],MAPKs 与 Mst1 / Mst2 一样,同
+属于 Ser / Thr 蛋白激酶,广泛存在于哺乳动物细胞的
+胞质中,参与调节细胞生长、发育、分裂和死亡等一系
+列生命活动。 结合本次研究结果,我们推测 Gen 有可
+能是通过调节 MAPKs 激酶活性影响 TAZ 磷酸化水
+平,进而影响 TAZ 在核内外分布,但确切的作用机制
+仍有待进一步深入。

@@ -1,0 +1,412 @@
+妊娠与甲状腺功能
+基金项目:广东省科技计划(2011B031800119)
+王振花、陈欣、张睿);510630 广州,中山大学附属第三医院妇产科(张
+培);450052 郑州大学附属第一医院妇产科(赵会丹)
+甲状腺功能异常与妊娠结局的关系
+王蕴慧  张培  赵会丹  王振花  陈欣  张睿
+[摘要]   目的  了解妊娠期各种甲状腺疾病的患病率,并评估甲状腺疾病与妊娠结局的关系。 方法
+选取 2012 年 3 月至 2014 年 2 月在中山大学孙≥仙纪念医院产检的 3 745 名孕妇为研究对象,在孕期进行
+甲状腺功能(TT4、FT4、TSH)、甲状腺过氧化物酶抗体的检测,结果异常者定期复查,追踪妊娠结局。 结果
+妊娠期甲状腺疾病的患病率:甲状腺功能亢进(甲亢)1. 90% ,亚临床甲亢 1. 20% ,甲状腺功能减退(甲减)
+1. 17% ,亚临床甲减 6. 78% ,单纯低甲状腺素血症 3. 82% 。 临床甲亢组胎盘早剥发生率较正常组高(5. 8%
+对 1. 0% , P<0. 01)。 亚临床甲亢组妊娠期糖尿病发生率较正常组高(37. 5%对 16. 6% , P<0. 01)。 亚临床
+甲减组早产率较正常组高(14. 3%对 7. 7% , P=0. 002)。 结论 不同类型的妊娠期甲状腺疾病可能会分别
+增加胎盘早剥、妊娠期糖尿病及早产的发生率。
+[关键词]   甲状腺功能异常; 患病率; 妊娠
+The relationship between thyroid dysfunction and pregnancy outcomes in pregnant women Wang Yunhui*,
+Zhang Pei, Zhao Huidan, Wang Zhenhua, Chen Xin, Zhang Rui. *Department of Obstetrics and Gynecology, Sun
+Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou 510120, China
+[Abstract]  Objective   The purpose of this research is to calculate the prevalence of thyroid dysfunction
+during pregnancy and to discuss the relationship between gestational thyroid diseases and pregnancy outcomes.
+Methods There were 3 745 pregnant women who took antenatal care at Sun Yat-sen Memorial Hospital, Sun Yat-sen
+University were chosen as the research objects during March 2012 to February 2014. All of them were given close
+monitoring and tracking till the termination of pregnancy. These subjects took thyroid function testing( TT4, FT4,
+TSH, thyroid peroxidase antibody), if the result was abnormal, they were followed up periodically. Results The
+prevalence of overt hyperthyroidism is 1. 90% , 1. 20% for subclinical hyperthyroidism, 1. 17% for hypothyroidism,
+6. 78% for subclinical hypothyroidism, and 3. 82% for isolated hypothyroxinemia. Compared with normal thyroid
+function group, the morbidity of placental abruption increased in overt hyperthyroidism group(5. 8% vs 1. 0% , P<
+0. 01); the incidence of gestational diabetes mellitus was increased in subclinical hyperthyroidism group(37. 5% vs
+16. 6% , P<0. 01); and the morbidity of preterm birth increased in subclinical hypothyroidism group(14. 3% vs
+7. 7% , P = 0. 002). Conclusion Gestational thyroid diseases may increase the incidence of adverse pregnancy
+outcomes; such as placental abruption, gestational diabetes mellitus, and premature birth.
+[Key words]  Thyroid dysfunction; Prevalence; Pregnancy
+(Chin J Endocrinol Metab, 2014, 30: 1058-1062)
+近年来妊娠期甲状腺疾病越来越受到重视,甲状
+腺功能亢进(甲亢)、甲状腺功能减退(甲减)可使不良
+妊娠结局增加[1]。 这一观点已成共识,因此对妊娠期
+甲亢、甲减均应给予积极治疗和监测[2](A 级证据)。
+妊娠期亚临床甲减是否增加不良妊娠结局的发生尚不
+明确,尤其对甲状腺过氧化物酶抗体(TPOAb)阴性的
+亚临床甲减者,因此目前对亚临床甲减的治疗尚存在
+争议[2,3]。 低甲状腺素血症是甲减的一种类型,但目
+前对妊娠期单纯低甲状腺素血症的研究大都集中在对
+后代智力发育的影响上,对不良妊娠结局是否存在影
+响的研究还较少。 本研究采用妊娠期甲状腺功能正常
+参考标准对孕妇甲状腺功能进行判断,并与妊娠结局
+的关系进行分析,尤其是亚临床甲减和单纯低甲状腺
+素血症与妊娠结局的关系,希望为临床诊断及治疗提
+供依据。
+对象和方法
+一、 对象
+2012 年 3 月至 2014 年 2 月在中山大学孙≥仙纪
+念医院产检及早孕安胎的单胎妊娠孕妇 3 745 名,建
+立“妊娠期甲状腺疾病与妊娠结局关系冶的调查表,内
+容包括姓名、年龄、职业、孕产次、不良孕产史、既往史
+(尤其是有无甲状腺疾病史) 、家族史、孕期有无服用
+表 1  妊娠期特异性甲状腺功能正常参考值范围
+Tab 1  Trimester-specific reference ranges for thyroid tests
+妊娠期
+Trimester
+TT4
+(nmol / L)
+TSH
+(mU / L)
+FT4
+(pmol / L)
+x-[(x--1. 96 s) ~ (x-+1. 96 s)] P2. 5 ~ P97. 5 P2. 5 ~ P97. 5 P5 P10
+早孕期
+First trimester 132. 56(74. 53 ~ 190. 59) 0. 037 ~ 3. 181 11. 84 ~ 22. 19 12. 08 13. 52
+中孕期
+Second trimester 137. 38(87. 03 ~ 187. 73) 0. 146 ~ 3. 830 10. 50 ~ 17. 83 10. 75 11. 40
+晚孕期
+Third trimester 128. 70(78. 46 ~ 179. 04) 0. 355 ~ 3. 623 10. 58 ~ 17. 90 10. 86 11. 51
+甲状腺药物等,抽取静脉血 3 ml 进行甲状腺功能 TT4、
+FT4、TSH 及 TPOAb 的检测,标本送中山大学孙≥仙纪
+念医院内分泌科进行检测。 对于诊断为甲减及亚临床
+甲减的孕妇,给予左旋甲状腺素治疗,对于诊断为甲亢
+的患者给予丙基硫氧嘧啶治疗,定期监测甲状腺功能,
+用药剂量根据甲状腺功能进行调节,使之达到正常水
+平,追踪妊娠并发症和妊娠结局。
+将研究对象首先根据有无甲状腺疾病史分类,再
+对既往无甲状腺疾病史者根据有无明确妊娠结局进行
+分组,最后对有明确妊娠结局者按照本院妊娠期特异
+性甲状腺功能正常参考值范围的标准进行甲状腺疾病
+的判断,每名对象无论做过几次甲状腺功能检测,均只
+按 1 次的结果来统计(用治疗前或者最差的那个结
+果);对各种甲状腺功能状态与妊娠结局的关系进行
+比较。
+二、 方法
+1. 仪器与试剂:TT4、FT4、TSH、TPOAb 检测试剂
+盒购自西门子医疗诊断有限公司(Siemens Healthcare
+Diagnostics Inc),采用西门子公司的配套自动分析设
+备进行检测,检测方法均为直接化学发光法。
+2. 判断标准:(1)孕期:早孕期:自妊娠确认后至
+孕 13+6周;中孕期:孕 14+0 ~ 27+6周;晚孕期:孕 28+0周
+至分娩。 (2)妊娠期甲状腺疾病的诊断:参照中华医
+学会内分泌学分会、中华医学会围产医学分会共同制
+定的“妊娠和产后甲状腺疾病诊治指南冶 [3] 推荐的标
+准诊断,以及本研究组前期工作中制定的“妊娠期特
+异性甲状腺功能正常参考值范围冶 [4](表 1)。 妊娠期
+甲减、亚临床甲减、甲亢、亚临床甲亢、低甲状腺素血症
+的诊断标准:甲减: TSH >正常值第 97. 5 百分位数
+(P97. 5)同时 FT4<正常值第 2. 5 百分位数(P2. 5),或
+者单独 TSH>10 mU / L;亚临床甲减:TSH>P97. 5,FT4
+正常;甲亢:TSH<P2. 5,FT4>P97. 5;亚临床甲亢:TSH<
+P2. 5,FT4 正常,早孕期甲亢需排除妊娠期甲亢综合
+征;低甲状腺素血症:TSH 正常,FT4 <第 5 百分位数
+(P5)。 单纯低甲状腺素血症是指甲状腺自身抗体阴
+性的低甲状腺素血症。 甲状腺自身抗体阳性:指
+TPOAb 的滴度超过试剂盒提供的参考值上限,本研究
+中试剂盒标准为 0 ~ 60 U / ml。(3)妊娠结局的判断参
+考《妇产科学》(第 8 版)教材[5]。
+三、 统计学处理
+采用 SPSS 13. 0 统计软件进行统计分析。 对称分
+布的定量资料的统计描述用 x- ± s,非对称分布或分布
+不明确的定量资料的统计描述用中位数(M)和四分位
+数间距(QL,QU)。 多组定量资料样本均数的比较,若
+变量分布为正态分布及方差齐性,采用单因素方差分
+析;多组定量资料中位数的比较,采用非参数检验或秩
+表 2  妊娠期甲状腺疾病的患病(率)情况 (n)
+Tab 2  The morbidity of gestational thyroid disorders (n)
+分组
+Group
+例数
+n
+既往有甲状腺疾病
+Past medical history on thyroid
+既往无甲状腺疾病
+No past medical history on thyroid
+有明确妊娠结局
+Clear pregnancy outcomes
+无明确妊娠结局
+Unclear pregnancy outcomes
+患病率
+Morbidity
+(% )
+甲状腺功能正常
+Normal thyroid function 3 188 18 130 13 85. 13
+单纯低甲状腺素血症
+Isolated hypothyroxinemia 143 0 40 5 3. 82
+甲状腺功能减退
+Hypothyroidism 44 26 2 703 933 1. 17
+亚临床甲状腺功能减退
+Subclinical hypothyroidism 254 20 8 10 6. 78
+甲状腺功能亢进
+Hyperthyroidism 71 45 162 72 1. 90
+亚临床甲状腺功能亢进
+Subclinical hyperthyroidism 45 0 7 19 1. 20
+和检验; 采用二分类变量回归分析计算相关因素的
+OR 值及 95% CI。 P<0. 05 为差异有统计学意义。
+结    果
+一、 妊娠期甲状腺疾病的患病率
+按照妊娠期甲状腺功能正常参考值范围对 3 745
+名孕妇甲状腺功能进行评估分组,得到妊娠期各种甲
+状腺疾病的患病情况(表 2)。 为了排除早孕期人绒毛
+膜促性腺激素等因素对 TSH 造成的影响,本研究剔除
+了早孕期 TSH 下降、FT4 正常的对象。 无明确妊娠结
+局的原因为截至研究结束时仍未分娩者或由于各种原
+因所致的失访者。
+二、 甲状腺疾病组间妊娠结局的比较
+无论既往有或无甲状腺疾病史,均有明确妊娠结
+局者 2 812 名,其中甲减 34 例,亚临床甲减 182 例,甲
+亢 52 例,亚临床甲亢 40 例,单纯低甲状腺素血症 130
+例,甲状腺功能正常 2 374 名(表 3)。 各组之间年龄、
+孕次、产次的差异无统计学意义,可以认为各组间一般
+特征的总体分布相同。
+甲状腺疾病组间妊娠结局的比较见表 4,临床甲
+亢组胎盘早剥发生率较正常组高(5. 8%对 1. 0% , P<
+表 3  各甲状腺疾病组间一般特征的比较[x-± s, 中位数(四分
+位间距)]
+Tab 3 Comparison of characteristics among groups with different
+thyroid disorders[x-± s,M(QL,QU)]
+分组
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+孕次
+(次)
+Gravidity
+(n)
+产次
+(次)
+Parity
+(n)
+甲状腺功能正常
+Normal thyroid function 2 374 29. 52 ± 4. 316 2(1,3) 0(0,0)
+单纯低甲状腺素血症
+Isolated hypothyroxinemia 130 30. 11 ± 4. 319 2(1,3) 0(0,0)
+甲状腺功能减退
+Hypothyroidism 34 30. 97 ± 4. 821 2(1,3) 0(0,1)
+亚临床甲状腺功能减退
+Subclinical hypothyroidism 182 29. 92 ± 4. 702 2(1,3) 0(0,0)
+甲状腺功能亢进
+Hyperthyroidism 52 30. 52 ± 4. 509 2(1,3) 0(0,1)
+亚临床甲状腺功能亢进
+Subclinical hyperthyroidism 40 29. 50 ± 4. 285 2(1,3) 0(0,0)
+0. 01)。 亚临床甲亢组妊娠期糖尿病发生率较正常组
+高(37 . 5% 对 16 . 6% , P<0. 01)。 亚临床甲减组早产
+率较正常组高(14. 3%对 7. 7% , P=0. 002)。
+并对差异有统计学意义的各甲状腺疾病组与甲状
+腺功能正常对照组之间进行两两比较。 由表 5 可知:
+各组在早产、妊娠期糖尿病、胎盘早剥等 3 种不良妊娠
+表 4  甲状腺疾病组间妊娠结局的比较[n(% )]
+Tab 4  Comparison of pregnancy outcomes among different thyroid disorders groups[n(% )]
+分组
+Group
+例数
+n
+流产
+Abortion
+早产
+Preterm
+低体重儿
+Low birth
+weight
+巨大儿
+Macrosomia
+转 NICU
+Admission
+NICU
+新生儿窒息
+Neonatal
+asphyxia
+新生儿畸形
+Neonatal
+malformation
+妊娠期糖尿病
+Gestational
+diabetes mellitus
+甲状腺功能正常
+Normal thyroid function 2 374 194(8. 2) 182(7. 7) 161(6. 8) 59(2. 5) 376(15. 8) 73(3. 1) 73(3. 1) 395(16. 6)
+单纯低甲状腺素血症
+Isolated hypothyroxinemia 130   4(3. 1)   8(6. 2)   16(12. 3) 5(3. 8) 24(18. 5) 2(1. 5) 1(0. 8) 20(15. 4)
+甲状腺功能减退
+Hypothyroidism 34   4(11. 8)   4(11. 8)   4(11. 8) 3(8. 8) 6(17. 6) 2(5. 9) 1(2. 9) 7(20. 6)
+亚临床甲状腺功能减退
+Subclinical hypothyroidism 182   15(8. 2)   26(14. 3)
+b   13(7. 1) 1(0. 5) 34(18. 7) 7(3. 8) 6(3. 3) 30(16. 5)
+甲状腺功能亢进
+Hyperthyroidism 52   3(5. 8)   7(13. 5)   7(13. 5) 1(1. 9) 13(25. 0) 4(7. 7) 2(3. 8) 12(23. 1)
+亚临床甲状腺功能亢进
+Subclinical hyperthyroidism 40   2(5. 0)   4(10. 0)   4(10. 0) 2(5. 0) 9(22. 5) 0(0. 0) 1(2. 5) 15(37. 5)
+b
+分组
+Group
+例数
+n
+妊娠期高血压疾病
+Hypertensive
+disorder complicating
+pregnancy
+足月胎膜早破
+Premature
+rupture of
+membranes
+未足月胎膜早破
+Preterm premature
+rupture of
+membranes
+胎儿宫内
+生长受限
+Fetal growth
+restriction
+胎盘早剥
+Placental
+abruption
+羊水过多
+Polyhydramnios
+羊水过少
+Oligohydramnion
+甲状腺功能正常
+Normal thyroid function 2 374 68(2. 9) 525(22. 1) 85(3. 6) 63(2. 7) 24(1. 0)   88(3. 7) 113(4. 8)
+单纯低甲状腺素血症
+Isolated hypothyroxinemia 130 3(2. 3) 28(21. 5) 2(1. 5) 7(5. 4) 1(0. 8)   3(2. 3) 9(6. 9)
+甲状腺功能减退
+Hypothyroidism 34 0(0. 0) 7(20. 6) 2(5. 9) 0(0. 0) 1(2. 9)   3(8. 8) 3(8. 8)
+亚临床甲状腺功能减退
+Subclinical hypothyroidism 182 10(5. 5) 51(28. 0) 11(6. 0) 4(2. 2) 1(0. 5)   8(4. 4) 10(5. 5)
+甲状腺功能亢进
+Hyperthyroidism 52 5(9. 6) 12(23. 1) 2(3. 8) 2(3. 8) 3(5. 8)
+a   2(3. 8) 1(1. 9)
+亚临床甲状腺功能亢进
+Subclinical hyperthyroidism 40 3(7. 5) 11(27. 5) 1(2. 5) 1(2. 5) 0(0. 0)   4(10. 0) 1(2. 5)
+注:NICU:新生儿重症监护室 Neonatal intensive care unit;与甲状腺功能正常组比较 vs Normal thyroid function, aP<0. 05, bP<0. 01
+表 5  甲状腺疾病与甲状腺功能正常组妊娠结局的比较(OR, 95% CI )
+Tab 5  Comparison of pregnancy outcomes among thyroid disorders groups and normal thyroid function group(OR, 95% CI )
+分组
+Group
+例数
+n
+早产
+Preterm
+妊娠期糖尿病
+Gestational diabetes mellitus
+胎盘早剥
+Placental abruption
+甲状腺功能正常
+Normal thyroid function 2 374  1 1 1
+单纯低甲状腺素血症
+Isolated hypothyroxinemia 130  - 0. 911(0. 559,1. 485) 0. 759(0. 102,5. 655)
+甲状腺功能减退
+Hypothyroidism 34  1. 606(0. 560,4. 608) 1. 299(0. 562,3. 004) 2. 967(0. 390,22. 585)
+亚临床甲状腺功能减退
+Subclinical hypothyroidism 182  2. 007(1. 290,3. 123)
+a 0. 989(0. 659,1. 484) 0. 541(0. 073,4. 022)
+甲状腺功能亢进
+Hyperthyroidism 52  1. 874(0. 833,4. 214) 1. 503(0. 781,2. 891) 5. 995(1. 747,20. 574)
+a
+亚临床甲状腺功能亢进
+Subclinical hyperthyroidism 40  1. 338(0. 471,3. 801) 3. 006(1. 571,5. 753)
+a -
+注:与甲状腺功能正常组比较 vs Normal thyroid function, aP<0. 01
+结局的发生率方面差异有统计学意义。 而流产、低出
+生体重儿、巨大儿、新生儿窒息、畸形、转新生儿重症监
+护室、妊娠期高血压疾病、 足月胎膜早破、 未足月胎膜
+早破、胎儿宫内生长受限、羊水过多、羊水过少等不良
+妊娠结局的发生率方面差异无统计意义。
+讨    论
+甲状腺功能在妊娠期发生一系列变化,妊娠期妇
+女的甲状腺功能正常参考值范围与非妊娠期不同,目
+前多个指南均建议采用妊娠期特异性甲状腺功能正常
+参考值范围来对孕妇的甲状腺功能进行评估。 为了使
+评价标准更加准确,本研究组前期工作以美国国家临
+床 生 物 化 学 学 会 ( National Academy of Clinical
+Biochemistry, NACB)的标准为基础,并排除有产科不
+良妊娠结局者,制定了本院妊娠期特异性甲状腺功能
+正常参考值标准[4],其中妊娠期 TT4 的参考值范围为
+74. 53 ~ 190. 59 nmol / L, 约为非孕期 TT4 水平的
+1. 28 ~ 1. 36 倍。由于 TT4 水平与血清中甲状腺素结合
+球蛋白浓度相关,孕期甲状腺素结合球蛋白产生增加
+清除减少,故 TT4 水平比非孕期高。 FT4 值与非妊娠
+期正常参考值范围相似。 TSH 水平在 8 ~ 12 周最低,
+随后逐渐上升,这是因为妊娠早期血人绒毛膜促性腺
+激素增加,因人绒毛膜促性腺激素与 TSH 的 α 亚单位
+相似,对甲状腺细胞 TSH 受体有轻度刺激作用,甲状
+腺激素分泌增多,从而反馈性抑制 TSH 分泌,使血清
+TSH 水平降低 20% ~30% 。 根据这一标准,计算得到
+妊娠期各种甲状腺疾病的患病率为:甲减 1. 17% ,亚
+临床甲减 6. 78% ,甲亢 1. 90% ,亚临床甲亢 1. 20% ,单
+纯低甲状腺素血症 3. 82% 。
+十城市甲状腺疾病和碘营养状况调查冶显示育龄妇女
+(n=4 438)的甲减、亚临床甲减、TPOAb 阳性的患病率
+分别是 0. 77% 、5. 32%和 12. 96% ;我国妊娠前半期妇
+女甲减、亚临床甲减、 TPOAb 阳性的患病率分别为
+0. 60% 、5. 27%和 8. 60% [3]。 本研究中与其他研究相
+比,甲减的发生率稍高;可能原因为在本研究对象中复
+发性流产病人占据的比例较大为 9. 4% (265 / 2 812),
+年龄≥35 岁者占 13. 5% (381 / 2 812),TPOAb 阳性率
+为 21. 1% (593 / 2 812)。 而有以上几种因素的孕妇均
+是甲状腺疾病筛查的高危孕妇,出现甲状腺功能异常
+的风险增加。
+遵循伦理学的要求,本研究对于诊断为各种甲状
+腺功能异常的孕妇,都给予了相应治疗,故本研究结果
+不能显示各种甲状腺功能异常未治疗时与妊娠结局的
+关系。 而治疗后的结果,使各种甲状腺疾病与正常组
+妊娠结局的差异可能被弱化。 但与正常组相比,即使
+已经给予治疗,亚临床甲减组早产率、甲亢组胎盘早剥
+发生率、亚临床甲亢组妊娠期糖尿病发生率增加,差异
+有统计学意义,说明甲状腺功能异常可以部分地影响
+妊娠结局。 本研究显示甲状腺功能异常与流产、低体
+重儿、巨大儿、新生儿窒息、畸形、转新生儿重症监护
+室、妊娠期高血压疾病、足月胎膜早破、未足月胎膜早
+破、胎儿宫内生长受限、羊水过多、羊水过少等不良妊
+娠结局发生率方面的差异无统计学意义,说明轻微的
+或者经过治疗的甲状腺功能异常对妊娠结局的影响不
+大。
+目前关于妊娠期亚临床甲减是否使不良妊娠结局
+风险增加的循证医学证据尚不足,因此对其治疗也尚
+未达成一致意见。 但是目前的证据大部分倾向于亚临
+床甲减使不良妊娠结局的发生风险增加的观点。 有研
+究显示亚临床甲减者可使流产、胎儿或新生儿死亡、早
+产、先兆子痫、重度子痫前期、妊娠期糖尿病等不良妊
+娠结局风险增加[6-10];但目前研究结果并不完全一致。
+Ashoor 等[6]对 202 例单胎妊娠结局为流产和死胎的孕
+妇与正常妊娠结局孕妇的回顾性研究发现:流产和死
+胎组孕 12 ~ 13 周 TSH 升高和(或)FT4 下降者所占比
+例增加,同时亚临床甲减患病率增加。 Korevaar 等[7]
+对 5 971 名早孕期妇女进行甲状腺功能筛查的研究表
+明:亚临床甲减与早产相关,但不是自发早产 (P <
+0. 01),与本研究结论相似。 本研究中亚临床甲减患
+者均给予了左旋甲状腺素治疗,定期复查 TSH 在正常
+范围, 但是亚临床甲减组早产率仍比正常组高
+(14. 3%对 7. 7% ),且差异有统计学意义。
+母体甲状腺素在胎儿脑部发育过程中起重要作
+用,孕期母体低甲状腺素血症可能对后代精神行为存
+在不利影响[11,12]。 有研究表明母体妊娠早期低甲状
+腺素血症者,其后代在 5 ~ 6 岁时的反应速度变慢,且
+反应速度的稳定性下降[13]。 孕 12 周之前低甲状腺素
+血症可造成其后代在 3 岁时的精神运动功能延
+迟[13,14]。 妊娠期低甲状腺素血症发生的时间不同,对
+后代所造成的影响也有所不同[15]:发生在早孕期的低
+甲状腺素血症,后代表现出视觉注意力和视觉处理过
+程的障碍;若发生在妊娠后期,则后代的视觉空间感知
+力和精细动作技巧方面的能力表现可能受损。 既往的
+研究多注重对幼儿的精神智力和行为能力发育的影
+响,而对于妊娠期低甲状腺素血症与妊娠结局关系的
+研究较少。 其中一项 Generation R study(是一项面向
+多民族城市人群,从胚胎期到青少年时期为研究对象
+的前瞻性队列研究) [7] 表明:低甲状腺素血症和
+TPOAb 阳性是早产的危险因素。 本研究中对单纯低
+甲状腺素血症的诊断采用 TSH 在妊娠期正常参考值
+范围内,FT4 低于第 5 百分位点的标准。 本研究中未
+对单纯低甲状腺素血症者进行治疗,结果显示其与正
+常组相比,妊娠结局无明显差异。
+综上所述,妊娠期甲状腺疾病可能使不良妊娠结
+局的发生风险增加,如甲亢者胎盘早剥风险增加,亚临
+床甲亢者妊娠期糖尿病风险增加,亚临床甲减者早产
+风险增加。 其他不良妊娠结局指标之间尚未观察到明
+显差异。

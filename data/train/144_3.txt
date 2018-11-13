@@ -1,0 +1,384 @@
+代谢综合征
+基金项目:江苏省科技计划项目(BM2012064)
+短期限食对代谢综合征患者胃肠激素及
+脂肪分泌激素的影响
+陈国芳  李春睿  茅晓东  范尧夫  程清  相小多  陈杰  徐书杭  狄红杰  刘克冕
+曹萌  刘超
+[摘要]   目的  探讨短期极低热量限食对代谢综合征患者胃肠激素及脂肪分泌激素的影响。 方法
+对 8 例代谢综合征患者行住院 9 d 极低热量限食(300 ~ 600 kcal / d),测量限食前后体重、腰围、血压;检测
+限食前后空腹血糖、血脂、胰岛素、胰岛素样生长因子I(IGF-I)、胰淀素、胃促生长素、肠抑胃肽、胰升糖
+素样肽-1(GLP-1)、瘦素、脂联素水平。 结果 限食后患者平均体重由(84. 46 ± 18. 21) kg 降至(80. 10 ±
+17. 43)kg(P<0. 01);腰围减少 5 cm[(99. 88 ± 12. 12 对 95. 81 ± 11. 82) cm, P<0. 01];体重指数降低 1. 5
+kg / m2[(29. 56 ±4. 16 对 28. 03 ±4. 01)kg / m2, P<0. 01]。 患者收缩压、舒张压、空腹甘油三酯、血糖、胰岛素
+以及胰岛素抵抗指数均较限食前明显下降;胆固醇、低密度脂蛋白胆固醇以及高密度脂蛋白胆固醇未见明
+显差异。 IGF-I水平显著下降[(144. 50 ± 44. 12 对 108. 30 ± 43. 01) ng / ml, P = 0. 007 4]。 胰淀素水平由
+(35. 46 ± 5. 99)pg / ml 降至(16. 23 ± 5. 24)pg / ml(P=0. 000 4);胃促生长素、肠抑胃肽、GLP-1 的变化均无统
+计学意义;瘦素水平由(12 390 ± 2 415)pg / ml 降至(7 191 ± 2 083)pg / ml(P=0. 007 7);脂联素水平则未见明
+显变化。 结论 短期极低热量限食可显著改善代谢综合征患者血糖、血脂、胰岛素抵抗等代谢指标,其机
+制可能与限食引起的体内能量调节激素的变化有关。
+[关键词]   限食; 代谢综合征; 胃肠激素; 脂肪来源激素
+Effect of short-term caloric restriction on the secretion of gastrointestinal and adipose-derived hormones in
+patients with metabolic syndrome Chen Guofang, Li Chunrui, Mao Xiaodong, Fan Yaofu, Cheng Qing, Xiang
+Xiaoduo, Chen Jie, Xu Shuhang, Di Hongjie, Liu Kemian, Cao Meng, Liu Chao. Endocrine and Diabetes Center,
+Jiangsu Province Hospital on Integration of Chinese and Western Medicine, Nanjing University of Traditional Chinese
+Medicine, Jiangsu Branch of China Academy of Chinese Medical Science, Nanjing 210028, China
+[Abstract]  Objective  To investigate the effect of short-term severe caloric restriction(SCR) on the secretion
+of gastrointestinal and adipose-derived hormones in patients with metabolic syndrome. Method Eight patients with
+metabolic syndrome received SCR for 9 days. Anthropometric and biochemical parameters were determined before and
+after SCR. Results After short-term SCR, the average body weight was decreased from (84. 46 ± 18. 21) kg to
+(80. 10 ± 17. 43) kg (P<0. 01), waist circumference reduced from(99. 88 ±12. 12)cm to(95. 81 ±11. 82)cm(P<
+0. 01), and body mass index decreased from(29. 56 ± 4. 16) kg / m2 to (28. 03 ± 4. 01) kg / m2(P<0. 01) . Blood
+pressure, fasting triglycerides, fasting blood glucose, fasting insulin, and homeostasis model assessment for insulin
+resistance were all reduced significantly after SCR, while no differences were found in serum cholesterol, low density
+lipoprotein-cholesterol, and high density lipoprotein-cholesterol. The level of insulin-like growth factor-I (IGF-I)
+was decreased from(144. 50 ± 44. 12) ng / ml to(108. 30 ±43. 01) ng / ml(P=0. 007 4). Among hormones related to
+energy regulation, the levels of amylin and leptin were reduced from(35. 46 ±5. 99) pg / ml to (16. 23 ±5. 24) pg / ml
+(P=0. 000 4 ) and from ( 12 390 ± 2 415 ) pg / ml to ( 7 191 ± 2 083 ) pg / ml ( P = 0. 007 7 ) after SCR,
+respectively. However, there was no significant difference in ghrelin, gastric inhibitory polypeptide, GLP-1, and
+adiponectin before and after SCR. Conclusions Short-term SCR improved metabolic markers in patients with
+metabolic syndrome. The changes in hormones related to energy regulation induced by SCR could be involved in the
+mechanism.
+[Key words]  Caloric restriction; Metabolic syndrome; Gastrointestinal hormones; Adipose-derived hormones
+(Chin J Endocrinol Metab, 2015, 31: 205-209)
+随着社会经济的发展和生活方式的改变,以中心
+性肥胖、高血糖、高血脂和高血压为特征表现的代谢综
+合征的患病率在全球范围逐年增加。 这类人群是发生
+发展为糖尿病、心血管疾病不可忽视的后备军。 对代
+谢综合征的管理应以防为主,重点强调生活方式的改
+善,包括增加运动量、改变饮食结构和适当的热量限制
+(简称限食),以达到减轻体重、改善各代谢组分的目
+的。
+限食在代谢综合征防治中的作用和价值是近年来
+此领域研究的重点之一。 业已证实,限食可以独立于
+运动发挥疗效[1,2]。 在糖尿病、肥胖、非酒精性脂肪肝
+等代谢性疾病人群中,无论是长期低热量限食(1 200
+kcal / d)还是短期极低热量限食(<800 kcal / d),均可有
+效降低体重,改善糖脂水平等代谢性指标,减轻胰岛素
+抵抗,部分恢复胰岛 β 细胞功能[3-5]。
+越来越多的研究证实,一些胃肠激素和脂肪组织
+来源的激素或细胞因子参与能量代谢的调节。 这些激
+素或细胞因子通过影响摄食、食物消化排空、营养物质
+代谢等途径发挥效应,对生理情况下的糖脂代谢平衡
+及病理情况下的糖脂代谢异常均起到重要作用。 本课
+题组前期研究证实,短期极低热量限食可显著改善 2
+型糖尿病患者的血糖、血脂等代谢性指标[6]。 然而,
+限食疗法,尤其是短期极低热量限食带来的代谢方面
+的获益是否与能量代谢相关激素或细胞因子的变化有
+关,目前尚不清楚。 为此,本研究以代谢综合征患者为
+研究对象,观察他们在短期极低热量限食前后,体内胃
+肠激素及脂肪来源激素和细胞因子水平的变化,初步
+阐明热量限制调控糖脂代谢的可能机制。
+对象和方法
+一、 对象
+本研究选取 2013 年 5 月至 2013 年 10 月间在本
+院住院的代谢综合征患者 8 例,其中女性 4 例,男性 4
+例,平均年龄(39. 25 ±9. 85)岁。 代谢综合征诊断采用
+国际糖尿病联盟(IDF)2005 年共识定义,即具有中心
+性肥胖,男性腰围≥90 cm,女性腰围≥80 cm,同时符
+合以下 4 项中任意 2 项:(1) 甘油三酯>1. 7 mmol / L,
+或已经接受相应治疗; (2) 高密度脂蛋白胆固醇降
+低, 男性<1. 03 mmol / L, 女性<1. 29 mmol / L, 或已经
+接受相应治疗; (3) 血压升高,收缩压≥130 mmHg
+(1 mmHg=0. 133 kPa),舒张压≥85 mmHg,或已诊断
+为高血压病者;(4) 空腹血糖(FBG)升高,FBG≥5. 6
+mmol / L,或诊断为 2 型糖尿病。
+纳入标准:年龄 18 ~ 55 岁;体重指数(BMI)≤40
+kg / m2;HBA1C<10% ;糖尿病和(或)高血压病程小于 5
+年。 排除标准:(1)特殊人群:妊娠和哺乳女性;(2)合
+并其他严重疾病:肝病(脂肪肝除外)、肾功能衰竭、严
+重心血管疾病、严重慢性感染(如肺结核)、营养不良、
+酒精中毒、神经性厌食、易饿病、癫痫、精神分裂症、阿
+尔茨海默病、广泛肿瘤、转移癌、艾滋病等;(3) 合并糖
+尿病急性或严重慢性并发症;(4) 限食过程中出现严
+重疾病。 所有患者签署知情同意书。
+二、 方法
+1. 病例管理:所有受试者住院前 1 周停用降糖
+药、调脂药及降压药。 入院后予 9 d 极低热量限食,包
+括 2 d 缓冲期 (600 kcal / d)、5 d 强化限食期 (300
+kcal / d)及 2 d 恢复期(600 kcal / d)3 个阶段,营养成分
+比例参照 2011 年《中国居民膳食指南》,具体为脂肪
+25% ,蛋白质 20% ,碳水化合物 55% 。 限食期间每日
+饮水 2 ~ 3 L,避免剧烈运动。 每日监测血糖、血压、心
+率等变化,保证受试者安全。 如发生低血糖(血糖≤
+3. 9 mmol / L),予 20 g 葡萄糖或等量食物补充,15 min
+后复测血糖。 每天监测空腹尿酮体以评估受试者的±
+从性。
+2. 指标检测:入院时记录患者年龄、身高;测量限
+食前后体重、腰围、血压、心率;采集受试者限食前后晨
+起空腹静脉血,离心收集血清置于-80℃冰箱保存。
+胰淀素( amylin)、胃促生长素、肠抑胃肽( gastric
+inhibitory polypeptide, GIP )、 胰 升 糖 素 样 肽-1
+(glucagon-like peptide-1, GLP-1)、瘦素等采用 BD P800
+试管采集血样,采用 Merck Millipore 公司的 Milliplex
+液相芯片技术检测相应激素水平。
+脂联素和胰岛素样生长因子I(insulin-like growth
+factor-I,IGF-I) 采用 ALPCO 公司的 Total Adiponectin
+ELISA 试剂盒(No. 47-ADPHUT-E01)和 IGF-I ELISA
+试剂盒(No. 22-IGFHU-E01)检测。 血糖检测采用己
+糖激酶紫外终点比色法,使用 Diasys 试剂及 Roche
+Modular SWA 生化分析仪检测。 胰岛素采用化学发光
+法,甘油三酯采用 GPO-POD 紫外线法,总胆固醇采用
+胆固醇氧化酶法,低密度及高密度脂蛋白胆固醇采用
+均相酶比色法,以上均使用德国罗氏诊断有限公司提
+供的试剂及仪器进行检测。 尿酮体采用德国曼诺公司
+提供的试剂盒进行检测。
+三、 统计学处理
+采用 GraphPad Prism 5 软件进行统计分析,临床变
+量用 x-± s 表示,正态分布的数值资料采用配对样本的 t
+检验;不符合正态分布的数值资料采用配对样本的非
+参数检验(Wilcoxon 符号秩检验);变量间的相关性检
+验采用 Pearson 相关性分析。 P<0. 05 为差异有统计
+学意义。
+结    果
+一、 短期限食前后患者一般资料的变化
+8 例代谢综合征患者短期极低热量限食后,体重
+均较前下降,平均由(84. 46 ± 18. 21) kg 降至(80. 10 ±
+17. 43) kg(P<0. 01);腰围减少 4 cm[(99. 88 ± 12. 12
+对 95. 81 ± 11. 82) cm, P<0. 01];BMI 降低 1. 5 kg / m2
+[(29. 56 ±4. 16 对 28. 03 ±4. 01)kg / m2, P<0. 01]。 患
+者收缩压、舒张压、空腹甘油三酯、血糖、胰岛素以及稳
+态模型评估的胰岛素抵抗指数(HOMA-IR)均较限食
+前明显下降。 胆固醇、低密度脂蛋白胆固醇以及高密
+度脂蛋白胆固醇在限食前后并无显著差异。 值得注意
+的是,短期极低热量限食后,患者体内 IGF-I水平显
+著下降[(144. 50 ± 44. 12 对 108. 30 ± 43. 01) ng / ml,
+P=0. 007 4,表 1]。
+二、 短期限食前后患者胃肠激素和脂肪分泌激素
+水平的变化
+如表 2 所示,短期极低热量限食后,8 例患者胰淀
+素水平均较前下降 [由 (35. 46 ± 5. 99) pg / ml 降至
+(16. 23 ±5. 24) pg / ml,P = 0. 000 4];胃促生长素水平
+虽然有上升趋势,但差异无统计学意义;GIP、GLP-1 的
+变化均无统计学意义。 短期极低热量限食后,8 例患
+者瘦素水平均较前下降,平均由(12 390 ±2 415)pg / ml
+降至(7 191 ± 2 083) pg / ml(P = 0. 007 7);脂联素水平
+则未见明显变化(表 2)。
+三、 胰淀素、瘦素、IGF-I与体重、空腹血糖、胰岛
+表 1  患者短期限食前后一般代谢指标的变化 (x-± s)
+Tab 1  The basic metabolic parameters of the patients before and after short-term caloric restriction (x-± s)
+组别
+Group
+例数
+n
+BW
+(kg)
+WC
+(cm)
+BMI
+(kg / m2)
+SBP
+(mmHg)
+DBP
+(mmHg)
+TC
+(mmol / L)
+限食前
+Before CR 8 84. 5 ± 18. 2 99. 88 ± 12. 12 29. 56 ± 4. 16 132 ± 17 85 ± 9 5. 29 ± 0. 84
+限食后
+After CR 8 80. 1 ± 17. 4
+b 95. 81 ± 11. 82b 28. 03 ± 4. 01b 122 ± 12b 78 ± 9b 4. 68 ± 0. 70
+组别
+Group
+例数
+n
+TG
+(mmol / L)
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L)
+FBG
+(mmol / L)
+FINS
+(μIU / ml) HOMA-IR
+IGF-I
+(ng / ml)
+限食前
+Before CR 8 3. 21 ± 1. 29 3. 10 ± 0. 73 1. 12 ± 0. 26 6. 83 ± 1. 61 20. 82 ± 10. 10 6. 74 ± 4. 61 144. 50 ± 44. 12
+限食后
+After CR 8 1. 50 ± 0. 63
+b 3. 18 ± 0. 60 1. 01 ± 0. 26 5. 64 ± 0. 83a 5. 89 ± 2. 78b 1. 56 ± 0. 84b 108. 30 ± 43. 01b
+注:CR:限食 Caloric restriction;BW:体重 Body weight;WC:腰围 Waist circumference;BMI:体重指数 Body mass index;SBP:收缩压 Systolic blood
+pressure;1 mmHg=0. 133 kPa;DBP:舒张压 Diastolic blood pressure;TC:总胆固醇 Total cholesterol;TG:甘油三酯 Triglyceride;LDL-C:低密度脂蛋白胆固
+醇 Low density lipoprotein-cholesterol;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;FBG:空腹血糖 Fasting blood glucose;FINS:空腹胰
+岛素 Fasting insulin;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment for insulin resistance;IGF-I:胰岛素样生长因子I Insulin-
+like growth factor-I;与限食前比较 vs Before CR, aP<0. 05, bP<0. 01
+表 2  短期限食前后患者胃肠激素和脂肪分泌激素的变化 (x-± s)
+Tab 2  The changes of gastrointestinal hormones and adipose-derived hormones before and after short-term caloric restriction (x-± s)
+组别
+Group
+例数
+n
+胰淀素
+Amylin
+(pg / ml)
+胃促生长素
+Ghrelin
+(pg / ml)
+GIP
+(pg / ml)
+GLP-1
+(pg / ml)
+瘦素
+Leptin
+(pg / ml)
+脂联素
+Adiponectin
+(μg / ml)
+限食前
+Before CR 8 35. 46 ± 5. 99 10. 73 ± 1. 59 54. 79 ± 11. 62 21. 11 ± 5. 71   12 390 ± 2 415 2. 94 ± 0. 41
+限食后
+After CR 8 16. 23 ± 5. 24
+a 18. 17 ± 5. 71 51. 45 ± 12. 68 14. 42 ± 4. 05   7 191 ± 2 083a 2. 99 ± 0. 45
+注:CR:限食 Caloric restriction; GIP:肠抑胃肽 Gastric inhibitory polypeptide; GLP-1:胰升糖素样肽-1 Glucagon-likepeptide 1; 与限食前比较 vs Before
+CR,aP<0. 01
+表 3  限食后胰淀素、瘦素、IGF-1 等变化的相关性分析
+Tab 3  The correlation analysis between the changes of amylin, leptin, IGF-I, and fasting blood glucose, insulin, HOMA-IR, serum lipid
+相关系数
+r BW FBG FINS HOMA-IR TC TG
+胰淀素
+Amylin
+-0. 27
+(P=0. 51)
+-0. 003
+(P=0. 99)
+-0. 11
+(P=0. 79)
+-0. 01
+(P=0. 98)
+0. 20
+(P=0. 63)
+-0. 38
+(P=0. 35)
+瘦素
+Leptin
+-0. 02
+(P=0. 96)
+0. 02
+(P=0. 97)
+0. 25
+(P=0. 54)
+0. 10
+(P=0. 82)
+0. 77
+(P=0. 02)
+0. 48
+(P=0. 23)
+IGF-I   0. 33(P=0. 42)
+0. 15
+(P=0. 72)
+-0. 01
+(P=0. 98)
+-0. 04
+(P=0. 92)
+0. 63
+(P=0. 09)
+0. 009
+(P=0. 98)
+注:略语同表 1 The abbreviations are the same as Tab 1
+素、HOMA-IR、血脂等变化的相关性分析
+对限食后发生显著变化的胰淀素、瘦素、IGF-I与
+体重、空腹血糖、胰岛素、HOMA-IR、血脂等作相关性
+分析,限食后,体重、空腹血糖、胰岛素、HOMA-IR、总
+胆固醇、甘油三酯的变化与胰淀素、IGF-I的变化间无
+明显相关性;瘦素的变化与总胆固醇的变化呈正相关
+( r=0. 77,P=0. 024 2),但与体重、空腹血糖、胰岛素、
+HOMA-IR、胆固醇等的变化无显著相关性(表 3)。
+讨    论
+限食疗法是 21 世纪初兴起于内分泌代谢病领域
+的一种自然治疗方式,被证实是预防和缓解 2 型糖尿
+病、肥胖等代谢性疾病的有效手段[7,8]。 在本研究中,
+8 例代谢综合征患者行住院短期极低热量限食治疗。
+9 d 后,所有患者的体重、腰围、血压、甘油三酯、空腹血
+糖、空腹胰岛素、空腹 IGF-I均较前下降;胃肠激素中
+胰淀素水平明显下降,胃促生长素、GIP、GLP-1 与限食
+前比较,无显著变化;瘦素水平在限食后显著降低,而
+脂联素未见明显改变。
+瘦素和胃促生长素是参与维持机体能量平衡的一
+对拮抗激素,分别由脂肪和胃内分泌细胞分泌。 其中,
+瘦素是第一个被报道的脂肪来源激素,被认为是“饱
+感激素冶,可抑制食欲、增加能量消耗、减少脂肪堆积、
+减轻体重;胃促生长素则被称作“饥饿激素冶,具有增
+加摄食、降低能量消耗的作用。 肥胖与 2 型糖尿病患
+者血浆瘦素水平异常升高,胃促生长素水平显著降低,
+提示高瘦素血症 /瘦素抵抗与胰岛素抵抗 ( insulin
+resistant, IR)、2 型糖尿病密切相关,而低胃促生长素
+血症亦是 IR、2 型糖尿病发生的独立危险因素[9]。
+本研究中,8 例代谢综合征患者限食后体重显著
+降低,瘦素水平下降,较限食前降低 42. 0% ,胃促生长
+素水平变化无统计学差异,考虑与本研究样本量较少
+有关。 前已述及,肥胖者多存在瘦素抵抗,瘦素水平异
+常升高,限食后瘦素水平下降,除了是机体对饥饿的一
+种反馈性调节外,也提示瘦素抵抗得到显著改善。 胃
+促生长素在短期能量调节中具有重要作用,餐前分泌
+增加,而进食后分泌减少。 胃促生长素分泌的长期调
+节往往与体重变化相关,肥胖的动物及人类胃促生长
+素分泌下降,减重后分泌较前增加或者无明显变
+化[10]。 本研究中,作用相反的瘦素与胃促生长素,在
+短期极低热量限食后亦呈现相反的变化趋势,提示两
+者共同参与限食后的能量代谢调节,介导限食引起的
+减重、减轻内脏脂肪、改善糖脂代谢的作用。
+胰淀素与胰岛素一同由胰岛 β 细胞分泌,通过减
+慢胃排空、增加饱感参与血糖调节。 胰岛素抵抗者对
+胰岛素的需求增加,胰岛素分泌增加的同时胰淀素前
+体亦分泌增加,胰淀素及其前体在细胞内的聚集会导
+致 β 细胞凋亡[11]。 短期极低热量限食后,血清胰淀素
+水平与空腹胰岛素一样,显著降低,提示患者体内的胰
+岛素抵抗得到缓解的同时,胰淀素及其前体的分泌亦
+减少,β 细胞损害以得到缓解,从而空腹血糖得到显著
+改善。
+肠促胰岛素 GIP 和 GLP-1,主要以葡萄糖依赖的
+形式降低餐后血糖。 肥胖和 2 型糖尿病患者,肠促胰
+岛素分泌减少,尤其是餐后分泌存在缺陷[12]。 对此类
+患者,限食减重后肠促胰岛素的基础及餐后分泌有何
+变化,目前结论不一。 本研究观察了短期极低热量限
+食前后,肠促胰岛素的基础分泌情况。 结果显示,限食
+后患者血清 GIP 无明显变化,GLP-1 变化无统计学意
+义。 Adam 等[13] 对 32 例肥胖者进行 6 周极低热量限
+食后,发现 GLP-1 分泌一过性下降,在体重维持期分
+泌回升。 Svendsen 等[14]对 17 例超重女性进行 8 周极
+低热量限食后,患者血浆 GIP 分泌增加,GLP-1 未见变
+化。 以上研究结果的差异可能与检测方法及种类其敏
+感度、患者人群、限食时间不同等因素相关。 因此,肥
+胖、2 型糖尿病人群限食后体内肠促胰岛素基础及餐
+后变化情况尚不明确,需大样本的研究进一步分析,并
+随访观察其长期变化情况。
+脂联素是脂肪细胞合成的另一种激素,血清中脂
+联素的水平与内脏脂肪含量呈负相关。 肥胖者血清脂
+联素水平降低,当通过热量限制减轻体重时,脂联素水
+平上升,可减轻胰岛素抵抗,改善糖脂代谢[15]。 关于
+限食后脂联素水平变化的研究结果较为一致,多证实
+限食后脂联素水平升高,且升高的脂联素与限食带来
+的长寿、糖脂代谢改善、肿瘤风险降低等获益相关。 然
+而,本研究未发现限食前后患者脂联素水平有显著改
+变,可能与患者人群较少,观察时间较短有关。
+值得注意的是,8 例代谢综合征患者血清 IGF-I
+水平在限食后显著下降,与胰岛素变化趋势一致。 体
+内 IGF-I异常升高与肿瘤风险增加密切相关。 动物
+研究证实,限食引起的 IGF-I /胰岛素信号通路下调
+与抗衰老、抗肿瘤形成、延长寿命相关,该作用独立于
+胰岛素抵抗的改善,其机制尚不清楚,可能与氧化应激
+减轻有关[16]。 然而,Fontana 等[17] 认为,限制蛋白质
+摄入是降低 IGF-I水平的关键因素,长期普通限食
+(1 ~ 6 年)并未降低患者血清 IGF-I水平。 本研究中,
+短期极低热量限食降低 IGF-I水平的作用是否能够
+长期维持,IGF-I下降是否影响限食患者发生肿瘤的
+风险,均值得进一步随访观察。
+对限食后发生显著变化的胰淀素、瘦素、IGF-I与
+体重、空腹血糖、胰岛素、胰岛素抵抗指数、血脂等作相
+关性分析,结果发现,限食后瘦素的变化与总胆固醇的
+变化呈正相关,其余参数的变化之间未见显著相关性。
+作为治疗手段,短期极低热量限食(又有称禁食)
+也被用于风湿性关节炎、纤维肌痛等免疫性疾病[18],
+其在代谢性疾病中的作用亦被认可。 因治疗期间热量
+摄入极少,患者可能会出现低血糖、头晕、紧张焦虑、一
+过性尿酸升高等不良反应,故均需住院观察。 极低热
+量摄入的时间一般不宜超过 2 周,部分患者在 6 个
+月 ~ 1 年后可以根据自身意愿再次接受限食治疗。
+综上所述,代谢综合征患者在短期极低热量限食
+后体重、血糖、血脂、胰岛素敏感性等代谢性指标显著
+改善,这与限食引起的体内能量调节激素瘦素、胃促生
+长素的改变相关,此外,胰淀素、肠促胰岛素、IGF-I /
+胰岛素等激素水平的变化亦参与其中。 今后将继续随
+访患者,并不断扩大样本量,以进一步了解短期限食对
+患者代谢指标及激素水平的长期影响。

@@ -1,0 +1,211 @@
+综述
+病科,上海市内分泌代谢病临床医学中心,上海市内分泌代谢病研究所
+mTOR 信号通路对于胰岛 β细胞功能和存活的调控作用
+及其机制
+谢运  顾燕云  汪启迪  宁光
+[提要]   mTOR 通路是细胞内主要的营养感受器,对于细胞的增殖、生长及代谢具有重要作用。 在细
+胞内,该通路通过与特定蛋白结合形成蛋白复合物而发挥作用。 目前发现在哺乳动物中有两种含 mTOR
+的蛋白复合物:mTORC1 和 mTORC2,两者对 mTOR 通路抑制剂雷帕霉素的敏感性不同,在体内更是发挥着
+截然不同的作用。 雷帕霉素作为免疫抑制剂和抗肿瘤药物在临床中应用广泛,然而长期使用可损害 β 细
+胞引起糖耐量异常等代谢紊乱。 进一步的转基因小鼠模型和体外试验表明,mTORC1 和 mTORC2 的活性
+对于维持胰岛细胞数量及功能十分重要。 而其是否参与 2 型糖尿病发病,及其在 β 细胞内所介导的具体
+分子机制是目前该领域研究的热点之一。
+[关键词]   mTOR 丝氨酸 /苏氨酸激酶; 胰岛 β 细胞; 糖尿病
+Regulation and mechanism of mTOR pathway in β-cell function and survival Xie Yun, Gu Yanyun, Wang
+Qidi, Ning Guang. Department of Endocrine and Metabolic Diseases, Shanghai Clinical Center for Endocrine and
+Metabolic Diseases, Shanghai Institute of Endocrine and Metabolic Diseases, Ruijin Hospital, Shanghai Jiaotong
+University School of Medicine, Shanghai 200025, China
+[Summary]  mTOR pathway plays a critical role in cell proliferation, growth and metabolism. This pathway is
+composed of two different large protein complexes, mTORC1 and mTORC2, which have their distinct downstream
+effects. Its inhibitor, rapamycin, has been proved to cause β-cell damage and glucose intolerance. Furthermore,
+various transgenic mouse models and ex vivo studies have revealed that mTORC1 and mTORC2 are both essential for
+maintaining normal β cell mass and function, whereas the underlying molecular mechanism and the relevance of the
+whole mTOR signaling to pathogenesis of type 2 diabetes remain to be explored and further clarified.
+[Key words]  mTOR serine / threonine kinase; Pancreatic β-cells; Diabetes mellitus
+(Chin J Endocrinol Metab, 2015, 31: 181-184)
+雷帕霉素理论靶点蛋白(mechanistic target of rapamycin,
+mTOR)是一个高度保守的丝氨酸 /苏氨酸激酶,它可以整合来
+自上游不同营养物质及激素、生长因子信号,对细胞的生长、增
+殖、活力及功能等方面有着重要作用。 其抑制剂,雷帕霉素,已
+作为免疫抑制药物及抗肿瘤药物,在临床上广泛使用。 近年
+来,在临床及基础研究两方面,我们对于这条通路在代谢,特别
+是影响胰岛细胞功能的作用有了诸多新的认识。 本文对近年
+该领域研究的一些进展进行了总结及展望。
+一、 mTOR 通路简介
+mTOR 激酶依赖于它所存在于两个复合体中发挥作用,分
+别称为 mTOR 复合体 1(mTOR complex 1, mTORC1)和 mTOR
+复合体 2(mTOR complex 2, mTORC2),两者对于雷帕霉素的敏
+感性,其上下游调控方式均有着明显的差异(图 1)。 一般认
+为,mTORC1 对于雷帕霉素的抑制作用比较敏感,而 mTORC2
+需要长时间雷帕霉素作用才能被抑制[1] 。 两个 mTOR 的复合
+体均 有 多 个 蛋 白 组 成, 除 两 者 共 同 含 有 mTOR, mLST8,
+DEPTOR,及 Tti1 / Tel2 复合体等之外,mTORC1 特异性地含有
+mTOR 调控相关性蛋白( regulatory-associated protein of mTOR,
+Raptor) 及 PRAS40,而雷帕霉素不敏感性 mTOR 伴随蛋白
+(rapamycin-insensitive companion of TOR, Rictor)和 mSin1 则是
+mTORC2 的特异组成部分[1] 。
+mTORC1:mTORC1 感应生长因子、应激、能量状态、氧供及
+氨基酸等上游信的作用较为明确,同时对细胞的蛋白质及脂质
+合成、自噬等起关键调控作用[1] 。 结节性硬化复合体 1 / 2
+(tuberous sclerosis complex 1 / 2, TSC1 / 2)异二聚体是 mTORC1
+上游的关键负性调控因子,它作为 GTP 酶激活蛋白,使下游的
+脑 Ras 同系物蛋白(ras homolog enriched in brain, Rheb)处于与
+GTP 解离而与 GDP 结合的失活状态,从而抑制 mTORC1。 胰岛
+素及胰岛素样生长因子 1 等均可激活 PI3K / Akt 通路,直接磷
+酸化 TSC1 / 2 复合体,使之失活,导致下游 mTORC1 信号持续激
+活。 其他如 TNFα 等一些促炎因子及 Wnt 通路,亦可通过
+TSC1 / 2 来调控 mTORC1。 氨基酸,特别是亮氨酸和精氨酸,可
+不依赖于 TSC1 / 2 将 mTORC1 由细胞胞浆转位至溶酶体外膜
+上,使其处于可被激活状态[2] 。
+mTORC1 对细胞蛋白质的合成起到重要作用[3] , 其下游被
+研究最多的两个因子 S6 激酶(S6 kinase, S6K)和真核细胞翻译
+注:mTOR 信号通路由 mTORC1 及 mTORC2 构成。 两者均可在 PI3K 的介导下受生长因子调控。 mTORC1 亦可接受细胞应激,外周能量状态及
+氨基酸等营养物质信号调节。 mTORC1 通路对细胞生长、存活、蛋白质合成、能量代谢及自噬等诸多活动起到关键性调控作用,而 mTORC2 亦通过磷
+酸化多种环磷酸腺苷依赖性-环磷酸鸟苷依赖性-蛋白激酶 C(cAMP dependent, cGMP dependent and Protein kinase C, AGC)激酶家族蛋白,调节多种细
+胞功能。
+图 1  mTOR 通路及其上下游主要调控机制
+起始因子 4E 结合蛋白 1(eukaryotic translation initiation factor 4E
+binding protein 1, 4E-BP1) 均可参与这方面的调控。 其中
+4E-BP1 的磷酸化可维持真核细胞翻译起始因子 4F(eIF4F)复
+合体的稳定,推动蛋白翻译启动。 S6K 磷酸化核糖体蛋白 S6
+(ribosome protein S6, rpS6),后者的磷酸化激活对于核糖体的生
+物合成以及细胞生长有着重要作用。 mTORC1 亦可调控脂质
+合成[4] ,现已知这很大程度上依赖转录因子 SREBP1 / 2,后者调
+控一系列脂肪酸及胆固醇合成过程中的关键酶的表达。
+mTORC1 也通过调节 PPARγ 的表达和活性来调控脂肪合成。
+mTORC1 调控 PGC1α 及 YY-1 等转录因子活性,同时通过
+HIF1α 增加细胞糖酵解能力,进一步参与线粒体生物合成及能
+量代谢。 mTORC1 同时亦是一个非常关键的促发细胞自噬的
+重要信号,可以负性调控细胞自噬及溶酶体合成等过程[1] 。
+mTORC2:mTORC2 一般以对 PI3K 依赖的形式接受上游的
+生长因子的信号。 其具体的机制仍不甚明了,但 Zinzalla 等[5]
+的研究结果提示核糖体在其中可能发挥作用,他们的研究认为
+mTORC2 需与核糖体结合才能发挥活性,而这种结合是依赖于
+PI3K 的激活。
+mTORC2 可磷酸化多个 AGC 家族的激酶,包括 Akt,蛋白
+激酶 C(protein kinase C, PKC),血清和糖皮质激素调控激酶 1
+( serum and glucocorticoid-regulated kinase 1, SGK1 ) 等[1] 。
+mTORC2 是磷酸化 Akt 的 Ser473 位点的关键激酶。 尽管磷酸
+化 TSC2 及 GSK3β 等其他 Akt 下游分子并不依赖 Akt Ser473 位
+点,但该位点磷酸化仍为 Akt 的完全活化所必需,也是磷酸化
+某些 AKT 下游因子,如 FoxO1 的必要条件。 SGK1 的活性则完
+全受 mTORC2 调控,并在离子转运及细胞生长等方面发挥作
+用[6] 。 现已知包括 PKCα 在内的一些 PKC 家族蛋白,均需要
+mTORC2 磷酸化,维持其蛋白稳定,不被泛素化,从而使其发挥
+正常的生理功能。 最近,mTORC2 被发现对于脂代谢也起着重
+要的调控作用[7] ,它为正常肝脏内脂质合成所必需,而同时可
+抑制白色脂肪组织的脂解,提示 mTORC2 在机体代谢调控中发
+挥作用,其介导的具体机制仍有待进一步研究。
+二、 mTOR 对于胰岛 β 细胞功能的影响
+雷帕霉素作为一种免疫抑制药物,在多种器官移植中广泛
+应用,而在肾移植后治疗中的使用最为普遍。 研究显示[8] 应用
+雷帕霉素后,肾移植患者出现糖耐量异常的情况较前增加了
+30% , 而其他多项针对肾移植患者的多变量分析结果提示,
+雷帕霉素是移植后新发糖尿病 ( newly-onset diabetes after
+transplantation, NODAT)的一个独立的危险因素。 这个问题在
+用胰岛细胞移植治疗 1 型糖尿病中显得尤为突出。 在世界范
+围内广受推行的 Edmonton 方案将雷帕霉素作为胰岛细胞移植
+中主要的免疫抑制药物。 尽管移植术后 1 年的随访结果令人
+满意,但在随访 5 年后,大约仅有 10% 的患者可完全脱离胰岛
+素治疗[9] 。 有证据显示这种临床结局很有可能来自于雷帕霉
+素对胰岛细胞的直接毒性作用[10] 。
+有关雷帕霉素对于胰岛细胞作用的研究受 β 细胞纯度、不
+同胰岛细胞系以及雷帕霉素剂量的影响,结果存在一定的异质
+性[11] 。 但总体而言,在胰岛或胰岛素瘤细胞系中,雷帕霉素均
+能负向调控糖刺激的胰岛素分泌 ( glucose-stimulated insulin
+secretion, GSIS) [11] ,而 Bussiere 等[12] 的研究认为,雷帕霉素同
+时可降低胰岛细胞活力,并对其有促进凋亡作用。 因此目前认
+为,作为雷帕霉素在体内的特异性靶点,mTOR 信号通路对维
+持 β 细胞功能性总质量( functional β-cell mass)具有相当重要
+的作用。
+mTORC1 在胰岛 β 细胞中的作用:一系列在转基因小鼠模
+型的研究证实了 mTORC1 在胰岛 β 细胞中的重要作用。 首先,
+在胰岛 β 细胞中选择性地敲除 TSC1 / TSC2[13] ,或高表达
+Rheb[14] ,可激活 mTORC1,通过增加 β 细胞的体积及总质量,
+提高血胰岛素水平,促进糖耐量改善。 这种作用被证明在一定
+程度上是由 S6K 的磷酸化所介导的。 其次,S6K1 或 rpS6 全身
+敲除小鼠可表现出低胰岛素、糖耐量受损及胰岛细胞缩小等表
+型[15] 。 最后,过表达持续激活的 S6K 则增加胰岛细胞体积,从
+而改善糖耐量[16] 。 然而,对于 mTORC1 是否参与胰岛细胞增
+殖调控的认识仍颇有争议,有研究提示 mTORC1 仅参与 β 细胞
+生长(体积变化)的调控而不影响增殖[14] 。 而有一些研究则认
+为 mTORC1 可在 β 细胞中调控细胞周期蛋白 Cyclin D2 和 D3
+的合成和稳定性,后两者可以与 CDK4 等构成复合体,参与调
+控细胞周期进程[17] 。
+除了影响 β 细胞量(β-cell mass),mTORC1 也可影响 β 细
+胞的胰岛素分泌功能。 我们的前期研究证实,mTORC1 通路参
+与胰岛 β 细胞在长期促泌环境下的功能代偿机制:持续的促泌
+刺激导致 β 细胞脱颗粒,这种反应可代偿性激活 β 细胞内钙通
+道介导的 mTORC1 信号传导系统,通过增加其下游四种翻译调
+节因子,促进胰岛素的合成,避免胰岛素库存的耗竭,并维持正
+常的胰岛素分泌能力[18] 。 抑制离体单个 β 细胞内 mTORC1 活
+性,可以显著降低单个 β 细胞内总蛋白和胰岛素的合成水平,
+长期甚至可导致细胞的凋亡[19] 。 Mori 等[13] 发现 TSC1 特异敲
+除小鼠即可表现出单个 β 细胞胰岛素分泌量的增多。 目前,仍
+不清楚雷帕霉素具体作用在复杂的胰岛素分泌过程中的哪个
+环节。 Shimodahira 等[20] 的一项研究认为,mTORC1 的抑制可
+影响线粒体功能,特别是其中 α-酮戊二酸脱氢酶的活性,从而
+影响糖代谢及 ATP 合成,抑制胰岛素分泌。 Tanemura 等[21] 发
+现,雷帕霉素通过抑制 mTORC1 活性,促进细胞自噬,而自噬可
+导致胰岛素合成过程中的一些重要蛋白的降解,降低胰岛素分
+泌。 分子水平上,近来 Nie 等[22] 的研究则证实 mTORC1 下游
+因子 SAD-A 可以直接调控胰岛 β 细胞大小及糖促胰岛素分泌
+水平,揭示了 mTORC1 对胰岛细胞功能调控新的可能的潜在分
+子机制。 但总体而言,这方面的研究尚无以 β 细胞特异敲除如
+Raptor 等 mTORC1 主要成分的小鼠模型为研究对象,不能完全
+代表 mTORC1 的活性。
+mTORC2 在胰岛 β 细胞中的作用:体内外的研究均发现,
+mTORC2 活性经长时间的雷帕霉素处理后方能受到抑制。 Akt
+作为 mTORC2 下游关键的效应分子,其促进 β 细胞质量增加,
+促进胰岛素分泌合成,改善糖耐量的作用早已得到确认[15] 。
+我们的前期研究构建了 β 细胞中特异性敲除 Rictor(βRicKO)
+的模型,为探讨 mTORC2 在 β 细胞内功能提供了重要线索。 我
+们的结果发现:β 细胞中特异性敲除 Rictor 确可导致小鼠血浆
+胰岛素水平的下降并由此引起血糖升高[23] ;且这些变化与小
+鼠的 β 细胞质量及增生的减少相关;如果同时在 βRicKO 小鼠
+胰岛内敲除负性调控 PI3K / Akt 通路的蛋白 PTEN,可以恢复 β
+细胞的总质量。 深入研究发现,同时敲除 PTEN 带来 β 细胞总
+质量的恢复,更多的是由于增加 β 细胞体积而非纠正 Rictor 敲
+除所致的 β 细胞增殖缺陷。 同样敲除 PTEN 不能恢复 Akt
+Ser473 活性, 却使 Akt Thr308 位点高度活化。 由此认为,
+mTORC2 借由磷酸化 Akt Ser473 对促进胰岛细胞的增殖可能是
+Akt 活性位点特异的作用[23] 。 而同时,Barlow 等[24] 发现,通过
+RNA 干扰(siRNA)降低离体胰岛的 Rictor 表达可造成 β 细胞
+凋亡的增加及 GSIS 的减少。 而 mTORC2 如何调节 β 细胞功能
+的作用机制尚不明确。
+三、 小结与展望
+mTOR 信号通路是细胞内相当保守的一条分子途径,感受
+细胞或机体营养和生长信号从而掌管机体的生长,发育,免疫,
+增龄直到死亡。 越来越多的证据证实全身应用 mTOR 信号抑
+制剂雷帕霉素,如移植免疫治疗或泌尿系统肿瘤药物治疗等,
+均可导致机体代谢紊乱,提示它很有可能参与代谢综合征及或
+2 型糖尿病的发病。 然而,mTOR 信号调节代谢稳态的机制尚
+不完全明了,最新发现雷帕霉素干预时间长短给代谢稳态带来
+的影响也截然不同[25] 。 同时,mTOR 两个不同复合物在不同的
+脏器调节代谢具有一定的协同性,但调控靶点及机制却有很大
+不同:如对于糖代谢,mTORC1 可在胰岛素敏感组织中调控多
+种葡萄糖转运子的转录活性以提高葡萄糖吸收[1] ,而 mTORC2
+则可通过促进葡萄糖转运子 4 向细胞膜转位起到相似作用,且
+可在肝脏中通过 Akt 的激活促进糖酵解[26] ; 脂代谢中,
+mTORC1 在肝脏及脂肪组织中均被证实可激活 SREBP1 / 2 活
+性,从而促进脂质及脂肪合成,mTORC2 同样为肝脏脂质合成
+所必需,而在脂肪细胞中特异性敲除 Rictor 则可造成脂肪分解
+增加[7] ;机体能量代谢方面,mTORC1 在下视丘弓状核中的神
+经肽 Y /南 美 豚 鼠 相 关 蛋 白 ( neuropeptide Y / Agouti-related
+Protein, NPY / AgRP) 神经元和阿片-促黑素细胞皮质素原
+(proopiomelanocortin,POMC)神经元中均起到上游激素信号的
+传递作用,分别起到促进和抑制食欲的作用[27] ,而最近的一项
+研究发现,在 POMC 神经元中抑制 mTORC2 信号通路则可引起
+迟发性肥胖及糖耐量异常,但具体机制尚不明确[28] 。 前文已
+述,胰岛方面的研究显示 mTOR 信号系统受到抑制将直接损害
+β 细胞的增殖与功能,可进一步导致血糖升高。 然而这其中的
+分子机制,尤其 mTOR 通路是否通过改变胰岛 β 细胞内代谢状
+态而影响细胞的分泌功能? 是否介导营养信号调节 β 细胞应
+对外周胰岛素抵抗和营养失衡的代偿与失代偿的病理生理机
+制? mTOR 两个蛋白复合物的调节代谢作用有何异同? 都是
+亟待解决的关键科学问题。
+因此,有关 mTOR 信号在 β 细胞中的分子生物学的研究不
+仅将有助于发掘既能保护 β 细胞又具备良好的免疫抑制效果
+的临床移植免疫用药,同时更重要的是阐明胰岛内 mTOR 信号
+系统在 2 型糖尿病发病过程中的可能机制,发现 2 型糖尿病预
+防和诊治新靶点。

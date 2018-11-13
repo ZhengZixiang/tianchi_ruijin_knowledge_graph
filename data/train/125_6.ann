@@ -1,0 +1,240 @@
+T1	Disease 70 76	2 型糖尿病
+T2	Disease 120 126	2 型糖尿病
+T3	Disease 196 202	2 型糖尿病
+T4	Disease 454 460	2 型糖尿病
+T5	Disease 2293 2299	2 型糖尿病
+T6	Disease 2363 2369	2 型糖尿病
+T7	Disease 2550 2556	2 型糖尿病
+T8	Disease 2670 2676	2 型糖尿病
+T9	Disease 5891 5897	2 型糖尿病
+T10	Disease 5964 5967;5968 5971	2 型 糖尿病
+T11	Disease 7192 7198	2 型糖尿病
+T12	Disease 2433 2434;2435 2439	2 型糖尿病
+T13	Test 6055 6060	HBA1C
+T14	Test 6349 6354	HBA1C
+T15	Test 2841 2845	空腹血糖
+T16	Test 2747 2750	肾功能
+T17	Test 5837 5841	静脉血糖
+T18	Test 3156 3158	身高
+T19	Test 3159 3161	体重
+T20	Disease 6337 6342;6343 6344	2 型糖尿 病
+T21	Test 188 190	血糖
+T22	Test 217 219	血糖
+T23	Test 530 532	血糖
+T24	Test 537 539	血糖
+T25	Test 2179 2181	血糖
+T26	Test 2227 2229	血糖
+T27	Test 2272 2274	血糖
+T28	Test 2335 2337	血糖
+T29	Test 2624 2626	血糖
+T30	Test 2816 2818	血糖
+T31	Test 2828 2830	血糖
+T32	Test 2832 2834	血糖
+T33	Test 2903 2904;2905 2906	血 糖
+T34	Test 3045 3047	血糖
+T35	Test 3253 3255	血糖
+T36	Test 3278 3280	血糖
+T37	Test 3320 3322	血糖
+T38	Test 3391 3393	血糖
+T39	Test 3495 3496;3497 3498	血 糖
+T40	Test 3559 3561	血糖
+T41	Test 3705 3706;3707 3708	血 糖
+T42	Test 4198 4200	血糖
+T43	Test 4319 4321	血糖
+T44	Test 4413 4415	血糖
+T45	Test 4451 4453	血糖
+T46	Test 5125 5127	血糖
+T47	Test 5194 5196	血糖
+T48	Test 5409 5411	血糖
+T49	Test 5416 5418	血糖
+T50	Test 5724 5726	血糖
+T51	Test 5741 5743	血糖
+T52	Test 5810 5812	血糖
+T53	Test 5866 5868	血糖
+T54	Test 5900 5901;5902 5903	血 糖
+T55	Test 6456 6458	血糖
+T56	Test 6490 6492	血糖
+T57	Test 6564 6566	血糖
+T58	Test 6571 6573	血糖
+T59	Disease 2025 2028	糖尿病
+T60	Reason 2086 2094	内源性胰岛素不足
+T61	Test_Value 2655 2668	4. 7 mmol / L
+T62	Disease 2705 2710	糖尿病酮症
+T63	Disease 2711 2716	酮症酸中毒
+T64	Anatomy 2741 2743	心脏
+T65	Anatomy 2744 2745	肝
+T66	Drug 2759 2761	安眠
+T67	Drug 2762 2767	镇静类药物
+T68	Disease 2803 2806	糖尿病
+T69	Test_Value 2846 2860	5 ~ 8 mmol / L
+T70	Test_Value 2872 2887	6 ~ 10 mmol / L
+T71	Drug 2923 2926	胰岛素
+T72	Amount 2929 2936	4 ~ 6 U
+T73	Symptom 3125 3127	乏力
+T74	Symptom 3128 3130	饥饿
+T75	Symptom 3131 3135	心慌发汗
+T76	Symptom 3136 3140	夜间恶梦
+T77	Drug 3113 3116	胰岛素
+T78	Method 3111 3113	注射
+T79	Test_Value 3280 3304	≤3. 9 mmol / L 持续 15 min
+T80	Test_Value 3324 3338;3339 3354	≥3. 9 mmol / L 并正常持续 30 min 以上
+T81	Symptom 3432 3434	心悸
+T82	Symptom 3435 3437	出汗
+T83	Symptom 3438 3440	饥饿
+T84	Test_Value 4816 4829	4. 7 mmol / L
+T85	Test_Value 4855 4860;4861 4869	≤4. 7 mmol / L
+T86	Test_Value 4962 4976	≤4. 7 mmol / L
+T87	Test 5678 5685;5686 5688	组织间液葡萄糖 浓度
+T88	Test_Value 5694 5712	2. 2 ~ 22 mmol / L
+T89	Test_Value 5905 5909	相对稳定
+T90	Test 6240 6243	MBG
+T91	Test 4887 4890	MBG
+T92	Test_Value 6243 6254	≤6 mmol / L
+T93	Test_Value 6355 6359	< 7%
+T94	Test_Value 6371 6375;6376 6384	8. 6 mmol / L
+T95	Test_Value 6392 6409	6 ~ 8. 6 mmol / L
+T96	Test_Value 6769 6782	低于 5 mmol / L
+T97	Test_Value 6825 6827;6828 6841	低于 4. 7 mmol / L
+T98	Test_Value 6897 6911	≤4. 7 mmol / L
+T99	Test_Value 6953 6958;6959 6967	≤4. 7 mmol / L
+T100	Drug 6992 6995	胰岛素
+T101	Amount 6987 6988;6989 6990	减 少
+T102	Amount 6998 7005	4 ~ 6 U
+T103	Disease 7224 7227	糖尿病
+T104	Test_Value 7239 7250;7251 7259	5. 6 ~ 7. 8 mmol / L
+T105	Test_Value 7312 7326	≤4. 7 mmol / L
+T106	Disease 7330 7338	夜间 低 血 糖
+T107	Test_Value 7408 7422	≤4. 7 mmol / L
+T108	Drug 7448 7451	胰岛素
+T109	Disease 78 83	夜间低血糖
+T110	Disease 137 142	夜间低血糖
+T111	Disease 152 155;156 158	夜间低 血糖
+T112	Test 231 235	全天血糖
+T113	Test 254 256	血糖
+T114	Disease 259 264	夜间低血糖
+T115	Disease 275 278	低血糖
+T116	Disease 279 285	无症状低血糖
+T117	Disease 286 291	夜间低血糖
+T118	Disease 345 350	夜间低血糖
+T119	Disease 393 398	夜间低血糖
+T120	Disease 462 467	夜间低血糖
+T121	Disease 491 496	夜间低血糖
+T122	Disease 511 516	夜间低血糖
+T123	Disease 2031 2034	低血糖
+T124	Disease 2058 2061	低血糖
+T125	Disease 2082 2085	低血糖
+T126	Disease 2166 2169	低血糖
+T127	Test 2174 2178	血糖监测
+T128	Disease 2188 2191	低血糖
+T129	Test 2209 2213	血糖监测
+T130	Disease 2218 2222;2223 2224	夜间低血 糖
+T131	Disease 2245 2246;2247 2251	夜 间低血糖
+T132	Test 2260 2264	血糖监测
+T133	Disease 2311 2316	夜间低血糖
+T134	Disease 2327 2332	夜间低血糖
+T135	Disease 2369 2374	夜间低血糖
+T136	Disease 2500 2503	低血糖
+T137	Test 2643 2644;2645 2654	晚 餐后 3 h 血糖
+T138	Disease 2717 2720;2721 2725	高血糖 高渗状态
+T139	Test 2861 2871	早餐后 2 h 血糖
+T140	Test 3024 3026	血糖
+T141	Test 3078 3080	血糖
+T142	Test 3241 3243	血糖
+T143	Disease 3312 3317	低血糖发作
+T144	Disease 3371 3376	低血糖发作
+T145	Disease 3455 3461	无症状低血糖
+T146	Disease 3466 3471	夜间低血糖
+T147	Test 3503 3509	日内平均血糖
+T148	Disease 3714 3717	低血糖
+T149	Disease 3727 3733	无症状低血糖
+T150	Disease 3741 3746	夜间低血糖
+T151	Disease 3755 3758	低血糖
+T152	Disease 3759 3765	无症状低血糖
+T153	Disease 3767 3772	夜间低血糖
+T154	Disease 3816 3819	低血糖
+T155	Disease 3829 3831;3832 3836	无症 状低血糖
+T156	Disease 3853 3858	夜间低血糖
+T157	Test 3880 3885	日平均血糖
+T158	Disease 3886 3889	低血糖
+T159	Disease 3890 3895	夜间低血糖
+T160	Disease 3896 3900;3901 3903	无症状低 血糖
+T161	Test 3910 3915	日平均血糖
+T162	Disease 3916 3919	低血糖
+T163	Disease 3947 3952	夜间低血糖
+T164	Disease 3970 3972;3973 3977	无症 状低血糖
+T165	Disease 4231 4236	夜间低血糖
+T166	Disease 4616 4621	夜间低血糖
+T167	Test 4625 4635	晚餐后 3 h 血糖
+T168	Test 4642 4652	晚餐后 3 h 血糖
+T169	Test 4653 4658	日平均血糖
+T170	Test 4677 4687	晚餐后 3 h 血糖
+T171	Disease 4689 4692	低血糖
+T172	Test 4740 4750	晚餐后 3 h 血糖
+T173	Disease 4752 4757	夜间低血糖
+T174	Disease 4789 4794	夜间低血糖
+T175	Test 4803 4812	餐后 3 h 血糖
+T176	Test 4846 4855	餐后 3 h 血糖
+T177	Test 4952 4962	晚餐后 3 h 血糖
+T178	Disease 5547 5552	夜间低血糖
+T179	Disease 5760 5763	低血糖
+T180	Disease 5764 5767	高血糖
+T181	Disease 5911 5914	低血糖
+T182	Disease 5932 5938	无症状低血糖
+T183	Disease 5947 5952	夜间低血糖
+T184	Disease 5971 5974	低血糖
+T185	Disease 5980 5986	无症状低血糖
+T186	Disease 5990 5991;5992 5994	低 血糖
+T187	Disease 6020 6025	夜间低血糖
+T188	Test 6033 6038	日平均血糖
+T189	Test 6041 6043	血糖
+T190	Test 6073 6078	日平均血糖
+T191	Disease 6079 6081;6082 6083	低血 糖
+T192	Disease 6096 6101	夜间低血糖
+T193	Test 6115 6120	日平均血糖
+T194	Disease 6124 6127	低血糖
+T195	Disease 6132 6137	夜间低血糖
+T196	Test 6157 6162	日平均血糖
+T197	Disease 6166 6171	夜间低血糖
+T198	Disease 6186 6191	夜间低血糖
+T199	Disease 6217 6223	无症状低血糖
+T200	Test 6264 6268	平均血糖
+T201	Disease 6277 6283	无症状低血糖
+T202	Disease 6284 6287;6288 6290	夜间低 血糖
+T203	Reason 6306 6311	日平均血糖
+T204	Disease 6313 6318	夜间低血糖
+T205	Test 6364 6368	平均血糖
+T206	Test 6387 6391	平均血糖
+T207	Disease 6426 6431	夜间低血糖
+T208	Disease 6477 6480	低血糖
+T209	Disease 6504 6507	低血糖
+T210	Test 6609 6611	血糖
+T211	Disease 6616 6621	夜间低血糖
+T212	Test 6627 6637	晚餐后 3 h 血糖
+T213	Test 6638 6643	日平均血糖
+T214	Test 6650 6655	日平均血糖
+T215	Test 6656 6666	晚餐后 3 h 血糖
+T216	Disease 6668 6673	夜间低血糖
+T217	Test 6721 6726	日平均血糖
+T218	Test 6728 6738	晚餐后 3 h 血糖
+T219	Disease 6746 6751	夜间低血糖
+T220	Test 6757 6767	晚餐后 3 h 血糖
+T221	Disease 6784 6789	夜间低血糖
+T222	Test 6814 6824	晚餐后 3 h 血糖
+T223	Disease 6846 6851	夜间低血糖
+T224	Reason 6865 6874	餐后 3 h 血糖
+T225	Disease 6875 6880	夜间低血糖
+T226	Test 6885 6895	晚餐后 3 h 血糖
+T227	Disease 6916 6921	夜间低血糖
+T228	Test 6943 6953	晚餐后 3 h 血糖
+T229	Disease 7051 7052;7053 7057	夜 间低血糖
+T230	Disease 7159 7164	夜间低血糖
+T231	Disease 7203 7208	夜间低血糖
+T232	Test 7231 7235	睡前血糖
+T233	Disease 7291 7293;7294 7297	夜间 低血糖
+T234	Test 7302 7312	晚餐后 3 h 血糖
+T235	Test 7385 7395	晚餐后 3 h 血糖
+T236	Test 7397 7407	晚餐后 3 h 血糖
+T237	Disease 7461 7464;7465 7467	夜间低 血糖
+T238	Test_Value 3393 3407	≤3. 9 mmol / L
+T239	Test 236 238	BG
+T240	Duration 3411 3413;3414 3417	15 min

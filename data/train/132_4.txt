@@ -1,0 +1,330 @@
+临床研究
+基金项目:卫生部脑卒中筛查与防治工程
+二科(陈宝鑫、张志辰、张允岭),教务处(王红梅),医务处(周春宇),功
+能科(赵晖),检验中心(朱津浦),脑病一科(高芳);北京市丰台区蒲黄
+④社区卫生服务中心(张志军);北京市丰台区王佐社区卫生服务中心
+(杨秀泉)
+三种代谢综合征诊断标准在 4 206 例脑卒中
+高危患者中的比较研究
+刘晶  陈宝鑫  王红梅  周春宇  赵晖  朱津浦  张志军  杨秀泉  张志辰  高芳
+张允岭
+[摘要]   目的   比较国际糖尿病联盟( IDF,2005 年)、美国国家胆固醇教育计划成人治疗指南
+(NCEP-ATP3)修订版(NCEP-ATP3修订版,2005 年)和《中国成人血脂异常防治指南》 (血脂指南,2007
+年)3 种代谢综合征诊断标准在脑卒中高危人群中的应用。 方法 选择脑卒中高危患者,比较 3 种标准的
+诊断差异,并比较不同诊断标准下有无代谢综合征(MS)与颈动脉粥样硬化的关系。 结果 应用 IDF、
+NECP-ATP3修订版和“血脂指南冶标准,MS 患病率分别为 61. 7% 、72. 4% 和 58. 9% ;MS 组颈动脉内中膜
+增厚(54. 3%对 50. 3% 、55. 0%对 46. 8% 、57. 0%对 46. 6% ,均 P<0. 05)及斑块(44. 9% 对 38. 7% 、45. 2%
+对 35. 7% 、47. 8%对 35. 0% 、均 P<0. 05)的检出率均显著高于非 MS 组;随着 MS 组分数的增加,颈动脉内
+中膜增厚及斑块检出率逐渐增加(均 P<0. 01);3 种诊断标准的 MS 使颈动脉粥样硬化的风险均增强。 结
+论 MS 能增加颈动脉粥样硬化患病率,在预测颈动脉内中膜增厚时以 NECP-ATP3修订版标准突出,而预
+测颈动脉斑块时以“血脂指南冶标准突出。
+[关键词]   代谢综合征; 脑卒中; 高危; 颈动脉粥样硬化
+Comparison of three types of diagnostic criteria for metabolic syndrome among 4 206 patients with high stroke
+risk Liu Jing *, Chen Baoxin, Wang Hongmei, Zhou Chunyu, Zhao Hui, Zhu Jinpu, Zhang Zhijun, Yang
+Xiuquan, Zhang Zhichen, Gao Fang, Zhang Yunling.*Medical Insurance Affairs Office, Dongfang Hospital, Beijing
+University of Chinese Medicine, Beijing 100078,China
+[Abstract]  Objective  To compare 3 types of diagnostic criteria for metabolic syndrome(MS) in patients with
+high risk of stroke. Three types of criteria were proposed by (1) International Diabetes Federation( IDF), (2) The
+revised National Cholesterol Education Program-Adult Treatment Panel 3(NCEP -ATP3-R), and(3)"Guideline of
+Dyslipidemia Control for Chinese Adult" ( " Guideline" ) . Methods A total 4 206 patients with high risk of stroke
+were enrolled in the study. Diagnosis of MS was made according to three different criteria, and carotid atherosclerosis
+was evaluated in the patients with or without MS. Results The prevalences of MS according to the IDF, NCEP -ATP
+3-R, and "Guideline" were 61. 7% , 72. 4% , and 58. 9% respectively. The incidence of thickened carotid intima-
+media(54. 3% vs 50. 3% , 55. 0% vs 46. 8% , 57. 0% vs 46. 6% , all P<0. 05) and carotid atherosclerotic plaques
+(44. 9% vs 38. 7% ,45. 2% vs 35. 7% ,47. 8% vs 35. 0% , all P<0. 05) was significantly higher in MS patients than
+non-MS ones. As the number of MS components increased, the incidence of carotid atherosclerosis rised significantly
+(all P<0. 01) . Conclusions MS is related to raised incidence of carotid atherosclerosis. NCEP -ATP3-R seems
+more suitable in detecting thickened carotid intima-media layer. While " Guideline" is better in predicting carotid
+atherosclerotic plaques.
+[Key words]  Metabolic syndrome; Stroke; High-risk; Carotid atherosclerosis
+(Chin J Endocrinol Metab, 2014, 30: 192-196)
+随着社会经济的发展,人们生活方式的改变,代谢
+综合征(metabolic syndrome,MS)的患病率呈现逐年上
+升的趋势,已成为临床和公共卫生共同关注的问题。
+然而 MS 至今尚无统一的诊断标准,使用不同的标准,
+MS 对心脑血管疾病的患病率和死亡率影响不同。 本
+研究通过病例的横断面研究,旨在比较国际糖尿病联
+盟(IDF) [1]标准、美国国家胆固醇教育计划成人治疗
+指南(NCEP-ATP3)修订版(NCEP -ATP3修订版) [2]
+及《中国成人血脂异常防治指南》 (血脂指南) [3] 标准
+等 3 种不同的 MS 工作定义在脑卒中高危人群中的差
+异,以期了解该人群中 MS 的患病情况及与颈动脉粥
+样硬化的关系,探讨更适合该人群的 MS 诊断标准。
+对象和方法
+一、 对象
+本研究为 2011 年国家卫生部重大医改专项的一
+部分,项目组于 2012 年对北京市王佐镇、东铁营街道
+常住人口进行脑卒中高危人群筛查,其纳入条件参照
+卫生部 2012 年印发的《脑卒中高危人群筛查和干预试
+点项目管理办法(试行)》 [4]:(1)年龄 40 岁以上(1972
+年 12 月 31 日前出生)的北京市常住人口;(2)既往有
+脑卒中或短暂性脑缺血发作病史者直接纳入;(3)以
+下 8 个脑卒中危险因素,具备 3 个或以上者纳入:淤血
+压>140 / 90 mmHg(1 mmHg = 0. 133 kPa);于房颤或瓣
+膜性心脏病;盂吸烟;④血脂异常;虞糖尿病;愚体育锻
+炼很少或轻体力劳动者;舆明显超重(体重指数>26
+kg / m2);余脑卒中家族史。 排除标准:(1)有精神疾
+患,无法独立完成筛查;(2)长期卧床,无完全行动者;
+(3)其他严重躯体疾病无法配合者。 颈动脉粥样硬化
+纳入标准:颈动脉超声结果:内中膜增厚≥1. 0 mm 和
+(或)颈动脉斑块形成。
+二、 方法
+1. 调查内容:采用卫生部脑防办基地单位北京中
+医药大学东方医院统一编制的《卫生部脑卒中高危人
+群筛查与防治工程临床观察表》,进行面对面问卷调
+查。 调查内容包括一般人口学特征、疾病史、生活史、
+家族史及用药情况等,调查人员将结果如实填写,并签
+字确认。
+2. 体格检查:测量身高、体重、腰围、收缩压、舒张
+压。 身高、腰围测量用标准米尺,其中腰围测量位置为
+被测者水平位髂前上棘和第 12 肋下缘连线的中点,测
+量值精确到 0. 1 cm;体重测量采用经校正的医用体重
+秤,测量值精确到 0. 5 kg;血压测量采用水银血压计测
+量坐位肱动脉血压,测量前静坐休息 10 min,间隔 1
+min 重复测量,共测量 3 次,取平均值。
+3. 血液检查:采集 12 h 空腹静脉血,生化法检测
+空腹血糖(FBG)、甘油三酯(TG)、总胆固醇(TC)、低
+密度脂蛋白胆固醇( LDL-C)、高密度脂蛋白胆固醇
+(HDL-C),由北京中医药大学东方医院检验中心检
+测。 所有检测均采用罗氏 P800 自动生化分析仪。
+4. 颈动脉超声检查:待检者取仰卧位,头后仰以
+充分暴露颈前部,并偏向检查对侧,测量颈动脉内中膜
+厚度及斑块数量、位置、形态等。 颈动脉内中膜的厚度
+指动脉内膜和中膜平滑肌的厚度,若≥1. 0 mm 则定义
+为内中膜增厚;若在动脉管腔内检测到突出内膜表面
+的病变,测量其表面的纤维帽至血管壁外膜前缘的垂
+直距离,若≥1. 5 mm,则定义为斑块[5]。 6 名超声医师
+全部来自北京中医药大学东方医院功能科,经统一培
+训,考核合格后参加筛查工作。 超声检查采用 GE
+VIVIDi 彩色多普勒超声诊断仪,探头频率为 10 MHz。
+5. MS 3 种诊断标准:(1)IDF 标准[1]:以中心性肥
+胖为必要条件:中国人群男性腰围≥90 cm,女性≥80
+cm;合并以下 4 项中的任意 2 项或以上:淤TG≥1. 7
+mmol / L 或 者 已 接 受 治 疗; 于 男 性 HDL-C < 1. 03
+mmol / L,女性 HDL-C<1. 29 mmol / L,或者已接受治疗;
+盂血压≥130 / 85 mmHg,或已诊断为高血压,或已接受
+治疗;④FBG≥5. 6 mmol / L,或已诊断为糖尿病,或已
+接受治疗。 (2)NECP-ATP3修订版[2]:符合以下 3 项
+及以上者:淤腰围:男性≥90 cm,女性≥80 cm;于TG≥
+1. 7 mmol / L 或者已接受治疗;盂男性 HDL-C <1. 03
+mmol / L,女性 HDL-C<1. 3 mmol / L,或者已接受治疗;
+④血压≥130 / 85 mmHg,或已诊断为高血压,或已接受
+治疗;虞FBG≥5. 6 mmol / L,或已诊断为糖尿病,或已
+接受治疗。 (3)血脂指南[3]:符合以下 3 项及以上者:
+淤腰围:男性≥90 cm,女性≥85 cm;于 TG≥1. 7
+mmol / L;盂HDL-C < 1. 04 mmol / L;④血压≥130 / 85
+mmHg;虞FBG≥6. 1 mmol / L,或糖负荷后 2 h 血糖≥
+7. 8 mmol / L 或有糖尿病史。
+三、 统计学处理
+使用 Epidata 3. 1 软件建立数据库,所有数据双人
+双录入,经整理后用 SPSS 17. 0 软件进行统计分析。
+计量资料采用 x-± s 表示;定性资料计算构成比以及率,
+率的比较采用 字2检验;多因素相关分析采用 logistic 多
+元回归分析。 P<0. 05 为差异有统计学意义。
+结    果
+一、 一般情况
+本次共筛查出脑卒中高危人群 5 012 例,去除数
+据缺失的资料后,合格有效资料为 4 983 例。 本研究
+纳入资料齐全且无脑卒中、 急性冠脉综合征病史者共
+表 1  3 种不同诊断标准下 MS 患病率比较
+Tab 1  Comparison of MS prevalence under 3 different criteria
+诊断标准
+Criteria MS
+非 MS
+non-MS
+MS 比例
+MS prevalence
+IDF 2 597 1 609 61. 7%
+NCEP-ATP3-R 3 046 1 160 72. 4% a
+Guideline 2 477 1 729 58. 9% b
+注:MS:代谢综合征 Metabolic syndrome; IDF:国际糖尿病联盟
+International Diabetes Federation;NECP-ATP3-R:美国国家胆固醇教育计
+划成人治疗报告3修订版 The revised National Cholesterol Education
+Program-Adult Treatment Panel 3;Guideline:《中国成人血脂异常防治指
+南》 Guideline of Dyslipidemia Control for Chinese Adult;与 IDF 比较 vs
+IDF,aP<0. 05;与 NECP-ATP3修订版比较 vs NCEP -ATP3-R,bP<0. 05
+表 2  3 种不同诊断标准下颈动脉内中膜增厚及斑块检出率比较[n(% )]
+Tab 2  Comparison of positive rate of thickened carotid intima-media and carotid atherosclerotic plaques under 3 different criteria[n(% )]
+诊断标准
+Criteria
+内中膜增厚检出率
+Positive rate of thickened carotid intima-media
+斑块检出率
+Positive rate of carotid atherosclerotic plaques
+MS
+MS
+非 MS
+non-MS P
+MS
+MS
+非 MS
+non-MS P
+IDF 1 409(54. 3% ) 809(50. 3% ) a 0. 012 1 167(44. 9% ) 623(38. 7% ) a 0. 000
+NCEP -ATP3-R 1 675(55. 0% ) 543(46. 8% ) a 0. 000 1 376(45. 2% ) 414(35. 7% ) a 0. 000
+Guideline 1 412(57. 0% ) b 806(46. 6% ) a 0. 000 1 184(47. 8% ) b 606(35. 0% ) a 0. 000
+注:略语同表 1 The abbreviations are the same as Tab 1; 同一标准内 MS 组与非 MS 组比较 Comparison between MS group and non-MS group under the
+same criterion,aP<0. 05;同一组不同标准间比较:与 IDF 比较 vs IDF,bP<0. 05
+4 206 例。 其中包括男性 1 405 例(占 33. 4% ),女性
+2 801 例(占 66. 5% ),年龄为(59. 91 ± 9. 05)岁,有吸
+烟史 1 286 例 (占 30. 6% ),有饮酒史 815 例 (占
+19. 4% ),有高血压病史 2 963 例(占 70. 4% ),服用降
+压药 2 178 例(占 73. 5% ),有血脂异常病史 2 625 例
+(占 62. 4% ),服用降脂药 823 例(占 31. 3% ),有糖尿
+病史 1 171 例 (占 27. 8% ),服用降糖药 855 例 (占
+75. 6% ),有脑卒中家族史 2 275 例(占 54. 1% )。
+二、 MS 患病率比较
+依据 IDF、NECP-ATP3修订版和“血脂指南冶标
+准,脑卒中高危人群 MS 患病率分别为 61. 7% 、72. 4%
+和 58. 9% (表 1)。
+三、 3 种诊断标准下颈动脉内中膜增厚及斑块情
+况
+在脑卒中高危人群中,应用 3 种诊断标准,MS 组
+颈动脉内中膜增厚及斑块的检出率均显著高于非 MS
+组,“血脂指南冶标准下 MS 组颈动脉内中膜增厚及斑
+块检出率最高(表 2)。
+表 3 不同MS 组分数与颈动脉内中膜增厚检出率的比较[n(%)]
+Tab 3  Comparison of positive rate of thickened carotid intima-media
+with different number of MS components[n(% )]
+MS 组分数
+The number of
+MS components
+IDF NCEP-ATP3-R Guideline
+0 37(31. 4) 34(29. 8) 60(27. 9)
+1 182(47. 6) 185(48. 2) 291(47. 5)
+2 328(49. 2) 324(48. 9) 455(50. 4)
+3 512(52. 5) 514(52. 6) 620(55. 2)
+4 703(56. 2) 704(56. 2) 539(56. 8)
+5 456(56. 1) 457(56. 0) 235(58. 2)
+Ptrend 0. 000 0. 000 0. 000
+注:略语同表 1 The abbreviations are the same as Tab 1;Ptrend:线性相
+关卡方检验 Linear correlation Chi square test
+表 4  不同 MS 组分数的颈动脉斑块检出率的比较[n(% )]
+Tab 4  Comparison of positive rate of carotid atherosclerotic plaques
+with the different number of MS components[n(% )]
+MS 组分数
+The number of
+MS components
+IDF NCEP-ATP3-R Guideline
+0 28(23. 7) 27(23. 7) 41(19. 1)
+1 133(34. 8) 134(34. 9) 209(34. 2)
+2 256(38. 4) 253(38. 2) 356(39. 5)
+3 392(40. 2) 394(40. 3) 490(43. 6)
+4 578(46. 2) 577(46. 0) 477(50. 3)
+5 403(49. 6) 405(49. 6) 217(53. 7)
+Ptrend 0. 000 0. 000 0. 000
+注:略语同表 1 The abbreviations are the same as Tab 1;Ptrend:线性相
+关卡方检验 Linear correlation Chi square test
+表 5  MS 与颈动脉内中膜增厚的 Logistic 回归
+Tab 5  Logistic regression analysis between thickened carotid intima-media and MS
+模型
+Model
+IDF NCEP -ATP3-R Guideline
+OR 95% CI OR 95% CI OR 95% CI
+1 MS 1. 256(1. 096-1. 439) 1. 496(1. 290-1. 734) 1. 409(1. 235-1. 607)
+2 MS 1. 162(1. 004-1. 344) 1. 413(1. 195-1. 671) 1. 340(1. 144-1. 568)
+3 MS 1. 135(0. 980-1. 314) 1. 366(1. 153-1. 618) 1. 301(1. 111-1. 525)
+SBP 1. 006(1. 003-1. 010) 1. 006(1. 002-1. 010) 1. 006(1. 002-1. 010)
+4 MS 1. 157(0. 999-1. 339) 1. 408(1. 189-1. 667) 1. 330(1. 135-1. 559)
+DBP 1. 002(0. 996-1. 009) 1. 001(0. 995-1. 008) 1. 002(0. 995-1. 008)
+5 MS 1. 123(0. 970-1. 301) 1. 353(1. 142-1. 603) 1. 287(1. 098-1. 509)
+FBG 1. 086(1. 041-1. 132) 1. 078(1. 034-1. 124) 1. 080(1. 036-1. 126)
+注:略语同表 1 The abbreviations are the same as Tab 1;SBP:收缩压 Systolic blood pressure;DBP:舒张压 Diastolic blood pressure;FBG:空腹血糖 Fasting
+blood glucose;模型 1 调整年龄、性别、吸烟、饮酒、总胆固醇和低密度脂蛋白胆固醇 Model 1: Adjusted by age, sex, current smoking and drinking habit, and
+the blood levels of total cholesterol, triglyceride, and high density lipoprotein cholesterol;模型 2 以模型 1 为基础,调整使用降压、降糖、降脂及抗凝药物 Model
+2: adjusted by use of antihypertensive, antidiabetic, lipid regulating, and anticoagulation drugs, based on the adjustment in Model 1;模型 3 ~ 5 以模型 2 为基础,
+分别调整收缩压、舒张压和空腹血糖 Model 3-5: adjusted by systolic blood pressure, diastolic blood pressure, and fasting blood glucose respectively, based on
+the adjustment in Model 2
+表 6  MS 与颈动脉斑块的 Logistic 回归
+Tab 6  Logistic regression analysis between carotid atherosclerotic plaques and MS
+模型
+Model
+IDF NCEP -ATP3-R Guideline
+OR(95% CI) OR(95% CI) OR(95% CI)
+1 MS 1. 301(1. 131-1. 498) 1. 530(1. 312-1. 785) 1. 559(1. 360-1. 786)
+2 MS 1. 061(0. 911-1. 235) 1. 191(0. 999-1. 420) 1. 231(1. 045-1. 449)
+3 MS 1. 038(0. 891-1. 209) 1. 153(0. 966-1. 377) 1. 205(1. 023-1. 421)
+SBP 1. 006(1. 003-1. 010) 1. 006(1. 002-1. 010) 1. 006(1. 002-1. 010)
+4 MS 1. 050(0. 901-1. 223) 1. 178(0. 987-1. 406) 1. 221(1. 036-1. 440)
+DBP 1. 005(0. 996-1. 011) 1. 004(0. 998-1. 011) 1. 004(0. 998-1. 010)
+5 MS 1. 044(0. 896-1. 216) 1. 165(0. 976-1. 392) 1. 208(1. 024-1. 425)
+FBG 1. 039(0. 998-1. 082) 1. 037(0. 995-1. 080) 1. 035(0. 994-1. 078)
+注:略语同表 1 和表 5 The abbreviations are the same as Tab 1 and Tab 5
+四、 MS 组分数与颈动脉内中膜增厚及斑块的关
+系
+在脑卒中高危人群中,应用 3 种诊断标准,随着
+MS 组分数的增加,颈动脉内中膜增厚及斑块的检出率
+都呈逐渐增加的趋势。 同一组分下比较,三种标准对
+颈动脉内中膜增厚及斑块的检出率比较无统计学差异
+(表 3、4)。
+五、 MS 与颈动脉内中膜增厚及斑块的关系
+在脑卒中高危人群中,logistic 回归分析发现,MS
+预测颈动脉内中膜增厚时以 NECP-ATP3修订版标准
+突出;预测颈动脉斑块时以“血脂指南冶标准突出(表
+5、6)。
+讨    论
+不同的 MS 诊断标准有不同的特点和适用人群,
+其患病率随地区和种族不同而存在差异。 既往已有一
+些研究比较了 NECP-ATP3修订版标准和 IDF 标准对
+MS 诊断的一致性,应用上述标准,芬兰老年人群 MS
+患病率男性分别为 35. 2%和 37. 2% ,而女性为 33. 1%
+和 47. 8% [6];中国分别为 16. 5%和 15. 8% [7,8]。 本研
+究主要探讨在脑卒中高危人群中不同定义的 MS 患病
+率及其与颈动脉粥样硬化的相关性,此类研究目前尚
+不多见。 本研究选用上述两种 MS 诊断标准和适合中
+国人群的“血脂指南冶标准,其共同点为简单易行且适
+合研究人群。 其中 IDF 和 NECP-ATP3修订版标准选
+取的 5 个组分及其切点基本相同,不同点在于 IDF 标
+准将中心性肥胖作为其必要条件。 而“血脂指南冶标
+准选取的组分内容与前两者也基本一致,不同点在于
+血糖的切点不同,且高 HDL-C 指标无性别之分。 本研
+究结果显示脑卒中高危人群中 MS 的患病率很高,应
+用 IDF、NECP-ATP3修订版和“血脂指南冶诊断标准,
+MS 患病率分别为 61. 7% 、72. 4%和 58. 9% 。 其中“血
+脂指南冶标准下 MS 患病率低于其他两个标准,考虑原
+因在于空腹血糖切点较高,有研究表明,中国高血糖患
+者中,有 1 / 2 的糖尿病及 3 / 4 的糖耐量受损患者需要
+用口服葡萄糖耐量试验 2 h 血糖诊断[9],而本研究由
+于未检测餐后 2 h 血糖,因此使部分患者漏诊。
+诊断 MS 的意义之一是为了早期识别具有心脑血
+管疾病风险的高危人群,并及早干预以期延缓疾病的
+发生发展,然而哪一种 MS 诊断标准对心脑血管风险
+的识别更有效,一直都是一个具有争议的问题。 近年
+来,国内外研究发现在不同人群中,各种 MS 诊断标准
+对心脑血管事件的预测作用不尽一致[10,11]。 颈动脉
+粥样硬化作为反映全身动脉硬化病变的一个“窗口冶,
+与冠心病、脑卒中的发生密切相关,颈动脉内中膜增厚
+和颈动脉斑块的检出均与心脑血管发病的危险增加有
+关[12,13]。 MS 作为危险因素的集合,可促进动脉粥样
+硬化及心脑血管疾病发生发展,研究发现,不同诊断标
+准的 MS 对颈动脉粥样硬化的预测作用也不一致。 因
+此,本研究对不同诊断标准的 MS 与脑卒中高危人群
+颈动脉粥样硬化的关系做了进一步的分析。 结果显
+示,脑卒中高危人群在 IDF、NECP-ATP3修订版和“血
+脂指南冶三种 MS 诊断标准下,MS 组颈动脉内中膜增
+厚及斑块的检出率均显著高于非 MS 组(P<0. 05),与
+其他一些同类研究结果一致[14];且随着 MS 组分数的
+增加,颈动脉内中膜增厚及斑块检出率都呈逐渐增加
+的趋势(P trend = 0. 000),而在同一组分数下,3 种标准
+比较没有显著性差异。 Logistic 回归分析中,调整性
+别、年龄、吸烟、饮酒、TC 及 LDL-C 等传统危险因素,3
+种诊断标准的 MS 均显著增加颈动脉内中膜增厚及斑
+块检出的风险;在此基础上,调整使用降压、降糖、降脂
+和抗凝药物情况后,3 种诊断标准的 MS 使颈动脉内中
+膜增厚的风险均增强,但只有“血脂指南冶定义的 MS
+能显著增加斑块检出的风险,而 IDF 和 NECP-ATP3
+修订版标准则不能;进一步调整血压和血糖情况发现,
+收缩压和空腹血糖也显著增加颈动脉内中膜增厚检出
+的风险,但在斑块检出方面,只有收缩压有较好的预测
+作用。 根据我们的研究结果,脑卒中高危人群的 MS
+患病率较高,与 IDF 和“血脂指南冶标准比较,NECP-
+ATP3修订版标准诊断率更高,且预测颈动脉内中膜
+增厚风险的作用更突出,提示此标准更合适该人群早
+期诊断 MS,而根据我国国人情况制定的“血脂指南冶
+标准在预测颈动脉斑块风险中作用较为突出。 因此,
+运用以上 3 种标准均适用于脑卒中高危人群的 MS 诊
+断,其中 NECP-ATP3修订版标准适用于早期诊断,而
+“血脂指南冶标准在预测颈动脉斑块风险更强。
+本文在研究地域和人群存在一定的局限性,因此
+研究结果和结论难免有一定的偏倚,且目前属于病例
+横断面研究,因果关联尚有待进一步的随访和扩大样
+本量后继续探索,不妥之处望同行指正。

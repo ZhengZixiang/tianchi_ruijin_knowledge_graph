@@ -1,0 +1,276 @@
+T1	Disease 3304 3308;3309 3313	糖尿病视 网膜病变
+T2	Disease 64 70	1 型糖尿病
+T3	Disease 418 424	1 型糖尿病
+T4	Disease 513 519	1 型糖尿病
+T5	Disease 799 805	1 型糖尿病
+T6	Disease 850 856	1 型糖尿病
+T7	Disease 880 886	1 型糖尿病
+T8	Disease 1166 1172	1 型糖尿病
+T9	Disease 2348 2354	1 型糖尿病
+T10	Disease 2823 2829	1 型糖尿病
+T11	Disease 2951 2957	1 型糖尿病
+T12	Disease 706 707;708 712	1 型糖尿病
+T13	Disease 3314 3319	糖尿病肾病
+T14	Test 1200 1205	HBA1C
+T15	Test 1782 1787	HBA1C
+T16	Test 2425 2430	HBA1C
+T17	Disease 3289 3293	糖尿病足
+T18	Test 1771 1774	腰臀比
+T19	Test 2414 2417	腰臀比
+T20	Test 1377 1379	尿酮
+T21	Test 1909 1911	尿酮
+T22	Test 2545 2547	尿酮
+T23	Disease 3294 3303	糖尿病周围神经病变
+T24	Disease 498 502	LADA
+T25	Disease 714 718	LADA
+T26	Disease 817 821	LADA
+T27	Disease 902 906	LADA
+T28	Disease 1738 1742	LADA
+T29	Drug 3795 3800	免疫抑制剂
+T30	Anatomy 692 696	MSCs
+T31	Anatomy 2782 2786	MSCs
+T32	Anatomy 2816 2820	MSCs
+T33	Anatomy 2871 2875	MSCs
+T34	Anatomy 2991 2995	MSCs
+T35	Anatomy 3022 3026	MSCs
+T36	Anatomy 3225 3229	MSCs
+T37	Anatomy 3355 3359	MSCs
+T38	Anatomy 3436 3440	MSCs
+T39	Anatomy 3506 3510	MSCs
+T40	Anatomy 3688 3692	MSCs
+T41	Disease 2386 2389	冠心病
+T42	Test 1532 1534	血糖
+T43	Test 1553 1555	血糖
+T44	Test 2088 2090	血糖
+T45	Test 3584 3586	血糖
+T46	Test 1370 1376	尿微量白蛋白
+T47	Test 1902 1908	尿微量白蛋白
+T48	Test 2538 2544	尿微量白蛋白
+T49	Disease 2355 2364	糖尿病性视网膜病变
+T50	Disease 3674 3679	视网膜病变
+T51	Treatment 53 63	脐带间充质干细胞治疗
+T52	Treatment 1481 1486	干细胞治疗
+T53	Treatment 1573 1578	干细胞治疗
+T54	Treatment 2063 2068	干细胞治疗
+T55	Treatment 2640 2645	干细胞治疗
+T56	Treatment 3837 3839;3840 3843	干细 胞治疗
+T57	Treatment 3884 3889	干细胞治疗
+T58	Treatment 3939 3944	干细胞治疗
+T59	Treatment 3960 3965	干细胞治疗
+T60	Treatment 3979 3984	干细胞治疗
+T61	Test 1386 1390	眼底检查
+T62	Test 1973 1975;1976 1978	眼底 检查
+T63	Test 2555 2559	眼底检查
+T64	Test 1391 1395	血管超声
+T65	Test 1979 1983	血管超声
+T66	Test 2568 2572	血管超声
+T67	Test 1396 1397;1398 1400	肌 电图
+T68	Test 1940 1943	肌电图
+T69	Test 2259 2262	肌电图
+T70	Test 2573 2576	肌电图
+T71	Test 1068 1071	GAD
+T72	Test 1884 1887	GAD
+T73	Test 2525 2528	GAD
+T74	Test 1082 1085	IAA
+T75	Test 1888 1891	IAA
+T76	Test 2219 2222	IAA
+T77	Test 2529 2532	IAA
+T78	Test 1054 1057	ICA
+T79	Test 1366 1369	ICA
+T80	Test 1892 1895	ICA
+T81	Test 2223 2226	ICA
+T82	Test 2533 2536	ICA
+T83	Disease 445 457	成人隐匿性自身免疫糖尿病
+T84	Drug 586 589	胰岛素
+T85	Test 1213 1221	平均血糖波动幅度
+T86	Test_Value 1206 1211	9. 3%
+T87	Test_Value 1267 1271	3. 9
+T88	Test_Value 1279 1292	1. 78 ng / ml
+T89	Test 1272 1278	空腹 C 肽
+T90	Test 1293 1299;1300 1303	0. 5 h C 肽
+T91	Test_Value 1304 1317	2. 53 ng / ml
+T92	Test 1318 1325	1 h C 肽
+T93	Test 1340 1347	2 h C 肽
+T94	Test_Value 1348 1361	3. 58 ng / ml
+T95	Test 1362 1365	C 肽
+T96	Test_Value 1326 1339	3. 46 ng / ml
+T97	Symptom 1696 1700	体重下降
+T98	Test 1592 1593;1594 1597	胰 C 肽
+T99	Test_Value 1598 1611	1. 75 ng / ml
+T100	Test 1612 1622	0. 5 h C 肽
+T101	Test_Value 1623 1636	2. 47 ng / ml
+T102	Test 1637 1644	1 h C 肽
+T103	Test_Value 1645 1658	3. 39 ng / ml
+T104	Symptom 1707 1709	口干
+T105	Test_Value 1775 1780	0. 90
+T106	Test_Value 1756 1770	24. 22 kg / m2
+T107	Test_Value 1788 1793	6. 5%
+T108	Test 1795 1799	MAGE
+T109	Test_Value 1800 1804	3. 7
+T110	Test 1805 1811	空腹 C 肽
+T111	Test_Value 1812 1825	1. 18 ng / ml
+T112	Test 1826 1836	0. 5 h C 肽
+T113	Test 1851 1858	1 h C 肽
+T114	Test_Value 1859 1872	3. 42 ng / ml
+T115	Test 1873 1880	2 h C 肽
+T116	Method 2000 2004	皮下注射
+T117	Test 2149 2159	0. 5 h C 肽
+T118	Test_Value 2160 2173	1. 94 ng / ml
+T119	Test 2174 2181	1 h C 肽
+T120	Test_Value 2182 2195	4. 01 ng / ml
+T121	Test 2196 2203	2 h C 肽
+T122	Test_Value 2204 2217	5. 42 ng / ml
+T123	Symptom 2321 2325	视物模糊
+T124	Test_Value 2399 2413	26. 22 kg / m2
+T125	Test_Value 2431 2436	8. 6%
+T126	Test 2438 2442	MAGE
+T127	Test_Value 2443 2448	10. 9
+T128	Test 2449 2451;2452 2455	空腹 C 肽
+T129	Test_Value 2455 2469	<0. 01 ng / ml
+T130	Test 2470 2480	0. 5 h C 肽
+T131	Test_Value 2480 2494	<0. 01 ng / ml
+T132	Test 2495 2502	1 h C 肽
+T133	Test_Value 2502 2516	<0. 01 ng / ml
+T134	Test 2683 2693	0. 5 h C 肽
+T135	Test_Value 2693 2707	<0. 01 ng / ml
+T136	Test 2708 2715	1 h C 肽
+T137	Test 2730 2737	2 h C 肽
+T138	Anatomy 3379 3381	胰腺
+T139	Anatomy 428 432	T 细胞
+T140	Disease 435 438;439 443	自身免 疫性疾病
+T141	Disease 523 531	免疫相关性糖尿病
+T142	Drug 570 573	胰岛素
+T143	Test 628 632	胰岛功能
+T144	Anatomy 661 663;664 668	间充 质干细胞
+T145	Treatment 781 798	异体人脐带 MSCs 静脉输注治疗
+T146	Disease 968 974;975 981	成人隐匿性自 身免疫糖尿病
+T147	Disease 1004 1007	糖尿病
+T148	Test 1029 1035	胰岛相关抗体
+T149	Test 1047 1053	胰岛细胞抗体
+T150	Test 1059 1067	谷氨酸脱羧酶抗体
+T151	Test 1073 1076;1077 1081	胰岛素 自身抗体
+T152	Disease 1099 1102	糖尿病
+T153	Drug 1115 1118	胰岛素
+T154	Symptom 1138 1141	血糖高
+T155	Disease 1185 1188	糖尿病
+T156	Test 1262 1266	MAGE
+T157	Test_Value 1382 1384	阴性
+T158	Drug 1414 1417	胰岛素
+T159	Method 1417 1421	皮下注射
+T160	Treatment 1428 1437	MSCs 静脉输注
+T161	Drug 1470 1473	胰岛素
+T162	Method 1466 1470	皮下注射
+T163	Drug 1495 1498	胰岛素
+T164	Drug 1540 1543	胰岛素
+T165	Test_Value 1557 1559	升高
+T166	Amount 1563 1566	小剂量
+T167	Drug 1566 1569	胰岛素
+T168	Duration 1142 1146	1 年余
+T169	Duration 1701 1706	3 个多月
+T170	Symptom 1710 1712	多饮
+T171	Duration 1712 1714;1715 1717	半个 多月
+T172	Test_Value 1898 1900	阳性
+T173	Test_Value 1914 1915;1916 1917	阴 性
+T174	Disease 1959 1971	早期糖尿病性周围神经病变
+T175	Drug 1997 2000	胰岛素
+T176	Treatment 2011 2020	MSCs 静脉输注
+T177	Method 2049 2053	皮下注射
+T178	Drug 2053 2056	胰岛素
+T179	Drug 2077 2080	胰岛素
+T180	Test_Value 2092 2094	升高
+T181	Amount 2097 2100	小剂量
+T182	Drug 2100 2103	胰岛素
+T183	Treatment 2108 2115	干细胞 治 疗
+T184	Drug 2133 2138	胰 岛 素
+T185	Test_Value 2230 2232	阴性
+T186	Symptom 2309 2313	血糖升高
+T187	Duration 2314 2319	20 余年
+T188	Duration 2326 2329	6 年
+T189	Test_Value 2550 2551;2552 2553	阴 性
+T190	Test_Value 2560 2567	视网膜明显渗出
+T191	Test_Value 2577 2580;2581 2584	未见明 显异常
+T192	Drug 2591 2594	胰岛素
+T193	Method 2594 2598	皮下注射
+T194	Treatment 2604 2612;2613 2614	MSCs 静脉输 注
+T195	Symptom 2662 2669	无胸闷、 胸痛
+T196	Drug 2671 2674	胰岛素
+T197	Anatomy 2894 2898	T 细胞
+T198	Anatomy 2899 2902;2903 2904	B 细 胞
+T199	Anatomy 2905 2910	树突状细胞
+T200	Anatomy 2911 2916	NK 细胞
+T201	Anatomy 2921 2925	免疫细胞
+T202	Anatomy 2979 2983	T 细胞
+T203	Disease 3010 3013	糖尿病
+T204	Anatomy 3042 3043;3044 3046	T 细胞
+T205	Test 3119 3129	血管细胞黏附分子 1
+T206	Test 3130 3138;3139 3142	基质细胞来源的细 胞因子
+T207	Test 3143 3153	单核细胞趋化蛋白 1
+T208	Test 3154 3165	趋化因子 CX3CL1
+T209	Test 3168 3172;3173 3179	同源受体 CX3CR1
+T210	Test 3180 3191	趋化因子 CXCL12
+T211	Test 3194 3204	同源受体 CXCR4
+T212	Anatomy 3524 3531	胰岛素分泌细胞
+T213	Test 3574 3578	胰岛功能
+T214	Anatomy 3613 3617	内皮细胞
+T215	Test 3626 3630	胰岛功能
+T216	Disease 3825 3828	糖尿病
+T217	Test 3853 3857	胰岛功能
+T218	Drug 3860 3863	胰岛素
+T219	Test_Value 3907 3908	大
+T220	Test 3900 3901;3902 3907	血 糖波动幅度
+T221	Test 3909 3913	胰岛功能
+T222	Test 3945 3949	胰岛功能
+T223	Disease 3925 3929;3930 3935	糖尿病性 视网膜病变
+T224	Test 4003 4007	胰岛功能
+T225	Test_Value 1193 1198	0. 74
+T226	Test_Value 1442 1452	4×105 / kg
+T227	Test 1438 1441	细胞数
+T228	Test_Value 2025 2035	4×105 / kg
+T229	Anatomy 3371 3373	血管
+T230	Test 2021 2024	细胞数
+T231	Duration 2381 2385	19 年
+T232	Duration 2392 2396	10 年
+T233	Test 2615 2618	细胞数
+T234	Test_Value 2619 2629	4×105 / kg
+T235	Disease 3480 3482	肿瘤
+T236	Test 3705 3713;3714 3716	主要组织相容性复 合体
+T237	Test 3751 3754	MHC
+T238	Test 3764 3771	MHC2类分子
+T239	Treatment 3787 3789	移植
+T240	Duration 3831 3834	1 年
+T241	Duration 3895 3899	16 年
+T242	Test_Value 3914 3918	接近丧失
+T243	Disease 460 477;478 496	latent autoimmune diabetes in adults
+T244	Disease 952 955	糖尿病
+T245	Duration 2070 2073;2074 2075	3 个 月
+T246	Disease 2999 3002	NOD
+T247	Test_Value 3213 3215	升高
+T248	Anatomy 3062 3069	胰腺 β 细胞
+T249	Anatomy 3411 3418	胰岛 β 细胞
+T250	Disease 597 603	糖尿病并发症
+T251	Test_Value 1837 1850	1. 80 ng / ml
+T252	Amount 2143 2148	0. 06
+T253	Test_Value 2418 2423	0. 90
+T254	Amount 2677 2682	0. 31
+T255	Test_Value 2715 2729	<0. 01 ng / ml
+T256	Test_Value 2737 2743	<0. 01
+T257	Anatomy 3387 3395	内源性胰腺干细胞
+T258	Test 617 621	胰岛功能
+T259	Test_Value 1042 1043;1044 1045	阳 性
+T260	Disease 1672 1678	糖尿病并发症
+T261	Symptom 1921 1928	无明显肢端麻木
+T262	Symptom 1929 1931	疼痛
+T263	Symptom 1932 1934	冷感
+T264	Test_Value 1944 1945;1946 1951	神 经源性损害
+T265	Level 1952 1954	轻度
+T266	Symptom 2237 2244	无明显肢端麻木
+T267	Symptom 2245 2247	疼痛
+T268	Symptom 2248 2250	冷感
+T269	Test_Value 2264 2266	正常
+T270	Disease 2283 2289	糖尿病并发症
+T271	Disease 2374 2378	高血压病
+T272	Symptom 2657 2661	血压平稳
+T273	Disease 2767 2772;2773 2774	糖尿病并发 症
+T274	Test 3266 3270	胰腺功能
+T275	Anatomy 3276 3277;3278 3284	胰 岛 β 细胞
+T276	Anatomy 3398 3404;3405 3406	胰岛 β 细 胞

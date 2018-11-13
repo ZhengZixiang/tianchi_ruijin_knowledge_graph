@@ -1,0 +1,439 @@
+T1	Disease 2534 2540	2 型糖尿病
+T2	Disease 7896 7899;7900 7903	2 型 糖尿病
+T3	Disease 8177 8183	2 型糖尿病
+T4	Disease 6752 6753;6754 6758	1 型糖尿病
+T5	Test 8169 8174	HBA1C
+T6	Disease 219 222	糖尿病
+T7	Disease 279 282	糖尿病
+T8	Disease 296 299	糖尿病
+T9	Disease 1190 1193	糖尿病
+T10	Symptom 1197 1203	慢性血糖升高
+T11	Reason 1247 1252	胰岛素缺乏
+T12	Reason 1256 1261	胰岛素抵抗
+T13	Anatomy 1285 1286	心
+T14	Anatomy 1287 1288	脑
+T15	Anatomy 1289 1290	肾
+T16	Anatomy 1291 1293	神经
+T17	Anatomy 1294 1296	血管
+T18	Disease 1418 1421	糖尿病
+T19	Disease 1424 1430	心血管并发症
+T20	Disease 1481 1490	糖尿病心血管并发症
+T21	Anatomy 1558 1565	胰腺 β 细胞
+T22	Disease 1575 1578	糖尿病
+T23	Anatomy 1583 1590	胰腺 β 细胞
+T24	Anatomy 1747 1752	VAMP2
+T25	Anatomy 1940 1944	β 细胞
+T26	Anatomy 1950 1955	线粒体内膜
+T27	Anatomy 2026 2029;2030 2031	β 细 胞
+T28	Anatomy 2281 2288	胰腺 β 细胞
+T29	Anatomy 2208 2214	胰岛素瘤细胞
+T30	Anatomy 2309 2316	胰岛 β 细胞
+T31	Anatomy 2461 2468;2469 2470	NIT-1 细 胞
+T32	Anatomy 2483 2495	重组胰岛素样生长因子 1
+T33	Anatomy 2542 2546	β 细胞
+T34	Anatomy 4018 4022	β 细胞
+T35	Anatomy 4061 4065	β 细胞
+T36	Anatomy 4151 4155	脂肪组织
+T37	Anatomy 4156 4158	肝脏
+T38	Anatomy 4159 4162	骨骼肌
+T39	Reason 4192 4193;4194 4198	胰 岛素抵抗
+T40	Anatomy 4203 4209	肌间脂肪组织
+T41	Anatomy 4211 4214	骨骼肌
+T42	Anatomy 4215 4219	肌纤维束
+T43	Anatomy 4229 4235	皮下脂肪组织
+T44	Anatomy 4238 4244	肌间脂肪组织
+T45	Anatomy 4309 4320	3T3-L1 脂肪细胞
+T46	Anatomy 4333 4344	3T3-L1 脂肪细胞
+T47	Anatomy 4392 4403	3T3-L1 脂肪细胞
+T48	Anatomy 4491 4500	3T3-L1 细胞
+T49	Anatomy 4506 4509	p85
+T50	Anatomy 4528 4534	GLUT-4
+T51	Anatomy 4516 4519	Akt
+T52	Anatomy 4605 4609	脂肪细胞
+T53	Anatomy 4753 4755	肝脏
+T54	Anatomy 4676 4680	脂肪组织
+T55	Anatomy 5064 5066	肝脏
+T56	Anatomy 4906 4908	肝脏
+T57	Anatomy 5150 5151;5152 5154	肝 细胞
+T58	Anatomy 5294 5297	骨骼肌
+T59	Disease 5364 5365;5366 5368	糖 尿病
+T60	Disease 5565 5569	高血糖症
+T61	Anatomy 5572 5575	腓肠肌
+T62	Anatomy 5576 5581	骨骼肌细胞
+T63	Disease 5663 5666	糖尿病
+T64	Anatomy 5920 5928	人脐静脉内皮细胞
+T65	Anatomy 6248 6255	P27KIP1
+T66	Anatomy 6232 6247	细胞周期蛋白依赖性激酶阻遏蛋白
+T67	Anatomy 6258 6265	P57KIP2
+T68	Anatomy 6281 6285	内皮细胞
+T69	Anatomy 6286 6288;6289 6292	内皮 祖细胞
+T70	Anatomy 6355 6358;6359 6364	人微血 管内皮细胞
+T71	Anatomy 6461 6463	肌肉
+T72	Anatomy 6464 6468	内皮细胞
+T73	Anatomy 6504 6508	毛细血管
+T74	Anatomy 6509 6512	微动脉
+T75	Anatomy 6617 6622	CCNE1
+T76	Anatomy 6625 6631	cdc25A
+T77	Anatomy 6716 6717;6718 6721	心 肌细胞
+T78	Anatomy 6542 6544	肌肉
+T79	Disease 7042 7049	糖尿病性心肌病
+T80	Anatomy 7076 7082	离子通道蛋白
+T81	Disease 7119 7123	心律失常
+T82	Disease 7104 7107	糖尿病
+T83	Disease 7125 7128	糖尿病
+T84	Disease 7319 7321;7322 7323	糖尿 病
+T85	Disease 7350 7354	心律失常
+T86	Disease 7491 7498	糖尿病性心肌病
+T87	Anatomy 7620 7627	Gadd45α
+T88	Disease 7630 7631;7632 7637	糖 尿病心肌病
+T89	Disease 7656 7659;7660 7662	心源性 猝死
+T90	Disease 7706 7707;7708 7718	动 脉粥样硬化性斑块形成
+T91	Disease 7920 7923	糖尿病
+T92	Disease 8004 8007	糖尿病
+T93	Disease 8037 8047	HNF1A-MODY
+T94	Disease 8088 8098	HNF1A-MODY
+T95	Disease 8150 8160	HNF1A-MODY
+T96	Disease 8253 8257	高血糖症
+T97	Disease 8363 8366	糖尿病
+T98	Anatomy 8609 8615	骨髓前体细胞
+T99	Anatomy 8954 8957	骨骼肌
+T100	Anatomy 8958 8960	肝脏
+T101	Anatomy 8961 8963	心脏
+T102	Disease 9429 9432	糖尿病
+T103	Disease 9355 9358	糖尿病
+T104	Anatomy 2392 2396	β 细胞
+T105	Anatomy 2927 2931	β 细胞
+T106	Anatomy 2965 2969	β 细胞
+T107	Anatomy 8351 8355	β 细胞
+T108	Anatomy 3005 3009	脂肪细胞
+T109	Anatomy 2661 2665	mTOR
+T110	Anatomy 2673 2677	mTOR
+T111	Anatomy 2955 2959	mTOR
+T112	Anatomy 3970 3974	mTOR
+T113	Anatomy 1683 1690	miR-34a
+T114	Anatomy 2784 2791	miR-34a
+T115	Anatomy 5970 5976	HUVECs
+T116	Anatomy 6347 6353	HUVECs
+T117	Anatomy 5716 5725	心肌微血管内皮细胞
+T118	Drug 4011 4015	雷帕霉素
+T119	Anatomy 5484 5487	Akt
+T120	Test 7989 7991	血糖
+T121	Anatomy 153 158	miRNA
+T122	Anatomy 212 217	miRNA
+T123	Anatomy 242 247	miRNA
+T124	Anatomy 111 116	miRNA
+T125	Disease 118 121	糖尿病
+T126	Anatomy 1329 1331;1332 1335	微小 RNA
+T127	Anatomy 1346 1351	miRNA
+T128	Anatomy 1408 1413	miRNA
+T129	Anatomy 1460 1465	miRNA
+T130	Disease 1497 1500	糖尿病
+T131	Anatomy 1468 1471	胰岛素
+T132	Anatomy 1527 1532	miRNA
+T133	Anatomy 1534 1537	胰岛素
+T134	Anatomy 1566 1569	胰岛素
+T135	Anatomy 1607 1612	miRNA
+T136	Anatomy 1617 1620	胰岛素
+T137	Anatomy 1674 1680	miR-21
+T138	Anatomy 1705 1708	胰岛素
+T139	Anatomy 1761 1766	Rab3a
+T140	Anatomy 1845 1849	胰岛细胞
+T141	Anatomy 1851 1858	miR-335
+T142	Anatomy 1866 1873	miR-335
+T143	Anatomy 1888 1894	Stxbp1
+T144	Anatomy 1912 1919	miR-15a
+T145	Anatomy 1902 1905	胰岛素
+T146	Anatomy 1974 1977	胰岛素
+T147	Anatomy 1962 1967	UCP-2
+T148	Anatomy 1998 2003	UCP-2
+T149	Anatomy 2008 2011	胰岛素
+T150	Reason 2018 2022	高糖环境
+T151	Anatomy 2033 2040	miR-15a
+T152	Anatomy 2066 2073	miR-15a
+T153	Anatomy 2113 2120	miR-15a
+T154	Anatomy 2123 2126	胰岛素
+T155	Anatomy 2152 2155	胰岛素
+T156	Anatomy 2161 2168	miR-15a
+T157	Anatomy 2174 2177	胰岛素
+T158	Anatomy 2335 2342	miR-375
+T159	Anatomy 2366 2378	重组胰岛素样生长因子 1
+T160	Anatomy 2516 2523	miR-375
+T161	Anatomy 2587 2589	胰岛
+T162	Anatomy 2603 2609	miR-7a
+T163	Anatomy 2713 2719	miR-7a
+T164	Anatomy 3986 3988	胰岛
+T165	Anatomy 4077 4083	miR-7a
+T166	Anatomy 4105 4110	miRNA
+T167	Anatomy 4122 4127	miRNA
+T168	Anatomy 4112 4115	胰岛素
+T169	Anatomy 4137 4140	胰岛素
+T170	Anatomy 4168 4173	miRNA
+T171	Anatomy 4257 4262	miRNA
+T172	Anatomy 4352 4357	miRNA
+T173	Anatomy 4376 4383	miR-320
+T174	Anatomy 4437 4441	PI3K
+T175	Anatomy 4465 4472	miR-320
+T176	Anatomy 4557 4560	胰岛素
+T177	Anatomy 4572 4579	miR-320
+T178	Anatomy 4612 4619	miR-130
+T179	Anatomy 4626 4631	PPARγ
+T180	Anatomy 4649 4654	PPARγ
+T181	Anatomy 4683 4690	miR-130
+T182	Anatomy 4704 4709	PPARγ
+T183	Anatomy 4725 4732	miR-122
+T184	Anatomy 4743 4748	miRNA
+T185	Anatomy 4758 4765	miR-122
+T186	Test 4771 4776	血浆胆固醇
+T187	Anatomy 4782 4784	肝脏
+T188	Test 4797 4800	胆固醇
+T189	Anatomy 4808 4815	miR-122
+T190	Anatomy 4835 4846	miR-33a / b
+T191	Anatomy 4870 4876;4877 4880	肉碱氧位甲基 转移酶
+T192	Anatomy 4881 4891	肉毒脂酰转移酶 1A
+T193	Anatomy 4892 4903	羟酰基辅酶 A 脱氢酶
+T194	Anatomy 4925 4934	胰岛素受体底物 2
+T195	Anatomy 4966 4970	IRS2
+T196	Anatomy 5092 5101	肝细胞核因子 1b
+T197	Anatomy 5133 5138	Hnf1b
+T198	Anatomy 5159 5164	Hnf1b
+T199	Anatomy 5199 5206	miR-802
+T200	Anatomy 5270 5273	骨骼肌
+T201	Anatomy 5338 5341	p38
+T202	Anatomy 5354 5361	p38MAPK
+T203	Disease 5400 5402;5403 5404	糖尿 病
+T204	Anatomy 5404 5407	腓肠肌
+T205	Anatomy 5408 5413	骨骼肌细胞
+T206	Anatomy 5428 5433	miRNA
+T207	Anatomy 5460 5464	IRS2
+T208	Anatomy 5475 5483	PI3Kp85α
+T209	Anatomy 5511 5519	miR-135a
+T210	Anatomy 5553 5561	miR-135a
+T211	Anatomy 5620 5625	miRNA
+T212	Disease 5627 5636	糖尿病心血管并发症
+T213	Anatomy 5643 5648	miRNA
+T214	Anatomy 5727 5732	miRNA
+T215	Anatomy 5785 5792	胚胎肝激酶 1
+T216	Anatomy 6006 6011	c-kit
+T217	Anatomy 6065 6072	miR-221
+T218	Reason 6198 6201	AGE
+T219	Reason 6194 6196	高糖
+T220	Anatomy 6204 6217	miR-221 / 222
+T221	Anatomy 6407 6414	miR-503
+T222	Drug 6445 6449	链脲霉素
+T223	Disease 6535 6538	糖尿病
+T224	Operation 6531 6534	截肢术
+T225	Test 6550 6557	miR-503
+T226	Anatomy 6576 6583	miR-503
+T227	Disease 6588 6591	糖尿病
+T228	Anatomy 6643 6648	miRNA
+T229	Anatomy 6673 6680	miR-133
+T230	Anatomy 6693 6698	KLF15
+T231	Drug 6744 6748	链脲霉素
+T232	Test 6793 6798	心房钠尿肽
+T233	Test 6799 6802	ANP
+T234	Test 6804 6808	脑钠尿肽
+T235	Test 6809 6812	BNP
+T236	Test 6882 6886	SGK1
+T237	Symptom 6902 6909;6910 6911	心肌收缩功能失 调
+T238	Anatomy 6923 6927	心肌细胞
+T239	Anatomy 6945 6949	心肌细胞
+T240	Anatomy 6959 6967	miR-133a
+T241	Anatomy 7004 7011	miR-133
+T242	Anatomy 7059 7066	miR-133
+T243	Disease 7161 7164	糖尿病
+T244	Disease 7242 7245	糖尿病
+T245	Anatomy 7272 7279	miR-133
+T246	Anatomy 7297 7304	miR-133
+T247	Anatomy 7330 7337	miR-133
+T248	Anatomy 7500 7505	miRNA
+T249	Anatomy 7595 7602	miR-499
+T250	Anatomy 7606 7613	miR-499
+T251	Anatomy 7667 7672	miRNA
+T252	Disease 7695 7699	血管狭窄
+T253	Test 7747 7752	miRNA
+T254	Test 7778 7783	miRNA
+T255	Test 7952 7957	miRNA
+T256	Test 7929 7938	miR-28-3p
+T257	Disease 7994 8001	葡萄糖耐量异常
+T258	Test 8015 8022	miR-126
+T259	Disease 8066 8069	糖尿病
+T260	Drug 8205 8209	链脲霉素
+T261	Drug 8266 8270	链脲霉素
+T262	Anatomy 8277 8279	胰岛
+T263	Test 8291 8298	miR-375
+T264	Test 8316 8323	miR-375
+T265	Test 8339 8346	miR-375
+T266	Test 8378 8383	miRNA
+T267	Disease 8391 8393;8394 8395	糖尿 病
+T268	Disease 8421 8424	糖尿病
+T269	Disease 8437 8440	糖尿病
+T270	Anatomy 8442 8447	miRNA
+T271	Anatomy 8502 8507	miRNA
+T272	Anatomy 8558 8560	心肌
+T273	Anatomy 8619 8626	肝细胞生长因子
+T274	Anatomy 8655 8658	HGF
+T275	Anatomy 8755 8760	miRNA
+T276	Anatomy 8782 8787	miRNA
+T277	Anatomy 8803 8808	miRNA
+T278	Disease 8826 8828	肝癌
+T279	Anatomy 8837 8844	miR-26a
+T280	Anatomy 8855 8862	miR-26a
+T281	Anatomy 9017 9022	miRNA
+T282	Anatomy 9036 9041	miRNA
+T283	Anatomy 9070 9075	miRNA
+T284	Anatomy 9083 9088	miRNA
+T285	Anatomy 9097 9102	miRNA
+T286	Anatomy 9117 9122	miRNA
+T287	Anatomy 9142 9147	miRNA
+T288	Anatomy 9172 9177	miRNA
+T289	Anatomy 9194 9199	miRNA
+T290	Anatomy 9237 9242	miRNA
+T291	Anatomy 9272 9277	miRNA
+T292	Anatomy 9317 9322	miRNA
+T293	Anatomy 9348 9353	miRNA
+T294	Disease 9410 9413	糖尿病
+T295	Symptom 1276 1283	电解质代谢异常
+T296	Anatomy 1626 1630	胰腺细胞
+T297	Disease 4093 4096	糖尿病
+T298	Anatomy 4734 4736	肝脏
+T299	Anatomy 4976 4978	肝脏
+T300	Anatomy 7016 7020	心肌细胞
+T301	Anatomy 7559 7573	DNA 损伤诱导基因 45α
+T302	Disease 8704 8709	心肌纤维化
+T303	Disease 123 129	心血管并发症
+T304	Anatomy 1723 1726	胰岛素
+T305	Anatomy 2222 2229	miR-15a
+T306	Anatomy 2233 2236	胰岛素
+T307	Anatomy 2242 2249	miR-15a
+T308	Anatomy 2251 2254	胰岛素
+T309	Anatomy 2270 2275	miRNA
+T310	Anatomy 2593 2598	miR-7
+T311	Anatomy 4040 4050	miR-7-mTOR
+T312	Anatomy 4292 4297	miRNA
+T313	Anatomy 4447 4450	p85
+T314	Anatomy 4537 4540	胰岛素
+T315	Disease 4671 4672;4673 4674	肥 胖
+T316	Test_Value 4779 4781	下降
+T317	Anatomy 4909 4912	胰岛素
+T318	Anatomy 4985 4987;4988 4989	胰岛 素
+T319	Disease 5059 5061	肥胖
+T320	Test 5141 5147	胰岛素敏感性
+T321	Disease 5168 5176	胰岛素敏感性受损
+T322	Disease 5179 5183;5184 5187	葡萄糖耐 受不良
+T323	Anatomy 5190 5192	肝脏
+T324	Anatomy 5217 5220	胰岛素
+T325	Reason 5912 5916	高糖环境
+T326	Reason 6321 6323	高糖
+T327	Reason 6325 6327;6328 6331	低生 长因子
+T328	Test_Value 6564 6566	升高
+T329	Anatomy 6594 6598	新生血管
+T330	Reason 6916 6918	高糖
+T331	Anatomy 7212 7221	Ik / HERG
+T332	Anatomy 7246 7247;7248 7249	心 脏
+T333	Anatomy 7390 7392	心脏
+T334	Anatomy 7405 7411	Kv4. 2
+T335	Anatomy 7427 7429	心室
+T336	Anatomy 7450 7456	Kv4. 2
+T337	Anatomy 7459 7467	miR-301a
+T338	Test_Value 8027 8031	逐渐降低
+T339	Test_Value 8328 8330	减少
+T340	Disease 8869 8871	肿瘤
+T341	Anatomy 9004 9009	miRNA
+T342	Disease 249 252	糖尿病
+T343	Disease 1207 1212	代谢性疾病
+T344	Anatomy 1551 1556	miRNA
+T345	Anatomy 1639 1641;1642 1646	致炎 细胞因子
+T346	Anatomy 1646 1651	白细胞介素
+T347	Anatomy 1739 1746	促分泌颗粒蛋白
+T348	Anatomy 1755 1760	GTP 酶
+T349	Anatomy 1770 1773	胰岛素
+T350	Disease 1818 1819;1820 1822	糖 尿病
+T351	Anatomy 1925 1928	胰岛素
+T352	Anatomy 1956 1961	解耦联蛋白
+T353	Anatomy 2355 2361;2362 2363	抗细胞凋亡因 子
+T354	Drug 2452 2456	软脂酸盐
+T355	Anatomy 2438 2449	pri-miR-375
+T356	Anatomy 2679 2686;2687 2692	丝氨酸 /苏氨 酸蛋白激酶
+T357	Disease 4246 4248	炎症
+T358	Anatomy 4426 4436	磷脂酰肌醇-3 激酶
+T359	Anatomy 4520 4527	葡萄糖转运蛋白
+T360	Test 4793 4796	脂肪酸
+T361	Anatomy 5342 5353	促细胞分裂活化蛋白激酶
+T362	Anatomy 5467 5470	胰岛素
+T363	Anatomy 5650 5652	内皮
+T364	Anatomy 5655 5657	血管
+T365	Anatomy 5998 6005	干细胞因子受体
+T366	Anatomy 6053 6060	AMO-221
+T367	Disease 6452 6454;6455 6456	糖尿 病
+T368	Anatomy 6609 6613;6614 6616	细胞周期 蛋白
+T369	Anatomy 6684 6692	靶向抑制转录因子
+T370	Symptom 7109 7116	QT 间期延长
+T371	Symptom 7341 7348	QT 间期延长
+T372	Amount 8202 8205	高剂量
+T373	Reason 8595 8599	左室重构
+T374	Disease 8701 8704	糖尿病
+T375	Anatomy 8734 8739	siRNA
+T376	Anatomy 6545 6546;6547 6548	血 浆
+T377	Disease 1242 1244;1245 1246	糖尿 病
+T378	Anatomy 6025 6027	血管
+T379	Anatomy 6421 6423	血管
+T380	Anatomy 1666 1672	胰岛素瘤细胞
+T381	Anatomy 2075 2078	胰岛素
+T382	Anatomy 2318 2326	NIT-1 细胞
+T383	Anatomy 3992 3996	β 细胞
+T384	Reason 4325 4327;4328 4331	胰岛 素抵抗
+T385	Reason 4484 4489	胰岛素抵抗
+T386	Reason 4581 4586	胰岛素抵抗
+T387	Anatomy 6702 6707	GLUT4
+T388	Anatomy 6760 6764	心肌细胞
+T389	Reason 7195 7203	离子通道功能失调
+T390	Anatomy 7284 7288;7289 7291	HERG 蛋白
+T391	Anatomy 7574 7581	Gadd45α
+T392	Anatomy 8051 8059	HNF1A 基因
+T393	Anatomy 8563 8569	骨髓前体细胞
+T394	Drug 4003 4011	mTOR 抑制剂
+T395	Anatomy 8581 8588	miR-155
+T396	Anatomy 8663 8670	miR-155
+T397	Anatomy 8688 8695	miR-155
+T398	Drug 6817 6819;6820 6823	糖皮 质激素
+T399	Anatomy 5834 5839	IGF-I
+T400	Anatomy 5845 5851	IGF-IR
+T401	Drug 2622 2626	雷帕霉素
+T402	Disease 1318 1324	器官功能衰竭
+T403	Disease 4249 4250;4251 4253	糖 尿病
+T404	Anatomy 4994 5009	内源性 miR-33a / b
+T405	Anatomy 5072 5079	miR-802
+T406	Anatomy 5275 5280	miRNA
+T407	Anatomy 5316 5322	miR-24
+T408	Anatomy 5304 5309	miRNA
+T409	Anatomy 5438 5446	miR-135a
+T410	Anatomy 5522 5526	IRS2
+T411	Anatomy 5592 5596	IRS2
+T412	Anatomy 5599 5604	p-Akt
+T413	Symptom 5671 5679	血管内皮功能失调
+T414	Anatomy 5753 5758	miRNA
+T415	Anatomy 5769 5776	miR-320
+T416	Anatomy 5793 5802	胰岛素样生长因子I
+T417	Anatomy 5979 5986	miR-221
+T418	Anatomy 6030 6032	血管
+T419	Anatomy 6075 6080	c-kit
+T420	Disease 6334 6337	糖尿病
+T421	Anatomy 6373 6380	miR-503
+T422	Anatomy 6470 6477	miR-503
+T423	Drug 6486 6497	miR-503 拮抗剂
+T424	Anatomy 6769 6777	miR-133a
+T425	Anatomy 6929 6937	miR-133a
+T426	Anatomy 7251 7258	miR-133
+T427	Anatomy 7431 7439	miR-301a
+T428	Disease 7526 7529	糖尿病
+T429	Anatomy 7529 7531	心肌
+T430	Anatomy 7536 7543	miR-499
+T431	Disease 7830 7833	糖尿病
+T432	Test 8105 8112	miR-103
+T433	Test 8115 8122	miR-224
+T434	Test 8136 8143	miR-103
+T435	Test 8230 8237	miR-375
+T436	Anatomy 8414 8419	miRNA
+T437	Anatomy 8973 8978	miRNA
+T438	Anatomy 9393 9398	miRNA
+T439	Disease 4693 4695	肥胖

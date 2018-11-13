@@ -1,0 +1,349 @@
+基础研究
+基金项目:国家自然科学基金项目(81160116)
+(俞瑞、杨烨、田燕燕、张园园、朱佳、肖拉提、朱筠),临床研究院(吕国
+栋)
+1,25 二羟维生素 D3 治疗糖尿病大鼠肾脏
+纤维化的机制研究
+俞瑞  杨烨  田燕燕  张园园  吕国栋  朱佳  肖拉提  朱筠
+[摘要]   目的   探讨 1,25 二羟维生素 D3 对糖尿病肾病(DN)大鼠肾脏组织中转化生长因子 β1
+(TGF-β1)、纤维连接蛋白(FN)、血管内皮生长因子(VEGF)表达的影响,阐明 1,25 二羟维生素 D3对糖尿
+病大鼠肾脏是否具有保护作用以及可能机制。 方法 雄性 SD 大鼠注射链脲佐菌素建立 DN 模型,分为
+TGF-β1 高表达组、TGF-β1 高表达+1,25 二羟维生素 D3组、TGF-β1 低表达组、TGF-β1 低表达+1,25 二羟维
+生素 D3组、TGF-β1 正常表达组、TGF-β1 正常表达+1,25 双羟维生素 D3 组,1,25 二羟维生素 D3干预 37 d
+后检测肾功能和血生化指标,观察大鼠肾脏组织形态学和纤维化程度,利用免疫组化、实时定量 PCR、
+Western 印迹法检测大鼠肾脏 TGF-β1、FN 和 VEGF 的表达情况。 结果 与相应对照组相比,1,25 二羟维生
+素 D3干预组大鼠的总胆固醇、甘油三酯、血肌酐、血糖、HBA1C、24 h 尿蛋白的水平均降低(P<0. 05)。 TGF-
+β1 表达水平越高,肾脏纤维化程度越重,干预组大鼠的肾脏纤维化程度较对照组明显减轻。 在各对照组
+中,不同组的 TGF-β1 mRNA 及蛋白表达差异有统计学意义(P<0. 05),且伴随 TGF-β1 表达升高,FN、VEGF
+表达增加;干预组大鼠的 TGF-β1、FN 及 VEGF 较相应对照组表达均明显降低(P<0. 05)。 结论 1,25 二羟
+维生素 D3可能通过抑制肾脏 TGF-β1、FN 和 VEGF 的表达,对糖尿病大鼠的肾脏有保护作用。
+[关键词]   糖尿病肾病; 1,25 二羟维生素 D3; 转化生长因子 β1
+The mechanism played by 1,25-dihydroxyvitamin D3 in treating renal fibrosis in diabetic nephropathy Yu
+Rui*, Yang Ye, Tian Yanyan, Zhang Yuanyuan, Lyu Guodong, Zhu Jia, Xiao Lati, Zhu Jun. *Department of
+Endocrinology, the First Affiliated Hospital of Xinjiang Medical University, Urumqi 830054, China
+[Abstract]  Objective  To observe the effects of 1,25-dihydroxyvitamin D3 on the expressions of transforming
+growth factor-β 1 (TGF-β1), fibronectin(FN),and vascular endothelial growth factor (VEGF) in rats with diabetic
+nephropathy (DN), and to elucidate the protective mechanism played by 1,25-dihydroxyvitamin D3 . Methods DN
+models were estabolished by injecting streptozotoein ( STZ) into male SD rats, which were divided into TGF-β1
+overexpression group, TGF-β1 overexpression plus vitamin D3 group, TGF-β1 low-expression group, TGF-β1
+low-expression plus vitamin D3 group, TGF-β1 normal-expression group, and TGF-β1 normal-expression plus vitamin
+D3 group. After 1,25-dihydroxyvitamin D3 treatment for 37 days, renal function and blood biochemical parameters
+were evaluated. The morphology and fibrosis of kidney tissues were observed. The expressions of TGF-β1, FN, and
+VEGF in kidney cortex were measured by immunohistochemistry, realtime PCR, and Western blotting. Results The
+levels of cholesterol, triglyceride, creatinine,plasma glucose, HBA1C, and 24 h urinary protein were lower in vitamin
+D3 treated groups than those in corresponding control groups(P<0. 05) . The degree of renal fibrosis was raised with
+the increased level of TGF-β1. Vitamin D3 treatment decreased the fibrosis in diabetic kidney. There were significant
+differences in the mRNA and protein expressions of TGF-β1 in three control groups (P<0. 05) . With the increased
+levels of TGF-β1, the expressions of FN and VEGF were increased. The expressions of TGF-β1, FN, and VEGF were
+lowered by vitamin D3 compared with the corresponding control groups(P<0. 05) . Conclusion 1,25-dihydroxy-
+vitamin D3 may protect the renal tissure in diabetic rats via inhibiting the expressions of TGF-β1, FN, and VEGF in
+the kidney.
+[Key words]  Diabetic nephropathy; 1,25-dihydroxyvitamin D3; Transforming growth factor β 1
+(Chin J Endocrinol Metab, 2015, 31: 793-799)
+糖尿病肾病(diabetic nephropathy, DN)是糖尿病 患者严重的微血管并发症,是导致终末期肾病的主要
+原因之一。 尿中蛋白异常排泄增加,是 DN 主要的临
+床特点。 此病的病理改变为肾小球基底膜增厚、间质
+纤维化和足细胞损伤[1]。 虽然通过降糖、降压、调节
+血脂异常等治疗措施,可明显延缓 DN 的进展,但仍有
+很大比例患者最终出现慢性肾功能衰竭。 如何有效预
+防 DN 的发生和发展,延缓慢性肾衰进程,已成为当今
+国际医学界研究的重要课题。
+转化生子因子 β1(TGF-β1)是一个强力的致纤维
+化因子,通过促进肾小球细胞外基质(ECM)成分的堆
+积,如纤维连接蛋白( fibronection,FN)的合成和堆积,
+引起肾小球肥大和纤维化[2]。 TGF-β1、FN 和血管内
+皮生长因子(VEGF)是 DN 病理发展中的关键因子。
+近年的基础研究发现,参与钙磷代谢的活性维生素 D3
+(1,25 二羟维生素 D3、骨化三醇)可能对肾脏有保护
+作用。 本研究旨在通过应用 1,25 二羟维生素 D3 对
+DN 大鼠进行干预,观察维生素 D3对肾脏组织纤维化、
+TGF-β1、FN 及 VEGF 表达的影响,探讨其保护肾脏的
+可能机制,为 DN 的防治提供更多证据。
+材料和方法
+一、 材料
+雄性 SD 大鼠由新疆维吾尔自治区疾病预防控制
+中心提供,体重 80g,动物生产和使用许可证号分别
+为:scxk(新)2011-0001 和 syxk(新)2011-0002,本研究
+经本院伦理委员会同意。 链脲佐菌素 ( STZ,美国
+Sigma),TGF-β1 过表达慢病毒、干扰 TGF-β1 慢病毒、
+空载体病毒(由百恩维生物公司协助构建),骨化三醇
+(盖三 淳, 上 海 罗 氏 制 药 有 限 公 司 ), 兔 抗 大 鼠
+TGF-β1、兔抗大鼠 FN、兔抗大鼠 VEGF(武汉博士德生
+物工程有限公司),二步法免疫组化检测试剂、二氨基
+联苯胺(DAB)显色液、PBS(北京中杉金桥生物技术有
+限公司)。 BCA 蛋白定量试剂盒。 RNA 纯化及 cDNA
+反转录试剂盒、实时荧光定量 PCR 试剂盒(德国凯杰
+QIAGEN 公司)。
+二、 方法
+1. 动物造模的建立:雄性 SD 大鼠,普通饲料喂养
+至体重约 300 g 时,改为高脂高糖喂养,持续喂养 8
+周,腹腔注射 STZ 30 mg / kg ( STZ 临用前溶于 0. 1
+mmol / L,pH 4. 5 无菌枸檬酸钠缓冲液),72 h 后至少连
+续 3 d 尾静脉检测随机血糖,以连续 3 次随机血糖>
+16. 6 mmol / L 为糖尿病模型成功,对糖尿病成模大鼠
+继续高脂高糖喂养 8 周,维持血糖>16. 6 mmol / L,且
+24 h 尿量>原尿量 50% 、尿蛋白排泄>30 mg / 24 h 者为
+成模标准[3]。 将造模成功的 36 只大鼠平均分为 6 组:
+TGF-β1 高表达组、TGF-β1 高表达+1,25 二羟维生素
+D3组、TGF-β1 低表达组、TGF-β1 低表达+1,25 二羟维
+生素 D3 组、TGF-β1 正常表达组、TGF-β1 正常表达+
+1,25 二羟维生素 D3组,每组 6 只。 给予 6 组大鼠肾脏
+原位注射相应的慢病毒,包括 TGF-β1 过表达病毒(高
+表达)、干扰 TGF-β1 病毒(低表达)及空载体病毒(正
+常表达),每只注射 150 滋l。 1,25 二羟维生素 D3组给
+予骨化三醇灌胃:1,25 二羟维生素 D3溶于 0. 05 ml 花
+生油,每天给予 0. 03 μg / kg[4],相应对照组给予等量花
+生油灌胃。 造模过程中 TGF-β1 正常表达组和 TGF-
+β1 正常表达 1,25 二羟维生素 D3组各死亡 2 只。 37 d
+后处死并收集 4 ~ 6 ml 静脉血测定以下指标,留取肾
+脏,部分肾脏组织放入 4%甲醛溶液固定,-4℃保存。
+2. 检测指标:24 h 尿白蛋白、血肌酐、总胆固醇、
+甘油三酯、HBA1C由全自动生化仪(日本 HITACHI)检
+测。
+3. 肾组织病理学观察与分析:石蜡包埋,常规切
+片,行 HE 和 MASSON 染色,光镜观察肾组织形态变
+化。
+4. 免疫组化:肾组织标本固定 48 h,石蜡包埋。
+将经石蜡包埋后的组织切片行 3 滋m 连续切片,脱蜡
+水化。 3%的 H2O2室温孵育 10 min 以去除内源性过氧
+化物酶。 枸橼酸抗原修复 10 min,分别滴加一抗
+TGF-β1(1 : 50)、FN(1 : 200)、VEGF(1 : 200),4℃冰
+箱过夜,然后滴加二抗 37℃孵育 25 min,滴加新鲜配
+制的 DAB 显色液。 苏木紫复染,中性树胶封片。 同时
+采用 PBS 代替一抗作为阴性对照。 应用北航 CM-
+2000B 型医学生物图像分析系统,进行免疫组织化学
+图像分析,在单盲情况下每张切片在低倍镜(×200)下
+随机选择 5 个阳性视野,以出现棕黄色染色为阳性信
+号,计数每个视野平均每 2 mm2的阳性细胞数,并求其
+均值。
+5. 实时定量 PCR 检测 TGF-β1、FN、VEGF mRNA
+的表达:取各组大鼠肾脏皮髓质组织 0. 15 g,用 Qiagen
+纯化试剂盒抽提 mRNA,逆转录为 cDNA,进行实时荧
+光定量 PCR。 根据 Gene bank 中 TGF-β1、FN、VEGF 的
+cDNA 序列,参照文献设计 PCR 引物,引物序列见表 1。
+PCR 反应总体系 20 滋l,PCR 反应扩增条件:95℃变性
+10 min,95℃退火 10 s,60℃ 30 s 进行延伸,共 40 个循
+环。 每个基因设 3 个复孔,实验重复 3 次。 实验结果
+由 Bio-Rad 荧光定量分析软件读取。 以 2-△△ct 样本表
+示目的基因 mRNA 表达水平。
+6. Western 印迹法检测蛋白的表达:使用 RIPA 裂
+解液提取组织总蛋白,BCA 蛋白检测试剂盒测定蛋白
+浓度。 取变性的蛋白 50 μg /孔,用相应浓度的 SDS-
+PAGE 胶进行电泳。 恒压下将蛋白转至 PVDF 膜,封
+闭液封闭 30 min 后,分别加入一抗(TGF-β1:1 : 100,
+FN:1 : 1 000,VEGF:1 : 1 000, β-actin:1 : 1 000),
+37℃孵育 2 h 或 4℃过夜。 PBST 洗膜 3 次,加入对应
+的 HRP 标记 IgG(1 : 100 000),孵育 2 h。 PBST 洗膜 3
+次后显影,将 PVDF 膜固定在 Kodak 暗箱, 采用 Kodak
+表 1  基因引物序列
+Tab 1  Gene sequences of primers
+基因
+Gene
+上游引物
+Forward primer
+下游引物
+Reverse primer
+TGF-β1 5'-AGAAGTCACCCGCGTGCTAAT-3' 5'-CACTGCTTCCCGAATGTCTGA-3'
+FN 5'-GAGGAGGTCCAAATCGGTCATGTT-3' 5'-AACTGTAAGGACTCTTCGTCAATG-3'
+VEGF 5'-CAGACAGAGCAGGAAAGAGAGT-3' 5'-CCAAAAATAACCAACAGAAACA-3'
+β-actin 5'- AGTACCCCATTGAACACGGC-3' 5'- TTTTCACGGTTGGCCTTAGG-3'
+注:TGF-β1:转化生长因子 β1 Transforming growth factor-β1; FN:纤维连接蛋白 Fibronection; VEGF:血管内皮生长因子 Vascular endothelial growth
+factor
+表 2  各组血生化指标之间比较(x-± s)
+Tab 2  The comparison of biochemical indexes between groups(x-± s)
+组别
+Group
+鼠数
+n
+SCr
+(μmol / L)
+TC
+(mmol / L)
+TG
+(mmol / L)
+BG
+(mmol / L)
+HBA1C
+(% )
+24 h 尿蛋白
+24 h Urine protein
+(g)
+TGF-β1 6 42. 1 ± 19. 5 7. 9 ± 10. 5 9. 6 ± 7. 5 31. 3 ± 1. 8 12. 2 ± 1. 6 0. 10 ± 0. 03
+TGF-β1+D3 6 20. 2 ± 6. 0b 1. 7 ± 0. 3b 0. 8 ± 0. 5b 24. 3 ± 2. 5a 9. 7 ± 1. 6a 0. 06 ± 0. 01b
+TGF-β1si 6 16. 6 ± 3. 6 4. 0 ± 1. 8 2. 2 ± 0. 6 16. 5 ± 0. 7 6. 2 ± 0. 6 0. 03 ± 0. 01
+TGF-β1si+D3 6 7. 0 ± 0. 8d 1. 6 ± 0. 4d 0. 7 ± 0. 6d 14. 9 ± 0. 8c 5. 3 ± 0. 4c 0. 01 ± 0. 01c
+EM 4 20. 3 ± 4. 3 3. 6 ± 1. 0 2. 6 ± 0. 6 20. 6 ± 2. 2 8. 2 ± 0. 8 0. 07 ± 0. 01
+D3 4 9. 4 ± 7. 6e 1. 7 ± 0. 1e 1. 1 ± 0. 6e 17. 7 ± 0. 7e 6. 9 ± 0. 4e 0. 04 ± 0. 01e
+注:TGF-β1:转化生长因子 β1 过表达组 Transforming growth factor-β1 overexpression group; TGF-β1si:转化生长因子 β1 干扰组 TGF-β1 siRNA group;
+EM:空病毒转染组 Empty virus transfection group; D3:1,25 二羟维生素 D31,25(OH) viatemin D3; SCr:血肌酐 Serum creatinine; TC:总胆固醇 Total
+cholesterol; TG:甘油三酯 Triglyceride; BG:血糖 Blood glucose; 与 TGF-β1 组比较 vs TGF-β1 group,aP<0. 05,bP<0. 01; 与 TGF-β1si 组比较 vs TGF-β1si
+group,cP<0. 05,dP<0. 01; 与 EM 组比较 vs EM group,eP<0. 05
+IS4000 凝胶成像分析系统曝光扫描和分析结果,以所
+测得各条带的吸光度与内参照 β-actin 吸光度的比值
+代表表达量。
+三、 统计学处理
+数据采用 SPSS 17. 0 软件包进行统计学处理。 计
+量资料用 x-± s 表示,组间比较用 t 检验,多组之间比较
+采用单因素方差分析,等级资料用秩和检验,P<0. 05
+为差异有统计学意义。
+结    果
+一、 一般情况观察
+注射 STZ 后,大鼠出现明显多饮、多尿和多食,并
+逐渐出现精神萎靡,反应迟钝,毛色泛黄无光泽,体重
+下降。
+二、 6 组大鼠血生化指标比较
+1,25 二羟维生素 D3组的总胆固醇、甘油三酯、肌
+酐、血糖、HBA1C、24 h 尿蛋白水平均低于相应对照组
+(P<0. 05 或 P<0. 01,表 2)。
+三、 肾脏病理学改变
+光镜下观察,TGF-β1 过表达组:肾小球硬化,肾小
+球脏层上皮细胞与壁层上皮细胞完全黏连。 TGF-β1
+干扰组:部分肾小球系膜基质可见增生。 TGF-β1 正常
+表达组:肾小管肿胀,肾小球脏层上皮细胞与壁层上皮
+细胞部分黏连。 TGF-β1 过表达 1,25 二羟维生素 D3
+干预组:肾小球脏层上皮细胞与壁层上皮细胞部分黏
+连,毛细血管网腔部分闭塞。 TGF-β1 低表达 1,25 二
+羟维生素 D3干预组:肾小球形态完整,肾小管上皮细
+胞部分脂肪变性, 间质可见少量纤维细胞增生。
+TGF-β1 正常表达 1,25 二羟维生素 D3干预组:肾小球
+形态基本完整,脏层上皮细胞与壁层上皮细胞未见黏
+连,随着 TGF-β1 的表达增多,病理改变逐渐加剧。 维
+生素 D3干预组较对照组比较均有不同程度的改善(图
+1)。
+四、 MASSON 染色
+3 个对照组可见肾间质内大量胶原纤维增生,间
+质胶原呈现蓝染。 间质纤维化呈灶状分布,可见肾小
+球局灶性节段性硬化,伴随 TGF-β1 的增多,肾脏纤维
+化程度加重。 各 1,25 二羟维生素 D3组,上述改变均
+表 3  TGF-β1、FN 及 VEGF 蛋白在各组糖尿病大鼠肾脏中的
+表达(x-± s)
+Tab 3 The protein expressions of TGF-β1, FN and VEGF in diabetic
+rat kidney(x-± s)
+组别
+Group
+鼠数
+n TGF-β1 FN VEGF
+TGF-β1 6 18. 5 ± 1. 0 18. 3 ± 1. 0 19. 0 ± 1. 4
+TGF-β1+D3 6 8. 0 ± 1. 4b 8. 0 ± 1. 4b 8. 2 ± 1. 2a
+TGF-β1si 6 6. 5 ± 1. 1 6. 2 ± 0. 8 6. 7 ± 0. 8
+TGF-β1si+D3 6 2. 8 ± 0. 8c 2. 7 ± 0. 8c 2. 5 ± 1. 1c
+EM 4 12. 8 ± 1. 0 12. 0 ± 0. 8 11. 3 ± 1. 7
+D3 4 5. 3 ± 1. 0d 5. 3 ± 1. 5d 5. 0 ± 0. 8d
+注:略语同表 1 和表 2 The abbreviations are the same as Tab 1 and Tab
+2; 与 TGF-β1 组比较 vs TGF-β1 group,aP<0. 05,bP<0. 01; 与 TGF-β1si
+组比较 vs TGF-β1si group,cP<0. 01; 与 EM 组比较 vs EM group,dP<0. 05
+注:A: TGF-β1 过表达组显示肾小球硬化,肾小球脏层上皮细胞与壁层上皮细胞完全黏连 TGF-β1 overexpression group showed the glomerular
+sclerosis and complete adhesion of glomerulus visceral epithelial cells and lining epithelial cell; B: TGF-β1 低表达组显示部分肾小球系膜基质可见增生 TGF-
+β1 low-expression group showed the mesangial matrix proliferation of partial glomerulus; C: TGF-β1 正常表达组显示肾小管肿胀,肾小球脏层上皮细胞与壁层
+上皮细胞部分黏连 TGF-β1 normal expression group showed the swelled renal tubules and the partial adhesion of glomerulus visceral epithelial cells and lining
+epithelial cell; D: TGF-β1 过表达 1,25 二羟维生素 D3 组显示肾小球脏层上皮细胞与壁层上皮细胞部分黏连,毛细血管网腔部分闭塞 TGF-β1
+overexpression plus vitamin D3 group showed the partial adhesion of glomerulus visceral epithelial cells and lining epithelial cell, and the partially blocked capillary
+cavity; E: TGF-β1 低表达 1,25 二羟维生素 D3组显示肾小球形态完整,肾小管上皮细胞部分脂肪变性,间质可见少量纤维细胞增生 TGF-β1 low-
+expression plus vitamin D3 group showed the integral morphology of glomerulus, with some steatosis deposited in tubular epithelial cells and a small amount of
+proliferated fiber cell in the mesenchyme; F: TGF-β1 正常表达 1,25 二羟维生素 D3 组显示肾小球形态基本完整,脏层上皮细胞与壁层上皮细胞未见黏连
+TGF-β1 normal-expression plus vitamin D3 group showed the integral morphology of glomerulus, without adhesion between the glomerulus visceral epithelial cells and
+lining epithelial cell
+图 1  各组糖尿病大鼠肾脏病理变化(HE 染色×400)
+Fig 1  Pathological change of diabetic rat kidney in various groups(HE staining×400)
+注:组别同图 1 The groups are the same as Fig 1; 3 个对照组可见肾间质内大量胶原纤维增生,间质胶原呈现蓝染。 伴随 TGF-β1 的增多,肾脏纤维
+化程度加重。 各 1,25 二羟维生素 D3 组,上述改变均有所减轻 Interstitial and glomerular fibrosis( blue color) was extensively deposited in three control
+groups. With the higher expression of TGF-β1, the degree of renal fibrosis aggravated. Less interstitial fibrosis was shown after vitamin D3 treatment
+图 2  各组糖尿病大鼠肾脏病理变化(MASSON 染色×400)
+Fig 2  Pathological change of diabetic rat kidney in various groups(MASSON staining×400)
+有所减轻(图 2)。
+五、 免疫组化结果
+TGF-β1、FN 及 VEGF 均主要在肾小管表达,肾小
+管呈棕黄色为阳性。 伴随 TGF-β1 表达升高,FN、VEGF
+表达增加。 对照组 TGF-β1、FN、VEGF 表达明显高于干
+预组(P<0. 05 或 P<0. 01,图 3 ~5)。
+注:TGF-β1:转化生长因子 β1 Transforming growth factor-β1; 组别同图 1 The groups are the same as Fig 1
+图 3  各组糖尿病大鼠肾脏 TGF-β1 的表达(免疫组化×400)
+Fig 3  The expression of TGF-β1 in diabetic rat kidney(Immunohistochemical staining×400
+注:FN:纤维连接蛋白 Fibronection; 组别同图 1 The groups are the same as Fig 1
+图 4  各组糖尿病大鼠肾脏 FN 的表达(免疫组化×400)
+Fig 4  The expression of FN in diabetic rat kidney(Immunohistochemical staining×400)
+注:VEGF:血管内皮生长因子 Vascular endothelial growth factor; 组别同图 1 The groups are the same as Fig 1
+图 5  各组糖尿病大鼠肾脏 VEGF 的表达(免疫组化×400)
+Fig 5  The expression of VEGF in diabetic rat kidney(Immunohistochemical staining×400)
+注:略语同表 1 和表 2 The abbreviations are the same as Tab 1 and Tab 2;
+与相应对照组相比 vs Corresponding control groups,aP<0. 05
+图 6  各组糖尿病大鼠 TGF-β1、FN、VEGF mRNA 及蛋白的表达
+Fig 6   The mRNA and protein expressions of TGF-β1, FN, and VEGF in
+diabetic rat kidney
+六、 TGF-β1、FN、VEGF mRNA 和蛋白的表达
+TGF-β1 mRNA 和蛋白表达水平在 3 个对照组差异
+有统计学意义(P<0. 05),对照组 TGF-β1、FN、VEGF
+mRNA 和蛋白的表达显著高于维生素 D3组,差异有统
+计学意义(P<0. 05,表 3 和图 6)。
+讨    论
+本实验中给予糖尿病大鼠单侧肾脏原位注射 3 种
+慢病毒,包括 TGF-β1 过表达病毒、TGF-β1 干扰病毒
+和空载体病毒,目的在于建立不同 TGF-β1 表达水平
+的 DN 模型,如图 6 所示 TGF-β1 在 3 个对照组中表达
+有明显差异(P<0. 05),说明造模成功。 通过这些模
+型,我们希望阐明 TGF-β1 表达水平和肾脏纤维化之
+间的关系。 同时,花生油可作为维生素 D3干预效果的
+对照,在灌胃时,维生素 D3溶解到花生油中,花生油是
+一种载体。
+DN 是糖尿病常见的微血管并发症之一,肾小球
+基底膜增厚和肾间质纤维化是其典型的病理改变。 早
+期肾脏病理改变主要表现为肾脏肥大、肾小球毛细血
+管基底膜增厚和系膜区扩张。 本研究结果显示,注射
+STZ 大鼠均出现蛋白尿,提示 DN 造模成功。 同时,在
+TGF-β1 高表达、正常表达和低表达对照组大鼠,肾脏
+已出现肥大,毛细血管基底膜增厚,系膜增宽,系膜区
+基质增多,从病理学的角度进一步证实了大鼠的肾脏
+损伤。 MASSON 染色结果显示,各对照组的大鼠肾脏
+有大量胶原纤维(蓝色丝状),提示肾脏已有不同程度
+的纤维化。 在 1,25 二羟维生素 D3干预组,肾脏病理
+改变较对照组明显减轻,且肾脏纤维化减少,提示维生
+素 D3可拮抗发生肾脏纤维化,具有保护肾脏作用。
+TGF-β1 是一种广泛分布于多种组织细胞中的多
+肽类调控蛋白,在肾小球硬化和肾小管间质纤维化发
+生、发展中发挥重要作用,是诱导肾小管间质纤维化的
+重要细胞因子之一[5]。 已有的研究发现,TGF-β1 是
+DN 进展中的主要调节者[6],是导致 DN 中肾小球与肾
+小管间质损伤的重要因子。 有研究表明,糖尿病大鼠
+肾组织中 TGF-β1 表达的增加程度与尿蛋白增加及肾
+脏损害的严重程度相一致[7]。 本研究结果显示,随着
+TGF-β1 蛋白的表达增加,肾脏间质的纤维化程度不断
+增加,病理改变逐渐加剧,证实了 TGF-β1 表达和肾脏
+损害之间密切相关。 经维生素 D3 干预后,大鼠肾脏
+TGF-β1 表达减少,提示 1,25 二羟维生素 D3可能通过
+抑制 TGF-β1 的表达,发挥肾脏保护作用。
+FN 是构成肾小球外基质的主要成分。 在促肾小
+球硬化和间质纤维化的过程中,FN 的变化最早且最敏
+感。 目前认为,FN 的合成过多或降解减少,均可导致
+ECM 异常堆积,最后导致肾小球硬化、肾间质纤维化,
+加速 DN 的发生和发展。 本研究结果显示,随着
+TGF-β1 表达增多,FN 表达增加,可能因为活化后的
+TGF-β1 与相应受体结合,发挥生物学效应,促进 FN
+等 ECM 合成,抑制 ECM 降解,致肾间质 FN 堆积[8],
+因此高表达的 TGF-β1 可致 FN 增多。 经 1,25 二羟维
+生素 D3治疗后,大鼠肾脏组织的 FN 表达明显减少,说
+明维生素 D3通过抑制 FN 的表达,从而拮抗肾脏纤维
+化。
+DN 属于糖尿病微血管并发症,它的发生、发展与
+血管内皮功能障碍密切相关。 微量白蛋白尿的出现,
+表明肾脏已发生广泛的微血管损伤。 VEGF 是内皮细
+胞的特异性丝裂原,它能促进内皮细胞增殖、迁移和促
+进血管形成[9]。 它可增加血管的通透性,导致 DN 蛋
+白尿的出现。 本研究中, 3 组大鼠蛋白尿均 > 30
+mg / 24 h,较正常大鼠有所升高。 同时,TGF-β1 的表达
+增加引起 VEGF 蛋白表达增加,这可能与 TGF-β1 能
+使肾小管上皮细胞合成和分泌 VEGF 增加有关[10]。
+糖尿病大鼠肾脏的 VEGF 蛋白表达增加,提示 VEGF
+和肾病之间具有相关性。 给予 1,25 二羟维生素 D3干
+预后,VEGF 蛋白表达有所降低,提示 1,25 二羟维生
+素 D3可能通过降低 VEGF 的表达,达到减轻蛋白尿、
+保护肾小球的作用。
+综上所述,1,25 二羟维生素 D3通过拮抗肾脏纤维
+化而产生肾脏保护作用。 这种保护作用,可能通过降
+低肾脏组织中 TGF-β1、FN 及 VEGF 的表达而实现。
+1,25 二羟维生素 D3可能在同一水平分别下调这 3 个
+重要因子的表达,也可能通过级联反应,诱导这些因子
+依次发生变化。 另一方面,本研究中大鼠服用的 1,25
+二羟维生素 D3剂量,大于人体服用的常规药物剂量。
+因此,在人类中应用较高剂量的 1,25 二羟维生素 D3
+能否产生额外的肾脏保护作用,尚需要更多临床和基
+础研究的证据。

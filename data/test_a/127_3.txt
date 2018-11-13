@@ -1,0 +1,381 @@
+本刊除编委会委员担任审稿任务外,在 2013 年还特别邀请以下专家(以姓氏汉语拼音为序)
+审稿,对他们对本刊的支持和付出的辛勤劳动,特在此致以衷心的感谢。
+白  耀  毕宇芳  蔡德鸿  陈凤生  陈克敏  崔贤德  邓伟吾  范建高  方福德  冯  波
+冯  凭  冯晓源  葛  声  龚新环  顾卫琼  顾学范  顾燕云  关海霞  管  樑  黄琪仁
+江昌新  喇端端  李春霖  李  果  李培勇  李益明  李长贵  陆广华  乔  洁  曲  伸
+冉兴无  沈水仙  沈志祥  沈周俊  施仲伟  史奎雄  苏本利  孙建琴  孙首悦  孙晓东
+孙子林  汤正义  田成功  田浩明  汪启迪  王  琛  王德芬  王海云  王  玲  王  曙
+王  伟  王文健  王文平  王颜刚  吴丽莉  吴松华  吴  毅  吴瑜璇  武阳丰  夏维波
+肖新华  谢  云  邢家骝  许  迅  严  励  杨刚毅  姚  晨  姚  建  殷  峻  余金明
+袁国跃  袁申元  詹维伟  张家庆  张克勤  张秀珍  章振林  赵红燕  赵列宾  赵双霞
+赵水平  赵一鸣  赵咏桔  钟一声  周  健  周丽斌  朱鼎良
+非酒精性脂肪性肝病
+基金项目:973 计划项目(2012CB524906);卫生部 2011 年国家临床重点专科建设项目[卫办医政函(2011)873 号
+文];上海申康医院发展中心项目(SHDC12012201);上海市卫生局新三年卫生行动计划(12GWZX0103);上海市科委重
+点项目(10411956400)
+键)
+2 型糖尿病患者铁负荷与非酒精性脂肪性
+肝病的相关性研究
+张林杉  卞华  颜红梅  夏明锋  常薪霞  高键  高鑫
+[摘要]   目的  分析 2 型糖尿病患者铁负荷水平与肝脏脂肪含量(liver fat content, LFC)、肝酶以及肝
+纤维化的相关性,探讨铁负荷与 2 型糖尿病肝病状态以及肝病结局的关系。 方法 采集 530 例住院 2 型糖
+尿病患者和 18 例肝穿刺的糖代谢异常患者的病史资料、生化指标、肝脏超声和质子磁共振波谱( 1H-MRS)
+结果,测定血清铁蛋白(serum ferritin, SF)水平。结果 2 型糖尿病合并非酒精性脂肪性肝病(NAFLD)患者
+的 SF 水平较单纯 2 型糖尿病患者显著升高[(328. 7 ± 252. 2 对 239. 9 ± 171. 8) μg / L, P<0. 01],SF 是
+NAFLD 的独立危险因素(P<0. 05);多元线性回归分析显示,校正性别、年龄、糖尿病病程后,SF 与 LFC 线
+性正相关。 伴有肝酶升高的 NAFLD 患者 SF 显著高于单纯性 NAFLD 患者[(429. 9 ± 287. 4 对 293. 4 ±
+233. 3)μg / L, P<0. 01],SF 是 NAFLD 患者肝酶升高的独立危险因素(P<0. 05)。 进展性纤维化患者的 SF
+较无进展性纤维化的患者显著下降[(246. 8 ± 191. 2 对 382. 5 ± 253. 7)μg / L, P<0. 01]。 肝穿刺患者中,非
+酒精性脂肪性肝炎(NASH)患者的 SF 稍高于单纯性脂肪肝,但未达统计学意义;NASH 患者是否伴有进展
+性纤维化其 SF 差异无统计学意义。 结论 2 型糖尿病患者体内铁负荷水平增高可能是发生 NAFLD 及其
+肝酶升高的独立危险因素,进展性纤维化患者的铁负荷水平显著下降。
+[关键词]   糖尿病, 2 型; 非酒精性脂肪性肝病; 血清铁蛋白; 组织病理
+Association of iron overload with non-alcoholic fatty liver disease in patients with type 2 diabetes Zhang
+Linshan*,Bian Hua, Yan Hongmei,Xia Mingfeng,Chang Xinxia,Gao Jian,Gao Xin. *Department of Endocrinology,
+Zhongshan Hospital, Fudan University, Shanghai 200032, China
+[Abstract]   Objective   To analyze the association of fat content, enzymes, and fibrosis in liver with iron
+overload in patients with type 2 diabetes, and to explore the relationship between iron overload and severity of non-
+alcoholic fatty liver disease(NAFLD) in these patients. Methods Five hundred and thirty hospitalized patients with
+type 2 diabetes and 18 patients with abnormal glucose metabolism undergoing liver biopsy were recruited. History
+data, results of laboratory tests, liver ultrasound, hepatic 1H-MRS were collected and serum ferritin level was
+determined. Results The serum ferritin level was significantly higher in patients with NAFLD than that without
+NAFLD [(328. 7 ± 252. 2 vs 239. 9 ± 171. 8) μg / L, P<0. 01] . Serum ferritin was an independent risk factor for
+NAFLD(P<0. 05) . Multiple linear regression analysis showed that serum ferritin was positively correlated with liver
+fat content after adjustment for sex, age, and duration of diabetes. The serum ferritin level in NAFLD with elevated
+liver enzymes was significantly higher than that in simple steatosis [(429. 9 ± 287. 4 vs 293. 4 ± 233. 3)μg / L, P<
+0. 01] . Serum ferritin was an independent risk factor for elevated liver enzymes in patients with NAFLD ( P <
+0. 05) . Serum ferritin level in patients with advanced fibrosis was significantly lower than that in patients without
+advanced fibrosis [(246. 8 ± 191. 2 vs 382. 5 ± 253. 7) μg / L, P<0. 01] . In 18 patients with NAFLD proven by
+biopsy, serum ferritin level was slightly higher in NASH group than that in simple steatosis group, but there was no
+statistically significant difference. Serum ferritin levels were comparable between patients with and without advanced
+fibrosis. Conclusion The iron overload in type 2 diabetic patients seems to be an independent risk factor for the
+development of NAFLD and elevated liver enzymes. Iron load in patients with advanced fibrosis is significantly
+decreased.
+[Key words]  Diabetes mellitus, type 2; Non-alcoholic fatty liver disease; Serum ferritin; Histopathology
+(Chin J Endocrinol Metab, 2014, 30: 8-12)
+近年来,非酒精性脂肪性肝病(NAFLD)在人群中
+的发病率与日俱增,与 2 型糖尿病的伴发更是常见。
+目前 NAFLD 发病机制尚不完全明确,胰岛素抵抗被公
+认为 2 型糖尿病和 NAFLD 的共同病理生理特征。
+“二次打击冶模型已被广泛认可,脂肪堆积的肝脏易发
+生氧化应激、脂质过氧化损伤,导致肝酶活性和线粒体
+功能受抑,肝星状细胞激活、增殖,从而诱发肝细胞损
+伤、炎症和纤维化,导致非酒精性脂肪性肝炎(NASH)
+的发生[1]。 本课题组既往关于 2 型糖尿病的研究发
+现,作为亚临床炎症因子的红细胞计数、血红蛋白、白
+细胞计数和 C 反应蛋白(CRP)在 NAFLD 组均高于非
+NAFLD 组,且肝酶水平与炎症指标呈正相关[2]。 提示
+慢性低度炎症在 NAFLD 的发病过程中可能起重要作
+用。 铁是人体合成血红蛋白的必需元素,主要以血清
+铁蛋白(serum ferritin, SF)的形式贮存,其对体内铁的
+转运、贮存以及铁代谢调节有着重要的作用,同时,铁
+蛋白本身是急性期蛋白,会因炎症反应而上升。 肝脏
+是储存铁的主要部位,以肝实质细胞中含量最多。 体
+内铁过载和许多疾病关系密切,肝脏作为储存铁最多
+的部位,而成为铁过多所致损的主要靶器官。 铁作为
+一种辅助因子参与氧化应激,加强脂质过氧化反应,肝
+铁超载导致活性氧簇的产生、线粒体损伤、肝细胞功能
+障碍等。 因此,人体内铁负荷是否是联系 2 型糖尿病
+中血红蛋白、NAFLD 和 NASH 之间关系的重要桥梁
+呢? 本研究旨在分析住院 2 型糖尿病患者体内 SF 水
+平与肝脏脂肪含量(LFC)、肝酶水平以及进展性纤维
+化的相关性,从而探索铁负荷与 2 型糖尿病患者的
+NAFLD 肝病状态以及不同肝病结局的关系。
+对象和方法
+一、 对象
+收集 2009 年 9 月至 2013 年 1 月本院内分泌科的
+住院 2 型糖尿病患者 530 例,进行回顾性分析,所有患
+者均符合 2003 年美国糖尿病协会(ADA)糖尿病诊断
+标准,排除标准:(1) 1 型糖尿病、特殊类型糖尿病、妊
+娠糖尿病、分型不详的糖尿病患者;(2)酒精摄入量男
+性≥140 g /周;女性≥70 g /周;(3)病毒性肝炎、药物性
+肝病等其他肝病;(4)全胃肠外营养、甲状腺功能减退
+等可导致脂肪肝的特定疾病;(5)合并糖尿病急性并
+发症、重症感染、明确的急慢性炎症、终末期肾病、血液
+病等机体代谢状况严重紊乱的特殊情况;(6)恶性肿
+瘤、低蛋白血症、缺铁性贫血、近 6 个月有输血史或消
+化道出血、应用铁剂、肺结核、结缔组织病。
+二、方法
+1. 收集受试者病史资料:包括现病史、既往史、饮
+酒史; 身高、 体重、 腰围、 血压; 采用罗氏 Cobas e601
+型全自动电化学发光免疫分析仪及配套 FERR 试剂盒
+检测 SF、检测血尿常规、空腹血糖(FPG)、空腹 C 肽
+(FCP)、 空腹胰岛素 ( FINS)、 HBA1C、 糖化白蛋白
+(GA)、肝功能、肾功能、血脂、CRP,测定 100 g 馒头餐
+试验后 2 h 血糖(2hPG)、C 肽和胰岛素水平。 计算体
+重指数(BMI)、LFC 和纤维化评分(NFS)。
+2. 肝脏彩色超声定性诊断是否存在脂肪肝;由本
+院超声科医师操作,具备以下 3 项腹部超声表现中的
+任意 2 项者为弥漫性脂肪肝:(1)肝脏近场回声弥漫
+性增强(明亮肝),回声强于肾脏;(2)肝内管道结构显
+示不清;(3)肝脏远场回声逐渐衰减。
+3. 1H-质子磁共振波谱( 1 H-MRS)肝脏脂肪含量
+测定:LFC(% )= 脂肪峰下面积×100 / (脂肪峰下面积+
+水峰下面积),肝脏 MRS 诊断脂肪肝切点为 LFC≥
+5. 56% 。
+4. 无创性诊断 NAFLD 的 NFS:NFS = -1. 675 +
+0. 037×年龄(岁)+0. 094×BMI(kg / m2) +1. 13×空腹血
+糖受损 /糖尿病 (是 + 1,否 + 0) + 0. 99 ×谷草转氨酶
+(AST) /谷丙转氨酶(ALT)比值-0. 013×血小板计数
+(×109 / L) -0. 066×白蛋白(g / L);NFS>0. 676 诊断为
+进展性纤维化,NFS<-1. 455 除外进展性纤维化[3,4]。
+5. 肝脏病理学检查:以 NAFLD 活动度积分(NAS
+积分)评判肝脏是否存在炎症[5],S 1 ~ 4 评判纤维化
+程度,S>2 定义为进展性纤维化。 NAS 评分定量标准
+(0 ~ 8 分):(1)肝细胞脂肪变性(<5% ,计 0 分;5% ~
+33% ,计 1 分;34% ~ 66% ,计 2 分;>66% ,计 3 分);
+(2) 小叶内炎症 (200 倍镜下计数坏死灶,无,计 0
+分;<2 个,计 1 分;2 ~ 4 个,计 2 分;>4 个,计 3 分);
+(3) 肝细胞气球样变(无,计 0 分;少见,计 1 分;多见,
+计 2 分)。 NAS≥5 诊断为 NASH;NAS<3,排除 NASH;
+若介于两者之间,认为两者都有可能。
+三、 统计学处理
+应用 SPSS 19. 0 进行统计分析。 符合正态分布者
+以 x-± s 表示,两独立样本比较采用 t 检验;非正态分布
+数据以中位数(四分位间距)表示,采用非参数方法进
+行统计;均值比较采用单因素分析;构成比以及率的比
+较采用 字2 检验;多因素分析采用 logistic 回归和多元线
+性逐步回归分析;P<0. 05 为差异有统计学意义。
+结    果
+一、 2 型糖尿病患者 SF 与 NAFLD 的临床相关性
+分析
+1. 研究对象一般临床特征:530 例 2 型糖尿病
+患者纳入研究,其一般特征见表 1,其中男性 282 例
+表 1  以肝脏超声诊断结果分组比较 2 型糖尿病患者的血清铁蛋白水平[x-± s,中位数(四分位数)]
+Tab 1  Comparison of serum ferritin levels between type 2 diabetic patients with or without NAFLD[x-± s, M(Quartile)]
+组别
+Group
+例数
+n M / F
+年龄
+(岁)
+Age
+(year)
+糖尿病病程
+(年)
+Diabetes duration
+(year)
+BMI
+(kg / m2)
+WC
+(cm)
+SBP
+(mmHg)
+DBP
+(mmHg)
+RBC
+(×1012 / L)
+Non-NAFLD 206 104 / 102 62. 1 ± 11. 4 10. 0(3. 0-13. 0) 23. 4 ± 3. 4 87 ± 11 132 ± 18   80 ± 10 4. 30 ± 0. 52
+NAFLD 324 177 / 147 57. 0 ± 14. 1b 6. 0(0. 7-10. 0) b 26. 6 ± 3. 5b 95 ± 10b 135 ± 17a   83 ± 9b 4. 66 ± 0. 52b
+总计
+Total 530 281 / 249 59. 0 ± 13. 2 7. 0(2. 0-11. 0) 25. 4 ± 3. 8 92 ± 11 134 ± 17   82 ± 9 4. 52 ± 0. 54
+组别
+Group
+例数
+n
+Hb
+(g / L)
+FPG
+(mmol / L)
+2hPG
+(mmol / L)
+HBA1C
+(% )
+FINS
+(mU / L)
+FCP
+(μg / L)
+TC
+(mmol / L)
+TG
+(mmol / L)
+Non-NAFLD 206 128. 6 ± 13. 9 8. 6 ± 4. 2 17. 6 ± 5. 8 9. 0 ± 2. 6 8. 1(5. 0-12. 2) 1. 59 ± 0. 96 4. 53 ± 1. 31 1. 37(0. 93-1. 95)
+NAFLD 324 138. 1 ± 14. 2b 8. 7 ± 3. 3 16. 2 ± 4. 5 9. 0 ± 2. 1 10. 6(7. 3-15. 8) b 2. 17 ± 1. 16b 4. 75 ± 1. 07a 1. 78(1. 30-2. 64) b
+总计
+Total 530 134. 5 ± 14. 7 8. 7 ± 3. 7 16. 7 ± 4. 9 9. 0 ± 2. 3 9. 7(6. 2-14. 2) 1. 93 ± 1. 11 4. 66 ± 1. 17 1. 57(1. 13-2. 37)
+组别
+Group
+例数
+n
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+ALT
+(U / L)
+AST
+(U / L)
+γ-GT
+(U / L)
+UA
+(μmol / L)
+CRP
+(mg / L)
+SF
+(μg / L)
+Non-NAFLD 206 1. 21 ± 0. 36 2. 63 ± 1. 13   14(10-19)   18(15-21)   21(16-32) 298. 0 ± 101. 1 1. 5(0. 6-4. 1) 239. 9 ± 171. 8
+NAFLD 324 1. 08 ± 0. 38b 2. 69 ± 0. 96   20(14-33) b   20(16-26) b   31(22-45) b 335. 5 ± 91. 3b 2. 0(1. 1-4. 0) b 328. 7 ± 252. 2b
+总计
+Total 530 1. 13 ± 0. 38 2. 67 ± 1. 02   17(12-26)   19(16-24)   26(19-40) 320. 2 ± 96. 1 1. 8(0. 9-4. 0) 295. 7 ± 226. 5
+注:NAFLD:非酒精性脂肪性肝病 Non-alcoholic fatty liver disease; Non:非;M:男性 Male; F:女性 Female; BMI:体重指数 Body mass index;WC:腰围
+Waist circumference;SBP:收缩压 Systolic blood pressure;1 mmHg=0. 133 kPa;DBP:舒张压 Diastolic blood pressure;RBC:红细胞计数 Red blood cell count;
+Hb:血红蛋白 Hemoglobin;FPG:空腹血糖 Fasting plasma glucose;2hPG:馒头餐负荷后 2 h 血糖 2 h plasma glucose after steamed bread meal loading;FINS:空
+腹胰岛素 Fasting insulin;FCP:空腹 C 肽 Fasting C peptide;TC:总胆固醇 Total cholesterol;TG:甘油三酯 Triglyceride;HDL-C:高密度脂蛋白胆固醇 High
+density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;ALT:谷丙转氨酶 Alanine aminotransferase;AST:谷草转氨酶
+Aspartate aminotransferase;γ-GT:γ-谷氨酰转移酶 γ-glutamyl transpeptidase;UA:尿酸 Uric acid;CRP:C 反应蛋白 C-reactive protein;SF:血清铁蛋白 Serum
+ferritin;与 Non-NAFLD 组比较 vs Non-NAFLD group,aP<0. 05,bP<0. 01
+(53. 2% ),女性 248 例(46. 8% ),所有研究对象的平
+均年龄(59. 0 ± 13. 2)岁,BMI (25. 4 ± 3. 8) kg / m2,GA
+(23. 3 ±8. 9)% 。
+2. SF 水平在是否合并 NAFLD 的 2 型糖尿病患者
+中的差异:根据肝脏超声诊断结果将 530 例 2 型糖尿
+病患者分为合并 NAFLD 组和无 NAFLD 组,比较 2 组
+之间 SF 水平的差异(表 1)。 合并 NAFLD 组(n = 324
+例)和无 NAFLD 组(n=206 例)相比,性别构成比和血
+糖控制水平无显著差异。 SF 水平在合并 NAFLD 组显
+著升高[(328. 7 ± 252. 2 对 239. 9 ± 171. 8) μg / L, P<
+0. 01]。
+3. 2 型糖尿病患者 NAFLD 的患病危险因素分析:
+以是否合并 NAFLD(超声诊断)为因变量,SF 和腰围、
+收缩压、舒张压、FCP、FINS、总胆固醇(TC)、甘油三酯
+(TG)、高密度脂蛋白胆固醇(HDL-C)、尿酸等传统危
+险因素为自变量,校正了年龄、性别、 BMI,行二元
+logistic 回归分析显示,SF(OR=1. 002,95% CI 1. 000 ~
+1. 003,P = 0. 013)、BMI(OR = 1. 242,95% CI 1. 139 ~
+1. 356,P <0. 01)、TG(OR = 1. 290,95% CI 1. 010 ~
+1. 648,P = 0. 042)、FCP(OR = 1. 310,95% CI 1. 007 ~
+1. 706,P=0. 044)是 NAFLD 的患病危险因素。
+4. SF 与肝脏脂肪含量相关性分析:共 197 例患者
+完成了1 H-MRS 测定 LFC。 Spearman 相关分析发现,
+男性(n=99)和女性(n=98)患者的 SF 均与 LFC 呈正
+相关( rs 分别为 0. 462 和 0. 305,P<0. 01)。 以 SF 水平
+为因变量,以 BMI、腰围、红细胞计数、血红蛋白(Hb)、
+白细胞计数、FPG、HBA1C、GA、FCP、TC、TG、HDL-C、低
+密度脂蛋白胆固醇(LDL-C)、载脂蛋白 B、尿酸、C 反
+应蛋白、白蛋白、ALT、AST、γ-谷氨酰转肽酶(γ-GT)、
+LFC 为自变量,校正性别、年龄、糖尿病病程,行多元线
+性逐步回归分析显示,SF 与 LFC 呈线性正相关关系。
+5. NAFLD 伴肝损伤患者的 SF 水平与肝酶的关
+系:排除胆道疾病患者 74 例,经超声诊断 NAFLD 共
+269 例(59. 0% ),其中伴有肝损伤的(ALT、AST、r-GT
+3 项肝酶任一升高)患者 63 例,单纯性脂肪肝(肝酶正
+常)患者 206 例,2 组间的男女构成比无统计学差异,
+比较 2 组患者的 SF 水平,结果显示,肝酶升高组的 SF
+水平显著高于肝酶正常组[(429. 9 ± 287. 4 对 293. 4 ±
+233. 3 )μg / L, P<0. 01]。 Spearman 相关分析发现,合
+并 NAFLD 的 2 型糖尿病男性和女性患者的 SF 水平与
+ALT、AST、 γ-GT 均呈显著正相关 (男性 rs 分别为
+0. 332、0. 299、0. 281,P<0. 01;女性 rs 分别为 0. 221、
+0. 201、0. 270,P<0. 05)。
+以 NAFLD 伴肝损伤为因变量,以 SF 为自变量行
+logistic 回归分析,校正了性别、年龄、BMI、腰围、糖尿
+病病程、FPG、HBA1C、FCP、TG、TC、HDL-C 和尿酸,SF
+仍然是 NAFLD 患者伴肝损的独立危险因素 (OR =
+1. 002,95% CI 1. 001 ~ 1. 003,P<0. 05)。
+6. SF 与 2 型糖尿病患者进展性肝纤维化的关系:
+NAFLD 患者根据 NFS 分组比较 SF,结果显示进展性
+纤维化组(n=69)的 SF 较无进展性纤维化组(n = 47)
+显著下降[(246. 8 ±191. 2 对 382. 5 ±253. 7)μg / L, P<
+0. 01]。 Spearman 相关分析示,男性患者 SF 与 NFS 评
+分呈线性负相关( rs = -0. 225, P=0. 004),偏相关分析
+发现,校正了糖尿病病程和 LFC 后,相关性消失;女性
+患者中 SF 与 NFS 无显著相关性 ( rs = - 0. 089, P =
+0. 305)。
+二、 SF 与肝穿刺病理相关分析
+1. 肝穿刺对象一般临床特征:对 18 例(男性 10
+例,女性 8 例)2 型糖尿病(n=12)及糖尿病前期[空腹
+血糖受损或糖耐量受损,n = 6]的 NAFLD 患者进行肝
+脏病理活检,年龄(45. 4 ± 15. 8)岁,糖尿病病程(1. 4 ±
+1. 5)年,NAFLD 病程(7. 2 ± 5. 9)年,BMI(28. 1 ± 4. 7)
+kg / m2,腰围(96 ± 11) cm,FPG (6. 5 ± 2. 3) mmol / L,
+2hPG(12. 4 ±3. 7) mmol / L,HBA1C(6. 8 ± 2. 0)% ,FINS
+(14. 4 ± 7. 9) mU / L,FCP(3. 01 ± 0. 74)μg / L,TC(4. 97
+±1. 11) mmol / L, TG (2. 54 ± 1. 99) mmol / L,HDL-C
+(1. 15 ± 0. 30) mmol / L,LDL-C (2. 80 ± 0. 99) mmol / L,
+ALT(94. 7 ± 64. 5) U / L,AST (55. 7 ± 30. 0) U / L,LFC
+(45. 54 ±21. 92)% ,SF(409. 0 ± 356. 5)μg / L。
+2. 肝穿刺病理结果:利用 NAS 积分评判肝脏是否
+存在炎症,S 1 ~ 4 评判纤维化程度,S>2 定义为进展性
+纤维化。 结果显示 13 例明确诊断为 NASH(NAS≥
+5);2 例可疑 NASH(NAS=3 或 4);3 例单纯性脂肪肝
+(NAS<3)。 2 例可疑 NASH 中 1 例存在纤维化;13 例
+NASH 患者中 12 例存在纤维化,其中 7 例为进展性纤
+维化。 所有肝脏病理标本普鲁士蓝铁染色均阴性。
+3. SF 与 NAFLD 肝脏组织学相关性:Spearman 相
+关分析显示,SF 与 NAS 积分( rs = 0. 568,P = 0. 014)、
+肝细胞脂肪变( rs = 0. 593,P = 0. 010)、肝细胞气球样
+变( rs = 0. 492, P = 0. 038)、小叶内炎症评分 ( rs =
+0. 511,P = 0. 030)呈线性正相关,与病理诊断的纤维
+化分期无显著相关性( rs =0. 241, P = 0. 386)。 偏相关
+分析发现,校正了性别以后,SF 与以上病理分级均无
+显著相关性(P>0. 05)。 独立 t 检验显示,NASH /可疑
+NASH 患者的 SF 高于单纯性脂肪肝[(466. 2 ± 364. 6
+对 122. 5 ±47. 8)μg / L, P=0. 131];进展性纤维化患者
+比无进展性纤维化的 SF 水平更高[(548. 1 ± 484. 9 对
+394. 6 ± 227. 5)μg / L, P = 0. 436],但差异均无统计学
+意义。 协方差分析显示,在校正了性别后,SF 与肝脏
+病理 NASH(F = 0. 312,P = 0. 584)及纤维化分期(F =
+1. 777,P=0. 215)无显著相关性。
+讨    论
+本研究发现,合并 NAFLD 的 2 型糖尿病患者的
+SF 水平显著升高,且 SF 是 NAFLD 的独立危险因素;
+伴有肝损伤的 NAFLD 患者 SF 水平显著高于单纯性
+NAFLD,且 SF 是 NAFLD 患者肝酶升高的独立危险因
+素;小样本的病理研究提示 SF 并不预测 NAFLD 所处
+的病理阶段,但由于样本量小并且单纯性脂肪肝所占
+比例少,可能存在一定偏倚。
+本课题组既往研究发现 NAFLD 患者比非 NAFLD
+患者 Hb 水平升高;且有前瞻性研究显示,随着 Hb 水
+平升高,NAFLD 发生率逐渐升高[6]。 Hb 水平受诸多
+因素影响,其中包括 SF 水平,SF 增加似乎是脂肪肝发
+生的早期预测因子。 一项 2 410 名韩国健康男性的前
+瞻性队列研究显示,即使在非肥胖的健康韩国人中,
+SF 水平仍是脂肪肝的独立危险因素[7]。 不少证据提
+示 SF 与胰岛素抵抗密切相关[8-10]。 病例对照研究显
+示,通过放血消耗铁可改善 NAFLD 患者的胰岛素抵
+抗[11]。 本研究中 2 型糖尿病患者体内 SF 水平和 LFC
+呈独立正相关,说明铁负荷超载可以部分解释 LFC 增
+加与胰岛素敏感性之间的变化。
+肝脏是储存多余铁的主要器官,也是铁损害的首
+要靶器官。 铁是重要的脂质过氧化反应促进剂,过多
+的铁诱导肝细胞线粒体的氧化应激过程,产生自由基
+破坏肝细胞的细胞器,对溶酶体膜造成破坏,最终造成
+肝细胞死亡[12]。 反之,受损的肝细胞内贮存铁释放入
+血引起 SF 升高,进一步加重铁超载,形成恶性循环。
+有研究指出限制饮食铁摄入可改善脂肪肝,血清转氨
+酶和铁蛋白的水平显著下降,可以减少肝脏的氧化应
+激。 有研究显示,SF 还是 NAFLD 患者组织学严重性
+和进展性纤维化的一个独立预测因子,即使不存在肝
+细胞内铁沉积的 NAFLD 患者,其 SF 水平升高与病理
+NAS 评分增加独立相关[13]。 也有研究认为肝脏铁沉
+积的形式与 NAFLD 不同病理特征相关,网状内皮组织
+的铁沉积比起肝细胞内铁沉积更有可能发生进展性纤
+维化[14]。 本研究中,病理 NAS 评分是包括肝细胞脂
+肪变、气球样变和小叶内炎症的积分,主要侧重于反映
+非酒精性脂肪肝的炎症程度,而纤维化程度需用 S 分
+级描述;NFS 评分主要是通过与大样本病理研究对照
+所得出的反映肝脏纤维化严重程度的临床评分系统。
+本文的病理结果显示 SF 并不预测 NAFLD 所处的病理
+阶段,而根据 NFS 评分显示,进展性纤维化 ( NFS >
+0. 676)的 2 型糖尿病患者的铁负荷水平较无进展性
+纤维化的患者(NFS<-1. 455)显著下降,可能与发生
+纤维化的 NAFLD 肝功能下降导致对铁蛋白的合成能
+力相应下降有关,本研究中所有的肝脏病理标本铁染
+色均为阴性。 遗憾的是目前尚缺乏有肝脏病理对照的
+铁负荷动态变化的观察。
+NAFLD 与 2 型糖尿病是一个致病双重奏,两种疾
+病互相影响成为一个恶性循环,体内铁负荷在 2 型糖
+尿病患者 NAFLD 肝病发生发展中的致病机制仍未完
+全明确。 一些学者认为,铁超载并不与 NAFLD 发病直
+接相关,其可能通过炎症反应介导脂质过氧化异常和
+脂代谢紊乱来影响疾病的发生。 近几年,影响铁代谢
+的一些基因变异也引起研究者的关注。 另有新证据显
+示[15],肝细胞能够表达 Hb,且氧化应激使 Hb 表达上
+调,提示 NAFLD 患者 Hb 升高可能是通过其对氧化应
+激的抑制作用避免肝细胞受铁超载的氧化损伤。 本研
+究为横断面调查,明确了 NAFLD 患者体内的铁存储增
+高,但缺乏正常健康人的对照组和更大规模的肝脏病
+理资料以及人群的基因多态性,为明确铁在参与胰岛
+素抵抗、糖尿病、NAFLD 疾病谱进展以及 2 型糖尿病
+人群的肝病结局中的因果作用,还需进一步的基础实
+验和前瞻性研究证据。

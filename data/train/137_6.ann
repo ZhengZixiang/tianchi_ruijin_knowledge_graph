@@ -1,0 +1,268 @@
+T1	Disease 11 17	2 型糖尿病
+T2	Disease 81 87	2 型糖尿病
+T3	Disease 322 328	2 型糖尿病
+T4	Disease 623 629	2 型糖尿病
+T5	Disease 2428 2434	2 型糖尿病
+T6	Disease 2481 2487	2 型糖尿病
+T7	Disease 2536 2542	2 型糖尿病
+T8	Disease 2592 2598	2 型糖尿病
+T9	Disease 2987 2993	2 型糖尿病
+T10	Disease 3074 3080	2 型糖尿病
+T11	Disease 3144 3150	2 型糖尿病
+T12	Disease 3206 3212	2 型糖尿病
+T13	Disease 3570 3576	2 型糖尿病
+T14	Disease 3851 3857	2 型糖尿病
+T15	Disease 6391 6397	2 型糖尿病
+T16	Disease 6704 6710	2 型糖尿病
+T17	Disease 6742 6748	2 型糖尿病
+T18	Disease 6820 6826	2 型糖尿病
+T19	Disease 6884 6887;6888 6891	2 型 糖尿病
+T20	Disease 6977 6983	2 型糖尿病
+T21	Disease 7027 7033	2 型糖尿病
+T22	Disease 7132 7138	2 型糖尿病
+T23	Disease 7316 7320;7321 7323	2 型糖 尿病
+T24	Disease 7391 7397	2 型糖尿病
+T25	Disease 7498 7504	2 型糖尿病
+T26	Disease 7665 7671	2 型糖尿病
+T27	Disease 111 112;113 117	2 型糖尿病
+T28	Disease 6774 6775;6776 6780	2 型糖尿病
+T29	Test 4936 4941	HDL-C
+T30	Test 4989 4994	LDL-C
+T31	Test 23 25;26 28	空腹 血糖
+T32	Test 94 98	空腹血糖
+T33	Test 145 149	空腹血糖
+T34	Test 173 177	空腹血糖
+T35	Test 427 431	空腹血糖
+T36	Test 482 486	空腹血糖
+T37	Test 521 525	空腹血糖
+T38	Test 580 584	空腹血糖
+T39	Test 634 638	空腹血糖
+T40	Test 706 710	空腹血糖
+T41	Test 3002 3006	空腹血糖
+T42	Test 3218 3222	空腹血糖
+T43	Test 3465 3469	空腹血糖
+T44	Test 3478 3482	空腹血糖
+T45	Test 3826 3830	空腹血糖
+T46	Test 3859 3863	空腹血糖
+T47	Test 5107 5111	空腹血糖
+T48	Test 5131 5135	空腹血糖
+T49	Test 5164 5168	空腹血糖
+T50	Test 5186 5190	空腹血糖
+T51	Test 5255 5259	空腹血糖
+T52	Test 5282 5286	空腹血糖
+T53	Test 5314 5318	空腹血糖
+T54	Test 5390 5394	空腹血糖
+T55	Test 5566 5570	空腹血糖
+T56	Test 5577 5581	空腹血糖
+T57	Test 5607 5611	空腹血糖
+T58	Test 5632 5636	空腹血糖
+T59	Test 6400 6401;6402 6405	空 腹血糖
+T60	Test 6985 6989	空腹血糖
+T61	Test 7053 7057	空腹血糖
+T62	Test 7095 7099	空腹血糖
+T63	Test 7143 7145;7146 7148	空腹 血糖
+T64	Test 7255 7259	空腹血糖
+T65	Test 7281 7285	空腹血糖
+T66	Test 7335 7339	空腹血糖
+T67	Test 7507 7511	空腹血糖
+T68	Test 7526 7530	空腹血糖
+T69	Test 3351 3354	尿素氮
+T70	Test 3665 3668	血肌酐
+T71	Test 4942 4951	高密度脂蛋白胆固醇
+T72	Test 4995 4999;5000 5005	低密度脂 蛋白胆固醇
+T73	Test 20 22	尿酸
+T74	Test 2558 2560	尿酸
+T75	Test 2800 2802	尿酸
+T76	Test 2848 2850	尿酸
+T77	Test 2893 2895	尿酸
+T78	Test 2943 2945	尿酸
+T79	Test 3336 3338	尿酸
+T80	Test 3752 3754	尿酸
+T81	Test 3865 3867	尿酸
+T82	Test 5396 5398	尿酸
+T83	Test 7103 7105	尿酸
+T84	Test 7153 7155	尿酸
+T85	Test 7209 7211	尿酸
+T86	Test 7427 7429	尿酸
+T87	Disease 2689 2694	代谢综合征
+T88	Disease 2716 2721	代谢综合征
+T89	Disease 2750 2755	代谢综合征
+T90	Disease 6640 6645	糖尿病前期
+T91	Anatomy 2820 2824	脂肪细胞
+T92	Test 3339 3343	甘油三酯
+T93	Test 154 156	肌酐
+T94	Test 157 160	转氨酶
+T95	Test 161 163	血脂
+T96	Test_Value 186 200	<7. 0 mmol / L
+T97	Test_Value 226 246	7. 0 ~ 9. 0 mmol / L
+T98	Test_Value 273 287	>9. 0 mmol / L
+T99	Test_Value 352 378	(325. 82 ± 92. 26)μmol / L
+T100	Test_Value 382 408	(292. 26 ± 76. 19)μmol / L
+T101	Test_Value 639 641	升高
+T102	Test_Value 647 649	降低
+T103	Reason 2458 2463	胰岛素抵抗
+T104	Reason 2464 2471	胰岛素分泌受损
+T105	Test 2475 2477	血糖
+T106	Test_Value 2477 2479	升高
+T107	Reason 2494 2498	遗传因素
+T108	Reason 2499 2500;2501 2504	病 毒感染
+T109	Reason 2505 2512	自身免疫性疾病
+T110	Reason 2513 2517	环境因素
+T111	Disease 2572 2576;2577 2578	高尿酸血 症
+T112	Disease 2583 2586	糖尿病
+T113	Disease 2613 2615	痛风
+T114	Disease 2637 2642	糖耐量受损
+T115	Disease 2657 2660	糖尿病
+T116	Disease 2863 2865	肥胖
+T117	Disease 2866 2869	糖尿病
+T118	Disease 2875 2877	肥胖
+T119	Disease 2878 2880;2881 2882	糖尿 病
+T120	Disease 2937 2940	糖尿病
+T121	Test 3232 3234	血糖
+T122	Test 3344 3347	胆固醇
+T123	Test 3333 3335	血糖
+T124	Test 3348 3350	肌酐
+T125	Test 3355 3358	转氨酶
+T126	Test 3592 3596	HBDH
+T127	Test 3692 3693;3694 3695	肌 酐
+T128	Test_Value 5114 5116	升高
+T129	Test_Value 5122 5124	下降
+T130	Test_Value 5328 5342	<7. 0 mmol / L
+T131	Test_Value 5343 5363	7. 0 ~ 9. 0 mmol / L
+T132	Test_Value 5364 5378	>9. 0 mmol / L
+T133	Disease 6235 6238	高血压
+T134	Disease 6239 6242;6243 6248	冠状动 脉心脏疾病
+T135	Disease 6249 6252	糖尿病
+T136	Disease 6278 6281	糖尿病
+T137	Disease 6323 6326	高血压
+T138	Disease 6327 6332	慢性肾脏病
+T139	Test 6448 6450	血糖
+T140	Test_Value 6451 6453;6454 6462	≤8 mmol / L
+T141	Test 6465 6467	血糖
+T142	Test 6477 6479	血糖
+T143	Test_Value 6490 6492	下降
+T144	Disease 6502 6507;6508 6512	胰岛素依赖 型糖尿病
+T145	Test 6527 6529	血糖
+T146	Test_Value 6529 6532;6533 6541	>10 mmol / L
+T147	Disease 6597 6600	糖尿病
+T148	Disease 6664 6667	糖尿病
+T149	Disease 6875 6880	糖耐量受损
+T150	Test_Value 7151 7153	升高
+T151	Test_Value 7158 7160	降低
+T152	Disease 7168 7169;7170 7172	糖 尿病
+T153	Test 7184 7186	血糖
+T154	Test_Value 7187 7189	升高
+T155	Symptom 7194 7199	渗透性利尿
+T156	Test 7200 7202	尿量
+T157	Test_Value 7202 7204	增加
+T158	Test_Value 7340 7342	升高
+T159	Disease 7607 7610	糖尿病
+T160	Disease 7570 7573	糖尿病
+T161	Disease 7563 7566	糖尿病
+T162	Test_Value 7541 7543	下降
+T163	Test 7439 7441	血糖
+T164	Test 4511 4517	脂蛋白(a)
+T165	Disease 6316 6318;6319 6322	心血 管疾病
+T166	Test 4477 4482	HDL-C
+T167	Test 4494 4499	LDL-C
+T168	Test 4011 4016	谷丙转氨酶
+T169	Test 4055 4060	谷草转氨酶
+T170	Test 4158 4162	总胆固醇
+T171	Test 3972 3976	空腹血糖
+T172	Test 5669 5673	空腹血糖
+T173	Test 6187 6191	空腹血糖
+T174	Test 4192 4196	甘油三酯
+T175	Test 4543 4546	尿素氮
+T176	Test 1120 1123	FBG
+T177	Test 1297 1300	FBG
+T178	Test 1375 1378	FBG
+T179	Test 1457 1460	FBG
+T180	Test 1517 1520	FBG
+T181	Test 1752 1755	FBG
+T182	Test 1828 1831	FBG
+T183	Test 2024 2027	FBG
+T184	Test 2148 2151	FBG
+T185	Test 5818 5821	FBG
+T186	Test 5886 5889	FBG
+T187	Test 5940 5943	FBG
+T188	Test 6005 6008	FBG
+T189	Test 6073 6076	FBG
+T190	Test 6127 6130	FBG
+T191	Test 6183 6186	FBG
+T192	Test 4604 4606	尿酸
+T193	Test 5170 5172	尿酸
+T194	Test 5616 5618	尿酸
+T195	Test 5677 5679	尿酸
+T196	Test 6992 6994	尿酸
+T197	Test 4578 4580	肌酐
+T198	Test 2603 2605	尿酸
+T199	Disease 3263 3265	感染
+T200	Disease 3267 3269	创伤
+T201	Method 6515 6517	口服
+T202	Reason 2708 2714	过量摄入果糖
+T203	Symptom 2921 2925	氧化应激
+T204	Anatomy 3304 3307	静脉血
+T205	Test_Value 6310 6312	升高
+T206	Disease 6544 6547	糖尿病
+T207	Disease 6660 6663	糖尿病
+T208	Disease 7086 7089	糖尿病
+T209	Disease 7114 7117	糖尿病
+T210	Test_Value 7060 7062	升高
+T211	Test_Value 7063 7065	下降
+T212	Test 7410 7414	血胰岛素
+T213	Disease 7434 7437	糖尿病
+T214	Test 90 93	血尿酸
+T215	Test 150 153	血尿酸
+T216	Test 336 339	血尿酸
+T217	Test 432 435	血尿酸
+T218	Test 487 490	血尿酸
+T219	Test 526 529	血尿酸
+T220	Test 585 588	血尿酸
+T221	Test 641 644	血尿酸
+T222	Test 655 658	血尿酸
+T223	Test 2649 2652	血尿酸
+T224	Test 2668 2671	血尿酸
+T225	Test 2729 2732	血尿酸
+T226	Test 2996 2999	血尿酸
+T227	Test 3223 3226	血尿酸
+T228	Test 3235 3238	血尿酸
+T229	Test 3670 3673	血尿酸
+T230	Test 5116 5119	血尿酸
+T231	Test 5191 5194	血尿酸
+T232	Test 5260 5263	血尿酸
+T233	Test 5291 5294	血尿酸
+T234	Test 5548 5551	血尿酸
+T235	Test 5585 5588	血尿酸
+T236	Test 6221 6224	血尿酸
+T237	Test 6289 6292	血尿酸
+T238	Test 6305 6308	血尿酸
+T239	Test 6353 6356	血尿酸
+T240	Test 6408 6411	血尿酸
+T241	Test 6442 6445	血尿酸
+T242	Test 6484 6487	血尿酸
+T243	Test 6494 6497	血尿酸
+T244	Test 6591 6594	血尿酸
+T245	Test 6632 6637	空腹血尿酸
+T246	Test 6756 6759	血尿酸
+T247	Test 6787 6790	血尿酸
+T248	Test 6813 6816	血尿酸
+T249	Test 6900 6903	血尿酸
+T250	Test 7045 7048	血尿酸
+T251	Test 7221 7224	血尿酸
+T252	Test 7262 7265	血尿酸
+T253	Test 7290 7293	血尿酸
+T254	Test 7401 7404	血尿酸
+T255	Test 7576 7579	血尿酸
+T256	Test 7601 7604	血尿酸
+T257	Reason 2527 2531	高血尿酸
+T258	Reason 2678 2683	高尿酸血症
+T259	Disease 2735 2740	高尿酸血症
+T260	Test 3579 3590	血清 α-羟丁酸脱氢酶
+T261	Test 5639 5642	血尿酸
+T262	Disease 6689 6694	高尿酸血症
+T263	Symptom 7179 7181	多饮
+T264	Symptom 7181 7183	多尿
+T265	Test 7342 7344;7345 7348	血尿 酸水平
+T266	Reason 7545 7550	高尿酸血症
+T267	Test 7535 7537;7538 7539	血尿 酸
+T268	Test 7514 7516	尿酸

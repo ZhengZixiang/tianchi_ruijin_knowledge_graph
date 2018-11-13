@@ -1,0 +1,351 @@
+临床研究
+基金项目:国家自然科学基金(81270939)
+糖尿病患者静脉滴注甲基强的松龙后
+动态血糖特征及胰岛素方案调整
+咸玉欣  李莉  孙瑞霞  曹彩霞  吕文山  王静  张杰涛  高燕燕
+[摘要]   目的  研究糖尿病患者短期甲基强的松龙(甲强龙)治疗后血糖升高的特点,及应用胰岛素
+控制血糖时剂量的调整方法。 方法 应用动态血糖监测系统(CGMS)对慢性阻塞性肺病(COPD)伴糖尿病
+未接受甲强龙治疗(DM1 组)及 COPD 伴(DM2 组)或不伴糖尿病(NDM 组)接受甲强龙治疗后进行动态血
+糖监测,比较血糖平均水平(MBG)、餐后血糖水平超过 11. 1 mmol / L 的血糖曲线下面积(AUC)、血糖水平
+超过 10 mmol / L 的时间百分比(PT)、餐后血糖峰值(PGS)、餐后血糖波动幅度(PPGE)、平均血糖波动幅度
+(MAGE)等指标,并分析 DM2 组甲强龙治疗前后胰岛素剂量变化。 结果 DM2 组患者 24 h MBG 比 DM1
+组高约 42% ,比 NDM 组高约 38% (P<0. 05),餐后血糖 AUC、PT 及 MAGE 均明显高于 DM1、NDM 两组(P<
+0. 01)。 DM2 组早餐 PGS 及 PPGE 均高于 NDM 组(P<0. 01),与 DM1 组相比差别无统计学意义(P>0. 05)。
+DM2 组午餐、晚餐 PGS 及 PPGE 均明显高于 DM1、NDM 两组(P<0. 01)。 NDM、DM2 两组午餐、晚餐 PGS 及
+PPGE 均明显高于早餐后(P<0. 05)。 NDM 组餐后血糖高峰出现在午餐后大约 70 ~ 80 min,约为静滴甲强
+龙后(5. 71 ± 0. 56) h,大约 21 : 00 血糖水平开始下降,夜间维持在较低水平。 DM2 组餐后血糖高峰出现在
+晚餐后大约 1. 5 h 左右。 DM2 组应用甲强龙治疗后胰岛素剂量明显增加,较未用激素前增加了 74% (P<
+0. 01)。 其中午餐、晚餐前胰岛素需要量最多,比早餐前高 53% ~ 67% (P<0. 01)。 结论 COPD 不伴糖尿
+病的患者应用甲强龙治疗引起的血糖高峰主要在午餐后。 而 COPD 伴糖尿病者应用甲强龙后血糖达峰时
+间延迟至晚餐后约 1. 5 h。 2 型糖尿病患者开始应用糖皮质激素的同时胰岛素剂量即应增加约 50% ,主要
+应增加午餐、晚餐前剂量。 使血糖水平控制良好至少应增加 74%的胰岛素剂量。
+[关键词]   糖尿病; 甲强龙; 动态血糖监测; 胰岛素
+Characteristics of daily blood glucose profiles of diabetes mellitus receiving methylprednisolone and
+adjustment of insulin Xian Yuxin, Li Li ,Sun Ruixia, Cao Caixia , Lyu Wenshan, Wang Jing, Zhang Jietao,
+Gao Yanyan. Dpartment of Endocrinology and Metabolism, The Affiliated Hospital of Qingdao University, Qingdao
+266100, China
+Corresponding author: Gao Yanyan
+[Abstract]   Objective   To study the characteristics of daily blood glucose profiles in diabetic patients
+receiving methylprednisolone and to provide an optimal adjustment of insulin for glucocorticoid-induced
+hyperglycemia. Methods Patients with chronic obstructive pulmonary disease(COPD) and diabetes not treated with
+methylprednisolone(group DM1), COPD with diabetes( group DM2) or without diabetes( group NDM) treated with
+methylprednisolone were studied by means of continuous glucose monitoring system(CGMS) for 3 days. Levels of mean
+blood glucose(MBG), the area under the curve of postprandial glucose above 11. 1 mmol / L(AUC), percentage of
+time spent in hyperglycemia above 10 mmol / L ( PT), postprandial glucose spike ( PGS), postprandial glycemic
+excursion(PPGE), and mean amplitude of glycemic excursions(MAGE) were calculated in each individual. Changes
+of insulin doses after using methylprednisolone in group DM2 were observed. Results The 24 h MBG in group DM2
+was 42% higher than that in group DM1 and 38% higher than that in group NDM(P<0. 05) . AUC, PT, and MAGE
+were significantly higher in group DM2 than in group DM1 and NDM(P<0. 01) . PGS and PPGE after breakfast in
+group DM2 were significantly higher than those in group NDM(P<0. 01), but there was no significant difference
+between group DM2 and DM1(P>0. 05) . PGS and PPGE after lunch and dinner in group DM2 were both significantly
+higher than those of in group DM1 and group NDM(P<0. 01), and both lunch and dinner yielded higher PGS and
+PPGE than those after breakfast in group NDM and group DM2(P<0. 05) . The peak of plasma glucose in group NDM
+occurred at 70-80 min after lunch, ie. about (5. 71 ±0. 56) h after methylprednisolone administration. However, the
+peak occurred at about 1. 5 h after dinner in group DM2. Insulin doses were significantly increased by 74% in patients
+with COPD and diabetes after treatment with methylprednisolone(P<0. 01) . The insulin doses before lunch and
+dinner were 53% -67% higher than those before breakfast(P<0. 01) . Conclusions The daily blood glucose peak in
+COPD patients without diabetes mostly occurred after lunch during treatment with methylprednisolone. In contrast, in
+COPD patients with diabetes, the peak glucose level occurred 1. 5 h after dinner. It is suggested that insulin doses
+should be increased by 50% when the glucocorticoid therapy is started and may need to be increased by 74% or more
+to control blood glucose levels. The increased insulin doses should be distributed before lunch and dinner.
+[Key words]  Diabetes mellitus; Methylprednisolone; Continuous glucose monitoring system; Insulin
+(Chin J Endocrinol Metab, 2014, 30: 468-472)
+糖皮质激素常广泛应用于治疗炎症反应性疾病和
+免疫系统疾病,如哮喘、慢性阻塞性肺病(COPD)、肾
+小球肾炎、系统性红斑狼疮等。 而应用糖皮质激素也
+会带来一系列不良反应如高血糖[1]。 因此,临床工作
+中对于糖尿病患者应用糖皮质激素常常顾虑重重,对
+于应用激素后血糖波动的控制也缺少较好的经验。 通
+常,Cushing 综合征引起的内源性糖皮质激素产生过多
+主要引起餐后高血糖,空腹血糖常在正常范围[2]。 如
+果外源性糖皮质激素产生过多引起的血糖升高也是同
+样模式,那么,治疗过程中盲目的增加胰岛素剂量极有
+可能引起夜间低血糖。 到目前为止,没有详细的研究
+提出 2 型糖尿病患者应用糖皮质激素治疗时的血糖波
+动特点及最佳胰岛素调整方案。
+本研究的目的是应用动态血糖监测(CGMS)阐明
+患者应用短期的甲基强的松龙(甲强龙)治疗后血糖
+升高的频率、模式、程度,以及应用胰岛素控制血糖时
+剂量的调整方法,进而为临床患者应用糖皮质激素治
+疗引起血糖升高提供最佳治疗方案。
+对象和方法
+一、 对象
+随机选择 2009 年至 2012 年在本院呼吸内科门诊
+就诊及病房住院的确诊慢性阻塞性肺病(COPD)的患
+者共 45 例,入选条件为无严重心脑血管疾病及肝肾功
+能异常,无激素应用禁忌证,无其他内分泌疾病及明显
+高血压。 受试前 1 周内未用过用糖皮质激素、利尿剂
+及解热镇痛药等影响糖代谢的药物。
+二、 方法
+1. 入选方法:入选前必须经过详细询问病史,体
+格检查及实验室检查,并签署知情同意书。 试验前测
+定血尿常规、血压、血脂、心电图、肝肾功能、电解质、静
+脉血糖,未确诊 2 型糖尿病者行 75 g 口服葡萄糖耐量
+试验。 血压由专人用台式水银柱血压计在患者静息状
+态下测定,取 2 次测定的平均值;糖耐量试验、静脉血
+糖采用葡萄糖氧化酶法;血常规采用荧光染色加流式
+细胞计数测定;肝肾功能、电解质、血脂、C 反应蛋白采
+用自动生化仪测定,HBA1C采用高压液相法测定,血气
+分析采用电极法测定;第 1 秒用力呼气容积占预计值
+百分比(FEV1%预计值)、第 1 秒用力呼气容积占用力
+肺活量百分比(FEV1 / FVC)根据肺功能测定得出。 佩
+戴 CGMS 期间指血矫正均采用德国罗氏卓越型血糖
+仪。 2 型糖尿病诊断标准参照 1999 年 WHO 糖尿病诊
+断标准。
+2. 分组:45 例受试者分为 3 组:NDM 组(无糖尿
+病组):15 例 COPD 急性加重的无糖尿病患者接受甲
+强龙治疗。 DM1 组(DM 对照组):15 例 COPD 急性加
+重的伴糖尿病患者未接受甲强龙治疗。 DM2 组(DM
+甲强龙组):15 例 COPD 急性加重的伴糖尿病患者接
+受甲强龙治疗。
+甲强龙治疗剂量为每日 40 mg 静脉滴注,均为上
+午 8 : 00 一次给药,疗程 5 d。 DM1、DM2 两组受试者
+均空腹血糖≤8 mmol / L,餐后 2 h 血糖≤10 mmol / L,
+7%≤HBA1C≤10% 。 DM2 组用甲强龙前有 10 人应用
+预混胰岛素或长效+短效每日 4 次胰岛素皮下注射控
+制血糖,入院后即改为胰岛素泵(CIISS,美敦力 712
+泵)连续皮下泵入门冬胰岛素控制血糖,日胰岛素总
+量与入院前相同。 另 5 人口服降糖药控制血糖,应用
+甲强龙第 1 天胰岛素及口服药剂量均不作调整。
+3. 动态血糖监测:采用 CGMS(美国 MiniMed)对
+受试者进行连续血糖监测。 NDM、DM1 组监测时间为
+(72. 0 ± 3. 5) h,DM2 组监测时间为(144. 0 ± 8. 8) h,
+CGMS 的平均绝对差(MAD)为 9. 5% ± 4. 1% 。 CGMS
+通过监测皮下组织间液的葡萄糖浓度而反映血糖水
+平,其感应探头置于腹部皮下,血糖记录器通过导线与
+探头连接,每 10 s 接受一次电信号,将 5 min 的数值平
+均后转化成血糖数值储存,记录器每日储存 288 个血
+糖值,数据下载到计算机中,可获得完整的血糖图和统
+计值。 本研究中 CGMS 监测期间,要求患者固定饮食
+和运动习惯,进餐时间、内容相对统一。 不得误餐和自
+行加餐,正确记录生活日志。 同时每天至少输入 4 次
+指端血糖值进行校正。
+具体时间安排:第 1 天:所有受试者晨 7 : 00 佩戴
+CGMS 探头,8 : 00 给予甲强龙 40 mg / d 静滴。 第 2 ~ 4
+天:8 : 00 给予甲强龙 40 mg / d 静滴(DM2 组第 4 天即
+72 h 后更换另一 CGMS 探头),DM2 组根据第 1 天下
+载的血糖结果进行胰岛素剂量调整。 第 5 ~ 7 天:停用
+甲强龙,DM2 组继续 CGMS 监测并进行胰岛素剂量调
+整(第 7 天撤 CGMS 探头)。
+4. CGMS 的评估参数: (1) 24 h 平均血糖水平
+(MBG)及其标准差(SDBG):受试者 CGMS 24 h 监测
+期间共 288 个测定值的平均水平及其标准差。 (2)三
+餐后 3 h 内的血糖峰值。 (3 ) 平均血糖波动幅度
+(MAGE):统计受试者 24 h 波动幅度大于 1 个标准差
+的血糖波动,根据第一个有效波动的方向计算其波动
+幅度,MAGE 为所有血糖波动幅度的平均值。 (4)餐
+后血糖波动幅度(PPGE):餐后 2 h 血糖与相应餐前即
+刻血糖的差值。 (5)餐后血糖 AUC:餐后血糖水平超
+过 11. 1 mmol / L 的血糖曲线下面积。 (6)血糖水平超
+过 10 mmol / L 的时间百分比(PT)。
+三、 统计学处理
+采用 CGMS software 3. 0 对 CGMS 的数据进行统计
+学分析。 计量资料成正态分布者以 x- ± s 表示,非正态
+分布者以中位数(四分位数间距)表示。 正态分布数
+据组间比较采用方差分析,非正态分布数据采用非参
+数分析。 数据处理由 SPSS 软件完成。 P<0. 05 为差异
+有统计学意义。
+结    果
+一、 临床资料分析
+3 个组受试者年龄、体重、身高、体重指数均没有
+明显差别。 总胆固醇、甘油三酯、HBA1C在 DM1、DM2
+两组明显高于 NDM 组(P<0. 05),而 DM1 和 DM2 两
+组间三者均没有明显差别(P>0. 05, 表 1)。 3 组受试
+者均为轻度 COPD 急性加重期患者,各组间 COPD 病
+程、第一秒用力呼气容积占预计值百分比(FEV1% 预
+计值)、第一秒用力呼气容积占用力肺活量百分比
+(FEV1 / FVC)、 白细胞计数、 C 反应蛋白、 氧分压
+(PaO2)、二氧化碳分压(PaCO2)等均没有明显差别
+(P>0. 05, 表 2)。
+二、 糖皮质激素应用后血糖特点
+NDM、DM2 两组给予甲强龙治疗后所有患者均未
+出现糖尿病酮症酸中毒和糖尿病高渗综合征等急性并
+发症,其中 DM2 组 1 例夜间血糖最低 3. 9 mmol / L,但
+未出现低血糖症状。 对 3 组受试者戴 CGMS 监测后第
+1 个 24 h 动态血糖特点进行分析,期间治疗方案均不
+作调整。 DM2 组患者血糖峰值≥11. 1 mmol / L 的例数
+是 15 人(100% ),DM1 组是 8 人(53% ),NDM 组是 12
+人(80% )。 血糖≥11. 1 mmol / L 的曲线下面积(AUC)
+DM2 组明显高于 DM1 组(4. 07 ± 1. 57 对 0. 16 ± 0. 15,
+P<0. 01)及 NDM 组(4. 07 ± 1. 57 对 0. 2 ± 0. 21,P<
+0. 01)。 DM2 组患者 24 h 血糖平均水平为(11. 58 ±
+2. 97) mmol / L,比 DM1 组高约 42% ,比 NDM 组高约
+38% ,差异均有统计学意义(P<0. 05)。
+DM2 组空腹血糖为(7. 02±0. 61)mmol / L,比 DM1
+组高约 15% ,比 NDM 组高约 42% (P<0. 05)。 同时对
+三餐后血糖峰值进行分析,早餐后血糖峰值 DM2 组为
+(11. 37 ± 1. 68) mmol / L,比 NDM 组高约 38% ( P <
+0. 01),略高于 DM1 组,但差别无统计学意义 (P >
+0. 05) 。午餐、晚餐后血糖峰值 DM2 组均明显高于
+DM1、 NDM 两组, 其中午餐后血糖峰值 DM2 组为
+表 1  3 组受试者一般临床和实验室资料
+Tab 1  General clinical and laboratory data in the 3 groups
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+身高
+Height
+(cm)
+体重
+Weight
+(kg)
+体重指数
+Body mass index
+(kg / m2)
+总胆固醇
+Total cholesterol
+(mmol / L)
+甘油三酯
+Triglycerides
+(mmol / L)
+HBA1C
+(% )
+NDM 15(9 / 6) 54. 8 ± 6. 7 1. 69 ± 0. 08 69. 7 ± 7. 6 24. 5 ± 1. 12 4. 84 ± 0. 82 1. 35 ± 0. 22 5. 30 ± 0. 30
+DM1 15(8 / 7) 56. 1 ± 6. 3 1. 67 ± 0. 08 70. 2 ± 6. 8 25. 5 ± 1. 18 5. 56 ± 1. 16a 2. 75 ± 1. 10a 7. 51 ± 1. 18a
+DM2 15(8 / 7) 55. 8 ± 6. 5 1. 68 ± 0. 06 70. 9 ± 8. 0 25. 1 ± 1. 22 5. 88 ± 1. 27 a 2. 64 ± 1. 01a 7. 17 ± 1. 10a
+注:NDM:无糖尿病组 Non-diabetic group;DM1:糖尿病对照组 Diabetic control group;DM2:糖尿病甲基强的松龙组 Diabetic group treated with
+methylprednisolone;vs NDM,aP<0. 05
+表 2  3 组受试者 COPD 病情分级比较
+Tab 2  Fractionation of COPD in the 3 groups
+组别
+Group
+COPD 病程
+(年)
+Course of COPD
+(year)
+FEV1
+(% )
+FEV1 / FVC
+(% )
+白细胞计数
+White blood cells
+(×109 / L)
+C 反应蛋白
+C-reactive protein
+(mg / L)
+PaO2
+(mmHg)
+PaCO2
+(mmHg)
+NDM 10. 93 ± 4. 78 73. 47 ± 6. 05 60. 80 ± 4. 87 9. 69 ± 1. 72 27. 20 ± 10. 28 73. 61 ± 8. 12 45. 25 ± 6. 85
+DM1 11. 67 ± 4. 92 74. 21 ± 6. 88 57. 48 ± 4. 55 9. 01 ± 2. 02 25. 60 ± 8. 15 74. 38 ± 8. 05 47. 13 ± 6. 23
+DM2 12. 33 ± 5. 15 72. 80 ± 5. 92 59. 73 ± 4. 65 8. 76 ± 1. 88 21. 13 ± 8. 81 72. 95 ± 7. 88 46. 53 ± 6. 18
+注:COPD:慢性阻塞性肺病 Chronic obstructive pulmonary disease;NDM:无糖尿病组 Non-diabetic group;DM1:糖尿病对照组 Diabetic control group;
+DM2:糖尿病甲基强的松龙组 Diabetic group treated with methylprednisolone;FEV1:第 1 秒用力呼气容积 Forced expiratory volume in 1 s;FVC:用力肺活量
+百分比 Forced vital capacity;PaO2:氧分压 Oxygen partial pressure;1 mmHg=0. 133 kPa;PaCO2:二氧化碳分压 Partial pressure of carbon dioxide
+(16. 28 ±1. 89) mmol / L,比 DM1 组高约 63% ,比 NDM
+组高约 32% , 差异均有统计学意义(P<0. 01)。 晚餐
+后血糖峰值 DM2 组为(17. 5 ± 2. 07) mmol / L,比 DM1
+组高约 70% ,比 NDM 组高约 47% ,差异均有统计学意
+义(P<0. 01)。 NDM、DM2 两组午餐、晚餐后血糖峰值
+均明显高于早餐后,其中 NDM 组午餐、晚餐后血糖峰
+值分别比早餐后升高约 50% 、45% ,DM2 组午餐、晚餐
+后血糖峰值分别比早餐后升高约 43% 、54% ,差异均
+有统计学意义(P<0. 01)。 NDM 组餐后血糖高峰出现
+在午餐后大约 70 ~ 80 min,约为静滴甲强龙后(5. 71 ±
+0. 56) h,大约 21 : 00 血糖水平开始下降,夜间维持在
+较低水平。 DM2 组餐后血糖高峰出现在晚餐后大约
+1. 5 h 左右。
+比较 3 组受试者的餐后血糖波动幅度,每日平均
+血糖幅度(MAGE)DM2 组明显高于 DM1 组和 NDM 组
+[分别为(9. 98 ±2. 64 对 6. 56 ±2. 38) mmol / L,(9. 98 ±
+2. 64 对 6. 17 ± 2. 16) mmol / L,P<0. 05]。 具体到三餐
+后血糖波动幅度(PPGE),早餐后血糖波动幅度 DM2
+组明显高于 NDM 组[(4. 47 ± 0. 91 对 2. 09 ± 0. 61)
+mmol / L,P<0. 01],与 DM1 组相比无明显统计学差异
+[(4. 47 ± 0. 91 对 4. 12 ± 0. 78) mmol / L,P>0. 05];午
+餐、晚餐后血糖波动幅度 DM2 组明显高于 DM1 组[午
+餐后(6. 19 ± 1. 20 对 2. 86 ± 0. 55) mmol / L,晚餐后
+(6. 53 ±1. 32 对 3. 6 ± 0. 91) mmol / L,P<0. 01]和 NDM
+组[午餐后(6. 19 ±1. 20 对 3. 63 ± 0. 76) mmol / L,晚餐
+后(6. 53 ± 1. 32 对 3. 19 ± 0. 70) mmol / L,P<0. 01]。
+NDM、DM2 两组午餐、晚餐后血糖波动幅度均明显高
+于早餐后(P<0. 05)。
+因最近的研究[3] 认为住院患者的血糖控制在 10
+mmol / L 以下对病情控制更有利,因此我们观察受试者
+血糖≥10 mmol / L 的时间百分比 ( PT), NDM 组为
+13. 67% ±6. 81% ,DM1 组为 11. 01% ±4. 76% ,DM2 组
+为 39. 3% ±15. 8% ,即 1 d 中血糖超过 10 mmol / L 的时
+间累计达 9. 36 h,明显高于 DM1 组和 NDM 组(P <
+0. 01)。
+三、 糖尿病组应用激素后胰岛素剂量变化
+DM2 组 5 例原用口服药的患者静滴甲强龙后均
+因血糖控制差改用胰岛素皮下注射或泵入。 10 例原
+用胰岛素的患者应用甲强龙后第 2 天根据下载的 24 h
+CGMS 血糖曲线进行胰岛素剂量的调整,结果发现 10
+例患者胰岛素用量均比未用前增加。 用甲强龙前胰岛
+加约 52% ,仍不能使血糖达标,第 3 天继续增加胰岛
+素剂量约 22% ,监测患者空腹血糖≤8 mmol / L,餐后 2
+h 血糖≤10 mmol / L。 胰岛素基础量及三餐前大剂量
+均有增加,其中以午餐后、晚餐后大剂量增加最多。 早
+餐前剂量约占全天总量的 17% ,午餐前剂量约占全天
+总量的 26% ,晚餐前剂量约占全天总量的 28% 。 因
+CGMS 探头只能佩戴 3 天,所有患者静滴甲强龙 4 天
+后停药,滴甲强龙最后 1 天再次给予另一 CGMS 探头
+植入,观察停药后胰岛素用量及血糖变化。 停甲强龙
+第 2 天胰岛素总量减少了约 50% ,仍比用激素前高
+22% 。 停甲强龙第 3 天 (即 48h 后) 胰岛素总量为
+显差别(P>0. 05),胰岛素基础量及三餐前大剂量与应
+用激素前均无明显差别(P>0. 05)。
+讨    论
+糖皮质激素是经典的胰岛素反调节激素,其对糖
+代谢的干扰作用主要缘于它对胰岛素降糖效应的拮
+抗。 糖尿病患者应用糖皮质激素会加重胰岛素抵抗。
+总体而言,糖皮质激素导致机体发生糖代谢紊乱的机
+制有:(1)促进肝脏中的糖原异生。 糖皮质激素可激
+活肝细胞中糖异生的关键酶(如磷酸烯醇式丙酮酸羧
+基酶及葡萄糖-6-磷酸酶)而促进糖异生[4],使血糖水
+平升高,同时加速脂肪分解,增加甘油及游离脂肪酸的
+促进氨基酸、脂肪酸和甘油三酯的释放放,为糖异生提
+供底物[5,6]。 (2)拮抗胰岛素的生理作用:通过提高肝
+细胞对生长激素、肾上腺素、胰高血糖素等升糖激素的
+敏感性及其对升糖作用的“协同冶和“允许冶作用拮抗
+胰岛素的降糖作用[7]。 (3)抑制周围组织特别是肌肉
+组织对葡萄糖的摄取和利用[8]。 (4)糖皮质激素除了
+有诱导胰岛素抵抗的作用外,近年来的研究更进一步
+揭示了其对胰岛功能还很可能有损害作用。 大量的糖
+皮质激素可以抑制葡萄糖刺激后的胰岛素释放[9]。
+2 型糖尿病患者由于内源性皮质醇等升糖激素的
+作用高峰出现在上午,其血糖谱的特点是餐后高血糖
+以早餐最为明显,表现为早餐后血糖达峰最快,且峰值
+最高,波动幅度最大。 而糖皮质激素治疗后导致高血
+糖状态的患者血糖特点则有所不同。 已有两项小规模
+的研究报道指血监测无糖尿病史者应用强的松引起午
+餐后血糖最高,而晚餐后稍高[10,11],但对糖尿病患者
+应用激素后血糖波动特点及激素引起血糖升高如何控
+制、胰岛素用量如何调整未见有相关报道。
+甲强龙是中效糖皮质激素,其在体内生物半衰期
+是 18 ~ 36 h,作用最强时间是用药后 4 ~ 8 h。 本研究
+利用动态血糖监测发现 COPD 急性加重的非糖尿病患
+者接受甲强龙治疗后约有 80% 的患者血糖峰值≥
+11. 1 mmol / L。 应用甲强龙治疗引起的血糖升高主要
+在午餐后和晚餐后,尤以午餐后最为明显。 如果早晨
+8 : 00 静滴甲强龙,血糖大约 1. 5 h 后开始升高,血糖
+达峰时间约为 5 ~ 6 h 后,大约 21 : 00 ~ 22 : 00 血糖
+水平开始下降。 这与甲强龙在体内的代谢特点是一样
+的。 而在伴有糖尿病的患者中,甲强龙治疗后血糖峰
+值≥11. 1 mmol / L 的患者为 100% ,24 h 血糖平均水平
+约为(11. 58 ± 2. 97) mmol / L,比未接受甲强龙治疗者
+高 42% ,相较于非糖尿病患者血糖波动幅度更大。 与
+非糖尿病患者不同,糖尿病患者应用甲强龙后血糖水
+平依次为晚餐后>午餐后>早餐后,血糖达峰时间延迟
+至晚餐后约 1. 5 h(约 19 : 00),血糖水平呈阶梯式上
+升。 这可能是因为这部分患者胰岛 β 细胞功能减退
+较严重,导致餐后胰岛素分泌缺陷更严重。
+对 10 例应用胰岛素泵治疗的糖尿病患者的研究
+发现,应用甲强龙治疗后胰岛素剂量明显增加,较未用
+激素前增加了 74% 。 其中午餐、晚餐前应用胰岛素量
+最多,比早餐前高 53% ~67% 。 停用甲强龙后 24 h 内
+胰岛素剂量仍不能减至用激素之前水平。 提示 2 型糖
+尿病患者开始应用糖皮质激素的同时胰岛素剂量即应
+增加约 50% ,而不能等血糖水平已经升至顶峰时再增
+加,主要应增加午餐、晚餐前剂量。 使血糖水平控制良
+好至少应增加 74% 的胰岛素剂量。 最好应用胰岛素
+泵或四次胰岛素控制血糖,因空腹血糖水平升高不明
+显,胰岛素基础量用量较少。 如果应用预混胰岛素不
+可避免会出现加量过程中夜间低血糖。

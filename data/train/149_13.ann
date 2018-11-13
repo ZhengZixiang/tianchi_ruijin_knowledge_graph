@@ -1,0 +1,167 @@
+T1	Anatomy 91 95	成骨细胞
+T2	Anatomy 158 162	成骨细胞
+T3	Anatomy 193 197	成骨细胞
+T4	Anatomy 396 400	成骨细胞
+T5	Anatomy 648 649;650 653	成 骨细胞
+T6	Anatomy 685 689	成骨细胞
+T7	Anatomy 3024 3028	成骨细胞
+T8	Anatomy 3085 3089	成骨细胞
+T9	Anatomy 3148 3152	成骨细胞
+T10	Anatomy 3180 3184	成骨细胞
+T11	Anatomy 3230 3234	成骨细胞
+T12	Anatomy 3291 3295	成骨细胞
+T13	Anatomy 3353 3357	成骨细胞
+T14	Anatomy 3695 3699	成骨细胞
+T15	Anatomy 4029 4033	成骨细胞
+T16	Anatomy 4381 4385	成骨细胞
+T17	Anatomy 4425 4427;4428 4430	成骨 细胞
+T18	Anatomy 4449 4453	成骨细胞
+T19	Anatomy 4480 4484	成骨细胞
+T20	Anatomy 4502 4506	成骨细胞
+T21	Anatomy 4558 4559;4560 4563	成 骨细胞
+T22	Anatomy 4615 4619	成骨细胞
+T23	Anatomy 4669 4673	成骨细胞
+T24	Anatomy 4821 4825	成骨细胞
+T25	Anatomy 5552 5556	成骨细胞
+T26	Anatomy 5666 5670	成骨细胞
+T27	Anatomy 5752 5756	成骨细胞
+T28	Anatomy 5846 5850	成骨细胞
+T29	Anatomy 5892 5896	成骨细胞
+T30	Anatomy 5941 5945	成骨细胞
+T31	Anatomy 6118 6122	成骨细胞
+T32	Anatomy 6328 6332	成骨细胞
+T33	Anatomy 6421 6425	成骨细胞
+T34	Anatomy 6509 6513	成骨细胞
+T35	Anatomy 6569 6573	成骨细胞
+T36	Anatomy 6893 6897	成骨细胞
+T37	Anatomy 7040 7044	成骨细胞
+T38	Anatomy 7342 7346	成骨细胞
+T39	Anatomy 7363 7367	成骨细胞
+T40	Anatomy 7391 7395	成骨细胞
+T41	Anatomy 7465 7469	成骨细胞
+T42	Anatomy 7515 7519	成骨细胞
+T43	Anatomy 7609 7613	成骨细胞
+T44	Anatomy 7617 7621	成骨细胞
+T45	Anatomy 7661 7665	成骨细胞
+T46	Anatomy 7671 7672;7673 7676	成 骨细胞
+T47	Anatomy 7777 7781	成骨细胞
+T48	Anatomy 7883 7887	成骨细胞
+T49	Anatomy 7949 7953	成骨细胞
+T50	Anatomy 7991 7995	成骨细胞
+T51	Anatomy 8125 8129	成骨细胞
+T52	Anatomy 8169 8173	成骨细胞
+T53	Anatomy 8218 8222	成骨细胞
+T54	Anatomy 8259 8261;8262 8264	成骨 细胞
+T55	Anatomy 8269 8273	成骨细胞
+T56	Anatomy 7240 7246	白色脂肪组织
+T57	Anatomy 6454 6457;6458 6459	成骨细 胞
+T58	Anatomy 6626 6629;6630 6631	成骨细 胞
+T59	Anatomy 6701 6704;6705 6706	成骨细 胞
+T60	Anatomy 7929 7932;7933 7934	成骨细 胞
+T61	Disease 7004 7009	骨质疏松症
+T62	Disease 7136 7140	骨质疏松
+T63	Disease 8299 8307	糖尿病性骨质疏松
+T64	Disease 8319 8327	糖尿病性骨质疏松
+T65	Test 297 300	PCR
+T66	Test 1805 1808	PCR
+T67	Test 4858 4861	PCR
+T68	Test 5090 5093	PCR
+T69	Test 5140 5143	PCR
+T70	Test 5200 5203	PCR
+T71	Test 5288 5291	PCR
+T72	Anatomy 74 84	miR-335-5p
+T73	Anatomy 140 150	miR-335-5p
+T74	Anatomy 605 615	miR-335-5p
+T75	Anatomy 625 629	DKK1
+T76	Anatomy 2934 2944	miR-335-5p
+T77	Anatomy 3002 3012	miR-335-5p
+T78	Anatomy 3072 3076	DKK1
+T79	Anatomy 3100 3110	miR-335-5p
+T80	Anatomy 3236 3246	miR-335-5p
+T81	Anatomy 3261 3265	DKK1
+T82	Anatomy 3273 3283	miR-335-5p
+T83	Disease 3311 3313;3314 3318	糖尿 病性骨病
+T84	Anatomy 5824 5834	miR-335-5p
+T85	Anatomy 5928 5938	miR-335-5p
+T86	Anatomy 6399 6409	miR-335-5p
+T87	Anatomy 6496 6506	miR-335-5p
+T88	Disease 7000 7003	糖尿病
+T89	Disease 7020 7021;7022 7029	糖 尿病性骨质疏松
+T90	Disease 7125 7127	骨折
+T91	Anatomy 7142 7152	miR-335-5p
+T92	Anatomy 7155 7162	miR-335
+T93	Anatomy 7207 7208;7209 7212	胃 癌细胞
+T94	Anatomy 7220 7224	卵母细胞
+T95	Disease 7236 7238	肥胖
+T96	Disease 7269 7278	湿性老年性黄斑变性
+T97	Anatomy 7301 7311	miR-335-5p
+T98	Anatomy 7329 7333	DKK1
+T99	Anatomy 7407 7416	caspase-3
+T100	Anatomy 7499 7509	miR-335-5p
+T101	Anatomy 7524 7528	DKK1
+T102	Anatomy 7629 7633	DKK1
+T103	Anatomy 7705 7709	DKK1
+T104	Anatomy 7712 7722	miR-335-5p
+T105	Anatomy 7739 7749	miR-335-5p
+T106	Anatomy 7844 7854	miR-335-5p
+T107	Anatomy 7936 7946	miR-335-5p
+T108	Anatomy 8085 8095	miR-335-5p
+T109	Anatomy 8174 8184	miR-335-5p
+T110	Anatomy 8237 8247	miR-335-5p
+T111	Anatomy 8280 8290	miR-335-5p
+T112	Anatomy 306 316	miR-335-5p
+T113	Anatomy 319 323	DKK1
+T114	Anatomy 346 350	DKK1
+T115	Anatomy 353 362	caspase-3
+T116	Anatomy 2844 2849	miRNA
+T117	Anatomy 2737 2743	微小 RNA
+T118	Anatomy 2754 2759	miRNA
+T119	Anatomy 2965 2966;2967 2970	肿 瘤细胞
+T120	Anatomy 3162 3172	miR-335-5p
+T121	Anatomy 6898 6902	DKK1
+T122	Anatomy 6905 6914	caspase-3
+T123	Anatomy 7641 7643;7644 7651	β- catenin
+T124	Anatomy 7821 7826	miRNA
+T125	Anatomy 503 513	mir-335-5p
+T126	Anatomy 2949 2956	7q32. 2
+T127	Anatomy 5730 5740	mir-335-5p
+T128	Anatomy 6680 6690	mir-335-5p
+T129	Anatomy 7602 7608	间充质干细胞
+T130	Anatomy 7903 7913	mir-335-5p
+T131	Anatomy 7969 7979	mir-335-5p
+T132	Test 4542 4545	PCR
+T133	Anatomy 7091 7095	成骨细胞
+T134	Anatomy 401 411	miR-335-5p
+T135	Anatomy 440 444	DKK1
+T136	Anatomy 445 454	caspase-3
+T137	Anatomy 516 526	miR-335-5p
+T138	Anatomy 554 558	DKK1
+T139	Anatomy 559 568	caspase-3
+T140	Anatomy 4508 4518	miR-335-5p
+T141	Anatomy 4521 4525	DKK1
+T142	Anatomy 4564 4574	miR-335-5p
+T143	Anatomy 4577 4581	DKK1
+T144	Anatomy 4620 4624	DKK1
+T145	Anatomy 4627 4636	caspase-3
+T146	Anatomy 4675 4679	DKK1
+T147	Anatomy 4682 4691	caspase-3
+T148	Anatomy 4826 4836	miR-335-5p
+T149	Anatomy 4839 4843	DKK1
+T150	Anatomy 5671 5681	miR-335-5p
+T151	Anatomy 5757 5767	miR-335-5p
+T152	Anatomy 5786 5790	DKK1
+T153	Anatomy 6574 6578	DKK1
+T154	Anatomy 6581 6590	caspase-3
+T155	Anatomy 6632 6636	DKK1
+T156	Anatomy 6639 6648	caspase-3
+T157	Anatomy 6707 6711	DKK1
+T158	Anatomy 6714 6723	caspase-3
+T159	Anatomy 7470 7480	miR-335-5p
+T160	Anatomy 7783 7787	DKK1
+T161	Anatomy 7798 7802	DKK1
+T162	Anatomy 7862 7866	DKK1
+T163	Anatomy 7996 8006	miR-335-5p
+T164	Anatomy 8052 8061	caspase-3
+T165	Anatomy 8064 8068	DKK1
+T166	Anatomy 8102 8106	DKK1
+T167	Anatomy 8194 8198	DKK1

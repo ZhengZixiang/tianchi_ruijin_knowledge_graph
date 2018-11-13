@@ -1,0 +1,457 @@
+T1	Anatomy 51 55	脂肪细胞
+T2	Anatomy 61 65	脂肪组织
+T3	Anatomy 83 87	脂肪细胞
+T4	Anatomy 89 95	白色脂肪细胞
+T5	Anatomy 96 102	棕色脂肪细胞
+T6	Anatomy 103 109	米色脂肪细胞
+T7	Anatomy 145 150	神经内分泌
+T8	Anatomy 156 160	转录因子
+T9	Anatomy 168 172	白色脂肪
+T10	Anatomy 179 181	脂肪
+T11	Disease 202 204	肥胖
+T12	Reason 205 213	脂肪组织慢性炎症
+T13	Disease 218 221;222 223	血管异 常
+T14	Disease 226 232	脂肪扩充障碍
+T15	Anatomy 235 239	脂肪细胞
+T16	Anatomy 248 252	脂肪组织
+T17	Anatomy 266 268;269 271	脂肪 组织
+T18	Disease 275 277	肥胖
+T19	Disease 279 281	肥胖
+T20	Disease 284 288	代谢紊乱
+T21	Disease 293 295	肥胖
+T22	Anatomy 327 331	白色脂肪
+T23	Disease 1612 1614	肥胖
+T24	Disease 1622 1624	肥胖
+T25	Disease 1633 1635	肥胖
+T26	Disease 1641 1643	肥胖
+T27	Disease 1649 1655	2 型糖尿病
+T28	Disease 1656 1660	心血管病
+T29	Disease 1661 1663	肿瘤
+T30	Anatomy 1671 1673	脂肪
+T31	Anatomy 1689 1693	脂肪组织
+T32	Disease 1699 1701	肥胖
+T33	Anatomy 1721 1723;1724 1726	脂肪 细胞
+T34	Anatomy 1730 1734	脂肪组织
+T35	Anatomy 1761 1765	脂肪组织
+T36	Disease 1766 1768	肥胖
+T37	Anatomy 1779 1783	脂肪细胞
+T38	Anatomy 1790 1794	脂肪细胞
+T39	Anatomy 1796 1800	白色脂肪
+T40	Anatomy 1801 1805	棕色脂肪
+T41	Anatomy 1806 1810	米色脂肪
+T42	Anatomy 1827 1831	白色脂肪
+T43	Anatomy 1832 1836	躯体脂肪
+T44	Anatomy 1861 1865	棕色脂肪
+T45	Anatomy 1881 1883	肾周
+T46	Anatomy 1924 1928	UCP1
+T47	Anatomy 1949 1955	白色脂肪组织
+T48	Test 1997 1999	瘦素
+T49	Test 2000 2001;2002 2004	脂 联素
+T50	Test 2005 2009	炎性因子
+T51	Anatomy 2014 2018	棕色脂肪
+T52	Test 2032 2034	体温
+T53	Disease 2040 2042	肥胖
+T54	Anatomy 2060 2065	β3 受体
+T55	Anatomy 2069 2073	白色脂肪
+T56	Anatomy 2077 2086	UCP1 阳性细胞
+T57	Anatomy 2094 2100	棕色脂肪细胞
+T58	Test 2134 2142	细胞谱系示踪技术
+T59	Anatomy 2144 2149;2150 2153	白色脂肪细 胞前体
+T60	Anatomy 2172 2178	棕色脂肪细胞
+T61	Anatomy 2187 2195	MYF5+细胞系
+T62	Anatomy 2197 2203	白色脂肪细胞
+T63	Anatomy 2206 2210	内皮细胞
+T64	Anatomy 2218 2224	棕色脂肪细胞
+T65	Anatomy 2229 2235	内皮细胞前体
+T66	Anatomy 2236 2240;2241 2244	骨骼肌卫 星细胞
+T67	Anatomy 2246 2250	米色脂肪
+T68	Anatomy 2253 2259	白色脂肪细胞
+T69	Anatomy 2262 2268;2269 2271	成熟白色脂肪 细胞
+T70	Anatomy 2279 2283	脂肪细胞
+T71	Anatomy 2298 2302	UCP1
+T72	Anatomy 2309 2313	白色脂肪
+T73	Anatomy 2314 2320	棕色脂肪细胞
+T74	Anatomy 2321 2327	米色脂肪细胞
+T75	Anatomy 2340 2344	白色脂肪
+T76	Anatomy 2351 2356	Tcf21
+T77	Anatomy 2358 2365	肩胛部棕色脂肪
+T78	Anatomy 2387 2393	米色脂肪细胞
+T79	Anatomy 2394 2400;2401 2402	肩胛部棕色脂 肪
+T80	Anatomy 2413 2417	Tbx1
+T81	Anatomy 2444 2451	肩胛部棕色脂肪
+T82	Anatomy 2461 2465	米色脂肪
+T83	Anatomy 2484 2488	米色脂肪
+T84	Anatomy 2521 2525	米色脂肪
+T85	Anatomy 2526 2530	棕色脂肪
+T86	Anatomy 2535 2544	肩胛部棕色脂肪细胞
+T87	Anatomy 2557 2561	肾周脂肪
+T88	Anatomy 2574 2579;2580 2581	棕色脂肪细 胞
+T89	Anatomy 2586 2590	Tbx1
+T90	Anatomy 2612 2616	脂肪组织
+T91	Anatomy 2619 2623	米色脂肪
+T92	Anatomy 2631 2639	皮下白色脂肪组织
+T93	Anatomy 2644 2647;2648 2650	锁骨上 脂肪
+T94	Anatomy 2652 2656	Tbx1
+T95	Anatomy 2658 2662	肾周脂肪
+T96	Anatomy 2663 2667	米色脂肪
+T97	Anatomy 2685 2692	肩胛部棕色脂肪
+T98	Anatomy 2706 2712	肾周米色脂肪
+T99	Anatomy 2714 2715;2716 2722	肩 胛部棕色脂肪
+T100	Anatomy 2746 2750	Tbx1
+T101	Anatomy 2751 2756	Hoxc9
+T102	Anatomy 2765 2769	棕色脂肪
+T103	Anatomy 2770 2774	米色脂肪
+T104	Anatomy 2779 2783	白色脂肪
+T105	Anatomy 2809 2814	神经内分泌
+T106	Reason 2815 2819	先天免疫
+T107	Anatomy 2831 2835	白色脂肪
+T108	Disease 2865 2867	肥胖
+T109	Disease 2877 2878;2879 2880	肥 胖
+T110	Anatomy 2910 2914	交感神经
+T111	Anatomy 2916 2918;2919 2923	M2 巨噬细胞
+T112	Anatomy 2925 2929	儿茶酚胺
+T113	Anatomy 2933 2939	棕色脂肪细胞
+T114	Anatomy 2940 2946;2947 2948	肾上腺素能受 体
+T115	Anatomy 2964 2970	棕色脂肪细胞
+T116	Anatomy 2979 2983	棕色脂肪
+T117	Anatomy 3036 3041;3042 3043	米色脂肪细 胞
+T118	Anatomy 3057 3063	米色脂肪细胞
+T119	Anatomy 3070 3074	UCP1
+T120	Anatomy 3092 3096	脂肪细胞
+T121	Anatomy 3111 3117	米色脂肪细胞
+T122	Anatomy 3126 3130	脂肪细胞
+T123	Anatomy 3140 3144	脂肪细胞
+T124	Anatomy 3155 3159	UCP1
+T125	Anatomy 3165 3169	白色脂肪
+T126	Anatomy 3198 3202	皮下脂肪
+T127	Anatomy 3232 3236	棕色脂肪
+T128	Anatomy 3249 3253	交感神经
+T129	Anatomy 3257 3261	儿茶酚胺
+T130	Test 3262 3267;3268 3270	心脏释放利 钠肽
+T131	Anatomy 3272 3275	骨骼肌
+T132	Test 3283 3289	Irisin
+T133	Anatomy 3291 3300;3301 3303	成纤维细胞生长因子 21
+T134	Anatomy 3332 3337	FGF21
+T135	Test 3339 3346	白细胞介素 6
+T136	Anatomy 3348 3352	IL-6
+T137	Anatomy 3370 3376	棕色脂肪细胞
+T138	Anatomy 3384 3390	白色脂肪细胞
+T139	Disease 3408 3410	癌症
+T140	Level 3411 3413	严重
+T141	Disease 3413 3415	烧伤
+T142	Disease 3465 3468	胰腺癌
+T143	Disease 3469 3471	肺癌
+T144	Anatomy 3488 3492	米色脂肪
+T145	Level 3504 3506	严重
+T146	Disease 3506 3508	烧伤
+T147	Test 3516 3520	儿茶酚胺
+T148	Anatomy 3531 3542	皮下脂肪中米色脂肪细胞
+T149	Anatomy 3556 3562	米色脂肪细胞
+T150	Anatomy 3587 3591	交感神经
+T151	Anatomy 3594 3598	交感神经
+T152	Anatomy 3599 3601	脂肪
+T153	Anatomy 3614 3618	交感神经
+T154	Anatomy 3636 3640;3641 3645	脂肪组织 交感神经
+T155	Test 3650 3656	去甲肾上腺素
+T156	Anatomy 3680 3685	β3 受体
+T157	Anatomy 3687 3692	环磷酸腺苷
+T158	Anatomy 3693 3697	cAMP
+T159	Anatomy 3701 3712	cAMP-蛋白激酶 A
+T160	Anatomy 3727 3734	激素敏感脂肪酶
+T161	Test 3765 3771	三酰甘油脂酶
+T162	Test 3781 3785	三酰甘油
+T163	Test 3788 3793	游离脂肪酸
+T164	Anatomy 3801 3802;3803 3804	脂 肪
+T165	Anatomy 3812 3816	棕色脂肪
+T166	Anatomy 3817 3821	米色脂肪
+T167	Anatomy 3848 3852	UCP1
+T168	Anatomy 3878 3883	β3 受体
+T169	Anatomy 3885 3901	cAMP-PKA-p38MAPK
+T170	Anatomy 3907 3911	UCP1
+T171	Anatomy 3916 3924	cAMP-PKA
+T172	Test 3934 3937	FFA
+T173	Test 3938 3941	FFA
+T174	Anatomy 3955 3959	UCP1
+T175	Anatomy 4043 4045	脂肪
+T176	Anatomy 4063 4065	P1
+T177	Anatomy 4068 4074	P2Y 受体
+T178	Test 4078 4082	cAMP
+T179	Anatomy 4094 4097	P2X
+T180	Anatomy 4100 4102	脂肪
+T181	Anatomy 4118 4122	UCP1
+T182	Test 4130 4136	去甲肾上腺素
+T183	Test 4178 4181	FFA
+T184	Anatomy 4249 4253	交感神经
+T185	Anatomy 4254 4258	脂肪细胞
+T186	Drug 4271 4279	β3 受体激动剂
+T187	Anatomy 4293 4297	白色脂肪
+T188	Anatomy 4325 4330	β3 受体
+T189	Anatomy 4376 4380	交感神经
+T190	Anatomy 4387 4390	神经肽
+T191	Anatomy 4425 4429	脂肪细胞
+T192	Anatomy 4457 4464	Y2 受体基因
+T193	Disease 4476 4477;4478 4479	肥 胖
+T194	Disease 4517 4521	腹型肥胖
+T195	Disease 4522 4526	代谢紊乱
+T196	Test 4567 4569	体重
+T197	Disease 4570 4574	脂肪沉积
+T198	Disease 4586 4591	遗传性肥胖
+T199	Anatomy 4614 4621	腺苷受体 P1
+T200	Test 4632 4635	A2A
+T201	Disease 4645 4647	肥胖
+T202	Anatomy 4668 4674	白色脂肪细胞
+T203	Anatomy 4681 4687	棕色脂肪细胞
+T204	Disease 4701 4703	肥胖
+T205	Disease 4705 4709	代谢紊乱
+T206	Drug 4722 4731	A2B 受体激动剂
+T207	Anatomy 4734 4738	脂肪细胞
+T208	Test 4760 4763	A2A
+T209	Anatomy 4766 4772	A2B 受体
+T210	Anatomy 4788 4794	A2A 受体
+T211	Anatomy 4797 4803	棕色脂肪细胞
+T212	Anatomy 4811 4817	A2A 受体
+T213	Anatomy 4841 4845	白色脂肪
+T214	Anatomy 4870 4876	P2Y 受体
+T215	Anatomy 4880 4886	白色脂肪细胞
+T216	Test 4888 4892	cAMP
+T217	Anatomy 4898 4900	脂肪
+T218	Anatomy 4907 4913	P2X 受体
+T219	Anatomy 4917 4919	脂肪
+T220	Anatomy 4930 4934	免疫细胞
+T221	Anatomy 4940 4944	免疫细胞
+T222	Anatomy 4955 4959	脂肪组织
+T223	Anatomy 4974 4978	淋巴细胞
+T224	Disease 5020 5022	肥胖
+T225	Disease 5024 5026	肥胖
+T226	Anatomy 5033 5035;5036 5038	白色 脂肪
+T227	Anatomy 5054 5059	IL-33
+T228	Anatomy 5064 5070	白色脂肪组织
+T229	Anatomy 5091 5096	ILC2s
+T230	Anatomy 5100 5104	白色脂肪
+T231	Anatomy 5127 5133	蛋氨酸脑啡肽
+T232	Anatomy 5138 5142	UCP1
+T233	Anatomy 5148 5152	脂肪组织
+T234	Anatomy 5157 5161	巨噬细胞
+T235	Anatomy 5164 5168	儿茶酚胺
+T236	Anatomy 5171 5173;5174 5176	棕色 脂肪
+T237	Anatomy 5181 5187	米色脂肪细胞
+T238	Anatomy 5208 5211;5212 5213	米色脂 肪
+T239	Anatomy 5227 5231	巨噬细胞
+T240	Anatomy 5232 5238	嗜酸性粒细胞
+T241	Test 5248 5252	IL-4
+T242	Anatomy 5262 5268	嗜酸性粒细胞
+T243	Anatomy 5286 5290	巨噬细胞
+T244	Anatomy 5297 5303	嗜酸性粒细胞
+T245	Test 5305 5309	IL-4
+T246	Anatomy 5336 5340	巨噬细胞
+T247	Anatomy 5342 5345;5346 5347	儿茶酚 胺
+T248	Anatomy 5356 5362	米色脂肪细胞
+T249	Test 5369 5373	儿茶酚胺
+T250	Anatomy 5382 5388	米色脂肪细胞
+T251	Anatomy 5455 5459	棕色脂肪
+T252	Anatomy 5464 5468	白色脂肪
+T253	Anatomy 5470 5476	PRDM16
+T254	Anatomy 5488 5493	PPARγ
+T255	Anatomy 5495 5503;5504 5519	过氧化物酶体增殖 活化受体 γ 共激活因子-1α
+T256	Anatomy 5529 5535	PRDM16
+T257	Anatomy 5538 5542;5543 5545	棕色脂肪 细胞
+T258	Anatomy 5560 5566	PRDM16
+T259	Anatomy 5569 5573	棕色脂肪
+T260	Anatomy 5584 5588	β 受体
+T261	Anatomy 5591 5595	白色脂肪
+T262	Anatomy 5606 5612	白色脂肪细胞
+T263	Anatomy 5623 5628	PPARγ
+T264	Anatomy 5633 5639	PRDM16
+T265	Anatomy 5642 5646	脂肪细胞
+T266	Anatomy 5649 5653	棕色脂肪
+T267	Anatomy 5661 5667	棕色脂肪细胞
+T268	Anatomy 5678 5683	PPARγ
+T269	Anatomy 5691 5697	棕色脂肪细胞
+T270	Anatomy 5754 5760	棕色脂肪细胞
+T271	Anatomy 5766 5772	PGC-1α
+T272	Anatomy 5774 5778	儿茶酚胺
+T273	Anatomy 5780 5785;5786 5787	棕色脂肪细 胞
+T274	Anatomy 5796 5802	β 肾上腺素
+T275	Anatomy 5824 5830	PGC-1α
+T276	Anatomy 5835 5839	UCP1
+T277	Anatomy 5862 5868	白色脂肪组织
+T278	Anatomy 5880 5884	脂肪细胞
+T279	Anatomy 5924 5928	白色脂肪
+T280	Test 5942 5947;5948 5950	骨形态发生 蛋白
+T281	Anatomy 5951 5956	FGF21
+T282	Test 5957 5960	利钠肽
+T283	Test 5961 5965	前列腺素
+T284	Test 5966 5971	甲状腺激素
+T285	Anatomy 5972 5979;5980 5981	血管内皮生长因 子
+T286	Test 5987 5993	Irisin
+T287	Anatomy 6020 6026	米色脂肪细胞
+T288	Disease 6036 6038	肥胖
+T289	Anatomy 6055 6063	转化生长因子 β
+T290	Disease 6065 6067	肥胖
+T291	Anatomy 6077 6081	脂肪细胞
+T292	Anatomy 6094 6100	米色脂肪细胞
+T293	Anatomy 6120 6124	脂肪细胞
+T294	Anatomy 6153 6157	脂肪细胞
+T295	Anatomy 6167 6171	脂肪细胞
+T296	Anatomy 6189 6193	UCP1
+T297	Anatomy 6199 6203	白色脂肪
+T298	Anatomy 6211 6213;6214 6216	脂肪 细胞
+T299	Anatomy 6232 6236	棕色脂肪
+T300	Anatomy 6250 6254	脂肪组织
+T301	Reason 6272 6286	内脏脂肪沉积与增加的代谢异常
+T302	Disease 6287 6292	心血管疾病
+T303	Disease 6303 6305	肥胖
+T304	Anatomy 6309 6315	皮下脂肪组织
+T305	Anatomy 6318 6321	胰岛素
+T306	Anatomy 6335 6343	皮下白色脂肪组织
+T307	Anatomy 6344 6350	内脏白色脂肪
+T308	Anatomy 6377 6381	皮下脂肪
+T309	Anatomy 6414 6418	皮下脂肪
+T310	Reason 6442 6449;6450 6452	内脏脂肪的炎症 反应
+T311	Disease 6453 6457	代谢障碍
+T312	Anatomy 6462 6468	皮下脂肪细胞
+T313	Anatomy 6470 6474	内脏脂肪
+T314	Anatomy 6485 6490	Shox2
+T315	Anatomy 6494 6500	白色脂肪细胞
+T316	Anatomy 6502 6504	脂肪
+T317	Anatomy 6521 6525	脂肪组织
+T318	Anatomy 6537 6541	脂肪细胞
+T319	Anatomy 6557 6561	脂肪组织
+T320	Anatomy 6568 6572	白色脂肪
+T321	Test 6580 6583	FFA
+T322	Anatomy 6594 6596;6597 6599	脂肪 细胞
+T323	Anatomy 6602 6606	脂肪细胞
+T324	Disease 6609 6611	肥胖
+T325	Anatomy 6612 6616	脂肪组织
+T326	Test 6650 6653	FFA
+T327	Anatomy 6663 6665	肝脏
+T328	Anatomy 6678 6682	脂肪细胞
+T329	Disease 6702 6706	代谢异常
+T330	Disease 6722 6724	肥胖
+T331	Reason 6727 6732	胰岛素抵抗
+T332	Disease 6733 6736	脂肪肝
+T333	Disease 6781 6786	内质网应激
+T334	Anatomy 6793 6797	脂肪组织
+T335	Anatomy 6804 6808	脂肪细胞
+T336	Reason 6821 6823	低氧
+T337	Anatomy 6824 6825;6826 6829	脂 肪细胞
+T338	Anatomy 6864 6868	脂肪细胞
+T339	Anatomy 6871 6875	脂肪细胞
+T340	Disease 6900 6902	肥胖
+T341	Test 6906 6909	脂联素
+T342	Anatomy 6912 6916	脂肪细胞
+T343	Disease 6936 6938	肥胖
+T344	Disease 6947 6948;6949 6950	肥 胖
+T345	Anatomy 6960 6964	脂肪组织
+T346	Disease 6975 6976;6977 6980	代 谢异常
+T347	Disease 6982 6984	肥胖
+T348	Anatomy 6995 6997	肝脏
+T349	Anatomy 6998 7000	肌肉
+T350	Anatomy 7001 7003	脂肪
+T351	Anatomy 7026 7030	脂肪细胞
+T352	Anatomy 7046 7050	脂肪细胞
+T353	Anatomy 7071 7075	脂肪细胞
+T354	Anatomy 7080 7084	脂肪细胞
+T355	Anatomy 7103 7107	脂肪组织
+T356	Anatomy 7146 7150	脂肪组织
+T357	Disease 7150 7154	慢性炎症
+T358	Anatomy 7168 7172	脂肪组织
+T359	Anatomy 7174 7178	免疫细胞
+T360	Anatomy 7183 7187	巨噬细胞
+T361	Anatomy 7195 7199	巨噬细胞
+T362	Anatomy 7204 7208	脂肪组织
+T363	Anatomy 7213 7217	巨噬细胞
+T364	Disease 7245 7247	肥胖
+T365	Reason 7252 7258	长期营养过剩
+T366	Anatomy 7260 7264	脂肪细胞
+T367	Anatomy 7275 7280	M2 细胞
+T368	Anatomy 7287 7291	脂肪细胞
+T369	Anatomy 7306 7311	M1 细胞
+T370	Anatomy 7331 7333;7334 7336	脂肪 细胞
+T371	Reason 7343 7347	慢性炎症
+T372	Reason 7368 7371;7372 7377	脂肪局 部急性炎症
+T373	Anatomy 7385 7389	白色脂肪
+T374	Anatomy 7411 7413	脂肪
+T375	Anatomy 7441 7445	脂肪组织
+T376	Anatomy 7466 7470	脂肪细胞
+T377	Anatomy 7475 7479;7480 7481	细胞外基 质
+T378	Anatomy 7482 7485	ECM
+T379	Anatomy 7510 7513	ECM
+T380	Anatomy 7517 7521	脂肪组织
+T381	Disease 7529 7531	肥胖
+T382	Reason 7538 7539;7540 7541	低 氧
+T383	Anatomy 7557 7560	ECM
+T384	Anatomy 7566 7569;7570 7571	脂肪组 织
+T385	Anatomy 7591 7597	白色脂肪组织
+T386	Anatomy 7604 7610	HIF-1α
+T387	Anatomy 7617 7621	脂肪组织
+T388	Anatomy 7632 7635	ECM
+T389	Anatomy 7656 7662	HIF-1α
+T390	Anatomy 7676 7680	脂肪组织
+T391	Drug 7699 7709	HIF-1α 抑制剂
+T392	Anatomy 7717 7721	脂肪组织
+T393	Disease 7760 7762	肿瘤
+T394	Anatomy 7779 7781	血管
+T395	Anatomy 7802 7806	白色脂肪
+T396	Disease 7811 7813	肥胖
+T397	Disease 7834 7836	肥胖
+T398	Disease 7844 7846	肥胖
+T399	Anatomy 7850 7853;7854 7859	脂肪组 织毛细血管
+T400	Anatomy 7878 7881;7882 7883	脂肪组 织
+T401	Anatomy 7890 7894	棕色脂肪
+T402	Test 7895 7899	血管密度
+T403	Anatomy 7923 7927	棕色脂肪
+T404	Disease 7952 7956	脂肪产热
+T405	Symptom 7968 7973	脂肪中低氧
+T406	Disease 8003 8005	肥胖
+T407	Anatomy 8012 8014	血管
+T408	Disease 8017 8019	肥胖
+T409	Disease 8031 8033	肥胖
+T410	Anatomy 8037 8039	血管
+T411	Anatomy 8053 8057	脂肪细胞
+T412	Anatomy 8145 8149	脂肪组织
+T413	Disease 8200 8202	肥胖
+T414	Disease 8214 8216	肥胖
+T415	Drug 8241 8249	β3 受体激动剂
+T416	Disease 8254 8256	肥胖
+T417	Anatomy 8261 8265	脂肪细胞
+T418	Anatomy 8268 8273	β3 受体
+T419	Drug 8287 8295	β3 受体激动剂
+T420	Anatomy 8296 8298;8299 8302	心血 管系统
+T421	Drug 8319 8328	PPARγ 激动剂
+T422	Drug 8328 8330;8331 8337	噻唑 烷二酮类药物
+T423	Anatomy 8341 8347	PRDM16
+T424	Anatomy 8357 8362	PPARγ
+T425	Anatomy 8365 8371	PRDM16
+T426	Drug 8393 8399	噻唑烷二酮类
+T427	Disease 8402 8405	糖尿病
+T428	Test 8410 8412	体重
+T429	Test 8417 8419	体重
+T430	Disease 8461 8463	肥胖
+T431	Disease 8465 8468	高血压
+T432	Disease 8469 8474	心血管疾病
+T433	Disease 8491 8495	心肌梗死
+T434	Disease 8497 8503	2 型糖尿病
+T435	Disease 8504 8506	肥胖
+T436	Anatomy 8529 8533	脂肪组织
+T437	Test 8594 8600	Irisin
+T438	Anatomy 8601 8606	FGF21
+T439	Test 8607 8610	利钠肽
+T440	Disease 8626 8628	肥胖
+T441	Test 8634 8640	Irisin
+T442	Anatomy 8644 8647	骨骼肌
+T443	Test 8675 8681	Irisin
+T444	Anatomy 8689 8693	米色脂肪
+T445	Disease 8702 8704	肥胖
+T446	Disease 8725 8727	肥胖
+T447	Anatomy 8740 8744	脂肪细胞
+T448	Anatomy 8754 8758;8759 8761	米色脂肪 细胞
+T449	Anatomy 8798 8800	脂肪
+T450	Anatomy 8806 8808	脂肪
+T451	Anatomy 8827 8831	脂肪细胞
+T452	Anatomy 8855 8859	脂肪组织
+T453	Disease 8865 8867	肥胖
+T454	Anatomy 8897 8901	脂肪组织
+T455	Anatomy 8913 8915	血管
+T456	Disease 8923 8925	肥胖
+T457	Disease 8928 8929;8930 8933	代 谢异常

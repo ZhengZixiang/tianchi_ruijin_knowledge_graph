@@ -1,0 +1,360 @@
+T1	Disease 43 46	糖尿病
+T2	Disease 53 56	糖尿病
+T3	Test 321 324	骨密度
+T4	Test 339 345	RT-PCR
+T5	Test 872 875	骨密度
+T6	Test 883 886	护骨素
+T7	Disease 2960 2964	骨质疏松
+T8	Symptom 2968 2971	低骨量
+T9	Symptom 2972 2981	骨组织微细结构破坏
+T10	Symptom 2988 2993	骨脆性增加
+T11	Symptom 2996 2998	骨折
+T12	Disease 3001 3005;3006 3009	全身性骨 骼疾病
+T13	Disease 3014 3018	骨质疏松
+T14	Disease 3064 3068	骨质疏松
+T15	Anatomy 3089 3093	破骨细胞
+T16	Anatomy 3101 3105	成骨细胞
+T17	Reason 3140 3146	甲状旁腺激素
+T18	Reason 3150 3155	钙平衡失调
+T19	Disease 3173 3176	骨重塑
+T20	Reason 3186 3187;3188 3196	雌 激素信号通路受阻
+T21	Disease 152 155	骨重塑
+T22	Disease 242 245	骨重塑
+T23	Disease 803 806	骨重塑
+T24	Disease 845 848	骨重塑
+T25	Anatomy 3283 3286	骨组织
+T26	Disease 3504 3507	骨重塑
+T27	Disease 3585 3588	骨重塑
+T28	Disease 3664 3667	骨重塑
+T29	Disease 3700 3703	骨重塑
+T30	Test 4043 4058	双能 X 射线吸收法骨密度检测
+T31	Drug 4167 4171	戊巴比妥
+T32	Amount 4171 4181	(1ml / kg)
+T33	Anatomy 4252 4256	右侧股骨
+T34	Anatomy 4328 4330	股骨
+T35	Anatomy 4365 4367	股骨
+T36	Test 4963 4968	全身骨密度
+T37	Test 5010 5013	骨密度
+T38	Test 5049 5052	骨密度
+T39	Test 5539 5542	护骨素
+T40	Test 7439 7446	双能 X 射线
+T41	Disease 7735 7738	骨重塑
+T42	Anatomy 7794 7796	心脏
+T43	Anatomy 7798 7800	肝脏
+T44	Anatomy 7801 7803	胰腺
+T45	Anatomy 7804 7805	骨
+T46	Disease 7908 7911	骨重塑
+T47	Test 7921 7924	骨密度
+T48	Disease 8087 8088;8089 8092	骨 质疏松
+T49	Disease 8154 8159	骨质疏松症
+T50	Anatomy 8128 8132	破骨细胞
+T51	Anatomy 8230 8234	破骨细胞
+T52	Anatomy 8338 8342	破骨细胞
+T53	Test 8361 8364	骨密度
+T54	Anatomy 8402 8406	成骨细胞
+T55	Anatomy 8412 8416	成骨细胞
+T56	Anatomy 8451 8455	破骨细胞
+T57	Anatomy 8461 8465	破骨细胞
+T58	Test 8667 8673	RT-PCR
+T59	Test 8746 8752	RT-PCR
+T60	Test 8818 8821	护骨素
+T61	Test 8888 8891	护骨素
+T62	Test 8919 8922	护骨素
+T63	Anatomy 9471 9475	成骨细胞
+T64	Anatomy 9477 9481	破骨细胞
+T65	Anatomy 9482 9485	骨细胞
+T66	Anatomy 9489 9493	软骨细胞
+T67	Reason 9740 9752;9753 9755	β-arrestin 2 缺失
+T68	Disease 9873 9876	骨重塑
+T69	Disease 9917 9920	骨重塑
+T70	Drug 9930 9933	雌激素
+T71	Disease 9935 9940	骨质疏松症
+T72	Disease 9948 9951;9952 9954	骨质疏 松症
+T73	Test 4700 4703	ABI
+T74	Test 2521 2526	RANKL
+T75	Test 5342 5347	RANKL
+T76	Test 5559 5564	RANKL
+T77	Test 6988 6993	RANKL
+T78	Test 7191 7196	RANKL
+T79	Test 8506 8511	RANKL
+T80	Test 8892 8897	RANKL
+T81	Test 8923 8928	RANKL
+T82	Anatomy 8268 8272	破骨细胞
+T83	Anatomy 8324 8325;8326 8329	破 骨细胞
+T84	Test 3550 3552;3553 3554	骨密 度
+T85	Test 3812 3815	PCR
+T86	Test 4727 4730	PCR
+T87	Test 4747 4750	PCR
+T88	Test 4801 4804	PCR
+T89	Anatomy 9656 9668	β-arrestin 2
+T90	Anatomy 9256 9264;9265 9267	G 蛋白耦联受体 30
+T91	Anatomy 9205 9220	β-arrestin 2 基因
+T92	Anatomy 4117 4129	β-arrestin 2
+T93	Anatomy 3276 3281	雌激素受体
+T94	Anatomy 3307 3312	GPER1
+T95	Anatomy 3337 3349	β-Arrestin 2
+T96	Anatomy 3372 3378;3379 3381	G 蛋白耦联 受体
+T97	Anatomy 3212 3215;3216 3224	G 蛋 白耦联雌激素受体
+T98	Anatomy 132 144	β-Arrestin 2
+T99	Anatomy 156 159	骨组织
+T100	Anatomy 224 236	β-arrestin 2
+T101	Anatomy 361 374	G 蛋白耦联雌激素受体 1
+T102	Anatomy 728 741	G 蛋白耦联雌激素受体 1
+T103	Anatomy 783 795	β-Arrestin 2
+T104	Anatomy 3489 3501	β-arrestin 2
+T105	Anatomy 3562 3574	β-Arrestin 2
+T106	Anatomy 3577 3582	GPER1
+T107	Anatomy 3623 3635	β-arrestin 2
+T108	Anatomy 3645 3657	β-arrestin 2
+T109	Anatomy 3678 3690	β-arrestin 2
+T110	Anatomy 3693 3698	GPER1
+T111	Anatomy 3769 3781	β-arrestin 2
+T112	Anatomy 3836 3848	β-Arrestin 2
+T113	Anatomy 6775 6787	β-arrestin 2
+T114	Anatomy 6834 6846	β-Arrestin 2
+T115	Anatomy 6877 6889	β-arrestin 2
+T116	Anatomy 7020 7032	β-arrestin 2
+T117	Anatomy 7496 7508	β-arrestin 2
+T118	Anatomy 7458 7470	β-arrestin 2
+T119	Anatomy 8069 8081	β-arrestin 2
+T120	Anatomy 8566 8578	β-arrestin 2
+T121	Test 4219 4221	CT
+T122	Operation 4239 4244	过量麻醉法
+T123	Test 4311 4313	CT
+T124	Disease 5138 5141	骨重塑
+T125	Test 5688 5699	甘油醛-3-磷酸脱氢酶
+T126	Test 6135 6137	CT
+T127	Test 6743 6745	CT
+T128	Test 720 725	RANKL
+T129	Anatomy 9693 9696	骨组织
+T130	Anatomy 9273 9278	雌激素受体
+T131	Anatomy 8583 8586	骨组织
+T132	Anatomy 7198 7203	NF-κB
+T133	Anatomy 7204 7212	受体活化因子配体
+T134	Anatomy 7265 7280	G 蛋白耦联雌激素受体 1 G
+T135	Test 6651 6660	股骨骨小梁微 CT
+T136	Anatomy 5565 5579	NF-κB 受体活化因子配体
+T137	Anatomy 5632 5645	蛋白耦联雌激素受体 1 G
+T138	Anatomy 3744 3756	β-arrestin 2
+T139	Test_Value 168 170	下降
+T140	Anatomy 275 287	β-arrestin 2
+T141	Test 301 311	双能 X 射线吸收法
+T142	Anatomy 332 334;335 338	股骨 微结构
+T143	Disease 348 351	骨形成
+T144	Anatomy 352 359	骨吸收相关因子
+T145	Anatomy 383 395	β-Arrestin 2
+T146	Test_Value 416 418	降低
+T147	Test_Value 435 441	8. 10%
+T148	Test_Value 443 449	7. 53%
+T149	Test_Value 451 457	8. 56%
+T150	Test 460 466	骨微结构检测
+T151	Test 477 482	骨体积分数
+T152	Test_Value 483 485	降低
+T153	Test_Value 490 496	53. 3%
+T154	Test_Value 498 504	49. 4%
+T155	Test_Value 506 512	55. 7%
+T156	Test 515 520	骨小梁数量
+T157	Test_Value 521 523	减少
+T158	Test_Value 528 534	53. 2%
+T159	Test_Value 536 542	52. 1%
+T160	Test_Value 544 550	49. 3%
+T161	Test 602 609	骨小梁模式因子
+T162	Test 610 612	间距
+T163	Test 613 621	结构模型指数差异
+T164	Test_Value 621 625	逐渐增大
+T165	Test_Value 658 664	32. 0%
+T166	Test_Value 666 672	54. 3%
+T167	Test_Value 674 680	23. 7%
+T168	Test 748 755	mRNA 表达
+T169	Test_Value 756 758	降低
+T170	Disease 3072 3075	骨重塑
+T171	Disease 3121 3124	骨重塑
+T172	Anatomy 3325 3329	纵向骨骼
+T173	Anatomy 3430 3435	GPCRs
+T174	Test 3545 3547	骨量
+T175	Test_Value 3547 3549	减少
+T176	Test_Value 3554 3556	降低
+T177	Method 4159 4163	腹腔注射
+T178	Anatomy 4356 4358	股骨
+T179	Test 4458 4463	骨体积分数
+T180	Test 4464 4469	骨小梁数量
+T181	Test 4470 4475	骨小梁厚度
+T182	Test 4476 4482;4483 4484	骨小梁模式因 子
+T183	Test 4485 4491	骨小梁分离度
+T184	Test 4492 4498	结构模型指数
+T185	Anatomy 4564 4576	β-arrestin 2
+T186	Anatomy 4588 4590	胫骨
+T187	Test_Value 4968 4970	下降
+T188	Anatomy 4971 4983	β-Arrestin 2
+T189	Test_Value 5018 5024	8. 10%
+T190	Test_Value 5026 5032	7. 53%
+T191	Test_Value 5034 5040	8. 56%
+T192	Anatomy 6557 6569	β-Arrestin 2
+T193	Anatomy 6594 6601	骨小梁微观结构
+T194	Test 6793 6798	骨小梁数量
+T195	Test_Value 6798 6800	变少
+T196	Anatomy 6802 6805	骨小梁
+T197	Anatomy 6815 6818	骨小梁
+T198	Test 6861 6869	GPER1 表达
+T199	Test_Value 6869 6871	下降
+T200	Anatomy 6903 6912	雌激素受体信号通路
+T201	Anatomy 6893 6896	骨形成
+T202	Anatomy 6897 6900	骨吸收
+T203	Anatomy 6996 7001	GPER1
+T204	Test_Value 7068 7072	显著降低
+T205	Test 7078 7093	GPER1 mRNA 表达水平
+T206	Test_Value 7094 7096	降低
+T207	Reason 7697 7702	GPER1
+T208	Anatomy 7764 7776	β-Arrestin 2
+T209	Anatomy 7779 7789	人染色体 17p13
+T210	Anatomy 7815 7824;7825 7826	G 蛋白耦联受体激 酶
+T211	Anatomy 7843 7852;7853 7854	GPCRs 信号通 路
+T212	Anatomy 7893 7905	β-arrestin 2
+T213	Test_Value 7924 7926	下降
+T214	Anatomy 7927 7931	骨微结构
+T215	Anatomy 7950 7965	β-arrestin 2 基因
+T216	Test_Value 7974 7976	下降
+T217	Test 7977 7979;7980 7983	骨体 积分数
+T218	Test_Value 7983 7985	下降
+T219	Test 7986 7991	骨小梁数量
+T220	Test_Value 7991 7993	减少
+T221	Test 8014 8019	骨小梁间距
+T222	Test 8020 8026	骨小梁分离度
+T223	Test 8027 8030;8031 8034	结构模 型指数
+T224	Test_Value 8042 8044	升高
+T225	Anatomy 8480 8492	β-arrestin 2
+T226	Test_Value 8515 8519	显著下降
+T227	Disease 8522 8525	骨形成
+T228	Disease 8526 8529	骨破坏
+T229	Test_Value 8531 8533	减少
+T230	Reason 8538 8544	骨破坏的降低
+T231	Test 8547 8550	骨形成
+T232	Test_Value 8550 8552	减少
+T233	Test 8587 8588;8589 8607	骨 形成和骨吸收相关因子 mRNA 表达
+T234	Anatomy 8634 8646	β-arrestin 2
+T235	Test_Value 8681 8683	减少
+T236	Test_Value 8693 8697	显著增加
+T237	Anatomy 8717 8727;8728 8729	β-arrestin 2
+T238	Test_Value 8762 8764	升高
+T239	Test_Value 8774 8776	下降
+T240	Anatomy 8800 8812	β-arrestin 2
+T241	Test_Value 8836 8838	增加
+T242	Reason 8856 8857;8858 8862	小 鼠的性别
+T243	Reason 8863 8873	检测的组织和细胞不同
+T244	Disease 8900 8909	骨形成和骨吸收指标
+T245	Test_Value 8976 8980	明显降低
+T246	Test 8966 8968	OC
+T247	Test 9007 9009	OC
+T248	Test_Value 9010 9014	有所增加
+T249	Anatomy 9038 9050	β-arrestin 2
+T250	Anatomy 9120 9132	β-arrestin 2
+T251	Frequency 9150 9153	间歇性
+T252	Anatomy 9248 9253	GPER1
+T253	Anatomy 9301 9306	GPER1
+T254	Anatomy 9355 9360	GPER1
+T255	Anatomy 9370 9373	ERK
+T256	Anatomy 9377 9381	PI3K
+T257	Anatomy 9389 9393	Ca2+
+T258	Anatomy 9396 9400	cAMP
+T259	Anatomy 9403 9405	NO
+T260	Anatomy 9461 9466	GPER1
+T261	Reason 9509 9517	GPER1 缺乏
+T262	Anatomy 9604 9616	β-arrestin 2
+T263	Test_Value 9644 9646	下降
+T264	Test 9647 9650	骨形成
+T265	Test_Value 9650 9652	减少
+T266	Reason 9828 9836;9837 9839	雌激素膜受体信号 通路
+T267	Anatomy 9848 9860	β-arrestin 2
+T268	Anatomy 9863 9869;9870 9871	雌激素信号通 路
+T269	Anatomy 9895 9912	转接蛋白 β-arrestin 2
+T270	Symptom 3078 3082;3083 3088	骨形成与 骨吸收失衡
+T271	Reason 9533 9540;9541 9542	GPER1 缺 乏
+T272	Test 327 329	CT
+T273	Anatomy 692 694	胫骨
+T274	Test 695 701	RT-PCR
+T275	Anatomy 706 709	护骨素
+T276	Reason 3159 3161;3162 3167	雌激 素信号通路
+T277	Anatomy 3509 3511	破骨
+T278	Anatomy 3512 3516	成骨细胞
+T279	Test 4090 4093	骨密度
+T280	Test 4138 4141	骨密度
+T281	Test 4210 4212	CT
+T282	Anatomy 5092 5094	股骨
+T283	Test 6856 6859	护骨素
+T284	Test 7450 7452	CT
+T285	Test 7523 7526	骨密度
+T286	Test_Value 7526 7528	降低
+T287	Test 7529 7534	骨体积分数
+T288	Test_Value 7534 7536	变小
+T289	Test 7537 7542	骨小梁数量
+T290	Test_Value 7542 7544	减少
+T291	Test 7554 7560	骨微结构改变
+T292	Test_Value 7560 7562	增大
+T293	Anatomy 7582 7594	β-arrestin 2
+T294	Test 7597 7600	骨形成
+T295	Test_Value 7600 7603;7604 7605	显著降 低
+T296	Anatomy 7609 7621	β-Arrestin 2
+T297	Reason 7640 7654	骨组织 GPER1 表达降低
+T298	Test 7627 7630	骨密度
+T299	Disease 7683 7686	骨重塑
+T300	Reason 7666 7681	β-arrestin 2 缺失
+T301	Reason 7716 7731	β-arrestin 2 缺失
+T302	Test 7969 7974	全身骨密度
+T303	Anatomy 8096 8119	护骨素 / RANKL / RANK 信号通路
+T304	Anatomy 8249 8252	护骨素
+T305	Anatomy 8279 8282	护骨素
+T306	Anatomy 8652 8657;8658 8662	长骨骨髓中 破骨细胞
+T307	Test 8676 8679	护骨素
+T308	Anatomy 8735 8743	颅骨原代成骨细胞
+T309	Test 8756 8757;8758 8760	护 骨素
+T310	Drug 8991 8997	甲状旁腺激素
+T311	Anatomy 9059 9062	性激素
+T312	Anatomy 9106 9112	甲状旁腺激素
+T313	Drug 9153 9159	甲状旁腺激素
+T314	Reason 9231 9236;9237 9243	雌激素或雌 激素信号通路
+T315	Anatomy 9349 9351;9352 9353	雌激 素
+T316	Test 9577 9580	骨密度
+T317	Test_Value 9580 9582	增加
+T318	Test 9583 9588	骨皮质厚度
+T319	Test_Value 9588 9590	增加
+T320	Test 9570 9574	股骨体积
+T321	Test_Value 9574 9576	增大
+T322	Disease 9758 9762	骨量减少
+T323	Disease 9763 9769	骨微结构改变
+T324	Test 9780 9783	护骨素
+T325	Reason 9786 9795	GPER1 表达减
+T326	Disease 9822 9825	骨重塑
+T327	Reason 9803 9805;9806 9819	β- arrestin 2 缺失
+T328	Test 7052 7067	RANKL mRNA 表达水平
+T329	Anatomy 8180 8185	RANKL
+T330	Anatomy 8284 8289	RANKL
+T331	Anatomy 8302 8307	RANKL
+T332	Anatomy 8317 8322	RANKL
+T333	Test 8685 8690	RANKL
+T334	Test 8766 8771	RANKL
+T335	Test 8823 8828	RANKL
+T336	Anatomy 710 714;715 719	破骨细胞 分化因子
+T337	Anatomy 6942 6946	破骨细胞
+T338	Test 6939 6942	护骨素
+T339	Test 7038 7049	骨组织护骨素 mRNA
+T340	Test 8498 8502;8503 8504	胫骨护骨 素
+T341	Test 411 416	全身骨密度
+T342	Test 7480 7483	骨密度
+T343	Anatomy 9630 9635;9636 9641	骨 组 织 GPER1
+T344	Anatomy 9675 9690	G 蛋白耦联刺激素受体信号通路
+T345	Disease 9429 9437	雌激素依赖性疾病
+T346	Anatomy 9412 9417;9418 9420	雌激素非基 因组
+T347	Anatomy 9310 9316	雌激素核受体
+T348	Anatomy 9164 9176	β-arrestin 2
+T349	Test 8931 8938	TRACP5b
+T350	Anatomy 8370 8383	骨形成标志 物 骨 钙 素
+T351	Anatomy 8425 8440	骨吸收标志物抗酒石酸酸性磷酸酶
+T352	Anatomy 8187 8193	核因子 κB
+T353	Anatomy 7742 7756	G 蛋白耦联雌激素膜受体信号
+T354	Anatomy 5111 5123	β-arrestin 2
+T355	Anatomy 5073 5085	β-Arrestin 2
+T356	Anatomy 4944 4956	β-Arrestin 2
+T357	Test 160 165	GPER1
+T358	Test 808 813	GPER1
+T359	Anatomy 827 835;836 843	G 蛋白耦联雌激 素受体信号通路
+T360	Anatomy 3522 3537	β-arrestin 2 基因

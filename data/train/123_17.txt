@@ -1,0 +1,269 @@
+基础研究
+基金项目: 浙江省自然科学基金(Y2080418)和国家自然科学基金
+青年资助项目(81000356)
+飞霞、潘伟、叶菁、顾雪疆、倪连松、林迪妮);515000 汕头大学医学院附
+属第一医院内分泌科(李卫平)
+高表达 AQP7 改善 3T3-L1 脂肪细胞
+胰岛素抵抗的机制研究
+谷雪梅  沈飞霞  潘伟  叶菁  顾雪疆  倪连松  李卫平  林迪妮
+[摘要]   目的   探讨脂肪细胞中水通道蛋白 7(AQP7)表达与胰岛素抵抗的关系。 方法   培养
+3T3-L1 前体脂肪细胞,诱导分化为成熟的脂肪细胞,并用地塞米松(DXM)处理建立胰岛素抵抗模型。 构
+建 Ad-AQP7 重组腺病毒,转染胰岛素抵抗的脂肪细胞,检测 AQP7 表达水平的改变与脂肪细胞甘油释放水
+平、葡萄糖代谢能力以及磷酸化 PKB 表达改变的关系,从而阐明 AQP7 改善胰岛素抵抗的可能机制。 结果
+100 nmol / L DXM 作用分化成熟的脂肪细胞诱导胰岛素抵抗,48 h 后 p-PKB 水平和葡萄糖消耗量明显减少
+(P<0. 01),为胰岛素抵抗的最佳状态。 胰岛素抵抗状态下 AQP7 mRNA 和蛋白水平明显减少(均 P<
+0. 01)。 Ad-AQP7 腺病毒转染胰岛素抵抗的脂肪细胞 72 h,随着 AQP7 表达增加,培养基中甘油释放浓度增
+加,胰岛素刺激下的 p-PKB 水平呈现同样上升趋势,并且葡萄糖代谢能力得到明显改善。 结论 AQP7 可
+能参与胰岛素抵抗的分子机制;高表达 AQP7 可改善胰岛素抵抗,其机制可能与 PKB 信号通路改善有关。
+[关键词]   水通道蛋白 7; 胰岛素抵抗; 蛋白激酶 B
+Overexpression of AQP7 improves insulin resistance in 3T3-L1 adipocytes    GU Xue-mei*, SHEN Fei-xia,
+PAN Wei, YE Jing, GU Xue-jiang, NI Lian-song, LI Wei-ping, LIN Di-ni. *Department of Endocrinology and
+Metabolism, First Affilliated Hospital, Wenzhou Medical College, Wenzhou 325000, China
+[Abstract]  Objective  To investigate the role of aquaglyceroporin 7(AQP7) played in insulin resistance of
+adipocytes. Methods 3T3-L1 preadipocyte cells were induced to be fully differentiated adipocytes and then insulin
+resistance was induced by dexamethasone ( DXM). Adenovirus vector over-expressing AQP7 ( Ad-AQP7 ) was
+constructed and transfected into adipocytes. Expression levels of AQP7, glycerol release from adipocytes, changes in
+glucose consumption, and phosphorylated protein kinase B ( p-PKB) were measured. Results 48 h-treatment of
+dexamethasone significantly inhibited the expression level of p-PKB(P<0. 01) and decreased glucose utilization, as
+well as down-regulation of AQP7(P<0. 01) . Over-expression of AQP7 by transfecting Ad-AQP7 to dexamethasone
+(DXM)-induced insulin resistant adipocytes could improve glycerol secretion of adipocytes, being consistent with the
+restoration of p-PKB expression levels and glucose consumption. Conclusions AQP7 may improve in molecular
+mechanism of insulin resistance in adipocytes. Overexpression of AQP7 may contribute to the improvement of insulin
+resistance in adipocytes and might be correlated with better phosphorylation of PKB.
+[Key words]  Aquaglyceroporin 7; Insulin resistance; Protein kinase B
+(Chin J Endocrinol Metab, 2013, 29: 515-519)
+肥胖已成为当今社会的公共卫生问题,世界卫生
+组织估计全球大约有 10 亿人超重,其中 3 亿属于临床
+肥胖。 肥胖是由于摄入过多和(或)消耗不足致使脂
+肪组织堆积,常伴各种代谢紊乱,与多种健康问题密切
+相关,尤其是影响心脑血管疾病和糖尿病的一个重要
+危险因子,而且有效控制肥胖也是全球预防死亡发生
+的一个重要方面[1]。
+目前关于肥胖的治疗干预措施很多,包括运动、饮
+食控制,甚有通过外科手术治疗。 尽管关于此类方式
+减肥的报道层出不穷,但是如何减轻体重涉及的关键
+途径与机制仍未明确。 因此探求一条可以有效减轻体
+重的治疗新途径,具有重要的临床意义。 近来研究显
+示水甘油通道蛋白 AQP7 能够促进脂肪细胞内甘油向
+胞外转运[2],而且缺乏 AQP7 不仅影响脂肪细胞的生
+物学性状还与整个机体的葡萄糖代谢和胰岛素敏感性
+密切相关[3],从而为肥胖的防治提供了新的研究方
+向。 糖皮质激素可以导致胰岛素抵抗,其中常用地塞
+米松(DXM)建立细胞胰岛素抵抗模型[4,5]。 本研究旨
+在探讨胰岛素抵抗对 3T3-L1 脂肪细胞 AQP7 表达的
+影响,并进一步阐明高表达 AQP7 是否可以通过 PKB
+通路改善胰岛素抵抗。
+材料和方法
+一、 材料
+3T3-L1 脂肪细胞株购于中国科学院上海细胞库,
+DMEM(包括无酚红的 DMEM,Gibco31053-028)、新生
+小牛血清 ( CBS)、 Trizol 购自 Gibco,胎牛血清购自
+Biochrom;胰 岛 素 ( INS )、 1-甲 基-3-异 丁 基 黄 嘌 呤
+(IBMX)、地塞米松(DXM)、牛血清白蛋白(BSA)、多
+聚 赖 氨 酸 购 自 Sigma; RT 试 剂 盒 购 自 Thermo
+Scientific,荧光定量 PCR 试剂购自 Takara;抗 AQP7 抗
+体购自 Abcam,抗 PKB 和抗磷酸化(Ser473)抗体购自
+Cell Signaling Technology; 甘 油 检 测 试 剂 购 自
+BioVision,葡萄糖检测试剂购自南京建成生物研究所。
+二、 方法
+1. 3T3-L1 细胞培养:用 10% CBS 的高糖 DMEM
+培养基在 37℃、5% CO2饱和湿度条件下培养,待细胞
+融合 2 天后,加入含有 0. 5 mmol / L IBMX、1 μmol / L
+DXM、5 g / L INS 的 10% FBS 的高糖 DMEM 培养基培
+养 48 h,更换为 5 g / L INS 的培养基再培养 48 h,随后
+用 10% FBS 的高糖 DMEM 培养基继续培养,2 天换液
+一次,至细胞分化为成熟的脂肪细胞。 8 ~ 10 天后经
+油红染色鉴定 85%以上呈脂肪细胞表型,可用于后续
+实验。
+2. 胰岛素抵抗模型的建立:3T3-L1 前脂肪细胞诱
+导分化为成熟脂肪细胞后,分为 4 组。 第 1 组不加干
+预作为正常对照(对照组),第 2、3、4 组细胞分别加入
+100 nmol / L DXM 溶液作用 24、48 和 72 h。
+3. Ad-AQP7 重组腺病毒载体的构建和转染:参考
+相关文献[6] 构建 Ad-AQP7 重组腺病毒载体,转染
+293 细胞扩增并纯化。 根据 Orlicky 等[7] 方法,在含有
+病毒液的培养基中加入 0. 5 μg / ml 多聚赖氨酸作用
+3T3-L1 细胞 72 h,同时转染不含 AQP7 基因的空载腺
+病毒作为阴性对照组,并以不加病毒干预做为空白对
+照组。
+4. 实时 PCR 检测:用 Trizol 法抽提 3T3-L1 脂肪细
+胞总 RNA,取 500 ng 逆转录为 cDNA。 AQP7 和内参
+β-actin 引物由上海生工生物工程有限公司合成(表
+1)。 取 1 滋l(20 滋l 体系)在 ABI StepOnePlus 扩增仪上
+进行实时荧光定量 PCR 反应,反应条件:95℃预变性
+30 s,95℃变性 5 s,60℃退火 30 s,共进行 40 个循环。
+以 2-△△Ct表示处理组相对于正常对照组的变化倍数,实
+验重复 3 次。
+5. 免疫印记分析:培养于六孔板内的脂肪细胞经
+上述处理之后,更换 0. 2% BSA 的 DMEM 培养基作用
+表 1  实时 PCR 引物序列
+Tab 1  Primer sequences of real-time PCR
+基因
+Gene
+引物序列
+Sequence of primers
+产物长度
+Length of product
+(bp)
+AQP7 F:5'-TCGGTGTCAACTTGGGTTTTG-3' 64
+R:5'-GAGATGCCGCCTGCTACAT-3'
+β-actin F:5'-CTTCTTTGCAGCTCCTTCG-3' 198
+R:5'-TTCTGACCCATTCCCACC-3'
+注:AQP7:水通道蛋白 7 Aquaglyceroporin 7
+3 h,用 100 nmol / L INS 溶液刺激 15 min 后吸弃培养
+基,用预冷 PBS 洗涤细胞 2 次,每孔加入细胞裂解液
+100 滋l,刮起细胞,细胞悬液过 27G 针头数次,冰上静
+置 30 min 后 12 000 转 / min 4℃离心 20 min,吸取上清
+用 BCA 法测定蛋白浓度。 电泳前按 4 : 1 体积比与
+5×上样缓冲液混合,100℃热变性 5 min。 各取 40 μg
+蛋白上样 10% 聚丙烯酰胺凝胶电泳分离蛋白后转到
+PVDF 膜上,5%脱脂牛奶室温 床封闭 1 h,一抗 4℃
+孵育过夜。 次日与辣根过氧化物酶标记的二抗孵育 1
+h 后,加 ECL 试剂反应,显像,成像。 用目的条带与
+β-actin 的灰度值相比表示目的蛋白的相对表达量。
+6. 甘油释放检测:3T3-L1 脂肪细胞在含 0. 5%
+BSA、肾上腺素浓度为 10-6 mol / L 的 DMEM 培养基作
+用 1 h 后收集上清,根据甘油检测试剂盒在 570 nm 处
+测量吸光度计算甘油浓度。
+7. 培养基葡萄糖浓度检测:收集细胞上清液,按
+照试剂盒方法 37℃孵箱 10 min 后 500 nm 处测吸光度
+计算葡萄糖浓度。
+三、 统计学分析
+应用 SPSS13. 0 统计软件分析,实验结果以 x-± s 表
+示。 组间比较采用独立样本 t 检验或单因素方差分
+析。 P<0. 05 为差异有统计学意义。
+结    果
+一、 胰岛素抵抗模型的建立和鉴定
+糖皮质激素可以导致胰岛素抵抗,而地塞米松作
+为常用的诱导剂以浓度从 10 nmol / L 至 1 μmol / L 不等
+建立 3T3-L1 脂肪细胞胰岛素抵抗模型。 本实验中可
+以看到,100 nmol / L DXM 作用 24 h 胰岛素刺激的
+p-PKB 蛋白含量稍有下降,而葡萄糖代谢水平与正常
+对照组无明显差别;48 h 后 p-PKB 水平明显减少(P<
+0. 01),葡萄糖消耗量与同期正常对照组相比差值最
+大;之后随着作用时间延长 DXM 的抑制效应减弱,葡
+萄糖代谢能力得到一定程度的恢复(图 1),故结合
+p-PKB 和葡萄糖消耗水平,DXM 作用 48 h 为胰岛素抵
+抗的最佳状态。
+二、胰岛素抵抗状态下 AQP7 mRNA 和蛋白水平
+注: DXM:地塞米松 Dexamethasone ( 100 nmol / L); INS: 胰岛素
+Insulin( 100 nmol / L); PKB: 蛋白激酶 B Protein kinase B; 组间相比
+Comparison between 2 groups, aP<0. 05, bP<0. 01
+图 1  地塞米松处理不同时间脂肪细胞 p-PKB 蛋白和葡萄糖摄取变化
+Fig 1  The expression of p-PKB protein and glucose utilization after treatment
+of dexamethasone
+表达
+分化成熟的 3T3-L1 脂肪细胞经 100 nmol / L DXM
+处理 48 h 建立胰岛素抵抗模型,可以看到 AQP7 转录
+水平明显减少,约降至正常对照组的 1 / 3(图 2A);同
+时蛋白水平大致下降到正常水平的 50% (图 2B);因
+此在胰岛素抵抗状态下 AQP7 转录水平和蛋白水平出
+现同步下降,与 PKB 磷酸化水平变化趋势一致。
+三、 Ad-AQP7 转染胰岛素抵抗脂肪细胞对 AQP7
+蛋白和甘油释放水平的影响
+DXM 干预 48 h 后 AQP7 表达下降,而转染空载腺
+病毒组无明显改变,但转染 Ad-AQP7 腺病毒 72 h 之后
+发现 AQP7 蛋白水平表达增加(图 3A);检测培养基中
+的甘油浓度发现,肾上腺素刺激的甘油释放趋势与
+AQP7 变化一致,即 DXM 作用后甘油输出受阻,脂肪
+分解能力下降,培养基中甘油释放减少,转染 Ad-
+AQP7 腺病毒后甘油水平增加,旨在表明随着 AQP7 表
+达恢复,其甘油运输能力也同步增强,有利于脂肪的分
+解(图 3B)。
+四、 Ad-AQP7 转染胰岛素抵抗脂肪细胞对 PKB
+磷酸化蛋白和葡萄糖代谢变化的影响
+进一步观察胰岛素抵抗的脂肪细胞随着 AQP7 表
+注:AQP7:水通道蛋白 7 Aquaglyceroporin 7;组间相比 Comparison
+between 2 groups, aP<0. 01
+图 2  脂肪细胞胰岛素抵抗状态下 AQP7 mRNA 和蛋白水平
+Fig 2  The expression of p-PKB mRNA and protein in the insulin resistance of
+adipocytes
+注:DXM:地塞米松 Dexamethasone(100 nmol / L);AQP7:水通道蛋
+白 7 Aquaglyceroporin 7;vs Con[DXM(-)], aP<0. 05;vs Con[DXM(+)],
+bP<0. 05
+图 3  Ad-AQP7 腺病毒转染脂肪细胞后 AQP7 蛋白和甘油释放水平变化
+Fig 3  The levels of AQP7 protein and glycerol concentration after transfected
+with adenoviruses
+注: DXM:地塞米松 Dexamethasone ( 100 nmol / L); INS: 胰岛素
+Insulin(100 nmol / L);PKB:蛋白激酶 B Protein kinase B;AQP7:水通道蛋
+白 7 Aquaglyceroporin 7;vs Con[DXM(-)], aP<0. 05;vs Con[DXM(+)],
+bP<0. 05
+图 4  AQP7 腺病毒转染之后 p-PKB 蛋白和葡萄糖代谢变化
+Fig 4 The expression of p-PKB protein and glucose utilization after transfected
+with adenoviruses
+达的升高是否有利于改善胰岛素抵抗。 可以看出,转
+染 AQP7 腺病毒之后 p-PKB 水平较胰岛素抵抗组明显
+提高,并且培养基中葡萄糖的消耗量也随着 AQP7 表
+达的增加而增加,亦即表明葡萄糖代谢能力也得到增
+强(图 4)。
+讨    论
+迄今为止,在哺乳动物中已发现 13 种水通道蛋
+白,作为在脂肪组织大量表达并具有甘油转运功能的
+AQP7,逐渐引起人们的重视并成为研究热点。 对
+AQP7 基因敲除小鼠的研究发现,缺乏 AQP7 基因表达
+的小鼠虽然没有出现糖耐量异常,但胰岛体积减小并
+出现高胰岛素血症[8];另外 Hibuse 等[9] 研究显示,敲
+除 AQP7 基因的小鼠表现出与年龄相关的肥胖表型,
+进一步发现是由于脂肪细胞内甘油激酶的活性增强使
+蓄积的甘油重新酯化形成甘油三酯,以致最终引起肥
+胖的发生。 不仅如此,AQP7 基因敲除小鼠还存在与
+肥胖相关的严重的胰岛素抵抗[10]。 对人体不同来源
+脂肪组织的研究发现,AQP7 的表达存在区域性分布
+差异。 正常体重受试者皮下脂肪组织 AQP7 mRNA 表
+达高于内脏脂肪组织,与生理条件下皮下脂肪分解脂
+肪能力的效应更强相符[11];但肥胖症患者内脏脂肪中
+AQP7 表达水平异常增加[12,13],并且在肥胖伴 2 型糖
+尿病患者中这种现象更明显[14-16],究其原因可能与
+AQP7 代偿性上调增强脂肪分解能力从而减少脂肪组
+织在内脏的堆积,有助于改善胰岛素抵抗。 上述来自
+动物和人体的研究结果显示 AQP7 的表达与胰岛素的
+敏感性密切相关,可以推测 AQP7 缺失导致脂肪细胞
+中甘油堆积引起肥胖的发生,而 AQP7 表达升高可以
+促进甘油向胞外转运,减小脂肪细胞的体积从而达到
+减轻体重、增强胰岛素敏感性的目的。 因此本研究通
+过 DXM 建立 3T3-L1 脂肪细胞胰岛素抵抗模型,构建
+并转染 AQP7 重组腺病毒用以评估 AQP7 表达对胰岛
+素敏感性的影响。
+PKB 作为磷脂酰肌醇-3-激酶(PI-3K)信号通路中
+的关键分子,可以介导葡萄糖转运等多种生物学效应,
+故可作为评价胰岛素敏感性的一个重要指标[17]。 动
+物实验结果显示在机体胰岛素抵抗时白色脂肪组织、
+肝脏和骨骼肌在胰岛素刺激下 PKB 磷酸化水平明显
+减少[18,19]。 本实验以 DXM 作用分化成熟的 3T3-L1
+脂肪细胞 48h,发现在 PKB 磷酸化水平减少、葡萄糖利
+用下降的同时 AQP7 水平也随之下降,甘油释放受阻,
+这与之前报道地塞米松可引起 AQP7 mRNA 下调结果
+一致[20]。 与之相比,有文献报道具有典型代谢综合征
+表现的大鼠模型内脏脂肪 AQP7 蛋白表达水平下
+降[21],另有段玉敏等[22] 观察到自发 2 型糖尿病大鼠
+随着肥胖和糖尿病病情加重,皮下和肾周脂肪组织
+AQP7 mRNA 表达呈先升高后下降趋势,与血甘油变化
+一致,推测在肥胖早期 AQP7 代偿性增加以减少脂肪
+细胞的体积,后期表达减少因而导致了脂肪的积聚促
+进了肥胖的发展,由此可以看出,AQP7 的表达与胰岛
+素敏感性密切相关,AQP7 的减少可能会导致胰岛素
+抵抗的发生。
+如果可以选择性增加 AQP7 的表达,有望在肥胖
+治疗方面发挥重要作用。 Kong 等[23] 发现羧甲基甲壳
+素( carboxymethyl schitin) 作用 3T3-L1 脂肪细胞,在
+AQP7 表达升高的同时脂肪分解能力增强;同时也有
+报道使用胰岛素增敏剂可以增强 AQP7 基因的表
+达[24],从而推测可能通过高表达 AQP7 抑制脂肪细胞
+的肥大从而起到改善胰岛素抵抗的作用。 本研究通过
+利用腺病毒载体高表达 AQP7,不仅可以促进脂滴的
+水解,增加甘油的释放,还可提高 p-PKB 水平,改善葡
+萄糖代谢能力,从而揭示了 AQP7 通过调节脂肪细胞
+甘油的通透性影响甘油三酯的积聚,进而发挥改善胰
+岛素抵抗的作用。
+AQP7 作为脂肪细胞的甘油输出通道蛋白,本研
+究发现在地塞米松处理的胰岛素抵抗模型组细胞中,
+甘油释放受阻,转染 AQP7 腺病毒后不仅在正常分化
+组随着 AQP7 表达升高引起 PKB 磷酸化水平的上调,
+而且高表达 AQP7 可以恢复地塞米松处理组细胞 PKB
+磷酸化水平,增强葡萄糖代谢水平,从而表明 AQP7 的
+表达与胰岛素信号转导通路的关系。 综上所述可以推
+断,在胰岛素抵抗状态下 AQP7 表达下降,而高表达
+AQP7 可能通过提高 PKB 磷酸化水平改善胰岛素抵
+抗,本研究为进一步阐明 AQP7 与脂肪代谢的相关性
+研究奠定了良好的实验基础,并对疾病的基因治疗具
+有一定的指导意义。

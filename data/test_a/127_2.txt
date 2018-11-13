@@ -1,0 +1,336 @@
+非酒精性脂肪性肝病
+基金项目:973 计划项目(2012CB524906);卫生部 2011 年国家临床重点专科建设项目[卫办医政函(2011)873 号
+文];上海申康医院发展中心项目(SHDC12012201);上海市卫生局新三年卫生行动计划(12GWZX0103);上海市科委重
+点项目(10411956400)
+键)
+2 型糖尿病患者肝脏脂肪含量与肝病结局的
+相关性研究
+张林杉  卞华  颜红梅  夏明锋  常薪霞  高键  高鑫
+[摘要]   目的  分析 2 型糖尿病患者肝脏脂肪含量(liver fat content, LFC)随糖尿病病程的变化,探讨
+其与肝病结局的关系。 方法 采集 435 例住院 2 型糖尿病患者的病史资料、生化指标、肝脏质子磁共振波
+谱( 1H-MRS),计算非酒精性脂肪性肝病(NAFLD) 纤维化评分(NFS)。 结果 在新诊断 2 型糖尿病
+(NT2DM)患者 NAFLD 检出率显著高于已诊断 2 型糖尿病(PT2DM)患者(92. 7% 对 82. 2% ,P<0. 05),并
+有更高的 LFC[(27. 97 ± 16. 88 对 19. 44 ± 15. 54)% ,P<0. 01]。 LFC 随糖尿病病程的增加而减少,校正性
+别、年龄、体重指数(BMI)、口服降糖药、降脂药、注射胰岛素等因素后,LFC 与糖尿病病程呈线性负相关
+( rs = -0. 233,P<0. 01);多元线性逐步回归分析显示,LFC 与 BMI、白蛋白、谷丙转氨酶呈线性正相关,与糖
+尿病病程线性负相关。 NT2DM 患者中可排除进展性纤维化(NFS< -1. 455)的 NAFLD 比例显著高于
+PT2DM 患者(26. 3%对 15. 5% ,P<0. 05);而进展性纤维化的 NAFLD 患者(NFS>0. 676)中 PT2DM 所占比
+例显著高于 NT2DM(79. 2%对 20. 8% ,P<0. 05);NFS 与糖尿病病程呈正相关( rs = 0. 236,P<0. 01)。 发生
+进展性肝纤维化的 NAFLD 患者的 LFC 显著降低,且 LFC 与 NFS 呈线性负相关关系( rs = -0. 164, P<
+0. 01)。结论 糖尿病病程是 2 型糖尿病患者 LFC 的独立影响因素,随着糖尿病病程的延长,肝脏脂肪含量
+的减少与 NAFLD 向进展性纤维化发展相关,预示不良肝病结局。
+[关键词]   糖尿病, 2 型; 非酒精性脂肪性肝病; 纤维化
+The relationship between liver fat content and liver disease outcome in patients with type 2 diabetes Zhang
+Linshan*,Bian Hua, Yan Hongmei,Xia Mingfeng,Chang Xinxia,Gao Jian,Gao Xin. *Department of Endocrinology,
+Zhongshan Hospital, Fudan University, Shanghai 200032, China
+[Abstract]  Objective  To investigate the effects of diabetic duration on liver fat content (LFC) in patients
+with type 2 diabetes, and to explore its relationship with the outcome of liver disease. Methods A total of 435
+hospitalized patients with type 2 diabetes were recruited. The history data, results of laboratory tests, and hepatic
+1H-MRS were collected, and nonalcoholic fatty liver disease (NAFLD) fibrosis score (NFS) was calculated. Results
+The prevalence of NAFLD in newly-diagnosed type 2 diabetes mellitus ( NT2DM) group was higher than that in
+previously-diagnosed type 2 diabetes mellitus ( PT2DM) group (92. 7% vs 82. 2% ,P < 0. 05), with higher LFC
+[(27. 97 ±16. 88 vs 19. 44±15. 54)% , P<0. 01] . The LFC was reduced with prolonged duration of diabetes. Partial
+correlation analysis showed that LFC was negatively correlated with duration of diabetes( rs =-0. 233, P<0. 01) after
+adjustment for gender, age, body mass index ( BMI), oral anti-diabetic drugs, lipid-lowering drugs, and insulin
+treatment. Multiple linear regression analysis showed that LFC was positively correlated with BMI, albumin, and
+alanine aminotransferase while negatively correlated with duration of diabetes. The proportion of patients without
+advanced fibrosis (NFS<-1. 455) was significantly higher in NT2DM group than that in PT2DM group (26. 3% vs
+15. 5% ,P<0. 05),and the proportion of PT2DM in patients with advanced fibrosis (NFS>0. 676) was significantly
+higher than that of NT2DM(79. 2% vs 20. 8% ,P<0. 05) . NFS was positively correlated with the duration of diabetes
+( rs =0. 236,P<0. 01) . The liver fat content in patients with advanced liver fibrosis decreased significantly, and the
+LFC was negatively correlated with NFS ( rs = -0. 164, P<0. 01) . Conclusions The duration of diabetes is an
+independent influencing factor of LFC. With the extension of the duration of diabetes, the decreased LFC in type 2
+diabetic patients with NAFLD is related to the development of advanced fibrosis. The decrease in LFC in type 2
+diabetic patient is associated with poor outcome of NAFLD.
+[Key words]  Diabetes mellitus, type 2; Nonalcoholic fatty liver disease; Fibrosis
+(Chin J Endocrinol Metab, 2014, 30: 3-7)
+随着人们对 2 型糖尿病和非酒精性脂肪性肝病
+(NAFLD)的了解,以及脂肪肝检测及定量技术的发
+展,2 型糖尿病患者的肝脏脂肪含量(LFC)与代谢水
+平的关系已经引起了广泛的关注。 最近,2 型糖尿病
+患者合并 NAFLD 的情况尤倍受关注,国外一些小样本
+的 2 型糖尿病患者肝穿刺活检的研究估计,非酒精性
+脂肪性肝炎(NASH)患病率为 63% ~ 87% ,且中重度
+纤维化占 22% ~ 60% [1],本课题组调查也发现合并 2
+型糖尿病的 NAFLD 患者更易发生 NASH[2]。 令人感
+兴趣的是本课题组对上海长风社区的调研发现,新诊
+断 2 型糖尿病患者 NAFLD 患病率比已诊断 2 型糖尿
+病患者显著升高,且糖尿病病程短的住院患者往往
+LFC 水平更高,推测 LFC 的下降可能与已诊断糖尿病
+患者接受了包括运动饮食控制、口服降糖药等综合治
+疗干预有关。 由于胰岛素抵抗是 NAFLD 的内在致病
+机制,因此,理想情况下利用胰岛素增敏剂如二甲双胍
+和噻唑烷二酮类药物(TZDs)能够改善 NAFLD 的肝脏
+组织学改变(脂肪变性、炎症和纤维化),并降低心脏
+和癌症风险[3]。 另一方面,糖尿病病程长的患者 LFC
+更低,因此,2 型糖尿病患者 LFC 的变化是否受降糖药
+物治疗的影响,抑或与 NAFLD 肝脏病变向纤维化进展
+相关,有无其他影响因素均需阐明。 既往国内的研究
+多集中在 LFC 对代谢水平的影响以及发生肝脏脂肪
+沉积的相关危险因素,几乎没有研究关注 LFC 变化与
+脂肪肝严重程度的关系,针对 LFC 的影响因素研究也
+相对较少且样本量很小。 本研究试图通过分析 2 型糖
+尿病患者 LFC 与糖尿病病程、降糖治疗和肝脏进展性
+纤维化之间的相关性,以评价 2 型糖尿病合并 NAFLD
+患者的远期肝病结局。
+对象和方法
+一、对象
+收集 2009 年 9 月至 2013 年 1 月本院内分泌科住
+院的 2 型糖尿病患者[完成肝脏质子磁共振波谱( 1H-
+MRS)检查]435 例,进行回顾性分析,所有患者均符合
+2003 年美国糖尿病协会(ADA)糖尿病诊断标准,排除
+标准:(1)1 型糖尿病、特殊类型糖尿病、妊娠糖尿病、
+分型不详的糖尿病患者;(2)酒精摄入量男性≥140
+g /周,女性≥70 g /周;(3)病毒性肝炎、药物性肝病等
+其他肝病;(4)全胃肠外营养、甲状腺功能减退等可导
+致脂肪肝的特定疾病;(5)合并糖尿病急性并发症、重
+症感染、终末期肾病、血液病等机体代谢状况严重紊乱
+的特殊情况。
+二、 方法
+1. 收集受试者病史资料:包括现病史、既往史、饮
+酒史;身高、体重、腰围、血压;检测血、尿常规、空腹血
+糖( FPG)、空腹 C 肽 ( FCP)、空腹胰岛素 ( FINS)、
+HBA1C、糖化白蛋白(GA)、肝功能、肾功能、血脂、C 反
+应蛋白( CRP),测定 100 g 馒头餐试验后 2 h 血糖
+(2hPG)、C 肽和胰岛素水平。 计算体重指数(BMI)、
+LFC 和纤维化评分(NFS)。
+2. 1H-MRS 肝脏脂肪含量测定:LFC(% )= 脂肪峰
+下面积 × 100 / (脂肪峰下面积 +水峰下面积),肝脏
+1H-MRS 诊断脂肪肝切点为 LFC≥5. 56% 。
+3. 无创性诊断 NAFLD 的 NFS:NFS = -1. 675 +
+0. 037×年龄(岁)+0. 094×BMI(kg / m2) +1. 13×空腹血
+糖受损 /糖尿病(是 + 1, 否 + 0) + 0. 99 ×谷草转氨酶
+(AST) /谷丙转氨酶(ALT)比值-0. 013×血小板计数
+(×109 / L) -0. 066×白蛋白(g / L);NFS>0. 676 诊断为
+进展性纤维化,NFS<-1. 455 除外进展性纤维化[4,5]。
+4. 新诊断糖尿病定义:3 个月内发现糖尿病且未
+使用任何降糖药物。
+三、 统计学处理
+应用 SPSS 19. 0 进行统计分析。 符合正态分布的
+资料以 x-± s 表示,两独立样本比较采用 t 检验;非正态
+分布数据以中位数(四分位间距)表示,采用非参数方
+法进行统计;均值比较采用单因素分析;构成比以及率
+的比较采用 字2 检验;多因素分析采用 logistic 回归和多
+元线性逐步回归分析;P<0. 05 为差异有统计学意义。
+结    果
+一、 一般临床特征
+435 例住院 2 型糖尿病患者纳入研究,其中男性
+235 例(占 54. 0% ),女性 200 例(占 46. 0% );所有研
+究对象的平均年龄(56. 6 ± 13. 5)岁,糖尿病病程 5. 0
+(0. 3,10. 0)年,BMI(25. 4 ±3. 7) kg / m2,腰围(92 ±10)
+cm,FPG (8. 4 ± 3. 1 ) mmol / L, 2hPG (16. 9 ± 4. 5 )
+mmol / L, HBA1C(9. 5 ± 2. 4)% ,FINS 9. 6 (6. 5,14. 5)
+mU / L,FCP (1. 98 ± 1. 10) μg / L。1 H-MRS 测得的平均
+LFC 为(21. 05 ± 16. 13)% ,男女性之间差异无统计学
+意义[(20. 81 ±16. 55 对 21. 33 ±15. 66)% , P>0. 05]。
+二、 肝脏脂肪含量与代谢参数的关系
+根据 LFC 三分位数比较患者一般情况和代谢水
+平差异显示, 年龄轻、 糖尿病病程短、BMI 和腰围大的
+表 1  肝脏脂肪含量三分位分组临床资料比较[x-± s,中位数(四分位间距)]
+Tab 1  Comparison of clinical data according to tertiles of liver fat content[x-± s,M(Quartile)]
+组别
+Group
+例数
+n
+LFC
+(% )
+年龄
+(岁)
+Age
+(year)
+糖尿病病程
+(年)
+Diabetes duration
+(year)
+BMI
+(kg / m2)
+WC
+(cm)
+SBP
+(mmHg)
+DBP
+(mmHg)
+HBA1C
+(% )
+LFC T1 147 6. 08 ± 2. 83 59. 2 ± 13. 5 8. 0(2. 0-12. 0) 23. 6 ± 3. 2 0. 88 ± 0. 01   134 ± 20   80 ± 10 10. 2 ± 3. 0
+LFC T2 143 16. 91 ± 3. 71a 58. 2 ± 13. 1 6. 0(0. 4-10. 0) a 25. 5 ± 3. 2a 0. 91 ± 0. 08a   133 ± 14   81 ± 8 9. 4 ± 2. 5
+LFC T3 145 40. 31 ± 11. 97ab 52. 5 ± 13. 1ab 2. 0(0. 0-7. 0) ab 27. 1 ± 3. 8ab 0. 96 ± 0. 01ab   134 ± 16   85 ± 9ab 9. 3 ± 1. 9
+组别
+Group
+例数
+n
+FPG
+(mmol / L)
+2hPG
+(mmol / L)
+FCP
+(μg / L)
+FINS
+(mU / L)
+GA
+(% )
+TC
+(mmol / L)
+TG
+(mmol / L)
+LFC T1 147 8. 1 ± 3. 1 17. 1 ± 4. 7 1. 65 ± 1. 05 8. 2(5. 2-11. 6) 25. 9 ± 9. 7 4. 64 ± 1. 44 1. 34(0. 92-1. 78)
+LFC T2 143 8. 7 ± 3. 3 16. 6 ± 4. 7 1. 97 ± 0. 91a 10. 3(7. 0-14. 4) 24. 3 ± 8. 5 4. 68 ± 1. 22 1. 66(1. 24-2. 32) a
+LFC T3 145 8. 5 ± 2. 8 17. 0 ± 4. 2 2. 35 ± 1. 24ab 10. 9(7. 9-16. 4) 23. 3 ± 7. 1a 4. 88 ± 1. 14 2. 07(1. 50-3. 21) ab
+组别
+Group
+例数
+n
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+ALT
+(U / L)
+AST
+(U / L)
+γ-GT
+(U / L)
+UA
+(μmol / L)
+CRP
+(mg / L)
+LFC T1 147 1. 12 ± 0. 30 2. 70 ± 0. 95   15(11-23)   16(13-21)   22(16-39) 297. 7 ± 88. 4 1. 5(0. 9-4. 2)
+LFC T2 143 1. 08 ± 0. 26 2. 58 ± 1. 04   18(12-27) a   18(15-22) a   30(21-40) a 307. 6 ± 91. 1 1. 9(0. 9-4. 0)
+LFC T3 145 1. 02 ± 0. 27a 2. 66 ± 0. 99   31(20-62) ab   24(18-39) ab   42(27-69) ab 345. 7 ± 94. 4ab 2. 3(1. 3-3. 9) a
+注:LFC:肝脏脂肪含量 Liver fat content; LFC T1:LFC 下三分位数 LFC low tertile;LFC T2:LFC 中三分位数;LFC middle tertile;LFC T3:LFC 上三分位
+数 LFC upper tertile;BMI:体重指数 Body mass index;WC:腰围 Waist circumference;SBP:收缩压 Systolic blood pressure;1 mmHg=0. 133 kPa;DBP:舒张压
+Diastolic blood pressure;FPG:空腹血糖 Fasting plasma glucose;2hPG:馒头餐负荷后 2 h 血糖 2 h plasma glucose after steamed bread meal loading;FCP:空腹 C
+肽 Fasting C peptide;FINS:空腹胰岛素 Fasting insulin;GA 糖化白蛋白 Glycated albumin;TC:总胆固醇 Total cholesterol;TG:甘油三酯 Triglyceride;HDL-C:
+高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;ALT:谷丙转氨酶 Alanine
+aminotransferase;AST:谷草转氨酶 Aspartate aminotransferase;γ-GT:γ-谷氨酰转移酶 γ-Glutamyl transpeptidase; UA:尿酸 Uric acid;CRP:C 反应蛋白 C-
+reactive protein;与 LFC T1 组比较 vs LFC T1 group, aP<0. 05;与 LFC T2 组比较 vs LFC T2 group, bP<0. 05
+患者其 LFC 更高。 随着 LFC 水平的增高,舒张压、
+FCP、甘油三酯 ( TG)、 ALT、 AST、 γ-谷氨酰转移酶
+(γ-GT)、尿酸呈递增趋势, 高密度脂蛋白胆固醇
+(HDL-C)呈递减趋势,组间差异有统计学意义(P <
+0. 05,表 1)。
+三、 新诊断和已诊断 2 型糖尿病患者 NAFLD 患
+病情况比较
+新诊断糖尿病(NT2DM)共 82 例(18. 9% ),已诊
+断糖 尿 病 ( PT2DM) 353 例 ( 81. 1% )。 NAFLD 的
+1H-MRS 检出率在 NT2DM 组高于 PT2DM 组(92. 7%
+对82. 2% ,P<0. 05),且 NT2DM 组 LFC 更高[(27. 97 ±
+16. 88 对 19. 44 ± 15. 54)% ,P<0. 01]。 校正性别、年
+龄、血糖、血脂、口服降糖药物和注射胰岛素因素后,差
+异依然存在。 PT2DM 组的 NFS 更高,但差异无统计学
+意义。 NT2DM 组中 NAFLD 患者可排除进展性肝纤维
+化(NFS<-1. 455)的比例显著高于 PT2DM 组(26. 3%
+对 15. 5% , P < 0. 05 );进展性纤维化患者 ( NFS >
+0. 676)中 PT2DM 占 79. 2% ,NT2DM 占 20. 8% (P <
+0. 05)。
+四、 LFC 与糖尿病病程的关系
+将糖尿病病程分为 0 ~ 5、5 ~ 10、10 ~ 15 和大于
+15 年,分层比较 LFC 的变化,LFC 随糖尿病病程的延
+长而降低,依次为(25. 5 ± 16. 9)% 、(18. 0 ± 15. 5)% 、
+(15. 2 ± 11. 7 )% 和 (13. 3 ± 10. 2 )% ( P < 0. 01 )。
+Spearman 相关分析显示,LFC 与年龄、糖尿病病程、中
+性粒细胞百分比、GA、HDL-C、24 h 尿微量白蛋白呈负
+相关;与 BMI、腰围、舒张压、红细胞、血红蛋白(Hb)、
+FCP、FINS、总胆固醇 ( TC)、TG、载脂蛋白 E、尿酸、
+CRP、白蛋白、ALT、AST、γ-GT 呈正相关。 偏相关分析
+发现,校正了性别、年龄、BMI 和口服降糖药、降脂药、
+注射胰岛素等因素后,LFC 与糖尿病病程依然呈线性
+负相关( rs = -0. 233,P<0. 01)。
+以 LFC 为因变量,糖尿病病程、BMI、腰围、舒张
+压、FCP、HBA1C、TC、TG、HDL-C、尿酸、白蛋白、ALT、
+AST、γ-GT、Hb、红细胞为自变量,校正年龄、性别和口
+服降糖药、降脂药、注射胰岛素等因素,行多元线性逐
+步回归分析显示,LFC 与糖尿病病程线性负相关,与
+BMI、白蛋白、ALT 线性正相关(P<0. 05),提示糖尿病
+病程是 LFC 的独立影响因素。
+五、 LFC 与进展性纤维化的关系
+MRS 诊断 NAFLD 的患者共 366 例,根据 NFS 分 3
+组(NFS>0. 676,NFS-1. 455 ~ 0. 676,NFS<-1. 455)比
+较 LFC,进展性肝纤维化(NFS>0. 676)组的平均 LFC
+较无进展性纤维化组(NFS<-1. 455)显著降低(P<
+0. 05 ), NFS 由 高 到 低 的 LFC 分 别 为 ( 22. 88 ±
+14. 51)% 、(23. 35 ± 14. 78)% 、(29. 55 ± 17. 95)% 。
+Spearman 相关分析显示,LFC 与 NFS 纤维化评分呈负
+相关( rs = -0. 164,P<0. 01),随着 NFS 的增加,LFC 呈
+下降趋势。 提示 NAFLD 患者肝脏向进展性纤维化发
+展过程中脂肪含量会减少。
+六、 进展性纤维化与糖尿病病程的关系
+组间比较发现,NFS 积分高的组平均糖尿病病程
+较长,NFS 由高到低的糖尿病病程分别为(8. 5 ± 8. 2)、
+(6. 3 ±6. 8)和(3. 2 ±4. 6)年。 Spearman 相关分析显示
+NFS 积分与糖尿病病程呈正相关 ( rs = 0. 236, P <
+0. 01),提示 NAFLD 患者随着糖尿病病程的延长,肝
+脏向进展性纤维化发展,LFC 随之减少。
+讨    论
+本研究对 435 例住院的 2 型糖尿病患者进行了精
+确的磁共振 LFC 测定,并分析了 LFC 与糖尿病病程、
+降糖治疗以及肝病严重程度之间的关系。 结果显示,
+在 BMI、腰围、FCP、胰岛素、血脂均匹配的情况下,
+NAFLD 检出率在 NT2DM 组均高于 PT2DM 组,且
+PT2DM 患者的 LFC 显著降低;偏相关分析显示,即便
+是校正了降糖药物的干预,LFC 与糖尿病病程依然线
+性负相关。 根据 NAFLD 纤维化评分诊断的进展性纤
+维化在 PT2DM 患者所占比例远远大于 NT2DM 患者;
+NFS 与糖尿病病程呈线性正相关。 多因素分析显示,
+糖尿病病程是 LFC 的独立影响因素,2 型糖尿病合并
+NAFLD 患者随着糖尿病病程的延长其 LFC 的减少独
+立于降糖药物的作用,可能与 NAFLD 向进展性纤维化
+发展相关,预示着糖尿病患者的肝脏不良结局。
+既往的一些横断面研究表明,糖尿病不仅与
+NAFLD 的肝纤维化相关,纵向研究显示其还是纤维化
+进展的标志。 一项由 432 例肝穿刺诊断 NAFLD 的研
+究发现,2 型糖尿病是中-重度纤维化的独立预测因
+子,可以用来识别 NAFLD 患者发生进展性肝纤维化的
+风险[6]。 本研究进一步证实了糖尿病病程的延长对
+LFC 的影响及发生进展性肝纤维化的危害。 正如前面
+所讨论的,糖尿病患者中 NASH 和肝纤维化发病率显
+著增加,这不容忽视。 显然,脂肪肝的严重程度不仅以
+LFC 的多少为标志,尤其在糖尿病人群中更应该关注
+NASH 和进展性肝病的发生情况。 因为 NASH,尤其是
+随着纤维化增加,不管是在肝脏还是心血管风险等全
+身其他方面,导致不良事件发生率和死亡率的后果增
+加,都比单纯性脂肪肝更为重要。
+关于降糖药物对 LFC 的影响尚无定论。 国内外
+一些小的开放性研究认为二甲双胍可以降低 LFC 和
+肝酶水平并使肝脏组织学得到改善,随机对照试验表
+明 TZDs 能够显著改善 NASH 患者(合并胰岛素抵抗
+或 2 型糖尿病)的肝细胞脂肪变性、气球样变性、炎症
+和纤维化。 然而,也有随机对照研究显示二甲双胍和
+TZDs 并不能显著改善存在胰岛素抵抗的 NASH 患者
+的肝脏组织学[7]。 尽管理论推测胰岛素增敏剂在治
+疗 NAFLD 方面有潜在价值并对 NAFLD 的结局产生有
+益的影响,但是目前胰岛素增敏剂能够改变 NAFLD 病
+程发展的证据仍不确定。 国外曾有研究报道 2 型糖尿
+病患者胰岛素治疗能够提高肝脏对胰岛素的敏感性,
+并显著降低 LFC[8]。 大剂量阿卡波糖(300 mg / d)治疗
+12 周可使 NAFLD 患者在体重和整体胰岛素敏感性没
+有变化的情况下,LFC 下降 26% [9]。 虽然本研究结果
+显示糖尿病病程对 LFC 的影响独立于降糖治疗,但
+是,由于本课题为横断面研究,也未做病理学验证,结
+果所示的糖尿病患者 LFC 下降与纤维化有关,究竟是
+否真正独立于运动饮食控制以及降糖药物影响目前尚
+缺乏前瞻性研究证据,需进一步积累更多的临床和基
+础研究证据。
+2 型糖尿病加剧并导致 NAFLD 进展的机制仍未
+被完全证实,但已有不少代谢和细胞研究的证据。 可
+能是由于脂质代谢失调,胰岛素抵抗、高胰岛素血症以
+及胰岛素相对缺乏相关的糖调节紊乱,氧化应激增加,
+局部和全身的炎症等方面的相互作用所导致[10]。 另
+外,遗传和环境条件交互作用可促进 NASH 的发生。
+除了调节脂肪酸代谢、氧化应激、免疫调节和促进纤维
+化发展的基因之外,NAFLD / NASH 的易感性与影响胰
+岛素敏感性的基因相关,通过几个全基因组关联研究,
+最稳定地预测 NAFLD 的基因 PNPLA3 的变异值得关
+注[11,12]。 本研究结果提示,合并 NAFLD 的 2 型糖尿
+病患者随着糖尿病病程的延长发生肝脏纤维化的风险
+增加,纤维组织逐渐替代了以往脂肪累积的炎症肝细
+胞,使得 LFC 下降,预示着可能发生进展性肝病和肝
+脏不良结局。 有研究表明 2 型糖尿病患者中超声诊断
+的 NAFLD 患病率已达近 70% [5],另外,越来越多的证
+据提示,糖尿病患者发展为 NAFLD 进展形式(NASH
+及纤维化)的风险较高。 本研究的样本量大,具有一
+定代表性,我们认为 NAFLD 已经成为 2 型糖尿病不可
+忽视的“并发症冶,对 2 型糖尿病患者的 LFC 及其动态
+变化的关注与远期的肝病结局密切相关,而关于糖尿
+病造成 NAFLD 进展的因素和机制需要更深入的临床
+和基础研究进行探讨。

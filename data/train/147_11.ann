@@ -1,0 +1,190 @@
+T1	Disease 1570 1576	2 型糖尿病
+T2	Test 2181 2186	HBA1C
+T3	Test 3677 3682	HBA1C
+T4	Test 306 311	HDL-C
+T5	Test 1232 1237	HDL-C
+T6	Test 2162 2167	HDL-C
+T7	Test 3356 3361	HDL-C
+T8	Test 3993 3998	HDL-C
+T9	Test 4079 4084	HDL-C
+T10	Test 4293 4298	HDL-C
+T11	Test 4439 4444	HDL-C
+T12	Test 288 293	LDL-C
+T13	Test 1182 1187	LDL-C
+T14	Test 2096 2101	LDL-C
+T15	Test 2510 2515	LDL-C
+T16	Test 3373 3378	LDL-C
+T17	Test 4009 4014	LDL-C
+T18	Test 4085 4090	LDL-C
+T19	Test 4278 4283	LDL-C
+T20	Test 4430 4435	LDL-C
+T21	Test 2172 2176	空腹血糖
+T22	Test 3390 3394	空腹血糖
+T23	Test 4091 4095	空腹血糖
+T24	Test 2177 2180	血肌酐
+T25	Test 2256 2259	血肌酐
+T26	Test 3645 3648	血肌酐
+T27	Test 4096 4099	血肌酐
+T28	Test 296 305	高密度脂蛋白胆固醇
+T29	Test 3999 4008	高密度脂蛋白胆固醇
+T30	Test 277 278;279 287	低 密度脂蛋白胆固醇
+T31	Test 2049 2058	低密度脂蛋白胆固醇
+T32	Test 4015 4024	低密度脂蛋白胆固醇
+T33	Test 1688 1692	总胆固醇
+T34	Test 2043 2044;2045 2048	总 胆固醇
+T35	Test 2488 2492	总胆固醇
+T36	Test 3340 3344	总胆固醇
+T37	Test 4073 4077	总胆固醇
+T38	Test 4272 4276	总胆固醇
+T39	Test 1980 1984	体重指数
+T40	Test 2440 2444	体重指数
+T41	Test 2917 2921	体重指数
+T42	Test 2997 3001	体重指数
+T43	Test 4262 4266	体重指数
+T44	Test 2368 2371	收缩压
+T45	Test 3012 3015	收缩压
+T46	Test 4050 4053	收缩压
+T47	Test 4251 4254	收缩压
+T48	Test 5056 5059	收缩压
+T49	Test 5087 5090	收缩压
+T50	Test 2405 2408	舒张压
+T51	Test 3023 3026	舒张压
+T52	Test 4054 4057	舒张压
+T53	Test 4255 4258	舒张压
+T54	Test 5060 5063	舒张压
+T55	Test 5047 5050	肾功能
+T56	Test 2914 2916	腰围
+T57	Test 2989 2991	腰围
+T58	Test 4259 4261	腰围
+T59	Test 133 135	尿酸
+T60	Test 228 230	尿酸
+T61	Test 374 376	尿酸
+T62	Test 1601 1603	尿酸
+T63	Test 1659 1661	尿酸
+T64	Test 1729 1731	尿酸
+T65	Test 2169 2171	尿酸
+T66	Test 2296 2298	尿酸
+T67	Test 2317 2319	尿酸
+T68	Test 2695 2697	尿酸
+T69	Test 2930 2932	尿酸
+T70	Test 3049 3051	尿酸
+T71	Test 3408 3410	尿酸
+T72	Test 3742 3744	尿酸
+T73	Test 4104 4106	尿酸
+T74	Test 4124 4126	尿酸
+T75	Test 4242 4244	尿酸
+T76	Test 4845 4847	尿酸
+T77	Test 5035 5037	尿酸
+T78	Test 5053 5055	尿酸
+T79	Test 5081 5083	尿酸
+T80	Test 5120 5122	尿酸
+T81	Test 5170 5172	尿酸
+T82	Test 5206 5208	尿酸
+T83	Test 5265 5267	尿酸
+T84	Disease 1564 1569	代谢综合征
+T85	Test 271 275	甘油三酯
+T86	Test 2038 2042	甘油三酯
+T87	Test 2468 2472	甘油三酯
+T88	Test 3324 3328	甘油三酯
+T89	Test 4068 4072	甘油三酯
+T90	Test 4267 4271	甘油三酯
+T91	Test 4423 4427	甘油三酯
+T92	Test 1965 1967	身高
+T93	Test 1991 1993	身高
+T94	Test 1968 1970	体重
+T95	Test 1887 1893	C 反应蛋白
+T96	Test_Value 1893 1903	>10 mg / L
+T97	Test 1975 1977	血压
+T98	Test 1971 1972;1973 1974	腰 围
+T99	Test 2104 2121	高 密 度 脂 蛋 白 胆 固 醇
+T100	Test 2242 2246	eGFR
+T101	Test 2187 2191;2192 2197	估计的肾 小球滤过率
+T102	Test 2365 2367	血压
+T103	Disease 2420 2423	高血压
+T104	Test 2533 2536	HDL
+T105	Test_Value 2536 2551	<1. 04 mmol / L
+T106	Test 3659 3665	肾小球滤过率
+T107	Test 4058 4063	平均动脉压
+T108	Test 4064 4067	脉压差
+T109	Test 4115 4119	eGFR
+T110	Disease 4136 4138	超重
+T111	Disease 4128 4133	高尿酸血症
+T112	Disease 4455 4460	高尿酸血症
+T113	Test 4448 4452	eGFR
+T114	Disease 4588 4593	高尿酸血症
+T115	Disease 4646 4649;4650 4652	高尿酸 血症
+T116	Disease 4686 4691	高尿酸血症
+T117	Disease 4805 4810	高尿酸血症
+T118	Disease 4820 4825	高尿酸血症
+T119	Disease 4827 4831	血脂异常
+T120	Disease 4832 4834	超重
+T121	Disease 4835 4838	高血压
+T122	Disease 4861 4865	高脂血症
+T123	Disease 4870 4874;4875 4876	高尿酸血 症
+T124	Disease 4909 4914	高尿酸血症
+T125	Disease 5018 5023	高尿酸血症
+T126	Disease 5025 5028	高血压
+T127	Test 5137 5139	血压
+T128	Disease 5173 5174;5175 5177	高 血压
+T129	Disease 5221 5224	高血压
+T130	Disease 5232 5235	高血压
+T131	Disease 5309 5314	高尿酸血症
+T132	Disease 251 256	高尿酸血症
+T133	Disease 326 330;331 332	高尿酸血 症
+T134	Disease 341 346	高尿酸血症
+T135	Symptom 350 354	血脂异常
+T136	Disease 1544 1549	高尿酸血症
+T137	Disease 1558 1563	高尿酸血症
+T138	Test 1685 1687	血压
+T139	Disease 1715 1720	高尿酸血症
+T140	Disease 1758 1763	高尿酸血症
+T141	Disease 2286 2291	高尿酸血症
+T142	Disease 2643 2648	高尿酸血症
+T143	Disease 2795 2800	高尿酸血症
+T144	Disease 2868 2873	高尿酸血症
+T145	Disease 2904 2909	高尿酸血症
+T146	Disease 3727 3731	血脂异常
+T147	Disease 4165 4169	血脂异常
+T148	Test 4187 4188;4189 4190	尿 酸
+T149	Test 4234 4238	eGFR
+T150	Test_Value 2298 2311	≥420 μmol / L
+T151	Test_Value 2319 2332	≥360 μmol / L
+T152	Test_Value 2371 2380	≥140 mmHg
+T153	Test_Value 2408 2416	≥90 mmHg
+T154	Test_Value 2444 2458	≥24. 0 kg / m2
+T155	Test_Value 2472 2486	≥1. 7 mmol / L
+T156	Test_Value 2492 2507	≥5. 18 mmol / L
+T157	Test_Value 2515 2530	≥3. 37 mmol / L
+T158	Test 313 322	估计的肾小球滤过率
+T159	Disease 1577 1580;1581 1583	心血管 疾病
+T160	Disease 1608 1611;1612 1614	心血管 疾病
+T161	Disease 1637 1641;1642 1643	心血管疾 病
+T162	Disease 1673 1676;1677 1679	心血管 疾病
+T163	Test 1285 1289	eGFR
+T164	Test 2236 2240	eGFR
+T165	Test 1916 1918	尿酸
+T166	Test 1496 1498	尿酸
+T167	Test 1515 1517	尿酸
+T168	Test 1528 1530	尿酸
+T169	Test 1633 1635	尿酸
+T170	Test_Value 2249 2252	186
+T171	Disease 1584 1589	慢性肾脏病
+T172	Disease 4946 4952	心脑血管事件
+T173	Disease 5010 5016	心脑血管事件
+T174	Anatomy 2023 2026	静脉血
+T175	Disease 2437 2439	超重
+T176	Test_Value 2701 2719;2720 2728	(318. 35 ± 87. 55) μmol / L
+T177	Test_Value 2731 2758	(344. 27 ± 91. 26) μmol / L
+T178	Test_Value 2761 2779;2780 2788	(301. 13 ± 80. 53) μmol / L
+T179	Test_Value 4102 4104	正常
+T180	Test_Value 4122 4124	正常
+T181	Test_Value 4185 4187	正常
+T182	Test_Value 5037 5039	正常
+T183	Disease 2338 2341	高血压
+T184	Disease 4150 4154	高血压病
+T185	Test 5127 5129	血压
+T186	Test 5184 5186	血压
+T187	Disease 2459 2463	血脂异常
+T188	Anatomy 231 234	心血管
+T189	Anatomy 357 360	心血管
+T190	Anatomy 4915 4918	心血管

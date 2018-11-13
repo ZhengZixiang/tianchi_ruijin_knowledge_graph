@@ -1,0 +1,292 @@
+T1	Test 1651 1655	肝肾功能
+T2	Test 3844 3847	肾功能
+T3	Test 1489 1494	甲状腺功能
+T4	Test 1661 1664;1665 1667	甲状腺 功能
+T5	Test 3848 3853	甲状腺功能
+T6	Disease 574 578	头颅外伤
+T7	Symptom 584 586	头晕
+T8	Symptom 587 589	乏力
+T9	Symptom 590 602	非喷射性呕吐胃内容物数次
+T10	Symptom 604 608	神志清晰
+T11	Symptom 609 611;612 616	搀扶 后可行走
+T12	Test 620 625	头颅 CT
+T13	Test_Value 629 634	左枕骨骨折
+T14	Test_Value 635 643;644 647	双侧额部少许硬膜 下血肿
+T15	Test_Value 648 655	左额叶脑挫裂伤
+T16	Test 667 672	头颅 CT
+T17	Test 699 701	血钠
+T18	Test_Value 702 705;706 707	明显降 低
+T19	Symptom 733 735	头昏
+T20	Symptom 736 740	食欲减退
+T21	Disease 757 761	头颅外伤
+T22	Drug 772 774;775 776	甘露 醇
+T23	Drug 777 779	速尿
+T24	Treatment 787 794	静脉补钠、补水
+T25	Test 834 841	24 h 尿量
+T26	Test_Value 843 851	2 500 ml
+T27	Test 853 855	血钠
+T28	Test_Value 867 885	126 ~ 128 mmol / L
+T29	Method 890 892	口服
+T30	Drug 892 895	盐胶囊
+T31	Amount 923 929	每天 3 粒
+T32	Test 947 949	血钠
+T33	Test_Value 953 965	134 mmol / L
+T34	Method 974 976	口服
+T35	Drug 976 979	盐胶囊
+T36	Frequency 984 987	tid
+T37	Amount 980 983	2 粒
+T38	Test 1018 1020	尿量
+T39	Test_Value 1022 1035	800 ml / 24 h
+T40	Test 1040 1042	血钠
+T41	Drug 1055 1058	盐胶囊
+T42	Amount 1061 1064	2 粒
+T43	Frequency 1065 1068	bid
+T44	Symptom 1079 1081	头昏
+T45	Symptom 1082 1086	肢体乏力
+T46	Symptom 1087 1090	睡眠差
+T47	Symptom 1091 1095	食欲不佳
+T48	Test 1096 1098	血钠
+T49	Test_Value 1098 1100	降低
+T50	Test_Value 1105 1114;1115 1123	124 ~ 128 mmol / L
+T51	Drug 1127 1130	盐胶囊
+T52	Amount 1131 1143	8 ~ 10 粒 / d
+T53	Test 1153 1155	血钠
+T54	Test_Value 1155 1156;1157 1158	正 常
+T55	Drug 1168 1171	盐胶囊
+T56	Amount 1172 1175	2 粒
+T57	Frequency 1176 1179	tid
+T58	Test 1229 1231	血压
+T59	Test_Value 1232 1245	110 / 70 mmHg
+T60	Symptom 1268 1271	神志清
+T61	Symptom 1272 1279	无皮肤色素沉着
+T62	Symptom 1280 1285	皮肤弹性好
+T63	Symptom 1286 1291	面部无痤疮
+T64	Symptom 1293 1297;1298 1302	双侧甲状 腺无肿大
+T65	Symptom 1304 1310	双肺呼吸音清
+T66	Symptom 1311 1318	未闻及干湿啰音
+T67	Test 1320 1322	心率
+T68	Test_Value 1323 1333	70 次 / min
+T69	Symptom 1335 1338	心律齐
+T70	Symptom 1340 1343	腹平软
+T71	Symptom 1344 1349	腹部无紫纹
+T72	Symptom 1350 1357	无腹壁静脉曲张
+T73	Symptom 1369 1375	肝脾肋下未及
+T74	Symptom 1377 1383	双下肢无水肿
+T75	Symptom 1384 1392	四肢肌力 V 级
+T76	Symptom 1393 1396;1397 1401	四肢肌 张力正常
+T77	Symptom 1403 1409	生理反射存在
+T78	Symptom 1410 1417	病理反射未引出
+T79	Test 1434 1441	血尿同步电解质
+T80	Test 1442 1444;1445 1447	血气 分析
+T81	Test 1448 1453	血尿渗透压
+T82	Test 1454 1471	肾素-血管紧张素-醛固酮立卧位试验
+T83	Test 1472 1474;1475 1488	过夜 1 mg 地塞米松抑制试验
+T84	Test 1495 1504	肾上腺 CT 增强
+T85	Test 1505 1507;1508 1511	头颅 MRI
+T86	Test 1512 1518	垂体 MRI
+T87	Disease 1529 1533	低钠血症
+T88	Test 1543 1550	血尿同步电解质
+T89	Test 1551 1556	血尿渗透压
+T90	Test 1569 1571	尿钠
+T91	Test 1572 1574	尿氯
+T92	Test 1582 1586	尿渗透压
+T93	Test_Value 1586 1588	增高
+T94	Test 1592 1596	血渗透压
+T95	Test_Value 1596 1597;1598 1599	降 低
+T96	Test 1606 1608	血钠
+T97	Test_Value 1612 1624	133 mmol / L
+T98	Method 1628 1630	口服
+T99	Drug 1630 1633	盐胶囊
+T100	Test 1645 1650	红细胞压积
+T101	Test 1656 1660	血气分析
+T102	Test 1668 1673	肾上腺功能
+T103	Test 1674 1679	立卧位试验
+T104	Test 1680 1696	过夜 1 mg 地塞米松抑制试验
+T105	Test 1698 1701	性激素
+T106	Test 1706 1709	脑钠肽
+T107	Test 1715 1719	脑钠肽原
+T108	Test 1710 1713	BNP
+T109	Test 1720 1726	proBNP
+T110	Test 1739 1744	头颅 CT
+T111	Test_Value 1765 1771	左小脑软化灶
+T112	Test 1778 1784	垂体 MRI
+T113	Test_Value 1788 1794	部分空泡蝶鞍
+T114	Method 1811 1813	口服
+T115	Drug 1813 1816	盐胶囊
+T116	Amount 1817 1820	2 粒
+T117	Frequency 1821 1824	tid
+T118	Drug 1859 1861;1862 1863	盐胶 囊
+T119	Amount 1867 1870	2 粒
+T120	Frequency 1871 1874	bid
+T121	Symptom 1879 1881	头晕
+T122	Symptom 1882 1884	乏力
+T123	Test 1887 1889	血钠
+T124	Test_Value 1889 1891	降低
+T125	Test_Value 1892 1895;1896 1904	133 mmol / L
+T126	Drug 1922 1925	盐胶囊
+T127	Amount 1926 1929	2 粒
+T128	Frequency 1930 1933	tid
+T129	Test 1961 1963;1964 1966	血电 解质
+T130	Disease 1975 1979	低钠血症
+T131	Test 1980 1983	血清钠
+T132	Test_Value 1983 1996	<135 mmol / L
+T133	Disease 2004 2005;2006 2011	脑 耗盐综合征
+T134	Disease 2043 2047	CSWS
+T135	Disease 2049 2053;2054 2062	抗利尿激 素异常分泌综合征
+T136	Disease 2121 2126	SIADH
+T137	Disease 2130 2137	中枢性低钠血症
+T138	Disease 2741 2752	中枢神经系统病变或损伤
+T139	Disease 2762 2766	低钠血症
+T140	Test 2767 2769	尿钠
+T141	Test_Value 2769 2771	增高
+T142	Disease 2832 2836	低钠血症
+T143	Test 2837 2839	尿钠
+T144	Test_Value 2839 2841	增高
+T145	Disease 2860 2864	CSWS
+T146	Disease 2867 2872	SIADH
+T147	Disease 2946 2950	CSWS
+T148	Disease 2961 2966	SIADH
+T149	Disease 3017 3021	CSWS
+T150	Disease 3038 3044;3045 3046	缺钠性低钠血 症
+T151	Disease 3059 3063	CSWS
+T152	Disease 3124 3129	SIADH
+T153	Reason 3145 3158	垂体抗利尿激素分泌异常增多
+T154	Reason 3159 3168;3169 3170	异源性抗利尿激素分 泌
+T155	Anatomy 3196 3198	肾脏
+T156	Test 3218 3220	尿量
+T157	Test_Value 3220 3222	减少
+T158	Test 3223 3227	尿渗透压
+T159	Test_Value 3227 3228;3229 3230	升 高
+T160	Test 3231 3235	血渗透压
+T161	Test_Value 3235 3237	降低
+T162	Test 3253 3256	血容量
+T163	Symptom 3265 3271	皮肤弹性正常
+T164	Symptom 3272 3277	无脱水表现
+T165	Disease 3279 3283	CSWS
+T166	Disease 3286 3291	SIADH
+T167	Disease 3326 3330	低钠血症
+T168	Disease 3315 3323	中枢神经系统疾病
+T169	Disease 3363 3367	CSWS
+T170	Symptom 3383 3389	低血容量状态
+T171	Disease 3393 3398	SIADH
+T172	Test 3405 3406;3407 3409	血 容量
+T173	Disease 3429 3433	CSWS
+T174	Disease 3446 3451	SIADH
+T175	Treatment 3455 3460	限制饮水量
+T176	Disease 3485 3489	颅脑外伤
+T177	Disease 3493 3497	低钠血症
+T178	Disease 3500 3504	颅脑外伤
+T179	Disease 3515 3518;3519 3520	低钠血 症
+T180	Test 3528 3530	尿钠
+T181	Test_Value 3532 3534	增多
+T182	Disease 3548 3552	CSWS
+T183	Disease 3561 3566	SIADH
+T184	Disease 3569 3573	颅脑外伤
+T185	Disease 3577 3581	CSWS
+T186	Treatment 3584 3588	补钠治疗
+T187	Test 3619 3621	血钠
+T188	Test_Value 3621 3623	正常
+T189	Test 3660 3662	血钠
+T190	Test_Value 3662 3664	正常
+T191	Disease 3668 3672	CSWS
+T192	Disease 3684 3688	CSWS
+T193	Disease 3726 3730	CSWS
+T194	Treatment 3689 3693	限制进水
+T195	Treatment 3712 3716	限制饮水
+T196	Disease 3741 3745	颅脑外伤
+T197	Disease 3746 3750	空泡蝶鞍
+T198	Disease 3755 3760	SIADH
+T199	Disease 3791 3796	SIADH
+T200	Disease 3816 3820	高钠血症
+T201	Treatment 3805 3811	长期补充高钠
+T202	Test 3826 3832	垂体 MRI
+T203	Test_Value 3836 3840	空泡蝶鞍
+T204	Test 3860 3864	垂体激素
+T205	Test_Value 3865 3867	正常
+T206	Test 3868 3870	尿量
+T207	Disease 3881 3889	垂体前叶功能低下
+T208	Disease 3890 3892;3893 3897	中枢 性尿崩症
+T209	Disease 3903 3907	低钠血症
+T210	Disease 3919 3923	CSWS
+T211	Disease 3926 3931	SIADH
+T212	Disease 3990 3994	CSWS
+T213	Disease 3997 4002	SIADH
+T214	Disease 4053 4059;4060 4061	蛛网膜下腔出 血
+T215	Disease 4078 4082	低钠血症
+T216	Disease 4102 4106	低钠血症
+T217	Level 4100 4102	严重
+T218	Test 4107 4109	血钠
+T219	Test_Value 4109 4122	<130 mmol / L
+T220	Disease 4126 4131	SIADH
+T221	Level 4133 4135	严重
+T222	Disease 4136 4140	低钠血症
+T223	Disease 4173 4177	CSWS
+T224	Disease 4180 4185	SIADH
+T225	Disease 4194 4198	低钠血症
+T226	Level 4192 4194	严重
+T227	Disease 4203 4207	CSWS
+T228	Disease 4210 4215	SIADH
+T229	Disease 4229 4231;4232 4237	中枢 性低钠血症
+T230	Test 4278 4281	血容量
+T231	Disease 4294 4298	CSWS
+T232	Disease 4301 4306	SIADH
+T233	Test 4325 4330	抗利尿激素
+T234	Test 4331 4334	ADH
+T235	Test 4349 4352	ADH
+T236	Disease 4390 4394	CSWS
+T237	Disease 4397 4402	SIADH
+T238	Disease 4428 4432	CSWS
+T239	Disease 4436 4440	低钠血症
+T240	Disease 4457 4461	CSWS
+T241	Disease 4465 4470	SIADH
+T242	Test_Value 1044 1046	正常
+T243	Test_Value 1702 1704	正常
+T244	Test_Value 1728 1730	正常
+T245	Test 1842 1844	血钠
+T246	Test_Value 1844 1846	正常
+T247	Test_Value 1967 1969	正常
+T248	Reason 3031 3035	肾性失钠
+T249	Test 3067 3070	利钠肽
+T250	Test_Value 3072 3074	增多
+T251	Test 3111 3113	血压
+T252	Reason 2796 2810	内源性抗利尿激素分泌异常增多
+T253	Reason 2811 2819;2820 2824	异源性抗利尿激素 分泌增多
+T254	Reason 3181 3194	抗利尿激素不适当地分泌过多
+T255	Test 3207 3209	尿钠
+T256	Test_Value 3211 3213	增多
+T257	Test 3368 3373	细胞外液量
+T258	Test_Value 3373 3374;3375 3376	减 少
+T259	Test 3399 3404	细胞外液量
+T260	Treatment 3609 3611;3612 3616	长期 高钠饮食
+T261	Treatment 4442 4444	补钠
+T262	Treatment 4445 4447	补液
+T263	Amount 807 810	8 g
+T264	Amount 817 833	1 500 ~ 2 000 ml
+T265	Test 3854 3859	肾上腺功能
+T266	Test_Value 4281 4283	正常
+T267	Drug 1480 1484	地塞米松
+T268	Drug 1688 1692	地塞米松
+T269	Disease 111 115	低钠血症
+T270	Disease 678 685	蛛网膜下腔出血
+T271	Test_Value 712 730	120 ~ 123 mmol / L
+T272	Symptom 741 746;747 748	肢体乏力明 显
+T273	Drug 804 805	钠
+T274	Drug 814 816	补液
+T275	Symptom 1358 1363	无腹部压痛
+T276	Symptom 1365 1368	反跳痛
+T277	Test_Value 1748 1760;1761 1764	双侧额顶叶、脑室周边白质 缺血灶
+T278	Symptom 2772 2776	低血容量
+T279	Symptom 2767 2771	尿钠增高
+T280	Symptom 2842 2848;2849 2854	正常或轻度增 加的血容量
+T281	Symptom 2837 2841	尿钠增高
+T282	Disease 3079 3081	肾脏
+T283	Disease 3241 3248	稀释性低钠血症
+T284	Test_Value 3410 3412	正常
+T285	Test_Value 3413 3417	轻度增加
+T286	Treatment 3438 3440	补钠
+T287	Treatment 3441 3443	补液
+T288	Symptom 3521 3527	血浆低渗透压
+T289	Symptom 3528 3534	尿钠排出增多
+T290	Method 3652 3654	口服
+T291	Treatment 3654 3656	补钠
+T292	Test_Value 3871 3876	无明显增多

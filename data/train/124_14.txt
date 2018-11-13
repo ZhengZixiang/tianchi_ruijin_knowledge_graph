@@ -1,0 +1,149 @@
+临床研究
+基金项目:广西壮族自治区教育厅课题(桂教 200710LX065);广西
+研究生教育创新计划(2009105981002M206)
+炎症因子与 2 型糖尿病合并代谢综合征患者亚临床
+动脉粥样硬化的关系
+秦映芬  黄迪迪  周嘉  钱家乐  蒋婵
+[提要]   用 ELISA 法检测甘露糖结合凝集素(mannose-binding lectin,MBL)、纤溶酶原激活物抑制物-1
+(PAI-1)及超敏 C 反应蛋白(hs-CRP)水平,探讨其与 2 型糖尿病合并代谢综合征(MS)患者亚临床动脉粥
+样硬化(As)的关系。 亚临床 As 组 hs-CRP 升高(P<0. 01),MBL 无统计学差异(P>0. 05),PAI-1 仅在合并
+MS 的患者中显著升高(P<0. 01);不考虑亚临床 As 因素,2 型糖尿病合并 MS 患者 MBL 降低,hs-CRP、
+PAI-1 升高(均 P<0. 01)。 炎症因子 MBL, hs-CRP、PAI-1 参与了 2 型糖尿病合并 MS 患者亚临床 As 的发
+展。
+[关键词]   糖尿病, 2 型; 代谢综合征; 亚临床动脉粥样硬化; 甘露糖结合凝集素; 超敏 C 反应蛋白;
+纤溶酶原激活物抑制物-1
+Correlation between inflammatory factors and subclinical atherosclerosis in type 2 diabetic patients with
+metabolic syndrome     QIN Ying-fen, HUANG Di-di, ZHOU Jia, QIAN Jia-le, JIANG Chan. Department of
+Endocrinology,the First Affiliated Hospital of Guangxi Medical University, Nanning 530021, China
+[Summary]   ELISA technique was employed to determine the concentration of mannose-binding lectin
+(MBL), plasminogen activator inhibitor-1(PAI-1), and high sensitive-C reactive protein (hs-CRP). hs-CRP level
+in patients with subclinical atherosclerosis was significantly higher ( P < 0. 01),MBL level was of no significant
+difference (P>0. 05);PAI-1 was significantly higher(P<0. 01)only in those with metabolic syndrome(MS). Taking
+no account of subclinical atherosclerosis, MBL of diabetic patients with MS was significantly lower while hs-CRP and
+PAI-1 were significantly higher ( P < 0. 01 ) . Inflammatory factors MBL, hs-CRP, and PAI-1 involved in the
+subclinical atherosclerosis development in the type 2 diabetic patients with MS.
+[Key words]  Diabetes mellitus, type 2; Metabolic syndrome; Subclinical atherosclerosis; Mannose-binding
+lectin; High sensitive-C reactive protein; Plasminogen activator inhibitor-1
+(Chin J Endocrinol Metab, 2013, 29: 592-594)
+2 型糖尿病合并代谢综合征(MS)患者心血管并发症的发
+生率高、发生时间提前,寻找该人群早期动脉粥样硬化(As)的
+危险因素,对亚临床 As 人群进行干预有重要价值,但其亚临床
+As 的危险因素尚未完全明了。 炎性标志物与 As 和 2 型糖尿
+病、MS 之间的关系已受到广泛关注。 甘露糖结合凝集素
+(mannose-binding lectin,MBL)是由肝脏合成分泌的 C 型凝集
+素,可激活补体系统参与炎症反应。 纤溶酶原激活物抑制物-1
+(plasminogen activator inhibitor-1,PAI-1)是血浆纤溶系统的主要
+抑制因子,目前国内外对 MBL 与亚临床 As 相关性的研究较
+少,且 PAI-1 对亚临床 As 的影响报道不一致。 本研究拟通过
+检测 MBL、PAI-1、超敏 C 反应蛋白(hs-CRP)的浓度,探讨其与
+2 型糖尿病合并 MS 患者亚临床 As 的关系。
+一、 对象和方法
+1. 对象:2007 年 10 月至 2009 年 12 月广西医科大学第一
+附属医院内分泌科住院的 2 型糖尿病患者。 2 型糖尿病按
+1999 年世界卫生组织(WHO)的诊断标准。 MS 按 2005 年国际
+糖尿病联盟(IDF)的诊断标准。 排除标准:(1)冠心病、脑血管
+病、外周动脉病变;(2)急性炎症性疾病,自身免疫性疾病,肿
+瘤;(3)肝肾功能不良;(4)近期手术、外伤、糖尿病酮症酸中
+毒、高渗性昏迷或其他应激情况。 符合上述条件者 215 例,平
+均病程 4. 0(7. 5)年,平均年龄(57. 2 ±11. 4)岁。 其中 2 型糖尿
+病合并 MS 组 130 例,单纯糖尿病组 85 例。
+2. 方法:由专人负责,用 LOGIQ9 型彩色多普勒超声诊断
+仪 10 ~ 12 MHz 频率的探头,取距离颈动脉窦口近心端 1 cm 为
+检查点测定颈动脉内膜中层厚度( IMT),如在颈部暴露的颈总
+动脉可视范围内发现 IMT 明显增厚,则测量记录其为最厚
+IMT,共测量 3 次取平均值。 计算左、右颈总动脉 IMT 平均值。
+本研究以 IMT≥1. 0 mm 视为中内膜增厚,局限性回声结构突入
+管腔且厚度≥1. 2 mm 视为斑块形成,均归于亚临床 As 范
+畴[1] 。 其中糖尿病组中,非 As 组 27 例,亚临床 As 组 58 例;糖
+尿病合并 MS 患者中,非 As 组 43 例,亚临床 As 组 87 例。 用
+ELISA 法检测 MBL(试剂盒由荷兰 HyCult biotechnology b. v 公
+司提供)、PAI-1 和 hs-CRP(试剂盒由上海蓝基生物科技有限公
+司提供)。
+3. 统计学处理:采用 SPSS 13. 0 软件对数据进行分析。 偏
+态分布用中位数(四分位数间距)表示。 正态分布数据用 x-± s
+表 1  各组一般资料的比较(x-± s)
+组别 例数(男 / 女) 年龄(岁)
+病程
+(年)
+吸烟
+(% )
+体重指数
+(kg / m2) 腰臀比
+单纯糖尿病组 85(56 / 29) 57. 6 ± 11. 3 4. 0(7. 8) 24. 7 22. 3 ± 2. 5 0. 91 ± 0. 06
+非 As 亚组 27(17 / 10) 49. 4 ± 8. 2 3. 0(5. 5) 14. 8 22. 6 ± 2. 3 0. 89 ± 0. 05
+亚临床 As 亚组 58(39 / 19) 61. 7 ± 10. 1b 5. 0(8. 8) a 29. 3 22. 1 ± 2. 6 0. 93 ± 0. 07a
+糖尿病合并 MS 组 130(74 / 56) 57. 0 ± 11. 3 4. 0(7. 3) 23. 1 26. 0 ± 2. 9d 0. 96 ± 0. 06d
+非 As 亚组 43(27 / 16) 49. 3 ± 10. 9 1. 0(3. 8) 18. 6 26. 6 ± 3. 0 0. 95 ± 0. 05
+亚临床 As 亚组 87(47 / 40) 60. 7 ± 9. 4b 5. 0(8. 0) b 25. 3 25. 7 ± 2. 9 0. 96 ± 0. 06
+组别 例数(男 / 女) 收缩压(mm Hg)
+舒张压
+(mm Hg) MBL
+e PAI-1e hs-CRP(mg / L)
+单纯糖尿病组 85(56 / 29)   130(24)   80(13) 1. 90 ± 0. 79 1. 66 ± 0. 16  1. 98 ± 0. 65
+非 As 亚组 27(17 / 10)   120(13)   78(6) 1. 75 ± 0. 76 1. 62 ± 0. 17 1. 36 ± 0. 53
+亚临床 As 亚组 58(39 / 19)   130(27) b   80(13) 1. 96 ± 0. 80 1. 67 ± 0. 15 2. 27 ± 0. 46b
+糖尿病合并 MS 组 130(74 / 56)   133(23) c   80(14) c 1. 34 ± 0. 94 1. 75 ± 0. 27 2. 61 ± 1. 13
+非 As 亚组 43(27 / 16)   120(20)   80(12) 1. 33 ± 0. 88 1. 61 ± 0. 15 1. 97 ± 0. 84
+亚临床 As 亚组 87(47 / 40)   140(20) b   80(15) 1. 35 ± 0. 97 1. 83 ± 0. 29b 2. 93 ± 1. 12b
+注:As:动脉粥样硬化;MS:代谢综合征;1 mm Hg = 0. 133 kPa;MBL:甘露糖结合凝集素;PAI-1:纤溶酶原激活物抑制物-1;hs-CRP:超敏 C 反应蛋
+白;e:数据经对数转换;病程、血压用中位数(四分位数间距)表示;与同组非 As 亚组比较,aP<0. 05,bP<0. 01,与单纯糖尿病组比较,cP<0. 05,dP<
+0. 01
+表示,正态分布的两样本均数比较采用 t 或 t忆检验,多因素相
+关分析用非条件 logistic 回归。
+二、 结果
+1. 一般资料及 MBL、PAI-1、hs-CRP 浓度的比较:(1)单纯
+糖尿病组亚临床 As 亚组年龄、糖尿病病程、腰臀比、收缩压、
+hs-CRP 水平均高于非 As 亚组(P<0. 05)。 (2)糖尿病合并 MS
+组中亚临床 As 亚组年龄、糖尿病病程、收缩压、PAI-1、hs-CRP
+水平均高于非 As 亚组(P<0. 05)。 (3)糖尿病合并 As 组体重
+指数、腰臀比、血压、PAI-1、hs-CRP 水平均高于单纯糖尿病组
+(P<0. 05),MBL 低于单纯糖尿病组(P<0. 01,表 1)。
+2. 糖尿病合并 MS 患者多因素分析结果:进入 logistic 逐步
+回归模型的危险因素有 hs-CRP(OR = 2. 941,95% CI 1. 646 ~
+5. 255,P=0. 000)、年龄(OR=1. 099,95% CI 1. 046 ~ 1. 155,P=
+0. 000)及糖尿病病程(OR = 1. 195,95% CI 1. 038 ~ 1. 376,P =
+0. 013)。
+三、 讨论
+Tymen 等[2]报道血清 MBL 水平升高是外表健康男性发生
+冠心病的危险因素,Siezenga 等[3]报道低水平的 MBL 增加心肌
+梗死发生的风险,Vengen 等[4] 报道 2 型糖尿病心血管事件与
+O / O MBL 基因型相关,与血浆 MBL 水平无关,可见 MBL 在 As
+发生、发展中的作用尚不明确。 前期研究发现血浆 MBL 水平 2
+型糖尿病患者显著低于正常对照组[5] ,2 型糖尿病合并 MS 患
+者显著低于非 MS 患者,但无论是否合并 MS,只要出现亚临床
+As,MBL 浓度则呈现升高趋势,大血管病变患者 MBL 水平显著
+升高,因此推测:血浆 MBL 逐渐升高是随着 As 的发生、发展,
+特别大血管并发症晚期,由于斑块破裂、血管阻塞以致组织缺
+氧,大量炎症介质释放诱导 MBL 的合成与分泌增加所致,至于
+早期 MBL 的低水平是否是 As 的危险因素还有待设计前瞻性
+研究进一步证实。 而 MBL 与代谢综合征的关系研究甚少,
+Strack 等[6]研究认为 MBL 浓度在重度肥胖人群(无论是否合
+并代谢综合征)与非肥胖健康对照人群之间差异无统计学意
+义。 而 Fern仳ndez-Real 等[7]报道 MBL 血浆浓度在非糖尿病肥
+胖组显著低于非肥胖组且伴随血浆炎症指标的升高,减肥后
+MBL 水平上升与胰岛素敏感性改善呈正相关。 提示 MBL 对代
+谢通路有影响。
+国外有研究显示 PAI-1 与早期 As 有关[8] ,但本研究发现 2
+型糖尿病合并 MS 患者中亚临床 As 组的 PAI-1 显著高于无亚
+临床 As 者,而 2 型糖尿病无 MS 患者中,亚临床 As 者的 PAI-1
+仅稍高于无亚临床 As 者,差异无统计学意义,因脂肪组织是分
+泌 PAI-1 的重要器官,MS 患者较非 MS 患者有更严重的脂肪堆
+积,故 PAI-1 水平更高,提示 PAI-1 与 MS 关系密切,但在亚临
+床 As 阶段尚无明显变化。
+本研究中 2 型糖尿病合并 MS 组 hs-CRP 水平明显高于 2
+型糖尿病组,与脂肪组织分泌多种炎症因子,刺激肝脏分泌更
+多 CRP 有关。 而且,2 型糖尿病无论是否合并 MS,亚临床 As
+患者血清 hs-CRP 水平均显著高于非亚临床 As 患者。 此外,在
+多因素回归分析中只有 hs-CRP、年龄、糖尿病病程进入回归模
+型,提示 2 型糖尿病合并 MS 患者中,高 hs-CRP、增龄、糖尿病
+病程增加是发生亚临床 As 的独立危险因素。 随着年龄的增
+长,血管自身发生生理变化,同时各项危险因素暴露增加。 糖
+尿病病程可间接反映长期血糖异常的影响。 而 hs-CRP 增高可
+能促使亚临床 As 的发生,而 As 的早期改变又可促使循环中白
+细胞介素-1 和肿瘤坏死因子-α 等炎症因子增加,作用于肝脏
+使 CRP 分泌增加。 因此,CRP 与亚临床 As 可能互为因果。
+综上所述,炎症因子 MBL、hs-CRP、PAI-1 参与了 2 型糖尿
+病合并 MS 患者亚临床 As 的发展,本研究显示了对 2 型糖尿病
+进行早期干预的重要性,同时提示抗炎对防治 As 的意义,但本
+实验是小样本,横断面研究,如能进行大样本,长期动态监测,
+更能了解 As 进程中 MBL、hs-CRP、PAI-1 的变化。

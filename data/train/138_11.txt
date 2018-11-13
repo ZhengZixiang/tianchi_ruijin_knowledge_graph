@@ -1,0 +1,289 @@
+临床研究
+基金项目:贵阳市社区居民代谢综合征及其各组分流行病学调查
+(2010)筑科农合同第 1-社-27 号;碘过量地区贵阳市自身免疫性甲状腺
+疾病发病流行病学调查筑科农合同(201303)25 号
+尿酸与代谢综合征及其组分的相关性分析
+胡颖  时立新  张巧  彭年春  王兴霞
+[摘要]   目的  探讨血清尿酸与代谢综合征(MS)及其组分的相关关系。 方法 2009 年 10 月至 2010
+年 2 月采用分层整群抽样方法调查贵阳市城区宅吉社区 20 岁及以上常住居民共 1 512 人(男性 634 人,女
+性 878 人),详细填写流行病学调查问卷,口服 75 g 葡萄糖耐量试验,测量身高、体重、腰围及血压,采集静
+脉血样测定尿酸、空腹血糖、餐后 2 h 血糖、甘油三酯(TG)、总胆固醇(TC)、高密度脂蛋白胆固醇、低密度
+脂蛋白胆固醇和空腹胰岛素。 结果 (1)年龄、体重指数(BMI)、腰围、TG、TC、收缩压、舒张压水平和稳态
+模型评估的胰岛素抵抗指数(HOMA-IR)随尿酸分组的增高而增高(P<0. 05);(2)尿酸水平与 MS 的患病
+风险呈正相关(P<0. 05),经过年龄、性别、BMI、腰臀比和 HOMA-IR 校正后,尿酸最高四分位数的人群比最
+低四分位数人群的 MS 患病风险增加(OR=2. 86,95% CI 1. 70 ~ 4. 84,P<0. 05),这种相关性在女性人群中
+更明显(OR=2. 80, 95% CI 1. 51 ~ 5. 17, P<0. 05);(3)经过年龄、性别、BMI、腰臀比和 HOMA-IR 校正后,尿
+酸与腰围(OR=1. 76,95% CI 0. 95 ~ 3. 27,P<0. 05)、血压(OR = 1. 66, 95% CI 1. 13 ~ 2. 43, P<0. 05)和 TG
+(OR=2. 80,95% CI 1. 97 ~ 3. 96, P<0. 05)呈正相关。 结论 MS 患病率随着尿酸增高而升高,尿酸升高可
+能是 MS 的独立危险因素。
+[关键词]   尿酸; 代谢综合征
+Association of serum uric acid with metabolic syndrome and its components Hu Ying, Shi Lixin, Zhang Qiao,
+Peng Nianchun,Wang Xingxia. Department of Endocrinology Affiliated Hospital of Guiyang Medical College, Guiyang
+550004, China
+[Abstract]  Objective  To explore the association of serum uric acid(UA) with metabolic syndrome (MS)
+and its components. Methods A total of 1 512 inhabitants aged 20 years old and above in Zhaiji community of
+Guiyang urban areas were investigated from November 2009 to February 2010 by adopting stratified cluster sampling
+method(634 males and 878 females) . All subjects were asked to fulfill the questionnaires and to measure the height,
+weight, waist circumstance (WC), and blood pressure; and to undertake oral glucose tolerance test. Venous blood
+samples were drawn to measure UA, fasting plasma glucose, 2 h postprandial plasma glucose, triglyceride(TG), total
+cholesterol, high density lipoprotein cholesterol, low density lipoprotein cholesterol, and fasting insulin. Results
+(1) Age, body mass index ( BMI), WC, TG, and blood pressure, and homeostasis model assessment of insulin
+resistance (HOMA-IR) increased with UA(all P<0. 05) . (2) UA was positively associated with the risk of MS(P<
+0. 05) . After adjusting for age, sex, BMI, waist-to-hip ratio (WHR), and HOMA-IR, the risk of MS in individuals
+with the highest uric acid quartiles was significantly increased compared to those with the lowest quartile (OR=2. 86,
+95 % CI 1. 70-4. 84, P<0. 05), and this finding was especially evident in females(OR= 2. 80, 95% CI 1. 51-5. 17,
+P<0. 05) . (3) UA was strongly related to WC(OR= 1. 76, 95% CI 0. 95-3. 27, P<0. 05), blood pressure(OR =
+1. 66, 95% CI 1. 13-2. 43, P<0. 05), and TG(OR=2. 80, 95% CI 1. 97-3. 96, P<0. 05) after adjustment for age,
+sex, BMI, WHR, and HOMA-IR. Conclusion The prevalence of MS increased with UA. Higher UA level may be
+an independent risk factor for MS.
+[Key words]  Uric acid; Metabolic syndrome
+(Chin J Endocrinol Metab, 2014, 30: 765-768)
+代谢综合征(MS)是一组以中心性肥胖、高血糖、
+血脂异常以及高血压等聚集发病并严重影响机体健康
+的临床症候群,MS 患者心血管疾病发生风险及死亡率
+增高 3 倍,发生糖尿病风险增加 5 倍[1],但目前 MS 及
+其各个组分复杂的发病机制尚未完全明了,而中心性
+肥胖与胰岛素抵抗则被公认是重要的致病因素。 近期
+许多研究均表明,高尿酸血症作为动脉粥样硬化及冠
+心病的独立危险因素与 MS 的许多组分如肥胖、血脂
+异常、高血压、冠心病及胰岛素抵抗等密切相关[2],所
+以将尿酸作为 MS 的危险因素进行研究是近年研究的
+热点。 本文旨在通过流行病学所获 1 512 人群资料探
+讨尿酸水平与 MS 及其各组分之间的关系。
+对象和方法
+一、 对象
+采用整群随机抽样方法调查贵阳市宅吉区居住
+10 年及以上者共 1 512 人,年龄在 20 ~ 79 岁之间,其
+中男性 634 人,女性 878 人。
+二、 方法
+1. 样本采集:所有同意参加本次调查的居民需签
+订知情同意书,提前告知所有参加的居民检查当天空
+腹,空腹即 8 ~ 10 h 内无任何热量摄入。 研究方案经
+本院伦理委员会审核同意,每位参与者均签署知情同
+意书、使用统一设计的问卷调查表,由经过培训的专业
+医师按照调查表详细询问病史,调查表内容包括姓名、
+育程度、职业、生育情况、医疗保险等一般情况,有无糖
+尿病史、血脂异常病史、高血压病史以及相关治疗情况
+等。 参加者穿贴身衣服、脱鞋的情况下测量身高、体
+重、腰围和血压。 所有受试者进行 75 g 口服葡萄糖耐
+量试验,测定空腹血糖(FPG)及餐后 2 h 血糖。 空腹
+测定尿酸、甘油三酯(TG)、总胆固醇(TC)、低密度脂
+蛋白胆固醇(LDL-C)、高密度脂蛋白胆固醇(HDL-C)
+和胰岛素(FINS)。 体重指数(BMI)= 体重(kg) /身高2
+(m2),腰臀比 =腰围 /臀围。 稳态模型评估的胰岛素
+抵抗 指 数 ( HOMA-IR ) = FPG ( mmol / L ) × FINS
+(mIU / L) / 22. 5。
+2. 实验室检测:血浆葡萄糖浓度采用葡萄糖氧化
+酶法测定,血清 TG 采用磷酸甘油氧化酶法测定,血清
+HDL-C、LDL-C 采用中均相测定法测定,尿酸采用尿酸
+酶-过氧化物酶偶联法测定,血清 TC 采用酶试剂法测
+定(Bayer ADVIA 1650 高速全自动生化分析仪,德国西
+门子),FINS 采用化学发光法测定(ADVIA Centaur XP
+全自动免疫分析仪,德国西门子),血标本分离后当天
+送检。
+3. 诊断标准及分组:(1) 男女尿酸水平按照四分
+位数分为 Q1 ~ Q4 组:女性为≤248. 0、248. 1 ~ 282. 6、
+282. 7 ~ 330. 4 和≥330. 5 μmol / L;男性为≤325. 7、
+325. 8 ~ 376. 3、376. 4 ~ 425. 2 和≥425. 3 μmol / L。
+(2) 采用 2005 年国际糖尿病联盟( IDF) MS 诊断标
+准[3]:在符合中心性肥胖标准基础上(腹围:男性≥90
+cm,女性≥80 cm),合并以下 4 个指标中的任意 2 项:
+淤TG 水平升高≥1. 7 mmol / L,或已接受相应治疗;于
+HDL-C 水平降低:男性 < 1. 03 mmol / L,女性 < 1. 29
+mmoL / L,或已接受相应治疗;盂血压升高:收缩压≥
+130 mmHg(1 mmHg=0. 133 kPa)或舒张压≥85 mmHg,
+或已接受相应治疗或此前已诊断高血压;④FPG 升高:
+FPG≥5. 6 mmol / L,或已接受相应治疗或此前已诊断 2
+型糖尿病。
+三、 统计学处理
+所有数据均输入 Excel 表,应用 SPSS 20. 0 软件进
+行统计学分析,计量资料用 x-± s 表示,两组以上均数组
+间比较用单因素方差分析;率的比较用 字2 检验;相关
+性用 logistic 回归分析;以 P<0. 05 为差异有统计学意
+义。
+结    果
+一、 人群一般情况分析
+1 512 人入组,其中男性 634 人(占 41. 9% ),女性
+878 人(占 58. 1% ),男女比例 1 : 1. 34,平均年龄为
+(45. 22 ±14. 75)岁。 尿酸平均数为(327. 64 ± 83. 36)
+μmol / L,其中男性 (377. 83 ± 77. 97 ) μmol / L,女性
+(291. 39 ± 66. 69)μmol / L,MS 患病率 29. 8% ,其中男
+性 26. 5% 、女性 32. 0% ;糖尿病、高血压、血脂异常的
+患病率分别是 13. 0% 、19. 4% 、49. 2% 。
+二、 不同尿酸水平与 MS 及其各组分的关系
+按照尿酸四分位数平均分为 Q1 ~ Q4 组,年龄、
+BMI、腰围、TG、TC、收缩压、舒张压和 HOMA-IR 水平
+随尿酸的增高而增高(P<0. 05,表 1)。 随着尿酸水平
+的增加,Q1 ~ Q4 组的 MS 患病率逐渐增高,分别为
+15. 1% 、23. 2% 、28. 2% 、51. 7% ,趋势有统计学意义
+(P<0. 05);尿酸水平与 MS 的患病率呈正相关,尿酸
+最高四分位数人群比最低四分位数人群 MS 患病风险
+高(OR=6. 02,95% CI 4. 25 ~ 8. 51,P<0. 05),经年龄、
+性别校正后,MS 的患病风险仍增高(OR = 5. 39, 95%
+CI 3. 78 ~ 7. 68,P<0. 05),经年龄、性别、BMI、腰臀比
+和 HOMA-IR 校正后,MS 的患病风险仍增高 (OR =
+2. 86,95% CI 1. 70 ~ 4. 84,P<0. 05),这种关系在女性
+人群中更明显,女性尿酸最高四分位数人群比最低四
+分位数人群 MS 患病风险高 ( OR = 6. 67, 95% CI
+4. 33 ~ 10. 56, P<0. 05),经年龄、性别校正后,MS 患病
+风险仍增高 (OR = 5. 33,95% CI 3. 49 ~ 8. 48, P <
+0. 05),经年龄、性别、BMI、腰臀比和 HOMA-IR 校正
+后,尿酸与 MS 的患病风险仍增高(OR = 2. 80,95% CI
+1. 51 ~ 5. 17,P<0. 05);而男性人群中最高四分位数人
+群比最低四分位数人群 MS 患病风险高(OR = 5. 19,
+95% CI 2. 98 ~ 9. 05,P<0. 05),经年龄、性别校正后,
+MS 患病风险仍增高(OR=5. 10, 95% CI 2. 92 ~ 8. 91,
+P<0. 05),经年龄、性别、BMI、腰臀比和 HOMA-IR 校
+正后,尿酸与 MS 的患病风险无明显相关性 (OR =
+1. 90,95% CI 0. 86 ~ 4. 23,P>0. 05,表 2)。
+表 1  血尿酸浓度的四分位数研究人群的临床特征(x-± s)
+Tab 1  Characteristics of study population according to quartiles of serum uric acid concentration(x-± s)
+组别
+Group
+例数
+n
+女性
+Female
+n(% )
+年龄
+(岁)
+Age
+(year)
+BMI
+(kg / m2)
+WC
+(cm) WHR
+SBP
+(mmHg)
+DBP
+(mmHg)
+Q1 377 219(58. 1) 43. 0 ± 13. 2 22. 3 ± 3. 1 78. 0 ± 9. 1 0. 84 ± 0. 06 113 ± 18 74 ± 11
+Q2 379 220(58. 0) 44. 1 ± 14. 3 23. 1 ± 3. 4 78. 0 ± 9. 1 0. 85 ± 0. 06 115 ± 18 75 ± 11
+Q3 379 220(58. 0) 45. 0 ± 15. 2 23. 8 ± 3. 4 81. 5 ± 8. 9 0. 86 ± 0. 06 117 ± 19 77 ± 11
+Q4 377 219(58. 1) 48. 7 ± 15. 7 25. 6 ± 3. 5 86. 7 ± 9. 4 0. 88 ± 0. 06 126 ± 21 81 ± 12
+P  <0. 001 <0. 001 <0. 001 <0. 001 <0. 001 <0. 001
+组别
+Group
+例数
+n
+FBG
+(mmol / L)
+TG
+(mmol / L)
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L) HOMA-IR
+Q1 377 6. 18 ± 2. 49 1. 43 ± 1. 04 4. 74 ± 0. 91 1. 23 ± 0. 32 2. 86 ± 0. 75 2. 22 ± 2. 07
+Q2 379 5. 91 ± 1. 52 1. 58 ± 1. 07 4. 85 ± 0. 89 1. 22 ± 0. 32 2. 91 ± 0. 79 2. 29 ± 1. 59
+Q3 379 6. 00 ± 1. 54 1. 87 ± 1. 71 4. 89 ± 0. 89 1. 21 ± 0. 37 2. 89 ± 0. 77 2. 70 ± 1. 85
+Q4 377 6. 10 ± 1. 31 2. 32 ± 1. 80 5. 09 ± 0. 91 1. 19 ± 0. 33 2. 93 ± 0. 80 3. 19 ± 1. 98
+P  0. 166 <0. 001 <0. 001 0. 376 0. 680 <0. 001
+注:男女尿酸水平按照四分位数分别分为 Q1 ~ Q4 组:女性≤248. 0、248. 1 ~ 282. 6、282. 7 ~ 330. 4、≥330. 5 μmol / L,男性≤325. 7、325. 8 ~ 376. 3、
+376. 4 ~ 425. 2、≥425. 3 μmol / L Serum uric acid levels in male and female were divided into 4 groups according to quartile: female≤248. 0,248. 1-282. 6,282. 7-
+330. 4,≥330. 5 μmol / L,male≤325. 7,325. 8-376. 3,376. 4-425. 2,≥425. 3 μmol / L;BMI:体重指数 Body mass index;WC:腰围 Waist circumference;WHR:
+腰臀比 Waist to hip ratio;SBP:收缩压 Systolic blood pressure;1 mmHg = 0. 133 kPa;DBP:舒张压 Diastolic blood pressure;FBG:空腹血糖 Fasting blood
+glucose;TG:甘油三酯 Triglyceride;TC:总胆固醇 Total cholesterol;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein cholesterol;LDL-C:低密度脂蛋白
+胆固醇 Low density lipoprotein cholesterol;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment insulin resistant index
+表 2  校正变量后血清尿酸水平与代谢综合征的比值比及其 95% CI
+Tab 2  OR and 95% CI of metabolic syndrome associated with quartiles of serum uric acid concentration
+组别
+Group
+TT(n=1 512) F(n=878)
+MS
+n(% )
+单变量模型
+Univariate model
+模型 1
+Model 1
+模型 2
+Model 1
+MS
+n(% )
+单变量模型
+Univariate model
+Q1 57(15. 1) 1. 00 1. 00 1. 00 36(16. 4) 1. 00
+Q2 88(23. 2) 1. 70(1. 17-2. 46) 1. 65(1. 14-2. 41) 1. 60(0. 93-2. 75) 51(23. 2) 1. 53(0. 95-2. 47)
+Q3 107(28. 2) 2. 21(1. 54-3. 17) 2. 09(1. 45-3. 02) 1. 72(1. 01-2. 93) 69(31. 4) 2. 32(1. 47-3. 67)
+Q4 195(51. 7) 6. 02(4. 25-8. 51) 5. 39(3. 78-7. 68) 2. 86(1. 70-4. 84) 125(57. 1) 6. 67(4. 33-10. 56)
+P  <0. 001 <0. 001 0. 001 <0. 001
+组别
+Group
+F(n=878) M(n=634)
+模型 1
+Model 1
+模型 2
+Model 1
+MS
+n(% )
+单变量模型
+Univariate model
+模型 1
+Model 1
+模型 2
+Model 1
+Q1 1. 00 1. 00 21(13. 3) 1. 00 1. 00 1. 00
+Q2 1. 46(0. 89-2. 38) 1. 33(0. 70-2. 55) 37(23. 3) 1. 98(1. 10-2. 47) 1. 97(1. 09-3. 55) 1. 45(0. 64-3. 28)
+Q3 1. 99(1. 24-3. 21) 1. 67(0. 89-3. 12) 38(23. 9) 2. 05(1. 14-3. 68) 2. 07(1. 15-3. 73) 1. 28(0. 56-2. 91)
+Q4 5. 33(3. 49-8. 48) 2. 80(1. 51-5. 17) 70(44. 3) 5. 19(2. 98-9. 05) 5. 10(2. 92-8. 91) 1. 90(0. 86-4. 23)
+P  <0. 001 0. 006 <0. 001 <0. 001 0. 404
+注:TT:总数 Total;F:女性 Female;M:男性 Male;分组同表 1 The groups are the same as Tab 1;模型 1 校正年龄、性别 Age and gender are adjusted in
+model 1;模型 2 校正年龄、性别、体重指数、腰臀比、HOMA-IR 及 MS 各组分 Age, gender, body mass index, waist to hip ratio, homeostasis model assessment
+insulin resistant index, and components of metabolic syndrome are adjusted in model 2
+三、 尿酸与 MS 组分的相关性
+尿酸与腰围(OR = 5. 60,95% CI 4. 08 ~ 7. 69, P<
+0. 05)、血压(OR=3. 59,95% CI 2. 63 ~ 4. 89,P<0. 05)
+和 TG(OR=1. 64, 95% CI 3. 38 ~ 6. 36,P<0. 05)呈正
+相关,经年龄、性别、BMI、腰臀比和 HOMA-IR 校正后,
+尿酸与腰围 (OR = 1. 76, 95% CI 0. 95 ~ 3. 27,P <
+0. 05)、血压(OR=1. 66,95% CI 1. 13 ~ 2. 43,P<0. 05)
+和 TG(OR=2. 80, 95% CI 1. 97 ~ 3. 96, P<0. 05)仍呈
+正相关,与血糖、HDL-C 无关(P>0. 05)。
+讨    论
+MS 是一组严重危害人类健康的疾病群,包含了肥
+胖、糖调节受损或糖尿病、高血压、血脂异常等,它的每
+一个组分都是发生心血管病变的危险因素。 MS 在美
+国的患病率为 27% [4],顾东风等[5] 调查 2000 年至
+2001 年我国成年人 MS 的患病率(2005 IDF),年龄标
+化后南方总患病率 11. 1% 、男女患病率分别为 10. 0%
+和 14. 7% ,城市患病率 23. 5% 。 本研究采用 2005 年
+IDF 的 MS 诊断标准,纳入人群总患病率为 29. 8% ,
+男、女性患病率分别是 26. 5% 、32. 0% ,提示应加强本
+市 MS 的防治。
+本研究观察到年龄、BMI、腰围、TG、TC、血压和
+HOMA-IR 随尿酸分组的增高而增高;随着尿酸水平的
+增加,MS 患病风险也逐渐增高,血清尿酸 Q1 ~ Q4 组
+的 MS 患病率分别是 15. 1% 、23. 2% 、28. 2% 、51. 7% ,
+经年龄、性别、BMI、腰臀比和 HOMA-IR 等混杂因素校
+正后 MS 的患病风险仍与尿酸呈正相关,尿酸水平最
+高四分位数组的 MS 患病风险是最低四分位数组的
+2. 86 倍;经年龄、性别、BMI、腰臀比和 HOMA-IR 校正
+后,尿酸与 MS 组分中腰围、血压和 TG 呈正相关,趋势
+均有统计学意义,说明尿酸可能是 MS 的独立危险因
+素,这与目前一些流行病学的横断面研究和前瞻性研
+究结果一致[6-8]。 目前的一些研究如 Dai 等[7] 结果显
+示无论女性还是男性血清尿酸水平都与 MS 的发生显
+著相关,在校正了各种混杂因素后,这种关系仍然存
+在,女性尿酸与 MS 的关系比男性相关性更强,本研究
+结果显示血清尿酸水平均与 MS 的发生显著相关,在
+校正了各种混杂因素后,这种关系仍然存在,女性尿酸
+与 MS 的关系比男性患者相关性更强,这与目前的一
+些研究结果也相一致[6,7],但是男性在校正了 MS 其他
+组分的影响后,尿酸水平与 MS 之间的关系未达统计
+差异,具体原因不清楚,尚需要进一步研究。
+尿酸影响 MS 发生发展的机制可能是尿酸参与了
+胰岛素抵抗、炎症反应,促进炎症因子释放及脂肪细胞
+因子分泌等[9-11]。 另外,在女性人群中,尿酸水平与
+MS 呈正相关关系更明显,目前认为主要原因可能与女
+性在绝经后性激素水平的变化有关,有关研究显示绝
+经后的女性高尿酸血症及心血管疾病的风险显著增
+加[12],在一项白人妇女的调查中显示,性激素水平与
+MS 的发生发展相关[13]。 但是,目前性别与 MS 之间
+的关系还有待进一步研究。
+总之,本研究通过对不同尿酸水平与 MS 及其组
+分相关性的横断面分析,显示随着尿酸增高 MS 患病
+率升高,尿酸升高可能是 MS 的独立危险因素,故重视
+不同性别、不同年龄患者的尿酸水平的监测对诊断及
+治疗 MS 有重要的临床指导意义。

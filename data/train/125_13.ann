@@ -1,0 +1,226 @@
+T1	Test 210 215	HDL-C
+T2	Test 270 275	HDL-C
+T3	Test 1157 1162	HDL-C
+T4	Test 1374 1379	HDL-C
+T5	Test 2795 2800	HDL-C
+T6	Test 2987 2992	HDL-C
+T7	Test 3012 3017	HDL-C
+T8	Test 3834 3839	HDL-C
+T9	Test 4441 4446	HDL-C
+T10	Test 4716 4721	HDL-C
+T11	Test 4844 4849	HDL-C
+T12	Test 5051 5056	HDL-C
+T13	Test 5118 5123	HDL-C
+T14	Test 5820 5825	HDL-C
+T15	Test 6106 6111	HDL-C
+T16	Test 6162 6167	HDL-C
+T17	Test 6195 6200	HDL-C
+T18	Test 6420 6425	HDL-C
+T19	Test 193 198	LDL-C
+T20	Test 259 264	LDL-C
+T21	Test 1105 1110	LDL-C
+T22	Test 1359 1364	LDL-C
+T23	Test 2728 2733	LDL-C
+T24	Test 2953 2958	LDL-C
+T25	Test 2978 2983	LDL-C
+T26	Test 3842 3847	LDL-C
+T27	Test 4297 4302	LDL-C
+T28	Test 4535 4540	LDL-C
+T29	Test 4609 4614	LDL-C
+T30	Test 4832 4837	LDL-C
+T31	Test 5042 5047	LDL-C
+T32	Test 5107 5112	LDL-C
+T33	Test 5772 5777	LDL-C
+T34	Test 6385 6390	LDL-C
+T35	Test 2802 2806	空腹血糖
+T36	Test 3067 3071	空腹血糖
+T37	Test 200 209	高密度脂蛋白胆固醇
+T38	Test 183 192	低密度脂蛋白胆固醇
+T39	Test 2678 2687	低密度脂蛋白胆固醇
+T40	Test 178 182	总胆固醇
+T41	Test 250 254	总胆固醇
+T42	Test 2894 2898	总胆固醇
+T43	Test 2916 2920	总胆固醇
+T44	Test 3829 3833	总胆固醇
+T45	Test 4288 4292	总胆固醇
+T46	Test 4432 4436	总胆固醇
+T47	Test 4600 4604	总胆固醇
+T48	Test 4823 4827	总胆固醇
+T49	Test 5035 5039	总胆固醇
+T50	Test 5098 5102	总胆固醇
+T51	Test 5727 5731	总胆固醇
+T52	Test 6375 6376;6377 6380	总 胆固醇
+T53	Test 3177 3181	体重指数
+T54	Test 3200 3201;3202 3205	体 重指数
+T55	Test 3222 3226	体重指数
+T56	Test 3104 3107	收缩压
+T57	Test 3142 3145	舒张压
+T58	Test 3248 3251	腰臀比
+T59	Test 5706 5709	腰臀比
+T60	Test 2577 2579	腰围
+T61	Test 3252 3254	腰围
+T62	Test 2580 2582	臀围
+T63	Test 3256 3258	臀围
+T64	Disease 2048 2054	动脉粥样硬化
+T65	Test 173 177	甘油三酯
+T66	Test 2673 2677	甘油三酯
+T67	Test 2924 2928	甘油三酯
+T68	Test 3823 3824;3825 3828	甘 油三酯
+T69	Test 5090 5094	甘油三酯
+T70	Test 6206 6210	甘油三酯
+T71	Test 2571 2573	身高
+T72	Test 3191 3193	身高
+T73	Test 2574 2576	体重
+T74	Test 3183 3185	体重
+T75	Disease 6833 6838	心血管疾病
+T76	Disease 64 68	血脂异常
+T77	Disease 323 327	血脂异常
+T78	Disease 516 520	血脂异常
+T79	Disease 607 610;611 612	血脂异 常
+T80	Disease 633 637	血脂异常
+T81	Disease 2038 2042	血脂异常
+T82	Disease 2097 2101	血脂异常
+T83	Disease 2199 2203	血脂异常
+T84	Disease 2363 2367	血脂异常
+T85	Disease 2867 2871	血脂异常
+T86	Disease 2882 2883;2884 2887	血 脂异常
+T87	Disease 3038 3041;3042 3043	血脂异 常
+T88	Disease 3933 3937	血脂异常
+T89	Disease 3953 3957	血脂异常
+T90	Disease 3970 3974	血脂异常
+T91	Disease 4180 4184	血脂异常
+T92	Disease 4778 4782	血脂异常
+T93	Disease 5935 5939	血脂异常
+T94	Disease 6180 6183;6184 6185	血脂异 常
+T95	Disease 6216 6220	血脂异常
+T96	Disease 6265 6269	血脂异常
+T97	Disease 6314 6318	血脂异常
+T98	Disease 6557 6561	血脂异常
+T99	Disease 6576 6580	血脂异常
+T100	Disease 6676 6680	血脂异常
+T101	Disease 6708 6712	血脂异常
+T102	Disease 6816 6820	血脂异常
+T103	Test 2667 2670;2671 2672	总胆固 醇
+T104	Reason 437 438;439 440	超 重
+T105	Reason 476 480	腹型肥胖
+T106	Reason 2030 2036	血脂代谢紊乱
+T107	Test 2132 2134	血脂
+T108	Test 2568 2570	血压
+T109	Test 2583 2585	腹围
+T110	Test_Value 2898 2913	≥6. 22 mmol / L
+T111	Test_Value 2928 2943	≥2. 26 mmol / L
+T112	Test_Value 2958 2959;2960 2974	≥ 4. 14 mmol / L
+T113	Test_Value 2992 3008	< 1. 04 mmol / L
+T114	Test 3023 3025	血脂
+T115	Disease 3052 3055	糖尿病
+T116	Disease 3056 3059	高血压
+T117	Disease 3061 3064	糖尿病
+T118	Test_Value 3071 3076;3077 3085	≥7. 0 mmol / L
+T119	Disease 3089 3092	糖尿病
+T120	Disease 3098 3101	高血压
+T121	Test_Value 3107 3117	≥140 mm Hg
+T122	Test_Value 3145 3154	≥90 mm Hg
+T123	Disease 3158 3160;3161 3162	高血 压
+T124	Disease 3171 3173	超重
+T125	Disease 3174 3176	肥胖
+T126	Test_Value 3205 3216	≥24 kg / m2
+T127	Disease 3219 3221	超重
+T128	Test_Value 3226 3237	≥28 kg / m2
+T129	Disease 3240 3241;3242 3243	肥 胖
+T130	Test 3261 3263	腹围
+T131	Test_Value 3263 3269	≥90 cm
+T132	Test 3272 3274	腹围
+T133	Test_Value 3274 3280	≥80 cm
+T134	Disease 3284 3288	腹型肥胖
+T135	Test_Value 3857 3864;3865 3870	1. 31 ± 1. 00
+T136	Test_Value 3873 3886	4. 44 ± 1. 20
+T137	Test_Value 3889 3902	1. 16 ± 0. 32
+T138	Test_Value 3905 3918	2. 44 ± 0. 81
+T139	Test 4258 4260	血脂
+T140	Reason 5007 5009	单身
+T141	Reason 5010 5012	超重
+T142	Reason 5013 5015	腹型
+T143	Disease 5664 5666	肥胖
+T144	Reason 5700 5702	超重
+T145	Reason 5703 5705	肥胖
+T146	Reason 5710 5714	腹型肥胖
+T147	Reason 5739 5741	年龄
+T148	Reason 5746 5748	肥胖
+T149	Reason 5750 5754	腹型肥胖
+T150	Reason 5787 5789	年龄
+T151	Reason 5790 5794	腹型肥胖
+T152	Reason 5795 5797	超重
+T153	Reason 5798 5804	内脏类摄入多
+T154	Reason 5834 5836	单身
+T155	Reason 5837 5841	腹型肥胖
+T156	Reason 5843 5845	面食
+T157	Disease 5870 5876	心脑血管疾病
+T158	Reason 5883 5887	先天因素
+T159	Reason 5889 5893	饮食习惯
+T160	Reason 5894 5898	生活行为
+T161	Test 6070 6074	血脂指标
+T162	Test 6250 6252	血脂
+T163	Reason 6326 6328	单身
+T164	Reason 6329 6331	超重
+T165	Reason 6332 6336	腹型肥胖
+T166	Reason 6352 6354	超重
+T167	Reason 6355 6359	腹型肥胖
+T168	Test 6465 6467	血脂
+T169	Disease 6489 6492	高血压
+T170	Disease 6501 6504	糖尿病
+T171	Disease 6510 6511;6512 6513	超 重
+T172	Disease 6514 6516	肥胖
+T173	Disease 6522 6526	腹型肥胖
+T174	Test 6531 6533	血脂
+T175	Reason 6554 6556	单身
+T176	Reason 6671 6673	单身
+T177	Disease 6753 6754;6755 6758	超 重肥胖
+T178	Disease 6759 6762	高血压
+T179	Disease 6763 6766	糖尿病
+T180	Disease 241 248	高甘油三酯血症
+T181	Disease 2945 2952	高甘油三酯血症
+T182	Disease 4279 4286	高甘油三酯血症
+T183	Disease 4423 4430	高甘油三酯血症
+T184	Disease 4590 4593;4594 4598	高甘油 三酯血症
+T185	Disease 4814 4821	高甘油三酯血症
+T186	Disease 5028 5033	高甘油三酯
+T187	Disease 5682 5689	高甘油三酯血症
+T188	Disease 6410 6417	高甘油三酯血症
+T189	Disease 4306 4312;4313 4317	低 HDL- C 血症
+T190	Disease 223 228	总血脂异常
+T191	Disease 3386 3390	血脂异常
+T192	Disease 3439 3443	血脂异常
+T193	Disease 4808 4813	总血脂异常
+T194	Disease 4996 5001	总血脂异常
+T195	Reason 5863 5867	血脂异常
+T196	Disease 6748 6752	血脂异常
+T197	Reason 5696 5699	高血糖
+T198	Reason 5742 5745	高血糖
+T199	Test 323 325	血脂
+T200	Disease 249 256	高总胆固醇血症
+T201	Disease 257 267	高 LDL-C 血症
+T202	Disease 268 278	低 HDL-C 血症
+T203	Disease 2915 2920;2921 2923	高总胆固醇 血症
+T204	Disease 2976 2986	高 LDL-C 血症
+T205	Disease 3010 3011;3012 3020	低 HDL-C 血症
+T206	Disease 4287 4294	高总胆固醇血症
+T207	Disease 4295 4305	高 LDL-C 血症
+T208	Disease 4431 4438	高总胆固醇血症
+T209	Disease 4439 4446;4447 4449	低 HDL-C 血症
+T210	Disease 4533 4543	高 LDL-C 血症
+T211	Disease 4599 4606	高总胆固醇血症
+T212	Disease 4607 4617	高 LDL-C 血症
+T213	Disease 4714 4724	低 HDL-C 血症
+T214	Disease 4822 4829	高总胆固醇血症
+T215	Disease 4830 4839;4840 4841	高 LDL-C 血 症
+T216	Disease 4842 4852	低 HDL-C 血症
+T217	Disease 5034 5039	高总胆固醇
+T218	Disease 5040 5047	高 LDL-C
+T219	Disease 5049 5059	低 HDL-C 血症
+T220	Disease 5726 5733	高总胆固醇血症
+T221	Reason 5770 5780	高 LDL-C 血症
+T222	Disease 5818 5828	低 HDL-C 血症
+T223	Disease 6104 6114	低 HDL-C 血症
+T224	Disease 6160 6170	低 HDL-C 血症
+T225	Disease 6374 6376;6377 6382	高总 胆固醇血症
+T226	Disease 6418 6428	低 HDL-C 血症

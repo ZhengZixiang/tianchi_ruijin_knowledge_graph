@@ -1,0 +1,259 @@
+临床研究
+基金项目:国家自然科学基金项目(81170731)
+分泌研究所,内分泌疾病重点实验室(郭慧玲、李玉姝、单忠艳、滕卫平、
+关海霞);沈阳市妇婴医院妇产科(李晨阳);沈阳市第一人民医院内分
+泌科(桑淼)
+血清瘦素水平与产后甲状腺炎相关性的病例
+对照研究
+郭慧玲  李晨阳  李玉姝  桑淼  单忠艳  滕卫平  关海霞
+[摘要]   目的  研究产后 1 年内血清瘦素水平的变化与产后甲状腺炎(PPT)发生的关系。 方法 以
+57 例 PPT 患者(临床 PPT 34 例,亚临床 PPT 23 例)为病例组,37 名健康产后女性为对照组。 收集其产后 3
+d 和 3、6、12 个月的血清标本,采用放射免疫分析法测定瘦素水平。 结果 与对照组相比,病例组在产后 1
+年内保持较高水平的瘦素和瘦素 /体重指数(LEP / BMI)比值,差异具有统计学意义(P<0. 05 或 P<0. 01)。
+临床 PPT 患者和亚临床 PPT 患者相比,产后 1 年内各时间点的瘦素和 LEP / BMI 比值差异无统计学意义。
+病例组瘦素和 LEP / BMI 比值与 TSH 呈负相关,与 FT3和 FT4呈正相关。 结论 产后 1 年内持续较高水平的
+瘦素可能与 PPT 的发生有关,需要进一步的研究来阐明瘦素在 PPT 发生中的作用。
+[关键词]   瘦素; 产后甲状腺炎; 自身免疫性甲状腺疾病
+Association of serum leptin level with postpartum thyroiditis: A case control study Guo Huiling*, Li
+Chenyang, Li Yushu, Sang Miao, Shan Zhongyan, Teng Weiping, Guan Haixia. *Department of Endocrinology,
+Institute of Endocrinology, key Laboratory of Endocrine Diseases, the First Affiliated Hospital of China Medical
+University, Shenyang 110001, China
+[Abstract]  Objective  To investigate the association of serum leptin(LEP) levels during the first postpartum
+year with the occurrence of postpartum thyroiditis (PPT). Methods Fifty-seven PPT patients consisted of 34 with
+overt PPT and 23 subclinical PPT. 37 healthy postpartum women were used as controls. Serum samples were obtained
+at 4 postpartum date points, i. e. 3-days and 3, 6, 12-months postpartum. LEP level was determined by
+radioimmunoassay. Results Compared with control women, PPT patients were maintaining significantly higher levels
+of LEP and LEP / body mass index(BMI) ratio during the first postpartum year. There was no significant difference in
+serum LEP level or LEP / BMI ratio between overt PPT and subclinical PPT groups. In PPT patients, LEP and
+LEP / BMI ratio were negatively correlated with serum TSH, and positively correlated with serum FT4 and FT3 .
+Conclusion Sustained high levels of serum LEP after delivery may favor the occurrence of PPT. Further studies are
+needed to clarify the specific role played by LEP in PPT.
+[Key words]  Leptin; Postpartum thyroiditis; Autoimmune thyroid disease
+(Chin J Endocrinol Metab, 2014, 30: 31-34)
+产后甲状腺炎(postpartum thyroiditis,PPT)是指妊
+娠前甲状腺功能正常的妇女在产后第 1 年出现甲状腺
+功能异常[1]。 这是生育期妇女最常见的自身免疫性
+甲状腺疾病, 全球范围内报道 的 PPT 发 病 率 为
+1. 1% ~21. 1%不等[2]。 瘦素(leptin)是相对分子量为
+16 000 的脂肪细胞来源的蛋白质,能影响机体的基础
+代谢、血细胞生成、产热、生殖、血管生成和免疫系统反
+应[3]。 在人类,瘦素水平的增高与一些自身免疫性疾
+病有关,比如 1 型糖尿病、类风湿性关节炎和系统性红
+斑狼疮[4]。 然而,鲜有研究关注瘦素在 PPT 发生、发
+展中的作用。 为探讨瘦素与 PPT 的相关性,我们设计
+了这项病例对照研究,检测 PPT 患者和健康女性在产
+后 1 年内 4 个时间点上的血清瘦素水平,并比较了其
+动态变化的差异。
+对象和方法
+一、 对象
+本研究为回顾性病例对照研究。 研究纳入 57 例
+PPT 患者(病例组)和 37 名健康产后女性(对照组),
+所有研究对象均来自之前本课题组进行的 PPT 流行
+病学调查。 PPT 的诊断标准为:妊娠前无甲状腺疾病
+病史,妊娠末期甲状腺功能正常,产后 6 个月内出现促
+甲状腺激素 ( TSH) 异常,促甲状腺激素受体抗体
+(TRAb)阴性。 根据游离三碘甲状腺原氨酸(FT3)和
+(或)游离甲状腺素( FT4 ) 水平是否异常,分为临床
+PPT(O-PPT)和亚临床 PPT(S-PPT) [5]。
+二、 方法
+上述研究对象于产后 3 d 和 3、6、12 个月分别留
+取空腹血样,4 h 内分离血清,-70℃冻存备检。 应用
+固相免疫化学发光酶免法(ICMA)测定血清甲状腺过
+氧化物酶抗体(TPOAb)、甲状腺球蛋白抗体(TgAb)、
+TSH、FT3和 FT4(上述检测试剂盒均购自美国 DPC 公
+司),应用酶联免疫吸附法测定 TRAb(试剂盒购自德
+国 Medipan Diagnostica 公司)。 本研究中 TSH 的正常
+值范围为 0. 3 ~ 4. 8 mU / L,FT3正常值范围为 2. 3 ~ 6. 3
+pmol / L,FT4 正 常 值 范 围 为 10. 3 ~ 24. 5 pmol / L,
+TPOAb> 50 IU / ml 为阳性, TgAb > 40 IU / ml 为阳性,
+TRAb>2 IU / L 为阳性。 应用美国Millipore 公司放射性
+免疫检测试剂测定瘦素,上述检测项目的批间 CV 和
+批内 CV 均<8. 3% 。
+三、 统计学处理
+数据分析采用 SPSS 16. 0 统计软件完成。 计量资
+料的各组数据以 x-± s(正态分布数据)或中位数和范围
+(非正态分布数据)表示,病例组与对照组间的比较采
+用 t 检验;因 TSH、TPOAb、TgAb 和 TRAb 数值分布不
+符合正态分布,统计学检验前先予以对数转化。 计数
+资料以频数和率表示,组间差异比较采用卡方检验。
+相关分析采用 Pearson忆s 相关性分析。 以 P<0. 05 为差
+异有统计学意义。
+结    果
+一、 2 组研究对象的一般情况
+病例组的平均年龄和体重指数 ( BMI) 分别是
+(25. 72 ± 2. 60)岁和(25. 03 ± 0. 49) kg / m2,与对照组
+[(26. 62 ± 3. 71)岁,(25. 06 ± 0. 42) kg / m2]均有可比
+性。 O-PPT 患者的年龄较 S-PPT 患者大 [(26. 63 ±
+2. 14 对 24. 30 ±2. 60)岁,P=0. 005],但 2 组 BMI 水平
+相似[(25. 02 ± 0. 46 对 25. 05 ± 0. 55 ) kg / m2, P >
+0. 05]。
+二、 2 组研究对象产后 1 年内 TSH 和甲状腺激素
+水平的变化和比较
+如表 1 所示,对照组 TSH 水平在产后 3 d 最高,随
+后逐渐降低(与产后 3 d 相比,均 P<0. 05)。 病例组
+TSH 水平在产后 3 d 时与对照组相似;至产后 3 个月
+时,无论是与对照组相比,还是与自身产后 3 d 时相
+比,TSH 水平均明显降低(均 P<0. 05);产后 6 个月
+时,其 TSH 水平明显升高,与对照组和自身产后 3 d 时
+相比,差异均有统计学意义(均 P<0. 05);产后 12 个
+月时降至产后 3 d 的水平。
+病例组 FT3水平在产后 3 个月和 12 个月时,与产
+后 3 d 相比明显增高(均 P<0. 05)。 病例组 FT4水平在
+产后 3 d 最低,至产后 3 个月明显升高(P<0. 01),产
+后 6 个月和 12 个月时虽有下降趋势,但仍高于产后 3
+d(均 P<0. 05)。
+三、 2 组研究对象产后 1 年内瘦素和瘦素 / BMI 比
+值的变化和比较
+如表 1 所示,对照组和病例组在产后 1 年内,瘦素
+水平均没有显著变化。 但与对照组相比,病例组在产
+后 1 年内瘦素一直处于更高水平(均 P<0. 01)。
+由于瘦素水平受体重影响,本研究以瘦素 / BMI 比
+值进行校正,对照组和病例组的瘦素 / BMI 比值变化趋
+表 1  2 组研究对象产后甲状腺功能、瘦素和瘦素 / BMI 比值比较[x-± s,中位数(范围)]
+Tab 1  Comparison of thyroid function, leptin,and leptin / BMI ratio between two groups after delivery[x-± s,M(Range)]
+组别
+Group
+例数
+n
+3 d 3 months
+LEP
+(μg / L)
+LEP / BMI
+TSH
+(mIU / L)
+FT3
+(pmol / L)
+FT4
+(pmol / L)
+LEP
+(μg / L)
+LEP / BMI
+CON 37 6. 98 ± 0. 27 0. 28 ± 0. 01 2. 05(0. 47-4. 68) N / A N / A 7. 34 ± 0. 31 0. 29 ± 0. 01
+PPT 57 8. 60 ± 0. 30b 0. 34 ± 0. 01b 2. 68(0. 71-9. 71) 4. 09 ± 0. 12 13. 28 ± 0. 43 9. 45 ± 0. 38b 0. 38 ± 0. 01b
+组别
+Group
+例数
+n
+3 months 6 months
+TSH
+(mIU / L)
+FT3
+(pmol / L)
+FT4
+(pmol / L)
+LEP
+(μg / L)
+LEP / BMI
+TSH
+(mIU / L)
+FT3
+(pmol / L)
+FT4
+(pmol / L)
+CON 37 1. 51(0. 55-3. 71) d  N / A N / A 7. 00 ± 0. 35 0. 28 ± 0. 01 1. 17(0. 32-4. 73) d N / A N / A
+PPT 57 0. 24(0. 00-75. 0) bd 5. 40 ± 0. 30d 23. 93 ± 1. 3d 8. 45 ± 0. 30b 0. 34 ± 0. 01b 4. 54(0. 00-75. 0) bc 4. 75 ± 0. 23 15. 90 ± 0. 79
+组别
+Group
+例数
+n
+12 months
+LEP
+(μg / L)
+LEP / BMI
+TSH
+(mIU / L)
+FT3
+(pmol / L)
+FT4
+(pmol / L)
+CON 37 6. 94 ± 0. 28 0. 28 ± 0. 01 0. 94(0. 35-3. 02) d N / A N / A
+PPT 57 7. 92 ± 0. 34a 0. 32 ± 0. 01a 2. 25(0. 02-16. 7) b 5. 10 ± 0. 14c 17. 41 ± 0. 4d
+注:BMI:体重指数 Body mass index;CON:对照组 Control group;PPT:产后甲状腺炎组 Postpartum thyroiditis group;LEP:瘦素 Leptin;N / A:未检测 No
+detected;months:月;与对照组相比 vs CON group,aP<0. 05,bP<0. 01;与产后 3 d 相比 vs 3 d after delivery,cP<0. 05,dP<0. 01
+注:LEP:瘦素 Leptin;BMI:体重指数 Body mass index;O-PPT:临床产
+后甲状腺炎 Overt postpartum thyroiditis(n=34); S-PPT:亚临床产后甲状
+腺炎 Subclinical postpartum thyroiditis (n=23); m:月 Month
+图 1  临床 PPT 和亚临床 PPT 患者产后 1 年内 LEP、LEP / BMI 比值的比
+较
+Fig 1 Comparison of LEP and LEP / BMI ratio between overt PPT and
+subclinical PPT patients 1 after delivery
+势和差异比较结果均与瘦素相似。
+四、 O-PPT 和 S-PPT 患者产后 1 年内瘦素和瘦素 /
+BMI 比值的比较
+如图 1 所示,O-PPT 和 S-PPT 患者产后 1 年内的
+瘦素、瘦素 / BMI 比值动态变化趋势相似。 尽管 O-PPT
+患者的瘦素和瘦素 / BMI 比值在产后各时点均比
+S-PPT 患者高,但差异无统计学意义。
+五、 TSH、甲状腺激素、TPOAb 和 TgAb 与瘦素、瘦
+素 / BMI 比值的相关性
+本研究汇总不同产后时间点的数据来分析甲状腺
+功能参数和自身抗体水平与瘦素、瘦素 / BMI 比值的相
+关性。 对照组中,血清 TSH 与瘦素、瘦素 / BMI 比值无
+相关(P> 0. 05)。 但在病例组中,血清 TSH 与瘦素、瘦
+素 / BMI 比值呈负相关 ( r = - 0. 16, P = 0. 018; r =
+-0. 17,P=0. 010);血清 FT4与瘦素、瘦素 / BMI 比值呈
+正相关( r=0. 14,P= 0. 039;r = 0. 14,P = 0. 040);血清
+FT3与瘦素、瘦素 / BMI 比值亦呈正相关( r = 0. 15,P =
+0. 022;r=0. 16,P=0. 016);血清 TPOAb 和 TgAb 水平
+与瘦素、瘦素 / BMI 比值无相关(均 P> 0. 05)。
+讨    论
+2005 年,本课题组在辽宁省沈阳市碘足量地区进
+行了一项流行病学调查,首次报道国内产后女性 PPT
+的发生率为 11. 9% [5,6]。 随后,我们从甲状腺自身抗
+体、TPOAb 的 IgG 亚型和 T 细胞亚群分布等角度,对
+PPT 的发病机制进行了探讨。 上述研究结果表明,
+TPOAb 阳性是 PPT 发生的危险因素,TPOAb 的 IgG 亚
+型对甲状腺受损发挥主要作用[7];CD4+T 细胞亚群的
+减少、CD8+T 细胞功能相对增加和调节性 T 细胞数目
+的减少可能参与 PPT 的发生[8]。
+基于已有研究表明瘦素水平增高与某些自身免疫
+性疾病(如 1 型糖尿病等)相关,因此我们推测产后血
+清瘦素的动态变化可能也参与了 PPT 的发生、发展。
+查阅文献,仅有 Mazziotti 等[9] 的 1 篇报道关注了这个
+问题,该项研究随访了 61 例 TPOAb 阳性和 20 例
+TPOAb 阴性的育龄女性,分别在她们产后 12、16、20
+和 24 周时检测甲状腺功能和血清瘦素水平。 结果发
+现,TPOAb 阳性者中有 52. 4% ( n = 32) 在产后发生
+PPT(PPTD 组),另 29 例维持正常甲状腺功能(PPTE
+组),而 TPOAb 阴性者无 1 例发生 PPT;TPOAb 阳性者
+产后 24 周内的血清瘦素水平明显高于阴性者;PPTD
+组的血清瘦素和瘦素 / BMI 比值在产后持续显著高于
+TPOAb 阴性者;PPTE 组的血清瘦素和瘦素 / BMI 则在
+产后 12 周时明显下降。 为了给此假设提供更多证据,
+本研究纳入 57 例 PPT 患者和 37 名年龄及 BMI 均匹
+配的健康产后女性,测定了她们在产后 1 年内 4 个时
+间点的血清瘦素水平。 结果显示,与健康产后女性相
+比,PPT 患者在产后 1 年内血清瘦素及瘦素 / BMI 比值
+持续处于较高水平,且不受 PPT 严重程度的影响。 本
+研究和 Mazziotti 等的研究共同提示,产后血清瘦素水
+平持续升高是 PPT 发生的重要特征,瘦素可能参与了
+PPT 的发病机制。
+因为由 JAK / STAT 通路介导的瘦素信号转导过程
+必须有下丘脑室旁核促甲状腺激素释放激素(TRH)
+的参与,而 TRH 对于 TSH 和甲状腺激素的正常产生
+是不可缺少的[10],所以有人认为瘦素变化可能是 TSH
+和甲状腺激素变化的结果。 但实际上甲状腺激素水平
+与血清瘦素的关系至今仍有争议,如人群研究表明在
+甲状腺功能减退时血清瘦素水平可低、可高,亦可正
+常[11-14]。 仔细分析本研究得到的数据,尽管在 PPT 患
+者中观察到血清瘦素和瘦素 / BMI 比值与 TSH 和甲状
+腺激素弱相关,但无法用 TSH 和甲状腺激素水平的改
+变和差异作为 PPT 患者产后一直保持较高水平瘦素
+的理由,因为:(1)PPT 患者产后 3 d 时 TSH 和甲状腺
+激素水平与对照组无差异,但 PPT 患者的血清瘦素却
+明显高于对照组;(2) PPT 组在产后 3 个月时 TSH 明
+显降低,6 个月时 TSH 明显升高,但这 2 个时间点的瘦
+素水平均一致高于对照组;(3)O-PPT 患者的血清甲
+状腺激素水平与 S-PPT 患者差异明显,但她们的血清
+瘦素水平并无差异。
+在 PPT 的发病过程中瘦素究竟如何起作用仍不
+清楚。 但我们应该关注这样的事实———即怀孕时机体
+免疫反应由 Th2 主导,但出现 PPT 后机体免疫反应迅
+速转为由 Th1 主导[15]。 根据一些实验性研究,瘦素可
+刺激 Th1 免疫反应,促进 Th1 介导的自身免疫性疾病
+的发生和发展,如 1 型糖尿病[16],此作用是否也能启
+动或促进 PPT 的发生,还有待于进一步的探讨。
+总之,本研究表明与健康女性相比,PPT 患者在产
+后持续存在较高水平的血清瘦素。 这个结果提示瘦素
+可能参与了 PPT 的发病机制,但仍需更多研究来阐明
+瘦素在 PPT 发生中的特异作用。

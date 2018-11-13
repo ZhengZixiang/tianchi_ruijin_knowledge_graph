@@ -1,0 +1,298 @@
+的文章:46,XY 性发育异常的诊断与治疗(2015 年 2 月,第 31 卷,第 2 期,195 页至 198 页)一文,后经文章作者组
+临床研究
+基金项目:上海市科学技术委员会科研计划项目(08411962500);
+上海市卫生和计划生育委员会科研课题计划项目(201440514)
+敏、刘军);上海市道培医院检验科(都昌吉、王引萍)
+桥本甲状腺炎患者外周血调节性 B 淋巴细胞
+和抑制性 T 细胞亚群的免疫改变
+杨敏  都昌吉  王引萍  刘军
+[摘要]   目的  探讨桥本甲状腺炎(HT)患者外周血调节性 B 淋巴细胞(regulatory B cell,Bregs)、抑制
+性 T 细胞(suppressor T cell, Ts)的比例变化。 方法 入组 18 ~ 60 岁桥本甲状腺炎患者 61 例,性别年龄相
+匹配的健康组 38 名。 应用流式细胞技术检测外周血 CD19+CD24+CD27+B 细胞、CD19+CD24hiCD38hiB 细
+胞、CD19+白细胞介素-10+B 细胞及 CD8+CD28-T 细胞比例变化。 结果 与对照组相比,HT 组 CD19+CD24+
+CD27+B 细胞亚群显著升高(P<0. 05)。 随着甲状腺过氧化物酶抗体的升高,CD19+CD24hiCD38hiB 细胞显
+著降低(P<0. 05);随着甲状腺球蛋白抗体(TGAb)的升高 CD8+CD28-T 细胞显著降低(P<0. 05)。 三碘甲
+状腺原氨酸(TT3)与 CD19+CD24hiCD38hiB 细胞则呈显著正相关;甲状腺素(TT4)与 CD8+CD28-T 细胞呈显
+著负相关,与 CD19+CD24+CD27+B 细胞则呈显著正相关(P<0. 05)。 Logistic 回归分析发现,TGAb 和游离甲
+状腺素(FT4)是 CD8+CD28-T 细胞在淋巴细胞中比例降低的独立危险因素(P<0. 05);促甲状腺素(TSH)
+是 CD19+CD24hiCD38hiB 细胞比例降低的独立危险因素,FT4 是 CD19+CD24+CD27+B 细胞比例升高的独立
+危险因素(P<0. 05)。 结论 HT 患者外周血 Ts 显著降低,不同表型的 Bregs 比例变化则不同,甲状腺自身
+抗体和甲状腺功能均与 HT 的免疫改变相关。
+[关键词]   桥本甲状腺炎; 调节性 B 淋巴细胞; 抑制性 T 细胞
+The proportional changes of B regulatory cells and suppressor T cells in peripheral blood of patients with
+Hashimotos忆 thyroiditis Yang min *, Du Changji, Wang Yinping, Liu Jun. *Department of Endocrinology, the
+Fifth People忆s Hospital of Shanghai, Fudan University, Shanghai 200240, China
+[Abstract]  Objective   To explore the proportional changes of regulatory B lymphocyte cells( Bregs) and
+suppressor T lymphocyte cell ( Ts) in the peripheral blood of patients with Hashimotos忆 thyroiditis( HT). Method
+Sixty-one cases of HT and 38 healthy subjects with matched age and gender were recruited. Flow cytometry technology
+was used to detect the proportional changes of CD19+CD24+CD27+B cells, CD19+CD24hiCD38hiB cells, CD19+ IL-
+10+B cells, and CD8+CD28-T cells. Result Compared with control group, CD19+CD24+CD27+B cells in HT group
+increased significantly(P<0. 05) . With the increase of thyroid peroxidase antibody, CD19+ CD24hi CD38hi B cells
+were decreased significantly. With the increase of antithyrogloblin antibody ( TGAb), CD8+ CD28- T cells were
+decreased markedly(P<0. 05) . TT3 was positively related with CD19+CD24hiCD38hiB cells while TT4 had a negative
+correlation with CD8+ CD28- T cells and positive correlation with CD19+ CD24+ CD27+ B cells. Logistic regression
+analysis showed that TGAb and FT4 were independent risk factors for decreased CD8+ CD28- T cells in lymphocyte
+percentage(P<0. 05) . TSH was an independent risk factor for the decreased proportion of CD19+ CD24hi CD38hi B
+cell. FT4 was the independent risk factors for increased CD19+CD24+ CD27+ B cells(P<0. 05) . Conclusion The
+percentage of Ts cells in patients with HT was lowered,while the different phenotypic Bregs cells showed various
+changes. Thyroid autoantibodies and thyroid function were closely associated with the immunological changes in HT
+patients.
+[Key words]  Hashimotos忆 thyroiditis; Regulatory B lymphocyte cells; Suppressor T lymphocyte cell
+(Chin J Endocrinol Metab, 2015, 31: 427-433)
+桥本甲状腺炎(HT)是最常见的自身免疫性疾病, 约占甲状腺疾病的 7. 3% ~ 20. 5% ,多见于女性[1]。
+桥本甲状腺炎患者尤其是临床甲状腺功能减退者,伴
+随多种相关疾病,如胰岛素抵抗、代谢综合征等[2-6]。
+所以,近年来随着对本病认识的提高及超声检查的广
+泛应用,HT 发病率的增加引起人们的广泛重视。
+研究认为免疫损伤被认为是 HT 最重要的发病机
+制[7]。 目前关于 HT 外周血淋巴细胞亚群分布特点的
+相关报道并不多。 在正常自身免疫过程中,有一类细
+胞起抑制免疫应答作用,这种具有抑制免疫应答炎性
+反应的 T 细胞亚群被命名为抑制性 T 细胞(suppressor
+T cell, Ts cell),B 细胞亚群则被命名为调节性 B 细胞
+(regulatory B cell,Bregs)。 CD8+CD28-T 细胞也是一种
+Ts 细胞,通过抑制抗原提呈细胞 CD40 信号通路而下
+调了 CD4+辅助细胞的表达,从而抑制具有很高细胞毒
+性的 T 辅助细胞[8,9]。 Bregs 亚群主要包括 CD19+
+CD24+CD38+、CD19+CD24+CD27+表现型,Bregs 通过其
+产物白细胞介素 10(IL-10)对 T 细胞的活化和炎性应
+答产生影响,这个能产生 IL-10 的 Bregs 亚群被命名为
+B10 细胞,它们能特异地产生 IL-10 及转化生长因子
+β1(TGF-β1)。 研究发现 Bregs 缺乏可能是小鼠桥本
+甲状腺炎的发病机制之一[10,11]。 但目前 Bregs 和 Ts
+细胞在 HT 发病中的作用研究国内外尚无报道。
+基于以上问题,本研究检测桥本甲状腺炎患者
+CD19+CD24+CD38+、CD19+ CD24+ CD27+、B10 及 CD8+
+CD28-T 细胞在外周血中的变化,初步探讨 Ts、Bregs
+细胞在 HT 发生中的作用,以期为 HT 的治疗提供理论
+依据。
+对象和方法
+一、 对象
+研究人群的选择:(1)入组时间:2013 年 3 月至
+2013 年 11 月。 (2)诊断标准:HT I型的诊断符合以
+下两条:淤甲状腺功能正常;于具有典型临床表现伴血
+甲状腺过氧化物酶抗体(TPOAb)或甲状腺球蛋白抗
+体(TGAb)浓度升高(≥60 U / ml),无明显临床表现伴
+2 次(相隔 1 周)血 TPOAb 或 TGAb 浓度升高(≥60
+U / ml) [12]。(3)入组标准:年龄在 18 ~ 60 岁之间 HT 玉
+型患者。 (4)排除标准:已确诊糖尿病的患者[13];已明
+确患有甲状腺功能亢进或甲状腺功能减退患者;既往
+服用过抗甲状腺药物或甲状腺激素替代药物治疗者;
+妊娠或哺乳期女性等。
+二、 方法
+1. 资料收集:问卷内容包括一般人口学资料[姓
+名、性别、身份证号码、出生日期、民族、家庭地址和
+诊断时间)。
+2. 流式细胞术检测患者外周血淋巴细胞:(1)取
+2 个样品测定管,每管置入 100 滋l EDTA 抗凝管全血,
+分别加入荧光标记的单克隆抗体 CD4-FITC / CD8-PE-
+CyTM 5 / CD28-PE, CD19-PE-CyTM 5 / CD24-PE / CD27-
+APC / CD38-FITC 混匀后室温避光孵育 20 min。 (2)应
+用 Simultest TM 全血溶解试剂盒对样品进行溶血处
+理。 (3)用相同方法同型对照样本进行抗体标记和溶
+血处理。 (4) FACSCalibur 型流式细胞仪检测同型对
+照,同时调整电压和颜色补偿;以淋巴细胞设门,收集
+50 000 个细胞,读取免疫表型为 CD8+、CD8+ CD28-、
+CD19+CD24+ CD27+、CD19+ CD24hi CD38hi 亚群的百分
+比。
+3. 采用放射免疫法测定:三碘甲状腺原氨酸
+(TT3 )、甲状腺素 ( TT4 )、游离三碘甲状腺原氨酸
+(FT3)、游离甲状腺素 ( FT4 )、促甲状腺素 ( TSH)、
+TGAb 和 TPOAb 的测定由 Beckman 免疫分析仪(美
+国)测定,试剂盒购自美国 LINCO 公司。
+4. 人细胞内 IL-10 的检测:取 100 滋l 全血,在含
+10%胎牛血清的 RPMl 1640 培养基中调整浓度至 2×
+106细胞 / ml,加入 25 μg / L 丙二醇甲醚醋酸酯、1 mg / L
+lonomycin 和 20 μg / L Monensin 在 37℃、5% CO2 条件
+下培养 4 ~ 6 h。 取 100 滋l 混合培养液,加入 CD19-
+CyTM510 滋l,室温避光反应 30 min。 加入破膜剂 A
+1 000 滋l 室温避光 5 min, PBS 清洗,加入破膜剂 B
+1 000 滋l 破膜后室温避光 15 min,PBS 清洗,分别加入
+单克隆抗体 IL-10-PE 20 滋l,同时进行同型对照处理。
+三、 统计学处理
+数据以 x-± s 表示。 采用参数检验(Student-t 检验,
+ANOVA) 以 及 非 参 检 验 ( Mann-Whitney U 检 验 或
+Kruskal-Wallis H 检验)比较组间差异。 分类数据之间
+的组间差异比较则采用卡方检验进行分析。 Pearson
+线性相关模型方法评价甲状腺功能和淋巴细胞亚群改
+变之间的相关性。 二元 logistic 回归分析方法用于计
+算甲状腺功能、甲状腺抗体与各组免疫亚群发生改变
+的相对风险度(relative risk,RR)和 95% CI 。 P <0. 05
+为差异有统计学意义。 分析软件采用 SPSS version
+17. 0(SPSS Inc. ,Chicago,IL)。
+结    果
+一、 一般资料
+共纳入 HT 患者 61 例,健康受试者 38 名,HT 组
+TPOAb 和 TGAb 显著升高,各组间性别、年龄、高血压
+病史、FT3、FT4、TT3、TT4 则无显著差异(表 1)。
+二、 HT 组与正常组间的淋巴亚群变化比较
+图 1 显示外周血淋巴细胞亚群在流式细胞分析中
+的标识。 HT 组外周血 CD8+T 淋巴细胞在总淋巴细胞
+中比例显著降低(P<0. 05),而 CD8+ CD28- 抑制性 T
+细胞、CD4+T 细胞则无明显变化;HT 组外周血淋巴细
+胞 CD19+ CD24+ CD27+ B 细胞亚群显著升高 ( P <
+0. 05),而 CD19+CD24hiCD38hiB 细胞、B10 细胞则与正
+常组无显著变化(图 1)。
+表 1  HT 组与正常组基本资料比较(x-± s)
+Tab 1  Comparison of general data between HT and control groups(x-± s)
+组别
+Group
+例数(男性 / 女性)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+高血压
+Hypertension
+(% )
+FT3
+(pg / ml)
+FT4
+(ng / dl)
+TT3
+(ng / ml)
+TT4
+(μg / dl)
+TSH
+(μIU / ml)
+TPOAb
+(U / ml)
+TGAb
+(U / ml)
+CON 38(37 / 1) 40. 6 ± 16. 9 0 2. 9 ± 0. 7 1. 1 ± 0. 1 1. 4 ± 1. 5 9. 3 ± 1. 7 2. 2 ± 1. 3 30. 3 ± 16. 6 16. 1 ± 9. 7
+HT  61(59 / 2) 47. 2 ± 14. 7 1. 6 2. 9 ± 0. 6 1. 1 ± 0. 3 1. 1 ± 0. 4 8. 5 ± 3. 0 2. 1 ± 1. 2 790. 1 ± 572. 3a 216. 5 ± 29. 3a
+注:CON:对照组 Control;HT:桥本甲状腺炎 Hashimotos忆 thyroiditis;TPOAb:甲状腺过氧化物酶抗体 Thyroid peroxidase antibody;TGAb:甲状腺球蛋
+白抗体 Antithyroglobulin antibody;与 CON 组比较 vs CON group,aP<0. 01
+注:Bregs:调节性 B 淋巴细胞 Regulatory B cell;TS:抑制性 T 细胞 Suppressor T cell;Lymphocyte:淋巴细胞;余略语同表 1 The other abbreviations are
+the same as Tab 1
+图 1  HT 组与对照组 Bregs 和 Ts 亚群比例组间比较
+Fig 1  Comparison of percentage of Bregs and Ts subpopulations between HT and control groups
+三、 甲状腺抗体四分位组间淋巴亚群改变的比较
+随着 TPOAb 的升高,CD19+ CD24hi CD38hi B 细胞
+显著降低,而 CD8+CD28- T 细胞、CD19+CD24+CD27+B
+细胞、B10 细胞等亚群则无明显变化 (图 2)。 随着
+TGAb 的升高 CD8+ CD28- T 细胞显著降低, CD19+
+CD24hiCD38hiB 细胞、CD19+ CD24+ CD27+ B 细胞、B10
+细胞亚群则无明显变化(图 3)。
+四、 甲状腺功能与淋巴细胞亚群变化的关系
+TT3 和 CD4+ T 细胞呈显著负相关, 与 CD19+
+CD24hi CD38hi B 细胞则呈显著正相关, r 值分别为
+-0. 227 和 0. 287(均 P<0. 05);TT4 与 CD8+CD28-T 细
+胞呈显著负相关,与 CD19+CD24+CD27+B 细胞则呈显
+著正相关,r 值分别为-0. 267 和 0. 298(均 P<0. 05,图
+4)。 FT3、FT4 和 TSH 均未发现与 CD8+CD28-T 细胞、
+CD19+CD24hiCD38hiB 细胞、CD19+CD24+CD27+B、B10
+细胞等相关。
+五、 甲状腺功能、甲状腺抗体与外周血淋巴细胞
+亚群改变的 logistic 回归分析
+获取健康组淋巴细胞亚群的 25% ~ 75% 的参考
+区间,并以此作为外周血淋巴细胞亚群的参考范围,根
+据该参考范围,将所有研究对象按淋巴细胞亚群是否
+降低或升高分组,并分别对每个亚群与甲状腺功能和
+甲状腺抗体的关系进行多因素 logistic 回归分析。 健
+康组的 CD8+CD28-T / L 细胞的 25% ~ 75% 参考区间
+为 30. 310 ~ 52. 715,CD19+CD24hiCD38hiB / L 细胞参考
+区间为 1. 925 ~ 3. 265,CD19+CD24+CD27+B / L 细胞的
+参考区间为 4. 005 ~ 7. 432 5, B 10 / L 细胞区间为
+0. 037 5 ~ 0. 100 0。
+将年龄、性别、TT3、TT4、FT3、FT4、TGAb 和 TPOAb
+纳入回归方程中观察到:TGAb(OR = 1. 011, 95% CI
+1. 001 ~ 1. 020,P=0. 026)和 FT4(OR = 12 731. 6, 95%
+CI 6. 2 ~ 2. 6×107, P = 0. 015)是 CD8+CD28-T 细胞在
+淋巴细胞中比例降低的独立危险因素;TSH 是 CD19+
+CD24hiCD38hiB 细胞比例降低的独立危险因素(OR =
+0. 171, 95% CI 0. 038 ~ 0. 766, P = 0. 021), FT4 是
+CD19 +CD24 +CD27 +B 细胞比例升高的独立危险因素
+(OR=10 891. 5, 95% CI 2. 2 ~ 5. 4×107, P=0. 033),说
+明甲状腺功能对免疫改变有明显影响。
+讨    论
+HT 是一类自身免疫性疾病,其确切病因和发病机
+制仍不清楚。 研究表明,淋巴细胞介导的免疫反应在
+HT 的发病机制中发挥重要作用。 Bregs 和 Ts(尤其是
+CD8+CD28-Ts 细胞)在 HT 发病中的作用,目前鲜有报
+道。 本研究主要检测 HT I型患者外周血淋巴细胞 Ts
+和 Bregs 亚群的变化, 为 HT 的发病机制提供理论±
+注:略语同表 1 和图 1 The abbreviations are the same as Tab 1 and Fig 1;与 Q2 比较 vs Q2, aP<0. 05;与 Q3 比较 vs Q3, bP<0. 01
+图 2  TPOAb 四分位组间 CD19+CD24hiCD38hiBregs、CD8+CD28-Ts、CD19+CD24+CD27+Bregs、B10 的比较
+Fig 2  Comparison of CD19+CD24hiCD38hiBregs,CD8+CD28-Ts,CD19+CD24+CD27+Tregs,and B10 levels according to the quartile of TPOAb
+注:略语同表 1 和图 1 The abbreviations are the same as Tab 1 and Fig 1;与 Q1 比较 vs Q1, aP<0. 05;与 Q2 比较 vs Q2, bP<0. 05
+图 3  TGAb 四分位组间 CD19+CD24hiCD38hiBregs、CD8+CD28-Ts、CD19+CD24+CD27+Bregs、B10 的比较
+Fig 3  Comparison of CD19+CD24hiCD38hiBregs,CD8+CD28-Ts,CD19+CD24+CD27+Bregs,and B10 levels according to the quartile of TGAb
+据。
+CD4+T 细胞是甲状腺细胞早期主要的浸润细胞,
+CD8+T 细胞亚群中有一类 CD8+CD28-T 细胞,是一种
+Ts,通过抑制抗原提呈细胞 CD40 信号通路而下调了
+CD4+辅助细胞的表达[14]。 本研究发现 HT 患者 CD8+
+淋巴细胞较正常组显著降低,TGAb 的四分位组中,高
+滴度 TGAb 患者,CD8+T 细胞比例降低。 高滴度 TGAb
+者 CD8+CD28-Ts 也明显降低(P = 0. 003)。 根据淋巴
+细胞中 CD8+CD28-Ts 比例是否降低(<9. 775% )为因
+变量,发现 TGAb 并非是降低 CD8+CD28-Ts 的独立危
+险因素,而 FT4、TT4 及 FT3 是其独立危险因素(B 值分
+别为 5. 833、0. 654、2. 583),说明甲状腺功能越低(尤
+其是 FT3、FT4),HT 患者 Ts 细胞 CD8+CD28-越低。 此
+外,FT4 也是 CD4+T 细胞升高的独立危险因素(B 值为
+-4. 801), 提示 HT 患者甲状腺功能减退, 尤其是
+FT4 降低,可能会加重 HT 外周血淋巴细胞免疫活
+化。 目前对于 CD8 +CD28 -Ts 细胞的研究主要在器官
+移植减少排斥反应等方面,CD8 + CD28 - Ts 主要通过
+上调 APC 细胞表面的免疫球蛋白样转录因子 3 / 4
+(immunoglobulin-like transcripts3 / 4),从而诱导耐受型
+树突状细胞(tDC) /调节性 T 淋巴细胞(Treg) /髓系衍
+生物抑制细胞的产生,分泌抑制性细胞因子包括 IL-10
+或 TFG-β 等[15],从而抑制增殖性和细胞毒性 T 细胞
+反应[16-18]。 最近有学者观察到 CD8+CD28-Ts 细胞可
+抑制小鼠溃疡性结肠炎的发生[19],而 CD8+ CD28- Ts
+对 HT 的发病确切机制目前尚无报道, 应该是本课题
+组今后的研究方向。
+本研究观察到 HT 与正常组间 CD19+CD4hiCD38hi
+Bregs 无明显差别,但 CD19+CD4hiCD38hiBregs 与 TGAb
+显性负相关( r= -0. 229,P=0. 038)。 TPOAb 四分位组
+中,高滴度组 CD19+CD4hiCD38hiBregs 在淋巴细胞中比
+例最低,按低于正常组 25%作为参考值,FT3 是 CD19+
+CD4hiCD38hiBregs 降低的独立危险因素(B = -3. 432),
+说明甲状腺抗体与 CD19 +CD4 hiCD38 hiBregs 负相关,
+若甲状腺功能减退, 也会导致 CD19 + CD4 hi CD38 hi
+Bregs 在淋巴细胞中比例降低。 既往研究提示 Bregs
+在系统性红斑狼疮、特发性血小板减少症( immune
+thrombocytopenia)等自身免疫性疾病的发病机制中有
+注:Lymphocyte:淋巴细胞;Bregs:调节性 B 细胞 Regulatory B cell;Ts:抑制性 T 细胞 Suppressor T cell
+图 4  TT3、TT4 与 CD4+T、CD19+CD24hiCD38hiBregs、CD8+CD28-Ts、CD19+CD24+CD27+Tregs 的相关性
+Fig 4  Relationship of TT3 and TT4 with CD4+T, CD19+CD24hiCD38hiBregs, CD8+CD28-Ts, CD19+CD24+CD27+Tregs
+重要作用,主要是 Bregs 数量减少、细胞分泌 IL-10 及
+抑制 Th1 细胞活化的 功 能 降 低[20]。 CD19+ CD4hi
+CD38hiBregs 免疫抑制机制主要通过抑制 CD3 刺激 T
+细胞活化,而减少干扰素 γ 和肿瘤坏死因子 α 的分
+泌,此过程中需要 IL-10 和 CD80 / CD86 的共刺激信
+号。 B10 是 CD19+ CD24+ CD27+ Bregs 中的一个亚群,
+IL-10 可以抑制 DC 细胞的抗原加工提呈及共刺激分
+子的表达,比如 CD80 / 86[21];另一方面,IL-10 可抑制
+幼稚 T 细胞分化为 Th1 和 Th2 细胞,而促进幼稚 T 细
+胞分化为 Tregs,从而抑制免疫反应。 本研究发现
+Bregs 细胞显著降低,但 B10 则无明显减少,在 HT 患
+者中 CD19+CD4hiCD38hiBregs 的抑制作用是否通过 IL-
+10 等抑制因子需要进一步研究。 此外, HT 患者
+CD19+CD24+CD27+Bregs 较正常组升高,且与 TT4 水平
+正相关。 国内学者观察到 Graves 病患者 CD19+CD24+
+CD27+Bregs 比例减少、分泌 IL-10 及抑制单核细胞活
+化能力下降,而 CD19+CD4hiCD38hiBregs 与正常人相比
+则无明显变化[22]。 Sumimoto 等[23] 在自身免疫性胰腺
+炎(autoimmune pancreatitis,APS)患者中观察到 CD19+
+CD4hiCD38hi Bregs 显著升高,而 CD19+ CD24+ CD27+
+Bregs 和 B10 细胞则未见明显变化,代偿升高的 CD19+
+CD4hiCD38hiBregs 可能在 APS 中起主要免疫抑制作
+用。 Bregs 分化受多种因素的影响,包括促进因子肿瘤
+坏死因子家族等[24],Bregs 的分化及分泌抑制性细胞
+因子的能力还受到 Ts 及 tDC 细胞等的调节[21],另外,
+CD19+CD24hiCD38hiBregs 是一类未成熟 B 细胞亚群,
+在外周中存活时间较短,这些因素可能都导致不同表
+型的 Bregs 在不同免疫疾病的检测结果不同。
+综上,本研究中观察到桥本甲状腺炎患者外周血
+Ts 显著降低,不同表型的 Bregs 比例变化则不同,甲状
+腺功能是上述免疫改变的独立危险因素。 因此,既往
+认为 HT 患者中免疫改变会增加甲减的发生,是否甲
+状腺功能减退同样也会加重 HT 患者免疫改变仍需进
+一步研究明确;此外,HT 患者中 Ts、Bregs 亚群的改变
+与其他自身免疫性疾病中免疫改变的机制是否一致也
+需要进一步研究。

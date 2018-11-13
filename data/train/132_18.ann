@@ -1,0 +1,195 @@
+T1	Disease 102 108	2 型糖尿病
+T2	Disease 129 135	2 型糖尿病
+T3	Disease 207 213	2 型糖尿病
+T4	Disease 988 994	2 型糖尿病
+T5	Disease 1222 1228	2 型糖尿病
+T6	Disease 1281 1287	2 型糖尿病
+T7	Disease 1357 1363	2 型糖尿病
+T8	Disease 1735 1741	2 型糖尿病
+T9	Disease 2805 2811	2 型糖尿病
+T10	Disease 2900 2906	2 型糖尿病
+T11	Disease 3017 3023	2 型糖尿病
+T12	Disease 3226 3232	2 型糖尿病
+T13	Disease 3258 3264	2 型糖尿病
+T14	Disease 3314 3320	2 型糖尿病
+T15	Disease 3407 3413	2 型糖尿病
+T16	Disease 3594 3600	2 型糖尿病
+T17	Disease 3698 3704	2 型糖尿病
+T18	Disease 3759 3765	2 型糖尿病
+T19	Disease 3822 3828	2 型糖尿病
+T20	Disease 3886 3892	2 型糖尿病
+T21	Disease 3944 3947;3948 3951	2 型 糖尿病
+T22	Disease 5057 5063	2 型糖尿病
+T23	Disease 5150 5154;5155 5157	2 型糖 尿病
+T24	Disease 5185 5191	2 型糖尿病
+T25	Disease 5455 5461	2 型糖尿病
+T26	Disease 6096 6102	2 型糖尿病
+T27	Disease 5219 5220;5221 5225	2 型糖尿病
+T28	Test 2792 2796	空腹血糖
+T29	Test 2999 3003	空腹血糖
+T30	Test 3836 3840	体重指数
+T31	Disease 3182 3187	代谢综合征
+T32	Disease 5525 5530	代谢综合征
+T33	Disease 1174 1179	糖尿病前期
+T34	Test 3842 3845	BMI
+T35	Test 1779 1783	出生体重
+T36	Test 1807 1811	出生体重
+T37	Test 2992 2996	出生体重
+T38	Reason 3111 3131	出生后 0 ~ 24 个月的体重加速增长
+T39	Test 3220 3224	出生体重
+T40	Test 3252 3256	出生体重
+T41	Disease 3431 3436	低出生体重
+T42	Test 3587 3591	出生体重
+T43	Test 3741 3745	出生体重
+T44	Test 3816 3820	出生体重
+T45	Test 3895 3899	出生体重
+T46	Test 4943 4945	体重
+T47	Disease 174 178	营养过剩
+T48	Disease 254 258	营养不良
+T49	Disease 260 265	低出生体重
+T50	Disease 1013 1014;1015 1020	心 脑血管疾病
+T51	Disease 1021 1025	恶性肿瘤
+T52	Disease 1077 1080	糖尿病
+T53	Disease 1124 1127	糖尿病
+T54	Disease 1157 1160	糖尿病
+T55	Disease 1198 1199;1200 1202	糖 尿病
+T56	Disease 1242 1249	急、慢性并发症
+T57	Reason 1322 1331	外周组织胰岛素抵抗
+T58	Reason 1332 1334;1335 1340	胰岛 素分泌缺陷
+T59	Reason 1289 1297	多基因遗传易感性
+T60	Disease 1387 1392	低出生体重
+T61	Disease 1397 1401	营养过剩
+T62	Disease 1461 1466	心血管疾病
+T63	Disease 1595 1601	缺血性心脏病
+T64	Disease 1656 1661	低出生体重
+T65	Disease 1687 1692	心血管疾病
+T66	Disease 1727 1730;1731 1733	X 综 合征
+T67	Disease 1742 1745	高血压
+T68	Disease 1746 1750	高脂血症
+T69	Test 1756 1760	出生体重
+T70	Test_Value 1783 1791	≤2 950 g
+T71	Disease 1796 1797;1798 1801	X 综合征
+T72	Test_Value 1811 1819	>4 310 g
+T73	Disease 1900 1905	X 综合征
+T74	Disease 1909 1915	小婴儿综合征
+T75	Disease 2025 2029;2030 2032	宫内营养 不良
+T76	Anatomy 2053 2055	胰腺
+T77	Anatomy 2056 2057;2058 2059	心 脏
+T78	Anatomy 2060 2062	肾脏
+T79	Anatomy 2063 2066	骨骼肌
+T80	Anatomy 2077 2079	大脑
+T81	Disease 2134 2139	代谢性疾病
+T82	Disease 2279 2283	营养不良
+T83	Anatomy 2302 2304	血管
+T84	Anatomy 2305 2307	胰腺
+T85	Anatomy 2308 2310	肝脏
+T86	Anatomy 2311 2313	肺脏
+T87	Disease 2391 2397	宫内发育受限
+T88	Disease 2674 2679	糖耐量异常
+T89	Disease 2924 2928	腹部肥胖
+T90	Disease 3006 3009;3010 3015	空腹血 糖调节受损
+T91	Reason 3071 3072;3073 3077	低 出生体重
+T92	Reason 3078 3093	出生 48 个月后体重快速增长
+T93	Disease 3097 3102;3103 3105	葡萄糖耐受 不良
+T94	Test_Value 3284 3292	<2 500 g
+T95	Test_Value 3301 3309	>4 000 g
+T96	Disease 3398 3400;3401 3404	高出 生体重
+T97	Disease 3420 3426	妊娠期糖尿病
+T98	Disease 3445 3451	宫内营养不良
+T99	Test_Value 3617 3625	>4 000 g
+T100	Disease 3633 3639	妊娠期糖尿病
+T101	Disease 3644 3647	巨大儿
+T102	Test 3691 3693;3694 3696	出生 体重
+T103	Test 3711 3715	出生体重
+T104	Test_Value 3715 3723	≤3 000 g
+T105	Disease 4025 4026;4027 4031	中 心性肥胖
+T106	Disease 4199 4202	糖尿病
+T107	Anatomy 4232 4242	H3K4me3 基因
+T108	Anatomy 4256 4260	胰岛细胞
+T109	Anatomy 4303 4310	H3K4me2
+T110	Anatomy 4340 4342	胰岛
+T111	Disease 4382 4387	低出生体重
+T112	Disease 4842 4846	营养不良
+T113	Disease 4847 4851	营养过剩
+T114	Disease 4887 4889	贫血
+T115	Test_Value 4945 4955	低于 2 500 g
+T116	Disease 4972 4975	糖尿病
+T117	Disease 5076 5081	低出生体重
+T118	Disease 5112 5115	巨大儿
+T119	Disease 5345 5350;5351 5352	2 型糖尿 病
+T120	Disease 5378 5381	糖尿病
+T121	Disease 5383 5386	糖尿病
+T122	Disease 5492 5498	妊娠期糖尿病
+T123	Disease 5505 5508	糖尿病
+T124	Disease 5862 5865	糖尿病
+T125	Disease 5880 5886	宫内发育迟缓
+T126	Disease 5894 5897	冠心病
+T127	Disease 5898 5901	高血压
+T128	Disease 5902 5904	肥胖
+T129	Disease 5905 5909	骨质疏松
+T130	Anatomy 4183 4187	Pdx1
+T131	Anatomy 4221 4225	Pdx1
+T132	Anatomy 4326 4330	Pdx1
+T133	Anatomy 155 158	胰岛素
+T134	Disease 1127 1129	死亡
+T135	Disease 1651 1653	死亡
+T136	Disease 2481 2483	肥胖
+T137	Disease 2620 2624	营养过剩
+T138	Test 3038 3039;3040 3041	腹 围
+T139	Anatomy 4405 4410;4411 4413	PPARα 基因
+T140	Anatomy 4419 4429	血管紧张素2受体基因
+T141	Anatomy 4524 4532	IGF-2 基因
+T142	Anatomy 4575 4579	IL10
+T143	Anatomy 4580 4583	LEP
+T144	Anatomy 4584 4589	ABCA1
+T145	Anatomy 4591 4597	GNASAS
+T146	Anatomy 4600 4607	MEG3 基因
+T147	Anatomy 4656 4659	染色质
+T148	Reason 1856 1858	孕龄
+T149	Reason 1861 1863	吸烟
+T150	Reason 1864 1866	饮酒
+T151	Reason 1867 1871	社会地位
+T152	Disease 1919 1933;1934 1942	the small-baby syndrome
+T153	Disease 2366 2370	慢性疾病
+T154	Disease 2342 2353;2354 2355	激素分泌与代谢活动的异 常
+T155	Symptom 2407 2410;2411 2413	代偿性 生长
+T156	Anatomy 4435 4443	PDX-1 基因
+T157	Anatomy 4211 4212;4213 4219	正 常 β 细胞
+T158	Reason 2862 2867	低出生体重
+T159	Disease 3277 3282	低出生体重
+T160	Disease 3294 3299	高出生体重
+T161	Disease 3610 3615	高出生体重
+T162	Disease 92 100	生命早期营养不良
+T163	Disease 144 152	生命早期营养不良
+T164	Disease 163 168	胰岛素抵抗
+T165	Disease 197 205	生命早期营养不良
+T166	Disease 244 247	糖尿病
+T167	Reason 1303 1307;1308 1310	不良生活 方式
+T168	Disease 1373 1381	生命早期营养不良
+T169	Disease 1549 1554;1555 1556	缺血性心脏 病
+T170	Test 1842 1848	出生测量指标
+T171	Test_Value 1841 1842	低
+T172	Disease 2099 2105	产后营养不良
+T173	Disease 2230 2236	宫内营养不良
+T174	Disease 2590 2598	生命早期营养不良
+T175	Symptom 2800 2803	高血糖
+T176	Reason 2868 2872	追赶生长
+T177	Reason 2879 2883	脂肪堆积
+T178	Reason 2887 2889;2890 2892	腹部 肥胖
+T179	Disease 2893 2898	胰岛素抵抗
+T180	Disease 2917 2919;2920 2923	低出 生体重
+T181	Disease 3142 3147	胰岛素抵抗
+T182	Reason 3164 3169	低出生体重
+T183	Reason 3172 3176	追赶生长
+T184	Disease 3453 3457;3458 3463	生命后期 胰岛素抵抗
+T185	Disease 4019 4024	胰岛素抵抗
+T186	Anatomy 4292 4299	H3K4me3
+T187	Anatomy 4390 4399	糖皮质激素受体基因
+T188	Disease 4769 4773;4774 4775	低出生体 重
+T189	Disease 4880 4886	儿童营养不良
+T190	Disease 5089 5095	儿童营养不良
+T191	Disease 5105 5110	青少年肥胖
+T192	Reason 5431 5437	早期营养不良
+T193	Disease 5440 5445	胰岛素抵抗
+T194	Disease 4357 4362	低出生体重
+T195	Symptom 2434 2438	追赶生长

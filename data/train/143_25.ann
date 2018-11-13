@@ -1,0 +1,310 @@
+T1	Anatomy 2645 2648	ROS
+T2	Anatomy 2658 2661	ROS
+T3	Anatomy 3622 3625	ROS
+T4	Anatomy 4351 4354	ROS
+T5	Anatomy 4404 4407	ROS
+T6	Anatomy 4438 4441	ROS
+T7	Anatomy 4496 4499	ROS
+T8	Test 5311 5316	RANKL
+T9	Anatomy 1998 2002	成骨细胞
+T10	Anatomy 2651 2655	成骨细胞
+T11	Anatomy 249 253	破骨细胞
+T12	Anatomy 333 337	破骨细胞
+T13	Anatomy 2007 2009;2010 2012	破骨 细胞
+T14	Anatomy 2853 2857	破骨细胞
+T15	Anatomy 3912 3916	破骨细胞
+T16	Anatomy 3929 3930;3931 3934	破 骨细胞
+T17	Anatomy 3986 3990	破骨细胞
+T18	Anatomy 4136 4137;4138 4141	破 骨细胞
+T19	Anatomy 4410 4414	破骨细胞
+T20	Anatomy 4519 4520;4521 4524	破 骨细胞
+T21	Anatomy 5173 5177	破骨细胞
+T22	Anatomy 5195 5199	破骨细胞
+T23	Anatomy 5320 5324	破骨细胞
+T24	Anatomy 5369 5371;5372 5374	破骨 细胞
+T25	Disease 176 180	骨质疏松
+T26	Test 184 187	铁蛋白
+T27	Disease 205 209	骨质疏松
+T28	Disease 226 230	骨质疏松
+T29	Disease 282 290	骨质疏松伴铁蓄积
+T30	Disease 339 343	骨质疏松
+T31	Disease 1197 1201	骨质疏松
+T32	Disease 1206 1213	骨代谢紊乱疾病
+T33	Symptom 1234 1236	疼痛
+T34	Symptom 1237 1241	脆性骨折
+T35	Disease 1258 1262	骨质疏松
+T36	Disease 1286 1290	骨质疏松
+T37	Disease 1328 1332	骨质疏松
+T38	Disease 1337 1339;1340 1341	铁蓄 积
+T39	Disease 1377 1381	骨质疏松
+T40	Disease 1399 1403	骨质疏松
+T41	Disease 1643 1646	铁蓄积
+T42	Disease 1649 1653	骨质疏松
+T43	Disease 1654 1657	铁蓄积
+T44	Disease 1696 1700	骨质疏松
+T45	Disease 1803 1807	骨质疏松
+T46	Disease 1830 1834	骨质疏松
+T47	Disease 1896 1900	骨质疏松
+T48	Disease 1917 1920	铁蓄积
+T49	Disease 1922 1926	骨质疏松
+T50	Disease 1956 1960	骨质疏松
+T51	Disease 2034 2037	铁蓄积
+T52	Disease 2038 2042;2043 2045	老年骨质 疏松
+T53	Disease 2046 2053	特发性骨质疏松
+T54	Disease 2063 2070	绝经后骨质疏松
+T55	Disease 2072 2075	铁蓄积
+T56	Test 2144 2147	骨密度
+T57	Disease 2215 2219	骨质疏松
+T58	Disease 2240 2241;2242 2244	铁 蓄积
+T59	Disease 2249 2255	血色素沉着症
+T60	Test 2283 2286	雌激素
+T61	Test 2295 2297;2298 2299	雌激 素
+T62	Test 2307 2312	血清铁蛋白
+T63	Disease 2356 2359	铁蓄积
+T64	Disease 2402 2405	铁蓄积
+T65	Disease 2407 2411	骨质疏松
+T66	Disease 2425 2426;2427 2430	骨 质疏松
+T67	Disease 2863 2866	铁蓄积
+T68	Anatomy 3741 3746	NF-κB
+T69	Disease 3809 3812	铁蓄积
+T70	Disease 3813 3815;3816 3818	骨质 疏松
+T71	Disease 3832 3836	骨质疏松
+T72	Anatomy 4098 4103	NF-κB
+T73	Anatomy 4114 4119	TRAF6
+T74	Disease 4178 4182	骨质疏松
+T75	Disease 4210 4213	铁蓄积
+T76	Disease 4227 4230	铁蓄积
+T77	Disease 4563 4566	铁蓄积
+T78	Disease 4580 4583	铁蓄积
+T79	Disease 4635 4639	骨质疏松
+T80	Drug 4661 4665	降铁制剂
+T81	Disease 4666 4670	骨质疏松
+T82	Disease 4711 4713;4714 4716	骨质 疏松
+T83	Disease 4783 4787	骨质疏松
+T84	Drug 4795 4801	DoTTPA
+T85	Disease 4909 4912	铁蓄积
+T86	Drug 4928 4931	DFO
+T87	Drug 4889 4892	DFO
+T88	Drug 4961 4964	DFO
+T89	Disease 5051 5060	绝经妇女骨质疏松症
+T90	Disease 5072 5075	铁蓄积
+T91	Disease 5102 5106	骨质疏松
+T92	Drug 5117 5126	NF-κB 抑制剂
+T93	Disease 5401 5402;5403 5405	铁 蓄积
+T94	Disease 5407 5411	骨质疏松
+T95	Disease 5505 5509	骨质疏松
+T96	Disease 5600 5604	骨质疏松
+T97	Test 5611 5614	铁水平
+T98	Drug 5698 5704	外源性降铁药
+T99	Drug 5723 5734	NF-κB 通路抑制剂
+T100	Disease 5769 5773	骨质疏松
+T101	Disease 5785 5788	铁蓄积
+T102	Disease 5791 5795	骨质疏松
+T103	Test 4525 4529	TRAP
+T104	Test 2676 2679	JNK
+T105	Anatomy 131 139	NF-κB 通路
+T106	Anatomy 258 265;266 267	NF-κB 通 路
+T107	Anatomy 273 281	NF-κB 通路
+T108	Test 1360 1363	铁代谢
+T109	Test 1364 1367	骨代谢
+T110	Test 1423 1426	骨代谢
+T111	Anatomy 1470 1478	NF-κB 通路
+T112	Anatomy 1487 1492	NF-κB
+T113	Test 1554 1557	骨代谢
+T114	Anatomy 1576 1581	NF-κB
+T115	Anatomy 1632 1642	NF-κB 信号通路
+T116	Disease 1723 1731	骨组织退行性病变
+T117	Disease 1734 1743	全身代谢性骨骼疾病
+T118	Disease 1984 1987	铁蓄积
+T119	Test 1991 1995	骨骼代谢
+T120	Disease 2255 2260	等血液疾病
+T121	Test 2383 2385	高铁
+T122	Test 2598 2601	骨代谢
+T123	Anatomy 2883 2895	NF-κB 信号转导通路
+T124	Anatomy 2914 2924	NF-κB 信号通路
+T125	Disease 2925 2928	铁蓄积
+T126	Test 2929 2932	骨代谢
+T127	Anatomy 2939 2949	NF-κB 信号通路
+T128	Anatomy 2952 2959	NF-κB 通
+T129	Test 3078 3081;3082 3084	二聚体 蛋白
+T130	Anatomy 3136 3138;3139 3143	抑制 蛋白家族
+T131	Test 3266 3270	抑制因子
+T132	Anatomy 3334 3342	NF-κB 通路
+T133	Anatomy 3353 3358	NF-κB
+T134	Anatomy 3385 3390	NF-κB
+T135	Anatomy 3425 3430	NF-κB
+T136	Anatomy 3551 3559	NF-κB 通路
+T137	Test 3569 3573	生长因子
+T138	Test 3574 3577;3578 3579	细胞因 子
+T139	Test 3580 3584	细菌病毒
+T140	Disease 3585 3589	应激反应
+T141	Anatomy 3598 3608	NF-κB 转导途径
+T142	Anatomy 3661 3669	NF-κB 通路
+T143	Anatomy 3788 3798	NF-κB 信号通路
+T144	Test 3799 3802	骨代谢
+T145	Test 3907 3910	骨代谢
+T146	Anatomy 3959 3964;3965 3973	NF-κB 受体活化因子配体
+T147	Test 4047 4053	TRAFs)
+T148	Anatomy 4169 4177	NF-κB 通路
+T149	Disease 4203 4207	氧化应激
+T150	Anatomy 4215 4223	NF-κB 通路
+T151	Anatomy 4373 4378;4379 4381	NF-κB 通路
+T152	Disease 4386 4389	骨吸收
+T153	Anatomy 4509 4514	NF-κB
+T154	Anatomy 4568 4575	NF-κB 通
+T155	Drug 4834 4838	降铁药物
+T156	Treatment 4867 4869;4870 4871	骨保 护
+T157	Disease 4895 4898	铁蓄积
+T158	Anatomy 4916 4918	脊柱
+T159	Treatment 5065 5067	降铁
+T160	Test 5127 5130	骨代谢
+T161	Anatomy 5183 5191	NF-κB 通路
+T162	Drug 5450 5461	NF-κB 通路抑制剂
+T163	Disease 5469 5472	骨吸收
+T164	Anatomy 5476 5479	骨组织
+T165	Anatomy 5495 5500	NF-κB
+T166	Anatomy 5645 5650	NF-κB
+T167	Test 5659 5663	骨骼代谢
+T168	Anatomy 5671 5676	NF-κB
+T169	Symptom 1218 1221;1222 1223	骨量下 降
+T170	Reason 1853 1857	年龄增长
+T171	Reason 2139 2143	铁过多冶
+T172	Test_Value 2286 2288	下降
+T173	Test_Value 2289 2293	逐渐升高
+T174	Test_Value 2322 2330;2331 2332	提高 2 ~ 3 倍
+T175	Anatomy 2666 2674	c-jun 激酶
+T176	Anatomy 2709 2713	FoxO
+T177	Anatomy 2716 2720	FoxO
+T178	Anatomy 2726 2730	FoxO
+T179	Anatomy 2744 2748	FoxO
+T180	Anatomy 2780 2784	FoxO
+T181	Anatomy 2763 2772	β-catenin
+T182	Anatomy 2804 2813	β-catenin
+T183	Test 2840 2842	骨量
+T184	Test_Value 2842 2843;2844 2845	减 低
+T185	Anatomy 2963 2966	REL
+T186	Anatomy 2981 2984	IKK
+T187	Anatomy 3069 3076	P50-P65
+T188	Anatomy 3405 3408	IKK
+T189	Anatomy 3413 3417	IkBs
+T190	Anatomy 3453 3457	P100
+T191	Anatomy 3462 3465	P52
+T192	Anatomy 3466 3469	P52
+T193	Anatomy 3472 3477	REL-B
+T194	Anatomy 3512 3516	IKKα
+T195	Anatomy 3493 3496	IKK
+T196	Anatomy 3675 3678	Ras
+T197	Anatomy 3680 3684	Raf1
+T198	Anatomy 3685 3690	MAPKK
+T199	Anatomy 3693 3697	MAPK
+T200	Anatomy 3698 3702	MAPK
+T201	Anatomy 3712 3715	IKK
+T202	Anatomy 3733 3737	IkBα
+T203	Anatomy 3754 3757	IkB
+T204	Anatomy 3773 3778	NF-κB
+T205	Test 3838 3842	破骨活性
+T206	Test_Value 3842 3843;3844 3845	升 高
+T207	Test 3852 3856	成骨活性
+T208	Test_Value 3859 3863	偿性增强
+T209	Anatomy 4123 4126	IKK
+T210	Test_Value 4246 4248	增加
+T211	Test_Value 4258 4259;4260 4261	增 加
+T212	Anatomy 4331 4334	自由基
+T213	Anatomy 4449 4452	P65
+T214	Anatomy 4453 4456	P50
+T215	Anatomy 4466 4469	P65
+T216	Anatomy 4470 4473	P50
+T217	Anatomy 4481 4482;4483 4491	胞 浆 p-IkBα
+T218	Test_Value 4530 4532	阳性
+T219	Test_Value 4504 4508	显著增多
+T220	Drug 5272 5288	Sargachromanol G
+T221	Anatomy 5297 5301	IkBα
+T222	Anatomy 5356 5368	RAW264. 7 细胞
+T223	Drug 5391 5398	抑制剂 NAC
+T224	Drug 5429 5437	NecroX-7
+T225	Drug 5439 5445	SC-514
+T226	Test_Value 5614 5616	升高
+T227	Test_Value 189 191	升高
+T228	Symptom 1230 1233	无症状
+T229	Anatomy 3976 3981	RANKL
+T230	Anatomy 3996 4001	RANKL
+T231	Disease 140 144	骨质疏松
+T232	Disease 145 148	铁蓄积
+T233	Reason 199 202	铁蓄积
+T234	Reason 221 224	铁蓄积
+T235	Reason 1392 1395	铁蓄积
+T236	Anatomy 1511 1515	趋化因子
+T237	Anatomy 1516 1520	粘附分子
+T238	Anatomy 1521 1524;1525 1526	生长因 子
+T239	Anatomy 1527 1531	转录因子
+T240	Anatomy 1532 1539	氧化应激相关酶
+T241	Anatomy 1540 1544	免疫受体
+T242	Reason 1590 1593	铁蓄积
+T243	Disease 1686 1689	铁蓄积
+T244	Disease 1681 1685	骨质疏松
+T245	Disease 1709 1714	骨质疏松症
+T246	Disease 1774 1778	骨质疏松
+T247	Disease 1778 1780	骨折
+T248	Reason 1858 1863	雌激素缺乏
+T249	Reason 1872 1877;1878 1880	甲状腺功能 亢进
+T250	Reason 1881 1884	糖尿病
+T251	Reason 1954 1955	铁
+T252	Test 2115 2120	血清铁蛋白
+T253	Test 2126 2131;2132 2133	骨量丢失速 率
+T254	Test 2277 2280	铁蛋白
+T255	Test 2372 2375	雌激素
+T256	Disease 2392 2397	骨质疏松症
+T257	Reason 2421 2424	铁蓄积
+T258	Anatomy 2490 2495	细胞呼吸链
+T259	Disease 2512 2517	铁代谢异常
+T260	Disease 2526 2532	代谢水平紊乱
+T261	Disease 2534 2539	铁储存过多
+T262	Anatomy 2990 2993	REL
+T263	Anatomy 2998 3001	P50
+T264	Anatomy 3002 3005	P52
+T265	Anatomy 3006 3009	REL
+T266	Anatomy 3010 3013	P65
+T267	Anatomy 3016 3021	REL-B
+T268	Anatomy 3146 3150	P100
+T269	Anatomy 3152 3156	P105
+T270	Anatomy 3157 3162	Bcl-3
+T271	Anatomy 3164 3169	IkB-R
+T272	Anatomy 3171 3175	IkBα
+T273	Anatomy 3177 3181	IkBβ
+T274	Anatomy 3183 3187	IkBγ
+T275	Anatomy 3190 3193	IkB
+T276	Anatomy 3208 3213	NF-κB
+T277	Anatomy 3224 3228	IkBα
+T278	Anatomy 3229 3233	IkBβ
+T279	Anatomy 3234 3237	IkB
+T280	Anatomy 3286 3289	IKK
+T281	Anatomy 3301 3304	IkB
+T282	Anatomy 3519 3529	NF-κB 诱导激酶
+T283	Anatomy 3634 3639;3640 3645	膜受体酪氨 酸蛋白激酶
+T284	Anatomy 3648 3656	Ras-MAPK
+T285	Anatomy 3720 3725	S6 激酶
+T286	Disease 3882 3885	铁蓄积
+T287	Disease 3877 3881	骨质疏松
+T288	Anatomy 3940 3950	巨噬细胞集落刺激因子
+T289	Anatomy 4005 4011	破骨前体细胞
+T290	Test 4036 4046	肿瘤坏死因子相关蛋白
+T291	Disease 4190 4194	骨质疏松
+T292	Test 4241 4244	铁离子
+T293	Test 4255 4258	铁蛋白
+T294	Anatomy 4421 4426	NF-κB
+T295	Reason 4556 4560	氧化应激
+T296	Reason 4586 4594	增加氧化应激水平
+T297	Reason 4597 4611	刺激 NF-κB 通路的活化
+T298	Reason 4613 4616;4617 4623	破骨细 胞分化能力上
+T299	Reason 4625 4630	骨吸收增强
+T300	Disease 4648 4652	骨质疏松
+T301	Drug 4747 4766	铁鳌合剂 1-N-二十二烷基三乙烯三胺
+T302	Drug 4838 4840;4841 4845	甲磺 酸去铁胺
+T303	Disease 4972 4976	骨质疏松
+T304	Drug 4999 5002	降铁药
+T305	Test 5036 5041;5042 5043	内源性类激 素
+T306	Test 5046 5049	铁调素
+T307	Disease 5145 5149	骨质疏松
+T308	Disease 5537 5540	铁蓄积
+T309	Disease 5532 5536	骨质疏松
+T310	Test 5710 5716	内源性类激素

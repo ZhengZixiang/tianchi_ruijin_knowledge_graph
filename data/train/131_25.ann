@@ -1,0 +1,279 @@
+T1	Drug 3455 3459	二甲双胍
+T2	Drug 3497 3500	他汀类
+T3	Disease 534 542	性腺疾病发育异常
+T4	Disease 561 567	外生殖器畸形
+T5	Test 569 578	Prader 评分
+T6	Disease 645 652	内分泌性腺疾病
+T7	Disease 716 720	性腺疾病
+T8	Anatomy 836 843	SOQ9 基因
+T9	Disease 899 903	性腺疾病
+T10	Disease 922 926	性腺疾病
+T11	Test 1000 1004	性腺活检
+T12	Test 1007 1012	染色体检查
+T13	Test 1013 1018	基因学检测
+T14	Disease 1026 1030	性腺疾病
+T15	Test 1057 1061	基因检测
+T16	Disease 1167 1169	肥胖
+T17	Disease 1171 1174	糖尿病
+T18	Disease 1176 1181	代谢综合征
+T19	Anatomy 1192 1194	性腺
+T20	Disease 1230 1232	肥胖
+T21	Disease 1233 1243	高饱和游离脂肪酸血症
+T22	Disease 1285 1292	多囊卵巢综合征
+T23	Disease 1293 1297	PCOS
+T24	Disease 1403 1411	青春期性发育延迟
+T25	Disease 1420 1435	Klinefelter 综合征
+T26	Disease 1437 1449	Kallmann 综合征
+T27	Drug 1476 1481;1482 1486	人绒毛膜促 性腺激素
+T28	Drug 1488 1494	尿促性腺激素
+T29	Drug 1495 1498	hCG
+T30	Drug 1501 1504	hMG
+T31	Drug 1507 1512;1513 1517	促性腺激素 释放激素
+T32	Drug 1518 1522	GnRH
+T33	Disease 1526 1538;1539 1544	特发性低促性腺激素性性腺 机能减退症
+T34	Disease 1545 1548	IHH
+T35	Disease 1568 1571	IHH
+T36	Drug 1619 1622	雄激素
+T37	Disease 1640 1646	性腺功能减退
+T38	Disease 1688 1695	高促性腺激素性
+T39	Disease 1696 1699;1700 1710	低促性 腺激素性性腺功能减退
+T40	Disease 1837 1845	高促性腺激素血症
+T41	Disease 1907 1910	IHH
+T42	Disease 1950 1953	IHH
+T43	Test 1961 1963	LH
+T44	Test 1964 1967	FSH
+T45	Test 1968 1970	睾酮
+T46	Test 1999 2000;2001 2004	精 子密度
+T47	Test_Value 2007 2018	20×106 / ml
+T48	Disease 2150 2153	IHH
+T49	Disease 2166 2169	糖尿病
+T50	Disease 2175 2183	男性勃起功能障碍
+T51	Disease 2184 2186	ED
+T52	Disease 2202 2205	糖尿病
+T53	Disease 2209 2211	ED
+T54	Disease 2227 2230	糖尿病
+T55	Disease 2268 2271	糖尿病
+T56	Disease 2274 2276	ED
+T57	Level 2310 2312	轻度
+T58	Disease 2313 2315	ED
+T59	Drug 2323 2326;2327 2328	西地那 非
+T60	Level 2333 2335	中度
+T61	Disease 2336 2338	ED
+T62	Method 2347 2352	尿道内注射
+T63	Drug 2352 2353;2354 2357	前 列地尔
+T64	Level 2360 2362	重度
+T65	Disease 2363 2365	ED
+T66	Operation 2368 2374	阴茎假体植入
+T67	Operation 2376 2379;2380 2381	静脉手 术
+T68	Disease 2387 2397	21α-羟化酶缺乏症
+T69	Disease 2403 2413	21α-羟化酶缺乏症
+T70	Disease 2414 2425	先天性肾上腺皮质增生症
+T71	Disease 2483 2493	21α-羟化酶缺乏症
+T72	Symptom 2557 2565	青春期女性男性化
+T73	Symptom 2566 2571	男性性早熟
+T74	Symptom 2572 2578;2579 2580	成年后女性多 毛
+T75	Symptom 2581 2585	月经稀发
+T76	Symptom 2586 2588	不孕
+T77	Drug 2638 2643	氢化可的松
+T78	Drug 2656 2659	强的松
+T79	Drug 2660 2664	强的松龙
+T80	Drug 2666 2670	地塞米松
+T81	Test 2722 2724	骨龄
+T82	Test 2737 2745	促肾上腺皮质激素
+T83	Test 2746 2750	ACTH
+T84	Test 2752 2757;2758 2759	17-羟孕 酮
+T85	Test 2760 2765	脱氢表雄酮
+T86	Test 2766 2768	睾酮
+T87	Disease 2822 2829	男性乳腺增生症
+T88	Disease 2835 2842	男性乳腺增生症
+T89	Symptom 2927 2930;2931 2932	乳腺增 生
+T90	Disease 2941 2948	性腺内分泌疾病
+T91	Reason 2957 2963	睾酮分泌不足
+T92	Reason 2966 2974	LH 受体不敏感
+T93	Reason 3001 3006	雌激素增多
+T94	Disease 3007 3011	睾丸肿瘤
+T95	Disease 3012 3014;3015 3016	肝硬 化
+T96	Disease 3017 3023	肾上腺皮质癌
+T97	Disease 3038 3040;3041 3048	特发 性男性乳腺增生
+T98	Drug 3060 3064;3065 3069	雌激素受 体拮抗剂
+T99	Drug 3070 3079	tamoxifen
+T100	Drug 3093 3095;3096 3097	雄激 素
+T101	Drug 3111 3114	雄激素
+T102	Symptom 3127 3131	乳腺增生
+T103	Disease 3136 3140	PCOS
+T104	Disease 3147 3151	PCOS
+T105	Disease 3179 3186	内分泌性腺疾病
+T106	Disease 3259 3263	PCOS
+T107	Disease 3287 3291	PCOS
+T108	Disease 3299 3302;3303 3305	代谢综 合征
+T109	Disease 3380 3386	高雄激素血症
+T110	Disease 3387 3393	高胰岛素血症
+T111	Drug 3460 3469	PPARγ 激动剂
+T112	Drug 3480 3485	达英-35
+T113	Drug 3486 3489	螺内酯
+T114	Drug 3501 3505;3506 3510	二肽基肽 酶抑制剂
+T115	Drug 3511 3525	胰升糖素样肽 1 受体激动剂
+T116	Disease 3558 3565	围绝经期综合征
+T117	Test 3588 3591	雌激素
+T118	Disease 3740 3742	骨折
+T119	Disease 3743 3745	痴呆
+T120	Treatment 3758 3761	HRT
+T121	Treatment 3809 3812	HRT
+T122	Symptom 3902 3906;3907 3911	外生殖器 女性表型
+T123	Anatomy 3964 3966	卵巢
+T124	Anatomy 3967 3969	子宫
+T125	Disease 4004 4013	5α-还原酶缺乏症
+T126	Symptom 4040 4044	月经紊乱
+T127	Duration 4045 4049	10 年
+T128	Symptom 4050 4054	皮肤变黑
+T129	Symptom 4054 4058	声音低沉
+T130	Disease 4095 4098;4099 4102	高雄激 素血症
+T131	Test 4103 4105	睾酮
+T132	Test_Value 4106 4122	41. 45 nmmol / L
+T133	Anatomy 4166 4168	卵巢
+T134	Test 4174 4183	选择性静脉分段取血
+T135	Test 4193 4198	腹腔镜检查
+T136	Anatomy 4201 4205	右侧卵巢
+T137	Anatomy 4211 4215	右侧卵巢
+T138	Disease 4217 4219	肿瘤
+T139	Disease 4227 4233;4234 4236	类固醇细胞类 肿瘤
+T140	Disease 4242 4252	Leydig 细胞瘤
+T141	Test 4259 4263	血清睾酮
+T142	Test_Value 4271 4286	<0. 35 mmol / L
+T143	Symptom 4330 4338	阴茎睾丸增大迅速
+T144	Symptom 4339 4343	身高骤长
+T145	Test 4361 4363	LH
+T146	Test 4364 4367	FSH
+T147	Test 4368 4370	睾酮
+T148	Disease 4387 4397	21α-羟化酶缺乏症
+T149	Disease 4398 4403	假性性早熟
+T150	Disease 4404 4408;4409 4412	颅内器质 性病变
+T151	Disease 4416 4424	特发性真性性早熟
+T152	Drug 4429 4433;4434 4442	促性腺激 素释放激素类似物
+T153	Drug 4443 4448	GnRHa
+T154	Amount 4449 4460	3. 75 mg /次
+T155	Test 4497 4499	睾酮
+T156	Disease 4526 4542;4543 4546	家族性限男性非 GnRH 依赖型 性早熟
+T157	Disease 4547 4551	FMPP
+T158	Test 4555 4559	基因检测
+T159	Drug 4599 4606	芳香化酶抑制剂
+T160	Drug 4607 4615	雄激素受体拮抗剂
+T161	Disease 4681 4688	内分泌性腺疾病
+T162	Disease 4694 4701	性腺内分泌疾病
+T163	Disease 4706 4713	性分化异常疾病
+T164	Disease 4787 4794	内分泌性腺疾病
+T165	Disease 4815 4819	性腺疾病
+T166	Disease 4857 4861	性腺疾病
+T167	Disease 4901 4903;4904 4909	性腺 内分泌疾病
+T168	Disease 4921 4925	性腺疾病
+T169	Disease 4941 4945	性腺疾病
+T170	Disease 5070 5077	性腺内分泌疾病
+T171	Disease 5107 5110	IHH
+T172	Disease 5139 5146	内分泌性腺疾病
+T173	Disease 5172 5179	内分泌性腺疾病
+T174	Disease 5200 5207	性腺内分泌疾病
+T175	Disease 5228 5235	内分泌性腺疾病
+T176	Disease 5337 5338;5339 5342	性 腺疾病
+T177	Disease 5356 5362;5363 5364	内分泌性腺疾 病
+T178	Disease 5394 5401	性腺内分泌疾病
+T179	Test 2699 2701	身高
+T180	Anatomy 846 848	性腺
+T181	Anatomy 958 960	性腺
+T182	Anatomy 974 977	受精卵
+T183	Disease 1345 1348;1349 1351	青春期 延迟
+T184	Disease 1366 1372;1373 1375	青春期性发育 延迟
+T185	Anatomy 1994 1996	精子
+T186	Duration 1983 1986	2 年
+T187	Duration 2064 2067;2068 2070	3 个 月内
+T188	Anatomy 2118 2119;2120 2121	性 腺
+T189	Symptom 2689 2695	骨骺线早闭合
+T190	Symptom 2785 2791	骨骺过早闭合
+T191	Anatomy 2903 2905	乳腺
+T192	Test 4016 4017;4018 4023	基 因突变检测
+T193	Level 4093 4095	显著
+T194	Test 4221 4223	活检
+T195	Test 4224 4226	病理
+T196	Test 4305 4309	术后病理
+T197	Drug 4616 4622;4623 4624	抑制雄激素合 成
+T198	Disease 5020 5024	性腺疾病
+T199	Disease 174 175;176 178	糖 尿病
+T200	Disease 179 183	性腺疾病
+T201	Disease 233 238	内分泌性腺
+T202	Disease 241 244	糖尿病
+T203	Level 1022 1026	复杂疑难
+T204	Test 1049 1053	家系调查
+T205	Symptom 2082 2088	月经周期规律
+T206	Treatment 2341 2346	侵袭性方案
+T207	Symptom 2717 2721	临床症状
+T208	Test 2728 2729;2730 2735	激 素检测指标
+T209	Treatment 3492 3496	调脂抗炎
+T210	Symptom 3601 3604;3605 3606	躯体症 状
+T211	Symptom 3607 3616	精神神经系统的异常
+T212	Test_Value 3953 3957	46XY
+T213	Test_Value 3994 3998	显著升高
+T214	Test_Value 4501 4503	下降
+T215	Symptom 4476 4485	生长速度未明显减缓
+T216	Disease 493 501	性腺发育异常疾病
+T217	Anatomy 586 588	性腺
+T218	Anatomy 589 593	第二性征
+T219	Anatomy 611 614	下丘脑
+T220	Anatomy 615 617	垂体
+T221	Anatomy 618 620	性腺
+T222	Anatomy 820 826	性别决定基因
+T223	Anatomy 827 830	SRY
+T224	Disease 1115 1127	青少年性分化和性发育异常
+T225	Disease 1245 1247;1248 1254	男性 睾丸发育不良
+T226	Symptom 1255 1263	游离睾酮水平下降
+T227	Symptom 1274 1284	女性颗粒细胞凋亡增加
+T228	Disease 1311 1316	青少年肥胖
+T229	Disease 1674 1675;1676 1681	男 性发育不良
+T230	Drug 1742 1745	雄激素
+T231	Drug 1749 1752	hCG
+T232	Drug 1755 1758	hMG
+T233	Drug 1762 1766	GnRH
+T234	Drug 1858 1861	hMG
+T235	Treatment 1898 1904	GnRH 泵
+T236	Symptom 2077 2081	黄体生成
+T237	Symptom 2074 2076	排卵
+T238	Treatment 2141 2145;2146 2147	GnRH 泵
+T239	Method 2318 2320	口服
+T240	Symptom 2554 2556	昏迷
+T241	Drug 2676 2678	激素
+T242	SideEff 2797 2802	糖代谢异常
+T243	SideEff 2803 2806;2807 2808	骨质疏 松
+T244	Disease 2846 2856	青少年男性乳腺增生症
+T245	Reason 2975 2989;2990 2991	Klinefelter 综合 征
+T246	Reason 2992 2998	雄激素不敏感
+T247	Drug 3121 3124	雌激素
+T248	Symptom 3166 3170;3171 3172	雄激素过 多
+T249	Reason 3330 3334	遗传因素
+T250	Reason 3356 3360	环境因素
+T251	Reason 3335 3351;3352 3354	胰岛素抵抗和雄激素合成等相关基因 突变
+T252	Reason 3361 3365	营养过剩
+T253	Reason 3366 3368	肥胖
+T254	Symptom 3448 3450;3451 3454	胰岛 素抵抗
+T255	Disease 3472 3478	高雄激素血症
+T256	Drug 3546 3549	性激素
+T257	Drug 3634 3637	性激素
+T258	Drug 3709 3711	激素
+T259	Treatment 3716 3719	HRT
+T260	Anatomy 3736 3739	心血管
+T261	Disease 3880 3886	内分泌性腺病
+T262	Symptom 3925 3929	阴蒂增大
+T263	Symptom 3930 3933;3934 3940	双侧阴 唇可扪及包块
+T264	Test 3944 3951	染色体核型检查
+T265	Test 3975 3983	hCG 兴奋试验
+T266	Test 3985 3990;3991 3994	睾酮 /双 氢睾酮
+T267	Duration 4062 4065	3 年
+T268	Symptom 4059 4061	闭经
+T269	Symptom 4080 4087	显著男性化体征
+T270	Test 4125 4132	血清 ACTH
+T271	Test 4134 4136;4137 4145	游离 皮质醇浓度及节律
+T272	Symptom 4154 4158	高雄激素
+T273	Operation 4254 4258	肿瘤全切
+T274	Test 4467 4471	阴茎长度
+T275	Test 4486 4490	睾丸容积
+T276	Treatment 4581 4589	GnRHa 治疗
+T277	Treatment 5097 5104;5105 5106	GnRH 泵治 疗
+T278	Test 1236 1241	游离脂肪酸
+T279	Test 4339 4341	身高

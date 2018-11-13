@@ -1,0 +1,278 @@
+基础研究
+萍、李丹丹、高威、薛磊、庞妩燕);郑州:和医院内分泌科(赵志刚)
+骨髓内皮祖细胞移植治疗糖尿病大鼠周围
+神经病变的疗效观察
+元荣荣  朱丽萍  李丹丹  高威  薛磊  庞妩燕  赵志刚
+[摘要]   目的  观察大鼠骨髓内皮祖细胞(bone marrow-derived endothelial progenitor cells,EPCs)移植
+是否对糖尿病大鼠坐骨神经病变有治疗作用。 方法 用链脲佐菌素 60 mg / kg 腹腔注射制备糖尿病大鼠。
+将雄性 SD 大鼠分为正常组(NC 组)、糖尿病周围神经病变(diabetic peripheral neuropathy,DPN)组(DPN
+组)、DPN+生理盐水组(DPN+S 组)和 DPN+EPCs 组。 用肌电图与诱发电位仪测定坐骨神经运动神经传导
+速度(motor nerve conduction velocity,MNCV),在光镜和电镜下观察坐骨神经病理学改变。 结果 与 NC 组
+[(52. 91 ± 4. 53)m / s]相比,DPN 组、DPN+S 组大鼠的坐骨神经 MNCV 明显减慢[(36. 51 ± 6. 30 对 25. 37 ±
+5. 48)m / s,P<0. 01]。 与 DPN 组相比,DPN+EPCs 组的 MNCV 明显提高[(36. 51 ± 6. 30 对 46. 20 ± 11. 70)
+m / s,P<0. 01]。 光镜和电镜观察发现:DPN 组、DPN+EPCs 组和 DPN+S 组坐骨神经均有脱髓鞘及轴索萎缩
+等病理改变;与 DPN+S 组相比,DPN+EPCs 组的病变程度较轻。 结论 糖尿病大鼠成模 12 周时能成功构
+建 DPN 大鼠。 EPCs 移植能改善 DPN 大鼠的坐骨神经 MNCV、脱髓鞘及轴索萎缩等病理学改变。
+[关键词]   内皮祖细胞; 糖尿病大鼠; 周围神经病变
+Effect of bone marrow-derived endothelial progenitor cells on peripheral neuropathy of diabetic rats Yuan
+Rongrong *, Zhu Liping, Li Dandan, Gao Wei, Xue Lei, Pang Wuyan, Zhao Zhigang. *Department of
+Endocrinology, Huaihe Hospital, Henan University, Kaifeng 475000, China
+[Abstract]  Objective  To explore whether endothelial progenitor cells(EPCs) exerts therapeutic effects on
+rats with diabetic peripheral neuropathy(DPN). Methods Diabetes was induced by streptozotocin. Male SD rats
+were divided into normal control group(NC group), diabetic peripheral neuropathy group(DPN group), DPN+saline
+group(DPN+S group), and DPN+EPCs group. Sciatic nerve motor nerve conduction velocity(MNCV)was measured
+by a electromyography and trigger potentiometer instrument. Pathological changes were observed under optical
+microscope and electron microscope. Results Compared with normal control group[(52. 91 ± 4. 53) m / s], both
+DPN group and DPN+S group had slower sciatic nerve MNCV[(36. 51 ± 6. 30 and 25. 37 ± 5. 48)m/ s, P<0. 01].
+Compared with DPN group, the MNCV of sciatic nerve in DPN+EPCs group had improved significantly[(36. 51 ±
+6. 30 vs 46. 20 ± 11. 70) m / s,P<0. 01] . Sciatic nerve pathological changes, characterized by demyelination and
+axonal degeneration under light microscope and electron microscope were observed in DPN group, DPN+EPCs group,
+and DPN+S group. Compared with DPN+S group, the sciatic nerve pathological changes of DPN+EPCs group were
+alleviated. Conclusion After fed for 12 weeks, diabetic rats could progress to DPN rats. Transplantation of EPCs
+could improve MNCV, demyelination and axonal degeneration changes of sciatic nerver of the DPN rats.
+[Key words]  Endothelial progenitor cells; Diabetic rats; Peripheral neuropathy
+(Chin J Endocrinol Metab, 2015, 31: 982-987)
+糖 尿 病 周 围 神 经 病 变 ( diabetic peripheral
+neuropathy,DPN)是糖尿病最常见的慢性并发症之一,
+多数研究认为其患病率占糖尿病总人数的 30% ~
+50% [1]。 目前 DPN 的治疗方法有限,临床上急需有效
+的 DPN 治疗方法。
+神经的微循环障碍是 DPN 发生发展的主要病理
+生理因素。 研究发现糖尿病神经病变大鼠的坐骨神经
+血流和神经滋养血管减少[2]。 Asahara 等[3]在 1997 年
+发现骨髓内皮祖细胞( bone marrow-derived endothelial
+progenitor cells,EPCs),EPCs 不仅参与缺血区血管的
+修复[4],还具有旁分泌作用,能分泌多种促血管生成
+性、营养神经性细胞因子,如:血管内皮生长因子-A
+(vascular endothelial growth factor-A,VEGF-A)、成纤维
+细胞生长因子-2( fibroblast growth factor-2,FGF-2)、脑
+源性神经营养因子( brain-derived neurotrophic factor,
+BDNF)、基质细胞衍生因子-1α ( stromal cell-derived
+factor-1α,SDF-1α) [2]。 本研究从神经的功能和结构两
+方面观察 EPCs 对 DPN 的治疗效果。
+材料和方法
+一、 动物与方法
+1. 实验动物:清洁级 SD 大鼠,雄性,体重分别为
+35 ~ 45 g(用于提取 EPCs)和 220 ~ 240 g,均购自河南
+省实验动物中心。
+2. EPCs 的分离与培养[5]:将体重为 35 ~ 45 g 的
+SD 大鼠脱臼处死,75% 酒精浸泡 15 min,将大鼠放入
+无菌操作盘中。 取出胫骨和股骨,将其放入盛有 PBS
+的培养皿中。 在超净工作台内用注射器冲洗骨髓腔中
+的骨髓。 取大鼠淋巴细胞分离液于离心管内,将等体
+积的骨髓悬液加到分离液上面。 2 000 转 / min 离心 20
+min。 离心后由上到下分为 4 层,其中第 2 层为骨髓单
+个核细胞层。 吸取单个核细胞层,用 5 倍体积的 PBS
+与其混匀,依次以 1 600 转 / min,14 min;1 200 转 / min,
+10 min 离心。 用含 10% 胎牛血清的 EBM-2 培养基将
+细胞重悬,浓度调为(3 ~ 5) ×109 / L,取 4 ml 接种于包
+被有 25 μg 人纤维连接蛋白的培养瓶中,放入 CO2 培
+养箱中培养。 48 h 后首次换液,除去已贴壁的细胞,然
+后将悬浮细胞重新接种到包被有 25 μg 人纤维连接蛋
+白的培养瓶中培养,72 h 后换液,以后每 2 天换液。
+3. EPCs 的鉴定[5]:(1)双荧光染色法:当细胞培
+养至第 7 天时,吸去培养瓶中的培养基,用 PBS 洗涤 3
+次,加入含 DiL 标记的乙酰化低密度脂蛋白 ( 10
+mg / L)的培养基 1 ml,在 37℃、5% CO2和饱和湿度的
+培养箱中孵育 4 h。 吸去培养基,用 PBS 洗涤 3 次,然
+后用 4%多聚甲醛固定细胞 20 min,PBS 洗涤 2 次。 加
+入含 FITC 标记的荆豆凝集素 1(10 mg / L)的 PBS 1 ml,
+于 37℃条件下孵育 1 h,用 PBS 洗涤 3 次,在激光共聚
+焦显微镜下观察并拍照。 (2)matrigel 凝胶成血管实
+验:用含胎牛血清的 EBM-2 培养基将 matrigel 凝胶按
+1 : 1 体积稀释,用预冷的枪头将稀释过的凝胶加入预
+冷的 24 孔板,每孔 200 滋l,共加 4 个孔,轻微 晃使每
+个孔底部的凝胶覆盖均匀。 将 24 孔板放入 37℃、5%
+CO2及饱和湿度的培养箱内 30 min。 收集培养至第 12
+天的细胞,用含体积 10%胎牛血清的 EBM-2 培养基将
+其制成(5 ~ 10)×107 / L 的细胞悬液,每孔加 200 滋l 细
+胞悬液。 将 24 孔板放入培养箱中培养,每 2 h 在显微
+镜下观察 1 次。
+4. DPN 大鼠的制备:体重为 220 ~ 240 g 的雄性
+SD 大鼠,普通饲料(成分及比例:碳水化合物 51. 96%,
+脂肪 7. 39% ,蛋白质 18. 81% ,其它 21. 84% )适应性
+喂养 7 d。 7 d 后隔夜禁食(不禁水),第 2 天上午测血
+糖,血糖正常的大鼠纳入实验。 测定 10 只正常大鼠的
+坐骨神经 MNCV,其余大鼠用 1% 链脲佐菌素 (60
+mg / kg,用柠檬酸缓冲液稀释,pH 为 4. 5)一次性腹腔
+注射,72 h 后测空腹血糖,血糖≥16. 7 mmol / L 的大鼠
+为糖尿病大鼠。 糖尿病大鼠分别在 4、8、12 周时取 10
+只测定坐骨神经 MNCV 并取坐骨神经行病理学检查。
+与正常大鼠相比,当糖尿病大鼠的坐骨神经 MNCV 减
+慢,差异有统计学意义时,且存在病理学改变时我们认
+为 DPN 大鼠造模成功。
+5. 实验分组:STZ 注射前随机选 10 只血糖正常大
+鼠作为 NC 组。 获得 DPN 模型大鼠后将其随机分为
+DPN 组、DPN+S 组和 DPN+EPCs 组,每组 10 只。 每 2
+周测 1 次血糖,剔除血糖不合格的大鼠。 各组大鼠均
+给予普通饲料喂养,自由进食、水。
+6. 移植体外培养的 EPCs:成糖尿病模型 12 周时,
+给 DPN+EPCs 组大鼠沿右侧后肢坐骨神经走形肌肉
+注射培养至第 7 天的 EPCs(用生理盐水调成浓度为
+1×106个细胞 / ml)1 ml,分 10 个点注射。 用同样的方
+法给 DPN+S 组大鼠右侧后肢肌肉注射 1 ml 不含 EPCs
+的生理盐水。
+7. 坐骨神经 MNCV 的测定:糖尿病 12 周时测 NC
+组和 DPN 组大鼠的坐骨神经 MNCV,移植治疗 4 周时
+测 DPN+EPCs 组和 DPN+S 组大鼠的坐骨神经 MNCV。
+测量方法:麻醉大鼠,固定四肢。 暴露并游离坐骨神经
+干,将刺激针电极分别置于坐骨神经传出部位 (近
+端)、坐骨神经干分叉处(远端),两个记录针电极置于
+胫、腓骨肌肉饱满处,接地针电极置于臀浅肌,分别在
+近端和远端给坐骨神经一阈上电刺激,记录动作电位,
+测量近端到远端的距离,输入肌电图与诱发电位仪,得
+出坐骨神经 MNCV(m / s)。
+8. 坐骨神经病理学标本的制备:测完坐骨神经
+MNCV 后,将该鼠坐骨神经分为 2 段,其中一段放入
+4%戊二醛中,制备电镜标本。 另外 1 段放入中性甲醛
+中固定,常规制备石蜡切片。
+二、 统计学处理
+用 SPSS 17. 0 软件进行统计分析,计量资料用 x-± s
+表示。 两个样本均数的比较用 t 检验;多个样本均数
+的比较用方差分析。 P<0. 05 为差异有统计学意义。
+结    果
+一、 EPCs 的分离与培养
+刚分离的骨髓单个核细胞呈圆形,大小不等(图
+1A)。 第 3 天时可见少数细胞贴壁生长,细胞增大,呈
+纺锤形、不规则形、梭形。 第 4 ~ 10 天贴壁细胞迅速生
+长, 出现细胞集落(图 1B)。 第 10 天时绝大多数细胞
+注:EPCs:骨髓内皮祖细胞 Bone marrow-derived endothelial progenitor cells; A: 骨髓单个核细胞 Bone marrow mononuclear cells(×100); B: EPCs 集落
+EPCs colony(×50):C: 呈梭形的 EPCs EPCs presented spindle shape(×50);D:铺路石样 EPCs Cobblestone-like EPCs(×100)
+图 1  不同时期的骨髓内皮祖细胞
+Fig 1  Different periods of bone marrow-derived endothelial progenitor cells
+注:EPCs:骨髓内皮祖细胞 Bone marrow-derived endothelial progenitor cells;A:摄取 DiL 标记的乙酰化低密度脂蛋白的 EPCs uptake of Dil-ac-LDL by
+EPCs;B:结合 FITC 标记的荆豆凝集素 1 的 EPCs Uptake of FITC-UEA-1 by EPCs;C: 既摄取 Dil 标记的乙酰化低密度脂蛋白又结合 FITC 标记的荆豆凝
+集素 1 的 EPCs Uptake of both Dil-ac-LDL and FITC-UEA-1 by EPCs
+图 2  双荧光染色法鉴定 EPCs(×100)
+Fig 2  EPCs were identified by double fluorescent staining(×100)
+呈梭形(图 1C)。 第 10 天以后细胞生长缓慢,可见铺
+路石样结构(图 1D)。
+二、 EPCs 的鉴定
+体外培养至第 7 天的 EPCs,当其摄取 DiL 标记的
+乙酰化低密度脂蛋白时在显微镜下呈现出红色荧光
+(图 2A);当其结合 FITC 标记的荆豆凝集素 1 时在显
+微镜下呈现出绿色荧光(图 2B);既摄取 DiL 标记的乙
+酰化低密度脂蛋白又结合 FITC 标记的荆豆凝集素 1
+的 EPCs 在显微镜下呈现黄色荧光(图 2C)。
+将体外培养至第 12 天的 EPCs 接种在 matrigel 凝
+胶上培养,24 h 内能形成明显的血管网样结构(图 3)。
+三、 DPN 模型大鼠
+坐骨神经 MNCV:糖尿病 4 周、8 周大鼠的坐骨神
+经 MNCV 与正常大鼠相比均无统计学差异 ( P >
+0. 05);糖尿病 12 周时大鼠的坐骨神经 MNCV 较正常
+大鼠的明显减慢,差异有统计学意义(P<0. 01,表 1)。
+病理结果:光镜:正常大鼠(即 NC 组):神经纤维
+排列紧密,髓鞘着色、厚薄均匀,可见雪旺细胞 (图
+4A);糖尿病 4 周大鼠(DM4w 组):神经纤维排列紧密,
+髓鞘厚薄基本均匀, 可见少量空泡变性(图 4B); 糖尿
+图 3  matrigel 凝胶成血管实验(×50)
+Fig 3  The experiment of microvascular formation(×50)
+表 1  各组大鼠坐骨神经 MNCV(x-± s)
+Tab 1  Sciatic nerve MNCV of rats in each group(x-± s)
+组别
+group
+鼠数
+n
+坐骨神经 MNCV
+Sciatic nerve MNCV
+(m / s)
+NC 10 52. 91 ± 4. 53
+DM4w 10 48. 97 ± 4. 94
+DM8w 18 47. 78 ± 6. 74
+DPN 10 36. 51 ± 6. 30 a
+DPN+S 9 25. 37 ± 5. 48 a
+DPN+EPCs 8 46. 20 ± 11. 70bc
+注: NC: 正常对照组 Normal control group; DM4w: 糖尿病 4 周
+Diabetes 4 week group;DM8w:糖尿病 8 周 Diabetes 8 week group;DPN:糖
+尿病周围神经病变组 Diabetic peripheral neuropathy group;S:生理盐水
+Normal saline;EPCs:内皮祖细胞 Endothelial progenitor cells;MNCV:运动
+神经传导速度 Motor nerve conduction velocity; 与 NC 组比较 vs NC group,
+aP<0. 01; 与 DPN 组比较 vs DPN group,bP<0. 05; 与 DM12+S 组比较 vs
+DPN+S group,cP<0. 01
+病 8 周大鼠(DM8w 组):神经纤维排列基本紧密,髓鞘
+着色、厚薄不均,空泡变性明显,轴索变细(图 4C)。
+因此我们认为 12 周病程的糖尿病大鼠可以作为
+本次实验的 DPN 动物模型。
+四、 各组大鼠的一般情况
+在实验过程中,NC 组和 DPN 组无死亡,DPN +
+EPCs 组死亡 2 只,DPN+S 组死亡 1 只。
+五、 坐骨神经 MNCV
+与 NC 组相比,DPN 组和 DPN+S 组大鼠的坐骨神
+经 MNCV 明显减慢,差异有统计学意义(P<0. 01);
+DPN+EPCs 组与 NC 组相比,两者的 MNCV 无统计学
+差异(P>0. 05,表 1)。
+六、 坐骨神经病理学改变
+光镜发现:DPN 组神经纤维排列略松散,髓鞘厚
+薄不均并出现空泡变性,轴索变细(图 4D)。 DPN+S
+组神经纤维排列明显松散,髓鞘严重厚薄不均并出现
+严重空泡变性,轴索变细甚至消失(图 4E)。 DPN+
+EPCs 组坐骨神经脱髓鞘及轴索萎缩等病理改变均较
+DPN 组严重,但较 DPN+S 组减轻(图 4F)。
+电镜发现:NC 组髓鞘厚薄均匀,板层致密有序呈
+同心圆形排列;轴索内电子密度均匀,可见线粒体及大
+量神经微丝和微管;雪旺细胞正常(图 5A、图 6A)。
+DPN 组髓鞘厚薄不均、部分板层分离,呈弯曲、扭转状
+态,有的增生到轴索里,轴索变细;雪旺细胞细胞器变
+性, 染色质凝集, 核膜不完整(图 5B、图 6B)。 DPN+S
+组: 髓鞘厚薄严重不均, 板层消失范围更大,高度弯曲
+扭转; 轴索变细有的甚至闭锁; 雪旺细胞细胞器进一
+步变性甚至消失,染色质凝集甚至出现核固缩,核膜不
+完整(图 5C、图 6C)。 DPN+EPCs 组:髓鞘厚薄不均情
+注:略语同表 1 The abbreviations are the same as Tab 1;A:NC;B:DM4w;C:DM8w;D:DPN;E:DPN+S;F: DPN+EPCs
+图 4  各组大鼠坐骨神经光学显微镜下观察结果(HE 染色×400)
+Fig 4  Sciatic nerve optical microscope observations of rats in each group(HE staining ×400)
+注:略语同表 1 The abbreviations are the same as Tab 1;A:NC;B: DPN;C:DPN+S;D: DPN+EPCs
+图 5  各组大鼠坐骨神经电镜下观察结果(×3 000)
+Fig 5  Sciatic nerve electron microscope observations of rats in each group(×3 000)
+注:略语同表 1 The abbreviations are the same as Tab 1;A:NC;B: DPN;C:DPN+S;D: DPN+EPCs
+图 6  各组大鼠坐骨神经雪旺细胞电镜下观察结果(×3 000)
+Fig 6  Schwann cell of sciatic nerve electron microscope observations of rats in each group(×3 000)
+况较轻,板层结构大部分存在;雪旺细胞细胞器基本正
+常,染色质凝集,核膜完整(图 5D、图 6D)。
+讨    论
+DPN 是一种破坏性疾病,严重降低患者的生活质
+量,因此人们对 DPN 的研究越来越多。 目前认为 DPN
+的发病机制有:(1)多元醇通路亢进、肌醇减少;(2)非
+酶糖基化作用;(3)糖、脂代谢异常;(4)氧化应激;(5)
+微循环障碍;(6)血液流变学异常;(7)血管活性因子
+异常;(8)神经营养因子及相关神经肽、受体减少等。
+针对以上发病机制临床上的治疗方法主要有:严格控
+制血糖、改善微循环、抗氧化应激和营养神经。 近年
+来,越来越多的研究认为骨髓干细胞移植对糖尿病神
+经病变有治疗作用[2,6-8]。
+EPCs 是血管内皮细胞的前体细胞,其在外周血中
+的含量极少,因此本研究从骨髓中提取 EPCs。 目前
+EPCs 的分离方法主要有免疫磁珠法、密度梯度离心法
+和差速贴壁法[9]。 免疫磁珠法分离得到的 EPCs 纯度
+高,但步骤复杂、价格昂贵[10]。 因此本研究选用密度
+梯度离心法联合差速贴壁法来分离 EPCs,从而提高
+EPCs 的纯度。 目前 EPCs 的鉴别方法主要有特征性表
+面标志鉴定法、双荧光染色法、matrigel 凝胶成血管实
+验等[5,9]。 本研究用双荧光染色法和 matrigel 凝胶成
+血管实验均证实我们培养的细胞是 EPCs。
+STZ 制备的糖尿病大鼠多久出现周围神经病变目
+前没有统一标准。 有研究显示 STZ 制备的糖尿病大
+鼠在糖尿病 4 周时坐骨神经 MNCV 已经较正常大鼠
+明显减慢(P<0. 01) [11]。 本研究发现糖尿病 4 周、8 周
+时坐骨神经 MNCV 与正常大鼠相比不减慢 ( P >
+0. 05)。根据统计学原理(x-± s),我们将 DPN 大鼠的诊
+断标准定为坐骨神经 MNCV < 47. 95 m / s (52. 95 ±
+5. 00)m / s。 糖尿病 4 周和 8 周时仅有部分大鼠的坐
+骨神经 MNCV < 47. 95 m / s,分别占总数的 40% 和
+60% 。 糖尿病 12 周时 10 只大鼠的坐骨神经 MNCV
+均<47. 95 m / s,因此,将糖尿病 12 周大鼠作为 DPN 大
+鼠更可靠。
+正常情况下 EPCs 储存于骨髓中,在组织缺血、血
+管损伤等因素刺激下 EPCs 从骨髓中动员,归巢到组
+织缺血部位并发挥作用。 我们将外源性 EPCs 直接注
+射到坐骨神经周围,缩短了 EPCs 的归巢时间。
+实验结果显示,EPCs 移植治疗 4 周后大鼠坐骨神
+经 MNCV 较治疗前明显改善,证明 EPCs 移植可以改
+善 DPN 大鼠的 MNCV。 这种 EPCs 移植后的治疗效果
+也被 Naruse 等[12]证实。 本研究不仅测定了坐骨神经
+MNCV,还观察了坐骨神经的病理学改变。 HE 染色及
+电镜结果均显示:EPCs 移植能增加神经纤维数量,减
+轻脱髓鞘及轴索萎缩等病理学改变。 EPCs 移植有望
+成为治疗 DPN 的一个新方法。
+该实验尚有以下局限性:样本量不大,长期疗效不
+明确,未进行人体实验。

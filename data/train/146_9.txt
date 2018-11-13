@@ -1,0 +1,272 @@
+临床研究
+基金项目:上海市科委项目(134119b2500)
+Irisin 与超重 / 肥胖及相关代谢参数的研究
+杨梅丽  王宏涛  陈培红  金华  谢心苗  高婷  杨莉丽  于雪梅
+[摘要]   目的  探讨血 Irisin 水平与超重 /肥胖及相关代谢参数的关系。 方法 招募 175 名上海市奉
+贤区 40 ~ 60 岁身体健康的人群。 根据世界卫生组织诊断标准,体重指数(BMI)≥25 kg / m2,即可诊断超
+重 /肥胖,19<BMI<25 kg / m2 为正常体重。 血清 Irisin 用酶联免疫吸附法测定。 Irisin 与代谢参数的关系采
+用 Pearson 相关分析,Irisin 与超重 /肥胖的关系采用 logistic 回归分析。 结果 超重 /肥胖者血 Irisin 水平较
+正常体重者降低(P<0. 05)。 血 Irisin 水平与空腹血糖( r = 0. 224,P<0. 05)、HBA1C( r = 0. 281,P<0. 05)、总
+胆固醇( r=0. 203,P<0. 05)、高密度脂蛋白胆固醇( r=0. 199,P<0. 05)、低密度脂蛋白胆固醇( r= 0. 195,P<
+0. 05)呈正相关,而与肌酐( r= -0. 184,P<0. 05)呈负相关。 多元回归分析显示,Irisin 水平与超重 /肥胖负
+相关(OR=0. 994, 95% CI 0. 989 ~ 0. 998, P = 0. 004)。 结论 超重 /肥胖者血 Irisin 水平较正常体重者偏
+低,且 Irisin 与超重 /肥胖呈负相关。
+[关键词]   Irisin; 肥胖; 能量代谢
+Relationship of irisin with overweight / obesity and related metabolic parameters Yang Meili, Wang Hongtao,
+Chen Peihong, Jin Hua, Xie Xinmiao, Gao Ting, Yang Lili, Yu Xuemei. Department of Endocrinology and
+Metabolism, Fengxian Central Hospital, Shanghai 201499, China
+[Abstract]   Objective   To investigate the association of serum irisin level with overweight / obesity and
+various metabolic parameters. Methods Totally 175 healthy subjects aged 40-60 year were recruited in Fengxian
+District of Shanghai. The diagnosis of overweight / obesity was identified according to the diagnostic standards
+recommended by the World Health Organization. Subjects with body mass index(BMI)≥25 kg / m2 and 19<BMI<25
+kg / m2 were respectively diagnosed as overweight / obesity and normal weight respectively. Serum irisin was quantified
+by ELISA and its association with metabolic parameters was analyzed by Pearson bivariate correlation. Multivariate
+logistic regression analysis was performed to assess the association between irisin levels and overweight / obesity.
+Results Serum irisin levels were significantly decreased in overweight / obesity group compared with the control group
+(P<0. 05). Circulating irisin level was positively correlated with fasting plasma glucose(r =0. 224, P<0. 05), HBA1C
+( r=0. 281, P<0. 05), total cholesterol( r = 0. 203, P<0. 05), high density lipoprotein-cholesterol( r = 0. 199, P<
+0. 05), low density lipoprotein-cholesterol( r=0. 195, P<0. 05),and negatively correlated with serum creatinine( r=
+-0. 184, P<0. 05) . Multivariable logistic regression analysis revealed that increased irisin levels were associated with
+reduced odds of overweight / obesity(OR = 0. 994, 95% CI 0. 989-0. 998, P = 0. 004). Conclusions Serum irisin
+levels were decreased in subjects with overweight / obesity and inversely associated with overweight / obesity.
+[Key words]  Irisin; Obesity; Energy metabolism
+(Chin J Endocrinol Metab, 2015, 31: 417-420)
+能量摄入与消耗之间的不平衡是造成肥胖的根本
+原因[1,2],维持能量平衡成为控制体重的重要手段。
+众所周知,人体脂肪组织主要由白色脂肪(WAT)、棕
+色脂肪(BAT)两类构成。 WAT 主要储存能量[3-5]。 而
+BAT 主要通过解耦联蛋白-1(UCP-1)将线粒体内氧化
+磷酸化产生的能量以热的形式散发,并增强人体对体
+重增加的易感性,从而预防肥胖及相关代谢疾病的发
+生[6-9]。 因此,提高棕色组织产热为防治肥胖研究奠定
+了理论基础。
+运动是防治肥胖的有效方式。 2012 年初 Bostr觟m
+等[10]研究发现运动诱导骨骼肌表达过氧化物酶体增
+殖物激活受体 γ 辅助激活因子 α(PGC-1α),后者可促
+进3型纤连蛋白结构域 5 ( FNDC5) 的表达,随后
+FNDC5 在体内被剪切转变为一种新的形式 Irisin。
+Irisin 从骨骼肌合成分泌后,通过血液循环作用于
+WAT,使 WAT 内 UCP-1 表达增加,从而使 WAT 转变
+为具有分解代谢脂肪特征的 BAT。 因此,Irisin 将成为
+肥胖防治研究的新靶点。 本研究旨在探讨人体血
+Irisin 水平与超重 /肥胖及相关代谢参数的关系。
+对象和方法
+一、 对象
+175 名(男性 72 名,女性 103 名)40 ~ 60 岁身体健
+康的调查对象均来自 2012 年 12 月至 2013 年 9 月于
+上海市奉贤区展开以社区为基础的健康调查。 所有受
+试者依次进行身高、体重测定,根据世界卫生组织诊断
+标准,体重指数(BMI)≥25 kg / m2,即可诊断超重 /肥
+胖,19<BMI<25 kg / m2 为正常体重。 其中 70 例是超
+重 /肥胖者,105 名是正常体重者。 在 BMI 正常人群中
+选取与超重 /肥胖者群体性别相匹配的研究对象(正
+常组 70 例,超重 /肥胖组 70 例)。 所有研究对象均未
+用降血糖药及胰岛素,并排除急慢性炎症性疾病、恶性
+肿瘤、严重心脑血管及肝肾疾病等。 该项研究由奉贤
+中心医院伦理委员会批准,所有研究对象提供书面知
+情同意书。
+二、 方法
+人体代谢参数及 Irisin 测定由专业人员专门负责
+测定所有受试者的身高、体重(脱鞋、清晨空腹状态),
+BMI=体重( kg) /身高2(m2 );受试者站立,双足分开
+25 ~ 30 cm,使体重均匀分配,腰围测量腋中线髂棘与
+第 12 肋下缘连线的中点水平的周径,臀围测量环绕臀
+部的骨盆最突出点的周径;所有受试者均于前夜禁食
+8 h,次日晨起、空腹、安静状态下采取静脉血 4 ml(避
+免溶血),置入真空非抗凝玻璃试管中,标本置于室温
+下 30 ~ 60 min,待血液凝固后用离心机(3 000 转 / min)
+离心 15 min,所得上清液保存于-80℃;所有受试者空
+腹血糖(FPG)、总胆固醇(TC)、甘油三酯(TG)、高密
+度脂蛋白胆固醇 ( HDL-C)、低密度脂蛋白胆固醇
+(LDL-C)、游离脂肪酸(FFA)、谷丙转氨酶(ALT)、谷
+草转氨酶(AST)、尿素、肌酐、尿酸均用美国贝克曼
+DXC800 全自动生化分析仪进行检测;HBA1C用全自动
+HBA1C分析仪 HLC-723G7 测定;空腹胰岛素(FINS)用
+德国 BECK 及其试剂测定;稳态模型评估的胰岛素抵
+抗指数 ( HOMA-IR) = FPG ( mmol / L) × FINS ( mU) /
+22. 5;在清晨空腹状态下,受试者骨骼肌量、体脂肪量、
+体脂百分比均用人体成份分析仪 INBODY S10 测定;
+血浆 Irisin 用酶联免疫吸附法(ELISA)进行检测,该试
+剂购买自美国 Phoenix Pharmaceuticals 公司,其批内
+CV<10% ,批间 CV<15% 。
+三、 统计学处理
+采用 SPSS 17. 0 软件进行统计学分析。 计量数据
+以 x-± s 表示;组间计量资料均数比较采用 t 检验,分类
+变量用卡方检验;相关性采用 Pearson 相关分析;Irisin
+与超重 /肥胖的关系采用 logistic 回归分析;以 P<0. 05
+为差异有统计学意义。
+结    果
+一、 正常组与超重 /肥胖组基本代谢参数的比较
+正常组与超重 /肥胖组间年龄、性别、HBA1C、TC、
+LDL-C、FFA、AST、尿素、肌酐差异均无统计学意义(P>
+0. 05)。 超重 /肥胖组体重、 BMI、 腰围、 臀围、腰臀比、
+表 1  正常组与超重 /肥胖组的基本代谢参数(x-± s)
+Tab 1  General features of normal and overweight / obesity groups(x-± s)
+组别
+Group
+例数
+n
+男性 / 女性
+Male / Female
+年龄
+(岁)
+Age
+(year)
+体重
+Weight
+(g)
+BMI
+(kg / m2)
+WC
+(cm)
+HC
+(cm) WHR
+骨骼肌量
+Skeletal muscle
+content
+(kg)
+体脂肪量
+Body fat
+content
+(kg)
+CON   70 26 / 44 52. 32 ± 5. 51 58. 07 ± 7. 31 22. 73 ± 1. 59 78. 75 ± 6. 56 88. 91 ± 4. 67 0. 89 ± 0. 07 22. 25 ± 4. 38 17. 32 ± 3. 67
+OW / OB 70 35 / 35 51. 76 ± 5. 81 71. 06 ± 8. 85b 27. 29 ± 2. 46b 89. 16 ± 8. 76b 95. 36 ± 5. 59b 0. 94 ± 0. 08b 25. 31 ± 4. 83b 25. 09 ± 5. 17b
+组别
+Group
+例数
+n
+BF%
+(% )
+SBP
+(mmHg)
+DBP
+(mmHg)
+FPG
+(mmol / L)
+HBA1C
+(% )
+FINS
+(mU / L)
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+CON   70 29. 94 ± 5. 76 120 ± 16 77 ± 10 5. 83 ± 1. 87 5. 90 ± 1. 29 6. 88 ± 3. 46 5. 38 ± 1. 16 1. 43 ± 1. 19 1. 42 ± 0. 32
+OW / OB 70 35. 44 ± 6. 39b 130 ± 16b 83 ± 10b 6. 55 ± 2. 24a 6. 24 ± 1. 48 9. 66 ± 3. 91b 5. 24 ± 1. 08 1. 88 ± 1. 35a 1. 31 ± 0. 25a
+组别
+Group
+例数
+n
+LDL-C
+(mmol / L)
+FFA
+(mmol / L) HOMA-IR
+ALT
+(IU / L)
+AST
+(IU / L)
+BUN
+(mmol / L)
+SCr
+(μmol / L)
+UA
+(μmol / L)
+Irisin
+(ng / ml)
+CON   70 3. 12 ±0. 89 0. 45 ±0. 21 1. 71 ±1. 15 25. 20 ±14. 23 23. 14 ±6. 11 4. 67 ±1. 15 61. 01 ±15. 16 271. 10 ±71. 94 301. 72 ±113. 18
+OW/ OB 70 3. 15 ±0. 74 0. 50 ±0. 21 2. 74 ±1. 34b 32. 20 ±20. 82a 25. 94 ±13. 23 4. 76 ±1. 08 61. 23 ±12. 51 301. 63 ±81. 91a 253. 12 ±95. 66b
+注:CON:正常对照 Normal control;OW / OB:超重肥胖 Overweight or obesity;BMI:体重指数 Body mass index;WC:腰围 Waist circumference; HC:臀围
+Hip circumference;WHR:腰臀比 Waist to hip ratio;BF% : 体脂比 Percentage of body fat; SBP:收缩压 Systolic blood pressure;1 mmHg=0. 133kPa;DBP:舒张
+压 Diastolic blood pressure; FPG:空腹血糖 Fasting plasma glucose; FINS:空腹胰岛素 Fasting insulin; TC:总胆固醇 Total cholesterol; TG:甘油三酯
+Triglyceride;HDL-C;高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;FFA: 游离
+脂肪酸 Free fatty acid;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment-insulin resistant index;ALT: 谷丙转氨酶 Alanine
+aminotransferase;AST: 谷草转氨酶 Aspartate aminotransferase;BUN:尿素氮 Blood urea nitrogen; SCr:血肌酐 Creatinine;UA:尿酸 Uric acid;与 CON 组比较
+vs CON group,aP<0. 05,bP<0. 01
+骨骼肌量、 体脂肪量、 体脂百分比、收缩压、舒张压、胰
+岛素、FPG、TG、HOMA-IR、ALT、尿酸均高于正常组,而
+血 Irisin、HDL-C 水平较正常组降低(P<0. 05,表 1)。
+二、 血 Irisin 与代谢参数的相关分析
+血 Irisin 水平与 FPG( r = 0. 224,P<0. 05)、HBA1C
+( r=0. 281,P<0. 05)、TC( r = 0. 203,P<0. 05)、HDL-C
+( r=0. 199,P<0. 05)、LDL-C( r = 0. 195,P<0. 05)呈正
+相关,而与肌酐( r= -0. 184,P<0. 05)呈负相关。
+三、 Irisin 与超重 /肥胖的 logistic 回归分析
+经矫正多种变量后,Irisin 水平均与超重 /肥胖呈
+负相关(表 2)。
+表 2  Irisin 与超重 /肥胖的 logistic 回归分析
+Tab 2  Logistic analysis of irisin and overweight / obesity
+模型
+Model OR 95% CI P
+1 0. 995 0. 992-0. 999 0. 010
+2 0. 994 0. 989-0. 999 0. 031
+3 0. 991 0. 985-0. 997 0. 003
+4 0. 994 0. 990-0. 998 0. 005
+5 0. 995 0. 991-0. 999 0. 008
+6 0. 994 0. 990-0. 999 0. 010
+7 0. 994 0. 989-0. 998 0. 004
+8 0. 993 0. 988-0. 998 0. 012
+9 0. 994 0. 989-0. 998 0. 007
+10 0. 994 0. 990-0. 998 0. 003
+注:模型 Model 1:未校正变量 Without adjustment; 模型 2:校正体重
+Adjusting body weight;模型 3:校正腰围、臀围、腰臀比 Adjusting waist
+circumference,hip circumference, and waist to hip ratio;模型 4:校正体脂比
+Adjusting the percentage of body fat;模型 5:校正谷丙转氨酶、谷草转氨酶、
+尿素、肌酐、尿酸 Adjusting alanine aminotransferase,aspartate aminotrans-
+ferase, blood urea nitrogen,creatinine,and uric acid;模型 6:校正总胆固醇、
+甘油三酯、高密度脂蛋白胆固醇、低密度脂蛋白胆固醇、游离脂肪酸
+Adjusting total cholesterol, triglyceride, high density lipoprotein-cholesterol,
+low density lipoprotein-cholesterol,and free fatty acid;HOMA-IR:稳态模型
+评估的胰岛素抵抗指数 Homeostasis model assessment-insulin resistant
+index;模型 7:校正空腹血糖、HBA1C、HOMA-IR、空腹胰岛素 Adjusting
+fasting plasma glucose,HBA1C,HOMA-IR,fasting insulin;模型 8:校正体脂
+肪量 Adjusting body fat content; 模 型 9: 校 正 腰 围 Adjusting waist
+circumference;模型 10: 校 正 舒 张 压、 收 缩 压 Adjusting systolic blood
+pressure and diastolic blood pressure
+讨    论
+体内外实验均证实运动激活物 Irisin 可使 WAT
+内 UCP-1 表达增加,即诱导白色脂肪棕色化。 此外,
+Irisin 不仅可以增加动物模型的整体能量消耗,还可以
+改善高脂饮食小鼠的糖耐量,并促进空腹胰岛素水平
+降低[10]。 这些结果足以表明,Irisin 很可能是连接运
+动与能量代谢的重要枢纽[11-14]。 Kristensen 等[15] 表明
+以胰岛素抵抗为特征的肥胖者骨骼肌内 PGC-1α 所诱
+导的线粒体氧化磷酸化是减少的。 本研究显示超重 /
+肥胖者血 Irisin 水平较正常体重者偏低。 因此,推测
+超重 /肥胖者血 Irisin 水平较低可能与骨骼肌内 PGC-
+1α 表达受损有关。 除此,Irisin 作用于脂肪组织的信
+号通路异常也可能参与了肥胖的发病机制,而二者的
+因果关系仍需进一步研究。 多元逻辑回归分析经矫正
+多种变量后得出, Irisin 水平与超重 /肥胖呈负相关
+(OR=0. 994, 95% CI 0. 989 ~ 0. 998, P = 0. 004)。 小
+鼠实验已证实 Irisin 具有明显减肥和改善胰岛素抵抗
+作用,同时没有出现不良反应,且小鼠与人体 Irisin 的
+同源性一致[10,16],因此,Irisin 很可能会成为人类防治
+超重 /肥胖及相关代谢疾病的有效蛋白质类药物。
+Irisin 与人体代谢参数的相关分析也有所报道。
+Liu 等[17]对新加坡国家年龄为(40. 6 ± 12. 7)岁的非糖
+尿病人群分析后表明 Irisin 与 FPG、TC、LDL-C 呈正相
+关。 本研究相关分析提示血 Irisin 水平与 FPG、TC、
+HDL-C、LDL-C 呈正相关(均 P<0. 05),与 Liu 等[17] 的
+结果一致,表明 Irisin 确实与能量代谢存在正向调节
+关系,但其具体分子机制仍需进一步探讨。 Choi 等[18]
+对韩国大邱市糖耐量正常者及初发 2 型糖尿病群体研
+究后发现,Irisin 与 HBA1C呈负相关。 而本研究显示血
+Irisin 水平与 HBA1C呈正相关( r = 0. 281,P<0. 05),结
+果的不一致可能与 HBA1C具有低敏感性、高度特异性
+及年龄、种族、地理差异有关[19]。 本研究还揭示 Irisin
+与肌酐呈负相关( r = -0. 184,P<0. 05),与 Wen 等[20]
+的结果一致,表明 Irisin 很可能对肾功能具有保护作
+用,具体机制仍不清楚。
+本研究存在的缺陷如下:(1)本研究的样本量偏
+小;(2)未控制运动等混杂因素;(3)未考虑 Irisin 的
+mRNA 水平,以及其它细胞因子如肿瘤坏死因子 α 是
+否影响 Irisin 表达。 因此,Irisin 在人体的分泌调节和
+作用机制仍需进一步论证。
+总之,超重 /肥胖者循环 Irisin 水平较正常体重者
+降低,Irisin 与超重 /肥胖呈负相关,表明 Irisin 很可能
+会成为人类防治超重 /肥胖及相关代谢疾病的有效蛋
+白质类药物。 然而,仍需大量研究进一步探讨 Irisin
+增加能量消耗及防治超重 /肥胖等相关代谢疾病的分
+子机制。

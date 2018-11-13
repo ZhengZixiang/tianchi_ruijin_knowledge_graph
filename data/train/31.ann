@@ -1,0 +1,564 @@
+T1	Disease 359 364	1型糖尿病
+T2	Disease 1938 1943	1型糖尿病
+T3	Disease 2075 2080	1型糖尿病
+T4	Disease 2751 2756	1型糖尿病
+T5	Disease 2852 2857	1型糖尿病
+T6	Disease 2964 2969	1型糖尿病
+T7	Disease 3494 3499	1型糖尿病
+T8	Disease 7732 7737	1型糖尿病
+T9	Disease 463 468	2型糖尿病
+T10	Disease 489 494	2型糖尿病
+T11	Disease 555 560	2型糖尿病
+T12	Disease 949 954	2型糖尿病
+T13	Disease 961 966	2型糖尿病
+T14	Disease 1086 1091	2型糖尿病
+T15	Disease 1208 1213	2型糖尿病
+T16	Disease 1883 1888	2型糖尿病
+T17	Disease 1955 1960	2型糖尿病
+T18	Disease 1965 1970	2型糖尿病
+T19	Disease 2054 2059	2型糖尿病
+T20	Disease 2082 2087	2型糖尿病
+T21	Disease 2499 2504	2型糖尿病
+T22	Disease 3060 3065	2型糖尿病
+T23	Disease 3107 3112	2型糖尿病
+T24	Disease 3674 3679	2型糖尿病
+T25	Disease 4421 4426	2型糖尿病
+T26	Disease 5143 5148	2型糖尿病
+T27	Disease 6777 6782	2型糖尿病
+T28	Disease 7710 7715	2型糖尿病
+T29	Disease 8342 8347	2型糖尿病
+T30	Disease 8648 8653	2型糖尿病
+T31	Disease 9948 9953	2型糖尿病
+T32	Disease 10499 10504	2型糖尿病
+T33	Disease 10886 10892	2 型糖尿病
+T34	Disease 10754 10760	1 型糖尿病
+T35	Disease 10763 10769	2 型糖尿病
+T36	Disease 10792 10794	肾病
+T37	Disease 10795 10797;10798 10799	高血 压
+T38	Disease 10800 10805	脂代谢异常
+T39	Disease 10806 10811	视网膜病变
+T40	Disease 10812 10817	NAFLD
+T41	Disease 10818 10822	PCOS
+T42	Disease 10824 10826;10827 10828	经病 变
+T43	Disease 10829 10838	阻塞性睡眠呼吸暂停
+T44	Test 10851 10853	血脂
+T45	Test 10854 10856	肝酶
+T46	Test 10857 10866	尿白蛋白/肌酐比值
+T47	Test 10869 10871	血压
+T48	Test 10872 10875;10876 10877	眼底检 查
+T49	Disease 10609 10615	2 型糖尿病
+T50	Disease 10620 10623	糖尿病
+T51	Reason 10637 10643	糖尿病家族史
+T52	Reason 10644 10648	自身抗体
+T53	Test 10649 10650;10651 10653	胰 岛素
+T54	Test 10655 10662	C 肽释放试验
+T55	Drug 10701 10705	二甲双胍
+T56	Drug 10706 10709	胰岛素
+T57	Symptom 10721 10723;10724 10725	高血 糖
+T58	Disease 10733 10735	酮症
+T59	Disease 10739 10744	酮症酸中毒
+T60	Anatomy 397 402	胰岛β细胞
+T61	Disease 178 185	儿童青少年肥胖
+T65	Disease 431 437;438 439	儿童青少年肥 胖
+T66	Disease 455 461	1 型糖尿病
+T62	Disease 342 346;347 348	2型糖尿 病
+T63	Disease 214 220	2 型糖尿病
+T67	Disease 521 527	2 型糖尿病
+T71	Disease 1065 1072	多囊卵巢综合征
+T72	Disease 1061 1064	高血压
+T73	Disease 1044 1047	高血糖
+T74	Disease 1079 1082	脂肪肝
+T75	Disease 1073 1077	PCOS
+T76	Disease 1054 1055;1056 1060	脂 代谢异常
+T77	Reason 1030 1031;1032 1040	胰 岛素分泌绝对不足
+T68	Reason 1016 1023	β细胞功能衰竭
+T78	Reason 977 981;982 987	胰岛素分 泌相对不足
+T79	Reason 969 974	胰岛素抵抗
+T69	Reason 989 993	血糖升高
+T70	Reason 1000 1003;1004 1005	代谢异 常
+T80	Disease 1232 1235	糖尿病
+T81	Disease 1252 1255	糖尿病
+T82	Disease 1260 1263	糖尿病
+T83	Test 1272 1277	血浆葡萄糖
+T84	Disease 1291 1293;1294 1295	糖尿 病
+T85	Disease 1305 1308	糖尿病
+T86	Test_Value 1356 1367	≥7.0 mmol/L
+T87	Test_Value 1368 1377	126 mg/dl
+T88	Test 1351 1355	空腹血糖
+T89	Test 1383 1388	糖耐量试验
+T90	Test 1425 1430	2 h血糖
+T91	Test_Value 1430 1442	≥11.1 mmol/L
+T92	Test_Value 1444 1453	200 mg/dl
+T93	Symptom 1463 1467	三多一少
+T94	Disease 1459 1462	糖尿病
+T95	Test 1470 1472;1473 1475	随机 血糖
+T96	Test_Value 1475 1487	≥11.1 mmol/L
+T97	Test_Value 1489 1498	200 mg/dl
+T98	Test 1503 1508;1509 1510	糖化血红蛋 白
+T99	Test 1511 1516	HBA1C
+T100	Test_Value 1518 1523	>6.5%
+T101	Test 1647 1651	空腹血糖
+T102	Test 1652 1653;1654 1656	糖 耐量
+T103	Disease 1726 1729	糖尿病
+T104	Disease 1754 1756;1757 1759	急性 感染
+T105	Disease 1760 1762	创伤
+T106	Disease 1788 1791	糖尿病
+T107	Test 1799 1801	血糖
+T108	Disease 1817 1823	空腹血糖受损
+T109	Disease 1824 1827;1828 1830	糖耐量 受损
+T110	Disease 1831 1834	糖尿病
+T111	Disease 1838 1841	糖尿病
+T112	Disease 1855 1858	糖尿病
+T113	Disease 1869 1874;1875 1876	1 型糖尿 病
+T114	Symptom 1975 1977	肥胖
+T115	Symptom 1978 1982	起病缓慢
+T116	Symptom 1983 1988	症状不明显
+T117	Symptom 1989 1995	发病年龄较大
+T118	Symptom 2011 2021	胰岛素抵抗相关的表现
+T119	Disease 2024 2028	黑棘皮病
+T120	Disease 2029 2032	高血压
+T121	Disease 2033 2037	血脂异常
+T122	Disease 2038 2042	PCOS
+T123	Disease 2045 2051	1 型糖尿病
+T124	Disease 2490 2496	1 型糖尿病
+T125	Symptom 2524 2526	肥胖
+T126	Disease 2558 2564	1 型糖尿病
+T127	Disease 2529 2535	2 型糖尿病
+T128	Disease 2542 2544	肥胖
+T129	Disease 2584 2588;2589 2591	2 型糖 尿病
+T130	Disease 2607 2611	代谢紊乱
+T131	Disease 2613 2615	酮症
+T132	Disease 2616 2620;2621 2622	酮症酸中 毒
+T133	Disease 2642 2643;2644 2646	糖 尿病
+T134	Test 2678 2681	胰岛素
+T135	Test 2683 2685;2686 2690	C肽 释放试验
+T136	Disease 2706 2712	1 型糖尿病
+T137	Disease 2714 2720	2 型糖尿病
+T138	Test 2726 2729	胰岛素
+T139	Test 2731 2734	C 肽
+T140	Test 2758 2760	C肽
+T141	Symptom 2776 2779	高血糖
+T143	Symptom 2783 2786	高血糖
+T144	Anatomy 2787 2789;2790 2792	胰岛 细胞
+T145	Disease 2803 2807;2808 2810	2 型糖 尿病
+T146	Test 2812 2815	C 肽
+T147	Test 2835 2837	C肽
+T148	Disease 2882 2888	1 型糖尿病
+T149	Disease 2890 2896	2 型糖尿病
+T150	Test 2862 2866	自身抗体
+T151	Test 2985 2989	自身抗体
+T152	Test_Value 2989 2991	阴性
+T153	Disease 3020 3023;3024 3027	2 型 糖尿病
+T154	Test 3082 3086	自身抗体
+T155	Test_Value 3086 3088	阳性
+T156	Disease 3122 3125	糖尿病
+T157	Test 3125 3126;3127 3130	自 身抗体
+T158	Test_Value 3136 3138	阳性
+T159	Disease 3146 3153	Grave 病
+T160	Disease 3155 3160	重症肌无力
+T161	Disease 3161 3168	自身免疫性疾病
+T162	Disease 3178 3184	1 型糖尿病
+T163	Disease 3194 3201;3202 3204	自身免疫性多腺 体病
+T164	Disease 3218 3224	单基因糖尿病
+T165	Disease 3238 3244	单基因糖尿病
+T166	Disease 3246 3250;3251 3259	青少年发 病的成年型糖尿病
+T167	Disease 3299 3303	MODY
+T168	Disease 3305 3315	线粒体基因突变糖尿病
+T169	Disease 3317 3327;3328 3359	maternally inherited diabetes and deafness
+T170	Disease 3261 3291;3292 3297	maturity-onset diabetes of the young
+T171	Disease 3361 3370;3371 3382	母系遗传的线粒体基 因突变伴有多系统的异常
+T172	Disease 3384 3390	新生儿糖尿病
+T173	Disease 3391 3399;3400 3417	neonatal diabetes mellitus
+T174	Disease 3419 3429	A型胰岛素抵抗综合征
+T175	Disease 3465 3468	糖尿病
+T176	Disease 3501 3507	2 型糖尿病
+T177	Disease 3518 3521	糖尿病
+T178	Test 3542 3548	MODY基因
+T179	Symptom 3561 3563	肥胖
+T180	Disease 3569 3574	胰岛素抵抗
+T181	Level 3567 3569	严重
+T182	Test 3578 3585	胰岛素受体基因
+T183	Test 3634 3636	血糖
+T184	Test 3695 3697	血糖
+T185	Disease 3757 3762;3763 3764	2 型糖尿 病
+T186	Disease 3945 3948	糖尿病
+T187	Disease 3868 3871	糖尿病
+T188	Disease 3994 3997	糖尿病
+T189	Treatment 4052 4058	医学营养治疗
+T190	Treatment 4059 4062	MNT
+T191	Disease 4033 4036	糖尿病
+T192	Disease 4039 4042	糖尿病
+T193	Treatment 4072 4075	MNT
+T194	Disease 4156 4159	糖尿病
+T195	Disease 4133 4137	代谢紊乱
+T196	Anatomy 4140 4142;4143 4146	胰岛 β细胞
+T197	Treatment 4185 4188	MNT
+T198	Treatment 4172 4175	MNT
+T199	Disease 4220 4226	2 型糖尿病
+T200	Disease 4336 4339	糖尿病
+T201	Disease 634 637	糖尿病
+T202	Disease 724 727	糖尿病
+T64	Treatment 4435 4438;4439 4441	地中海 饮食
+T203	Treatment 4442 4449	高血压控制饮食
+T204	Treatment 4493 4495	素食
+T205	Test 4700 4704	血糖负荷
+T206	Test 4560 4567	低血糖生成指数
+T207	Test 4568 4570	GI
+T208	Disease 4782 4788	2 型糖尿病
+T209	Test 4807 4809	GL
+T210	Disease 5019 5022	糖尿病
+T211	Test 5013 5016	肾功能
+T212	Test_Value 5016 5018	正常
+T213	Symptom 5099 5101	超重
+T214	Symptom 5102 5104	肥胖
+T215	Disease 5220 5223	糖尿病
+T216	Disease 5247 5248;5249 5251	糖 尿病
+T217	Disease 5295 5298	糖尿病
+T218	Disease 5399 5402	高血压
+T219	Level 5397 5399	严重
+T220	Disease 5390 5396	心肺功能异常
+T221	Disease 5407 5410	高血糖
+T222	Level 5404 5405;5406 5407	严 重
+T223	Test 5580 5582	脉搏
+T224	Disease 5731 5737	2 型糖尿病
+T225	Drug 5768 5772	二甲双胍
+T226	Drug 5773 5776	胰岛素
+T227	Drug 5783 5787	二甲双胍
+T228	Test_Value 5809 5812	<9%
+T229	Test 5813 5817	随机血糖
+T230	Test_Value 5818 5830	<13.9 mmol/L
+T231	Drug 5840 5844	二甲双胍
+T232	Amount 5858 5872	500 mg/d, ×7 d
+T233	Amount 5884 5888;5889 5897	每周增加 500 mg/d
+T234	Duration 5877 5883	3 ~4 周
+T235	Amount 5904 5914	2 000 mg/d
+T236	Drug 5927 5931	二甲双胍
+T237	Test_Value 5942 5948	1% ~2%
+T238	Duration 5922 5923;5924 5925	长 期
+T239	Disease 6050 6056	2 型糖尿病
+T240	Drug 6060 6064	二甲双胍
+T241	Duration 6086 6089;6090 6092	<18 个月
+T242	Test 6073 6075	血糖
+T243	Drug 6104 6108	二甲双胍
+T244	Symptom 6113 6116	低血糖
+T245	Disease 6123 6128	乳酸酸中毒
+T246	SideEff 6148 6154	一过性的腹痛
+T247	SideEff 6155 6157	腹泻
+T248	SideEff 6158 6160	恶心
+T249	Level 6172 6174	严重
+T250	Disease 6200 6206	肝肾功能不全
+T251	Test 6208 6210	肝酶
+T252	Test_Value 6210 6216;6217 6219	升高 3 倍 以上
+T253	Disease 6222 6224	感染
+T254	Disease 6227 6229	手术
+T255	Level 6220 6222	严重
+T256	Level 6225 6227	重大
+T257	Test 6231 6235	放射检查
+T258	Drug 6237 6240;6241 6243	碘化造 影剂
+T259	Drug 6254 6258	二甲双胍
+T260	Disease 6261 6264;6265 6271	维生素 B12 缺乏
+T261	Duration 6250 6252	长期
+T262	Drug 6277 6281	二甲双胍
+T263	Disease 6292 6294	贫血
+T264	Disease 6295 6301	周围神经病变
+T265	Test 6314 6321	维生素 B12
+T266	Drug 6334 6337	胰岛素
+T267	Drug 6339 6342	胰岛素
+T268	Anatomy 6356 6361	胰岛β细胞
+T269	Test_Value 6371 6383	>13.9 mmol/L
+T270	Test 6367 6371	随机血糖
+T271	Test_Value 6393 6396	>9%
+T272	Disease 6397 6405	糖尿病酮症酸中毒
+T273	Disease 6406 6410;6411 6412	代谢不稳 定
+T274	Drug 6432 6441;6442 6443	中性鱼精蛋白锌胰岛 素
+T275	Frequency 6426 6432	1天 1 次
+T276	Drug 6444 6449	基础胰岛素
+T277	Amount 6450 6466	0.25 ~0.5 U/kg 起
+T278	Disease 6476 6480	代谢异常
+T279	Disease 6486 6491	代谢不稳定
+T280	Disease 6493 6495;6496 6497	酸中 毒
+T281	Drug 6501 6505	二甲双胍
+T282	Drug 6509 6513	二甲双胍
+T283	Drug 6517 6519;6520 6521	胰岛 素
+T284	Amount 6522 6534	最高至 1.2 U/kg
+T285	Drug 6552 6557	餐前胰岛素
+T286	Test 6560 6562	血糖
+T287	Drug 6571 6572;6573 6575	胰 岛素
+T288	Amount 6580 6588	30% ~50%
+T289	Drug 6594 6598	二甲双胍
+T290	Duration 6608 6614	2 ~6 周
+T291	Drug 6619 6622	胰岛素
+T292	Disease 6650 6654;6655 6656	2型糖尿 病
+T293	Drug 6666 6670	二甲双胍
+T294	Test 6699 6701	血糖
+T295	Test 6624 6626	血糖
+T296	Disease 6715 6721	2 型糖尿病
+T297	SideEff 6749 6752	低血糖
+T298	SideEff 6758 6762	体重增加
+T299	Drug 6738 6741	胰岛素
+T300	Drug 6802 6805	胰岛素
+T301	Drug 6821 6826;6827 6830	DPP-4 抑制剂
+T302	Drug 6831 6842	GLP-1 受体激动剂
+T303	Drug 6844 6853	SGLT2 抑制剂
+T304	Test 6891 6893	血糖
+T305	Disease 6901 6907	2 型糖尿病
+T306	Test 6909 6911	血糖
+T307	Disease 6928 6934	1 型糖尿病
+T308	Test 6947 6949	血糖
+T309	Test 6957 6959	血糖
+T310	Test 6973 6975	血糖
+T311	Test 6987 6993	餐前餐后血糖
+T312	Test 7016 7028	每日三餐前后加凌晨的血糖
+T313	Drug 7035 7038	胰岛素
+T314	SideEff 7044 7050	无症状低血糖
+T315	Test 7055 7057;7058 7062	糖化 血红蛋白
+T316	Test_Value 7131 7136	<7.5%
+T317	Operation 7144 7148	代谢手术
+T318	Test 7248 7251	BMI
+T319	Test 7243 7247	体质指数
+T320	Test_Value 7253 7262	>40 kg/m2
+T321	Test 7264 7267	BMI
+T322	Test_Value 7268 7269;7270 7278	> 35 kg/m2
+T323	Level 7281 7283	严重
+T324	Symptom 7283 7286	并发症
+T325	Level 7305 7307	严重
+T326	Disease 7307 7309	肥胖
+T327	Operation 7313 7317	代谢手术
+T328	Operation 7322 7323;7324 7327	代 谢手术
+T329	Operation 7411 7416	代谢手 术
+T330	Test 7420 7423	BMI
+T331	Test_Value 7432 7442	11.6 kg/m2
+T332	Test_Value 7445 7455	16.6 kg/m2
+T333	Test 7505 7508	BMI
+T334	Test_Value 7511 7519	53 kg/m2
+T335	Disease 7522 7528	2 型糖尿病
+T336	Disease 7537 7543	2 型糖尿病
+T337	Operation 7590 7604	Roux-en-Y 胃旁路术
+T338	Operation 7611 7614	胃束带
+T339	Operation 7615 7621	袖管胃切除术
+T340	Disease 7675 7678	糖尿病
+T341	Disease 7740 7746	2 型糖尿病
+T342	Disease 7780 7782	肾病
+T343	Test 7783 7787	白蛋白尿
+T344	Disease 7831 7837	2 型糖尿病
+T345	Symptom 7850 7855;7856 7857	微量白蛋白 尿
+T346	Duration 7863 7868	36 个月
+T347	Duration 7825 7829	7 个月
+T348	Test 7891 7900	尿白蛋白/肌酐比值
+T349	Disease 7920 7923	糖尿病
+T350	Test 7945 7949	尿白蛋白
+T351	Test 7957 7958;7959 7966	白 蛋白/肌酐比值
+T352	Test 7977 7983;7984 7987	白蛋白 /肌 酐比值
+T353	Test_Value 7987 7995	≥30 mg/g
+T354	Test_Value 7998 8007	<300 mg/g
+T355	Test 8029 8037	白蛋白/肌酐比值
+T356	Test_Value 8041 8049	>30 mg/g
+T357	Drug 8058 8069	血管紧张素转化酶抑制剂
+T358	Drug 8070 8074	ACEI
+T359	Test 8100 8101;8102 8103	血 糖
+T360	Test 8104 8106	血压
+T361	Test 8109 8112	尿蛋白
+T362	Duration 8114 8119	6 个月内
+T363	Disease 8129 8132	高血压
+T364	Disease 8133 8136	高血压
+T365	Test 8161 8163	血压
+T366	Test_Value 8188 8199	130/80 mmHg
+T367	Test_Value 8238 8245;8246 8250	>130/80 mmHg
+T368	Test_Value 8200 8209;8210 8213	17.3/10.6 kPa
+T369	Test_Value 8251 8264	17.3/10.6 kPa
+T370	Disease 8268 8271	高血压
+T371	Test 8282 8284	血压
+T372	Disease 8304 8307;8308 8311	正常高 限血压
+T373	Disease 8362 8365	高血压
+T374	Disease 8398 8399;8400 8402	高 血压
+T375	Drug 8454 8458	ACEI
+T376	Test 8463 8465	血压
+T377	Test_Value 8488 8500	<130/80 mmHg
+T378	Test 8483 8485	血压
+T379	Test_Value 8501 8510;8511 8514	17.3/10.6 kPa
+T380	Drug 8563 8567	ACEI
+T381	Drug 8572 8582	血管紧张素受体阻断剂
+T382	Drug 8583 8589	钙通道阻滞剂
+T383	Drug 8590 8592;8593 8594	利尿 剂
+T384	Disease 8624 8629	脂代谢异常
+T385	Disease 8668 8672;8673 8678	低高密度 脂蛋白血症
+T386	Disease 8686 8693	高甘油三酯血症
+T387	Disease 8714 8717	糖尿病
+T388	Reason 8721 8726;8727 8731	高胆固醇血 症家族史
+T389	Reason 8732 8748	家族在 55 岁前出现心血管事件
+T390	Reason 8749 8752;8753 8755	家族史 不明
+T391	Test 8761 8766	空腹血脂谱
+T392	Test 8768 8770	血糖
+T393	Test_Value 8770 8774	得到控制
+T394	Test 8805 8809	血脂筛查
+T395	Disease 8816 8821	脂代谢异常
+T396	Test 8847 8849	血脂
+T397	Test 8854 8860	低密度脂蛋白
+T398	Test_Value 8861 8862;8863 8873	< 2.6 mmol/L
+T399	Test_Value 8875 8884	100 mg/dl
+T400	Disease 8842 8845	糖尿病
+T401	Test 8887 8893	高密度脂蛋白
+T402	Test_Value 8894 8899;8900 8906	>0.91 mmol/L
+T403	Test_Value 8908 8916	35 mg/dl
+T404	Test 8918 8922	甘油三酯
+T405	Test_Value 8923 8934	<1.7 mmol/L
+T406	Test_Value 8936 8939;8940 8945	150 mg/dl
+T407	Test 8952 8955	LDL
+T408	Test 8967 8969	血糖
+T409	Test 9033 9037	空腹血脂
+T410	Test 9068 9074	低密度脂蛋白
+T411	Test_Value 9075 9079;9080 9086	>4.1 mmol/L
+T412	Test_Value 9087 9096	160 mg/dl
+T413	Test_Value 9099 9110	>3.4 mmol/L
+T414	Test_Value 9112 9121	130 mg/dl
+T415	Drug 9143 9146	他汀类
+T416	Test_Value 9158 9168	2.6 mmol/L
+T417	Test_Value 9170 9179	100 mg/dl
+T418	Test 9185 9186;9187 9190	甘 油三酯
+T419	Test_Value 9192 9205	空腹>4.5 mmol/L
+T420	Test_Value 9206 9215	400 mg/dl
+T421	Test_Value 9218 9220;9221 9234	非空 腹>11.3 mmol/L
+T422	Test_Value 9235 9246	1 000 mg/dl
+T423	Test_Value 9260 9273	空腹<4.5 mmol/L
+T424	Test_Value 9275 9284	400 mg/dl
+T425	Drug 9290 9295	苯氧芳酸类
+T426	Disease 9298 9305	高甘油三酯血症
+T427	Disease 9346 9351	视网膜病变
+T428	Disease 9370 9373	糖尿病
+T429	Duration 9376 9382	3 ~5 年
+T430	Test 9395 9402	综合性眼科检查
+T431	Test 9427 9432	视网膜照片
+T432	Test 9455 9462	综合性眼科检查
+T433	Test 9476 9483	全面的眼科检查
+T434	Test 9497 9501	神经病变
+T435	Disease 9502 9508	2 型糖尿病
+T436	Disease 9515 9517;9518 9528	远端 对称性多发性神经病变
+T437	Test 9578 9584	电生理学检查
+T438	Disease 9600 9603	糖尿病
+T439	Symptom 9610 9613;9614 9615	神经病 变
+T440	Symptom 9616 9618	疼痛
+T441	Drug 9625 9628	镇痛剂
+T442	Disease 9641 9650	心血管自主神经病变
+T443	Disease 9689 9697	非酒精性脂肪肝病
+T444	Disease 9698 9703	NAFLD
+T445	Disease 9726 9731	NAFLD
+T446	Disease 9705 9711	2 型糖尿病
+T447	Disease 9733 9736	糖尿病
+T448	Test 9752 9758	肝脏 B 超
+T449	Test 9759 9766;9767 9769	磁共振肝脏脂肪 定量
+T450	Symptom 9783 9788	胰岛素抵抗
+T451	Drug 9800 9804	二甲双胍
+T452	Method 9798 9800	口服
+T453	Test 9808 9810	肝酶
+T454	Test_Value 9806 9808	降低
+T455	Disease 9814 9819	NAFLD
+T456	Disease 9828 9833	肝功能损伤
+T457	Drug 9821 9824	护肝药
+T458	Disease 9838 9841;9842 9845	2 型 糖尿病
+T459	Disease 9848 9853	NAFLD
+T460	Disease 9882 9885	糖尿病
+T461	Test 9888 9890	肝酶
+T462	Test_Value 9892 9896	持续升高
+T463	Test 9901 9905	肝脏活检
+T464	Disease 9914 9918	PCOS
+T465	Disease 9927 9931	PCOS
+T466	Disease 9933 9937;9938 9942	胰岛素抵 抗综合征
+T467	Disease 9980 9984;9985 9990	原发性或 继发性闭经
+T468	Symptom 9991 9993	多毛
+T469	Symptom 9996 9998	痤疮
+T470	Level 9994 9996	严重
+T471	Disease 10003 10007	PCOS
+T472	Disease 10014 10018	PCOS
+T473	Symptom 10024 10028	月经稀少
+T474	Symptom 10029 10031	停经
+T475	Disease 10034 10035;10036 10041	高 雄激素血症
+T476	Disease 10059 10063	多囊卵巢
+T477	Drug 10092 10096	二甲双胍
+T478	Method 10090 10092	口服
+T479	Disease 10138 10145;10146 10148	阻塞性睡眠呼吸 暂停
+T480	Test 10222 10226	尿糖筛查
+T481	Reason 10259 10261	超重
+T482	Reason 10283 10299;10300 10302	一级或二级亲属中有 2 型糖尿病 病史
+T483	Reason 10303 10314	胰岛素抵抗相关临床状态
+T484	Reason 10315 10323;10324 10325	母亲妊娠期糖尿病 史
+T485	Disease 10340 10346	2 型糖尿病
+T486	Disease 10347 10348;10349 10351	糖 尿病
+T487	Test 10358 10362	空腹血糖
+T488	Test 10363 10368	糖耐量试验
+T489	Test 10369 10375	2 h 血糖
+T490	Disease 10385 10388	糖尿病
+T491	Disease 10410 10413	糖尿病
+T492	Disease 10416 10419	糖尿病
+T493	Disease 10437 10440	糖尿病
+T494	Reason 10471 10473	血脂
+T495	Reason 10474 10475;10476 10477	血 压
+T496	Disease 10459 10464	心血管疾病
+T497	Disease 2099 2105	1 型糖尿病
+T498	Disease 139 145	2 型糖尿病
+T499	Disease 329 335	2 型糖尿病
+T500	Disease 2106 2112	2 型糖尿病
+T502	Disease 7790 7795	糖尿病肾病
+T503	Test 1536 1541	HBA1C
+T504	Test 1551 1556	HBA1C
+T505	Test 1634 1639	HBA1C
+T506	Test 1696 1701	HBA1C
+T507	Test 4811 4816	HBA1C
+T508	Test 5803 5808	HBA1C
+T509	Test 5933 5938	HBA1C
+T510	Test 6388 6393	HBA1C
+T511	Test 7124 7129	HBA1C
+T512	Test 7564 7569	HBA1C
+T513	Test 10378 10383	HBA1C
+T515	Test 8142 8145	收缩压
+T518	Disease 4427 4432	糖尿病前期
+T519	Disease 10166 10171	糖尿病前期
+T522	Test 5211 5215	餐后血糖
+T524	Anatomy 2224 2227	β细胞
+T525	Test 8159 8161	身高
+T526	Test 8526 8528	身高
+T527	Test 2176 2178	体重
+T528	Test 2198 2200	体重
+T529	Test 5092 5094	体重
+T530	Test 5139 5141	体重
+T531	Test 5712 5714	体重
+T532	Test 5962 5964	体重
+T534	Test 8411 8413	体重
+T535	Test 9795 9797	体重
+T536	Test 9879 9881	体重
+T537	Test 10073 10075	体重
+T538	Test 4705 4707	GL
+T539	Test 4714 4716	GL
+T540	Test 4771 4773	GL
+T542	Test 1161 1167	胰岛素分泌量
+T543	Test 8146 8148;8149 8150	舒张 压
+T544	Test 1776 1778	血糖
+T545	Test 4501 4503	血糖
+T546	Test 4745 4747	血糖
+T547	Test 4941 4943	血糖
+T548	Test 5169 5171	血糖
+T549	Test 5178 5180	血糖
+T550	Test 6917 6919	血糖
+T551	Test 7235 7236;7237 7238	身 高
+T552	Test 7352 7353;7354 7355	身 高
+T553	Disease 9436 9441	视网膜病变
+T516	Disease 282 285	糖尿病
+T517	Disease 272 275	糖尿病
+T520	Disease 907 910	糖尿病
+T521	Disease 863 866	糖尿病
+T514	Disease 1864 1867	糖尿病
+T523	Disease 2573 2575	肥胖
+T142	Test_Value 2763 2771	处于正常范围之内
+T533	Test_Value 2819 2821	较低
+T554	Anatomy 3034 3038	胰岛细胞
+T541	Disease 3851 3854	糖尿病
+T555	Disease 3980 3982;3983 3984	糖尿 病
+T556	Disease 3973 3976	精神病
+T557	Disease 4181 4184	糖尿病
+T558	Test 5071 5073	血脂
+T559	SideEff 6191 6196	胃肠道反应
+T560	Disease 7400 7402	肥胖
+T561	Test 8433 8435	血压
+T562	Test 8529 8531	血压
+T563	Test 8606 8608	血压
+T564	Disease 10078 10083	胰岛素抵抗
+T565	Anatomy 10100 10102	卵巢

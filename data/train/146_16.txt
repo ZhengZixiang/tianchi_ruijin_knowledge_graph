@@ -1,0 +1,281 @@
+基础研究
+基金 项 目: 国 家 自 然 科 学 基 金 项 目 ( 81170720, 81270910,
+81370876);上海市卫生局局级课题(20114278)
+院附属瑞金医院内分泌代谢病科,上海市内分泌代谢病临床医学中心
+双孔钾通道 KCNK16 在大鼠胰岛中的表达及
+调节
+张玉青  杨雪  王晓  唐红菊  邓儒元  刘赟  李凤英  王瑶  许琬  纪雪莹  周丽斌
+[摘要]   目的  观察双孔钾通道 KCNK16 在大鼠胰岛中的表达情况,并探讨促进 β 细胞胰岛素分泌
+的刺激因素对其表达的调节。 方法 采用实时定量 PCR 和组织化学染色技术观察 KCNK16 在大鼠胰岛及
+其他组织中的表达。 分别用葡萄糖、催乳素、软脂酸以及曲古菌素 A(TrichostatinA,TSA)处理大鼠胰岛
+24 h,实时定量 PCR 和 Western 印迹法检测 KCNK16 的表达水平。 以 ELISA 检测 TSA 处理大鼠胰岛 24 h
+后葡萄糖和 KCl 刺激的胰岛素分泌水平。 不同浓度和时间的 TSA 处理 INS1-E 细胞,实时定量 PCR 检测
+KCNK16 的表达水平。 结果 KCNK16 在大鼠胰岛中高表达。 葡萄糖、催乳素和脂肪酸并不影响大鼠胰岛
+KCNK16 的表达。 TSA 显著增强大鼠胰岛葡萄糖和 KCl 刺激的胰岛素分泌(P<0. 05),同时显著下调
+KCNK16 的 mRNA 和蛋白表达(P<0. 01)。 在 INS1-E 细胞,TSA 抑制 KCNK16 的表达作用呈浓度和时间±
+赖性(P<0. 05)。 结论 KCNK16 在大鼠胰岛中特异性高表达,且其表达水平能被 TSA 显著下调,KCNK16
+表达的下调有可能介导了 TSA 增强的胰岛素分泌。
+[关键词]   KCNK16; 胰岛; 胰岛素分泌; 曲古霉素 A
+Expression and regulation of a two-pore domain K+ channel KCNK16 in rat islets Zhang Yuqing, Yang Xue,
+Wang Xiao, Tang Hongju, Deng Ruyuan, Liu Yun, Li Fengying, Wang Yao, Xu Wan, Ji Xueying, Zhou Libin.
+Shanghai Institute of Endocrine and Metabolic Disease, Department of Endocrinology and Metabolic Disease, Ruijin
+Hospital, Shanghai Jiaotong University School of Medicine, Shanghai 200025, China
+[Abstract]  Objective  To observe the expression of a two-pore domain K+ channel KCNK16 in rat islets, and
+to explore its regulation by insulin secretagogues. Methods Real time-PCR and immunohistochemistry were
+employed to observe the expression of KCNK16 in rat islets and other tissues. Rat islets were exposed to glucose,
+prolactin, palmitate, and trichostatin A(TSA) for 24 h and KCNK16 expression were determined by realtime-PCR and
+Western blot. Glucose- and KCl-stimulated insulin secretion were assayed by ELISA after islets were exposed to TSA
+for 24 h. The dose- and time-dependent effects of TSA on KCNK16 expression in INS1-E cells were determined by RT-
+PCR. Results KCNK16 was highly expressed in rat islets. Glucose, prolactin, and palmitate did not affect the
+expression of KCNK16 in rat islets. TSA treatment significantly potentiated glucose- and KCl-stimulated insulin
+secretion in isolated rat islets ( P < 0. 05), along with decreased KCNK16 mRNA and protein expressions ( P <
+0. 01) . TSA inhibited KCNK16 expression in a dose- and time-dependent manner in INS1-E cells ( P < 0. 05) .
+Conclusion KCNK16 is exclusively and highly expressed in rat islets and its expression can be down-regulated by
+TSA treatment. It is possible that TSA enhances insulin secretion via decreasing KCNK16 expression.
+[Key words]  KCNK16; Islet; Insulin secretion; Trichostatin A
+(Chin J Endocrinol Metab, 2015, 31: 452-456)
+2 型糖尿病现已成为一个全球性公共卫生问题,
+且其患病率正在逐年增长。 越来越多证据表明,β 细
+胞分泌功能缺陷是 2 型糖尿病发病中的主要因素[1]。
+胰岛 β 细胞属于电兴奋性细胞,葡萄糖刺激使 β 细胞
+ATP 敏感的钾通道关闭,细胞膜去极化兴奋性增加,细
+胞内钙离子水平增加,从而促进胰岛素分泌[2]。 当这
+种 ATP 敏感性钾通道的活性丧失时,β 细胞的刺激分
+泌耦联即丧失,长期的低兴奋性将最终导致 β 细胞功
+能衰竭及糖尿病的发生[3]。 因此,β 细胞的兴奋性与
+胰岛功能息息相关,如何增强其兴奋性从而促进胰岛
+分泌功能尤其值得探讨。
+2012 年 Cho 等[4]对东亚人群 2 型糖尿病的全基
+因组学关联研究进行 meta 分析后,发现了 8 个新的 2
+型糖尿病易感基因位点,其中一个位点位于 KCNK16
+基因,提示该基因活性改变参与 2 型糖尿病的发生。
+KCNK16 编码碱性 pH 敏感的双孔钾通道,又被称为
+TALK-1,首先于人类胰腺中发现且在胰腺中特异性表
+达[5]。 该钾通道介导背景钾电流[6],对于维持正常的
+静息电位及细胞兴奋性十分重要。
+然而,对于双孔钾通道 KCNK16 在胰岛中的研究
+知之甚少。 本研究采用实时定量 PCR 和免疫组化技
+术观察 KCNK16 在大鼠胰岛中的表达,并进一步探讨
+β 细胞胰岛素分泌的刺激因素对该基因表达的调节。
+材料和方法
+一、 材料
+6 ~ 8 周龄雄性 SD 大鼠购自上海中科院斯莱克动
+物实验中心;INS1-E 细胞系由中国科学院上海药物研
+究所王明伟研究员惠赠;DMEM 及 RPMI1640 血清购
+自美国 GIBCO 公司;牛血清白蛋白(BSA)购自上海实
+生细胞生物技术有限公司;XI 型胶原酶购自 Sigma-
+aldrich 公司;密度梯度液购自 Biochrom AG 公司;
+TALK-1 抗体购自 Santa Cruz 公司;UltraSensitive S-P 免
+疫组化染色试剂盒购自福州迈新生物技术开发有限公
+司;组蛋白去乙酰化酶(HDACs)抑制剂曲古霉素 A
+(Trichostatin A,TSA)购自 Cell Signaling Technology 公
+司;大鼠胰岛素 ELISA 试剂盒购自 Mercodia 公司;
+RNA 抽提试剂盒购自 Qiagen 公司;逆转录试剂盒购自
+Promega 公司; 实时定量 PCR 试剂盒购自 Takara 公
+司。
+二、 方法
+1. 大鼠原代胰岛分离及处理:6 ~ 8 周龄雄性 SD
+大鼠普通饮食喂养,10% 水合氯醛麻醉后采用胶原酶
+原位灌注、密度梯度离心法分离原代胰岛,人工挑拣出
+形态良好大小适宜的胰岛,约 800 ~ 900 个胰岛 /大鼠,
+Hanks 液洗涤数次后置于含 5%胎牛血清的 RPMI1640
+培养基中预培养 4 h,分别加入葡萄糖、催乳素、软脂酸
+以及 TSA 后置于含 0. 25% BSA 的 RPMI1640 培养基
+中培养 24 h。
+2. 大鼠胰腺固定切片组织化学染色:SD 大鼠取
+胰腺置于 4% 多聚甲醛溶液中固定,石蜡包埋后切成
+厚度为 5 滋m 的石蜡切片,脱蜡和水化后进行抗原修
+复,加过氧化酶阻断剂室温 10 min,PBS 洗后加入兔抗
+血清室温 10 min,除去血清加入一抗 ( TALK-1 为
+1 : 900 稀释)4℃孵育过夜,PBS 洗后加生物素标记的
+兔抗羊二抗室温 10 min,PBS 洗后再加入链霉菌抗生
+物素-过氧化物酶溶液室温 10 min,PBS 洗后加二氨基
+联苯氨(DAB)显色,苏木素复染后封片,Olympus 显微
+镜下观察并拍照。
+3. RNA 抽提及实时定量 PCR:胰岛加药处理 24 h
+后,采用 Qiagen 试剂盒按其说明进行 RNA 抽提。
+INS1-E 细胞铺于 6 孔板 24 h 后加药处理,采用 Trizol
+法进行 RNA 抽提。 用分光光度计(Thermo NanoDrop
+2000, USA)测定 RNA 浓度, 用凝胶电泳测定其完整
+性后,每份 2 μg RNA 模板量采用 Promega 试剂盒进行
+逆转录。 所得 cDNA 采用 SYBR Green Premix Taq
+(Takara)在 LightCycler480 (Roche) 上进行实时定量
+PCR。 反应条件如下:95℃ 10 s;95℃ 10 s, 60℃ 31 s,
+40 个循环。 相关大鼠引物序列见表 1。
+表 1  实时定量 PCR 引物序列
+Tab 1  Primer sequences for real time PCR
+基因
+Gene
+上游引物
+Forward primer
+(5'-3')
+下游引物
+Reverse primer
+(5'-3')
+KCNK16 CCTGGGTGAAAGGTGTG TTCCCATCAGGGCATAGAAG
+18S CACGGGTGACGGGGAATCAG CGGGTCGGGAGTGGGTAATTTG
+HDAC1 ATCGTCCTCACAAAGCCAAC TGTCCGTCTGCTGCTTATTG
+HDAC2 TGCTGTCCTCGAGCTACTGA TCCCTCATGGGAAAGTTGAC
+HDAC3 CAAGACCGTGGCGTATTTCT TATTGGTGGGGCTGACTCTC
+HDAC4 TAGCTGGTGTGCAGGTGAAG GCCTCCATAGATGCCTGGTA
+HDAC5 GTCGAAAGGATGGCACTGTT AGCCAGTAAAGCCGTTCTCA
+HDAC6 TGCAGGTACAGGCTTCACTG ATAATACGGCCACCAGCAAG
+HDAC7 TGTCCAGAACCCAGTCTTCC GATGCTTGCTGTTGTCTCCA
+HDAC8 CGCTACCCCCGGTTTATATT CGCTACCCCCGGTTTATATT
+HDAC9 CATTGGCTAATGGACGTGTG GCCACCATCTTGATCGACTT
+HDAC10 CAAGAAGGGTCAGCCTTGAG ACATCGCTGAATGAGCACAC
+HDAC11 ATTGGCAGCATAACCAAAGG TGGGGTTTGGTCTAGGTCAG
+4. Western 印迹:胰岛加药处理 24 h 后,加入细胞
+裂解液并超声裂解,4℃离心后取上清进行 SDS-PAGE
+电泳。 以电转移法转膜后,10% BSA 室温封闭 2 h,
+TALK-1 一抗 4℃孵育过夜,辣根过氧化物酶(HRP)耦
+联的二抗室温孵育 2 h,加入化学发光剂用 LAS-4000
+进行图像扫描。
+5. 胰岛素分泌实验:预培养后的大鼠胰岛分为对
+照组和 TSA 组,置于含 0. 25% BSA 的 RPMI1640 培养
+基中培养 24 h 后,每组胰岛再分成 3 个亚组,分别置
+于含 3. 3 mmol / L 葡萄糖、16. 7 mmol / L 葡萄糖、3. 3
+mmol / L 葡萄糖加 35 mmol / L KCl 的 KRB 溶液中刺激
+1 h,收集上清,以 Mercodia 大鼠胰岛素 ELISA 试剂盒
+检测胰岛素水平。
+三、 统计学处理
+采用 SPSS 软件进行统计学分析,数据均以 x-± s 表
+示,两组间比较采用 t 检验。 P<0. 05 为差异有统计学
+意义。
+结    果
+一、 KCNK16 在胰岛中的表达和分布
+本研究首先用实时定量 PCR 检测 KCNK16 在大
+鼠组织中的表达,如图 1 所示,KCNK16 在大鼠胰岛中
+特异性高表达,而在肝脏、脂肪、骨骼肌等其他组织中
+的表达水平极低。 相比于 INS1-E β 细胞株,KCNK16
+在大鼠胰岛中的表达水平相对较高(图 2)。 大鼠胰腺
+免疫组化结果进一步显示,KCNK16 定位于胰岛细胞
+中,而在外分泌腺并无表达(图 3)。
+注:L:肝脏 Liver;A:脂肪组织 Adipose tissue;M:肌肉 Muscle;Islets:
+胰岛
+图 1  KCNK16 mRNA 在不同组织中的表达谱
+Fig 1  Expression profile of KCNK16 mRNA in various tissues
+注:与胰岛相比 vs Islets, aP<0. 05
+图 2  KCNK16 mRNA 在胰岛和 INS1-E 细胞系中的表达水平
+Fig 2  Expression level of KCNK16 mRNA in islets and INS1-E cell line
+图 3  KCNK16 在大鼠胰腺中的免疫组化染色
+Fig 3  Immunohistochemical staining of KCNK16 in rat pancreas
+二、 不同刺激因素对大鼠胰岛 KCNK16 表达的调
+节
+用含 3. 3 mmol / L 葡萄糖、500 ng / ml 催乳素、0. 4
+mmol / L 软脂酸以及 8. 3 mmol / L 葡萄糖的 RPMI1640
+培养基孵育大鼠胰岛 24 h,实时定量 PCR 结果显示,
+以上刺激因素对大鼠胰岛 KCNK16 的表达均没有明显
+作用(图 4)。 分别在含 3. 3、8. 3、16. 7 mmol / L 葡萄糖
+的培养基中加或不加 200 nmol / L TSA (一种广谱
+HDAC 抑制剂[7] ),发现 TSA 可以显著下调大鼠胰岛
+KCNK16 mRNA 的表达水平,其抑制作用达到 95% (图
+5)。 Western 印迹结果证实 TSA 同样可以显著下调
+KCNK16 的蛋白表达水平(图 6)。
+注: CON: 3. 3 mmol / L 葡萄糖 Glucose; PRL:催乳素 Prolactin;
+Palmitate:软脂酸;8. 3G:8. 3 mmol / L 葡萄糖 Glucose
+图 4  不同刺激因素对大鼠胰岛 KCNK16 表达的影响
+Fig 4  Regulation of KCNK16 expression by different stimuli in rat islets
+注:3. 3G、8. 3G、16. 7G:3. 3、8. 3 和 16. 7 mmol / L 葡萄糖 3. 3,8. 3,
+and 16. 7 mmol / L glucose; CON: 对 照 组 Control; TSA: 曲 古 霉 素 A
+Trichostatin A;与 CON 组比较 vs CON group,aP<0. 01
+图 5  TSA 抑制大鼠胰岛 KCNK16 mRNA 表达
+Fig 5  Inhibition of KCNK16 mRNA expression by TSA treatment
+注:CON:对照组 Control;TSA:曲古霉素 A Trichostatin A
+图 6  TSA 对大鼠胰岛 KCNK16 蛋白表达的影响
+Fig 6  Effect of TSA treatment on KCNK16 protein expression in rat islets
+三、 TSA 对大鼠胰岛葡萄糖和 KCl 刺激的胰岛素
+分泌的作用
+在大鼠胰岛中,HDAC1、HDAC6、HDAC11 的表达
+水平最高,HDAC2、HDAC4、HDAC10 的表达水平也较
+高(图 7)。 TSA 处理大鼠胰岛 24 h 后,在 3. 3、16. 7
+mmol / L 葡萄糖以及 35 mmol / L KCl 时胰岛素分泌水
+平比对照组明显增高,分别增加 2. 3 倍、2. 9 倍和 9. 2
+倍,说明 TSA 可以显著增强大鼠胰岛的胰岛素分泌反
+应性(图 8)。
+注:HDAC:组蛋白去乙酰化酶 Histone deacetylase
+图 7  大鼠胰岛 HDACs mRNA 表达谱
+Fig 7  Expression profile of HDACs mRNAin rat islets
+注:大鼠胰岛以 TSA 处理 24 h 后,在以 3. 3、16. 7 mmol / L 葡萄糖和
+35 mmol / L KCl 孵育 1 h,收培液测胰岛素 Rat islets were treated with TSA
+for 24 h, and incubated with 3. 3, 16. 7 mmol / L glucose and 35 mmol / L KCl
+for 1 h. The medium were collected for insulin secretion assay; 略语同图 5
+The abbreviations are the same as Fig 5;与 CON 组比较 vs CON group,aP<
+0. 05,bP<0. 01
+图 8  大鼠胰岛 TSA 处理后葡萄糖和 KCl 刺激的胰岛素分泌增加
+Fig 8  TSA potentiated glucose- and KCl-stimulated insulin secretion in rat
+islets
+四、 TSA 对 KCNK16 表达的调节特性
+实时定量 PCR 结果显示,在 INS1-E 细胞,TSA 呈
+浓度依赖性下调 KCNK16 的表达水平,100 nmol / L
+TSA 即有明显作用,400 nmol / L TSA 作用显著(图 9)。
+200 nmol / L TSA 处理不同时间后,对 KCNK16 的表达
+下调呈时间依赖性,6 h 即有显著作用,24 h 作用最为
+明显(图 10)。
+讨    论
+胰岛 β 细胞葡萄糖刺激的胰岛素分泌由细胞内
+钙离子水平决定, 电压依赖性钙通道的活性受 β 细胞
+膜电位的改变所控制,而 β 细胞膜电位主要受钾通道
+的活性影响[2]。 当 ATP 敏感性钾通道激活时, 它负责
+注:TSA:曲古霉素 A Trichostatin A;与对照组比较 vs Control group,
+aP<0. 01
+图 9  TSA 剂量依赖性地抑制 INS1-E 细胞的 KCNK16 mRNA 表达
+Fig 9  TSA treatment dose-dependently decreased KCNK16 mRNA expression
+in INS1-E cells
+注:TSA:曲古霉素 A Trichostatin A;与对照组比较 vs Control group,
+aP<0. 05,bP<0. 01
+图 10  TSA 时间依赖性地抑制 INS1-E 细胞的 KCNK16 mRNA 表达
+Fig 10 TSA treatment time-dependently inhibited KCNK16 mRNA expression
+in INS1-E cells
+大部分(约 70% )的 β 细胞电导,因此在低糖条件下其
+他外向钾电流不会显著影响 β 细胞膜电位[8]。 但在
+高糖条件下或 ATP 敏感性钾通道被抑制时,其他激活
+的钾电流将显著影响总的 β 细胞电导而调节 β 细胞
+膜电位[9]。
+双孔钾通道是具有 4 个跨膜节段和 2 个孔道结构
+域的钾通道亚型,在所有膜电位时程中均有活性,其功
+能主要为编码背景钾电流[10]。 尽管背景钾电流在调
+节 β 细胞膜电位中的作用十分重要[8],其在胰岛素分
+泌中的调节及作用却并不明确。 近期一项研究显
+示[11],双孔钾通道成员之一 TASK-1 在胰岛中高表达,
+TASK-1 的抑制及敲除显著增加了葡萄糖刺激的 β 细
+胞膜去极化以及钙离子内流,继而促进了高糖刺激的
+胰岛素分泌。 该研究提示双孔钾通道在胰岛功能的调
+节中发挥重要作用。
+KCNK16 编码碱性激活的外向背景钾通道,又被
+称为 TALK-1,属于双孔钾通道家族[10]。 该基因于
+2001 年首次在人类胰腺中被发现[5]。 2005 年一项研
+究采用了原位杂交的方法,认为该基因主要存在于人
+胰腺的外分泌腺,而在胰岛中并不表达[12]。 然而,本
+研究采用实时定量 PCR 及免疫组化技术证实,
+KCNK16 在大鼠胰岛中特异性高表达,且在大鼠胰腺
+中主要分布于胰岛,而在外分泌腺并不表达。
+为了探索 KCNK16 在胰岛素分泌中的作用,本研
+究观察了影响 β 细胞胰岛素分泌的因素对该基因表
+达的调节。 长时间高糖处理可以促进葡萄糖刺激的胰
+岛素分泌[13];妊娠期,增加的催乳素促进 β 细胞胰岛
+素分泌来维持血糖水平正常[14];脂肪酸可以扩大 β 细
+胞葡萄糖刺激的胰岛素分泌[15]。 然而,以上三种刺激
+因素对 KCNK16 的表达均没有明显的调节作用。
+组蛋白乙酰化是表观遗传调控的重要内容,其水
+平失调参与糖尿病及其并发症的发生[16]。 HDACs 家
+族共有 11 个成员,它们参与染色质重塑,在基因表达
+的表观遗传调控中发挥重要作用[7],HDAC1 ~ 11 在大
+鼠胰岛中普遍表达,且表达水平相对较高。 广谱组蛋
+白去乙酰化酶抑制剂 TSA 等可以保护 β 细胞,抑制细
+胞因子诱导的 β 细胞凋亡和分泌功能损伤[17,18],且由
+于其在体药物应用的可行性有着极大的临床意义。
+TSA 可以显著增强 β 细胞系 βTC 葡萄糖刺激的胰岛
+素分泌[19]。 本研究显示在大鼠胰岛,TSA 处理 24 h 同
+样可以显著增强葡萄糖和 KCl 刺激的胰岛素分泌。 有
+趣的是,TSA 可以显著下调 KCNK16 的表达,且其下调
+作用呈时间依赖性和浓度依赖性。 该种钾通道的下调
+或可使 β 细胞膜电位增加,从而增加刺激引起的 β 细
+胞去极化和钙内流,促进胰岛素分泌。 进一步电生理
+等实验仍待进行以明确 KCNK16 下调的下游作用。
+本研究证实了双孔钾通道 KCNK16 在大鼠胰岛特
+异性高表达,其表达不受葡萄糖、催乳素、脂肪酸的调
+节,但去乙酰化酶抑制剂 TSA 能够显著下调其表达水
+平。 KCNK16 是否介导 TSA 促分泌的作用,其表达下
+调如何影响 β 细胞膜电位变化,其在 β 细胞功能维持
+中发挥何种作用,值得进一步探讨。

@@ -1,0 +1,282 @@
+临床研究
+激素与发育重点实验室
+B 型尿钠肽与 2 型糖尿病发生风险相关
+杨敏  倪长霖  常宝成  汤云昭  朱艳娟  李晨光  姜振环  于萍
+[摘要]   目的  研究氨基末端前 B 型尿钠肽(NT-proBNP)与 2 型糖尿病发病的独立相关性。 方法
+对经糖耐量试验(OGTT)确定为糖调节受损人群随访 2 年(n=126),在基线时抽取受试者静脉血测定血浆
+中 NT-proBNP。 结果 基线时 NT-proBNP 与体重指数、腰围、空腹血糖、空腹胰岛素、低密度脂蛋白胆固醇
+(LDL-C)负相关。 在随访 2 年时,有 51 例新发糖尿病。 经过多变量分析调整后,基线 NT-proBNP 仍与糖尿
+病风险负相关,调整的相对危险度在第 1 ~ 4 四分位数组分别为 1. 0(参照)、0. 83(95% CI 0. 74 ~ 0. 96)、
+0. 78(95% CI 0. 68 ~ 0. 90)、0. 74(95% CI 0. 64 ~ 0. 87;P<0. 01)。 结论 在糖调节受损人群中,低水平的
+NT-proBNP 与糖尿病风险升高相关。
+[关键词]   B 型尿钠肽; 糖尿病, 2 型; 糖调节受损
+B-type natriuretic peptide and risk of type 2 diabetes mellitus Yang Min, Ni Changlin, Chang Baocheng, Tang
+Yunzhao, Zhu Yanjuan, Li Chenguang, Jiang Zhenhuan, Yu Ping. Key Laboratory of Hormones and Derelopment
+(Ministry of Health), Metabolic Diseases Hospital Tianjing Institute of Endocrinology, Tianjin Medical University,
+Tianjin 300070, China
+[Abstract]   Objective   To explore the association of NH2 -terminal pro-B-type natriuretic peptide ( NT-
+proBNP) with the risk of type 2 diabetes. Methods One hundred and twenty-six impaired glucose regulation(IGR)
+participants from Diabetic Identification Center of Tianjin Metabolic Diseases Hospital were included. NT-proBNP was
+measured in plasma samples collected from participants at baseline condition. Results At baseline, NT-proBNP was
+inversely associated with body mass index, waist circumference, fasting glucose, insulin and low-density lipoprotein-
+cholesterol(LDL-C) levels. During a follow-up of 2 years, 51 participants reported a new diagnosis of diabetes from
+OGTT. Baseline quartiles of NT-proBNP were inversely associated with diabetes risk, even after multivariable
+adjustment. The adjusted relative risks for diabetes were 1. 0(reference), 0. 83(95% CI 0. 74-0. 96), 0. 78(95% CI
+0. 68-0. 90 ), 0. 74 (95% CI 0. 64-0. 87 ) for the 1st, 2nd, 3rd, and 4th quartiles of baseline NT-proBNP,
+respectively ( P < 0. 01 ) . Conclusion In IGR population, low levels of NT-proBNP were associated with a
+significantly increased risk of type 2 diabetes.
+[Key words]  B-type natriuretic peptide; Diabetes mellitus, type 2; Impaired glucose regulation
+(Chin J Endocrinol Metab, 2016, 32: 103-106)
+B 型尿钠肽(B-type natriuretic peptide, BNP),是 3
+种尿钠肽之一,在血流动力学压力下由心脏释放,在心
+血管及肾脏生理中起关键作用,它可以防止体液超负
+荷及高血压[1]。
+近来,有假设提出 BNP 的作用远远超出心血管系
+统,它可能在代谢调节,脂类分解及胰岛素抵抗的发生
+发展中起作用[2-4]。 在心脏及肾脏系统以外的细胞及
+组织 中 发 现 BNP 受 体, 其 中 包 括 脂 肪 组 织[5]。
+Miyashita 等[3]的实验发现,BNP 转基因大鼠和其野生
+型对照暴露于高脂和等热量的饮食,与对照组相比,
+BNP 转基因鼠体重增加较少,异位脂肪堆积少,且胰
+岛素抵抗减少。 进一步的实验解开了一些潜在的保护
+这些转基因鼠的机制:氧化利用增加,骨骼肌线粒体容
+量增加,参与脂肪氧化及能量释放的基因(过氧化物
+酶增殖物激活受体 γ 辅助激活子 PGC-1α)表达增加。
+Bordicchia 等[6]的动物实验证明,用 BNP 处理大鼠显
+示,能量释放增加,棕色脂肪及白色脂肪组织产热激活
+增加。 总之,这些研究提示 BNP 对线粒体及脂肪组织
+产生直接作用,可以增加葡萄糖利用及减重。
+横断面研究显示,BNP 水平低的人往往超重或肥
+胖[7-9],在一些研究中,BNP 水平低的成人常伴有糖尿
+病或代谢综合征[8-9]。 BNP 与糖尿病独立相关的研
+究,至今已知,仅在欧洲有两项小的研究,研究结果并
+不一致[10-11]。
+氨基末端前 BNP(NH2-terminal pro-B-type natriuretic
+peptide, NT-proBNP),是 BNP 的稳定剪切产物。 本研
+究的目的就是确定 NT-proBNP 与 2 型糖尿病发病的独
+立相关性。
+对象和方法
+一、 对象
+受试者来自于 2012 年 1 ~ 12 月在天津医科大学
+代谢病医院糖尿病鉴定中心首次鉴定糖尿病者,经糖
+耐量试验(OGTT)确定为糖调节受损,包括空腹血糖
+受损(IFG)和糖耐量受损(IGT),诊断标准采用世界卫
+生组织(WHO,1999 年)糖尿病诊断,糖代谢状态分类
+标准[12]。 随访 2 年。 最终样本量为 126 人。 排除标
+准:已患糖尿病者,心血管病或心衰者;肾功能不全者
+受试者都签署了知情同意书。
+二、 方法
+测量 NT-proBNP。 在基线时抽取受试者静脉血,
+储存在-70℃冰箱中。 在自动分析仪上使用电化学发
+光免疫法测定血浆中 NT-proBNP,最低检测限≤5
+pg / ml,变异系数 3. 5% ~4. 7% 。 研究证实 NT-proBNP
+是 BNP 的稳定标志物,且长期稳定[13]。
+确诊糖尿病。 随访 2 年时, 对受试者重新做
+OGTT,确定糖代谢状态,诊断标准采用 WHO(1999
+年)糖尿病诊断,糖代谢状态分类标准[12]。
+其他指标。 吸烟史,酒精消耗量[从不,以前喝,
+现在喝,现在喝的人中经常乙醇摄入(g /周)],糖尿病
+家族史。 确定心血管疾病±靠在随访期自我报告心梗
+或中风,或静息性心梗(由心电图诊断),或因充血性
+心衰住院。 使用标准的方法测量身高、体重、腰围、血
+压。 标准方法测量空腹血、血糖、胰岛素、血脂[总胆
+固醇、低密度脂蛋白胆固醇(LDL-C)、高密度脂蛋白胆
+固醇(HDL-C)]、三酰甘油、肌酐、高敏 C 反应蛋白
+(hs-CRP)。
+三、 统计学处理
+正态分布的计量资料以 x- ± s 表示,非正态分布的
+计量资料以中位数表示。 基线水平的 NT-proBNP 被
+分为四分位数。 研究人群的基线指标根据 NT-proBNP
+的四分位数分组。 NT-proBNP 水平低于检测下限的受
+试者的 NT-proBNP 水平定为 2. 5 pg / ml。 使用 Kaplan-
+Meier 法估计比较基线 NT-proBNP 四分位数组之间患
+糖尿病风险的差异。 调整的风险率及可信区间(CI)
+使用 Cox 回归模型估计。 构成四个模型。 模型 1 包括
+年龄,性别及教育程度。 模型 2 包括模型 1 的所有变
+量加上体重指数(在 28 kg / m2 是线性条件)。 模型 3
+包括模型 2 的所有变量加上身高(m)的平方,收缩压
+及舒张压,hs-CRP。 模型 4 包括模型 3 的所有变量加
+上空腹血糖,OGTT 2 h 血糖及糖尿病家族史。 统计学
+分析由 SPSS 19. 0 完成,P<0. 05 提示统计学上有显著
+性差异。
+结    果
+表 1 显示的是研究人群的基线指标。 基线时处于
+最低 NT-proBNP 四分位数组的受试者更年轻,女性及
+不吸烟者更少;与最高 NT-proBNP 四分位数组的人相
+比更可能有不良血脂,高体重指数及腰围,高水平的空
+腹血糖,胰岛素。 基线时处于最低 NT-proBNP 四分位
+数组的受试者与较高 NT-proBNP 四分位数组的受试
+者相比,hs-CRP 及收缩压水平低,高血压发生率低。
+在随访 2 年时,有 51 例新发糖尿病 (OGTT 诊
+断)。 通过四分位数分组的 NT-proBNP 计算的糖尿病
+发病率分别为:组 1(≤31 pg / ml)0. 468 8 ± 0. 088 2;组
+2(31. 1 ~ 61. 8 pg / ml)0. 4193 ± 0. 088 6;组 3(61. 9 ~
+114. 4 pg / ml)0. 387 0 ± 0. 087 5;组 4(≥114. 5 pg / ml)
+0. 343 8 ±0. 083 9。 各组间发病率的比较有显著性差
+异(字2 =346. 34, P<0. 01)。
+最低 NT-proBNP 四分位数组的受试者有显著升
+高的糖尿病风险,甚至在使用 COX 回归模型进行多变
+量调整后(表 2)。 模型 1,糖尿病调整的相对危险度
+在第 1,第 2,第 3,第 4 四分位数组分别为 1. 0(参照),
+0. 87 (95% CI 0. 77 ~ 0. 99)、0. 75 (95% CI 0. 66 ~
+0. 87)、0. 66(95% CI 0. 58 ~ 0. 78,P<0. 01)。 调整体
+重指数及心血管危险因素后,这些相关性减轻了但仍
+有统计学差异。 进一步调整了空腹血糖及 OGTT 2 h
+血糖后,在所有 3 个高四分位数组糖尿病的风险仍低。
+讨    论
+研究结果显示,在糖调节受损人群中,低水平的
+NT-proBNP 与糖尿病风险升高相关,甚至在调整了传
+统危险因素及空腹血糖后仍相关。 结果在性别,体重
+指数间均一致。 这些结果与有限的动物实验及体内实
+验相一致,这些实验提示循环 BNP 有代谢活性。
+BNP 及其相关肽类通过何种机制影响脂肪组织
+及糖代谢仍不清楚。 研究到目前为止已经证实 BNP
+对肌肉及脂肪组织的直接作用,能够影响胰岛素抵抗
+的发生发展。 Miyashita 等[3] 研究显示,BNP 过度表达
+的 BNP 转基因鼠接受高脂饮食后肥胖及胰岛素抵抗
+率下降,肌肉线粒体容积及脂肪氧化增加。 作者提出,
+BNP 的细胞作用模仿通过儿茶酚胺观察到的作用,包
+括结合到脂肪细胞的尿钠肽受体 A(NPR-A),激活
+cGMP 瀑布, 下游激活 cGMP 依赖的蛋白激酶及
+p38MAPK,导致线粒体生物起源及解偶联呼吸增加。
+近来,Bordicchia 等[6] 证实,在一系列动物及体内实验
+中,尿钠肽[BNP 及心房尿钠肽(ANP)]在白色脂肪组
+表 1  基线时根据 NT-proBNP 四分位数分组的受试者基本资料特征
+Tab 1  Characteristics of participants according to quartiles of NT-proBNP at baseline
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+糖尿病家族史
+Family history
+of diabetes
+(%)
+吸烟
+Smoker
+(%)
+体重
+Weight
+(kg)
+身高
+Height
+(m)
+体重指数
+Body mass
+index
+(kg / m2)
+腰围
+Waist
+(cm)
+1(≤31 pg / ml) 32(20 / 12) 60. 4 ±5. 0 22. 1 13. 8 77. 8 ±21. 3 1. 70 ±0. 09 26. 9 ±5. 0 96. 7 ±11. 4
+2(31. 1-61. 8 pg / ml) 31(14 / 17) 61. 6 ±5. 3 23. 8 15. 4 69. 8 ±25. 7 1. 68 ±0. 09 24. 7 ±5. 5 95. 0 ±13. 0
+3(61. 9-114. 4 pg / ml) 31(10 / 21) 62. 7 ±5. 4 21. 9 13. 0 63. 6 ±23. 1 1. 66 ±0. 09 23. 1 ±5. 5 93. 5 ±13. 3
+4(≥114. 4 pg / ml) 32(9 / 23)  64. 0 ±5. 7 19. 7 16. 3 60. 6 ±25. 3 1. 65 ±0. 08 22. 3 ±5. 7 92. 8 ±13. 9
+P <0. 01 0. 02 0. 006 <0. 01 <0. 01 <0. 01 <0. 01
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+高血压
+Hypertension
+(%)
+收缩压
+Systolic blood
+pressure
+(mmHg)
+舒张压
+Diastolic blood
+pressure
+(mmHg)
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L)
+TG>1. 7 mmol / L
+(%)
+1(≤31 pg / ml) 32(20 / 12) 24. 6 122 ±15 72 ±9  3. 31 ±0. 89 1. 23 ±0. 38 32. 7
+2(31. 1-61. 8 pg / ml) 31(14 / 17) 22. 5 124 ±17 71 ±9  3. 26 ±0. 85 1. 31 ±0. 41 32. 6
+3(61. 9-114. 4 pg / ml) 31(10 / 21) 26. 6 127 ±19 71 ±10 3. 15 ±0. 81 1. 39 ±0. 44 27. 7
+4(≥114. 4 pg / ml) 32(9 / 23)  32. 7 131 ±21 71 ±11 3. 06 ±0. 84 1. 43 ±0. 45 29. 4
+P <0. 01 <0. 01 <0. 01 <0. 01 <0. 01 0. 001
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+空腹血糖
+Fasting glucose
+(mmol / L)
+OGTT 2 h 血糖
+OGTT 2 h glucose
+(mmol / L)
+空腹胰岛素
+Fasting insulin
+(ng / ml)
+OGTT 2 h 胰岛素
+OGTT 2 h insulin
+(ng / ml)
+C 反应蛋白
+C-reactive protein
+(mg / L)
+1(≤31 pg / ml) 32(20 / 12) 5. 6(5. 2-6. 1) 8. 2(7. 9-11. 0) 11. 8(8. 4-16. 6) 47. 2(33. 6-66. 4) 2. 0(0. 95-4. 42)
+2(31. 1-61. 8 pg / ml) 31(14 / 17) 5. 5(5. 2-5. 9) 8. 1(7. 9-10. 9) 10. 1(7. 1-14. 5) 50. 5(35. 5-72. 6) 2. 1(0. 98-4. 77)
+3(61. 9-114. 4 pg / ml) 31(10 / 21) 5. 4(5. 1-5. 8) 8. 0(7. 8-10. 8) 9. 1(6. 4-13. 0) 45. 5(32. 0-65. 0) 2. 2(1. 00-5. 00)
+4(≥114. 4 pg / ml) 32(9 / 23)  5. 3(5. 0-5. 7) 7. 9(7. 8-10. 6) 8. 6(5. 8-12. 1) 43. 0(29. 0-60. 5) 2. 6(1. 10-5. 80)
+P <0. 01 <0. 01 <0. 01 0. 06 <0. 01
+注:NT-proBNP:氨基末端前 B 型尿钠肽 NH2 -terminal pro-B-type natriuretic peptide;1 mmHg = 0. 133 kPa;LDL-C:低密度脂蛋白胆固醇 Low-density
+lipoprotein-cholesterol;HDL-C:高密度脂蛋白胆固醇 High- density lipoprotein-cholesterol;TG:三酰甘油 Triglycerides;OGTT:口服葡萄糖耐量试验 Oral
+glucose tolerance test
+表 2  糖尿病发病风险的相对危险度(95% CI)
+Tab 2  Adjusted relative risks(95% CI) of incident diagnosed diabetes by quartiles of NT-proBNP
+组别
+Group
+例数
+n
+模型 1
+Model 1
+模型 2
+Model 2
+模型 3
+Model 3
+模型 4
+Model 4
+1(≤31 pg / ml) 32 1. 0 1. 0 1. 0 1. 0
+2(31. 1-61. 8 pg / ml) 31 0. 87(0. 77-0. 99) 0. 93(0. 81-1. 04) 0. 89(0. 78-1. 00) 0. 83(0. 74-0. 96)
+3(61. 9-114. 4 pg / ml) 31 0. 75(0. 66-0. 87) 0. 82(0. 72-0. 95) 0. 75(0. 67-0. 88) 0. 78(0. 68-0. 90)
+4(≥114. 4 pg / ml) 32 0. 66(0. 58-0. 78) 0. 77(0. 66-0. 88) 0. 66(0. 56-0. 76) 0. 74(0. 64-0. 87)
+P <0. 01 <0. 01 <0. 01 <0. 01
+注:NT-proBNP:氨基末端前 B 型尿钠肽 NH2 -terminal pro-B-type natriuretic peptide
+织激活“棕色脂肪组织样冶机制参与生热作用。 在一
+项人类研究中,Heinisch 等[2],静脉给予 BNP 或安慰
+剂到 20 例健康志愿者,并进行静脉糖耐量试验。 结果
+显示, 给予 BNP 后, 血糖水平下降但胰岛素分泌及敏
+感性无变化。
+至今,在人群中调查尿钠肽与糖尿病相关性的数
+据仍然有限。 一项前瞻性研究结果显示[14],在无糖尿
+病、心血管疾病和肾功能不全的社区人群中,高水平的
+NT-proBNP 与糖尿病风险下降相关,甚至在调整了传
+统危险因素及空腹血糖后仍相关。 本研究的结果与之
+是一致的。 在瑞士,根据马里兰饮食和癌症中心的数
+据,研究者们在 1 828 例成人样本(301 例糖尿病)中
+检测了 ANP 及 NT-proBNP 与糖尿病发病率的相关性。
+作者发现,ANP 与糖尿病显著负相关,NT-proBNP 第 4
+四分位数组与第 1 四分位数组比较,NT-proBNP 与糖
+尿病负相关但无统计学差异 [OR = 0. 95 (95% CI
+0. 84 ~ 1. 08)] [10]。 一项研究使用 FINRISK97 研究
+(n=7827)的数据,其中发生了 417 例糖尿病,BNP 与
+糖尿病之间显著负相关[15]。 一项病例对照研究包含
+病例组 440 例,对照组 740 例,均来自于欧洲癌症及营
+养(EPIC)调查研究-Norfolk 研究,NT-proBNP 与糖尿
+病显著负相关[NT-proBNP 每增加 1-SD 相对危险度
+0. 82(95% CI 0. 69 ~ 0. 97)] [11]。 Plister 等[11] 综合了
+EPIC-Norfolk 研究和一些小样本的有基因型信息的病
+例对照研究的结果,证实编码 BNP 基因区的一个普通
+基因变异(rs198389)与 2 型糖尿病风险下降相关。
+总之,结果提示,糖调节受损人群中 NT-proBNP
+水平低者比 NT-proBNP 水平高者发生糖尿病的风险
+显著升高。 这些结果对尿钠肽在代谢障碍中的新作用
+提供了进一步的证据。 如果重组人 BNP 可用,需要更
+多的研究来确定它在防止糖尿病发展中的用处。

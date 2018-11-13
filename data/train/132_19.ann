@@ -1,0 +1,354 @@
+T1	Disease 3779 3785	1 型糖尿病
+T2	Disease 4531 4537	2 型糖尿病
+T3	Test 3845 3850	HBA1C
+T4	Test 4082 4087	HBA1C
+T5	Test 4587 4592	HBA1C
+T6	Test 4742 4747	HBA1C
+T7	Test 4921 4926	HBA1C
+T8	Disease 4538 4542	T2DM
+T9	Disease 4693 4697	T2DM
+T10	Disease 4873 4877	T2DM
+T11	Disease 5194 5198	T2DM
+T12	Disease 5271 5275	T2DM
+T13	Test 4581 4585	空腹血糖
+T14	Test 4630 4634	体重指数
+T15	Test 4816 4818;4819 4824	胰岛 素抵抗指数
+T16	Test 4825 4832	HOMA-IR
+T17	Test 4803 4809	HOMA-β
+T18	Anatomy 2309 2316	胰岛 β 细胞
+T19	Anatomy 4241 4245	β 细胞
+T20	Anatomy 5202 5209	胰岛 β 细胞
+T21	Anatomy 82 85	干细胞
+T22	Anatomy 116 119	干细胞
+T23	Disease 135 138	糖尿病
+T24	Treatment 138 144	细胞替代治疗
+T25	Anatomy 163 168	内分泌器官
+T26	Anatomy 217 220	干细胞
+T27	Anatomy 222 224	胰岛
+T28	Anatomy 226 229	甲状腺
+T29	Anatomy 231 235	甲状旁腺
+T30	Anatomy 237 240	肾上腺
+T31	Anatomy 1144 1147	干细胞
+T32	Anatomy 1177 1180	干细胞
+T33	Anatomy 1236 1239	干细胞
+T34	Anatomy 1280 1285	胚胎干细胞
+T35	Anatomy 1327 1333	hES 细胞
+T36	Disease 1406 1410	黄斑变性
+T37	Disease 1427 1445	Stargardt忆s 黄斑营养不良
+T38	Treatment 1457 1465	hES 细胞治疗
+T39	Anatomy 1511 1517	hES 细胞
+T40	Anatomy 1521 1530	视网膜色素上皮细胞
+T41	Anatomy 1531 1534	RPE
+T42	Test 1554 1558	眼底照相
+T43	Test 1559 1569	频域光学相干断层成像
+T44	Anatomy 1575 1578	RPE
+T45	Anatomy 1590 1593	视网膜
+T46	Anatomy 1631 1637	hES 细胞
+T47	Anatomy 1651 1657	hES 细胞
+T48	Anatomy 1716 1722	hES 细胞
+T49	Anatomy 1836 1842	hES 细胞
+T50	Anatomy 1851 1857	iPS 细胞
+T51	Anatomy 1914 1920	hES 细胞
+T52	Anatomy 1978 1984	iPS 细胞
+T53	Disease 1994 1996	肿瘤
+T54	Anatomy 2020 2026	iPS 细胞
+T55	Anatomy 2079 2085	iPS 细胞
+T56	Anatomy 2112 2117	成体干细胞
+T57	Anatomy 2153 2158	成体干细胞
+T58	Anatomy 2197 2202	自体干细胞
+T59	Anatomy 2232 2235	干细胞
+T60	Disease 2270 2273	糖尿病
+T61	Anatomy 2283 2286	干细胞
+T62	Anatomy 2291 2295	胰岛细胞
+T63	Disease 2321 2324	糖尿病
+T64	Anatomy 2333 2338	ES 细胞
+T65	Anatomy 2344 2348	胰岛细胞
+T66	Anatomy 2364 2369	ES 细胞
+T67	Anatomy 2446 2455	巢蛋白阳性前体细胞
+T68	Anatomy 2499 2501	胰腺
+T69	Anatomy 2559 2565	hES 细胞
+T70	Anatomy 2567 2571	胰岛细胞
+T71	Anatomy 2603 2608	ES 细胞
+T72	Anatomy 2609 2613	胰岛细胞
+T73	Anatomy 2623 2629	iPS 细胞
+T74	Anatomy 2641 2646	ES 细胞
+T75	Anatomy 2696 2702	iPS 细胞
+T76	Anatomy 2736 2740	成体细胞
+T77	Anatomy 2743 2749	iPS 细胞
+T78	Anatomy 2760 2766	iPS 细胞
+T79	Disease 2797 2800	糖尿病
+T80	Anatomy 2824 2829	成纤维细胞
+T81	Anatomy 2832 2838	iPS 细胞
+T82	Anatomy 2846 2850	心肌细胞
+T83	Anatomy 2851 2854	肝细胞
+T84	Anatomy 2879 2884	成纤维细胞
+T85	Anatomy 2888 2892	胰岛细胞
+T86	Disease 2989 2994	MODY2
+T87	Anatomy 3040 3046	iPS 细胞
+T88	Anatomy 3053 3057	胰岛细胞
+T89	Anatomy 3096 3102	iPS 细胞
+T90	Anatomy 3108 3112	胰岛细胞
+T91	Anatomy 3130 3134	胰岛细胞
+T92	Anatomy 3193 3197	胰岛细胞
+T93	Disease 3225 3228	糖尿病
+T94	Anatomy 3282 3286	胰岛细胞
+T95	Disease 3317 3320	糖尿病
+T96	Anatomy 3403 3405	胰腺
+T97	Anatomy 3445 3447	胰腺
+T98	Anatomy 3450 3452	胰腺
+T99	Anatomy 3511 3513	胰腺
+T100	Anatomy 3531 3533	胰腺
+T101	Anatomy 3590 3592	胰腺
+T102	Anatomy 3662 3664	胰腺
+T103	Anatomy 3692 3694	血管
+T104	Anatomy 3695 3697	神经
+T105	Disease 3738 3741	糖尿病
+T106	Disease 3769 3774	酮症酸中毒
+T107	Disease 3786 3790	T1DM
+T108	Drug 3800 3805	免疫抑制剂
+T109	Amount 3797 3800	大剂量
+T110	Drug 3918 3921	胰岛素
+T111	Test 3931 3934	C 肽
+T112	Disease 3983 3987	T1DM
+T113	Drug 3995 3998	胰岛素
+T114	Disease 4038 4042	T1DM
+T115	Drug 4068 4071	胰岛素
+T116	Test 4093 4096	C 肽
+T117	Drug 4113 4116	胰岛素
+T118	Disease 4133 4135;4136 4139	酮症 酸中毒
+T119	Anatomy 4182 4188	T 淋巴细胞
+T120	Anatomy 4225 4229	T 细胞
+T121	Disease 4315 4319	T1DM
+T122	Drug 4334 4337	胰岛素
+T123	Test 4357 4360	C 肽
+T124	Disease 4448 4452	T1DM
+T125	Treatment 4564 4567	高压氧
+T126	Test 4597 4603	空腹 C 肽
+T127	Drug 4620 4623	胰岛素
+T128	Drug 4686 4689	胰岛素
+T129	Drug 4706 4709	胰岛素
+T130	Drug 4733 4736	胰岛素
+T131	Drug 4906 4911	口服降糖药
+T132	Drug 4935 4938	胰岛素
+T133	Amount 4941 4954	≥0. 4 IU / kg
+T134	Duration 4959 4965	至少 1 年
+T135	Drug 5043 5046	胰岛素
+T136	Drug 5059 5062	胰岛素
+T137	Drug 5142 5145	胰岛素
+T138	Test 5156 5159	C 肽
+T139	Disease 5230 5233	糖尿病
+T140	Drug 5251 5254	胰岛素
+T141	Disease 5339 5344	甲状腺疾病
+T142	Anatomy 5361 5366	甲状腺细胞
+T143	Anatomy 5383 5386	甲状腺
+T144	Anatomy 5407 5410	干细胞
+T145	Anatomy 5412 5415	甲状腺
+T146	Anatomy 5434 5439	甲状腺细胞
+T147	Anatomy 5484 5489	ES 细胞
+T148	Anatomy 5590 5595	ES 细胞
+T149	Anatomy 5599 5608;5609 5610	TSH 受体阳性细 胞
+T150	Anatomy 5618 5626	甲状腺滤泡样细胞
+T151	Anatomy 5661 5664	甲状腺
+T152	Anatomy 5692 5697	ES 细胞
+T153	Anatomy 5702 5709	甲状腺滤泡细胞
+T154	Anatomy 5738 5741;5742 5746	甲状腺 滤泡细胞
+T155	Anatomy 5749 5752	甲状腺
+T156	Anatomy 5819 5825	甲状腺干细胞
+T157	Anatomy 5885 5890	SP 细胞
+T158	Anatomy 5894 5899	甲状腺细胞
+T159	Disease 5943 5949	甲状旁腺疾病
+T160	Anatomy 5985 5991	hES 细胞
+T161	Anatomy 5997 6003	甲状旁腺细胞
+T162	Anatomy 6144 6148	胸腺细胞
+T163	Anatomy 6190 6196	甲状旁腺细胞
+T164	Anatomy 6243 6249	甲状旁腺组织
+T165	Anatomy 6257 6260	MSC
+T166	Anatomy 6287 6289;6290 6294	甲状 旁腺组织
+T167	Anatomy 6307 6310	干细胞
+T168	Anatomy 6339 6344	肿瘤干细胞
+T169	Disease 6347 6353	甲状旁腺肿瘤
+T170	Disease 6370 6375	肾上腺疾病
+T171	Anatomy 6463 6468	ES 细胞
+T172	Anatomy 6473 6475;6476 6481	类固 醇生成细胞
+T173	Anatomy 6532 6537	ES 细胞
+T174	Anatomy 6541 6544	MSC
+T175	Anatomy 6560 6567	类固醇生成细胞
+T176	Anatomy 6586 6589	hES
+T177	Anatomy 6687 6690	MSC
+T178	Anatomy 6706 6710;6711 6714	类固醇生 成细胞
+T179	Anatomy 6722 6725	肾上腺
+T180	Anatomy 6726 6728	性腺
+T181	Anatomy 6746 6751	肾上腺被膜
+T182	Anatomy 6753 6763	Gli1 阳性的细胞
+T183	Anatomy 6782 6789	肾上腺皮质细胞
+T184	Anatomy 6809 6814	肾上腺皮质
+T185	Anatomy 6816 6821	SP 细胞
+T186	Anatomy 6874 6879	肾上腺髓质
+T187	Anatomy 6899 6903	类神经元
+T188	Anatomy 6904 6908	嗜铬细胞
+T189	Disease 6990 6993	糖尿病
+T190	Treatment 6994 6997;6998 7001	细胞替 代治疗
+T191	Anatomy 7020 7022	胰岛
+T192	Anatomy 7023 7026	甲状腺
+T193	Anatomy 7028 7032	甲状旁腺
+T194	Anatomy 7033 7036	肾上腺
+T195	Anatomy 2413 2417	Pdx1
+T196	Anatomy 3393 3397	Pdx1
+T197	Anatomy 3487 3491	Pdx1
+T198	Anatomy 5473 5476	TSH
+T199	Test 5558 5561	TSH
+T200	Anatomy 5873 5876	TSH
+T201	Anatomy 5916 5919	TSH
+T202	Anatomy 156 157;158 160	干 细胞
+T203	Anatomy 169 171	胚胎
+T204	Disease 1375 1376;1377 1378	失 明
+T205	Anatomy 1860 1863	体细胞
+T206	Anatomy 1872 1875	体细胞
+T207	Anatomy 1969 1972	体细胞
+T208	Anatomy 2050 2055	自体干细胞
+T209	Anatomy 2137 2140	干细胞
+T210	Anatomy 2298 2301	干细胞
+T211	Anatomy 2371 2373	胰岛
+T212	Anatomy 2733 2735	皮肤
+T213	Anatomy 2813 2816	体细胞
+T214	Anatomy 2959 2965	iPS 细胞
+T215	Anatomy 3143 3146	胰岛素
+T216	Anatomy 3204 3207	胰岛素
+T217	Level 4362 4373	升高 4 ~ 26 倍
+T218	Level 4747 4749;4750 4755	下降 1. 0%
+T219	Anatomy 4991 4995	肘前静脉
+T220	Anatomy 4997 5003	外周血干细胞
+T221	Anatomy 5386 5388	胚胎
+T222	Anatomy 5466 5472	促甲状腺激素
+T223	Test 5501 5505	Pax8
+T224	Test 5506 5520	Na+ / I-同向转运蛋白
+T225	Test 5521 5539	Na+ / I- symporter
+T226	Test 5541 5545;5546 5548	甲状腺球 蛋白
+T227	Test 5549 5557	甲状腺过氧化物酶
+T228	Anatomy 5864 5867	干细胞
+T229	Test 6036 6045	转录因子 Gcm2
+T230	Test 6070 6075	钙敏感受体
+T231	Test 6101 6105	CaSR
+T232	Test 6107 6110;6111 6113	甲状旁 腺素
+T233	Test 6114 6117	PTH
+T234	Test 6125 6128	PTH
+T235	Disease 6222 6224	肿瘤
+T236	Anatomy 6262 6265	干细胞
+T237	Anatomy 6319 6322	干细胞
+T238	Anatomy 6413 6428	类 固 醇 生 成 因 子 1
+T239	Anatomy 6486 6489	类固醇
+T240	Anatomy 6453 6456	SF1
+T241	Anatomy 6549 6552	SF1
+T242	Anatomy 6602 6605	中胚层
+T243	Anatomy 6612 6615	SF1
+T244	Anatomy 6641 6646	类固醇激素
+T245	Anatomy 6696 6699	SF1
+T246	Anatomy 6729 6734	类固醇激素
+T247	Anatomy 6823 6826	干细胞
+T248	Anatomy 6852 6858	类固醇合成酶
+T249	Anatomy 6884 6887	干细胞
+T250	Anatomy 6986 6989	干细胞
+T251	Anatomy 7016 7019	干细胞
+T252	Anatomy 7040 7042	胚胎
+T253	Disease 88 94	内分泌代谢病
+T254	Disease 176 183	内分泌代谢疾病
+T255	Disease 1084 1092	内分泌代谢性疾病
+T256	Anatomy 1154 1158	目标细胞
+T257	Disease 1413 1414;1415 1425	干 性年龄相关性黄斑变性
+T258	Test 1544 1547	视功能
+T259	Treatment 1688 1694	体细胞核移植
+T260	Treatment 1695 1699	SCNT
+T261	Treatment 1775 1779	SCNT
+T262	Treatment 1829 1833	SCNT
+T263	Treatment 1922 1926	SCNT
+T264	Anatomy 2143 2147	自体组织
+T265	Treatment 2789 2793	移植治疗
+T266	Anatomy 3005 3008	GCK
+T267	Anatomy 3064 3067	GCK
+T268	Anatomy 3123 3126	GCK
+T269	Anatomy 3167 3170	GCK
+T270	Treatment 3332 3338	囊胚互补技术
+T271	Anatomy 3412 3414	囊胚
+T272	Anatomy 3542 3543;3544 3546	桑 葚胚
+T273	Anatomy 3554 3557	桑椹胚
+T274	Treatment 3613 3619	囊胚互补技术
+T275	Anatomy 3683 3686;3687 3688	目标细 胞
+T276	Treatment 3974 3981	AHST 治疗
+T277	Treatment 4029 4036	AHST 治疗
+T278	Test_Value 4089 4091	下降
+T279	Test_Value 4098 4099;4100 4101	升 高
+T280	Treatment 4145 4149	AHST
+T281	Treatment 4173 4177	AHST
+T282	Test_Value 4617 4619	升高
+T283	Anatomy 6770 6771;6772 6775	皮 质内部
+T284	Disease 7045 7052	内分泌代谢疾病
+T285	Method 4116 4118	注射
+T286	Test_Value 5133 5137	显著升高
+T287	Test 4778 4783;4784 4802	稳态模型法 (HOMA)评估的 β 细胞功能指数
+T288	Treatment 1264 1269	干细胞技术
+T289	Anatomy 1306 1308;1309 1317	胚胎 干(hES)细胞
+T290	Treatment 1364 1372	hES 细胞治疗
+T291	Anatomy 1784 1790	ES 细胞系
+T292	Anatomy 1805 1810	皮肤细胞核
+T293	Anatomy 1814 1821	供体去核卵细胞
+T294	Anatomy 1879 1894	诱导性多潜能干( iPS)细胞
+T295	Disease 2095 2105;2106 2107	湿性年龄相关性黄斑变 性
+T296	Treatment 2264 2269	干细胞技术
+T297	Anatomy 2490 2494	胎儿胰岛
+T298	Treatment 2663 2673	iPS 细胞自体移植
+T299	Anatomy 2771 2778	胰岛素分泌细胞
+T300	Anatomy 2780 2784	IPCs
+T301	Anatomy 2894 2906	疾病特异性 iPS 细胞
+T302	Disease 2971 2987	青年人的成年发病型糖尿病 2 型
+T303	Anatomy 3231 3238;3239 3241	特异性 iPS 细胞
+T304	Anatomy 3260 3272	疾病特异性 iPS 细胞
+T305	Anatomy 3298 3308	特异性 iPS 细胞
+T306	Anatomy 3421 3423	ES
+T307	Anatomy 3426 3432	iPS 细胞
+T308	Anatomy 3503 3510	Hes1 基因
+T309	Treatment 3731 3738	干细胞移植治疗
+T310	Treatment 3808 3819;3820 3827	自体非清髓造血干细胞移 植(AHST)
+T311	Drug 3834 3837	胰岛素
+T312	Test_Value 3856 3858;3859 3861	7% 以下
+T313	Test 3862 3869	C 肽释放反应
+T314	Anatomy 4197 4202	单个核细胞
+T315	Anatomy 4194 4197	外周血
+T316	Anatomy 4265 4270;4271 4274	脂肪间充质 干细胞
+T317	Anatomy 4275 4278	MSC
+T318	Anatomy 4283 4287	IPCs
+T319	Anatomy 4292 4299	骨髓造血干细胞
+T320	Anatomy 4299 4302	门静脉
+T321	Anatomy 4461 4463	脂肪
+T322	Anatomy 4464 4467	MSC
+T323	Anatomy 4472 4476	IPCs
+T324	Anatomy 4479 4486	骨髓造血干细胞
+T325	Anatomy 4486 4489	门静脉
+T326	Anatomy 4549 4550;4551 4554	胰 腺动脉
+T327	Anatomy 4556 4561	骨髓干细胞
+T328	Test 4605 4614	C 肽 /血糖比值
+T329	Treatment 4657 4677	选择性胃十二指肠动脉内输注自体骨髓干细胞
+T330	Anatomy 4760 4764	胰升糖素
+T331	Test 4768 4771	C 肽
+T332	Treatment 4972 4983	导管移植自体骨髓干细胞
+T333	Anatomy 5120 5124	胰升糖素
+T334	Test 5128 5131	C 肽
+T335	Treatment 5179 5182;5183 5189	自体骨 髓干细胞移植
+T336	Treatment 5219 5228	自体骨髓干细胞移植
+T337	Treatment 5333 5338	干细胞技术
+T338	Anatomy 5351 5356	诱导干细胞
+T339	Test 5763 5769;5770 5771	血浆甲状腺激 素
+T340	Anatomy 5810 5815	甲状腺组织
+T341	Anatomy 5853 5858	甲状腺组织
+T342	Anatomy 5847 5849	SP
+T343	Anatomy 5937 5940	干细胞
+T344	Anatomy 6016 6020;6021 6023	甲状旁腺 前体
+T345	Anatomy 6024 6030	成熟甲状旁腺
+T346	Anatomy 6295 6303	甲状旁腺肿瘤组织
+T347	Treatment 6364 6369	干细胞技术
+T348	Anatomy 6591 6599	人 iPS 细胞
+T349	Anatomy 6621 6630	类肾上腺皮质样细胞
+T350	Anatomy 6659 6661	孕酮
+T351	Anatomy 6662 6665	皮质酮
+T352	Anatomy 6666 6669	皮质醇
+T353	Treatment 6918 6923	干细胞技术
+T354	Treatment 7082 7084;7085 7090	干细 胞技术治疗

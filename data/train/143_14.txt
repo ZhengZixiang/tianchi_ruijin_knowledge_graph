@@ -1,0 +1,382 @@
+基础研究
+FoxO1 过表达对大鼠糖尿病肾病的影响
+及机制研究
+周英旎  王庆祝  秦贵军  郭丰  张媛媛  吴丽娜
+[摘要]   目的  探讨叉头状转录因子 O1(Forkhead transcription factor,FoxO1)过表达对糖尿病大鼠肾
+小球系膜细胞(mesangial cell,MCs)增殖的影响及其机制。 方法 构建空慢病毒载体(LV-pSC-GFP)、大鼠
+组成性激活突变型 FoxO1 慢病毒载体(LV-CA-FoxO1)。 建立糖尿病大鼠模型,造模成功后随机分为糖尿
+病组(DM 组),糖尿病空病毒转染组(NC 组),糖尿病 FoxO1 过表达转染组(CA 组),选健康同龄雄性 SD
+大鼠做正常对照(NG 组)。 然后将慢病毒分别一次性靶向注入对应组糖尿病大鼠肾脏皮质内,正常组注射
+等体积生理盐水,分别于转染后 2 周,4 周,8 周时检测大鼠体重、血糖、血肌酐、尿素氮、24 h 尿蛋白及尿白
+蛋白定量。 处死动物后计算肾重指数,留取肾脏组织制备冰冻及光镜和电镜切片。 实时荧光定量 PCR 分
+别检测各组大鼠肾皮质 FoxO1,细胞周期蛋白依赖性激酶抑制 1B( cyclin-dependent kinase inhibitor 1B,
+p27Kip1)的 mRNA 水平,Western 印迹法检测 FoxO1、磷酸化 FoxO1(p-FoxO1)、p27Kip1 的蛋白表达。 结果
+倒置荧光显微镜下观察到转染组多量绿色荧光蛋白表达;光镜及电镜结果显示各时间段 CA 组肾脏病变较
+DM 组明显改善。 与 DM 组相比,各时间段 CA 组 FoxO1,p27Kip1 mRNA 及蛋白水平显著升高(P<0. 05),
+p-FoxO1 蛋白表达与 DM 组无差异(P>0. 05),但 p-FoxO1 / FoxO1 比值明显降低(P<0. 05)。 NC 组与 DM 组
+比较各指标之间差异无统计学意义(P>0. 05)。 结论 靶向性调节糖尿病大鼠肾皮质中 FoxO1 的表达,能
+够显著改善糖尿病状态下系膜细胞的增殖,机制可能是通过上调其靶基因 p27Kip1 的表达,延缓糖尿病肾
+病的发生发展。
+[关键词]   叉头状转录因子 O1; 糖尿病, 实验性; 系膜细胞; 细胞增殖
+Effect and mechanism of FoxO1 overexpression in rats with diabetic nephropathy Zhou Yingni, Wang
+Qingzhu, Qin Guijun, Guo Feng, Zhang Yuanyuan,Wu Lina. Department of Endocrinology and Metabolism, the First
+Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, China
+[Abstract]   Objective   To study the role and molecular mechanism of forkhead transcription factor O1
+(FoxO1) on proliferation of mesangial cells(MCs) in diabetic rats. Methods Empty lentiviral vector( LV-pSC-
+GFP) and the constitutively active FoxO1 lentiviral vector(LV-CA-FoxO1) were constructed. Diabetic rat model was
+established and rats were divided into diabetes group(DM group), diabetes with LV-pSC-GFP group(NC group), and
+diabetes with LV-CA-FoxO1 group(CA group). The normal SD rats of the same age were considered as the normal
+control group(NG group). The lentiviral vector was injected into the renal cortex of diabetic rats in corresponding
+groups. Body weight, blood glucose, 24 h urinary protein, urine albumin, serum creatinine, and blood urea nitrogen
+was detected at the end of 2 weeks, 4 weeks, and 8 weeks. The ratio of kidney weight / body weight was counted and the
+renal cortex was reserved for light microscopy, electron microscopy and frozen section after rats were sacrificed in
+different groups. The mRNA level of FoxO1 and p27Kip1 were detected by real-time PCR. The protein expressions of
+FoxO1, p-FoxO1, and p27Kip1 were tested by Western blotting. Results The renal pathological changes were
+obviously ameliorated in CA group. Compared with DM group, the mRNA and protein expression of FoxO1 and
+p27Kip1 were significantly increased in CA group (P<0. 05), whereas there was no difference in the expression of p-
+FoxO1 protein(P > 0. 05) . The p-FoxO1 / FoxO1 ratio was decreased ( P < 0. 05) . All indexes had not reached
+statistical difference between NC group and DM group(P>0. 05) . Conclusion Overexpression of FoxO1 in kidneys
+of diabetic rats can inhibit the proliferation of mesangial cells, and may through up-regulating the expression of
+p27Kip1 delay the progression of diabetic nephropathy.
+[Key words]  Forkhead transcription factor O1; Diabetic mellitus, experimental; Glomerular mesangial cells;
+Cell proliferation
+(Chin J Endocrinol Metab, 2015, 31: 155-161)
+糖尿病肾病(Diabetic Nephropathy,DN)是糖尿病
+的主要慢性并发症之一,系膜细胞的过度增殖在糖尿
+病肾病发生发展中起着重要作用[1,2]。 叉头状转录因
+子 O1(Forkhead transcription factor,FoxO1)是 FoxO 亚
+家族中的一员,在抗氧化应激,调节糖脂代谢及细胞周
+期调控等方面发挥着重要的作用[3,4]。 本课题组以往
+研究发现,在糖尿病大鼠肾皮质内,FoxO1 mRNA 水平
+降低,磷酸化水平增高,肾脏抗氧化应激作用增强,表
+明 FoxO1 与糖尿病肾病发生发展有着重要关系[5,6]。
+p27Kip1 是一种细胞周期依赖性激酶抑制剂,在调节
+细胞增殖,分化,凋亡方面有着举足轻重作用。 研究表
+明,p27Kip1 是 FoxO1 重要的下游靶基因,其表达的降
+低与多种肿瘤的发生密切相关[7,8]。 因此,在糖尿病
+大鼠体内,FoxO1 是否是通过调节 p27Kip1 的表达来
+抑制系膜细胞的增殖,从而减轻糖尿病肾脏病变,目前
+尚不清楚。 本研究在动物体内,通过大鼠肾脏靶向性
+注射慢病毒, 上调 FoxO1 的表达, 从而观察其对
+p27Kip1 表达及肾脏系膜细胞增殖的影响及机制。
+材料和方法
+一、 实验材料
+130 只 8 周龄 SPF 级雄性 SD 大鼠购自河南省实
+验动物中心;链脲佐菌素(STZ,美国 Sigma 公司);汉
+密尔顿微量注射器(瑞士 Hamilton 公司);空慢病毒载
+体(LV-pSC-GFP)、大鼠组成性激活突变型 FoxO1 慢病
+毒载体(LV-CA-FoxO1)由上海吉玛制药技术有限公司
+构建;超纯 RNA 提取试剂盒(北京康为世纪生物科技
+有限公司);Rever Tra Ace qPCR RT Master Mix 及 KOD
+SYBR qPCR Mix (日本 TOROBO 公司); 兔抗大鼠
+FoxO1 单克隆抗体(美国 Epitomics 公司)、兔抗大鼠
+p-FoxO1(Ser256)多克隆抗体、兔抗大鼠 p27Kip1 单克
+隆抗体(美国 Cell Signaling Technology 公司)。
+二、 实验方法
+1. 慢病毒载体的构建:本课题组前期根据 Buteau
+等[9]的研究,成功构建大鼠组成性激活突变型 FoxO1
+编码序列,其包含 3 个常见磷酸化氨基酸位点的突变
+(Thr24寅Ala、Ser256寅Ala、Ser319寅Ala,AAA),并设
+计非相关核苷酸序列作为空病毒对照,经 BLAST 检索
+未发现与其他基因同源,由上海吉玛制药技术有限公
+司完成对于空病毒及过表达 FoxO1 慢病毒载体的包
+装纯化工作。
+2. 糖尿病大鼠模型的构建及分组:8 周龄 SPF 级
+雄性 SD(220 ± 20)g 大鼠 130 只,适应性喂养 1 周,室
+温 25℃,昼夜交替 12 h,随机选取 100 只构建糖尿病大
+鼠模型,余 30 只作为正常对照组(NG 组)。 禁食 12 h
+后,按 60 mg / kg 一次性腹腔注射 1% STZ 溶液,正常组
+注射相当体积的柠檬酸-柠檬酸钠缓冲液,72 h 后连续
+3 次测量空腹血糖,血糖≥16. 7 mmol / L 为成模标准(4
+只失败),将成模糖尿病大鼠随机分为 2 周,4 周,8 周
+3 个时期,各时期分为 3 组:糖尿病组(DM 组),糖尿
+病空病毒转染组(NC 组),糖尿病 FoxO1 过表达转染
+组(CA 组)。
+3. 慢病毒载体靶向性转染大鼠肾脏皮质及检测:
+以糖尿病大鼠右侧背部为手术入口,暴露大鼠右侧肾
+脏,单侧肾脏皮质多部位注射组成性激活突变型
+FoxO1 慢病毒载体或空病毒载体 100 滋l(1×107 TU),
+DM 组注射同等体积的生理盐水,然后逐层缝合肌肉
+层和皮肤。 分别于术后 2 周,4 周,8 周处死各组大鼠,
+留取注射部位肾脏皮质制作冰冻切片,于倒置荧光显
+微镜下观察绿色荧光蛋白(GFP)以确定慢病毒是否转
+染成功。
+4. 标本采集及生化指标检测:处死大鼠前 24 h 将
+大鼠放入代谢笼,收集 24 h 尿,用磺柳酸-硫酸钠比浊
+法及酶联免疫吸附法(ELISA)测定 24 h 尿蛋白和尿白
+蛋白定量。 10% 水合氯醛按 3 ml / kg 麻醉大鼠,采用
+眼眶取血法留取 3 ml 左右静脉血,分离血清,由日立
+7600-020 全自动生化分析仪测定血肌酐和尿素氮。 空
+腹血糖采用美国强生血糖检测仪检测。 剥离右肾称
+重,取部分注射点肾皮质置于 4%多聚甲醛中固定,用
+于制备光镜切片。 取右肾上极约 1 mm×1 mm×1 mm
+大小肾皮质迅速置于 4% 预冷戊二醛固定,用于电子
+显微镜检查。 其余注射部位肾皮质迅速置于液氮中保
+存,用于实时荧光定量 PCR 和 Western 印迹检测。
+5. 光镜及电镜:常规方法制备光镜切片,HE 染
+色,光学显微镜下观察肾脏组织形态学变化。 用冷刀
+片取右肾上极 1 mm×1 mm×1 mm 大小的组织块,迅速
+用 4%冷戊二醛溶液固定,经过 1% OsO4后固定,梯度
+丙酮脱水,环氧树脂渗透,包埋,切片,醋酸铀和柠檬酸
+铅染色,透射电子显微镜下观察肾脏超微结构改变。
+6. 实时荧光定量 PCR:称量 0. 1 g 肾皮质,液氮研
+磨,按照超纯 RNA 提取试剂盒说明,抽提各组总
+RNA,将 RNA 逆转录为 cDNA,采用 SYBR Green 法,以
+GAPDH 作为内参基因,PCR 反应条件:98℃预变性 2
+min,然后依次 98℃ 10 s,60℃ 10 s,68℃ 30 s,共扩增
+40 个循环,每组 3 个复孔,计算平均值,数据处理采用
+2-△△Ct表示待测组与对照组目的基因表达的倍数关系,
+引物由上海生工生物工程技术服务有限公司设计合
+成,引物序列见表 1。
+7. Western 印迹:称量 0. 1 g 肾皮质,液氮研磨后
+加入 980 滋l 蛋白抽提试剂及 10 滋l 蛋白酶抑制剂和 10
+表 1  实时 PCR 引物序列
+Tab 1  Sequences of primers used for real-time PCR
+基因
+Gene
+引物序列
+Primer sequence
+产物长度
+Product length
+(bp)
+FoxO1 F:5'-CAGCAAATCAAGTTATGGAGGA-3' 95
+R:5'-TATCATTGTGGGGAGGAGAGTC-3'
+p27Kip1 F:5'-GCTTGCCCGAGTTCTACTACAG-3' 128
+R:5'-AGAGTTTGCCTGAGACCCAAT-3'
+GAPDH F:5'-GCCACTCAGAAGACTCTGGA-3' 129
+R:5'-GTTCAGCTCTGGGATGACCT-3'
+注:F:上游 Forward;R:下游 Reverse
+滋l 磷酸酶抑制剂的预混试剂,冰上孵育 20 min 后离
+心,取上清。 用 BCA 法测定蛋白浓度。 蛋白样品加上
+样缓冲液煮沸后经聚丙烯酰胺( SDS-PAGE)凝胶电
+泳、转膜、封闭,分别加入相应抗体,4℃孵育过夜;经过
+TBST 缓冲液洗涤后加入 HRP 标记的山羊抗兔抗体,
+室温孵育 1 h, TBST 洗涤, ECL 发光液显影。 使用
+Image J 对条带密度进行分析,将目的条带与内参
+(GAPDH)条带信号强度的比值作为目的蛋白相对含
+量,各组实验重复 3 次,计算平均值。
+三、 统计学处理
+采用 SPSS 17. 0 统计软件进行数据分析。 计量资
+料用 x-± s 表示,非正态数据经对数转换正态后进行分
+析。 多组资料比较采用单因素方差分析,两两比较采
+用 LSD 法,P<0. 05 为差异具有统计学意义。
+结    果
+一、 倒置荧光显微镜下观察冰冻切片
+倒置荧光显微镜下观察到大量 GFP 表达,证明慢
+病毒载体成功转染大鼠肾皮质,并且能稳定表达外源
+基因达 8 周(图 1)。
+二、 各组大鼠一般状况及生化指标检查结果
+与 NG 组比较,DM 组及 NC 组大鼠精神萎靡、饮
+水量及尿量多。 CA 组精神接近于正常组大鼠,而饮水
+量和尿量仍然较高。 与 NG 组相比,DM 组各时间段时
+体重明显降低,血糖、肾重指数升高,差异有统计学差
+异(P<0. 01),其中 2 周时 24 h 尿蛋白、尿白蛋白、血
+肌酐、尿素氮无差异(P>0. 05)。 4 周,8 周时,随时间
+进展,上述指标明显升高(P<0. 01)。 CA 组与 DM 组
+相比,2 周时各指标无差异(P>0. 05),而 4 周,8 周时
+肾重指数、24 h 尿蛋白、尿白蛋白、血肌酐、尿素氮均显
+著降低(P<0. 05)。 体重、血糖比较无显著学差异(P>
+0. 05)。 NC 组与 DM 组比较各指标之间差异无统计
+学意义(P>0. 05,表 2)。
+三、 荧光定量 PCR 检测 FoxO1、p27Kip1 的 mRNA
+表达
+与 NG 组相比,DM 组各时间段 FoxO1、p27Kip1 的
+mRNA 表达明显降低 ( P < 0. 01)。 CA 组较 DM 组
+FoxO1、p27Kip1 mRNA 水平明显升高(P<0. 01,表 3)。
+四、 Western 印迹检测 FoxO1、 p-FoxO1、 p27Kip1
+蛋白表达
+结果显示各时间段,与 NG 组相比,DM 组大鼠肾
+皮质 FoxO1 表达无显著性差异(P>0. 05),p-FoxO1,
+p-FoxO1 / FoxO1 显著增加(P<0. 01) , p27Kip1 蛋白表
+注:w:周 Week; CA:糖尿病 FoxO1 过表达转染组 Diabetes mellitus with LV-CA-FoxO1 group;NC:糖尿病空病毒转染组 Diabetes mellitus with LV-pSC-
+GFP group
+图 1  绿色荧光蛋白在大鼠肾皮质中的表达(200×)
+Fig 1  Green fluorescent protein expression in renal cortex of rats (200×)
+表 2  不同时间段各组大鼠体重、肾重指数及生化指标比较
+Tab 2  Body weight, KI, and biochemical indictors among each groups of rats in different time points
+组别
+Group
+鼠数
+n
+体重
+Body Weight
+(g)
+血糖
+Blood glucose
+(mmol / L)
+KI
+(×10-3)
+尿蛋白
+Urinary protein
+(mg / 24 h)
+尿白蛋白
+Urine albumin
+(mg / 24 h)
+血肌酐
+Serum creatinine
+(μmol / L)
+血尿素氮
+Blood urea nitrogen
+(μmol / L)
+2 w
+NG 10   304 ± 19 5. 4 ± 0. 3 2. 7 ± 0. 1 6. 6 ± 0. 9 0. 32 ± 0. 04 43. 2 ± 2. 2 5. 9 ± 0. 2
+DM 10   246 ± 20b 27. 6 ± 1. 6b 3. 1 ± 0. 2b 7. 0 ± 1. 0 0. 31 ± 0. 03 44. 1 ± 2. 3 6. 0 ± 0. 3
+CA 9   243 ± 11b 27. 1 ± 1. 8b 2. 9 ± 0. 1b 6. 7 ± 0. 7 0. 31 ± 0. 02 45. 1 ± 1. 8 6. 1 ± 0. 3
+NC 10   245 ± 11b 27. 8 ± 1. 4b 3. 0 ± 0. 1b 7. 0 ± 0. 9 0. 29 ± 0. 40 44. 0 ± 2. 4 5. 9 ± 0. 4
+4 w
+NG 10   465 ± 18 5. 5 ± 0. 3 2. 8 ± 0. 3 6. 5 ± 0. 8 0. 31 ± 0. 02 46. 2 ± 2. 5 6. 0 ± 0. 3
+DM 10   265 ± 6b 28. 2 ± 1. 0b 6. 0 ± 0. 6b 15. 2 ± 0. 9b 0. 67 ± 0. 02b 66. 5 ± 3. 1b 12. 3 ± 0. 6b
+CA 8   267 ± 18b 27. 7 ± 2. 1b 3. 5 ± 0. 4bc 7. 5 ± 1. 1ac 0. 51 ± 0. 02bc 50. 8 ± 1. 6bc 7. 2 ± 0. 5bc
+NC 9   268 ± 11b 28. 0 ± 1. 0b 5. 9 ± 0. 6b 14. 7 ± 0. 7b 0. 67 ± 0. 16b 67. 3 ± 3. 3b 12. 2 ± 0. 7b
+8 w
+NG 10   600 ± 15 5. 3 ± 0. 3 3. 0 ± 0. 2 6. 6 ± 1. 0 0. 30 ± 0. 04 46. 3 ± 3. 0 6. 0 ± 0. 3
+DM 10   268 ± 16b 30. 2 ± 2. 0b 8. 0 ± 0. 5b 29. 7 ± 1. 8b 0. 92 ± 0. 08b 84. 8 ± 3. 1b 19. 3 ± 1. 2b
+CA 9   273 ± 10b 30. 4 ± 2. 7b 4. 9 ± 0. 4bc 17. 3 ± 0. 7bc 0. 69 ± 0. 08bc 57. 1 ± 2. 7bc 13. 7 ± 2. 0bc
+NC 9   267 ± 16b 30. 3 ± 2. 2b 7. 9 ± 0. 5b 30. 0 ± 1. 0b 0. 88 ± 0. 06b 84. 0 ± 4. 0b 19. 0 ± 2. 1b
+注:w:周 Week;NG:正常对照组 Normal control group;DM:糖尿病组 Diabetes mellitus group;CA:糖尿病 FoxO1 过表达转染组 Diabetes mellitus with
+LV-CA-FoxO1 group;NC:糖尿病空病毒转染组 Diabetes mellitus with LV-pSC-GFP group;KI:肾重指数 Ratio of kidney weight to body weight;vs NG, aP<
+0. 05, bP<0. 01;vs DM, cP<0. 01
+表 3  各组大鼠肾皮质 FoxO1 和 p27Kip1 mRNA 相对表达水平
+Tab 3 Relative mRNA expression of FoxO1 and p27Kip1 among each
+group of rats
+组别
+Group FoxO1 mRNA p27Kip1 mRNA
+2 w
+NG 1. 00 ± 0. 12 1. 00 ± 0. 16
+DM 0. 50 ± 0. 15a 0. 46 ± 0. 06a
+CA 1. 57 ± 0. 22ab 1. 48 ± 0. 18ab
+NC 0. 62 ± 0. 15a 0. 56 ± 0. 18a
+4 w
+NG 1. 00 ± 0. 18 1. 00 ± 0. 15
+DM 0. 41 ± 0. 10a 0. 39 ± 0. 11a
+CA 2. 44 ± 0. 22ab 1. 75 ± 0. 32ab
+NC 0. 50 ± 0. 15a 0. 45 ± 0. 11a
+8 w
+NG 1. 00 ± 0. 16 1. 00 ± 0. 11
+DM 0. 33 ± 0. 11a 0. 32 ± 0. 08a
+CA 3. 02 ± 0. 60ab 2. 57 ± 0. 43ab
+NC 0. 38 ± 0. 15a 0. 37 ± 0. 08a
+注:w:周 Week;NG:正常对照组 Normal control group;DM:糖尿病组
+Diabetes mellitus group;CA:糖尿病 FoxO1 过表达转染组 Diabetes mellitus
+with LV-CA-FoxO1 group;NC:糖尿病空病毒转染组 Diabetes mellitus with
+LV-pSC-GFP group;vs NG, aP<0. 01;vs DM, bP<0. 01
+达明显降低(P<0. 01),CA 组较 DM 组比 FoxO1 蛋白
+表达明显升高(P<0. 05),虽然 p-FoxO1 蛋白表达无差
+异(P>0. 05),但 p-FoxO1 / FoxO1 表达明显降低(P<
+0. 05),表明 FoxO1 活性及表达相对提高。 p27Kip1 表
+达较 DM 组显著增加(P<0. 01)。 NC 组与 DM 组之间
+各指标无显著性差异(P>0. 05,表 4)。
+五、 肾脏病理变化
+光镜 HE 染色显示 NG 组大鼠肾小球结构未见异
+常(图 2A、E、I);DM 组与 NC 组大鼠肾小球体积增大,
+系膜细胞增生, 肾小球系膜基质增多(图 2B、F、J、D、
+表 4  各组大鼠肾皮质 FoxO1、p-FoxO1 和 p27Kip1 蛋白表达情
+况
+Tab 4 Relative protein expression of FoxO1、p-FoxO1 and p27Kip1
+among each group of rats
+组别
+Group FoxO1 p-FoxO1 p-FoxO1 / FoxO1 p27Kip1
+2 w
+NG 1. 00 ± 0. 16 1. 00 ± 0. 53 1. 16 ± 0. 65 1. 00 ± 0. 13
+DM 1. 20 ± 0. 41 2. 12 ± 0. 56a 2. 35 ± 1. 16a 0. 66 ± 0. 12a
+CA 1. 62 ± 0. 51ab 2. 32 ± 0. 67a 1. 57 ± 0. 55b 1. 54 ± 0. 30ac
+NC 1. 00 ± 0. 48 2. 21 ± 0. 59a 2. 39 ± 0. 60a 0. 73 ± 0. 17a
+4 w
+NG 1. 00 ± 0. 20 1. 00 ± 0. 50 1. 24 ± 0. 80 1. 00 ± 0. 23
+DM 1. 12 ± 0. 25 2. 66 ± 0. 69a 2. 78 ± 0. 67a 0. 60 ± 0. 32a
+CA 2. 07 ± 0. 29ac 2. 78 ± 0. 70a 1. 56 ± 0. 43c 1. 76 ± 0. 26ac
+NC 0. 95 ± 0. 18 2. 72 ± 0. 42a 2. 99 ± 1. 27a 0. 52 ± 0. 24a
+8 w
+NG 1. 00 ± 0. 17 1. 00 ± 0. 41 0. 76 ± 0. 37 1. 00 ± 0. 34
+DM 0. 98 ± 0. 18 3. 18 ± 0. 44a 2. 48 ± 0. 79a 0. 43 ± 0. 09a
+CA 2. 56 ± 0. 20ac 3. 27 ± 0. 55a 0. 94 ± 0. 21c 2. 29 ± 0. 50ac
+NC 1. 14 ± 0. 29 3. 22 ± 0. 53a 2. 10 ± 0. 56a 0. 50 ± 0. 19a
+注:w:周 Week;NG:正常对照组 Normal control group;DM:糖尿病组
+Diabetes mellitus group;CA:糖尿病 FoxO1 过表达转染组 Diabetes mellitus
+with LV-CA-FoxO1 group;NC:糖尿病空病毒转染组 Diabetes mellitus with
+LV-pSC-GFP group;vs NG, aP<0. 01;vs DM, bP<0. 05, cP<0. 01
+H、L);CA 组上述病理改变明显减轻(图 2C、G、K)。
+电镜超微结构显示 NG 组肾小球基底膜正常,足突分
+布均匀,无融合(图 3A、E、I);DM 组与 NC 组大鼠随时
+间进展基底膜增厚或者不光滑,足突融合逐渐加重
+(图 3B、F、J、D、H、L);CA 组大鼠足突融合改善(图
+3C、G、K)。
+讨    论
+糖尿病肾病是糖尿病最重要的微血管并发症之
+注:w:周 Week;A、B、C、D:2 w;E、F、G、H:4 w;I、J、K、L:8 w;NG:正常对照组 Normal control group;DM:糖尿病组 Diabetes mellitus group;CA:糖尿病
+FoxO1 过表达转染组 Diabetes mellitus with LV-CA-FoxO1 group;NC:糖尿病空病毒转染组 Diabetes mellitus with LV-pSC-GFP group;A、E、I:NG;B、F、J:
+DM;C、G、K:CA;D、H、L:NC
+图 2  各组大鼠肾脏 HE 染色镜下所见(400×)
+Fig 2  HE staining of kidneys of various group of rats under microscope(400×)
+一,目前已成为糖尿病患者慢性肾衰竭及死亡的重要
+原因[1,2]。 糖尿病肾病的主要病理改变是系膜细胞增
+生,细胞外基质堆积以及肾小球基底膜增厚,在这三个
+主要病理改变中,系膜细胞增殖是中心环节[10,11]。
+Studer 等[12]研究发现,高糖刺激下的肾小球系膜细胞
+发生增殖,分泌大量细胞因子,如转化生长因子 β1
+(transforming growth factor β1,TGF-β1),引起细胞外基
+质(extracelluarmatrix,ECM)合成增多,分解减少,最终
+导致肾小球硬化、肾纤维化的形成。 因此,抑制系膜细
+胞增殖是改善糖尿病肾脏病变的一个重要靶点。 本研
+究与 Studer 等[12] 的结果相似,研究发现随时间进展,
+糖尿病大鼠肾小球系膜细胞明显增生甚至出现肾小球
+硬化,肾重指数、24 h 尿蛋白、尿白蛋白定量、血肌酐、
+尿素氮逐渐升高,表明肾脏结构和功能损害严重,提示
+系膜细胞的增殖与糖尿病肾病发生发展存在密切关
+系。
+以往研究发现,增加胰岛 β 细胞中 FoxO1 的表
+达,可以显著抑制胰岛 β 细胞的增殖[13]。 Yu F 研究
+显示,在乳腺癌细胞中,FoxO1 低表达,提高 FoxO1 表
+达后,乳腺癌细胞增殖受到明显抑制[14]。 提示 FoxO1
+与细胞增殖之间存在密切关系。 由于高糖下 FoxO1
+易被磷酸化而失去转录活性[15],本实验通过构建大鼠
+组成性激活突变型 FoxO1 慢病毒载体,使 FoxO1 三个
+磷酸化位点突变从而不能被磷酸化而保持活性,然后
+将慢病毒靶向性注入糖尿病大鼠肾皮质,于倒置荧光
+显微镜下观察冰冻切片,可以看到绿色荧光蛋白表达,
+表明大鼠组成性激活突变型 FoxO1 慢病毒载体已成
+功转染。 研究发现,CA 组各时间段较 DM 组相比,
+FoxO1 mRNA 及蛋白表达明显升高,p-FoxO1 蛋白表达
+虽无差异,但 p-FoxO1 / FoxO1 比值显著降低,肾脏病理
+显示系膜细胞增生情况较 DM 组明显改善。 上述结果
+表明,上调 FoxO1 表达及活性,可以显著抑制糖尿病
+大鼠肾脏系膜细胞的增殖。 且 4 周,8 周时肾重指数、
+24 h 尿蛋白、尿白蛋白定量、血肌酐、尿素氮明显低于
+DM 组,说明 CA 组大鼠肾脏功能得到明显改善。 而
+NC 组与 DM 组比较各指标之间无显著差异,表明空病
+毒载体对于糖尿病大鼠肾脏系膜细胞的增殖及改善糖
+尿病大鼠肾脏病变无影响。 那么 FoxO1 到底是通过
+何种机制来调节肾脏系膜细胞增殖的呢?
+p27Kip1 是一种细胞周期依赖性激酶抑制剂,可
+注:w:周 Week;A、B、C、D:2 w;E、F、G、H:4 w;I、J、K、L:8 w;NG:正常对照组 Normal control group;DM:糖尿病组 Diabetes mellitus group;CA:糖尿病
+FoxO1 过表达转染组 Diabetes mellitus with LV-CA-FoxO1 group;NC:糖尿病空病毒转染组 Diabetes mellitus with LV-pSC-GFP group;A、E、I:NG;B、F、J:
+DM;C、G、K:CA;D、H、L:NC
+图 3  各组大鼠肾脏电镜(20 000×)
+Fig 3  Electron microscopic findings of kidneys of various group of rats(20 000×)
+以阻断细胞周期的进展,从而抑制细胞增殖。 研究表
+明,p27kip1 作为 FoxO1 重要的下游靶基因,其表达的
+降低与多种肿瘤的发生密切相关。 Niu 等[16] 研究发
+现,白藜芦醇可以通过增加白血病细胞核内 FoxO1 的
+表达,使得 p27Kip1 表达升高,从而使白血病细胞阻滞
+于 G1 / S 期而起到抑制肿瘤细胞增殖的作用。 有研究
+发现 p27Kip1- / -小鼠与野生型小鼠相比多器官发生增
+生,从 p27Kip1- / -小鼠体内提取的系膜细胞大量增殖。
+而用反义寡核苷酸下调 p27Kip1 表达后在大鼠系膜细
+胞中观察到同样的现象[9]。 推测 p27Kip1 表达下调对
+大鼠系膜细胞增殖发挥着重要作用。 本研究结果显
+示,随时间进展,DM 组大鼠肾皮质内 p27Kip1mRNA
+及蛋白水平逐渐降低,系膜细胞增生严重,细胞外基质
+堆积,甚至出现肾小球硬化,而通过肾皮质靶向性注射
+大鼠组成性激活突变型 FoxO1 慢病毒载体,大鼠肾皮
+质内 p27Kip1mRNA 表达显著性提高,相应蛋白表达
+也增加,肾小球系膜细胞增生明显减轻,肾脏病变得到
+改善,故认为 FoxO1 可能是通过调节 p27Kip1 表达进
+而来抑制系膜细胞增殖的。
+综上所示,在糖尿病大鼠体内,FoxO1 活性降低,
+通过构建大鼠组成性激活突变型 FoxO1 慢病毒载体
+并成功转染大鼠肾脏后,FoxO1 活性及表达明显提高,
+p27Kip1 表达亦明显升高,肾小球系膜细胞增生显著
+减轻,肾脏病变较糖尿病大鼠明显改善,因此认为,
+FoxO1 可能是通过调节 p27Kip1 表达进而来抑制系膜
+细胞增殖,为 FoxO1 在早期 DN 发生发展中的作用和
+DN 的治疗提供了新的思路和理论依据。

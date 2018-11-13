@@ -1,0 +1,408 @@
+T1	Test 3046 3051	HBA1C
+T2	Test 4461 4466	HBA1C
+T3	Test 4877 4882	HBA1C
+T4	Test 2402 2407	HDL-C
+T5	Test 3062 3067	HDL-C
+T6	Test 3165 3170	HDL-C
+T7	Test 4934 4939	HDL-C
+T8	Test 5002 5007	HDL-C
+T9	Test 2384 2389	LDL-C
+T10	Test 3068 3073	LDL-C
+T11	Test 3171 3176	LDL-C
+T12	Test 4909 4914	LDL-C
+T13	Test 4981 4986	LDL-C
+T14	Test 2741 2745	空腹血糖
+T15	Test 3034 3038	空腹血糖
+T16	Test 4420 4424	空腹血糖
+T17	Test 4449 4453	空腹血糖
+T18	Test 4606 4610	空腹血糖
+T19	Test 280 284	总胆固醇
+T20	Test 285 288;289 290	甘油三 酯
+T21	Test 291 293	血糖
+T22	Disease 423 429	动脉粥样硬化
+T23	Disease 1545 1548	糖尿病
+T24	Anatomy 1757 1765	TRAIL-R1
+T25	Anatomy 1772 1780	TRAIL-R2
+T26	Anatomy 1787 1792	TRAIL
+T27	Anatomy 1812 1820	TRAIL-R3
+T28	Anatomy 1828 1836	TRAIL-R4
+T29	Anatomy 1916 1921	TRAIL
+T30	Anatomy 1899 1903;1904 1906	血管内皮 细胞
+T31	Anatomy 1907 1914	血管平滑肌细胞
+T32	Anatomy 1973 1979	血管内皮细胞
+T33	Anatomy 1980 1987	血管平滑肌细胞
+T34	Disease 2211 2217	动脉粥样硬化
+T35	Test 2360 2366	血清总胆固醇
+T36	Test 2367 2369;2370 2372	甘油 三酯
+T37	Test 2373 2382	低密度脂蛋白胆固醇
+T38	Test 2391 2400	高密度脂蛋白胆固醇
+T39	Test 2726 2733	葡萄糖耐量试验
+T40	Test 2734 2738	OGTT
+T41	Test_Value 2745 2759	≥7. 0 mmol / L
+T42	Test_Value 2778 2793	≥11. 1 mmol / L
+T43	Test 2764 2765;2766 2778	葡 萄糖负荷后 2 h 血糖
+T44	Test 2959 2961	血糖
+T45	Test 2956 2958	体重
+T46	Test 3052 3056	总胆固醇
+T47	Test 3057 3061	甘油三酯
+T48	Test 3155 3159	总胆固醇
+T49	Test 3160 3164	甘油三酯
+T50	Test 3413 3415	血糖
+T51	Test 3354 3358	基础血糖
+T52	Test 3389 3391	血糖
+T53	Test 3397 3399	血糖
+T54	Test 3451 3453	血糖
+T55	Test 3498 3502	稳态血糖
+T56	Test 3503 3504;3505 3510	稳 态 GIR
+T57	Anatomy 3593 3597	腹主动脉
+T58	Anatomy 3624 3628	胸主动脉
+T59	Symptom 4277 4283	精神状态不佳
+T60	Symptom 4284 4288	行动迟缓
+T61	Symptom 4289 4294;4295 4296	毛发杂乱无 光
+T62	Symptom 4299 4301	多饮
+T63	Symptom 4302 4304	多尿
+T64	Test 4455 4460	空腹胰岛素
+T65	Test_Value 4510 4535;4536 4551	(19. 65 ± 5. 27)对(9. 03 ± 1. 86) mmol / L
+T66	Test 4611 4616	空腹胰岛素
+T67	Test 4899 4903	总胆固醇
+T68	Test 4904 4908	甘油三酯
+T69	Test 5048 5049;5050 5053	基 础血糖
+T70	Test 5054 5058	稳态血糖
+T71	Test_Value 5064 5092;5093 5108	[(16. 28 ± 2. 24) 对 (5. 14 ± 1. 16) mmol / L
+T72	Test_Value 5109 5150	(15. 73 ± 1. 72)对(5. 07 ± 1. 24) mmol / L
+T73	Test 5229 5232	GIR
+T74	Test 5235 5240	GIRss
+T75	Test_Value 5241 5245	显著升高
+T76	Test 5255 5259	基础血糖
+T77	Test 5260 5264	稳态血糖
+T78	Test_Value 5265 5269	明显降低
+T79	Test_Value 5296 5320	(9. 35 ± 2. 18) mmol / L
+T80	Disease 5340 5343	糖尿病
+T81	Disease 5409 5415	动脉粥样斑块
+T82	Test 5509 5516	主动脉斑块面积
+T83	Test_Value 5526 5541	(23. 8 ± 5. 7)%
+T84	Test 5694 5700	免疫组化染色
+T85	Test 5884 5886	血脂
+T86	Disease 5947 5953	动脉粥样硬化
+T87	Reason 5961 5967	脂质代谢紊乱
+T88	Disease 5968 5974	动脉粥样硬化
+T89	Reason 5984 5986;5987 5989	高脂 血症
+T90	Disease 6003 6009	动脉粥样硬化
+T91	Test 6022 6026	甘油三酯
+T92	Test 6027 6030	胆固醇
+T93	Test 6041 6044	HDL
+T94	Test_Value 6036 6040	明显升高
+T95	Test_Value 6047 6049	降低
+T96	Test 6096 6099	胆固醇
+T97	Test 6100 6104	甘油三酯
+T98	Test 6175 6179	总胆固醇
+T99	Test 6180 6184	甘油三酯
+T100	Drug 6217 6222	TRAIL
+T101	Test 6238 6240	血脂
+T102	Reason 6295 6300	胰岛素抵抗
+T103	Disease 6302 6308	动脉粥样硬化
+T104	Anatomy 6276 6280	内皮细胞
+T105	Disease 6284 6290	动脉粥样硬化
+T106	Test 6455 6457	血糖
+T107	Drug 6494 6499	TRAIL
+T108	Drug 6623 6628	TRAIL
+T109	Anatomy 6643 6647	单核细胞
+T110	Anatomy 6649 6655	T 淋巴细胞
+T111	Disease 6660 6666	动脉粥样硬化
+T112	Anatomy 6674 6680	T 淋巴细胞
+T113	Anatomy 6681 6685	巨噬细胞
+T114	Disease 6694 6696;6697 6701	动脉 粥样硬化
+T115	Anatomy 6708 6712	CD68
+T116	Anatomy 6730 6738	单核 /巨噬细胞
+T117	Anatomy 6745 6749	CD90
+T118	Anatomy 6751 6758;6759 6763	细胞黏附分子免 疫球蛋白
+T119	Anatomy 6779 6785	T 淋巴细胞
+T120	Anatomy 6790 6794	CD90
+T121	Anatomy 6818 6821;6822 6825	T 淋 巴细胞
+T122	Anatomy 6866 6870	巨噬细胞
+T123	Anatomy 6872 6878	T 淋巴细胞
+T124	Anatomy 6911 6915	巨噬细胞
+T125	Anatomy 6923 6929	T 淋巴细胞
+T126	Disease 6992 6995	冠心病
+T127	Disease 7159 7162	糖尿病
+T128	Disease 7404 7410	动脉粥样硬化
+T129	Test 3930 3934	CD68
+T130	Test 4970 4972;4973 4975	总胆 固醇
+T131	Disease 2111 2113;2114 2118	动脉 粥样硬化
+T132	Disease 2176 2182	动脉粥样硬化
+T133	Disease 4642 4648	动脉粥样硬化
+T134	Disease 4686 4692	动脉粥样硬化
+T135	Disease 4732 4738	动脉粥样硬化
+T136	Disease 4784 4790	动脉粥样硬化
+T137	Disease 5856 5862	动脉粥样硬化
+T138	Disease 6226 6232	动脉粥样硬化
+T139	Disease 6565 6571	动脉粥样硬化
+T140	Disease 6966 6972	动脉粥样硬化
+T141	Disease 7242 7248	动脉粥样硬化
+T142	Test 3039 3044	空腹胰岛素
+T143	Test 4976 4980	甘油三酯
+T144	Test 2981 2983	体重
+T145	Test 3015 3017	体重
+T146	Test 4364 4366	体重
+T147	Disease 1650 1655;1656 1657	动脉粥样硬 化
+T148	Disease 6631 6636;6637 6638	动脉粥样硬 化
+T149	Disease 2017 2022	心血管疾病
+T150	Disease 2056 2061	心血管疾病
+T151	Disease 7042 7047	心血管疾病
+T152	Disease 7136 7138;7139 7142	心血 管疾病
+T153	Test 2975 2978;2979 2980	空腹血 糖
+T154	Anatomy 1947 1950	Akt
+T155	Disease 7083 7086	冠心病
+T156	Test 3089 3091	血糖
+T157	Test 3477 3479	血糖
+T158	Test 6508 6510	血糖
+T159	Disease 152 155	糖尿病
+T160	Disease 63 66	糖尿病
+T161	Anatomy 68 71	主动脉
+T162	Drug 131 136	链脲佐菌素
+T163	Method 136 140	腹腔注射
+T164	Disease 143 146	糖尿病
+T165	Test 294 297	胰岛素
+T166	Test 319 323	内膜厚度
+T167	Test_Value 323 325	减小
+T168	Disease 1575 1583	糖尿病大血管病变
+T169	Disease 1584 1587	糖尿病
+T170	Disease 1618 1626	糖尿病大血管病变
+T171	Disease 1636 1644	糖尿病大血管病变
+T172	Anatomy 1736 1742	肿瘤坏死因子
+T173	Drug 2612 2616;2617 2618	链脲佐菌 素
+T174	Amount 2623 2633	50 mg / kg
+T175	Disease 2520 2523	糖尿病
+T176	Method 2681 2685	腹腔注射
+T177	Method 2709 2713	腹腔注射
+T178	Disease 2934 2937	糖尿病
+T179	Method 2913 2917	腹腔注射
+T180	Frequency 2918 2924	每周 1 次
+T181	Amount 2903 2912	20 μg / d
+T182	Disease 2839 2842	糖尿病
+T183	Disease 2796 2799	糖尿病
+T184	Method 2945 2949	腹腔注射
+T185	Disease 3135 3138	糖尿病
+T186	Test 3142 3147	TRAIL
+T187	Test 3189 3191	血脂
+T188	Test 3218 3230	高胰岛素正葡萄糖钳夹实验
+T189	Method 3266 3270	腹腔注射
+T190	Drug 3271 3277;3278 3279	1%戊巴比妥 钠
+T191	Amount 3280 3290	30 mg / kg
+T192	Anatomy 3295 3300	右侧颈静脉
+T193	Anatomy 3301 3306	左侧颈动脉
+T194	Anatomy 3310 3313	股静脉
+T195	Drug 3326 3329	胰岛素
+T196	Anatomy 3363 3366	颈静脉
+T197	Test 3487 3490	GIR
+T198	Test 3480 3486	葡萄糖输注率
+T199	Test 3511 3516	GIRss
+T200	Anatomy 3619 3622	主动脉
+T201	Test 3780 3787	动脉内膜总面积
+T202	Test 3833 3840	动脉内膜总面积
+T203	Anatomy 3849 3852	主动脉
+T204	Anatomy 3863 3866	主动脉
+T205	Anatomy 3904 3908	动脉内膜
+T206	Disease 4193 4196	糖尿病
+T207	Symptom 4270 4276	一般情况较差
+T208	Disease 4263 4266	糖尿病
+T209	Disease 4355 4358	糖尿病
+T210	Disease 4393 4396	糖尿病
+T211	Test 4425 4428	胰岛素
+T212	Test 4429 4431	血脂
+T213	Disease 4445 4448	糖尿病
+T214	Test_Value 4466 4470	显著升高
+T215	Test_Value 4617 4621	显著降低
+T216	Disease 4889 4892	糖尿病
+T217	Test 5025 5033	正葡萄糖钳夹实验
+T218	Disease 5043 5046	糖尿病
+T219	Test_Value 5059 5063	明显升高
+T220	Test 5172 5175	GIR
+T221	Test 5178 5183	GIRss
+T222	Disease 5204 5207	糖尿病
+T223	Disease 5441 5444	糖尿病
+T224	Anatomy 5461 5465	主动脉壁
+T225	Disease 5517 5520	糖尿病
+T226	Anatomy 5570 5573	主动脉
+T227	Anatomy 5585 5588	主动脉
+T228	Disease 5609 5612	糖尿病
+T229	Anatomy 5670 5675	内皮下细胞
+T230	Disease 5686 5689	糖尿病
+T231	Disease 5712 5715	糖尿病
+T232	Test_Value 5728 5750;5751 5759	(17. 6 ± 6. 9)%对(23. 8 ± 6. 7)%
+T233	Disease 5853 5856	糖尿病
+T234	Anatomy 5911 5917	T 淋巴细胞
+T235	Anatomy 5924 5925;5926 5929	巨 噬细胞
+T236	Drug 6334 6337	STZ
+T237	Drug 6345 6348	STZ
+T238	Test 6362 6365	胰岛素
+T239	Disease 6407 6410	糖尿病
+T240	Disease 6437 6440	糖尿病
+T241	Drug 6450 6453	STZ
+T242	Disease 6562 6565	糖尿病
+T243	Test 6589 6595	粥样斑块面积
+T244	Disease 6607 6610	糖尿病
+T245	Anatomy 2099 2104	TRAIL
+T246	Anatomy 2087 2091	ApoE
+T247	Anatomy 2126 2130	ApoE
+T248	Anatomy 6083 6088	TRAIL
+T249	Test 6462 6465	糖耐量
+T250	Anatomy 3024 3028	腹主动脉
+T251	Test 3102 3105	胰岛素
+T252	Test 3232 3238	胰岛素敏感性
+T253	Drug 3344 3346	肝素
+T254	Test 3522 3528	胰岛素敏感性
+T255	Method 3563 3566;3567 3568	腹腔注 射
+T256	Drug 3569 3576	1%戊巴比妥钠
+T257	Amount 3577 3587	50 mg / kg
+T258	Anatomy 3918 3921	主动脉
+T259	Disease 4199 4201	死亡
+T260	Disease 4215 4217	死亡
+T261	Symptom 4228 4234	一般情况良好
+T262	Symptom 4235 4237;4238 4241	精神 状态佳
+T263	Symptom 4242 4246	活动自如
+T264	Symptom 4247 4253	毛发光泽顺滑
+T265	Symptom 4254 4262	饮食及大小便正常
+T266	Test 4651 4658	动脉内膜总面积
+T267	Disease 4664 4667	糖尿病
+T268	Anatomy 4699 4703	腹主动脉
+T269	Anatomy 4706 4710	主动脉弓
+T270	Anatomy 4712 4716	胸主动脉
+T271	Test_Value 4918 4922	明显升高
+T272	Test_Value 4999 5001	升高
+T273	Test_Value 5379 5382	显著低
+T274	Anatomy 5447 5450	主动脉
+T275	Test 6071 6075	ApoE
+T276	Test 6111 6115	ApoE
+T277	Method 6338 6340	注射
+T278	Method 6446 6447;6448 6449	注 射
+T279	Disease 7014 7019	心血管事件
+T280	Test_Value 7180 7184	显著降低
+T281	Amount 128 131	小剂量
+T282	Disease 264 267	糖尿病
+T283	Test_Value 297 301	显著降低
+T284	Disease 373 376	糖尿病
+T285	Anatomy 1766 1769	DR4
+T286	Anatomy 1675 1681	肿瘤坏死因子
+T287	Anatomy 1781 1784	DR5
+T288	Anatomy 1821 1825	DcR1
+T289	Anatomy 1837 1841	DcR2
+T290	Disease 2208 2211	糖尿病
+T291	Method 2226 2229;2230 2231	腹腔注 射
+T292	Drug 2231 2236	链脲佐菌素
+T293	Anatomy 2476 2482	抗 CD68
+T294	Anatomy 2484 2490	抗 CD90
+T295	Drug 2619 2622	STZ
+T296	Duration 2718 2721	1 周
+T297	Test 3208 3210	血脂
+T298	Drug 3330 3335	葡萄糖溶液
+T299	Anatomy 3336 3339	股动脉
+T300	Anatomy 3538 3541	主动脉
+T301	Anatomy 3614 3616	胸腔
+T302	Anatomy 3644 3647	主动脉
+T303	Anatomy 3665 3668	主动脉
+T304	Anatomy 3733 3736	动脉壁
+T305	Anatomy 3754 3756	动脉
+T306	Disease 4872 4875	糖尿病
+T307	Disease 5361 5363;5364 5365	糖尿 病
+T308	Anatomy 5613 5615	内膜
+T309	Disease 6014 6015;6016 6018	糖 尿病
+T310	Test 6135 6137	血脂
+T311	Disease 6254 6257	糖尿病
+T312	Test 6368 6374	胰岛细胞功能
+T313	Disease 6503 6506	糖尿病
+T314	Anatomy 6688 6692	细胞因子
+T315	Anatomy 6722 6726;6727 6728	跨膜糖蛋 白
+T316	SideEff 6394 6402	改善胰岛细胞功能
+T317	Duration 257 261	3 个月
+T318	Anatomy 221 226	TRAIL
+T319	Anatomy 157 171	瘤坏死因子相关的凋亡诱导配体
+T320	Anatomy 248 253	TRAIL
+T321	Anatomy 271 276	TRAIL
+T322	Anatomy 364 369	TRAIL
+T323	Disease 378 384	动脉粥样硬化
+T324	Reason 1609 1615	动脉粥样硬化
+T325	Anatomy 1668 1673	TRAIL
+T326	Anatomy 1728 1733	TRAIL
+T327	Anatomy 1935 1940	TRAIL
+T328	Anatomy 2027 2032	TRAIL
+T329	Anatomy 2047 2052	TRAIL
+T330	Anatomy 2165 2170	TRAIL
+T331	Anatomy 2196 2201	TRAIL
+T332	Anatomy 2242 2247	TRAIL
+T333	Anatomy 2419 2424	TRAIL
+T334	Test 2962 2964	血脂
+T335	Anatomy 2897 2902	TRAIL
+T336	Anatomy 2884 2889	TRAIL
+T337	Test 3075 3085;3086 3087	血清 TRAIL 水 平
+T338	Anatomy 3629 3631;3632 3634	腹主 动脉
+T339	Test 4332 4334	体重
+T340	Anatomy 4308 4313	TRAIL
+T341	Anatomy 4373 4378	TRAIL
+T342	Test 4382 4385	体重下
+T343	Anatomy 4597 4602	TRAIL
+T344	Anatomy 4865 4870	TRAIL
+T345	Anatomy 4959 4964	TRAIL
+T346	Anatomy 5211 5216	TRAIL
+T347	Anatomy 5349 5354	TRAIL
+T348	Test 5368 5379	血清 TRAIL 浓度
+T349	Anatomy 5400 5405	TRAIL
+T350	Anatomy 5500 5505	TRAIL
+T351	Anatomy 5561 5566	TRAIL
+T352	Anatomy 5652 5657	TRAIL
+T353	Anatomy 5703 5708	TRAIL
+T354	Drug 5875 5880	TRAIL
+T355	Anatomy 5940 5945	TRAIL
+T356	Reason 5992 6000	血管内皮功能障碍
+T357	Anatomy 6125 6130	TRAIL
+T358	Drug 6158 6163	TRAIL
+T359	Test 6185 6190	LDL-L
+T360	Test 6200 6205	HDL-L
+T361	Reason 6261 6264	高血糖
+T362	Test 6267 6270	LDL
+T363	Anatomy 6349 6354	TRAIL
+T364	Anatomy 6378 6383	TRAIL
+T365	Reason 6388 6393	胰岛素抵抗
+T366	Anatomy 6421 6426	TRAIL
+T367	Anatomy 6466 6470	胰岛细胞
+T368	Anatomy 6531 6536	TRAIL
+T369	Anatomy 6552 6557	TRAIL
+T370	Anatomy 6578 6583	TRAIL
+T371	Drug 6897 6902	TRAIL
+T372	Anatomy 6941 6946	TRAIL
+T373	Anatomy 7000 7005	TRAIL
+T374	Anatomy 7033 7038	TRAIL
+T375	Anatomy 7091 7096	TRAIL
+T376	Anatomy 7129 7134	TRAIL
+T377	Anatomy 7167 7172	TRAIL
+T378	Anatomy 7205 7210	TRAIL
+T379	Anatomy 7233 7238	TRAIL
+T380	Anatomy 7275 7280	TRAIL
+T381	Anatomy 7308 7313	TRAIL
+T382	Anatomy 7321 7326	TRAIL
+T383	Anatomy 7362 7367	TRAIL
+T384	Anatomy 7379 7384	TRAIL
+T385	Test 3935 3939	CD90
+T386	Disease 3741 3747	动脉粥样硬化
+T387	Test 3769 3779	动脉粥样硬化斑块面积
+T388	Disease 3823 3829	动脉粥样硬化
+T389	Anatomy 56 61	TRAIL
+T390	Test 304 315	主动脉粥样斑块病变面积
+T391	Anatomy 2453 2458	TRAIL
+T392	Anatomy 2851 2856	TRAIL
+T393	Anatomy 3197 3202	TRAIL
+T394	Test_Value 3422 3437	± 0. 5 mmol / L
+T395	Anatomy 4206 4211	TRAIL
+T396	Anatomy 4411 4416	TRAIL
+T397	Test_Value 4946 4948	降低
+T398	Anatomy 5422 5427	主动脉内膜
+T399	Anatomy 5601 5605	内皮细胞
+T400	Anatomy 5633 5642	中膜血管平滑肌细胞
+T401	Anatomy 5661 5664	主动脉
+T402	Anatomy 5664 5666	内膜
+T403	Test 5719 5725	巨噬细胞面积
+T404	Test 5774 5780	T 淋巴细胞
+T405	Anatomy 5843 5848	TRAIL
+T406	Test 5891 5895;5896 5902	动脉粥样 硬化斑块面积
+T407	Test 6512 6519	胰岛素抵抗水平
+T408	Anatomy 5593 5595	内膜

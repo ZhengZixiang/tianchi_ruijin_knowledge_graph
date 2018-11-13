@@ -1,0 +1,259 @@
+T1	Disease 6888 6894	动脉粥样硬化
+T2	Disease 6938 6940;6941 6945	动脉 粥样硬化
+T3	Disease 6998 7000;7001 7005	动脉 粥样硬化
+T4	Disease 7053 7059	动脉粥样硬化
+T5	Disease 7873 7879	动脉粥样硬化
+T6	Anatomy 7144 7148	β 细胞
+T7	Drug 33 37	艾塞那肽
+T8	Drug 158 162	艾塞那肽
+T9	Drug 324 328	艾塞那肽
+T10	Drug 450 454	艾塞那肽
+T11	Drug 581 585	艾塞那肽
+T12	Drug 669 673	艾塞那肽
+T13	Drug 2749 2753	艾塞那肽
+T14	Drug 2952 2956	艾塞那肽
+T15	Drug 3053 3055;3056 3058	艾塞 那肽
+T16	Drug 3123 3127	艾塞那肽
+T17	Drug 3567 3571	艾塞那肽
+T18	Drug 3770 3774	艾塞那肽
+T19	Drug 3817 3821	艾塞那肽
+T20	Drug 4430 4434	艾塞那肽
+T21	Drug 4676 4680	艾塞那肽
+T22	Drug 4774 4778	艾塞那肽
+T23	Drug 4855 4859	艾塞那肽
+T24	Drug 4881 4885	艾塞那肽
+T25	Drug 4925 4929	艾塞那肽
+T26	Drug 4954 4958	艾塞那肽
+T27	Drug 5107 5111	艾塞那肽
+T28	Drug 5754 5758	艾塞那肽
+T29	Drug 5778 5782	艾塞那肽
+T30	Drug 5804 5808	艾塞那肽
+T31	Drug 5916 5920	艾塞那肽
+T32	Drug 6351 6355	艾塞那肽
+T33	Drug 6488 6492	艾塞那肽
+T34	Drug 6506 6510	艾塞那肽
+T35	Drug 6523 6527	艾塞那肽
+T36	Drug 6570 6574	艾塞那肽
+T37	Drug 6676 6680	艾塞那肽
+T38	Drug 6827 6831	艾塞那肽
+T39	Drug 7263 7267	艾塞那肽
+T40	Drug 7368 7372	艾塞那肽
+T41	Drug 7417 7421	艾塞那肽
+T42	Drug 7466 7470	艾塞那肽
+T43	Drug 7547 7551	艾塞那肽
+T44	Drug 8204 8208	艾塞那肽
+T45	Drug 8426 8430	艾塞那肽
+T46	Drug 8619 8623	艾塞那肽
+T47	Drug 8700 8704	艾塞那肽
+T48	Anatomy 659 667	胰升糖素样肽 1
+T49	Anatomy 2671 2673;2674 2680	胰升 糖素样肽 1
+T50	Anatomy 3033 3040	脐静脉内皮细胞
+T51	Anatomy 5706 5713	脐静脉内皮细胞
+T52	Anatomy 141 147	HUVECs
+T53	Anatomy 258 264	HUVECs
+T54	Anatomy 1042 1048	HUVECs
+T55	Anatomy 1472 1478	HUVECs
+T56	Anatomy 3041 3047	HUVECs
+T57	Anatomy 3103 3109	HUVECs
+T58	Anatomy 3352 3358	HUVECs
+T59	Anatomy 4442 4448	HUVECs
+T60	Anatomy 4461 4467	HUVECs
+T61	Anatomy 4549 4555	HUVECs
+T62	Anatomy 4647 4653	HUVECs
+T63	Anatomy 5113 5119	HUVECs
+T64	Anatomy 5698 5704	HUVECs
+T65	Anatomy 7026 7032	血管内皮细胞
+T66	Anatomy 8681 8687	血管内皮细胞
+T67	Anatomy 7068 7073	GLP-1
+T68	Anatomy 7646 7651	GLP-1
+T69	Drug 527 530;531 532	艾塞那 肽
+T70	Drug 8304 8307;8308 8309	艾塞那 肽
+T71	Anatomy 225 228	Akt
+T72	Anatomy 387 390	Akt
+T73	Anatomy 467 470	Akt
+T74	Anatomy 596 599	Akt
+T75	Anatomy 1318 1321	Akt
+T76	Anatomy 1735 1738	Akt
+T77	Anatomy 1953 1956	Akt
+T78	Anatomy 2393 2396	Akt
+T79	Anatomy 2929 2932	Akt
+T80	Anatomy 2968 2971	Akt
+T81	Anatomy 3306 3309	Akt
+T82	Anatomy 3314 3317	Akt
+T83	Anatomy 4013 4016	Akt
+T84	Anatomy 4964 4967	Akt
+T85	Anatomy 4998 5001	Akt
+T86	Anatomy 5038 5041	Akt
+T87	Anatomy 5089 5092	Akt
+T88	Anatomy 5944 5947	Akt
+T89	Anatomy 5996 5999	Akt
+T90	Anatomy 6325 6328	Akt
+T91	Anatomy 6539 6542	Akt
+T92	Anatomy 6561 6564	Akt
+T93	Anatomy 6580 6583	Akt
+T94	Anatomy 6685 6688	Akt
+T95	Anatomy 6742 6745	Akt
+T96	Anatomy 6833 6836	Akt
+T97	Anatomy 7512 7515	Akt
+T98	Anatomy 7575 7578	Akt
+T99	Anatomy 8154 8157	Akt
+T100	Anatomy 8228 8231	Akt
+T101	Anatomy 8327 8330	Akt
+T102	Anatomy 8437 8440	Akt
+T103	Anatomy 8530 8533	Akt
+T104	Anatomy 8635 8638	Akt
+T105	Test 7155 7156;7157 7158	血 糖
+T106	Anatomy 233 238	Bcl-2
+T107	Anatomy 397 402	Bcl-2
+T108	Anatomy 476 481	Bcl-2
+T109	Anatomy 1340 1345	Bcl-2
+T110	Anatomy 1759 1764	Bcl-2
+T111	Anatomy 1835 1840	Bcl-2
+T112	Anatomy 1977 1982	Bcl-2
+T113	Anatomy 2066 2071	Bcl-2
+T114	Anatomy 2284 2289	Bcl-2
+T115	Anatomy 3238 3243	Bcl-2
+T116	Anatomy 3997 4002	Bcl-2
+T117	Anatomy 4972 4977	Bcl-2
+T118	Anatomy 5046 5051	Bcl-2
+T119	Anatomy 5928 5933	Bcl-2
+T120	Anatomy 5976 5981	Bcl-2
+T121	Anatomy 6588 6593	Bcl-2
+T122	Anatomy 6608 6613	Bcl-2
+T123	Anatomy 6693 6698	Bcl-2
+T124	Anatomy 6751 6756	Bcl-2
+T125	Anatomy 6842 6847	Bcl-2
+T126	Anatomy 7584 7589	Bcl-2
+T127	Anatomy 7765 7770	Bcl-2
+T128	Anatomy 7923 7928	Bcl-2
+T129	Anatomy 7956 7961	Bcl-2
+T130	Anatomy 7976 7981	Bcl-2
+T131	Anatomy 8096 8101	Bcl-2
+T132	Anatomy 8163 8168	Bcl-2
+T133	Anatomy 8237 8242	Bcl-2
+T134	Anatomy 8336 8341	Bcl-2
+T135	Anatomy 8462 8467	Bcl-2
+T136	Anatomy 8541 8546	Bcl-2
+T137	Anatomy 241 244	Bax
+T138	Anatomy 412 415	Bax
+T139	Anatomy 489 492	Bax
+T140	Anatomy 1351 1354	Bax
+T141	Anatomy 1796 1799	Bax
+T142	Anatomy 1843 1846	Bax
+T143	Anatomy 2017 2020	Bax
+T144	Anatomy 2074 2077	Bax
+T145	Anatomy 2292 2295	Bax
+T146	Anatomy 3254 3257	Bax
+T147	Anatomy 4003 4006	Bax
+T148	Anatomy 4980 4983	Bax
+T149	Anatomy 5054 5057	Bax
+T150	Anatomy 5934 5937	Bax
+T151	Anatomy 5984 5987	Bax
+T152	Anatomy 6596 6599	Bax
+T153	Anatomy 6623 6626	Bax
+T154	Anatomy 6701 6704	Bax
+T155	Anatomy 6766 6769	Bax
+T156	Anatomy 6850 6853	Bax
+T157	Anatomy 7758 7761	Bax
+T158	Anatomy 7917 7920	Bax
+T159	Anatomy 7945 7948	Bax
+T160	Anatomy 7984 7987	Bax
+T161	Anatomy 8105 8108	Bax
+T162	Anatomy 8178 8181	Bax
+T163	Anatomy 8252 8255	Bax
+T164	Anatomy 8353 8356	Bax
+T165	Anatomy 8478 8481	Bax
+T166	Anatomy 8549 8552	Bax
+T167	Anatomy 43 47	内皮细胞
+T168	Duration 331 335	48 h
+T169	Test_Value 514 516	升高
+T170	Test_Value 486 488	增加
+T171	Test_Value 497 499	下降
+T172	Anatomy 631 635	内皮细胞
+T173	Anatomy 642 646	内皮细胞
+T174	Disease 2590 2598	糖尿病血管并发症
+T175	Disease 2599 2602	糖尿病
+T176	Disease 2604 2608	致残致死
+T177	Reason 2619 2623	氧化应激
+T178	Disease 2624 2632	糖尿病血管并发症
+T179	Drug 2653 2657	抗氧化剂
+T180	Anatomy 2781 2785	血管细胞
+T181	Anatomy 2805 2809	血管内皮
+T182	Anatomy 2890 2891;2892 2895	内 皮细胞
+T183	Anatomy 2981 2985	内皮细胞
+T184	Anatomy 2996 3000	内皮细胞
+T185	Anatomy 3064 3068	内皮细胞
+T186	Drug 3787 3790	甘露醇
+T187	Drug 3837 3845	LY294002
+T188	Duration 3849 3853	48 h
+T189	Drug 4490 4495	GLP-l
+T190	Duration 4732 4736	48 h
+T191	Anatomy 4779 4783	内皮细胞
+T192	Anatomy 4802 4806	内皮细胞
+T193	Anatomy 4896 4900	内皮细胞
+T194	Drug 4913 4921	LY294002
+T195	Anatomy 4959 4963	内皮细胞
+T196	Drug 556 564	LY294002
+T197	Anatomy 6737 6741	内皮细胞
+T198	Drug 6815 6823	LY294002
+T199	Disease 6895 6903	糖尿病大血管病变
+T200	Disease 6918 6921	糖尿病
+T201	Anatomy 6982 6986	内皮细胞
+T202	Disease 6992 6995	糖尿病
+T203	Disease 7050 7053	糖尿病
+T204	Anatomy 7078 7085	肠道 L 细胞
+T205	Anatomy 7130 7131	胃
+T206	Anatomy 7141 7143	胰岛
+T207	Anatomy 7196 7199	心血管
+T208	Anatomy 7202 7206	内皮细胞
+T209	Duration 7270 7274	24 h
+T210	Anatomy 7302 7306	内皮细胞
+T211	Duration 7324 7328	48 h
+T212	Duration 7361 7365	72 h
+T213	Anatomy 7429 7433	内皮细胞
+T214	Anatomy 7437 7440;7441 7442	内皮细 胞
+T215	Duration 7473 7477	48 h
+T216	Disease 7556 7560	心肌梗死
+T217	Anatomy 7568 7570;7571 7573	心肌 细胞
+T218	Anatomy 7597 7606	半胱氨酸蛋白酶 3
+T219	Anatomy 7626 7630	心肌细胞
+T220	Drug 7689 7698	exendin-4
+T221	Drug 7709 7713	过氧化氢
+T222	Anatomy 7742 7751	caspase-3
+T223	Anatomy 7818 7822	Akt1
+T224	Anatomy 7828 7832	内皮细胞
+T225	Anatomy 7855 7864	caspase-3
+T226	Anatomy 8143 8147	内皮细胞
+T227	Anatomy 8215 8219	内皮细胞
+T228	Drug 8283 8300	PI3K 抑制剂 LY294002
+T229	Anatomy 8315 8319	内皮细胞
+T230	Drug 8409 8417	LY294002
+T231	Anatomy 8670 8674	内皮细胞
+T232	Disease 8706 8714	糖尿病血管并发症
+T233	Anatomy 132 140	人脐静脉内皮细胞
+T234	Anatomy 2817 2823	血管内皮细胞
+T235	Anatomy 6967 6971;6972 6974	血管内皮 细胞
+T236	Anatomy 2681 2686	GLP-1
+T237	Drug 2738 2749	GLP-1 受体激动剂
+T238	Drug 4521 4526	GLP-1
+T239	Drug 7189 7194	GLP-1
+T240	Drug 7676 7681	GLP-1
+T241	Anatomy 8510 8515	GLP-1
+T242	Drug 8607 8616;8617 8619	GLP-1 受体激 动剂
+T243	Symptom 6923 6928	长期高血糖
+T244	Test 423 437	Bcl-2 / Bax 比值
+T245	Test 500 514	Bcl-2 / Bax 比值
+T246	Anatomy 607 612	Bcl-2
+T247	Test 6632 6643	Bcl-2 / Bax
+T248	Test 6775 6786	Bcl-2 / Bax
+T249	Anatomy 7888 7893	Bcl-2
+T250	Test 8013 8024	Bcl-2 / Bax
+T251	Test 8052 8066	Bcl-2 / Bax 比值
+T252	Test 8187 8194;8195 8198	Bcl-2 / Bax
+T253	Test 8261 8268;8269 8272	Bcl-2 / Bax
+T254	Test 8364 8375	Bcl-2 / Bax
+T255	Test 8488 8499	Bcl-2 / Bax
+T256	Test 8646 8657	Bcl-2 / Bax
+T257	Anatomy 615 618	Bax
+T258	Anatomy 7278 7282	内皮细胞
+T259	Anatomy 7341 7345	内皮细胞

@@ -1,0 +1,284 @@
+MicroRNA 和糖尿病并发症
+凤、徐宁);南京医科大学第一附属医院内分泌科(杨涛)
+外周血单个核细胞 miR-146a 在 2 型糖尿病
+周围神经病变发病机制中的作用
+王国凤  徐宁  杨涛
+[摘要]   目的  通过观察外周血单个核细胞(PBMCs)中 miR-146a 的表达水平与炎症因子肿瘤坏死
+因子 α(TNF-α)、C 反应蛋白(CRP)和白细胞介素 6( IL-6)的关系,探讨 miR-146 在糖尿病周围神经病变
+(DPN)发生发展中的可能作用机制。 方法 应用实时荧光定量 PCR 检测 2 型糖尿病 37 例、2 型糖尿病合
+并 DPN 44 例及健康对照组 34 名受试者 PBMCs miR-146a 的表达水平,并与 TNF-α、CRP、IL-6 等临床指标
+进行相关性分析。 结果 与健康对照组、2 型糖尿病不伴有 DPN 组相比,2 型糖尿病伴有 DPN 组 miR-146a
+的表达水平明显降低,而 TNF-α、CRP、IL-6、HBA1C、收缩压、稳态模型评估的胰岛素抵抗指数(HOMA-IR)明
+显升高(均 P<0. 05);DPN 组患者的糖尿病病程、血尿酸、血肌酐、尿微量白蛋白 /肌酐比值明显高于 2 型糖
+尿病不伴有 DPN 组(均 P<0. 05)。 Pearson 相关分析提示 miR-146a 的表达水平与病程、HOMA-IR、HBA1C、
+TNF-α、IL-6 呈负相关。 多元线性逐步回归结果显示 HOMA-IR、HBA1C、TNF-α、IL-6 为 miR-146a 的独立影
+响因素(均 P<0. 05)。 结论 miR-146 可能通过炎症反应、糖代谢、胰岛素抵抗参与了 DPN 的发生发展。
+[关键词]   糖尿病, 2 型; miR-146a; 糖尿病周围神经病变; 肿瘤坏死因子 α; 白细胞介素 6
+Role of miR-146a of the peripheral blood mononuclear cell in the pathogenesis of type 2 diabetic peripheral
+neuropathy Wang Guofeng *, Xu Ning, Yang Tao. * Department of Endocrinology, the First People Hospital of
+Lianyungang, Lianyungang 222000, China
+[Abstract]  Objective   To explore the possible role of miR-146a in the pathogenesis of diabetic peripheral
+neuropathy( DPN) by investigating the correlation of miR-146a level in the peripheral blood mononuclear cells
+(PBMCs)with tumor necrosis factor α(TNF-α), interleukin-6 ( IL-6), and C reactive protein( CRP). Methods
+The expression levels of miR-146a in the PBMCs were measured using realtime PCR in 81 patients and 34 healthy
+individuals. The correlation of miR-146a expression with clinical parameters was analyzed. Results Compared to
+those in the healthy individuals and patients without DPN, miR-146a level was significantly decreased in diabetic
+patients with DPN while TNF-α, CRP, IL-6, HBA1C, systolic blood pressure, and homeostasis model assessment of
+insulin resistance index(HOMA-IR) were significantly increased( all P<0. 05) . Duration of diabetes, blood uric
+acid, serum creatinine, and urinary albumin to creatinine ratio in diabetics with DPN were higher compared with
+diabetics without DPN( all P < 0. 05) . The expression level of miR-146a was negatively correlated with diabetes
+duration, HOMA-IR, HBA1C, TNF-α, and IL-6. Multiple linear regression showed that HOMA-IR, HbA1C, TNF-α,
+and IL-6 were independent factors of miR-146a. Conclusion miR-146a may be involved in the development of DPN
+through inflammation, glucose metabolism, and insulin resistance.
+[Key words]  Diabetes mellitus, type 2; miR-146a; Diabetic peripheral neuropathy; Tumor necrosis factor
+α; Interleukin-6
+(Chin J Endocrinol Metab, 2016, 32: 552-555)
+糖尿病周围神经病变(diabetic peripheral neurop-
+athy, DPN)通常认为是在糖代谢异常基础上多种因素
+共同作用的结果。 长期高血糖导致氧化应激、终末糖
+基化产物增加,激活蛋白激酶 C 和多元醇通路,最终
+导致促炎性细胞因子如白细胞介素( IL)-6、IL-1β、肿
+瘤坏死因子 α(TNF-α)的增加,从而促进了 DPN 的发
+生发展。 miR-146a 是调控炎症反应的主要 miRNAs 之
+一,本课题组前期研究已经发现 miR-146a 与 DPN 的
+发生发展密切相关[1],但具体作用机制不明。 考虑到
+TNF-α、IL-6 等细胞因子可通过依赖 NF-κB 的方式诱
+导 miR-146a 的表达上调[2],推测 miR-146a 可能通过
+炎症反应参与了 DPN 的发生发展。 本研究通过分析
+健康对照者、2 型糖尿病伴或不伴 DPN 患者外周血细
+胞中 miR-146a 的表达水平与临床指标的相关性,探讨
+miR-146a 在 DPN 发生发展中的可能作用机制。
+对象和方法
+一、 对象
+选取在本科住院的 2 型糖尿病伴或不伴有周围神
+经病变的患者为研究对象。 2 型糖尿病均符合 1999
+年世界卫生组织(WHO)糖尿病诊断标准;DPN 的诊
+断依据 2009 年的诊疗规范,即有明确的糖尿病病史;
+在确诊糖尿病时或之后出现神经病变;临床症状和体
+征与 DPN 的表现相符;以下 5 项检查中如有 2 项或以
+上异常则可诊断为 DPN:(1)温度觉异常;(2)尼龙丝
+检查提示足部感觉减退或消失;(3)振动觉异常;(4)
+踝反射消失;(5)神经传导速度(NCV)检查显示有 2
+项或以上减慢。 排除标准:排除合并骨代谢、心肺、血
+液、肿瘤、慢性炎症性疾病及其他自身免疫性疾病患
+者。 对照组 34 名,为同期在本院体检的健康人群(排
+除糖尿病、高血压、自身免疫性疾病,肝肾功能等正
+常)。 本研究得到连云港当地伦理委员会支持,且所
+有参与者签署知情同意书,试验前 1 周均未使用或停
+用抗血小板药物、抗凝药物和扩血管药物等。
+二、 方法
+1. 一般资料收集:所有研究对象均记录年龄、性
+别、身高、体重、病程、多伦多神经病变评分(TCSS)等
+一般情况。 体重指数(BMI)= 体重(kg) /身高2(m2)。
+2. 实验室检查:患者晚餐后禁食 10 ~ 14 h,次日清
+晨空腹抽取静脉血及行肌电图检查。 应用实时荧光定
+量 PCR 检测外周血单个核细胞(PBMCs)miR-146a[1],
+采用尿酸酶法检测尿酸,用全自动生化分析仪测定肝
+功能、空腹血糖(FPG)、肌酐、血尿素氮(BUN)、总胆
+固醇 ( TC)、三酰甘油 ( TG)、低密度脂蛋白胆固醇
+(LDL-C)、高密度脂蛋白胆固醇(HDL-C)。 采用高效
+液相色谱法检测 HBA1C。 空腹胰岛素(FINS)采用酶
+联免疫吸附法(ELISA),试剂盒来自德国 DRG 公司,
+批内 CV<4% ,批间 CV<6% 。 稳态模型评估的胰岛素
+抵抗指数(HOMA-IR)= FPG(mmol / L)×FINS(μIU / ml) /
+22. 5。 晨起空腹留尿测尿微量白蛋白 /肌酐比值
+(urinary albumin to creatinine ratio, ACR)水平。 采用
+ELISA 法检测 TNF-α、IL-6 和 CRP(深圳晶美生物公
+司)。 肌电图采用美国尼高力 Viking Quest 台式高级
+肌电诱发电位系统。
+三、 统计学处理
+应用 SPSS 22. 0 统计软件包。 计量资料用 x-± s 表
+示,计数资料直接计数。 计量资料各组比较采用单因
+素方差分析,3 组间两两比较采用多样本 SNK 和 LSD
+方差分析,2 组间比较采用 t 检验。 计数资料采用 字2
+检验。 miR-146a 与临床其他指标进行 Pearson 相关分
+析和多元线性逐步回归分析,P<0. 05 为差异有统计学
+意义。
+结    果
+一、 对照组、2 型糖尿病伴或不伴 DPN 患者临床
+资料和生化指标比较
+与对照组(A 组)、2 型糖尿病不伴 DPN 组(B 组)
+表 1  对照者、合并和不合并糖尿病周围神经病变患者的基线资料比较(x-± s)
+Tab 1  Comparison of baseline characteristics in control subjects and diabetic patients with and without DPN(x-± s)
+组别
+Group
+例数
+n
+男 / 女
+Male / Female
+年龄
+(岁)
+Age
+(year)
+病程
+(年)
+Duration
+(year)
+BMI
+(kg / m2)
+SBP
+(mmHg)
+DBP
+(mmHg)
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+A 34 18 / 16 49. 08 ± 11. 09 - 22. 88 ± 1. 56   117 ± 12   76 ± 10 4. 38 ± 0. 74 1. 49 ± 0. 62 1. 21 ± 0. 18
+B 37 18 / 19 49. 44 ± 8. 69 5. 22 ± 0. 86 23. 42 ± 1. 82   128 ± 10a   79 ± 8 4. 54 ± 1. 05 1. 69 ± 1. 24 1. 19 ± 0. 21
+C 44 23 / 21 52. 10 ± 9. 22 8. 42 ± 1. 17c 22. 49 ± 1. 87   131 ± 16bc   80 ± 8 4. 61 ± 1. 04 1. 98 ± 1. 15 1. 11 ± 0. 32
+组别
+Group
+例数
+n
+LDL-C
+(mmol / L)
+FPG
+(mmol / L)
+HBA1C
+(% )
+FINS
+(mU / L) HOMA-IR
+hsCRP
+(mg / L)
+TNF-α
+(pg / ml)
+IL-6
+(pg / ml) miR-146a
+A 34 2. 63 ± 0. 60 4. 85 ± 0. 47 5. 12 ± 0. 36 8. 26 ± 2. 15 1. 78 ± 0. 42 0. 66 ± 0. 40 9. 22 ± 2. 67 3. 81 ± 1. 89 4. 15 ± 0. 27
+B 37 2. 72 ± 0. 78 8. 89 ± 2. 01a 9. 62 ± 1. 92a 8. 69 ± 3. 67 3. 35 ± 1. 35a 1. 56 ± 1. 08a 13. 94 ± 3. 56a 5. 95 ± 2. 29a 2. 51 ± 0. 32a
+C 44 2. 81 ± 0. 78 9. 03 ± 2. 44b 9. 94 ± 2. 25bc 9. 19 ± 3. 64 3. 78 ± 1. 97bc 1. 81 ± 1. 62b 15. 83 ± 3. 83bc 8. 35 ± 2. 26bc 1. 21 ± 0. 33bc
+组别
+Group
+例数
+n
+BUN
+(mmol / L)
+SCr
+(μmol / L)
+AST
+(U / L)
+ALT
+(U / L)
+ALP
+(U / L)
+γ-GGT
+(U / L)
+ACR
+(mg / g)
+SUA
+(μmol / L)
+A 34 4. 72 ± 1. 53 72. 87 ± 14. 11 18. 93 ± 10. 12 22. 74 ± 7. 61 86. 73 ± 38. 54 36. 67 ± 11. 78 12. 13 ± 2. 81 267. 13 ± 22. 34
+B 37 5. 54 ± 1. 61 72. 98 ± 21. 71 19. 23 ± 14. 67 21. 92 ± 8. 67 89. 45 ± 40. 32 37. 12 ± 26. 65 13. 10 ± 6. 87 277. 21 ± 26. 23
+C 44 6. 14 ± 1. 87 78. 65 ± 20. 71bc 22. 78 ± 12. 25 24. 24 ± 17. 79 90. 81 ± 75. 02 41. 73 ± 26. 16 22. 62 ± 5. 13bc 291. 13 ± 20. 32bc
+注: A:对照组 Control group;B:2 型糖尿病不伴 DPN 组 Type 2 diabetes without DPN group;C:2 型糖尿病伴 DPN 组 Type 2 diabetes accompanied with
+DPN group;DPN:糖尿病周围神经病变 Diabetic peripheral neuropathy;BMI:体重指数 Body mass index;SBP:收缩压 Systolic blood pressure;1 mmHg=0. 133
+kPa; DBP:舒张压 Diastolic blood pressure;TC:总胆固醇 Total cholesterol;TG:三酰甘油 Triglyceride;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-
+cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;FPG: 空腹血糖 Fasting plasma glucose;FINS:空腹胰岛素 Fasting insulin;
+HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment of insulin resistance index; CRP:C 反应蛋白 C reactive protein;TNF-α:肿瘤坏死
+因子 α Tumor necrosis factor α;IL-6:白细胞介素 6 Interleukin-6;BUN:血尿素氮 Blood urea nitrogen;SCr:血肌酐 Serum creatinine;AST: 谷草转氨酶 Aspartate
+aminotransferase;ALT:谷丙转氨酶 Alanine aminotransferase;ALP: 碱性磷酸酶 Alkaline phosphatase;γ-GGT: γ-谷氨酰转肽酶: γ-Glucamyltransferase;ACR:
+尿微量白蛋白 / 肌酐比值 Urinary albumin to creatinine ratio;SUA:血尿酸 Serum uric acid; 与 A 组比 vs A group, aP<0. 05; 与 B 组比 vs B group,bP<0. 05,
+cP<0. 01
+患者相比,2 型糖尿病伴 DPN 组(C 组)患者 miR-146a
+的表达水平明显降低,而 TNF-α、CRP、IL-6、HBA1C、收
+缩压、HOMA-IR 明显升高(均 P <0. 05);C 组病程、
+ACR、尿酸和血肌酐明显高于 B 组,但 2 组间 FPG 没
+有明显差异。 3 组间在年龄、性别、BMI、舒张压、BUN、
+TG、TC、HDL-C、LDL-C、谷丙转氨酶(ALT)、谷草转氨酶
+(AST)、碱性磷酸酶(ALP)、γ-谷氨酰转肽酶(γ-GGT)
+方面相比,差异无统计学意义(均 P>0. 05,表 1)。
+二、 miR-146a 与临床资料及生化指标的相关性分
+析
+2 型糖尿病患者 miR-146a 的表达水平与病程( r =
+-0. 533,P = 0. 039)、HOMA-IR( r = -0. 620,P = 0. 024)、
+HBA1C( r= -0. 548,P=0. 031)、 TNF-α( r = -0. 601,P =
+0. 023)、 IL-6( r= -0. 605,P=0. 023)呈负相关。
+三、 多元 logistic 回归分析
+以 miR-146a 为因变量,以年龄、病程、收缩压、舒
+张压、BMI、TC、TG、HDL-C、LDL-C、FPG、HBA1C、CRP、
+TNF-α、IL-6 等为自变量进行多元线性逐步回归分析,
+结果提示 HOMA-IR、HBA1C、TNF-α、IL-6 为 miR-146a
+的独立影响因素(β 分别为-23. 453、-21. 012,-23. 502、
+-35. 254,P<0. 05)。 方程表达式为:Y=681. 047-23. 453
+XHOMA-IR 21. 012XHBA1C-35. 254XIL-6-23. 502XTNF-α。
+讨    论
+人类 miR-146a 定位于第 5 号染色体 loc285628 基
+因的第二个外显子区,是近年来研究较前沿、较广泛的
+miRNA 之一,是第一个被发现在免疫系统中具有调节
+作用的 miRNA,在固有免疫中发挥重要作用。 而最近
+的研究表明在一些慢性炎性疾病中 miR-146a 的表达
+发生改变,提示 miR-146a 也参与炎症调节[3]。 MiR-
+146a 的 2 个靶分子是 NF-κB 通路中的肿瘤坏死因子
+受体相关因子( tumor necrosis factor receptor-associated
+factor 6, TRAF6)和 IL-1 受体相关激酶 1(IL-1 receptor-
+associated kinase,IRAK-1),是 TNF-α 通路重要的信号
+分子,而 miR-146a 参与炎症调节是通过天然免疫反应
+和 TNF-α 信号通路联系的。 上调的 miR-146a 作用于
+TRAF6 和 IRAK-1,通过抑制这 2 种靶蛋白的表达,从
+而防止炎症过度反应(负反馈调节)。 此外,TNF-α、
+IL-1β 等细胞因子的刺激,会通过依赖 NF-κB 诱导
+miR-146a 的表达。
+2011 年 Balasubramanyam 等[4] 发现,与健康对照
+组相比,2 型糖尿病患者 PBMCs 中 miR-146a 的表达下
+降,而细胞炎症因子 TNF-α、IL-6、HBA1C、HOMA-IR 明
+显增加,推测 2 型糖尿病患者 miR-146a 的表达上调与
+长期高血糖、胰岛素抵抗、细胞炎症因子 TNF-α、IL-6
+有关。 然而关于 miR-146a 与 DN 的研究发现,尽管上
+调的 miR-146a 参与了 DN 的发生,但并不伴随 IRAK1
+和 TRAF6 及其相应的细胞因子 TNF-α、IL-6 水平的改
+变[5-6]。
+关于 miR-146a 与 DPN 的相关性临床报道少见,
+本课题组前期研究提示 DPN 患者外周血 miR-146a 表
+达下降,其表达水平与 DPN 病情严重程度有关,miR-
+146a 的检测有望成为 DPN 病情严重程度的判断指标。
+这说明 miR-146a 在 DPN 发病机制中发挥一定的作
+用,但是下调 miR-146a 介导 DPN 发生发展的分子机
+制尚不清楚,仍需深入研究探讨。 2013 年,Wang 等[7]
+在 DRG 神经细胞和 db / db 外周神经病变的 BKS. Cg-m
++ / +Lepr 的小鼠模型发现,高血糖引起 miR-146a 表达
+水平下调,而相应的靶基因 TRAF6、IRAK1 表达上调,
+从而导致了固有免疫介导的神经细胞凋亡,这说明下
+调 miR-146a 引起靶基因 TRAF6、IRAK1 表达上调,从
+而可能介导了 DPN 的发生发展。 那么 DPN 患者
+PBMCs 中的 miR-146a 表达下降是否通过作用于
+TRAF6、IRAK1 靶蛋白,引起 TNF-α、IL-6 升高,参与了
+DPN 的发生发展? 还是如同 miR-146a 在 DN 中的作
+用机制一样,miR-146a 促进 DPN 的发生,但不伴随相
+应的 TRAF6、IRAK1 靶蛋白及 TNF-α、IL-6 细胞因子的
+改变?
+本研究通过观察对照者、2 型糖尿病伴或不伴有
+DPN 患者的 miR-146a 与炎症因子、临床生化指标的相
+互关系,发现 HBA1C、HOMA-IR、TNF-α、 IL-6 是 miR-
+146a 的独立影响因素,提示下降的 miR-146a 通过作
+用于 NF-κB 通路的 TRAF6 和 IRAK1,引起 TNF-α 升
+高,促进了 DPN 发生发展,从而推测高血糖、胰岛素抵
+抗可能使 miR-146a 的表达上调,上调的 miR-146a 通
+过 NF-κB 信号通路增加 TNF-α、IL-6,促进了 DPN 的
+发生发展。 2015 年, Yousefzadeh 等[8] 应用 Sprague
+Dawleg 大鼠模型,观察健康对照组和糖尿病神经病变
+组的 miR-146a、NF-kB、IRAK1、TRAF6、TNF-α 表达水
+平,发现糖 尿 病 大 鼠 坐 骨 神 经 miR-146a、 NF-κB、
+IRAK1、TRAF6、 TNF-α 表达增加,推测 NF-κB-miR-
+146a 负反馈调节受损参与了 DPN 的发生发展。 综上
+所述,我们认为 miR-146a 及其靶蛋白基因 IRAK1、
+TRAF6、NF-κB、TNF-α 可能参与了 DPN 的发生发展。
+本文尚有如下不足:首先,miR-146a 与 2 型糖尿
+病及其糖尿病病程有关,而 DPN 的发生发展与糖尿病
+病程密切相关,随着病程的延长,DPN 发生率增加。
+因此不能排除 miR-146a 的相关性是 2 型糖尿病病程
+的一个反映。 其次,我们没有测定靶蛋白基因 IRAK1、
+TRAF6 的表达水平,只是结合相关的文献,推测 miR-
+146a 靶蛋白基因 IRAK1、TRAF6 参与了其中,NF-κB-
+miR-146a 负反馈调节受损可能是 DPN 发病机制之一。
+最后,由于是横断面的观察性研究,没法明确 miR-
+146a 的因果关系,尚需要进一步的动物和细胞实验明
+确 NF-κB-miR-146a 负反馈调节受损在 DPN 发病机制
+中的分子机制及因果关系。
+本研究发现 PBMCs 中 miR-146a 可能通过糖代
+谢、胰岛素抵抗、炎症反应参与了 DPN 的发生发展,初
+步阐明 PBMCs 中 miR-146a 在 DPN 发病机制中的分
+子机制及免疫调控通路,为 DPN 的治疗提供新的思路
+和理论依据。

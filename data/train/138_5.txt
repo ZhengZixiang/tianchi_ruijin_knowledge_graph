@@ -1,0 +1,370 @@
+糖尿病相关议题
+基金项目:国家自然科学基金(81370903);黑龙江省科技计划项目
+(LC06C23)
+哈尔滨医科大学激素与内分泌疾病重点实验室
+富含半胱氨酸的酸性分泌蛋白与糖尿病肾病
+的相关性研究
+李磊  宋海燕  刘锴  朱莉莉  安盟盟  王政
+[摘要]   目的  检测富含半胱氨酸的酸性分泌蛋白(secreted protein acidic and rich in cysteine, SPARC)
+在糖尿病肾病患者血清中的含量及在 db / db 糖尿病肾病小鼠肾脏组织中 SPARC mRNA 和蛋白的表达,探
+讨 SPARC 在糖尿病肾病发生发展中的作用。 方法 采用夹心酶联免疫吸附法检测正常人、2 型糖尿病患
+者(无肾病)、慢性肾功能不全患者(无糖尿病)以及糖尿病肾病患者血清 SPARC 水平;以 RT-PCR、Western
+印迹法和免疫荧光染色法检测 12 周龄 db / db 小鼠肾脏组织的 SPARC mRNA 和蛋白表达。 结果 糖尿病
+肾病患者血清中的 SPARC 含量明显高于正常组、2 型糖尿病组及慢性肾功能不全组[(5. 78 ± 1. 41 对 3. 58
+± 0. 41、4. 51 ± 1. 08 和 3. 81 ± 1. 16)μg / L,P<0. 05 或 P<0. 01],2 型糖尿病组高于正常组(P<0. 05),2 型糖
+尿病患者与慢性肾功能不全患者相比无明显差异,慢性肾功能不全患者与正常人相比无明显差异。 db / db
+小鼠肾脏组织 SPARC mRNA 和蛋白表达明显高于对照组(P<0. 05)。 结论 糖尿病肾病时长期高血糖导
+致肾脏病理改变的同时,肾脏组织产生和分泌的 SPARC 蛋白增加导致其血清浓度升高,可能参与糖尿病
+肾病病理改变的形成。
+[关键词]   富含半胱氨酸的酸性分泌蛋白; 糖尿病肾病; 胰岛素样生长因子; 转化生长因子 β1
+Correlation of secreted protein acidic and rich in cysteine with diabetic nephropathy Li Lei, Song Haiyan, Liu
+Kai, Zhu Lili, An Mengmeng, Wang Zheng. Department of Endocrine and Metabolic Disease, the Second Affiliated
+Hospital, Harbin Medical University, Harbin 150086, China
+[Abstract]  Objective  To investigate the serum concentrations of secreted protein acidic and rich in cysteine
+(SPARC) in patients with diabetic nephropathy and SPARC mRNA and protein expressions in renal tissue of db / db
+mice. Methods Serum SPARC levels in normal subjects and patients with type 2 diabetes mellitus(without diabetic
+nephropathy), chronic renal failure ( without diabetes mellitus), and diabetic nephropathy were determined with
+enzyme-linked immunosorbent assay. RT-PCR,Western blot, and immunofluorescence were used to detect the mRNA
+and protein expressions of SPARC in renal tissue of db / db mice. Results The serum level of SPARC in diabetic
+nephropathy group was significantly higher than those in normal group, type 2 diabetes mellitus, and chronic renal
+failure group [(5. 78 ± 1. 41 vs 3. 58 ± 0. 41, 4. 51 ± 1. 08, and 3. 81 ± 1. 16) μg / L,P<0. 05 or P<0. 01] . The
+SPARC level in the type 2 diabetes mellitus group was higher than that in normal group(P<0. 05), but there was no
+difference between normal group and chronic renal failure. SPARC mRNA and protein levels in renal tissue of db / db
+mice were higher compared with the littermates (P < 0. 05) . Conclusions The long term hyperglycemic state in
+patients with diabetic nephropathy causes pathological change of renal tissue. Simultaneously, increased secretion of
+SPARC from renal tissue results in elevation of serum SPARC level and may play a role in pathological change of
+diabetic nephropathy.
+[Key words]  Secreted protein acidic and rich in cysteine; Diabetic nephropathy; Insulin-like growth factor;
+Transforming growth factor β1
+(Chin J Endocrinol Metab, 2014, 30: 741-746)
+富含半胱氨酸的酸性分泌蛋白 ( SPARC) 又称
+BM-40、骨粘连蛋白。 现已发现 SPARC 不仅表达于多
+种正常组织,在一些增生性瘢痕组织及肿瘤组织也发
+现均有高表达,并发挥相应作用。 正常组织中尤其是
+在脂肪组织中 SPARC 的表达可明显增强,在高脂饮食
+成功诱导胰岛素抵抗的大鼠中,SPARC 在胰岛素抵抗
+的脂肪组织中的表达明显增加,SPARC 可能参与胰岛
+素抵抗的发生并与糖尿病的发生相关[1,2];在胃癌组
+织中 SPARC 能通过下调血管内皮生长因子和基质金
+属蛋白酶 7(MPP-7)的表达而达到抑制血管生成的作
+用[3]。 研究表明其与气管发育、组织重塑、细胞更新
+及组织修复等有关。 此外,SPARC 在调节细胞基质之
+间的关系、抑制细胞增殖、调控细胞黏附、迁徙、控制细
+胞因子及基质蛋白的表达具有重要作用。 在小鼠模型
+中的研究表明其能通过抑制胰岛素样生长因子(IGF)
+信号转导通路抑制肾小球系膜细胞的增生[4],同时又
+能显著提高肾小球系膜细胞转化生长因子(TGF) β1
+和I型胶原蛋白的表达而参与组织纤维化的发生。
+SPARC 与糖尿病的发生发展密切相关,SPARC 表达失
+衡广泛关联到与肥胖相关的代谢紊乱性疾病,包括 2
+型糖尿病及相关并发症、肝肾疾病、心血管疾病以及与
+肥胖相关的癌症。 2013 年 Kerstin 等[5] 对肥胖和糖尿
+病所致的肾脏组织结构改变做了更深入的研究, 糖尿
+病肾病(DN)是糖尿病最严重的并发症,但 SPARC 与
+DN 的相关性研究甚少,本实验将从血清和组织两个
+角度对 SPARC 的表达展开研究,对 SPARC 在 DN 的
+发生发展中所起的作用进行初步探讨。
+对象和方法
+一、 对象
+1. 血清标本:本实验选取 160 名志愿者(男性 76
+名,女性 84 名),包括 38 名正常体检者(男性 18 名,女
+性 20 名),41 例 2 型糖尿病患者(男性 19 例,女性 22
+例),病程在 1 ~ 5 年,双下肢血管超声显示轻度动脉
+内膜改变 15 例,无合并微血管病变;39 例慢性肾功能
+不全(CRF)患者(男性 19 例,女性 20 例),病因为慢
+性肾小球肾炎,无糖尿病,未接受免疫抑制剂、透析或
+肾移植治疗;42 例 DN(男性 20 例,女性 22 例),平均
+病程 10 年,合并糖尿病视网膜病变2 ~4期者 32 例,
+I期 10 例,诊断标准为糖尿病患者按尿微量白蛋白排
+泄率(UAER)30 mg / 24 h 为标准,即<30 mg / 24 h 时无
+DN,>30 mg / 24 h 时有 DN;以上受试者无长期心肺疾
+病、感染性疾病及其它脏器功能障碍。 以上研究对象
+来自 2012 年 3 月至 2013 年 3 月在哈尔滨医科大学附
+属第二临床学院的体检正常者和住院患者,所有受检
+对象均知情同意。
+2. 实验动物标本:选取雄性 12 周龄 db / db 小鼠
+(db / db 组)与其同窝野生对照型小鼠(NC 组)各 6 只
+(南京大学动物模式研究所提供)。 小鼠经深度麻醉
+后取肾脏组织迅速放入液氮中,最后存入-80℃冰箱
+备检。 所有实验步骤经过哈尔滨医科大学动物实验中
+心批准。
+3. 实验试剂:酶联免疫吸附法(ELISA)试剂盒,
+Trizol 试剂、platinumTaq DNA polymerase、SPARC 和 β-
+actin 引物 (美国 Invitrogen 公司产品), ThermoScript
+RT-PCR 反转录试剂盒(美国 Promega 公司产品),兔
+抗 actin 抗体、鼠抗 SPARC 抗体、免疫荧光二抗抗体
+(美国 Santacruz 公司),蛋白裂解液、BCA 定量试剂盒
+(中国碧云天公司),ECL 免疫荧光试剂盒(英国安马
+西亚公司)。
+二、 方法
+1. 人体测量和血清标本:人体测量在早晨进行,
+受试者空腹,穿少量衣服,不穿鞋,测量身高和体重,身
+高精确到 0. 5 cm,体重精确到 0. 5 kg,计算体重指数
+(BMI),正常体重和肥胖的界限取 28 kg / m2,同时测量
+腰围和臀围,计算腰臀比;取 2 型糖尿病患者同日 24 h
+尿测 UAER 筛选 DN 患者,血清标本为禁食 10 h 后于
+清晨空腹采集上肢静脉血,新鲜血液静置 30 min 后均
+在 4℃、2 500 转 / min 条件下离心 25 min,取上清分装
+后加入蛋白酶抑制剂,-80℃冻存待检,保存过程中出
+现沉淀给予再次离心。
+2. 相关指标检测:血压采集为患者入院时所测血
+压,此外空腹血糖,餐后 2 h 血糖、血肌酐、尿素氮、
+HBA1C、空腹胰岛素水平,餐后 2 h 胰岛素水平、甘油三
+酯、总胆固醇、低密度脂蛋白胆固醇、高密度脂蛋白胆
+固醇、尿蛋白的检测在生化实验室和内分泌实验室进
+行。
+3. 血清中 SPARC 浓度的定量检测:采用双抗体
+夹心 ELISA 法,按照 ELISA 试剂盒说明书进行测定。
+标准品浓度为 5. 4 μg / L,检测时样品浓度被样品稀释
+液稀释 5 倍。 试剂盒性能:样品线性回归与预期浓度
+相关系数 R 值为 0. 95 以上,批内与批间 CV 分别<9%
+和 11% 。 检测范围 0. 2 ~ 4 μg / L。 保存条件及有效
+期:2℃ ~8℃条件下,有效期 6 个月(该实验进行时试
+剂盒在有效期范围内)。
+4. RT-PCR 检测 SPARC mRNA 表达水平:分别取
+db / db 组及 NC 组的肾脏组织 50 mg 研磨后放入 Trizol
+等试剂中提取总 RNA。 紫外分光光度计检测 RNA 浓
+度,逆转录为 cDNA,用 PCR 法扩增 SPARC 基因。
+SPARC 基因上游引物:5-GAAGGTATGCAGCAATGAC-
+AACAA-3,下游引物:5-TTCGGTCAGCTCGGAATCCA-
+3,产物 160 bp。 内参 β-actin 上游引物:5-CCCAGCAC-
+AATGAAGATCAAGATCAT-3,下游引物:5-ATCTGCT-
+GGAAGGTGGACAGCGA-3,产物 101 bp。 PCR 采用 20
+滋l 反应体系,PCR 条件:95℃预变性 2 min,94℃变性
+15 s,55℃退火 15 s,72℃延伸 15 s,经 32 个循环,72℃
+延伸 5 min。 产物经 2% 琼脂糖凝胶电泳 后, 以
+Scanimage 灰度处理软件测定电泳带灰度值,以 β-actin
+为内参照,计算 SPARC mRNA 表达的相对水平。 实验
+重复 3 次,结果稳定可靠。
+5. Western 印迹法检测 SPARC 蛋白表达:将冻存
+的肾脏标本研磨至粉末状并加入蛋白裂解液,4℃裂解
+30 min,12 000 转 / min 离心 15 min 取上清,BCA 测定
+蛋白浓度。 灌注 10%分离胶,5%浓缩胶的 SDS-PAGE
+凝胶。 吸取 60 μg 总蛋白, 恒压 80V 电泳 25 min, 当
+溴酚蓝前沿进入分离胶,把电压提高到 100 V,继续电
+泳直到溴酚蓝到达分离胶底部。 半干电转恒流 80
+min,将蛋白从 SDS-PAGE 凝胶转至 PVDF 膜。 37℃,
+5%的脱脂奶粉封闭 90 min,按 1 : 1 000 稀释小鼠抗
+SPARC 单克隆抗体及兔抗 β-actin 抗体 4℃孵育过夜。
+1 : 5 000 稀释二抗孵育 1 h,特异性反应条带经 ECL
+化学发光显色, X 压片曝光。 经扫描进入电脑用
+Scanimage 灰度处理软件测定电泳条带灰度值。 结果
+以 SPARC 条带的灰度值 / β-actin 条带的灰度值表示。
+6. 免疫荧光检测:取准备好的肾脏组织于多聚甲
+醛溶液中固定 2 h。 切片经 PBS 漂洗 30 min,0. 1
+mmol / L 曲拉通-X100 作用 10 min,山羊血清 37℃封闭
+4 h,加一抗 SPARC(1 : 400),37℃ 孵育过夜,加二抗
+(FITC 标记的羊抗鼠抗体)37℃孵育 90 min,甘油封片
+后免疫荧光显微镜下观察拍片。
+三、 统计学处理
+数据以 x- ± s 表示,数据分析采用 SPASS 13. 0 软
+件,各组间生化指标、糖尿病相关指标、血清 SPARC 水
+平、男性和女性间 SPARC 水平比较,采用 t 检验,相关
+性分析采用 logistic 回归分析,进行双向检验,P<0. 05
+为差异有统计学意义。
+结    果
+一、 各组研究对象的临床特点及 SPARC 检测结
+果
+表 1 显示,各组的年龄、BMI 及腰臀比差异无统计
+学意义。 CRF 组的血压水平明显高于其他 3 组,DN
+组的血压明显高于 2 型糖尿病组 (P < 0. 05 或 P <
+0. 01)。2 型糖尿病组和 DN 组的血糖水平明显高于正
+常组和 CRF 组(P<0. 05),2 型糖尿病组和 DN 组血糖
+水平差异无统计学意义,但 HBA1C水平差异有统计学
+意义。 正常组和 CRF 组的血清胰岛素水平明显高于 2
+型糖尿病组和 DN 组(P<0. 05)。 CRF 组肾功能和其
+他 3 组相比差异有统计学意义(P<0. 05),2 型糖尿病
+组、CRF 组、DN 组间的血脂水平差异无统计学意义。
+DN 组血清 SPARC 水平与其他 3 组相比差异有统计学
+意义(P<0. 05 或 P<0. 01),2 型糖尿病组 SPARC 水平
+明显高于正常组(P<0. 05),与 CRF 组相比无统计学
+差异。 DN 组与 2 型糖尿病组相比 SPARC、收缩压、
+舒张压、 2 h 胰岛素、 HBA1C有显著性差异(P<0. 05) ,
+表 1  各组临床特点及 SPARC 水平(x-± s)
+Tab 1  Clinical characteristics and SPARC levels in various groups(x-± s)
+组别
+Group
+例数(男性 / 女性)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+BMI
+(kg / m2) WHR
+SPARC
+(μg / L)
+SBP
+(mmHg)
+DBP
+(mmHg)
+FPG
+(mmol / L)
+NC 38(18 / 20) 48 ± 12 23. 66 ± 1. 58 0. 83 ± 0. 06 3. 58 ± 0. 41   114 ± 16   72 ± 10 4. 97 ± 0. 96
+T2DM 41(19 / 22) 50 ± 16 24. 46 ± 2. 78 0. 88 ± 0. 08 4. 51 ± 1. 08a   126 ± 15   75 ± 12 8. 78 ± 1. 46a
+CRF 39(19 / 20) 51 ± 14 22. 36 ± 2. 25 0. 81 ± 0. 05 3. 81 ± 1. 16   144 ± 17bd   87 ± 12 4. 89 ± 0. 85c
+DN 42(20 / 22) 52 ± 13 23. 79 ± 2. 65 0. 86 ± 0. 06 5. 78 ± 1. 41bde   134 ± 16ace   81 ± 10ac 8. 69 ± 1. 65ae
+组别
+Group
+例数(男性 / 女性)
+n(Male / Female)
+2hPG
+(mmol / L)
+FINS
+(mU / L)
+2hINS
+(mU / L)
+SCr
+(μmol / L)
+BUN
+(mmol / L)
+eGFR
+(ml / min)
+HBA1C
+(% )
+NC 38(18 / 20) 6. 27 ± 0. 87 9. 6 ± 3. 2 31. 3 ± 5. 6   73 ± 29 4. 8 ± 1. 8 108. 6 ± 12. 7 5. 1 ± 0. 6
+T2DM 41(19 / 22) 10. 13 ± 2. 14a 3. 6 ± 1. 2a 21. 2 ± 4. 8a   76 ± 28 5. 1 ± 1. 7 104. 3 ± 14. 1 8. 3 ± 1. 7ac
+CRF 39(19 / 20) 6. 35 ± 0. 74c 10. 1 ± 2. 9c 28. 9 ± 4. 7c   436 ± 82ac 13. 8 ± 2. 8ac 42. 5 ± 11. 8ac 5. 4 ± 0. 7
+DN 42(20 / 22) 6. 35 ± 0. 74c 10. 1 ± 2. 9c 28. 9 ± 4. 7c   79 ± 31e 5. 2 ± 1. 7e 102. 5 ± 15. 7e 9. 2 ± 1. 5c
+组别
+Group
+例数(男性 / 女性)
+n(Male / Female)
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+MAU / uCr
+(mg / mmol)
+尿蛋白定性
+Urine protein qualitative
+NC 38(18 / 20) 3. 56 ± 1. 62 1. 88 ± 0. 78 1. 31 ± 0. 42 1. 17 ± 0. 72 1. 8 ± 0. 6 -
+T2DM 41(19 / 22) 6. 12 ± 1. 58a 4. 15 ± 1. 77a 1. 29 ± 0. 37 2. 71 ± 0. 81a 3. 2 ± 0. 8 -
+CRF 39(19 / 20) 5. 96 ± 1. 42 3. 99 ± 0. 98 1. 10 ± 0. 31 1. 84 ± 0. 63 22. 5 ± 3. 6ac 荻-莘
+DN 42(20 / 22) 5. 89 ± 1. 46a 4. 33 ± 1. 36a 1. 23 ± 0. 30 2. 12 ± 0. 71 15. 8 ± 2. 8ac ±-荻
+注:NC:正常对照组 Normal control group;T2DM:2 型糖尿病组 Type 2 diabetes mellitus group;CRF:慢性肾功能不全组 Chronic renal failure group;DN:
+糖尿病肾病组 Diabetic nephropathy group;BMI:体重指数 Body mass index;WHR:腰臀比Waist to hip ratio;SPARC:富含半胱氨酸的酸性分泌蛋白 Secreted
+protein acidic and rich in cysteine; SBP:收缩压 Systolic blood pressure;1 mmHg = 0. 133 kPa;DBP:舒张压 Diastolic blood pressure;FPG:空腹血糖 Fasting
+plasma glucose;2hPG:餐后 2 h 血糖 Postprandial 2 h plasma glucose;FINS:空腹胰岛素 Fasting insulin;2hINS:餐后 2 h 胰岛素 Postprandial 2 h insulin;SCr:
+血肌酐 Serum creatinine;BUN:血尿素氮 Blood urea nitrogen;eGFR:估算的肾小球滤过率 Estimated glomerular filtration rate;TC:总胆固醇 Total cholesterol;
+TG:甘油三酯 Triglyceride;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol; LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-
+cholesterol;MAU / uCr:尿微量白蛋白与尿肌酐的比值 Microalbuminuria / urine creatinine;与 NC 组比较 vs NC group,aP<0. 05,bP<0. 01;与 T2DM 比较 vs
+T2DM group,cP<0. 05,dP<0. 01;与 CRF 组比较 vs CRF group,eP<0. 05
+以 2 型糖尿病组为对照,以是否 DN 作为应变量(0 =
+无,1 =有),以 SPARC、收缩压、舒张压、2 h 胰岛素、
+HBA1C作为自变量,进行 logistic 回归分析,结果显示血
+清 SPARC 浓度、收缩压、HBA1C是 DN 的影响因素(P<
+0. 05,回归系数>0、OR>1,表 2),表明与 DN 的发生发
+展呈正相关。
+二、 2 组小鼠肾脏组织中 SPARC mRNA 和蛋白水
+平的比较
+图 1 显示,db / db 组小鼠(糖尿病肾病小鼠)肾脏
+组织 SPARC mRNA 表达强于 NC 组(P<0. 05);Western
+表 2  糖尿病肾病发生的各相关因素多因素 logistic 回归分析
+Tab 2  Results of multivariable logistic analysis for risk factors of incidence of DN
+Variable B SE Wald df P OR 95% CI
+SPARC(μg / L) 0. 642 0. 181 12. 661 1 0. 003 1. 161 1. 021-1. 343
+SBP(mmHg) 0. 027 0. 008 10. 723 1 0. 002 1. 229 1. 010-1. 345
+DBP(mmHg) 0. 021 0. 016 1. 312 1 0. 934 1. 002 0. 971-1. 030
+2hINS(mU / L) 0. 074 0. 169 0. 192 1 0. 663 1. 078 0. 771-1. 502
+HBA1C(% ) 0. 099 0. 023 17. 012 1 0. 012 1. 136 0. 812-1. 430
+注:略语同表 1 The abbreviations are the same as Tab 1
+注:NC:对照组 Control group; 略语同表 1 The abbreviations are the same as Tab 1;与 NC 组比较 vs NC group,aP <0. 05
+图 1  db / db 组小鼠和对照组小鼠肾脏组织 SPARC mRNA 表达的比较
+Fig 1  The expression of SPARC mRNA in db / db mice and control mice
+注:NC:对照组 Control group; 略语同表 1 The abbreviations are the same as Tab 1;与 NC 组比较 vs NC group,aP <0. 05
+图 2  db / db 组小鼠和对照组小鼠 SPARC 蛋白表达的比较
+Fig 2  The expression of SPARC protein in db / db mice and control mice
+注:NC:对照组 Control group; 略语同表 1 The abbreviations are the same as Tab 1
+图 3  db / db 组和对照组肾脏组织 SPARC 蛋白表达水平(免疫荧光染色×20)
+Fig 3  The protein levels of SPARC in kidney tissue of db / db mice and control mice(Immunofluorescence stain×20)
+印迹和免疫荧光检测也显示 db / db 组小鼠肾脏组织
+SPARC 蛋白表达明显比对照组升高(P<0. 05,图 2 和
+图 3)。
+讨    论
+根据国际糖尿病联盟的一项调查显示,至 2025 年
+全世界范围内糖尿病患病率将比现在增加 3 倍,未来
+DN 将成为导致终末期肾脏疾病的最常见病因[6]。 目
+前关于 SPARC 与 DN 具体发病机制关系的研究未见
+报道。 糖尿病时长期高血糖状态所诱发的机体代谢及
+血流动力学改变致使肾脏组织发生病理改变,主要表
+现为系膜增生、基底膜增厚、肾小球硬化,进而发展为
+DN。 已有研究证实糖尿病患者血清中 SPARC 水平增
+加,SPARC 与糖尿病的发生发展相关,DN 作为糖尿病
+的常见并发症,SPARC 与 DN 的发生发展是否相关及
+其在 DN 时肾脏组织病理学改变是否发挥作用值得探
+索。 SPARC 是一种主要存在于细胞外基质的小分子
+糖蛋白,种属间具有高度保守性。 在结构上从多肽的
+N 端开始依次分为I、2、3区,玉区主要结合免疫相
+关的抗原蛋白;域区富含半胱氨酸,可与激活素、抑制
+素、肝素、蛋白聚酶结合;3区为一个钙结合位点,能与
+内皮细胞相互作用并能结合胶原纤维[7-9]。 这些结构
+特点使其在调控细胞增殖、组织更新、血管生成及组织
+纤维化的过程中发挥作用成为可能。
+本研究显示 DN 组的血压、HBA1C水平均明显高于
+正常组及 2 型糖尿病组,血脂水平与正常组相比差异
+均有统计学意义,提示血压、血糖、血脂在糖尿病发展
+过程中的意义,控制血压、血糖、血脂有助于延缓 DN
+的发生。 2 型糖尿病组 SPARC 水平高于正常组,这与
+既往相关研究结果相符,支持 SPARC 与糖尿病发病可
+能相关的结论。 DN 组血清 SPARC 水平明显高于 2 型
+糖尿病组,并且 DN 小鼠肾脏组织的 SPARC 表达水平
+较对照组明显升高,可认为 DN 时血清中增加的
+SPARC 可能来源于病变的肾脏组织, CRF 组血清
+SPARC 水平与正常组、2 型糖尿病组相比无明显差别,
+而 2 型糖尿病组与正常组相比差别有统计学意义,提
+示血糖升高可能是导致血清 SPARC 水平增加的重要
+因素,单纯肾脏组织病理改变而不合并血糖水平异常
+时对血清 SPARC 水平变化不明显,但当长期血糖异常
+至合并肾脏组织发生病理改变时,即 DN 时血清
+SPARC 水平进一步升高。 综上可得出以下结论:
+SPARC 与 2 型糖尿病发生可能相关,血糖升高是导致
+血清 SPARC 水平变化的重要因素,单纯肾脏发生组织
+病理改变对血清 SPARC 表达变化无明显影响,长期血
+糖升高又合并糖尿病性肾脏组织病理改变时,血清中
+SPARC 水平又会发生明显变化,同时多因素 logsitic 回
+归分析证实 SPARC 是 DN 的一个影响因素,可认为
+SPARC 与 DN 的发生发展可能相关。
+DN 发生时肾脏组织病理改变最初以系膜增生为
+主,肾小球系膜细胞的增殖需要 IGF 信号通路的介
+导[10,11]。 IGF 蛋白家族作为多种细胞的强力促细胞分
+裂剂,在细胞分化、组织更新、伤口愈合中起重要作
+用[12],肾脏是 IGF 蛋白家族合成的重要器官[13],包括
+IGF-I、IGF-2及 IGF-I受体,前两者均通过与 IGF-I
+受体结合起作用。 DN 时长期的高血糖状态可刺激肾
+脏组织 IGFs 表达增加,2009 年 Movva 等[14] 研究证实
+在 2 型糖尿病和 DN 患者的肾组织活检中 IGF-2表达
+较正常对照组明显增高。 这些高表达的 IGF 蛋白可以
+被 SPARC 抑制,研究显示 SPARC 基因敲除小鼠中
+IGF-I、IGF-2及 IGF-I受体呈明显高表达,在添加人
+重组 SPARC 后肾组织 IGFs 表达明显受抑制,在野生
+型组添加人重组 SPARC 后 IGF-I受体的表达、IGF-I
+介导的系膜细胞增殖受到抑制[4],说明 SPARC 能通过
+抑制 IGFs 的表达而抑制 IGF 信号转导通路进而抑制
+系膜细胞的增殖。
+本研究结果显示 DN 时血清和肾脏组织 SPARC
+水平均明显升高,然而上述 SPARC 的保护性作用并未
+能完全抑制肾脏的病理改变,DN 时仍不可避免出现
+肾小球硬化和间质纤维化。 研究表明 TGF-β1 可能参
+与肾小球硬化和间质纤维化的形成。 然而 TGF-β1 的
+生成受 SPARC 调控,在 SPARC 基因敲除小鼠中,肾小
+球系膜细胞中 TGF-β1 mRNA 表达含量不变,但 TGF-
+β1 蛋白较正常对照组却相应减少,表明 SPARC 能诱
+导肾小球系膜细胞 TGF-β1 的合成[15]。 体外高糖状态
+下 TGF-β1 参与I型胶原蛋白、4型胶原蛋白及肾小
+球基底膜成分生成的调节[13]。 DN 时 SPARC 在肾脏
+组织的表达增加,进而诱导 TGF-β1 的合成增加,在
+TGF-β1 呈高表达和高血糖刺激下肾小球基底膜成分、
+层黏连蛋白和4型胶原蛋白生成相应增加,导致肾小
+球硬化和间质纤维化。 在由链脲佐菌素慢性诱导的
+SPARC 基因敲除 DN 小鼠模型与野生型 DN 小鼠模型
+的对比研究中显示,在同为糖尿病肾病状态下,SPARC
+基因敲除后的 DN 小鼠最终肾功能恶化和肾脏的病理
+损害程度都要比野生型 DN 小鼠轻[16],可见 SPARC
+与 DN 的肾脏组织病理损害密切相关,具体机制仍需
+进一步探索,从 SPARC 的角度研究 DN 具有新的意
+义。

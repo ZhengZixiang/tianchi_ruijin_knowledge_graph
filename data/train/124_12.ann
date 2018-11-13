@@ -1,0 +1,261 @@
+T1	Disease 1055 1061	2 型糖尿病
+T2	Disease 1122 1128	2 型糖尿病
+T3	Disease 1152 1158	2 型糖尿病
+T4	Disease 1392 1396;1397 1399	2 型糖 尿病
+T5	Disease 1462 1468	2 型糖尿病
+T6	Disease 2376 2379;2380 2383	2 型 糖尿病
+T7	Disease 2402 2408	2 型糖尿病
+T8	Disease 3331 3337	2 型糖尿病
+T9	Disease 3608 3614	2 型糖尿病
+T10	Disease 4937 4943	2 型糖尿病
+T11	Disease 5142 5148	2 型糖尿病
+T12	Disease 5523 5529	2 型糖尿病
+T13	Disease 5561 5567	2 型糖尿病
+T14	Disease 5587 5593	2 型糖尿病
+T15	Disease 5628 5634	2 型糖尿病
+T16	Disease 5752 5758	2 型糖尿病
+T17	Disease 5779 5785	2 型糖尿病
+T18	Disease 6073 6079	2 型糖尿病
+T19	Disease 6143 6149	2 型糖尿病
+T20	Disease 6347 6353	2 型糖尿病
+T21	Disease 6360 6366	2 型糖尿病
+T22	Disease 6421 6427	2 型糖尿病
+T23	Disease 6521 6527	2 型糖尿病
+T24	Test 118 123	HBA1C
+T25	Test 168 173	HBA1C
+T26	Test 668 673	HBA1C
+T27	Test 796 801	HBA1C
+T28	Test 1835 1840	HBA1C
+T29	Test 2419 2424	HBA1C
+T30	Test 4777 4782	HBA1C
+T31	Test 4854 4859	HBA1C
+T32	Test 5081 5086	HBA1C
+T33	Test 5264 5269	HBA1C
+T34	Test 6379 6384	HBA1C
+T35	Test 6432 6437	HBA1C
+T36	Test 6478 6483	HBA1C
+T37	Test 6588 6593	HDL-C
+T38	Test 6622 6627	HDL-C
+T39	Test 6666 6671	HDL-C
+T40	Test 6779 6784	HDL-C
+T41	Test 6823 6828	HDL-C
+T42	Test 151 155	空腹血糖
+T43	Test 1386 1390	空腹血糖
+T44	Test 2184 2188	空腹血糖
+T45	Test 2645 2649	空腹血糖
+T46	Test 5240 5244	空腹血糖
+T47	Test 6152 6156	空腹血糖
+T48	Test 6298 6302	空腹血糖
+T49	Test 3000 3005;3006 3010	高密度脂蛋 白胆固醇
+T50	Test 5245 5254	高密度脂蛋白胆固醇
+T51	Test 3022 3027;3028 3032	低密度脂蛋 白胆固醇
+T52	Test 2511 2516	血小板计数
+T53	Test 3439 3444	血小板计数
+T54	Test 3725 3730	血小板计数
+T55	Test 2196 2200	总胆固醇
+T56	Test 2984 2988	总胆固醇
+T57	Test 1968 1972	体重指数
+T58	Test 2179 2183	体重指数
+T59	Test 2347 2351	体重指数
+T60	Test 2615 2619	体重指数
+T61	Test 2941 2943	尿酸
+T62	Test 1444 1449	空腹胰岛素
+T63	Test 2191 2195	甘油三酯
+T64	Test 2968 2972	甘油三酯
+T65	Test 1983 1985	身高
+T66	Test 1974 1976	体重
+T67	Disease 108 110	肥胖
+T68	Disease 113 116	糖尿病
+T69	Test 133 136	MPV
+T70	Test 144 150	冠脉病变积分
+T71	Test 156 164;165 166	高密度脂蛋白胆固 醇
+T72	Test 175 178	MPV
+T73	Disease 196 199	冠心病
+T74	Disease 1025 1033	冠状动脉粥样硬化
+T75	Disease 1094 1100	心血管并发症
+T76	Test 1358 1362	冠脉造影
+T77	Test 1420 1424;1425 1430	简化葡萄 糖耐量试验
+T78	Test 1436 1443	C 肽释放试验
+T79	Drug 1600 1604	阿司匹林
+T80	Drug 1605 1609	氯吡格雷
+T81	Drug 1610 1616	抗血小板药物
+T82	Drug 1617 1621	抗凝药物
+T83	Disease 1639 1645	瓣膜性心脏病
+T84	Disease 1646 1649	心肌病
+T85	Disease 1650 1655	风湿性疾病
+T86	Disease 1656 1657;1658 1663	血 液系统疾病
+T87	Disease 1664 1669	感染性疾病
+T88	Disease 1670 1674	恶性肿瘤
+T89	Test 1687 1690	MPV
+T90	Disease 2366 2368	肥胖
+T91	Test 2431 2436	HbA1C
+T92	Test_Value 2424 2427	≥7%
+T93	Test_Value 2441 2444	<7%
+T94	Test 2448 2453	HbA1C
+T95	Test 2466 2469	MPV
+T96	Disease 2471 2478	急性冠脉综合征
+T97	Disease 2479 2483	多支病变
+T98	Disease 2484 2485;2486 2487	肥 胖
+T99	Disease 1147 1150	冠心病
+T100	Test 6835 6843;6844 6845	低密度脂蛋白胆固 醇
+T101	Anatomy 6856 6862	血管内皮细胞
+T102	Test 2496 2501	HBA1C
+T103	Test 5255 5259;5260 5261	HDL- C
+T104	Test 6401 6406	HbA1C
+T105	Disease 1062 1065	冠心病
+T106	Disease 1117 1120	冠心病
+T107	Disease 1378 1381	冠心病
+T108	Disease 1408 1411	冠心病
+T109	Disease 1489 1492	冠心病
+T110	Disease 1635 1638	冠心病
+T111	Disease 3658 3661	冠心病
+T112	Disease 5136 5139	冠心病
+T113	Disease 5296 5299	冠心病
+T114	Disease 5504 5507	冠心病
+T115	Disease 5759 5762	冠心病
+T116	Disease 5789 5792	冠心病
+T117	Test 6067 6069	血糖
+T118	Test 6127 6129	血糖
+T119	Test 6186 6188	血糖
+T120	Test 6251 6253	血糖
+T121	Test 6324 6326	血糖
+T122	Test 6532 6534	血糖
+T123	Test 6546 6548	血糖
+T124	Test 2954 2956	肌酐
+T125	Test 19 26	平均血小板体积
+T126	Test 76 83	平均血小板体积
+T127	Test_Value 88 92	显著升高
+T128	Test_Value 123 125	高值
+T129	Test_Value 137 139	升高
+T130	Disease 201 209	糖尿病, 2 型
+T131	Test 211 218	平均血小板体积
+T132	Reason 1141 1146	活化血小板
+T133	Test 1212 1219	平均血小板体积
+T134	Anatomy 1227 1230	血小板
+T135	Test 1371 1375	冠脉影像
+T136	Symptom 1626 1628;1629 1633	冠脉 再血管化
+T137	Test 2103 2106	MPV
+T138	Test 2335 2340	血小板功能
+T139	Disease 94 101	急性冠脉综合征
+T140	Disease 102 106	多支病变
+T141	Reason 1166 1170;1171 1175	血小板的 活性状态
+T142	Test 1185 1190	血小板体积
+T143	Test 84 87	MPV
+T144	Test 1220 1223	MPV
+T145	Test 1273 1276	MPV
+T146	Test 1929 1933	冠脉影像
+T147	Test 1947 1953	冠脉主支狭窄
+T148	Test_Value 1953 1957	≥50%
+T149	Disease 1904 1907	冠脉病
+T150	Test 2158 2161	高血压
+T151	Disease 2154 2156	DM
+T152	Test 2164 2167	多支病
+T153	Test 2171 2175;2176 2178	冠脉病变 积分
+T154	Disease 2248 2250	DM
+T155	Test 2268 2271	MPV
+T156	Disease 2274 2276	DM
+T157	Disease 2389 2391	DM
+T158	Disease 2412 2414	DM
+T159	Test_Value 2501 2503	高值
+T160	Test_Value 2436 2438	高值
+T161	Disease 2491 2493	DM
+T162	Test_Value 2505 2509	显著升高
+T163	Test 2526 2531	血小板压积
+T164	Test_Value 2536 2540	显著降低
+T165	Test 2542 2547	小板分布宽
+T166	Test 5200 5203	MPV
+T167	Test 5219 5222	MPV
+T168	Test 5233 5239	冠脉病变积分
+T169	Test 5311 5314	MPV
+T170	Test_Value 5315 5317	增加
+T171	Test 5323 5326	MPV
+T172	Disease 5331 5338	急性冠脉综合征
+T173	Test_Value 5327 5329	增加
+T174	Test 5361 5364	MPV
+T175	Test_Value 5365 5367	增加
+T176	Disease 5368 5374	急性心肌梗死
+T177	Anatomy 5377 5379	冠脉
+T178	Test 5429 5432	MPV
+T179	Test 5438 5441	MPV
+T180	Test_Value 5442 5444	增加
+T181	Test_Value 5433 5435	增加
+T182	Treatment 5445 5449	冠脉介入
+T183	Anatomy 5470 5474	肌钙蛋白
+T184	Test 5488 5491	MPV
+T185	Disease 5531 5537	心血管并发症
+T186	Symptom 5554 5559	血小板活化
+T187	Test 5650 5653	MPV
+T188	Test_Value 5655 5657	升高
+T189	Disease 5672 5677	大血管疾病
+T190	Disease 5681 5687	急性心肌梗死
+T191	Test 5700 5703	MPV
+T192	Test_Value 5705 5707;5708 5709	著增 加
+T193	Test 5740 5743	MPV
+T194	Test_Value 5744 5748	显著高于
+T195	Test 5796 5799	MPV
+T196	Reason 5811 5819	血小板活性的升高
+T197	Test 5872 5875	MPV
+T198	Test_Value 5877 5879	升高
+T199	Disease 5881 5885	冠脉病变
+T200	Test 5897 5903	冠脉病变积分
+T201	Test 5905 5908	MPV
+T202	Test 5917 5920;5921 5924	冠脉多 支病变
+T203	Test 5928 5931	MPV
+T204	Test_Value 5932 5934	升高
+T205	Disease 5944 5951	急性冠脉综合征
+T206	Test 5954 5957	MPV
+T207	Disease 5962 5968	稳定性心绞痛
+T208	Disease 5999 6003	多支病变
+T209	Disease 6004 6011	急性冠脉综合征
+T210	Test 6014 6017	MPV
+T211	Test_Value 6018 6020	更高
+T212	Reason 6021 6027	冠脉病变积分
+T213	Test 6029 6032	MVP
+T214	Test 6057 6060	MPV
+T215	Disease 6090 6094	冠脉病变
+T216	Disease 6103 6107	冠脉病变
+T217	Test 6114 6117	MPV
+T218	Test 6133 6136	MPV
+T219	Test 6159 6162	MPV
+T220	Test 6174 6177	MPV
+T221	Test 6304 6307	MPV
+T222	Test 6375 6378	MVP
+T223	Test_Value 6384 6389	大于 7%
+T224	Test 6394 6397	MPV
+T225	Test_Value 6398 6400	更高
+T226	Test 6408 6411	MPV
+T227	Test 6439 6442	MPV
+T228	Test 6487 6490	MPV
+T229	Test 6539 6542	MPV
+T230	Test 6596 6599	MPV
+T231	Disease 6612 6619	急性冠脉综合征
+T232	Anatomy 6789 6793	巨核细胞
+T233	Anatomy 6881 6883	骨髓
+T234	Disease 11 17	2 型糖尿病
+T235	Disease 68 74	2 型糖尿病
+T236	Disease 1084 1090	2 型糖尿病
+T237	Disease 1506 1512	2 型糖尿病
+T238	Disease 2322 2328	2 型糖尿病
+T239	Disease 5727 5733	2 型糖尿病
+T240	Disease 5826 5832	2 型糖尿病
+T241	Disease 5863 5869	2 型糖尿病
+T242	Disease 5989 5995	2 型糖尿病
+T243	Disease 6575 6581	2 型糖尿病
+T244	Disease 1299 1300;1301 1305	2 型糖尿病
+T245	Disease 5 8	冠心病
+T246	Disease 62 65	冠心病
+T247	Test 1755 1758	MPV
+T248	Test 1832 1834	血糖
+T249	Test_Value 2351 2362	≥28 kg / m2
+T250	Test_Value 2454 2456	低值
+T251	Test_Value 2521 2525	显著升高
+T252	Disease 1078 1081	冠心病
+T253	Disease 1293 1296	冠心病
+T254	Disease 1512 1515	冠心病
+T255	Disease 2316 2319	冠心病
+T256	Disease 5668 5671	冠心病
+T257	Disease 5734 5737	冠心病
+T258	Disease 5820 5823	冠心病
+T259	Disease 5857 5860	冠心病
+T260	Disease 5982 5985	冠心病
+T261	Disease 6582 6585	冠心病

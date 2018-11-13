@@ -1,0 +1,275 @@
+基础研究
+激素与发育重点实验室,天津市代谢性疾病重点实验室(朱艳娟、单春
+艳);南开大学医学院(杜君);天津市第一中心(滨海)医院(朱艳香)
+姜黄素促进海马神经发生改善糖尿病大鼠空
+间记忆损伤
+朱艳娟  杜君  朱艳香  单春艳
+[摘要]   目的  研究姜黄素对糖尿病脑病大鼠空间学习记忆障碍的改善作用及其机制。 方法 制备
+链脲佐菌素诱导的大鼠糖尿病脑病模型,以低、中、高剂量的姜黄素治疗 12 周,检测空腹血糖和胰岛素水
+平,Morris 水迷宫检测姜黄素对糖尿病脑病认知障碍的改善作用,BrdU 标记法检测姜黄素对糖尿病大鼠海
+马神经发生的影响,Western 印迹法检测海马脑源性神经营养因子(BDNF)、环磷腺苷反应元件结合蛋白
+(CREB)的表达。 结果 姜黄素高剂量组明显降低糖尿病大鼠的血糖[(25. 73 ± 3. 62 对 29. 81 ± 4. 22)
+mmol / L,P<0. 05]、升高血清胰岛素水平[(11. 98 ± 2. 94 对 5. 37 ± 1. 83) mU / L,P<0. 05]。 姜黄素显著改善
+糖尿病大鼠空间记忆障碍,促进糖尿病大鼠海马齿状回的神经发生(每张海马切片的 BrdU 阳性细胞数
+38. 33 ± 3. 51 对 20. 34 ± 2. 08,P<0. 01),增加海马区 BDNF 的蛋白水平(P<0. 05)和 CREB 的磷酸化(P<
+0. 05)。 结论 姜黄素通过调控 BDNF / CREB 通路促进海马区神经发生,从而改善糖尿病脑病大鼠的空间
+记忆障碍。
+[关键词]   糖尿病脑病; 神经发生; 姜黄素
+Curcumin ameliorates spatial cognitive impairments via enhancing hippocampal neurogenesis in streptozocin-
+induced diabetic rats Zhu Yanjuan *,Du Jun,Zhu Yanxiang,Shan Chunyan. *Key Laboratory of Hormones and
+Development (Ministry of Health), Tianjin Metabolic Diseases Hospital & Tianjin Institute of Endocrinology, Tianjin
+Medical University, Tianjin Key Laboratory of Metabolic Disease, Tianjin 300070, China
+[Abstract]  Objective  To investigate the effect and mechanism of curcumin on spatial learning and memory
+impairment in rats with diabetic encephalopathy. Methods Streptozocin-induced diabetic SD rats were treated with
+three different ( low, medium, and high) dosages of curcumin for 12 weeks. Fasting blood glucose and insulin levels
+were measured. Morris Water Maze was performed to test spatial memory in rats. BrdU incorporation and
+immunofluorescence were used to examine hippocampal neurogenesis. Brain derived neurotrophic factor (BDNF) and
+cAMP responsive element-binding protein (CREB) expressions were measured by Western blot. Results Curcumin
+with high dosage reduced blood glucose level [(25. 73 ± 3. 62 vs 29. 81 ± 4. 22) mmol / L, P<0. 05] and increased
+serum insulin level [(11. 98 ± 2. 94 vs 5. 37 ± 1. 83) mU / L, P<0. 05] . Curcumin significantly ameliorated the
+cognitive impairments in diabetic rats and enhanced neurogenesis in hippocampus of diabetic rats (BrdU positive cells
+per section 38. 33 ±3. 51 vs 20. 34 ±2. 08, P<0. 01), along with increased BDNF protein level (P<0. 05) and CREB
+phosphorylation (P<0. 05) . Conclusions Curcumin treatment ameliorates the impairment of spatial learning and
+memory via augmenting hippocampal neurogenesis, which seems to be mediated by BDNF / CREB signaling.
+[Key words]  Diabetic encephalopathy; Neurogenesis; Curcumin
+(Chin J Endocrinol Metab, 2016, 32: 846-850)
+糖尿病脑病(Diabetic encephalopathy,DE)是以认
+知功能障碍为特点的糖尿病并发症,表现为学习记忆
+能力减退和空间定向困难。 DE 的发病机制复杂,目前
+主要认为由高血糖或血糖波动状态介导的氧化应激、
+内质网应激和炎症反应等多因素诱导海马神经元凋亡
+所致[1]。 DE 与阿尔茨海默病 ( Alzheimer忆 s disease,
+AD)患者有着类似的临床表现,并且病理改变相似,如
+脑内淀粉样肽的生成、脑内炎症和氧化应激反应[2],
+有研究表明[3]糖尿病患者患 AD 的风险较高。 近年来
+随着干细胞研究的深入,关于 DE 的最新观点认为大
+脑海马区神经干细胞(Neural Stem Cells,NSCs)的神经
+发生障碍是糖尿病脑病发病机制中的根本环节[4],海
+马结构包括部分皮层、齿状回、海马、下托、前下托、傍
+下托和内嗅皮质,是形成短暂记忆尤其是空间记忆的
+功能区域[5],以海马 NSCs 为靶点的治疗思路和方案
+具有重要意义。 姜黄素(Curcumin)是从姜科、天南星
+科中的一些植物的根茎中提取的一种化学成分。 姜黄
+素有神经保护和改善认知障碍的作用[6]。 最近研究
+表明,姜黄素有促进胚胎神经祖细胞增殖和成年海马
+神经发生的作用[7]。 本研究首先观察姜黄素对 DE 大
+鼠认知障碍的改善作用及对海马神经发生的影响,并
+探讨脑源性神经营养因子(BDNF) /环磷酸腺苷反应
+元件结合蛋白(CREB)通路在姜黄素促进神经发生中
+的调控作用,为 DE 的治疗提供新思路。
+材料和方法
+一、 材料
+姜黄素(纯度>98% ,Sigma),链脲佐菌素( STZ,
+Sigma),5-溴脱氧尿嘧啶核苷(BrdU,Sigma)。 兔抗神
+经元核抗原 ( NeuN) 单克隆抗体 ( Abcam),小鼠抗
+BrdU 单克隆抗体(Accurate Chemical and Scientific),兔
+抗 BDNF 单克隆抗体,小鼠抗 CREB 单克隆抗体,兔抗
+磷酸化 CREB 单克隆抗体,FITC 标记的山羊抗兔多克
+隆抗体、 Cy3 标记的驴抗小鼠多克隆抗体 ( Jackson
+ImmunoResearch)。
+二、 方法
+1. 糖尿病大鼠模型制备和动物分组:雄性 2 月龄
+Sprague Dawley(SD)大鼠由天津医科大学实验动物中
+心提供,体重 180 ~ 220 g。 随机取 40 只 SD 大鼠禁食
+过夜后,以 STZ 50 mg / kg 的剂量腹腔注射[8],注射后
+48 h 取尾静脉血测血糖,空腹血糖(FPG)>16. 7 mmol / L,
+且注射 5d 后保持 FPG>16. 7 mmol / L 为造模成功大
+鼠。 以上大鼠均在相同环境下饲养,自由饮水、觅食。
+剔除死亡和未成模大鼠,取造模成功的大鼠 32 只,采
+用随机数表法随机分为 4 组,分别为糖尿病组和姜黄
+素高、中、低剂量组。 其中姜黄素低、中、高剂量组以姜
+黄素 15、30、60 mg / kg 体重每天灌胃,共 12 周,糖尿病
+组以姜黄素组相同体积的枸橼酸-枸橼酸钠缓冲液进
+行灌胃处理。 另取正常 SD 大鼠 16 只,随机分为 2 组,
+分别为正常对照组和正常姜黄素组,其中正常姜黄素
+组以姜黄素 60 mg / kg 灌胃,共 12 周,正常对照组以等
+体积的缓冲液进行灌胃处理。
+2. 血糖和血清胰岛素水平的测定:各组灌胃 12
+周后,测定各组大鼠 FPG 和空腹胰岛素(FINS)水平,
+FPG 采用葡葡糖氧化酶法测定,胰岛素采用 ELISA 法
+测定。
+3. Morris 水迷宫测试:Morris 水迷宫是一个黑色
+的圆形水池,池中分 4 个象限,将一个 40 cm 高黑色站
+台放入其中一个象限内,水深 41 cm 让站台的平台没
+于水面之下,水池正上方置有录像机用于记录大鼠在
+水池中的运动轨迹。 在定位航行实验中,实验动物将
+被训练寻找隐藏于水面之下的平台,一共训练 4 d、检
+测 1 d,每天分别于上午和下午固定时间进行训练,每
+次训练实验动物分别从 4 个象限的固定点面向池壁入
+水,入水后 120 s 内找到平台的大鼠在平台停留 20 s,
+入水 120 s 后仍不能找到平台的大鼠将人工牵引至平
+台,并停留 20 s。 最后 1 d 进行检测,记录找到平台的
+航行时间和航行路程,并计算平均值作为大鼠的学习
+记忆成绩。 在空间探索实验中,于定位航行实验结束
+的次日,撤去平台,将大鼠于原平台所在象限的对侧入
+水,记录 120 s 内实验动物在目标象限内的时间和穿
+越平台的次数[9-10]。
+4. BrdU 标记和免疫荧光组织化学:BrdU 溶液以
+100 mg / kg 体重腹腔注射,每天 1 次连续 3 d,最后一次
+注射后 2 h,大鼠乙醚麻醉后用 4% 多聚甲醛心脏灌
+流,处死大鼠后取出脑组织,以冰冻包埋剂包埋,切制
+10 滋m 的冰冻切片。 4% 多聚甲醛固定 30 min,0. 3%
+曲拉通 X-100 透化 20 min,3%牛血清白蛋白溶液封闭
+1 h,一抗 4℃孵育过夜,所用一抗如下:兔抗 NeuN 单
+克隆抗 体 ( 1 : 500 ), 小 鼠 抗 BrdU 单 克 隆 抗 体
+(1 : 500)。 次日加入与一抗种属特异性的二抗室温
+孵育 1 h,所用二抗如下:FITC 标记的山羊抗兔多克隆
+抗体 (1 : 400), Cy3 标记的驴抗小鼠多克隆抗体
+(1 : 200)。 DAPI 室温避光孵育 5 min,以抗荧光淬灭
+封片剂封片。 于荧光显微镜下观察、摄片。 每组 3 只
+大鼠取脑,每只大鼠选取 6 张切片标本,以 Image J 软
+件对照片中 BrdU 阳性细胞进行计数。
+5. Western 印迹:取出海马组织匀浆后加入裂解
+液冰上裂解,沸水变性,检测蛋白浓度。 蛋白样品经
+SDS-PAGE 胶电泳分离,转膜到 PVDF 膜,5% 脱脂奶
+粉液封闭 1 h,加入一抗 4℃孵育过夜,所用一抗如下:
+兔抗 BDNF 单克隆抗体,小鼠抗 CREB 单克隆抗体,兔
+抗磷酸化 CREB 单克隆抗体。 次日以 TBST 洗 3 次,加
+入与一抗种属特异性二抗室温孵育 2h,TBST 洗 3 次,
+将 ECL 发光液均匀滴加在膜上,进入凝胶成像系统曝
+光显影。
+三、 统计学处理
+采用 SPSS 软件进行统计学分析,实验数据均以
+x-± s 表示,多组间比较采用 one-way ANOVA 分析,各组
+间的两两比较采用 Bonferroni忆s 检验,P<0. 05 为差异
+有统计学意义。
+结    果
+一、 姜黄素降低糖尿病大鼠血糖、升高血清胰岛
+素水平
+与正常对照组比较,糖尿病组大鼠血糖水平显著
+升高(P<0. 01,表 1)、血清胰岛素水平显著下降(P<
+0. 01);与糖尿病组比较,高剂量姜黄素治疗 12 周的
+大鼠 FPG 显著下降(P<0. 05),低、中、高剂量姜黄素
+治疗大鼠的 FINS 均明显升高(均 P<0. 05,表 1),表明
+姜黄素可以有效控制糖尿病。 在后续实验中以姜黄素
+60 mg / kg 剂量观察其对糖尿病引起的空间学习记忆
+障碍是否有治疗作用。
+二、 姜黄素改善 STZ 诱导的糖尿病大鼠空间记忆
+表 1  各组空腹血糖和胰岛素水平的比较(x-± s)
+Tab 1 Comparison of fasting plasma glucose and insulin levels among
+various groups (x-± s)
+组别
+Group
+鼠数
+n
+FPG
+(mmol / L)
+FINS
+(mU / L)
+0 Week 12 Weeks 0 Week 12 Weeks
+NC 8 5. 21 ±0. 84 5. 76 ±0. 93 12. 89 ±3. 12 13. 52 ±2. 54
+DM 6 25. 64 ±3. 25a 29. 81 ±4. 22a 7. 65 ±1. 35a 5. 37 ±1. 83a
+NC-Cur 8 5. 97 ±0. 89 5. 82 ±0. 74 11. 75 ±2. 76 13. 12 ±3. 67
+L-Cur 8 25. 27 ±2. 55a 27. 45 ±2. 07a 7. 78 ±2. 77a 8. 12 ±2. 54ab
+M-Cur 8 23. 74 ±2. 58a 28. 13 ±3. 22a 7. 15 ±2. 69a 8. 23 ±1. 71ab
+H-Cur 8 26. 43 ±3. 91a 25. 73 ±3. 62ab 7. 83 ±2. 39a 11. 98 ±2. 94b
+注:FPG:空腹血糖 Fasting plasma glucose;FINS:空腹胰岛素 Fasting
+insulin;NC:正常对照组 Normal control group; DM:糖尿病组 Diabetes
+mellitus group;NC-Cur:正常姜黄素组 Normal curcumin group;L-Cur:低剂
+量姜黄素组 Low-dosage curcumin group; M-Cur:中剂量姜黄素组 Middle-
+dosage curcumin group; H-Cur:高剂量姜黄素组 High-dosage curcumin
+group;Week:周;与 NC 组比较 vs NC group,a P<0. 05;与 DM 组比较 vs
+DM group, bP<0. 05
+障碍
+定位航行实验中,随着训练天数的增加,糖尿病组
+大鼠的逃≥时间和航行距离逐渐进入平台期,而姜黄
+素组的指标逐渐减小。 第 5 天检测结果表明,与正常
+对照组比较,糖尿病组的逃≥时间和航行距离延长
+(均 P<0. 01,图 1),而姜黄素组的逃≥时间和航行距
+离缩短(均 P<0. 05,图 1)。 空间探索实验结果显示,
+与正常对照组比较,糖尿病组大鼠在目标象限内的时
+间(P<0. 01,图 1C)和穿越平台的次数减少(P<0. 01,
+图 1D),而姜黄素治疗后延长了大鼠在目标象限的时
+间(P <0. 05,图 1C)和增加其穿越平台的次数(P <
+0. 05,图 1D)。 以上水迷宫实验结果表明,姜黄素可以
+改善糖尿病引起的空间学习记忆障碍。
+三、 姜黄素促进大鼠海马区神经发生
+BrdU 掺入和免疫荧光染色检测海马齿状回颗粒
+下层细胞的增殖情况。 如图 2A 所示,NeuN(绿色)标
+记齿状回颗粒细胞的细胞核,BrdU(红色)标记正在增
+殖的细胞核。 正常对照组齿状回 BrdU 阳性细胞(白
+色箭头所示)较多,糖尿病组只有少数 BrdU 阳性细
+胞,姜黄素组的海马齿状回细胞增殖情况有所改善。
+定量分析结果表明,与正常对照组比较,糖尿病组 BrdU
+阳性细胞占齿状回细胞的比例显著下降(P<0. 01),而
+注:略语同表 1 The abbreviations are the same as Tab 1; 与 NC 组比较 vs NC group, aP<0. 05,bP<0. 01;与 DM 组比较 vs DM group, cP<0. 05
+图 1  姜黄素改善大鼠糖尿病空间认知障碍
+Fig 1  Curcumin treatment improved the performance in Morris water maze of diabetic rats
+注:略语同表 1 The abbreviations are the same as Tab 1; 与 NC 组比较 vs NC group,aP<0. 01;与 DM 组比较 vs DM group,bP<0. 01
+图 2  姜黄素促进大鼠海马齿状回神经发生
+Fig 2  Curcumin promotes neurogenesis in the adult hippocampus of diabetic rats
+注:BDNF: 脑源性神经营养因子 Brain derived neurotrophic factor;
+CREB: 环磷腺苷反应元件结合蛋白 cAMP responsive element-binding
+protein; pCREB:磷酸化的 CREB Phosphorylated CREB;余略语同表 1 The
+other abbreviations are the same as Tab 1; 与 NC 组比较 vs NC group, aP<
+0. 01;与 DM 组比较 vs DM group,bP<0. 05
+图 3  姜黄素对海马区 BDNF 蛋白表达和 CREB 磷酸化水平的影响
+Fig 3  Effects of curcumin treatment on BDNF protein expression and CREB
+phosphorylation levels in hippocampus
+姜黄素组显著增加了 BrdU 阳性细胞比例(P<0. 01 图
+2B),表明姜黄素通过促进海马区神经发生改善糖尿
+病大鼠的学习记忆障碍。
+四、 姜黄素上调海马区 BDNF 的蛋白表达和
+CREB 磷酸化
+Western 印迹结果显示,糖尿病组海马区 BDNF 蛋
+白水平低于正常对照组(P<0. 01),而姜黄素提高了海
+马区 BDNF 表达水平(P<0. 05);糖尿病组大鼠海马区
+的 CREB 水平低于正常对照组(P<0. 01),姜黄素增加
+CREB 的表达无统计学意义(P>0. 05);与正常对照组
+比较,糖尿病组 CREB 的磷酸化水平降低(P<0. 01),姜
+黄素则升高 CREB 磷酸化水平(P<0. 05,图 3)。 以上
+结果揭示了姜黄素干预通过提高 CREB 磷酸化水平来
+调控神经发生。
+讨    论
+姜黄素是一种多羟基化合物,有良好的抗氧化和
+抗炎活性。 最近的研究表明,姜黄素对高糖诱导的人
+单核细胞释放炎症因子诱导的炎症有显著抑制作用,
+该抗炎作用通过降低组蛋白乙酰转移酶活性、上调组
+蛋白脱乙酰酶 2 来实现对组蛋白乙酰化的抑制,从而
+下调炎症相关转录因子 NF-κB[11]。 糖尿病正是以高
+血糖状态为表征的代谢性疾病,糖尿病对中枢神经系
+统的损伤日益受到关注,普遍认为糖尿病与认知功能
+障碍有显著的相关性,临床表现为认知功能障碍、痴
+呆、精神性疾患等慢性脑病症状,且其发病隐匿、进展
+缓慢。 1963 年 Reske-Nielsen 等[12]提出了 DE 的概念,
+即糖尿病的中枢神经系统并发症,它表现为大脑神经
+生理形态学等方面的病理性改变以及认知行为学上的
+缺陷。 本研究验证了 DE 的认知障碍表现,STZ 诱导
+的糖尿病大鼠在 12 周之后的 Morris 水迷宫实验中出
+现了空间学习记忆障碍;与糖尿病组比较,姜黄素治疗
+的大鼠显著缩短了寻找隐藏平台的时间和路程,并且
+增加了在目标象限内的时间和穿越平台的次数,表明
+姜黄素可以改善大鼠由糖尿病引起的空间学习记忆障
+碍。 同时,本研究结果表明姜黄素还降低了糖尿病大
+鼠的血糖水平,与已有报道一致[13],DE 本身是继发于
+高血糖的一种糖尿病并发症,因此,姜黄素对高血糖的
+改善也是其改善认知障碍的原因之一。
+海马是中枢神经系统内构成记忆回路的重要结
+构,在学习、记忆和内脏活动中发挥重要作用。 海马齿
+状回颗粒下层的神经发生与学习记忆密切相关,颗粒
+下层的成年神经发生通过向齿状回颗粒细胞层补充新
+的神经元是神经回路可塑性的关键环节,也是短期记
+忆形成的物质保证[14]。 本研究结果显示,与糖尿病组
+比较,姜黄素增加了海马齿状回颗粒下层中 BrdU 阳
+性细胞的比例,表明姜黄素促进海马区神经发生也许
+是其改善糖尿病大鼠的学习记忆障碍的机制之一。
+CREB 是一种核转录因子,其 133 位的丝氨酸可
+被多种信号通路磷酸化而激活。 CREB 被激活的过程
+被认为是海马 NSCs 产生新的神经元和促 NSCs、新生
+神经元存活的机制之一[15]。 BDNF 是 CREB 下游基因
+之一,可以被激活的 CREB 转录,同时 BDNF 又可以进
+一步促进 CREB 的激活促进其下游基因转录[16]。
+BDNF 对新生海马 NSCs 增殖有显著促进作用,并且可
+以促进神经前体细胞的分化、成熟[17]。 本研究结果显
+示,姜黄素增强 CREB 磷酸化水平,并且上调海马区
+BDNF 表达水平。 此外,姜黄素还提高糖尿病大鼠血
+清胰岛素水平,Vettorazzi 等[18]报道的结果表明胰岛内
+胰岛素的释放受 CREB 通路激活的调控,相反,有研
+究[19]报道胰岛素抵抗诱导的高血糖抑制 CREB 通路
+从而损伤海马神经元。 提示姜黄素可能通过提高胰岛
+素水平上调 BDNF / CREB 通路是其增强海马区神经发
+生的潜在机制之一。
+综上所述,姜黄素通过上调 BDNF / CREB 通路促
+进大脑海马齿状回颗粒下层的神经发生,从而改善 DE
+大鼠的空间认知障碍。 姜黄素作为一种来源广泛的天
+然产物,临床用于治疗 DE 有着广阔前景。

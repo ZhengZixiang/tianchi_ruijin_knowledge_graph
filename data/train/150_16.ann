@@ -1,0 +1,262 @@
+T1	Test 1073 1078	HBA1C
+T2	Test 1220 1229	高密度脂蛋白胆固醇
+T3	Test 1270 1279	低密度脂蛋白胆固醇
+T4	Test 1137 1141	总胆固醇
+T5	Test 836 840	体重指数
+T6	Test 2278 2283	甲状腺功能
+T7	Test 2331 2336	甲状腺功能
+T8	Test 3316 3321	甲状腺功能
+T9	Test 1483 1486	TSH
+T10	Test 1442 1445	FT4
+T11	Test 841 844	BMI
+T12	Test 1401 1404	FT3
+T13	Test 814 816	身高
+T14	Test 2865 2867	身高
+T15	Test 824 826	体重
+T16	Test 2875 2877	体重
+T17	Test 1564 1571;1572 1575	甲状腺过氧化物 酶抗体
+T18	Test 1578 1583	TPOAb
+T19	Test 1320 1323	TT4
+T20	Disease 23 31	Graves 病
+T21	Disease 451 459	Graves 病
+T22	Disease 483 491	Graves 病
+T23	Disease 3161 3169	Graves 病
+T24	Disease 3184 3192	Graves 病
+T25	Drug 585 589	甲巯咪唑
+T26	Test 1771 1774	FSH
+T27	Test 1359 1362	TT3
+T28	Test 3341 3348	甲状腺激素水平
+T29	Disease 5 20	Klinefelter 综合征
+T30	Disease 364 379	Klinefelter 综合征
+T31	Disease 382 385	克氏征
+T32	Disease 389 397;398 402	先天性睾丸发育不 良综合征
+T33	Disease 424 426;427 428	克氏 征
+T34	Disease 445 448	克氏征
+T35	Disease 477 480	克氏征
+T36	Symptom 515 519	反复心悸
+T37	Symptom 520 524	怕热多汗
+T38	Symptom 553 557	怕热多汗
+T39	Symptom 558 560	心悸
+T40	Symptom 561 563	消瘦
+T41	Disease 569 577	甲状腺功能亢进症
+T42	Disease 578 580	甲亢
+T43	Symptom 645 647	心悸
+T44	Symptom 648 650	手抖
+T45	Symptom 651 655	怕热多汗
+T46	Duration 666 670	14 年
+T47	Test 740 742	体温
+T48	Test_Value 743 746	36℃
+T49	Test 747 749	脉搏
+T50	Test_Value 750 753;754 761	130 次 / min
+T51	Test 762 764	呼吸
+T52	Test_Value 765 775	22 次 / min
+T53	Test 776 778	血压
+T54	Test_Value 779 792	150 / 95 mmHg
+T55	Test_Value 817 823	190 cm
+T56	Test_Value 827 835	55. 5 kg
+T57	Test_Value 845 859	15. 37 kg / m2
+T58	Symptom 861 865	皮肤细腻
+T59	Symptom 870 873	无胡须
+T60	Symptom 874 879	喉结不明显
+T61	Symptom 880 884	声音偏细
+T62	Symptom 885 890;891 893	甲状腺3度 肿大
+T63	Symptom 900 905	未触及结节
+T64	Symptom 906 913	双侧胸廓无畸形
+T65	Symptom 914 920;921 922	双侧乳房无增 大
+T66	Symptom 923 927	呼吸音粗
+T67	Symptom 928 935	未闻及干湿啰音
+T68	Symptom 936 941	心界无扩大
+T69	Symptom 942 944	律齐
+T70	Symptom 945 950;951 955	各瓣膜区未 闻及杂音
+T71	Symptom 956 958	腹软
+T72	Symptom 959 962	无压痛
+T73	Symptom 963 969	肝脾肋下未及
+T74	Symptom 970 977	脊柱四肢无畸形
+T75	Symptom 978 980;981 983	活动 自如
+T76	Symptom 984 989	腋毛阴毛少
+T77	Symptom 990 997	阴毛分布女性化
+T78	Test 1019 1023	阴茎长度
+T79	Test_Value 1024 1036	4 cm×1. 5 cm
+T80	Symptom 1037 1040	阴囊小
+T81	Test 1041 1045	双侧睾丸
+T82	Disease 406 414	性染色体畸变疾病
+T83	Duration 534 535;536 538	1 个月
+T84	Duration 546 551	10 年前
+T85	Method 590 592	口服
+T86	Duration 633 637	1 个月
+T87	Test_Value 1046 1054	3 ~ 4 ml
+T88	Symptom 1055 1058	略偏韧
+T89	Test_Value 1069 1071	正常
+T90	Test_Value 1079 1084	5. 2%
+T91	Test 1086 1091	空腹葡萄糖
+T92	Test_Value 1092 1096;1097 1105	5. 5 mmol / L
+T93	Test_Value 1112 1132	3. 9 ~ 6. 1 mmol / L
+T94	Test_Value 1142 1147;1148 1156	3. 36 mmol / L
+T95	Test_Value 1159 1174	< 5. 2 mmol / L
+T96	Test 1178 1185	甘 油 三 酯
+T97	Test_Value 1186 1200	0. 72 mmol / L
+T98	Test_Value 1203 1209;1210 1218	< 1. 7 mmol / L
+T99	Test_Value 1230 1244	1. 33 mmol / L
+T100	Test_Value 1247 1259;1260 1268	0. 9 ~ 1. 68 mmol / L
+T101	Test_Value 1280 1294	1. 54 mmol / L
+T102	Test_Value 1297 1309;1310 1318	0. 1 ~ 3. 35 mmol / L
+T103	Test_Value 1324 1339	311. 9 nmol / L
+T104	Test_Value 1340 1357	54 ~ 174 nmol / L
+T105	Test_Value 1363 1377	6. 35 nmol / L
+T106	Test_Value 1379 1399	1. 2 ~ 3. 4 nmol / L
+T107	Test_Value 1405 1419	20. 9 pmol / L
+T108	Test_Value 1420 1440	3. 5 ~ 6. 5 pmol / L
+T109	Test_Value 1446 1461	51. 89 pmol / L
+T110	Test_Value 1462 1481	10. 2 ~ 31 pmol / L
+T111	Test_Value 1487 1500	0. 006 mU / L
+T112	Test_Value 1501 1513;1514 1520	0. 35 ~ 5. 5 mU / L
+T113	Test 1522 1526	γ-T3
+T114	Test_Value 1527 1540	2. 42 ng / ml
+T115	Test_Value 1541 1562	0. 16 ~ 0. 95 ng / ml
+T116	Test_Value 1585 1598	> 340 IU / ml
+T117	Test_Value 1601 1613	< 40 IU / ml
+T118	Test 1626 1630	TRAb
+T119	Test_Value 1632 1654	>40 (0 ~ 1. 75 IU / l)
+T120	Test 1655 1658	雌二醇
+T121	Test_Value 1659 1673	76. 6 pmol / L
+T122	Test_Value 1674 1682;1683 1691	28 ~ 156 pmol / L
+T123	Test 1693 1695	睾酮
+T124	Test_Value 1696 1709	1. 0 nmol / L
+T125	Test_Value 1710 1728	9. 9 ~ 27 nmol / L
+T126	Test 1730 1732	孕酮
+T127	Test_Value 1733 1747	0. 84 nmol / L
+T128	Test_Value 1749 1769	0. 7 ~ 4. 3 nmol / L
+T129	Test_Value 1775 1788	25. 08 IU / L
+T130	Test_Value 1789 1808	1. 5 ~ 12. 4 IU / L
+T131	Test 1810 1812	LH
+T132	Test_Value 1813 1826	19. 45 IU / L
+T133	Test_Value 1828 1846	1. 7 ~ 8. 6 IU / L
+T134	Test 1848 1851	催乳素
+T135	Test_Value 1852 1863	279 mIU / L
+T136	Test_Value 1865 1873;1874 1881	86 ~ 324 mIU / L
+T137	Test 1883 1885	GH
+T138	Test_Value 1886 1898	0. 9 ng / ml
+T139	Test_Value 1899 1910	<10 ng / ml
+T140	Disease 2382 2397	Klinefelter 综合征
+T141	Disease 2399 2402	克氏征
+T142	Test 1913 1916	摄碘率
+T143	Test_Value 1917 1927	2 h 53. 3%
+T144	Test_Value 1929 1933;1934 1940	24 h 64. 1%
+T145	Test 1942 1947	甲状腺超声
+T146	Anatomy 1948 1950	右叶
+T147	Test_Value 1951 1968	30 mm×29 mm×78 mm
+T148	Anatomy 1969 1971	左叶
+T149	Test_Value 1972 1978;1979 1991	29 mm× 28 mm× 73 mm
+T150	Anatomy 1992 1994	峡部
+T151	Test_Value 1995 1999	9 mm
+T152	Test 2001 2005	睾丸超声
+T153	Anatomy 2006 2010	右侧睾丸
+T154	Anatomy 2031 2035	左侧睾丸
+T155	Anatomy 2056 2060	附睾左侧
+T156	Anatomy 2083 2087	附睾右侧
+T157	Anatomy 2114 2120	右侧精索静脉
+T158	Anatomy 2130 2136	左侧精索静脉
+T159	Test_Value 2011 2018;2019 2030	28 mm × 13 mm×18 mm
+T160	Test_Value 2036 2055	26 mm× 14 mm× 17 mm
+T161	Test_Value 2061 2070	7 mm×8 mm
+T162	Test_Value 2071 2082	尾 4 mm×5 mm
+T163	Test_Value 2088 2100	7 mm×6. 6 mm
+T164	Test_Value 2101 2108;2109 2113	尾 5 mm× 5 mm
+T165	Test_Value 2122 2129	1. 8 mm
+T166	Test_Value 2138 2145	1. 7 mm
+T167	Test 2147 2149;2150 2153	染色 体检查
+T168	Test_Value 2154 2160	47,XXY
+T169	Amount 2216 2220	较大剂量
+T170	Drug 2220 2221;2222 2232	同 位素(11 mGi)
+T171	Disease 2234 2236	甲亢
+T172	Drug 2241 2245	睾酮制剂
+T173	Drug 2246 2249	安特尔
+T174	Amount 2250 2255	40 mg
+T175	Frequency 2256 2259	bid
+T176	Symptom 2263 2265	心悸
+T177	Duration 2273 2277	2 个月
+T178	Treatment 2284 2288;2289 2290	同位素治 疗
+T179	Drug 2300 2302	赛治
+T180	Amount 2303 2308	10 mg
+T181	Frequency 2309 2312	bid
+T182	Duration 2316 2320	2 个月
+T183	Test_Value 2339 2343	接近正常
+T184	Anatomy 2498 2504	睾丸曲细精管
+T185	Disease 2534 2537	克氏征
+T186	Symptom 2557 2562	睾丸容积小
+T187	Disease 2563 2566	克氏征
+T188	Anatomy 2578 2580	睾酮
+T189	Symptom 2581 2583;2584 2590	第二 性征发育不良
+T190	Symptom 2594 2598	皮肤细腻
+T191	Symptom 2599 2603	肌肉松弛
+T192	Symptom 2604 2610	无 /少胡须
+T193	Symptom 2611 2613;2614 2615	体毛 稀
+T194	Symptom 2616 2621	喉结不明显
+T195	Symptom 2622 2626	乳腺发育
+T196	Symptom 2627 2631	阴茎短小
+T197	Disease 2647 2651	智力低下
+T198	Disease 2652 2656	先天畸形
+T199	Disease 2657 2660	先心病
+T200	Disease 2661 2666	支气管扩张
+T201	Disease 2667 2671	内脏反位
+T202	Disease 2675 2678	畸胎瘤
+T203	Disease 2679 2682	糖尿病
+T204	Disease 2691 2696	自身免疫病
+T205	Disease 2697 2701	精神障碍
+T206	Disease 2705 2708	克氏征
+T207	Disease 2738 2743	甲状腺腺瘤
+T208	Disease 2745 2748	克氏征
+T209	Disease 2750 2752	甲亢
+T210	Test_Value 2868 2874	193 cm
+T211	Test_Value 2878 2886	54. 9 kg
+T212	Symptom 2888 2890	胸闷
+T213	Disease 2895 2897	甲亢
+T214	Disease 2986 2992	生殖细胞肿瘤
+T215	Disease 2996 2999	克氏征
+T216	Disease 3000 3002	甲亢
+T217	Disease 3023 3026	克氏征
+T218	Disease 3028 3030	甲亢
+T219	Disease 3087 3090	克氏征
+T220	Disease 3092 3094	甲亢
+T221	Level 3105 3107	轻度
+T222	Symptom 3107 3109	胸闷
+T223	Symptom 3114 3119	高代谢症状
+T224	Symptom 3133 3138	甲状腺肿大
+T225	Test 3139 3141;3142 3143	摄碘 率
+T226	Test_Value 3143 3147	明显升高
+T227	Test 3148 3155	TRAb 滴度
+T228	Test_Value 3155 3157	升高
+T229	Disease 3180 3182	哮喘
+T230	Disease 3197 3204	自身免疫性疾病
+T231	Test_Value 3209 3210	低
+T232	Test 3210 3211;3212 3215	睾 酮水平
+T233	Disease 3225 3228	克氏征
+T234	Disease 3230 3232	甲亢
+T235	Amount 3286 3290	较大剂量
+T236	Drug 3290 3301	同位素(11 mGi)
+T237	Disease 3304 3306	甲亢
+T238	Duration 3311 3315	2 个月
+T239	Test_Value 3349 3353	明显下降
+T240	Test_Value 3323 3327	较高水平
+T241	Disease 3355 3358	克氏征
+T242	Disease 3361 3363	甲亢
+T243	Treatment 3366 3371	同位素治疗
+T244	Drug 3394 3397	雄激素
+T245	Drug 3427 3430	雄激素
+T246	Treatment 3444 3445;3446 3454	显 微睾丸精子抽提术
+T247	Treatment 3531 3535	人工授精
+T248	Disease 3543 3546	克氏征
+T249	Disease 3559 3562	克氏征
+T250	Disease 3582 3584	甲亢
+T251	Disease 3576 3579	克氏征
+T252	Test 1065 1069	肝肾功能
+T253	Disease 2683 2690	甲状腺功能异常
+T254	Test 1616 1624	TSH 受体抗体
+T255	Disease 2710 2715	甲状腺疾病
+T256	Disease 3125 3130	甲状腺毒症
+T257	Duration 525 530	10 年余
+T258	Disease 661 663	哮喘
+T259	Disease 686 689;690 694	外生殖 器不发育
+T260	Symptom 866 869	无突眼
+T261	Symptom 894 899	软、无触痛
+T262	Symptom 998 1016;1017 1018	外生殖器 Tanner 2 期 G2 期

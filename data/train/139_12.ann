@@ -1,0 +1,316 @@
+T1	Disease 22 28	2 型糖尿病
+T2	Disease 103 109	2 型糖尿病
+T3	Disease 127 133	2 型糖尿病
+T4	Disease 1537 1543	2 型糖尿病
+T5	Disease 1693 1699	2 型糖尿病
+T6	Disease 2672 2678	2 型糖尿病
+T7	Disease 3640 3646	2 型糖尿病
+T8	Disease 3660 3666	2 型糖尿病
+T9	Disease 3835 3841	2 型糖尿病
+T10	Disease 3901 3907	2 型糖尿病
+T11	Disease 4003 4009	2 型糖尿病
+T12	Disease 4075 4081	2 型糖尿病
+T13	Disease 4715 4721	2 型糖尿病
+T14	Disease 4950 4956	2 型糖尿病
+T15	Disease 5301 5305;5306 5308	2 型糖 尿病
+T16	Disease 6046 6050;6051 6053	2 型糖 尿病
+T17	Disease 6072 6078	2 型糖尿病
+T18	Disease 6516 6522	2 型糖尿病
+T19	Disease 6564 6568;6569 6571	2 型糖 尿病
+T20	Disease 6635 6638;6639 6642	2 型 糖尿病
+T21	Disease 6658 6664	2 型糖尿病
+T22	Disease 272 273;274 278	2 型糖尿病
+T23	Disease 2654 2655;2656 2660	2 型糖尿病
+T24	Disease 1546 1551	糖尿病肾病
+T25	Disease 1764 1765;1766 1770	糖 尿病肾病
+T26	Test 1907 1912	HBA1C
+T27	Test 3191 3196	HBA1C
+T28	Test 1942 1947	HDL-C
+T29	Test 3231 3236	HDL-C
+T30	Test 3715 3720	HDL-C
+T31	Test 6260 6265	HDL-C
+T32	Test 1959 1964	LDL-C
+T33	Test 3249 3254	LDL-C
+T34	Test 3732 3737	LDL-C
+T35	Test 4349 4354	LDL-C
+T36	Test 4437 4442	LDL-C
+T37	Test 4529 4534	LDL-C
+T38	Test 6190 6195	LDL-C
+T39	Test 6246 6251	LDL-C
+T40	Test 6327 6332	LDL-C
+T41	Test 6432 6437	LDL-C
+T42	Test 1918 1920	TC
+T43	Test 3202 3204	TC
+T44	Test 3696 3698	TC
+T45	Test 6185 6187	TC
+T46	Test 1927 1929	TG
+T47	Test 3216 3218	TG
+T48	Test 3705 3707	TG
+T49	Test 3867 3869	TG
+T50	Test 4796 4798	TG
+T51	Test 5132 5134	TG
+T52	Test 5188 5190	TG
+T53	Test 6210 6212	TG
+T54	Test 6252 6254	TG
+T55	Disease 28 34	大血管并发症
+T56	Disease 109 115	大血管并发症
+T57	Disease 136 143	颈动脉粥样硬化
+T58	Disease 280 286	大血管并发症
+T59	Disease 311 317	动脉粥样硬化
+T60	Disease 1298 1304	动脉粥样硬化
+T61	Test 1453 1461	Angptl 2
+T62	Test_Value 1466 1468	升高
+T63	Test 1491 1499	Angptl 2
+T64	Disease 1581 1584	糖尿病
+T65	Disease 1615 1623	糖尿病大血管病变
+T66	Disease 1730 1735	活动性感染
+T67	Disease 1737 1741	恶性肿瘤
+T68	Disease 1742 1746	心力衰竭
+T69	Disease 1747 1759	冠状动脉粥样硬化性心脏病
+T70	Disease 1760 1763	脑梗塞
+T71	Test 1813 1815	身高
+T72	Test 1816 1818	体重
+T73	Test 1819 1821	血压
+T74	Disease 1822 1825	糖尿病
+T75	Test 1913 1917	总胆固醇
+T76	Test 1922 1926	甘油三酯
+T77	Test 1932 1941	高密度脂蛋白胆固醇
+T78	Test 1949 1958	低密度脂蛋白胆固醇
+T79	Disease 1972 1979	颈动脉粥样硬化
+T80	Test 1982 1990	高频 B 型超声
+T81	Anatomy 2000 2004	颈动脉壁
+T82	Test 2054 2057	IMT
+T83	Test 2077 2080	IMT
+T84	Disease 2111 2118	颈动脉粥样硬化
+T85	Disease 2150 2157	颈动脉粥样硬化
+T86	Test 2163 2174	血清 Angptl 2
+T87	Test 2179 2193	血清 Angptl 2 浓度
+T88	Disease 2539 2542	糖尿病
+T89	Disease 2545 2552	颈动脉粥样硬化
+T90	Disease 2661 2668	颈动脉粥样硬化
+T91	Disease 2680 2684;2685 2688	颈动脉粥 样硬化
+T92	Test 2691 2694	BMI
+T93	Test 2696 2698	腰围
+T94	Test 2778 2780	体重
+T95	Test 2794 2797	收缩压
+T96	Test 2805 2808	舒张压
+T97	Test 2816 2820	体重指数
+T98	Test 2831 2833	腰围
+T99	Disease 3647 3654	颈动脉粥样硬化
+T100	Disease 3668 3675	颈动脉粥样硬化
+T101	Test 3699 3703	总胆固醇
+T102	Test 3708 3711;3712 3713	甘油三 酯
+T103	Test 3721 3730	高密度脂蛋白胆固醇
+T104	Test 3738 3747	低密度脂蛋白胆固醇
+T105	Test 3749 3757	Angptl 2
+T106	Disease 3829 3833	粥样硬化
+T107	Disease 3847 3854	颈动脉粥样硬化
+T108	Test 3861 3863	体重
+T109	Disease 4012 4014;4015 4020	颈动 脉粥样硬化
+T110	Disease 4024 4031	颈动脉粥样硬化
+T111	Test 4083 4097	血清 Angptl 2 浓度
+T112	Test 4098 4100	腰围
+T113	Test 4101 4105	体重指数
+T114	Test 4234 4245	血清 Angptl 2
+T115	Test 4298 4301	BMI
+T116	Test 4325 4327	腰围
+T117	Test 4412 4414	腰围
+T118	Disease 4470 4476	动脉粥样硬化
+T119	Test 4515 4526	血清 Angptl 2
+T120	Disease 4564 4567	糖尿病
+T121	Test 4572 4583	血清 Angptl 2
+T122	Test 4585 4587	腰围
+T123	Test 4608 4611	BMI
+T124	Test 4657 4659	腰围
+T125	Test 4661 4669	Angptl 2
+T126	Disease 4729 4731;4732 4737	颈动 脉粥样硬化
+T127	Disease 4739 4746	颈动脉粥样硬化
+T128	Disease 4754 4761	颈动脉粥样硬化
+T129	Test 4776 4784	Angptl 2
+T130	Test 4786 4788	体重
+T131	Test 4789 4792	BMI
+T132	Test 4793 4795	腰围
+T133	Test 4826 4837	血清 Angptl 2
+T134	Disease 4866 4873	颈动脉粥样硬化
+T135	Disease 4917 4924	颈动脉粥样硬化
+T136	Test 5034 5036	体重
+T137	Test 5066 5070	体重指数
+T138	Test 5100 5102	腰围
+T139	Test 5191 5195	甘油三酯
+T140	Disease 5290 5292	AS
+T141	Disease 5312 5320	心脑血管终点事件
+T142	Anatomy 5343 5347	内皮细胞
+T143	Anatomy 5358 5359	心
+T144	Anatomy 5360 5364	脂肪组织
+T145	Anatomy 5366 5367	肺
+T146	Anatomy 5368 5369	肾
+T147	Anatomy 5370 5373	骨骼肌
+T148	Reason 5384 5386	低氧
+T149	Disease 5425 5430;5431 5432	动脉粥样硬 化
+T150	Disease 5454 5458	血管炎症
+T151	Anatomy 5474 5477	血管壁
+T152	Disease 5748 5752	慢性炎症
+T153	Disease 5838 5844	动脉粥样硬化
+T154	Disease 5851 5857	动脉粥样硬化
+T155	Disease 5880 5886	动脉粥样硬化
+T156	Disease 5923 5926	冠心病
+T157	Test 5934 5942	Angptl 2
+T158	Test 5975 5983	Angptl 2
+T159	Disease 5985 5986;5987 5989	糖 尿病
+T160	Disease 5990 5995	颈动脉硬化
+T161	Disease 6016 6022	动脉粥样硬化
+T162	Disease 6225 6231	动脉粥样硬化
+T163	Disease 6275 6281	动脉粥样硬化
+T164	Disease 6292 6298	动脉粥样硬化
+T165	Disease 6343 6350	颈动脉粥样硬化
+T166	Reason 6380 6383	高血压
+T167	Test 6428 6430	腰围
+T168	Disease 6447 6450	糖尿病
+T169	Test 6454 6462	Angptl 2
+T170	Test 6470 6472	腰围
+T171	Disease 6522 6528	大血管并发症
+T172	Disease 6601 6602;6603 6608	动 脉粥样硬化
+T173	Test 6621 6629	Angptl 2
+T174	Disease 6642 6648	大血管并发症
+T175	Disease 6664 6668;6669 6671	大血管并 发症
+T176	Test 1875 1877	腰围
+T177	Disease 4958 4965	颈动脉粥样硬化
+T178	Disease 1321 1323	AS
+T179	Disease 5242 5244	AS
+T180	Test_Value 6256 6258	降低
+T181	Test_Value 6242 6244	升高
+T182	Test_Value 6473 6474;6475 6476	增 加
+T183	Anatomy 145 147	血清
+T184	Disease 301 309	糖尿病, 2 型
+T185	Test 319 329	血管生成素样蛋白 2
+T186	Anatomy 1484 1486	血浆
+T187	Anatomy 1488 1490	血清
+T188	Anatomy 1899 1901	血清
+T189	Test 3266 3274	Angptl 2
+T190	Test 3758 3768	血管生成素样蛋白 2
+T191	Anatomy 3864 3866	血清
+T192	Test 4490 4493	BMI
+T193	Test 5167 5186	Angptl 2:血管生成素样蛋白 2
+T194	Anatomy 5350 5351	血
+T195	Symptom 5622 5628	炎症级联反应
+T196	Disease 6080 6086	大血管并发症
+T197	Disease 6162 6164	炎症
+T198	Anatomy 6324 6326	血清
+T199	Anatomy 6384 6387	心血管
+T200	Reason 6507 6509;6510 6512	代谢 紊乱
+T201	Disease 6571 6577	大血管并发症
+T202	Test 6587 6590	BMI
+T203	Test 5699 5703	TLR4
+T204	Test 148 156	Angptl 2
+T205	Anatomy 1888 1889	脐
+T206	Test_Value 2080 2088	≥1. 0 mm
+T207	Test_Value 3934 3962	2. 70(1. 20 ~ 4. 21) ng / ml
+T208	Test_Value 3965 3992	0. 98(0. 82 ~ 1. 22)ng / ml
+T209	Test_Value 4120 4147	1. 17(0. 76 ~ 2. 47)ng / ml
+T210	Test_Value 4149 4162;4163 4176	3. 70(2. 69 ~ 4. 85)ng / ml
+T211	Test_Value 4179 4205	0. 98(0. 82 ~ 1. 22)ng / m
+T212	Test 4486 4487;4488 4489	病 程
+T213	Reason 4907 4915	Angptl 2
+T214	Anatomy 5635 5641;5642 5643	Angptl 2
+T215	Anatomy 5666 5676	Toll 样受体 4
+T216	Anatomy 5866 5874	Angptl 2
+T217	Test_Value 166 179;180 186	0. 98(0. 82 ~ 1. 22)
+T218	Test_Value 187 207	3. 70(2. 69 ~ 4. 85)
+T219	Test_Value 208 235	1. 17(0. 76 ~ 2. 47)ng / ml
+T220	Test_Value 1503 1507	显著高于
+T221	Test_Value 3858 3860	更高
+T222	Test_Value 3924 3928	明显高于
+T223	Test_Value 4117 4119	升高
+T224	Test_Value 5998 6000	升高
+T225	Test_Value 6179 6181	升高
+T226	Test_Value 6335 6337	升高
+T227	Test_Value 6477 6479	升高
+T228	Test 4501 4506	LDL-C
+T229	Test 6594 6599	LDL-C
+T230	Test 4498 4500	TC
+T231	Anatomy 5 17	血清血管生成素样蛋白 2
+T232	Anatomy 76 89	人血清血管生成素样蛋白 2
+T233	Reason 254 262	Angptl 2
+T234	Reason 1289 1292	糖尿病
+T235	Anatomy 1350 1369	人 血 管 生 成 素 样 蛋 白 2
+T236	Anatomy 1409 1415	血管生成因子
+T237	Disease 1424 1426	肥胖
+T238	Disease 1427 1429	炎症
+T239	Disease 1436 1438	肥胖
+T240	Anatomy 1474 1476	冠脉
+T241	Anatomy 1526 1534	Angptl 2
+T242	Test 1586 1597	血清 Angptl 2
+T243	Anatomy 1605 1613	Angptl 2
+T244	Test 1842 1846	体重指数
+T245	Test 1847 1850	BMI
+T246	Test 1852 1854	体重
+T247	Test 1860 1862	身高
+T248	Test 2011 2017	内膜中层厚度
+T249	Test 2019 2022	IMT
+T250	Test 2044 2049	颈动脉彩超
+T251	Anatomy 2095 2098;2099 2100	粥样斑 块
+T252	Symptom 2026 2028	斑块
+T253	Disease 2067 2071	粥样斑块
+T254	Test 2121 2124	IMT
+T255	Test_Value 2124 2132	<1. 0 mm
+T256	Test 2196 2201;2202 2203	酶联免疫吸 附
+T257	Test 2503 2514	血清 Angptl 2
+T258	Test 2699 2710	血清 Angptl 2
+T259	Anatomy 3884 3886	血清
+T260	Test 3887 3895	Angptl 2
+T261	Test 3910 3912;3913 3921	血清 Angptl 2
+T262	Test 4033 4044	血清 Angptl 2
+T263	Test 4282 4293	血清 Angptl 2
+T264	Test 4397 4399;4400 4411	血清 Angptl 2 浓度
+T265	Test 4494 4497	收缩压
+T266	Test 4878 4880;4881 4889	血清 Angptl 2
+T267	Disease 5214 5218	内皮损伤
+T268	Level 5260 5263	轻微的
+T269	Reason 5263 5267	内皮损伤
+T270	Reason 5274 5286	血液中血小板的黏附与聚集
+T271	Anatomy 5332 5340	Angptl 2
+T272	Anatomy 5353 5356	糖蛋白
+T273	Anatomy 5398 5399;5400 5401	血 管
+T274	Anatomy 5404 5408	内皮细胞
+T275	Symptom 5416 5420	血管损伤
+T276	Symptom 5422 5424	炎症
+T277	Anatomy 5438 5446	Angptl 2
+T278	Anatomy 5468 5471	白细胞
+T279	Test 5478 5483	血管通透性
+T280	Test_Value 5483 5485	增加
+T281	Anatomy 5492 5495;5496 5515	整合素 α5β1 / Racl / NF-kβ
+T282	Anatomy 5546 5552	炎症细胞因子
+T283	Anatomy 5564 5572	单核 /巨噬细胞
+T284	Anatomy 5580 5588	Angptl 2
+T285	Anatomy 5591 5594	整合素
+T286	Anatomy 5601 5609	单核 /巨噬细胞
+T287	Anatomy 5615 5619	内皮细胞
+T288	Disease 5717 5719;5720 5724	慢性 炎症反应
+T289	Anatomy 5757 5765	Angptl 2
+T290	Anatomy 5773 5777	内皮细胞
+T291	Anatomy 5792 5797	P-选择素
+T292	Anatomy 5798 5807	细胞间黏附分子-1
+T293	Anatomy 5810 5813	白细胞
+T294	Test 5830 5835	胆固醇水平
+T295	Anatomy 6006 6010	血管内皮
+T296	Reason 6056 6070	血清 Angptl 2 水平
+T297	Test 6119 6130	血浆 Angptl 2
+T298	Disease 6135 6137	炎症
+T299	Disease 6138 6140	肥胖
+T300	Disease 6141 6146	胰岛素抵抗
+T301	Disease 6156 6158	肥胖
+T302	Anatomy 6166 6174	Angptl 2
+T303	Disease 6218 6224	血脂代谢紊乱
+T304	Disease 6315 6319	腹型肥胖
+T305	Disease 6338 6342	腹型肥胖
+T306	Disease 6364 6367	糖尿病
+T307	Disease 6367 6373	动脉粥样硬化
+T308	Reason 6374 6379	向心性肥胖
+T309	Test 6410 6421	血清 Angptl 2
+T310	Test 6424 6427	BMI
+T311	Test 6466 6469	BMI
+T312	Anatomy 6488 6496	Angptl 2
+T313	Reason 6503 6505	肥胖
+T314	Reason 6546 6554	Angptl 2
+T315	Test 6591 6593	腰围
+T316	Anatomy 5816 5817;5818 5821	炎 症内皮

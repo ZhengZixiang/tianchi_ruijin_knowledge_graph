@@ -1,0 +1,403 @@
+T1	Test 3887 3891	体重指数
+T2	Test 4911 4915	体重指数
+T3	Disease 2096 2100	椎体骨折
+T4	Disease 6616 6618;6619 6621	椎体 骨折
+T5	Disease 6719 6723	椎体骨折
+T6	Disease 6828 6832	椎体骨折
+T7	Anatomy 2788 2791	骨钙素
+T8	Test 3101 3104	骨钙素
+T9	Test 4851 4853	身高
+T10	Test 3675 3677	体重
+T11	Test 3698 3700	体重
+T12	Test 3774 3776	体重
+T13	Test 3925 3927	体重
+T14	Test 4791 4793	体重
+T15	Test 4854 4856	体重
+T16	Test 7479 7481	体重
+T17	Anatomy 5210 5214	成骨细胞
+T18	Anatomy 5274 5278	成骨细胞
+T19	Anatomy 5309 5313	成骨细胞
+T20	Anatomy 6071 6075	成骨细胞
+T21	Anatomy 6096 6100	成骨细胞
+T22	Anatomy 7525 7529	成骨细胞
+T23	Anatomy 2716 2717;2718 2721	破 骨细胞
+T24	Disease 38 43	骨质疏松症
+T25	Symptom 61 65	骨量减少
+T26	Symptom 66 67;68 73	骨 微结构破坏
+T27	Symptom 79 84	骨强度下降
+T28	Symptom 90 92;93 95	易于 骨折
+T29	Disease 116 119;120 121	骨质疏 松
+T30	Disease 173 174;175 178	脊 椎骨折
+T31	Disease 196 201	骨质疏松症
+T32	Disease 264 269	骨质疏松症
+T33	Disease 276 278	骨折
+T34	Disease 305 310	骨质疏松症
+T35	Disease 329 334	骨质疏松症
+T36	Disease 356 360	骨质疏松
+T37	Disease 378 382	骨质疏松
+T38	Disease 392 394	骨折
+T39	Disease 775 780	骨质疏松症
+T40	Test 797 800	骨密度
+T41	Test 790 796	骨矿物质密度
+T42	Disease 806 811	骨质疏松症
+T43	Test 905 908	骨密度
+T44	Test 944 947	骨密度
+T45	Disease 952 957	骨质疏松症
+T46	Test 1002 1005	骨密度
+T47	Anatomy 1013 1015;1016 1018	桡骨 远端
+T48	Test 1026 1031	骨密度峰值
+T49	Disease 1121 1126	骨质疏松症
+T50	Test 1295 1300	骨密度峰值
+T51	Test_Value 1446 1460	1. 088 g / cm2
+T52	Test_Value 1487 1501	1. 066 g / cm2
+T53	Disease 1523 1528	骨质疏松症
+T54	Test_Value 1543 1557	0. 746 g / cm2
+T55	Test_Value 1563 1577	0. 680 g / cm2
+T56	Test 1590 1595	骨密度峰值
+T57	Disease 1600 1604;1605 1606	骨质疏松 症
+T58	Disease 1627 1629	骨折
+T59	Disease 1732 1736	脊椎骨折
+T60	Disease 1820 1824	脊椎骨折
+T61	Disease 1828 1832	髋部骨折
+T62	Disease 1844 1849	骨质疏松症
+T63	Test 1861 1864	骨密度
+T64	Disease 1888 1891	椎骨折
+T65	Test 1916 1920	椎体压缩
+T66	Test_Value 1921 1926;1927 1930	20% ~ 25%
+T67	Test 1937 1941	椎体压缩
+T68	Test_Value 1942 1951	25% ~ 40%
+T69	Test 1959 1962;1963 1964	椎体压 缩
+T70	Test_Value 1964 1968	>40%
+T71	Disease 1971 1975	脊椎骨折
+T72	Disease 2078 2082	脊椎骨折
+T73	Disease 2128 2132	脊椎骨折
+T74	Test 2277 2280	骨密度
+T75	Anatomy 2283 2285	四肢
+T76	Anatomy 2286 2288	脊椎
+T77	Disease 2298 2302	脆性骨折
+T78	Disease 2336 2340	脆性骨折
+T79	Disease 2359 2361	骨折
+T80	Anatomy 2381 2384	股骨颈
+T81	Anatomy 2385 2387	髋部
+T82	Anatomy 2388 2390	脊椎
+T83	Anatomy 2391 2395	前臂桡端
+T84	Disease 2414 2416	骨折
+T85	Anatomy 2459 2462	股骨颈
+T86	Anatomy 2463 2465	髋部
+T87	Anatomy 2466 2468	脊椎
+T88	Anatomy 2469 2473	前臂桡端
+T89	Disease 2537 2539	骨折
+T90	Test 2562 2565	骨密度
+T91	Disease 2576 2578	骨折
+T92	Disease 2604 2609	骨质疏松症
+T93	Disease 2637 2642	骨质疏松症
+T94	Symptom 2632 2636	血管钙化
+T95	Anatomy 2697 2701	内皮细胞
+T96	Anatomy 2709 2713	单核细胞
+T97	Anatomy 2755 2758	骨桥素
+T98	Anatomy 2759 2766	骨形态形成蛋白
+T99	Anatomy 2767 2768;2769 2777	基 质 Gla 蛋白
+T100	Anatomy 2778 2782	I型胶原
+T101	Anatomy 2783 2787	骨连蛋白
+T102	Anatomy 2792 2796	基质小泡
+T103	Disease 2807 2812	骨质疏松症
+T104	Test 2887 2890	骨密度
+T105	Test 2920 2922;2923 2924	骨密 度
+T106	Symptom 2959 2963	骨量丢失
+T107	Level 2956 2958	严重
+T108	Anatomy 3005 3007;3008 3021	I型 胶原羧基端肽 β 特殊序列
+T109	Anatomy 3022 3027	β-CTX
+T110	Anatomy 3065 3070	β-CTX
+T111	Test 3131 3134	骨密度
+T112	Anatomy 3188 3189;3190 3194	骨 基质蛋白
+T113	Symptom 3276 3280	血管钙化
+T114	Anatomy 3309 3311;3312 3314	骨保 护素
+T115	Anatomy 3315 3324	基质 gla 蛋白
+T116	Disease 3337 3338;3339 3343	骨 质疏松症
+T117	Anatomy 3351 3353	骨骼
+T118	Disease 3354 3356	肥胖
+T119	Anatomy 3368 3372	棕色脂肪
+T120	Anatomy 3408 3412	棕色脂肪
+T121	Test 3418 3422	总骨密度
+T122	Test 3423 3427;3428 3429	腰椎骨密 度
+T123	Test 3439 3443	总骨密度
+T124	Test 3444 3449	脊椎骨密度
+T125	Anatomy 3488 3490	骨髓
+T126	Test 3471 3474	骨密度
+T127	Anatomy 3500 3502	脂肪
+T128	Anatomy 3504 3506	骨骼
+T129	Anatomy 3572 3576	棕色脂肪
+T130	Anatomy 3598 3600	骨髓
+T131	Anatomy 3635 3639	棕色脂肪
+T132	Anatomy 3738 3740	肌肉
+T133	Anatomy 3743 3747	脂肪组织
+T134	Anatomy 3795 3799	脂肪组织
+T135	Test 3802 3805	骨密度
+T136	Disease 3811 3813	肥胖
+T137	Disease 3876 3881	骨质疏松症
+T138	Anatomy 3861 3865	脂肪组织
+T139	Test_Value 3891 3902	>25 kg / m2
+T140	Disease 3955 3960	骨质疏松症
+T141	Test 3968 3969;3970 3971	体 重
+T142	Disease 4050 4055	骨质疏松症
+T143	Operation 4070 4083	Roux-en-Y 旁路术
+T144	Test 4095 4101	甲状旁腺激素
+T145	Test 4103 4106	PTH
+T146	Test_Value 4110 4116	下降 23%
+T147	Test_Value 4130 4132;4133 4137	增加 144%
+T148	Anatomy 4139 4141	髋部
+T149	Anatomy 4142 4145	股骨颈
+T150	Test 4148 4151	骨密度
+T151	Test 4196 4203	HR-pQCT
+T152	Anatomy 4207 4210	皮质骨
+T153	Anatomy 4213 4215	胫骨
+T154	Anatomy 4295 4297	髋部
+T155	Anatomy 4298 4301	股骨颈
+T156	Test 4322 4325	PTH
+T157	Anatomy 4330 4332	胫骨
+T158	Anatomy 4349 4351	髋部
+T159	Symptom 4352 4356	骨量丢失
+T160	Anatomy 4369 4372	皮质骨
+T161	Symptom 4373 4377	骨量丢失
+T162	Disease 4381 4389;4390 4393	继发性甲状旁腺功 能亢进
+T163	Symptom 4403 4407	骨量丢失
+T164	Test 4473 4479	C 反应蛋白
+T165	Disease 4480 4484	脆性骨折
+T166	Test 4499 4505	C 反应蛋白
+T167	Anatomy 4565 4568	股骨颈
+T168	Test 4569 4579	骨骼强度相关综合指数
+T169	Disease 4614 4616	骨折
+T170	Test 4705 4710	股骨颈宽度
+T171	Test 4711 4716	股骨颈轴长
+T172	Test 4736 4743	骨强度相关指数
+T173	Test 4773 4777	抗压强度
+T174	Test 4794 4798	弯曲强度
+T175	Test 4825 4829	冲击强度
+T176	Disease 4882 4884	骨折
+T177	Test 4949 4954	骨强度系数
+T178	Anatomy 4960 4963	股骨颈
+T179	Anatomy 4964 4966	腰椎
+T180	Test 4966 4969	骨密度
+T181	Test 4996 5001;5002 5003	C 反应蛋 白
+T182	Test_Value 5003 5012	≥3 mg / L
+T183	Test 5040 5043	骨密度
+T184	Test 5063 5066	骨强度
+T185	Test 5087 5090	骨强度
+T186	Test_Value 5090 5092	降低
+T187	Disease 5096 5098	骨折
+T188	Anatomy 5176 5178	骨骼
+T189	Anatomy 5179 5187	胰岛素样生长因子
+T190	Anatomy 5195 5198;5199 5201	结合球 蛋白
+T191	Anatomy 5203 5208	IGFBP
+T192	Anatomy 5215 5217	骨骼
+T193	Anatomy 5241 5245	胶原蛋白
+T194	Anatomy 5266 5271	IGF-1
+T195	Anatomy 5335 5340	IGF-1
+T196	Anatomy 5455 5460	IGF-1
+T197	Anatomy 5478 5485	IGFBP-2
+T198	Anatomy 5493 5498	IGF-1
+T199	Anatomy 5547 5551	棕色脂肪
+T200	Anatomy 5554 5556	髋部
+T201	Anatomy 5573 5577	棕色脂肪
+T202	Anatomy 5614 5621	IGFBP-2
+T203	Anatomy 5625 5629	棕色脂肪
+T204	Disease 5698 5700	骨折
+T205	Anatomy 5773 5778	RBPjk
+T206	Anatomy 5763 5766;5767 5772	重组信 号结合蛋白
+T207	Anatomy 5796 5800	MAML
+T208	Anatomy 5781 5795	Mastermind 样蛋白
+T209	Anatomy 5814 5818	MAML
+T210	Disease 5991 5993	骨折
+T211	Disease 5959 5961	骨折
+T212	Anatomy 6090 6093	骨细胞
+T213	Disease 6121 6123	骨折
+T214	Test 6276 6279	骨密度
+T215	Test 6381 6387	血浆 ALP
+T216	Test 6409 6415	血浆 ALP
+T217	Test 6455 6461	血浆 ALP
+T218	Disease 6497 6499	骨折
+T219	Anatomy 6469 6474	MARK3
+T220	Drug 6520 6524	特立帕肽
+T221	Method 6524 6526	注射
+T222	Disease 6543 6547	骨质疏松
+T223	Disease 6577 6582	骨质疏松症
+T224	Disease 6738 6740	骨折
+T225	Drug 6811 6815	特立帕肽
+T226	Disease 6837 6839	骨折
+T227	Drug 6865 6867;6868 6870	特立 帕肽
+T228	Method 6815 6817	注射
+T229	Method 6863 6865	注射
+T230	Disease 6879 6882	骨肉瘤
+T231	Drug 6920 6923;6924 6925	特立帕 肽
+T232	Disease 6972 6975	骨肉瘤
+T233	Disease 7004 7007	骨肉瘤
+T234	Drug 7050 7053	PTH
+T235	Drug 7062 7065	PTH
+T236	Drug 7088 7091	PTH
+T237	Drug 7150 7154	双膦酸盐
+T238	Drug 7162 7165	PTH
+T239	Disease 7188 7190	骨折
+T240	Drug 7246 7250	雷洛昔芬
+T241	Drug 7251 7256	阿屈膦酸盐
+T242	Duration 7259 7264	12 个月
+T243	Drug 7270 7274	特立帕肽
+T244	Method 7274 7276	注射
+T245	Drug 7279 7283	特立帕肽
+T246	Drug 7285 7289	雷洛昔芬
+T247	Drug 7291 7296	阿屈膦酸盐
+T248	Duration 7299 7304	18 个月
+T249	Test 7306 7311	皮质骨含量
+T250	Test 7325 7330	皮质骨含量
+T251	Test 7345 7350	皮质骨厚度
+T252	Disease 7402 7407	骨质疏松症
+T253	Disease 7442 7447	骨质疏松症
+T254	Disease 7454 7456	骨折
+T255	Anatomy 7465 7467	骨骼
+T256	Disease 7476 7478	肥胖
+T257	Anatomy 7495 7497	骨骼
+T258	Disease 2598 2603	心血管疾病
+T259	Disease 2813 2818	心血管疾病
+T260	Disease 2863 2868	心血管疾病
+T261	Disease 2895 2898;2899 2901	心血管 疾病
+T262	Disease 2928 2933	心血管疾病
+T263	Disease 2969 2974	心血管疾病
+T264	Disease 3137 3140;3141 3143	心血管 疾病
+T265	Disease 7468 7473	心血管疾病
+T266	Disease 145 147;148 150	骨质 疏松
+T267	Disease 682 686	骨质疏松
+T268	Disease 6353 6357	骨质疏松
+T269	Disease 6488 6492	骨质疏松
+T270	Test 6440 6443	骨密度
+T271	Test 6476 6479	骨密度
+T272	Test 7067 7070	骨密度
+T273	Test 3732 3733;3734 3735	体 重
+T274	Symptom 85 89	脆性增加
+T275	Disease 2492 2494	骨折
+T276	Anatomy 2589 2591	骨骼
+T277	Anatomy 2592 2597	心血管系统
+T278	Anatomy 2691 2692;2693 2694	骨 髓
+T279	Anatomy 3678 3680	骨骼
+T280	Symptom 3722 3726	骨量丢失
+T281	Test 3701 3703	骨量
+T282	Anatomy 3785 3787	骨骼
+T283	Anatomy 3933 3935	骨骼
+T284	Test_Value 3971 3973	减轻
+T285	Operation 4006 4010	减肥手术
+T286	Test 4243 4245	厚度
+T287	Test_Value 4250 4255	2. 1%
+T288	Test 4259 4261	密度
+T289	Test_Value 4264 4269	1. 7%
+T290	Test 4225 4230	皮质区面积
+T291	Test_Value 4235 4240	2. 7%
+T292	Test_Value 4318 4320	升高
+T293	Operation 4344 4348	减肥手术
+T294	Operation 4398 4402	减肥手术
+T295	Anatomy 4419 4421	骨骼
+T296	Test_Value 4608 4610	增高
+T297	Test_Value 5147 5149	下降
+T298	Anatomy 5946 5951	中性粒细胞
+T299	Anatomy 7499 7502	IGF
+T300	Disease 96 101	代谢性骨病
+T301	Test_Value 1858 1859;1860 1861	正 常
+T302	Disease 2105 2107	骨折
+T303	Disease 2158 2160	骨折
+T304	Disease 2205 2207	骨折
+T305	Test_Value 2403 2410	下降一个标准差
+T306	Test_Value 2480 2483;2484 2488	下降一 个标准差
+T307	Anatomy 2724 2727	动脉壁
+T308	Anatomy 2749 2751	动脉
+T309	Symptom 2837 2841	骨量丢失
+T310	Disease 3082 3086	全因死亡
+T311	Test_Value 3134 3136	降低
+T312	Anatomy 3252 3256	基质囊泡
+T313	Anatomy 3542 3546	软骨细胞
+T314	Test 3834 3838	骨骼脆性
+T315	Disease 4018 4020	肥胖
+T316	Test 4178 4194	高分辨率的外周定量计算机断层扫描
+T317	Disease 4303 4307	骨量丢失
+T318	Reason 4292 4294	减重
+T319	Disease 4907 4910	糖尿病
+T320	Disease 4929 4931	骨折
+T321	Disease 5015 5017	骨折
+T322	Disease 1666 1670	椎骨骨折
+T323	Symptom 5071 5075	慢性炎症
+T324	Reason 5083 5085	炎症
+T325	Test_Value 5062 5063	低
+T326	Reason 5103 5104;5105 5106	炎 症
+T327	Disease 5107 5109	骨折
+T328	Symptom 5157 5159	炎症
+T329	Anatomy 5189 5192	IGF
+T330	Anatomy 5248 5252	基质蛋白
+T331	Anatomy 5752 5757	免疫球蛋白
+T332	Anatomy 5934 5936	骨痂
+T333	Anatomy 5968 5970	骨痂
+T334	Anatomy 5971 5973	软骨
+T335	Anatomy 6039 6042	骨小梁
+T336	Disease 6143 6145	骨折
+T337	Disease 6176 6178	骨折
+T338	Anatomy 6373 6378	MARK3
+T339	Amount 6527 6535	56. 5 mg
+T340	Frequency 6536 6538	qw
+T341	Anatomy 6779 6781	椎体
+T342	Frequency 6805 6811	每周 1 次
+T343	Disease 7482 7486	慢性炎症
+T344	Disease 3259 3261;3262 3266	动脉 粥样硬化
+T345	Disease 2053 2057	椎体骨折
+T346	Test 4821 4823	体重
+T347	Anatomy 2702 2708	前体成骨细胞
+T348	Anatomy 3195 3199	成骨细胞
+T349	Symptom 385 389	骨量丢失
+T350	Disease 815 822	骨质疏松性骨折
+T351	Test 910 913;914 916	骨密度 峰值
+T352	Anatomy 1022 1026	前臂尺骨
+T353	Test 1269 1272	骨密度
+T354	Disease 1341 1346	骨质疏松症
+T355	Anatomy 1422 1424	腰椎
+T356	Test 1424 1426;1427 1430	骨密 度峰值
+T357	Disease 1709 1713	椎骨骨折
+T358	Disease 1726 1730	椎骨骨折
+T359	Disease 1800 1801;1802 1805	椎 骨骨折
+T360	Test 2353 2356	骨密度
+T361	Test 2396 2399	骨密度
+T362	Test 2474 2477	骨密度
+T363	Test 2531 2534	骨密度
+T364	Reason 3170 3178	动脉粥样钙化斑块
+T365	Reason 3206 3213;3214 3215	动脉粥样硬化斑 块
+T366	Disease 3281 3285	动脉硬化
+T367	Disease 3332 3336	冠脉钙化
+T368	Anatomy 3462 3466	棕色脂肪
+T369	Anatomy 3517 3521	棕色脂肪
+T370	Test 3612 3615	骨密度
+T371	Anatomy 3817 3819	骨髓
+T372	Test 3819 3823	脂肪含量
+T373	Disease 3950 3952	肥胖
+T374	Disease 3977 3981	骨骼畸形
+T375	Test 3994 3996	骨量
+T376	Test 4118 4127	I型胶原 C 端肽
+T377	Reason 4428 4432	慢性炎症
+T378	Test 4514 4517	骨密度
+T379	Test 4581 4584;4585 4588	C 反 应蛋白
+T380	Test 4599 4605	C 反应蛋白
+T381	Test 4621 4624	骨密度
+T382	Test 4723 4726	骨密度
+T383	Anatomy 4717 4721	股骨颈部
+T384	Test 4750 4756	C 反应蛋白
+T385	Test 4779 4782	骨密度
+T386	Test 4800 4801;4802 4804	骨 密度
+T387	Test 4832 4835	骨密度
+T388	Test 4939 4945	C 反应蛋白
+T389	Test 5021 5027	C 反应蛋白
+T390	Test 5142 5145	雌激素
+T391	Test 5160 5163	骨强度
+T392	Anatomy 5365 5370	IGF-1
+T393	Anatomy 5379 5390	I 型原胶原氨基端前肽
+T394	Anatomy 5392 5396	PINP
+T395	Anatomy 5398 5403	β-CTX
+T396	Anatomy 5527 5534	IGFBP-2
+T397	Test 5556 5559	骨密度
+T398	Test 5578 5581	骨密度
+T399	Anatomy 5596 5601	IGF-1
+T400	Anatomy 6420 6425	MARK3
+T401	Disease 6785 6787	骨折
+T402	Disease 5 10	骨质疏松症
+T403	Level 6782 6785	3 级

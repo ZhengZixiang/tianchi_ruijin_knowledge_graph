@@ -1,0 +1,476 @@
+T1	Test 2451 2454	血肌酐
+T2	Test 3763 3772	低密度脂蛋白胆固醇
+T3	Test 3480 3485	谷丙转氨酶
+T4	Test 3497 3502	谷草转氨酶
+T5	Test 3344 3349	血小板计数
+T6	Test 3717 3721	总胆固醇
+T7	Test 4659 4663	肝肾功能
+T8	Test 3675 3677	尿酸
+T9	Test 5430 5432	尿酸
+T10	Test 6499 6501	尿酸
+T11	Test 4274 4280	游离甲状腺素
+T12	Test 4238 4243	甲状腺功能
+T13	Test 4849 4850;4851 4855	甲 状腺功能
+T14	Test 4307 4310	TSH
+T15	Test 4281 4284	FT4
+T16	Test 4255 4258	FT3
+T17	Drug 2175 2180	醋酸可的松
+T18	Drug 4995 5000	醋酸可的松
+T19	Drug 5363 5368	醋酸可的松
+T20	Test 3737 3745;3746 3747	高密度脂蛋白胆固 醇
+T21	Drug 235 238;239 241	糖皮质 激素
+T22	Drug 3226 3231	糖皮质激素
+T23	Drug 4703 4708	糖皮质激素
+T24	Drug 5096 5101	糖皮质激素
+T25	Drug 6649 6650;6651 6655	糖 皮质激素
+T26	Drug 6687 6692	糖皮质激素
+T27	Drug 6890 6892;6893 6896	糖皮 质激素
+T28	Drug 6972 6977	糖皮质激素
+T29	Drug 7510 7511;7512 7516	糖 皮质激素
+T30	Test 3694 3698	三酰甘油
+T31	Test 4369 4372	FSH
+T32	Test 7186 7188	血糖
+T33	Test 2638 2639;2640 2641	体 重
+T34	Test 4870 4877	游离甲状腺激素
+T35	Drug 334 339	氢化可的松
+T36	Drug 2544 2545;2546 2550	氢 化可的松
+T37	Drug 3112 3117	氢化可的松
+T38	Drug 3175 3180	氢化可的松
+T39	Drug 7430 7435	氢化可的松
+T40	Drug 8090 8097	醋酸氢化可的松
+T41	Drug 8338 8343	氢化可的松
+T42	Test 3660 3662	肌酐
+T43	Operation 208 214	垂体肿瘤手术
+T44	Disease 215 222	顽固性低钠血症
+T45	Disease 252 256	低钠血症
+T46	Test 263 268	血尿渗透压
+T47	Disease 365 378	不适当抗利尿激素分泌综合征
+T48	Operation 384 388	垂体手术
+T49	Operation 1642 1647	垂体瘤手术
+T50	Test 1696 1700;1701 1703	头颅核磁 共振
+T51	Operation 1803 1812	经鼻蝶垂体瘤切除术
+T52	Drug 1833 1836	强的松
+T53	Duration 1839 1842	4 周
+T54	Test 1878 1882	血电解质
+T55	Disease 2017 2022	垂体巨腺瘤
+T56	Drug 2039 2042	强的松
+T57	Drug 2047 2050	溴隐亭
+T58	Amount 2051 2058	1 / 4 片
+T59	Frequency 2058 2064	每天 1 次
+T60	Method 2064 2066	口服
+T61	Disease 2214 2222;2223 2225	中枢性甲状腺功能 减退
+T62	Drug 2228 2231	优甲乐
+T63	Amount 2232 2241	25 μg / d
+T64	Method 2242 2244	口服
+T65	Drug 2265 2268	可的松
+T66	Amount 2272 2281	75 mg / d
+T67	Amount 2550 2556	100 mg
+T68	Disease 2653 2663	胃粘膜中度肠上皮化生
+T69	Disease 2679 2683	甲型肝炎
+T70	Disease 2695 2698	肾结石
+T71	Disease 3095 3101	垂体功能减退
+T72	Amount 3124 3138	15 ~ 25 mg / d
+T73	Disease 4550 4557	低渗性低钠血症
+T74	Test 3258 3261	血常规
+T75	Test 3460 3463	血生化
+T76	Test 3789 3792;3793 3794	血电解 质
+T77	Disease 4915 4920	SIADH
+T78	Amount 5001 5013	37. 5 mg / d
+T79	Operation 8021 8029	经蝶垂体肿瘤手术
+T80	Test 8038 8040	血钠
+T81	Test_Value 8043 8055	142 mmol / L
+T82	Disease 140 147	顽固性低钠血症
+T83	Disease 148 152	垂体肿瘤
+T84	Disease 155 165;166 169	不适当抗利尿激素分泌 综合征
+T85	Test 308 310	血钠
+T86	Test 311 313	尿酸
+T87	Test 320 322	血压
+T88	Test 352 354	血钠
+T89	Test 398 400	血钠
+T90	Amount 8344 8349	10 mg
+T91	Frequency 8350 8356	每天 2 次
+T92	Disease 8378 8382	垂体肿瘤
+T93	Treatment 8304 8308	垂体放疗
+T94	Disease 8284 8288	低钠血症
+T95	Disease 8291 8295	垂体肿瘤
+T96	Symptom 1654 1656	乏力
+T97	Symptom 1685 1687	头痛
+T98	Symptom 1688 1692	视力减退
+T99	Disease 1705 1708	垂体瘤
+T100	Anatomy 1729 1731	鞍膈
+T101	Anatomy 1734 1735;1736 1738	视 交叉
+T102	Anatomy 1741 1751	左侧颈内动脉海绵窦段
+T103	Test 1766 1768	血钠
+T104	Test_Value 1768 1772	低于正常
+T105	Test 1883 1885	血钠
+T106	Test_Value 1886 1898	119 mmol / L
+T107	Test 1927 1929	血钾
+T108	Test_Value 1930 1943	5. 2 mmol / L
+T109	Test 1987 1989	血钠
+T110	Disease 2070 2073;2074 2075	低钠血 症
+T111	Symptom 2095 2100	阵发性头晕
+T112	Symptom 2101 2103	怕冷
+T113	Symptom 2104 2106	乏力
+T114	Test 2108 2110	血钠
+T115	Test_Value 2111 2123	117 mmol / L
+T116	Test 2124 2128	ACTH
+T117	Test_Value 2129 2143	94. 50 pg / ml
+T118	Disease 2260 2264	低钠血症
+T119	Test 2282 2284	血钠
+T120	Disease 2297 2301	低钠血症
+T121	Symptom 2326 2328	乏力
+T122	Symptom 2329 2330;2331 2332	纳 差
+T123	Test 2343 2345	血钠
+T124	Test_Value 2346 2358	120 mmol / L
+T125	Test 2359 2361	血钾
+T126	Test_Value 2362 2376	4. 35 mmol / L
+T127	Test 2378 2382	血红蛋白
+T128	Test_Value 2383 2392	120 g / L
+T129	Test_Value 2415 2428	2. 6 mmol / L
+T130	Test_Value 2455 2466	45 μmol / L
+T131	Test_Value 2497 2508	76 μmol / L
+T132	Test 2564 2566	血钠
+T133	Test_Value 2566 2578	127 mmol / L
+T134	Disease 2601 2605	低钠血症
+T135	Symptom 2628 2632	胃纳较差
+T136	Disease 2686 2688	乙肝
+T137	Disease 2689 2691	结核
+T138	Disease 2707 2708;2709 2711	高 血压
+T139	Disease 2712 2715	糖尿病
+T140	Test 2742 2744	体温
+T141	Test 2752 2754	脉搏
+T142	Test 2766 2768	呼吸
+T143	Test 2781 2783	血压
+T144	Test_Value 2745 2751	36. 1℃
+T145	Test_Value 2755 2765	64 次 / min
+T146	Test_Value 2769 2779	12 次 / min
+T147	Test_Value 2784 2797	155 / 95 mmHg
+T148	Symptom 2620 2622	神清
+T149	Symptom 2623 2627	精神一般
+T150	Symptom 2633 2637	二便无殊
+T151	Operation 3061 3067	垂体肿瘤手术
+T152	Treatment 3069 3073	放射治疗
+T153	Disease 3074 3081	顽固性低钠血症
+T154	Amount 3185 3195	25 ~ 50 mg
+T155	Test 3262 3267	白细胞计数
+T156	Test 3284 3292	中性粒细胞百分比
+T157	Test 3301 3306	红细胞计数
+T158	Test 3325 3329	血红蛋白
+T159	Test 3368 3372	血渗透压
+T160	Test 3413 3417	尿渗透压
+T161	Test 3464 3468	前白蛋白
+T162	Test 3513 3518	碱性磷酸酶
+T163	Test 3529 3537	γ 谷氨酰转肽酶
+T164	Test_Value 3268 3283	7. 00 × 109 / L
+T165	Test_Value 3293 3299	54. 1%
+T166	Test_Value 3307 3321	3. 31×1012 / L
+T167	Test_Value 3330 3339	109 g / L
+T168	Test_Value 3350 3362	296 ×109 / L
+T169	Test_Value 3373 3390	261. 00 mOsm / kg
+T170	Test_Value 3418 3435	614. 00 mOsm / kg
+T171	Test_Value 3469 3479	226 mg / L
+T172	Test_Value 3486 3495	24 IU / L
+T173	Test_Value 3503 3512	18 IU / L
+T174	Test_Value 3519 3528	78 IU / L
+T175	Test_Value 3538 3540;3541 3547	62 IU / L
+T176	Test 3548 3552	总胆红素
+T177	Test 3568 3573	直接胆红素
+T178	Test 3588 3591	总蛋白
+T179	Test 3601 3604	白蛋白
+T180	Test 3614 3618	白球比例
+T181	Test 3625 3628	胆汁酸
+T182	Test 3643 3645	尿素
+T183	Test_Value 3553 3567	10. 2 μmol / L
+T184	Test_Value 3574 3587	0. 3 μmol / L
+T185	Test_Value 3592 3600	64 g / L
+T186	Test_Value 3605 3613	41 g / L
+T187	Test_Value 3619 3624	1. 78
+T188	Test_Value 3629 3642	5. 2 μmol / L
+T189	Test_Value 3646 3659	4. 7 mmol / L
+T190	Test_Value 3663 3674	54 μmol / L
+T191	Test_Value 3678 3690	120 μmol / L
+T192	Test_Value 3699 3713	1. 92 mmol / L
+T193	Test_Value 3722 3736	3. 84 mmol / L
+T194	Test_Value 3748 3762	1. 10 mmol / L
+T195	Test_Value 3773 3787	2. 37 mmol / L
+T196	Test 3795 3796	钠
+T197	Test 3813 3814	钾
+T198	Test 3830 3831	氯
+T199	Test 3844 3847;3848 3849	二氧化 碳
+T200	Test_Value 3797 3809	128 mmol / L
+T201	Test_Value 3815 3829	4. 05 mmol / L
+T202	Test_Value 3832 3843	98 mmol / L
+T203	Test_Value 3850 3864	20. 0 mmol / L
+T204	Test 3868 3869	钙
+T205	Test_Value 3870 3884	2. 20 mmol / L
+T206	Test 3885 3886	磷
+T207	Test_Value 3887 3901	0. 83 mmol / L
+T208	Test 3902 3905	血清镁
+T209	Test_Value 3906 3920	0. 79 mmol / L
+T210	Test 3922 3931	24 h 尿电解质
+T211	Test 3932 3939	24 h 尿钠
+T212	Test_Value 3940 3958	222. 3 mmol / 24 h
+T213	Test 3959 3963;3964 3966	24 h 尿钾
+T214	Test_Value 3967 3985	35. 49 mmol / 24 h
+T215	Test 3989 3996	24 h 尿氯
+T216	Test_Value 3997 4015	227. 5 mmol / 24 h
+T217	Test 4016 4022;4023 4024	24 h 尿 钙
+T218	Test_Value 4025 4042	9. 89 mmol / 24 h
+T219	Test 4046 4053	24 h 尿磷
+T220	Test_Value 4054 4072	16. 25 mmol / 24 h
+T221	Test 4073 4075	尿量
+T222	Test_Value 4076 4081;4082 4090	1. 30 L / 24 h
+T223	Test 4092 4095	皮质醇
+T224	Test 4197 4200;4201 4206	促肾上 腺皮质激素
+T225	Test 4207 4211	ACTH
+T226	Test 4244 4246;4247 4254	游离 三碘甲腺原氨酸
+T227	Test_Value 4259 4273	3. 47 pmol / L
+T228	Test_Value 4285 4291;4292 4300	11. 66 pmol / L
+T229	Test 4301 4306	促甲状腺素
+T230	Test_Value 4311 4328	0. 060 0 μIU / mL
+T231	Test 4337 4339;4340 4343	黄体 生成素
+T232	Test 4344 4346	LH
+T233	Test_Value 4347 4362	<0. 07 mIU / ml
+T234	Test 4363 4368	卵泡刺激素
+T235	Test_Value 4374 4388	0. 58 mIU / mL
+T236	Test 4390 4393	催乳素
+T237	Test_Value 4394 4407	1. 38 ng / ml
+T238	Test 4408 4411	雌二醇
+T239	Test_Value 4411 4422	<10 pg / ml
+T240	Test 4444 4461	地塞米松抑制后 ACTH 兴奋试验
+T241	Test 4462 4465	皮质醇
+T242	Test 4580 4582	血脂
+T243	Test 4576 4579	球蛋白
+T244	Test 4597 4599	血压
+T245	Drug 4710 4715	甲状腺激素
+T246	Test 4732 4734	尿钠
+T247	Disease 4860 4865	垂体性甲减
+T248	Level 4883 4885	严重
+T249	Disease 4885 4892	甲状腺功能减退
+T250	Disease 4895 4899	低钠血症
+T251	Disease 4944 4956	继发性肾上腺皮质功能减退
+T252	Disease 4963 4968	SIADH
+T253	Disease 4976 4981	SIADH
+T254	Method 5014 5016	口服
+T255	Test 5065 5067	血钠
+T256	Test_Value 5069 5084	超过 125 mmol / L
+T257	Test 5116 5121	水负荷试验
+T258	Test 6628 6630	血钠
+T259	Test 6631 6633	尿酸
+T260	Test 6659 6661	血钠
+T261	Test_Value 6665 6672	略低于正常水平
+T262	Test 6704 6705;6706 6707	血 钠
+T263	Test 6710 6712	血压
+T264	Test_Value 6715 6717	正常
+T265	Test 6722 6727	水负荷试验
+T266	Test 6731 6733	血钠
+T267	Test 6745 6747	血压
+T268	Test 6753 6758	水负荷试验
+T269	Test 6764 6769	尿液排泄率
+T270	Test_Value 6769 6775	小于 30%
+T271	Test 6788 6790	尿渗
+T272	Test_Value 6790 6796;6797 6806	超过 100 mOsm / kg
+T273	Test 6815 6817	血钠
+T274	Disease 6837 6842	SIADH
+T275	Drug 6867 6870	皮质醇
+T276	Level 6962 6964	轻度
+T277	Test 6984 6986;6987 6991	尿皮 质醇水平
+T278	Test_Value 6992 6996	正常低值
+T279	Disease 7022 7026	垂体肿瘤
+T280	Disease 7045 7050	SIADH
+T281	Disease 7051 7055	垂体肿瘤
+T282	Disease 7056 7064	垂体前叶功能减退
+T283	Disease 7072 7076	低钠血症
+T284	Disease 7083 7088	电解质紊乱
+T285	Test 7157 7162	血浆渗透压
+T286	Test 7170 7173	渗透压
+T287	Test 7221 7223	脂质
+T288	Test 7224 7227	球蛋白
+T289	Test 7244 7246	血钠
+T290	Test 7289 7291	血压
+T291	Test 7293 7309	肾素-血管紧张素-醛固酮系统激素
+T292	Test 7326 7339	快速法 ACTH 兴奋试验
+T293	Test 7343 7350	肾上腺皮质机能
+T294	Disease 7389 7398	肾上腺皮质功能不全
+T295	Amount 7441 7456	24 h 内给予 200 mg
+T296	Disease 7469 7473	皮质危象
+T297	Disease 7489 7494	SIADH
+T298	Disease 7524 7529	SIADH
+T299	Disease 7548 7552	垂体肿瘤
+T300	Operation 7553 7557	手术切除
+T301	Disease 7561 7565	低钠血症
+T302	Disease 7597 7601	垂体肿瘤
+T303	Disease 7604 7608	低钠血症
+T304	Disease 7632 7637	SIADH
+T305	Test 7648 7651	ADH
+T306	Test 7666 7669	ADH
+T307	Disease 7707 7712	SIADH
+T308	Test 7690 7693	ADH
+T309	Test 7733 7736	ADH
+T310	Disease 7756 7760	垂体肿瘤
+T311	Disease 7764 7769	SIADH
+T312	Symptom 7784 7787	低血渗
+T313	Test 7796 7799	ADH
+T314	Test_Value 7805 7818	1. 6 pmol / L
+T315	Test 7824 7826	血钠
+T316	Operation 7829 7831	手术
+T317	Test 7862 7865	ADH
+T318	Disease 7856 7858	肿瘤
+T319	Test 7885 7888	ADH
+T320	Disease 7911 7913;7914 7916	垂体 肿瘤
+T321	Test 7918 7921	ADH
+T322	Test 7964 7967	ADH
+T323	Disease 7972 7975	垂体瘤
+T324	Disease 7983 7987	垂体肿瘤
+T325	Test_Value 8075 8079;8080 8087	2. 4 μg / dl
+T326	Amount 8098 8103	10 mg
+T327	Frequency 8104 8110	每天 2 次
+T328	Test 8128 8130	血钠
+T329	Test_Value 8136 8154	135 ~ 142 mmol / L
+T330	Disease 8168 8172	低钠血症
+T331	Test_Value 8179 8197	123 ~ 119 mmol / L
+T332	Disease 8226 8230	垂体肿瘤
+T333	Disease 8243 8247	垂体肿瘤
+T334	Test_Value 8259 8262;8263 8264	正常范 围
+T335	Amount 2537 2541	30 g
+T336	Test 2947 2949	心率
+T337	Test_Value 2950 2960	64 次 / min
+T338	Amount 230 234	应激剂量
+T339	Treatment 391 393	放疗
+T340	Symptom 1848 1850	乏力
+T341	Duration 2665 2667	数年
+T342	Duration 2700 2703	半年余
+T343	Test 4333 4336	性激素
+T344	Test 4424 4430	肾素-醛固酮
+T345	Test 8326 8328	血钠
+T346	Test 2579 2581	血钾
+T347	Test_Value 2581 2595	3. 06 mmol / L
+T348	Method 3149 3151	口服
+T349	Method 3172 3174	口服
+T350	Test 3364 3367	渗透压
+T351	Test 5151 5155;5156 5157	每小时尿 量
+T352	Level 6635 6639	逐渐上升
+T353	Test_Value 6702 6704	正常
+T354	Test 7580 7582	血钠
+T355	Disease 7658 7663	SIADH
+T356	Method 8110 8112	口服
+T357	Test 8173 8175	血钠
+T358	Test 8204 8206	血钠
+T359	Test 8253 8255	血钠
+T360	Test_Value 315 319	逐渐升高
+T361	Test_Value 322 329	逐渐下降至正常
+T362	Duration 1649 1653	4 年余
+T363	Symptom 1823 1827	视力恢复
+T364	Test_Value 1904 1909;1910 1922	130 ~ 147 mmol / L
+T365	Test_Value 1944 1966	3. 50 ~ 5. 10 mmol / L
+T366	Test_Value 2393 2408	110 ~ 150 g / L
+T367	Test_Value 2429 2435;2436 2449	2. 5 ~ 7. 1 mmol / L
+T368	Test_Value 2467 2490	53. 0 ~ 115. 0 μmol / L
+T369	Test_Value 2509 2527	160 ~ 430 μmol / L
+T370	Symptom 2818 2820	神清
+T371	Symptom 2821 2824	精神可
+T372	Symptom 2825 2827;2828 2830	无贫 血貌
+T373	Symptom 2831 2835	无满月脸
+T374	Symptom 2836 2839	水牛背
+T375	Symptom 2840 2847	无毛发增多增粗
+T376	Symptom 2848 2853	无唇周痤疮
+T377	Symptom 2854 2857;2858 2864	无紫纹 和多血质面容
+T378	Symptom 2865 2870	无皮肤变薄
+T379	Symptom 2871 2876	无四肢变细
+T380	Symptom 2878 2883	额纹无加深
+T381	Symptom 2884 2886;2887 2888	无突 眼
+T382	Symptom 2889 2897	视野粗测正常范围
+T383	Symptom 2920 2928	双侧甲状腺无肿大
+T384	Symptom 2899 2902	无反颌
+T385	Symptom 2903 2909	无下颌角突出
+T386	Symptom 2911 2913	颈软
+T387	Symptom 2914 2917;2918 2919	气管居 中
+T388	Symptom 2929 2935	双肺呼吸音清
+T389	Symptom 2936 2945	未闻及明显干湿罗音
+T390	Symptom 2961 2963	律齐
+T391	Symptom 2964 2980	心脏各瓣膜听诊区未闻及病理性杂音
+T392	Symptom 2982 2985	腹平软
+T393	Symptom 2986 2992	肝脾未及肿大
+T394	Symptom 2993 2999	肝脾区无叩痛
+T395	Symptom 3000 3007	双肾区无叩击痛
+T396	Symptom 3008 3010;3011 3014	肠鸣 音正常
+T397	Symptom 3016 3022	双下肢无水肿
+T398	Symptom 3023 3031	足背动脉搏动正常
+T399	Symptom 3033 3039	生理反射存在
+T400	Symptom 3041 3048	病理反射未引出
+T401	Test_Value 3392 3411	275 ~ 305 mOsm / kg
+T402	Test_Value 3436 3447;3448 3457	500 ~ 1 000 mOsm / kg
+T403	Test_Value 4663 4665	正常
+T404	Test_Value 4736 4740	明显升高
+T405	Test 6504 6513	ACTH 兴奋试验
+T406	Test 6538 6541	皮质醇
+T407	Test_Value 6542 6563	0 min 时 0. 66 μg / dl
+T408	Test_Value 6564 6587	30 min 时 14. 94 μg / dl
+T409	Test_Value 6588 6596;6597 6611	60 min 时 17. 17 μg / dl
+T410	Duration 6888 6890	长期
+T411	Level 7115 7118	高容量
+T412	Level 7119 7122	等容量
+T413	Level 7123 7126	低容量
+T414	Level 7099 7101	高渗
+T415	Level 7102 7104	等渗
+T416	Level 7105 7107	低渗
+T417	Test 7280 7283	血容量
+T418	Test 7318 7321	血容量
+T419	Test_Value 7586 7590	维持正常
+T420	Treatment 8198 8200;8201 8203	限制 饮水
+T421	Treatment 8359 8361	限水
+T422	Test 2410 2414	血尿素氮
+T423	Test 2492 2494;2495 2496	血尿 酸
+T424	Test 6519 6536	地塞米松抑制后 ACTH 兴奋试验
+T425	Drug 6906 6910	地塞米松
+T426	Treatment 1978 1984	静滴生理盐水
+T427	Treatment 2028 2033	γ 刀治疗
+T428	Method 2532 2534	静脉
+T429	Drug 2535 2536	钠
+T430	Amount 6901 6905	1 mg
+T431	Test 8364 8366;8367 8372	鞍区 影像学检查
+T432	Symptom 1657 1660;1661 1663	反复低 血钠
+T433	Test_Value 1705 1722	垂体瘤冶大小约 2 cm×1 cm
+T434	Test_Value 1723 1731	向上生长突破鞍膈
+T435	Test_Value 1732 1735;1736 1738	压迫视 交叉
+T436	Test_Value 1739 1751	包绕左侧颈内动脉海绵窦段
+T437	Symptom 1818 1822	头痛改善
+T438	Disease 1972 1976	低血钠冶
+T439	Test_Value 1989 1993	明显上升
+T440	Symptom 2148 2150	低钠
+T441	Disease 2151 2154;2155 2158	垂体功 能减退
+T442	Amount 2188 2196	37. 5 mg
+T443	Amount 2199 2207	12. 5 mg
+T444	Level 2656 2658	中度
+T445	Symptom 2638 2639;2640 2646	体 重无明显改变
+T446	Anatomy 3210 3212	垂体
+T447	Test_Value 4107 4120	2. 55 μg / dl
+T448	Test_Value 4134 4139;4140 4147	9. 15 μg / dl
+T449	Test_Value 4158 4172	11. 73 μg / dl
+T450	Test_Value 4175 4192	148. 59 μg / 24 h
+T451	Test_Value 4213 4236	28. 00 ~ 23. 51 pg / ml
+T452	Test_Value 4474 4487	5. 10 μg / dl
+T453	Test_Value 4497 4510	14. 09μg / dl
+T454	Test_Value 4520 4534	15. 88 μg / dl
+T455	Disease 4590 4594	低钠血症
+T456	Test 4610 4614	肾素活性
+T457	Test 4618 4623	醛固酮活性
+T458	Anatomy 4666 4668	垂体
+T459	Disease 4681 4687	垂体功能减退
+T460	Disease 4725 4728	低血钠
+T461	Disease 4749 4755;4756 4757	甲状腺功能减 退
+T462	Disease 4759 4772	不适当抗利尿激素分泌综合征
+T463	Disease 4832 4837	SIADH
+T464	Disease 4839 4842	水中毒
+T465	Level 6747 6751	明显升高
+T466	Symptom 6826 6829;6830 6832	水负荷 过多
+T467	Test 6915 6927;6928 6929	快速法 ACTH 兴奋试 验
+T468	Disease 6951 6957	皮质功能减退
+T469	Reason 6938 6948	垂体 ACTH 缺乏
+T470	Disease 7261 7265	低钠血症
+T471	Disease 7358 7367	肾上腺皮质机能减退
+T472	Disease 7374 7378	低钠血症
+T473	Test 7622 7628	血清 ADH
+T474	Test 7892 7897	腺垂体激素
+T475	Test 8068 8071	皮质醇
+T476	Operation 8238 8241	颅手术

@@ -1,0 +1,366 @@
+糖尿病肾病
+住院 2 型糖尿病患者合并糖尿病肾脏疾病的
+危险因素分析
+张倩  万倩  孙丹  许文伟  关美萍  薛耀明
+[摘要]   目的  探讨 2 型糖尿病合并糖尿病肾脏疾病的危险因素。 方法 回顾分析 930 例住院 2 型
+糖尿病患者临床资料,根据不同肾小球滤过率与尿白蛋白水平以及是否合并糖尿病视网膜病变(DR)对患
+者进行分组比较。 糖尿病肾脏疾病危险因素的分析采用二分类 logistic 回归分析法。 结果 (1)随着肾小
+球滤过率的下降,2 型糖尿病患者白蛋白尿患病率逐渐增加(P<0. 05)。 (2)22. 26% 的 2 型糖尿病患者合
+并糖尿病肾脏疾病,8. 92% 的患者合并非糖尿病肾脏疾病。 糖尿病肾脏疾病组患者的病程、收缩压、血肌
+酐、尿白蛋白水平等显著高于非糖尿病肾脏疾病组患者,糖尿病肾脏疾病组患者的血红蛋白[(125. 40 ±
+21. 95 对 138. 18 ± 19. 67)g / L]、血清白蛋白[(37. 45 ± 5. 54 对 40. 55 ± 3. 55) g / L]、肾小球滤过率[(89. 66
+者,差异均有统计学意义(P<0. 05)。 (3)Logistic 回归分析结果显示,年龄、糖尿病病程、收缩压、血尿酸、糖
+尿病视网膜病变及高血压病是糖尿病肾脏疾病发生的独立危险因素,血清白蛋白是其保护因素(均 P<
+0. 01)。 结论 2 型糖尿病患者合并糖尿病肾脏疾病与多种临床危险因素相关,积极控制血压、血尿酸,纠
+正低蛋白血症等有助于延缓糖尿病肾脏疾病的进展。
+[关键词]   糖尿病, 2 型; 糖尿病肾脏疾病; 非糖尿病肾脏疾病
+Risk factors for diabetic kidney diseases in inpatients with type 2 diabetes Zhang Qian, Wan Qian, Sun Dan,
+Xu Wenwei, Guan Meiping, Xue Yaoming. Department of Endocrinology and Metabolism, Nanfang Hospital, Southern
+Medical University, Guangzhou 510515, China
+[Abstract]  Objective  To analyze risk factors for diabetic kidney disease (DKD) in inpatients with type 2
+diabetes. Methods A total of 930 inpatients with type 2 diabetes were enrolled in the study and grouped according to
+different levels of estimated glomerular filtration rate ( eGFR), albuminuria, and diabetic retinopathy. Logistic
+regression analysis was adopted to explore the risk factors for DKD in inpatients with type 2 diabetes. Results (1)
+The prevalence of albuminuria in patients with type 2 diabetes mellitus was increased with declining eGFR ( P <
+0. 05) . (2) The prevalences of DKD and non-diabetic renal disease(NDRD) in patients with type 2 diabetes mellitus
+were 22. 26% and 8. 92% , respectively. Compared with patients with NDRD, patients with DKD had longer diabetic
+duration, higher levels of systolic blood pressure, serum creatinine, and urinary albumin excretion, and lower levels of
+hemoglobin[(125. 40 ± 21. 95 vs 138. 18 ± 19. 67) g / L], serum albumin[(37. 45 ± 5. 54 vs 40. 55 ± 3. 55) g / L],
+Logistic regression analysis showed that age, diabetic duration, systolic blood pressure, serum uric acid, diabetic
+retinopathy, and hypertension are the independent risk factors for diabetic kidney disease in inpatients with type 2
+diabetes, while serum albumin was the protective factor (all P<0. 01) . Conclusions A variety of clinic risk factors
+were associated with DKD. Better control of blood pressure, serum uric acid, and hypoalbuminemia should be
+performed to delay the progress of DKD.
+[Key words]  Diabetes mellitus, type 2; Diabetic kidney disease; Non-diabetic renal disease
+(Chin J Endocrinol Metab, 2015, 31: 390-394)
+糖尿病肾病是慢性肾脏疾病的重要类型之一,是
+糖尿病患者肾衰竭的主要原因。 2007 年美国肾脏病
+基金会制定了首个针对糖尿病合并慢性肾脏疾病的临
+床实践指南,提出糖尿病肾脏疾病 ( diabetic kidney
+diseases,DKD)的概念:糖尿病患者出现大量白蛋白
+尿、微量白蛋白尿合并糖尿病视网膜病变,或 1 型糖尿
+病病程超过 10 年,其肾损害的病因应归因于糖尿病。
+该指南还指出在没有肾脏病理的情况下,可根据不同
+的估算肾小球滤过率 ( estimated glomerular filtration
+rate,eGFR) 与白蛋白尿水平大致推测 DKD 的可能
+性[1]。 因此,对于 2 型糖尿病患者而言,依据患者的
+eGFR 与尿白蛋白水平以及有无合并糖尿病视网膜病
+变,可临床诊断 DKD。 本研究通过分析住院 2 型糖尿
+病患者合并 DKD 的临床特征,探讨其相关危险因素,
+为临床防治 DKD 提供理论依据。
+对象和方法
+一、 对象
+回顾分析 2010 年 8 月至 2013 年 12 月在本院内
+分泌代谢科住院的 2 型糖尿病患者共 930 例,所有患
+者在入院前 6 个月内有 2 次或以上尿白蛋白定量结
+果,均符合世界卫生组织 1999 年糖尿病诊断标准。 排
+除如下情况:1 型糖尿病,糖尿病急性并发症,全身感
+染性疾病,严重水肿及多浆膜腔积液,急性肾功能不
+全,原发性肾小球疾病,急性肾小管坏死,尿路感染与
+梗阻,肾囊肿,萎缩肾、孤立肾及移植肾,急性心脑血管
+事件与充血性心力衰竭。
+二、 方法
+1. 一般资料:收集患者一般资料包括年龄、性别、
+病程,患者入院当天测量血压、身高、体重,计算体重指
+数(BMI)= 体重(kg) /身高2(m2)。 评估患者糖尿病慢
+性并发症情况:高血压病定义为收缩压≥140 mmHg
+(1 mmHg=0. 133 kPa)或舒张压≥90 mmHg,或有高血
+压病史。 外周动脉疾病 ( peripheral artery disease,
+PAD)定义为踝肱指数(ABI)≤0. 9。 白蛋白尿定义为
+尿白蛋白排泄量(urinary albumin excretion,UAE)≥30
+mg / 24 h,其中 UAE 30 ~ 299 mg / 24 h 为微量白蛋白尿,
+UAE≥300 mg 为大量白蛋白尿,UAE<30 mg / 24 h 为正
+常白蛋白尿。 糖尿病周围神经病变(diabetic peripheral
+neuropathy,DPN)定义为有 DPN 临床症状+5 项检查
+(踝反射、针刺痛觉、震动觉、压力觉、温度觉)有 1 项
+异常,无临床症状则 5 项检查有 2 项异常。 糖尿病视
+网膜病变(diabetic retinopathy,DR)使用免散瞳 TRC-
+NW2000 型眼底照相机(日本 TOPCON)进行双眼拍
+片,由专人负责阅片并进行 DR 的诊断与分级[2]。
+2. 实验室指标测定:患者过夜禁食 8 ~ 10 h 后清
+晨空腹取血,血常规测血浆血红蛋白(Hb),由全自动
+生化仪 ( Olympus Diagnostics, Tokyo) 测定空腹血糖
+(FPG)、 总 胆 固 醇 ( TC )、 低 密 度 脂 蛋 白 胆 固 醇
+(LDL-C)、高密度脂蛋白胆固醇(HDL-C)、甘油三酯
+(TG)、血肌酐、尿素氮(BUN)、血尿酸、血清白蛋白。
+HBA1C用高压液相色谱法测定。
+eGFR 的计算采用 CKD-EPI 公式[3],男性:血肌酐
+≤80 μmol / L:141×(血肌酐 / 80) -0. 411 ×0. 993年龄,血肌
+酐>80 μmol / L:141 ×(血肌酐 / 80) -1. 209 ×0. 993年龄;女
+性:血肌酐 ≤62 μmol / L: 144 × (血肌酐 / 62 ) -0. 329 ×
+0. 993年龄,血肌酐>62 μmol / L:144×(血肌酐 / 62) -1. 209×
+0. 993年龄。
+3. 糖尿病合并慢性肾脏疾病的定义:慢性肾脏疾
+病(chronic kidney damage,CKD)定义为存在肾脏结构
+或功能的损害(病理学检查异常、血 /尿成分异常、影
+像学检查异常),伴或不伴有肾小球滤过率(GFR)的
+DKD 是指糖尿病患者出现大量白蛋白尿、微量白蛋白
+尿合并糖尿病视网膜病变,或 1 型糖尿病病程超过 10
+年。 非糖尿病性肾脏疾病(non-diabetic renal diseases,
+NDRD),2 型糖尿病患者合并 CKD 时出现以下情况之
+一应考虑为 NDRD:(1)无 DR;(2)GFR 较低或迅速下
+降;(3)蛋白尿急剧增多或有肾病综合征;(4)顽固性
+高血压;(5)尿沉渣活动表现;(6)其他系统性疾病的
+症状或体征;(7)血管紧张素转换酶抑制剂或血管紧
+张素2受体拮抗剂类药物开始治疗后 2 ~ 3 个月内肾
+小球滤过率下降超过 30% [1]。
+4. 患者分组:按照美国肾脏病基金会关于糖尿病
+合并慢性肾脏疾病指南建议[1],根据 eGFR 分期与白
+蛋白尿水平以及是否合并 DR,将 930 例 2 型糖尿病患
+正常白蛋白尿患者;DKD 组:大量白蛋白尿患者,eGFR
+(1. 73m2) -1的正常白蛋白尿患者,无 DR 且 eGFR≥30
+者。
+三、 统计学处理
+所有数据采用 SPSS 13. 0 软件进行分析。 正态分
+布资料以 x-± s 表示,多组间比较采用单因素方差分析
+LSD 法或 Dunnett忆s T3 法;非正态分布资料以中位数
+(四分位间距)表示,多组间比较采用 Kruskal-Wallis H
+检验。 各组间性别比与糖尿病并发症患病率的比较采
+用 字2检验。 DKD 危险因素分析采用二分类 logistic 回
+归分析法。 以 P<0. 05 为差异有统计学意义。
+结    果
+一、 一般资料
+本研究共纳入住院 2 型糖尿病患者 930 例(男性
+565 例,女性 365 例),平均年龄(52. 71 ± 10. 38)岁,糖
+尿病病程(6. 14 ± 5. 64)年。 290 例(31. 18% )患者合
+并慢性肾脏疾病,其中 283 例(30. 43% )患者合并白
+蛋白尿,7 例(0. 75% )患者为不明原因的肾功能减退
+表 1  不同 eGFR 分期 2 型糖尿病患者白蛋白尿患病率的比较
+[n(% )]
+Tab 1 Prevalence of albuminuria among type 2 diabetic patients by
+different eGFR stages[n(% )]
+组别
+Group
+≥60 30 ~ 59 <30
+总计
+Total
+正常白蛋白尿
+Normal albuminuria 640(73. 90)   7(13. 72)   0(0. 00) 647(69. 57)
+微量白蛋白尿
+Microalbuminuria 160(18. 48)   8(15. 69)   2(15. 38) 170(18. 28)
+大量白蛋白尿
+Macroalbuminuria   66(7. 62) 36(70. 59) 11(84. 62) 113(12. 15)
+总计
+Total 866(100. 00) 51(100. 00) 13(100. 00) 930(100. 00)
+注:eGFR:估算的肾小球滤过率 Estimated glomerular filtration rate
+二、 不同 eGFR 分期 2 型糖尿病患者白蛋白尿患
+病率的比较
+随着 eGFR 的下降,2 型糖尿病患者白蛋白尿的患
+病率逐渐增加,分别为 26. 10% 、86. 28% 、100% ,差异
+具有统计学意义(P<0. 05,表 1)。
+三、 不同肾病分组 2 型糖尿病患者临床特征的比
+较
+对 930 例 2 型糖尿病患者进行肾病分组,正常组
+640 例(68. 82% ),NDRD 组 83 例(8. 92% ),DKD 组
+207 例(22. 26% ),各组患者的临床特征见表 2。 3 组
+患者的性别构成、FPG、HDL-C 及 LDL-C 等指标比较,
+差异无统计学意义(P>0. 05)。 伴有肾脏病变(包括
+NDRD 组与 DKD 组)患者的糖尿病病程、BMI、收缩
+压、血肌酐、血尿酸与 24 h 尿白蛋白排泄量等指标均
+显著高于正常组患者,差异具有统计学意义 ( P <
+0. 05)。DKD 组患者的年龄、糖尿病病程、收缩压、舒张
+压、血肌酐及 24 h 尿白蛋白排泄量等指标均显著高于
+NDRD 组患者(P<0. 05);而 DKD 组患者的 HBA1C、
+Hb、血清白蛋白及 eGFR 等显著低于 NDRD 组患者,
+差异具有统计学意义(P<0. 05)。 同时,DKD 组 2 型
+糖尿病患者合并 DR、DPN、高血压病以及外周血管病
+变等慢性并发症的患病率显著高于正常组及 NDRD
+组患者(均 P<0. 05,表 2)。
+四、 2 型糖尿病合并 DKD 危险因素分析
+二分类 logistic 回归分析结果显示,年龄、糖尿病
+病程、收缩压、血尿酸、DR 及高血压病是 DKD 发生的
+独立危险因素,而血清白蛋白是其保护因素(表 3)。
+讨    论
+糖尿病肾病是糖尿病患者常见的微血管并发症之
+一。 由 20 世纪 80 年代沿用至今的 Mogensen 糖尿病
+肾病分期强调将尿微量白蛋白作为诊断与分期的指
+标。 2007 年,美国肾脏病基金会首次提出了糖尿病肾
+脏疾病的概念, 将其作为糖尿病导致肾损害的临床诊
+断[1]。 2013 年出版的中国 2 型糖尿病防治指南中也
+建议 2 型糖尿病患者每年做尿白蛋白筛查的同时应检
+测血肌酐水平,用于估算肾小球滤过率,从而进一步评
+价肾功能的变化与慢性肾脏疾病的分期[2]。
+表 2  不同肾病分组 2 型糖尿病患者临床特征的比较[x-± s,中位数(四分位数)]
+Tab 2  Comparison of clinical characteristic of type 2 diabetic patients in different groups[x-± s,M(quartile)]
+组别
+Group
+例数(男 / 女)
+n(M / F)
+年龄
+(岁)
+Age
+(year)
+病程
+(年)
+Duration
+(year)
+BMI
+(kg / m2)
+SBP
+(mmHg)
+DBP
+(mmHg)
+SCr
+(μmol / L)
+NC 640(389 / 251) 52. 04 ± 10. 72 4. 00(0. 60-8. 00) 23. 97 ± 3. 44   131 ± 18   80 ± 10 60. 00(49. 00-72. 00)
+NDRD   83(59 / 24) 52. 49 ± 9. 94 5. 00(2. 00-10. 00) a 25. 25 ± 3. 94a   138 ± 20a   82 ± 11 66. 00(53. 00-84. 00) a
+DKD 207(117 / 90) 54. 86 ± 9. 16ab 10. 00(5. 00-14. 00) ab 24. 81 ± 3. 55a   147 ± 23ab   84 ± 13ab 74. 00(59. 00-108. 00) ab
+组别
+Group
+例数(男 / 女)
+n(M / F)
+BUN
+(mmol / L)
+SUA
+(μmol / L)
+FPG
+(mmol / L)
+HBA1C
+(% )
+Hb
+(g / L)
+ALB
+(g / L)
+TG
+(mmol / L)
+TC
+(mmol / L)
+NC 640(389 / 251) 5. 10(4. 30-6. 00) 334. 91 ± 89. 00 8. 70 ± 3. 79 9. 69 ± 3. 18 139. 03 ± 15. 95 40. 65 ± 3. 84 2. 01 ± 2. 03 5. 15 ± 1. 20
+NDRD   83(59 / 24) 5. 90(4. 75-7. 13) 378. 05 ± 112. 70a 8. 97 ± 4. 15 9. 29 ± 2. 45 138. 18 ± 19. 67 40. 55 ± 3. 55 3. 30 ± 4. 24a 5. 53 ± 1. 46a
+DKD 207(117 / 90) 6. 10(4. 90-8. 20) a 384. 40 ± 100. 22a 8. 73 ± 3. 77 9. 07 ± 2. 10ab 125. 40 ± 21. 95ab 37. 45 ± 5. 54ab 2. 38 ± 2. 31 5. 31 ± 1. 33
+组别
+Group
+例数(男 / 女)
+n(M / F)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+UAE
+(mg / 24 h)
+eGFR
+DR
+(% )
+DPN
+(% )
+HP
+(% )
+PAD
+(% )
+NC 640(389 / 251) 1. 23 ± 0. 67 3. 12 ± 0. 85   8. 59(6. 00-15. 00) 106. 61(97. 54-115. 22) 20. 47 39. 68 22. 50 3. 44
+NDRD   83(59 / 24) 1. 11 ± 0. 32 3. 32 ± 1. 26   66. 00(38. 00-138. 00) a 103. 15(85. 39-114. 88) 7. 23 40. 96 28. 92 9. 64
+DKD 207(117 / 90) 1. 14 ± 0. 37 3. 27 ± 1. 08 383. 00(107. 00-1 378. 00) ab 89. 66(59. 10-108. 25) ab 89. 37ab 68. 60ab 49. 76ab 13. 53ab
+注:NC:正常对照组 Normal control group;NDRD:非糖尿病肾脏疾病 Non-diabetic renal diseases;DKD:糖尿病肾脏疾病 Diabetic kidney diseases;
+M:Male;F:Female;BMI:体重指数 Body mass index;SBP:收缩压 Systolic blood pressure;1 mmHg=0. 133 kPa;DBP:舒张压 Diastolic blood pressure;SCr:血
+肌酐 Serum creatinine;BUN:血尿素氮 Blood urea nitrogen;SUA:血尿酸 Serum uric acid;FPG:空腹血糖 Fasting plasma glucose;Hb:血红蛋白 Hemoglobin;
+ALB:白蛋白 Albumin;TG:甘油三酯 Triglyceride;TC:总胆固醇 Total cholesterol;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:
+低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;UAE:尿白蛋白排泄量 Urinary albumin excretion;eGFR:估算的肾小球滤过率 Estimated glomerular
+filtration rate;DR:糖尿病视网膜病 Diabetic retinopathy;DPN:糖尿病周围神经病变 Diabetic peripheral neuropathy;HP:高血压 Hypertension;PAD:外周血
+管病变 Peripheral artery disease;与 NC 组比较 vs NC group,aP<0. 05;与 NDRD 组比较 vs NDRD group,bP<0. 05
+表 3  2 型糖尿病患者发生糖尿病肾脏疾病的危险因素分析
+Tab 3  Risk factors for diabetic kidney disease in patients with type
+2 diabetes
+变量
+Variable B S. E. Wald P OR(95% CI)
+年龄
+Age 0. 051 0. 014 12. 493 0. 000 1. 951(1. 924-1. 978)
+糖尿病病程
+Duration of diabetes 0. 095 0. 023 17. 889 0. 000 1. 100(1. 053-1. 149)
+SBP 0. 030 0. 007 21. 163 0. 000 1. 030(1. 017-1. 043)
+SUA 0. 005 0. 001 12. 864 0. 000 1. 005(1. 002-1. 007)
+ALB -0. 109 0. 029 13. 985 0. 000 0. 897(0. 847-0. 950)
+DR 1. 303 0. 106 150. 411 0. 000 3. 679(2. 988-4. 531)
+HP 0. 786 0. 268 8. 613 0. 003 2. 194(1. 298-3. 708)
+注:略语同表 2 The abbreviations are the same as Tab 2
+以往的研究报道,我国 33. 9% ~52. 25%的住院 2
+型糖尿病患者合并 CKD[4-6]。 本研究 31. 18% (290 /
+930)的 2 型糖尿病患者合并 CKD。 进一步根据 eGFR
+与尿白蛋白水平以及是否合并 DR 分析, DKD 占
+22. 26% ,NDRD 占 8. 92% ,均低于单纯白蛋白尿患者
+所占比例(30. 43% ),提示以尿白蛋白诊断糖尿病肾
+病时可能还包含了部分非糖尿病性的肾脏损伤[7]。
+研究表明,DKD 与 NDRD 的发生、发展存在明显差异,
+从糖尿病合并 CKD 中鉴别出 DKD 与 NDRD 对于判断
+患者的肾病预后与临床结局十分重要[8]。 在本研究
+中,与 NDRD 组患者相比,DKD 组患者的年龄更大,糖
+尿病病程更长,收缩压、舒张压、尿白蛋白排泄量更高,
+eGFR 下降程度更为严重。 由于尿白蛋白的丢失及肾
+功能的损伤更为显著,DKD 组患者血清白蛋白水平与
+血红蛋白下降也更为明显。 DKD 组患者还有着更高
+的糖尿病微血管与大血管并发症的患病率。 进一步的
+分析结果显示,年龄、糖尿病病程、收缩压、血尿酸、DR
+及高血压病是糖尿病肾脏疾病发生的独立危险因素,
+而血清白蛋白是其保护因素。
+年龄与糖尿病病程是影响 DKD 进展的关键因
+素。 >40 岁的成年人肾小球滤过率下降约 1 ml·
+min-1·年-1,而糖尿病患者肾小球滤过率的下降速度
+龄的增长与糖尿病病程的延长,患者暴露于慢性高血
+糖、高血压、高血脂、高尿酸等危险因素中的时间越长,
+患者合并肾脏损伤及各种并发症的风险也就越大。 同
+时,糖尿病病程的长短也可作为区分 DKD 与 NDRD 的
+指标之一[8]。 本研究结果也显示,年龄与病程均是
+DKD 发生的独立危险因素。 因此,对于年龄较大、病
+程较长的 2 型糖尿病患者更应该注重 DKD 的筛查与
+评估。
+高血压是糖尿病常见的并发症或伴发病之一。 2
+型糖尿病患者合并高血压是多种心血管危险因素并存
+的表现,同时也增加了慢性肾脏损伤的风险。 血压升
+高通过激活肾素-血管紧张素-醛固酮系统,加重了糖
+尿病状态下肾脏高滤过、高灌注的血流动力学异常;激
+活炎症与氧化应激反应、加重血管内皮功能障碍,使尿
+白蛋白排泄量逐渐增加并进展为持续性白蛋白尿;高
+血压还可以加速动脉粥样硬化的形成进一步加重肾脏
+血管的损伤。 高血压,尤其是收缩压的升高与变异,是
+糖尿病肾病发生发展以及 GFR 迅速下降的独立危险
+因素[9,10]。 而英国糖尿病前瞻性研究(UKPDS)的结
+果提示,2 型糖尿病患者的收缩压每降低 10 mmHg,可
+使蛋白尿的发生率下降 30% [5]。 因此,血压管理在糖
+尿病肾病临床防治中占有重要地位。
+尿酸是人体内嘌呤代谢的最终产物,各种肾损伤
+导致的肾小球滤过率下降使尿尿酸排泄减少、血尿酸
+升高。 而血尿酸水平升高又通过活化炎症因子与促纤
+维化因子、激活氧化应激与肾内肾素-血管紧张素-醛
+固酮系统、抑制一氧化氮生成而加重血管内皮功能障
+碍等途径参与糖尿病肾病的发生发展[11]。 有研究报
+道,合并高尿酸血症的 2 型糖尿病患者出现慢性肾功
+能不全或大量蛋白尿的风险显著高于血尿酸正常患
+者,血尿酸水平每增加 1 个标准差,患者出现慢性肾脏
+疾病的风险增加 21% [12]。 血尿酸水平的降低则减少
+了 2 型糖尿病肾病患者血肌酐倍增及进入终末期肾病
+的风险[13]。 提示我们应关注 DKD 患者的血尿酸水
+平,及时干预,延缓患者的肾病进展。
+DR 既是 DKD 的临床诊断条件之一,也是影响患
+者肾病进展的重要因素。 与未合并视网膜病变的 2 型
+糖尿病患者相比,合并视网膜病变的正常或微量白蛋
+白尿患者出现大量蛋白尿的风险更高,GFR 的下降速
+度更快[14]。 慢性高血糖通过血流动力学异常、糖基化
+终末产物、多元醇途径激活与氧化应激等机制共同参
+与了肾小球与视网膜微血管的损伤。 1 型糖尿病肾病
+患者均伴有不同程度的视网膜病变,而 2 型糖尿病肾
+病患者则不同。 Liang 等[8]报道,23. 6%经病理证实为
+糖尿病肾病的 2 型糖尿病患者未合并视网膜病变,提
+示 2 型糖尿病肾脏损伤的病因存在一定的异质
+性[1,7]。 本研究有 44. 12% (75 / 170)微量白蛋白尿患
+者与 19. 47% (22 / 113)大量白蛋白尿患者未合并视网
+膜病变,我们应加强对这些患者 DR 以及肾病进展的
+随访。
+本研究结果还显示,血清白蛋白是 DKD 的保护因
+素。 血清白蛋白反映了机体的全身营养状况,随着尿
+白蛋白排泄量的增加,DKD 患者会出现不同程度的低
+蛋白血症。 研究发现,低蛋白血症不仅与 2 型糖尿病
+患者的肾病严重程度相关,也与视网膜病变、周围神经
+病变等严重程度相关[15],同时也增加了 DKD 患者心
+脑血管事件发生的风险,是预测患者死亡的独立危险
+因素,血清白蛋白每升高 1 g / L,DKD 患者死亡的风险
+平均下降 10% [16]。 我们在 DKD 的临床防治工作中也
+应积极纠正患者的低蛋白血症,改善患者全身营养状
+况,改善患者的预后。
+综上所述,2 型糖尿病患者合并 DKD 与多种临床
+危险因素相关。 我们应该重视 DR 对 DKD 的预测与
+诊断作用,积极地控制血压、血尿酸,纠正低蛋白血症
+等以延缓 DKD 的进展。 本研究未能体现出血糖、血脂
+对 DKD 的影响,可能与所纳入的糖尿病患者均已接受
+降糖、调脂治疗,且肾病患者常合并贫血而使 HBA1C不
+能真实反映患者血糖控制情况等因素有关。 同时,我
+们应进一步加强对 DKD 患者的纵向随访研究,为临床
+防治 DKD 提供更多的理论依据。

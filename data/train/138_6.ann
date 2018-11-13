@@ -1,0 +1,163 @@
+T1	Test 2359 2363	空腹血糖
+T2	Test 2753 2757	空腹血糖
+T3	Test 3323 3327	空腹血糖
+T4	Test 4070 4074	空腹血糖
+T5	Test 2785 2789	2hPG
+T6	Test 3146 3150	2hPG
+T7	Disease 23 28	妊娠糖尿病
+T8	Disease 117 122	妊娠糖尿病
+T9	Disease 284 286;287 290	妊娠 糖尿病
+T10	Disease 326 331	妊娠糖尿病
+T11	Disease 380 385	妊娠糖尿病
+T12	Disease 1904 1909	妊娠糖尿病
+T13	Disease 2047 2052	妊娠糖尿病
+T14	Disease 2210 2215	妊娠糖尿病
+T15	Disease 3528 3533	妊娠糖尿病
+T16	Disease 3783 3788	妊娠糖尿病
+T17	Disease 3846 3851	妊娠糖尿病
+T18	Disease 3906 3911	妊娠糖尿病
+T19	Disease 3939 3944	妊娠糖尿病
+T20	Disease 4275 4280	妊娠糖尿病
+T21	Disease 4349 4354	妊娠糖尿病
+T22	Disease 4545 4550	妊娠糖尿病
+T23	Disease 4920 4925	妊娠糖尿病
+T24	Disease 5042 5047	妊娠糖尿病
+T25	Test 2232 2236	体重指数
+T26	Test 2344 2348	体重指数
+T27	Test 2724 2728	体重指数
+T28	Test 4002 4006	体重指数
+T29	Test 3406 3410	OGTT
+T30	Test 3836 3840	OGTT
+T31	Test 3987 3991	OGTT
+T32	Test 4093 4097	OGTT
+T33	Disease 12 22	亚临床甲状腺功能减退
+T34	Disease 153 154;155 164	亚 临床甲状腺功能减退
+T35	Test 2684 2693	口服葡萄糖耐量试验
+T36	Test 1756 1762	游离甲状腺素
+T37	Disease 3352 3357	产后甲状腺
+T38	Test 81 86	甲状腺功能
+T39	Test 345 350	甲状腺功能
+T40	Test 1999 2002;2003 2005	甲状腺 功能
+T41	Test 2144 2149	甲状腺功能
+T42	Test 2641 2646	甲状腺功能
+T43	Test 2652 2657	甲状腺功能
+T44	Test 3332 3337	甲状腺功能
+T45	Test 3643 3648	甲状腺功能
+T46	Test 3923 3928	甲状腺功能
+T47	Test 4311 4316	甲状腺功能
+T48	Test 4511 4516	甲状腺功能
+T49	Test 5008 5010;5011 5014	甲状 腺功能
+T50	Test 1736 1739	TSH
+T51	Test 2155 2158	TSH
+T52	Test 2256 2259	TSH
+T53	Test 2375 2378	TSH
+T54	Test 2739 2742	TSH
+T55	Test 3224 3227	TSH
+T56	Test 4438 4441	TSH
+T57	Test 1763 1766	FT4
+T58	Test 2177 2180	FT4
+T59	Test 3261 3264	FT4
+T60	Test 4685 4688	FT4
+T61	Test 2171 2174	FT3
+T62	Test 3257 3260	FT3
+T63	Test 4645 4648	FT3
+T64	Test 2237 2240;2241 2242	空腹血 糖
+T65	Test 3143 3145	血糖
+T66	Test 3160 3162	血糖
+T67	Test 4765 4767	血糖
+T68	Test 4730 4737	甲状腺激素水平
+T69	Disease 217 218;219 223	亚 临床甲减
+T70	Disease 267 272	亚临床甲减
+T71	Disease 316 321	亚临床甲减
+T72	Disease 1722 1727	亚临床甲减
+T73	Disease 1783 1788	亚临床甲减
+T74	Disease 3678 3683	亚临床甲减
+T75	Disease 3733 3735;3736 3739	亚临 床甲减
+T76	Disease 4235 4240	亚临床甲减
+T77	Disease 4269 4274	亚临床甲减
+T78	Disease 4342 4347	亚临床甲减
+T79	Disease 4368 4373	亚临床甲减
+T80	Disease 4479 4484	亚临床甲减
+T81	Disease 4534 4539	亚临床甲减
+T82	Disease 4851 4856	亚临床甲减
+T83	Disease 5021 5026	亚临床甲减
+T84	Disease 93 102;103 104	亚临床甲状腺功能异 常
+T85	Disease 165 167	甲减
+T86	Disease 241 248	甲状腺功能亢进
+T87	Disease 1618 1620	甲减
+T88	Anatomy 1634 1638	甲状腺素
+T89	Disease 1684 1686	甲减
+T90	Test 1728 1735	血清促甲状腺素
+T91	Anatomy 1867 1872	甲状腺激素
+T92	Anatomy 1888 1893	甲状腺激素
+T93	Disease 1931 1933	甲减
+T94	Disease 1934 1941	甲状腺功能亢进
+T95	Disease 1942 1943;1944 1945	甲 亢
+T96	Disease 1956 1966	亚临床甲状腺功能异常
+T97	Test 2159 2169	游离三碘甲状腺原氨酸
+T98	Disease 2198 2208	亚临床甲状腺功能异常
+T99	Disease 3673 3677	临床甲减
+T100	Disease 3707 3711	临床甲减
+T101	Disease 3750 3752	甲亢
+T102	Disease 3872 3874	甲亢
+T103	Disease 3854 3856	甲减
+T104	Disease 4030 4032	甲减
+T105	Disease 4083 4085	甲亢
+T106	Disease 4121 4123	甲减
+T107	Disease 4139 4141	甲减
+T108	Anatomy 4210 4215	甲状腺激素
+T109	Symptom 4249 4253;4254 4255	胰岛素抵 抗
+T110	Anatomy 4580 4585	甲状腺激素
+T111	Anatomy 4591 4594	胰岛素
+T112	Anatomy 4600 4602	胰岛
+T113	Anatomy 4616 4619	胰岛素
+T114	Anatomy 4632 4635	胰岛素
+T115	Anatomy 4652 4660	小肠细胞膜刷状缘
+T116	Anatomy 4680 4684	小肠上皮
+T117	Disease 4723 4725	甲减
+T118	Anatomy 4822 4825	甲状腺
+T119	Disease 4877 4879	流产
+T120	Disease 4880 4882	早产
+T121	Disease 4883 4887	胎盘早剥
+T122	Disease 1704 1706	早产
+T123	Disease 1698 1702	妊娠流产
+T124	Test 1809 1815	胰岛素敏感性
+T125	Disease 1986 1988	妊娠
+T126	Duration 1988 1993	<12 周
+T127	Duration 2187 2195	24 ~28 周
+T128	Duration 2282 2287	<12 周
+T129	Test_Value 3235 3255	0. 03 ~ 3. 6 mIU / L
+T130	Test_Value 3273 3295	9. 1 ~ 19. 24 pmol / L
+T131	Disease 3804 3808	早期妊娠
+T132	Duration 3821 3830	24 ~ 28 周
+T133	Anatomy 4152 4154	胎盘
+T134	Disease 4161 4163	妊娠
+T135	Disease 4303 4307	妊娠早期
+T136	Disease 4575 4577	甲亢
+T137	Anatomy 4692 4694	肠道
+T138	Anatomy 4708 4710	肠道
+T139	Anatomy 4754 4756	肠道
+T140	Anatomy 3457 3460	静脉血
+T141	Anatomy 3485 3488	静脉血
+T142	Disease 3540 3544;3545 3546	妊娠糖尿 病
+T143	Test_Value 4053 4057	明显增高
+T144	Test 4560 4567	血浆葡萄糖水平
+T145	Test_Value 4773 4775	减低
+T146	Test 4833 4838	甲状腺激素
+T147	Test 3390 3404	75 g 口服葡萄糖耐量试验
+T148	Test 2039 2044	甲状腺功能
+T149	Disease 3775 3782	甲状腺功能异常
+T150	Disease 4326 4333	甲状腺功能异常
+T151	Disease 4777 4784	甲状腺功能异常
+T152	Test 4033 4043;4044 4045	糖负荷后 1 h 血 糖
+T153	Test 4047 4053	2 h 血糖
+T154	Disease 2021 2023	甲减
+T155	Disease 4867 4869;4870 4873	亚临 床甲减
+T156	Disease 193 195	甲减
+T157	Disease 1610 1617	甲状腺功能减退
+T158	Reason 1851 1856	胰岛素抵抗
+T159	Disease 3891 3895	妊娠甲减
+T160	Anatomy 4165 4175;4176 4177	下丘脑-垂体-甲状腺 轴
+T161	Test 4740 4743	胰岛素
+T162	Test 4768 4771	糖耐量
+T163	Reason 4789 4794	胰岛素抵抗

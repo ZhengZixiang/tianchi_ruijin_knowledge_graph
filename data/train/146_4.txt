@@ -1,0 +1,386 @@
+糖尿病肾病
+基金项目:国家自然科学基金项目(81173428,81373864,81200612)
+“亚临床冶2 型糖尿病肾病患者尿血管紧张素
+原水平及相关因素分析
+杨笑云  常宝成  单春艳  徐延光  张祎  韩菲  王靖宇  许杰  郑妙艳  任慧珠
+杨菊红
+[摘要]   目的  评价“亚临床冶2 型糖尿病肾病患者尿血管紧张素原(UAGT)水平的变化及相关因素。
+方法 (1)80 例无高血压且未服用血管紧张素转换酶抑制剂(ACEI)或血管紧张素2受体阻断剂(ARB)类
+药物的 2 型糖尿病患者,按照尿蛋白水平及肾小球滤过率分为正常蛋白尿正常滤过组(即正常对照组)、正
+常蛋白尿高滤过组(即“亚临床冶糖尿病肾病组)、微量蛋白尿组(早期糖尿病肾病组),比较各组间 UAGT
+水平;(2)同时将患者根据肾小管受损的严重程度进行分组,比较各组间的 UAGT 水平并分析其相关因素;
+(3)另入选 20 例处于早期糖尿病肾病阶段且应用 ACEI 或 ARB 类药物的 2 型糖尿病患者,与处于同一阶
+段未应用 ACEI 或 ARB 类药物患者比较 UAGT 水平差异。 结果 与正常对照组患者相比,“亚临床冶糖尿
+病肾病组患者的 UAGT 明显下降[(1. 47 ± 0. 11 对 1. 59 ± 0. 11)ng / ml,P<0. 05],但进展至早期糖尿病肾病
+UAGT 明显升高[(1. 62 ± 0. 15)ng / ml,P<0. 05];随肾小管损伤程度的逐渐加重,UAGT 呈逐渐升高趋势;多
+元线性回归分析显示 UAGT 与估算的肾小球滤过率呈负相关(P<0. 05),与视黄醇结合蛋白呈正相关(P<
+0. 05);早期糖尿病肾病患者,应用 ACEI 或 ARB 类药物可明显降低 UAGT 水平[(1. 43 ± 0. 16 对 1. 62 ±
+0. 15)ng / ml,P<0. 05]。 结论 肾脏局部 UAGT 在“亚临床冶糖尿病肾病及早期糖尿病肾病阶段存在先下
+降而后升高的动态变化过程,可能参与了 2 型糖尿病肾小球及肾小管损伤的发生发展,肾素-血管紧张素系
+统抑制剂可以降低微量白蛋白尿患者的 UAGT,延缓肾脏病变进展。
+[关键词]   亚临床; 糖尿病肾病; 尿血管紧张素原; 肾小管
+Urinary angiotensinogen level and its risk factors in patients with "subclinical" diabetic nephropathy Yang
+Xiaoyun, Chang Baocheng, Shan Chunyan, Xu Yanguang, Zhang Yi, Han Fei, Wang Jingyu, Xu Jie, Zheng
+Miaoyan, Ren Huizhu, Yang Juhong. Department of Diabetic Nephrology, the Metabolic Diseases Hospital, Tianjin
+Medical University, Key Lab of Hormones and Development, Ministry of Health, Tianjin 300070, China
+[Abstract]  Objective  To evaluate the level and related factors of urinary angiotensinogen in patients with
+" subclinical" diabetic nephropathy. Methods (1)A total of 80 type 2 diabetic patients without angiotensin-converting
+enzyme inhibitor (ACEI) or angiotensin 2 receptor blocker(ARB) treatment and hypertension were divided into 3
+groups according to 24-hour urinary albuminuria and estimated glomerular filtration rate( eGFR):normoalbuminuria
+with normal glomerular filtration rate group[urinary microalbuminuria(UMA) <30 mg / 24 h,90≤eGFR <120 ml·
+min-1·(1. 73 m2) -1, NC group, n=28], normoalbuminuria with glomerular hyperfiltration group[UMA<30 mg / 24
+various groups were compared. (2)The levels of urine retinol binding protein(RBP), N-acetyl-β-D-glucosaminadase,
+α-galactosidase, and β2 -microglobubin were used to evaluate the renal tubular function. Then all the patients were
+divided into 4 groups according to the degree of renal tubular injury; the urinary angiotensinogen was compared and the
+independent related factors were analyzed. (3)20 type 2 diabetic patients with microalbuminuria and ACEI or ARB
+treatment were also enrolled in this study. The level of urinary angiotensinogen was compared between patients with
+and without ACEI or ARB treatment. Results Compared with NC group, the level of urinary angiotensinogen in the
+SDN group was lowered[(1. 47 ±0. 11 vs 1. 59 ±0. 11)ng / ml,P<0. 05], but was raised in the EDN group[(1. 62 ±
+0. 15) ng / ml,P < 0. 05] . With the aggravation of renal tubular injury, the level of urinary angiotensinogen was
+increased. Multiple regression analysis showed that urinary angiotensinogen was positively correlated with RBP(P<
+0. 05)and negatively correlated with eGFR(P<0. 05) . Compared with the patients without ACEI or ARB treatment,
+the level of urinary angiotensinogen was decreased in patients with ACEI or ARB treatment [(1. 43 ± 0. 16 vs 1. 62 ±
+0. 15)ng / ml,P<0. 05] . Conclusion The level of urinary angiotensinogen in patients with " subclinical" diabetic
+nephropathy is lowered, but is then raised in patients with microalbuminuria, which may participate in the progression
+of renal glomerular and tubular injury in diabetic nephropathy. The renin-angiotensin system inhibitors may delay the
+progression of diabetic nephropathy via decreasing urinary angiotensinogen level.
+[Key words]  Subclinical; Diabetic nephropathy; Urinary angiotensinogen; Renal tubular injury
+(Chin J Endocrinol Metab, 2015, 31: 395-399)
+随着糖尿病发病率的逐年升高,糖尿病肾脏病
+(diabetic nephropathy,DN)已成为终末期肾脏病的主
+要病因,目前认为,DN 的发生是遗传因素和环境因素
+长期综合作用的结果。 正如其他组织器官一样,肾脏
+在高血糖等致病因素作用下,在尚未出现明显结构改
+变之前很长一段时间内都将处在功能自我代偿阶段,
+即 Mogensen 分期所描述的高滤过率期。 如果将尿微
+量白蛋白(urinary microalbuminuria,UMA)升高作为临
+床 DN 的标志,那么上述高滤过率期,即 UMA 尚未升
+高的功能代偿阶段就可以被视为“亚临床冶DN。 肾素-
+血管紧张素系统(renin-angiotensin system,RAS)在 DN
+的发生发展中发挥重要作用,然而,有研究证实,部分
+糖尿病患者的循环 RAS 活性并不高[1]。 近年的研究
+发现,肾脏局部存在完整的 RAS 组成成分,此时与全
+身无关的肾脏局部 RAS 系统的激活是触发糖尿病肾
+脏血流动力学改变及诱发 DN 的重要致病因素之
+一,但目前有关其在“亚临床冶 DN 及 2 型糖尿病早
+期肾脏损伤中的变化特点研究,特别是与肾小管功能
+相 关 性 的 研 究 较 少。 循 环 中 的 血 管 紧 张 素 原
+(angiotensinogen,AGT)主要来源于肝脏,而肾脏局部
+也可以分泌血管紧张素原。 近年来,多项动物试验及
+临床研究显示[2-5],尿血管紧张素原(UAGT)与肾脏局
+部 RAS 系统水平明显相关,可以作为反映肾脏局部
+RAS 系统激活程度的指标。 本研究旨在观察 UAGT
+在“亚临床冶 DN 及早期 DN 发生发展中的变化,同时
+分析其与肾小管功能间的关系。
+对象和方法
+一、 对象
+收集 2013 年 5 月至 2014 年 1 月本院住院的 2 型
+糖尿病患者 80 例,年龄(50. 31 ±8. 11)岁,男性 41 例,
+年龄(49. 76 ± 8. 08) 岁,女性 39 例,年龄 (50. 90 ±
+8. 20)岁。入选标准:未患有高血压且未服用血管紧张
+素转化酶抑制剂(ACEI)或血管紧张素2受体阻断剂
+(ARB)类药物,UMA<300 mg / 24 h,估算的肾小球滤过
+心脑血管事件、感染、酮症、应激状态、运动、非糖尿病
+肾病、肝功能异常及其他内分泌疾病。 根据患者 24 h
+UMA 及简化的肾脏病饮食改良方程(modification of
+diet in renal disease, MDRD) 公式计算 eGFR,参照
+Mongensen 分期法进行分组:(1)正常蛋白尿正常滤过
+(1. 73m2) -1],设为正常对照(NC)组;(2)正常蛋白尿
+高滤过率组 [ UMA < 30 mg / 24 h, eGFR≥120 ml ·
+min-1·(1. 73 m2 ) -1 ],设为 “亚临床冶 糖尿病肾病
+(SDN)组;(3)微量白蛋白尿组[30 mg / 24 h≤UMA<
+m2) -1],设为早期糖尿病肾病(EDN)组。 另收集处于
+早期糖尿病肾病的 2 型糖尿病患者 20 例[30≤UMA<
+均服用 ACEI 或 ARB 类药物。
+二、 方法
+1. 临床资料:记录性别、年龄、身高、病程、体重、
+m2) -1] = 175 ×[血肌酐(mg / dl)] -1. 234 ×年龄-0. 179 (女
+性×0. 79)。
+2. 尿标本的留取:(1)晨尿:患者于血糖控制平稳
+后留取新鲜晨尿 10 ml,冰水浴冷却,1 000 转 / min 4℃
+离心 5 min,分离上清液,分装后-80℃冰箱保存,用于
+UAGT、视黄醇结合蛋白(RBP)、N-乙酰-D-氨基葡萄糖
+苷酶(NAG)、α-半乳糖苷酶(GAL)测定;(2)随机尿:
+于留取晨尿当天上午留取任何 1 次尿,用于尿 β2 微球
+蛋白(β2 -MG)测定;(3)24 h 尿:于留取晨尿第 2 天开
+始连续留取 2 次 24 h 尿,排除尿路感染、经期,留取
+24 h 尿期间避免剧烈运动。
+三、 检测指标
+1. UAGT 检测:采用人总 AGT 酶联免疫吸附检测
+(ELISA) 试剂盒 (日本 Immuno-Biological Lab) 测定
+UAGT,尿液 1 : 8 稀释,上样,37℃孵育 60 min。 洗涤 7
+次,每孔加 100 滋l 酶联抗体,37℃孵育 30 min。 洗涤 9
+次,每孔加 100 滋l 显色剂,室温孵育 30 min 后,每孔加
+100 滋l 终止液。 酶标仪 450 nm 波长处读取各孔的吸
+光度(A)值,绘制浓度标准曲线,计算浓度。
+2. 肾小管相关指标检测:免疫透射比浊法测定
+RBP 及 β2 -MG,生化法测定 NAG 及 GAL。 尿 RBP、
+β2 -MG、NAG、 GAL 的正常参考上限值分别为 0. 7
+mg / L、0. 3 mg / L、12 U / L、15 U / L,超过上限值视为异
+常。
+3. 24 h 尿白蛋白检测:免疫透射比浊法测定 24 h
+UMA,取 2 次平均值,UMA<30 mg / 24 h 为正常白蛋白
+尿,30 mg / 24 h≤UMA<300 mg / 24 h 为微量蛋白尿。
+四、 统计学处理
+采用 SPSS 17. 0 统计软件分析。 计量资料进行正
+态性检验,正态分布资料以 x-± s 表示,计数资料以绝对
+例数或百分比表示,正态分布且方差齐的多组比较采
+用单因素方差分析(ANOVA),组间两两比较采用 LSD-
+t 检验,正态分布的计量资料 2 组间比较采用独立样本
+t 检验,经检验不符合正态分布时,不符合条件时以 M
+(QR)表示,应用 Kruskal-Wallis 秩和检验进行多组间比
+较。 单因素相关分析采用 Pearson 和 Spearman 分析,
+UAGT 与相关因素之间采用多元线性回归分析。 P<
+0. 05 为差异有统计学意义。
+结    果
+一、 患者一般资料比较
+NC 组、SDN 组、EDN 组间年龄、性别构成、病程、
+总胆固醇、高密度脂蛋白胆固醇、HBA1C、体重指数均
+无明显差异。 与 SDN 组相比,NC 组、EDN 组 eGFR 均
+降低(P<0. 05);与 NC 组相比,EDN 组甘油三酯水平
+明显升高(P<0. 05);与 SDN 组相比,EDN 组总胆固醇
+明显升高(P<0. 05);与 SDN 组相比,NC 组及 EDN 组
+低密度脂蛋白胆固醇水平均升高(P<0. 05,表 1)。
+表 1  各组患者临床特征比较[x-± s,中位数(四分位间距)]
+Tab 1  Comparison of clinical data among various groups[x-± s,M(quartile)]
+组别
+Group
+例数
+(男性 / 女性)
+n(M / F)
+年龄
+(岁)
+Age
+(year)
+eGFRMDRD
+病程
+(年)
+Duration
+(year)
+TG
+(mmol / L)
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+HBA1C
+(% )
+BMI
+(kg / m2)
+NC  28(14 / 14) 51. 64 ± 8. 98 103. 3(18. 9) 3(11) 0. 95(1. 11) 5. 50 ± 1. 04 1. 30(0. 60) 3. 63 ± 0. 76 9. 58 ± 1. 86 25. 66 ± 2. 82
+SDN 36(18 / 18) 48. 53 ± 6. 27 133. 2(20. 3) a 8(10) 1. 52(1. 60) 5. 01 ± 1. 38 1. 25(0. 57) 2. 95 ± 1. 12a 9. 54 ± 1. 80 25. 84 ± 3. 45
+EDN 16(9 / 7)   53. 38 ± 7. 97 111. 8(30. 5) b 11(13) 2. 98(7. 07) a 6. 17 ± 2. 11b 1. 25(0. 40) 3. 84 ± 1. 30b 9. 66 ± 2. 09 26. 25 ± 2. 86
+UMA: 尿微量白蛋白 Urinary microalbuminuria; eGFRMDRD:用 MDRD 公式估算的肾小球滤过率 Estimated glomerular filtration rate by MDRD;TG:甘油三酯
+Triglyceride;TC:总胆固醇 Total cholesterol;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density
+lipoprotein-cholesterol;BMI:体重指数 Body mass index;与 NC 组比较 vs NC group, aP<0. 05;与 SDN 组比较 vs SDN group, bP<0. 05
+表 2  各组患者肾脏损伤指标和 UAGT 比较[x-± s, 中位数(四分位间距)]
+Tab 2  Comparison of kidney injury index and UAGT among various groups[x-± s, M(quartile)]
+组别
+Group
+例数
+n
+Scr
+(μmol / L)
+UMA
+(mg / 24 h)
+β2 -MG
+(mg / L)
+NAG
+(U / L)
+GAL
+(U / L)
+RBP
+(mg / L)
+UAGT
+(ng / ml)
+NC  28 65. 28 ± 11. 53 18. 50(9. 60) 0. 18(0. 16) 9. 65(6. 8) 4. 49(2. 16) 0. 69(0. 51) 1. 59 ± 0. 11
+SDN 36 52. 08 ± 11. 32a 17. 95(7. 48) 0. 14(0. 09) 6. 50(5. 2) 4. 01(1. 36) 0. 52(0. 28) 1. 47 ± 0. 11a
+EDN 16 68. 95 ± 5. 85b 47. 07(88. 48) ab 0. 14(0. 76) 7. 20(11. 2) 3. 81(1. 39) 1. 33(3. 48) b 1. 62 ± 0. 15b
+注:分组同表 1 The group of assignments are the same as Tab 1;Scr:血肌酐 Serum creatinine;UMA:尿微量白蛋白 Urinary microalbuminuria;β2 -MG:β2
+微球蛋白 β2 -microglobubin;NAG:N-乙酰-D-氨基葡萄糖苷酶 N-acetyl-β-D-glucosaminadase;GAL:α 半乳糖苷酶 α-galactosidase;RBP:视黄醇结合蛋白
+Retinol binding protein;UAGT:尿血管紧张素原 Urinary angiotensinogen;与 NC 组比较 vs NC group,aP<0. 05;与 SDN 组比较 vs SDN group,bP<0. 05
+二、 各组患者肾脏损伤指标比较
+与 NC 组及 EDN 组相比,SDN 组血肌酐水平显著
+降低(P<0. 05);与 NC 组及 SDN 组相比,EDN 组尿微
+量白蛋白水平明显升高(P<0. 05);与 SDN 组相比,
+EDN 组 RBP 明显升高(P<0. 05,表 2)。
+三、 3 组间 UAGT 比较
+从正常蛋白尿阶段至微量蛋白尿阶段,UAGT 水
+平呈升高趋势,进一步分组比较可见 SDN 组 UAGT 水
+平明显低于 NC 组(P<0. 05),且明显低于 EDN 组(P<
+0. 05,表 2)。
+四、不同程度肾小管损伤的患者的 UAGT 水平分析
+以肾小管尿标志蛋白 /酶 GAL、RBP、NAG、β2 -MG
+作为评价肾小管受损的指标,以异常的数目作为评价
+肾小管受损严重程度的指标,随着肾小管受损程度的
+逐渐加重,UAGT 水平呈逐渐增高趋势(图 1)。
+注:4 个肾小管损伤指标为 GAL、RBP、NAG 和 β2 -MG Four indexes of
+renal tubular injury including GAL,RBP,NAG, and β2 -MG;略语同表 2 The
+abbreviations are the same as Tab 2
+图 1  不同程度肾小管损伤患者 UAGT 水平
+Fig 1   Comparison of urinary angiotensinogen among patients in different
+degrees of renal tubular injury
+五、 UAGT 的相关因素分析
+对 UAGT 与多因素进行相关性分析可见,UAGT
+与血肌酐、24 h 尿白蛋白、RBP 水平呈正相关( r 值分
+别为 0. 288、0. 241、0. 278,均 P<0. 05);与 eGFR 呈负
+相关( r= -0. 411,P<0. 05,表 3)。
+表 3  尿血管紧张素原的相关因素分析
+Tab 3   Simple correlation of urinary angiotensinogen with various
+clinical parameters
+指标 Parameter r P
+年龄 Age 0. 091 0. 421
+BMI 0. 157 0. 165
+HBA1C 0. 063 0. 598
+Scr 0. 288 0. 014
+eGFRMDRD -0. 411 0. 000
+UMA 0. 241 0. 031
+β2 -MG 0. 137 0. 282
+NAG 0. 084 0. 509
+GAL 0. 046 0. 717
+RBP 0. 278 0. 032
+注:略语同表 1 和表 2 The abbreviations are the same as Tab 1 and Tab 2
+以上述指标作为自变量,以 UAGT 为因变量,采用
+多元线性回归分析,结果显示,UAGT 与 eGFR 呈负相
+关(β 为 - 0. 307,P < 0. 05),与 RBP 呈正相关 ( β 为
+0. 629,P<0. 05)。
+六、 不同 RBP 水平患者的 UAGT 比较
+根据 RBP 水平从低往高按次序排列后平均分为 4
+组,比较不同 RBP 水平组间 UAGT 的高低,统计分析
+可见,随 RBP 水平的逐渐升高,UAGT 水平呈逐渐升
+高趋势,且 RBP 水平最高组 UAGT 水平较其他 3 组明
+显升高[(1. 65 ± 0. 13 对 1. 54 ± 0. 10、1. 53 ± 0. 13 对
+1. 55 ±0. 12)ng / ml,均 P<0. 05]。
+七、 RAS 抑制剂对早期糖尿病肾病患者 UAGT 的
+影响
+对于处于早期糖尿病肾病阶段的患者,服用 ACEI
+表 4   服用 ACEI 或 ARB 对早期肾病患者 UAGT 和 UMA 水平
+的影响[x-± s,中位数(四分位间距)]
+Tab 4 The influence of ACEI or ARB on urinary angiotensinogen
+among patients with microalbuminuria[x-± s,M(quartile)]
+组别
+Group
+例数
+n
+UMA
+(mg / 24 h)
+UAGT
+(ng / ml)
+RASi(+) 20 72. 67(52. 63,178. 22) 1. 43 ± 0. 16
+RASi(-) 18 47. 07(33. 38,121. 88) 1. 62 ± 0. 15a
+注:ACEI:血管紧张素转换酶抑制剂 Angiotensin-converting enzyme
+inhibitor;ARB:血管紧张素2受体阻断剂 Angiotensin 域 receptor blocker;
+UAGT:尿血管紧张素原 Urinary angiotensinogen;UMA:尿微量白蛋白
+Urinary microalbuminuria; RASi ( +) 组:服用 ACEI 或 ARB 类药物组
+Patients treated with angiotensin 2 receptor blockers or angiotensin-converting
+enzyme inhibitors;RASi(-)组:未服用 ACEI 或 ARB 类药物组 Patients not
+treated with angiotensin 2 receptor blockers or angiotensin-converting enzyme
+inhibitors;与 RASi(+)组比较 vs RASi(+)group,aP<0. 01
+或 ARB 的患者 UAGT 水平明显低于未服用患者,差异
+有统计学意义(P<0. 05,表 4)。
+讨    论
+AGT 是 RAS 多级酶联反应的主要底物,也是 RAS
+系统的限速酶,因此 AGT 水平可影响 RAS 系统的反
+应程度,而 AGT 水平的升高可以促进整个 RAS 链反
+应强度的升高[6]。 循环中的 AGT 主要来源于肝脏产
+生和分泌,而肾脏局部也可产生 AGT[7],通过对肾脏
+局部 AGT 从 mRNA 水平到蛋白水平的分析可见,AGT
+主要定位于近端小管[8];同时,为了证实循环中的
+AGT 是否从肾脏滤过,Kobori 等[9] 向高血压及正常血
+压大鼠血液中注射人 AGT,但是人 AGT 仅能在血液中
+检测出来,而尿液中却没有,以上均提示,UAGT 来自
+肾脏近曲小管局部分泌,而非循环中的 AGT。
+临床研究发现,CKD 患者 UAGT 与肾内血管紧张
+素2(Ang 2)免疫组化染色强度呈正相关[2],提示
+UAGT 与肾内 Ang 2活性相关,可能是肾内 RAS 活性
+的评价指标;Kamiyama 等[3] 报道,链脲佐菌素诱导的
+糖尿病大鼠 UAGT 分泌较对照组大鼠明显升高,同时
+大鼠肾脏局部 AGT mRNA 及相关蛋白表达明显上调
+且存在显著相关性,以上研究证实 UAGT 与肾脏局部
+RAS 活性存在较强联系,可以作为评价肾脏局部 RAS
+活性的指标;且近期两项临床研究进一步证实了
+UAGT 作为评价糖尿病患者肾脏局部 RAS 活性指标
+的可靠性[4,5]。
+糖尿病时,肾脏局部 RAS 被异常激活,糖尿病大
+鼠肾脏中已明确有肾素和血管紧张素基因表达的增
+加,而且肾小球和肾脏血管 ACE 免疫染色的强度也增
+强[10]。 大量研究证实,糖尿病患者肾脏局部 Ang 2活
+性增高[11],原因可能是高血糖使肾脏近曲小管 AGT
+表达增高,使系膜细胞合成 Ang 2增多,肾脏局部 RAS
+激活,Ang 2降解速度减慢所致,此时,肾脏局部的浓
+度可以是血浆的数倍,通过 p38 丝裂酶原蛋白激酶
+(MAPK)通路,近端小管 AGT 表达增加,从而刺激
+Ang 2合成。 近来,有临床研究证实,不伴高血压同时
+未应用 RAS 抑制剂的尿蛋白正常的 1 型糖尿病患者,
+在尿蛋白尚处于正常阶段,UAGT 已明显高于未患糖
+尿病的正常人群[8],提示糖尿病患者出现肾损伤前已
+有肾脏局部 RAS 激活,同时 Sawaguchi 等[12] 发现在 2
+型糖尿病患者中,UAGT 与尿蛋白水平呈正相关,提示
+随糖尿病患者尿蛋白的逐渐增加,肾脏局部分泌 AGT
+水平增高,而肾脏分泌 AGT 可能引起肾脏局部 Ang 2
+分泌增多,即引起肾脏局部 RAS 系统激活增强。
+本研究选择 2 型糖尿病正常蛋白尿及微量蛋白尿
+患者,并进一步将正常蛋白尿患者按照肾小球滤过率
+分为高滤过及正常滤过组,因 2 型糖尿病患者处于正
+常蛋白尿高滤过阶段时,肾脏虽然尚未出现明显的结
+构改变,但已出现自我功能代偿,如果将 UMA 升高作
+为 DN 的标志,那么上述高滤过率期,即 UMA 尚未升
+高的功能代偿阶段就可以被视为“亚临床冶DN,而肾脏
+局部 RAS 系统在糖尿病肾损伤早期血流动力学改变
+及功能代偿中有重要的作用,因此本研究旨在观察
+UAGT 及局部 RAS 系统在“亚临床冶DN 发生发展中的
+变化,研究结果显示“亚临床冶DN 时 UAGT 含量较正
+常对照组明显下降(P<0. 05),但在早期 DN 的患者中
+又明显升高,同时相关性分析及多元线性回归分析显
+示,eGFR 是 UAGT 的独立相关因素,与先前报道一
+致[12-14]。 推测在“亚临床冶DN 阶段存在一过性 UAGT
+下降,其原因还不清楚,可能系肾脏自身代偿的保护性
+反馈机制所致,但随着疾病的进展,UAGT 明显上升,
+同时 AGT 与 24 h 尿白蛋白水平呈正相关,提示高水平
+UAGT 及肾脏局部 RAS 水平激活可能参与了 DN 的发
+展,虽然多元线性回归分析中 UMA 与 UAGT 失去相关
+性,但可能与本研究样本量小,同时纳入的高滤过期糖
+尿病患者比例较大有关,这部分患者受滤过率影响较
+大。 因此期待更大样本量的研究以明确 UAGT 与
+UMA 的关系。
+肾小管细胞膜含有大量的血管紧张素受体,在糖
+尿病患者,肾脏局部兴奋性异常增高的 RAS 系统更易
+引起肾小管损伤,相关临床研究显示,UAGT 与肾小管
+损伤标志物明显相关,可以作为评价糖尿病患者肾小
+管损伤的标志物[15]。 本研究发现 RBP 与 UAGT 呈正
+相关,RBP 是一种低分子量的亲脂载体蛋白(相对分
+子质量为 21 000),广泛分布在人体血清、脑脊液、尿液
+中。 RBP 本身具有很好的稳定性,在体内的含量相对
+恒定,一般情况下,正常人尿中 RBP 的含量很少,当肾
+小管的重吸收功能受损时,尿 RBP 含量明显升高,本
+研究进一步根据 RBP 水平从低到高依次排列,按次序
+平均分为 4 组,发现随 RBP 水平升高,UAGT 水平逐渐
+升高,RBP 最高四分位数组较 RBP 水平较低 3 组的
+UAGT 水平明显偏高,同时多元线性回归分析显示,
+UAGT 与 RBP 独立正相关,说明随着 UAGT 的升高,
+RBP 呈逐渐增高趋势。 本研究同时以 β2 -MG、NAG、
+RBP、GAL 受损个数的多少作为评价肾小管受损严重
+程度的标志,发现在 2 型糖尿病正常蛋白尿及微量蛋
+白尿阶段的患者,随肾小管受损指标数目的增加,
+UAGT 水平呈逐渐升高趋势,进一步证明早期 UAGT
+升高及肾脏局部 RAS 激活参与了糖尿病早期肾小管
+损伤。
+此外,本研究结果显示,服用 RAS 抑制剂患者
+UAGT 明显低于未服用 RAS 抑制剂患者,说明早期糖
+尿病肾病患者服用 RAS 抑制剂可抑制肾脏局部产生
+AGT,从而抑制肾脏局部 RAS 激活。 推测 RAS 抑制剂
+不仅可以降低 RAS 系统活性降低尿蛋白,同时对肾小
+管有一定保护作用。 值得注意的是,本研究中服用
+RAS 抑制剂的患者 UMA 较未服用者有升高的趋势,
+考虑是服用 RAS 抑制剂的患者基线 UMA 水平高于未
+服用 RAS 抑制剂的患者,而并非 RAS 抑制剂升高了
+UMA。 因此,也期待设计周密的大样本前瞻性队列研
+究以明确 RAS 抑制剂对 UAGT 的影响。
+总之,本研究发现“亚临床冶DN 阶段可能出现局
+部 RAS 系统的一过性降低,但随疾病的发展,局部
+RAS 系统激活进一步加强,高水平的 UAGT 可能同时
+参与糖尿病肾病早期肾小球及肾小管损伤,而早期应
+用 ACEI 或 ARB 类药物可以降低肾脏局部 RAS 激活
+从而保护肾小球及肾小管功能。

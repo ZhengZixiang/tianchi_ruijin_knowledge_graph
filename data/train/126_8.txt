@@ -1,0 +1,278 @@
+糖尿病发病相关因素
+基金项目:教育部博士学科点基金(200802260007)
+哈尔滨医科大学激素与内分泌疾病重点实验室
+视黄醇结合蛋白 4、胱抑素 C 与 2 型糖尿病下肢动脉病变的
+关系
+刘姝  李强  刘锴  刘滨菘  韩玉冰  张巾超
+[提要]   选取 209 例 2 型糖尿病患者,根据踝肱指数(ABI)分为单纯 2 型糖尿病组、2 型糖尿病伴轻
+中度闭塞组、2 型糖尿病伴重度闭塞组,以 60 名健康体检者作为对照组。 检测血清视黄醇结合蛋白 4
+(RBP4)、胱抑素 C 和生化指标。 结果显示,各组间血清 RBP4、胱抑素 C 水平随下肢动脉病变程度逐渐升
+高,2 型糖尿病伴中度和重度闭塞组显著高于对照组(P<0. 05 或 P<0. 01),伴下肢动脉病变组 RBP4、胱抑
+素 C 水平显著高于不伴下肢动脉病变组(均 P<0. 01)。 Pearson 相关分析结果显示总胆固醇、甘油三酯、低
+密度脂蛋白胆固醇、体重指数、腰臀比、胱抑素 C 等与血清 RBP4 呈正相关,与高密度脂蛋白胆固醇呈负相
+关(P<0. 05 或 P<0. 01)。 Logistic 回归分析发现血清 RBP4、胱抑素 C 与 2 型糖尿病下肢动脉病变显著相关
+(P<0. 05 或 P<0. 01)。
+[关键词]   视黄醇结合蛋白 4; 胱抑素 C; 糖尿病, 2 型; 动脉粥样硬化
+Relationship of serum retinol binding protein 4 and cystatin C with lower extremity arterial disease in type 2
+diabetes mellitus    LIU Shu, LI Qiang, LIU Kai, LIU Bin-song, HAN Yu-bing, ZHANG Jin-chao. Department of
+Endocrinology, the Second Affiliated Hospital of Harbin Medical University, Harbin 150086, China
+[Summary]   A total of 209 type 2 diabetic patients were divided into three groups: without, with mild to
+moderate, or severe diabetic lower extremity arterial disease based on the ankle brachial index value. 60 healthy
+subjects were used as a control group. Retinol binding protein4(RBP4), cystatin C, and biochemical parameters were
+determined in all subjects. The results showed that RBP4 and cystatin C levels were progressively raised with the
+increasing severity of lower extremity arterial disease in various groups, being significantly higher in patients with type
+2 diabetes mellitus with mild to moderate and severe arterial disease compared with control group (P<0. 05 or P<
+0. 01) . RBP4 and cystatin C levels in groups with lower extremity arterial disease were significantly higher than those
+in the group without arterial disease (P<0. 01) . Pearson correlation analysis showed that RBP4 level was positively
+correlated with total cholesterol, triglyceride, low density lipoprotein-cholesterol, fasting serum insulin, body mass
+index, cystatin C etc while negatively correlated with high density lipoprotein-cholesterol (P<0. 05 or P<0. 01) .
+Logistic regression analysis showed that serum RBP4 and cystatin C were significantly associated with lower extremity
+arterial disease in type 2 diabetes mellitus.
+[Key words]  Retinol binding protein 4; Cystatin C; Diabetes mellitus, type 2; Atherosclerotic disease
+(Chin J Endocrinol Metab, 2013, 29: 768-771)
+糖尿病性血管病变包括心血管病变、脑血管病变和外周动
+脉病变(peripheral arterial disease,PAD) [1] 。 其病理基础主要为
+动脉内膜粥样硬化和纤维化。 胰岛素抵抗可启动免疫系统,引
+起内皮依赖性舒张功能下降和大动脉超微结构改变,诱发机体
+持续的慢性炎症,并随病变进展最终导致动脉粥样硬化,脂质
+代谢异常也是动脉粥样硬化的重要因素[2] 。 视黄醇结合蛋白
+4(retinol binding protein 4,RBP4)是一种新发现的脂肪源性因
+子,主要由肝细胞和脂肪细胞分泌,主要功能是在血液循环中
+转运视黄醇(维生素 A) 并影响胰岛素敏感性,增加肝糖输
+出[3] 。 RBP4 水平升高可通过引起全身胰岛素抵抗从而导致内
+皮功能损伤,且常与胰岛素抵抗合并存在,两者相互协同,共同
+促进动脉粥样硬化的形成。 胱抑素 C(cystatin C)是一种半胱
+氨酸蛋白酶抑制剂,其表达失衡是动脉粥样硬化发生、发展的
+重要原因之一。 因此,血清 RBP4 和胱抑素 C 可能与 2 型糖尿
+病下肢动脉病变( lower extremity arterial disease,LEAD)有密切
+关系。
+一、 对象和方法
+1. 对象:选取 2011 年 3 月至 2012 年 12 月在哈尔滨医科
+大学附属第二医院内分泌科糖尿病患者 209 例,均符合 2010
+年美国糖尿病协会(ADA)的糖尿病诊断标准,并依据 2007 年
+《下肢动脉粥样硬化性疾病诊治中国专家建议》 [4] 的踝肱指数
+(ankle brachial index,ABI)进行分组:ABI 1. 30 ~ 0. 91 为单纯 2
+型糖尿病组(T2DM 组);ABI<0. 90 为 LEAD 组,其中 0. 41 ~
+0. 90 为轻中度闭塞组(LEAD-LM 组),ABI<0. 40 为重度闭塞组
+(LEAD-S 组)。 T2DM 组:男性 30 例,女性 30 例;LEAD-LM 组:
+男性 43 例,女性 37 例;LEAD-S 组:男性 35 例,女性 34 例。 另
+随机选择同期门诊健康体检者 60 名为正常对照组(NC 组),男
+性 32 名,女性 28 名,筛选用糖耐量试验排除糖尿病,并排除高
+血压及其他内分泌代谢疾病及糖尿病家族史。 4 组受检者均排
+除感染、糖尿病酮症酸中毒,无血液系统疾病、恶性肿瘤病史,
+无使用激素药物史及手术应激等情况。
+2. 方法:所有患者均测身高、体重、腰围、臀围、收缩压、舒
+张压,计算体重指数、腰臀比。 用免疫透射比浊法测定 RBP4
+(上海景源医疗器械有限公司),批内 CV≤10% ,批间 CV≤
+10% ;用免疫透射比浊法测定胱抑素 C(上海北加医疗器械有
+限公司),批内 CV≤10% ,批间 CV≤10% ;用氧化酶法测定总胆
+固醇(TC);用 GPO 酶法测定甘油三酯(TG);用均相酶比色法
+测定高密度脂蛋白胆固醇(HDL-C)和低密度脂蛋白胆固醇
+(LDL-C);用氧化酶法测定空腹血糖(FPG)。 采用高压液相层
+析技术检测 HBA1C,批内 CV 为 0. 82% ,批间 CV 为 0. 51% 。 采
+用化学发光法测定空腹胰岛素(FINS),批内和批间 CV 分别<
+5. 0%和<6. 5% 。 采用稳态模型评估法评定胰岛素抵抗指数
+(HOMA-IR)= FINS(mU / L) ×FPG(mmol / L) / 22. 5。 所有患者
+采用飞利浦 IU22 多普勒超声仪测定双侧肢体 ABI:选择合适的
+袖带,缠于受检者的臂部或踝部,与测压计相连,严格按照美国
+心脏病学会推荐的肱动脉血压测量要求测量肱动脉压,同理测
+量踝动脉压,ABI=踝动脉收缩压 /肱动脉收缩压。
+3. 统计学处理:采用 SPSS 19. 0 统计软件、SAS 软件进行统
+计分析处理,正态分布的计量资料以 x-± s 表示,非正态分布计
+量资料进行自然对数转换后用中位数(四分位间距)表示。 多
+组间比较用方差分析。 2 组间比较用 t 检验。 相关性分析使用
+Pearson 相关分析方法。 通过 logistic 回归分析评估 RBP4、胱抑
+素 C 与 2 型糖尿病下肢动脉病变的关系。 P<0. 05 为差异有统
+计学意义。
+二、 结果
+1. 各组一般临床资料比较: T2DM 组、 LEAD-LM 组及
+LEAD-S 组 BMI、腰围、腰臀比显著高于 NC 组(均 P<0. 05)。 2
+型糖尿病各亚组间比较,LEAD-S 组 BMI、腰围显著高于 T2DM
+组、LEAD-LM 组(P<0. 01),T2DM 组和 LEAD-LM 组比较,差异
+无统计学意义。 LEAD-S 组腰臀比明显高于 T2DM 组 ( P <
+0. 05),但与 LEAD-LM 组比较,差异无统计学意义。 LEAD-LM
+组和 DLEAD-S 组收缩压显著高于 NC 组及 T2DM 组, 在
+LEAD-S 组最高(均 P<0. 01),NC 组与 T2DM 组比较,差异无统
+计学意义。 舒张压在 LEAD-S 组最高,2 型糖尿病各亚组的舒
+张压均显著高于 NC 组,LEAD-LM 组和 LEAD-S 组舒张压显著
+高于 T2DM 组(P<0. 01),但 LEAD-LM 组和 LEAD-S 组比较,差
+异无统计学意义(表 1)。
+2. 各组实验室资料比较:2 型糖尿病各亚组的 FPG、FINS、
+HOMA-IR、HBA1C显著高于 NC 组(均 P<0. 01),LEAD-S 组 FINS
+明显高于 T2DM 组(P<0. 05),FPG、HOMA-IR、HBA1C在 2 型糖
+尿病各亚组比较差异无统计学意义。 2 型糖尿病各亚组HDL-C
+显著低于 NC 组(P<0. 01),但 2 型糖尿病各亚组间比较差异无
+统计学意义。 LEAD-LM 组及 LEAD-S 组 LDL-C 显著高于 NC
+组、T2DM 组(均 P<0. 01),LEAD-LM 组及 LEAD-S 组比较差异
+无统计学意义。 各组间 TC、TG 差异无统计学意义(表 1)。
+3. 各组血清 RBP4、胱抑素 C 的比较:如表 1 所示,LEAD-
+LM 组及 LEAD-S 组血清 RBP4 水平显著高于 NC 组,LEAD-S
+组显著高于 T2DM 组及 LEAD-LM 组(均 P<0. 01),但 T2DM 组
+与 NC 组、LEAD-LM 组比较差异无统计学意义。 LEAD-LM 组
+及 LEAD-S 组胱抑素 C 显著高于 NC 组、T2DM 组,LEAD-S 组胱
+抑素 C 明显高于 LEAD-LM 组(P<0. 01) 。 T2DM 组胱抑素 C
+与 NC 组比较差异无统计学意义。 表 2 所示,LEAD 组 RBP4、
+胱抑素 C、体重指数(BMI) 、腰臀比、收缩压、舒张压、HBA1C、
+FINS、TC、LDL-C、HOMA-IR 均高于非 LEAD 组(均 P<0. 05),而
+HDL-C 低于非 LEAD 组(P<0. 01)。
+表 1  各组临床与生化指标分析[(x-± s,M(四分位间距)]
+组别 例数(男性 / 女性) 年龄(岁)
+体重指数
+(kg / m2)
+腰围
+(cm) 腰臀比
+收缩压
+(mm Hg)
+舒张压
+(mm Hg)
+NC 60(32 / 28) 50. 18 ± 7. 97 22. 12 ± 1. 85 73. 31 ± 6. 41 0. 81 ± 0. 06   117 ± 11   71 ± 8
+T2DM 60(30 / 30) 51. 57 ± 8. 28 24. 94 ± 3. 83a 84. 50 ± 12. 08a 0. 88 ± 0. 08a   123 ± 19   80 ± 13a
+LEAD-LM 80(43 / 37) 54. 06 ± 7. 94a 25. 24 ± 3. 15a 86. 70 ± 8. 00a 0. 89 ± 0. 04a   139 ± 19ac   86 ± 10ac
+LEAD-S 69(35 / 34) 51. 00 ± 5. 89ace 27. 67 ± 3. 88ace 90. 98 ± 10. 52ace 0. 90 ± 0. 06ab   150 ± 22ace   86 ± 11ac
+组别 例数(男性 / 女性) FPG(mmol / L)
+FINS
+(mU / L) HOMA-IR
+HBA1C
+(% )
+TC
+(mmol / L)
+NC 60(32 / 28) 5. 22(4. 98,5. 58) 6. 9(4. 73,9. 33) 1. 65(1. 06,2. 18) 5. 15(4. 80,5. 50) 4. 88 ± 0. 66
+T2DM 60(30 / 30) 8. 34(6. 92,10. 65) a 9. 0(5. 80,13. 86) a 3. 63(2. 04,6. 08) a 7. 85(6. 80,9. 68) a 4. 88 ± 1. 19
+LEAD-LM 80(43 / 37) 8. 65(6. 70,13. 20) a 10. 5(6. 53,16. 33) a 4. 22(2. 34,8. 09) a 8. 45(7. 20,10. 20) a 5. 11 ± 1. 10
+LEAD-S 69(35 / 34) 8. 70(7. 81,9. 68) a 10. 3(6. 75,19. 10) ab 3. 82(2. 57,7. 48) a 8. 70(7. 81,9. 68) a 5. 31 ± 1. 47
+组别 例数(男性 / 女性) TG(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+胱抑素 C
+(mg / L)
+RBP4
+(mg / L)
+NC 60(32 / 28) 1. 43(1. 03,1. 88) 1. 38(1. 22,1. 65) 2. 30(2. 00,2. 67) 0. 71(0. 62,0. 83) 42. 0(33. 00,53. 75)
+T2DM 60(30 / 30) 1. 54(1. 03,3. 08) 1. 20(1. 04,1. 47) a 2. 42(1. 99,3. 35) 0. 77(0. 62,0. 91) 44. 5(38. 00,58. 00)
+LEAD-LM 80(43 / 37) 1. 49(1. 02,2. 26) 1. 24(1. 06,1. 47) a 2. 82(2. 50,3. 64) ac 1. 00(0. 84,1. 24) ac 50. 0(39. 25,61. 75) a
+LEAD-S 69(35 / 34) 1. 67(1. 11,2. 49) 1. 12(1. 39,0. 98) a 3. 11(2. 38,3. 83) ac 1. 13(0. 89,1. 38) ace 58. 0(49. 00,78. 50) ace
+注:NC:正常对照组;T2DM:单纯 2 型糖尿病组;LEAD-LM:2 型糖尿病轻中度闭塞组;LEAD-S:2 型糖尿病重度闭塞组;1 mm Hg=0. 133 kPa;FPG:
+空腹血糖;FINS:空腹胰岛素;HOMA-IR:稳态模型评估的胰岛素抵抗指数;TC:总胆固醇;TG:甘油三酯;HDL-C:高密度脂蛋白胆固醇;LDL-C:低密度
+脂蛋白胆固醇;RBP4:视黄醇结合蛋白 4;与 NC 组比较,aP<0. 01;与 T2DM 组比较,bP<0. 05,cP<0. 01;与 DLEAD-LM 组比较,dP<0. 05,eP<0. 01
+表 2  2 组临床资料的比较[x-± s,M(四分位间距)]
+组别 例数
+体重指数
+(kg / m2) 腰臀比
+收缩压
+(mm Hg)
+舒张压
+(mm Hg)
+HBA1C
+(% )
+FINS
+(mU / L)
+TC
+(mmol / L)
+非 LEAD 120 23. 53 ± 3. 31 0. 84 ± 0. 08 120 ± 16 76 ± 12 5. 80(5. 10,7. 88) 7. 70(5. 33,10. 30) 4. 88 ± 0. 96
+LEAD 149 26. 37 ± 3. 70b 0. 90 ± 0. 05b 144 ± 21b 86 ± 11b 8. 20(7. 20,9. 90) b 10. 50(6. 70,17. 30) b 5. 20 ± 1. 29a
+组别 例数 TG(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+RBP4
+(mg / L)
+胱抑素 C
+(mg / L) HOMA-IR
+非 LEAD 120 1. 47(1. 03,2. 32) 1. 27(1. 10,1. 59) 2. 34(2. 00,2. 91) 42. 00(34. 00,55. 75) 0. 74(0. 62,0. 83) 2. 09(1. 63,3. 66)
+LEAD 149 1. 58(1. 08,2. 41) 1. 18(1. 02,1. 40) b 3. 00(2. 41,3. 66) b 55. 00(42. 50,68. 50) b 1. 03(0. 85,1. 28) b 3. 96(2. 45,7. 69) b
+注:略语同表 1;与非 LEAD 组比较,aP<0. 05,bP<0. 01
+4. Pearson 相关分析:TC、TG、LDL-C、FINS、HOMA-IR、收缩
+压、舒张压、BMI、腰围、腰臀比、胱抑素 C 与血清 RBP4 呈正相
+关(分别为 r=0. 212、0. 219、0. 136、0. 299、0. 249、0. 340、0. 238、
+0. 254、0. 287、0. 169,0. 476,P<0. 05),与 HDL-C 呈负相关( r =
+-0. 255,P<0. 01)。
+5. Logistic 回归分析:将所有对象按照有无 LEAD 分组后进
+行 logistic 回归分析,结果显示 LEAD 与血清 RBP4(OR=1. 032,
+95% CI 1. 005 ~ 1. 060, P = 0. 021 5)、胱抑素 C(OR = 8. 076,
+95% CI 1. 849 ~ 35. 270,P = 0. 005 5)、HBA1C(OR = 1. 686, 95%
+CI 1. 388 ~ 2. 047, P < 0. 01)、收缩压 (OR = 1. 052,95% CI
+1. 028 ~ 1. 077,P<0. 01)显著正相关。
+三、 讨论
+糖尿病是 PAD 的主要危险因素,而 LEAD 是 PAD 中最常
+见的一种,也是 PAD 中诊断和治疗最完善的一种,而糖尿病患
+者的 PAD 发生率是非糖尿病患者的 2 倍[5] ,美国心脏病学会
+PAD 诊疗指南指出 ABI<0. 90 诊断下肢 PAD 的敏感性为 90% ,
+特异性为 95% ,因而 ABI 对动脉狭窄程度具有很好的预测价
+值。 糖尿病大血管病变主要的病理基础是大中动脉粥样硬化,
+目前认为导致发生动脉硬化原因是炎症作用和血脂异常等传
+统危险因素[6] 。 RBP4 是脂溶性维生素运载蛋白中的一种,为
+视黄醇特异性载体,主要是把视黄醇从肝脏运输到外周组织
+中[7] 。 胱抑素 C 是一种非糖基化蛋白,相对分子质量约
+13 000,是内源性组织蛋白酶抑制剂[8] ,可参与肿瘤侵袭转移、
+炎症过程以及一些神经系统疾病的发生,也是评价肾功能的一
+项敏感指标。 本研究结果显示,血清 RBP4 在 2 型糖尿病患者
+伴 PAD 时明显增高,原因可能在于 RBP4 能促进 PAD 发展,引
+起下肢动脉粥样硬化并引起血管重塑发生狭窄,同时 2 型糖尿
+病患者 RBP4 水平增高,RBP4 调节血管内皮细胞黏附分子的
+作用,引起血管内皮受损,发生动脉粥样硬化,进一步促进血管
+狭窄[9,10] ,而 ABI 用于反映下肢动脉狭窄情况,因此 2 型糖尿
+病患者伴 PAD 时 ABI 狭窄程度越重反映 RBP4 水平越高。 按
+照 ABI 数值分组,LEAD-S 组中 TC、TG、BMI、LDL-C、RBP4、胱
+抑素 C 明显高于其他组,尤其 2 型糖尿病亚组中 RBP4 及胱抑
+素 C 随着病情加重逐级升高。 Bobbert 等[11] 研究证明 RBP4 与
+视黄醇结合后处于饱和状态下就会参与到动脉粥样硬化的发
+生机制中,Yang 等[12] 研究发现提高 RBP4 水平使葡萄糖转运
+子 4(GLUT4)在脂肪细胞中的作用降低从而导致胰岛素抵抗。
+而胰岛素分泌增加,可以刺激动脉平滑肌细胞增殖,促使动脉
+粥样硬化形成。 Yao-Borengasser 等[13] 指出 RBP4 通过增加机
+体氧化应激参与糖尿病大血管病变,加速内皮细胞炎性反应和
+动脉粥样硬化过程,并且 RBP4 可作为 2 型糖尿病心血管疾病
+的生物标记。 正常动脉中能检测到胱抑素 C,当发生动脉粥样
+硬化、腹主动脉瘤、冠心病及动脉硬化闭塞症血清胱抑素 C 水
+平增高,因此胱抑素 C 不仅能预测心血管事件和检测冠心病,
+并能抑制动脉粥样硬化组织蛋白酶活性以减轻动脉粥样硬化,
+原因在于胱氨酸组织蛋白酶与内源性抑制物胱抑素 C 在动脉
+粥样硬化损伤过程中存在动态不平衡[8,14,15] ,而这种不平衡可
+以减少血管壁细胞外基质的降解进而引起血管壁重塑,因而随
+着血管病变加重,血清胱抑素 C 水平在 2 型糖尿病伴 PAD 患
+者明显增高。 2 型糖尿病患者易并发 PAD[16] ,而 logistic 回归
+分析显示胱抑素 C 和 RBP4 都是 PAD 的危险因素,因此 2 型糖
+尿病患者 RBP4、胱抑素 C 增高提示 PAD 病情更加严重。
+本研究显示 RBP4 与 FINS、 HOMA-IR、 TC、 TG、 LDL-C、
+BMI、腰围、腰臀比、收缩压、舒张压、胱抑素 C 呈正相关,与
+HDL-C 呈负相关。 RBP4 与 FINS、HOMA-IR 呈正相关,原因可
+能在于 RBP4 可促进胰岛素抵抗,产生高胰岛素血症,促进胰岛
+素分泌增加[17,18] 。 Goodman 等[19] 发现黑人糖尿病患者 RBP4
+与 HOMA-IR 及 TG、LDL-C 呈正相关。 通过对白人患者病例研
+究显示,RBP4 可阻断胰岛素信号通路,产生胰岛素抵抗及促进
+肝脏脂肪分解成甘油三酯,RBP4 与 HOMA-IR 及 TG 正相
+关[20,21] ,与本研究结果一致。 Han 等[22] 发现中国人 RBP4 与
+TC、TG、 LDL-C 呈正相关,而与 HDL-C 呈负相关。 小而密
+LDL-C 是目前已知能致动脉粥样硬化的脂质蛋白,而在高脂血
+症中小而密 LDL-C 是 RBP4 形成氧化 LDL-C 的中间体,因此当
+血脂异常时 RBP4 形成小而密 LDL-C 增多,RBP4 直接或间接
+地参与动脉粥样硬化的发生[23] 。 代表肥胖的指标 BMI 和代表
+中心性肥胖的指标腰围和腰臀比与血清 RBP4 相关性显著,表
+明 RBP4 与腹内型肥胖关系更为密切,与胰岛素抵抗的关系可
+能由腹内型肥胖所介导[24] 。 血清 RBP4 水平与收缩压及舒张
+压均呈正相关,可能由于 RBP4 与多种血管病变危险因素如高
+血压、血脂代谢紊乱相关。 Chiba 等[25] 指出女性血清 RBP4 水
+平与收缩压及舒张压正相关,而与男性则无明显相关性。
+本研究还发现 RBP4 与胱抑素 C 正相关,但胱抑素 C 影响
+RBP4 的具体机制目前尚不清楚,可能为二者都在动脉粥样硬
+化机制中起作用从而发生协同效应。 Lee 等[26] 发现胱抑素 C
+能在 2 型糖尿病患者中导致胰岛素抵抗,而 Graham 等[18] 证实
+在 2 型糖尿病患者中 RBP4 导致胰岛素抵抗,因此在胰岛素抵
+抗发生机制中 RBP4 也可能影响到胱抑素 C。
+方差分析中 HBA1C 在 T2DM 亚组中显著高于 NC 组(P<
+0. 01),在 logistic 回归分析,HBA1C与 PAD 相关显著(P<0. 01),
+提示 HBA1C 是 PAD 独立危险因素之一。 Selvin 等[27] 发现
+HBA1C每增加 1%发展为 PAD 的风险增加 26% 。 Selvin[28] 等指
+出高血糖增加 PAD 风险,HBA1C>7. 5%的患者是 HbA1C<6. 0%
+的 5 倍左右。
+综上所述,本研究结果显示:(1)2 型糖尿病患者及 2 型糖
+尿病并发 PAD 患者血清 RBP4 及胱抑素 C 增高,提示 RBP4、胱
+抑素 C 可能是 2 型糖尿病外周动脉硬化的危险因素之一。 (2)
+胱抑素 C 可影响血清 RBP4 的水平。 (3)血清 RBP4 与胱抑素
+C 的检测可能对预测外周动脉病变的严重程度有辅助价值,通
+过对 RBP4、胱抑素 C 的研究可能为认识糖尿病血管并发症的
+发病机制提供新思路,为外周动脉病变的治疗提供新方法。 但
+RBP4、胱抑素 C 的确切作用机制还有待于在未来进一步研究。

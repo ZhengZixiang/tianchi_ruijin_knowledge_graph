@@ -1,0 +1,330 @@
+T1	Disease 3946 3952	1 型糖尿病
+T2	Disease 2651 2657	2 型糖尿病
+T3	Disease 2704 2710	2 型糖尿病
+T4	Disease 2826 2829;2830 2833	2 型 糖尿病
+T5	Disease 2927 2933	2 型糖尿病
+T6	Disease 3019 3025	2 型糖尿病
+T7	Disease 3047 3053	2 型糖尿病
+T8	Disease 3620 3626	2 型糖尿病
+T9	Disease 3645 3648;3649 3652	2 型 糖尿病
+T10	Disease 3680 3683;3684 3687	2 型 糖尿病
+T11	Disease 3717 3723	2 型糖尿病
+T12	Disease 3783 3789	2 型糖尿病
+T13	Disease 3798 3804	2 型糖尿病
+T14	Disease 4244 4250	2 型糖尿病
+T15	Disease 3573 3578	糖尿病肾病
+T16	Test 3441 3446	HBA1C
+T17	Test 1699 1703	空腹血糖
+T18	Test 3963 3967	尿白蛋白
+T19	Test 4093 4097	尿白蛋白
+T20	Test 4251 4255	尿白蛋白
+T21	Test 1533 1537	体重指数
+T22	Test 2430 2434	体重指数
+T23	Test 4712 4716	体重指数
+T24	Test 4918 4922	体重指数
+T25	Test 4969 4973	体重指数
+T26	Test 5117 5121	体重指数
+T27	Test 5300 5304	体重指数
+T28	Test 5338 5342	体重指数
+T29	Disease 3579 3582;3583 3589	糖尿病 周围神经病变
+T30	Disease 2522 2527	糖尿病前期
+T31	Anatomy 1434 1438	脂肪细胞
+T32	Anatomy 4793 4797	脂肪细胞
+T33	Anatomy 4846 4850	脂肪细胞
+T34	Test 5360 5363	脂联素
+T35	Test 5439 5442	脂联素
+T36	Test 5471 5474	脂联素
+T37	Test 5498 5501	脂联素
+T38	Anatomy 108 111	脑钠肽
+T39	Anatomy 132 135	脑钠肽
+T40	Disease 901 904	糖尿病
+T41	Disease 919 922	糖尿病
+T42	Disease 946 948	心衰
+T43	Disease 960 962	心衰
+T44	Anatomy 966 969	胰岛素
+T45	Anatomy 1095 1098	脑钠肽
+T46	Anatomy 1120 1123	脑钠肽
+T47	Anatomy 1154 1157	脑钠肽
+T48	Anatomy 1177 1180	脑钠肽
+T49	Anatomy 1185 1190	心室肌细胞
+T50	Anatomy 1220 1230	pre-proBNP
+T51	Anatomy 1234 1239	脑钠肽前体
+T52	Anatomy 1249 1256	pro-BNP
+T53	Anatomy 1273 1276	脑钠肽
+T54	Anatomy 1282 1290	N 端脑钠肽前体
+T55	Anatomy 1291 1294;1295 1301	NT- proBNP
+T56	Anatomy 1309 1312	脑钠肽
+T57	Anatomy 1334 1337	脑钠肽
+T58	Anatomy 1419 1424	NPR-C
+T59	Anatomy 1353 1360	利钠肽清除受体
+T60	Anatomy 1400 1405	NPR-C
+T61	Anatomy 1407 1414	中性肽链内切酶
+T62	Anatomy 1426 1433	中性肽链内切酶
+T63	Anatomy 1452 1455	脑钠肽
+T64	Anatomy 1463 1466	脑钠肽
+T65	Anatomy 1500 1503	脑钠肽
+T66	Disease 1538 1540	心衰
+T67	Disease 1541 1544;1545 1547	肾功能 不全
+T68	Test 1589 1591	血糖
+T69	Anatomy 1654 1658	胰高糖素
+T70	Method 1731 1735	静脉滴注
+T71	Test 1741 1742;1743 1744	血 糖
+T72	Test 1745 1748	胰岛素
+T73	Test 1749 1754	C 肽浓度
+T74	Test 1879 1881	血糖
+T75	Test 1896 1901	C 肽浓度
+T76	Test 1993 1995	血糖
+T77	Anatomy 2029 2034	毛细血管壁
+T78	Anatomy 2038 2043	毛细血管壁
+T79	Anatomy 2086 2089	骨骼肌
+T80	Anatomy 2098 2101	骨骼肌
+T81	Test 2102 2104	血糖
+T82	Anatomy 2200 2209	肾素血管紧张素系统
+T83	Test 2282 2284;2285 2286	脑钠 肽
+T84	Disease 2292 2294	心衰
+T85	Test_Value 2304 2321	400 ~ 500 pg / ml
+T86	Test 2352 2354	尿糖
+T87	Disease 2374 2376	心衰
+T88	Test 2392 2395	脑钠肽
+T89	Test_Value 2435 2437;2438 2445	23 kg / m2
+T90	Disease 2528 2531	糖尿病
+T91	Anatomy 2565 2569	脑啡肽酶
+T92	Anatomy 2573 2576	脑钠肽
+T93	Anatomy 2639 2642	脑钠肽
+T94	Disease 2643 2646	糖尿病
+T95	Test_Value 2693 2696;2697 2698	轻度升 高
+T96	Test 2699 2702	脑钠肽
+T97	Anatomy 2749 2752	脑钠肽
+T98	Disease 2789 2791	肥胖
+T99	Disease 2817 2819	肥胖
+T100	Test 2837 2840	脑钠肽
+T101	Test 2914 2917	脑钠肽
+T102	Test 2990 2993	脑钠肽
+T103	Test 3040 3043	脑钠肽
+T104	Anatomy 3068 3071	脑钠肽
+T105	Disease 3072 3075	糖尿病
+T106	Anatomy 3094 3097	脑钠肽
+T107	Test 3098 3100	血糖
+T108	Drug 3117 3123	重组人脑钠肽
+T109	Disease 3203 3206	糖尿病
+T110	Disease 3217 3220	糖尿病
+T111	Anatomy 3235 3238	脑钠肽
+T112	Disease 3239 3242	糖尿病
+T113	Disease 3287 3290	糖尿病
+T114	Disease 3394 3397	糖尿病
+T115	Disease 3423 3426	糖尿病
+T116	Test 3433 3435	血糖
+T117	Test_Value 3523 3525	70
+T118	Test_Value 3526 3528	91
+T119	Test_Value 3529 3540	486 pg / ml
+T120	Disease 3590 3595	大血管病变
+T121	Test 3639 3642	脑钠肽
+T122	Test 3696 3699	脑钠肽
+T123	Test 3739 3742	脑钠肽
+T124	Disease 3743 3746	糖尿病
+T125	Test 3830 3833	脑钠肽
+T126	Test 3858 3861	脑钠肽
+T127	Disease 3867 3870	糖尿病
+T128	Disease 3888 3895	糖尿病肾脏病变
+T129	Anatomy 3959 3962	脑钠肽
+T130	Method 3955 3959	静脉注射
+T131	Test 3997 3999	血压
+T132	Disease 4003 4008	心功能不全
+T133	Disease 4009 4012	糖尿病
+T134	Disease 4054 4057	糖尿病
+T135	Disease 4114 4117	DKD
+T136	Test 4217 4221	eGFR
+T137	Test 4293 4296	脑钠肽
+T138	Test 4310 4314	eGFR
+T139	Disease 4355 4358	DKD
+T140	Anatomy 4367 4370	脑钠肽
+T141	Anatomy 4382 4385	脑钠肽
+T142	Disease 4387 4390	DKD
+T143	Disease 4405 4408	DKD
+T144	Anatomy 4422 4425	脑钠肽
+T145	Disease 4427 4430	DKD
+T146	Anatomy 4456 4459	脑钠肽
+T147	Disease 4460 4462	肥胖
+T148	Anatomy 4463 4466	脑肠肽
+T149	Disease 4482 4486	代谢紊乱
+T150	Disease 4487 4489	肥胖
+T151	Anatomy 4522 4525	脑钠肽
+T152	Drug 4564 4570	重组人脑钠肽
+T153	Drug 4579 4585	重组人脑钠肽
+T154	Anatomy 4658 4664	心-肠-脑轴
+T155	Disease 4728 4730	心衰
+T156	Anatomy 4753 4756	脑钠肽
+T157	Disease 4757 4759	肥胖
+T158	Anatomy 4773 4778	NPR-C
+T159	Anatomy 4780 4782;4783 4785	脂肪 组织
+T160	Anatomy 4802 4805	脑钠肽
+T161	Anatomy 4836 4840;4841 4845	A 型利 钠肽受体
+T162	Disease 4891 4894	冠心病
+T163	Disease 4897 4900	冠心病
+T164	Test 4923 4926	胰岛素
+T165	Test 4933 4936	脑钠肽
+T166	Test 4975 4978	脑钠肽
+T167	Test 4979 4983	运动分数
+T168	Test 5031 5034	脑钠肽
+T169	Test_Value 5034 5036	升高
+T170	Test 5023 5026	胰岛素
+T171	Test_Value 5028 5030	下降
+T172	Test 5014 5019	NPR-C
+T173	Test_Value 5020 5022	减少
+T174	Test_Value 5045 5047	下降
+T175	Test 5063 5066	脑钠肽
+T176	Test_Value 5066 5068	增高
+T177	Operation 5093 5097	胃转流术
+T178	Test_Value 5121 5125	显著降低
+T179	Test 5126 5129	脑钠肽
+T180	Test_Value 5129 5131;5132 5134	显著 升高
+T181	Disease 5144 5146	肥胖
+T182	Test 5151 5154	脑钠肽
+T183	Test 5167 5170	脑钠肽
+T184	Test 5200 5203	脑钠肽
+T185	Anatomy 5204 5208	内脏脂肪
+T186	Test 5224 5230	内脏脂肪面积
+T187	Test 5250 5253	VFA
+T188	Test 5255 5258	脑钠肽
+T189	Test 5287 5290	脑钠肽
+T190	Test 5291 5293	腹围
+T191	Test 5310 5312	腹围
+T192	Test 5317 5320	VFA
+T193	Test 5329 5332	VFA
+T194	Test 5334 5337	脑钠肽
+T195	Test 5365 5368	VFA
+T196	Test 5375 5378	脑钠肽
+T197	Test 5399 5402	脑钠肽
+T198	Test 5404 5407	VFA
+T199	Test 5467 5470	脑钠肽
+T200	Test 5568 5571	脑钠肽
+T201	Disease 5625 5626;5627 5628	肥 胖
+T202	Test 5632 5635	脑钠肽
+T203	Disease 5642 5644	心衰
+T204	Disease 5659 5662	糖尿病
+T205	Disease 5664 5666	心衰
+T206	Test 5721 5724	脑钠肽
+T207	Disease 5725 5727	肥胖
+T208	Anatomy 5833 5836	脑钠肽
+T209	Anatomy 5806 5809	脑钠肽
+T210	Disease 5745 5747	心衰
+T211	Disease 5748 5750	肥胖
+T212	Disease 116 121	心血管疾病
+T213	Disease 3312 3317	心血管疾病
+T214	Disease 5504 5509	心血管疾病
+T215	Disease 5810 5815	心血管疾病
+T216	Disease 5837 5842	心血管疾病
+T217	Disease 5858 5863	心血管疾病
+T218	Test 4076 4080	尿白蛋白
+T219	Disease 3923 3926	DKD
+T220	Test 2044 2046	血糖
+T221	Test 2181 2182;2183 2184	血 糖
+T222	Test 2224 2226	血糖
+T223	Test 2539 2541	血糖
+T224	Test 2617 2619	血糖
+T225	Anatomy 190 193	脑钠肽
+T226	Disease 195 198	糖尿病
+T227	Disease 200 202	肥胖
+T228	Test_Value 979 982;983 984	慢性升 高
+T229	Test 1473 1475	尿钠
+T230	Test_Value 1917 1924	降低了 13%
+T231	Test 2258 2260	尿糖
+T232	Test 2333 2335	尿糖
+T233	Anatomy 2579 2586	中性肽链内切酶
+T234	Method 2592 2594	口服
+T235	Anatomy 2597 2602	肽链内切酶
+T236	Reason 2661 2663	基因
+T237	Reason 2665 2669	环境因素
+T238	Test_Value 2843 2845	降低
+T239	Test_Value 2919 2923	轻微升高
+T240	Test_Value 2996 3000	相对升高
+T241	Test_Value 3815 3819	显著增高
+T242	Anatomy 4467 4474	ghrelin
+T243	Anatomy 4531 4538	ghrelin
+T244	Anatomy 4610 4621	乙酰化 ghrelin
+T245	Anatomy 4590 4597	ghrelin
+T246	Test_Value 4937 4939	升高
+T247	Test_Value 5171 5173	升高
+T248	Disease 5218 5220	肥胖
+T249	Anatomy 5777 5780	脑钠肽
+T250	Anatomy 61 64	脑钠肽
+T251	Anatomy 161 164	脑钠肽
+T252	Anatomy 1204 1214	pre-proBNP
+T253	Anatomy 1240 1247	pro-BNP
+T254	Drug 1859 1862	脑钠肽
+T255	Test 1938 1944	表观分布容积
+T256	Anatomy 1843 1846	胰岛素
+T257	Test_Value 1997 1999	降低
+T258	Anatomy 2049 2050;2051 2054	细 胞间隙
+T259	Anatomy 2141 2150	肾素血管紧张素系统
+T260	Disease 2359 2362	糖尿病
+T261	Anatomy 2452 2455	胰岛素
+T262	Anatomy 2492 2495	胰岛素
+T263	Anatomy 2545 2548	胰岛素
+T264	Disease 2861 2866	代谢性疾病
+T265	Test_Value 3294 3296	升高
+T266	Disease 3356 3359	糖尿病
+T267	Disease 3834 3837	糖尿病
+T268	Test_Value 3999 4001	正常
+T269	Test_Value 4097 4099	正常
+T270	Test 4707 4709;4710 4711	脑钠 肽
+T271	Anatomy 5051 5054	胰岛素
+T272	Test_Value 5495 5498	高水平
+T273	Disease 5636 5639	糖尿病
+T274	Symptom 928 934	左室功能损害
+T275	Test 973 977	儿茶酚胺
+T276	Anatomy 1009 1012	脑钠肽
+T277	Anatomy 1001 1004	胰岛素
+T278	Anatomy 1197 1203	前脑钠肽前体
+T279	Anatomy 1343 1351	C 型利钠肽受体
+T280	Anatomy 1553 1556	脑钠肽
+T281	Anatomy 1574 1577	脑钠肽
+T282	Anatomy 1585 1588	脑钠肽
+T283	Anatomy 1595 1598	脑钠肽
+T284	Anatomy 1631 1636	NPR-C
+T285	Anatomy 1639 1641;1642 1646	胰腺 α 细胞
+T286	Anatomy 1695 1698	脑钠肽
+T287	Anatomy 1735 1738	脑钠肽
+T288	Anatomy 1822 1825	脑钠肽
+T289	Anatomy 1837 1840	脑钠肽
+T290	Anatomy 2002 2005	脑钠肽
+T291	Anatomy 2021 2023;2024 2025	脑钠 肽
+T292	Anatomy 2071 2074	脑钠肽
+T293	Anatomy 2196 2199	脑钠肽
+T294	Anatomy 2249 2250;2251 2254	脑 钠肽可
+T295	Test 2365 2368	脑钠肽
+T296	Anatomy 2465 2468	脑钠肽
+T297	Anatomy 2485 2488	脑钠肽
+T298	Anatomy 2535 2538	脑钠肽
+T299	Anatomy 2613 2616	脑钠肽
+T300	Reason 2782 2787	胰岛素抵抗
+T301	Reason 2820 2825	胰岛素抵抗
+T302	Reason 2852 2857	脑钠肽降低
+T303	Anatomy 2974 2985	rs198389 基因
+T304	Anatomy 3002 3013	rs198389 基因
+T305	Anatomy 3198 3200;3201 3202	脑钠 肽
+T306	Test 3298 3307	NT-proBNP
+T307	Reason 3322 3325	高血压
+T308	Reason 3326 3329	糖尿病
+T309	Reason 3330 3331;3332 3335	血 脂异常
+T310	Test 3340 3346	C 反应蛋白
+T311	Anatomy 3399 3401;3402 3403	脑钠 肽
+T312	Anatomy 3509 3518	NT-proBNP
+T313	Anatomy 3562 3571	NT-proBNP
+T314	Test 3810 3813	脑钠肽
+T315	Test 4015 4018;4019 4021	脑钠肽 水平
+T316	Symptom 4022 4028	微量白蛋白尿
+T317	Anatomy 4082 4089	pro-BNP
+T318	Anatomy 4109 4112	脑钠肽
+T319	Anatomy 4164 4167	脑钠肽
+T320	Test 4170 4179	估计的肾小球滤过率
+T321	Test 4256 4259	肌酐比
+T322	Test_Value 4261 4276	30 ~ 300 mg / g
+T323	Test 4334 4337	脑钠肽
+T324	Disease 4815 4817	肥胖
+T325	Anatomy 4819 4822	脑钠肽
+T326	Test 5039 5042	胰岛素
+T327	Test_Value 5155 5159	水平升高
+T328	Symptom 5616 5620	呼吸困难
+T329	Anatomy 5654 5655;5656 5658	脑 钠肽
+T330	Test 5679 5682;5683 5684	体重指 数

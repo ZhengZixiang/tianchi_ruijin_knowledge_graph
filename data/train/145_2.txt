@@ -1,0 +1,107 @@
+述评
+基金项目:
+科,上海市内分泌代谢病研究所,上海市内分泌代谢病临床医学中心
+加强对维生素 D /甲状旁腺激素相关疾病的
+基础和临床研究
+刘建民
+[提要]   维生素 D(VitD)和甲状旁腺激素(PTH)是调节钙磷代谢的经典激素,参与骨骼和肌肉的各
+项生理功能以及多种代谢性骨病的发生发展。 现代内分泌学的发展大大拓展了人们对 VitD / PTH 的认识,
+发现了 VitD / PTH 广泛的骨外作用,在甲状旁腺发生学和某些甲状旁腺相关疾病的致病基因和疾病谱方面
+都取得比较大的进展。
+[关键词]   维生素 D; 甲状旁腺激素; 甲状旁腺; 25-羟维生素 D
+More basic and clinical studies on vitamin D / parathyroid hormone related disorders are needed Liu
+Jianmin. Shanghai Clinical Center for Endocrine and Metabolic Diseases, Shanghai Institute of Endocrine and
+Metabolic Diseases, Department of Endocrine and Metabolic Diseases, Ruijin Hospital, Shanghai Jiaotong University
+School of Medicine, Shanghai 200025, China
+[Summary]  Vitamin D and parathyroid hormone (PTH) are two classical hormones modulating calcium and
+phosphorus homeostasis. The rapid development of modern endocrinology has greatly expanded our understanding of
+these two hormones. The extra-skeleton effects of vitamin D / PTH are well documented, novel findings regarding to the
+embryonic and adult parathyroid development, and the changing clinical patterns in certain parathyroid-related
+disorders have been discovered.
+[Key words]  Vitamin D; Parathyroid hormone; Parathyroid; 25-hydroxy vitamin D
+(Chin J Endocrinol Metab, 2015, 31: 293-295)
+生素 D(VitD)状态和甲状旁腺激素(PTH)水平或功能
+有关的文章,分别是《甲状旁腺功能减退-感音神经性
+耳聋-肾发育不良综合征与 GATA3 基因突变分析》、
+《血清 25-羟维生素 D 和甲状旁腺激素水平与 2 型糖
+尿病患者骨密度的关系》和《89 例原发性甲状旁腺功
+能亢进症患者的诊治分析》 [1-3]。 虽然这 3 篇文章在
+研究设计、数据检测、结果分析等方面都还有进一步改
+进和探讨的空间,但最近几年有关调控甲状旁腺发育
+的转录因子以及 VitD / PTH 与各种内分泌代谢疾病和
+其他系统疾病之间的关系越来越受到人们的关注。
+本期刊登的 1 例甲状旁腺功能减退-感音神经性
+耳聋-肾发育不良(HDR)综合征虽然罕见,但正如该
+文作者指出的,在诊断甲状旁腺功能减退时,有必要进
+行肾脏 B 超和电测听检查,以免漏诊 HDR。 从基础医
+学的角度看,GATA3 基因突变不仅会造成 HDR 综合
+征,而且在小鼠研究中证明该转录因子与胚胎期的甲
+状旁腺发育和成年期甲状旁腺的增殖有关[4]。 对甲
+状旁腺功能减退患者和动物模型的深入研究发现了包
+括 GATA3 在内的多个转录因子参与甲状旁腺的发
+育[5]。 由此可以看出对遗传性疾病的临床和基础研
+究目的不仅在于加深对该疾病临床表现谱的认识,发
+现新的突变基因或位点,证明其功能,从基因型推断表
+型,更期望能从中发现与相关组织器官发生发育有关
+的基因或转录因子。
+分析 VitD / PTH 在各种疾病发生发展中的潜在作
+用时,是很难将两者分开的,较低的 VitD 状态(以血清
+25-羟维生素 D 表示)会促进血清 PTH 升高。 以原发
+性甲状旁腺功能亢进症(PHPT)为例,诊断该病时要求
+首先排除因 VitD 不足而造成的继发性甲状旁腺功能
+亢进症。 但事实是,大多数 PHPT 患者都存在 VitD 不
+足,这一点在东方人中表现得更为明显,而且这是造成
+东方人 PHPT 的生化和临床表现比西方人更为严重的
+原因之一[6]。 但不管怎样,诊断 PHPT 时检测血清 25-
+羟维生素 D 水平是必不可少的,口服补充 VitD 和快速
+静脉钙负荷试验有助于鉴别 PHPT 和 VitD 不足导致
+的继发性甲状旁腺功能亢进[7,8]。
+本期所报道的 89 例 PHPT 患者临床表现多样,确
+诊前辗转就诊于多个科室。 提高临床医师对 PHPT 的
+识别能力是十分重要的。 需指出的是,虽然目前国内
+外 PHPT 中无症状患者越来越多,但即使是那些所谓
+无症状的患者,以双能 X 线吸收法骨密度仪(DXA)检
+测骨密度发现的骨质疏松、以 X 线平片发现的腰椎骨
+折和以超声检查发现的肾结石仍然比较常见[9]。 因
+此全面的影像学检查和积极的干预对 PHPT 仍然十分
+重要。
+有关 2 型糖尿病患者的骨骼问题,目前比较一致
+的认识是无论患者以 DXA 测得的骨密度与正常人相
+比是升高、没有变化或降低,其骨质量大多是下降的,
+即使是新发病患者,其髋骨骨折风险就高于非糖尿病
+者[10]。 造成 2 型糖尿病患者骨密度各种变化的原因
+很复杂,除受患者之间不同胰岛素水平和敏感性等因
+素影响外,正如本期所刊文章提示的,VitD 状态和血
+清 PTH 水平的变化与波动也是可能的原因。 但更重
+要的是,今后的研究应着眼于发现并确定可用于无创
+性评估 2 型糖尿病患者骨折风险的临床指标,如骨转
+换指标、HBA1C,甚至是皮质醇水平和敏感性等[11-13]。
+最近几年,有关 VitD / PTH 与骨以外疾病的关系
+正越来越受到人们的关注。 VitD 不足和 PTH 升高与
+肥胖、胰岛素抵抗、2 型糖尿病、心血管病变、血管性早
+老性痴呆、肿瘤、自身免疫性疾病等多种疾病存在联
+系[14-18];但一些前瞻性干预研究和 meta 分析并不都支
+持横断面研究的结果[19,20]。 VitD 多脏器益处的基础
+是许多组织器官上都存在 VitD 受体和形成活性 VitD
+[1,25-二羟维生素 D3]所必需的限速酶 1α-羟化酶。
+目前已知的机制涉及非常广泛,例如,VitD 对心血管、
+内分泌和免疫系统具有抗炎、抗增殖作用;能通过胰腺
+β 细胞上的 VitD 受体,刺激胰岛素基因转录,起到促
+进胰岛素分泌的作用;胰岛素受体启动子上存在 VitD
+应答元件;VitD 能通过骨骼肌上的 VitD 受体,促进胰
+岛素受体表达和葡萄糖转运[21];而且 VitD / PTH 还作
+用于肾素-血管紧张素-醛固酮系统,参与血压的调
+控[22]。 最新的人体研究发现,血钙正常且排除 VitD
+缺乏,但 PTH 升高的人,其血压高于血清 PTH 正常的
+人[23],这提示 PTH 可能对血压有独立于 VitD 的作用。
+需强调的是,在开展人群研究时,要充分考虑到户外活
+动量、肥胖程度、全身营养状况,以及血钙等因素对
+VitD 和 PTH 的影响。 此外,如何以硬终点,如心血管
+事件、糖尿病、肿瘤等为目标,确定最适当的血清 25-
+羟维生素 D 浓度范围也是一个极具挑战性的临床科
+学问题。
+总之,在体内外动物实验和人群中加强对 VitD /
+PTH 生理、病理生理意义和在疾病发生发展中作用的
+基础和临床研究,无疑对认识各种疾病的发病机制、寻
+找新的临床诊断、监测指标和干预靶点具有积极的意
+义。

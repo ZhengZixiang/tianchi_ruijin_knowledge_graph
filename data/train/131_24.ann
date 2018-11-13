@@ -1,0 +1,602 @@
+T1	Test 3148 3153	HBA1C
+T2	Test 2777 2780	尿素氮
+T3	Test 6210 6213	尿素氮
+T4	Test 6295 6298	尿素氮
+T5	Test 6396 6399	尿素氮
+T6	Test 4690 4693	血肌酐
+T7	Disease 56 60;61 62	肺肾综合 征
+T8	Disease 67 78	ANCA 相关性血管炎
+T9	Reason 114 116	药物
+T10	Disease 120 131	ANCA 相关性血管炎
+T11	Disease 192 195	AAV
+T12	Reason 216 221	抗甲亢药物
+T13	Anatomy 241 243	皮肤
+T14	Anatomy 244 246	肾脏
+T15	Anatomy 250 252	肺部
+T16	Drug 270 275	抗甲亢药物
+T17	Drug 279 285	糖皮质类固醇
+T18	Drug 289 290;291 295	免 疫抑制剂
+T19	Drug 316 327	抗甲状腺功能亢进症药物
+T20	Disease 329 340	ANCA 相关性血管炎
+T21	Disease 342 348	肺-肾综合征
+T22	Symptom 1323 1325	怕热
+T23	Symptom 1326 1328	心悸
+T24	Symptom 1329 1331	多汗
+T25	Symptom 1332 1337	甲状腺肿大
+T26	Symptom 1355 1357	怕热
+T27	Symptom 1358 1360	多汗
+T28	Symptom 1361 1363	心悸
+T29	Symptom 1364 1366	手抖
+T30	Symptom 1367 1370;1371 1372	颈部变 粗
+T31	Disease 1377 1385	甲状腺功能亢进症
+T32	Drug 1414 1418	甲巯咪唑
+T33	Amount 1419 1432	5 ~ 15 mg / d
+T34	Duration 1433 1437	4 年余
+T35	Drug 1446 1450	甲巯咪唑
+T36	Test 1454 1459	甲状腺功能
+T37	Symptom 1470 1471;1472 1473	怕 热
+T38	Symptom 1474 1476	心悸
+T39	Symptom 1477 1479	手抖
+T40	Symptom 1481 1483	恶心
+T41	Symptom 1484 1486	呕吐
+T42	Disease 1494 1496	甲亢
+T43	Disease 1497 1505	Graves 病
+T44	Test 1520 1525	甲状腺功能
+T45	Test 1526 1529	FT3
+T46	Test_Value 1530 1543	12. 41 ng / L
+T47	Test 1575 1578	FT4
+T48	Test_Value 1579 1592	45. 90 ng / L
+T49	Test 1607 1610	TSH
+T50	Test_Value 1611 1624	0. 01 mIU / L
+T51	Drug 1650 1656	丙基硫氧嘧啶
+T52	Drug 1658 1661	PTU
+T53	Amount 1663 1669	100 mg
+T54	Method 1670 1672	口服
+T55	Frequency 1673 1680	3 次 / d
+T56	Duration 1682 1685	1 周
+T57	Symptom 1688 1694	四肢皮肤瘙痒
+T58	Symptom 1695 1701;1702 1705	双手腕、肘关 节疼痛
+T59	Symptom 1706 1708	低热
+T60	Test_Value 1709 1720	37 ~ 38. 5℃
+T61	Test 1727 1729	肌酐
+T62	Symptom 1744 1753	精神、食欲、睡眠差
+T63	Test 1765 1767	体重
+T64	Disease 1784 1786	乙肝
+T65	Disease 1787 1790	结核病
+T66	Disease 1791 1794	高血压
+T67	Disease 1795 1798	糖尿病
+T68	Test 1808 1810	体温
+T69	Test_Value 1811 1817	36. 9℃
+T70	Test 1818 1820	脉搏
+T71	Test_Value 1821 1831	96 次 / min
+T72	Test 1832 1834	呼吸
+T73	Test_Value 1835 1845	20 次 / min
+T74	Test 1847 1849	血压
+T75	Test_Value 1850 1863	114 / 54 mmHg
+T76	Symptom 1886 1889	精神差
+T77	Symptom 1890 1893;1894 1895	体型消 瘦
+T78	Symptom 1936 1945	双侧甲状腺2度肿大
+T79	Test 1978 1980	心率
+T80	Test_Value 1981 1983;1984 1991	96 次 / min
+T81	Symptom 1992 1995	律不齐
+T82	Symptom 2018 2025	双下肢轻度水肿
+T83	Test 2037 2040	B 超
+T84	Test_Value 2041 2048;2049 2050	双肾实质回声增 强
+T85	Test_Value 2051 2058	肾动脉阻力偏高
+T86	Test 2060 2063	ECT
+T87	Test_Value 2065 2073	双肾血流灌注降低
+T88	Test_Value 2074 2079;2080 2082	肾功能中度 受损
+T89	Test 2084 2087	心电图
+T90	Test_Value 2088 2092	窦性心律
+T91	Test_Value 2093 2099	频发房性早搏
+T92	Test_Value 2100 2106	ST 段改变
+T93	Test 2108 2111	肾功能
+T94	Test_Value 2118 2132	20. 9 mmol / L
+T95	Test 2146 2148	肌酐
+T96	Test_Value 2149 2164	381. 9 μmol / L
+T97	Test 2174 2176	尿酸
+T98	Test_Value 2177 2192	505. 6 μmol / L
+T99	Test 2219 2220;2221 2225	白 细胞计数
+T100	Test_Value 2226 2242	12. 70 × 109 / L
+T101	Test 2243 2248	中性粒细胞
+T102	Test_Value 2249 2255	80. 1%
+T103	Test 2257 2262	中性粒细胞
+T104	Test_Value 2263 2277	10. 20×109 / L
+T105	Test 2278 2283	红细胞计数
+T106	Test_Value 2284 2298	1. 90×1012 / L
+T107	Test 2299 2303	血红蛋白
+T108	Test_Value 2304 2315	57. 8 g / L
+T109	Test 2316 2317;2318 2322	血 小板计数
+T110	Test_Value 2323 2337	234. 0×109 / L
+T111	Test 2339 2342	尿常规
+T112	Test 2343 2347	尿红细胞
+T113	Test_Value 2348 2350	3+
+T114	Test 2351 2355	尿白细胞
+T115	Test_Value 2356 2357	±
+T116	Test 2359 2360;2361 2363	尿 蛋白
+T117	Test_Value 2364 2366	2+
+T118	Test 2367 2371	尿葡萄糖
+T119	Test_Value 2372 2373	±
+T120	Test 2375 2381	尿红细胞计数
+T121	Test_Value 2382 2392	1 042 / 滋l
+T122	Test 2393 2399	尿白细胞计数
+T123	Test_Value 2400 2411	58. 00 / 滋l
+T124	Test 2413 2422	24 h 尿总蛋白
+T125	Test_Value 2423 2439	420. 3 mg / 24 h
+T126	Test 2440 2451	24 h 尿微量白蛋白
+T127	Test_Value 2452 2468	227. 1 mg / 24 h
+T128	Test 2470 2475	甲状腺功能
+T129	Test 2477 2480	TSH
+T130	Test_Value 2481 2497	0. 000 1 mIU / L
+T131	Test 2514 2517	FT3
+T132	Test_Value 2518 2531	2. 90 pg / ml
+T133	Test 2548 2551	FT4
+T134	Test 2581 2589	甲状腺球蛋白抗体
+T135	Test_Value 2590 2605	661. 90 IU / ml
+T136	Test 2615 2620;2621 2626	甲状腺过氧 化物酶抗体
+T137	Test_Value 2626 2642	>600. 00 IU / ml
+T138	Test 2651 2659	甲状腺刺激性抗体
+T139	Test 2660 2664	TsAb
+T140	Test_Value 2666 2679	4. 67 IU / ml
+T141	Test 2692 2695	肝功能
+T142	Test 2696 2699	总蛋白
+T143	Test_Value 2700 2708	55 g / L
+T144	Test 2709 2712	白蛋白
+T145	Test_Value 2713 2718;2719 2724	23. 1 g / L
+T146	Test 2725 2733	心肌肌钙蛋白 I
+T147	Test_Value 2734 2748	0. 084 ng / ml
+T148	Test 2749 2753	肌酸激酶
+T149	Test_Value 2754 2762	29 U / L
+T150	Test 2764 2767	肾功能
+T151	Test_Value 2781 2796	25. 47 mmol / L
+T152	Test 2797 2799	肌酐
+T153	Test_Value 2800 2812	475 μmol / L
+T154	Test 2813 2815	尿酸
+T155	Test_Value 2816 2831	521. 2 μmol / L
+T156	Test 2832 2836	碳酸氢根
+T157	Test_Value 2837 2851	16. 7 mmol / L
+T158	Test 2852 2856	eGFR
+T159	Test 2876 2877	钠
+T160	Test_Value 2878 2894	132. 60 mmol / L
+T161	Test 2895 2896	氯
+T162	Test_Value 2897 2911	96. 4 mmol / L
+T163	Test 2912 2913	钙
+T164	Test_Value 2914 2928	2. 11 mmol / L
+T165	Test 2930 2935	甲状旁腺素
+T166	Test_Value 2936 2950	37. 84 pg / mL
+T167	Test 2961 2965	心电监护
+T168	Test 2975 2984	口服葡萄糖耐量试验
+T169	Test_Value 3154 3159	5. 7%
+T170	Test 3162 3167;3168 3176	抗中性粒细 胞胞浆抗体核周型
+T171	Test 3179 3185	p-ANCA
+T172	Test_Value 3187 3189	阳性
+T173	Test 3190 3199	抗髓过氧化物酶抗体
+T174	Test 3201 3207	MPO-Ab
+T175	Test_Value 3208 3219	200 RU / ml
+T176	Test 3228 3237	抗蛋白酶 3 抗体
+T177	Test 3238 3244	PR3-Ab
+T178	Test_Value 3246 3248;3249 3256	<2 RU / ml
+T179	Test 3266 3269	B 超
+T180	Test 3291 3293	CT
+T181	Test_Value 3352 3358	双侧胸腔积液
+T182	Test 3360 3364	心脏彩超
+T183	Drug 3402 3405	PTU
+T184	Disease 3409 3415	高敏性血管炎
+T185	Disease 3453 3455	甲亢
+T186	Drug 3460 3463	PTU
+T187	Disease 3469 3472	血管炎
+T188	Test 3485 3489	ANCA
+T189	Disease 3501 3517	ANCA 相 关 性 血 管 炎
+T190	Disease 3579 3582	AAV
+T191	Drug 3606 3612	丙基硫氧嘧啶
+T192	Drug 3613 3616	PTU
+T193	Drug 3634 3637	PTU
+T194	Drug 3676 3679	PTU
+T195	Disease 3683 3686	AAV
+T196	Disease 3739 3741	甲亢
+T197	Drug 3748 3751	PTU
+T198	Drug 3806 3809	他巴唑
+T199	Drug 3810 3814	卡比马唑
+T200	Disease 3825 3827;3828 3829	血管 炎
+T201	Drug 3879 3884	抗甲亢药物
+T202	Disease 3887 3890	血管炎
+T203	Anatomy 3912 3917	中性粒细胞
+T204	Anatomy 3937 3943	髓过氧化物酶
+T205	Anatomy 3944 3947	MPO
+T206	Drug 3950 3953	PTU
+T207	Anatomy 3958 3961	MPO
+T208	Anatomy 3981 3984	MPO
+T209	Drug 4001 4004	PTU
+T210	Anatomy 4007 4010	MPO
+T211	Drug 4024 4027	PTU
+T212	Anatomy 4054 4058	T 细胞
+T213	Drug 4084 4087	PTU
+T214	Anatomy 4099 4102	MPO
+T215	Disease 4110 4113	血管炎
+T216	Drug 4124 4127	他巴唑
+T217	Anatomy 4133 4136	MPO
+T218	Drug 4145 4148	他巴唑
+T219	Disease 4151 4154	血管炎
+T220	Drug 4162 4165	PTU
+T221	Drug 4176 4179	PTU
+T222	Disease 4184 4187	AAV
+T223	Duration 4208 4213	48 个月
+T224	Drug 4251 4254	PTU
+T225	Duration 4255 4262	1 ~ 2 周
+T226	Drug 4280 4285	抗甲亢药物
+T227	Symptom 4300 4305	血管炎症状
+T228	Drug 4331 4336	抗甲亢药物
+T229	Drug 4342 4347	抗甲亢药物
+T230	Anatomy 4380 4383	MPO
+T231	Anatomy 4386 4389	PR3
+T232	Disease 4402 4405	AAV
+T233	Drug 4426 4429	PTU
+T234	Disease 4434 4437	AAV
+T235	Test 4444 4452	MPO-ANCA
+T236	Drug 4470 4473	PTU
+T237	Drug 4477 4482	免疫抑制剂
+T238	Drug 4529 4532	PTU
+T239	Disease 4537 4540	AAV
+T240	Drug 4559 4562	PTU
+T241	Disease 4566 4569	AAV
+T242	Symptom 4595 4597	发热
+T243	Symptom 4598 4600	乏力
+T244	Symptom 4601 4605	体重减轻
+T245	Symptom 4606 4612	关节肌肉疼痛
+T246	Symptom 4613 4615	皮疹
+T247	Disease 4618 4621	AAV
+T248	Anatomy 4626 4630	皮下组织
+T249	Symptom 4638 4642	皮肤红斑
+T250	Symptom 4643 4646	关节痛
+T251	Symptom 4648 4650	肌痛
+T252	Anatomy 4663 4665	肾脏
+T253	Symptom 4682 4684	血尿
+T254	Symptom 4685 4688	蛋白尿
+T255	Disease 4698 4703	肾功能不全
+T256	Level 4718 4720	严重
+T257	Disease 4722 4729	急性肾功能衰竭
+T258	Treatment 4731 4735	血液透析
+T259	Drug 4745 4748	PTU
+T260	Drug 4767 4770	PTU
+T261	Disease 4774 4777;4778 4781	肺毛细 血管炎
+T262	Anatomy 4812 4814	肺脏
+T263	Symptom 4820 4822	咳嗽
+T264	Symptom 4823 4825	咳痰
+T265	Symptom 4826 4828	咯血
+T266	Level 4829 4831	严重
+T267	Symptom 4832 4836	呼吸困难
+T268	Symptom 4837 4839	低热
+T269	Symptom 4840 4848	肺间质-肺泡出血
+T270	Drug 4872 4875	他巴唑
+T271	Drug 4881 4884	PTU
+T272	Duration 4888 4891	8 d
+T273	Symptom 4895 4900	流感样症状
+T274	Duration 4901 4905	22 d
+T275	Symptom 4908 4910	咯血
+T276	Symptom 4911 4915	呼吸困难
+T277	Drug 4944 4949	抗甲亢药物
+T278	Test 4971 4982	MPO-ANCA 滴度
+T279	Test 4916 4924;4925 4927	MPO-ANCA 滴度
+T280	Drug 4994 4999	抗甲亢药物
+T281	Disease 5010 5014	听力丧失
+T282	Disease 5015 5017;5018 5019	心包 炎
+T283	Disease 5020 5026	坏疽性脓皮病
+T284	Disease 5027 5035	中枢神经系统受累
+T285	Disease 5118 5121	AAV
+T286	Disease 5169 5171	感染
+T287	Disease 5172 5174	肿瘤
+T288	Disease 5179 5182	血管炎
+T289	Disease 5236 5239	AAV
+T290	Disease 5245 5251	原发性血管炎
+T291	Anatomy 5279 5281	肾脏
+T292	Test 5309 5313	eGFR
+T293	Test 5319 5323	肾脏活检
+T294	Test_Value 5323 5327;5328 5331	肾脏间质 纤维化
+T295	Test_Value 5332 5337	肾小管肥大
+T296	Drug 5363 5368	抗甲亢药物
+T297	Disease 5371 5374	AAV
+T298	Disease 5164 5167	血管炎
+T299	Disease 5429 5432	AAV
+T300	Symptom 5467 5469	发热
+T301	Symptom 5470 5473	关节痛
+T302	Symptom 5474 5477	肌肉痛
+T303	Symptom 5478 5480	皮疹
+T304	Drug 5498 5503	糖皮质激素
+T305	Drug 5506 5511	免疫抑制剂
+T306	Anatomy 5523 5525	肾脏
+T307	Disease 5527 5535	进展性肾小球肾炎
+T308	Anatomy 5539 5541	肺部
+T309	Symptom 5544 5550	肺泡间质出血
+T310	Drug 5554 5559	甲基强的松
+T311	Treatment 5566 5570	血浆置换
+T312	Drug 5576 5581	免疫抑制剂
+T313	Drug 5582 5586	环磷酰胺
+T314	Drug 5590 5595	免疫抑制剂
+T315	Duration 5600 5612	(7 ± 3. 3)个月
+T316	Duration 5613 5620	不超过 1 年
+T317	Disease 5623 5630	原发性 AAV
+T318	Drug 5663 5666;5667 5669	免疫抑 制剂
+T319	Drug 5686 5691	抗甲亢药物
+T320	Disease 5692 5695	AAV
+T321	Disease 5716 5723	原发性 AAV
+T322	Disease 5761 5769	甲状腺功能亢进症
+T323	Disease 5770 5778	Graves 病
+T324	Disease 5781 5787	甲亢性心脏病
+T325	Disease 5801 5806	肾功能不全
+T326	Disease 5807 5814;5815 5819	ANCA 相关 性血管炎
+T327	Disease 5834 5846	ANCA 相关性肺部病变
+T328	Disease 5848 5852	肺部感染
+T329	Disease 5857 5859	贫血
+T330	Treatment 5867 5869	利尿
+T331	Treatment 5870 5874	营养心肌
+T332	Treatment 5875 5878	抗感染
+T333	Treatment 5880 5884	血液透析
+T334	Treatment 5885 5889	纠正贫血
+T335	Test 5899 5902	心功能
+T336	Test 5903 5906	肾功能
+T337	Symptom 5924 5929	阵发性咳嗽
+T338	Symptom 5930 5932	咳痰
+T339	Symptom 5933 5938;5939 5940	少量痰中带 血
+T340	Symptom 5955 5959	呼吸困难
+T341	Test 5984 5986	血压
+T342	Test_Value 5987 6000	137 / 78 mmHg
+T343	Test 6001 6003	脉搏
+T344	Test_Value 6004 6014	80 次 / min
+T345	Drug 6041 6046	抗甲亢药物
+T346	Disease 6050 6061	ANCA 相关性血管炎
+T347	Disease 6062 6068	肺-肾综合征
+T348	Test 6093 6096	肾活检
+T349	Test 6097 6100	肺活检
+T350	Drug 6113 6119	甲基强的松龙
+T351	Amount 6120 6130	200 mg / d
+T352	Method 6131 6135	静脉滴注
+T353	Duration 6136 6139	3 d
+T354	Symptom 6141 6143	咳嗽
+T355	Symptom 6144 6146	咯血
+T356	Drug 6154 6157	强的松
+T357	Method 6157 6159	口服
+T358	Amount 6160 6169	40 mg / d
+T359	Drug 6181 6186	免疫抑制剂
+T360	Drug 6188 6192	环磷酰胺
+T361	Amount 6193 6201	6 g /总疗程
+T362	Treatment 6204 6208	血液透析
+T363	Test_Value 6214 6229	33. 85 mmol / L
+T364	Test 6231 6233	肌酐
+T365	Test_Value 6234 6246	636 μmol / L
+T366	Test 6247 6249	尿酸
+T367	Test_Value 6250 6265	634. 4 μmol / L
+T368	Test 6266 6270	碳酸氢根
+T369	Test_Value 6271 6285	15. 3 mmol / L
+T370	Test_Value 6299 6314	17. 68 mmol / L
+T371	Test 6315 6317	肌酐
+T372	Test_Value 6318 6330	236 μmol / L
+T373	Test 6331 6332;6333 6334	尿 酸
+T374	Test_Value 6335 6347	267 μmol / L
+T375	Test 6348 6352	碳酸氢根
+T376	Test_Value 6353 6367	16. 7 mmol / L
+T377	Test 6374 6377	肾功能
+T378	Test 6391 6394	肾功能
+T379	Test_Value 6400 6415	10. 08 mmol / L
+T380	Test 6416 6418	肌酐
+T381	Test_Value 6419 6431	106 μmol / L
+T382	Test 6432 6434	尿酸
+T383	Test_Value 6435 6450	449. 4 μmol / L
+T384	Test 6452 6455	FT3
+T385	Test 6458 6461	FT4
+T386	Test 6465 6468	TSH
+T387	Test_Value 6469 6475;6476 6483	0. 002 mIU / L
+T388	Test 6501 6505	TsAb
+T389	Test 6516 6519	肾功能
+T390	Test 6523 6529	p-ANCA
+T391	Test 6533 6539	MPO-Ab
+T392	Test_Value 6540 6550	56 RU / ml
+T393	Test 6551 6557	RP3-Ab
+T394	Test_Value 6557 6567	<2 RU / ml
+T395	Drug 6600 6605	抗甲亢药物
+T396	Drug 6609 6612	PTU
+T397	Drug 6614 6618	甲硫咪唑
+T398	Drug 6619 6620;6621 6623	他 巴唑
+T399	Symptom 6634 6638	皮肤瘙痒
+T400	Symptom 6639 6641	发热
+T401	Symptom 6652 6657	胃肠道不适
+T402	Disease 6660 6663	AAV
+T403	Drug 6715 6720	抗甲亢药物
+T404	Drug 6746 6750	甲硫咪唑
+T405	Duration 6751 6754	4 年
+T406	Drug 6758 6761	PTU
+T407	Symptom 6769 6771	皮疹
+T408	Symptom 6772 6774	瘙痒
+T409	Symptom 6775 6777;6778 6780	关节 酸痛
+T410	Disease 6795 6802	急性肾功能不全
+T411	Symptom 6816 6818	咳嗽
+T412	Symptom 6818 6820	咯血
+T413	Test 6827 6833	p-ANCA
+T414	Drug 6846 6851	抗甲亢药物
+T415	Disease 6855 6858	AAV
+T416	Disease 6859 6865	肺-肾综合征
+T417	Drug 6868 6870	激素
+T418	Drug 6871 6873;6874 6877	免疫 抑制剂
+T419	Drug 6892 6895	PTU
+T420	Disease 6927 6930	血管炎
+T421	Reason 6943 6948;6949 6952	长时间使用 PTU
+T422	Reason 6953 6967	血清 MPO-ANCA 阳性
+T423	Reason 6993 7009	MPO-ANCA 抗体免疫学特征
+T424	Drug 7028 7033	抗甲亢药物
+T425	Disease 7034 7036	甲亢
+T426	Disease 7039 7042	AAV
+T427	Symptom 7086 7088	低热
+T428	Symptom 7089 7091	皮疹
+T429	Symptom 7092 7095	关节痛
+T430	Symptom 7096 7098	肌痛
+T431	Symptom 7119 7123	皮肤红斑
+T432	Disease 7147 7148;7149 7150	甲 亢
+T433	Drug 7200 7205	抗甲亢药物
+T434	Test 7217 7221	ANCA
+T435	Drug 7245 7248	PTU
+T436	Drug 7257 7260	MMI
+T437	Disease 7291 7294	AAV
+T438	Test 7310 7318	MPO-ANCA
+T439	Test 7321 7329	PR3-ANCA
+T440	Test 7373 7376	尿常规
+T441	Disease 7391 7393	甲亢
+T442	Disease 7405 7408	AAV
+T443	Drug 7413 7418	糖皮质激素
+T444	Drug 7420 7421;7422 7426	免 疫抑制剂
+T445	Drug 7451 7456	抗甲亢药物
+T446	Test 7465 7470	甲状腺功能
+T447	Test 7471 7474	血常规
+T448	Test 7475 7478	肝功能
+T449	Test 7494 7500	MPO-Ab
+T450	Test 7503 7509	PR3-Ab
+T451	Drug 7540 7542	激素
+T452	Drug 7543 7545;7546 7549	免疫 抑制剂
+T453	Symptom 1760 1764	体力下降
+T454	Anatomy 2009 2011	腹部
+T455	Test_Value 2867 2875	mmol / L
+T456	Anatomy 4074 4078	自身抗体
+T457	Duration 4231 4235;4236 4237	24 个 月
+T458	Level 4671 4673	轻微
+T459	Reason 5112 5114	药物
+T460	Reason 5230 5232	药物
+T461	Level 5293 5295;5296 5297	程度 轻
+T462	Frequency 5941 5948	5 次 / d
+T463	Treatment 6287 6289	透析
+T464	Duration 6762 6765	1 周
+T465	Symptom 7124 7128	过敏反应
+T466	Disease 7133 7136	AAV
+T467	Test 7377 7379	胸片
+T468	Disease 208 215	自身免疫性疾病
+T469	Level 1321 1323	反复
+T470	Duration 1338 1341	5 年
+T471	Test_Value 1552 1570	2. 5 ~ 3. 9 ng / L
+T472	Test_Value 1593 1605	6. 1 ~ 11. 2
+T473	Test_Value 1625 1645	0. 34 ~ 5. 6 mIU / L
+T474	Test_Value 1731 1733	升高
+T475	Symptom 1946 1951	质中无压痛
+T476	Symptom 1953 1958	未触及结节
+T477	Symptom 1967 1976	未闻及干、湿性啰音
+T478	Symptom 1996 2007	各瓣膜未闻及病理性杂音
+T479	Test_Value 2133 2144	1. 7 ~ 8. 3
+T480	Test_Value 2165 2169;2170 2172	45 ~ 84
+T481	Test_Value 2193 2208	142. 8 ~ 339. 2
+T482	Test_Value 2499 2506;2507 2512	0. 35 ~ 4. 94
+T483	Test_Value 2533 2546	1. 71 ~ 3. 71
+T484	Test_Value 2567 2573;2574 2579	0. 7 ~ 1. 48
+T485	Test_Value 2606 2613	0 ~ 115
+T486	Test_Value 2643 2649	0 ~ 34
+T487	Test_Value 2680 2689	0 ~ 1. 58
+T488	Test_Value 2951 2958	15 ~ 65
+T489	Test_Value 3220 3226	0 ~ 20
+T490	Test_Value 3257 3263	0 ~ 20
+T491	Test_Value 3278 3286;3287 3289	集合系统光点群不 分离
+T492	Disease 3596 3603	自身免疫性疾病
+T493	Reason 4513 4516;4517 4518	遗传因 素
+T494	Symptom 4587 4588;4589 4594	非 特异性症状
+T495	Anatomy 4656 4662	全身多个脏器
+T496	Test_Value 4695 4697	升高
+T497	Duration 4785 4791	长达 1 年
+T498	Duration 4797 4803	短至 1 周
+T499	Test_Value 5304 5305	低
+T500	Symptom 5460 5466	非特异性症状
+T501	Treatment 5890 5896	对症支持治疗
+T502	Symptom 6024 6032	未闻及干湿性啰音
+T503	Test_Value 6462 6464	正常
+T504	Test_Value 6484 6497	0. 35 ~ 4. 94
+T505	Test_Value 6519 6521	正常
+T506	Test_Value 6530 6532	阴性
+T507	Level 6672 6674	严重
+T508	Test_Value 7330 7331;7332 7333	阳 性
+T509	Test 1722 1726	血尿素氮
+T510	Test 2113 2117	血尿素氮
+T511	Reason 41 52	抗甲状腺功能亢进症药物
+T512	Drug 1389 1397	同位素131 I
+T513	Disease 1508 1513	心功能不全
+T514	Level 1514 1517	2 级
+T515	Test_Value 1768 1776	减轻约 8 kg
+T516	Symptom 1902 1915	全身皮肤黏膜无黄染及出血点
+T517	Symptom 1916 1922;1923 1927	全身浅表淋巴 结无肿大
+T518	Symptom 1928 1934	颈静脉无充盈
+T519	Anatomy 1938 1941	甲状腺
+T520	Level 1941 1943	2度
+T521	Symptom 1960 1966	双肺呼吸音清
+T522	Level 2077 2079	中度
+T523	Test_Value 2552 2565	2. 82 ng / dl
+T524	Test_Value 2967 2971;2972 2973	阵发性房 颤
+T525	Test 2985 2987	血糖
+T526	Test_Value 3000 3005	5. 49
+T527	Test_Value 3006 3011	9. 10
+T528	Test_Value 3013 3018	8. 39
+T529	Test_Value 3019 3033	7. 09 mmol / L
+T530	Test 3034 3041	胰岛素释放试验
+T531	Test_Value 3054 3060	12. 94
+T532	Test_Value 3062 3068	87. 80
+T533	Test_Value 3069 3075	83. 60
+T534	Test_Value 3076 3089	48. 20 mU / L
+T535	Test 3090 3097	C 肽释放试验
+T536	Test_Value 3112 3118	17. 51
+T537	Test_Value 3119 3125	26. 34
+T538	Test_Value 3126 3132	31. 20
+T539	Test_Value 3133 3146	31. 10 μg / L
+T540	Test_Value 3269 3277	双肾大小形态正常
+T541	Test_Value 3294 3306	双肺可见片状淡薄高密度影
+T542	Anatomy 3318 3321	左下肺
+T543	Test_Value 3324 3330	软组织密度影
+T544	Test_Value 3334 3341	双肺感染性病变
+T545	Test_Value 3342 3346;3347 3350	左下肺部 分实变
+T546	Symptom 3420 3424	呼吸衰竭
+T547	Disease 3640 3648	Graves 病
+T548	Symptom 3797 3804	临床血管炎症状
+T549	Anatomy 4018 4021	MPO
+T550	Anatomy 4062 4068;4069 4070	活化 B 细 胞
+T551	Test 4217 4221	ANCA
+T552	Test_Value 4222 4224	阳性
+T553	Disease 4265 4269	肺血管炎
+T554	Test 4292 4296	ANCA
+T555	Test_Value 4297 4299	阳性
+T556	Disease 4318 4321	AAV
+T557	Anatomy 4363 4367	ANCA
+T558	Test 3817 3821	ANCA
+T559	Test_Value 3822 3824	阳性
+T560	Test 3665 3670	ANCAs
+T561	Test_Value 3671 3673	阳性
+T562	Test 3757 3764	ANCA 阳性
+T563	Test 3775 3779	ANCA
+T564	Test_Value 3780 3782	阳性
+T565	Test 4393 4397	ANCA
+T566	Test_Value 4398 4400	阳性
+T567	Reason 4505 4512	抗内皮细胞抗体
+T568	Symptom 4677 4681	尿检异常
+T569	Disease 4752 4762	非特异性的间质性肺炎
+T570	Test 5208 5214	血 ANCA
+T571	Test_Value 5215 5217	阳性
+T572	Test 5290 5293	蛋白尿
+T573	Test 5298 5302	血清肌酐
+T574	Reason 5435 5440	抗甲亢药物
+T575	Method 5559 5563	静脉冲击
+T576	Test 5788 5791	心功能
+T577	Level 5791 5797	2 ~ 3级
+T578	Disease 5824 5831	双肺弥漫性病变
+T579	Symptom 5950 5952	胸闷
+T580	Symptom 5952 5954	气短
+T581	Test 5967 5975	MPO-ANCA
+T582	Test_Value 5976 5977;5978 5979	阳 性
+T583	Symptom 6015 6021;6022 6023	双肺呼吸音稍 粗
+T584	Duration 6173 6176	6 周
+T585	Symptom 6642 6644	关节
+T586	Symptom 6646 6650	肌肉疼痛
+T587	Disease 6696 6701	肾功能不全
+T588	Disease 6702 6706	肺部感染
+T589	Test 6834 6840	MPO-Ab
+T590	Test_Value 6841 6842;6843 6844	阳 性
+T591	Test 6900 6904	ANCA
+T592	Test_Value 6905 6907	阳性
+T593	Reason 6968 6981	血清 ANCA 特异性抗原
+T594	Anatomy 6983 6986	MPO
+T595	Anatomy 6988 6991	PR3
+T596	Symptom 7075 7083;7084 7085	非特异性血管炎症 状
+T597	Drug 7105 7110	抗甲亢药物
+T598	Disease 7159 7166	急性肾功能不全
+T599	Disease 7167 7171	肺部感染
+T600	Test 7282 7286	ANCA
+T601	Test_Value 7287 7289	阳性
+T602	Test 7486 7493	血 ANCAs

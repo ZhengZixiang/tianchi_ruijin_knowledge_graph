@@ -1,0 +1,131 @@
+临床研究
+基金项目:国家自然科学基金项目(81270946、81170758、30670988);
+仁济医院科研种子基金(RJZZ14-003)
+新诊断糖尿病患者 HBA1C 与血脂水平的相关性研究
+任星星  郑爽  陈雅文  刘伟  胡耀敏
+[提要]   检测新诊断糖尿病患者空腹血糖、HBA1C、血脂等血清学指标,分析 HbA1C水平与血脂水平的
+相关性。 结果发现新诊断糖尿病患者 HBA1C可能对血脂水平有影响,HbA1C水平越高,血脂谱越差,胰岛素
+抵抗越严重。
+[关键词]   新诊断糖尿病; HBA1C; 高脂血症; 胰岛素抵抗
+Association between HBA1C and plasma lipid profiles in newly diagnosed diabetic patients Ren Xingxing,
+Zheng Shuang, Chen Yawen, Liu Wei, Hu Yaomin. Department of Endocrinology, Renji Hospital, Shanghai Jiao Jong
+University School of Medicine, Shanghai 200127, China
+[Summary]  In newly diagnosed diabetic patients, fasting plasma glucose, HBA1C, and plasma lipid profiles
+were measured to analyze the association between HBA1C and plasma lipid profiles. HbA1C might affect plasma lipid
+profiles in newly diagnosed diabetic patients. Higher HBA1C was associated with the worse plasma lipid profiles and
+more severe insulin resistance.
+[Key words]  Newly diagnosed diabetes mellitus; HBA1C; Hyperlipidemia; Insulin resistance
+(Chin J Endocrinol Metab, 2016, 32: 305-306)
+糖尿病是一组由于胰岛素分泌缺陷和(或)胰岛素作用障
+碍所致的以高血糖为特征的代谢性疾病[1] 。 由于糖代谢和脂
+代谢存在交互关系,影响糖代谢的因素多数会影响脂代谢。 血
+糖控制情况影响血脂水平,高血糖可导致高血脂。 Ozder 等[2]
+发现高脂血症的发生与 HBA1C控制不佳有关。 研究表明,与血
+脂相关的指标三酰甘油(TG) /高密度脂蛋白胆固醇(HDL-C)
+与胰岛素抵抗显著相关,并且可考虑将其作为胰岛素抵抗的替
+代指标。 本文对新诊断糖尿病患者 HBA1C和血脂的关系进行
+探讨。
+一、 对象和方法
+1. 对象:收集 2007 年 6 月至 2010 年 6 月在上海市仁济医
+院东院就诊从未使用过药物治疗的新诊断糖尿病患者 976 例。
+糖尿病的诊断标准符合世界卫生组织 1999 年颁布的糖尿病诊
+断标准[1] 。 根据 HBA1C水平分为 A 组:HbA1C<7% ;B 组:7%≤
+HBA1C≤9%;C 组:HbA1C>9% 。
+2. 方法:(1)病史采集和体格检查:对所有患者进行病史
+采集和体格检查,空腹测量身高、体重、腰围、血压等,计算体重
+指数(BMI)。 (2)实验室检测:采用酶学方法测定血脂水平,包
+括 TG、总胆固醇(TC)、HDL-C、低密度脂蛋白胆固醇(LDL-C)。
+采用高压液相色谱法测定 HBA1C。 口服葡萄糖耐量试验和胰
+岛素释放试验:于服糖前和服糖后 0. 5、1、2 及 3 h 分别在前臂
+采血测血浆血糖和血清胰岛素。
+3. 统计学处理:使用 SAS 9. 0 进行数据分析,计数资料以
+x-± s 表示。 连续变量采用单因素方差分析进行 3 组资料比较,
+采用 t 检验进行两样本比较。 采用 Pearson 相关系数来评价
+HBA1C与其他变量的相关性。 P<0. 05 为差异有统计学意义。
+二、 结果
+1. 不同 HBA1C组一般情况的比较(表 1):3 组新诊断糖尿
+病患者发病年龄相近,差别无统计学意义。 B 组 BMI 最高,A
+组腰围最低。 随着 HBA1C升高,3 组 FPG、餐后 2 h 血糖(2hPG)
+水平也逐渐升高,3 组间的差异均有统计学意义。 3 组中 C 组
+的空腹胰岛素( fasting insulin, FINS)水平最低,A 组餐后 2h 胰
+岛素(2h postprandial insulin, 2hPINS)水平最高,3 组间的差异
+均有统计学意义。 3 组 TG、HDL-C 和 TG / HDL-C 水平差异均有
+统计学意义,TG 以 B、C 组间明显,TG / HDL-C 差异主要存在于
+B、C 组和 A、C 组(P<0. 05)。
+2. HBA1C与血脂的相关性:TG、LDL-C、TG / HDL-C 水平与
+HBA1C水平呈正相关( r = 0. 13、0. 11、0. 16,P<0. 05),HDL-C 水
+平与其呈负相关( r= -0. 20,P<0. 05)。
+三、 讨论
+HBA1C是血红蛋白与血糖结合的产物,反映患者近 8 ~ 12
+周血糖控制情况。 中华医学会糖尿病分会推荐的糖尿病血糖
+控制目标为 HBA1C<7. 0% [3] 。 在本研究中,随着 HbA1C水平的
+升高,FPG 和 2hPG 也随之升高,而 2hPINS 越来越低,并且差异
+有统计学意义,这与国内其他关于糖尿病患者 HBA1C与 FPG 和
+2hPG 相关性研究的结果一致[4-5] 。 TG 水平与 HBA1C水平呈正
+相关,3 组 TG 水平均高于正常值上限。 这与 Ozder[2] 的研究结
+果相同,章玫红[6]的研究结果也显示糖尿病组 TG 水平高于对
+照组。 本研究并未发现 TC 水平明显高于正常,这与 Ozder[2]的
+研究结果不一致。 郑玉娟等[7]关于糖尿病患者 HBA1C与血脂
+表 1  不同 HBA1C组间临床资料比较(x-± s)
+组别 例数n 男性
+年龄
+(岁)
+BMI
+(kg / m2)
+腰围
+(cm)
+FPG
+(mmol / L)
+2hPG
+(mmol / L)
+FINS
+(μIU / ml)
+HBA1C<7% 522 240(45. 98%) 55. 36 ±11. 43 24. 78 ±3. 29 85. 98 ±9. 40 6. 60 ±0. 99 12. 55 ±2. 99 11. 10 ±7. 76
+7%≤HBA1C≤9% 295 154(52. 20%) 54. 30 ±10. 82 25. 93 ±3. 47a 89. 75 ±10. 34a 7. 80 ±1. 30a 15. 60 ±2. 93a 12. 02 ±7. 94
+HBA1C>9% 159 100(62. 89%) 55. 15 ±14. 98 24. 71 ±3. 33b 89. 29 ±9. 90a 8. 69 ±2. 68ab 16. 88 ±4. 00ab 9. 00 ±8. 29ab
+组别 例数
+n
+2hPINS
+(μIU / ml)
+SBP
+(mmHg)
+DBP
+(mmHg)
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L) TG / HDL-C
+HBA1C<7% 522 65. 16 ±41. 87 132 ±16 82 ±10 5. 11 ±1. 07 1. 83 ±1. 26 1. 38 ±0. 39 3. 17 ±0. 83 1. 50 ±1. 31
+7%≤HBA1C≤9% 295 51. 03 ±33. 37a 132 ±17 82 ±10 5. 06 ±1. 14 1. 88 ±1. 10 1. 27 ±0. 32a 3. 23 ±0. 85 1. 64 ±1. 27
+HBA1C>9% 159 22. 31 ±21. 05ab 130 ±17 82 ±10 5. 08 ±1. 57 2. 17 ±1. 46ab 1. 18 ±0. 28ab 3. 36 ±1. 27 2. 04 ±1. 70ab
+注:BMI:体重指数;FPG:空腹血糖;2hPG:餐后 2 h 血糖;FINS:空腹胰岛素;2hPINS:餐后2 h 胰岛素;SBP:收缩压;1 mmHg=0. 133 kPa; DBP:舒张
+压;TC:总胆固醇;TG:三酰甘油;HDL-C:高密度脂蛋白胆固醇;LDL-C:低密度脂蛋白胆固醇;与 HBA1C <7. 0%组比较,aP<0. 05;与 7. 0% ≤HbA1C≤
+9. 0%组比较,bP<0. 05
+关系的研究结果显示 TC 与 HBA1C水平呈显著正相关。 本研究
+结果与其他研究结果存在差异可能是由于本研究的对象是新
+诊断糖尿病患者,并且存在种族差异。 LDL-C 与 HBA1C水平呈
+正相关,在 HBA1C 分组研究中发现 LDL-C 水平显著高于正常
+值。 HDL-C 与 HBA1C水平呈显著负相关,在分组研究中,随着
+HBA1C升高,HDL-C 也随之降低,这与 Ozder[2] 的研究结果一
+致。
+胰岛素抵抗是 2 型糖尿病发生发展的重要机制,但一直没
+有用于评价胰岛素抵抗的准确且易于实现的指标。 研究[8-9] 表
+明用 TG / HDL-C 评价胰岛素抵抗的结果与稳态模型评估的胰
+岛素抵抗指数(HOMA-IR)显著相关,可考虑将其作为胰岛素
+抵抗的替代指标。 有研究[10-11] 发现,TG / HDL-C 与心血管事件
+危险因素、代谢综合征、糖尿病等呈负相关,这提示其可能与胰
+岛素抵抗相关。 He 等[11]研究发现 TG、TG / HDL-C 是糖尿病的
+独立危险因素, TG 合并 TG / HDL-C 预测糖尿病更有意义。
+Ozder[2]关于糖尿病患者血脂情况的研究发现,在整个研究群
+体中 TG / HDL-C 水平与 HBA1C水平呈显著正相关。 本研究中
+TG / HDL-C 水平与 HBA1C水平也呈正相关。 在 HbA1C分组研究
+中发现,随着 HBA1C水平的升高,TG / HDL-C 呈递增趋势,胰岛
+素抵抗越来越严重。 这与国外的研究结果一致[10-11] 。
+综上,本研究通过探讨新诊断糖尿病患者 HBA1C对血脂水
+平的影响,发现新诊断糖尿病患者 TG 水平显著高于正常值,
+TG、TG / HDL-C 与 HBA1C水平呈正相关,HDL-C 和 HbA1C水平呈
+负相关,HBA1C对新诊断糖尿病患者的血脂影响明显。

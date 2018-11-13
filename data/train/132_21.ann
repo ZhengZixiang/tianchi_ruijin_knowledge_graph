@@ -1,0 +1,367 @@
+T1	Disease 96 102	2 型糖尿病
+T2	Disease 1576 1582	2 型糖尿病
+T3	Disease 1991 1997	2 型糖尿病
+T4	Disease 2106 2112	2 型糖尿病
+T5	Disease 2213 2219	2 型糖尿病
+T6	Disease 3164 3170	2 型糖尿病
+T7	Disease 3222 3228	2 型糖尿病
+T8	Disease 4314 4320	2 型糖尿病
+T9	Disease 5372 5376;5377 5379	2 型糖 尿病
+T10	Disease 6316 6322	2 型糖尿病
+T11	Disease 6518 6524	2 型糖尿病
+T12	Disease 6616 6622	2 型糖尿病
+T13	Drug 2069 2070;2071 2075	磺 脲类药物
+T14	Test 2001 2006	HBA1C
+T15	Drug 2869 2873	二甲双胍
+T16	Drug 6537 6541	二甲双胍
+T17	Test 6414 6417	血脂谱
+T18	Test 6576 6579	血脂谱
+T19	Test 6422 6426	总胆固醇
+T20	Test 6559 6563	总胆固醇
+T21	Disease 4967 4968;4969 4974	动 脉粥样硬化
+T22	Disease 5014 5020	动脉粥样硬化
+T23	Disease 5133 5139	动脉粥样硬化
+T24	Disease 5270 5276	动脉粥样硬化
+T25	Disease 6137 6142	糖尿病前期
+T26	Anatomy 5595 5599	β 细胞
+T27	Anatomy 3489 3493	EPCs
+T28	Anatomy 3505 3509	EPCs
+T29	Anatomy 3598 3602	EPCs
+T30	Anatomy 3648 3652	EPCs
+T31	Anatomy 3686 3690	EPCs
+T32	Anatomy 3788 3792	EPCs
+T33	Anatomy 3828 3832	EPCs
+T34	Anatomy 3867 3871	EPCs
+T35	Anatomy 3880 3884	EPCs
+T36	Anatomy 3984 3988	EPCs
+T37	Anatomy 4225 4229	EPCs
+T38	Anatomy 4264 4268	EPCs
+T39	Anatomy 5443 5447	脂肪细胞
+T40	Anatomy 5672 5674;5675 5677	脂肪 细胞
+T41	Drug 2943 2947	利拉鲁肽
+T42	Drug 4529 4533	阿格列汀
+T43	Drug 4585 4589	阿格列汀
+T44	Drug 4627 4631	阿格列汀
+T45	Drug 4662 4666	阿格列汀
+T46	Drug 4776 4780	阿格列汀
+T47	Drug 5160 5164	阿格列汀
+T48	Drug 360 364	西格列汀
+T49	Drug 1819 1823	西格列汀
+T50	Drug 2124 2128	西格列汀
+T51	Drug 4298 4302	西格列汀
+T52	Drug 5354 5358	西格列汀
+T53	Drug 5420 5424	西格列汀
+T54	Drug 6239 6243	西格列汀
+T55	Drug 6527 6528;6529 6532	西 格列汀
+T56	Test 6429 6433	甘油三酯
+T57	Test 2009 2013	餐后血糖
+T58	Test 2018 2020	体重
+T59	Test 2140 2142	体重
+T60	Drug 4033 4038;4039 4042	DPP-4 抑制剂
+T61	Test 5384 5389	MCP-1
+T62	Drug 1829 1833	沙格列汀
+T63	Drug 2994 2998	艾塞那肽
+T64	Drug 3108 3112	艾塞那肽
+T65	Drug 3214 3218	艾塞那肽
+T66	Drug 1824 1828	维格列汀
+T67	Drug 29 40	二肽基肽酶-4 抑制剂
+T68	Anatomy 40 43	心血管
+T69	Anatomy 112 117	DPP-4
+T70	Anatomy 123 131	胰升糖素样肽-1
+T71	Anatomy 132 137	GLP-1
+T72	Anatomy 164 169	GLP-1
+T73	Anatomy 172 177	DPP-4
+T74	Anatomy 223 228	GLP-1
+T75	Drug 255 264	DPP-4 抑制剂
+T76	Anatomy 271 276	GLP-1
+T77	Anatomy 280 283	心血管
+T78	Anatomy 292 297	内皮祖细胞
+T79	Anatomy 341 349	胰升糖素样肽-1
+T80	Anatomy 351 358	二肽基肽酶-4
+T81	Anatomy 1601 1606	DPP-4
+T82	Anatomy 1624 1632	胰升糖素样肽-1
+T83	Anatomy 1633 1638	GLP-1
+T84	Anatomy 1640 1650;1651 1655	葡萄糖依赖性促胰岛素 释放多肽
+T85	Anatomy 1656 1659	GIP
+T86	Anatomy 1679 1684	GLP-1
+T87	Anatomy 1686 1688	肠道
+T88	Anatomy 1698 1700	胰腺
+T89	Anatomy 1728 1729	胃
+T90	Test 1734 1736	血糖
+T91	Anatomy 1746 1751	GLP-1
+T92	Anatomy 1755 1760	DPP-4
+T93	Drug 1766 1775	DPP-4 抑制剂
+T94	Anatomy 1788 1793	GLP-1
+T95	Drug 1807 1816	DPP-4 抑制剂
+T96	Drug 1864 1873	DPP-4 抑制剂
+T97	Drug 1945 1950	口服降糖药
+T98	Drug 1951 1954	双胍类
+T99	Drug 1955 1959	格列酮类
+T100	Drug 1960 1963	磺脲类
+T101	Drug 1965 1968	胰岛素
+T102	Drug 1975 1984	DPP-4 抑制剂
+T103	Drug 2026 2035	DPP-4 抑制剂
+T104	SideEff 2060 2063	低血糖
+T105	Drug 2088 2097	DPP-4 抑制剂
+T106	Test 2150 2152	血糖
+T107	SideEff 2158 2161	低血糖
+T108	Disease 2225 2230	心血管疾病
+T109	Anatomy 2266 2269	心血管
+T110	Drug 2303 2312	DPP-4 抑制剂
+T111	Drug 2350 2359	DPP-4 抑制剂
+T112	Anatomy 2386 2391	DPP-4
+T113	Anatomy 2399 2404	DPP-4
+T114	Anatomy 2408 2412	CD26
+T115	Anatomy 2416 2420	淋巴细胞
+T116	Anatomy 2421 2425	单核细胞
+T117	Anatomy 2604 2609	DPP-4
+T118	Anatomy 2615 2620	GLP-1
+T119	Anatomy 2710 2715	DPP-4
+T120	Test 2809 2811	血糖
+T121	Anatomy 2819 2824	DPP-4
+T122	Anatomy 2834 2837	癌细胞
+T123	Anatomy 2848 2853	DPP-4
+T124	Anatomy 2882 2887	DPP-4
+T125	Drug 2900 2909	DPP-4 抑制剂
+T126	Anatomy 2912 2917	GLP-1
+T127	Anatomy 2921 2924	心血管
+T128	Drug 2934 2943	GLP-1 类似物
+T129	Anatomy 2951 2955	内皮细胞
+T130	Anatomy 2968 2972	内皮细胞
+T131	Drug 2999 3008	GLP-1 类似物
+T132	Anatomy 3089 3092	股动脉
+T133	Anatomy 3154 3159	GLP-1
+T134	Disease 3232 3237	心血管事件
+T135	Disease 3242 3247	心血管疾病
+T136	Anatomy 3273 3278	GLP-1
+T137	Anatomy 3280 3283	心血管
+T138	Drug 3304 3313	GLP-1 类似物
+T139	Drug 3334 3343	DPP-4 抑制剂
+T140	Anatomy 3345 3350	GLP-1
+T141	Drug 3371 3380	DPP-4 抑制剂
+T142	Anatomy 3384 3387	心血管
+T143	Drug 3395 3404	GLP-1 类似物
+T144	Drug 3415 3424	DPP-4 抑制剂
+T145	Drug 3473 3482	DPP-4 抑制剂
+T146	Anatomy 3483 3488	内皮祖细胞
+T147	Anatomy 3496 3500	内皮细胞
+T148	Anatomy 3541 3547	血管内皮细胞
+T149	Anatomy 3606 3608	骨髓
+T150	Anatomy 3655 3657	骨髓
+T151	Anatomy 3705 3709	脉管系统
+T152	Anatomy 3903 3908	DPP-4
+T153	Drug 3917 3926	DPP-4 抑制剂
+T154	Anatomy 3719 3730	基质细胞衍生因子 1α
+T155	Anatomy 3731 3737	SDF-1α
+T156	Anatomy 3748 3753	CXCR4
+T157	Anatomy 3800 3805	CXCR4
+T158	Anatomy 3806 3812	SDF-1α
+T159	Anatomy 3815 3820	CXCR4
+T160	Anatomy 3894 3900	SDF-1α
+T161	Anatomy 3934 3940	SDF-1α
+T162	Anatomy 3953 3959	SDF-1α
+T163	Anatomy 3962 3967	CXCR4
+T164	Anatomy 4052 4058	SDF-1α
+T165	Disease 4114 4118	心肌梗死
+T166	Anatomy 4150 4152	心脏
+T167	Drug 4179 4188	DPP-4 抑制剂
+T168	Disease 4191 4195	心肌梗死
+T169	Disease 4238 4243	心血管事件
+T170	Disease 4248 4253	心血管疾病
+T171	Disease 4274 4279	心血管事件
+T172	Anatomy 4358 4361	心血管
+T173	Anatomy 4378 4385	微血管内皮细胞
+T174	Anatomy 4387 4392	DPP-4
+T175	Anatomy 4416 4421	DPP-4
+T176	Anatomy 4433 4435;4436 4438	内皮 细胞
+T177	Anatomy 4449 4455	新生毛细血管
+T178	Drug 4475 4484	DPP-4 抑制剂
+T179	Disease 4486 4489	糖尿病
+T180	Drug 4520 4529	DPP-4 抑制剂
+T181	Anatomy 4548 4552	动脉血管
+T182	Anatomy 4621 4625	内皮细胞
+T183	Anatomy 4681 4684	动脉环
+T184	Drug 4703 4712	DPP-4 抑制剂
+T185	Anatomy 4735 4740	GLP-1
+T186	Anatomy 4781 4783;4784 4785	动脉 环
+T187	Drug 4798 4807	DPP-4 抑制剂
+T188	Anatomy 4813 4818	GLP-1
+T189	Drug 4828 4837	DPP-4 抑制剂
+T190	Drug 4869 4878	DPP-4 抑制剂
+T191	Disease 4886 4891	心血管疾病
+T192	Disease 4910 4911;4912 4914	糖 尿病
+T193	Anatomy 4926 4929	血管床
+T194	Anatomy 4940 4944	脂肪组织
+T195	Anatomy 4946 4948	胰岛
+T196	Disease 4982 4986	心肌梗死
+T197	Drug 5040 5049	DPP-4 抑制剂
+T198	Disease 5053 5058;5059 5060	动脉粥样硬 化
+T199	Anatomy 5074 5083	基质金属蛋白酶-1
+T200	Anatomy 5094 5099	细胞外基质
+T201	Anatomy 5103 5106	白细胞
+T202	Anatomy 5123 5132	U937 组织细胞
+T203	Drug 5151 5160	DPP-4 抑制剂
+T204	Anatomy 5207 5216	基质金属蛋白酶-1
+T205	Anatomy 5226 5231	DPP-4
+T206	Anatomy 5264 5268	单核细胞
+T207	Anatomy 5286 5290	内脏脂肪
+T208	Disease 5329 5332	糖尿病
+T209	Duration 5361 5364	4 周
+T210	Disease 5401 5403	肥胖
+T211	Disease 5435 5440	糖耐量受损
+T212	Anatomy 5452 5453;5454 5459	内 脏脂肪组织
+T213	Anatomy 5471 5475	炎症细胞
+T214	Anatomy 5478 5489;5490 5497	CD11b+ F4 / 80+巨噬细胞
+T215	Anatomy 5505 5509	脂肪组织
+T216	Drug 5633 5642	DPP-4 抑制剂
+T217	Anatomy 5679 5692	CD11c+M1 巨噬细胞
+T218	Anatomy 5695 5703	CD8+T 细胞
+T219	Drug 5718 5727	DPP-4 抑制剂
+T220	Anatomy 5743 5745	胰岛
+T221	Anatomy 5746 5747;5748 5751	脂 肪组织
+T222	Drug 5783 5792	DPP-4 抑制剂
+T223	Drug 5808 5817	DPP-4 抑制剂
+T224	Disease 5821 5825	心肌梗死
+T225	Drug 5830 5839	DPP-4 抑制剂
+T226	Disease 5860 5864	心肌梗死
+T227	Anatomy 5875 5880	间质干细胞
+T228	Drug 5882 5891	DPP-4 抑制剂
+T229	Anatomy 5905 5908	左心室
+T230	Anatomy 5918 5922	间质细胞
+T231	Anatomy 5940 5942	血管
+T232	Anatomy 6001 6005	心肌细胞
+T233	Disease 6019 6023	心肌梗死
+T234	Disease 6077 6080	糖尿病
+T235	Drug 6083 6092	DPP-4 抑制剂
+T236	Anatomy 6098 6100;6101 6103	心肌 细胞
+T237	Disease 6117 6121	心肌梗死
+T238	Disease 6134 6136	肥胖
+T239	Drug 6164 6173	DPP-4 抑制剂
+T240	Disease 6247 6250	冠心病
+T241	Anatomy 6252 6254	心肌
+T242	Drug 6255 6256;6257 6261	多 巴酚丁胺
+T243	Drug 6288 6297	DPP-4 抑制剂
+T244	Test 6298 6300	血脂
+T245	Reason 6309 6314	脂代谢紊乱
+T246	Drug 6357 6360;6361 6362	阿格列 汀
+T247	Test 6373 6375	血脂
+T248	Drug 6399 6408	DPP-4 抑制剂
+T249	Drug 6445 6454	DPP-4 抑制剂
+T250	Test 6461 6462;6463 6464	血 脂
+T251	Anatomy 6467 6472	心血管系统
+T252	Duration 6544 6548	12 周
+T253	Test 6564 6570	低密度脂蛋白
+T254	Drug 6581 6590	DPP-4 抑制剂
+T255	Anatomy 6630 6635	DPP-4
+T256	Drug 6651 6660	DPP-4 抑制剂
+T257	Drug 6683 6692	DPP-4 抑制剂
+T258	Anatomy 6698 6703	GLP-1
+T259	Anatomy 6707 6710	心血管
+T260	Anatomy 849 854	GLP-1
+T261	Anatomy 912 917	GLP-1
+T262	Anatomy 998 1003	GLP-1
+T263	Disease 6324 6329	心血管疾病
+T264	Anatomy 5512 5516	IL-6
+T265	Anatomy 5545 5549	IL-6
+T266	Anatomy 3061 3064	Akt
+T267	Drug 5168 5171	脂多糖
+T268	Anatomy 143 151	内源性肠促胰岛素
+T269	Anatomy 308 310	血脂
+T270	Anatomy 1609 1617;1618 1619	内源性的肠促胰岛 素
+T271	Anatomy 1702 1711	葡萄糖依赖性胰岛素
+T272	Anatomy 1719 1723	胰升糖素
+T273	Anatomy 1888 1893	DPP-4
+T274	Anatomy 1910 1915	DPP-4
+T275	Method 1930 1932	口服
+T276	Frequency 2188 2191;2192 2195	每日单 次服药
+T277	Disease 2234 2236	死亡
+T278	Anatomy 2317 2320	心血管
+T279	Anatomy 2330 2333	心血管
+T280	Anatomy 2361 2364	心血管
+T281	Anatomy 2519 2524	DPP-4
+T282	Method 3112 3116	皮下注射
+T283	Duration 3117 3120	4 周
+T284	Anatomy 3457 3459	血管
+T285	Anatomy 3554 3556	胚胎
+T286	Anatomy 3563 3564;3565 3566	血 管
+T287	Anatomy 3578 3582	新生血管
+T288	Anatomy 3585 3587	内皮
+T289	Anatomy 3610 3612	血管
+T290	Anatomy 3759 3765	干 /祖细胞
+T291	Anatomy 3835 3841	SDF-1α
+T292	Anatomy 4004 4007	心血管
+T293	Anatomy 4048 4050	心脏
+T294	Anatomy 4126 4128	心肌
+T295	Anatomy 4133 4134;4135 4138	新 生血管
+T296	Disease 4286 4287;4288 4289	死 亡
+T297	Duration 4305 4308	4 周
+T298	Anatomy 4373 4375	血管
+T299	Anatomy 4606 4608	内皮
+T300	Anatomy 4689 4691	血管
+T301	Anatomy 4572 4574	血管
+T302	Anatomy 4726 4728	血管
+T303	Anatomy 4820 4822	血管
+T304	Anatomy 4838 4840	血管
+T305	Test 4855 4857	血压
+T306	Disease 4987 4989	中风
+T307	Reason 4951 4955	炎症状态
+T308	Reason 4957 4963	免疫调节紊乱
+T309	Anatomy 5295 5303	单核细胞趋化因子
+T310	Anatomy 5461 5463	血管
+T311	Test 5653 5665	纤溶酶原激活物抑制物-1
+T312	Anatomy 5768 5770	血管
+T313	Drug 1585 1586;1587 1592	口 服降糖药物
+T314	Symptom 3172 3173;3174 3175	高 糖
+T315	Drug 3200 3201;3202 3204	降 糖药
+T316	Anatomy 3548 3552	前体细胞
+T317	Reason 4896 4902	慢性低度炎症
+T318	Anatomy 5534 5536	胰岛
+T319	Drug 5891 5895	抑二肽素
+T320	Drug 6056 6061	链脲佐菌素
+T321	Disease 6204 6213	缺血 /再灌注损伤
+T322	Test_Value 6375 6377	升高
+T323	Anatomy 5846 5852	SDF-1α
+T324	Anatomy 5550 5555	IL-12
+T325	Anatomy 5517 5522	TNF-α
+T326	Anatomy 5525 5528;5529 5531	IL- 12
+T327	Anatomy 5558 5563	IP-10
+T328	Anatomy 5924 5930	SDF-1α
+T329	Anatomy 6031 6035	DPP4
+T330	Anatomy 6066 6070	DPP4
+T331	Anatomy 4108 4112	EPCs
+T332	Anatomy 4102 4107	CXCR4
+T333	Drug 5642 5644;5645 5649	脱氟 西格列汀
+T334	Anatomy 5304 5309	MCP-1
+T335	Drug 72 89	二肽基肽酶-4(DPP-4)抑制剂
+T336	Anatomy 231 232;233 237	心 血管系统
+T337	Disease 331 334	糖尿病
+T338	Drug 1555 1572	二肽基肽酶-4(DPP-4)抑制剂
+T339	Disease 2247 2250	糖尿病
+T340	Anatomy 2681 2689	DPP-4 基因
+T341	Anatomy 3071 3075	冠状动脉
+T342	Anatomy 3075 3079	内皮细胞
+T343	Anatomy 3128 3134	血管新生内膜
+T344	Drug 3438 3443	GLP-1
+T345	Anatomy 3695 3702	成熟的内皮细胞
+T346	Anatomy 4021 4029	DPP-4 基因
+T347	Drug 4066 4070;4071 4076	粒细胞集 落刺激因子
+T348	Drug 4078 4083	G-CSF
+T349	Test 4323 4334	SDF-1α 血浆浓度
+T350	Test 4339 4345	EPC 水平
+T351	Reason 4491 4494	高血糖
+T352	Symptom 4498 4504	内皮细胞损伤
+T353	Anatomy 4565 4568	动脉环
+T354	Anatomy 4761 4769	GLP-1 受体
+T355	Drug 4993 4998	DPP-4
+T356	Disease 5404 5409	胰岛素抵抗
+T357	Disease 5429 5434	胰岛素抵抗
+T358	Disease 5793 5797	心肌缺血
+T359	Test 5867 5872	左心室功能
+T360	Test 5945 5950	心脏泵功能
+T361	Symptom 5956 5960	心室重构
+T362	Anatomy 5973 5981	DPP-4 基因
+T363	Disease 6174 6181	心肌再灌注损伤
+T364	Test 6214 6220	心肌梗死面积
+T365	Disease 6271 6275	心肌顿抑
+T366	Test 6603 6608	GLP-1
+T367	Anatomy 5539 5544	MCP-1

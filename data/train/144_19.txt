@@ -1,0 +1,308 @@
+基础研究
+基金项目:全军医学科学技术研究“十二五冶计划(CWSIIJ254)
+林、徐向进、黄梁浒、温代芬)
+利拉鲁肽联合骨髓间充质干细胞介导胃肠
+激素对链脲佐菌素诱导的 1 型糖尿病大鼠
+模型糖代谢的影响
+陈频  邵珠林  徐向进  黄梁浒  温代芬  黄勤
+[摘要]   目的  探讨利拉鲁肽(liraglutide)与骨髓间充质干细胞(bone marrow mesenchymal stem cells,
+BM-MSCs)联合治疗对 1 型糖尿病(T1DM)大鼠模型糖代谢的影响。 方法 以 60 mg / kg 剂量腹腔注射链脲
+佐菌素制备 T1DM 大鼠模型,随后按随机数字表法分为(1) T1DM 组(n = 10)、(2) BM-MSCs 治疗组(n =
+10)、(3)利拉鲁肽治疗组(LIRA,n=10)、(4)利拉鲁肽联合 BM-MSCs 治疗组(LIRA+BM-MSCs,n = 10),给
+予相应干预 8 周。 测定各组大鼠随机血糖、HBA1C、24 h 尿量和 24 h 尿蛋白;采用 ELISA 法检测血清胰岛
+素、C 肽、胰升糖素、胃泌素、胆囊收缩素和胰升糖素样肽 1(GLP-1)等激素水平;免疫组化测定胰腺组织中
+胰岛素和胰升糖素的表达。 结果 8 周后,LIRA+BM-MSCs 组大鼠血糖、HBA1C、24 h 尿量和 24 h 尿蛋白较
+其他 3 组均明显降低(P<0. 05);分别与 T1DM 组和 BM-MSCs 组比较,LIRA+BM-MSCs 组血清胰岛素、C
+肽、胃泌素、胆囊收缩素和 GLP-1 水平均明显升高,胰升糖素水平降低(均 P<0. 05);与 LIRA 组比较,LIRA
++BM-MSCs 组血清胰岛素、C 肽、胃泌素和胆囊收缩素水平均明显升高(P<0. 05),胰升糖素和 GLP-1 水平
+无差异(P>0. 05);相关分析发现,血清胰岛素水平分别与胃泌素( r = 0. 544,P<0. 01)、胆囊收缩素( r =
+0. 710,P<0. 01)和 GLP-1( r = 0. 669,P<0. 01)水平呈正相关,与胰升糖素水平呈负相关( r = -0. 506,P<
+0. 01),胰升糖素与胃泌素( r= -0. 364,P<0. 05)、胆囊收缩素( r= -0. 433,P<0. 01)和 GLP-1( r= -0. 591,P<
+0. 01)呈负相关;免疫组化显示,LIRA+BM-MSCs 组大鼠胰腺组织胰岛素的阳性面积比例较其他 3 组均明
+显升高,胰升糖素比例降低(均 P<0. 05)。结论 利拉鲁肽联合骨髓间充质干细胞可能比两者单独治疗能
+够更好地介导胃肠激素分泌而改善 T1DM 大鼠的糖代谢。
+[关键词]   胰升糖素样肽 1; 糖尿病, 1 型; 骨髓间充质干细胞; 免疫调节; 胃肠道激素
+Effect of liraglutide combined with bone marrow mesenchymal stem cells on glucose metabolism in
+experimental type 1 diabetic rats by regulating gastrointestinal hormones Chen Pin *, Shao Zhulin, Xu
+Xiangjin, Huang Lianghu, Wen Daifen, Huang qin. *Department of Endocrinology, Changhai Hospital Affilicated of
+Second Military Medical University, Shanghai 200433, China
+[Abstract]  Objective  To investigate the effect of liraglutide combined with bone marrow mesenchymal stem
+cells (BM-MSCs) on glucose metabolism in experimental type 1 diabetic(T1DM) rats. Methods T1DM rats were
+established by injecting 60 mg / kg streptozotocin. According to random number table, they were divided into T1DM
+group(n=10), BM-MSCs group(n = 10), LIRA group (n = 10), and LIRA+BM-MSCs group (n = 10), and were
+treated for 8 weeks respectively. Random blood glucose, 24 h urine volume and protein excretion were tested. Serum
+concentrations of insulin, C-peptide, glucagon, gastrin, cholecystokinin, and glucagon-like peptid 1(GLP-1) were
+assayed by ELISA. Expressions of insulin and glucagon in pancreas were measured by immunohistochemistry. Results
+After 8 weeks, the levels of random blood glucose, HBA1C, 24 h urine volume and 24 h urinary protein excretion in
+group 4 were significantly decreased compared to the other three groups(P<0. 05) . Compared to T1DM group and
+BM-MSCs group, the levels of insulin, C-peptide, gastrin, cholecystokinin and GLP-1 in LIRA+BM-MSCs group were
+significantly increased, while glucagon was decreased(P<0. 05) . Compared to group LIRA, the levels of insulin,
+C-peptide, gastrin, and cholecystokinin in LIRA + BM-MSCs group were increased ( P < 0. 05 ), there was no
+significantly difference in glucagon or GLP-1 (P>0. 05) . The analysis revealed that the level of insulin was positively
+correlated with gastrin( r = 0. 544, P<0. 01), cholecystokinin( r = 0. 710, P<0. 01) and GLP-1( r = 0. 669, P<
+0. 01),but was negatively correlated with glucagon( r = -0. 506, P<0. 01); the level of glucagon was negatively
+correlated with gastrin ( r=-0. 364, P<0. 05), cholecystokinin( r=-0. 433, P<0. 01)and GLP-1( r = -0. 591, P<
+0. 01) . Compared to the other three groups respectively, immunohistochemistry displayed that the positive area of
+insulin in pancreas was significantly increased in LIRA+BM-MSCs group, while that of glucagon was decreased(P<
+0. 05) . Conclusions By means of regulating gastrointestinal hormones efficiently, combination of liraglutide with
+BM-MSCs may improve glucose metabolism more efficaciously than treatment with a single agent in T1DM rats.
+[Key words]   Glucagon-like peptide-1; Diabetes mellitus, type 1; Bone marrow mesenchymal stem cells;
+Immunomodulatory; Gastrointestinal hormones
+(Chin J Endocrinol Metab, 2015, 31: 277-281)
+1 型糖尿病(T1DM)患者数量不断增多,且有低龄
+化发病的流行趋势[1,2],胰岛素单药治疗通常不能很
+有效、平稳地控制血糖。 骨髓间充质干细胞 ( BM-
+MSCs)分泌多种炎症与细胞免疫调节因子,在一定程
+度上诱发机体的自身免疫耐受,对受损的胰岛细胞进
+行修复[3,4];胰升糖素样肽 1(GLP-1)具有葡萄糖依赖
+性的胰岛素分泌和抑制胰升糖素升高的双重效应、并
+可以促进胰岛 β 细胞增殖、分化。 本研究探讨 T1DM
+大鼠给予利拉鲁肽与 BM-MSCs 联合干预,是否可以更
+好地调节胃肠激素分泌和改善胰岛细胞功能以达到较
+好的控糖效果。
+材料和方法
+一、 实验动物
+清洁级 SD 大鼠 40 只,雄性,180 ~ 220 g,购自上
+海斯莱克实验动物有限责任公司,许可证号:SCXK
+(沪)2007-0005,饲养于南京军区福州总医院比较医学
+科动物实验中心,恒温 18℃ ~ 23℃,相对湿度 55% ~
+66% ,光线明暗各 12 h,自由进食进水,适应性饲养
+7 d。
+二、 试剂和仪器
+利拉鲁肽(诺和诺德公司,丹麦);低糖培养基、胎
+牛血清(Gibco 公司,美国);大鼠淋巴细胞分离液(天
+津 TBD 公司);链脲佐菌素(Sigma 公司,美国);兔抗
+胰岛素多克隆抗体(Cell Signaling 公司,美国);小鼠抗
+胰升糖素单克隆抗体(Abcam 公司,英国);山羊抗兔
+复合物、山羊抗小鼠复合物(北京中杉金桥生物技术
+有限公司);大鼠胰岛素检测试剂盒、大鼠 C 肽检测试
+剂盒、大鼠胰升糖素检测试剂盒、大鼠胃泌素检测试剂
+盒、大鼠胆囊收缩素检测试剂盒、大鼠 GLP-1 检测试
+剂盒(武汉基因美生物科技有限公司);血糖仪、血糖
+试纸(拜耳公司,德国)。
+三、 方法
+1. BM-MSCs 的体外分离、培养与鉴定:选用大鼠
+淋巴细胞分离液,通过密度梯度离心法分离正常、雄性
+SD 大鼠的骨髓单个核细胞,然后根据不同细胞贴壁生
+长的差异性,通过定期换液方式对其进一步纯化;选择
+生长状态良好的 P3代细胞,通过流式细胞仪检测间充
+质干细胞表面标志 CD29、CD90、CD73 和 CD105,造血
+干细胞表面标志 CD34 以及白细胞表面标志 CD45,并
+在特定培养基下观察其向成骨(茜素红染色)以及成
+脂(油红 O 染色)方向分化的能力。
+2. 动物建模与分组:以 60 mg / kg 体重剂量腹腔注
+射链脲佐菌素制备 T1DM 大鼠模型,成模后随机分为
+(1)T1DM 组(n= 10):不含肾包膜下移植细胞的培养
+液 100 滋l, 皮下注射生理盐水 2 ml, 2 次 / d; ( 2 )
+BM-MSCs 治疗组(n = 10):含肾包膜下移植细胞数目
+为 5×106 的细胞液 100 滋l,皮下注射生理盐水 2 ml,
+2 次 / d;(3)利拉鲁肽治疗组(LIRA,n = 10):不含肾包
+膜下移植细胞的培养液 100 滋l,皮下注射利拉鲁肽
+200 μg / kg[5],2 次 / d;(4)利拉鲁肽联合 BM-MSCs 治
+疗组(LIRA+BM-MSCs,n = 10):含肾包膜下移植细胞
+数目为 5×106的细胞液 100 滋l,皮下注射利拉鲁肽 200
+μg / kg,2 次 / d。 以上各组大鼠均连续治疗 8 周,治疗
+前各组大鼠基线 HBA1C和随机血糖无统计学差异,具
+有可比性。
+3. 血糖及相关指标的检测:移植术后第 2 天开
+始,每天 16 : 00 点测定各组大鼠血糖;于处死大鼠前
+1 天,将其置于清洁代谢笼,收集 24 h 尿液,记录尿量,
+离心,-70℃保存,待测 24 h 尿蛋白(考马斯亮蓝法);8
+周末,采集空腹血测定 HBA1C(亲和层析高效液相法),
+以及胰岛素、C 肽、胰升糖素、胃泌素、胆囊收缩素和
+GLP-1 水平(ELISA 法)。
+4. 胰腺免疫组化:8 周末,分离大鼠胰腺组织,
+10%福尔马林固定,石蜡包埋切片,常规 HE 染色观察
+胰岛细胞形态;采用 DAB 染色法检测胰岛素和胰升糖
+素的表达,随机选取胰腺切片中的胰岛细胞,利用软件
+image pro plus 6. 0 分别测算组织切片中胰岛素和胰升
+糖素阳性占单个胰岛细胞团面积比例,评价各组胰腺
+组织中胰岛素和胰升糖素的表达差异。
+四、 统计学处理
+采用 SPSS 20. 0 软件进行统计学分析。 计量资料
+用 x-± s 表示,资料组间差异比较采用单因素方差分析;
+双变量相关分析中,数据呈正态分布,采用 Pearson 进
+行相关分析, 如果双变量不符合正态分布, 采用
+Kendall忆tau-b 相关性分析。 P<0. 05 为差异有统计学
+意义。
+结    果
+一、 BM-MSCs 的分离与鉴定
+从 P2代开始,分离后细胞形态均一、呈长梭形,漩
+涡或鱼群样生长,且增殖速度稳定;流式细胞仪显示,
+分离后细胞可以表达间充质干细胞的表面标志 CD29、
+CD90、CD73 和 CD105,而不表达造血干细胞的表面标
+志 CD34 以及白细胞的表面标志 CD45,与其他文献报
+道一致[6];此外,成骨和成脂诱导分化能力检测均为
+阳性。
+二、血糖谱及相关指标的检测
+治疗前大鼠血糖为(27. 11 ± 1. 29)mmol / L,各组
+间比较具有可比性;2 周末,BM-MSCs 组、LIRA 组和
+LIRA+BM-MSCs 组大鼠血糖均开始下降,4 周末,血糖
+水平进一步降低,6 周末,BM-MSCs 组和 LIRA 组大鼠
+血糖水平降至最低,LIRA+BM-MSCs 组则进一步下降;
+8 周末,与 T1DM 组比较,其他 3 组大鼠血糖水平均明
+显降低(均 P<0. 05);分别比较同期(2 周末、4 周末、6
+周末、8 周末)各组大鼠血糖水平,其中以 LIRA+BM-
+MSCs 组最低(P<0. 05),BM-MSCs 组与 LIRA 组的大
+鼠血糖水平无明显差异(P>0. 05,图 1)。
+8 周末,与 T1DM 组比较,BM-MSCs 组、LIRA 组和
+LIRA+BM-MSCs 组大鼠 HBA1C、24 h 尿量和尿蛋白量
+均明显降低,其中以 LIRA + BM-MSCs 组最低 ( P <
+0. 05),BM-MSCs 组与 LIRA 组比较,上述指标差异均
+无统计学意义(P>0. 05,表 1)。
+三、 血清激素水平的测定
+与 T1DM 组比较,BM-MSCs 组、LIRA 组和 LIRA+
+BM-MSCs 组大鼠血清胰岛素、C 肽、胃泌素和胆囊收
+缩素水平均明显升高(均 P<0. 05),LIRA 组和 LIRA+
+BM-MSCs 组 GLP-1 水平明显升高(P<0. 05),胰升糖
+素水平明显降低(P<0. 05),BM-MSCs 组 GLP-1 和胰
+升糖素的水平无明显差异(P>0. 05); 与 BM-MSCs 组
+注:T1DM:1 型糖尿病;BM-MSCs:骨髓间充质干细胞 Bone marrow
+mesenchymal stem cells;LIRA:利拉鲁肽 Liraglulide;LIRA+BM-MSCs:利
+拉鲁肽联合骨髓间充质干细胞治疗 Bone marrow mesenchymal stem cells+
+Liraglulide
+图 1  各组大鼠动态血糖变化曲线图
+Fig 1  Dynamic blood glucose curve of rats in all groups
+比较,LIRA 组大鼠 GLP-1 水平升高(P<0. 05),胰升糖
+素水平降低(P<0. 05),胰岛素、C 肽、胃泌素和胆囊收
+缩素水平无明显差异(P>0. 05),LIRA+BM-MSCs 组胰
+岛素、C 肽、胃泌素、胆囊收缩素和 GLP-1 水平均明显
+升高(均 P<0. 05),胰升糖素的水平降低(P<0. 05);
+与 LIRA 组比较,LIRA+BM-MSCs 组大鼠血清胰岛素、
+C 肽、胃泌素和胆囊收缩素水平均明显升高(均 P<
+0. 05),GLP-1 和胰升糖素的水平无明显差异 ( P >
+0. 05,表 2)。
+采用 Pearson 法进行双变量相关分析,血清胰岛
+素的水平与胃泌素( r = 0. 544,P<0. 01)、胆囊收缩素
+( r=0. 710,P<0. 01)和 GLP-1( r=0. 669,P<0. 01)水平
+呈正相关,与胰升糖素的水平呈负相关( r = -0. 506,
+P<0. 01);血清胰升糖素的水平与胃泌素( r = -0. 364,
+P<0. 05)、胆囊收缩素( r = -0. 433,P<0. 01)和 GLP-1
+( r= -0. 591,P<0. 01)水平呈负相关。
+四、 胰腺免疫组化
+T1DM 组大鼠胰腺胰岛结构萎缩,形态紊乱, 在胰
+表 1  8 周末各组大鼠 HBA1C、24 h 尿量和尿蛋白比较(x-± s)
+Tab 1  Comparison of HBA1C, 24 h urine volume, and urinary protein in all groups after 8 weeks(x-± s)
+组别
+Group
+鼠数
+n
+HBA1C
+(% )
+24 h 尿量
+24 h urine volume
+(ml)
+24 h 尿蛋白
+24 h urinary protein
+(mg)
+T1DM 10 12. 49 ± 0. 89 34. 7 ± 4. 88 38. 10 ± 7. 16
+BM-MSCs 10 8. 26 ± 0. 61a 16. 7 ± 4. 30a 21. 82 ± 4. 85a
+LIRA 10 8. 31 ± 0. 56a 15. 8 ± 3. 29a 20. 59 ± 4. 72a
+LIRA+BM-MSCs 10 7. 30 ± 0. 51abc 12. 0 ± 2. 54abc 10. 84 ± 3. 43abc
+注:略语同图 1 The abbreviations are the same as Fig 1;与 T1DM 组比较 vs T1DM group,aP<0. 05;与 BM-MSCs 组比较 vs BM-MSCs group,bP<0. 05;与
+LIRA 组比较 vs LIRA group,cP<0. 05
+表 2  8 周末各组大鼠血清激素水平比较(x-± s)
+Tab 2  Comparison of serum hormone levels in all groups after 8 weeks(x-± s)
+组别
+Group
+鼠数
+n
+胰岛素
+Insulin
+(mU / L)
+C 肽
+C- peptide
+(ng / L)
+胰升糖素
+Glucagon
+(ng / L)
+胃泌素
+Gastrin
+(ng / L)
+胆囊收缩素
+Cholecystokinin
+(ng / L)
+胰升糖素样肽 1
+Glucagon-like peptide 1
+(pmol / L)
+T1DM 10 6. 44 ± 1. 27 116. 18 ± 10. 13 30. 17 ± 2. 47 20. 19 ± 2. 31 96. 31 ± 9. 51 2. 16 ± 0. 20
+BM-MSCs 10 8. 84 ± 1. 44a 134. 48 ± 13. 86a 29. 81 ± 2. 92 23. 54 ± 1. 32a 107. 48 ± 7. 04a 2. 30 ± 0. 16
+LIRA 10 9. 30 ± 1. 30a 140. 02 ± 14. 22a 26. 63 ± 1. 57ab 21. 97 ± 1. 81a 111. 54 ± 5. 29a 2. 66 ± 0. 21ab
+LIRA+BM-MSCs 10 12. 97 ± 1. 91abc 158. 25 ± 12. 14abc 24. 62 ± 2. 14ab 25. 21 ± 1. 62abc 124. 17 ± 7. 45abc 2. 69 ± 0. 33ab
+注:略语同图 1 The abbreviations are the same as Fig 1;与 T1DM 组比较 vs T1DM group,aP<0. 05;与 BM-MSCs 组比较 vs BM-MSCs group,bP<0. 05;与
+LIRA 组比较 vs LIRA group,cP<0. 05
+注:略语同图 1 The abbreviations are the same as Fig 1;A ~ D:HE 染色 HE staining;E ~ H:胰岛素抗体免疫组织化学染色 Immunohistochemical staining
+with insulin antibody;I ~ L:胰升糖素抗体免疫组织化学染色 Immunohistochemical staining with glucagon antibody
+图 2  8 周末各组大鼠胰腺组织中胰岛素和胰升糖素的表达和分布(200×)
+Fig 2  Expressions and distributions of insulin and glucagon in all groups of rats after 8 weeks(200×)
+表 3  8 周末各组大鼠胰腺组织胰岛素和胰升糖素阳性占胰岛细胞面积百分比比较(x-± s)
+Tab 3  Comparison of positive area rate of insulin and glucagon in pancreas in all groups after 8 weeks(x-± s)
+组别
+Group
+鼠数
+n
+胰岛素阳性面积百分比
+Positive area rate of insulin
+(% )
+胰升糖素阳性面积百分比
+Positive area rate of glucagon
+(% )
+T1DM 10 5. 83 ± 1. 65 21. 34 ± 3. 29
+BM-MSCs 10 20. 51 ± 2. 78a 20. 04 ± 2. 80
+LIRA 10 21. 42 ± 2. 91a 12. 18 ± 2. 60ab
+LIRA+BM-MSCs 10 34. 87 ± 4. 42abc 7. 69 ± 2. 01abc
+注:略语同图 1 The abbreviations are the same as Fig 1;与 T1DM 组比较 vs T1DM group,aP<0. 05;与 BM-MSCs 组比较 vs BM-MSCs group,bP<0. 05;与
+LIRA 组比较 vs LIRA group,cP<0. 05
+岛细胞周围可见明显的淋巴细胞浸润,经过干预后
+BM-MSCs 组、LIRA 组和 LIRA+BM-MSCs 组大鼠胰腺
+胰岛细胞形态逐渐趋于完整,细胞排列较紧密,胞浆丰
+富,淋巴细胞浸润程度显著减轻;分别与 T1DM 组、
+BM-MSCs 组和 LIRA 组比较,LIRA+BM-MSCs 组大鼠
+胰腺胰岛素阳性面积比例明显升高(均 P<0. 01),胰
+升糖素阳性面积比例明显降低(均 P<0. 01,图 2,表
+3)。
+讨    论
+T1DM 在多因素作用下,机体产生胰岛自身抗体、
+T 淋巴细胞浸润,胰岛细胞发生凋亡,进而导致胰岛素
+绝对缺乏的自身免疫性疾病。 既往研究发现 BM-
+MSCs 可能介导免疫调节很大程度改善 T1DM 的高血
+糖状态,但这种作用缺乏持久性,并且未得到外源性干
+细胞在体内分化为胰岛细胞的直接证据,被认为与体
+内长期高糖抑制了 BM-MSCs 增殖、分化并促进凋亡等
+相关[7,8]。 利拉鲁肽是 GLP-1 的一种长效类似物,具
+有促进胰岛细胞增殖,抑制凋亡等多种作用。 Merani
+等[9]对链脲佐菌素诱导的 T1DM 小鼠行胰岛细胞移
+植,同时注射利拉鲁肽,发现不仅能够明显缩短小鼠血
+糖恢复正常的时间,而且可以大幅度降低胰岛细胞的
+早期凋亡率。 本课题组前期研究发现,利拉鲁肽可以
+通过上调胰十二指肠同源盒 1、葡萄糖转运蛋白 2、葡
+萄糖激酶等多种基因的表达进而促使 BM-MSCs 分化
+成为有功能的胰岛素分泌细胞[10]。 因此我们推测,利
+拉鲁肽与 BM-MSCs 联合应用,一方面对移植后 BM-
+MSCs 的早期凋亡产生一定的保护效应,另一方面,由
+于利拉鲁肽可以促进 BM-MSCs 定向分化,从而进一步
+起到修复和补充胰岛细胞功能的目的。 胆囊收缩素和
+胃泌素是两种经典的促胰岛素分泌的胃肠激素,在正
+常机体内对胰岛素的分泌起着重要作用。 此外,胆囊
+收缩素能够有效减轻组织细胞的炎症反应,因此对损
+伤状态下的胰岛细胞具有潜在的保护作用,而胃泌素
+还可以通过与特定受体结合进而诱发新生胰腺导管上
+皮细胞分化成为胰岛 β 细胞,并最终使其聚集成胰
+岛[11]。 本研究结果显示利拉鲁肽与 BM-MSCs 联合治
+疗后血清胃泌素和胆囊收缩素的水平较两者单独治疗
+组均明显升高,证实了上述推测。
+尽早诱导糖尿病机体的自身免疫耐受并抑制胰岛
+α 细胞功能,也是早期防治糖尿病的关键[12,13]。 损伤
+状态下的胰岛 β 细胞通过分泌基质细胞衍生因子 1
+(SDF-1),诱导成熟胰岛 α 细胞去分化为胰岛 α 前体
+细胞,胰岛 α 前体细胞又可通过分泌额外的 GLP-1,与
+SDF-1 共同发挥促进胰岛 β 细胞增殖和再生的作
+用[14,15]。 然而,机体本身的这一代偿机制有限,尚不
+能够完全阻止糖尿病的发生及进展。 本研究观察到,
+利拉鲁肽具有抑制 T1DM 大鼠相对亢进的胰岛 α 细
+胞功能,并与 BM-MSCs 更好地对受损的胰岛 β 细胞功
+能进行修复,实现胰岛细胞功能进行双向调控的作用。
+总之,利拉鲁肽与 BM-MSCs 联合治疗可以一定程
+度提高 T1DM 大鼠的多种胃肠道激素水平,并对受损
+的胰岛 β 以及 α 细胞功能进行双向修复,这将为深入
+进行 T1DM 防治研究提供借鉴。

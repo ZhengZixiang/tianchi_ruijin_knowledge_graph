@@ -1,0 +1,209 @@
+基础研究
+基金项目:天津市应用基础及前沿技术研究计划项目(天津市自
+然科学基金重点项目 10JCZDJC19800 ); 天津市卫生局科技基金
+(09KZ87);天津医科大学科学基金(2008KY17)
+市激素与发育重点实验室
+高糖和缺氧对血管内皮细胞 Amot 表达的影响
+及其促血管新生功能研究
+褚月颉  王鹏华  李代清  于德民
+[摘要]   目的  观察高糖和缺氧对血管内皮细胞(VECs)Amot 表达的影响,并探讨该蛋白在血管新
+生中的作用。 方法 VECs 以不同浓度葡萄糖培养 48 h 后,再分别在正常氧或缺氧条件下培养 24 h,以
+Western 印迹法测定 p130-Amot 和 p80-Amot 的蛋白表达。 用 siRNA 下调 Amot 的蛋白表达,采用划痕实验
+及血管生成实验评价该蛋白表达下降对血管新生功能的影响。 结果 p130-Amot 在正糖(5. 5 mmol / L)常
+氧组和正糖缺氧组明显高于高糖(30 mmol / L)常氧组、高糖缺氧组、中糖(15 mmol / L)常氧组和中糖缺氧组
+(均 P<0. 01),而正糖常氧组比正糖缺氧组更高(P<0. 01)。 p80-Amot 在各组间的表达差异无统计学意义
+(P>0. 05)。 用 siRNA 技术下调 Amot 蛋白表达后,VECs 迁移能力和血管生成能力较正常细胞明显减弱。
+结论 高糖比缺氧更显著降低 VECs Amot 蛋白的表达,该蛋白表达的下降明显抑制 VECs 新生血管的形
+成。
+[关键词]   Amot; 血管内皮细胞; 高糖; 缺氧; 血管新生
+Effect of high glucose and anoxia on Amot expression in vascular endothelial cells with regard to its function in
+promoting angiogenesis Chu Yuejie, Wang Penghua, Li Daiqing, Yu Demin. Department of Diabetic Foot,
+Metabolic Disease Hospital, Affiliated to Tianjin Medical University, Tianjin 300070, China
+[Abstract]  Objective   To observe the effects of high glucose and anoxia on Amot expression in vascular
+endothelial cells ( VECs), and explore its role in angiogenesis. Methods VECs were incubated with different
+glucose concentrations for 48 h, and then cultured at normal oxygen concentration or anaerobic condition for 24 h. The
+protein expressions of p130-Amot and p80-Amot were detected by Western blot. After Amot expression was
+downregulated in VECs by siRNA, wound healing experiments and angiogenesis experiments were performed to test the
+effect of decreased Amot expression on angiogenesis. Results p130-Amot protein expressions in low glucose (5. 5
+mmol / L) plus normal oxygen group and low glucose plus anaerobic group were higher than those in high glucose (30
+mmol / L) plus normal oxygen group, high glucose plus anaerobic group, middle glucose (15 mmol / L) plus normal
+oxygen group, and middle glucose plus anaerobic group ( all P<0. 01) . Compared with low glucose plus anaerobic
+group, p130-Amot expression was higher in low glucose plus normal oxygen group ( P < 0. 01 ) . However, the
+expression of p80-Amot showed no statistically significant difference among different groups(P>0. 05) . Compared to
+the normal VECs, the cells with decreased Amot expression by siRNA exhibited an attenuated cell migration in the
+wound healing experiments and a lesser tube formation in the angiogenesis experiments. Conclusions High glucose
+exerts a more significantly negtive effect on the Amot expression than anoxia in VECs. The downregulation of Amot
+expression inhibits migration and angiogenesis of VECs.
+[Key words]  Amot; Vascular endothelial cells; High glucose; Anoxia; Angiogenesis
+(Chin J Endocrinol Metab, 2014, 30: 428-431)
+Amot 是 2001 年发现的一种新的蛋白,在血管新
+生过程中,能够促进细胞迁移,调节细胞-细胞间接触,
+稳定新生血管结构[1]。 该蛋白主要定位于内皮细胞
+膜,有 2 个异构体:p-80 Amot 和 p-130 Amot,在血管生
+成不同阶段分别发挥不同的作用[2]。 体外实验表明,
+p-80 Amot 可以增强细胞的迁移并稳定管状结构,而
+p-130Amot 则与肌动蛋白相关并影响细胞的塑形[3]。
+作为一种调节血管新生的蛋白,Amot 通过调节内皮细
+胞迁移和管状结构形成,在伤口愈合的过程中可能发
+挥了重要作用[4]。
+糖尿病足溃疡是糖尿病严重的并发症之一,常导
+致患者截肢、致残、致死[5]。 而长期高血糖及患肢缺
+血会导致某些促血管生成蛋白的缺陷,是糖尿病足发
+生及迁延不愈的病理基础之一。 Amot 作为一种调节
+血管生成的蛋白,其表达的失调可能与糖尿病足溃疡
+伤口愈合不良密切相关。 为了探讨该蛋白在糖尿病足
+高糖和缺血缺氧环境下的变化,本研究观察了高糖和
+缺氧对血管内皮细胞(VECs)Amot 蛋白表达的影响,
+并采用小 RNA 干扰技术[6,7] 下调了 VECs Amot 蛋白
+的表达,对这种 Amot 表达缺陷的 VECs 进行了细胞迁
+移及血管生成功能实验,从而评价 Amot 蛋白在糖尿
+病缺血性溃疡愈合的病理过程中可能发挥的作用。
+材料和方法
+一、 细胞培养及分组
+VECs 用含 10%胎牛血清的 DMEM 完全培养基,
+置于 37℃,5% CO2 恒温恒湿培养箱中培养。 将生长
+良好的 VECs 以 1. 0×105 / ml 接种于 6 孔培养板,待细
+胞形成单层接近融合后,换以细胞维持液培养 24 h,然
+后分别加入到 5. 5、15 和 30 mmol / L 葡萄糖的培养基
+中,培养 48 h,每组设 12 个复孔。 将上述不同葡萄糖
+浓度培养的细胞再分为缺氧组及常氧组,将缺氧组的
+3 个 6 孔培养板放入自制的有孔密闭容器中,置于
+37℃培养箱内,并向密闭容器中持续充以 95% 氮气
++5% CO2混合气培养 24 h。 常氧组的 3 个 6 孔培养板
+置于 37℃,CO2培养箱内培养 24 h。
+上述 VECs 按不同的处理条件分为 6 组,即 A 组
+为高糖常氧组(30 mmol / L 葡萄糖),B 组为中糖常氧
+组(15 mmol / L 葡萄糖), C 组为正糖常氧组 (5. 5
+mmol / L 葡萄糖),D 组高糖缺氧组,E 组为中糖缺氧
+组,F 组为正糖缺氧组,每组 6 个复孔。
+二、 方法
+1. Western 印迹法测定各组 VECs 中 Amot 蛋白的
+表达:分别提取各组 VECs 总蛋白,取等量蛋白(50
+μg)上样进行 SDS-PAGE 电泳,转膜,封闭,一抗(Amot
+工作浓度 1 : 100,GAPDH 工作浓度 1 : 5 000)4℃过
+夜,二抗室温孵育 2 h,洗膜,显影。 X 光片经图像扫描
+仪进行灰度扫描,以 Amot 与 GAPDH 的灰度比值表示
+Amot 蛋白表达的相对值。
+2. Western 印迹法鉴定 Amot siRNA 转染的基因静
+默效果:在 1 个 24 孔细胞培养板中,每孔以 2×105密
+度接种细胞,加 0. 5 ml 不含抗生素,含胎牛血清的 5. 5
+mmol / L 葡萄糖的完全培养基。 将细胞置于 37℃的常
+氧 CO2 培养箱中孵育,直至细胞生长融合 60% ~
+80% 。 用 Amot siRNA 双链(Santa Cruz 生物技术有限
+公司)转染 VECs。 首先,将 siRNA 双链溶液加入到稀
+释的转染试剂中,室温下孵育 30 min。 用 D-hanks 液
+洗涤后加入 siRNA 转染介质,在 37℃的 CO2孵育箱中
+孵育细胞 6 h。 然后,加入正常生长介质,将细胞再孵
+育 18 ~ 24 h。 弃介质并用新鲜的完全培养基培养。
+24 ~ 72 h 后提取细胞蛋白,用 Western 印迹法鉴定
+Amot 基因静默效果,方法同前。
+3. 创伤愈合实验(划痕实验):将上述 Amot siRNA
+双链转染的 VECs 接种到 24 孔培养板中,分别以对照
+siRNA 及未转染的正常 VECs 做对照,培养 24 h,使细
+胞达到 90%的覆盖率。 用 200 滋l 的枪头在 24 孔培养
+板的细胞孔正中划线,加上新鲜培养基,显微镜下拍
+照。 继续培养 24 h,再次拍照,观察细胞迁移情况。
+4. 血管生成实验:以 5 × 104 / ml 的密度将上述
+Amot siRNA 双链转染的 VECs 接种到 ECM 胶上,分别
+以对照 siRNA 及未转染的正常 VECs 做对照。 24 h 后
+显微镜下观察细胞聚集情况并拍照。
+三、 统计学处理
+采用 SPSS 13. 0 进行统计分析,正态计量资料以
+x-± s 表示。 多组之间的显著性检验采用单因素方差分
+析,各组之间的两两比较采用 LSD 检验。 P<0. 05 为
+差异有统计学意义。
+结    果
+一、 高糖和缺氧培养对 VECs Amot 蛋白表达的影
+响
+结果如图1 所示,p130-Amot 在 C 组和 F 组表达量
+注:A:高糖常氧组30 mmol / L glucose+normal oxygen group;B:中糖常
+氧组 15 mmol / L glucose+normal oxygen group;C:正糖常氧组 5. 5 mmol / L
+glucose+normal oxygen group;D:高糖缺氧组 30 mmol / L glucose+anaerobic
+group;E:中糖缺氧组 15 mmol / L glucose+anaerobic group;F:正糖缺氧组
+5. 5 mmol / L glucose+anaerobic group;与 C 组比较 vs C group,aP<0. 01;与
+F 组比较比较 vs F group,bP<0. 01
+图 1  高糖和缺氧培养对血管内皮细胞 Amot 蛋白表达的影响
+Fig 1   Effect of high-glucose and anaerobic condition on amot protein
+expression in vascular endothelial cells
+较高,与其他 4 组比较差异有统计学意义(P<0. 01)。
+而 C 组与 F 组比较,C 组表达量更高,差异有统计学意
+义(P<0. 01)。 在高葡萄糖浓度时,缺氧培养的 VECs
+(D 组和 E 组) p130-Amot 的表达量较常氧培养(A 组
+和 B 组)也有减少的趋势,但差异无统计学意义。 p80-
+Amot 在各组间的表达差异无统计学意义(P>0. 05)。
+二、 Amot siRNA 转染的基因静默效果
+经 Amot siRNA 转染的 VECs,用 Western 印迹法鉴
+定 Amot 基因静默效果。 如图 2 所示,Amot siRNA 转
+染的 VECs p-130Amot 蛋白表达下调 93% ,p-80Amot
+蛋白表达下调 86% (图 2)。
+三、 创伤愈合实验(划痕实验)
+各组细胞迁移情况如图 3 所示,24 h 后正常 VECs
+迁移较快,基本覆盖了划痕区,对照 siRNA 转染的细
+胞次之, 而 Amot siRNA 转染的 VECs 则只有部分划痕
+区被细胞覆盖,较之对照组迁移明显减慢。
+注: NC:正常对照组 Normal control group; CON:对照 siRNA 组
+Control siRNA group; AS: Amot siRNA 组 Amot siRNA group
+图 2  Western 印迹法鉴定 Amot 基因沉默效果
+Fig 2  The effect of Amot gene silent was detected by Western blot
+注:组别同图 2 The groups are the same as Fig 2
+图 3  Amot 蛋白表达下调抑制血管内皮细胞迁移
+Fig 3   Downregulation of Amot protein expression inhibits the migration of
+vascular endothelial cells
+四、 血管生成实验
+各组细胞血管生成情况如图 4 所示,Amot siRNA
+转染的 VECs 几乎没有细胞向 ECM 胶内生长,而未转
+染的正常 VECs 向 ECM 胶内生长,并聚集成类似血管
+的封闭管状。 对照 siRNA 转染的细胞介于两者之间,
+有少量细胞向 ECM 胶内生长,但细胞大多聚集成团,
+无明显的血管样结构生成。
+讨    论
+正常的创伤修复过程是一个由许多组织、细胞、细
+胞外基质、细胞因子等参与的高度有序的生物学过程。
+而糖尿病足溃疡的特点是创面长期处于高糖和缺血缺
+注:组别同图 2 The groups are the same as Fig 2
+图 4  Amot 蛋白表达下调抑制血管内皮细胞血管生成
+Fig 4  Downregulation of Amot protein expression inhibits the tube formation of vascular endothelial cells
+氧的环境中,在这种情况下,某些促进伤口愈合的关键
+蛋白因子会发生不同程度的改变,造成溃疡难以愈合。
+为了评价 Amot 蛋白在糖尿病缺血性溃疡愈合过程中
+可能发挥的作用,本研究在细胞水平模拟了糖尿病足
+溃疡所处的高糖和缺血环境,将 VECs 分别置于不同
+浓度葡萄糖及缺氧条件下进行培养,分别测定 p130-
+Amot 及 p80-Amot 表达的变化。 结果显示,p130-Amot
+蛋白在正葡萄糖浓度的 2 组细胞中表达量最高,与其
+他 4 组以中、高浓度葡萄糖培养的细胞相比差异有统
+计学意义,表明高糖可以使 VECs p130-Amot 蛋白的表
+达显著减少。 进一步比较发现,同样是正常浓度的葡
+萄糖,常氧培养比缺氧培养的细胞 p130-Amot 蛋白表
+达量更高,差异有统计学意义。 而在中、高浓度葡萄糖
+培养的 4 组细胞中,这种差别并没有显现出来,表明缺
+氧也能够降低 p130-Amot 蛋白的表达,但其影响不如
+高糖对 p130-Amot 蛋白表达的影响。 p80-Amot 在各
+组间的表达未显现出明显的差别。 Ernkvist 等[2] 也发
+现,在血管生成的不同阶段 Amot 两个异构体表达情
+况是不尽相同的,p80-Amot 主要在细胞迁移阶段表
+达,而 p130-Amot 则主要在管状结构稳定和成熟阶段
+表达。 在本研究中,提取 VECs 蛋白的时间是在细胞
+生长达到覆盖培养皿 80% ~ 90% 的时期。 此时,细胞
+的增殖已基本达到了饱和,细胞迁移活动减弱,而细胞
+极化、细胞与细胞间的相互接触形成初步的血管结构
+是细胞的主要活动方式。 此阶段,在血管形成过程中
+对细胞间接触和细胞塑形起主要作用的 p130-Amot 便
+显现出表达的优势来。 因此,各组间 Amot 蛋白表达
+的差异也主要体现在 p130-Amot 上。
+为了进一步观察 Amot 蛋白表达的降低是否对细
+胞的功能产生影响,本研究采用小 RNA 干扰技术,下
+调了 VECs Amot 蛋白的表达,并通过创伤愈合实验
+(划痕实验) 和血管生成实验对 Amot 表达下调的
+VECs 进行了细胞功能评价。 结果显示,Amot siRNA
+转染的 VECs 只有部分划痕区被细胞覆盖,较正常对
+照组细胞迁移明显减慢。 将 VECs 种植到 ECM 胶上,
+24 h 后观察血管生成情况显示,Amot siRNA 转染的
+VECs 几乎没有细胞向 ECM 胶内生长,这就表明 Amot
+蛋白表达下调可以抑制 VECs 的迁移及血管生成。
+以上结果提示 VECs Amot 的表达在糖尿病足这种
+高糖和缺血的条件下是被显著抑制的,而 Amot 表达
+的下降又抑制了 VECs 促血管生成的功能。 因此,推
+断 Amot 蛋白表达及功能失调可能是糖尿病足缺血性
+溃疡难以愈合的原因之一。 在未来的研究中,可以将
+其作为糖尿病难愈性溃疡治疗的一个新的靶点。

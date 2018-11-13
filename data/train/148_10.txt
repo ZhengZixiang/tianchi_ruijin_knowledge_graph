@@ -1,0 +1,191 @@
+临床研究
+视黄醇结合蛋白 4、胱抑素 C 与 2 型糖尿病胫前色素沉着斑
+的相关性分析
+缪从庆  孟信龙  陆德川  杜鹏  陈英姿  樊爱娟
+[提要]   选择 165 例 2 型糖尿病患者,其中合并胫前色素沉着斑(PPP)者 80 例(PPP 组),无 PPP 者
+85 例(NPPP 组),以及 50 名糖调节正常者为对照组(NGR 组)。 记录并比较各组患者的性别、年龄、糖尿病
+病程、体重指数(BMI)、收缩压、舒张压、空腹血糖(FBG)、餐后 2 h 血糖(2hPG)、甘油三酯(TG)、总胆固醇、
+高密度脂蛋白胆固醇、低密度脂蛋白胆固醇、HBA1C、视黄醇结合蛋白 4(RBP4)、胱抑素 C 等。 结果显示,
+NPPP 组 BMI、FBG、2hPG、TG、胱抑素 C 高于 NGR 组(P<0. 01)。 PPP 组患者 BMI、收缩压、FBG、2hPG、TG、
+胱抑素 C、RBP4 高于 NGR 组(P<0. 05 或 P<0. 01)。 PPP 组患者糖尿病病程、FBG、2hPG、HBA1C、胱抑素 C、
+RBP4 明显高于 NPPP 组(P<0. 01)。 Pearson 相关分析显示血清 RBP4 与胱抑素 C 呈线性正相关( r= 0. 77,
+P<0. 01)。 受试者工作特征曲线显示 RBP4 及胱抑素 C 曲线下面积分别为 0. 81、0. 78(P<0. 01)。 二元
+logistic 回归分析结果显示,糖尿病病程、HBA1C、RBP4 与 PPP 的发生呈正相关( r= 0. 37、0. 26、0. 22,P<0. 05
+或 P<0. 01)。
+[关键词]   糖尿病, 2 型; 糖尿病胫前色素沉着斑; 视黄醇结合蛋白 4; 胱抑素 C
+Correlation of serum retinol binding protein 4 and cystatin C with pigmented pretibial pathes in type 2 diabetes
+mellitus Miao Congqing, Meng Xinlong, Lu Dechuan, Du Peng, Chen Yingzi, Fan Aijuan. Department of
+Endocrinology, Jiangdu People忆s Hospital of Yangzhou City, Jiangdu 225200, China
+[Summary]   A total of 165 type 2 diabetic patients were divided into two groups with pigmented pretibial
+pathes(PPP group) and no PPP(NPPP group). 50 subjects with normal glucose regulation were used as a control
+group(NGR group). The records of sex, age, diabetes duration, body mass index(BMI), systolic blood pressure
+(SBP), diastolic blood pressure, high density lipoprotein-cholesterol, low density lipoprotein-cholesterol, fasting
+blood glucose(FBG), 2 h postpradial plasma glucose(2hPG), triglyceride(TG), total cholesterol, HBA1C, retinol
+binding protein 4(RBP4), cystatin C(Cys C)were analyzed. The results showed that BMI,FBG,2hPG, TG, and Cys
+C levels in NPPP group were higher than those in NGR group(all P<0. 01) . The levels of BMI, SBP, FBG, 2hPG,
+TG, Cys C, and RBP4 in PPP group were higher than those in NGR group(P<0. 01 or P<0. 05), while diabetes
+duration, FBG, 2hPG, HBA1C, Cys C, and RBP4 in PPP group were higher than those in NPPP group ( P <
+0. 01) . Pearson correlation analysis revealed that serum RBP4 and Cys C were in linear positive correlation( r=0. 77,
+P< 0. 01) . The areas under receiver operating characteristic curve of RBP4 and Cys C were 0. 81 and 0. 78,
+respectively(P<0. 01) . The results of binary logistic regression analysis showed that diabetes duration, HBA1C, RBP4
+were related to PPP( r=0. 37, 0. 26, 0. 22, P<0. 05 or P<0. 01) .
+[Key words]  Diabetes mellitus, type 2; Pigmented pretibial pathes; Retinol binding protein 4; Cystatin C
+(Chin J Endocrinol Metab, 2015, 31: 601-603)
+糖尿病胫前色素沉着斑(pigmented pretibial pathes,PPP)也
+称糖尿病性皮肤病(diabetic dermopathy),是糖尿病患者特有的
+皮肤症状。 研究表明,PPP 与糖尿病慢性并发症,如糖尿病性
+肾病、糖尿病性视网膜病变及糖尿病性周围神经病变等微血管
+并发症及大血管病变相关[1] 。 视黄醇结合蛋白 4 ( retinol
+binding protein 4, RBP4)是一种新发现的脂肪源性因子,近来研
+究认为 RBP4 水平升高可通过引起全身胰岛素抵抗从而导致
+内皮功能损伤,与糖尿病慢性并发症发生相关。 胱抑素 C
+(cystatin C)是一种半胱氨酸蛋白酶抑制剂,既往研究认为其是
+评价早期肾损害的敏感指标之一,近来研究表明,胱抑素 C 与
+RBP4 一样与 2 型糖尿病下肢动脉病变有关[2] 。 关于 PPP 的发
+病机制尚不明确,影响 PPP 的相关因素研究较少。 通过对 PPP
+的影响因素,尤其 RBP4、胱抑素 C 与其的相关性研究,旨在探
+讨 PPP 的发病机制,使其作为糖尿病患者的一种易观察的皮肤
+征象,在临床受到重视。
+一、 对象和方法
+1. 对象:选择 2013 年 1 月至 2013 年 8 月扬州市江都人民
+医院内分泌科收治的 165 例 2 型糖尿病患者。 其中合并 PPP
+者 80 例(PPP 组),男性 46 例,女性 34 例,年龄(52. 00 ± 5. 90)
+岁;无 PPP 者 85 例(NPPP 组),男性 43 例,女性 42 例,年龄
+(50. 42 ± 6. 53)岁。 选择同期体检中心健康体检者 50 名为正
+常对照组(NGR 组),男性 27 名,女性 23 名,年龄 (49. 70 ±
+6. 13)岁,予口服葡萄糖耐量试验排除糖尿病。 3 组间年龄、性
+别无统计学差异。 排除标准:心功能不全、肝肾功能异常、以及
+糖尿病急性并发症、感染等应激状态及其他严重疾病,1 个月内
+未使用视黄醇及糖皮质激素。 本研究经本院伦理委员会批准,
+患者均签署知情同意书。
+2. 方法:记录所有研究对象的性别、年龄、糖尿病病程(糖
+尿病患者)、体重指数 ( BMI)、收缩压、舒张压、空腹血糖
+(FBG)、餐后 2 h 血糖(2hPG)、甘油三酯(TG)、总胆固醇、高密
+度脂蛋白胆固醇、低密度脂蛋白胆固醇、HBA1C、RBP4、胱抑素 C
+等。 RBP4、胱抑素 C 采用免疫透射比浊法测定 (德国罗氏
+Roche Modular 全自动生化分析仪,上海北加生化试剂有限公
+司)。 HBA1C采用 DREW SCIENTIFIC 公司 DS5 糖化血红蛋白仪
+用高压液相法测定。
+3. 诊断标准:PPP:糖尿病患者胫前出现多发性、境界清楚
+的色素沉着,并伴有萎缩性皮损,排除其他皮肤疾病存在。 鉴
+于无糖尿病者偶尔也可有一二个相似的皮损,故提出具有 4 枚
+或 4 枚以上典型的 PPP 皮损方能诊断为本病[3](图 1)。 2 型糖
+尿病诊断采用 1999 年世界卫生组织糖尿病诊断标准。
+注:患者男性,49 岁,2 型糖尿病史 11 年,胫前出现多发性、境界清
+楚的色素沉着,并伴有萎缩性皮损
+图 1  糖尿病胫前色素沉着斑
+4. 统计学处理:应用 SPSS 19. 0 软件进行统计学分析。 计
+量资料比较采用 t 检验或单因素方差分析,计数资料比较采用
+字2 检验。 相关性分析使用 Pearson 相关分析方法。 用直线相关
+回归及散点图显示胱抑素 C 与 RBP4 的关系。 通过二元 logistic
+回归分析评估 PPP 的相关因素。 P<0. 05 为差异有统计学意
+义。
+二、 结果
+1. 2 组临床资料比较:NPPP 组患者 BMI、FBG、2hPG、TG、
+胱抑素 C 高于 NGR 组(P<0. 01)。 PPP 组患者 BMI、收缩压、
+FBG、2hPG、TG、胱抑素 C、RBP4 高于 NGR 组(P<0. 05 或 P<
+0. 01)。 PPP 组患者糖尿病病程、FBG、2hPG、HBA1C、胱抑素 C、
+RBP4 明显高于 NPPP 组(P<0. 01,表 1)。
+2. Pearson 相关分析:Pearson 相关分析及散点图显示血清
+RBP4 与胱抑素 C 呈线性正相关( r=0. 77,P<0. 01,图 2)。
+注:略语同表 1
+图 2  RBP4 与胱抑素 C 相关分析及散点图
+注:ROC:受试者工作特征;余略语同表 1
+图 3  RBP4 与胱抑素 C 预测 PPP 的 ROC 曲线
+表 1  NGR 组、NPPP 组 和 PPP 组临床资料比较(x-± s)
+组别 例数 糖尿病病程(年)
+体重指数
+(kg / m2)
+收缩压
+(mmHg)
+舒张压
+(mmHg)
+空腹血糖
+(mmol / L)
+餐后 2 h 血糖
+(mmol / L)
+甘油三酯
+(mmol / L)
+NGR 50 - 21. 83 ± 1. 38 130 ± 99   82 ± 6 5. 19 ± 0. 51 6. 71 ± 0. 77 1. 42 ± 0. 27
+NPPP 85 6. 69 ± 2. 83 23. 70 ± 2. 08a 133 ± 15   82 ± 11 10. 29 ± 2. 46a 13. 41 ± 2. 97a 2. 40 ± 0. 66a
+PPP 80 10. 61 ± 3. 72c 23. 03 ± 3. 00b 136 ± 15b   80 ± 13 11. 75 ± 2. 45ac 14. 91 ± 2. 98ac 2. 65 ± 0. 99a
+组别 例数 总胆固醇(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+HBA1C
+(% )
+胱抑素 C
+(mg / L)
+RBP4
+(mg / L)
+NGR 50 5. 18 ± 0. 62 1. 12 ± 0. 11 2. 37 ± 0. 30 - 0. 65 ± 0. 15 43. 42 ± 5. 23
+NPPP 85 5. 02 ± 0. 96 1. 15 ± 0. 14 2. 45 ± 0. 35 8. 29 ± 1. 98 0. 83 ± 0. 17a 43. 91 ± 5. 08
+PPP 80 5. 07 ± 1. 25 1. 11 ± 0. 16 2. 46 ± 0. 36 9. 76 ± 1. 98c 1. 01 ± 0. 17ac 51. 56 ± 6. 38ac
+注:NGR:糖调节正常;NPPP:无糖尿病胫前色素沉着斑;PPP:糖尿病胫前色素沉着斑; 1 mmHg = 0. 133 kPa;HDL-C:高密度脂蛋白胆固醇;LDL-
+C:低密度脂蛋白胆固醇;RBP4:视黄醇结合蛋白 4;与 NGR 组比较,a P<0. 01,bP<0. 05;与 NPPP 组比较,cP<0. 01
+表 2  影响 PPP 危险因素的 logistic 回归分析
+项目 β 值 标准误 Wald 值 自由度 P 值 OR 值 95% CI
+糖尿病病程 0. 366 0. 079 21. 516 1 0. 000 1. 442 1. 235 ~ 1. 683
+HBA1C 0. 264 0. 108 5. 951 1 0. 015 1. 302 1. 053 ~ 1. 609
+RBP4 0. 217 0. 046 22. 468 1 0. 000 1. 243 1. 136 ~ 1. 359
+常量 -15. 861 2. 627 36. 452 1 0. 000 0. 000 -
+注:略语同表 1
+3. RBP4 及胱抑素 C 的受试者工作特征(ROC)曲线:PPP
+组与 NPPP 组中 ROC 曲线显示 RBP4 及胱抑素 C 曲线下面积
+分别为 0. 81、0. 78(P<0. 01)。 RBP4 与胱抑素 C 2 个变量联合
+预测 PPP 的曲线下面积 0. 81。 RBP4 切点为 47. 82 mg / L,灵敏
+性、特异性为 0. 73、0. 69。 胱抑素 C 切点为 0. 93 mg / L,灵敏性、
+特异性为 0. 71、0. 72(图 3)。
+4. 二元 logistic 回归分析:以是否有 PPP 为因变量,以上临
+床资料为自变量,予二元逐步 logistic 回归分析,结果显示糖尿
+病病程、HBA1C、RBP4 与 PPP 的发生有相关性(表 2)。
+三、 讨论
+PPP 是糖尿病患者最常见的皮肤表现,发病率为 9% ~
+55% [4] 。 PPP 多发生在双下肢胫前,但也有报道发生在其他部
+位如腹部、大腿等。 研究表明,PPP 与糖尿病微血管并发症及
+大血管病变相关,因而可作为糖尿病慢性并发症的一种早期征
+象[5,6] 。 PPP 的发病机制尚未明确。 含铁血黄素沉积与黑色素
+的沉积是导致糖尿病皮肤病的临床特征,用多普勒检测可发现
+胫前色素沉着部位血流失调[7,8] 。 文献报道,有 PPP 的糖尿病
+患者 CD4+、CD4+ / CD8+较无 PPP 患者升高,而 CD8+降低,推
+测 PPP 的发生可能与体内细胞免疫异常有关。 同时对胫前色
+素沉着处行皮肤活检荧光检查,显微镜下可见大量免疫复合物
+沉积,如 IgA、IgG、IgM、C1、Cq1 和 FRA(fibrin-related antibody),
+而肾活检也有不同程度的免疫复合物沉积,考虑 PPP 患者皮肤
+与肾脏都存在免疫损伤可能[9,10] ,提示免疫异常可能参与 PPP
+的发生。
+RBP4 是脂溶性维生素运载蛋白中的一种,为视黄醇特异
+性载体,主要是把视黄醇从肝脏运输到外周组织中,由脂肪细
+胞和肝分泌的一种蛋白质分子,抑制内皮细胞的胰岛素活性,
+导致血管舒张依赖的一氧化氮水平减弱,促进血管内皮功能紊
+乱,参与糖尿病血管病变的发生。 研究结果显示血清 RBP4 与
+脂联素、血白细胞和超敏 C 反应蛋白水平相关,提示与炎症反
+应有关[11] 。 研究表明,RBP4 与糖尿病大血管病变及微血管病
+变有关[2,12] 。 胱抑素 C 作为一种良好反映肾小球滤过率的内
+源性标志物,但与其他糖尿病慢性并发症关系也日益受到关
+注。 许多研究表明,胱抑素 C 与糖尿病大血管、微血管病变有
+关,可能通过抑制组织蛋白酶 B、抑制高同型半胱氨酸分解酶、
+影响各种炎性因子和细胞因子的释放以及介导炎性反应等作
+用机制,参与到糖尿病患者微血管、大血管病变等慢性并发症
+的病理过程中[2,13] 。 本研究显示 PPP 组患者血清 RBP4 与胱
+抑素 C 明显高于 NPPP 组,且两者具有很好的相关性,RBP4、胱
+抑素 C 的 ROC 曲线下面积分别为 0. 81、0. 78,切点分别为
+47. 82 mg / L、0. 93 mg / L,显示良好的预测价值。 而回归分析显
+示 RBP4 为 PPP 发生的独立危险因素,可能参与 PPP 的发生过
+程,为 PPP 的血清学标志。 但两者如何相互影响或协同作用机
+制尚不明确。
+HBA1C反映糖尿病患者近 2 ~ 3 个月血糖的平均水平,是观
+察血糖达标的基本指标,HBA1C高者更易产生糖尿病慢性并发
+症。 本研究显示 PPP 与 HBA1C相关,提示血糖控制差患者更易
+出现 PPP,与糖尿病慢性并发症发生一致。 糖尿病病程长的患
+者更易出现 PPP,且两者有密切相关性,符合糖尿病慢性并发
+症发生特点。
+在 2 型糖尿病患者中,糖尿病病程、HBA1C、RBP4 与 PPP 密
+切相关。 血清 RBP4、胱抑素 C 可能与 PPP 的发生过程有关。
+提示 PPP 可能与糖尿病微血管及大血管病变存在共同的发病
+机制,而 RBP4、胱抑素 C 通过何种途径来发挥作用尚需进一步
+研究。 本研究样本量小,病例主要来源于住院患者,用药可能
+对研究结果有干扰,需要扩大研究数量,排除用药干扰,来进一
+步验证以上结论。

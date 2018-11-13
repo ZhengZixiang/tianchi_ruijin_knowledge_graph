@@ -1,0 +1,198 @@
+T1	Disease 356 362	2 型糖尿病
+T2	Disease 2815 2818;2819 2822	2 型 糖尿病
+T3	Disease 2886 2892	2 型糖尿病
+T4	Disease 2927 2933	2 型糖尿病
+T5	Disease 3107 3113	2 型糖尿病
+T6	Disease 3336 3342	2 型糖尿病
+T7	Disease 6381 6387	2 型糖尿病
+T8	Disease 6473 6479	2 型糖尿病
+T9	Disease 6595 6601	2 型糖尿病
+T10	Disease 6632 6638	2 型糖尿病
+T11	Disease 6987 6993	2 型糖尿病
+T12	Disease 7039 7043;7044 7046	2 型糖 尿病
+T13	Test 2994 2998	空腹血糖
+T14	Test 3083 3086;3087 3093	口服葡 萄糖耐量试验
+T15	Test 3740 3742;3743 3746	甲状 腺功能
+T16	Test 3780 3785	甲状腺功能
+T17	Test 3823 3826;3827 3829	甲状腺 功能
+T18	Test 4088 4093	甲状腺功能
+T19	Test 4455 4460	甲状腺功能
+T20	Test 5634 5639	甲状腺功能
+T21	Anatomy 4476 4480	β 细胞
+T22	Anatomy 4862 4866	β 细胞
+T23	Anatomy 4980 4984	β 细胞
+T24	Anatomy 5184 5188	β 细胞
+T25	Anatomy 5334 5338	β 细胞
+T26	Anatomy 5370 5374	β 细胞
+T27	Anatomy 5390 5394	β 细胞
+T28	Anatomy 5536 5540	β 细胞
+T29	Anatomy 6162 6166	β 细胞
+T30	Anatomy 6226 6230	β 细胞
+T31	Anatomy 6252 6256	β 细胞
+T32	Anatomy 6915 6919	β 细胞
+T33	Test 5592 5595	TSH
+T34	Test 5653 5656	TSH
+T35	Test 5695 5698	TSH
+T36	Test 5723 5726	TSH
+T37	Test 5750 5753	TSH
+T38	Test 5833 5836	TSH
+T39	Test 5878 5881	TSH
+T40	Test 5916 5919	TSH
+T41	Test 5957 5960	TSH
+T42	Test 5998 6001	TSH
+T43	Test 6925 6928	TSH
+T44	Test 3465 3467	身高
+T45	Test 3011 3013	体重
+T46	Test 3139 3141	体重
+T47	Test 3468 3470	体重
+T48	Test 3599 3601	体重
+T49	Test 6416 6418	体重
+T50	Test 6448 6450	体重
+T51	Test 6458 6460	体重
+T52	Test 6532 6534	体重
+T53	Test 6605 6607	体重
+T54	Test 6670 6672	体重
+T55	Test 6757 6759	体重
+T56	Anatomy 5815 5819	破骨细胞
+T57	Anatomy 5843 5847	破骨细胞
+T58	Test 3001 3006;3007 3008	胰岛素分泌 量
+T59	Test 6193 6199	胰岛素分泌量
+T60	Anatomy 4626 4629;4630 4631	β 细 胞
+T61	Anatomy 3267 3271	脂肪组织
+T62	Anatomy 5616 5620	脂肪组织
+T63	Test 3772 3774	血糖
+T64	Test 6441 6443	血糖
+T65	Test 6766 6768	血糖
+T66	Test 4440 4441;4442 4448	甲 状腺激素水平
+T67	Anatomy 6400 6406	TCF7L2
+T68	Disease 134 142	甲状腺功能减退症
+T69	Disease 143 145	甲减
+T70	Anatomy 208 214	胰岛素原基因
+T71	Anatomy 227 235	葡萄糖转运体 2
+T72	Anatomy 236 241	葡萄糖激酶
+T73	Anatomy 242 251	胰岛素样生长因子2
+T74	Anatomy 287 289	胰腺
+T75	Disease 2116 2124	胎儿宫内发育迟滞
+T76	Disease 2159 2163	IUGR
+T77	Reason 2331 2334	尼古丁
+T78	Reason 2335 2337	乙醇
+T79	Disease 2345 2349	IUGR
+T80	Disease 2371 2374	脂肪肝
+T81	Anatomy 2391 2392;2393 2397	甲 状腺激素
+T82	Disease 2430 2438	甲状腺功能减退症
+T83	Disease 2439 2441	甲减
+T84	Disease 2447 2451	IUGR
+T85	Anatomy 2461 2463	肌肉
+T86	Anatomy 2464 2466	皮肤
+T87	Anatomy 2467 2468	肺
+T88	Anatomy 2469 2471	神经
+T89	Reason 2519 2524	胰岛素抵抗
+T90	Disease 2537 2539	甲减
+T91	Anatomy 2568 2570	胰岛
+T92	Disease 2575 2578	糖尿病
+T93	Disease 2597 2599	甲减
+T94	Disease 2644 2646	甲减
+T95	Disease 2679 2681	甲减
+T96	Disease 2695 2697	流产
+T97	Disease 2698 2700	早产
+T98	Disease 2701 2705	IUGR
+T99	Disease 2770 2773	糖尿病
+T100	Test_Value 2912 2918	低于 5 磅
+T101	Test_Value 2998 3000	偏高
+T102	Disease 3175 3177	肥胖
+T103	Anatomy 3203 3205	肌肉
+T104	Anatomy 3206 3208	脂肪
+T105	Anatomy 3405 3407	胰岛
+T106	Anatomy 6953 6956;6957 6958	β 细 胞
+T107	Test 2982 2988	正糖钳夹实验
+T108	Test_Value 3019 3025	减少 30%
+T109	Disease 2217 2222	心血管疾病
+T110	Disease 7022 7024	甲减
+T111	Reason 7028 7034	宫内发育不良
+T112	Disease 101 106;107 109	成人退行性 疾病
+T113	Disease 2223 2228	代谢性疾病
+T114	Anatomy 3249 3251	肌肉
+T115	Anatomy 3252 3254	脂肪
+T116	Anatomy 3263 3265	肌肉
+T117	Symptom 3170 3172	消瘦
+T118	Symptom 3243 3245	消瘦
+T119	Disease 3302 3304	肥胖
+T120	Reason 3306 3311	胰岛素抵抗
+T121	Disease 3343 3348	糖耐量减低
+T122	Anatomy 3281 3284	胰岛素
+T123	Disease 3636 3642	宫内发育迟缓
+T124	Disease 3694 3696	甲减
+T125	Disease 3553 3557	IUGR
+T126	Disease 3611 3616	糖代谢异常
+T127	Reason 3542 3546	孕期甲减
+T128	Disease 3489 3491	肥胖
+T129	Reason 3494 3499	胰岛素抵抗
+T130	Disease 3509 3511;3512 3513	糖尿 病
+T131	Disease 3514 3519	糖耐量异常
+T132	Test 3647 3651;3652 3654	胰岛素敏 感性
+T133	Test 3655 3661	胰岛细胞功能
+T134	Disease 3724 3726	甲减
+T135	Test 3758 3765	静脉葡萄糖耐量
+T136	Test 3802 3809	胰岛素释放试验
+T137	Test 3812 3817	胰岛素水平
+T138	Disease 3913 3915	流产
+T139	Disease 3916 3918	死胎
+T140	Disease 3920 3921	产
+T141	Disease 3922 3925;3926 3927	产程延 长
+T142	Anatomy 3938 3940	胰腺
+T143	Anatomy 3943 3945	胰岛
+T144	Disease 3982 3986	孕期甲减
+T145	Disease 3987 3992	哺乳期甲减
+T146	Disease 3973 3978	糖代谢异常
+T147	Disease 4029 4031	甲减
+T148	Disease 4056 4058	甲减
+T149	Anatomy 6394 6397	GCK
+T150	Disease 6748 6752	IUGR
+T151	Anatomy 6465 6470	ADCY5
+T152	Anatomy 6510 6516	CDKAL1
+T153	Anatomy 6281 6288	CACNA1D
+T154	Test 3130 3136	出生体重指数
+T155	Test 3195 3199	体重指数
+T156	Test 3437 3441	体重指数
+T157	Disease 30 37	甲状腺功能减退
+T158	Disease 3885 3892	甲状腺功能不足
+T159	Reason 329 337	β 细胞功能不足
+T160	Test 2779 2781	体重
+T161	Test 2807 2811	出生体重
+T162	Test 2943 2945	体重
+T163	Test 3078 3082	出生体重
+T164	Test 3125 3129	出生体重
+T165	Disease 3559 3564	低出生体重
+T166	Disease 6994 6999	低出生体重
+T167	Test 2907 2910;2911 2912	出生体 重
+T168	Test 185 190	甲状腺激素
+T169	Anatomy 198 202	胰岛细胞
+T170	Anatomy 254 263	钙离子通道 α1D
+T171	Test 298 300;301 302	胰岛 素
+T172	Anatomy 307 314	甲状腺激素受体
+T173	Reason 318 325	甲状腺激素缺乏
+T174	Reason 2296 2300;2301 2302	胰岛素抵 抗
+T175	Disease 2306 2310	营养不良
+T176	Disease 2351 2358;2359 2363	胚胎肾上腺功能 发育异常
+T177	Disease 2488 2491	脂肪肝
+T178	Reason 2494 2499	胰岛素抵抗
+T179	Disease 2526 2531	糖代谢异常
+T180	Disease 2500 2505	糖代谢异常
+T181	Disease 2558 2560	甲减
+T182	Anatomy 2602 2604	胰腺
+T183	Disease 2714 2719;2720 2721	智力发育障 碍
+T184	Disease 2706 2711	低出生体重
+T185	Disease 2728 2733	低出生体重
+T186	Disease 2875 2879;2880 2881	低出生体 重
+T187	Disease 2967 2972	低出生体重
+T188	Disease 3034 3039	低出生体重
+T189	Test 3041 3047	胰岛分泌功能
+T190	Disease 3114 3116;3117 3120	糖耐 量减低
+T191	Disease 3386 3391	低出生体重
+T192	Test 3395 3398;3399 3400	体重指 数
+T193	Disease 2453 2458	低出生体重
+T194	Disease 363 368	低出生体重
+T195	Disease 3879 3881	甲减
+T196	Disease 2055 2062	成人退行性疾病
+T197	Disease 3588 3590	甲减
+T198	Anatomy 3799 3801	胰岛

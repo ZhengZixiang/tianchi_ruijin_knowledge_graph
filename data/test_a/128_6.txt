@@ -1,0 +1,278 @@
+基础研究
+基金项目:国家自然科学基金(81000332);
+宁、李晓永、张洪梅、苏青);210024 南京,江苏省省级机关医院内分泌科
+(代玲俐)
+抑制活性氧可改善 AGEs 诱导的 3T3-L1 细胞
+脂联素水平下调
+林宁  代玲俐  李晓永  张洪梅  苏青
+[摘要]   目的  研究体外模拟细胞内活性氧( reactive oxygen species, ROS)抑制对晚期糖基化终末产
+物(advanced glycation end products, AGEs)引起的小鼠 3T3-L1 脂肪细胞脂联素(adiponectin, ADPN)表达水
+平的影响。 方法 制备 AGEs,体外培养 3T3-L1 前脂肪细胞,并将其诱导分化为成熟脂肪细胞,油红 O 染
+色鉴定脂肪细胞分化程度和脂质积聚情况。 予以 AGEs 刺激脂肪细胞不同的时间,以活性氧(ROS)捕获剂
+双氢-乙酰乙酸二氯荧光黄(DCFH-DA)孵育细胞,通过流式细胞仪检测细胞内二氯荧光黄(DCF)的荧光强
+度而测得细胞内 ROS 水平,采用实时荧光定量 PCR 与酶联免疫吸附法检测脂联素的 mRNA 和蛋白水平;
+予以抗氧化剂 N-乙酰-半胱氨酸(N-Acetylcysteine,NAC)预处理后,再次检测脂联素的 mRNA 和蛋白水平。
+结果 AGEs 处理 3T3-L1 脂肪细胞后,细胞内 ROS 水平明显升高,脂联素 mRNA 及蛋白水平均显著下调;
+将 ROS 抑制后,脂联素的 mRNA 和蛋白水平均有不同程度回升。 结论 AGEs 诱导 3T3-L1 脂肪细胞 ROS
+生成增高,从而抑制了脂联素的表达,参与了胰岛素抵抗的病理生理过程。
+[关键词]   糖基化终末产物, 晚期; 3T3-L1 脂肪细胞; 活性氧; 脂联素
+Reactive oxygen species inhibition improves the down-regulation of adiponectin in 3T3-L1 adipocytes induced
+by AGEs Lin Ning*, Dai Linli, Li Xiaoyong, Zhang Hongmei, Su Qing. *Department of Endocrinology, Xinhua
+Hospital, Shanghai Jiaotong University School of Medicine, Shanghai 200092, China
+[Abstract]  Objective  To investigate the effects of reactive oxygen species(ROS) inhibition on the down-
+regulation of adiponectin ( ADPN) in mouse 3T3-L1 adipocytes by advanced glycation end-products ( AGEs).
+Methods AGEs were prepared for incubating with cell. 3T3-L1 preadipocytes were cultured in vitro and
+differentiated into mature adipocytes. Cell differentiation and lipid accumulation were determined by oil red O
+staining. After being intervened with AGEs, 2忆,7忆-dichlorofluorescein diacetate(DCFH-DA) was used as a reactive
+oxygen species(ROS) capture agent and the fluorescent intensity of 2忆,7忆-dichlorofluorescein(DCF) was detected by
+flow cytometry. Adiponectin expression under AGEs in 3T3-L1 adipocytes pretreated with N-acetyl-L-cysteine(NAC)
+or not was detected by real-time fluorescent PCR and ELISA. Results The level of ROS in 3T3-L1 adipocytes treated
+with AGEs was increased. mRNA and protein of ADPN were down-regulated. After inhibition with ROS, mRNA and
+protein expressions of ADPN injured by AGEs were ameliorated. Conclusion Exposure of 3T3-L1 adipocytes to
+AGEs induces oxidative stress in vitro, which decreases the expression of ADPN, and causes functional impairment of
+adipose cells and insulin resistance.
+[Key words]  Glycation end-products, advanced; 3T3-L1 adipocytes; Reactive oxygen species; Adiponectin
+(Chin J Endocrinol Metab, 2014, 30: 844-848)
+晚期糖基化终末产物 ( advanced glycation end
+products, AGEs)是由还原糖的醛基与一些大分子物质
+的游离氨基发生非酶糖化反应后形成,是糖化反应的
+不可逆性产物,在糖尿病发生发展中发挥着重要的作
+用。 它可以影响机体内多种蛋白质的结构和生化特
+性,改变细胞代谢;同时,可以通过影响血流动力学和
+血液流变学、损伤血管内皮、促血管平滑肌细胞的分化
+增殖、促进巨噬细胞浸润并诱发脂质代谢紊乱等多种
+途径促进糖尿病动脉粥样硬化的发生[1,2]。 我们前期
+研究发现,AGEs 通过其受体(RAGE)介导的氧化应激
+不仅可以直接损伤与糖尿病并发症相关的血管内皮细
+胞,同时可以对胰岛细胞本身造成损伤[3,4]。 目前
+AGEs 对脂肪细胞研究则相对较少。 众所周知,脂肪
+组织不仅贮存能量,也是一个巨大的内分泌器官,分泌
+大量脂肪因子,参与炎症、胰岛素抵抗、心血管疾病等
+病理生理过程。 体内白色脂肪组织体积增加可引起局
+部脂肪细胞低氧状态[5],在低氧和炎症等共同刺激
+下,细胞内 ROS 水平可以升高[6],从而影响脂肪因子
+的表达和释放。 本研究通过观察 AGEs 对脂肪细胞脂
+联素分泌的影响,进一步探讨 AGEs 致胰岛素抵抗的
+可能作用机制, 以便为糖尿病及动脉粥样硬化的防治
+研究提供更多的理论支持。
+材料和方法
+一、 材料
+小鼠 3T3-L1 前脂肪细胞株由上海市内分泌代谢
+病研究所李小英教授馈赠, 高糖 DMEM 培养基、 胎
+牛血清(FBS)、 胰蛋白酶购自 GIBCO 公司, 地塞米
+松、 3-异丁基-1-甲基黄嘌呤(IBMX)、 四甲基偶氮唑
+蓝 ( MTT )、 双 氢-乙 酰 乙 酸 二 氯 荧 光 黄 ( 2忆, 7忆-
+dichlorodihydrofluorescin diacetate, DCFH-DA)、N-乙酰-
+半胱氨酸(N-Acetylcysteine, NAC)购自 Sigma 公司,重
+组人胰岛素购自礼来公司,油红 O、牛血清白蛋白
+(BSA)购自北京鼎国昌盛生物技术有限公司,RNAiso、
+实时 PCR 试剂盒购自 Takara 公司,GAPDH、脂联素上
+下游 PCR 引物由上海生工生物工程技术服务有限公
+司设计并合成,小鼠脂联素 ELISA 试剂盒购自 Abcam
+公司。
+二、 方法
+1. AGEs 制备、纯化和鉴定:0. 5 g 牛血清白蛋白
+(BSA)溶解于 0. 2 mol / L 的磷酸盐缓冲液(PBS, pH
+7. 4)10 ml 中,加 D-葡萄糖 0. 9 g,0. 22 滋m 滤膜抽滤除
+菌,37℃避光孵育 120 d,PBS(pH 7. 4)充分透析以除
+去未结合的葡萄糖。 以相同方法去除 D-葡萄糖制备
+非糖化 BSA 作为对照。 采用 AGE-BSA 荧光光谱扫描
+鉴定。 AGE-BSA 激发高峰位于 360 nm,发射高峰位于
+446 nm。
+2. 3T3-L1 前脂肪细胞培养和诱导分化:3T3-L1
+前脂肪细胞用含 10%胎牛血清的高糖 DMEM 培养基,
+在 37℃,5%CO2的环境中培养。 待细胞状态良好时,
+以含 0. 25%胰蛋白酶-0. 03% EDTA 的复合消化液消
+化,按 2. 5×105细胞 / cm2的密度接种于 6 孔细胞培养
+板(预先放置经清洁灭菌处理的盖玻片)内,制备细胞
+爬片。 待细胞生长至融合状态 2 d 后,按照经典鸡尾
+酒诱导方案[7] 进行脂肪细胞诱导分化:加入含 0. 5
+mmol / L IBMX、1 μmol / L 地塞米松、10 μg / ml 胰岛素和
+10% FBS 的高糖 DMEM 培养基(诱导培养基 1)培养
+48 h,换以含 10 μg / ml 胰岛素、10% FBS 的高糖 DMEM
+培养基(诱导培养基 2)处理 48 h,之后改为含 10%
+FBS 的高糖 DMEM 培养基(基础培养基)继续培养,每
+2 天换液 1 次,直到 95% 以上的细胞都分化为成熟脂
+肪细胞,时间一般为 7 ~ 8 d。 分化成熟后,用不含血清
+的高糖 DMEM 培养基饥饿 12 h,加入含 AGEs、0. 5%
+BSA 的高糖 DMEM 培养基孵育细胞。 在部分实验中,
+在使用 AGEs 刺激 3T3-L1 脂肪细胞前,予 NAC 10
+mmol / L 预处理细胞 30 min。
+3. 油红 O 染色鉴定脂肪细胞:取细胞爬片用 PBS
+液充分洗涤,中性福尔马林溶液固定 5 ~ 10 min,60%
+异丙醇溶液媒染,油红 O 室温染色 30 min,70%酒精分
+色,蒸馏水洗,甘油明胶封片。
+4. MTT 法检测 AGEs 对 3T3-L1 脂肪细胞活力的
+影响:收集分化成熟的 3T3-L1 脂肪细胞,用基础培养
+基重悬,以镜下约 4×103 ~ 5×103细胞 /孔的浓度接种
+于 96 孔培养板中,37℃、5% CO2常规培养过夜。 弃去
+基础培养基,分别加入含不同浓度的 AGEs(50、100、
+200、400 mg / L)、不含血清的高糖 DMEM 培养基孵育
+20 h,弃去旧培养基,再加入含 5 mg / ml MTT、不含血清
+的高糖 DMEM 培养基继续孵育 4 h。 孵育结束后,弃
+净培养基,每孔加入 150 滋l DMSO,室温下低速震荡 10
+min,于 492 nm 处测各孔吸光度值(A492),每孔设 5
+个复孔。 结果发现,在该试验条件下,200、400 mg / L
+AGEs 使细胞活力明显受抑制(P<0. 01),而 50、100
+mg / L AGEs 孵育下的细胞与对照组细胞相比,活力上
+并无明显差异(P>0. 05)。 故后续实验采用 200 mg / L
+AGEs。
+5. 流式细胞仪检测 ROS:3T3-L1 脂肪细胞以每孔
+5×105 的细胞数接种于 6 孔板内,待细胞贴壁后,换
+0. 2%血清培养液培养 24 h,使细胞处于静止状态,各
+孔分别加入 200 mg / L 的 BSA 培养基和 200 mg / L 的
+AGEs 培养基,置 37℃、含 5% CO2恒温培养箱孵育 24
+h。 用 DCFH-DA 作为 ROS 捕获剂, 以 10 μmol / L
+DCFH-DA 孵育含 AGEs 和 BSA 培养基的细胞及正常
+培养基细胞(仅有 BSA)40 min,同时设立空白对照(不
+加 DCFH-DA)。 取 200 mg / L 的 AGEs 培养基为实验
+浓度。 相同条件下分别孵育 3T3-L1 脂肪细胞,时间分
+别为 1、4、12、24 h。 检测不同 AGEs 刺激时间细胞内
+DCF 的平均荧光强度。
+6. RNA 抽提与实时荧光定量 PCR 检测不同时间
+点 ADPN mRNA 的表达:分化成熟的 3T3-L1 脂肪细胞
+在含 200 mg / L 的 AGEs、0. 5% BSA、不含血清的高糖
+DMEM 培养基中孵育 1、4、12、24 h。 孵育结束后收集
+细胞,按照 RNAiso 试剂盒说明抽提总 RNA,用紫外分
+光光度计测定纯度和浓度。 A260 / A280 代表 RNA 纯
+度,所有 RNA 样品 A260 / A280 均在 1. 7 ~ 1. 9 之间。
+实时荧光定量 PCR 检测 ADPN mRNA 表达水平。
+脂联素上游引物为 5'-TCATTATGACGGCAGCAC-3';
+下游引物为 5'-CCAGATGGAGGAGCACAG-3';GAPDH
+上游引物为 5'-GCAAGTTCAACGGCACAG-3',下游引
+物为 5'-GCCAGTAGACTCCACGACAT-3'。 PCR 反应体
+系 20 滋l,反应条件:95℃ 预变性 30 s,95℃ 变性 5 s,
+60℃退火 34 s,循环 40 次,95℃ 15 s、60℃ 1 min、95℃
+15 s 终末延伸。 模板量及循环数经检测均在线性范围
+内。 以 GAPDH 为内参,以对照组为参照,计算脂联素
+mRNA 在各组间的相对比。
+7. 酶联免疫吸附法检测不同时间点细胞培养液上
+清中脂联素蛋白的分泌水平:AGEs 孵育前、后分别收
+集细胞培养液上清,离心(4℃,3 000×g,10 min)提纯,
+并用 PBS 液稀释 5 倍。 按照小鼠脂联素 ELISA 试剂
+盒说明,用紫外分光光度计测定 450 nm 处各孔吸光度
+值(A450),每个样本设 3 个复孔。 通过绘制标准曲线
+求出的标本上清中 MCP-1 蛋白的浓度,结果为各组间
+脂联素蛋白分泌水平绝对值(ng / ml)。
+三、 统计学分析
+统计学方法采用 SPSS 16. 0 统计软件包进行统计
+学分析。 实验数据以x- ± s 表示,组间比较采用单因素
+方差分析(ANOVA)。 P <0. 05 表明差异有统计学意
+义。
+结    果
+一、 油红 O 染色鉴定结果
+小鼠 3T3-L1 前脂肪细胞未分化前为多角形或纺
+锤形,细胞突触伸展于细胞间隙(图 1A)。 诱导分化
+24h 后,显微镜下可观察到胞浆内有高折光性的小脂
+滴。 随着诱导时间延长,细胞形态逐渐变大呈宽梭形,
+增多的小脂滴积聚在细胞饮周围并逐渐融合形成较大
+的脂滴。 诱导 7 ~ 8 d 后,绝大部分细胞内可见大小不
+等的脂滴,细胞体积增大填满细胞间隙。 经油红 O 染
+色,脂滴呈红色,进一步证实为脂肪细胞(图 1B)。
+二、 AGEs 处理 3T3-L1 脂肪细胞对 ROS 的影响
+200 mg / L AGEs 刺激分化成熟的 3T3-L1 脂肪细
+胞 1、4、12、24 h 后 ROS 变化如图 2 所示。 结果显示,
+随着 AGEs 作用时间延长(1、4、12 h),3T3-L1 脂肪细
+胞内 ROS 水平逐渐升高(25. 67 ± 2. 81、31. 83 ± 3. 2、
+38. 14 ± 3. 54),各时间点较对照组 (15. 11 ± 1. 62、
+14. 62 ±1. 49、15. 59 ± 1. 71)升高 0. 70、1. 18、1. 44(均
+P<0. 05)。 到 24 h 较前有所下降,但仍较对照升高
+65% (15. 78 ± 2. 08 对 26. 07 ± 3. 03)。 给予 NAC 10
+mmol / L 预处理后,AGEs 刺激后不同时间(1、4、12、24
+h)ROS 水平则较各自 AGEs 刺激组明显下降(数值分
+别为 17. 32±2. 13、22. 132±2. 51、26. 315±2. 8、18. 35±
+1. 83),分别下降了 32. 11% 、30. 45% 、30. 96% 和
+29. 61% (均 P<0. 05)。
+三、 AGEs 处理 3T3-L1 脂肪细胞对脂联素分泌的
+影响
+200 mg / L AGEs 刺激分化成熟的 3T3-L1 脂肪细
+胞不同时间后脂联素 mRNA 和培养液脂联素蛋白分
+泌变化分别如图 3A 和 3B 所示。 结果显示,AGEs 作
+用 1、4、12、24 h 各组脂联素 mRNA 水平均较刺激前下
+降(分别为 0. 71、0. 60、0. 52 和 0. 35,均 P <0. 05),
+NAC 预处理后其水平可以得到不同程度的恢复。 脂
+联素蛋白分泌情况和 mRNA 表达类似。 脂联素分泌
+水平在 1、4、12 和 24 h 较对照组不同程度的下降(分
+别为 38. 43% 、 45. 23% 、 59. 77% 和 65. 81% , P <
+0. 05),提示 AGEs 抑制了脂联素分泌;而将 ROS 抑制
+后,各时间段脂联素分泌水平则获得改善(P<0. 05),
+在 1、4、12 和 24 h 分别达各自空白对照组的 88. 43% 、
+72. 51% 、 71. 29% (P>0. 05)和 61 . 27% (P<0. 05)。
+注:(A)分化前的 3T3-L1 细胞(蓝色为苏木精染的细胞核)Morphology of 3T3-L1 preadipocytes(Nucleoli are stained blue with hematoxylin);(B)分化
+后的 3T3-L1 脂肪细胞(油红染色)Oil red staining of 3T3-L1 adipocytes(about 90 % cells are differentiated)
+图 1  3T3-L1 细胞分化前后显微镜观察(×100)
+Fig 1  Morphology of 3T3-L1 adipocyte differentiation (×100)
+注:Con:对照组 Control; AGEs:晚期糖基化终末产物 Advanced
+glycation end-products;NAC:N-乙酰-半胱氨酸 N-acetyl-L-cysteine;vs Con,
+aP<0. 05;vs AGEs, bP<0. 05
+图 2  3T3-L1 脂肪细胞在单独 AGEs(200 mg / L)刺激和 AGEs 与 NAC
+(10 mmol / L)共同作用后细胞内荧光强度的变化
+Fig 2 Fluoresce intensity stimulated by AGEs(200 mg / L) in 3T3-L1 adipocyte
+pretreated with NAC(10 mmol / L)
+注:(A)脂联素 mRNA 表达 mRNA expression of adiponectin;B:上清
+液中脂联素蛋白浓度 Concentration of adiponectin in supernatant;vs Con,
+aP<0. 05;vs AGEs, bP<0. 05
+图 3  3T3-L1 脂肪细胞在单独 AGEs(200 mg / L)刺激和 AGEs 与 NAC
+(10 mmol / L)共同作用对脂联素表达的影响
+Fig 3 Expression of adiponectin under AGEs(200 mg / L) in 3T3-L1 adipocytes
+pretreated with NAC(10 mmol / L)
+讨    论
+在糖尿病患者中,体内的高血糖状态使 AGEs 的
+形成较正常人更加迅速[8]。 很多证据表明,AGEs 和
+RAGE 受体结合后产生氧化应激和炎症反应参与了糖
+尿病并发症的发生发展[9]。 我们前期的研究也证明
+AGEs 可以影响糖尿病并发症和胰岛自身功能的减
+退[3,4]。 最近,不少研究表明,AGEs 和 RAGE 受体相
+互作用在胰岛素抵抗的病理进程中也发挥了重要作
+用[10-12]。 Unoki 等[10] 指出,AGEs 可以通过氧化应激
+降低脂肪细胞对胰岛素敏感性。 而腹腔注射 AGEs 抑
+制剂可以改善肥胖, 2 型糖尿病大鼠的胰岛素抵
+抗[11];血浆中 AGEs 水平也成为评价在非糖尿病人群
+中胰岛素抵抗的一项独立危险因素[12]。 对于 AGEs
+如何降低胰岛素敏感性的机制一直在研究中。 我们从
+脂肪组织分泌的一种脂肪因子———脂联素入手,探讨
+氧化应激对脂联素的影响,从而对 AGEs 引起的胰岛
+素抵抗提出自己的见解。
+脂联素是脂肪细胞分泌的一种蛋白,具有抗糖尿
+病及抗动脉粥样硬化的作用。 血中脂联素水平的降低
+是 2 型糖尿病及冠心病的重要生物学特征之一。 在有
+胰岛素抵抗的人群中,脂联素水平明显较正常人下
+降[13]。 在动物模型中,给大鼠注射血管紧张素2诱导
+出的氧化应激可以导致低脂联素血症[14],而大量研究
+表明 AGEs 可以刺激细胞株 ROS 的产生,故理论上
+AGEs 可以通过氧化应激降低脂肪细胞中脂联素的表
+达。 在本研究中,我们将 AGEs 直接作用于脂肪细胞,
+发现 200 mg / L AGEs 可以显著降低 3T3-L1 脂肪细胞
+分泌脂联素水平,而使用抗氧化剂 NAC,阻断 AGEs 诱
+导的 ROS 生成,则可以一定程度改善脂联素的表达。
+因此,我们相信 AGEs 可以通过抑制脂肪细胞分泌脂
+联素,进而影响胰岛素敏感性,这一过程与氧化应激相
+关。
+在研究中我们发现,随着 AGEs 作用时间的延长,
+3T3-L1 脂肪细胞活性氧的水平逐渐上升,脂联素分泌
+则逐渐下降,两者呈明显的负相关。 但在作用 24 h
+后,3T3-L1 脂肪细胞中 ROS 水平并未进一步上升,反
+而有下降,我们考虑此时 ROS 的下降为细胞衰老,活
+力下降所导致,故此时脂联素分泌较前期进一步降低。
+尽管我们的数据提示抑制 ROS 的产生可以有效改善
+AGEs 引起的脂联素分泌能力下降,但 ROS 抑制后并
+没有完全使脂联素的水平恢复到正常,提示出了氧化
+应激,AGEs 还可以通过其他机制参与了脂肪细胞分
+泌脂联素水平的调控。 AGEs 与细胞膜表面的 RAGE
+受体激活后可产生多种效应,除了氧化应激、自由基产
+生外,还可以直接导致核因子 NF-κB 的活化[15]。 NF-
+κB 是一个自由基敏感的转录因子,它可诱导促凝血因
+子如组织因子、血栓调节素、内皮素-1 的表达,增加血
+管细胞黏附分子 1(vascular cellular adhension molecule-
+1, VCAM-1)的水平。 另外,它可促使细胞因子白细胞
+介素(IL)-1α、IL-6、肿瘤坏死因子(TNF)-α 等的释放,
+引起炎症反应[16]。 因此,在接下来的研究中,我们还
+需要进一步明确 RAGE 在 AGEs 引起的胰岛素抵抗中
+的重要作用。
+综上所述,AGEs 可通过刺激脂肪细胞内 ROS 的
+产生从而损伤细胞分泌脂联素的能力,而抑制 ROS 的
+产生则可以显著改善脂联素的表达和分泌。 脂联素的
+表达异常与糖尿病相关的胰岛素抵抗及心血管功能紊
+乱息息相关。 使脂肪组织免于氧化应激的影响,或许
+可以为临床治疗 2 型糖尿病和冠心病提供一条新的思
+路。

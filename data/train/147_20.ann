@@ -1,0 +1,466 @@
+T1	Disease 1693 1699	1 型糖尿病
+T2	Disease 1234 1240	2 型糖尿病
+T3	Disease 1733 1739	2 型糖尿病
+T4	Disease 1761 1767	2 型糖尿病
+T5	Disease 1810 1816	2 型糖尿病
+T6	Disease 2489 2495	2 型糖尿病
+T7	Disease 3120 3123;3124 3127	2 型 糖尿病
+T8	Disease 4093 4099	2 型糖尿病
+T9	Disease 6142 6148	2 型糖尿病
+T10	Disease 6839 6845	2 型糖尿病
+T11	Disease 2228 2233	糖尿病肾病
+T12	Drug 4697 4702	磺脲类药物
+T13	Drug 6739 6744	磺脲类药物
+T14	Drug 6828 6830;6831 6834	磺脲 类药物
+T15	Drug 6874 6879	磺脲类药物
+T16	Drug 6893 6894;6895 6899	磺 脲类药物
+T17	Drug 3414 3418	二甲双胍
+T18	Drug 3419 3423	二甲双胍
+T19	Drug 3471 3475	二甲双胍
+T20	Drug 3558 3562	二甲双胍
+T21	Drug 3786 3790	二甲双胍
+T22	Drug 3883 3887	二甲双胍
+T23	Drug 4084 4088	二甲双胍
+T24	Drug 4153 4157	二甲双胍
+T25	Drug 4176 4180	二甲双胍
+T26	Drug 4210 4211;4212 4215	二 甲双胍
+T27	Drug 4231 4235	二甲双胍
+T28	Drug 7015 7019	二甲双胍
+T29	Drug 7198 7202	二甲双胍
+T30	Test 2544 2548	空腹血糖
+T31	Anatomy 4966 4970	脂肪因子
+T32	Drug 4294 4300	噻唑烷二酮类
+T33	Drug 4301 4307	噻唑烷二酮类
+T34	Drug 7203 7209	噻唑烷二酮类
+T35	Disease 1623 1628	代谢综合征
+T36	Anatomy 1989 1993	脂肪细胞
+T37	Anatomy 3867 3871	脂肪细胞
+T38	Anatomy 4782 4783;4784 4787	脂 肪细胞
+T39	Anatomy 4841 4845	脂肪细胞
+T40	Anatomy 4893 4897	脂肪细胞
+T41	Anatomy 6079 6083	脂肪细胞
+T42	Anatomy 6617 6621	脂肪细胞
+T43	Drug 6372 6376	利拉鲁肽
+T44	Drug 4633 4637	罗格列酮
+T45	Drug 4717 4721	罗格列酮
+T46	Drug 5086 5090	罗格列酮
+T47	Drug 5183 5187	罗格列酮
+T48	Drug 5199 5203	罗格列酮
+T49	Drug 6515 6516;6517 6520	西 格列汀
+T50	Drug 6723 6727	阿卡波糖
+T51	Test 5724 5728	餐后血糖
+T52	Anatomy 1444 1447	骨钙素
+T53	Test 3095 3097	体重
+T54	Drug 5434 5439	维生素 D
+T55	Anatomy 1997 2001	成骨细胞
+T56	Anatomy 2310 2314	成骨细胞
+T57	Anatomy 2635 2639	成骨细胞
+T58	Anatomy 2756 2757;2758 2761	成 骨细胞
+T59	Anatomy 2799 2803	成骨细胞
+T60	Anatomy 2821 2825	成骨细胞
+T61	Anatomy 3363 3367	成骨细胞
+T62	Anatomy 3487 3491	成骨细胞
+T63	Anatomy 3514 3518	成骨细胞
+T64	Anatomy 3542 3546	成骨细胞
+T65	Anatomy 3746 3750	成骨细胞
+T66	Anatomy 4007 4011	成骨细胞
+T67	Anatomy 4788 4792	成骨细胞
+T68	Anatomy 4851 4855	成骨细胞
+T69	Anatomy 4913 4917	成骨细胞
+T70	Anatomy 4933 4937	成骨细胞
+T71	Anatomy 4980 4984	成骨细胞
+T72	Anatomy 5033 5037	成骨细胞
+T73	Anatomy 5352 5356	成骨细胞
+T74	Anatomy 5945 5949	成骨细胞
+T75	Anatomy 6068 6072	成骨细胞
+T76	Anatomy 6570 6574	成骨细胞
+T77	Anatomy 6785 6789	成骨细胞
+T78	Anatomy 6801 6805	成骨细胞
+T79	Anatomy 2120 2124	破骨细胞
+T80	Anatomy 4049 4053	破骨细胞
+T81	Anatomy 5057 5061	破骨细胞
+T82	Anatomy 5209 5213	破骨细胞
+T83	Anatomy 5314 5318	破骨细胞
+T84	Anatomy 5328 5332	破骨细胞
+T85	Anatomy 5362 5366	破骨细胞
+T86	Anatomy 5795 5797;5798 5800	破骨 细胞
+T87	Anatomy 5950 5954	破骨细胞
+T88	Drug 6152 6156	艾塞那肽
+T89	Drug 6348 6352	艾塞那肽
+T90	Anatomy 5571 5576	GLP-1
+T91	Anatomy 5832 5837	GLP-1
+T92	Anatomy 5883 5888	GLP-1
+T93	Anatomy 6103 6108	GLP-1
+T94	Anatomy 5976 5981	BMSCs
+T95	Disease 7097 7101;7102 7103	代谢综合 征
+T96	Anatomy 1436 1441	IGF-I
+T97	Anatomy 2786 2791	IGF-I
+T98	Anatomy 3354 3359	IGF-I
+T99	Anatomy 6529 6534	IGF-I
+T100	Anatomy 6768 6773	IGF-I
+T101	Anatomy 4952 4956	脂肪组织
+T102	Anatomy 2351 2354;2355 2356	成骨细 胞
+T103	Anatomy 3668 3672	AMPK
+T104	Disease 63 67	骨质疏松
+T105	Disease 102 106	骨质疏松
+T106	Disease 241 245	骨质疏松
+T107	Disease 1316 1320	骨质疏松
+T108	Disease 1658 1662	骨质疏松
+T109	Disease 1720 1724	骨质疏松
+T110	Disease 1740 1744	骨质疏松
+T111	Disease 4236 4239;4240 4241	骨质疏 松
+T112	Disease 5403 5407	骨质疏松
+T113	Disease 5450 5454	骨质疏松
+T114	Disease 7119 7123	骨质疏松
+T115	Drug 7035 7039	达格列净
+T116	Test 1769 1772	骨密度
+T117	Test 7047 7049;7050 7051	骨密 度
+T118	Test 1502 1504	血糖
+T119	Test 2428 2430	血糖
+T120	Test 3241 3243	血糖
+T121	Test 4375 4377	血糖
+T122	Test 4741 4743	血糖
+T123	Test 7020 7022	血糖
+T124	Drug 6047 6054	GLP-1RA
+T125	Drug 6283 6290	GLP-1RA
+T126	Drug 5553 5557;5558 5560	DPP- 4i
+T127	Drug 6390 6396	DPP-4i
+T128	Drug 6468 6474	DPP-4i
+T129	Drug 6638 6644	DPP-4i
+T130	Disease 3291 3296	视网膜病变
+T131	Test 5147 5151	PINP
+T132	Test 6231 6234	CTX
+T133	Test 7057 7060	CTX
+T134	Test 2549 2553	体脂含量
+T135	Disease 33 36	糖尿病
+T136	Anatomy 38 39	骨
+T137	Disease 59 62	糖尿病
+T138	Anatomy 149 150	骨
+T139	Disease 168 171	糖尿病
+T140	Anatomy 191 192	骨
+T141	Disease 1212 1215	糖尿病
+T142	Disease 1311 1314	糖尿病
+T143	Disease 1322 1324	骨折
+T144	Disease 1342 1345	糖尿病
+T145	Anatomy 1346 1347	骨
+T146	Anatomy 1374 1375	骨
+T147	Anatomy 1394 1403	胰岛素样生长因子I
+T148	Anatomy 1463 1465	OC
+T149	Anatomy 1467 1472	肠促胰腺素
+T150	Anatomy 1473 1478	PPARγ
+T151	Anatomy 1508 1509	骨
+T152	Disease 1541 1544	糖尿病
+T153	Anatomy 1545 1546	骨
+T154	Anatomy 1565 1566	骨
+T155	Disease 1580 1583	糖尿病
+T156	Anatomy 1584 1585	骨
+T157	Disease 1588 1591	糖尿病
+T158	Disease 1638 1641	糖尿病
+T159	Disease 1663 1665	骨折
+T160	Disease 1676 1679	糖尿病
+T161	Test 1795 1798	BMD
+T162	Test_Value 1800 1802	增高
+T163	Disease 1818 1820	骨折
+T164	Reason 1827 1832;1833 1834	骨微结构改 变
+T165	Reason 1835 1842	骨转换水平低下
+T166	Disease 1871 1874	糖尿病
+T167	Anatomy 1902 1903	骨
+T168	Disease 1910 1913	糖尿病
+T169	Anatomy 1951 1952	骨
+T170	Anatomy 1968 1973	PPARγ
+T171	Anatomy 1980 1982;1983 1988	骨髓 间充质细胞
+T172	Anatomy 2072 2076	AEGs
+T173	Anatomy 2084 2091	白细胞介素 1
+T174	Anatomy 2092 2099	白细胞介素 6
+T175	Anatomy 2100 2101;2102 2107	肿 瘤坏死因子
+T176	Anatomy 2139 2143	AEGs
+T177	Reason 2154 2160	骨微结构改变
+T178	Disease 2176 2179	糖尿病
+T179	Anatomy 2246 2247	骨
+T180	Disease 2265 2268	糖尿病
+T181	Anatomy 2272 2275	硬骨素
+T182	Anatomy 2289 2291	SO
+T183	Anatomy 2331 2332	骨
+T184	Anatomy 2347 2349	OC
+T185	Anatomy 2398 2399	骨
+T186	Test 2431 2433	血脂
+T187	Anatomy 2443 2445	OC
+T188	Disease 2470 2472	肥胖
+T189	Test 2530 2536	胰岛素敏感性
+T190	Anatomy 2566 2568	OC
+T191	Anatomy 2570 2571	骨
+T192	Anatomy 2588 2590	OC
+T193	Anatomy 2598 2599	骨
+T194	Anatomy 2620 2621	骨
+T195	Drug 2627 2630	胰岛素
+T196	Drug 2631 2634	胰岛素
+T197	Anatomy 2780 2783	OSX
+T198	Drug 2816 2819	胰岛素
+T199	Anatomy 2825 2826;2827 2831	碱 性磷酸酶
+T200	Anatomy 2854 2857	ALP
+T201	Anatomy 2863 2869	I型胶原蛋白
+T202	Anatomy 2888 2892	Col1
+T203	Anatomy 2895 2897	OC
+T204	Disease 2908 2911	糖尿病
+T205	Disease 2914 2917	糖尿病
+T206	Drug 2928 2931	胰岛素
+T207	Disease 2936 2938	骨折
+T208	Drug 2957 2960	胰岛素
+T209	Anatomy 2961 2962	骨
+T210	Disease 2982 2985	糖尿病
+T211	Drug 2989 2992	胰岛素
+T212	Disease 3008 3010	骨折
+T213	Test 2997 3000	BMD
+T214	Disease 3038 3041	糖尿病
+T215	Drug 3045 3048	胰岛素
+T216	Drug 3106 3109	胰岛素
+T217	Drug 3169 3172	胰岛素
+T218	Disease 3178 3181	糖尿病
+T219	Drug 3236 3239	胰岛素
+T220	Disease 3244 3247	糖尿病
+T221	Disease 3251 3254	糖尿病
+T222	Disease 3281 3284	糖尿病
+T223	Disease 3297 3300	白内障
+T224	Disease 3301 3307	周围神经病变
+T225	Disease 3323 3326	糖尿病
+T226	Anatomy 3349 3351	肝脏
+T227	Drug 3375 3378	胰岛素
+T228	Anatomy 3427 3428	肝
+T229	Anatomy 3444 3447	骨骼肌
+T230	Drug 3585 3592	二 甲 双 胍
+T231	Anatomy 3508 3512	AEGs
+T232	Anatomy 3563 3564	骨
+T233	Anatomy 3740 3744	BMSC
+T234	Anatomy 3794 3798	BMSC
+T235	Anatomy 3826 3829	ALP
+T236	Anatomy 3830 3834	Col1
+T237	Anatomy 3835 3837	OC
+T238	Anatomy 3846 3850	BMSC
+T239	Anatomy 3853 3858	PPARγ
+T240	Anatomy 3396 3397	骨
+T241	Anatomy 3692 3699	骨形成蛋白-2
+T242	Anatomy 3893 3895	卵巢
+T243	Anatomy 3899 3908;3909 3914	低密度脂蛋白受体相 关蛋白 5
+T244	Anatomy 3966 3970	LRP5
+T245	Anatomy 4158 4159	骨
+T246	Anatomy 4220 4221	骨
+T247	Drug 4328 4332	TZDs
+T248	Drug 4337 4343	胰岛素增敏剂
+T249	Anatomy 4349 4354	PPARγ
+T250	Disease 4383 4386	糖尿病
+T251	Drug 4411 4415	TZDs
+T252	Disease 4417 4420	糖尿病
+T253	Drug 4457 4461	TZDs
+T254	Disease 4468 4471	糖尿病
+T255	Disease 4473 4478	外周骨骨折
+T256	Drug 4519 4523	TZDs
+T257	Disease 4531 4533;4534 4535	糖尿 病
+T258	Disease 4537 4539	骨折
+T259	Anatomy 4546 4548	脊柱
+T260	Anatomy 4549 4551	股骨
+T261	Anatomy 4552 4554	髋骨
+T262	Test 4555 4558	BMD
+T263	Disease 4570 4572	骨折
+T264	Drug 4591 4595	TZDs
+T265	Drug 4621 4625	TZDs
+T266	Drug 4638 4642	吡咯列酮
+T267	Disease 4661 4663	骨折
+T268	Disease 4673 4676	糖尿病
+T269	Drug 4681 4685	TZDs
+T270	Disease 4692 4694	骨折
+T271	Drug 4712 4716	吡咯列酮
+T272	Drug 4745 4749	吡咯列酮
+T273	Anatomy 4797 4801	BMSC
+T274	Drug 4814 4818	TZDs
+T275	Anatomy 4824 4828	BMSC
+T276	Anatomy 4831 4836	PPARγ
+T277	Drug 4885 4889	TZDs
+T278	Anatomy 4907 4911	BMSC
+T279	Drug 4926 4930	TZDs
+T280	Anatomy 4973 4977	BMSC
+T281	Drug 4997 5001	TZDs
+T282	Drug 5051 5055	TZDs
+T283	Anatomy 5093 5095	卵巢
+T284	Test 5100 5108;5109 5113	I型前胶原 N- 末端前肽
+T285	Test 5157 5158;5159 5162	尿 DPD
+T286	Drug 5176 5180	二磷酸盐
+T287	Anatomy 5191 5192	骨
+T288	Anatomy 5219 5220	骨
+T289	Drug 5249 5253	TZDs
+T290	Anatomy 5278 5283	c-fos
+T291	Anatomy 5292 5299	基质金属蛋白酶
+T292	Anatomy 5300 5307	组织蛋白酶 K
+T293	Anatomy 5308 5313	酸性磷酸酶
+T294	Drug 5342 5346	TZDs
+T295	Drug 5374 5378	TZDs
+T296	Anatomy 5384 5385	骨
+T297	Disease 5396 5399	糖尿病
+T298	Disease 5408 5410	骨折
+T299	Drug 5420 5424	TZDs
+T300	Drug 5440 5444	二磷酸盐
+T301	Drug 5508 5517	二肽基肽酶4抑制剂
+T302	Anatomy 5562 5567	肠促胰腺素
+T303	Anatomy 5577 5586	胰升血素样多肽 2
+T304	Anatomy 5612 5617	GLP-2
+T305	Anatomy 5621 5626	抑 胃 肽
+T306	Anatomy 5675 5678	GIP
+T307	Anatomy 5681 5687	肠道黏膜细胞
+T308	Anatomy 5714 5718	GLP1
+T309	Test 5737 5739	血脂
+T310	Anatomy 5751 5752	骨
+T311	Test 5803 5808	尿 DPD
+T312	Anatomy 5844 5847	降钙素
+T313	Anatomy 5914 5919	Runx2
+T314	Anatomy 5920 5922	OC
+T315	Anatomy 5923 5927	Col1
+T316	Anatomy 5928 5931	ALP
+T317	Drug 6001 6012	GLP-1 类 似 物
+T318	Anatomy 5940 5941	骨
+T319	Anatomy 5852 5853	骨
+T320	Anatomy 6062 6066	BMSC
+T321	Anatomy 6112 6113	骨
+T322	Duration 6157 6159;6160 6161	44 周
+T323	Test 6163 6176	骨I型胶原交联 C-末端肽
+T324	Test 6237 6239	Ca
+T325	Test 6241 6244	BMD
+T326	Disease 6304 6306	骨折
+T327	Disease 6354 6357	糖尿病
+T328	Disease 6359 6361	骨折
+T329	Disease 6384 6386	骨折
+T330	Anatomy 6404 6405;6406 6410	肠 促胰腺素
+T331	Anatomy 6415 6416	骨
+T332	Disease 6483 6485	骨折
+T333	Anatomy 6554 6557	MSC
+T334	Anatomy 6560 6568	MC3T3-E1
+T335	Anatomy 6584 6587	MSC
+T336	Anatomy 6603 6608	PPARγ
+T337	Drug 6631 6637	GLP-1A
+T338	Drug 6679 6686	GIP 类药物
+T339	Disease 6690 6692;6693 6699	糖尿 病性骨质疏松
+T340	Anatomy 6728 6729	骨
+T341	Anatomy 6749 6753	胰岛细胞
+T342	Anatomy 6765 6767	肝脏
+T343	Disease 6880 6882	骨折
+T344	Duration 7042 7046	50 周
+T345	Test 7052 7056	P1NP
+T346	Disease 7077 7080	糖尿病
+T347	Disease 7124 7126	骨折
+T348	Disease 7136 7139	糖尿病
+T349	Anatomy 7170 7171	骨
+T350	Drug 7194 7197	胰岛素
+T351	Anatomy 7215 7216	骨
+T352	Anatomy 7245 7246	骨
+T353	Symptom 1962 1965	高血糖
+T354	Symptom 2006 2009	高血糖
+T355	Anatomy 1875 1876	骨
+T356	Anatomy 1930 1931	骨
+T357	Anatomy 2130 2131	骨
+T358	Anatomy 2188 2189	骨
+T359	Anatomy 2222 2223	骨
+T360	Anatomy 2362 2366	胶原蛋白
+T361	Anatomy 2648 2651;2652 2657	胞外信 号调节激酶
+T362	Anatomy 2697 2700	ERK
+T363	Anatomy 2702 2705;2706 2713	磷脂酰 肌醇 3 激酶
+T364	Anatomy 2746 2750	PI3K
+T365	Anatomy 3599 3616	腺 苷 酸 活 化 蛋 白 激 酶
+T366	Disease 4242 4244	骨折
+T367	Drug 5703 5706	胰岛素
+T368	Anatomy 5905 5906	骨
+T369	SideEff 6917 6922	摔倒性骨折
+T370	Drug 6929 6944	钠葡萄糖共转运蛋白 2 抑制剂
+T371	Test 6946 6948	尿糖
+T372	Test 6958 6959	钙
+T373	Test 6959 6960	磷
+T374	Anatomy 6964 6965	骨
+T375	Disease 7027 7030	糖尿病
+T376	Disease 5742 5747	心血管疾病
+T377	Anatomy 1481 1484	Wnt
+T378	Test_Value 1804 1806	正常
+T379	Test_Value 2426 2428	降低
+T380	Test_Value 2506 2507;2508 2511	明 显降低
+T381	Disease 2919 2921	骨折
+T382	Test_Value 3004 3006	增加
+T383	Disease 3308 3313;3314 3315	心脑血管疾 病
+T384	Test_Value 5154 5156	降低
+T385	Test_Value 5165 5167	升高
+T386	Test_Value 5811 5813	增高
+T387	Anatomy 5825 5827	减少
+T388	Anatomy 6646 6647	骨
+T389	Reason 2235 2245	维生素 D 合成不足
+T390	Anatomy 2774 2779	Cbfa1
+T391	Anatomy 5463 5471	胰升糖素样肽 1
+T392	Anatomy 5497 5502	GLP-1
+T393	Anatomy 5763 5771	GLP-1 受体
+T394	Anatomy 5959 5967	GLP-1 受体
+T395	Anatomy 5990 5999	GLP-1 受 体
+T396	Anatomy 6671 6676	GLP-1
+T397	Reason 97 99;100 101	糖尿 病
+T398	Anatomy 172 173	骨
+T399	Disease 1268 1275	骨质疏松性骨折
+T400	Disease 1330 1332	骨折
+T401	Anatomy 1390 1393	胰岛素
+T402	Reason 1595 1605	胰岛素绝对或相对不足
+T403	Disease 1647 1653	血管神经病变
+T404	Reason 1703 1708	胰岛素缺乏
+T405	Reason 1710 1716	峰值骨量降低
+T406	Disease 1843 1846	糖尿病
+T407	Reason 1853 1859	摔倒风险增加
+T408	Anatomy 1895 1898	胰岛素
+T409	Reason 1918 1920;1921 1924	胰岛 素不足
+T410	Reason 1925 1927	抵抗
+T411	Anatomy 2020 2037	糖 基 化 终 末 代 谢 产 物
+T412	Anatomy 2145 2148	骨组织
+T413	Test 2162 2165	骨脆性
+T414	Test_Value 2165 2167	增加
+T415	Disease 2194 2202	糖尿病微血管病变
+T416	Anatomy 2204 2208	骨微循环
+T417	Anatomy 2211 2214	骨组织
+T418	Anatomy 2412 2415	胰岛素
+T419	Reason 2420 2425	胰岛素抵抗
+T420	Test 2473 2475;2476 2477	糖耐 量
+T421	Test_Value 2477 2479	异常
+T422	Test 2501 2503	OC
+T423	Test 2514 2516	OC
+T424	Test 2520 2529	胰岛 B 细胞功能
+T425	Anatomy 2767 2771	Runx
+T426	Disease 3058 3060	骨折
+T427	Disease 3131 3133	骨折
+T428	Anatomy 3129 3131	脊椎
+T429	Disease 3186 3188	骨折
+T430	Disease 3264 3272	糖尿病性骨质疏松
+T431	Symptom 3316 3319	低血糖
+T432	Anatomy 3342 3343;3344 3346	胰 岛素
+T433	Anatomy 3382 3385	胰岛素
+T434	Anatomy 3684 3691	一氧化氮合成酶
+T435	Anatomy 3706 3711;3712 3714	骨髓间充质 细胞
+T436	Anatomy 4058 4059	骨
+T437	Test 4105 4107	OC
+T438	Test 4109 4112	ALP
+T439	Test 4113 4118	脱氧吡啶林
+T440	Test 4138 4141	DPD
+T441	Anatomy 4422 4424	骨骼
+T442	Anatomy 4945 4947	骨髓
+T443	Anatomy 5007 5010;5011 5016	转化生 长因子-1
+T444	Anatomy 5018 5026	结缔组织生长因子
+T445	Drug 5169 5175	骨吸收抑制剂
+T446	Anatomy 5258 5260	骨髓
+T447	Anatomy 5260 5264	巨噬细胞
+T448	Anatomy 5265 5269	转录因子
+T449	Anatomy 5270 5275	NFTC1
+T450	Anatomy 5791 5792	骨
+T451	Anatomy 5814 5817	甲状腺
+T452	Test 5820 5823	降钙素
+T453	Anatomy 5894 5896;5897 5899	骨保 护素
+T454	Anatomy 6122 6124	骨骼
+T455	Anatomy 6524 6527	胰岛素
+T456	Anatomy 6590 6598	MC3T3-E1
+T457	Anatomy 6755 6761	内源性性岛素
+T458	Disease 6849 6851	骨折
+T459	Anatomy 6847 6849	脊柱
+T460	SideEff 6900 6903	低血糖
+T461	Symptom 7084 7093	慢性高血糖持续状态
+T462	Symptom 7156 7157;7158 7166	慢 性高血糖持续状态
+T463	Symptom 1940 1949	慢性高血糖持续状态
+T464	Symptom 1609 1612;1613 1619	慢性高 血糖持续状态
+T465	Symptom 135 140	慢性高血糖
+T466	Disease 7110 7116	血管神经病变

@@ -1,0 +1,401 @@
+T1	Disease 4736 4742	2 型糖尿病
+T2	Disease 5621 5627	2 型糖尿病
+T3	Test 1884 1887	血肌酐
+T4	Test 1966 1970	体重指数
+T5	Disease 120 126	动脉粥样硬化
+T6	Disease 207 213	动脉粥样硬化
+T7	Disease 245 246;247 252	动 脉粥样硬化
+T8	Disease 285 291	动脉粥样硬化
+T9	Disease 1456 1462	动脉粥样硬化
+T10	Disease 2255 2257;2258 2262	动脉 粥样硬化
+T11	Disease 6370 6376	动脉粥样硬化
+T12	Anatomy 162 167	AFABP
+T13	Anatomy 200 205	AFABP
+T14	Anatomy 238 243	AFABP
+T15	Anatomy 702 707	AFABP
+T16	Anatomy 800 805	AFABP
+T17	Anatomy 927 932	AFABP
+T18	Anatomy 1235 1240	AFABP
+T19	Anatomy 1326 1331	AFABP
+T20	Anatomy 1366 1371	AFABP
+T21	Anatomy 1379 1384	AFABP
+T22	Anatomy 1408 1413	AFABP
+T23	Anatomy 1482 1487	AFABP
+T24	Anatomy 1506 1511	AFABP
+T25	Anatomy 1523 1528	AFABP
+T26	Anatomy 1592 1597	AFABP
+T27	Anatomy 1613 1618	AFABP
+T28	Anatomy 1668 1673	AFABP
+T29	Anatomy 1702 1707	AFABP
+T30	Anatomy 1735 1740	AFABP
+T31	Anatomy 1748 1753	AFABP
+T32	Anatomy 1773 1778	AFABP
+T33	Anatomy 1784 1789	AFABP
+T34	Anatomy 2076 2081	AFABP
+T35	Anatomy 2108 2113	AFABP
+T36	Anatomy 2206 2211	AFABP
+T37	Anatomy 2240 2245	AFABP
+T38	Anatomy 2366 2371	AFABP
+T39	Anatomy 2411 2416	AFABP
+T40	Anatomy 2434 2439	AFABP
+T41	Anatomy 3232 3237	AFABP
+T42	Anatomy 3509 3514	AFABP
+T43	Anatomy 3584 3589	AFABP
+T44	Anatomy 3608 3613	AFABP
+T45	Anatomy 3713 3718	AFABP
+T46	Anatomy 3765 3770	AFABP
+T47	Anatomy 3896 3901	AFABP
+T48	Anatomy 3941 3946	AFABP
+T49	Anatomy 3983 3988	AFABP
+T50	Anatomy 4186 4191	AFABP
+T51	Anatomy 4220 4225	AFABP
+T52	Anatomy 4307 4312	AFABP
+T53	Anatomy 4386 4391	AFABP
+T54	Anatomy 4433 4438	AFABP
+T55	Anatomy 4474 4479	AFABP
+T56	Anatomy 4522 4527	AFABP
+T57	Anatomy 4619 4624	AFABP
+T58	Anatomy 4665 4670	AFABP
+T59	Anatomy 4823 4828	AFABP
+T60	Anatomy 5081 5086	AFABP
+T61	Anatomy 5117 5122	AFABP
+T62	Anatomy 5164 5169	AFABP
+T63	Anatomy 5318 5323	AFABP
+T64	Anatomy 5389 5394	AFABP
+T65	Anatomy 5478 5483	AFABP
+T66	Anatomy 5498 5503	AFABP
+T67	Anatomy 5607 5612	AFABP
+T68	Anatomy 5656 5661	AFABP
+T69	Anatomy 5681 5686	AFABP
+T70	Anatomy 5721 5726	AFABP
+T71	Anatomy 5748 5753	AFABP
+T72	Anatomy 5856 5861	AFABP
+T73	Anatomy 5927 5932	AFABP
+T74	Anatomy 6030 6035	AFABP
+T75	Anatomy 6102 6107	AFABP
+T76	Anatomy 6209 6214	AFABP
+T77	Anatomy 6350 6355	AFABP
+T78	Anatomy 6398 6403	AFABP
+T79	Anatomy 6431 6436	AFABP
+T80	Anatomy 6526 6531	AFABP
+T81	Anatomy 1539 1543	脂肪细胞
+T82	Anatomy 1578 1582	脂肪细胞
+T83	Anatomy 1657 1658;1659 1662	脂 肪细胞
+T84	Anatomy 1725 1729	脂肪细胞
+T85	Anatomy 3990 3994	脂肪细胞
+T86	Anatomy 4294 4298	脂肪细胞
+T87	Drug 5635 5639	罗格列酮
+T88	Disease 1463 1465	AS
+T89	Disease 1490 1492	AS
+T90	Disease 2116 2118	AS
+T91	Disease 2214 2216	AS
+T92	Disease 3386 3388	AS
+T93	Disease 3520 3522	AS
+T94	Disease 3773 3775	AS
+T95	Disease 3785 3787	AS
+T96	Disease 3829 3831	AS
+T97	Disease 3953 3955	AS
+T98	Disease 4633 4635	AS
+T99	Disease 4647 4649	AS
+T100	Disease 5045 5047	AS
+T101	Disease 5179 5181	AS
+T102	Disease 5788 5790	AS
+T103	Disease 5915 5917	AS
+T104	Disease 6406 6408	AS
+T105	Disease 6487 6489	AS
+T106	Disease 6576 6578	AS
+T107	Disease 6603 6605	AS
+T108	Test 2516 2519	心电图
+T109	Anatomy 149 161	脂肪细胞型脂肪酸结合蛋白
+T110	Anatomy 1109 1116	脂肪酸结合蛋白
+T111	Anatomy 1159 1161	心肌
+T112	Anatomy 1162 1164	脂肪
+T113	Anatomy 1166 1168	肝脏
+T114	Anatomy 1188 1193;1194 1196	脂肪酸结合 蛋白
+T115	Anatomy 1219 1221;1222 1232	脂肪 细胞型脂肪酸结合蛋白
+T116	Anatomy 1534 1538	巨噬细胞
+T117	Anatomy 1687 1689;1690 1692	高尔 基体
+T118	Anatomy 1801 1803	肾脏
+T119	Disease 1821 1826	终末期肾病
+T120	Disease 1957 1959	超重
+T121	Disease 1961 1963	肥胖
+T122	Anatomy 2028 2030	脂肪
+T123	Anatomy 2060 2064	皮下脂肪
+T124	Anatomy 2085 2091	皮下脂肪组织
+T125	Disease 2443 2448	颈动脉斑块
+T126	Test 2478 2485	心-踝血管指数
+T127	Test 2500 2502	血压
+T128	Disease 2503 2507	动脉硬化
+T129	Disease 2580 2583	高血压
+T130	Test 2599 2603	CAVI
+T131	Drug 2617 2627	血管紧张素受体拮抗剂
+T132	Test 2651 2655	CAVI
+T133	Test 2679 2683	CAVI
+T134	Test 2720 2726	冠脉造影检查
+T135	Disease 2739 2742	冠心病
+T136	Disease 2763 2766	冠心病
+T137	Disease 2785 2788	冠心病
+T138	Disease 3028 3031	冠心病
+T139	Test 3062 3069	血管内超声技术
+T140	Disease 3086 3087;3088 3095	冠 状功脉粥样硬化
+T141	Disease 3223 3225	卒中
+T142	Disease 3721 3726	心血管疾病
+T143	Reason 3800 3806	脂质浸润学说
+T144	Reason 3807 3810;3811 3815	损伤- 反应学说
+T145	Reason 3816 3821	单克隆学说
+T146	Reason 3822 3826	炎症学说
+T147	Reason 3957 3963	脂质浸润学说
+T148	Anatomy 4051 4055	泡沫细胞
+T149	Anatomy 4059 4061;4062 4065	平滑 肌细胞
+T150	Anatomy 4126 4130	巨噬细胞
+T151	Anatomy 4138 4142	泡沫细胞
+T152	Anatomy 4254 4258	巨噬细胞
+T153	Anatomy 4261 4265	泡沫细胞
+T154	Anatomy 4299 4303	巨噬细胞
+T155	Anatomy 4466 4470	巨噬细胞
+T156	Drug 4567 4576	AFABP 抑制剂
+T157	Anatomy 4603 4607	巨噬细胞
+T158	Anatomy 4608 4612	泡沫细胞
+T159	Anatomy 4785 4789	单核细胞
+T160	Anatomy 4790 4794	巨噬细胞
+T161	Anatomy 4795 4798	血小板
+T162	Anatomy 5201 5206	平滑肌细胞
+T163	Drug 5244 5252;5253 5254	AFABP 抑制 剂
+T164	Anatomy 5257 5261	内皮细胞
+T165	Anatomy 5279 5283;5284 5289	冠状动脉 平滑肌细胞
+T166	Anatomy 5400 5407	血管平滑肌细胞
+T167	Anatomy 5408 5413	内膜基底层
+T168	Anatomy 5417 5420	内膜层
+T169	Anatomy 5451 5456	平滑肌细胞
+T170	Anatomy 5507 5511	心肌细胞
+T171	Disease 5564 5567	冠心病
+T172	Disease 5700 5702;5703 5709	心脏 收缩功能障碍
+T173	Anatomy 5714 5719	平滑肌细胞
+T174	Disease 5764 5770	内皮细胞损伤
+T175	Disease 5779 5785	血管免疫反应
+T176	Test 5818 5827	高敏 C 反应蛋白
+T177	Disease 6162 6164	心衰
+T178	Anatomy 6216 6217;6218 6221	巨 噬细胞
+T179	Anatomy 6251 6255	心肌细胞
+T180	Disease 6299 6300;6301 6302	心 衰
+T181	Drug 6500 6505;6506 6509	AFABP 抑制剂
+T182	Anatomy 6512 6516	血管内皮
+T183	Disease 3071 3074	冠心病
+T184	Test 2280 2283	IMT
+T185	Test 5966 5969	JNK
+T186	Anatomy 1137 1144	可溶性胞质蛋白
+T187	Anatomy 1266 1274	染色体 8q21
+T188	Anatomy 4847 4850	白细胞
+T189	Anatomy 4851 4855	内皮细胞
+T190	Anatomy 4867 4871	内皮细胞
+T191	Anatomy 5126 5135	eNOS mRNA
+T192	Anatomy 5297 5301	血管内膜
+T193	Anatomy 183 186	心血管
+T194	Test 1390 1394	脂质代谢
+T195	Disease 1395 1399	炎症反应
+T196	Anatomy 1429 1432	心血管
+T197	Anatomy 1445 1448	心血管
+T198	Anatomy 1568 1572	血液循环
+T199	Anatomy 2164 2167	心血管
+T200	Test 2336 2340	高频超声
+T201	Test 2520 2523	心音图
+T202	Anatomy 2712 2715	心血管
+T203	Disease 2793 2796	单支病
+T204	Disease 2799 2803	多支病变
+T205	Disease 3317 3319	死亡
+T206	Test 3884 3890	免疫组化染色
+T207	Anatomy 4393 4395;4396 4398	内脏 脂肪
+T208	Test 5210 5214	细胞因子
+T209	Test 5771 5774;5775 5776	炎症介 质
+T210	Disease 5992 5994	炎症
+T211	Disease 6072 6076	炎症反应
+T212	Disease 6144 6146	炎症
+T213	Disease 6186 6188	心衰
+T214	Disease 6195 6197	炎症
+T215	Disease 6259 6262	心脏病
+T216	Test 6278 6281	心功能
+T217	Test 6065 6069	促炎因子
+T218	Anatomy 1169 1173	组织细胞
+T219	Anatomy 1354 1360	(PPARγ
+T220	Anatomy 4417 4419	脂肪
+T221	Anatomy 4802 4804	内皮
+T222	Disease 4872 4873;4874 4877	炎 性损伤
+T223	Anatomy 5104 5106	血管
+T224	Anatomy 1300 1303	氨基酸
+T225	Anatomy 1290 1293	蛋白质
+T226	Anatomy 1683 1686	内质网
+T227	Anatomy 1742 1744	微泡
+T228	Test_Value 2191 2195	明显高于
+T229	Duration 2630 2634	6 个月
+T230	Test_Value 2757 2760;2761 2762	显著高 于
+T231	Test 2805 2811	左主干支狭窄
+T232	Test_Value 2811 2815	>50%
+T233	Test_Value 2859 2884	9. 8(5. 9 ~ 14. 0)ng / ml
+T234	Test_Value 2887 2912	7. 2(4. 5 ~ 11. 5)ng / ml
+T235	Test_Value 2916 2946	21. 43(16. 0 ~ 36. 8]) ng / ml
+T236	Test_Value 2949 2978	15. 0 (10. 5 ~ 21. 7) ng / ml
+T237	Test 3077 3083	血管斑块体积
+T238	Test_Value 3218 3219	高
+T239	Test_Value 3417 3453;3454 3475	36. 5 (27. 8 ~ 48. 8) μg / L 对 33. 1 (26. 3 ~ 41. 2)μg / L
+T240	Anatomy 3580 3582	斑块
+T241	Anatomy 3605 3607	斑块
+T242	Anatomy 3948 3952	脂质斑块
+T243	Anatomy 4013 4021	激素敏感性脂肪酶
+T244	Anatomy 4027 4029	脂肪
+T245	Anatomy 4033 4036	脂肪酸
+T246	Anatomy 3908 3912	粥样斑块
+T247	Anatomy 3926 3929	斑块的
+T248	Anatomy 4046 4050	脂质斑块
+T249	Anatomy 4081 4085	脂质条纹
+T250	Anatomy 4087 4089;4090 4092	脂质 斑块
+T251	Anatomy 4119 4122	血管壁
+T252	Anatomy 4148 4152	脂质条纹
+T253	Test_Value 4353 4355	较高
+T254	Test 4361 4369	PPARγ 水平
+T255	Test_Value 4370 4372	降低
+T256	Reason 4626 4632	内皮损伤修复
+T257	Reason 4637 4644	损伤-反应学说
+T258	Anatomy 4900 4902;4903 4904	血小 板
+T259	Disease 4915 4917	血栓
+T260	Anatomy 5018 5022	胶原纤维
+T261	Anatomy 5023 5027	弹力纤维
+T262	Anatomy 5093 5097	eNOS
+T263	Reason 5183 5188	单克隆学说
+T264	Anatomy 5228 5230	脂质
+T265	Anatomy 5433 5437	Ca2+
+T266	Anatomy 5467 5471	Ca2+
+T267	Test 5530 5536	Ca2+峰值
+T268	Test_Value 5561 5563	升高
+T269	Test_Value 5589 5591	升高
+T270	Anatomy 5689 5693	Ca2+
+T271	Anatomy 5729 5733	Ca2+
+T272	Test 5898 5907	炎症因子的生成水平
+T273	Test_Value 5907 5909	下降
+T274	Anatomy 5953 5965	c-Jun N 末端激酶
+T275	Test_Value 6183 6185	高于
+T276	Anatomy 6224 6227	内质网
+T277	Anatomy 1761 1765	Ca2+
+T278	Test_Value 2659 2661	下降
+T279	Test_Value 2685 2687	下降
+T280	Test_Value 3616 3618	升高
+T281	Test 4172 4173;4174 4182	低 密度脂蛋白胆固醇
+T282	Disease 2305 2314	亚临床动脉粥样硬化
+T283	Anatomy 1254 1259	AFABP
+T284	Test 1874 1882	血清 AFABP
+T285	Test 1928 1939	血清 AFABP 水平
+T286	Test 1996 2007	血清 AFABP 水平
+T287	Test 2178 2191	血清 AFABP 平均水平
+T288	Test 2588 2596	血清 AFABP
+T289	Test 2643 2648	AFABP
+T290	Test 2665 2670	AFABP
+T291	Test 2745 2756	血清 AFABP 水平
+T292	Test 2837 2847	清 AFABP 水平
+T293	Reason 3016 3018;3019 3027	血清 AFABP 水平
+T294	Test 3118 3129	血清 AFABP 水平
+T295	Test 3198 3209	血清 AFABP 水平
+T296	Reason 3303 3314	血清 AFABP 水平
+T297	Test 3403 3416	血清基线 AFABP 水平
+T298	Test 4345 4353	AFABP 水平
+T299	Test 4745 4747;4748 4756	血清 AFABP 水平
+T300	Anatomy 5265 5273	AFABP 抗体
+T301	Test 5549 5550;5551 5561	血 清 AFABP 水平
+T302	Test 5808 5816	血清 AFABP
+T303	Test 6169 6180	血清 AFABP 水平
+T304	Test 6305 6316	血清 AFABP 水平
+T305	Anatomy 1602 1610	脂肪细胞源性微泡
+T306	Anatomy 1640 1651	3T3-L1 脂肪细胞
+T307	Disease 3163 3169	缺血性脑卒中
+T308	Disease 3278 3281	脑卒中
+T309	Disease 3637 3640	脑卒中
+T310	Disease 3131 3133	AS
+T311	Anatomy 107 119	脂肪细胞型脂肪酸结合蛋白
+T312	Anatomy 170 179	脂质结合蛋白超家族
+T313	Anatomy 271 283	脂肪细胞型脂肪酸结合蛋白
+T314	Anatomy 1197 1200	脂肪酸
+T315	Anatomy 1313 1318;1319 1322	氧化低密度 脂蛋白
+T316	Reason 1415 1418	糖尿病
+T317	Reason 1419 1420;1421 1423	高 血压
+T318	Reason 1424 1428	血脂紊乱
+T319	Anatomy 1557 1561	细胞因子
+T320	Anatomy 1718 1721	胰岛素
+T321	Test 1850 1854	肾脏排泄
+T322	Test_Value 1854 1856	减少
+T323	Test 1832 1843	血清 AFABP 水平
+T324	Test_Value 1843 1847	明显增高
+T325	Test 1897 1906	估算的肾小球滤过率
+T326	Test 2048 2053	总脂肪含量
+T327	Test 2023 2027	脂肪含量
+T328	Test 2269 2278	颈动脉内膜中层增厚
+T329	Anatomy 2290 2293	动脉壁
+T330	Test 2377 2380	IMT
+T331	Test 2524 2531	肱动脉脉搏波形
+T332	Test 2532 2539	踝动脉脉搏波形
+T333	Disease 2778 2782	冠脉病变
+T334	Level 3276 3278	急性
+T335	Level 3633 3637	非致命性
+T336	Reason 3971 3979	体内脂质代谢紊乱
+T337	Anatomy 4066 4073	针状胆固醇结晶
+T338	Anatomy 4076 4080	泡沫细胞
+T339	Anatomy 4103 4109	低密度脂蛋白
+T340	Anatomy 4235 4240	PPARγ
+T341	Anatomy 4245 4248	胆固醇
+T342	Anatomy 4334 4340	腹内脂肪组织
+T343	Anatomy 4446 4450	胆固醇酯
+T344	Anatomy 4498 4502	胆固醇酯
+T345	Anatomy 4534 4538	胆固醇酯
+T346	Reason 4657 4663	内皮细胞受损
+T347	Reason 4672 4680	内皮细胞功能障碍
+T348	Test 4719 4726	反应性充血指数
+T349	Test 4758 4761	RHI
+T350	Disease 4768 4774	内皮细胞受损
+T351	Anatomy 4777 4780;4781 4782	生长因 子
+T352	Anatomy 4832 4842	血管细胞黏附蛋白 1
+T353	Anatomy 4881 4886	5-羟色胺
+T354	Anatomy 4888 4894	血管活性物质
+T355	Drug 4923 4934	AFABP 抑 制 剂
+T356	Anatomy 4968 4973	5-羟色胺
+T357	Anatomy 4984 4988	一氧化氮
+T358	Anatomy 5171 5178	血管平滑肌细胞
+T359	Anatomy 5232 5236	粥样斑块
+T360	Anatomy 4993 5002	内皮型一氧化氮合酶
+T361	Anatomy 5422 5424	内膜
+T362	Anatomy 5443 5447	生长因子
+T363	Test 5569 5585	血清 NT-proBNP 的水平
+T364	Test 5597 5602	PPARγ
+T365	Test 5642 5651	NT-proBNP
+T366	Reason 5758 5762	炎症学说
+T367	Anatomy 5867 5875	肿瘤坏死因子 α
+T368	Anatomy 5876 5880;5881 5887	单核细胞 趋化蛋白-1
+T369	Anatomy 5889 5896	白细胞介素 6
+T370	Anatomy 5935 5947;5948 5950	细胞内脂多糖激活的核因子 κB
+T371	Anatomy 6041 6044	脂多糖
+T372	Anatomy 6094 6097	脂多糖
+T373	Test 6359 6363	脂质代谢
+T374	Disease 6364 6366	炎症
+T375	Reason 6437 6443;6444 6447	参与了脂质斑 块形成
+T376	Reason 6455 6469	促进血管平滑肌细胞增殖及迁移
+T377	Reason 6470 6472;6473 6477	加强 炎症反应
+T378	Disease 6546 6551	心血管疾病
+T379	Reason 6448 6454	诱导内皮损伤
+T380	Anatomy 6232 6236	促炎因子
+T381	Anatomy 5072 5076;5077 5079	血管内皮 细胞
+T382	Test 2422 2425	IMT
+T383	Anatomy 6048 6051	JNK
+T384	Anatomy 6080 6083	JNK
+T385	Anatomy 1125 1130	长链脂肪酸
+T386	Anatomy 1307 1312	长链脂肪酸
+T387	Anatomy 1338 1349;1350 1354	过氧化物酶体增殖物激活 受体 γ
+T388	Test_Value 1970 1981	≥25 kg / m2
+T389	Anatomy 4315 4320	PPARγ
+T390	Anatomy 4404 4409	PPARγ
+T391	Anatomy 4489 4491;4492 4493	脂蛋 白
+T392	Anatomy 4583 4586	胆固醇
+T393	Test 4711 4716;4717 4719	血管内皮功 能的
+T394	Test 4701 4707	外周动脉张力
+T395	Anatomy 4949 4957	抑制性 G 蛋白
+T396	Anatomy 5031 5034	血小板
+T397	Anatomy 5100 5102	NO
+T398	Anatomy 5140 5144	eNOS
+T399	Anatomy 5150 5152	NO
+T400	Anatomy 5328 5339	核转录因子 c-Jun
+T401	Anatomy 5342 5347	c-myc

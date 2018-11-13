@@ -1,0 +1,443 @@
+T1	Disease 2685 2691	1 型糖尿病
+T2	Disease 2707 2713	1 型糖尿病
+T3	Disease 2884 2890	1 型糖尿病
+T4	Disease 2999 3005	1 型糖尿病
+T5	Disease 3297 3303	1 型糖尿病
+T6	Disease 6386 6392	2 型糖尿病
+T7	Disease 6577 6579;6580 6583	糖尿 病肾病
+T8	Test 1236 1241	HBA1C
+T9	Test 3035 3040	HBA1C
+T10	Test 1074 1079	谷丙转氨酶
+T11	Test 1736 1741	谷丙转氨酶
+T12	Test 1041 1046	谷草转氨酶
+T13	Test 1720 1725	谷草转氨酶
+T14	Test 869 873	体重指数
+T15	Test 2492 2496	体重指数
+T16	Test 3161 3165	体重指数
+T17	Test 5203 5207	体重指数
+T18	Test 1697 1700	肝功能
+T19	Test 3626 3629	肝功能
+T20	Test 3661 3664	肝功能
+T21	Test 3778 3781	肝功能
+T22	Test 1344 1347	肾功能
+T23	Test 3052 3054	尿酮
+T24	Test 859 861	身高
+T25	Test 742 744	体重
+T26	Test 850 852	体重
+T27	Test 2114 2116	体重
+T28	Disease 291 301	胰腺纤维钙化性糖尿病
+T29	Disease 339 343	FCPD
+T30	Disease 387 393	Z 型糖尿病
+T31	Disease 512 516	FCPD
+T32	Symptom 555 557	口干
+T33	Symptom 558 560	多饮
+T34	Symptom 561 563	多尿
+T35	Symptom 564 566	消瘦
+T36	Duration 567 570	2 年
+T37	Symptom 600 602	口干
+T38	Symptom 603 605	多饮
+T39	Symptom 606 608	多尿
+T40	Symptom 610 612	多食
+T41	Symptom 613 615	消瘦
+T42	Symptom 616 622	大便次数增多
+T43	Symptom 637 641	黄色稀便
+T44	Test 691 695	指尖血糖
+T45	Test_Value 695 696;697 708	> 20 mmol / L
+T46	Test_Value 853 858	39 kg
+T47	Test_Value 862 868	170 cm
+T48	Test_Value 874 880;881 888	13. 49 kg / m2
+T49	Symptom 889 893	慢性病容
+T50	Symptom 894 898	消瘦体型
+T51	Symptom 899 903	皮肤干燥
+T52	Symptom 904 907	弹性差
+T53	Symptom 908 912	毛发稀疏
+T54	Test 913 915;916 922	肱三 头肌皮褶厚度
+T55	Test_Value 923 927	4 mm
+T56	Symptom 942 945	舟状腹
+T57	Symptom 946 949;950 952	腹部无 压痛
+T58	Symptom 953 959	肝脾肋下未及
+T59	Symptom 960 966	双下肢无浮肿
+T60	Symptom 967 977	双侧足背动脉搏动有力
+T61	Test 987 989	血糖
+T62	Test_Value 990 1004	30. 7 mmol / L
+T63	Test_Value 1038 1040	阴性
+T64	Test_Value 1047 1057	233 IU / L
+T65	Test_Value 1080 1090	161 IU / L
+T66	Test 1106 1112	谷氨酰转肽酶
+T67	Test_Value 1113 1116;1117 1123	968 IU / L
+T68	Test 1139 1149	糖类抗原 CA199
+T69	Test_Value 1150 1163	102. 2 U / ml
+T70	Test 1191 1197	空腹 C 肽
+T71	Test_Value 1198 1210	0. 2 ng / ml
+T72	Test_Value 1222 1235	0. 49 ng / ml
+T73	Test_Value 1242 1248	12. 7%
+T74	Test 1251 1256	胰岛素抗体
+T75	Test 1257 1264;1265 1266	谷氨酸脱羧酶抗 体
+T76	Test 1276 1283	肝炎病毒标志物
+T77	Test_Value 1285 1287	阴性
+T78	Test 1348 1350	血脂
+T79	Test 1351 1354	电解质
+T80	Test 1371 1373	潜血
+T81	Test_Value 1373 1375	阴性
+T82	Disease 1416 1422	结肠气囊肿病
+T83	Test 1434 1442	上腹部强化 CT
+T84	Test 1472 1473;1474 1481	磁 共振胆胰管成像
+T85	Test 1527 1531	MRCP
+T86	Disease 1568 1572	FCPD
+T87	Disease 1576 1579	肝损害
+T88	Drug 1595 1606	生物合成人胰岛素注射液
+T89	Method 1607 1611	皮下注射
+T90	Method 1629 1633	皮下注射
+T91	Drug 1635 1640	甘草酸二胺
+T92	Drug 1641 1645	谷胱甘肽
+T93	Test 1674 1679	CA199
+T94	Test_Value 1682 1694	58. 0 U / ml
+T95	Test_Value 1726 1735	52 IU / L
+T96	Test_Value 1742 1751	62 IU / L
+T97	Test 1752 1758	谷氨酰转肽酶
+T98	Test_Value 1759 1769	548 IU / L
+T99	Drug 1771 1774	胰岛素
+T100	Amount 1778 1786	46 U / d
+T101	Test 1797 1800;1801 1802	空腹血 糖
+T102	Test_Value 1803 1822	5. 2 ~ 7. 3 mmo / L
+T103	Test 1823 1832	餐后 2 h 血糖
+T104	Test_Value 1833 1852	7. 6 ~ 9. 8 mmo / L
+T105	Test 1877 1887	内径下逆行胰胆管造影
+T106	Test 1937 1941	ERCP
+T107	Operation 1942 1947	支架置入术
+T108	Anatomy 1953 1958	胰管体尾部
+T109	Anatomy 1975 1977	胰管
+T110	Test_Value 2117 2125	44. 5 kg
+T111	Test 2169 2171	潜血
+T112	Test_Value 2171 2173	阴性
+T113	Drug 2186 2187;2188 2190	胰 岛素
+T114	Frequency 2191 2198	4 次 / d
+T115	Disease 2252 2256	FCPD
+T116	Disease 2259 2269	营养不良相关性糖尿病
+T117	Disease 2309 2319	营养不良相关性糖尿病
+T118	Disease 2323 2327	FCPD
+T119	Disease 2399 2412	蛋白质、热能缺乏性营养不良
+T120	Disease 2418 2422	FCPD
+T121	Symptom 2425 2427	腹痛
+T122	Symptom 2428 2432	胰腺结石
+T123	Symptom 2433 2436	脂肪泻
+T124	Disease 2437 2440	糖尿病
+T125	Symptom 2489 2491	消瘦
+T126	Test_Value 2496 2507	<20 kg / m2
+T127	Symptom 2517 2521	反复腹痛
+T128	Test 2534 2536	彩超
+T129	Test 2537 2539	CT
+T130	Test 2540 2543	X 线
+T131	Test 2545 2549	ERCP
+T132	Disease 2582 2585	胆石症
+T133	Disease 2591 2596	慢性胰腺炎
+T134	Drug 2611 2614	胰岛素
+T135	Disease 2629 2633	FCPD
+T136	Symptom 2643 2647	体型消瘦
+T137	Test 2655 2658	C 肽
+T138	Drug 2668 2671	胰岛素
+T139	Disease 2718 2720	酮症
+T140	Disease 2725 2729	FCPD
+T141	Test 2732 2734	血糖
+T142	Test_Value 2734 2738	明显增高
+T143	Disease 2744 2745;2746 2747	酮 症
+T144	Disease 2864 2868	FCPD
+T145	Test 2871 2877	胰岛自身抗体
+T146	Test_Value 2879 2881	阴性
+T147	Disease 2916 2920	FCPD
+T148	Test 2893 2898;2899 2900	胰岛自身抗 体
+T149	Disease 2930 2934	FCPD
+T150	Symptom 2910 2914	胰腺结石
+T151	Symptom 2947 2951	胰管结石
+T152	Anatomy 2956 2962	第一、二腰椎
+T153	Anatomy 2980 2982	胰腺
+T154	Test 3024 3026	血糖
+T155	Test_Value 3026 3030	明显增高
+T156	Test 3031 3033	血糖
+T157	Disease 3042 3043;3044 3046	糖 尿病
+T158	Test 3058 3063	胰岛素抗体
+T159	Test 3064 3071;3072 3073	谷氨酸脱羧酶抗 体
+T160	Test 3074 3080	胰岛细胞抗体
+T161	Test_Value 3080 3082	阴性
+T162	Test_Value 3168 3182	13. 49 kg / m2
+T163	Test 3184 3186	CT
+T164	Test 3189 3193	MRCP
+T165	Test_Value 3231 3233	低下
+T166	Symptom 3240 3243	脂肪泻
+T167	Drug 3246 3247;3248 3250	胰 岛素
+T168	Test 3253 3255	血糖
+T169	Symptom 3267 3270	脂肪泻
+T170	Disease 3310 3314	FCPD
+T171	Symptom 3318 3320	腹痛
+T172	Test 3370 3376	空腹 C 肽
+T173	Symptom 3348 3350	腹痛
+T174	Test_Value 3377 3389	0. 2 ng / ml
+T175	Test_Value 3401 3406;3407 3414	0. 49 ng / ml
+T176	Drug 3443 3446	胰岛素
+T177	Drug 3456 3460	胰岛素泵
+T178	Disease 416 419	糖尿病
+T179	Drug 3484 3487	胰岛素
+T180	Amount 3488 3496	20 U / d
+T181	Amount 3501 3513	0. 51 U / kg
+T182	Drug 3525 3528	胰岛素
+T183	Amount 3534 3542	46 U / d
+T184	Amount 3547 3551;3552 3558	1. 2 U / kg
+T185	Disease 3587 3591	FCPD
+T186	Disease 3616 3620	FCPD
+T187	Test 3638 3641	转氨酶
+T188	Test_Value 3642 3644	增高
+T189	Test 3668 3675	肝炎病毒标志物
+T190	Test 3677 3686	自身免疫性肝病抗体
+T191	Test_Value 3688 3690	阴性
+T192	Anatomy 3696 3698	肝脏
+T193	Disease 3712 3719	自身免疫性肝病
+T194	Disease 3720 3725	病毒性肝炎
+T195	Disease 3726 3728	肝癌
+T196	Disease 3729 3732	脂肪肝
+T197	Disease 3798 3802	FCPD
+T198	Disease 3807 3813	药物性肝损害
+T199	Disease 3855 3866	结 肠 气 囊 肿 症
+T200	Anatomy 3915 3917	结肠
+T201	Anatomy 3957 3961	乙状结肠
+T202	Disease 3971 3977	结肠气囊肿症
+T203	Anatomy 4010 4015	肠壁淋巴管
+T204	Disease 4069 4075	结肠气囊肿症
+T205	Disease 4085 4091	结肠气囊肿症
+T206	Disease 4093 4097	FCPD
+T207	Test 4147 4151	ERCP
+T208	Anatomy 4172 4174	胰腺
+T209	Drug 4293 4296	胰岛素
+T210	Operation 4303 4307	ERCP
+T211	Test 4321 4327	血清 C 肽
+T212	Disease 4361 4366	慢性胰腺炎
+T213	Anatomy 4396 4400	胰腺组织
+T214	Anatomy 4416 4418	胰腺
+T215	Disease 4434 4439	慢性胰腺炎
+T216	Disease 4465 4473	酒精性慢性胰腺炎
+T217	Disease 4526 4530;4531 4535	特发性慢 性胰腺炎
+T218	Disease 4591 4599	自身免疫性胰腺炎
+T219	Disease 4600 4606	热带性胰腺炎
+T220	Disease 4655 4661	酒精性胰腺炎
+T221	Disease 4665 4671	热带性胰腺炎
+T222	Symptom 4711 4715	胰腺钙化
+T223	Symptom 4716 4719	脂肪泻
+T224	Disease 4721 4724	糖尿病
+T225	Test 4784 4786	CT
+T226	Anatomy 4794 4796	胰管
+T227	Anatomy 4828 4830	胰腺
+T228	Disease 4883 4889	热带性胰腺炎
+T229	Symptom 4904 4906	腹痛
+T230	Symptom 4912 4916	胰腺钙化
+T231	Symptom 4931 4934	脂肪泻
+T232	Disease 4941 4944	糖尿病
+T233	Disease 4966 4969	胰腺癌
+T234	Disease 4989 4995	热带性胰腺炎
+T235	Disease 5003 5007	FCPD
+T236	Disease 5017 5021	FCPD
+T237	Disease 5023 5029	热带性胰腺炎
+T238	Disease 5059 5065	热带性胰腺炎
+T239	Disease 5102 5108	热带性胰腺炎
+T240	Disease 5120 5123	糖尿病
+T241	Disease 5148 5151	糖尿病
+T242	Disease 5169 5172	糖尿病
+T243	Disease 5173 5179	热带性胰腺炎
+T244	Disease 5192 5198	热带性胰腺炎
+T245	Disease 5188 5191	糖尿病
+T246	Disease 5227 5231	FCPD
+T247	Disease 5233 5239	热带性胰腺炎
+T248	Disease 5268 5273;5274 5275	热带性胰腺 炎
+T249	Disease 5277 5281	FCPD
+T250	Disease 5304 5307	糖尿病
+T251	Disease 5309 5315	热带性胰腺炎
+T252	Disease 5346 5352	热带性胰腺炎
+T253	Disease 5354 5358	FCPD
+T254	Reason 5402 5406	营养不良
+T255	Reason 5424 5426;5427 5429	氧化 应激
+T256	Reason 5430 5436	微量元素缺乏
+T257	Disease 5489 5493	FCPD
+T258	Anatomy 5511 5515	CASR
+T259	Anatomy 5561 5565	CASR
+T260	Anatomy 5596 5600	CASR
+T261	Disease 5610 5616	热带性胰腺炎
+T262	Disease 5677 5682	慢性胰腺炎
+T263	Disease 5694 5701	热带慢性胰腺炎
+T264	Disease 5709 5717	先天性慢性胰腺炎
+T265	Disease 5723 5729	酒精性胰腺炎
+T266	Anatomy 5766 5771	G191R
+T267	Disease 5778 5786	热带钙化性胰腺炎
+T268	Disease 5830 5834	FCPD
+T269	Test 5840 5841	铜
+T270	Test 5842 5843	锌
+T271	Test 5845 5846	镁
+T272	Anatomy 5857 5859	胰腺
+T273	Disease 5868 5872	FCPD
+T274	Disease 5912 5915	糖尿病
+T275	Disease 5927 5931	FCPD
+T276	Symptom 5935 5936;5937 5938	腹 痛
+T277	Disease 5969 5973	FCPD
+T278	Drug 5982 5985	胰岛素
+T279	Symptom 6016 6018	腹痛
+T280	Operation 6047 6051;6052 6058	内镜下胰 管支架置入术
+T281	Operation 6107 6108;6109 6116	胰 空肠侧侧吻合术
+T282	Operation 6117 6122	端侧吻合术
+T283	Symptom 6125 6130	顽固性腹痛
+T284	Disease 6169 6173	FCPD
+T285	Operation 6179 6188	胰腺体外冲击波碎石
+T286	Symptom 6307 6309	腹痛
+T287	Disease 6375 6379	FCPD
+T288	Disease 6408 6413	视网膜病变
+T289	Disease 6414 6416	肾病
+T290	Disease 6417 6421	神经病变
+T291	Disease 6423 6429	外周血管病变
+T292	Disease 6441 6445	FCPD
+T293	Disease 6463 6466	糖尿病
+T294	Disease 6472 6476	FCPD
+T295	Disease 6481 6486	视网膜病变
+T296	Disease 6515 6517	肾病
+T297	Disease 6547 6551	神经病变
+T298	Disease 6593 6596	胰腺癌
+T299	Disease 6598 6603	慢性胰腺炎
+T300	Disease 6609 6611;6612 6614	营养 不良
+T301	Disease 6615 6617	感染
+T302	Disease 6640 6642	感染
+T303	Disease 6643 6646	胰腺癌
+T304	Test 1788 1790	血糖
+T305	Test 3516 3518	血糖
+T306	Test 3559 3561	血糖
+T307	Test_Value 1340 1342	阴性
+T308	Symptom 2126 2140	大便 1 ~ 3 次 / d
+T309	Method 2208 2210	口服
+T310	Drug 2210 2212	胰酶
+T311	Level 2487 2489	明显
+T312	Reason 2562 2565	纤维化
+T313	Test_Value 2900 2902	阳性
+T314	Test_Value 3257 3261	逐渐下降
+T315	Drug 3264 3266	胰酶
+T316	Method 3460 3464	持续泵入
+T317	Treatment 3754 3756	中药
+T318	Treatment 3766 3768	中药
+T319	Test 4047 4050;4051 4052	超声内 镜
+T320	Reason 4144 4146	萎缩
+T321	Reason 4821 4827	萎缩和脂肪化
+T322	Drug 5991 5993	胰酶
+T323	Disease 6448 6453	心血管病变
+T324	Disease 32 35	糖尿病
+T325	Disease 48 58	胰腺纤维钙化性糖尿病
+T326	Disease 405 408	糖尿病
+T327	Disease 425 432	特殊类型糖尿病
+T328	Duration 591 594	2 年
+T329	Disease 713 716	糖尿病
+T330	Symptom 763 765	腹痛
+T331	Disease 835 838	糖尿病
+T332	Symptom 933 941	心肺查体未见异常
+T333	Test_Value 1059 1065;1066 1072	0 ~ 40 IU / L
+T334	Test_Value 1091 1104	0 ~ 65 IU / L
+T335	Test_Value 1010 1021;1022 1030	3. 9 ~ 6. 1 mmol / L
+T336	Test_Value 1124 1137	0 ~ 55 IU / L
+T337	Test_Value 1165 1175	<37 U / ml
+T338	Test 1180 1185	肿瘤标志物
+T339	Test_Value 1186 1190	正常范围
+T340	Test_Value 1354 1358	正常范围
+T341	Test 2159 2163	大便常规
+T342	Disease 2245 2248	糖尿病
+T343	Anatomy 2334 2336	胰腺
+T344	Disease 2474 2477	糖尿病
+T345	Test 2648 2651;2652 2653	胰岛功 能
+T346	Anatomy 2819 2823	肾上腺素
+T347	Anatomy 2826 2830	皮下脂肪
+T348	Test_Value 3055 3057	阴性
+T349	Disease 3102 3104	酗酒
+T350	Test 3114 3119	乙醇折合量
+T351	Test_Value 3120 3128	40 g / d
+T352	Duration 3108 3111	5 年
+T353	Test_Value 3141 3149	80 g / d
+T354	Duration 3134 3138;3139 3140	2 周以 上
+T355	Test 3234 3238	大便常规
+T356	Disease 3282 3286	FCPD
+T357	Test 3364 3370	胰岛功能检查
+T358	Anatomy 3419 3421	胰岛
+T359	Frequency 3447 3454	4 次 / d
+T360	Symptom 3479 3481	消瘦
+T361	Drug 3575 3578	胰岛素
+T362	Drug 3593 3596	胰岛素
+T363	Symptom 3702 3703;3704 3706	脂 肪化
+T364	Anatomy 3918 3920	黏膜
+T365	Anatomy 3922 3924	浆膜
+T366	Anatomy 3929 3934	含气性囊肿
+T367	Anatomy 4003 4005	黏膜
+T368	Disease 4025 4028	气囊肿
+T369	Reason 4449 4451	酗酒
+T370	Disease 4643 4652	其他类型慢性胰腺炎
+T371	Symptom 4687 4689	酗酒
+T372	Anatomy 4770 4772	胰腺
+T373	Reason 4920 4921;4922 4930	胰 腺外分泌功能异常
+T374	Disease 4996 4999	糖尿病
+T375	Reason 5414 5416	毒素
+T376	Anatomy 6061 6063	胰管
+T377	Anatomy 6095 6097	胰管
+T378	Symptom 6239 6241	疼痛
+T379	Symptom 6251 6253	疼痛
+T380	Test 6520 6522;6523 6525	体重 指数
+T381	Test 6559 6563	体重指数
+T382	Test 6489 6492	收缩压
+T383	Test 1035 1037	尿酮
+T384	Anatomy 2762 2769	胰岛 β 细胞
+T385	Test 1211 1219;1220 1221	餐后 2 h C 肽
+T386	Test 1267 1273	胰岛细胞抗体
+T387	Test_Value 1273 1275	阴性
+T388	Test 1359 1361;1362 1367	大便 常规脂肪球
+T389	Test_Value 1368 1370	2+
+T390	Test 1397 1400	结肠镜
+T391	Test_Value 1403 1409;1410 1413	结肠多发串珠 样隆起
+T392	Reason 1444 1450	胰管多发结石
+T393	Reason 1453 1460	胰腺多发钙化灶
+T394	Reason 1461 1465	胰管扩张
+T395	Reason 1533 1542	胰管多发结石并扩张
+T396	Reason 1543 1553	胆总管扩张并下端狭窄
+T397	Drug 1615 1629	精蛋白生物合成人胰岛素注射液
+T398	Drug 1650 1652	胰酶
+T399	Anatomy 1990 1995	乳头括约肌
+T400	Test 2163 2166	脂肪球
+T401	Test_Value 2166 2168	阴性
+T402	Method 2199 2203	皮下注射
+T403	Disease 2344 2348	FCPD
+T404	Reason 2556 2557;2558 2561	胰 管结石
+T405	Reason 2566 2570	胰管扩张
+T406	Test_Value 2659 2663	低平曲线
+T407	Anatomy 2787 2791	皮下脂肪
+T408	Symptom 3155 3157	消瘦
+T409	Test_Value 3199 3205	胰管多发结石
+T410	Test_Value 3208 3213	胰腺钙化灶
+T411	Test_Value 3214 3216;3217 3219	胰管 扩张
+T412	Test 3226 3229	C 肽
+T413	Test 3390 3400	餐后 2 h C 肽
+T414	Test 3790 3792;3793 3794	肝功 能
+T415	Test 3821 3824	结肠镜
+T416	Reason 3832 3849	结 肠 多 发 串 珠 样 隆 起
+T417	Anatomy 3943 3948	横结肠脾曲
+T418	Reason 4135 4143	胰腺实质多发钙化
+T419	Reason 4155 4160;4161 4163	胰管内结石 钙化
+T420	Anatomy 4252 4254	胰腺
+T421	Reason 4812 4820	胰腺组织的纤维化
+T422	Disease 4953 4958	慢性胰腺炎
+T423	Test 5212 5213;5214 5219	粪 便糜蛋白酶
+T424	Reason 5417 5423	家族遗传因素
+T425	Anatomy 5518 5527	SPINK1 基因
+T426	Anatomy 5547 5553	SPINK1
+T427	Anatomy 5554 5558	N34S
+T428	Anatomy 5631 5640	SPINK1 基因
+T429	Anatomy 5733 5738	G191R
+T430	Anatomy 5756 5764	PRSS2 基因
+T431	Drug 5961 5964	阿片类
+T432	Symptom 6029 6033	胰管结石
+T433	Symptom 6034 6038	腹部疼痛
+T434	Operation 6141 6148	次全胰腺切除术
+T435	Operation 6194 6198	ERCP
+T436	Disease 6324 6327	糖尿病
+T437	Test 6493 6494;6495 6501	糖 基化血红蛋白
+T438	Test 6526 6533	糖基化血红蛋白
+T439	Disease 6503 6506	糖尿病
+T440	Disease 6534 6537	糖尿病
+T441	Test 6555 6557	年龄
+T442	Disease 6647 6650	胰腺炎
+T443	Anatomy 2774 2776;2777 2780	胰高 血糖素

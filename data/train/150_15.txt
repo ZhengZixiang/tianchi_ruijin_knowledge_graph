@@ -1,0 +1,234 @@
+基础研究
+基金项目:国家自然科学基金(81300214);湖北省自然科学基金
+(2013CFB378)
+陈曼华),老年科(刘玮、张韶英)
+睾酮抑制大鼠血管平滑肌细胞表型转化和
+增殖
+周炜  刘玮  廖华  曹喆  谢寒  张韶英  陈曼华
+[摘要]   目的  研究睾酮对氧化型低密度脂蛋白(ox-LDL)诱导大鼠血管平滑肌细胞(VSMCs)表型
+转化和增殖的抑制作用,并探讨其可能机制。 方法 培养大鼠 VSMCs,将细胞分为对照组、ox-LDL 组(50
+μg / ml)、血清组(10%胎牛血清)、睾酮组(5×10-8或 5×10-7mol / L 睾酮加 50 μg / ml ox-LDL)。 水溶性四甲基
+偶氮唑盐(WST-1)法检测各组细胞增殖的变化;流式细胞仪检测各组细胞周期的变化;Western 印迹法检
+测各组细胞线粒体融合素 2 蛋白(Mfn2)、磷酸化细胞外信号调节激酶 1 / 2 蛋白(p-ERK1 / 2)、增殖细胞核
+抗原(PCNA)、α-平滑肌肌动蛋白(α-SMA)及骨桥蛋白(OPN)表达水平。 结果 与对照组比较,ox-LDL 组
+细胞增殖能力增强(P<0. 05),G0 / G1 期细胞比例降低(P<0. 05),S 期细胞比例增加(P<0. 05),Mfn2 和
+α-SMA 蛋白表达降低(P<0. 05),p-ERK1 / 2、PCNA、OPN 表达增加(P<0. 05)。 与 ox-LDL 组比较,不同浓度
+睾酮组细胞增殖受抑制(P<0. 05),G0 / G1 期细胞比例增加(P<0. 05),S 期细胞比例降低(P<0. 05),Mfn2
+和 α-SMA 表达增加(P<0. 05),p-ERK1 / 2、PCNA 和 OPN 表达降低(P<0. 05)。 结论 睾酮抑制 ox-LDL 诱
+导的大鼠 VSMCs 表型转化及增殖,可能与其上调 Mfn2、抑制 ERK1 / 2 信号通路有关。
+[关键词]   睾酮; 血管平滑肌细胞; 线粒体融合素 2; 表型; 增殖
+Testosterone suppresses rat vascular smooth muscle cell phenotypic transition and proliferation Zhou Wei*,
+Liu Wei, Liao Hua, Cao Ze, Xie Han, Zhang Shaoyin, Chen Manhua. *Department of Cardiology, the Central
+Hospital of Wuhan, Wuhan 430014, China
+[Abstract]  Objective  To investigate the inhibitory effect of testosterone on oxidized low-density lipoproteins
+(ox-LDL)-stimulated phenotypic transition and proliferation of vascular smooth muscle cells(VSMCs) in vitro, and to
+explore its possible mechanisms. Methods Rat VSMCs cultured in vitro were divided into control group, ox-LDL
+group(50 μg / ml ox-LDL), fetal bovine serum(FBS)group(10% FBS), and testosterone groups(5×10-8 or 5×10-7
+mol / L testosterone plus 50 μg / ml ox-LDL). The effect of testosterone on ox-LDL-induced proliferation of VSMCs was
+explored by WST-1 assay. The cell cycle distribution was determined using flow cytometry. Western blotting was used
+to detect the expressions of mitofusin2 (Mfn2), phosphorylated extracellular signal-regulated kinases 1 / 2 (p-ERK1 /
+2), proliferating cell nuclear antigen (PCNA), α-smooth muscle actin (α-SMA),and osteopontin (OPN). Results
+Compared with control group, the proliferation of VSMCs was promoted by ox-LDL, the number of VSMCs decreased in
+G0 / G1 phase and increased in S phase significantly, the expression levels of Mfn2 and α-SMA were significantly
+reduced, and the expression levels of p-ERK1 / 2, PCNA, and OPN were significantly raised in ox-LDL group.
+Compared with ox-LDL group, the proliferation of VSMCs was inhibited, the number of VSMCs increased in G0 / G1
+phase and decreased in S phase in two testosterone groups, along with the increased expressions of Mfn2 and α-SMA,
+and the descended expressions of p-ERK1 / 2, PCNA, and OPN. Conclusions Testosterone inhibits phenotypic
+transition and proliferation of VSMCs induced by ox-LDL in vitro, which may be related to the up-regulated expression
+of Mfn 2 and the suppression of ERK1 / 2 pathway.
+[Key words]  Testosterone; Vascular smooth muscle cell; Mitofusin2; Phenotype; Proliferation
+(Chin J Endocrinol Metab, 2015, 31: 806-809)
+在多种病理因素刺激下, 血管平滑肌细胞
+(vascular smooth muscle cells,VSMCs)发生表型转化和
+过度增殖在动脉粥样硬化( atherosclerosis,AS)、血管
+介入治疗术后再狭窄、高血压等心血管疾病的发生发
+展中起重要作用[1]。 流行病学研究发现,异常的睾酮
+水平可诱发腹型肥胖、2 型糖尿病以及高血压,是冠心
+病的独立危险因素,而生理浓度的睾酮具有抗 AS 作
+用,对内皮细胞的保护被认为是其机制之一[2]。 但睾
+酮能否调控 VSMCs 的表型转化和增殖,目前尚无相关
+研究。 本研究观察生理浓度睾酮对氧化型低密度脂蛋
+白 ( oxidized low density lipoprotein, ox-LDL) 诱导下
+VSMCs 表型转化和增殖的作用,以及对相关信号蛋白
+表达的影响,探讨睾酮抗 AS 的可能机制,为其临床应
+用提供新的实验依据。
+材料和方法
+一、 材料
+大鼠 VSMC 购自中科院上海细胞生物所细胞中
+心;DMEM 培养基、胎牛血清(Gibco);ox-LDL(上海尚
+善生物科技有限公司);睾酮、水溶性四甲基偶氮唑盐
+(WST-1)、碘化丙啶(PI)、RNase A 酶(Sigma);线粒体
+融合素 2(mitofusin2,Mfn2)抗体(Abcam);细胞外信号
+调节激酶 1 / 2 ( ERK1 / 2)及其磷酸化( p-ERK1 / 2)抗
+体、增 殖 细 胞 核 抗 原 ( PCNA) 抗 体、 β-肌 动 蛋 白
+(β-actin)抗体、 辣根过氧化物酶标记的 IgG ( Cell
+signaling);α-平滑肌肌动蛋白(α-SMA)抗体、骨桥蛋
+白(OPN)抗体(Santa cruz);本实验在武汉市中心医院
+实验室完成。
+二、 方法
+1. 细胞培养与实验分组:大鼠 VSMC 用含 10%胎
+牛血清 ( fetal calf serum, FBS) 的 DMEM 培养基在
+37℃、5% CO2的细胞培养箱中培养,0. 25% 胰蛋白酶
+消化传代,3 d 传一代,实验用第 4 ~ 5 代细胞。 将
+VSMCs 均匀接种于培养皿中,用含 10% FBS 的 DMEM
+培养液培养 24 h 后利用血清饥饿法进行同步化处理,
+按以下分组加入不同干预因素进行实验。 对照组:不
+加任何干预因素;血清组 (10% FBS):加入含 10%
+FBS 的培养基培养;ox-LDL 组:加入 50 μg / ml ox-LDL
+共培养;睾酮组:分别加入 5 × 10-8 mol / L 和 5 × 10-7
+mol / L 睾酮预处理 12 h,然后与 50 μg / ml ox-LDL 共培
+养。 睾酮浓度的选择参考本研究预实验结果及文
+献[3]。
+2. WST-1 法检测细胞增殖:将 VSMCs 以每孔 2×
+103个接种于 96 孔板,按上述方法处理后继续培养
+4 d。每天各组取 6 复孔,加入 WST-1 后按常规方法处
+理,酶标仪(450 nm 波长)测定各孔吸光度(A)值,代
+表细胞增殖能力。
+3. 流式细胞仪检测细胞周期:将 VSMCs 以每孔
+3×105个细胞接种于 35 mm 培养皿,按上述方法处理
+后培养 24 h,消化离心收集各组细胞,70% 冰乙醇固
+定,-20℃过夜,按常规方法加 RNase A 酶(100 μg / ml)
+和 PI 染液(50 μg / ml),流式细胞仪分析细胞周期,计
+算细胞 DNA 组方图各时相分布的百分比。 从左至右,
+第 1 峰为 G0 / G1 期,第 2 峰为 S 期。
+4. Western 印迹法检测相关蛋白表达:按上述方
+法处理后培养至 48 h。 细胞裂解法提取蛋白,紫外分
+光光度计测定蛋白浓度。 蛋白上样量均为 50 μg。 经
+电泳、转膜、封闭后,一抗(1 : 2 000)4℃孵育过夜。 缓
+冲液 洗 脱 后 加 入 辣 根 过 氧 化 物 酶 标 记 的 IgG
+(1 : 2 000)中室温孵育 2 h, ECL 系统进行检测。
+Quantity One 软件测定条带灰度值,并与 β-actin 灰度
+值进行比较。
+三、 统计学处理
+相关数据用 x-± s 表示,采用 SPSS 16. 0 统计软件
+进行单因素方差分析,组间两两比较采用 q 检验,以
+P<0. 05 为差异有统计学意义。
+结    果
+一、 睾酮对 ox-LDL 诱导 VSMCs 细胞增殖的影响
+在第 3、4 天,与对照组比较,血清组和 ox-LDL 组
+细胞增殖均增强(P<0. 05);与 ox-LDL 组比较,不同浓
+度睾酮组细胞增殖受到抑制(P<0. 05);在第 4 天,5×
+10-7mol / L 睾酮组较 5×10-8mol / L 睾酮组细胞增殖抑
+制更显著(P<0. 05,表 1)。
+二、 睾酮对 ox-LDL 诱导 VSMCs 细胞周期改变的
+影响
+与对照组比较,血清组和 ox-LDL 组 G0 / G1 期细
+胞数较少(P<0. 05),进入 S 期细胞数较多(P<0. 05)。
+与 ox-LDL 组比较, 不同浓度睾酮组 G0 / G1 期细胞数
+表 1  睾酮抑制 ox-LDL 诱导的 VSMC 增殖(x-± s, n=6)
+Tab 1  Inhibitory effects of testosterone on ox-LDL induced VSMC growth(x-± s, n=6)
+组别
+Group
+A(450nm)
+0 d 1 d 2 d 3 d 4 d
+CON 0. 136 ± 0. 02 0. 207 ± 0. 02 0. 229 ± 0. 02 0. 288 ± 0. 03 0. 365 ± 0. 04
+10% FBS 0. 129 ± 0. 02 0. 238 ± 0. 03 0. 459 ± 0. 03 0. 916 ± 0. 12a 1. 875 ± 0. 18a
+ox-LDL 0. 134 ± 0. 02 0. 226 ± 0. 02 0. 430 ± 0. 03 0. 871 ± 0. 09a 1. 452 ± 0. 17a
+T1 0. 139 ± 0. 02 0. 218 ± 0. 03 0. 316 ± 0. 04 0. 571 ± 0. 06b 0. 915 ± 0. 09b
+T2 0. 136 ± 0. 02 0. 213 ± 0. 02 0. 289 ± 0. 04b 0. 403 ± 0. 05b 0. 752 ± 0. 08bc
+注:ox-LDL:氧化型低密度脂蛋白 Oxidized low density lipoprotein; VSMC:血管平滑肌细胞 Vascular smooth muscle cell; CON:对照组 Control group;
+FBS:胎牛血清 Fetal calf serum; T1:5×10-8 mol / L 睾酮 Testosterone; T2:5 ×10-7 mol / L 睾酮 Testosterone; 与 CON 组比较 vs CON group,a P<0. 05; 与
+ox-LDL 组比较 vs ox-LDL group,bP<0. 05; 与 T1 组比较 vs T1 group,cP<0. 05
+较多(P<0. 05),进入 S 期细胞数较少(P<0. 05);其中
+5×10-7 mol / L 睾酮组较 5 ×10-8 mol / L 睾酮组更显著
+(P<0. 05,表 2)。
+三、 睾酮对 VSMCs 增殖相关蛋白表达的影响
+与对照组比较,10% FBS 组和 ox-LDL 组 Mfn2 和
+α-SMA 表达降低(P<0. 05),p-ERK1 / 2、PCNA 和 OPN
+表达增加(均 P<0. 05)。 与 ox-LDL 组比较,不同浓度
+睾酮组 Mfn2 和 α-SMA 表达增加(P<0. 05),p-ERK1 /
+2、PCNA 和 OPN 表达降低(P<0. 05,图 1,表 3)。
+表 2  各组细胞周期分布的比较(x-± s, n=3)
+Tab 2   Comparison of the cell cycle distribution among various
+groups (x-± s, n=3)
+组别
+Group G0 / G1(% ) S(% )
+CON 94. 83 ± 2. 47 3. 21 ± 0. 23
+10% FBS 34. 65 ± 3. 69a 62. 84 ± 5. 51a
+ox-LDL 36. 82 ± 4. 56a 60. 03 ± 5. 62a
+T1 50. 13 ± 5. 23b 46. 74 ± 3. 42b
+T2 59. 85 ± 5. 67b 36. 25 ± 3. 21bc
+注:略语同表 1 The abbreviations are the same as Tab 1; 与 CON 组比
+较 vs CON group,aP<0. 05; 与 ox-LDL 组比较 vs ox-LDL group,bP<0. 05;
+与 T1 组比较 vs T1 group,cP<0. 05
+注:Mfn2:线粒体融合素 2 Mitofusin2; ERK1 / 2:细胞外信号调节激
+酶 1 / 2 Extracellular signal-regulated kinase 1 / 2; p-ERK1 / 2: 磷 酸 化 的
+ERK1 / 2 Phosphorylated ERK1 / 2; PCNA:增殖细胞核抗原 Proliferating cell
+nuclear antigen; α-SMA:肌动蛋白 α-smooth muscle actin; OPN:骨桥蛋白
+Osteopontin; 余略语同表 1 The other abbreviations are the same as Tab 1
+图 1  睾酮对 Mfn2、p-ERK1 / 2、PCNA、α-SMA 和 OPN 蛋白表达的影响
+Fig 1  Effects of testosterone on Mfn2, p-ERK1 / 2, PCNA, α-SMA,and OPN
+protein expressions
+表 3  各组细胞 Mfn2, p-ERK1 / 2, PCNA, α-SMA 和 OPN 蛋白光密度相对比值(x-± s, % , n=3)
+Tab 3  The grayscale values of Mfn2, p-ERK1 / 2, PCNA, α-SMA or OPN proteins among various groups(x-± s, % , n=3)
+组别
+Group Mfn2 p-ERK1 / 2 PCNA α-SMA OPN
+CON 32. 8 ± 5. 7 4. 1 ± 0. 3 6. 2 ± 0. 4 98. 5 ± 2. 5 27. 3 ± 2. 3
+10% FBS 11. 2 ± 1. 3a 98. 4 ± 5. 5a 23. 7 ± 3. 1a 38. 6 ± 3. 4a 66. 1 ± 5. 8a
+ox-LDL 13. 1 ± 2. 5a 93. 3 ± 6. 4a 45. 9 ± 3. 8a 42. 9 ± 3. 3a 63. 9 ± 5. 6a
+T1 21. 7 ± 3. 4b 61. 8 ± 4. 1b 32. 7 ± 3. 2b 82. 8 ± 5. 7b 31. 3 ± 3. 3b
+T2 35. 5 ± 3. 7bc 20. 7 ± 2. 6bc 20. 5 ± 2. 1bc 89. 7 ± 6. 3b 22. 5 ± 2. 1bc
+注:略语同表 1 和图 1 The abbreviations are the same as Tab1 and Fig1;与 CON 组比较 vs CON group,aP<0. 05;与 ox-LDL 组比较 vs ox-LDL group,bP<
+0. 05; 与 T1 组比较 vs T1 group,cP<0. 05
+讨    论
+VSMCs 是 AS 形成过程中最重要的细胞之一,其
+增殖 /凋亡失衡是血管增生性疾病的主要特征。 在局
+部因素如炎症因子、生长因子和神经递质,异常的血流
+剪切力,全身因素如高血压、高血脂、高血糖等病理条
+件刺激下,通过复杂的信号转导通路调节,VSMCs 表
+型转化,由收缩型向合成型转变,继而大量增殖,分泌
+细胞外基质蛋白,同时易吞噬脂质转变为泡沫细胞,最
+终形成 AS[1,4]。 因此, 控制和逆转 VSMCs 表型转化
+和异常增殖将为 AS 相关疾病的治疗提供了新的理论
+思路。
+现代流行病学研究发现,睾酮水平较低和较高的
+人群心血管疾病发病率均较高,在校正高血压、糖尿病
+以及肥胖等影响因素以后, 过低或过高的睾酮水平仍
+然是心血管疾病的独立危险因素[2,5]。 Campelo 等[6]
+研究发现,生理浓度的睾酮可激活内皮型一氧化氮合
+酶(eNOS),诱导内皮细胞释放 NO,抑制由脂多糖诱导
+的单核细胞、血小板与内皮细胞黏附。 睾酮还可激活
+内皮细胞 ERK 1 / 2,促进 DNA 合成及细胞增殖,具有
+保护内皮细胞的功能[7]。 对于脂肪细胞,睾酮可抑制
+其对脂肪酸 /甘油三酯的摄取,减少游离脂肪酸含量,
+抑制脂肪堆积,减轻慢性炎症状态[8]。 但是,睾酮能
+否通过 ERK1 / 2 信号通路调控 VSMCs 表型转化、细胞
+增殖,从而抑制 AS 的形成,目前尚缺乏研究。
+本实验发现, ox-LDL 可诱导体外培养的大鼠
+VSMCs 增殖,促进细胞周期进入 S 期,p-ERK1 / 2 蛋白
+和 PCNA 表达增加,α-SMA 表达降低而 OPN 表达增
+加, 效果与 10% FBS 相似。 其中,ERK 1 / 2 是细胞增
+殖和表型转化信号通路上关键的蛋白激酶,被各种生
+长因子磷酸化后激活,进入细胞核内作用于多种转录
+因子,促进细胞增殖和分化。 PCNA 是 DNA 聚合酶的
+辅助蛋白,在细胞增殖的启动上起重要作用,是反映细
+胞增殖状态的客观指标,亦被视为合成型 VSMCs 的重
+要标志。 另外,α-SMA 是沿微管组成细胞骨架的主要
+成分,是收缩型 VSMCs 的标志蛋白;OPN 则是合成型
+VSMCs 的标志蛋白,与 AS 的钙化密切相关[4]。 这表
+明 ox-LDL 具有诱导 VSMCs 由收缩型向合成型转化及
+增殖的作用。 而预先给予不同浓度睾酮干预可抑制
+VSMCs 增殖,减少细胞周期进入 S 期,p-ERK 1 / 2 蛋白
+和 PCNA 表达降低,同时 α-SMA 表达增加而 OPN 表
+达降低,较高浓度睾酮作用更明显。 据此,本研究认为
+睾酮可抑制 VSMCs 在受到 ox-LDL 刺激后发生的细胞
+表型转化以及细胞增殖。
+Mfn2 是一种线粒体外膜蛋白,对线粒体融合、线
+粒体形态及功能的调节有重要作用,Mfn2 也是细胞信
+号转导通路中一个重要的调控点[9]。 既往研究发现,
+Mfn2 是原癌基因 ras 的直接负调控因子,能够与其相
+互作用,负向调控 Ras-ERK1 / 2 信号通路而将细胞周
+期阻断在 G0 / G1 期,抑制 VSMCs 增殖及表型转化,并
+延缓大鼠 AS 的进程[10]。 但目前对于 Mfn2 的上游调
+控方式尚无报道。 本研究发现, ox-LDL 诱导下的
+VSMCs 可见 Mfn2 低表达,而预先给予睾酮可上调
+Mfn2 表达,并呈一定的浓度依赖性。 这提示睾酮可能
+通过上调 Mfn2 表达,影响下游 ERK1 / 2 信号通路,进
+而抑制 VSMCs 由收缩型向合成型转化,以及细胞增
+殖。
+本研究结果提示,Mfn2 作为一个重要的抑制因
+素,可能参与睾酮抑制 ox-LDL 诱导 VSMCs 表型转化
+和增殖的过程,也是睾酮作为内源性生物活性物质发
+挥抗 AS 作用的一个重要靶基因。 在此基础上,本研
+究组将通过 RNA 干扰技术,进一步研究睾酮通过
+Mfn2 抑制 VSMCs 表型转化和增殖的机制。

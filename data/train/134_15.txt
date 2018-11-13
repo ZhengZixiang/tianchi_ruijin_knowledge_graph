@@ -1,0 +1,369 @@
+基础研究
+基金项目:国家自然科学基金项目(81270946,81170758,30670988)
+GK 大鼠对急性败血症伴发应激性高血糖的
+耐受性研究
+姜冬冬  韩亭亭  章瑶  李阳雪  胡耀敏
+[摘要]   目的  比较 2 型糖尿病大鼠和正常大鼠在急性败血症合并应激性高血糖后的炎症反应程度
+和氧化应激的损伤情况。 方法 将 26 周龄 2 型糖尿病 GK 大鼠和普通 Wistar 大鼠腹腔注射 5 mg / kg 脂多
+糖构建大鼠急性败血症模型。 比较脂多糖注射前后 2 种大鼠血清中促炎因子肿瘤坏死因子 α(TNF-α)、白
+细胞介素(IL)-1β、IL-6 和抗炎因子 IL-10 水平;化学比色法测定各组大鼠血清和脏器组织(肺脏、肝脏、肾
+脏、心脏)丙二醛、总抗氧化能力(T-AOC)水平。 结果 在基线水平,GK 大鼠的促炎因子水平(TNF-α、
+IL-6、IL-10)高于普通大鼠,注射脂多糖后,GK 大鼠促炎因子(TNF-α、IL-6)上升幅度明显小于 Wistar 大鼠
+(P<0. 05),而抗炎因子(IL-10)上升幅度则明显高于 Wistar 大鼠;在基线水平,GK 大鼠血清的丙二醛水平
+显著高于 Wistar 大鼠[(25. 76 对 12. 71) μmol / L,P<0. 05],而血清 T-AOC 水平则明显低于 Wistar 大鼠
+[(0. 60 对 2. 8)U / ml,P<0. 05],脂多糖注射 1 h 后 2 种大鼠血清丙二醛含量较注射前显著升高[(32. 30 和
+20. 19) μmol / L],T-AOC 水平[(0. 20 和 2. 08) U / ml]均较基线水平明显下降(P<0. 05),且 2 种大鼠的变化
+幅度没有明显差异(P>0. 05),2 种大鼠各脏器组织(肺脏、肝脏、肾脏、心脏)的丙二醛、T-AOC 水平在脂多
+糖注射前后差异均无统计学意义(P>0. 05)。 结论 2 型糖尿病大鼠与普通大鼠相比,在急性败血症状态
+下促炎因子释放减少,抗炎因子释放增加,对急性炎症反应耐受性更高,引起炎症失控性扩散的可能性更
+小。
+[关键词]   应激性高血糖; 糖尿病, 2 型; 炎症反应; 氧化应激
+Research about the tolerance of GK rats in stress hyperglycemia associated with acute sepsis Jiang
+Dongdong, Han Tingting, Zhang Yao, Li Yangxue, Hu Yaomin. Department of Endocrinology, Renji Hospital,
+Shanghai Jiaotong University School of Medicine, Shanghai 200127, China
+[Abstract]  Objective  To compare the differences in responsive ability and oxidative stress damage between
+type 2 diabetic rats and normal rats under acute sepsis associated with stress hyperglycemia. Methods GK rats with
+type 2 diabetes and Wistar rats were established critical ill models of sepsis by intraperitoneal injection of 5 mg / kg
+lipopolysaccharide(LPS). Before and after LPS injection, serum levels of proinflammatory cytokines tumor necrosis
+factor α ( TNF-α ), interleukin ( IL)-1β, and IL-6, and anti-inflammatory cytokine IL-10 were determined.
+Malondialdehyde(MDA) and total antioxidative capacity (T-AOC) levels in serum and tissues ( lung, liver, kidney,
+heart) were measured by colorimetric determination. Results Before LPS injection, serum levels of TNF-α, IL-6,
+and IL-10 in GK rats were higher than those of Wistar rats. The serum levels of TNF-α, IL-6, and IL-10 after LPS
+injection were raised in both GK rats and Wistar rats( all P<0. 05) . At baseline, serum MDA level of GK rats was
+higher than that of Wistar group[(25. 76 vs 12. 71)μmol / L, P<0. 05], while T-AOC level were lower [(0. 60 vs
+2. 8)U / ml, P<0. 05] . One hour after LPS injection, the serum MDA level in two kinds of rats significantly increased
+compared with those of their baseline levels[(32. 30 and 20. 19) μmol / L, both P<0. 05], while their serum T-AOC
+level decreased [(0. 20 and 2. 08) U / ml, P<0. 05]). There were no signigicant differences in the change trend of
+serum MDA and T-AOC between the two kinds of rats. MDA and T-AOC levels in tissues had no significant difference
+before and after LPS injection in GK and Wistar rats (P>0. 05) . Conclusions The rats with type 2 diabetes had
+lowered level of proinflammatory factors and raised level of anti-inflammatory factors under acute sepsis, presenting
+better tolerance and lowered probability of inflammatory diffusion compared with normal rats.
+[Key words]  Stress hyperglycemia; Diabetes mellitus, type 2; Inflammatory response; Oxidative stress
+(Chin J Endocrinol Metab, 2014, 30: 422-427)
+在重症监护病房( ICU)败血症患者中,并发应激
+性高血糖的情况比较常见,患者的年龄、免疫功能水
+平、长期酗酒与否都将影响患者的预后情况。 其中,既
+往具有糖尿病病史的患者,由于其慢性高血糖状态所
+引起的多系统损害,往往被认为有更高的死亡率风险。
+但事实上,汇总不同国别、不同人种、不同疾病种类和
+严重程度的 ICU 患者的资料发现,单纯性应激性高血
+糖患者较糖尿病应激性高血糖患者发生不良结局的风
+险反而更高[1-3]。 2010 年,本科开展的一项大样本有
+关内科 ICU 血糖控制的回顾性研究结果显示,相较于
+无糖尿病病史的高血糖患者,糖尿病高血糖患者的死
+亡率显著下降(30. 4% 对 13. 9% ,P<0. 01) [4]。 上述
+研究提示,危重疾病伴发应激性高血糖时,既往糖尿病
+状态对患者可能具有保护作用。 目前尚无研究对该现
+象的病理生理机制进行探讨,本课题组在前期研究中
+予 11 周龄的糖尿病大鼠和正常大鼠注射脂多糖,建立
+败血症模型,结果发现脂多糖注射 2 h 后糖尿病大鼠
+炎症反应程度更轻[5]。 本研究将延长脂多糖注射后
+的观察时间,动态观察 2 种大鼠的炎症反应以及氧化
+应激水平,从而进一步比较两种大鼠的氧化损伤情况
+和炎症反应程度。
+材料和方法
+一、 材料
+脂多糖购自 Sigma 公司,胰岛素 ELISA 检测试剂
+盒购自日本 Shibayagi 公司;雄性 GK 大鼠 44 只和雄性
+Wistar 大鼠 40 只,10 周龄,购自上海斯莱克实验动物
+有限责任公司。 动物生产许可证号码为 SCXK(沪)
+2012-0002,使用许可证号码为 SYXK(沪)2011-0121。
+大鼠经适应性喂养 1 周后,同一天任意 2 个时间点检
+测 GK 大鼠随机血糖,以两次随机血糖均≥11. 1
+mmol / L 作为 2 型糖尿病大鼠模型标准,其中,40 只
+GK 大鼠全部成模。 15 周后将成模 GK 大鼠分别随机
+分为基线、脂多糖注射后 1、2、4、8 h 各 8 只,同时将
+Wistar 大鼠分别分为基线组、脂多糖注射后 1、2、4、8 h
+组各 8 只。
+二、 方法
+1. 败血症模型的建立:取 GK 和 Wistar 大鼠,在非
+麻醉状态下以 10 mg / kg 腹腔注射脂多糖建立急性败
+血症危重病模型。
+2. 血糖和血清胰岛素检测:取 GK 和 Wistar 大鼠
+称重,并于大鼠禁食 12 h 后测定空腹血糖和血清胰岛
+素;GK 脂多糖组和 Wistar 脂多糖组在脂多糖注射后 8
+h 内,每隔 30 min 采用强生稳豪倍易型血糖仪(One
+Touch UltraEasy,Johnson)进行血糖检测。 将所有大鼠
+以 10%水合氯醛按 0. 5 mg / kg 腹腔注射后麻醉,经眼
+球采血 10 ml,分离血清,-20℃保存。
+3. 炎症因子水平检测:经眼球采血后,留取肝脏、
+肺、肾脏和心肌组织,即刻投入液氮中,-80℃ 保存。
+采用双抗体夹心 ABC-ELISA 技术测定血清中炎症细
+胞因子水平,包括肿瘤坏死因子 α(TNF-α)、白细胞介
+素(IL)-1β、IL-6 和 IL-10。
+4. 氧化应激因子水平检测:将大鼠的血清和组织
+匀浆采用硫代巴比妥酸法检测其中氧化应激指标丙二
+醛( 氧 化 性 损 伤 的 评 价 指 标 ) 和 总 抗 氧 化 能 力
+(T-AOC)的水平。
+三、 统计学处理
+采用 SPSS 16. 0 软件进行统计学分析。 计量数据
+以 x-± s 表示,组间体重和血糖浓度的比较采用 t 检验;
+血清 TNF-α、IL-lβ、IL-6、IL-10 和血清、组织的丙二醛、
+T-AOC 水平采用协方差分析,校正体重因素的影响,
+P<0. 05 表示差异有统计学意义。
+结    果
+一、 Wistar 组与 GK 组大鼠体重、血糖和血清胰岛
+素的比较
+26 周龄的 GK 大鼠相较于同周龄的 Wistar 大鼠,
+空腹血糖稍高,随机血糖[(13. 07 ± 3. 78 对 6. 01 ±
+0. 24) mmol / L,P<0. 01]和空腹胰岛素[(22. 94 ± 4. 83
+对 13. 21 ± 3. 94) μIU / ml,P<0. 01]水平显著升高,而
+体重则无明显差异。 GK 组大鼠和 Wistar 组大鼠随机
+分组后,对于体重、空腹血糖、随机血糖 3 项指标,2 种
+大鼠各自的基线组和脂多糖注射组间均无差异(P>
+0. 05,表 1)。
+表 1  Wistar 与 GK 大鼠体重和空腹血糖水平
+Tab 1  Body weight and fasting blood glucose level in Wistar and GK
+rats
+组别
+Group
+鼠数
+n
+体重
+Body weight
+(g)
+FPG
+(mmol / L)
+Wistar 基线
+Wistar baseline 8 386. 51 ± 5. 24 5. 49 ± 0. 87
+Wistar 脂多糖
+Wistar LPS 8 379. 90 ± 8. 09 4. 90 ± 0. 59
+GK 基线
+GK baseline 8 396. 58 ± 8. 32 7. 62 ± 0. 14
+a
+GK 脂多糖
+GK LPS 8 375. 09 ± 9. 14 8. 34 ± 1. 08
+b
+注:LPS:脂多糖 Lipopolysaccharide;FPG:空腹血糖 Fasting plasma
+glucose; 与 Wistar 基线组相比 vs Wistar basline group,aP<0. 05;与 Wistar
+脂多糖组相比 vs Wistar LPS group,bP<0. 01
+二、 脂多糖注射前后大鼠的血糖变化情况
+脂多糖注射前,GK 大鼠的血糖水平明显高于
+Wistar 大鼠(P<0. 05),注射脂多糖后,2 组大鼠血糖均
+显著升高,GK 大鼠在脂多糖注射后 1 h 血糖水平达到
+峰值,而 Wistar 大鼠在脂多糖注射后 2 h 左右血糖水
+平达到峰值,2 组间的峰值血糖和血糖波动幅度均无
+显著差异(P>0. 05,图 1)。
+三、 脂多糖注射后血清中各细胞因子的变化
+1. 血清 TNF-α:在基线水平,GK 大鼠的血清 TNF-α
+浓度较 Wistar 大鼠略高,但无明显差异(P>0. 05);在
+LPS 注射 1 h 后,2 组大鼠的 TNF-α 浓度均达到峰值浓
+度,且 Wistar 大鼠的峰值浓度明显高于 GK 大鼠(P <
+0. 05);脂多糖注射 2 h 后,GK 大鼠 TNF-α 浓度明显下
+降,而 Wistar 大鼠 TNF-α 浓度依然较高,至脂多糖注
+射 8 h 后,2 组大鼠的 TNF-α 浓度基本恢复至正常水
+平(图 2A)。
+2. 血清 IL-6 水平:在基线水平,GK 组大鼠血清中
+图 1  脂多糖注射后 2 组大鼠血糖水平的动态变化
+Fig 1  Dynamic changes of blood glucose level after lipopolysaccharide injection in two groups of rats
+注:TNF-α:肿瘤坏子因子 α Tumor necrosis factor α;IL:白细胞介素 Interleukin;与 Wistar 大鼠相比 vs Wistar rats,aP<0. 01; 与 GK 大鼠基线相比 vs
+GK rats at baseline,bP<0. 01
+图 2  脂多糖注射前后 2 组大鼠血细胞炎症因子水平
+Fig 2  Levels of inflammatory cytokines before and after lipopolysaccharide injection in two groups of rats
+表 2  LPS 注射前后 2 组大鼠血清中 MDA 和 T-AOC 的变化
+Tab 2  Serum concentrations of MDA and T-AOC at baseline and after LPS injection in two group rats
+组别
+Group
+鼠数
+n
+MDA
+(μmol / L)
+0 1 h 2 h 4 h 8 h
+Wistar 8 12. 71 ± 2. 63 20. 19 ± 4. 51 14. 58 ± 1. 27 14. 63 ± 2. 54 15. 19 ± 1. 09
+GK 8 25. 76 ± 2. 75a 32. 30 ± 1. 24ab 29. 08 ± 2. 87ab 23. 00 ± 5. 63ab 30. 39 ± 4. 92ab
+组别
+Group
+鼠数
+n
+T-AOC
+(U / ml)
+0 1 h 2 h 4 h 8 h
+Wistar 8 2. 80 ± 0. 57 2. 08 ± 0. 32 1. 95 ± 0. 93 2. 30 ± 0. 47 2. 64 ± 1. 02
+GK 8 0. 60 ± 0. 30a 0. 20 ± 0. 17ab 0. 07 ± 0. 02ab 0. 31 ± 0. 16ab 0. 43 ± 0. 27ab
+注:LPS:脂多糖 Lipopolysaccharide;MDA:丙二醛 Malondialdehyde;T-AOC:总抗氧化能力 Total antioxidative capacity;与 Wistar 大鼠相比 vs Wistar
+rat,aP<0. 05;与 GK 大鼠基线值相比 vs GK rat at baseline,bP<0. 05
+IL-6 的浓度明显高于 Wistar 大鼠,差异有统计学意义
+(P<0. 05);脂多糖注射后,GK 组大鼠和 Wistar 组大
+鼠分别在第 4 h 和第 8 h 达到浓度峰值,其中,Wistar
+大鼠的峰值显著高于 GK 大鼠,差异有统计学意义
+(P<0. 05,图 2B)。
+3. 血清 IL-10 水平:在基线水平,GK 组大鼠 IL-10
+的浓度略高,但差异无统计学意义(P = 0. 375);脂多
+糖注射后,2 组大鼠血清中 IL-10 的浓度均较各自基线
+水平升高,且在脂多糖注射 8 h 后均达到峰值,其中,
+GK 大鼠 IL-10 的升高程度明显高于 Wistar 大鼠,差异
+有统计学意义(P<0. 05,图 2C)。
+4. 血清 IL-1β 水平:在基线水平,GK 组与 Wistar
+组大鼠血清中 IL-1β 的浓度无明显差异(P>0. 05);脂
+多糖注射后,2 组大鼠血清中 IL-1β 的浓度均较各自
+基线水平显著升高,且分别在第 4 h 和第 8 h 达到浓度
+峰值,差异有统计学意义(P<0. 05,图 2D)。
+5. 脂多糖注射后 2 种大鼠血清和各脏器组织的
+丙二醛、T-AOC 水平:(1)在基线水平,GK 组大鼠的血
+清丙二醛含量显著高于 Wistar 大组,差异有统计学意
+义(P<0. 05);脂多糖注射 1 h 后,GK 组大鼠和 Wistar
+组大鼠的丙二醛含量均达到峰值且较基线水平明显升
+高(P<0. 05),但 2 组的升高幅度没有明显差异(P =
+0. 818);之后 2 组大鼠的丙二醛含量略有下降,至脂
+多糖注射后 8 h,基本回到基线水平(表 2)。 (2)脂多
+糖注射前, GK 组大鼠的血清基线 T-AOC 水平较
+Wistar 组大鼠明显降低(P<0. 05);脂多糖注射后 1 h,
+2 组的 T-AOC 水平即开始下降,并在脂多糖注射 2 h
+后降到最低,但 2 组的下降幅度没有明显差异(P =
+0. 370),脂多糖注射 4 h 后,2 组的 T-AOC 水平有所恢
+复(表 2)。 (3)脂多糖注射前,对于肺脏、肝脏、肾脏、
+心脏组织的基线丙二醛和 T-AOC 含量, GK 组与
+Wistar 组大鼠之间的比较差异均无统计学意义(P>
+0. 05);脂多糖注射后,在不同的脏器组织,2 组大鼠的
+表 3  2 组大鼠脂多糖注射前后各组织丙二醛含量(x-± s, nmol /
+mg 蛋白)
+Tab 3 Malondialdehyde contents in various tissues of two groups of
+rats before and after lipopolysaccharide(x-± s, nmol / mg prot)
+组别
+Group
+鼠数
+n
+肝脏
+Liver
+肾脏
+Kidney
+心肌
+Heart
+肺脏
+Lung
+Wistar 0 h 8 1. 77 ± 0. 16 1. 47 ± 0. 56 1. 56 ± 0. 83 4. 68 ± 0. 96
+1 h 8 1. 59 ± 0. 29 1. 31 ± 0. 18 1. 48 ± 0. 53 3. 47 ± 0. 95
+2 h 8 1. 64 ± 0. 24 1. 37 ± 0. 48 1. 55 ± 0. 81 4. 70 ± 3. 42
+4 h 8 1. 63 ± 0. 28 1. 40 ± 0. 67 1. 92 ± 0. 76 3. 69 ± 2. 01
+8 h 8 2. 08 ± 1. 49 1. 43 ± 0. 84 1. 59 ± 0. 42 3. 19 ± 1. 57
+GK 0 h 8 1. 68 ± 0. 26 1. 54 ± 0. 47 1. 83 ± 0. 74 3. 75 ± 1. 56
+1 h 8 1. 79 ± 0. 50 1. 63 ± 0. 98 2. 07 ± 0. 96 4. 80 ± 2. 47
+2 h 8 1. 52 ± 0. 20 1. 67 ± 0. 12 1. 72 ± 0. 67 3. 02 ± 0. 79
+4 h 8 2. 03 ± 1. 14 1. 78 ± 0. 67 1. 98 ± 0. 78 3. 41 ± 0. 90
+8 h 8 1. 63 ± 0. 55 1. 89 ± 0. 65 1. 96 ± 0. 79 3. 07 ± 0. 83
+表 4   2 组大鼠脂多糖注射前后各组织 T-AOC 含量 ( x- ± s,
+U / mg prot)
+Tab 4 T-AOC levels in various tissues of two groups of rats before and
+after lipopolysaccharide(x-± s, U / mg prot)
+组别
+Group
+鼠数
+n
+肝脏
+Liver
+肾脏
+Kidney
+心肌
+Heart
+肺脏
+Lung
+Wistar 0 h 8 0. 69 ± 0. 13 0. 59 ± 0. 17 0. 57 ± 0. 13 0. 83 ± 0. 16
+1 h 8 0. 57 ± 0. 28 0. 67 ± 0. 34 0. 34 ± 0. 08 0. 67 ± 0. 29
+2 h 8 0. 53 ± 0. 17 0. 49 ± 0. 12 0. 37 ± 0. 13 0. 71 ± 0. 12
+4 h 8 0. 60 ± 0. 09 0. 56 ± 0. 40 0. 45 ± 0. 27 0. 55 ± 0. 08
+8 h 8 0. 48 ± 0. 19 0. 34 ± 0. 09 0. 38 ± 0. 23 0. 67 ± 0. 09
+GK 0 h 8 0. 47 ± 0. 24 0. 43 ± 0. 17 0. 65 ± 0. 12 0. 72 ± 0. 23
+1 h 8 0. 51 ± 0. 18 0. 56 ± 0. 29 0. 57 ± 0. 37 0. 69 ± 0. 39
+2 h 8 0. 39 ± 0. 13 0. 43 ± 0. 12 0. 48 ± 0. 09 0. 54 ± 0. 17
+4 h 8 0. 41 ± 0. 19 0. 72 ± 0. 56 0. 53 ± 0. 07 0. 62 ± 0. 23
+8 h 8 0. 57 ± 0. 37 0. 65 ± 0. 29 0. 62 ± 0. 27 0. 48 ± 0. 19
+注:T-AOC:总抗氧化能力 Total antioxidative capacity
+丙二醛含量均较各自基线组水平无明显统计学差异
+(P>0. 05,表 3、表 4)。
+讨    论
+近年来大量研究表明在 ICU 合并高血糖的败血
+症患者中,既往无糖尿病病史的患者与不良结局的相
+关性更大,亦更能从胰岛素强化治疗中获益[6,7]。 关
+于糖尿病状态对 ICU 高血糖患者潜在保护作用的原
+因,以往的基础研究及流行病学研究中也给出过一些
+解释,如细胞长期处于慢性高血糖环境下,细胞膜上的
+葡萄糖转运体可提前降解,减轻胞内糖毒性损害[8];
+在危重病状态下,糖尿病患者某些致死性并发症的发
+生率下降[9,10];临床医生往往对合并高血糖的糖尿病
+患者更为重视,并积极给予胰岛素降糖治疗[11-14]。
+虽然上述观点能够在一定程度上解释保护作用的
+原因,但是这些解释相对片面和简单,因此本研究构建
+动物模型深入探索其中的病理生理机制。 GK 大鼠由
+于不受肥胖、血脂异常等其他代谢因素的干扰,主要表
+现为空腹血糖稍高、餐后血糖明显升高,在一定程度上
+可以模拟临床 2 型糖尿病患者,而与 GK 大鼠具有基
+因同源性的Wistar 大鼠则作为正常对照模型。 同时以
+10 mg / kg 脂多糖腹腔注射建立大鼠的急性败血症模
+型,使 2 种大鼠遭受同种程度的打击,因而两者的各项
+观察指标均具有高度可比性。
+危重疾病发生时,机体处于急性炎症状态,天然免
+疫系统被过度激活,各种炎症免疫细胞分泌大量细胞
+因子,其中促炎因子 TNF-α 和 IL-1β 最早释放并且具
+有核心作用,是导致其他炎性介质释放的始发因子,诱
+发继发性促炎因子(IL-6、IL-8 等),进一步扩大炎症反
+应;同时抗炎因子( IL-2、IL-4、IL-10)的合成和释放也
+相应启动,引起局部炎症反应失控性扩散,并诱发全身
+炎症反应。 本研究中 2 种大鼠的基线炎症因子结果显
+示,GK 大鼠的炎症因子水平(TNF-α、IL-6、IL-10)高于
+普通大鼠,证明 2 型糖尿病大鼠处于一种慢性炎症状
+态,符合 2 型糖尿病的低度慢性炎症性学说。 腹腔注
+射脂多糖后发现,GK 大鼠促炎因子(TNF-α、IL-6)上
+升幅度明显小于 Wistar 大鼠(P<0. 05),而抗炎因子
+(IL-10)上升幅度则明显高于 Wistar 大鼠。 上述结果
+显示,在败血症并发应激性高血糖时,与普通大鼠相
+比,2 型糖尿病大鼠促炎因子释放减少,抗炎因子释放
+增加,初步说明其对炎症反应耐受性更高,因此引起炎
+症失控性扩散的可能性更小。 Zykova 等[15] 通过体外
+实验发现,2 型糖尿病小鼠的腹腔巨噬细胞表现出形
+态和功能的异常,在使用脂多糖刺激或脂多糖与干扰
+素-γ 联合刺激后,相较于正常小鼠巨噬细胞,糖尿病
+小鼠巨噬细胞分泌 TNF-α、IL-1β 的能力显著降低,这
+与本研究结果相吻合,进一步证明糖尿病个体的免疫
+细胞功能低下,因而不易引起炎症扩散反应,呈现出潜
+在的“保护冶作用。
+无论在慢性或是急性状态下,血糖水平升高和炎
+症因子分泌增多都将首先累及全身血管内皮系统,其
+中心环节是内皮细胞通过氧化应激产生大量氧自由
+基,使膜脂质结构过氧化,引起内皮细胞损伤,从而导
+致微循环障碍,最终造成组织实质细胞的缺血缺氧性
+损害。 因此测定脂质过氧化产物丙二醛的含量可以客
+观评价机体氧化性损伤的程度,而 T-AOC 水平则反映
+了机体清除自由基和分解过氧化物的防御功能。 通
+常,在糖尿病早期,组织抗氧化酶的活性代偿性增高抑
+制体内低度激活的氧化应激反应,而随着糖尿病病程
+的延长,其活性逐渐下降,最终可导致组织内部发生氧
+化损伤。
+本研究中,在基线水平,GK 大鼠血清的丙二醛水
+平明显高于 Wistar 大鼠,而血清 T-AOC 水平明显降低
+(P<0. 05),提示 26 周龄的 GK 大鼠体内已出现过度
+激活的氧化应激反应,且抗氧化酶活性开始下降,对氧
+自由基的清除能力减弱,因此发生内皮细胞的氧化性
+损伤。 在脂多糖注射 1 h 后,GK 大鼠和 Wistar 大鼠都
+出现了感染中毒症状,脂多糖侵袭引发全身血管内皮
+细胞的氧化应激反应,表现为脂多糖注射 1 h 后血清
+丙二醛水平显著升高,而血清 T-AOC 水平明显降低
+(P<0. 05),且在 2 种大鼠中下降幅度基本相同,也就
+是说在急性感染状态下,GK 大鼠清除自由基和分解
+过氧化物的能力非但未提升,反而有所下降,与普通大
+鼠相比并无明显差异,显然抗氧化防御系统并不能用
+以阐明保护作用机制。 此外,2 种大鼠在脂多糖注射
+前后各脏器组织的丙二醛、T-AOC 的变化没有统计学
+差异(P>0. 05),推测可能由于脂多糖是经腹腔注射,
+且注射剂量尚不至于造成组织实质细胞的氧化应激损
+伤。
+及时控制 ICU 患者的高血糖有助于下调炎症介
+质水平,增强体质代谢和免疫功能,进而改善危重患者
+的预后。 ICU 高血糖患者使用胰岛素治疗,可以在迅
+速降糖的同时直接发挥抗炎和保护血管内皮细胞的作
+用,因此是目前控制应激性高血糖的首选治疗措
+施[16-19]。 由于单纯性应激性高血糖的患者对血糖波
+动的耐受水平更低,在急性刺激下炎症反应的程度更
+加剧烈,且不易引起临床医师的足够重视,一方面提示
+我们应当对该类患者在入院后给予更多的重视和及早
+的干预,另一方面也意味着该类患者能够从胰岛素治
+疗中受益更多。
+对于当前流行病学研究中提出的“既往糖尿病状
+态对 ICU 高血糖患者具有潜在的保护作用冶这一热点
+研究结果,本课题率先通过动物实验进行了病理生理
+机制的探讨。 本研究结果表明,在急性败血症构成的
+危重病模型中,2 型糖尿病大鼠炎症波动程度更轻,但
+抗氧化防御系统并不能用以阐明保护作用机制。 由于
+该现象的机制探讨尚处于初级阶段,且由于危重病种
+类繁多,病情复杂,在临床实验中很难控制各种混杂因
+素对最终结局的影响,因此需要开展更深层次的研究
+来进一步明确该现象的病理生理机制。

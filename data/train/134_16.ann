@@ -1,0 +1,180 @@
+T1	Disease 3009 3015	糖尿病足溃疡
+T2	Disease 3076 3080	糖尿病足
+T3	Disease 3153 3157	糖尿病足
+T4	Disease 6488 6494	糖尿病足溃疡
+T5	Disease 7781 7785	糖尿病足
+T6	Disease 7862 7866	糖尿病足
+T7	Disease 5960 5962	AS
+T8	Anatomy 120 126	血管内皮细胞
+T9	Anatomy 188 194	血管内皮细胞
+T10	Anatomy 668 674	血管内皮细胞
+T11	Anatomy 3185 3191	血管内皮细胞
+T12	Anatomy 5286 5292	血管内皮细胞
+T13	Anatomy 6152 6158	血管内皮细胞
+T14	Anatomy 6571 6577	血管内皮细胞
+T15	Anatomy 195 199	VECs
+T16	Anatomy 232 236	VECs
+T17	Test 292 301	p130-Amot
+T18	Test 304 312	p80-Amot
+T19	Anatomy 569 573	VECs
+T20	Anatomy 610 614	VECs
+T21	Anatomy 639 643	VECs
+T22	Anatomy 2741 2745	Amot
+T23	Anatomy 2816 2820	内皮细胞
+T24	Anatomy 2832 2841	p-80 Amot
+T25	Anatomy 2844 2854	p-130 Amot
+T26	Anatomy 2887 2896	p-80 Amot
+T27	Anatomy 2916 2925	p-130Amot
+T28	Anatomy 2928 2932	肌动蛋白
+T29	Anatomy 2961 2965	Amot
+T30	Anatomy 2970 2973;2974 2975	内皮细 胞
+T31	Disease 3016 3019	糖尿病
+T32	Disease 3034 3036	截肢
+T33	Disease 3037 3039	致残
+T34	Disease 3040 3042	致死
+T35	Anatomy 3097 3101	Amot
+T36	Anatomy 3192 3196	VECs
+T37	Anatomy 3234 3238	VECs
+T38	Anatomy 3266 3270	VECs
+T39	Anatomy 3294 3298	Amot
+T40	Disease 3302 3304;3305 3311	糖尿 病缺血性溃疡
+T41	Anatomy 3345 3349	VECs
+T42	Anatomy 3408 3412	VECs
+T43	Anatomy 3851 3855	VECs
+T44	Test 3858 3862	Amot
+T45	Anatomy 3877 3881	VECs
+T46	Test 4028 4032	Amot
+T47	Anatomy 4250 4254	VECs
+T48	Anatomy 4489 4493	VECs
+T49	Anatomy 4527 4531	VECs
+T50	Anatomy 4682 4686	VECs
+T51	Anatomy 4719 4723	VECs
+T52	Anatomy 4881 4885	VECs
+T53	Test 4886 4890	Amot
+T54	Anatomy 5506 5510	VECs
+T55	Test 5522 5531	p130-Amot
+T56	Test 5571 5575;5576 5580	p80- Amot
+T57	Anatomy 5648 5652	VECs
+T58	Anatomy 5707 5711	VECs
+T59	Test 5712 5721	p-130Amot
+T60	Test 5734 5742	p-80Amot
+T61	Anatomy 5802 5806	VECs
+T62	Anatomy 5857 5861	VECs
+T63	Anatomy 6307 6311	VECs
+T64	Anatomy 6338 6342	VECs
+T65	Disease 6731 6733	溃疡
+T66	Anatomy 6744 6748	Amot
+T67	Disease 6752 6760	糖尿病缺血性溃疡
+T68	Test 6838 6843;6844 6848	p130- Amot
+T69	Test 6851 6859	p80-Amot
+T70	Test 6872 6881	p130-Amot
+T71	Anatomy 6947 6951	VECs
+T72	Test 6952 6961	p130-Amot
+T73	Test 7008 7017	p130-Amot
+T74	Test 7082 7091	p130-Amot
+T75	Test 7109 7118	p130-Amot
+T76	Test 7128 7136	p80-Amot
+T77	Anatomy 7271 7275	VECs
+T78	Anatomy 7527 7531	VECs
+T79	Test 7532 7536	Amot
+T80	Test 7569 7573	Amot
+T81	Anatomy 7580 7584	VECs
+T82	Anatomy 7616 7620	VECs
+T83	Anatomy 7653 7657	VECs
+T84	Anatomy 7702 7706	VECs
+T85	Test 7729 7733	Amot
+T86	Anatomy 7745 7749	VECs
+T87	Anatomy 7767 7771	VECs
+T88	Test 7772 7776	Amot
+T89	Test 7807 7811	Amot
+T90	Anatomy 7823 7827	VECs
+T91	Disease 7898 7906	糖尿病难愈性溃疡
+T92	Anatomy 141 143	血管
+T93	Anatomy 218 220	血管
+T94	Test_Value 394 407	5. 5 mmol / L
+T95	Test_Value 425 436	30 mmol / L
+T96	Test_Value 450 461	15 mmol / L
+T97	Test 509 517	p80-Amot
+T98	Test 579 585	血管生成能力
+T99	Test 574 578	迁移能力
+T100	Anatomy 646 648	血管
+T101	Anatomy 684 686	血管
+T102	Anatomy 2765 2767	血管
+T103	Anatomy 2799 2801	血管
+T104	Anatomy 2856 2858	血管
+T105	Anatomy 2953 2955	血管
+T106	Level 3019 3021	严重
+T107	Anatomy 3109 3111	血管
+T108	Anatomy 4636 4638	血管
+T109	Test 4909 4918	p130-Amot
+T110	Anatomy 6278 6280	血管
+T111	Anatomy 6360 6362	血管
+T112	Anatomy 6423 6425	血管
+T113	Anatomy 6460 6461;6462 6466	细 胞外基质
+T114	Anatomy 7176 7178	血管
+T115	Anatomy 7361 7363	血管
+T116	Anatomy 7383 7385	血管
+T117	Anatomy 7678 7680	血管
+T118	Anatomy 7754 7756	血管
+T119	Anatomy 7829 7831	血管
+T120	Disease 7866 7869;7870 7872	缺血性 溃疡
+T121	Test 344 348	划痕实验
+T122	Anatomy 3677 3681	VECs
+T123	Drug 4128 4131	抗生素
+T124	Test 4455 4461	创伤愈合实验
+T125	Test 4462 4466	划痕实验
+T126	Test 5764 5770	创伤愈合实验
+T127	Test 5771 5775	划痕实验
+T128	Anatomy 6805 6809	VECs
+T129	Test_Value 6899 6904	表达量最高
+T130	Test_Value 7522 7523;7524 7525	下 调
+T131	Test_Value 7574 7578	表达下调
+T132	Test 7546 7552	创伤愈合实验
+T133	Test 7554 7558	划痕实验
+T134	Test_Value 7736 7740	表达下调
+T135	Test_Value 7799 7803	显著抑制
+T136	Test_Value 7816 7818	下降
+T137	Disease 3126 3132	糖尿病足溃疡
+T138	Disease 6785 6789;6790 6792	糖尿病足 溃疡
+T139	Anatomy 127 131	Amot
+T140	Anatomy 200 204	Amot
+T141	Anatomy 331 335	Amot
+T142	Test 350 356	血管生成实验
+T143	Test 366 372	血管新生功能
+T144	Test 380 389	p130-Amot
+T145	Anatomy 558 562	Amot
+T146	Anatomy 615 619	Amot
+T147	Anatomy 662 666	Amot
+T148	Reason 3048 3053	长期高血糖
+T149	Reason 3054 3057;3058 3059	患肢缺 血
+T150	Reason 3064 3074	促血管生成蛋白的缺陷
+T151	Anatomy 3197 3201	Amot
+T152	Anatomy 3239 3243	Amot
+T153	Anatomy 3255 3259	Amot
+T154	Test 3274 3277;3278 3288	细胞迁 移及血管生成功能实验
+T155	Test 4007 4025	Amot 与 GAPDH 的灰度比值
+T156	Anatomy 4060 4070	Amot siRNA
+T157	Anatomy 4212 4222	Amot siRNA
+T158	Anatomy 4434 4441	Amot 基因
+T159	Anatomy 4472 4482	Amot siRNA
+T160	Anatomy 4665 4675	Amot siRNA
+T161	Anatomy 5610 5620	Amot siRNA
+T162	Anatomy 5633 5643	Amot siRNA
+T163	Anatomy 5670 5677	Amot 基因
+T164	Anatomy 5691 5701	Amot siRNA
+T165	Test_Value 5724 5732	表达下调 93%
+T166	Test_Value 5745 5753	表达下调 86%
+T167	Anatomy 5842 5852	Amot siRNA
+T168	Test 6267 6273	血管生成实验
+T169	Anatomy 6292 6296	Amot
+T170	Anatomy 7186 7190	Amot
+T171	Anatomy 7208 7216	p80-Amot
+T172	Anatomy 7232 7241	p130-Amot
+T173	Anatomy 7409 7418	p130-Amot
+T174	Test 7439 7443	Amot
+T175	Test 7459 7468	p130-Amot
+T176	Test 7480 7484	Amot
+T177	Test 7561 7567	血管生成实验
+T178	Anatomy 7601 7611	Amot siRNA
+T179	Anatomy 7687 7697	Amot siRNA
+T180	Reason 7845 7859	Amot 蛋白表达及功能失调

@@ -1,0 +1,468 @@
+临床研究
+明动物研究所(刘衡);昆明医科大学第二附属医院内分泌科(蒋绿芝)
+2 型糖尿病合并急性冠状动脉综合征急性期
+血糖变异性对血管生成素 2 和内质网应激变
+化影响的研究
+何泉  徐盈  唐新华  刘衡  朱宝生  蒋绿芝
+[摘要]   目的  探讨血糖波动对 2 型糖尿病急性冠状动脉综合征(ACS)患者急性期血管生成素 2
+(angiopoietin-2, Ang-2)与内质网应激的变化及对 ACS 危险性的影响。 方法 连续入选 78 例糖尿病合并
+ACS 患者,ACS 病程<7 d。 并选择 78 例无 ACS 的糖尿病患者作对照,用全球急性冠状动脉事件(GRACE)
+评分评估 ACS 患者危险度;采用动态血糖检测系统(CGMS)进行 3 d 的血糖监测;分别用实时 PCR 和
+Western 印迹法检测 Ang-2、内质网应激相关基因重链结合蛋白(Bip)、肌醇需求蛋白激酶I(IREI)、类 PKR
+的内质网应激酶(PERK)、氧调节蛋白 150(ORP150)、转录激活因子 6(ATF6)、X 盒结合蛋白 1(XBP1)、磷
+酸化的真核翻译起始因子 2α(p-eIF2α)和单核细胞趋化蛋白 1(MCP-1)mRNA 和蛋白表达变化;对 2 组间
+参数进行比较;同时将血糖波动参数与 Ang-2 内质网应激相关基因和 MCP-1 也进行相关性分析;将血糖波
+动参数、Ang-2 和内质网应激相关基因与 GRACE 评分进行相关分析。 结果 (1)ACS 组的日平均血糖波
+动幅度(MAGE)、日间血糖平均绝对差(MODD)、平均餐后血糖波动幅度(MPPGE)和最大血糖波动幅度
+(LAGE)明显高于对照组(均 P<0. 05)。 (2) ACS 组 Ang-2、内质网相关基因 Bip、IREI、PERK、ORP150、
+ATF6、XBP1、p-eIF2α 和 MCP-1 mRNA 表达量与对照组比较均有统计学差异(均 P<0. 05)。 (3)在 ACS 组
+中,作 pearson 相关分析,Ang-2 与 MAGE、LAGE、MPPGE 相关( r = 0. 432、0. 279、0. 386,均 P<0. 05),Bip 与
+MAGE、LAGE、MPPGE 相关( r=0. 783、0. 589、0. 887,均 P<0. 05);IREI 与 MAGE、LAGE、MPPGE、MODD 相
+关( r=0. 567、0. 783、0. 569、0. 823,均 P<0. 05);PERK 与 MAGE、MPPGE、MODD 相关( r = 0. 687、0. 902、
+0. 709,均 P<0. 05);ORP150 与 MAGE、LAGE、MPPGE、MODD 相关( r = 0. 779、0. 871、0. 775、0. 689,均 P<
+0. 05);ATF6 与 MAGE、LAGE、MPPGE、MODD 相关( r=0. 873、0. 675、0. 893、0. 884,均 P<0. 05),而 XBP1 与
+血糖波动无相关性(P>0. 05)。 (4)内质网应激相关基因、MCP-1 与血糖波动参数相关。 (5)多元 Logistic
+逐步回归分析血糖波动是内质网应激相关基因、Ang-2 和 GRACE 的危险因素,LAGE、MPPGE、Bip、IREI、
+PERK、ORP150、ATF6 是影响 Ang-2 的危险因素;而 Ang-2、年龄、MAGE、稳态模型评估的胰岛素抵抗指数
+(HOMA-IR)、Bip、ATF6 是影响 GRACE 的危险因素。 (6)ACS 患者射血分数水平与 MAGE、LAGE 均呈负
+相关性,多元线性回归分析显示年龄、HOMA-IR、Ang-2、和 MAGE、Bip、ATF6 可与射血分数建立线性回归关
+系。 结论 血糖波动使得 Ang-2 升高和导致内质网应激增加,还可能与心脏收缩功能受损有关。 增加了患
+者的危险度,并影响了 2 型糖尿病合并 ACS 患者的预后。
+[关键词]   血糖波动; 急性冠状动脉综合征; 糖尿病, 2 型; 血管生成素 2; 内质网应激
+Study of glycemic fluctuation impact on angiopoietin-2 and endoplasmic reticulum stress in type 2 diabetes
+complicated with acute phase of acute coronary syndrome He Quan*, Xu Ying, Tang Xinhua, Liu Heng, Zhu
+Baosheng, Jiang Lyuzhi. *Department of Emergency, the First People忆 s Hospital of Yunnan Province, Kunming
+650032, China
+[Abstract]  Objective  To investigate the changes in angiopoietin 2 and endoplasmic reticulum stress, and
+the prognosis of acute phase of coronary syndrome ( ACS) in type 2 diabetic patients with glycemic fluctuations.
+Methods Seventy-eight cases of consecutive diabetic patients with ACS within 7 days were enrolled. Another 78
+cases of non-diabetic patients with ACS were selected as control. Risk assessment with global acute coronary events
+(GRACE)score in patients with ACS, dynamic blood glucose monitoring system(CGMS)for three days, realtime PCR
+analysis of angiopoietin-2, within the reticulum stress-related heavy chain binding protein ( Bip), inositol kinase
+demand 玉 ( IREI), endoplasmic reticulum class should PKR kinase ( PERK), oxygen-regulated protein 150
+(ORP150), activating transcription factor 6(ATF6), X-box binding protein 1(XBP1) mRNA expression change,
+phosphorylation of eukaryotic translation initiation factor 2α(p-eIF2α)by western blotting angiopoietin-2, parameters
+were compared between the two groups. Correlation analysis with GRACE score; while angiopoietin-2 parameters and
+glycemic fluctuation, endoplasmic reticulum stress-related genes correlation analysis were made. Results (1)ACS
+group average daily blood glucose fluctuations(MAGE), mean absolute difference daytime blood glucose(MODD),
+and postprandial blood glucose fluctuation(MPPGE)and the maximum amplitude of glycemic excursions(LAGE)were
+significantly higher [MAGE(5. 13 ± 1. 19) vs(3. 19 ± 0. 55) mmol / L, MODD(2. 59 ± 0. 72) vs(1. 72 ± 0. 63)
+mmol / L; MPPGE(3. 51 ± 1. 01)vs(2. 58 ± 0. 55)mmol / L and LAGE(7. 75 ± 2. 39) vs(4. 34 ± 0. 85)mmol / L, all
+P<0. 05] . (2)In ACS group angiopoietin-2, endoplasmic reticulum associated genes Bip, IREI, PERK, ORP150,
+ATF6, XBP1, and monocyte chemoattractant protein 1(MCP-1)mRNA expression levels as compared with the control
+group were statistically significant(all P<0. 05); Angiopoietin-2, protein p-eIF2α were higher(P<0. 05) . (3)In the
+ACS group with pearson correlation analysis, angiopoietin-2 and MAGE, LAGE, MPPGE correlation ( r = 0. 432,
+0. 279, 0. 386, all P<0. 05), Bip and MAGE, LAGE, MPPGE correlation( r = 0. 783, 0. 589, 0. 887, all P<
+0. 05); IREI and MAGE, LAGE, MPPGE, MODD correlation( r = 0. 567, 0. 783, 0. 569, 0. 823, all P<0. 05);
+PERK and MAGE, MPPGE, MODD correlation( r = 0. 687, 0. 902, 0. 709, all P<0. 05); ORP150 and MAGE,
+LAGE, MPPGE, MODD correlation( r=0. 779, 0. 871, 0. 775, 0. 689, all P<0. 05); ATF6 and MAGE, LAGE,
+MPPGE, MODD correlation( r=0. 873, 0. 675, 0. 893, 0. 884, all P<0. 05), while XBP1 with no correlation with
+glycemic fluctuations(P>0. 05) . (4)The endoplasmic reticulum stress gene was related to MCP-1 and blood glucose
+fluctuation parameters. (5)Multiple Logistic regression analysis revealed that LAGE, MPPGE, Bip, IREI, PERK,
+ORP150, ATF6 were risk factors affecting angiopoietin-2, and angiopoietin-2, ages, MAGE, homeostasis model
+assessment for insulin resistance, Bip, ATF6 were risk factors affecting GRACE. (6)The ejection fractions of the ACS
+patients showed negative correlation with MAGE and LAGE, multiple linear regression analysis showed that age,
+HOMA-IR, Ang-2, and MAGE, Bip, ATF6 established the linear regression relation with ejection fraction.
+Conclusion Glycemic fluctuations cause angiopoietin-2 to rise and lead to increased endoplasmic reticulum stress
+and affect the prognosis of diabetic patients with ACS.
+[Key words]   Glucose fluctuations; Acute coronary syndrome; Diabetes mellitus, type 2; Angiopoietin 2;
+Endoplasmic reticulum stress
+(Chin J Endocrinol Metab, 2014, 30: 1080-1085)
+急性冠状动脉综合征( acute coronary syndrome,
+ACS)是不稳定斑块破裂、血栓形成导致的急性心肌缺
+血的一组临床综合症[1,2]。 有研究认为内质网应激、
+血管生成素 2(Ang-2)在不稳定斑块的形成和破裂起
+着重要的作用,临床上糖尿病患者高血糖多处于波动
+状态,波动性高糖相对于持续性高血糖危害性更大,更
+能促进糖尿病患者(慢性)血管并发症的发生与发展,
+而血糖波动是否对糖尿病合并 ACS 的预后有影响,且
+是否是通过增强内质网应激和 Ang-2 的表达实现,本
+研究通过对 2 型糖尿病患者合并 ACS 和非 ACS 患者
+在血糖波动情况下对 Ang-2、内质网应激的对比研究
+为切入点,探讨血糖波动对 Ang-2、内质网应激的影
+响,并进一步探讨 Ang-2 与内质网应激对 ACS 预后的
+影响。 对预防 ACS 的发生具有十分重要的意义。
+对象和方法
+一、 对象
+1. 选取 2010 年 5 月至 2013 年 4 月符合纳入 /排
+除标准的本院急诊内科收治以及昆明医科大学第二附
+属医院内分泌科住院的 2 型糖尿病患者,合并 ACS 者
+(ACS 组)78 例(男性 42 例,女性 36 例),未合并 ACS
+者(对照组)78 例(男性 40 例,女性 38 例),治疗当天
+即开 始 用 动 态 血 糖 监 测 系 统 ( continuous glucose
+monitoring system, CGMS ) 监 测 血 糖 72 h。 应 用
+GRACE 评分系统计算 GRACE 积分评估 ACS 患者危
+险度[3,4]。
+2. ACS 纳入标准:根据国际心脏病学会世界卫生
+组织(WHO)缺血性心脏病的诊断和命名标准:(1)存
+在典型急性心肌缺血的临床症状;(2)心电图存在心
+肌缺血的改变:ST 段抬高的 ACS,发作时 ST 段压低或
+无改变的 ACS,以及不稳定型心绞痛;(3)心肌坏死标
+志物的改变:肌钙蛋白I或肌酸激酶同工酶典型升高,
+肌钙蛋白I的逐渐下降,或者肌酸激酶同工酶较快下
+降。 以上 3 条至少具备 2 条,确诊 ACS。
+3. 2 型糖尿病的诊断符合 1999 年 WHO 诊断标
+准,病程 3 年以内,年龄 50 ~ 70 岁,HBA1C≤8. 0% ,饮
+食、服药规律,近 1 个月内使用稳定的降糖方案。
+4. 排除标准:近半年内出现糖尿病急性并发症
+者;近 1 个月内发生过 ACS、急性心脑损害等急症者;
+近半个月合并急性感染者;绝经后妇女使用雌激素类
+药物者;伴有高眼压病、多发性大动脉炎、系统性硬化
+病等影响血管内皮功能的疾病者;合并严重肝肾功能
+不全者。
+二、 方法
+1. CGMS 的监测:采用 CGMS(Medtronic Mini Med
+公司)对符合标准的患者行 72 h 监测。 监测期间 3 餐
+进食时间固定且总热卡相对统一,且每天测定 4 次指
+尖血糖校正 CGMS。 检测完毕后计算并统计血糖波动
+参数[4]。 并测定平均血糖波动幅度 ( average daily
+blood glucose fluctuations, MAGE)、日间血糖平均绝对
+差 ( mean absolute difference daytime blood glucose,
+MODD)、平均餐后血糖波动幅度 ( postprandial blood
+glucose fluctuation, MPPGE) 和最大血糖波动幅度
+(maximum amplitude of glycemic excursions, LAGE)。
+2. 生化指标测定:氧化酶法测血糖,酶法测血脂,
+ELISA 法测血清 Ang-2 浓度(Rapidbio 试剂盒),稳态
+模型评估法计算胰岛索抵抗指数(HOMA-IR);(1)实
+时 PCR 检测内质网应激相关基因重链结合蛋白
+(Bip)、肌醇需求蛋白激酶I(IREI)、类 PKR 的内质网
+应激酶(PERK)、氧调节蛋白 150(ORP150)、转录激活
+因子 6(ATF6)、X 盒结合蛋白 1(XBP1)、磷酸化的真
+核翻译起始因子 2α(p-eIF2α)和单核细胞趋化蛋白 1
+(MCP-1)和 Ang-2 的 mRNA 表达;(2)Westem 印迹检
+测内质网应激相关蛋白、Ang-2 和单核细胞趋化蛋白 1
+(MCP-1) 蛋白表达; ( 3 ) 射血分数测定采用改良
+Simpson 法测量左心室舒张末期内径、左心室收缩末期
+内径和左心室后壁厚度,计算左心室舒张末期容积
+(left ventricular end-diastolic volume)、左心室收缩末期
+容积(left ventricular end-systolicvolume)和左室射血分
+数(left ventriculare jection fraction)。
+三、 统计学处理
+方法采用 SPSS 13. 0 统计软件进行统计学分析,
+所有变量均行正态性检验和方差齐性检验,计量资料
+以 x-± s 表示,两组间比较采用两独立样本 t 检验,非正
+态分布资料(HOMA-IR)经对数转换为正态分布资料。
+简单相关采用 pearson 相关分析,多因素相关分析采用
+多元逐步回归分析,以 P<0. 05 为差异有统计学意义。
+结    果
+一、 2 组临床生化资料比较
+2 组间年龄、性别、病程、体重指数、收缩压、舒张
+压、总胆固醇、甘油三酯、低密度脂蛋白胆固醇(LDL-
+C)、高密度脂蛋白胆固醇(HDL-C)、空腹血糖(FBG)、
+HBA1C、HOMA-IR 等指标差异均无统计学意义 (P >
+0. 05)。 ACS 组的 Ang-2 和 MCP-1 较对照组明显升
+高,差异均有统计学意义(P<0. 05,表 1)。
+二、 2 组动态血糖波动监测相关参数的比较
+2 组患者 24 h 平均血糖水平差异无统计学意义。
+ACS 组中血糖水平的标准差、MAGE、LAGE、MPPGE、
+MOPP 高于非 ACS 组(P<0. 05)。
+三、 2 组患者血内质网应激相关基因、Ang-2 和
+MCP-1 mRNA 表达量的比较
+实时 PCR 结果:2 组患者血中 Bip、IREI、PERK、
+ORPl50、ATF6、XBPl、p-eIF2α、Ang-2、MCP-1 mRNA 表
+达与对照组比较,差异均有统计学意义(P<0. 05,图
+1)。
+四、 2 组 患 者 血 中 Bip、 IREI、 PERK、 ORPl50、
+ATF6、XBP1、p-eIF2α、Ang-2、MCP-1 蛋白表达量
+表 1  2 组临床生化指标及动态血糖相关参数比较(x-± s)
+Tab 1  Comparison of clinical data and dynamic glucose parameters between two groups(x-± s)
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+病程
+(年)
+Duration
+(year)
+体重指数
+Body mass index
+(kg / m2)
+收缩压
+Systolic blood
+pressure
+(mmHg)
+舒张压
+Diastolic blood
+pressure
+(mm Hg)
+总胆固醇
+Total cholesterol
+(mmol / L)
+甘油三酯
+Triglyceride
+(mmol / L)
+CON 78 61. 13 ± 4. 63 1. 56 ± 1. 23 24. 50 ± 1. 21 133 ± 17 75 ± 11 4. 26 ± 0. 42 1. 75 ± 1. 19
+ACS  78 58. 77 ± 5. 34 1. 44 ± 0. 83 24. 26 ± 1. 45 129 ± 14 78 ± 10 4. 32 ± 0. 52 1. 33 ± 0. 54
+组别
+Group
+例数
+n
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L)
+空腹血糖
+Fasting blood glucose
+(mmol / L)
+HBA1C
+(% )
+HOMA-IR Ang-2(ng / ml)
+p-eIF2α
+(ng / ml)
+CON 78 3. 10 ± 0. 96 0. 93 ± 0. 49 7. 58 ± 2. 10 6. 91 ± 0. 78 1. 50 ± 0. 62 6. 33 ± 3. 10 1. 16 ± 0. 40
+ACS  78 2. 96 ± 0. 78 1. 05 ± 0. 34 7. 82 ± 1. 92 6. 68 ± 1. 10 1. 44 ± 0. 41 1. 21 ± 0. 52b 1. 40 ± 0. 90b
+组别
+Group
+例数
+n
+MCP-1
+(ng / ml)
+24hMBG
+(mmol / L)
+SDBG
+(mmol / L)
+MAGE
+(mmol / L)
+LAGE
+(mmol / L)
+MPPGE
+(mmol / L)
+MODD
+(mmol / L)
+CON 78 1. 49 ± 0. 40 7. 52 ± 1. 57 1. 41 ± 0. 34 3. 19 ± 0. 55 4. 34 ± 0. 85 2. 58 ± 0. 55 1. 72 ± 0. 63
+ACS  78 2. 12 ± 0. 92b 7. 96 ± 1. 83 2. 81 ± 0. 49a 5. 13 ± 1. 19b 7. 75 ± 2. 39a 3. 51 ± 1. 01b 2. 59 ± 0. 72b
+注:CON:对照组 Control group;ACS:急性冠状动脉综合征组 Acute coronary syndrome group;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-
+cholesterol;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment for
+insulin resistance;Ang-2:血管生成素 2 Angiopoietin-2;p-eIF2α:磷酸化的真核翻译起始因子 2α Phosphorylation of eukaryotic translation initiation factor 2α;
+MCP-1:单核细胞趋化蛋白 1 Monocyte chemoattractant protein 1;24hMBG:24 h 平均血糖水平 24 hours mean blood glucose;SDBG:血糖水平的标准差 Blood
+glucose standard deviation;MAGE:平均血糖波动幅度 Average daily blood glucose fluctuations;LAGE:最大血糖波动幅度 Maximum amplitude of glycemic
+excursions;MPPGE:平均餐后血糖波动幅度 Postprandial blood glucose fluctuation;MODD:日间血糖平均绝对差 Mean absolute difference daytime blood
+glucose;vs CON, aP<0. 05, bP<0. 01
+注:CON:对照组 Control group;ACS:急性冠状动脉综合征组 Acute coronary syndrome group;Bip:重链结合蛋白 Heavy chain binding protein;IREI:肌
+醇需求蛋白激酶I Inositol kinase demand 玉;PERK:类 PKR 的内质网应激酶 Endoplasmic reticulum class should PKR kinase;ATF6:转录激活因子 6
+Activating transcription factor 6;XBP1:X 盒结合蛋白 1 X-box binding protein 1;ORP150:氧调节蛋白 150 Oxygen-regulated protein 150;p-eIF2α:磷酸化的真
+核翻译起始因子 2 α Phosphorylation of eukaryotic translation initiation factor 2α;Ang-2:血管生成素 2 Angiopoietin-2;MCP-1:单核细胞趋化蛋白 1 Monocyte
+chemoattractant protein 1
+图 1  实时 PCR 检测 2 组血中内质网应激相关基因、Ang-2 和 MCP-1 mRNA 表达量的比较
+Fig 1  Realtime PCR analysis of endoplasmic reticulum stress genes or Ang-2 and MCP-1 mRNA in blood between two group
+注:CON:对照组 Control group;ACS:急性冠状动脉综合征组 Acute coronary syndrome group;Bip:重链结合蛋白 Heavy chain binding protein;IREI:肌
+醇需求蛋白激酶I Inositol kinase demand 玉;PERK:类 PKR 的内质网应激酶 Endoplasmic reticulum class should PKR kinase;ATF6:转录激活因子 6
+Activating transcription factor 6;XBP1:X 盒结合蛋白 1 X-box binding protein 1;ORP150:氧调节蛋白 150 Oxygen-regulated protein 150;p-eIF2α:磷酸化的真
+核翻译起始因子 2 α Phosphorylation of eukaryotic translation initiation factor 2α;Ang-2:血管生成素 2 Angiopoietin-2;MCP-1:单核细胞趋化蛋白 1 Monocyte
+chemoattractant protein 1
+图 2  Western 印迹法检测 2 组血中内质网应激相关蛋白、Ang-2 和 MCP-1 蛋白水平比较
+Fig 2  Western blotting analysis of endoplasmic reticulum stress genes or Ang-2 and MCP-1 protein in blood between two group
+表 2  动态血糖波动参数与 Ang-2、MCP-1 和内质网应激基因的 Pearson 相关分析
+Tab 2  Pearson correlation between Ang-2, MCP-1 or endoplasmic reticulum stress genes and dynamic glucose parameters respectively
+变量
+Variable
+24hMBG SDBG MAGE LAGE MPPGE MODD
+r P r P r P r P r P r P
+Ang-2 0. 234 0. 057 0. 512 0. 131 0. 432 0. 017 0. 279 0. 009 0. 386 0. 010 0. 625 0. 033
+Bip 0. 350 0. 061 0. 420 0. 052 0. 783 0. 021 0. 589 0. 008 0. 887 0. 004 0. 987 0. 021
+IREI 0. 421 0. 051 0. 388 0. 121 0. 567 0. 009 0. 783 0. 010 0. 569 0. 012 0. 823 0. 019
+PERK 0. 561 0. 059 0. 413 0. 067 0. 687 0. 005 0. 689 0. 019 0. 902 0. 000 0. 709 0. 007
+ORP150 0. 389 0. 067 0. 520 0. 092 0. 779 0. 012 0. 871 0. 000 0. 775 0. 004 0. 689 0. 000
+ATF6 0. 871 0. 062 0. 647 0. 109 0. 873 0. 029 0. 675 0. 003 0. 893 0. 019 0. 884 0. 012
+XBP1 0. 673 0. 051 0. 456 0. 064 0. 785 0. 018 0. 448 0. 014 0. 678 0. 032 0. 943 0. 032
+MCP-1 0. 821 0. 053 0. 887 0. 050 0. 928 0. 021 0. 789 0. 037 0. 737 0. 020 0. 847 0. 009
+注:Ang-2:血管生成素 2 Angiopoietin-2;Bip:重链结合蛋白 Heavy chain binding protein;IREI:肌醇需求蛋白激酶I Inositol kinase demand 玉;PERK:
+类 PKR 的内质网应激酶 Endoplasmic reticulum class should PKR kinase;ORP150:氧调节蛋白 150 Oxygen-regulated protein 150;ATF6:转录激活因子 6
+Activating transcription factor 6;XBP1:X 盒结合蛋白 1 X-box binding protein 1;MCP-1:单核细胞趋化蛋白 1 Monocyte chemoattractant protein 1;24hMBG:24
+h 平均血糖水平 24 hours mean blood glucose;SDBG:血糖水平的标准差 Blood glucose standard deviation;MAGE:平均血糖波动幅度 Average daily blood
+glucose fluctuations;LAGE:最大血糖波动幅度 Maximum amplitude of glycemic excursions;MPPGE:平均餐后血糖波动幅度 Postprandial blood glucose
+fluctuation;MODD:日间血糖平均绝对差 Mean absolute difference daytime blood glucose
+Western 印迹结果显示,2 组患者血中 Bip、IREI、
+PERK、ORP150、 ATF6、 XBP1、 p-eIF2α、 Ang-2、 MCP-1
+蛋白表达量差异均有统计学意义(P<0. 05,图 2)。
+五、 血糖波动参数与其他因素间相关关系分析
+1. Pearson 相关分析: Ang-2 与 MAGE、 LAGE、
+MPPGE 相关( r 分别为 0 . 432、0 . 279、0 . 386,均 P<
+0. 05),Bip 与 MAGE、LAGE、MPPGE 相关( r 分别为
+0. 783、0. 589、0. 887,均 P < 0. 05); IREI 与 MAGE、
+LAGE、MPPGE、MODD 相关( r 分别为 0. 567、0. 783、
+0. 569、0. 823,均 P<0. 05);PERK 与 MAGE、MPPGE、
+MODD 相关 ( r 分别为 0. 687、0. 902、0. 709,均 P <
+0. 05);ORP150 与 MAGE、LAGE、MPPGE、MODD 相关
+( r 分别为 0. 779、0. 871、0. 775、0. 689,均 P<0. 05);
+ATF6 与 MAGE、LAGE、MPPGE、MODD 相关 ( r 分别
+0. 873、0. 675、0. 893、0. 884,均 P<0. 05);而 XBP1 与
+血糖波动无相关性(表 2)。
+2. 多元回归分析:以 Ang-2 为因变量,各相关变
+量为自变量行多元回归分析得到回归方程,Ang-2 =
+234. 113 +0. 339 ×LAGE +0. 501 ×HOMA-IR +0. 434 ×
+MPPGE+ 0. 543 × Bip + 0. 776 × IREI + 0. 652 × PERK +
+0. 772×0RP150+0. 399 ×ATF6+0. 390 ×XBP1+0. 428 ×
+MCP-1;LAGE、 MPPGE、 Bip、 IREI、 PERK、 ORP150 和
+ATF6 是影响 Ang-2 的危险因素(表 3)。
+以 GRACE 为因变量,各相关变量为自变量行多
+表 3  影响 Ang-2 的各因素逐步回归分析
+Tab 3  Multiple step regression analysis of Ang-2 aganist its relative
+factors
+变量
+Variable
+偏回归系数
+B
+标准误
+SE
+标准偏回归系数
+β t P
+常数项
+Constant 234. 11 56. 221 - 4. 211 0. 001
+LAGE 14. 56 1. 890 0. 339 2. 220 0. 000
+MPPGE 15. 30 2. 009 0. 434 1. 998 0. 000
+HOMA-IR 13. 23 1. 228 0. 501 2. 889 0. 011
+Bip 21. 50 3. 221 0. 543 5. 331 0. 007
+IREI 32. 12 4. 221 0. 776 5. 990 0. 010
+PERK 24. 21 4. 321 0. 652 5. 332 0. 008
+ORP150 27. 21 3. 889 0. 772 4. 331 0. 010
+ATF6 28. 26 4. 220 0. 399 4. 098 0. 000
+XBP1 22. 90 4. 011 0. 390 4. 332 0. 012
+MCP-1 11. 21 2. 393 0. 428 2. 352 0. 021
+注: LAGE: 最 大 血 糖 波 动 幅 度 Maximum amplitude of glycemic
+excursions;MPPGE:平均餐后血糖波动幅度 Postprandial blood glucose
+fluctuation;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis
+model assessment for insulin resistance; Bip:重链结合蛋白 Heavy chain
+binding protein; IREI:肌醇需求蛋白激酶I Inositol kinase demand 玉;
+PERK:类 PKR 的内质网应激酶 Endoplasmic reticulum class should PKR
+kinase;ORP150:氧调节蛋白 150 Oxygen-regulated protein 150;ATF6:转录
+激活因子 6 Activating transcription factor 6;XBP1:X 盒结合蛋白 1 X-box
+binding protein 1;MCP-1:单核细胞趋化蛋白 1 Monocyte chemoattractant
+protein 1
+元回归分析得到回归方程 GRACE = 151. 102+0. 250×
+年龄+0. 302×MAGE+0. 551×HOMA-IR+0. 541×Ang-2+
+0. 671 × Bip + 0. 665 × ATF6 + 0. 992 × PERK + 0. 883 ×
+ORP150+0. 881 ×XBP1 +0. 377 ×MCP-1;Ang-2、年龄、
+MAGE、HOMA-IR、Bip、ATF6、MCP-1 是影响 GRACE
+的危险因素(表 4)。
+表 4  影响 GRACE 的各因素逐步回归分析
+Tab 4   Multiple step regression analysis of GRACE against its
+relative factors
+变量
+Variable
+偏回归系数
+B
+标准误
+SE
+标准偏回归系数
+β t P
+常数项
+Constant 156. 102 34. 221 3. 221 0. 001
+年龄
+Age 11. 229 0. 382 0. 256 2. 210 0. 005
+MAGE 13. 228 1. 290 0. 302 1. 997 0. 010
+HOMA-IR 14. 221 1. 228 0. 551 2. 131 0. 001
+Ang-2 13. 990 1. 887 0. 541 2. 229 0. 000
+Bip 21. 301 2. 332 0. 671 2. 882 0. 002
+PERK 27. 891 3. 120 0. 992 3. 221 0. 011
+ORP150 27. 120 3. 998 0. 883 3. 002 0. 021
+ATF6 32. 331 3. 770 0. 665 3. 349 0. 009
+XBP1 34. 120 3. 991 0. 881 3. 887 0. 028
+MCP-1 9. 883 3. 901 0. 377 2. 992 0. 022
+注:GRACE:全球急性冠状动脉事件 Global acute coronary events;
+MAGE:平均血糖波动幅度 Average daily blood glucose fluctuations;HOMA-
+IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment for
+insulin resistance;Ang-2:血管生成素 2 Angiopoietin-2;Bip:重链结合蛋白
+Heavy chain binding protein;PERK:类 PKR 的内质网应激酶 Endoplasmic
+reticulum class should PKR kinase; ORP150: 氧 调 节 蛋 白 150 Oxygen-
+regulated protein 150;ATF6:转录激活因子 6 Activating transcription factor
+6;XBP1:X 盒结合蛋白 1 X-box binding protein 1;MCP-1:单核细胞趋化
+蛋白 1 Monocyte chemoattractant protein 1
+表 5  影响射血分数的各因素逐步回归分析
+Tab 5  Multiple step regression analysis of ejection fraction against
+its relative factors
+变量
+Variable
+偏回归系数
+B
+标准误
+SE
+标准偏回归系数
+β t P
+常数项
+Constant 89. 552 18. 112 - 2. 228 0. 005
+Ang-2 50. 276 14. 220 0. 449 3. 993 0. 002
+MCP-1 67. 220 11. 658 0. 339 4. 331 0. 006
+SBP 44. 231 11. 372 0. 387 2. 258 0. 032
+MAGE -35. 665 10. 227 0. 421 2. 882 0. 008
+LAGE -42. 289 8. 309 0. 378 2. 229 0. 021
+Bip 27. 298 10. 330 0. 421 3. 201 0. 017
+PERK 43. 227 11. 009 0. 479 3. 991 0. 020
+ORP150 48. 220 10. 876 0. 663 4. 331 0. 021
+ATF6 37. 229 9. 021 0. 778 5. 221 0. 019
+XBP1 50. 113 10. 221 0. 449 7. 119 0. 008
+注:Ang-2:血管生成素 2 Angiopoietin-2;MCP-1:单核细胞趋化蛋白
+1 Monocyte chemoattractant protein 1;SBP:收缩压 Systolic blood pressure;
+MAGE:平均血糖波动幅度 Average daily blood glucose fluctuations;LAGE:
+最大血糖波动幅度 Maximum amplitude of glycemic excursions;Bip:重链结
+合蛋白 Heavy chain binding protein; PERK:类 PKR 的内质网应激酶
+Endoplasmic reticulum class should PKR kinase;ORP150:氧调节蛋白 150
+Oxygen-regulated protein 150; ATF6: 转 录 激 活 因 子 6 Activating
+transcription factor 6;XBP1:X 盒结合蛋白 1 X-box binding protein 1
+以射血分数为因变量, 各相关变量为自变量行多
+元回归分析得到回归方程射血分数 = 89. 552 +0. 250
+年龄+0. 421×MAGE+0. 387 ×收缩压+0. 449 ×Ang-2 +
+0. 421×Bip +0. 778 ×ATF6 +0. 0. 479 ×PERK+0. 663 ×
+ORP150+0. 449×XBP1+0. 339×MCP-1;Ang-2、收缩压、
+MAGE、Bip、ATF6、MCP-1 是影响射血分数的危险因素
+(表 5)。
+讨    论
+国内外研究结果显示,ACS 患者中血糖应激性升
+高很常见,而血糖水平在高峰与低谷间剧烈波动的现
+象也十分普遍[3]。 随着 CGMS 的临床应用,人们逐渐
+认识到,血糖波动独立于 HBA1C在血管并发症中扮演
+了重要的角色,血糖波动可通过急、慢性作用加重血管
+损害,血糖波动的急性作用表现为瞬时葡萄糖高峰与
+血糖波动引起动脉壁急性损害,是否还有其他因素参
+与,仍不清楚。
+本研究结果显示 2 型糖尿病合并 ACS 患者日内
+血糖波动幅度、餐后血糖波动幅度均明显高于单纯糖
+尿病患者,且前者波动幅度更显著,同时前者日内、日
+间及餐后血糖变异性明显高于后者,表明 2 型糖尿病
+患者在发生 ACS 时,日内、日间及餐后血糖变异性会
+明显增加,且在不同急性期血糖变异亦有差异。 众所
+周知,ACS 合并血糖代谢异常的患者更容易出现血糖
+的过度波动。 目前对 ACS 时血糖升高变化的机制尚
+未明确,有研究结果认为糖尿病患者在发生 ACS 时机
+体产生应激,增加肾上腺皮质及髓质激素的分泌,使生
+长激素及脂肪酸水平增高,从而促进糖原分解和胰高
+血糖素分泌,抑制胰岛素分泌,导致急性期血糖及血糖
+波动进一步加剧[4]。
+本研究证实,内质网应激在血糖波动导致 ACS 风
+险增加中起到重要作用。 可能的机制是内质网应激影
+响到斑块的不稳定。 它通过诱导斑块平滑肌细胞和巨
+噬细胞凋亡增加斑块的不稳定[5]、参与斑块脂代谢异
+常通过引起细胞内胆固醇的积聚促进 AS 的发展[6]、
+参与斑块炎症反应导致血管内皮紊乱[7]。 从而导致
+ACS 的发生发展。 另一直接的证据就是本研究对 2 组
+比较证实 Ang-2 的表达有显著性差异,表明 Ang-2 对
+不稳定斑块的影响从而导致 ACS 的发生的风险增加。
+不稳定斑块的破裂和继发血栓形成是 ACS 的基
+础,其形成、发展是一个多因素参与的过程。 不稳定斑
+块的破裂和继发血栓形成是 ACS 的基础,其形成、发
+展是一个多因素参与的过程。 Ang-2 是新近发现的内
+皮细胞炎症反应的自分泌调节因子,在血管内皮表达,
+与血管新生密切相关,Ang-2 在不稳定斑块丰富表
+达[8],对 ACS 的发生起到十分重要的作用[9]。
+本研究中,ACS 组的 HOMA-IR 有增高的趋势,说
+明在 ACS 组患者中可能存在更严重的胰岛素抵抗状
+态。 年龄因素对 GRACE 评分影响,从而导致 ACS 风
+险增加原因可能是动脉硬化增龄性改变有关。
+然而,血糖波动是如何导致内质网应激的发生以
+及如何使得 Ang-2 在血管内的易损斑块中表达增加,
+是否是通过炎症 PI3K / Akt / mTOR 信号通路诱导巨噬
+细胞自噬( authopagy)减少,增加斑块巨噬细胞的浸
+润,增强炎症反应进而使动脉粥样硬化易损斑块更加
+不稳定,尚需要体内外试验来进一步证实,也是下一步
+研究的课题。
+总之,本研究结果显示,糖尿病患者发生 ACS 时,
+其日内、日间及餐后的血糖波动幅度均有明显增大,而
+且日内 MAGE 还可能是影响糖尿病 ACS 患者临床预
+后的一个重要因素。 对于有糖尿病的 ACS 患者血糖
+变异性的风险应该得到更广泛的关注,及时控制高血
+糖并保持血糖平稳、减少内质网应激、拮抗 Ang-2 在易
+损斑块的表达,是改善患者临床预后的重要环节。

@@ -1,0 +1,257 @@
+临床研究
+四川大学华西医院内分泌科(冉兴无);南京大学鼓楼医院内分泌科(朱大龙);江苏省中西医结合医院内分泌科(刘超)
+301 悦优血糖仪的性能评估:一项多中心临床
+试验
+王海滨  陈康  赵家军  冉兴无  朱大龙  刘超  巴建明  母义明
+[摘要]   目的  评估 301 悦优血糖仪在血糖监测中的准确度及重复性。 方法 采集 1 092 例患者的
+指尖毛细血管血和前臂静脉血,并分别用 301 悦优血糖仪和生化分析仪测量毛细血管血糖和静脉血糖。
+鱼跃实验室通过静脉血制备极低、极高浓度样品并分别测量毛细血管血糖和静脉血糖。 以静脉血糖为参
+考值,参照国际血糖监测系统标准(ISO15197:2003)的要求评价该血糖仪的准确度;用 Clarke 误差栅格分
+析图分析两者血糖的一致性;用线性回归的方法分析两者的相关性。 实验室内,利用 5 台血糖仪分别重复
+测量高低浓度质控液 20 次,测试血糖仪血糖检测的重复性。 结果 获得 1 092 例患者的静脉血糖和毛细
+血管血糖,98. 6%的血糖差值都落在 ±0. 83 mmol / L(当血糖浓度<4. 2 mmol / L)或者 ± 20%以内(当血糖浓
+度≥4. 2 mmol / L),符合 ISO15197:2003 标准。 误差栅格分析图显示毛细血管血糖值 100%都落在 A、B 区。
+毛细血管血糖值与静脉血糖值在整体水平上有较好的相关性( r = 0. 981 5)。 重复性测试显示低浓度测量
+值的标准差 SD<0. 1 mmol / L,高浓度测量值的变异系数百分比为 3. 4% ,满足 ISO 的要求。 结论 301 悦优
+血糖仪表现出良好的准确度和重复性,符合国际血糖检测系统标准的要求。
+[关键词]   301 悦优血糖仪; 自我血糖检测; 重复性; 准确度
+Performance of Yueyou 301 blood glucose monitoring meter in a multicenter clinic study    Wang Haibin*,
+Chen Kang, Zhao Jiajun, Ran Xingwu, Zhu Dalong, Liu Chao, Ba Jianming, Mu Yiming. *Department of
+Endocrinology, PLA General Hospital, Beijing 100853, China
+[Abstract]  Objective  This multicenter clinic study was conducted to evaluate the accuracy of Yueyou 301
+blood glucose meter (Yuwell Medical Equipment & Supply Co. , Ltd. , Jiangsu, China) in comparison with YSI 2300
+Stat Plus glucose analyzer. Methods Capillary blood glucose and the forearm venous plasma glucose levels were
+measured with the Yueyou 301 glucose meter and YSI 2300 Stat Plus glucose analyzer. In accordance with the ISO
+15197:2003 requirements and permits, Yuwell laboratory obtained the extremely low and high concentration samples,
+which were also assessed by the glucose meter and the glucose analyzer. Taking the venous plasma glucose as the
+reference value, the accuracy of the Yuwell glucose meter was evaluated flowing the DIN EN ISO ( International
+Organization for Standardization) 15197:2003. The consistency of capillary blood glucose and venous plasma glucose
+was studied by Consensus Error Grid Analysis, the correlation of capillary blood glucose and venous plasma glucose
+was analyzed according to liner regression analysis. Reproducibility precision test was carried on in the Yuwell
+laboratory with the control solution of high and low concentration tested for 20 times in five glucose meters. Results
+There were 1 092 venous plasma glucose values paired with capillary blood glucose values, of which, comparing to
+venous plasma glucose, 98. 6% met the minimum requirements defined by the ISO15197:2003 standard (95% of
+all measurements within ± 0. 83 mmol / L for the range < 4. 2 mmol / L and ± 20% for the glucose range≥4. 2
+mmol / L) . Paired glucose measurements from the Yueyou 301 glucose meter and laboratory glucose measurement
+demonstrated that 100% of paired points in the overall subject population fell in zones A and B of the error grid
+analyze. The capillary blood glucose value was well correlated to venous plasma glucose value in the overall level( r=
+0. 981 5). Regarding the reproducibility, the low concentrations( < 5. 6 mmol / L) had SD≤1. 51 mg / dl ( < 0. 1
+mmol / L), which was well within the acceptability criteria of<5 mg / dl(<0. 3 mmol / L)and the high concentrations>
+100 mg / dl(>5. 6 mmol / L) had a CV<2% , which were well within the acceptability criteria of<5% . Conclusion
+The accuracy and reproducibility of the Yueyou 301 blood glucose meter meet the performance criteria established by
+the ISO15197:2003.
+[Key words]  Yueyou 301 glucose meter; Self-monitoring of blood glucose; Reproducibility; Accuracy
+(Chin J Endocrinol Metab, 2014, 30: 316-320)
+目前血糖检查有生化分析仪测定法和便携式血糖
+仪测定法,其中生化分析仪测定静脉血糖是公认的测
+定方法,准确可靠,但采血量多、测定时间长,不适用于
+长期监测血糖的糖尿病患者;便携式血糖仪测定血糖
+快速、简便,能及时获取血糖变化情况,为调整药物用
+量、饮食和运动提供依据,从而将血糖控制并维持在理
+想范围内,减少并发症的发生,提高患者的生存质量。
+一台准确度高的血糖仪对于糖尿病患者进行自我
+血糖检测(self-monitoring of blood glucose)来说是重要
+的装备。 在过去的几十年里,随着技术的进步,血糖仪
+的生产技术在提高,同时对其血糖监测的准确度的要
+求也越来越严格,而目前国际血糖监测系统标准
+(ISO15197:2003) [1]作为便携式血糖仪的准确度标准
+已经有 10 年了。 目前,国内外很多关于血糖检测系统
+的评价文章,但是测试的对象多为强生[2]、拜耳、罗氏
+等外国品牌的血糖仪,对国内品牌血糖仪报道极少。
+鱼跃血糖仪(型号:301 悦优域型)为江苏鱼跃医疗设
+备股份有限公司的新产品,目前尚无对其进行测试和
+评价的报道,本研究将全面对其性能进行评估。
+对象和方法
+一、 对象
+本研究为多中心试验,以 2013 年 8 月 7 日至 2013
+年 8 月 14 日在中国人民解放军总医院、山东省立医
+院、华西医院、江苏省中西医结合医院、南京鼓楼医院
+这 5 家三甲级医院就诊的内分泌科门诊和住院患者
+1 092 例为对象。
+入选标准:年龄 18 ~ 75 岁,性别不限;血细胞压积
+为 0. 30 ~ 0. 60 L / L(30% ~60% )。
+排除标准:需进行血糖诊断的糖尿病患者或新生
+儿血糖检测;有严重心、脑、肝、肾功能不全的患者;严
+重营养不良的患者;孕妇及哺乳期妇女;中重度贫血或
+严重脱水者。
+所有受试者自愿参加本研究,并签署知情同意书。
+二、 方法
+1. 仪器与试剂:鱼跃血糖仪(型号:301 悦优域
+型)及配套试纸、全自动生化分析仪(YSI2300)。
+2. 血糖测量:对所有受试者,首先用采血针穿刺
+手指指腹采集毛细血管血,用 301 悦优血糖仪测量血
+糖值 2 次取平均值并记录(毛细血管血糖),然后在 5
+min 内使用真空采血管收集同臂静脉血,15 min 内离
+心,再以全自动生化分析仪采用葡萄糖氧化酶法测量
+血糖值并记录(静脉血糖)。
+由于门诊和临床缺少极低、极高密度的血样品,按
+照 ISO15197:2003 的要求和允许,鱼跃实验室通过静
+脉血过夜糖酵解法获得极低浓度样品,并添加适量葡
+萄糖获得高浓度样品,极低、极高浓度血样品同样分别
+经过血糖仪和生化分析仪测量血糖并记录。
+重复精密性测试采用质控液在鱼跃实验室进行。
+质控液的浓度范围按照试纸标签选取。 将同一个批号
+的血糖试纸 100 片,装于 10 个试纸瓶内,每瓶装 10 片
+血糖试纸。 质控液用 5 台血糖仪进行检测,每台血糖
+仪每天测量质控物质 2 次,每次测量的血糖试纸取自
+10 个不同的血糖试纸瓶,重复上述测量 10 d,共完成
+100 次血糖测量。
+3. 性能评估:血糖仪的准确度评价按照国际血糖
+监测系统标准 ( ISO15197:2003),即血糖浓度 < 4. 2
+mmol / L 时,试验组与对照组测量值偏差落在 ± 0. 28
+mmol / L、±0. 56 mmol / L、±0. 83 mmol / L 范围内的例数
+(百分数)及其中偏差在 ± 0. 83 mmol / L 范围内,受试
+血糖监测系统、血糖试纸与对照组测量值偏差的 95%
+在 ±0. 83 mmol / L 范围内;血糖浓度≥4. 2 mmol / L 时,
+试验组与对照组测量值偏差落在 ± 5% 、 ± 10% 、
+±15% 、±20%范围内的例数(百分数),受试血糖监测
+系统、血糖试纸与对照组测量值偏差的 95% 在 ± 20%
+范围内。
+血糖结果的一致性分析利用 Clarke 误差栅格分
+析(error grid analyze) [3],用以评估不正确结果所带来
+的临床风险程度。 A 区:测量值偏离参照组不超过
+20% ,或当参照组<3. 9 mmol / L 时,测量值也落于血
+糖<3. 9 mmol / L 的范围内,在此区的测量值在临床上
+可被认为是准确的,故可以做出正确的诊断;B 区:测
+量值偏离参照组超过 20% ,但结果仍可以算是良性的
+治疗判断,测量值是临床上可接受的;C 区:当实际上
+的血糖值落于目标范围内时,测量值却落于目标范围
+外,这些测量值会造成过度矫正可接受血糖值标准的
+风险,治疗可能会导致血糖过低或过高症,因此落于此
+区的值是临床不可接受的;D 区:当实际上的血糖值落
+于目标范围外时,测量值却落于目标范围内,这些测量
+值呈现出忽略了观察显着的血糖过低或过高症和立即
+治疗的危险。 测量值是临床上不能接受的;E 区:测量
+值相反于参照组的测量值,这些测量值可能造成错误
+的治疗判断,例如血糖过低症被当成血糖过高症来治
+疗,这些测量值是临床上不可接受的。
+三、 统计学处理
+毛细血管血糖和 VBG 值整体水平相关性分析采
+用线性回归,计算 r 值。
+重复性测试计算各个浓度质控液测量结果的标准
+差(SD) 和变异系数百分比 (CV%),判断标准按照
+ISO15197:2003 的要求,即当血糖 < 5. 6 mmol / L 时,
+SD<0. 3 mmol / L;当血糖浓度≥5. 6 mmol / L 时,CV% <
+5% 。
+采用 SPS 16. 0 软件进行统计分析。
+结    果
+一、 一般情况
+本次临床试验按照入组标准和排除标准最终入组
+1 103 例,删除其中的 11 例离群值之后,最终进入统计
+的共 1 092 例(其中高、低浓度各 39 例是在实验室人
+工调血完成,1 014 例在医院临床完成)。 受试者中女
+性 654 例(59. 9% ),年龄 20 ~ 75 岁,其中正常受试者
+215 例(19 . 7% ) 、 1 型糖尿病患者 26 例(2. 4% )、
+2 型糖尿病患者 823 例 (75. 4% )、其他患者 27 例
+(2. 5% );生化分析仪检测的血糖值范围为 1. 0 ~ 31. 5
+mmol / L。 红细胞压积的范围在 30% ~60% 。
+二、 血糖仪和血糖试纸系统准确度评估
+从误差栅格分析可以看出,坐标横轴为生化血糖
+仪检测的血糖值,纵轴为 301 悦优血糖仪的血糖值,后
+者 99. 2% (1 083 / 1 092)落在 A 区,剩下的都落在 B
+区,无任何数据落在 C、D、E 区。 线性分析结果显示,
+毛细血管血糖与静脉血糖整体水平上表现出良好的相
+关性( r=0. 981 5,图 1)。
+图 2 显示,毛细血管血糖与静脉血糖的差值
+98. 6% (1 077 / 1 092)都落在了 20%的界限以内。
+图 1  误差栅格分析
+Fig 1  Error grid analysis
+注: △BG:301 悦优血糖-血糖参考值 Yoeyou 301 blood glucose minus
+reference of blood glucose
+图 2  偏差图
+Fig 2  Bias plot
+图 3  不同浓度血糖偏差分布情况
+Fig 3  Percentage of sample falling within indicated ranges relative to the YSI reference
+表 1  重复精密性测试统计
+Tab 1  Summary of the reproducibility test
+组别
+Group
+最小值
+Minimum value
+(mmol / L)
+最大值
+Maximum value
+(mmol / L)
+均数
+Mean
+(mmol / L)
+SD CV% ISO 标准ISO standard
+低浓度
+Low concentration 3. 8 4. 2 4. 0 0. 078 2. 0% SD<0. 3 mmol / L
+高浓度
+High concentration 13. 2 15. 4 14. 3 0. 484 3. 4% CV% <5%
+以静脉血糖为参考值,当血糖浓度<4. 2 mmol / L
+时,毛细血管血糖与静脉血糖差值的 98. 4% 在 ± 0. 83
+mmol / L 范围内,当血糖浓度≥4. 2 mmol / L 时,毛细血
+管血糖与静脉血糖差值的 98. 6%落在 20%范围内(图
+3),达到 ISO15197:2003 对于血糖仪准确度的最低要
+求。
+三、 重复精密性测试结果
+表 1 显示重复精密性统计结果显示:低浓度质控
+液血糖测量值的 SD(0. 078 mmol / L)在可接受的标准
+(<0. 3 mmol / L) 以内;高浓度质控液血糖测量值的
+CV%为 3. 4% ,小于 ISO 要求的<5% 。
+讨    论
+2005 年全球糖尿病专家达成共识肯定了自我血
+糖检测的重要性, 推荐所有糖尿病患者行血糖检测,
+以 取得良好的血糖控制[4]。 ROSSO 研究[5] 以及
+Polonsky 等[6]的报道也证实糖尿病患者常规进行自我
+血糖检测能够明显的降低 HBA1C水平,并能长期维持
+血糖代谢的控制,减少糖尿病相关并发症的发生,显著
+提高糖尿病患者的生活质量,延长预期寿命。
+对于便携式血糖仪,更高的准确度意味着能够为
+患者带来更好的血糖控制。 临床上胰岛素剂量的变化
+往往是基于血糖仪的检测结果,血糖仪发生 5% 的错
+误可能导致胰岛素剂量 8% ~ 23%的错误发生,因此,
+血糖仪的准确度对于胰岛素剂量的至关重要[7]。
+本次研究显示 301 悦优血糖仪在不同浓度范围血
+糖测量上都表现出较高的准确性和重复性,满足了
+ISO15197:2003 对于血糖仪准确度、重复性上的要求。
+误差栅格分析显示 98%的血糖值落在 A 区,提示在临
+床上根据血糖值结果不会做出任何错误的诊断,2%的
+血糖值落在 B 区,提示临床上依据该血糖值可能做出
+不一样的诊断或治疗但不会对最终的临床结果造成影
+响,没有血糖值落在 C、D、E 区,提示不会产生严重影
+响临床结局的错误诊断及治疗。 线性分析结果显示,
+301 悦优血糖仪与生化分析仪的测量结果整体上表现
+出良好的相关性( r = 0. 981 5)。 偏差分析显示,入组
+的 109 例血糖值(毛细血管血糖和静脉血糖),两者差
+值都落在 ISO15197:2003 要求的标准界限以内:以静
+脉血糖为参考值,98. 6% 的血糖差值都落在 ± 0. 83
+mmol / L(当血糖浓度<4. 2 mmol / L)或者 ± 20% 以内
+(当血糖浓度≥4. 2 mmol / L) [1]。 重复性测试显示,在
+10 d 的实验中,使用 5 台不同的血糖仪分别对高低浓
+度质控液进行测量,所有测量的血糖浓度都满足了
+ISO15197:2003 对于血糖仪重复性实验的要求:当血
+糖浓度<5. 6 mmol / L 时,SD<0. 1 mmol / L,低于 ISO 标
+准要求的 SD < 0. 3 mmol / L;当血糖浓度大于 5. 6
+mmol / L 时,CV% 为 3. 4% ,小于了 ISO 标准要求的
+CV% <5% ,表明该血糖仪血糖测量具有较好的重复
+性。
+研究发现,血糖测量的准确度不仅跟血糖仪自身
+的性能有关,血量、红细胞压积、温度、湿度等都会对测
+量结果产生影响[8]:血量体积太小容易产生错误的低
+值结果,偏差范围从 17% ~79% [9];而<35%的红细胞
+压积则会导致较高的读数结果[10]。 301 悦优血糖仪
+采血微痛,血糖检测仅需 0. 5 滋l 的血量、5 s 的时间即
+可显示测量结果,优于很多血糖仪;而其具有的红细胞
+压积补偿功能,可减少血样因素对结果造成的影响。
+此外,患者对血糖仪的使用技巧也会对测量结果产生
+一定的影响。 301 悦优血糖仪的试纸插入自检功能,
+使用者使用血糖仪免手动调码,无需密码牌,插入试纸
+即可自动识别,减少了因为操作因素带来的影响。 同
+时其屏幕大、字体大并有背光设计,有利于老年人使
+用。 301 悦优血糖仪的独特设计和功能都有助于提高
+患者对进行自我血糖检测的依从性,有效控制血糖。
+随着患者对糖尿病认识的提高,相信会有更多的
+患者选择使用便携式血糖仪检测血糖,相应的对于血
+糖仪生产商的要求也将会更严格,目前最新的国际血
+糖监测标准 ISO15197:2013[11] 正在起草当中,希望鱼
+跃血糖仪也能够满足新的标准,成为患者进行血糖监
+测的重要工具。
+通过国际标准规范检测评价,表明鱼跃 301 悦优
+血糖仪域型能够准确反映血糖的真实水平,对于极高
+极低浓度的血糖也能够准确的测量,加上其独特的设
+计,不仅能满足糖尿病患者自我检测血糖的需要,也适
+合临床对血糖监测系统的要求,具有较高的临床应用
+价值,值得在糖尿病患者和临床中使用。

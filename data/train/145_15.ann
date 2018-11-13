@@ -1,0 +1,392 @@
+T1	Disease 664 669	糖尿病肾病
+T2	Disease 2868 2873	糖尿病肾病
+T3	Disease 2891 2893;2894 2897	糖尿 病肾病
+T4	Disease 2955 2960	糖尿病肾病
+T5	Disease 3222 3227	糖尿病肾病
+T6	Disease 3289 3294	糖尿病肾病
+T7	Disease 3315 3320	糖尿病肾病
+T8	Disease 3351 3356	糖尿病肾病
+T9	Disease 10438 10439;10440 10444	糖 尿病肾病
+T10	Test 305 309	尿白蛋白
+T11	Test 501 505	尿白蛋白
+T12	Test 3644 3648	尿白蛋白
+T13	Test 320 323	尿素氮
+T14	Test 510 513	尿素氮
+T15	Test 4567 4570	尿素氮
+T16	Test 5586 5589	尿素氮
+T17	Test 5802 5805	尿素氮
+T18	Test 6706 6709	尿素氮
+T19	Test 10772 10775	尿素氮
+T20	Test 316 319	血肌酐
+T21	Test 506 509	血肌酐
+T22	Test 4563 4566	血肌酐
+T23	Test 5582 5585	血肌酐
+T24	Test 5798 5801	血肌酐
+T25	Test 5880 5883	血肌酐
+T26	Test 6691 6694	血肌酐
+T27	Test 310 312	体重
+T28	Test 3576 3578	体重
+T29	Test 3976 3978	体重
+T30	Test 4557 4559	体重
+T31	Test 4650 4652	体重
+T32	Test 5645 5647	体重
+T33	Test 5684 5686	体重
+T34	Test 5813 5815	体重
+T35	Test 5936 5938	体重
+T36	Test 6573 6575	体重
+T37	Test 6615 6617	体重
+T38	Anatomy 41 51	叉头状转录因子 O1
+T39	Disease 53 56	糖尿病
+T40	Disease 133 136	糖尿病
+T41	Disease 167 170	糖尿病
+T42	Disease 214 217	糖尿病
+T43	Anatomy 227 232	FoxO1
+T44	Disease 265 268	糖尿病
+T45	Test 313 315	血糖
+T46	Test 324 326	光镜
+T47	Test 327 331	透射电镜
+T48	Anatomy 335 338	肾小球
+T49	Anatomy 340 343	足细胞
+T50	Anatomy 374 377	肾皮质
+T51	Anatomy 379 384	FoxO1
+T52	Anatomy 467 469	肾脏
+T53	Anatomy 535 537	肾脏
+T54	Test 539 545	COL4A3
+T55	Test 546 552	COL4A5
+T56	Anatomy 615 620	FoxO1
+T57	Disease 627 630	糖尿病
+T58	Disease 2874 2877	糖尿病
+T59	Anatomy 2887 2890	足细胞
+T60	Disease 2976 2981	肾小球硬化
+T61	Anatomy 3100 3105	FoxO1
+T62	Anatomy 3108 3112	FoxO
+T63	Disease 3227 3232	足细胞损伤
+T64	Anatomy 3246 3251	FoxO1
+T65	Anatomy 3365 3370	FoxO1
+T66	Test 3394 3396	电镜
+T67	Anatomy 3408 3413	FoxO1
+T68	Disease 3422 3427	足细胞损伤
+T69	Anatomy 3474 3479	FoxO1
+T70	Disease 3488 3491	糖尿病
+T71	Test 3495 3501;3502 3503	足细胞4型胶 原
+T72	Anatomy 3523 3528	FoxO1
+T73	Disease 3537 3538;3539 3543	足 细胞损伤
+T74	Anatomy 4073 4078	FoxO1
+T75	Disease 4178 4179;4180 4182	糖 尿病
+T76	Test 4247 4249	血糖
+T77	Disease 4266 4269	糖尿病
+T78	Disease 4276 4279	糖尿病
+T79	Test 4286 4288	血糖
+T80	Test 4560 4562	血糖
+T81	Test 4598 4606	24 h 尿蛋白
+T82	Test 4634 4637;4638 4639	肾重指 数
+T83	Anatomy 4885 4890	FoxO1
+T84	Anatomy 5117 5122	FoxO1
+T85	Anatomy 5499 5501	肾脏
+T86	Anatomy 5523 5526	肾皮质
+T87	Test 5562 5570	24 h 尿蛋白
+T88	Test 5624 5626	血糖
+T89	Test 5627 5631	肾重指数
+T90	Test 5681 5683	血糖
+T91	Test 5702 5706	肾重指数
+T92	Test 5770 5772	血糖
+T93	Test 5773 5774;5775 5778	肾 重指数
+T94	Test 5779 5787	24 h 尿蛋白
+T95	Test 5856 5860	肾重指数
+T96	Test 5861 5869	24 h 尿蛋白
+T97	Test 5884 5886;5887 5888	尿素 氮
+T98	Anatomy 6023 6028	FoxO1
+T99	Anatomy 6482 6487	FoxO1
+T100	Test 6621 6623	血糖
+T101	Anatomy 8325 8330	FoxO1
+T102	Anatomy 8398 8401	肾皮质
+T103	Anatomy 8581 8583	肾脏
+T104	Anatomy 8585 8590	FoxO1
+T105	Anatomy 8591 8598	p-FoxO1
+T106	Anatomy 8647 8649	肾脏
+T107	Anatomy 8651 8656	FoxO1
+T108	Anatomy 8741 8743	肾脏
+T109	Anatomy 8745 8752	p-FoxO1
+T110	Anatomy 8902 8909	p-FoxO1
+T111	Test 9013 9015	光镜
+T112	Test 9016 9018	电镜
+T113	Test 9029 9031	光镜
+T114	Test 9111 9113	电镜
+T115	Anatomy 9431 9436	FoxO1
+T116	Anatomy 9747 9752	FoxO1
+T117	Anatomy 9981 9984	足细胞
+T118	Anatomy 10116 10119	足细胞
+T119	Anatomy 10125 10130;10131 10132	肾小球基底 膜
+T120	Anatomy 10135 10138	足细胞
+T121	Disease 10202 10207	足细胞损伤
+T122	Anatomy 10251 10254	足细胞
+T123	Disease 10270 10275	足细胞受损
+T124	Disease 10293 10298	足细胞损伤
+T125	Anatomy 10313 10318	FoxO1
+T126	Disease 10320 10323	糖尿病
+T127	Disease 10367 10372	足细胞损伤
+T128	Anatomy 10393 10398	FoxO1
+T129	Anatomy 10409 10413	系膜细胞
+T130	Anatomy 10454 10459	FoxO1
+T131	Anatomy 10503 10508	FoxO1
+T132	Disease 10529 10532	糖尿病
+T133	Anatomy 10550 10555	FoxO1
+T134	Disease 10557 10562	足细胞损伤
+T135	Disease 10676 10679	糖尿病
+T136	Test 10712 10716	肾脏功能
+T137	Test 10748 10756	24 h 尿蛋白
+T138	Test 10757 10766	24 h 尿白蛋白
+T139	Test 10767 10769;10770 10771	血肌 酐
+T140	Anatomy 10807 10809	肾脏
+T141	Test 10883 10891	24 h 尿蛋白
+T142	Disease 10912 10915	糖尿病
+T143	Disease 10917 10922	足细胞损伤
+T144	Anatomy 10937 10942	FoxO1
+T145	Disease 10944 10949	足细胞损伤
+T146	Disease 10962 10965	糖尿病
+T147	Anatomy 10967 10968;10969 10970	肾 脏
+T148	Anatomy 11072 11077	FoxO1
+T149	Anatomy 11146 11151	FoxO1
+T150	Test 11239 11241	血糖
+T151	Anatomy 11283 11288	FoxO1
+T152	Disease 11292 11295	糖尿病
+T153	Disease 11328 11333	足细胞损伤
+T154	Anatomy 11405 11407	肾脏
+T155	Anatomy 11498 11503	FoxO1
+T156	Disease 11510 11513	糖尿病
+T157	Disease 11548 11551	糖尿病
+T158	Disease 11594 11597	糖尿病
+T159	Anatomy 11602 11607	FoxO1
+T160	Anatomy 11628 11633	FoxO1
+T161	Disease 11645 11648	糖尿病
+T162	Anatomy 11693 11698	FoxO1
+T163	Disease 11700 11703	糖尿病
+T164	Anatomy 11705 11708	足细胞
+T165	Anatomy 1167 1172	FoxO1
+T166	Anatomy 1539 1544	FoxO1
+T167	Anatomy 1913 1918	FoxO1
+T168	Anatomy 2210 2215	FoxO1
+T169	Anatomy 2553 2558	FoxO1
+T170	Anatomy 3784 3789	FoxO1
+T171	Anatomy 6203 6208	FoxO1
+T172	Anatomy 9407 9412	FoxO1
+T173	Anatomy 10360 10365	FoxO1
+T174	Anatomy 11082 11087	FoxO1
+T175	Anatomy 3134 3137	Akt
+T176	Test 1831 1834	PCR
+T177	Test 3738 3741	PCR
+T178	Test 5933 5935	血糖
+T179	Disease 201 203	感染
+T180	Disease 288 290	感染
+T181	Test 435 437	蛋白
+T182	Test 481 483	蛋白
+T183	Test 566 568	蛋白
+T184	Test 585 589	肾脏病理
+T185	Disease 2880 2886	微血管并发症
+T186	Anatomy 3048 3063	叉头 状 转 录 因 子 O1
+T187	Disease 3294 3300	足细胞的损伤
+T188	Anatomy 3361 3363	肾脏
+T189	Drug 3605 3610	链脲佐菌素
+T190	Disease 4008 4011	糖尿病
+T191	Disease 4018 4021	糖尿病
+T192	Disease 4041 4043	感染
+T193	Disease 4060 4063	糖尿病
+T194	Disease 4098 4100	感染
+T195	Disease 4117 4120	糖尿病
+T196	Anatomy 4300 4302	肾脏
+T197	Anatomy 4373 4377	右肾皮质
+T198	Anatomy 4624 4626	右肾
+T199	Test 4630 4632	肾重
+T200	Test 4643 4645	肾重
+T201	Anatomy 4685 4687	右肾
+T202	Test 4704 4706	光镜
+T203	Test 4753 4755	光镜
+T204	Anatomy 4792 4795	肾组织
+T205	Anatomy 4826 4829	肾组织
+T206	Test 4891 4897	COL4A3
+T207	Test 4898 4904	COL4A5
+T208	Anatomy 4905 4911;4912 4916	desmin mRNA
+T209	Anatomy 5123 5130	p-FoxO1
+T210	Test 5131 5137	COL4A3
+T211	Test 5138 5144	COL4A5
+T212	Test 5146 5155	desmin 蛋白
+T213	Anatomy 5161 5164	肾组织
+T214	Test 5469 5474	荧光显微镜
+T215	Anatomy 6019 6021	肾脏
+T216	Test 6029 6035	COL4A3
+T217	Test 6036 6042	COL4A5
+T218	Anatomy 6045 6056	desmin mRNA
+T219	Anatomy 6083 6085	肾脏
+T220	Anatomy 6489 6499	叉头状转录因子 O1
+T221	Test 6501 6518	COL4A3: 4型胶原 α3 链
+T222	Test 6539 6550	desmin: 结蛋白
+T223	Anatomy 6552 6563	GAPDH: 内参基因
+T224	Test 6576 6580	肾重指数
+T225	Test 6581 6585	生化指标
+T226	Test 6635 6639	肾重指数
+T227	Test 6648 6656	24 h 尿蛋白
+T228	Disease 7929 7935	DM:糖尿病
+T229	Disease 7943 7946	糖尿病
+T230	Disease 7965 7967	感染
+T231	Disease 7975 7978	糖尿病
+T232	Anatomy 7984 7996	活性叉头状转录因子 O1
+T233	Disease 8016 8018	感染
+T234	Test 8099 8115	COL4A3:4型胶原 α3 链
+T235	Test 8116 8132	COL4A5:4型胶原 α5 链
+T236	Test 8133 8145	desmin:结蛋白;N
+T237	Disease 8156 8159	糖尿病
+T238	Disease 8167 8169;8170 8171	糖尿 病
+T239	Disease 8190 8192	感染
+T240	Disease 8200 8203	糖尿病
+T241	Anatomy 8209 8221	活性叉头状转录因子 O1
+T242	Disease 8241 8243	感染
+T243	Anatomy 8322 8324	肾脏
+T244	Test 8331 8337	COL4A3
+T245	Test 8338 8344	COL4A5
+T246	Test 8345 8356	desmin mRNA
+T247	Test 8403 8409	COL4A3
+T248	Test 8410 8416	COL4A5
+T249	Anatomy 8419 8430	desmin mRNA
+T250	Anatomy 9954 9956	肾脏
+T251	Test 10333 10336;10337 10338	糖脂代 谢
+T252	Drug 10403 10405	高糖
+T253	Anatomy 11195 11197	肾脏
+T254	Anatomy 11599 11601	肾脏
+T255	Test_Value 513 517	明显降低
+T256	Test_Value 487 491	明显升高
+T257	Test_Value 571 575	明显降低
+T258	Anatomy 3121 3127	蛋白激酶 B
+T259	Test_Value 3337 3339	下降
+T260	Test_Value 3382 3386	显著降低
+T261	Amount 4203 4213	60 mg / kg
+T262	Test_Value 4249 4255;4256 4264	≥16. 7 mmol / L
+T263	Test 4589 4595	24 h 尿
+T264	Test_Value 5631 5633	升高
+T265	Test_Value 5706 5708	降低
+T266	Test_Value 5807 5809;5810 5812	显著 升高
+T267	Test_Value 5817 5821	明显降低
+T268	Test_Value 5890 5894	明显降低
+T269	Test_Value 6103 6107	显著低于
+T270	Test_Value 8435 8439	显著高于
+T271	Test_Value 8481 8485	显著下降
+T272	Test_Value 8664 8668	显著高于
+T273	Test_Value 8784 8787;8788 8789	显著高 于
+T274	Test_Value 8856 8860	显著下降
+T275	Test_Value 8916 8917;8918 8921	显 著高于
+T276	Anatomy 9986 9990	滤过屏障
+T277	Anatomy 10050 10054	滤过屏障
+T278	Disease 10857 10860	糖尿病
+T279	Anatomy 10862 10865	足细胞
+T280	Anatomy 11090 11097	p-FoxO1
+T281	Test_Value 11233 11237	明显下降
+T282	Test_Value 11443 11447	逐渐升高
+T283	Anatomy 11651 11654	足细胞
+T284	Test_Value 11613 11615	降低
+T285	Symptom 2905 2911	足突融合消失
+T286	Symptom 2912 2920	细胞体积逐渐变小
+T287	Symptom 2922 2929	阴离子电荷减少
+T288	Symptom 2930 2941	最终脱落并从尿液中排出
+T289	Test_Value 3397 3403	足突融合减轻
+T290	Test_Value 9147 9153	足突均匀分布
+T291	Test_Value 9181 9186	厚薄不均匀
+T292	Test_Value 9187 9194;9195 9198	足突增宽甚至融 合消失
+T293	Anatomy 10463 10469	糖尿病足细胞
+T294	Disease 11567 11570	糖尿病
+T295	Anatomy 11570 11573	足细胞
+T296	Anatomy 58 65	足细胞4型胶原
+T297	Anatomy 67 73	desmin
+T298	Anatomy 126 131	FoxO1
+T299	Anatomy 115 125	叉头状转录因子 O1
+T300	Anatomy 138 145	足细胞4型胶原
+T301	Anatomy 146 149	结蛋白
+T302	Anatomy 150 156	desmin
+T303	Disease 179 182	糖尿病
+T304	Test 359 370	Western 印迹法
+T305	Test 385 394	4型胶原 α3 链
+T306	Test 404 413	4型胶原 α5 链
+T307	Test 422 428	desmin
+T308	Anatomy 470 475	FoxO1
+T309	Test 553 559	desmin
+T310	Anatomy 632 639	足细胞4型胶原
+T311	Anatomy 641 647	desmin
+T312	Anatomy 2947 2950	足细胞
+T313	Disease 2972 2975	蛋白尿
+T314	Anatomy 2999 3002	足细胞
+T315	Anatomy 3005 3008	结蛋白
+T316	Anatomy 3009 3015	desmin
+T317	Anatomy 3029 3032	足细胞
+T318	Test 3034 3038	4型胶原
+T319	Anatomy 3191 3200	磷酸肌醇 3 激酶
+T320	Anatomy 3209 3212	Akt
+T321	Anatomy 3201 3205	PI3K
+T322	Anatomy 3255 3270	PI3K / Akt 信号通路
+T323	Anatomy 3322 3330	肾脏 FoxO1
+T324	Anatomy 3505 3511	desmin
+T325	Disease 3532 3535	糖尿病
+T326	Method 4217 4219;4220 4222	腹腔 注射
+T327	Drug 4226 4231	链脲佐菌素
+T328	Test 4613 4617	尿白蛋白
+T329	Test 4878 4881	PCR
+T330	Test 5572 5581	24 h 尿白蛋白
+T331	Test 5788 5797	24 h 尿白蛋白
+T332	Test 5870 5879	24 h 尿白蛋白
+T333	Anatomy 6087 6092	FoxO1
+T334	Anatomy 6130 6135	FoxO1
+T335	Test 6669 6678	24 h 尿白蛋白
+T336	Anatomy 8082 8087	FoxO1
+T337	Anatomy 8599 8605	COL4A3
+T338	Anatomy 8606 8612	COL4A5
+T339	Anatomy 8615 8621	desmin
+T340	Anatomy 8706 8711	FoxO1
+T341	Anatomy 8753 8759	COL4A3
+T342	Anatomy 8760 8766	COL4A5
+T343	Anatomy 8770 8776	desmin
+T344	Anatomy 8813 8819	COL4A3
+T345	Anatomy 8820 8826	COL4A5
+T346	Anatomy 8830 8836	desmin
+T347	Anatomy 9019 9021	肾脏
+T348	Anatomy 9040 9043	肾小球
+T349	Anatomy 9069 9071;9072 9073	肾小 球
+T350	Anatomy 9078 9082	系膜细胞
+T351	Anatomy 9093 9096	基底膜
+T352	Anatomy 9085 9090	细胞外基质
+T353	Anatomy 9121 9124	肾小球
+T354	Anatomy 9136 9144	基底膜及内皮细胞
+T355	Anatomy 9172 9178	肾小球基底膜
+T356	Anatomy 9223 9226	肾小球
+T357	Test 10068 10071	蛋白尿
+T358	Anatomy 10090 10097;10098 10099	肾小球内4型胶 原
+T359	Anatomy 10147 10151	4型胶原
+T360	Anatomy 10161 10164	基底膜
+T361	Anatomy 10177 10179	肾脏
+T362	Anatomy 10180 10186	COL4A3
+T363	Anatomy 10187 10193	COL4A5
+T364	Anatomy 10214 10220	Desmin
+T365	Anatomy 10243 10249	desmin
+T366	Anatomy 10424 10430	肾小球足细胞
+T367	Anatomy 10431 10433	系膜
+T368	Anatomy 10510 10519	肾脏足细胞4型胶原
+T369	Anatomy 10521 10527	desmin
+T370	Anatomy 10811 10817	COL4A3
+T371	Anatomy 10818 10824	COL4A5
+T372	Anatomy 10827 10833	desmin
+T373	Test 10892 10901	24 h 尿白蛋白
+T374	Anatomy 10972 10978	COL4A3
+T375	Anatomy 10979 10985	COL4A5
+T376	Anatomy 11018 11030	足细胞基质金属蛋白酶-9
+T377	Test 11045 11049	4型胶原
+T378	Anatomy 11129 11134	FoxO1
+T379	Anatomy 11200 11206	COL4A3
+T380	Anatomy 11207 11213	COL4A5
+T381	Anatomy 11214 11220	desmin
+T382	Anatomy 11265 11267	肾脏
+T383	Anatomy 11297 11304	足细胞4型胶原
+T384	Anatomy 11306 11312	desmin
+T385	Anatomy 11408 11414	COL4A3
+T386	Anatomy 11415 11421	COL4A5
+T387	Anatomy 11424 11430	desmin
+T388	Anatomy 11515 11522	足细胞4型胶原
+T389	Anatomy 11524 11530	desmin
+T390	Anatomy 11656 11662	COL4A3
+T391	Anatomy 11663 11669	COL4A5
+T392	Anatomy 11670 11676	desmin

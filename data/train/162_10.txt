@@ -1,0 +1,248 @@
+临床研究
+基金项目:辽宁省高等学校“高端人才队伍建设工程冶项目(项目编号[2014]187)
+2 型糖尿病患者血清 Nampt 与胰岛素抵抗及不同尿白蛋白
+排泄率的相关性研究
+安丽  马小羽  王晓宇  任慧雯  于菁  王秋月  吕川
+[提要]   探讨 2 型糖尿病患者血清烟酰胺磷酸核糖转移酶(Nampt)、白细胞介素-1β(IL-1β)与胰岛素
+抵抗及不同尿白蛋白排泄率的相关性。 选择 321 例 2 型糖尿病患者作为实验组进行研究,根据尿白蛋白 /
+肌酐比率(UACR)分为 3 组:正常白蛋白尿组(UACR<30 mg / g,110 例)、微量白蛋白尿组(UACR 30 ~ 300
+mg / g,106 例)、大量白蛋白尿组(UACR>300 mg / g,105 例);采用酶联免疫吸附法检测血清 Nampt、IL-1β 水
+平,另设 105 名为对照组。 在上述实验组中筛选出未经胰岛素治疗的糖尿病患者 98 例,与上述对照组比
+较,根据空腹血糖及胰岛素水平得出稳态模型评估的胰岛素抵抗指数(HOMA-IR)、定量胰岛素敏感性检测
+指数(QUICKI)、稳态模型评估的胰岛 β 细胞功能指数(HOMA-β),比较 2 组间 Nampt、IL-1β、HOMA-IR、
+QUICKI、HOMA-β 等的差异。 结果显示大量白蛋白尿组血清 Nampt、IL-1β 水平明显高于其他 3 组(均 P<
+0. 05);微量白蛋白尿组血清 Nampt 明显高于正常白蛋白尿组(P<0. 05);Nampt 与 HBA1C、空腹血糖、空腹
+胰岛素、三酰甘油、尿酸、IL-1β 呈正相关(均 P<0. 01),与高密度脂蛋白胆固醇呈负相关(P<0. 01);糖尿病
+组血清 Nampt、IL-1β 明显高于对照组(均 P<0. 05);Nampt 与 HOMA-IR 呈正相关(P<0. 05),与 HOMA-β、
+QUICKI 呈负相关(P<0. 05)。 Nampt、IL-1β 水平与糖尿病肾脏疾病(DKD)的病理进展过程可能存在一定
+相关性,有可能作为 DKD 肾损伤的检测指标,两者之间可能存在相互作用,并同时参与 DKD 的发生、发展。
+Nampt 水平可在一定程度上反映 2 型糖尿病患者胰岛 β 细胞功能状态及胰岛素抵抗水平。
+[关键词]   糖尿病肾脏疾病; 胰岛素抵抗; 烟酰胺磷酸核糖转移酶
+The changes of serum Nampt levels and its correlation in type 2 diabetes patients with different stages of
+urinary albumin and insulin resistance An Li, Ma Xiaoyu, Wang Xiaoyu, Ren Huiwen, Yu Jing, Wang Qiuyue,
+Lyu Chuan. Department of Endocrinology and Metabolism, the First Affiliated Hospital of China Medical University,
+Shenyang 110001, China
+[Summary]   To explore the correlation between serum nicotinamide phosphoribosyltransferase ( Nampt),
+interleukin -1β(IL-1β)and different stages of urinary albumin. 321 patients with type 2 diabetes were divided into 3
+groups according to urinary albumin to creatinine ratio( UACR): normoalbuminuric group(UACR<30 mg / g, n =
+110), microalbuminuric group(UACR 30-300 mg / g, n = 106), and macroalbuminuric group(UACR>300 mg / g,
+n=105). The levels of serum Nampt and IL-1β were measured by enzyme linked immunosorbent assay in all the cases
+and 105 control subjects. 98 patients without insulin therapy were screened out of 321 patients with type 2 diabetes as
+a new observation group, then compared with control group. Homeostasis model assessment for insulin resistant
+(HOMA-IR), quantitative insulin sensitivity check index ( QUICKI), homeostasis model assessment for β cell
+function index(HOMA-β)were calculated according to fasting plasma glucose and fasting insulin, then compared the
+levels of Nampt, IL-1β, HOMA-IR, QUICKI, HOMA-β between diabetes group and control group. The serum levels
+of Nampt and IL-1β in macroalbuminuric group were significantly higher than those in the other three groups (all P<
+0. 05); The serum levels of Nampt in microalbuminuric group were significantly higher than those in the other groups
+(all P<0. 05); The serum level of Nampt was positively correlated with HBA1C, fasting plasma glucose, fasting
+insulin, triglyceride, uric acid, IL-1β, while negatively correlated with high density lipoprotein-cholesterol (all P<
+0. 01); The serum levels of Nampt and IL-1β were significantly higher than those in diabetes group(both P<0. 05);
+Nampt was positively correlated with HOMA-IR (P<0. 05), while negatively correlated with HOMA-β and QUICKI
+(both P<0. 05) . Nampt and IL-1β can be used as indicators of diabetic kidney disease (DKD), there would be some
+interactions between them, and at the same time, it may have some relevance with pathological progression of
+DKD. Nampt and IL-1β seem to be involved in the development of diabetic nephropathy. The level of Nampt may
+reflect functional status of islet β cells and, to some extent, the state of insulin resistance.
+[Key words]  Diabetic kidney disease; Insulin resistance; Nicotinamide phosphoribosyltransferase
+(Chin J Endocrinol Metab, 2016, 32: 759-762)
+糖尿病肾脏疾病(diabetic kidney disease, DKD)是糖尿病重
+要并发症之一,是终末期肾脏病的主要原因,早期诊断并治疗
+DKD 对糖尿病患者具有重要的临床意义。 研究证明 DKD 的发
+病机制与炎症反应、葡萄糖代谢紊乱及胰岛素抵抗密切相关。
+烟酰胺磷酸核糖转移酶(nicotinamide phosphoribosyltransferase,
+Nampt)有多种生物效应,可参与到胰岛素抵抗及慢性肾脏病的
+发生、发展。 白细胞介素-1β( interleukin-1β, IL-1β)是重要的
+炎症因子,并可与其他细胞因子协同参与介导机体的炎症反
+应。 本文将对 2 型糖尿病患者血清 Nampt、IL-1β 与胰岛素抵抗
+及不同尿白蛋白排泄率的相关性进行研究分析。
+一、 对象和方法
+1. 对象:根据 1999 年世界卫生组织糖尿病诊断标准选择
+2014 年 8 月至 2015 年 3 月在本院住院及门诊的 2 型糖尿病患
+者 321 例,其中男性 162 例,女性 159 例,平均年龄 (54. 3 ±
+12. 5) 岁 (22 ~ 82 岁)。 根据尿白蛋白 /肌酐比率 ( urinary
+albumin to creatinine ratio, UACR)分为 3 组:正常白蛋白尿组
+(UACR<30 mg / g,110 例)、微量白蛋白尿组(UACR 30 ~ 300
+mg / g,106 例)、大量白蛋白尿组(UACR>300 mg / g,105 例)。 所
+有入选者均排除:糖尿病酮症酸中毒、糖尿病高渗昏迷、心脏、
+肝脏及其他肾脏疾病、肥胖症(体重指数≥28. 0 kg / m2 )、恶性
+肿瘤、急慢性感染、近期有创伤手术、长期服用糖皮质激素等干
+扰糖代谢的药物,以及近期服用血管紧张素转化酶抑制剂或血
+管紧张素受体阻断剂等影响尿白蛋白排泄率的药物。 另选择
+同时期本院健康体检正常者 105 名作为对照组,其中男性 53
+例,女性 52 例,平均年龄(54. 5 ± 11. 8)岁(19 ~ 76 岁),经口服
+葡萄糖耐量试验证实,空腹血糖<6. 1 mmol / L,餐后 2 h 血糖<
+7. 8 mmol / L。 对照组所有入选者肝、肾功能正常,根据病史、体
+格检查及辅助检查结果可除外其他疾病及急慢性感染。
+2. 方法:测定并记录研究对象的性别、年龄、身高、体重、舒
+张压、收缩压,根据身高、体重计算体重指数。 所有研究对象均
+空腹 10 h 左右,晨起抽静脉血测空腹血糖、空腹胰岛素、HBA1C、
+三酰甘油、 总胆固醇、 低密度 脂 蛋 白 胆 固 醇 ( low density
+lipoprotein-cholesterol,LDL-C)、 高 密 度 脂 蛋 白 胆 固 醇 ( high
+density lipoprotein-cholesterol,HDL-C)、血尿酸。 在实验组中筛
+选出尚未接受胰岛素治疗的糖尿病患者 98 例,与对照组比较,
+由空腹血糖、空腹胰岛素计算得到稳态模型评估的胰岛素抵抗
+指数 ( homeostasis model assessment for insulin resistant,HOMA-
+IR)、稳态模型评估的胰岛 β 细胞功能指数(homeostasis model
+assessment for β cell function,HOMA-β)及定量胰岛素敏感性检
+测指数(quantitative insulin sensitivity check index,QUICKI)。 测
+定尿微量白蛋白及尿肌酐量,计算得出 UACR。 另一部分分离
+的血清,做好标记后储存于-70℃冰箱中。 Nampt、IL-1β 均采用
+酶联免疫吸附法测定,用 Cloud-Clone Corp 公司人血清酶联免
+疫试剂盒测定(批内 CV<10% ,批间 CV<12% ;试剂盒所检测指
+标与其它相似物质无明显交叉反应)。 计算公式:体重指数 =
+体重 /身高2(kg / m2 );HOMA-IR =空腹血糖(mmol / L) ×空腹胰
+岛素(mIU / L) / 22. 5;HOMA-β =空腹胰岛素(mIU / L) ×20 / [空
+腹血糖 (mmol / L) - 3. 5] (% ); QUICKI = 1 / [ lg 空腹胰岛素
+(mIU / L)+lg 空腹血糖(mmol / L)×18]。
+3. 统计学处理:采用 SPSS 20. 0 统计学软件进行分析,计
+量资料 x-± s 表示,各组指标比较采用单因素方差分析,组间两
+两比较采用 Dunnett-t 检验和 Bonferroni 检验,计数资料比较采
+用 Kruskal-Wallis 检验,变量间关系采用 Pearson 相关分析和多
+元逐步回归分析。 以 P<0. 05 为差异有统计学意义。
+二、 结果
+1. 各组临床指标水平的比较:4 组患者性别、年龄、舒张
+压、总胆固醇、LDL-C 比较差异无统计学意义(均 P>0. 05)。 正
+常白蛋白尿组、微量白蛋白尿组和大量白蛋白尿组的病程、体
+重指数、收缩压、HBA1C、空腹血糖、三酰甘油、HDL-C、尿酸、
+Nampt、IL-1β 与对照组比较有统计学差异(均 P<0. 05)。 大量
+白蛋白尿组血清 Nampt 及 IL-1β 水平明显高于正常白蛋白尿
+组和微量白蛋白尿组 (均 P < 0. 05);微量白蛋白尿组血清
+Nampt、IL-1β 水平高于正常白蛋白尿组(均 P<0. 05);同时大量
+白蛋白尿组血清 HBA1C、空腹血糖、三酰甘油、尿酸水平高于正
+常白蛋白尿组(表 1)。
+2. 单因素相关分析: Nampt 与体重指数、 收缩压、 舒张压、
+表 1  各组观察指标比较(x-± s)
+组别 例数 性别(男 / 女)
+年龄
+(岁)
+病程
+(年)
+体重指数
+(kg / m2)
+收缩压
+(mmHg)
+舒张压
+(mmHg)
+HBA1C
+(%)
+空腹血糖
+(mmol / L)
+对照组        105 53 / 52 54. 5 ±11. 8 - 23. 52 ±2. 79   123 ±14 80 ±10 5. 22 ±0. 39 5. 08 ±0. 45
+正常白蛋白尿组 110 55 / 55 54. 4 ±10. 6 7. 9 ±6. 5a 25. 04 ±2. 23a   128 ±11a 81 ±8  8. 14 ±1. 98a 9. 18 ±3. 61a
+微量白蛋白尿组 106 54 / 52 53. 8 ±13. 1 11. 3 ±7. 8ab 25. 25 ±2. 25a   136 ±19ab 81 ±10 8. 55 ±1. 85a 9. 92 ±3. 96a
+大量白蛋白尿组 105 53 / 52 54. 4 ±11. 2 13. 2 ±7. 0ab 25. 22 ±2. 88a   139 ±14ab 81 ±11 9. 02 ±2. 20ab 10. 14 ±3. 80ab
+组别 例数 空腹胰岛素(mIU / L)
+三酰甘油
+(mmol / L)
+总胆固醇
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+尿酸
+(μmol / L)
+Nampt
+(ng / ml)
+IL-1β
+(pg / ml)
+对照组        105 8. 49 ±2. 25 1. 28 ±0. 67   4. 75 ±0. 81 1. 29 ±0. 36 3. 10 ±0. 76 253. 78 ±53. 80   8. 56 ±3. 49 76. 96 ±25. 97
+正常白蛋白尿组 110 11. 32 ±8. 52 2. 09 ±1. 58a 4. 53 ±1. 05 1. 06 ±0. 28a 2. 87 ±0. 87 289. 00 ±50. 99a 19. 38 ±4. 10a 154. 77 ±31. 61a
+微量白蛋白尿组 106 13. 56 ±8. 77a 2. 35 ±1. 51a 4. 74 ±1. 03 1. 08 ±0. 33a 2. 93 ±0. 89 333. 36 ±66. 33ab 29. 82 ±7. 19ab 219. 70 ±55. 88ab
+大量白蛋白尿组 105 15. 20 ±10. 52a 2. 17 ±1. 09ab 4. 86 ±1. 11 1. 04 ±0. 34a 3. 13 ±1. 02 404. 19 ±95. 20abc 34. 54 ±9. 38abc 273. 88 ±74. 77abc
+注:1 mmHg=0. 133 kPa; HDL-C:高密度脂蛋白胆固醇;LDL-C:低密度脂蛋白胆固醇;Nampt:烟酰胺磷酸核糖转移酶;IL-1β:白细胞介素-1β;与对
+照组相比, aP<0. 05;与正常白蛋白尿组相比, bP<0. 05;与微量白蛋白尿组相比, cP<0. 05
+表 2  糖尿病组与对照组间观察指标比较(x-± s)
+组别 例数 HOMA-IR HOMA-β QUICKI Nampt(ng / ml)
+IL-1β
+(pg / ml)
+对照组  105 1. 90 ± 0. 50 97. 89 ± 22. 90 0. 35 ± 0. 01 8. 49 ± 3. 53 74. 09 ± 26. 13
+糖尿病组 98 4. 53 ± 2. 86a 42. 05 ± 22. 61a 0. 32 ± 0. 02a 25. 41 ± 4. 07a 163. 46 ± 32. 81a
+注:HOMA-IR:稳态模型评估的胰岛素抵抗指数;HOMA-β:稳态模型评估的胰岛 β 细胞功能指数;QUICKI:定量胰岛素敏感性检测指数;Nampt:
+烟酰胺磷酸核糖转移酶;IL-1β:白细胞介素-1β;与对照组相比, aP<0. 05
+HBA1C、空腹血糖、空腹胰岛素、三酰甘油、尿酸、IL-1β 呈正相关
+( r 分别为 0. 202、0. 327、0. 221、0. 565、0. 432、0. 245、0. 263、
+0. 555、0. 683,均 P<0. 01),与 HDL-C 呈负相关( r= -0. 215, P<
+0. 01);IL-1β 与体重指数、收缩压、舒张压、HBA1C、空腹血糖、空
+腹胰岛素、三酰甘油、尿酸、Nampt 呈正相关( r 分别为 0. 252、
+0. 407、0. 288、0. 471、0. 375、0. 229、0. 221、0. 520、0. 683,均 P<
+0. 01),与 HDL-C 呈负相关( r= -0. 277, P<0. 01)。
+3. 多元线性逐步回归分析:分别以 Nampt、IL-1β 为应变
+量,以体重指数、收缩压、舒张压、HBA1C、空腹胰岛素、总胆固
+醇、三酰甘油、LDL-C、HDL-C、尿酸为自变量进行多元线性逐步
+回归分析,结果显示 HBA1C、空腹胰岛素、尿酸是 Nampt 的独立
+危险因素 (回归系数分别为 2. 088、0. 052、0. 136, t 分别为
+10. 408、9. 809、2. 658,均 P < 0. 05);尿酸、HBA1C、 LDL-C 是
+IL-1β的独立危险因素 (回归系数分别为 0. 372、 11. 266、
+-29. 167,t 分别为 8. 724、6. 861、-2. 783,均 P<0. 05)。
+4. 实验组中未经胰岛素治疗的 98 例糖尿病患者,血清
+Nampt、IL-1β、HOMA-IR 水平明显高于对照组(均 P<0. 05),而
+HOMA-β、QUICKI 低于对照组(均 P<0. 05,表 2)。
+在单因素相关分析中,Nampt 与 HOMA-IR 呈正相关( r =
+0. 430,P < 0. 05),与 HOMA-β、QUICKI 呈负相关 ( r 分别为
+-0. 623、-0. 502,均 P<0. 05);IL-1β 与 HOMA-IR 呈正相关( r=
+0. 378,P< 0. 05), 与 HOMA-β、QUICKI 呈负相关 ( r 分别为
+-0. 648、-0. 458,均 P<0. 05)。 Nampt 与 IL-1β 呈正相关( r =
+0. 638,P<0. 05)。
+三、 讨论
+Nampt 是烟酰胺腺嘌呤二核苷酸合成的限速酶,参与烟酰
+胺腺嘌呤二核苷酸的生物合成及调控,实验证实 Nampt 可通过
+烟酰胺腺嘌呤二核苷酸、沉默信息调节因子 1 参与调节胰岛 β
+细胞功能及胰岛素敏感性。 此外,Nampt 有类炎性因子样作
+用,参与调节多种炎症因子的表达,同时,其合成受到某些炎症
+因子调控,也因此可参与 DKD 的发生和发展[1-3] 。
+IL-1β 是一种炎症因子,主要由单核巨噬细胞产生,在结缔
+组织的破坏和炎症反应中起核心作用,具有多种生物学效应,
+其可直接导致胰岛 β 细胞凋亡,与糖尿病患者 β 细胞功能衰竭
+直接相关;通过参与炎症反应加速 DKD 的发展。 研究提示
+Nampt 与 IL-1β 可相互调节:IL-1β 可通过下调 Sox-9(是调节域
+型胶原水平的转录因子)介导 Nampt 过度表达,最终导致软骨
+细胞的去分化[4] 。 Nampt 可与 IL-1β 相互作用,在肥胖时的血
+管内皮炎症反应中发挥重要作用[5] 。
+本研究发现与对照组相比,2 型糖尿病患者血清中 Nampt、
+IL-1β 水平明显升高,同时伴有空腹血糖、三酰甘油、尿酸和
+HBA1C水平的升高;多元线性逐步回归分析显示 HbA1C、空腹胰
+岛素和尿酸是 Nampt 的独立危险因素,其中 HBA1C 的影响最
+大;这提示 Nampt 与糖尿病的发生发展密切相关,且其升高水
+平与血糖水平相关。
+DKD 是终末期肾病的主要病因,其发病机制与炎症反应密
+切相关。 有血清学实验发现 Nampt 水平在慢性肾脏病时升
+高[6] 。 为探讨 DKD 早期血清 Nampt 及 IL-1β 水平的变化,在选
+取研究对象时除外了肾功能受损患者,将 2 型糖尿病患者按
+UACR 水平分为正常白蛋白尿、微量白蛋白尿及大量白蛋白尿
+3 组。 结果显示,较正常白蛋白尿组及微量白蛋白尿组,大量白
+蛋白尿组血清 Nampt 及 IL-1β 水平明显升高,且微量白蛋白尿
+组血清 Nampt 及 IL-1β 水平高于正常白蛋白尿组,这说明
+Nampt 及 IL-1β 水平与尿白蛋白排泄率的增加相关,且在 DKD
+早期已有明显升高。 Kang 等[3]证实外源性 Nampt 可通过促进
+肾细胞过度摄取葡萄糖,显著提高大鼠足细胞及肾小管促炎性
+因子和促纤维化因子的分泌及基因表达。 表明 Nampt 可以促
+进 DKD 的炎症反应。
+此外,本研究通过单因素相关分析发现 Nampt 与 IL-1β 有
+一定的相关性;这提示 Nampt 与 IL-1β 在 DKD 时可能存在相互
+作用,并同时参与 DKD 的进展。
+本研究还发现,2 型糖尿病患者血清 Nampt 水平与胰岛素
+抵抗水平有一定相关性。 在糖尿病组与对照组的比较中,引入
+HOMA-IR 的同时引入 HOMA-β 及 QUICKI,结果显示与对照组
+相比,糖尿病组的 HOMA-IR 水平升高,HOMA-β、QUICKI 下降,
+Nampt 与 HOMA-IR 呈正相关,与 HOMA-β 及 QUICKI 呈负相
+关。 众所周知,胰岛素抵抗及 β 细胞功能减退是 2 型糖尿病的
+主要原因,目前关于 Nampt 与胰岛素抵抗的关系尚存在争议。
+Revollo 等[7]通过 Nampt(+ / -)小鼠证实,细胞内 Nampt 及烟酰
+胺单核苷酸可增强胰岛 β 细胞的胰岛素分泌,改善 β 细胞功
+能。 Caton 等[8]发现富含果糖饮食喂养的小鼠胰岛素分泌受
+损,胰岛中 IL-1β 表达升高,而加入烟酰胺单核苷酸可下调 IL-1β
+表达并修复被抑制的胰岛素分泌。 Gouranton 等[9] 发现 Nampt
+抑制剂可增强 TNF-α 介导的胰岛素抵抗。 结合本研究结果及
+国外动物、细胞学实验结果,推测在 2 型糖尿病患者血糖升高
+及胰岛素抵抗时,血清 Nampt 水平升高可能可以减轻胰岛素抵
+抗。 说明 Nampt 水平升高对于 2 型糖尿病患者存在的胰岛素
+抵抗可能是一个代偿反应。
+综上,在炎症反应方面:Nampt 水平随着尿白蛋白排泄的
+增加而升高,Nampt 水平的检测对早期发现 DKD 具有一定的提
+示意义。 血清中 Nampt 与 IL-1β 水平有一定的相关性,二者可
+能通过某种相互作用机制共同参与 DKD 的发展,为 DKD 发病
+机制的研究提供了新思路。 在胰岛素抵抗方面:2 型糖尿病患
+者血中 Nampt 水平明显升高,且与胰岛素抵抗呈正相关,结合
+既往基础研究的文献,推测可能是一种拮抗性的反应性升高。
+血清 Nampt 水平可在一定程度上反映 2 型糖尿病患者胰岛 β
+细胞功能状态及胰岛素抵抗水平。

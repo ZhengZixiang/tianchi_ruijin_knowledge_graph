@@ -1,0 +1,360 @@
+T1	Disease 86 92	2 型糖尿病
+T2	Disease 185 191	2 型糖尿病
+T3	Disease 1274 1280	2 型糖尿病
+T4	Disease 1530 1536	2 型糖尿病
+T5	Disease 1602 1608	2 型糖尿病
+T6	Disease 2119 2125	2 型糖尿病
+T7	Disease 2263 2269	2 型糖尿病
+T8	Disease 2488 2494	2 型糖尿病
+T9	Disease 2653 2659	2 型糖尿病
+T10	Disease 2742 2748	2 型糖尿病
+T11	Disease 2872 2878	2 型糖尿病
+T12	Disease 3336 3342	2 型糖尿病
+T13	Disease 3615 3621	2 型糖尿病
+T14	Disease 4464 4470	2 型糖尿病
+T15	Disease 4588 4594	2 型糖尿病
+T16	Disease 4637 4643	2 型糖尿病
+T17	Disease 4777 4783	2 型糖尿病
+T18	Disease 5553 5559	2 型糖尿病
+T19	Disease 5750 5756	2 型糖尿病
+T20	Disease 7468 7474	2 型糖尿病
+T21	Disease 7599 7605	2 型糖尿病
+T22	Disease 7629 7635	2 型糖尿病
+T23	Disease 7867 7873	2 型糖尿病
+T24	Disease 8216 8222	2 型糖尿病
+T25	Disease 4020 4025	糖尿病肾病
+T26	Test 1761 1766	HBA1C
+T27	Test 7148 7153	HBA1C
+T28	Test 7318 7323	HBA1C
+T29	Test 7349 7354	HBA1C
+T30	Test 8028 8033	HBA1C
+T31	Test 2847 2852	HDL-C
+T32	Drug 2031 2035	格列齐特
+T33	Test 3731 3735	尿白蛋白
+T34	Test 3737 3741	肌酐比值
+T35	Test 4130 4134	体重指数
+T36	Test 3639 3642	GFR
+T37	Test 3815 3818	GFR
+T38	Test 3015 3018	收缩压
+T39	Test 3178 3181	收缩压
+T40	Test 3261 3264	收缩压
+T41	Test 3321 3324	收缩压
+T42	Test 3378 3381	收缩压
+T43	Test 3498 3501	收缩压
+T44	Test 3519 3522	收缩压
+T45	Test 3567 3568;3569 3571	收 缩压
+T46	Test 3963 3966	收缩压
+T47	Test 3265 3268	舒张压
+T48	Test 3368 3371	舒张压
+T49	Test 3712 3715	肾功能
+T50	Test 4425 4428	腰臀比
+T51	Test 4127 4129	腰围
+T52	Test 4310 4312	腰围
+T53	Test 4396 4398	腰围
+T54	Disease 2176 2182	动脉粥样硬化
+T55	Disease 5639 5645	动脉粥样硬化
+T56	Test 4135 4138	BMI
+T57	Test 4205 4208	BMI
+T58	Test 4251 4254	BMI
+T59	Test 4392 4395	BMI
+T60	Test 7896 7898	体重
+T61	Drug 152 158	达美康缓释片
+T62	Drug 159 162	百普乐
+T63	Disease 1281 1282;1283 1285	糖 尿病
+T64	Disease 1293 1296	糖尿病
+T65	Disease 1321 1324	糖尿病
+T66	Disease 1360 1365	心脏病发作
+T67	Disease 1366 1368	休克
+T68	Disease 1369 1371	致盲
+T69	Disease 1372 1374	肾衰
+T70	Disease 1375 1379	腿部溃疡
+T71	Operation 1383 1384;1385 1386	截 肢
+T72	Reason 1388 1394	大血管并发症
+T73	Disease 1432 1434;1435 1436	糖尿 病
+T74	Drug 1453 1459	达美康缓释片
+T75	Drug 1460 1462;1463 1464	百普 乐
+T76	Drug 1620 1623	胰岛素
+T77	Reason 1648 1655	年龄≥65 岁
+T78	Reason 1656 1661;1662 1666	主要大血管 疾病病史
+T79	Reason 1667 1676	主要微血管疾病病史
+T80	Disease 1832 1836	心肌梗死
+T81	Disease 1837 1839	休克
+T82	Disease 1840 1845	心血管死亡
+T83	Disease 1897 1900;1901 1903	脑血管 疾病
+T84	Disease 1904 1906	心衰
+T85	Disease 1917 1921	全因死亡
+T86	Disease 1922 1924	痴呆
+T87	Disease 1907 1913	周围血管疾病
+T88	Drug 2043 2046;2047 2048	培哚普 利
+T89	Drug 2051 2055	吲达帕胺
+T90	Disease 2148 2151	糖尿病
+T91	Disease 2163 2166	糖尿病
+T92	Disease 2200 2203	冠心病
+T93	Disease 2204 2209	脑血管意外
+T94	Disease 2211 2215	下肢坏疽
+T95	Disease 2517 2519	心梗
+T96	Disease 2512 2516	心肌梗死
+T97	Disease 2523 2526	糖尿病
+T98	Disease 2530 2532;2533 2536	陈旧 性心梗
+T99	Disease 2571 2573	心梗
+T100	Disease 2574 2577	糖尿病
+T101	Disease 2595 2600	陈旧性心梗
+T102	Disease 2602 2605	糖尿病
+T103	Disease 2582 2584	心梗
+T104	Disease 2545 2547	心梗
+T105	Disease 2538 2541	糖尿病
+T106	Disease 2623 2628	陈旧性心梗
+T107	Disease 2630 2633	糖尿病
+T108	Test 2836 2839;2840 2846	高密度 脂蛋白胆固醇
+T109	Disease 2714 2719	心血管疾病
+T110	Disease 3716 3721	心血管疾病
+T111	Disease 4154 4159	心血管疾病
+T112	Disease 5930 5931;5932 5936	心 血管疾病
+T113	Test 6113 6117	静息心率
+T114	Test 6157 6161	静息心率
+T115	Test 6186 6190	静息心率
+T116	Test 6282 6286	静息心率
+T117	Test 6332 6335;6336 6337	静息心 率
+T118	Test 6529 6533	静息心率
+T119	Test 3819 3823	eGFR
+T120	Test 3894 3898	eGFR
+T121	Test 4012 4016	eGFR
+T122	Disease 5323 5326	冠心病
+T123	Disease 6487 6490	冠心病
+T124	Test 8040 8042	血糖
+T125	Test 8234 8236	血糖
+T126	Test 3632 3638	肾小球滤过率
+T127	Disease 1397 1400	糖尿病
+T128	Test_Value 1766 1772	≤6. 5%
+T129	Disease 3004 3007	高血压
+T130	Disease 3035 3038	糖尿病
+T131	Disease 3110 3114	心肌梗死
+T132	Disease 3123 3125	休克
+T133	Test_Value 3183 3192	<110 mmHg
+T134	Anatomy 3235 3237	肾脏
+T135	Test 3269 3272	脉压差
+T136	Test 3273 3277;3278 3279	平均动脉 压
+T137	Test 3325 3328	脉压差
+T138	Disease 3394 3397	糖尿病
+T139	Test 3628 3631	尿蛋白
+T140	Test 3707 3710	尿蛋白
+T141	Test 3742 3746	UACR
+T142	Test 3876 3880	UACR
+T143	Test_Value 3880 3891	>300 mg / g
+T144	Test_Value 3898 3901	<60
+T145	Test 4005 4009	UACR
+T146	Test 4079 4083	肥胖指数
+T147	Disease 4151 4153	肥胖
+T148	Disease 4259 4262	糖尿病
+T149	Test 4294 4296	血脂
+T150	Disease 4448 4452	腹型肥胖
+T151	Disease 4579 4582	糖尿病
+T152	Symptom 4647 4653	认知功能受损
+T153	Level 4707 4709	轻度
+T154	Level 4711 4713	重度
+T155	Level 4764 4766	轻度
+T156	Level 4767 4769	重度
+T157	Disease 4810 4814	全因死亡
+T158	Level 4818 4819	轻
+T159	Level 4820 4822	重度
+T160	Disease 4892 4896	全因死亡
+T161	Disease 4906 4909	低血糖
+T162	Level 4904 4906	严重
+T163	Level 4919 4921	重度
+T164	Disease 1231 1234	糖尿病
+T165	Disease 1251 1252;1253 1255	糖 尿病
+T166	Disease 2436 2441	心血管死亡
+T167	Reason 2779 2784	诊断时年龄
+T168	Reason 2792 2794	性别
+T169	Disease 221 227	大血管并发症
+T170	Disease 259 265	大血管并发症
+T171	Disease 1823 1826;1827 1829	大血管 事件
+T172	Disease 1847 1851;1852 1853	微血管事 件
+T173	Disease 2153 2158	血管并发症
+T174	Disease 2360 2364	冠脉事件
+T175	Disease 2382 2387	脑血管事件
+T176	Disease 2328 2330;2331 2334	心血 管事件
+T177	Disease 2292 2299;2300 2302	大血管和微血管 事件
+T178	Disease 3040 3045	大血管疾病
+T179	Disease 3091 3096	心血管事件
+T180	Disease 3140 3148	非心血管死亡事件
+T181	Disease 3348 3353	心血管事件
+T182	Disease 3464 3469	微血管事件
+T183	Disease 3505 3510	大血管事件
+T184	Disease 3541 3546	大血管事件
+T185	Disease 3756 3761	心血管事件
+T186	Disease 3776 3781	心血管事件
+T187	Disease 3793 3796;3797 3801	心血管 死亡风险
+T188	Disease 3827 3828;3829 3833	心 血管事件
+T189	Disease 3844 3849	心血管事件
+T190	Disease 3850 3852	死亡
+T191	Disease 3904 3909	心血管事件
+T192	Disease 3924 3929	心血管事件
+T193	Disease 4039 4045	心脑血管事件
+T194	Disease 4113 4116;4117 4118	非糖尿 病
+T195	Disease 4212 4217	心血管事件
+T196	Disease 4226 4228;4229 4232	脑血 管事件
+T197	Disease 4313 4318	心血管事件
+T198	Disease 4319 4323	冠脉事件
+T199	Disease 4340 4345	心血管事件
+T200	Disease 4346 4350	冠脉事件
+T201	Disease 4351 4356;4357 4359	心血管死亡 事件
+T202	Disease 4375 4380	脑血管事件
+T203	Disease 4401 4406	脑血管事件
+T204	Disease 4431 4432;4433 4437	心 血管事件
+T205	Disease 4476 4478	死亡
+T206	Disease 4667 4672	大血管事件
+T207	Disease 4785 4789	全因死亡
+T208	Disease 4792 4797	心血管死亡
+T209	Disease 4862 4867	心血管事件
+T210	Disease 4876 4881	心血管事件
+T211	Disease 2949 2952	糖尿病
+T212	Test 3008 3010	血压
+T213	Test 3255 3257	血压
+T214	Test_Value 3824 3826	减半
+T215	Test 4500 4504	认知功能
+T216	Level 4930 4932	严重
+T217	Disease 4932 4935	低血糖
+T218	Disease 4946 4952	认知功能受损
+T219	Reason 4974 4979	胰岛素抵抗
+T220	Level 4989 4991	严重
+T221	Disease 5008 5014	认知功能受损
+T222	Symptom 5060 5064	牙龈出血
+T223	Test 5048 5051	牙齿数
+T224	Test 5138 5142	牙齿颗数
+T225	Test 5166 5170	流血天数
+T226	Test_Value 5144 5145	0
+T227	Test_Value 5146 5149;5150 5152	1 ~ 21
+T228	Test_Value 5154 5159	≥22 颗
+T229	Test_Value 5173 5174	0
+T230	Test_Value 5175 5178	<12
+T231	Test_Value 5180 5185	≥12 d
+T232	Test 5203 5207	牙齿颗数
+T233	Test_Value 5253 5258	≥22 颗
+T234	Test_Value 5264 5272	1 ~ 21 颗
+T235	Test_Value 5274 5277	0 颗
+T236	Test 5319 5322	牙齿数
+T237	Test 5380 5386	牙龈出血天数
+T238	Test 5423 5426	牙齿数
+T239	Disease 5427 5429	痴呆
+T240	Disease 5430 5431;5432 5437	认 知功能受损
+T241	Disease 5457 5459	痴呆
+T242	Disease 5460 5466	认知功能受损
+T243	Disease 5496 5502	勃起功能障碍
+T244	Disease 5503 5505	ED
+T245	Disease 5507 5509	ED
+T246	Anatomy 5521 5523	阴茎
+T247	Disease 5778 5780	ED
+T248	Disease 5569 5571	ED
+T249	Disease 5617 5619	ED
+T250	Anatomy 5649 5653	阴茎血管
+T251	Anatomy 5654 5658	冠状动脉
+T252	Anatomy 5659 5660;5661 5663	颈 动脉
+T253	Anatomy 5664 5667	股动脉
+T254	Disease 5676 5679	糖尿病
+T255	Disease 5682 5684	ED
+T256	Disease 5920 5922	ED
+T257	Disease 5978 5980	ED
+T258	Disease 6055 6057	ED
+T259	Test 6208 6210	心率
+T260	Test_Value 6216 6223	33 ~ 63
+T261	Test_Value 6224 6231	64 ~ 70
+T262	Test_Value 6232 6239	71 ~ 76
+T263	Test_Value 6240 6247	77 ~ 83
+T264	Test_Value 6249 6265	84 ~ 140 次 / min
+T265	Test 6457 6459	心率
+T266	Test_Value 6338 6351	增加 10 次 / min
+T267	Disease 6352 6356	全因死亡
+T268	Level 6591 6593	严重
+T269	Level 6982 6984	严重
+T270	Test_Value 6619 6633	<2. 8 mmol / L
+T271	Symptom 6664 6672;6673 6675	中枢神经系统功能 障碍
+T272	Symptom 6707 6719	短暂中枢神经系统功能障碍
+T273	Level 6745 6747	严重
+T274	Level 6770 6772	严重
+T275	Level 6832 6834	严重
+T276	Level 6871 6873	轻微
+T277	Level 6916 6918	严重
+T278	Disease 7110 7114	全因死亡
+T279	Anatomy 7063 7065	肾脏
+T280	Disease 7374 7376	房颤
+T281	Disease 7395 7397	房颤
+T282	Disease 7437 7439	房颤
+T283	Disease 7443 7445	房颤
+T284	Disease 7464 7466	房颤
+T285	Disease 7499 7501	休克
+T286	Disease 7502 7504	心衰
+T287	Disease 7532 7534	房颤
+T288	Disease 7561 7563	房颤
+T289	Disease 7595 7597	房颤
+T290	Disease 7609 7611	房颤
+T291	Reason 7620 7621;7622 7623	房 颤
+T292	Disease 7697 7700	糖尿病
+T293	Disease 7767 7770	糖尿病
+T294	Drug 7833 7837	培哚普利
+T295	Drug 7840 7844	吲达帕胺
+T296	Anatomy 7853 7855	心脏
+T297	Anatomy 7856 7858	肾脏
+T298	Anatomy 7913 7915	肾脏
+T299	Disease 7998 8001	糖尿病
+T300	Test 8025 8027	血压
+T301	Test 8231 8233	血压
+T302	Reason 2821 2828	HBA1C水平
+T303	Test 4071 4075	腰臀围比
+T304	Test 4122 4126	腰臀围比
+T305	Test 4335 4339	腰臀围比
+T306	Reason 1677 1686;1687 1691	第一次确诊距今长于 10 年
+T307	Anatomy 1854 1857	视网膜
+T308	Anatomy 1858 1860	肾脏
+T309	Disease 1892 1896	冠脉疾病
+T310	Drug 2063 2067	百普乐襆
+T311	Reason 2785 2786;2787 2791	糖 尿病病程
+T312	Reason 2797 2799	房颤
+T313	Reason 2802 2807	视网膜病变
+T314	Reason 2808 2812;2813 2816	高血压治 疗情况
+T315	Reason 2817 2820	脉压差
+T316	Reason 2829 2834	尿蛋白分级
+T317	Test 3936 3940	eGFR
+T318	Disease 4991 4994	低血糖
+T319	Reason 5001 5004	低血糖
+T320	Disease 6593 6596	低血糖
+T321	Disease 6608 6611	低血糖
+T322	Test 6615 6617	血糖
+T323	Symptom 6643 6647;6648 6651	典型低血 糖症状
+T324	Disease 6655 6658	低血糖
+T325	Disease 6692 6695	低血糖
+T326	Disease 6747 6750	低血糖
+T327	Disease 6772 6775	低血糖
+T328	Disease 6834 6837	低血糖
+T329	Disease 6873 6876	低血糖
+T330	Disease 6919 6922	低血糖
+T331	Disease 6984 6987	低血糖
+T332	Symptom 7028 7032	血糖升高
+T333	Test 7141 7143	血糖
+T334	Reason 4089 4091;4092 4095	中心 性肥胖
+T335	Disease 1313 1316	糖尿病
+T336	Reason 3021 3024	高血压
+T337	Disease 3028 3031	糖尿病
+T338	Anatomy 3218 3220	肾脏
+T339	Symptom 3599 3602	蛋白尿
+T340	Reason 3603 3608	肾功能受损
+T341	Symptom 3931 3934	蛋白尿
+T342	Test 3983 3990	骨形成蛋白 7
+T343	Test 3992 4001	转化生长因子 β1
+T344	Reason 4084 4086	肥胖
+T345	Disease 4096 4105	糖尿病大血管并发症
+T346	Disease 4493 4499	认知功能受损
+T347	Level 4529 4533	轻度受损
+T348	Level 4534 4538	重度受损
+T349	Reason 4555 4561	认知功能受损
+T350	Test 4142 4143;4144 4147	腰 臀围比
+T351	Test 4457 4458;4459 4462	腰 臀围比
+T352	Disease 4713 4719	认知功能障碍
+T353	Disease 4769 4775	认知功能受损
+T354	Disease 4822 4826	认知障碍
+T355	Disease 4921 4927	认知功能受损
+T356	Drug 1797 1799;1800 1802	百普 乐襆
+T357	Anatomy 2880 2883	心血管
+T358	Anatomy 3399 3402	心血管
+T359	Level 6653 6655	严重
+T360	Level 6690 6692	轻微

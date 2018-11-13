@@ -1,0 +1,352 @@
+T1	Disease 12 18	2 型糖尿病
+T2	Disease 39 45	2 型糖尿病
+T3	Disease 1004 1010	2 型糖尿病
+T4	Disease 1120 1126	2 型糖尿病
+T5	Disease 1885 1891	2 型糖尿病
+T6	Disease 1899 1905	2 型糖尿病
+T7	Disease 1964 1970	2 型糖尿病
+T8	Disease 2425 2431	2 型糖尿病
+T9	Disease 2611 2617	2 型糖尿病
+T10	Disease 3800 3806	2 型糖尿病
+T11	Disease 3861 3867	2 型糖尿病
+T12	Disease 4196 4202	2 型糖尿病
+T13	Disease 5698 5704	2 型糖尿病
+T14	Disease 5770 5776	2 型糖尿病
+T15	Disease 5238 5239;5240 5244	2 型糖尿病
+T16	Test 4130 4135	HBA1C
+T17	Test 4331 4336	HBA1C
+T18	Drug 3231 3235	二甲双胍
+T19	Drug 4171 4175	二甲双胍
+T20	Test 4269 4273	空腹血糖
+T21	Test 4990 4993	血脂谱
+T22	Test 5141 5144	血脂谱
+T23	Test 5187 5190	血脂谱
+T24	Drug 6 10	利拉鲁肽
+T25	Drug 129 133	利拉鲁肽
+T26	Test 136 138	血糖
+T27	Test 143 145	体重
+T28	Test 146 148	血压
+T29	Test 149 151	血脂
+T30	Drug 194 198	利拉鲁肽
+T31	Disease 1088 1093	心血管疾病
+T32	Disease 1097 1100	糖尿病
+T33	Disease 1102 1104	死亡
+T34	Drug 1198 1202	利拉鲁肽
+T35	Test 1252 1254	体重
+T36	Test 1256 1258	血压
+T37	Test 1259 1261	血脂
+T38	Drug 1275 1279	利拉鲁肽
+T39	Disease 1310 1313	糖尿病
+T40	Disease 1314 1319	心血管疾病
+T41	Disease 1333 1339	冠状动脉疾病
+T42	Disease 1340 1343	脑卒中
+T43	Disease 1393 1396	糖尿病
+T44	Disease 1399 1402	冠心病
+T45	Disease 1426 1429	糖尿病
+T46	Disease 1406 1407;1408 1410	糖 尿病
+T47	Disease 1433 1437	心肌梗死
+T48	Disease 1438 1439;1440 1444	心 血管事件
+T49	Disease 1449 1452	糖尿病
+T50	Disease 1468 1469;1470 1472	糖 尿病
+T51	Disease 1483 1487	血脂异常
+T52	Disease 1496 1499	高血压
+T53	Disease 1508 1511	冠心病
+T54	Disease 1518 1523	糖代谢异常
+T55	Disease 1553 1556	冠心病
+T56	Disease 1558 1563	糖代谢异常
+T57	Disease 1570 1573	冠心病
+T58	Disease 1605 1608	糖尿病
+T59	Disease 1650 1651;1652 1654	糖 尿病
+T60	Disease 1688 1691	冠心病
+T61	Disease 1695 1700	糖代谢异常
+T62	Disease 1713 1716	糖尿病
+T63	Disease 1726 1731	糖耐量异常
+T64	Anatomy 1793 1795	心脏
+T65	Disease 1807 1810	冠心病
+T66	Disease 1830 1835	糖代谢异常
+T67	Disease 1852 1855	糖尿病
+T68	Test 1919 1920;1921 1922	血 糖
+T69	Disease 1942 1947	心血管疾病
+T70	Disease 1952 1954	死亡
+T71	Drug 1976 1978;1979 1980	降糖 药
+T72	Drug 1981 1984	降压药
+T73	Drug 1985 1988	调脂药
+T74	Drug 1989 1994	抗血小板药
+T75	Disease 2086 2091	心血管事件
+T76	Reason 2140 2144	氧化应激
+T77	Drug 2175 2179	利拉鲁肽
+T78	Drug 2215 2219	利拉鲁肽
+T79	Disease 2305 2311;2312 2313	急性冠脉综合 征
+T80	Disease 2324 2328	心力衰竭
+T81	Drug 2339 2340;2341 2344	利 拉鲁肽
+T82	Anatomy 2350 2354	内皮细胞
+T83	Drug 2441 2444;2445 2446	利拉鲁 肽
+T84	Disease 2474 2480;2481 2482	充血性心力衰 竭
+T85	Drug 2603 2607	利拉鲁肽
+T86	Test 2619 2621	血糖
+T87	Anatomy 2667 2669	心肌
+T88	Disease 2684 2688	心力衰竭
+T89	Drug 2764 2769	GLP-1
+T90	Drug 2784 2788;2789 2790	中效胰岛 素
+T91	Anatomy 2847 2849	心肌
+T92	Test 2873 2881	左心室舒张末压力
+T93	Disease 2900 2905	充血性心衰
+T94	Test 2963 2970	左心室射血分数
+T95	Drug 3010 3014	利拉鲁肽
+T96	Anatomy 3017 3019	心肌
+T97	Disease 3026 3027;3028 3031	心 肌梗死
+T98	Drug 3051 3055	利拉鲁肽
+T99	Disease 3067 3071	心脏破裂
+T100	Disease 3077 3081	心脏梗死
+T101	Test 3087 3088;3089 3092	心 输出量
+T102	Drug 3104 3108	利拉鲁肽
+T103	Drug 3130 3134	利拉鲁肽
+T104	Disease 3195 3198	糖尿病
+T105	Disease 3199 3203	心肌梗死
+T106	Drug 3209 3213	利拉鲁肽
+T107	Test 3245 3247	体重
+T108	Drug 3269 3280	GLP-1 受体激动剂
+T109	Anatomy 3293 3297	心肌细胞
+T110	Drug 3324 3328	链脲菌素
+T111	Anatomy 3335 3339	心肌细胞
+T112	Drug 3369 3373	利拉鲁肽
+T113	Drug 3466 3470	利拉鲁肽
+T114	Drug 3495 3499	利拉鲁肽
+T115	Drug 3531 3535	利拉鲁肽
+T116	Disease 3653 3656	糖尿病
+T117	Drug 3672 3683	GLP-1 受体激动剂
+T118	Disease 3697 3700	高血糖
+T119	Disease 3738 3743	心血管事件
+T120	Test 3759 3761	血糖
+T121	Disease 3764 3767	低血糖
+T122	Test 3793 3795	血糖
+T123	Disease 3895 3897	死亡
+T124	Disease 3899 3904	心血管事件
+T125	Drug 3953 3962	GLP-1 类似物
+T126	Drug 3962 3966	利拉鲁肽
+T127	Drug 3995 4006	GLP-1 受体激动剂
+T128	Drug 4054 4065	GLP-1 受体激动剂
+T129	Drug 4153 4164	GLP-1 受体激动剂
+T130	Drug 4260 4264	利拉鲁肽
+T131	Test 4299 4303	餐后血糖
+T132	Drug 4365 4369	利拉鲁肽
+T133	Disease 4402 4405	低血糖
+T134	Test 4434 4436	体重
+T135	Drug 4451 4455	利拉鲁肽
+T136	Test 4474 4476	体重
+T137	Drug 4529 4533	利拉鲁肽
+T138	Drug 4541 4545	西格列汀
+T139	Test 4643 4646	收缩压
+T140	Drug 4705 4709	利拉鲁肽
+T141	Test 4711 4713	血压
+T142	Drug 4720 4724	利拉鲁肽
+T143	Disease 4745 4750;4751 4752	2 型糖尿 病
+T144	Test 4755 4758	收缩压
+T145	Test 4819 4822	收缩压
+T146	Drug 4882 4883;4884 4887	利 拉鲁肽
+T147	Drug 5018 5022	利拉鲁肽
+T148	Test 5036 5040	甘油三酯
+T149	Test 5060 5069	低密度脂蛋白胆固醇
+T150	Test 5086 5091	游离脂肪酸
+T151	Drug 5162 5165	磺脲类
+T152	Drug 5166 5172	噻唑烷二酮类
+T153	Drug 5173 5176	胰岛素
+T154	Drug 5182 5186	利拉鲁肽
+T155	Drug 5226 5230	利拉鲁肽
+T156	Disease 5232 5235	冠心病
+T157	Disease 5246 5253	颈动脉粥样硬化
+T158	Drug 5420 5423	降脂药
+T159	Drug 5445 5449	利拉鲁肽
+T160	Disease 5541 5544	糖尿病
+T161	Drug 5653 5657	利拉鲁肽
+T162	Drug 5764 5768	利拉鲁肽
+T163	Drug 5811 5815	利拉鲁肽
+T164	Test 4611 4614	收缩压
+T165	Test 2520 2525	hsCRP
+T166	Test 2570 2575	hsCRP
+T167	Drug 4626 4630	利拉鲁肽
+T168	Drug 5691 5695	利拉鲁肽
+T169	Test 4582 4584	体重
+T170	Test 2545 2550	PAI-1
+T171	Test 2578 2583	PAI-1
+T172	Anatomy 3152 3155	Akt
+T173	Test 5287 5290	IMT
+T174	Anatomy 4590 4594	内脏脂肪
+T175	Anatomy 22 25	心血管
+T176	Anatomy 71 74	心血管
+T177	Disease 109 116	代谢异常状态并
+T178	Anatomy 118 121	心血管
+T179	Anatomy 160 165	心血管系统
+T180	Anatomy 1149 1152	心血管
+T181	Treatment 1178 1180	降糖
+T182	Treatment 1181 1183	减重
+T183	Treatment 1185 1187	降压
+T184	Treatment 1188 1190	调脂
+T185	Anatomy 1374 1377	心血管
+T186	Anatomy 1932 1935	心血管
+T187	Disease 2012 2016	心血管病
+T188	Drug 2022 2027	传统降糖药
+T189	Treatment 2028 2032	有效降糖
+T190	Level 2064 2065;2066 2067	加 重
+T191	Disease 2074 2078	心血管病
+T192	Anatomy 2112 2117	心血管系统
+T193	Anatomy 2147 2152	心血管系统
+T194	Anatomy 2369 2374	心血管系统
+T195	Disease 2498 2503	心血管疾病
+T196	Anatomy 2628 2632	示心血管
+T197	Test 2849 2852	葡萄糖
+T198	Test 2861 2864	心功能
+T199	Test 2936 2939	心功能
+T200	Anatomy 3111 3114	心血管
+T201	Anatomy 3139 3141	心脏
+T202	Anatomy 3589 3592	心血管
+T203	Anatomy 3659 3662	心血管
+T204	Anatomy 3684 3689	心血管系统
+T205	Treatment 3783 3785	降糖
+T206	Disease 3828 3833	心血管事件
+T207	Test 4214 4217	葡萄糖
+T208	Test 4377 4380	葡萄糖
+T209	Level 4400 4402	严重
+T210	Test 4464 4466	增重
+T211	Test 4535 4537	减重
+T212	Treatment 4633 4635	降糖
+T213	Anatomy 5489 5492	心血管
+T214	Anatomy 5564 5567	心血管
+T215	Anatomy 5608 5611	心血管
+T216	Anatomy 5659 5662	心血管
+T217	Anatomy 5707 5710	心血管
+T218	Anatomy 5779 5782;5783 5785	心血管 系统
+T219	Test_Value 5313 5315	下降
+T220	Treatment 5476 5478	降糖
+T221	Anatomy 2239 2243	氧自由基
+T222	Anatomy 2257 2264	五聚环蛋白 3
+T223	Anatomy 2282 2286	PTX3
+T224	Frequency 2435 2441	每日 1 次
+T225	Amount 2447 2454	1. 8 mg
+T226	Duration 2458 2462	26 周
+T227	Test 2532 2543	纤溶酶原激活物的抑制物
+T228	Test 2566 2569	BNP
+T229	Frequency 2751 2760	缺血前 1 min
+T230	Amount 2792 2804	100 μU / ml)
+T231	Drug 3041 3047	磷酸盐缓冲液
+T232	Duration 3059 3062	7 d
+T233	Duration 3099 3102	4 d
+T234	Anatomy 3156 3161	GSK3β
+T235	Anatomy 3162 3169	PPARβ-δ
+T236	Anatomy 3170 3175	Nrf-2
+T237	Anatomy 3178 3182	HO-1
+T238	Method 3328 3332	腹腔注射
+T239	Duration 3415 3418	8 周
+T240	Duration 3318 3319;3320 3321	8 周
+T241	Duration 3342 3345	5 周
+T242	Anatomy 3428 3437	Caspase-3
+T243	Test_Value 4277 4297	1. 1 ~ 1. 7 mmol / L
+T244	Test_Value 4306 4317;4318 4326	1. 7 ~ 2. 8 mmol / L
+T245	Test_Value 4339 4352	1. 0% ~ 1. 5%
+T246	Test_Value 4481 4495	1. 0 ~ 3. 2 kg
+T247	Duration 4520 4524	52 周
+T248	Test_Value 4653 4663	2 ~ 6 mmHg
+T249	Amount 4725 4732	1. 8 mg
+T250	Test_Value 4763 4773	2. 36 mmHg
+T251	Test_Value 4827 4832;4833 4837	2. 37 mmHg
+T252	Duration 2924 2927	5 周
+T253	Duration 5213 5217	8 个月
+T254	Duration 5267 5268;5269 5271	4 个月
+T255	Test_Value 5296 5303;5304 5312	1. 19 ± 0. 47)mm
+T256	Test_Value 5317 5333	1. 04 ± 0. 35)mm
+T257	Duration 5346 5350	8 个月
+T258	Test_Value 5368 5384	0. 94 ± 0. 21)mm
+T259	Duration 5751 5761	3. 5 ~ 5 年
+T260	Test_Value 2587 2589	下降
+T261	Test 2509 2516;2517 2519	高敏 C 反应 蛋白
+T262	Test_Value 4266 4268	降低
+T263	Test_Value 4336 4338	降低
+T264	Test_Value 4760 4762	降低
+T265	Test_Value 4824 4826	降低
+T266	Drug 5158 5161	安慰剂
+T267	Symptom 48 50	超重
+T268	Symptom 51 53	肥胖
+T269	Symptom 54 57	高血压
+T270	Symptom 58 61	高血脂
+T271	Symptom 1013 1024	β 细胞进行性功能降低
+T272	Symptom 1025 1031	血糖持续升高
+T273	Symptom 1044 1054	伴随多种靶器官的损害
+T274	Test 1058 1060	血糖
+T275	Level 1060 1061;1062 1065	持 续升高
+T276	Reason 1133 1135	超重
+T277	Reason 1136 1138	肥胖
+T278	Reason 1139 1142	高血压
+T279	Reason 1143 1146	高血脂
+T280	Drug 1216 1222;1223 1226	人胰升糖素样 肽 1
+T281	Reason 1326 1329	糖尿病
+T282	Reason 1352 1355	糖尿病
+T283	Reason 1359 1361	超重
+T284	Reason 1362 1364	肥胖
+T285	Reason 1365 1368	高血压
+T286	Reason 1369 1373	血脂异常
+T287	Test 1620 1627	口服糖耐量试验
+T288	Test 1628 1632	OGTT
+T289	Test 1661 1665	OGTT
+T290	Disease 1874 1877	冠心病
+T291	Reason 2005 2007;2008 2009	高血 糖
+T292	SideEff 2042 2046	体重增加
+T293	SideEff 2051 2054	低血糖
+T294	Drug 2100 2111	GLP-1 受体激动剂
+T295	Reason 2130 2134	氧化应激
+T296	Reason 2135 2139	炎症反应
+T297	Anatomy 2181 2196	肿瘤坏死因子 α(TNF-α)
+T298	Anatomy 2199 2203	内皮细胞
+T299	Anatomy 2224 2233	NADPH 氧化酶
+T300	Disease 2314 2323	支架植入术后再狭窄
+T301	Test 2483 2487	脑利钠肽
+T302	Anatomy 2656 2660	心肌细胞
+T303	Test 2663 2666	心功能
+T304	Test 2675 2678;2679 2681	左心室 功能
+T305	Anatomy 2717 2722	GLP-1
+T306	Anatomy 2724 2727	胰岛素
+T307	Test 2736 2740	心脏功能
+T308	Amount 2770 2782	500 pmol / L
+T309	Drug 2824 2825;2826 2828	胰 岛素
+T310	Drug 2835 2840	GLP-1
+T311	Drug 2915 2920	GLP-1
+T312	Drug 2948 2953	GLP-1
+T313	Drug 3361 3365	利拉鲁肽
+T314	Drug 3388 3393	甘精胰岛素
+T315	Anatomy 3509 3513	心肌细胞
+T316	Anatomy 3540 3544	内皮细胞
+T317	Anatomy 3550 3551;3552 3553	心 肌
+T318	Test 3553 3556	葡萄糖
+T319	Disease 3570 3574	心肌梗死
+T320	Test 3579 3580;3581 3583	心 功能
+T321	Reason 3706 3712	加重氧化应激
+T322	Reason 3713 3721	促进血管内皮受损
+T323	Disease 3727 3733	动脉粥样硬化
+T324	Reason 3811 3813	超重
+T325	Reason 3814 3816	肥胖
+T326	Reason 3817 3819;3820 3821	高血 压
+T327	Reason 3822 3825	高血脂
+T328	Test 3979 3981	血脂
+T329	Test 3976 3978	血压
+T330	Drug 4109 4120	GLP-1 受体激动剂
+T331	SideEff 4142 4145	低血糖
+T332	Drug 4182 4193	GLP-1 受体激动剂
+T333	SideEff 4386 4389	低血糖
+T334	Anatomy 4894 4902	GLP-1 受体
+T335	Anatomy 4904 4908	主动脉环
+T336	Test 4911 4915;4916 4917	心房利钠 肽
+T337	Anatomy 4923 4928	血管紧张素
+T338	Anatomy 4953 4958	远端肾小管
+T339	Test 4973 4975	血压
+T340	Test 5276 5285	颈动脉内膜中层厚度
+T341	Test 5353 5360	颈动脉 IMT
+T342	Disease 5510 5519	糖尿病心血管并发症
+T343	Disease 5522 5524	致死
+T344	Disease 5525 5527	致残
+T345	Frequency 5022 5024	每日
+T346	Amount 5025 5032	1. 2 mg
+T347	Test_Value 5045 5058	0. 4 mmol / L
+T348	Test_Value 5042 5044	降低
+T349	Test 5072 5085	0. 3 mmol / L
+T350	Test_Value 5069 5071	降低
+T351	Test_Value 5091 5093	降低
+T352	Test_Value 5094 5099;5100 5108	0. 03 mmol / L

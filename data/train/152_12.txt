@@ -1,0 +1,224 @@
+基础研究
+婷、李杨、孙家忠);武汉市第五人民医院(戴婧);武汉市中山医院(蔡
+莉);湖北科技学院糖尿病与心脑血管病变湖北省重点实验室(刘超);
+第一作者现在郧阳区人民医院、太和医院郧阳分院内分泌科工作
+GIPR 在棕色脂肪细胞分化中的表达及功能分析
+李广森  戴婧  李吉  蔡莉  柯孟婷  李杨  孙家忠  刘超
+[提要]   采用葡萄糖依赖性胰岛素释放多肽(GIP)干预诱导分化成熟的棕色脂肪细胞,以 Western 印
+迹分析 GIP 受体(GIPR)、解耦联蛋白 1(UCP-1)、cAMP 反应元件结合蛋白(CREB)等的蛋白表达,ELISA
+检测细胞内 cAMP 浓度变化。 结果显示,分离培养的大鼠脂肪细胞光镜下呈典型棕色脂肪细胞形态,油红
+O 染色可见细胞内大量脂滴聚集;免疫组化检测可见细胞内 UCP-1 表达;在棕色脂肪细胞分化后期 GIPR
+mRNA 表达量呈上升趋势,免疫组化检测可见棕色脂肪细胞内 GIPR 蛋白表达。 1 和 100 nmol / L 的 GIP 显
+著升高棕色脂肪细胞 GIPR、UCP-1 和 CREB 的蛋白表达,10 nmol / L 时明显降低;各种浓度 GIP 干预 24 h 后
+棕色脂肪细胞内 cAMP 浓度均显著升高(P<0. 05)。 结果提示 GIPR 可能参与棕色脂肪细胞的分化。
+[关键词]   糖尿病, 2 型; 棕色脂肪细胞; 葡萄糖依耐性胰岛素释放多肽受体
+Expression and function of GIP receptor in brown adipocytes Li Guangsen *, Dai Jing, Li Ji, Cai Li, Ke
+Mengting, Li Yang, Sun Jiazhong, Liu Chao. *Department of Endocrinology, Zhongnan Hospital, Wuhan University,
+Wuhan 430071, China
+[Summary]  After differentiated primary brown fat cells were incubated with glucose-dependent insulinotropic
+polypeptide(GIP), GIP receptor ( GIPR), uncoupling protein 1 ( UCP-1), and CREB protein expressions were
+measured by Western blot, and intracellular cAMP was detected by ELISA. The results showed that cultured primary
+adipocytes manifested a typical morphology of brown fat cells, with a large amount of lipid droplet accumulation shown
+by oil red O and UCP-1 expression detected by immunohistochemistry. On the later stage of brown adipocyte
+differentiation, GIPR mRNA expression revealed an increased tendency. GIPR protein expression was detected by
+immunohistochemistry in brown fat cells. 1 and 100 nmol / L GIP significantly increased GIPR,UCP-1, and CREB
+protein expressions while 10 nmol / L GIP decreased the expressions of these genes. Treatment with various
+concentrations of GIP for 24 hours raised cAMP concentrations in brown fat cells. These results suggest that GIPR plays
+a critical role in the differentiation course of primary brown adipocyte.
+[Key words]  Diabetes mellitus, type 2; Brown adipose tissue; Glucose-dependent insulinotropic polypeptide
+receptor
+(Chin J Endocrinol Metab, 2016, 32: 857-861)
+高脂饮食及久坐不动的工作与生活方式导致人体能量的
+摄入远超能量的消耗,随后体内储存能量的脂肪细胞数目的增
+加,体积的肥大,引发肥胖症的发生。 脂肪细胞主要分为白色
+脂肪(White adipose tissue, WAT) 和棕色脂肪 ( Brown adipose
+tissue, BAT)。 WAT 主要起储存能量及机械保护作用,主要分
+布于内脏、皮下和性腺周围,其增殖与肥大是导致肥胖的主要
+原因;BAT 主要通过解耦联蛋白 1(Uncoupling protein 1, UCP1)
+介导以产热的形式消耗能量,是出生时和儿童早期重要维持体
+温的组织,最初认为 BAT 随着年龄增加而逐步退化、消失。 但
+近年研究表明,成人体内也存在棕色脂肪,并对人体全身能量
+消耗具有显著作用,因此,通过增加棕色脂肪组织的活性或促
+进脂肪棕色化,可能成为一种预防或治疗肥胖及其相关并发症
+的方法。
+葡萄糖依赖性胰岛素释放多肽(Glucose-dependent insulinot-
+ropic polypeptide,GIP)又称为抑胃肽(gastric inhibitory peptide),
+是主要的肠促胰素之一,其作用既往被认为是中和胃酸,保护
+小肠黏膜,减少食物从胃进入肠道,抑制胃排空和胃酸分泌。
+后因实验证实缺乏 GIP 受体(GIPR)的小鼠对高脂饮食诱导的
+肥胖有抵抗作用,而再次点燃了科学家们研究它的热情[1] 。 关
+于 GIP 在糖脂代谢中的可能作用,我们已作详细叙述[2] ,之前
+关于 GIP 作用的研究主要集中在白色脂肪细胞,目前鲜有 GIP
+与棕色脂肪细胞相关的研究报道,为此本研究拟观察 SD 大鼠
+原代棕色脂肪细胞分化过程中是否表达 GIP 受体,并进一步研
+究其可能的功能。
+一、 材料和方法
+1. 材料:(1)实验动物:1 周龄 SD 大鼠 8 只,体重 15 ~ 20
+g,购自武汉大学动物实验中心[证书编号:SCXK(鄂) 2008-
+0004,SPF 级]。 (2)试剂:RNA 提取试剂盒、逆转录试剂盒、
+PCR 引物(上海生物工程有限公司),胎牛血清白蛋白、胎牛血
+清(Gibco 公司),域型胶原酶、青链霉素双抗、胰酶(美国 Sigma
+表 1  PCR 引物序列及反应条件
+基因 引物序列 产物长度(bp)
+反应条件
+变性 退火 延伸
+GIPR F:5'-CTCTCCAGTCCCACACAGATTT-3' 213 94℃ 30 s 58℃ 30 s 72℃ 45 s
+R:5'-TGATTGCTCTCCTTTTGTCTTG-3'
+UCP-1 F:5'-GTGAGTTCGACAACTTCCGAAGTG-3' 620 92℃ 45 s 55℃ 60 s 72℃ 60 s
+R:5'-CATGAGGTCATATGTCACCAGCTC忆-3'
+GAPDH F:5'-TCTACAATGAGCTGCGTGTG-3' 150 92℃ 45 s 55℃ 60 s 72℃ 60 s
+R:5'-GGTGAGGATCTTCATGAGGT-3'
+注:GIPR:葡萄糖依赖性胰岛素释放多肽受体;UCP-1:解耦联蛋白 1;GAPDH:甘油醛-3-磷酸脱氢酶;F:上游引物;R:下游引物
+公司),cAMP 酶联免疫试剂盒、UCP-1 一抗(上海瑞晶生物科
+技),磷酸化 cAMP 反应元件结合蛋白 ( CREB) 一抗 (美国
+Neogen 公司),GIPR 一抗(康肽生物科技北京有限公司),GIP
+(美国 Phoenix pharmaceuticals 公司);脂肪组织消化液配方:域
+型胶原酶 1. 5 g / L,牛血清白蛋白 20 g / L,HEPES 1. 2 g / L,使用
+含钙、镁的 PBS 定容,调 pH 7. 4,50 ml EP 管分装,用时 37℃预
+热。 棕色脂肪细胞培养液配方:DMEM 高糖培养基 88. 5 ml,胎
+牛血清 10%,双抗 1%,胰岛素 20 nmol / L,地塞米松 5 μmol / L。
+2. 方法:(1)SD 大鼠原代棕色脂肪细胞获取与培养:断颈
+法处死 1 周龄 SD 大鼠,分离并获取原代棕色脂肪细胞,6 孔板
+培养,隔日换液。 (2)普通 PCR:RNA 提取试剂盒提取组织或
+细胞总 RNA,逆转录为 cDNA。 取 cDNA 2 滋l,反应体系为 25
+滋l,引物序列及反应条件见表 1,反应结束后取 2 滋l 行琼脂糖凝
+胶电泳,紫外灯观察结果,照相。 (3)免疫组化:棕色脂肪组织
+与原代棕色脂肪细胞分别制片,按文献所示方法行免疫组化染
+色、观察。 (4)细胞干预:细胞传至第 3 代,按 104个 /孔接种。 6
+孔板置于 5% CO2、37℃培养箱中,至细胞 80% 成熟(第 9 天)。
+更换新鲜培养液,12 h 后分别予以 1、10、100 nmol / L 的 GIP 干预
+24 h,收集细胞进行下一步试验。 (5)油红 O 染色:棕色脂肪细
+胞爬片按文献所示方法行油红 O 染色后显微镜下观察、照相。
+(6)细胞内 cAMP 浓度测定:取经不同浓度 GIP 干预后的棕色
+脂肪细胞,分离获取细胞内液后按照 cAMP 酶联免疫试剂盒说
+明书进行测定,根据标准曲线计算棕色脂肪细胞内 cAMP 的浓
+度。 (7)Western 印迹法:取经不同浓度 GIP 干预后的棕色脂肪
+细胞,按文献所示方法行 Western 印迹后以 GAPDH 为内源性
+参照,计算蛋白相对表达量,并进行统计分析。
+3. 统计学处理:用 SPSS 20. 0 软件(武汉大学图书馆购买)
+进行统计学分析,符合正态分布的计量数据采用 x-± s 表示,P<
+0. 05 为差异有统计学意义。
+二、 结果
+1. 免疫组化分析:取自 SD 大鼠肩胛棕色脂肪组织,GIPR
+免疫组化显示(图 1A),细胞内有大量空泡样区域,部分呈环
+状,周围见散在分布的浅棕色至深棕色着色区,提示细胞内存
+在 GIPR 蛋白;UCP-1 免疫组化检测结果显示, 棕色脂肪组织内
+注:A:棕色脂肪组织 GIPR 表达(免疫组化´200);B:棕色脂肪组织 UCP-1 表达(免疫组化´200);C:原代棕色脂肪细胞 GIPR 表达(免疫组化×
+100);D:原代棕色脂肪细胞 UCP-1 表达(免疫组化×100);GIPR: 葡萄糖依赖性胰岛素释放多肽受体;UCP-1:解耦联蛋白 1
+图 1  棕色脂肪组织和原代棕色脂肪细胞 GIPR、UCP-1 表达
+注:A:原代棕色脂肪细胞光镜(×100); B:原代棕色脂肪细胞油红 O 染色(×100)
+图 2  原代棕色脂肪细胞脂肪聚集
+注:A:棕色脂肪组织 GIPR mRNA 表达; B:棕色脂肪细胞分化不同天数 GIPR mRNA 表达水平;GIPR:葡萄糖依赖性胰岛素释放多肽受体; BAT:
+棕色脂肪组织;Brain:脑组织
+图 3  棕色脂肪细胞分化中 GIPR 的表达
+注:p-CREB:磷酸化 cAMP 反应元件结合蛋白;余略语同表 1
+图 4  原代棕色脂肪细胞经 GIP 干预后细胞内相关蛋白表达水平
+呈现大量着色区域,如图 1B,细胞内有大量 UCP-1 表达,呈现
+明显的棕色脂肪细胞特征。 成熟原代棕色脂肪细胞 GIPR、
+UCP-1 免疫组化结果见图 1C 和图 1D,细胞内见大量着色区,
+提示细胞内表达相应蛋白。
+2. 原代棕色脂肪细胞分离培养与诱导分化:取自 SD 大鼠
+原代棕色脂肪组织的脂肪细胞经诱导后进入分化阶段,镜检发
+现细胞开始皱缩并逐渐出现脂滴,脂滴颗粒在细胞核周围出
+现,逐渐增多、增大,直至遍布细胞内,细胞核可被脂滴挤到周
+围。 诱导分化 6 ~ 9 d,80% ~ 90% 的细胞分化产生脂滴,光镜
+下可见大量胞内含有大小不等透光区(图 2A),油红 O 染色后
+棕色脂肪细胞内出现大量红染颗粒(图 2B)。 PCR 检测发现棕
+色脂肪组织内表达 GIPR mRNA,目标 PCR 产物与已知表达 GIPR
+注:与对照组相比,aP<0. 05
+图 5  原代棕色脂肪细胞经 GIP 干预后细胞内 cAMP 水平
+的脑组织出现在相同区域(图 3A);PCR 检测原代棕色脂肪细
+胞分化不同时间点(分化第 1、4、7、10 天)GIPR 的 mRNA 表达
+水平,结果显示自分化第 4 天开始至分化终末期,GIPR 开始表
+达并呈上升趋势(图 3B)。
+3. GIP 干预脂肪细胞:之前已有报道,在白色脂肪细胞内,
+GIP 通过上调胞内 PPAR 的表达活化 GIPR[3] ,属于正反馈调
+节。 本研究结果显示,GIP 干预棕色脂肪细胞 24 h 后,Western
+印迹法测得细胞内 GIPR、UCP-1 及 CREB 的表达量发生变化,
+10 nmol / L 的 GIP 下调 GIPR、UCP-1 及 CREB 的表达,而 1、100
+nmol / L 的 GIP 促进这 3 个基因的表达(图 4)。 经 GIP 干预后
+细胞内 cAMP 浓度明显增高(图 5,P<0. 05)。
+三、 讨论
+BAT 因肉眼下相对于 WAT 呈现棕色外观而得名;BAT 是
+产热器官,很早即证实在小型哺乳动物和新生儿体内含有丰富
+的 BAT,研究发现它随年龄增长逐渐减少。 大量研究显示,啮
+齿类动物棕色脂肪组织产热作用对机体稳定调节和体重控制
+均有作用,进一步研究发现,棕色脂肪组织可能在动物一生中
+均对体重起调节作用[4] 。 一般情况下棕色脂肪组织产热是极
+其低效的,但其激活后则能出现显著的能量消耗。 实验证实,
+在人类,激活棕色脂肪导致的能量消耗可达整体能量消耗的
+15% [5-6] 。 过度进食高能量食物是诱导棕色脂肪组织产热的一
+种有效方式,而不能有效地利用这些食物中的能量则最终导致
+了肥胖[7] 。 为此,很多学者认为通过增加 BAT 产热作用增加
+机体脂肪消耗是治疗肥胖、糖尿病及其并发症的一种可行性方
+法。
+GIP 在白色脂肪细胞脂质储存与利用中起着重要作用。
+空腹状态下,GIP 能刺激脂肪分解,但其脂解作用可被胰岛素
+抑制[8] 。 在高浓度游离脂肪酸(FFA)存在时,GIP 能增强前脂
+肪细胞和成熟的脂肪细胞内脂肪酶的活性[9] 。 细胞水平实验
+证实,GIP 能抑制胰升糖素和异丙肾上腺素介导的脂肪分解,
+即 GIP 促进脂肪细胞内脂肪酸被优先合成脂质并堆积而非作
+为能量被使用[10] 。
+研究发现,在存在胰岛素的情况下,GIP 能增强体外培养
+的 3T3-L1 脂肪细胞、啮齿动物脂肪细胞和人类皮下脂肪细胞
+脂蛋白脂肪酶(LPL)的活性,进一步研究显示 GIP 通过影响
+FFA 的摄取在人类脂肪细胞储存三酰甘油上起重要作用。 在
+前脂肪细胞上,GIPR 的表达非常低,但在 3T3-L1 和人前脂肪
+细胞分化过程中,GIPR mRNA 和蛋白的表达迅速增加。 3T3-L1
+细胞分化同 PPAR-γ 上调有关,在已经分化完全的 3T3-L1 细
+胞,给予 PPAR-γ 激动剂后 GIPR 表达增加而 PPAR-γ 抑制剂则
+减少其表达,用 RNA 干扰技术阻断 PPAR-γ 后 GIPR 表达水平
+明显降低,由此可见 PPAR-γ 是调节脂肪细胞 GIPR 表达的关
+键转录因子,但目前尚不清楚胰岛素在其中的作用[11] 。 综上
+所述,GIP 在机体能量平衡中起重要作用,因此,基于 GIP / GIPR
+信号通路在能量平衡中的重要调控作用,该信号通路可能成为
+治疗肥胖、糖尿病及其并发症新的靶点[1,11] 。
+本研究结果显示,光镜下,分离培养的原代棕色脂肪细胞
+多呈不规则梭行,内有大量点状透亮区;诱导分化后的原代棕
+色脂肪细胞经油红 O 染色后见细胞内有大量区域被染色,部分
+成环状;分离自 SD 大鼠肩胛的棕色脂肪组织采用免疫组化鉴
+定,UCP-1 的表达均匀分布于组织各细胞内,通过以上鉴定,我
+们分离的组织为棕色脂肪组织。
+本研究发现,在棕色脂肪细胞诱导分化的第 4 天检测到
+GIPR 的 mRNA 开始表达,随着细胞的分化成熟, GIPR 的
+mRNA 表达水平上调,经免疫组化进一步鉴定,GIPR 在棕色脂
+肪细胞内有表达,而其可能的作用目前没有报道。 GIP 也属于
+胰升糖素超家族肽,在白色脂肪细胞,GIP 与 GIPR 结合后可导
+致细胞内 cAMP 浓度增加[12] ;在支配棕色脂肪组织的交感神经
+兴奋时,交感神经释放的儿茶酚胺类物质通过作用于棕色脂肪
+细胞上的 β3 肾上腺素能受体导致细胞内 cAMP 浓度增高,进
+而通过蛋白激酶 A(PKA)途径引起细胞核内 CREB 改变,最终
+影响核转录过程[13-14] 。 是否 GIP 同棕色脂肪细胞上的 GIPR 结
+合后也引起细胞内 cAMP 浓度改变,cAMP 作为第二信使而进
+一步发挥作用之前尚不清楚。 本研究发现,分化成熟的棕色脂
+肪细胞予以不同浓度的 GIP 干预 24h 后均可导致细胞内 cAMP
+浓度增加,以 100 nmol / L 时最为明显。 与此对应的是,细胞内
+GIPR、CREB、UCP-1 水平也发生了改变,但并未呈现剂量依赖
+现象,1 和 100 nmol / L 的 GIP 干预后,细胞分化过程中 GIPR、
+CERB、UCP-1 表达增加,而 10 nmol / L 时三者表达均明显降低,
+具体原因目前尚不清楚。
+寒冷刺激是诱导棕色脂肪组织产热的主要因素之一,而有
+研究显示,寒冷刺激在导致棕色脂肪功能增强的同时显著增加
+肠间 GIP 浓度[15] ,并且这种改变是独立于进食的。 当然寒冷
+刺激作用对循环 GIP 浓度的提升是有限的,它不可能同食物刺
+激(特别是脂肪)那样引起 GIP 浓度快速增高;为此,如果血中
+GIP 进一步增高,那机体一定有了另外的能量来源(主要是进
+食),GIP 在此时的作用就转向能量存储(故而会出现 UCP-1 表
+达下降);而当大量高能量食物进入,循环 GIP 浓度会进一步升
+高,此时 GIP 可能参与饮食诱导的产热,在能量收支平衡中起
+作用。
+为此,我们推测,血中低浓度的 GIP 促进棕色脂肪组织产
+热作用的意义在于维持体温的恒定,中等浓度的 GIP 则主要呈
+现存储能量的作用,高浓度则参与饮食诱导产热,在能量收支
+平衡中起作用。 因而我们认为上述现象是可能的,但其中可能
+涉及众多复杂机制,具体尚需进一步证实。 基于已有文献,我
+们推测 GIP 对棕色脂肪细胞的产热调控具直接作用,但具体涉
+及机制及可能的生理意义尚需更多研究证实。
+虽然本研究发现 SD 大鼠棕色脂肪组织表达 GIPR,并且在
+原代棕色脂肪细胞分化过程中可能参与棕色脂肪功能,但该研
+究仍存在不少问题:(1)实验采用的是 SD 大鼠原代棕色脂肪
+细胞,实验过程中有很多干扰因素可能影响研究结果;(2)予以
+GIP 干预前未改用无血清培养液对结果有一定影响;(3)未加
+入一些棕色脂肪特异性基因(如 PRDM16 等),研究数据少;
+(4)细胞内 cAMP 浓度检测方法未采用放射免疫法,结果可信
+度有限;(5)GIP / GIPR 后信号通路中检测指标少,代表性不强。

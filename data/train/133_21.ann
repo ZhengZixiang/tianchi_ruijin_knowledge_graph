@@ -1,0 +1,318 @@
+T1	Disease 1926 1932	1 型糖尿病
+T2	Disease 2407 2413	1 型糖尿病
+T3	Disease 4138 4144	1 型糖尿病
+T4	Disease 4525 4531	1 型糖尿病
+T5	Disease 5517 5523	1 型糖尿病
+T6	Disease 5578 5584	1 型糖尿病
+T7	Disease 57 63	2 型糖尿病
+T8	Disease 289 295	2 型糖尿病
+T9	Disease 2071 2077	2 型糖尿病
+T10	Disease 2121 2127	2 型糖尿病
+T11	Disease 2202 2208	2 型糖尿病
+T12	Disease 2416 2422	2 型糖尿病
+T13	Disease 6191 6197	2 型糖尿病
+T14	Disease 7235 7241	2 型糖尿病
+T15	Disease 7432 7436;7437 7439	2 型糖 尿病
+T16	Disease 4607 4608;4609 4613	1 型糖尿病
+T17	Disease 1853 1858	糖尿病前期
+T18	Disease 1901 1906	糖尿病前期
+T19	Disease 5993 5998	糖尿病前期
+T20	Anatomy 219 223	β 细胞
+T21	Anatomy 2043 2047	β 细胞
+T22	Anatomy 2176 2180	β 细胞
+T23	Anatomy 2393 2397	β 细胞
+T24	Anatomy 2599 2603	β 细胞
+T25	Anatomy 2618 2622	β 细胞
+T26	Anatomy 2696 2700	β 细胞
+T27	Anatomy 2759 2763	β 细胞
+T28	Anatomy 2803 2807	β 细胞
+T29	Anatomy 3153 3157	β 细胞
+T30	Anatomy 3184 3188	β 细胞
+T31	Anatomy 3232 3236	β 细胞
+T32	Anatomy 3240 3244	β 细胞
+T33	Anatomy 3562 3566	β 细胞
+T34	Anatomy 3620 3624	β 细胞
+T35	Anatomy 4029 4033	β 细胞
+T36	Anatomy 4080 4084	β 细胞
+T37	Anatomy 4322 4326	β 细胞
+T38	Anatomy 4724 4728	β 细胞
+T39	Anatomy 4754 4758	β 细胞
+T40	Anatomy 4817 4821	β 细胞
+T41	Anatomy 4980 4984	β 细胞
+T42	Anatomy 5390 5394	β 细胞
+T43	Anatomy 5734 5738	β 细胞
+T44	Anatomy 6026 6030	β 细胞
+T45	Anatomy 7363 7367	β 细胞
+T46	Anatomy 7551 7555	β 细胞
+T47	Anatomy 3107 3110;3111 3112	β 细 胞
+T48	Anatomy 4783 4786;4787 4788	β 细 胞
+T49	Anatomy 4885 4888;4889 4890	β 细 胞
+T50	Anatomy 4918 4921;4922 4923	β 细 胞
+T51	Anatomy 3083 3087	脂肪组织
+T52	Test 3246 3248	血糖
+T53	Test 4166 4168	血糖
+T54	Test 4197 4199	血糖
+T55	Disease 90 93	糖尿病
+T56	Disease 102 105	糖尿病
+T57	Disease 409 412	糖尿病
+T58	Disease 426 429	糖尿病
+T59	Disease 482 485	糖尿病
+T60	Disease 1720 1723	糖尿病
+T61	Symptom 1754 1757	高血糖
+T62	Disease 1808 1811	糖尿病
+T63	Disease 1882 1885	糖尿病
+T64	Symptom 1981 1982;1983 1985	高 血糖
+T65	Anatomy 1995 1999	β 细胞
+T66	Reason 2090 2097	胰岛素分泌缺陷
+T67	Reason 2098 2103	胰岛素抵抗
+T68	Disease 2338 2341	糖尿病
+T69	Disease 2374 2377	糖尿病
+T70	Disease 2446 2449	糖尿病
+T71	Treatment 2477 2483	胰岛细胞移植
+T72	Disease 2525 2526;2527 2529	糖 尿病
+T73	Disease 2537 2540	糖尿病
+T74	Disease 2787 2790	糖尿病
+T75	Disease 2910 2913	糖尿病
+T76	Disease 3039 3042	脑肿瘤
+T77	Anatomy 3114 3118	胰腺组织
+T78	Anatomy 3140 3142	胰腺
+T79	Anatomy 3143 3144;3145 3149	内 分泌组织
+T80	Anatomy 3159 3164	外分泌组织
+T81	Anatomy 3410 3413;3414 3416	外分泌 胰腺
+T82	Anatomy 3474 3476	胰岛
+T83	Disease 3483 3486	糖尿病
+T84	Anatomy 3587 3589	胰岛
+T85	Anatomy 3642 3647	外分泌胰腺
+T86	Anatomy 3704 3706	胰腺
+T87	Anatomy 3744 3751	胰腺外分泌组织
+T88	Disease 3796 3802	神经系统疾病
+T89	Anatomy 3975 3976	脑
+T90	Anatomy 3983 3986	纹状体
+T91	Anatomy 4046 4052	中枢神经系统
+T92	Disease 4114 4117	糖尿病
+T93	Anatomy 4158 4160	胰腺
+T94	Anatomy 4179 4181	胰腺
+T95	Anatomy 4273 4274;4275 4276	胰 腺
+T96	Disease 4297 4300	糖尿病
+T97	Anatomy 4369 4371	胰腺
+T98	Anatomy 4452 4454	胰腺
+T99	Anatomy 4735 4737	胰腺
+T100	Anatomy 4744 4748	自主神经
+T101	Anatomy 4833 4838	胰多肽细胞
+T102	Anatomy 4985 4987	胰腺
+T103	Anatomy 5290 5292;5293 5294	肾皮 质
+T104	Anatomy 5298 5300	胰腺
+T105	Anatomy 5369 5371	胰腺
+T106	Disease 5472 5475	糖尿病
+T107	Anatomy 5586 5588	胰腺
+T108	Anatomy 5726 5731	内分泌胰腺
+T109	Anatomy 5740 5743	神经元
+T110	Anatomy 5799 5800;5801 5809	多 巴胺 D2 受体
+T111	Anatomy 5866 5868	胰腺
+T112	Disease 5901 5902;5903 5911	先 天性高胰岛素血症
+T113	Anatomy 5964 5966	胰腺
+T114	Anatomy 5967 5973	突触前神经元
+T115	Anatomy 6003 6005	胰腺
+T116	Reason 6217 6218;6219 6223	胰 岛素抵抗
+T117	Disease 6299 6301;6302 6303	糖尿 病
+T118	Anatomy 6536 6540	血脑屏障
+T119	Disease 6548 6550	肥胖
+T120	Disease 6551 6554	糖尿病
+T121	Anatomy 6562 6564	肌肉
+T122	Disease 7106 7112	高胰岛素血症
+T123	Anatomy 7144 7147	骨骼肌
+T124	Disease 7261 7264	糖尿病
+T125	Disease 7517 7520	糖尿病
+T126	Disease 7584 7587	糖尿病
+T127	Level 68 70	显著
+T128	Test 1737 1740	胰岛素
+T129	Anatomy 2058 2061	胰岛素
+T130	Level 2156 2159	65%
+T131	Anatomy 2184 2187	胰岛素
+T132	Anatomy 2710 2713	胰岛素
+T133	Anatomy 2775 2778	胰岛素
+T134	Anatomy 3687 3689	胰腺
+T135	Anatomy 3731 3734	胰岛素
+T136	Anatomy 3825 3829	神经受体
+T137	Anatomy 3831 3834	转运体
+T138	Anatomy 4085 4089	单胺受体
+T139	Anatomy 4091 4094	胰岛素
+T140	Test 4243 4249	标准化摄取值
+T141	Test 4277 4280	胰岛素
+T142	Anatomy 4506 4508;4509 4510	胰岛 素
+T143	Anatomy 5338 5341	纹状体
+T144	Anatomy 5451 5454	胰岛素
+T145	Test 5589 5593;5594 5596	标准化摄 取值
+T146	Test 5597 5602	总分布体积
+T147	Test 5604 5608	结合潜力
+T148	Level 5614 5617	38%
+T149	Level 5619 5622	20%
+T150	Level 5625 5628	40%
+T151	Anatomy 5643 5646	胰岛素
+T152	Test 5693 5694;5695 5701	胰 岛素分泌功能
+T153	Anatomy 5973 5975	囊泡
+T154	Anatomy 5977 5983;5984 5987	囊泡乙酰胆碱 转运体
+T155	Anatomy 6134 6136;6137 6146	胰岛 细胞 IC2 抗原
+T156	Anatomy 6241 6244	胰岛素
+T157	Anatomy 6527 6530	胰岛素
+T158	Anatomy 6628 6631	细胞膜
+T159	Anatomy 6642 6648	葡萄糖转运体
+T160	Anatomy 6702 6705;6706 6709	葡萄糖 转运体
+T161	Anatomy 6722 6728	葡萄糖转运体
+T162	Anatomy 7135 7138	胰岛素
+T163	Anatomy 7222 7225	胰岛素
+T164	Test 122 128	核磁共振显像
+T165	Test 129 138	正电子发射断层显像
+T166	Test 139 142	PET
+T167	Test 301 311	18 F-6-葡萄糖
+T168	Test 346 355	18F-6-FDG
+T169	Test 487 491	功能显像
+T170	Test 201 213	放射性核素标记的影像技术
+T171	Test 264 267	PET
+T172	Test 149 153	功能显像
+T173	Disease 1776 1779	糖尿病
+T174	Test 2211 2217	核磁共振显像
+T175	Test 2246 2249	MRI
+T176	Test 2251 2255;2256 2261	正电子发 射断层显像
+T177	Test 2292 2295	PET
+T178	Test 2300 2302;2303 2307	功能 显像技术
+T179	Test 2318 2325	葡萄糖转运显像
+T180	Test 2366 2373	功能影像学技术
+T181	Test 2856 2859	MRI
+T182	Test 2860 2863	PET
+T183	Test 2869 2873;2874 2876	功能显像 方法
+T184	Test 2942 2945	MRI
+T185	Test 3010 3013	MRI
+T186	Test 3031 3038	磁共振波谱分析
+T187	Test 3063 3066	MRI
+T188	Test 3130 3133	MRI
+T189	Test 3172 3175	MRI
+T190	Test 3202 3212	锰增强 MRI 显像
+T191	Test 3286 3296	锰增强 MRI 显像
+T192	Test 3310 3317	放射性核素检测
+T193	Test 3376 3403	11C-乙酸( 11C-acetate) PET 显像
+T194	Test 3358 3363	内分泌疾病
+T195	Test 3513 3532	2 型单胺囊泡转运体(VMAT2)显像
+T196	Test 3547 3551	功能显像
+T197	Anatomy 3651 3655	腹部脏器
+T198	Anatomy 3610 3615	VMAT2
+T199	Anatomy 3677 3682	VMAT2
+T200	Anatomy 3708 3713	VMAT2
+T201	Anatomy 3755 3760	VMAT2
+T202	Anatomy 3772 3777	VMAT2
+T203	Test 3818 3824	PET 显像
+T204	Test 3911 3942;3943 3949	放射性示踪剂 11C-dihydrotetrabenazine (DTBZ)
+T205	Anatomy 3987 3992	VMAT2
+T206	Test 3999 4007	11C-DTBZ
+T207	Anatomy 4035 4040	VMAT2
+T208	Test 4101 4109	11C-DTBZ
+T209	Test 4148 4156	11C-DTBZ
+T210	Test 4183 4188	VMAT2
+T211	Test 4227 4242	11C-DTBZ PET 显像
+T212	Drug 4289 4294	链脲佐菌素
+T213	Test 4306 4318	11C-DTBZ 的显像
+T214	Test 4364 4367	PET
+T215	Test 4416 4424	11C-DTBZ
+T216	Test 4467 4472	VMAT2
+T217	Anatomy 4493 4498	VMAT2
+T218	Anatomy 4535 4540	VMAT2
+T219	Test 4573 4576	PET
+T220	Test 4654 4662	VMAT2 显像
+T221	Test 4666 4677	18F-DTBZ 显像
+T222	Test 4681 4686	VMAT2
+T223	Anatomy 4707 4712	VMAT2
+T224	Test 4764 4769	VMAT2
+T225	Anatomy 4848 4853	VMAT2
+T226	Anatomy 4868 4871	胰多肽
+T227	Anatomy 4874 4879	VMAT2
+T228	Anatomy 4898 4903	VMAT2
+T229	Test 4944 4947	PET
+T230	Test 4951 4959	VMAT2 显像
+T231	Test 5120 5128	11C-DTBZ
+T232	Test 5052 5077;5078 5082	18 F-9-fluoropropyl-( +)- DTBZ
+T233	Test 5144 5152	11C-DTBZ
+T234	Test 5153 5161	18F-DTBZ
+T235	Anatomy 5164 5169	VMAT2
+T236	Test 5249 5257	18F-DTBZ
+T237	Anatomy 5259 5261	胰腺
+T238	Anatomy 5263 5268	VMAT2
+T239	Anatomy 5283 5288	VMAT2
+T240	Test 5404 5419	18F-FP-(+)-DTBZ
+T241	Test 5499 5514	18F-FP-(+)-DTBZ
+T242	Test 5527 5533	PET 显像
+T243	Test 5663 5680	18 F-FP-( +)-DTBZ
+T244	Test 5716 5723	放射性核素显像
+T245	Test 5771 5778	PET 示踪剂
+T246	Anatomy 5812 5839;5840 5841	L-3,4-二羟基苯丙氨酸(L-3,4-DOPA)脱羧 酶
+T247	Test 5886 5898	18 F-DOPA 显像
+T248	Test 5930 5949;5950 5960	18F-4-fluorobenzyl- trozamicol
+T249	Test 6033 6042;6043 6046	单光子发射计算机断 层显像
+T250	Test 6092 6097	SPECT
+T251	Test 6181 6188	葡萄糖转运显像
+T252	Test 6361 6367	PET 显像
+T253	Test 6379 6424;6425 6435	18 F-2-葡萄糖 ( 18 F-2-deoxy-2-fiuoro-D-glucose, 18F-2-FDG)
+T254	Test 6501 6518;6519 6525	使用18 F-2-FDG 进行动态 PET 显像
+T255	Test 6580 6589	18F-2-FDG
+T256	Test 6710 6719	18F-2-FDG
+T257	Test 6795 6805	18 F-6-葡萄糖
+T258	Test 6840 6849	18F-6-FDG
+T259	Test 6881 6891	18 F-6-FDG
+T260	Test 6909 6918	18F-2-FDG
+T261	Anatomy 6992 6996	酵母细胞
+T262	Test 7015 7024	18F-6-FDG
+T263	Test 7116 7129	18 F-6-FDG 显像
+T264	Test 7176 7185	18F-6-FDG
+T265	Test 7267 7270	影像学
+T266	Test 7274 7281	功能影像学技术
+T267	Disease 7345 7357	放射性核素标记的影像技术
+T268	Test 7397 7405;7406 7408	DTBZ PET 显像
+T269	Test 7454 7464	18 F-6-FDG
+T270	Test 7570 7572;7573 7577	功能 显像技术
+T271	Anatomy 1728 1735	胰岛 β 细胞
+T272	Anatomy 1943 1950	胰岛 β 细胞
+T273	Test 2147 2152	β 细胞量
+T274	Disease 386 391	胰岛素抵抗
+T275	Anatomy 72 76	β 细胞
+T276	Anatomy 84 88	β 细胞
+T277	Test 178 183	β 细胞量
+T278	Test 236 241	β 细胞量
+T279	Anatomy 493 497	β 细胞
+T280	Reason 1935 1941	自身免疫因素
+T281	Test 2168 2173	β 细胞量
+T282	Reason 2191 2196	胰岛素抵抗
+T283	Test 2312 2317	β 细胞量
+T284	Test 2431 2434;2435 2437	β 细 胞量
+T285	Test 2468 2473	β 细胞量
+T286	Test 2519 2524	β 细胞量
+T287	Test 2564 2569	β 细胞量
+T288	Test 2742 2747	β 细胞量
+T289	Test 2920 2925	β 细胞量
+T290	Test 3094 3098	胰腺体积
+T291	Test 3488 3493	β 细胞量
+T292	Test 3540 3541;3542 3545	β 细胞量
+T293	Anatomy 3690 3694;3695 3697	胰岛 β 细胞
+T294	Anatomy 3723 3725;3726 3730	胰岛 β 细胞
+T295	Anatomy 3954 3955	脑
+T296	Anatomy 3956 3962	多巴胺神经元
+T297	Test 4118 4123	β 细胞量
+T298	Test 4582 4587	β 细胞量
+T299	Test 4623 4628	β 细胞量
+T300	Test 4690 4695	β 细胞量
+T301	Test 5457 5462	β 细胞量
+T302	Test 5687 5692	β 细胞量
+T303	Anatomy 5764 5766	脑部
+T304	Test 5786 5791	β 细胞量
+T305	Test 5871 5878	D2 受体显像
+T306	Test 6149 6151	血糖
+T307	Test 6201 6206	β 细胞量
+T308	Disease 6225 6230	胰岛素抵抗
+T309	Reason 6287 6292	胰岛素抵抗
+T310	Test 6467 6471	肿瘤显像
+T311	Test 6472 6477	脑功能显像
+T312	Symptom 7245 7250	胰岛素抵抗
+T313	Test 7390 7395	β 细胞量
+T314	Disease 7446 7451	胰岛素抵抗
+T315	Disease 7495 7498;7499 7501	胰岛素 抵抗
+T316	Disease 7561 7566	胰岛素抵抗
+T317	Test 3417 3426	18F-脱氧葡萄糖
+T318	Test 3453 3460	18F-FDG

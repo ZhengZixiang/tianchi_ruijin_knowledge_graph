@@ -1,0 +1,386 @@
+T1	Disease 120 125	2型糖尿病
+T2	Disease 505 510	2型糖尿病
+T3	Disease 533 538	2型糖尿病
+T742	Disease 6 11	代谢综合征
+T743	Disease 12 17	代谢综合征
+T744	Reason 19 21	肥胖
+T745	Reason 22 25	高血压
+T746	Reason 27 30	高血糖
+T747	Reason 31 35	血脂异常
+T748	Disease 97 107;108 110	动脉粥样硬化性心血管 疾病
+T749	Disease 143 148	代谢综合征
+T750	Disease 167 172	代谢综合征
+T751	Reason 178 183	胰岛素抵抗
+T752	Disease 184 188;189 190	代谢综合 征
+T753	Disease 211 213	肥胖
+T754	Disease 217 221	腹型肥胖
+T755	Reason 245 250	胰岛素抵抗
+T758	Treatment 265 269	减轻体重
+T759	Treatment 272 276	减小腹围
+T760	Disease 302 305	高血压
+T761	Disease 316 319	高血压
+T762	Disease 342 345	高血压
+T763	Drug 352 355	利尿剂
+T764	Drug 364 368	氯沙坦钾
+T765	Test 385 388	血尿酸
+T766	Disease 391 396	心血管事件
+T767	Drug 415 416;417 420	氨 氯地平
+T768	Drug 431 440	二氢吡啶类钙拮抗剂
+T769	Disease 448 453	缺血性卒中
+T770	Disease 454 457	高血压
+T771	Disease 466 469	高血糖
+T772	Disease 475 478	糖尿病
+T775	Disease 524 527	糖尿病
+T776	Disease 556 561	糖尿病肾病
+T777	Disease 582 587	糖代谢异常
+T778	Test 589 592	血尿酸
+T779	Test_Value 592 604	>480 p.mol/L
+T780	Drug 629 633	降糖药物
+T781	Test 634 637;638 640	血尿酸 水平
+T782	Drug 647 652	磺脲类药物
+T783	Drug 668 674	糖苷酶抑制剂
+T784	Drug 674 678	阿卡波糖
+T785	Test 689 692;693 695	血尿酸 水平
+T786	Test_Value 696 698	升高
+T787	Drug 702 710	噻唑烷二酮类药物
+T788	Disease 716 720;721 722	胰岛素抵 抗
+T789	Test 725 730	血尿酸水平
+T790	Drug 737 741	达格列净
+T791	Drug 742 746	卡格列净
+T792	Drug 749 751;752 771	葡萄 糖协同转运蛋白2(SGLT-2)抑制剂
+T793	Test 774 778;779 780	血尿酸水 平
+T794	Test_Value 772 774	降低
+T795	Disease 788 792	血脂紊乱
+T796	Disease 812 819	高甘油三酯血症
+T797	Disease 802 804	痛风
+T798	Disease 793 797	血脂紊乱
+T799	Disease 843 849	动脉粥样硬化
+T800	Disease 835 838;839 842	高胆固 醇血症
+T801	Drug 861 865;866 867	阿托伐他 汀
+T802	Disease 874 881	高甘油三酯血症
+T803	Drug 894 895;896 899	非 诺贝特
+T804	Reason 934 937	HUA
+T805	Disease 938 943	心血管疾病
+T806	Disease 928 933	心血管疾病
+T807	Disease 973 975;976 979	心血 管疾病
+T808	Disease 1002 1005	高血压
+T809	Disease 1007 1010	冠心病
+T810	Disease 1011 1015	心力衰竭
+T811	Test 1024 1027	血尿酸
+T812	Test_Value 1027 1039	>480 p。mol/L
+T813	Disease 1062 1067	心血管疾病
+T814	Disease 1071 1076	心血管事件
+T815	Drug 1088 1097	黄嘌呤氧化酶抑制剂
+T816	Symptom 1171 1172;1173 1177	肾 功能损伤
+T817	Symptom 1166 1170	水钠潴留
+T818	Disease 1180 1182	心衰
+T819	Level 1182 1184	恶化
+T820	Disease 1185 1187	心衰
+T821	Disease 1199 1200;1201 1202	心 衰
+T822	Level 1195 1199	急、慢性
+T823	Disease 1225 1228	高血压
+T824	Disease 1233 1236	高血压
+T825	Test 1249 1254	血尿酸水平
+T826	Disease 1255 1258	高血压
+T827	Test 1279 1284	血尿酸水平
+T828	Disease 1298 1301	高血压
+T829	Test_Value 1287 1297	60 p,mol/L
+T830	Disease 1333 1336	高血压
+T831	Disease 1328 1331	高尿酸
+T832	Disease 1352 1357	代谢综合征
+T833	Disease 1368 1371	冠心病
+T834	Test 1372 1377	血尿酸水平
+T835	Test_Value 1380 1390	60 Ixmol/L
+T836	Disease 1402 1408	缺血性心脏病
+T837	Disease 1394 1398	心血管病
+T838	Disease 1468 1471	冠心病
+T839	Disease 1435 1438	冠心病
+T840	Disease 1465 1467	死亡
+T841	Disease 1491 1494	冠心病
+T842	Test 1508 1511;1512 1514	雌激素 水平
+T843	Disease 1527 1530	冠心病
+T844	Drug 1548 1550;1551 1553	阿司 匹林
+T845	Drug 1554 1559	阿托伐他汀
+T846	Test 1563 1566	血尿酸
+T847	Drug 1570 1574	阿司匹林
+T848	Drug 1595 1599	阿司匹林
+T849	Amount 1601 1605	>3∥d
+T850	Anatomy 1611 1614	肾小管
+T851	Drug 1634 1638	阿司匹林
+T852	Amount 1639 1647	<l~2 g/d
+T853	Anatomy 1650 1653	肾小管
+T854	Test 1665 1670	血尿酸水平
+T855	Test_Value 1670 1672	升高
+T856	Drug 1679 1683	阿司匹林
+T857	Amount 1684 1687;1688 1696	75~ 325 mg/d
+T858	Test 1701 1704	血尿酸
+T859	Test_Value 1699 1701	升高
+T860	Amount 1713 1724	75~325 mg/d
+T861	Drug 1724 1725;1726 1729	阿 司匹林
+T862	Anatomy 1738 1739	心
+T863	Anatomy 1740 1741	脑
+T864	Treatment 1764 1768	碱化尿液
+T865	Treatment 1769 1772	多饮水
+T866	Test 1777 1781;1782 1783	血尿酸水 平
+T867	Drug 1784 1789	阿托伐他汀
+T868	Disease 1828 1838	造影剂相关急性肾损伤
+T869	Test 1854 1860	冠状动脉CT
+T870	Test 1863 1869	冠状动脉造影
+T871	Disease 1925 1927	心衰
+T872	Disease 1936 1940	慢性心衰
+T874	Test 1977 1982	血尿酸水平
+T875	Test_Value 1982 1984	增高
+T876	Disease 1987 1989	心衰
+T880	Disease 2009 2017	急性失代偿性心衰
+T881	Drug 2021 2025	襻利尿剂
+T883	Disease 2031 2033;2034 2035	肾衰 竭
+T884	Test 2041 2044	血尿酸
+T885	Test_Value 2044 2046	升高
+T886	Disease 2077 2081	院内死亡
+T887	Disease 2091 2096	心源性死亡
+T888	Drug 2115 2120	排钾利尿剂
+T889	Drug 2124 2130	噻嗪类利尿剂
+T890	Drug 2168 2175	非噻嗪类利尿剂
+T891	Drug 2196 2202	噻嗪类利尿剂
+T892	Drug 2206 2209	别嘌醇
+T893	Disease 2266 2271	缺血性卒中
+T894	Disease 2251 2257	神经系统疾病
+T895	Disease 2282 2285;2286 2290	神经退 行性疾病
+T896	Disease 2291 2297	阿尔茨海默病
+T897	Disease 2298 2302	帕金森病
+T898	Test 2310 2312;2313 2314	血尿 酸
+T899	Test_Value 2314 2316	升高
+T900	Disease 2355 2360	缺血性卒中
+T905	Disease 2388 2390	卒中
+T906	Disease 2407 2409	卒中
+T907	Disease 2421 2426	缺血性卒中
+T908	Disease 2442 2444	卒中
+T909	Disease 2470 2477	无症状性脑梗死
+T910	Disease 2480 2482	卒中
+T911	Test 2454 2459	血尿酸水平
+T912	Test_Value 2460 2462	增高
+T913	Reason 2361 2368	血尿酸水平升高
+T914	Reason 2371 2374;2375 2387	血尿酸 >420 ixmol/L
+T915	Test 2499 2504	血尿酸水平
+T916	Test 2532 2537	血尿酸水平
+T917	Disease 2538 2540	卒中
+T918	Test_Value 2531 2532	高
+T919	Test 2552 2555;2556 2558	血尿酸 水平
+T920	Disease 2565 2567	卒中
+T921	Disease 2582 2584	卒中
+T925	Reason 2587 2592	血尿酸增高
+T926	Disease 2593 2595	卒中
+T928	Test 2607 2611;2612 2613	血尿酸水 平
+T930	Disease 2616 2623	急性缺血性卒中
+T931	Disease 2637 2638;2639 2643	卒 中后死亡
+T932	Disease 2653 2656	脑梗死
+T933	Treatment 2656 2658	溶栓
+T934	Test_Value 2663 2664	高
+T935	Test 2664 2669	血尿酸水平
+T936	Disease 2670 2673	脑梗死
+T938	Disease 2715 2722	大脑中动脉梗死
+T939	Level 2713 2715	恶性
+T941	Disease 2724 2726	出血
+T942	Treatment 2735 2737	溶栓
+T943	Symptom 2739 2745	高血尿酸水平
+T937	Symptom 2706 2712	低血尿酸水平
+T940	Drug 2758 2762	阿替普酶
+T945	Method 2766 2770	静脉输注
+T946	Test 2804 2809	血尿酸水平
+T947	Disease 2829 2834	缺血性卒中
+T948	Disease 2839 2841	卒中
+T949	Disease 2844 2846	死亡
+T950	Test 2866 2871	血尿酸水平
+T951	Disease 2875 2876;2877 2881	缺 血性卒中
+T952	Disease 2912 2919	急性缺血性卒中
+T954	Treatment 2919 2921	溶栓
+T955	Test 2930 2933	血尿酸
+T956	Disease 2961 2963	卒中
+T957	Disease 2969 2971	卒中
+T958	Drug 2994 2998	阿司匹林
+T959	Drug 2999 3004	阿托伐他汀
+T960	Test 3008 3009;3010 3012	血 尿酸
+T961	Disease 3036 3043	神经退行性疾病
+T962	Disease 3044 3050	阿尔茨海默病
+T963	Disease 3063 3069	认知功能障碍
+T964	Disease 3070 3076	阿尔茨海默病
+T965	Level 3061 3063	轻度
+T966	Disease 3101 3107	认知功能障碍
+T967	Disease 3113 3119	阿尔茨海默病
+T968	Level 3099 3101	轻度
+T969	Test 3126 3131	血尿酸水平
+T970	Test_Value 3131 3133	升高
+T971	Disease 3139 3145	阿尔茨海默病
+T972	Disease 3151 3157	阿尔茨海默病
+T973	Symptom 3160 3162;3163 3167	认知 功能损伤
+T974	Disease 3188 3194	认知功能障碍
+T975	Level 3186 3188	轻度
+T976	Test 3177 3182	血尿酸水平
+T977	Test_Value 3182 3184	过低
+T978	Disease 3211 3215	帕金森病
+T979	Disease 3228 3234;3235 3240	中枢神经系统 退行性疾病
+T980	Disease 3252 3256	帕金森病
+T981	Test 3241 3246	血尿酸水平
+T982	Test_Value 3246 3247	高
+T983	Test 3272 3277	血尿酸水平
+T984	Test_Value 3277 3279	升高
+T985	Disease 3284 3288	帕金森病
+T986	Disease 3314 3316	痛风
+T987	Test 3307 3312	血尿酸水平
+T988	Test_Value 3312 3313	高
+T989	Disease 3324 3328	帕金森病
+T990	Test 3353 3358	血尿酸水平
+T991	Disease 3359 3365	神经系统疾病
+T992	Disease 3376 3377;3378 3382	缺 血性卒中
+T993	Disease 3428 3431;3432 3436	神经退 行性疾病
+T994	Test 3396 3401	血尿酸水平
+T995	Test 3416 3421	血尿酸水平
+T996	Test_Value 3391 3395	生理浓度
+T997	Test_Value 3421 3423	过低
+T999	Test 5269 5276	尿白蛋白排泄率
+T1000	Test 5293 5297	尿白蛋白
+T1001	Test 5297 5301	肌酐比值
+T1005	Test 4417 4420	ACR
+T1006	Test 4724 4727	ACR
+T1007	Test 5302 5305	ACR
+T1009	Test 5471 5474	血肌酐
+T1010	Test 5517 5520	血肌酐
+T1011	Drug 4391 4393	贝特
+T1030	Disease 139 142	HUA
+T1031	Disease 162 165	HUA
+T1032	Disease 222 225	HUA
+T1033	Disease 254 257	HUA
+T1034	Reason 312 315	HUA
+T1035	Disease 337 340	HUA
+T1036	Disease 480 483	HUA
+T1037	Disease 551 554	HUA
+T1038	Disease 798 801	HUA
+T1039	Disease 822 825	HUA
+T1040	Disease 851 854	HUA
+T1041	Disease 883 886	HUA
+T1043	Disease 997 1000	HUA
+T1044	Disease 1221 1224	HUA
+T1045	Disease 1229 1232	HUA
+T1046	Disease 1348 1351	HUA
+T1047	Disease 1364 1367	HUA
+T1048	Reason 1457 1460	HUA
+T1049	Disease 1481 1484	HUA
+T1050	Disease 1749 1752	HUA
+T1051	Disease 1805 1808	HUA
+T1052	Reason 1824 1827	HUA
+T1053	Disease 1846 1849	HUA
+T1054	Disease 1921 1924	HUA
+T1055	Disease 2148 2151	HUA
+T1056	Disease 2156 2159	HUA
+T1057	Disease 2245 2248	HUA
+T1058	Disease 2261 2264	HUA
+T1059	Disease 2351 2354	HUA
+T1060	Reason 2402 2405	HUA
+T1061	Disease 2507 2510	HUA
+T1062	Reason 2824 2827	HUA
+T1063	Disease 2852 2855	HUA
+T1064	Disease 2953 2956	HUA
+T1065	Disease 3032 3035	HUA
+T1066	Disease 3371 3374	HUA
+T1067	Disease 3473 3476	HUA
+T1068	Disease 3565 3568	HUA
+T1069	Disease 3586 3589	HUA
+T1070	Disease 3624 3627	HUA
+T1071	Disease 3763 3766	HUA
+T1072	Disease 3836 3839	HUA
+T1073	Test 5277 5280	AER
+T1074	Test 5363 5366	GFR
+T1075	Test 5399 5402	GFR
+T1076	Test 5419 5422	GFR
+T1108	Test 4023 4026	肾功能
+T1212	Test 284 286	尿酸
+T1213	Test 371 373	尿酸
+T1214	Test 424 426	尿酸
+T1215	Test 655 657	尿酸
+T1216	Test 914 916	尿酸
+T1217	Test 1047 1049	尿酸
+T1218	Test 1101 1103	尿酸
+T1220	Test 1577 1579	尿酸
+T1221	Test 1615 1617	尿酸
+T1222	Test 1624 1626	尿酸
+T1223	Test 1654 1656	尿酸
+T1224	Test 1795 1797	尿酸
+T1225	Test 1876 1878	尿酸
+T1226	Test 1929 1931	尿酸
+T1228	Test 2136 2138	尿酸
+T1229	Test 2323 2325	尿酸
+T1233	Test 3079 3081	尿酸
+T1234	Test 3092 3094	尿酸
+T1235	Test 3445 3447	尿酸
+T1236	Test 3670 3672	尿酸
+T1237	Test 3781 3783	尿酸
+T1238	Test 3808 3810	尿酸
+T1239	Test 3860 3862	尿酸
+T1240	Test 3868 3870	尿酸
+T1241	Test 4012 4014	尿酸
+T1242	Test 4169 4171	尿酸
+T1243	Test 4179 4181	尿酸
+T1244	Test 4259 4261	尿酸
+T1245	Test 4445 4447	尿酸
+T1246	Test 4473 4475	尿酸
+T1247	Test 4616 4618	尿酸
+T1248	Test 4963 4965	尿酸
+T1249	Test 5030 5032	尿酸
+T1250	Test 5060 5062	尿酸
+T1252	Test 4082 4087	甲状腺功能
+T1258	Disease 38 43	心血管疾病
+T1261	Drug 4333 4338	糖皮质激素
+T1262	Drug 4243 4247	他克莫司
+T1263	Test 5462 5466	eGFR
+T1264	Test 5508 5512	eGFR
+T1265	Disease 1810 1813	冠心病
+T1266	Disease 3022 3025	冠心病
+T1267	Disease 5154 5157	CKD
+T1268	Disease 5188 5191	CKD
+T1269	Disease 5219 5222	CKD
+T1270	Disease 5359 5362	CKD
+T1271	Disease 5415 5418	CKD
+T1272	Disease 5449 5452	CKD
+T1273	Disease 5499 5502	CKD
+T1274	Drug 4213 4216	环孢素
+T1307	Disease 258 260	痛风
+T1308	Disease 4423 4425	痛风
+T1309	Disease 4468 4470	痛风
+T1310	Disease 4608 4610	痛风
+T1311	Disease 4703 4705	痛风
+T1312	Disease 4744 4746	痛风
+T1313	Disease 4821 4823	痛风
+T1314	Disease 5006 5008	痛风
+T1318	Test 610 611;612 613	尿 酸
+T1319	Test 3656 3657;3658 3659	尿 酸
+T1321	Test 5373 5375	肌酐
+T1322	Test 5571 5572;5573 5574	肌 酐
+T1323	Test 5593 5595	肌酐
+T1324	Test 5619 5621	肌酐
+T1325	Test 5641 5643	肌酐
+T4	Level 5437 5439	G1
+T5	Level 5440 5442	G2
+T6	Test_Value 5306 5317	≥3 mg/mna01
+T7	Test_Value 5281 5282;5283 5292	≥ 30 mg/24h
+T8	Symptom 5264 5268	白蛋白尿
+T9	Symptom 5319 5321;5322 5325	尿沉 渣异常
+T10	Disease 5351 5354	肾移植
+T11	Disease 5326 5333	肾小管相关病变
+T12	Disease 5258 5261	肾损伤
+T13	Disease 5430 5433	肾损伤
+T14	Disease 2 5	HUA
+T15	Reason 232 234;235 244	肥胖 相关的轻度慢性炎症
+T16	Reason 494 501	血尿酸水平增高
+T17	Anatomy 960 963	心血管
+T18	Drug 1154 1160	NSAIDs
+T19	Disease 1137 1139;1140 1143	心血 管事件
+T20	Disease 2097 2099	心衰
+T21	Symptom 2065 2068	高尿酸
+T22	Anatomy 2133 2135	肾脏
+T23	Disease 2238 2244	神经系统疾病
+T24	SideEff 2211 2215	超敏反应
+T25	Disease 2234 2237	HUA
+T26	Drug 2770 2772	尿酸
+T27	Duration 5213 5216	3个月
+T28	Symptom 5195 5211	肾脏出现影响健康的结构或功能异常
+T29	Duration 5241 5243;5244 5245	3个 月

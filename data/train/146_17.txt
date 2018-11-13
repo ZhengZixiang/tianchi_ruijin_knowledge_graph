@@ -1,0 +1,257 @@
+基础研究
+项目基金:国家自然科学基金项目(81270913,81070640,81100567,
+81300702 和 81300670 ), 教 育 部 博 士 点 基 金 ( 20105503110002,
+20125503110003),重 庆 市 自 然 科 学 基 金 重 点 项 目 资 助 ( cstc2012
+jjB10022)
+育部临床检验诊断学重点实验室(任艳、李伶、代继桓、贾彦军、罗小河、
+冉文侠);重庆医科大学附属第二医院内分泌科(杨刚毅、曾梦)
+KLF14 过表达促进肝细胞糖摄取的机制研究
+任艳  李伶  杨刚毅  代继桓  贾彦军  罗小河  冉文侠  曾梦
+[摘要]   目的  观察 Kruppel 样因子 14(KLF14)基因过表达对肝细胞胰岛素信号通路以及 AMP 活化
+的蛋白激酶(AMPK)关键信号分子的影响,探讨 KLF14 影响糖代谢的分子机制。 方法 建立 KLF14 过表
+达的 Hepa1-6 肝癌细胞模型,分为空载组、胰岛素组、KLF14 转染组和胰岛素+KLF14 处理组,采用[ 3H]-2-
+脱氧-D-葡萄糖摄取法检测肝癌细胞对葡萄糖的摄取率。 以 Western 印迹检测 KLF14 过表达对胰岛素信号
+通路中各信号分子的磷酸化水平及磷酸烯醇式丙酮酸激酶(PEPCK)蛋白表达的影响。 结果 胰岛素处理
+Hepa1-6 细胞后,KLF14 转染组与未转染组相比,葡萄糖摄取率明显升高(P<0. 01);胰岛素受体( InsR)、胰
+岛素受体底物(IRS)1、蛋白激酶 B(Akt)、AMPK、CREB 转录共激活因子 2(TORC2)的磷酸化水平均明显增
+加(P<0. 01);而且,糖原合成酶激酶 3β 的磷酸化水平亦明显增加,而 PEPCK 的蛋白表达明显降低,差异均
+有统计学意义(P<0. 01)。 结论 KLF14 过表达可能通过活化胰岛素 InsR / IRS / Akt 经典通路,从而改善肝
+细胞的胰岛素抵抗,且可能通过 AMPK / TORC2 / PEPCK 信号通路抑制肝糖异生,并促进糖摄取和肝糖原的
+合成,从而改善糖代谢。
+[关键词]   Kruppel 样因子 14; 胰岛素; AMP 活化的蛋白激酶; 信号通路
+Mechanism of KLF14 overexpression-stimulated glucose uptake in hepatocytes Ren Yan *, Li Ling, Yang
+Gangyi, Dai Jihuan, Jia Yanjun, Luo Xiaohe, Ran Wenxia, Zeng Meng. *Department of Clinical Biochemistry and the
+Key Laboratory of Laboratory Medical Diagnostics in the Ministry of Education, Chongqing Medical University,
+Chongqing 400016, China
+[Abstract]  Objective  To observe the effect of Kruppel-like factor 14 (KLF14) gene overexpression on the
+key molecules in insulin and AMP-activated protein kinase(AMPK) signal pathways, and to investigate the molecular
+mechanism underlying KLF14-regulated glucose metabolism. Methods KLF14 gene was overexpressed in Hepa1-6
+hepatocytes, which was divided into four groups: empty vector group (EV), insulin treatment group ( INS), KLF14
+transfection group, and insulin plus KLF14 group. Glucose uptake was determined by 2-deoxy-D-[ 3 H]-glucose
+uptake assay in hepatic cells. Protein phosphorylations of key signaling molecules and phosphoenolpyruvate
+carboxykinase (PEPCK) protein expression were detected by Western blot. Results Compared with EV group, the
+glucose uptake rate was increased significantly in groups with KLF14 transfection after Hepa1-6 hepatocytes were
+treated with insulin (P<0. 01) . Furthermore, the phosphorylation of insulin receptor, insulin receptor substrate 1,
+protein kinase B ( Akt), AMPK, and CREB-regulated transcription coactivator 2 ( TORC2 ) were significantly
+enhanced after KLF14 transfection and insulin treatment (P<0. 01) . In addition, the phosphorylation of glycogen
+synthase kinase 3β protein was also elevated while PEPCK protein expression was decreased(P<0. 01) . Conclusions
+KLF14 gene overexpression may play a role in improving hepatic insulin resistance by activating the classical pathway
+of insulin. Additionally, it may ameliorate glucose metabolism via inhibiting gluconeogenesis, promoting glucose
+uptake, and glycogen synthesis.
+[Key words]  Kruppel-like factor 14; Insulin; AMP-activated protein kinase; Signal pathway
+(Chin J Endocrinol Metab, 2015, 31: 457-461)
+胰岛素抵抗是大多数 2 型糖尿病存在的共同特
+征,改善胰岛素抵抗,增加胰岛素敏感性成为 2 型糖尿
+病治疗的关键。 而且,2 型糖尿病是一种遗传和环境
+因素共同作用导致的复杂性疾病。 2 型糖尿病的家族
+聚集性、同卵双生子发病的高度一致性以及在某些种
+族人群中的高发病率均强烈提示遗传因素在其发生
+发展中发挥着至关重要的作用。 相关研究预计有
+30% ~70%的 2 型糖尿病患者患病风险可归因于遗传
+易感性。 迄今为止,2 型糖尿病易感基因究竟有多少
+以及其相互作用尚未完全明确。 Kruppel 样因子 14
+(Kruppel-like factor 14,KLF14)作为近年来通过全基因
+组关联研究(GWAS)发现的与 2 型糖尿病相关的新基
+因[1,2],被认为与 2 型糖尿病的发病存在密切联系。
+KLF14 是在人组织中广泛表达的转录因子,其编
+码的蛋白隶属于 SP1 / XKLF 转录因子家族,在胚胎发
+育、生长、分化和维持组织新陈代谢等多种生理活动中
+起重要作用。 目前,研究发现 KLF14 的表达与甘油三
+酯、胆固醇水平密切相关[3];也有研究发现,KLF14 作
+为反式作用因子,与一些代谢调节相关基因存在关联,
+而且这些受 KLF14 控制的基因与体重指数、胆固醇、
+胰岛素和血糖水平等一系列代谢指标相关[4]。 然而,
+KLF14 的具体作用机制以及其与 2 型糖尿病的相互作
+用关系尚未见任何报道。 本研究旨在通过已构建好的
+小鼠真核过表达 KLF14 质粒,初步探讨 KLF14 在肝糖
+代谢及胰岛素抵抗中的可能分子机制。
+材料和方法
+一、 材料
+小鼠源性过表达 KLF14 质粒 ( pIRES2-EGFP-
+KLF14)由本课题组前期构建,Hepa1-6 细胞购自中国
+协和医科大学基础医学细胞中心,DMEM 培养基、胎
+牛血清(FBS)均购自美国 Gibico 公司,Lipofectamine
+2000、OPTI-MEM 购自美国 Invitrogen 公司;重组人胰
+岛素购自丹麦诺和诺德公司,2,5 二苯基噁唑(PPO)、
+1,4-双(5-苯基-2-噁唑)苯(POPOP)购自上海化学试
+剂一厂,2-脱氧-[ 3 H]-D-葡萄糖购自英国 Amersham
+Biosciences 公司;RNA 提取试剂 Trizol 和荧光试剂
+SYBR Premix Ex TaqTM II 均购自 Takara 公司;细胞蛋白
+提取试剂 RIPA、PMSF、NaF、Na3VO4和 BCA 蛋白测定
+试剂及磷脂酰肌醇 3 激酶(PI3K)抑制剂 LY294002 均
+购自碧云天公司;抗 KLF14 一抗购自 Abcam 公司,抗
+胰岛素受体(InsR)及其抗磷酸化抗体、抗胰岛素受体
+底物 1 / 2 ( IRS1 / 2) 及其磷酸化抗体、抗蛋白激酶 B
+(Akt)及其磷酸化抗体、抗糖原合成酶激酶(GSK3β)
+及其磷酸化抗体、抗 AMP 活化蛋白激酶(AMPK)及其
+磷酸化抗体、抗环磷酸腺苷反应元件结合蛋白转录共
+激活因子 2(TORC2)及其磷酸化抗体均购自美国 CST
+公司,抗磷酸烯醇式丙酮酸激酶(PEPCK)抗体购自美
+国 Santa Cruz 公司,抗 β-actin 抗体、辣根过氧化物酶
+(HRP)标记二抗购自北京中杉金桥公司。
+二、 方法
+1. Hepa1-6 细胞培养:用 10% FBS 的高糖 DMEM
+培养基在 37℃、5%CO2饱和湿度条件下培养。
+2. 细胞转染:采用脂质体转染法,待细胞长至
+80% ~ 90% 融合度时,严格按照 LipofectamineTM2000
+转染说明书进行转染操作。
+3. 实时荧光定量 PCR:用 Trizol 法抽提 Hepa1-6
+细胞总 RNA,逆转录合成 cDNA。 采用实时定量 PCR
+检测 KLF14 目的基因,用 2-△△Ct值计算目的基因的相
+对表 达 量。 其 中 KLF14 基 因 引 物 上 游 序 列: 5'-
+CCGAAGGAGGCAGATTACG-3';下游: 5'-TAAGTTGG-
+ATGGCGACGAG-3'。 内参 β-actin 基因引物上游序列:
+5'-GCTGTCCCTGTATGCCTCT-3';下游:5'-GATGTCAC-
+GCACGATTTCC-3'。
+4. 细胞处理分组:在葡萄糖摄取实验和免疫印迹
+分析实验中,细胞主要按照以下分组进行处理:空载组
+(EV 组)、胰岛素处理组 ( INS 组)、 KLF14 转染组
+(KLF14 组)、胰岛素+KLF14 处理组(INS+KLF14 组)
+和(或)胰岛素+LY294002 处理组(I+LY 组)、胰岛素+
+KLF14+LY294002 处理组(I+K+LY 组)。
+5. 葡萄糖摄取实验:Hepa1-6 细胞接种于 24 孔细
+胞培养板内,按照上述分组处理细胞。 转染 48 h 后,
+用含 0. 2%牛血清白蛋白(BSA)的 DMEM 培养液培养
+细胞过夜,用 KRH 缓冲液洗 3 次;其次,用 KRH 缓冲
+液(含 0. 1% BSA)孵育 3 h 后加入 100 nmol / L 重组人
+胰岛素继续孵育,30 min 后加入 2-脱氧-[ 3H]-D-葡萄
+糖(1 滋 Ci / ml, 26. 2 Ci / mmol),作用 10 min。 然后,用
+预冷的 KRH 缓冲液洗细胞 3 次,终止反应,并加入
+0. 2 mol / L 的 NaOH 500 滋l 孵育 4 h,再加入 0. 4 mol / L
+的 HCl 250 滋l 中和,反复吹打裂解细胞,取 400 滋l 上清
+裂解液与 10 ml 闪烁液混合,液体闪烁仪进行3H 放射
+性测定,检测时间为 1 min。 细胞裂解液蛋白浓度测定
+采用 BCA 方法,用于校正并计算葡萄糖摄取率,结果
+6. 免疫印迹分析:细胞按上述分组进行处理,用
+100 nmol / L 胰岛素刺激 10 min 后弃去培养基,用预冷
+的 PBS 洗涤细胞 2 次,提取细胞蛋白并用 BCA 法测定
+蛋白浓度。 取 30 μg 蛋白上样,SDS-PAGE 电泳分离蛋
+白后转膜到 PVDF 膜上,5%脱脂牛奶室温封闭 1 h,一
+抗 4℃孵育过夜,TBST 洗 3 次,HRP 标记的二抗室温
+孵育 1 h,TBST 洗 3 次后加 ECL 试剂反应,显像、成像。
+用目的条带与 β-actin 的灰度值相比表示目的蛋白的
+相对表达量。
+三、 统计学处理
+各项数据使用 SPSS 19. 0 软件分析,以 x-± s 表示,
+组间比较采用单因素 ANOVA 分析,两组比较采用独立
+样本 t 检验分析。 以 P<0. 05 为差异有统计学意义。
+结    果
+一、 KLF14 过表达鉴定
+Hepa1-6 细胞转染后,KLF14 基因 mRNA 和蛋白
+表达水平均较对照组明显增加,差异有统计学意义
+(P<0. 01,图 1),提示 KLF14 质粒成功转染 Hepa1-6
+细胞,为后续实验奠定良好的基础。
+注:KLF14:Kruppel 样因子 14 Kruppel-like factor 14;CON:对照组
+Control group;EV:空载组 Empty vector group;与 CON 组比较 vs CON
+group, aP<0. 01;与 EV 组比较 vs EV group,bP<0. 01
+图 1  KLF14 在 Hepa1-6 肝细胞过表达
+Fig 1  Overexpression of KLF14 in Hepa1-6 hepatocytes
+二、 KLF14 对细胞葡萄糖摄取的影响
+如图 2 所示,胰岛素刺激后,转染组与非转染组的
+葡萄糖摄取率较胰岛素未处理组均明显升高 (P <
+0. 01)。在无胰岛素刺激的情况下,KLF14 转染组与非
+转染组相比,葡萄糖摄取率差异无统计学意义(P >
+0. 05);然而给予细胞胰岛素刺激后,KLF14 转染组较
+非转染组葡萄糖糖摄取率明显升高(P<0. 01)。 在给
+予 PI3K 抑制剂 LY294002 处理后,葡萄糖摄取率均明
+显下降,差异具有统计学意义(P<0. 01)。
+三、 KLF14 对 InsR / IRS / Akt / GSK-3β 信号通路的
+影响
+胰岛素刺激后,不同处理组 InsR、 IRS、 Akt 及
+GSK-3β 磷酸化水平均明显增加(P<0. 01,图 3)。 在
+无胰岛素作用条件下,KLF14 转染组与非转染组相比
+InsR、IRS、Akt 及 GSK-3β 磷酸化水平无明显差异;在
+胰岛素作用后,与非转染组相比,KLF14 转染组 InsR、
+IRS、Akt 及 GSK-3β 磷酸化水平显著增加,且有统计学
+意义(P<0. 05)。 且在给予 PI3K 抑制剂 LY294002 处
+理后,无论 KLF14 转染与否,Akt 的磷酸化均被明显抑
+注:LY:PI3K 抑制剂 PI3K inhibitor LY294002;INS:胰岛素 Insulin; I
++LY:Insulin+LY294002;I+K+LY:Insulin+KLF14+LY294002;余略语同
+图 1 The other abbreviations are the same as Fig 1;与 CON 组比较 vs CON
+group,aP<0. 01;与 INS 组比较 vs INS group,bP<0. 01;与 KLF14 组比较
+vs KLF14 group,cP<0. 01;与 INS+KLF14 组比较;vs INS+KLF14,dP<0. 01
+图 2  KLF14 基因过表达对 Hepa1-6 肝细胞葡萄糖摄取率的影响
+Fig 2   Effect of KLF14 overexpression on glucose uptake rate in Hepa1-6
+hepatocytes
+制(P<0. 01,图 3)。
+四、 KLF14 对 AMPK / TORC2 / PEPCK 信号通路的
+影响
+与空白对照组相比,胰岛素单一作用组 AMPK 和
+TORC2 的磷酸化水平明显增加,PEPCK 的表达则明显
+降低,差别均有统计学意义(P<0. 01,图 4)。 然而,在
+无胰岛素作用条件下,KLF14 转染组与非转染组相比,
+AMPK 和 TORC2 的磷酸化水平及 PEPCK 的表达无明
+显差异;而在胰岛素作用后,与胰岛素单一作用组相比
+较,KLF14 转染联合胰岛素作用组 AMPK 和 TORC2 的
+磷酸化水平进一步显著增加,PEPCK 的表达进一步降
+低(P<0. 01)。
+讨    论
+KLF14 是一种在人组织中广泛表达的转录因子,
+近年来,对不同人种全基因组关联研究(GWAS)发现,
+KLF14 与 2 型糖尿病和肥胖的发病风险相关。 本实验
+通过3H 葡萄糖摄取实验显示,在胰岛素刺激下,
+KLF14 过表达可进一步促进肝脏细胞对葡萄糖的摄
+取;并且在 PI3K 抑制剂 LY294002 的作用下,葡萄糖
+摄取率降低。 由此推测 KLF14 可能通过调节肝脏胰
+岛素作用信号通路,从而影响 2 型糖尿病和胰岛素抵
+抗的发生发展。
+InsR / IRS / Akt 是胰岛素作用的经典通路,当胰岛
+素与其受体结合后,可以激活胰岛素受体 β 亚单位的
+酪氨酸激酶活性,相继发生 IRS 酪氨酸磷酸化和 Akt
+丝 /苏氨酸磷酸化,从而激活胰岛素信号通路。 反之,
+当胰岛素与 InsR 结合能力下降或 InsR、IRS 的酪氨酸
+激酶活性降低和(或)Akt 丝 /苏氨酸激酶活性下降,均
+注:InsR:胰岛素受体 Insulin receptor;IRS1:胰岛素受体底物 1 Insulin receptor substrate 1;Akt:蛋白激酶 B Protein kinase B;GSK-3β:糖原合成酶激
+酶-3β Glycogen synthase kinase-3β;余略语同图1 和图2 The other abbreviations are the same as Fig 1 and Fig 2;与 EV 组比较 vs EV group,aP<0. 01;与 INS 组
+比较 vs INS group,bP<0. 05;与 KLF14 组比较 vs KLF14 group,cP<0. 01;与 INS+KLF14 组比较 vs INS+KLF14,dP<0. 01
+图 3  KLF14 基因过表达对胰岛素信号通路的影响
+Fig 3  Effects of KLF14 overexpression on the insulin signaling pathway
+注:AMPK:AMP 活化的蛋白激酶 AMP-activated protein kinase;TORC2:CREB 转录共激活因子 2 CREB-regulated transcription co-activator 2;PEPCK:
+磷酸烯醇式丙酮酸激酶 Phosphoenolpyruvate carboxykinase;余略语同图 1 和图 2 The other abbreviations are the same as Fig 1 and Fig 2;与 EV 组比较 vs EV
+group,aP<0. 01;与 INS 组比较 vs INS group,bP<0. 05;与 KLF14 组比较 vs KLF14 group,cP<0. 01
+图 4  KLF14 过表达对 AMPK、TORC2 磷酸化和 PEPCK 蛋白表达的影响
+Fig 4  Effects of KLF14 overexpression on the phosphorylations of AMPK and TORC2 and the protein expression of PEPCK
+能导致该通路异常产生胰岛素抵抗[5,6]。 GSK-3 处于
+InsR / IRS / Akt 信号通路的下游,它是调节糖原合成的
+丝 /苏氨酸蛋白激酶,具有 GSK-3α 和 GSK-3β 两个亚
+单位。 生理状态下,GSK-3 可以磷酸化糖原合成酶
+(GS)使其失活,从而参与糖原合成的负调控[7]。 研究
+表明,胰岛素与其受体结合后,可通过介导 Akt 磷酸化
+GSK-3β 的丝氨酸从而使其失活,进而促进 GS 去磷酸
+化并促进糖原合成,降低血糖浓度[8]。 本实验研究显
+示,在胰岛素刺激前,KLF14 过表达与否并不影响
+InsR、IRS、Akt 和 GSK-3β 的磷酸化水平;而当胰岛素
+刺激后,KLF14 转染组的 InsR、IRS、Akt、GSK-3β 蛋白
+的磷酸化水平均明显增加。 在给予 PI3K 特异性抑制
+剂 LY294002 作用后,无论 KLF14 转染与否,Akt 的磷
+酸化均被明显抑制。 因此,结合葡萄糖摄取实验,可以
+看出 KLF14 可能是通过活化 InsR / IRS / Akt 胰岛素信
+号通路,从而增加肝细胞胰岛素敏感性,改善胰岛素抵
+抗。
+AMPK / TORC2 是调节糖代谢的关键信号通路。
+AMPK 作为细胞能量感受器,在组织代谢及能量平衡
+中起着重要作用,尤其在糖代谢过程中起到了关键作
+用[9]。 研究显示,AMPK 活性增强可以增加胰岛素敏
+感性[10,11],并可抑制肝脏糖异生[12]。 TORC2 是调节
+糖异生相关基因的关键因子,AMPK 的活化可以促使
+TORC2 的磷酸化,从而抑制糖异生相关基因的表
+达[13]。 当细胞内 cAMP 浓度增加时,TORC2 去磷酸化
+继而转位到细胞核,激活 CREB 诱导糖异生关键酶
+PEPCK 的转录,从而促进糖异生,诱使肝糖输出增加。
+而当 TORC2 发生磷酸化时,它的转位受阻并滞留在胞
+质内,从而诱导 PEPCK 转录失活,糖异生受抑,肝糖输
+出降低[14,15]。 本研究显示,胰岛素处理前,与非转染
+组相比,KLF14 的转染并不影响或轻度影响 AMPK、
+TORC2 磷酸化和 PEPCK 的表达,差异无统计学意义;
+而当胰岛素刺激后,KLF14 转染组的 AMPK、TORC2 磷
+酸化水平较非转染组明显增加,PEPCK 的表达则明显
+降低,差异均具有统计学意义。 推测 KLF14 可能通过
+增加 AMPK 活性,从而磷酸化 TORC2,致使 PEPCK 表
+达降低,进而使得糖异生减少,抑制肝糖输出。
+综上所述,KLF14 过表达不仅能够促进肝糖摄取
+和糖原合成,还可抑制糖异生减少肝糖输出,从而对肝
+糖代谢进行调节。 其作用机制,可能是 KLF14 通过活
+化胰岛素经典 InsR / IRS / Akt 信号通路,增加胰岛素敏
+感性,改善胰岛素抵抗;同时,AMPK 活性增强,通过调
+节 TORC2 活性,增加胰岛素敏感性,也可能是改善胰
+岛素抵抗的一个潜在分子生物学机制。

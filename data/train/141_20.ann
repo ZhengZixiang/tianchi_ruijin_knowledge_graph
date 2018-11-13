@@ -1,0 +1,627 @@
+T1	Disease 4441 4447	1 型糖尿病
+T2	Disease 8408 8412	前列腺癌
+T3	Disease 8405 8407	肺癌
+T4	Disease 89 97	自身免疫性垂体炎
+T5	Disease 114 122	自身免疫性垂体炎
+T6	Disease 133 140	垂体炎症性疾病
+T7	Symptom 162 166	垂体肿大
+T8	Symptom 167 173	垂体功能低下
+T9	Test 189 193	病理检查
+T10	Disease 232 240	淋巴细胞性垂体炎
+T11	Disease 241 251;252 267	细胞毒 T 淋巴细胞 相关抗原 4 抗体相关性垂体炎
+T12	Disease 269 280	IgG4 相关性垂体炎
+T13	Disease 321 329	淋巴细胞性垂体炎
+T14	Disease 331 355;356 357	细胞毒 T 淋巴细胞相关抗原 4 抗体相关性垂体 炎
+T15	Disease 1585 1593	自身免疫性垂体炎
+T16	Disease 1607 1609;1610 1615	垂体 炎症性疾病
+T17	Symptom 1623 1627	垂体肿大
+T18	Symptom 1628 1634	垂体功能低下
+T19	Disease 1674 1676;1677 1681	原发 性垂体炎
+T20	Disease 1695 1703	淋巴细胞性垂体炎
+T21	Disease 1705 1706;1707 1713	肉 芽肿性垂体炎
+T22	Disease 1714 1721	黄瘤病性垂体炎
+T23	Disease 1722 1733	IgG4 相关性垂体炎
+T24	Disease 1734 1738;1739 1741	坏死性垂 体炎
+T25	Disease 1742 1748	混合型垂体炎
+T26	Disease 1751 1759	淋巴细胞性垂体炎
+T27	Disease 1778 1784	继发性垂体炎
+T28	Disease 1791 1794	垂体炎
+T29	Disease 1801 1805	鞍上疾病
+T30	Disease 1808 1818	Rathke 氏囊肿
+T31	Disease 1820 1825	生殖细胞瘤
+T32	Disease 1845 1851	韦格纳肉芽肿
+T33	Disease 1852 1855	结节病
+T34	Disease 1856 1858	结核
+T35	Disease 1860 1862	梅毒
+T36	Disease 1869 1872	垂体炎
+T37	Drug 1875 1881	免疫调节药物
+T38	Disease 1884 1886;1887 1888	垂体 炎
+T39	Test 1966 1974	垂体组织病理活检
+T40	Anatomy 1985 1987	垂体
+T41	Disease 2001 2004	垂体炎
+T42	Disease 2074 2082	淋巴细胞性垂体炎
+T43	Disease 2098 2101	垂体炎
+T44	Disease 2102 2128;2129 2135	细胞毒 T 淋巴细胞相关抗原 4(CTLA-4)抗体 相关性垂体炎
+T45	Disease 2137 2148	IgG4 相关性垂体炎
+T46	Disease 2162 2170	自身免疫性垂体炎
+T47	Test 2205 2211	影像 MRI
+T48	Disease 2316 2324	自身免疫性垂体炎
+T49	Operation 2359 2368	经蝶垂体肿块切除术
+T50	Disease 2403 2407;2408 2412	自身免疫 性垂体炎
+T51	Operation 2458 2462	垂体手术
+T52	Disease 2477 2485	自身免疫性垂体炎
+T53	Disease 2490 2498	自身免疫性垂体炎
+T54	Disease 2511 2519	淋巴细胞性垂体炎
+T55	Disease 2520 2528	自身免疫性垂体炎
+T56	Disease 2551 2559	自身免疫性垂体炎
+T57	Disease 3009 3018	淋巴细胞性腺垂体炎
+T58	Disease 3150 3162	淋巴细胞性漏斗神经垂体炎
+T59	Disease 3232 3241	淋巴细胞性全垂体炎
+T60	Disease 3320 3328	自身免疫性垂体炎
+T61	Disease 3431 3438	垂体特异性炎症
+T62	Anatomy 3457 3459	垂体
+T63	Anatomy 3500 3502	胎盘
+T64	Anatomy 3503 3510	合体滋养层细胞
+T65	Anatomy 3511 3513	垂体
+T66	Disease 3584 3592	淋巴细胞性垂体炎
+T67	Disease 3686 3694	自身免疫性垂体炎
+T68	Disease 3722 3726	颅内占位
+T69	Symptom 3751 3753	头痛
+T70	Symptom 3754 3756	恶心
+T71	Symptom 3757 3759	呕吐
+T72	Symptom 3760 3762	嗜睡
+T73	Anatomy 3779 3782	视交叉
+T74	Symptom 3786 3790	视力下降
+T75	Symptom 3791 3796	双颞侧偏盲
+T76	Anatomy 3804 3806;3807 3808	海绵 窦
+T77	Symptom 3824 3828	眼肌麻痹
+T78	Symptom 3829 3835	眼球运动障碍
+T79	Anatomy 3842 3845	硬脑膜
+T80	Disease 3850 3853	脑膜炎
+T81	Symptom 3860 3862	头晕
+T82	Symptom 3863 3864;3865 3866	呕 吐
+T83	Symptom 3867 3870	颈强直
+T84	Disease 3876 3884	垂体前叶功能低下
+T85	Anatomy 3887 3891	淋巴细胞
+T86	Anatomy 3893 3900;3901 3904	垂体前叶激素分 泌细胞
+T87	Disease 3907 3917	垂体前叶激素分泌缺陷
+T88	Disease 3931 3938	全垂体功能减退
+T89	Symptom 3983 3985	头晕
+T90	Symptom 3987 3989	恶心
+T91	Symptom 3990 3992	呕吐
+T92	Symptom 3993 3996	低血压
+T93	Symptom 3997 4003	阴毛腋毛脱落
+T94	Disease 4033 4035	死亡
+T95	Disease 4039 4043;4044 4048	甲状腺轴 功能减退
+T96	Symptom 4052 4056	表情淡漠
+T97	Symptom 4057 4061	反应迟钝
+T98	Symptom 4062 4066	心率缓慢
+T99	Symptom 4067 4071	心音低钝
+T100	Symptom 4072 4073;4074 4075	畏 冷
+T101	Symptom 4076 4080	体重减轻
+T102	Disease 4086 4092	性腺功能减退
+T103	Symptom 4099 4101	闭经
+T104	Symptom 4103 4107	性欲减退
+T105	Symptom 4108 4116	乳腺及生殖器萎缩
+T106	Symptom 4124 4128	性欲下降
+T107	Symptom 4129 4131	阳痿
+T108	Symptom 4148 4156	女性产后不能泌乳
+T109	Disease 4173 4179	中枢性尿崩症
+T110	Disease 4184 4196	淋巴细胞性漏斗神经垂体炎
+T111	Anatomy 4208 4212	免疫细胞
+T112	Anatomy 4216 4220	神经垂体
+T113	Anatomy 4221 4223	漏斗
+T114	Anatomy 4231 4235	神经垂体
+T115	Anatomy 4236 4238	漏斗
+T116	Symptom 4251 4252;4253 4254	多 饮
+T117	Symptom 4255 4257	多尿
+T118	Disease 4281 4287	高催乳素血症
+T119	Disease 4300 4308	自身免疫性垂体炎
+T120	Symptom 4316 4318	闭经
+T121	Symptom 4322 4324	溢乳
+T122	Disease 4333 4340	自身免疫性疾病
+T123	Disease 4350 4355;4356 4359	自身免疫性 垂体炎
+T124	Disease 4366 4373	自身免疫性疾病
+T125	Disease 4381 4383;4384 4388	桥本 甲状腺炎
+T126	Disease 4448 4457	甲状旁腺功能减退症
+T127	Disease 4458 4464;4465 4466	慢性萎缩性胃 炎
+T128	Disease 4467 4471	恶性贫血
+T129	Disease 4479 4487	自身免疫性垂体炎
+T130	Disease 4491 4493;4494 4499	自身 免疫性疾病
+T131	Disease 4558 4566	淋巴细胞性垂体炎
+T132	Test 4578 4581	MRI
+T133	Disease 4961 4968	自身免疫性疾病
+T134	Disease 5004 5012	自身免疫性垂体炎
+T135	Disease 5038 5046	自身免疫性垂体炎
+T136	Disease 5486 5490	垂体肿瘤
+T137	Disease 5491 5497	空蝶鞍综合征
+T138	Disease 5498 5502;5503 5504	希恩综合 征
+T139	Disease 5520 5527	自身免疫性疾病
+T140	Disease 5623 5631	淋巴细胞性垂体炎
+T141	Disease 5680 5683	垂体炎
+T142	Disease 5741 5747	继发性垂体炎
+T143	Operation 5777 5786	经蝶垂体穿刺活检术
+T144	Test 5789 5791;5792 5796	术后 病理检查
+T145	Drug 5843 5848	糖皮质激素
+T146	Test 5861 5867	垂体 MRI
+T147	Disease 5925 5933	淋巴细胞性垂体炎
+T148	Disease 5954 5961	肉芽肿性垂体炎
+T149	Disease 5962 5969	黄瘤病性垂体炎
+T150	Disease 5973 5976	垂体炎
+T151	Disease 5980 5986	原发性垂体炎
+T152	Drug 5989 5996	肾上腺皮质激素
+T153	Disease 6001 6006;6007 6010	淋巴细胞性 垂体炎
+T154	Disease 6011 6018	肉芽肿性垂体炎
+T155	Disease 6028 6034;6035 6036	黄瘤病性垂体 炎
+T156	Anatomy 6040 6044	垂体前叶
+T157	Anatomy 6050 6053	视交叉
+T158	Disease 6068 6076	淋巴细胞性垂体炎
+T159	Disease 6077 6084	肉芽肿性垂体炎
+T160	Disease 6086 6091;6092 6094	黄瘤病性垂 体炎
+T161	Disease 6095 6102	肉芽肿性垂体炎
+T162	Disease 6108 6114	混合性垂体炎
+T163	Disease 6144 6147	垂体瘤
+T164	Disease 6148 6151	垂体炎
+T165	Disease 6165 6168;6169 6172	功能性 垂体瘤
+T166	Disease 6202 6209	非功能性垂体瘤
+T167	Disease 6242 6245	垂体炎
+T168	Anatomy 6249 6253;6254 6256	肾上腺皮 质轴
+T169	Anatomy 6260 6264	甲状腺轴
+T170	Anatomy 6265 6268	性腺轴
+T171	Disease 6290 6293	垂体炎
+T172	Disease 6294 6297	垂体瘤
+T173	Disease 6302 6305	垂体炎
+T174	Test 6355 6358	MRI
+T175	Test 6385 6392	垂体瘤 MRI
+T176	Test 6418 6422	增强扫描
+T177	Anatomy 6446 6450	垂体后叶
+T178	Anatomy 6453 6457	神经垂体
+T179	Disease 6469 6472	垂体瘤
+T180	Anatomy 6494 6498	垂体后叶
+T181	Disease 6512 6517	希恩综合征
+T182	Disease 6536 6541	希恩综合征
+T183	Disease 6561 6564	垂体炎
+T184	Disease 6567 6572	希恩综合征
+T185	Disease 6575 6580	希恩综合征
+T186	Anatomy 6594 6597	性腺轴
+T187	Symptom 6604 6610	长期衰弱无力
+T188	Symptom 6611 6616	无乳汁分泌
+T189	Symptom 6617 6619	闭经
+T190	Symptom 6620 6626	阴毛腋毛脱落
+T191	Test 6628 6631	MRI
+T192	Disease 6663 6668	生殖细胞瘤
+T193	Disease 6680 6686	垂体功能低下
+T194	Disease 6688 6691	尿崩症
+T195	Test 6692 6695	MRI
+T196	Disease 6717 6718;6719 6721	垂 体炎
+T197	Disease 6727 6732	生殖细胞瘤
+T198	Treatment 6772 6774;6775 6777	放射 治疗
+T199	Disease 6785 6789	颅咽管瘤
+T200	Disease 6790 6794	颅咽管瘤
+T201	Anatomy 6836 6837;6838 6839	鞍 上
+T202	Test 6840 6842	CT
+T203	Disease 6883 6886	垂体炎
+T204	Disease 6916 6921	颗粒细胞瘤
+T205	Disease 6929 6931	结核
+T206	Disease 6932 6934;6935 6936	结节 病
+T207	Disease 6937 6941	浆细胞瘤
+T208	Disease 6942 6945	淋巴瘤
+T209	Disease 6965 6972	自身免疫性疾病
+T210	Disease 6975 6983	自身免疫性垂体炎
+T211	Disease 7043 7044;7045 7052	自 身免疫性垂体炎
+T212	Disease 7066 7070	颅内占位
+T213	Disease 7166 7169;7170 7175	自身免 疫性垂体炎
+T214	Disease 7186 7190	垂体炎症
+T215	Drug 7201 7206	糖皮质激素
+T216	Drug 7244 7250	甲基强的松龙
+T217	Disease 7303 7304;7305 7312	淋 巴细胞性垂体炎
+T218	Test 7331 7337	垂体 MRI
+T219	Drug 7382 7388	甲基强的松龙
+T220	Method 7395 7399	静脉滴注
+T221	Drug 7420 7425	糖皮质激素
+T222	Drug 7451 7455	甲氨蝶呤
+T223	Drug 7456 7460	环磷酰胺
+T224	Drug 7474 7479	利妥昔单抗
+T225	Drug 7492 7498	英夫利昔单抗
+T226	Disease 7599 7607;7608 7609	医源性垂体功能低 下
+T227	Operation 7690 7696;7697 7701	内镜下经蝶垂 体切除术
+T228	Treatment 7750 7758	立体定向放射治疗
+T229	Disease 7909 7912	尿崩症
+T230	Drug 7919 7924	去氨加压素
+T231	Disease 7945 7951	高催乳素血症
+T232	Drug 7952 7955	溴隐亭
+T233	Disease 7961 7966;7967 7968	高催乳素血 症
+T234	Anatomy 7982 7984	垂体
+T235	Test 8135 8138	MRI
+T236	Disease 8156 8158;8159 8166	肾上 腺皮质功能不全
+T237	Disease 8167 8169	感染
+T238	Disease 8196 8211	CTLA-4 抗体相关性垂体炎
+T239	Anatomy 8234 8241	调节 T 细胞
+T240	Anatomy 8248 8254	抗原提呈细胞
+T241	Anatomy 8293 8297	T 细胞
+T242	Drug 8348 8358	CTLA-4 阻断剂
+T243	Drug 8360 8370	Ipilimumab
+T244	Drug 8373 8385	Tremelimumab
+T245	Disease 8390 8399	转移性黑色素细胞瘤
+T246	Disease 8400 8404	肾细胞癌
+T247	Disease 8413 8414;8415 8417	胰 腺癌
+T248	Disease 8439 8441;8442 8448	自身 免疫功能紊乱
+T249	Disease 8450 8458	免疫相关不良反应
+T250	Disease 8525 8532	转移性黑色素瘤
+T251	Drug 8538 8548	Ipilimumab
+T252	Disease 8583 8588	irAEs
+T253	Disease 8590 8593	皮肤炎
+T254	Disease 8594 8599	小肠结肠炎
+T255	Disease 8600 8602	肝炎
+T256	Disease 8603 8606	垂体炎
+T257	Disease 8610 8613	垂体炎
+T258	Disease 8665 8668	垂体炎
+T259	Drug 8767 8775;8776 8780	CTLA-4 阻 断性抗体
+T260	Disease 8782 8788	继发性垂体炎
+T261	Anatomy 8793 8795	垂体
+T262	Anatomy 8802 8803;8804 8815	促 甲状腺激素释放激素细胞
+T263	Anatomy 8875 8877	垂体
+T264	Disease 8919 8927	淋巴细胞性垂体炎
+T265	Disease 8932 8940	淋巴细胞性垂体炎
+T266	Anatomy 8945 8951	肾上腺皮质轴
+T267	Disease 8957 8972	CTLA-4 抗体相关性垂体炎
+T268	Anatomy 8973 8977	甲状腺轴
+T269	Anatomy 8978 8984	肾上腺皮质轴
+T270	Disease 9002 9017	CTLA-4 抗体相关性垂体炎
+T271	Disease 9024 9033	肾上腺皮质功能减退
+T272	Disease 9059 9066	性腺轴功能减退
+T273	Disease 9080 9087;9088 9089	淋巴细胞性垂体 炎
+T274	Disease 9198 9201	垂体炎
+T275	Test 9241 9243	血压
+T276	Test 9244 9246	血糖
+T277	Test 9247 9250	血常规
+T278	Test 9251 9254;9255 9256	血渗透 压
+T279	Test 9257 9260	电解质
+T280	Test 9261 9269	肾上腺皮质轴激素
+T281	Test 9277 9282	性腺轴激素
+T282	Test 9283 9284;9285 9287	催 乳素
+T283	Test 9288 9294	颅脑 MRI
+T284	Disease 9303 9309	继发性垂体炎
+T285	Drug 9463 9468	糖皮质激素
+T286	Drug 9496 9500	地塞米松
+T287	Amount 9501 9505	4 mg
+T288	Frequency 9506 9511	每 6 h
+T289	Drug 9544 9547	泼尼松
+T290	Drug 9548 9553	氢化可的松
+T291	Drug 9574 9578	地塞米松
+T292	Amount 9582 9590	1 mg / d
+T293	Drug 9634 9638	泼尼松龙
+T294	Amount 9639 9653	45 ~ 50 mg / d
+T295	Disease 9773 9784	IgG4 相关性垂体炎
+T296	Disease 9941 9952	IgG4 相关性垂体炎
+T297	Disease 9957 9960	垂体炎
+T298	Test 9969 9979	血清 IgG4 浓度
+T299	Test 9982 9988	垂体组织活检
+T300	Anatomy 9992 9999;10000 10003	IgG4 阳性 浆细胞
+T301	Disease 10099 10110	IgG4 相关性垂体炎
+T302	Test 10119 10122;10123 10126	垂体组 织病理
+T303	Test 10171 10177	垂体 MRI
+T304	Anatomy 10210 10220	IgG4 阳性浆细胞
+T305	Test 10225 10235	血清 IgG4 浓度
+T306	Disease 10327 10335	自身免疫性垂体炎
+T307	Disease 10354 10362	淋巴细胞性垂体炎
+T308	Drug 10370 10380	Ipilimumab
+T309	Disease 10399 10405	继发性垂体炎
+T310	Disease 10408 10413;10414 10424	CTLA- 4 抗体相关性垂体炎
+T311	Disease 10430 10441	IgG4 相关性垂体炎
+T312	Disease 10488 10491	垂体炎
+T313	Disease 10515 10518	垂体炎
+T314	Disease 10533 10536	垂体炎
+T315	Disease 10551 10554	垂体炎
+T316	Disease 10567 10570	垂体炎
+T317	Disease 4415 4423	Graves 病
+T318	Disease 1649 1655	原发性垂体炎
+T319	Test_Value 6473 6482	轻度不均匀延迟强化
+T320	Anatomy 35 38	下丘脑
+T321	Anatomy 38 40	垂体
+T322	Test 183 186	影像学
+T323	Treatment 214 218	激素替代
+T324	Disease 1838 1843	全身性疾病
+T325	Treatment 1989 1992	激素治
+T326	Operation 1994 2000	外科手术治疗
+T327	Drug 2016 2018	激素
+T328	Disease 2051 2054	垂体炎
+T329	Test 2398 2400	病理
+T330	Anatomy 2562 2566	淋巴细胞
+T331	Disease 2572 2580	自身免疫性垂体炎
+T332	Disease 2596 2604	淋巴细胞性垂体炎
+T333	Disease 2612 2621	淋巴细胞性腺垂体炎
+T334	Anatomy 2661 2665	垂体前叶
+T335	Disease 2690 2702	淋巴细胞性漏斗神经垂体炎
+T336	Disease 2772 2781	淋巴细胞性全垂体炎
+T337	Disease 2841 2848	肉芽肿性垂体炎
+T338	Disease 2858 2865	黄瘤病性垂体炎
+T339	Disease 2875 2885	gG4 相关性垂体炎
+T340	Disease 2897 2903	混合型垂体炎
+T341	Disease 2912 2924	淋巴细胞性肉芽肿性垂体炎
+T342	Disease 2932 2943	黄瘤病性肉芽肿性垂体炎
+T343	Disease 2951 2964	朗格汉斯细胞组织细胞增生症
+T344	Anatomy 2753 2757	垂体后叶
+T345	Anatomy 2758 2761	漏斗部
+T346	Disease 2766 2771	生殖细胞瘤
+T347	Anatomy 2820 2824	垂体前叶
+T348	Anatomy 2825 2827	后叶
+T349	Disease 2836 2840	颅咽管瘤
+T350	Disease 2853 2857	垂体肿瘤
+T351	Disease 2868 2873	全身性疾病
+T352	Disease 2890 2896	韦格纳肉芽肿
+T353	Disease 2908 2911	结节病
+T354	Disease 2929 2931	结核
+T355	Disease 2948 2950	梅毒
+T356	Drug 2965 2971	免疫调节药物
+T357	Drug 2972 2984	CTLA-4 阻断性抗体
+T358	Drug 2984 2989	(伊匹单抗
+T359	Disease 2993 2997;2998 3002	NF-α 性垂体炎
+T360	Disease 3770 3772	肿块
+T361	Disease 4239 4241	肿块
+T362	Test 4866 4870	免疫组化
+T363	Test 4944 4949	免疫学检查
+T364	Test 5012 5016	病理活检
+T365	Test 5047 5053	免疫学标志物
+T366	Test 5062 5066	垂体抗原
+T367	Test 5235 5237	抗原
+T368	Test 5396 5401	抗垂体抗体
+T369	Disease 5404 5410	垂体自身免疫
+T370	Disease 5418 5424	垂体自身免疫
+T371	Test 5460 5465	抗垂体抗体
+T372	Disease 5586 5588;5589 5590	垂体 炎
+T373	Test 5657 5660	影像学
+T374	Test 5665 5673	内分泌实验室检查
+T375	Test 5768 5770	病理
+T376	Test 5812 5814	病理
+T377	Test 5910 5914	病理活检
+T378	Disease 6022 6026	全垂体炎
+T379	Test 6283 6286	影像学
+T380	Disease 6350 6353	垂体炎
+T381	Anatomy 6673 6677	生殖细胞
+T382	Anatomy 6669 6672	鞍上区
+T383	Disease 6866 6868;6869 6870	鞍内 区
+T384	Treatment 7018 7025	替代缺乏的激素
+T385	Level 7064 7066	严重
+T386	Disease 7074 7080	垂体激素缺乏
+T387	Treatment 7154 7160	内科免疫治疗
+T388	Treatment 7161 7165	免疫治疗
+T389	Treatment 7206 7213	大剂量冲击治疗
+T390	Test 7215 7217	激素
+T391	Amount 7241 7244	大剂量
+T392	Method 7250 7254	冲击疗法
+T393	Treatment 7373 7375;7376 7378	激素 冲击
+T394	Operation 7542 7548	外科手术治疗
+T395	Disease 7561 7565	垂体肿块
+T396	Level 7632 7636;7637 7638	进行性加 重
+T397	Disease 7639 7643	视觉损害
+T398	Level 7648 7650	严重
+T399	Disease 7650 7654	颅内占位
+T400	Treatment 7658 7662	免疫治疗
+T401	Operation 7670 7674	手术治疗
+T402	Operation 7683 7687	垂体手术
+T403	Operation 7702 7706	手术切除
+T404	Treatment 7745 7749	放射治疗
+T405	Treatment 7774 7778	免疫治疗
+T406	Operation 7779 7783	手术治疗
+T407	Treatment 7833 7837	激素替代
+T408	Test 7839 7843	垂体激素
+T409	Treatment 7858 7864	激素替代治疗
+T410	Test 7874 7876	激素
+T411	Test 7892 7894	激素
+T412	Drug 7929 7934	抗利尿激素
+T413	Disease 7973 7977	视野缺损
+T414	Disease 8020 8024	垂体肿块
+T415	Disease 8040 8044	颅内占位
+T416	Disease 8055 8059	激素缺乏
+T417	Treatment 8064 8065;8066 8071	激 素替代治疗
+T418	Anatomy 8118 8120	垂体
+T419	Disease 8313 8315	肿瘤
+T420	Treatment 8316 8320	免疫治疗
+T421	Drug 8327 8334	免疫抗肿瘤药物
+T422	Disease 8420 8424	晚期肿瘤
+T423	Treatment 8429 8432	抗肿瘤
+T424	Disease 8688 8690	肿瘤
+T425	Anatomy 8796 8801	催乳素细胞
+T426	Anatomy 8817 8820	RNA
+T427	Test 8824 8827	蛋白质
+T428	Test 9073 9076	影像学
+T429	Test 9129 9132	影像学
+T430	Test 9142 9144	病理
+T431	Disease 9160 9164	肿瘤晚期
+T432	Test 9166 9172	病理组织活检
+T433	Test 9185 9187	影像
+T434	Disease 9225 9227	肿瘤
+T435	Disease 9318 9320	癌症
+T436	Method 9468 9472	冲击治疗
+T437	Drug 9489 9491	激素
+T438	Disease 9613 9615	肿瘤
+T439	Treatment 9625 9627;9628 9630	激素 冲击
+T440	Method 9684 9688	激素冲击
+T441	Test 9722 9724	激素
+T442	Disease 9745 9749	恶性肿瘤
+T443	Operation 9757 9759;9760 9762	外科 手术
+T444	Disease 9798 9808	IgG4 相关性疾病
+T445	Test 10205 10207	活检
+T446	Treatment 10253 10257	激素治疗
+T447	Drug 10383 10388	抗肿瘤药物
+T448	Test 10537 10546	特异性血清学标志物
+T449	Test 4548 4550	影像
+T450	Test 4552 4554	病理
+T451	Test 4567 4569	影像
+T452	Test 4762 4764	病理
+T453	Anatomy 3518 3524	α 烯醇化酶
+T454	Anatomy 3538 3544	γ 烯醇化酶
+T455	Disease 4431 4440	Addison 病
+T456	Anatomy 6890 6893	垂体柄
+T457	Duration 7403 7406	3 d
+T458	Anatomy 7722 7724	垂体
+T459	Duration 9512 9518	连续 7 d
+T460	Test_Value 9979 9981	升高
+T461	Reason 1921 1929	富含蛋白质的囊液
+T462	Level 5892 5896	明显减轻
+T463	Test_Value 6322 6327	骨质未受损
+T464	Test_Value 6361 6370	垂体均匀对称性增大
+T465	Test_Value 6371 6372;6373 6377	垂 体柄增粗
+T466	Test_Value 6378 6383	但很少偏移
+T467	Test_Value 6395 6403	垂体不对称性增大
+T468	Test_Value 6405 6409	信号不均
+T469	Test_Value 6410 6416	垂体柄有偏移
+T470	Test_Value 6426 6432	迅速均匀强化
+T471	Test_Value 6458 6462;6463 6467	正常高信 号会消失
+T472	Test_Value 6499 6507	高信号也持续存在
+T473	Test_Value 6639 6645	密度显著减低
+T474	Test_Value 6698 6703	垂体柄增粗
+T475	Test_Value 6854 6856	钙化
+T476	Test_Value 6871 6877	很少出现钙化
+T477	Disease 9034 9041	甲状腺功能减退
+T478	Reason 124 130	自身免疫反应
+T479	Disease 221 227	高催乳素血症
+T480	Disease 312 319	身免疫性垂体炎
+T481	Disease 359 370	IgG4 相关性垂体炎
+T482	Reason 1598 1604	自身免疫反应
+T483	Disease 1656 1662	继发性垂体炎
+T484	Disease 1826 1829;1830 1834	颅咽管 的垂体炎
+T485	Disease 1898 1902	鞍上疾病
+T486	Disease 1905 1908	垂体炎
+T487	Reason 1915 1919	囊肿破裂
+T488	Reason 1929 1935	引起局部炎症
+T489	Reason 1936 1949;1950 1952	肿瘤 /生殖细胞瘤释放相关 抗原
+T490	Reason 1953 1957	细胞因子
+T491	Reason 3331 3337	自身免疫反应
+T492	Reason 3374 3396	胎盘和垂体共同表达某种抗原或高度同源性的抗原
+T493	Reason 3397 3398;3399 3413	妊 娠时母体免疫系统攻击胎盘抗原
+T494	Reason 3416 3426;3427 3428	交叉损伤垂体表达的抗 原
+T495	Anatomy 3444 3455	胎盘绒毛膜生长催乳激素
+T496	Anatomy 3462 3466	生长激素
+T497	Reason 3638 3648;3649 3651	免疫系统直接攻击垂体 抗原
+T498	Symptom 3763 3768	颅高压症状
+T499	Anatomy 3810 3820	第3、郁、遇对脑神经
+T500	Level 4017 4019	急性
+T501	Disease 4019 4028	肾上腺皮质功能不全
+T502	Disease 4134 4139	催乳素缺乏
+T503	Disease 4157 4160;4161 4164	生长激 素缺乏
+T504	Test 4258 4261	尿比重
+T505	Test 4262 4266	尿渗透压
+T506	Test_Value 4266 4268	降低
+T507	Test 4269 4273	血渗透压
+T508	Test_Value 4273 4275	升高
+T509	Disease 4505 4520;4521 4522	自身免疫性多发性内分泌腺病综合 征
+T510	Test 4584 4587	MRI
+T511	Test 4950 4956	抗原抗体滴度
+T512	Test 5067 5071	生长激素
+T513	Test 5079 5089	垂体特异性因子 1a
+T514	Test 5137 5146	垂体特异性因子 2
+T515	Test 5155 5161	分泌粒蛋白2
+T516	Test 5179 5187;5188 5189	绒毛膜生长催乳激 素
+T517	Test 5191 5196	TDRD6
+T518	Test 5267 5272	抗垂体抗体
+T519	Test 5324 5331	催乳素细胞抗体
+T520	Test 5337 5347	垂体激素分泌细胞抗体
+T521	Test 5349 5355	PGSF1a
+T522	Test 5358 5366	PGSF2 抗体
+T523	Disease 5506 5515	自身免疫性垂体疾病
+T524	Anatomy 5563 5568	抗垂体抗体
+T525	Anatomy 5577 5584	抗 GH 抗体
+T526	Test 5702 5706;5707 5708	抗垂体抗 体
+T527	Test 5711 5718	自身免疫性抗体
+T528	Test_Value 5870 5877	肿大的垂体缩小
+T529	Test_Value 5878 5880;5881 5887	增粗 的垂体柄变细
+T530	Anatomy 6154 6158	垂体激素
+T531	Anatomy 6177 6183	垂体功能激素
+T532	Anatomy 6215 6219	垂体激素
+T533	Anatomy 6230 6235	促性腺激素
+T534	Anatomy 6236 6240	生长激素
+T535	Anatomy 6269 6273	生长激素
+T536	Test 6306 6312;6313 6315	头颅 X 线 摄片
+T537	Test_Value 6317 6321	鞍底平坦
+T538	Test_Value 6329 6339	垂体瘤常压迫鞍底骨质
+T539	Test_Value 6340 6341;6342 6349	造 成鞍底破坏下陷
+T540	Disease 6423 6426	垂体炎
+T541	Test_Value 6438 6443	硬脑膜尾征
+T542	Test_Value 6483 6490;6491 6493	很少出现硬脑膜 尾征
+T543	Symptom 6552 6558	垂体功能减退
+T544	Test_Value 6634 6638	垂体萎缩
+T545	Test_Value 6646 6658	甚至在蝶鞍区出现空腔回声
+T546	Test_Value 6704 6713	垂体后叶高信号消失
+T547	Test 6741 6746;6747 6759	脑脊液和血 清中绒毛膜促性腺激素水平
+T548	Symptom 6799 6803	颅内占位
+T549	Symptom 6804 6809;6810 6813	垂体分泌功 能减退
+T550	Symptom 6814 6817	尿崩症
+T551	Disease 6859 6862	垂体炎
+T552	Disease 6906 6915	组织细胞增生症 X
+T553	Disease 7028 7034	高催乳素血症
+T554	Amount 7260 7262;7263 7269	每日 120 mg
+T555	Amount 7277 7279	80
+T556	Amount 7280 7282	60
+T557	Amount 7283 7285	40
+T558	Amount 7286 7291	20 mg
+T559	Frequency 7255 7260	前 2 周
+T560	Frequency 7272 7274	每周
+T561	Amount 7388 7394	每日 1 g
+T562	Drug 7442 7447	免疫抑制剂
+T563	Drug 7447 7450	环孢素
+T564	Disease 7518 7529	复发性自身免疫性垂体炎
+T565	Operation 7552 7558	切除垂体肿块
+T566	Treatment 7760 7767	γ 刀手术治疗
+T567	Test_Value 8143 8146	空蝶鞍
+T568	Anatomy 8212 8218	CTLA-4
+T569	Anatomy 8222 8227	CD152
+T570	Anatomy 8270 8274	T 细胞
+T571	Anatomy 8282 8288	CTLA-4
+T572	Disease 8571 8576	irAEs
+T573	Level 8643 8645	急性
+T574	Disease 8645 8654	肾上腺皮质功能不全
+T575	Drug 8672 8681	CTLA-4 抗体
+T576	Anatomy 8834 8843	CTLA-4 抗原
+T577	Drug 8858 8867	CTLA-4 抗体
+T578	Anatomy 8881 8890	CTLA-4 抗原
+T579	Disease 9108 9120;9121 9122	CTLA-4 抗体的垂体 炎
+T580	Drug 9213 9222	CTLA-4 抗体
+T581	Test 9270 9276	甲状腺轴激素
+T582	Drug 9407 9416	CTLA-4 抗体
+T583	Drug 9446 9455	CTLA-4 抗体
+T584	Amount 9528 9539	0. 5 mg / d
+T585	Drug 9602 9611	CTLA-4 抗体
+T586	Drug 9697 9706	CTLA-4 抗体
+T587	Disease 9785 9796	IgG4 相关性垂体炎
+T588	Anatomy 10016 10028	白细胞介素( IL)-4
+T589	Anatomy 10029 10033	IL-5
+T590	Anatomy 10035 10040	IL-13
+T591	Anatomy 10044 10047	IgE
+T592	Anatomy 10050 10054	IgG4
+T593	Test_Value 10127 10133	单核细胞浸润
+T594	Test_Value 10134 10144	淋巴细胞和浆细胞富集
+T595	Test_Value 10145 10151;10152 10167	每高倍镜视野 IgG4 阳性浆细胞≥10 个
+T596	Test_Value 10178 10188;10189 10193	蝶鞍处肿块和(或)垂 体柄增粗
+T597	Test_Value 10235 10249	大于 140 mg / dl
+T598	Disease 10258 10262	垂体肿块
+T599	Anatomy 10508 10513	抗垂体抗体
+T600	Disease 3963 3977	促肾上腺皮质激素分泌功能减退
+T601	Test_Value 4604 4611	垂体弥漫性增大
+T602	Test_Value 4612 4622	可挤压视交叉、海绵窦
+T603	Test_Value 4627 4632	垂体柄增粗
+T604	Test_Value 4633 4637	但无偏移
+T605	Test_Value 4642 4657;4658 4663	增大的垂体 T1 加权像为低信 号或等信号
+T606	Test_Value 4664 4674	T2 加权像为高信号
+T607	Test_Value 4679 4689;4690 4692	增强扫描病变明显均匀 强化
+T608	Test_Value 4693 4701	可出现硬脑膜尾征
+T609	Test_Value 4703 4710	垂体后叶受累时
+T610	Test_Value 4711 4721;4722 4732	其在 T1 加权像上 显示的正常高信号消失
+T611	Test_Value 4737 4751;4752 4754	垂体炎晚期也可表现为垂体体积 缩小
+T612	Test_Value 4755 4760	甚至空蝶鞍
+T613	Disease 4766 4774	淋巴细胞性垂体炎
+T614	Anatomy 4788 4790	垂体
+T615	Anatomy 4805 4809	淋巴细胞
+T616	Anatomy 4810 4813	浆细胞
+T617	Anatomy 4818 4824	嗜酸性粒细胞
+T618	Anatomy 4825 4829	肥大细胞
+T619	Anatomy 4839 4842	肉芽肿
+T620	Anatomy 4843 4844;4845 4849	多 核巨细胞
+T621	Anatomy 4853 4857	淋巴细胞
+T622	Anatomy 4861 4865	生发中心
+T623	Anatomy 4876 4880	淋巴细胞
+T624	Anatomy 4884 4892	CD4+T 细胞
+T625	Anatomy 4894 4898	B 细胞
+T626	Anatomy 4913 4915	垂体
+T627	Test 5072 5078	α 烯醇化酶

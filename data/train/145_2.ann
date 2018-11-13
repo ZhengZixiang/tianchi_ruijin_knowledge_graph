@@ -1,0 +1,154 @@
+T1	Disease 1358 1362;1363 1365	2 型糖 尿病
+T2	Disease 2426 2432	2 型糖尿病
+T3	Disease 2532 2538	2 型糖尿病
+T4	Disease 2657 2663	2 型糖尿病
+T5	Disease 2779 2785	2 型糖尿病
+T6	Test 2683 2688	HBA1C
+T7	Test 3162 3164	血钙
+T8	Test 3281 3283	血钙
+T9	Anatomy 119 121	骨骼
+T10	Anatomy 122 124	肌肉
+T11	Disease 136 141	代谢性骨病
+T12	Disease 216 224	甲状旁腺相关疾病
+T13	Anatomy 270 274	甲状旁腺
+T14	Disease 1318 1328	GATA3 基因突变
+T15	Test 1348 1354	甲状旁腺激素
+T16	Test 1367 1370	骨密度
+T17	Disease 1380 1388;1389 1393	原发性甲状旁腺功 能亢进症
+T18	Anatomy 1462 1466	甲状旁腺
+T19	Disease 1583 1591	甲状旁腺功能减退
+T20	Test 1599 1605	肾脏 B 超
+T21	Test 1606 1611	电测听检查
+T22	Disease 1617 1620	HDR
+T23	Disease 1633 1643	GATA3 基因突变
+T24	Anatomy 1678 1679;1680 1683	甲 状旁腺
+T25	Anatomy 1689 1693	甲状旁腺
+T26	Disease 1704 1705;1706 1713	甲 状旁腺功能减退
+T27	Anatomy 1732 1737	GATA3
+T28	Test 1911 1915	VitD
+T29	Disease 1998 2007;2008 2011	继发性甲状旁腺功能 亢进症
+T30	Disease 2022 2026	PHPT
+T31	Disease 2069 2073	PHPT
+T32	Disease 2110 2114	PHPT
+T33	Test 2152 2154;2155 2162	快速 静脉钙负荷试验
+T34	Disease 2168 2172	PHPT
+T35	Disease 2186 2197	继发性甲状旁腺功能亢进
+T36	Disease 2216 2220	PHPT
+T37	Disease 2253 2257	PHPT
+T38	Disease 2287 2291	PHPT
+T39	Test 2341 2344	骨密度
+T40	Disease 2347 2351	骨质疏松
+T41	Test 2354 2359	X 线平片
+T42	Disease 2362 2365;2366 2367	腰椎骨 折
+T43	Test 2369 2373	超声检查
+T44	Disease 2376 2379	肾结石
+T45	Disease 2409 2413	PHPT
+T46	Test 2457 2460	DXA
+T47	Test 2464 2467	骨密度
+T48	Disease 2508 2512	髋骨骨折
+T49	Disease 2518 2521	糖尿病
+T50	Test 2540 2543	骨密度
+T51	Test 2592 2596	VitD
+T52	Disease 2665 2667	骨折
+T53	Test 2692 2695	皮质醇
+T54	Test 2676 2678;2679 2682	骨转 换指标
+T55	Disease 2770 2772	肥胖
+T56	Disease 2773 2778	胰岛素抵抗
+T57	Disease 2786 2791	心血管病变
+T58	Disease 2792 2796;2797 2801	血管性早 老性痴呆
+T59	Disease 2802 2804	肿瘤
+T60	Disease 2805 2812	自身免疫性疾病
+T61	Anatomy 2898 2905	VitD 受体
+T62	Anatomy 3017 3022	胰岛素基因
+T63	Anatomy 3007 3014	VitD 受体
+T64	Anatomy 3039 3047	胰岛素受体启动子
+T65	Anatomy 3069 3072	骨骼肌
+T66	Anatomy 3075 3082	VitD 受体
+T67	Anatomy 3085 3086;3087 3091	胰 岛素受体
+T68	Test 3140 3142	血压
+T69	Disease 3170 3174;3175 3177	VitD 缺乏
+T70	Test 3180 3183	PTH
+T71	Test 3190 3192	血压
+T72	Test 3215 3218	PTH
+T73	Test 3222 3224	血压
+T74	Test 3229 3233	VitD
+T75	Disease 3267 3269	肥胖
+T76	Test 3288 3292	VitD
+T77	Test 3295 3298	PTH
+T78	Disease 3315 3318;3319 3321	心血管 事件
+T79	Disease 3322 3325	糖尿病
+T80	Disease 3326 3328	肿瘤
+T81	Test 697 700	PTH
+T82	Test 926 929	PTH
+T83	Disease 14 20	内分泌代谢病
+T84	Disease 27 33	内分泌代谢病
+T85	Test 86 92	(VitD)
+T86	Test 114 116	激素
+T87	Test 1254 1260	(VitD)
+T88	Disease 1491 1498	内分泌代谢疾病
+T89	Anatomy 1669 1672	转录因
+T90	Anatomy 1743 1747	转录因子
+T91	Disease 1769 1774	遗传性疾病
+T92	Method 2141 2143	口服
+T93	Anatomy 2435 2437	骨骼
+T94	Test 2872 2876	VitD
+T95	Test 2917 2931	1,25-二羟维生素 D3]
+T96	Anatomy 2970 2973	心血管
+T97	Anatomy 2975 2978	内分泌
+T98	Anatomy 2979 2983	免疫系统
+T99	Anatomy 81 86	维生素 D
+T100	Test_Value 1946 1948	升高
+T101	Test 2487 2490	骨质量
+T102	Test_Value 2493 2495	下降
+T103	Anatomy 2939 2945	1α-羟化酶
+T104	Anatomy 3094 3097	葡萄糖
+T105	Disease 43 60	维生素 D /甲状旁腺激素相关疾病
+T106	Anatomy 93 99	甲状旁腺激素
+T107	Test 100 103	PTH
+T108	Test 166 170	VitD
+T109	Test 173 176	PTH
+T110	Test 186 190	VitD
+T111	Test 193 196	PTH
+T112	Anatomy 206 210	甲状旁腺
+T113	Test 1263 1269	甲状旁腺激素
+T114	Test 1270 1273	PTH
+T115	Disease 1290 1304;1305 1316	甲状旁腺功能减退-感音神经性 耳聋-肾发育不良综合征
+T116	Test 1334 1346	血清 25-羟维生素 D
+T117	Test 1477 1481	VitD
+T118	Test 1484 1487	PTH
+T119	Disease 1532 1546;1547 1563	甲状旁腺功能减退-感音神经性 耳聋-肾发育不良(HDR)综合征
+T120	Disease 1649 1655;1656 1657	HDR 综合 征
+T121	Anatomy 1749 1753	甲状旁腺
+T122	Test 1868 1872	VitD
+T123	Test 1875 1878	PTH
+T124	Test 1923 1932	25-羟维生素 D
+T125	Test 1939 1945	血清 PTH
+T126	Disease 1951 1953;1954 1964	原发 性甲状旁腺功能亢进症
+T127	Disease 1965 1969	PHPT
+T128	Reason 1987 1994	VitD 不足
+T129	Reason 2033 2039;2040 2041	VitD 不 足
+T130	Test 2118 2124;2125 2131	血清 25- 羟维生素 D
+T131	Drug 2146 2150	VitD
+T132	Reason 2175 2182	VitD 不足
+T133	Test 2320 2333	双能 X 线吸收法骨密度仪
+T134	Test 2563 2566	胰岛素
+T135	Test 2604 2607	PTH
+T136	Test 2719 2723	VitD
+T137	Test 2726 2729	PTH
+T138	Reason 2753 2760	VitD 不足
+T139	Reason 2762 2768	PTH 升高
+T140	Test 2908 2915	活性 VitD
+T141	Test 2964 2968	VitD
+T142	Anatomy 3000 3004	β 细胞
+T143	Test 3030 3033	胰岛素
+T144	Test 3051 3055	VitD
+T145	Test 3061 3065	VitD
+T146	Test 3107 3111	VitD
+T147	Test 3114 3117	PTH
+T148	Test 3123 3125	肾素
+T149	Test 3126 3131	血管紧张素
+T150	Test 3132 3135	醛固酮
+T151	Test 3194 3200	血清 PTH
+T152	Test 3342 3345;3346 3352	25- 羟维生素 D
+T153	Test 3395 3399	VitD
+T154	Test 3402 3405	PTH

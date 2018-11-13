@@ -1,0 +1,328 @@
+临床研究
+路巍、董利平、栾健),血管外科(张鲲);266003 青岛大学附属医院代谢
+病科,山东省痛风病临床医学中心,山东省代谢性疾病重点实验室(李
+长贵)
+血管生成素样蛋白 2 与 2 型糖尿病下肢动脉
+病变的关系
+宋娓  张鲲  路巍  董利平  栾健  李长贵
+[摘要]   目的  研究血管生成素样蛋白 2(ANGPTL2)与 2 型糖尿病下肢动脉病变的关系。 方法 筛
+选 360 例 2 型糖尿病患者,按照踝肱指数(ABI)分为单纯 2 型糖尿病组(A 组)、2 型糖尿病伴轻中度下肢
+动脉病变组(B 组)、2 型糖尿病伴重度下肢动脉病变组(C 组)及 120 例健康体检者作为对照(NC 组)。 检
+测血清 ANGPTL2、超敏 C 反应蛋白(hsCRP)、游离脂肪酸、生化指标、HBA1C、空腹胰岛素并计算腰臀比、体
+重指数、胰岛素抵抗指数。 结果 随着下肢动脉病变程度的加重,ANGPTL2 水平逐渐升高,轻中度下肢动
+脉病变组明显高于单纯 2 型糖尿病组[1. 27(1. 09,1. 51)对 0. 88(0. 66,1. 07)μg / L, P<0. 05],重度下肢动
+脉病变组明显高于轻中度病变组[1. 70(1. 45,1. 91)对 1. 27(1. 09,1. 51)μg / L, P<0. 05]。 Pearson 相关分
+析显示 hsCRP、体重指数、腰臀比、总胆固醇、低密度脂蛋白胆固醇、空腹胰岛素、胰岛素抵抗指数与血清
+ANGPTL2 呈正相关。 Logistic 回归分析显示 ANGPTL2、hsCRP、HBA1C与 2 型糖尿病下肢动脉病变显著相关
+(P<0. 05)。 结论 ANGPTL2 可能是 2 型糖尿病下肢动脉病变的危险因素之一,ANGPTL2 的检测可能对 2
+型糖尿病下肢动脉病变的早期预测、病情判断和预后评估均有重要意义。
+[关键词]   血管生成素样蛋白 2; 糖尿病, 2 型; 下肢动脉病变
+Assosiation of angiopoietin-like protein 2 to lower extremity arterial disease in type 2 diabetes mellitus Song
+Wei*, Zhang Kun, Lu Wei, Dong Liping, Luan Jian, Li Changgui. *Department of Endocrinology, Qingdao
+Municipal Hospital Affiliated to Qingdao University. Qingdao 266011, China
+[Abstract]  Objective  To study the assosiation of angiopoietin-like protein 2(ANGPTL2) to lower extremity
+arterial disease in type 2 diabetes mellitus. Methods A total of 360 type 2 diabetic patients were divided into three
+groups: without(group A), with mild to moderate(group B), and severe(group C) lower extremity arterial disease
+according to the ankle brachial index. And, 120 healthy subjects serveed as control group. The levels of ANGPTL2,
+high sensitivity C-reactive protein ( hsCRP ), free fatty acid, biochemical index, and fasting insulin were
+detected. And, waist-to-hip ratio ( WHR), body mass index ( BMI), insulin resistance index were calculated.
+Results The level of ANGPTL2 was getting higher and higher as lower extremity arterial disease progressing. The
+level of ANGPTL2 in group B was higher than that in group A[1. 27(1. 09,1. 51) vs 0. 88(0. 66,1. 07)μg / L, P<
+0. 05], and the level of ANGPTL2 in group C was higher than that in group B[1. 70(1. 45,1. 91) vs 1. 27(1. 09,
+1. 51)μg / L, P<0. 05] . Pearson correlation analysis showed that the ANGPTL2 level in serum positively correlated
+with hsCRP, BMI, WHR, cholesterol, low-density lipoprotein-cholesterol, fasting insulin, and insulin resistance
+index. Logistic regression analysis showed that the levels of ANGPTL2, hsCRP, and glycosylated hemoglobin were
+significantly associated with lower extremity arterial disease in type 2 diabetes mellitus. Conclusion It is possible
+that ANGPTL2 is one of the risk factors of lower extremity arterial disease in type 2 diabetes mellitus, and which is
+likely to be of great significance in the early prediction, disease assessment, and prognosis evaluation for lower
+extremity arterial disease in type 2 diabetes mellitus.
+[Key words]  Angiopoietin-like protein 2; Diabetes mellitus, type 2; Lower extremity arterial diseases
+(Chin J Endocrinol Metab, 2015, 31: 872-876)
+下肢动脉病变 ( lower extremity arterial disease,
+LEAD)是 2 型糖尿病患者常见的慢性血管并发症之
+一,可导致双下肢麻木、发凉、疼痛、间歇性跛行,甚至
+坏疽,严重影响患者的生活质量,威胁患者的生命。 其
+病理基础为动脉粥样硬化。 血管生成素样蛋白 2
+(angiopoietin like protein 2, ANGPTL2)是近年来发现
+的新一类血管发生相关蛋白因子,属于分泌性糖蛋白,
+与血管内皮功能损伤、慢性炎症、胰岛素抵抗密切相
+关[1-6],与动脉粥样硬化的早期病变及病情进展直接相
+关。 本研究通过检测 2 型糖尿病患者血清 ANGPTL2
+水平来探讨其与下肢动脉病变的关系,为预防和治疗
+2 型糖尿病患者下肢动脉病变提供新的思路。
+对象和方法
+一、 对象
+按 1999 年世界卫生组织(WHO)制定的糖尿病诊
+断标准,选取 2012 年 1 月至 2014 年 10 月在本院内分
+泌科、血管外科住院的 360 例 2 型糖尿病患者,并根据
+2007 年《下肢动脉粥样硬化性疾病诊治中国专家建
+议》 [7],按踝肱指数(ankle brachial index, ABI)进行分
+组:ABI 1. 30 ~ 0. 91 为单纯 2 型糖尿病组(A 组),男
+性 60 例,女性 60 例;ABI≤0. 90 为下肢动脉病变组,
+0. 40 ~ 0. 90 为轻中度病变组(B 组),男性 62 例,女性
+58 例;ABI<0. 40 为重度病变组(C 组),男性 61 例,女
+性 59 例。 另选择同期体检中心的健康体检者 120 名
+为正常对照(NC 组),男性 60 例,女性 60 例,用糖耐
+量试验排除糖尿病,并排除糖尿病、高血压病、心血管
+病及其他内分泌代谢疾病家族史。 各组受试者均排除
+应激感染、糖尿病酮症酸中毒,无血液系统疾病、自身
+免疫性疾病、慢性阻塞性肺疾病、其他内分泌疾病及恶
+性肿瘤病史,无肝肾功能不全等情况,无使用激素史,
+无服用阿司匹林、氯吡格雷、西洛他唑等抗凝、抑制血
+小板聚集药物及他汀类降脂药史。 各组之间性别构
+成、年龄差异均无统计学意义(P>0. 05)。
+二、 方法
+1. 人体参数测量:由经培训的专人测量收缩压、
+舒张压、身高、体重、腰围、臀围。 (1)体重指数 =体重
+(kg) /身高2(m2);(2)腰臀比=腰围(cm) /臀围(cm);
+(3)ABI 的测定:采用 ES-1000SPM 超声多普勒血流探
+测仪,由专人操作。 在室温下,患者取仰卧位休息 5 ~
+10 min,分别将 12 cm×40 cm 袖带置于双侧上臂,将多
+普勒探头置于肘部肱动脉处获取信号,测得双侧肱动
+脉收缩压,取高值作为肱压[两侧血压差值应小于 10
+mmHg(1 mmHg = 0. 133 kPa)]。 置相同的袖带于踝
+部,分别把探头放在胫后动脉、足背动脉搏动明显部
+位,测得胫后动脉收缩压、足背动脉收缩压,以同侧胫
+后动脉收缩压和足背动脉收缩压中的高值作为踝收缩
+压。 ABI 为选定的踝压 /选定的肱压。 双侧 ABI 均需
+测定,选择较低的 ABI 值作为患者的 ABI。
+2. 检测方法:受试者平衡饮食 3 d,空腹过夜至少
+10 h。 空腹抽取静脉血测定生化指标、HBA1C、空腹胰
+岛素。 采用高压液相层析技术测定 HBA1C(试剂来自
+美国 BIO-RAD 公司);采用电化学发光法测定胰岛素
+(由瑞士罗氏公司全自动 E170 Elecsy2010 分析仪测
+得);葡萄糖氧化酶法测定空腹血糖,酶法测定总胆固
+醇、甘油三酯、高密度脂蛋白胆固醇(HDL-C)、低密度
+脂蛋白胆固醇(LDL-C;均由日立 7600-120 自动生化
+分析仪测得)。 稳态模型评估的胰岛素抵抗指数
+(HOMA-IR) = [ 空腹胰 岛 素 ( mU / L ) × 空 腹 血 糖
+(mmol / L)] / 22. 5。 另 6 ml 静脉血静置 30 min,3 000
+r / min 离心 10 min,取上层清亮血清,贮存在-80℃冰
+箱,同批测定。 采用双抗夹心 ELISA 法测定血清
+ANGPTL2(试剂来自美国 Quanti Kine 公司);采用散射
+免疫比浊法测定血清 hsCRP (试剂来自芬兰 Orion
+Diagnostica 公司);采用比色法测定血清游离脂肪酸
+(FFA,试剂来自英国朗道实验室有限公司)。
+三、 统计学处理
+采用 SPSS 15. 0 统计软件进行统计学分析。 正态
+分布的计量资料采用 x-± s 表示,偏态分布的计量资料
+经自然对数转换后以中位数(四分位间距)表示。 两
+组间比较用 t 检验。 多组间比较用方差分析。 使用
+Pearson 相关分析方法进行相关性分析。 采用多因素
+logistic 回归分析评估 ANGPTL2 与 2 型糖尿病下肢动
+脉病变的关系。 以 P<0. 05 为差异有统计学意义。
+结    果
+一、 各组一般临床资料比较
+A 组、B 组、C 组体重指数、腰臀比明显高于 NC 组
+(均 P<0. 05);2 型糖尿病各亚组间比较,均有统计学
+差异(均 P<0. 05)。 A 组、B 组、C 组收缩压明显高于
+NC 组(均 P<0. 05);2 型糖尿病各亚组间比较,C 组收
+缩压明显高于 A 组、B 组(均 P<0. 05),A 组和 B 组间
+差异无统计学意义。 A 组、B 组、C 组舒张压明显高于
+NC 组(均 P<0. 05);2 型糖尿病各亚组间比较,C 组舒
+张压明显高于 A 组(P<0. 05),余各组间相比,无统计
+学差异(表 1)。
+二、 各组实验室资料比较
+A 组、B 组、C 组的空腹血糖、空腹胰岛素、HOMA-
+IR、HBA1C显著高于 NC 组(均 P<0. 01)。 C 组 HOMA-
+IR、空腹胰岛素明显高于 A 组(P<0. 05);HOMA-IR、
+空腹胰岛素在 C 组和 B 组,B 组和 A 组相比,无统计
+学差异。 空腹血糖、HBA1C在 2 型糖尿病各亚组间比
+较差异无统计学意义。 A 组、B 组、C 组的 LDL-C、总
+胆固醇明显高于 NC 组(均 P<0. 05); C 组 LDL-C、总
+胆固醇明显高于 A 组、B 组(均 P<0. 05),A 组和 B 组
+间差异无统计学意义。 A 组、B 组、C 组的 HDL-C 显
+著低于 NC 组(均 P<0. 05);C 组 HDL-C 明显低于 A
+组(P<0. 05),HDL-C 在 C 组和 B 组,B 组和 A 组相
+比,无统计学差异。 各组间甘油三酯、FFA 差异无统计
+表 1  各组临床与生化指标比较[x-± s, M(四分位间距)]
+Tab 1  Comparison of clinical indices and biochemical indices in each group[x-± s, M(quartile)]
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+糖尿病病程
+(年)
+Duration of diabetes
+(year)
+收缩压
+Systolic blood
+pressure
+(mmHg)
+舒张压
+Diastolic blood
+pressure
+(mmHg)
+体重指数
+Body mass
+index
+(kg / m2)
+腰臀比
+Waist-to-hip
+ratio
+NC 120(60 / 60) 59. 1 ± 5. 7 - 118 ± 12   73 ± 9 22. 98 ± 1. 85 0. 85 ± 0. 06
+A 120(60 / 60) 58. 4 ± 6. 3 9. 1 ± 2. 8 122 ± 11a   76 ± 10a 24. 35 ± 2. 43a 0. 87 ± 0. 08a
+B 120(62 / 58) 60. 9 ± 4. 8 10. 5 ± 3. 1 124 ± 14a   78 ± 11a 25. 97 ± 2. 86ac 0. 89 ± 0. 07ac
+C 120(61 / 59) 59. 7 ± 5. 5 9. 7 ± 2. 2 130 ± 13ace   80 ± 12ac 27. 13 ± 2. 75ace 0. 91 ± 0. 06ace
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+空腹血糖
+Fasting blood glucose
+(mmol / L)
+空腹胰岛素
+Fasting insulin
+(mU / L)
+HOMA-IR HBA1C(% )
+总胆固醇
+Total cholesterol
+(mmol / L)
+NC 120(60 / 60) 5. 16(4. 51,5. 53) 5. 93(4. 88,7. 01) 1. 41(1. 02,1. 98) 5. 03(4. 28,5. 46) 4. 46 ± 0. 75
+A 120(60 / 60) 8. 04(6. 92,9. 08) b 8. 63(6. 07,9. 85) b 3. 24(2. 28,4. 97) b 7. 35(6. 51,8. 34) b 4. 97 ± 1. 03a
+B 120(62 / 58) 8. 21(7. 05,9. 63) b 8. 98(6. 88,10. 84) b 3. 56(2. 73,5. 23) b 7. 66(6. 43,8. 96) b 5. 32 ± 1. 11a
+C 120(61 / 59) 8. 33(7. 63,9. 85) b 9. 57(7. 51,11. 76) bc 3. 87(2. 94,5. 67) bc 7. 86(6. 95,9. 35) b 5. 85 ± 1. 07ace
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+甘油三酯
+Triglycerides
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+游离脂肪酸
+Free fatty acids
+(mg / L)
+hsCRP
+(mg / L)
+ANGPTL2
+(μg / L)
+NC 120(60 / 60) 1. 25 ± 0. 53 1. 79 ± 0. 42 2. 63 ± 0. 57 0. 59(0. 37, 0. 76) 2. 05(1. 48, 2. 67) 0. 88(0. 66, 1. 07)
+A 120(60 / 60) 1. 57 ± 0. 64 1. 42 ± 0. 39a 3. 14 ± 0. 74a 0. 63(0. 48,0. 80) 2. 23(1. 58,2. 82) 1. 27(1. 09,1. 51) b
+B 120(62 / 58) 1. 63 ± 0. 69 1. 29 ± 0. 54a 3. 25 ± 0. 82a 0. 61(0. 45,0. 85) 3. 12(2. 69,3. 68) bd 1. 70(1. 45,1. 91) bc
+C 120(61 / 59) 1. 59 ± 0. 57 1. 03 ± 0. 44ac 3. 87 ± 0. 66ace 0. 66(0. 42,0. 89) 4. 02(3. 53,4. 61) bdf 2. 18(1. 89,2. 43) bce
+注:NC:对照组 Control group;A:单纯 2 型糖尿病组 Type 2 diabetes group without lower extremity arterial disease;B:2 型糖尿病伴轻中度下肢动脉病变
+组 Type 2 diabetes group with mild to moderate lower extremity arterial disease;C:2 型糖尿病伴重度下肢动脉病变组 Type 2 diabetes group with severe lower
+extremity arterial disease;1 mmHg = 0. 133 kPa;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment for insulin resistance index;
+HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low-density lipoprotein-cholesterol;hsCRP:超敏 C 反应蛋
+白 Hypersensitive C-reactive protein;ANGPTL2:血管生成素样蛋白2 Angiopoietin like protein 2;vs NC, aP<0. 05, bP<0. 01; vs A, cP<0. 05, dP<0. 01; vs B,
+eP<0. 05, fP<0. 01
+学意义(表 1)。
+三、 各组血清 ANGPTL2、hsCRP 的比较
+B 组、C 组血清 hsCRP 水平显著高于 A 组及 NC
+组(P<0. 01);C 组与 B 组相比,差异有统计学意义
+(P<0. 01);A 组与 NC 组相比,无统计学差异。 A 组、
+B 组、C 组血清 ANGPTL2 显著高于 NC 组(P<0. 01),
+并且随着下肢动脉病变程度的加重,血清 ANGPTL2
+增高的越明显,2 型糖尿病各亚组间比较,均有统计学
+差异(P<0. 05,表 1)。
+四、 Pearson 相关分析
+hsCRP、体重指数、腰臀比、总胆固醇、LDL-C、空腹
+胰岛素、HOMA-IR 与血清 ANGPTL2 呈正相关( r 分别
+为 0. 587、0. 332、0. 432、0. 356、0. 370、0. 338、0. 412,均
+P<0. 05 ), HDL-C 与血清 ANGPTL2 呈负相关 ( r =
+-0. 335,P<0. 01)。
+五、 Logistic 回归分析
+按有无下肢动脉病变将研究对象分组后进行
+logistic 回归分析,结果显示下肢动脉病变与血清
+ANGPTL2(OR = 2. 672,95% CI 1. 833 ~ 3. 864, P <
+0. 01)、hsCRP(OR = 2. 378,95% CI 1. 749 ~ 3. 235,P<
+0. 01)、HBA1C(OR = 1. 879,95% CI 1. 231 ~ 2. 635,P<
+0. 05)显著正相关。
+讨    论
+糖尿病性血管病变包括脑血管病变、心血管病变
+和外周动脉病变,其病理基础为动脉粥样硬化。 糖尿
+病是外周动脉病变的主要危险因素之一,2 型糖尿病
+患者外周动脉病变发病率较非糖尿病者高 20 倍[8]。
+下肢动脉病变是外周动脉病变中最常见的一种,是导
+致 2 型糖尿病患者足部坏疽和下肢截肢,尤其是高位
+截肢及再次截肢的主要原因。 因此,对糖尿病下肢动
+脉病变防治的研究已成为国内外学者研究的热点。
+ANGPTL2 是近年来新发现的一类血管发生相关
+因子,属于血管生成素样蛋白家族,是一种分泌性糖蛋
+白,主要是由内脏脂肪细胞表达和分泌的[5],除了具
+有提高造血干细胞的生存、修补能力和调节血管生
+成[9,10]等作用外,还可以调节各种抗炎、促炎因子的表
+达,参与慢性炎症反应和胰岛素抵抗[4,5],与糖尿病、
+肥胖、冠心病、动脉粥样硬化、肿瘤等密切相关[6,11-16]。
+国内研究报道,2 型糖尿病患者尿蛋白 /肌酐与血清
+ANGPTL2 水平呈正相关[17]。 国外学者在对小鼠的研
+究中发现,ANGPTL2 植入剂可以促进小鼠角膜组织大
+量新生血管的生成[5],诱发血管炎症,增加血管通透
+性,潜在恶化糖尿病视网膜病变病理状态。 可见,
+ANGPTL2 在糖尿病微血管病变过程中具有促进作
+用[17]。 目前关于 ANGPTL2 与 2 型糖尿病下肢动脉病
+变的关系的报道较少,本研究分析 2 型糖尿病患者下
+肢动脉病变与临床指标的关系,旨在探讨 2 型糖尿病
+患者 ANGPTL2 水平与下肢动脉病变的关联。
+Tabata 等[5] 研究发现 ANGPTL2 是联系肥胖与脂
+肪组织慢性炎症反应和胰岛素抵抗的关键介质,肥胖
+状态下脂肪组织的慢性缺氧及内质网应激可明显上调
+ANGPTL2 mRNA 的表达,使血清 ANGPTL2 水平升高。
+他们在进一步的研究中发现 ANGPTL2 主要通过整合
+素介导的 NF-κB 信号级联反应,增加内皮细胞肿瘤坏
+死因子 α(TNF-α)、白细胞介素 6(IL-6)等促炎因子的
+表达,而 TNF-α、IL-6 可作用于胰岛素信号系统,抑制
+胰岛素受体、胰岛素受体底物 1 的磷酸化,干扰胰岛素
+受体信号转导而引起胰岛素抵抗,产生高胰岛素血症,
+促进胰岛素分泌[5]。 而 Takano 等[18] 使用吡格列酮
+(一种 PPARγ 激动剂,可增高胰岛素敏感性、改善胰岛
+素抵抗,减少内脏脂肪含量,降低炎症反应)治疗肥胖
+的 2 型糖尿病患者,发现随着内脏脂肪量的减少,血清
+ANGPTL2 水平下降。 本研究也发现血清 ANGPTL2 与
+HOMA-IR 及反映中心性肥胖的腰臀比明显正相关,而
+肥胖、胰岛素抵抗均可增加糖尿病下肢动脉病变的风
+险,这提示 ANGPTL2 与糖尿病下肢动脉病变关系密
+切。
+国外学者在动物实验中发现,高水平的 ANGPTL2
+能明显增加动脉粥样硬化斑块面积[6]。 Farhat 等[19]
+研究证实,冠心病患者血清 ANGPTL2 明显升高,升高
+的水平与冠状动脉病变的严重程度成正相关,可作为
+预测心血管疾病发生的良好指标[20]。 本研究显示:2
+型糖尿病伴下肢动脉病变组血清 ANGPTL2 水平较单
+纯 2 型糖尿病组明显升高, Logistic 回归分析显示
+ANGPTL2、hsCRP、HBA1C是影响 2 型糖尿病下肢动脉
+病变的主要危险因素, 其中最为密切的指标是
+ANGPTL2,提示 ANGPTL2 可能参与了糖尿病下肢动
+脉病变的发生发展,可能对糖尿病下肢动脉病变有预
+测意义,在糖尿病明确诊断后就进行监测,有利于及早
+防治或延缓下肢动脉病变的发生及进展。 本研究还表
+明,随着下肢动脉病变程度的加重,ANGPTL2 增高的
+越明显,因此 2 型糖尿病患者 ANGPTL2 水平越高提示
+下肢动脉病变病情越严重,血清 ANGPTL2 的检测可
+能对评估下肢动脉病变的严重程度有重要的辅助价
+值。 ANGPTL2 与 2 型糖尿病下肢动脉病变相关的机
+制目前尚不十分明确, 推测几条机制如下: ( 1 )
+ANGPTL2 可以增加内皮细胞通透性[5],并且通过激活
+整合素 a5β1 / Rac1 / NF-κB 通路,增加内皮细胞 TNF-
+α、IL-6 等促炎因子的表达,促进白细胞趋化[6];同时
+使内皮细胞表面的 P-选择素、细胞间黏附分子-1 水平
+升高,促进白细胞黏附、渗出[6],启动并加重局部炎症
+反应。 (2)ANGPTL2 可以抑制特异性酪氨酸激酶受体
+Tie-2 磷酸化,破坏血管稳定,并解除血管周围细胞、细
+胞外基质对内皮的抑制,从而引起内皮损伤及病理性
+血管形成[21]。 (3)ANGPTL2 诱导的促炎反应可以使
+总胆固醇、低密度脂蛋白胆固醇水平增高,从而加重动
+脉粥样硬化的进展[6]。 (4) ANGPTL2 还可以引起胰
+岛素抵抗[5],胰岛素抵抗可通过引起内皮细胞功能失
+调、促进平滑肌细胞增殖、促进血小板聚集、凝血系统
+激活、增加炎性因子及糖基化终产物的形成而加重动
+脉粥样硬化。 但是目前还没有证据表明是 ANGPTL2
+的异常升高导致了糖尿病患者下肢动脉病变的发生,
+也许它只是糖尿病下肢动脉病变的伴随现象,今后需
+进一步深入研究。
+综上所述,血清高 ANGPTL2 水平可能是下肢动
+脉病变的重要危险因素之一,与下肢动脉病变严重程
+度密切相关。 测定血清 ANGPTL2,可能对 2 型糖尿病
+下肢动脉病变的早期预测、病情判断和预后评估均有
+重要意义。 但本研究观察例数较少,混杂因素较多,故
+结论有待今后进一步扩大样本量后加以证实,而关于
+ANGPTL2 在糖尿病下肢动脉病变中的确切作用机制
+仍不明确,还有待于在未来进一步探讨。

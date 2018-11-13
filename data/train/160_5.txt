@@ -1,0 +1,402 @@
+MicroRNA 和糖尿病并发症
+基金项目:辽宁省高等学校“高端人才队伍建设工程冶项目[(2014)187]
+2 型糖尿病不同尿白蛋白排泄率患者血清
+Mir-217 水平与 Sirt1 及 HIF-1α 的相关性
+邵滢  任慧雯  吕川  吴灿  于菁  王秋月
+[摘要]   目的  探讨 2 型糖尿病不同尿白蛋白排泄率患者血清 MicroRNA-217(Mir-217)水平与沉默
+信息调节因子 1(Sirt1)及低氧诱导因子 1α(HIF-1α)相关性。 方法 479 例 2 型糖尿病患者根据尿白蛋白
+与尿肌酐的比值(urinary albumin to creatinine ratio,ACR)分为正常白蛋白尿组(D1 组,181 例)、微量蛋白尿
+组(D2 组,165 例)、临床蛋白尿组(D3 组,133 例),192 名正常体检者作为对照组。 采用实时定量 PCR 检
+测血清 Mir-217 水平,采用酶联免疫吸附法(ELISA)检测血清 Sirt1、HIF-1α、血管内皮生长因子(VEGF)水
+平。 结果 与对照者相比,2 型糖尿病患者血清 Mir-217 水平显著升高,且随着尿白蛋白升高,分别在 D1、
+D2、D3 组逐渐升高(P<0. 01)。 年龄、糖尿病病程、体重指数、空腹血糖、空腹胰岛素、稳态模型评估的胰岛
+素抵抗指数(HOMA-IR)、HBA1C、低密度脂蛋白胆固醇(LDL-C)、总胆固醇(TC)、三酰甘油(TG)、血尿酸、
+血尿素氮(BUN)、HIF-1α、VEGF、Mir-217 与 ACR 呈正相关(均 P<0. 05);高密度脂蛋白胆固醇(HDL-C)、
+Sirt1 与 ACR 呈负相关(均 P<0. 05)。 VEGF、HIF-1α、Mir-217、BUN、糖尿病病程、LDL-C、Sirt1 以及血尿酸是
+影响 ACR 的主要因素(均 P<0. 01)。 糖尿病病程、HOMA-IR、HBA1C、ACR、LDL-C、TC、TG、血尿酸、BUN、
+HIF-1α 及 VEGF 与 Mir-217 呈正相关(均 P<0. 05),Sirt1 与 Mir-217 呈负相关(P<0. 01)。 结论 血清
+Mir-217 可能通过促进慢性炎症反应、肾脏纤维化、新生血管形成等途径参与糖尿病肾病的发生和发展,可
+作为糖尿病肾病新的生物学标记物。
+[关键词]   血清 MicroRNA-217; 沉默信息调节因子 1; 低氧诱导因子 1α; 血管内皮生长因子; 糖尿病
+肾病
+Association of serum Mir-217 level with Sirt1 and HIF-1α in type 2 diabetic patients with different urinary
+albumin excretion rates Shao Ying*, Ren Huiwen, Lyu Chuan, Wu Can, Yu Jing, Wang Qiuyue. *Department of
+Endocrinology, the First Affiliated Hospital of China Medical University, Shenyang 110001, China
+[Abstract]   Objective   To explore the associations of serum Mir-217 with silent information regulator 1
+(Sirt1)and hypoxia-inducible factor-1α(HIF-1α)in type 2 diabetic patients with different urinary albumin excretion
+rates. Methods A total of 479 patients with type 2 diabetes were divided into normoalbuminuric(D1, n = 181),
+microalbuminuric(D2, n = 165), and macroalbuminuric(D3, n = 133) subgroups. 192 normal subjects served as
+control group. Serum level of Mir-217 was detected by realtime PCR. Serum Sirt1, HIF-1α, and vascular endothelial
+growth factor ( VEGF) levels were determined by enzyme-linked immunosorbent assay. Results Compared with
+control subjects, serum Mir-217 level was significantly increased in type 2 diabetic patients and gradually increased in
+D1, D2, and D3 groups(P<0. 01) . The parameters of age, diabetes duration, body mass index, fasting plasma
+glucose, fasting insulin, homeostasis model assessment of insulin resistant index(HOMA-IR), HBA1C, low density
+lipoprotein-cholesterol(LDL-C), total cholesterol ( TC), triglyceride ( TG), serum uric acid ( SUA), blood urea
+nitrogen(BUN), HIF-1α, VEGF, and Mir-217 all were positively correlated with ACR(all P<0. 05) . High density
+lipoprotein-cholesterol(HDL-C)and Sirt1 were negatively correlated with ACR(both P<0. 05) . VEGF, HIF-1α,
+Mir-217, BUN, diabetes duration, LDL-C, Sirt1, and SUA were independent factors that influenced ACR(all P<
+0. 01) . Additionally, diabetes duration, HOMA-IR, HBA1C, ACR, LDL-C, TC, TG, SUA, BUN, HIF-1α, and
+VEGF were positively correlated with Mir-217(all P<0. 05), while Sirt1 was negatively correlated with Mir-217(P<
+0. 01) . Conclusion Serum Mir-217, as a possible biomarker for early diagnosis of diabetic nephropathy, may be
+involved in the development of diabetic nephropathy by promoting chronic inflammatory reaction, renal fibrosis, and
+angiogenesis.
+[Key words]  Serum MicroRNA-217; Silent information regulator 1; Hypoxia-inducible factor-1α; Vascular
+endothelial growth factor; Diabetic nephropathy
+(Chin J Endocrinol Metab, 2016, 32: 546-551)
+近年来 2 型糖尿病的患病率在逐年升高,其中
+20% ~40%发展为糖尿病肾病。 糖尿病肾病是导致终
+末期肾病的主要原因之一。 因此,深入研究糖尿病肾
+病的发病机制、早期诊断与治疗具有重要的临床意义。
+MicroRNA 是一组小分子非编码 RNA,可以通过
+抑制 mRNA 翻译或促进其分解来抑制其目的基因的
+蛋白表达[1],因此可以在不同组织中调控生物学过
+程[2]。 MicroRNA 与炎症、纤维化、氧化应激及新生血
+管形成等有关[3-6]。
+Yin 等[7] 发现,在酒精性肝病中,Mir-217 作为关
+键性炎症调节介质,参与慢性炎症反应,而抑制肝脏
+Mir-217 的表达可以显著降低其炎症反应,从而起到治
+疗作用。 Sun 等[8]提到,Mir-217 通过促进胶原形成进
+而加速肾脏纤维化,参与糖尿病肾病的发生发展。 近
+来有研究发现,Mir-217 在促进血管生成方面发挥重要
+作用[9-10]。
+由于上述机制是公认的糖尿病肾病的发病机制,
+我们推测 Mir-217 可能通过上述机制参与糖尿病肾病
+的发病。 然而,血清 Mir-217 与糖尿病肾病之间关系
+的临床研究目前还未见诸报道。
+沉默信息调节因子 1(silent information regulator 1,
+Sirt1)是 NAD+依赖性去乙酰化酶,在肾脏起到抑制
+细胞凋亡、 炎症及纤维化的作用, 对糖尿病肾病起
+到保护作用[11]。 在糖尿病肾病中,低氧诱导因子-1α
+(hypoxia-inducible factor-1α,HIF-1α)是促进肾脏纤维
+化及硬化的关键调节分子[12]。 血管内皮生长因子
+(vascular endothelial growth factor,VEGF)作为重要的
+促血管生成因子,通过促进异常血管新生加剧糖尿病
+肾病的发生发展[13]。 Menghini 等[14] 发现,Mir-217 通
+过直接结合 Sirt1 的 3'端非翻译区(3忆-UTR)抑制 Sirt1
+的表达。 Joo 等[15]证实 Sirt1 直接结合 HIF-1α,使其去
+乙酰化失活。 因此, Mir-217 可能通过抑制 Sirt1 表达,
+进而增加 HIF-1α 表达,促进糖尿病肾病的发生发展。
+本研究检测不同尿白蛋白排泄率 2 型糖尿病患者
+血清 Mir-217、Sirt1、HIF-1α、VEGF 水平,分析其相互
+关系,试图探讨血清 Mir-217 是否可以作为糖尿病肾
+病的血清生物学标记物,从而为找到糖尿病肾病早期
+诊断和治疗的新靶点提供依据。
+对象和方法
+一、 对象
+选择 479 例初治的 2 型糖尿病患者,男性 225 例,
+女性 254 例,平均年龄(53. 30 ±12. 40)岁,均为中国医
+科大学附属第一医院 2014 年 6 月至 2015 年 8 月门诊
+及住院患者。 纳入标准:(1)2 型糖尿病诊断均符合
+1999 年世界卫生组织糖尿病标准[16];(2)就诊前 1 个
+月内无感染病史;(3)未服用影响尿白蛋白排泄的药
+物,如血管紧张素转换酶抑制剂和(或)血管紧张素受
+体拮抗剂。 排除标准:心脏、肝脏、其他肾脏疾病以及
+各种感染性疾病、肿瘤、妊娠和高血压。 根据尿微量白
+蛋白与尿肌酐比值(ACR)分成 3 组:正常白蛋白尿组
+(D1 组)181 例,ACR <30 mg / g;微量蛋白尿组(D2 组)
+165 例,ACR 30 ~ 300 mg / g;临床蛋白尿组(D3 组)133
+例,ACR>300 mg / g。 正常对照组(C 组)192 名(男性
+95 名,女性 97 名),均为本院健康体检者,平均年龄
+(47. 03 ±9. 49)岁。
+二、 方法
+常规记录患者性别、年龄、病程,测量血压、身高、
+体重,并计算 BMI =体重(kg) /身高2(m2)。 所有受试
+者均禁食 12 h 后于次晨空腹采集肘正中静脉血 4 ml,
+放入不加抗凝剂的无菌离心管内,测定空腹血糖
+(FPG)、空腹胰岛素(FINS)和 HBA1C、总胆固醇(TC)、
+低密度脂蛋白胆固醇(LDL-C)、三酰甘油(TG)、高密
+度脂蛋白胆固醇(HDL-C)、血尿酸、血肌酐、血尿素氮
+(BUN)。 上述静脉血室温静置 30 min 后,4℃,1 000 ´
+g 离心 15 min,取上清;将上清液再于 4℃,2 000×g 离
+心 5 min,存于 EP 管中,低温冰箱-80℃保存备用。 留
+取晨尿测定尿白蛋白(美国 Beckman Coulter IMMAGE
+全自动免疫分析仪)及尿肌酐;并根据相应标本尿肌
+酐浓度计算尿 ACR,取 3 次晨尿测定值的平均值;稳
+态模型评估的胰岛素抵抗指数(HOMA-IR) = FPG ×
+FINS / 22. 5。
+采用酶联免疫吸附法(ELISA)集中检测血清 Sirt1
+(SEE912Hu,武汉云克隆)、 HIF-1α ( KA1247, 台湾
+Abnova)、VEGF(CSB-E11718h,武汉华美)水平。 选择
+570 nm 波长应用全波长酶标仪(美国 Biotek synergy 公
+司)测量各孔 A 值。
+采用实时定量 PCR(qRT-PCR)法检测血清 Mir-
+217。 按说明书使用 miRcute miRNA 分离提取试剂盒
+(中国北京天根生化科技有限公司)。 向待测血清样
+品中加入终浓度 100 fmol / ml(1 μmol =109 fmol)的线虫
+MicroRNA cel-Mir-39 MicroRNA mimic ( QIAGEN,
+Hilden,德国)作为内参照。 其后从各血清样本(400
+滋l)中提取血清总 MicroRNA。 应用 miRcute miRNA 第
+一链 cDNA 合成试剂盒(中国北京天根生化科技有限
+公司)反转录并合成 cDNA。 hsa-Mir-217 引物购自北
+京天根生化科技有限公司。 采用 miRcute miRNA 荧光
+定量检测试剂盒(中国北京天根生化科技有限公司),
+取 3 滋l 合成的 cDNA 作为模板,按说明书配制反应体
+系 20 滋l,使用 Real-time PCR 仪( Thermal Cycler Dice
+Real Time System, TaKaRa)检测。 反应条件: 94℃ 预
+变性 2 min;95°变性 5 s,60℃退火及延伸 40 s,共 45 个
+循环。 反应结束后行产物的熔解曲线分析。 并运用
+2-△△Ct法进行数据分析。
+三、 统计学处理
+实验数据用 x-± s 或中位数(四分位数)表示,统计
+分析用 SPSS 17. 0 统计软件处理。 进行单因素方差分
+析比较各组间指标是否存在差异并进行显著性检验。
+用 Spearman 相关分析血清 Mir-217、 Sirt1、 HIF-1α、
+VEGF、年龄、糖尿病病程、BMI、FPG、HBA1C、HDL-C、
+LDL-C、TC、 TG、 血尿酸、 血肌酐、 BUN、 Ln ( ACR)、
+FINS、HOMA-IR 相互之间相关性,用多元逐步主成份
+回归分析 ACR 相关因素和 ACR 之间的关系。 必要时
+进行对数转化。 P<0. 05 为差异有显著统计学意义。
+结    果
+一、 各组一般资料比较
+2 型糖尿病各组年龄、性别构成与对照组比较差
+异无统计学意义。 D1 组、D2 组、D3 组的糖尿病病程、
+FPG、HBA1C、TG、FINS、HOMA-IR 水平显著高于 C 组。
+在 DM 患者中,D2 组、D3 组 DM 病程、FPG、HBA1C、
+TC、TG、血尿酸、BUN、Ln(ACR)、FINS、HOMA-IR 明显
+高于 D1 组,而 D3 组糖尿病病程、HBA1C、LDL-C、TC、
+TG、血尿酸、BUN、Ln(ACR)、HOMA-IR 水平明显高于
+D2 组(表 1)。
+二、 各血清指标含量及组间比较
+D1、D2、D3 组血清 HIF-1α、VEGF 含量明显高于
+对照组,且随着 Ln(ACR)的升高而升高(P<0. 01)。
+D1、D2、D3 组血清 Sirt1 含量显著低于对照组,且随着
+Ln(ACR)的升高而降低(P<0. 01,表 1)
+三、 血清 Mir-217 相对含量在各组间比较
+2 型糖尿病患者血清 Mir-217 水平在 D1、D2、D3
+组均显著高于对照组,且伴随 Ln(ACR)的升高,在
+D1、D2、D3 组 Mir-217 呈递增趋势,差异均有统计学意
+义(均 P<0. 01,图 1)。
+四、 Ln(ACR)与各种因素相关关系
+Ln(ACR)与年龄、糖尿病病程、BMI、FPG、FINS、
+HOMA-IR、 HBA1C、 LDL-C、 TC、 TG、 血 尿 酸、 BUN、
+HIF-1α、VEGF、Mir-217 呈正相关( r = 0. 108、0. 312、
+0. 091、0 . 146、0 . 113、0 . 321、0 . 266、0 . 144、0 . 254、
+表 1  各组各种临床指标及血清生物标记物含量比较[x-± s,中位数(四分位数)]
+Tab 1  Comparison of clinical parameter and serum biomarker levels among various groups[x-± s, M(quartile)]
+组别
+Group
+例数
+n
+男 / 女
+Male / Female
+年龄
+(岁)
+Age
+(year)
+DM 病程
+(年)
+DM duration
+(year)
+BMI
+(kg / m2)
+FPG
+(mmol / L)
+HBA1C
+(% )
+HDL-C
+(mmol / L)
+C  192 95 / 97 54. 03 ± 9. 49 - 25. 10 ± 3. 28 5. 14 ± 0. 49 5. 36 ± 0. 32 1. 35 ± 0. 33
+D1 181 85 / 96 54. 69 ± 11. 74 6. 48 ± 6. 34b 25. 34 ± 3. 12 9. 01 ± 3. 05b 8. 09 ± 2. 07b 1. 11 ± 0. 31b
+D2 165 77 / 88 56. 04 ± 13. 38 8. 18 ± 6. 88bd 26. 05 ± 3. 83bc 10. 76 ± 3. 90bd 9. 11 ± 2. 04bd 1. 03 ± 0. 31bc
+D3 133 63 / 70 56. 59 ± 11. 85 11. 75 ± 6. 82bdf 25. 77 ± 2. 73 10. 18 ± 3. 88bd 9. 57 ± 2. 41bde 1. 04 ± 0. 27bc
+组别
+Group
+例数
+n
+LDL-C
+(mmol / L)
+TC
+(mmol / L)
+TG
+(mmol / L)
+SUA
+(μmol / L)
+SCr
+(μmol / L)
+BUN
+(mmol / L)
+C  192 3. 00 ± 0. 95 4. 70 ± 1. 06 1. 20 ± 0. 62 288. 83 ± 73. 84 54. 28 ± 10. 76 5. 39 ± 1. 05
+D1 181 3. 05 ± 0. 80 4. 73 ± 0. 94 2. 00 ± 1. 40b 283. 74 ± 87. 97 56. 30 ± 11. 23 5. 12 ± 1. 04a
+D2 165 3. 06 ± 0. 98 5. 00 ± 1. 30ac 3. 02 ± 2. 69bd 317. 44 ± 85. 89bd 57. 16 ± 11. 90a 5. 37 ± 0. 96c
+D3 133 3. 51 ± 1. 23bdf 5. 56 ± 1. 34bdf 3. 63 ± 3. 28bde 358. 22 ± 80. 79bdf 58. 66 ± 10. 83b 6. 40 ± 0. 96bdf
+组别
+Group
+例数
+n
+ACR
+(mg / g)
+FINS
+(mIU / L) HOMA-IR
+Sirt1
+(ng / ml)
+HIF-1α
+(pg / ml)
+VEGF
+(pg / ml)
+C  192 12. 59(12. 05-13. 12)     6. 56(6. 16-6. 96)   1. 47(1. 37-1. 57)   10. 14 ± 4. 25   16. 84 ± 6. 62   107. 69 ± 28. 62
+D1 181 14. 38(13. 09-15. 68) 11. 29(10. 36-12. 23) b 4. 44(4. 02-4. 86) b 8. 31 ± 3. 81b 23. 21 ± 7. 08b 128. 15 ± 17. 04b
+D2 165 92. 83(83. 13-102. 53) bd 13. 87(12. 09-15. 64) bd 6. 61(5. 73-7. 48) bd 6. 65 ± 3. 49bd 30. 60 ± 5. 02bd 143. 86 ± 23. 73bd
+D3 133 2 034. 25(1 596. 92-2 471. 57) bdf 14. 34(12. 36-16. 31) bd 7. 66(6. 59-8. 73) bde 5. 19 ± 3. 38bdf 35. 78 ± 3. 87bdf 181. 48 ± 21. 58bdf
+注:ACR:尿白蛋白 / 尿肌酐比值 Urinary albumin to creatinine ratio; C:正常对照组 Control group;D1:正常蛋白尿组 Normal proteinuria group,ACR<30
+mg / g;D2:微量蛋白尿组 Microalbuminuria group, ACR 30 ~ 300 mg / g;D3:临床蛋白尿组 Clinical proteinuria group, ACR>300 mg / g; DM:糖尿病 Diabetes
+mellitus;BMI:体重指数 Body mass index;FPG:空腹血糖 Fasting plasma glucose;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:
+低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;TC:总胆固醇 Total cholesterol;TG:三酰甘油 Triglyceride;SUA:血尿酸 Serum uric acid;SCr:血肌
+酐 Serum creatinine;BUN:血尿素氮 Blood urea nitrogen;FINS:空腹胰岛素 Fasting insulin;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model
+assessment of insulin resistance index;Sirt1:沉默信息调节因子 1 Silent information regulator 1; HIF-1α:低氧诱导因子 1α Hypoxia-inducible factor-1α;VEGF:
+血管内皮生长因子 Vascular endothelial growth factor;与 C 组相比 vs C group,aP<0. 05,bP<0. 01;与 D1 组相比 vs D1 group,cP<0. 05,dP<0. 01;与 D2 组相
+比 vs D2 group,eP<0. 05,fP<0. 01
+注:略语同表 1 The abbreviations are the same as Tab 1;与 C 组相比 vs C group,aP<0. 01;与 D1 组相比 vs D1 group,bP<0. 01;与 D2 组相比 vs D2
+group,cP<0. 01
+图 1  实时荧光定量 PCR 检测 Mir-217 在糖尿病患者及正常对照者血清中的表达
+Fig 1  Relative expression of serum Mir-217 in diabetic patients and healthy subjects
+表 2  ACR 与各种因素相关关系
+Tab 2  Associations of ACR with various factors
+指标
+Parameter
+Ln(ACR)
+rs P
+年龄
+Age 0. 108 0. 019
+DM 病程
+DM duration 0. 312 <0. 01
+BMI 0. 091 0. 046
+FPG 0. 146 0. 001
+FINS 0. 113 0. 014
+HOMA-IR 0. 321 <0. 01
+HBA1C 0. 266 <0. 01
+HDL-C -0. 110 0. 016
+LDL-C 0. 144 0. 002
+TC 0. 254 <0. 01
+TG 0. 275 <0. 01
+UA 0. 298 <0. 01
+BUN 0. 401 <0. 01
+Sirt1 -0. 263 <0. 01
+HIF-1α 0. 666 <0. 01
+VEGF 0. 663 <0. 01
+Mir-217 0. 487 <0. 01
+注:Ln ( ACR):尿白蛋白 / 尿肌酐比值对数值 Urinary albumin to
+creatinine ratio was transformed into logarithm;Mir-217:MicroRNA-217;余略
+语同表 1 The other abbreviations are the same as Tab 1
+0. 275、 0. 298、 0. 401、 0. 666、 0. 663、 0. 487, 均 P <
+0. 05);与 HDL-C、Sirt1 呈负相关( r = -0. 110、-0. 263,
+均 P<0. 05,表 2)。
+五、 Ln(ACR)与相关因素的多元逐步主成份回归
+以 Ln ( ACR) 为因变量,以年龄、糖尿病病程、
+BMI、FPG、FINS、HOMA-IR、HBA1C、LDL-C、TC、TG、血
+尿酸、 BUN、HIF-1α、 VEGF、血清 Mir-217、 HDL-C 及
+Sirt1 为自变量进行多元逐步主成份回归分析,结果显
+示 VEGF、HIF-1α、Mir-217、BUN、糖尿病病程、LDL-C、
+表 3  ACR 与相关因素的多元逐步主成份回归
+Tab 3 Multivariate stepwise principle component regression analysis
+of ACR and its related factors
+变量
+Variable B SE β t P
+常量
+Constant 1. 845 0. 398 4. 632 <0. 01
+主成份
+Principal component 1. 227 0. 062 0. 628 19. 771 <0. 01
+BUN 0. 211 0. 052 0. 121 4. 047 <0. 01
+DM 病程
+DM duration 0. 037 0. 008 0. 132 4. 650 <0. 01
+LDL-C 0. 260 0. 054 0. 135 4. 830 <0. 01
+Sirt1 -0. 045 0. 015 -0. 087 -3. 063 0. 002
+SUA 0. 002 0. 001 0. 081 2. 821 0. 005
+注:主成份=0. 821×VEGF+0. 827×HIF-1α+0. 726×Mir-217;SE: 标
+准误 Standard error; β:标准回归系数 Standard regression coefficient; 余略
+语同表 1 The other abbreviations are the same as Tab 1
+Sirt1 以及血尿酸是影响 Ln ( ACR) 的主要因素。
+YLn(ACR)= 1. 845+1. 227主成份 +0. 211BUN +0. 037糖尿病病程 +
+0. 260LDL-C +0. 002血尿酸 -0. 045Sirt1(P<0. 01,主成份 =
+0. 821 ´VEGF+0. 827×HIF-1α+0. 726×Mir-217,表 3)。
+六、 Mir-217 与各种因素相关关系
+Mir-217 与糖尿病病程、HOMA-IR、HBA1C、Ln(ACR)、
+LDL-C、TC、TG、血尿酸、BUN、HIF-1α 及 VEGF 呈正相
+关( r = 0. 191、 0. 189、 0. 140、 0. 487、 0. 092、 0. 192、
+0. 172、0. 176、0. 241、0. 407、0. 371,均 P<0. 05),与 Sirt1
+呈负相关( r = -0. 156,P = 0. 001)。 以 Log (Mir-217)
+为因变量,糖尿病病程、HOMA-IR、HBA1C、Ln(ACR)、
+LDL-C、TC、TG、血尿酸、BUN、HIF-1α、VEGF 及 Sirt1
+为自变量进行多元逐步回归分析,结果显示 Ln(ACR)
+及 HIF-1α 是 影 响 Log ( Mir-217 ) 的 主 要 因 素。
+YLog(Mir-217)= -0. 141+0. 047Ln(ACR) +0. 005HIF-1α(P<0. 01)。
+讨    论
+糖尿病肾病是终末期肾病最常见的原因[17]。 既
+往研究发现,慢性炎症反应、肾脏纤维化[18] 和新生血
+管形成[13]均参与糖尿病肾病的发生和发展。 美国一
+项研究显示,30% ~ 40% 的终末期肾病由糖尿病肾病
+引起,且其 5 年生存率可低至 34% [19]。 然而,在高糖
+状态下,在尿白蛋白升高前可能已经存在肾脏损伤,所
+以发现新的有效的血清生物学标记物对糖尿病肾病的
+早期诊断和治疗均至关重要。
+一些 MicroRNA,如 Mir-126、Mir-221 已被证实是
+一些炎症介质的重要转录调节因子[3]。 Chung 等[4]也
+指出,MiR-21、MiR-192 等 MicroRNA 通过转化生长因
+子 β1(TGF-β1)参与肾脏纤维化。 Hagiwara 等[6] 认为
+MicroRNA 通过调节肾素-血管紧张素系统参与糖尿病
+肾病的氧化应激反应。 Li 等[5] 证实,MicroRNA 通过
+VEGF 在肿瘤等疾病中参与新生血管的形成。 而上述
+提到的慢性炎症反应、肾脏纤维化、氧化应激及新生血
+管形成等均是公认的糖尿病肾病的发病机制,提示
+MicroRNA 可能通过上述机制参与糖尿病肾病的发病
+过程。
+Higuchi 等[20]指出,特异性血清 MicroRNA 已经成
+为 2 型糖尿病新的生物学标记物和新的治疗靶点。 既
+往的基础研究发现,在糖尿病小鼠的肾脏和系膜细胞
+中,高糖可以诱导 Mir-217 表达升高[21],然而不同尿白
+蛋白排泄率 2 型糖尿病患者血清 Mir-217 的水平及其
+与糖尿病肾病的关系目前不清楚。 本研究对上述问题
+进行了初步探索,首次报道不同尿白蛋白排泄率患者
+血清 Mir-217 水平变化,且分析其参与糖尿病肾病的
+可能机制。
+本研究发现,与对照组相比,2 型糖尿病患者血清
+Mir-217 水平显著升高,而且血清 Mir-217 与 HBA1C及
+HOMA-IR 呈正相关,说明 Mir-217 与 2 型糖尿病的血
+糖水平有关,并可能参与胰岛素抵抗的发生。 本研究
+还观察到,在 2 型糖尿病患者中,随着尿白蛋白的升高,
+血清 Mir-217 水平逐渐升高;相关分析显示 Mir-217 与
+Ln(ACR)呈正相关,多元逐步回归分析发现 Mir-217 是
+ACR 的独立影响因素。 所以,我们认为 Mir-217 可能
+成为糖尿病肾病早期诊断新的血清生物标志物,推测
+血清 Mir-217 升高参与了糖尿病肾病的发生和发展。
+Sirt1 是 NAD+依赖的去乙酰化酶,通过维持肾小
+球屏障功能、抗纤维化、抗氧化应激、调节线粒体功能
+等在肾脏起保护作用[22]。 本研究发现,2 型糖尿病患
+者血清 Sirt1 水平显著低于对照组,随着尿白蛋白升
+高,Sirt1 水平逐渐下降。 相关分析提示, Sirt1 与
+Ln(ACR)呈负相关,且多元逐步回归分析发现 Sirt1 是
+ACR 的独立影响因素,提示血清 Sirt1 降低可能参与糖
+尿病肾病的发生和发展。
+高糖诱导 HIF-1α 水平升高,进而促进肾脏纤维
+化[23]。 不成熟的异常血管生成是糖尿病肾病的发病
+机制之一,高糖条件下,高表达的 HIF-1α 刺激其下游
+VEGF 水平升高,从而诱导新生血管的形成,进而促进
+糖尿病肾病的发生发展[24]。
+本研究观察到血清 HIF-1α 及 VEGF 水平显著高
+于对照组,随着尿白蛋白升高,HIF-1α 及 VEGF 水平
+逐渐升高。 相关分析发现,HIF-1α、VEGF 与 Ln(ACR)
+呈正相关,而多元逐步回归分析提示 HIF-1α 及 VEGF
+均是 ACR 的独立影响因素。 由此推测 2 型糖尿病患
+者血清 HIF-1α 及 VEGF 升高可能参与糖尿病肾病的
+发生和发展。
+基础研究发现,Mir-217 可以通过结合 Sirt1 的 3忆
+端非翻译区(3忆-UTR)抑制其合成[9],Mir-217 相当于
+Sirt1 的内源性抑制剂[14]。 而 Sirt1 与 HIF-1α 结合,使
+其发生去乙酰化作用进而失活[15,25]。 本研究发现,
+Mir-217 与 Sirt1 呈负相关,与 HIF-1α 及 VEGF 呈正相
+关,提示血清 Mir-217 可能通过降低 Sirt1、升高 HIF-1α
+及 VEGF 参与糖尿病肾病的发生和发展。
+本研究还发现,LDL-C 和血尿酸是 ACR 的独立危
+险因素,与既往研究结果一致[26]。 脂代谢异常在糖尿
+病肾病的发展中起到重要作用,Zhang 等[27]发现,高糖
+干扰足细胞中 LDL 受体的反馈调节,使细胞内的脂质
+积累、足细胞表型发生改变,从而促进糖尿病肾病的发
+生和发展。 尿酸也通过促进肾小管间质损伤加剧糖尿
+病肾病[28]。 本研究还观察到,血清 Mir-217 与 LDL-C
+及血尿酸呈正相关。 因此认为血清 Mir-217 也可能通
+过参与代谢紊乱而加速糖尿病肾病的进程。
+总之,本实验观察到 2 型糖尿病患者血清 Mir-217
+水平高于正常对照组,且随着尿白蛋白升高逐渐升高,
+Mir-217 显著升高早于尿白蛋白,因此血清 Mir-217 可
+能成为糖尿病肾病新的生物学标记物。 血清 Mir-217
+可能通过促进慢性炎症反应、肾脏纤维化、新生血管形
+成、参与代谢紊乱等途径而推进糖尿病肾病的进程。

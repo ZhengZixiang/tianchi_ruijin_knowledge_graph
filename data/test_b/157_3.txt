@@ -1,0 +1,319 @@
+临床研究
+糖尿病合并腕管综合征患者神经传导速度的
+分析
+陈明月  蔡慧敏  陈江云  张宁  王蕊
+[摘要]   目的  通过神经传导速度(Nerve conduction velocity, NCV)分析,探讨糖尿病合并腕管综合
+征(Carpal tunnel syndrome, CTS)患者的神经损伤特点和发病情况。 方法 选取于 2011 年 7 月 1 日至 2014
+年 10 月 1 日在开封市中心医院住院的 2 型糖尿病患者 387 例为研究对象,测定四肢神经传导速度,进行同
+名神经左和右、同名神经男性和女性之间的比较,并重点对正中神经进行分段检测。 结果 在 387 例糖尿
+病患者中,333 例存在神经传导异常,其中 162 例存在 CTS,患病率为 41. 9% 。 感觉神经损伤多于运动神经
+损伤。 优势手损伤的较多,但相当一部分双侧都有损伤。 162 例合并 CTS 患者中有腕管综合征症状和体征
+者 91 例,其余患者并无明显的临床表现和体征。 左、右正中神经感觉神经传导速度 ( Sensory nerve
+conduction velocity, SCV)异常率分别为 25. 6% 、34. 1% ,右侧异常率明显高于左侧(P = 0. 012);左、右正中
+神经运动神经传导速度(Motor nerve conduction velocity, MCV)异常率分别为 29. 5% 、40. 3% ,右侧异常率高
+于左侧(P=0. 020);其他神经 NCV 异常率双侧比较差异无统计学意义。 左侧正中神经 SCV 男、女异常率
+分别为 21. 4% 、30. 5% ,女性异常率高于男性(P=0. 047);右侧正中神经 SCV 男、女异常率分别为 28. 6% 、
+40. 1% ,女性异常率高于男性(P=0. 013);其他神经 NCV 异常率男性和女性比较无统计学意义。 结论 糖
+尿病患者合并 CTS 较高,首先是感觉神经损伤,其次是运动神经损伤,优势手容易损伤。
+[关键词]   腕管综合征; 神经传导速度; 糖尿病周围神经病变
+Analysis of nerve conduction velocity in diabetics combined with carpal tunnel syndrome Chen Mingyue, Cai
+Huimin, Chen Jiangyun, Zhang Ning,Wang Rui. The Department of Nerve Electrophysiology, The Central Hospital of
+Kaifeng, Kaifeng 475000, China
+[Abstract]   Objective   To investigate the characteristics of nerve injury and incidence of carpal tunnel
+syndrome(CTS) in diabetic patients by measuring the nerve conduction velocity (NCV). Methods A total of 387
+inpatients with type 2 diabetes were selected in Kaifeng Central Hospital from July 1, 2011 to October 1, 2014. The
+abnormal rates of NCV between left and right or male and female for the same name nerve were compared. The
+examinations to median nerves were paid particular attention and the segmental test was performed. Results Among
+387 patients, 333 cases showed abnormal NCV, and 162 patients (41. 9% ) presented with CTS. The incidence of
+sensory nerve injury was higher than that of motor nerve injury. The nerve injury often occurred in the dominant hand,
+but the injury of bilateral hand were also found in some patients. In 162 patients with CTS, 91 patients presented with
+clinical manifestations and signs, and the rest were without discomfort in their hands. The percentages of SCV(34. 1%
+vs 25. 6% , P=0. 012) and MCV(40. 3% vs 29. 5% , P=0. 020) abnormality in the right median nerve were higher
+than those in the left side. No significant difference of the other nerves was found between left and right. Significant
+differences in the percentages of abnormality in SCV of the left median nerve (21. 4% vs 30. 5% , P=0. 047) and the
+right median nerve (28. 6% vs 40. 1% , P=0. 013) between man and woman were found. The abnormal rates of other
+nerves were without statistically significant between man and women. Conclusions The incidence of CTS is high in
+diabetic patients. Usually, it firstly occurs in sensory nerves, followed by motor nerves, especially in the dominant
+hand.
+[Key words]  Carpal tunnel syndrome; Nerve conduction velocity; Diabetic peripheral neuropathy
+(Chin J Endocrinol Metab, 2016, 32: 273-276)
+糖尿病周围神经病变是糖尿病常见的慢性并发
+症,腕管综合征(Carpal tunnel syndrome, CTS)又称迟
+发性正中神经麻痹,主要是由于正中神经在腕部受到
+卡压,糖尿病周围神经病变并发 CTS 的发病率较高,
+CTS 也是糖尿病周围神经病变的表现形式之一,二者
+关系紧密,相互影响。 一部分 CTS 患者并没有明显的
+临床表现和体征,不能及时得到治疗,以致出现严重的
+后果。 本文通过测定 387 例糖尿病患者的神经传导速
+度来分析糖尿病并发 CTS 患者神经损伤的特点及其
+发病情况。
+对象和方法
+一、 对象
+选取于 2011 年 7 月 1 日至 2014 年 10 月 1 日在
+开封市中心医院住院的 2 型糖尿病患者 387 例,其中
+男性 210 例,女性 177 例,平均年龄(59. 29 ±12. 41)岁
+(25 ~ 84 岁)。 387 例糖尿病患者均选取右侧肢体为
+优势肢体的患者。 入选的 387 例患者均符合 1999 年
+世界卫生组织公布的糖尿病诊断标准[1],患者排除标
+准:(1)合并其他原因所致的周围神经病变(如严重脊
+椎病、严重肝肾疾病、遗传性及代谢性疾病、缺乏营养、
+结缔组织病、外伤、神经肌肉病等);(2)服用可导致周
+围神经损伤的药物(如痢特灵、雷米封等);(3)长期饮
+酒史及某些有毒物质(如农药、重金属等)接触史[2]。
+研究获得患者的知情同意和开封市中心医院伦理委员
+会的批准。
+二、 方法
+1. 神经传导速度测定:采用英国牛津 Medelec
+Synergy 5 通道肌电图诱发电位仪,仪器位于独立的远
+离电源的房间,室内保持安静,室温保持在 25℃以上,
+肢体温度保持在 32℃ ~ 36℃,肢体温度低者给予升
+温,受试者取平卧位,充分暴露肢体,肢体放松,清洁皮
+肤后进行,刺激强度 20 ~ 100 mA,刺激频率 1 Hz,灵敏
+度 5 000 uv / div,刺激脉冲波宽 0. 2 ms,扫描速度 3
+ms / div。检测双侧正中神经、双侧尺神经、双侧腓总神
+经、双侧胫神经的运动神经传导速度 ( Motor nerve
+conduction velocity, MCV)以及双侧正中神经、双侧尺
+神经、双侧腓肠神经的感觉神经传导速度 ( Sensory
+nerve conduction velocity, SCV)。 对糖尿病合并 CTS 患
+者运动神经损伤和感觉神经损伤进行比较,并进行单
+侧手、双侧手及优势手之间的比较,同时进行同名神经
+左和右、同名神经男性和女性之间的比较。 NCV 正常
+值参考由崔丽英编写的《简明肌电图手册》 [3],不同年
+龄、不同神经均不相同。 重点分段检测正中神经:正中
+感觉神经于腕横纹上 2 cm 记录,分别刺激指域和指
+3,正中神经运动神经分段测定掌部至腕部及腕部至
+肘部的传导速度。 糖尿病 CTS 的诊断标准:(1)手部
+症状和(或)体征:手部桡侧 3 个半指麻木、疼痛,拇指
+无力、大鱼际萎缩;(2)电生理检测显示腕以下正中神
+经选择性传导异常;(3)除外其他疾病(如多发性周围
+神经病、退行性颈椎神经根型、胸廓出口综合征、旋前
+圆肌综合征、运动神经元病等)及正中神经近端受损
+所致的正中神经损害。 CTS 电生理诊断标准:为腕以
+下正中神经选择性的传导异常,即正中神经末端运动
+传导潜伏期(DML)延长,指域-腕和(或)指3-腕 SCV
+减慢,动作电位波幅(SNAP)降低,肌电图拇短展肌伴
+或不伴失神经表现。
+三、 统计学处理
+运用 SPSS 17. 0 软件进行统计学分析,计数资料
+用率表示,组间比较采用卡方检验。
+结    果
+一、 162 例糖尿病合并腕管综合征患者的神经传
+导情况
+将 162 例糖尿病患者根据神经损伤的部位分为单
+侧神经损伤、双侧神经损伤及优势侧损伤 3 组,分别有
+56 例(34. 6% )、106 例(65. 4% )和 121 例(74. 7);根
+据神经损伤的类型将 162 例患者分为单纯运动神经损
+伤、单纯感觉神经损伤、运动感觉共同损伤 3 组,分别
+有 24 例(14. 8% )、68 例(50. 0% )和 70 例(43. 2% )
+患者。
+二、 162 例糖尿病合并 CTS 患者运动神经和感觉
+神经损伤的比较
+糖尿病合并 CTS 患者共 162 例,其中 94 例存在运
+动神经损伤,异常率为 58. 0% ,138 例存在感觉神经损
+伤,异常率为 58. 0% ,感觉神经损伤异常率高于运动
+神经损伤异常率(P<0. 01)。
+三、 387 例糖尿病患者有无 CTS 症状组 NCV 的测
+定结果
+387 例糖尿病患者中无腕管综合征临床症状者
+280 例,其中 71 例存在 NCV 异常,异常率 25. 4% ,有
+CTS 临床症状者 107 例,其中 91 例存在 NCV 异常,异
+常率为 85. 0% 。
+四、 糖尿病合并 CTS 的患病率
+在 387 例糖尿病患者中,有 333 例存在神经传导
+异常,其中有 162 例存在 CTS,患病率为 41. 9% ,其中
+有 CTS 症状和体征者 91 例,71 例 CTS 患者无症状和
+体征,单纯发现 CTS 的患者有 26 例,其中 106 例患者
+存在双侧异常,有 56 例患者存在单侧异常。 其中分段
+检测的结果为 86 例存在左侧正中神经运动神经掌-腕
+神经传导速度异常,异常率为 22. 2% ,98 例腕-肘神经
+传导速度异常,异常率为 25. 3% ;92 例右侧正中神经
+运动神经掌-腕神经传导速度异常,异常率为 23. 8% ,
+113 例腕-肘神经传导速度异常,异常率为 29. 2% 。
+五、 糖尿病患者同名神经左、右 NCV 的比较结果
+同名神经左侧和右侧的 NCV 相互比较,其中正中
+神经的 MCV 和 SCV 左、右异常率比较差异有统计学
+表 1  糖尿病患者同名神经左、右异常率比较[n(% )]
+Tab 1  Comparison of abnormal rate between left and right nerves for the same name in diabetic patients [n(% )]
+组别
+Group
+例数
+n
+正中神经
+Median nerve
+尺神经
+Ulnar nerve
+腓总神经
+Common peroneal nerve
+胫神经
+Tibial nerve
+腓肠神经
+Sural nerve
+MCV SCV MCV SCV MCV MCV SCV
+左侧
+Left 387 114(29. 5) 99(25. 6) 57(14. 7) 87(22. 5) 183(47. 3) 207(53. 5) 210(54. 3)
+右侧
+Right 387 156(40. 3)
+a 132(34. 1) a 66(17. 1) 90(23. 3) 198(51. 2) 207(53. 5) 225(58. 1)
+注:MCV:运动神经传导速度 Motor nerve conduction velocity;SCV: 感觉神经传导速度 Sensory nerve conduction velocity;与左侧比较 vs Left,aP<0. 05
+表 2  糖尿病患者感觉神经传导速度异常率男性和女性比较[n(% )]
+Tab 2  Comparison of abnormal rate of sensory nerve conduct velocity between male and female diabetics [n(% )]
+组别
+Group
+例数
+n
+左正中神经
+Left median nerve
+右正中神经
+Right median nerve
+左尺神经
+Left ulnar nerve
+右尺神经
+Right ulnar nerve
+左腓肠神经
+Left sural nerve
+右腓肠神经
+Right sural nerve
+男性
+Male 210 45(21. 4) 60(28. 6) 48(22. 9) 48(22. 9) 111(52. 9) 116(55. 2)
+女性
+Female 177 54(30. 5)
+a 72(40. 7) a 45(22. 0) 42(23. 7) 99(55. 9) 109(61. 6)
+注:与男性比较 vs Male,aP<0. 05
+表 3  糖尿病患者运动神经传导速度异常率男性和女性比较[n(% )]
+Tab 3  Comparison of abnormal rate of motor nerve conduct velocity between male and female diabetics [n(% )]
+组别
+Group
+例数
+n
+左正中神经
+Left median
+nerve
+右正中神经
+Right median
+nerve
+左尺神经
+Left ulnar
+nerve
+右尺神经
+Right ulnar
+nerve
+左腓总神经
+Left common
+peroneal nerve
+右腓总神经
+Right common
+peroneal nerve
+左胫神经
+Left tibial
+nerve
+右胫神经
+Right tibial
+nerve
+男性
+Male 210 69(32. 9) 86(41. 0) 29(13. 8) 39(18. 6) 111(50. 5) 110(52. 4) 111(50. 5) 111(50. 5)
+女性
+Female 177 45(25. 4) 70(39. 5) 28(15. 8) 27(15. 3) 72(40. 7) 88(49. 7) 96(54. 2) 96(54. 2)
+意义(均 P<0. 05),其他神经左、右异常率比较无统计
+学意义(表 1)。
+六、 糖尿病患者同名神经男、女 NCV 的比较结果
+将 387 例糖尿病患者分为男性和女性 2 组,其中
+男性 210 例,女性 177 例,分别比较正中神经、尺神经、
+腓肠神经 SCV 以及正中神经、尺神经、腓总神经、胫神
+经 MCV 的异常率,左、右两侧分开计算比较。 其中双
+侧正中神经 SCV 女性异常率高于男性,其他神经男性
+和女性异常率差异无统计学意义(表 2、表 3)。
+讨    论
+CTS 是临床中最常见的嵌压性周围神经病,主要
+是因为各种原因导致的正中神经在腕管内受到压迫,
+继而产生正中神经支配区神经功能障碍,腕管是由腕
+横韧带和腕骨形成一个管道,这个狭小的管道内容物
+十分丰富,而正中神经位置最表浅,而腕横韧带致密而
+且弹性差,在这个狭小而且弹性差的空间中正中神经
+十分容易受压。 再加上职业性手腕受累、女性干家务
+等活动因素以及糖尿病等全身系统疾病,造成腕管内
+的相对容积更加狭小,CTS 就更容易在这类人群身上
+发生。 在 387 例糖尿病患者中有 333 例存在神经传导
+异常,其中 162 例存在 CTS,患病率为 41. 9% ,有着较
+高的患病率,单纯发现 CTS 的患者有 26 例。 本研究
+中患病率较高可能与选取的患者均为住院患者病程较
+长有关。 本研究 162 例糖尿病合并 CTS 患者神经传
+导异常主要表现为正中神经感觉神经传导速度减慢,
+诱发电位波幅减低,其次表现为正中神经运动神经远
+端潜伏期延长,动作电位波幅减低,说明糖尿病合并
+CTS 患者早期是感觉神经损伤,继而发展为运动神经
+损伤,同时也说明了糖尿病合并 CTS 患者的正中神经
+损伤既有脱髓鞘病变又有轴索损伤。 本研究中发现
+CTS 损伤最多的是优势手,但相当一部分是双侧损伤,
+这就要求糖尿病患者应该避免优势手过度劳累,尽量
+减少腕关节活动。 另外临床中很多患者以优势手麻木
+力弱为主诉就诊,但通过本研究发现双侧 CTS 的患者
+相当多,所以在检查过程中要对非优势手、无症状手进
+行检查,避免漏诊。 在 387 例糖尿病患者的 NCV 检测
+中正中神经运动神经的异常率高于感觉神经,而在诊
+断为 CTS 患者中感觉神经的异常率高于运动神经,这
+是因为在 387 例糖尿病患者中一部分患者的正中神经
+损伤并非腕以下神经传导异常,而是近端的损伤,这就
+要考虑多发性周围神经病等疾病,不能把正中神经损
+伤统一归结为 CTS,而影响了疾病的正确治疗。
+本研究中右侧正中神经 SCV 和 MCV 异常率高于
+左侧,其他神经左、右相比无统计学意义,推测这可能
+是因为右侧手腕用的较多,右侧 CTS 患病率高于左
+侧,同时双侧正中神经 SCV 女性异常率高于男性,其
+他神经男性和女性异常率比较无统计学意义,女性手
+腕用的较多,另外女性的激素水平变化容易累及腕周
+组织[4],女性 CTS 患病率高于男性,以上 2 种比较均
+可提示一部分 DPN 的诊断合并 CTS。 在比较多根神
+经左、右侧以及男性、女性时,仅正中神经有统计学意
+义,这更提示糖尿病周围神经病变患者的神经病变中
+有一部分合并或仅为 CTS。 国外有报道,代谢综合征
+患者 CTS 发生率是无代谢综合征患者的 3 倍[5]。 在
+糖尿病周围神经病变中,多发性周围神经病变最为常
+见,其次为 CTS[6]。 对于糖尿病引起的 CTS,临床上往
+往笼统地按照糖尿病引起的周围神经病变进行治疗,
+没有及时解除压迫,造成病程逐步发展,最终影响手部
+功能。 作为全身性疾病的糖尿病对全身结缔组织产生
+一定的影响。 大部分学者认为,血糖升高,蛋白质糖基
+化、果糖、山梨醇的堆积以及肌醇减少,Na+ -K+ -ATP 酶
+活性降低,造成血管缺血缺氧,神经细胞轴索水肿、变
+性、坏死,雪旺细胞髓鞘损害,神经内膜、束膜、雪旺细
+胞、毛细血管等处基底膜增厚也会诱发周围神经病
+变[7],因此,糖尿病患者的周围神经容易出现肿胀、变
+性。 神经肿胀容易造成解剖狭窄处的神经受压。 糖尿
+病患者全身肌腱、滑膜、韧带在长期高血糖的作用下容
+易充血和水肿,腕管、肘管、踝管等这些神经解剖学狭
+窄通道的纤维结缔组织肥厚、水肿,神经组织如果受到
+持续压迫,就会形成局部神经卡压。 严重持久的压迫
+造成神经纤维发生脱髓鞘病变,甚至引起远端轴索崩
+解,髓鞘发生 Waller 变性[8]。 女性和糖尿病均为 CTS
+的高致病因素[9]。
+在 DPN 的诊断中一定要注意鉴别诊断,避免 DPN
+掩盖了其他疾病。 糖尿病患者常出现手、足麻木、活动
+受限等神经病变症状,在内科治疗中医师经常将其当
+做 DPN 进行内科治疗,局部神经卡压往往被忽略掉,
+错过了最佳的治疗时间,如果卡压持续存在,局部神经
+胶原蛋白的增多会造成神经纤维化改变,影响神经减
+压后的治疗效果[10]。 在一项针对糖尿病和非糖尿病
+患者的周围神经减压术效果研究中发现在二组人群中
+手术意义同样重要[11]。 外科医师的治疗经常单纯应
+用手术解除神经卡压,往往忽略了患者血糖水平的控
+制,影响神经减压后的效果,增加了感染发生几率。 所
+以对于神经卡压综合征合并糖尿病的患者,手术减压
+和控制血糖都很重要,二者必须相互结合,才能及时并
+有效地进行治疗。 DPN 的诊断必须根据患者的临床
+表现和病程、检查等综合判断糖尿病患者是否合并其
+它疾病,从而制订合适的治疗方案。 格林巴利、运动神
+经元病、POEMS 综合征等疾病的临床表现可能与 DPN
+的临床表现有相似的地方,如果糖尿病患者存在这些
+疾病,容易被诊断为 DPN,国内有一项针对 POEMS 的
+研究,回顾性分析研究 13 例确诊 POEMS 综合征的患
+者最初诊断均误诊,误诊率 100% ,多数被误诊为
+DPN[12]。 这就要求对于糖尿病患者合并 DPN 者应注
+意与其他神经病变的鉴别诊断。 DPN 的诊断必须排
+除糖尿病以外的所有疾病。
+需要对糖尿病患者进行 NCV 筛查,以发现患病率
+较高的 CTS。 本研究表明 NCV 可以发现无临床表现
+的 CTS,争取对糖尿病合并 CTS 进行早期诊断、早期治
+疗。 本研究发现糖尿病患者较早出现感觉神经损伤,
+损伤最多的是优势手。 因此应在神经损伤的早期阶段
+积极进行内外科结合治疗,减少优势手腕关节劳累,以
+延缓病情的发展,保护手部功能,提高生活质量。

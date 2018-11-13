@@ -1,0 +1,246 @@
+T1	Disease 31 39	甲状腺功能亢进症
+T2	Disease 41 47	冠状动脉痉挛
+T3	Symptom 338 340	心悸
+T4	Symptom 341 342;343 346	食 欲亢进
+T5	Symptom 347 349	多汗
+T6	Symptom 350 352	失眠
+T7	Test 353 355	体重
+T8	Symptom 370 373	无畏寒
+T9	Symptom 374 376	发热
+T10	Symptom 377 378;379 383	颈 前区疼痛
+T11	Test 386 389	FT3
+T12	Test_Value 390 392	升高
+T13	Test 393 396	FT4
+T14	Test_Value 397 399	升高
+T15	Test 400 403	TSH
+T16	Test_Value 404 406	下降
+T17	Disease 411 415;416 419	甲状腺功 能亢进
+T18	Disease 420 422	甲亢
+T19	Drug 426 432	抗甲状腺药物
+T20	Drug 455 459	含夏枯草
+T21	Drug 460 465	猫爪草中药
+T22	Test 491 494	FT3
+T23	Test_Value 495 510	15. 55 pmol / L
+T24	Test_Value 515 537	3. 80 ~ 6. 00 pmol / L
+T25	Test 543 546	FT4
+T26	Test_Value 547 562	27. 93 pmol / L
+T27	Test 580 583	TSH
+T28	Test_Value 584 598	0. 010 mIU / L
+T29	Drug 632 638	抗甲状腺药物
+T30	Symptom 689 693	左侧胸痛
+T31	Symptom 695 699	钝性疼痛
+T32	Anatomy 701 703	左肩
+T33	Disease 766 769	冠心病
+T34	Disease 770 774	高血压病
+T35	Disease 775 778	糖尿病
+T36	Test 800 802	体温
+T37	Test 810 812	脉搏
+T38	Test_Value 813 823	86 次 / min
+T39	Test 824 826	呼吸
+T40	Test_Value 827 833;834 837	20 次 / min
+T41	Test 838 840	血压
+T42	Test_Value 841 854	100 / 42 mmHg
+T43	Test 875 877	身高
+T44	Test_Value 878 884	153 cm
+T45	Test 885 886;887 888	体 重
+T46	Test_Value 889 894	53 kg
+T47	Test 895 899	体重指数
+T48	Test 900 903	BMI
+T49	Test_Value 905 919	22. 64 kg / m2
+T50	Symptom 921 928	双手震颤(+)
+T51	Symptom 929 932;933 936	双眼睑 无浮肿
+T52	Symptom 937 943	双眼轻度突出
+T53	Symptom 944 951	双眼结膜无充血
+T54	Symptom 952 954	水肿
+T55	Symptom 956 962;963 964	甲状腺2°肿 大
+T56	Symptom 965 967	质软
+T57	Symptom 968 971	无压痛
+T58	Symptom 972 977	未触及结节
+T59	Symptom 978 985	可闻及血管杂音
+T60	Symptom 987 991	心界不大
+T61	Test 992 993;994 995	心 率
+T62	Test_Value 996 1006	86 次 / min
+T63	Symptom 1007 1009	律齐
+T64	Symptom 1010 1016	双下肢无水肿
+T65	Test 1022 1027	甲状腺功能
+T66	Test 1028 1031	TT3
+T67	Test_Value 1032 1048	>12. 32 nmol / L
+T68	Test 1065 1068	TT4
+T69	Test_Value 1068 1084	>387. 0 nmol / L
+T70	Test 1101 1104	FT3
+T71	Test_Value 1105 1121	>30. 80 pmol / L
+T72	Test 1136 1139	FT4
+T73	Test 1175 1178	TSH
+T74	Test_Value 1179 1192	0. 011 mU / L
+T75	Test 1209 1218	促甲状腺素受体抗体
+T76	Test 1221 1225	TRAb
+T77	Test_Value 1227 1237	7. 3 U / L
+T78	Test 1249 1253	空腹血糖
+T79	Test_Value 1254 1267	4. 3 mmol / L
+T80	Test 1268 1272	三酰甘油
+T81	Test_Value 1273 1287	0. 72 mmol / L
+T82	Test 1288 1292;1293 1298	低密度脂 蛋白胆固醇
+T83	Test_Value 1299 1313	1. 60 mmol / L
+T84	Drug 1315 1319	甲巯咪唑
+T85	Drug 1320 1322	赛治
+T86	Amount 1323 1328	20 mg
+T87	Frequency 1329 1335	每天 1 次
+T88	Disease 1338 1340	甲亢
+T89	Drug 1343 1347	比索洛尔
+T90	Amount 1351 1358	2. 5 mg
+T91	Frequency 1359 1365	每天 1 次
+T92	Symptom 1382 1388	左侧胸背疼痛
+T93	Test 1423 1427	心肌酶谱
+T94	Test 1430 1436	肌钙蛋白 I
+T95	Test_Value 1440 1442	阳性
+T96	Anatomy 1443 1447;1448 1450	磷酸肌酸 激酶
+T97	Test 1451 1453	CK
+T98	Test 1455 1460	乳酸脱氢酶
+T99	Test 1466 1473	肌酸激酶同工酶
+T100	Test 1474 1479	CK-MB
+T101	Test 1481 1482;1483 1488	肌 钙蛋白 T
+T102	Test 1508 1513;1514 1517	冠状动脉造 影检查
+T103	Test 1535 1542	冠状动脉造影术
+T104	Symptom 1563 1573	左主干分叉处痉挛狭窄
+T105	Test 1587 1591	冠脉造影
+T106	Symptom 1598 1600	胸痛
+T107	Test 1601 1604	心电图
+T108	Disease 1607 1610;1611 1612	冠脉痉 挛
+T109	Disease 1615 1617	甲亢
+T110	Symptom 1618 1622	冠脉痉挛
+T111	Test 1633 1635	T3
+T112	Test 1636 1638	T4
+T113	Disease 1644 1649	甲状腺毒症
+T114	Drug 1654 1660	丙基硫氧嘧啶
+T115	Amount 1661 1667	100 mg
+T116	Frequency 1668 1674	每天 3 次
+T117	Symptom 1680 1685	无再发胸痛
+T118	Disease 1695 1697	甲亢
+T119	Disease 1698 1706	Graves 病
+T120	Test_Value 1718 1722	窦性心律
+T121	Symptom 1807 1809	胸痛
+T122	Test 1812 1815	心电图
+T123	Symptom 1825 1831	冠脉容易痉挛
+T124	Symptom 1849 1853	冠脉痉挛
+T125	Test 1862 1866	冠脉造影
+T126	Disease 1871 1877	冠状动脉痉挛
+T127	Drug 1895 1900;1901 1902	丙基硫氧嘧 啶
+T128	Amount 1907 1912	50 mg
+T129	Frequency 1913 1920	1 天 1 次
+T130	Symptom 1921 1926	无再发胸闷
+T131	Symptom 1927 1929	胸痛
+T132	Disease 1949 1952	高血脂
+T133	Disease 1953 1956	高血压
+T134	Disease 1957 1960	糖尿病
+T135	Disease 1962 1968	动脉粥样硬化
+T136	Drug 1995 2001	抗甲状腺药物
+T137	Disease 2004 2009	甲状腺毒症
+T138	Test 2015 2018;2019 2020	甲状腺 素
+T139	Test 2022 2026	TRAb
+T140	Disease 2030 2038	Graves 病
+T141	Symptom 2046 2048	胸痛
+T142	Test 2051 2054;2055 2056	甲状腺 素
+T143	Test 2068 2071	心电图
+T144	Test 2072 2078	冠状动脉造影
+T145	Disease 2084 2086	甲亢
+T146	Symptom 2088 2092	冠脉痉挛
+T147	Disease 2098 2100	甲亢
+T148	Disease 2102 2108	冠状动脉痉挛
+T149	Test 2133 2137	冠脉造影
+T150	Disease 2140 2142	甲亢
+T151	Symptom 2143 2147	冠脉痉挛
+T152	Disease 2213 2215	甲亢
+T153	Symptom 2232 2246	冠脉痉挛时心脏可表现为心绞痛
+T154	Disease 2247 2250;2251 2252	心肌缺 血
+T155	Disease 2253 2258	心源性休克
+T156	Disease 2259 2265	室性心动过速
+T157	Disease 2271 2274	肺水肿
+T158	Disease 2326 2332	冠状动脉痉挛
+T159	Disease 2354 2355;2356 2362	甲 状腺功能亢进
+T160	Anatomy 2383 2390;2391 2392	冠状动脉左主干 支
+T161	Disease 2411 2417	冠状动脉痉挛
+T162	Test 2426 2431	甲状腺功能
+T163	Drug 2449 2454	抗甲亢药物
+T164	Drug 2457 2462	甲状腺药物
+T165	Disease 2480 2482	甲亢
+T166	Symptom 2484 2502;2503 2507	冠脉痉挛在甲状腺功能正常后胸痛症状仍 反复发作
+T167	Symptom 2519 2523	冠脉痉挛
+T168	Disease 2526 2531	甲状腺毒症
+T169	Test 2561 2566;2567 2572	冠状动脉自 主神经张力
+T170	Anatomy 2578 2582	血管内皮
+T171	Test 2592 2595;2596 2597	甲状腺 素
+T172	Test 2602 2606	肾上腺素
+T173	Test_Value 2608 2610	升高
+T174	Test 2614 2618	甲状腺素
+T175	Anatomy 2622 2623;2624 2627	冠 状动脉
+T176	Test 2629 2636	儿茶酚胺类激素
+T177	Anatomy 2638 2643	5-羟色胺
+T178	Symptom 2652 2653;2654 2657	冠 脉痉挛
+T179	Symptom 2672 2680	冠脉发生自发痉挛
+T180	Disease 2699 2701	甲亢
+T181	Test 2710 2716	去甲肾上腺素
+T182	Test 2733 2738	甲状腺激素
+T183	Disease 2785 2787	甲亢
+T184	Anatomy 2793 2798	副交感神经
+T185	Symptom 2810 2818	女性冠脉痉挛高发
+T186	Symptom 2823 2827	冠脉痉挛
+T187	Test 2831 2833	T3
+T188	Disease 2861 2864	心绞痛
+T189	Disease 2865 2869	心肌梗死
+T190	Test 2889 2896	血浆 T3浓度
+T191	Test_Value 2896 2898	升高
+T192	Disease 2902 2906	冠脉事件
+T193	Test 2914 2916	T3
+T194	Symptom 2964 2968	冠脉痉挛
+T195	Disease 2975 2981	甲亢性心脏病
+T196	Disease 2985 2987;2988 2993	充血 性心力衰竭
+T197	Test 2999 3007	冠状动脉造影检查
+T198	Disease 3009 3015	冠状动脉痉挛
+T199	Test 3035 3040	甲状腺激素
+T200	Test 3060 3065	冠脉造影术
+T201	Disease 3068 3072	甲亢危象
+T202	Disease 3091 3093	甲亢
+T203	Test 3098 3105	冠状动脉造影术
+T204	Disease 3112 3114	甲亢
+T205	Symptom 3116 3120	冠脉痉挛
+T206	Test 3121 3126	甲状腺激素
+T207	Drug 3146 3151	抗甲亢药物
+T208	Disease 3158 3163	甲状腺毒症
+T209	Drug 3170 3175	131 I
+T210	Disease 3181 3188	放射性甲状腺炎
+T211	Test 3192 3197	甲状腺激素
+T212	Drug 3222 3229	β 受体阻滞剂
+T213	Symptom 3232 3236	冠脉痉挛
+T214	Disease 3239 3242	心绞痛
+T215	Drug 3262 3269	β 受体阻滞剂
+T216	Anatomy 3276 3282	冠状动脉血管
+T217	Anatomy 3285 3289	β 受体
+T218	Anatomy 3292 3301	冠状动脉 α 受体
+T219	Symptom 3308 3314	冠状动脉痉挛
+T220	Disease 3332 3334	甲亢
+T221	Disease 3336 3340	冠脉痉挛
+T222	Drug 3351 3358	β 受体阻滞剂
+T223	Symptom 3363 3367	冠脉痉挛
+T224	Disease 3391 3393	甲亢
+T225	Drug 3398 3402	奈比洛尔
+T226	Disease 3404 3407	高血压
+T227	Symptom 3410 3415	反复心绞痛
+T228	Test 3418 3422	冠脉造影
+T229	Disease 3427 3430	心绞痛
+T230	Disease 3437 3441	冠脉痉挛
+T231	Disease 3449 3450;3451 3452	甲 亢
+T232	Disease 3454 3458	冠脉痉挛
+T233	Drug 3467 3474	β 受体阻滞剂
+T234	Symptom 3484 3486	胸痛
+T235	Symptom 3501 3505	冠脉痉挛
+T236	Disease 3516 3518	甲亢
+T237	Symptom 3520 3524	冠脉痉挛
+T238	Disease 3532 3534	甲亢
+T239	Symptom 3540 3544	反复胸痛
+T240	Symptom 3551 3555	冠脉痉挛
+T241	Disease 3566 3572	缺血性心肌病
+T242	Disease 3582 3593;3594 3595	冠状动脉粥样硬化性心脏 病
+T243	Disease 3608 3610	甲亢
+T244	Test 3618 3621;3622 3624	甲状腺 功能
+T245	Disease 3630 3637	甲状腺功能亢进
+T246	Disease 3639 3645	冠状动脉痉挛

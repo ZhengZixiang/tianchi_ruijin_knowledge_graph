@@ -1,0 +1,238 @@
+T1	Disease 3330 3336	1 型糖尿病
+T2	Disease 3551 3555;3556 3558	1 型糖 尿病
+T3	Disease 16 22	2 型糖尿病
+T4	Disease 41 47	2 型糖尿病
+T5	Disease 138 144	2 型糖尿病
+T6	Disease 909 915	2 型糖尿病
+T7	Disease 1190 1196	2 型糖尿病
+T8	Disease 1326 1332	2 型糖尿病
+T9	Disease 1479 1485	2 型糖尿病
+T10	Disease 1528 1534	2 型糖尿病
+T11	Disease 1598 1604	2 型糖尿病
+T12	Disease 1671 1677	2 型糖尿病
+T13	Disease 1798 1804	2 型糖尿病
+T14	Disease 1912 1915;1916 1919	2 型 糖尿病
+T15	Disease 1960 1966	2 型糖尿病
+T16	Disease 2039 2045	2 型糖尿病
+T17	Disease 2204 2207;2208 2211	2 型 糖尿病
+T18	Disease 2499 2505	2 型糖尿病
+T19	Disease 2816 2822	2 型糖尿病
+T20	Disease 3253 3259	2 型糖尿病
+T21	Disease 3426 3432	2 型糖尿病
+T22	Disease 3512 3518	2 型糖尿病
+T23	Disease 3560 3566	2 型糖尿病
+T24	Disease 3623 3629	2 型糖尿病
+T25	Disease 3653 3659	2 型糖尿病
+T26	Disease 3706 3712	2 型糖尿病
+T27	Disease 3738 3744	2 型糖尿病
+T28	Disease 3984 3990	2 型糖尿病
+T29	Disease 4727 4733	2 型糖尿病
+T30	Disease 2662 2663;2664 2668	2 型糖尿病
+T31	Test 1743 1748	HBA1C
+T32	Drug 2535 2539	格列齐特
+T33	Drug 2541 2545	二甲双胍
+T34	Test 1630 1634	空腹血糖
+T35	Test 2179 2183	空腹血糖
+T36	Test 3183 3187	空腹血糖
+T37	Reason 936 941	胰岛素抵抗
+T38	Reason 926 932;933 935	β 细胞功能 障碍
+T39	Anatomy 1201 1205	β 细胞
+T40	Anatomy 1232 1236	β 细胞
+T41	Anatomy 968 972	β 细胞
+T42	Disease 1008 1009;1010 1012	糖 尿病
+T43	Reason 1014 1022	β 细胞功能损害
+T44	Test 1408 1410	血糖
+T45	Anatomy 1501 1505	β 细胞
+T46	Operation 1610 1625	Roux-en-Y 胃旁路手术
+T47	Anatomy 1761 1762;1763 1765	β 细胞
+T48	Anatomy 1821 1825	β 细胞
+T49	Operation 1861 1864;1865 1868	胃的减 容手术
+T50	Disease 1097 1100	糖尿病
+T51	Disease 1166 1169	糖尿病
+T52	Operation 1336 1341;1342 1343	胃的减容手 术
+T53	Anatomy 1807 1811	β 细胞
+T54	Anatomy 2057 2061	β 细胞
+T55	Anatomy 2145 2149	β 细胞
+T56	Drug 2226 2229	胰岛素
+T57	Drug 2519 2522	胰岛素
+T58	Anatomy 3013 3017	β 细胞
+T59	Anatomy 3081 3085	β 细胞
+T60	Disease 3132 3137	糖耐量受损
+T61	Disease 3139 3142	IGT
+T62	Test 3145 3148;3149 3155	口服葡 萄糖耐量试验
+T63	Test 3156 3160	OGTT
+T64	Test 3165 3167	血糖
+T65	Test_Value 3170 3181	10 mmol / L
+T66	Test_Value 3190 3203	6. 7 mmol / L
+T67	Test 3221 3225	餐后血糖
+T68	Disease 3229 3232	糖尿病
+T69	Anatomy 3243 3247	β 细胞
+T70	Drug 3267 3270	胰岛素
+T71	Anatomy 3278 3282	β 细胞
+T72	Drug 3354 3355;3356 3358	胰 岛素
+T73	Drug 3688 3691;3692 3693	格列本 脲
+T74	Drug 3748 3752	格列本脲
+T75	Test 3814 3816	血糖
+T76	Test 3828 3831;3832 3838	口服葡 萄糖耐量试验
+T77	Disease 3852 3856;3857 3858	糖耐量受 损
+T78	Test 3910 3917	葡萄糖耐量试验
+T79	Test 3922 3937;3938 3939	30 min 胰岛素-基线胰岛 素
+T80	Anatomy 3970 3974	β 细胞
+T81	Anatomy 4006 4010	β 细胞
+T82	Disease 4043 4046	糖尿病
+T83	Symptom 4049 4052	高血糖
+T84	Anatomy 4063 4067	β 细胞
+T85	Anatomy 4082 4086	β 细胞
+T86	Anatomy 4096 4099;4100 4101	β 细 胞
+T87	Anatomy 4122 4125;4126 4127	β 细 胞
+T88	Disease 4278 4281	糖尿病
+T89	Anatomy 4293 4297	β 细胞
+T90	Anatomy 4303 4307	β 细胞
+T91	Disease 4388 4394	高胰岛素血症
+T92	Disease 4455 4461	动脉粥样硬化
+T93	Disease 4469 4472	糖尿病
+T94	Disease 4509 4512	糖尿病
+T95	Anatomy 4606 4610	β 细胞
+T96	Disease 4620 4623	糖尿病
+T97	Operation 4665 4668;4669 4672	胃的减 容手术
+T98	Disease 4683 4686	糖尿病
+T99	Anatomy 4708 4712	β 细胞
+T100	Anatomy 3 7	β 细胞
+T101	Anatomy 129 133	β 细胞
+T102	Anatomy 180 184	β 细胞
+T103	Anatomy 1275 1279	β 细胞
+T104	Anatomy 1920 1924	β 细胞
+T105	Anatomy 2759 2763	β 细胞
+T106	Anatomy 2859 2863	β 细胞
+T107	Anatomy 2898 2902	β 细胞
+T108	Anatomy 2930 2934	β 细胞
+T109	Anatomy 2949 2953	β 细胞
+T110	Anatomy 2962 2966	β 细胞
+T111	Anatomy 4186 4190	β 细胞
+T112	Anatomy 4224 4228	β 细胞
+T113	Anatomy 1539 1540;1541 1543	β 细胞
+T114	Anatomy 2116 2117;2118 2120	β 细胞
+T115	Anatomy 2826 2827;2828 2830	β 细胞
+T116	Test 1348 1350	体重
+T117	Reason 1117 1122	胰岛素抵抗
+T118	Anatomy 1262 1264	胰岛
+T119	Drug 1319 1322	胰岛素
+T120	Disease 1417 1420	糖尿病
+T121	Test 1366 1368	血糖
+T122	Disease 1595 1597	肥胖
+T123	Disease 1729 1732	糖尿病
+T124	Anatomy 2001 2004;2005 2006	β 细 胞
+T125	Drug 2109 2112	胰岛素
+T126	Test 2171 2172;2173 2174	血 糖
+T127	Test_Value 2176 2178	升高
+T128	Test 2267 2269	血糖
+T129	Test 2320 2322	血糖
+T130	Anatomy 2333 2335;2336 2338	胰岛 细胞
+T131	Disease 2384 2386	肥胖
+T132	Disease 2392 2394	肥胖
+T133	Test 2568 2569;2570 2571	血 糖
+T134	Drug 2749 2752	胰岛素
+T135	Test 2601 2603	血糖
+T136	Method 3439 3442;3443 3444	静脉注 射
+T137	Drug 3444 3447	胰岛素
+T138	Duration 3448 3451	2 周
+T139	Drug 3669 3672	胰岛素
+T140	Method 3358 3360	注射
+T141	Duration 3360 3362	数周
+T142	Test 4329 4331	血糖
+T143	Anatomy 4364 4366	肝脏
+T144	Disease 4624 4629	心血管疾病
+T145	Anatomy 1156 1159;1160 1161	β 细 胞
+T146	Test 95 97	血糖
+T147	Test 1454 1456	血糖
+T148	Test 1458 1460	血糖
+T149	Test 3001 3003	血糖
+T150	Test 3019 3021	血糖
+T151	Test 3472 3474	血糖
+T152	Test 4378 4380	血糖
+T153	Test 4566 4568	血糖
+T154	Test 4593 4595	血糖
+T155	Test 2550 2552	血糖
+T156	Test 1361 1363	血糖
+T157	Test_Value 93 95	正常
+T158	Disease 105 108	糖尿病
+T159	Disease 1138 1141	糖尿病
+T160	Drug 1430 1433	胰岛素
+T161	Operation 1519 1525	胃的减容手术
+T162	Test_Value 1635 1636;1637 1640	正 常水平
+T163	Disease 1666 1669	肥胖症
+T164	Test 1892 1895	胰岛素
+T165	Test_Value 2269 2271	正常
+T166	Duration 2411 2414	2 周
+T167	Drug 2511 2514	胰岛素
+T168	Level 2174 2176	严重
+T169	Method 2522 2524	注射
+T170	Duration 2560 2567	2 ~ 5 周
+T171	Reason 2976 2979	糖毒性
+T172	Reason 2980 2983	脂毒性
+T173	Reason 2987 2992	胰岛素抵抗
+T174	Reason 2984 2986	年龄
+T175	Test 3106 3115	第一时相胰岛素分泌
+T176	Level 3143 3145	晚期
+T177	Frequency 3342 3350	每日 2、3 次
+T178	Drug 3698 3701	磺脲药
+T179	Reason 3882 3885;3886 3892	胰岛素 分泌高峰延迟
+T180	Reason 4110 4114	高糖毒性
+T181	Reason 3999 4003	高糖毒性
+T182	Reason 4203 4207	高糖毒性
+T183	Test 3897 3908	早期时相胰岛素分泌功能
+T184	Anatomy 974 977	胰岛素
+T185	Disease 1027 1030	糖尿病
+T186	Anatomy 1109 1111	胰岛
+T187	Duration 1257 1261	12 年
+T188	Test_Value 1383 1387	接近正常
+T189	Test_Value 1369 1373	达到正常
+T190	Test_Value 1351 1354	无下降
+T191	Test_Value 1410 1415	十几毫摩尔
+T192	Test_Value 1654 1656	正常
+T193	Duration 2428 2429	6
+T194	Duration 2430 2432	12
+T195	Duration 2435 2440	24 个月
+T196	Method 2517 2519	多次
+T197	Duration 2597 2600	1 年
+T198	Duration 2670 2677	不超过 5 年
+T199	Duration 2704 2718	逾 5 年但不超过 16 年
+T200	Test 3085 3092	胰岛素分泌功能
+T201	Test 3126 3129	胰岛素
+T202	Disease 3463 3466	糖尿病
+T203	Duration 3756 3760	4 个月
+T204	Duration 3800 3803;3804 3805	3 个 月
+T205	Test_Value 3816 3818	达标
+T206	Anatomy 4211 4215	FoxO
+T207	Disease 4474 4478	心血管病
+T208	Disease 4522 4523;4524 4526	糖 尿病
+T209	Anatomy 4538 4541	胰岛素
+T210	Drug 3788 3795	格列齐特缓释片
+T211	Test_Value 1749 1755	<6. 5%
+T212	Drug 2132 2135	胰岛素
+T213	Test_Value 2183 2198	≥11. 1 mmol / L
+T214	Test 3944 3958	30 min 血糖-基线血糖
+T215	Test 4320 4323	胰岛素
+T216	SideEff 4424 4430	高胰岛素血症
+T217	Disease 4441 4448;4449 4451	医源性高胰岛素 血症
+T218	Reason 4488 4496	β 细胞功能损害
+T219	Test 4679 4681	血糖
+T220	Anatomy 111 118	胰岛 β 细胞
+T221	Reason 956 957;958 964	β 细胞功能障碍
+T222	Test 1374 1381	胰岛素分泌曲线
+T223	Test 1641 1644	胰岛素
+T224	Drug 2047 2050	胰岛素
+T225	Drug 2257 2258;2259 2261	胰 岛素
+T226	Test 2239 2246	胰岛素分泌功能
+T227	Drug 2311 2314	胰岛素
+T228	Test 2292 2301	第一时相胰岛素分泌
+T229	Drug 2402 2405	胰岛素
+T230	Test 2415 2421;2422 2425	第一时相胰岛 素分泌
+T231	Drug 3435 3438	胰岛素
+T232	Test 3038 3045	胰岛素分泌功能
+T233	Test 4349 4350;4351 4353	胰 岛素
+T234	Drug 4397 4399;4400 4404	外源 性胰岛素
+T235	Drug 4416 4422	外源性胰岛素
+T236	Symptom 65 68	高血糖
+T237	Test 3057 3059	血糖
+T238	Drug 4573 4585	非血糖依赖性胰岛素促泌剂

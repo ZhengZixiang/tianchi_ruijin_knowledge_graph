@@ -1,0 +1,408 @@
+T1	Disease 3837 3844	糖尿病神经病变
+T2	Disease 8832 8838	1 型糖尿病
+T3	Disease 9113 9119	1 型糖尿病
+T4	Disease 10334 10340	1 型糖尿病
+T5	Disease 49 55	2 型糖尿病
+T6	Disease 142 148	2 型糖尿病
+T7	Disease 168 172;173 175	2 型糖 尿病
+T8	Disease 719 725	2 型糖尿病
+T9	Disease 3431 3437	2 型糖尿病
+T10	Disease 3488 3494	2 型糖尿病
+T11	Disease 3538 3541;3542 3545	2 型 糖尿病
+T12	Disease 3709 3715	2 型糖尿病
+T13	Disease 8910 8916	2 型糖尿病
+T14	Disease 9040 9046	2 型糖尿病
+T15	Disease 9182 9188	2 型糖尿病
+T16	Disease 9216 9222	2 型糖尿病
+T17	Disease 9415 9421	2 型糖尿病
+T18	Disease 9757 9763	2 型糖尿病
+T19	Disease 10002 10008	2 型糖尿病
+T20	Disease 10116 10122	2 型糖尿病
+T21	Disease 10183 10189	2 型糖尿病
+T22	Disease 10572 10578	2 型糖尿病
+T23	Disease 10782 10788	2 型糖尿病
+T24	Drug 10252 10257	磺脲类药物
+T25	Test 3905 3910	HBA1C
+T26	Test 6399 6404	HBA1C
+T27	Test 7903 7908	HBA1C
+T28	Test 5866 5870	空腹血糖
+T29	Test 7108 7112	空腹血糖
+T30	Test 9960 9964	空腹血糖
+T31	Test 3928 3933	谷丙转氨酶
+T32	Test 3963 3968	谷草转氨酶
+T33	Test 6674 6678	体重指数
+T34	Test 3969 3972	AST
+T35	Test 3934 3937	ALT
+T36	Test 3759 3762	肝功能
+T37	Test 6683 6686	腰臀比
+T38	Disease 8724 8730	动脉粥样硬化
+T39	Anatomy 9621 9628	胰岛 β 细胞
+T40	Test 3783 3787	甘油三酯
+T41	Test 4064 4068	甘油三酯
+T42	Test 9190 9194	餐后血糖
+T43	Test 4004 4007	GGT
+T44	Test 6374 6377	BMI
+T45	Test 6670 6673	BMI
+T46	Drug 135 138	胰岛素
+T47	Drug 184 188	胰岛素泵
+T48	Test 190 192	血糖
+T49	Test 200 206	动态血糖监测
+T50	Test 251 257	空腹 C 肽
+T51	Test 258 262	胰升糖素
+T52	Test 263 267	生长激素
+T53	Test 268 271	皮质醇
+T54	Test 332 338;339 343	24 h 平 均血糖值
+T55	Test 344 347	MBG
+T56	Test_Value 348 350	降低
+T57	Test 360 368	最大血糖波动幅度
+T58	Test 369 373	LAGE
+T59	Test 375 382	血糖水平标准差
+T60	Test 383 387	SDBG
+T61	Test 389 393	变异系数
+T62	Test 394 396	CV
+T63	Test 398 399;400 407	平 均血糖波动幅度
+T64	Test 408 412	MAGE
+T65	Test 414 422	日内血糖波动次数
+T66	Test 423 426	NGE
+T67	Test 428 436	低血糖时间百分比
+T68	Test 437 440	PT1
+T69	Test 442 450	高血糖时间百分比
+T70	Test 451 454	PT3
+T71	Test 584 590	空腹 C 肽
+T72	Test 591 601	餐后 2 h C 肽
+T73	Disease 768 771	低血糖
+T74	Anatomy 808 812	生长激素
+T75	Test 821 823	血糖
+T76	Disease 3305 3308	糖尿病
+T77	Test 3453 3455	血糖
+T78	Drug 3481 3484	胰岛素
+T79	Test 3568 3570	血糖
+T80	Symptom 3601 3604;3605 3608	急性血 糖波动
+T81	Drug 3700 3703;3704 3705	胰岛素 泵
+T82	Disease 3765 3769;3770 3772	酒精性脂 肪肝
+T83	Test_Value 3787 3801	>5. 6 mmol / L
+T84	Disease 3806 3807;3808 3810	胰 腺炎
+T85	Disease 3824 3827	糖尿病
+T86	Test_Value 3911 3926	9. 50% ± 2. 20%
+T87	Test_Value 3974 3996	(16. 90 ± 5. 59) U / L
+T88	Test 3997 4002	谷酰转肽酶
+T89	Test_Value 4009 4032	(46. 37 ± 33. 65) U / L
+T90	Test 4033 4038	直接胆红素
+T91	Test_Value 4039 4054;4055 4063	(5. 56 ± 3. 34) μmol / L
+T92	Test_Value 4068 4091	(1. 91 ± 1. 19)mmol / L
+T93	Drug 4105 4109	胰岛素泵
+T94	Test 4129 4131	血糖
+T95	Test 4173 4179	动态血糖监测
+T96	Test 4369 4373	血糖监测
+T97	Test 4459 4460;4461 4466	血 清 C 肽
+T98	Test 4467 4471	生长激素
+T99	Test 4472 4475	皮质醇
+T100	Test 4476 4482	血浆胰升糖素
+T101	Test 4505 4508	C 肽
+T102	Test 4509 4512	皮质醇
+T103	Test 4532 4536	胰升糖素
+T104	Test 4560 4564	生长激素
+T105	Symptom 4619 4621	心慌
+T106	Symptom 4622 4624	手抖
+T107	Symptom 4625 4628	出冷汗
+T108	Test 4634 4639;4640 4641	末梢血糖监 测
+T109	Drug 4649 4651	高糖
+T110	Method 4651 4655	静脉推注
+T111	Test 4881 4884	MBG
+T112	Test_Value 4885 4887	降低
+T113	Test_Value 4907 4909	较低
+T114	Test 4948 4956	低血糖时间百分比
+T115	Test 4962 4965;4966 4968	低血糖 次数
+T116	Test 5039 5042	C 肽
+T117	Test 5043 5047	胰升糖素
+T118	Test 5048 5051	皮质醇
+T119	Test_Value 5165 5185	3. 6 ~ 3. 9 mmol / L
+T120	Test 5365 5371	空腹 C 肽
+T121	Test 5372 5382	餐后 2 h C 肽
+T122	Test 7964 7972	24 h MBG
+T123	Test 8036 8044	24 h MBG
+T124	Test 8045 8048;8049 8054	高血糖 时间百分比
+T125	Test 8159 8162	PT1
+T126	Test_Value 8164 8181	(9. 79 ± 16. 77)%
+T127	Test 8305 8309	胰升糖素
+T128	Test 8310 8314	生长激素
+T129	Test 8315 8318	皮质醇
+T130	Test 8387 8390	C 肽
+T131	Test 8391 8393;8394 8396	胰升 糖素
+T132	Test 8397 8400	皮质醇
+T133	Test_Value 8371 8375	显著下降
+T134	Test_Value 8450 8452	升高
+T135	Test 8463 8466	C 肽
+T136	Test 8467 8471	生长激素
+T137	Test 8472 8475	皮质醇
+T138	Symptom 8544 8552	夜间持续性低血糖
+T139	Test_Value 8606 8626	3. 6 ~ 3. 9 mmol / L
+T140	Test_Value 8575 8588	2. 2 mmol / L
+T141	Test 8629 8635	空腹 C 肽
+T142	Disease 8680 8683	糖尿病
+T143	Disease 8696 8699	糖尿病
+T144	Disease 8811 8812;8813 8815	糖 尿病
+T145	Anatomy 8938 8941	胰岛素
+T146	Drug 8981 8984	胰岛素
+T147	Disease 8988 8993;8994 8995	2 型糖尿 病
+T148	Symptom 9006 9010	血糖波动
+T149	Disease 9079 9082	糖尿病
+T150	Symptom 9084 9088	血糖波动
+T151	Level 9142 9144	严重
+T152	Disease 9144 9148;9149 9150	视网膜病 变
+T153	Drug 9208 9211	胰岛素
+T154	Symptom 9234 9242	血糖较大幅度波动
+T155	Test 9254 9268	连续 24 h 全天血糖监测
+T156	Symptom 9339 9343	血糖波动
+T157	Drug 9408 9411	胰岛素
+T158	Disease 9464 9467	糖尿病
+T159	Level 9501 9503	严重
+T160	Test 9536 9538	血糖
+T161	Test_Value 9680 9700	4. 2 ~ 5. 2 mmol / L
+T162	Drug 9750 9753	胰岛素
+T163	Drug 9994 9996;9997 9998	胰岛 素
+T164	Drug 10036 10039	胰岛素
+T165	Drug 10087 10090	胰岛素
+T166	Drug 10070 10073	胰岛素
+T167	Drug 10109 10112	胰岛素
+T168	Anatomy 10216 10220	胰升糖素
+T169	Drug 10247 10250	胰岛素
+T170	Test 10359 10363	夜间血糖
+T171	Test 10488 10492	生长激素
+T172	Anatomy 10554 10558	生长激素
+T173	Test 10586 10588	血糖
+T174	Drug 10775 10778	胰岛素
+T175	Symptom 10806 10810	血糖波动
+T176	Test 10826 10828	血糖
+T177	Anatomy 10877 10879	GH
+T178	Test 10890 10892	血糖
+T179	Drug 7143 7148	基础胰岛素
+T180	Test 63 65	血糖
+T181	Test 849 851	血糖
+T182	Test 857 859	血糖
+T183	Test 3496 3498	血糖
+T184	Test 3648 3650	血糖
+T185	Test 4606 4608	血糖
+T186	Test 5443 5445	血糖
+T187	Test 5449 5451	血糖
+T188	Test 5831 5833	血糖
+T189	Test 5850 5852	血糖
+T190	Test 5887 5889	血糖
+T191	Test 6221 6223	血糖
+T192	Test 6232 6234	血糖
+T193	Test 6244 6246	血糖
+T194	Test 6267 6269	血糖
+T195	Test 6280 6282	血糖
+T196	Test 6293 6295	血糖
+T197	Test 6306 6308	血糖
+T198	Test 6336 6338	血糖
+T199	Test 6342 6344	血糖
+T200	Test 6450 6452	血糖
+T201	Test 6558 6560	血糖
+T202	Test 6690 6692	血糖
+T203	Test 6711 6713	血糖
+T204	Test 6717 6719	血糖
+T205	Test 6729 6731	血糖
+T206	Test 6735 6737	血糖
+T207	Test 6859 6861	血糖
+T208	Test 6966 6968	血糖
+T209	Test 7092 7094	血糖
+T210	Test 7129 7131	血糖
+T211	Test 7180 7182	血糖
+T212	Test 7292 7294	血糖
+T213	Test 7415 7417	血糖
+T214	Test 7432 7434	血糖
+T215	Test 7453 7455	血糖
+T216	Test 7459 7461	血糖
+T217	Test 7616 7618	血糖
+T218	Test 7749 7751	血糖
+T219	Test 8283 8285	血糖
+T220	Test 8288 8290	血糖
+T221	Test 8569 8571	血糖
+T222	Test 8716 8718	血糖
+T223	Test 9049 9051	血糖
+T224	Test 10221 10222;10223 10224	血 糖
+T225	Test_Value 699 701	升高
+T226	Test_Value 667 669	降低
+T227	Test_Value 632 634	较低
+T228	Test_Value 602 604	较低
+T229	Drug 3852 3855	抗癫痫
+T230	Drug 3856 3859	安定剂
+T231	Drug 3860 3863;3864 3865	抗焦虑 药
+T232	Test_Value 5188 5202	(2. 07±1. 67)次
+T233	Reason 5408 5410	年龄
+T234	Test_Value 8559 8565	7. 5 h
+T235	Disease 9033 9038	糖耐量异常
+T236	Test 9298 9302	MAGE
+T237	Test_Value 10495 10496	低
+T238	Anatomy 10524 10527	肝糖原
+T239	Drug 42 45	胰岛素
+T240	Test_Value 488 492	显著降低
+T241	Drug 712 715	胰岛素
+T242	Anatomy 748 750	胰岛
+T243	Disease 3381 3384	糖尿病
+T244	Anatomy 3372 3375	胰岛素
+T245	Test_Value 3457 3459	下降
+T246	Test 3523 3527	CGMS
+T247	Drug 3530 3534	胰岛素泵
+T248	Anatomy 4392 4395	静脉血
+T249	Test 4825 4826;4827 4834	空 腹相关激素水平
+T250	Test_Value 5025 5027	较低
+T251	Test_Value 8145 8150;8151 8158	2. 07 ± 1. 67
+T252	Drug 8190 8193	胰岛素
+T253	Test 8515 8522	CGMS 监测
+T254	Reason 8750 8752	酒精
+T255	Symptom 8755 8767	诱导急性胰岛素敏感性受损
+T256	Disease 8794 8797	糖尿病
+T257	Drug 8925 8927	酒精
+T258	Disease 9139 9141	肾病
+T259	Reason 8999 9001	饮酒
+T260	Reason 9076 9078	饮酒
+T261	Test_Value 9440 9442	降低
+T262	Test_Value 10828 10830	较低
+T263	Test_Value 10391 10393	较低
+T264	Test_Value 10460 10461	低
+T265	Test_Value 10224 10226	下降
+T266	Anatomy 10813 10815	胰岛
+T267	Test 627 631	空腹血糖
+T268	Test 4903 4907	空腹血糖
+T269	Test 8066 8070	空腹血糖
+T270	Reason 5417 5421	体重指数
+T271	Test 10385 10389	餐后血糖
+T272	Test 8442 8450	空腹胰升糖素水平
+T273	Test 153 155	血糖
+T274	Test 231 238	24 h 血糖
+T275	Test 285 287	血糖
+T276	Test 480 486	空腹生长激素
+T277	Symptom 514 522	夜间持续性低血糖
+T278	Disease 537 540	低血糖
+T279	Disease 559 562	低血糖
+T280	Test 618 623	晚餐前血糖
+T281	Disease 580 583	低血糖
+T282	Disease 646 649	低血糖
+T283	Test 655 661	空腹生长激素
+T284	Disease 679 680;681 683	低 血糖
+T285	Test 689 695	空腹胰升糖素
+T286	Disease 779 780;781 783	低 血糖
+T287	Test 757 762	晚餐前血糖
+T288	Disease 791 794	低血糖
+T289	Symptom 3403 3406	高血糖
+T290	Test 3465 3467	血糖
+T291	SideEff 3611 3614	低血糖
+T292	Disease 3775 3782	高甘油三酯血症
+T293	Level 3773 3775	严重
+T294	Test 4123 4125	血糖
+T295	Test 4812 4816	血糖波动
+T296	Disease 4817 4820	低血糖
+T297	Test 4848 4855	24 h 血糖
+T298	Test 4870 4880	24 h 平均血糖值
+T299	Test 4957 4960	PT1
+T300	Disease 4977 4980	低血糖
+T301	Test 5016 5022	空腹生长激素
+T302	Disease 5093 5096	低血糖
+T303	Disease 5118 5121	低血糖
+T304	Disease 5142 5145	低血糖
+T305	Disease 5154 5157	低血糖
+T306	Disease 5280 5283	低血糖
+T307	Disease 5302 5305	低血糖
+T308	Disease 5316 5319	低血糖
+T309	Reason 5411 5416	糖尿病病程
+T310	Disease 7946 7949	低血糖
+T311	Test 8058 8063	晚餐前血糖
+T312	Disease 8138 8141	低血糖
+T313	Drug 8215 8218	胰岛素
+T314	Drug 8221 8224	胰岛素
+T315	Drug 8226 8229	胰岛素
+T316	Test 8298 8304	空腹 C 肽
+T317	Test 8363 8371	空腹生长激素水平
+T318	Disease 8505 8508	低血糖
+T319	Disease 8598 8601	低血糖
+T320	Test_Value 8636 8648	0. 5 ng / ml
+T321	Test_Value 8651 8655;8656 8658	低于正常 水平
+T322	Disease 8843 8846	低血糖
+T323	Anatomy 8862 8866	生长激素
+T324	Disease 8887 8890	低血糖
+T325	Test 8950 8952	血糖
+T326	Test_Value 8954 8956	下降
+T327	Disease 8962 8965	低血糖
+T328	Disease 8966 8969	高血糖
+T329	Disease 9011 9014	低血糖
+T330	Symptom 9244 9249	延迟低血糖
+T331	Test 9384 9390	平均血糖水平
+T332	Test 9393 9395;9396 9398	空腹 血糖
+T333	Test 9431 9437	平均血糖水平
+T334	Test 9448 9452	血糖波动
+T335	Disease 9477 9480	低血糖
+T336	Disease 9504 9507	低血糖
+T337	Disease 9548 9551	低血糖
+T338	Disease 9559 9562	低血糖
+T339	Disease 9585 9586;9587 9589	低 血糖
+T340	Symptom 9607 9615;9616 9617	夜间无症状性低血 糖
+T341	Disease 9643 9645;9646 9647	低血 糖
+T342	Disease 9662 9665	低血糖
+T343	Test 9675 9677	血糖
+T344	Disease 9709 9715	无症状低血糖
+T345	Disease 9802 9805	低血糖
+T346	Disease 9825 9828	低血糖
+T347	Test 9882 9884	血糖
+T348	Test 9887 9891	空腹血糖
+T349	Test 9915 9919	血糖水平
+T350	Disease 10046 10049	低血糖
+T351	Disease 10104 10107	低血糖
+T352	Anatomy 10141 10144	胰岛素
+T353	Disease 10174 10177	低血糖
+T354	Drug 10209 10212	胰岛素
+T355	Disease 10236 10239	低血糖
+T356	Disease 10300 10303	低血糖
+T357	Anatomy 10397 10401	生长激素
+T358	Anatomy 10412 10416	胰升糖素
+T359	Anatomy 10417 10420	皮质醇
+T360	Test 10450 10456	空腹生长激素
+T361	Test 10475 10481	空腹胰升糖素
+T362	Disease 10500 10503	低血糖
+T363	Disease 10542 10545	低血糖
+T364	Disease 10532 10535	低血糖
+T365	Disease 10734 10737	低血糖
+T366	Disease 10836 10839	低血糖
+T367	Disease 10847 10850	低血糖
+T368	Disease 10859 10862	低血糖
+T369	Disease 544 547	低血糖
+T370	Disease 563 564;565 567	低 血糖
+T371	Disease 573 576	低血糖
+T372	Test 737 739	血糖
+T373	Test 3514 3522	动态血糖监测技术
+T374	Disease 4711 4714	低血糖
+T375	Disease 4717 4720	低血糖
+T376	Test 4922 4924	血糖
+T377	Disease 5125 5128	低血糖
+T378	Disease 5148 5151	低血糖
+T379	Disease 5325 5328	低血糖
+T380	Disease 5331 5334	低血糖
+T381	Disease 5361 5364	低血糖
+T382	Disease 5386 5388;5389 5390	低血 糖
+T383	Test 7935 7942;7943 7945	24 h 血糖 波动
+T384	Disease 7973 7976	低血糖
+T385	Disease 7980 7983	低血糖
+T386	Symptom 7998 8002	血糖波动
+T387	Disease 8031 8034	低血糖
+T388	Disease 8074 8076;8077 8078	低血 糖
+T389	Test 8091 8093	血糖
+T390	Disease 8133 8136	低血糖
+T391	Disease 8349 8352	低血糖
+T392	Disease 8429 8432	低血糖
+T393	Test 9289 9291	血糖
+T394	Disease 9318 9321	低血糖
+T395	Disease 9324 9327	低血糖
+T396	Disease 9765 9768	低血糖
+T397	Disease 9830 9833	低血糖
+T398	Disease 9836 9839	低血糖
+T399	Disease 9860 9863	低血糖
+T400	Disease 9920 9923	低血糖
+T401	Disease 9926 9929	低血糖
+T402	Disease 9953 9956	低血糖
+T403	Disease 9966 9969	低血糖
+T404	Disease 10059 10062	低血糖
+T405	Disease 10065 10068	低血糖
+T406	Disease 10098 10101	低血糖
+T407	Disease 10441 10444	低血糖
+T408	Disease 10464 10465;10466 10468	低 血糖

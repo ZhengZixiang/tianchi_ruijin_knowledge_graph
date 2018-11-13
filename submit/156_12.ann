@@ -1,0 +1,208 @@
+T1	Drug 92 96	利拉鲁肽
+T2	Anatomy 112 116	成骨细胞
+T3	Anatomy 177 185	胰升糖素样肽 1
+T4	Anatomy 211 216	GLP-1
+T5	Drug 220 224	利拉鲁肽
+T6	Anatomy 235 239	成骨细胞
+T7	Anatomy 292 303	MC3T3-E1 细胞
+T8	Drug 311 315	利拉鲁肽
+T9	Anatomy 359 363	成骨细胞
+T10	Drug 377 381	利拉鲁肽
+T11	Test 396 405	CCK-8 比色法
+T12	Anatomy 407 411	成骨细胞
+T13	Anatomy 430 434	成骨细胞
+T14	Anatomy 462 467	COL-I
+T15	Test 469 474	碱性磷酸酶
+T16	Anatomy 497 500	ALP
+T17	Anatomy 502 503;504 507	骨 桥蛋白
+T18	Test 520 523	OPN
+T19	Drug 544 548	利拉鲁肽
+T20	Drug 631 635	利拉鲁肽
+T21	Anatomy 637 641	成骨细胞
+T22	Drug 662 666	利拉鲁肽
+T23	Anatomy 670 675	COL-I
+T24	Test 676 679	ALP
+T25	Test 680 683	OPN
+T26	Drug 750 754	利拉鲁肽
+T27	Anatomy 768 772	成骨细胞
+T28	Drug 798 810	胰升糖素样肽 1 类似物
+T29	Drug 812 816	利拉鲁肽
+T30	Anatomy 818 822	成骨细胞
+T31	Anatomy 1628 1633	COL-I
+T32	Test 1649 1652	OPN
+T33	Anatomy 2025 2028	OPN
+T34	Anatomy 2479 2483	成骨细胞
+T35	Anatomy 2484 2488	破骨细胞
+T36	Disease 2506 2512	骨代谢性疾病
+T37	Disease 2518 2521;2522 2523	骨质疏 松
+T38	Disease 2525 2528	糖尿病
+T39	Anatomy 2536 2544	胰升糖素样肽 1
+T40	Anatomy 2571 2576	GLP-1
+T41	Anatomy 2584 2586;2587 2589	肠促 胰素
+T42	Test 2596 2598	血糖
+T43	Anatomy 2618 2623	GLP-1
+T44	Anatomy 2629 2632	胰岛素
+T45	Test 2638 2640	血糖
+T46	Drug 2669 2678	GLP-1 类似物
+T47	Drug 2678 2682	利拉鲁肽
+T48	Anatomy 2706 2710	成骨细胞
+T49	Anatomy 2711 2722	MC3T3-E1 细胞
+T50	Disease 2737 2740	糖尿病
+T51	Disease 2742 2746	骨质疏松
+T52	Anatomy 2780 2784	成骨细胞
+T53	Drug 2819 2823	利拉鲁肽
+T54	Anatomy 2942 2947;2948 2950	CCK-8 细胞
+T55	Test 2973 2976	PCR
+T56	Test 3054 3057	PCR
+T57	Anatomy 3105 3109	成骨细胞
+T58	Drug 3193 3197	利拉鲁肽
+T59	Drug 3203 3205;3206 3208	利拉 鲁肽
+T60	Anatomy 3266 3270	成骨细胞
+T61	Anatomy 3592 3598	I型胶原蛋白
+T62	Anatomy 3614 3619	COL-I
+T63	Anatomy 3688 3692	骨桥蛋白
+T64	Test 3706 3709	OPN
+T65	Anatomy 3806 3809	ALP
+T66	Test 3966 3969	PCR
+T67	Test 3995 3998	PCR
+T68	Test 4020 4023	PCR
+T69	Drug 4194 4198	利拉鲁肽
+T70	Anatomy 4207 4211	成骨细胞
+T71	Drug 4272 4276	利拉鲁肽
+T72	Anatomy 4278 4282	成骨细胞
+T73	Drug 4296 4300	利拉鲁肽
+T74	Drug 4387 4391	利拉鲁肽
+T75	Anatomy 4393 4397	成骨细胞
+T76	Drug 4525 4529	利拉鲁肽
+T77	Anatomy 4532 4536	成骨细胞
+T78	Drug 4647 4651	利拉鲁肽
+T79	Anatomy 4660 4664	成骨细胞
+T80	Drug 4725 4729	利拉鲁肽
+T81	Anatomy 4731 4735	成骨细胞
+T82	Drug 4751 4755	利拉鲁肽
+T83	Anatomy 4759 4764	COL-I
+T84	Test 4765 4768	ALP
+T85	Test 4769 4772	OPN
+T86	Anatomy 4840 4845	GLP-1
+T87	Anatomy 4849 4856	肠道 L 细胞
+T88	Test 4862 4866;4867 4868	肠肽类激 素
+T89	Drug 4870 4874	利拉鲁肽
+T90	Anatomy 4876 4881	GLP-1
+T91	Test 4910 4912	血糖
+T92	Drug 4926 4937	GLP-1 受体激动剂
+T93	Anatomy 4941 4944	胃肠道
+T94	Anatomy 4945 4950;4951 4952	中枢神经系 统
+T95	Anatomy 4953 4955	脂肪
+T96	Anatomy 4956 4958	肝脏
+T97	Anatomy 4959 4964	心血管系统
+T98	Anatomy 4965 4967	肾脏
+T99	Anatomy 4969 4970	骨
+T100	Anatomy 4988 4993	GLP-1
+T101	Anatomy 5000 5001	骨
+T102	Anatomy 5045 5050	GLP-1
+T103	Test 5057 5061	骨骼直径
+T104	Test 5062 5066;5067 5068	骨皮质厚 度
+T105	Test_Value 5068 5072	明显减少
+T106	Anatomy 5080 5088	GLP-1 受体
+T107	Test 5095 5098	骨密度
+T108	Test 5112 5117	皮质骨密度
+T109	Test_Value 5117 5118;5119 5120	下 降
+T110	Anatomy 5124 5129	GLP-1
+T111	Disease 5133 5137	骨质疏松
+T112	Drug 5155 5169	胰升糖素样肽 1 受体激动剂
+T113	Test 5192 5195	骨密度
+T114	Anatomy 5209 5214	GLP-1
+T115	Anatomy 5219 5227	骨髓间充质干细胞
+T116	Anatomy 5256 5261	BMSCs
+T117	Anatomy 5269 5273	BMSC
+T118	Anatomy 5275 5279	成骨细胞
+T119	Anatomy 5286 5290	BMSC
+T120	Anatomy 5292 5296	脂肪细胞
+T121	Anatomy 5302 5303	骨
+T122	Drug 5477 5481	利拉鲁肽
+T123	Anatomy 5484 5488	成骨细胞
+T124	Test 5489 5492	OPN
+T125	Anatomy 5493 5498	COL-I
+T126	Test 5499 5502	ALP
+T127	Test 5608 5611	OPN
+T128	Disease 5662 5668	2 型糖尿病
+T129	Method 5675 5679	皮下泵入
+T130	Anatomy 5680 5685	GLP-1
+T131	Test 5693 5698	骨小梁数量
+T132	Test 5699 5706	骨小梁模式因子
+T133	Anatomy 5731 5736	GLP-1
+T134	Anatomy 5741 5742	骨
+T135	Anatomy 5755 5760	GLP-1
+T136	Anatomy 5762 5766	成骨细胞
+T137	Drug 5797 5801	利拉鲁肽
+T138	Drug 5857 5861	利拉鲁肽
+T139	Anatomy 5863 5867	成骨细胞
+T140	Anatomy 5899 5902;5903 5904	成骨细 胞
+T141	Drug 5912 5916	利拉鲁肽
+T142	Anatomy 5934 5935;5936 5939	成 骨细胞
+T143	Drug 5996 6000	利拉鲁肽
+T144	Anatomy 6003 6004;6005 6008	成 骨细胞
+T145	Anatomy 6013 6018	GLP-1
+T146	Anatomy 6022 6026	成骨细胞
+T147	Anatomy 6041 6045	成骨细胞
+T148	Drug 6079 6083	利拉鲁肽
+T149	Anatomy 6120 6122;6123 6125	成骨 细胞
+T150	Anatomy 6139 6153	β-catenin 信号通路
+T151	Anatomy 6174 6180	Wnt 蛋白
+T152	Anatomy 6198 6207	β-catenin
+T153	Anatomy 6228 6232	成骨细胞
+T154	Anatomy 6247 6252	GLP-1
+T155	Disease 6287 6293	2 型糖尿病
+T156	Anatomy 6295 6298	骨小梁
+T157	Anatomy 6304 6305	骨
+T158	Anatomy 6342 6347	GLP-1
+T159	Anatomy 6362 6363	骨
+T160	Drug 6389 6393	利拉鲁肽
+T161	Anatomy 6407 6411	成骨细胞
+T162	Anatomy 6428 6432	成骨细胞
+T163	Drug 6439 6443	利拉鲁肽
+T164	Anatomy 6445 6449	成骨细胞
+T165	Anatomy 6481 6486	GLP-1
+T166	Anatomy 6488 6492	成骨细胞
+T167	Anatomy 6510 6511	骨
+T168	Anatomy 6525 6530	细胞外基质
+T169	Anatomy 6547 6551	胶原蛋白
+T170	Test 6559 6564	碱性磷酸酶
+T171	Test 6565 6568	骨钙素
+T172	Anatomy 6609 6613;6614 6616	细胞外基 质部
+T173	Anatomy 6648 6653	COL-I
+T174	Anatomy 6657 6660	OPN
+T175	Anatomy 6711 6714	ALP
+T176	Anatomy 6716 6719;6720 6721	成骨细 胞
+T177	Anatomy 6756 6761	BMSCs
+T178	Anatomy 6773 6778	BMSCs
+T179	Anatomy 6781 6786	GLP-1
+T180	Anatomy 6811 6815	成骨细胞
+T181	Anatomy 6820 6824	成骨细胞
+T182	Anatomy 6844 6848	成骨细胞
+T183	Anatomy 6852 6857	GLP-1
+T184	Anatomy 6863 6867	BMSC
+T185	Anatomy 6869 6873	成骨细胞
+T186	Drug 6885 6893;6894 6897	GLP-1 受体 激动剂
+T187	Drug 6898 6907	exendin-4
+T188	Test 6913 6916	骨强度
+T189	Anatomy 6924 6925	骨
+T190	Anatomy 6930 6935	COL-I
+T191	Test 6937 6940	ALP
+T192	Drug 6965 6969	利拉鲁肽
+T193	Anatomy 6973 6978	COL-I
+T194	Test 6979 6982	ALP
+T195	Anatomy 6983 6986	OPN
+T196	Drug 7001 7005	利拉鲁肽
+T197	Anatomy 7024 7028	成骨细胞
+T198	Drug 7045 7046;7047 7050	利 拉鲁肽
+T199	Anatomy 7060 7064	成骨细胞
+T200	Anatomy 7096 7098;7099 7101	成骨 细胞
+T201	Anatomy 7104 7109	GLP-1
+T202	Test 7115 7118	ALP
+T203	Test 7119 7122	骨钙素
+T204	Anatomy 7123 7126	OPN
+T205	Anatomy 7127 7132	COL-I
+T206	Anatomy 7135 7148	Runt 相关转录因子 2
+T207	Drug 7165 7169	利拉鲁肽
+T208	Anatomy 7173 7177	成骨细胞

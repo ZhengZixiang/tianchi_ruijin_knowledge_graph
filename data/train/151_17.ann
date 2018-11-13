@@ -1,0 +1,538 @@
+T1	Test 7170 7173	肝功能
+T2	Test 2365 2370	甲状腺功能
+T3	Test 2605 2610	甲状腺功能
+T4	Test 3346 3351	甲状腺功能
+T5	Test 4437 4442	甲状腺功能
+T6	Test 4744 4749	甲状腺功能
+T7	Test 7343 7346;7347 7349	甲状腺 功能
+T8	Test 3462 3465	TSH
+T9	Test 2375 2378	FT4
+T10	Test 3456 3459	FT4
+T11	Test 2371 2374	FT3
+T12	Test 3452 3455	FT3
+T13	Disease 876 878	GD
+T14	Drug 7215 7220	维生素 D
+T15	Disease 67 76	Graves 眼病
+T16	Disease 113 122	Graves 眼病
+T17	Disease 207 216	Graves 眼病
+T18	Disease 364 373	Graves 眼病
+T19	Disease 2473 2482	Graves 眼病
+T20	Disease 3102 3111	Graves 眼病
+T21	Disease 5093 5102	Graves 眼病
+T22	Disease 5662 5671	Graves 眼病
+T23	Disease 6983 6992	Graves 眼病
+T24	Disease 124 132	Graves 病
+T25	Disease 2626 2634	Graves 病
+T26	Disease 3507 3515	Graves 病
+T27	Disease 4665 4673	Graves 病
+T28	Disease 7293 7301	Graves 病
+T29	Drug 6937 6944	生长抑素类似物
+T30	Disease 2592 2598	桥本甲状腺炎
+T31	Drug 4459 4464	免疫抑制剂
+T32	Drug 6931 6936	免疫抑制剂
+T33	Drug 4862 4867	糖皮质激素
+T34	Drug 4920 4925	糖皮质激素
+T35	Drug 4935 4940	糖皮质激素
+T36	Drug 5576 5581	糖皮质激素
+T37	Drug 5598 5603	糖皮质激素
+T38	Drug 5743 5748	糖皮质激素
+T39	Drug 6467 6471;6472 6473	糖皮质激 素
+T40	Drug 6485 6490	糖皮质激素
+T41	Drug 7080 7085	糖皮质激素
+T42	Drug 7104 7105;7106 7110	糖 皮质激素
+T43	Drug 7227 7232	糖皮质激素
+T44	Drug 7261 7266	糖皮质激素
+T45	Drug 7671 7676	糖皮质激素
+T46	Drug 6615 6620	利妥昔单抗
+T47	Drug 6689 6694	利妥昔单抗
+T48	Drug 6751 6756	利妥昔单抗
+T49	Drug 6801 6804;6805 6807	利妥昔 单抗
+T50	Drug 6892 6897	利妥昔单抗
+T51	Disease 5228 5232	骨质疏松
+T52	Drug 7424 7428	骨化三醇
+T53	Drug 1858 1862	甲巯咪唑
+T54	Drug 1870 1871;1872 1875	甲 巯咪唑
+T55	Drug 1883 1887	甲巯咪唑
+T56	Drug 5150 5154	甲巯咪唑
+T57	Drug 7330 7334	甲巯咪唑
+T58	Disease 3435 3440	甲状腺毒症
+T59	Disease 3471 3476	甲状腺毒症
+T60	Test 2330 2334	眼底检查
+T61	Test 4143 4150	角膜及眼底检查
+T62	Anatomy 136 139	甲状腺
+T63	Disease 146 156	器官特异性自身免疫病
+T64	Disease 301 303	甲亢
+T65	Operation 350 354	康复手术
+T66	Treatment 375 381	免疫抑制治疗
+T67	Treatment 383 387	眶部放疗
+T68	Operation 389 393	眶减压术
+T69	Operation 395 399	康复手术
+T70	Symptom 1789 1793	反复心悸
+T71	Duration 1794 1798	8 个月
+T72	Symptom 1799 1803	双眼突出
+T73	Duration 1804 1808	3 个月
+T74	Symptom 1826 1828	心悸
+T75	Symptom 1829 1831	消瘦
+T76	Disease 1846 1853	甲状腺功能亢进
+T77	Amount 1888 1892	5 mg
+T78	Frequency 1893 1895	qd
+T79	Drug 1896 1903	左旋甲状腺素钠
+T80	Amount 1904 1906;1907 1909	25 μg
+T81	Frequency 1910 1912	qd
+T82	Symptom 1926 1930	双眼突出
+T83	Symptom 1931 1933	畏光
+T84	Symptom 1934 1936	流泪
+T85	Symptom 1937 1939	眼胀
+T86	Drug 2012 2016	降压药物
+T87	Disease 2026 2028	肝炎
+T88	Disease 2040 2045	自身免疫病
+T89	Disease 2049 2053	精神疾病
+T90	Symptom 2071 2080	甲状腺 I 度肿大
+T91	Symptom 2081 2086	未触及结节
+T92	Symptom 2087 2095	无震颤及血管杂音
+T93	Symptom 2096 2099;2100 2103	两肺呼 吸音清
+T94	Symptom 2104 2111	未闻及干湿啰音
+T95	Test 2112 2114	心率
+T96	Test_Value 2115 2125	70 次 / min
+T97	Test 2129 2131	血压
+T98	Test_Value 2132 2140;2141 2145	125 / 80 mmHg
+T99	Test 2171 2175	最佳视力
+T100	Symptom 2193 2201	双眼眼睑中度水肿
+T101	Symptom 2202 2208	双眼眼睑红斑
+T102	Symptom 2209 2215	双眼结膜充血
+T103	Symptom 2216 2217;2218 2224	双 眼球结膜水肿
+T104	Symptom 2225 2232	双眼眼阜无肿胀
+T105	Test 2233 2236	突眼度
+T106	Test 2255 2259	上睑退缩
+T107	Symptom 2276 2283	左眼睑闭合不全
+T108	Test 2284 2286;2287 2288	眼内 压
+T109	Symptom 2317 2324	双眼角膜无异常
+T110	Symptom 2325 2327;2328 2329	前房 清
+T111	Test 2345 2350	血尿粪常规
+T112	Test 2359 2362	电解质
+T113	Test 2353 2356;2357 2358	肝肾功 能
+T114	Test 2381 2385	sTSH
+T115	Test_Value 2386 2400	0. 253 μIU / L
+T116	Test 2402 2411	促甲状腺素受体抗体
+T117	Test 2412 2416	TRAb
+T118	Test_Value 2417 2425	12 U / L
+T119	Test 2427 2433	眼肌 MRI
+T120	Test_Value 2434 2439;2440 2443	双眼上下直 肌增粗
+T121	Test_Value 2444 2465	双眼外肌于 T2W(脂肪抑制)可见高信号影
+T122	Disease 2483 2485	GO
+T123	Disease 2507 2519	器官特异性自身免疫性疾病
+T124	Disease 2562 2564	GO
+T125	Disease 2572 2574	甲亢
+T126	Disease 2582 2584	甲减
+T127	Disease 2526 2531;2532 2537	自身免疫性 甲状腺疾病
+T128	Disease 2616 2618	GO
+T129	Disease 2650 2653;2654 2655	临床眼 病
+T130	Disease 2664 2669	亚临床眼病
+T131	Disease 2675 2677	GO
+T132	Disease 2688 2690	甲亢
+T133	Disease 2701 2703	甲亢
+T134	Disease 2711 2713	GO
+T135	Symptom 2722 2726	眼睑肿胀
+T136	Symptom 2727 2731	上睑退缩
+T137	Symptom 2732 2736	下落迟缓
+T138	Symptom 2737 2741	瞬目减少
+T139	Symptom 2742 2744	凝视
+T140	Symptom 2745 2746;2747 2753	单 眼或双眼突出
+T141	Symptom 2754 2760	眼球活动受限
+T142	Symptom 2761 2763	复视
+T143	Disease 2770 2772	GO
+T144	Disease 2885 2887	GO
+T145	Symptom 3165 3169	眼睑退缩
+T146	Symptom 3203 3207	眼球突出
+T147	Symptom 3209 3216	视神经功能障碍
+T148	Symptom 3250 3255	眼外肌受累
+T149	Symptom 3256 3259;3260 3263	眼球活 动受限
+T150	Symptom 3303 3307	眼球突出
+T151	Symptom 3309 3314	眼外肌受累
+T152	Symptom 3315 3321;3322 3323	视神经功能障 碍
+T153	Disease 3333 3335	眼病
+T154	Disease 3363 3365	GO
+T155	Symptom 3368 3372	单侧突眼
+T156	Disease 3390 3396	眼眶炎性假瘤
+T157	Disease 3397 3400	眼肌炎
+T158	Disease 3401 3405	眶内肿瘤
+T159	Disease 3406 3412;3413 3414	眶周感染性疾 病
+T160	Symptom 3429 3431	心悸
+T161	Symptom 3432 3434	消瘦
+T162	Symptom 3487 3492	甲状腺肿大
+T163	Symptom 3493 3495	眼征
+T164	Test 3497 3501	TRAb
+T165	Symptom 3534 3538	眼睑退缩
+T166	Symptom 3552 3556	双眼突出
+T167	Symptom 3557 3562	眼外肌受累
+T168	Test 3564 3570	眼部 MRI
+T169	Symptom 3581 3583	突眼
+T170	Disease 3597 3599	GO
+T171	Disease 3610 3612	GO
+T172	Level 3760 3763	中重度
+T173	Level 3769 3772	中重度
+T174	Disease 3772 3774	眼病
+T175	Symptom 3776 3782	角膜严重受累
+T176	Disease 3808 3810	GO
+T177	Test 3816 3825	Gorman 评分
+T178	Drug 3836 3838	激素
+T179	Disease 3857 3859	眼病
+T180	Symptom 3897 3906;3907 3908	球内或球后压迫疼痛 感
+T181	Symptom 3912 3919	凝视诱发的疼痛
+T182	Symptom 3923 3927	眼睑充血
+T183	Symptom 3931 3938;3939 3940	眼睑水肿结膜充 血
+T184	Symptom 3944 3949	球结膜水肿
+T185	Symptom 3953 3957	眼阜水肿
+T186	Test_Value 3974 3975;3976 3979	≥ 3 分
+T187	Symptom 4032 4034	眼胀
+T188	Symptom 4036 4038	眼痛
+T189	Test 4088 4091	突眼度
+T190	Test 4110 4114	上睑退缩
+T191	Level 4134 4136;4137 4138	中重 度
+T192	Disease 4138 4140	眼病
+T193	Disease 4177 4179	眼病
+T194	Level 4174 4177	中重度
+T195	Symptom 4192 4193;4194 4195	眼 胀
+T196	Symptom 4209 4217	双眼眼睑中度水肿
+T197	Test 4252 4257	活动性评分
+T198	Test 4258 4261	CAS
+T199	Disease 4282 4284	GO
+T200	Test 4296 4298	甲功
+T201	Symptom 4301 4305	单眼突出
+T202	Test 4311 4316	影像学检查
+T203	Test 4342 4344	CT
+T204	Test 4347 4350	MRI
+T205	Anatomy 4353 4356	视神经
+T206	Test 4362 4364	CT
+T207	Anatomy 4366 4370	骨性组织
+T208	Test 4396 4399	MRI
+T209	Drug 4456 4458	激素
+T210	Symptom 4479 4486	视力进行性下降
+T211	Disease 4500 4502	GO
+T212	Disease 4543 4545	GO
+T213	Anatomy 4563 4570	眼眶成纤维细胞
+T214	Anatomy 4584 4589	成纤维细胞
+T215	Disease 4652 4654	GO
+T216	Disease 4679 4681	GO
+T217	Disease 4730 4732	GO
+T218	Treatment 4764 4770	放射性碘治疗
+T219	Disease 4778 4780	GO
+T220	Drug 4815 4818	泼尼松
+T221	Method 4813 4815	口服
+T222	Treatment 4819 4825	放射性碘治疗
+T223	Test 4830 4832	甲功
+T224	Drug 4837 4843	左旋甲状腺素
+T225	Disease 4852 4854	甲减
+T226	Treatment 5103 5106	RAI
+T227	Disease 5090 5092	GO
+T228	Treatment 5107 5113	放射性碘治疗
+T229	Level 5122 5125	中重度
+T230	Disease 5125 5126;5127 5128	眼 病
+T231	Disease 5135 5137	眼病
+T232	Disease 5162 5164	甲亢
+T233	Reason 5175 5179	高 T3
+T234	Reason 5198 5200	吸烟
+T235	Disease 5223 5225;5226 5227	糖尿 病
+T236	Disease 5233 5237	精神疾病
+T237	Disease 5238 5240	感染
+T238	Symptom 5289 5295	眼睑闭合不全
+T239	Disease 5311 5314	角膜病
+T240	Symptom 5320 5322	复视
+T241	Symptom 5335 5337	复视
+T242	Disease 5345 5347	GO
+T243	Disease 5348 5350	GO
+T244	Level 5342 5344	轻度
+T245	Level 5383 5385	严重
+T246	Disease 5386 5391	持续性眼病
+T247	Level 5397 5398;5399 5400	轻 度
+T248	Disease 5401 5403	眼病
+T249	Level 5430 5432	轻度
+T250	Disease 5433 5435	GO
+T251	Disease 5487 5490	糖尿病
+T252	Operation 5517 5521	整复手术
+T253	Disease 5530 5532	GO
+T254	Level 5526 5529	中重度
+T255	Disease 5542 5544	眼病
+T256	Level 5539 5542	中重度
+T257	Disease 5605 5607	GO
+T258	Anatomy 5713 5716	视神经
+T259	Test 5725 5728	突眼度
+T260	Method 5741 5743	口服
+T261	Level 5755 5758	中重度
+T262	Disease 5758 5760	眼病
+T263	Method 5796 5798	静脉
+T264	Method 5811 5813	口服
+T265	Drug 5813 5815	激素
+T266	Amount 5863 5868	2. 25
+T267	Amount 5869 5874	4. 98
+T268	Drug 5885 5890	甲泼尼松龙
+T269	Duration 5895 5899	12 周
+T270	Amount 5924 5928	中等剂量
+T271	Drug 5986 5991	甲泼尼松龙
+T272	Amount 5992 5997	4. 5g
+T273	Drug 6058 6060	激素
+T274	Amount 6085 6090	4. 5g
+T275	Duration 6094 6098	12 周
+T276	Drug 6099 6104	甲泼尼松龙
+T277	Level 6117 6120	中重度
+T278	Disease 6121 6123	GO
+T279	Drug 6133 6138	甲泼尼松龙
+T280	SideEff 6156 6159	肝毒性
+T281	Amount 6168 6172;6173 6177	10 ~ 24 g
+T282	SideEff 6179 6182	肝毒性
+T283	SideEff 6237 6241	心脏毒性
+T284	Method 6254 6258	眶周注射
+T285	Drug 6258 6260	激素
+T286	Drug 6267 6269	激素
+T287	Symptom 6293 6295	复视
+T288	Symptom 6299 6305	非持续性复视
+T289	Treatment 6337 6339	放疗
+T290	Treatment 6359 6361	放疗
+T291	Duration 6397 6400	2 周
+T292	Amount 6408 6413	20 Gy
+T293	Duration 6437 6441	20 周
+T294	Amount 6457 6460	大剂量
+T295	Treatment 6475 6477	放疗
+T296	Symptom 6502 6504	复视
+T297	Treatment 6511 6513	放疗
+T298	Treatment 6565 6569	球后放疗
+T299	Disease 6573 6581	视网膜微血管病变
+T300	Disease 6591 6594	糖尿病
+T301	Disease 6597 6600	高血压
+T302	Level 6595 6597	严重
+T303	Disease 6625 6630	自身免疫病
+T304	Disease 6641 6643	GO
+T305	Level 6680 6683	中重度
+T306	Disease 6684 6686	GO
+T307	Test 6713 6716	CAS
+T308	Level 6767 6770	中重度
+T309	Disease 6810 6819	细胞因子释放综合征
+T310	Amount 6848 6851	高剂量
+T311	Amount 6855 6858	低剂量
+T312	Disease 6865 6867	GO
+T313	Test 6872 6875	CAS
+T314	Test 6877 6883	生活质量评分
+T315	Disease 6900 6902	GO
+T316	Drug 6945 6946;6947 6950	秋 水仙碱
+T317	Operation 6997 7001	整复手术
+T318	Symptom 7010 7012	复视
+T319	Disease 7029 7031	GO
+T320	Symptom 7039 7043	角膜受累
+T321	Level 7037 7039	严重
+T322	Operation 7054 7059	眼睑缝合术
+T323	Anatomy 7061 7063	角膜
+T324	Disease 7070 7075	视神经病变
+T325	Operation 7086 7090	眶减压术
+T326	Amount 7099 7102	大剂量
+T327	Method 7102 7104	静脉
+T328	Operation 7147 7151	眶减压术
+T329	Drug 7155 7157	激素
+T330	Test 7167 7169	血压
+T331	Test 7180 7183	电解质
+T332	Test 7174 7178	糖脂代谢
+T333	Drug 7204 7208;7209 7211	胃黏膜保 护剂
+T334	Drug 7212 7214	钙剂
+T335	Method 7225 7227	口服
+T336	Duration 7232 7239	超过 3 个月
+T337	Drug 7240 7241;7242 7244	泼 尼松
+T338	Amount 7244 7254	平均日剂量≥5 mg
+T339	Drug 7270 7271;7272 7275	双 膦酸盐
+T340	Level 7314 7317	中重度
+T341	Disease 7318 7320	GO
+T342	Drug 7335 7341	左旋甲状腺素
+T343	Drug 7359 7364	甲泼尼松龙
+T344	Amount 7372 7375;7376 7378	500 mg
+T345	Frequency 7379 7381	qw
+T346	Method 7382 7384	静滴
+T347	Duration 7384 7388	×6 周
+T348	Amount 7393 7399	250 mg
+T349	Frequency 7400 7402	qw
+T350	Method 7403 7405	静滴
+T351	Duration 7405 7409	×6 周
+T352	Drug 7415 7416;7417 7420	奥 美拉唑
+T353	Drug 7421 7423	钙剂
+T354	Duration 7434 7438	12 周
+T355	Test 7463 7467	最佳视力
+T356	Symptom 7485 7493	双眼眼睑轻度水肿
+T357	Symptom 7494 7501	双眼眼睑无红斑
+T358	Symptom 7502 7512	双眼结膜充血较前好转
+T359	Symptom 7514 7522	双眼球结膜无水肿
+T360	Symptom 7523 7530	双眼眼阜无肿胀
+T361	Test 7531 7534	CAS
+T362	Test_Value 7534 7541	2 / 7 分
+T363	Test 7542 7545	突眼度
+T364	Disease 7571 7573	GO
+T365	Disease 7615 7617	GO
+T366	Level 7664 7667	中重度
+T367	Disease 7667 7669	眼病
+T368	Drug 7682 7683;7684 7688	甲 泼尼松龙
+T369	Level 319 322	中重度
+T370	Disease 322 323;324 325	眼 病
+T371	Duration 1916 1920	3 个月
+T372	Duration 1952 1958	近 1 个月
+T373	Duration 2002 2006	5 年余
+T374	Test 2017 2019	血压
+T375	Anatomy 2809 2813	炎症细胞
+T376	Disease 2852 2854	GO
+T377	Test 3449 3451	甲功
+T378	Disease 3619 3621	眼病
+T379	Level 3984 3987	活动期
+T380	Level 3829 3832	活动期
+T381	Symptom 3359 3361	眼征
+T382	Level 2779 2780;2781 2783	活 动期
+T383	Level 2784 2787	静止期
+T384	Level 2788 2791	活动期
+T385	Level 2819 2822	静止期
+T386	Level 4274 4277	活动期
+T387	Reason 4539 4541	吸烟
+T388	Test 4575 4581	葡萄糖胺聚糖
+T389	Anatomy 4590 4601	干扰素( IFN)-γ
+T390	Level 5118 5121	活动期
+T391	Level 5508 5512	非活动期
+T392	Level 5535 5538	活动期
+T393	Level 5752 5755	活动期
+T394	Symptom 5708 5710	水肿
+T395	Level 5848 5851	中重度
+T396	Amount 5950 5953	大剂量
+T397	Level 6114 6117	活动期
+T398	Level 6676 6678;6679 6680	活动 期
+T399	Drug 6757 6760	安慰剂
+T400	Drug 6777 6780	安慰剂
+T401	Level 6978 6981	静止期
+T402	Duration 7125 7132	1 ~ 2 周
+T403	Level 7310 7313	活动期
+T404	Reason 7578 7580	遗传
+T405	Reason 7581 7583	免疫
+T406	Reason 7584 7586	环境
+T407	Level 7660 7663	活动期
+T408	Symptom 2064 2068;2069 2070	一般情况 可
+T409	Test_Value 2334 2337	无异常
+T410	Test_Value 2350 2352	正常
+T411	Test_Value 2362 2364	正常
+T412	Test_Value 2378 2380	正常
+T413	Test_Value 3459 3461	升高
+T414	Test_Value 3466 3468	降低
+T415	Test_Value 3502 3504	升高
+T416	Disease 3659 3661	GO
+T417	Symptom 3811 3813	复视
+T418	Test 3804 3806	视力
+T419	Treatment 3839 3845	免疫抑制治疗
+T420	Test 4074 4078	眼科检查
+T421	Test_Value 4150 4156	未见明显异常
+T422	Test 4161 4163	视力
+T423	Test_Value 4163 4164;4165 4169	无 明显下降
+T424	Test 3888 3893	活动性评分
+T425	Test_Value 4298 4300	正常
+T426	Drug 4751 4754;4755 4756	口服药 物
+T427	Test_Value 4741 4743	正常
+T428	Operation 4757 4761	手术治疗
+T429	Test 5132 5134	视力
+T430	Drug 5268 5272	人工泪液
+T431	Symptom 5280 5284	局部不适
+T432	Method 6006 6008	静滴
+T433	Anatomy 6316 6320	周围组织
+T434	Test 7025 7027	视力
+T435	Test 7719 7724	甲状腺功能
+T436	Symptom 136 142	甲状腺外表现
+T437	Treatment 329 333	免疫抑制
+T438	Symptom 1949 1951	眼痛
+T439	Symptom 1963 1965	复视
+T440	Disease 1997 2001	高血压病
+T441	Disease 2029 2032	结核病
+T442	Symptom 2126 2128	律齐
+T443	Anatomy 2176 2178	右眼
+T444	Anatomy 2185 2187	左眼
+T445	Test_Value 2179 2183	0. 8
+T446	Test_Value 2188 2192	0. 6
+T447	Anatomy 2237 2239	右眼
+T448	Anatomy 2246 2248	左眼
+T449	Test_Value 2240 2245	21 mm
+T450	Test_Value 2249 2251;2252 2254	22 mm
+T451	Anatomy 2260 2262	右侧
+T452	Anatomy 2268 2270	左侧
+T453	Test_Value 2263 2267	2 mm
+T454	Test_Value 2271 2275	3 mm
+T455	Anatomy 2289 2291	右眼
+T456	Anatomy 2303 2305	左眼
+T457	Test_Value 2292 2302	15. 8 mmHg
+T458	Test_Value 2306 2316	19. 3 mmHg
+T459	Anatomy 2488 2491	眼球后
+T460	Anatomy 2492 2496	眶周组织
+T461	Symptom 3193 3200	甲状腺功能异常
+T462	Symptom 3219 3223	视力下降
+T463	Test 3224 3228	瞳孔反射
+T464	Test 3229 3230;3231 3232	色 觉
+T465	Symptom 3233 3237	视野异常
+T466	Symptom 3275 3279	眼睑退缩
+T467	Symptom 3283 3290	甲状腺功能异常
+T468	Symptom 3543 3546;3547 3551	甲状腺 功能异常
+T469	Symptom 3716 3720	眼睑退缩
+T470	Symptom 3721 3726	软组织受累
+T471	Test 3730 3733	突眼度
+T472	Symptom 3734 3736	复视
+T473	Anatomy 3737 3739	角膜
+T474	Anatomy 3742 3745	视神经
+T475	Level 3778 3780	严重
+T476	Anatomy 3783 3786	视神经
+T477	Symptom 3791 3798	视力进行性下降
+T478	Test_Value 4080 4087	双眼睑中度水肿
+T479	Anatomy 4092 4094	右眼
+T480	Anatomy 4101 4103	左眼
+T481	Test_Value 4095 4097;4098 4100	21 mm
+T482	Test_Value 4104 4109	22 mm
+T483	Anatomy 4115 4117	右侧
+T484	Anatomy 4123 4125	左侧
+T485	Test_Value 4118 4122	2 mm
+T486	Test_Value 4126 4130	3 mm
+T487	Symptom 4206 4208	眼痛
+T488	Level 4213 4215	中度
+T489	Symptom 4218 4222;4223 4225	双眼眼睑 红斑
+T490	Symptom 4226 4232	双眼结膜充血
+T491	Symptom 4233 4240	双眼球结膜水肿
+T492	Symptom 4241 4248	双眼眼阜无肿胀
+T493	Test_Value 4264 4271	6 / 7 分
+T494	Symptom 4327 4334;4335 4338	视力短期内进行 性下降
+T495	Operation 4382 4387	去眶减压术
+T496	Reason 4404 4412	软组织水肿及变性
+T497	Treatment 4794 4800	放射性碘治疗
+T498	Operation 5155 5157	手术
+T499	Reason 5180 5190	高促甲状腺素受体抗体
+T500	Reason 5192 5196	TRAb
+T501	Symptom 5275 5279	眼球干燥
+T502	Drug 5439 5440	硒
+T503	Drug 5478 5479	硒
+T504	Anatomy 5567 5569	眼睛
+T505	Method 5690 5694	眶周注射
+T506	Method 5680 5682	口服
+T507	Method 5683 5685	静脉
+T508	Test 5729 5733	眼肌功能
+T509	Drug 5798 5803	甲泼尼松龙
+T510	Amount 5877 5884	7. 47 g
+T511	Method 5890 5892	静脉
+T512	Duration 6012 6016	12 周
+T513	Duration 6025 6028	4 周
+T514	Method 6138 6141;6142 6145	静脉冲 击治疗
+T515	Amount 6223 6226	8 g
+T516	Anatomy 6284 6286	眼球
+T517	Amount 6384 6391	每日 2 Gy
+T518	Amount 6424 6431	每周 1 Gy
+T519	Test 6494 6498	眼肌功能
+T520	Test_Value 6719 6723	≥2 分
+T521	SideEff 6792 6797	视神经病变
+T522	SideEff 7188 7193	消化性溃疡
+T523	SideEff 7194 7196	感染
+T524	Method 7257 7259	静脉
+T525	Method 7364 7366	静脉
+T526	Frequency 7366 7371	周脉冲治疗
+T527	Symptom 7441 7443	眼胀
+T528	Symptom 7449 7454	无明显眼痛
+T529	Anatomy 7468 7470	右眼
+T530	Anatomy 7476 7478	左眼
+T531	Test_Value 7471 7475	1. 2
+T532	Test_Value 7479 7483	1. 0
+T533	Level 7489 7491	轻度
+T534	Anatomy 7546 7548	右眼
+T535	Anatomy 7555 7557	左眼
+T536	Test_Value 7549 7554	19 mm
+T537	Test_Value 7558 7563	20 mm
+T538	Method 7688 7690	静脉

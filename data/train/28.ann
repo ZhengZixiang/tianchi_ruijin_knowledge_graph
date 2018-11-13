@@ -1,0 +1,434 @@
+T1	Disease 2 7	慢性肾脏病
+T2	Disease 11 16	高尿酸血症
+T3	Disease 51 56	慢性肾脏病
+T4	Disease 25 30	慢性肾脏病
+T5	Disease 34 39	高尿酸血症
+T6	Disease 118 121	cKD
+T7	Disease 201 204	cKD
+T8	Disease 209 213;214 215	终末期肾 病
+T9	Disease 262 266	ESRD
+T10	Disease 319 322	cKD
+T11	Disease 335 338	CKD
+T12	Disease 342 347	高尿酸血症
+T13	Disease 383 386	cKD
+T14	Disease 405 407	肾病
+T15	Disease 418 421	HuA
+T16	Test 449 453	eGFR
+T17	Treatment 457 464	维持性腹膜透析
+T18	Treatment 465 467	腹透
+T19	Test 479 482	血尿酸
+T20	Treatment 485 487	腹透
+T21	Disease 490 494	全因死亡
+T22	Disease 495 500;501 531	心血管疾病 (cardiovascular disease,CVD)死亡
+T23	Disease 549 552	cKD
+T24	Disease 558 561	HuA
+T25	Disease 595 598	cKD
+T26	Disease 622 625	CKD
+T27	Disease 627 630	HuA
+T28	Disease 680 683	cKD
+T29	Disease 685 688	HuA
+T30	Disease 705 710	慢性肾脏病
+T31	Disease 734 736;737 740	高尿 酸血症
+T32	Disease 1145 1148	cKD
+T33	Disease 1150 1153	HuA
+T34	Disease 1363 1366	cKD
+T35	Disease 1375 1378	cKD
+T36	Test 1421 1423;1424 1428	肾小 球滤过率
+T37	Test_Value 1433 1435	下降
+T38	Test 1468 1471	GFR
+T39	Test_Value 1471 1483;1484 1493	<60 m1.min~· (1.73 m2)
+T40	Disease 1518 1521	cKD
+T41	Disease 1598 1601	HuA
+T42	Disease 1610 1613	HuA
+T43	Test 1635 1640	空腹血尿酸
+T44	Symptom 1695 1697	痛风
+T45	Symptom 1698 1701	痛风石
+T46	Disease 1706 1709	HuA
+T47	Disease 1715 1718	HuA
+T48	Test 1749 1753;1754 1755	尿尿酸水 平
+T49	Test 1783 1784;1785 1789	尿 酸清除率
+T50	Test_Value 1789 1800	<6.2 ml/min
+T51	Disease 1855 1858	HuA
+T52	Disease 1859 1862	cKD
+T53	Disease 2046 2049	HuA
+T54	Disease 2050 2053	cKD
+T55	Test 2112 2120	估算肾小球滤过率
+T56	Test 2127 2132	尿蛋白水平
+T57	Test 2149 2152	血尿酸
+T58	Test 2177 2180	HuA
+T59	Test 2181 2184	cKD
+T60	Test 2221 2226	血尿酸水平
+T61	Test 2228 2231	血尿酸
+T62	Test_Value 2233 2244	70—90¨mol/L
+T63	Disease 2290 2293	cKD
+T64	Disease 2395 2399	尿路结石
+T65	Test 2404 2407	肾功能
+T66	Test 2408 2410	血压
+T67	Test 2417 2419	尿量
+T68	Test 2430 2432	尿量
+T69	Test_Value 2433 2440;2441 2443	1500 m1 以上
+T70	Test_Value 2446 2453	2000 ml
+T71	Treatment 2459 2463	碱化尿液
+T72	Treatment 2466 2470	碱化尿液
+T73	Test 2471 2474	尿pH
+T74	Test_Value 2475 2482	6.2~6.9
+T75	Test 2506 2507;2508 2510	尿 pH
+T76	Test_Value 2510 2514	>7.0
+T77	Treatment 2530 2534	碱化尿液
+T78	Test 2546 2550	尿pH值
+T79	Treatment 2554 2558	碱化尿液
+T80	Drug 2562 2566	碳酸氢钠
+T81	Drug 2567 2572	枸橼酸合剂
+T82	Drug 2573 2574;2575 2582	碳 酸氢钠(小苏打
+T83	Method 2583 2585	口服
+T84	Amount 2588 2595	0.5~l g
+T85	Frequency 2596 2600	每日3次
+T86	Disease 2602 2605	cKD
+T87	Drug 2609 2613	碳酸氢钠
+T88	Symptom 2618 2624	代谢性酸中毒
+T89	Reason 2641 2644	钠负荷
+T90	Disease 2648 2655	充血性心力衰竭
+T91	Symptom 2657 2659	水肿
+T92	Drug 2663 2668	枸橼酸合剂
+T93	Method 2668 2670	口服
+T94	Disease 2676 2679	cKD
+T95	Test 2683 2685	血钾
+T96	Symptom 2692 2696	高钾血症
+T97	Disease 2710 2712	痛风
+T98	Disease 2717 2722	痛风关节炎
+T99	Level 2708 2710	急性
+T100	Level 2722 2726	急性发作
+T101	Drug 2762 2768	非甾体抗炎药
+T102	Drug 2778 2783	糖皮质激素
+T103	Drug 2784 2788	秋水仙碱
+T104	Drug 2793 2797;2798 2812	选择性环 氧化酶2(COx.2)抑制剂
+T105	Disease 2832 2835	cKD
+T106	Drug 2853 2854;2855 2858	依 托考昔
+T107	Disease 2860 2864	急性痛风
+T108	Drug 2868 2872	吲哚美辛
+T109	Drug 2873 2877	双氯芬酸
+T110	Drug 2878 2880;2881 2883	塞来 昔布
+T111	Disease 2885 2888	cKD
+T112	Drug 2893 2899	NsAIDs
+T113	Disease 2905 2908;2909 2911	急性肾 损伤
+T114	Drug 2929 2935	NSAIDs
+T115	Drug 2949 2954	糖皮质激素
+T116	Drug 2956 2959	泼尼松
+T117	Amount 2959 2964;2965 2967	30~35 m删
+T118	Duration 2969 2974	3~5 d
+T119	Test_Value 1666 1674	>420μmol
+T120	Test_Value 1679 1689	>357μmol/L
+T121	Drug 2976 2980	秋水仙碱
+T122	Drug 2981 2985	秋水仙碱
+T123	Duration 2994 3001	12~24 h
+T124	Level 3013 3015	重度
+T125	Symptom 3015 3020;3021 3025	肾功能或肝 功能损害
+T126	Disease 3063 3066	cKD
+T127	Drug 3102 3108	NsAIDs
+T128	Disease 3068 3070	痛风
+T129	Disease 3166 3169	cKD
+T130	Disease 3171 3174	HuA
+T131	Test 3202 3205	肾功能
+T132	Test 3208 3212	尿酸水平
+T133	Disease 3222 3224	痛风
+T134	Disease 3225 3228	cKD
+T135	Disease 3260 3263	HUA
+T136	Disease 3264 3267	cKD
+T137	Test 3273 3276	血尿酸
+T138	Test 3288 3291	血尿酸
+T139	Test_Value 3276 3285	>420μmoⅣL
+T140	Test_Value 3291 3299	>360μmo觇
+T141	Drug 3328 3331	别嘌醇
+T142	Drug 3332 3336	非布司他
+T143	Drug 3347 3351	苯溴马隆
+T144	Drug 3353 3356	丙磺舒
+T145	Test 3367 3372	血尿酸水平
+T146	Test_Value 3380 3390	<360μmol/L
+T147	Level 3396 3398	严重
+T148	Disease 3398 3400	痛风
+T149	Test_Value 3407 3411;3412 3418	<300 μmol/L
+T150	Test 3429 3434	血尿酸水平
+T151	Test_Value 3434 3443	<180“mo川2
+T152	Disease 3457 3460	HuA
+T153	Disease 3461 3464	cKD
+T154	Drug 3552 3555	别嘌醇
+T155	Disease 3561 3572	慢性原发性或继发性痛风
+T156	Disease 3587 3592	高尿酸血症
+T157	Symptom 3582 3586	痛风症状
+T158	Disease 3593 3596	cKD
+T159	Disease 3606 3610	尿酸结石
+T160	Disease 3616 3619	白血病
+T161	Disease 3620 3623	淋巴瘤
+T162	Treatment 3630 3632	化疗
+T163	Treatment 3633 3635	放疗
+T164	Symptom 3642 3647	尿酸盐沉积
+T165	Disease 3648 3651	肾结石
+T166	Amount 3662 3665	小剂量
+T167	Amount 3679 3690	每次50~100 mg
+T168	Frequency 3691 3697	每日1~3次
+T169	Duration 3698 3702	2~3周
+T170	Amount 3705 3707;3708 3714	每日 300 mg
+T171	Frequency 3715 3719	分2~3
+T172	Test 3731 3735	eGFR
+T173	Test_Value 3735 3738;3739 3745	<60 ml,min
+T174	Drug 3746 3749	别嘌醇
+T175	Amount 3758 3769	50~100 m只/d
+T176	Test 3771 3775	eGFR
+T177	Test_Value 3775 3785	<15 ml,min
+T178	Drug 3799 3802	别嘌醇
+T179	Test 3830 3833	血尿酸
+T180	Test_Value 3833 3835	达标
+T181	Drug 3863 3866;3867 3868	秋水仙 碱
+T182	Disease 3851 3853	痛风
+T183	Symptom 3893 3898	胃肠道症状
+T184	Symptom 3899 3901	皮疹
+T185	Symptom 3902 3907	肝功能损害
+T186	Symptom 3908 3910;3911 3913	骨髓 抑制
+T187	Symptom 3929 3936;3937 3940	别嘌醇超敏反应 综合征
+T188	Drug 3959 3962	别嘌醇
+T189	Level 3965 3967	严重
+T190	Symptom 3967 3973	肝肾功能不全
+T191	Symptom 3976 3977;3978 3982	血 细胞低下
+T192	Level 3974 3976	明显
+T193	Drug 4010 4013	硫唑嘌
+T194	Drug 4025 4028	别嘌醇
+T195	Drug 4034 4037	别嘌醇
+T196	Disease 4063 4067;4068 4069	剥脱性皮 炎
+T197	Reason 4072 4078	噻嗪类利尿剂
+T198	Reason 4079 4084	肾功能不全
+T199	Level 4106 4108	3期
+T200	Level 4109 4113	3期以上
+T201	Disease 4113 4116	CKD
+T202	Level 4171 4173	严重
+T203	Disease 4173 4180	别嘌醇超敏反应
+T204	Symptom 4087 4091	超敏反应
+T205	Drug 4215 4219	非布司他
+T206	Disease 4223 4225	痛风
+T207	Disease 4227 4230	HuA
+T208	Method 4244 4246	口服
+T209	Amount 4251 4256	40 mg
+T210	Amount 4257 4262	80 mg
+T211	Frequency 4263 4264;4265 4268	每 日1次
+T212	Amount 4276 4281	40 mg
+T213	Frequency 4282 4286	每日1次
+T214	Duration 4288 4290	2周
+T215	Test 4292 4293;4294 4298	血 尿酸水平
+T216	Test_Value 4299 4311	不低于360μmol/L
+T217	Amount 4318 4323	80 mg
+T218	Frequency 4324 4325;4326 4329	每 日1次
+T219	Level 4351 4355	轻、中度
+T220	Disease 4355 4360	肾功能不全
+T221	Test 4361 4365	eGFR
+T222	Test_Value 4366 4376	30~89 m‰in
+T223	Disease 4391 4394	cKD
+T224	Level 4395 4397	4期
+T225	Drug 4412 4416	非布司他
+T226	Amount 4432 4437	20 mg
+T227	Frequency 4439 4443	每日1次
+T228	Symptom 4453 4458	肝功能异常
+T229	Symptom 4459 4461	恶心
+T230	Symptom 4462 4465	关节痛
+T231	Symptom 4466 4468	皮疹
+T232	Test 5199 5201	pH
+T233	Test_Value 5204 5211	6.2~6.9
+T234	Drug 5181 5185	碳酸氢钠
+T235	Drug 5186 5191	枸橼酸合剂
+T236	Disease 5155 5159	尿酸结石
+T237	Test 5163 5167	肝肾功能
+T238	Drug 4490 4493	别嘌醇
+T239	Drug 4476 4480	非布司他
+T240	Level 5035 5037	严重
+T241	Disease 5037 5041;5042 5043	肾功能损 害
+T242	Test 5045 5049	eGFR
+T243	Test_Value 5049 5059	<30 ml/min
+T244	Disease 5062 5065	肾结石
+T245	Symptom 4993 4995	肝损
+T246	Symptom 4996 5000	胃肠不适
+T247	Symptom 5001 5003	腹泻
+T248	Symptom 5004 5006	皮疹
+T249	Symptom 5007 5008;5009 5010	阳 痿
+T250	Disease 4952 4957	肾功能不全
+T251	Level 4947 4951	轻、中度
+T252	Test 4960 4964	eGFR
+T253	Test_Value 4964 4974	>60 ml/min
+T254	Drug 4868 4872	苯溴马隆
+T255	Disease 4883 4888	高尿酸血症
+T256	Method 4905 4907	口服
+T257	Drug 4508 4512	硫唑嘌呤
+T258	Drug 4513 4516	巯嘌呤
+T259	Amount 4907 4912	50 mg
+T260	Frequency 4913 4915;4916 4918	每日 1次
+T261	Method 4919 4924	早餐后服用
+T262	Amount 4937 4943;4944 4946	50~100 mg
+T263	Drug 4742 4743;4744 4747	苯 溴马隆
+T264	Drug 4748 4751	丙磺舒
+T265	Test 4799 4806	24 h尿尿酸
+T266	Test_Value 4815 4820;4821 4825	>3.54 mm01
+T267	Disease 4828 4835	泌尿系尿酸结石
+T268	Disease 4845 4848	溃疡病
+T269	Disease 4850 4855	肾功能不全
+T270	Drug 4697 4701	非布司他
+T271	Disease 4659 4664	高尿酸血症
+T272	Drug 4631 4635	非布司他
+T273	Drug 4611 4615	非布司他
+T274	Symptom 4621 4622;4623 4624	痛 风
+T275	Symptom 4585 4587	痛风
+T276	Drug 4596 4597;4598 4604	非 甾体类抗炎药
+T277	Drug 4605 4609	秋水仙碱
+T278	Drug 4532 4536	非布司他
+T279	Symptom 4542 4544	痛风
+T280	Drug 5216 5219	丙磺舒
+T281	Drug 5232 5235	丙磺舒
+T282	Method 5263 5265	口服
+T283	Amount 5265 5271	0.25 g
+T284	Frequency 5272 5275;5276 5277	1日2 次
+T285	Duration 5278 5280	1周
+T286	Amount 5286 5291	0.5 g
+T287	Frequency 5292 5296	1日2次
+T288	Test 5308 5312	尿酸水平
+T289	Drug 5334 5337	丙磺舒
+T290	Symptom 5343 5347	肠胃不适
+T291	Symptom 5353 5356;5357 5358	皮肤出 疹
+T292	Symptom 5359 5366	泌尿系尿酸结石
+T293	Test 5369 5373	eGFR
+T294	Test_Value 5373 5383	<30 m1,min
+T295	Drug 5394 5397	丙磺舒
+T296	Drug 6693 6696	氯沙坦
+T297	Disease 6714 6717	高血压
+T298	Drug 6725 6727;6728 6729	氯沙 坦
+T299	Drug 6751 6755	非诺贝特
+T300	Drug 6756 6761	他汀类药物
+T301	Drug 6765 6768;6769 6771	阿托伐 他汀
+T302	Disease 6785 6789	高脂血症
+T303	Drug 6799 6803	非诺贝特
+T304	Drug 6804 6809	他汀类药物
+T305	Disease 6840 6843	cKD
+T306	Disease 6845 6848	HuA
+T307	Disease 6861 6864	cKD
+T308	Disease 6866 6869	HuA
+T309	Disease 6902 6905	CKD
+T310	Disease 6907 6910	HuA
+T311	Reason 6938 6941	HuA
+T312	Disease 6942 6945	cKD
+T313	Disease 6969 6972	HuA
+T314	Disease 6976 6979	CKD
+T315	Disease 6143 6146	HUA
+T316	Test 1429 1432	GFR
+T320	Test 2066 2069	肾功能
+T321	Test 2923 2926	肾功能
+T323	Test 3723 3726	肾功能
+T330	Test 5753 5756	肾功能
+T331	Test 6053 6056	肾功能
+T333	Test 6330 6333	肾功能
+T334	Test 6410 6413	肾功能
+T335	Test 6512 6515	肾功能
+T340	Test 1775 1777	尿酸
+T341	Test 2388 2390	尿酸
+T342	Test 2491 2493	尿酸
+T343	Test 3041 3043	尿酸
+T344	Test 3055 3057	尿酸
+T345	Test 3161 3163	尿酸
+T346	Test 3176 3178	尿酸
+T347	Test 3247 3249	尿酸
+T348	Test 3304 3306	尿酸
+T349	Test 3310 3312	尿酸
+T350	Test 3320 3322	尿酸
+T351	Test 3340 3342	尿酸
+T352	Test 3468 3470	尿酸
+T353	Test 3501 3503	尿酸
+T354	Test 3541 3543	尿酸
+T358	Test 4555 4557	尿酸
+T359	Test 4570 4572	尿酸
+T361	Test 4723 4725	尿酸
+T362	Test 4735 4737	尿酸
+T363	Test 4757 4759	尿酸
+T366	Test 5142 5144	尿酸
+T368	Test 5223 5225	尿酸
+T369	Test 5244 5246	尿酸
+T371	Test 5578 5580	尿酸
+T372	Test 5649 5651	尿酸
+T373	Test 5701 5703	尿酸
+T378	Test 6505 6507	尿酸
+T381	Test 6683 6685	尿酸
+T382	Test 6709 6711	尿酸
+T383	Test 6737 6739	尿酸
+T384	Test 6776 6778	尿酸
+T385	Test 6815 6817	尿酸
+T386	Test 6828 6830	尿酸
+T387	Test 6896 6898	尿酸
+T388	Test 1922 1924	体重
+T389	Test 2020 2022	体重
+T390	Test 2025 2027	体重
+T391	Test 5524 5526	体重
+T392	Drug 6106 6111	糖皮质激素
+T393	Test 2121 2125	eGFR
+T394	Test 5552 5556	eGFR
+T395	Test 5765 5769	eGFR
+T396	Test 5845 5849	eGFR
+T397	Test 5899 5903	eGFR
+T398	Test 5973 5977	eGFR
+T399	Test 6063 6067	eGFR
+T400	Test 6087 6091	eGFR
+T401	Test 6193 6197	eGFR
+T402	Test 6369 6373	eGFR
+T403	Test 6430 6434	eGFR
+T404	Test 6445 6449	eGFR
+T405	Test 6468 6472	eGFR
+T406	Test 6630 6634	eGFR
+T407	Test 422 424;425 426	肾功 能
+T408	Disease 5682 5683;5684 5685	痛 风
+T409	Test 5670 5671;5672 5673	尿 酸
+T317	Test 1436 1443	肾脏病理学检查
+T318	Test_Value 1443 1445	异常
+T319	Disease 1446 1450	肾脏损伤
+T322	Test 1458 1463	影像学检查
+T324	Test_Value 1463 1465	异常
+T325	Drug 5785 5789	非布司他
+T326	Amount 5790 5799	起始剂量40 mg
+T327	Amount 5809 5815	80 m∥d
+T328	Test_Value 5850 5858	60ml/min
+T329	Disease 5838 5844	轻中度肾损伤
+T337	Drug 5831 5835	苯溴马隆
+T338	Drug 5723 5726	别嘌醇
+T339	Amount 5727 5738	起始剂量100 m∥d
+T355	Amount 5739 5751	维持剂量可300 m∥d
+T356	Amount 5870 5881	常用剂量为50mg/d
+T357	Amount 5882 5884;5885 5895	最大 剂量为100 m∥d
+T360	Test_Value 5903 5913	<30 ml/min
+T364	Disease 5920 5927	泌尿系尿酸结石
+T365	Disease 5914 5916	肾损
+T367	Drug 5933 5936	丙磺舒
+T370	Amount 5939 5947	1次O.25 g
+T374	Amount 5960 5961;5962 5967	次 0.5 g
+T411	Frequency 5948 5952	2次/d
+T412	Frequency 5968 5972	2次/d
+T413	Drug 6006 6012	NsAIDs
+T414	SideEff 6039 6042	肾损伤
+T415	Drug 6058 6062	秋水仙碱
+T416	Test_Value 6068 6080	30~50 m1/min
+T417	Test_Value 6091 6101	<30 ml/min
+T410	Test_Value 5977 5987	<30 ml/min
+T418	Duration 6128 6133	3~5 d
+T419	Amount 6117 6126	30~35mg/d
+T420	Method 6115 6117	口服
+T421	Disease 6160 6163	HuA
+T376	Amount 6223 6235	起始剂量≤100 m∥d
+T377	Amount 6239 6250	起始剂量为40 m∥d
+T422	Amount 6252 6262	常用剂量50 m∥d
+T332	Disease 6288 6296	轻中度肾功能不全
+T423	Amount 6298 6305	100 m∥d
+T424	Disease 6323 6327	轻度肾损
+T425	Test_Value 6373 6376	<60
+T426	Amount 6417 6429	推荐剂量为20 mg/d
+T427	Test_Value 6434 6437	<30
+T428	Test_Value 6449 6452	<30
+T429	Test_Value 6472 6475	<15
+T430	Method 6476 6478	禁用
+T431	Disease 6364 6368	中度肾损
+T432	Disease 6398 6402	重度肾损
+T433	Disease 6464 6467	肾衰竭
+T434	Test_Value 6507 6509	过高
+T435	Method 6490 6494	避免使用
+T375	Disease 5989 5995;5996 5997	泌尿系尿酸结 石
+T379	Disease 6545 6552	泌尿系尿酸结石
+T336	Disease 6576 6581	肾功能不全

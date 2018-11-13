@@ -1,0 +1,178 @@
+基础研究
+基金项 目: 2013 年 河 南 省 基 础 与 前 沿 技 术 研 究 计 划 项 目
+(132300410111)
+格列苯脲在高糖环境下对 MC3T3-E1 成骨细胞增殖、分化和
+凋亡的影响
+张娟  张会娟  靳爽  张维  周浩峰
+[提要]   以 1、10、20 μmol / L 格列苯脲处理 MC3T3-E1 细胞 48 h 后,利用 CCK-8 比色法检测细胞的增
+殖率,流式细胞术检测凋亡率,实时荧光定量 PCR 检测I型胶原蛋白(COL-1)、骨桥蛋白(OPN)的表达。
+Western 印迹法检测凋亡相关蛋白 Bax、Bcl-2 的表达。 结果显示与对照组相比,随着格列苯脲浓度的升高,
+MC3T3-E1 细胞的增殖率逐渐上升(P<0. 05),凋亡率逐渐下降(P<0. 05),COL-1、OPN mRNA 和 Bcl-2 蛋白
+表达逐步升高(均 P<0. 05),Bax 蛋白的表达逐步下降(P<0. 05)。 提示格列苯脲能够在高糖环境下促进
+MC3T3-E1 细胞的增殖和分化,并抑制其凋亡,且在一定范围内具有浓度依赖性。
+[关键词]   格列苯脲; MC3T3-E1 成骨细胞; 增殖; 分化; 凋亡
+Effect of glyburide on the proliferation,differentiation, and apoptosis of MC3T3-E1 osteoblasts under high
+glucose Zhang Juan, Zhang Huijuan, Jin Shuang, Zhang Wei, Zhou Haofeng. Department of Endocrinology, the
+First Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, China
+[Summary]   After MC3T3-E1 cells were treated with 1, 10, and 20 μmol / L glibenclamide for 48 h, the
+proliferation rate of cells was detected by CCK-8 assay. Flow cytometry was used to test cell apoptosis. The mRNA
+expressions of collagen I (COL-1) and osteopontin (OPN) were tested by realtime fluorescence quantitative PCR.
+Western blot was used to detect the expression levels of apoptosis-related proteins Bax and Bcl-2. The results showed
+that compared with the control group, the proliferation rate of MC3T3-E1 cells was gradually increased(P<0. 05), the
+apoptosis rate decreased ( P < 0. 05), the expressions of COL-1 mRNA, OPN mRNA, and Bcl-2 protein were
+progressively raised (P<0. 05), and the expression of Bax protein were gradually decreased (P<0. 05) along with
+increasing concentration of glyburide. It suggested that glibenclamide could promote the proliferation and
+differentiation of MC3T3-E1 cells in high glucose and may inhibit apoptosis in a concentration-dependent manner
+within a certain range.
+[Key words]  Glyburide; MC3T3-E1 osteoblasts; Proliferation; Differentiation; Apoptosis
+(Chin J Endocrinol Metab, 2015, 31: 462-464)
+近年来骨质疏松已被认为是糖尿病的慢性并发症之一[1] 。
+多项大型临床研究发现,应用不同降糖药物的患者骨折的发生
+率有显著差异,其中应用噻唑烷二酮类药物者骨折的发生率最
+高,胰岛素次之,再其次为二甲双胍,骨折发生率最低的是应用
+磺脲类降糖药的患者[2,3] 。 基础研究已证实,噻唑烷二酮类药
+物激活 PPARγ 可抑制骨髓间充质干细胞成骨分化,促使其成
+脂分化[4,5] 。 二甲双胍能促进成骨细胞的增殖、分化和矿化,抑
+制破骨细胞的分化,促使骨髓间充质干细胞成骨分化,抑制其
+成脂分化,对骨代谢起保护作用[6,7] 。 关于磺脲类药物对骨组
+织的直接影响,国外尚未见相关报道,而国内仅见马攀等[8,9] 报
+道格列美脲可以促进大鼠下颌骨成骨细胞的葡萄糖摄取,通过
+磷脂酰肌醇 3 激酶 /蛋白激酶 B 通路直接促进大鼠成骨细胞的
+增殖和分化。 格列苯脲作为第二代磺脲类降糖药,临床应用广
+泛,且在国外常用于糖尿病合并妊娠的患者。 格列苯脲是否也
+同格列美脲一样能够直接作用于成骨细胞并对其增殖、分化和
+凋亡产生影响,本实验拟通过体外培养的 MC3T3-E1 成骨细胞
+进行探讨。
+一、 材料和方法
+1. 材料:MC3T3-E1 细胞(上海生命科学研究院细胞资源
+中心),格列苯脲 (德国 Ruibio 公司),α-MEM 培养基 (美国
+Gibco 公司),胎牛血清(美国 Hycolon 公司),细胞计数试剂盒
+(CCK-8,上海贝博生物公司),Annexin-FITC /碘化丙啶(PI)双
+染试剂盒(南京凯基生物科技发展有限公司),超纯 RNA 提取
+试剂盒(北京康为世纪公司),逆转录试剂盒、cDNA 第一链合
+成试剂盒(日本 TOYOBO 公司),I型胶原蛋白(COL-1)引物、
+骨桥蛋白(OPN)引物(上海生物工程有限公司),Bax 抗体、
+Bcl-xl 抗体、Bcl-2 抗体(Cell signaling technology 公司)。
+2. 方法:(1)细胞培养:配制含 10% 胎牛血清、1% 青链霉
+素双抗的 α-MEM 培养基(葡萄糖浓度为 16. 5 mmol / L)组成的
+完全培养基。 将 MC3T3-E1 细胞置于 5% 二氧化碳、37℃ 的
+培养箱中培养。 (2)CCK-8 比色法检测细胞增殖率:将密度
+为 1×10 4个 / ml 的细胞接种于 96 孔板上, 次日加 0、1、10 和
+20 μmol / L 格列苯脲培养 48 h,并设空白组(未加药物和细胞)。
+弃去旧培养液,加入配置好的含 CCK-8 的培养液 100 滋l,孵育 2
+h,于 450 nm 波长处测定各孔吸光度(A 值)。 (3)流式细胞术
+检测细胞凋亡率:将密度为 1×105 / ml 的细胞接种于 6 孔板上,
+次日加 0、1、10 和 20 μmol / L 格列苯脲培养 48 h。 将细胞消化
+后,每组取细胞悬液 5 ml 置于流式管中,每管依次加入 5 滋l
+Annexin V-FITC 和 5 滋l PI,避光反应 15 min。 加入 300 滋l 的结
+合缓冲液,立即用流式细胞仪检测。 (4)实时荧光定量 PCR 检
+测 COL-1、OPN 的表达:将密度为 1×105 / ml 的细胞接种于 25
+cm3培养瓶中,处理条件同上,按照 Trizol 试剂说明书提取总
+RNA。 测定 RNA 纯度和含量。 然后按照试剂说明书进行逆转
+录反应,引物序列:COL-1 上游引物为 5'-GTGGCGGTTATGACT-
+TCAGC-3',下游引物为 5'-TCACGAACAACGTTAG-CATC3忆;OPN
+上游引物为 5'-GTGGCGGTTATGAC-TTCAGC-3',下游引物为 5'-
+TCACGAACCACGTTAGCATC-3';β-actin 上游引物为 5'-GTCTCC-
+TCACCCTCCCAAAAG-3',下游引物为 5'-GCTGCCTCAACACCTC-
+AACCC-3'。 避光配制 PCR 反应体系,置于荧光定量 PCR 仪内
+进行反应。 应用 MXpro 软件进行数据分析,采用 2-△△Ct法计算
+目的基因表达的相对变化。 (5)Western 印迹法检测 Bax、Bcl-2
+的表达:将 MC3T3-E1 细胞以 1×105 / ml 接种于 6 孔板上,按上
+述条件孵育 48 h。 弃去培养液,裂解细胞,提取蛋白,经 SDS-聚
+丙烯酰胺凝胶电泳后,将蛋白转移至 PVDF 膜上,脱脂奶粉封
+闭 1 h,然后将 PVDF 膜放入待测一抗中,4℃孵育过夜,TBST 缓
+冲液洗膜。 将膜移入二抗中,室温 1 h,洗膜。 电化学发光液浸
+润,曝光、洗片,应用扫描仪和图像仪分析白蛋白条带。
+3. 统计学处理:所有实验均重复 3 次,应用 SPSS 17. 0 软件
+进行数据处理,数据以 x-± s 表示,多组间比较行单因素方差分
+析,组间两两比较行 LSD 检验,P<0. 05 为差异具有显著性。
+二、 结果
+1. MC3T3-E1 细胞的增殖:随着格列苯脲浓度升高,A 值逐
+渐增加,表明成骨细胞的增殖能力依次升高(P<0. 05,表 1)。
+表 1  不同浓度格列苯脲对 MC3T3-E1 细胞增殖的影响(x-± s)
+格列苯脲
+(μmol / L) 样本数 A 值
+增殖率
+(% )
+空白 5 0. 30 ± 0. 13 -
+0 5 1. 29 ± 0. 23 -
+1 5 1. 42 ± 0. 78a 13. 1
+10 5 1. 53 ± 0. 44a 24. 2
+20 5 1. 60 ± 0. 20a 31. 3
+注:空白组不加细胞和格列苯脲;与 0 μmol / L 格列苯脲组比较,
+aP<0. 05
+2. MC3T3-E1 细胞的凋亡:与对照组相比,经不同浓度格
+列苯脲干预后成骨细胞的早期凋亡率逐渐下降,浓度越高,下
+降幅度越明显(P<0. 05,表 2)。
+3. COL-1 和 OPN 的 mRNA 表达:COL-1 和 OPN 的 mRNA
+表达量随着格列苯脲浓度的增加而升高(P<0. 05,图 1 和图
+2)。
+4. Bcl-2 和 Bax 的蛋白表达:随着格列苯脲浓度的升高,
+Bax 的表达量逐渐下降,Bcl-2 的表达量逐渐升高,Bcl-2 / Bax 比
+率逐渐上升(P<0. 05,图 3)。
+表 2  不同浓度格列苯脲对 MC3T3-E1 细胞凋亡的影响(x-± s)
+格列苯脲
+(μmol / L) 样本数
+早期凋亡率
+(% )
+0 3 19. 63 ± 1. 36
+1 3 11. 20 ± 1. 41a
+10 3 7. 90 ± 0. 40a
+20 3 4. 70 ± 0. 38a
+注:与 0 μmol / L 格列苯脲组比较,aP<0. 05
+注:与 0 μmol / L 格列苯脲组比较,aP<0. 05
+图 1  不同浓度格列苯脲对I型胶原蛋白表达的影响
+注:与 0 μmol / L 格列苯脲组比较,aP<0. 05
+图 2  不同浓度格列苯脲对骨桥蛋白表达的影响
+注:Bcl-2:抗凋亡蛋白;Bax:凋亡蛋白;与 0 μmol / L 格列苯脲组比
+较,aP<0. 05
+图 3  格列苯脲对 Bcl-2 和 Bax 蛋白表达的影响
+三、 讨论
+糖尿病性骨质疏松是指糖尿病并发单位体积内骨量减少、
+骨组织微结构改变、骨强度降低、脆性增加等易发生骨折的一
+种全身性、代谢性骨病。 在先前的研究中发现,部分降糖药在
+降低血糖的同时可对骨代谢产生保护作用,进而减少骨折发生
+率。 本研究结果显示,与对照组相比,1、10 和 20 μmol / L 格列
+苯脲使 MC3T3-E1 细胞增殖率分别增加 13. 1% 、24. 2% 和
+31. 3% ,提示格列苯脲能够在高糖环境下刺激 MC3T3-E1 细胞
+增殖而可促进骨形成。
+对 MC3T3-E1 细胞凋亡的相关研究发现,0、1、10 和 20
+μmol / L 格列苯脲组的早期凋亡率依次为 19. 63% 、11. 20% 、
+7. 9% 、4. 7% 。 说明格列苯脲能够抑制 MC3T3-E1 细胞的凋亡。
+本实验进一步检测了 MC3T3-E1 成骨细胞凋亡相关蛋白 Bax 和
+Bcl-2 的表达水平。 Bcl-2 家族在调节细胞凋亡中起着尤为重要
+的作用,Bax 作为细胞凋亡基因的代表,Bcl-2 基因作为细胞生
+存基因的代表,二者表达水平之间的平衡结果决定了细胞生存
+还是凋亡。 Bax 表达高于 Bcl-2 时,Bax-Bax 同型二聚体占优
+势,诱导细胞凋亡增加。 Bcl-2 表达水平高于 Bax 时,Bax-Bax
+二聚体解离,形成更稳定的 Bcl-2-Bax 二聚体,从而中和了 Bax
+诱导细胞凋亡的作用,使细胞得以存活[10] 。 先前研究发现吡
+格列酮可能通过调控 Bax / Bcl-2 的表达诱导成骨细胞凋亡[11] 。
+胰岛素样生长因子I(IGF-I)主要通过调节 MC3T3-E1 细胞
+Bcl-2 和 Bax 的相对表达比例抑制细胞凋亡,从而调节骨代谢
+平衡[12] 。 本研究发现格列苯脲的浓度越高,Bax 的表达水平越
+低,Bcl-2 的表达水平越高,即 Bcl-2 / Bax 比率逐渐升高,由此推
+测格列苯脲可能是通过上调 Bcl-2 / Bax 比率来抑制 MC3T3-E1
+细胞的凋亡。
+碱性磷酸酶(ALP)活性、COL-1、骨钙蛋白(OCN)、OPN 等
+的合成及矿化结节的形成都是成骨细胞分化的特征性标志物。
+COL-1 是成骨细胞合成和分泌的特异性功能蛋白,为衡量成骨
+细胞成骨能力的一个重要指标。 Kanazawa 等[13] 发现二甲双胍
+增加 MC3T3-E1 细胞的 COL-1 和 OCN mRNA 表达。 马攀等[14]
+发现格列美脲能够促进成骨细胞增殖,提高其 ALP 的活性及
+COL-1 和 OCN 的 mRNA 表达水平。 本研究显示格列苯脲同样
+能够增加 MC3T3-E1 细胞 COL-1 的表达水平,且在一定范围内
+具有浓度依赖性。 骨桥蛋白是磷酸化、糖基化的细胞外基质蛋
+白,是骨形成和骨重建的标志性蛋白之一。 在骨基质矿化开始
+后,成骨细胞中 OPN 的 mRNA 水平开始升高,可见 OPN 在骨矿
+化过程中具有重要作用。 Srivastava 等[15] 发现胰岛素能够通过
+提高分化标志物基因 ALP、OPN 和核心结合因子 α1(RUNX2)
+的表达进而诱导骨髓间充质干细胞向成骨细胞分化。 羟基磷
+灰石释放出的钙能够促进 MC3T3-E1 细胞 ALP、OPN 和骨唾液
+酸蛋白的表达[16] 。 本实验发现加入不同浓度的格列苯脲后,
+MC3T3-E1 细胞的 OPN mRNA 相对表达量呈剂量依赖性升高。
+由此推测格列苯脲可能通过上调 COL-1 和 OPN 的表达促进
+MC3T3-E1 细胞的分化。
+综上所述,在高糖环境下,在一定浓度范围内,格列苯脲能
+够剂量依赖性促进 MC3T3-E1 细胞的增殖和分化,并通过上调
+Bcl-2 / Bax 比率来抑制 MC3T3-E1 细胞的凋亡。

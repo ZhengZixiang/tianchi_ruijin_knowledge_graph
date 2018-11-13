@@ -1,0 +1,206 @@
+T1	Disease 20 28	甲状腺功能亢进症
+T2	Disease 30 35	肺动脉高压
+T3	Disease 64 72	甲状腺功能亢进症
+T4	Disease 73 75	甲亢
+T5	Disease 84 89	肺动脉高压
+T6	Disease 109 111	甲亢
+T7	Disease 115 120	肺动脉高压
+T8	Reason 124 135	左室收缩或舒张功能下降
+T9	Reason 121 123	高龄
+T10	Disease 136 138	甲亢
+T11	Disease 140 145	肺动脉高压
+T12	Disease 202 210	甲状腺功能亢进症
+T13	Disease 212 217	肺动脉高压
+T14	Disease 916 924	甲状腺功能亢进症
+T15	Disease 925 927	甲亢
+T16	Disease 929 934	肺动脉高压
+T17	Disease 960 965	肺动脉高压
+T18	Disease 976 981	甲状腺疾病
+T19	Disease 984 989	肺动脉高压
+T20	Disease 1005 1010	肺动脉高压
+T21	Disease 1032 1037	肺动脉高压
+T22	Disease 1049 1052	结节病
+T23	Disease 1053 1058;1059 1061	骨髓增生性 疾病
+T24	Disease 1068 1070	甲亢
+T25	Disease 1071 1076	肺动脉高压
+T26	Symptom 1081 1083	心悸
+T27	Symptom 1084 1086	乏力
+T28	Symptom 1087 1090;1091 1095	劳力性 呼吸困难
+T29	Disease 1132 1134	甲亢
+T30	Disease 1140 1142	甲亢
+T31	Disease 1144 1148;1149 1150	肺动脉高 压
+T32	Disease 1196 1198	甲亢
+T33	Disease 1252 1253;1254 1256	高 血压
+T34	Disease 1257 1260	糖尿病
+T35	Disease 1263 1269	器质性心脏病
+T36	Disease 1270 1273	肺栓塞
+T37	Disease 1274 1281	慢性阻塞性肺病
+T38	Disease 1282 1283;1284 1288	结 缔组织病
+T39	Disease 1289 1295	HIV 感染
+T40	Drug 1297 1300	减肥药
+T41	Test 1314 1316;1317 1320	甲状 腺功能
+T42	Test 1352 1357	超声心动图
+T43	Test 1467 1471	肺动脉压
+T44	Test 1519 1529	收缩期右房室压力阶差
+T45	Test 1541 1547	右心室收缩压
+T46	Test 1587 1591	RVSP
+T47	Test 1649 1655	肺动脉收缩压
+T48	Test 1695 1699	PASP
+T49	Test 1702 1706	RVSP
+T50	Test 1743 1746	FT3
+T51	Test 1747 1750	FT4
+T52	Test 1752 1755	TT3
+T53	Test 1756 1759	TT4
+T54	Test 1760 1763	TSH
+T55	Test 1765 1774	抗甲状腺球蛋白抗体
+T56	Test 1775 1779	TGAb
+T57	Test 1781 1787;1788 1796	抗甲状腺过氧 化物 酶 抗 体
+T58	Test 1799 1804	TPOAb
+T59	Disease 1849 1854	肺动脉高压
+T60	Disease 1859 1864	肺动脉高压
+T61	Test 1871 1875	PASP
+T62	Test 1888 1894	肺动脉平均压
+T63	Level 1941 1943	轻度
+T64	Level 1962 1964	中度
+T65	Level 1979 1981	重度
+T66	Disease 2114 2116	甲亢
+T67	Disease 2121 2126	肺动脉高压
+T68	Disease 2144 2146	甲亢
+T69	Disease 2147 2152	肺动脉高压
+T70	Disease 2187 2192	肺动脉高压
+T71	Disease 2274 2279	肺动脉高压
+T72	Disease 2300 2302	甲亢
+T73	Disease 2304 2309	肺动脉高压
+T74	Disease 2328 2330	甲亢
+T75	Disease 2331 2335;2336 2337	肺动脉高 压
+T76	Disease 2344 2346	甲亢
+T77	Disease 2347 2352	肺动脉高压
+T78	Test 2388 2390	心超
+T79	Disease 2393 2395	甲亢
+T80	Disease 2396 2401	肺动脉高压
+T81	Test 2403 2407	LVEF
+T82	Disease 2412 2414	甲亢
+T83	Disease 2416 2421	肺动脉高压
+T84	Test 2442 2448;2449 2451	左室舒张末期 内径
+T85	Disease 2463 2468	肺动脉高压
+T86	Disease 2484 2489	肺动脉高压
+T87	Symptom 2493 2497	左心增大
+T88	Test 2499 2503	LVEF
+T89	Disease 3232 3234	甲亢
+T90	Disease 3235 3240	肺动脉高压
+T91	Test 3252 3255	TT4
+T92	Disease 3259 3261	甲亢
+T93	Disease 3262 3267	肺动脉高压
+T94	Test 3280 3284	TGAb
+T95	Test 3309 3314	TPOAb
+T96	Disease 3381 3383	甲亢
+T97	Disease 3384 3389	肺动脉高压
+T98	Test 3448 3452	LVEF
+T99	Test 3498 3506	左室舒张末期内径
+T100	Disease 3565 3570	肺动脉高压
+T101	Disease 3571 3573	甲亢
+T102	Disease 3609 3611	甲亢
+T103	Disease 3614 3619	肺动脉高压
+T104	Disease 3638 3643	肺动脉高压
+T105	Disease 3656 3659;3660 3661	右心衰 竭
+T106	Disease 3670 3672	甲亢
+T107	Disease 3688 3690	甲亢
+T108	Disease 3696 3701	肺动脉高压
+T109	Disease 3707 3712	肺动脉高压
+T110	Test 3717 3722	甲状腺功能
+T111	Disease 3747 3749	甲亢
+T112	Disease 3751 3756	肺动脉高压
+T113	Disease 3781 3783	甲亢
+T114	Disease 3785 3788	肺高压
+T115	Disease 3796 3801	肺动脉高压
+T116	Disease 3803 3808	肺静脉高压
+T117	Disease 3874 3876	甲亢
+T118	Disease 3879 3884	肺动脉高压
+T119	Test 3932 3934	心超
+T120	Test 3937 3941	RVSP
+T121	Disease 3950 3955	肺动脉高压
+T122	Disease 3959 3964	肺静脉高压
+T123	Test 3982 3984	心超
+T124	Test 3992 3996	RVSP
+T125	Disease 4000 4005	肺动脉高压
+T126	Disease 4046 4048	甲亢
+T127	Disease 4061 4064	肺高压
+T128	Disease 4086 4092	左心功能障碍
+T129	Disease 4098 4100	甲亢
+T130	Disease 4119 4124	肺动脉高压
+T131	Disease 4139 4141	甲亢
+T132	Disease 4143 4148	肺动脉高压
+T133	Anatomy 4171 4176	肺血管内皮
+T134	Anatomy 4181 4184	肺血管
+T135	Test 4207 4215	抗甲状腺自身抗体
+T136	Disease 4216 4217;4218 4222	肺 动脉高压
+T137	Disease 4261 4266	肺动脉高压
+T138	Disease 4267 4277	自身免疫性甲状腺疾病
+T139	Disease 4351 4356	肺动脉高压
+T140	Disease 4357 4359	甲亢
+T141	Disease 4385 4387	甲亢
+T142	Disease 4389 4394	肺动脉高压
+T143	Disease 4402 4404	甲亢
+T144	Test 2687 2690	收缩压
+T145	Test 2930 2933	TSH
+T146	Test 2986 2989	FT4
+T147	Test 2972 2975	FT3
+T148	Test 2958 2961	TT4
+T149	Test 2944 2947	TT3
+T150	Disease 2635 2640	肺动脉高压
+T151	Disease 2723 2728	肺动脉高压
+T152	Disease 2819 2824	肺动脉高压
+T153	Disease 3003 3008	肺动脉高压
+T154	Disease 3096 3101	肺动脉高压
+T155	Disease 3205 3210	肺动脉高压
+T156	Test 1409 1412;1413 1415	超声心 动图
+T157	Test 1490 1494;1495 1498	三尖瓣返 流速度
+T158	Test 1594 1600	估计的右房压
+T159	Test 1610 1612	△p
+T160	Test 1531 1533	△p
+T161	Test 2154 2158	PASP
+T162	Test_Value 2160 2175;2176 2180	(47. 0 ± 10. 9) mmHg
+T163	Test 2241 2245	PASP
+T164	Test_Value 2247 2266	(23. 1 ± 5. 9) mmHg
+T165	Level 2290 2292	轻度
+T166	Disease 2460 2462	甲亢
+T167	Test 2505 2509	左心内径
+T168	Test_Value 2516 2530	(52. 8 ±10. 7)
+T169	Test_Value 2532 2545	(65. 3 ±6. 7)
+T170	Test_Value 1320 1322	正常
+T171	Test 3227 3231	生化指标
+T172	Test 3396 3398	年龄
+T173	Test_Value 3942 3944	升高
+T174	Reason 4132 4136	自身免疫
+T175	Test 4163 4167	自身抗体
+T176	Reason 4420 4424	自身免疫
+T177	Test 1417 1423	左室射血分数
+T178	Test 1460 1464	LVEF
+T179	Symptom 1636 1644	无右心流出道梗阻
+T180	Test 1735 1742	血清甲状腺功能
+T181	Test_Value 1875 1883	≥30 mmHg
+T182	Test_Value 1894 1900;1901 1905	静息时≥25 mmHg
+T183	Test_Value 1907 1918	运动时≥30 mmHg
+T184	Test 1927 1931	PASP
+T185	Test 1948 1952	PASP
+T186	Test_Value 1932 1939	40 mmHg
+T187	Test_Value 1953 1960	70 mmHg
+T188	Test 1965 1969	PASP
+T189	Test_Value 1970 1977	70 mmHg
+T190	Level 2181 2182	轻
+T191	Level 2183 2184	中
+T192	Level 2185 2187	重度
+T193	Disease 2480 2481;2482 2483	甲 亢
+T194	Test 3242 3249	甲状腺功能指标
+T195	Reason 3819 3825	心搏出量增加
+T196	Reason 3839 3849	左室早期舒张功能障碍
+T197	Reason 3852 3859	左室充盈压增加
+T198	Reason 3889 3895;3896 3897	LVEF 下 降
+T199	Reason 3898 3908	左室舒张末期内径增大
+T200	Reason 3967 3977	左室早期舒张功能下降
+T201	Symptom 4026 4030	左心增大
+T202	Reason 4052 4058	左心功能下降
+T203	Symptom 4081 4085	左心增大
+T204	Reason 4104 4112	高血流动力学状态
+T205	Reason 4368 4376;4377 4380	左心收缩或舒张功 能不全
+T206	Disease 4409 4415	左心功能不全

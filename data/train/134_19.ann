@@ -1,0 +1,204 @@
+T1	Disease 2757 2763	1 型糖尿病
+T2	Disease 2776 2782	1 型糖尿病
+T3	Disease 5768 5774	1 型糖尿病
+T4	Disease 5820 5826	1 型糖尿病
+T5	Disease 5777 5783	2 型糖尿病
+T6	Disease 5829 5832;5833 5836	2 型 糖尿病
+T7	Disease 5901 5904;5905 5908	2 型 糖尿病
+T8	Disease 5972 5978	2 型糖尿病
+T9	Disease 6047 6048;6049 6053	2 型糖尿病
+T10	Test 2220 2224	空腹血糖
+T11	Test 2392 2394;2395 2397	体重 指数
+T12	Test 2404 2406	腰围
+T13	Test 3778 3780	腰围
+T14	Test 6335 6344	口服葡萄糖耐量试验
+T15	Disease 6858 6864	动脉粥样硬化
+T16	Test 2226 2230	餐后血糖
+T17	Disease 3407 3410	脑卒中
+T18	Disease 3836 3839	脑卒中
+T19	Disease 4819 4822	脑卒中
+T20	Disease 4835 4841	缺血性脑卒中
+T21	Test 2398 2401	BMI
+T22	Test 2448 2451	BMI
+T23	Test 2514 2517	BMI
+T24	Anatomy 5709 5713	成骨细胞
+T25	Anatomy 6895 6896;6897 6900	成 骨细胞
+T26	Anatomy 5699 5703	破骨细胞
+T27	Anatomy 6884 6888	破骨细胞
+T28	Test 6345 6352	十二导联心电图
+T29	Disease 2719 2724;2725 2726	2 型糖尿 病
+T30	Disease 11 16	心血管疾病
+T31	Disease 185 190	心血管疾病
+T32	Disease 251 256	心血管疾病
+T33	Disease 303 308	心血管疾病
+T34	Disease 1519 1524	心血管疾病
+T35	Disease 1625 1630	心血管疾病
+T36	Disease 1736 1741	心血管疾病
+T37	Disease 1777 1782	心血管疾病
+T38	Disease 2857 2862	心血管疾病
+T39	Disease 2918 2921;2922 2924	心血管 疾病
+T40	Disease 3589 3594	心血管疾病
+T41	Disease 3651 3656	心血管疾病
+T42	Disease 4579 4584	心血管疾病
+T43	Disease 4605 4610	心血管疾病
+T44	Disease 4912 4917	心血管疾病
+T45	Disease 5062 5067	心血管疾病
+T46	Disease 6144 6149	心血管疾病
+T47	Disease 6218 6223	心血管疾病
+T48	Disease 6273 6278	心血管疾病
+T49	Disease 6439 6444	心血管疾病
+T50	Disease 6529 6534	心血管疾病
+T51	Disease 6674 6679	心血管疾病
+T52	Disease 6734 6739	心血管疾病
+T53	Disease 6971 6976	心血管疾病
+T54	Disease 7018 7023	心血管疾病
+T55	Disease 7094 7099	心血管疾病
+T56	Disease 21 25	骨质疏松
+T57	Disease 195 199	骨质疏松
+T58	Disease 274 278	骨质疏松
+T59	Disease 315 319	骨质疏松
+T60	Disease 1746 1750	骨质疏松
+T61	Disease 1853 1857	骨质疏松
+T62	Disease 1873 1880	原发性骨质疏松
+T63	Disease 3855 3859	骨质疏松
+T64	Disease 4092 4096	骨质疏松
+T65	Disease 4229 4233	骨质疏松
+T66	Disease 5149 5153	骨质疏松
+T67	Disease 5186 5190	骨质疏松
+T68	Disease 5228 5232	骨质疏松
+T69	Disease 5377 5381	骨质疏松
+T70	Disease 5478 5482	骨质疏松
+T71	Disease 5583 5587	骨质疏松
+T72	Disease 5671 5675	骨质疏松
+T73	Disease 6150 6153;6154 6155	骨质疏 松
+T74	Disease 6228 6232	骨质疏松
+T75	Disease 6283 6287	骨质疏松
+T76	Disease 6396 6400	骨质疏松
+T77	Disease 6571 6575	骨质疏松
+T78	Disease 6700 6704	骨质疏松
+T79	Disease 6740 6744	骨质疏松
+T80	Disease 6991 6995	骨质疏松
+T81	Disease 7024 7028	骨质疏松
+T82	Disease 7104 7108	骨质疏松
+T83	Disease 3462 3465	冠心病
+T84	Disease 4739 4742	冠心病
+T85	Disease 4964 4965;4966 4968	冠 心病
+T86	Test 1652 1654;1655 1656	骨密 度
+T87	Test 1665 1668	骨密度
+T88	Test 3908 3911	骨密度
+T89	Test 3933 3936	骨密度
+T90	Test 4012 4015	骨密度
+T91	Test 5107 5110	骨密度
+T92	Disease 17 20	糖尿病
+T93	Disease 191 194	糖尿病
+T94	Disease 224 227	糖尿病
+T95	Disease 310 313	糖尿病
+T96	Anatomy 1418 1420	卵巢
+T97	Anatomy 1448 1450	卵巢
+T98	Disease 1697 1700	糖尿病
+T99	Disease 1742 1745	糖尿病
+T100	Disease 1822 1825	糖尿病
+T101	Disease 2134 2137	糖尿病
+T102	Disease 2336 2339	糖尿病
+T103	Disease 2600 2603	糖尿病
+T104	Disease 2670 2673	糖尿病
+T105	Disease 2713 2716	糖尿病
+T106	Disease 2735 2738	糖尿病
+T107	Disease 2789 2792	糖尿病
+T108	Disease 2839 2845	妊娠期糖尿病
+T109	Disease 3022 3028	缺血性心脏病
+T110	Disease 3068 3074	缺血性心脏病
+T111	Disease 3668 3671	糖尿病
+T112	Disease 3705 3708	高血压
+T113	Disease 3742 3744	肥胖
+T114	Test_Value 3780 3786	≥80 cm
+T115	Anatomy 4369 4370;4371 4372	卵 巢
+T116	Symptom 4396 4398	潮热
+T117	Symptom 4400 4402	盗汗
+T118	Symptom 4403 4405	易怒
+T119	Symptom 4406 4410	焦虑不安
+T120	Symptom 4411 4415	情绪低落
+T121	Symptom 4416 4421	记忆力下降
+T122	Disease 4423 4428;4429 4430	绝经期综合 征
+T123	Disease 5730 5733	糖尿病
+T124	Disease 5748 5751	糖尿病
+T125	Disease 5793 5794;5795 5797	糖 尿病
+T126	Disease 5840 5843	糖尿病
+T127	Disease 6140 6143	糖尿病
+T128	Disease 6224 6227	糖尿病
+T129	Disease 6279 6282	糖尿病
+T130	Disease 6391 6394	糖尿病
+T131	Disease 6503 6506	糖尿病
+T132	Disease 6649 6652	糖尿病
+T133	Test 6786 6789	雌激素
+T134	Disease 6809 6812	糖尿病
+T135	Anatomy 6922 6926	T 细胞
+T136	Test 6930 6932	骨量
+T137	Disease 7100 7103	糖尿病
+T138	Anatomy 1420 1423	雌激素
+T139	Test 1456 1459	雌激素
+T140	Anatomy 1497 1500	雌激素
+T141	Disease 1796 1798	死亡
+T142	Disease 3410 3412	死亡
+T143	Test 4372 4375	性激素
+T144	Test 4465 4468	雌激素
+T145	Anatomy 5076 5077	骨
+T146	Test 5693 5696	雌激素
+T147	Test 6101 6107	内源性雌激素
+T148	Anatomy 6802 6808	内源性雌激素
+T149	Test 6828 6834	血小板聚集率
+T150	Anatomy 6839 6840;6841 6844	内 皮细胞
+T151	Test 6849 6852	雌激素
+T152	Test 6877 6880	雌激素
+T153	Anatomy 6906 6908	骨骼
+T154	Test 6914 6917	雌激素
+T155	Disease 114 118	慢性疾病
+T156	Symptom 1527 1529	绝经
+T157	Reason 1583 1587	初潮年龄
+T158	Reason 1589 1593	绝经年龄
+T159	Disease 1597 1601	慢性疾病
+T160	Reason 1615 1622;1623 1624	提早初潮或者绝 经
+T161	Symptom 1647 1651	初潮提早
+T162	Test_Value 1656 1658	增高
+T163	Symptom 1660 1664	绝经提早
+T164	Test_Value 1668 1670	降低
+T165	Symptom 1681 1685	初潮提早
+T166	Disease 1753 1756	慢性病
+T167	Reason 241 249	初潮或者绝经推迟
+T168	Reason 269 273	绝经提前
+T169	Symptom 2208 2219	较晚初潮(≥16 岁)
+T170	Reason 2584 2586;2587 2599	初潮 提早(8 ~ 11 岁)
+T171	Reason 3134 3137;3138 3149	提早初 潮(9 ~ 12 岁)
+T172	Reason 3343 3354	初潮较早(≤13 岁)
+T173	Reason 3577 3588	较早初潮(<12 岁)
+T174	Reason 3638 3647;3648 3650	初潮较早( <12 岁)
+T175	Symptom 4460 4464	提早绝经
+T176	Disease 4489 4492	慢性病
+T177	Reason 4478 4482	早期绝经
+T178	Reason 4721 4734	提早自然绝经(≤44 岁)
+T179	Reason 4897 4908	早期绝经(<40 岁)
+T180	Disease 4842 4845;4846 4849	失血性 脑卒中
+T181	Reason 5036 5040	提前绝经
+T182	Reason 5205 5217	绝经提早( <45 岁)
+T183	Reason 5361 5364;5365 5375	较早自 然绝经(<45 岁)
+T184	Reason 5463 5467	较早绝经
+T185	Reason 5957 5960;5961 5967	绝经年 龄<40 岁
+T186	Reason 6426 6438	初潮延迟( >18 岁)
+T187	Reason 6558 6561;6562 6570	较早绝 经(≤46 岁)
+T188	Reason 6664 6670;6671 6673	较晚的初潮和 绝经
+T189	Reason 6694 6698	较早绝经
+T190	Test_Value 6932 6934	流失
+T191	Reason 6962 6970	初潮和绝经的推迟
+T192	Reason 6986 6990	绝经提前
+T193	Disease 3275 3280	心血管疾病
+T194	Disease 4446 4451	心血管疾病
+T195	Disease 3531 3533;3534 3535	脑卒 中
+T196	Reason 5664 5669	骨密度降低
+T197	Disease 3151 3155	全因死亡
+T198	Disease 3280 3282	死亡
+T199	Disease 3355 3361	缺血性心脏病
+T200	Disease 3365 3367	死亡
+T201	Disease 3535 3537	死亡
+T202	Reason 4202 4206	初潮较晚
+T203	Reason 5045 5055	内源性雌激素提早减少
+T204	Test 6353 6355;6356 6360	跟骨 定量超声

@@ -1,0 +1,483 @@
+T1	Disease 277 283	2 型糖尿病
+T2	Disease 306 312	2 型糖尿病
+T3	Disease 325 331	2 型糖尿病
+T4	Disease 1542 1548	2 型糖尿病
+T5	Disease 1600 1606	2 型糖尿病
+T6	Disease 1744 1750	2 型糖尿病
+T7	Disease 1821 1827	2 型糖尿病
+T8	Disease 1900 1906	2 型糖尿病
+T9	Disease 4519 4525	2 型糖尿病
+T10	Disease 4557 4563	2 型糖尿病
+T11	Disease 6567 6573	2 型糖尿病
+T12	Disease 7005 7009;7010 7012	2 型糖 尿病
+T13	Disease 7043 7049	2 型糖尿病
+T14	Disease 7074 7078;7079 7081	2 型糖 尿病
+T15	Disease 7115 7121	2 型糖尿病
+T16	Disease 9925 9931	2 型糖尿病
+T17	Disease 10007 10013	2 型糖尿病
+T18	Disease 10066 10072	2 型糖尿病
+T19	Disease 169 170;171 175	2 型糖尿病
+T20	Disease 912 916	T2DM
+T21	Disease 1026 1030	T2DM
+T22	Disease 1153 1157	T2DM
+T23	Disease 1381 1385	T2DM
+T24	Reason 144 151	DNA 甲基化
+T25	Reason 152 157	组蛋白修饰
+T26	Reason 158 165	非编码 RNA
+T27	Anatomy 1872 1876	胰岛细胞
+T28	Anatomy 1879 1886	胰岛 β 细胞
+T29	Anatomy 1970 1976	DNA 序列
+T30	Anatomy 2035 2041	DNA 序列
+T31	Reason 2108 2115	DNA 甲基化
+T32	Reason 2116 2121	组蛋白修饰
+T33	Reason 2122 2124;2125 2133	非编 码 RNA 作用
+T34	Anatomy 2830 2833	DNA
+T35	Anatomy 3171 3174	RNA
+T36	Anatomy 3196 3205	非 编 码 RNA
+T37	Anatomy 3247 3252	ncRNA
+T38	Anatomy 3299 3304	小 RNA
+T39	Anatomy 3356 3362	sncRNA
+T40	Anatomy 3629 3633	mRNA
+T41	Anatomy 3702 3708	lncRNA
+T42	Anatomy 3724 3731	非编码 RNA
+T43	Anatomy 3790 3796	lncRNA
+T44	Anatomy 3848 3852	胰岛细胞
+T45	Anatomy 3873 3877	胰岛细胞
+T46	Anatomy 4072 4079	胰岛 β 细胞
+T47	Anatomy 4145 4147	胰腺
+T48	Anatomy 4153 4157	β 细胞
+T49	Anatomy 4365 4369	β 细胞
+T50	Anatomy 4439 4443	β 细胞
+T51	Anatomy 4464 4466	胰岛
+T52	Anatomy 4475 4477	胰岛
+T53	Test 4654 4656	体重
+T54	Disease 4731 4734	糖尿病
+T55	Anatomy 4793 4800	非编码 RNA
+T56	Anatomy 4802 4809	胰岛 β 细胞
+T57	Anatomy 4812 4822	miR-375 基因
+T58	Anatomy 4867 4874	miR-375
+T59	Anatomy 4881 4883	胰腺
+T60	Anatomy 4897 4904	miR-375
+T61	Anatomy 4931 4938	miR-375
+T62	Anatomy 4978 4985	miR-375
+T63	Anatomy 5030 5035	miR-7
+T64	Anatomy 5051 5055	胰岛细胞
+T65	Anatomy 5063 5067	腺泡细胞
+T66	Anatomy 5080 5084	胰岛细胞
+T67	Anatomy 5107 5112	miR-7
+T68	Anatomy 5214 5219	miR-7
+T69	Anatomy 5228 5232	β 细胞
+T70	Disease 5257 5261;5262 5263	糖耐量异 常
+T71	Anatomy 5279 5286	胰岛素分泌细胞
+T72	Anatomy 5323 5330	miR-375
+T73	Anatomy 5333 5338	miR-7
+T74	Anatomy 5371 5379	miR-146a
+T75	Anatomy 5382 5389	miR-34a
+T76	Anatomy 5406 5413	miR-375
+T77	Anatomy 5416 5420;5421 5422	miR- 7
+T78	Anatomy 5431 5436	Hnf1β
+T79	Anatomy 5439 5443	Pax6
+T80	Anatomy 5449 5456	miR-375
+T81	Anatomy 5459 5464	miR-7
+T82	Anatomy 5483 5489	miRNAs
+T83	Anatomy 5518 5522	胰岛细胞
+T84	Anatomy 5542 5548	miRNAs
+T85	Anatomy 5654 5658	miRs
+T86	Anatomy 5670 5672	胰腺
+T87	Anatomy 5676 5681	miR-7
+T88	Anatomy 5684 5691	miR-375
+T89	Anatomy 5728 5730	胰腺
+T90	Anatomy 5732 5739	miR-375
+T91	Anatomy 5762 5769	miR-375
+T92	Anatomy 5771 5776	miR-7
+T93	Anatomy 5779 5782	hES
+T94	Anatomy 5789 5793	IPCs
+T95	Anatomy 5817 5822	Hnf1β
+T96	Anatomy 5825 5829	Pax6
+T97	Anatomy 5845 5852	miR-375
+T98	Anatomy 5859 5864	Hnf1β
+T99	Anatomy 5867 5871	Pax6
+T100	Anatomy 5883 5890	miR-375
+T101	Anatomy 5898 5903	Hnf1β
+T102	Anatomy 5906 5910	Pax6
+T103	Anatomy 5927 5934	miR-375
+T104	Anatomy 5975 5982	miR-375
+T105	Anatomy 6046 6053	miR-375
+T106	Anatomy 6114 6121	lncRNAs
+T107	Anatomy 6134 6144	胰岛 lncRNAs
+T108	Anatomy 6219 6221	胰岛
+T109	Anatomy 6235 6242	lncRNAs
+T110	Anatomy 6272 6287	胰岛特异性 lncRNA 基因
+T111	Anatomy 6299 6303;6304 6307	胰腺内分 泌细胞
+T112	Anatomy 6316 6320	β 细胞
+T113	Anatomy 6363 6368	胚胎干细胞
+T114	Anatomy 6380 6390	胰岛 lncRNAs
+T115	Anatomy 6409 6416	lncRNAs
+T116	Anatomy 6444 6448	β 细胞
+T117	Anatomy 2356 2364	CpG 二核苷酸
+T118	Anatomy 2445 2450	CpG 岛
+T119	Anatomy 3595 3598	染色质
+T120	Anatomy 3620 3624	mRNA
+T121	Anatomy 6629 6631	胰岛
+T122	Anatomy 6643 6645	胰岛
+T123	Anatomy 6647 6657	PPARGC1 基因
+T124	Disease 6723 6728;6729 6730	2 型糖尿 病
+T125	Anatomy 6871 6878	胰岛 β 细胞
+T126	Anatomy 7137 7143	miRNAs
+T127	Anatomy 7154 7161	miR-375
+T128	Anatomy 7163 7165	胰岛
+T129	Anatomy 7174 7179	miRNA
+T130	Anatomy 7198 7200	胰岛
+T131	Anatomy 7209 7216	miR-375
+T132	Anatomy 7267 7273	miRNAs
+T133	Anatomy 7283 7290	miR-375
+T134	Anatomy 7348 7355	miR-375
+T135	Anatomy 7393 7400	miR-375
+T136	Anatomy 7405 7409	mRNA
+T137	Anatomy 7421 7428	miR-375
+T138	Anatomy 7460 7467	miR-375
+T139	Anatomy 7478 7485	胰岛 β 细胞
+T140	Anatomy 7491 7495;7496 7499	miR- 375
+T141	Anatomy 7522 7529	miR-375
+T142	Anatomy 7553 7560	miR-375
+T143	Anatomy 7673 7680	miR-375
+T144	Anatomy 7790 7797	miR-375
+T145	Anatomy 7801 7808	胰岛 β 细胞
+T146	Anatomy 7843 7847;7848 7851	miR- 375
+T147	Anatomy 7872 7879	胰岛 β 细胞
+T148	Anatomy 7892 7899	miR-375
+T149	Anatomy 8023 8030	miR-375
+T150	Anatomy 8067 8074	miR-375
+T151	Anatomy 8120 8127	miR-375
+T152	Anatomy 8242 8244;8245 8249	胰岛 β 细胞
+T153	Anatomy 8291 8298	miR-375
+T154	Anatomy 8312 8319	miR-375
+T155	Anatomy 8334 8341	miR-375
+T156	Anatomy 8372 8377	胰岛素基因
+T157	Anatomy 8385 8392	胰岛 β 细胞
+T158	Anatomy 8400 8407	miR-375
+T159	Anatomy 8417 8424	胰岛 β 细胞
+T160	Anatomy 8440 8447	miR-375
+T161	Anatomy 8479 8483	β 细胞
+T162	Disease 8492 8495	糖尿病
+T163	Anatomy 8508 8516	miR-124a
+T164	Anatomy 8522 8524	大脑
+T165	Anatomy 8525 8528	神经元
+T166	Anatomy 8539 8546	胰岛 β 细胞
+T167	Anatomy 8623 8630	胰岛 β 细胞
+T168	Anatomy 8633 8635	胰腺
+T169	Anatomy 8663 8671	miR-124a
+T170	Anatomy 8713 8717	β 细胞
+T171	Anatomy 8811 8819	miR-124a
+T172	Anatomy 8850 8854;8855 8859	miR- 124a
+T173	Anatomy 8957 8963	Rab27A
+T174	Anatomy 8984 8988	β 细胞
+T175	Anatomy 9017 9022	miRNA
+T176	Anatomy 9032 9040	miR-124a
+T177	Anatomy 9075 9082	miR-375
+T178	Anatomy 9083 9091	miR-124a
+T179	Anatomy 9095 9100	miR-9
+T180	Anatomy 9103 9109	miR-96
+T181	Anatomy 9122 9127	miR-9
+T182	Anatomy 9132 9136	胰岛细胞
+T183	Anatomy 9147 9152	miR-9
+T184	Anatomy 9312 9317	miR-9
+T185	Anatomy 9348 9353	miR-9
+T186	Anatomy 9386 9392	miR-96
+T187	Anatomy 9439 9443	mRNA
+T188	Anatomy 9485 9492	lncRNAs
+T189	Anatomy 9495 9499	mRNA
+T190	Anatomy 9523 9530	lncRNAs
+T191	Anatomy 9761 9767	肿瘤抑制基因
+T192	Anatomy 9892 9896	β 细胞
+T193	Anatomy 9913 9917	β 细胞
+T194	Anatomy 6542 6550	PPARGC1A
+T195	Anatomy 4111 4115	MafA
+T196	Anatomy 4226 4230	MafA
+T197	Anatomy 3326 3331;3332 3335	长链非编码 RNA
+T198	Anatomy 5353 5355	胰腺
+T199	Anatomy 5650 5652	胰腺
+T200	Anatomy 8131 8142	磷酸肌醇依赖性激酶 1
+T201	Disease 1704 1709	代谢性疾病
+T202	Disease 2303 2310	DNA 甲基化
+T203	Disease 2314 2321	DNA 甲基化
+T204	Anatomy 2394 2396	基因
+T205	Disease 2486 2493	DNA 甲基化
+T206	Test 2721 2725	据氨基酸
+T207	Anatomy 2841 2844	染色质
+T208	Disease 2878 2883	组蛋白修饰
+T209	Disease 3125 3127	癌症
+T210	Test 3609 3613	PTGS
+T211	Test 3649 3652	TGS
+T212	Test 3655 3659	PTGS
+T213	Disease 3779 3781	肿瘤
+T214	Disease 3815 3817	癌症
+T215	Anatomy 4190 4203	同源性保守序列 A-box
+T216	Disease 4394 4401	DNA 甲基化
+T217	Disease 4583 4587	营养异常
+T218	Anatomy 4826 4835	人类 2 号染色体
+T219	Anatomy 4836 4845	小鼠 1 号染色体
+T220	Anatomy 6161 6165	编码基因
+T221	Anatomy 6169 6179;6180 6181	细胞特异性的高阶染色 质
+T222	Disease 2496 2498;2499 2501	基因 沉默
+T223	Anatomy 6575 6577	胰岛
+T224	Reason 6765 6769	氧化应激
+T225	Test 7236 7239	葡萄糖
+T226	Test 7370 7373	葡萄糖
+T227	Test 7504 7507	葡萄糖
+T228	Test 7964 7967	葡萄糖
+T229	Test 8113 8115	高糖
+T230	Test 8834 8840	高浓度葡萄糖
+T231	Test 9194 9197	葡萄糖
+T232	Anatomy 3347 3353	lncRNA
+T233	Anatomy 3318 3324	sncRNA
+T234	Test 1653 1655;1656 1662	全基 因组关联扫描
+T235	Anatomy 2367 2370	胞嘧啶
+T236	Anatomy 2384 2391	5-甲基胞嘧啶
+T237	Anatomy 2414 2419	CpG 岛
+T238	Anatomy 2423 2426	启动子
+T239	Anatomy 2427 2434	第 1 外显子
+T240	Anatomy 2465 2468;2469 2470	CpG 岛
+T241	Anatomy 2654 2657	组蛋白
+T242	Anatomy 2671 2674	蛋白质
+T243	Test 2675 2681	相对分子质量
+T244	Test_Value 2683 2698	10 000 ~ 20 000
+T245	Anatomy 2783 2786	DNA
+T246	Anatomy 2739 2742	组蛋白
+T247	Anatomy 2792 2802	DNA-组蛋白复合物
+T248	Anatomy 2886 2888;2889 2890	染色 质
+T249	Anatomy 2932 2935	赖氨酸
+T250	Anatomy 2936 2939	精氨酸
+T251	Anatomy 2859 2860;2861 2864	转 录因子
+T252	Anatomy 2865 2872	结构基因启动子
+T253	Anatomy 2919 2922	组蛋白
+T254	Anatomy 2949 2952	丝氨酸
+T255	Anatomy 2969 2972	组蛋白
+T256	Anatomy 2995 2998	组蛋白
+T257	Anatomy 3181 3186	蛋 白 质
+T258	Anatomy 3290 3295	ncRNA
+T259	Anatomy 3445 3450;3451 3466	piwi- interacting RNA
+T260	Anatomy 3475 3481	sncRNA
+T261	Anatomy 3757 3760	RNA
+T262	Anatomy 3883 3890	CpG 二核酸
+T263	Anatomy 3903 3905	GC
+T264	Anatomy 3914 3919	基因启动子
+T265	Level 3929 3930	高
+T266	Anatomy 3931 3940	CpG 密度启动子
+T267	Level 3968 3970	中等
+T268	Anatomy 3971 3980	CpG 密度启动子
+T269	Level 4014 4015	低
+T270	Anatomy 4016 4021;4022 4026	CpG 密 度启动子
+T271	Anatomy 4062 4068	HCP 基因
+T272	Anatomy 4118 4125	Nkx6. 1
+T273	Anatomy 4138 4143	Pdx-1
+T274	Anatomy 4184 4187	增强子
+T275	Anatomy 4232 4246	亮氨酸拉链蛋白 Maf 家族
+T276	Anatomy 4292 4297	Pdx-1
+T277	Anatomy 4300 4305	BETA2
+T278	Anatomy 4326 4333	Nkx6. 1
+T279	Anatomy 4420 4427	Nkx6. 1
+T280	Disease 4684 4690	宫内发育迟缓
+T281	Anatomy 4759 4764	Pdx-1
+T282	Anatomy 4765 4770	Pax-4
+T283	Anatomy 4771 4778	Nkx6. 1
+T284	Anatomy 4968 4973	Pdx-1
+T285	Anatomy 6527 6541	PPARγ 共激活因子 1A
+T286	Anatomy 6682 6685	DNA
+T287	Anatomy 6798 6801	组蛋白
+T288	Anatomy 6810 6827;6828 6832	组蛋白 3 赖氨酸 4(H3K4) 二甲基化
+T289	Anatomy 6924 6927	组蛋白
+T290	Anatomy 6931 6933;6934 6935	胰岛 素
+T291	Anatomy 6995 7000	Pdx-1
+T292	Anatomy 7083 7092	全基因组水平组蛋白
+T293	Anatomy 7108 7111	组蛋白
+T294	Anatomy 7317 7324	重组人肌侵蛋白
+T295	Anatomy 7412 7415	UTR
+T296	Anatomy 7437 7441	Mtpn
+T297	Anatomy 7453 7457	Mtpn
+T298	Anatomy 7570 7579	Mtpn mRNA
+T299	Anatomy 7605 7609	Mtpn
+T300	Anatomy 7613 7622	骨架聚合态肌动蛋白
+T301	Anatomy 7635 7645	肌动蛋白成帽蛋白 z
+T302	Anatomy 7655 7662	F-actin
+T303	Anatomy 7686 7690	Mtpn
+T304	Anatomy 7696 7703	Capz 蛋白
+T305	Anatomy 7713 7720	F-actin
+T306	Anatomy 7724 7731	F-actin
+T307	Anatomy 7742 7748	肌动蛋白网孔
+T308	Anatomy 7903 7908	NF-κB
+T309	Anatomy 7912 7916	Mtpn
+T310	Anatomy 7952 7957	NF-κB
+T311	Anatomy 7978 7983	NF-κB
+T312	Anatomy 8000 8004	Mtpn
+T313	Anatomy 8009 8014	NF-κB
+T314	Anatomy 8038 8042	Mtpn
+T315	Anatomy 8055 8060	NF-κB
+T316	Anatomy 8324 8331;8332 8333	PI3-K 通 路
+T317	Anatomy 8349 8357	PI3-K 通路
+T318	Anatomy 8359 8367	靶蛋白 PDK1
+T319	Anatomy 8558 8566	叉头盒蛋白 A2
+T320	Anatomy 8674 8678	MIN6
+T321	Anatomy 8694 8699	FoxA2
+T322	Anatomy 8725 8730	Pdx-l
+T323	Anatomy 8733 8753	KATP 通道的两个亚单元内向整流钾通道
+T324	Anatomy 8765 8772	磺脲类受体 1
+T325	Anatomy 8878 8884;8885 8888	后突触小体相 关蛋白
+T326	Anatomy 8897 8902	Rab3A
+T327	Anatomy 8903 8919	突触蛋白(synapsin)1A
+T328	Anatomy 8927 8933	Rab27A
+T329	Anatomy 8936 8943	Noc2 基因
+T330	Anatomy 8966 8974	miR-124a
+T331	Anatomy 9129 9131	大脑
+T332	Anatomy 9157 9169	转录因子 Onecut2
+T333	Anatomy 9228 9236	RabGTP 酶
+T334	Anatomy 9244 9248	分泌颗粒
+T335	Anatomy 9212 9223	Granuphilin
+T336	Anatomy 9263 9270	Onecut2
+T337	Anatomy 9277 9280	启动子
+T338	Anatomy 9288 9306	Granuphilin / slp4
+T339	Anatomy 9323 9330	Onecut2
+T340	Anatomy 9361 9372	Granuphilin
+T341	Anatomy 9403 9414	Granuphilin
+T342	Anatomy 9425 9436	Granuphilin
+T343	Anatomy 9455 9459	Noc2
+T344	Anatomy 9606 9611	ANRIL
+T345	Anatomy 9670 9674	单核苷酸
+T346	Anatomy 9722 9729	INK4 基因
+T347	Anatomy 9733 9739	lncRNA
+T348	Anatomy 9748 9755	INK4 基因
+T349	Anatomy 9768 9776	p15INK4b
+T350	Anatomy 9777 9783	p14ARF
+T351	Anatomy 9786 9794	p16INK4a
+T352	Anatomy 9798 9815	细胞周期蛋白依赖性激酶 4 / 6
+T353	Anatomy 9821 9826	ANRIL
+T354	Anatomy 9831 9835	PRC2
+T355	Anatomy 9838 9849	P15INK4B 基因
+T356	Anatomy 9862 9866	SNPs
+T357	Anatomy 9874 9879	ANRIL
+T358	Reason 2179 2185;2186 2197	环境因素和细 胞内遗传物质间交互作用
+T359	Duration 4696 4705	15 ~ 26 周
+T360	Anatomy 6907 6911	H3K4
+T361	Anatomy 35 42	胰岛 β 细胞
+T362	Reason 231 260	表观遗传直接或间接调控胰岛 β 细胞的发育、分化、分泌功能
+T363	Reason 262 266;267 273	机体对胰 岛素的敏感性
+T364	Reason 1729 1742	30 ~ 40 个基因位点
+T365	Reason 1799 1811	基因和环境因素的相互作用
+T366	Reason 2138 2143	基因组印记
+T367	Reason 2144 2148	母性影响
+T368	Reason 2149 2153	基因沉默
+T369	Reason 2154 2156;2157 2159	核仁 显性
+T370	Reason 2160 2167	休眠转座子激活
+T371	Anatomy 2325 2333;2334 2335	DNA 甲基转移 酶
+T372	Anatomy 2338 2346	S-腺苷甲硫氨酸
+T373	Disease 2645 2650	组蛋白修饰
+T374	Anatomy 2661 2668	真核生物染色质
+T375	Anatomy 2702 2705	精氨酸
+T376	Anatomy 2706 2707;2708 2710	赖 氨酸
+T377	Anatomy 2711 2716	碱性氨基酸
+T378	Disease 2804 2809	组蛋白修饰
+T379	Anatomy 2825 2828	组蛋白
+T380	Anatomy 3073 3082	组蛋白甲基化转移酶
+T381	Anatomy 3144 3151	非编码 RNA
+T382	Anatomy 3401 3410	小 干 扰 RNA
+T383	Anatomy 3668 3674	sncRNA
+T384	Disease 3865 3872	DNA 甲基化
+T385	Anatomy 4209 4214	胰岛素基因
+T386	Anatomy 4175 4183	胰岛素基因启动子
+T387	Anatomy 4254 4258;4259 4281	胰岛素基 因启动子区的 RIPE3b1 / C1 元件
+T388	Anatomy 4313 4318	胰岛素基因
+T389	Anatomy 4341 4344	胰岛素
+T390	Anatomy 4345 4354	基因转录起始复合物
+T391	Disease 4458 4463	组蛋白修饰
+T392	Disease 4469 4474	组蛋白修饰
+T393	Disease 4509 4511;4512 4515	组蛋 白修饰
+T394	Symptom 4538 4543;4544 4545	β 细胞损 伤
+T395	Disease 4642 4644	肥胖
+T396	Disease 4668 4670	肥胖
+T397	Disease 4671 4674;4675 4677	胰岛素 抵抗
+T398	Disease 4713 4721	β 细胞分泌缺陷
+T399	Disease 4722 4727	胰岛素抵抗
+T400	Disease 4741 4742;4743 4747	组 蛋白修饰
+T401	Anatomy 4849 4857;4858 4860	胰腺发育相关转录 因子
+T402	Anatomy 4908 4910	胰腺
+T403	Anatomy 4915 4917	胰岛
+T404	Anatomy 4956 4960	前体细胞
+T405	Anatomy 4951 4953	胰腺
+T406	Anatomy 4991 4993	胰岛
+T407	Anatomy 5002 5003;5004 5006	β 细胞
+T408	Anatomy 5011 5014	胰岛素
+T409	Anatomy 5019 5021	血糖
+T410	Anatomy 5043 5045	胰腺
+T411	Anatomy 5133 5135	胰腺
+T412	Anatomy 5136 5141	miR-7
+T413	Anatomy 5238 5241	胰岛素
+T414	Anatomy 5499 5500;5501 5504	胰 岛组织
+T415	Anatomy 5504 5511	特异性转录因子
+T416	Anatomy 5558 5560;5561 5566	人类 胚胎干细胞
+T417	Anatomy 5603 5605;5606 5610	成熟 IPCs
+T418	Anatomy 5709 5712	胰岛素
+T419	Anatomy 5946 5951	Foxa2
+T420	Anatomy 5952 5957	Sox17
+T421	Anatomy 5958 5962	Hnf6
+T422	Anatomy 5986 6000	胰腺前体细胞标志物 Ngn3
+T423	Anatomy 6003 6007	Pdx1
+T424	Anatomy 6013 6030	胰岛成熟相关标志物 Nkx6. 1
+T425	Anatomy 6033 6037	Pax4
+T426	Anatomy 6063 6066	胰岛素
+T427	Test 6086 6103	人 β 细 胞 转 录 组 序 列
+T428	Anatomy 6149 6151;6152 6158	胰岛 特异性染色质
+T429	Anatomy 6420 6427	成熟 β 细胞
+T430	Anatomy 6473 6480	胰岛 β 细胞
+T431	Anatomy 6498 6501	胰岛素
+T432	Disease 6504 6509	胰岛素抵抗
+T433	Anatomy 3378 3384	微小 RNA
+T434	Symptom 4546 4551	胰岛素抵抗
+T435	Anatomy 5174 5181	胰腺内分泌激素
+T436	Anatomy 6552 6555	胰岛素
+T437	Anatomy 6607 6618	PPARGC1A 基因
+T438	Anatomy 6619 6623	mRNA
+T439	Anatomy 6634 6637	胰岛素
+T440	Reason 6774 6781	DNA 甲基化
+T441	Anatomy 6804 6807	胰岛素
+T442	Anatomy 6878 6887	胰岛素基因启动子区
+T443	Anatomy 7014 7024	外周血单核细胞组蛋白
+T444	Anatomy 7145 7148	胰岛素
+T445	Anatomy 7217 7224	miR-375
+T446	Anatomy 7243 7246	胰岛素
+T447	Anatomy 7257 7260	胰岛素
+T448	Anatomy 7298 7301	胰岛素
+T449	Anatomy 7376 7379	胰岛素
+T450	Anatomy 7510 7513	胰岛素
+T451	Anatomy 7539 7542	胰岛素
+T452	Anatomy 7757 7764	胰岛素分泌颗粒
+T453	Anatomy 7772 7775	胰岛素
+T454	Anatomy 7812 7813;7814 7816	胰 岛素
+T455	Disease 7826 7829	高血糖
+T456	Anatomy 7858 7861	胰岛素
+T457	Anatomy 7922 7925	胰岛素
+T458	Anatomy 7970 7973	胰岛素
+T459	Anatomy 7989 7992	胰岛素
+T460	Anatomy 8079 8082	胰岛素
+T461	Anatomy 8090 8093	胰岛素
+T462	Anatomy 8222 8227	胰岛素基因
+T463	Anatomy 8252 8255	胰岛素
+T464	Anatomy 8409 8414	胰岛素基因
+T465	Anatomy 8449 8452	胰岛素
+T466	Anatomy 8608 8616;8617 8620	miR-124a 靶基因
+T467	Anatomy 8644 8647	胰岛素
+T468	Anatomy 8798 8805	MIN6 细胞
+T469	Anatomy 8825 8828	胰岛素
+T470	Anatomy 8843 8846	胰岛素
+T471	Anatomy 8865 8868	胰岛素
+T472	Anatomy 8990 8993	胰岛素
+T473	Anatomy 9115 9118	胰岛素
+T474	Anatomy 9200 9203	胰岛素
+T475	Anatomy 9255 9258	胰岛素
+T476	Anatomy 9337 9340	胰岛素
+T477	Anatomy 9378 9381	胰岛素
+T478	Anatomy 9469 9472	胰岛素
+T479	Anatomy 6579 6593	PPARGC1A 基因启动子
+T480	Anatomy 4413 4417	MafA
+T481	Anatomy 4090 4103	胰腺十二指肠同源盒基因 1
+T482	Anatomy 6959 6968	胰岛素基因启动子区
+T483	Anatomy 8194 8212	磷脂酰肌醇-3-激酶(PI3K)通路

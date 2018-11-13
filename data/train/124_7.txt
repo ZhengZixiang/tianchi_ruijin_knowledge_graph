@@ -1,0 +1,262 @@
+临床研究
+(骨质疏松亚专科)
+上海地区妇女体重指数与 25 羟维生素 D、
+甲状旁腺素及骨转换指标的相关性研究
+游利  陈琳  潘凌  陈瑾瑜  彭永德
+[摘要]   目的  探讨上海地区妇女体重指数(BMI)与 25 羟维生素 D[25(OH)D]、甲状旁腺素(PTH)
+及骨转换指标的相关性。 方法  (1)对 810 名入选者进行多元线性回归分析。 (2)根据 BMI 水平从 810 名
+入选者中选取 BMI 在 18 ~ 24 kg / m2者作为正常体重组(n = 326),选取 BMI>27 kg / m2 者作为肥胖组(n =
+171),选取 BMI<18 kg / m2作为低体重组(n=154)。 (3) 25(OH)D、PTH、骨钙素和I型胶原吡啶交联终肽
+(CTX)测定:采用电化学发光法测定(仪器为罗氏 E170);血骨特异碱性磷酸酶测定:采用免疫渗滤和全血
+干化学法。 (4)采用美国 GE 公司的双能 X 线骨密度仪测定骨密度,测量部位为腰椎 1 ~ 4(L1-4)后前位和
+左全髋。 结果  (1)与正常体重组相比,肥胖组 25(OH)D、骨钙素及 CTX 水平明显下降;PTH 水平明显增
+高;低体重组的骨钙素明显升高(P<0. 01),但 25(OH)D、PTH 及 CTX 均无统计学差异。 (2)多元线性回归
+分析显示上海地区妇女 BMI 水平与 25(OH)D、骨钙素及股骨颈骨密度呈负相关(分别为 β = -0. 017, P =
+0. 006;β= -0. 077,P=0. 019; β= -9. 738,P=0. 000),与 PTH、L1-4骨密度及全髋骨密度呈正相关(分别为 β=
+0. 025, P=0. 000;β=3. 332, P=0. 000;β=18. 544, P=0. 000)。 结论  (1)上海地区 45 岁以上妇女 BMI 与
+维生素 D 水平密切相关,但肥胖和维生素 D 缺乏的因果关系有待进一步研究。 (2) 骨钙素不仅与骨代谢
+有关,可能也是影响能量代谢的因素之一。
+[关键词]   25 羟维生素 D; 甲状旁腺素; 体重指数; 骨钙素
+Relation of body mass index to vitamin D, PTH, and bone turnover markers levels among women in Shanghai
+area YOU Li, CHEN Lin, PAN Ling, CHEN Jin-yu, PENG Yong-de. Department of Endocrinology and
+Metabolism, Shanghai Jiaotong University Affiliated First People忆s Hospital, Shanghai 200080, China
+[Abstract]  Objective   To examine the relationship of body mass index ( BMI) with levels of vitamin D,
+parathyroid hormone(PTH), and bone turnover markers among women in Shanghai area. Methods Altogether 810
+Chinese women aged 45 year and older were enrolled to study the associations by multiple linear regression
+analyses. Bone mineral density was measured by a dual energy X-ray absorptiometry(Lunar, Prodigy, GE), Serum
+25-hydroxyvitamin D[25(OH)D], PTH, C-telopeptide of type I collagen (CTX), osteocalcin (BGP), and bone-
+specific alkaline phosphatase (BSALP) were measured. Results (1)25(OH)D, BGP, BSALP, and CTX levels
+were significantly lower in obesity group than in control group; PTH level was significantly higher in obesity group than
+in control group. (2)In multiple linear regression analyses, BMI was significantly associated with lower 25(OH)D
+(β=-0. 017, P=0. 006),BGP(β = -0. 077, P = 0. 019), and higher PTH(β = 0. 025,P = 0. 000). Conclusions
+(1)There were siginificant associations between higher BMI and lower 25 ( OH) D among women in Shanghai.
+(2)Serum osteocalcin was associated not only with bone metabolism but also with energy metabolism.
+[Key words]  25-hydroxyvitamin D; Parathyroid hormone; Body mass index; Osteocalcin
+(Chin J Endocrinol Metab, 2013, 29: 566-569)
+肥胖是多种慢性疾病如心血管疾病、糖尿病等的
+风险因素。 随着生活水平的提高,肥胖的发生率愈来
+愈高。 维生素 D 缺乏可引起骨软化、骨质疏松症,增
+加骨折的风险。 近年来,国外越来越多的研究显示维
+生素 D 缺乏除引起骨骼疾病外,还与肥胖密切相
+关[1-3],国内相关研究甚少。 因此,本研究旨在探讨上
+海地 区 妇 女 体 重 指 数 ( BMI) 与 25 羟 维 生 素 D
+[25(OH)D]、甲状旁腺素(PTH)及骨转换指标的相关
+性。
+对象和方法
+一、 对象
+1. 对象:从本院 2005 年 8 月至 2012 年 1 月间骨
+质疏松门诊患者数据库中有完整资料的 4 796 例患者
+中选取符合入选标准的 810 例患者作为研究对象。 所
+有入选者均为初次就诊的上海地区年龄>45 岁的女性
+患者。 排除标准:糖尿病、甲状腺功能亢进、甲状旁腺
+功能亢进、已诊断的骨质疏松症及其他任何影响骨代
+谢或维生素 D 代谢的疾病,胃肠切除史,6 个月内使用
+激素史,维生素 D 及骨质疏松药物使用史,有嗜烟、酗
+酒史,有脆性骨折史。 所有入选者均签署知情同意书。
+2. 分组:从 810 例入选者中选取 BMI 在 18 ~ 24
+kg / m2患者作为正常体重组( n = 326),选取 BMI>27
+kg / m2患者作为肥胖组(n = 171),选取 BMI<18 kg / m2
+作为低体重组(n=154)。
+二、 方法
+1. BMI 测定:BMI =体重(kg) /身高2(m2)。 所有
+患者身高、体重均穿轻薄衣服、脱鞋测量。
+2. 骨密度测量:采用美国 GE 公司的双能 X 线骨
+密度仪(Lunar, Prodigy)测定,测量部位为腰椎 1 ~ 4
+(L1-4)后前位和左全髋。 每次测量前均行体模测试,
+L1-4的 CV 值是 1. 5% ,全髋 CV 值是 1. 2% ,股骨颈 CV
+值是 1. 7% 。 微机自动分析及打印结果,骨密度用
+(g / cm2)表示。
+3. 生化指标测定:所有入选者治疗前静脉血标
+本、尿标本均于上午 8 : 00 ~ 10 : 00 空腹采取,然后留
+存于-20℃ 冰箱保存,3 d 内完成测试。 25 (OH) D、
+PTH、I型胶原吡啶交联终肽(CTX)和骨钙素采用电
+化学发光法测定(仪器为罗氏 E170)。 血骨特异碱性
+磷酸酶(BSALP)采用免疫渗滤和全血干化学法测定。
+血钙(Ca)、血磷(P)、尿钙、尿肌酐(Cr)采用全自动生
+化仪测定。
+三、 统计学处理
+所有数据用 SPSS 18. 0 统计软件处理。 数据以
+x-± s表示。 3 组间比较用单因素方差分析。 相关性采
+用 Pearson 分析及多元线性逐步回归分析。 以 P<0. 05
+为差异有统计学意义。
+结    果
+一、 患者一般临床资料
+与正常体重组相比,肥胖组的年龄(P <0. 05)、
+BMI、L1-4、股骨颈及全髋骨密度及 PTH 水平均明显增
+高(P<0. 01);绝经年龄(P<0. 05)、骨钙素、CTX 及
+25(OH)D 水平明显下降 ( P < 0. 01)。 低体重组的
+BMI、L1-4、股骨颈及全髋骨密度明显下降(P<0. 01),
+骨钙素明显升高(P<0. 01),但 25(OH)D、PTH 及 CTX
+均无统计学差异(表 1)。
+二、 BMI 与 25(OH)D 等骨代谢指标及骨密度的
+相关性分析
+BMI 与 25(OH)D、骨钙素、CTX、尿 Ca / Cr 及绝经
+年龄负相关(分别为 r = -0. 093,P = 0. 009;r = -0. 18,
+P=0. 000;r= -0. 144,P=0. 000;r = -0. 083,P = 0. 021;
+r= -0. 091,P = 0. 02);与 PTH、年龄、L1-4骨密度、股骨
+颈骨密度、全髋骨密度正相关 ( r 与 P 分别为 r =
+0. 104,P = 0. 004;r = 0. 076,P = 0. 032;r = 0. 375,P =
+0. 000;r = 0. 296,P = 0. 000;r = 0. 436,P = 0. 000);与
+BSALP、Ca、P 无关(表 2)。
+三、 BMI 与 25(OH)D 等骨代谢指标及骨密度的
+表 1  3 组一般临床资料的比较(x-± s)
+Tab 1  Comparison of clinical data among three groups(x-± s)
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+绝经年龄
+(岁)
+Menopause age
+(year)
+BMI
+(kg / cm2)
+Ca
+(mmol / L)
+P
+(mmol / L)
+BSALP
+(U / L)
+BGP
+(ng / ml)
+肥胖组
+Obesity 171 68. 41 ± 10. 31
+a 48. 95 ± 3. 92a 29. 20 ± 1. 98b 2. 26 ± 0. 10 1. 20 ± 0. 16 112. 48 ± 26. 73 16. 68 ± 6. 01b
+正常体重组
+Normal weight 236 66. 10 ± 10. 79 49. 89 ± 3. 58 21. 42 ± 1. 53 2. 28 ± 0. 13 1. 20 ± 0. 20 112. 85 ± 28. 52 19. 00 ± 8. 40
+低体重组
+Low weight 154 65. 40 ± 12. 59 49. 87 ± 3. 94 16. 94 ± 0. 90
+b 2. 24 ± 0. 09 1. 24 ± 0. 15 110. 93 ± 22. 07 21. 74 ± 8. 91b
+组别
+Group
+例数
+n
+CTX
+(pg / ml)
+PTH
+(ng / ml)
+25(OH)D
+(nmol / L)
+尿 Ca / Cr
+Uninary Ca / Cr
+L1-4 BMD
+(g / cm2)
+FN BMD
+(g / cm2)
+TH BMD
+(g / cm2)
+肥胖组
+Obesity 171 405. 34 ± 186. 82
+b 50. 61 ± 28. 43b 47. 39 ± 16. 97b 0. 44 ± 0. 30 1. 031 ± 0. 189b 0. 769 ± 0. 123b 0. 855 ± 0. 136b
+正常体重组
+Normal weight 236 463. 48 ± 239. 20 41. 91 ± 17. 70 53. 93 ± 27. 27 0. 47 ± 0. 28 0. 902 ± 0. 229 0. 711 ± 0. 131 0. 764 ± 0. 131
+低体重组
+Low weight 154 498. 57 ± 233. 34 44. 34 ± 19. 30 52. 31 ± 21. 14 0. 48 ± 0. 28 0. 813 ± 0. 155
+b 0. 659 ± 0. 123b 0. 680 ± 0. 127b
+注:BMI:体重指数 Body mass index;Ca:钙 Calcium;P:磷 Phosphorus; BSALP:血骨特异碱性磷酸酶 Bone-specific alkaline phosphatase;BGP:骨钙素
+Osteocalcin;CTX:I型胶原吡啶交联终肽 C-telopeptide of type I collagen; PTH: 甲状旁腺素 Parathyroid hormone; 25 ( OH) D: 25 羟维生素 D
+25-hydroxyvitamin D; Ca / Cr:钙 / 肌酐 Calcium / creatinine; L1-4:腰椎1 ~ 4 Lumbar 1-4; FN:股骨颈 Femoral neck; BMD:骨密度 Bone mineral density; TH:全
+髋 Total hip; 与正常体重组比 vs Normal weight group, aP<0. 05, bP<0. 01
+表 2  BMI 与 25(OH)D、PTH、骨代谢指标及骨密度的相关性
+分析
+Tab 2 Correlations of BMI with 25(OH)D, PTH, BTM, and BMD
+变量
+Variant r P
+年龄
+Age 0. 076 0. 032
+绝经年龄
+Menopause age -0. 091 0. 020
+25(OH)D -0. 093 0. 009
+PTH 0. 104 0. 004
+BGP -0. 180 0. 000
+CTX -0. 144 0. 000
+Ca 0. 045 0. 202
+P -0. 061 0. 088
+BSALP 0. 037 0. 305
+尿 Ca / Cr -0. 083 0. 021
+腰椎 1-4-BMD 0. 375 0. 000
+股骨颈 BMD 0. 296 0. 000
+全髋 BMD 0. 436 0. 000
+注:略语同表 1 The abbreviations are the same as Tab 1
+多元线性回归分析
+以 BMI 为因变量,以 25(OH)D、PTH、CTX、骨钙
+素、BSALP、Ca、P、尿 Ca / Cr、全髋骨密度、股骨颈骨密
+度和 L1-4骨密度为自变量,进行多元线性逐步回归分
+析,发现仅 25(OH)D、PTH、骨钙素、BSALP、全髋骨密
+度、股骨颈骨密度和 L1-4骨密度进入方程,绝经后妇女
+BMI 的水平与 25(OH)D、骨钙素及股骨颈骨密度呈负
+相关(分别为 β = -0. 017, P = 0. 006;β = -0. 077, P =
+0. 019; β= -9. 738,P = 0. 000),与 PTH、BSALP、L1-4骨
+密度及全髋骨密度呈正相关(分别为 β = 0. 025, P =
+0. 000; β=0. 017, P=0. 002; β=3. 332, P=0. 000; β=
+18. 544, P= 0. 000,表 3)。 调整年龄和绝经年龄后,
+BMI 与 25(OH)D、骨钙素及股骨颈骨密度负相关,与
+PTH 及全髋骨密度、L1-4骨密度正相关仍存在。
+表 3  BMI 与 25(OH)D、PTH、骨代谢指标及骨密度的多元线
+性回归分析
+Tab 3 Multiple stepwise regression analysis on the relationship of BMI
+with 25(OH)D, PTH, BTM, and BMD
+变量
+Variant β SE P
+25(OH)D -0. 017 0. 006 0. 005
+PTH 0. 025 0. 007 0. 000
+BGP -0. 077 0. 019 0. 000
+BSALP 0. 017 0. 005 0. 002
+L1-4 BMD 3. 332 0. 019 0. 000
+FM BMD -9. 738 2. 273 0. 000
+TH BMD 18. 544 2. 193 0. 000
+注:略语同表 1 The abbreviations are the same as Tab 1
+讨    论
+国外越来越多的研究显示维生素 D 不仅与骨健
+康密切相关,也与肥胖有关。 国外多项研究显示 BMI
+与 25(OH)D 呈显著负相关[1-3],但不同人种的研究结
+果不一致[4]。 众所周知,不同人种维生素 D 水平是不
+一致的,拉丁裔美国人的维生素 D 水平比美国黑人更
+高[5],但这一种族无论儿童、青少年和成人肥胖却是
+非常普遍的[6],这提示并非所有人种的肥胖发生都与
+维生素 D 水平有关。 国内对 BMI 与 25(OH)D 相关性
+研究较少,中国上海地区妇女的 BMI 是否与25(OH)D
+水平有关呢? 本研究通过对本院骨质疏松症患者数据
+库中初诊的 810 例患者进行多元线性回归分析,发现
+BMI 与 25(OH)D 呈显著负相关,与国外针对其他人
+种的研究结果一致[1,2]。 本研究还发现 BMI 与 PTH
+呈显著正相关,这一结果也与国外研究结果一致[7]。
+维生素 D 缺乏引起肥胖的机制可能有以下几方面:
+1,25(OH)D 水平的下降可导致 PTH 的升高。 PTH 的
+增加能够促使钙流入脂肪细胞,在这些脂肪细胞中,细
+胞内钙可提高脂肪合成,促进体重增加[8]。 升高的
+PTH 可增加肾 1α 羟化酶活性,使循环中 1,25(OH) 2D
+水平增加,而 1,25(OH) 2D 能刺激脂肪合成,抑制脂
+肪细胞的凋亡,促进脂肪的堆积[9]。 维生素 D 对瘦素
+具有抑制作用[10]。
+国外多项研究还显示肥胖组与正常组相比,肥胖
+组的患者 25(OH) D 水平更低,PTH 水平更高[11,12]。
+本研究将 810 例患者中 BMI>27 kg / m2患者与 BMI 正
+常患者进行比较,也得出同样的结果。 超重或肥胖患
+者之所以维生素 D 水平比正常体重者更低的可能原
+因是:(1)肥胖的患者 1,25(OH) 2D 增加,1,25(OH) 2
+D 可反馈抑制 25(OH)D[13,14]。 (2) 肥胖患者由于脂
+肪组织对维生素 D 的潴留加强,释放到循环中的维生
+素 D 减少。 (3)肥胖患者维生素 D 被阻隔在脂肪细
+胞,导致其生物利用度下降[11]。 (4)与肥胖患者的体
+脂分布有关。 (5)肥胖患者相对活动较少,日晒时间
+较少。
+本研究还分析了 BMI 与骨转换指标间的关系,结
+果显示肥胖组骨钙素和 CTX 水平明显低于正常体重
+组,多元线性回归分析进一步显示 BMI 与骨钙素呈明
+显负相关,这与其他研究结果一致[15,16]。 提示骨钙素
+可能是影响肥胖的原因之一,其具体机制有待于进一
+步研究。
+本研究仍存在一些局限性:(1)未评估季节对维
+生素 D 的影响;(2)未评估不同患者日晒时间和维生
+素 D 摄入量的差别;(3)未评估生活方式对 BMI 的影
+响;(4)病例对照研究中肥胖组的样本量偏小。
+总之,本研究提示:(1)上海地区 45 岁以上妇女
+BMI 和维生素 D、PTH 水平是密切相关的。 但肥胖与
+维生素 D 缺乏之间的因果关系有待进一步研究。 (2)
+骨钙素不仅与骨代谢有关,可能也是影响肥胖等能量
+代谢的因素之一。

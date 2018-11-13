@@ -1,0 +1,352 @@
+甲状旁腺激素相关疾病
+基金项目:国家自然科学基金(81170804)
+者现在宁波市第一医院内分泌科
+血清 25-羟维生素 D 和甲状旁腺激素水平与
+2 型糖尿病患者骨密度的关系
+郁静嘉  赵点点  王筱婧  焦培林  孙立昊  陶蓓  宣言  刘建民  王卫庆  赵红燕
+[摘要]   目的  探讨 2 型糖尿病患者的血清 25-羟维生素 D[25(OH)D]以及甲状旁腺激素(PTH)水
+平与骨密度之间的关系。 方法 本研究为回顾性分析,共纳入 2 型糖尿病患者 1 050 例,采用双能 X 线吸
+收法骨密度仪检测腰椎 2 ~ 4、股骨颈和全髋骨密度,同时测定血清 PTH、25(OH)D 以及血清钙、磷水平。
+结果 相关性分析提示血清 PTH 与腰椎( r= -0. 072,P=0. 034)、股骨颈( r= -0. 112, P=0. 001)和全髋( r=
+-0. 115, P=0. 001)骨密度均呈明显负相关,且在校正年龄和体重指数后这种关系仍然存在。 25(OH)D 在
+校正了年龄和体重指数后,与股骨颈( r=0. 099, P=0. 007)和全髋( r=0. 044, P=0. 028)骨密度出现了显著
+的正相关。 血清钙与磷水平与各部位骨密度之间无显著相关性。 根据 25(OH)D 水平差异对 2 型糖尿病
+患者进行分组,其中维生素 D 缺乏者 773 例(73. 5% )、不足者 194 例(18. 5% )、充足者仅 83 例(8. 0% ),维
+生素 D 缺乏组的 PTH 水平显著高于充足组(P<0. 05),且维生素 D 缺乏组各部位骨密度均显著低于维生
+素 D 充足组(P<0. 05)。 多元逐步回归分析结果提示,年龄、体重指数和 PTH 是影响 2 型糖尿病患者骨密
+度变异的主要因素。 结论 2 型糖尿病患者中普遍存在维生素 D 缺乏状况,同时存在继发性 PTH 的升高,
+而伴有 PTH 水平升高的 2 型糖尿病患者更容易发生骨密度的降低,从而增加骨质疏松症甚至是脆性骨折
+的发病风险。
+[关键词]   糖尿病, 2 型; 25-羟维生素 D;甲状旁腺激素;骨密度
+Relationship of 25-hydroxyvitamin D and parathyroid hormone with bone mineral density in patients with type
+2 diabetes mellitus Yu Jingjia, Zhao Diandian, Wang Xiaojing, Jiao Peilin, Sun Lihao, Tao Bei, Xuan Yan, Liu
+Jianmin, Wang Weiqing, Zhao Hongyan. Department of Endocrinology and Metabolic Diseases, Ruijin Hospital,
+Shanghai Jiaotong University School of Medicine, Shanghai Clinical Center for Endocrine and Metabolic Diseases,
+Shanghai 200025, China
+[Abstract]   Objective   To investigate the correlation between 25-hydroxyvitamin D [25 ( OH) D] and
+parathyroid hormone (PTH) with bone mineral density (BMD) in patients with type 2 diabetes mellitus. Methods
+The study is a retrospective analysis. 1 050 patients with type 2 diabetes mellitus were enrolled. BMDs at lumbar spine
+(2-4), femoral neck, and total hip were measured by dual-energy X-ray absorptiometry. Serum PTH, 25(OH)D,
+Ca, and P levels were tested simultaneously. Results Pearson忆s correlation analysis revealed that PTH was negatively
+correlated with lumbar spine ( r=-0. 072, P = 0. 034), femoral neck ( r = -0. 112, P = 0. 001), and total hip ( r =
+-0. 115, P=0. 001) BMD, partial correlation analysis showed that the relationship was still significant even after
+adjusted for age and body mass index; 25(OH)D had a significant positive correlation with femoral neck( r=0. 099,
+P=0. 007) and total hip ( r = 0. 044, P = 0. 028) BMD after adjustment for age and body mass index. There was no
+correlation of Ca, P with BMD. Grouping according to differences in 25(OH)D levels in patients with type 2 diabetes
+mellitus, the number of cases with vitamin D deficiency was 773 (73. 5% ), the number of cases with vitamin D
+insufficiency was 194(18. 5% ), and the number of cases with adequate vitamin D was only 83(8. 0% ). The level of
+PTH in cases with vitamin D deficiency was significantly higher than that in cases with adequate vitamin D(P<0. 05);
+and BMD in cases with vitamin D deficiency was significantly lower than that with adequate vitamin D ( P < 0.
+05) . Multiple stepwise regression analysis revealed that age, body mass index, and PTH were the main factors that
+influenced the change of BMDs in patients with type 2 diabetes mellitus. Conclusions There was prevalence of
+vitamin D deficiency in patients with type 2 diabetes mellitus, meanwhile there was secondarily raised PTH. Type 2
+diabetic patients with raised PTH levels were more prone to develop lowered BMD, thus increasing the incidence of
+osteoporosis and even the risk of brittle fracture.
+[Key words]  Diabetes mellitus, type 2; 25-hydroxyvitamin D; Parathyroid hormone; Bone mineral density
+(Chin J Endocrinol Metab, 2015, 31: 306-310)
+维生素 D 缺乏是目前全球普遍存在的公众健康
+问题,近年研究发现维生素 D 缺乏除了与骨骼疾病有
+关,还与全身多种疾病关系密切,如高血压、冠心病、乳
+腺肿瘤、 结肠癌、 前列腺癌以及自身免疫性疾病
+等[1,2]。 维生素 D 在维持骨骼发育过程中起到重要作
+用,婴幼儿时期缺乏维生素 D 会导致佝偻病的发生,
+而成人长期缺乏维生素 D 可引起甲状旁腺激素
+(PTH)水平上升,出现代偿性甲状旁腺功能亢进,导致
+骨转换水平增加,骨量丢失,增加脆性骨折的风险[3]。
+因此,维持血清 25-羟维生素 D[25-hydroxyvitamin D,
+25(OH)D]和 PTH 水平在正常范围对骨骼健康至关
+重要。 研究发现在中老年男性和绝经后女性人群中,
+血清 25(OH)D、PTH 水平与骨密度密切相关,并直接
+影响骨质疏松症的发生率[4,5]。 流行病学资料显示,2
+型糖尿病患者并发骨质疏松以及骨质疏松性骨折的风
+险明显高于普通人群[6]。 但目前有关维生素 D 和
+PTH 水平与糖尿病患者骨密度关系的文献很少。 因
+此,本研究旨在探讨血清 25(OH)D 及 PTH 水平与 2
+型糖尿病患者骨密度之间的关系。
+对象和方法
+一、 对象
+本研究选取 2010 年 1 月至 2012 年 1 月在上海交
+通大学附属瑞金医院内分泌科住院的 2 型糖尿病患者
+1 050 例(男性 673 例,女性 377 例),平均年龄(57 ±
+10)岁,平均糖尿病病程为(9. 1 ± 6. 8)年。 诊断均符
+合 1999 年世界卫生组织(WHO)的 2 型糖尿病诊断标
+准,所有纳入研究对象均排除甲状腺功能亢进、甲状旁
+腺功能亢进、风湿性关节炎、多发性骨髓瘤、骨转移瘤
+等明显影响骨代谢的疾病及肝脏疾病、肾脏疾病等;同
+时亦排除服用影响骨代谢药物,如文迪雅、活性维生素
+D、双膦酸盐等的患者。
+二、 方法
+所有患者均测量身高、体重,并计算体重指数。 采
+用 GE-LUNAR 双能 X 线吸收法骨密度仪 ( Expert-
+1313)测定腰椎(第 2 至第 4 腰椎)、股骨颈和全髋骨
+密度。 骨质疏松症的诊断标准参照 1994 年 WHO 推
+荐的方法,即测得的骨密度与同性别峰值骨密度相比,
+其骨密度下降的标准差(T 值),如有一个或一个以上
+部位 T 值≤-2. 5 为骨质疏松;-2. 5<T 值≤-1 为骨量
+减少;T 值>-1 为骨量正常。
+采用化学发光免疫测定血清 PTH 水平(Achitect
+i2000sr, 美 国 ), 采 用 电 化 学 发 光 免 疫 测 定 血 清
+25(OH)D 水平(COBAS E601,瑞士),以血清 25(OH)D
+水平评定维生素 D 状态,<50 nmol / L 为维生素 D 缺
+乏,51 ~ 74 nmol / L 为维生素 D 不足,>75 nmol / L 为维
+生素 D 充足。
+三、 统计学处理
+数据采用 SPSS 16. 0 软件进行统计学处理。 正态
+分布计量数据采用 x-± s 表示;非正态计量资料用中位
+数(四分位间距)表示,经自然对数转换后进行统计学
+分析。 组间比较采用 Student-t 检验,并对腰椎、股骨颈
+和全髋骨密度进行相关、偏相关以及多元逐步回归分
+析,以 P<0. 05 为差异有统计学意义。
+结    果
+一、 不同骨量水平的 2 型糖尿病患者的一般资料
+根据骨密度测定结果将研究对象分为 2 组:骨量
+正常组 679 例和骨量减少 /骨质疏松组 371 例(表 1)。
+与骨量正常组相比,骨量减少 /骨质疏松组年龄偏大
+[(59. 57 ±10. 03 对 54. 35 ±10. 26)岁]、体重指数较低
+[(23. 75 ± 4. 03 对 25. 27 ± 3. 51) kg / m2 ]、病程较长
+[(9. 98 ±7. 24 对 8. 64 ± 6. 42)年],同时伴有 PTH 水
+平的增高[(51. 48 ±21. 34 对 48. 00 ±20. 59)pg / m],且
+上述差异均具有统计学意义(均 P<0. 01),但 2 组间
+的 HBA1C、25(OH)D 水平以及血清钙、磷水平不存在
+任何显著性差异(P>0. 05)。
+二、 血清 PTH、25(OH)D、钙、磷与 2 型糖尿病患
+者骨密度的相关及偏相关分析
+Pearson 相关分析结果提示 PTH 水平与腰椎、股
+骨颈以及全髋骨密度均存在显著的负相关关系(P<
+0. 05),且在校正年龄与体重指数后相关性仍然存在。
+而 25(OH)D 水平与各部位骨密度并不存在相关性,
+但在校正了年龄与体重指数后,其与股骨颈和全髋骨
+密度出现了明显的正相关性(P<0. 05)。 钙、磷则未见
+与骨密度有任何显著的相关性(表 2)。
+三、 不同 25(OH)D 状态下的 2 型糖尿病患者的
+PTH 水平及骨密度的变化
+1 050 例 2 型糖尿病患者中,维生素 D 缺乏者 773
+例(73. 5% )、不足者 194 例(18. 5% )、充足者仅 83 例
+(8. 0% )。 血清 PTH 水平在缺乏组与不足组以及充足
+组之间均具有显著差异(P<0. 01),且维生素 D 充足组
+表 1  不同骨量水平的 2 型糖尿病患者的一般资料表[x-± s,中位数(第 1 四分位 ~第 4 四分位)]
+Tab 1  Basic features of type 2 diabetes patients with different levels of bone mass [x-± s, median(1 st quartile-4 th quartile)]
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+病程
+Duration
+(年)
+体重指数
+Body mass index
+(kg / m2)
+HBA1C
+(% )
+PTH
+(pg / ml)
+25(OH)D
+(nmol / L)
+骨量正常组
+Normal control 679 54. 35 ± 10. 26 8. 64 ± 6. 42 25. 27 ± 3. 51 8. 48 ± 2. 07 48. 00 ± 20. 59 36. 77 ± 15. 24
+骨量减少 / 骨质疏松组
+Osteopenia / osteoporosis 371 59. 57 ± 10. 03
+b 9. 98 ± 7. 24b 23. 75 ± 4. 03b 8. 61 ± 2. 12 51. 48 ± 21. 34a 36. 14 ± 15. 00
+总体
+Total 1 050 56. 19 ± 10. 48 9. 12 ± 6. 75 24. 73 ± 3. 77 8. 53 ± 2. 09 49. 18 ± 20. 90 36. 55 ± 15. 14
+组别
+Group
+例数
+n
+钙
+Ca
+(mmol / L)
+磷
+P
+(mmol / L)
+骨密度
+Bone mineral density
+(g / cm2)
+腰椎 2 ~ 4
+Lumbar spine 2-4
+股骨颈
+Femoral-neck
+全髋
+Total hip
+骨量正常组
+Normal control 679 2. 21(2. 14-2. 27) 1. 27(1. 15-1. 40) 1. 25 ± 0. 16 0. 98 ± 0. 14 1. 05 ± 0. 12
+骨量减少 / 骨质疏松组
+Osteopenia / osteoporosis 371 2. 22(2. 15-2. 28) 1. 27(1. 15-1. 42) 0. 98 ± 0. 13
+b 0. 78 ± 0. 10b 0. 84 ± 0. 11b
+总体
+Total 1 050 2. 21(2. 14-2. 27) 1. 27(1. 15-1. 41) 1. 16 ± 0. 20 0. 91 ± 0. 16 0. 98 ± 0. 15
+注:PTH:甲状旁腺激素 parathyroid hormone;25(OH)D:25-羟维生素 D 25-hydroxyvitamin D;与骨量正常组相比 vs Normal control group, aP<0. 05,
+bP<0. 01
+表 2  血清 PTH、25(OH)D、钙、磷与 2 型糖尿病患者骨密度的相关及偏相关分析
+Tab 2  Pearson忆s correlation analysis and Partial correlation analysis between PTH, 25(OH)D, Ca, P, and bone mineral density in patients
+with type 2 diabetes mellitus
+骨密度
+Bone mineral density
+PTH 25(OH)D 钙Ca
+磷
+P
+r P r P r P r P
+腰椎 2 ~ 4 Lumbar spine 2-4
+Model 1 -0. 072 0. 034 0. 034 0. 324 -0. 018 0. 583 0. 030 0. 351
+Model 2 -0. 069 0. 061 0. 053 0. 149 -0. 001 0. 976 0. 010 0. 792
+Model 3 -0. 096 0. 009 0. 057 0. 120 0. 009 0. 800 0. 006 0. 866
+股骨颈 Femoral-neck
+Model 1 -0. 112 0. 001 0. 042 0. 225 -0. 054 0. 092 0. 003 0. 912
+Model 2 -0. 120 0. 001 0. 095 0. 010 -0. 054 0. 138 0. 013 0. 723
+Model 3 -0. 145 0. 000 0. 099 0. 007 -0. 046 0. 209 0. 010 0. 786
+全髋 Total hip
+Model 1 -0. 115 0. 001 0. 036 0. 294 -0. 075 0. 020 0. 003 0. 921
+Model 2 -0. 122 0. 001 0. 074 0. 044 -0. 075 0. 041 0. 013 0. 722
+Model 3 -0. 164 0. 000 0. 081 0. 028 -0. 068 0. 087 0. 008 0. 820
+注:PTH:甲状旁腺激素 parathyroid hormone;25(OH)D:25-羟维生素 D 25-hydroxyvitamin D;Model 1:模型 1,未校正 No adjusted;Model 2:模型 2,校
+正年龄 Age adjusted;Model 3:模型 3,校正年龄及体重指数 Age and body mass index adjusted
+表 3  不同 25(OH)D 水平 2 型糖尿病患者的 PTH 水平及骨密度(x-± s)
+Tab 3  PTH and bone mineral density in type 2 diabetes mellitus with different levels of 25(OH)D(x-± s)
+组别
+Group
+例数
+n
+PTH
+(pg / ml)
+骨密度
+Bone mineral density
+(g / cm2)
+腰椎 2 ~ 4
+Lumbar spine 2-4
+股骨颈
+Femoral-neck
+全髋
+Total hip
+维生素 D 充足
+Vitamin D adequacy 83 44. 44 ± 18. 35 1. 23 ± 0. 13 1. 01 ± 0. 12 1. 08 ± 0. 09
+维生素 D 不足
+Vitamin D insufficiency 194 44. 05 ± 16. 35 1. 14 ± 0. 21 0. 90 ± 0. 16 0. 95 ± 0. 16
+维生素 D 缺乏
+Vitamin D deficiency 773 50. 42 ± 21. 60
+bc 1. 16 ± 0. 20a 0. 91 ± 0. 16b 0. 98 ± 0. 15b
+注:PTH:甲状旁腺激素 parathyroid hormone;25(OH)D:25-羟维生素 D 25-hydroxyvitamin D;与维生素 D 充足组比较 vs Vitamin D adequacy group,
+aP<0. 05, bP<0. 01;与维生素 D 不足组比较 vs Vitamin D insufficiency group,cP<0. 01
+组的各部位骨密度均明显高于不足组和缺乏组(P<
+0. 05),其中以股骨颈及全髋骨密度更为显著 (P <
+0. 01,表 3)。
+四、 2 型糖尿病患者骨密度的多元回归分析
+分别以腰椎、股骨颈和全髋骨密度作为因变量,以
+年龄、体重指数、病程、PTH、25(OH)D、钙、磷作为自变
+量进行多元逐步回归分析,结果提示年龄(R2 = 0. 020,
+P<0. 01)、体重指数(R2 = 0. 038, P < 0. 01) 和 PTH
+(R2 =0. 009, P<0. 01)是影响腰椎骨密度变异的主要
+因素;年龄 (R2 = 0. 112, P < 0. 01)、体重指数 (R2 =
+50. 023, P < 0. 01)、 PTH ( R2 = 0. 018, P < 0. 01 ) 和
+25(OH)D(R2 =0. 005, P<0. 05)是决定股骨颈骨密度
+变化的主要影响因素;而年龄(R2 = 0. 091, P<0. 01)、
+体重指数(R2 = 0. 061, P<0. 01)和 PTH(R2 = 0. 023,
+P<0. 01)是决定全髋骨密度变异的主要因素。
+讨    论
+本研究观察到在 2 型糖尿病患者中,骨量减少 /骨
+质疏松的发生率为 35. 3% ,伴有骨量减少 /骨质疏松
+患者的 PTH 水平明显高于糖尿病骨量正常的患者,进
+一步的相关分析提示 PTH 与各部位骨密度之间存在
+显著负相关关系,且不随年龄和体重指数的校正而消
+失,表明它们之间的关系不受年龄及体重指数的影响。
+多元回归分析结果显示,PTH 水平的变化可以说明腰
+椎骨密度 0. 6%的变异、股骨颈骨密度 1. 9%的变异以
+及全髋骨密度 1. 9% 的变异。 上述结果提示,高 PTH
+水平可能会降低 2 型糖尿病患者的骨密度,从而增加
+骨质疏松的发病风险。 本研究中,2 型糖尿病患者中
+普遍存在维生素 D 的缺乏或不足,其发生率高达
+92% ,远高于正常人群,这可能与本研究的样本量不够
+大有关。 其中维生素 D 缺乏组的 PTH 水平较维生素
+D 不足组和充足组显著升高,可能与体内维生素 D 缺
+乏导致 PTH 分泌增多有关,且维生素 D 充足组的骨密
+度明显高于维生素 D 不足组和缺乏组。 在随后的相
+关性分析中,25(OH)D 水平与各部位骨密度在未进行
+任何因素校正时并不存在任何相关关系,而在校正了
+年龄及体重指数后,25(OH)D 与股骨颈及全髋骨密度
+出现了较为显著的正相关关系。 这个结果说明,在排
+除年龄和体重指数的影响下,25(OH)D 对于维持骨密
+度,尤其是髋部的骨密度,防止骨量丢失,起到一定的
+作用。 Bhattoa 等[7]研究结果表明维生素 D 对骨密度
+存在保护性作用,本研究的结果也支持这个结论。
+血清 25(OH)D 水平是目前公认的衡量维生素 D
+营养状况的金指标,维生素 D 缺乏的定义尚存在一定
+分歧,多数研究者将维生素 D 缺乏定义为 25(OH)D
+水平低于 50 nmol / L,但当血清 25(OH) D 为 51 ~ 74
+nmol / L 时就可判断维生素 D 相对不足,正常血清
+25(OH)D 水平是 75 ~ 150 nmol / L[8]。 在体外实验中,
+维生素 D 已被证实可通过刺激成骨细胞的成熟和增
+加矿化相关基因的表达来增强成骨矿化作用[9]。 此
+外,在 25(OH)D 充足的情况下,破骨细胞会显示出较
+低的活性[10]。 在人群研究中,对于 25(OH)D 与骨密
+度的相关性仍存在争议。 有研究发现,血清 25(OH)D
+与骨密度有关,直接影响骨质疏松甚至是脆性骨折的
+发生率[7]。 当血清 25(OH)D 处于高水平,PTH 低水
+平的状态下,骨密度明显增高[11]。 Ensrud 等[12] 对
+1 279 名超过 65 岁的美国社区白人男性进行为期 4 年
+的随访研究结果显示,低 25(OH)D 水平与髋部骨质
+丢失 的 增 加 密 切 相 关。 但 也 有 研 究 报 道 血 清
+25(OH)D 与骨密度并无相关性。 Arabi 等[13] 的研究
+并未在调查人群中发现脊柱与髋部骨密度 4 年中的变
+化与 25(OH)D 之间的联系。 Chan 等[14] 对中国老年
+男性的研究中也未发现血清 25(OH)D 与股骨颈骨密
+度变化之间的联系。 上述研究对象主要集中在中老年
+男性和绝经后女性中,那么在 2 型糖尿病患者中又会
+存在怎样的关系? Al-Timimi 等[15] 的研究结果表明,2
+型糖尿病患者中有三分之二以上存在低维生素 D 的
+状态,尤其在血糖控制较差病程较长的患者中。 国内
+一个对 2 型糖尿病患者的研究结果显示,维生素 D 水
+平将影响 2 型糖尿病患者胰岛素抵抗和血糖控制及骨
+密度水平,造成腰椎及股骨颈骨密度降低,骨量减少,
+骨质疏松发病率显著升高[16]。 这与本研究结果基本
+一致,即 2 型糖尿病患者中维生素 D 缺乏的普遍性及
+维生素 D 缺乏与骨密度降低的相关性。
+PTH 是与 25 (OH) D 具有密切联系的骨代谢指
+标,被认为是预测骨质流失的又一指标。 PTH 对骨的
+形成具有双向调节作用,持续性 PTH 刺激可引起骨吸
+收增强,而小剂量、间歇性应用 PTH 则可促进骨形
+成[17]。 由于本研究人群排除了原发性甲状旁腺功能
+亢进的患者,且在对研究对象按 25(OH)D 水平进行
+的分组中可以看到,25(OH)D 缺乏组的 PTH 水平较
+充足组与相对不足组明显升高,说明本研究中所显示
+的 PTH 升高应为 25(OH)D 缺乏导致其继发性升高。
+有研究显示,PTH 在维生素 D 不足的情况下会对骨密
+度产生不利的影响[18]。 Reyes-Garc侏a 等[19] 研究指出,
+2 型糖尿病患者与正常人群相比,具有较低的血清
+PTH 水平,这可能与糖尿病损害了 PTH 的分泌以及
+PTH 只对低维生素 D 状态起反应有关,从而导致低骨
+转化状态,这就可能增加骨折的风险,其选取的健康人
+群与 2 型糖尿病患者的 25 (OH) D 水平并不存在差
+异。 Mosali 等[20]则发现,髋部骨密度的改变和骨吸收
+标志物 CTX(I型胶原羧基末端肽)、P1NP(I型前胶
+原氨基端延长肽)与 PTH 密切相关,高 PTH 的聚集会
+抵消或减少双膦酸盐类药物对骨骼的保护作用。 一项
+对日本绝经后妇女的研究结果显示,低血清 25(OH)D
+水平导致的血清高 PTH 状态与股骨颈骨密度的严重
+降低密切相关,而与椎体骨密度无关[21]。 这也许可以
+用 PTH 对于皮质骨的作用多于松质骨来解释[22]。 本
+研究发现,高血清 PTH 水平的 2 型糖尿病患者骨密度
+明显降低,提示临床监测 PTH 水平对于早期发现糖尿
+病性骨质疏松以及骨折的高危人群有一定帮助。
+本研究尚存在几点不足之处:(1)本研究仅仅是
+个横断面的回顾性研究,没有设立健康人群对照组,无
+法了解健康人群与 2 型糖尿病患者之间 25(OH)D 和
+PTH 对于骨密度影响的差异。 (2)没有骨折资料的分
+析,无法说明 25(OH)D 和 PTH 与脆性骨折之间的关
+系。 (3 ) 缺乏骨转换生化指标的检测,无法了解
+25(OH)D 和 PTH 与骨吸收及骨形成等骨转换指标之
+间的关系。 (4)由于降糖药物可能对患者骨密度变化
+产生一定影响,但因本研究的样本量较小,且患者应用
+降糖药物种类较多,统计分析中未能排除降糖药物对
+患者骨密度的影响。 因此,还有待于进一步临床研究
+来阐明 25(OH)D 和 PTH 对健康人群或糖尿病人群骨
+量和骨折的影响以及可能的机制。
+综上所述,本研究结果提示血清 25(OH)D 水平
+的不足,导致 PTH 继发性分泌增多,可能导致了 2 型
+糖尿病患者各部位骨密度尤其是髋部骨密度降低的发
+生,因此对于 2 型糖尿病人群,应适量补充维生素 D,
+维持血清维生素 D 充足状态,可预防因 PTH 继发性升
+高而导致的骨密度降低,从而减少骨质疏松症的发生
+率。

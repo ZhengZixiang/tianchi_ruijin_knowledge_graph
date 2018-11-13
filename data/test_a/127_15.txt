@@ -1,0 +1,316 @@
+基础研究
+基金项目:国家科技重大专项课题(2009ZX09503-025);贵州省科技计划发展项目([2009]3017;2051)
+科学院基础医学研究所组织工程中心(赵春华)
+人羊膜间充质干细胞对大鼠 1 型糖尿病模型
+的疗效及免疫调节作用
+蒲莹峰  方宁  陈代雄  余丽梅  章涛  赵春华
+[摘要]   目的  探讨人羊膜间充质干细胞(hAMSCs)对 1 型糖尿病的疗效及免疫调节作用。 方法
+分离培养 hAMSCs;建立大鼠 1 型糖尿病模型,分为正常组、模型组、培养基组、hAMSCs 组和胰岛素组,每组
+6 只。 hAMSCs 组经舌下静脉注射 5×106个 hAMSCs,动态监测血糖水平,检测血浆胰岛素浓度,观察胰腺病
+理变化和 hAMSCs 在胰腺中的分布,分析 hAMSCs 表型和淋巴细胞亚群,测定血浆 Th1、Th2 型细胞因子。
+结果  与模型组比较,hAMSCs 组血糖水平明显下降,血浆胰岛素含量增加,胰腺病损程度减轻;移植后 6
+周,hAMSCs 组外周血 Th1 和 Th17 细胞百分比下降(均 P<0. 05),而 Th2 细胞和 FoxP3+Treg 细胞上调(均
+P<0. 01);血浆 Th1 型细胞因子干扰素-γ、肿瘤坏死因子-α 和白细胞介素(IL)-2 的浓度下降(均 P<0. 01),
+Th2 型细胞因子 IL-4 升高(P<0. 05);hAMSCs 组胰腺组织中未见由 hAMSCs 分化的胰岛素分泌细胞。 结论
+hAMSCs 能明显降低 1 型糖尿病大鼠血糖和减轻胰岛损伤,其作用机制可能主要与上调 FoxP3+Treg 有关。
+[关键词]   糖尿病, 1 型; 人羊膜间充质干细胞; 免疫调节; 大鼠
+Therapeutic effect and immunologic regulation of human amniotic mesenchymal stem cells in rats with
+experimental type 1 diabetes mellitus    Pu Yingfeng*, Fang Ning, Chen Daixiong, Yu Limei, Zhang Tao, Zhao
+Chunhua. *Key Laboratory of Cell Engineering of Guizhou Province, Affiliated Hospital of Zunyi Medical College, Zunyi
+563003, China
+[Abstract]   Objective   To study the therapeutic effect and immunologic regulation of human amniotic
+mesenchymal stem cells ( hAMSCs) in rats with experimental type 1 diabetes mellitus ( T1DM). Methods The
+hAMSCs from human amnion were isolated and cultured in vitro, then phenotype was analyzed by flow cytometry.
+T1DM were produced by administering streptozocin to rats. The rats were divided into normal control group (n = 6),
+T1DM model group(n=6), medium treated group(n=6), hAMSCs transplanted group(n=6), and insulin treated
+group(n=6). 5×106 of hAMSCs or vehicle were administered to rats via sublingual vein. Blood glucose levels of rats
+were recorded weekly in the groups for six weeks by Blood Sugar Meter. At the end of 6 weeks after hAMSCs
+transplantation, concentrations of plasma insulin were detected by ELISA; histopathological changes of pancreas,
+survival and differentiation of transplanted hAMSCs in pancreatic tissue were studied with HE staining, and
+immunofluorescence staining; percentages of lymphocyte subsets in peripheral blood mononuclear cells were
+determined by flow cytometry; concentrations of plasma cytokines were determined by cytometric bead array. Results
+After hAMSCs transplantation, blood glucose levels in rats with T1DM were decreased ( P < 0. 01 ), while
+concentrations of plasma insulin were increased significantly (P<0. 01) . At 6 weeks, cell-treated animals showed an
+improvement in pancreas damage; the percentages of CD4+ IFN-γ+(Th1) and CD4+ interleukin(IL)-17+(Th17)cells
+were reduced(all P<0. 05), while the percentages of FoxP3-positive regulatory T cells(FoxP3+Treg) and CD4+ IL-4+
+(Th2) cells were increased (all P<0. 01); plasma concentrations of interferon-γ, IL-2, and tumor necrosis factor-α
+were decreased(all P<0. 01), but IL-4 level was increased(P<0. 05) . No histological evidence of insulin producing
+cells from hAMSCs was seen within pancreas. Conclusions hAMSCs may reduce blood glucose and alleviate the islet
+damage in rats with T1DM, which is related to their potential to up-regulate FoxP3+Treg cells.
+[Key words]  Diabetes mellitus, type 1; Human amniotic mesenchymal stem cells; Immunologic regulation;
+Rat
+(Chin J Endocrinol Metab, 2014, 30: 55-60)
+1 型糖尿病是 T 细胞介导的胰岛 β 细胞破坏的自
+身免疫性疾病,在我国乃至世界范围呈快速增长态
+势 [1] 。 通过免疫干预或免疫调节抑制 1 型糖尿病
+免疫病理过程已成为 1 型糖尿病防治研究的热点。
+近年来研究证明,骨髓、脐带来源的间充质干细胞
+(mesenchymal stem cells, MSCs)可逆转 1 型糖尿病高
+血糖[2,3]。 体外实验证明, 人羊膜间充质干细胞
+(human anmiotic mesenchymal stem cells, hAMSCs)不仅
+可分化为胰岛素分泌细胞 ( insulin producing cells,
+IPCs),而且具有免疫调节作用[4,5],这为 hAMSCs 作为
+免疫调节剂用于 1 型糖尿病的治疗提供了一种可能。
+目前,关于 hAMSCs 移植对 1 型糖尿病宿主的免疫调
+节作用尚不清楚。 本研究旨在观察 hAMSCs 静脉移植
+对大鼠 1 型糖尿病模型的治疗效果和免疫调节作用。
+材料和方法
+一、 材料和试剂
+清洁级成年雄性 SD 大鼠 90 只(重庆第三军医大
+实验动物中心提供) [许可证号: SCXK (渝) 2012-
+0005],体重 180 ~ 220 g。 SPF 环境饲养,室温(22 ±
+2)益,相对湿度 55% ~60% ,12 h / 12 h 昼夜规律,给予
+常规饮水和喂食。 饲料由第三军医大学实验动物中心
+提供。 人羊膜来源于产妇知情同意后足月剖宫产胎
+盘。 LG-DMEM、胎牛血清(FBS,Gibco 公司),链脲菌
+素(STZ)、淋巴细胞分离液(10831,Sigma 公司),精蛋
+白锌胰岛素(江苏万邦生化公司),大鼠胰岛素 ELISA
+试剂盒 ( Excell 公司),流式细胞术 ( Flow cytometry,
+FCM)所用荧光标记抗体(BD、eBioscience 公司),流式
+细胞微球芯片捕获技术(Cytometric bead array, CBA)
+试剂盒(BD 公司),兔抗人胰岛素抗体(Cell Signaling
+公司),小鼠抗人细胞核抗体 MAB1281 (Milliopre 公
+司),荧光二抗(Santa Cruz 公司)。
+二、 方法
+1. hAMSCs 的制备:参照文献[6]分离 hAMSCs,
+传 代 培 养 基 LG-DMEM 含 10% 胎 牛 血 清、 1%
+GlutaMAX、1% β-巯基乙醇、1% 非必需氨基酸以及 10
+ng / ml 碱性成纤维生长因子。 取经贴壁纯化后的第 3
+代 hAMSCs 用 荧 光 标 记 的 鼠 抗 人 单 克 隆 抗 体
+CD44-FITC、CD73-PE、CD90-FITC、CD105-PE、CD34-PE、
+CD45-FITC、CD14-FITC、CD19-PE、CD80-FITC、CD86-PE
+和 HLA-DR-PerCP 常规标记 hAMSCs,用流式细胞仪
+(FACSCalibur,BD 公司)检测表型,每份样品采集细胞
+数≥20 000 个,用 CellQuest 软件分析。 同型对照为相
+应荧光素标记的小鼠 IgG。 制备 hAMSCs 爬片进行波
+形蛋白和 CK19 免疫组化染色。
+2. 1 型糖尿病模型制备与实验分组:参照文献
+每周断尾取血用血糖仪(台湾惠碁公司)测血糖,持续
+3 次血糖≥11. 1 mmol / L 为 1 型糖尿病造模成功。 造
+模过程中,14%的动物死亡(12 / 84),72 只存活大鼠中
+47 只血糖浓度不稳定,未达到持续 3 周血糖≥11. 1
+mmol / L 标准,予以剔除,最终成模动物数为 25 只。 成
+模大鼠 24 只随机分成模型组、培养基组、hAMSCs 移
+植组和胰岛素治疗组,另设正常对照组,每组 6 只。
+3. hAMSCs 移植:取第 3 代 hAMSCs 用 LG-DMEM
+调整细胞浓度,hAMSCs 移植组经舌下静脉注射 300 滋l
+hAMSCs 悬液(含 5×106个细胞)。 培养基组相同途径
+注射等体积 LG-DMEM。 胰岛素组于每日餐前 3 h 腹
+腔注射 3 U 精蛋白锌胰岛素,连续 6 周。
+4. 血糖和血浆胰岛素测定:hAMSCs 移植后,每周
+监测各组血糖至第 6 周。 于第 6 周用 7%水合氯醛(5
+ml / kg)腹腔注射麻醉后经腹主动脉取血,分离血浆按
+大鼠胰岛素 ELISA 试剂盒说明书测定各组血浆胰岛
+素浓度。
+5. 组织学检测:于第 6 周腹主动脉取血后断髓法
+迅速处死动物,取胰腺组织于 4% 多聚甲醛和 30% 蔗
+糖混合溶液中固定、脱水过夜,石蜡连续切片(6 滋m)
+和冰冻连续切片(6 滋m),分别用于 HE 常规染色和
+MAB1281 /胰岛素免疫荧光双染色。 荧光染色步骤:切
+片洗涤封闭后滴加 MAB1281 和兔抗人胰岛素抗体
+(均按 1 : 100 稀释),4℃孵育过夜,滴加 PE 标记的山
+羊抗小鼠 IgG 和 FITC 标记的山羊抗兔 IgG (均按
+1 : 200 稀释),37℃孵育 1 h,DAPI 复染,荧光显微镜
+下观察照相。
+6. FCM 检测 T 淋巴细胞亚群:大鼠外周血加等体
+积 D-PBS 稀释,用淋巴细胞分离液分离单个核细胞,
+加入 20 ng / ml 佛波酯、1 mg / L 离子霉素和 10 mg / L 布
+雷菲德菌素,37℃ 孵育 4 h,调整细胞浓度为 1 ×106
+个 / ml。取 200 滋l 细胞悬液,按淋巴细胞亚群配对方案
+加入 5 滋l 荧光标记的单克隆抗体 CD4-APC,室温避光
+孵育 30 min,4%多聚甲醛固定 20 min,加入破膜剂破
+膜 10 min,D-PBS 洗涤。 按组合方案加入对应的小鼠
+抗大鼠干扰素( IFN)-γ-FITC、白细胞介素( IL)-4-PE、
+IL-17-FITC 和 FoxP3-PE 单克隆抗体,室温避光孵育 30
+min,D-PBS 洗涤,1% 多聚甲醛固定,4℃避光存放,24
+h 内上机检测,所有样品采集细胞数≥20 000 个,
+CellQuest 分析 T 淋巴细胞亚群。 同型对照为相应荧
+光抗体标记的小鼠 IgG。
+7. CBA 测定细胞因子:首先用 BD 公司的校准试
+剂通过 BD FAS Comp 软件设置 FCM 的基本参数(设
+门、电压、补偿),随后将试剂盒中的细胞因子标准品
+按梯度法稀释为 1 : 2、1 : 4、1 : 8、1 : 16、1 : 32、
+1 : 64、1 : 128、1 : 256,加上最高浓度和阴性对照制定
+细胞因子标准曲线。 大鼠血浆 (待测样品) 1 500
+转 / min 离心 5 min,吸取上清液 50 滋l 于待测管内,加
+入 50 滋l 微球混合物,孵育 1 h,加 50 滋l PE 混合检测抗
+体,室温避光孵育 2 h。 加入 1 ml 洗液,1 500 转 / min
+离心 5 min,弃上清,加 300 滋l 洗液当天上机,Cell Quest
+检测。 用 FCAP Array Software 分析采集的数据,绘制
+标准曲线,分析待测样品中 IL-2、IFN-γ、肿瘤坏死因子
+(TNF)-α、IL-4 和 IL-10 的浓度。
+三、 统计学处理
+所有数据均用 SPSS 19. 0 软件进行分析,以 x- ± s
+表示,组间比较采用独立样本 t 检验。 P<0. 05 为差异
+有统计学意义。
+结    果
+一、 hAMSCs 表型特征
+FCM 检测结果显示,用于移植的第 3 代 hAMSCs
+高表 达 CD44、 CD73、 CD90、 CD105, 不 表 达 CD34、
+CD45、CD14、CD19、CD80、CD86、HLA-DR。 免疫组化
+染色显示, hAMSCs 表达波形蛋白 (图 1 ),不表达
+CK19。
+二、 血糖与胰岛素浓度的变化
+在整个监测期间,模型组和培养基组血糖水平一
+直保持在 26. 8 ~ 31. 2 mmol / L 之间;移植后 2 周,
+hAMSCs 组血糖水平降至 10. 1 ~ 16. 1 mmol / L (P <
+0. 01),比模型组下降 32% ~ 63% ,至移植后第 6 周仍
+维持在 9. 6 ~ 12. 5 mmol / L,但未恢复到正常对照组水
+平(4. 5 ~ 7. 9 mmol / L);胰岛素组于给药后血糖即迅
+速下降至正常范围(图 2)。 移植后 6 周,hAMSCs 组血
+浆胰岛素浓度达 0. 74 μg / L,明显高于模型组(0. 37
+μg / L)和培养基组(0. 33 μg / L,均 P<0. 01),但仍低于
+正常组(1. 04 ~ 1. 2 μg / L,图 3)。
+三、 胰岛病理变化
+各实验组大鼠胰岛结构都有不同程度的破坏,胰
+注:hAMSCS:人羊膜间充质干细胞 Human amniotic mesenchymal stem cells;(A)第 3 代 hAMSCs 形态 Morphology of P3 hAMSCs( ×100);(B)波形蛋
+白表达阳性 Positive expression of vimentin in hAMSCs(IH×200)
+图 1  hAMSCs 生长形态与免疫组化染色
+Fig 1  Morphology and immunohistochemical staining of cultured hAMSCs
+注:NC: 正常对照组 Normal control group; Mod:模型组 Model group;
+Med: 培养基组 Medium group; hAMSCs: 人羊膜间充质干细胞组 Human
+amniotic mesenchymal stem cells group; INS: 胰岛素组 Insulin group
+图 2  各组大鼠血糖水平的变化
+Fig 2  Changes of blood glucose levels of rats in different groups
+注:略语同图 2 The abbreviations are the Fig 2;与 Mod 组比较 vs Mod
+group, aP<0. 01;与 Med 组比较 vs Med group, bP<0. 01
+图 3  各组大鼠血浆胰岛素水平
+Fig 3  Concentration of plasma insulin of rats in different groups
+岛细胞坏死、减少,胰岛边缘炎性细胞侵润明显。
+hAMSCs 移植组胰岛结构相对完整,胰岛细胞较多,炎
+症反应较轻(图 4)。
+四、 hAMSCs 在胰腺组织的分布
+MAB1281 /胰岛素免疫荧光双染色显示,hAMSCs
+静脉移植后 6 周,胰腺组织偶见 MAB1281 即人细胞核
+抗原阳性细胞,但未见 MAB1281 /胰岛素双阳性细胞。
+五、 T 淋巴细胞亚群的变化
+与正常组比较,模型组、培养基组外周血 Th1
+(CD4+ IFN-γ+)和 Th17(CD4+ IL-17+)细胞亚群百分比
+明显升高(P <0. 05 或 P <0. 01),Foxp3+ Treg ( CD4+
+Foxp3+)和 Th2 (CD4+ IL-4+ )细胞亚群明显下降(P <
+0. 05 或 P <0. 01),Th1 / Th2 和 Th17 / Treg 比值升高
+(P<0. 01 或 P<0. 05);hAMSCs 移植后 6 周,与模型
+组、培养基组相比, Th1 和 Th17 明显下降 (均 P <
+0. 05), 而 Th2 和 Foxp3+Treg 显著上调(P<0. 05 或 P<
+注:(A) 正常对照组 Normal control group;(B) 模型组 Model group;(C) 培养基组 Medium group;(D) hAMCSs 组 Human amniotic mesenchymal stem
+cells group;(E) 胰岛素组 Insulin group
+图 4  1 型糖尿病大鼠模型胰岛病理变化(HE×400)
+Fig 4  Pathological change of islets from rat model with type 1 diabetes mellitus(HE×400)
+表 1  各组外周血 T 淋巴细胞亚群的百分率(x-± s, n=6)
+Tab 1  Percentages of T lymphocyte subsets in peripheral blood in different groups(x-± s, n=6)
+组别
+Group
+T 淋巴细胞亚群
+T lymphocyte subsets
+(% )
+Th1 Th2 Th17 Treg
+Th1 / Th2 Th17 / Treg
+NC 0. 17 ± 0. 09 18. 31 ± 11. 14 0. 51 ± 0. 57 25. 89 ± 9. 82 0. 01 ± 0. 01 0. 02 ± 0. 02
+Mod 1. 50 ± 0. 71a 1. 60 ± 1. 15a 5. 72 ± 2. 30b 1. 77 ± 1. 16b 1. 05 ± 0. 37b 3. 87 ± 1. 98a
+Med 1. 22 ± 1. 06a 1. 97 ± 1. 40a 6. 79 ± 4. 34a 4. 49 ± 2. 39b 0. 49 ± 0. 33a 1. 86 ± 1. 18a
+hAMSCs 0. 53 ± 0. 28ce 5. 77 ± 2. 09de 3. 85 ± 1. 94ce 30. 31 ± 12. 59df 0. 12 ± 0. 06de 0. 11 ± 0. 08ce
+INS 0. 97 ± 0. 60 1. 71 ± 0. 64h 3. 24 ± 2. 30 7. 17 ± 2. 02ch 0. 59 ± 0. 25g 0. 49 ± 0. 35g
+注:略语同图 2 The abbreviation are the same as Fig 2; 与 NC 比较 vs NC group,aP<0. 05, bP<0. 01;与 Mod 组比较 vs Mod group, cP<0. 05, dP<0. 01;
+与 Med 组比较 vs Med group,eP<0. 05, fP<0. 01;与 hAMSCs 组比较 vs hAMSCs group,gP<0. 05, hP<0. 01
+表 2  各组血浆细胞因子浓度(x-± s, pg / ml,n=6)
+Tab 2  Concentration of plasma cytokines in different groups(x-± s, pg / ml,n=6)
+组别
+Group
+Th1 型细胞因子
+Th1 type cytokines
+Th2 型细胞因子
+Th2 type cytokines
+IFN-γ TNF-α IL-2 IL-4 IL-10
+NC 3. 83 ± 0. 78 4. 07 ± 2. 27 17. 47 ± 3. 15 4. 27 ± 2. 14 56. 32 ± 13. 07
+Mod 9. 30 ± 2. 93b 16. 60 ± 4. 70b 50. 90 ± 25. 68b 7. 80 ± 3. 85a 760. 67 ± 490. 07a
+Med 8. 93 ± 1. 94a 19. 43 ± 5. 14b 62. 80 ± 28. 92a 4. 90 ± 1. 80 812. 47 ± 572. 45a
+hAMSCs 3. 63 ± 0. 92de 4. 20 ± 1. 57df 23. 07 ± 3. 35df 37. 23 ± 14. 63cf 581. 63 ± 304. 35
+INS 8. 30 ± 2. 70g 15. 67 ± 7. 75g 54. 33 ± 25. 06g 8. 30 ± 3. 88h 479. 93 ± 152. 87
+注:IFN-γ: 干扰素-γ Interferon-γ; TNF-α: 肿瘤坏死因子-α Tumor necrosis factor-α; IL: 白细胞介素 Interleukin; 余略语同图 2 The other abbreviations
+are the same as Fig 2; 与 NC 组比较 vs NC group, aP<0. 05, bP<0. 01; 与 Mod 组比较 vsMod group, cP<0. 05, dP<0. 01; 与 Med 组比较 vsMed group, eP<
+0. 05, fP<0. 01; 与 hAMSCs 组比较 vs hAMSCs group, gP<0. 05, hP<0. 01
+0. 01),Th1 / Th2 比值和 Th17 / Treg 比值下降(P<0. 05
+或 P<0. 01);胰岛素治疗组与模型组相比,Foxp3+Treg
+上调(P<0. 05),其余无明显变化(P>0. 05,表 1)。
+六、 血浆 Th1、Th2 型细胞因子水平的变化
+模型组、培养基组血浆 Th1 型细胞因子 IFN-γ、
+TNF-α 和 IL-2 水平明显高于正常组(P<0. 05 或 P<
+0. 01),Th2 型细胞因子 IL-4 浓度无明显变化 (P >
+0. 05);与模型组相比,hAMSCs 移植组 Th1 型细胞因
+子明显下调(均 P<0. 01),IL-4 明显上调(P<0. 05),
+IL-10 无明显变化(P>0. 05);胰岛素治疗组细胞因子
+浓度与模型组比较无明显改变(均 P>0. 05,表 2)。
+讨    论
+本研究通过贴壁培养纯化后的第 3 代 hAMSCs 高
+表达 CD44、 CD73、 CD90 和 CD105, 不表达 CD14、
+CD19、CD34、CD45 和 HLA-DR,符合国际细胞治疗协
+会(International Society for Cellular Therapy,ISCT)关于
+MSCs 表型的界定[8]。 此外,hAMSCs 不表达共刺激分
+子 CD80 (B7-1)和 CD86(B7-2)。 另外,免疫组化染色
+显示间充质标志波形蛋白阳性,上皮标志 CK19 阴性,
+说明所分离的 hAMSCs 无上皮细胞污染。
+近年来的研究表明,同种异基因骨髓 MSCs 移植
+能逆转 1 型糖尿病小鼠的高血糖状态,抑制 T 淋巴细
+胞增殖,上调 Treg 细胞水平,恢复 Th1 和 Th2 之间的
+免疫应答平衡,减轻胰岛的炎症反应[9-11]。 本研究结
+果显示,hAMSCs 移植后 1 型糖尿病大鼠高血糖水平
+明显下降,血浆胰岛素浓度显著增加,胰岛炎症反应和
+病理损害明显减轻。 说明即便是异种间移植 hAMSCs
+也能通过减轻胰岛的损害而对 1 型糖尿病发挥治疗作
+用。 从 MAB1281 /胰岛素免疫荧光双染色结果看,移
+植后 6 周胰腺组织中可见少量 hAMSCs,但未发现移
+植的 hAMSCs 分化为胰岛素分泌细胞的证据。 显然,
+hAMSCs 对 1 型糖尿病大鼠发挥的上述疗效是通过抑
+制胰岛炎症反应实现的,而与其向胰岛细胞分化没有
+关联。 高血糖不仅是刺激胰岛素分泌的重要因素,也
+可诱导 MSCs 向 IPCs 分化。 Horie 等[12]报道糖尿病小
+鼠的多种胰腺外组织能检测到分泌胰岛素的细胞。 通
+过静脉注射的 hAMSCs 通常会滞留在肺、肝脏等组织
+器官,至于在高血糖刺激下 hAMSCs 能否在胰腺外组
+织向 IPCs 分化,值得进一步研究。
+1 型糖尿病胰岛的免疫病理损伤主要归因于胰岛
+β 细胞失去免疫耐受,细胞毒性 T 细胞(CD4+CD8+)过
+度活化及 Treg 细胞减少和功能下降[13,14]。 FoxP3+
+Treg 具有抑制自身反应性 T 细胞增殖的功能,在调节
+机体对外源性抗原免疫反应强度中起重要作用,其数
+量减少和功能失调与自身免疫性疾病、感染性疾病、移
+植排斥的发生发展密切相关[12]。 通过调节 FoxP3+
+Treg 细胞的数量和功能,能抑制 CD4+ CD8+ T 细胞活
+化,纠正 Th1 / Th2 细胞比例失衡,抑制 Th1 型细胞因
+子分泌,促进 Th2 型细胞因子 IL-4 分泌,从而诱导免
+疫耐受,阻止胰岛细胞免疫损伤[15,16]。 关于 MSCs 治
+疗 1 型糖尿病的机制仍不明了。 大多认为 MSCs 对 β
+细胞的免疫保护作用与其分泌多种免疫抑制因子,抑
+制 T 细胞活化、增殖,诱导 Treg 细胞生成有关[17-19]。
+本研究发现,hAMSCs 移植后 1 型糖尿病大鼠外周血
+FoxP3+Treg 细胞显著上调,Th1 细胞减少,Th2 细胞增
+多,Th1 / Th2 平衡趋于恢复;血浆 Th1 型细胞因子
+IFN-γ、TNF-α 和 IL-2 降至正常水平,Th2 型细胞因子
+IL-4 明显升高。 推测抑制 Th1 细胞和诱导 FoxP3+Treg
+细胞生成是 hAMSCs 对 1 型糖尿病胰岛 β 细胞免疫保
+护的重要机制。 关于 hAMSCs 调节 FoxP3+Treg 的机制
+还不清楚。 TGF-β 是诱导 Treg 细胞生成,下调免疫应
+答,抑制 Th1 细胞活化非常重要的细胞因子[20,21]。
+hAMSCs 上调 Treg 的作用是否与其分泌 TGF-β 有关,
+值得进一步研究。
+Th17 细胞是一类重要的介导炎症反应的细胞,通
+过分泌 IL-17 参 与 各 种 自 身 免 疫 疾 病 的 发 病 过
+程[22,23]。 实验发现,1 型糖尿病大鼠除 Treg 细胞显著
+减少外,Th17(CD4+ IL-17+)细胞明显升高,Th17 / Treg
+比例严重失衡,这可能是导致胰岛细胞免疫损伤的重
+要原 因。 hAMSCs 移 植 后, Th17 细 胞 明 显 下 降,
+Th17 / Treg 比例失衡得以纠正,从而增强了胰岛的免
+疫耐受。 这可能是 hAMSCs 调节 1 型糖尿病大鼠免疫
+功能的另一个重要方面。 Th1、Th17 和 Treg 细胞分化
+存在复杂而微妙的相互间作用,涉及多种细胞因子和
+T-bet、STAT、TGF-β 等信号途径,深入探讨 hAMSCs 的
+免疫效应分子及其对上述免疫效应细胞的调控机制,
+对其用于 1 型糖尿病临床免疫治疗具有重要意义。
+细胞治疗的生物学效应很大程度取决于供体细胞
+在受者体内的密度和定植时间。 本研究仅观察了 6
+周,尚不能得出 hAMSCs 移植对 1 型糖尿病大鼠模型
+的疗效持续时间,进一步监测各项指标的动态变化,以
+明确 hAMSCs 对 1 型糖尿病疗效的维持时间很有必
+要。 此外,深入探讨 hAMSCs 移植密度、体内定植时间
+与 1 型糖尿病疗效之间的关系,对其临床应用很有意
+义。

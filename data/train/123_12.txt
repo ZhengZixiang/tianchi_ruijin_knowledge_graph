@@ -1,0 +1,279 @@
+临床研究
+基金项目:国家自然科学基金(81270931);国家自然基金青年项目
+(81100634);卫生行业科研专项项目(201202008);上海市科委科研计
+划项目(10dz1920802)
+病科,上海市内分泌代谢病临床医学中心,上海市内分泌代谢病研究所
+低浓度性激素结合球蛋白与代谢综合征的
+发生相关
+缪琳  石娟  洪洁  张翼飞  顾卫琼  李丽娟  王柏凯  王睿  张娟娟  王计秋  李小英
+王卫庆  宁光
+[摘要]   目的  在中国青年人群中,探讨性激素结合球蛋白(SHBG)与代谢综合征(MS)发生之间的
+相关性。 方法  共纳入 797 例受试者,按照 ATP3标准,将研究人群划分为 MS 组和非 MS 组。 采用化学发
+光分析法检测 SHBG 水平,同时检测空腹血糖(FPG)、空腹胰岛素、肝肾功能及血脂各项指标,计算体重指
+数和腰臀比,并以稳态模型计算胰岛素抵抗指数(HOMA-IR)。 结果  非 MS 组的血清 SHBG 水平显著高
+于 MS 组[(34. 97 ± 33. 97 对 19. 54 ± 15. 54)nmol / L, P<0. 001]。 在总人群中,校正年龄,性别,体重指数及
+腰臀比之后,SHBG 与舒张压、空腹血糖、空腹胰岛素、HOMA-IR、甘油三酯呈负相关(均 P<0. 05),SHBG 与
+高密度脂蛋白胆固醇(HDL-C)呈显著正相关(P<0. 001)。 Logistic 回归分析发现,校正年龄,性别,体重指
+数,腰臀比及 HOMA-IR 之后,SHBG 与 MS 的发生风险呈显著负相关(OR = 0. 978, 95% CI 0. 967 ~ 0. 989,
+P<0. 001);进一步将受试者按照 SHBG 三分位进行分组,从低到高分为 3 组:Ter1,Ter2 和 Ter3。 Ter1 组发
+生 MS 的风险是 Ter3 组的 2. 960 倍(95% CI 1. 812 ~ 4. 835,P<0. 001)。 结论 在中国青年人群中,较低浓
+度的血清 SHBG 与 MS 的发生相关。
+[关键词]   中国青年人群; 性激素结合球蛋白; 代谢综合征
+Low level of serum sex hormone binding globulin is associated with the occurrence of metabolic syndrome
+MIAO Lin, SHI Juan, HONG Jie, ZHANG Yi-fei, GU Wei-qiong, LI Li-juan, WANG Bo-kai, WANG Rui, ZHANG
+Juan-juan, WANG Ji-qiu, LI Xiao-ying, WANG Wei-qing, NING Guang. Department of Endocrine and Metabolic
+Diseases, Shanghai Clinical Center for Endocrine and Metabolic Diseases, Shanghai Institute of Endocrinology and
+Metabolic Diseases, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai 200025, China
+[Abstract]  Objective  To investigate the relationship between serum sex hormone binding globulin(SHBG)
+and metabolic syndrome (MS) in Chinese young population. Methods A total of 797 patients were enrolled and
+subdivided into MS group(n=377)and non-MS group(n=420). Body height and weight were measured for body mass
+index(BMI), and waist and hip circumstances for waist-to-hip ratio(WHR). Glutamate aminotransferase, aspartate
+aminotransferase, serum lipid level, fasting glucose and fasting insulin were determined. The level of serum SHBG was
+measured by chemiluminescent microparticle immunoassay. HOMA-IR was employed to evaluate the insulin
+sensitivity. Results The serum SHBG level of non-MS group was significantly higher than that in MS group[(34. 97
+±33. 97 vs 19. 54±15. 54)nmol / L, P<0. 001]. After adjusted for age, sex, BMI, and WHR, serum SHBG level was
+negatively associated with diastolic blood pressure, fasting plasma glucose, fasting insulin, homeostasis model
+assessment for insulin resistance ( HOMA-IR), and triglycerides ( P < 0. 05), but it was significantly positively
+associated with HDL-C (P < 0. 001). After adjusted for age, sex, BMI, WHR, and HOMA-IR, binary logistic
+regression analysis showed that serum SHBG level was negatively associated with metabolic syndrome. Conclusions
+In Chinese young population, low level of serum SHBG is associated with the occurrence of metabolic syndrome.
+[Key words]  Chinese young population; Sex hormone binding globulin; Metabolic syndrome
+(Chin J Endocrinol Metab, 2013, 29: 494-497)
+代谢综合征(metabolic syndrome, MS)是集中心性 肥胖、胰岛素抵抗、高血压、高甘油三酯血症、糖耐量异
+常等多种代谢紊乱的一个症候群。 代谢综合征的存在
+可明显增加心血管疾病与 2 型糖尿病发生的危险
+性[1]。 性 激 素 结 合 球 蛋 白 ( sex hormone binding
+globulin, SHBG)是肝脏产生的糖蛋白,可特异性结合
+并转运性激素,调控血液中具有生物活性的性激素的
+浓度,影响其生物利用度。 国外众多研究发现,SHBG
+与胰岛素抵抗、糖尿病以及代谢综合征有显著相关
+性[2,3]。 但目前国内关于 SHBG 与 MS 相关性的人群
+研究较少,本研究目的是在中国青年人群中探讨
+SHBG 与 MS 的相关性,为诊断和治疗 MS 提供新的思
+路。
+对象和方法
+一、 对象
+研究对象来自于在 2006 年 6 月至 2012 年 10 月
+之间在上海市瑞金医院门诊、住院部就诊及体检的人
+群,均为汉族人。 共有 797 例患者入组,所有患者均未
+经任何治疗(包括生活方式干预、降糖、降压、降脂等
+药物治疗)。 年龄 15 ~ 40 岁,其中 MS 组 377 例,非
+MS 组 420 例。 所有患者均排除 1 型糖尿病,继发性糖
+尿病,继发性肥胖以及甲状腺和性腺相关疾病。 所有
+研究对象均知情同意,研究计划通过上海交通大学医
+学院伦理委员会审核。
+二、 方法
+1. 人体测量学:包括身高、体重、腰围、臀围、血
+压、全身脂肪含量。 每位受试者静坐休息 5 min 后测
+量 3 次坐位血压(测量前半小时内避免吸烟、饮用含
+有咖啡因的饮料及剧烈运动)。 测量 2 次体重和身
+高,测量身高、体重时着单衣并脱鞋。 腰围为立位两脚
+分开与肩同宽,平静呼吸肋弓下缘与髂前上嵴连线中
+点水平的周长,臀围为臀部的最大周长。 计算体重指
+数,即体重(kg) /身高2(m2),腰臀比=腰围(cm) /臀围
+(cm)。
+2. 生化指标检测:所有受试者(女性受试者于月
+经周期第 3 ~ 5 天)于试验前晚禁食 8 ~ 12 h,试验当天
+早晨 6 : 00 ~ 7 : 00 空腹抽静脉血测血糖、胰岛素、肝
+功能、血脂、肾功能和性激素结合球蛋白。 血糖检测采
+用葡萄糖氧化酶法,血脂检测应用酶法测定。 胰岛素
+及性激素结合球蛋白检测采用化学发光分析法。 计算
+稳态模型评估的胰岛素抵抗指(HOMA-IR),即空腹血
+糖×空腹胰岛素 / 22. 5。
+3. MS 诊断标准:参考 ATPIII 标准,以下 5 项指标
+中出现 3 项或 3 项以上既可诊断为 MS:(1)中心性肥
+胖(男性腰围≥102 cm,女性腰围≥88 cm);(2)甘油
+三酯水平升高:≥1. 7 mmol / L,或已接受相应治疗;
+(3)高密度脂蛋白胆固醇(HDL-C)水平降低:男性<
+1. 03 mmol / L,女性<1. 29 mmol / L,或已接受相应治疗;
+(4)血压升高:收缩压≥130 mm Hg(1 mm Hg = 0. 133
+kPa)或舒张压≥85 mm Hg,或已接受相应治疗或此前
+已诊断高血压;(5)空腹血糖升高:空腹血糖≥5. 6
+mmol / L,或此前已诊断 2 型糖尿病或已接受相应治
+疗。
+三、 统计学分析
+所有数据统计分析均运用软件 SPSS 17. 0。 数据
+均采用 x-± s 表示,连续性变量运用独立样本 t 检验进
+行组间比较。 分类变量采用 字2 检验进行组间比较。
+运用 Pearson 简单相关、一般线性回归以及二元 logistic
+回归进行相关性分析。 非正态数据经自然对数转换
+后,进行上述分析,P<0. 05 为差异有统计学意义。
+结    果
+一、 一般临床和实验室资料比较
+参考 ATP3标准,将研究人群划分为 MS 组和非
+MS 组。 两组之间年龄[(22. 6 ± 4. 2 对 23. 2 ± 5. 4)岁,
+P=0. 066]和性别分布(P = 0. 202)没有差异。 MS 组
+的体重指数、腰臀比、体脂、收缩压、舒张压、空腹血糖、
+空腹胰岛素、 稳态模型评估的胰岛素抵抗指数
+(HOMA-IR)、HBA1C、丙氨酸转氨酶、天冬氨酸转氨酶、
+甘油三酯显著高于非 MS 组(P<0. 001)。 而非 MS 组
+的 HDL-C[(1. 31 ±0. 31 对 1 . 02 ± 0. 30)mmol / L, P<
+表 1  MS 组与非 MS 组临床和实验室资料的比较
+Tab 1  Clinical characteristics and laboratory findings in non-MS and MS group
+组别
+Group
+例数
+(男 / 女)
+n
+(Male / Female)
+年龄
+(岁)
+Age
+(year)
+体重指数
+Body mass index
+(kg / m2)
+腰臀比
+Waist-to-hip ratio
+体脂
+Body fat
+(% )
+收缩压
+Systolic blood
+pressure
+(mm Hg)
+舒张压
+Diastolic blood
+pressure
+(mm Hg)
+空腹血糖
+Fasting plasma
+glucose
+(mmol / L)
+Non-MS 420(258 / 162) 22. 6 ± 4. 2 29. 46 ± 7. 44 0. 89 ± 0. 09 36. 40 ±11. 22   117 ± 15   74 ± 9 4. 90 ± 0. 69
+MS 377(248 / 129) 23. 2 ± 5. 4 35. 96 ± 5. 16a 0. 95 ± 0. 08a 42. 64 ± 8. 73a   129 ± 15a   84 ± 11a 5. 75 ± 1. 74a
+组别
+Group
+例数
+(男 / 女)
+n
+(Male / Female)
+空腹胰岛素
+Fasting insulin
+(mU / L)
+HOMA-IR HBA1C(% )
+丙氨酸转氨酶
+Alanine
+transaminase
+(IU / L)
+天冬氨酸转氨酶
+Aspartate
+aminotransferase
+(IU / L)
+甘油三酯
+Triglycerides
+(mmol / L)
+HDL-C
+(mmol / L)
+SHBG
+(nmol / L)
+Non-MS 420(258 / 162) 15. 69 ± 11. 94 3. 50 ± 2. 83 5. 49 ± 0. 77 38. 32 ± 38. 57 27. 07 ± 17. 36 1. 06 ± 0. 43 1. 31 ± 0. 31 34. 97 ± 33. 97
+MS 377(248 / 129) 26. 15 ± 14. 63a 6. 69 ± 4. 21a 6. 14 ± 1. 35a 62. 39 ± 63. 55a 38. 58 ± 33. 34a 2. 25 ± 1. 86a 1. 02 ± 0. 30a 19. 54 ± 15. 54a
+注:MS:代谢综合征 Metabolic syndrome;non-MS:非 MS;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment-insulin resistance;
+HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;SHBG:性激素结合球蛋白 Sex hormone binding globulin;vs Non-MS, aP<0. 01
+0. 001]和 SHBG[(34. 97 ± 33. 97 对 19. 54 ± 15. 54)
+nmol / L, P<0. 001]显著高于 MS 组(表 1)。
+二、 SHBG 与代谢综合征各组分的相关性分析
+运用 Pearson 简单相关发现,SHBG 与体重指数、
+腰臀比、收缩压、舒张压、空腹血糖、空腹胰岛素、
+HOMA-IR、甘油三酯呈显著负相关( r 分别为-0. 416、
+-0. 377、-0. 215、-0. 202、-0. 104、-0. 288、-0. 271 和
+-0. 122,均 P<0. 001),而 SHBG 与年龄、性别、HDL-C
+呈显著正相关( r 分别为 0. 233、0. 204 和 0. 424,均 P<
+0. 001)。 在校正年龄、性别、体重指数和腰臀比之后,
+SHBG 仍然与舒张压、空腹血糖、空腹胰岛素、HOMA-
+IR 和甘油三酯呈显著负相关 ( β 分别为 - 0. 075、
+-0. 084、-0. 124、 - 0. 126 和 - 0. 066,均 P < 0. 05),
+SHBG 与 HDL-C 呈显著正相关(β=0. 229, P<0. 001)。
+三、 人群分布特点
+将人 群 按 照 SHBG 三 分 位 数 ( ~ 33. 33% 、
+~66. 67%和> 66. 67% ) 进行分组,从低到高分为 3
+组:Ter1,Ter2 和 Ter3。 随着 SHBG 水平的上升,MS 的
+患病率在各组分别为 63. 8% (169 / 96)、52. 6% (140 /
+126)、25. 6% (68 / 198, P<0. 001, 图 1)。
+注:MS:代谢综合征 Metabolic syndrome;non-MS:非 MS;SHBG:性激
+素结合球蛋白 Sex hormone binding globulin
+图 1  根据性激素结合球蛋白划分 Ter1,Ter2 和 Ter3 各组中代谢综合
+征患病率
+Fig 1 Prevalence of metabolic syndrome among the study population by the
+tertiles of sex hormone binding globulin
+四、 Logistic 回归分析
+将是否为 MS 作为因变量,SHBG 作为自变量进行
+二元 logistic 回归分析。 在总人群中,将 SHBG 按照三
+分位进行分组,从低到高分为 3 组:Ter1,Ter2 和 Ter3。
+将 SHBG 的最高分位 Ter3 作为参照,Ter1 和 Ter2 的
+OR(95% CI)分别为 2. 960 (1. 812, 4. 835)和 1. 746
+(1. 102, 2. 765, 均 P<0. 001)。 在男性人群中,SHBG
+与 MS 的发生显著相关[OR(95% CI)0. 896 (0. 853,
+0. 942),P<0. 001];在女性人群中,SHBG 与 MS 的发
+生仍然显著相关[OR(95% CI)0. 984(0. 974, 0. 994),
+P=0. 002]。
+讨    论
+本研究探讨了中国青年人群中血清 SHBG 与 MS
+之间的相关性。 本研究发现,MS 患者的血清 SHBG 水
+平显著低于非 MS 患者。 在校正年龄、性别、体重指数
+和腰臀比之后,SHBG 与 MS 的各组分之间存在显著相
+关性。 运用 logistic 回归分析,校正年龄、性别、体重指
+数、腰臀比和 HOMA-IR 之后,发现低浓度的血清
+SHBG 与 MS 的发生显著相关。
+性激素结合球蛋白是一种主要由肝脏生成,也可
+以在大脑、子宫、睾丸及胎盘中少量生成的糖蛋白,可
+特异性地与性激素结合并参与其转运,调控血液中具
+有生物活性的性激素的浓度。 曾有遗传学研究运用孟
+德尔随机化的方法证明了,在男性和女性中,血清
+SHBG 的水平与 2 型糖尿病的发病机制直接相关[3]。
+亦有文献报道,高水平 SHBG 可通过调节空腹血糖阻
+止 2 型糖尿病的发生、发展[4]。 Derby 等[5] 认为,腹型
+肥胖者血睾酮、SHBG 水平较低,总睾酮和 SHBG 水平
+与内脏脂肪呈负相关。 针对肥胖青少年进行减肥治疗
+后,研究者观察到受试者的胰岛素敏感性和血清
+SHBG 水平显著上升[6]。 MS 是多种代谢紊乱的一个
+症候群,已有众多研究证实了血清 SHBG 水平与糖代
+谢、肥胖之间的相关性,因此,SHBG 与 MS 的相关性备
+受关注。 有研究证实,低水平的 SHBG 与总睾酮可以
+预测代谢综合征和糖尿病在男性人群中的发展[7]。
+另有一些研究发现,只有 SHBG 才是 MS 的独立危险
+因素,研究者并未发现睾酮与 MS 的相关性[8]。 本研
+究呈现了在中国青年人群中血清 SHBG 水平与 MS 及
+其各个组分之间的显著相关性,这与 de Oya 等[9]在欧
+洲人群中的发现一致。 将 SHBG 按照三分位进行分
+组,从低到高分为 3 组:Ter1,Ter2 和 Ter3,Ter1 组发生
+MS 的风险是 Ter3 组的 2. 96 倍,这与国外的 meta 分
+析的结果相呼应[10]。 由于男女性激素水平存在很大
+差异,所以本研究将男性和女性分开进行分析,发现无
+论是在男性或者女性中 SHBG 与 MS 都呈显著负相
+关。
+胰岛素抵抗是代谢综合征的一个重要特征,他与
+代谢综合征的各个组分之间都存在显著的相关性[11]。
+体外细胞水平研究发现,胰岛素可以抑制肝脏细胞产
+生 SHBG[12]。 有研究者连续 1 周给肥胖和正常体重的
+男性服用抑制胰岛素释放的药物氯甲苯噻嗪后,发现
+血清 SHBG 水平显著上升[13]。 因此,胰岛素抵抗可能
+介导了 SHBG 与 MS 之间的联系。 本研究中,在分析
+SHBG 与 MS 相关性时,将年龄、性别、体重指数、腰臀
+比和 HOMA-IR 校正之后,发现 SHBG 与 MS 之间仍然
+存在显著的负相关性。 因此,也许存在另外的通路介
+导了 SHBG 与 MS 之间的联系。 人类 SHBG 基因启动
+子上有肝细胞核因子 4α(HNF-4α)的结合位点,HNF-
+4α 与之结合后可促进其转录活性,HNF-4α 水平下降
+会导致 SHBG 转录活性的抑制[14]。 体外细胞学研究
+发现,果糖和葡萄糖都可以通过降低 HNF-4α 的浓度
+来抑制 SHBG 的合成[15]。 动物研究发现,给予一组转
+基因小鼠高果糖饮食 3 天之后,血清 SHBG 水平下降
+约 80% ,而分别给另外两组转基因小鼠喂食能产生同
+等热量的高蔗糖和高葡萄糖饮食 3 天之后,血清
+SHBG 水平分别下降 50% 和 40% [16]。 亦有人群研究
+显示,果糖的摄入量与血清 SHBG 的水平呈显著负相
+关[17]。 然而果糖的摄入并不会引起胰岛素大量的释
+放[18]。 这就解释了本研究中在校正胰岛素抵抗状态
+之后,SHBG 与 MS 之间仍然存在显著相关性。
+本研究存在一定的不足:(1)研究人群年龄在 16
+岁至 40 岁之间,研究结果尚不能适用于所有年龄段的
+人群;(2)本研究为横断面观察性研究,可能不能有效
+论断血清 SHBG 水平与 MS 的因果联系,因此仍需要
+更大样本量的前瞻性研究来弥补本研究的不足之处。
+本研究结果显示,在中国青年人群中,低浓度的血
+清 SHBG 与 MS 的发生有显著相关性。 此研究结果与
+国外关于 SHBG 与 MS 相关性的研究结果相一致。 我
+们仍需要加强 SHBG 与 MS 之间相互作用的机制研
+究,为诊断和治疗 MS 提供新的思路。

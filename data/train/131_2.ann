@@ -1,0 +1,237 @@
+T1	Disease 741 746	性发育异常
+T2	Disease 780 785	性发育异常
+T3	Disease 803 808	性发育异常
+T4	Disease 924 929	性发育异常
+T5	Disease 931 945	低促性腺激素性性腺机能减退症
+T6	Disease 947 957	先天性肾上腺皮质增生
+T7	Disease 959 969	Turner 综合征
+T8	Disease 971 974	性早熟
+T9	Disease 1722 1727	性发育异常
+T10	Disease 1847 1852	性发育异常
+T11	Disease 1947 1950	性早熟
+T12	Disease 1957 1963	中枢性性早熟
+T13	Disease 2006 2012	中枢性性早熟
+T14	Disease 2056 2062	中枢性性早熟
+T15	Test 2075 2078;2079 2082	全基因 组扫描
+T16	Anatomy 2123 2131	MKRN3 基因
+T17	Disease 2173 2189	Prader-Willi 综合征
+T18	Anatomy 2206 2212	环指蛋白 3
+T19	Anatomy 2392 2395	弓状核
+T20	Anatomy 2397 2402	Mkrn3
+T21	Disease 2473 2479	中枢性性早熟
+T22	Disease 2493 2507	低促性腺激素性性腺机能减退症
+T23	Disease 2508 2510	HH
+T24	Disease 2516 2528	Kallmann 综合征
+T25	Disease 2529 2531	KS
+T26	Disease 2641 2643	KS
+T27	Disease 2670 2672	KS
+T28	Anatomy 2681 2685	KAL1
+T29	Anatomy 2686 2690	NELF
+T30	Anatomy 2691 2695	CHD7
+T31	Anatomy 2697 2703	HS6ST1
+T32	Disease 2760 2762	KS
+T33	Disease 3044 3047	IHH
+T34	Disease 3098 3101	IHH
+T35	Disease 3127 3130	IHH
+T36	Anatomy 3151 3153	垂体
+T37	Disease 3171 3173;3174 3179	孤立 性 IHH
+T38	Drug 3188 3192	GnRH
+T39	Anatomy 3218 3222	CHD7
+T40	Anatomy 3224 3229	FGFR1
+T41	Anatomy 3231 3235	KAL1
+T42	Anatomy 3244 3249	TACR3
+T43	Anatomy 3276 3281	GNRHR
+T44	Anatomy 3282 3288	PROKR2
+T45	Anatomy 3291 3296	FGFR1
+T46	Drug 3317 3321	GnRH
+T47	Disease 3359 3369	21α-羟化酶缺乏症
+T48	Disease 3370 3380	21α-羟化酶缺乏症
+T49	Disease 3381 3383;3384 3393	先天 性肾上腺皮质增生症
+T50	Disease 3481 3487;3488 3492	21α-羟化 酶缺乏症
+T51	Disease 3523 3533	21α-羟化酶缺乏症
+T52	Drug 3555 3560	糖皮质激素
+T53	Drug 3633 3638	氢化可的松
+T54	Disease 3655 3657	肥胖
+T55	Disease 3729 3732	CAH
+T56	Disease 3804 3806	HH
+T57	Disease 3810 3816	家族性 KS
+T58	Disease 3817 3823	家族性 KS
+T59	Disease 3842 3844	KS
+T60	Anatomy 3886 3890	CHD7
+T61	Disease 3897 3899	KS
+T62	Disease 3902 3906	nIHH
+T63	Anatomy 3953 3958	KAL-1
+T64	Disease 4047 4049	KS
+T65	Disease 4052 4056	nIHH
+T66	Disease 4228 4231	IHH
+T67	Drug 4295 4299	GnRH
+T68	Treatment 4303 4308	促排卵治疗
+T69	Drug 4322 4326	GnRH
+T70	Disease 4331 4334	IHH
+T71	Drug 4338 4342	GnRH
+T72	Disease 4348 4351	IHH
+T73	Drug 4415 4419	GnRH
+T74	Method 4420 4427;4428 4429	皮下持续脉冲输 注
+T75	Disease 4432 4435	IHH
+T76	Disease 4484 4487	IHH
+T77	Test 4599 4601	睾酮
+T78	Disease 4641 4644	IHH
+T79	Drug 4649 4653	GnRH
+T80	Disease 4694 4697	IHH
+T81	Disease 4743 4753	Turner 综合征
+T82	Disease 4754 4756	TS
+T83	Disease 4758 4760	TS
+T84	Disease 4765 4770;4771 4773	自身免疫性 疾病
+T85	Disease 4805 4815	Turner 综合征
+T86	Disease 4819 4821	甲亢
+T87	Disease 4837 4839	TS
+T88	Disease 4844 4846	甲减
+T89	Disease 4847 4849	甲亢
+T90	Disease 4855 4857	TS
+T91	Disease 4861 4863	甲亢
+T92	Disease 4867 4870	桥本病
+T93	Disease 4883 4891	Graves 病
+T94	Test 4902 4907	甲状腺功能
+T95	Test 4908 4911;4912 4913	自身抗 体
+T96	Disease 4919 4921	TS
+T97	Disease 4927 4932	甲状腺疾病
+T98	Disease 4959 4964;4965 4968	Swyer 综合征
+T99	Disease 4972 4981	46,XY 性反转
+T100	Disease 5035 5044	Swyer 综合征
+T101	Symptom 5091 5096	原发性闭经
+T102	Symptom 5105 5112	幼稚或始基子宫
+T103	Disease 5162 5171	Swyer 综合征
+T104	Disease 5202 5211	Swyer 综合征
+T105	Disease 5223 5228	性发育异常
+T106	Disease 5243 5248	性发育异常
+T107	Disease 5371 5376	性分化疾病
+T108	Disease 5400 5402;5403 5406	性发 育异常
+T109	Disease 5433 5438	性发育异常
+T110	Disease 870 875	性发育异常
+T111	Disease 1730 1735	性分化疾病
+T112	Disease 1773 1778	性发育异常
+T113	Disease 1824 1829	性发育异常
+T114	Disease 1930 1935	性发育异常
+T115	Anatomy 2025 2029	常染色体
+T116	Anatomy 2140 2144	印记基因
+T117	Anatomy 2148 2155	15 号染色体
+T118	Anatomy 2222 2227	锌指结构域
+T119	Anatomy 2267 2278	Cys-His 识别域
+T120	Anatomy 2281 2290	C3HC4 环锌指
+T121	Anatomy 2297 2304	C3H 结构域
+T122	Anatomy 2306 2315	C3H 锌指结构域
+T123	Anatomy 2319 2324;2325 2326	RNA 结 合
+T124	Anatomy 2327 2333	环锌指结构域
+T125	Anatomy 2339 2347	E3 泛素连接酶
+T126	Anatomy 2353 2358	泛素连接酶
+T127	Anatomy 2374 2376;2377 2378	弓状 核
+T128	Test 2405 2409	mRNA
+T129	Disease 2533 2535	KS
+T130	Anatomy 2746 2750	RSVs
+T131	Anatomy 2771 2774	RSV
+T132	Disease 2796 2799;2800 2801	发育异 常
+T133	Disease 3787 3792	性发育异常
+T134	Disease 3987 3993	家族性 KS
+T135	Anatomy 4257 4258;4259 4262	第 二性征
+T136	Disease 4443 4448	性发育异常
+T137	Anatomy 5072 5074;5075 5076	染色 体
+T138	Anatomy 5124 5129;5130 5131	SRY 基 因
+T139	Disease 5264 5269	性发育异常
+T140	Disease 5362 5367	性发育异常
+T141	Disease 5457 5462	性发育异常
+T142	Disease 5560 5565	性发育异常
+T143	Anatomy 5631 5633	性腺
+T144	Disease 5666 5667;5668 5672	性 发育异常
+T145	Operation 5745 5749	外科整形
+T146	Disease 5837 5842	性发育异常
+T147	Disease 365 368	糖尿病
+T148	Disease 330 332;333 340	原发 性醛固酮增多症
+T149	Disease 381 384	糖尿病
+T150	Disease 400 403	糖尿病
+T151	Disease 428 431	糖尿病
+T152	Disease 445 448	糖尿病
+T153	Disease 508 511	糖尿病
+T154	Disease 518 521	糖尿病
+T155	Disease 496 499	糖尿病
+T156	Disease 656 662	内分泌代谢病
+T157	Disease 628 634	内分泌代谢病
+T158	Disease 723 729	内分泌代谢病
+T159	Symptom 2844 2851	联带运动能力差
+T160	Test_Value 2891 2892	小
+T161	Method 3185 3187	脉冲
+T162	Disease 3452 3457;3458 3463	先天性肾上 腺皮质增生
+T163	Symptom 3580 3584	精神健康
+T164	Symptom 3585 3589	躯体健康
+T165	Test 3699 3705	生活质量评分
+T166	Test 3664 3665;3666 3671	生 活质量评分
+T167	Test 3676 3685	基因突变的严重程度
+T168	Treatment 4245 4251	人工周期治疗
+T169	Method 4327 4328	泵
+T170	Method 4343 4344	泵
+T171	Method 4300 4301	泵
+T172	Test_Value 4529 4531	较大
+T173	Test_Value 4533 4534;4535 4540	4 ml 以上
+T174	Symptom 4559 4561;4562 4565	青春 期启动
+T175	Test_Value 4572 4585	升高接近正常青春期人群水平
+T176	Method 4654 4655	泵
+T177	Symptom 4715 4720	青春期发育
+T178	Symptom 4729 4731	排卵
+T179	Duration 4896 4902	长期规律监测
+T180	Disease 4953 4958	性分化疾病
+T181	Disease 5354 5359	内分泌疾病
+T182	Method 3322 3323	泵
+T183	Anatomy 306 311	肾上腺皮质
+T184	Method 3193 3194	泵
+T185	Drug 1800 1809	促性腺激素释放激素
+T186	Drug 1810 1814	GnRH
+T187	Anatomy 2102 2104;2105 2110	基因 MKRN3
+T188	Anatomy 2214 2220	环指蛋白家族
+T189	Reason 2460 2470	MKRN3 基因突变
+T190	Anatomy 2704 2716	FGF8 / FGFR1
+T191	Anatomy 2719 2733	PROK2 / PROKR2
+T192	Anatomy 2829 2836	KAL1 基因
+T193	Anatomy 2837 2841	RSVs
+T194	Anatomy 2856 2863	KAL1 基因
+T195	Anatomy 2864 2868	RSVs
+T196	Symptom 2874 2880	生育能力受损
+T197	Test 2886 2890	睾丸容积
+T198	Anatomy 2899 2903	FGF8
+T199	Anatomy 2906 2914	FGFR1 基因
+T200	Anatomy 2915 2919	RSVs
+T201	Symptom 2924 2930	牙齿发育不良
+T202	Symptom 2931 2937	指骨趾骨畸形
+T203	Anatomy 2947 2954	CHD7 基因
+T204	Anatomy 2955 2959	RSVs
+T205	Symptom 2963 2967	听力受损
+T206	Disease 3022 3027;3028 3042	女性特发性 低促性腺激素性性腺机能减退症
+T207	Reason 3063 3076	GnRH 分泌或者作用缺陷
+T208	Symptom 3079 3083;3084 3093	青春期性 发育不完全或者不育
+T209	Drug 3107 3111	GnRH
+T210	Disease 3051 3054;3055 3058	孤立性 IHH
+T211	Anatomy 3237 3241	TAC3
+T212	Disease 3658 3663	胰岛素抵抗
+T213	Test_Value 3687 3689;3690 3691	经典 型
+T214	Test_Value 3693 3697	非经典型
+T215	Disease 4088 4091	IHH
+T216	Disease 4098 4101	IHH
+T217	Disease 4135 4142	特发性 IHH
+T218	Symptom 4172 4181;4182 4183	逾青春期后无月经来 潮
+T219	Test 4193 4204	垂体-性腺轴功能的评价
+T220	Test 4207 4217	子宫附件的影像学检查
+T221	Test 4525 4529	睾丸体积
+T222	Test 4568 4570	睾酮
+T223	Test_Value 4607 4616;4617 4619	15ng / ml 左右
+T224	Drug 4704 4708	GnRH
+T225	Symptom 4721 4722;4723 4728	促 使卵泡成熟
+T226	Symptom 4732 4738	维持黄体功能
+T227	Disease 4871 4876	一过性甲亢
+T228	Disease 4990 4992;4993 4996	性发 育异常
+T229	Anatomy 5004 5007	染色体
+T230	Anatomy 5010 5012	性腺
+T231	Symptom 5099 5102;5103 5104	幼稚外 阴
+T232	Anatomy 5114 5116	睾丸
+T233	Anatomy 5117 5122	前列腺组织
+T234	Reason 5146 5154	SRY 基因突变
+T235	Anatomy 5179 5185	SRY 基因
+T236	Reason 5189 5197	SRY 基因突变
+T237	Reason 5198 5200	缺失

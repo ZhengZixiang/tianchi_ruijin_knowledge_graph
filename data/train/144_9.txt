@@ -1,0 +1,267 @@
+临床研究
+(梁洁、刘星、刘秀荣、刘丽英、刘卫华、褚燕军、郑久鸣、徐文瑞),心内科
+(吴寿岭)
+理想血糖人群腰围身高比值对新发空腹血糖
+受损及糖尿病的影响
+梁洁  刘星  刘秀荣  刘丽英  刘卫华  褚燕军  郑久鸣  徐文瑞  吴寿岭
+[摘要]   目的  分析腰围身高比值(WHtR)对新发空腹血糖受损( IFG)及糖尿病的影响。 方法 本
+研究采用前瞻性队列研究方法,以参与开滦集团有限责任公司 2006 ~ 2007 年度健康体检时空腹血糖
+(FPG)<5. 6 mmol / L 且无糖尿病病史、同时于 2012 ~ 2013 年度进行体检且腰围、身高及 FPG 数据均完整的
+46 238 名对象作为观察队列,依据基线 WHtR 四分位数分为 4 组,比较 4 组间 IFG 和糖尿病的发生率。 用
+多因素 logistic 回归分析影响新发 IFG 和糖尿病的因素。 结果 (1) IFG 和糖尿病的发生率分别为 46. 88 /
+1 000 人年和 6. 79 / 1 000 人年,且随基线WHtR 增加,新发 IFG 和糖尿病的发生率均逐渐升高,第一、二、三、
+四分位组 IFG 发生率分别为 10. 37 / 1 000 人年、9. 77 / 1 000 人年、13. 10 / 1 000 人年、13. 64 / 1 000 人年,糖尿
+病的发生率分别为 0. 95 / 1 000 人年、1. 11 / 1 000 人年、1. 83 / 1 000 人年、2. 91 / 1 000 人年。 (2) 经多因素
+logistic 回归分析显示,与第一分位组比较,第二、三、四分位组新发 IFG 的风险增加,RR 值分别为 1. 337、
+1. 560、1. 839,第二、三、四分位组新发糖尿病的风险也增加,RR 值分别为 1. 669、2. 335、4. 170。 结论
+WHtR 增大预示 IFG 和糖尿病的发病风险增加。
+[关键词]   腰围身高比值; 空腹血糖受损; 糖尿病
+Impact of waist-to-height ratio on newly onset of impaired fasting glucose and diabetes mellitus Liang
+Jie* . Liu Xing, Liu Xiurong, Liu Liying, Liu Weihua, Chu Yanjun, Zheng Jiuming, Xu Wenrui, Wu Shouling.
+*Centre of Health Examination, Affiliated Kailuan Hospital of Hebei Union University, Tangshan 063000, China
+[Abstract]  Objective  To analyze the impact of waist-to-height ratio(WHtR) on newly onset of impaired
+fasting glucose(IFG) and diabetes mellitus. Methods A total of 46 238 subjects were enrolled as the observation
+cohort. Their fasting plasma glucose (FPG) was below 5. 6 mmol / L and there was no history of diabetes during the
+2006-2007 health examination. Complete data of waist circumference,body height, and FPG were made in the 2012-
+2013 health examination. According to the baseline WHtR quartile, the observed cohort was divided into four groups,
+in which the incidences of newly onset of IFG and diabetes were compared. Multiple logistic regression analysis was
+used to analyze the influencing factor of newly onset of IFG and diabetes. Results (1) The incidences of newly onset
+IFG and diabetes were 46. 88 per 1 000 person-years and 6. 79 per 1 000 person-years respectively. Along with
+increasing WHtR in the 4 quartile groups, the incidences of newly onset IFG were progressively increased, being
+10. 37, 9. 77, 13. 10, and 13. 64 per 1 000 person-years, respectively. The incidences of newly onset diabetes were
+0. 95, 1. 11, 1. 83, and 2. 91 per 1 000 person-years in the 4 quartile groups, respectively. (2) Multiple logistic
+regression analysis showed that compared with the first quartile group, the second, third and forth quartile groups had
+increased risks of newly onset IFG, the RR value was 1. 337, 1. 560, and 1. 839, respectively. The second, third,
+and forth quartile groups had also increased risks of newly onset diabetes, the RR value was 1. 669, 2. 335, and
+4. 170, respectively. Conclusion The incidences of newly onset IFG and diabetes are increased along with the
+increasing WHtR.
+[Key words]  Waist-to-height ratio; Impaired fasting glucose; Diabetes mellitus
+(Chin J Endocrinol Metab, 2015, 31: 234-237)
+肥胖是糖尿病重要的独立危险因素之一[1]。 体
+重指数(body mass index,BMI)是衡量全身性肥胖的指
+标,与糖尿病的发病率密切相关[2]。 然而,近年来有
+研究表明,与 BMI 相比,反映中心性肥胖的人体测量
+指标如腰围、腰臀比及腰围身高比值(waist-to-height
+ratio,WHtR)能更加精确地预测与肥胖相关的心血管
+危险因素(高血压、2 型糖尿病、血脂紊乱),尤其是
+WHtR[3-5]。 目前国内关于 WHtR 对新发空腹血糖受损
+(impaired fasting glucose,IFG)及糖尿病影响的研究相
+对较少,为此,我们依据开滦研究 (注册号 ChiCTR-
+TRNC-11001489)的资料,调查基线 WHtR 对新发 IFG
+及糖尿病的影响。
+对象和方法
+一、 对象
+所有研究对象均来源于开滦集团有限责任公司在
+职及离退休职工。 入选标准:(1) 参与开滦集团有限
+责任公司 2006 ~ 2007 年度健康体检且同意签署知情
+同意书者;(2)体检时空腹血糖(FPG)<5. 6 mmol / L 且
+无糖尿病病史者。 排除标准:(1)2006 ~ 2007 年度健
+康体检时腰围及身高测量数据均缺失者;(2)因各种
+原因未参加 2012 ~ 2013 年度健康体检者;(3)2012 ~
+2013 年度健康体检时 FPG 数据缺失者。
+二、 方法
+1. 资料收集:健康体检时采用问卷调查和体检的
+方法获得研究对象的基线资料,流行病学调查内容及
+血压测量方法见本课题组发表的相关文章[6,7]。 身
+高、体重测量:采用经校准的 RGZ-120 型体重称于早
+晨 7 : 30 ~ 9 : 00 进行,被测量者赤脚脱帽,穿轻单衣,
+“立正冶姿势站立。 身高测量精确 0. 1 cm,体重测量精
+确至 0. 1 kg。 腰围测量:身体直立,两臂自然下垂,不
+要收腹,呼吸保持平稳,皮尺水平放在髋骨上、肋骨下
+最窄的部位(腰最细的部位),测量精确至 0. 1 cm。
+WHtR 的计算公式:WHtR=腰围(cm) /身高(cm)。
+2. 相关因素及疾病定义或诊断标准:新发 IFG 的
+诊断标准[8]: 2012 ~ 2013 年度健康体检 5. 6 mmol / L
+≤FPG < 7. 0 mmol / L。 新发糖尿病的诊断标准[9]:
+2012 ~ 2013 年度健康体检 FPG≥7. 0 mmol / L 或 FPG<
+7. 0 mmol / L 但服用降糖药物或注射胰岛素治疗者。
+饮酒定义为近 1 年平均每天饮酒(酒精含量 50% 以
+上)100 ml。 吸烟定义为近 1 年平均每天至少吸 1 支
+烟。 戒酒或戒烟不足 1 年者定义为饮酒或吸烟。
+3. 生化指标测定:受试者空腹至少 8 h 于体检当
+日晨起抽取肘静脉血 5 ml,离心后取血清检测 FPG、甘
+油三酯(TG)、总胆固醇(TC)、高密度脂蛋白胆固醇
+(HDL-C)、低密度脂蛋白胆固醇(LDL-C)。 仪器为日
+立自动化分析仪(7600 Automatic Analyzer),试剂盒由
+北方生物研究所提供。 FPG 检测采用己糖激酶法,变
+异系数在 5. 55 mmol / L 时≤2%,线性上限为 33. 3
+mmol / L,试剂盒由中生北控生物科技股份公司提供。
+操作按试剂说明书严格进行,随批质控,由专业检验师
+进行操作。
+4. 分组:将研究对象按 2006 ~ 2007 年度健康体
+检时基线 WHtR 四分位数分为第一分位组(WHtR<
+0. 48)、第二分位组(0. 48≤WHtR<0. 51)、第三分位组
+(0. 51≤WHtR<0. 55)、第四分位组(WHtR≥0. 55)。
+三、 统计学处理
+数据由各医院通过网络上传至开滦医院 Oracle
+10. 2 g 数据库,导出 dbf 文件后利用 SPSS 13. 0 进行统
+计分析。 符合正态分布的计量资料以 x- ± s 表示,多组
+间比较用方差分析,用 LSD 方法进行多重比较。 计数
+资料用百分数表示,组间比较用 字2 检验。 用多因素
+logistic 回归分析影响新发 IFG 和糖尿病的因素。 以
+P<0. 05 为差异有统计学意义。
+结    果
+一、 研究对象的一般情况
+表 1  不同腰围身高比值组的基线资料特征(x-± s)
+Tab 1  Baseline data characteristics in different waist-to-height ratio groups(x-± s)
+组别
+Group
+性别(男 / 女)
+Sex(M / F)
+吸烟
+Smoking
+n(% )
+饮酒
+Alcohol consumption
+n(% )
+糖尿病家族史
+Diabetes family history
+n(% )
+年龄
+(岁)
+Age
+(year)
+SBP
+(mmHg)
+DBP
+(mmHg)
+A 8 974 / 3 935 4 394(34. 30) 4 819(37. 60) 637(4. 90) 44. 5 ± 12. 0 121 ± 18 79 ± 11
+B 7 557 / 2 275 3 287(34. 00) 3 619(37. 40) 437(4. 40) 48. 4 ± 11. 2a 127 ± 19a 82 ± 11a
+C 9 462 / 2 519 4 053(34. 70) 4 555(38. 90) 517(4. 30) 50. 0 ± 11. 3ab 130 ± 19ab 84 ± 11ab
+D 8 434 / 3 082 3 336(30. 20) 3 719(33. 60) 390(3. 40) 53. 2 ± 11. 4abc 134 ± 20abc 85 ± 12abc
+组别
+Group
+性别(男 / 女)
+Sex(M / F)
+TG
+(mmol / L)
+TC
+(mmol / L)
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L)
+FPG
+(mmol / L) WHtR
+A 8 974 / 3 935 1. 22 ± 1. 00 4. 76 ± 1. 04 2. 31 ± 0. 81 1. 57 ± 0. 38 4. 80 ± 0. 47 0. 45 ± 0. 03
+B 7 557 / 2 275 1. 51 ± 1. 14a 4. 88 ± 1. 11a 2. 34 ± 0. 83a 1. 57 ± 0. 40 4. 80 ± 0. 48 0. 50 ± 0. 01a
+C 9 462 / 2 519 1. 70 ± 1. 29ab 4. 90 ± 1. 16a 2. 30 ± 0. 91b 1. 54 ± 0. 40ab 4. 80 ± 0. 49 0. 53 ± 0. 01ab
+D 8 434 / 3 082 1. 85 ± 1. 36abc 4. 95 ± 1. 15abc 2. 17 ± 1. 03abc 1. 52 ± 0. 41abc 4. 80 ± 0. 50 0. 59 ± 0. 04abc
+注:A:第一分位组 The first quartile group,WHtR<0. 48;B:第二分位组 The second quartile group,0. 48≤WHtR<0. 51;C:第三分位组 The third quartile
+group,0. 51≤WHtR<0. 55;D:第四分位组 The forth quartile group,WHtR≥0. 55;M:男 Male;F:女 Female;SBP:收缩压 Systolic blood pressure; 1 mmHg =
+0. 133 kPa;DBP:舒张压 Diastolic blood pressure;TG:甘油三酯 Triglyceride;TC:总胆固醇 Total cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density
+lipoprotein-cholesterol;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;FPG:空腹血糖 Fasting plasma glucose;WHtR:腰围身高比值Waist-
+to-height ratio;与 A 组比较 vs A group,aP<0. 05;与 B 组比较 vs B group,bP<0. 05;与 C 组比较 vs C group,cP<0. 05
+参与开滦集团有限责任公司 2006 ~ 2007 年度健
+康体检且同意签署知情同意书的在职及离退休职工共
+有 101 510 例,其中 FPG<5. 6 mmol / L 且无糖尿病病史
+者 70 263 例,排除基线腰围及身高测量数据缺失者
+1 048 例、因各种原因未参加 2012 ~ 2013 年度健康体
+检者 22 106 例,2012 ~ 2013 年度健康体检时 FPG 数据
+缺失者 871 例,最终纳入分析的有效数据为 46 238
+例,其中男性 34 427 例,女性 11 811 例,平均年龄为
+(48. 9 ± 11. 9)岁,随访率为 65. 8% 。
+二、 不同 WHtR 组基线资料比较
+第二、三、四分位组的年龄、收缩压、舒张压、TG、
+TC 均高于第一分位组(P<0. 01,表 1)。
+三、 不同 WHtR 组新发 IFG 和糖尿病情况
+至 2012 ~ 2013 年度健康体检时,观察队列的平均
+随访时间为(5. 8 ± 0. 6)年,在纳入统计分析的 46 238
+例观察对象中,有 12 198 例发生 IFG,1 767 例发生糖
+尿病。 随基线 WHtR 增加,新发 IFG 和糖尿病的发生
+率均逐渐升高,组间比较差异有统计学意义(P趋势 <
+0. 01,表 2)。
+四、 影响新发 IFG 和糖尿病的 logistic 回归分析
+分别以 2012 ~ 2013 年度健康体检时是否为 IFG
+或糖尿病为因变量,以基线 WHtR 分组、性别、年龄、收
+缩压、舒张压、TC、TG、LDL-C、HDL-C、吸烟、饮酒和糖
+尿病家族史为自变量,进行多因素 logistic 回归分析。
+模型 1 显示,与第一分位组相比,第二、三、四分位组新
+发 IFG 的 RR 值分别为 1. 337、1. 560、1. 839,第二、三、
+四分位组新发糖尿病的 RR 值分别为 1. 669、2. 335、
+4. 170。模型 2 校正了年龄、性别后,第二、三、四分位组
+表 2  各组人群新发空腹血糖受损及新发糖尿病发生率
+[n( / 1 000 人年)]
+Tab 2 The incidences of newly-onset impaired fasting glucose and
+diabetes in various groups[n( / 1 000 person year)]
+组别
+Group
+空腹血糖受损发生率
+Incidence of impaired fasting glucose
+糖尿病发生率
+Incidence of diabetes
+A  2 698(10. 37)   247(0. 95)
+B  2 543(9. 77)   289(1. 11)
+C  3 409(13. 10)   475(1. 83)
+D  3 548(13. 64)   756(2. 91)
+总体
+Total 12 198(46. 88)   1 767(6. 79)
+注:略语同表 1 The abbreviations are the same as Tab 1
+新发 IFG 和糖尿病的风险减弱。 模型 3 进一步校正了
+收缩压、舒张压、TC、TG、LDL-C、HDL-C、吸烟、饮酒和
+糖尿病家族史,第二、三、四分位组新发 IFG 和糖尿病
+的 RR 值进一步下降(表 3)。
+讨    论
+BMI、腰围、腰臂比和 WHtR 等反映肥胖的人体测
+量学指标与糖尿病、高血压、脂代谢异常等心血管危险
+因素关系密切。 其中 WHtR 在反映腹部脂肪堆积水平
+的同时平衡了身高的影响,同时成人的身高相对稳定,
+与腰围和腰臂比相比能更好反映不同体型人群的中心
+性肥胖,对高血压、糖尿病及代谢综合征有更高的预测
+价值[10-12]。 因此,本研究探讨基线 WHtR 对新发空腹
+血糖受损及糖尿病的影响,从而寻求更有效的指标进
+行监测控制,更好地对糖尿病进行一级预防。
+国内研究表明,WHtR 与空腹血糖及糖负荷 2 h 血
+糖密切相关,糖尿病检出率随 WHtR 增加而升高[13]。
+本研究结果也得到相同的结论, 6 年 IFG 和糖尿病的
+表 3  影响 IFG、糖尿病发生的 logistic 回归分析
+Tab 3  The logistic regression of influencing factors for IFG and diabetes
+模型
+Model
+IFG DM
+B RR(95% CI) P B RR(95% CI) P
+Model 1
+A 1 1 1 1
+B 0. 291 1. 337(1. 256-1. 424) <0. 001 0. 512 1. 669(1. 402-1. 987) <0. 001
+C 0. 445 1. 560(1. 471-1. 655) <0. 001 0. 848 2. 335(1. 992-2. 737) <0. 001
+D 0. 609 1. 839(1. 733-1. 952) <0. 001 1. 428 4. 170(3. 592-4. 841) <0. 001
+Model 2
+A 1 1 1 1
+B 0. 175 1. 191(1. 117-1. 270) <0. 001 0. 401 1. 493(1. 253-1. 779) <0. 001
+C 0. 281 1. 325(1. 247-1. 407) <0. 001 0. 687 1. 987(1. 692-2. 334) <0. 001
+D 0. 361 1. 434(1. 349-1. 526) <0. 001 1. 184 3. 269(2. 804-3. 811) <0. 001
+Model 3
+A 1 1 1 1
+B 0. 119 1. 127(1. 056-1. 202) <0. 001 0. 283 1. 327(1. 112-1. 583) 0. 002
+C 0. 189 1. 208(1. 136-1. 286) <0. 001 0. 490 1. 632(1. 386-1. 921) <0. 001
+D 0. 238 1. 269(1. 190-1. 353) <0. 001 0. 909 2. 481(2. 119-2. 906) <0. 001
+注:IFG:空腹血糖受损 Impaired fasting glucose;DM:糖尿病 Diabetes; Model 1:模型 1,未校正 No adjust; Model 2:模型 2,校正年龄和性别 Adjusted
+for age and sex; Model 3:模型 3,校正血压、血脂、吸烟、饮酒和糖尿病家族史 Adjusted for blood presure, blood lipids, smoke, dringking, and diabetes family
+history; 余略语同表 1 The other abbreviations are the same as Tab 1
+发生率分别为 46. 88 / 1 000 人年和 6. 79 / 1 000 人年,
+且随基线 WHtR 增加, 新发 IFG 和糖尿病的发生率均
+逐渐升高。 在影响新发 IFG 和糖尿病的 logistic 回归
+分析中也显示,WHtR 在 0. 48 ~ 0. 51、0. 51 ~ 0. 55、
+≥0. 55 组新发 IFG 的风险分别是 WHtR<0. 48 组的
+1. 337、1. 560、1. 839 倍,新发糖尿病的风险分别是
+WHtR<0. 48 组的 1. 669、2. 335、4. 170 倍,校正其他影
+响因素后,WHtR 在 0. 48 ~ 0. 51、0. 51 ~ 0. 55、≥0. 55
+组新发 IFG 和糖尿病的风险仍分别高于 WHtR<0. 48
+组,进一步说明随着 WHtR 增加,IFG 和糖尿病的发病
+风险逐渐升高。
+WHtR 是衡量中心性肥胖的一个指标,而中心性
+肥胖导致胰岛素抵抗,胰岛素抵抗又促使血脂异常,糖
+耐量受损,当胰岛 β 细胞发生缺陷时,最终导致糖尿
+病的发生发展。 因此,我们通过健康的生活方式、随时
+监测 WHtR 以积极控制中心性肥胖,减轻胰岛素抵抗,
+可在一定程度上降低糖尿病的发病率。
+虽然本研究观察到基线 WHtR 对新发 IFG 及糖尿
+病有影响,但也存在一定的局限性:(1)本研究仅依据
+2011 ~ 2012 年度健康体检时单次 FPG 水平诊断 IFG
+及糖尿病,未进行口服糖耐量试验进一步确诊,可能遗
+漏餐后血糖升高的人群,低估 WHtR 升高对新发 IFG
+及糖尿病风险的影响;(2)本研究人群为开滦集团公
+司体检职工,在代表性上存在一定的局限性。 但研究
+人群的规模较大,年龄、职业范围分布较广,因此结果
+有一定的参考价值,提示 WHtR 可作为预防糖尿病更
+有效的肥胖指标。

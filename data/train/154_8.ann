@@ -1,0 +1,667 @@
+T1	Disease 7539 7545	2 型糖尿病
+T2	Disease 8191 8197	2 型糖尿病
+T3	Disease 8350 8356	2 型糖尿病
+T4	Disease 9098 9104	2 型糖尿病
+T5	Disease 9187 9193	2 型糖尿病
+T6	Disease 9212 9218	2 型糖尿病
+T7	Disease 9409 9415	2 型糖尿病
+T8	Disease 9478 9484	2 型糖尿病
+T9	Disease 9569 9575	2 型糖尿病
+T10	Disease 10018 10024	2 型糖尿病
+T11	Disease 10318 10324	2 型糖尿病
+T12	Disease 10468 10474	2 型糖尿病
+T13	Disease 10953 10959	2 型糖尿病
+T14	Disease 10415 10416;10417 10421	2 型糖尿病
+T15	Test 11655 11660	HBA1C
+T16	Test 8964 8968	空腹血糖
+T17	Test 9327 9331	空腹血糖
+T18	Disease 8363 8366;8367 8369	妊娠糖 尿病
+T19	Test 8544 8548	体重指数
+T20	Test 8721 8725	体重指数
+T21	Test 9089 9090;9091 9094	体 重指数
+T22	Test 9289 9293	体重指数
+T23	Test 9336 9340	体重指数
+T24	Test 9897 9906	口服葡萄糖耐量试验
+T25	Test 8590 8597	HOMA-IR
+T26	Test 8904 8911	HOMA-IR
+T27	Disease 8371 8376	代谢综合征
+T28	Disease 8357 8362	糖尿病前期
+T29	Disease 11608 11610;11611 11614	糖尿 病前期
+T30	Test 8912 8917	空腹胰岛素
+T31	Test 7586 7591	游离脂肪酸
+T32	Anatomy 3757 3761	β 细胞
+T33	Anatomy 4069 4073	β 细胞
+T34	Anatomy 4832 4836	β 细胞
+T35	Anatomy 5778 5782	β 细胞
+T36	Anatomy 5863 5867	β 细胞
+T37	Anatomy 5914 5918	β 细胞
+T38	Anatomy 8062 8066	β 细胞
+T39	Anatomy 8151 8155	β 细胞
+T40	Anatomy 10632 10636	β 细胞
+T41	Anatomy 7428 7432	活性氧簇
+T42	Anatomy 3772 3776	脂肪细胞
+T43	Anatomy 5510 5514	脂肪细胞
+T44	Anatomy 7308 7312	脂肪细胞
+T45	Anatomy 7489 7493	脂肪细胞
+T46	Anatomy 7571 7577	骨髓脂肪细胞
+T47	Anatomy 7607 7611	脂肪细胞
+T48	Anatomy 7458 7461	ROS
+T49	Anatomy 7464 7467	ROS
+T50	Test 118 121	骨钙素
+T51	Test 131 138	羧化不全骨钙素
+T52	Test 308 311	骨钙素
+T53	Test 494 497	骨钙素
+T54	Test 2301 2304	骨钙素
+T55	Test 2324 2327	骨钙素
+T56	Test 2368 2371	骨钙素
+T57	Test 2383 2390	羧化不全骨钙素
+T58	Test 3055 3058	骨钙素
+T59	Test 3086 3089	骨钙素
+T60	Test 3157 3160	骨钙素
+T61	Test 3183 3184;3185 3187	骨 钙素
+T62	Test 3268 3271	骨钙素
+T63	Test 3280 3283	骨钙素
+T64	Test 3345 3348	骨钙素
+T65	Test 3519 3522	骨钙素
+T66	Test 3944 3947	骨钙素
+T67	Test 3998 4001	骨钙素
+T68	Test 4019 4022	骨钙素
+T69	Test 4272 4275	骨钙素
+T70	Test 4378 4381	骨钙素
+T71	Test 4408 4411	骨钙素
+T72	Test 4507 4510	骨钙素
+T73	Test 4561 4564	骨钙素
+T74	Test 4713 4716	骨钙素
+T75	Test 4736 4739	骨钙素
+T76	Test 4766 4769	骨钙素
+T77	Test 4894 4897	骨钙素
+T78	Test 4925 4928	骨钙素
+T79	Test 5071 5074	骨钙素
+T80	Test 5091 5094	骨钙素
+T81	Test 5183 5186	骨钙素
+T82	Test 5267 5270	骨钙素
+T83	Test 5634 5637	骨钙素
+T84	Test 5657 5660	骨钙素
+T85	Test 5673 5676	骨钙素
+T86	Test 5713 5716	骨钙素
+T87	Test 5945 5948	骨钙素
+T88	Test 5960 5963	骨钙素
+T89	Test 6188 6191	骨钙素
+T90	Test 6255 6258	骨钙素
+T91	Test 6307 6310	骨钙素
+T92	Test 8126 8129	骨钙素
+T93	Test 8281 8284	骨钙素
+T94	Test 8392 8393;8394 8396	骨 钙素
+T95	Test 8477 8480	骨钙素
+T96	Test 8528 8531	骨钙素
+T97	Test 8635 8638	骨钙素
+T98	Test 8740 8743	骨钙素
+T99	Test 8780 8783	骨钙素
+T100	Test 8803 8806	骨钙素
+T101	Test 8945 8948	骨钙素
+T102	Test 9056 9059	骨钙素
+T103	Test 9205 9208	骨钙素
+T104	Test 9451 9454	骨钙素
+T105	Test 9509 9510;9511 9513	骨 钙素
+T106	Test 9552 9555	骨钙素
+T107	Test 9558 9559;9560 9562	骨 钙素
+T108	Test 9590 9593	骨钙素
+T109	Test 9914 9917	骨钙素
+T110	Test 10037 10040	骨钙素
+T111	Test 10148 10149;10150 10152	骨 钙素
+T112	Test 10810 10813	骨钙素
+T113	Test 10992 10995	骨钙素
+T114	Test 11077 11080	骨钙素
+T115	Test 11168 11171	骨钙素
+T116	Test 11187 11190	骨钙素
+T117	Test 11253 11256	骨钙素
+T118	Test 11318 11321	骨钙素
+T119	Test 11522 11525	骨钙素
+T120	Test 11556 11559	骨钙素
+T121	Test 11795 11798	骨钙素
+T122	Test 8611 8614	脂联素
+T123	Test 10909 10911	体重
+T124	Test 8449 8454	RANKL
+T125	Test 10435 10440	RANKL
+T126	Anatomy 157 161	成骨细胞
+T127	Anatomy 181 185	成骨细胞
+T128	Anatomy 210 214	成骨细胞
+T129	Anatomy 488 492	成骨细胞
+T130	Anatomy 2259 2263	成骨细胞
+T131	Anatomy 2305 2309	成骨细胞
+T132	Anatomy 2470 2474	成骨细胞
+T133	Anatomy 2562 2566	成骨细胞
+T134	Anatomy 2722 2726	成骨细胞
+T135	Anatomy 3091 3095	成骨细胞
+T136	Anatomy 3293 3297	成骨细胞
+T137	Anatomy 3435 3439	成骨细胞
+T138	Anatomy 3678 3682	成骨细胞
+T139	Anatomy 3959 3963	成骨细胞
+T140	Anatomy 4205 4209	成骨细胞
+T141	Anatomy 4230 4234	成骨细胞
+T142	Anatomy 4431 4435	成骨细胞
+T143	Anatomy 4464 4468	成骨细胞
+T144	Anatomy 4652 4656	成骨细胞
+T145	Anatomy 4932 4936	成骨细胞
+T146	Anatomy 5056 5058;5059 5061	成骨 细胞
+T147	Anatomy 5099 5103	成骨细胞
+T148	Anatomy 5121 5125	成骨细胞
+T149	Anatomy 5368 5372	成骨细胞
+T150	Anatomy 5591 5595	成骨细胞
+T151	Anatomy 5619 5623	成骨细胞
+T152	Anatomy 6192 6196	成骨细胞
+T153	Anatomy 6248 6252	成骨细胞
+T154	Anatomy 6302 6306	成骨细胞
+T155	Anatomy 6349 6353	成骨细胞
+T156	Anatomy 6389 6393	成骨细胞
+T157	Anatomy 6428 6432	成骨细胞
+T158	Anatomy 6528 6532	成骨细胞
+T159	Anatomy 6720 6724	成骨细胞
+T160	Anatomy 6740 6744	成骨细胞
+T161	Anatomy 6854 6858	成骨细胞
+T162	Anatomy 6895 6899	成骨细胞
+T163	Anatomy 7256 7260	成骨细胞
+T164	Anatomy 7283 7287	成骨细胞
+T165	Anatomy 7627 7631	成骨细胞
+T166	Anatomy 7859 7863	成骨细胞
+T167	Anatomy 7919 7923	成骨细胞
+T168	Anatomy 9605 9609	成骨细胞
+T169	Anatomy 11387 11391	成骨细胞
+T170	Anatomy 11633 11635;11636 11638	成骨 细胞
+T171	Anatomy 4447 4448;4449 4452	破 骨细胞
+T172	Anatomy 11639 11643	破骨细胞
+T173	Test 4416 4419	护骨素
+T174	Test 4524 4527	护骨素
+T175	Test 5207 5210	护骨素
+T176	Test 8431 8434	护骨素
+T177	Anatomy 3846 3854	胰升糖素样肽 1
+T178	Anatomy 6015 6023	胰升糖素样肽 1
+T179	Anatomy 6644 6658	低密度脂蛋白受体相关蛋白 5
+T180	Anatomy 3840 3845	GLP-1
+T181	Anatomy 6025 6030	GLP-1
+T182	Anatomy 6090 6095	GLP-1
+T183	Anatomy 6116 6121	GLP-1
+T184	Anatomy 3604 3607;3608 3609	β 细 胞
+T185	Anatomy 2976 2980	脂肪组织
+T186	Anatomy 2531 2534;2535 2536	成骨细 胞
+T187	Anatomy 6881 6885	AMPK
+T188	Disease 10182 10186	骨质疏松
+T189	Test 270 272;273 274	骨钙 素
+T190	Test 8464 8467	骨密度
+T191	Test 74 76	血糖
+T192	Test 2845 2847	血糖
+T193	Test 3807 3809	血糖
+T194	Test 7944 7946	血糖
+T195	Test 8296 8298	血糖
+T196	Test 8460 8462	血糖
+T197	Test 8807 8809	血糖
+T198	Test 8919 8921	血糖
+T199	Test 9587 9589	血糖
+T200	Test 9873 9875	血糖
+T201	Test 9981 9983	血糖
+T202	Test 10026 10028	血糖
+T203	Test 10067 10069	血糖
+T204	Test 10094 10096	血糖
+T205	Test 10122 10124	血糖
+T206	Test 10497 10499	血糖
+T207	Test 10925 10927	血糖
+T208	Test 11003 11005	血糖
+T209	Test 11101 11103	血糖
+T210	Test 11172 11174	血糖
+T211	Test 11704 11706	血糖
+T212	Anatomy 69 71	骨骼
+T213	Anatomy 11800 11805	骨组织细胞
+T214	Anatomy 11831 11833	骨骼
+T215	Anatomy 11715 11717	骨骼
+T216	Anatomy 11731 11733	骨骼
+T217	Anatomy 11667 11670	骨细胞
+T218	Anatomy 11676 11678	骨骼
+T219	Anatomy 11686 11688	骨骼
+T220	Anatomy 11618 11620	骨骼
+T221	Test 11600 11603	糖耐量
+T222	Anatomy 11472 11474	骨骼
+T223	Anatomy 11475 11477	胰腺
+T224	Anatomy 11478 11479;11480 11481	脂 肪
+T225	Anatomy 11414 11415	骨
+T226	Disease 11444 11451	糖尿病相关骨病
+T227	Symptom 11374 11376	高糖
+T228	Anatomy 11334 11336	骨骼
+T229	Anatomy 11351 11352	骨
+T230	Test 11095 11100	葡萄糖耐量
+T231	Anatomy 89 91	骨骼
+T232	Anatomy 151 153	骨骼
+T233	Disease 227 234	全身糖代谢紊乱
+T234	Disease 329 332	糖尿病
+T235	Anatomy 2231 2233	骨骼
+T236	Test 2423 2427	ucOC
+T237	Anatomy 2501 2503	骨骼
+T238	Anatomy 2504 2506	胰腺
+T239	Anatomy 2508 2510	脂肪
+T240	Disease 2553 2558	胰岛素抵抗
+T241	Anatomy 2586 2588	骨骼
+T242	Disease 2634 2637	糖尿病
+T243	Anatomy 2638 2640	骨骼
+T244	Anatomy 2647 2649	骨骼
+T245	Disease 2659 2662;2663 2665	糖代谢 异常
+T246	Anatomy 2667 2669	骨骼
+T247	Disease 2676 2679	糖尿病
+T248	Anatomy 2826 2828	骨骼
+T249	Anatomy 2851 2853	骨骼
+T250	Test 4099 4101	血糖
+T251	Anatomy 6373 6375	骨骼
+T252	Disease 6398 6400	肥胖
+T253	Anatomy 6403 6405	骨骼
+T254	Disease 6471 6474	糖尿病
+T255	Anatomy 6479 6488	骨髓间充质前体细胞
+T256	Anatomy 6493 6497	成脂细胞
+T257	Anatomy 6602 6608	成骨前体细胞
+T258	Anatomy 6609 6612;6613 6616	多潜能 干细胞
+T259	Anatomy 6660 6664	LRP5
+T260	Anatomy 6707 6710	肌细胞
+T261	Anatomy 6786 6791	Glut1
+T262	Disease 6991 6993	肥胖
+T263	Disease 6995 7000	胰岛素抵抗
+T264	Disease 7021 7026	糖尿病骨病
+T265	Disease 7044 7046	骨折
+T266	Disease 7580 7585	胰岛素抵抗
+T267	Anatomy 7597 7599	骨髓
+T268	Disease 7600 7602;7603 7606	胰岛 素抵抗
+T269	Test 7743 7749	骨髓脂肪含量
+T270	Drug 7776 7786	β 肾上腺素能激动剂
+T271	Anatomy 7792 7794;7795 7797	交感 神经
+T272	Test 7798 7804	骨髓脂肪含量
+T273	Anatomy 7811 7815	骨髓脂肪
+T274	Disease 7950 7952;7953 7956	低瘦 素血症
+T275	Anatomy 7971 7973	骨骼
+T276	Test 8132 8135	糖耐量
+T277	Disease 8180 8183	糖尿病
+T278	Test 8301 8304	糖耐量
+T279	Test 8403 8407	总脂肪量
+T280	Test 8408 8414	腹部脂肪含量
+T281	Test 8435 8444;8445 8448	核因子-κB 受体 活化子
+T282	Test 8456 8459	雌激素
+T283	Test 8552 8557;8558 8559	腹部脂肪含 量
+T284	Disease 8513 8515	肥胖
+T285	Test 8726 8730	皮褶厚度
+T286	Disease 8746 8748	肥胖
+T287	Disease 8810 8815	胰岛素抵抗
+T288	Disease 8817 8820	糖尿病
+T289	Disease 8848 8850;8851 8852	糖尿 病
+T290	Reason 9007 9010	高血压
+T291	Reason 9011 9015;9016 9018	脂质代谢 异常
+T292	Reason 9019 9021	超重
+T293	Reason 9022 9032	早发心血管疾病家族史
+T294	Disease 9042 9045	糖尿病
+T295	Drug 9124 9128	降糖药物
+T296	Disease 9163 9166	糖尿病
+T297	Disease 9255 9258	糖尿病
+T298	Disease 9268 9271	糖尿病
+T299	Disease 9299 9302	糖尿病
+T300	Disease 9316 9319	糖尿病
+T301	Disease 9362 9365	糖尿病
+T302	Disease 9471 9476	胰岛素抵抗
+T303	Anatomy 9653 9655	骨骼
+T304	Test 9665 9672	葡萄糖钳夹试验
+T305	Test 9694 9705	7 h 葡萄糖钳夹试验
+T306	Test 9752 9757;9758 9760	葡萄糖钳夹 试验
+T307	Test 9761 9764	胰岛素
+T308	Test 9809 9817	胰岛素敏感性指标
+T309	Test 9818 9826	稳态葡萄糖输注率
+T310	Test 9827 9830;9831 9834	葡萄糖 清除率
+T311	Test 9948 9955	胰岛素钳夹试验
+T312	Test_Value 9983 9985	升高
+T313	Test_Value 9997 9999	升高
+T314	Anatomy 10075 10077	骨骼
+T315	Test 10090 10093	胰岛素
+T316	Drug 10189 10195	抗骨吸收药物
+T317	Drug 10206 10210	双膦酸盐
+T318	Drug 10212 10217	阿伦膦酸盐
+T319	Drug 10227 10228;10229 10239	选 择性雌激素受体调节剂
+T320	Drug 10241 10245	雷洛昔芬
+T321	Drug 10247 10252;10253 10254	抗骨吸收药 物
+T322	Disease 10283 10286	糖尿病
+T323	Drug 10287 10293	抗骨吸收药物
+T324	Drug 10337 10344	抗骨质疏松药物
+T325	Disease 10355 10358	糖尿病
+T326	Drug 10442 10443;10444 10448	抗 骨松药物
+T327	Test 10500 10503	糖耐量
+T328	Disease 10535 10541	高胰岛素血症
+T329	Drug 10658 10664	抗骨吸收药物
+T330	Drug 10715 10721	抗骨吸收药物
+T331	Drug 10793 10797;10798 10800	抗骨吸收 药物
+T332	Test 10912 10916	脂肪含量
+T333	Test 10928 10931	胰岛素
+T334	Disease 10950 10952	肥胖
+T335	Test 11009 11012	胰岛素
+T336	Anatomy 2898 2900	脂肪
+T337	Anatomy 2905 2907	大脑
+T338	Test 11810 11812	激素
+T339	Test 11814 11818	细胞因子
+T340	Anatomy 11722 11723	骨
+T341	Anatomy 11782 11784	骨骼
+T342	Anatomy 11627 11628	骨
+T343	Test 11563 11567	ucOC
+T344	Test 11258 11264	男性生殖功能
+T345	Test 11081 11084	胰岛素
+T346	Test 11088 11094	胰岛素敏感性
+T347	Anatomy 113 114	骨
+T348	Anatomy 163 171	葡萄糖转运子 1
+T349	Anatomy 188 189	骨
+T350	Anatomy 280 281	骨
+T351	Anatomy 371 373	骨骼
+T352	Test 2274 2280	胰岛素敏感性
+T353	Anatomy 2296 2297	骨
+T354	Anatomy 2338 2339	骨
+T355	Test 2343 2346	胰岛素
+T356	Test 2352 2355	胰岛素
+T357	Test 2360 2366	胰岛素敏感性
+T358	Test 2446 2448	瘦素
+T359	Anatomy 2455 2459	交感神经
+T360	Symptom 2550 2552	高糖
+T361	Anatomy 2618 2619	骨
+T362	Symptom 2715 2717	高糖
+T363	Anatomy 2729 2730	骨
+T364	Anatomy 2734 2735	骨
+T365	Test 2838 2841	胰岛素
+T366	Anatomy 2862 2864	骨骼
+T367	Test 2869 2873	生殖功能
+T368	Anatomy 2891 2893	骨骼
+T369	Anatomy 2901 2903	胰腺
+T370	Test 2931 2933;2934 2936	生殖 功能
+T371	Test 2938 2940	瘦素
+T372	Test 2943 2945	骨量
+T373	Test 2984 2986	瘦素
+T374	Test 3016 3020	骨矿含量
+T375	Anatomy 3050 3051	骨
+T376	Anatomy 3073 3074	骨
+T377	Anatomy 3096 3099	骨细胞
+T378	Anatomy 3190 3193	骨基质
+T379	Test 3214 3218	ucOC
+T380	Test 3237 3241	ucOC
+T381	Test 3298 3301	胰岛素
+T382	Anatomy 3311 3312;3313 3317	胰 岛素受体
+T383	Anatomy 3330 3331	骨
+T384	Anatomy 3337 3340	骨基质
+T385	Anatomy 3358 3361;3362 3367	蛋白酪 氨酸磷酸酶
+T386	Anatomy 3369 3377	胚胎干细胞磷酸酶
+T387	Anatomy 3411 3414	ESP
+T388	Anatomy 3418 3423	胰岛素受体
+T389	Anatomy 3444 3447	ESP
+T390	Anatomy 3455 3458;3459 3467	蛋白酪 氨酸磷酸酶 1B
+T391	Anatomy 3486 3491	胰岛素受体
+T392	Anatomy 3496 3498	骨骼
+T393	Disease 3545 3546;3547 3552	低 胰岛素血症
+T394	Test 3595 3599	ucOC
+T395	Test 3612 3615	胰岛素
+T396	Disease 3639 3641	肥胖
+T397	Anatomy 3650 3658	胚胎干细胞磷酸酶
+T398	Anatomy 3659 3662	ESP
+T399	Anatomy 3686 3689	ESP
+T400	Test 4024 4028	ucOC
+T401	Anatomy 4047 4053	小肠上皮细胞
+T402	Anatomy 4056 4065	GPRC6a 受体
+T403	Test 4092 4095	胰岛素
+T404	Anatomy 4110 4116	中枢神经系统
+T405	Test 4116 4118	瘦素
+T406	Test 4124 4126	瘦素
+T407	Anatomy 4128 4132	血脑屏障
+T408	Anatomy 4139 4148	脑干血清素能神经元
+T409	Test 4151 4154	血清素
+T410	Test 4165 4168	血清素
+T411	Anatomy 4169 4172;4173 4174	交感神 经
+T412	Anatomy 4183 4187	交感神经
+T413	Test 4198 4202	儿茶酚胺
+T414	Anatomy 4210 4215	Adrβ2
+T415	Test 4221 4224	ESP
+T416	Test 4235 4238	胰岛素
+T417	Test 4470 4473	胰岛素
+T418	Test 4479 4489	Runx2 抑制因子
+T419	Test 4490 4496	Twist2
+T420	Anatomy 4503 4504	骨
+T421	Anatomy 4534 4535	骨
+T422	Anatomy 4541 4542	骨
+T423	Anatomy 4551 4554	骨基质
+T424	Anatomy 4571 4581	转录因子 Foxo1
+T425	Anatomy 4584 4588	ATF4
+T426	Test 4597 4600	ESP
+T427	Anatomy 4609 4614	胰岛素受体
+T428	Test 4623 4626	胰岛素
+T429	Test 4637 4641	ucOC
+T430	Test 4681 4685	ucOC
+T431	Test 4664 4668	ucOC
+T432	Anatomy 4704 4707	ESP
+T433	Test 4744 4747	胰岛素
+T434	Test 4752 4754;4755 4759	胰岛 素敏感性
+T435	Test 4820 4823	Ocn
+T436	Test 4851 4858	胰岛素耐量实验
+T437	Test 4863 4866	Ocn
+T438	Test 4901 4907	胰岛素敏感性
+T439	Anatomy 4950 4951	骨
+T440	Anatomy 4963 4971;4972 4978	转录因子叉头状转 录因子 O1
+T441	Anatomy 4995 5000	Foxo1
+T442	Anatomy 5002 5009;5010 5011	激活型转录因子 4
+T443	Anatomy 5047 5051	ATF4
+T444	Test 5062 5065	ESP
+T445	Test 5104 5107	胰岛素
+T446	Anatomy 5115 5118	胰岛素
+T447	Test 5138 5142	ucOC
+T448	Anatomy 5146 5149	胰岛素
+T449	Test 5152 5162	Runx2 抑制因子
+T450	Test 5163 5169	Twist2
+T451	Anatomy 5179 5180	骨
+T452	Anatomy 5194 5197	胰岛素
+T453	Test 5202 5207	骨吸收因子
+T454	Anatomy 5228 5229	骨
+T455	Anatomy 5239 5244	骨吸收陷窝
+T456	Test 5250 5252	pH
+T457	Test_Value 5253 5257	4. 5
+T458	Anatomy 5262 5265	骨基质
+T459	Test 5314 5318	ucOC
+T460	Disease 5342 5349	葡萄糖耐量受损
+T461	Disease 5350 5355	胰岛素抵抗
+T462	Anatomy 5361 5364	胰岛素
+T463	Test 5375 5379	ucOC
+T464	Test 5401 5404	胰岛素
+T465	Anatomy 5493 5499;5500 5503	瘦素-中枢神 经系统
+T466	Test 5517 5519	瘦素
+T467	Anatomy 5521 5525	血脑屏障
+T468	Anatomy 5528 5530	中枢
+T469	Test 5534 5538	脑血清素
+T470	Anatomy 5547 5551;5552 5554	中枢交感 神经
+T471	Anatomy 5565 5569	交感神经
+T472	Test 5579 5587	交感神经活性物质
+T473	Anatomy 5596 5603;5604 5605	Adr 2 受 体
+T474	Test 5609 5612	ESP
+T475	Anatomy 5625 5628	胰岛素
+T476	Test 5646 5649	胰岛素
+T477	Anatomy 5706 5712	睾丸间质细胞
+T478	Anatomy 5722 5732;5733 5741	G 蛋白耦联受体 C 家族 6 组 A
+T479	Anatomy 5743 5749	GPRC6a
+T480	Anatomy 5768 5770	胰岛
+T481	Anatomy 5784 5790	GPRC6a
+T482	Disease 5800 5807	葡萄糖耐量受损
+T483	Test 5808 5811	胰岛素
+T484	Anatomy 5841 5843	胰岛
+T485	Test 5844 5849;5850 5854	细胞周期蛋 白 D1
+T486	Anatomy 5883 5889	GPRC6a
+T487	Anatomy 5910 5912	胚胎
+T488	Anatomy 5968 5971	肌纤维
+T489	Anatomy 5979 5992	肌纤维特异性 GPRC6a
+T490	Anatomy 6032 6038	小肠上皮细胞
+T491	Test 6042 6048	GPRC6a
+T492	Drug 6077 6081	ucOC
+T493	Method 6056 6057;6058 6061	腹 腔注射
+T494	Method 6062 6064	口服
+T495	Method 6065 6069	静脉注射
+T496	Anatomy 6104 6108	ucOC
+T497	Test 6126 6129	胰岛素
+T498	Anatomy 6140 6142	骨骼
+T499	Anatomy 6202 6203	骨
+T500	Test 6229 6232	胰岛素
+T501	Anatomy 6240 6243	胰岛素
+T502	Test 6260 6264	ucOC
+T503	Anatomy 6276 6278	瘦素
+T504	Anatomy 6317 6321	ucOC
+T505	Anatomy 6326 6329	胰岛素
+T506	Anatomy 6339 6343	ucOC
+T507	Symptom 6395 6397	高糖
+T508	Anatomy 6450 6451	骨
+T509	Anatomy 6506 6507	骨
+T510	Symptom 6520 6524	高糖状态
+T511	Duration 6517 6519	长期
+T512	Anatomy 6540 6541	骨
+T513	Anatomy 6545 6546	骨
+T514	Anatomy 6670 6671	骨
+T515	Anatomy 6735 6738	胰岛素
+T516	Anatomy 6823 6824	骨
+T517	Anatomy 6828 6831;6832 6834	I 型 胶原
+T518	Anatomy 6869 6880	AMP 依赖的蛋白激酶
+T519	Anatomy 6905 6908	脂肪酸
+T520	Anatomy 6935 6937	胶原
+T521	Anatomy 6941 6943	基质
+T522	Anatomy 6964 6965	骨
+T523	Symptom 6985 6987	高糖
+T524	Anatomy 7013 7014	骨
+T525	Anatomy 7123 7128	胰岛素受体
+T526	Anatomy 7140 7142;7143 7146	胰岛 素受体
+T527	Anatomy 7152 7153	骨
+T528	Test 7159 7163	ucOC
+T529	Test 7174 7177	胰岛素
+T530	Anatomy 7245 7248	脂肪酸
+T531	Anatomy 7293 7294;7295 7300	脂 肪前体细胞
+T532	Anatomy 7475 7478	线粒体
+T533	Anatomy 7483 7485	脂肪
+T534	Anatomy 7635 7636	骨
+T535	Anatomy 7677 7679	瘦素
+T536	Anatomy 7738 7740	瘦素
+T537	Anatomy 7760 7762	脂肪
+T538	Test 7828 7830	骨量
+T539	Test 7906 7908	骨量
+T540	Anatomy 7929 7930	骨
+T541	Test 7960 7962	骨量
+T542	Test 8016 8020	ucOC
+T543	Anatomy 8029 8033	ucOC
+T544	Test 8055 8058	胰岛素
+T545	Anatomy 8078 8082	ucOC
+T546	Anatomy 8142 8146	ucOC
+T547	Test 8158 8161	胰岛素
+T548	Test 8230 8234	ucOC
+T549	Test 8287 8291	ucOC
+T550	Test 8321 8327	胰岛素敏感性
+T551	Test 8616 8623	ghrelin
+T552	Disease 8999 9004	心血管危险
+T553	Test 9387 9394	血清骨形成指标
+T554	Test 9395 9400	骨吸收指标
+T555	Disease 9520 9525	糖代谢紊乱
+T556	Test 9583 9586	胰岛素
+T557	Anatomy 9609 9612	胰岛素
+T558	Anatomy 9617 9618	骨
+T559	Test 9627 9631	ucOC
+T560	Anatomy 9648 9650;9651 9652	胰岛 素
+T561	Test 9708 9713	骨转换指标
+T562	Test 9792 9797	骨转换指标
+T563	Test 9835 9840	骨吸收指标
+T564	Test 9846 9850	ucOC
+T565	Anatomy 9876 9877	骨
+T566	Test 9920 9925	骨形成指标
+T567	Test 9926 9931	骨吸收指标
+T568	Test_Value 9932 9933;9934 9935	下 降
+T569	Anatomy 9969 9970	骨
+T570	Test_Value 10043 10045	增加
+T571	Test 10071 10074	胰岛素
+T572	Anatomy 10108 10109	骨
+T573	Disease 10294 10299	代谢性疾病
+T574	Duration 10333 10335	长期
+T575	Test 10488 10492;10493 10495	胰岛素敏 感性
+T576	Test 10615 10620	胆固醇活性
+T577	Anatomy 10700 10701	骨
+T578	Drug 10838 10848	促进骨合成代谢的药物
+T579	Duration 10880 10884	3 个月
+T580	Test_Value 10897 10899	上升
+T581	Test_Value 10916 10917;10918 10919	降 低
+T582	Duration 10983 10986	4 周
+T583	Test_Value 10997 10999	升高
+T584	Test_Value 11005 11007	下降
+T585	Anatomy 11044 11045	骨
+T586	Symptom 2701 2706	糖利用障碍
+T587	Anatomy 6793 6795	骨骼
+T588	Test_Value 7165 7167	减少
+T589	Disease 7531 7535	代谢紊乱
+T590	Test_Value 8968 8970	升高
+T591	Test_Value 9515 9517	降低
+T592	Treatment 10606 10612	激素替代治疗
+T593	Test_Value 11603 11605	正常
+T594	Disease 7037 7043	2 型糖尿病
+T595	Test 8574 8581;8582 8589	稳态模型评估的 胰岛素抵抗指数
+T596	Test 7106 7113	饱和游离脂肪酸
+T597	Anatomy 287 294	胰岛 β 细胞
+T598	Anatomy 3555 3562	胰岛 β 细胞
+T599	Anatomy 4036 4043	胰岛 β 细胞
+T600	Anatomy 5391 5398	胰岛 β 细胞
+T601	Anatomy 5686 5693	胰岛 β 细胞
+T602	Anatomy 6219 6226	胰岛 β 细胞
+T603	Anatomy 8042 8049	胰岛 β 细胞
+T604	Anatomy 11193 11200	胰岛 β 细胞
+T605	Anatomy 7499 7502	ROS
+T606	Test 3200 3205	羧化骨钙素
+T607	Anatomy 4839 4844	骨钙素受体
+T608	Test 8248 8253	活性骨钙素
+T609	Test 8891 8894	骨钙素
+T610	Reason 9348 9357;9358 9359	较低的基线骨钙素水 平
+T611	Test 8483 8486	瘦体重
+T612	Reason 10396 10408	高血清可溶性 RANKL
+T613	Anatomy 4079 4084	GLP-1
+T614	Disease 9022 9029	早发心血管疾病
+T615	Anatomy 2688 2692	脂肪组织
+T616	Anatomy 7699 7705	骨髓脂肪组织
+T617	Anatomy 5876 5878;5879 5880	骨钙 素
+T618	Drug 10868 10871	PTH
+T619	Drug 10971 10974	PTH
+T620	Reason 11377 11380;11381 11383	胰岛素 抵抗
+T621	Disease 11281 11283	不育
+T622	Test 11271 11274	骨钙素
+T623	Test 11206 11212;11213 11216	胰岛 β 细 胞功能
+T624	Reason 216 221	胰岛素抵抗
+T625	Disease 297 302	新发糖尿病
+T626	Anatomy 2684 2686	肌肉
+T627	Test 2744 2751	骨髓腔脂肪含量
+T628	Disease 2768 2774	2 型糖尿病
+T629	Anatomy 2794 2796	椎体
+T630	Anatomy 2797 2799	股骨
+T631	Disease 2800 2805	非椎体骨折
+T632	Disease 3541 3544	高血糖
+T633	Anatomy 3569 3573	β 细胞
+T634	Test 4876 4888	正血糖-高胰岛素钳夹实验
+T635	Anatomy 5218 5222	破骨细胞
+T636	Anatomy 5292 5304	成骨细胞特异性胰岛素受体
+T637	Symptom 5452 5455	低血糖
+T638	Anatomy 5817 5821	β 细胞
+T639	Anatomy 5894 5898	β 细胞
+T640	Symptom 6001 6004	高血糖
+T641	Anatomy 6281 6283	脂肪
+T642	Anatomy 6284 6286	大脑
+T643	Anatomy 6287 6288;6289 6292	交 感神经
+T644	Test 6456 6462	髓腔脂肪含量
+T645	Anatomy 6761 6769	葡萄糖转运子 1
+T646	Anatomy 6771 6776	Glut1
+T647	Anatomy 6803 6808	Runx2
+T648	Anatomy 7052 7056	四肢远端
+T649	Disease 7056 7058	骨折
+T650	Test 7270 7276	骨髓脂肪含量
+T651	Anatomy 7651 7652;7653 7658	骨 髓脂肪组织
+T652	Anatomy 7706 7709;7710 7711	外周脂 肪
+T653	Anatomy 7754 7758	外周脂肪
+T654	Test 8008 8010;8011 8014	羧化 骨钙素
+T655	Anatomy 8312 8315;8316 8317	β 细 胞
+T656	Test 8563 8567	血清瘦素
+T657	Disease 9034 9039	老年糖尿病
+T658	Anatomy 9067 9071	β 细胞
+T659	Anatomy 9458 9459;9460 9462	β 细胞
+T660	Test 9715 9718	胰岛素
+T661	Test 9992 9995	胰岛素
+T662	Disease 10115 10119	骨质疏松
+T663	Treatment 10219 10225	激素替代治疗
+T664	Treatment 10550 10556	激素替代治疗
+T665	Test 10627 10630	雌激素
+T666	Disease 10858 10859;10860 10863	骨 质疏松
+T667	Test 10888 10890;10891 10892	骨钙 素

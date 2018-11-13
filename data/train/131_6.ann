@@ -1,0 +1,418 @@
+T1	Disease 4153 4159	2 型糖尿病
+T2	Disease 12847 12853	2 型糖尿病
+T3	Test 5348 5353	HDL-C
+T4	Test 8496 8501	HDL-C
+T5	Test 8975 8980	HDL-C
+T6	Test 9794 9799	HDL-C
+T7	Test 10289 10294	HDL-C
+T8	Test 11288 11293	HDL-C
+T9	Test 8479 8484	LDL-C
+T10	Test 8923 8928	LDL-C
+T11	Test 9777 9782	LDL-C
+T12	Test 10237 10242	LDL-C
+T13	Test 11333 11338	LDL-C
+T14	Test 236 240	空腹血糖
+T15	Test 4559 4563	空腹血糖
+T16	Test 5283 5284;5285 5288	空 腹血糖
+T17	Test 5773 5777	空腹血糖
+T18	Test 5794 5798	空腹血糖
+T19	Test 6304 6308	空腹血糖
+T20	Test 7077 7081	空腹血糖
+T21	Test 7420 7424	空腹血糖
+T22	Test 8513 8517	空腹血糖
+T23	Test 9811 9815	空腹血糖
+T24	Test 11377 11381	空腹血糖
+T25	Test 5299 5308	高密度脂蛋白胆固醇
+T26	Test 7066 7068;7069 7076	高密 度脂蛋白胆固醇
+T27	Test 7410 7419	高密度脂蛋白胆固醇
+T28	Test 8981 8990	高密度脂蛋白胆固醇
+T29	Test 10295 10304	高密度脂蛋白胆固醇
+T30	Test 5355 5358;5359 5365	低密度 脂蛋白胆固醇
+T31	Test 6957 6962;6963 6967	低密度脂蛋 白胆固醇
+T32	Test 7399 7405;7406 7409	低密度脂蛋白 胆固醇
+T33	Test 8929 8938	低密度脂蛋白胆固醇
+T34	Test 10243 10252	低密度脂蛋白胆固醇
+T35	Test 5294 5298	总胆固醇
+T36	Test 7061 7065	总胆固醇
+T37	Test 7394 7398	总胆固醇
+T38	Test 8129 8133	总胆固醇
+T39	Test 9410 9414	总胆固醇
+T40	Test 11237 11241	总胆固醇
+T41	Test 6944 6948	体重指数
+T42	Test 8068 8072	体重指数
+T43	Test 9349 9353	体重指数
+T44	Test 10701 10705	体重指数
+T45	Test 10849 10853	体重指数
+T46	Test 11038 11042	体重指数
+T47	Test 13478 13482	体重指数
+T48	Test 3863 3866	收缩压
+T49	Test 4628 4631	收缩压
+T50	Test 5164 5167	收缩压
+T51	Test 5625 5628	收缩压
+T52	Test 5674 5677	收缩压
+T53	Test 5714 5717	收缩压
+T54	Test 6935 6936;6937 6939	收 缩压
+T55	Test 7283 7286	收缩压
+T56	Test 7969 7972	收缩压
+T57	Test 9250 9253	收缩压
+T58	Test 10498 10501	收缩压
+T59	Test 11130 11133	收缩压
+T60	Test 13090 13093	收缩压
+T61	Test 3909 3912	舒张压
+T62	Test 4647 4650	舒张压
+T63	Test 5181 5184	舒张压
+T64	Test 5648 5651	舒张压
+T65	Test 5692 5695	舒张压
+T66	Test 5731 5734	舒张压
+T67	Test 6940 6943	舒张压
+T68	Test 7287 7290	舒张压
+T69	Test 8004 8007	舒张压
+T70	Test 9285 9288	舒张压
+T71	Test 10601 10604	舒张压
+T72	Test 10835 10838	舒张压
+T73	Test 11164 11165;11166 11168	舒 张压
+T74	Test 5049 5051	腰围
+T75	Test 6949 6951	腰围
+T76	Test 7297 7299	腰围
+T77	Test 8040 8042	腰围
+T78	Test 9321 9323	腰围
+T79	Test 11074 11076	腰围
+T80	Test 5412 5414	尿酸
+T81	Test 7082 7084	尿酸
+T82	Test 7305 7307	尿酸
+T83	Test 8551 8553	尿酸
+T84	Test 9849 9851	尿酸
+T85	Test 11424 11426	尿酸
+T86	Test 13251 13253	尿酸
+T87	Test 13488 13490	尿酸
+T88	Test 5289 5293	甘油三酯
+T89	Test 6952 6956	甘油三酯
+T90	Test 7300 7304	甘油三酯
+T91	Test 8099 8103	甘油三酯
+T92	Test 9380 9384	甘油三酯
+T93	Test 11192 11196	甘油三酯
+T94	Disease 4692 4695	脑卒中
+T95	Disease 4721 4724	脑卒中
+T96	Disease 4897 4900	脑卒中
+T97	Disease 6493 6496	脑卒中
+T98	Disease 6516 6519	脑卒中
+T99	Disease 6645 6648	脑卒中
+T100	Test 3377 3380	BMI
+T101	Test 3664 3667	BMI
+T102	Test 3434 3436	UA
+T103	Test 3673 3675	UA
+T104	Test 4980 4982	身高
+T105	Test 5020 5022	身高
+T106	Test 4983 4985	体重
+T107	Test 5034 5036	体重
+T108	Disease 87 90	糖尿病
+T109	Disease 92 95	高血压
+T110	Disease 164 167	糖尿病
+T111	Disease 169 172	高血压
+T112	Test_Value 240 254	>7. 0 mmol / L
+T113	Test_Value 256 270	<7. 0 mmol / L
+T114	Disease 276 279	糖尿病
+T115	Test 301 303	血压
+T116	Test_Value 304 318	<140 / 90 mmHg
+T117	Test 395 397	血压
+T118	Disease 424 427	高血压
+T119	Disease 338 339;340 342	糖 尿病
+T120	Disease 487 490	高血压
+T121	Disease 491 494	糖尿病
+T122	Disease 648 651	高血压
+T123	Disease 727 730	高血压
+T124	Disease 809 812	糖尿病
+T125	Disease 817 820	高血压
+T126	Reason 828 831;832 835	正常高 值血压
+T127	Reason 867 869	男性
+T128	Reason 901 913	年龄 50 ~ 60 岁
+T129	Reason 947 954	年龄>60 岁
+T130	Reason 988 991	收缩压
+T131	Reason 1101 1104;1105 1108	正常高 值血压
+T132	Disease 1111 1114	糖尿病
+T133	Disease 1116 1119	高血压
+T134	Disease 1130 1133	高血压
+T135	Reason 1146 1148	男性
+T136	Reason 1149 1151	年龄
+T137	Reason 1153 1156	收缩压
+T138	Reason 1157 1161	体重指数
+T139	Disease 1168 1171	糖尿病
+T140	Disease 1176 1179	高血压
+T141	Disease 1194 1197	糖尿病
+T142	Disease 1199 1202	高血压
+T143	Test_Value 3867 3881	120 ~ 139 mmHg
+T144	Test_Value 3913 3925	80 ~ 89 mmHg
+T145	Test 4000 4002	血压
+T146	Disease 4008 4014	心脑血管事件
+T147	Disease 4023 4026	糖尿病
+T148	Symptom 4031 4036	慢性高血糖
+T149	Disease 4068 4077	微血管及大血管病变
+T150	Disease 4114 4117	糖尿病
+T151	Disease 4120 4123	糖尿病
+T152	Disease 4125 4128	高血压
+T153	Disease 4161 4164	高血压
+T154	Disease 4206 4207;4208 4210	糖 尿病
+T155	Disease 4213 4216	高血压
+T156	Disease 4276 4279	糖尿病
+T157	Disease 4283 4286	高血压
+T158	Test_Value 4563 4568;4569 4577	>7. 0 mmol / L
+T159	Test_Value 4579 4593	<7. 0 mmol / L
+T160	Disease 4599 4602	糖尿病
+T161	Test 4625 4627	血压
+T162	Test_Value 4632 4637;4638 4642	< 140 mmHg
+T163	Test_Value 4650 4658	<90 mmHg
+T164	Disease 4666 4669	高血压
+T165	Disease 4699 4703	心肌梗死
+T166	Disease 4726 4730	心肌梗死
+T167	Disease 4731 4732;4733 4734	死 亡
+T168	Disease 4884 4887	高血压
+T169	Disease 4891 4894	糖尿病
+T170	Disease 4903 4907	心肌梗死
+T171	Disease 4910 4914	血脂异常
+T172	Anatomy 5055 5056	脐
+T173	Test 5091 5092;5093 5094	血 压
+T174	Test 5103 5105	血压
+T175	Test 5404 5408;5409 5410	LDL- C
+T176	Test 5415 5424	高敏 C 反应蛋白
+T177	Test 5463 5469	hs-CRP
+T178	Disease 5613 5619	正常高值血压
+T179	Test_Value 5629 5643	120 ~ 139 mmHg
+T180	Test_Value 5652 5659;5660 5664	80 ~ 89 mmHg
+T181	Disease 3854 3858;3859 3861	正常高值 血压
+T182	Disease 80 86	正常高值血压
+T183	Test_Value 5677 5686	<120 mmHg
+T184	Test_Value 5696 5705	< 80 mmHg
+T185	Disease 5706 5709	高血压
+T186	Test_Value 5717 5721;5722 5726	>140 mmHg
+T187	Test_Value 5734 5742	>90 mmHg
+T188	Drug 5748 5751;5752 5755	抗高血 压药物
+T189	Disease 5765 5768	糖尿病
+T190	Test_Value 5778 5792	>7. 0 mmol / L
+T191	Test_Value 5798 5812	<7. 0 mmol / L
+T192	Disease 5821 5824	糖尿病
+T193	Test_Value 6308 6313;6314 6322	>7. 0 mmol / L
+T194	Test_Value 6324 6338	<7. 0 mmol / L
+T195	Disease 6344 6347	糖尿病
+T196	Disease 6382 6384;6385 6389	正常 高值血压
+T197	Disease 6398 6401	高血压
+T198	Disease 6413 6416	糖尿病
+T199	Disease 6456 6462	正常高值血压
+T200	Disease 6488 6492	心肌梗死
+T201	Disease 6503 6507	心肌梗死
+T202	Disease 6649 6650;6651 6654	心 肌梗死
+T203	Disease 6664 6668	心肌梗死
+T204	Disease 6675 6677;6678 6679	脑卒 中
+T205	Disease 6881 6887	正常高值血压
+T206	Disease 6920 6926	正常高值血压
+T207	Test 6968 6970	肌酐
+T208	Disease 6978 6981	高血压
+T209	Disease 6985 6988	糖尿病
+T210	Disease 6993 6996	糖尿病
+T211	Disease 7000 7003	糖尿病
+T212	Disease 7123 7126	高血压
+T213	Disease 7131 7134	高血压
+T214	Disease 7239 7242	高血压
+T215	Disease 7253 7256	高血压
+T216	Disease 7262 7265	高血压
+T217	Test 7308 7314	hs-CRP
+T218	Test 7291 7294;7295 7296	体重指 数
+T219	Disease 7366 7369	高血压
+T220	Disease 7373 7376	糖尿病
+T221	Disease 7381 7384	糖尿病
+T222	Disease 7388 7391	糖尿病
+T223	Test 7427 7429	肌酐
+T224	Disease 7549 7552	高血压
+T225	Disease 7708 7711	高血压
+T226	Test 10784 10786	血压
+T227	Disease 10788 10791	高血压
+T228	Test_Value 10838 10841;10842 10846	<80 mmHg
+T229	Test_Value 10853 10864	<28 kg / m2
+T230	Test_Value 10865 10876	>28 kg / m2
+T231	Disease 10926 10929	高血压
+T232	Disease 10944 10949;10950 10951	正常高值血 压
+T233	Test_Value 11043 11054	<28 kg / m2
+T234	Test_Value 11058 11069	>28 kg / m2
+T235	Test_Value 11077 11078;11079 11084	< 85 cm
+T236	Test_Value 11103 11109	<80 cm
+T237	Test_Value 11114 11120	>80 cm
+T238	Test_Value 11135 11144	<120 mmHg
+T239	Test_Value 11149 11158	>120 mmHg
+T240	Test_Value 11169 11177	<80 mmHg
+T241	Test_Value 11180 11188	>80 mmHg
+T242	Test_Value 11216 11230	>1. 7 mmol / L
+T243	Test_Value 11244 11250;11251 11259	< 5. 7 mmol / L
+T244	Test_Value 11265 11280	> 5. 7 mmol / L
+T245	Test_Value 11296 11302;11303 11311	< 1. 0 mmol / L
+T246	Test_Value 11315 11329	>1. 0 mmol / L
+T247	Test_Value 11339 11353	<3. 3 mmol / L
+T248	Test_Value 11357 11371	>3. 3 mmol / L
+T249	Test_Value 11382 11396	<7. 0 mmol / L
+T250	Test_Value 11401 11402;11403 11416	> 7. 0 mmol / L
+T251	Test_Value 11429 11443	< 416 μmol / L
+T252	Test_Value 11449 11454;11455 11463	> 416 μmol / L
+T253	Test_Value 11472 11485	<339 μmol / L
+T254	Test_Value 11490 11503	>339 μmol / L
+T255	Test 11513 11515	肌酐
+T256	Test_Value 11518 11532	< 133 μmol / L
+T257	Test_Value 11537 11550	>133 μmol / L
+T258	Test_Value 11560 11574	< 124 μmol / L
+T259	Test_Value 11579 11592	>124 μmol / L
+T260	Test 11603 11609	hs-CRP
+T261	Test_Value 11610 11622	<3. 0 mg / L
+T262	Test_Value 11625 11637	>3. 0 mg / L
+T263	Disease 11671 11674	高血压
+T264	Disease 11690 11693	糖尿病
+T265	Disease 11710 11713	糖尿病
+T266	Disease 11734 11737	糖尿病
+T267	Disease 11787 11790	糖尿病
+T268	Disease 11792 11795	高血压
+T269	Reason 11802 11808	正常高值血压
+T270	Reason 11809 11810;11811 11812	男 性
+T271	Reason 11813 11825	年龄 50 ~ 60 岁
+T272	Reason 11826 11833	年龄>60 岁
+T273	Reason 11834 11838	体重指数
+T274	Reason 11839 11842	收缩压
+T275	Disease 11862 11865	糖尿病
+T276	Disease 11871 11876	心血管疾病
+T277	Disease 11887 11892	心血管疾病
+T278	Disease 11911 11917	正常高值血压
+T279	Disease 11855 11861	正常高值血压
+T280	Test 11920 11922	血压
+T281	Disease 11929 11932	高血压
+T282	Disease 11936 11942	心脑血管疾病
+T283	Disease 11958 11964	正常高值血压
+T284	Disease 11967 11970	高血压
+T285	Disease 11992 11998	正常高值血压
+T286	Disease 12000 12003	糖尿病
+T287	Disease 12005 12008	高血压
+T288	Disease 12023 12026	糖尿病
+T289	Disease 12028 12031	高血压
+T290	Disease 12100 12103	糖尿病
+T291	Disease 12148 12154	正常高值血压
+T292	Disease 12156 12159	糖尿病
+T293	Disease 12162 12165	高血压
+T294	Test 12172 12174	血压
+T295	Disease 12262 12265	高血压
+T296	Disease 12105 12108	高血压
+T297	Disease 12310 12313	糖尿病
+T298	Disease 12316 12319	高血压
+T299	Disease 12405 12411	正常高值血压
+T300	Disease 12414 12417	高血压
+T301	Disease 12508 12511	高血压
+T302	Disease 12626 12632	正常高值血压
+T303	Disease 12634 12637	高血压
+T304	Disease 12697 12700	高血压
+T305	Disease 12807 12813	正常高值血压
+T306	Disease 12813 12816	糖尿病
+T307	Disease 12819 12822	高血压
+T308	Disease 12915 12921	正常高值血压
+T309	Disease 12940 12941;12942 12947	正 常高值血压
+T310	Disease 12947 12950	糖尿病
+T311	Disease 12958 12964	正常高值血压
+T312	Disease 12968 12971	糖尿病
+T313	Disease 12978 12981	高血压
+T314	Disease 13012 13015	糖尿病
+T315	Disease 13017 13020	高血压
+T316	Reason 12992 12998	体重指数增加
+T317	Reason 12999 13004	收缩压升高
+T318	Reason 13006 13010	尿酸增高
+T319	Disease 13050 13055;13056 13057	正常高值血 压
+T320	Disease 13060 13063	糖尿病
+T321	Disease 13065 13068	高血压
+T322	Reason 13036 13039	收缩压
+T323	Reason 13040 13044	体重指数
+T324	Test_Value 13093 13102	>120 mmHg
+T325	Test_Value 13105 13114	<120 mmHg
+T326	Disease 13117 13120	高血压
+T327	Test 13158 13161	尿肌酐
+T328	Test_Value 13167 13181	> 133 μmol / L
+T329	Test_Value 13191 13196;13197 13205	> 124 μmol / L
+T330	Disease 13211 13214	高血压
+T331	Anatomy 13292 13294;13295 13296	胰岛 素
+T332	Disease 13300 13306	高胰岛素血症
+T333	Anatomy 13308 13310	肾脏
+T334	Anatomy 13329 13333	血管内皮
+T335	Anatomy 13344 13346	血管
+T336	Disease 13355 13358	高血压
+T337	Disease 13366 13372	正常高值血压
+T338	Disease 13372 13375	糖尿病
+T339	Disease 13390 13393	糖尿病
+T340	Disease 13401 13407	正常高值血压
+T341	Disease 13411 13414	糖尿病
+T342	Disease 13448 13454	正常高值血压
+T343	Disease 13455 13458	糖尿病
+T344	Test 13483 13485;13486 13487	收缩 压
+T345	Disease 13507 13510	高血压
+T346	Disease 13591 13594	高血压
+T347	Disease 13703 13707;13708 13710	正常高值 血压
+T348	Disease 13710 13713	糖尿病
+T349	Disease 13717 13720	高血压
+T350	Test 5001 5003	体重
+T351	Test 8630 8632	肌酐
+T352	Test 9928 9930	肌酐
+T353	Test 1061 1063	尿酸
+T354	Disease 496 499	高血压
+T355	Test 573 575	血压
+T356	Anatomy 5263 5266	肘静脉
+T357	Test 5667 5669	血压
+T358	Test 6832 6834	血压
+T359	Test 6899 6901	血压
+T360	Test 6912 6914	正常
+T361	Disease 7465 7468	高血压
+T362	Disease 7488 7491	糖尿病
+T363	Disease 7510 7515	高 血 压
+T364	Test 7639 7641	血压
+T365	Test 10429 10431	血压
+T366	Test_Value 10501 10510	<120 mmHg
+T367	Test_Value 10511 10525	120 ~ 130 mmHg
+T368	Test_Value 10527 10541	130 ~ 140 mmHg
+T369	Disease 10544 10547	高血压
+T370	Test_Value 10605 10609;10610 10614	< 80 mmHg
+T371	Test_Value 10615 10627	80 ~ 85 mmHg
+T372	Test_Value 10628 10640	85 ~ 89 mmHg
+T373	Disease 10643 10646	高血压
+T374	Test_Value 10705 10716	<28 kg / m2
+T375	Test_Value 10718 10729	>28 kg / m2
+T376	Disease 10730 10733	高血压
+T377	Disease 10904 10907	高血压
+T378	Test 12504 12506	血压
+T379	Test 12645 12647	血压
+T380	Anatomy 13261 13265;13266 13271	肾素血管 紧张素系统
+T381	Anatomy 13272 13275	RAS
+T382	Disease 13377 13380	高血压
+T383	Test 13388 13390	血压
+T384	Disease 157 163	正常高值血压
+T385	Drug 284 288	降糖药物
+T386	Duration 369 379	12 ~ 39 个月
+T387	Disease 3966 3972	正常高值血压
+T388	Test_Value 4005 4007	升高
+T389	Disease 4058 4063	代谢性疾病
+T390	Test 5234 5238	生化指标
+T391	Disease 5594 5597	高血压
+T392	Test 5997 6001	生化指标
+T393	Test 5991 5994;5995 5996	人体测 量
+T394	Test 10964 10966	年龄
+T395	Test_Value 10968 10973	<40 岁
+T396	Test_Value 10978 10988	40 ~ <50 岁
+T397	Test_Value 10994 11004	50 ~ <60 岁
+T398	Test_Value 11009 11014	>60 岁
+T399	Anatomy 13317 13319;13320 13322	交感 神经
+T400	Anatomy 13520 13525	心血管系统
+T401	Reason 1162 1164	尿酸
+T402	Test 6914 6916	血压
+T403	Reason 13045 13047	尿酸
+T404	Test 1025 1029	体重指数
+T405	Test 12992 12996	体重指数
+T406	Test 12999 13002	收缩压
+T407	Disease 3942 3947	高血压前期
+T408	Symptom 4049 4053	代谢紊乱
+T409	Reason 4199 4205	正常高值血压
+T410	Reason 4269 4275	正常高值血压
+T411	Test 5160 5162	血压
+T412	Anatomy 5155 5160	右侧肱动脉
+T413	Disease 6822 6828	正常高值血压
+T414	Test 7085 7091	hs-CRP
+T415	Test_Value 11089 11095	>85 cm
+T416	Test_Value 11197 11202;11203 11211	<1. 7 mmol / L
+T417	Anatomy 13277 13280	肾小球
+T418	Anatomy 13281 13283	血管

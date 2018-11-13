@@ -1,0 +1,314 @@
+临床研究
+(张克勤)
+甲状腺过氧化物酶抗体阳性孕妇妊娠结局
+的初步研究
+刘正云  张克勤
+[摘要]   目的  探讨单纯甲状腺过氧化物酶抗体(TPOAb)阳性(指高于正常参考值)与妊娠不良结
+局的关联以及对其进行临床干预的必要性;探讨孕产妇 TPOAb 变化特点及临床干预对其走势的影响。 方
+法 收集了 2012 年 6 月至 2015 年 2 月定期随访的 TPOAb 阳性孕产妇 189 例,根据甲状腺功能分为:组 1
+(n=122 例),单纯 TPOAb 阳性伴甲状腺功能正常者;组 2(n=67 例),TPOAb 阳性合并 TSH 升高并接受左
+旋甲状腺素(L-T4)干预者;另设组 3(n=120 名),TPOAb 阴性的健康孕妇。 孕期定期随访甲状腺功能至产
+后 6 周。 结果 与组 3 比较,组 1 患者的胎膜早破、羊水异常及胎儿窘迫的患病风险升高,相对危险度
+(RR)分别为 3. 066、4. 782、2. 605(均 P<0. 01),而妊娠期糖尿病、妊娠期高血压、早产、不良孕产史差异无
+统计学意义(P>0. 05)。 与组 3 比较,组 2 患者的胎膜早破、羊水异常与胎儿窘迫风险增加,RR 分别为
+3. 830、5. 537、3. 600(均 P<0. 01),而妊娠期糖尿病发生率、妊娠期高血压、早产、不良孕产史差异无统计学
+意义(P>0. 05)。 组 1 与组 2 比较,上述各观察指标之间差异无统计学意义(P>0. 05)。 TPOAb 变化趋势:
+组 1、组 2 的 TPOAb 水平从 T1 期(妊娠早期)到 T3 期(妊娠晚期)均呈下降趋势,产后 6 周再次升高,两组
+间同期的中位数值差异未见明显统计学意义(均 P>0. 05)。 结论 单纯 TPOAb 阳性孕妇的胎膜早破、羊
+水异常及胎儿窘迫的发生率明显高于健康孕妇;纠正 TPOAb 阳性孕妇的甲状腺功能仍然不能降低其妊娠
+不良结局。 妊娠期 TPOAb 从 T1 期至 T3 期整体呈下降趋势,产后 6 周再次升高;L-T4干预对 TPOAb 孕期
+的走势无明显影响。
+[关键词]   妊娠期; 甲状腺过氧化物酶抗体; 妊娠结局
+A preliminary study on the pregnancy outcomes of pregnant women with positive thyroid peroxidase antibody
+Liu Zhengyun*, Zhang Keqin. *Department of Endocrinology, International Peace Maternity and Children Healthcare
+Hospital, Shanghai Jiaotong University School of Medicine, Shanghai 200030, China
+[Abstract]   Objective   To explore the correlation between simple thyroid peroxidase antibody ( TPOAb)
+positive (higher than the normal reference value ) and the adverse pregnancy outcomes; and to discuss the necessity of
+clinical intervention on TPOAb positive and the characteristic of gestational thyroid peroxidase antibody changes. To
+study wether clinical intervention affects its direction. Methods Subjects were selected from TPOAb positive
+pregnant women during June 2012 to February 2015. They were registered regularly for thyroid function during
+pregnancy and 6 weeks postpartum, and timely treated for abnormal thyroid function. They were grouped according to
+the thyroid function: Group 1 (n=122), simple TPOAb positive group; Group 2(n=67), patients with elevated TSH
+and positive TPOAb who accept the levothyroxine (L-T4 ) intervention; Group 3(n = 120), TPOAb negative healthy
+pregnant women. They were regularly tested for thyroid function during pregnancy, and with follow-up until 6 weeks
+postpartum. Results When Group 1 compared with Group 3: the risk of premature rupture of membranes, abnormal
+amniotic fluid, and fetal distress rate increased, the relative risk (RR) were 3. 066, 4. 782, 2. 605, all P <0. 01,
+while the gestational diabetes, gestational hypertension, preterm birth, abnormal gestation and birth showed no
+statistical differences(P>0. 05) . When Group 2 compared with Group 3, the risk of premature rupture of membranes,
+abnormal amniotic fluid, and fetal distress increased ( RR were 3. 830, 5. 537, 3. 600 respectively, all P <
+0. 01) . While gestational diabetes, gestational hypertension, preterm birth, abnormal gestation and birth did not show
+any statistical difference (P>0. 05) . Compared with Group 2, Group 1 had no statistical difference between the above
+observational parameters. The levels of TPOAb from stage T1(the first trimester) to T3(the third trimester) showed a
+overall downward trend in Group 1 and Group 2, rise again six weeks after child birth. Comparison of the two groups
+(Group 1 and Group 2), the median value during this period did not reveal any significantly statistical differences(P>
+0. 05) . Conclusion In simple TPOAb positive pregnant women, premature rupture of membranes, abnormality in
+amniotic fluid, and fetal distress were significantly higher than those in healthy pregnant women; even with thyroid
+function correction the TPOAb positive pregnant women still cannot reduce the adverse pregnancy outcomes. Levels of
+TPOAb from T1 to T3 presented the overall downward trend and to rise again six weeks after pregnancy. L-T4
+intervention for TPOAb positive pregnancy did not show any significant effect.
+[Key words]  Pregnancy; Thyroid peroxidase antibody; Pregnancy outcomes
+(Chin J Endocrinol Metab, 2015, 31: 1041-1045)
+妊娠合并甲状腺疾病为妊娠期妇女的多发病,现
+有研究表明:妊娠期甲状腺功能减退对妊娠妇女和胎
+儿均可造成危害[1-4]。 同时,也有证据表明,妊娠期甲
+状腺自身抗体阳性也与妊娠不良结局及其后代发育不
+良有关[5-8]。 鉴于此,一些医院相继开展了妊娠期甲状
+腺自身抗体的筛查并进行此类抗体与妊娠不良结局的
+关联性研究。 但是以往关于甲状腺过氧化物酶抗体
+(TPOAb)阳性与妊娠结局关联的研究重点大多以
+TPOAb 为分类标准,研究其与妊娠不良结局的关联
+性,未按患者妊娠期的甲状腺功能状态进行详细分类
+统计,比如妊娠期甲状腺功能是否正常? 是否合并甲
+状腺功能减退或者 TSH 偏高? 同时单纯 TPOAb 阳性
+对妊娠结局的影响及左旋甲状腺素(L-T4)干预后对妊
+娠结局及 TPOAb 孕期滴度有无影响的相关研究亦甚
+少,因此,本次研究内容重点如下:(1) 妊娠期单纯
+TPOAb 阳性对妊娠结局的影响及 L-T4 干预后对妊娠
+结局的影响。 (2)妊娠期 TPOAb 的变化特点及临床
+干预后对其走势及滴度变化有无影响。
+对象和方法
+一、对象
+本研究对象为 2012 年 6 月至 2015 年 2 月间于上
+海交通大学医学院附属国际和平妇幼保健院登记建卡
+并分娩,同时妊娠期间于内科就诊并定期随访的
+TPOAb 阳性孕妇。 另外孕前 TPOAb 阳性在本院产科
+登记建卡并分娩,亦纳入观察对象,随访至产后 6 周。
+二、方法
+1. 初始资料的建立:第一次就诊登记患者基本资
+料,包括:门诊号、姓名、年龄、体重指数、孕期体重增
+加、既往不良孕产史等,登记患者体格检查情况(包括
+甲状腺),之后每次就诊登记患者孕期甲状腺功能(主
+要 FT4、TSH、TPOAb),就诊结束约定随访日期,随访间
+隔 4 ~ 6 周,随访至晚孕。 分娩结束,登记妊娠结局及
+产科并发症。 全部资料均录入电脑,计算孕周并编号,
+阅门诊及住院电子病史补充相关临床资料,如妊娠期
+出现的不良病情等,力争资料详尽。 不符合纳入研究
+标准的病例均不在本次最后统计分析之列。
+2. 组间资料收集及纳入统计病例标准:选取符合
+入选条件的病例 189 例做观察组,年龄在 26 ~ 42 岁之
+间,孕次在 1 ~ 3 次之间,根据有无药物干预分成单纯
+TPOAb 阳性组 122 例[平均年龄(30. 29 ± 3. 68)岁],
+L-T4 干预组 67 例[平均年龄(31. 24 ± 3. 47)岁],排除
+病例包括早孕流产、中孕后开始随访病例、优甲乐干预
+但部分未达标病例、低 T4血症、甲状腺功能亢进病例,
+产前发热等。 随机选取同期分娩的 120 名健康孕妇纳
+入对照组[平均年龄(30. 25 ± 3. 76)岁]。 各组年龄,
+孕前体重指数,孕期体重增加量之间比较均无统计学
+差异(P>0. 05)。 纳入统计病例标准:从 T1 ~ T3 期及
+产后 6 周一直在内科就诊及随访的 TPOAb 阳性病例,
+妊娠早、中、晚期,每一期甲状腺功能检查次数≥1 次。
+观察组各期甲状腺功能状态见下文,TPOAb 初次登记
+数值在 5. 61 ~ 1 000 IU / ml 之间。
+3. 分组标准: ( 1 ) 单纯 TPOAb 阳性组 ( 单纯
+TPOAb 阳性伴甲状腺功能正常者,组 1,n = 122 例):
+TPOAb 阳性 (高于本院 TPOAb 正常值上限 5. 61
+IU / ml)。妊娠早期开始随访,孕期定期复诊,随访期间
+未用药,FT4在孕期正常范围[本院标准:妊娠早期(即
+T1 期,妊娠第 12 周末以前):11. 49 ~ 18. 84 pmol / L;妊
+娠中期(即 T2 期,妊娠第 13 周至第 27 周末):9. 74 ~
+17. 15 pmol / L;妊娠晚期(即 T3 期,妊娠第 28 周至分
+娩):9. 63 ~ 18. 33 pmol / L]; TSH: T1 期 0. 1 ~ 2. 5
+mIU / L,T2 期 0. 2 ~ 3. 0 mIU / L,T3 0. 3 ~ 3. 0 mIU / L。
+(2)L-T4 干预组(TPOAb 阳性合并 TSH 升高并接受优
+甲乐干预者,组 2,n=67 例):妊娠早期开始随访,发现
+TSH 升高后及时干预,孕期定期复诊,治疗目标:FT4、
+TSH 在孕期正常范围(同上)。 (3)健康对照组(组 3,
+n=120 名):无既往内外妇科病史,孕期 TPOAb 阴性,
+FT4、TSH 在正常范围,孕期体检正常,无内外科并发
+症。
+4. 不良妊娠结局与产科并发症定义:(1)流产:妊
+娠不足 28 周、胎儿体重不足 1 000 g 而终止者。 在妊
+娠 12 周以前终止者称早期流产,在妊娠 12 周至不足
+28 周终止者称晚期流产。 (2)早产:妊娠满 28 周至不
+满 37 周间分娩者。 (3)胎膜早破:胎膜破裂发生在临
+产前。 (4)胎儿窘迫:又称胎窘,胎儿在子宫内因缺氧
+和酸中毒危及其健康和生命的综合征,分为急性胎儿
+窘迫(主要发生在分娩期,包括胎心率异常、羊水胎粪
+污染、胎动异常和酸中毒)和慢性胎儿窘迫(主要发生
+在妊娠末期,往往延续至临产并加重,包括胎动减少或
+消失、胎儿电子监护异常、胎儿生物物理评分低、胎盘
+功能低下和羊水胎粪污染) [9]。 (5)妊娠期高血压:妊
+娠导致的高血压,合并或不合并蛋白尿。 多见于妊娠
+20 周以后,多数产后 42 天缓解[9]。 新近定义为包括
+妊娠期高血压、子痫前期、子痫、慢性高血压、慢性高血
+压并发子痫前期。 本组研究参照原来定义即妊娠期高
+血压、子痫前期、子痫。 (6)妊娠期糖尿病:指妊娠期
+初次发生或发现的任何程度的糖代谢异常。 以上妊娠
+结局及产科并发症的诊断均由产科医生作出判断。
+5. 标本的采集与实验室检测:FT4、TSH、TPOAb 检
+测方法:分别采用 ARCHITECT 游离 T4试剂盒(6C50)、
+ARCHITECT TSH 试剂盒(6C52)和 ARCHITECT Anti-
+TPO 试剂盒(2K47)进行检测,其中 FT4、TSH 采取两步
+骤免疫检测,用于使用具有灵活的检测规程 (称为
+ChemiflexTM)的化学发光微粒免疫检测(CMIA)技术对
+游离 T4和 TSH 进行检测;TPOAb 用化学发光微粒子免
+疫分析 ( chemiluminesent microparticle immuno Assay,
+CMIA)技术,夹心两步法进行定量检测。
+三、统计学处理
+采用 SPSS 17. 0,计量资料为非正态分布时,以中
+位数表示,组间数据比较采用非参数秩和检验(Mann-
+Whitney 检验);数据符合正态分布时,均数采用 x-± s 表
+示,均数比较采用两样本 t 检验,多组间比较采用完全
+随机的方差分析,率的比较用卡方检验,P<0. 05 为差
+异有统计学意义。
+结    果
+一、甲状腺功能状态
+观察组各期 FT4、TSH 数值与对照组比较差异无
+统计学意义(P>0. 05,表 1)。
+二、妊娠期 TPOAb 阳性与妊娠结局及并发症
+与组 3 比较,组 1 患者的胎膜早破、羊水异常、胎
+儿窘迫发生率差异有统计学意义 ( 字2 = 9. 832,P =
+0. 002; 字2 =10. 738,P = 0. 001; 字2 = 12. 547,P<0. 01),
+胎膜早破、羊水异常及胎儿窘迫的患病风险增高
+(RR=3. 066, 95% CI 1. 489 ~ 6. 314; RR=4. 782, 95%
+CI 1. 740 ~ 13. 147;RR=2. 605,95% CI 1. 700 ~ 7. 114;
+均 P<0. 01),而妊娠期糖尿病、 妊娠期高血压、 早产、
+不良孕产史无统计学差异(P>0. 05,表 2)。
+与组 3 比较,组 2 患者的胎膜早破、羊水异常与胎
+儿窘迫率差异有统计学意义( 字2 = 11. 945,P = 0. 001;
+字2 =11. 474,P=0. 001; 字2 =11. 328,P=0. 001),胎膜早
+破、羊水异常与胎儿窘迫风险增高(RR = 3. 830,95%
+CI 1. 732 ~ 8. 467;RR=5. 537,95% CI 1. 879 ~ 16. 319;
+RR=3. 600,95% CI 1. 659 ~ 7. 812; 均 P<0. 01),而妊
+娠期糖尿病、妊娠期高血压、早产、不良孕产史无统计
+学差异(P>0. 05,表 2)。
+与组 2 比较,组 1 胎膜早破、羊水异常、胎窘、妊娠
+期糖尿病、 妊娠期高血压、 早产、不良孕产史之间均无
+统计学差异(P>0. 05,表 2)。
+三、TPOAb 孕期及产后变化趋势
+选取组 1 与组 2 中 TPOAb 资料完整者(自 T1 开
+表 1  甲状腺功能状态(x-± s)
+Tab 1  Thyroid functional state(x-± s)
+组别
+Group
+例数
+n
+早孕
+Early pregnancy
+中孕
+Second trimester
+晚孕
+Late pregnancy
+FT4 TSH FT4 TSH FT4 TSH
+3 120 15. 3 ± 1. 8 2. 2 ± 0. 8 12. 5 ± 1. 4 1. 3 ± 0. 5 11. 6 ± 1. 6 1. 6 ± 0. 5
+1 122 15. 7 ± 1. 7 1. 4 ± 0. 6 12. 6 ± 1. 6 1. 5 ± 0. 4 11. 0 ± 1. 4 1. 6 ± 0. 6
+2 67 15. 1 ± 2. 1 2. 7 ± 1. 6 12. 1 ± 1. 8 1. 7 ± 0. 4 11. 9 ± 1. 8 1. 8 ± 0. 3
+注:TPOAb:甲状腺过氧化物酶抗体 Thyroid peroxidase antibody;组 3 Group 3:TPOAb 阴性组 TPOAb negative group;组 1Group 1:单纯 TPOAb 阳性组
+Pure TPOAb positive group;组 2 Group 2:左旋甲状腺素干预组 Levothyroxine intervention group
+表 2  各组妊娠结局及并发症比较[n(% )]
+Tab 2  Pregnancy and pregnancy outcome and complications in various groups[n(% )]
+组别
+Group
+例数
+n
+妊娠期糖尿病
+Gestational diabetes
+妊娠期高血压
+Hypertensive disorder
+complicating pregnancy
+胎膜早破
+Premature rupture
+of membrane
+早产
+Premature rupture
+of membrane
+羊水异常
+Abnormal
+amniotic fluid
+胎儿窘迫
+Fetal distress
+不良孕产史
+Histories of
+abnormal pregnancy
+3 120 17(14. 2) 10(8. 3) 12(10. 0) 4(3. 3) 5(5. 8)   12(10. 0) 14(11. 7)
+1 122 13(10. 7) 10(8. 0) 31(25. 4) 3(2. 5) 21(17. 2) a 34(27. 8) a 18(14. 8)
+2 67 6(11. 3)   7(10. 4) 20(29. 9) 3(4. 5) 13(19. 4) a 22(32. 8) a 13(19. 4)
+注:TPOAb:甲状腺过氧化物酶抗体 Thyroid peroxidase antibody;组 3 Group 3:TPOAb 阴性组 TPOAb negative group;组 1Group 1:单纯 TPOAb 阳性组
+Simple TPOAb positive group;组 2 Group 2:左旋甲状腺素干预组 Levothyroxine intervention group;羊水异常项包括羊水过多、羊水过少及羊水污染
+Abnormal amniotic fluid including polyhydramnios, oligohydramnios, and amniotic fluid pollution;不良孕产史包括既往自然流产、死胎史 Histories of abnormal
+pregnancy including abortion fetal death in the past years;与组 3 比较 vs Group 3, aP<0. 05
+始,以下统计孕周间期内均有检查 TPOAb)其中组 1
+共 87 例,组 2 共 60 例。 按各期 TPOAb 中位数绘制曲
+线,组 1 和组 2 两组的 TPOAb 水平从 T1 期到 T3 期整
+体均呈下降趋势,产后 6 周较产前升高,TPOAb 变化
+情况见图 1。 其中组 1 与组 2 比较,两组同期的中位
+数值未见明显统计学差异(非参数秩和检验,12 周以
+前:Z= -1. 007,P = 0. 314;13 ~ 20 周:Z = -1. 18,P =
+0. 238;21 ~ 28 周:Z = -1. 261,P = 0. 207;29 ~ 分娩:
+Z= -1. 73,P=0. 084;产后:Z= -1. 409,P=0. 159)。
+单纯 TPOAb 阳性孕妇的胎膜早破、羊水异常及胎
+儿窘迫的发生率明显高于健康孕妇;纠正 TPOAb 阳性
+孕妇的甲状腺功能后不能进一步降低其妊娠不良结
+局。 妊娠期 TPOAb 从 T1 期至 T3 期整体呈下降趋势,
+产后 6 周再次升高;L-T4干预对 TPOAb 孕期的走势无
+明显影响。
+注:TPOAb:甲状腺过氧化物酶抗体 Thyroid peroxidase antibody
+图 1  TPOAb 孕期及产后变化趋势
+Fig 1  Variations of TPOAb level during pregnancy and postpartum
+讨    论
+甲状腺自身抗体主要包括 TPOAb、甲状腺球蛋白
+抗体(TgAb)和促甲状腺激素受体抗体(TRAb)等,是
+诊断自身免疫性甲状腺疾病(AITD)的主要免疫指标。
+其中,TPOAb 因其灵敏性和准确性高成为妊娠期甲状
+腺自身抗体筛选的主要指标。 临床上,TPOAb 阳性是
+诊断桥本甲状腺炎的重要指标,同时也是诊断 Graves
+病的辅助指标,尤其对于 TRAb 阴性的患者,高滴度的
+TPOAb 是甲状腺功能减退的危险因素。
+妊娠期 TSH 参考值分为两类,一类是本医院或者
+地区建立的妊娠期参考值,另一类是指南推荐的参考
+值。 妊娠期 TSH 正常值各地区间差别较大,而现有正
+常值的一个共同点是均高于 2011 美国甲状腺协会
+(ATA)指南中推荐的标准(2011 年 ATA 指南首次提
+出妊娠三期特异的 TSH 参考值,即 T1 期 0. 1 ~ 2. 5
+mIU / L;T2 期 0. 2 ~ 3. 0 mIU / L; T3 期 0. 3 ~ 3. 0
+mIU / L),鉴于 TPOAb 患者出现 TSH 偏高对妊娠造成
+的潜在风险,本研究中采用了从严的办法,即 TSH 采
+用 ATA 推荐标准[10]。
+孕期随访指标:2012 年 4 月中华医学会内分泌学
+分会及中华医学会围产医学分会联合发布的妊娠和产
+后甲状腺疾病诊治指南推荐对妊娠早期妇女开展甲状
+腺疾病筛查。 筛查指标建议选择血清 TSH、 FT4、
+TPOAb。 本研究亦选择 TSH、FT4、TPOAb 作为孕期主
+要检测指标,最后纳入临床研究的病例为 T1 期开始检
+测并持续整个孕期的 TPOAb 阳性孕妇。
+通过对 TPOAb 阳性孕妇孕期定期甲状腺功能随
+访,对部分 TSH 升高患者及时干预治疗以保证整个孕
+期患者的甲状腺功能处于正常状态。 最终的统计结果
+表明,单纯 TPOAb 阳性组胎膜早破、羊水异常及胎儿
+窘迫的患病率均明显高于健康妊娠妇女,对妊娠期
+TPOAb 阳性,甲状腺功能异常者给予优甲乐干预后,
+妊娠期不良结局与单纯 TPOAb 阳性者相似 ( P >
+0. 05),但胎膜早破、羊水异常及胎儿窘迫发生率仍高
+于健康妊娠妇女。 孕期 TPOAb 阳性伴甲状腺功能减
+退对妊娠结局的不良影响早有定论,本研究通过孕期
+密切随访与及时干预保证了整个观察过程患者甲状腺
+功能处于正常状态,但是此举并不能完全避免妊娠不
+良结局的发生,提示 TPOAb 阳性本身与妊娠不良结局
+相关。
+TPOAb 的滴度在妊娠期及产后亦有变化,本次临
+床观察发现从 T1 期到 T3 期 TPOAb 中位数呈下降趋
+势,产后 6 周复查较产前再次升高。 TPOAb 下降原因
+考虑与母体对胎儿的免疫妥协作用有关。 妊娠是母体
+对胎儿免疫排斥的一种平衡机制的体现,胎儿携带了
+父母双方的主要相容性复合体抗原,母体肯定要对胎
+儿发生免疫排斥。 为了保护胎儿,母体的免疫系统必
+然做出妥协并产生适度的免疫抑制。 本组的观察病例
+中 TPOAb 在孕期的变化趋势亦证实了这种变化。 给
+予 L-T4干预后,TPOAb 妊娠及产后同期的滴度中位数
+未见明显差异,提示 TPOAb 滴度不受临床干预药物的
+影响。
+TPOAb 阳性导致妊娠不良结局的机制尚未明确,
+较有代表性的有以下几种观点:(1)妊娠期胎儿细胞
+经胎盘转移到母体甲状腺的微嵌合状态可能导致抗甲
+状腺抗体对胎盘反应性增高,出现胎盘功能降低,流产
+风险增加[11]。 (2)抗体直接损害胎盘[12]。 (3)尽管
+甲状腺功能正常,但 TPOAb 阳性人群仍有轻微的甲状
+腺激素不足,尤其在妊娠时对甲状腺激素需求增加,这
+种甲状腺激素的轻微储备不足可导致流产。 (4)AITD
+妇女有轻度的受孕能力降低,将导致妊娠年龄延迟,增
+龄是导致流产倾向的独立危险因素[13-14]。
+总之,通过本次临床研究得出:TPOAb 本身可能
+导致妊娠不良,具体发生机制尚不明确,有待今后临床
+进一步探索与研究。 妊娠期 TPOAb 从早孕开始整体
+呈下降趋势,产后 6 周再次升高,TPOAb 妊娠期及产
+后滴度不受临床干预药物影响。

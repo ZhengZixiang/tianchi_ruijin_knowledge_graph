@@ -1,0 +1,274 @@
+基础研究
+基金项目:国家自然科学基金青年基金(81200580);教育部博士点
+基金新教师类(20120162120090);中央高校青年教师助推专项资助
+(2012QNZT157);湖南省自然科学基金(14JJ3042)
+糖尿病中心,中南大学代谢内分泌研究所,糖尿病免疫学教育部重点实
+验室(侯粲、王燕飞、蔺怡、周智广);湖南省医学表观基因组学重点实验
+室(梁功平、陆前进);第一作者现在中南大学湘雅二医院重症监护中心
+曲古霉素 A 和 5-氮杂胞苷对细胞因子诱导
+损伤的胰岛 β 细胞的保护作用
+侯粲  王燕飞  蔺怡  梁功平  陆前进  周智广
+[摘要]   目的   探讨细胞因子白细胞介素-1β 和干扰素-γ 诱导下曲古霉素 A(TSA)、5-氮杂胞苷
+(5-AzaC)及其联合干预对胰岛 β 细胞增殖、凋亡及功能的影响。 方法 采用白细胞介素-1β 和干扰素-γ
+诱导大鼠胰岛素瘤细胞(RIN-m5f)损伤,用 TSA、5-AzaC 对其进行干预。 具体分组:空白对照组、细胞因子
+诱导组、0. 05 / 0. 10 μmol / L TSA 干预组、0. 63 / 1. 25 μmol / L 5-AzaC 干预组、0. 10 μmol / L TSA+1. 25 μmol / L
+5-AzaC 联合干预组。 用 MTT 法检测 RIN-m5f 细胞的增殖活性,流式细胞技术检测细胞凋亡率及酶联免疫
+吸附法测定葡萄糖刺激胰岛素分泌能力。 结果 0. 05 / 0. 10 μmol / L TSA 干预组、0. 63 / 1. 25 μmol / L 5-AzaC
+干预组、0. 10 μmol / L TSA+1. 25 μmol / L 5-AzaC 联合干预组细胞增殖活性分别为 70. 1% / 79. 2% 、67. 3% /
+82. 9%和 89. 1% ,高于细胞因子诱导组的 33. 9% (P<0. 05);其凋亡率分别为 10. 3% / 10. 5% 、7. 9% / 9. 6%
+和 8. 2% ,低于细胞因子诱导组的 16. 6% (P<0. 05);各组葡萄糖刺激胰岛素分泌能力均比细胞因子诱导组
+升高(P<0. 05)。 结论 TSA 和 5-AzaC 可以促进细胞因子诱导的胰岛 β 细胞增殖,抑制其凋亡和恢复 β 细
+胞的胰岛素分泌功能。
+[关键词]   胰岛 β 细胞; 白细胞介素-1β; 干扰素-γ; 曲古霉素 A; 5-氮杂胞苷
+Protective effect of trichostatin a and 5-azacitidine on cytokine-induced toxicity in pancreatic β-cells    Hou
+Can*, Wang Yanfei, Lin Yi, Liang Gongping, Lu Qianjin, Zhou Zhiguang. *Department of Endocrinology, Institute
+of Metabolism and Endocrinology, Diabetes Center, the Second Xiangya Hospital, Central South University, Key
+Laboratory of Diabetes Immunology, Ministry of Education, Changsha 410011, China
+[Abstract]  Objective  To investigate the effect of trichostatin A ( TSA) and 5-azacitidine (5-AzaC) on
+pancreatic β-cells impaired by cytokine, via measuring the proliferation, apoptosis, and function of pancreatic β-
+cells. Methods RIN-m5f was impaired by interleukin-1β and interferon-γ in vitro, and treated with TSA and 5-
+AzaC. Experiment groups included blank control group, cytokine induction group, 0. 05 / 0. 10 μmol / L TSA group,
+0. 63 / 1. 25 μmol / L 5-AzaC group, and 0. 10 μmol / L TSA plus 1. 25 μmol / L 5-AzaC group. The viability of RIN-m5f
+cells was detected by MTT assay. Apoptotic rate was determined by Annexin V- fluorescein isothiocyanate(FITC) /
+propidium iodide flow cytometry. Insulin secretion was measured by enzyme-linked immunosorbent assay. Results
+The viability of RIN-m5f cells in 0. 05 / 0. 10 μmol / L TSA group, 0. 63 / 1. 25 μmol / L 5-AzaC group, and 5-AzaC plus
+TSA group was 70. 1% / 79. 2% , 67. 3% / 82. 9% , and 89. 1% respectively, being higher than that in the cytokine
+group (33. 9% , P<0. 05); the apoptosis rate was 10. 3% / 10. 5% ,7. 9% / 9. 6% , and 8. 2% , being lower than that
+in the cytokine group (16. 6% , P<0. 05); the capacity of glucose-stimulated insulin secretion of all the treated groups
+was higher than that in the cytokine group (P<0. 05) . Conclusion TSA and 5-AzaC might promote the proliferation
+of pancreatic β-cells impaired by cytokines, inhibit its apoptosis and recover its insulin secretion.
+[Key words]  Pancreatic β-cells; Interleukin-1β; Interferon-γ; Trichostatin A; 5-azacitidine
+(Chin J Endocrinol Metab, 2014, 30: 321-325)
+糖尿病中 β 细胞破坏的机制包括胰岛炎症、糖脂
+毒性及淀粉样肽沉积。 自身免疫性糖尿病是由 T 细
+胞介导的器官特异性自身免疫性疾病,其病理特征为
+免疫性胰岛炎。 胰岛周围浸润的炎症细胞产生白细胞
+介素-1β( interleukin-1β)和干扰素-γ( interferon-γ)损
+伤胰岛 β 细胞,细胞因子通过激活 NF-κB 通路、内质
+网应激等造成 β 细胞凋亡[1]。 因此白细胞介素-1β 和
+干扰素-γ 在糖尿病发病中起重要作用。
+表观遗传是指 DNA 序列不发生改变,而基因表达
+却发生了可遗传的变化,包括 DNA 甲基化、组蛋白修
+饰、染色质重塑和非编码 RNA 调控等。 已有的研究发
+现糖尿病患者出现 DNA 甲基化及组蛋白修饰异常,如
+2 型糖尿病患者外周血单个核细胞组 蛋 白 3 / 4
+(histone3 / 4)乙酰化修饰异常[2],炎症因子肿瘤坏死因
+子-α 及环氧化酶 2 过表达与其启动子区域组蛋白 3
+高乙酰化相关 [3] , 成人隐匿性自身免疫糖尿病患
+者 CD4 +T 细胞基因组整体甲基化水平升高 [4] 。 进
+一步研究发现 DNA 甲基转移酶 ( DNA methylation
+transferases)抑制剂 5-氮杂胞苷(5-azacitidine,5-AzaC)
+和组蛋白去乙酰化酶抑制剂曲古霉素 A( trichostatin
+A, TSA)联合干预正常人的 CD4+T 细胞能明显增加肿
+瘤坏死因子 SF7 基因启动子区组蛋白 3 乙酰化水平,
+从而使编码的 CD70 蛋白表达上调[5],表明表观干预
+可以通过改变基因的表观遗传修饰状态从而调控基因
+的表达。 然而 5-AzaC 及 TSA 联合干预对胰岛细胞的
+影响尚未见报道。
+本实验室已成功建立细胞因子白细胞介素-1β 和
+干扰素-γ 诱导大鼠胰岛素瘤细胞 RIN-m5f 损伤的细
+胞模型[6],本研究采用 TSA 和 5-AzaC 分别或联合干
+预该细胞模型,通过测定胰岛 β 细胞增殖活性、凋亡
+率及胰岛素分泌功能,观察表观干预对胰岛细胞的影
+响。
+材料和方法
+一、 材料和试剂
+大鼠胰岛素瘤细胞 RIN-m5f 由南京医科大学基础
+医学院韩晓教授惠赠,TSA、3-(4,5-二甲基噻唑-2)-2,
+5-二苯基四氮唑溴盐[3-(4,5-Dimethylthiazol-2-yl)-2,
+5-diphenyltetrazolium bromide, MTT]试剂盒购自美国
+SIGMA 公司,5-AzaC 购自美国 ALDRICH 公司,白细胞
+介素-1β 和干扰素-γ 购自美国 R&D Systems 公司,膜
+联蛋白-V ( Annexin V)-异硫氰酸荧光素 ( fluorescein
+isothiocyanate, FITC)凋亡检测试剂盒购自中国南京凯
+基公司,大鼠胰岛素酶联免疫吸附测定试剂盒购自美
+国 Millipore 公司。
+二、 方法
+1. 细胞培养与实验分组:大鼠胰岛 β 细胞株 RIN-
+m5f 在含 10% 胎牛血清的完全 1640 培养基中,于
+37℃、5% CO2条件下进行培养。 根据实验设计,将大
+鼠胰岛素瘤细胞(RIN-m5f)进行分组:空白对照组、细
+胞因子诱导组(白细胞介素-1β 2 ng / ml+干扰素-γ 100
+U / ml)、0. 05 / 0. 10 μmol / L TSA 干预组、0. 63 / 1. 25
+μmol / L 5-AzaC 干 预 组、 0. 10 μmol / L TSA + 1. 25
+μmol / L 5-AzaC 联合干预组。 干预组先用 TSA、5-AzaC
+进行干预,随后用白细胞介素-1β /干扰素-γ 诱导细胞
+损伤。 根据预实验的结果,确定 TSA 预处理时间为 30
+min,5-AzaC 预处理时间为 60 min,白细胞介素-1β 和
+干扰素-γ 诱导损伤的时间为 48 h。
+2. MTT 测定细胞增殖活性:每组设置 4 个复孔,
+各组处理终止前 4 h 往各培养孔中加入 5 mg / L 的
+MTT 20 滋l,继续在 5% CO2 细胞培养箱中 37℃培养 4
+h。 4 h 后吸弃培养孔内的上清,加入 150 滋l 二甲基亚
+砜(dimethyl sulfoxide, DMSO),用酶联免疫检测仪于
+570 nm 波长处测定其吸光值,结果取 4 个复孔的均
+值,间接反映活细胞数目。 细胞增殖活性(% )= (药
+物处理组 OD -空白组 OD) / (对照组 OD -空白组
+OD)×100% 。
+3. Annexin V-FITC /碘化丙啶 ( propidium iodide,
+PI)凋亡检测试验:细胞发生凋亡早期,分布于细胞膜
+内侧的磷脂酰丝氨酸翻向外侧,Annexin V-FITC 可结
+合磷脂酰丝氨酸从而识别凋亡早期细胞。 PI 不能透
+过完整细胞膜,而能透过凋亡中晚期细胞和死细胞细
+胞膜使其细胞核染红。 Annexin V-FITC 与 PI 联合使
+用,可以区分处于不同凋亡时期的细胞。 按说明书操
+作检测分组干预后的细胞,每组设置 4 个复孔,加样双
+染色后至流式细胞仪检测凋亡率(激发波长 488 nm,
+最大发射波长 523 nm),结果取 4 个复孔的均值。
+4. RIN-m5f 细胞胰岛素释放功能检测:葡萄糖刺
+激的胰岛素分泌(glucose stimulated insulin secretion)是
+用不同葡萄糖浓度刺激细胞分泌胰岛素。 用 3. 3
+mmol / L 或 25 mmol / L 葡萄糖碳酸氢盐缓冲液刺激
+RIN-m5f 细胞分泌胰岛素,检测胰岛素的分泌量并计
+算胰岛素刺激指数( insulin stimulation index),即在高
+糖溶液中收集的胰岛素水平数值与低糖溶液中数值的
+比值。 每个处理组设置 3 个复孔,按实验分组处理细
+胞后收集细胞,用 PBS 洗涤 RIN-m5f 细胞 3 次,加入 1
+ml 含 3. 3 mmol / L 或 25 mmol / L 葡萄糖碳酸氢盐缓冲
+液,37℃孵育 45 min,收集上清液,用酶联免疫吸附测
+定方法进行胰岛素的检测。
+三、 统计学处理
+每项实验重复 3 次,所得数据采用 SPSS 16. 0 软
+件包分析,多组间均数比较采用方差齐性检验与单因
+素方差分析,多组之间的两两比较采用 SNK-q 检验。
+计量资料中正态分布数据用 x- ± s。 P<0. 05 为差异有
+统计学意义。
+结    果
+一、 镜下 RIN-m5f 细胞形态
+正常 RIN-m5f 单层贴壁生长,细胞形态饱满,呈簇
+状生长。 白细胞介素-1β 和干扰素-γ 干预 48 h 后,可
+见细胞普遍收缩、 间隙增大、细胞变小边圆, 并有片状
+注:(A)正常 RIN-m5f 细胞 Normal RIN-m5f;(B)细胞因子处理后的 RIN-m5f 细胞 RIN-m5f treated with cytokine
+图 1  RIN-m5f 细胞(200×)
+Fig 1  RIN-m5f cells(200×)
+细胞脱失区,部分凋亡坏死细胞悬浮于细胞培养基中
+(图 1)。
+二、 RIN-m5f 细胞增殖活性检测
+用 MTT 测定细胞的增殖活性,根据培养板各孔的
+OD 值计算各组 RIN-m5f 细胞增殖活性。 细胞因子诱
+导组细胞增殖活性 低 于 空 白 对 照 组 ( 33. 9% 对
+100% ),证实细胞因子成功诱导 RIN-m5f 细胞的损
+伤。 0. 05 / 0. 10 μmol / L TSA 干预组及 0. 63 / 1. 25
+μmol / L 5-AzaC 干预组 RIN-m5f 细胞增殖活性分别为
+空白组的 70. 1% / 79. 2% 、67. 3% / 82 . 9% , 增殖活性
+注:Blank:空白对照组;CK:细胞因子诱导组 Cytokine group;TSA:曲
+古霉素 Trichostatin A;5-AzaC:5-氮杂胞苷 5-azacitidine;IL-1β:白细胞介
+素-1β Interleukin-1β;IFN-γ:干扰素-γ Interferon-γ;vs Blank, aP<0. 05;vs
+CK, bP<0. 05;vs TSA1, cP<0. 05;vs TSA2, dP<0. 05;vs TSA+5-AzaC,
+eP<0. 05
+图 2  不同浓度 TSA、5-AzaC 单独或联合干预对细胞因子诱导损伤的
+RIN-m5f 细胞增殖活性的影响
+Fig 2 The viability of the cytokine impaired RIN-m5f treated with different
+concentration of TSA and 5-AzaC respectively or in combination
+均高于细胞因子诱导组,且高浓度组中细胞增殖活性
+更高。 联合干预组的细胞增殖活性高于 0. 10 μmol / L
+TSA 处理组(89. 1%对 79. 2% , P<0. 05,图 2)。
+三、 RIN-m5f 细胞凋亡率检测
+0. 05 / 0. 10 μmol / L TSA 干预组及 0. 63 / 1. 25
+μmol / L 5-AzaC 干预组 RIN-m5f 细胞凋亡率分别为
+9. 6% / 8. 2% 、10. 3% / 10. 5% ,均低于细胞因子诱导组
+(16. 6% ),且 TSA 高浓度组的凋亡率低于低浓度组;
+联合干预组的凋亡率低于 1. 25 μmol / L 5-AzaC 组
+(7. 9%对 10. 5% , P<0. 05,图 3)。
+注:Blank:空白对照组;CK:细胞因子诱导组 Cytokine group;TSA:曲
+古霉素 Trichostatin A;5-AzaC:5-氮杂胞苷 5-azacitidine;IL-1β:白细胞介
+素-1βInterleukin-1β;IFN-γ:干扰素-γ Interferon-γ;vs Blank, aP<0. 05;vs
+CK, bP<0. 05;vs TSA1, cP<0. 05; vs 5-AzaC2, dP<0. 05
+图 3  不同浓度 TSA、5-AzaC 及联合干预对细胞因子诱导损伤的 RIN-
+m5f 细胞凋亡率的影响
+Fig 3 The apoptosis rate of the cytokine impaired RIN-m5f treated with
+different concentration of TSA and 5-AzaC respectively or in
+combination
+根据凋亡早期和凋亡中晚期细胞的不同特点,采
+用 Annexin V-FITC 与 PI 联合检测处于不同凋亡时期
+的细胞,根据凋亡细胞的检测原理,左下象限(FITC- /
+PI-)为活细胞,左上象限(FITC- / PI+)为机械损伤细
+胞,右上象限(FITC+ / PI+)为晚期凋亡或者坏死细胞,
+右下象限(FITC+ / PI-)为早期凋亡细胞。 凋亡细胞百
+分数用右侧象限(FITC+ / PI+)+(FITC+ / PI-)表示(图
+4)。
+四、 葡萄糖刺激的胰岛素分泌能力
+3. 3 mmol / L 或 25 mmol / L 葡萄糖碳酸氢盐缓冲液
+刺激时,细胞因子诱导组的胰岛素分泌量较空白对照
+组低。 TSA 处理组和 5-AzaC 处理组的 RIN-m5f 细胞
+胰岛素分泌量高于细胞因子诱导组,且高浓度干预组
+对胰岛素分泌量能力的恢复更明显。 在 25 mmol / L 葡
+萄糖刺激胰岛素分泌试验中,0. 10 μmol / L TSA+1. 25
+μmol / L 5-AzaC 联合干预组的细胞胰岛素分泌量高于
+0. 10 μmol / L TSA 干预组。
+对胰岛素刺激指数的统计分析发现细胞因子诱导
+注:CK:细胞因子诱导组 Cytokine group;TSA:曲古霉素 Trichostatin A;5-AzaC:5-氮杂胞苷 5-Azacitidine;Annexin V:膜联蛋白 V;FITC:异硫氰酸荧
+光素 Fluorescein isothiocyanate;PI:碘化丙啶 Propidium iodide
+图 4  流式细胞技术检测 RIN-m5f 细胞凋亡率
+Fig 4  The apoptosis rate of RIN-m5f detected by flow cytometry
+表 1  各组葡萄糖刺激胰岛素分泌量(x-± s)
+Tab 1  The amount of insulin in glucose-stimulated insulin secretion test(x-± s)
+组别
+Group
+胰岛素分泌
+Insulin secretion
+(ng / ml)
+3. 3 mmol / L 葡萄糖刺激
+Stimulated with 3. 3 mmol / L glucose
+25 mmol / L 葡萄糖刺激
+Stimulated with 25 mmol / L glucose
+胰岛素刺激指数
+Insulin stimulation index
+Blank 3. 39 ± 0. 09  6. 62 ± 0. 13 1. 96 ± 0. 02
+CK 1. 98 ± 0. 17a 3. 21 ± 0. 17a 1. 62 ± 0. 07a
+TSA 0. 05 μmol / L 2. 43 ± 0. 13b 4. 81 ± 0. 11b 1. 98 ± 0. 07b
+TSA 0. 10 μmol / L 2. 81 ± 0. 13bc 5. 53 ± 0. 16bc 1. 97 ± 0. 04b
+5-AzaC 0. 63 μmol / L 2. 38 ± 0. 09b 4. 96 ± 0. 27b 2. 09 ± 0. 03b
+5-AzaC 1. 25 μmol / L 2. 81 ± 0. 18be 5. 70 ± 0. 18be 2. 03 ± 0. 07b
+TSA 0. 10 μmol / L+5-AzaC 1. 25μmol / L 2. 86 ± 0. 14b 5. 90 ± 0. 10bd 2. 07 ± 0. 09b
+注:Blank:空白对照组;CK:细胞因子诱导组 Cytokine group;TSA:曲古霉素 Trichostatin A;5-AzaC:5-氮杂胞苷 5-azacitidine;vs Blank, aP<0. 05;vs
+CK, bP<0. 05;vs TSA 0. 05 μmol / L, cP<0. 05; vs TSA 0. 10 μmol / L, dP<0. 05;vs 5-AzaC 0. 63 μmol / L, eP<0. 05
+组的胰岛素分泌量低于空白对照组,TSA 和 5-AzaC 单
+独或联合干预组的胰岛素分泌量均高于细胞因子诱导
+组,但 TSA 和 5-AzaC 各个干预组之间胰岛素分泌量的
+差异没有统计学意义(表 1)。
+讨    论
+糖尿病患者体内多种关键基因的表观遗传修饰发
+生改变,胰岛细胞中与细胞功能、应激适应有关的基因
+CpG 岛出现甲基化修饰异常[7],胰岛素基因及调控其
+合成、功能的基因表达下调与这些基因的启动子区甲
+基化水平升高相关[8-10]。 白细胞介素-1β 已经证实是
+糖尿病的细胞外致病炎症因子[7,8],发生糖尿病的
+NOD 小鼠胰岛中有多种细胞因子浸润[11]。 本研究采
+用白细胞介素-1β 和干扰素-γ 成功诱导 RIN-m5f 细胞
+损伤,观察 TSA 和 5-AzaC 对胰岛 β 细胞的影响。
+组蛋白乙酰化由组蛋白乙酰转移酶 ( histone
+acetyltransferases,HATs)和组蛋白去乙酰化酶(histone
+deacetylases, HDACs)调节, HATs 使组蛋白发生乙酰
+化后促进基因的转录,而 HDACs 则抑制基因的表
+达[12]。 DNA 甲基化是由 DNA 甲基转移酶介导的与基
+因沉默相关的表观修饰方式,DNA 去甲基化则与基因
+的转录活化有关。 DNA 甲基化与组蛋白修饰之间并
+非相互独立,甲基化 CpG 结合蛋白家族有一共同结构
+域———甲基化 CpG 结合域,该结合域能在甲基化的启
+动子区募集 HDACs,使甲基化的启动子区进一步发生
+去乙酰化,共同参与基因的转录阻遏[13]。 TSA 通过与
+HDACs 活性位点的锌原子螯合发挥抑制酶活性的作
+用[14],5-AzaC 直接使 DNA 甲基转移酶失活,造成新合
+成的 DNA 链甲基化程度降低[15]。 本研究中观察到
+TSA 和 5-AzaC 增加 RIN-m5f 细胞的增殖活性并其凋
+亡,其胰岛素分泌能力明显恢复。 为观察 TSA 和
+5-AzaC 是否有协同保护作用,采用两者联合干预 RIN-
+m5f 细胞。 结果显示,在增殖活性及胰岛素分泌能力
+上,联合作用比单用 TSA 的保护作用更强;在凋亡率
+上,联合作用比单用 5-AzaC 的细胞凋亡率低。 因此,
+本研究提示 TSA 和 5-AzaC 在细胞因子诱导损伤的胰
+岛细胞模型中有协同保护作用。
+细胞实验和动物实验已证实对表观遗传修饰进行
+干预,可能可以预防糖尿病的发生或改善糖尿病模型
+的病理状态。 例如应用 TSA 或 HDAC3 抑制剂可减少
+细胞因子诱导的 β 细胞的凋亡[16,17],用含有 TSA 的培
+养液在体外培养 SD 大鼠胰岛,发现 TSA 增加组蛋白
+乙酰化水平,同时观察到与胰岛抗氧化应激能力增强
+的相关基因表达上调[18]。 5-AzaC 可通过诱导 Foxp3
+基因去甲基化,增加小鼠胸腺中的调节性 T 细胞,预
+防环磷酰胺诱导的 NOD 鼠糖尿病的发生[19]。
+本研究发现 TSA 和 5-AzaC 能对细胞因子诱导损
+伤的 β 细胞有保护作用,且存在协同作用。 联合用药
+是否可以降低药物剂量,从而减少药物不良反应、降低
+药物毒性并减少出现耐药的可能性,值得进一步探讨。

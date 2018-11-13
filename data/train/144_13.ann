@@ -1,0 +1,154 @@
+T1	Disease 3325 3331	2 型糖尿病
+T2	Drug 1638 1643	他汀类药物
+T3	Test 159 164	HBA1C
+T4	Test 2232 2237	HBA1C
+T5	Test 2382 2387	HBA1C
+T6	Test 3116 3121	HBA1C
+T7	Test 2393 2398	LDL-C
+T8	Test 2642 2647	LDL-C
+T9	Test 1741 1744	血脂谱
+T10	Test 2648 2657	低密度脂蛋白胆固醇
+T11	Test 3455 3464	低密度脂蛋白胆固醇
+T12	Test 2410 2414	总胆固醇
+T13	Disease 36 45	糖尿病下肢动脉病变
+T14	Disease 150 153	糖尿病
+T15	Test 165 170	纤维蛋白原
+T16	Anatomy 176 180	膝下动脉
+T17	Anatomy 181 185	膝上动脉
+T18	Disease 191 195	动脉病变
+T19	Disease 1252 1261	糖尿病下肢动脉病变
+T20	Disease 1334 1342	糖尿病 LEAD
+T21	Operation 1374 1381	下肢动脉介入术
+T22	Test 1483 1485	造影
+T23	Test 1538 1540	造影
+T24	Drug 1589 1594	低分子肝素
+T25	Drug 1608 1612	阿司匹林
+T26	Drug 1613 1615;1616 1618	西洛 他唑
+T27	Test 1632 1634	血糖
+T28	Test 1635 1637	血压
+T29	Test 1713 1719	下肢血管彩超
+T30	Test 1726 1731	纤维蛋白原
+T31	Test 1737 1739	血糖
+T32	Test 1746 1752	血管彩超检查
+T33	Test 1759 1768;1769 1771	下肢血管磁共振血管 成像
+T34	Test 1772 1778	动脉造影检查
+T35	Disease 1809 1812	再狭窄
+T36	Operation 2120 2124	支架植入
+T37	Disease 2224 2227	糖尿病
+T38	Test 2239 2241	Fg
+T39	Test 2258 2260	Fg
+T40	Disease 2684 2691	膝下动脉再狭窄
+T41	Anatomy 2694 2698	膝上动脉
+T42	Disease 3105 3108	糖尿病
+T43	Test 3134 3136	血糖
+T44	Anatomy 3169 3173	膝上动脉
+T45	Anatomy 3179 3183	膝下动脉
+T46	Disease 3219 3221;3222 3223	糖尿 病
+T47	Disease 3230 3236	膝下动脉病变
+T48	Anatomy 3241 3245	膝上动脉
+T49	Anatomy 3280 3284	膝下动脉
+T50	Disease 3287 3290	糖尿病
+T51	Disease 3333 3339	下肢血管病变
+T52	Disease 3375 3378	再狭窄
+T53	Test 3380 3382	Fg
+T54	Test 3396 3398	Fg
+T55	Disease 3402 3405	再狭窄
+T56	Disease 3444 3447	高血压
+T57	Disease 3467 3472	血管再狭窄
+T58	Disease 3482 3492	膝上动脉长段闭塞病变
+T59	Operation 3509 3513	支架植入
+T60	Disease 3522 3531	糖尿病下肢动脉病变
+T61	Disease 3537 3543	全身动脉病变
+T62	Disease 3551 3555	动脉硬化
+T63	Anatomy 3587 3591	膝上动脉
+T64	Drug 1478 1480	肝素
+T65	Treatment 1575 1579	术后治疗
+T66	Drug 1663 1672;1673 1674	改善循环的中西药制 剂
+T67	Operation 2317 2321	介入手术
+T68	Disease 2348 2351	糖尿病
+T69	Disease 2358 2361	高血压
+T70	Test 2368 2373	纤维蛋白原
+T71	Disease 2532 2534	狭窄
+T72	Disease 2712 2714	狭窄
+T73	Treatment 2734 2738	介入治疗
+T74	Anatomy 3044 3047;3048 3049	膝上动 脉
+T75	Disease 3606 3610	血管病变
+T76	Duration 126 133	2 ~ 4 年
+T77	Duration 1387 1394	2 ~ 4 年
+T78	Duration 1599 1602	5 d
+T79	Test_Value 1495 1498	50%
+T80	Test_Value 1519 1522	20%
+T81	Test_Value 1556 1559	30%
+T82	Disease 3158 3160;3161 3166	膝下 动脉再狭窄
+T83	Operation 1560 1570	植入自膨式血管内支架
+T84	Test_Value 1802 1805	50%
+T85	Test_Value 1866 1869	50%
+T86	Test_Value 2242 2244	较高
+T87	Test_Value 2269 2306	(2. 85 ± 0. 81 对 3. 36 ± 1. 02) g / L
+T88	Test_Value 3385 3387	增高
+T89	Test_Value 3399 3401	增高
+T90	Reason 3147 3154	代谢记忆效应冶
+T91	Operation 45 49	介入治疗
+T92	Disease 49 54	术后再狭窄
+T93	Operation 114 122	下肢动脉介入治疗
+T94	Disease 145 148	再狭窄
+T95	Disease 185 188	再狭窄
+T96	Operation 198 202	介入治疗
+T97	Disease 203 206	再狭窄
+T98	Operation 1205 1209	介入治疗
+T99	Disease 1209 1218	糖尿病下肢动脉疾病
+T100	Disease 1233 1236	再狭窄
+T101	Operation 1261 1265	介入治疗
+T102	Disease 1269 1272	再狭窄
+T103	Anatomy 1409 1413	膝上动脉
+T104	Anatomy 1429 1433	膝下动脉
+T105	Anatomy 1442 1449	膝上及膝下动脉
+T106	Treatment 1471 1475	介入治疗
+T107	Test 1487 1491	动脉狭窄
+T108	Operation 1502 1508	球囊扩张治疗
+T109	Test 1512 1514	造影
+T110	Test 1514 1516	狭窄
+T111	Operation 1526 1530	介入治疗
+T112	Operation 1533 1537	球囊扩张
+T113	Anatomy 1542 1548	股浅动脉血管
+T114	Test 1548 1552	残余狭窄
+T115	Operation 1585 1588	介入术
+T116	Operation 1782 1784	介入
+T117	Test 1789 1795	血管狭窄程度
+T118	Operation 1820 1822	介入
+T119	Operation 1843 1847	介入治疗
+T120	Test 1857 1858;1859 1862	狭 窄程度
+T121	Disease 1880 1883	再狭窄
+T122	Disease 2090 2093	再狭窄
+T123	Operation 2102 2104	介入
+T124	Anatomy 2134 2138	股浅动脉
+T125	Disease 2138 2140;2141 2142	再狭 窄
+T126	Disease 2147 2153	支架内再狭窄
+T127	Anatomy 2166 2169	髂动脉
+T128	Anatomy 2170 2173;2174 2175	股浅动 脉
+T129	Disease 2179 2182	再狭窄
+T130	Operation 2198 2202	介入手术
+T131	Disease 2220 2223	再狭窄
+T132	Disease 2252 2253;2254 2256	再 狭窄
+T133	Disease 2703 2706	再狭窄
+T134	Disease 3077 3080	再狭窄
+T135	Disease 3094 3097	再狭窄
+T136	Test 3199 3205	下肢动脉造影
+T137	Anatomy 3258 3262	膝下动脉
+T138	Anatomy 3263 3267	膝上动脉
+T139	Disease 3311 3319	糖尿病性血管病变
+T140	Test 3340 3342	血糖
+T141	Test 3343 3345	血脂
+T142	Test 3346 3348	血压
+T143	Disease 3350 3352;3353 3355	凝血 异常
+T144	Disease 3493 3499	局限闭塞病变
+T145	Disease 3499 3502	再狭窄
+T146	Operation 3565 3567	介入
+T147	Disease 3570 3573	再狭窄
+T148	Anatomy 3579 3586	糖尿病膝下动脉
+T149	Disease 3596 3599	再狭窄
+T150	Operation 3600 3602	介入
+T151	Disease 3614 3619	术后再狭窄
+T152	Reason 3624 3631;3632 3634	长期糖尿病代谢 异常
+T153	Reason 3636 3641	Fg 升高
+T154	Disease 3646 3649	再狭窄

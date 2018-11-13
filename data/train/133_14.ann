@@ -1,0 +1,291 @@
+T1	Test 1438 1441	肝功能
+T2	Disease 25 33	糖尿病酮症酸中毒
+T3	Disease 35 43	鼻脑型毛霉菌感染
+T4	Symptom 289 293	左侧脓涕
+T5	Symptom 294 298;299 301	左眼视力 下降
+T6	Duration 302 306	10 d
+T7	Symptom 308 310	多饮
+T8	Symptom 311 313	多尿
+T9	Symptom 314 316	消瘦
+T10	Duration 317 320	1 周
+T11	Test 362 364	体温
+T12	Test_Value 365 371	36. 5℃
+T13	Test 372 373;374 375	脉 搏
+T14	Test_Value 376 386	80 次 / min
+T15	Test 387 389	血压
+T16	Test_Value 390 403	120 / 70 mmHg
+T17	Symptom 423 426;427 430	左侧眼 睑肿胀
+T18	Symptom 431 435	上睑下垂
+T19	Symptom 445 449	眼球外凸
+T20	Symptom 450 453	活动差
+T21	Symptom 454 456;457 459	瞳孔 固定
+T22	Symptom 460 466	对光反射消失
+T23	Symptom 467 472	视力无光感
+T24	Symptom 473 481	左眼视盘边界欠清
+T25	Symptom 513 516;517 525	左侧中 鼻道见脓涕及痂皮
+T26	Test 531 534	白细胞
+T27	Test_Value 535 549	17. 62×109 / L
+T28	Test_Value 560 567	83. 01%
+T29	Test 575 578	葡萄糖
+T30	Test_Value 579 594	18. 06 mmol / L
+T31	Test 595 600;601 603	二氧化碳结 合力
+T32	Test_Value 604 618	12. 6 mmol / L
+T33	Test 619 625	D3 羟丁酸
+T34	Test_Value 626 640	6. 08 mmol / L
+T35	Test 641 645	血 pH
+T36	Test_Value 646 650	7. 2
+T37	Test 652 657	HCO-3
+T38	Test_Value 658 671	9. 7 mmol / L
+T39	Test 672 675	剩余碱
+T40	Test_Value 676 691	18. 60 mmol / L
+T41	Test 693 704	眼眶、鼻窦、颅脑 CT
+T42	Test_Value 722 728	全组副鼻窦炎
+T43	Test_Value 729 735;736 741	鼻咽顶后壁及 双侧壁增厚
+T44	Test 742 747	颅脑 CT
+T45	Disease 759 767;768 771	左侧侵袭性真菌性 鼻窦炎
+T46	Disease 772 779	左侧眶尖综合征
+T47	Disease 780 787	左眼眶蜂窝织炎
+T48	Disease 788 795;796 797	糖尿病酮症酸中 毒
+T49	Drug 803 806	胰岛素
+T50	Treatment 814 816	补液
+T51	Drug 817 821	头孢硫咪
+T52	Drug 826 829	氟康唑
+T53	Operation 835 843	功能性鼻内镜手术
+T54	Anatomy 847 851	左侧鼻腔
+T55	Anatomy 872 877	左侧中鼻甲
+T56	Anatomy 907 910	中鼻道
+T57	Test 921 925	病理活检
+T58	Disease 927 937	左侧中鼻甲黏膜慢性炎
+T59	Symptom 990 992	发热
+T60	Test 993 995	体温
+T61	Test_Value 996 1002	38. 9℃
+T62	Drug 1005 1010	左氧氟沙星
+T63	Symptom 1022 1026	烦躁不安
+T64	Symptom 1027 1032	对答不切题
+T65	Symptom 1033 1034;1035 1041	右 下肢活动减少
+T66	Test 1042 1050	颅脑、鼻窦 CT
+T67	Test_Value 1064 1070;1071 1073	左侧筛窦骨质 缺损
+T68	Test_Value 1074 1088	左侧筛窦及上颌窦炎症较前减少
+T69	Test_Value 1089 1097	鼻咽部软组织增厚
+T70	Test_Value 1101 1109	双侧额叶低密度灶
+T71	Symptom 1122 1124	发热
+T72	Symptom 1125 1128	昏睡状
+T73	Symptom 1129 1131;1132 1138	右侧 肢体肌张力高
+T74	Symptom 1139 1143	活动减少
+T75	Symptom 1144 1153	右侧查多克征(+)
+T76	Symptom 1154 1162	克氏征( ± )
+T77	Drug 1170 1174	头孢曲松
+T78	Treatment 1180 1185	脱水降颅压
+T79	Drug 1211 1214	氟康唑
+T80	Drug 1217 1221	头孢曲松
+T81	Test 1228 1233	脑脊液压力
+T82	Test 1243 1247	蛋白定量
+T83	Test_Value 1248 1259	0. 48 g / L
+T84	Test 1261 1264	红细胞
+T85	Test_Value 1265 1275	13×106 / L
+T86	Test 1276 1279	白细胞
+T87	Test_Value 1280 1290	71×106 / L
+T88	Test 1291 1295	多核细胞
+T89	Test_Value 1296 1299	31%
+T90	Test 1301 1305	单核细胞
+T91	Test_Value 1306 1309	69%
+T92	Test 1311 1314	葡萄糖
+T93	Test_Value 1315 1330	10. 69 mmol / L
+T94	Test 1331 1334	氯化物
+T95	Test_Value 1335 1350	136. 6 mmol / L
+T96	Test 1360 1371	颅脑、鼻窦和胸部 CT
+T97	Test_Value 1412 1418;1419 1426	双侧下叶背侧 少许感染性病变
+T98	Drug 1430 1433	氟康唑
+T99	Test 1442 1448	丙氨酸转氨酶
+T100	Test_Value 1449 1461	190. 5 U / L
+T101	Test 1463 1470	天冬氨酸转氨酶
+T102	Test_Value 1471 1480	194 U / L
+T103	Test 1482 1488	C 反应蛋白
+T104	Test_Value 1489 1499	430 mg / L
+T105	Test 1567 1570	痰培养
+T106	Test_Value 1571 1582	鲍曼不动杆菌多重耐药菌
+T107	Drug 1584 1588	美罗培南
+T108	Test 1600 1603	血常规
+T109	Test 1603 1606	白细胞
+T110	Test_Value 1607 1620	14. 4×109 / L
+T111	Test 1621 1629	颅脑、胸部 CT
+T112	Test_Value 1633 1657	双侧额叶、胼胝体膝部、左侧基底节辐射冠区低密度灶
+T113	Test_Value 1667 1674	双侧侧脑室扩大
+T114	Test_Value 1681 1689;1690 1695	双肺下叶背侧少许 渗出性病变
+T115	Test 1703 1708	脑脊液压力
+T116	Test_Value 1708 1719	>330 mm H2O
+T117	Test 1728 1732	蛋白定量
+T118	Test_Value 1733 1744	0. 68 g / L
+T119	Test 1745 1748	红细胞
+T120	Test_Value 1749 1759	5 ×106 / L
+T121	Test 1760 1763	白细胞
+T122	Test_Value 1764 1771;1772 1779	2 560 × 106 / L
+T123	Test 1780 1784	潘氏试验
+T124	Test_Value 1784 1786	阳性
+T125	Test 1793 1798	中性粒细胞
+T126	Test_Value 1799 1802	85%
+T127	Test 1804 1807	葡萄糖
+T128	Test_Value 1808 1822	3. 38 mmol / L
+T129	Test 1823 1826	氯化物
+T130	Test_Value 1827 1839	119 mmol / L
+T131	Drug 1858 1865	复方磺胺甲恶唑
+T132	Treatment 1883 1887	心肺复苏
+T133	Disease 1940 1943	糖尿病
+T134	Disease 1956 1960	毛霉菌病
+T135	Disease 1967 1979	条件致病性侵袭性真菌感染
+T136	Anatomy 1995 1997	鼻道
+T137	Anatomy 2001 2003	口腔
+T138	Disease 2042 2045	糖尿病
+T139	Disease 2053 2058	酮症酸中毒
+T140	Disease 2065 2071	免疫功能不全
+T141	Disease 2076 2084	血液系统恶性肿瘤
+T142	Level 2090 2092	严重
+T143	Disease 2092 2097	肾功能衰竭
+T144	Level 2098 2100	严重
+T145	Disease 2100 2102	烧伤
+T146	Disease 2103 2104;2105 2107	败 血症
+T147	Disease 2174 2177	糖尿病
+T148	Disease 2184 2189	酮症酸中毒
+T149	Symptom 2237 2239	头痛
+T150	Symptom 2267 2269	发热
+T151	Anatomy 2275 2277	眼眶
+T152	Symptom 2280 2287	眶周持续性肿胀
+T153	Anatomy 2292 2306;2307 2309	第 2、第 4、第 6 对颅 神经
+T154	Symptom 2313 2317	瞳孔散大
+T155	Symptom 2318 2322	眼球固定
+T156	Symptom 2323 2325	凸眼
+T157	Symptom 2326 2330	上睑下垂
+T158	Symptom 2331 2335	视力下降
+T159	Anatomy 2342 2344	大脑
+T160	Anatomy 2361 2364	脑脊液
+T161	Test 2364 2365;2366 2368	白 细胞
+T162	Disease 2371 2375	颅内感染
+T163	Disease 2376 2378	脑炎
+T164	Disease 2379 2382	脑膜炎
+T165	Symptom 2386 2388	偏瘫
+T166	Symptom 2389 2393	意识丧失
+T167	Disease 2427 2432	毛霉菌感染
+T168	Anatomy 2504 2506	血管
+T169	Anatomy 2510 2513	小动脉
+T170	Anatomy 2517 2519	血管
+T171	Anatomy 2522 2523;2524 2525	鼻 窦
+T172	Anatomy 2526 2528	眼部
+T173	Anatomy 2529 2531	大脑
+T174	Anatomy 2572 2575	小动脉
+T175	Disease 2640 2641;2642 2644	糖 尿病
+T176	Disease 2647 2652	酮症酸中毒
+T177	Disease 2658 2663	毛霉菌感染
+T178	Disease 2674 2679	酮症酸中毒
+T179	Anatomy 2790 2795	中性粒细胞
+T180	Anatomy 2811 2816;2817 2818	肺泡巨噬细 胞
+T181	Drug 2937 2940	头孢类
+T182	Drug 2941 2945	喹诺酮类
+T183	Drug 3025 3030	抗真菌药物
+T184	Drug 3033 3038	抗真菌药物
+T185	Drug 3078 3083	抗真菌药物
+T186	Drug 3096 3102	两性霉素 B
+T187	Disease 3124 3130	肺部细菌感染
+T188	Disease 3172 3175	糖尿病
+T189	Drug 3195 3198;3199 3203	多烯类 抗真菌药
+T190	Drug 3203 3209	两性霉素 B
+T191	Amount 3236 3243	2 ~ 5 g
+T192	Drug 3246 3252	两性霉素 B
+T193	Drug 3261 3264;3265 3272	两性霉 素 B 脂质体
+T194	Drug 3276 3283	新型三唑类药物
+T195	Drug 3283 3287	帕沙康唑
+T196	Drug 3296 3300	伏立康唑
+T197	Drug 3301 3304	氟康唑
+T198	Drug 3315 3318	氟康唑
+T199	Disease 3320 3325	肺毛霉菌病
+T200	Drug 3341 3344	氟康唑
+T201	Disease 3357 3358;3359 3362	毛 霉菌病
+T202	Treatment 3414 3416;3417 3420	高压 氧治疗
+T203	Anatomy 3423 3426	白细胞
+T204	Drug 3434 3444	两性霉素 B 脂质体
+T205	Disease 3467 3470	糖尿病
+T206	Disease 3477 3482	酮症酸中毒
+T207	Disease 3498 3505	非细菌性鼻窦炎
+T208	Disease 3512 3516	毛霉菌病
+T209	Drug 3545 3551;3552 3555	两性霉素 B 脂质体
+T210	Test 911 918	脓性分泌物培养
+T211	Test_Value 918 920	阴性
+T212	Disease 1590 1592	感染
+T213	Disease 1932 1934	死亡
+T214	Disease 1952 1954	感染
+T215	Disease 2129 2134	毛霉菌感染
+T216	Anatomy 2145 2146	肺
+T217	Anatomy 2141 2142	鼻
+T218	Anatomy 2142 2143	脑
+T219	Anatomy 2148 2150	肠胃
+T220	Anatomy 2152 2153;2154 2155	皮 肤
+T221	Anatomy 2165 2166	鼻
+T222	Anatomy 2166 2167	脑
+T223	Disease 2270 2272	感染
+T224	Disease 2404 2410	鼻脑型毛霉菌
+T225	Disease 2432 2434	死亡
+T226	Anatomy 2683 2689	血清转铁蛋白
+T227	Anatomy 2747 2749	酮体
+T228	Disease 2843 2845	死亡
+T229	Disease 2976 2980	真菌感染
+T230	Operation 3017 3022	病灶清创术
+T231	Disease 3109 3113	霉菌感染
+T232	Operation 3353 3356	清创术
+T233	Operation 3531 3533	手术
+T234	Drug 3537 3540	抗真菌
+T235	Treatment 325 329	抗炎治疗
+T236	Symptom 483 486;487 492	右侧眼 睑结膜苍白
+T237	Symptom 493 495	充血
+T238	Symptom 496 504	右侧眼球活动自如
+T239	Symptom 505 511	对光反射存在
+T240	Test 527 530	血常规
+T241	Test 570 573	血生化
+T242	Test_Value 748 752	未见异常
+T243	Symptom 877 880;881 882	骨质破 坏
+T244	Symptom 853 867	黑色干酪样物及大量脓性分泌物
+T245	Symptom 883 889	黏膜苍白坏死
+T246	Symptom 901 903	积脓
+T247	Test_Value 941 950	见有一些变性的菌孢
+T248	Test_Value 1233 1235	正常
+T249	Test 1236 1241	常规+生化
+T250	Test 1720 1723;1724 1726	常规+ 生化
+T251	Test 1787 1790	透明度
+T252	Test_Value 1790 1792	浑浊
+T253	Symptom 1892 1899	自主呼吸和心律
+T254	Symptom 2230 2233	起病急
+T255	Test_Value 2368 2370	增加
+T256	Symptom 2593 2595	缺氧
+T257	Anatomy 3398 3404	中枢神经系统
+T258	Operation 2085 2089	器官移植
+T259	Treatment 1175 1179	控制血糖
+T260	Symptom 286 288	头痛
+T261	Symptom 436 441	球结膜充血
+T262	Symptom 442 444	水肿
+T263	Test 550 555;556 559	中性粒细胞 百分率
+T264	Test_Value 706 707;708 713	双 侧眼球突出
+T265	Test_Value 714 721	内直肌腹稍增粗
+T266	Method 806 813	微量泵静脉滴注
+T267	Anatomy 890 895	左侧上颌窦
+T268	Anatomy 896 898	筛窦
+T269	Anatomy 899 901	额窦
+T270	Test_Value 951 966;967 974	左鼻腔肿物见坏死及炎性渗出及毛 霉菌团块和菌孢
+T271	Symptom 1198 1208	肺部可闻及少量湿罗音
+T272	Test_Value 1374 1389;1390 1396	双侧额叶、左侧基底节低密度灶较 前无明显变化
+T273	Test_Value 1397 1406	左侧内囊区低密度灶
+T274	Treatment 1840 1846	加大脱水力度
+T275	Symptom 1877 1881	呼吸骤停
+T276	Anatomy 2243 2245	鼻腔
+T277	Anatomy 2346 2348	颅内
+T278	Symptom 2350 2352	栓塞
+T279	Symptom 2353 2355	坏死
+T280	Symptom 2357 2360	脑软化
+T281	Symptom 2578 2582	血管栓塞
+T282	Symptom 2596 2599	酸中毒
+T283	Test 2774 2776	血糖
+T284	Test_Value 2773 2774	高
+T285	Test 2777 2784	血清 pH 值
+T286	Test_Value 2784 2786	低下
+T287	Drug 2961 2969	碳青霉烯类抗生素
+T288	Symptom 3178 3181	酸中毒
+T289	Anatomy 3485 3487	眼部
+T290	Disease 3488 3490;3491 3495	眶周 蜂窝织炎
+T291	Symptom 2247 2259	黑色干酪样物及脓性分泌物

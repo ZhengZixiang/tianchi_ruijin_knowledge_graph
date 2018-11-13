@@ -1,0 +1,373 @@
+T1	Test 1049 1054	HBA1C
+T2	Test 1641 1646	HBA1C
+T3	Test 4310 4315	HBA1C
+T4	Test 1621 1625	空腹血糖
+T5	Test 1520 1523	血肌酐
+T6	Test 3513 3516	血肌酐
+T7	Symptom 372 374	咳嗽
+T8	Symptom 375 377	发热
+T9	Duration 378 381	8 d
+T10	Symptom 382 384	多饮
+T11	Symptom 385 387	多尿
+T12	Duration 388 391	3 d
+T13	Symptom 392 394	嗜睡
+T14	Duration 395 396;397 398	1 d
+T15	Reason 411 413	受凉
+T16	Symptom 416 418	咳嗽
+T17	Symptom 419 421	发热
+T18	Disease 427 429	上感
+T19	Symptom 451 453	多饮
+T20	Symptom 454 456	多尿
+T21	Symptom 457 461;462 464	呕吐胃内 容物
+T22	Symptom 480 482	嗜睡
+T23	Symptom 483 485	懒言
+T24	Test 498 500	体温
+T25	Test_Value 501 507	36. 7℃
+T26	Test 508 510	脉搏
+T27	Test_Value 511 522	121 次 / min
+T28	Test 523 525	血压
+T29	Test_Value 526 538	80 / 40 mmHg
+T30	Level 561 563	重度
+T31	Symptom 563 566	脱水貌
+T32	Disease 603 606	糖尿病
+T33	Test 615 618	白细胞
+T34	Test_Value 619 632	19. 4×109 / L
+T35	Test 633 638	中性粒细胞
+T36	Test_Value 639 645	91. 3%
+T37	Test 647 650	尿常规
+T38	Test 680 682	血气
+T39	Test 685 687	pH
+T40	Test_Value 688 693	7. 15
+T41	Test 694 697	PO2
+T42	Test_Value 698 700;701 705	90 mmHg
+T43	Test 706 710	PCO2
+T44	Test_Value 711 718	38 mmHg
+T45	Test 720 724	碱剩 余
+T46	Test_Value 727 740	7. 0 mmol / L
+T47	Test 742 746	HCO3
+T48	Test_Value 749 754;755 763	12. 0 mmol / L
+T49	Test 764 766	K+
+T50	Test_Value 767 781	6. 25 mmol / L
+T51	Test 782 785	Na+
+T52	Test_Value 786 801	132. 6 mmol / L
+T53	Test 802 808	随机静脉血糖
+T54	Test_Value 809 824	44. 09 mmol / L
+T55	Test 825 829	血淀粉酶
+T56	Test_Value 830 839	787 U / L
+T57	Test 840 843	心电图
+T58	Test 881 883	CT
+T59	Test_Value 884 888	两肺炎症
+T60	Treatment 911 913	禁食
+T61	Treatment 914 916	补液
+T62	Drug 917 923	超短效胰岛素
+T63	Treatment 929 936	纠正电解质紊乱
+T64	Treatment 937 939	护胃
+T65	Treatment 940 946	抑制胰液分泌
+T66	Treatment 947 950	抗感染
+T67	Test 982 986	血电解质
+T68	Test 988 990	K+
+T69	Test_Value 991 1005	4. 18 mmol / L
+T70	Test 1007 1010	Na+
+T71	Test_Value 1011 1017;1018 1026	154. 1 mmol / L
+T72	Test 1027 1033	随机静脉血糖
+T73	Test_Value 1034 1048	17. 9 mmol / L
+T74	Test_Value 1055 1060	8. 0%
+T75	Test 1062 1067	血 C-肽
+T76	Test 1124 1132	谷氨酸脱羧酶抗体
+T77	Test 1133 1137	GADA
+T78	Test 1153 1156	TnI
+T79	Test_Value 1158 1171	33. 2 ng / ml
+T80	Test 1184 1189	血肌红蛋白
+T81	Test_Value 1189 1203	>1 000 ng / ml
+T82	Test 1205 1210;1211 1212	肌肉活检病 理
+T83	Test 1240 1247	EB 病毒抗体
+T84	Test 1248 1256	抗胰岛素自身抗体
+T85	Test 1259 1262	IAA
+T86	Test 1264 1271	抗胰岛细胞抗体
+T87	Test 1273 1276	ICA
+T88	Test 1278 1283	抗核抗体谱
+T89	Test 1284 1289	肝炎标志物
+T90	Test 1294 1302	胰腺、泌尿系超声
+T91	Test 1347 1349	肌酶
+T92	Disease 1354 1359	肾功能不全
+T93	Treatment 1363 1367	碱化尿液
+T94	Treatment 1368 1375	间段性血液滤过
+T95	Test 1440 1442	尿量
+T96	Test 1479 1485	胰腺 B 超
+T97	Test 1486 1491	胰腺 CT
+T98	Drug 1500 1504	生长抑素
+T99	Test_Value 1524 1536	212 μmol / L
+T100	Drug 1575 1578	调脂药
+T101	Drug 1581 1585;1586 1588	超短效胰 岛素
+T102	Test 1589 1591	血糖
+T103	Test 1605 1608	血常规
+T104	Test 1609 1612	脂肪酶
+T105	Test 1613 1616	TnI
+T106	Test_Value 1626 1640	18. 1 mmol / L
+T107	Test_Value 1647 1654	13. 80%
+T108	Test 1656 1662	糖化血清蛋白
+T109	Test_Value 1663 1666;1667 1675	977 μmol / L
+T110	Test 1687 1692	血 C-肽
+T111	Test 1724 1728	GADA
+T112	Test_Value 1728 1729	±
+T113	Test 1737 1741	总胆固醇
+T114	Test_Value 1742 1756	7. 25 mmol / L
+T115	Test 1757 1761	甘油三酯
+T116	Test_Value 1762 1767;1768 1776	2. 52 mmol / L
+T117	Test 1777 1786	高密度脂蛋白胆固醇
+T118	Test_Value 1787 1801	0. 87 mmol / L
+T119	Test 1802 1810;1811 1812	低密度脂蛋白胆固 醇
+T120	Test_Value 1813 1827	4. 21 mmol / L
+T121	Treatment 1835 1837	护肝
+T122	Treatment 1838 1840	调脂
+T123	Test 1869 1872	肝功能
+T124	Disease 1945 1949	FT1D
+T125	Anatomy 1958 1965	胰岛 β 细胞
+T126	Disease 1891 1906	暴 发 性 1 型 糖 尿 病
+T127	Disease 1978 1982	代谢紊乱
+T128	Level 1976 1978	严重
+T129	Disease 2039 2043	FT1D
+T130	Disease 2072 2076	FT1D
+T131	Disease 2078 2083	酮症酸中毒
+T132	Disease 2084 2087	DKA
+T133	Disease 2089 2096	高血糖高渗状态
+T134	Disease 2097 2102;2103 2105	低血容量性 休克
+T135	Disease 2120 2126	横纹肌溶解症
+T136	Disease 2127 2132	急性肝损伤
+T137	Disease 2134 2140	急性心肌损伤
+T138	Disease 2141 2148	社区获得性肺炎
+T139	Disease 2149 2156	非酒精性脂肪肝
+T140	Disease 2170 2174	FT1D
+T141	Disease 2783 2787	FT1D
+T142	Disease 2799 2809	胰腺内外分泌功能受损
+T143	Disease 2810 2814	FT1D
+T144	Anatomy 2817 2819	胰腺
+T145	Disease 2841 2848	1A 型糖尿病
+T146	Anatomy 2859 2863	β 细胞
+T147	Symptom 2883 2885	多饮
+T148	Symptom 2886 2888	多尿
+T149	Symptom 2889 2891	易饥
+T150	Symptom 2892 2893;2894 2898	高 血糖症状
+T151	Disease 2911 2913	酮症
+T152	Disease 2915 2918	DKA
+T153	Test 2929 2932	淀粉酶
+T154	Test 2933 2936	脂肪酶
+T155	Test 2945 2947	胰酶
+T156	Disease 3022 3027	急性胰腺炎
+T157	Disease 3033 3038	重症胰腺炎
+T158	Disease 3041 3048	特殊类型糖尿病
+T159	Anatomy 3082 3084	胰腺
+T160	Treatment 3102 3104	禁食
+T161	Treatment 3105 3111	抑制胰液分泌
+T162	Disease 3119 3125	横纹肌溶解症
+T163	Disease 3143 3145	RM
+T164	Reason 3147 3152	强体力活动
+T165	Reason 3153 3154;3155 3156	感 染
+T166	Reason 3157 3161	肌肉挤压
+T167	Reason 3162 3164	药物
+T168	Reason 3165 3170	电解质紊乱
+T169	Reason 3171 3176	内分泌失衡
+T170	Disease 3184 3189	横纹肌损伤
+T171	Anatomy 3190 3193	肌细胞
+T172	Symptom 3234 3236	肌痛
+T173	Symptom 3256 3258	乏力
+T174	Symptom 3259 3263	浓茶样尿
+T175	Test 3264 3270	肌肉活检病理
+T176	Test 3289 3291	CK
+T177	Test_Value 3291 3300	≥正常峰值 5 倍
+T178	Test_Value 3301 3302;3303 3314	> 1 000 U / L
+T179	Reason 3410 3415	肌细胞溶解
+T180	Reason 3416 3421	肾灌注不足
+T181	Disease 3489 3491	RM
+T182	Reason 3472 3474	低钠
+T183	Reason 3475 3479	低血容量
+T184	Reason 3480 3483	用药史
+T185	Treatment 3501 3505	血液滤过
+T186	Test 3534 3537	肾功能
+T187	Disease 3550 3554	FT1D
+T188	Disease 3557 3563	急性心肌损伤
+T189	Disease 3594 3597	DKA
+T190	Anatomy 3643 3645	心肌
+T191	Anatomy 3651 3653	心肌
+T192	Anatomy 3664 3666	心肌
+T193	Test 3682 3688;3689 3690	心肌坏死标志 物
+T194	Symptom 3712 3714	呕吐
+T195	Symptom 3715 3718	上腹痛
+T196	Symptom 3719 3720;3721 3722	休 克
+T197	Test 3723 3726	AST
+T198	Test 3727 3732	CK-MB
+T199	Test 3733 3736	TnI
+T200	Test 3765 3768	心电图
+T201	Test_Value 3768 3774	异常 Q 波
+T202	Disease 3778 3784	急性心肌梗死
+T203	Test 3800 3803	心肌酶
+T204	Test 3804 3807	心电图
+T205	Test 3817 3820	转氨酶
+T206	Disease 3840 3845	急性肝损伤
+T207	Reason 3849 3854;3855 3857	肝脏血液低 灌注
+T208	Reason 3858 3865	脂及糖代谢紊乱
+T209	Reason 3866 3868	RM
+T210	Reason 3869 3871	感染
+T211	Reason 3872 3876	药物毒性
+T212	Test 3897 3900	转氨酶
+T213	Treatment 3907 3909	护肝
+T214	Treatment 3910 3912	调脂
+T215	Treatment 3913 3915;3916 3920	严格 控制血糖
+T216	Test 3921 3924	肝功能
+T217	Disease 3931 3936	酒精性肝病
+T218	Disease 3937 3943;3944 3947	病毒性及药物 性肝病
+T219	Disease 3948 3955	自身免疫性肝病
+T220	Disease 3966 3971	肝功能损害
+T221	Disease 3991 4000	非酒精性脂肪性肝炎
+T222	Reason 3973 3980	肝糖原异常沉积
+T223	Reason 3981 3988	脂质过氧化损伤
+T224	Disease 4010 4014	FT1D
+T225	Drug 4030 4033	胰岛素
+T226	Disease 4045 4052	1A 型糖尿病
+T227	Disease 4058 4060	RM
+T228	Treatment 4085 4089	血液透析
+T229	Anatomy 4106 4110	肌红蛋白
+T230	Treatment 4115 4119	血液滤过
+T231	Treatment 4120 4124	血浆置换
+T232	Treatment 4125 4129	免疫吸附
+T233	Test 4150 4152	胰酶
+T234	Test 4153 4156	转氨酶
+T235	Test 4207 4209	血糖
+T236	Disease 4188 4193	肾功能不全
+T237	Treatment 4197 4203	血液净化治疗
+T238	Test 4216 4218	血糖
+T239	Test 4228 4230	血糖
+T240	Disease 4234 4238	FT1D
+T241	Symptom 4257 4262	高血糖症状
+T242	Disease 4271 4273	酮症
+T243	Disease 4274 4279	酮症酸中毒
+T244	Test 4307 4309	血糖
+T245	Test 4316 4323;4324 4325	胰岛相关自身抗 体
+T246	Test 2358 2361	血肌酐
+T247	Frequency 465 468	8 次
+T248	Frequency 1376 1379	5 次
+T249	Frequency 1396 1402	4 h /次
+T250	Treatment 1505 1508	予进食
+T251	Reason 2196 2199	病毒感
+T252	Anatomy 2871 2874	胰岛素
+T253	Level 2876 2878	严重
+T254	Reason 3067 3069	酒后
+T255	Anatomy 3198 3202	血液循环
+T256	Treatment 4178 4180	禁食
+T257	Symptom 587 591	无反跳痛
+T258	Test_Value 889 892;893 896	胰腺未 见异常
+T259	Test_Value 1105 1117	0. 3 ~ 3. 73
+T260	Test_Value 1139 1140	±
+T261	Test_Value 1172 1181	0 ~ 0. 03
+T262	Test_Value 1349 1353	急骤升高
+T263	Test 1408 1410	尿色
+T264	Test_Value 1420 1421;1422 1424	浓 茶样
+T265	Test_Value 1433 1435	淡黄
+T266	Test_Value 1591 1593	偏高
+T267	Test_Value 1617 1619	正常
+T268	Test_Value 1676 1685	100 ~ 285
+T269	Duration 1848 1851	6 周
+T270	Level 1950 1953	起病急
+T271	Level 1954 1957	进展快
+T272	Disease 2017 2020	糖尿病
+T273	Reason 2707 2712	遗传易感性
+T274	Reason 2713 2719	免疫异常反应
+T275	Reason 2720 2722	妊娠
+T276	Reason 2723 2730	药物过敏综合征
+T277	Disease 2749 2753	FT1D
+T278	Anatomy 2761 2763	胰腺
+T279	Disease 2764 2765;2766 2775	全 身非特异性炎症反应
+T280	Test_Value 2947 2949	升高
+T281	Symptom 3207 3211	生化紊乱
+T282	Symptom 3246 3254	可无肌肉损伤症状
+T283	Reason 3360 3368	有效循环血量不足
+T284	Symptom 3635 3642	机体高代谢状态
+T285	Test_Value 3926 3928	正常
+T286	Test_Value 4156 4158	升高
+T287	Test 4280 4282	酶学
+T288	Test_Value 3618 3620	升高
+T289	Disease 17 27	暴发性 1 型糖尿病
+T290	Disease 1989 1999	特发性 1 型糖尿病
+T291	Disease 4293 4303	暴发性 1 型糖尿病
+T292	Symptom 28 33	多器官损害
+T293	Anatomy 567 570	双下肺
+T294	Symptom 574 578	湿性啰音
+T295	Anatomy 579 582	上腹部
+T296	Level 583 584	轻
+T297	Symptom 584 586	压痛
+T298	Test 651 653	潜血
+T299	Test_Value 654 656	3+
+T300	Test 658 661	尿蛋白
+T301	Test_Value 662 663	±
+T302	Test 665 667	酮体
+T303	Test_Value 668 671	2 +
+T304	Test 672 675	葡萄糖
+T305	Test_Value 676 679	4 +
+T306	Test_Value 844 848	窦性心律
+T307	Test_Value 867 879	V3-5 R 波上升不良
+T308	Test_Value 860 866	异常 Q 波
+T309	Treatment 924 928	控制血糖
+T310	Test_Value 1079 1084	0. 12
+T311	Test_Value 1085 1097	0. 2 ng / ml
+T312	Test 1143 1151	血清肌钙蛋白 I
+T313	Test_Value 1213 1217	肌核增多
+T314	Test_Value 1218 1228	部分肌纤维模糊或消失
+T315	Test_Value 1229 1238	未见明显炎细胞浸润
+T316	Test_Value 1443 1458	2 000 ml / d 以上
+T317	Symptom 1471 1476	无明显腹痛
+T318	Drug 1569 1574	基础胰岛素
+T319	Test_Value 1703 1708	0. 05
+T320	Test_Value 1709 1722	0. 06 ng / ml
+T321	Test 1732 1734	血脂
+T322	Treatment 1841 1847	严格控制血糖
+T323	Reason 1958 1973	胰岛 β 细胞短期内被大量破坏
+T324	Anatomy 2050 2052	胰腺
+T325	Anatomy 2053 2055	心肌
+T326	Anatomy 2056 2061	横纹肌损害
+T327	Disease 2106 2111	急性肾损伤
+T328	Anatomy 2829 2833	β 细胞
+T329	Disease 2937 2943	非急性胰腺炎
+T330	Symptom 2956 2965	胰腺外分泌功能受损
+T331	Anatomy 2969 2971	胰腺
+T332	Anatomy 2971 2975	淋巴细胞
+T333	Reason 2980 2982;2983 2988	胰腺 外分泌受损
+T334	Reason 2989 3003	胰腺外组织(如腮腺)分泌增加
+T335	Reason 3004 3011;3012 3014	肾脏对胰酶清除 下降
+T336	Level 3033 3035	重症
+T337	Reason 3058 3061	胆石症
+T338	Reason 3062 3066	暴饮暴食
+T339	Symptom 3079 3081	腹痛
+T340	Level 3075 3079	剧烈持续
+T341	Symptom 3213 3219	组织器官损害
+T342	Test_Value 3273 3288	部分肌纤维消失,间质炎细胞浸润
+T343	Reason 3323 3334	肌红蛋白管型阻塞肾小管
+T344	Reason 3335 3342;3343 3359	肌红蛋白分解产 物对肾小管上皮细胞产生过氧化损伤
+T345	Anatomy 3384 3387	肾小管
+T346	Symptom 3400 3404	肾脏损伤
+T347	Symptom 3424 3429;3430 3431	急性肾脏损 伤
+T348	Symptom 3438 3443	肾功能损伤
+T349	Symptom 3451 3455	肾脏损伤
+T350	Reason 3466 3470	前驱感染
+T351	Treatment 3498 3500	补液
+T352	Amount 3496 3498	大量
+T353	Symptom 3564 3571	无胸部不适症状
+T354	Test 3575 3578	心肌酶
+T355	Test_Value 3578 3580	升高
+T356	Test 3581 3584	心电图
+T357	Test 3607 3611	儿茶酚胺
+T358	Test 3612 3616	肾上腺素
+T359	Symptom 3623 3632	冠状动脉痉挛与收缩
+T360	Anatomy 3673 3677	心肌细胞
+T361	Disease 3701 3705	前驱感染
+T362	Test_Value 3746 3750	31 倍
+T363	Test_Value 3751 3755	35 倍
+T364	Test_Value 3756 3763	1 107 倍
+T365	Symptom 3791 3794;3795 3797	缺血性 胸痛
+T366	Test_Value 3820 3824;3825 3836	短期内升 高超过正常上限 8 倍
+T367	Reason 3956 3959	寄生虫
+T368	Reason 3959 3961	感染
+T369	Disease 4063 4067	急性肾衰
+T370	Treatment 4076 4082	血液净化治疗
+T371	Disease 4139 4149	无症状性急性心肌损伤
+T372	Disease 4251 4255	前驱感染
+T373	Test 4326 4330	酶学检测

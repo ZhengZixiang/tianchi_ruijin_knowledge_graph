@@ -1,0 +1,206 @@
+综述
+Smad1 与糖尿病肾病的研究进展
+周颖  陈纤纤  冯烈
+[提要]   糖尿病肾病(diabetic nephropapthy,DN)是导致终末期肾病的常见原因,早期诊断、及时治疗
+有助于延缓其进展。 Smad 蛋白是介导转化生长因子 β 超家族胞内信号转导途径的一组蛋白质。 新近研
+究发现 Smad1 蛋白在 DN 肾纤维化过程中扮演重要角色。 尿 Smad1 出现在 DN 早期阶段,有望成为早期诊
+断 DN 的非侵入性指标。
+[关键词]   糖尿病肾病; Smad1 蛋白; 系膜基质扩张
+Research progress in Smad1 and diabetic nephropathy Zhou Ying, Chen Xianxian, Feng Lie. Department of
+Endocrinology and Metabolism Diseases, the First Affiliated Hospital of Jinan University, Guangzhou 510630, China
+[Summary]  Diabetic nephropapthy (DN) is a common cause of end-stage renal disease. Early diagnosis and
+treatment are significant for delaying the development of DN. Smad proteins mediate transforming growth factor β
+superfamily intracellular signal transduction. Recent studies have found that Smad1 protein plays an important role in
+the process of renal fibrosis. Urine Smad1 emerges in the early stage of DN, which is expected to be a non-invasive
+indicator in early diagnosis of DN.
+[Key words]  Diabetic nephropathy; Smad1 protein; Mesangial matrix expension
+(Chin J Endocrinol Metab, 2015, 31: 468-470)
+糖尿病肾病(diabetic nephropathy, DN)是糖尿病常见的微
+血管并发症,已成为终末期肾病最常见的原因之一。 早期的
+DN,其主要的形态学改变是肾小球基底膜(glomerular basement
+membrane, GBM)增厚和系膜基质扩张[1] ,而后者更为重要。
+长期以来,DN 早期临床上的诊断主要依赖检测尿微量白
+蛋白,然而尿白蛋白或者肾小球滤过率 ( glomerular filtration
+rate, GFR)和肾小球系膜基质扩张没有相关性[1] ,不能反映肾
+小球结构改变的严重程度;同时尿蛋白受许多因素影响(发热、
+感染等)。 而作为肾病诊断的金标准肾活检术,属于侵入性的
+检查,其应用受到一定的限制。
+因此,如何早期发现 DN,以便早期干预是临床上亟待解决
+的问题。 由于4型胶原(Col4)是系膜基质扩张的重要组成物
+质,新近研究发现,信号蛋白 Smad1 可直接上调4型胶原、平滑
+肌 α 肌动蛋白(α-SMA)等关键因子的转录[1,2] 。 动物模型显
+示,糖尿病早期阶段尿 Smad1 的增加与肾小球硬化的病理改变
+有关[3] 。 因此,尿 Smad1 作为早期诊断 DN 的生物标志物可能
+具有实际的临床意义。 目前对于 Smad1 蛋白的信号通路在 DN
+的发生、发展已有初步进展,作者简要综述 Smad1 蛋白在 DN
+中的研究进展。
+一、 Smads 蛋白的概述
+Smad 蛋白家族是一个在脊椎动物、昆虫和线虫内发现的
+转录因子家族,1995 年 Sekelsky 等[4] 在研究果蝇 DPP (一种
+BMP 同源分子) 体内信号转导时,发现 Mad (Mother against
+DPP) 蛋白是 DPP I型受体细胞内信号下游分子,并克隆其基
+因。 不久在尼采蝇克隆出了相关 Mad 基因 Sma2、Sma3、Sma4,
+统一命名为 Smad(Mothers against decapentaplegic homolog),意
+为 Sma 与 Mad 的同源基因[5] 。
+Smad1 蛋白是 Smads 蛋白家族的其中一员。 Smads 蛋白家
+族的分子量大约在 42 000 ~ 60 000 之间,Smads 蛋白家族的成
+员主要包括 Smad1 ~ 8,可以被分为 3 个亚家族[6] :受体激活的
+Smad(R-Smads)、协同作用的 Smad(Co-Smad)、起抑制作用的
+Smad( I-Smad),R-Smads 包括 Smad1、2、3、5、8,Co-Smad 包括
+Smad4,I-Smad 包括 Smad6、7。 Smad2、3 转导转化生长因子 β
+(TGF-β) 信 号, Smad1、 5、 8 转 导 骨 形 态 发 生 蛋 白 ( bone
+morphogenetic proteins, BMPs,TGF-β 家族的一员)信号,Smad6
+抑制 BMPs 的信号转导,Smad7 则对 TGF-β 与 BMP 信号转导都
+有抑制作用,起着负调控作用。 R-Smads 和 Co-Smad 蛋白在氨
+基酸末端和羧基末端分别含有同源的 MH1 和 MH2 区,I-Smad
+的 N-末端与 R-Smad 和 Co-Smad 的 MH1 结构域差异很大,这可
+能决定其信号转导的特异性。
+大量研究显示,Smads 蛋白在肾脏、心肌和肺等多种器官的
+纤维化过程中均有重要作用[7-9] 。 前人对 Smad2、 Smad3 和
+Smad7 在肾纤维化中的作用已有较多研究,Smad7 能够保护肾
+脏,Smad7 过表达能够阻止 DN 肾纤维化的进展[10] ,而 Smad3
+是肾纤维化的一个致病因素,TGF-β 能够激活 Smad3 调控的
+miroRNA,从而导致肾纤维化[11] 。 Lan 等[12] 发现,Smad7 的减
+少,会导致 Smad2 和 Smad3 信号传递增强,促使肾纤维化发生。
+在体外,高糖环境、晚期糖基化终末产物(AGEs)和血管紧张素
+域(Ang 2)能够激活 Smad2 和 Smad3 的表达,导致系膜细胞合
+成胶原基质。 然而通过小鼠和细胞的基因敲除发现,敲除
+Smad3 而不是 Smad2,能够抑制器官的纤维化[13] 。
+由于尿 Smad1 能在早期 DN 中被检测到,同时与肾小球病
+理改变有关,因此其在 DN 中的作用越来越受到研究者的关
+注。 Smad1 蛋白含有 465 个氨基酸残基,人的 Smad1 与果蝇
+Mad 蛋白在 N 端和 C 端有 91% 的同源性。 BMP4 与其下游信
+号分子 Smad1(BMP4 / Smad1)信号通路是 BMPs 家族经典的信
+号转导途径。 在 AGE 的刺激下,BMP4 与细胞膜上的 BMP 受
+体域(BMPR-2)结合,BMPR-II 磷酸化激活异聚体中的I型受
+体与之形成受体复合物,并激活I型受体的蛋白激酶,导致细
+胞内 Smad1 蛋白磷酸化,被激活的 Smad1 与 Smad4 结合,形成
+Smad 蛋白复合物,然后转移到细胞核内,与其它的核协同或抑
+制因子结合,调控 BMP4 下游目的基因的转录[14] 。 通过免疫组
+化和 Western 印迹发现,糖尿病大鼠肾小球系膜基质扩张越明
+显,肾小球中 Smad1 的表达越强[1] 。 在链脲佐菌素(STZ)诱导
+的糖尿病大鼠模型[3] 中,肾小球 Smad1 的表达和4型胶原及
+α-SMA 的表达密切相关,研究还发现,糖尿病早期阶段尿
+Smad1 的增加与肾小球硬化的发展有关。 然而在正常成人和
+大鼠中,Smad1 不表达[2] 。 通过 Western 印迹发现,Smad1 的增
+加主要存在于肾小球系膜区,通过 ELISA 发现,糖尿病大鼠肾
+小球和尿中 Smad1 含量均增加[1] 。 Mima 等[3]通过对 STZ 诱导
+的糖尿病大鼠和 db / db 糖尿病小鼠尿液 Smad1 水平进行观察
+发现,第 4 周大鼠尿 Smad1 水平与第 24 周肾小球系膜基质扩
+张有很好的相关性( r=0. 70, P=0. 001),然而尿白蛋白呈现很
+弱的相关性( r= 0. 31, P = 0. 043)。 同样,db / db 小鼠第 6 周尿
+Smad1 与第 18 周时系膜基质扩张有关。 从上面的结论得出,
+虽然尿白蛋白对于 DN 未来的预期是一个有用的诊断指标,但
+其敏感性和特异性不足以预测早期 DN。 尿 Smad1 与肾小球硬
+化有关,尿 Smad1 可作为 DN 早期诊断标志物。 Smad1 也被发
+现存在于内皮细胞中[15] ,DN 患者尿中有足突细胞排泄,由此
+推测,尿 Smad1 可能来源于足突细胞或者内皮细胞,或者尿
+Smad1 来自血清 Smad1。 然而这些都只是推测,Smad1 在 DN
+中的作用机制还有待进一步研究。
+二、 Smad1 在 DN 中的机制
+1. BMP4 在 Smad1 信号通路中的作用:BMPs 是多功能细
+胞因子,属于 TGF-β 超级家族,BMP4 是 BMPs 家族中的一种,
+参与机体细胞的生长、分化、凋亡、迁移及细胞外基质的形成等
+众多生理、病理活动的调控。 BMP4 基因在小脑、子宫、卵巢、
+肺、肾和心脏等多种器官中均有表达[16-20] 。 BMP4 能够抗恶性
+细胞增生和诱导肌细胞分化[21] 。 BMP 受体有I型和域型,
+BMPs 通过其I型和2型受体能够直接诱导 Smad1 磷酸化。 其
+中I型受体包括活化素样激酶 3 和 6(Activin like kinase 3 and
+6, Alk3 和 Alk6),它们都能与 BMP4 结合,而且在肾脏和泌尿
+道的发育中都有表达,在 AGE 的刺激下,只有 Alk3 被发现在系
+膜细胞表达。 敲除 Alk3 会导致 Smad1 磷酸化和4型胶原的表
+达受到抑制[22] ,说明 BMP4 和 Alk3 会影响 Smad1 和4型胶原
+在小鼠系膜细胞中的表达。 长期处于高血糖状态会导致过多
+的 AGEs 生成,AGE 能够诱导 BMP4 的表达和分泌,BMP4 能够
+显著增加 Smad1 和 α-SMA 的表达[23] 。 研究发现,DN 肾小球
+中 BMP4 的过表达会导致肾小球硬化和白蛋白尿的出现,将
+BMP4 从小鼠中敲除,会减少糖尿病肾小球硬化[22] 。 以上研究
+均证明 BMP4 / Smad1 信号通路能够调控 DN 肾小球硬化。
+2. TGF-β 在 Smad1 信号通路中的作用:虽然,Smad 蛋白是
+TGF-β 下游信号的重要转导分子。 TGF-β1 是 DN 发展到肾小
+球硬化过程中的主要媒介。 TGF-β 可激活 Smad1 / 5 / 8 信号通
+路。 在糖尿病状态下,TGF-β1 会诱导 ALK-1、Smad1、4型胶原
+和 α-SMA 的表达[24] 。 然而 BMP4 诱导的 Smad1 高表达强于
+TGF-β1[23] 。 而 TGF-β 又能够激活 Smad2、3 蛋白,从而促进胶
+原合成,使基质合成增加而降解减少。
+3. 结缔组织生 长 因 子 ( connective tissue growth factor,
+CTGF / CCN2)在 Smad1 信号通路中的作用:CTGF 是一种多功
+能的细胞基质蛋白,在器官的纤维化过程中过度表达。 在糖尿
+病状态下,TGF-β1、AGE 和 Ang 2能够诱导 CTGF 的表达[13] 。
+在一些纤维化疾病和癌症情况下,CTGF 的表达常常失调。
+CTGF 是 TGF-b 纤维化相关作用的媒介,在 CTGF 参与下,使
+Smad1 和细胞外信号调节激酶(ERK)1 / 2 磷酸化,从而促使郁
+型胶原合成,系膜基质扩张,最终导致肾纤维化形成。 在
+TGF-β 诱导的 Smad1 磷酸化过程中,CTGF / avb3 整合蛋白复合
+物形成,Src 信号激活。 低剂量( <50 ng / ml)的 CTGF 能够刺激
+胶原合成,然而高剂量 CTGF 会抑制胶原基因的表达。 研究证
+明,CTGF / avb3 整合蛋白 / Src / Smad1 轴在导致纤维化的 TGF-β
+信号通路中有重要作用[25] ,也意味着如果阻断这条通路,对
+DN 的治疗是有益的。
+4. ALK1 在 Smad1 信号通路中的作用:ALK1 是 TGF-β 家
+族蛋白中的I型受体,ALK1 通过 Smad1 来转导 TGF-β 信号。
+在成人糖尿病患者中,发现 ALK1 和 Smad1 在肾小球中均有表
+达[2] ,然而 ALK1 和 Smad1 的相关性还不清楚。 在培养的系膜
+细胞中,通过 AGE 的刺激,作为 Smad1 上游因子的 TGF-β 和
+ALK-1 表达均上调[2] 。 Araoka 等[24]研究发现,ALK1 的持续激
+活能增强 α-SMA 和 pSmad1 的表达。 ALK1 是 BMP 的信号传
+感器,通过 Smad1 调节 TGF-β 信号。 在肾小球系膜细胞中,
+TGF-β 能够直接诱导 TCF7L2( transcription factor 7-like 2)的表
+达。 TCF7L2 的过表达能够增强 ALK1 和 Smad1 的表达,因此
+可以推测,阻断 TCF7L2 / ALK1 / Smad1 通路对 DN 的治疗有益。
+5. Ang 2在 Smad1 信号通路中的作用:Ang 2在 DN 的发
+展中扮演着重要角色。 研究表明在 DN 的动物模型中,Ang 2
+通过调节 Src 和 Smad1 来调控系膜基质扩张的发展,也同时证
+明了 Smad1 在 DN 中的作用。 糖尿病大鼠用低剂量奥美沙坦
+(I型 Ang 2受体阻滞剂)治疗 20 周,与正常对照组比较,其尿
+蛋白和 GFR 均减少,且抑制了系膜基质扩张以及4型胶原、
+α-SMA 在肾小球的合成[26] 。 免疫组化和 Western 印迹显示
+Smad1、pSmad1 和 pSrc 被奥美沙坦所抑制,因此,奥美沙坦能抑
+制 Col4 的合成,并阻断 Src 和 Smad1 磷酸化的表达,从而抑制
+系膜基质扩张,更能极大地降低尿 Smad1 水平[3] 。 通过 ARB
+治疗能够减少 DN 患者尿中的 TGF-β、CTGF 和4型胶原。
+6. Smad1 蛋白的临床研究进展:Smad1 蛋白在细胞及动物
+模型中对 DN 的作用已经有较为系统的研究,而在糖尿病患者
+中也有初步的进展。 李巧等[27] 对 132 例 2 型糖尿病患者进行
+研究,将 2 型糖尿病患者按尿微量白蛋白与肌酐比值(albumin /
+creatinine ratio, ACR)分为正常白蛋白尿组(normal albuminuria
+group, NAU)、低值白蛋白尿组 ( low-grade albuminuria group,
+LAU)、高值白蛋白尿组(high-grade albuminuria group, HAU)、极
+高值白蛋白尿组(very high-grade albuminuria group, VHAU)。 其
+中,LAU、HAU 和 VHAU 作为糖尿病肾病组(DN 组),NAU 作为
+非糖尿病肾病组(非 DN 组),并以健康人群作为对照组。 以尿
+Smad1 与肌酐比值(urine Smad1 / creatinine ratio, USCR)作为标
+准数值。 结果显示 2 型糖尿病患者 SCR 较对照组高,DN 组
+SCR 较非 DN 组高,LAU 组 SCR 与 NAU 组没有明显差别(P>
+0. 05),SCR 与 ACR、空腹血浆血糖(FPG)、血尿素氮(BUN)呈
+线性正相关,而体重指数、HBA1C、收缩压、血脂、血尿酸、肝功能
+等与 SCR 无线性相关(P>0. 05),ACR 和 FPG 是 SCR 独立的影
+响因素,因此认为尿 Smad1 有望成为 DN 的潜在诊断指标之
+一,并可能用于评价 DN 的严重程度,但不能预测尚属低值蛋
+白尿阶段的最早期 DN。
+临床研究显示,2 型糖尿病患者尿 Smad1 含量高于正常对
+照组,将 2 型糖尿病患者按照尿白蛋白 /肌酐比值 ( Urinary
+albumin / creatinine ratio, UACR)分为正常白蛋白尿组、微量白
+蛋白尿组和大量白蛋白尿组,3 组尿 Smad1 含量呈递增改变,
+然而在正常白蛋白尿组尽管尿 Smad1 含量高于正常对照组,但
+Smad1 含量与 UACR 相关性差异无统计学意义,因此推测,糖
+尿病患者在微量白蛋白尿出现前,尿液 Smad1 不能反映尿白蛋
+白 /肌酐比值的变化,表明尿液 Smad1 不能先于尿微量白蛋白
+反映肾功能受损程度,这与李巧等研究所得结论基本一致[28] 。
+糖尿病早期的肾脏功能改变表现为肾小球高滤过( glomerular
+hyperfiltration, GHF),有临床研究将 2 型糖尿病患者分为 GHF
+组和正常 GFR 组,结果显示 GHF 组患者尿 Smad1 增多,并且发
+现尿 Smad1 与 FPG、 HBA1C、估算肾小球滤过率 ( estimated
+glomerular filtration rate, eGFR)呈正相关,与空腹 C 肽( fasting
+serum C-Peptide, FC-P)呈负相关,尿 Smad1 是 2 型糖尿病患者
+肾功能损伤的独立危险因素[29] 。 以上研究均证明尿 Smad1 有
+望成为 DN 早期诊断的生物指标。
+三、 总结与展望
+通过对 Smad1 蛋白和 DN 的研究,我们有必要全面认识
+Smad1 在 DN 中的作用及机制,包括 Smad1 蛋白的上游分子、下
+游分子及其影响因子,然而 Smad1 信号转导途径及作用机制尚
+未完全阐明,其在 DN 中的复杂机制还有待进一步补充。 尿
+Smad1 和系膜基质扩张严重程度密切相关。 因此,尿 Smad1 有
+望成为 DN 早期诊断的生物指标。 对 Smad1 信号转导通路的
+深入研究不仅有助于进一步阐明 DN 的发病机制,也为 DN 的
+防治研究提供了重要的途径。

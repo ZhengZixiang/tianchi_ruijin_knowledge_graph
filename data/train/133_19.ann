@@ -1,0 +1,317 @@
+T1	Disease 7283 7289	2 型糖尿病
+T2	Disease 8019 8025	2 型糖尿病
+T3	Test 6917 6921	脂肪因子
+T4	Test 6996 7000	脂肪因子
+T5	Test 6717 6720;6721 6723	游离脂 肪酸
+T6	Test 6880 6885	游离脂肪酸
+T7	Test 7394 7399	游离脂肪酸
+T8	Anatomy 7276 7280	β 细胞
+T9	Anatomy 7354 7358	β 细胞
+T10	Anatomy 7404 7408	β 细胞
+T11	Anatomy 7455 7459	β 细胞
+T12	Anatomy 7517 7521	β 细胞
+T13	Anatomy 7602 7606	β 细胞
+T14	Anatomy 7649 7653	β 细胞
+T15	Anatomy 7721 7725	β 细胞
+T16	Anatomy 7762 7766	β 细胞
+T17	Anatomy 7792 7796	β 细胞
+T18	Anatomy 7974 7978	β 细胞
+T19	Anatomy 241 245	脂肪细胞
+T20	Anatomy 4658 4663	前脂肪细胞
+T21	Anatomy 4677 4683	成熟脂肪细胞
+T22	Anatomy 4868 4874	成熟脂肪细胞
+T23	Anatomy 4985 4989	脂肪细胞
+T24	Anatomy 5509 5513	脂肪细胞
+T25	Anatomy 5616 5620	脂肪细胞
+T26	Anatomy 5635 5639	脂肪细胞
+T27	Anatomy 5807 5811	脂肪细胞
+T28	Anatomy 6037 6041	脂肪细胞
+T29	Anatomy 6780 6784	脂肪细胞
+T30	Anatomy 7953 7957	脂肪细胞
+T31	Test 1725 1729	甘油三酯
+T32	Test 5283 5287	甘油三酯
+T33	Test 6227 6231	甘油三酯
+T34	Test 6418 6419;6420 6423	甘 油三酯
+T35	Test 6965 6968	脂联素
+T36	Test 6580 6582	体重
+T37	Test 6622 6624	体重
+T38	Anatomy 3812 3819	Beclin1
+T39	Anatomy 3851 3858	Beclin1
+T40	Anatomy 3922 3929	Beclin1
+T41	Anatomy 3965 3972	Beclin1
+T42	Anatomy 4043 4050	Beclin1
+T43	Anatomy 4090 4108	Beclin1 依赖的自噬的激活分子
+T44	Anatomy 4121 4128	Beclin1
+T45	Anatomy 4183 4190	Beclin1
+T46	Anatomy 4220 4227	Beclin1
+T47	Anatomy 4253 4260	Beclin1
+T48	Anatomy 4298 4305	Beclin1
+T49	Anatomy 4311 4318	Beclin1
+T50	Anatomy 4375 4382	Beclin1
+T51	Anatomy 4421 4428	Beclin1
+T52	Anatomy 3106 3112	mTORC1
+T53	Anatomy 3240 3246	mTORC1
+T54	Anatomy 3266 3272	mTORC1
+T55	Anatomy 3493 3499	mTORC1
+T56	Anatomy 3577 3583	mTORC1
+T57	Anatomy 2865 2869	mTOR
+T58	Anatomy 3031 3035	mTOR
+T59	Anatomy 3094 3104	mTOR 复合体 1
+T60	Anatomy 3347 3351	mTOR
+T61	Anatomy 3372 3376	mTOR
+T62	Anatomy 3475 3479	mTOR
+T63	Anatomy 3761 3765	mTOR
+T64	Anatomy 3073 3077	Rheb
+T65	Anatomy 3230 3234	Rheb
+T66	Anatomy 2872 2876	ULK1
+T67	Anatomy 3401 3405	ULK1
+T68	Anatomy 3519 3523	ULK1
+T69	Anatomy 4664 4673	3T3-L1 细胞
+T70	Anatomy 5354 5363	3T3-L1 细胞
+T71	Anatomy 6656 6661;6662 6663	白色脂肪组 织
+T72	Anatomy 6698 6704	白色脂肪组织
+T73	Anatomy 6732 6738	白色脂肪组织
+T74	Anatomy 6602 6605;6606 6607	脂肪组 织
+T75	Anatomy 6797 6801	脂肪组织
+T76	Anatomy 6860 6864	脂肪组织
+T77	Anatomy 3129 3133	AMPK
+T78	Anatomy 3191 3195	AMPK
+T79	Anatomy 3204 3208	AMPK
+T80	Anatomy 6311 6315	肝脏组织
+T81	Test 7482 7484	血糖
+T82	Disease 175 177	肿瘤
+T83	Disease 178 184	神经变性疾病
+T84	Disease 1621 1623	肿瘤
+T85	Disease 1626 1632	神经变性疾病
+T86	Anatomy 1658 1660	脂肪
+T87	Anatomy 2254 2267	热休克蛋白 70 同源蛋白
+T88	Anatomy 2306 2311	HSC70
+T89	Anatomy 2454 2459	Lamp2
+T90	Anatomy 2400 2408	溶酶体膜上的受体
+T91	Anatomy 2470 2478	热休克蛋白 90
+T92	Anatomy 2502 2507	HSP90
+T93	Anatomy 3080 3085	Vps34
+T94	Anatomy 3063 3072	Rag GTP 酶
+T95	Anatomy 3308 3313	bcl-2
+T96	Anatomy 3318 3323	BNIP3
+T97	Anatomy 3406 3412	mAtg13
+T98	Anatomy 3413 3419	FIP200
+T99	Anatomy 3422 3428	Atg101
+T100	Anatomy 3526 3532	mAtg13
+T101	Anatomy 3608 3614	FIP200
+T102	Anatomy 3617 3623	mAtg13
+T103	Anatomy 3742 3746	PI3K
+T104	Anatomy 3768 3771	PKB
+T105	Anatomy 3796 3800	PI3K
+T106	Anatomy 3803 3808	Vps34
+T107	Anatomy 3822 3826	p150
+T108	Disease 3887 3889	肿瘤
+T109	Disease 3890 3895	病原体感染
+T110	Disease 3896 3902	神经变性疾病
+T111	Anatomy 3955 3961	Atg14L
+T112	Anatomy 4022 4031	紫外线抵抗相关基因
+T113	Anatomy 4033 4038	UVRAG
+T114	Anatomy 4109 4115	AMBRA1
+T115	Anatomy 4136 4140	神经系统
+T116	Anatomy 4155 4158;4159 4165	Bax 结合因子 1
+T117	Anatomy 4166 4170	Bif1
+T118	Anatomy 4175 4180	UVRAG
+T119	Disease 4203 4205	肿瘤
+T120	Anatomy 4285 4292	Rubicon
+T121	Anatomy 4321 4327	Atg14L
+T122	Anatomy 4347 4351	Bcl2
+T123	Anatomy 4354 4359	BclXL
+T124	Anatomy 4651 4655	白色脂肪
+T125	Anatomy 4828 4830	脂肪
+T126	Anatomy 4979 4981	脂肪
+T127	Anatomy 5014 5016	脂肪
+T128	Anatomy 5185 5187	脂肪
+T129	Anatomy 5226 5228	脂肪
+T130	Anatomy 5247 5249	脂肪
+T131	Anatomy 85 89	真核细胞
+T132	Anatomy 1410 1414	真核细胞
+T133	Anatomy 1633 1636	红细胞
+T134	Anatomy 1428 1431	核糖体
+T135	Anatomy 1933 1936	溶酶体
+T136	Anatomy 1991 1995	分子伴侣
+T137	Anatomy 2110 2113	自噬体
+T138	Anatomy 2116 2119	自噬体
+T139	Anatomy 2120 2123	溶酶体
+T140	Anatomy 2128 2133	自噬溶酶体
+T141	Anatomy 2135 2140	自噬溶酶体
+T142	Anatomy 2142 2144	囊泡
+T143	Anatomy 2163 2164;2165 2166	囊 泡
+T144	Anatomy 2200 2203	溶酶体
+T145	Anatomy 2238 2242	分子伴侣
+T146	Anatomy 2248 2252	分子伴侣
+T147	Anatomy 2385 2395	分子伴侣-底物复合体
+T148	Anatomy 2464 2467	溶酶体
+T149	Anatomy 2517 2520	溶酶体
+T150	Anatomy 3216 3220	TSC1
+T151	Anatomy 3223 3227	TSC2
+T152	Anatomy 3300 3302	激素
+T153	Anatomy 3303 3307	生长因子
+T154	Anatomy 3431 3435	前自噬泡
+T155	Anatomy 3548 3551	自噬泡
+T156	Anatomy 3660 3663	自噬泡
+T157	Anatomy 3667 3670	自噬体
+T158	Anatomy 3751 3754	胰岛素
+T159	Anatomy 4010 4013	自噬体
+T160	Anatomy 4335 4338	自噬体
+T161	Anatomy 4498 4502	自噬体膜
+T162	Anatomy 4540 4545	前自噬体膜
+T163	Anatomy 4557 4561	自噬体膜
+T164	Anatomy 4616 4619	自噬体
+T165	Anatomy 4646 4649	线粒体
+T166	Anatomy 4903 4905	脂肪
+T167	Anatomy 4910 4913	线粒体
+T168	Anatomy 4947 4950	线粒体
+T169	Anatomy 4993 4996	线粒体
+T170	Anatomy 5007 5008;5009 5011	线 粒体
+T171	Anatomy 5190 5193	线粒体
+T172	Anatomy 5220 5223	线粒体
+T173	Anatomy 5241 5242;5243 5245	线 粒体
+T174	Anatomy 5313 5316	线粒体
+T175	Anatomy 5373 5374;5375 5377	线 粒体
+T176	Anatomy 5422 5424	脂肪
+T177	Anatomy 2573 2579	自噬相关蛋白
+T178	Anatomy 2606 2609	Atg
+T179	Anatomy 2625 2628	Atg
+T180	Anatomy 2880 2884	Atg1
+T181	Anatomy 3021 3025	PI3K
+T182	Anatomy 2725 2729	PI3K
+T183	Anatomy 2666 2673	Atg1 激酶
+T184	Anatomy 2700 2704	Atg9
+T185	Anatomy 2773 2777	Atg1
+T186	Anatomy 2778 2783	Atg18
+T187	Anatomy 2736 2740	Atg6
+T188	Anatomy 2741 2746	Atg14
+T189	Anatomy 2747 2752	Vps15
+T190	Anatomy 2753 2758	Vps34
+T191	Anatomy 2792 2797	Atg12
+T192	Anatomy 2808 2813	Atg12
+T193	Anatomy 2814 2818	Atg5
+T194	Anatomy 2819 2824	Atg16
+T195	Anatomy 2830 2834	Atg8
+T196	Anatomy 4513 4518	Atg12
+T197	Anatomy 4519 4523	Atg5
+T198	Anatomy 4524 4530	Atg16L
+T199	Anatomy 4568 4571	Atg
+T200	Anatomy 4777 4790	CCAAT-增强子结合蛋白
+T201	Anatomy 4791 4799	C / EBPs
+T202	Anatomy 4700 4713	过氧化物酶体增殖物受体 γ
+T203	Anatomy 4766 4772	PPAR-γ
+T204	Anatomy 4816 4821;4822 4823	PPAR- γ
+T205	Anatomy 4847 4853	PPAR-γ
+T206	Anatomy 4859 4861	脂肪
+T207	Anatomy 5044 5057	cAMP 反应元件结合蛋白
+T208	Anatomy 5037 5043	PPAR-γ
+T209	Anatomy 5102 5106	CREB
+T210	Anatomy 5108 5117	雌激素相关受体 α
+T211	Anatomy 5152 5158	EER-1α
+T212	Anatomy 5161 5170	基因表达共刺激因子
+T213	Anatomy 5171 5177	PGC-1α
+T214	Anatomy 5495 5502	胚胎成纤维细胞
+T215	Anatomy 5563 5570	胚胎成纤维细胞
+T216	Anatomy 5571 5575	Atg7
+T217	Anatomy 5664 5668	白色脂肪
+T218	Anatomy 5725 5730	网织红细胞
+T219	Anatomy 5483 5487	Atg5
+T220	Anatomy 5765 5769	Atg7
+T221	Anatomy 5737 5740	NIX
+T222	Anatomy 5796 5800	Atg7
+T223	Anatomy 5817 5821	棕色脂肪
+T224	Anatomy 5876 5884	棕色脂肪标志基因
+T225	Anatomy 5885 5903	uncoupling protein
+T226	Anatomy 5904 5908	UCP1
+T227	Anatomy 6005 6009	白色脂肪
+T228	Disease 6050 6052	肥胖
+T229	Disease 6053 6058	胰岛素抵抗
+T230	Anatomy 6186 6191	肝原代细胞
+T231	Anatomy 6203 6207	Atg5
+T232	Test_Value 6234 6236	升高
+T233	Anatomy 6268 6274	自噬标志蛋白
+T234	Anatomy 6275 6278	LC3
+T235	Anatomy 6305 6308	肝细胞
+T236	Anatomy 6364 6367	肝细胞
+T237	Anatomy 6391 6393	肝脏
+T238	Anatomy 6394 6398	Atg7
+T239	Anatomy 6408 6410	肝脏
+T240	Anatomy 6416 6417	肝
+T241	Test 6424 6430	脂滴相关蛋白
+T242	Test 6431 6436	TIP47
+T243	Test 6439 6443	ADRP
+T244	Test_Value 6446 6448	增加
+T245	Symptom 6465 6473	肝内脂肪沉积增多
+T246	Anatomy 6501 6507	脂滴表面蛋白
+T247	Anatomy 6508 6517	perilipin
+T248	Anatomy 6560 6563	肝细胞
+T249	Anatomy 6551 6553	脂肪
+T250	Test_Value 6582 6584	升高
+T251	Test 6585 6589	白色脂肪
+T252	Anatomy 6597 6601	Atg7
+T253	Test 6627 6631	脂肪含量
+T254	Test_Value 6589 6593	明显增多
+T255	Anatomy 6664 6668	Atg7
+T256	Test 6686 6692	白色脂肪含量
+T257	Test_Value 6693 6697	明显减少
+T258	Test_Value 6725 6727	降低
+T259	Anatomy 6769 6771	肝脏
+T260	Test_Value 6887 6889	下降
+T261	Anatomy 6893 6897	外周组织
+T262	Anatomy 6939 6943	Atg7
+T263	Test 6955 6957	瘦素
+T264	Test_Value 6961 6963	下降
+T265	Test_Value 6971 6977	没有明显变化
+T266	Anatomy 7152 7158	LIPL-4
+T267	Anatomy 7180 7186	LIPL-4
+T268	Anatomy 7218 7224	LIPL-4
+T269	Symptom 7291 7296	胰岛素抵抗
+T270	Disease 7315 7320	代谢性疾病
+T271	Symptom 7328 7333	胰岛素抵抗
+T272	Test 7337 7339;7340 7343	长链 脂肪酸
+T273	Test_Value 7345 7349	明显增加
+T274	Disease 7430 7433;7434 7436	胰岛素 抵抗
+T275	Anatomy 7447 7451	Atg7
+T276	Anatomy 7469 7473	Atg7
+T277	Disease 7487 7492	糖耐量受损
+T278	Disease 7493 7499	低胰岛素血症
+T279	Test_Value 7484 7486	升高
+T280	Anatomy 7620 7623	p62
+T281	Anatomy 7636 7640	Atg7
+T282	Anatomy 7708 7712	Atg7
+T283	Disease 7811 7814	糖尿病
+T284	Disease 8012 8017	胰岛素抵抗
+T285	Disease 8009 8011	肥胖
+T286	Anatomy 7358 7363	游离脂肪酸
+T287	Symptom 7297 7308	胰岛 β 细胞功能失常
+T288	Anatomy 5461 5466	前脂肪细胞
+T289	Anatomy 5518 5524	白色脂肪细胞
+T290	Anatomy 5947 5955	成熟白色脂肪细胞
+T291	Anatomy 5983 5989	白色脂肪细胞
+T292	Anatomy 7133 7147	甘油三酯水解酶 LIPL-4
+T293	Anatomy 3502 3512	ULK1 激酶复合体
+T294	Anatomy 3586 3596	ULK1 激酶复合体
+T295	Anatomy 5474 5479;5480 5481	白色脂肪细 胞
+T296	Anatomy 5868 5872;5873 5875	突变脂肪 组织
+T297	Anatomy 6739 6745	棕色脂肪组织
+T298	Anatomy 1824 1832	肝脏组织 /细胞
+T299	Anatomy 2857 2864	雷帕霉素靶蛋白
+T300	Drug 2991 2995	雷帕霉素
+T301	Anatomy 3390 3400	ULK1 激酶复合体
+T302	Anatomy 3459 3466;3467 3470	ULK1 激酶 复合体
+T303	Anatomy 3536 3542;3543 3547	ULK1 激 酶复合体
+T304	Anatomy 3647 3658	3型 PI3K 复合体
+T305	Anatomy 3714 3722	PI3K 复合体
+T306	Anatomy 3785 3793	PI3K 复合体
+T307	Anatomy 3827 3832	Vps15
+T308	Anatomy 3984 3990	Atg14L
+T309	Anatomy 3991 3996	Vps34
+T310	Anatomy 3998 4003	Vps15
+T311	Anatomy 3976 3983	Beclin1
+T312	Anatomy 4062 4067	UVRAG
+T313	Anatomy 4068 4073	Vps34
+T314	Anatomy 4074 4079	Vps15
+T315	Anatomy 4391 4392;4393 4399	3 型 PI3K
+T316	Anatomy 4453 4461	PI3K 复合体
+T317	Anatomy 5327 5330;5331 5334	成熟脂 肪细胞

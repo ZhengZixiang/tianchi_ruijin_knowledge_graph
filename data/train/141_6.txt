@@ -1,0 +1,332 @@
+临床研究
+甲状腺激素对 2 型糖尿病患者 α 细胞
+功能的影响
+苏东峰  刘晓燕  宋娜  何建秋  陈娇月  金凤表  高宇  韩桂艳
+[摘要]   目的  研究甲状腺激素对甲状腺功能正常的 2 型糖尿病患者 α 细胞功能的影响。 方法 选
+取甲状腺功能正常的 2 型糖尿病患者 378 例作为研究对象,依据 FT3水平将研究对象分成 3 组,测量人体
+参数、相关生化指标、甲状腺激素水平、空腹及糖负荷后胰岛素及胰升糖素水平。 结果 按照 FT3水平三分
+位分组后,HBA1C分别为 9. 23% ±2. 48% 、8. 48% ± 1. 84% 、7. 91% ± 1. 51% (P<0. 05);随着 FT3水平的升
+高,各个时间点的胰升糖素水平均明显下降(P<0. 05);血糖曲线下面积(AUCG)及胰升糖素曲线下面积明
+显降低(P<0. 05);胰升糖素与胰岛素比值明显降低,差异有统计学意义。 多元线性回归分析显示空腹胰
+升糖素与高密度脂蛋白胆固醇、FT3 呈负相关(β = -0. 162, 95% CI -17. 42 ~ -4. 56,P<0. 01;β= -0. 129,
+95% CI -6. 42 ~ -0. 99,P<0. 01),与 lnAUCG 呈正相关(β = 0. 398,95% CI 29. 69 ~ 48. 31,P<0. 01)。结论
+甲状腺功能正常的 2 型糖尿病患者中血清 FT3水平与胰升糖素水平呈负相关,正常范围 FT3水平可能降低
+2 型糖尿病患者体内的胰升糖素水平,抑制血糖的过度升高。
+[关键词]   胰升糖素; 甲状腺激素; 糖尿病, 2 型
+Effect of thyroid hormones on α cell function in type 2 diabetic patients Su Dongfeng, Liu Xiaoyan, Song Na,
+He Jianqiu, Chen Jiaoyue, Jin Fengbiao, Gao Yu, Han Guiyan. Department of Endocrinology, Affiliated Hospital of
+Chengde Medical University, Chengde 067000, China
+[Abstract]  Objective   To investigate the effect of thyroid hormone on α cell function in type 2 diabetic
+patients with normal thyroid function. Methods Three hundred and seventy-eight type 2 diabetic patients with
+normal thyroid function were recruited, and they were divided into three groups according to the levels of serum free
+three iodine thyronine ( FT3 ). The clinical and biochemical parameters, thyroid hormone levels, fasting and
+postprandial insulin and glucagon levels were measured. Results The HBA1C(9. 23% ±2. 48% , 8. 48% ±1. 84% ,
+7. 91% ±1. 51% respectively)were significantly different among tertile groups of FT3 . With the increase of FT3 level,
+the glucagon levels at each time point, areas under the curve of glucose(AUCG)and glucagon, glucagon over insulin
+ratio(R / I)all decreased significantly( all P<0. 05) . Multivariate linear regression analysis demonstrated that the
+fasting glucagon levels were negatively associated with high density lipoprotein-cholesterol and FT3(β=-0. 162, 95%
+CI -17. 42--4. 56, P<0. 01; and β = -0. 129, 95% CI -6. 42--0. 99, P<0. 01 respectively), and positively
+associated with lnAUCG(β = 0. 398, 95% CI 29. 69-48. 31, P<0. 01) . Conclusion FT3 levels were negatively
+associated with glucagon levels in type 2 diabetic patients with normal thyroid function. The normal physiological
+concentration of FT3 may reduce glucagon levels in patients with type 2 diabetes mellitus, resulting in a decrease in
+blood glucose level.
+[Key words]  Glucagon; Thyroid hormones; Diabetes mellitus, type 2
+(Chin J Endocrinol Metab, 2015, 31: 951-955)
+随着经济的发展和人民生活水平的普遍提高,糖
+尿病的患病率呈逐年上升的趋势。 最新的研究显示中
+国成人糖尿病患病率已经达 11. 6% ,糖尿病前期患病
+率已上升至 50. 1% [1]。 2 型糖尿病是糖尿病最常见的
+类型,既往研究显示胰岛素抵抗及胰岛素分泌缺陷是
+2 型糖尿病发病的主要原因。 随着对肠促胰素研究的
+逐渐深入,胰岛 α 细胞功能与 2 糖尿病的关系越来越
+受到人们的关注。 甲状腺激素与糖尿病也有着千丝万
+缕的关系,在 2 型糖尿病患者中甲状腺功能异常的发
+生率明显增加[2]。 既往研究提示正常范围的甲状腺
+激素可能是胰岛 β 细胞功能的的保护因素[3],然而对
+于甲状腺激素与 α 细胞功能的研究尚不多见。 本研
+究通过观察甲状腺功能正常的 2 型糖尿病患者中血清
+游离三碘甲状腺原氨酸(FT3)、游离甲状腺素(FT4)、
+促甲状腺激素(TSH)水平与 α 细胞功能之间的关系,
+旨在初步探讨 2 型糖尿病患者中正常范围的甲状腺激
+素水平对 α 细胞功能的影响。
+对象和方法
+一、对象
+以 2014 年 6 月至 12 月在本院内分泌科住院,甲
+状腺功能正常的 378 例 2 型糖尿病患者作为研究对
+象。 所有患者均符合 1999 年世界卫生组织(WHO)的
+糖尿病诊断及分型标准[4]。
+排除标准:既往有甲状腺疾病史的患者,使用影
+响甲状腺功能药物的患者,1 型糖尿病患者,使用胰
+升糖素样肽 1(GLP-1)受体激动剂或二肽基肽酶4
+(DPP-4)抑制剂的患者,糖尿病急性并发症、发热、手
+术、创伤等应激情况的患者,严重肝、肾功能异常患者。
+本研究经本院伦理委员会批准同意。
+二、方法
+1. 问卷调查:设计调查问卷,内容包括一般情况、
+性别、年龄、病史、家族史及药物应用情况等。
+2. 所有患者测量身高、体重,血压;空腹静脉取血
+测量空腹血糖(FPG)、HBA1C、三酰甘油(TG)、总胆固
+醇(TC)、高密度脂蛋白胆固醇(HDL-C)、低密度脂蛋
+白胆固醇(LDL-C)及促甲状腺激素(TSH)、游离甲状
+腺素(FT4),游离三碘甲腺原氨酸(FT3),并行口服葡
+萄糖耐量试验及胰岛素、胰升糖素释放试验。 采用全
+自动生化仪(德国 Bayer)测定血脂等生化指标,高效
+液相法测定 HBA1C,TSH、FT3、FT4 采用电化学免疫发光
+法(TSH 正常范围为 0. 27 ~4. 2 mIU / L,FT3 正常范围为
+3. 15 ~6. 8 pmol / L,FT4 正常范围为 12 ~22 pmol / L)。
+3. 口服葡萄糖耐量试验及胰岛素、胰升糖素释放
+试验:患者于试验前一天停用中、长效胰岛素及促泌
+剂,避免外源性胰岛素对试验影响,禁食 10 h,次日清
+晨分别在口服 75 g 葡萄糖后 0、30、60、120 及 180 min
+取静脉血测定血糖、胰岛素、胰升糖素,采用己糖激酶
+法测定血糖,电化学发光法测定胰岛素,放射免疫法测
+定胰升糖素。
+4. 用曲线下面积(area under the curve, AUC)公式
+AUC=0. 5×(空腹值+180 min 值) +(30 min 值+60 min
+值+120 min 值)计算血糖、胰岛素、胰升糖素曲线下面
+积(AUCG、AUCI、AUCR)。 分别采用同一时点胰升糖
+素与胰岛素的比值(R / I)来评价胰升糖素对胰岛素的
+抑制作用。
+三、统计学处理
+正态分布的计量资料用 x-± s 表示,非正态分布数
+据应用 M(QR)表示;多组间计量资料组间的比较应用
+方差分析 LSD 检验,率的比较应用卡方检验;相关分
+析采用 Spearman 相关分析;多重线性回归分析空腹胰
+升糖素的相关危险因素。 非正态分布的数据经自然对
+数转换(ln)后进行分析。 以 P<0. 05 为差异有统计学
+意义。
+结    果
+一、一般临床特征
+本研究共纳入甲状腺功能正常 2 型糖尿病患者
+378 例,年龄(55 . 1 ± 9 . 9)岁,按照 FT3 由低到高水平
+表 1  按 FT3水平三分位各组之间基本临床特征及生化指标比较[(x-± s),n(% )]
+Tab 1  Comparison of clinical characteristics and biochemical parameters based on the different FT3 level[(x-± s),n(% )]
+组别
+Group
+例数
+n
+男性
+Male
+年龄
+(岁)
+Age
+(year)
+病程
+(年)
+Duration
+(year)
+BMI
+(kg / m2)
+SBP
+(mmHg)
+DBP
+(mmHg)
+A 126 53(42. 1) 56. 08 ± 11. 30 6. 00(1. 75-11. 25) 26. 10 ± 4. 56 131 ± 17 78 ± 80
+B 126 80(63. 5) 56. 12 ± 9. 34 6. 00(3. 00-10. 00) 26. 32 ± 3. 43 132 ± 18 79 ± 10
+C 126 97(77. 0) 54. 11 ± 9. 73 5. 00(2. 00-10. 00) 26. 93 ± 3. 51 133 ± 15 78 ± 10
+组别
+Group
+例数
+n
+胰岛素
+Insulin
+胰岛素促泌剂
+Insulin secretagogue
+FPG
+(mmol / L)
+FINS
+(mU / L)
+HBA1C
+(% )
+TG
+(mmol / L)
+A 126 46(36. 5) 43(34. 1) 7. 54 ± 1. 52 7. 95(5. 15-12. 63) 9. 23 ± 2. 48 1. 85 ± 1. 36
+B 126 49(38. 9) 40(31. 7) 7. 49 ± 1. 61 8. 50(5. 00-13. 73) 8. 48 ± 1. 84 a 2. 18 ± 1. 85
+C 126 52(41. 3) 36(28. 6) 7. 48 ± 1. 57 9. 50(5. 57-14. 83) 7. 91 ± 1. 51 ab 1. 98 ± 1. 16
+组别
+Group
+例数
+n
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+FT3
+(pmol / L)
+FT4
+(pmol / L)
+TSH
+(mUl / L)
+A 126 5. 24 ± 1. 29 1. 33 ± 0. 30 3. 33 ± 1. 08 3. 91 ± 0. 27 16. 47 ± 2. 16 1. 80 ± 0. 88
+B 126 5. 09 ± 1. 01 1. 31 ± 0. 26 3. 15 ± 0. 81 4. 56 ± 0. 16 16. 98 ± 2. 04 1. 53 ± 0. 82 a
+C 126 4. 96 ± 0. 96 1. 35 ± 0. 30 3. 04 ± 0. 74a 5. 35 ± 0. 47 17. 26 ± 26. 11 a 1. 55 ± 0. 83 a
+注:A:FT3 3. 15 ~ 4. 29 pmol / L;B:FT34. 3 ~ 4. 83 pmol / L;C:FT3 4. 83 ~ 6. 8 pmol / L;BMI:体重指数 Body mass index; SBP: 收缩压 Systolic blood
+pressure; 1 mmHg=0. 133 kPa; DBP: 舒张压 Diastolic blood pressure; FPG:空腹血糖 Fasting plasma glucose; FINS:空腹胰岛素 Fasting insulin;TG:三酰甘
+油 Triglyceride;TC:总胆固醇 Total cholesterol;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density
+lipoprotein-cholesterol; FT3:游离三碘甲状腺原氨酸 Free triiodothyronine;FT4:游离甲状腺素 Free thyroxine;TSH:促甲状腺激素 Hormothyrin;与 A 组比较
+vs A group, aP<0. 05;与 B 组比较 vs B group, bP<0. 05
+表 2  按 FT3水平三分位后各组患者间空腹及糖负荷后胰升糖素水平变化(x-± s, pg / ml)
+Tab 2  Glucagon levels before and after oral glucose tolerance test among patients with different FT3 levels(x-± s, pg / ml)
+组别
+Group
+例数
+n
+胰升糖素
+Glucagon
+0 min 30 min 60 min 120 min 180 min
+A 126 83. 60 ± 18. 99 123. 90 ± 28. 77 159. 22 ± 39. 85 159. 33 ± 60. 76 120. 09 ± 58. 41
+B 126 81. 84 ± 16. 33 121. 10 ± 27. 63 158. 37 ± 40. 80 154. 16 ± 60. 29 111. 25 ± 54. 30
+C 126 74. 87 ± 21. 22 112. 37 ± 31. 85 143. 99 ± 39. 41 136. 77 ± 56. 33 96. 83 ± 53. 34
+P 0. 001 0. 006 0. 003 0. 007 0. 004
+注:略语同表 1 The abbreviations are the same as Tab 1
+三分位数将研究对象分成 3 组,发现 3 组间年龄、病
+程、体重指数(BMI)、收缩压、舒张压、 FPG、 空腹胰岛
+素、TG、TC、是否使用促泌剂、是否使用胰岛素,差异均
+无统计学意义(均 P>0. 05,表 1)。 而 3 组间 HBA1C、
+LDL-C、FT4、TSH 之间比较差异均有统计学意义(表
+1)。 经过两两比较发现:与第 1 组比较,第 2 组和第 3
+组的 HBA1C、TSH 水平明显降低,且第 3 组 HbA1C明显水
+平低于第 2 组,差异均有统计学意义(均 P<0. 05)。与第
+1 组比较,第 3 组的 LDL-C 水平明显降低,FT4 水平明显
+增高,差异均有统计学意义(均 P<0. 05)。
+二、按 FT3水平三分位后各组间空腹及糖负荷后
+胰升糖素水平变化
+观察空腹及糖负荷后各时间点胰升糖素水平,可
+见各组胰升糖素水平均在 60 min 达高峰,然后逐渐下
+降。 随着 FT3水平的升高,各个时间点的胰升糖素水
+平均明显下降,差异有统计学意义(P<0. 05,表 2)。
+三、各组 AUCG、AUCI、AUCR 比较
+随着 FT3 水平的升高各组间 AUCG 及 AUCR 明显
+降低,差异有统计学意义(P<0. 05);AUCI 有所升高,
+但差异无统计学意义(P>0. 05,表 3)。
+表 3  各指标曲线下面积变化比较(x-± s)
+Tab 3  Comparison of area under the curve of each index(x-± s)
+组别
+Group
+例数
+n lnAUCG lnAUCI lnAUCR
+A 126 4. 06 ± 0. 19 4. 61 ± 0. 58 6. 26 ± 0. 29
+B 126 4. 02 ± 0. 19 4. 60 ± 0. 70 6. 23 ± 0. 30
+C 126 4. 00 ± 0. 20 4. 70 ± 0. 60 6. 12 ± 0. 33
+P 0. 048 0. 371 0. 001
+注:AUCR: 胰升糖素曲线下面积 Area under the curve of glucagon; 其
+他略语同表 1 The other abbreviations are the same as Tab 1
+四、各组间空腹及糖负荷后 R / I 的比较
+随着 FT3 水平的升高,0、30 及 60 min R / I 明显降
+低,差异有统计学意义(P<0. 05);而 120 及 180 min
+R / I 也呈下降趋势,但各组之间比较,差异无统计学意
+义(P>0. 05,表 4)。
+五、胰升糖素与各指标的相关性
+以年龄、病程、BMI、收缩压、舒张压、FPG、空腹胰
+岛素、TG、TC、HDL-C、是否使用促泌剂、是否使用胰岛
+素,TSH、FT3、FT4、lnAUCG、lnAUCI 等作为因变量,以
+空腹胰升糖素为因变量对进行多元逐步回归分析显
+示, 结果显示空腹胰升糖素与 HDL-C、FT3 呈负相关,
+与 lnAUCG 呈正相关(表 5)。
+表 4  各组间空腹及糖负荷后胰升糖素与胰岛素比值的比较(x-± s)
+Tab 4  Comparison of the ratio of glucagon to insulin before and after oral glucose tolerance test based on different FT3 levels(x-± s)
+组别
+Group
+例数
+n lnR / I 0 min lnR / I 30 min lnR / I 60 min lnR / I 120 min lnR / I 180 min
+A 126 2. 28 ± 0. 67 1. 90 ± 0. 68 1. 71 ± 0. 73 1. 41 ± 0. 87 1. 44 ± 0. 90
+B 126 2. 25 ± 0. 77 1. 85 ± 0. 79 1. 70 ± 0. 84 1. 40 ± 0. 89 1. 43 ± 0. 93
+C 126 2. 05 ± 0. 68 1. 65 ± 0. 70 1. 47 ± 0. 76 1. 20 ± 0. 87 1. 20 ± 0. 88
+P 0. 020 0. 014 0. 022 0. 098 0. 059
+注:R / I: 胰升糖素 / 胰岛素 Glucagon / insulin; 其他略语同表 1 The other abbreviations are the same as Tab 1
+表 5  空腹胰升糖素水平与相关指标的多元线性回归分析
+Tab 5 Multiple linear regression analysis of fasting glucagon levels
+and related indicators
+主要因素
+Index 标准化 β 95% CI T P
+lnAUCG 0. 398 29. 69 ~ 48. 31 -2. 179 0. 000
+HDL-C -0. 162 -17. 42 ~ -4. 56 2. 524 0. 001
+FT3 -0. 129 -6. 42 ~ -0. 99 3. 732 0. 008
+注:AUCG: 血糖曲线下面积 Area under the curve of glucose; HDL-C:
+高密度脂蛋白胆固醇 High-density lipoprotein cholesterol
+讨    论
+甲状腺激素是调节人体代谢的重要激素,与 2 型
+糖尿病关系密切。 Verga 等[5] 研究发现给予链脲佐菌
+素(STZ)诱导糖尿病小鼠 T3 治疗后,糖尿病小鼠胰岛
+形态结构及胰岛功能都发生明显改善,表明 T3 治疗对
+糖尿病胰岛 β 细胞功能具有一定的保护作用。 王尹
+曼等[3]研究发现甲状腺功能正常的 2 型糖尿病患者中,
+血清 FT3 水平与胰岛 β 细胞功能呈正相关,从而提出
+正常范围的 FT3 可能对 2 型糖尿病患者胰岛 β 细胞功
+能起保护作用这一观点。
+早在 1975 年 Unger 等[6]就提出“双激素学说冶,该
+学说认为糖尿病患者体内不仅仅是胰岛素的缺乏或分
+泌障碍,胰升糖素的相对或绝对过剩也是血糖紊乱的
+重要原因。 胰升糖素是胰岛 α 细胞分泌的一种多肽
+激素,与胰岛 β 细胞分泌胰岛素一起调节血糖的稳
+态。 正常人在空腹状态下,胰升糖素可以促进肝糖原
+分解成葡萄糖使血糖水平维持在正常水平,以确保重
+要组织器官充足的葡萄糖供应。 机体摄入碳水化合物
+后,胰岛素分泌增多,胰升糖素分泌受到抑制,肝糖原
+的合成及外周组织器官对葡萄糖的摄取增加,使血糖
+下降[7]。
+在糖尿病前期患者中就已经存在胰升糖素分泌的
+失调[8]。 2 型糖尿病患者体内存在 α 细胞胰升糖素的
+分泌失调,具体表现为 α 细胞对于高血糖反应减弱,
+血糖升高的同时不能有效抑制胰升糖素的分泌,致使
+胰升糖素的分泌增加;在低血糖时,胰升糖素又不能及
+时有效地增加分泌来升高血糖水平[9]。 空腹胰升糖
+素水平升高可以增加肝脏葡萄糖输出率,而肝脏葡萄
+糖输出率增加是 2 型糖尿病患者空腹血糖水平升高的
+重要原因[10-11]。 Shah 等[12]研究发现胰升糖素的分泌
+没有得到有效抑制是 2 型糖尿病患者餐后血糖升高的
+重要原因。 因此 2 型糖尿病患者中胰升糖素的分泌失
+调与空腹血糖及餐后血糖均密切相关。
+Zinke 等[13]研究发现胰岛 α 细胞表达甲状腺激素
+受体。 Dimitriadis 等[14]研究发现甲状腺激素可以调节
+人体内胰升糖素的分泌和代谢清除。 切除甲状腺的小
+牛基础胰升糖素水平明显下降,给予甲状腺激素替代
+治疗以后胰升糖素水平明显上升[15]。 这些均说明甲
+状腺激素水平与胰岛 α 细胞分泌及其分泌的胰升糖
+素也有着密切联系。
+关于甲状腺激素与胰升糖素之间的具体关系,在
+动物模型中研究结果颇有争议。 Wolf 等[16] 给予
+Wistar 大鼠腹腔注射甲状腺激素后,发现与对照组大
+鼠相比,注射甲状腺激素组大鼠体内 T3、T4 水平均明
+显升高,并且门静脉胰升糖素水平也明显升高。 然而
+同样外源性给予Wistar 大鼠甲状腺激素使其形成甲状
+腺功能亢进(甲亢)动物模型,Ikeda 等[17] 研究显示大
+鼠体内的胰升糖素分泌水平并没有发生明显改变。
+在甲亢患者中开展的研究结果也是如此。 Kabadi
+等[18]研究发现甲亢患者空腹胰升糖素水平显著高于
+对照组,然而 Lam 等[19] 及 Shima 等[20] 研究发现甲亢
+患者的空腹胰升糖素水平与正常受试者相比并没有显
+著差异,并认为甲亢患者中虽然存在胰升糖素的产生
+增加,但是其体内胰升糖素的代谢清除也是增加的,所
+以体内总的胰升糖素水平并没有发生明显变化。
+Kabadi 等[21]还发现甲亢患者糖负荷后胰升糖素抑制
+水平明显低于正常受试者,胰升糖素没有得到有效抑
+制是甲亢患者糖代谢紊乱的重要原因。
+本研究中发现随着血清中 FT3 水平的升高,甲状
+腺功能正常的 2 型糖尿病患者各个时间点的胰升糖素
+水平均下降,并且胰升糖素水平与血清 FT3 水平呈负
+相关。 以上提示甲状腺功能正常的 2 型糖尿病患者中
+较高的 FT3 水平可能会减少胰升糖素的分泌,降低体
+内血糖水平。
+Muller 等[22]研究认为生理剂量的 T3 不同于药理
+剂量的 T3,可以通过与胰岛素协同来减少胰升糖素的
+分泌。 在本研究中观察到随着血清中 FT3 水平的升
+高,胰升糖素与胰岛素比值呈下降趋势,也很好地印证
+了这一点。
+尽管甲状腺激素对胰岛 α 细胞功能的关系仍不
+能确定,但本研究中观察到甲状腺功能正常的 2 型糖
+尿病患者随着血清中 FT3 水平的升高,各个时间点的
+胰升糖素水平均下降,对于研究甲状腺激素与胰岛血
+糖素及糖代谢之间关系具一定意义。 随着目前 GLP-1
+受体激动剂和 DPP-4抑制剂这类药物研究的深入,对
+于胰岛 α 细胞及胰升糖素的研究也在逐渐深入,甲状
+腺激素与胰岛 α 细胞及胰升糖素之间的奥秘也必将
+会逐渐揭开。
+本研究局限性在于本研究是横断面研究,尚无法
+确定甲状腺激素水平与胰升糖素之间的因果关系。 因
+此需要未来设计大样本的前瞻性研究,以及从分子水
+平对其机制进行深入研究,探讨正常水平的甲状腺激
+素是否可以降低 2 型糖尿病患者体内胰升糖素水平,
+从而对机体发挥保护作用。

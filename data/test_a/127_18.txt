@@ -1,0 +1,159 @@
+基础研究
+基金项目:国家自然科学基金项目(30700387)
+袁晓岚、周姣姣、严静、初蕊、曲伸、李鸿),泌尿外科(杨丰强);大连医科
+大学附属第二医院内分泌科(苏本利);第一作者现在大连医院大学附
+属第二医院内分泌科
+吡格列酮对膀胱正常移行上皮细胞及膀胱癌细胞生长的影响
+王吉娇  李春艳  袁晓岚  周姣姣  严静  初蕊  杨丰强  曲伸  苏本利  李鸿
+[提要]   以不同浓度吡格列酮处理膀胱正常移行上皮细胞及膀胱癌 J82 细胞 24 h、48 h、72 h、5 d、8 d
+和 10 d,观察细胞生长状态,MTT 检测细胞生长抑制率,流式细胞仪分析细胞凋亡,实时定量 PCR 和
+Western 印迹法检测周期素 D1、p53、Bcl-2、Bax 的 mRNA 和蛋白表达。 结果显示,10 μmol / L 吡格列酮处理
+膀胱正常细胞 24、48、72 h 后细胞生长明显受抑制(均 P<0. 05),细胞凋亡增加[24 h(18. 8 ± 2. 1 对 9. 4 ±
+1. 7)% 、48 h(29. 9 ± 1. 3 对 10. 7 ± 1. 1)、72 h(49. 7 ± 2. 3 对 11. 3 ± 1. 3)% ,P<0. 05],J82 细胞未见明显影
+响。 10 μmol / L 吡格列酮处理 2 种细胞 72 h 内周期素 D1、p53、Bcl-2、Bax 的 mRNA 和蛋白表达均无明显变
+化,作用 8 d 后 J82 细胞周期素 D1、p53 蛋白表达降低,提示吡格列酮不增加膀胱正常移行上皮细胞癌变趋
+势。
+[关键词]   过氧化物酶体增殖物激活受体 γ; 噻唑烷二酮类; 吡格列酮; 膀胱癌
+Effect of pioglitazone on the growth of normal bladder transitional epithelial cells and bladder cancer cells
+Wang Jijiao*, Li Chunyan, Yuan Xiaolan, Zhou Jiaojiao, Yan Jing, Chu Rui, Yang Fengqiang, Qu Shen, Su Benli,
+Li Hong. *Department of Endocrinology, Shanghai Tenth People忆s Hospital, Tongji University, Shanghai 200072,
+China
+[Summary]   The normal bladder transitional cells and bladder cancer J82 cells were treated with various
+concentrations of pioglitazone for 24 h, 48 h, 72 h, 8 d, and 10 d. The growth of the cells was tested by MTT.
+Apoptosis rate was detected by flow cytometry technology. Realtime-PCR and Western blot were used to analyze the
+mRNA and protein expressions of p53, cyclin D1, Bcl-2, and Bax. The results showed that the cell viability of normal
+bladder cells was decreased 24, 48, and 72 h after 10 μmol / L pioglitazone treatment ( all P<0. 05) while the cell
+apoptosis was increased [24 h(18. 8 ± 2. 1 vs 9. 4 ± 1. 7)% ,48 h(29. 9 ± 1. 3 vs 10. 7 ± 1. 1),72 h(49. 7 ± 2. 3 vs
+11. 3 ± 1. 3)% ,P<0. 05] . Pioglitazone had no effect on the growth and proliferation of J82 cells. There were no
+significant differences in mRNA and protein expressions of p53, cyclin D1, Bcl-2, and Bax within 72 h after
+pioglitazone treatment in this two kinds of cells. But, the protein expressions of cyclin D1 and p53 in J82 cells were
+decreased after pioglitazone treatment for 8 days. These results suggest that pioglitazone does not increase the risk of
+bladder cancer in normal transitional cells.
+[Key words]  PPARγ; Thiazolidinediones; Pioglitazone; Bladder cancer
+(Chin J Endocrinol Metab, 2014, 30: 69-72)
+吡格列酮(pioglitazone, PGZ)属于噻唑烷二酮类抗糖尿病
+药物,为过氧化物酶体增殖物激活受体 γ(PPARγ)激动剂,通
+过提高外周和肝脏的胰岛素敏感性来控制血糖水平,但近期有
+资料提示 PGZ 有增加膀胱癌风险的可能[1] 。 因此,本研究探
+讨 PGZ 对膀胱正常移行上皮细胞及膀胱癌细胞生长的影响,旨
+在为临床用药的安全性提供依据。
+一、 材料和方法
+1. 材料:PGZ( Sigma 公司),DMEM / F12 培养基(Hyclone
+公司),胎牛血清(Hyclone 公司),膜联蛋白 V(AnnexinV) /碘化
+丙啶(PI)凋亡试剂盒(罗氏试剂公司),Trizol 提取液( Invitrogen
+公司),PCR 引物(上海生工生物工程有限公司合成),实时定
+量 PCR 试剂盒(TaKaRa 公司),周期素 D1、p53、Bcl-2、Bax 多克
+隆抗体(CST 公司),7900Realtime-PCR 仪(ABI 公司),流式细
+胞仪(Beckman-Couher 公司),膀胱癌细胞株 J82 购自中国科学
+院上海生命科学研究院。
+2. 方法:(1)膀胱移行细胞原代培养:8 周龄雄性 SD 大鼠
+由上海西普尔-必凯实验动物有限公司提供,无菌条件下分离
+膀胱粘膜层,37℃消化,收集细胞以培养液重悬,差速贴壁法去
+除成纤维细胞。 以 DMEM / F12 培养基置于 37℃、5% CO2培养
+箱内培养,收集对数生长期的细胞进行实验。 J82 细胞培养:在
+高糖 DMEM 中以 37℃、5% CO2 培养。 0. 25% 胰蛋白酶消化,
+2 ~ 3 d 传代 1 次。 (2)二甲基噻唑(MTT):细胞以 5×104个 / ml
+接种于 96 孔板,以 0、5、10、20、40 μmol / L PGZ(每组 8 复孔)培
+养 24、48、72 h 进行 MTT 检测,全自动酶标仪测定 490 nm 处吸
+光度(A)。 生长抑制率 (% ) = ( A对照 - A实验 ) / ( A对照 - A空白 ) ×
+100% 。 (3)流式细胞技术:采用 PI 和 AnnexinV 染色。 收集
+注:A:J82 细胞对照组;B:J82 细胞吡格列酮组(10 μmol / L);C:膀胱正常移行细胞对照组;D:膀胱正常移行细胞吡格列酮组(10 μmol / L),细胞
+生长明显抑制
+图 1  显微镜下观察吡格列酮作用 72 h 后 J82 细胞及膀胱正常移行细胞生长情况(×100)
+PGZ 孵育的细胞(约 106 / ml),加 8 滋l AnnexinV、4 滋l PI,混匀,
+室温避光染色 30 min。 加 400 滋l PBS 液,吹打混匀后上机检测。
+用 Lvsis 软件分析结果。 实验重复 3 次取平均值。 (4)实时定
+量 PCR:收集 PGZ 干预后的膀胱正常细胞和 J82 细胞,以 Trizol
+提取总 RNA,以 GAPDH 为内参,按试剂盒说明进行实时定量
+PCR,检测周期素 D1、p53、Bcl-2 和 Bax 的 mRNA 表达。 (5)
+Western 印迹法:10 μmol / L PGZ 处理细胞,分别于 24 h、48 h、
+72 h、8 d、10 d 提取各组细胞蛋白。 SDS-PAGE 电泳及转膜,室
+温下封闭。 内参采用 β-actin 蛋白。 一抗浓度 1 : 1 000,二抗浓
+度 1 : 2 000。 Odyssey 仪扫描获得图片。
+3. 统计学处理:结果采用 x-± s 进行描述,组间比较采用单
+因素方差分析。 SPSS 17. 0 软件处理,P<0. 05 为差异有统计学
+意义。
+二、 结果
+1. 显微镜下观察细胞生长状态:对照组膀胱正常细胞呈多
+边形铺路石样,核呈卵圆形,位于细胞中央,生长情况好。 10
+μmol / L PGZ 处理组细胞核由规则的圆形向不规则状转变,细
+胞皱缩,不再贴壁悬浮于培养液中,表现出不同程度的程序性
+死亡特征,且随着时间由 24 h、48 h、72 h 的延长凋亡现象更加
+明显。 PGZ 对 J82 细胞生长无明显影响(图 1)。 相同条件下处
+理大鼠角膜上皮细胞、肝脏正常细胞、肾脏正常细胞均未见凋
+亡。
+2. MTT 结果:PGZ 对膀胱正常移行上皮细胞生长有明显
+的抑制作用,抑制率呈时间剂量依赖性(P<0. 05)。 而对 J82 细
+胞则无生长抑制作用(P>0. 05,图 2)。
+3. 流式细胞技术检测结果:PGZ 呈时间剂量依赖地促进膀
+注:PGZ:吡格列酮;与对照细胞比较,aP<0. 05
+图 2  PGZ 对膀胱正常移行上皮细胞及 J82 细胞生长的抑制作用
+胱正常细胞凋亡。 J82 细胞则未见明显凋亡。 10 μmol / L PGZ
+处理膀胱正常移行上皮细胞 24 h、48 h、72 h 明显增加凋亡
+[(18. 8 ± 2. 1 对 9. 4 ± 1. 7)% 、(29. 9 ± 1. 3 对 10. 7 ± 1. 1)% 、
+(49. 7 ± 2. 3 对 11. 3 ± 1. 3)% ,P<0. 05]。
+4. 实时定量 PCR 结果:10 μmol / L PGZ 分别作用膀胱正常
+细胞及 J82 细胞 24 h、48 h、72 h、8 d、10 d,周期素 D1、p53、
+Bcl-2、Bax 的 mRNA 表达均未见明显差异(P>0. 05)。
+5. Western 印迹结果:PGZ 作用 24 h、48 h、72 h 后膀胱正常
+图 3  10 μmol / L 吡格列酮对 2 种细胞周期素 D1、p53、Bcl-2 和 Bax 蛋白表达的影响
+细胞及 J82 细胞中周期素 D1、p53、Bcl-2、Bax 的蛋白表达均未
+见明显变化。 而作用 8 d 后,J82 细胞周期素 D1、p53 蛋白表达
+降低(图 3)。
+讨    论
+目前,PGZ 与膀胱癌的关系尚无定论。 主要观点有二:(1)
+PGZ 可能增加膀胱癌患病风险。 首次于 PROactive 受试人群发
+现[2] , PGZ 组与安慰剂组发生膀胱癌的患者分别为 14 例和 6
+例。 法国的回顾性队列研究[3] 调查了 2006 年至 2009 年在医
+保中记录的 40 ~ 79 岁,共计 1 491 060 例糖尿病患者。 结果显
+示,吡格列酮与膀胱癌的发生显著相关 (HR = 1. 22,95% CI
+1. 05 ~ 1. 43)。 此后的多项研究也证明了此观点[4,5] 。 (2)PGZ
+与膀胱癌风险无关。 一项为期 10 年的纵向队列研究选取北加
+州糖尿病注册表中 19. 3 万患者。 5 年中期结果显示,与从未服
+用 PGZ 的糖尿病患者相比,短期服用 PGZ 与膀胱癌风险无关
+(HR=1. 2,95% CI 0. 9 ~ 1. 5) [6] 。 Yang 等[7]观察了 252 467 例
+40 ~ 50 岁使用 PGZ 的糖尿病患者,发现使用 PGZ 与膀胱癌风
+险无关。 一些研究指出使用 PGZ 的糖尿病患者膀胱癌增加的
+风险并不是很高。 这种风险在 PGZ 累积剂量 28 000 mg、作用
+时间大于 24 个月时才尤其明显,并且 95% 属于癌症的早期阶
+段。 还有一些研究不支持 PGZ 会增加膀胱癌风险[8-10] 。 目前
+的研究主要集中在流行病学调查,临床资料结果不一,尚不能
+明确 PGZ 与膀胱癌发生的因果关系。 因此,本研究从基础角度
+观察吡格列酮对膀胱正常移行上皮细胞及膀胱癌细胞的影响,
+探讨 PGZ 与膀胱癌的关联。
+本研究发现,PGZ 对膀胱癌细胞生长未见明显影响,但膀
+胱正常移行上皮细胞发生大范围死亡,作用强度呈时间剂量±
+赖性。 PGZ 处理的大鼠角膜上皮细胞、肝脏正常细胞、肾脏正
+常细胞,均未见细胞生长抑制。 由此推测,PGZ 的应用并不促
+进膀胱癌细胞的增殖,但导致膀胱正常移行上皮细胞凋亡,且
+具有组织特异性。
+总结现有研究,PGZ 抑制细胞生长的作用机制主要有 3 个
+方面:细胞周期静止、诱导凋亡和终末分化[11] 。 本研究中流式
+细胞检测结果提示:PGZ 致正常膀胱细胞死亡可能源于促进其
+凋亡。 而 Bcl-2、Bax 基因及蛋白的表达均未见明显改变,推测
+这一现象并非由经典的 Bcl-2、Bax 途径引起,可能与其他途径
+有关,如阻滞细胞周期、抑制膀胱正常细胞的生长。
+周期素 D1、p53 为膀胱癌肿瘤标记物[12,13] 。 周期素 D1 是
+细胞周期 G1 / S 期的重要调控因子,周期素 D1 的表达上调使细
+胞失控性生长,表达下调则抑制细胞生长[14,15] 。 本研究结果显
+示,10 μmol / L PGZ 处理膀胱正常移行上皮细胞及 J82 细胞 24、
+48、72 h 后,周期素 D1、p53 mRNA 及蛋白表达未见明显差异。
+作用 8 d,J82 细胞周期素 D1、p53 蛋白表达明显减弱,而膀胱正
+常移行上皮细胞未见明显变化。 由此推测,PGZ 长期培养可一
+定程度抑制膀胱癌细胞活性。
+有研究发现,PGZ 处理的雄性 SD 大鼠膀胱上皮早期出现
+肥大,且细胞有明显缺损等病理改变[16] ,这与本研究结果一
+致。 多数文献报道 PGZ 对直肠癌、胰腺癌和肝癌等细胞有生长
+抑制作用,PGZ 可降低糖尿病患者多数肿瘤的发生率也得到公
+认[17] 。 另外,PGZ 的致癌原因,目前有两种公认的猜测。 一种
+观点认为,PGZ 直接作用于受体产生效应,导致癌变[18,19] 。 但
+也存在相反观点,如一些体外研究发现,PPAR 激动剂似乎抑制
+细胞增殖与分化。 另一种观点认为,PPAR 激动剂可能诱导尿
+液成分发生变化产生固体颗粒,对膀胱上皮产生毒性作用,促
+进细胞增殖,最终发生癌变[16] 。 上述这些观点均需更多研究
+进一步证明。
+综上所述,本研究发现,PGZ 不增加膀胱正常移行上皮细
+胞癌变趋势,亦不促进膀胱癌细胞增殖;长期培养可一定程度
+抑制膀胱癌细胞活性;PGZ 促进膀胱正常移行上皮细胞凋亡,
+具有组织特异性,提示糖尿病患者应用 PGZ 可能并不增加其罹
+患膀胱癌风险。

@@ -1,0 +1,389 @@
+T1	Disease 70 72	肾癌
+T2	Disease 75 80	肾上腺占位
+T3	Disease 104 106;107 110	肾上 腺占位
+T4	Disease 161 164;165 167	肾上腺 占位
+T5	Disease 187 189	肾癌
+T6	Disease 263 268	透明细胞癌
+T7	Disease 284 288	囊性肾癌
+T8	Disease 303 315	透明细胞与颗粒细胞混合型
+T9	Disease 328 332	肾淋巴瘤
+T10	Disease 333 338	梭形细胞瘤
+T11	Disease 339 345	嗜酸细胞腺瘤
+T12	Disease 401 408	左侧肾上腺占位
+T13	Disease 446 455	原发性醛固酮增多症
+T14	Disease 460 464	无功能瘤
+T15	Disease 474 477	转移癌
+T16	Operation 489 497	肾上腺肿物切除术
+T17	Test 498 500	病理
+T18	Disease 502 506	原发占位
+T19	Disease 523 527	皮质腺瘤
+T20	Disease 542 543;544 547	皮 质增生
+T21	Disease 561 566	嗜铬细胞瘤
+T22	Disease 567 573	节细胞神经瘤
+T23	Disease 574 580	腺瘤合并增生
+T24	Disease 596 602	肾上腺转移癌
+T25	Disease 616 623	非霍奇金淋巴瘤
+T26	Disease 637 641	原发占位
+T27	Disease 654 657	转移癌
+T28	Test 678 680	超声
+T29	Disease 796 799	转移癌
+T30	Disease 801 805	术中出血
+T31	Disease 812 818	肾上腺淋巴瘤
+T32	Disease 827 829	死亡
+T33	Disease 853 858	透明细胞癌
+T34	Disease 859 861;862 871	与肾 癌并存的肾上腺占位
+T35	Disease 887 891	无功能瘤
+T36	Disease 895 900	肾上腺占位
+T37	Disease 901 903	肾癌
+T38	Disease 918 921	转移癌
+T39	Test 937 939	CT
+T40	Test 940 943	MRI
+T41	Test 957 959	病理
+T42	Disease 983 992	孤立性肾上腺转移癌
+T43	Disease 1019 1024	肾上腺占位
+T44	Disease 1026 1028	肾癌
+T45	Disease 4118 4123	肾上腺占位
+T46	Anatomy 4132 4135	肾上腺
+T47	Disease 4136 4138	肾癌
+T48	Disease 4159 4164;4165 4167	肾癌肾上腺 转移
+T49	Disease 4267 4272	肾上腺占位
+T50	Disease 4325 4330	肾上腺占位
+T51	Disease 4350 4352;4353 4359	肾上 腺外恶性肿瘤
+T52	Disease 4385 4387	肾癌
+T53	Disease 4434 4436	肾癌
+T54	Disease 4447 4449	肾癌
+T55	Disease 4706 4708	肾癌
+T56	Disease 4719 4724	透明细胞癌
+T57	Disease 4740 4744	囊性肾癌
+T58	Disease 4758 4765;4766 4771	透明细胞与颗粒 细胞混合型
+T59	Disease 4784 4788	肾淋巴瘤
+T60	Disease 4789 4794	梭形细胞瘤
+T61	Disease 4795 4796;4797 4802	嗜 酸细胞腺瘤
+T62	Disease 4803 4811	未分化型肾细胞癌
+T63	Symptom 4870 4874	腰部胀痛
+T64	Symptom 4879 4881	血尿
+T65	Symptom 4886 4888	黑便
+T66	Symptom 4918 4919;4920 4921	消 瘦
+T67	Symptom 4922 4924	腹痛
+T68	Symptom 4925 4929	全身乏力
+T69	Test 6506 6510	儿茶酚胺
+T70	Disease 6525 6532	肾上腺原发占位
+T71	Disease 6540 6542;6543 6550	原发 性醛固酮增多症
+T72	Disease 6555 6559	无功能瘤
+T73	Disease 6569 6572	转移癌
+T74	Disease 6580 6589	肾上腺皮质功能不全
+T75	Operation 6614 6620;6621 6623	肾上腺肿物切 除术
+T76	Test 6624 6626	病理
+T77	Disease 6628 6635	肾上腺原发占位
+T78	Disease 6650 6652;6653 6659	肾上 腺转 移 癌
+T79	Disease 6675 6688	非 霍 奇 金 淋 巴 瘤
+T80	Disease 6702 6706	原发占位
+T81	Disease 6707 6714	肾上腺皮质腺瘤
+T82	Disease 6720 6723;6724 6726	嗜铬细 胞瘤
+T83	Disease 6740 6744	多囊胰腺
+T84	Disease 6762 6768	节细胞神经瘤
+T85	Disease 6787 6791	皮质增生
+T86	Disease 6858 6859;6860 6863	原 发占位
+T87	Disease 6890 6894	原发占位
+T88	Disease 6905 6908	转移癌
+T89	Disease 6944 6948	原发占位
+T90	Disease 6963 6966	转移癌
+T91	Disease 6991 6996	肾上腺占位
+T92	Test 7111 7114	B 超
+T93	Disease 7124 7129	肾上腺占位
+T94	Disease 7200 7205	肾上腺占位
+T95	Disease 7224 7230	肾上腺原发瘤
+T96	Test 7283 7285	CT
+T97	Disease 7325 7328	转移癌
+T98	Disease 7537 7543	肾上腺转移癌
+T99	Disease 7545 7550	术中大出血
+T100	Disease 7554 7557	淋巴瘤
+T101	Disease 7566 7568	死亡
+T102	Disease 7600 7605	肾上腺占位
+T103	Disease 7607 7611	恶性肿瘤
+T104	Disease 7619 7622	转移癌
+T105	Disease 7624 7626	肾癌
+T106	Disease 7627 7630;7631 7633	肾上腺 占位
+T107	Disease 7642 7649	肾癌肾上腺转移
+T108	Disease 7673 7675	肾癌
+T109	Disease 7678 7680;7681 7684	肾上 腺占位
+T110	Disease 7702 7705;7706 7707	恶性肿 瘤
+T111	Disease 7708 7713	肾上腺占位
+T112	Disease 7742 7744	肾癌
+T113	Disease 7789 7794	肾上腺转移
+T114	Operation 7796 7801	肾癌切除术
+T115	Disease 7872 7879	肾上腺原发占位
+T116	Disease 7892 7895	转移癌
+T117	Disease 7907 7912	肾上腺占位
+T118	Disease 7913 7915	肾癌
+T119	Disease 7925 7929	原发占位
+T120	Disease 7939 7941	肾癌
+T121	Disease 7959 7963	原发占位
+T122	Disease 7985 7987	肾癌
+T123	Disease 8003 8007	原发占位
+T124	Anatomy 8017 8019	肾脏
+T125	Anatomy 8020 8025	肾上腺组织
+T126	Anatomy 8036 8041	肾上腺皮质
+T127	Anatomy 8053 8058	肾上腺髓质
+T128	Anatomy 8044 8051	胚胎侧板中胚层
+T129	Anatomy 8073 8075	肾脏
+T130	Anatomy 8079 8081	后肾
+T131	Anatomy 8082 8084	后肾
+T132	Anatomy 8087 8092	间介中胚层
+T133	Anatomy 8094 8096	肾脏
+T134	Anatomy 8111 8116	肾上腺组织
+T135	Disease 8141 8145	肾脏肿瘤
+T136	Anatomy 8150 8152;8153 8154	肾上 腺
+T137	Disease 8205 8210	无功能占位
+T138	Anatomy 8221 8224	肾上腺
+T139	Disease 8233 8242	肾上腺皮质功能不全
+T140	Test 8262 8267	肾上腺功能
+T141	Disease 8307 8316	原发性醛固酮增多症
+T142	Disease 8320 8322;8323 8324	高血 压
+T143	Disease 8325 8328	低血钾
+T144	Disease 8329 8333	肾性失钾
+T145	Disease 8336 8341	肾上腺占位
+T146	Disease 8350 8359	肾上腺皮质功能不全
+T147	Disease 8365 8370	肾上腺肿物
+T148	Disease 8373 8377	原发占位
+T149	Disease 8386 8389	原发瘤
+T150	Disease 8394 8396;8397 8398	转移 癌
+T151	Test 8450 8453	B 超
+T152	Test 8454 8456	CT
+T153	Test 8457 8460	MRI
+T154	Test 8497 8500	B 超
+T155	Disease 8514 8518	原发肿瘤
+T156	Disease 8519 8522	转移瘤
+T157	Disease 8547 8552	肾上腺腺瘤
+T158	Disease 8715 8721	肾上腺原发瘤
+T159	Disease 8722 8725	转移瘤
+T160	Disease 8742 8744	腺瘤
+T161	Disease 8749 8752	转移癌
+T162	Disease 8764 8766	腺瘤
+T163	Disease 8785 8787	腺瘤
+T164	Disease 8792 8793;8794 8796	转 移癌
+T165	Test 8823 8829	MRI 扫描
+T166	Disease 8829 8836	肾上腺原发占位
+T167	Disease 8871 8874;8875 8878	肾上腺 转移癌
+T168	Test 8920 8923	MRI
+T169	Test 8936 8938	CT
+T170	Disease 8955 8957	肾癌
+T171	Disease 8994 8999	肾上腺占位
+T172	Disease 9030 9034	肾细胞癌
+T173	Disease 9038 9044	肾脏恶性肿瘤
+T174	Disease 9058 9063	透明细胞癌
+T175	Disease 9081 9086	透明细胞癌
+T176	Disease 9095 9100	肾上腺占位
+T177	Disease 9117 9122	透明细胞癌
+T178	Disease 9130 9132	肾癌
+T179	Disease 9133 9139	未分化细胞癌
+T180	Disease 9140 9145	梭形细胞癌
+T181	Disease 9146 9152;9153 9155	多房囊性肾细 胞癌
+T182	Disease 9229 9233	无功能瘤
+T183	Disease 9236 9239	转移癌
+T184	Disease 9242 9247	肾上腺占位
+T185	Disease 9261 9263;9264 9266	原发 占位
+T186	Disease 9299 9308	孤立性肾上腺转移癌
+T187	Operation 9428 9434;9435 9436	姑息性肾癌切 除
+T188	Disease 9451 9456	肾上腺肿物
+T189	Anatomy 9468 9472	肾周组织
+T190	Operation 9490 9495	肾上腺切除
+T191	Disease 9518 9522;9523 9524	透明细胞 癌
+T192	Disease 9538 9542	原发占位
+T193	Disease 9553 9557	无功能瘤
+T194	Disease 9561 9566	肾上腺占位
+T195	Disease 9567 9569	肾癌
+T196	Disease 9584 9587	转移癌
+T197	Test 9604 9606	CT
+T198	Test 9607 9610	MRI
+T199	Test 9624 9626	病理
+T200	Disease 9635 9646	无功能的肾上腺原发占位
+T201	Disease 9650 9651;9652 9660	孤 立性肾上腺转移癌
+T202	Disease 9675 9676;9677 9678	肾 癌
+T203	Disease 6 8	肾癌
+T204	Test 672 676;677 678	影像学检 查
+T205	Operation 760 762	手术
+T206	Disease 928 930	肿瘤
+T207	Operation 994 998	手术切除
+T208	Test 4506 4512	等内分泌功能
+T209	Test 4550 4553	影像学
+T210	Test 4554 4558	病理检查
+T211	Disease 4650 4652	肿瘤
+T212	Symptom 5147 5151	腰部胀痛
+T213	Disease 5165 5170	透明细胞癌
+T214	Symptom 5206 5208	血尿
+T215	Disease 5221 5225	囊性肾癌
+T216	Symptom 5262 5264	黑便
+T217	Disease 5274 5286	透明细胞与颗粒细胞混合型
+T218	Disease 5348 5352	结肠息肉
+T219	Disease 5369 5373	肾淋巴瘤
+T220	Disease 5401 5409	结肠绒毛管状腺瘤
+T221	Disease 5437 5442	梭形细胞瘤
+T222	Symptom 5474 5476	消瘦
+T223	Disease 5488 5494	嗜酸细胞腺瘤
+T224	Symptom 5532 5534	腹痛
+T225	Disease 5552 5560	未分化型肾细胞癌
+T226	Symptom 5619 5623	全身乏力
+T227	Test 5640 5642	病理
+T228	Disease 5712 5715	高血压
+T229	Disease 5731 5734	糖尿病
+T230	Test 5755 5758	白细胞
+T231	Test 5890 5892	病理
+T232	Disease 5999 6003	原发占位
+T233	Disease 6070 6077	肾上腺皮质腺瘤
+T234	Disease 6115 6124	原发性醛固酮增多症
+T235	Disease 6149 6154	嗜铬细胞瘤
+T236	Disease 6184 6188	无功能瘤
+T237	Disease 6213 6219	节细胞神经瘤
+T238	Disease 6247 6250	转移癌
+T239	Disease 6253 6257	无功能瘤
+T240	Disease 6282 6288	腺瘤合并增生
+T241	Disease 6325 6329	皮质增生
+T242	Disease 6364 6367	转移癌
+T243	Disease 6401 6408	非霍奇金淋巴瘤
+T244	Test 6511 6514;6515 6519	内分泌 功能检测
+T245	Test 6596 6598	病理
+T246	Disease 7065 7066;7067 7070	原 发占位
+T247	Disease 7084 7087	转移癌
+T248	Test 7105 7110	影像学检查
+T249	Operation 7481 7483	手术
+T250	Test 7860 7862	病理
+T251	Test 8293 8297;8298 8299	内分泌功 能
+T252	Test 8411 8416	内分泌功能
+T253	Test 8420 8425	影像学检查
+T254	Test 8583 8585	CT
+T255	Test 8667 8669	CT
+T256	Test 8702 8706	脂质含量
+T257	Test 8771 8776	CT 平扫
+T258	Test 8817 8819	CT
+T259	Disease 8925 8927	腺瘤
+T260	Disease 8984 8986	肿瘤
+T261	Operation 9225 9227	手术
+T262	Operation 9332 9336	手术切除
+T263	Disease 9413 9415	肿瘤
+T264	Anatomy 9476 9479	肾上腺
+T265	Disease 9594 9596	肿瘤
+T266	Disease 9614 9616	占位
+T267	Operation 9662 9666	手术切除
+T268	Duration 772 776	8 个月
+T269	Duration 779 782	6 年
+T270	Disease 6932 6936	双侧占位
+T271	Disease 7272 7277	嗜铬细胞瘤
+T272	Duration 7493 7503	8 个月 ~ 6 年
+T273	Anatomy 8097 8099	血流
+T274	Anatomy 8100 8103	淋巴液
+T275	Disease 1007 1009	肾癌
+T276	Duration 4464 4472	1 ~ 19 年
+T277	Disease 783 785	死亡
+T278	Disease 7145 7152	低回声实性占位
+T279	Disease 7158 7162	混合回声
+T280	Disease 7163 7168	无回声占位
+T281	Test_Value 7234 7239	低密度结节
+T282	Test_Value 7240 7243	边界清
+T283	Test_Value 7244 7256;7257 7261	强化不明显或轻度强化且密 度不均匀
+T284	Test_Value 7262 7269	2 例强化明显
+T285	Test_Value 7413 7427;7428 7429	T1、T2 等信号或低信号改 变
+T286	Test_Value 7430 7448	扩散加权成像未见异常改变或低信号改变
+T287	Test_Value 7330 7334	呈结节状
+T288	Test_Value 7335 7339	边界欠清
+T289	Test_Value 7340 7344	增强明显
+T290	Test_Value 7299 7323	15 ~ 24. 1 / 16 ~ 68(Hu)
+T291	Test_Value 7358 7381	19 ~ 40 / 100 ~ 110(Hu)
+T292	Test_Value 7449 7452;7453 7463	增强扫 描不强化或强化不明显
+T293	Disease 7507 7509	死亡
+T294	Test_Value 8556 8560	低密度影
+T295	Test_Value 8561 8566	多边缘光滑
+T296	Test_Value 8567 8576	强化不明显或低强化
+T297	Test_Value 8588 8601	15 ~ 24. 1 Hu
+T298	Test_Value 8606 8616	16 ~ 68 Hu
+T299	Test_Value 8619 8622;8623 8628	转移癌 常边界欠清
+T300	Test_Value 8629 8636	类圆形或分叶状
+T301	Test_Value 8637 8647;8648 8649	强化可表现为均匀强化 型
+T302	Test_Value 8650 8661	混杂强化型和环状强化型
+T303	Test_Value 8672 8679;8680 8682	19 ~ 40 Hu
+T304	Test_Value 8687 8699	100 ~ 110 Hu
+T305	Test_Value 8839 8849;8850 8855	T1、T2 等信号或 低信号改变
+T306	Test_Value 8856 8869	增强扫描不强化或强化不明显
+T307	Test_Value 8878 8883	形态欠规则
+T308	Test_Value 8884 8894	T1 加权像呈低信号
+T309	Test_Value 8895 8902;8903 8906	T2 加权像呈 高信号
+T310	Test_Value 8907 8918	瘤体内可有点片状坏死区
+T311	Test_Value 9249 9257	<1. 8 cm
+T312	Anatomy 11 14	肾上腺
+T313	Disease 346 351;352 355	未分化型肾 细胞癌
+T314	Test 686 693	电子计算机断层
+T315	Test 702 707	磁共振成像
+T316	Disease 843 848	肾上腺占位
+T317	Disease 849 851	肾癌
+T318	Disease 4124 4126	肾癌
+T319	Disease 4191 4193	肾癌
+T320	Disease 4196 4201	肾上腺占位
+T321	Disease 4233 4235	肾癌
+T322	Disease 4238 4239;4240 4244	肾 上腺占位
+T323	Test 4482 4489;4490 4500	卧立位肾素-血 管紧张素-醛固酮系统
+T324	Test 4501 4506	皮质醇节律
+T325	Disease 4531 4533	肾癌
+T326	Disease 4536 4541	肾上腺占位
+T327	Disease 4587 4589	肾癌
+T328	Disease 4592 4596;4597 4598	肾上腺占 位
+T329	Disease 4691 4693	肾癌
+T330	Disease 4683 4688	肾上腺占位
+T331	Disease 4899 4903	结肠息肉
+T332	Disease 4908 4916	结肠绒毛管状腺瘤
+T333	Disease 4935 4938	高血压
+T334	Disease 4943 4946	糖尿病
+T335	Symptom 4952 4957	白细胞升高
+T336	Disease 6446 6448	肾癌
+T337	Disease 6451 6456	肾上腺占位
+T338	Test 6481 6489;6490 6499	卧立位肾素-血管 紧张素-醛固酮系统
+T339	Test 6500 6505	皮质醇节律
+T340	Disease 6737 6739	肾癌
+T341	Disease 6753 6760	VHL 综合征
+T342	Disease 6775 6777	腺瘤
+T343	Disease 6780 6782	增生
+T344	Disease 6840 6842	肾癌
+T345	Disease 6845 6850	肾上腺占位
+T346	Disease 6871 6873	肾癌
+T347	Disease 6876 6881	肾上腺占位
+T348	Disease 6915 6920;6921 6922	肾透明细胞 癌
+T349	Anatomy 6925 6930	右侧肾上腺
+T350	Disease 6952 6954	腺瘤
+T351	Disease 6956 6958	增生
+T352	Disease 6971 6973	肾癌
+T353	Anatomy 6979 6982	肾上腺
+T354	Test 7176 7185	电子计算机断层扫描
+T355	Test 7345 7349	CT 值
+T356	Test 7383 7388	磁共振成像
+T357	Disease 7584 7587	肾上腺
+T358	Disease 7588 7592	恶性肿瘤
+T359	Disease 7748 7753	肾上腺腺瘤
+T360	Disease 7754 7756	增生
+T361	Anatomy 7809 7812	肾上腺
+T362	Disease 7845 7847	肾癌
+T363	Disease 7848 7853	肾上腺占位
+T364	Disease 7968 7970	肾癌
+T365	Disease 7973 7977;7978 7979	肾上腺占 位
+T366	Anatomy 8061 8064	神经嵴
+T367	Anatomy 8065 8070	外胚层细胞
+T368	Disease 8173 8175	肾癌
+T369	Disease 8178 8183	肾上腺占位
+T370	Anatomy 8256 8259	肾上腺
+T371	Disease 8429 8431	肾癌
+T372	Disease 8434 8439	肾上腺占位
+T373	Test 8470 8471;8472 8483	正 电子发射计算机断层显像
+T374	Test 8524 8526	CT
+T375	Disease 8544 8546	肿瘤
+T376	Anatomy 8746 8748	脂质
+T377	Anatomy 8761 8763	脂质
+T378	Disease 9101 9102;9103 9104	肾 癌
+T379	Disease 9164 9166	肾癌
+T380	Disease 9167 9172	肾上腺占位
+T381	Disease 9218 9223	肾上腺占位
+T382	Anatomy 9371 9374	肾上腺
+T383	Anatomy 9383 9384;9385 9387	肾 上腺
+T384	Anatomy 9406 9409	肾上腺
+T385	Disease 9514 9516	肾癌
+T386	Disease 9508 9513	肾上腺占位
+T387	Disease 9526 9528	肾癌
+T388	Disease 9531 9536	肾上腺占位
+T389	Anatomy 9400 9403	淋巴结

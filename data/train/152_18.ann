@@ -1,0 +1,443 @@
+T1	Test 7150 7155	甲状腺功能
+T2	Test 7716 7721	甲状腺功能
+T3	Disease 475 484	Graves 眼病
+T4	Disease 557 566	Graves 眼病
+T5	Disease 716 725	Graves 眼病
+T6	Disease 735 744	Graves 眼病
+T7	Disease 783 792	Graves 眼病
+T8	Disease 2207 2216	Graves 眼病
+T9	Drug 5429 5436	生长抑素类似物
+T10	Drug 797 802	糖皮质激素
+T11	Drug 3119 3124	糖皮质激素
+T12	Drug 7195 7200	糖皮质激素
+T13	Drug 804 809	利妥昔单抗
+T14	Drug 4506 4511	利妥昔单抗
+T15	Drug 4515 4520	利妥昔单抗
+T16	Drug 4559 4564	利妥昔单抗
+T17	Drug 4636 4641	利妥昔单抗
+T18	Drug 4663 4665;4666 4669	利妥 昔单抗
+T19	Drug 4716 4721	利妥昔单抗
+T20	Drug 4769 4774	利妥昔单抗
+T21	Drug 4837 4842	利妥昔单抗
+T22	Drug 4902 4907	利妥昔单抗
+T23	Drug 4981 4986	利妥昔单抗
+T24	Drug 4993 4998	利妥昔单抗
+T25	Disease 3687 3691	骨质疏松
+T26	Drug 5419 5423	硫唑嘌呤
+T27	Drug 5424 5428	腈美克松
+T28	Test 3542 3545;3546 3547	空腹血 糖
+T29	Drug 4278 4283	环孢素 A
+T30	Drug 4429 4434	环孢素 A
+T31	Test 3629 3631	血糖
+T32	Test 6999 7006	游离甲状腺激素
+T33	Test 7013 7023	促甲状腺激素受体抗体
+T34	Drug 5065 5070	氢化可的松
+T35	Symptom 634 636	突眼
+T36	Level 632 634	轻度
+T37	Drug 637 640	硒制剂
+T38	Level 643 646	中重度
+T39	Level 662 665	中重度
+T40	Level 713 715	重症
+T41	Drug 726 727;728 729	激 素
+T42	Drug 794 795	硒
+T43	Disease 2238 2240	GO
+T44	Disease 2267 2269	GO
+T45	Disease 2279 2281	GO
+T46	Disease 2282 2284	GO
+T47	Disease 2288 2289;2290 2291	甲 亢
+T48	Disease 2297 2299	GO
+T49	Disease 2308 2310	GO
+T50	Disease 2332 2334	GO
+T51	Disease 2342 2344	GO
+T52	Disease 2444 2446	GO
+T53	Disease 2503 2505	GO
+T54	Disease 2517 2519	GO
+T55	Disease 2600 2609	Graves 甲亢
+T56	Disease 2620 2622	GO
+T57	Level 2613 2616	中重度
+T58	Level 2617 2619	极重
+T59	Disease 2688 2690	GO
+T60	Disease 2717 2719	GO
+T61	Drug 2763 2764	硒
+T62	Disease 2769 2771	GO
+T63	Level 2766 2768	轻度
+T64	Level 2811 2813	轻度
+T65	Disease 2814 2816	GO
+T66	Drug 2820 2821	硒
+T67	Symptom 2832 2836	眼部症状
+T68	Drug 2871 2872	硒
+T69	Disease 2880 2882	GO
+T70	Level 2877 2879	轻度
+T71	Level 2886 2889	中重度
+T72	Disease 2912 2914	GO
+T73	Level 2909 2911	轻度
+T74	Drug 2927 2930	硒制剂
+T75	Drug 2959 2960	硒
+T76	Disease 2972 2974	GO
+T77	Level 2969 2971	轻度
+T78	Level 2996 2999	中重度
+T79	Level 2999 3002	活动性
+T80	Disease 3003 3005	GO
+T81	Disease 3046 3048	GO
+T82	Level 3042 3045	活动性
+T83	Level 3039 3042	中重度
+T84	Amount 3114 3117	大剂量
+T85	Method 3117 3119	静脉
+T86	Drug 3125 3128	GCs
+T87	Disease 3143 3145	GO
+T88	Level 3136 3139	中重度
+T89	Level 3139 3142	活动性
+T90	Drug 3177 3183	甲基强的松龙
+T91	Method 3175 3177	静脉
+T92	Amount 3188 3194	500 mg
+T93	Frequency 3195 3196;3197 3202	每 周 1 次
+T94	Amount 3215 3221	250 mg
+T95	Frequency 3222 3228	每周 1 次
+T96	Duration 3244 3248	12 周
+T97	Amount 3254 3260	4. 5 g
+T98	Drug 3296 3302	甲基强的松龙
+T99	Test 3341 3348	临床活动度评分
+T100	Test 3349 3352	CAS
+T101	Symptom 3354 3358	眼部症状
+T102	Level 3394 3397	中重度
+T103	Level 3397 3400	活动性
+T104	Disease 3401 3403	GO
+T105	Drug 3407 3413	甲基强的松龙
+T106	Amount 3417 3423	750 mg
+T107	Frequency 3427 3433	每周 1 次
+T108	Amount 3444 3450	500 mg
+T109	Frequency 3451 3457	每周 1 次
+T110	Amount 3471 3477	7. 5 g
+T111	Amount 3493 3500	<750 mg
+T112	Amount 3505 3509	<8 g
+T113	Test 3531 3533	肝酶
+T114	Test 3534 3541	肝炎病毒标志物
+T115	Test 3548 3554	肝脏超声检查
+T116	Disease 3560 3565	病毒性肝炎
+T117	Disease 3566 3573	肝功能明显异常
+T118	Disease 3577 3583	心血管并发症
+T119	Level 3575 3577	严重
+T120	Disease 3588 3591	高血压
+T121	Disease 3592 3596	精神异常
+T122	Disease 3603 3606	糖尿病
+T123	Test 3626 3628	肝酶
+T124	Test 3633 3635	血压
+T125	Drug 3643 3649	质子泵抑制剂
+T126	Disease 3651 3656	消化道溃疡
+T127	Drug 3664 3667	GCs
+T128	Drug 3677 3678	钙
+T129	Method 3742 3744	静脉
+T130	Drug 3745 3748	GCs
+T131	Drug 3765 3771	甲基强的松龙
+T132	Amount 3776 3780	<8 g
+T133	Drug 3788 3791	GCs
+T134	Drug 3829 3832	GCs
+T135	Method 3885 3887	静脉
+T136	Drug 3888 3891	GCs
+T137	Drug 3937 3940	GCs
+T138	Disease 3959 3961	GO
+T139	Disease 3978 3980	GO
+T140	Level 3984 3987	活动期
+T141	Method 4014 4016	静脉
+T142	Drug 4017 4020	GCs
+T143	Drug 4026 4029	GCs
+T144	Drug 4034 4039;4040 4041	甲基强的松 龙
+T145	Method 4061 4063	静脉
+T146	Drug 4064 4067	GCs
+T147	Treatment 4083 4089	眼眶照射治疗
+T148	Symptom 4095 4097	复视
+T149	Method 4110 4112	口服
+T150	Drug 4113 4116	GCs
+T151	Method 4123 4125	静脉
+T152	Drug 4126 4129	GCs
+T153	Treatment 4146 4154	单侧眼眶照射治疗
+T154	Treatment 4232 4236	眼眶照射
+T155	Symptom 4243 4247	眶周症状
+T156	Disease 4249 4251	GO
+T157	Amount 4258 4261	小剂量
+T158	Method 4261 4263	口服
+T159	Drug 4264 4267	GCs
+T160	Drug 4286 4289	GCs
+T161	Method 4311 4313	口服
+T162	Drug 4313 4316	强的松
+T163	Amount 4317 4327	100 mg / d
+T164	Duration 4336 4340	3 个月
+T165	Disease 4379 4381	GO
+T166	Drug 4396 4399	强的松
+T167	Amount 4400 4409	60 mg / d
+T168	SideEff 4444 4445;4446 4454	剂 量依赖的肝肾毒性
+T169	SideEff 4455 4459	牙龈增生
+T170	SideEff 4477 4483	克雷伯氏肺炎
+T171	Method 4534 4536	静脉
+T172	Drug 4537 4540	GCs
+T173	Level 4567 4570	中重度
+T174	Method 4624 4626	静脉
+T175	Drug 4627 4630	GCs
+T176	Disease 4643 4645	GO
+T177	Disease 4674 4676	GO
+T178	Drug 4688 4691	GCs
+T179	Method 4741 4743	静脉
+T180	Drug 4744 4747	GCs
+T181	Disease 4784 4786	GO
+T182	Disease 4811 4826	甲状腺功能异常相关性视神经病变
+T183	Disease 4828 4831	DON
+T184	Disease 4848 4851	DON
+T185	Level 4909 4912	中重度
+T186	Drug 4935 4938	GCs
+T187	Method 4932 4934	静脉
+T188	Disease 4961 4964	DON
+T189	Disease 4972 4974	GO
+T190	SideEff 4988 4992	输液反应
+T191	SideEff 5015 5022	一过性眶周水肿
+T192	SideEff 5031 5035	严重感染
+T193	SideEff 5036 5037;5038 5044	多 发灶脑白质病
+T194	Drug 5051 5056	抗组胺药物
+T195	Amount 5058 5064	100 mg
+T196	Symptom 5146 5150	眼睑水肿
+T197	Symptom 5151 5158	眼睑及结膜充血
+T198	Symptom 5159 5164	球结膜水肿
+T199	Test 5187 5190	CAS
+T200	Treatment 5196 5202	免疫抑制治疗
+T201	Drug 5221 5224	GCs
+T202	Anatomy 5230 5234	眼眶血管
+T203	Operation 5248 5253	眼眶减压术
+T204	Drug 5284 5290	醋酸曲安奈德
+T205	Amount 5291 5301	40 mg / ml
+T206	Method 5302 5306	眶周注射
+T207	Symptom 5322 5324	复视
+T208	Drug 5350 5354	曲安奈德
+T209	Method 5354 5359	结膜下注射
+T210	Disease 5367 5369	GO
+T211	Symptom 5371 5375	眼睑肿胀
+T212	SideEff 5400 5403;5404 5409	眼内压 一过性升高
+T213	Disease 5440 5442	GO
+T214	Level 5464 5466;5467 5468	中重 度
+T215	Drug 5482 5487	免疫球蛋白
+T216	Method 5487 5491	静脉冲击
+T217	Amount 5492 5495	大剂量
+T218	Method 5495 5496;5497 5498	口 服
+T219	Drug 5499 5502	GCs
+T220	Symptom 5562 5564	复视
+T221	Symptom 5565 5567	斜颈
+T222	Drug 5575 5581	肉毒杆菌毒素
+T223	Symptom 5586 5591	上眼睑挛缩
+T224	Symptom 5592 5596;5597 5599	睑裂闭合 不全
+T225	Disease 5609 5611	GO
+T226	Disease 5616 5619	DON
+T227	Disease 5621 5625	角膜破裂
+T228	Disease 5641 5644	DON
+T229	Level 5649 5651	严重
+T230	Disease 5673 5677	角膜破裂
+T231	Disease 5700 5702	GO
+T232	Disease 5740 5745	视神经牵拉
+T233	Disease 5749 5753	角膜破裂
+T234	Reason 5731 5736	眼球半脱位
+T235	Level 5761 5763	严重
+T236	Operation 5776 5783	渐进性侵入手术
+T237	Operation 5836 5841	眼眶减压术
+T238	Disease 5848 5856	永久性视物变形症
+T239	Amount 5864 5868	超大剂量
+T240	Method 5868 5870	静脉
+T241	Drug 5871 5874	GCs
+T242	Drug 5875 5881	甲基强的松龙
+T243	Amount 5882 5893;5894 5896	500 ~ 1 000 mg
+T244	Disease 5922 5925	DON
+T245	Disease 5942 5945	DON
+T246	Frequency 5961 5962;5963 5966	每 周一次
+T247	Drug 5966 5972	甲基强的松龙
+T248	Level 5981 5984	中重度
+T249	Operation 6032 6038	眼眶减压手术
+T250	Disease 6062 6064	GO
+T251	Disease 6103 6105	GO
+T252	Disease 6344 6346	GO
+T253	Test 6371 6377	临床活动积分
+T254	Test 6378 6381	CAS
+T255	Test 6388 6391	CAS
+T256	Test_Value 6391 6397	≥3 / 7
+T257	Level 6412 6414	轻度
+T258	Level 6415 6417	中度
+T259	Level 6418 6420	重度
+T260	Level 6427 6431	极为严重
+T261	Disease 6493 6495	GO
+T262	Level 6489 6492	中重度
+T263	Symptom 6546 6554	持续或间断性复视
+T264	Disease 6576 6578	GO
+T265	Level 6572 6575	中重度
+T266	Disease 6605 6607	GO
+T267	Disease 6624 6626	GO
+T268	Disease 6632 6634	GO
+T269	Level 6620 6623	极轻度
+T270	Disease 6659 6661	GO
+T271	Level 6656 6658	轻度
+T272	Disease 6730 6732	GO
+T273	Disease 6752 6754	GO
+T274	Treatment 6776 6780	放射治疗
+T275	Disease 6787 6789	GO
+T276	Disease 6792 6794	GO
+T277	Treatment 6806 6812	免疫抑制治疗
+T278	Disease 6839 6841	GO
+T279	Disease 6848 6857	Graves 甲亢
+T280	Disease 6883 6885	甲亢
+T281	Disease 6886 6888	甲减
+T282	Disease 6892 6894	GO
+T283	Drug 6931 6936;6937 6938	抗甲状腺药 物
+T284	Operation 6939 6945	甲状腺切除术
+T285	Disease 6950 6952	GO
+T286	Treatment 6960 6965	放射碘治疗
+T287	Disease 6970 6972	GO
+T288	Disease 6994 6996	甲亢
+T289	Level 6992 6994	严重
+T290	Disease 7031 7033	甲亢
+T291	Disease 7041 7043	GO
+T292	Treatment 7047 7052	放射碘治疗
+T293	Drug 7060 7063	强的松
+T294	Drug 7077 7080	强的松
+T295	Disease 7102 7104	甲减
+T296	Treatment 7121 7126	放射碘治疗
+T297	Drug 7130 7133	GCs
+T298	Treatment 7138 7143	放射碘治疗
+T299	Drug 7169 7175	抗甲状腺药物
+T300	Operation 7176 7178;7179 7183	甲状 腺切除术
+T301	Treatment 7184 7189	放射碘治疗
+T302	Level 7269 7272	中重度
+T303	Level 7288 7291	中重度
+T304	Operation 7339 7344	眼眶减压术
+T305	Operation 7346 7351	斜视矫正术
+T306	Operation 7352 7357	眼睑延长术
+T307	Operation 7358 7363	眶周整容术
+T308	Disease 7401 7403	GO
+T309	Test 7421 7423	视力
+T310	Operation 7459 7460;7461 7465	眼 眶减压术
+T311	Operation 7468 7473	斜视矫正术
+T312	Operation 7478 7483	眼睑延长术
+T313	Level 7529 7531	轻度
+T314	Drug 7534 7537	硒制剂
+T315	Level 7540 7543	中重度
+T316	Disease 7565 7567	GO
+T317	Disease 7584 7586	GO
+T318	Disease 7597 7599	GO
+T319	Disease 7650 7652	GO
+T320	Disease 7677 7686	Graves 甲亢
+T321	Disease 7701 7703	GO
+T322	Drug 7704 7705	硒
+T323	Disease 7736 7738	GO
+T324	Disease 7751 7753	GO
+T325	Disease 7798 7800	GO
+T326	Operation 673 677	手术治疗
+T327	Test 2311 2314	严重度
+T328	Test 2315 2318	活动度
+T329	Test 2324 2327	严重度
+T330	Test 2328 2331	活动度
+T331	Test 2693 2696	活动度
+T332	Test 2697 2701	严重程度
+T333	Duration 2806 2810	病程较短
+T334	Duration 2826 2827;2828 2830	6 个月
+T335	Test 2837 2841	生活质量
+T336	Test 2842 2845	QoL
+T337	Duration 2922 2923;2924 2926	6 个月
+T338	Method 3161 3163	口服
+T339	Amount 4160 4165	20 Gy
+T340	Duration 4170 4174	10 d
+T341	Duration 4179 4185	持续 2 周
+T342	Amount 4196 4202	每周 1Gy
+T343	Duration 4203 4210	持续 20 周
+T344	Level 4239 4240;4241 4242	轻 微
+T345	Level 4648 4652	非活动期
+T346	Test 4732 4735	QoL
+T347	Test_Value 5193 5195	较高
+T348	Symptom 5325 5330	眼外肌大小
+T349	Disease 5521 5523	肝炎
+T350	Anatomy 5678 5682	后弹力层
+T351	Disease 5795 5799	角膜破裂
+T352	Test 6019 6021	视力
+T353	Test 6024 6026	视野
+T354	Disease 6126 6129	糖尿病
+T355	Disease 6132 6134	癌症
+T356	Test 6244 6247	QoL
+T357	Test 6274 6277	QoL
+T358	Disease 6296 6298	GO
+T359	Test 6305 6317;6318 6319	疾病特异性 QoL 调查 表
+T360	Disease 6324 6326	GO
+T361	Test 6347 6350	严重度
+T362	Test 6351 6354	活动度
+T363	Test 6406 6409	严重度
+T364	Level 6421 6425	威胁视力
+T365	Test 6434 6435;6436 6441	严 重程度评估
+T366	Test 6755 6756;6757 6760	严 重程度
+T367	Amount 7080 7084	起始剂量
+T368	Disease 7204 7206	甲亢
+T369	Disease 7234 7236	GO
+T370	Treatment 7302 7306	康复治疗
+T371	Disease 7393 7397	交叉感染
+T372	Level 7406 7410	非活动期
+T373	Duration 7410 7417	至少 6 个月
+T374	Test 7425 7428	QoL
+T375	Level 7560 7564	威胁视力
+T376	Level 7587 7590	严重度
+T377	Level 7591 7594	活动度
+T378	Level 7607 7609;7610 7611	中重 度
+T379	Operation 7620 7624	手术治疗
+T380	Test 7662 7665	QoL
+T381	Disease 414 419	内分泌疾病
+T382	Disease 433 439	内分泌代谢病
+T383	Disease 461 470	Graves 眼病
+T384	Anatomy 523 526	甲状腺
+T385	Disease 533 542	Graves 眼病
+T386	Method 5972 5974	脉冲
+T387	Level 7698 7700	轻度
+T388	Symptom 646 651	活动性突眼
+T389	Symptom 665 671	非活动性突眼
+T390	Duration 3206 3209	6 周
+T391	Duration 3232 3235	6 周
+T392	Method 3304 3306	脉冲
+T393	Duration 3437 3440	6 周
+T394	Duration 3461 3464	6 周
+T395	Treatment 3607 3611	激素冲击
+T396	Method 3749 3751	脉冲
+T397	Duration 3760 3764	12 周
+T398	Amount 4049 4052	8 g
+T399	Disease 4347 4353	活动性 GO
+T400	SideEff 4462 4468	肌酐轻度升高
+T401	SideEff 4484 4491	肌酐不可逆升高
+T402	SideEff 4492 4499	血压一过性升高
+T403	Disease 4524 4530	活动性 GO
+T404	Disease 4570 4576	活动性 GO
+T405	Method 4692 4696	静脉给药
+T406	Disease 4912 4914;4915 4919	活动 性 GO
+T407	Symptom 5124 5130	眼眶血管充血
+T408	Disease 5131 5137	活动性 GO
+T409	Symptom 5241 5247	眼眶血管充血
+T410	Anatomy 5257 5261	眼眶静脉
+T411	Disease 5313 5315;5316 5320	活动 性 GO
+T412	Symptom 5379 5383	眼睑挛缩
+T413	Level 5377 5379	轻度
+T414	Disease 5468 5474	活动性 GO
+T415	Symptom 5543 5552	活动性非持续性复视
+T416	Anatomy 5651 5653	角膜
+T417	Anatomy 5658 5660	上皮
+T418	Anatomy 5664 5665;5666 5669	间 质细胞
+T419	Anatomy 5763 5765	角膜
+T420	Disease 5806 5811	脉络膜褶皱
+T421	Disease 5826 5831	眼球半脱位
+T422	Reason 5812 5813;5814 5818	眼 外肌增粗
+T423	Symptom 5820 5824	眼球凹陷
+T424	Duration 5902 5904	3d
+T425	Frequency 5913 5917	隔日冲击
+T426	Disease 5984 5990	活动性 GO
+T427	Test 6010 6014	视觉功能
+T428	Symptom 6512 6521	眼睑挛缩≥2 mm
+T429	Symptom 6522 6530	中重度软组织受累
+T430	Symptom 6531 6536;6537 6545	眼球较正常 人突出≥3 mm
+T431	Disease 6681 6688	甲状腺功能异常
+T432	Treatment 6706 6710	人工眼泪
+T433	Treatment 6711 6715	润滑软膏
+T434	Disease 6870 6877	甲状腺功能紊乱
+T435	Disease 6910 6917	甲状腺功能异常
+T436	Disease 7107 7114	非活动性 GO
+T437	Disease 7272 7279	非活动性 GO
+T438	Disease 7291 7298	非活动性 GO
+T439	Operation 7441 7447	康复手术治疗
+T440	Symptom 7531 7533	突眼
+T441	Disease 7547 7549	突眼
+T442	Disease 7611 7618	非活动性 GO
+T443	Level 7792 7794	严重

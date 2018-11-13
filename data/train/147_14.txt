@@ -1,0 +1,219 @@
+基础研究
+基金项目:国家自然科学基金资助项目 ( 81400798,81400767,
+81401142); 高 等 教 育 博 士 学 科 点 新 教 师 基 金 资 助 项 目
+(20120001120069,20120001120076,20120001120063)
+利拉鲁肽对人胰腺癌细胞增殖和凋亡的影响
+及可能机制
+魏蕊  杨进  洪天配  赵荷珺  柯静  侯文芳  刘烨
+[摘要]   目的  观察胰升糖素样肽 1(GLP-1)受体激动剂利拉鲁肽对人胰腺癌细胞增殖和凋亡的影
+响,并初步探讨可能的作用机制。 方法 体外培养的人胰腺癌细胞系 MIA PaCa-2 应用 10 ~ 1 000 nmol / L
+利拉鲁肽干预 24 h 或 100 nmol / L 利拉鲁肽干预 0 ~ 72 h。 CCK-8 试剂盒检测细胞增殖,RT-PCR 和 Western
+印迹检测相关基因的 mRNA 和蛋白表达水平。 结果 MIA PaCa-2 细胞系表达 GLP-1 受体。 利拉鲁肽可剂
+量和时间依赖性抑制胰腺癌细胞增殖,上调促凋亡蛋白 Bax 的表达,抑制抗凋亡蛋白 Bcl2 的表达。 同时,
+利拉鲁肽还可剂量和时间依赖性抑制胰腺癌细胞的胰岛素受体( INSR)和胰岛素样生长因子 1 受体
+(IGF-1R)的表达,并且抑制下游信号分子 Erk1 / 2 和 Akt 蛋白的磷酸化水平。 结论 利拉鲁肽可抑制人胰
+腺癌细胞增殖和促进其凋亡,其抑癌效应可能是通过下调 INSR 和 IGF-1R 的表达,继而抑制 MEK / Erk1 / 2
+和 PI3k / Akt 信号通路所介导的。
+[关键词]   胰升糖素样肽 1; 利拉鲁肽; 人胰腺癌细胞; 增殖; 凋亡
+Effect and mechanism of liraglutide on proliferation and apoptosis of human pancreatic cancer cells Wei Rui,
+Yang Jin, Hong Tianpei, Zhao Hejun, Ke Jing, Hou Wenfang, Liu Ye. Department of Endocrinology, Peking
+University Third Hospital, Beijing 100191, China
+[Abstract]   Objective   To investigate the effects and mechanism of glucagon-like peptide-1 ( GLP-1 )
+receptor agonist liraglutide on the proliferation and apoptosis of human pancreatic cancer cells. Methods The human
+pancreatic cancer cell line MIA PaCa-2 was incubated for 24 h with liraglutide at various concentrations (10-1 000
+nmol / L), or with 100 nmol / L liraglutide for various durations (0-72 h). Cell proliferation was determined by Cell
+Counting Kit-8 (CCK-8) analysis. RT-PCR and Western blot were used to detect the mRNA and protein expression
+levels of related genes. Results GLP-1 receptor was expressed in the MIA PaCa-2 cells. Liraglutide suppressed cell
+proliferation, up-regulated the expression levels of pro-apoptotic protein Bax and down-regulated the expression levels
+of anti-apoptotic protein Bcl2 in human pancreatic cancer cells in a dose- and time-dependent manner. Meanwhile,
+liraglutide down-regulated the expression levels of insulin receptor ( INSR) and insulin-like growth factor-1 receptor
+(IGF-1R), and the phosphorylation levels of their downstream signaling proteins Erk1 / 2 and Akt, in a dose- and
+time-dependent way. Conclusion Liraglutide inhibits proliferation and promotes apoptosis of human pancreatic
+cancer cells; the process may be mediated via suppressing the expression of INSR and IGF-1R and inhibiting activation
+of the downstream MEK / Erk1 / 2 and PI3k / Akt pathways.
+[Key words]  Glucagon-like peptide-1; Liraglutide; Human pancreatic cancer cells; Proliferation; Apoptosis
+(Chin J Endocrinol Metab, 2015, 31: 530-534)
+2 型糖尿病(T2DM)患者中胰腺癌的患病风险增
+高[1],其机制可能与 T2DM 患者体内胰岛素抵抗所伴
+随的高胰岛素血症能够促进肿瘤细胞的生长有关[2]。
+降糖药物可改变体内胰岛素水平和胰岛素敏感性,故
+可能影响糖尿病患者的肿瘤发病风险。 流行病学研究
+显示,部分升高胰岛素水平的药物与肿瘤发生风险增
+加相关,而降低胰岛素水平的药物却与肿瘤发生风险
+降低相关[3]。
+胰升糖素样肽 1(GLP-1)药物作为一种新的降糖
+治疗策略已在临床上广泛应用。 已有研究显示,GLP-
+1 药物可促进急性胰腺炎的发生[4],诱发慢性胰腺炎
+相关的组织学改变(如癌前病变),远期还可能导致胰
+腺癌的发生[5,6]。 另有研究显示,GLP-1 药物并不增加
+胰腺癌的发生风险[7,8]。
+另一方面,有关 GLP-1 药物对胰腺癌细胞的增殖
+和凋亡是否具有直接影响,目前尚鲜见报道。 胰岛素
+受体(INSR)和胰岛素样生长因子 1 受体( IGF-1R)在
+糖尿病患者的肿瘤发生发展中发挥重要作用[9];
+MEK / Erk1 / 2 和 PI3k / Akt 信号通路参与调控细胞的增
+殖和凋亡[10]。 本研究拟观察 GLP-1 受体(GLP-1R)激
+动剂利拉鲁肽对人胰腺癌细胞增殖和凋亡的影响,并
+初步探讨可能的作用机制。
+材料和方法
+一、 材料
+人胰腺癌细胞系 MIA PaCa-2 购自美国模式培养
+物保藏所(ATCC)。 高糖 DMEM 培养基、胰酶、Trizol
+购自美国 Invitrogen 公司,胎牛血清( FBS)购自美国
+Hyclone 公司,利拉鲁肽粉末由丹麦诺和诺德公司提
+供,细胞计数试剂盒 8(CCK-8)购自日本同仁化学研
+究所,反转录试剂盒购自 Promega 公司,PCR 试剂盒购
+自北京天根生化科技有限公司,牛血清白蛋白购自
+Sigma 公司,GLP-1R 抗体购自 Abcam 公司,Bcl2、Bax、
+p-Erk、t-Erk、 p-Akt 及 t-Akt 抗体购自 Cell Signaling
+Technology 公司,GAPDH 抗体购自北京中杉金桥生物
+技术有限公司,IRDye800CW 标记的二抗购自 LI-COR
+Biosciences 公司。 人胰岛组织由中日友好医院娄晋宁
+教授提供。 引物合成由北京奥科公司完成。
+二、 方法
+1. 细胞培养与干预:MIA PaCa-2 置于含 10% FBS
+的高糖 DMEM 培养基中,37℃、5% CO2细胞恒温培养
+箱培养,每 3 天传代一次。 干预条件如下:血清饥饿
+6 ~ 8 h 后,应用空白对照、10 ~ 1 000 nmol / L 利拉鲁肽
+干预 24 h 或 100 nmol / L 利拉鲁肽干预 0 ~ 72 h。
+2. CCK8 法测定细胞增殖:取对数生长期细胞,以
+每孔 3 × 103个细胞接种到 96 孔板,加入不同浓度利
+拉鲁肽干预 24 h,或加入 100 nmol / L 利拉鲁肽干预
+0 ~ 96 h,每组 5 个复孔;弃去培养基,PBS 清洗 2 遍;每
+孔加入 10 滋l CCK-8 溶液和 90 滋l 培养基孵育 2 h;选择
+450 nm 波长,在酶联免疫分析仪上测定各孔的吸光
+值。
+3. RT-PCR: Trizol 法 提 取 RNA, 并 反 转 录 为
+cDNA。 取 1 滋l cDNA 行 PCR,反应条件如下:94℃ 预
+变性 5 min;94℃变性 30 s,60℃退火 30 s,72℃延伸 1
+min,共 30 个循环;72℃终末延伸 5 min。 反应产物经
+琼脂糖电泳后,采用全自动凝胶成像化学发光分析仪
+进行 分 析。 引 物 序 列 如 下: GLP-1R, 上 游 为 5'-
+TCAAGGTCAACGGCTTATTAG-3',下游为 5'-TAACG-
+TGTCCCTAGATGAACC-3',产物长度 480 bp;INSR,上
+游 为 5'-GTCGCCCATGATTTTACTG-3', 下 游 为 5'-
+CAGAAGAAGTGGTGAAGAC-3',产物长度 154 bp;IGF-
+1R,上游为 5'-AATAACATTGCTTCAGAGCTG-3',下游
+为 5'-GATGGTGCCGTCGGCATACTT-3',产物长度 933
+bp;GAPDH,上游为 5'-TGCACCACCAACTGCTTAGC-
+3忆,下游为 5'-GGCATGGACTGTGGTCATGAG-3',产物
+长度 87 bp。
+4. Western 印迹:制备细胞裂解的蛋白样品,SDS-
+PAGE 电泳分离,转移至硝酸纤维膜,5% 牛血清白蛋
+白封闭 1 h,加一抗(稀释比例均为 1 : 1 000)4℃孵育
+过夜,TBS 清洗,IRDye800CW 标记的二抗室温孵育 2
+h,常规洗膜,Odyssey 系统检测荧光条带,并分析灰度。
+三、 统计学处理
+数据以 x- ± s 表示,采用 SPSS 17. 0 进行统计学分
+析,组间差异比较采用单因素方差分析和 Q 检验,P<
+0. 05 为差异具有统计学意义。
+结    果
+一、 人胰腺癌细胞系 MIA PaCa-2 表达 GLP-1R
+人胰岛中已知存在 GLP-1R 表达,故本研究将人
+胰岛组织作为阳标,采用 PCR 和 Western blot 技术检
+测人胰腺癌细胞系 MIA PaCa-2 是否表达 GLP-1R。 结
+果显示,无论 mRNA 还是蛋白水平,MIA PaCa-2 均可
+表达 GLP-1R(图 1)。
+注:NC:无模板对照 Normal control
+图 1  人胰腺癌细胞系 MIA PaCa-2 中胰升糖素样肽 1 受体(GLP-1R)的
+表达
+Fig 1  Expression of glucagon-like peptide-1 receptor ( GLP-1R) in human
+pancreatic cancer cell line MIA PaCa-2
+二、 利拉鲁肽抑制人胰腺癌细胞系的增殖
+与对照组相比,10、100 及 1 000 nmol / L 利拉鲁肽
+干预 MIA PaCa-2 细胞 24 h,均可降低胰腺癌细胞的数
+量,其中 100 和 1 000 nmol / L 组与对照组相比有统计
+学差异(P<0. 05,图 2A)。 100 nmol / L 利拉鲁肽干预
+24、48 及 72 h 后检测各组胰腺癌细胞的数量,结果显
+示,利拉鲁肽组的细胞数量比同一时间点空白对照组
+显著减少,且随着干预时间的延长,两组之间细胞数量
+的差异逐渐增大(图 2B)。
+三、 利拉鲁肽对人胰腺癌细胞系凋亡相关蛋白表
+达的影响
+与对照组相比,10、100 及 1 000 nmol / L 利拉鲁肽
+干预 24 h 均可显著上调胰腺癌细胞中促凋亡蛋白 Bax
+的表达(P<0. 05),明显降低抗凋亡蛋白 Bcl2 的表达
+(P<0. 05),且随着浓度增加,作用更加显著(图 3A,
+C)。 与对照组相比, 100 nmol / L 利拉鲁肽干预 24、 48
+注:与对照组(或 0 h)相比 vs Control(or 0 h), aP<0. 05
+图 2  利拉鲁肽对人胰腺癌细胞增殖的影响
+Fig 2  Effect of liraglutide on the proliferation of human pancreatic cancer cell
+line MIA PaCa-2
+及 72 h 均可显著上调 Bax 的表达(P<0. 05),显著降
+低 Bcl2 的表达(P<0. 05),且随着时间延长,作用更加
+明显(图 3B,D)。
+四、 利拉鲁肽抑制人胰腺癌细胞系 INSR 和
+IGF-1R 的表达
+与对照组相比,10、100 及 1 000 nmol / L 利拉鲁肽
+干预 24 h 均可显著降低胰腺癌细胞系中 INSR 和
+IGF-1R 的表达(P<0. 05),且随着浓度增加,作用更加
+明显(图 4A,C)。 与对照组相比,100 nmol / L 利拉鲁
+肽干预 24、48 及 72 h 均可显著降低 INSR 和 IGF-1R
+的表达(P<0. 05),且随着时间延长,作用更加明显(图
+4B,D)。
+五、 利拉鲁肽抑制 Erk1 / 2 和 Akt 蛋白的磷酸化
+与对照组相比,10、100 及 1 000 nmol / L 利拉鲁肽
+干预 24 h 均可显著降低胰腺癌细胞系中 p-Erk1 / 2 和
+p-Akt 的表达(P<0. 05),且随着浓度增加,作用更加明
+显(图 5A,C)。 与对照组相比,100 nmol / L 利拉鲁肽
+干预 24、48 及 72 h 均可显著降低 p-Erk1 / 2 和 p-Akt 的
+表达(P<0. 05),且随着时间延长,作用更加明显(图
+5B,D)。
+讨    论
+GLP-1 药物是目前治疗 2 型糖尿病的一种比较理
+想的选择,因该类药物减轻或不增加患者体重,不存
+注:与对照组(或 0 h)相比 vs Control(or 0 h), aP<0. 05
+图 3  利拉鲁肽对人胰腺癌细胞凋亡相关蛋白表达的影响
+Fig 3  Effect of liraglutide on the apoptosis related proteins in human pancreatic cancer cell line MIA PaCa-2
+注:与对照组(或 0 h)相比 vs Control(or 0 h), aP<0. 05
+图 4  利拉鲁肽对人胰腺癌细胞胰岛素受体(INSR)和胰岛素样生长因子I受体(IGF-IR)表达的影响
+Fig 4  Effect of liraglutide on the expressions of insulin receptor(INSR) and insulin-like growth factor-I receptor(INSR) in human pancreatic cancer cell line MIA
+PaCa-2
+在低血糖发生风险,并且可能具有潜在的心脑血管保
+护效应。 近期,有人对该类药物的胰腺安全性提出了
+质疑,但基础研究和临床试验中不少研究结果之间却
+存在相互矛盾[4-8]。 因此,需要有直接的证据来证明
+GLP-1 药物是否对胰腺癌的发生和发展产生影响,这
+正是本研究的主旨所在。
+已有研究显示,GLP-1R 激动剂艾塞那肽能够增加
+小鼠结肠癌细胞系的 cAMP 水平,抑制葡萄糖合成酶
+激酶-3(GSK3)和 Erk1 / 2 的活性,从而抑制结肠癌细
+胞的增殖,促进其凋亡[11]。 另有研究发现,在乳腺癌
+细胞系中,天然 GLP-1 和艾塞那肽均可通过刺激
+cAMP 产生,降低乳腺癌细胞的活力,促进其凋亡,减
+小种植瘤动物模型的肿瘤体积[12]。 2006 年,Koehler
+等[13]在 4 种表达 GLP-1R 的人胰腺癌细胞系(CFPAC-
+1、CAPAN-1、Hs 766T 及 PL45)中进行的一项研究显
+示,艾塞那肽虽然对胰腺癌细胞的增殖未见影响,但是
+其在有些细胞系中可刺激 cAMP 的产生和抑制 Erk 的
+激活,而在另一些细胞系中则未见任何调控作用。 本
+研究显示,利拉鲁肽能够剂量和时间依赖性抑制人胰
+腺癌细胞系 MIA PaCa-2 增殖,促进其凋亡。
+众所周知,2 型糖尿病患者通常存在胰岛素抵抗
+和继发性的高胰岛素血症。 后者能够通过激活 INSR
+和 IFG-1R,促进肿瘤生长[9]。 本研究显示,人胰腺癌
+细胞系 MIA PaCa-2 可表达 INSR 和 IGF-1R;利拉鲁肽
+可剂量和时间依赖性抑制 INSR 和 IGF-1R 的表达,这
+可能是其抑制胰腺癌细胞增殖和促进凋亡的作用机制
+之一。
+INSR 和 IGF-1R 的信号通路非常类似,二者下游
+主要有两条信号通路:一条有丝分裂通路 ( MEK /
+Erk),一条代谢通路(PI3K / Akt)。 其中代谢通路又可
+进一步分为两条,一条为 mTOR 通路,主要发挥代谢
+效应;另一条为 FoxO 通路,主要调控细胞存活[2]。 此
+外,大量研究显示,MEK / Erk1 / 2 和 PI3K / Akt 这两条
+信号通路与肿瘤的发生和发展密切相关[10]。 它们在
+肿瘤细胞中的异常激活能够引起细胞的恶性转化,使
+细胞丧失凋亡和分化的能力[14]。 在本研究中,利拉鲁
+注:与对照组(或 0 h)相比 vs Control(or 0 h), aP<0. 05
+图 5  利拉鲁肽对 Erk1 / 2 和 Akt 磷酸化激活的影响
+Fig 5  Effect of liraglutide on the phosphorylation of Erk1 / 2 and Akt
+肽能够剂量和时间依赖性地抑制 Akt 和 Erk1 / 2 的磷
+酸化激活,提示利拉鲁肽对胰腺癌细胞的抑制作用可
+能与这两条信号通路相关。
+综上所述,利拉鲁肽可抑制人胰腺癌细胞增殖和
+促进其凋亡,该效应可能通过抑制 INSR 和 IGF-1R 的
+表达,进而抑制 MEK / Erk1 / 2 和 PI3k / Akt 信号通路而
+实现的。 因此,GLP-1 药物对 2 型糖尿病合并有胰腺
+癌的患者可能是安全的,它不仅不会促进胰腺癌的进
+展,反而还可能抑制其发展。

@@ -1,0 +1,382 @@
+THE SEVENTH EDITORIAL BOARD OF
+CHINESE JOURNAL OF ENDOCRINOLOGY AND METABOLISM
+(按姓氏拼音为序)
+通讯编委  Corresponding Referees
+蔡晓凌(北京)    曹亚南(上海)    常宝成(天津)    陈燕铭(广东)    陈燕燕(北京)
+程  飞(北京)    谷伟军(北京)    顾燕云(上海)    何兰杰(宁夏)    侯为开(山东)
+胡  承(上海)    胡耀敏(上海)    邝  建(广东)    李燕虹(广东)    刘福平(北京)
+刘彦君(北京)    陆洁莉(上海)    马华梅(广东)    茅江峰(北京)    乔  洁(上海)
+秦映芬(广西)    任  萌(广东)    任  艳(四川)    苏  恒(云南)    孙首悦(上海)
+汪启迪(上海)    王  鸥(北京)    王爱红(北京)    王海宁(北京)    王育璠(上海)
+温俊平(福建)    吴胜利(新疆)    徐向进(福建)    许  雯(广东)    严孙杰(福建)
+杨  静(山西)    杨丽辉(西藏)    杨叶虹(上海)    叶红英(上海)    袁凌青(湖南)
+曾天舒(湖北)    张  梅(江苏)    张  巧(贵州)    张  松(贵州)    张洪梅(上海)
+张少玲(广东)    张志国(上海)    周  嘉(广西)    周  健(上海)    周嘉强(浙江)
+糖尿病相关研究
+基金项目:国家自然科学基金资助项目(81170747);江苏省六大人
+才高峰(2008-18D)
+2 型糖尿病患者前蛋白转化酶枯草溶菌素 9
+水平及其与糖脂代谢相关性研究
+周莹  王坤林  茅国芳  符金香  付真真  龚颖芸  郭雯  高贝贝  朱晓慧  黄爱洁
+周红文
+[摘要]   目的  研究 2 型糖尿病患者前蛋白转化酶枯草溶菌素 9(PCSK9)水平及其与糖脂代谢的相
+关性。 方法 对 503 例南京医科大学第一附属医院内分泌科 2 型糖尿病患者进行病史采集、体格检查、生
+化检测,用 ELISA 的方法检测空腹血清 PCSK9 的水平。 结果 2 型糖尿病人群血清 PCSK9 水平呈偏态分
+布,平均值为(83. 501 ± 42. 604)ng / ml,中位数为 78. 237 ng / ml;相关及多元逐步回归分析发现血清 PCSK9
+水平与年龄、三酰甘油、总胆固醇、低密度脂蛋白胆固醇(LDL-C)、血浆致动脉粥样硬化指数(AIP)、收缩
+压、空腹血糖等呈显著正相关(P<0. 05)。 且与年龄、三酰甘油、AIP、LDL-C、总胆固醇等动脉粥样硬化危险
+因素关系更为密切。 结论 2 型糖尿病患者血清 PCSK9 的水平呈偏态分布;PCSK9 水平与动脉粥样硬化危
+险因素密切相关。
+[关键词]   前蛋白转化酶枯草溶菌素 9; 糖尿病, 2 型; 低密度脂蛋白胆固醇
+Association between proprotein convertase subtilisin / kexin 9 and glucose and lipid metabolism in type 2
+diabetes mellitus Zhou Ying, Wang Kunlin, Mao Guofang, Fu Jinxiang, Fu Zhenzhen, Gong Yingyun, Guo Wen,
+Gao Beibei, Zhu Xiaohui, Huang Aijie, Zhou Hongwen. Department of Endocrinology and Metabolism, the First
+Affiliated Hospital of Nanjing Medical University, Nanjing 210029, China
+[Abstract]  Objective  This study was designed to measure the distribution of fasting serum concentrations of
+proprotein convertase subtilisin / kexin 9 (PCSK9) in type 2 diabetic patients, and to analyze the glucose and lipid
+metabolic factors. Methods Fasting blood samples were obtained from 514 type 2 diabetic patients who enrolled in
+the Department of Endocrinology and Metabolism of Jiangsu Province Hospital between January 2011 to November
+2011. After history-taking, physical and biochemical examinations, serum PCSK9 was measured by a sensitive and
+specific sandwich ELISA method. Results The distribution of PCSK9 value was skewed in this population with an
+average of (83. 501±42. 604) ng / ml(15. 851-250. 862 ng / ml), and with the median of 78. 237 ng / ml. There was no
+significant difference between the genders in the levels of serum PCSK9. Serum PCSK9 levels was positively correlated
+with multiple common risk factors of atherosclerosis including age, systolic blood pressure, total cholesterol, low
+density lipoprotein-cholesterol (LDL-C), triglycerides, atherogenic index of plasma(AIP), and fasting blood glucose
+in this population (P<0. 05) . The result of multiple stepwise regression analysis showed that serum PCSK9 levels was
+more closely related with age, total cholesterol, AIP, LDL-C, and triglycerides. Conclusion The distribution of
+PCSK9 value was skewed in type 2 diabetes. PCSK9 levels is closely associated with a variety of atherosclerosis
+related-index.
+[Key words]   Proprotein convertase subtilisin / kexin 9; Diabetes mellitus, type 2; Low density lipoprotein-
+cholesterol
+(Chin J Endocrinol Metab, 2015, 31: 1022-1026)
+中国成人糖尿病流行与控制现状研究结果显示,
+2010 年中国 18 岁及以上成人糖尿病患病率达到
+11. 6% [1]。糖尿病心血管发病率不断攀升,而血脂异
+常是 2 型糖尿病心血管疾病发病的首要危险因素。 2
+型糖尿病患者血脂异常特点表现为高三酰甘油血症及
+低高 密 度 脂 蛋 白 胆 固 醇 ( high density lipoprotein-
+cholesterol,HDL-C)血症。 虽然低密度脂蛋白胆固醇
+(low density lipoprotein-cholesterol,LDL-C)总量无明显
+增加,但与非糖尿病患者相比,血浆 LDL-C 发生质变
+如形成小而密的,富含三酰甘油的 LDL-C 颗粒,氧化
+LDL-C,糖化 LDL-C,这些形式的 LDL-C 与低密度脂蛋
+白受体(low density lipoprotein receptor, LDLR)的亲和
+力下降促进动脉粥样硬化的发生[2]。 因此,2 型糖尿
+病患者血脂管理显得尤为重要。
+研究发现以胰岛素分泌相对不足为特点的 2 型糖
+尿病患者血浆中 LDL-C 的分解代谢受损,LDLR 表达
+水平下降[3-5];而血糖和前蛋白转化酶枯草溶菌素 9
+(PCSK9)作为 LDL-C 分解代谢的独立影响因子参与
+体内 LDL-C 水平的调节,据此推测 2 型糖尿病患者血
+脂异常可能与 PCSK9 降解 LDLR 的作用相关。 因此,
+本课题组前期检测了 2 719 例中国汉族人群血清
+PCSK9 水平并分析其与体内多项代谢性指标之间的
+关系,发现 PCSK9 是心血管及代谢相关疾病的重要预
+测指标[6]。 目前国内外关于血清 PCSK9 在不同代谢
+疾病类型人群当中的分布特点、代谢情况以及其与动
+脉粥样硬化相关的心血管疾病之间的关系研究甚少,
+国内尚无针对 2 型糖尿病人群的相关研究。 本文使用
+ELISA 方法检测中国 2 型糖尿病患者血清 PCSK9 水
+平,明确 PCSK9 水平分布特点,并探讨其与 2 型糖尿
+病疾病状态下糖脂代谢指标的相关性。
+对象和方法
+一、 对象
+收集 2011 年 1 月至 2011 年 11 月在南京医科大
+学第一附属医院内分泌科诊断为 2 型糖尿病的住院患
+者。 根据世界卫生组织(WHO)1999 年糖尿病诊断标
+准[7],以口服葡萄糖耐量试验结合病史选出的平均病
+程在(8. 5 ± 7. 0)年的 2 型糖尿病患者 503 例(男 :
+女 = 1. 19 : 1),年龄(54. 08 ± 15. 42) 岁,体重指数
+(24. 72 ±3. 85)kg / m2。 排除肥胖、肝肾功能异常、甲状
+腺疾病及有他汀类降脂药和固醇类激素服用史的患
+者。
+二、 方法
+1. 标本的收集与保存:所有研究对象均空腹 12 h
+以上抽静脉血 3 ml,4℃离心(3 000 转 / min) 15 min,分
+离血清并分装保存于-80℃。
+2. 体格检查和生化检测:对入选者进行病史采
+集,按国际标准测定体重、身高、腰围、臀围、血压等。
+使用全自动生化分析仪(Hitachi 7020,日本)测定常规
+生化指标。
+3. 血清 PCSK9 水平的测定:用 ELISA 方法检测血
+清 PCSK9 水平,抗体由美国礼来研究实验室提供,实
+验步骤参见参考文献[5],根据标准曲线计算血样本
+的 PCSK9 水平。
+4. 相关指标计算方法:(1)稳态模型评估的胰岛
+素抵抗指数 ( HOMA-IR) 评估胰岛素抵抗的程度,
+HOMA-IR = 空 腹 胰 岛 素 ( mU / L ) × 空 腹 血 糖
+(mmol / L) / 22. 5;(2)稳态模型评估的胰岛 β 细胞功
+能指数(HOMA-β)评估胰岛功能,HOMA-β = 20×空腹
+胰岛素(mU / L) / [空腹血糖(mmol / L)-3. 5];(3)用血
+浆致动脉粥样硬化指数(AIP)评估动脉粥样硬化风
+险,AIP= log(三酰甘油 / HDL-C)。
+三、 统计学处理
+采用 SPSS 17. 0 进行统计分析,计量资料以 x-± s
+表示。 PCSK9 与其他指标的相关分析采用非参数
+Spearman 等级相关法,对 PCSK9 与其他指标进行多元
+逐步回归分析,组间比较采用 t 检验。 所有统计检验
+均为双侧概率检验,P<0. 05 为差异有统计学意义。
+结    果
+一、 2 型糖尿病人群的一般情况和临床特征
+本研究共纳入了 514 例 2 型糖尿病患者,入院前
+曾服用过他汀类药物的患者共有 11 例,其中男性 6
+例,女性 5 例。 未曾服用过他汀类药物的 2 型糖尿病
+患者 503 例(男 : 女=1. 19 : 1),年龄(54. 08 ±15. 42)
+岁,体重指数(24. 72 ± 3. 85) kg / m2。 排除曾服用过他
+汀类药物的 11 例患者后,503 例患者的一般资料和血
+清相关代谢性指标情况见表 1。
+二、 2 型糖尿病患者血清 PCSK9 水平特点
+研究结果显示未服用他汀药物的 503 例 2 型糖尿
+病患者的血清 PCSK9 水平呈偏态分布,平均数为
+(83. 501 ± 42. 604) ng / ml(15. 851 ~ 250. 862 ng / ml),
+中位数为 78. 237 ng / ml。 其中 273 例男性的血清
+PCSK9 水平的平均数为 ( 80. 234 ± 43. 710 ) ng / ml
+(15. 852 ~ 250. 863 ng / ml),中位数为 72. 926 ng / ml;
+230 例女性的血清 PCSK9 水平的平均数为(87. 453 ±
+40. 984) ng / ml(16. 312 ~ 240. 921 ng / ml),中位数为
+82. 352 ng / ml。 女性血清 PCSK9 水平与男性血清
+PCSK9 水平间差异无统计学意义(P>0. 05,图 1)。
+三、2 型糖尿病患者血 PCSK9 水平与血清糖脂代
+谢指标的相关性分析
+单变量统计学分析结果显示,在 503 例未服用他
+汀类药物的 2 型糖尿病患者中,血清 PCSK9 水平与年
+龄、收缩压、总胆固醇、LDL-C、三酰甘油、AIP、空腹血
+糖等呈显著正相关关系且差异有统计学意义 ( r =
+0. 132, r=0. 101, r = 0. 157, r = 0. 171, r = 0. 168, r =
+0. 162, r=0. 129, 均 P<0. 05),血清 PCSK9 水平与脂
+代谢相关指标(总胆固醇、LDL-C、三酰甘油、AIP)的相
+关性高于 PCSK9 水平与其他动脉粥样硬化危险因素
+(年龄、收缩压、空腹血糖)的相关性。 血清 PCSK9 水
+平与体重指数、舒张压、脂蛋白 a、γ 谷氨酰转肽酶、谷
+丙转氨酶、谷草转氨酶、HBA1C、HOMA-IR、HOMA-β
+等无明显相关。 此外,作为动脉粥样硬化的保护因子
+表 1  503 例 2 型糖尿病人群的一般临床特征和血清相关代谢性指标的情况(x-± s)
+Tab 1  Clinical and biochemical characteristics of 503 type 2 diabetic patients (x-± s)
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+体重指数
+Body mass
+index
+(kg / m2)
+收缩压
+Systolic blood
+pressure
+(mmHg)
+舒张压
+Diastolic blood
+pressure
+(mmHg)
+总胆固醇
+Total
+cholesterol
+(mmol / L)
+LDL-C
+(mmol / L)
+三酰甘油
+Triglycerides
+(mmol / L)
+HDL-C
+(mmol / L)
+男性
+Male 273 53. 92 ± 15. 74 24. 69 ± 3. 83 132 ± 18 82 ± 11 4. 70 ± 1. 22 2. 88 ± 0. 87 1. 66 ± 1. 50 1. 13 ± 0. 46
+女性
+Female 230 54. 37 ± 15. 14 24. 76 ± 3. 87 133 ± 19 80 ± 11 4. 96 ± 1. 23 3. 01 ± 0. 83 1. 56 ± 1. 09 1. 29 ± 0. 37
+全部
+Total 503 54. 08 ± 15. 42 24. 72 ± 3. 85 133 ± 18 81 ± 11 4. 82 ± 1. 23 2. 94 ± 0. 86 1. 62 ± 1. 33 1. 20 ± 0. 43
+组别
+Group
+例数
+n AIP
+脂蛋白 a
+Lipoprotein a
+(mg / L)
+空腹血糖
+Fasting blood
+glucose
+(mmol / L)
+空腹胰岛素
+Fasting insulin
+(mIU / L)
+空腹 C 肽
+Fasting C
+peptide
+(pmol / L)
+HBA1C
+(% ) HOMA-IR HOMA-β
+男性
+Male 273 0. 072 ± 0. 34 188. 39 ± 204. 94 7. 49 ± 3. 13 17. 59 ± 60. 46 654. 14 ± 350. 42 9. 16 ± 2. 41 17. 09 ± 398. 6 75. 46 ± 171. 75
+女性
+Female 230 0. 018 ± 0. 33 180. 94 ± 184. 64 7. 42 ± 3. 21 13. 48 ± 26. 18 673. 42 ± 354. 12 8. 97 ± 2. 33 18. 54 ± 25. 38 94. 74 ± 159. 88
+全部
+Total 503 0. 048 ± 0. 33 185. 05 ± 195. 92 7. 46 ± 3. 16 15. 89 ± 49. 24 661. 98 ± 351. 54 9. 09 ± 2. 40 17. 68 ± 34. 64 83. 36 ± 167. 02
+组别
+Group
+例数
+n
+尿酸
+Uric acid
+(μmol / L)
+γ 谷氨酰转肽酶
+γ glutamyl
+transpeptidase
+(U / L)
+谷丙转氨酶
+Alanine
+aminotransferase
+(U / L)
+谷草转氨酶
+Aspartate
+aminotransferase
+(U / L)
+总胆红素
+Total bilirubin
+(μmol / L)
+直接胆胆红素
+Direct bilirubin
+(μmol / L)
+间接胆红素
+Indirect
+bilirubin
+(μmol / L)
+视黄醇结合蛋白
+Retinol
+binding protein
+(mg / ml)
+男性
+Male 273 322. 94 ± 101. 35 38. 00 ± 41. 93 29. 21 ± 24. 23 23. 02 ± 17. 67 12. 82 ± 6. 36 4. 76 ± 2. 10 8. 37 ± 5. 03 49. 16 ± 17. 33
+女性
+Female 230 275. 59 ± 80. 13 39. 39 ± 62. 54 28. 82 ± 29. 17 24. 34 ± 18. 00 11. 21 ± 4. 64 3. 96 ± 1. 94 7. 24 ± 3. 41 44. 54 ± 16. 76
+全部
+Total 503 301. 62 ± 95. 28 38. 63 ± 52. 18 29. 03 ± 26. 54 23. 61 ± 17. 82 12. 09 ± 5. 70 4. 40 ± 2. 07 7. 87 ± 4. 41 47. 07 ± 17. 21
+注:1 mmHg= 0. 133 kPa;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-
+cholesterol;AIP:血浆致动脉粥样硬化指数 Atherogenic index of plasma;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment for
+insulin resistance;HOMA-β:稳态模型评估的胰岛 β 细胞功能指数 Homeostasis model assessment for β cell function
+注:(A)全部 Total, n=503;(B)男性及女性 Male and female;男性 Male, n=273; 女性 Female, n=230
+图 1  2 型糖尿病患者(排除服用他汀类降脂药物的患者)血清 PCSK9 水平的分布情况
+Fig 1  Frequency distribution of fasting serum PCSK9 in the study (individuals taking statins were excluded)
+HDL-C 与血清 PCSK9 水平之间没有相关性。
+以血清 PCSK9 为因变量, 以上述单因素相关分析
+中与血清 PCSK9 存在相关关系的动脉粥样硬化危险
+因素为自变量,进行多元逐步线性回归分析,结果显示
+年龄、总胆固醇、AIP 等因素纳入回归方程(表 2)。 由
+于 LDL-C 与总胆固醇、三酰甘油与 AIP 之间存在共线
+表 2  以血清 PCSK9 为因变量的多元逐步回归分析
+Tab 2 With serum PCSK9 as the dependent variable multiple
+stepwise regression
+因素
+Factor B SE Beta t P
+Age 0. 474 0. 151 0. 172 3. 129 0. 002
+TC 8. 921 2. 993 0. 182 2. 675 0. 007
+AIP 18. 855 6. 645 0. 156 2. 838 0. 005
+Constant 53. 875 8. 392 - 6. 420 0. 000
+注:Age:年龄;TC:总胆固醇 Total cholesterol;AIP:血浆致动脉粥样
+硬化指 数 Atherogenic index of plasma; Constant: 常 数; B: 回 归 系 数
+Coefficients in the regression model;SE:回归系数的标准误 Standard error;
+Beta:标准化的回归系数 Standard coefficients in the regression model
+性关系,所以该回归模型提示血清 PCSK9 水平与年
+龄、 总胆固醇、 AIP、 LDL-C、三酰甘油等动脉粥样硬化
+危险因素关系更为密切。
+讨    论
+2 型糖尿病患者常伴有脂代谢异常,其主要原因
+是胰岛素分泌不足或胰岛素抵抗所致的极低密度脂蛋
+白( very low density lipoprotein, VLDL)、三酰甘油及
+LDL-C 的产生过多和清除缺陷[3-5]。 2 型糖尿病患者
+多表现为混合型血脂紊乱,其特征性的血脂谱包括:空
+腹和餐后三酰甘油水平升高,总胆固醇水平和 LDL-C
+正常或轻度升高,小而致密的 LDL-C 水平升高。 此
+外,部分患者在空腹血糖和三酰甘油水平恢复正常后
+仍存在的餐后高三酰甘油及低 HDL-C;因而这部分患
+者不可避免得面临心血管疾病患病的剩余风险[8]。
+近年来,继发现 LDLR 及载脂蛋白 B(apolipoprotein
+B, apoB)后,国外学者发现了一种新的与胆固醇代谢
+密切相关的调控蛋白———PCSK9,它是前蛋白转化酶
+家族的第九个成员,该基因定位于染色体 1p32. 3,长
+约 12 kb,共有 12 个外显子,编码含 692 个氨基酸残基
+的蛋白质, PCSK9 主要在肝脏、 小肠及肾脏中表
+达[9-10]。 该蛋白能够通过特定的途径直接影响体内胆
+固醇的代谢。 肝脏中合成的 PCSK9 分泌入血后通过
+受体介导的内吞作用增加细胞表面的 LDLR 的降解,
+细胞摄取血浆中 LDL-C 的能力下降,导致血浆中
+LDL-C 水平升高,从而调节脂质的代谢过程[10]。
+编码 PCSK9 蛋白的基因突变以及多态性能够显
+著影响人群中冠心病的发生[11-12]。 达拉斯心脏研究
+人群中的 PCSK9 水平在 33 ~ 2 988 ng / ml,呈偏态分
+布[13]。 加拿大一项针对健康儿童及青少年 PCSK9 检
+测显示其平均在(84. 7 ± 24. 7) μg / L[14]。 本研究结果
+显示 2 型糖尿病人群的血清 PCSK9 水平呈偏态分布,
+平均数为(83. 501 ± 42. 604) ng / ml,中位数为 78. 237
+ng / ml,数值高于此前大样本的汉族人群 PCSK9 水平
+[(69. 35 ± 30. 15) ng / ml],该研究中女性血清 PCSK9
+水平要显著高于男性[6]。 而本研究的 2 型糖尿病人群
+中女性的血清 PCSK9 值虽然高于男性,但两者之间差
+异无统计学意义。 研究结果的不一致性与研究人群的
+特点、样本量的大小、检测及操作方法的差异有关。
+Lakoski 等[13]对 3 138 例非西班牙白种人和非西
+班牙黑种人研究发现,血清 PCSK9 与年龄、体重指数、
+血压、LDL-C、三酰甘油等指标呈显著正相关关系(P<
+0. 000 1),并且 PCSK9 与 LDL-C 及三酰甘油相关度最
+高。 本研究通过对 503 例 2 型糖尿病患者血清 PCSK9
+与动脉粥样硬化的多种危险因素进行相关分析也得出
+相似的结果,即使在体内糖代谢紊乱的情况下,血清
+PCSK9 与年龄、收缩压、总胆固醇、LDL-C、三酰甘油、
+AIP 等因素之间仍存在显著正相关关系,并且血清
+PCSK9 水平与脂代谢相关指标的相关性( r>0. 15)要
+高于 PCSK9 与其他动脉粥样硬化危险因素(年龄、收
+缩压、空腹血糖)的相关性。 校正后,血清 PCSK9 水平
+仍与总胆固醇正相关。 这一研究结果提示即使在不同
+种族、不同疾病人群的背景下,血清 PCSK9 始终与总
+胆固醇代谢密切相关。
+既往多个对健康志愿者的研究显示 PCSK9 与糖
+代谢指标空腹血糖、空腹胰岛、HOMA-IR 存在正相
+关[13-14],Brouwers 等[15]发现不同糖代谢状态下 PCSK9
+的水平无明显差异。 动物实验研究发现随着年龄的增
+加 PCSK9 敲除的小鼠胰岛的 LDLR 表达增加,且出现
+血糖升高、糖耐量受损等糖代谢异常,胰岛细胞出现炎
+症及早期凋亡,提示 PCSK9 对于维持胰岛的正常功能
+至关重要[16]。 但目前对于 PCSK9 与胰岛功能及胰岛
+素敏感性之间的关系尚存在争议。 本研究发现 PCSK9
+与 空 腹 血 糖 呈 正 相 关, 与 空 腹 胰 岛 素、 HBA1C、
+HOMA-IR、HOMA-β 不相关,而多元逐步回归后血糖
+与 PCSK9 的水平无相关。 无论是评价胰岛功能的
+HOMA-β 或胰岛素抵抗 HOMA-IR,都是根据空腹血糖
+及空腹胰岛素计算而来的简易评估参数,结果容易受
+影响,可能是本研究与之前的研究结果不一致的原因
+之一,今后我们将在扩大样本量的同时结合国际金标
+准的高胰岛素正糖钳夹明确 PCSK9 与 2 型糖尿病患
+者胰岛功能及胰岛素敏感性的之间关系。
+Dobiasova 等[17]证实 AIP 与 LDL-C 的颗粒直径呈
+负相关, AIP 值升高提示 LDL-C 颗粒中小而密的
+LDL-C 比例增加。 国内学者的研究显示 AIP 能准确预
+测及判断 2 型糖尿病患者发生动脉粥样硬化的风
+险[18]。 本研究结果发现 2 型糖尿病患者 PCSK9 与血
+清三酰甘油的水平及 AIP 呈正相关,因此 PCSK9 可能
+成为 2 型糖尿病动脉粥样硬化发生风险的预测因子,
+同时推测 PCSK9 抑制剂在降低 2 型糖尿病患者胆固
+醇水平的同时可以在一定程度上调节体内三酰甘油的
+水平,从而全面改善 2 型糖尿病患者的致动脉粥样硬
+化血脂谱,最大程度的降低 2 型糖尿病患者动脉粥样
+硬化相关的大血管并发症的发生,但这一假说还需要
+更多的基础及临床研究进行验证。
+他汀类药物因能增加 PCSK9 水平使其降脂效果
+不尽人意,近几年,科学家们致力于 PCSK9 抑制剂的
+研发,PCSK9 的抑制剂主要包括反义核苷酸,小分子
+干扰 RNA 和单克隆抗体。 单克隆抗体如 AMG145,
+REGN727 及 RN316 的I ~ 3临床试验发现,无论单
+用或与他汀类药物合用均能很好的降低 LDL-C 及
+apoB 的水平,且无明显的不良反应[19-21]。 随着对这类
+药物的长期有效性及安全性的进一步评估,PCSK9 抑
+制剂将有望作为新型的降脂药物运用于脂代谢相关性
+疾病的治疗。
+综上,本研究表明 2 型糖尿病患者血清 PCSK9 的
+水平呈偏态分布,且无明显的性别差异;2 型糖尿病患
+者血清 PCSK9 水平与年龄、空腹血糖、总胆固醇、三酰
+甘油、LDL-C、AIP 密切相关。 今后将进一步研究不同
+糖代谢状态患者 PCSK9 的水平,并进行相关机制的探
+究。 本文将为深入探讨 PCSK9 在糖尿病血脂异常的
+发生机制提供重要的参考。

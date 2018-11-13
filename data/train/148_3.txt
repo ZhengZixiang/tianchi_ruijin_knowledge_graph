@@ -1,0 +1,376 @@
+临床研究
+基金项目:国家自然科学基金资助项目(81270911,81070639,30771038);国家临床重点专科建设项目资助;中华医学
+会内分泌学会分会研究经费资助
+血清分泌型卷曲相关蛋白 4 水平与
+胰岛 β 细胞功能的相关性研究
+刘芳  江昕  唐倩  李瑛捷  瞿华  王行  邓华聪
+[摘要]   目的  探讨不同糖耐量状态下分泌型卷曲相关蛋白 4(SFRP4)与胰岛 β 细胞第一时相分泌
+功能的关系。 方法 新诊断 2 型糖尿病患者 56 例(T2DM 组);糖耐量受损 52 例( IGT 组);正常对照者 42
+名(NGT 组)。 行静脉葡萄糖耐量试验,ELISA 法测定空腹血清 SFRP4 及白细胞介素( IL)-1β 水平。 计算
+急性胰岛素分泌反应(AIR)、第一时相(0 ~ 10 min)胰岛素分泌曲线下面积(AUC)、葡萄糖处置指数
+(GDI)、稳态模型评估的胰岛 β 细胞功能指数(HOMA-β)及胰岛素抵抗指数(HOMA-IR)。 探讨 SFRP4 与
+AIR、AUC、GDI、HOMA-IR、HOMA-β 的关系。 结果 (1)T2DM 组和 IGT 组血清 SFRP4 水平显著高于 NGT
+组[(184. 38 ± 61. 34 和 141. 64 ±40. 46 对 95. 46 ±20. 13)ng / ml, P<0. 01];T2DM 组和 IGT 组 AIR、AUC、GDI
+显著低于 NGT 组(P<0. 01),且在 T2DM 组最低;(2)SFRP4 与 HOMA-β、AIR、AUC、GDI 呈显著负相关(P<
+0. 01),与空腹血糖、餐后 2 h 血糖、HBA1C、IL-1β、超敏 C 反应蛋白呈正相关(P<0. 01);(3)多元逐步回归分
+析显示,AUC、HOMA-IR、血清 IL-1β 水平是 SFRP4 的独立影响因素。 结论 血清 SFRP4 水平与糖代谢状
+态密切相关,且与胰岛 β 细胞第一时相分泌功能及慢性低度炎症反应有关,SFRP4 可能参与 2 型糖尿病的
+发生发展。
+[关键词]   分泌型卷曲相关蛋白 4; 胰岛 β 细胞功能; 静脉葡萄糖耐量试验; 白细胞介素-1β; 糖尿
+病, 2 型
+Relationship between serum secreted Frizzled-related protein 4 and the pancreatic β cell function Liu Fang,
+Jiang Xin, Tang Qian, Li Yingjie, Qu Hua, Wang Hang, Deng Huacong. Department of Endocrinology, the First
+Affiliated Hospital of Chongqing Medical University, Chongqing 400016, China
+[Abstract]   Objective   To investigate the relationship between serum secreted frizzled-related protein 4
+(SFRP4) and the first-phase of glucose-stimulated insulin secretion from pancreatic β cell under different glucose
+tolerance statuses. Methods Fifty-six patients with newly diagnosed type 2 diabetes mellitus ( T2DM group), 52
+patients with impaired glucose tolerance ( IGT group), and 42 subjects with normal glucose tolerance (NGT group)
+underwent intravenous glucose tolerance test. Fasting serum SFRP4 and interleukin ( IL)-1β were assayed by
+ELISA. Acute insulin response ( AIR), the area under the curve of the first-phase (0-10 min) insulin secretion
+(AUC), glucose disposition index(GDI), homeostasis model assessment for β cell function index(HOMA-β), and
+insulin resistance index (HOMA-IR) were calculated. Results (1) The levels of SFRP4 and IL-1β in T2DM group
+and IGT group were significantly higher than that in NGT group [(184. 38 ± 61. 34 or 141. 64 ± 40. 46 or 95. 46 ±
+20. 13)ng / ml, P<0. 01] . AIR, AUC, and GDI in T2DM group and IGT group were significantly lower than those in
+NGT group(P<0. 01), and these results were more significantly reduced in T2DM group compared with those in IGT
+group. (2) SFRP4 was negatively correlated with AIR, AUC, GDI, HOMA-β (P<0. 01), and positively correlated
+with fasting plasma glucose, 2 h plasma glucose after glucose loading, HBA1C, IL-1β, and high sensitive C-reactive
+protein (P<0. 01) . (3) Multiple stepwise regression analysis showed that AUC, HOMA-IR, and serum IL-1β level
+were independently associated with SFRP4. Conclusion The concentration of serum SFRP4 is closely correlated with
+the glycolipid metabolic disorder, the first-phase of glucose-stimulated insulin secretion, and chronic low-grade
+inflammation. SFRP4 may be involved in the mechanism of β cell dysfunction in type 2 diabetes mellitus.
+[Key words]   Secreted frizzled-related protein 4; β-cell function; Intravenous glucose tolerance test;
+Interleukin-1β; Diabetes mellitus, type 2
+(Chin J Endocrinol Metab, 2015, 31: 571-576)
+胰岛 β 细胞功能紊乱在 2 型糖尿病前期就已发
+生,从糖耐量正常转变为糖尿病的过程中可观察到胰
+岛 β 细胞功能进行性减退以及 β 细胞量的减少,早期
+主要表现为第一时相胰岛素分泌减少,这也是导致餐
+后高血糖和第二时相高胰岛素血症的重要环节[1-3]。
+目前大量研究认为 2 型糖尿病是机体固有免疫应答的
+激活,是营养物和代谢过剩所触发的慢性低度的炎症
+反应疾病,其分子机制和信号通路类似于传统的炎症
+反应[4]。 研究发现代谢应激触发的慢性低度炎症反
+应存在于糖尿病患者的胰岛中,并参与胰岛 β 细胞的
+功能障碍和胰岛素分泌减少,在此过程中炎症因子及
+其产物扮演着重要的角色,以此为药物靶点干预胰岛
+素的分泌成为当今研究热点。 2012 年新发现的脂肪
+因子分泌型卷曲相关蛋白 4 ( secreted frizzled-related
+protein 4,SFRP4)在胰岛 β 细胞功能受损中发挥重要
+作用,具有重要的科学价值,因此受到学术界的关注。
+研究发现在离体的胰岛 β 细胞中,SFRP4 与炎症因子
+和胰岛素分泌关系密切,推测 SFRP4 可能影响胰岛 β
+细胞功能[5],但目前国内外相关的临床研究报道甚
+少,而且 SFRP4 在人群中与第一时相胰岛素分泌、炎
+症因子水平的关系不甚清楚,是否能以 SFRP4 为靶点
+改善胰岛素分泌的临床依据缺乏,因此,本研究通过观
+察不同糖耐量人群的血清 SFRP4、炎症因子水平及第
+一时相胰岛素分泌,探讨血清 SFRP4 与第一时相胰岛
+素分泌、炎症因子的相关性,以阐明 SFRP4 在 2 型糖
+尿病胰岛 β 细胞功能减退中的作用及其机制。
+对象和方法
+一、 对象
+本研究共纳入研究对象 150 例,均来自于 2014 年
+2 月至 2015 年 1 月重庆医科大学附属第一医院门诊,
+年龄(57. 7 ± 11. 2) 岁,根据 1999 年世界卫生组织
+(WHO)糖尿病诊断标准将研究对象分为 2 型糖尿病
+组(T2DM 组)、糖耐量受损组(IGT 组)和糖耐量正常
+组(NGT 组)。 T2DM 组 56 例,其中男性 29 例,女性
+27 例;IGT 组 52 例,其中男性 27 例,女性 25 例;NGT
+组 42 名,其中男性 20 名,女性 22 名。 本研究获重庆
+医科大学附属第一医院伦理委员会批准,每位研究对
+象均签署知情同意书。
+入选标准:(1)均为初诊糖尿病和 IGT 患者,未接
+受任何抗糖尿病药物及饮食、运动治疗;(2)无 2 型糖
+尿病严重急、慢性并发症;(3)3 个月内无固醇类药物
+服用史;(4)受检前 1 个月无急、慢性感染病史;(5)无
+长期大量饮酒、吸烟史;(6)无冠心病病史,肝、肾功能
+正常;(7)无肿瘤病史;(8)除外妊娠及哺乳期女性。
+二、 方法
+1. 人体参数测定:所有受试者试验前需戒酒、戒
+烟 1 周,且不从事重体力活动,试验前 3 d 每日保证摄
+入不少于 250 g 的碳水化合物,并保持饮食与体重的
+相对稳定。 受试者清晨空腹排空膀胱由固定专人测
+量,并采用同一测量工具测定身高、体重、腰围、臀围及
+血压,其中腰围和臀围测定最小记录单位为 0. 1 cm。
+计算体重指数(BMI)、腰臀比。
+2. 标本的收集和检测:所有受试者清晨空腹,静
+脉采血测定 HBA1C、甘油三酯(TG)、总胆固醇(TC)、
+高密度脂蛋白胆固醇(HDL-C)、低密度脂蛋白胆固醇
+(LDL-C)、空腹血糖(FPG)、空腹胰岛素(FINS)及肝
+肾功能;另取静脉血 5 ml 室温下静置 2 h 后,1 000×g
+离心 15 min,分离血清标记后储存于-80℃低温冰箱同
+批测定 SFRP4、白细胞介素(IL)-1β。 血糖采用葡萄糖
+氧化酶法测定,血清 SFRP4 和 IL-1β 采用酶联免疫吸
+附试验(ELISA)方法(Human ELISA kit, Wuhan USCN
+Science Co, Ltd, 中国, 批间 CV < 12% , 批内 CV <
+10% ),HBA1C采用高压液相法检测,胰岛素采用化学
+发光法检测,血脂采用生化自动分析仪(Beckman CX-
+7 Biochemical Autoanalyser, Brea, CA,美国)。
+3. 静脉葡萄糖耐量试验(IVGTT):所有受试者空
+腹状态下 3 min 内快速推注 50% 葡萄糖液 ( 300
+mg / kg),于 0、3、5、8、10 min 各时相采血 3 ml,测血糖
+及胰岛素。 采用不规则梯形面积公式计算第一时相胰
+岛素分泌,即葡萄糖刺激后 0 ~ 10 min 内胰岛素曲线
+下面积(area under the curves, AUC);计算葡萄糖刺激
+后 3 ~ 5 min 急性胰岛素反应[ acute insulin response,
+AIR= ( I3 min + I5 min ) / 2] [6] 及葡萄糖处置指数 [GDI =
+log10 (AIR×FPG / FINS)] [7];以稳态模型评估的胰岛素抵抗指
+数(HOMA-IR = FPG×FINS / 22. 5)及胰岛 β 细胞功能
+[HOMA-β=20×FINS / (FPG-3. 5)]。
+三、 统计学处理
+采用 SPSS 19. 0 软件进行分析,正态分布的计量
+资料以 x-±s 表示,非正态分布的计量资料以M(四分位
+间距)表示。 非正态分布的连续变量通过对数转换后
+进行统计分析。 3 组间比较采用单因素方差分析。 相
+关分析采用 Pearson 相关分析及偏相关分析。 多因素
+分析采用多元逐步回归分析。 P<0. 05 为差异有统计
+学意义。
+结    果
+一、 一般临床资料和生化指标的比较
+1. 一般临床资料的比较(表 1):各组间性别及年
+龄匹配;BMI、腰臀比、收缩压、舒张压在 T2DM 组均显
+著高于 NGT 组(P<0. 05 或 P<0. 01),而且 IGT 组的腰
+臀比及收缩压显著高于 NGT 组(P<0. 05 或 P<0. 01),
+T2DM 组的腰臀比显著高于 IGT 组(P<0. 01),但 BMI
+和舒张压在 IGT 组及 NGT 组间差异无统计学意义
+(P>0. 05)。
+2. 3 组间生化指标的比较(表 1):FPG、餐后 2 h
+血糖(2hPG)、HBA1C、HOMA-IR、HOMA-β 在 T2DM 组
+与 NGT 组,IGT 组与 NGT 组,T2DM 组与 IGT 组间差
+异均具有统计学意义(P<0. 01)。 FINS 和 HDL-C 在
+T2DM 组与 NGT 及 IGT 组差异均有统计学意义(P<
+0. 05 或 P<0. 01),但 IGT 组与 NGT 组间无显著差异
+(P>0. 05)。TG 在 T2DM 组及 IGT 组均显著高于 NGT
+组(P<0. 01),但在 T2DM 组与 IGT 组间差异无统计学
+意义(P>0. 05)。 TC、LDL-C 在 3 组间差异无统计学意
+义(P>0. 05)。 IL-1β、超敏 C 反应蛋白( hs-CRP)在
+T2DM 组中均显著高于 IGT 组和 NGT 组,在 IGT 组中
+显著高于 NGT 组(P<0. 01)。
+3. 3 组间血清 SFRP4 水平的比较(表 1):血清
+SFRP4 水平在 3 组间差异有统计学意义(P<0. 01),由
+高至低依次为 T2DM 组(184. 38 ± 61. 34) ng / ml、IGT
+组(141. 64 ± 40. 46) ng / ml、NGT 组(95. 46 ± 20. 13)
+ng / ml。将所有受试者按性别分男性组与女性组间血清
+SFRP4 水平差异无统计学意义[(146. 25 ± 55. 16 对
+143. 04 ±60. 70)ng / ml,P=0. 735]。
+表 1  3 组间一般临床资料和生化指标的比较[x-± s 或 M(四分位间距)]
+Tab 1  Comparison of clinical data and biochemical parameters among 3 groups[x-± s or M(interquartile range)]
+组别
+Group
+例数(男 / 女)
+n(M / F)
+年龄
+(岁)
+Age
+(year)
+BMI
+(kg / m2) WHR
+SBP
+(mmHg)
+DBP
+(mmHg)
+FPG*
+(mmol / L)
+NGT 42(20 / 22) 51. 33 ± 11. 54 22. 91 ± 2. 56 0. 87 ± 0. 05   120 ± 11   80 ± 8 5. 17 (4. 85-5. 29)
+IGT 52(27 / 25) 53. 21 ± 11. 08 23. 10 ± 3. 20 0. 90 ± 0. 06a   129 ± 16b   81 ± 8 6. 29 (5. 79-6. 50) b
+T2DM 56(29 / 27) 50. 59 ± 10. 98 24. 20 ± 3. 53a 0. 93 ± 0. 07bd   131 ± 15b   85 ± 9bc 8. 40 (7. 59-9. 86) bd
+组别
+Group
+例数(男 / 女)
+n(M / F)
+2hPG
+(mmol / L)*
+FINS
+(μU / ml)
+HBA1C*
+(% )
+HOMA-IR HOMA-β* TG
+*
+(mmol / L)
+NGT 42(20 / 22) 4. 61 (4. 24-5. 06) 4. 99 ± 1. 27 5. 70 (5. 60-5. 80) 1. 14 ± 0. 31 61. 19 (50. 39-76. 73) 1. 15 (1. 00-1. 48)
+IGT 52(27 / 25) 8. 40 (8. 15-8. 97) b 5. 60 ± 1. 36 6. 10 (5. 90-6. 48) b 1. 53 ± 0. 43b 41. 01 (36. 77-53. 32) b 1. 56 (1. 11-1. 82) b
+T2DM 56(29 / 27) 10. 02 (8. 54-11. 31) bd 6. 58 ± 3. 06bc 9. 20 (7. 48-10. 60) bd 2. 57 ± 1. 15bd 24. 96(17. 23-33. 65) bd 1. 78 (1. 08-2. 41) b
+组别
+Group
+例数(男 / 女)
+n(M / F)
+TC
+(mmol / L)
+HDL-C*
+(mmol / L)
+LDL-C
+(mmol / L)
+hs-CRP
+(mg / L)
+IL-1β
+(pg / ml)
+SFRP4
+(ng / ml)
+NGT 42(20 / 22) 4. 84 ± 0. 81 1. 47 (1. 32-1. 49) 2. 69 ± 0. 89 0. 94 ± 0. 49 4. 32 ± 1. 71 95. 46 ± 20. 13
+IGT 52(27 / 25) 4. 92 ± 0. 92 1. 33 (1. 25-1. 56) 2. 90 ± 0. 63 1. 64 ± 0. 81b 6. 65 ± 2. 42b 141. 64 ± 40. 46b
+T2DM 56(29 / 27) 4. 72 ± 1. 00 1. 12 (0. 97-1. 32) bd 2. 72 ± 0. 89 2. 15 ± 1. 05bd 7. 81 ± 1. 56bd 184. 38 ± 61. 34bd
+注: NGT: 正常糖耐量组 Normal glucose tolerance group; IGT: 糖耐量受损组 Impaired glucose tolerance; T2DM: 2 型糖尿病组 Type 2 diabetes mellitus
+group; M: Male; F: Female; BMI: 体重指数 Body mass index; WHR: 腰臀比 Waist-hip ratio; SBP: 收缩压 Systolic blood pressure; 1 mmHg = 0. 133 kPa;
+DBP: 舒张压 Diastolic blood pressure; FPG: 空腹血糖 Fasting plasma glucose; *: 数据经对数转换成正态分布 The data are statistically analyzed after
+logarithmic transformation; 2hPG: 餐后 2 h 血糖 Postprandial 2 h plasma glucose; FINS: 空腹胰岛素 Fasting insulin; HOMA-IR: 稳态模型评估的胰岛素抵
+抗指数 Homeostasis model assessment for insulin resistance; HOMA-β: 稳态模型评估的胰岛 β 细胞功能指数 Homeostasis model assessment β cell function;
+TG: 甘油三酯 Triglycerides; TC:总胆固醇 Total cholesterol; HDL-C:高密度脂蛋白胆固醇High density lipoprotein-cholesterol; LDL-C:低密度脂蛋白胆固
+醇 Low density lipoprotien-cholesterol; hs-CRP: 超敏 C 反应蛋白 High sensitive C-reaction protein; IL-1β: 白细胞介素 1β Interleukin-1β; SFRP4: 分泌型卷
+曲相关蛋白 4 Secreted Frizzled-related protein 4;与 NGT 组比较 vs NGT group, aP<0. 05,bP<0. 01; 与 IGT 组比较 vs IGT group,cP<0. 05,dP<0. 01
+注: AIR: 急性胰岛素分泌反应 Acute insulin response; AUC: 第一时相胰岛素分泌曲线下面积 The area under the curve of the first phase insulin
+secretion; GDI: 葡萄糖处置指数 Glucose disposal index; 其他缩略语及符号同表 1 The other abbreviations and marks are the same as Tab 1; 与 NGT 组比较
+vs NGT group, aP<0. 05, bP<0. 01; 与 IGT 组比较 vs IGT group, cP<0. 05, dP<0. 01
+图 1  3 组间第一时相胰岛素分泌功能、急性胰岛素反应及葡萄糖处置指数的比较
+Fig 1  Comparison of the first phase insulin secretion function, acute insulin response, and glucose disposal index in 3 group
+二、 第一时相胰岛素分泌功能的比较
+各组间 AIR、AUC(图 1A)、GDI(图 1B)差异均有
+统计学意义(P<0. 05 或 P<0. 01),与 NGT 组相比,IGT
+组已有降低,T2DM 组降低更为明显。
+三、 SFRP4 与各因素之间的关系
+SFRP4 与 HDL-C、HOMA-β、AIR、AUC、GDI 呈显
+著负相关(P<0. 01),与腰臀比、FPG、2hPG、HOMA-IR、
+HBA1C、 IL-1β、 hs-CRP 呈正相关 ( P < 0. 01 )。 校正
+BMI、腰臀比、HOMA-IR 后,SFRP4 与 HDL-C 的相关性
+消失,SFRP4 与 FPG、2hPG、HBA1C、IL-1β、hs-CRP 仍呈
+正相关(P<0. 01),与 HOMA-β、AIR、AUC、GDI 呈显著
+负相关(P<0. 01,表 2)。 以 SFRP4 为因变量,腰臂比、
+FPG、 HOMA-IR、 HOMA-β、 AIR、 AUC、 GDI、 IL-1β、
+hs-CRP、FPG、2hPG、HBA1C为自变量,多元逐步回归分
+析显示, AUC、HOMA-IR 及血清 IL-1β 水平是血清
+SFRP4 的独立影响因素 ( βAUC = - 0. 343, P < 0. 01;
+βHOMA-IR =0. 221,P = 0. 002;βIL-1β = 0. 241,P = 0. 005),
+多元回归方程如下: YSFRP4 = 200. 83 - 48. 743XAUC +
+62. 432XHOMA-IR +5. 845XIL-1β(HDL-C、TG、FPG、 2hPG、
+HBA1C、HOMA-β、AIR、AUC 均经对数转换为正态分
+布)。
+表 2  SFRP4 与各指标之间的关系( r 值)
+Tab 2  The relationship between secreted Frizzled-related protein 4
+and the various indicators( r value)
+参数
+Indicator r 值 r忆值
+BMI 0. 136 -
+WHR 0. 241b   -
+TC 0. 036 -
+TG 0. 154 -
+HDL-C -0. 215b -0. 138
+LDL-C 0. 111 -
+hs-CRP 0. 424b 0. 322b
+FPG 0. 587b 0. 482b
+2hPG 0. 608b 0. 516b
+FINS 0. 123 -
+HOMA-IR 0. 359b   -
+HOMA-β -0. 475b -0. 445b
+HBA1C 0. 538b 0. 433b
+AIR -0. 559b -0. 487b
+AUCins -0. 595b -0. 539b
+GDI -0. 511b -0. 399b
+IL-1β 0. 552b 0. 508b
+注: -: 无 r 值 No data; AUCins: 第一时相胰岛素分泌曲线下面积
+The area under the curve of the first phase insulin secretion; 余略语同表 1 和
+图 1 The other abbreviations are the same as Tab 1 and Fig 1; aP<0. 05,bP<
+0. 01
+讨    论
+SFRP4 是分泌型卷曲相关蛋白家族 ( secreted
+frizzled-related proteins,SFRPs)成员之一。 SFRPs 通过
+胞外 N 端富含半胱氨酸的结构域(CRD)与 Wnt 蛋白
+竞争性结合从而影响 Wnt 信号通路,还可以结合 Frz
+受体并提供轴突靶向性信息,也能与其他受体及基质
+分子相互作用[8,9]。 SFRP4 具有多种生物学功能,近
+年来发现它在肿瘤细胞的增殖和凋亡及细胞分化中起
+重要作用,也在维持无机磷酸盐的体内平衡方面具有
+调节作用[10-12]。 最近一项发表在 Cell Metabolism 杂志
+上的研究通过基因芯片技术分析糖尿病患者的胰岛组
+织[13],证实 SFRP4 与糖尿病关系密切,并可能与胰岛
+素分泌有关,故受到学术界的密切关注,但其机制不甚
+清楚。 众所周知,第一时相胰岛素分泌可通过抑制糖
+异生而抑制内源性葡萄糖的产生和输出,限制游离脂
+肪酸释放入血,减轻餐后高血糖,故早期胰岛 β 细胞
+功能减退的特征表现即第一时相胰岛素分泌减
+少[1,2]。 为此,本研究提出假说,即血清 SFRP4 通过作
+用于第一时相胰岛素分泌,从而影响糖尿病患者胰岛
+β 细胞功能,有关这方面研究国内外尚无文献报道。
+本研究以不同糖耐量个体为研究对象,研究结果
+显示,糖尿病患者较正常人群有更高的血清 SFRP4 水
+平而 IGT 的患者血清 SFRP4 水平次之,而且与 FPG 和
+HBA1C呈正相关。 有研究通过分析糖尿病和高血糖患
+者的胰岛组织,结果证实糖尿病和高血糖患者较 NGT
+者的胰岛表达更高的 SFRP4,并且与 HBA1C 呈正相
+关[5]。 结合本研究结果,表明血清 SFRP4 水平升高与
+糖尿病的血糖紊乱密切相关。
+Taneera 等[5]报道 SFRP4 在小鼠胰岛 β 细胞中的
+表达与胰岛素分泌呈显著负相关,并且体外实验表明,
+用 SFRP4 重组蛋白处理胰岛细胞,可使胰岛素分泌减
+少 30% ,β 细胞胞吐减少 50% 。 而且Mahdi 等[13]研究
+发现,基因敲除 β 细胞中 76% ± 6% 的 SFRP4 mRNA
+后,可使胰岛素分泌增加 25% ;另给小鼠注射 SFRP4
+重组蛋白,可使小鼠的葡萄糖耐量减低,胰岛素分泌减
+少,小鼠的离体胰岛 β 细胞也表现出葡萄糖刺激的胰
+岛素分泌减少。 本研究发现,血清 SFRP4 水平与
+AUC、AIR、GDI 呈显著负相关(P<0. 01),在校正胰岛
+素敏感性后其相关性依然存在,提示血清 SFRP4 水平
+越高而第一时相胰岛素分泌越少。 已有研究发现
+SFRP4 可增加非磷酸化 β-catenin,激活 TCF / LEF,后
+者可抑制钙通道的表达[14]。 而且进一步研究也发现
+SFRP4 可通过作用于 Wnt 通路减少胰岛 β 细胞的钙
+通道的表达,使 Ca2+内流减少,抑制胰岛素胞吐,最终
+影响胰岛素的分泌[10,13,15],进一步证明 SFRP4 与第一
+时相胰岛素分泌和胰岛 β 细胞功能障碍密切相关,并
+且可能是通过经典的 Wnt 信号通路影响第一时相胰
+岛素分泌。
+糖尿病是一种慢性低度炎症反应性疾病,各种代
+谢应激包括糖毒性、脂毒性、高水平的瘦素等诱导脂肪
+组织、胰岛产生大量的细胞因子,而这些细胞因子及其
+炎症产物广泛参与胰岛 β 细胞的淀粉样变性、纤维
+化、炎症细胞浸润和死亡[16-20]。 IL-1β 是营养物和代
+谢过剩所触发的慢性低度炎症反应中典型的促炎症因
+子,研究发现糖尿病患者中胰岛 IL-1β 表达增加,除了
+可通过结合 IL-1 受体而自身活化产生更多 IL-1β,还
+可上调胰岛中 IL-6 mRNA 及 IL-8 mRNA 的表达[21]。
+基因共表达分析证实 SFRP4 是糖尿病相关基因,并且
+与 IL-1 的表达密切相关[5]。 在胰岛细胞中,IL-1β 刺
+激胰岛 β 细胞表达和释放 SFRP4。 在对大鼠 INS832 /
+13 细胞的 SFRP4 进行 RNA 干扰实验中,发现沉默
+SFRP4 mRNA 后,IL-1β 对胰岛素分泌的抑制效应明显
+减弱,可明显改善胰岛 β 细胞功能[13]。 提示 SFRP4
+可能是 IL-1β 影响胰岛素分泌减少的中间环节,但不
+排除其他炎症介质也通过 SFRP4 影响第一时相胰岛
+素分泌。 因此,SFRP4 在胰岛 β 细胞的慢性低度炎症
+和胰岛 β 细胞功能障碍之间架起了一座桥梁[22]。 hs-
+CRP 是慢性炎症最敏感而且特异的标志。 本研究观
+察到 T2DM 组、IGT 组第一时相胰岛素分泌减少,而血
+清 SFRP4、IL-1β、hs-CRP 增高,并且 IL-1β、hs-CRP 与
+血清 SFRP4 水平呈显著正相关(P<0. 01),多元逐步
+回归分析也显示 IL-1β 是血清 SFRP4 的独立影响因
+素。 提示 SFRP4 可能介导了 IL-1β 导致的胰岛素分泌
+减少,是导致胰岛 β 细胞功能减退的重要机制。 但由
+于本研究为横断面设计,所以无法探讨 IL-1β 及其他
+炎症因子与 SFRP4 之间的关系,需要更多的研究来证
+实其相关机制。
+本研究还发现血清 SFRP4 几乎与胰岛素抵抗相
+伴而行,血清 SFRP4 与腰臀比及 HOMA-IR 呈正相关
+(P<0. 05 或 P<0. 01)。 众所周知,在脂肪组织胰岛素
+抵抗的状态下,脂肪组织分泌的脂肪因子发生改变,脂
+肪因子可通过内分泌的方式影响胰岛 β 细胞的功
+能[23]。 Ehrlund 等[24] 发现人白色脂肪细胞能分泌
+SFRP4,其表达与胰岛素敏感性呈正相关。 最近的一
+项研究表明人血清 SFRP4 与腹部皮下脂肪的血管化、
+胰岛素抵抗及 BMI 呈正相关[25]。 推测 SFRP4 作为一
+种新发现的脂肪因子,通过旁分泌或者内分泌的方式
+影响脂肪组织的胰岛素敏感性,而且本研究中发现
+SFRP4 与肥胖相关指标腰臀比相关(P = 0. 003)。 总
+之,SFRP4 可能通过影响胰岛素抵抗,从而增加胰岛 β
+细胞负荷,加重胰岛 β 细胞的功能障碍;同时,推测
+SFRP4 作为脂肪因子,也可能通过内分泌的方式影响
+胰岛 β 细胞的功能,但本试验属于横断面研究,上述
+假设需要进一步的体外实验和临床研究证实。
+本研究通过对不同糖耐量个体血清 SFRP4 水平
+的测定,发现血清 SFRP4 水平与糖代谢异常、第一时
+相胰岛素分泌及 IL-1β 密切相关,提示其可能参与 2
+型糖尿病胰岛 β 细胞功能缺陷的发生发展,其机制可
+能为体内慢性低度炎症状态下 IL-1β 等炎症因子表达
+增多,刺激胰岛 β 细胞分泌过多 SFRP4,而 SFRP4 通
+过 Wnt 通路抑制胰岛素第一时相分泌,促使胰岛功能
+进行性减退,参与了 2 型糖尿病的发生发展。 但
+SFRP4 在 2 型糖尿病中的表达情况尚需大样本人群证
+实,其与炎症因子及胰岛素分泌障碍的相互作用机制
+还有待进一步研究阐明。

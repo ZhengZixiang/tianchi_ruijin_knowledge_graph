@@ -1,0 +1,280 @@
+T1	Test 4738 4742	空腹血糖
+T2	Test 7580 7584	空腹血糖
+T3	Test 5583 5585	体重
+T4	Test 6775 6777	体重
+T5	Disease 128 137	先天性高胰岛素血症
+T6	Disease 398 401	CHI
+T7	Disease 352 355	CHI
+T8	Drug 406 409	二氮嗪
+T9	Drug 439 442	二氮嗪
+T10	Drug 450 453	奥曲肽
+T11	Operation 487 494	胰腺次全切除术
+T12	Test 505 507	血糖
+T13	Disease 527 530	糖尿病
+T14	Drug 538 541	二氮嗪
+T15	Disease 543 546	CHI
+T16	Drug 570 573	奥曲肽
+T17	Disease 575 578	CHI
+T18	Drug 588 590;591 592	二氮 嗪
+T19	Drug 603 606	奥曲肽
+T20	Drug 617 620	二氮嗪
+T21	Disease 667 670	CHI
+T22	Disease 2763 2772	先天性高胰岛素血症
+T23	Disease 2842 2845	CHI
+T24	Symptom 2869 2879	持续性或复发性低血糖
+T25	Disease 2900 2903	CHI
+T26	Disease 2920 2923	CHI
+T27	Disease 2962 2965	CHI
+T28	Disease 2987 2990	CHI
+T29	Disease 3092 3095	CHI
+T30	Test_Value 3150 3166	1. 55 ~ 5. 90 kg
+T31	Symptom 3310 3313	低血糖
+T32	Symptom 3334 3338	无热抽搐
+T33	Symptom 3348 3350	发绀
+T34	Symptom 3359 3362	反应弱
+T35	Symptom 3368 3370	多汗
+T36	Symptom 3371 3374	易激惹
+T37	Test 3413 3415	血糖
+T38	Disease 3486 3490	低血糖症
+T39	Test 3550 3553	胰岛素
+T40	Test 3737 3744	胰腺影像学检查
+T41	Test 3756 3763	胰腺影像学检查
+T42	Disease 3811 3820	先天性高胰岛素血症
+T43	Symptom 3851 3857	高胰岛素血症
+T44	Test_Value 3864 3873	>2 mU / L
+T45	Symptom 3878 3884	低脂肪酸血症
+T46	Test_Value 3893 3907	<1. 5 mmol / L
+T47	Symptom 3912 3916	低酮血症
+T48	Test 3945 3960	1 mg 静脉胰升糖素试验反应
+T49	Test 3984 3988	饥饿实验
+T50	Disease 4025 4028	CHI
+T51	Drug 4049 4052	二氮嗪
+T52	Test 4066 4068	血糖
+T53	Frequency 4075 4081	一日 2 次
+T54	Duration 4085 4093	7 ~ 10 天
+T55	Drug 4096 4099	二氮嗪
+T56	SideEff 4103 4107	水钠潴留
+T57	Drug 4136 4139	二氮嗪
+T58	Disease 4141 4144	CHI
+T59	Test 4162 4164	血糖
+T60	Drug 4171 4174	二氮嗪
+T61	Drug 4211 4214	二氮嗪
+T62	Drug 4229 4232	二氮嗪
+T63	Test 4239 4241	血糖
+T64	Test 4254 4256	血糖
+T65	Drug 4289 4292	二氮嗪
+T66	Duration 4295 4303	7 ~ 10 天
+T67	Drug 4317 4320	二氮嗪
+T68	Drug 4339 4342	二氮嗪
+T69	Disease 4344 4347	CHI
+T70	Drug 4360 4363	二氮嗪
+T71	SideEff 4395 4398;4399 4401	消化道 反应
+T72	Drug 4449 4452	二氮嗪
+T73	SideEff 4461 4464	多毛症
+T74	Drug 4499 4502	二氮嗪
+T75	Drug 4510 4513	奥曲肽
+T76	Test 4521 4523	血糖
+T77	Drug 4536 4539	奥曲肽
+T78	Drug 4548 4551	奥曲肽
+T79	SideEff 4566 4570;4571 4572	消化道反 应
+T80	Drug 4594 4597	二氮嗪
+T81	Disease 4624 4627	CHI
+T82	Operation 4652 4658	胰腺次全切术
+T83	Drug 4670 4673	二氮嗪
+T84	Drug 4691 4692;4693 4695	二 氮嗪
+T85	Drug 4702 4705	二氮嗪
+T86	Disease 4784 4787	糖尿病
+T87	Drug 4792 4795	胰岛素
+T88	Disease 5331 5340	先天性高胰岛素血症
+T89	Symptom 5348 5352;5353 5358	持续性复 发性低血糖
+T90	Drug 5616 5617;5618 5620	二 氮嗪
+T91	Drug 5632 5635	葡萄糖
+T92	Method 5635 5637	静点
+T93	Drug 5682 5685	二氮嗪
+T94	Drug 5766 5769	二氮嗪
+T95	Disease 5872 5875	CHI
+T96	Drug 5895 5898	二氮嗪
+T97	Disease 5913 5916	CHI
+T98	Disease 6004 6007	CHI
+T99	Drug 6042 6043;6044 6046	二 氮嗪
+T100	Disease 6056 6059	CHI
+T101	Drug 6206 6209	二氮嗪
+T102	Drug 6258 6261	二氮嗪
+T103	Operation 6278 6283	胰腺切除术
+T104	Disease 6286 6289	低血糖
+T105	Drug 6327 6330	二氮嗪
+T106	Drug 6347 6350	二氮嗪
+T107	Test 6351 6353	血糖
+T108	Drug 6364 6367	二氮嗪
+T109	Drug 6407 6410	二氮嗪
+T110	Operation 6420 6425	胰腺切除术
+T111	Drug 6472 6475	二氮嗪
+T112	Drug 6512 6515	二氮嗪
+T113	Drug 6555 6558	二氮嗪
+T114	Disease 6573 6576	CHI
+T115	Drug 6588 6591	二氮嗪
+T116	Drug 6615 6618	二氮嗪
+T117	Drug 6637 6640	二氮嗪
+T118	Drug 6753 6756	二氮嗪
+T119	Drug 6798 6799;6800 6802	二 氮嗪
+T120	Drug 6869 6872	二氮嗪
+T121	SideEff 6885 6889	水钠潴留
+T122	SideEff 6895 6898	多毛症
+T123	Anatomy 6914 6916	前额
+T124	Anatomy 6917 6919	眉毛
+T125	Anatomy 6921 6923	睫毛
+T126	Anatomy 6924 6926	背部
+T127	Anatomy 6927 6929	手臂
+T128	SideEff 6946 6947;6948 6949	过 敏
+T129	SideEff 6950 6952	恶心
+T130	SideEff 6953 6955	畏食
+T131	Drug 6972 6974;6975 6976	二氮 嗪
+T132	Drug 7009 7012	二氮嗪
+T133	Drug 7013 7017	氢氯噻嗪
+T134	SideEff 7029 7036	消化道不良反应
+T135	SideEff 7067 7070	多毛症
+T136	SideEff 7073 7076	多毛症
+T137	Drug 7077 7079;7080 7081	二氮 嗪
+T138	Drug 7094 7097	奥曲肽
+T139	Disease 7099 7102	CHI
+T140	Drug 7114 7117	二氮嗪
+T141	Drug 7141 7144	奥曲肽
+T142	Drug 7154 7157	奥曲肽
+T143	Frequency 7199 7208	日 3 ~ 4 次
+T144	Method 7209 7213	皮下注射
+T145	SideEff 7227 7228;7229 7233	一 过性腹泻
+T146	SideEff 7243 7246	胆结石
+T147	SideEff 7252 7253;7254 7258	肠 蠕动改变
+T148	Drug 7270 7273	奥曲肽
+T149	Drug 7294 7297	二氮嗪
+T150	Drug 7308 7311	奥曲肽
+T151	SideEff 7346 7353	消化道不良反应
+T152	Drug 7371 7374	奥曲肽
+T153	Disease 7438 7441	CHI
+T154	Operation 7458 7461;7462 7466	胰腺次 全切除术
+T155	Operation 7467 7474	胰腺部分切除术
+T156	Operation 7487 7488;7489 7495	胰 腺次全切除术
+T157	Disease 7514 7521	局灶型-CHI
+T158	Operation 7525 7532	胰腺部分切除术
+T159	Operation 7557 7564	胰腺次全切除术
+T160	Disease 7622 7625	糖尿病
+T161	Operation 7629 7636	胰腺次全切除术
+T162	Disease 7644 7647	CHI
+T163	Disease 7673 7676	CHI
+T164	Drug 7731 7734	二氮嗪
+T165	Disease 7767 7770	CHI
+T166	Drug 7775 7778	二氮嗪
+T167	Drug 7788 7791	奥曲肽
+T168	Disease 7795 7798	CHI
+T169	Operation 7863 7870	胰腺次全切除术
+T170	Disease 7903 7906	CHI
+T171	Drug 7937 7940	二氮嗪
+T172	Disease 7951 7954	CHI
+T173	Drug 7978 7981	二氮嗪
+T174	Test 4888 4890	血糖
+T175	Test 5640 5641;5642 5643	血 糖
+T176	Disease 221 230	先天性高胰岛素血症
+T177	Test_Value 509 516	恢复至正常水平
+T178	Disease 709 715	高胰岛素血症
+T179	Drug 722 725	二氮嗪
+T180	Operation 727 732	胰腺切除术
+T181	Disease 3195 3199;3200 3201	围生期窒 息
+T182	Test_Value 4164 4170	逐渐升至正常
+T183	Duration 4188 4205	1 ~ 12 天,中位时间 3 天
+T184	SideEff 4380 4387	颜面或下肢水肿
+T185	Test_Value 4523 4530	上升至正常水平
+T186	Test_Value 5587 5592	大于胎龄儿
+T187	Disease 5705 5708	CHI
+T188	Disease 6019 6022	CHI
+T189	Drug 6047 6053	钾通道开放剂
+T190	Anatomy 6111 6114	胰岛素
+T191	Test_Value 6354 6362	逐渐恢复正常水平
+T192	Test_Value 6777 6779	正常
+T193	Disease 6785 6788	巨大儿
+T194	SideEff 6903 6909	毛发过度生长
+T195	Drug 7166 7173;7174 7178	生长激素抑制因 子类似物
+T196	Drug 7180 7191	胰岛素释放的潜在抑制剂
+T197	Amount 7328 7329;7330 7331	8 肽
+T198	Level 7502 7504	严重
+T199	Test_Value 7586 7593	恢复至正常水平
+T200	Operation 7698 7701;7702 7703	胰腺手 术
+T201	Operation 7918 7922	胰腺术式
+T202	Disease 231 234	CHI
+T203	Disease 245 248	CHI
+T204	Disease 322 325	CHI
+T205	Anatomy 682 684	胰腺
+T206	Disease 2802 2805	CHI
+T207	Drug 4116 4120	10%氯
+T208	Method 4304 4309	剂量逐渐增
+T209	Duration 4553 4557	12 天
+T210	Disease 5491 5494	CHI
+T211	Drug 5856 5859	二氮嗪
+T212	Anatomy 6153 6162;6163 6166	ABCC8 显性遗 传基因
+T213	Disease 6307 6310	CHI
+T214	Disease 6455 6458	CHI
+T215	Anatomy 6841 6846	ABCC8
+T216	Anatomy 6847 6856	KCNJ11 基因
+T217	Disease 7124 7131	KATP-HI
+T218	Disease 5422 5429	KATP-HI
+T219	Disease 5431 5437	GDH-HI
+T220	Disease 5439 5445	GCK-HI
+T221	Disease 5446 5453	HADH-HI
+T222	Disease 5454 5462	HNF4A-HI
+T223	Disease 5463 5470	UCP2-HI
+T224	Disease 5471 5479	MCT-1-HI
+T225	Disease 5481 5488	KATP-HI
+T226	Disease 7736 7739	CHI
+T227	Test 3885 3889;3890 3893	血浆游离 脂肪酸
+T228	Test 3143 3147	出生体重
+T229	Test 3625 3631	胰升糖素水平
+T230	SideEff 468 473	消化道症状
+T231	Operation 628 635	胰腺次全切除术
+T232	Symptom 641 644	低血糖
+T233	Symptom 2881 2896	低血糖状态下不恰当的胰岛素分泌
+T234	Symptom 3267 3273	无糖耐量异常
+T235	Symptom 3279 3282	低血糖
+T236	Symptom 3376 3379	低血糖
+T237	Symptom 3402 3405	低血糖
+T238	Test_Value 3418 3440	1. 74 ± 0. 99)mmol / L
+T239	Test_Value 3440 3463	(0. 30 ~ 2. 79 mmol / L
+T240	Test_Value 3470 3483	2. 8 mmol / L
+T241	Test 3496 3501	血 C 肽
+T242	Test_Value 3504 3526	3. 03 ± 1. 69) ng / ml
+T243	Test_Value 3556 3578	16. 87 ± 19. 09)mU / L
+T244	Symptom 3614 3617	低血糖
+T245	Test_Value 3637 3665	314. 73 ± 185. 76 ) μmol / L
+T246	Symptom 3695 3698	低血糖
+T247	Test 3708 3710	血氨
+T248	Test_Value 3712 3713;3714 3715	升 高
+T249	Symptom 3837 3840	低血糖
+T250	Test 3859 3864	血浆胰岛素
+T251	Test 3917 3925	血浆 β-羟丁酸
+T252	Test_Value 3925 3926;3927 3940	< 2. 0 mmol / L
+T253	Test 3961 3963;3964 3966	血糖 变化
+T254	Test_Value 3966 3977	>30 mg / dl
+T255	Symptom 3990 3993	低血糖
+T256	SideEff 4124 4128	低钾血症
+T257	Drug 4157 4158;4159 4161	二 氮嗪
+T258	Amount 4180 4186	2 ~ 15
+T259	Test_Value 4262 4277;4278 4279	3. 9 mmol / L 以 上
+T260	SideEff 4373 4379	水钠潴留症状
+T261	SideEff 4421 4423	多毛
+T262	Drug 4604 4607	强的松
+T263	Drug 4644 4647	CHI
+T264	Test_Value 4748 4752	正常水平
+T265	SideEff 4762 4765	低血糖
+T266	Symptom 5375 5376;5377 5392	血 糖状态不符的、过高的胰岛素分泌
+T267	Level 5603 5605	严重
+T268	Symptom 5609 5613	低血糖症
+T269	Level 6623 6625	严重
+T270	Symptom 6625 6626;6627 6629	低 血糖
+T271	SideEff 6990 6994	水钠潴留
+T272	SideEff 7261 7268	胃肠道不良反应
+T273	Disease 7481 7484	CHI
+T274	Level 7477 7480	弥散型
+T275	Symptom 7504 7507	低血糖
+T276	Symptom 7602 7605	低血糖
+T277	SideEff 7815 7820;7821 7823	消化道不良 反应
+T278	SideEff 7876 7879	低血糖
+T279	Level 7514 7517	局灶型
+T280	Level 7812 7814	严重

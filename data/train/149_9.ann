@@ -1,0 +1,345 @@
+T1	Disease 2877 2885	糖尿病视网膜病变
+T2	Disease 6849 6857	糖尿病视网膜病变
+T3	Disease 38 44	2 型糖尿病
+T4	Disease 90 96	2 型糖尿病
+T5	Disease 195 201	2 型糖尿病
+T6	Disease 323 329	2 型糖尿病
+T7	Disease 403 409	2 型糖尿病
+T8	Disease 503 509	2 型糖尿病
+T9	Disease 589 595	2 型糖尿病
+T10	Disease 3077 3083	2 型糖尿病
+T11	Disease 3318 3324	2 型糖尿病
+T12	Disease 3358 3364	2 型糖尿病
+T13	Disease 3494 3500	2 型糖尿病
+T14	Disease 3660 3666	2 型糖尿病
+T15	Disease 4419 4425	2 型糖尿病
+T16	Disease 4446 4452	2 型糖尿病
+T17	Disease 4641 4647	2 型糖尿病
+T18	Disease 4676 4682	2 型糖尿病
+T19	Disease 4918 4921;4922 4925	2 型 糖尿病
+T20	Disease 5484 5490	2 型糖尿病
+T21	Disease 5953 5959	2 型糖尿病
+T22	Disease 6365 6371	2 型糖尿病
+T23	Disease 6658 6664	2 型糖尿病
+T24	Disease 7071 7077	2 型糖尿病
+T25	Disease 7215 7221	2 型糖尿病
+T26	Disease 7259 7265	2 型糖尿病
+T27	Disease 8280 8286	2 型糖尿病
+T28	Disease 8541 8547	2 型糖尿病
+T29	Disease 2871 2876	糖尿病肾病
+T30	Disease 5736 5741	糖尿病肾病
+T31	Disease 6732 6737	糖尿病肾病
+T32	Disease 6805 6810	糖尿病肾病
+T33	Test 170 175	HBA1C
+T34	Test 246 251	HBA1C
+T35	Test 1317 1322	HBA1C
+T36	Test 1498 1503	HBA1C
+T37	Test 3574 3579	HBA1C
+T38	Test 4470 4475	HBA1C
+T39	Test 4703 4708	HBA1C
+T40	Test 5038 5043	HBA1C
+T41	Test 5336 5341	HBA1C
+T42	Test 5848 5853	HBA1C
+T43	Test 8325 8330	HBA1C
+T44	Test 8415 8420	HBA1C
+T45	Test 3613 3618	HDL-C
+T46	Test 4601 4606	HDL-C
+T47	Test 5067 5072	HDL-C
+T48	Test 5365 5370	HDL-C
+T49	Test 6209 6214	HDL-C
+T50	Test 6593 6598	HDL-C
+T51	Test 1685 1690	LDL-C
+T52	Test 2063 2068	LDL-C
+T53	Test 2417 2422	LDL-C
+T54	Test 3631 3636	LDL-C
+T55	Test 4607 4612	LDL-C
+T56	Test 4720 4725	LDL-C
+T57	Test 4958 4963	LDL-C
+T58	Test 5371 5376	LDL-C
+T59	Test 5396 5401	LDL-C
+T60	Test 5432 5437	LDL-C
+T61	Test 6226 6231	LDL-C
+T62	Test 6609 6614	LDL-C
+T63	Test 7364 7369	LDL-C
+T64	Test 7428 7433	LDL-C
+T65	Test 8331 8336	LDL-C
+T66	Test 240 244	空腹血糖
+T67	Test 3569 3573	空腹血糖
+T68	Test 4464 4468	空腹血糖
+T69	Test 5331 5335	空腹血糖
+T70	Test 5832 5836	空腹血糖
+T71	Test 8319 8323	空腹血糖
+T72	Test 276 285	高密度脂蛋白胆固醇
+T73	Test 3603 3612	高密度脂蛋白胆固醇
+T74	Test 6599 6608	高密度脂蛋白胆固醇
+T75	Test 286 295	低密度脂蛋白胆固醇
+T76	Test 449 458	低密度脂蛋白胆固醇
+T77	Test 615 617;618 625	低密 度脂蛋白胆固醇
+T78	Test 3620 3629	低密度脂蛋白胆固醇
+T79	Test 6615 6624	低密度脂蛋白胆固醇
+T80	Test 254 259	谷丙转氨酶
+T81	Test 3580 3585	谷丙转氨酶
+T82	Test 4578 4583	谷丙转氨酶
+T83	Test 5044 5049	谷丙转氨酶
+T84	Test 5342 5343;5344 5348	谷 丙转氨酶
+T85	Test 6150 6155	谷丙转氨酶
+T86	Test 260 265	谷草转氨酶
+T87	Test 3586 3591	谷草转氨酶
+T88	Test 4584 4589	谷草转氨酶
+T89	Test 5050 5055	谷草转氨酶
+T90	Test 5349 5354	谷草转氨酶
+T91	Test 6163 6168	谷草转氨酶
+T92	Test 266 270	总胆固醇
+T93	Test 3592 3596	总胆固醇
+T94	Test 4590 4594	总胆固醇
+T95	Test 5056 5060	总胆固醇
+T96	Test 5355 5359	总胆固醇
+T97	Test 6177 6181	总胆固醇
+T98	Test 165 169	体重指数
+T99	Test 235 239	体重指数
+T100	Test 3487 3488;3489 3492	体 重指数
+T101	Test 4459 4463	体重指数
+T102	Test 4715 4719	体重指数
+T103	Test 5027 5031	体重指数
+T104	Test 5326 5330	体重指数
+T105	Test 5817 5821	体重指数
+T106	Test 7474 7478	体重指数
+T107	Test 8314 8318	体重指数
+T108	Test 232 234	腰围
+T109	Test 459 461	腰围
+T110	Test 626 628	腰围
+T111	Test 3460 3462	腰围
+T112	Test 4456 4458	腰围
+T113	Test 4712 4714	腰围
+T114	Test 4964 4966	腰围
+T115	Test 5323 5325	腰围
+T116	Test 5809 5811	腰围
+T117	Test 7370 7372	腰围
+T118	Test 8311 8313	腰围
+T119	Test 8571 8573	腰围
+T120	Test 3280 3289	口服葡萄糖耐量试验
+T121	Disease 5742 5748	动脉粥样硬化
+T122	Anatomy 5527 5531	活性氧簇
+T123	Anatomy 7114 7118	活性氧簇
+T124	Anatomy 5678 5682	脂肪细胞
+T125	Anatomy 7583 7587	脂肪细胞
+T126	Test 271 275	甘油三酯
+T127	Test 3597 3598;3599 3602	甘 油三酯
+T128	Test 4595 4597;4598 4600	甘油 三酯
+T129	Test 5061 5065	甘油三酯
+T130	Test 5360 5364	甘油三酯
+T131	Test 6193 6197	甘油三酯
+T132	Test 3453 3455	身高
+T133	Test 229 231	体重
+T134	Test 3457 3459	体重
+T135	Test 4453 4455	体重
+T136	Test 4709 4711	体重
+T137	Test 5024 5026	体重
+T138	Test 5320 5322	体重
+T139	Test 5801 5803	体重
+T140	Test 8308 8310	体重
+T141	Test 8391 8393	体重
+T142	Drug 19 30	二肽基肽酶-4 抑制剂
+T143	Drug 120 131	二肽基肽酶-4 抑制剂
+T144	Drug 706 717	二肽基肽酶-4 抑制剂
+T145	Drug 7957 7966	GLP-1 类似物
+T146	Drug 8073 8082	GLP-1 类似物
+T147	Anatomy 7616 7624	胰升糖素样肽 1
+T148	Anatomy 5577 5583	血管内皮细胞
+T149	Anatomy 5666 5672	血管内皮细胞
+T150	Anatomy 7625 7630	GLP-1
+T151	Anatomy 7701 7706	GLP-1
+T152	Anatomy 7770 7775	GLP-1
+T153	Anatomy 8480 8485	GLP-1
+T154	Disease 2832 2835;2836 2838	心血管 疾病
+T155	Drug 30 34	利格列汀
+T156	Drug 132 136	利格列汀
+T157	Drug 333 337	利格列汀
+T158	Drug 490 494	利格列汀
+T159	Drug 632 636	利格列汀
+T160	Drug 654 658	利格列汀
+T161	Drug 3674 3678	利格列汀
+T162	Drug 4684 4688	利格列汀
+T163	Drug 7820 7824	利格列汀
+T164	Drug 8290 8293;8294 8295	利格列 汀
+T165	Drug 8377 8381	利格列汀
+T166	Drug 8473 8477	利格列汀
+T167	Drug 8584 8588	利格列汀
+T168	Drug 8640 8644	利格列汀
+T169	Test 4697 4700;4701 4702	空腹血 糖
+T170	Test 5032 5035;5036 5037	空腹血 糖
+T171	Test 2820 2822	血糖
+T172	Test 8388 8390	血糖
+T173	Test 8421 8423	血糖
+T174	Test 8433 8434;8435 8436	血 糖
+T175	Test 8592 8594	血糖
+T176	Test 8648 8650	血糖
+T177	Test 7479 7480;7481 7482	腰 围
+T178	Test 98 108	血清色素上皮衍生因子
+T179	Test 109 113	PEDF
+T180	Test 141 145	PEDF
+T181	Test 156 160	PEDF
+T182	Test 162 164	血脂
+T183	Amount 338 346	5 mg / d
+T184	Duration 350 354	6 个月
+T185	Duration 355 358;359 360	6 个 月
+T186	Test 413 417	PEDF
+T187	Duration 497 501	6 个月
+T188	Disease 661 668;669 670	糖尿病血管并发 症
+T189	Disease 2763 2766	糖尿病
+T190	Disease 2795 2798	糖尿病
+T191	Anatomy 2857 2861	血管内皮
+T192	Disease 2886 2889	心肌病
+T193	Disease 2911 2914	糖尿病
+T194	Disease 2918 2921;2922 2924	微血管 疾病
+T195	Anatomy 2963 2971	色素上皮衍生因子
+T196	Anatomy 3008 3012	PEDF
+T197	Anatomy 3143 3147	PEDF
+T198	Disease 3149 3152	糖尿病
+T199	Drug 3167 3176	DDP-4 抑制剂
+T200	Disease 3178 3186	糖尿病血管并发症
+T201	Disease 3306 3308;3309 3310	糖尿 病
+T202	Disease 3405 3408	高血压
+T203	Anatomy 3463 3467	髂前上棘
+T204	Anatomy 3468 3476	第 12 肋下缘
+T205	Method 3672 3674	口服
+T206	Amount 3679 3683	5 mg
+T207	Frequency 3713 3720	1 日 1 次
+T208	Duration 3724 3728	6 个月
+T209	Method 3709 3710;3711 3712	晨 服
+T210	Anatomy 4243 4245	肝脏
+T211	SideEff 4246 4250	肾脏损伤
+T212	SideEff 4251 4253;4254 4256	过敏 反应
+T213	SideEff 4257 4260	低血糖
+T214	Test 313 317	PEDF
+T215	Method 331 333	口服
+T216	Test 368 372	PEDF
+T217	Test 443 447	PEDF
+T218	Test 513 517	PEDF
+T219	Test 600 604	PEDF
+T220	Test 642 646	PEDF
+T221	Anatomy 3070 3074	PEDF
+T222	Anatomy 3123 3127	PEDF
+T223	Test 3745 3749	PEDF
+T224	Test_Value 4207 4224	6. 0 ~ 160 μg / L
+T225	Test 46 48;49 61	血清 色素上皮细胞衍生因子水平
+T226	Test_Value 649 651	上升
+T227	Reason 2939 2945	慢性炎症反应
+T228	Anatomy 3014 3026	丝氨酸蛋白酶抑制剂超家族
+T229	Anatomy 3041 3043	血管
+T230	Test 3267 3277	口服葡萄糖 75 g
+T231	Anatomy 3524 3527	静脉血
+T232	Duration 3508 3512	6 个月
+T233	Duration 4691 4695	6 个月
+T234	Test 4818 4822	PEDF
+T235	Symptom 5494 5500	慢性炎症反应
+T236	Symptom 5501 5505;5506 5508	氧化应激 水平
+T237	Anatomy 5523 5527	内皮细胞
+T238	Anatomy 5537 5545	血管内皮生长因子
+T239	Anatomy 5556 5562	细胞生长因子
+T240	Anatomy 5546 5550	VEGF
+T241	Reason 5594 5598	血管收缩
+T242	Reason 5599 5604	通透性增加
+T243	Reason 5605 5609	血栓形成
+T244	Disease 5613 5620;5621 5627	糖尿病微血管和 大血管并发症
+T245	Anatomy 5633 5637	PEDF
+T246	Anatomy 5673 5677	炎性细胞
+T247	Test 5715 5723	肿瘤坏死因子-β
+T248	Test 5725 5732	VEGF 水平
+T249	Disease 5749 5755	冠状动脉疾病
+T250	Drug 6716 6721	链脲佐菌素
+T251	Disease 6721 6724	糖尿病
+T252	Anatomy 6799 6803	PEDF
+T253	Test 6749 6753	PEDF
+T254	Anatomy 6776 6780	PEDF
+T255	Anatomy 6739 6742	肾小球
+T256	Anatomy 6785 6787	肾脏
+T257	Anatomy 6864 6868	VEGF
+T258	Anatomy 6872 6876	内皮细胞
+T259	Anatomy 6884 6888	PEDF
+T260	Anatomy 6901 6903	血管
+T261	Anatomy 6909 6913	新生血管
+T262	Disease 6947 6951;6952 6956	糖尿病血 管并发症
+T263	Test 6986 6990	PEDF
+T264	Test 6993 7000;7001 7002	C 反应蛋白水 平
+T265	Test 7013 7016	尿蛋白
+T266	Test_Value 7016 7018	增加
+T267	Test_Value 7019 7021	升高
+T268	Test 7022 7028	C 反应蛋白
+T269	Test 7030 7034	PEDF
+T270	Reason 7048 7054	C 反应蛋白
+T271	Reason 7055 7061	肿瘤坏死因子
+T272	Anatomy 7104 7108	PEDF
+T273	Anatomy 7150 7154	PEDF
+T274	Anatomy 7124 7131	白细胞介素 6
+T275	Anatomy 7137 7143	C 反应蛋白
+T276	Anatomy 7171 7177	C 反应蛋白
+T277	Test 7273 7279	炎症因子水平
+T278	Test_Value 7282 7286	显著升高
+T279	Disease 7468 7470	肥胖
+T280	Test 7483 7489	腹内脂肪厚度
+T281	Anatomy 7498 7505	PEDF 受体
+T282	Anatomy 7592 7594	脂肪
+T283	Anatomy 7635 7642	肠道内分泌细胞
+T284	Anatomy 7664 7667	胰岛素
+T285	Anatomy 7646 7650	肠促胰素
+T286	Anatomy 7678 7681	胰岛素
+T287	Anatomy 7721 7726	DPP-4
+T288	Drug 7738 7746;7747 7748	DPP-4 抑制 剂
+T289	Anatomy 7754 7759	DPP-4
+T290	Drug 7811 7820	DPP-4 抑制剂
+T291	Test 7834 7842	白细胞介素-1β
+T292	Test 7843 7849	C 反应蛋白
+T293	Test 7862 7866;7867 7868	环氧化酶 1
+T294	Test 7869 7879	血管细胞黏附分子 1
+T295	Test 7881 7887	一氧化氮合酶
+T296	Anatomy 7910 7914	血管内皮
+T297	Test 7981 7987;7988 7996	过氧化物酶增 殖物激活受体 α
+T298	Test 7997 8003	PPAR-α
+T299	Disease 7946 7952	糖尿病心肌病
+T300	Amount 7975 7978	大剂量
+T301	Amount 8029 8030;8031 8033	小 剂量
+T302	Disease 8059 8065	糖尿病心肌病
+T303	Test 8089 8095	PPAR-α
+T304	Anatomy 8140 8146	肾脏系膜细胞
+T305	Test 8147 8156	PEDF mRNA
+T306	Amount 8167 8179	500 μmol / L
+T307	Drug 8230 8240	PPAR-α 激动剂
+T308	Drug 8180 8190	PPAR-α 激动剂
+T309	Test 8194 8203	PEDF mRNA
+T310	Test 8250 8256;8257 8258	PEDF 水 平
+T311	Test_Value 8259 8261	下降
+T312	Duration 8298 8302	6 个月
+T313	Test_Value 8337 8341	明显降低
+T314	Test 8395 8397	血脂
+T315	Test_Value 8386 8388	降低
+T316	Anatomy 8490 8495	PAR-α
+T317	Test 8574 8576	血脂
+T318	Test 8595 8597	血脂
+T319	Symptom 8618 8620;8621 8625	血脂 代谢紊乱
+T320	Test 8652 8654	血脂
+T321	Test 8627 8634	PEDF 水平
+T322	Test 8655 8664	PEDF 表达水平
+T323	Test_Value 8665 8667	增高
+T324	Anatomy 8670 8674	血管内皮
+T325	Drug 8689 8698	DPP-4 抑制剂
+T326	Drug 8735 8744	DPP-4 抑制剂
+T327	Disease 8745 8746;8747 8751	血 管并发症
+T328	Disease 8762 8774;8775 8776	糖尿病微血管、大血管并发 症
+T329	Disease 6975 6983	2 型糖尿病肾病
+T330	Anatomy 7655 7662	胰岛 β 细胞
+T331	Anatomy 2947 2948;2949 2952	活 性氧簇
+T332	Test 7786 7791	GLP-1
+T333	Disease 2787 2792	心血管疾病
+T334	Reason 5518 5521	高血糖
+T335	Disease 2774 2776;2777 2778	糖尿 病
+T336	Disease 2781 2786	血管并发症
+T337	Disease 2824 2828	血栓形成
+T338	Symptom 2933 2936	高血糖
+T339	Anatomy 3098 3105	二肽基肽酶-4
+T340	Anatomy 3107 3112	DPP-4
+T341	Disease 3395 3404	糖尿病急慢性并发症
+T342	Level 3409 3411	严重
+T343	Disease 3411 3413;3414 3415	心脏 病
+T344	Anatomy 3416 3418	肝脏
+T345	Disease 3419 3423	肾脏疾病

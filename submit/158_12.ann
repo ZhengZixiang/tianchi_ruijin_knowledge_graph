@@ -1,0 +1,180 @@
+T1	Anatomy 126 130	心肌细胞
+T2	Anatomy 182 191	成纤维细胞生长因子
+T3	Anatomy 253 257	心肌细胞
+T4	Anatomy 283 287	心肌细胞
+T5	Anatomy 290 292;293 295	心肌 细胞
+T6	Test 296 304	肥厚因子I型胶原
+T7	Anatomy 317 325	结缔组织生长因子
+T8	Test 365 368;369 375	转化生 长因子 β1
+T9	Anatomy 406 411	TGF-β
+T10	Anatomy 416 420	Fn14
+T11	Anatomy 430 435	siRNA
+T12	Anatomy 443 447	Fn14
+T13	Anatomy 455 459	心肌细胞
+T14	Anatomy 460 464	I型胶原
+T15	Anatomy 465 469	CTGF
+T16	Anatomy 470 476	TGF-β1
+T17	Anatomy 499 503	I型胶原
+T18	Anatomy 510 519	TGF-β1 蛋白
+T19	Anatomy 527 531	心肌细胞
+T20	Anatomy 547 554	Fn14 蛋白
+T21	Anatomy 559 563	心肌细胞
+T22	Anatomy 601 605	心肌细胞
+T23	Anatomy 613 617	I型胶原
+T24	Anatomy 618 622	CTGF
+T25	Anatomy 624 630	TGF-β1
+T26	Anatomy 641 647	siFn14
+T27	Anatomy 658 663	p-JNK
+T28	Anatomy 678 682	心肌细胞
+T29	Anatomy 684 692	肥厚因子I型胶原
+T30	Anatomy 693 697	CTGF
+T31	Anatomy 698 704	TGF-β1
+T32	Anatomy 708 712	Fn14
+T33	Anatomy 722 726	Fn14
+T34	Anatomy 747 750	JNK
+T35	Test 777 780	JNK
+T36	Anatomy 1339 1343	CTGF
+T37	Anatomy 1378 1383	TGF-β
+T38	Anatomy 1566 1571	TGF-β
+T39	Anatomy 1672 1677	TGF-β
+T40	Anatomy 1994 1999	TGF-β
+T41	Anatomy 2139 2144	TGF-β
+T42	Disease 2497 2502	心血管疾病
+T43	Disease 2503 2506	糖尿病
+T44	Disease 2511 2513	死亡
+T45	Disease 2540 2546	糖尿病心肌病
+T46	Disease 2572 2575;2576 2580	糖尿病 心脏病变
+T47	Disease 2585 2592	糖尿病心脏病变
+T48	Disease 2593 2596	糖尿病
+T49	Disease 2599 2600;2601 2604	代 谢异常
+T50	Disease 2614 2618	心肌肥厚
+T51	Symptom 2625 2627;2628 2630	心肌 肥厚
+T52	Anatomy 2632 2634	心脏
+T53	Anatomy 2645 2647	心肌
+T54	Disease 2693 2697	心脏重塑
+T55	Disease 2698 2701;2702 2703	心肌肥 厚
+T56	Anatomy 2705 2714	成纤维细胞生长因子
+T57	Anatomy 2812 2816	Fn14
+T58	Disease 2831 2834	高血压
+T59	Disease 2836 2840	心室重塑
+T60	Anatomy 2900 2902	心肌
+T61	Disease 2922 2927	右心室肥厚
+T62	Anatomy 2991 2995	心肌细胞
+T63	Anatomy 2998 3002	心肌细胞
+T64	Anatomy 3034 3038	心肌细胞
+T65	Anatomy 3058 3062	心肌细胞
+T66	Anatomy 3086 3088	心脏
+T67	Anatomy 3092 3094	心脏
+T68	Anatomy 3128 3130	心脏
+T69	Disease 3230 3237	心肌块不卡吸管
+T70	Anatomy 3346 3350	心肌细胞
+T71	Anatomy 3451 3455	心肌细胞
+T72	Anatomy 3577 3582	siRNA
+T73	Anatomy 3588 3593	siRNA
+T74	Anatomy 3637 3642	siRNA
+T75	Anatomy 3709 3714	siRNA
+T76	Test_Value 3804 3815	50 nmol / L
+T77	Duration 3820 3824	24 h
+T78	Test 3863 3868;3869 3872	心肌细胞玉 型胶原
+T79	Anatomy 3873 3877	CTGF
+T80	Anatomy 3878 3884	TGF-β1
+T81	Test 3885 3892	β-actin
+T82	Test 3893 3898	p-JNK
+T83	Anatomy 4316 4320	心肌细胞
+T84	Test_Value 4357 4368	30 mmol / L
+T85	Anatomy 4371 4375	心肌细胞
+T86	Anatomy 4400 4404	CTGF
+T87	Anatomy 4407 4413	TGF-β1
+T88	Anatomy 4465 4469	心肌细胞
+T89	Anatomy 4637 4641	心肌细胞
+T90	Anatomy 4758 4762	心肌细胞
+T91	Anatomy 4806 4811	siRNA
+T92	Anatomy 4832 4840	心肌细胞肥厚因子
+T93	Test 4946 4951;4952 4959	心肌细胞肥 厚因子I型胶原
+T94	Anatomy 4960 4964	CTGF
+T95	Anatomy 4967 4973	TGF-β1
+T96	Test_Value 4975 4977	下降
+T97	Anatomy 4996 5001	siRNA
+T98	Anatomy 5022 5027	p-JNK
+T99	Anatomy 5135 5138;5139 5140	心肌细 胞
+T100	Test 5142 5147	p-JNK
+T101	Test_Value 5151 5153	下降
+T102	Anatomy 5240 5246	心肌肥厚因子
+T103	Disease 5370 5373	糖尿病
+T104	Disease 5377 5382	心血管疾病
+T105	Reason 5386 5390;5391 5392	长期高血 糖
+T106	Disease 5398 5401	糖尿病
+T107	Disease 5404 5408	心脏病变
+T108	Disease 5413 5415;5416 5418	心脏 重塑
+T109	Symptom 5419 5423	心肌肥厚
+T110	Disease 5426 5432	糖尿病心肌病
+T111	Anatomy 5451 5455	心肌细胞
+T112	Symptom 5458 5462	心肌肥厚
+T113	Anatomy 5465 5468;5469 5471	细胞外 基质
+T114	Anatomy 5503 5507	I型胶原
+T115	Anatomy 5514 5520	TGF-β1
+T116	Disease 5539 5545	糖尿病心肌病
+T117	Disease 5548 5552	心肌肥厚
+T118	Anatomy 5565 5569	心肌细胞
+T119	Disease 5581 5587	坏死区纤维化
+T120	Disease 5588 5595	心肌间质纤维化
+T121	Disease 5603 5604;5605 5607	糖 尿病
+T122	Disease 5609 5613	心肌肥厚
+T123	Anatomy 5649 5653	心肌细胞
+T124	Anatomy 5660 5664	心肌细胞
+T125	Anatomy 5665 5673	肥厚因子I型胶原
+T126	Anatomy 5674 5678	CTGF
+T127	Anatomy 5679 5685	TGF-β1
+T128	Disease 5732 5736	心脏重塑
+T129	Anatomy 5749 5753	Fn14
+T130	Anatomy 5798 5803	成纤维细胞
+T131	Anatomy 5809 5816	I 型跨膜蛋白
+T132	Anatomy 5832 5834	心脏
+T133	Anatomy 5835 5837	肾脏
+T134	Anatomy 5852 5870	TNF 受体相关因子结构域的受体蛋白
+T135	Anatomy 5914 5918	Fn14
+T136	Anatomy 5963 5970	Fn14 蛋白
+T137	Anatomy 5971 5973	心脏
+T138	Disease 5999 6005	自发性高血压
+T139	Anatomy 6013 6017	Fn14
+T140	Disease 6049 6054	心肌纤维化
+T141	Drug 6055 6059	培哚普利
+T142	Test 6063 6067	Fn14
+T143	Anatomy 6068 6074	TGF-β1
+T144	Anatomy 6132 6135	JNK
+T145	Disease 6224 6229	心肌纤维化
+T146	Disease 6232 6236	心脏重塑
+T147	Test_Value 6282 6286	明显减低
+T148	Test 6290 6294	Fn14
+T149	Disease 6296 6300	心肌肥厚
+T150	Anatomy 6301 6305	心肌细胞
+T151	Anatomy 6328 6332	心肌细胞
+T152	Test 6342 6346	Fn14
+T153	Anatomy 6347 6351	I型胶原
+T154	Anatomy 6352 6356	CTGF
+T155	Anatomy 6357 6363	TGF-β1
+T156	Anatomy 6377 6379	心脏
+T157	Anatomy 6396 6400	Fn14
+T158	Test 6405 6408	JNK
+T159	Anatomy 6418 6423	NF-κB
+T160	Anatomy 6459 6463	Fn14
+T161	Anatomy 6474 6478	心肌细胞
+T162	Test 6512 6516	MAPK
+T163	Anatomy 6537 6538;6539 6540	心 肌
+T164	Anatomy 6578 6585	心肌纤维母细胞
+T165	Test 6598 6602	MAPK
+T166	Anatomy 6605 6610	NF-κB
+T167	Anatomy 6616 6620	MAPK
+T168	Anatomy 6626 6628	心肌
+T169	Disease 6633 6637	心脏重塑
+T170	Anatomy 6656 6660	心肌细胞
+T171	Anatomy 6664 6672	JNK 信号通路
+T172	Anatomy 6676 6683	Fn14 蛋白
+T173	Anatomy 6730 6733;6734 6735	心肌细 胞
+T174	Anatomy 6736 6744	肥厚因子I型胶原
+T175	Anatomy 6745 6749	CTGF
+T176	Anatomy 6750 6756	TGF-β1
+T177	Anatomy 6760 6764	Fn14
+T178	Anatomy 6775 6779	Fn14
+T179	Anatomy 6800 6808	JNK 信号通路
+T180	Disease 6822 6828	糖尿病心肌病

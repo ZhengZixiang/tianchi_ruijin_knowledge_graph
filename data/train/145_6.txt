@@ -1,0 +1,233 @@
+甲状旁腺激素相关疾病
+甲状旁腺功能减退-感音神经性耳聋-肾发育
+不良综合征与 GATA3 基因突变分析
+周宇清  黄淑玲  麦敏  侯淑芳  钟钻仪
+[摘要]   目的  分析 1 例甲状旁腺功能减退-感音神经性耳聋-肾发育不良(HDR) 综合征患者的临床
+特点并对相关 GATA3 基因突变进行分析。 方法 报告 1 例 22 岁 HDR 综合征患者的临床表现、诊治经过
+及基因检测结果并复习相关文献。 结果 患者临床表现为发作性抽搐、听力下降,查体有面神经征及陶瑟
+征阳性。 多次查血钙、甲状旁腺激素均低于正常,纯音听阈测定显示感音性神经性耳聋,腹部彩超提示右
+肾未探及,考虑右肾缺如,肾功能检查提示肾功能不全。 GATA3 基因检测提示第六外显子 IVS6-1G-A (G /
+A 杂合,splicing),显示在第 6 外显子上游第一个碱基处有 G 到 A 的突变。 入院后予补充钙剂及活性维生
+素 D 治疗,病情好转。 结论 HDR 综合征是罕见的内分泌疾病,应提高对本病的认识,避免漏诊;本病例的
+GATA3 基因突变类型 IVS6-1G-A 至今尚未见报道,为新发现的基因突变位点。
+[关键词]   甲状旁腺功能减退-感音神经性耳聋-肾发育不良综合征; 诊断; GATA 基因
+Hypoparathyroidism-sensorineural deafness-renal dysplasia syndrome and mutation anaiysis of GATA3 gene
+Zhou Yuqing, Huang Shuling, Mai Min, Hou Shufang, Zhong Zuanyi. Department of Endocrinology, Dongguan
+Hospital of Traditional Medicinie, Dongguan 523003, China
+[Abstract]   Objective   To explore the clinical manifestation of a patient with hypoparathyroidism-
+sensorineural deafness-renal dysplasia (HDR) syndrome and to sequence the related GATA3 gene of the patient.
+Methods A 22 year old person with HDR syndrome was reported in regard to clinical manifestation, laboratory
+examination, and genetic mutation. Some related literatures were reviewed. Results The patient showed tetany,
+deafness, and positive Chvosteks忆 and Trousseau忆 s signs. The initial laboratory studies showed that serum
+concentration of calcium was lowed and the iPTH level were lower than normal. Binaural pure tone audiometry showed
+Binaural sensorineural deafness. Colour doppler ultrasound revealed that his right kidney was not observed and the
+level of creatinine was increased, indicating renal insufficiency. GATA3 mutations on DNA sequence analysis
+indicated that the 6 exon IVS6-1G-A(G / A heterozygosis splicing), showed the mutation of G to A is in the upstream
+of the first base in the six exon. After treating with calcium carbonate and vitamin D, the symptoms and signs were
+improved. Conclusion HDR syndrome is a rare endocrine disease, that should receive more attention in order to
+avoid missing diagnosis; The IVS6-1G-A as a novel mutation of GATA3 gene, has not been reported so far.
+[Key words]  Hypoparathyroidism-sensorineural deafness-renaldysplasia syndrome; Diagnosis; GATA3 gene
+(Chin J Endocrinol Metab, 2015, 31: 311-315)
+甲状旁腺功能减退-感音神经性耳聋-肾发育不良
+(hypoparathyroidism-sensorineural deafness-renal dysplasia,
+HDR)综合征是十分罕见的内分泌系统疾病,本病发
+病率极低,临床以低钙引起的手足搐搦、耳聋和肾发育
+不良为主要表现,是常染色体显性遗传[1]。 其发病与
+位于染色体 10P15 的 GATA3 基因突变有关。 GATA3
+编码属于 GATA 转录因子家族锌指蛋白,这种蛋白质
+参与脊椎动物甲状旁腺、听觉系统,以及肾脏的胚胎发
+育。 国外文献曾有数例 HDR 病例报道,国内近年仅报
+道 1 例[2]。 本院于 2013 年 11 月收治 1 例此症患者,
+并对患者外周血行 GATA3 基因检测,提示 GATA3 基
+因第六外显子存在 IVS6-1G-A 突变,该突变位点属剪
+接位点突变,至今国内外尚未有报道。
+临床资料
+患者男性,22 岁,因“发作性抽搐 20 年,再发 4
+天冶入院。 患者 2 岁始有发作性抽搐,多于发热时发
+作,无发热时也有发作,发作时可见四肢、面部痉挛抽
+搐,发作时间持续为 10 s 至 1 min 不等,可自行好转,
+发作时无口吐白沫,发作间期无特殊不适,每年发作
+5 ~ 10 次。 曾在外院诊断为“高热惊厥冶。 入院 4 天前
+无明显诱因下出现发作性口角、四肢痉挛、抽搐,发作
+时伴精神淡漠,呼之不对答,每次持续约 10 ~ 15 s,每
+天发作 10 余次,发作间期有轻微手足麻木感,无伴发
+热恶寒。 遂入院。 既往史:“先天性右肾缺如冶病史;
+从小听力差,2007 年 9 月中山大学附属第一医院诊断
+为“神经性耳聋冶。
+家族史:父母为非近亲结婚,其父亲有“听力下
+降冶病史(具体不详),因“发热冶于 10 余年前去世,母
+亲正常,无兄弟姐妹。 父亲有 1 兄 1 姐 1 弟,兄育有 1
+子,姐育有 3 女,弟育有 2 子,均无上述症状。 父逝后
+母再婚,婚后育有 1 女,也无上述症状。
+体格检查:体温 36. 8℃,心率 83 次 / min,呼吸 22
+次 / min,血压 130 / 80 mmHg(1 mmHg=0. 133 kPa)。 神
+志清楚,发育正常,无特殊面容,步行入病房,查体合
+作,对答切题,头颅无畸形,毛发正常,牙釉质可见黄
+点、横纹,面神经叩击征(+),束臂加压试验( +),双侧
+甲状腺未扪及肿大,心肺腹查体无异常,四肢肌张力正
+常,肌力吁级。 生理反射存在,无病理反射征。
+实验室检查:血常规、大便常规正常;肝功能、甲状
+腺功能、血脂正常;铜蓝蛋白未见异常;小便常规:尿蛋
+白:莘,余(-);肾功能:尿素氮 14. 6 mmol / L(正常范围
+1. 8 ~ 8. 2 mmol / L,下同),肌酐 315 mmol / L(59 ~ 104
+mmol / L);全段甲状旁腺激素 ( iPTH) 0. 71 pmol / L
+(1. 3 ~ 6. 8 pmol / L) [同步血钙为 1. 35 mmol / L(2 ~
+2. 67 mmol / L )], 血磷 2. 91 mmol / L ( 0. 8 ~ 1. 45
+mmol / L),碱性磷酸酶 112 IU / L(30 ~ 180 IU / L),24 h
+尿钙 0. 86 mmol / 24 h( <8. 75 mmol / 24 h),24 h 尿磷
+21. 3 mmol / 24 h(22 ~ 44 mmol / 24 h)。
+特殊检查:视频脑电图示:背景脑电正常,睡眠周
+期正常;未见典型癫痫放电;骨密度:L1 ~ L4 局部腰椎
+骨密度测量值正常;头颅 CT 提示两侧基底节区、额叶
+及右侧丘脑、顶叶异常钙化灶(图 1);彩超示:右肾未
+探及,考虑右肾缺如,甲状旁腺区未见异常;染色体 G
+带分析未见异常。
+图 1  头部 CT 可见多发钙化灶
+Fig 1  Head CT shows multiple calcification
+五官科会诊意见:患者幼年起发现双耳听力欠佳,
+右耳为甚。 查体:双耳鼓膜无出血或穿孔。 音叉试验:
+双耳气骨导延长,右耳为甚。 纯音听阈测定:听力约
+60 ~ 70 dB,考虑双耳感音神经性耳聋(图 2)。
+治疗:入院后予以罗盖全 0. 25 μg bid,钙尔奇 D
+600 mg bid,患者发作性抽搐好转,血钙正常。
+取患者外周血提取染色体 DNA,送北京华大基因
+公司进行双向测序,结果用 DNAStar6. 1 软件与标准序
+列进行比对,确定突变性质。
+临床诊断:此例患者临床发作性抽搐、听力下降,
+查体有面神经征及陶瑟征阳性。 多次查血钙、iPTH 均
+低于正常,头颅 CT 提示多发性钙化,提示有原发性甲
+状旁腺功能减退;电测听显示感音性神经性耳聋;此外
+有先天性独肾、肾功能不全、蛋白尿等临床表现,HDR
+综合征诊断明确。
+注:实线表示气导,虚线表示骨导,该双耳患者气导骨导均下降,提示双耳感音神经性耳聋 The full line shows airconduction, the dotted line shows
+bone conduction, the ears of the patient decreased in airconduction and bone conduction, suggested binaural sensorineural deafness
+图 2  双耳纯音测听结果
+Fig 2  Binaural pure tone audiometry
+注:在第 6 外显子上游第一个碱基处有 G 到 A 的突变 The mutation of G to A is in the upstream of the first base in the exon No. 6
+图 3  GATA3 基因测序图
+Fig 3  GATA3 gene sequencing map
+基因序列分析结果:GATA3 基因检测提示第六外
+显子 IVS6-1G-A(G / A 杂合,splicing),显示在第 6 外显
+子上游第一个碱基处有 G 到 A 的突变(图 3)。
+讨    论
+HDR 综合征又称 Barakat 综合征,是罕见的内分
+泌系统疾病,发病率极低,目前国内外文献基本为个案
+病例报道,而国内关于此病的报道极少,临床医师可能
+对其认识不足。 该病临床表现有原发性甲状旁腺功能
+减退、听力障碍和肾发育不良,此例患者临床有原发性
+甲状旁腺功能减退、先天性独肾、肾功能不全、蛋白尿、
+先天性感音性神经性耳聋,HDR 综合征诊断明确。
+Barakat 等[3]最早于 1977 年报道了 HDR 综合征,
+它的临床表现有甲状旁腺功能减退症、听力障碍和肾
+功能异常等。 感觉神经性耳聋是最常见的临床特点,
+常在出生时出现双侧听力下降,也可是双耳轻重不等
+的损害。 患者临床有耳蜗形态进行性退化,开始为外
+顶部毛细胞,并最终影响到整个耳蜗所有毛细胞及支
+持细胞,这将导致进行性感觉性听力损失,外耳及中
+耳、脑干、大脑皮层的形态或生理异常也已经得到证
+实。 甲状旁腺功能减退症也是 HDR 综合征常见的临
+床表现,发生在超过 90% 的患者。 患者可无症状,也
+可有神经肌肉兴奋性升高,手足搐搦症,低血钙心肌病
+和癫痫发作等临床症状。 iPTH 水平往往很低或者相
+对于低钙血症的程度不适当的正常。 反应出了甲状旁
+腺功能的减退。 肾脏受累情况在 HDR 综合征中表现
+的最为复杂。 多种肾脏结构和功能异常已经被描述,
+包括发育不全、发育不良、囊性肾脏、膀胱输尿管回流、
+肾病综合征、肾盂异常、血尿、蛋白尿,以及近端和远端
+肾小管性酸中毒和肾钙质沉着[1,4-7]。 大于 90% 的
+HDR 综合征患者有并发甲状旁腺功能低下,耳聋和超
+过 80% 有肾尿路异常[8]。 近年来,HDR 综合征的其
+他临床表现被报道,包括幽门狭窄、多囊性卵巢、苗勒
+管畸形、 先天性心脏缺陷、 反复脑梗塞和半侧巨
+脑[6-11]。 几种内分泌病也有报道,其中包括高促性腺
+激素性性腺功能减退、糖尿病、低镁血症和自身免疫性
+甲状腺炎[10-14]。
+无数的研究已经确立 GATA3 基因与 HDR 综合征
+明显相关[1,8,15-17]。 GATA3 属于在进化上保守的转录
+因子 GATA 家族。 它们因通过 DNA 锌指结合结构域
+结合到 DNA 序列 5'-( A / T) GATA ( A / G)-3' 而得
+名[18]。 目前脊椎动物的 6 种 GATA 因子(GATA1 ~6)
+已经确定,并在不同的组织表达[19]。 GATA3 基因编
+码属于 GATA 转录因子家族锌指蛋白,GATA3 基因的
+单倍剂量不足或突变可能是 HDR 综合征的潜在病
+因[3]。 GATA3 表达可在怀孕的第四周的人类胚胎多
+种组织中开始被检测到。 GATA3 的表达被认为是甲
+状旁腺、内耳、肾脏以及胸腺和中枢神经系统的发育起
+重要作用,GATA3 也已显示出在 T 细胞发育中起重要
+作用[19]。 然而,迄今为止,没有 GATA3 单倍剂量不足
+与免疫缺乏症的相关报道,这可能表明 GATA3 的一个
+副本大概是足以支持细胞免疫功能。 GATA3 也在脊
+椎动物神经系统的发育中起重要作用。 该基因参与了
+视顶盖、延髓、脑桥和血清素神经元及尾端缝核核团发
+展的调控[20]。 此外,GATA3 的缺失已被证明影响前
+庭听觉传出神经元的分化,解释与 GATA3 基因突变相
+关的神经性听力损失[20,21]。 GATA3 基因有 6 个外显
+子,编码含 2 个转录激活结构和 2 个锌指结构域的含
+444 个氨基酸的转录因子[22,23]。 Ali 等[15] 基于 HDR
+综合征的表型研究将 GATA3 突变分为 3 类:(1)第一
+类突变导致 DNA 结合部位的,主要是由于锌指蛋白 2
+异常。 此类突变占 GTAT3 突变的 90% 以上突变,并
+涉及锌指蛋白羧基末端的缺失。 (2)第二类是由 DNA
+结合位点亲和力的下降,主要是由于锌指蛋白 1 功能
+异常。 (3)第三类突变未改变 DNA 的结合位点或亲
+和力,但可能导致在结合过程中的 DNA 双螺旋大沟的
+构象变化,最终降低与其他蛋白质的结合力[19]。 van
+Beelen 等[24] 最新报道了 HDR 综合征的一个荷兰家
+系,3 代 5 例患者,均有先天性、非进行性、双侧听力障
+碍,均从小即开始使用助听器,均有甲状旁腺功能减
+退,第 1 代先证者有右肾囊肿,第 2 代 2 例患者单侧小
+肾脏;第 3 代 2 例患者存在膀胱输尿管回流。 所有患
+病成员进行 GATA3 基因检测,均存在 c523_528dup 突
+变,该突变造成无义介导的 mRNA 降解,从而造成单
+倍剂量不足。 Moldovan 等[25] 报道了 1 例诊断为 HDR
+综合征的 29 岁的西班牙女性,临床除甲状旁腺功能减
+退、神经性耳聋外,存在有先天性缺失子宫及阴道,
+GATA3 检测提示在第五外显子存在 c. 1025G > A
+(p. Cys342Tyr) 突变是极有可能是致病原因,因为
+p. Cys342Tyr 是在物种间是高度保守的,且它位于具有
+重要功能的两个锌指域。 Luo 等[26] 在 GATA3 基因敲
+除的小鼠可发现混乱和缩短的蜗管与显著较少的毛细
+胞和支持细胞。 GATA3 功能的丧失导致感觉性听力
+损失及耳蜗管细胞死亡中的增加。 此外,在 GATA3 基
+因敲除的小鼠,虽然最初的耳蜗前庭神经节细胞的生
+成不受影响,但螺旋神经节神经元却由于细胞凋亡被
+耗尽。 Gaynor 等[27] 将 HDR 患 者 白 细 胞 DNA 用
+GATA3 引物进行 PCR 扩增,通过 PCR 产物可确定
+DNA 序列,野生型和突变型的 GATA3 构建体转染入
+COS-7 细胞,它们的功能分别通过 Western 印迹分析、
+免疫细胞化学、电泳迁移率改变分析(EMSAs)、萤光
+素酶报告基因分析以及三维建模评估。 一种新的错义
+突变,Thr272Ile,在锌指蛋白 1 被确定,Western 印迹分
+析和免疫荧光显示,该基因突变并不影响 GATA3 的核
+定位。 然而,EMSAs 表明它减少 DNA 的结合亲和性,
+而不是稳定性。 和酵母双杂交分析表明,GATA3 突变
+导致锌指蛋白 1 与辅因子 FOG2 相互作用的丧失。 突
+变 GATA3 显著降低萤光素酶报告基因活性超过 65%
+(P<0. 01)。 三维建模表明,功能异常的原因可能是
+Thr272 与 Leu268 相互作用极性侧链的丧失。 一种新
+的错义 HDR 相关 GATA3 基因突变,Thr272Ile,已被确
+定并显示导致减少 DNA 结合,与辅因子 FOG2 互动作
+用的部分损失,基因转录的下降。
+Upadhyay 等[28] 总结了 40 种确定有关的 HDR 综
+合征的 GATA3 基因突变类型,如:c. 35 _36delGC、c.
+431delG、 c. 404dupC、 p. C321S 等, 而 此 次 报 道 的
+GATA3 突变 IVS6-1G-A(G / A 杂合,splicing)为首次报
+道。 该突变为位于内含子 3忆与外显子 6 的剪接受点
+上。 真核生物外显子-内含子接头序列相当短,但却是
+高度保守的,一般 5'端起始 2 个基因为 GT,3'端最后 2
+个碱基为 AG,通常把这种接头形式叫做 GT-AG 法则,
+此处发生突变可引起内含子和外显子间的剪接错误,
+产生异常的 mRNA,从而导致编码的结构和功能改变
+蛋白质而致病,在人类所有致病性突变中,剪切突变是
+一种常见的突变类型,其中至少 10%的突变为发生在
+剪接位点的突变,甚至在某些疾病中高达 50%的突变
+是通过影响剪接过程而致病[29];所以认为该突变为有
+意义突变,导致患者致病。 本研究仅在 DNA 水平对该
+患者的 GATA3 基因进行了研究,对于该突变基因如何
+影响相应的 mRNA 及蛋白质功能还有待进一步研究。
+患者父亲有听力障碍,但已去世,又无兄弟姐妹,所以
+无法完成家族基因检测。 该患者的诊治过程提示临床
+对癫痫发作的患者如有耳聋,进行测听,并行钙、磷、
+iPTH、肾功能测定及影像学检查,必要时对其家族也
+要进行相关疾病检查,或许可以揭示这种极其罕见的
+内分泌疾病。

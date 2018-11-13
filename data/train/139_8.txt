@@ -1,0 +1,188 @@
+临床研究
+基金项目:江苏省卫生厅资助(H201356)
+刘学奎、李洪艳);徐州市中心医院内分泌科、徐州市医学科学研究所,
+徐州市糖尿病研究所(梁军);徐州医学院徐州临床学院(张倩、邱勤
+勤);东南大学医学院(卞文)
+社区非糖尿病人群颈围和胰岛素抵抗的
+相关性分析
+王玉  梁军  腾飞  邹彩艳  刘学奎  张倩  卞文  李洪艳  邱勤勤
+[摘要]   目的  分析和探索中国社区人群健康成人的颈围和胰岛素抵抗的相关性。 方法 选择常住
+江苏徐州地区的社区健康人群 2 318 名为研究对象,检测受试者颈围、身高、腰围、臀围、体重和甘油三酯、
+总胆固醇、高密度脂蛋白胆固醇(HDL-C)、低密度脂蛋白胆固醇(LDL-C)、空腹血糖和餐后 2 h 血糖等相关
+生化指标。 胰岛素抵抗以稳态模型评估的胰岛素抵抗指数(HOMA-IR)来评价。 结果 颈围和年龄、体重
+指数(BMI)、腰围、臀围、腰臀比、收缩压、舒张压、甘油三酯、总胆固醇、LDL-C、尿酸正相关,与 HDL-C 负相
+关。 校正年龄和其他心血管代谢危险因素后,无论男性和女性,颈围和 HOMA-IR 的增加趋势显著相关,进
+一步校正 BMI 和腰围后,这种相关性并没有明显变化。 颈围和 BMI 或腰围对 HOMA-IR 有显著的叠加作
+用(P<0. 01);在较大 BMI 和较大腰围的个体,颈围和 HOMA-IR 的相关性更明显。 结论 在中国健康成人
+中,颈围和胰岛素抵抗、心血管代谢危险因素独立相关,并且和 BMI、腰围有交互作用。
+[关键词]   颈围; 胰岛素抵抗
+Relationship between neck circumference and insulin resistance in a community population Wang Yu*, Liang
+Jun, Teng Fei, Zou Caiyan, Liu Xuekui, Zhang Qian, Bian Wen, Li Hongyan, Qiu Qinqin. *Department of
+Endocrinology, the Central Hospital of Xuzhou, Xuzhou 221009, China
+[Abstract]   Objective   To investigate the relationship between neck circumference ( NC) and insulin
+resistance in a large Chinese cohort of community population. Methods A total of 2 318 subjects in this study were
+from a community-based health examination survey in Xuzhou. Serum triglyceride(TG), total cholesterol(TC), high
+density lipoprotein-cholesterol ( HDL-C), low density lipoprotein-cholesterol ( LDL-C), and glucose levels were
+determined. NC, height, waist circumference(WC), hip circumference, and body weight were measured. Insulin
+resistance was assessed by homeostasis model assessment-insulin resistance(HOMA-IR) index. Results NC was
+positively correlated with age, body mass index(BMI), WC, hip circumference, waist-to-hip ratio, systolic blood
+pressure, diastolic blood pressure, uric acid, TC, TG, LDL-C, while negatively correlated with HDL-C. NC was
+significantly associated with increasing trend of HOMA-IR in both men and women after adjusting for age and other
+cardiometabolic risk factors. The associations still existed after further adjustment for BMI and WC. Moreover, there
+were significant interactions between NC and BMI or WC on HOMA-IR(P<0. 01) . The associations between NC and
+HOMA-IR appeared stronger among those with higher BMI or WC. Conclusions In healthy Chinese adults, NC is
+independently related to HOMA-IR and other cardiometabolic risk factors, and interacts with other parameters of
+overall or central adiposity, such as BMI and WC.
+[Key words]  Neck circumference; Insulin resistance
+(Chin J Endocrinol Metab, 2015, 31: 33-36)
+胰岛素抵抗是 2 型糖尿病的病理生理学特征,是
+指一种机体对胰岛素代谢作用的敏感性和反应性降低
+的状态[1]。 胰岛素抵抗引起的高血糖是糖尿病和动
+脉粥样硬化病死亡率高的常见原因。 对胰岛素抵抗进
+行干预可以防治糖尿病的发生和进展。 准确测定胰岛
+素抵抗程度是这类疾病研究中的重点。 高胰岛素正葡
+萄糖钳夹技术是测定胰岛素抵抗的“金标准冶,但其操
+作复杂、费用昂贵,因此国内外学者又提出了许多评估
+胰岛素抵抗的简易指数[2-7]。 在 Framingham 心脏研究
+中,颈围与胰岛素抵抗和代谢异常(如血压和血脂)相
+关,并独立于周围性肥胖和中心性肥胖[8]。 本研究拟
+通过对中国社区健康人群资料的详细分析,探讨颈围
+和胰岛素抵抗的相关性,以及颈围与其他评价中心性
+肥胖和周围性肥胖指标之间的交互作用。
+对象和方法
+一、 对象
+共有 2 550 名受试者参与此研究。 研究对象均于
+徐州市中心医院行血液学检查,所有的检测指标均由
+同一个中心即徐州市中心医院完成。 该研究由徐州市
+中心医院伦理委员会批准。 受试者男性和女性均≥20
+岁,测量资料齐全,包括颈围、腰围、体重指数(BMI)、
+血压和相关的心血管代谢疾病标志物如空腹血糖、胰
+岛素、血脂。 剔除了潜在的有糖尿病史的患者和空腹
+血糖≥7. 0 mmol / L 或口服葡萄糖耐量试验(OGTT)2 h
+血糖≥11. 1 mmol / L 或 HBA1C≥6. 5% ,以及糖皮质激
+素治疗、肝肾功能损害者,同时也剔除了甲状腺肿和其
+他颈部包块和畸形者。 最后 2 318 名研究对象入选。
+二、 方法
+测量受试者的颈围[9]:保持头部直立,双眼向前,
+喉结节点水平的周围长。 研究对象脱鞋,单衣测量体
+重、身高、腰围。 腰围和腰臀比的测量:受试者站位,双
+脚分开 25 到 30 cm,使体重均匀分配,在平稳呼吸时,
+在髂嵴和第 12 肋下缘连线的中点水平测量腰围;臀围
+在臀部骨盆最突出部测量周径。 腰臀比=腰围 /臀围。
+长度单位为 cm,重量单位为 kg,各指标同时测量 3 次
+取平均值。 BMI=体重 /身高2(kg / m2)。 静坐 5 min 后
+用汞柱式标准袖带血压计测量右上臂收缩压及舒张
+压,手臂与心脏在同一水平,间隔 30 s 测量 3 次,取其
+平均值进行分析。
+所有受试者晚餐后禁食 10 h 以上,次日清晨空腹
+采肘静脉血。 抽取血液后,血样在玻璃管中室温凝集
+1 ~ 3 h,然后分离血清。 标本采集后以 3 000 转 / min
+离心 15 min 取血清。 测量血尿酸、空腹血糖(FPG)、
+总胆固醇、甘油三酯、高密度脂蛋白胆固醇(HDL-C)
+和低密度脂蛋白胆固醇(LDL-C)。 所有的生化指标均
+采用酶法在日立 7600 全自动生化分析仪上测定。 血
+清胰岛素浓度由放射免疫法测定(罗氏,E170,德国)。
+所有研究对象均行 OGTT。
+胰岛素抵抗以稳态模型胰岛素抵抗指数(homeo-
+stasis model assessment-insulin resistance,HOMA-IR)来
+评价[10]。 HOMA-IR = FPG ( mmol / L) × 空腹胰岛素
+(mU / L) / 22. 5。 按照惯例,非糖尿病个体在人群中上
+四分位数之上的被定义为胰岛素抵抗[11]。
+三、 统计学处理
+采用线性回归模型来评估颈围和代谢标志物之间
+的相关性。 使用引入交叉乘积项的线性回归模型分析
+颈围和性别或者代谢标志物之间的交互作用。 所有假
+设检验采用双侧检验。 以 P<0. 05 为差异有统计学意
+义。 数据管理和统计分析采用的是统计软件 SAS
+9. 1. 3。
+结    果
+一、 颈围五分位法分析受试者基线资料
+共 2 318 名健康的中国成年人被纳入本研究,平
+均颈围为(36. 7 ±3. 4)cm,其中男性 1 690 名,女性 628
+名,男性(38. 0 ± 2. 6) cm,女性(32. 8 ± 2. 4) cm。 受试
+者的平均年龄是 46. 5 (20 ~ 87) 岁,平均 BMI 24. 4
+kg / m2。根据颈围五分位法分析受试者的基线资料,可
+以得出颈围和年龄、BMI、腰围、臀围、腰臀比、收缩压、
+舒张压、甘油三酯、总胆固醇、LDL-C、尿酸正相关,与
+HDL-C 负相关(P<0. 01)。
+二、 颈围与血糖代谢指标危险因素的相关性
+校正年龄和其他心血管代谢危险因素后,无论男
+性和女性, 颈围和 HOMA-IR 的增加趋势显著相关(表
+1) ,然而,男性和女性之间的差异没有统计学意义。
+表 1  颈围和血糖代谢指标危险因素的相关性(x-± s)
+Tab 1  Relationship between neck circumference and the indexes of risk facts for blood glucose(x-± s)
+颈围五分位
+Quintile of NC
+HOMA-IR FPG(mmol / L)
+FINS
+(mU / L)
+PG
+(mmol / L)
+HBA1C
+(% )
+M F M F M F M F M F
+Q1 1. 8 ± 3. 2 1. 4 ± 0. 7 5. 3 ± 16. 0 4. 9 ± 1. 1 7. 8 ± 7. 4 6. 8 ± 2. 9 7. 6 ± 4. 0 6. 5 ± 1. 5 5. 8 ± 1. 0 5. 7 ± 0. 7
+Q2 2. 3 ± 3. 3 1. 8 ± 1. 0 5. 2 ± 0. 9 4. 9 ± 0. 5 9. 1 ± 4. 7 8. 5 ± 4. 3 7. 5 ± 2. 6 7. 1 ± 2. 1 5. 8 ± 0. 7 5. 7 ± 0. 4
+Q3 2. 7 ± 2. 4 2. 2 ± 2. 0 5. 4 ± 1. 2 4. 9 ± 0. 8 10. 4 ± 1. 0 8. 6 ± 3. 7 7. 9 ± 3. 0 7. 2 ± 2. 4 5. 9 ± 0. 9 5. 7 ± 0. 5
+Q4 2. 9 ± 0. 9 2. 5 ± 1. 9 5. 4 ± 1. 2 5. 0 ± 1. 3 11. 0 ± 7. 3 9. 7 ± 6. 6 7. 9 ± 2. 8 6. 9 ± 2. 2 5. 9 ± 0. 7 5. 7 ± 0. 7
+Q5 3. 2 ± 1. 5 3. 1 ± 1. 8 5. 7 ± 1. 5 5. 1 ± 0. 8 13. 5 ± 7. 3 12. 0 ± 6. 6 8. 2 ± 3. 8 7. 6 ± 2. 5 6. 1 ± 1. 1 5. 8 ± 0. 5
+Pa 0. 020 0. 004 0. 815 0. 550 0. 502 0. 258 0. 070 0. 351 0. 297 0. 263
+Pb 0. 120 0. 861 0. 865 0. 544 0. 466
+注:NC:颈围 Neck circumference;M:男性 Male;F:女性 Female;Q1:NC<31 cm(F) or <36 cm(M); Q2:NC 32. 1-33 cm(F) or 36-37 cm(M);Q3:NC
+32. 1-33 cm(F)or 37. 1-38 cm(M);Q4:NC 33. 1-34 cm(F)or 38. 1-40 cm(M);Q5:NC>34 cm(F)or >40 cm(M);HOMA-IR:稳态模型评估的胰岛素抵抗
+指数 Homeostasis model assessment-insulin resistance;FPG:空腹血糖 Fasting plasma glucose;FINS:空腹胰岛素 Fasting insulin;PG:餐后血糖 Postprandial
+glucose;Pa:校正了年龄和生化标志物后趋势 P 值 Trend P value after adjustment for age and biochemistry markers;Pb:男性和女性之间的异质性 Difference
+between male and female
+注:BMI:体重指数 Body mass index;Low:低;Median:中等;High:高;
+余略语同表 1 The other abbreviations are the same as Tab 1
+图 1  颈围和腰围或者 BMI 对胰岛素抵抗指数的交互作用
+Fig 1  Interaction of neck circumference with waist circumference or BMI on
+insulin resistant index
+进一步校正 BMI 和腰围后,这种相关性并没有明显变
+化。
+三、 颈围和 BMI 或腰围对胰岛素抵抗的叠加作用
+图 1 显示了颈围和周围性肥胖指标(BMI)或中心
+性肥胖指标(腰围)对 HOMA-IR 的联合叠加作用。 颈
+围和 BMI 或腰围对 HOMA-IR 有显著的叠加作用(P<
+0. 01 )。 在较大 BMI 或者较大腰围人群, 颈围和
+HOMA-IR 的相关性更明显。
+讨    论
+在这个中国社区健康成年人的大样本研究中,无
+论男女,较大的颈围和胰岛素抵抗增加的趋势始终相
+关。 此外,随着颈围值的增加,其他心血管代谢危险因
+素如甘油三酯水平和血尿酸水平均有增加趋势,但
+HDL-C 水平有减少的趋势,并且这些相关性独立于周
+围性肥胖指标或中心性肥胖指标。
+有几种机制可能可以解释较大的颈围与胰岛素抵
+抗和高心血管代谢风险的相关性。 已经有研究证实,
+颈围是阻塞性睡眠呼吸暂停综合征的一个重要预测指
+标[12],也与 HDL-C、LDL-C、胰岛素抵抗、糖尿病和高
+血压相关[13-15]。 近期研究发现,阻塞性睡眠呼吸暂停
+综合征会恶化血糖,甚至在糖耐量受损的早期阶
+段[16]。 此外,间歇低氧血症和睡眠暂停增加胰岛素抵
+抗程度,从而导致了胰岛素抵抗的发生[17]。 内脏脂肪
+已被认为是这种有害影响的一个潜在中介[18]。 本研
+究和其他研究均表明,体内脂肪积累在上半身段也可
+能导致不良后果[1,3]。
+本研究结果与最近的一些在中国人群和白种人中
+的研究结果一致。 朱明范等[19] 发现颈围与年龄、身
+高、体重、BMI、腰围、臀围、腰臀比呈正相关关系。 颈
+围与中心性肥胖存在显著联系,男性颈围 36. 8 cm 或
+女性颈围 33. 1 cm 时可以预测中心性肥胖。 袁明霞
+等[20]发现 2 型糖尿病患者颈围是反映中心性肥胖的
+有效指标;颈围增粗是代谢综合征的独立危险因素。
+杨光燃等[21]研究证明 2 型糖尿病患者的颈围与 BMI、
+腰围、代谢综合征正相关。 而在白种人中,Caro 等[3]
+发现在土耳其肥胖儿童中,颈围与 HDL-C、FPG、胆固
+醇、甘油三酯和血压相关。 而 Framingham 研究发现,
+颈围与胰岛素抵抗和心血管危险因素相关[1]。
+然而本研究也有不足之处。 本研究为一个横断面
+分析,还有待于采用大规模的人群资料及进一步的前
+瞻性研究来确定颈围与胰岛素抵抗两者之间的因果关
+系。 此外,本研究只测量 1 次颈围,多次重复测量颈围
+结果更可信。
+总之,本研究发现,在中国健康成年人中,较大的
+颈围与胰岛素抵抗和各种心血管代谢危险因素密切相
+关。 本研究结果同时也建议把颈围包含在常规临床评
+估中,来识别心血管代谢危险疾病如 2 型糖尿病和心
+脏病的高危人群。

@@ -1,0 +1,562 @@
+T1	Disease 0 6	2 型糖尿病
+T2	Disease 8 13	慢性肾脏病
+T3	Drug 13 18	口服降糖药
+T4	Disease 62 67	慢性肾脏病
+T5	Disease 92 95	糖尿病
+T6	Disease 99 104	慢性肾脏病
+T7	Disease 106 107;108 114	糖 尿病肾脏病变
+T8	Disease 116 122	2 型糖尿病
+T9	Disease 125 130	慢性肾脏病
+T10	Disease 131 133;134 135	高血 糖
+T11	Disease 136 141	慢性肾脏病
+T12	Test 161 163	血糖
+T13	Drug 169 174	口服降糖药
+T14	Test 179 181	血糖
+T15	Disease 245 251	2 型糖尿病
+T16	Disease 253 258	慢性肾脏病
+T17	Drug 258 261;262 264	口服降 糖药
+T18	Disease 285 291	2 型糖尿病
+T19	Disease 294 299	慢性肾脏病
+T20	Disease 320 323	糖尿病
+T21	Disease 324 327	肾脏病
+T22	Disease 333 339	2 型糖尿病
+T23	Reason 131 133;134 135	高血 糖
+T24	Reason 92 95	糖尿病
+T25	Drug 302 307	口服降糖药
+T26	Disease 342 347	慢性肾脏病
+T27	Drug 348 353	口服降糖药
+T28	Drug 376 381	口服降糖药
+T29	Disease 417 423	2 型糖尿病
+T30	Disease 425 430	慢性肾脏病
+T31	Disease 449 454	慢性肾脏病
+T32	Disease 492 495;496 498	慢性肾 脏病
+T33	Disease 513 518	慢性肾脏病
+T34	Disease 545 550	慢性肾脏病
+T35	Disease 604 608;609 610	慢性肾脏 病
+T36	Disease 645 648	糖尿病
+T37	Disease 665 668	糖尿病
+T38	Disease 679 682	糖尿病
+T39	Disease 703 706	糖尿病
+T40	Disease 726 729	糖尿病
+T41	Disease 731 736	慢性肾脏病
+T42	Reason 726 729	糖尿病
+T43	Disease 741 744	糖尿病
+T44	Reason 741 744	糖尿病
+T45	Disease 746 751	慢性肾脏病
+T46	Disease 758 761	糖尿病
+T47	Disease 784 785;786 788	糖 尿病
+T48	Reason 784 785;786 788	糖 尿病
+T49	Disease 792 797	慢性肾脏病
+T50	Disease 824 830	2 型糖尿病
+T51	Disease 843 848	慢性肾脏病
+T52	Reason 824 830	2 型糖尿病
+T53	Disease 863 866	糖尿病
+T54	Reason 863 866	糖尿病
+T55	Disease 872 877	慢性肾脏病
+T56	Disease 894 896;897 898	糖尿 病
+T57	Disease 917 920	糖尿病
+T58	Reason 917 920	糖尿病
+T59	Disease 925 930	肾脏并发症
+T60	Disease 947 953	2 型糖尿病
+T61	Reason 947 953	2 型糖尿病
+T62	Disease 956 961	慢性肾脏病
+T63	Disease 981 984	糖尿病
+T64	Disease 987 992	慢性肾脏病
+T65	Disease 996 999	糖尿病
+T66	Disease 1019 1025	2 型糖尿病
+T67	Disease 1027 1032	慢性肾脏病
+T68	Disease 1039 1044	慢性肾脏病
+T69	Symptom 1046 1055	肾脏结构或功能异常
+T70	Duration 1055 1061;1062 1064	持续超过 3 个月
+T71	Test 1080 1086	肾小球滤过率
+T72	Disease 1198 1203	慢性肾脏病
+T73	Test 1207 1211	eGFR
+T74	Disease 1616 1620	肾脏损害
+T75	Test 1623 1626	病理学
+T76	Test 1627 1629	尿液
+T77	Test 1630 1634	血液异常
+T78	Test 1635 1640	影像学检查
+T79	Disease 1662 1668	2 型糖尿病
+T80	Disease 1670 1675	慢性肾脏病
+T81	Drug 1676 1681	口服降糖药
+T82	Disease 1696 1702	2 型糖尿病
+T83	Disease 1704 1709	慢性肾脏病
+T84	Symptom 1730 1733	低血糖
+T85	Disease 1746 1752	乳酸性酸中毒
+T86	Disease 1755 1758;1759 1760	心力衰 竭
+T87	Drug 1764 1769	口服降糖药
+T88	Test 1794 1797	肾功能
+T89	Symptom 1815 1818	低血糖
+T90	Drug 1823 1828	口服降糖药
+T91	Test 1835 1837	血糖
+T92	Test 1840 1844	随机血糖
+T93	Test_Value 1845 1858	5. 0 mmol / L
+T94	Symptom 1862 1865	低血糖
+T95	Test 1874 1876	血糖
+T96	Disease 1884 1890	2 型糖尿病
+T97	Disease 1892 1896;1897 1898	慢性肾脏 病
+T98	Test 1901 1903	血糖
+T99	Symptom 1921 1924	低血糖
+T100	Disease 1962 1968	2 型糖尿病
+T101	Disease 1970 1976;1977 1979	中重度慢性肾 脏病
+T102	Level 1970 1973	中重度
+T103	Disease 1242 1245;1246 1248	慢性肾 脏病
+T104	Test 1249 1252	肾功能
+T105	Test_Value 1997 2010	7. 0% ~ 9. 0%
+T106	Test 2020 2022	血糖
+T107	Symptom 2031 2034	低血糖
+T109	Disease 2051 2055	代谢异常
+T110	Disease 2056 2058	感染
+T111	Reason 2042 2048	血糖水平过高
+T112	Disease 2065 2070	慢性肾脏病
+T113	Anatomy 2072 2075	红细胞
+T114	Disease 2099 2106	晚期慢性肾脏病
+T115	Level 2099 2101	晚期
+T116	Test 2124 2126	血糖
+T117	Test 2144 2148	餐后血糖
+T118	Test 2155 2157	血糖
+T119	Drug 2166 2171	口服降糖药
+T120	Drug 2175 2180	口服降糖药
+T121	Disease 2196 2202	2 型糖尿病
+T122	Disease 2204 2209	慢性肾脏病
+T123	Test 2213 2215	血糖
+T124	Drug 2230 2235	口服降糖药
+T125	Disease 2258 2263	慢性肾脏病
+T126	Anatomy 2268 2269	肾
+T127	Drug 2295 2301	口服降糖药物
+T128	Symptom 2314 2317	低血糖
+T129	Reason 2295 2301	口服降糖药物
+T130	Test 2368 2371	肾功能
+T131	Symptom 2394 2397	低血糖
+T132	Drug 2425 2430	口服降糖药
+T133	Method 2425 2427	口服
+T134	Method 2295 2297	口服
+T135	Method 2230 2232	口服
+T136	Method 2175 2177	口服
+T137	Method 2166 2168	口服
+T138	Method 1823 1825	口服
+T139	Method 1764 1766	口服
+T140	Method 1676 1678	口服
+T141	Method 376 378	口服
+T142	Method 348 350	口服
+T143	Method 302 304	口服
+T144	Method 258 260	口服
+T145	Method 13 15	口服
+T146	Disease 2443 2449	2 型糖尿病
+T147	Disease 2451 2456	慢性肾脏病
+T148	Drug 2489 2492	双胍类
+T149	Reason 2515 2520	胰岛素抵抗
+T150	Level 2534 2536;2537 2550	降低 1. 0% ~ 2. 0%
+T151	Symptom 2562 2565	低血糖
+T152	Drug 2594 2597;2598 2599	二甲双 胍
+T153	Disease 2602 2604	肥胖
+T154	Disease 2605 2611	2 型糖尿病
+T155	Disease 2613 2618	心血管事件
+T156	Disease 2619 2621	死亡
+T157	Drug 2639 2643	二甲双胍
+T158	Disease 2646 2651;2652 2653	2 型糖尿 病
+T159	Test 2655 2657	血糖
+T160	Drug 2669 2673	二甲双胍
+T161	Anatomy 2678 2680	肾脏
+T162	Disease 2686 2693	肾功能严重损害
+T163	Level 2689 2691	严重
+T164	Drug 2694 2698	二甲双胍
+T165	Symptom 2699 2700;2701 2708	乳 酸易在体内蓄积
+T166	Disease 2713 2719	乳酸性酸中毒
+T167	Reason 2686 2693	肾功能严重损害
+T168	Drug 2728 2732	二甲双胍
+T169	Disease 2734 2744	慢性肾脏病 3a 期
+T170	Level 2740 2744	3a 期
+T171	Drug 2753 2758	磺 脲 类
+T172	Drug 2761 2772	胰 岛 素 促 泌 剂
+T173	Disease 2816 2819;2820 2823	2 型 糖尿病
+T174	Disease 2825 2828	高血糖
+T175	Drug 2837 2845	第一代磺脲类药物
+T176	Drug 2847 2852	甲苯磺丁脲
+T177	Drug 2872 2880	第二代磺脲类药物
+T178	Drug 2882 2886	格列本脲
+T179	Anatomy 2910 2912	肾脏
+T180	Disease 2920 2925	慢性肾脏病
+T181	Symptom 2942 2945	低血糖
+T182	Level 2939 2941	严重
+T183	Symptom 2947 2950	低血糖
+T184	Duration 2951 2963	持续时间可超过 24 h
+T185	Drug 2973 2977	格列本脲
+T186	Disease 2979 2992	慢性肾脏病 1 ~ 2 期
+T187	Level 2985 2992	1 ~ 2 期
+T188	Level 2997 3004	3 ~ 5 期
+T189	Drug 3008 3012	格列美脲
+T190	Anatomy 3042 3044	肾脏
+T191	Drug 3052 3056	格列美脲
+T192	Disease 3058 3060;3061 3072	慢性 肾脏病 1 ~ 2 期
+T193	Level 3065 3072	1 ~ 2 期
+T194	Level 3081 3085	3a 期
+T195	Level 3088 3094;3095 3096	3b ~ 5 期
+T196	Drug 3100 3104	格列吡嗪
+T197	Drug 3105 3109	格列齐特
+T198	Anatomy 3127 3129	肾脏
+T199	Symptom 3133 3136	低血糖
+T200	Drug 3140 3144	格列本脲
+T201	Drug 3151 3156	口服降糖药
+T202	Method 3151 3153	口服
+T203	Test 3160 3163	肾功能
+T204	Drug 3177 3182	口服降糖药
+T205	Method 3177 3179	口服
+T206	Disease 3191 3197	2 型糖尿病
+T207	Disease 3199 3204	慢性肾脏病
+T208	Drug 4358 4362	格列美脲
+T209	Drug 4370 4374	格列吡嗪
+T210	Disease 4376 4381	慢性肾脏病
+T211	Level 4382 4389	1 ~ 2 期
+T212	Level 4399 4402	3 期
+T213	Level 4405 4412	4 ~ 5 期
+T214	Drug 4416 4420	格列齐特
+T215	Disease 4423 4428	慢性肾脏病
+T216	Level 4429 4436	1 ~ 2 期
+T217	Level 4447 4451	3a 期
+T218	Level 4455 4458	3b期
+T219	Level 4464 4471	4 ~ 5 期
+T220	Drug 4475 4479	格列喹酮
+T221	Anatomy 4508 4510	肾脏
+T222	Test 4514 4517	肾功能
+T223	Disease 4530 4535	慢性肾脏病
+T224	Drug 4577 4581	格列喹酮
+T225	Disease 4585 4590	慢性肾脏病
+T226	Level 4591 4598	1 ~ 3 期
+T227	Level 4609 4612	4 期
+T228	Level 4619 4622	5 期
+T229	Drug 4627 4631	格列奈类
+T230	Drug 4632 4636	格列奈类
+T231	Drug 4640 4647;4648 4651	非磺脲类胰岛素 促泌剂
+T232	Level 4662 4674	0. 5% ~2. 0%
+T233	Symptom 4679 4682	低血糖
+T234	Drug 4691 4694	磺脲类
+T235	Drug 4700 4704	格列奈类
+T236	Drug 4713 4717	那格列奈
+T237	Drug 4718 4722	瑞格列奈
+T238	Drug 4726 4730	米格列奈
+T239	Drug 4736 4740	那格列奈
+T240	Disease 4793 4794;4795 4804	中 度及重度肾功能损害
+T241	Level 4793 4794;4795 4799	中 度及重度
+T242	Disease 4805 4808	糖尿病
+T243	Treatment 4815 4818;4819 4820	血液透 析
+T244	Drug 4823 4827	那格列奈
+T245	Drug 4845 4846;4847 4850	那 格列奈
+T246	Disease 4858 4863	肾功能不全
+T247	Disease 4909 4912	糖尿病
+T248	Disease 4926 4930;4931 4932	肾功能不 全
+T249	Disease 4935 4938	糖尿病
+T250	Drug 4942 4946	那格列奈
+T251	Level 4956 4961	1. 1%
+T252	Symptom 4963 4966	低血糖
+T253	Reason 4942 4946	那格列奈
+T254	Drug 4993 4997	那格列奈
+T255	Disease 4998 5003	肾功能损害
+T256	Amount 5017 5025	每餐 60 mg
+T257	Frequency 5017 5025	每餐 60 mg
+T258	Drug 5033 5037	瑞格列奈
+T259	Anatomy 5051 5053	肾脏
+T260	Drug 5077 5081	瑞格列奈
+T261	Duration 5082 5085	7 d
+T262	Disease 5104 5109	慢性肾脏病
+T263	Drug 5126 5130	瑞格列奈
+T264	Disease 5131 5136	慢性肾脏病
+T265	Drug 5153 5157	瑞格列奈
+T266	Disease 5180 5185	肾功能不全
+T267	Disease 5186 5192	2 型糖尿病
+T268	Disease 5208 5213	肾功能不全
+T269	Level 5218 5219;5220 5221	正 常
+T270	Level 5222 5223	轻
+T271	Level 5224 5225	中
+T272	Level 5226 5227	重
+T273	Level 5228 5230	极重
+T274	Disease 5230 5236	肾功能损害)
+T275	Symptom 5237 5240	低血糖
+T276	Drug 5256 5260	瑞格列奈
+T277	Symptom 5263 5266	低血糖
+T278	Reason 5256 5260	瑞格列奈
+T279	Disease 5270 5273;5274 5276	肾功能 损害
+T280	Drug 5288 5292	瑞格列奈
+T281	Disease 5294 5299	慢性肾脏病
+T282	Level 5300 5307	1 ~ 5 期
+T283	Amount 5328 5337	0. 5 mg起始
+T284	Drug 5339 5343	米格列奈
+T285	Drug 5372 5378	噻唑烷二酮类
+T286	Drug 5382 5388	胰岛素增敏剂
+T287	Level 5399 5411	1. 0% ~1. 5%
+T288	Drug 5420 5424	吡格列酮
+T289	Drug 5425 5427;5428 5430	罗格 列酮
+T290	Anatomy 5435 5437	肝脏
+T291	Symptom 5443 5446	低血糖
+T292	Symptom 5463 5467	体重增加
+T293	Symptom 5468 5472	水钠潴留
+T294	Disease 5473 5477	心力衰竭
+T295	Reason 5420 5424	吡格列酮
+T296	Reason 5425 5427;5428 5430	罗格 列酮
+T297	Level 5491 5501	功能分级 2 级以上
+T298	Disease 5529 5531	骨折
+T299	Disease 5532 5533;5534 5537	骨 质疏松
+T300	Disease 5545 5550	潜在骨疾病
+T301	Disease 5555 5557;5558 5563	肾性 骨营养不良
+T302	Drug 5571 5575	吡格列酮
+T303	Disease 5577 5582	慢性肾脏病
+T304	Level 5583 5591	1 ~ 3a 期
+T305	Level 5603 5611	3b ~ 5 期
+T306	Disease 5628 5633	肾功能损伤
+T307	Drug 5640 5644	罗格列酮
+T308	Drug 5655 5661	糖苷酶抑制剂
+T309	Level 5675 5682;5683 5688	0. 5% ~ 0. 8%
+T310	Symptom 5709 5713	减轻体重
+T311	Drug 5726 5730	阿卡波糖
+T312	Drug 5731 5736	伏格列波糖
+T313	Drug 5737 5738;5739 5742	米 格列醇
+T314	Drug 5744 5748	阿卡波糖
+T315	Reason 5655 5661	糖苷酶抑制剂
+T316	Drug 5791 5795	阿卡波糖
+T317	Test 5761 5763;5764 5765	肾功 能
+T318	Disease 5798 5803	慢性肾脏病
+T319	Level 5804 5811	1 ~ 3 期
+T320	Level 5814 5819;5820 5821	4 ~ 5 期
+T321	Disease 5825 5830	伏格列波糖
+T322	Disease 5833 5838	慢性肾脏病
+T323	Level 5839 5846	1 ~ 3 期
+T324	Level 5850 5857	4 ~ 5 期
+T325	Drug 5861 5865	米格列醇
+T326	Drug 5894 5911	二肽基肽酶-Ⅳ(DPP-4)抑制剂
+T327	Drug 5984 5988	二甲双胍
+T328	Drug 5999 6007;6008 6009	DPP-4 抑制 剂
+T329	Drug 6012 6015	磺脲类
+T330	Drug 6016 6022	噻唑烷二酮类
+T331	Drug 6043 6052	DPP-4 抑制剂
+T332	Drug 6090 6099	DPP-4 抑制剂
+T333	Drug 6100 6104	西格列汀
+T334	Drug 6105 6109	沙格列汀
+T335	Drug 6110 6114	维格列汀
+T336	Drug 6115 6117;6118 6120	利格 列汀
+T337	Drug 6121 6125	阿格列汀
+T338	Drug 6127 6131	西格列汀
+T339	Disease 6150 6154;6155 6158	中度肾功 能不全
+T340	Level 6150 6152	中度
+T341	Drug 6163 6167	西格列汀
+T342	Disease 6190 6197	重度肾功能不全
+T343	Level 6190 6192	重度
+T344	Disease 6198 6203	终末期肾病
+T345	Level 6198 6201	终末期
+T346	Drug 6218 6222	西格列汀
+T347	Treatment 6227 6229	透析
+T348	Level 6256 6257	中
+T349	Level 6258 6260	重度
+T350	Level 6261 6264	终末期
+T351	Disease 6264 6266	肾病
+T352	Disease 6284 6289	慢性肾脏病
+T353	Test 6299 6302	GFR
+T354	Test_Value 6304 6315;6316 6334	30 ~ 50 ml· min-1·(1. 73m2) -1
+T355	Amount 6339 6344	50 mg
+T356	Frequency 6345 6356	每日 1 次( qd)
+T357	Drug 6358 6362	沙格列汀
+T358	Anatomy 6364 6365	肾
+T359	Anatomy 6366 6367	肝
+T360	Disease 6374 6379;6380 6382	轻度肾功能 不全
+T361	Level 6374 6376	轻度
+T362	Disease 6396 6405	中或重度肾功能不全
+T363	Level 6396 6400	中或重度
+T364	Amount 6417 6424	2. 5 mg
+T365	Frequency 6425 6427	qd
+T366	Disease 6429 6436	重度肾功能不全
+T367	Level 6429 6431	重度
+T368	Drug 6463 6467	维格列汀
+T369	Drug 6530 6534	维格列汀
+T370	Anatomy 6540 6542	肾脏
+T371	Drug 6562 6566	维格列汀
+T372	Disease 6576 6581	肾功能不全
+T373	Level 6568 6570	轻度
+T374	Level 6571 6573	中度
+T375	Level 6574 6576	重度
+T376	Level 6598 6602	1. 4
+T377	Level 6603 6607	1. 7
+T378	Level 6610 6613	2 倍
+T379	Level 6617 6622	中度或重度
+T380	Disease 6622 6627	肾功能不全
+T381	Drug 6631 6635	维格列汀
+T382	Level 6667 6674	增加约 2 倍
+T383	Disease 6680 6682;6683 6690	中、 重度肾功能不全
+T384	Level 6680 6682;6683 6685	中、 重度
+T385	Drug 6693 6697	维格列汀
+T386	Amount 6698 6703	50 mg
+T387	Frequency 6704 6706	qd
+T388	Duration 6710 6712;6713 6717	维持 24 h
+T389	Drug 6751 6755	阿格列汀
+T390	Disease 6771 6778	轻度肾功能受损
+T391	Level 6771 6773	轻度
+T392	Drug 6782 6786	阿格列汀
+T393	Disease 6808 6815	中度肾功能受损
+T394	Level 6808 6810	中度
+T395	Drug 6819 6823	阿格列汀
+T396	Level 6832 6838	升高 2 倍
+T397	Disease 6840 6847	重度肾功能受损
+T398	Level 6840 6842	重度
+T399	Disease 6849 6854	终末期肾病
+T400	Level 6849 6852	终末期
+T401	Drug 6858 6862	阿格列汀
+T402	Level 6872 6874;6875 6885	约升 高 3 倍和 4 倍
+T403	Treatment 6886 6888	透析
+T404	Duration 6889 6892	3 h
+T405	Disease 6911 6917	中重度糖尿病
+T406	Level 6911 6914	中重度
+T407	Disease 6919 6924	慢性肾脏病
+T408	Drug 6949 6953	利格列汀
+T409	Anatomy 6959 6960	肾
+T410	Disease 6987 6992	肾功能降低
+T411	Drug 7002 7006	利格列汀
+T412	Disease 7008 7013	慢性肾脏病
+T413	Level 7014 7021	1 ~ 5 期
+T414	Disease 7055 7060;7061 7062	2 型糖尿 病
+T415	Disease 7064 7069	慢性肾脏病
+T416	Disease 7075 7078	高血糖
+T417	Disease 7079 7082	高血压
+T418	Disease 7083 7085;7086 7088	血脂 异常
+T419	Disease 7129 7132	高血糖
+T420	Test 7159 7160;7161 7162	血 糖
+T421	Drug 7166 7169	降糖药
+T422	Drug 7194 7199	口服降糖药
+T423	Method 7194 7196	口服
+T424	Drug 7208 7213;7214 7215	2 型糖尿 病
+T425	Drug 7227 7231	二甲双胍
+T426	Disease 7285 7291	2 型糖尿病
+T427	Disease 7293 7294;7295 7299	慢 性肾脏病
+T428	Disease 7305 7311	2 型糖尿病
+T429	Disease 7316 7320;7321 7322	慢性肾脏 病
+T430	Disease 7346 7351	心血管疾病
+T431	Disease 7353 7359	认知功能障碍
+T432	Symptom 7394 7396;7397 7398	低血 糖
+T433	Drug 7424 7429	口服降糖药
+T434	Method 7424 7426	口服
+T435	Symptom 7437 7440	低血糖
+T436	Amount 7450 7453	小剂量
+T437	Disease 7486 7492	2 型糖尿病
+T438	Disease 7494 7499	慢性肾脏病
+T439	Disease 7508 7509;7510 7514	2 型糖尿病
+T440	Disease 7517 7522	慢性肾脏病
+T441	Disease 7539 7545	2 型糖尿病
+T442	Disease 7547 7552	慢性肾脏病
+T443	Drug 7554 7559	口服降糖药
+T444	Method 7554 7556	口服
+T445	Drug 7577 7582	口服降糖药
+T446	Method 7577 7579	口服
+T447	Symptom 7600 7603	低血糖
+T448	Reason 7577 7582	口服降糖药
+T449	Symptom 7643 7646	低血糖
+T450	Disease 7676 7682	2 型糖尿病
+T451	Disease 7684 7689	慢性肾脏病
+T452	Drug 7693 7698	口服降糖药
+T453	Method 7693 7695	口服
+T454	Disease 7729 7735	2 型糖尿病
+T455	Disease 7737 7742	慢性肾脏病
+T456	Test 7746 7748	血糖
+T457	Test 7754 7757	肾功能
+T458	Level 7757 7759	分期
+T459	Test 7785 7787	血糖
+T460	Symptom 7793 7796	低血糖
+T461	Disease 1935 1941	2 型糖尿病
+T462	Disease 7808 7814	2 型糖尿病
+T463	Test 1942 1947	HBA1C
+T464	Test 1983 1988	HBA1C
+T465	Test 2081 2086	HBA1C
+T466	Test 2529 2534	HBA1C
+T467	Test 2780 2785	HBA1C
+T468	Test 3213 3218	HBA1C
+T469	Test 4656 4661	HBA1C
+T470	Test 4950 4955	HBA1C
+T471	Test 5393 5398	HBA1C
+T472	Test 6056 6061	HBA1C
+T473	Drug 3541 3545	格列喹酮
+T474	Drug 3604 3608	格列齐特
+T475	Drug 3470 3474	格列吡嗪
+T476	Drug 3263 3267	二甲双胍
+T477	Test 1447 1451	尿白蛋白
+T478	Test 1467 1471	肌酐比值
+T479	Test 2111 2114;2115 2117	糖化白 蛋白
+T480	Test 1087 1090	GFR
+T481	Test 1235 1238	GFR
+T482	Test 1431 1434	GFR
+T483	Test 1495 1498	GFR
+T484	Test 1506 1509	GFR
+T485	Test 1526 1529	GFR
+T486	Test 1545 1548	GFR
+T487	Test 1565 1568	GFR
+T488	Test 1584 1587	GFR
+T489	Test 1644 1647	GFR
+T490	Test 2408 2411	GFR
+T491	Test 3298 3301	GFR
+T492	Test 3310 3313	GFR
+T493	Test 3342 3345	GFR
+T494	Test 3389 3392	GFR
+T495	Test 3401 3404	GFR
+T496	Test 3427 3430	GFR
+T497	Test 3441 3444	GFR
+T498	Test 3456 3459	GFR
+T499	Test 3500 3503	GFR
+T500	Test 3512 3515	GFR
+T501	Test 3527 3530	GFR
+T502	Test 3555 3558	GFR
+T503	Test 3567 3570	GFR
+T504	Test 3590 3593	GFR
+T505	Test 3626 3629	GFR
+T506	Test 3638 3641	GFR
+T507	Test 3653 3656	GFR
+T508	Test 3676 3679	GFR
+T509	Test 3806 3809	GFR
+T510	Test 3818 3821	GFR
+T511	Test 3910 3913	GFR
+T512	Test 3922 3925	GFR
+T513	Test 3958 3961	GFR
+T514	Test 3970 3973	GFR
+T515	Test 3995 3998	GFR
+T516	Test 4054 4057	GFR
+T517	Test 4066 4069	GFR
+T518	Test 4088 4091	GFR
+T519	Test 4124 4127	GFR
+T520	Test 4136 4139	GFR
+T521	Test 4160 4163	GFR
+T522	Test 4196 4199	GFR
+T523	Test 4208 4211	GFR
+T524	Test 4264 4267	GFR
+T525	Test 4276 4279	GFR
+T526	Test 4301 4304	GFR
+T527	Test 4332 4335	GFR
+T528	Test 1482 1485	肾功能
+T530	Test 3247 3250	肾功能
+T535	Test 5089 5090;5091 5093	肾 功能
+T542	Test 6242 6245	肾功能
+T553	Drug 3782 3788	噻唑烷二酮类
+T554	Drug 4252 4256	阿格列汀
+T555	Drug 3847 3851	罗格列酮
+T556	Drug 4038 4042	西格列汀
+T557	Drug 3899 3903	阿卡波糖
+T558	Drug 3791 3795	吡格列酮
+T559	Test 2556 2558	体重
+T561	Test 5705 5707	体重
+T563	Drug 4109 4113	沙格列汀
+T564	Drug 4174 4178	维格列汀
+T565	Anatomy 5933 5941	胰升糖素样肽 1
+T566	Anatomy 5942 5947	GLP-1
+T567	Anatomy 5964 5969	GLP-1
+T568	Drug 3360 3364	格列本脲
+T569	Drug 3695 3699	瑞格列奈
+T570	Drug 4229 4233	利格列汀
+T571	Drug 3415 3419	格列美脲
+T572	Test 1460 1463;1464 1465	尿白蛋 白
+T573	Test 1321 1325	UAER
+T574	Test 1442 1446	UAER
+T575	Test 1120 1124	eGFR
+T576	Test 6178 6181	AUC
+T577	Test 6586 6589	AUC
+T578	Test 6790 6793	AUC
+T579	Test 6827 6830	AUC
+T580	Test 6866 6869	AUC
+T581	Test 2523 2525	血糖
+T582	Test 1111 1116;1117 1118	肾小球滤过 率
+T583	Test 1435 1441	肾小球滤过率
+T584	Test 1648 1654	肾小球滤过率
+T585	Test 4336 4342	肾小球滤过率
+T586	Test 4005 4007	肌酐

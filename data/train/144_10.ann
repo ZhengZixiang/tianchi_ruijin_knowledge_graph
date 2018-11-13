@@ -1,0 +1,481 @@
+T1	Test 7154 7158	体重指数
+T2	Anatomy 7042 7044;7045 7047	脂肪 细胞
+T3	Anatomy 8052 8056	脂肪细胞
+T4	Anatomy 9223 9227	脂肪细胞
+T5	Anatomy 10553 10557	脂肪细胞
+T6	Test 7135 7137	身高
+T7	Test 7145 7147	体重
+T8	Disease 215 218	CAH
+T9	Disease 231 234	CAH
+T10	Anatomy 323 331	CYP17 基因
+T11	Disease 443 446	CAH
+T12	Disease 458 467	高 ACTH 血症
+T13	Disease 471 474	AML
+T14	Disease 514 517	AML
+T15	Disease 532 535	CAH
+T16	Disease 2210 2221	先天性肾上腺皮质增生症
+T17	Disease 2318 2321	CAH
+T18	Test 2427 2430	皮质酮
+T19	Test 2431 2439	11-脱氧皮质酮
+T20	Drug 2481 2486	糖皮质激素
+T21	Disease 2490 2498	肾上腺髓质脂肪瘤
+T22	Disease 2519 2522	AML
+T23	Anatomy 2547 2548;2549 2554	骨 髓造血细胞
+T24	Anatomy 2555 2559	脂肪组织
+T25	Disease 2571 2582	先天性肾上腺皮质增生症
+T26	Disease 2584 2587;2588 2593	肾上腺 髓质脂肪瘤
+T27	Disease 2643 2646	CAH
+T28	Disease 2667 2671;2672 2676	肾上腺髓 质脂肪瘤
+T29	Disease 2739 2742	高血压
+T30	Disease 2743 2746	低血钾
+T31	Disease 2753 2758	原发性闭经
+T32	Disease 2759 2762;2763 2766	性腺发 育不良
+T33	Disease 2782 2789;2790 2794	先天性肾上腺皮 质增生症
+T34	Disease 2870 2873	高血压
+T35	Disease 2874 2877	低血钾
+T36	Disease 2878 2884	性腺发育不良
+T37	Anatomy 2898 2914	P450c17(CYP17)基因
+T38	Symptom 3210 3214	肢体乏力
+T39	Disease 3219 3222	高血压
+T40	Disease 3223 3226	低血钾
+T41	Test 3228 3230	血压
+T42	Test 3280 3281;3282 3283	血 钾
+T43	Drug 3312 3316	安体舒通
+T44	Drug 3317 3319;3320 3321	氯化 钾
+T45	Symptom 3328 3333	无月经来潮
+T46	Symptom 3334 3341	双侧乳房发育差
+T47	Symptom 3342 3346;3347 3351	无阴毛、 腋毛生长
+T48	Test 3368 3370	血钾
+T49	Test_Value 3371 3375;3376 3384	3. 0 mmol / L
+T50	Test 3437 3443	17-羟孕酮
+T51	Test 3479 3484	染色体核型
+T52	Test 3491 3495	妇科彩超
+T53	Test 3510 3515	肾上腺彩超
+T54	Disease 3557 3561;3562 3569	先天性肾 上腺皮质增生症
+T55	Drug 4126 4129	雌激素
+T56	Drug 4130 4133	黄体酮
+T57	Test 4148 4150	血压
+T58	Test 4151 4153	血钾
+T59	Symptom 4189 4193	腹部不适
+T60	Test 4194 4199	腹部 CT
+T61	Test 4299 4303	ACTH
+T62	Test_Value 4304 4320	110. 77 pmol / L
+T63	Test 4354 4358	ACTH
+T64	Test_Value 4359 4373	21. 8 pmol / L
+T65	Test 4382 4386	ACTH
+T66	Test_Value 4387 4402	151. 4 pmol / L
+T67	Test 4410 4415	血浆皮质醇
+T68	Test_Value 4416 4431	85. 68 nmol / L
+T69	Test 4452 4455;4456 4462	血清卵 泡刺 激 素
+T70	Test 4542 4547	黄体生成素
+T71	Test 4495 4498	FSH
+T72	Test 4617 4620	雌二醇
+T73	Test_Value 4500 4505;4506 4514	24. 8 mIU / ml
+T74	Test 6178 6181	FSH
+T75	Test 6708 6710	睾酮
+T76	Test 6746 6748;6749 6754	硫酸 去氢表雄酮
+T77	Operation 6857 6863;6864 6868	左侧肾上腺肿 瘤切除术
+T78	Disease 6981 6989	肾上腺髓质脂肪瘤
+T79	Test 6991 6999	苏木精-伊红染色
+T80	Anatomy 7033 7039	骨髓造血细胞
+T81	Drug 7072 7077	氢化可的松
+T82	Disease 7096 7099	高血压
+T83	Disease 7100 7103	低血钾
+T84	Symptom 7110 7112	纳差
+T85	Symptom 7113 7115	乏力
+T86	Symptom 7116 7118	胸闷
+T87	Test 7174 7176	血压
+T88	Test 7191 7193	心率
+T89	Test_Value 7138 7144	169 cm
+T90	Test_Value 7148 7153	55 kg
+T91	Test_Value 7159 7173	19. 26 kg / m2
+T92	Test_Value 7177 7190	110 / 84 mmHg
+T93	Test_Value 7194 7204	89 次 / min
+T94	Test 7257 7261	ACTH
+T95	Test 7288 7292	ACTH
+T96	Test 7317 7321	ACTH
+T97	Test 7344 7349	血浆皮质醇
+T98	Test 7375 7380	血浆皮质醇
+T99	Test 7407 7412	血浆皮质醇
+T100	Test 7439 7442;7443 7445	血浆醛 固酮
+T101	Test_Value 7262 7278	223. 00 pmol / L
+T102	Test_Value 7293 7299;7300 7308	20. 20 pmol / L
+T103	Test_Value 7322 7336	2. 17 pmol / L
+T104	Test_Value 7350 7366	855. 00 nmol / L
+T105	Test_Value 7381 7397	117. 00 nmol / L
+T106	Test_Value 7413 7428	56. 00 nmol / L
+T107	Test_Value 7446 7461	111. 43 ng / dl
+T108	Test 7539 7540;7541 7542	睾 酮
+T109	Test 7558 7564	DHEA-S
+T110	Disease 7604 7607	高血压
+T111	Disease 7608 7611	低血钾
+T112	Disease 7618 7623	原发性闭经
+T113	Disease 7624 7626;7627 7632	双侧 乳房发育差
+T114	Disease 7633 7640	外生殖器幼女式
+T115	Drug 7680 7685	糖皮质激素
+T116	Drug 7686 7690	雌孕激素
+T117	Test 7708 7713	腹部 CT
+T118	Anatomy 7848 7852	脂肪组织
+T119	Test 8461 8463	LH
+T120	Test 8464 8467	FSH
+T121	Disease 8626 8629	CAH
+T122	Anatomy 8772 8773;8774 8775	性 腺
+T123	Anatomy 8792 8800	CYP17 基因
+T124	Anatomy 8801 8804	肾上腺
+T125	Anatomy 8805 8807	性腺
+T126	Anatomy 8829 8832	肾上腺
+T127	Anatomy 8833 8835	性腺
+T128	Anatomy 8851 8859	肾上腺皮质束状带
+T129	Disease 8913 8915;8916 8918	钠水 潴留
+T130	Disease 8919 8924	血容量增加
+T131	Disease 8925 8928	高血压
+T132	Disease 8929 8932	低血钾
+T133	Anatomy 8935 8937	性腺
+T134	Test 8988 8991	雄激素
+T135	Test 8992 8995	雌激素
+T136	Test 8997 9000	孕激素
+T137	Test 9010 9013	FSH
+T138	Test 9015 9017	LH
+T139	Test 9032 9036	ACTH
+T140	Disease 9042 9051	双侧肾上腺增生肥大
+T141	Drug 9063 9068	糖皮质激素
+T142	Disease 9112 9122	17α-羟化酶缺陷症
+T143	Disease 9183 9186	AML
+T144	Disease 9195 9202	肾上腺良性肿瘤
+T145	Anatomy 9214 9220	骨髓造血细胞
+T146	Anatomy 9228 9230;9231 9236	肾上 腺皮质细胞
+T147	Disease 9240 9243	AML
+T148	Disease 9341 9349	肾上腺髓质脂肪瘤
+T149	Disease 9362 9365	CAH
+T150	Disease 9366 9371	库欣综合征
+T151	Disease 9372 9377	阿狄森氏病
+T152	Disease 9378 9380	腺瘤
+T153	Disease 9381 9383	肥胖
+T154	Disease 9385 9388	糖尿病
+T155	Disease 9405 9408	CAH
+T156	Disease 9410 9414;9415 9416	库欣综合 征
+T157	Disease 9438 9446	肾上腺髓质脂肪瘤
+T158	Disease 9457 9463	儿茶酚胺增高
+T159	Disease 9471 9473;9474 9477	库欣 综合征
+T160	Disease 9486 9488	腺瘤
+T161	Disease 9571 9581	17α-羟化酶缺陷症
+T162	Disease 9590 9598	肾上腺髓质脂肪瘤
+T163	Drug 9767 9772	糖皮质激素
+T164	Disease 9804 9809	髓质脂肪瘤
+T165	Disease 9895 9898	CAH
+T166	Disease 9942 9949;9950 9951	肾上腺髓质脂肪 瘤
+T167	Disease 10003 10005;10006 10009	髓质 脂肪瘤
+T168	Disease 10025 10028	CAH
+T169	Test 10052 10056;10057 10058	肾上腺彩 超
+T170	Symptom 10085 10088;10089 10090	腹部不 适
+T171	Disease 10124 10127	CAH
+T172	Disease 10148 10153	肾上腺肿瘤
+T173	Drug 10189 10194	糖皮质激素
+T174	Disease 10230 10240	双侧肾上腺髓质脂肪瘤
+T175	Disease 10245 10252;10253 10256	左侧肾上腺髓质 脂肪瘤
+T176	Disease 10258 10261	CAH
+T177	Disease 10263 10271	肾上腺髓质脂肪瘤
+T178	Disease 10300 10308	肾上腺髓质脂肪瘤
+T179	Anatomy 10380 10385	肾上腺组织
+T180	Anatomy 10388 10392	脂肪组织
+T181	Anatomy 10393 10395;10396 10398	骨髓 组织
+T182	Drug 10413 10417	甲基睾酮
+T183	Anatomy 10422 10425	肾上腺
+T184	Anatomy 10428 10432	脂肪组织
+T185	Drug 10436 10443	垂体前叶提取物
+T186	Anatomy 10450 10455	肾上腺皮质
+T187	Anatomy 10456 10458	骨髓
+T188	Drug 10466 10469;10470 10471	甲基睾 酮
+T189	Drug 10472 10479	垂体前叶提取物
+T190	Anatomy 10487 10490	肾上腺
+T191	Anatomy 10501 10505	造血细胞
+T192	Anatomy 10509 10513	脂肪组织
+T193	Anatomy 10539 10542;10543 10549	肾上腺 皮质前体细胞
+T194	Disease 10595 10600	髓质脂肪瘤
+T195	Disease 10655 10661;10662 10666	17α-羟化 酶缺陷症
+T196	Disease 10678 10686	肾上腺髓质脂肪瘤
+T197	Test 10687 10688;10689 10692	病 理检查
+T198	Disease 10783 10792;10793 10794	17α-羟化酶缺陷 症
+T199	Test 10800 10803	雄激素
+T200	Disease 10837 10847	巨大肾上腺髓质脂肪瘤
+T201	Disease 10849 10852	CAH
+T202	Disease 10914 10919	髓质脂肪瘤
+T203	Disease 10971 10974	CAH
+T204	Disease 11021 11026	肾上腺肿瘤
+T205	Disease 11038 11043	髓质脂肪瘤
+T206	Disease 11055 11058;11059 11063	慢性高 ACTH
+T207	Disease 11073 11078	肾上腺肿块
+T208	Disease 11086 11091	髓质脂肪瘤
+T209	Disease 11140 11148	肾上腺髓质脂肪瘤
+T210	Disease 11150 11153	CAH
+T211	Drug 11163 11168	糖皮质激素
+T212	Disease 11198 11206	肾上腺髓质脂肪瘤
+T213	Disease 11222 11225	CAH
+T214	Disease 11255 11263	肾上腺髓质脂肪瘤
+T215	Disease 1018 1021	CAH
+T216	Disease 1138 1141	CAH
+T217	Disease 1230 1233	CAH
+T218	Disease 1750 1753	CAH
+T219	Disease 1970 1973	CAH
+T220	Disease 2022 2025	CAH
+T221	Disease 9524 9527	CAH
+T222	Disease 1050 1053	AML
+T223	Disease 1933 1936	AML
+T224	Disease 26 29	代谢病
+T225	Disease 84 106;107 117	先天性肾上腺皮质增生症(17α-羟化酶缺乏) 伴有肾上腺髓质脂肪瘤
+T226	Disease 2266 2274;2275 2276	常染色体隐性遗传 病
+T227	Anatomy 2336 2349	染色体 10q24-q25
+T228	Disease 2440 2442;2443 2445	低性 激素
+T229	Disease 2539 2543	良性肿瘤
+T230	Disease 2646 2656	(17α-羟化酶缺乏
+T231	Method 3310 3312	口服
+T232	Drug 3586 3589	地塞米
+T233	Test 4570 4573	LH)
+T234	Test 4661 4669	腹部 CT 扫描
+T235	Anatomy 4670 4675	左侧肾上腺
+T236	Anatomy 4697 4702	右侧肾上腺
+T237	Test 4897 4899	CT
+T238	Test 5150 5152	CT
+T239	Anatomy 4904 4908	侧肾上腺
+T240	Anatomy 4931 4936	右侧肾上腺
+T241	Anatomy 5156 5161	左侧肾上腺
+T242	Test 5319 5324	腹部 CT
+T243	Test 5404 5409	实验室检查
+T244	Test 5585 5590	染色体核型
+T245	Disease 5638 5643	原发性闭经
+T246	Disease 5644 5649	原发性闭经
+T247	Disease 5650 5655	原发性闭经
+T248	Anatomy 5656 5658	乳房
+T249	Anatomy 5678 5680	外阴
+T250	Anatomy 5699 5704	阴毛、腋毛
+T251	Test 5757 5759	彩超
+T252	Anatomy 5795 5797	子宫
+T253	Anatomy 5845 5847	卵巢
+T254	Anatomy 5868 5872	双侧卵巢
+T255	Test 5910 5912	血压
+T256	Test 5965 5967	血钾
+T257	Test 6012 6016	ACTH
+T258	Test 6057 6061	ACTH
+T259	Test 6136 6139	COR
+T260	Test 6213 6215	LH
+T261	Test 6247 6254	17α-OHP
+T262	Test 6282 6286	PRGE
+T263	Test 6315 6317	E2
+T264	Test 6352 6355	TES
+T265	Test 6387 6393	DHEA-S
+T266	Test 6429 6442	ACTH:促肾上腺皮质激素
+T267	Test 6471 6478	COR:皮质醇
+T268	Test 6527 6536	LH:黄体生成激素
+T269	Test 6557 6572	17α-OHP:17α-羟孕酮
+T270	Test 6598 6605	PRGE:孕酮
+T271	Test 6619 6625	E2:雌二醇
+T272	Test 6636 6642	TES:睾酮
+T273	Test 6656 6665;6666 6671	DHEA-S:硫酸 去氢表雄酮
+T274	Disease 6911 6912;6913 6914	瘤 体
+T275	Operation 7772 7776	手术切除
+T276	Disease 7795 7802	左侧肾上腺肿瘤
+T277	Test 7842 7845	低倍镜
+T278	Anatomy 7853 7858	造血细胞和
+T279	Anatomy 7858 7865	肾上腺皮质细胞
+T280	Test 8032 8035	高倍镜
+T281	Anatomy 8062 8066	造血细胞
+T282	Anatomy 8072 8079	肾上腺皮质细胞
+T283	Disease 8329 8336	左侧肾上腺肿瘤
+T284	Test 8337 8339	病理
+T285	Test 8421 8425	激素检查
+T286	Test 8758 8761	皮质醇
+T287	Test 8780 8783	性激素
+T288	Disease 8819 8823	基因缺陷
+T289	Test 9128 9132	基因检测
+T290	Disease 9354 9356;9357 9360	内分 泌疾病
+T291	Treatment 9752 9756;9757 9759	激素替代 治疗
+T292	Disease 9848 9850	肿瘤
+T293	Disease 9860 9862	肿瘤
+T294	Drug 10568 10575	垂体前叶提取物
+T295	Disease 10728 10730	肿瘤
+T296	Operation 10862 10864	手术
+T297	Disease 10868 10870	肿瘤
+T298	Disease 10895 10897	肿瘤
+T299	Test 10978 10983;10984 10986	腹部 CT 扫描
+T300	Disease 11030 11032	肿瘤
+T301	Anatomy 239 255	P450c17(CYP17)基因
+T302	Operation 3161 3171	双侧肾上腺肿瘤切除术
+T303	Symptom 3173 3175	纳差
+T304	Symptom 3176 3178	乏力
+T305	Test_Value 3235 3260	150 ~ 160 / 90 ~ 105 mmHg
+T306	Test_Value 3287 3307	2. 8 ~ 3. 0 mmol / L
+T307	Test_Value 4620 4635	<73. 4 pmol / L
+T308	Test_Value 6710 6725	<0. 69 nmol / L
+T309	Test_Value 6794 6795;6796 6809	< 15. 0 μg / dl
+T310	Test_Value 7504 7519	47. 00 mIU / ml
+T311	Test 7501 7503	LH
+T312	Test_Value 7542 7557	<0. 69 nmol / L
+T313	Test_Value 7564 7578	<15. 0 μg / dl
+T314	Test_Value 8454 8458	明显偏低
+T315	Test_Value 8471 8473	偏高
+T316	Test_Value 9003 9007	明显降低
+T317	Test_Value 9020 9023;9024 9025	明显升 高
+T318	Test_Value 9037 9039	升高
+T319	Test_Value 9788 9790	升高
+T320	Duration 9954 9959	30 多年
+T321	Duration 9917 9924	1 ~ 2 年
+T322	Test_Value 11183 11184;11185 11186	升 高
+T323	Symptom 4158 4160;4161 4165	月经 亦可来潮
+T324	Test_Value 4213 4231	左侧肿块大小 15 cm×10 cm
+T325	Test_Value 4232 4237;4238 4254	右侧肿块大 小 6 cm×5 cm,边界清楚
+T326	Test_Value 4255 4260	有完整包膜
+T327	Test_Value 4272 4280	肿块内密度不均匀
+T328	Symptom 6895 6899	包膜完整
+T329	Symptom 6900 6906	呈膨胀性生长
+T330	Symptom 7237 7245	无阴毛、腋毛生长
+T331	Test_Value 7786 7789	肾上腺
+T332	Test_Value 8491 8501	子宫均明显小于正常人
+T333	Anatomy 9317 9321	脂肪细胞
+T334	Disease 171 182	先天性肾上腺皮质增生症
+T335	Disease 188 196	肾上腺髓质脂肪瘤
+T336	Disease 183 186	CAH
+T337	Disease 197 200	AML
+T338	Disease 267 270	CAH
+T339	Disease 274 282	肾上腺髓质脂肪瘤
+T340	Symptom 413 416	高血压
+T341	Symptom 417 420	低血钾
+T342	Symptom 421 426	原发性闭经
+T343	Symptom 427 433	性腺发育不良
+T344	Disease 479 482	CAH
+T345	Disease 486 489	AML
+T346	Disease 503 504;505 512	高 ACTH 血症
+T347	Disease 2255 2258	CAH
+T348	Test 2278 2285	肾上腺皮质激素
+T349	Disease 2307 2316	17α-羟化酶缺乏
+T350	Anatomy 2352 2356;2357 2367	细胞色素 P450c17 基因
+T351	Anatomy 2384 2387;2388 2390	肾上腺 皮质
+T352	Anatomy 2391 2393	性腺
+T353	Test 2402 2407	血浆皮质醇
+T354	Test 2411 2413;2414 2420	促肾 上腺皮质激素
+T355	Symptom 2451 2454	高血压
+T356	Symptom 2455 2458	低血钾
+T357	Symptom 2459 2466	男性假两性畸形
+T358	Symptom 2468 2476	女性性腺发育不良
+T359	Anatomy 2530 2538	肾上腺皮质或髓质
+T360	Disease 2618 2626	肾上腺髓质脂肪瘤
+T361	Disease 2611 2614	CAH
+T362	Disease 2688 2696	肾上腺髓质脂肪瘤
+T363	Disease 2682 2685	CAH
+T364	Anatomy 2795 2802	17α-羟化酶
+T365	Anatomy 2932 2940	CYP17 基因
+T366	Test 3386 3397	8 : 00 ACTH
+T367	Test_Value 3398 3409	107 pg / ml
+T368	Test_Value 3444 3456	0. 3 ng / ml
+T369	Test_Value 3486 3490	46XX
+T370	Anatomy 3499 3501	子宫
+T371	Anatomy 3502 3504	卵巢
+T372	Test_Value 3517 3533;3534 3539	右肾上腺一低回声区 29 mm× 20 mm
+T373	Test_Value 3541 3552	左肾上腺未见占位性病灶
+T374	Anatomy 3570 3577	17α-羟化酶
+T375	Amount 4110 4118	0. 75 mg
+T376	Anatomy 4207 4210	肾上腺
+T377	Anatomy 4266 4267;4268 4271	脂 肪组织
+T378	Test_Value 4574 4588	18. 3 mIU / ml
+T379	Test 6488 6491	FSH
+T380	Anatomy 6872 6881	左腹膜后肾上腺区域
+T381	Disease 6892 6894	肿瘤
+T382	Operation 6957 6967	右侧肾上腺肿瘤切除术
+T383	Test 6972 6976	术后病理
+T384	Anatomy 7048 7055	肾上腺皮质细胞
+T385	Amount 7083 7088	20 mg
+T386	Frequency 7077 7081	每天早晚
+T387	Symptom 7205 7212	皮肤无色素沉着
+T388	Symptom 7213 7220	双侧乳房发育差
+T389	Symptom 7221 7224;7225 7228	心肺未 见异常
+T390	Symptom 7229 7236	外生殖器幼女式
+T391	Test 7486 7490	血浆肾素
+T392	Test_Value 7523 7538	<73. 4 pmol / L
+T393	Test 7520 7523	雌二醇
+T394	Anatomy 7660 7667	17α-羟化酶
+T395	Disease 7656 7659	CAH
+T396	Disease 7718 7723	肾上腺肿块
+T397	Disease 7738 7743	肾上腺肿块
+T398	Disease 7755 7760	肾上腺肿块
+T399	Test 7778 7782	术后病理
+T400	Disease 8409 8414	髓质脂肪瘤
+T401	Test 8443 8447	血雌二醇
+T402	Test 8448 8451	孕激素
+T403	Test 8478 8482	妇科彩超
+T404	Anatomy 8510 8512;8513 8515	双侧 卵巢
+T405	Disease 8531 8542	先天性肾上腺皮质增生症
+T406	Disease 8543 8546	CAH
+T407	Test 8554 8561	皮质类固醇激素
+T408	Reason 8576 8577;8578 8586	类 固醇激素合成障碍
+T409	Anatomy 8605 8612	17α-羟化酶
+T410	Anatomy 8643 8658	细胞色素 P450c17 基因
+T411	Anatomy 8678 8685	17α-羟化酶
+T412	Anatomy 8687 8696	17,20-裂链酶
+T413	Test 8702 8707	类固醇激素
+T414	Anatomy 8721 8723;8724 8725	肾上 腺
+T415	Anatomy 8726 8728	性腺
+T416	Anatomy 8744 8749;8750 8753	肾上腺皮质 束状带
+T417	Anatomy 8765 8771	肾上腺网状带
+T418	Test 8836 8837;8838 8842	类 固醇激素
+T419	Test 8862 8863;8864 8866	皮 质醇
+T420	Test 8871 8875	ACTH
+T421	Test 8888 8890;8891 8894	盐皮 质激素
+T422	Test 8897 8902	脱氧皮质酮
+T423	Test 8903 8906	皮质酮
+T424	Anatomy 8939 8945;8946 8949	17,20- 裂链酶
+T425	Test 8957 8962	脱氢表雄酮
+T426	Test 8963 8967	雄烯二酮
+T427	Test 8968 8970	睾酮
+T428	Test 8972 8975	雌二醇
+T429	Test 9072 9076	ACTH
+T430	Anatomy 9144 9161	17α-羟化酶的 CYP17 基因
+T431	Disease 9272 9274	坏死
+T432	Disease 9275 9277	感染
+T433	Disease 9278 9280	烧伤
+T434	Disease 9281 9282;9283 9284	贫 血
+T435	Anatomy 9293 9300	肾上腺皮质细胞
+T436	Anatomy 9303 9306;9307 9314	毛细血 管网状内皮细胞
+T437	Anatomy 9322 9326	造血细胞
+T438	Disease 9548 9556	肾上腺髓质脂肪瘤
+T439	Disease 9542 9545	CAH
+T440	Disease 9633 9634;9635 9642	肾 上腺髓质脂肪瘤
+T441	Disease 9625 9628	CAH
+T442	Disease 9667 9675	肾上腺髓质脂肪瘤
+T443	Disease 9658 9661	CAH
+T444	Anatomy 9693 9698;9699 9700	21-羟化 酶
+T445	Anatomy 9708 9715	11β-羟化酶
+T446	Anatomy 9723 9730	17α-羟化酶
+T447	Test 9781 9787	血 ACTH
+T448	Disease 9822 9827	髓质脂肪瘤
+T449	Test 9970 9974	ACTH
+T450	Test 9987 9991	ACTH
+T451	Anatomy 10033 10038	右侧肾上腺
+T452	Test 10060 10066	肾上腺 CT
+T453	Test 10067 10070	MRI
+T454	Test 10091 10096	腹部 CT
+T455	Disease 10104 10109	肾上腺肿块
+T456	Disease 10165 10170;10171 10174	肾上腺髓质 脂肪瘤
+T457	Treatment 10189 10196;10197 10199	糖皮质激素替代 治疗
+T458	Test 10207 10211	ACTH
+T459	Test 10294 10298	ACTH
+T460	Anatomy 10357 10362	脑垂体前叶
+T461	Drug 10366 10370	甲基睾酮
+T462	Disease 10526 10531	髓质脂肪瘤
+T463	Test 10534 10537	雄激素
+T464	Test 10584 10588	ACTH
+T465	Test 10590 10593	雄激素
+T466	Test 10612 10616	ACTH
+T467	Test_Value 10694 10710	肾上腺皮质细胞呈现过度增生和肥大
+T468	Test_Value 10711 10712;10713 10723	并 伴有大量淋巴细胞浸润
+T469	Test 10740 10744	ACTH
+T470	Anatomy 10750 10757	肾上腺皮质细胞
+T471	Disease 10768 10775	灶性坏死和变性
+T472	Test 10874 10878	ACTH
+T473	Anatomy 10880 10885	雄激素受体
+T474	Test 10924 10928	ACTH
+T475	Test 10930 10933	雄激素
+T476	Disease 11120 11130	17α-羟化酶缺陷症
+T477	Disease 11116 11119	CAH
+T478	Test 11176 11182	血 ACTH
+T479	Test 11192 11196	ACTH
+T480	Test 11239 11246	肾上腺 B 超
+T481	Test 11248 11250	CT

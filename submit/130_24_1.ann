@@ -1,0 +1,685 @@
+T1	Disease 276 279	糖尿病
+T2	Anatomy 294 298	β 细胞
+T3	Anatomy 301 304	胰岛素
+T4	Disease 340 343	糖尿病
+T5	Anatomy 346 348	胰岛
+T6	Anatomy 351 354	胰岛素
+T7	Anatomy 419 422	胰岛素
+T8	Anatomy 448 450	胰岛
+T9	Anatomy 454 457	胰岛素
+T10	Anatomy 522 529	胰岛 β 细胞
+T11	Anatomy 544 551	胰岛 β 细胞
+T12	Drug 590 594	降糖药物
+T13	Anatomy 596 600	β 细胞
+T14	Anatomy 621 623	胰岛
+T15	Anatomy 629 633	脑肠胰轴
+T16	Disease 635 639	慢性炎症
+T17	Anatomy 705 709	β 细胞
+T18	Anatomy 721 723;724 731	胰岛 素样生长因子2
+T19	Anatomy 739 741	胰岛
+T20	Anatomy 766 770	β 细胞
+T21	Disease 775 776;777 781	2 型糖尿病
+T22	Anatomy 807 812	PPARβ
+T23	Anatomy 820 826	GLP-1R
+T24	Anatomy 832 836;837 839	胰岛 β 细胞
+T25	Anatomy 878 889	β-arrestin2
+T26	Anatomy 891 892;893 899	胰 岛 β 细胞
+T27	Anatomy 921 928	胰岛 β 细胞
+T28	Disease 961 967	2 型糖尿病
+T29	Anatomy 968 972	β 细胞
+T30	Anatomy 995 999	mTOR
+T31	Anatomy 1002 1009	胰岛 β 细胞
+T32	Anatomy 1045 1049	脂肪组织
+T33	Anatomy 1049 1053	巨噬细胞
+T34	Disease 1057 1062	胰岛素抵抗
+T35	Anatomy 1064 1068	β 细胞
+T36	Anatomy 1103 1106	下丘脑
+T37	Anatomy 1107 1109	垂体
+T38	Anatomy 1110 1117	胰岛细胞瘤组织
+T39	Test 1137 1141	胰岛功能
+T40	Anatomy 1144 1148	巨噬细胞
+T41	Anatomy 1170 1176	脑-肠-胰轴
+T42	Disease 1185 1193	代谢性炎症综合征
+T43	Disease 1229 1232	MIS
+T44	Anatomy 1261 1264	胰岛素
+T45	Anatomy 1304 1307	胰岛素
+T46	Anatomy 1319 1321	胰岛
+T47	Anatomy 1609 1611	胰岛
+T48	Anatomy 1614 1617	胰岛素
+T49	Anatomy 1730 1737	胰岛 β 细胞
+T50	Anatomy 1755 1762	胰岛 β 细胞
+T51	Anatomy 1972 1976	β 细胞
+T52	Anatomy 1996 1997;1998 2000	β 细胞
+T53	Disease 2049 2052	糖尿病
+T54	Test 2060 2069	口服葡萄糖耐量试验
+T55	Anatomy 2134 2137	胰岛素
+T56	Disease 2164 2167	糖尿病
+T57	Anatomy 2170 2177	胰腺 β 细胞
+T58	Reason 2236 2241	胰岛素抵抗
+T59	Test 2249 2253	体重指数
+T60	Test 2254 2257	BMI
+T61	Test 2267 2272;2273 2275	第一时相胰 岛素
+T62	Disease 2317 2323	2 型糖尿病
+T63	Disease 2324 2328	T2DM
+T64	Test 2352 2364	血清 25-羟维生素 D
+T65	Test 2365 2367;2368 2370	空腹 血糖
+T66	Test 2371 2374	胰岛素
+T67	Test 2390 2391;2392 2401	血 25-羟维生素 D
+T68	Test 2403 2417	稳态模型评估的胰岛素抵抗指数
+T69	Test 2419 2426	HOMA-IR
+T70	Test 2428 2439	胰岛 β 细胞分泌指数
+T71	Test 2440 2446	HOMA-β
+T72	Test 2468 2471	糖耐量
+T73	Disease 2478 2482	T2DM
+T74	Test 2492 2496	空腹血糖
+T75	Test 2504 2513	谷氨酸 /谷氨酰胺
+T76	Test 2514 2518	空腹血糖
+T77	Test 2525 2527;2528 2529	缬氨 酸
+T78	Test 2540 2542	血糖
+T79	Test 2549 2553	谷氨酰胺
+T80	Test 2566 2570	松田指数
+T81	Test 2571 2581	餐后胰岛素敏感性指数
+T82	Test 2590 2593	丙氨酸
+T83	Test 2647 2651	RBP4
+T84	Anatomy 2655 2659	β 细胞
+T85	Test 2668 2672	RBP4
+T86	Anatomy 2676 2678	肝脏
+T87	Anatomy 2679 2683	脂肪组织
+T88	Anatomy 2691 2695	β 细胞
+T89	Test 2733 2735	血压
+T90	Test 2739 2745;2746 2747	臂踝脉搏波速 度
+T91	Test 2748 2750	血糖
+T92	Test 2753 2759	胰岛素敏感性
+T93	Anatomy 2761 2765	β 细胞
+T94	Disease 2774 2778	高血压病
+T95	Disease 2820 2822	肥胖
+T96	Test 2826 2828	肝酶
+T97	Anatomy 2837 2844	胰岛 β 细胞
+T98	Disease 2867 2874;2875 2879	A 型胰岛素抵 抗综合征
+T99	Test 2896 2900;2901 2903	胰岛素敏 感性
+T100	Anatomy 2905 2909	β 细胞
+T101	Disease 2923 2930;2931 2935	A 型胰岛素抵 抗综合征
+T102	Test 2966 2969	胰岛素
+T103	Test 2971 2974	C 肽
+T104	Test 2996 3006;3007 3008	第一时相胰岛素分泌功 能
+T105	Test 3033 3036;3037 3038	空腹血 糖
+T106	Test_Value 3040 3061	7. 0 ~ 13. 0 mmol / L
+T107	Test 3062 3065	BMI
+T108	Test_Value 3065 3076	<30 kg / m2
+T109	Drug 3095 3099	二甲双胍
+T110	Drug 3100 3107	格列吡嗪缓释片
+T111	Duration 3113 3117	24 周
+T112	Drug 3123 3127	二甲双胍
+T113	Disease 3134 3135;3136 3137	肥 胖
+T114	Disease 3138 3142	T2DM
+T115	Test 3146 3155	胰岛 β 细胞功能
+T116	Anatomy 3167 3170	胰岛素
+T117	Disease 3190 3195	精神分裂症
+T118	Duration 3206 3210	12 周
+T119	Test 3217 3221	帕利哌酮
+T120	Drug 3222 3225	奥氮平
+T121	Test 3231 3233	体重
+T122	Test 3234 3237	BMI
+T123	Test 3238 3240	腰围
+T124	Test 3241 3242;3243 3244	臀 围
+T125	Anatomy 3245 3249	皮下脂肪
+T126	Test 3250 3254	总胆固醇
+T127	Test 3255 3259	甘油三酯
+T128	Test 3260 3263	催乳素
+T129	Test 3269 3273	空腹血糖
+T130	Test 3274 3283	低密度脂蛋白胆固醇
+T131	Test 3285 3291	HOMA-β
+T132	Disease 3337 3343	妊娠期糖尿病
+T133	Disease 3344 3347	GDM
+T134	Test 3350 3352	血糖
+T135	Anatomy 3368 3370	胰岛
+T136	Disease 3403 3406	GDM
+T137	Level 3421 3423	晚期
+T138	Disease 3423 3428	胰岛素抵抗
+T139	Anatomy 3430 3434	β 细胞
+T140	Test 3456 3463	HOMA-IR
+T141	Test 3466 3472	HOMA-β
+T142	Test 3489 3492;3493 3501	第一时 相胰岛素分泌指数
+T143	Disease 3509 3512	GDM
+T144	Disease 3519 3522	GDM
+T145	Test 3527 3529	IR
+T146	Anatomy 3563 3571	APPL1 基因
+T147	Anatomy 3580 3585	APPL1
+T148	Anatomy 3587 3594	胰岛 β 细胞
+T149	Anatomy 3610 3615	APPL1
+T150	Anatomy 3620 3627	胰腺 β 细胞
+T151	Anatomy 3637 3640	胰岛素
+T152	Anatomy 3646 3653	β 细胞线粒体
+T153	Test_Value 3665 3669	显著降低
+T154	Anatomy 3670 3675	APPL1
+T155	Anatomy 3679 3682	胰岛素
+T156	Test 3686 3691	线粒体功能
+T157	Disease 3702 3706	T2DM
+T158	Reason 3774 3786	葡萄糖刺激胰岛素分泌缺陷
+T159	Anatomy 3787 3789	胰岛
+T160	Anatomy 3798 3802	β 细胞
+T161	Anatomy 3827 3833	胰岛素瘤细胞
+T162	Anatomy 3835 3839	β 细胞
+T163	Anatomy 3852 3856	mTOR
+T164	Anatomy 3867 3871	mTOR
+T165	Anatomy 3883 3892	胰腺特异性效应蛋白
+T166	Anatomy 3897 3901	mTOR
+T167	Anatomy 3942 3964	micro RNA-24 / MODY 基因
+T168	Anatomy 3974 3978	β 细胞
+T169	Anatomy 3981 3993	micro RNA-24
+T170	Anatomy 3999 4003	β 细胞
+T171	Disease 4013 4018	遗传性肥胖
+T172	Anatomy 4029 4031	胰岛
+T173	Anatomy 4039 4051	micro RNA-24
+T174	Anatomy 4059 4062	胰岛素
+T175	Anatomy 4068 4072	β 细胞
+T176	Reason 4097 4100	糖毒性
+T177	Anatomy 4109 4113	β 细胞
+T178	Anatomy 4117 4121	TLR3
+T179	Anatomy 4127 4141	TLR3 活化 p38 激酶
+T180	Anatomy 4143 4147;4148 4156	磷酸化细 胞周期蛋白 D1
+T181	Anatomy 4167 4169	D2
+T182	Anatomy 4216 4220	β 细胞
+T183	Disease 4227 4229	IR
+T184	Test 4243 4245	血糖
+T185	Disease 4255 4259	T2DM
+T186	Anatomy 4284 4286	胰岛
+T187	Test 4313 4320	鞘氨醇激酶 1
+T188	Anatomy 4325 4329	β 细胞
+T189	Test 4339 4346	鞘氨醇激酶 1
+T190	Test 4351 4353	血糖
+T191	Test_Value 4353 4355	升高
+T192	Test 4356 4359	胰岛素
+T193	Anatomy 4392 4401	血管紧张素 1-7
+T194	Anatomy 4405 4410	胰腺微循环
+T195	Anatomy 4414 4415;4416 4418	β 细胞
+T196	Anatomy 4438 4447	PPARβ / δ
+T197	Anatomy 4456 4464	胰升糖素样肽 1
+T198	Anatomy 4465 4470	GLP-1
+T199	Anatomy 4478 4482	β 细胞
+T200	Anatomy 4496 4499;4500 4501	β 细 胞
+T201	Anatomy 4538 4542	β 细胞
+T202	Disease 4567 4572;4573 4574	2 型糖尿 病
+T203	Disease 4575 4579	T2DM
+T204	Anatomy 4585 4589	β 细胞
+T205	Disease 4619 4623	T2DM
+T206	Test 4630 4635;4636 4637	β 细胞功 能
+T207	Disease 4665 4669	T2DM
+T208	Anatomy 4676 4680	β 细胞
+T209	Drug 4711 4719	α-糖苷酶抑制剂
+T210	Drug 4719 4722;4723 4724	阿卡波 糖
+T211	Disease 4727 4732	糖耐量受损
+T212	Disease 4734 4737	IGT
+T213	Disease 4740 4744	T2DM
+T214	Drug 4760 4768	α-糖苷酶抑制剂
+T215	Anatomy 4782 4786	肠促胰素
+T216	Anatomy 4792 4794	肠道
+T217	Drug 4821 4825	二甲双胍
+T218	Disease 4836 4840	T2DM
+T219	Drug 4845 4849	阿卡波糖
+T220	Test 4851 4858;4859 4870	稳态模型评估的 胰岛 β 细胞分泌指数
+T221	Test 4871 4877	HOMA-β
+T222	Disease 4897 4900	糖尿病
+T223	Drug 4913 4917	二甲双胍
+T224	Disease 4921 4924	糖尿病
+T225	Anatomy 4939 4943	β 细胞
+T226	Disease 4970 4977	肝脏胰岛素抵抗
+T227	Anatomy 4980 4984	β 细胞
+T228	Drug 4999 5003	二甲双胍
+T229	Anatomy 5007 5011	β 细胞
+T230	Anatomy 5017 5021	β 细胞
+T231	Drug 5037 5041	二甲双胍
+T232	Anatomy 5043 5047	β 细胞
+T233	Drug 5058 5064	促泌剂磺脲类
+T234	Anatomy 5073 5076;5077 5078	β 细 胞
+T235	Drug 5091 5095	格列苯脲
+T236	Anatomy 5102 5106	β 细胞
+T237	Disease 5120 5124	T2DM
+T238	Drug 5132 5135	胰岛素
+T239	Drug 5136 5140	格列苯脲
+T240	Anatomy 5148 5152	β 细胞
+T241	Drug 5186 5190	格列苯脲
+T242	Drug 5195 5199	格列齐特
+T243	Drug 5206 5209	胰岛素
+T244	Drug 5223 5227	格列齐特
+T245	Drug 5259 5263	格列齐特
+T246	Anatomy 5266 5273	超氧化物歧化酶
+T247	Anatomy 5274 5279	过氧化氢酶
+T248	Anatomy 5281 5285	抗氧化酶
+T249	Anatomy 5299 5301	胰岛
+T250	Drug 5305 5309	格列奇特
+T251	Anatomy 5314 5319	PDX-1
+T252	Drug 5339 5343	格列齐特
+T253	Anatomy 5348 5352	β 细胞
+T254	Drug 5364 5370	噻唑烷二酮类
+T255	Drug 5372 5376	吡格列酮
+T256	Drug 5377 5379;5380 5382	罗格 列酮
+T257	Anatomy 5396 5400	β 细胞
+T258	Drug 5414 5418	罗格列酮
+T259	Disease 5427 5430	IGT
+T260	Disease 5435 5439	T2DM
+T261	Drug 5457 5461	吡格列酮
+T262	Disease 5470 5473	IGT
+T263	Disease 5478 5482	T2DM
+T264	Drug 5493 5496;5497 5498	吡格列 酮
+T265	Anatomy 5501 5504	软脂酸
+T266	Anatomy 5510 5514	β 细胞
+T267	Drug 5537 5554	二肽基肽酶 4(DPP-4)抑制剂
+T268	Drug 5554 5556;5557 5559	西格 列汀
+T269	Anatomy 5563 5567	β 细胞
+T270	Anatomy 5577 5581	β 细胞
+T271	Anatomy 5585 5586;5587 5589	β 细胞
+T272	Anatomy 5621 5625	β 细胞
+T273	Anatomy 5635 5643	胰升糖素样肽 1
+T274	Anatomy 5645 5650	GLP-1
+T275	Anatomy 5657 5659	胰岛
+T276	Drug 5688 5692	利拉鲁肽
+T277	Drug 5698 5702	二甲双胍
+T278	Test 5706 5715	胰岛素原 /胰岛素
+T279	Anatomy 5735 5739	β 细胞
+T280	Test 5826 5832	β 细胞功能
+T281	Disease 5869 5873	T2DM
+T282	Anatomy 5880 5884	β 细胞
+T283	Anatomy 5906 5910	β 细胞
+T284	Drug 5927 5932	短期胰岛素
+T285	Test 5944 5950	HOMA-β
+T286	Disease 5966 5975	胰 岛 素 抵 抗
+T287	Test 5981 5988	HOMA-IR
+T288	Drug 5993 5996	胰岛素
+T289	Test_Value 6001 6005	显著降低
+T290	Anatomy 6020 6024	β 细胞
+T291	Anatomy 6079 6085	脑-肠-胰轴
+T292	Anatomy 6099 6103	胃肠胰轴
+T293	Anatomy 6104 6106	胰岛
+T294	Operation 6115 6122	胃肠道减重手术
+T295	Disease 6127 6130	糖尿病
+T296	Test 6134 6138	胰岛功能
+T297	Anatomy 6146 6148	胃肠
+T298	Anatomy 6149 6151	胰岛
+T299	Disease 6184 6190	2 型糖尿病
+T300	Disease 6191 6195	T2DM
+T301	Anatomy 6201 6205	β 细胞
+T302	Operation 6235 6241	胃肠减重手术
+T303	Test 6244 6248	体重指数
+T304	Test 6250 6253	BMI
+T305	Test_Value 6254 6269	30 ~ 35 kg / m2
+T306	Disease 6272 6276	T2DM
+T307	Test 6293 6295	血糖
+T308	Test 6302 6307	HBA1C
+T309	Test_Value 6308 6311	<7%
+T310	Test 6326 6330	胰岛功能
+T311	Test 6347 6351	胰岛功能
+T312	Operation 6395 6401	外科手术治疗
+T313	Test 6402 6408	血浆 C-肽
+T314	Disease 6485 6488	糖尿病
+T315	Anatomy 6488 6490	胰岛
+T316	Disease 6516 6517;6518 6520	糖 尿病
+T317	Disease 6532 6536	T2DM
+T318	Anatomy 6558 6562	CCKR
+T319	Reason 6581 6590	胰岛素信号通路受损
+T320	Disease 6597 6600	糖尿病
+T321	Anatomy 6603 6607	β 细胞
+T322	Anatomy 6616 6620	β 细胞
+T323	Disease 6630 6633	糖尿病
+T324	Anatomy 6636 6640	β 细胞
+T325	Anatomy 6649 6653	β 细胞
+T326	Disease 6678 6681	糖尿病
+T327	Anatomy 6683 6684;6685 6687	β 细胞
+T328	Test_Value 6744 6755	7. 8 mm / L
+T329	Test_Value 6759 6770	7. 0 mm / L
+T330	Disease 6803 6806	糖尿病
+T331	Disease 6826 6830	T2DM
+T332	Disease 6842 6845	糖尿病
+T333	Anatomy 6862 6866	脑肠胰轴
+T334	Anatomy 6867 6869	胰岛
+T335	Anatomy 6877 6891	下丘脑-垂体-胰岛细胞瘤组织
+T336	Anatomy 6915 6920	GMRP1
+T337	Anatomy 6926 6930	脑肠胰轴
+T338	Anatomy 6943 6947	脑肠胰轴
+T339	Test 6971 6975;6976 6980	胰升糖素 样肽 1
+T340	Anatomy 6981 6986	GLP-1
+T341	Anatomy 6993 6997	脑肠胰轴
+T342	Anatomy 7005 7007	大脑
+T343	Anatomy 7008 7010	脑干
+T344	Anatomy 7016 7021	GLP-1
+T345	Anatomy 7035 7037	肠道
+T346	Anatomy 7041 7046	GLP-1
+T347	Anatomy 7068 7072	胰岛细胞
+T348	Anatomy 7074 7080	TCF7L2
+T349	Anatomy 7085 7090	GLP-1
+T350	Anatomy 7095 7100	GLP-1
+T351	Anatomy 7104 7109	GLP-1
+T352	Anatomy 7116 7122	TCF7L2
+T353	Anatomy 7135 7141	TCF7L2
+T354	Disease 7150 7154	T2DM
+T355	Drug 7175 7181	γ-氨基丁酸
+T356	Drug 7182 7186	GABA
+T357	Test 7191 7193	血糖
+T358	Disease 7196 7199	糖尿病
+T359	Anatomy 7205 7208	胰岛素
+T360	Disease 7226 7230	慢性炎症
+T361	Anatomy 7231 7235	脑肠胰轴
+T362	Disease 7241 7246	代谢性炎症
+T363	Anatomy 7256 7257;7258 7261	巨 噬细胞
+T364	Anatomy 7283 7286	下丘脑
+T365	Anatomy 7288 7290	肝脏
+T366	Anatomy 7291 7293	脂肪
+T367	Anatomy 7294 7296	胰岛
+T368	Disease 7309 7312;7313 7315	胰岛素 抵抗
+T369	Disease 7316 7318	肥胖
+T370	Disease 7319 7322	脂肪肝
+T371	Disease 7323 7327	T2DM
+T372	Disease 7329 7335	动脉粥样硬化
+T373	Reason 7340 7347	下丘脑慢性炎症
+T374	Disease 7348 7351	糖尿病
+T375	Disease 7369 7372	糖尿病
+T376	Test 7375 7377	穿刺
+T377	Anatomy 7382 7385	下丘脑
+T378	Test 7404 7406	血糖
+T379	Anatomy 7417 7421	巨噬细胞
+T380	Anatomy 7423 7427	脑肠胰轴
+T381	Anatomy 7437 7439;7440 7442	巨噬 细胞
+T382	Test 7519 7525	IL-1RA
+T383	Disease 7531 7534	糖尿病
+T384	Test 7535 7539	胰岛功能
+T385	Test 7540 7548	糖负荷后 C 肽
+T386	Test 7554 7565	血清胰岛素原 /胰岛素
+T387	Test 7570 7575	HBA1C
+T388	Anatomy 7587 7591	IL-6
+T389	Test 7594 7600	C 反应蛋白
+T390	Test 7601 7604	CRP
+T391	Anatomy 7626 7634	miRNA145
+T392	Test 7638 7641	护骨素
+T393	Test 7642 7645	OPG
+T394	Test 7660 7663	OPG
+T395	Test 7675 7678	OPG
+T396	Anatomy 7683 7686	IKK
+T397	Disease 7700 7703	糖尿病
+T398	Anatomy 7709 7717	miRNA145
+T399	Test 7722 7724	血糖
+T400	Test 7726 7728	血压
+T401	Disease 7733 7735;7736 7737	脂肪 肝
+T402	Disease 7738 7743	胰岛素抵抗
+T403	Disease 7744 7750	动脉粥样硬化
+T404	Test 7759 7762	OPG
+T405	Disease 7791 7794	高血压
+T406	Reason 7795 7797	高糖
+T407	Disease 7798 7801	脂肪肝
+T408	Disease 7802 7805	糖尿病
+T409	Reason 7816 7820	慢性炎症
+T410	Disease 7831 7836	代谢性疾病
+T411	Disease 7839 7842	脂肪肝
+T412	Disease 7843 7849	动脉粥样硬化
+T413	Disease 7850 7852	肥胖
+T414	Disease 7854 7858	T2DM
+T415	Disease 7876 7881	代谢性疾病
+T416	Disease 7885 7891;7892 7894	代谢性炎症综 合征
+T417	Disease 7928 7931	MIS
+T418	Anatomy 7937 7939	胰岛
+T419	Anatomy 7953 7957	β 细胞
+T420	Anatomy 7969 7973	β 细胞
+T421	Anatomy 7979 7986	胰岛 β 细胞
+T422	Disease 8000 8004	T2DM
+T423	Reason 8006 8011	胰岛素抵抗
+T424	Anatomy 8014 8017	胰岛素
+T425	Test 8031 8040	胰岛 β 细胞功能
+T426	Reason 8063 8069	胰岛素缺乏型
+T427	Disease 8070 8075	胰岛素抵抗
+T428	Test 8079 8082	胰岛素
+T429	Disease 8122 8125	糖尿病
+T430	Disease 8151 8155	T2DM
+T431	Anatomy 8163 8167	β 细胞
+T432	Disease 8174 8177	糖尿病
+T433	Anatomy 8225 8229	β 细胞
+T434	Disease 8254 8260	2 型糖尿病
+T435	Disease 8261 8265	T2DM
+T436	Anatomy 8281 8284	胰岛素
+T437	Reason 8291 8296	胰岛素抵抗
+T438	Anatomy 8304 8307	胰岛素
+T439	Test 8312 8317	β 细胞量
+T440	Test 8323 8327	胰升糖素
+T441	Drug 8344 8347	胰岛素
+T442	Disease 8350 8353	糖尿病
+T443	Symptom 8358 8361	低血糖
+T444	Reason 8366 8374	胰升糖素分泌受损
+T445	Anatomy 8387 8390	下丘脑
+T446	Anatomy 8391 8393	胰腺
+T447	Anatomy 8394 8396	肝脏
+T448	Anatomy 8397 8399	脂肪
+T449	Anatomy 8400 8402	神经
+T450	Anatomy 8441 8449	胰岛素样生长因子
+T451	Anatomy 8451 8454	IGF
+T452	Anatomy 8459 8461	胰岛
+T453	Anatomy 8473 8477	β 细胞
+T454	Anatomy 8481 8486	IGF-2
+T455	Anatomy 8492 8499	βIGF2KO
+T456	Anatomy 8518 8525	βIGF2KO
+T457	Test 8536 8537;8538 8540	胰 岛素
+T458	Drug 8545 8549	艾塞那肽
+T459	Drug 8561 8562;8563 8566	艾 塞那肽
+T460	Anatomy 8618 8621	胰岛素
+T461	Test 8628 8630	血糖
+T462	Duration 8675 8679	20 周
+T463	Anatomy 8699 8702	胰岛素
+T464	Anatomy 8715 8722	βIGF2KO
+T465	Test 8724 8728;8729 8731	胰岛素敏 感性
+T466	Test 8736 8741	葡萄糖耐量
+T467	Anatomy 8756 8763	βIGF2KO
+T468	Anatomy 8783 8787	β 细胞
+T469	Anatomy 8807 8810	雌激素
+T470	Anatomy 8815 8819	β 细胞
+T471	Anatomy 8844 8853	mir338-3p
+T472	Test 8856 8862	IGF-IR
+T473	Anatomy 8897 8901	β 细胞
+T474	Anatomy 8915 8920	IGF-2
+T475	Anatomy 8922 8926	β 细胞
+T476	Anatomy 8949 8956	βIGF2KO
+T477	Drug 8963 8966;8967 8972	胰岛素 受体拮抗剂
+T478	Test 8974 8979	β 细胞量
+T479	Anatomy 8982 8986	β 细胞
+T480	Disease 9002 9007	胰岛素抵抗
+T481	Anatomy 9011 9016	IGF-2
+T482	Reason 9023 9033	β 细胞量代偿性增加
+T483	Anatomy 9060 9064	神经系统
+T484	Anatomy 9065 9074	葡萄糖转运蛋白 2
+T485	Anatomy 9085 9089	β 细胞
+T486	Anatomy 9111 9120	GLUT-2 基因
+T487	Anatomy 9148 9152	β 细胞
+T488	Anatomy 9163 9168	副交感神经
+T489	Anatomy 9181 9185	β 细胞
+T490	Anatomy 9191 9196	副交感神经
+T491	Anatomy 9198 9202	β 细胞
+T492	Reason 9209 9213;9214 9216	后天扩张 受损
+T493	Test 9221 9229	胰岛 β 细胞量
+T494	Test_Value 9229 9231	降低
+T495	Anatomy 9252 9256	自主神经
+T496	Anatomy 9274 9279	副交感神经
+T497	Anatomy 9288 9292	β 细胞
+T498	Anatomy 9298 9305	胰岛 β 细胞
+T499	Anatomy 9313 9318	副交感神经
+T500	Anatomy 9329 9332	胰岛素
+T501	Disease 9337 9342;9343 9345	葡萄糖耐受 不良
+T502	Test 9346 9353	第一时相胰岛素
+T503	Symptom 9368 9379	胰升糖素分泌的异常升高
+T504	Disease 9400 9405	代谢性疾病
+T505	Anatomy 9446 9450	β 细胞
+T506	Disease 9455 9461	2 型糖尿病
+T507	Disease 9472 9478	2 型糖尿病
+T508	Disease 9479 9483	T2DM
+T509	Anatomy 9493 9497	β 细胞
+T510	Reason 9503 9508	胰岛素抵抗
+T511	Reason 9526 9534	β 细胞功能损害
+T512	Disease 9579 9585	2 型糖尿病
+T513	Anatomy 9589 9593	β 细胞
+T514	Anatomy 9641 9645	β 细胞
+T515	Operation 9671 9677	胃肠减重手术
+T516	Test 9684 9686	血糖
+T517	Disease 9687 9690	糖尿病
+T518	Disease 9710 9714	T2DM
+T519	Anatomy 9727 9731	β 细胞
+T520	Operation 9752 9758	胃肠减重手术
+T521	Disease 9765 9768	糖尿病
+T522	Test 9772 9776	胰岛功能
+T523	Disease 9782 9785	糖尿病
+T524	Test 9787 9789	血糖
+T525	Test_Value 9789 9792;9793 9794	明显下 降
+T526	Test 9795 9802	胰岛素分泌曲线
+T527	Operation 9811 9817	胃肠减重手术
+T528	Disease 9822 9826	T2DM
+T529	Drug 9842 9845	胰岛素
+T530	Disease 9849 9852	糖尿病
+T531	Test 9863 9865	血糖
+T532	Test 9867 9869	血糖
+T533	Anatomy 9880 9884	β 细胞
+T534	Anatomy 9903 9907	β 细胞
+T535	Anatomy 9926 9930	β 细胞
+T536	Anatomy 9944 9945;9946 9948	β 细胞
+T537	Disease 9958 9961	糖尿病
+T538	Anatomy 9975 9979	β 细胞
+T539	Anatomy 10005 10009	β 细胞
+T540	Disease 10048 10052	T2DM
+T541	Drug 10095 10098	胰岛素
+T542	Anatomy 10105 10109	β 细胞
+T543	Drug 10149 10152	胰岛素
+T544	Anatomy 10156 10160	β 细胞
+T545	Duration 10169 10171	短期
+T546	Drug 10171 10174	胰岛素
+T547	Anatomy 10183 10187	β 细胞
+T548	Disease 10209 10215	2 型糖尿病
+T549	Anatomy 10324 10328	β 细胞
+T550	Reason 10349 10352	糖毒性
+T551	Reason 10353 10356	脂毒性
+T552	Reason 10357 10359	年龄
+T553	Reason 10360 10365	胰岛素抵抗
+T554	Anatomy 10394 10398	β 细胞
+T555	Anatomy 10410 10414	β 细胞
+T556	Anatomy 10436 10440	β 细胞
+T557	Disease 10446 10450	T2DM
+T558	Drug 10457 10460	胰岛素
+T559	Test 10468 10470	血糖
+T560	Anatomy 10487 10491	β 细胞
+T561	Drug 10495 10501	外源性胰岛素
+T562	Disease 10512 10516;10517 10522	外源性高 胰岛素血症
+T563	Disease 10525 10531	动脉粥样硬化
+T564	Drug 10539 10540;10541 10546	内 源性胰岛素
+T565	Test 10547 10549	血糖
+T566	Disease 10561 10564;10565 10568	高胰岛 素血症
+T567	Anatomy 10573 10577	β 细胞
+T568	Drug 10585 10588	胰岛素
+T569	Test 10594 10596	血糖
+T570	Anatomy 10612 10616	β 细胞
+T571	Disease 10627 10630	糖尿病
+T572	Anatomy 10643 10646	胰岛素
+T573	Anatomy 10685 10691	GLP-1R
+T574	Anatomy 10698 10705	胰岛 β 细胞
+T575	Anatomy 10724 10737	过氧化物酶体增殖物活化受体
+T576	Anatomy 10738 10742	PPAR
+T577	Anatomy 10745 10747;10748 10751	核激 素受体
+T578	Anatomy 10761 10766	PPARα
+T579	Anatomy 10767 10772	PPARγ
+T580	Anatomy 10775 10780	PPARβ
+T581	Anatomy 10792 10797	PPARδ
+T582	Anatomy 10799 10804	PPARδ
+T583	Disease 10811 10815;10816 10817	代谢综合 征
+T584	Disease 10819 10825	2 型糖尿病
+T585	Anatomy 10848 10860	PPARδ 抗 β 细胞
+T586	Anatomy 10872 10883	胰升糖素样肽 1 受体
+T587	Anatomy 10884 10890	GLP-1R
+T588	Anatomy 10909 10917	INS-1 细胞
+T589	Anatomy 10920 10922	胰岛
+T590	Anatomy 10941 10945	β 细胞
+T591	Drug 10957 10966;10967 10970	PPARδ 特异性 激动剂
+T592	Anatomy 10990 10994	β 细胞
+T593	Anatomy 11008 11013	PPARδ
+T594	Anatomy 11016 11022	GLP-1R
+T595	Anatomy 11043 11046	Akt
+T596	Anatomy 11056 11061	PPARδ
+T597	Anatomy 11086 11091	PPARδ
+T598	Anatomy 11096 11099;11100 11101	β 细 胞
+T599	Anatomy 11102 11108	GLP-1R
+T600	Anatomy 11116 11120	β 细胞
+T601	Test 11125 11129;11130 11134	葡萄糖刺 激胰岛素
+T602	Anatomy 11144 11150	GLP-1R
+T603	Anatomy 11156 11161	PPARδ
+T604	Anatomy 11176 11182	GLP-1R
+T605	Anatomy 11188 11193	PPARδ
+T606	Drug 11229 11238	PPARδ 激动剂
+T607	Anatomy 11260 11264	β 细胞
+T608	Anatomy 11287 11293	GLP-1R
+T609	Anatomy 11298 11304	GLP-1R
+T610	Anatomy 11307 11312	PPARδ
+T611	Test 11321 11329	SREBP-1c
+T612	Anatomy 11350 11355	PPARδ
+T613	Anatomy 11358 11364	GLP-1R
+T614	Anatomy 11377 11382	PPARδ
+T615	Anatomy 11388 11394	GLP-1R
+T616	Anatomy 11400 11411	Akt / Bcl-2
+T617	Anatomy 11464 11471	胰岛 β 细胞
+T618	Reason 11486 11497	胰岛 β 细胞功能受损
+T619	Disease 11498 11501	糖尿病
+T620	Anatomy 11513 11520	胰岛 β 细胞
+T621	Anatomy 11524 11528	β 细胞
+T622	Anatomy 11538 11541	胰岛素
+T623	Test 11545 11547	血糖
+T624	Anatomy 11558 11561	胰岛素
+T625	Anatomy 11583 11587	β 细胞
+T626	Anatomy 11607 11611	β 细胞
+T627	Anatomy 11627 11631	β 细胞
+T628	Anatomy 11660 11664	β 细胞
+T629	Anatomy 11687 11691;11692 11694	胰岛 β 细胞
+T630	Anatomy 11717 11721	β 细胞
+T631	Anatomy 11734 11738	β 细胞
+T632	Anatomy 11756 11760	β 细胞
+T633	Anatomy 11761 11763	胰岛
+T634	Anatomy 11775 11779	β 细胞
+T635	Symptom 11788 11791	高血糖
+T636	Anatomy 11798 11802	β 细胞
+T637	Anatomy 11806 11812	胰升糖素受体
+T638	Anatomy 11816 11820	α 细胞
+T639	Anatomy 11836 11840	连接蛋白
+T640	Anatomy 11844 11848	β 细胞
+T641	Anatomy 11898 11902	α 细胞
+T642	Anatomy 11903 11907	胰升糖素
+T643	Anatomy 11915 11919	β 细胞
+T644	Test 11923 11930	胰岛素分泌能力
+T645	Anatomy 11945 11949	β 细胞
+T646	Anatomy 11959 11963	β 细胞
+T647	Anatomy 11976 11980	α 细胞
+T648	Anatomy 11984 11988	胰升糖素
+T649	Anatomy 12009 12013	β 细胞
+T650	Anatomy 12030 12034	β 细胞
+T651	Disease 12047 12052;12053 12054	2 型糖尿 病
+T652	Disease 12055 12059	T2DM
+T653	Disease 12072 12076	T2DM
+T654	Anatomy 12079 12081	胰腺
+T655	Anatomy 12084 12088	α 细胞
+T656	Anatomy 12113 12117	α 细胞
+T657	Anatomy 12121 12125	胰升糖素
+T658	Anatomy 12127 12131	β 细胞
+T659	Anatomy 12146 12150	β 细胞
+T660	Anatomy 12164 12165;12166 12168	β 细胞
+T661	Anatomy 12176 12180	α 细胞
+T662	Anatomy 12182 12186	β 细胞
+T663	Anatomy 12200 12207	胰岛 β 细胞
+T664	Anatomy 12208 12211	微循环
+T665	Anatomy 12213 12215	胰岛
+T666	Anatomy 12232 12234	胰岛
+T667	Anatomy 12252 12256	β 细胞
+T668	Anatomy 12259 12264	微循环血管
+T669	Anatomy 12268 12272	内皮细胞
+T670	Anatomy 12277 12281	胰岛细胞
+T671	Test 12295 12296;12297 12302	胰 岛分泌功能
+T672	Anatomy 12306 12310	T 细胞
+T673	Anatomy 12314 12318	β 细胞
+T674	Anatomy 12334 12339	胰岛微循环
+T675	Anatomy 12340 12344	内皮细胞
+T676	Test 12360 12372	胰岛 β 细胞的分泌功能
+T677	Anatomy 12381 12383	胰岛
+T678	Anatomy 12384 12387	微循环
+T679	Anatomy 12398 12402	β 细胞
+T680	Anatomy 12424 12428	β 细胞
+T681	Disease 12447 12450	糖尿病
+T682	Anatomy 12461 12466	胰岛微循环
+T683	Anatomy 12470 12471;12472 12474	β 细胞
+T684	Anatomy 12487 12489	胰岛
+T685	Anatomy 12490 12493	微循环

@@ -1,0 +1,378 @@
+临床研究
+基金项目:国家自然科学基金项目(81072922、81273915);天津市
+卫生局科技基金(2011KZ89)
+素与发育重点实验室
+2 型糖尿病患者血清钙与糖代谢的相关关系
+王珊珊  陈莉明  常宝成  杨菊红  徐延光  郑妙艳  王颖  任惠珠  赵然  王晓宇
+单春艳
+[摘要]   目的  了解 2 型糖尿病患者血清钙与糖代谢的相关关系。 方法 肾功能正常的 2 型糖尿病
+患者 302 例按 HBA1C水平分为 3 组:血糖控制较好组(HbA1C ≤7. 0% ,96 例),血糖控制一般组(7. 0% <
+HBA1C≤9. 0% ,134 例),血糖控制差组(HbA1C >9. 0% ,72 例)。 比较各组间血清校正钙浓度(CsCa)的差
+异,并对不同 HBA1C水平下 CsCa 与胰岛素抵抗、胰岛 β 细胞功能、HbA1C、空腹血糖等指标行相关和回归分
+析。 结果 (1)血糖控制差组 CsCa[(2. 26 ± 0. 12 对 2. 22 ± 0. 09、2. 21 ± 0. 11) mmol / L]和碱性磷酸酶水平
+高于血糖控制较好、一般组(均 P<0. 05),空腹胰岛素、稳态模型评估的胰岛 β 细胞功能指数(HOMA-β)均
+降低(均 P<0. 05)。 (2)在血糖控制较好组中,多元逐步回归分析显示,CsCa 与股骨骨密度呈负相关(P<
+0. 01),与胰岛素敏感指数、总胆固醇呈正相关(P<0. 05)。 (3)在血糖控制一般组中,稳态模型评估的胰岛
+素抵抗指数(HOMA-IR)与 CsCa 呈负相关(P<0. 01)。 (4)在血糖控制差组中,多元逐步回归分析显示,
+CsCa 与尿酸、HOMA-β 呈负相关(P<0. 01),与 HBA1C呈正相关(P<0. 01)。 结论 2 型糖尿病患者 CsCa 与
+血糖控制状况、胰岛素抵抗、胰岛 β 细胞功能密切相关。
+[关键词]   血清校正钙浓度; 胰岛 β 细胞; HBA1C; 糖尿病, 2 型
+Correlation between serum calcium and glucose metabolism in patients with type 2 diabetes mellitus Wang
+Shanshan, Chen Liming, Chang Baocheng, Yang Juhong, Xu Yanguang, Zheng Miaoyan,Wang Ying, Ren Huizhu,
+Zhao Ran, Wang Xiaoyu, Shan Chunyan. Department of Diabetic Nephrology, Metabolic Diseases Hospital, Tianjin
+Medical University, Key Lab of Hormones and Development, Ministry of Health, Tianjin 300070, China
+[Abstract]   Objective   To investigate the correlation between serum calcium and glucose metabolism in
+patients with type 2 diabetes mellitus. Methods Three hundred and two cases of type 2 diabetics with normal renal
+function were divided into three groups according to their HBA1C levels: Better glycemic control group(HbA1C ≤
+7. 0% ), moderate glycemic control group(7. 0% <HBA1C ≤9. 0% ), and poor glycemic control group(HbA1C >
+9. 0% ). Corrected serum calcium (CsCa) from the three groups were observed and compared and the correlation
+analysis and multiple stepwise regression were used to examine the correlations between CsCa and other indicators such
+as insulin resistance, pancreatic β cell function, HBA1C, and fasting plasma glucose. Results (1) Compared with
+better glycemic control group and moderate glycemic control group, the levels of CsCa [(2. 26 ±0. 12 vs 2. 22 ±0. 09,
+2. 21 ±0. 11) mmol / L] and alkaline phosphatase in poor glycemic control group were higher while the levels of fasting
+insulin and homeostasis model assessment of β cell function (HOMA-β) were significantly lower (all P<0. 05) . (2)
+In better glycemic control group, CsCa was negatively correlated with femur bone mineral density (P<0. 01) and
+positively correlated with insulin sensitivity index and total cholesterol (P < 0. 05) by multiple stepwise regression
+analysis. (3) In moderate glycemic control group, CsCa was negatively correlated with homeostasis model assessment
+of insulin resistance index (P<0. 01) . (4) In poor glycemic control group, multiple stepwise analysis indicated that
+CsCa was negatively correlated with uric acid and HOMA-β(P<0. 01) and positively correlated with HBA1C(P<
+0. 01) . Conclusions CsCa is closely correlated with the levels of glycemic control, insulin resistance, and
+pancreatic β cell function in patients with type 2 diabetes mellitus.
+[Key words]  Corrected serum calcium; Pancreatic β-cell; HBA1C; Diabetes mellitus, type 2
+(Chin J Endocrinol Metab, 2014, 30: 26-30)
+糖尿病是最常见的慢性病之一,除与糖代谢紊乱 相关外,还与许多电解质的代谢紊乱有关。 钙是人体
+必需的常量元素之一。 钙不仅是构成骨骼和牙齿的重
+要组成成分,参与骨骼的新陈代谢[1],而且在机体多
+种组织细胞、生物大分子水平发挥着重要作用[2]。 骨
+和钙、磷代谢在糖尿病中的表现极为复杂,不仅与糖尿
+病的分型有关,还与患者的不同状态有关。 既往更多
+关注的是糖尿病与非糖尿病人群血钙水平的影响因
+素,而不同血糖水平的 2 型糖尿病患者血清钙影响因
+素的研究尚不多见,本研究回顾性分析了 2 型糖尿病
+患者血清校正钙浓度(CsCa)与糖代谢的相关性。
+对象和方法
+一、 对象
+收集 2011 年 3 月至 2012 年 10 月资料完整的住
+院 2 型糖尿病(世界卫生组织 1999 年标准)患者 302
+例,男性 176 例,女性 126 例,年龄(56. 6 ± 9. 6)岁,病
+程(10. 3 ± 6. 4)年,体重指数(BMI)为(26. 3 ± 4. 0)
+kg / m2。所有患者采用饮食治疗和口服降糖药物(除外
+噻唑烷二酮类药物)治疗,未注射胰岛素;除外临床蛋
+白尿期糖尿病肾病,90≤估算的肾小球滤过率(eGFR)
+功能异常、贫血、急性心脑血管事件、长期卧床、癌症、
+感染、酮症、应激状态及其他内分泌代谢疾病及影响骨
+矿盐代谢疾病(如甲状腺功能亢进、甲状旁腺功能亢
+进、高催乳素血症、闭经、卵巢切除术后、风湿性关节
+炎、强直性脊柱炎、吸收不良综合征等);近期未使用
+维生素 D 制剂、钙剂、类固醇、抗癫痫药、氟化物、利尿
+剂、雌激素及影响跨膜离子转运等药物。 按照 HBA1C
+水平分为 3 组:血糖控制较好组(96 例,其中男性 54
+例,女性 42 例):HBA1C   C≤7. 0% ;血糖控制一般组(134
+例,其中男性 74 例,女性 60 例):7. 0% <HBA1C ≤
+9. 0% ;血糖控制差组(72 例,其中男性 48 例,女性 24
+例):HBA1C>9. 0% 。
+二、方法
+患者抽血前 1 天停用降血糖药物,禁食高钙、磷饮
+食,禁用不锈钢餐具,禁作剧烈运动,均禁食 12 h,次晨
+空腹平卧位取静脉血,全自动生化仪(德国 Bayer 公
+司)测定肝肾功能、血脂等生化指标,草酸盐结合法测
+定血清钙、 尿钙, 钼磷酸胺法测定血清磷、 尿磷, 酶比
+色法测定血清碱性磷酸酶(ALP),高效液相法测定
+HBA1C,葡萄糖氧化酶法测定空腹血糖(FPG),电化学
+发光法(德国罗氏)测定空腹胰岛素(FINS)。 双能 X
+线骨密度仪(美国 GE Prodigy)测量骨密度。
+应用校正公式对血钙水平进行校正,校正钙值
+(mmol / L)= 血清总钙测定值(mmol / L) +(40-血清白
+蛋白测定值) × 0. 02 mmol / L[3]。 eGFR 采用简化的
+MDRD 方程[4]。 稳态模型评估的胰岛素抵抗指数
+(HOMA-IR)= FPG×FINS / 22. 5,采用由李光伟提出的
+以胰岛素敏感指数[ ISI = -ln(FINS×FPG)]评价胰岛
+素敏感性, 以稳态模型评估的胰岛 β 细胞功能
+(HOMA-β)指数[HOMA-β=20×FINS / (FPG-3. 5)]反
+映基础胰岛素的分泌。
+三、 统计学处理
+用 SPSS 17. 0 软件进行分析。 计量资料行正态性
+检验,正态分布资料以 x-± s 表示,非正态分布或方差不
+齐者进行对数转换后再进行统计分析,多组间比较采
+用单因素方差分析(ANOVA)LSD 检验;CsCa 与各参数
+间相关性分析采用直线相关分析 Pearson 法;CsCa 与
+主要参数间采用多元逐步回归分析。 P<0. 05 为差异
+有统计学意义。
+结    果
+一、 患者一般资料比较
+3 组间性别构成、年龄、病程、BMI、收缩压、舒张
+压、腰椎骨密度、股骨骨密度、血清白蛋白、谷丙转氨
+酶、谷草转氨酶、肾小球滤过率、血尿酸、高密度脂蛋白
+胆固醇(HDL-C)、血清钙、血清磷、24 h 尿钙、尿磷差
+异无统计学意义。 与血糖控制较好组相比,血糖控制
+一般、差 2 组甘油三酯升高(P<0. 05)。 与血糖控制较
+好、一般 2 组相比,血糖控制差组血 ALP、总胆固醇
+(TC)、低密度脂蛋白胆固醇( LDL-C)、CsCa 均升高
+(P<0. 05,表 1)。
+二、 不同 HBA1C水平患者胰岛素抵抗、胰岛 β 细
+胞分泌功能比较
+与血糖控制较好组相比,血糖控制一般组的
+HOMA-IR 升高, ISI 降低,差异有统计学意义 ( P <
+0. 05);血糖控制一般、差 2 组的 HOMA-β 均降低(P<
+0. 05),HOMA-β 在后 2 组间差异亦有统计学意义(P<
+0. 05)。 与血糖控制较好、一般 2 组相比,血糖控制差
+组 FINS 水平降低(P<0. 05,表 2)。
+三、 CsCa 与相关指标间的相关和回归分析
+CsCa 与股骨骨密度、FINS、HOMA-IR、HOMA-β 呈
+负相关 ( r 值分别为 - 0. 141、 - 0. 518、 - 0. 480 和
+-0. 346,均 P < 0. 05 ),与 ALP、 TC、 HDL-C、 LDL-C、
+HBA1C、ISI 呈正相关( r 值分别为 0. 184、0. 143、0. 175、
+0. 116、0. 202 和 0. 376,均 P<0. 05)。
+以上述相关指标作为自变量,以 CsCa 为因变量,
+采用多元线性逐步回归法分析,结果显示,CsCa 与
+FINS 呈负相关(β 为-0. 514,P<0. 01),与 ALP 呈正相
+关(β 为-0. 173,P<0. 01)。
+四、不同 HBA1C患者 CsCa 与相关指标间的相关和
+回归分析
+在血糖控制较好组中,CsCa 与股骨骨密度、FINS、
+HOMA-IR、HOMA-β 呈负相关 ( r 值分别为 - 0. 238、
+-0. 537、- 0. 563 和 - 0. 401, 均 P < 0. 05 ), 与 TC、
+HDL-C、 LDL-C、 血清磷、 ISI 呈正相关( r 值分别为
+表 1  不同 HBA1C患者临床特征比较(x-± s)
+Tab 1  Comparison of clinical data among patients with different HBA1C levels (x-± s)
+组别
+Group
+例数(男 / 女)
+n(M / F)
+年龄
+(岁)
+Age
+(year)
+病程
+(年)
+Duration
+(year)
+BMI
+(kg / m2)
+SBP
+(mmHg)
+DBP
+(mmHg)
+LBMD
+(g / cm2)
+FBMD
+(g / cm2)
+ALB
+(g / L)
+A 96(54 / 42)  55. 3 ± 8. 3 9. 4 ± 6. 5 26. 0 ± 4. 5 127 ± 18 79 ± 8 1. 2 ± 0. 2 1. 0 ± 0. 2 44. 9 ± 3. 7
+B 134(74 / 60)  57. 4 ± 10. 3 11. 1 ± 5. 6 26. 6 ± 3. 6 129 ± 12 78 ± 7 1. 1 ± 0. 1 1. 0 ± 0. 2 45. 7 ± 5. 1
+C 72(48 / 24)  56. 6 ± 9. 6 9. 7 ± 7. 4 26. 2 ± 4. 2 131 ± 10 79 ± 7 1. 2 ± 0. 1 1. 0 ± 0. 2 44. 4 ± 3. 7
+组别
+Group
+例数(男 / 女)
+n(M / F)
+ALT
+(U / L)
+AST
+(U / L)
+ALP
+(U / L)
+eGFRMDRD
+UA
+(μmol / L)
+HBA1C
+(% )
+TG
+(mmol / L)
+TC
+(mmol / L)
+A 96(54 / 42)  23. 2 ± 10. 1 20. 4 ± 7. 2 69. 2 ± 18. 2 103. 6 ± 8. 4 321. 9 ± 70. 1 6. 4 ± 0. 4 1. 9 ± 1. 6 4. 8 ± 0. 9
+B 134(74 / 60)  23. 6 ± 14. 9 20. 4 ± 9. 1 73. 9 ± 17. 4 105. 0 ± 7. 4 320. 1 ± 78. 4 7. 9 ± 0. 6a 2. 4 ± 1. 8a 5. 0 ± 1. 1
+C 72(48 / 24)  25. 0 ± 15. 6 19. 7 ± 7. 7 81. 9 ± 24. 4ab 104. 2 ± 8. 2 306. 5 ± 82. 1 10. 5 ± 1. 2ab 2. 4 ± 1. 8a 5. 6 ± 1. 2ab
+组别
+Group
+例数(男 / 女)
+n(M / F)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+sCa
+(mmol / L)
+CsCa
+(mmol / L)
+sP
+(mmol / L)
+钙磷乘积
+Calcium-phosphorus
+product
+(mmol2 / L2)
+尿钙
+Uric calcium
+(mmol / 24 h)
+尿磷
+Uric phosphorus
+(mmol / 24 h)
+A 96(54 / 42)  1. 3 ± 0. 2 2. 9 ± 0. 7 2. 32 ± 0. 11 2. 22 ± 0. 09 1. 24 ± 0. 18 2. 87 ± 0. 47 6. 06 ± 2. 93 22. 78 ± 6. 48
+B 134(74 / 60)  1. 4 ± 0. 4 2. 9 ± 0. 8 2. 32 ± 0. 12 2. 21 ± 0. 11 1. 23 ± 0. 18 2. 97 ± 0. 47 6. 44 ± 2. 77 21. 79 ± 7. 37
+C 72(48 / 24)  1. 4 ± 0. 3 3. 5 ± 1. 0ab 2. 34 ± 0. 15 2. 26 ± 0. 12ab 1. 25 ± 0. 16 2. 93 ± 0. 47 5. 65 ± 2. 99 20. 89 ± 7. 97
+注:A:血糖控制较好组 Better glycemic control group (HBA1C≤7. 0% );B:血糖控制一般组 Moderate glycemic control group(7. 0% < HbA1C≤9. 0% );
+C:血糖控制差组 Poor glycemic control group(HBA1C>9. 0% );BMI:体重指数 Body mass index;SBP:收缩压 Systolic blood pressure;1 mmHg = 0. 133 kPa;
+DBP:舒缩压 Diastolic blood pressure;LBMD:腰椎骨密度 Lumbar bone mineral density;FBMD:股骨骨密度 Femur bone mineral density;ALB:血清白蛋白
+Albumin;ALT:丙氨酸氨基转移酶 Alanine aminotransfease;AST:门冬氨酸氨基转移酶 Aspartate aminotransfease;ALP:碱性磷酸酶 Alkaline phosphatase;
+eGFRMDRD:用 MDRD 公式估算的肾小球滤过率 Estimated glomerular filtration rate by MDRD;UA:血尿酸 Uric acid; TG:甘油三酯 Triglyceride;TC:总胆固
+醇 Total cholesterol;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;sCa:
+血清钙 Serum calcium;CsCa:校正的血清钙浓度 serum calcium level corrected with albumins;sP:血清磷 Serum phosphorus;与 A 组比较 vs Group A,aP<
+0. 05;与 B 组比较 vs Group B,bP<0. 05
+表 2  不同 HBA1C患者的血糖水平及胰岛 β 细胞功能比较(x-± s)
+Tab 2  Blood glucose level and pancreatic β cell function among patients with different HBA1C levels (x-± s)
+组别
+Group
+例数
+n HOMA-IR ISI HOMA-β
+a FPG
+(mmol / L)
+FINS
+(mIU / L)
+A 96 5. 5 ± 2. 9 -4. 6 ± 0. 7 4. 5 ± 0. 7 6. 9 ± 1. 1 18. 1 ± 9. 8
+B 134 7. 7 ± 4. 2b -5. 0 ± 0. 7b 4. 1 ± 0. 8b 9. 3 ± 2. 3b 19. 0 ± 10. 0
+C 72 6. 6 ± 3. 3 -4. 9 ± 0. 6 3. 6 ± 0. 7bc 10. 7 ± 2. 5bc 14. 2 ± 7. 6bc
+注:a 经自然对数转 Natural logarithm transformed;HOMA-IR:稳态模型胰岛素抵抗指数Homeostasis model assessment for insulin resistance index;ISI:胰
+岛素敏感性指数 Insulin sensitivity index;HOMA-β:稳态模型评估的胰岛 β 细胞功能指数 Homeostasis model assessment of β cell function;FPG:空腹血糖
+Fasting plasma glucose; FINS:空腹血胰岛素 Fasting insulin;余略语同表 1 The other abbreviations are the same as Tab 1;与 A 组比较 vs Group A, bP<0. 05;
+与 B 组比较 vs Group B, cP<0. 05
+0. 249、 0. 309、 0. 220、0. 277 和 0. 452,均 P<0. 05);以
+上述相关指标作为自变量,以 CsCa 为因变量进行多元
+逐步回归分析显示,CsCa 与股骨骨密度呈负相关(β
+为-0. 292,P<0. 01),与 ISI、TC 呈正相关(β 分别为
+0. 561、0. 203,P<0. 05)。 在血糖控制一般组中,CsCa
+与 FPG、FINS、HOMA-IR、HOMA-β 呈负相关( r 值分别
+为-0. 175、-0. 562、-0. 596 和-0. 231,均 P<0. 05),与
+ISI 呈正相关( r 值为 0. 497,P<0. 01);以上述相关指
+标作为自变量,以 CsCa 为因变量进行多元逐步回归分
+析显示,对 CsCa 有影响的变量主要为 HOMA-IR,呈负
+相关(β 为-0. 596,P<0. 01)。 在血糖控制差组中,
+CsCa 与 BMI、尿酸、FINS、HOMA-β 呈负相关( r 值分别
+为-0. 300、-0. 391、-0. 335 和-0. 412,均 P<0. 05),与
+HDL-C、HBA1C、 FPG 呈正相关 ( r 值分别为 0. 311、
+0. 249 和 0. 403,P<0. 05);以上述相关指标作为自变
+量,以 CsCa 为因变量进行多元逐步回归分析显示,
+CsCa 与尿酸、HOMA-β 呈负相关(β 分别为-0. 440、
+-0. 365,P<0. 01),与 HBA1C呈正相关(β 为 0. 268,P<
+0. 01)。
+讨    论
+血液循环中的钙主要有 2 种形式,即离子钙和蛋
+白结合钙(主要是与白蛋白结合)。 离子钙和蛋白结
+合钙统称为血清总钙,在体内具有生理活性的钙是离
+子钙,结合钙不具备生理活性,所以血清离子钙测定比
+血清总钙的测量更能完全反映体内钙的生理状态[5]。
+但由于血清离子钙的测定繁琐、费用高,而血清总钙测
+定简便、快捷、费用低。 许多生化实验室仍采用血清总
+钙测定去评估体内钙的生理状态。 2003 年美国国家
+肾脏病基金会在《慢性肾脏疾病骨骼代谢和骨病的临
+床实践指南》中指出,应用经血白蛋白校正后的血清
+校正钙公式能更好反映血清离子钙水平。 可用于反映
+体内钙生理状态[6]。 本研究遂应用 CsCa 研究钙与 2
+型糖尿病相关关系。
+糖尿病早期肾脏呈现高滤过状态,尿钙、磷重吸收
+减少而排出增多,血清钙水平降低。 随着肾病的进展,
+后期出现慢性肾功能不全时,活性维生素 D 生成减
+少,血清钙可下降[7]。 本研究中选取的所有患者估算
+的肾小球滤过率均在正常范围内[90≤eGFR≤120
+细胞外钙离子浓度的恒定受多种因素调节,如甲
+状旁腺素(PTH)、降钙素、维生素 D3、胰岛素等调节因
+子,骨、肠、肾等效应组织都起重要作用。 特定的病理
+生理状态,对其影响往往是复杂的。
+早期研究认为,糖尿病患者其钙磷代谢呈负平衡
+状态,主要表现为尿排泄钙、磷增多。 原因主要为:
+(1)糖尿病患者,体内存在高血糖状态,致大量葡萄糖
+从尿中排出,渗透性利尿作用使大量钙、磷等离子从尿
+排出[8]。 (2)糖尿病患者由于体内高血糖状态及并发
+肾脏病变等原因影响 1α-羟化酶活性,导致活化维生
+素 D[1-25(OH) 2D3]生成障碍,使肾小管对钙、磷重吸
+收减少,并且肠钙吸收减少[9]。 (3)糖尿病患者由于
+胰岛素的相对或绝对缺乏,导致骨胶原合成不足、骨蛋
+白分解、骨盐沉着减少,尿钙、磷进一步排出增多[10]。
+机体为维持血钙、血磷的正常,继发 PTH 代偿性地分
+泌增多、降钙素代偿性分泌减少[11]。 PTH 可促进近端
+肾小管对钙的重吸收,减少尿钙排泄,升高血钙;同时
+促进骨钙入血,增强溶骨过程,导致骨质疏松。
+本研究发现,血糖控制较好组,CsCa 与 ISI 正相
+关。 血糖控制一般组,CsCa 与 HOMA-IR 负相关。 近
+年来国外研究报道指出血清钙浓度降低可影响胰岛素
+敏感性,机制可能是糖尿病患者存在维生素 D 缺乏。
+维生素 D 作为糖尿病的影响因子已成为近年来研究
+的热点。 有研究发现在刚起病阶段的 1 型糖尿病中,
+维生素 D 水平已明显减低,低维生素 D 的发病率高于
+非糖尿病人群(24%对 16% ,P<0. 001) [12]。 另一研究
+表明,低维生素 D 水平与胰岛素抵抗和 2 型糖尿病发
+生之间存在相关性[13],可见维生素 D 在糖稳态中发挥
+重要作用,机制为维生素 D 可改善靶细胞(肝、骨骼
+肌、脂肪组织)的胰岛素敏感性,促进和改善胰岛 β 细
+胞功能,保护胰岛 β 细胞功能免受免疫损伤。 胰腺 β
+细胞表面存在维生素 D 受体及维生素 D 结合蛋白,提
+示维生素 D 可促进胰岛素的分泌。 胰岛素分泌是钙
+依赖的,改变钙流会对胰岛 β 细胞分泌功能产生不利
+影响,在胰岛素靶组织(骨骼肌和脂肪组织),要发挥
+胰岛素介导的细胞内过程钙也是必需的。 维生素 D
+可以直接与胰岛 β 细胞维生素 D 受体结合,也可间接
+调节细胞外钙和 β 细胞的钙流发挥作用,来改善胰岛
+细胞功能[14]。 但动物研究提示维生素 D 缺乏的大鼠
+如果低钙不被纠正,葡萄糖刺激的胰岛素分泌仍降低。
+说明维生素 D 通过核受体直接刺激胰岛素的分泌只
+有在钙水平足够的情况下才会发生[15]。 胰岛素抵抗
+是 2 型糖尿病的一个显著特征,有研究发现维生素 D
+可通过降低炎症反应、抑制脂肪沉积、刺激胰岛素受体
+的表达、增加胰岛素对葡萄糖转运的反应、间接调节细
+胞外钙,保证正常的跨细胞膜钙内流和足够的细胞内
+钙池等机制增加外周组织对胰岛素的敏感性,改善胰
+岛素抵抗[16]。 其缺乏或作用下降可使胰岛素敏感性
+降低,同时也抑制小肠黏膜上皮细胞对钙的吸收,使血
+钙水平降低[17]。 而血清钙浓度进一步降低也可影响
+胰岛素敏感性。 有学者对血钙降低的 2 型糖尿病患者
+进行补钙后,发现胰岛素及 C 肽水平也有不同程度的
+降低,提示钙改善糖代谢的机制可能在于增强胰岛素
+的生物学效应或受体的敏感性,改善胰岛素抵抗[18]。
+糖尿病患者体内存在维生素 D 的缺乏,可导致继发性
+甲状旁腺功能亢进,使 PTH 分泌增加。 Thomas 等[19]
+发现 PTH 在脂肪细胞不仅通过减少细胞膜葡萄糖转
+运子(GLUT1 和 GLUT4)数目加重胰岛素抵抗,还可通
+过改变体脂分布和胰岛素信号转导降低胰岛素的敏感
+性,进一步证实 PTH 与胰岛素抵抗的密切相关性。 另
+外,高胰岛素水平、胰岛素抵抗与胰淀素水平密切相
+关[20]。 胰腺中胰岛 β 细胞不仅分泌胰岛素,还与胰岛
+素等量分泌一种由 37 个氨基酸的多肽-胰淀素
+(amylin), 又称胰岛淀粉样多肽 ( IAPP)。 Dacquin
+等[21]发现胰淀素可抑制单核破骨细胞前体融合成多
+核破骨细胞,抑制骨吸收。 Macintyre 等[22]发现大鼠和
+家兔中胰淀素通过抑制骨吸收,促进低血钙的发生。
+国内学者曾报道,钙代谢异常确与糖尿病控制状
+况有关,血糖控制差表现为细胞外总血清钙浓度上升,
+细胞内钙离子下降,ALP 升高[23]。 与本研究结果一
+致。 本研究的血糖控制差组,CsCa 和 ALP 高于其他 2
+组,FINS、HOMA-β 低于其他 2 组。 CsCa 与 HOMA-β
+呈负相关,与 HBA1C呈正相关。 随 HbA1C水平升高,会
+出现持续高血糖的“毒性作用冶,或者本身的胰岛功能
+衰退,患者表现为低胰岛素血症[24]。 体内胰岛素水平
+下降将导致骨基质合成不足和骨钙化不良,生成的类
+骨组织不能被钙化。 骨吸收与骨形成失耦联,破骨细
+胞活性再度增加,骨吸收加快,继之反馈性引起成骨细
+胞增生活跃,骨形成增加,骨转换率增高。 成骨细胞合
+成的血清骨特异性碱性磷酸酶(BAP)释放入血,使血
+中 BAP 升高。 国外学者 Uchida 等[25]通过测定低 PTH
+浓度血透患者骨生化指标与骨密度,发现血透后骨密
+度下降,患者 BAP 是唯一升高的指标,认为在低转换
+状态下,BAP 是能监测骨代谢微小变化最敏感的指
+标。 ALP 可根据所在组织部位分为肝性、骨性、肠性、
+肾性及胎盘性几种同工酶,BAP 为其骨性部分,而临
+床上检测的血清 ALP 则是这几种组织产生的酶的总
+活性,其特异性和灵敏度较低,但在排除肝肾功能异常
+等情况下,临床上检验的血清 ALP 能粗略地反映骨代
+谢情况,是评价骨形成和骨转化的常用指标之一[26]。
+提示血糖控制越差的糖尿病患者,ALP 升高,骨转换率
+升高,存在骨吸收与骨形成失耦联状态,但仍表现为骨
+吸收大于骨形成,破骨细胞增多,引起骨细胞和骨基质
+溶解,骨量丢失,骨钙被动员至血液,使血清钙离子浓
+度增加。
+另外,本研究发现:在血糖控制较好组中,CsCa 与
+股骨骨密度呈负相关,与 TC 呈正相关,而其他组没有
+此发现;在血糖控制差组中,CsCa 与尿酸负相关,而其
+他组没有此发现。 其机制需进一步研究探讨。 说明糖
+尿病中的钙磷代谢和骨代谢的复杂性。
+总之,2 型糖尿病患者 CsCa 与血糖控制状况、胰
+岛素抵抗、胰岛b细胞功能密切相关。

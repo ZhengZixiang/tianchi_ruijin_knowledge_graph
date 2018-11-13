@@ -1,0 +1,478 @@
+T1	Disease 5 11	2 型糖尿病
+T2	Disease 53 59	2 型糖尿病
+T3	Disease 137 143	2 型糖尿病
+T4	Disease 173 179	2 型糖尿病
+T5	Disease 227 233	2 型糖尿病
+T6	Disease 1019 1025	2 型糖尿病
+T7	Disease 3680 3686	2 型糖尿病
+T8	Disease 3791 3797	2 型糖尿病
+T9	Disease 3896 3902	2 型糖尿病
+T10	Disease 4016 4022	2 型糖尿病
+T11	Disease 4166 4172	2 型糖尿病
+T12	Disease 4788 4794	2 型糖尿病
+T13	Disease 6253 6259	2 型糖尿病
+T14	Disease 7193 7199	2 型糖尿病
+T15	Disease 9077 9081;9082 9084	2 型糖 尿病
+T16	Disease 9127 9133	2 型糖尿病
+T17	Disease 9281 9287	2 型糖尿病
+T18	Disease 9337 9341;9342 9344	2 型糖 尿病
+T19	Disease 9774 9780	2 型糖尿病
+T20	Disease 10593 10599	2 型糖尿病
+T21	Disease 10603 10609	2 型糖尿病
+T22	Disease 11065 11071	2 型糖尿病
+T23	Disease 11227 11233	2 型糖尿病
+T24	Disease 11301 11307	2 型糖尿病
+T25	Disease 4078 4079;4080 4084	2 型糖尿病
+T26	Disease 9950 9951;9952 9956	2 型糖尿病
+T27	Test 3695 3700	HBA1C
+T28	Test 4184 4189	HBA1C
+T29	Test 4671 4676	HBA1C
+T30	Test 6281 6286	HBA1C
+T31	Test 7636 7641	HBA1C
+T32	Test 9087 9092	HBA1C
+T33	Test 9933 9938	HBA1C
+T34	Test 6337 6342	HDL-C
+T35	Test 7770 7775	HDL-C
+T36	Test 8109 8114	HDL-C
+T37	Test 6303 6308	LDL-C
+T38	Test 7787 7792	LDL-C
+T39	Test 8162 8167	LDL-C
+T40	Disease 1532 1536	T2DM
+T41	Disease 1586 1590	T2DM
+T42	Disease 3289 3293	T2DM
+T43	Disease 3420 3424	T2DM
+T44	Test 4598 4602	空腹血糖
+T45	Test 6310 6314	空腹血糖
+T46	Test 6764 6768	空腹血糖
+T47	Test 7360 7364	空腹血糖
+T48	Test 9922 9926	空腹血糖
+T49	Test 17 25	冠状动脉狭窄程度
+T50	Test 130 135	冠脉造影术
+T51	Test 158 162	冠脉造影
+T52	Disease 181 184	冠心病
+T53	Disease 219 222	冠心病
+T54	Disease 236 239	冠心病
+T55	Test 284 295	72 h 动态血糖监测
+T56	Test 327 330	CGM
+T57	Test 334 342	动态血糖波动指标
+T58	Test 346 348;349 351	冠脉 造影
+T59	Test 387 393	动态血糖指标
+T60	Test 394 404	Gensini 积分
+T61	Test 483 491	最大血糖波动幅度
+T62	Test 492 496	LAGE
+T63	Test 498 511	24 h 内血糖波动标准差
+T64	Test 512 516	SDBG
+T65	Test 518 524;525 529	日内血糖平均 波动幅度
+T66	Test 530 534	MAGE
+T67	Test 536 544	餐后血糖波动幅度
+T68	Test 545 550	MPPGE
+T69	Test 552 563	日间血糖波动平均绝对差
+T70	Test 565 569	MODD
+T71	Disease 644 647	冠心病
+T72	Test_Value 572 583	8. 1 ± 2. 1
+T73	Test_Value 586 592;593 597	1. 9 ± 0. 5
+T74	Test_Value 600 611	4. 8 ± 1. 3
+T75	Test_Value 614 625	4. 5 ± 1. 4
+T76	Test_Value 628 639	2. 4 ± 0. 8
+T77	Test_Value 653 665	11. 3 ± 3. 5
+T78	Test_Value 668 679	3. 2 ± 1. 2
+T79	Test_Value 682 688;689 693	7. 0 ± 2. 6
+T80	Test_Value 696 706	6. 4 ±1. 9
+T81	Test_Value 709 719	3. 1 ±1. 3
+T82	Test 794 799	MPPGE
+T83	Test 800 804	MODD
+T84	Test 805 809	LAGE
+T85	Test 810 816	C 反应蛋白
+T86	Test 818 828	Gensini 积分
+T87	Test 878 884	左室射血分数
+T88	Test 885 889	LVEF
+T89	Test 892 902	Gensini 积分
+T90	Test 942 947	MPPGE
+T91	Test 948 952	LVEF
+T92	Test 955 965	Gensini 积分
+T93	Disease 1027 1030	冠心病
+T94	Test 1049 1057	冠状动脉狭窄程度
+T95	Test 1073 1079	冠脉狭窄程度
+T96	Symptom 3564 3572	慢性持续性高血糖
+T97	Symptom 3573 3581	慢性波动性高血糖
+T98	Disease 3582 3585	糖尿病
+T99	Symptom 3586 3591	糖代谢紊乱
+T100	Symptom 3630 3634;3635 3637	持续性高 血糖
+T101	Symptom 3638 3644	波动性高血糖
+T102	Disease 3648 3651	糖尿病
+T103	Disease 3655 3658;3659 3663	慢性血 管并发症
+T104	Disease 3688 3689;3690 3692	冠 心病
+T105	Test 3704 3706	血糖
+T106	Disease 3742 3746	冠脉病变
+T107	Disease 3768 3776	慢性大血管并发症
+T108	Disease 3776 3782	冠状动脉病变
+T109	Disease 3799 3802	冠心病
+T110	Disease 3811 3814;3815 3816	冠脉病 变
+T111	Test 3972 3979	72 h 血糖
+T112	Test 4009 4013	冠脉造影
+T113	Disease 4024 4027	冠心病
+T114	Disease 4034 4037	冠心病
+T115	Disease 4073 4076	冠心病
+T116	Disease 4149 4152	糖尿病
+T117	Disease 4232 4238	急性心肌梗死
+T118	Disease 4268 4273	急慢性感染
+T119	Disease 4275 4277	肿瘤
+T120	Disease 4279 4284	结缔组织病
+T121	Disease 4310 4315;4316 4317	肝肾功能不 全
+T122	Level 4308 4310	严重
+T123	Disease 4318 4321	脑卒中
+T124	Disease 4322 4326	胰腺疾病
+T125	Drug 4335 4340;4341 4346	非类同醇类 消炎镇痛药
+T126	Drug 4347 4352	类固醇药物
+T127	Disease 4353 4361	甲状腺功能亢进症
+T128	Disease 4362 4365;4366 4370	自身免 疫性疾病
+T129	Disease 4371 4377	风湿性瓣膜病
+T130	Disease 4378 4385	急性冠脉综合征
+T131	Disease 4386 4390;4391 4393	急性代谢 紊乱
+T132	Disease 4394 4398	急性感染
+T133	Disease 4399 4401	创伤
+T134	Disease 4510 4513	冠心病
+T135	Disease 4514 4517	糖尿病
+T136	Disease 4518 4521;4522 4523	高脂血 症
+T137	Disease 4524 4527	脑卒中
+T138	Test 4533 4536	收缩压
+T139	Test 4537 4540	舒张压
+T140	Test 4541 4543	身高
+T141	Test 4544 4546	体重
+T142	Test 4551 4555	体重指数
+T143	Test 4604 4606	血脂
+T144	Test 4607 4609	尿酸
+T145	Test 4610 4616	C 反应蛋白
+T146	Test 4681 4689	冠状动脉狭窄程度
+T147	Anatomy 4738 4741	桡动脉
+T148	Test 4744 4750	冠状动脉造影
+T149	Anatomy 4754 4757	左主干
+T150	Anatomy 4758 4759;4760 4762	前 降支
+T151	Anatomy 4763 4766	回旋支
+T152	Anatomy 4767 4772	右冠状动脉
+T153	Disease 4796 4799	冠心病
+T154	Disease 4801 4804	冠心病
+T155	Test 4807 4812;4813 4817	心外膜冠状 动脉狭窄
+T156	Test_Value 4817 4821	<50%
+T157	Disease 4827 4830	冠心病
+T158	Test 4872 4878	冠脉狭窄积分
+T159	Test 4904 4907	CSS
+T160	Test 4940 4950	冠状动脉狭窄病变程度
+T161	Anatomy 5081 5084	左主干
+T162	Anatomy 5085 5087	LM
+T163	Anatomy 5095 5099	左前降支
+T164	Anatomy 5100 5103	LAD
+T165	Anatomy 5135 5140	第一对角支
+T166	Anatomy 5148 5153	第二对角支
+T167	Anatomy 5165 5169	左回旋支
+T168	Anatomy 5141 5143	D1
+T169	Anatomy 5154 5156	D2
+T170	Anatomy 5170 5173	LCX
+T171	Anatomy 5206 5211	右冠状动脉
+T172	Anatomy 5212 5215	RCA
+T173	Test 5238 5247	冠状动脉病变总积分
+T174	Test 5261 5267	动态血糖监测
+T175	Anatomy 5379 5385	皮下组织间液
+T176	Test 5386 5391	葡萄糖浓度
+T177	Test 5394 5396	血糖
+T178	Anatomy 5437 5441	腹部皮下
+T179	Test 5659 5669	日内平均血糖波动幅度
+T180	Test 5707 5711	MAGE
+T181	Test 5767 5771	波动次数
+T182	Test 5804 5807	NGE
+T183	Test 5809 5813	MAGE
+T184	Test 5832 5841	日间血糖平均绝对差
+T185	Test 5869 5873	MODD
+T186	Test 5921 5929	最大血糖波动幅度
+T187	Test 5931 5935	LAGE
+T188	Test 5964 5974	平均餐后血糖漂移幅度
+T189	Test 5975 5980	MPPGE
+T190	Disease 6245 6248	冠心病
+T191	Test 6263 6267	体重指数
+T192	Test 6268 6271	收缩压
+T193	Test 6272 6275	舒张压
+T194	Test 6287 6289;6290 6292	总胆 固醇
+T195	Test 6293 6302	低密度脂蛋白胆固醇
+T196	Disease 6322 6325	冠心病
+T197	Test 6327 6336	高密度脂蛋白胆固醇
+T198	Test 6345 6349	甘油三酯
+T199	Test 6396 6401;6402 6403	C 反应蛋 白
+T200	Test 6404 6406	尿酸
+T201	Disease 6414 6417	冠心病
+T202	Test 6419 6425	左室射血分数
+T203	Test 6427 6431	LVEF
+T204	Test 6487 6491	LAGE
+T205	Test 6493 6497	SDBG
+T206	Test 6498 6502	MAGE
+T207	Test 6503 6508	MPPGE
+T208	Test 6510 6514	MODD
+T209	Test_Value 6520 6531	8. 1 ± 2. 1
+T210	Test_Value 6534 6545	1. 9 ± 0. 5
+T211	Test_Value 6548 6559	4. 8 ± 1. 3
+T212	Test_Value 6562 6568;6569 6573	4. 5 ± 1. 4
+T213	Test_Value 6576 6587	2. 4 ± 0. 8
+T214	Disease 6592 6595	冠心病
+T215	Test_Value 6601 6608;6609 6613	11. 3 ± 3. 5
+T216	Test_Value 6616 6627	3. 2 ± 1. 2
+T217	Test_Value 6630 6641	7. 0 ± 2. 6
+T218	Test_Value 6644 6655	6. 4 ± 1. 9
+T219	Test_Value 6658 6664;6665 6669	3. 1 ± 1. 3
+T220	Disease 6707 6710	冠心病
+T221	Test 6742 6752	Gensini 积分
+T222	Test 6759 6763	LVEF
+T223	Test 6770 6773	MBG
+T224	Test 6774 6778	LAGE
+T225	Test 6779 6783	SDBG
+T226	Test 6784 6788	MAGE
+T227	Test 6789 6794	MPPGE
+T228	Test 6795 6799	MODD
+T229	Test 6823 6827	MAGE
+T230	Test 6828 6832	MODD
+T231	Test 6867 6872	MPPGE
+T232	Test 6873 6877	MODD
+T233	Test 6878 6882	LAGE
+T234	Test 6885 6895	Gensini 积分
+T235	Test 6946 6950	LVEF
+T236	Test 6953 6963	Gensini 积分
+T237	Test 7003 7008	MPPGE
+T238	Test 7009 7013	LVEF
+T239	Symptom 9138 9146	慢性持续性高血糖
+T240	Symptom 9147 9155	慢性波动性高血糖
+T241	Disease 9202 9208	心血管并发症
+T242	Test 9245 9253	冠脉病变狭窄程度
+T243	Disease 9157 9158;9159 9164	糖 尿病并发症
+T244	Test 9290 9291;9292 9299	慢 性血糖波动水平
+T245	Test 9300 9306	冠脉狭窄程度
+T246	Disease 9346 9349	冠心病
+T247	Symptom 9357 9363	慢性血糖波动
+T248	Disease 9378 9381	糖尿病
+T249	Disease 9389 9392	糖尿病
+T250	Disease 9417 9422;9423 9424	2 型糖尿 病
+T251	Disease 9497 9500	冠心病
+T252	Symptom 9537 9549	餐后或负荷后波动性高血糖
+T253	Disease 9550 9551;9552 9556	心 血管疾病
+T254	Test 9572 9578	餐后血糖水平
+T255	Disease 9601 9602;9603 9607	心 血管疾病
+T256	Test 9615 9619	MAGE
+T257	Test 9645 9650	平均血糖值
+T258	Test 9671 9676	MPPGE
+T259	Disease 9700 9703	糖尿病
+T260	Test 9717 9721	MODD
+T261	Disease 9782 9785	冠心病
+T262	Disease 9808 9813;9814 9815	2 型糖尿 病
+T263	Disease 9816 9819	冠心病
+T264	Test 9823 9831	日间血糖波动幅度
+T265	Test 9832 9838;9839 9841	餐后血糖波动 幅度
+T266	Test 9842 9852	日内最大血糖波动幅度
+T267	Test 9854 9860	冠脉狭窄程度
+T268	Test 9862 9872	Gensini 积分
+T269	Test 9882 9890	餐后血糖波动幅度
+T270	Test 9893 9903	Gensini 积分
+T271	Test 9927 9931	平均血糖
+T272	Disease 9994 9998	冠脉病变
+T273	Test 10018 10024	冠脉狭窄程度
+T274	Disease 10043 10047	冠脉病变
+T275	Disease 10064 10068	冠脉病变
+T276	Anatomy 10137 10145	人脐静脉内皮细胞
+T277	Anatomy 10146 10151	HUVEC
+T278	Anatomy 10199 10203	内皮细胞
+T279	Disease 10225 10229	动脉硬化
+T280	Disease 10255 10259;10260 10262	动脉粥样 硬化
+T281	Anatomy 10284 10285;10286 10288	心 血管
+T282	Anatomy 10342 10346	内皮细胞
+T283	Anatomy 10352 10354	血管
+T284	Symptom 10402 10407	高血糖波动
+T285	Anatomy 10419 10420;10421 10424	内 皮细胞
+T286	Disease 10428 10434	糖尿病并发症
+T287	Anatomy 10461 10465	内皮细胞
+T288	Disease 10519 10525	动脉粥样硬化
+T289	Disease 10611 10614	冠心病
+T290	Test 10616 10619	BNP
+T291	Test 10621 10625	LVEF
+T292	Test 10626 10632	C 反应蛋白
+T293	Test 10633 10635	尿酸
+T294	Test 10646 10650	LAGE
+T295	Test 10652 10656	SDBG
+T296	Test 10658 10662	MAGE
+T297	Test 10664 10669	MPPGE
+T298	Test 10671 10675	MODD
+T299	Test 10685 10690	MPPGE
+T300	Test 10692 10696	MODD
+T301	Test 10697 10701	LAGE
+T302	Test 10704 10714	Gensini 积分
+T303	Test 10721 10725	LVEF
+T304	Test 10728 10738	Gensini 积分
+T305	Test 10809 10814	MPPGE
+T306	Test 10817 10827	Gensini 积分
+T307	Anatomy 10855 10861	血管内皮细胞
+T308	Test 10944 10950	平均血糖水平
+T309	Drug 11000 11003;11004 11006	糖皮质 激素
+T310	Test 11073 11078;11079 11082	冠状动脉狭 窄程度
+T311	Test 11109 11115	冠脉狭窄程度
+T312	Test 11192 11196	平均血糖
+T313	Disease 11295 11296;11297 11299	冠 心病
+T314	Test 11326 11328	血糖
+T315	Test 8115 8124	高密度脂蛋白胆固醇
+T316	Test 8168 8177	低密度脂蛋白胆固醇
+T317	Test 7706 7710	总胆固醇
+T318	Test 7233 7237	体重指数
+T319	Test 7289 7292	收缩压
+T320	Test 7324 7327	舒张压
+T321	Test 7682 7684	尿酸
+T322	Test 7740 7744	甘油三酯
+T323	Test 8896 8900	餐后血糖
+T324	Disease 7478 7481	冠心病
+T325	Disease 7940 7943	冠心病
+T326	Disease 8581 8584	冠心病
+T327	Test 3957 3959	血糖
+T328	Test 5283 5285	血糖
+T329	Test 5738 5740	血糖
+T330	Test 5817 5819	血糖
+T331	Test 8324 8326	血糖
+T332	Test 8709 8711	血糖
+T333	Test 8741 8743	血糖
+T334	Test 8793 8795	血糖
+T335	Test 8844 8846	血糖
+T336	Test 8949 8951	血糖
+T337	Test 364 374	Gensini 积分
+T338	Duration 4178 4183	>3 个月
+T339	Test_Value 4190 4204	6. 5% ~ 13. 0%
+T340	Anatomy 4242 4243	肝
+T341	Anatomy 4243 4244	肾
+T342	Anatomy 4588 4590	静脉
+T343	Anatomy 4729 4732	心血管
+T344	Test 4775 4779	血管狭窄
+T345	Test 4961 4965	管腔狭窄
+T346	Test_Value 4965 4968	≤25
+T347	Level 4972 4975	1 分
+T348	Test_Value 4977 4986	26% ~ 50%
+T349	Level 4990 4993	2 分
+T350	Test_Value 4995 5004	51% ~ 75%
+T351	Level 5008 5011	4 分
+T352	Test_Value 5012 5021	76% ~ 90%
+T353	Level 5025 5028	8 分
+T354	Test_Value 5029 5034;5035 5038	91% ~ 99%
+T355	Level 5041 5045	16 分
+T356	Test_Value 5046 5050	100%
+T357	Level 5053 5057	32 分
+T358	Anatomy 5129 5132	对角支
+T359	Anatomy 5190 5192;5193 5194	后降 支
+T360	Anatomy 5197 5200	后侧支
+T361	Anatomy 5226 5229	后降支
+T362	Test 5744 5748	波动峰值
+T363	Test 5749 5751	谷值
+T364	Test 5758 5762	波动幅度
+T365	Test 5950 5953	最大值
+T366	Test 5954 5957	最小值
+T367	Test 6276 6280	吸烟比例
+T368	Test 7016 7026	Gensini 积分
+T369	Disease 9915 9918	糖尿病
+T370	Anatomy 10491 10493	内皮
+T371	Reason 10495 10505	凝血纤溶系统功能障碍
+T372	Reason 10507 10514	自由基产生增加
+T373	Reason 10769 10773	氧化应激
+T374	Anatomy 10865 10869	黏附分子
+T375	Anatomy 10894 10900	蛋白激酶 C
+T376	Anatomy 10881 10884	多元醇
+T377	Anatomy 10885 10888	己糖氨
+T378	Anatomy 10923 10925	血管
+T379	Disease 10971 10975	冠脉病变
+T380	Test 407 408;409 414	临 床生化指标
+T381	Disease 4404 4406	应激
+T382	Test 4593 4597	生化指标
+T383	Test_Value 5407 5428	2. 2 ~ 22. 2 mmol / L
+T384	Duration 5626 5630	24 h
+T385	Test 7050 7055	MPPGE
+T386	Level 10068 10070	加重
+T387	Symptom 10193 10198	波动性高糖
+T388	Symptom 10451 10458	反复波动的高糖
+T389	Symptom 10475 10482	持续稳定的高糖
+T390	Duration 5885 5889	24 h
+T391	Duration 5941 5945	24 h
+T392	Test 67 75	冠状动脉狭窄程度
+T393	Test 11 16	血糖变异性
+T394	Test 61 66	血糖变异性
+T395	Test 355 361	冠脉狭窄程度
+T396	Test 1032 1037	血糖变异性
+T397	Test 1042 1048	血糖波动幅度
+T398	Test 1065 1072	餐后血糖变异性
+T399	Disease 1096 1099	糖尿病
+T400	Test 1106 1111	血糖变异性
+T401	Disease 1113 1119	冠状动脉狭窄
+T402	Disease 3603 3609;3610 3612	糖尿病慢性并 发症
+T403	Test 3731 3738	血糖的动态变化
+T404	Symptom 3804 3810	慢性血糖波动
+T405	Symptom 3760 3764;3765 3767	慢性血糖 波动
+T406	Test 3879 3884	冠脉造影术
+T407	Test 4001 4006	冠脉造影术
+T408	Test 4296 4301	冠脉造影术
+T409	Disease 4329 4331	肥胖
+T410	Level 4327 4329	过度
+T411	Disease 4505 4509	高血压病
+T412	Test 4708 4713	冠脉造影术
+T413	Test_Value 4779 4783	≥50%
+T414	Test 4909 4921	冠状动脉病变血管损害程度
+T415	Test 4924 4934;4935 4937	Gensini 评分 系统
+T416	Test 5360 5368;5369 5374	72 h 连续动 态血糖监测
+T417	Test 5476 5478	血糖
+T418	Test 5516 5520	指端血糖
+T419	Test 5559 5567	动态血糖评价参数
+T420	Test 5576 5580	平均血糖
+T421	Test 5602 5605	MBG
+T422	Test 5607 5610	标准差
+T423	Test 5611 5615	SDBG
+T424	Test 5717 5728	24 h 血糖波动幅度
+T425	Test 5982 5991;5992 5997	三餐后 3 h 内 最高血糖值
+T426	Test 5998 6002	餐前血糖
+T427	Disease 6391 6394	冠心病
+T428	Test 6711 6728	冠状动脉病变 Gensini 积分
+T429	Test 9098 9103	血糖变异性
+T430	Test 9197 9199	血糖
+T431	Symptom 9237 9238;9239 9244	慢 性血糖波动
+T432	Symptom 9318 9322	血糖波动
+T433	Disease 9323 9327	冠脉病变
+T434	Test 9408 9415	空腹血糖变异性
+T435	Disease 9426 9430	全因死亡
+T436	Disease 9431 9436	心血管疾病
+T437	Disease 9436 9438	死亡
+T438	Symptom 9447 9453	血糖波动性大
+T439	Test 9466 9468	血糖
+T440	Test_Value 9465 9466	高
+T441	Test 9485 9494	餐后 2 h 血糖
+T442	Test 9587 9591	血糖波动
+T443	Symptom 9628 9629;9630 9633	血 糖波动
+T444	Symptom 9666 9670	血糖波动
+T445	Symptom 9680 9685;9686 9687	餐后血糖波 动
+T446	Symptom 9705 9709	血糖波动
+T447	Symptom 9726 9732	日间血糖波动
+T448	Symptom 9744 9750	日内血糖波动
+T449	Symptom 9757 9760;9761 9764	日间血 糖波动
+T450	Symptom 9790 9803	日内、日间还是餐后血糖波动
+T451	Test 9959 9965	血糖平均水平
+T452	Reason 9973 9975;9976 9980	血糖 波动幅度
+T453	Reason 10004 10012	餐后血糖波动幅度
+T454	Reason 10037 10041	血糖升高
+T455	Reason 10058 10062	血糖波动
+T456	Reason 10092 10098	波动性高血糖
+T457	Reason 10100 10106	持续性高血糖
+T458	Reason 10217 10223	慢性血糖波动
+T459	Disease 10246 10251	胰岛素抵抗
+T460	Reason 10272 10277	发氧化应激
+T461	Disease 10278 10283	急性高血糖
+T462	Test 10637 10643	血糖波动指标
+T463	Reason 10755 10756;10757 10764	血 糖长期慢性波动
+T464	Disease 10775 10779	冠脉狭窄
+T465	Test 10784 10790	冠脉狭窄程度
+T466	Symptom 10799 10803	血糖波动
+T467	Reason 10841 10852	血糖持续升高及过度波动
+T468	Reason 10951 10957	日内血糖波动
+T469	Reason 10960 10966;10967 10970	餐后血糖的剧 烈波动
+T470	Disease 11012 11017	胰岛素抵抗
+T471	Test 11041 11047	血糖控制指标
+T472	Test 11099 11102;11103 11105	血糖变 异性
+T473	Test 11186 11191	血糖变异性
+T474	Reason 11235 11243	餐后血糖波动幅度
+T475	Disease 11244 11247;11248 11249	冠脉狭 窄
+T476	Test 11261 11266	血糖变异性
+T477	Test 11314 11318	餐后血糖
+T478	Symptom 10390 10395	高血糖波动

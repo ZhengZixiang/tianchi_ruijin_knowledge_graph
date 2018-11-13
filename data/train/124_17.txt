@@ -1,0 +1,329 @@
+基础研究
+基金项目:山西省自然科学基金资助项目(2009011056-2)
+RNA 干扰血管紧张素转换酶表达对 2 型
+糖尿病大鼠糖代谢的影响
+何军华  李兴  程瑞  吴慧璐  王丽
+[摘要]   目的  用 RNA 干扰技术下调血管紧张素转换酶表达,观察其对 2 型糖尿病大鼠血糖、胰岛
+素抵抗及胰腺氧化应激的影响。 方法  制备 2 型糖尿病大鼠模型,分为糖尿病对照组(注射对照重组腺病
+毒)、基因治疗组(注射靶向抑制 ACE 基因表达的小干扰 RNA 重组腺病毒载体)、依那普利组(每日依那普
+利灌胃),同时设正常血糖对照组(注射生理盐水),以上注射均为尾静脉注射,于实验的第 1 和第 16 天各
+注射 1 次。 干预期间监测血糖、血压的变化。 于首次注射后第 3 天,检测胰腺 ACE mRNA 及蛋白的表达,
+并检测血清中 ACE 和 Ang 2的浓度。 实验结束时,计算胰岛素敏感指数,检测附睾脂肪组织葡萄糖转运蛋
+白 4 及胰腺 NAD(P)H 氧化酶重要亚单位 p22phox的表达。 结果  干预 32 d 后,基因治疗组与依那普利组血
+糖明显低于糖尿病对照组[(17. 8 ± 1. 1 和 17. 9 ± 1. 2 对 24. 9 ± 1. 3)mmol / L, P<0. 05]。 基因治疗组胰腺
+ACE mRNA 及蛋白表达较糖尿病对照组明显降低(P<0. 05),基因治疗组 ACE 和 Ang 2的血清浓度分别为
+(16. 37 ± 3. 01)ng / ml 和(18. 24 ± 3. 69) pg / ml,较糖尿病对照组[(46. 67 ± 3. 92) ng / ml,(44. 93 ± 4. 12)
+pg / ml]明显降低(均 P<0. 05)。 基因治疗组与依那普利组胰岛素敏感指数较糖尿病对照组(-5. 14 ± 0. 41
+和-5. 17 ± 0. 38 对-6. 18 ± 0. 46, P<0. 05)明显提高,附睾脂肪组织葡萄糖转运蛋白 4 的表达也明显升高
+(P<0. 05);并且此两组胰腺 p22phox的表达明显降低(P<0. 05)。 结论  抑制血管紧张素转换酶可延缓高血
+糖进展速度,改善胰岛素抵抗与胰腺氧化应激状态,运用 RNA 干扰技术抑制血管紧张素转换酶表达可能
+成为治疗糖尿病的新手段之一。
+[关键词]   血管紧张素转换酶; RNA 干扰; 糖尿病; 大鼠
+Effects of RNA interference targeting angiotensin-converting enzyme on glucose metabolism in type 2 diabetic
+rats    HE Jun-hua, LI Xing, CHENG Rui, WU Hui-lu, WANG Li. Department of Endocrinology, the Second
+Hospital of Shanxi Medical University, Taiyuan 030001, China
+[Abstract]   Objective   To investigate the effects of RNA interference ( RNAi) targeting angiotensin-
+converting enzyme(ACE) on blood glucose, insulin resistance, as well as oxidative stress in type 2 diabetic rats.
+Methods Type 2 diabetic rats were divided into diabetes control group(caudal intravenation with control adenovirus
+named Ad5), gene treatment group ( caudal intravenation with recombinant adenoviral vectors named Ad5-ACE-
+shRNA, expressing ACE gene-specific shRNA), and enalapril group(intragastric administration with enalapril every
+day) . At the same time, the normal blood glucose control group was set up. All rats were injected two times during the
+experiment period. Blood glucose was measured before and after the intervention. At the third day of the experiment,
+expressions of ACE mRNA and protein in pancreas were evaluated by RT-PCR and Western blot, and serum
+concentrations of ACE and Ang 2 were measured by ELISA. By the end of the experiment, insulin sensitivity index
+was calculated and expressions of glucose transporter 4 (GLUT4) protein of epididymal adipose tissue and NAD(P)H
+(p22phox) protein of pancreas were measured. Results Blood glucose levels in the gene treatment group[(17. 8 ±
+1. 1)mmol / L] and the enalapril group[(17. 9 ± 1. 2)mmol / L] were lower than that in the diabetes control group
+[(24. 9 ± 1. 3)mmol / L] when the experiment was finished. ACE mRNA and protein expressions in pancreas of the
+gene treatment group were significantly decreased compared with the diabetes control group ( P < 0. 05) . Serum
+concentrations of ACE and Ang 2 in the gene treatment group were (16. 37 ± 3. 01) ng / ml and (18. 24 ± 3. 69)
+pg / ml, significantly lower than those of the diabetes control group[(46. 67 ±3. 92)ng / ml and(44. 93 ±4. 12)pg / ml
+respectively, both P<0. 05] . Insulin sensitivity indexes of the gene treatment group and the enalapril group were
+(-5. 14 ± 0. 41) and(-5. 17 ± 0. 38), being all significantly higher than that of the diabetes control group(-6. 18 ±
+0. 46, both P<0. 05) . Expressions of GLUT4 protein in epididymal adipose tissue were higher and expressions of
+p22phox protein in pancreas were lower in the gene treatment group and the enalapril group than those of the diabetes
+control group(both P<0. 05) . Conclusions RNAi targeting ACE gene may delay the progress of hyperglycaemia and
+improve the situation of insulin resistance and oxidative stress. The RNAi technology may be used as a new strategy of
+gene therapy for diabetes mellitus.
+[Key words]  Angiotensin-converting enzyme; RNA interference; Diabetes mellitus; Rats
+(Chin J Endocrinol Metab, 2013, 29: 603-607)
+一 直 以 来, 肾 素-血 管 紧 张 素 系 统 ( renin-
+angiotensin system,RAS)被作为重要的血压调节系统
+进行研究,新近一些大型临床研究发现,RAS 对糖代
+谢也有重要作用,RAS 阻断剂不仅可以减少心血管事
+件,还可以使高血压患者和有糖尿病危险的患者新发
+糖尿病的发病率下降[1-3]。 目前研究已经证实胰腺中
+也存在局部的 RAS[4],那么,RAS 在 2 型糖尿病的发
+生和发展过程中究竟扮演什么样的角色呢?
+RNA 干扰(RNA interference, RNAi)是一种快速、
+特异、 高效、 持久的基因阻断技术, 本研究采用
+RNAi 技术,以 RAS 的重要组分血管紧张素转换酶
+(angiotensin-converting enzyme,ACE)为靶点,设计靶向
+抑制 ACE 基因表达的小干扰 RNA,注射入 2 型糖尿病
+大鼠,观察其对血糖、胰岛素抵抗、胰腺氧化应激的影
+响,进一步揭示 RAS 对 2 型糖尿病的具体作用机制,
+并为从转录后水平防治糖尿病探索一种切实有效的基
+因疗法。
+材料和方法
+一、 材料
+健康雄性 Wistar 大鼠,体重 180 ~ 200 g,由山西医
+科大学实验动物中心提供。 表达 ACE 特异短发夹
+RNA( short hairpin RNA, shRNA)的重组腺病毒载体
+Ad5-ACE-shRNA 和对照腺病毒 Ad5, 感染性滴度
+(TCID 50 / ml)分别为 7×109、6. 3×109,均由北京本元
+正阳基因公司构建合成。 ACE 和 Ang 2酶联免疫吸
+附测试盒(美国 ADL 公司),总 RNA 抽提试剂盒、PCR
+引物合成(上海生工),小鼠抗 ACE、小鼠抗葡萄糖转
+运蛋白 4 ( glucose transporter 4, GLUT 4 )、 小鼠抗
+p22phox、小鼠抗 β-actin 抗体(美国 Santa Cruz 公司),辣
+根过氧化物酶耦联山羊抗小鼠 IgG 抗体(北京中山生
+物技术公司),ECL 增强型化学发光显色试剂盒(美国
+Pierce 公司)。
+二、 方法
+1. 动物模型制备及分组:Wistar 大鼠分为 2 组,其
+中正常对照组予普通饲料;另一组予高糖高脂饲料
+(标准大鼠饲料中添加 10% 的蔗糖、15% 的熟猪油、
+2%的胆固醇、0. 25% 的胆酸),12 周后腹腔注射链脲
+佐菌素(STZ,30 mg / kg),1 周后非同日 2 次尾静脉采
+血测随机血糖≥16. 7 mmol / L 为成模标准。 成模大鼠
+36 只随机分为:(1)糖尿病对照组(DM 组,n = 12),注
+射对照腺病毒 Ad5 500 滋l; (2 ) 基因治疗组 ( ACE
+shRNA 组,n = 12),注射 Ad5-ACE-shRNA 500 滋l;(3)
+依那普利组(ACEI 组,n = 12),以依那普利 10 mg·
+kg-1·d-1灌胃。 正常对照组(NC 组,n = 12)注射生理
+盐水 500 滋l。 以上注射方式均为尾静脉注射,时间均
+在实验第 1 和第 16 天,共观察 32 d。
+2. 实验期间每 1 ~ 5 d 测血糖、尾动脉收缩压、心
+率和体重,每日观察动物的食欲、活动力、体温及其他
+反应情况。
+3. 检测血清 ACE 和 Ang 2的浓度:于首次注射后
+第 3 天,每组随机取 6 只大鼠,心脏体外采血,用
+ELISA 法测定血清 ACE 和 Ang 2的浓度。
+4. RT-PCR 分析 ACE mRNA 的表达:于首次注射
+后第 3 天,每组随机取 6 只大鼠,取胰腺组织进行检
+测。 ACE 上游引物[5] 为 5'-CAAAAGCTGCGAAGGAT-
+CCATCGG-3',下游为 5'-CCATGTCGTAAATGTTCTCC-
+CAGC-3',产物 547 bp。 内参照 GAPDH 上游引物为
+5'-TCCCTCAAGATTGTCAGCAA-3',下游为 5'-AGAT-
+CCACAACGGATACATT-3',产物 308 bp。 PCR 反应条
+件为 94℃ 预变性 5 min, 94℃ 变性 30 s, 58℃ 退火
+(ACE)30 s,72℃ 延伸 30 s,36 个循环,72℃ 延伸 10
+min。 GAPDH 退火温度为 50℃,余条件相同。 PCR 产
+物琼脂糖凝胶电泳后,用凝胶成像分析系统摄像分析。
+结果用各样品的条带灰度值与 GAPDH 的条带灰度值
+之比表示。
+5. Western 印迹分析 ACE 蛋白质的表达:于首次
+注射后第 3 天,从每组随机取 6 只大鼠,取胰腺进行检
+测。 取适量组织,提取蛋白,用 BCA 法测定蛋白质浓
+度。 取相同量蛋白用于 8% (ACE)或 12% (β-actin)
+SDS-聚丙烯酰胺凝胶电泳,转移至 NC 膜,BSA 室温封
+闭 2 h,小鼠抗 ACE 抗体(1 : 500)或小鼠抗 β-actin 抗
+体(1 : 5 000)4℃孵育过夜,TBST 溶液洗膜 3 次,每次
+5 min,室温下相应加入山羊抗小鼠 IgG 抗体 (1 :
+10 000)孵育 2 h,同前法洗膜 3 次。 用增强化学发光
+法显色,X 片曝光显影,凝胶成像分析系统摄像分析。
+6. 实验结束时,测定空腹血糖与空腹胰岛素,计
+算胰岛素敏感指数( insulin sensitive index, ISI),公式
+为[6]:ISI = ln[1 / (空腹血糖×空腹胰岛素)]。
+7. Western 印迹法检测附睾脂肪组织 GLUT 4 的
+表达,评价外周组织胰岛素抵抗程度。
+8. Western 印迹法检测胰腺 NAD(P)H 氧化酶的
+膜结合亚基 p22phox的表达,观察胰岛的氧化应激反应。
+三、 统计学处理
+实验数据以 x-± s 表示,血糖的比较采用重复测量
+方差分析,组间多重比较采用 SNK 法,组内时点间多
+重比较采用 Dunnett t 检验。 其余指标多组间比较采用
+单因素方差分析。 数据用 SPSS 17. 0 统计软件分析,
+P<0. 05 为差异有统计学意义。
+结    果
+一、 对血糖的影响
+基线时糖尿病大鼠各组的血糖、体重均较 NC 组
+高,差异有统计学意义,收缩压与心率无明显差异;糖
+尿病大鼠各组之间的血糖、收缩压、心率、体重均无统
+计学差异。 实验结束时,糖尿病大鼠各组体重、心率、
+收缩压仍无统计学差异,但 DM 组的血糖高达(24. 9 ±
+1. 3)mmol / L,而 ACE shRNA 组首次注射后血糖有所
+下降,第 16 天时血糖有所上升;二次注射后血糖再次
+有所下降,第 31 天时有所上升,实验结束时血糖为
+(17. 8 ± 1. 1)mmol / L,明显低于 DM 组,差异有统计学
+意义。 ACEI 组的高血糖进展速度也明显减缓,实验结
+束时为(17. 9 ± 1. 2)mmol / L,也明显低于 DM 组,差异
+有统计学意义。 每日观察动物的局部及全身反应,未
+发现食欲减退、体重下降、体温升高等异常反应(图 1,
+表 1)。
+二、 血清 ACE 和 Ang 2的含量
+与 NC 组相比,DM 组 ACE 和 Ang 2的血清浓度
+显著升高,表明高血糖时,RAS 功能亢进。 与 DM 组相
+注:DM:糖尿病对照组 Diabetes control group;ACEI:依那普利组
+Enalapril group;ACE shRNA:基因治疗组 Gene treatment group;NC:正常
+对照组 Normal control group
+图 1  各组大鼠干预前后血糖变化水平
+Fig 1  Blood glucose of each group before and after the intervention
+表 1  各组大鼠一般资料比较(x-± s)
+Tab 1  Comparison of general data in rats(x-± s)
+组别
+Group
+鼠数
+n
+BG
+(mmol / L)
+SBP
+(mm Hg)
+HR
+(次 / min)
+体重
+Weight
+(g)
+NC
+B 12 5. 6 ± 0. 3 113 ± 5 386 ± 10 300. 6 ± 14. 2
+E 12 5. 7 ± 0. 4 114 ± 6 391 ± 14 342. 5 ± 15. 3
+DM
+B 12 17. 2 ± 1. 2a 119 ± 4 390 ± 11 367. 2 ± 13. 6
+E 12 24. 9 ± 1. 3a 121 ± 5 389 ± 13 329. 3 ± 11. 9
+ACEI
+B 12 17. 0 ± 0. 9a 118 ± 3 380 ± 9  365. 1 ± 12. 1
+E 12 17. 9 ± 1. 2ab 111 ± 4 376 ± 11 335. 6 ± 11. 9
+ACE shRNA
+B 12 17. 1 ± 1. 1a 119 ± 6 381 ± 10 364. 3 ± 11. 7
+E 12 17. 8 ± 1. 1ab 112 ± 5 382 ± 12 336. 1 ± 12. 2
+注:B:基线 Baseline;E:实验结束时 At the end of experiment;BG:血
+糖 Blood glucose;SBP:收缩压 Systolic blood pressure;1 mm Hg = 0. 133
+kPa;HR:心率Heart rate;余略语同图1 The abbrevialions are the same as Fig
+1;与 NC 组比较 vs NC group,aP<0. 05;与 DM 组比较 vs DM group bP<
+0. 05
+比,ACE shRNA 组的 ACE 含量明显减少(P<0. 01),
+ACE shRNA 组与 ACEI 组 Ang 2的含量均明显减少,
+差异有统计学意义(均 P<0. 01),说明经过基因阻断
+或血管紧张素转换酶抑制剂治疗后,RAS 功能受到抑
+制(表 2)。
+表 2  各组大鼠血清 ACE 和 Ang 2的浓度比较(x-± s)
+Tab 2  Comparison of ACE and Ang II in rats(x-± s)
+组别
+Group
+鼠数
+n
+ACE
+(ng / ml)
+Ang 2
+(pg / ml)
+NC 6 12. 26 ± 2. 69 13. 21 ± 3. 06
+DM 6 46. 67 ± 3. 92a 44. 93 ± 4. 12a
+ACEI 6 45. 88 ± 2. 93a 16. 06 ± 3. 11b
+ACE shRNA 6 16. 37 ± 3. 01b 18. 24 ± 3. 69b
+注:ACE:血管紧张素转换酶 Angiotensin-converting enzyme;Ang 2:
+血管紧张素2 Angiotensin 域;其他略语同图 1 The other abbreviations are
+the same as Fig 1;与 NC 组比较 vs NC group,aP<0. 05;与 DM 组比较 vs
+DM group,bP<0. 05
+三、 胰腺组织 ACE mRNA 和蛋白的表达
+DM 组胰腺 ACE mRNA 和蛋白表均达较 NC 组明
+显升高,差异有统计学意义。 ACE shRNA 组较 DM 组
+表达明显降低,差异有统计学意义,表明糖尿病大鼠注
+射 Ad5-ACE-shRNA 后,ACE mRNA 和蛋白表达均明显
+下降(图 2,图 3)。
+四、 胰岛素敏感指数的变化
+DM 组较 NC 组胰岛素敏感指数显著降低,说明糖
+尿病大鼠存在明显的胰岛素抵抗;ACE shRNA 组及
+ACEI 组较 DM 组明显增高(均 P<0. 01),表明糖尿病
+大鼠注射 Ad5-ACE-shRNA 或经血管紧张素转换酶抑
+制剂治疗后,胰岛素敏感性明显提高(表 3)。
+五、 附睾脂肪组织 GLUT4 的表达
+注:略语同图 1 和表 2 The abbreviations are the same as Fig 1 and Tab
+2;与 NC 组比较 vs NC group,aP<0. 05;与 DM 组比较 vs DM group, bP<
+0. 05
+图 2  胰腺组织 ACE mRNA 的表达
+Fig 2  Expression of ACE mRNA in pancreas
+注:略语同图 1 和表 2 The abbreviations are the same as Fig 1 and Tab
+2;与 NC 组比较 vs NC group,aP<0. 05;与 DM 组比较 vs DM group,bP<
+0. 05
+图 3  胰腺组织 ACE 蛋白的表达
+Fig 3  Expression of ACE protein in pancreas
+表 3  各组大鼠糖代谢指标的比较(x-± s)
+Tab 3 Comparison of glucose metabolic characteristics in rats(x-± s)
+组别
+Group
+鼠数
+n
+FPG
+(mmol / L)
+FINS
+(mU / L) ISI
+NC 6 4. 88 ± 1. 15 15. 71 ± 0. 96 -4. 34 ± 0. 71
+DM 6 16. 27 ± 3. 92a 29. 46 ± 2. 12a -6. 18 ± 0. 46a
+ACEI 6 11. 12 ± 0. 93ab 16. 04 ± 1. 11ab -5. 17 ± 0. 38ab
+ACE shRNA 6 10. 74 ± 1. 01ab 16. 03 ± 0. 99ab -5. 14 ± 0. 41ab
+注:FPG:空腹血糖 Fasting plasma glucose;FINS:空腹胰岛素 Fasting
+plasma insulin;ISI:胰岛素敏感指数 Insulin sensitivity index;其他略语同
+图 1 The other abbreviations are the same as Fig 1;与 NC 组比较 vs NC
+group,aP<0. 05;与 DM 组比较 vs DM group,bP<0. 05
+ACE shRNA 组与 ACEI 组较 DM 组 GLUT4 表达
+明显升高(均 P<0. 05),表明外周组织的胰岛素抵抗
+也得到了改善(图 4)。
+六、对胰腺氧化应激的影响
+注:余略语同图 1 The abbreviations are the same as Fig 1;与 NC 组比
+较 vs NC group,aP<0. 05;与 DM 组比较 vs DM group,bP<0. 05
+图 4  附睾脂肪组织 GLUT4 蛋白表达
+Fig 4  Expression of GLUT4 protein in epididymal adipose tissue
+注:略语同图 1 The abbreviations are the same as Fig 1;与 NC 组比较 vs
+NC group,aP<0. 05;与 DM 组比较 vs DM group,bP<0. 05
+图 5  胰腺组织 NADPH(p22phox)蛋白表达
+Fig 5  Expression of NADPH(p22phox) protein in pancreas
+DM 组 NAD(P)H p22phox表达较 NC 组明显增高,
+表明糖尿病鼠胰腺氧化应激反应增强;ACE shRNA 与
+ACEI 组较 DM 组 p22phox表达显著降低,表明经过治疗
+后,胰腺氧化应激反应减弱(图 5)。
+讨    论
+RNAi 是由与靶基因 mRNA 序列同源的双链 RNA
+所诱导的转录后基因沉默现象,在前期实验中,本课题
+组已运用 RNAi 技术,设计构建靶向抑制 ACE 基因表
+达的小干扰 RNA,作用于自发性高血压大鼠,有效抑
+制了 ACE mRNA 和蛋白表达,产生了明显持久的降压
+作用(14 d 左右),并且明显改善了心肌重构[7,8]。 目
+前,已有研究证实 RAS 与糖尿病也有密切关系[9,10],
+因此,本实验观察了 ACE shRNA 对 2 型糖尿病大鼠血
+糖、胰岛素抵抗及胰腺氧化应激的影响。
+本研究选用 12 周龄高糖高脂饲料饲养大鼠为研
+究对象,并小剂量注射 STZ,以确保 2 型糖尿病模型的
+建立。 结果发现,注射 Ad5-ACE-shRNA 后,大鼠胰腺
+ACE mRNA 及蛋白表达均明显降低,血清 ACE 和 Ang
+域的浓度也明显减少,说明组织和循环中的 RAS 均受
+到抑制,RNA 干扰抑制基因表达是成功的。 而且基因
+治疗组在整个治疗过程中只注射了 2 次,每次作用持
+续 14 d 左右,较每日用药有明显的优越性。
+实验结束时,基因治疗组和依那普利组的血糖虽
+然没有恢复到正常状态,但与糖尿病对照组相比,高血
+糖的进展速度明显延缓,表明抑制 ACE 的表达或活性
+可有效改善糖代谢紊乱。
+胰岛素抵抗是 2 型糖尿病的一个重要病理生理学
+特征,研究显示,RAS 与胰岛素抵抗有密切联系,阻断
+RAS 可提高胰岛素敏感性[11]。 本实验经过 32 d 干预
+后,基因治疗组与依那普利组的胰岛素敏感指数明显
+升高,说明胰岛素抵抗显著改善。
+GLUT4 是脂肪细胞和骨骼肌细胞协助葡萄糖转
+运的主要蛋白质,其转位障碍和表达减少都会影响糖
+代谢,加重胰岛素抵抗。 本实验提取附睾脂肪组织,检
+测 GLUT4 的表达,发现基因治疗组与依那普利组明显
+升高,表明抑制 ACE 的表达或活性后,外周组织的胰
+岛素抵抗也得到了改善。
+研究发现糖尿病模型动物的胰岛中有高水平
+RAS 成份的表达[12],不仅发挥缩血管作用,还有生成
+活性氧簇(ROS)、诱导细胞凋亡、促炎症等作用[13],因
+此,阻断胰岛 RAS 可能保护胰岛功能。
+最近有研究证实胰岛 β 细胞能够表达 NAD(P)H
+氧化酶的膜结合亚基 p22phox[14],高糖能激活 β 细胞内
+NAD(P)H 氧化酶,促进 ROS 生成[15],加重氧化应激,
+影响 β 细胞功能。 本研究显示,糖尿病对照组的胰腺
+p22phox表达明显升高,说明糖尿病大鼠的胰腺氧化应
+激增强。 而用 RNA 干扰抑制 ACE 表达后,p22phox表达
+显著降低,与依那普利组达到了相同的效果,说明
+ACE shRNA 通过抑制胰岛局部 RAS 而降低了 NADPH
+氧化酶的表达,提示胰腺局部 RAS 与胰腺内的氧化应
+激反应密切相关。
+综上所述,本研究表明,靶向抑制 ACE 表达的小
+干扰 RNA 注射入 2 型糖尿病大鼠后,成功发挥了基因
+沉默作用,有效降低了 ACE mRNA 及蛋白的表达。 32
+d 的治疗虽然不能逆转糖尿病状态,但有效改善了糖
+代谢及胰岛素抵抗,显著减轻了胰岛细胞的氧化应激,
+表明 RAS 与糖尿病的发生发展有密切关系。 而且,基
+因治疗组整个治疗过程只注射 2 次,较依那普利组每
+天用药有明显的优越性。 因此,运用 RNA 干扰技术抑
+制 ACE 表达可能成为治疗糖尿病的新手段之一。

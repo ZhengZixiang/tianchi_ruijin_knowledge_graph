@@ -1,0 +1,215 @@
+T1	Disease 1302 1308	2 型糖尿病
+T2	Disease 1487 1493	2 型糖尿病
+T3	Disease 1531 1537	2 型糖尿病
+T4	Disease 1754 1760	2 型糖尿病
+T5	Disease 2350 2354;2355 2357	2 型糖 尿病
+T6	Disease 2382 2388	2 型糖尿病
+T7	Disease 2697 2703	2 型糖尿病
+T8	Disease 3254 3260	2 型糖尿病
+T9	Disease 4729 4735	2 型糖尿病
+T10	Test 1915 1920	HBA1C
+T11	Test 4793 4798	HBA1C
+T12	Test 1809 1813	空腹血糖
+T13	Test 1861 1867	肝脏脂肪含量
+T14	Test 1982 1986;1987 1989	肝脏脂肪 含量
+T15	Test 2225 2229	体重指数
+T16	Test 71 75	餐后血糖
+T17	Test 1704 1708	餐后血糖
+T18	Test 3476 3480	餐后血糖
+T19	Test 3690 3694	餐后血糖
+T20	Test 3719 3723	餐后血糖
+T21	Test 3821 3825	餐后血糖
+T22	Test 4764 4768	餐后血糖
+T23	Test 5228 5232	餐后血糖
+T24	Test 5262 5266	餐后血糖
+T25	Test 5364 5368	餐后血糖
+T26	Test 3632 3636	血糖负荷
+T27	Test 3735 3739	血糖负荷
+T28	Test 3750 3754	血糖负荷
+T29	Test 3764 3768	血糖负荷
+T30	Test 3795 3799	血糖负荷
+T31	Test 2230 2233	BMI
+T32	Test 2268 2271	BMI
+T33	Test 2607 2610	BMI
+T34	Test 2630 2633	BMI
+T35	Test 2641 2644	BMI
+T36	Test 2137 2139	体重
+T37	Test 2203 2205	体重
+T38	Test 2451 2453	体重
+T39	Test 2465 2467	体重
+T40	Test 2734 2736	体重
+T41	Test 2808 2810	体重
+T42	Test 2840 2842	体重
+T43	Test 2910 2912	体重
+T44	Test 3096 3098	体重
+T45	Test 3126 3128	体重
+T46	Test 3240 3242	体重
+T47	Test 3282 3284	体重
+T48	Disease 878 881	糖尿病
+T49	Disease 1092 1095	糖尿病
+T50	Disease 1120 1123	糖尿病
+T51	Disease 1159 1162	糖尿病
+T52	Operation 1511 1519	腹腔镜胃旁路手术
+T53	Operation 1520 1524	RYGB
+T54	Anatomy 1646 1650	L 细胞
+T55	Test_Value 1814 1835	(9. 2 ± 0. 4)mmol / L
+T56	Test_Value 1838 1851;1852 1860	(5. 9 ± 0. 4) mmol / L
+T57	Duration 1765 1768	8 周
+T58	Duration 1909 1912	8 周
+T59	Anatomy 1979 1981	胰腺
+T60	Anatomy 1993 1997	胰岛细胞
+T61	Test 2251 2253	腹围
+T62	Disease 2261 2263	超重
+T63	Disease 2264 2266	肥胖
+T64	Test_Value 2278 2288	24 kg / m2
+T65	Test_Value 2290 2300	28 kg / m2
+T66	Test 2301 2303	腹围
+T67	Test_Value 2315 2320	85 cm
+T68	Test_Value 2324 2329	80 cm
+T69	Disease 2377 2379	肥胖
+T70	Disease 2401 2403	肥胖
+T71	Disease 2420 2423	糖尿病
+T72	Disease 2443 2446	糖尿病
+T73	Disease 2454 2456	死亡
+T74	Disease 2471 2473	死亡
+T75	Disease 2475 2480	心血管疾病
+T76	Disease 2497 2499	超重
+T77	Disease 2500 2502	肥胖
+T78	Disease 2516 2518	超重
+T79	Disease 2519 2521	肥胖
+T80	Test_Value 2645 2647	过低
+T81	Test_Value 2648 2650	过高
+T82	Disease 2650 2653	糖尿病
+T83	Disease 2741 2742;2743 2746	营 养不良
+T84	Disease 2849 2852	糖尿病
+T85	Disease 2862 2864	超重
+T86	Disease 2871 2873	肥胖
+T87	Disease 2880 2882	超重
+T88	Disease 2883 2885	肥胖
+T89	Disease 2886 2889	糖尿病
+T90	Test 3263 3265	血糖
+T91	Test 3266 3268	血脂
+T92	Disease 4432 4435	糖尿病
+T93	Disease 3944 3947	糖尿病
+T94	Drug 4515 4518	胰岛素
+T95	Drug 4580 4583	胰岛素
+T96	Symptom 4775 4778	低血糖
+T97	Symptom 4771 4774	高血糖
+T98	Anatomy 1615 1623	胰升糖素样肽 1
+T99	Disease 3911 3916;3917 3918	2 型糖尿 病
+T100	Anatomy 1625 1630	GLP-1
+T101	Anatomy 4872 4877	GLP-1
+T102	Anatomy 5055 5060	GLP-1
+T103	Disease 2486 2491	心血管疾病
+T104	Test 109 112;113 114	餐后血 糖
+T105	Test 3863 3865;3866 3868	血糖 负荷
+T106	Test 4014 4017;4018 4019	血糖负 荷
+T107	Test 1338 1340	血糖
+T108	Test 1556 1558	血糖
+T109	Test 1668 1670	血糖
+T110	Test 2003 2005	血糖
+T111	Test 3116 3118	血糖
+T112	Test 3148 3150	血糖
+T113	Test 3463 3465	血糖
+T114	Test 3509 3511	血糖
+T115	Test 3638 3640	血糖
+T116	Test 3649 3650;3651 3652	血 糖
+T117	Test 3877 3879	血糖
+T118	Test 3928 3930	血糖
+T119	Test 4102 4104	血糖
+T120	Test 4372 4374	血糖
+T121	Test 4447 4449	血糖
+T122	Test 4588 4590	血糖
+T123	Test 4645 4647	血糖
+T124	Test 4702 4704	血糖
+T125	Test 4752 4754	血糖
+T126	Test 4805 4807	血糖
+T127	Test 5176 5177;5178 5179	血 糖
+T128	Test 5182 5184	血糖
+T129	Test 5333 5335	血糖
+T130	Disease 2237 2242	中心性肥胖
+T131	Test 2686 2690	体脂含量
+T132	Level 1538 1546	缓解率达 80%
+T133	Disease 1 4	糖尿病
+T134	Disease 30 33	糖尿病
+T135	Treatment 921 925	营养治疗
+T136	Treatment 4 8	营养治疗
+T137	Treatment 25 29	营养治疗
+T138	Disease 41 44	糖尿病
+T139	Disease 990 993	糖尿病
+T140	Disease 1003 1006	糖尿病
+T141	Treatment 1007 1013	医学营养治疗
+T142	Treatment 1014 1017	MNT
+T143	Treatment 1023 1026	MNT
+T144	Disease 1028 1031	糖尿病
+T145	Disease 1046 1048;1049 1050	糖尿 病
+T146	Disease 1070 1073	糖尿病
+T147	Disease 1086 1089	糖尿病
+T148	Treatment 1096 1099;1100 1101	营养治 疗
+T149	Treatment 1217 1220	MNT
+T150	Disease 1224 1227	糖尿病
+T151	Disease 1259 1262	糖尿病
+T152	Disease 1279 1282	糖尿病
+T153	Treatment 1464 1468	营养治疗
+T154	Operation 1476 1480	代谢手术
+T155	Operation 1570 1574	代谢手术
+T156	Anatomy 1632 1633;1634 1636	肽 YY
+T157	Anatomy 1637 1640	PYY
+T158	Anatomy 1651 1657	胃泌酸调节素
+T159	Disease 1777 1778;1779 1781	糖 尿病
+T160	Operation 1781 1785	代谢手术
+T161	Disease 1882 1883;1884 1886	糖 尿病
+T162	Test 1927 1936	第一时相胰岛素分泌
+T163	Test 1942 1949	餐后胰岛素峰值
+T164	Test 1954 1960	胰腺脂肪含量
+T165	Disease 2104 2107	糖尿病
+T166	Disease 2146 2149	糖尿病
+T167	Reason 2331 2333	肥胖
+T168	Disease 2570 2573	糖尿病
+T169	Disease 2600 2602;2603 2604	糖尿 病
+T170	Disease 2612 2616	全因死亡
+T171	Test_Value 2634 2636	正常
+T172	Disease 2674 2676	超重
+T173	Disease 2677 2679	肥胖
+T174	Test 2681 2683	腹围
+T175	Test_Value 2683 2685	超标
+T176	Treatment 2706 2710	营养治疗
+T177	Disease 2934 2936	肥胖
+T178	Disease 2936 2939	糖尿病
+T179	Disease 2995 2997	肥胖
+T180	Test 3151 3153	血脂
+T181	Test 3154 3156	血压
+T182	Disease 3562 3565	糖尿病
+T183	Disease 3661 3664	糖尿病
+T184	Disease 3871 3874	糖尿病
+T185	Test 3933 3935	血脂
+T186	Disease 4021 4024	糖尿病
+T187	Disease 4097 4100	糖尿病
+T188	Treatment 4435 4439	营养治疗
+T189	Disease 4529 4532	糖尿病
+T190	Test 4756 4759	胰岛素
+T191	Drug 4841 4844	胰岛素
+T192	Anatomy 4914 4917	胰岛素
+T193	Anatomy 4932 4935	胰岛素
+T194	Anatomy 5063 5066	PYY
+T195	Disease 5111 5114	糖尿病
+T196	Disease 5185 5188	糖尿病
+T197	Anatomy 5311 5314	胰岛素
+T198	Test 5289 5293	餐后血糖
+T199	Test 3959 3963	血糖负荷
+T200	Disease 2337 2342	中心性肥胖
+T201	Reason 2343 2348	胰岛素抵抗
+T202	SideEff 4595 4598	低血糖
+T203	Test 4785 4789	血糖波动
+T204	Disease 4954 4957	糖尿病
+T205	Treatment 4957 4963	肠道激素治疗
+T206	Reason 3900 3907	高血糖负荷膳食
+T207	Test 3627 3631	血糖指数
+T208	Test 3804 3808	血糖指数
+T209	Test 4009 4013	血糖指数
+T210	Symptom 4604 4607	高血糖
+T211	Test 4693 4695	血糖
+T212	Test 4891 4893	血糖
+T213	Test 5357 5361	血糖指数
+T214	Anatomy 2525 2527	脂肪
+T215	Anatomy 2536 2538	肌肉

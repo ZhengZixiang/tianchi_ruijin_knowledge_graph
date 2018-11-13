@@ -1,0 +1,297 @@
+T1	Test 3 6	胆红素
+T2	Disease 7 15	糖尿病慢性并发症
+T3	Disease 36 39	糖尿病
+T4	Disease 39 46	心脑血管并发症
+T5	Disease 47 52	糖尿病肾病
+T6	Disease 53 60	糖尿病视网膜病
+T7	Disease 65 68	糖尿病
+T8	Disease 70 72	死亡
+T9	Disease 73 76;77 79	终末期 肾病
+T10	Disease 96 102	糖尿病并发症
+T11	Disease 120 124	慢性炎症
+T12	Test 140 143	胆红素
+T13	Test 159 162	胆红素
+T14	Disease 163 169	糖尿病并发症
+T15	Disease 186 189	糖尿病
+T16	Test 196 199	胆红素
+T17	Test 1161 1164	胆红素
+T18	Anatomy 1176 1179	胆色素
+T19	Test 1192 1196	血红蛋白
+T20	Test 1201 1204	血红素
+T21	Test 1228 1231	胆红素
+T22	Disease 1245 1247	黄疸
+T23	Disease 1264 1267	糖尿病
+T24	Test 1283 1286	胆红素
+T25	Test 1299 1302	胆红素
+T26	Test 1306 1310	血红蛋白
+T27	Test 1314 1319	血红素蛋白
+T28	Test 1327 1330	血红素
+T29	Anatomy 1365 1367	骨髓
+T30	Anatomy 1370 1376	血红素加氧酶
+T31	Anatomy 1401 1404	胆绿素
+T32	Test 1433 1436	胆绿素
+T33	Test 1454 1460	胆绿素还原酶
+T34	Test 1492 1495	胆红素
+T35	Test 1509 1512	胆绿素
+T36	Test 1521 1524	胆红素
+T37	Anatomy 1527 1528	肝
+T38	Test 1530 1533	胆红素
+T39	Test 1550 1551;1552 1554	胆 红素
+T40	Test 1595 1598	胆红素
+T41	Test 1604 1607	胆红素
+T42	Test 1760 1765	间接胆红素
+T43	Test 1814 1819	直接胆红素
+T44	Anatomy 1862 1864	肝脏
+T45	Test 1866 1869	白蛋白
+T46	Anatomy 1874 1877	肝细胞
+T47	Anatomy 1886 1889	肝细胞
+T48	Anatomy 1898 1904	OATP1B
+T49	Anatomy 1914 1917	肝细胞
+T50	Test 1988 2005	胆红素 UDP 葡萄糖醛酸基转移酶
+T51	Test 2073 2081	葡萄糖醛酸胆红素
+T52	Anatomy 2176 2178	肠道
+T53	Anatomy 2183 2185	肠道
+T54	Anatomy 2188 2195	肠黏膜上皮细胞
+T55	Test 2197 2206	β-葡萄糖醛酸苷酶
+T56	Anatomy 2262 2264	肠肝
+T57	Test 2271 2274	胆红素
+T58	Test 2304 2307	胆红素
+T59	Anatomy 2308 2312	神经细胞
+T60	Test 2369 2372	胆红素
+T61	Test 2424 2427	胆红素
+T62	Test 2434 2437	胆红素
+T63	Test 2438 2441	BVR
+T64	Test 2442 2445	胆绿素
+T65	Test 2466 2469	胆红素
+T66	Test 2472 2481	高敏 C 反应蛋白
+T67	Disease 2515 2520	代谢综合征
+T68	Test 2527 2532	血清胆红素
+T69	Test 2550 2552;2553 2554	糖蛋 白
+T70	Test 2577 2582	血清胆红素
+T71	Disease 2587 2594	自身免疫性脑炎
+T72	Test 2605 2608	胆红素
+T73	Test 2625 2628	胆红素
+T74	Disease 2629 2635	糖尿病并发症
+T75	Disease 2653 2656	糖尿病
+T76	Symptom 2658 2663	长期高血糖
+T77	Anatomy 2704 2707	ROS
+T78	Disease 2718 2728	血管内皮氧化应激损伤
+T79	Test 2750 2752	血糖
+T80	Anatomy 2758 2762	内皮细胞
+T81	Test 2804 2810	ROS 产物
+T82	Test_Value 2810 2812	升高
+T83	Drug 2815 2822	超氧化物清除剂
+T84	Test 2824 2835	内皮源性一氧化氮合成酶
+T85	Disease 2903 2904;2905 2907	高 血糖
+T86	Anatomy 2911 2914	ROS
+T87	Disease 2926 2929	高血糖
+T88	Anatomy 2944 2964	核 转 录 因 子 相 关 E2 因 子
+T89	Anatomy 3044 3048	Nrf2
+T90	Test 3057 3061	HO-1
+T91	Symptom 3072 3075	高血糖
+T92	Anatomy 3078 3082	内皮细胞
+T93	Anatomy 3088 3098	Nrf2 / ARE
+T94	Drug 3117 3121;3122 3125	HO-1 抑制剂
+T95	Anatomy 3128 3132	BAEC
+T96	Anatomy 3138 3142	内皮细胞
+T97	Test 3144 3146	血糖
+T98	Test 3169 3172	胆红素
+T99	Anatomy 3176 3179;3180 3181	内皮细 胞
+T100	Anatomy 3188 3197	HO-1 内皮细胞
+T101	Test 3204 3207	胆红素
+T102	Disease 3225 3228	糖尿病
+T103	Anatomy 3233 3237	Nrf2
+T104	Disease 3247 3255	糖尿病血管并发症
+T105	Test 3266 3269	胆红素
+T106	Test 3297 3300	胆红素
+T107	Test 3301 3304	铁蛋白
+T108	Anatomy 3340 3344	HO-1
+T109	Test 3359 3361;3362 3363	胆红 素
+T110	Test 3364 3367	铁蛋白
+T111	Test_Value 3367 3369	升高
+T112	Test 3415 3418;3419 3422	葡萄糖 转移酶
+T113	Anatomy 3425 3430	GLUT4
+T114	Disease 3466 3472	2 型糖尿病
+T115	Test 3474 3479	血清胆红素
+T116	Reason 3488 3499	胰岛 β 细胞功能减退
+T117	Disease 3507 3516	糖尿病大血管并发症
+T118	Disease 3521 3524	糖尿病
+T119	Disease 3524 3530;3531 3532	心脑血管并发 症
+T120	Disease 3533 3536	糖尿病
+T121	Disease 3541 3543	死亡
+T122	Test 3550 3553	胆红素
+T123	Drug 3561 3565	抗氧化剂
+T124	Disease 3566 3572	动脉粥样硬化
+T125	Disease 3573 3576	冠心病
+T126	Disease 3597 3603	动脉粥样硬化
+T127	Test 3613 3616	胆红素
+T128	Symptom 3621 3624	高血糖
+T129	Anatomy 3628 3631	ROS
+T130	Reason 3638 3645	脂质过氧化损伤
+T131	Test 3650 3657	抗低密度脂蛋白
+T132	Test 3659 3662	LDL
+T133	Test 3672 3675	胆红素
+T134	Test 3680 3683	LDL
+T135	Anatomy 3684 3690	ox-LDL
+T136	Anatomy 3692 3696	内皮细胞
+T137	Anatomy 3705 3709	巨噬细胞
+T138	Anatomy 3712 3718	ox-LDL
+T139	Disease 3722 3726	粥样硬化
+T140	Anatomy 3727 3732	富脂质细胞
+T141	Test 3752 3755	胆红素
+T142	Anatomy 3776 3780	血管内皮
+T143	Test 3798 3800	血糖
+T144	Anatomy 3803 3807	HO-1
+T145	Anatomy 3825 3829	内皮细胞
+T146	Test 3838 3841	胆红素
+T147	Anatomy 3842 3846	HO-1
+T148	Test 3851 3857	胰岛细胞功能
+T149	Reason 3858 3865;3866 3868	促进胰岛素合成 增加
+T150	Test 3883 3887	餐后血糖
+T151	Disease 3890 3893	冠心病
+T152	Disease 3908 3911	糖尿病
+T153	Test 3913 3918	血清胆红素
+T154	Disease 3926 3929	糖尿病
+T155	Disease 3932 3942	Gibert 综合征
+T156	Disease 3947 3953	心血管并发症
+T157	Disease 3962 3972	Gibert 综合征
+T158	Disease 3973 3976	糖尿病
+T159	Test 4002 4005	胆红素
+T160	Test 4007 4010	C 肽
+T161	Test 4011 4017	糖化血红蛋白
+T162	Disease 4018 4024	2 型糖尿病
+T163	Test 4063 4067	HO-1
+T164	Disease 4075 4078	CVD
+T165	Treatment 4080 4084	靶向治疗
+T166	Test 4099 4102	胆红素
+T167	Test 4115 4119;4120 4125	游离型未 结合胆红素
+T168	Test 4137 4140	胆红素
+T169	Test 4141 4146	结合胆红素
+T170	Test 4157 4160	胆红素
+T171	Test_Value 4194 4196	升高
+T172	Test 4196 4199	胆红素
+T173	Disease 4207 4213	动脉粥样硬化
+T174	Test 4280 4285	胆红素水平
+T175	Test_Value 4285 4287	较高
+T176	Disease 4290 4293	CVD
+T177	Test 4318 4324	血清总胆红素
+T178	Disease 4332 4341	糖尿病微血管并发症
+T179	Disease 4353 4362	糖 尿 病 肾 病
+T180	Disease 4372 4381	糖 尿 病 肾 病
+T181	Disease 4406 4408	DN
+T182	Disease 4410 4415	终末期肾病
+T183	Test 4426 4429	胆红素
+T184	Disease 4432 4434	DN
+T185	Disease 4464 4470	动脉粥样硬化
+T186	Anatomy 4480 4485	肾小球血管
+T187	Test 4517 4522	血清胆红素
+T188	Disease 4526 4530;4531 4533	2 型糖 尿病
+T189	Disease 4536 4538	DN
+T190	Test 4554 4557	胆红素
+T191	Disease 4559 4561	DN
+T192	Test 4580 4584	血红蛋白
+T193	Disease 4585 4590	糖尿病肾病
+T194	Test 4607 4610	胆红素
+T195	Disease 4639 4645	2 型糖尿病
+T196	Test 4656 4661	血清胆红素
+T197	Test 4664 4668	尿白蛋白
+T198	Test 4669 4672	肾功能
+T199	Test 4673 4677	eGFR
+T200	Test 4699 4702	胆红素
+T201	Disease 4703 4708	糖尿病肾病
+T202	Disease 4758 4766	糖尿病视网膜病变
+T203	Disease 4771 4779	糖尿病视网膜病变
+T204	Disease 4802 4804	DR
+T205	Disease 4806 4809	糖尿病
+T206	Disease 4817 4821;4822 4824	微血管并 发症
+T207	Disease 4851 4854	糖尿病
+T208	Disease 4860 4862	DR
+T209	Anatomy 4872 4880	毛细血管内皮细胞
+T210	Anatomy 4884 4887	基底膜
+T211	Disease 4894 4898	官腔狭窄
+T212	Anatomy 4910 4913	视网膜
+T213	Anatomy 4919 4923	新生血管
+T214	Anatomy 4933 4938;4939 4941	视网膜毛细 血管
+T215	Anatomy 4954 4961	视网膜毛细血管
+T216	Anatomy 4973 4976	视网膜
+T217	Reason 4988 4994;4995 4996	局部视网膜缺 血
+T218	Disease 5002 5006	微动脉瘤
+T219	Anatomy 5010 5013	基底膜
+T220	Anatomy 5021 5023;5024 5025	视网 膜
+T221	Anatomy 5035 5037	血管
+T222	Disease 5061 5063	DR
+T223	Test 5084 5087	胆红素
+T224	Disease 5089 5091	DR
+T225	Disease 5147 5150	糖尿病
+T226	Disease 5154 5159	糖耐量异常
+T227	Test 5163 5166	胆红素
+T228	Test_Value 5169 5171	升高
+T229	Disease 5177 5179	DR
+T230	Test 5188 5191	胆红素
+T231	Disease 5198 5200	DR
+T232	Test 5224 5232	血浆同型半胱氨酸
+T233	Test 5233 5238	血清胆红素
+T234	Disease 5242 5246	T2DM
+T235	Disease 5250 5252	DR
+T236	Disease 5264 5268	T2DM
+T237	Disease 5272 5274	DR
+T238	Test 5278 5280;5281 5287	血浆 同型半胱氨酸
+T239	Test_Value 5287 5289	升高
+T240	Test 5290 5295	血清胆红素
+T241	Test_Value 5295 5297	下降
+T242	Test 5308 5309;5310 5313	总 胆红素
+T243	Disease 5315 5317	DR
+T244	Test 5327 5330	胆红素
+T245	Disease 5332 5334	DR
+T246	Test 5352 5355	胆红素
+T247	Disease 5359 5361	DR
+T248	Disease 5394 5402	糖尿病神经并发症
+T249	Disease 5407 5416	糖尿病周围神经病变
+T250	Disease 5442 5445	DPN
+T251	Anatomy 5467 5471	感觉神经
+T252	Anatomy 5472 5476	运动神经
+T253	Anatomy 5477 5481	植物神经
+T254	Symptom 5484 5486	疼痛
+T255	Symptom 5487 5489	麻木
+T256	Disease 5491 5495	运动障碍
+T257	Disease 5496 5504	自主神经功能障碍
+T258	Disease 5510 5513	DPN
+T259	Symptom 5533 5536	高血糖
+T260	Disease 5561 5564	高血糖
+T261	Disease 5567 5574	代谢性神经病变
+T262	Disease 5575 5577;5578 5581	血管 性病变
+T263	Symptom 5591 5596	高血糖状态
+T264	Anatomy 5600 5604	神经细胞
+T265	Reason 5631 5635	氧化应激
+T266	Disease 5647 5655	糖尿病多神经病变
+T267	Disease 5656 5662;5663 5665	心脏自主神经 病变
+T268	Reason 5674 5680	氧化应激反应
+T269	Disease 5682 5685	DPN
+T270	Test 5710 5715	血清胆红素
+T271	Disease 5719 5722	DPN
+T272	Test 5735 5740	血清胆红素
+T273	Disease 5744 5751	糖尿病神经病变
+T274	Test 5775 5778	胆红素
+T275	Anatomy 5788 5791	神经元
+T276	Reason 5792 5802	海马抵御氧化应激损伤
+T277	Disease 5837 5843	2 型糖尿病
+T278	Test 5848 5850	血糖
+T279	Test 5873 5875;5876 5882	血清 总胆红素浓度
+T280	Anatomy 5884 5890	角膜神经纤维
+T281	Test 5932 5938	血清总胆红素
+T282	Disease 5941 5944;5945 5951	糖尿病 周围神经病变
+T283	Test 5961 5972	密歇根神经病变筛查评分
+T284	Disease 5975 5984	糖尿病周围神经病变
+T285	Test 6017 6021	总胆红素
+T286	Anatomy 6024 6026	心脏
+T287	Anatomy 6026 6030	自主神经
+T288	Test 6043 6046	胆红素
+T289	Disease 6047 6056	糖尿病周围神经病变
+T290	Test 6097 6102	胆红素浓度
+T291	Test_Value 6102 6104	升高
+T292	Disease 6109 6112	糖尿病
+T293	Disease 6113 6118	代谢综合征
+T294	Test 6137 6139;6140 6141	胆红 素
+T295	Disease 6142 6148	缺血性脑卒中
+T296	Test 6153 6159	糖化血红蛋白
+T297	Disease 6162 6166	腹型肥胖

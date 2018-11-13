@@ -1,0 +1,147 @@
+T1	Disease 62 69	亚急性甲状腺炎
+T2	Disease 70 73	亚甲炎
+T3	Disease 108 111	亚甲炎
+T4	Disease 130 133	亚甲炎
+T5	Disease 75 85	原发性甲状腺功能减退
+T6	Disease 1152 1159	亚急性甲状腺炎
+T7	Disease 1182 1185	SAT
+T8	Symptom 1193 1197	颈部疼痛
+T9	Symptom 1226 1228	咽痛
+T10	Symptom 1229 1231	咽干
+T11	Disease 1247 1250	SAT
+T12	Disease 1297 1299	甲减
+T13	Disease 1321 1324	SAT
+T14	Disease 1340 1343	SAT
+T15	Disease 1474 1479;1480 1482	亚急性甲状 腺炎
+T16	Disease 1483 1488	原发性甲减
+T17	Disease 1498 1503	干燥综合征
+T18	Disease 1504 1507	糖尿病
+T19	Disease 1426 1431	原发性甲减
+T20	Disease 1415 1418	SAT
+T21	Disease 1517 1520	SAT
+T22	Disease 1557 1562	原发性甲减
+T23	Method 1688 1692	静脉注射
+T24	Drug 1692 1708	99 Tcm0-4370 MBq
+T25	Anatomy 1773 1775	口腔
+T26	Anatomy 1789 1791	腮腺
+T27	Anatomy 1792 1795	唾液腺
+T28	Anatomy 1796 1799	甲状腺
+T29	Anatomy 2012 2014	腮腺
+T30	Anatomy 2015 2017;2018 2019	颌下 腺
+T31	Disease 2045 2046;2047 2051	原 发性甲减
+T32	Anatomy 2053 2056	甲状腺
+T33	Anatomy 2057 2060	唾液腺
+T34	Anatomy 2065 2068	甲状腺
+T35	Anatomy 2075 2078	唾液腺
+T36	Disease 2100 2103	SAT
+T37	Symptom 2125 2127	咽干
+T38	Symptom 2128 2130	咽痛
+T39	Disease 2114 2118;2119 2121	上呼吸道 感染
+T40	Anatomy 2564 2567	甲状腺
+T41	Anatomy 2572 2574	腮腺
+T42	Anatomy 2576 2579	颌下腺
+T43	Anatomy 2583 2586	甲状腺
+T44	Anatomy 2591 2593	腮腺
+T45	Anatomy 2594 2597	颌下腺
+T46	Anatomy 2633 2635	腮腺
+T47	Drug 2641 2645	高锝酸钠
+T48	Anatomy 2762 2764	腮腺
+T49	Anatomy 2765 2768	颌下腺
+T50	Anatomy 2796 2798	腮腺
+T51	Anatomy 2799 2802	颌下腺
+T52	Disease 2824 2827	SAT
+T53	Reason 2839 2843	病毒感染
+T54	Reason 2847 2849;2850 2852	变态 反应
+T55	Symptom 2863 2865	颈痛
+T56	Symptom 2874 2876	咽痛
+T57	Symptom 2877 2879	咽干
+T58	Symptom 2880 2882	发热
+T59	Disease 2893 2899	上呼吸道感染
+T60	Disease 2900 2904	扁桃体炎
+T61	Anatomy 2919 2924	甲状腺组织
+T62	Anatomy 2925 2930	颈交感神经
+T63	Anatomy 2931 2935	迷走神经
+T64	Anatomy 2936 2940	舌咽神经
+T65	Anatomy 2944 2946	咽丛
+T66	Anatomy 2962 2966	舌咽神经
+T67	Anatomy 2967 2968;2969 2972	迷 走神经
+T68	Anatomy 2981 2984	孤束核
+T69	Anatomy 2986 2989	甲状腺
+T70	Anatomy 3000 3003	咽喉部
+T71	Test 3031 3043	甲状腺99Tcm核素扫描
+T72	Disease 3047 3050	SAT
+T73	Disease 3085 3089;3090 3093	甲状腺功 能亢进
+T74	Disease 3122 3125	SAT
+T75	Test 3106 3120	放射性核素99 Tcm 显像
+T76	Anatomy 3163 3166	唾液腺
+T77	Anatomy 3183 3186	唾液腺
+T78	Anatomy 3195 3198	甲状腺
+T79	Disease 3212 3214;3215 3218	原发 性甲减
+T80	Disease 3219 3222	SAT
+T81	Anatomy 3228 3231	甲状腺
+T82	Anatomy 3238 3241	唾液腺
+T83	Disease 3296 3301	原发性甲减
+T84	Disease 3325 3328	SAT
+T85	Disease 3360 3363	SAT
+T86	Anatomy 3373 3376	唾液腺
+T87	Test 3383 3390	甲状腺核素扫描
+T88	Disease 3434 3437	SAT
+T89	Disease 3476 3479	SAT
+T90	Reason 3501 3505	病毒感染
+T91	Reason 3506 3515	病毒感染后免疫反应
+T92	Anatomy 3529 3532	甲状腺
+T93	Anatomy 2637 2640	颌下腺
+T94	Disease 5 12	亚急性甲状腺炎
+T95	Anatomy 16 19	唾液腺
+T96	Test 22 29	放射性核素显像
+T97	Anatomy 92 95	甲状腺
+T98	Anatomy 96 97;98 100	唾 液腺
+T99	Test 100 104	核素显像
+T100	Anatomy 113 116	唾液腺
+T101	Anatomy 136 139	甲状腺
+T102	Anatomy 140 143	唾液腺
+T103	Anatomy 159 161	咽部
+T104	Test 117 124	靶 /非靶比值
+T105	Test_Value 124 128	明显降低
+T106	Anatomy 1205 1207	咽部
+T107	Disease 1278 1281	SAT
+T108	Anatomy 1307 1310	唾液腺
+T109	Anatomy 1327 1330	唾液腺
+T110	Anatomy 1348 1350	咽部
+T111	Test 1841 1846	放射性比值
+T112	Disease 1971 1974	SAT
+T113	Anatomy 1979 1982	甲状腺
+T114	Test 1990 1995	放射性分布
+T115	Test_Value 1995 1999	明显减低
+T116	Test 2024 2029	放射性分布
+T117	Test_Value 2029 2031	减低
+T118	Test 2032 2041	与周围组织本底比值
+T119	Test_Value 2041 2043	减低
+T120	Test 2068 2073	放射性分布
+T121	Symptom 2991 2993	疼痛
+T122	Test 3060 3061;3062 3068	甲 状腺摄锝功能
+T123	Test_Value 3068 3072	明显减低
+T124	Test 3333 3340	甲状腺摄锝功能
+T125	Test_Value 3340 3341;3342 3343	减 低
+T126	Test_Value 3352 3356	明显减低
+T127	Test_Value 3207 3209	减低
+T128	Test_Value 3448 3450	降低
+T129	Anatomy 3458 3460	咽部
+T130	Disease 1285 1288;1289 1296	原发性 甲状腺功能减退
+T131	Anatomy 1776 1783	甲状腺峡部中点
+T132	Anatomy 2603 2605	腮腺
+T133	Anatomy 2611 2614	颌下腺
+T134	Test 2658 2667;2668 2671	甲状腺 /本底放射 性比值
+T135	Test 2704 2707;2708 2712	甲状腺 摄取功能
+T136	Test 2729 2735	腮腺 /本底
+T137	Test 2736 2743	颌下腺 /本底
+T138	Test 3247 3255	甲状腺的摄取功能
+T139	Test 3269 3277	唾液腺的摄取功能
+T140	Test 3200 3207	甲状腺摄取功能
+T141	Test 3311 3318	唾液腺摄取功能
+T142	Test 3344 3351	唾液腺摄取功能
+T143	Test 3418 3425	唾液腺摄取水平
+T144	Test 3441 3448	唾液腺摄取功能
+T145	Disease 1459 1464	甲状腺疾病
+T146	Disease 3400 3405	甲状腺疾病
+T147	Anatomy 1764 1766	颈部

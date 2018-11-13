@@ -1,0 +1,373 @@
+T1	Drug 73 84	二肽基肽酶 4 抑制剂
+T2	Anatomy 86 88	胰岛
+T3	Anatomy 99 104	Bcl-2
+T4	Anatomy 107 110	Bax
+T5	Drug 151 192	二肽基肽酶 4(dipeptidyl peptidase-4, DPP-4)抑制剂
+T6	Anatomy 193 200	胰岛 β 细胞
+T7	Anatomy 201 206	Bcl-2
+T8	Anatomy 209 212;213 215	Bax 蛋白
+T9	Anatomy 228 232	胰腺组织
+T10	Drug 268 272	GABA
+T11	Drug 333 338	链脲佐菌素
+T12	Disease 350 353	糖尿病
+T13	Drug 373 382	DPP-4 抑制剂
+T14	Drug 389 397;398 399	DPP-4 抑制 剂
+T15	Drug 400 410	GABA 受体拮抗剂
+T16	Duration 418 421	6 周
+T17	Test 424 426	血糖
+T18	Test 427 432	血清胰岛素
+T19	Test 433 437	胰升糖素
+T20	Anatomy 444 448	β 细胞
+T21	Test 450 454	GABA
+T22	Anatomy 456 461	Bcl-2
+T23	Anatomy 464 467	Bax
+T24	Drug 484 493	DPP-4 抑制剂
+T25	Disease 495 498	糖尿病
+T26	Test 506 509	胰岛素
+T27	Test_Value 511 513	升高
+T28	Test 524 526	血糖
+T29	Test_Value 528 530	降低
+T30	Test 542 548	胰升糖素水平
+T31	Test_Value 548 550	降低
+T32	Drug 571 580	DPP-4 抑制剂
+T33	Test 587 592	血清胰岛素
+T34	Test_Value 594 596	降低
+T35	Test 606 608	血糖
+T36	Test_Value 610 612	升高
+T37	Test 624 630	胰升糖素水平
+T38	Test_Value 630 632	升高
+T39	Drug 646 655	DPP-4 抑制剂
+T40	Disease 657 660	糖尿病
+T41	Anatomy 668 675	胰岛 β 细胞
+T42	Test 676 680	GABA
+T43	Test_Value 683 685	升高
+T44	Anatomy 695 698	Bax
+T45	Test_Value 703 705	降低
+T46	Anatomy 716 721	Bcl-2
+T47	Test_Value 727 729	升高
+T48	Disease 749 752	糖尿病
+T49	Anatomy 760 767	胰岛 β 细胞
+T50	Test 768 772	GABA
+T51	Drug 790 799	DPP-4 抑制剂
+T52	Anatomy 805 812	胰岛 β 细胞
+T53	Anatomy 813 816	Bax
+T54	Test_Value 821 823	升高
+T55	Anatomy 833 838	Bcl-2
+T56	Drug 861 870	DPP-4 抑制剂
+T57	Anatomy 876 878	胰岛
+T58	Drug 879 883	GABA
+T59	Anatomy 889 892	胰岛素
+T60	Anatomy 907 925	胰岛 β 细胞抗凋亡蛋白 Bcl-2
+T61	Anatomy 932 939	胰岛 β 细胞
+T62	Anatomy 945 948	Bax
+T63	Disease 956 962	2 型糖尿病
+T64	Anatomy 965 972	胰岛 β 细胞
+T65	Drug 985 994	DPP-4 抑制剂
+T66	Anatomy 1004 1009	Bcl-2
+T67	Anatomy 1014 1017	Bax
+T68	Anatomy 1025 1029	β 细胞
+T69	Anatomy 1091 1096	Bcl-2
+T70	Anatomy 1101 1104	Bax
+T71	Anatomy 1554 1559	Bcl-2
+T72	Anatomy 1564 1567	Bax
+T73	Drug 1655 1659	GABA
+T74	Anatomy 2203 2208	Bcl-2
+T75	Anatomy 2214 2217	Bax
+T76	Anatomy 2691 2696	Bcl-2
+T77	Anatomy 2967 2970	Bax
+T78	Anatomy 3070 3075	Bcl-2
+T79	Anatomy 3265 3270	Bcl-2
+T80	Anatomy 3565 3570	Bcl-2
+T81	Anatomy 3580 3583	Bax
+T82	Disease 3661 3667	2 型糖尿病
+T83	Reason 3675 3684	胰岛 β 细胞受损
+T84	Drug 3686 3727	二肽基肽酶 4(dipeptidyl peptidase-4, DPP-4)抑制剂
+T85	Disease 3735 3738	糖尿病
+T86	Drug 3747 3752;3753 3756	胰升糖素样 肽 1
+T87	Anatomy 3782 3787	GLP-1
+T88	Anatomy 3801 3808	胰岛 β 细胞
+T89	Anatomy 3813 3820	胰岛 β 细胞
+T90	Drug 3827 3836	DPP-4 抑制剂
+T91	Drug 3840 3845	链脲佐菌素
+T92	Disease 3853 3855;3856 3857	糖尿 病
+T93	Disease 3859 3863	高血糖症
+T94	Anatomy 3874 3878	β 细胞
+T95	Anatomy 3887 3891	α 细胞
+T96	Test 3899 3905	γ 氨基丁酸
+T97	Drug 3934 3938	GABA
+T98	Anatomy 3940 3947	胰岛 β 细胞
+T99	Anatomy 3967 3971	β 细胞
+T100	Anatomy 3973 3977	α 细胞
+T101	Anatomy 3980 3981;3982 3984	胰 岛素
+T102	Anatomy 3989 3993	胰升糖素
+T103	Anatomy 4005 4008;4009 4010	β 细 胞
+T104	Anatomy 4016 4020	β 细胞
+T105	Drug 4039 4042	STZ
+T106	Anatomy 4049 4057	INS-1 细胞
+T107	Anatomy 4069 4076	胰岛 β 细胞
+T108	Drug 4084 4088	GABA
+T109	Anatomy 4090 4097	胰岛 β 细胞
+T110	Anatomy 4109 4123	Ca+ -磷酸肌醇 3 激酶
+T111	Anatomy 4140 4143	Akt
+T112	Anatomy 4150 4153	胰岛素
+T113	Anatomy 4157 4160	胰岛素
+T114	Anatomy 4185 4189	β 细胞
+T115	Drug 4196 4200	GABA
+T116	Drug 4202 4206	GABA
+T117	Anatomy 4209 4213	α 细胞
+T118	Anatomy 4226 4230	胰升糖素
+T119	Drug 4239 4248	DPP-4 抑制剂
+T120	Anatomy 4250 4251;4252 4254	胰 岛素
+T121	Anatomy 4268 4275	胰岛 β 细胞
+T122	Drug 4288 4292	GABA
+T123	Test 4339 4341	体重
+T124	Drug 4381 4385	西格列汀
+T125	Anatomy 4475 4478	胰岛素
+T126	Test 4479 4483	胰升糖素
+T127	Test 4515 4519	GABA
+T128	Anatomy 4521 4526	Bcl-2
+T129	Anatomy 4528 4531	Bax
+T130	Test 4630 4632	体重
+T131	Disease 4693 4696	糖尿病
+T132	Drug 4801 4804	STZ
+T133	Amount 4805 4815	35 mg / kg
+T134	Method 4855 4859	腹腔注射
+T135	Test 4887 4889	血糖
+T136	Test 4892 4894	血糖
+T137	Test 4897 4899	血糖
+T138	Disease 4935 4937	死亡
+T139	Disease 4968 4970;4971 4972	糖尿 病
+T140	Drug 4976 4985	DPP-4 抑制剂
+T141	Drug 4993 5001;5002 5003	DPP-4 抑制 剂
+T142	Drug 5006 5010	西格列汀
+T143	Amount 5011 5021	10 mg / kg
+T144	Drug 5044 5048	西格列汀
+T145	Amount 5049 5059	10 mg / kg
+T146	Disease 5080 5083	糖尿病
+T147	Amount 5092 5102	10 mg / kg
+T148	Amount 5119 5129	10 mg / kg
+T149	Amount 5146 5151;5152 5160	1 mg· kg-1·d-1
+T150	Method 5160 5164	腹腔注射
+T151	Duration 5169 5172	6 周
+T152	Test 5183 5184;5185 5186	血 糖
+T153	Test 5193 5195	体重
+T154	Duration 5197 5200	6 周
+T155	Anatomy 5220 5223	股动脉
+T156	Anatomy 5240 5241;5242 5245	胰 腺组织
+T157	Test 5292 5294	血糖
+T158	Test 5311 5312;5313 5317	血 清胰岛素
+T159	Test 5318 5322	胰升糖素
+T160	Test 5341 5348	胰岛 GABA
+T161	Anatomy 5362 5367	Bcl-2
+T162	Anatomy 5383 5386	Bax
+T163	Anatomy 5407 5409;5410 5413	胰岛 细胞质
+T164	Anatomy 5476 5478	胰岛
+T165	Test 5701 5703	血糖
+T166	Test 5704 5709	血清胰岛素
+T167	Test 5710 5714	胰升糖素
+T168	Drug 5719 5728	DPP-4 抑制剂
+T169	Disease 5730 5733	糖尿病
+T170	Test 5739 5743;5744 5745	血清胰岛 素
+T171	Test_Value 5747 5749	升高
+T172	Test 5759 5761	血糖
+T173	Test_Value 5763 5765	降低
+T174	Test 5865 5872	胰岛 GABA
+T175	Anatomy 5873 5878	Bcl-2
+T176	Anatomy 5879 5882	Bax
+T177	Anatomy 5949 5954	Bcl-2
+T178	Anatomy 5956 5959	Bax
+T179	Test 6020 6022	血糖
+T180	Test 6023 6026	胰岛素
+T181	Test 6027 6031	胰升糖素
+T182	Test 6141 6143	血糖
+T183	Drug 6364 6373	DPP-4 抑制剂
+T184	Drug 6645 6654	DPP-4 抑制剂
+T185	Test 6694 6700	胰升糖素水平
+T186	Test_Value 6700 6702	降低
+T187	Drug 6719 6726;6727 6729	DPP-4 抑 制剂
+T188	Test 6735 6740	血清胰岛素
+T189	Test 6754 6755;6756 6757	血 糖
+T190	Test_Value 6759 6761	升高
+T191	Test 6773 6779	胰升糖素水平
+T192	Test_Value 6779 6781	升高
+T193	Test 6804 6811	胰岛 GABA
+T194	Anatomy 6812 6817	Bcl-2
+T195	Anatomy 6818 6821	Bax
+T196	Drug 6833 6842	DPP-4 抑制剂
+T197	Disease 6844 6847	糖尿病
+T198	Anatomy 6858 6862	β 细胞
+T199	Test 6863 6867	GABA
+T200	Test_Value 6870 6872	升高
+T201	Test 6882 6886	GABA
+T202	Anatomy 6897 6904	胰岛 β 细胞
+T203	Anatomy 6905 6908	Bax
+T204	Test_Value 6913 6915	降低
+T205	Anatomy 6925 6930	Bcl-2
+T206	Test_Value 6936 6938	升高
+T207	Disease 6953 6956	糖尿病
+T208	Anatomy 6970 6974	胰腺组织
+T209	Test 6976 6980	GABA
+T210	Anatomy 6981 6986	Bcl-2
+T211	Anatomy 6989 6992	Bax
+T212	Anatomy 7036 7041	Bcl-2
+T213	Anatomy 7047 7050	Bax
+T214	Test 7113 7127	GABA Bcl-2 Bax
+T215	Drug 7273 7282	DPP-4 抑制剂
+T216	Drug 7589 7596;7597 7599	DPP-4 抑 制剂
+T217	Anatomy 7643 7650	胰岛 β 细胞
+T218	Test 7651 7655	GABA
+T219	Test_Value 7658 7660	升高
+T220	Drug 7672 7681	DPP-4 抑制剂
+T221	Anatomy 7687 7694	胰岛 β 细胞
+T222	Anatomy 7695 7698	Bax
+T223	Anatomy 7716 7721	Bcl-2
+T224	Test_Value 7727 7729	降低
+T225	Drug 7751 7760	DPP-4 抑制剂
+T226	Anatomy 7768 7773	DPP-4
+T227	Anatomy 7790 7795	GLP-1
+T228	Anatomy 7806 7810;7811 7812	GLP- 1
+T229	Test 7819 7821	血糖
+T230	Anatomy 7826 7833	胰岛 β 细胞
+T231	Anatomy 7835 7840	GLP-1
+T232	Anatomy 7854 7861	胰岛 β 细胞
+T233	Test 7863 7866	胰岛素
+T234	Anatomy 7872 7879	胰岛 α 细胞
+T235	Anatomy 7881 7885	胰升糖素
+T236	Anatomy 7919 7924	GLP-1
+T237	Anatomy 7940 7947	胰岛 β 细胞
+T238	Drug 7950 7954	GABA
+T239	Drug 7965 7969	GABA
+T240	Test 7974 7977	GAD
+T241	Drug 7995 7999	GABA
+T242	Test 8004 8007	糖耐量
+T243	Anatomy 8010 8013	胰岛素
+T244	Drug 8022 8026	GABA
+T245	Anatomy 8028 8034	中枢神经系统
+T246	Anatomy 8052 8059	胰岛 β 细胞
+T247	Drug 8075 8079	GABA
+T248	Anatomy 8120 8128	调节性 T 细胞
+T249	Drug 8133 8137	GABA
+T250	Anatomy 8139 8146	胰岛 β 细胞
+T251	Drug 8164 8168	GABA
+T252	Test 8172 8176;8177 8179	胰岛细胞 功能
+T253	Test 8180 8182	血糖
+T254	Drug 8220 8224	GABA
+T255	Anatomy 8230 8237	胰岛 β 细胞
+T256	Disease 8248 8251	糖尿病
+T257	Disease 8265 8271	2 型糖尿病
+T258	Symptom 8277 8289	胰岛 β 细胞进行性受损
+T259	Anatomy 8291 8294	胰岛素
+T260	Drug 8308 8317	DPP-4 抑制剂
+T261	Anatomy 8321 8328	胰岛 β 细胞
+T262	Anatomy 8353 8357	β 细胞
+T263	Anatomy 8359 8362	胰岛素
+T264	Anatomy 8366 8370	α 细胞
+T265	Anatomy 8373 8377	胰升糖素
+T266	Test 8380 8382	血糖
+T267	Test 8389 8395;8396 8397	空腹和餐后血 糖
+T268	Disease 8413 8419	2 型糖尿病
+T269	Drug 8430 8439	DPP-4 抑制剂
+T270	Drug 8447 8456	DPP-4 抑制剂
+T271	Disease 8462 8468	2 型糖尿病
+T272	Test 8471 8475	胰岛功能
+T273	Test 8476 8483;8484 8485	空腹和餐后胰岛 素
+T274	Test 8491 8500	胰岛素原 /胰岛素
+T275	Test 8505 8507	血糖
+T276	Test 8509 8514	HBA1C
+T277	Test_Value 8516 8520	显著降低
+T278	Disease 8536 8539	糖尿病
+T279	Drug 8545 8554	DPP-4 抑制剂
+T280	Test 8559 8563	血糖水平
+T281	Test_Value 8563 8567	明显下降
+T282	Test 8569 8574	血清胰岛素
+T283	Test_Value 8576 8578	升高
+T284	Test 8581 8587	胰升糖素水平
+T285	Test_Value 8587 8589	降低
+T286	Disease 8595 8598	糖尿病
+T287	Test 8601 8603	血糖
+T288	Anatomy 8613 8620	胰岛 β 细胞
+T289	Drug 8624 8628	GABA
+T290	Anatomy 8651 8658	胰岛 α 细胞
+T291	Anatomy 8662 8669	GABA 受体
+T292	Anatomy 8697 8701	胰升糖素
+T293	Drug 8710 8714	GABA
+T294	Disease 8716 8719	糖尿病
+T295	Test 8738 8741	胰岛素
+T296	Test_Value 8745 8747	降低
+T297	Test 8747 8753	胰升糖素水平
+T298	Drug 8758 8762	GABA
+T299	Anatomy 8764 8771	胰岛 β 细胞
+T300	Anatomy 8772 8779	GABA 受体
+T301	Anatomy 8802 8809	胰岛 β 细胞
+T302	Anatomy 8811 8813;8814 8815	胰岛 素
+T303	Drug 8821 8825	GABA
+T304	Anatomy 8828 8831	胰岛素
+T305	Test 8843 8847	GABA
+T306	Anatomy 8850 8855	B 型受体
+T307	Anatomy 8863 8866	胰岛素
+T308	Anatomy 8883 8890	胰岛 β 细胞
+T309	Drug 8896 8900	GABA
+T310	Disease 8907 8913	2 型糖尿病
+T311	Anatomy 8920 8935	GABA A 通道亚单位 α1
+T312	Anatomy 8945 8947	β3
+T313	Drug 8957 8961	GABA
+T314	Anatomy 8966 8970;8971 8973	胰岛 α 细胞
+T315	Anatomy 8975 8979	β 细胞
+T316	Anatomy 8982 8992	GABA A 型通道
+T317	Anatomy 8994 9004	GABA B 型通道
+T318	Disease 9009 9015	2 型糖尿病
+T319	Anatomy 9021 9023	胰岛
+T320	Drug 9030 9043	GABA A 型受体拮抗剂
+T321	Test 9047 9050	胰岛素
+T322	Anatomy 9053 9056;9057 9058	胰升糖 素
+T323	Drug 9064 9076	GABA B 受体拮抗剂
+T324	Anatomy 9080 9083	胰岛素
+T325	Drug 9101 9110	DPP-4 抑制剂
+T326	Anatomy 9116 9123	GABA 受体
+T327	Anatomy 9131 9140	GABA A 受体
+T328	Test 9143 9146	胰岛素
+T329	Test_Value 9149 9151	降低
+T330	Test 9152 9158	胰升糖素水平
+T331	Test_Value 9158 9160	升高
+T332	Test 9161 9163	血糖
+T333	Test_Value 9163 9165	升高
+T334	Drug 9167 9176	DPP-4 抑制剂
+T335	Disease 9180 9183	糖尿病
+T336	Anatomy 9186 9192;9193 9194	胰岛 β 细 胞
+T337	Anatomy 9203 9213	Bcl-2 mRNA
+T338	Anatomy 9227 9230	Bax
+T339	Anatomy 9253 9260	胰岛 β 细胞
+T340	Disease 9265 9268	糖尿病
+T341	Disease 9284 9287	糖尿病
+T342	Drug 9293 9302	DPP-4 抑制剂
+T343	Test 9306 9308;9309 9313	胰岛 GABA
+T344	Anatomy 9322 9327	Bcl-2
+T345	Anatomy 9335 9338	Bax
+T346	Drug 9357 9361	GABA
+T347	Anatomy 9369 9376	胰岛 β 细胞
+T348	Anatomy 9380 9387	GABA 受体
+T349	Anatomy 9402 9406	PI3K
+T350	Anatomy 9409 9412	Akt
+T351	Anatomy 9420 9427	胰岛 β 细胞
+T352	Test 9437 9441	GABA
+T353	Anatomy 9459 9463	β 细胞
+T354	Anatomy 9481 9482;9483 9486	淋 巴细胞
+T355	Anatomy 9487 9489	胰岛
+T356	Anatomy 9496 9500	β 细胞
+T357	Disease 9507 9508;9509 9511	糖 尿病
+T358	Drug 9535 9542;9543 9545	DPP-4 抑 制剂
+T359	Disease 9554 9557	糖尿病
+T360	Anatomy 9560 9566;9567 9574	胰岛抗凋亡蛋 白 Bcl-2
+T361	Anatomy 9588 9591	Bax
+T362	Test 9602 9609	胰岛 GABA
+T363	Drug 9620 9629	DPP-4 抑制剂
+T364	Anatomy 9635 9637	胰岛
+T365	Drug 9638 9642	GABA
+T366	Anatomy 9649 9652	胰岛素
+T367	Test 9666 9668	血糖
+T368	Anatomy 9678 9683	Bcl-2
+T369	Anatomy 9696 9699	Bax
+T370	Anatomy 9708 9715	胰岛 β 细胞
+T371	Anatomy 9726 9727;9728 9730	β 细胞
+T372	Drug 9732 9741	DPP-4 抑制剂
+T373	Anatomy 9742 9749	胰岛 β 细胞

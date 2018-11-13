@@ -1,0 +1,511 @@
+临床研究
+基金项目:973 计划项目(2012CB524906);卫生部 2011 年国家临床重点专科建设项目[卫办医政函(2011)873 号
+文];中华医学会临床医学科研专项基金(12020570357);上海申康医院发展中心项目(SHDC12012201);上海市卫生局新
+三年卫生行动计划(12GWZX0103);上海市科委重点项目(10411956400)
+利用非酒精性脂肪性肝病纤维化评分评估
+住院 2 型糖尿病患者的肝脏纤维化状况
+卞华  张林杉  颜红梅  夏明锋  常薪霞  高鑫
+[摘要]   目的   应用非酒精性脂肪性肝病纤维化评分(NFS)初步估计合并非酒精性脂肪性肝病
+(NAFLD)的住院 2 型糖尿病患者(T2DM)中进展性纤维化(stage>2)的患病状况,并对其相关危险因素进
+行分析。 方法 采集 721 例肝脏彩超诊断为 NAFLD 的住院 2 型糖尿病患者的病史资料、生化指标、计算
+NFS。 NFS 积分>0. 676 诊断为进展性纤维化,积分<-1. 455 可排除进展性纤维化。 结果 (1) 超声诊断
+NAFLD 的 T2DM 患者共 721 例(男 /女,371 / 350),其中,NFS>0. 676 者 173 例(24. 0% ),NFS<-1. 455 者
+111 例(15. 4% ),NFS 在-1. 455 ~ 0. 676 者 437 例(60. 6% )。 (2) 年龄、体重指数、谷草转氨酶 /谷丙转氨
+酶(AST / ALT)比值升高和白蛋白、血小板减少是 NAFLD 进展性纤维化的危险因素。 此外,NFS 与糖尿病
+病程、腰围、收缩压、糖化白蛋白(GA)、GA / HBA1C比值之间呈线性正相关(均 P<0. 01);与红细胞计数、血
+红蛋白、白细胞计数(WBC)、总胆固醇(TC)、甘油三酯、载脂蛋白-B、ALT、γ-谷氨酰转移酶(均 P<0. 01)、
+AST、低密度脂蛋白胆固醇(均 P<0. 05)之间呈线性负相关。 (3) 多因素分析显示:糖尿病病程、腰围和 GA
+与进展性纤维化正相关(OR 分别为 1. 182、1. 076、1. 074,均 P<0. 01);WBC 和 TC 与进展性纤维化负相关
+(OR 分别为 0. 613、0. 703,均 P<0. 01)。 结论 根据 NFS 估计 T2DM 合并 NAFLD 患者的进展性纤维化患
+病率为 24. 0% ,可以排除进展性纤维化的比例仅为 15. 4% ;提示应警惕合并 NAFLD 的 2 型糖尿病患者发
+生肝脏纤维化的风险。
+[关键词]   糖尿病, 2 型; 非酒精性脂肪性肝病; 纤维化
+The status of liver fibrosis evaluated by non-alcoholic fatty liver disease fibrosis score in hospitalized patients
+with type 2 diabetes mellitus Bian Hua, Zhang Linshan, Yan Hongmei, Xia Mingfeng, Chang Xinxia, Gao
+Xin. Department of Endocrinology and Metabolism, Zhongshan Hospital, Fudan University, Shanghai 200032, China
+[Abstract]  Objective  To evaluate the severity of non-alcoholic fatty liver disease(NAFLD) and progressive
+liver fibrosis(stage>2) in hospitalized patients with type 2 diabetes mellitus(T2DM) by using NAFLD fibrosis score
+(NFS). The risk factors associated with progressive fibrosis were also analyzed. Methods A total of 721 hospitalized
+patients with T2DM and ultrasound verified NAFLD were involved. The history information and laboratory
+examinations were collected, NFS was calculated. The low cutoff score ( -1. 455) of NFS was used to exclude, and
+high cutoff score (0. 676) to further accurately diagnose progressive fibrosis. Results (1) A total of 721 subjects
+(male / female 371 / 350 ) were diagnosed as NAFLD by ultrasound. In those subjects, 173 patients were with
+progressive fibrosis (24. 0% ), 111 patients without progressive fibrosis (15. 4% ), and 437 patients (60. 6% ) with
+NFS ranged from - 1. 455 to 0. 676. (2) Aging, raised body mass index, aspartate amino transferase / alanine
+aminotransferase ( AST / ALT) ratio, lowered albumin, and platelet were risk factors for progressive fibrosis of
+NAFLD. In addition, NFS was positively correlated with duration of diabetes, waist circumference, SBP, glycated
+albumin(GA), and GA / HBA1C(all P<0. 01), and negatively with red blood cell count, hemoglobin, white blood
+cell count (WBC), total cholesterol (TC), triglyceride, apolipoprotein-B, ALT, γ-glutamyltranspeptidase (all P<
+0. 01), AST, low-density lipoprotein cholesterol ( all P<0. 05) . (3) Logistic stepwise regression analysis showed
+diabetes duration, waist circumference, and GA were positively correlated with progressive liver fibrosis(OR=1. 182,
+1. 076,1. 074, all P<0. 01), and negatively with WBC and TC (OR = 0. 613,0. 703, all P<0. 01) . Conclusions
+The detection rate of progressive fibrosis in patients with NAFLD and T2DM was approximately 24. 0% by applying
+NFS. Only 15. 4% of those subjects could be excluded from progressive fibrosis. It suggests that we should be alert to
+the risk of liver fibrosis in patients with type 2 diabetes.
+[Key words]  Diabetes mellitus, type 2; Non-alcoholic fatty liver disease; Fibrosis
+(Chin J Endocrinol Metab, 2014, 30: 960-965)
+非酒精性脂肪性肝病(NAFLD)和 2 型糖尿病由
+于存在共同的危险因素因而经常并存。 NAFLD 在总
+人群中的患病率为 20% ~ 30% [1],而在 2 型糖尿病人
+群中的患病率高达 75% [2]。 NAFLD /非酒精性脂肪性
+肝炎(NASH)促进肝脏胰岛素抵抗并且增加 2 型糖尿
+病风险,或者恶化现已发生的糖尿病;反之,很多研究
+提示 2 型糖尿病又是肝脏进展性纤维化的一种强有力
+的促进因素;两者之间有着不可分割的联系。 国外相
+关研究显示,肝活检证实 NAFLD 的 2 型糖尿病患者
+中,NASH 及进展性纤维化的患病率显著升高,分别为
+63% ~ 87% 和 34% ~ 60% ,引起研究者的广泛关
+注[3,4]。 合并 NAFLD 的糖尿病患者更易发生进展性
+纤维化,且肝脏相关死亡率和心血管疾病风险增加,且
+死亡率增加[5],因此,评估 2 型糖尿病患者的肝脏纤维
+化程度及其相关危险因素显得尤为重要。 但遗憾的是
+国内目前尚无相关报道。 虽然肝活检仍然是评估
+NAFLD 患者炎症和纤维化的金标准,但是它的有创性
+限制了其在糖尿病人群中的广泛开展,造成了临床上
+识别 NASH 尤其是伴随肝纤维化改变的困难。 本研究
+旨在应用已经过多个队列反复验证,并且被 2012 年美
+国胃肠病协会指南中推荐使用的 NAFLD 纤维化评分
+(NFS) [6-8],初步估计合并 NAFLD 的住院 2 型糖尿病
+患者中进展性纤维化的患病状况,并对 2 型糖尿病患
+者进展性纤维化的相关危险因素进行初步分析。
+对象和方法
+一、 对象
+收集 2009 年 9 月至 2013 年 1 月本院内分泌科住
+院合并 NAFLD(本院肝脏超声证实)的 2 型糖尿病患
+者 721 例 (男 /女 371 / 350) 进行回顾性分析,年龄
+(58. 4 ± 13. 6)岁,病程为 5. 0 (0. 5 ~ 10. 0)年,计算
+NFS 积分。 所有患者均符合 2003 年美国糖尿病协会
+(ADA)糖尿病诊断标准,排除(1) 1 型糖尿病、特殊类
+型糖尿病、妊娠糖尿病、分型不详的糖尿病患者;(2)
+酒精量男性≥140 g /周,女性≥70 g /周;(3) 病毒性肝
+炎、药物性肝病等其他肝病;(4) 全胃肠外营养、甲状
+腺功能减退等内分泌疾病可导致脂肪肝的特定疾病;
+(5) 合并糖尿病急性并发症、重症感染、终末期肾病、
+血液病等机体代谢状况严重紊乱的特殊情况。
+二、 方法
+采用回顾性研究收集受试者病史资料:项目包括
+现病史、既往史、饮酒史;身高、体重、腰围、血压;采用
+Sysmex XE2100 全自动血液分析仪检测血常规[红细
+胞(电阻抗法),血小板 (电阻抗法),白细胞 (流式
+法)];采用日本日立公司 7600 生化分析仪检测空腹
+血糖(FBG,葡萄糖氧化酶法)、HBA1C(高效液相色谱
+法)、糖化白蛋白(GA,酶法)、肝功能[白蛋白(溴甲酚
+紫法)、丙氨酸氨基转移酶(ALT,紫外乳酸脱氢酶法)、
+天门冬氨酸氨基转移酶(AST,液体酶法)、γ-谷氨酰转
+肽酶(γ-GT,L-Y-谷胺酰-3-羧基-4-硝基苯胺法)]、血
+脂谱[总胆固醇(TC,氧化酶法)、甘油三酯(TG,氧化
+酶法)、高密度脂蛋白胆固醇(HDL-C,氧化酶法)、低
+密度脂蛋白胆固醇(LDL-C,由 Friedewald 公式计算获
+得)、载脂蛋白 A(APO-A,免疫比浊法)、载脂蛋白 B
+(APO-B,免疫比浊法)]、C 反应蛋白(CRP,免疫比浊
+法),测定 100 g 馒头餐试验后 2 h 血糖(2hPG,葡萄糖
+氧化酶法),采用 Cobas e601 型全自动电化学发光免
+疫分析仪及配套试剂盒测定空腹 C 肽(FCP)、空腹胰
+岛素(FINS)、2 h C 肽和 2 h 胰岛素水平(C 肽、胰岛素
+测定均为放射免疫分析法)。 计算体重指数(BMI)和
+NFS。
+三、 诊断标准
+1. 腹部彩超:规定具备以下 3 项超声表现中的两
+项者为弥漫性脂肪肝[9]:(1)肝脏近场回声弥漫性增
+强(“明亮肝冶),回声强于肾脏;(2)肝内管道结构显
+示不清;(3)肝脏远场回声逐渐衰减。
+2. 无创性诊断 NFS:NFS = -1. 675+0. 037 ×年龄
+(岁)+0. 094×BMI(kg / m2) +1. 13×空腹血糖受损 /糖
+尿病(是+1,否+0) +0. 99×AST / ALT 比值-0. 013×血
+小板计数(×109 / L)-0. 66×白蛋白(g / dl);积分>0. 676
+诊断为进展性纤维化,积分<-1. 455 除外进展性纤维
+化[6]。
+四、 统计学处理
+应用 SPSS 19. 0 进行统计分析。 符合正态分布者
+以 x-± s 表示,两独立样本比较采用 t 检验;非正态分布
+数据以中位数(四分位间距)表示,采用非参数方法进
+行统计;均值比较采用单因素分析;构成比以及率的比
+较采用 字2检验;多因素分析采用 logistic 回归。 以 P<
+0. 05 表示差异有统计学意义。
+结    果
+一、 2 型糖尿病患者 NAFLD 患病状况分析
+表 1  受试者一般临床特征[x-± s,中位数(四分位间距)]
+Tab 1  Anthropometric and biochemical characteristics of the study subjects[x-± s,M(quartile)]
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+糖尿病病程
+Diabetes duration
+(年)
+(year)
+BMI
+(kg / m2)
+WC
+(cm)
+SBP
+(mmHg)
+DBP
+(mmHg)
+PLT
+(×109 / L)
+RBC
+(×1012 / L)
+男
+Male 371 55. 7 ± 14. 3 4. 0(0. 6-10. 0) 26. 4 ± 3. 5 95. 6 ± 9. 4 134 ± 16 83 ± 10 195. 7 ± 51. 6 4. 80 ± 0. 47
+女
+Female 350 61. 3 ± 12. 2
+b 8. 0(2. 0-12. 0) b 25. 9 ± 3. 6a 91. 7 ± 10. 0b 137 ± 17 83 ± 9  211. 2 ± 59. 1 4. 35 ± 0. 45
+合计
+Total 721 58. 4 ± 13. 6 5. 0(0. 5-10. 0) 26. 2 ± 3. 6 93. 7 ± 9. 9 136 ± 16 83 ± 9  203. 2 ± 55. 9 4. 58 ± 0. 51
+组别
+Group
+例数
+n
+Hb
+(g / L)
+WBC
+(×109 / L)
+FBG
+(mmol / L)
+2hPG
+(mmol / L)
+HBA1C
+(% )
+GA
+(% )
+FINS
+(mU / L)
+FCP
+(ng / ml)
+男
+Male 371 144. 0 ± 13. 4 6. 79 ± 1. 80 8. 8 ± 3. 2 16. 9 ± 4. 5 9. 8 ± 2. 1 25. 5 ± 8. 5 11. 2(7. 6-16. 8) 2. 15 ± 1. 06
+女
+Female 350 127. 7 ± 12. 5 6. 12 ± 1. 55 8. 5 ± 3. 1 16. 4 ± 4. 7 9. 3 ± 2. 0
+a 22. 8 ± 7. 1b 10. 3(7. 8-13. 8) 2. 58 ± 2. 23
+合计
+Total 721 136. 1 ± 15. 3 6. 47 ± 1. 71 8. 6 ± 3. 2 16. 7 ± 4. 6 9. 5 ± 2. 1 24. 2 ± 7. 9 10. 6(7. 8-15. 0) 2. 35 ± 1. 54
+组别
+Group
+例数
+n
+TC
+(mmol / L)
+TG
+(mmol / L)
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L)
+APO-A
+(g / L)
+APO-B
+(g / L)
+ALT
+(U / L)
+AST
+(U / L)
+γ-GT
+(U / L)
+男
+Male 371 4. 61 ± 1. 16 1. 80(1. 27-2. 70) 2. 55 ± 0. 93 0. 97 ± 0. 26 1. 11 ± 0. 60 0. 95 ± 0. 22 23(16-34) 20(16-26) 33(24-50)
+女
+Female 350 4. 91 ± 1. 32
+b 1. 84(1. 34-2. 55) 2. 71 ± 1. 00 1. 14 ± 0. 34b 1. 24 ± 0. 26a 1. 00 ± 0. 31b 20(14-33) a 20(16-27) 30(21-42) b
+合计
+Total 721 4. 76 ± 1. 25 1. 82(1. 31-2. 63) 2. 62 ± 0. 97 1. 05 ± 0. 31 1. 17 ± 0. 47 0. 97 ± 0. 27 21(15-34) 20(16-27) 31(22-47)
+注: BMI:体重指数 Body mass index;WC:腰围 Waist circumference;SBP:收缩压 Systolic blood pressure;1 mmHg = 0. 133 kPa;DBP:舒张压 Diastolic
+blood pressure;PLT:血小板 Platelet;RBC:红细胞 Red blood cell;Hb:血红蛋白 Hemoglobin;WBC:白细胞 White blood cell;FPG:空腹血糖 Fasting plasma
+glucose;2hPG:馒头餐负荷后 2 h 血糖 2 h plasma glucose after steamed bread meal loading;GA:糖化白蛋白 Glycated albumin;FINS:空腹胰岛素 Fasting
+insulin;FCP:空腹 C 肽 Fasting C peptide;TC:总胆固醇 Total cholesterol;TG:甘油三酯 Triglyceride;LDL-C:低密度脂蛋白胆同醇 Low-density lipoprotein
+cholesterol;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein cholesterol;APO-A:载脂蛋白 A Apolipoprotein A;APO-B:载脂蛋白 B Apolipoprotein B;
+ALT:丙氨酸转氨酶 Alanine aminotransferase;AST:门冬氨酸转氨酶 Aspartate aminotransferase;γ-GT:γ-谷氨酰转移酶 γ-glutamyltranspeptidase;与男性相
+比 vs Male,aP<0. 05,bP<0. 01
+共 721 例合并 NAFLD 的 2 型糖尿病患者纳入研
+究,其临床资料详见表 1。 年龄(58. 4 ± 13. 6)岁,糖尿
+病病程 5. 0(0. 5 ~ 10. 0)年,BMI(26. 2 ± 3. 6) kg / m2,
+比较不同性别各临床参数,男性 BMI、ALT、HBA1C(均
+P<0. 05)、腰围、GA、r-GT(均 P<0. 01)均高于女性;
+APO-A(P<0. 05)、年龄、病程、TC、HDL-C、APO-B(均
+P<0. 01) 均低于女性;收缩压、舒张压、FBG、2hPG、
+FINS、FCP、TG、LDL-C、AST 在不同性别的差异无统计
+学意义。
+二、 2 型糖尿病合并 NAFLD 患者进展性纤维化相
+关分析
+NAFLD 患者根据 NFS 评分进展性肝纤维化检出
+情况:超声诊断 NAFLD 的 2 型糖尿病患者共 721 例,
+利用年龄、BMI、AST、ALT、血小板计数和白蛋白计算
+NFS。 积分 > 0. 676 诊断为进展性纤维化,积分 <
+-1. 455 可排除进展性纤维化。 其中,NFS>0. 676 者共
+173 例(24. 0% ),NFS<-1. 455 者共 111 例(15. 4% ),
+NFS -1. 455 ~ 0. 676 者共 437 例(60. 6% )(图 1)。
+根据 NFS 评分分组比较 NAFLD 患者代谢水平:
+注:NAFLD:非酒精性脂肪性肝病 Nonalcoholic fatty liver disease;
+NFS:非酒精性脂肪性肝病纤维化评分 NAFLD fibrosis score
+图 1  NAFLD 患者 NFS 评分构成比
+Fig 1  The constituent ratio of NAFLD fibrosis score in NAFLD
+根据 NFS 水平将 721 例合并 NAFLD 的 2 型糖尿病患
+者分为 3 组,分组比较其各代谢参数的水平差异。 其
+中 NFS<-1. 455 组患者诊断无进展性肝纤维化,NFS>
+0. 676 组患者诊断进展性纤维化(表 2)。 3 组患者的
+性别构成比差异无统计意义,从构成 NFS 评分公式的
+变量可以发现,年龄、BMI、AST / ALT 比值水平升高和
+白蛋白、血小板的减少是 NAFLD 进展性纤维化的危险
+表 2  根据 NFS 分组比较 T2DM 合并 NAFLD 患者代谢参数水平[x-± s,中位数(四分位间距)]
+Tab 2  Comparision of metabolic parameters among different NAFLD fibrosis score groups in T2DM with NAFLD[x-± s,M(quartile)]
+NFS 例数n
+性别
+Gender
+(男 / 女)
+(Male / Female)
+糖尿病病程
+Diabetes duration
+(年)
+(year)
+年龄
+(岁)
+Age
+(year)
+BMI
+(kg / m2) AST / ALT
+PLT
+(×109 / L)
+Alb
+(g / L)
+WC
+(cm)
+<-1. 455 111 63 / 48 1. 0(0. 0-6. 0) 44. 1 ± 13. 1 25. 4 ± 3. 4 0. 77 ± 0. 29 268. 6 ± 56. 9 41. 9 ± 3. 2 91. 8 ± 9. 5
+-1. 455 ~ 0. 676 437 225 / 212 6. 0(1. 0-10. 0) a 57. 7 ± 11. 3a 26. 0 ± 3. 5 0. 95 ± 0. 31a 202. 5 ± 44. 4a 40. 2 ± 2. 9a 92. 7 ± 9. 3
+>0. 676 173 83 / 90 9. 0(2. 0-15. 5) ab 69. 2 ± 9. 4ab 26. 9 ± 3. 6ab 1. 31 ± 0. 55ab 160. 5 ± 37. 6ab 38. 3 ± 2. 9ab 97. 2 ± 10. 6ab
+P 值 0. 352 <0. 001 <0. 001 0. 003 <0. 001 <0. 001 <0. 001 <0. 001
+NFS 例数n
+SBP
+(mmHg)
+DBP
+(mmHg)
+RBC
+(×1012 / L)
+Hb
+(g / L)
+WBC
+(×109 / L)
+CRP
+(mg / L)
+FBG
+(mmol / L)
+2hPG
+(mmol / L)
+<-1. 455 111   134 ± 14   85 ± 10 4. 79 ± 0. 48 141. 4 ± 14. 7 7. 31 ± 1. 96 1. 9(1. 1-3. 7) 8. 6 ± 3. 1 16. 1 ± 5. 6
+-1. 455 ~ 0. 676 437   135 ± 17   83 ± 9 4. 59 ± 0. 50a 136. 5 ± 14. 9a 6. 39 ± 1. 59a 1. 9(1. 1-4. 0) 8. 6 ± 3. 2 17. 1 ± 4. 2
+>0. 676 173   139 ± 17ab   82 ± 9 4. 40 ± 0. 52ab 131. 5 ± 15. 6ab 6. 10 ± 1. 67a 2. 0(1. 1-4. 9) 8. 7 ± 3. 1 16. 2 ± 4. 4
+P 值 0. 006 0. 128 <0. 001 <0. 001 <0. 001 0. 295 0. 963 0. 288
+NFS 例数n
+HBA1C
+(% )
+GA
+(% ) GA / HBA1C
+FINS
+(mU / L)
+FCP
+(ng / ml)
+TC
+(mmol / L)
+TG
+(mmol / L)
+<-1. 455 111 9. 6 ± 2. 0 22. 5 ± 6. 7 2. 43 ± 0. 42 11. 0(8. 0-15. 8) 2. 32 ± 1. 14 5. 22 ± 1. 82 2. 05(1. 44-2. 96)
+-1. 455 ~ 0. 676 437 9. 5 ± 2. 0 24. 0 ± 7. 9a 2. 58 ± 0. 46a 10. 1(7. 0-15. 3) 2. 20 ± 1. 24 4. 75 ± 1. 13a 1. 86(1. 34-2. 60)
+>0. 676 173 9. 6 ± 2. 1 25. 5 ± 8. 6a 2. 68 ± 0. 43a 11. 8(8. 1-17. 3) 2. 07 ± 1. 15 4. 49 ± 0. 99a 1. 58(1. 23-2. 42) ab
+P 值 0. 648 0. 008 0. 001 0. 052 0. 247 <0. 001 0. 001
+NFS 例数n
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L)
+APO-A
+(g / L)
+APO-B
+(g / L)
+ALT
+(U / L)
+AST
+(U / L)
+γ-GT
+(U / L)
+<-1. 455 111 2. 81 ± 1. 18 1. 08 ± 0. 37 1. 19 ± 0. 29 1. 04 ± 0. 22 31(20-58)   21(17-34)   40(31-71)
+-1. 455 ~ 0. 676 437 2. 61 ± 0. 92 1. 05 ± 0. 31 1. 18 ± 0. 57 0. 98 ± 0. 29a 22(15-32) a   20(16-25)   31(22-44)
+>0. 676 173 2. 54 ± 0. 93 1. 03 ± 0. 27 1. 15 ± 0. 24 0. 92 ± 0. 23ab 16(11-25) ab   19(15-27) ab   28(21-41) ab
+P 值 0. 154 0. 417 0. 76 <0. 001 <0. 001 0. 039 <0. 001
+注:AST:门冬氨酸转氨酶 Aspartate aminotransferase;ALT:丙氨酸转氨酶 Alanine aminotransferase;Alb:白蛋白 Albumin;CRP:C 反应蛋白 C reactive
+protein;其他略语同表 1 The other abbreviations are the same as Tab 1;与 NFS <-1. 455 组比较 vs NFS <-1. 455 group,aP<0. 05;与 NFS -1. 455 ~ 0. 676 组
+比较 vs NFS -1. 455-0. 676 group,bP<0. 05;P 值:趋势分析的“P冶
+因素。 此外,根据 NFS 分组比较其他代谢参数发现,
+随着 NFS 评分的升高,糖尿病病程、腰围、收缩压、GA、
+GA / HBA1C呈递增趋势,除腰围、收缩压仅在进展性纤
+维化组显著高于其余两组,其他参数 3 组之间两两比
+较差异均有统计学意义(P<0. 05)。 红细胞、血红蛋白
+(Hb)、白细胞、TC、TG、APO-B、ALT、AST、γ-GT 呈递减
+趋势,除 TG、AST、γ-GT 仅在进展性纤维化组显著低于
+其余两组,白细胞、TC 除外进展性纤维化组显著高于
+其余两组,其他参数 3 组之间两两比较差异均有统计
+学意义(P<0. 05)。 血糖、HBA1C、空腹胰岛素、C 肽水
+平、CRP、LDL-C、HDL-C、APO-A、舒张压在 3 组之间的
+差异无统计学意义(表 2)。
+NFS 评分与各代谢参数的相关性分析:Spearman
+相关分析发现, 除年龄、BMI 等组成公式的变量之外,
+NFS 与糖尿病病程( rs = 0. 281)、腰围( rs = 0. 250)、收
+缩压 ( rs = 0. 122)、GA( rs = 0. 129)、GA / HBA1C 比值
+( rs = 0. 209)之间呈线性正相关(均 P<0. 01);与红细
+胞( rs = - 0. 249)、 Hb ( rs = - 0. 219 )、白细胞 ( rs =
+-0. 250)、TC( rs = -0. 181)、TG( rs = -0. 142)、APO-B
+( rs = -0. 181)、ALT( rs = -0. 313)、γ-GT( rs = -0. 201)、
+AST( rs = -0. 099)、LDL-C( rs = -0. 116)之间呈线性负
+相关(P<0. 05 或 P<0. 01)。 另外,与舒张压、HDL-C、
+FBG、2hPG、HBA1C、空腹 C 肽和胰岛素水平、APO-A 无
+显著相关性。
+2 型糖尿病合并 NAFLD 患者发生进展性纤维化
+的危险因素分析:以 NFS 评分等级为因变量,性别强
+制进入模型,以糖尿病病程、腰围、收缩压、红细胞、
+Hb、白细胞、GA、TC、TG、LDL-C、APO-B 为自变量,回
+归分析结果显示,糖尿病病程、腰围、白细胞、GA、TC
+[OR 及 95% CI 分别为 1. 182 (1. 096 ~ 1. 273)、1. 076
+(1. 034 ~ 1. 119)、 0. 613 ( 0. 054 ~ 0. 745 )、 1. 074
+(1. 024 ~ 1. 126)、0. 703(0. 578 ~ 0. 854),均 P<0. 01]
+与进展性肝纤维化显著相关。 其中,糖尿病病程、腰围
+和 GA 与进展性纤维化正相关;白细胞和 TC 与进展性
+纤维化负相关。
+讨    论
+本研究利用 NFS 评分对 2 型糖尿病患者超声诊
+断的 NAFLD 行进展性纤维化的评估。 结果显示 2 型
+糖尿病合并 NAFLD 的患者中 24. 0%存在进展性肝纤
+维化(NFS>0. 676),可以排除进展性纤维化的患者
+(NFS<-1. 455)比例仅占 15. 4% 。 随着肝纤维化严重
+程度增加,代谢紊乱加重(腰围、收缩压、GA 及 GA /
+HBA1C增加),肝脏功能下降 (肝酶、 TC、TG、LDL-C、
+APO-B、红细胞、白细胞下降)。 糖尿病病程、腰围和
+GA 与进展性纤维化正相关;白细胞和 TC 与进展性纤
+维化负相关。
+既往研究中发现 NAFLD 是糖尿病患者中肝脏损
+伤的首要因素,2 型糖尿病是 NASH 和进展性纤维化
+的一个独立预测因子[2,10]。 目前已进行的为数不多的
+肝活检结果显示,合并 2 型糖尿病的 NAFLD 患者的
+NASH 发病率在 63% ~ 87% ,并且中-重度纤维化占
+22% ~ 60% [3,11],这个数字远远高于没有糖尿病和肥
+胖的人群。 Younossi 等[12]在 NAFLD 患者队列研究中
+发现,25%的糖尿病患者发生肝硬化而非糖尿病患者
+肝硬化的发生率仅为 10% 。 合并糖尿病的 NAFLD 人
+群的死亡率(57% )是非糖尿病 NAFLD 患者(27% )的
+2 倍。 以此估计,糖尿病和肥胖人群分别约有 70% 和
+70% ~80%的个体患有 NAFLD,可能存在进展性肝病
+的患者群体也相当庞大,值得重视。 然而遗憾的是目
+前国内外均没有大样本的 2 型糖尿病合并 NAFLD 中
+肝脏纤维化的相关报道,主要是受肝脏炎症及纤维化
+评估手段的限制。 目前主要评估的金标准依然为肝穿
+刺,然而其有创性限制了其临床的广泛使用,无法用于
+常规筛查 NASH 及纤维化。 传统的超声筛查无法区分
+NASH 及早期发现肝纤维化。 因此,对 NASH 及纤维
+化的无创性诊断方法的需要尤为迫切。 近年来,有越
+来越多的关于 NASH 纤维化的生物标志物和成像方
+法,如前胶原-3N 端肽(PIIINP)、透明质酸、细胞角蛋
+白 18、瞬时弹性成像和 Fibro Scan 等都提供了很多有
+用信息[13,14]。 而临床无创评分系统 NFS 评估 NAFLD
+患者肝脏进展性纤维化因其价格低廉方便,便于在大
+规模人群中推广和应用,相比 B 超和肝穿刺活检及其
+他生物标志物来说,有着自身独特的优势。 Angulo
+等[6] 以 733 例肝穿刺作为评估标准, 发现 NFS <
+-1. 455 除外进展性肝纤维化的阴性预测值在估计组
+和验证组分别为 93%和 88% ;NFS>0. 676 诊断进展性
+肝纤维化的阳性预测值分别高达 90%和 82% 。 另外,
+一项 meta 分析指出,NFS 在 13 项研究共 3 064 例患者
+中用于检测进展性纤维化(stage≥3)的受试者工作曲
+线下面积为 0. 85(0. 81 ~ 0. 90),有较高的准确性[7]。
+美国胃肠病协会 2012 年指南中推荐使用的 NFS 作为
+无创评估纤维化的一项有效的方法[8]。
+本研究利用 NFS 发现 2 型糖尿病合并 NAFLD 的
+患者 24. 0%存在进展性肝纤维化,可以排除进展性纤
+维化的患者仅占 15. 4% 。 目前国内外均没有较大样
+本 2 型糖尿病人群中 NFS 公式的应用情况,但是根据
+国外一些 2 型糖尿病患者肝穿刺的结果估计中-重度
+纤维化占 22% ~60% [3,11],本研究得出的合并 NAFLD
+的 T2DM 患者进展性纤维化的患病率(24. 0% )可信
+度较高。 另一方面,超声检查的敏感性对于诊断肝脏
+脂肪含量较低的患病者有一定局限,而随着纤维化的
+进展,肝脏脂肪含量可能发生一定程度的减少,因此,
+对于超声漏检的部分 NAFLD 患者中还可能存在一定
+比例的人群正处于向纤维化进展的阶段,那么 2 型糖
+尿病合并 NAFLD 的患者中纤维化的实际比例可能高
+于本研究所估计的数值。 本研究进一步在大样本人群
+中证实了合并 2 型糖尿病的 NAFLD 患者肝纤维化高
+检出率,肝脏存在不良结局,因此早期评估 2 型糖尿病
+合并 NAFLD 患者是否存在 NASH 和肝纤维化具有重
+要的意义[15]。
+本研究发现进展性纤维化与代谢紊乱息息相关,
+随着肝纤维化严重程度增加,代谢紊乱加重(腰围、收
+缩压等),同时糖尿病病程、腰围和 GA 是进展性纤维
+化的危险因素。 进一步证实了糖尿病病程、腹型肥胖、
+2 型糖尿病加重 NAFLD 患者进展性肝纤维化发生的
+风险,且合并进展性肝病的患者血糖及代谢紊乱更难
+控制[10]。 2 型糖尿病伴发 NAFLD 可能会导致严重的
+医疗后果,包括肝硬化和肝癌,以及较早发生的糖尿病
+并发症和心血管疾病(CVD),本研究中进展性纤维化
+患者的收缩压水平均显著升高,也意味着进展期肝病
+患者发生 CVD 的风险增加。
+糖代谢方面,3 组患者之间的 FBG、2hPG、HBA1C、
+FCP、FINS 差异无统计学意义,进展性纤维化组的 GA
+水平和 GA / HBA1C 比值均显著高于无进展性纤维化
+组。 这与一项日本的研究相似,他们观察到 NAFLD 患
+者中血清 ALT 水平与 GA、GA / HBA1C的比值呈显著负
+相关;超敏 C 反应蛋白水平与血清 ALT 呈显著正相
+关,与 GA 呈负相关;提出 GA 水平下降可能是由于
+NASH 患者的慢性炎症导致白蛋白新陈代谢加速的结
+果[16]。 NASH 早期阶段的肝脏炎症导致较低的 GA /
+HBA1C比值,与血浆葡萄糖浓度的关联相对较小。 另
+外,研究发现随着病理纤维化分期的进展 GA / HBA1C
+比值显著增加,且 GA / HBA1C比值与血小板计数呈显
+著负相关,这反映慢性肝病患者 GA / HBA1C比值的增
+加与肝功能下降有关,GA / HBA1C的比值大小能够预测
+NASH 患者肝纤维化的严重程度[17,18]。
+本研究结果显示,进展性纤维化组的年龄、BMI、
+AST / ALT 显著增高,而血小板计数、白蛋白水平在进
+展性纤维化患者中显著下降(即建立 NFS 模型的参数
+研究)。 有趣的是,本研究结果发现 TC、LDL-C、TG、
+APO-B 等脂质水平都随着肝纤维化评分的升高而递
+减。 人体内 70% ~ 80% 的胆固醇来自肝脏内源性合
+成,甘油三酯也主要在肝脏和脂肪组织中合成,白蛋白
+和血脂水平的下降反映了肝脏合成能力下降。 同时,
+随着肝脏纤维化积分的增高,ALT、AST、γ-GT 呈递减
+趋势,也反映了肝细胞的存活减少,合成肝酶减低。
+Mendes 等[19] 对 NAFLD 门脉高压的研究中发现,
+28. 2%的 NAFLD 患者在最初诊断脂肪肝时既已存在
+门脉高压,其中 88% 的患者有纤维化间隔和肝硬化,
+门脉高压症也可发生在一小部分没有或纤维化轻微
+(stage 0-2)的患者且与脂肪变性的程度相关。 本研究
+结果中进展性纤维化组红细胞、Hb、白细胞、血小板计
+数均显著下降,这表明随着肝病的进展患者可能已经
+存在了临床上超声未能发现的门静脉压力升高和亚临
+床脾亢表现。
+由于本研究为横断面研究,本研究根据 NFS 评分
+对 2 型糖尿病肝纤维化的患病状况进行估计,并没有
+完全经过病理验证,因此,所得进展性纤维化的数据可
+能存在一定偏差。 但是由于 NFS 积分系统在大样本
+肝穿刺人群(733 例)中验证,所以本研究依然为可以
+信赖的能较准确地反映了合并 2 型糖尿病的 NAFLD
+患者的肝病现况的研究[6]。 另一方面,本研究非前瞻
+性研究,对于 2 型糖尿病患者 NAFLD 发生先后以及全
+身代谢状况随肝脏疾病进展的变化过程不得而知,这
+些需要在以后的随访中进一步完善。
+综上所述,本研究结果显示根据 NFS 评分估计 2
+型糖尿病合并 NAFLD 患者的进展性纤维化的患病率
+为 24. 0% , 可以排除进展性纤维化的比例仅为
+15. 4% ;提示我们应警惕合并 NAFLD 的 2 型糖尿病患
+者发生肝脏纤维化的风险。 2 型糖尿病人群中 NAFLD
+的患病率高,较单纯 NAFLD 容易发生不良肝脏结局,
+糖尿病病程、代谢紊乱是 NAFLD 发展为进展性肝病的
+危险因素之一,反之,随着肝病严重程度进展,代谢紊
+乱加重,恶性循环。 针对糖尿病患者 NAFLD 的治疗除
+了对血糖及代谢紊乱的纠正,及包括积极管理相关的
+心血管疾病的危险因素等治疗,一部分患者可能已经
+存在肝纤维化,由于没有指南协助临床医师对 2 型糖
+尿病人群中 NASH 和纤维化的筛选,因此往往被忽视。
+本研究希望通过对 2 型糖尿病合并 NAFLD 患者肝脏
+病变严重程度与相关代谢状况及危险因素的初步分
+析,提高内分泌科医生对两者伴发现状的重视,认识到
+2 型糖尿病患者具有潜在的严重肝病结局。

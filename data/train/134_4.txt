@@ -1,0 +1,266 @@
+糖尿病相关议题
+基金项目:上海市科委课题(11ZR1432000);卫生行业科研专项项
+目(201202008)
+病科,上海市内分泌代谢病临床医学中心,上海市内分泌代谢病研究所
+初发 1 型糖尿病患者外周血滤泡辅助性
+T 细胞的变化特点
+李丽  杨明兰  张娟娟  王柏凯  高捷  叶蕾  洪洁  王卫庆  宁光  顾卫琼
+[摘要]   目的  观察初发 1 型糖尿病患者外周血单个核细胞(peripheral blood mononuclear cell,PBMC)
+中滤泡辅助性 T 细胞(follicular helper T cells, Tfh)的数目和功能的变化,并与 B 淋巴细胞的变化及自身抗
+体等临床资料进行相关性分析,探讨 Tfh 参与 1 型糖尿病发病的免疫学机制。 方法 收集 18 例新诊断的 1
+型糖尿病患者和 15 名健康对照者外周血全血,分离 PBMC 后流式细胞仪检测 CD4+ CXCR5+ ICOS+ Tfh 及
+CD19+ B 淋巴细胞比例,观察二者在 1 型糖尿病患者中的变化趋势;实时荧光定量 PCR 检测 Tfh 细胞因子
+白细胞介素 21(IL-21)及人 B 细胞淋巴瘤因子 6(Bcl-6)的 mRNA 水平;分析 Tfh 细胞与抗谷氨酸脱羧酶抗
+体(GADA)滴度的相关性。 结果 (1)与正常对照组相比,新诊断的 1 型糖尿病患者外周血中的 Tfh 细胞
+比例显著上升[(0. 09 ± 0. 01 对 0. 20 ± 0. 01)% , P<0. 01],同时伴有 B 淋巴细胞比例增多[(1. 68 ± 0. 16 对
+3. 40 ± 0. 25)% , P<0. 01];(2)在 1 型糖尿病患者 PBMC 中 Bcl-6 的 mRNA 表达下调 30% (P<0. 01),IL-21
+的 mRNA 水平下降 35% (P<0. 05);(3)1 型糖尿病患者 PBMC 中 Tfh 水平与 GADA 水平呈显著正相关( r=
+0. 792, P<0. 01)。 结论 初发 1 型糖尿病患者外周血 Tfh 比例显著增加,伴随 B 淋巴细胞及 GADA 滴度的
+上升,表明 Tfh 可能参与了 1 型糖尿病的发病。
+[关键词]   糖尿病, 1 型; 外周血单个核细胞; 滤泡辅助性 T 细胞
+Changes of follicular helper T cells in peripheral blood of patients with newly-diagnosed type 1 diabetes
+mellitus Li Li, Yang Minglan, Zhang Juanjuan, Wang Bokai, Gao Jie, Ye Lei, Hong Jie, Wang Weiqing, Ning
+Guang, Gu Weiqiong. Shanghai Clinical Center for Endocrine and Metabolic Disease, Shanghai Institute of Endocrine
+and Metabolic Disease, Department of Endocrine and Metabolic Disease, Ruijin Hospital, Shanghai Jiaotong University
+School of Medicine, Shanghai 200025, China
+[Abstract]   Objective   To observe the changes in follicular helper T cells ( Tfh) in peripheral blood
+mononuclear cell ( PBMC) of newly-diagnosed patients with type 1 diabetes mellitus ( T1DM), to analyze its
+relationship with B lymphocyte and autoantibodies, and to explore the role played by Tfh cells in the pathogenesis of
+T1DM. Methods Eighteen patients with newly-diagnosed T1DM and 15 healthy control subjects were enrolled. The
+percentages of Tfh cells and B cells in PBMC with respective CD4+CXCR5+ ICOS+and CD19+markers were assessed by
+flowcytometry. The mRNA expressions of interluekin 21 ( IL-21) and Bcl-6 were detected in two groups by realtime
+PCR, and the association between Tfh and glutamic acid decarboxylase antibody ( GADA) was analyzed. Results
+(1) The proportions of Tfh [(0. 09 ± 0. 01 vs 0. 20 ± 0. 01)% , P<0. 01] and B lymphocyte [(1. 68 ±0. 16 vs 3. 4 ±
+0. 25)% , P < 0. 01] in PBMC from T1DM group were significantly higher than those in control group. (2) In
+comparison with control group, mRNA levels of Bcl-6 and IL-21 in PBMC of T1DM group were decreased by 30% (P<
+0. 01) and 35% (P<0. 05) . (3) A positive correlation between the amount of Tfh cell and the titer of GADA was
+found ( r = 0. 792, P < 0. 01) . Conclusion The close relationship of Tfh cells with clinical and biochemical
+characteristics in newly-diagnosed patients with T1DM demonstrates an important role which may be played by Tfh
+cells in the pathogenesis of T1DM.
+[Key words]  Diabetes mellitus, type 1; Peripheral blood mononuclear cell; Follicular helper T cells
+(Chin J Endocrinol Metab, 2014, 30: 377-380)
+1 型糖尿病是一种以胰岛细胞损害和(或)严重胰 岛素分泌障碍导致体内胰岛素含量绝对缺乏为特征的
+代谢性疾病,根据是否伴有胰岛细胞自身免疫及局部
+损害特征,可以将其分为 1A 型及 1B 型糖尿病,其中
+1A 型表现为免疫介导的胰岛自身抗体及胰岛炎,这一
+类型约占全部 1 型糖尿病的 90% [1]。 在 1 型糖尿病
+患者体内,胰岛细胞由于各种原因导致损害,引起自身
+隐蔽抗原的暴露,激活体内的自身免疫反应,出现与胰
+岛细胞损害相关的各类自身抗体[2],这些抗体在发病
+前已经可以在血液中检测到,提示体液反应及自身抗
+体在该疾病中的地位不容忽视。
+滤泡辅助性 T 细胞(Tfh)是一类定位于淋巴滤泡
+并辅助 B 细胞产生高亲和力抗体的 T 细胞亚群,它在
+选择高亲和力 B 细胞分化为记忆细胞或浆细胞以及
+维持长时间的体液免疫应答等方面都发挥着至关重要
+的作用[3]。 目前的研究表明,Tfh 细胞在多种自身免
+疫性疾病中发挥重要作用,如类风湿性关节炎、自身免
+疫性甲状腺疾病、自身免疫性肝炎等[4-6],但是否参与
+1 型糖尿病的发病机制及抗体形成过程尚不明确。 因
+此,本研究通过流式细胞技术对 18 例新诊断 1 型糖尿
+病患者及 15 名健康者的外周血单个核细胞(PBMC)
+中 Tfh 细胞亚群进行检测,并观察 Tfh 细胞功能相关
+基因的 mRNA 表达水平改变,旨在探讨新诊断 1 型糖
+尿病患者 Tfh 细胞的变化特点,将其与临床检查相结
+合,分析其在疾病发展中尤其是自身抗体形成过程中
+的作用。
+对象和方法
+一、 对象
+本研究收集了从 2012 年 1 月至 2013 年 6 月收治
+的新诊断(发病在 6 个月以内)1 型糖尿病患者 18 例,
+年龄 14 ~ 35 岁,糖尿病的诊断根据 2007 年美国糖尿
+病协会(ADA)的标准,以临床表现合并胰岛功能低下
+伴有抗谷氨酸脱羧酶抗体(GADA)阳性作为 1 型糖尿
+病诊断标准。 排除标准:病程大于 6 个月;发生酮症酸
+中毒未纠正者;急慢性感染;严重的器官损害:肝、肾、
+心血管、肺部;严重的精神病患者;妊娠者。 健康对照
+组 15 名,年龄、性别、体重指数(BMI)等与 1 型糖尿病
+匹配,进行葡萄糖耐量试验、肝肾功能等生化检查,排
+除器质性疾病。
+二、 方法
+1. 试剂:异硫氰酸荧光素(FITC)标记的小鼠抗人
+CD4 抗体及其同型对照抗体、藻红蛋白(PE)标记的小
+鼠抗人可诱导共刺激分子( ICOS)抗体及其同型对照
+抗体、别藻青蛋白(APC)的小鼠抗人 CXC 趋化因子受
+体 5(CXCR5)抗体及其同型对照抗体、藻红蛋白-花青
+苷 5(PeCy5)标记的 CD19 均为美国 eBioscience 公司
+产品;RPMI 1640、胎牛血清、磷酸盐缓冲液(PBS)均购
+自美国 GIBCO 公司;人淋巴细胞分离液为丹麦 Axis-
+Shiela 公司产品;总 RNA 提取试剂(Trizol Reagent)购
+自美国 Invitrogen 公司;RNA 逆转录试剂盒为 Promega
+公司产品;荧光定量 PCR 试剂盒 ( SYBR premix Ex
+TaqTM)购自日本 TaKaRa 公司。
+2. 标本收集:受试对象于早晨空腹时采集静脉血
+32 ml,其中 8 ml 置于促凝管,用于检测生化指标,其余
+24 ml 全血置于 7. 2 mg EDTA 抗凝管中,4 h 内用淋巴
+细胞分离液密度梯度离心法分离 PBMC,吸取中间黄
+白色薄膜层,PBS 洗涤 3 次后计数,部分细胞用于流式
+细胞仪检测,剩余细胞加入 Trizol 后存放于-80℃ 冰
+箱,用于总 RNA 的提取及 PCR 检测。
+3. 流式细胞技术:将上述计数后的细胞用 RPMI
+1640 培液按 106 / ml 的浓度重悬,取 2 ´105个 PBMC 置
+于 1. 5 ml EP 管中,离心后弃去上清,加入 100 滋l PBS+
+1% BSA 配置的缓冲液重悬细胞沉淀,依次加入 CD4-
+FITC、CXCR5-APC、ICOS-PE、CD19-PeCy5 这 4 种荧光
+抗体各 5 滋l,4℃避光孵育 30 min。 加入 1 ml 缓冲液轻
+轻混匀,500×g 离心 5 min,弃去上清,重复 1 次,加 500
+滋l 缓冲液重悬,准备上机检测。
+4. 实时荧光定量 PCR:分离后的 PBMC 用 Trizol
+法提取总 RNA,逆转录为 cDNA,检测白细胞介素 21
+(IL-21)、人 B 细胞淋巴瘤因子 6(Bcl-6)基因的相对表
+达量。 内参 β-actin 上游引物序列:5'-TGCGTGACA-
+TTAAGGAGAAG-3',下游引物:5'-GCTCGTAGCTCTTC-
+TCCA-3';IL-21 上游引物:5'-TAGAGACAAACTGTGA-
+GTGGTCA-3',下游引物:5'-GGGCATGTTAGTCTGTGT-
+TTCTG-3';Bcl-6 上游引物:5'-AAGGCCAGTGAAGCA-
+GAGA-3', 下 游 引 物: 5'-CCGATAGGCCATGATGTCT-
+3忆。 反应条件为:95℃预变性 30 s,95℃变性 5 s,60℃
+退火延伸 31 s,共进行 45 个循环,采用 2-△△CT值对基因
+的相对表达量进行比较。
+三、 统计学处理
+所有资料处理均用 SPSS 17. 0 软件包进行分析,
+检测结果以 x-± s 表示,经方差齐性检验后,采用 t 检验
+比较 2 组间差异,P<0. 05 为差异有统计学意义。
+结    果
+一、 健康对照组与初发 1 型糖尿病组人群临床特
+征比较
+2 组人群之间性别、年龄、体重、身高、BMI、淋巴细
+胞的比例与绝对数等指标差异无统计学意义,而 1 型
+糖尿病组空腹血糖[(8. 1 对 5. 0) mmol / L, P<0. 01]、
+HBA1C(10. 6%对 5. 3% , P<0. 01)、GADA[(113. 66 对
+0. 68)U / ml, P<0. 01]水平较对照组显著增高(表 1)。
+二、 PBMC 中 Tfh 及 B 细胞亚群比例
+流式细胞检测以 CD4+CXCR5+ ICOS+为表面标志
+的 Tfh 细胞,与对照组相比,1 型糖尿病组的 Tfh 水平
+在 CD4 中所占比例较高, 但无统计学差异[(0. 59 ±
+表 1  2 组研究对象的临床资料(x-± s)
+Tab 1  Clinical characteristics of two groups(x-± s)
+组别
+Group
+例数(男性 / 女性)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+身高
+Height
+(cm)
+体重
+Weight
+(kg)
+BMI
+(kg / cm2)
+FPG
+(mmol / L)
+GADA
+(U / ml)
+HBA1C
+(% )
+淋巴细胞比例
+Rate of
+lymphocyte
+(% )
+淋巴细胞计数
+Lymphocyte
+count
+(109 / L)
+CON   15(6 / 9) 22. 6 ± 0. 6 162. 8 ± 4. 7 55. 3 ± 6. 2 20. 8 ± 1. 3 5. 0 ± 0. 4 0. 68 ± 0. 31 5. 25 ± 0. 44 35. 4 ± 5. 0 2. 0 ± 0. 3
+T1DM   18(7 / 11) 21. 1 ± 4. 6 168. 3 ± 8. 7 54. 8 ± 9. 1 19. 3 ± 2. 5 8. 1 ± 2. 2a 113. 66 ± 19. 4a 0. 60 ± 2. 84a 39. 6 ± 11. 9 2. 0 ± 0. 5
+注:CON:对照组 Control group;T1DM:1 型糖尿病组 Type1 diabetes mellitus;BMI:体重指数 Body mass index;GADA:谷氨酸脱羧酶抗体 Glutamic acid
+decarboxylase antibody;与 CON 组比较 vs CON group,aP<0. 01
+注:PBMC:外周血单个核细胞 Peripheral blood mononuclear cell;Tfh:滤泡辅助性 T 细胞 Follicular helper T cells; B:B 淋巴细胞 B lymphocyte;余略语
+同表 1 The abbreviations are the same as Tab 1;与 CON 组比较 vs CON group,aP<0. 01
+图 1  1 型糖尿病组与对照组 PBMC 中 Tfh 和 B 细胞的比例
+Fig 1  The percentages of Tfh and B lymphocytes in PBMC of type 1 diabetes mellitus and control groups
+0. 22 对 0. 73 ±0. 21)% , P = 0. 14],而 Tfh 在总 PBMC
+中所占的比例明显升高 [(0. 09 ± 0. 01 对 0. 20 ±
+0. 01)% , P<0. 01]。 1 型糖尿病组 B 细胞在淋巴细胞
+中的比例较对照组也显著增高[(1. 68±0. 16 对 3. 40±
+0. 25)% , P<0. 01,图 1]。
+三、IL-21 和 Bcl-6 mRNA 水平
+与对照组相比, 1 型糖尿病组 PBMC 中 IL-21
+注: IL-21: 白 细 胞 介 素 21 Interluekin 21; 余 略 语 同 表 1 The
+abbreviations are the same as Tab 1;与 CON 组比较 vs CON group,a P <
+0. 05,bP<0. 01
+图 2  Tfh 相关基因 Bcl-6 和 IL-21 的 mRNA 水平的改变
+Fig 2  Changes of Bcl-6 and IL-21 mRNA expressions
+mRNA 水平下降 35% ( P < 0. 05 ),转录因子 Bcl-6
+mRNA 水平降低 30% (P<0. 01,图 2)。
+四、 Tfh 与自身抗体的相关性分析
+对 1 型糖尿病患者的 Tfh 与 GADA(自然对数转
+换后符合正态分布)进行相关性分析发现,二者之间
+存在显著正相关,即随着 Tfh 的增多,GADA 呈相应增
+高趋势( r=0. 792, P<0. 01)。
+讨    论
+1 型糖尿病是由多种免疫细胞参与的炎症反应性
+疾病。 既往的研究表明,除了作为天然防御屏障的固
+有免疫细胞外,多种适应性免疫细胞尤其是 CD4+T 淋
+巴细胞,包括 Th1、Th2、Th17、Treg 等多种细胞亚群在
+疾病过程中发挥不同作用[7,8],如 Treg 维持免疫平衡
+状态,Th1 的激活与过度的细胞免疫有关,Th2 则参与
+体液免疫,在包括 1 型糖尿病在内的自身免疫性疾病
+患者体内可以观察到 Th1 / Th2 平衡的破坏,Th17 则与
+炎症反应有关[9,10]。 而近年发现一种新的细胞亚群
+Tfh,它是一类可以辅助 B 淋巴细胞产生异常高亲和力
+抗体的 CD4+T 细胞,该细胞表达 CXCR5 和转录因子
+Bcl-6,并分泌 IL-21、CXCR5 与 B 细胞吸附趋化因子-1
+(B cell attracting ehemokine-1,也称为 CXCL13)相互作
+用后,Tfh 被迁移并定位于次级淋巴滤泡形成的生发
+中心(germinal center,GC),产生 IL-21 等细胞因子、表
+达 ICOS 等共刺激分子,与其 B 细胞上的配体(ICOSL)
+结合,可刺激 GC 处的初始 B 细胞活化为具有 Ig 分泌
+功能的浆细胞,从而辅助 B 细胞产生抗体,发挥体液
+免疫功能,因此被称为滤泡性辅助性 T 细胞[11]。
+在既往对 Tfh 与自身免疫性疾病之间关系的研究
+中发现,Tfh 细胞与机体的免疫应答之间存在密切关
+系。 2005 年,Vinuesa 等[12] 对系统性红斑狼疮的小鼠
+进行动物实验发现,小鼠体内某种蛋白的缺失不能发
+挥抑制 ICOS 表达的作用,因而体内大量的 T 细胞分
+化为 Tfh 并聚集,刺激高浓度抗体的产生,而阻断小鼠
+体内与之相关的转导途径或敲除 Bcl-6 基因后,Tfh 逐
+渐消失,自身抗体及局部组织的病理损伤显著减轻,因
+而推测 Tfh 的过度形成与机体的自身免疫反应有关。
+2011 年,Aoki 等[6]发现给予自身免疫性肝病的小鼠模
+型注射 ICOS 或 IL-21 中和性抗体可阻断 Tfh 细胞的激
+活,延缓疾病的发展。 其他自身免疫性疾病如自身免
+疫性甲状腺疾病的患者,在检测到 Tfh 细胞数量显著
+增多的同时伴有细胞因子及细胞功能的亢进,临床上
+可检测到自身抗原相关的高滴度抗体,治疗后可以观
+察到与疗效相关的自身抗体下降,伴随 Tfh 数量和功
+能的恢复,天疱疮患者外周血中也有类似表现[13,14]。
+与之相反,在炎症性肠病中表现为 Tfh 细胞数量和功
+能的不足[15],而在感染人类免疫缺陷病毒等多种免疫
+缺陷病中,机体在早期感染时免疫应答不足,抗体形成
+下降,这一结果在去除 Tfh 的小鼠中可以观察到相似
+表现,表明 Tfh 的缺失可能与免疫障碍有关[16]。 上述
+结果均表明,Tfh 在参与机体的自身免疫反应过程中
+有着不可忽视的作用。 因而,本研究拟通过观察外周
+血中 Tfh 的变化特点,并分析其与临床指标的相关性,
+探讨 Tfh 在 1 型糖尿病疾病发展过程中可能的作用。
+本研究发现,初发的 1 型糖尿病患者外周血中 Tfh
+细胞的比例较正常对照组显著升高,同时可以观察到
+B 细胞数量的增多及血清中自身抗体水平的升高,表
+明二者之间可能存在某种联系。 而对与其功能相关的
+基因检查发现,细胞因子及转录因子的表达水平则显
+著下降。 这一结果提示可能正是由于 Tfh 细胞功能的
+下降,正常的免疫功能被打破,导致体内的 T 细胞过
+度代偿性分化为较多的 Tfh 细胞,引起其数量增多,其
+表面表达的 CXCR5 与 B 细胞结合后促进增多的 Tfh
+迁移到淋巴滤泡中心后,ICOS 与其 B 细胞表面的配体
+ICOSL 结合后刺激更多的 B 细胞产生自身抗体,促进
+疾病的进一步发展。 这一发现表明,Tfh 细胞的功能
+紊乱与数量变化均可能引起与自身免疫有关的免疫异
+常,导致自身免疫性疾病的发生和发展,其具体机制有
+待深入研究。
+目前认为,1 型糖尿病是携带有致病基因的易感
+者,在感染、损伤、环境因素的影响下,机体处于隐蔽状
+态下的自身抗原暴露,激活体内细胞免疫和体液免疫
+反应,机体组织受到损伤,伴有自身抗体的出现[2,17]。
+此时,临床上可能并未出现显著症状,但组织损伤已经
+开始并在不断进展中,因而早期发现和治疗显得尤为
+重要。 目前的治疗手段大多限于对症治疗,并无有效
+的治疗可以直接针对抗体从而阻止胰岛细胞的进行性
+破坏,考虑到 Tfh 参与了 1 型糖尿病的发病及体内的
+自身免疫性反应,有可能将 Tfh 作为预测 1 型糖尿病
+发病的生物学标记物和潜在的药物作用靶点。

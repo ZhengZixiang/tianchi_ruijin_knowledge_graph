@@ -1,0 +1,427 @@
+T1	Drug 4 8	利拉鲁肽
+T2	Reason 34 45	胰岛 β 细胞功能减退
+T3	Disease 47 53	2 型糖尿病
+T4	Anatomy 70 74	β 细胞
+T5	Anatomy 83 87	β 细胞
+T6	Disease 98 104	2 型糖尿病
+T7	Test 106 108	血糖
+T8	Drug 132 146	长效胰升糖素样肽 1 类似物
+T9	Drug 146 150	利拉鲁肽
+T10	Anatomy 154 158	β 细胞
+T11	Anatomy 170 174	β 细胞
+T12	Test 177 179	血糖
+T13	Test 201 203	血糖
+T14	Test 210 212	体重
+T15	Drug 245 249	利拉鲁肽
+T16	Anatomy 251 259	胰升糖素样肽 1
+T17	Anatomy 271 275	β 细胞
+T18	Disease 1109 1115	2 型糖尿病
+T19	Disease 1143 1149	2 型糖尿病
+T20	Anatomy 1156 1160	β 细胞
+T21	Reason 1182 1193	β 细胞功能进行性衰退
+T22	Drug 1218 1221	胰岛素
+T23	Anatomy 1241 1245	β 细胞
+T24	Disease 1255 1261	2 型糖尿病
+T25	Test 1264 1266	血糖
+T26	Anatomy 1300 1308	胰升糖素样肽 1
+T27	Anatomy 1309 1314	GLP-1
+T28	Drug 1319 1322;1323 1324	利拉鲁 肽
+T29	Anatomy 1329 1333	β 细胞
+T30	Drug 1375 1379	利拉鲁肽
+T31	Test 1379 1381	血糖
+T32	Test 1399 1401	血糖
+T33	Symptom 1407 1411	体重减轻
+T34	Drug 1433 1437	利拉鲁肽
+T35	Anatomy 1439 1443	β 细胞
+T36	Drug 1454 1458	利拉鲁肽
+T37	Disease 1469 1474;1475 1476	2 型糖尿 病
+T38	Drug 1488 1492	利拉鲁肽
+T39	Anatomy 1499 1503	β 细胞
+T40	Anatomy 1520 1524	β 细胞
+T41	Drug 1536 1540	降糖药物
+T42	Test 1544 1546	血糖
+T43	Disease 1557 1563	2 型糖尿病
+T44	Anatomy 1570 1571;1572 1574	β 细胞
+T45	Test 1582 1584	血糖
+T46	Drug 1635 1638	胰岛素
+T47	Disease 1645 1651	2 型糖尿病
+T48	Test 1653 1655	血糖
+T49	Anatomy 1671 1675	β 细胞
+T50	Test 1708 1710	血糖
+T51	Anatomy 1742 1747	GLP-1
+T52	Test 1757 1759	血糖
+T53	Anatomy 1779 1784	GLP-1
+T54	Anatomy 1789 1793	β 细胞
+T55	Anatomy 1797 1801	胰岛组织
+T56	Anatomy 1810 1815	GLP-1
+T57	Anatomy 1821 1825	β 细胞
+T58	Anatomy 1837 1840;1841 1842	β 细 胞
+T59	Disease 1875 1876;1877 1879	糖 尿病
+T60	Drug 1886 1891	GLP-1
+T61	Anatomy 1910 1914	胰腺组织
+T62	Anatomy 1925 1930	GLP-1
+T63	Disease 1942 1945	糖尿病
+T64	Anatomy 1949 1950;1951 1957	胰 岛 β 细胞
+T65	Anatomy 1971 1973	胰腺
+T66	Drug 1975 1978	胰岛素
+T67	Anatomy 1994 1999	GLP-1
+T68	Anatomy 2004 2008	β 细胞
+T69	Anatomy 2017 2021	β 细胞
+T70	Anatomy 2029 2033	β 细胞
+T71	Drug 2042 2051	GLP-1 类似物
+T72	Drug 2052 2056	利拉鲁肽
+T73	Anatomy 2067 2072	GLP-1
+T74	Anatomy 2086 2090	β 细胞
+T75	Test 2097 2099	体重
+T76	Drug 2107 2111	利拉鲁肽
+T77	Anatomy 2119 2123	β 细胞
+T78	Anatomy 2131 2135	β 细胞
+T79	Test 2153 2158	游离脂肪酸
+T80	Anatomy 2171 2175	β 细胞
+T81	Drug 2181 2185	利拉鲁肽
+T82	Anatomy 2193 2200	胰岛 β 细胞
+T83	Drug 2215 2219	利拉鲁肽
+T84	Duration 2222 2225	6 周
+T85	Disease 2228 2231	糖尿病
+T86	Anatomy 2234 2238	β 细胞
+T87	Anatomy 2249 2253	β 细胞
+T88	Disease 2280 2286	2 型糖尿病
+T89	Drug 2290 2293;2294 2295	利拉鲁 肽
+T90	Test 2299 2305	β 细胞功能
+T91	Drug 2368 2372	利拉鲁肽
+T92	Amount 2373 2380	1. 2 mg
+T93	Test 2399 2408	胰岛素原 /胰岛素
+T94	Drug 2417 2419;2420 2422	罗格 列酮
+T95	Test 2435 2446	胰岛 β 细胞功能指数
+T96	Test 2448 2454	HOMA-β
+T97	Drug 2456 2460	罗格列酮
+T98	Drug 2482 2485;2486 2487	利拉鲁 肽
+T99	Amount 2488 2495	0. 6 mg
+T100	Amount 2496 2503	1. 2 mg
+T101	Amount 2506 2513	1. 8 mg
+T102	Test 2523 2532;2533 2535	胰岛素原 /胰岛素 比值
+T103	Test_Value 2541 2545	显著降低
+T104	Test 2546 2552	HOMA-β
+T105	Drug 2582 2586	利拉鲁肽
+T106	Test 2587 2592	空腹胰岛素
+T107	Test 2594 2600	HOMA-β
+T108	Drug 2610 2614	艾塞那肽
+T109	Drug 2628 2632	利拉鲁肽
+T110	Disease 2637 2643	2 型糖尿病
+T111	Test 2647 2653	β 细胞功能
+T112	Drug 2668 2672	利拉鲁肽
+T113	Test 2725 2727;2728 2730	空腹 血糖
+T114	Test_Value 2731 2744	> 10 mmol / L
+T115	Test 2761 2765	空腹血糖
+T116	Test_Value 2766 2770;2771 2779	> 20 mmol / L
+T117	Drug 2815 2819	利拉鲁肽
+T118	Amount 2820 2831	300 mg / kg
+T119	Frequency 2832 2838	每日 2 次
+T120	Duration 2856 2859	4 周
+T121	Test 2871 2873	血糖
+T122	Test 2893 2897	处置指数
+T123	Anatomy 2912 2916	胰腺组织
+T124	Anatomy 2930 2934	β 细胞
+T125	Anatomy 2962 2967	PDX-1
+T126	Anatomy 2968 2972	MafA
+T127	Anatomy 2975 2983	GLP-1 受体
+T128	Drug 3032 3036	利拉鲁肽
+T129	Test 3042 3044	血糖
+T130	Anatomy 3050 3054	β 细胞
+T131	Anatomy 3060 3064	β 细胞
+T132	Drug 3117 3121	利拉鲁肽
+T133	Test 3127 3132	葡萄糖耐量
+T134	Anatomy 3136 3138	胰腺
+T135	Test 3139 3142	胰岛素
+T136	Anatomy 3150 3154	β 细胞
+T137	Drug 3161 3165	利拉鲁肽
+T138	Anatomy 3183 3185	胰岛
+T139	Anatomy 3187 3191	巨噬细胞
+T140	Disease 3204 3209	糖尿病前期
+T141	Drug 3221 3223;3224 3226	利拉 鲁肽
+T142	Anatomy 3232 3236	β 细胞
+T143	Disease 3241 3245	胰岛炎症
+T144	Anatomy 3249 3253	β 细胞
+T145	Drug 3274 3278	利拉鲁肽
+T146	Drug 3307 3311	二甲双胍
+T147	Drug 3320 3321;3322 3325	利 拉鲁肽
+T148	Drug 3326 3330	格列美脲
+T149	Duration 3337 3341	26 周
+T150	Drug 3359 3364	口服降糖药
+T151	Drug 3379 3381;3382 3385	口服 降糖药
+T152	Drug 3407 3410;3411 3412	利拉鲁 肽
+T153	Test 3428 3433	HBA1C
+T154	Disease 3449 3455	2 型糖尿病
+T155	Drug 3459 3463	利拉鲁肽
+T156	Test 3477 3479	血糖
+T157	Drug 3492 3503	GLP-1 受体激动剂
+T158	Drug 3512 3516	利拉鲁肽
+T159	Disease 3533 3539	2 型糖尿病
+T160	Disease 3549 3552	糖尿病
+T161	Anatomy 3560 3564	β 细胞
+T162	Test 3569 3574	HBA1C
+T163	Anatomy 3579 3583	β 细胞
+T164	Drug 3600 3604	利拉鲁肽
+T165	Disease 3611 3617	2 型糖尿病
+T166	Drug 3626 3630	利拉鲁肽
+T167	Test 3634 3636	血糖
+T168	Test 3652 3657	HBA1C
+T169	Test_Value 3660 3668	下降 1. 0%
+T170	Disease 3673 3676	糖尿病
+T171	Test 3698 3703	HBA1C
+T172	Disease 3722 3725	糖尿病
+T173	Test 3736 3741	HBA1C
+T174	Disease 3756 3759	糖尿病
+T175	Drug 3799 3803	利拉鲁肽
+T176	Test 3811 3813	血糖
+T177	Drug 3851 3855	利拉鲁肽
+T178	Drug 3859 3870	GLP-1 受体激动剂
+T179	Disease 3873 3879	2 型糖尿病
+T180	Drug 3889 3893	二甲双胍
+T181	Drug 3915 3919	利拉鲁肽
+T182	Drug 3931 3935	利拉鲁肽
+T183	Test 3940 3946	β 细胞功能
+T184	Disease 3961 3967	2 型糖尿病
+T185	Drug 3998 4002	利拉鲁肽
+T186	Disease 4007 4013	2 型糖尿病
+T187	Test 4023 4025	血糖
+T188	Symptom 4028 4032	体重减轻
+T189	Test 4059 4061	血糖
+T190	Drug 4078 4081;4082 4083	利拉鲁 肽
+T191	Drug 4084 4088	格列美脲
+T192	Disease 4094 4100	2 型糖尿病
+T193	Drug 4152 4156	格列美脲
+T194	Drug 4157 4161	利拉鲁肽
+T195	Amount 4162 4169	1. 2 mg
+T196	Drug 4171 4175	利拉鲁肽
+T197	Amount 4176 4180;4181 4183	1. 8 mg
+T198	Test 4195 4200	HBA1C
+T199	Drug 4227 4231	利拉鲁肽
+T200	Test 4235 4240	HBA1C
+T201	Test 4241 4245	空腹血糖
+T202	Drug 4253 4256;4257 4258	格列美 脲
+T203	Symptom 4262 4265	低血糖
+T204	Drug 4272 4276	格列美脲
+T205	Disease 4296 4302	2 型糖尿病
+T206	Drug 4306 4310	二甲双胍
+T207	Drug 4322 4326	利拉鲁肽
+T208	Drug 4327 4331	格列美脲
+T209	Drug 4378 4382	利拉鲁肽
+T210	Amount 4383 4390	0. 6 mg
+T211	Amount 4391 4398	1. 2 mg
+T212	Drug 4409 4413	格列美脲
+T213	Test 4418 4423	HBA1C
+T214	Drug 4466 4470	利拉鲁肽
+T215	Test 4475 4477	血糖
+T216	Drug 4484 4488	格列美脲
+T217	Disease 4492 4493;4494 4496	低 血糖
+T218	Drug 4503 4507	格列美脲
+T219	Disease 4543 4549	2 型糖尿病
+T220	Drug 4554 4558	利拉鲁肽
+T221	Test 4567 4572	HBA1C
+T222	Drug 4581 4585	格列美脲
+T223	Test 4588 4590	血糖
+T224	SideEff 4604 4607	低血糖
+T225	Drug 4614 4618	格列美脲
+T226	Test 4633 4635	体重
+T227	Anatomy 4642 4646	内脏脂肪
+T228	Disease 4651 4656;4657 4658	2 型糖尿 病
+T229	Disease 4664 4666	肥胖
+T230	Disease 4672 4674	肥胖
+T231	Disease 4678 4684	2 型糖尿病
+T232	Disease 4691 4693	肥胖
+T233	Reason 4697 4703	内脏脂肪堆积
+T234	Disease 4709 4715	2 型糖尿病
+T235	Disease 4734 4740	2 型糖尿病
+T236	Test 4754 4756	体重
+T237	Test 4768 4770	血糖
+T238	Test 4798 4800	体重
+T239	Drug 4805 4807;4808 4809	磺脲 类
+T240	Drug 4810 4816	噻唑烷二酮类
+T241	Drug 4817 4820	胰岛素
+T242	Reason 4830 4834	体重增加
+T243	Disease 4835 4837;4838 4841	心血 管事件
+T244	Drug 4854 4858	利拉鲁肽
+T245	Anatomy 4868 4873	GLP-1
+T246	Drug 4880 4881;4882 4885	利 拉鲁肽
+T247	Test 4893 4895	血糖
+T248	Test 4923 4925	体重
+T249	Drug 4949 4953	利拉鲁肽
+T250	Amount 4954 4961	1. 2 mg
+T251	Amount 4964 4971	1. 8 mg
+T252	Duration 4977 4980	2 年
+T253	Test 4980 4982	体重
+T254	Test 4990 4992	体重
+T255	Test_Value 4998 5005	2. 1 kg
+T256	Test_Value 5008 5015	2. 7 kg
+T257	Drug 5017 5021	格列美脲
+T258	Test 5023 5025	体重
+T259	Test_Value 5025 5035	增加 1. 1 kg
+T260	Drug 5064 5068	二甲双胍
+T261	Drug 5073 5077	利拉鲁肽
+T262	Amount 5078 5085	1. 2 mg
+T263	Amount 5088 5095	1. 8 mg
+T264	Duration 5099 5102	2 年
+T265	Test 5102 5104	体重
+T266	Test 5112 5114	体重
+T267	Test_Value 5120 5127	3. 0 kg
+T268	Test_Value 5130 5137	2. 9 kg
+T269	Drug 5139 5143	格列美脲
+T270	Test 5145 5147	体重
+T271	Test_Value 5150 5157	0. 7 kg
+T272	Drug 5178 5182	利拉鲁肽
+T273	Test 5190 5192	体重
+T274	Test 5199 5201	体重
+T275	Reason 5211 5216	胰岛素抵抗
+T276	Test 5219 5221	血糖
+T277	Disease 5235 5240	心血管事件
+T278	Drug 5259 5263	利拉鲁肽
+T279	Reason 5277 5280;5281 5284	内脏脂 肪堆积
+T280	Disease 5290 5295	全身性肥胖
+T281	Anatomy 5300 5303	心血管
+T282	Drug 5321 5325	利拉鲁肽
+T283	Test 5332 5334	体重
+T284	Disease 5349 5355	2 型糖尿病
+T285	Test 5442 5446	体重指数
+T286	Test_Value 5446 5457	≤40 kg / m2
+T287	Test_Value 5466 5477	≤45 kg / m2
+T288	Test 5487 5492	HBA1C
+T289	Test_Value 5493 5507	7. 0% ~ 11. 0%
+T290	Disease 5525 5531	2 型糖尿病
+T291	Drug 5535 5539	二甲双胍
+T292	Drug 5548 5552	利拉鲁肽
+T293	Drug 5553 5557	格列美脲
+T294	Duration 5565 5569	26 周
+T295	Drug 5590 5594	利拉鲁肽
+T296	Amount 5595 5602	1. 2 mg
+T297	Amount 5605 5612	1. 8 mg
+T298	Drug 5614 5618	格列美脲
+T299	Amount 5619 5627	8 mg / d
+T300	Duration 5631 5635	52 周
+T301	Test 5663 5674;5675 5676	腹部 CT 扫描分析身 体
+T302	Drug 5685 5689	利拉鲁肽
+T303	Test 5691 5693	体重
+T304	Anatomy 5698 5702	脂肪组织
+T305	Drug 5709 5713	格列美脲
+T306	Anatomy 5716 5720	脂肪组织
+T307	Drug 5738 5742	利拉鲁肽
+T308	Amount 5743 5750	1. 2 mg
+T309	Amount 5753 5760	1. 8 mg
+T310	Test 5763 5767	体脂比率
+T311	Drug 5768 5772	格列美脲
+T312	Test 5785 5793	内脏脂肪组织面积
+T313	Drug 5800 5804	利拉鲁肽
+T314	Amount 5805 5812	0. 6 mg
+T315	Amount 5813 5820	1. 2 mg
+T316	Amount 5823 5830	1. 8 mg
+T317	Drug 5854 5855;5856 5859	格 列美脲
+T318	Drug 5861 5864	安慰剂
+T319	Drug 5879 5883	格列美脲
+T320	Drug 5888 5892	利拉鲁肽
+T321	Amount 5893 5900	1. 2 mg
+T322	Amount 5903 5910	1. 8 mg
+T323	Drug 5954 5958	利拉鲁肽
+T324	Anatomy 5959 5965	皮下脂肪组织
+T325	Drug 5975 5979	利拉鲁肽
+T326	Amount 5980 5987	1. 2 mg
+T327	Amount 5990 5997	1. 8 mg
+T328	Drug 6009 6013	格列美脲
+T329	Test 6016 6018	CT
+T330	Drug 6028 6032	利拉鲁肽
+T331	Anatomy 6038 6044	内脏脂肪组织
+T332	Anatomy 6051 6057	皮下脂肪组织
+T333	Drug 6058 6062	利拉鲁肽
+T334	Amount 6063 6070	1. 8 mg
+T335	Disease 6072 6076	肝脾衰减
+T336	Disease 6088 6091	脂肪肝
+T337	Drug 6100 6104	格列美脲
+T338	Disease 6106 6110	肝脾衰减
+T339	Drug 6134 6138	利拉鲁肽
+T340	Test 6143 6147	脂肪含量
+T341	Test 6150 6154	体脂比率
+T342	Test_Value 6154 6156	降低
+T343	Drug 6158 6160;6161 6163	格列 美脲
+T344	Test 6171 6175	体脂比率
+T345	Test_Value 6175 6177	增高
+T346	Drug 6208 6212	利拉鲁肽
+T347	Test 6215 6217	体重
+T348	Test 6225 6231	身体脂肪含量
+T349	Test 6232 6236	体脂比率
+T350	Anatomy 6240 6244	内脏脂肪
+T351	Disease 6270 6274	腹型肥胖
+T352	Disease 6283 6287	腹型肥胖
+T353	Test 6294 6296	腰围
+T354	Test 6303 6305	腰围
+T355	Disease 6306 6308;6309 6312	心血 管疾病
+T356	Test 6322 6324	腰围
+T357	Disease 6333 6338	心血管事件
+T358	Disease 6365 6371	2 型糖尿病
+T359	Drug 6383 6387	利拉鲁肽
+T360	Test 6412 6413;6414 6415	腰 围
+T361	Test 6416 6419	腰臀比
+T362	Test 6420 6426	内脏脂肪面积
+T363	Disease 6434 6438	腹型肥胖
+T364	Disease 6442 6447;6448 6449	2 型糖尿 病
+T365	Drug 6462 6465	胰岛素
+T366	Test 6467 6469	血糖
+T367	Drug 6483 6487	利拉鲁肽
+T368	Drug 6490 6493	胰岛素
+T369	Duration 6500 6504	12 周
+T370	Drug 6513 6517	利拉鲁肽
+T371	Test 6519 6521	体重
+T372	Test 6522 6524	腰围
+T373	Test 6525 6529	体重指数
+T374	Test_Value 6537 6548	减少 5. 62 kg
+T375	Test_Value 6549 6557	5. 70 cm
+T376	Test_Value 6560 6573	1. 93 kg / m2
+T377	Drug 6577 6580	胰岛素
+T378	Test_Value 6592 6603	增加 2. 00 kg
+T379	Test_Value 6604 6612	1. 76 cm
+T380	Test_Value 6615 6628	0. 70 kg / m2
+T381	Drug 6635 6636;6637 6640	利 拉鲁肽
+T382	Test 6644 6646	腰围
+T383	Anatomy 6653 6657	内脏脂肪
+T384	Drug 6672 6676	利拉鲁肽
+T385	Test 6678 6680	体重
+T386	Anatomy 6683 6687	内脏脂肪
+T387	Disease 6699 6705	2 型糖尿病
+T388	Disease 6750 6756	2 型糖尿病
+T389	Disease 6763 6768	心血管疾病
+T390	Disease 6772 6777	心血管疾病
+T391	Disease 6779 6785	2 型糖尿病
+T392	Drug 6807 6811	利拉鲁肽
+T393	Test 6816 6820	总胆固醇
+T394	Test 6822 6831	低密度脂蛋白胆固醇
+T395	Test 6832 6836	甘油三酯
+T396	Drug 6865 6869	利拉鲁肽
+T397	Drug 6886 6890	利拉鲁肽
+T398	Test 6896 6899	收缩压
+T399	Drug 6906 6910	利拉鲁肽
+T400	Symptom 6913 6916	高血糖
+T401	Disease 6917 6919	肥胖
+T402	Reason 6923 6926;6927 6928	腹型肥 胖
+T403	Disease 6930 6934	血脂异常
+T404	Disease 6935 6938	高血压
+T405	Anatomy 6960 6963	心血管
+T406	Drug 6969 6973	利拉鲁肽
+T407	Drug 7002 7006	利拉鲁肽
+T408	Drug 7047 7051	利拉鲁肽
+T409	Anatomy 7057 7062	GLP-1
+T410	Anatomy 7076 7077;7078 7080	β 细胞
+T411	Disease 7094 7100	2 型糖尿病
+T412	Anatomy 7103 7107	β 细胞
+T413	Disease 7129 7135	2 型糖尿病
+T414	Drug 7144 7148	利拉鲁肽
+T415	Test 7157 7159	血糖
+T416	Drug 7166 7168;7169 7171	利拉 鲁肽
+T417	Test 7179 7181	血糖
+T418	Test 7189 7191	体重
+T419	Anatomy 7200 7204	内脏脂肪
+T420	Drug 7211 7215	利拉鲁肽
+T421	Disease 7221 7224;7225 7226	血脂异 常
+T422	Disease 7227 7230	高血压
+T423	Anatomy 7231 7234	心血管
+T424	Drug 7243 7247	利拉鲁肽
+T425	Disease 7256 7262	2 型糖尿病
+T426	Anatomy 7266 7270	β 细胞
+T427	Test 7273 7275	血糖

@@ -1,0 +1,240 @@
+T1	Disease 3998 4005	糖尿病神经病变
+T2	Disease 1294 1300	2 型糖尿病
+T3	Disease 1353 1359	2 型糖尿病
+T4	Drug 1312 1313;1314 1318	磺 脲类药物
+T5	Drug 1345 1350	磺脲类药物
+T6	Drug 1555 1560	磺脲类药物
+T7	Drug 1455 1459	格列喹酮
+T8	Drug 41 45	格列齐特
+T9	Drug 125 129	格列齐特
+T10	Drug 158 162	格列齐特
+T11	Drug 299 303	格列齐特
+T12	Drug 1679 1683	格列齐特
+T13	Drug 1759 1763	格列齐特
+T14	Drug 1981 1985	格列齐特
+T15	Drug 2877 2881	格列齐特
+T16	Drug 2904 2906;2907 2909	格列 齐特
+T17	Drug 2944 2948	格列齐特
+T18	Drug 2984 2988	格列齐特
+T19	Drug 3021 3025	格列齐特
+T20	Drug 3200 3204	格列齐特
+T21	Drug 3221 3225	格列齐特
+T22	Drug 3244 3248	格列齐特
+T23	Drug 3289 3293	格列齐特
+T24	Drug 3326 3330	格列齐特
+T25	Drug 3392 3396	格列齐特
+T26	Drug 3463 3467	格列齐特
+T27	Drug 3506 3510	格列齐特
+T28	Drug 3716 3720	格列齐特
+T29	Drug 3743 3747	格列齐特
+T30	Drug 3798 3802	格列齐特
+T31	Drug 3853 3857	格列齐特
+T32	Drug 3983 3984;3985 3988	格 列齐特
+T33	Drug 4013 4017	格列齐特
+T34	Drug 4050 4054	格列齐特
+T35	Drug 4180 4184	格列齐特
+T36	Drug 4506 4510	格列齐特
+T37	Drug 4911 4915	格列齐特
+T38	Drug 4964 4968	格列齐特
+T39	Drug 4991 4995	格列齐特
+T40	Drug 5258 5262	格列齐特
+T41	Drug 5374 5375;5376 5379	格 列齐特
+T42	Drug 4334 4338	格列吡嗪
+T43	Drug 1401 1405	二甲双胍
+T44	Drug 1409 1415	噻唑烷二酮类
+T45	Drug 1486 1490	吡格列酮
+T46	Anatomy 1626 1630	成骨细胞
+T47	Anatomy 1690 1694	成骨细胞
+T48	Anatomy 2951 2955	成骨细胞
+T49	Anatomy 3899 3903	成骨细胞
+T50	Anatomy 4018 4022	成骨细胞
+T51	Anatomy 4166 4170	成骨细胞
+T52	Anatomy 4248 4252	成骨细胞
+T53	Anatomy 4260 4264	成骨细胞
+T54	Anatomy 4382 4386	成骨细胞
+T55	Anatomy 4417 4421	成骨细胞
+T56	Anatomy 4464 4468	成骨细胞
+T57	Anatomy 4518 4522	成骨细胞
+T58	Anatomy 4533 4537	成骨细胞
+T59	Anatomy 4572 4576	成骨细胞
+T60	Anatomy 4592 4596	成骨细胞
+T61	Anatomy 4657 4661	成骨细胞
+T62	Anatomy 4801 4805	成骨细胞
+T63	Anatomy 4867 4871	成骨细胞
+T64	Anatomy 4980 4984	成骨细胞
+T65	Anatomy 5081 5085	成骨细胞
+T66	Anatomy 5131 5135	成骨细胞
+T67	Anatomy 5202 5206	成骨细胞
+T68	Anatomy 5208 5212	成骨细胞
+T69	Anatomy 5381 5385	成骨细胞
+T70	Anatomy 136 147	MC3T3-E1 细胞
+T71	Anatomy 165 176	MC3T3-E1 细胞
+T72	Disease 1176 1179	糖尿病
+T73	Disease 1248 1251	糖尿病
+T74	Drug 1275 1280	噻唑烷二酮
+T75	Drug 1281 1283;1284 1285	胰岛 素
+T76	Disease 1302 1306	脊柱骨折
+T77	Disease 1323 1325	骨折
+T78	Disease 1363 1365	骨折
+T79	Test 1238 1240	血糖
+T80	Disease 1375 1378	糖尿病
+T81	Disease 1425 1427	骨折
+T82	Drug 1448 1454	胰岛素促泌剂
+T83	Drug 1460 1463;1464 1465	格列吡 嗪
+T84	Anatomy 1469 1479	PPAR-γ 靶基因
+T85	Anatomy 1506 1511	PPARγ
+T86	Anatomy 1519 1521	骨髓
+T87	Anatomy 1561 1564	骨组织
+T88	Drug 1670 1674;1675 1676	磺脲类药 物
+T89	Duration 2015 2019	48 h
+T90	Anatomy 2885 2893	MC3T3-E1
+T91	Amount 2990 3001	20 μmol / L
+T92	Duration 2912 2916	48 h
+T93	Drug 3269 3272;3273 3274	格列齐 特
+T94	Anatomy 3297 3305	MC3T3-E1
+T95	Anatomy 3333 3344	MC3T3-E1 细胞
+T96	Duration 3345 3348	48h
+T97	Anatomy 3401 3412	MC3T3-E1 细胞
+T98	Amount 3469 3480	20 μmol / L
+T99	Anatomy 3512 3518;3519 3524	MC3T3- E1 细胞
+T100	Duration 3527 3531	48 h
+T101	Anatomy 3749 3754	COL-1
+T102	Drug 3791 3794	磺脲类
+T103	Anatomy 3818 3821	血小板
+T104	Test 3830 3832	血脂
+T105	Test 3833 3836	血粘度
+T106	Disease 3919 3923	骨质疏松
+T107	Anatomy 4059 4067;4068 4070	MC3T3-E1 细胞
+T108	Anatomy 5362 5367	Runx2
+T109	Anatomy 5218 5222	骨钙蛋白
+T110	Anatomy 5223 5228	碱性磷酸酶
+T111	Anatomy 5268 5279	MC3T3-E1 细胞
+T112	Anatomy 5230 5233	OPN
+T113	Anatomy 5193 5198	Runx2
+T114	Anatomy 5170 5174	骨涎蛋白
+T115	Anatomy 5164 5168	骨钙蛋白
+T116	Anatomy 5154 5159	COL-1
+T117	Anatomy 5160 5163	OPN
+T118	Anatomy 5122 5130	Runx2 基因
+T119	Anatomy 5031 5036	Runx2
+T120	Anatomy 5045 5050	Runx2
+T121	Amount 4942 4953	20 μmol / L
+T122	Anatomy 4759 4762	OPN
+T123	Anatomy 4733 4736	OPN
+T124	Anatomy 4650 4655	骨基质蛋白
+T125	Anatomy 4680 4681	骨
+T126	Anatomy 4694 4699	成骨样细胞
+T127	Anatomy 4713 4714	骨
+T128	Anatomy 4584 4591	I 型胶原蛋白
+T129	Anatomy 4637 4640	OPN
+T130	Anatomy 4607 4610	骨胶原
+T131	Anatomy 4449 4452	肝细胞
+T132	Amount 4074 4085	20 μmol / L
+T133	Drug 4121 4125	格列美脲
+T134	Anatomy 4194 4205	MC3T3-E1 细胞
+T135	Anatomy 4369 4372	肝细胞
+T136	Drug 4296 4300	格列美脲
+T137	Amount 240 251	20 μmol / L
+T138	Anatomy 2376 2381	COL-1
+T139	Disease 4303 4305;4306 4307	糖尿 病
+T140	Disease 4342 4345	糖尿病
+T141	Anatomy 4838 4841	骨质线
+T142	Anatomy 4842 4845	骨膜板
+T143	Test 841 844	OPN
+T144	Test 972 975	OPN
+T145	Anatomy 192 197	COL-1
+T146	Anatomy 1180 1184	骨骼系统
+T147	Anatomy 1732 1740	MC3T3-E1
+T148	Anatomy 1650 1661	MC3T3-E1 细胞
+T149	Anatomy 1913 1924	MC3T3-E1 细胞
+T150	Anatomy 2234 2245	MC3T3-E1 细胞
+T151	Anatomy 5064 5068	Runx
+T152	Anatomy 962 967	COL-1
+T153	Amount 3188 3199	10 μmol / L
+T154	Amount 3209 3220	20 μmol / L
+T155	Amount 3231 3243	100 μmol / L
+T156	Anatomy 3645 3650	Col-1
+T157	Anatomy 3651 3657	I型胶原蛋白
+T158	Anatomy 3662 3666	骨桥蛋白
+T159	Anatomy 3667 3672	Runx2
+T160	Anatomy 3673 3684;3685 3690	成骨因子 Runt 相 关基因 2
+T161	Anatomy 3761 3766	Runx2
+T162	Anatomy 3767 3771	mRNA
+T163	Anatomy 4791 4794	骨基质
+T164	Anatomy 4624 4626	骨骼
+T165	Anatomy 2522 2527	Runx2
+T166	Anatomy 4127 4137	磷脂酰肌醇 3 激酶
+T167	Anatomy 4140 4146	蛋白激酶 B
+T168	Anatomy 4147 4151	PI3K
+T169	Anatomy 4154 4157	AKt
+T170	Symptom 1199 1205	长期严重疼痛
+T171	Symptom 1206 1210	功能障碍
+T172	Drug 3913 3916	雌激素
+T173	Anatomy 4227 4236	胰岛素样生长因子I
+T174	Test_Value 4317 4319	升高
+T175	Test_Value 4357 4359	升高
+T176	Anatomy 1598 1612;1613 1617	磷脂酰肌醇 3 激酶 /蛋白 激酶 B
+T177	Anatomy 4703 4708	细胞外基质
+T178	Test 1843 1846	PCR
+T179	Test 1872 1875	PCR
+T180	Test 2325 2328	PCR
+T181	Test 2622 2625	PCR
+T182	Test 2687 2690	PCR
+T183	Test 2718 2721	PCR
+T184	Anatomy 48 52	成骨细胞
+T185	Anatomy 1723 1727	成骨细胞
+T186	Anatomy 199 203	骨桥蛋白
+T187	Anatomy 204 207	OPN
+T188	Anatomy 261 266	COL-1
+T189	Anatomy 209 213;214 225	成骨因子 Runt 相关基因 2
+T190	Anatomy 226 231	Runx2
+T191	Anatomy 267 270	OPN
+T192	Anatomy 273 278	Runx2
+T193	Disease 1166 1175	糖尿病性骨质疏松症
+T194	Drug 1416 1422	磺脲类降糖药
+T195	Anatomy 1524 1528;1529 1533	骨髓间充 质干细胞
+T196	Drug 1592 1596	格列美脲
+T197	Anatomy 2207 2212	COL-1
+T198	Anatomy 2213 2216	OPN
+T199	Anatomy 2219 2227	Runx2 基因
+T200	Anatomy 2604 2612	β-action
+T201	Anatomy 3351 3356	COL-1
+T202	Anatomy 3357 3360	OPN
+T203	Anatomy 3363 3368	Runx2
+T204	Anatomy 3419 3424	COL-1
+T205	Anatomy 3425 3428	OPN
+T206	Anatomy 3431 3436	Runx2
+T207	Anatomy 3534 3539	Runx2
+T208	Anatomy 3544 3549	COL-1
+T209	Anatomy 3550 3553	OPN
+T210	Anatomy 3566 3571	Runx2
+T211	Anatomy 3582 3587	COL-1
+T212	Anatomy 3588 3591	OPN
+T213	Anatomy 3658 3661	OPN
+T214	Anatomy 3755 3758	OPN
+T215	Anatomy 5317 5327	Runx2 mRNA
+T216	Anatomy 5330 5335	COL-1
+T217	Anatomy 5338 5341	OPN
+T218	Anatomy 5282 5287	Runx2
+T219	Anatomy 4999 5004	COL-1
+T220	Anatomy 5007 5010	OPN
+T221	Anatomy 5053 5057	Runt
+T222	Anatomy 4919 4924	COL-1
+T223	Anatomy 4927 4930	OPN
+T224	Anatomy 4807 4810	OPN
+T225	Anatomy 4833 4836	OPN
+T226	Anatomy 4862 4865	OPN
+T227	Anatomy 4549 4554	I 型胶原
+T228	Anatomy 4555 4560	COL-1
+T229	Anatomy 4562 4566	骨桥蛋白
+T230	Anatomy 4567 4570	OPN
+T231	Anatomy 2452 2455	OPN
+T232	Anatomy 4238 4243	IGF-I
+T233	Test 4310 4315	IGF-I
+T234	Test 4347 4355	血清 IGF-I
+T235	Test 4361 4366	IGF-I
+T236	Test 4395 4400	IGF-I
+T237	Test 4456 4461	IGF-I
+T238	Test 4475 4480	IGF-I
+T239	Test 4525 4530	IGF-I
+T240	Anatomy 186 191	I 型胶原

@@ -1,0 +1,117 @@
+T1	Test 2913 2915	腰围
+T2	Test 3031 3033	腰围
+T3	Test 1821 1823	尿酸
+T4	Disease 24 29	代谢综合征
+T5	Disease 127 132	代谢综合征
+T6	Disease 171 176	代谢综合征
+T7	Disease 1037 1042	代谢综合征
+T8	Disease 1193 1198	代谢综合征
+T9	Disease 1388 1391;1392 1394	代谢综 合征
+T10	Disease 1701 1706	代谢综合征
+T11	Disease 1732 1737	代谢综合征
+T12	Disease 1832 1837	代谢综合征
+T13	Disease 1859 1864	代谢综合征
+T14	Disease 1886 1891	代谢综合征
+T15	Disease 1912 1917	代谢综合征
+T16	Disease 1992 1993;1994 1998	代 谢综合征
+T17	Disease 2022 2027	代谢综合征
+T18	Disease 2130 2135	代谢综合征
+T19	Disease 2176 2181	代谢综合征
+T20	Disease 2235 2237;2238 2241	代谢 综合征
+T21	Disease 2270 2275	代谢综合征
+T22	Disease 2303 2308	代谢综合征
+T23	Disease 2319 2324	代谢综合征
+T24	Disease 2401 2406	代谢综合征
+T25	Disease 2482 2487	代谢综合征
+T26	Disease 2537 2542	代谢综合征
+T27	Disease 2624 2629	代谢综合征
+T28	Disease 2685 2688;2689 2691	代谢综 合征
+T29	Disease 2728 2733	代谢综合征
+T30	Disease 2777 2782	代谢综合征
+T31	Disease 2799 2804	代谢综合征
+T32	Disease 2840 2845	代谢综合征
+T33	Disease 2900 2905	代谢综合征
+T34	Disease 2950 2951;2952 2956	代 谢综合征
+T35	Disease 2990 2995	代谢综合征
+T36	Disease 3014 3019	代谢综合征
+T37	Disease 3166 3171	代谢综合征
+T38	Disease 3198 3200;3201 3204	代谢 综合征
+T39	Disease 3264 3269	代谢综合征
+T40	Disease 3299 3304	代谢综合征
+T41	Disease 3364 3369	代谢综合征
+T42	Disease 551 553	MS
+T43	Disease 636 638	MS
+T44	Test 1815 1817	体重
+T45	Disease 62 67	心血管疾病
+T46	Disease 1065 1068;1069 1070	腹型肥 胖
+T47	Disease 1071 1077	血糖代谢异常
+T48	Disease 1078 1084	血脂代谢紊乱
+T49	Disease 1086 1089	高血压
+T50	Disease 1139 1143;1144 1145	代谢综合 征
+T51	Disease 1160 1165	心血管疾病
+T52	Disease 1250 1252	肥胖
+T53	Disease 1328 1331;1332 1335	糖脂代 谢紊乱
+T54	Disease 1343 1348	胰岛素抵抗
+T55	Disease 1349 1354	中心性肥胖
+T56	Disease 1355 1356;1357 1359	高 血压
+T57	Disease 1375 1380	胰岛素抵抗
+T58	Disease 1381 1383	肥胖
+T59	Disease 1514 1519	糖 尿 病
+T60	Disease 1622 1624	肥胖
+T61	Disease 1646 1649	糖尿病
+T62	Test 1727 1731	静息心率
+T63	Test 1851 1855	静息心率
+T64	Test 1926 1930	静息心率
+T65	Test 1948 1950	心率
+T66	Test 2249 2252	γGT
+T67	Disease 2448 2450	肥胖
+T68	Disease 2451 2456	胰岛素抵抗
+T69	Test 2907 2909	血糖
+T70	Test 2910 2912	血脂
+T71	Disease 2916 2921	胰岛素抵抗
+T72	Disease 3022 3025;3026 3028	胰岛素 抵抗
+T73	Disease 3210 3216	糖脂代谢异常
+T74	Disease 1579 1583;1584 1585	代谢综合 征
+T75	Test 2072 2075	γGT
+T76	Disease 8 14	内分泌代谢病
+T77	Disease 2379 2382;2383 2385	代谢性 疾病
+T78	Test 3271 3275	脂质代谢
+T79	Test 2245 2247	高于
+T80	Duration 2851 2854	9 d
+T81	Reason 1663 1667	遗传因素
+T82	Reason 1671 1673	年龄
+T83	Reason 1674 1680	体力活动减少
+T84	Reason 1681 1686	促炎症状态
+T85	Test 1937 1939	心率
+T86	Drug 3289 3294	绿茶提取物
+T87	Drug 3160 3165	绿茶提取物
+T88	Drug 3256 3257;3258 3262	绿 茶提取物
+T89	Reason 56 61	代谢综合征
+T90	Test 1304 1306;1307 1309	甘油 三酯
+T91	Reason 90 95	胰岛素抵抗
+T92	Reason 97 102	中心性肥胖
+T93	Reason 111 117	静息心率增快
+T94	Reason 1102 1107	胰岛素抵抗
+T95	Symptom 1120 1125	内脏型肥胖
+T96	Reason 1221 1226	胰岛素抵抗
+T97	Reason 1227 1232	中心性肥胖
+T98	Anatomy 1258 1262	脂肪组织
+T99	Test 1270 1273	脂肪酸
+T100	Anatomy 1278 1280	肝脏
+T101	Reason 1280 1281;1282 1286	胰 岛素抵抗
+T102	Test 1287 1289	肝糖
+T103	Anatomy 1311 1313	肌肉
+T104	Test 1411 1414	胆固醇
+T105	Reason 1602 1607	胰岛素抵抗
+T106	Reason 1689 1695	激素调节异常
+T107	Reason 1881 1885	静息心率
+T108	Test 2039 2044;2045 2048	γ-谷氨酰 转肽酶
+T109	Anatomy 2083 2084;2085 2086	肝 脏
+T110	Anatomy 2087 2089	胆囊
+T111	Anatomy 2090 2092	胆道
+T112	Test 2151 2154	γGT
+T113	Test 2163 2166	γGT
+T114	Test 2226 2229	γGT
+T115	Test 2262 2265	γGT
+T116	Test 3307 3313	低密度脂蛋白
+T117	Test 2125 2128	γGT

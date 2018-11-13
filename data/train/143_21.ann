@@ -1,0 +1,292 @@
+T1	Disease 2567 2573	1 型糖尿病
+T2	Disease 2995 3001	1 型糖尿病
+T3	Disease 3221 3227	1 型糖尿病
+T4	Test 1256 1259	肾功能
+T5	Disease 2654 2659	产后甲状腺
+T6	Test 426 431	甲状腺功能
+T7	Test 868 873	甲状腺功能
+T8	Test 1429 1434	甲状腺功能
+T9	Test 1000 1003	TSH
+T10	Test 939 942	FT3
+T11	Test 1044 1049	TPOAb
+T12	Symptom 251 255;256 258	全身肤色 变黑
+T13	Symptom 301 307	双侧乳房缩小
+T14	Disease 324 325;326 329	卵 巢早衰
+T15	Drug 332 337	达英-35
+T16	Symptom 359 361	闭经
+T17	Symptom 371 377	全身肤色变黑
+T18	Symptom 379 389	头发、腋毛及阴毛脱落
+T19	Symptom 394 396	乏力
+T20	Symptom 397 399	倦怠
+T21	Symptom 400 402	纳差
+T22	Symptom 412 414	怕热
+T23	Symptom 415 417	多汗
+T24	Symptom 418 420	消瘦
+T25	Drug 439 444	抗甲亢药物
+T26	Symptom 459 465	皮肤瘙痒不适
+T27	Disease 507 512	产后大出血
+T28	Test 543 545	体温
+T29	Test 553 555	脉搏
+T30	Test 568 570	呼吸
+T31	Test 582 584	血压
+T32	Test_Value 546 552	36. 4℃
+T33	Test_Value 556 559;560 567	108 次 / min
+T34	Test_Value 571 581	20 次 / min
+T35	Test_Value 585 597	80 / 60 mmHg
+T36	Symptom 639 647;648 651	全身皮肤、黏膜色 素沉着
+T37	Test 1160 1162	血钾
+T38	Test_Value 1163 1168;1169 1177	4. 38 mmol / L
+T39	Test 1178 1180	血钠
+T40	Test 1197 1199	血氯
+T41	Test 1215 1218	葡萄糖
+T42	Test 1235 1238	皮质醇
+T43	Test_Value 1181 1196	116. 0 mmol / L
+T44	Test_Value 1200 1214	82. 6 mmol / L
+T45	Test_Value 1219 1224;1225 1233	4. 28 mmol / L
+T46	Test_Value 1239 1253	7. 31 nmol / L
+T47	Test_Value 1296 1310	17. 70 pg / ml
+T48	Test 1289 1295	甲状旁腺激素
+T49	Test 1771 1779;1780 1784	垂体 MRI 平 扫+增强
+T50	Disease 1823 1841	自身免疫性多内分泌腺病综合征 2 型
+T51	Disease 1843 1852	Addison 病
+T52	Disease 1853 1861	甲状腺功能减退症
+T53	Disease 1862 1868	桥本甲状腺炎
+T54	Disease 1869 1875;1876 1880	特发性性腺功 能减退症
+T55	Drug 1888 1893	氢化可的松
+T56	Drug 1906 1909	泼尼松
+T57	Amount 1913 1917	5 mg
+T58	Amount 1921 1928	2. 5 mg
+T59	Method 1929 1931	口服
+T60	Drug 1932 1939	左甲状腺素钠片
+T61	Drug 1949 1952;1953 1958	炔雌醇 环丙孕酮片
+T62	Test 1995 1997	血钠
+T63	Test_Value 2001 2013	134 mmol / L
+T64	Disease 2020 2034	自身免疫性多内分泌腺病综合征
+T65	Disease 2256 2265	Addison 病
+T66	Disease 2277 2282	APS-1
+T67	Disease 2338 2341	APS
+T68	Disease 2411 2416	APS-2
+T69	Disease 2431 2436	APS-1
+T70	Anatomy 2447 2451	内分泌腺
+T71	Anatomy 2462 2465	肾上腺
+T72	Anatomy 2466 2469	甲状腺
+T73	Disease 2499 2504	APS-2
+T74	Disease 2508 2517	Addison 病
+T75	Disease 2560 2564	AITD
+T76	Disease 2601 2606	APS-3
+T77	Anatomy 2609 2612	肾上腺
+T78	Disease 2616 2619	APS
+T79	Disease 2626 2630	AITD
+T80	Disease 2633 2644	慢性淋巴细胞性甲状腺炎
+T81	Disease 2645 2653	Graves 病
+T82	Disease 2661 2663;2664 2674	自身 免疫性萎缩性甲状腺炎
+T83	Disease 2675 2682	无痛性甲状腺炎
+T84	Disease 2683 2691	甲状腺相关性眼病
+T85	Disease 2695 2702	自身免疫性疾病
+T86	Disease 2707 2716	Addison 病
+T87	Disease 2721 2725;2726 2733	慢性淋巴 细胞性甲状腺炎
+T88	Disease 2738 2743	APS-4
+T89	Disease 2750 2755	APS-1
+T90	Disease 2756 2761	APS-2
+T91	Disease 2763 2768	APS-3
+T92	Disease 2772 2779	自身免疫性疾病
+T93	Disease 2800 2805	APS-3
+T94	Disease 2808 2813	APS-4
+T95	Disease 2819 2824	APS-2
+T96	Disease 2826 2831	APS-2
+T97	Disease 2834 2839	APS-1
+T98	Disease 2937 2942	APS-2
+T99	Disease 2953 2962	Addison 病
+T100	Disease 3029 3038	原发性性腺功能减退
+T101	Disease 3048 3060;3061 3064	慢性萎缩性胃炎伴或不伴恶 性贫血
+T102	Disease 3079 3086	自身免疫性肝炎
+T103	Disease 3092 3094	斑秃
+T104	Disease 3105 3111	淋巴性垂体炎
+T105	Disease 3132 3139	自身免疫性疾病
+T106	Disease 3147 3152	APS-2
+T107	Disease 3162 3171	Addison 病
+T108	Disease 3182 3191	Addison 病
+T109	Disease 3229 3233	AITD
+T110	Disease 3240 3249	Addison 病
+T111	Disease 3304 3306;3307 3314	原发 性性腺功能减退
+T112	Symptom 3368 3370	乏力
+T113	Symptom 3371 3373	纳差
+T114	Symptom 3374 3376	倦怠
+T115	Test 3419 3423	ACTH
+T116	Drug 3432 3437	糖皮质激素
+T117	Disease 3439 3443	低钠血症
+T118	Disease 3448 3457	Addison 病
+T119	Drug 3468 3473	131 I
+T120	Disease 3488 3490	甲减
+T121	Test 3504 3508;3509 3511	TPO- Ab
+T122	Test 3512 3517	TG-Ab
+T123	Disease 3534 3540	桥本甲状腺炎
+T124	Disease 3548 3554	桥本甲状腺炎
+T125	Disease 3558 3560	甲亢
+T126	Disease 3575 3577	甲减
+T127	Disease 3593 3595	甲减
+T128	Symptom 3603 3607;3608 3610	双侧乳房 缩小
+T129	Symptom 3611 3613	闭经
+T130	Drug 3620 3630	雌、孕激素的复方制剂
+T131	Symptom 3646 3648	闭经
+T132	Disease 3661 3666;3667 3672	特发性性腺 功能减退症
+T133	Disease 3713 3718	APS-2
+T134	Disease 3851 3856	APS-2
+T135	Disease 2980 2984	AITD
+T136	Disease 0 18	自身免疫性多内分泌腺病综合征 2 型
+T137	Test 749 755	性腺 6 项
+T138	Test 1128 1137;1138 1142	肝胆胰脾、泌尿系及 妇科彩超
+T139	Test 1156 1159	血生化
+T140	Test 1312 1318	性腺 6 项
+T141	Disease 2073 2077	APS)
+T142	Disease 2239 2244	APS-1
+T143	Disease 2247 2252	APS-2
+T144	Disease 2286 2298;2299 2300	常染色体单基因隐性遗传疾 病
+T145	Anatomy 2318 2326	自身免疫条件基因
+T146	Disease 2582 2589	3 型 APS
+T147	Disease 2592 2599	4 型 APS
+T148	Anatomy 3118 3122	内分泌腺
+T149	Anatomy 3123 3128	非内分泌腺
+T150	Test 3400 3405	实验室检查
+T151	Test 3651 3657	合性激素检查
+T152	Disease 3769 3777	多基因遗传性疾病
+T153	Treatment 3792 3797	激素替代治
+T154	Treatment 3799 3803	干预治疗
+T155	Treatment 3804 3810	激素反馈治疗
+T156	Treatment 3811 3815	对症治疗
+T157	Treatment 3827 3831	激素替代
+T158	Treatment 3832 3836	对症治疗
+T159	Disease 3914 3921	自身免疫性疾病
+T160	Disease 3938 3940	死亡
+T161	Duration 246 250	2 年余
+T162	Duration 259 263	1 年余
+T163	Symptom 341 345	月经来潮
+T164	Duration 349 353	2 个月
+T165	Duration 363 368	1 年余前
+T166	Duration 404 408	4 个月
+T167	Drug 484 489	131 I
+T168	Symptom 653 656	棕褐色
+T169	Test_Value 1648 1665	1 168. 00 pg / ml
+T170	Anatomy 2309 2316	21 号染色体
+T171	Symptom 3396 3399	棕褐色
+T172	Test_Value 3416 3418	低下
+T173	Test_Value 3424 3428	升高明显
+T174	Test_Value 3518 3522	升高明显
+T175	Symptom 3633 3636;3637 3638	月经来 潮
+T176	Symptom 621 625	发育正常
+T177	Symptom 626 630	体型消瘦
+T178	Symptom 632 637	双腋毛缺如
+T179	Symptom 688 694	外阴发育正常
+T180	Symptom 695 699	阴毛稀疏
+T181	Symptom 700 705	无阴蒂肥大
+T182	Test_Value 1812 1816	未见异常
+T183	Disease 2404 2409	APS-1
+T184	Symptom 2485 2491	1 型糖尿病
+T185	Symptom 239 245	双侧乳房缩小
+T186	Symptom 308 313	月经渐减少
+T187	Symptom 314 316	闭经
+T188	Disease 434 436	甲亢
+T189	Symptom 659 677;678 679	部、双手部、双侧乳晕、舌表面、齿龈明 显
+T190	Symptom 681 686	甲状腺不大
+T191	Test 757 759	LH
+T192	Test_Value 760 773	72. 10 IU / L
+T193	Test_Value 778 791	51. 65 IU / L
+T194	Test 774 777	FSH
+T195	Test 792 795	雌二醇
+T196	Test_Value 796 810	0. 01 pmol / L
+T197	Test 811 813	孕酮
+T198	Test_Value 814 828	0. 84 nmol / L
+T199	Test 829 832	催乳素
+T200	Test_Value 833 848	1258. 3 mIU / L
+T201	Test 849 851	睾酮
+T202	Test_Value 852 866	0. 01 nmol / L
+T203	Test 874 881	三碘甲酰原氨酸
+T204	Test_Value 886 900	2. 19 nmol / L
+T205	Test 902 906	甲状腺素
+T206	Test_Value 911 926	66. 75 nmol / L
+T207	Test_Value 945 959	4. 36 pmol / L
+T208	Test 929 938	游离三碘甲酰原氨酸
+T209	Test 962 968	游离甲状腺素
+T210	Test 969 972	FT4
+T211	Test_Value 974 988	5. 11 pmol / L
+T212	Test_Value 1005 1019	66. 72 mIU / L
+T213	Test_Value 1051 1064	79. 48 IU / L
+T214	Test 1065 1074	抗甲状腺球蛋白抗体
+T215	Test_Value 1083 1090;1091 1098	233. 80 IU / ml
+T216	Test 1099 1102	TSH
+T217	Test_Value 1114 1126	0. 30 IU / L
+T218	Test 1260 1268	总二氧化碳结合力
+T219	Test_Value 1269 1283	18. 5 mmol / L
+T220	Test_Value 1323 1336	53. 81 IU / L
+T221	Test 1320 1322	LH
+T222	Test 1337 1340	FSH
+T223	Test_Value 1341 1353	8. 10 IU / L
+T224	Test 1354 1357	雌二醇
+T225	Test_Value 1358 1373	55. 00 pmol / L
+T226	Test 1374 1376	孕酮
+T227	Test_Value 1377 1382;1383 1391	3. 41 nmol / L
+T228	Test 1392 1395	催乳素
+T229	Test_Value 1396 1407	344. 42 mIU
+T230	Test 1411 1413	睾酮
+T231	Test_Value 1413 1427	<0. 1 nmol / L
+T232	Test 1436 1438	T3
+T233	Test_Value 1439 1453	1. 77 nmol / L
+T234	Test 1454 1456	T4
+T235	Test_Value 1457 1472	69. 44 nmol / L
+T236	Test 1476 1479	FT3
+T237	Test_Value 1480 1494	4. 40 pmol / L
+T238	Test 1495 1498	FT4
+T239	Test_Value 1499 1513	5. 04 pmol / L
+T240	Test 1517 1520	TSH
+T241	Test_Value 1521 1535	19. 66 mIU / L
+T242	Test 1536 1541	TPOAb
+T243	Test_Value 1542 1555	61. 22 IU / L
+T244	Test 1556 1560	TRAb
+T245	Test_Value 1561 1573	0. 30 IU / L
+T246	Test_Value 1579 1594	402. 50 IU / ml
+T247	Test 1574 1578	TgAb
+T248	Test 1596 1604	促肾上腺皮质激素
+T249	Test_Value 1620 1637	2 000. 00 pg / ml
+T250	Test 1667 1671;1672 1682	抗心磷脂 抗体 IgG、IgM
+T251	Test 1684 1694	抗 β2-糖蛋白抗体
+T252	Test 1695 1709;1710 1714	抗核双链组合(ANA、ds- DNA)
+T253	Test 1715 1720	胰岛素抗体
+T254	Test 1721 1727	胰岛细胞抗体
+T255	Test 1728 1736	谷氨酸脱羧酶抗体
+T256	Test 1737 1740;1741 1746	自身抗 体 8 项
+T257	Test 1747 1758	ENA 多肽 12 项
+T258	Test 1759 1763	卵巢抗体
+T259	Test_Value 1785 1795	垂体右后部异常强化灶
+T260	Test 1797 1806	肾上腺 CT 扫描
+T261	Test 1807 1811	乳腺彩超
+T262	Amount 1894 1899	50 mg
+T263	Frequency 1900 1902	qd
+T264	Amount 1940 1945	50 μg
+T265	Frequency 1946 1948	qd
+T266	Frequency 1963 1965	qd
+T267	Duration 1969 1973	21 日
+T268	Duration 1977 1980	7 日
+T269	Amount 1959 1962	1 片
+T270	Disease 2124 2131	1 型 APS
+T271	Disease 2139 2146	2 型 APS
+T272	Disease 2227 2231	IPEX
+T273	Symptom 2356 2365;2366 2369	原发性肾上腺皮质功 能减退
+T274	Symptom 2370 2378	皮肤黏膜念珠菌病
+T275	Symptom 2379 2387	甲状旁腺功能减退
+T276	Symptom 2474 2483	自身免疫性功能减低
+T277	Disease 2519 2529	自身免疫性甲状腺疾病
+T278	Anatomy 3342 3349	甾体类细胞抗体
+T279	Symptom 3383 3394	全身皮肤、黏膜色素沉着
+T280	Test 3408 3410	血钠
+T281	Test 3411 3414	皮质醇
+T282	Test 3494 3501	甲状腺相关抗体
+T283	Test 3523 3527	TRAb
+T284	Anatomy 3566 3569	甲状腺
+T285	Drug 3582 3587	131 I
+T286	Anatomy 3685 3688	肾上腺
+T287	Anatomy 3689 3692	甲状腺
+T288	Anatomy 3693 3695	性腺
+T289	Disease 3702 3709	自身免疫性疾病
+T290	Test 3738 3749	肾上腺皮质相应自身抗体
+T291	Test 3753 3758;3759 3760	HLA 定 型
+T292	Disease 2097 2103	自身免疫疾病

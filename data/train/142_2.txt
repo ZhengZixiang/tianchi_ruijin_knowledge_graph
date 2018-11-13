@@ -1,0 +1,324 @@
+士后,肥胖基础研究课题组组长,从事肥胖症发病机制、棕色脂肪相关研究。 2015 年获“国家自然基金优秀青年项目冶,先后承担 4 项国
+糖尿病相关研究
+基金项目:国家自然科学基金资助项目(81260136,30960147);甘肃省自然科学基金资助项目(1010RJZA178)
+维雅、许衍甲、权金星、刘静),体检中心(左玉琼、何启娟),临床检验中心(李永红),超声诊断科(周祖邦)
+2 型糖尿病 Toll 样受体 4 与颈动脉内膜中层
+厚度的相关性研究
+吕亚亚  师维雅  左玉琼  何启娟  李永红  周祖邦  许衍甲  权金星  刘静
+[摘要]   目的  探讨 2 型糖尿病患者外周血单个核细胞 Toll 样受体 4(TLR4)信号与颈动脉内膜中层
+厚度(CIMT)的相关性。 方法 选取本院 2 型糖尿病住院患者 66 例,其中 2 型糖尿病无大血管病变组
+[CIMT<0. 9 mm]20 例,2 型糖尿病合并大血管病变组(CIMT≥0. 9 mm 或有颈动脉斑块)46 例。 性别、年龄
+匹配的健康志愿者 40 名作为对照组。 采用流式细胞术检测外周血单个核细胞 TLR4 表达水平,测定
+CIMT、超敏 C 反应蛋白(hs-CRP)、白细胞介素(IL)-6 和单核细胞趋化蛋白 1(MCP-1)水平。 应用单因素方
+差分析、Pearson 相关分析、多元线性回归分析及 logistic 回归分析等进行数据分析。 结果 2 型糖尿病合并
+大血管病变组 TLR4 表达水平显著高于 2 型糖尿病无大血管病变组和对照组[(18. 60 ± 4. 64 对 14. 92 ±
+3. 47,12. 80 ± 2. 60),P<0. 05];2 型糖尿病合并大血管病变组 IL-6、hs-CRP 及 MCP-1 水平较对照组显著增
+高[(6. 08 ± 3. 16 对 4. 52 ± 2. 04)pg / ml,(2. 67 ± 2. 40 对 1. 53 ± 1. 49)mg / dl,(307. 99 ± 113. 39 对 242. 50 ±
+48. 04)pg / ml,均 P<0. 05],但与 2 型糖尿病无大血管病变组比较无显著性差异(均 P>0. 05);Pearson 相关
+分析表明:CIMT 与 TLR4、IL-6、hs-CRP、MCP-1、年龄、空腹血糖、HBA1C和稳态模型评估的胰岛素抵抗指数
+(HOMA-IR)呈正相关( r=0. 540、0. 244、0. 271、0. 329、0. 381、0. 490、0. 471、0. 410,均 P<0. 05),与高密度脂
+蛋白胆固醇(HDL-C)呈负相关( r= -0. 323,P<0. 05)。 TLR4 与 CIMT、HOMA-IR、IL-6、hs-CRP 和 MCP-1 呈
+正相关( r=0. 540、0. 428、0. 214、0. 242、0. 385,均 P<0. 05),与 HDL-C 呈负相关( r= -0. 384,P<0. 05)。 多元
+线性逐步回归分析显示:TLR4、年龄、空腹血糖是 CIMT 的独立影响因素(R2 = 0. 292、0. 423、0. 492,均 P<
+0. 05)。 Logistic 回归分析显示 TLR4 水平升高是颈动脉斑块形成的危险因素(OR = 1. 345,95% CI 1. 10 ~
+1. 64,P<0. 05)。 结论 提示 TLR4 炎症信号通路参与 2 型糖尿病大血管并发症的发生,TLR4 水平升高可
+能是颈动脉斑块形成的一个危险因素。
+[关键词]   糖尿病,2 型; Toll 样受体 4; 动脉粥样硬化; 颈动脉内膜中层厚度
+The correlation between toll like receptor 4 and carotid intima-media thickness in patients with type 2 diabetes
+Lyu Yaya *, Shi Weiya, Zuo Yuqiong, He Qijuan, Li Yonghong, Zhou Zubang, Xu Yanjia, Quan Jinxing, Liu
+Jing. *Gansu University of Traditional Chinese Medicine, Lanzhou 730000, China
+[Abstract]  Objective  To investigate the correlation between toll like receptor 4(TLR4) pathway and carotid
+intima-media thickness (CIMT) in patients with type 2 diabetes mellitus (T2DM). Methods A total of 66 patients
+with T2DM were classified into two groups based on the value of CIMT, T2DM without macrovascular injury group
+(CIMT <0. 9 mm, 20 subjects) and T2DM with macrovascular injury group (CIMT≥0. 9 mm, or with plaques, 46
+subjects),40 gender and age matched healthy subjects were used as the control group. The CIMT, serum levels of
+high-sensitivity C-reactive protein (hs-CRP), interleukin-6 ( IL-6), and monocyte chemotactic protein-1(MCP-1)
+were tested. The level of TLR4 protein expression on peripheral blood monocyte cells was detected using flow
+cytometry. Single-factor analysis of variance, Pearson linear analysis, multivariate linear stepwise regression model,
+and Logistic regression model were performed to analyze the data. Results The level of TLR4 in T2DM with
+macrovascular injury group was significantly higher than that in both the T2DM without macrovascular injury group and
+the control group[(18. 60 ± 4. 64 vs 14. 92 ± 3. 47, 12. 80 ± 2. 60), all P<0. 05] . In addition, the levels of IL-6,
+hs-CRP, and MCP-1 in T2DM with macrovascular injury group were significantly increased as compared with those in
+control group[(6. 08 ± 3. 16 vs 4. 52 ± 2. 04) pg / ml, (2. 67 ± 2. 40 vs 1. 53 ± 1. 49)mg / dl, (307. 99 ± 113. 39 vs
+242. 50 ± 48. 04) pg / ml, respectively all P<0. 05], but there was no significant difference between T2DM with
+macrovascular injury group and T2DM without macrovascular injury group. Pearson linear analysis showed that CIMT
+was positively correlated with TLR4, IL-6, hs-CRP, MCP-1 levels, age, fasting blood glucose, HBA1C, and
+homeostasis model assessment for insulin resistance (HOMA-IR) ( r = 0. 540, 0. 244, 0. 271, 0. 329, 0. 381,
+0. 490, 0. 471, 0. 410, respectively, all P < 0. 05), while negatively correlated with the level of high density
+lipoprotein-cholesterol (HDL-C)( r=-0. 323, P<0. 05) . TLR4 level was also positively correlated with the level of
+CIMT, HOMA-IR, IL-6, hs-CRP, and MCP-1 ( r = 0. 540, 0. 428, 0. 214, 0. 242, 0. 385, respectively, all P<
+0. 05), while negatively correlated with the level of HDL-C ( r = -0. 384, P<0. 05) . Multivariate linear stepwise
+regression analysis showed that TLR4, age, and fasting blood glucose are the independent risk factors for CIMT in
+patients with type 2 diabetes (R2 =0. 292, 0. 423, 0. 492, all P<0. 05) . Logistic regression analysis showed that the
+increased TLR4 level was a risk factor of carotid artery plaque formation (OR = 1. 345, 95% CI 1. 10-1. 64, P<
+0. 05) . Conclusions The increased TLR4 level is a risk factor for the plaque formation in carotid, and that the TLR4
+inflammatory signaling pathway seems to be involved in the pathogenesis of macrovascular injury in T2DM.
+[Key words]  Diabetes mellitus, type 2; Toll-like receptor 4; Atherosclerosis; Carotid intima-media thickness
+(Chin J Endocrinol Metab, 2015, 31: 1017-1021)
+大血管并发症是 2 型糖尿病患者致死、致残的
+主 要 原 因, 其 基 本 病 理 机 制 为 动 脉 粥 样 硬 化
+(atherosclerosis)。 目前动脉粥样硬化和 2 型糖尿病均
+被认为是一种慢性低度炎症性疾病。 Toll 样受体 4
+(toll like receptor 4, TLR4)是介导固有免疫和炎症反
+应的关键因子,与动脉粥样硬化、脂肪细胞炎症反应
+及胰岛素抵抗的发生有密切关系[1-3]。 已有研究表明
+颈动脉内膜中层厚度( carotid intima-media thickness,
+CIMT)增厚可以作为早期动脉粥样硬化的判定标准。
+但 2 型糖尿病患者 CIMT 与 TLR4 之间的关系目前尚
+不明确。 本研究通过测定 2 型糖尿病外周血单个核细
+胞(peripheral blood monocyte cells, PBMCs)TLR4 的表
+达及其下游炎症因子的水平和 CIMT,来探讨 2 型糖尿
+病 TLR4 信号与 CIMT 之间的关系。
+对象和方法
+一、 对象
+选取 2014 年 3 月至 6 月在甘肃省人民医院内分
+泌科住院的 2 型糖尿病患者 66 例,年龄在 30 ~ 70 岁
+之间,并详细记录临床资料。 2 型糖尿病无大血管病
+变组(CIMT<0. 9 mm)20 例(男性 10 例,女性 10 例),
+其中合并糖尿病肾病者 7 例,糖尿病视网膜病变者 2
+例,糖尿病周围神经病变者 5 例;2 型糖尿病合并大血
+管病变组(CIMT≥0. 9 mm 或有颈动脉斑块)46 例(男
+性 32 例,女性 14 例),其中有斑块者 27 例,伴颈内动
+脉狭窄者 1 例,冠心病 6 例,脑梗塞 4 例,合并糖尿病
+肾病者 10 例,糖尿病视网膜病变者 1 例,糖尿病周围
+神经病变者 18 例。 糖尿病诊断标准按照世界卫生组
+织(WHO)1999 年诊断及分类标准[4]。 排除糖尿病急
+性并发症、严重肝肾功能不全、肿瘤及感染性疾病等。
+所有患者均未使用过噻唑烷二酮类降糖药、调脂药、血
+管紧张素转化酶抑制剂、阿司匹林、维生素 D 和抗氧
+化剂等药物。 性别、年龄匹配的健康对照组 40 名(男
+性 22 名,女性 18 名),来自同期本院体检中心体检人
+群,均经 75 g 口服葡萄糖耐量试验除外糖尿病,经颈
+动脉超声除外 CIMT 增厚及有斑块者。 本研究得到甘
+肃省人民医院伦理委员会批准,所有参与者均签署知
+情同意书。
+二、 方法
+1. 一般资料采集:记录所有研究对象性别、年龄、
+糖尿病病程(年)及吸烟史等。 并测量血压、身高、体
+重及计算体重指数[ =体重 /身高2(kg / m2)]。
+2. 所有研究对象均于清晨空腹采血化验空腹血
+糖、胰岛素、肝肾功能、总胆固醇、三酰甘油、高密度脂
+蛋白胆固醇(HDL-C)、低密度脂蛋白胆固醇(LDL-C)和
+HBA1C,采用稳态模型法计算胰岛素抵抗指数[HOMA-
+IR=胰岛素(μU / L)×空腹血糖(mmol / L) / 22. 5]。
+3. 血清炎症因子的测定:所有研究对象于清晨空
+腹抽取静脉血 5 ml,立即离心分离血清并分装冻存于
+-80℃。待标本收齐后,采用电化学发光法测定白细胞
+介素(IL)-6(德国罗氏公司),免疫比浊法测定超敏 C
+反应蛋白( hs-CRP,美国贝克曼库尔特公司),ELISA
+法检测单核细胞趋化蛋白 1 (MCP-1,美国 R&D 公
+司)。 所有标本同批测定并严格按照试剂盒说明书进
+行操作。
+4. 流式细胞术检测 PBMCs TLR4 表达:取 100 滋l
+乙二胺四乙酸二钠盐 ( ethylenediaminetetraacetic acid
+disodium salt, EDTA-K2)抗凝全血,加入 5 滋l 藻红蛋白
+(phycoerythrin, PE)标记鼠抗人 TLR4 单抗、10 滋l 异硫
+氰酸荧光素(fluorescein isothiocyanate, FITC)标记鼠抗
+人 CD14 单抗,混匀后室温避光孵育 30 min。 然后加
+入 500 滋l 红细胞裂解液混匀后避光孵育 10 min。 磷酸
+缓冲盐溶液(phosphate buffer saline, PBS)洗 2 次,细胞
+沉淀用 500 滋l PBS 重悬后上机检测 TLR4 表达水平。
+同时设不加标记抗体的阴性对照管。 用 FACS Calibur
+流式细胞仪每管检测 10 000 个细胞,CellQues 软件获
+取及分析数据(美国 BD 公司)。 以 CD14 及 TLR4 抗
+体染色双阳性细胞百分率记录结果。
+5. 颈动脉超声测定 CIMT:采用 ACUSON X300 型
+彩色多普勒超声诊断仪(德国西门子公司)检测,探头
+频率 7. 5 ~ 12 mHz。 CIMT 的检测方法为:受检者去枕
+仰卧,颈后仰,头稍转向对侧,从锁骨上窝起逐渐上移,
+显示左右侧颅外颈总动脉、分叉部、颈内动脉。 CIMT
+定义为腔内膜交界面至外膜上层之间的距离,以后壁
+值为标准,取六点平均值为 CIMT。 CIMT≥0. 9 mm 为
+内膜增厚标准,作为大血管病变的标志,CIMT≥1. 2
+mm 且局部向腔内突出者定义为斑块[5]。 测定由甘肃
+省人民医院超声科 2 位专业临床医师完成。
+三、 统计学处理
+采用 SPSS 19. 0 统计软件处理实验数据。 正态分
+布资料以 x-± s 表示,非正态分布资料以中位数表示,计
+量资料多组均数比较采用单因素方差分析,组间两两
+比较 LSD-t 和 Dunnett-t 检验,计数资料采用 字2 检验,
+不同指标之间的相关性采用 Pearson 相关分析,多因
+素分析采用多元线性逐步回归模型进行分析,颈动脉
+斑块危险因素分析采用 logistic 回归分析。 P<0. 05 为
+差异有统计学意义。
+结    果
+一、 各组一般资料的比较
+各组性别组成、年龄、收缩压、舒张压均无明显差
+异(P>0. 05); 2 组 2 型糖尿病组体重指数均高于对照
+组[(24. 00 ± 2. 26,24. 51 ± 2. 57 对 22. 80 ± 1. 93)
+kg / m2,均 P<0. 05];3 组吸烟例数的比较差异有统计
+学意义(P<0. 05,表 1)。
+二、 各组生化指标、TLR4 及炎症因子的检测结果
+各组 HBA1C、 HOMA-IR、 空腹血糖、 三酰甘油、
+HDL-C 与对照组间比较差异有统计学意义 (均 P <
+0. 05)。 2 型糖尿病合并大血管病变组 LDL-C 与对照
+组间比较差异有统计学意义(P<0. 05),2 型糖尿病无
+大血管病变组 LDL-C 与对照组间比较无明显差异(P>
+0. 05)。 2 型糖尿病合并大血管病变组和无大血管病
+变组 TLR4 表达水平均显著高于对照组 [(18. 60 ±
+4. 64,14. 92 ±3. 47 对 12. 80 ±2. 60),均 P<0. 05],且 2
+型糖尿病合并大血管病变组 TLR4 表达水平较无大血
+管病变组进一步升高,差异有统计学意义(P<0. 05)。
+2 型糖尿病合并大血管病变组 IL-6、hs-CRP 和 MCP-1
+水平较对照组均显著升高,差异有统计学意义[(6. 08
+±3. 16 对 4. 52 ± 2. 04) pg / ml,(2. 67 ± 2. 40 对 1. 53 ±
+1. 49) mg / dl,(307. 99 ± 113. 39 对 242. 50 ± 48. 04)
+pg / ml,均 P<0. 05];2 型糖尿病无大血管病变组 IL-6、
+hs-CRP 和 MCP-1 与对照组间比较无明显差异(均 P>
+表 1  3 组一般资料的比较(x-± s)
+Tab 1  Comparison of general information in the 3 groups(x-± s)
+组别
+Group
+例数
+n
+病程
+(年)
+Duration
+(year)
+年龄
+(岁)
+Age
+(year)
+性别
+(男性 / 女性)
+Gender
+(male / female)
+收缩压
+Systolic blood
+pressure
+(mmHg)
+舒张压
+Diastolic blood
+pressure
+(mmHg)
+体重指数
+Body mass
+index
+(kg / m2)
+吸烟
+Smoking
+n(% )
+CON 40 - 50. 3 ± 10. 2 22 / 18 121 ± 11 76 ± 6  22. 80 ± 1. 93 6(15. 0% )
+A   20 4. 24 ± 4. 21 52. 2 ± 5. 6 10 / 10 125 ± 20 79 ± 11 24. 51 ± 2. 57a 7(35. 0% )
+B   46 4. 13 ± 4. 08 54. 0 ± 8. 4 32 / 14 128 ± 19 78 ± 10 24. 00 ± 2. 26a 21(45. 7% )
+注:CON:对照组 Control group;A:2 型糖尿病无大血管病变组 Type 2 diabetes mellitus without macrovascular injury group;B:2 型糖尿病合并大血管病
+变组 Type 2 diabetes mellitus with macrovascular injury group; 1 mmHg=0. 133 kPa; vs CON, aP<0. 05
+表 2  3 组生化指标、TLR4 及炎症因子的检测结果的比较(x-± s)
+Tab 2  Comparison of biochemical indexes, TLR4, and inflammatory factors in the 3 groups(x-± s)
+组别
+Group
+例数
+n
+CIMT
+(mm)
+斑块
+Plaque
+n(% )
+HBA1C
+(% ) HOMA-IR
+空腹血糖
+Fasting blood glucose
+(mmol / L)
+三酰甘油
+Triglyceride
+(mmol / L)
+CON 40 0. 67 ± 0. 09 0 4. 91 ± 0. 46 1. 07 ± 0. 51 4. 96 ± 0. 45 1. 13 ± 0. 39
+A   20 0. 73 ± 0. 09 0 8. 69 ± 2. 69a 2. 73 ± 1. 49a 9. 35 ± 3. 67a 2. 21 ± 1. 61a
+B   46 0. 93 ± 0. 12ab 27(58. 7% ) 9. 29 ± 2. 78a 2. 74 ± 1. 68a 9. 97 ± 2. 92a 2. 29 ± 1. 54a
+组别
+Group
+例数
+n
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L) TLR4
+IL-6
+(pg / ml)
+hs-CRP
+(mg / dl)
+MCP-1
+(pg / ml)
+CON 40 1. 35 ± 0. 22 2. 62 ± 0. 50 12. 80 ± 2. 60 4. 52 ± 2. 04 1. 53 ± 1. 49 242. 50 ± 48. 04
+A   20 1. 15 ± 0. 19a 2. 95 ± 0. 60 14. 92 ± 3. 47a 5. 31 ± 2. 93 2. 02 ± 1. 92 301. 21 ± 92. 17
+B   46 1. 11 ± 0. 22a 3. 01 ± 0. 71b 18. 60 ± 4. 64ab 6. 08 ± 3. 16a 2. 67 ± 2. 40a 307. 99 ± 113. 39a
+注:CON:对照组 Control group;A:2 型糖尿病无大血管病变组 Type 2 diabetes mellitus without macrovascular injury group;B:2 型糖尿病合并大血管病
+变组 Type 2 diabetes mellitus with macrovascular injury group; CIMT:颈动脉内膜中层厚度 Carotid intima-media thickness;HOMA-IR:稳态模型评估的胰岛
+素抵抗指数 Homeostasis model assessment for insulin resistance;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆
+固醇 Low density lipoprotein-cholesterol;TLR4: Toll 样受体 4 Toll-like receptor 4;IL-6:白细胞介素 6 Interleukin 6;hs-CRP:超敏 C 反应蛋白 High-sensitivity
+C-reactive protein;MCP-1:单核细胞趋化蛋白 1 Monocyte chemotactic protein-1; vs CON, aP<0. 05; vs A, bP<0. 05
+0. 05,表 2)。
+三、 相关及回归分析
+Pearson 直线相关分析表明:CIMT 与 TLR4、IL-6、
+hs-CRP、MCP-1、空腹血糖、HBA1C、HOMA-IR 及年龄呈
+正相关( r= 0. 540、0. 244、0. 271、0. 329、0. 381、0. 490、
+0. 471、0. 410,均 P<0. 05),与 HDL-C 呈负相关( r =
+-0. 323,P < 0. 05)。 TLR4 与 CIMT、HOMA-IR、 IL-6、
+hs-CRP 和 MCP-1、空腹血糖和 HBA1C 呈正相关 ( r =
+0. 540、0. 428、0. 214、0. 242、0. 385、0. 445、0. 367,均
+P<0. 05),与 HDL-C 呈负相关( r= -0. 384,P<0. 05)。
+以 CIMT 为应变量,TLR4、IL-6、hs-CRP、MCP-1、空
+腹血糖、HBA1C、HOMA-IR、血脂及年龄等作为自变量
+进行多元线性逐步回归分析,在调整了性别、体重指
+数、吸烟及病程等因素后,结果显示 TLR4(R2 = 0. 292,
+P<0. 05)、年龄(R2 = 0. 423,P<0. 05)、空腹血糖(R2 =
+0. 492,P<0. 05)是 CIMT 的独立影响因素。
+四、 颈动脉斑块危险因素的分析
+在校正了年龄、性别、病程、吸烟、体重指数、IL-6、
+hs-CRP、MCP-1、空腹血糖、HBA1C、HOMA-IR 和血脂水
+平等因素后,Logistic 逐步回归结果显示 TLR4 表达水
+平增加(OR = 1. 345,95% CI 1. 10 ~ 1. 64, P = 0. 004)
+是颈动脉斑块形成的独立危险因素。
+讨    论
+TLR4 是一种模式识别受体,通过识别、结合病原
+相关分子模式并经过一系列信号传递诱发其下游炎症
+因子和趋化因子的释放,在天然免疫防御和许多慢性
+炎症性疾病的病理发生过程中发挥重要作用。
+2 型糖尿病大血管病变的基本表现是动脉粥样硬
+化,往往在颈动脉处最早出现,炎症是其发病的重要机
+制。 近年来的研究发现,TLR4 在动脉粥样硬化斑块中
+高表达,并且介导了氧化低密度脂蛋白( oxidized low
+density lipoprotein, ox-LDL)刺激单核细胞分化为巨噬
+细胞和形成泡沫细胞的过程,而阻断 TLR4 基因表达
+则能防止巨噬细胞内脂质沉积、泡沫细胞的形成以及
+斑块内炎症因子的表达[6-8]。 TLR4 通路还介导了游离
+脂肪酸和 ox-LDL 诱导的血管平滑肌细胞 IL-6、IL-8 和
+MCP-1 等多种炎症因子的表达[9-11]。 以上研究提示
+TLR4 通路介导的炎症反应在糖尿病大血管病变的病
+理发生中具有重要作用。
+PBMCs 是 TLR4 作用的主要靶细胞之一,其激活、
+募集及侵入动脉内膜形成泡沫细胞,在动脉粥样硬化
+形成早期起重要作用。 Dasu 等[12] 发现新诊断的 2 型
+糖尿病患者 PBMCs TLR4 及其下游信号分子 MyD88、
+IRAK-1 和 NF-kBp65 表达水平均显著高于正常对照
+组。 本研究中糖尿病患者 PBMCs TLR4 的表达高于正
+常对照组,且 2 型糖尿病合并大血管病变组 TLR4 的
+表达较无大血管病变组进一步升高。 相关和多元回归
+分析表明,TLR4 与 CIMT 存在显著正相关,并且 TLR4
+是 CIMT 的独立影响因素,以上研究结果提示 2 型糖
+尿病患者 PBMCs TLR4 信号被激活,很可能参与了 2
+型糖尿病大血管病变的发生。 另外,有研究表明,
+TLR4 通路不仅参与动脉粥样硬化的形成,而且与动脉
+粥样硬化斑块不稳定性有关[3,6-8]。 本研究中 2 型糖
+尿病伴大血管病变组 58. 7%患者检出有斑块,Logistic
+回归分析显示 TLR4 水平升高是颈动脉斑块形成的危
+险因素,此结果与上述研究结果一致。
+另外,IL-6、MCP-1 和 hs-CRP 不仅是联系全身免
+疫反应和局部血管损伤的主要炎症标志物,也是 TLR4
+信号下游重要的炎症因子。 本研究中 2 型糖尿病伴大
+血管病变组血清 IL-6、MCP-1 和 hs-CRP 水平均显著高
+于对照组,进一步提示 TLR4 信号通路介导的炎症反
+应参与了 2 型糖尿病大血管病变的发生和发展。 但 2
+型糖尿病无大血管病变组 IL-6、hs-CRP 和 MCP-1 水平
+与对照组比较,仅显示升高趋势,此结果可能与本研究
+中样本量相对较少及 2 型糖尿病无大血管病变组患者
+动脉粥样硬化病变的程度相对较轻有关。 最近,Lu
+等[13]采用 TLR4 抑制剂处理 ApoE 敲除的糖尿病小鼠
+(Apoe- / -),可显著减少小鼠早期动脉粥样硬化的形
+成,提示通过阻断 TLR4 信号可能预防和减少糖尿病
+大血管的发生和发展。
+本研究的不足之处是样本量偏少,而且仅为横断
+面观察,因此研究结果还需较大样本的研究来进一步
+证实。 但本研究为今后深入研究以 TLR4 为抗炎靶标
+来防治 2 型糖尿病及大血管并发症提供了理论依据和
+新的思路。

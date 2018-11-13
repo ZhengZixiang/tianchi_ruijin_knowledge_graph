@@ -1,0 +1,265 @@
+T1	Test 3366 3371	HDL-C
+T2	Test 5085 5090	HDL-C
+T3	Test 5405 5410	HDL-C
+T4	Test 3384 3389	LDL-C
+T5	Test 5102 5107	LDL-C
+T6	Test 5458 5463	LDL-C
+T7	Test 3340 3344	空腹血糖
+T8	Test 3446 3450	空腹血糖
+T9	Test 3484 3485;3486 3489	空 腹血糖
+T10	Test 4726 4730	空腹血糖
+T11	Test 3356 3365	高密度脂蛋白胆固醇
+T12	Test 5411 5420	高密度脂蛋白胆固醇
+T13	Test 3373 3374;3375 3383	低 密度脂蛋白胆固醇
+T14	Test 5464 5473	低密度脂蛋白胆固醇
+T15	Test 3345 3346;3347 3350	总 胆固醇
+T16	Test 5021 5025	总胆固醇
+T17	Test 3626 3630	体重指数
+T18	Test 3660 3664	体重指数
+T19	Test 3675 3679	体重指数
+T20	Test 3686 3688;3689 3691	体重 指数
+T21	Test 4596 4600	体重指数
+T22	Test 7995 7999	体重指数
+T23	Test 9359 9363	体重指数
+T24	Test 3544 3547	收缩压
+T25	Test 4655 4658	收缩压
+T26	Test 3580 3583	舒张压
+T27	Test 4221 4224	舒张压
+T28	Test 4690 4693	舒张压
+T29	Test 3217 3219	腰围
+T30	Test 3733 3735	腰围
+T31	Test 3745 3747	腰围
+T32	Test 4627 4629	腰围
+T33	Test 3220 3222	臀围
+T34	Disease 3720 3721;3722 3726	代 谢综合征
+T35	Disease 2569 2574	糖尿病前期
+T36	Test 3351 3355	甘油三酯
+T37	Test 5055 5059	甘油三酯
+T38	Disease 1843 1846	IFG
+T39	Disease 2234 2237	IFG
+T40	Test 3211 3213	身高
+T41	Test 3643 3645	身高
+T42	Test 3214 3216	体重
+T43	Test 3632 3634	体重
+T44	Test 7828 7830	体重
+T45	Disease 44 47	糖尿病
+T46	Disease 48 52;53 55	空腹血糖 受损
+T47	Disease 159 162	糖尿病
+T48	Disease 163 169	空腹血糖受损
+T49	Disease 173 176	糖尿病
+T50	Disease 268 271	糖尿病
+T51	Disease 413 419	空腹血糖受损
+T52	Disease 556 559	糖尿病
+T53	Disease 575 578;579 582	空腹血 糖受损
+T54	Disease 622 625	糖尿病
+T55	Disease 643 646	糖尿病
+T56	Disease 647 653	空腹血糖受损
+T57	Disease 668 671	糖尿病
+T58	Disease 698 701	糖尿病
+T59	Disease 703 709	空腹血糖受损
+T60	Disease 2508 2511	糖尿病
+T61	Disease 2531 2537	空腹血糖受损
+T62	Test 2544 2546	血糖
+T63	Disease 2549 2552	糖尿病
+T64	Disease 2624 2627	糖尿病
+T65	Disease 2684 2687	糖尿病
+T66	Disease 2701 2703;2704 2705	糖尿 病
+T67	Disease 2708 2714	心脑血管疾病
+T68	Disease 2715 2717	肿瘤
+T69	Disease 2747 2750	糖尿病
+T70	Disease 2751 2752;2753 2758	空 腹血糖受损
+T71	Disease 2781 2784	糖尿病
+T72	Disease 2816 2819	糖尿病
+T73	Disease 2820 2824;2825 2827	空腹血糖 受损
+T74	Disease 2853 2856	糖尿病
+T75	Disease 2998 3001	糖尿病
+T76	Test 3223 3225	血压
+T77	Disease 3410 3413	糖尿病
+T78	Disease 3434 3437	糖尿病
+T79	Disease 3471 3474	糖尿病
+T80	Disease 3515 3518	高血压
+T81	Drug 3600 3603	降压药
+T82	Test 3603 3605	血压
+T83	Disease 3611 3617	继发性高血压
+T84	Disease 3702 3707	中心性肥胖
+T85	Disease 3759 3763	血脂异常
+T86	Disease 3778 3781;3782 3783	血脂异 常
+T87	Disease 4273 4276	糖尿病
+T88	Disease 4278 4284	空腹血糖受损
+T89	Disease 4291 4294	糖尿病
+T90	Disease 4295 4301	空腹血糖受损
+T91	Disease 4309 4311;4312 4313	糖尿 病
+T92	Disease 4345 4351	空腹血糖受损
+T93	Disease 4385 4388	糖尿病
+T94	Disease 4389 4395	空腹血糖受损
+T95	Disease 4418 4421	糖尿病
+T96	Disease 4423 4429	空腹血糖受损
+T97	Disease 5144 5148	血脂异常
+T98	Disease 7064 7067	糖尿病
+T99	Disease 7081 7087	空腹血糖受损
+T100	Disease 7114 7117	糖尿病
+T101	Disease 7175 7181	空腹血糖受损
+T102	Disease 7241 7244	糖尿病
+T103	Disease 7245 7251	空腹血糖受损
+T104	Disease 7261 7264	糖尿病
+T105	Disease 7265 7271	空腹血糖受损
+T106	Disease 7312 7314;7315 7316	糖尿 病
+T107	Disease 7370 7376	空腹血糖受损
+T108	Disease 7427 7430	糖尿病
+T109	Disease 7431 7433;7434 7438	空腹 血糖受损
+T110	Disease 7519 7522	糖尿病
+T111	Disease 7650 7656	空腹血糖受损
+T112	Disease 7753 7756	糖尿病
+T113	Disease 7812 7815	糖尿病
+T114	Disease 7819 7823	血脂异常
+T115	Disease 7824 7827	高血压
+T116	Disease 7834 7838	超重肥胖
+T117	Disease 7839 7844	中心性肥胖
+T118	Disease 7892 7895	糖尿病
+T119	Disease 7951 7954	糖尿病
+T120	Disease 7986 7989	高血压
+T121	Disease 7990 7994	血脂异常
+T122	Disease 8000 8004	超重肥胖
+T123	Disease 8005 8007	肥胖
+T124	Disease 8008 8011;8012 8014	中心性 肥胖
+T125	Disease 8053 8056	糖尿病
+T126	Disease 8111 8114	糖尿病
+T127	Disease 8146 8149	糖尿病
+T128	Disease 8191 8194	糖尿病
+T129	Disease 8195 8196;8197 8202	空 腹血糖受损
+T130	Disease 8232 8235	糖尿病
+T131	Disease 8236 8242	空腹血糖受损
+T132	Disease 8316 8319	糖尿病
+T133	Disease 8397 8400	糖尿病
+T134	Disease 8401 8407	空腹血糖受损
+T135	Disease 8477 8480	糖尿病
+T136	Disease 8577 8580	糖尿病
+T137	Disease 8582 8588	空腹血糖受损
+T138	Disease 8656 8658;8659 8660	糖尿 病
+T139	Disease 8661 8667	空腹血糖受损
+T140	Disease 8686 8689	糖尿病
+T141	Disease 8690 8696	空腹血糖受损
+T142	Disease 8739 8740;8741 8743	糖 尿病
+T143	Disease 8760 8763	糖尿病
+T144	Disease 8776 8782	空腹血糖受损
+T145	Disease 8794 8800	空腹血糖受损
+T146	Disease 8804 8807	糖尿病
+T147	Disease 8820 8823	糖尿病
+T148	Disease 8827 8830	糖尿病
+T149	Disease 8848 8851	糖尿病
+T150	Disease 8889 8892	糖尿病
+T151	Disease 8984 8988;8989 8990	脂代谢紊 乱
+T152	Disease 9007 9010	糖尿病
+T153	Disease 9044 9047	糖尿病
+T154	Disease 9048 9054	空腹血糖受损
+T155	Disease 9075 9078	糖尿病
+T156	Disease 9138 9141	糖尿病
+T157	Disease 9150 9153	糖尿病
+T158	Disease 9178 9181	糖尿病
+T159	Disease 9202 9205	糖尿病
+T160	Disease 9206 9212	空腹血糖受损
+T161	Disease 9245 9248	糖尿病
+T162	Disease 9285 9288	糖尿病
+T163	Disease 9314 9317	糖尿病
+T164	Disease 9338 9341	糖尿病
+T165	Disease 9367 9369;9370 9372	腹型 肥胖
+T166	Disease 9373 9376	糖尿病
+T167	Disease 9384 9387	糖尿病
+T168	Disease 9397 9400	糖尿病
+T169	Disease 9422 9423;9424 9426	高 血压
+T170	Disease 9428 9431	糖尿病
+T171	Disease 9436 9439	高血压
+T172	Disease 9475 9478	糖尿病
+T173	Disease 9481 9482;9483 9486	血 脂异常
+T174	Disease 9584 9587	糖尿病
+T175	Disease 9632 9636	血脂异常
+T176	Disease 9643 9646	高血压
+T177	Disease 9651 9653;9654 9655	高血 脂
+T178	Disease 9661 9667	空腹血糖受损
+T179	Disease 9676 9679	糖尿病
+T180	Test 9692 9694	血压
+T181	Test 9695 9697	血脂
+T182	Test 9698 9700	血糖
+T183	Disease 9722 9728	心血管并发症
+T184	Disease 9745 9748	糖尿病
+T185	Disease 9757 9760	糖尿病
+T186	Disease 9764 9767	糖尿病
+T187	Disease 9773 9776	糖尿病
+T188	Disease 9805 9808	糖尿病
+T189	Disease 9817 9820	糖尿病
+T190	Disease 9827 9830	糖尿病
+T191	Disease 9847 9850	高血压
+T192	Disease 9851 9854	糖尿病
+T193	Disease 9855 9858	高血脂
+T194	Disease 9882 9885	糖尿病
+T195	Disease 9901 9904	糖尿病
+T196	Test 245 248	实验室
+T197	Test 240 244	体格检查
+T198	Test 3272 3277	血生化检测
+T199	Test 3336 3339	化仪检
+T200	Disease 3530 3533	高血压
+T201	Disease 5562 5565	糖尿病
+T202	Disease 5752 5755	糖尿病
+T203	Disease 5811 5814	糖尿病
+T204	Disease 6853 6856	糖尿病
+T205	Disease 6959 6961;6962 6963	糖尿 病
+T206	Test 8957 8962	饱和脂肪酸
+T207	Test 8966 8968	脂肪
+T208	Test 9002 9005	糖代谢
+T209	Test 9500 9502	血脂
+T210	Test 9622 9624	脂肪
+T211	Disease 9861 9864	慢性病
+T212	Reason 599 602	高年龄
+T213	Test_Value 3450 3455;3456 3464	≥7. 0 mmol / L
+T214	Test_Value 3490 3510	6. 1 ~ 6. 9 mmol / L
+T215	Test_Value 3547 3556	≥140 mmHg
+T216	Test_Value 3583 3591	≥90 mmHg
+T217	Disease 3623 3625	肥胖
+T218	Test_Value 3664 3667	<24
+T219	Test_Value 3679 3682	<28
+T220	Test_Value 3672 3675	24≤
+T221	Test_Value 3691 3694	≥28
+T222	Disease 3683 3685	超重
+T223	Disease 3695 3697	肥胖
+T224	Test_Value 3735 3741	≥90 cm
+T225	Test_Value 3747 3748;3749 3754	≥ 85 cm
+T226	Reason 7913 7916	高年龄
+T227	Reason 7946 7948	饮酒
+T228	Reason 8075 8078	高年龄
+T229	Reason 8080 8082	未婚
+T230	Reason 8104 8106	吸烟
+T231	Reason 9553 9556	高年龄
+T232	Reason 9832 9834	吸烟
+T233	Reason 9836 9838	饮酒
+T234	Reason 9872 9874	饮酒
+T235	Reason 9029 9035	特殊饮食结构
+T236	Disease 2785 2791	空腹血糖受损
+T237	Disease 3477 3483	空腹血糖受损
+T238	Reason 604 607	高血压
+T239	Reason 608 612	血脂异常
+T240	Reason 613 615	肥胖
+T241	Reason 616 621	中心性肥胖
+T242	Symptom 2558 2561	高血糖
+T243	Disease 2594 2597	糖尿病
+T244	Disease 5566 5572	空腹血糖受损
+T245	Disease 5774 5780	空腹血糖受损
+T246	Disease 5833 5839	空腹血糖受损
+T247	Disease 6857 6863	空腹血糖受损
+T248	Disease 6966 6972	空腹血糖受损
+T249	Reason 7918 7924	糖尿病家族史
+T250	Reason 7925 7928	高血压
+T251	Reason 7929 7933	血脂异常
+T252	Reason 7934 7937;7938 7939	超重肥 胖
+T253	Reason 7940 7945	中心性肥胖
+T254	Reason 8083 8086	高血压
+T255	Reason 8087 8090;8091 8092	血脂异 常
+T256	Reason 8093 8097	超重肥胖
+T257	Reason 8098 8103	中心性肥胖
+T258	Disease 8481 8487	空腹血糖受损
+T259	Disease 8865 8871	空腹血糖受损
+T260	Disease 8995 9000	脂代谢紊乱
+T261	Reason 9392 9394;9395 9396	高血 压
+T262	Reason 9558 9561	高血压
+T263	Reason 9562 9566	血脂异常
+T264	Reason 9567 9571	超重肥胖
+T265	Reason 9572 9577	中心性肥胖

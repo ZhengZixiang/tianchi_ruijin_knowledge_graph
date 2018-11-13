@@ -1,0 +1,290 @@
+基础研究
+基金项目:国家自然科学基金项目(81170322);上海市自然科学基金项目(11ZR1405300);上海市人才发展资金培养
+计划(2012052)
+王宣春),神经内科(董强)
+Hcdc14A 在体外糖尿病环境下人脑血管内皮
+细胞损伤中的作用
+周厚广  管竹飞  胡仁明  董强  张玉  黄延焱  张烁  王宣春
+[摘要]   目的  观察体外糖尿病环境如高糖、高游离脂肪酸(FFA)和低氧刺激对人脑血管内皮细胞
+(HBVEC)人类细胞分裂周期蛋白 14A(Hcdc14A)和相关周期蛋白表达及细胞增殖、凋亡的影响,进而探讨
+糖尿病诱发脑血管内皮细胞损伤的新机制。 方法 分别采用不同条件的高糖、FFA 和低氧刺激 HBVEC,
+RT-PCR 检测 Hcdc14A 的 mRNA 表达,Western 印迹法检测 Hcdc14A 及相关周期蛋白周期素 B、周期素 D、
+周期素 E 和 p53 的蛋白表达,XXT 法检测细胞增殖率,流式细胞仪测定细胞凋亡率。 结果 不同浓度葡萄
+糖(10、15 和 25 mmol / L)和 FFA(50、100 及 200 μmol / L)分别孵育 HBVEC 72 h,或以 25 mmol / L 葡萄糖、200
+μmol / L FFA 分别刺激 24、48 和 72 h,均呈剂量和时间依赖性地降低 Hcdc14A 的 mRNA 和蛋白表达(均 P<
+0. 05),同时下调周期素 B、周期素 D 和周期素 E 的蛋白表达(均 P<0. 05),上调 p53 蛋白表达(均 P<
+0. 05),低氧刺激也显示相似结果。 联合刺激(葡萄糖 25 mmol / L+FFA 200 μmol / L)48 h 后,再进行低氧刺
+激 24 h 后,与正常对照组、高糖组、高 FFA 组及低氧组相比,高糖+高 FFA+低氧联合刺激组显著下调
+HBVEC 的 Hcdc14A mRNA 和蛋白表达(均 P<0. 05),同时下调周期素 B、周期素 D 和周期素 E 的蛋白水平
+(均 P<0. 05),并上调 p53 蛋白水平(均 P<0. 05)。 与正常对照组、高糖组、高 FFA 组及低氧组相比,高糖+
+高 FFA+低氧联合刺激组抑制 HBVEC 增殖的作用最为明显(40. 7% ±12. 1%对 100. 0% ±10. 2% 、67. 5% ±
+12. 1% 、55. 3% ±11. 2% 和 64. 4% ± 11. 3% ,均 P<0. 05),并使细胞凋亡率明显增加(22. 5% ± 1. 77% 对
+5. 7% ±0. 83% 、9. 3% ±0. 95% 、16. 3% ±1. 69%和 16. 3% ±1. 15% ,均 P<0. 05)。 结论 细胞周期调控蛋白
+Hcdc14A 可能在糖尿病诱发脑血管内皮细胞损伤中起重要作用,可能是参与细胞损伤的主要信号通路。
+[关键词]   人类细胞分裂周期蛋白 14A; 人脑血管内皮细胞; 高糖; 游离脂肪酸; 低氧
+Role of Hcdc14A in the in vitro diabetes environment-induced human brain vascular endothelial cell injury
+Zhou Houguang *, Guan Zhufei, Hu Renming, Dong Qiang, Zhang Yu, Huang Yanyan, Zhang Shuo, Wang
+Xuanchun. *Department of Geriatrics Neurology, Huashan Hospital, Fudan University, Shanghai 200030, China
+[Abstract]  Objective  To investigate the effects of the in vitro diabetes environment such as high glucose,
+high free fatty acid (FFA), and hypoxia on human cell division cycle protein 14A (Hcdc14A) and related cyclins
+expressions, cell proliferation and apoptosis in human brain vascular endothelial cells(HBVEC), and to explore the
+new mechanism of HBVEC injury induced by diabetes. Methods HBVECs were stimulated respectively with high
+glucose, high FFA, and hypoxia under different conditions. The mRNA and protein levels of Hcdc14A were detected
+by RT-PCR and Western blot. At the same time, the protein levels of cyclin B, cyclin D, cyclin E, and p53 were
+detected by Western blot. The cell proliferation was tested by XTT. The cell apoptosis was detected by AnnexinV /
+PI. Results After HBVECs were incubated with various concentrations of glucose(10,15, and 25 mmol / L) and FFA
+(50,100, and 200 μmol / L) or with 25 mmol / L glucose and 200 μmol / L FFA for 24, 48, and 72 h, respectively, the
+mRNA and protein expressions of Hcdc14A were dose- and time-dependently decreased, along with decreased cyclin
+B, cyclin D, and cyclin E protein expressions and increased p53 protein expression( all P<0. 05) . Treatment with
+hypoxia showed a similar result. Compared with control, high glucose, FFA, and hypoxia, the combined intervention
+of high glucose + FFA + hypoxia significantly downregulated the mRNA and protein ( all P < 0. 05) expressions of
+Hcdc14A,along with decreased cyclin B, cyclin D, and cyclin E protein expressions and increased p53 protein
+expression(all P<0. 05) . Compared with control, high glucose, FFA, and hypoxia, the combined intervention of
+above stimuli obviously reduced the proliferation of HBVECs (40. 7% ± 12. 1% vs 100. 0% ± 10. 2% , 67. 5% ±
+12. 1% , 55. 3% ±11. 2% , and 64. 4% ±11. 3% , all P<0. 05) and increased the cell apoptosis(22. 5% ±1. 77% vs
+5. 7% ±0. 83% , 9. 3% ± 0. 95% , 16. 3% ± 1. 69% , and 16. 3% ± 1. 15% , all P<0. 05) . Conclusion The
+findings suggest that Hcdc14A may play an important role in diabetes-induced injury of brain vascular endothelial
+cells, and seems to be one of the major signaling pathways involved in cell injury.
+[Key words]  Human cell division cycle protein 14A; Human brain vascular endothelial cells; High glucose;
+Free fatty acid; Hypoxia
+(Chin J Endocrinol Metab, 2015, 31: 59-65)
+2 型糖尿病导致的脑动脉硬化和脑血管并发症
+是糖尿病患者致死致残的首要因素[1]。 2 型糖尿病使
+脑梗死发病年龄较非糖尿病患者平均早 5 年左右[2]。
+糖尿病性脑血管病 ( diabetic cerebrovascular disease,
+DCD)的发病机制、病理生理、临床特点及治疗预后等
+均有别于非糖尿病性脑血管病。 目前 DCD 的发病机
+制尚不清楚,普遍认为可能是多种因素共同作用进而
+诱发脑血管病,而脑血管内皮细胞作为血管壁的第一
+道屏障,其损伤和功能紊乱无疑是导致 DCD 的最关键
+环节之一[3]。 由于 2 型糖尿病患者多伴发代谢紊乱,
+细胞外液不仅经常处于高糖和高脂状态,而且常伴有
+不同程度组织缺氧,导致脑血管内皮细胞极易受损。
+因此,血管内皮细胞受损可以作为动脉硬化和血管并
+发症发生与发展的最早期血管损伤标志[4-6]。 已有研
+究表明人类细胞分裂周期蛋白 14A ( human cell
+division cycle protein 14A, Hcdc14A)是各种细胞有丝
+分裂至关重要的调控因子,但尚不清楚 Hcdc14A 及相
+关周期蛋白在糖尿病脑血管病发病机制中的作用,因
+此本研究采用体外高糖、高游离脂肪酸(FFA)和低氧
+条件来模拟 2 型糖尿病患者体内环境,观察其对人脑
+血管内皮细胞(HBVEC)Hcdc14A 等周期蛋白表达及
+细胞增殖、凋亡的影响。
+材料和方法
+一、 材料
+HBVEC(美国 Sciencell 公司);胎牛血清(FBS,美
+国 GIBCO / BRL 公司),TPA(美国 Cell Signal 公司);牛
+血清白蛋白(BSA,美国 Sigma 公司);Tris 碱(上海生
+物工程技术公司);Hcdc14A 单克隆抗体(美国 Sigma
+公司);周期素 B、周期素 D、周期素 E,p53 抗体、HRP-
+兔二抗、HRP-鼠二抗(美国 Cell Signal 公司);RT-PCR
+试剂 ( TARARA 公司); Whatman 3MM 滤纸 (英国
+Maidstone England 公司);硝酸纤维素滤膜(美国 Gene
+公司);XTT 粉末(美国 Sigma 公司)。
+二、 方法
+1. 细胞分组与干预:T-75cm 的细胞培养瓶,每个
+瓶中加入 10 ml DPBS 后再加入 150 滋l 纤连蛋白溶液
+(2 μg / cm2)进行包被,24 h 后从液氮中将冻存的细胞
+(5×105)快速复苏进行培养传代,传至四代开始做实
+验。 无氧培养液的配制:ECM 中通入含 5% CO2、10%
+H2和 85% N2的混合气体饱和 30 min。 接种至 60 mm
+培养皿和 6 孔板的 HBVEC 以不同浓度葡萄糖(10、15
+和 25 mmol / L)、FFA(50、100 和 200 μmol / L)在无氧培
+养基孵育 72 h,或以 25 mmol / L 葡萄糖、200 μmol / L
+FFA 分别刺激 24、48 和 72 h,以及高糖+高 FFA 联合
+刺激 48 h 后,再低氧刺激 24 h,提取 60 mm 培养皿中
+的总蛋白和 6 孔板中总 RNA。
+2. RT-PCR 检测 Hcdc14A 的 mRNA 表达:将 6 孔
+板中的总 RNA 提取出来后测定总浓度及纯度后逆转
+录为 cDNA,设计 Hcdc14A 引物,上游引物为 5'-CAT-
+GAATTCATGGCAGCGGAGGGGGA-3' (含有 EcoRI 酶
+切位点),下游引物为 5'-CGGGTCGACTCAGAAGGC-
+TTCCTTGGCAC-3(含有 SaII 酶切位点),PCR 反应总
+体积 50 滋l:1 滋l cDNA、1 滋l 上游引物、1 滋l 下游引物、5
+滋l 10×Hotstar 缓冲液、2. 5 滋l dNTP、39 滋l ddH2O。 反应
+条件第 1 步 94℃ 15 min;第 2 步 94℃ 30 s;第 3 步 48℃
+30 s;第 4 步 72℃ 2min,然后从第 2 步开始 3 个循环;
+第 5 步 94℃ 30 s;第 6 步 62℃ 30 s;第 7 步 72℃ 2 min,
+然后从第 6 步开始进行 27 个循环;第 8 步 72℃ 10
+min,16℃ 10 min 最后结束。 以 β-actin 为内参照,为排
+除 RNA 中基因组 DNA 污染,设立阴性对照,方法将总
+RNA 进行逆转录,直接 PCR,反应条件与基因相同。
+3. Western 印迹法检测相关周期蛋白表达:依照
+细胞密度不同,每板加入 60 ~ 100 滋l 的蛋白裂解液,
+细胞裂解后 13 000 转 / min 离心 5 min,BSA 法测定总
+蛋白浓度,将所提取的蛋白经 SDS-PAGE 凝胶电泳后,
+转至 PVGE 膜, 以 5% 脱脂奶粉室温封闭 1 h, 将
+Hcdc14A、周期素 B、周期素 D、周期素 E 和 p53 一抗分
+别加入到 BSA 封闭液中,一抗室温下缓慢 动约 2 h
+后置于 4℃过夜,再以辣根过氧化物酶共价耦联的二
+抗室温孵育 1. 5 h,以二氨基联苯胺显色液显色。 用
+LAS-3000 智能图像分析系统进行曝光,曝光时间可根
+据实验结果自主选择。
+4. XTT 法测定细胞增殖率:将 HBVEC 接种于 96
+孔培养板中,接种密度约 1 ×104 个细胞 /孔。 置于含
+5% CO2 的 37℃恒温培养箱中培养。 先分别用不同浓
+度葡萄糖和 FFA 刺激 72 h,筛选出目标刺激浓度后,
+再用目标刺激浓度孵育 24、48 和 72 h,筛选出目标刺
+激时间。 低氧组分别用正常培养液和无氧培养液在无
+氧培养箱中培养 12、24 和 48 h。 联合刺激组先用高糖
++高 FFA 联合刺激 48 h 后,再进行低氧刺激 24 h,用
+XTT 法检测细胞增殖情况。
+5. 流式细胞仪测定细胞凋亡率:将 HBVEC 细胞
+接种于 6 cm 培养皿中,根据刺激不同分为 5 组:正常
+对照组、高糖组(25 mmol / L,刺激 72 h)、高 FFA 组
+(200 μmol / L,刺激 72 h)、低氧组(低氧刺激 24 h)、联
+合刺激组(高糖+高 FFA 联合刺激 48 h 后,再进行低
+氧刺激 24 h )。 不同刺激结 束 后 用 流 式 细 胞 术
+AnnexinV / PI 双染法检测细胞凋亡率。
+三、 统计学处理
+各组实验数据用 x-± s 表示,所测数据均采用 SPSS
+12. 0 软件包进行分析,其中多组均数之间的比较采用
+单因素方差分析, 多样本中两组均数比较采用
+Boferroni 检验,两组之间差异采用 t 检验,P<0. 05 为
+差异有统计学意义。
+结    果
+一、 RT-PCR 检测 Hcdc14A 的 mRNA 表达结果
+RT-PCR 结果显示,HBVEC 细胞以 10、15 和 25
+mmol / L 葡萄糖刺激 72 h 或以 25 mmol / L 葡萄糖分别
+刺激 24、48 和 72 h,Hcdc14A 的 mRNA 表达呈剂量和
+时间依赖性下调(图 1A、B)。 同样,FFA 也呈剂量和
+时间依赖性地降低 Hcdc14A 的 mRNA 表达(图 1C、
+D)。 低氧刺激 24 h 后 Hcdc14A 的 mRNA 表达即明显
+下调,低氧刺激 48 h 结果与 24 h 差异并不明显(图
+2A)。 而联合刺激组 Hcdc14A 的 mRNA 表达水平较
+对照组、高糖组、高 FFA 组和低氧组均明显下调(0. 30
+±0. 08 对 1±0、0. 70±0. 13、0. 65±0. 11 和 0. 70±0. 10,
+均 P<0. 05,图 2B)。
+注:Glu;葡萄糖 Glucose;FFA:游离脂肪酸 Free fatty acid;与对照组比较 vs Control group,aP<0. 05
+图 1  葡萄糖和 FFA 剂量和时间依赖性地降低 Hcdc14A mRNA 表达
+Fig 1  Glucose and FFA dose- and time-dependently decrease Hcdc14A mRNA expression
+注:CON:对照 Control;HG:高糖 High glucose;FFA:游离脂肪酸 Free fatty acid;HO:缺氧 Hypoxia;CS: 高糖 + FFA +缺氧联合刺激 Combined
+stimulation of high glucose+FFA+hypoxia
+图 2  高糖、FFA 和低氧联合刺激对 Hcdc14A mRNA 表达的影响
+Fig 2  Effect of high glucose combined with FFA and hypoxia on Hcdc14A mRNA expression
+注:Glu:葡萄糖 Glucose;FFA:游离脂肪酸 Free fatty acid;与对照组比较 vs Control group,aP<0. 05
+图 3  葡萄糖和 FFA 剂量和时间依赖性地降低 Hcdc14A 蛋白表达
+Fig 3  Glucose and FFA dose- and time-dependently decrease Hcdc14A protein expression
+二、 Western 印迹法检测 Hcdc14A 及相关周期蛋
+白表达结果
+随着葡萄糖和 FFA 浓度的增高和刺激时间的延
+长 Hcdc14A 蛋白表达量均逐渐下调(图 3)。 低氧刺
+激 24 h Hcdc14A 蛋白表达即明显下调,低氧刺激 48 h
+与 24 h 的 Hcdc14A 蛋白表达差异并不明显。 但联合
+刺激组 Hcdc14A 蛋白表达水平较对照组、高糖组、高
+FFA 组和低氧组均明显下调(0. 30±0. 03 对 1±0、0. 80
+±0. 11、0. 70 ±0. 12 及 0. 70 ±0. 07,P<0. 05,图 4)。 联
+合刺激组周期素 B、周期素 D 和周期素 E 蛋白表达水
+平均较对照组、高糖组、高 FFA 组和低氧组明显下调
+(周期素 B 0. 30±0. 10 对 1±0、0. 80±0. 08、0. 65±0. 07
+和 0. 50 ± 0. 09;周期素 D 0. 25 ± 0. 09 对 1 ± 0、0. 90 ±
+0. 08、0. 75 ±0. 09 和 0. 80 ±0. 09;周期素 E 0. 25 ±0. 10
+对 1 ±0、0. 80 ±0. 09、0. 88 ±0. 07 和 0. 55 ±0. 09,均 P<
+0. 05),而 p53 则明显上调(3. 00 ±0. 09 对 1 ±0、1. 70 ±
+注:CON:对照 Control;HG:高糖 High glucose;FFA:游离脂肪酸 Free
+fatty acid;HO:缺氧 Hypoxia;CS: 高糖+FFA+缺氧联合刺激 Combined
+stimulation of high glucose+FFA+hypoxia
+图 4  高糖、FFA 和低氧联合刺激对 Hcdc14A 蛋白表达的影响
+Fig 4  Effect of high glucose combined with FFA and hypoxia on Hcdc14A
+protein expression
+0. 09、2. 00 ±0. 10 和 2. 30 ±0. 09,P<0. 05,图 5)。
+三、 XTT 测定细胞增殖率结果
+随着葡萄糖和 FFA 浓度的增高和刺激时间的延
+长细胞增殖能力逐渐下降。 同样,随着低氧时间的延
+长细胞增殖能力亦明显下降。 与正常对照组、高糖组、
+注:CON:对照 Control;HG:高糖 High glucose;FFA:游离脂肪酸 Free
+fatty acid;HO:缺氧 Hypoxia;CS: 高糖+FFA+缺氧联合刺激 Combined
+stimulation of high glucose+FFA+hypoxia;Cyclin:周期素
+图 5  高糖、FFA 和低氧联合刺激对周期素 B、周期素 D、周期素 E 和
+p53 蛋白表达的影响
+Fig 5 Effect of high glucose combined with FFA and hypoxia on cyclinB,
+cyclinD, cyclinE, and p53 protein expressions
+高 FFA 组及低氧组比较, 联合培养组的细胞增殖能力
+下降最为明显(40. 7% ± 12. 1% 对 100. 0% ± 10. 2% 、
+67. 5% ±12. 1% 、55. 3% ±11. 2% 、64. 4% ±11. 3% ,均
+注:略语同图 1 和图 2 The abbreviations are the same as Fig 1 and Fig 2;与对照组比较 vs Control group,aP<0. 05;与 HG 比较 vs HG,bP<0. 05; 与 FFA
+比较 vs FFA,cP<0. 05; 与 HO 比较 vs HO,dP<0. 05
+图 6  不同刺激对细胞增殖的影响
+Fig 6  The effects of different stimulations on cell proliferation
+注:略语同图 2 The abbreviations are the same as Fig 2;与 CON 比较 vs
+CON,aP<0. 05;与 HG 比较 vs HG,bP<0. 05; 与 FFA 比较 vs FFA,cP<
+0. 05; 与 HO 比较 vs HO,dP<0. 05
+图 7  不同刺激对细胞凋亡的影响
+Fig 7  Effects of different stimulations on cell apotosis
+P<0. 05,图 6)。
+四、 流式细胞仪测定细胞凋亡率结果
+与正常对照组、高糖组、高 FFA 组及低氧组比较,
+联合培养组的细胞凋亡率明显增加(22. 5% ± 1. 77%
+对 5. 7% ± 0. 83% 、9. 3% ± 0. 95% 、16. 3% ± 1. 69% 、
+16. 3% ±1. 15% ,均 P<0. 05,图 7)。
+讨    论
+DCD 是指由糖尿病所诱发的脑血管病,是在糖、
+脂肪和蛋白质等一系列营养物质代谢紊乱的基础上,
+所产生的颅内大血管和微血管病变。 约 20% ~ 40%
+的 2 型糖尿病患者会发生脑血管病,并成为糖尿病患
+者的主要死因[7]。 本研究发现,脂质代谢异常是糖尿
+病患者并发心脑血管疾病的重要原因,高浓度 FFA 可
+诱发人脑血管内皮细胞的氧化应激和细胞凋亡,提示
+高 FFA 可能是一个重要的脑血管病独立危险因素[8]。
+血管内皮细胞的损伤可能直接诱发糖尿病血管并发症
+的发生与发展。 本课题组近期研究发现,高 FFA 可能
+是通过抑制 Akt 信号通路,导致脑血管内皮细胞损伤,
+并可诱导细胞凋亡,提示 2 型糖尿病伴发高脂血症患
+者上述作用更加明显,更易并发脑血管病变[9]。 低氧
+是糖尿病患者体内继发于高血糖、高晚期糖基化终末
+产物、高脂血症、高粘血症以及血液流变学异常等多种
+危险因素基础上的一种常见病理状态,可引发一系列
+病理生理反应。 低氧时血管内皮细胞是血管组织中受
+到攻击的第一道靶器官[10-13]。 脑血管内皮细胞的结
+构及功能受损,往往是 DCD 的首发环节。 而体外模仿
+糖尿病环境如高糖、高 FFA 及低氧,对研究脑血管病
+变特别是脑缺血是非常有价值的,可直观地研究上述
+刺激对脑血管内皮细胞的影响[14]。 本研究所用的脑
+血管内皮细胞购自美国 Sciencell 公司,源于人脑原代
+HBVEC,经鉴定细胞特性与人类的脑血管内皮细胞完
+全相同,传 3 ~ 4 代后细胞仍然保持原有的细胞特征和
+活性,从而保证实验结果的科学性和可靠性。
+Cdc14 基因是是芽殖酵母细胞有丝分裂中期和胞
+质分裂期的一个必需基因。 Cdc14 可使一些重要的底
+物去磷酸化,导致细胞周期素依赖性激酶(CDK)失
+活,细胞最终得以退出有丝分裂[15]。 Cdc14 蛋白家族
+属于双特异性蛋白磷酸酶家族,是从酵母到真核细胞
+较为保守的蛋白,主要作用是拮抗 CDK 活性[16],而细
+胞周期由两者结合成周期素 / CDK 复合物来触发,该
+复合物是细胞周期的核心调控分子。 在人类中,有两
+种 Cdc14 同源物:Hcdc14A 和 Hcdc14B。 Hcdc14A 在
+人类不同组织中表达有所差异,在大脑、心脏及小肠及
+骨骼肌中呈高表达,其它组织中则为中低表达。
+鉴于 Hcdc14A 在细胞周期中的核心地位及其重
+要性,因此本研究的主要靶点是 Hcdc14A。 Hcdc14A
+与其他周期蛋白关系密切,细胞周期调节机制的核心
+是周期素 / CDK 表达与活性的调控。 周期素 B 主要参
+与调控 G2 期向 M 期的过渡,周期素 D 与周期素 E 可
+共同促进 G1 期向 S 期转换,而 p53 的作用是使细胞
+阻滞在 G1 / S 和 G2 / M 期,从而阻滞细胞周期并诱导
+细胞凋亡。 因此本研究同时观察了高糖、高 FFA 和低
+氧联合刺激对 HBVEC 中 Hcdc14A 及其他相关周期蛋
+白表达的影响。 结果提示,高糖、高 FFA 及低氧均可
+下调 Hcdc14A 表达,同时下调周期素 B、周期素 D 和
+周期素 E 表达,并上调 p53 表达,联合刺激上述作用
+最为明显。 本研究结果亦表明上述影响因子可导致
+HBVEC 增殖率明显下降,细胞凋亡显著增加,且联合
+刺激对 HBVEC 的影响最为显著。 Hcdc14A 低表达可
+抑制周期素 / CDK 表达与激活,从而导致细胞有丝分
+裂退出障碍,使得细胞不能及时有效退出有丝分裂,进
+而使其进入新一轮有丝分裂的周期延长甚至阻滞,抑
+制细胞周期进程,或者可能通过影响细胞周期进程或
+细胞内信号通路传递,最终导致细胞的增殖下降与凋
+亡增加。
+因此,根据上述结果本研究推测,Hcdc14A 可能是
+参与介导糖尿病性脑血管内皮损伤的一个新的重要信
+号通路,如能寻找到干预该通路的目标靶蛋白或药物,
+可能有助于预测或减缓 DCD 的发生和发展。 本实验
+虽在细胞水平上初步证实了 Hcdc14A 在 HBVEC 损伤
+中的重要作用,正在进行相关体内外实验研究,尚期待
+在动物实验中进一步证实其内在机制。 本研究仅仅观
+察了体外糖尿病环境对人脑血管内皮细胞的影响,而
+血管内皮仅是血管的第一道防线,当内皮细胞损伤后,
+高糖、高脂及低氧等糖尿病环境刺激对血管平滑肌细
+胞是否产生作用? 产生何种影响? 有无药物可以干预
+这一病理进程? 这些都有待进一步探索和研究。

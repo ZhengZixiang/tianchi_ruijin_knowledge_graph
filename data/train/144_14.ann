@@ -1,0 +1,270 @@
+T1	Disease 95 101	2 型糖尿病
+T2	Disease 182 188	2 型糖尿病
+T3	Disease 399 405	2 型糖尿病
+T4	Disease 1746 1752	2 型糖尿病
+T5	Disease 2162 2168	2 型糖尿病
+T6	Disease 2529 2535	2 型糖尿病
+T7	Disease 6088 6094	2 型糖尿病
+T8	Test 2308 2313	HBA1C
+T9	Test 2391 2396	HBA1C
+T10	Test 3034 3039	HBA1C
+T11	Test 4037 4042	HBA1C
+T12	Test 4742 4747	HBA1C
+T13	Test 4941 4946	HBA1C
+T14	Test 5006 5011	HBA1C
+T15	Test 3018 3022	空腹血糖
+T16	Test 4025 4029	空腹血糖
+T17	Test 4031 4034	FPG
+T18	Test 4738 4741	FPG
+T19	Test 4937 4940	FPG
+T20	Test 5002 5005	FPG
+T21	Test 2999 3003	体重指数
+T22	Test 3967 3971	体重指数
+T23	Test 4345 4348	收缩压
+T24	Test 3014 3017	腰臀比
+T25	Test 3977 3980	腰臀比
+T26	Test 4733 4736	腰臀比
+T27	Test 3961 3963	腰围
+T28	Test 3958 3960	臀围
+T29	Test 3846 3855	超敏 C 反应蛋白
+T30	Test 4057 4066	超敏 C 反应蛋白
+T31	Disease 1921 1927	动脉粥样硬化
+T32	Disease 5825 5831	动脉粥样硬化
+T33	Test 1875 1878	ABI
+T34	Test 2585 2588	ABI
+T35	Test 2691 2694	ABI
+T36	Test 4271 4274	ABI
+T37	Test 4364 4367	ABI
+T38	Test 4506 4509	ABI
+T39	Test 4775 4778	ABI
+T40	Test 4867 4870	ABI
+T41	Test 3972 3975	BMI
+T42	Test 4729 4732	BMI
+T43	Test 3955 3957	身高
+T44	Drug 2908 2913	维生素 D
+T45	Test 4044 4046	血钙
+T46	Disease 172 180	亚临床大血管病变
+T47	Drug 192 196	骨化三醇
+T48	Drug 269 273	骨化三醇
+T49	Test 319 327;328 329	超敏 C 反应蛋 白
+T50	Test 330 338	可溶性 CD36
+T51	Test 341 345	cIMT
+T52	Test 362 366	踝肱指数
+T53	Drug 381 385	骨化三醇
+T54	Disease 406 414	亚临床大血管病变
+T55	Test 418 422	cIMT
+T56	Disease 442 450	亚临床大血管病变
+T57	Drug 452 456	骨化三醇
+T58	Disease 1755 1760	心血管疾病
+T59	Disease 1781 1789	亚临床大血管病变
+T60	Disease 1862 1867	颈动脉斑块
+T61	Disease 1893 1901	亚临床大血管病变
+T62	Disease 1910 1918	亚临床大血管病变
+T63	Disease 1933 1936	糖尿病
+T64	Disease 1972 1975	糖尿病
+T65	Drug 2063 2067	骨化三醇
+T66	Disease 2073 2075;2076 2082	亚临 床大血管病变
+T67	Disease 2141 2149	亚临床大血管病变
+T68	Disease 2331 2333;2334 2335	糖尿 病
+T69	Disease 2413 2416	糖尿病
+T70	Disease 2444 2447	高血压
+T71	Test 2544 2551	颈动脉 B 超
+T72	Test 2653 2655;2656 2659	颈动 脉超声
+T73	Disease 2664 2672	亚临床大血管病变
+T74	Disease 2712 2716	肝肾疾病
+T75	Disease 2720 2723;2724 2729	临床心 脑血管疾病
+T76	Disease 2730 2733	脑梗死
+T77	Disease 2734 2737	脑出血
+T78	Disease 2738 2742	心肌梗死
+T79	Disease 2743 2749	恶性心律失常
+T80	Disease 2752 2753;2754 2759	外 周血管疾病
+T81	Disease 2798 2802	急性感染
+T82	Disease 2803 2805	中毒
+T83	Disease 2806 2808	肿瘤
+T84	Disease 2826 2832	血液系统疾病
+T85	Drug 2840 2845	糖皮质激素
+T86	Drug 2858 2865	非甾体类抗炎药
+T87	Drug 2887 2891	阿司匹林
+T88	Test 3049 3055	hs-CRP
+T89	Test 3473 3477	cIMT
+T90	Disease 3930 3933	糖尿病
+T91	Test 4078 4085	25(OH)D
+T92	Test 4086 4091	sCD36
+T93	Test 4107 4112	颈动脉彩超
+T94	Anatomy 4171 4178	CCA 分叉处
+T95	Anatomy 4179 4186	颈内动脉颅外段
+T96	Test 4211 4214	IMT
+T97	Test 4296 4300	肱动脉压
+T98	Test 4356 4359;4360 4361	肱动脉 压
+T99	Test 4385 4387	血糖
+T100	Drug 4394 4398	骨化三醇
+T101	Test 4458 4460	血糖
+T102	Test 4499 4504	颈动脉超声
+T103	Disease 4723 4726	糖尿病
+T104	Test 4748 4754	hs-CRP
+T105	Test 4755 4760	sCD36
+T106	Test 4761 4768	25(OH)D
+T107	Test 4769 4772	IMT
+T108	Test 4819 4825	hs-CRP
+T109	Test 4826 4831	sCD36
+T110	Test 4834 4837	IMT
+T111	Test 4947 4953	hs-CRP
+T112	Test 4955 4960	sCD36
+T113	Test 4963 4967	cIMT
+T114	Test 4974 4981	25(OH)D
+T115	Test 5013 5017	cIMT
+T116	Drug 5043 5047	骨化三醇
+T117	Anatomy 5071 5073	肾脏
+T118	Drug 5153 5157	骨化三醇
+T119	Disease 5171 5175;5176 5178	主动脉窦 硬化
+T120	Disease 5211 5214	糖尿病
+T121	Anatomy 5326 5330	巨噬细胞
+T122	Anatomy 5354 5358	泡沫细胞
+T123	Drug 5394 5398	骨化三醇
+T124	Test 5406 5410	cIMT
+T125	Test 5424 5430	hs-CRP
+T126	Test 5431 5436	sCD36
+T127	Drug 5448 5452	骨化三醇
+T128	Disease 5456 5459	糖尿病
+T129	Disease 5467 5471	动脉硬化
+T130	Test 5515 5521	hs-CRP
+T131	Test 5541 5548	颈动脉 IMT
+T132	Drug 5580 5584	骨化三醇
+T133	Disease 5624 5628	动脉硬化
+T134	Drug 5635 5639	骨化三醇
+T135	Test 5652 5658	hs-CRP
+T136	Disease 5661 5664	糖尿病
+T137	Anatomy 5683 5689	动脉血管内皮
+T138	Anatomy 5732 5736	巨噬细胞
+T139	Test 5740 5744	CD36
+T140	Anatomy 5750 5754	泡沫细胞
+T141	Disease 5758 5762	动脉斑块
+T142	Disease 5820 5823	糖尿病
+T143	Drug 5864 5868	骨化三醇
+T144	Disease 5879 5882	糖尿病
+T145	Disease 5906 5909	糖尿病
+T146	Disease 5911 5915	动脉硬化
+T147	Drug 5935 5939	骨化三醇
+T148	Disease 5944 5947	糖尿病
+T149	Drug 6002 6006	骨化三醇
+T150	Disease 6105 6111	大血管并发症
+T151	Disease 6140 6142;6143 6146	大血 管病变
+T152	Drug 6173 6177	骨化三醇
+T153	Disease 6184 6187	糖尿病
+T154	Test 6190 6194	cIMT
+T155	Disease 101 109	亚临床大血管病变
+T156	Test 978 985	25(OH)D
+T157	Test 1374 1381	25(OH)D
+T158	Test 3418 3425	25(OH)D
+T159	Test 4857 4864	25(OH)D
+T160	Anatomy 5341 5347	ox-LDL
+T161	Test 3839 3845	hs-CRP
+T162	Drug 87 91	骨化三醇
+T163	Test 767 771	cIMT
+T164	Test 1333 1337	cIMT
+T165	Test 1498 1502	cIMT
+T166	Test 5232 5235	JNK
+T167	Drug 2019 2024	维生素 D
+T168	Drug 2150 2155	维生素 D
+T169	Test 5960 5965	维生素 D
+T170	Test 5979 5984	维生素 D
+T171	Disease 1793 1799	心、脑血管病
+T172	Disease 1804 1805;1806 1809	血 管损害
+T173	Disease 1823 1826	高血压
+T174	Test 1869 1871;1872 1874	踝肱 指数
+T175	Level 2709 2711	严重
+T176	Drug 2847 2855	影响糖代谢的药物
+T177	Test 3435 3439	Ca2+
+T178	Test 3451 3456	sCD36
+T179	Test 3483 3487	踝肱指数
+T180	Test 3985 3990	血液学指标
+T181	Disease 4099 4104	大血管病变
+T182	Test 4131 4135	全身彩超
+T183	Test 4218 4220;4221 4223	踝肱 指数
+T184	Test 4245 4252	多普勒血流探测
+T185	Test 4303 4305	血压
+T186	Disease 5488 5497	慢性低水平炎性反应
+T187	Disease 5669 5673;5674 5677	低水平炎 症反应
+T188	Reason 5886 5888	炎症
+T189	Reason 6197 6199	炎症
+T190	Test_Value 159 170	<30 ng / ml
+T191	Duration 200 205	12 个月
+T192	Test_Value 346 350	显著降低
+T193	Test_Value 366 370	显著升高
+T194	Test_Value 1850 1858	>0. 9 mm
+T195	Test_Value 1879 1884	≤0. 9
+T196	Test_Value 1967 1969	降低
+T197	Test_Value 2027 2029	降低
+T198	Test_Value 2039 2042;2043 2050	<30 ng / ml
+T199	Test_Value 2313 2329	(7. 05 ± 1. 72)%
+T200	Duration 2338 2345	1 ~ 8 年
+T201	Test_Value 2396 2411	(7. 04 ±1. 20)%
+T202	Duration 2419 2425;2426 2427	1 ~ 10 年
+T203	Test_Value 2588 2593	≤0. 9
+T204	Test_Value 2563 2571	>0. 9 mm
+T205	Test_Value 2614 2625	75 nmol / L
+T206	Test_Value 2626 2636	30 ng / ml
+T207	Test_Value 2694 2699	≤0. 9
+T208	Test 4349 4353	踝动脉压
+T209	Test_Value 4843 4847	显著降低
+T210	Test_Value 4875 4877	升高
+T211	Test_Value 4969 4973	显著降低
+T212	Test_Value 4984 4986	升高
+T213	Anatomy 5218 5230	c-Jun 氨基末端激酶
+T214	Anatomy 5265 5281	B 类清道夫受体(SR)CD36
+T215	Anatomy 5333 5337	CD36
+T216	Test_Value 5440 5444	显著降低
+T217	Test_Value 5522 5524	升高
+T218	Anatomy 5590 5599	超氧化物歧化酶 1
+T219	Anatomy 5607 5612	IκB-α
+T220	Amount 6014 6018	1 μg
+T221	Amount 6024 6028	20 U
+T222	Test_Value 5018 5022	显著降低
+T223	Anatomy 5243 5249;5250 5258	氧化物酶体增 殖物激活受体 γ
+T224	Duration 5388 5393	12 个月
+T225	Test_Value 5416 5419;5420 5421	显著降 低
+T226	Test 5295 5300	LDL-C
+T227	Disease 148 158	维生素 D 水平降低
+T228	Test 351 360	25-羟维生素 D
+T229	Disease 388 390;391 397	维生 素 D 缺乏
+T230	Test 5048 5053	维生素 D
+T231	Test 5310 5315	维生素 D
+T232	Disease 5948 5956	维生素 D 缺乏
+T233	Drug 6029 6034	维生素 D
+T234	Test 6133 6138	维生素 D
+T235	Test 206 214	颈动脉内中膜厚度
+T236	Test 215 219	cIMT
+T237	Test 1841 1845	cIMT
+T238	Test 1944 1956	血清 25-羟维生素 D
+T239	Test 1957 1964	25(OH)D
+T240	Disease 1980 1984	动脉硬化
+T241	Disease 2000 2006	2 型糖尿病
+T242	Disease 2007 2008;2009 2016	亚 临床大血管病变
+T243	Test 2030 2039	25 (OH) D
+T244	Disease 2244 2247	胆囊炎
+T245	Disease 2437 2440	糖尿病
+T246	Disease 2555 2562	颈动脉内膜增厚
+T247	Disease 2574 2582	动脉粥样斑块形成
+T248	Test 2598 2607	血 25(OH)D
+T249	Disease 2764 2772	糖尿病酮症酸中毒
+T250	Disease 2773 2779	高糖高渗状态
+T251	Disease 2785 2792	糖尿病合并妊娠
+T252	Anatomy 2876 2878	内皮
+T253	Drug 2883 2886	调脂药
+T254	Drug 2904 2907	维生素
+T255	Test 3856 3860	cIMT
+T256	Test 4069 4075	hs-CRP
+T257	Anatomy 4161 4165	颈总动脉
+T258	Anatomy 4340 4344	足背动脉
+T259	Test 5079 5090	25-羟基维生素 D3
+T260	Test 5196 5208	1,25(OH) 2D3
+T261	Disease 5369 5373	动脉硬化
+T262	Test 5478 5484	hs-CRP
+T263	Disease 5525 5528	糖尿病
+T264	Disease 5528 5536	亚临床大血管病变
+T265	Test 5694 5698	CD36
+T266	Test 5774 5779	sCD36
+T267	Test 5782 5786	CD36
+T268	Test 5808 5813	sCD36
+T269	Test 5855 5860	sCD36
+T270	Test 5894 5898	CD36

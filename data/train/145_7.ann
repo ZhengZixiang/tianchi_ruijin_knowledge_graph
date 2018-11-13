@@ -1,0 +1,249 @@
+T1	Disease 8720 8726	2 型糖尿病
+T2	Test 5600 5604	空腹血糖
+T3	Test 6542 6546	空腹血糖
+T4	Test 5908 5911	尿素氮
+T5	Test 6821 6824	尿素氮
+T6	Test 7256 7259	尿素氮
+T7	Test 7566 7569	尿素氮
+T8	Test 5667 5671	总胆固醇
+T9	Test 6609 6613	总胆固醇
+T10	Test 7247 7251	总胆固醇
+T11	Test 7466 7470	总胆固醇
+T12	Test 5569 5573	体重指数
+T13	Test 6511 6515	体重指数
+T14	Test 7234 7238	体重指数
+T15	Test 7552 7556	体重指数
+T16	Test 5992 5995	收缩压
+T17	Test 6905 6908	收缩压
+T18	Test 7263 7266	收缩压
+T19	Test 6027 6030	舒张压
+T20	Test 6940 6943	舒张压
+T21	Test 7267 7270	舒张压
+T22	Test 5968 5970	尿酸
+T23	Test 6881 6883	尿酸
+T24	Test 7260 7262	尿酸
+T25	Test 7573 7575	尿酸
+T26	Test 7825 7827	尿酸
+T27	Disease 7812 7817	代谢综合征
+T28	Test 5638 5642	甘油三酯
+T29	Test 6580 6584	甘油三酯
+T30	Test 7242 7246	甘油三酯
+T31	Test 7561 7565	甘油三酯
+T32	Drug 7841 7846	维生素 D
+T33	Disease 3108 3111;3112 3114	心血管 疾病
+T34	Drug 2972 2977	免疫抑制剂
+T35	Anatomy 3038 3042	IL-6
+T36	Anatomy 7947 7951	IL-6
+T37	Anatomy 216 219	VDR
+T38	Anatomy 641 644	VDR
+T39	Anatomy 1219 1222	VDR
+T40	Anatomy 1351 1354	VDR
+T41	Anatomy 1495 1498	VDR
+T42	Anatomy 2062 2065	VDR
+T43	Anatomy 2381 2384	VDR
+T44	Anatomy 2406 2409	VDR
+T45	Anatomy 3182 3185	VDR
+T46	Anatomy 3226 3229	VDR
+T47	Anatomy 3377 3380	VDR
+T48	Anatomy 4121 4124	VDR
+T49	Anatomy 4741 4744	VDR
+T50	Anatomy 5013 5016	VDR
+T51	Anatomy 5138 5141	VDR
+T52	Anatomy 6311 6314	VDR
+T53	Anatomy 8048 8051	VDR
+T54	Anatomy 8150 8153	VDR
+T55	Anatomy 8226 8229	VDR
+T56	Anatomy 8289 8292	VDR
+T57	Anatomy 8318 8321	VDR
+T58	Anatomy 8340 8343	VDR
+T59	Anatomy 8430 8433	VDR
+T60	Anatomy 8473 8476	VDR
+T61	Anatomy 8501 8504	VDR
+T62	Anatomy 8548 8551	VDR
+T63	Anatomy 8654 8657	VDR
+T64	Anatomy 8751 8754	VDR
+T65	Anatomy 8803 8806	VDR
+T66	Anatomy 8858 8861	VDR
+T67	Anatomy 8881 8884	VDR
+T68	Anatomy 9186 9189	VDR
+T69	Anatomy 9242 9245	VDR
+T70	Anatomy 9257 9260	VDR
+T71	Test 1636 1639	PCR
+T72	Test 4115 4118	PCR
+T73	Test 4276 4279	PCR
+T74	Test 4344 4347	PCR
+T75	Test 4462 4465	PCR
+T76	Disease 36 38	痛风
+T77	Disease 251 253	痛风
+T78	Disease 302 304	痛风
+T79	Disease 393 395	痛风
+T80	Disease 669 671	痛风
+T81	Disease 709 711	痛风
+T82	Disease 2602 2604	痛风
+T83	Disease 2683 2685	痛风
+T84	Disease 2734 2736	痛风
+T85	Disease 2764 2766	痛风
+T86	Disease 2870 2872	痛风
+T87	Disease 3299 3301	痛风
+T88	Disease 3329 3331	痛风
+T89	Disease 3428 3430	痛风
+T90	Disease 3456 3458	痛风
+T91	Disease 3507 3509	痛风
+T92	Disease 3699 3701	痛风
+T93	Disease 3712 3714	痛风
+T94	Disease 3902 3904	痛风
+T95	Disease 4733 4735	痛风
+T96	Disease 4781 4783	痛风
+T97	Disease 4882 4884	痛风
+T98	Disease 4954 4956	痛风
+T99	Disease 5005 5007	痛风
+T100	Disease 5316 5318	痛风
+T101	Disease 5394 5396	痛风
+T102	Disease 5796 5798	痛风
+T103	Disease 6153 6155	痛风
+T104	Disease 6307 6309	痛风
+T105	Disease 7211 7213	痛风
+T106	Disease 7231 7233	痛风
+T107	Disease 7336 7338	痛风
+T108	Disease 7391 7393	痛风
+T109	Disease 7610 7612	痛风
+T110	Disease 7640 7642	痛风
+T111	Disease 7752 7754	痛风
+T112	Disease 7771 7773	痛风
+T113	Disease 8381 8383	痛风
+T114	Disease 8403 8405	痛风
+T115	Disease 8486 8488	痛风
+T116	Disease 8512 8514	痛风
+T117	Disease 8537 8539	痛风
+T118	Disease 8591 8593	痛风
+T119	Disease 8676 8678	痛风
+T120	Disease 8775 8777	痛风
+T121	Disease 8840 8842	痛风
+T122	Disease 8970 8972	痛风
+T123	Disease 9080 9081;9082 9083	痛 风
+T124	Disease 9147 9149	痛风
+T125	Disease 9218 9219;9220 9221	痛 风
+T126	Disease 9230 9232	痛风
+T127	Disease 9264 9266	痛风
+T128	Disease 9295 9297	痛风
+T129	Disease 9349 9351	痛风
+T130	Test 7239 7241	血糖
+T131	Test 7557 7559	血糖
+T132	Anatomy 187 195	维生素 D 受体
+T133	Disease 2625 2630	高尿酸血症
+T134	Disease 2891 2893	肥胖
+T135	Disease 2894 2897	高血压
+T136	Disease 2898 2899;2900 2903	高 脂血症
+T137	Disease 2904 2908	高钙血症
+T138	Anatomy 3019 3020;3021 3024	单 核细胞
+T139	Anatomy 3027 3032	树突状细胞
+T140	Disease 3115 3119	恶性肿瘤
+T141	Disease 3120 3127	自身免疫性疾病
+T142	Anatomy 3176 3181	维生素受体
+T143	Disease 3257 3260	糖尿病
+T144	Disease 3261 3271	自身免疫性甲状腺疾病
+T145	Disease 3272 3278;3279 3280	类风湿性关节 炎
+T146	Disease 3281 3286	炎症性肠病
+T147	Disease 3287 3292	免疫性疾病
+T148	Disease 3905 3908	高血压
+T149	Disease 3909 3919	冠状动脉硬化性心脏病
+T150	Disease 3920 3923	糖尿病
+T151	Disease 3924 3926;3927 3929	高脂 血症
+T152	Disease 3930 3934	恶性肿瘤
+T153	Test 5943 5945	肌酐
+T154	Test 6856 6858	肌酐
+T155	Test 7252 7253;7254 7255	肌 酐
+T156	Test 7570 7572	肌酐
+T157	Disease 7733 7739	痛风性关节炎
+T158	Disease 7774 7779	高尿酸血症
+T159	Disease 7784 7789	脂代谢紊乱
+T160	Disease 7790 7793	糖尿病
+T161	Disease 7795 7798	高血压
+T162	Disease 7799 7801	肥胖
+T163	Anatomy 7912 7916	单核细胞
+T164	Anatomy 7932 7936	巨噬细胞
+T165	Anatomy 7952 7957	IL-12
+T166	Anatomy 7958 7966	肿瘤坏死因子 α
+T167	Anatomy 7967 7972	干扰素 γ
+T168	Disease 8021 8030;8031 8032	自身免疫性甲状腺疾 病
+T169	Disease 8033 8040	类风湿性关节炎
+T170	Disease 8041 8046	炎症性肠病
+T171	Disease 8368 8371	糖尿病
+T172	Disease 8372 8377	克罗恩疾病
+T173	Disease 8689 8691	肥胖
+T174	Disease 8692 8697	高尿酸血症
+T175	Disease 8698 8705	高甘油三酯血症
+T176	Disease 8706 8711;8712 8713	高胆固醇血 症
+T177	Disease 8714 8718	高血压病
+T178	Disease 2745 2747;2748 2752	炎症 性关节炎
+T179	Disease 2858 2860	炎症
+T180	Disease 2877 2882	代谢性疾病
+T181	Test 2938 2942	钙磷代谢
+T182	Disease 7628 7631;7632 7638	代谢性 多基因遗传病
+T183	Disease 7758 7763	代谢性疾病
+T184	Disease 7804 7809	代谢性疾病
+T185	Disease 8012 8017	免疫性疾病
+T186	Disease 8386 8393;8394 8396	免疫性、代谢性 疾病
+T187	Anatomy 2919 2924	维生素 D
+T188	Anatomy 2978 2983	维生素 D
+T189	Anatomy 3142 3147	维生素 D
+T190	Test 7896 7901	维生素 D
+T191	Anatomy 2782 2787	NALP3
+T192	Anatomy 2790 2802	caspase-1 前体
+T193	Anatomy 2805 2813;2814 2815	caspase- 1
+T194	Anatomy 3206 3210	FokI
+T195	Symptom 3551 3564	急性关节炎发作 1 次以上
+T196	Symptom 3565 3570;3571 3579	在 1 d 内即达到发作高峰
+T197	Symptom 3583 3595	急性关节炎局限于个别关节
+T198	Symptom 3600 3608	整个关节呈暗红色
+T199	Symptom 3612 3620	第一跖趾关节肿痛
+T200	Symptom 3624 3625;3626 3635	单 侧趾关节炎急性发作
+T201	Symptom 3657 3665	非对称性关节肿痛
+T202	Symptom 3669 3676	发作可自行中止
+T203	Test_Value 7472 7474	高于
+T204	Anatomy 8092 8100	视黄醇 X 受体
+T205	Test_Value 8422 8423	低
+T206	Test_Value 8458 8460	下降
+T207	Test 8407 8414	血清维生素 D
+T208	Test 2605 2607	尿酸
+T209	Symptom 2707 2720	尿酸盐沉积在关节内或其周围
+T210	Disease 3094 3102	维生素 D 缺乏
+T211	Disease 8001 8006;8007 8009	维生素 D 缺乏
+T212	Test 8117 8122	维生素 D
+T213	Test 7692 7696	IL-6
+T214	Test 8054 8057;8058 8059	维生素 D
+T215	Symptom 3639 3643	有痛风石
+T216	Disease 87 92	原发性痛风
+T217	Anatomy 93 101	维生素 D 受体
+T218	Anatomy 398 404	VDR 基因
+T219	Anatomy 688 696	维生素 D 受体
+T220	Symptom 2696 2699;2700 2706	急性关 节炎反复发作
+T221	Symptom 2721 2723;2724 2728	尿酸 性肾结石
+T222	Test 2772 2774;2775 2776	尿酸 盐
+T223	Test 2822 2834	白细胞介素(IL)-1β
+T224	Test 2837 2842	IL-18
+T225	Test 2928 2934	开环甾体激素
+T226	Test 3043 3048	IL-12
+T227	Test 3049 3051;3052 3058	肿瘤 坏死因子 α
+T228	Test 3059 3064	干扰素 γ
+T229	Test 3072 3077	IL-10
+T230	Disease 3128 3134	移植排斥反应
+T231	Test 3155 3168	1,25-二羟维生素 D3
+T232	Symptom 3647 3652	高尿酸血症
+T233	Anatomy 4786 4792	VDR 基因
+T234	Anatomy 7340 7346	VDR 基因
+T235	Reason 7648 7656;7657 7668	尿酸盐晶体触发了 炎症的瀑布式的级联反应
+T236	Reason 7669 7680;7681 7684	释放出了大量的促炎性细 胞因子
+T237	Test 7687 7691	IL-1
+T238	Test 7697 7701	IL-8
+T239	Test 7702 7707	IL-12
+T240	Test 7709 7717	肿瘤坏死因子 α
+T241	Reason 7719 7730	促炎和抗炎细胞因子失衡
+T242	Test 7851 7857	类固醇类激素
+T243	Test 7881 7891;7892 7894	1,25-二羟维生素 D3
+T244	Anatomy 7923 7927	巨噬细胞
+T245	Anatomy 7938 7942	炎症细胞
+T246	Anatomy 7974 7976;7977 7989	趋化 因子单核细胞趋化蛋白 1
+T247	Test 8070 8083	1,25-二羟维生素 D3
+T248	Test 8445 8451;8452 8455	25-羟维生 素 D
+T249	Disease 8924 8930	痛风性关节炎

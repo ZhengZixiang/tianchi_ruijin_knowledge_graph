@@ -1,0 +1,296 @@
+基础研究
+基金项目:国家自然科学基金项目(81170767)
+胰升糖素样肽 1 受体激动剂对胰岛素抵抗
+小鼠骨骼肌胰岛素信号通路的影响
+徐晓艺  李竞  高凌  谢敏  李铮
+[摘要]   目的  研究胰升糖素样肽 1 受体激动剂艾塞那肽对胰岛素抵抗(IR)小鼠骨骼肌胰岛素信号
+通路的影响。 方法 将30 只KM 小鼠分为正常对照组(NC 组,n=10)及 IR 组(n=20),NC 组喂以常规饲料,
+预 4 周,NC 组及 IR 组均给予等剂量的生理盐水。 于干预前后分别测体重、空腹血糖(FBG)和空腹胰岛素
+(FINS),并计算稳态模型评估的胰岛素抵抗指数(HOMA-IR);过碘酸雪夫染色(PAS 染色)观察骨骼肌糖
+原含量的变化,Western 印迹法及免疫组织化学法检测骨骼肌胰岛素受体(IRC)、胰岛素受体底物-1(IRS-1)
+及磷脂酰肌醇 3 激酶(PI3K)蛋白的表达。 结果 干预前,与 NC 组比较,IR 组及 Ex 组小鼠体重、FBG 及
+HOMA-IR 增高(均 P<0. 05),FINS 增高不明显(P>0. 05)。 干预后与干预前相比,3 组小鼠体重均增加,但
+IR 组增加最为显著。 干预后,与同期 IR 组及干预前 Ex 组比较,Ex 组小鼠 FBG 及 HOMA-IR 降低(均 P<
+0. 05),FINS 降低不明显(P>0. 05);PAS 染色显示 NC 组骨骼肌细胞内紫红色着色广泛,着色颗粒较多,IR
+组着色较少,Ex 组介于两者之间;与 NC 组相比,IR 组骨骼肌中 IRC、IRS-1 及 PI3K 的表达显著降低(P<
+0. 05),Ex 组无明显降低(P>0. 05);与 IR 组相比,Ex 组骨骼肌中 IRC、IRS-1 及 PI3K 的表达增加(P<
+0. 05)。 结论 艾塞那肽通过上调骨骼肌 IRC、IRS-1 及 PI3K 的表达,促进骨骼肌糖原合成,改善骨骼肌 IR。
+[关键词]   GLP-1 受体激动剂; 胰岛素抵抗; 骨骼肌; 胰岛素受体
+Effect of glucagon-like peptide-1 agonist on insulin signaling pathway in skeletal muscle of mice with insulin
+resistance Xu Xiaoyi, Li Jing, Gao Ling, Xie Min, Li Zheng. Department of Endocrinology, Renmin Hospital of
+Wuhan University, Wuhan 430060, China
+[Abstract]  Objective  To study the effect of glucagon-like peptide-1 agonist(exendin-4)on insulin signaling
+pathway in skeletal muscle of mice with insulin resistance( IR). Methods Thirty male KM mice were divided into
+normal control group(NC group, n = 10) and IR group(n = 20). The mice in NC group and IR group were fed with
+routine diet and high-fat diet for 16 weeks, respectively. After IR models were successfully established, 10 mice in IR
+same dose of normal saline. Body weight, fasting blood glucose(FBG), and fasting insulin( FINS) were measured
+before and after the intervention, and homeostasis model assessment for insulin resistance ( HOMA-IR ) was
+calculated . The muscle glycogen content were measured by Periodic Acid-Schiff Stain( PAS). The expressions of
+insulin receptor( IRC), insulin receptor substrate-1 ( IRS-1 ), and phosphatidylinositol 3-kinase ( PI3K) in the
+skeletal muscle were measured by Western blot and immunohistochemistry. Results Before intervention, the body
+weight, FBG, and HOMA-IR of IR group and Ex group were higher compared with NC group(all P<0. 05), but FINS
+did not rise significantly ( P > 0. 05) . Compared with before intervention, the body weight of three groups after
+intervention were all increased, but increased more significantly in the IR group. After intervention, the FBG and
+HOMA-IR in Ex group decreased, compared with IR group and Ex group of non-intervention (all P<0. 05), but FINS
+did not decrease significantly(P>0. 05) . The skeletal muscle cells in NC control were colored extensively and more
+colored granules, while IR group were less colored, and Ex group were between NC group and IR group. Compared
+with NC group, the expressions of IRC, IRS-1, and PI3K in the skeletal muscle of IR group were significantly
+decreased(P<0. 05), not in Ex group(P>0. 05) . Compared with IR group, the expressions of IRC, IRS-1 and PI3K
+in Ex group were higher (P < 0. 05) . Conclusions Exendin-4 improves insulin resistance by up-regulating the
+expressions of IRC, IRS-1, and PI3K in the skeletal muscle and promoting the synthesis of muscle glycogen.
+[Key words]  Glucagon-like peptide-1 agonist; Insulin resistance; Skeletal muscle; Insulin receptor
+(Chin J Endocrinol Metab, 2016, 32: 315-320)
+胰岛素抵抗( IR)是 2 型糖尿病的主要发病机制
+之一,与肥胖、高血压及多囊卵巢综合征等多种代谢疾
+病的发生发展密切相关[1]。 骨骼肌是全身葡萄糖代
+谢的重要场所,在基础状态和高胰岛素刺激下分别占
+全身葡萄糖利用的 20% 和 70% ~ 85% [2]。 胰岛素刺
+激的骨骼肌葡萄糖摄取减少是 IR 及 2 型糖尿病的特
+征之一[3]。 胰升糖素样肽 1 ( glucagon-like peptide-1,
+GLP-1)是肠道 L 细胞分泌的一类肽类激素,能够促进
+胰岛素的合成和释放,抑制胰升糖素的释放,延迟胃排
+空和降低机体食欲[4],并能增加脂肪细胞和肝细胞的
+胰岛素敏感性[5-6]。 本研究利用高脂饮食喂养诱导 IR
+小鼠模型,通过检测骨骼肌细胞糖原含量、胰岛素受体
+(insulin receptor, IRC )、 胰 岛 素 受 体 底 物 ( insulin
+receptor substrate, IRS)-1、磷脂酰肌醇 3 激酶( phos-
+phatidylinositol 3-kinase,PI3K)的蛋白表达,旨在探讨
+GLP-1 受体激动剂艾塞那肽对骨骼肌胰岛素信号通路
+的作用。
+材料和方法
+一、 材料
+30 只 6 ~8 周龄健康雄性 KM 小鼠,体重 25 ~30 g,
+购自武汉大学动物实验中心,许可证号:SCXK(鄂)
+2008-0004。 正常普通饲料由武汉大学人民医院动物
+房提供,高脂饲料购自北京华阜康生物科技股份有限
+公司(脂肪提供热量占 60% ,蛋白质占 20% ,碳水化合
+物占 20% )。 血糖仪购自强生(上海)医疗器材有限公
+司,胰岛素 ELISA 试剂盒购自武汉×莱瑞特生物科技
+有限公司,ALZET 胶囊渗透压泵购自上海玉研科学仪
+器有限公司,抗 IRC、IRS-1、PI3K 抗体及相应的二抗均
+购自 abcam 公司。
+二、 方法
+1. IR 模型的建立及分组:将 30 只 KM 小鼠随机
+分为正常对照组(NC 组)10 只及 IR 组 20 只。 适应性
+喂养 1 周后,NC 组继续喂以常规饲料,IR 组喂以高脂
+饲料。 12 周后,每 2 周测小鼠空腹血糖(FBG)、空腹
+胰岛素(FINS)水平,并计算稳态模型评估的胰岛素抵
+抗指数(HOMA-IR)= FBG×FINS / 22. 5,HOMA-IR>2. 7
+作为衡量小鼠 IR 造模成功的标准[7]。 16 周时 IR 造
+模成功,成模后从 IR 组随机选 10 只作为艾塞那肽干
+塞那肽量计算出 Ex 组中每只小鼠 4 周总用量,通过植
+入小鼠背部皮下的 ALZET 胶囊渗透压泵,以恒定的速
+率输注于小鼠体内;另外 10 只设为 IR 对照组,NC 组
+及 IR 组均给予等剂量生理盐水。 干预后,每周称量小
+鼠体重。
+2. 标本采集及固定:干预 4 周后,测量小鼠体重、
+FBG 及 FINS。 颈椎脱臼法处死小鼠,取大腿部肌肉组
+织先置于液氮中,后于-70℃ 冰箱保存,用于 Western
+印迹法检测 IRC 及 PI3K 的表达和免疫组织化学法检
+测骨骼肌 IRC 及 IRS-1 的表达。 剩余肌肉组织用磷酸
+盐缓冲液(PBS)冲洗,10%甲醛溶液固定,用过碘酸雪
+夫染色(又称 PAS 染色)观察骨骼肌细胞糖原染色的
+变化。
+3. FBG 和 FINS 的检测:对禁食 10 h 的小鼠剪尾
+采血,用快速血糖仪测 FBG。 再用乙醚麻醉小鼠,借
+助毛细玻璃管从小鼠眼眶静脉取血,然后将血标本于
+室温下放置 2 h,以 4 000 转 / min 离心 30 min,取上清
+用 ELISA 法检测血清 FINS 水平。
+4. PAS 染色法检测肌糖原含量:新鲜的肌肉组织
+用 10%甲醛溶液固定后,石蜡包埋切片,常规二甲苯
+脱蜡及梯度酒精脱水后;浸入高碘酸酒精溶液 10 min;
+70%酒精洗后,放入还原液作用 1 min;70%酒精洗后,
+放入无色盐基性品红溶液作用 1 h;自来水冲洗 10
+min,用苏木精复染细胞核 3 ~ 5 min,再用 1% 盐酸酒
+精分化;自来水冲洗后,脱水,透明,封固。 根据细胞内
+紫红色深浅及分布,判定细胞内糖原含量的多少。
+5. Western 印迹法检测骨骼肌 IRC 及 PI3K 的表
+达:取-70℃冰箱保存的肌肉组织加适量组织裂解液,
+作用 30 min 后,用超声波粉碎仪裂解匀浆,提取肌肉
+组织蛋白,用 BCA 试剂盒测定其蛋白浓度;取组织裂
+解蛋白 80 μg,经 8%的十二烷基硫酸钠-聚丙烯酰胺凝
+胶(SDS-PAGE)电泳后,用 200 mA 的恒定电流 2 h 电
+转至聚偏二氟乙烯膜(PVDF 膜),5%的脱脂牛奶封闭
+1. 5 h,加一抗(1 : 1 000 稀释)孵育,4℃过夜,TBST 洗
+膜,加荧光标记的二抗(1 : 10 000 稀释)孵育 1 h,应用
+Odyssey 红外荧光扫描成像系统测定蛋白条带的光密
+度以定量。
+6. 免疫组织化学法检测骨骼肌 IRC 及 IRS-1 的表
+达:取-70℃冰箱保存的肌肉组织制作冰冻切片后,室
+温放置 30 min,放入丙酮中固定 10 min,PBS 冲洗;用
+3%过氧化氢室温孵育 10 min;5% ~ 10% 正常山羊血
+清室温封闭 10 min,倾去血清,不洗;滴加一抗(兔抗
+鼠,浓缩液 1 : 100 稀释),4℃过夜;PBS 冲洗后滴加生
+物素标记的羊抗兔二抗,37℃孵育 30 min;滴加辣根酶
+标记链霉亲和素,37℃孵育 30 min;DAB 显色剂显色,
+复染,脱水,透明,封片。 在电子显微镜拍片后,图像用
+Image-ProPlus(IPP)软件测定阳性区域累积光密度,计
+算其平均值。
+三、 统计学处理
+用 SPSS 17. 0 统计软件进行分析,数据以 x-± s 表
+表 1  干预前后各组小鼠体重水平的比较(x-± s)
+Tab 1  The comparison of body weight in each group before and after intervention(x-± s)
+组别
+Group
+鼠数
+n
+干预前体重
+Body weight
+before intervention
+(g)
+干预后体重
+Body weight after intervention
+(g)
+1 week 2 week 3 week 4 week
+NC 10 57. 00 ± 7. 09 57. 83 ± 7. 02 57. 79 ± 7. 13 58. 83 ± 6. 94 58. 87 ± 7. 59
+IR 10 61. 55 ± 6. 66a 62. 70 ± 6. 95a 62. 45 ± 6. 43a 62. 70 ± 6. 27a 63. 75 ± 6. 30a
+Ex 10 61. 35 ± 4. 12a 60. 85 ± 4. 50a 60. 65 ± 4. 67a 61. 60 ± 4. 80a 62. 30 ± 4. 69a
+注: NC: 正常对照组 Normal control group; IR: 胰岛素抵抗组 Insulin resistance group; Ex: 艾塞那肽干预组 Exendin-4 intervention group; 与 NC 组比
+较 vs NC group,aP<0. 05
+表 2  干预前后各组小鼠 FBG、FINS、HOAM-IR 水平的比较(x-± s)
+Tab 2  The comparison of FBG, FINS, and HOAM-IR in each group before and after intervention(x-± s)
+分组
+Group
+鼠数
+n
+干预前 干预后
+FBG
+(mmol / L)
+FINS
+(mU / L) HOMA-IR
+FBG
+(mmol / L)
+FINS
+(mU / L) HOMA-IR
+NC 10 5. 60 ± 0. 63 8. 36 ± 0. 53 2. 06 ± 0. 35 5. 24 ± 0. 82 9. 81 ± 0. 86 2. 22 ± 0. 47
+IR 10 7. 24 ± 0. 77a 9. 69 ± 0. 45 3. 09 ± 0. 35a 7. 27 ± 0. 93a 10. 08 ± 0. 68 3. 20 ± 0. 47a
+Ex 10 7. 63 ± 0. 54a 9. 53 ± 0. 41 3. 22 ± 0. 38a 6. 83 ± 0. 59bc 8. 54 ± 0. 62 2. 58 ± 0. 59bc
+注:FBG: 空腹血糖 Fasting blood glucose; FINS: 空腹胰岛素 Fasting insulin; HOMA-IR: 稳态模型评估的胰岛素抵抗指数 Homeostasis model
+assessment for insulin resistance; 其他略语同表 1 The other abbreviations are the same as Tab 1; 与 NC 组比较 vs NC group,aP<0. 05;与 IR 组比较 vs IR
+group,bP<0. 05;与同组干预前比较 vs Before intervention in the same group,cP<0. 05
+注:略语同表 1 The abbreviations are the same as Tab 1
+图 1  各组小鼠骨骼肌糖原含量的比较(PAS×400)
+Fig 1  The comparison of muscle glycogen content in each group(PAS×400)
+示,各组间比较采用 t 检验和方差分析,P<0. 05 为差
+异有统计学意义。
+结    果
+一、 各组小鼠不同阶段体重的变化
+干预前,与 NC 组比较,IR 组及 Ex 组小鼠体重增
+加,差异有统计学意义(P<0. 05);IR 组与 Ex 组小鼠
+体重之间无统计学差异(P>0. 05)。 干预后 IR 组及
+Ex 组小鼠体重仍高于 NC 组,差异有统计学意义(P<
+0. 05);IR 组与 Ex 组小鼠体重之间无统计学差异(P>
+0. 05,表 1)。 3 组干预后与干预前相比,小鼠体重均
+增加,但 IR 组增加最显著。
+二、 各组小鼠不同阶段 FBG、FINS、HOMA-IR 的
+变化
+干预前,与 NC 组比较,IR 对照组及 Ex 组小鼠
+FBG 和 HOMA-IR 增高,差异有统计学意义 (均 P <
+0. 05), FINS 增高不明显,差异无统计学意义 (P >
+0. 05);IR 组与 Ex 组小鼠 FBG、FINS 及 HOMA-IR 之
+间无统计学差异(P>0. 05)。 干预后,与同期 IR 组及
+干预前 Ex 组比较,干预后 Ex 组小鼠 FBG 及 HOMA-IR
+注: IRC:胰岛素受体 Insulin receptor;其他略语同表 1 The other
+abbreviations are the same as Tab 1;与 NC 组比较 vs NC group,a P<0. 05;与
+IR 组比较 vs IR group,bP<0. 05
+图 2  各组小鼠骨骼肌 IRC 蛋白表达的比较
+Fig 2  The comparison of IRC protein expression in skeletal muscle of each
+group
+均下降,差异有统计学意义(P<0. 05),FINS 下降不明
+显,差异无统计学意义(P>0. 05,表 2)。
+三、 各组小鼠骨骼肌中糖原含量的比较
+NC 组骨骼肌细胞内紫红色着色广泛,着色颗粒较
+多, IR 组骨骼肌细胞内紫红色着色较少, Ex 组介于两
+者之间(图 1)。
+四、 各组小鼠骨骼肌中 IRC 表达的比较
+Western 印迹法显示,与 NC 组相比,IR 组骨骼肌
+注:AOD:平均光密度 Average optical density; 其他略语同表 1 和图 2 The other abbreviations are the same as Tab 1 and Fig 2; 与 NC 组比较 vs NC
+group,aP<0. 05;与 IR 组比较 vs IR group,bP<0. 05
+图 3  各组小鼠骨骼肌 IRC 表达的比较(免疫组化×200)
+Fig 3  The comparison of IRC expression in skeletal muscle of each group(IHC×200)
+注:IRS-1: 胰岛素受体底底物1 Insulin receptor substrate-1; AOD:为平均光密度 Average optical density;其他略语同表1 The other abbreviations are the
+same as Tab 1; 与 NC 组比较 vs NC group,aP<0. 05;与 IR 组比较 vs IR group,bP<0. 05
+图 4  各组小鼠骨骼肌 IRS-1 表达的比较(免疫组化×200)
+Fig 4  The comparison of IRS-1 expression in skeletal muscle of each group(IHC×200)
+中 IRC 的表达显著降低, 差异有统计学意义 ( P <
+0. 05),Ex 组骨骼肌中 IRC 的表达无明显降低(P >
+0. 05);与 IR 组相比,Ex 组骨骼肌中 IRC 的表达增加
+(P<0. 05,图 2)。 免疫组化显示 NC 组骨骼肌细胞内
+棕黄色着色广泛,着色颗粒较多,而 IR 组骨骼肌细胞
+内棕黄色着色较少, Ex 组骨骼肌细胞内棕黄色着色介
+于两者之间。 应用 IPP 软件分析其平均光密度(AOD
+值)得出,与 NC 组相比,IR 组的 AOD 值显著降低,差
+异有统计学意义(P <0. 05),Ex 组无明显降低(P >
+0. 05);与 IR 组相比,Ex 组的 AOD 值增加,差异有统
+计学意义(P<0. 05,图 3)
+五、 各组小鼠骨骼肌中 IRS-1 表达的比较
+免疫组化显示 NC 组骨骼肌细胞内棕黄色着色广
+泛,着色颗粒较多,而 IR 组骨骼肌细胞内棕黄色着色
+较少,Ex 组骨骼肌细胞内棕黄色着色介于两者之间。
+应用 IPP 软件分析其 AOD 值得出,与 NC 组相比,IR
+对照组的 AOD 值显著降低,差异有统计学意义(P<
+0. 05),Ex 组无明显降低(P>0. 05);与 IR 组相比,Ex
+组的 AOD 值增加(P<0. 05,图 4)
+六、 各组小鼠骨骼肌中 PI3K 表达的比较
+与 NC 组相比,IR 对照组骨骼肌中 PI3K 的蛋白表
+达显著降低(P<0. 05),Ex 组骨骼肌中 PI3K 的表达无
+明显降低(P >0. 05);与 IR 组相比,Ex 组骨骼肌中
+PI3K 的表达增加(P<0. 05, 图 5)。
+注:PI3K: 磷脂酰肌醇 3 激酶 Phosphatidylinositol 3-kinase; 与 NC 组
+比较 vs NC group,aP<0. 05;与 IR 组比较 vs IR group,bP<0. 05
+图 5  各组小鼠骨骼肌 PI3K 蛋白表达的比较
+Fig 5  The comparison of PI3K protein expression in skeletal muscle of each
+group
+讨    论
+本研究利用艾塞那肽干预 IR 小鼠模型,探讨了艾
+塞那肽对骨骼肌胰岛素信号通路的作用。 目前,国内
+外公认的评估 IR 的金标准是高胰岛素-正葡萄糖钳夹
+技术,这种测定技术具有准确定量和重复性好等优点。
+但由于该技术需要精确的定量输液仪器及频繁测定血
+糖,费用较大,在全国并未完全普及。 本实验利用另外
+一种评定机体 IR 的方法即 HOMA-IR。 HOMA-IR 是
+一种根据 FBG 和 FINS 来综合评价机体 IR 程度的有
+效方法,因其简单方便且花费小,已被广泛应用于流行
+病学和临床研究。 本研究中以 HOMA-IR>2. 7 作为衡
+量小鼠 IR 造模成功的标准[7],高脂饲料喂养小鼠 16
+周后,IR 组小鼠的 HOMA-IR>2. 7,表明 IR 小鼠模型
+成功建立。
+生理状态下,胰岛素调节血糖稳态是通过 IRC /
+IRS-1 / PI3K /蛋白激酶 B 或非典型蛋白激酶 C /葡萄糖
+转运蛋白 4 信号途径,最终完成细胞对葡萄糖的摄取
+和利用[8]。 其中任一环节出现障碍均可削弱胰岛素
+刺激的葡萄糖摄取作用而导致机体胰岛素抵抗。 国外
+研究报道,糖尿病 ob / ob 小鼠肌肉和肝脏组织内 IRS-1
+蛋白表达明显降低[9],高脂饲料喂养的小鼠骨骼肌细
+胞中 PI3K 的表达减少,影响下游葡萄糖转运蛋白 4 的
+合成和转位等变化,导致肌糖原的合成减少[10]。 本研
+究结果显示,高脂喂养诱导的 IR 小鼠骨骼肌中 IRC、
+IRS-1、PI3K 表达及肌糖原的含量较正常对照组明显
+降低,与上述研究一致。
+GLP-1 是一类肠道分泌的肽类激素,由 30 个氨基
+酸组成,是胰升糖素原基因翻译加工后的产物,主要在
+空肠末端、回肠和结肠上皮的 L 细胞内合成[4]。 GLP-1
+已被证实具有明显的抗糖尿病作用,并且被广泛应用
+于 2 型糖尿病的治疗。 GLP-1 及其类似物除了能促进
+胰岛素分泌,还可以增加脂肪细胞和肝细胞的胰岛素
+敏感性,改善组织胰岛素抵抗状态。 研究发现,GLP-1
+受体激动剂可上调脂肪细胞 IRC 和 IRS-1 的表达,增
+加胰岛素介导的葡萄糖摄取和利用,改善脂肪细胞胰
+岛素抵抗[5]。 Park 等[6] 的研究也表明 GLP-1 受体激
+动剂可上调肝细胞内 IRS-2 的表达,促进细胞内信号
+转导,增加肝细胞胰岛素敏感性。 另外,也有研究报道
+GLP-1 受体激动剂能够增加大鼠及人骨骼肌细胞中
+PI3K 的表达,促进骨骼肌对葡萄糖的摄取,增加肌糖
+原的合成[11-14]。 本研究中高脂喂养诱导的 IR 小鼠经
+艾塞那肽干预 4 周后,小鼠骨骼肌中 IRC、IRS-1、PI3K
+的表达及肌糖原的含量较 IR 对照组小鼠明显增加,表
+明 GLP-1 受体激动剂不仅可以促进胰岛素的分泌,还
+可以上调胰岛素转导途径中信号分子的表达,改善骨
+骼肌的胰岛素抵抗。
+综上所述,IR 时骨骼肌 IRC、IRS-1 及 PI3K 表达
+降低,肌糖原合成减少,GLP-1 受体激动剂艾塞那肽有
+上调 IRC、IRS-1 及 PI3K 的表达,增加肌糖原合成,改
+善骨骼肌胰岛素抵抗的作用。 骨骼肌是餐后葡萄糖的
+主要处理场所,因此改善骨骼肌胰岛素抵抗,增加骨骼
+肌葡萄糖的利用,对血糖水平的调节和糖尿病的治疗
+有重要意义。

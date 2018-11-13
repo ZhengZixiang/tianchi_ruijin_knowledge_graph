@@ -1,0 +1,448 @@
+T1	Disease 183 189	1 型糖尿病
+T2	Disease 1928 1934	1 型糖尿病
+T3	Disease 2481 2487	1 型糖尿病
+T4	Disease 2630 2636	1 型糖尿病
+T5	Disease 3075 3078;3079 3082	1 型 糖尿病
+T6	Disease 4554 4560	1 型糖尿病
+T7	Disease 1987 1993	2 型糖尿病
+T8	Disease 2497 2503	2 型糖尿病
+T9	Disease 3102 3108	2 型糖尿病
+T10	Disease 3299 3305	2 型糖尿病
+T11	Disease 5714 5720	2 型糖尿病
+T12	Disease 5882 5888	2 型糖尿病
+T13	Disease 6166 6172	2 型糖尿病
+T14	Disease 9209 9215	2 型糖尿病
+T15	Test 7033 7038	HBA1C
+T16	Test 7070 7075	HBA1C
+T17	Test 7168 7173	HBA1C
+T18	Test 7229 7234	HBA1C
+T19	Test 7273 7278	HBA1C
+T20	Test 7517 7522	HBA1C
+T21	Test 7547 7552	HBA1C
+T22	Test 7595 7600	HBA1C
+T23	Test 8401 8406	HBA1C
+T24	Test 8846 8851	HBA1C
+T25	Test 8957 8962	HBA1C
+T26	Test 9020 9025	HBA1C
+T27	Drug 7334 7338	二甲双胍
+T28	Drug 8146 8150	二甲双胍
+T29	Drug 8909 8913	二甲双胍
+T30	Test 8106 8110	空腹血糖
+T31	Test 3363 3368	游离脂肪酸
+T32	Test 5339 5344	游离脂肪酸
+T33	Test 5838 5842	餐后血糖
+T34	Test 5980 5982;5983 5985	餐后 血糖
+T35	Test 6289 6293	餐后血糖
+T36	Test 4885 4887	身高
+T37	Anatomy 3793 3799	白色脂肪组织
+T38	Anatomy 4014 4020	白色脂肪组织
+T39	Disease 6041 6046;6047 6048	2 型糖尿 病
+T40	Drug 7566 7571	基础胰岛素
+T41	Drug 8903 8908	甘精胰岛素
+T42	Test 7183 7188	HbA1C
+T43	Disease 94 98	黎明现象
+T44	Disease 101 105	黎明现象
+T45	Disease 130 134	黎明现象
+T46	Disease 212 216	黎明现象
+T47	Disease 239 243	黎明现象
+T48	Disease 245 249	黎明现象
+T49	Disease 312 315;316 317	黎明现 象
+T50	Disease 366 370	黎明现象
+T51	Disease 407 411	黎明现象
+T52	Disease 416 420	黎明现象
+T53	Disease 1866 1870	黎明现象
+T54	Disease 1961 1965	黎明现象
+T55	Disease 2012 2016	黎明现象
+T56	Disease 2053 2057	黎明现象
+T57	Disease 2189 2193	黎明现象
+T58	Disease 2204 2208	黎明现象
+T59	Disease 2236 2240	黎明现象
+T60	Disease 2315 2319	黎明现象
+T61	Disease 2341 2345	黎明现象
+T62	Disease 2374 2378	黎明现象
+T63	Disease 2448 2452	黎明现象
+T64	Disease 2507 2510;2511 2512	黎明现 象
+T65	Disease 2569 2573	黎明现象
+T66	Disease 2595 2599	黎明现象
+T67	Disease 2643 2647	黎明现象
+T68	Disease 2656 2660	黎明现象
+T69	Disease 2668 2672	黎明现象
+T70	Disease 2690 2693;2694 2695	黎明现 象
+T71	Disease 2891 2895	黎明现象
+T72	Disease 3025 3029	黎明现象
+T73	Disease 3087 3091	黎明现象
+T74	Disease 4528 4532	黎明现象
+T75	Disease 4614 4618	黎明现象
+T76	Disease 4725 4729	黎明现象
+T77	Disease 4779 4783	黎明现象
+T78	Disease 5395 5399	黎明现象
+T79	Disease 5633 5637	黎明现象
+T80	Disease 5679 5683	黎明现象
+T81	Disease 6256 6260	黎明现象
+T82	Disease 6299 6303	黎明现象
+T83	Disease 6308 6312	黎明现象
+T84	Disease 6318 6322	黎明现象
+T85	Disease 6382 6386	黎明现象
+T86	Disease 6483 6487	黎明现象
+T87	Disease 6529 6533	黎明现象
+T88	Disease 6592 6596	黎明现象
+T89	Disease 6600 6604	黎明现象
+T90	Disease 6938 6942	黎明现象
+T91	Disease 6970 6974	黎明现象
+T92	Disease 6977 6981	黎明现象
+T93	Disease 7012 7016	黎明现象
+T94	Disease 7020 7024	黎明现象
+T95	Disease 7048 7052	黎明现象
+T96	Disease 7056 7060	黎明现象
+T97	Disease 7255 7259	黎明现象
+T98	Disease 7288 7292	黎明现象
+T99	Disease 7341 7345	黎明现象
+T100	Disease 7439 7443	黎明现象
+T101	Disease 7490 7494	黎明现象
+T102	Disease 7586 7590	黎明现象
+T103	Disease 7819 7823	黎明现象
+T104	Disease 7925 7929	黎明现象
+T105	Disease 8334 8338	黎明现象
+T106	Disease 8517 8521	黎明现象
+T107	Disease 8552 8556	黎明现象
+T108	Disease 8691 8695	黎明现象
+T109	Disease 8754 8758	黎明现象
+T110	Disease 8808 8812	黎明现象
+T111	Disease 8923 8925;8926 8928	黎明 现象
+T112	Disease 8933 8937	黎明现象
+T113	Disease 9013 9015;9016 9018	黎明 现象
+T114	Disease 9044 9048	黎明现象
+T115	Disease 9120 9124	黎明现象
+T116	Disease 9164 9168	黎明现象
+T117	Disease 9308 9312	黎明现象
+T118	Disease 9335 9339	黎明现象
+T119	Disease 9343 9347	黎明现象
+T120	Disease 9442 9446	黎明现象
+T121	Disease 9484 9488	黎明现象
+T122	Test 4052 4055	JNK
+T123	Test 146 150	夜间血糖
+T124	Test 155 159	清晨血糖
+T125	Test 203 205	血糖
+T126	Test 325 332	夜间血糖最低值
+T127	Symptom 2100 2109	自发性血糖明显升高
+T128	Symptom 2405 2410	清晨高血糖
+T129	Test 3355 3357	血糖
+T130	Test 4604 4606	血糖
+T131	Test 4665 4667	血糖
+T132	Test 4882 4884	血糖
+T133	Test 5790 5792	血糖
+T134	Test 5813 5815	血糖
+T135	Test 5940 5942	血糖
+T136	Test 6085 6087	血糖
+T137	Test 6095 6097	血糖
+T138	Test 6235 6237	血糖
+T139	Test 6245 6247	血糖
+T140	Test 6338 6340	血糖
+T141	Test 6554 6556	血糖
+T142	Test 7029 7031	血糖
+T143	Test 7065 7067	血糖
+T144	Test 7164 7166	血糖
+T145	Test 7191 7193	血糖
+T146	Test 7209 7211	血糖
+T147	Test 7906 7908	血糖
+T148	Test 8311 8313	血糖
+T149	Test 9353 9355	血糖
+T150	Test 9515 9517	血糖
+T151	Disease 137 140	糖尿病
+T152	Test_Value 159 163	明显升高
+T153	Test 164 169;170 171	胰岛素需要 量
+T154	Test_Value 171 175	显著增加
+T155	Test_Value 205 209	明显升高
+T156	Drug 373 381	长效胰岛素类似物
+T157	Symptom 2110 2119;2120 2121	胰岛素需要量显著增 高
+T158	Disease 2369 2372	糖尿病
+T159	Disease 2516 2526	somogyi 效应
+T160	Disease 2601 2611	somogyi 效应
+T161	Reason 2726 2734	持续性胰岛素抵抗
+T162	Disease 2743 2746	糖尿病
+T163	Anatomy 2773 2775	GH
+T164	Anatomy 2779 2787	胰岛素拮抗性激素
+T165	Reason 2823 2828	胰岛素抵抗
+T166	Anatomy 3045 3047	GH
+T167	Reason 3114 3119	胰岛素抵抗
+T168	Anatomy 3195 3197	肝脏
+T169	Anatomy 3198 3202	外周组织
+T170	Anatomy 3202 3205	胰岛素
+T171	Anatomy 3252 3254	GH
+T172	Anatomy 3349 3351	GH
+T173	Test_Value 228 232	异常升高
+T174	Reason 280 288	持续性胰岛素抵抗
+T175	Reason 271 279	内源性产糖量增高
+T176	Test 2171 2174	CGM
+T177	Test_Value 2789 2791	升高
+T178	Anatomy 2860 2863	胰岛素
+T179	Duration 3338 3342	16 h
+T180	Disease 9506 9509	糖尿病
+T181	Disease 9348 9351	糖尿病
+T182	Disease 91 94	糖尿病
+T183	Disease 2066 2069	糖尿病
+T184	Anatomy 2794 2797	胰岛素
+T185	Anatomy 3375 3379	胰岛素敏
+T186	Test_Value 3359 3360;3361 3362	升 高
+T187	Test_Value 3370 3372	升高
+T188	Test 3382 3388;3389 3392	胰岛素代谢清 除率值
+T189	Test_Value 3392 3394	下降
+T190	Reason 3409 3414	胰岛素抵抗
+T191	Drug 3423 3429	GH 拮抗剂
+T192	Drug 3429 3432	奥曲肽
+T193	Anatomy 3441 3443	GH
+T194	Disease 3455 3461	致胰岛素抵抗
+T195	Anatomy 3475 3477	GH
+T196	Anatomy 3479 3482	胰岛素
+T197	Anatomy 3673 3681	葡萄糖转运体 4
+T198	Anatomy 3685 3688	胰岛素
+T199	Anatomy 3698 3700	GH
+T200	Anatomy 3740 3742	GH
+T201	Anatomy 3749 3756	P85α 亚基
+T202	Anatomy 3762 3767	PI-3K
+T203	Anatomy 3803 3807	P85α
+T204	Anatomy 3816 3818	GH
+T205	Anatomy 3832 3837	PI-3K
+T206	Anatomy 3909 3915	SOCS-3
+T207	Anatomy 3931 3935	SOCS
+T208	Anatomy 3940 3942	GH
+T209	Symptom 3945 3950	胰岛素抵抗
+T210	Anatomy 3899 3903	SOCS
+T211	Anatomy 3969 3972	IRS
+T212	Anatomy 4001 4003	GH
+T213	Anatomy 4011 4013	肝脏
+T214	Anatomy 4044 4046	GH
+T215	Anatomy 4061 4064	IRS
+T216	Anatomy 4080 4084	PI3K
+T217	Anatomy 4090 4092	GH
+T218	Symptom 4095 4100	胰岛素抵抗
+T219	Anatomy 4029 4034	IRS-1
+T220	Anatomy 4127 4129	GH
+T221	Anatomy 4216 4221	IRS-1
+T222	Anatomy 4235 4240	PI-3K
+T223	Anatomy 4246 4249	胰岛素
+T224	Anatomy 4271 4279	葡萄糖转运体 4
+T225	Anatomy 4309 4311	GH
+T226	Disease 4314 4319	胰岛素抵抗
+T227	Reason 4325 4332	继发性脂解亢进
+T228	Anatomy 4349 4357	胰岛素样生长因子
+T229	Anatomy 4394 4398	IGBP
+T230	Anatomy 4399 4402	IGF
+T231	Anatomy 4387 4390	IGF
+T232	Anatomy 4426 4428;4429 4430	胰岛 素
+T233	Anatomy 4406 4408	GH
+T234	Symptom 4411 4416	胰岛素抵抗
+T235	Anatomy 4452 4455	IGF
+T236	Anatomy 4464 4468	IGBP
+T237	Anatomy 4469 4478	酸不变性蛋白亚单位
+T238	Anatomy 4482 4490	IGBP 复合体
+T239	Anatomy 4519 4525	IGBP-1
+T240	Test 4578 4584	IGBP-1
+T241	Test 4586 4594	游离 IGF-1
+T242	Test 4623 4629	IGBP-1
+T243	Test_Value 4636 4640	明显上升
+T244	Test 4642 4648	游离 IGF
+T245	Test_Value 4649 4653	明显降低
+T246	Test 4676 4682	IGBP-1
+T247	Test_Value 4690 4694	相对稳定
+T248	Reason 4699 4707	胰岛素的作用减弱
+T249	Reason 4712 4722	IGBP-1 的增高
+T250	Test 4747 4755	游离 IGF-1
+T251	Test 4760 4762	GH
+T252	Test_Value 4756 4758	降低
+T253	Test_Value 4763 4765	增高
+T254	Reason 4767 4774;4775 4776	胰岛素敏感性降 低
+T255	Disease 4845 4848	糖尿病
+T256	Anatomy 4897 4905	下丘脑视交叉上核
+T257	Symptom 4999 5003	潮式呼吸
+T258	Disease 5060 5063	糖尿病
+T259	Anatomy 5136 5138	GH
+T260	Anatomy 5167 5173	FGF-21
+T261	Anatomy 5151 5153	脂肪
+T262	Anatomy 5154 5156	肌肉
+T263	Anatomy 5157 5158;5159 5160	胰 岛
+T264	Anatomy 5178 5190;5191 5192	过氧化物酶体增殖剂激活受 体
+T265	Anatomy 5237 5243	PPAR)α
+T266	Anatomy 5251 5256	PPARγ
+T267	Anatomy 5259 5262	胰岛素
+T268	Anatomy 5271 5277	FGF-21
+T269	Anatomy 5390 5392	GH
+T270	Anatomy 5404 5410	FGF-21
+T271	Anatomy 5280 5282	GH
+T272	Anatomy 5290 5301	下丘脑-垂体-肾上腺轴
+T273	Anatomy 5436 5439	胰岛素
+T274	Anatomy 5446 5450	胰升糖素
+T275	Anatomy 5451 5455	儿茶酚胺
+T276	Anatomy 5456 5459	皮质醇
+T277	Disease 5482 5485	糖尿病
+T278	Test 5493 5495;5496 5498	儿茶 酚胺
+T279	Test 5499 5502	皮质醇
+T280	Test 5503 5510	胰岛素拮抗激素
+T281	Test 5545 5549	胰升糖素
+T282	Test 5550 5553	皮质醇
+T283	Test 5562 5563;5564 5567	儿 茶酚胺
+T284	Anatomy 5662 5665	胰岛素
+T285	Test 5793 5796	胰岛素
+T286	Anatomy 5960 5963	胰岛素
+T287	Drug 6158 6161	胰岛素
+T288	Test_Value 6203 6217	0. 89 mmol / L
+T289	Test 6375 6377	坠G
+T290	Anatomy 6424 6427	静脉血
+T291	Test 6430 6432	GH
+T292	Test_Value 6437 6446	≥5 μg / L
+T293	Test 6449 6451	坠G
+T294	Test_Value 6451 6466	>0. 56 mmol / L
+T295	Test_Value 6467 6477	10 mg / dl
+T296	Test 6519 6521	坠G
+T297	Test 6581 6583	坠G
+T298	Test_Value 6587 6588	0
+T299	Test 6615 6617	坠G
+T300	Test 6656 6658	坠G
+T301	Test 6693 6696	坠G%
+T302	Test 6746 6748	坠G
+T303	Test 6822 6824	坠G
+T304	Test 6847 6849	坠G
+T305	Test_Value 6617 6618;6619 6646	> 0. 56 mmol / L (10 mg / dl)
+T306	Test_Value 6659 6679;6680 6688	> 1. 11 mmol / L (20 mg / dl)
+T307	Test_Value 6697 6704	> 6. 9%
+T308	Test_Value 6748 6775	>1. 11 mmol / L(20 mg / dl)
+T309	Test_Value 6828 6842	0. 89 mmol / L
+T310	Test_Value 6860 6874	0. 83 mmol / L
+T311	Test_Value 6877 6891	1. 11 mmol / L
+T312	Disease 6928 6931	糖尿病
+T313	Test 6950 6952	坠G
+T314	Test_Value 6952 6967	>1. 11 mmol / L
+T315	Disease 6989 6992	糖尿病
+T316	Test_Value 7083 7109	0. 67 mmol / L(12 mg / dl)
+T317	Test_Value 7111 7119;7120 7131	0. 4% (4 mmol / mol)
+T318	Test_Value 7215 7228	1. 6 mmol / L
+T319	Test 7195 7199	ADAG
+T320	Test_Value 7239 7241	1%
+T321	Test_Value 7278 7286	小于 7. 0%
+T322	Method 7328 7330	口服
+T323	Amount 7330 7331;7332 7334	小 剂量
+T324	Symptom 7380 7385	胰岛素抵抗
+T325	Drug 7453 7454;7455 7460	磺 脲类降糖药
+T326	Drug 7497 7500	胰岛素
+T327	Test_Value 7522 7530	高于 7. 0%
+T328	Test_Value 7552 7560	低于 7. 0%
+T329	Test_Value 7604 7611	7. 0%之下
+T330	Drug 7623 7626	胰岛素
+T331	Drug 7639 7644;7645 7649	中效低精蛋 白胰岛素
+T332	Method 7632 7637	一天三餐前
+T333	Drug 7678 7681	NPH
+T334	Drug 7687 7690;7691 7696	长效胰 岛素类似物
+T335	Drug 7727 7732	LA-IA
+T336	Drug 7735 7739	胰岛素泵
+T337	Drug 7783 7787	CSII
+T338	Drug 7796 7799	NPH
+T339	Method 7683 7685	睡前
+T340	Drug 7831 7836	LA-IA
+T341	Drug 7839 7843	CSII
+T342	Drug 7936 7939	NPH
+T343	Drug 7947 7952	LA-IA
+T344	Drug 7955 7959	CSII
+T345	Drug 8004 8009	LA-IA
+T346	Drug 8012 8015	NPH
+T347	Drug 8094 8099	LA-IA
+T348	Test_Value 8111 8124;8125 8133	(3. 1 ± 2. 5) mmol / L
+T349	Test_Value 8154 8161;8162 8176	(1. 4 ± 1. 5) mmol / L
+T350	Method 8142 8146	睡前口服
+T351	Duration 8086 8090	36 周
+T352	Method 8091 8093	睡前
+T353	Drug 8191 8195	CSII
+T354	Anatomy 8223 8226	胰岛素
+T355	Drug 8281 8285	CSII
+T356	Test 8316 8325	IGBP-1 水平
+T357	Duration 8377 8380	7 年
+T358	Test_Value 8406 8423	降低了 0. 7% ~ 0. 9%
+T359	Drug 8382 8386	CSII
+T360	Drug 8479 8483	CSII
+T361	Duration 8394 8399	前 3 年
+T362	Drug 8538 8542	CSII
+T363	Test_Value 8942 8956	1. 00 mmol / L
+T364	Test_Value 8852 8868	(6. 89 ± 0. 05)%
+T365	Amount 8882 8887;8888 8902	(0. 2 ± 0. 02)U / Kg
+T366	Disease 8869 8872	糖尿病
+T367	Test_Value 8966 8980	(6. 5 ± 0. 1)%
+T368	Duration 8916 8920	6 个月
+T369	Test_Value 8762 8776	0. 94 mmol / L
+T370	Drug 8777 8782	LA-IA
+T371	Amount 8785 8806	(0. 25 ± 0. 02)U / kg
+T372	Drug 8604 8608	CSII
+T373	Drug 8611 8615	CSII
+T374	Drug 8647 8650	胰岛素
+T375	Drug 8659 8662	NPH
+T376	Drug 8715 8719	CSII
+T377	Amount 8664 8688	[(0. 22 ± 0. 03) U / kg]
+T378	Test_Value 8700 8705;8706 8714	3. 06 mmol / L
+T379	Amount 8722 8740	(0. 7 ± 0. 1)U / h
+T380	Drug 8741 8746	速效胰岛素
+T381	Method 8878 8882	睡前注射
+T382	Drug 9054 9057	赛庚啶
+T383	Anatomy 9064 9065;9066 9067	组 胺
+T384	Anatomy 9070 9075	5-羟色胺
+T385	Anatomy 9080 9084	垂体前叶
+T386	Anatomy 9087 9089	GH
+T387	Anatomy 9091 9097;9098 9100	促肾上腺皮质 激素
+T388	Reason 9137 9146	FGF-21 抵抗
+T389	Disease 9149 9156	全身胰岛素抵抗
+T390	Drug 9195 9205	FGF-21 类似物
+T391	Disease 9216 9218	肥胖
+T392	Drug 9265 9274	新型 GH 抑制剂
+T393	Drug 9274 9278	培维索孟
+T394	Drug 9285 9290;9291 9292	GH 抑制 剂
+T395	SideEff 9294 9299	糖耐量减低
+T396	Test 222 227	早餐后血糖
+T397	Reason 2388 2392	黎明现象
+T398	Anatomy 3643 3649	Akt 激酶
+T399	Test 299 305	动态血糖监测
+T400	Test 333 339	早餐前血糖值
+T401	Test 2071 2075	夜间血糖
+T402	Test 2132 2138	动态血糖监测
+T403	Symptom 2224 2234	清晨至早餐前血糖升高
+T404	Test 5487 5492	胰高血糖素
+T405	Symptom 5568 5573	清晨高血糖
+T406	SideEff 5645 5650	夜间低血糖
+T407	Test 6185 6189	餐前血糖
+T408	Test 6191 6195	夜间血糖
+T409	Symptom 6263 6266;6267 6269	异常高 血糖
+T410	Test 6330 6334	夜间血糖
+T411	Test 6352 6356	夜间血糖
+T412	Test 6360 6365	早餐前血糖
+T413	Test 6566 6570	夜间血糖
+T414	Test 6574 6579	早餐前血糖
+T415	Test 6996 6998	血糖
+T416	SideEff 7462 7467	夜间低血糖
+T417	Symptom 7579 7580;7581 7585	夜 间高血糖
+T418	SideEff 7813 7818	夜间低血糖
+T419	SideEff 8031 8036	夜间低血糖
+T420	Test 8199 8203	夜间血糖
+T421	Test 8204 8208	清晨血糖
+T422	SideEff 8444 8452	无症状夜间低血糖
+T423	SideEff 8454 8457	低血糖
+T424	SideEff 8577 8580	低血糖
+T425	Disease 251 262	胰岛 β 细胞功能减退
+T426	Test_Value 346 361	>1. 11 mmol / L
+T427	Drug 382 385	胰岛素
+T428	Symptom 1940 1955	清晨空腹和早餐后的血糖异常升高
+T429	SideEff 2084 2089	低血糖事件
+T430	Symptom 2245 2247;2248 2256	早餐 后血糖的异常升高
+T431	Reason 2394 2404	somogyi 效应
+T432	Disease 2622 2625	糖尿病
+T433	Reason 2697 2708	胰岛 β 细胞功能减退
+T434	Reason 2716 2723;2724 2725	内源性产糖量增 高
+T435	Anatomy 2753 2757	生长激素
+T436	Test 2871 2872;2873 2878	胰 岛素敏感性
+T437	Anatomy 2907 2919	胰岛素样生长因子结合蛋白
+T438	Anatomy 2966 2970	IGBP
+T439	Anatomy 2972 2984	成纤维细胞生长因子 21
+T440	Anatomy 3015 3021	FGF-21
+T441	Anatomy 3048 3050	GH
+T442	Disease 3053 3058	胰岛素抵抗
+T443	Anatomy 3070 3072	GH
+T444	Anatomy 3134 3136	GH
+T445	Anatomy 3189 3191	GH
+T446	Drug 3320 3322	GH
+T447	Drug 3323 3326	奥曲肽
+T448	Test 4804 4810	胰岛素敏感性

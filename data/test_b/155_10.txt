@@ -1,0 +1,323 @@
+基础研究
+基金项目:国家自然科学基金(31271260);江苏省高校自然科学基
+金重点项目(14KJA180006)。
+波);南通大学神经再生重点实验室(王美红、孙诚);南通大学附属医院
+内分泌科(崔世维、唐祝奇);第一作者现在南通大学附属医院内分泌科
+骨形态发生蛋白 7 对 C2C12 及 HepG2 细胞胰
+岛素信号传导的负调控作用研究
+姚丽丽  成兴波  王美红  崔世维  唐祝奇  孙诚
+[摘要]   目的  研究骨形态发生蛋白 7(BMP7)对骨骼肌细胞 C2C12 及肝细胞 HepG2 胰岛素信号途
+径的影响,并初步探讨其作用机制。 方法 用不同浓度 BMP7 处理骨骼肌细胞 C2C12 及肝实质细胞
+HepG2,用 Western 印迹方法检测胰岛素信号途径中各主要蛋白的变化。 同时,提取细胞总 RNA 后用定量
+PCR 方法检测 BMP7 对胰岛素效应分子基因表达的影响。 另外,用 Western 印迹方法检测 BMP7 对 JNK 信
+号途径的影响。 结果 在分化的 C2C12 与 HepG2 细胞中,胰岛素处理可显著增加磷酸化胰岛素受体
+(p-IR)、磷酸化 Akt(p-Akt)及磷酸化糖原合成酶 3β(p-GSK3β)的表达,并促进葡萄糖向细胞内的转运(P<
+0. 05)。 而 BMP7 处理可明显降低胰岛素对这些磷酸化蛋白的刺激,并可抑制胰岛素诱导的葡萄糖向细胞
+内的转运(P<0. 05)。 BMP7 处理对胰岛素效应分子 Akt1、胰岛素样生长因子受体( Igf1r)、胰岛素受体
+(Insr)及胰岛素受体底物(Irs1)的基因表达均没有显著影响。 在 HepG2 细胞中,BMP7 处理 5 min 即可提
+高磷酸化 JNK 信号通路,随着作用时间的延长这种促进作用逐渐减弱。 结论 BMP7 降低 HepG2 及 C2C12
+细胞中的胰岛素信号传递,这种抑制作用可能是通过激活 JNK 信号途径实现的。
+[关键词]   骨形态发生蛋白-7; 胰岛素信号传导; 葡萄糖
+Bone morphogenetic protein-7 negatively regulates insulin signal transduction in C2C12 myotubes and HepG2
+hepatocytes Yao Lili *, Cheng Xingbo, Wang Meihong, Cui Shiwei, Tang Zhuqi, Sun Cheng. *Department of
+Endocrinology, First Affiliated Hospital of Suzhou University, Suzhou 215006, China
+[Abstract]   Objective   To investigate the effects of bone morphogenetic protein-7 ( BMP7) on insulin
+signaling transduction in C2C12 myotubes and HepG2 hepatocytes, and the underlying mechanisms were studied
+preliminarily. Methods The C2C12 myotubes and HepG2 cells were treated with BMP7 at different
+concentrations. The insulin signal transduction was analyzed by Western blot. Meanwhile, total RNA was extracted
+and quantitative PCR was employed for detecting the effects of BMP7 on gene expressions of effectors involved in
+insulin signal pathway. Furthermore, JNK signal pathway was also measured. Results The protein levels of p-IR,
+p-Akt and p-GSK3β, as well as glucose uptake, were significantly stimulated by insulin in the C2C12 myotubes and
+HepG2 cells. However, these stimulations induced by insulin were largely attenuated by BMP7. The mRNA levels of
+Akt1, Igf1r, Insr, and Irs1 were not altered by the treatment of BMP7. The JNK signal pathway was activated by a
+5-min exposure of BMP7 in the HepG2 cells, and this activation was gradually reduced along with the treating
+time. Conclusion BMP7 attenuates the insulin signal transduction in the HepG2 cells and C2C12 myotubes, and this
+attenuation effect may be through JNK activation.
+[Key words]  Bone morphogenetic protein-7; Insulin signal transduction; Glucose
+(Chin J Endocrinol Metab, 2016, 32: 128-132)
+胰岛素由胰腺胰岛 β 细胞分泌,通过与肝脏、骨
+骼肌和脂肪等组织的胰岛素受体结合,激活一系列下
+游信号传导通路,促进外周血液中葡萄糖向上述各组
+织细胞中的转运,最终达到调节血糖的生理作用。 当
+机体发生胰岛素抵抗或胰岛素分泌不足时,外周血液
+中的葡萄糖不能转运至肝脏、骨骼肌和脂肪等组织,进
+而诱发高血糖症,长时间高血糖将最终导致糖尿病的
+发生与发展[1]。 大量研究表明导致胰岛素抵抗的因
+素主要有以下三个方面:异常的脂质代谢产物;激活的
+未折叠蛋白反应(unfold protein response, UPR)和机体
+固有免疫信号途径[2]。 值得注意的是,c-Jun 氨基端激
+酶(c-Jun NH2-terminal kinases, JNK)的激活均发生于
+上述三种主要导致胰岛素抵抗的因素之中,而且有证
+据表明 JNK 激活可诱导胰岛素抵抗[2-3]。 这些结果说
+明 JNK 信号途径的激活可导致胰岛素抵抗,其主要作
+用机制为 JNK 可磷酸化胰岛素受体底物 ( insulin
+receptor substrate, IRS)307 位丝氨酸,该位点磷酸化修
+饰可阻止胰岛素信号传导,从而导致胰岛素抵抗[4]。
+骨形态发生蛋白 7(Bone morphogenetic protein-7,
+BMP-7)是 TGFβ 超家族蛋白因子的成员之一,广泛分
+布于胸腺、骨髓、骨骼肌、肝脏、肾等部位,对骨、神经以
+及肾等组织的发育与分化均具有重要调控作用[5]。
+最近,已有研究表明 BMP7 可诱导白色脂肪组织向褐
+色脂肪组织分化,并且在 2 型糖尿病小鼠肝脏中过表
+达 BMP7 可降低其体重,提高葡萄糖耐受和胰岛素耐
+受水平[6-7]。 但这些报道均没有涉及 BMP7 对肝脏、肌
+肉等组织胰岛素信号通路的影响。 本研究旨在通过研
+究 BMP7 对肝脏及肌肉细胞的胰岛素信号通路的影
+响,并对其分子机制进行初步探讨,以期深入了解
+BMP7 在胰岛素抵抗及糖尿病发生发展过程中的作
+用。
+材料和方法
+一、 细胞培养与处理
+人源肝实质细胞株 HepG2 及小鼠骨骼肌细胞株
+C2C12 购自于中国科学院上海生命科学研究院细胞资
+源中心。 HepG2 与 C2C12 细胞培养于 DMEM 培养基
+(Gibco),内含 10% FBS(Sigma)。 为诱导肌管细胞,
+C2C12 细胞培养于 6 孔细胞培养板内,待细胞密度长
+至 95% 时,将细胞培养基换为肌管细胞分化培养基
+(DMEM+2%马血清),隔天换培养基,持续分化 7 d,
+显微镜下观察可见数个细胞融合形成肌管。 细胞培养
+置于细胞培养箱,37℃,5% CO2。
+在进行处理之前,细胞培养基换成低糖无血清
+DMEM,饥饿培养 6 h 后加入 BMP7(PeproTech)处理
+30 min,再用胰岛素(10 nmol / L; Sigma)处理 5 min。 全
+细胞蛋白样品制备方法如前文所述[8]。 处理结束后
+收集细胞,加入细胞裂解液(25 mmol / L Tris-HCl,pH
+7. 4;2 mmol / L Na3 VO4; 10 mmol / L NaF;10 mmol / L
+Na4P2O7; 1 mmol / L EGTA; 1 mmol / L EDTA; 1%
+NP-40;10 μg / ml Leupeptin;10 μg / ml Aprotinin;2 mmol / L
+PMSF;20 nmol / L Okadaic acid),细胞经充分裂解后
+12 000 rpm 离心 15 min(4℃)。 吸取上清用 BCA 法测
+定各样品蛋白浓度,根据所测蛋白浓度制备全细胞蛋
+白样品,用于后续蛋白分析。
+二、 Western 印迹检测蛋白表达
+Western 印迹检测蛋白步骤如前文所述[8]。 简述
+如下,取上述制备好的全细胞蛋白样品 50 μg 进行
+SDS-PAGE 电泳分离(10% 分离胶和 4% 浓缩胶),通
+过湿法转印法将分离胶中蛋白转移至 0. 22 滋m 的
+PVDF 膜上,恒压 100 V 转膜 120 min;PVDF 膜经封闭
+1 h 后,加入一抗:兔单克隆抗体 p-IR 及 IR、兔单克隆
+抗体 p-Akt 及 Akt、兔单克隆抗体 p-GSK3β 及 GSK3β、
+兔单克隆抗体 p-JNK 及 JNK、兔单克隆抗体 p-cJun 及
+cJun、兔单克隆抗体 p-ATF2 及 ATF2、兔单克隆抗体 β-
+tubulin(以上抗体均购自于 Cell Signaling Technology 公
+司,1 : 1 000 稀释)。 4℃孵育过夜,TBST 洗膜 4 次,每
+次 10 min;加入 HRP 标记的相应二抗作用液( Santa
+Cruz Biotechnology,1 : 10 000 稀释),室温 动孵育 1
+h,TBST 洗膜 4 次,每次 10 min;ECL(Millipore)化学发
+光,显影,拍照;Western 印迹检测条带用凝胶成像仪分
+析系统 Quantity One 软件扫描灰度值。 计算目的基因
+蛋白与 β-actin 灰度值的比值,进行统计学分析。
+三、 葡萄糖摄入测定
+葡萄糖摄入测定方法参照文献[9]。 主要步骤简
+述如下,细胞处理结束后,移除培养基,加入 Krebs-
+Ringer 磷酸盐缓冲液(128 mmol / L NaCl, 4. 7 mmol / L
+KCl, 5 mmol / L NaH2 PO4, 5 mmol / L Na2 HPO4, 1. 25
+mmol / L MgSO4, 1. 25 mmol / L CaCl2, pH 7. 4),按实验
+设计加入 10 nmol / L 胰岛素,置于细胞培养箱培养 20
+min。 然后加入终浓度为 1 滋Ci / ml 的 3H-2-deoxy-
+glucose ( Amersham ) 和 终 浓 度 为 0. 1 mmol / L 的
+2-deoxyglucose,继续培养 5 min 后移除细胞培养缓冲
+液,细胞用冰冷的 PBS 清洗 4 次,加入 0. 5 mol / L
+NaOH 进行细胞裂解 30 min。 细胞裂解液中的放射性
+葡萄糖用液体闪烁计数仪(PerkinElmer)测定。
+四、 RNA 提取与定量 PCR 检测
+细胞处理结束后,利用 Trizol( Invitrogen)抽提细
+胞总 RNA,在逆转录试剂盒 iScript cDNA(Bio-Rad)的
+作用下将 RNA 逆转录成 cDNA,以此 cDNA 为模板对
+胰岛素信号途径中的效应分子的基因表达进行检测。
+定量 PCR 试剂盒采用 FastStart Essential DNA Green
+master( Roche),检测仪器为 StepOne Real-Time PCR
+System(Applied Biosystems)。 引物序列见表 1。
+五、 统计学处理
+实验结果采用 SPSS 17. 0 统计软件分析,组间数
+据差异分析采用独立样本 t 检验。 P<0. 05 认为有显
+著差异,P<0. 01 认为有极显著差异。
+结    果
+一、 BMP7 对 C2C12 细胞胰岛素信号传递及葡萄
+糖转运的影响
+为研究 BMP7 对胰岛素信号传递的影响,本次研
+究首先选用小鼠骨骼肌细胞株 C2C12 来进行研究。
+表 1  各检测基因引物序列
+Tab 1  Primer sequences of the genes
+引物
+Primer
+序列
+Sequence
+Murine Irs1 F: 5'-CGATGGCTTCTCAGACGTG-3'
+Murine Irs1 R: 5'-CAGCCCGCTTGTTGATGTTG-3'
+Human Irs1 F: 5'-ACAAACGCTTCTTCGTACTGC-3'
+Human Irs1 R: 5'-AGTCAGCCCGCTTGTTGATG-3'
+Murine Akt1 F: 5'-GGCCCCTGACCAGACCTTA-3'
+Murine Akt1 R: 5'-GATAGCCCGCATCCACTCTTC-3'
+Human Akt F: 5'-ACCACAGTCATCGAGAGGACC-3'
+Human Akt R: 5'-GGAGCCACACTTGTAGTCCA-3'
+Murine Igf1r F: 5'-GTGGGGGCTCGTGTTTCTC-3'
+Murine Igf1r R: 5'-GATCACCGTGCAGTTTTCCA-3'
+Human Igf1r F: 5'-TCGACATCCGCAACGACTATC-3'
+Human Igf1r R: 5'-CCAGGGCGTAGTTGTAGAAGAG-3'
+Murine Insr F: 5'-ATGGGCTTCGGGAGAGGAT-3'
+Murine Insr R: 5'-GGATGTCCATACCAGGGCAC-3'
+Human Insr F: 5'-AAAACGAGGCCCGAAGATTC-3'
+Human Insr R: 5'-GAGCCCATAGACCCGGAAG-3'
+注:F:上游 Forward; R:反向 Reverse
+采用体外诱导的方法使 C2C12 分化为肌管,无血清低
+糖培养基培养 6 h 后用不同浓度 BMP7 处理 30 min,再
+用胰岛素处理细胞 5 min,收集全细胞蛋白,用 Western
+印迹方法检测胰岛素信号途径中各主要蛋白的变化。
+如图 1A 所示,胰岛素处理可显著增加磷酸化胰岛素
+受体(p-IR)、磷酸化 Akt(p-Akt)及磷酸化糖原合成酶
+3β(p-GSK3β)。 而 BMP7 处理可明显降低胰岛素对这
+些磷酸化蛋白的刺激作用,并且这种降低作用与
+BMP7 呈浓度依赖关系(图 1A)。 这些结果说明 BMP7
+可降低 C2C12 细胞对胰岛素的响应。 为进一步验证
+BMP7 的上述作用,检测了 BMP7 对胰岛素刺激的葡
+萄糖转运的影响。 与胰岛素信号途径中磷酸化蛋白水
+平变化相似,胰岛素处理可显著促进葡萄糖向细胞内
+的转运,而 BMP7 处理则可抑制胰岛素的这种促进作
+用(图 1B)。
+注:p-IR:磷酸化胰岛素受体 Phosphorylated insulin receptor;p-Akt:磷
+酸化 Akt Phosphorylated Akt; p-GSK3β: 磷 酸 化 糖 原 合 成 酶 3β
+Phosphorylated glycogen synthase 3β;与无胰岛素、无 BMP7 处理组相比
+Compared with the cells without treatment of insulin and BMP7, aP<0. 05;与
+仅胰岛素处理组相比 Compared with the cells treated with insulin alone,
+bP<0. 05,cP<0. 01
+图 1  不同浓度 BMP7 对 C2C12 骨骼肌细胞胰岛素信号传递与葡萄糖
+摄入的影响
+Fig 1 Effects of BMP7 at different concentrations on insulin signal transduction
+and glucose uptake in the C2C12 myotubes
+二、 BMP7 对 HepG2 细胞胰岛素信号传递及葡萄
+糖转运的影响
+肝脏是除肌肉之外另一重要胰岛素响应器官,其
+对体内葡萄糖代谢具有重要调控作用。 在接下来的实
+验中,利用肝细胞株 HepG2 进一步研究 BMP7 对胰岛
+素信号传递的影响。 如图 2A 所示,胰岛素处理可显
+著促进 HepG2 细胞胰岛素信号的传递,如 p-IR、p-Akt
+及 p-GSK3β 蛋白水平在胰岛素的作用均大幅升高(图
+2A)。 然而 BMP7 处理则可削弱胰岛素的这种促进作
+用,并呈浓度依赖效应(图 2A)。 BMP7 的这种对胰岛
+素刺激作用的抑制效应也被葡萄糖转运实验证实(图
+2B)。 这些结果表明在肝细胞株 HepG 细胞中,BMP7
+处理可部分抑制胰岛素的信号传递。
+注:p-IR:磷酸化胰岛素受体 Phosphorylated insulin receptor;p-Akt:磷
+酸化 Akt Phosphorylated Akt; p-GSK3β: 磷 酸 化 糖 原 合 成 酶 3β
+Phosphorylated glycogen synthase 3β;与无胰岛素、无 BMP7 处理组相比
+Compared with the cells without treatment of insulin and BMP7, aP<0. 05;与
+仅胰岛素处理组相比 Compared with the cells treated with insulin alone,
+bP<0. 05,cP<0. 01
+图 2  不同浓度 BMP7 对 HepG2 细胞胰岛素信号传递与葡萄糖摄入的
+影响
+Fig 2 Effects of BMP7 at different concentrations on insulin signal transduction
+and glucose uptake in the HepG2 cells
+三、 BMP7 对胰岛素信号途径效应分子基因表达
+的影响
+上述研究结果显示,BMP7 对 C2C12 和 HepG2 细
+胞的胰岛素信号传递均有抑制作用。 为探讨这种抑制
+作用的分子机制,首先测定了 BMP7 对胰岛素信号效
+应分子基因表达的影响。 用 BMP7 处理分化的 C2C12
+细胞或 HepG2 细胞 16 h,提取细胞总 RNA 后用定量
+PCR 方法检测胰岛素效应分子如 Akt1、胰岛素样生长
+因子受体(Igf1r)、胰岛素受体( Insr)及胰岛素受体底
+物(Irs1)的基因表达情况。 如图 3A, B 所示,无论在
+C2C12 细胞中还是在 HepG2 细胞中,BMP7 处理对胰
+岛素效应分子的基因表达没有显著影响。 这些结果说
+明 BMP7 对胰岛素信号传递的抑制作用不是由于其对
+胰岛素信号途径效应分子基因表达的影响而实现的。
+四、 BMP7 对 JNK 信号途径的影响
+JNK 信号是细胞对外界刺激或胁迫的响应途
+径, 其下游主要信号分子包括 c-Jun 和 ATF2。 为探索
+注:Akt1:胰岛素效应分子 An effector responses to insulin stimulation;
+Igf1r:胰岛素样生长因子受体 Insulin-like growth factor 1 receptor;Insr:胰岛
+素受体 Insulin receptor;Irs1:胰岛素受体底物 1 Insulin receptor substrate 1
+图 3  BMP7 对 C2C12 和 HepG2 细胞胰岛素信号效应分子基因表达的
+影响
+Fig 3 Effects of BMP7 on gene expression of the effectors belong to insulin
+signal pathway in the C2C12 myotubes and HepG2 cells
+注:p-JNK:磷酸化 c-Jun 氨基端激酶 Phosphorylated c-Jun N-terminal
+kinase;JNK:c-Jun 氨基端激酶 c-Jun N-terminal kinase;p-c-Jun:磷酸化 c-
+Jun Phosphorylated c-Jun; p-ATF2: 磷 酸 化 激 活 型 转 录 因 子 2
+Phosphorylated activated transcriptional factor 2;ATF2:激活型转录因子 2
+Activated transcriptional factor; Tubulin:细胞微管蛋白,用作内参 Cell
+microtubule proteins, used as a loading control;vs 0, aP<0. 05, bP<0. 01
+图 4  BMP7 对 HepG2 细胞 JNK 信号途径的影响
+Fig 4  Effects of BMP7 on JNK signal pathway in the HepG2 cells
+BMP7 对细胞胰岛素信号途径的抑制机制,又检测了
+BMP7 对 JNK 途径的影响。 如图 4 所示,用 BMP7 处
+理 HepG2 细胞,作用 5 min 即可提高磷酸化 JNK
+(p-JNK)的蛋白水平,随着作用时间的延长这种促进
+作用逐渐减弱。 JNK 下游效应分子如 p-c-Jun,p-ATF2
+也呈类似变化。
+讨    论
+本研究采用体外细胞模型,即小鼠源骨骼肌细胞
+株 C2C12 和人源肝实质细胞株 HepG2,先对其用不同
+浓度的 BMP7 处理,后加入胰岛素以刺激细胞的胰岛
+素信号通路,结果发现 BMP7 处理可部分抑制胰岛素
+的生理作用,且这种抑制作用呈浓度依赖性。 为探讨
+BMP7 这一作用的分子机制,本实验进一步对胰岛素
+信号传导通路中的相关分子基因表达进行研究,发现
+BMP7 对胰岛素信号通路中的各种效应分子的基因表
+达无显著影响。 随后实验结果表明 BMP7 处理可激活
+JNK 信号途径传导,提示 BMP7 可能是通过激活 JNK
+活性来发挥对胰岛素信号传导的抑制作用。
+BMP7 最初是 1965 年被 Marshal Urist 发现,其早
+期被认知是因其成骨作用[5,10]。 随着研究领域的不断
+拓展,BMP7 的各种生理作用逐渐被发掘。 其中包括
+BMP7 对脂肪细胞的生成以及脂肪之间转换的调节,
+尤其是棕色脂肪组织[6]。 而棕色脂肪本身可通过产
+热增加能量消耗[11-13],而且在增加胰岛素的敏感性方
+面起着重要作用[14-15]。 由于 BMP7 在棕色脂肪组织诱
+导过程中的诱导作用,因而成为一种肥胖症及相关代
+谢综合症的潜在治疗因子。 但目前为止,还没有任何
+研究涉及 BMP7 对胰岛素信号传导的报道。 本研究对
+体外细细胞给予 BMP7 处理可明显降低胰岛素对磷酸
+化蛋白 p-IR、p-Akt、p-GSK3β 的刺激,并可抑制胰岛素
+对葡萄糖向细胞内的转运促进作用。 基因表达检测表
+明 BMP7 对胰岛素信号途径中的效应分子如 Akt1、
+Igf1r、Insr 及 Irs1 无显著影响,说明 BMP7 可能是通过
+其他途径影响胰岛素信号传导的。
+BMP7 通过与不同的细胞膜受体结合来完成信号
+转导,从而实现其生物学效应。 BMP 的受体分别包含
+有:三种 I 型受体(BMPRIa、BMPRIb、ALK2)和三种 II
+型受体(BMPRII、ActRIIa、ActIIb) [15]。 BMP7 与上述
+相应受体结合,最终激活 SMAD 蛋白,导致 SMAD 蛋
+白进入细胞核,从而导致一系列下游靶基因的表
+达[15]。 其中 BMPRIa 及 BMPRII 被发现与人类肥胖相
+关,两种受体的 mRNA 在肥胖及超重人群中的表达相
+对高于体重正常人群[16-17]。 BMPR2 与胰岛素敏感性,
+脂肪形成及血糖代谢相关[17]。 这些研究结果表明,
+BMP7 下游 SMAD 信号通路的激活可能与肥胖及肥胖
+相关代谢性疾病的发生发展过程密切相关。 这与
+BMP7 可能作为一种治疗肥胖及糖尿病的潜在药物相
+矛盾[6,13-14]。 况且,本研究结果表明,BMP7 对胰岛素
+信号途径不但没有促进作用,相反,BMP7 处理可大幅
+度抑制骨骼肌细胞 C2C12 及肝实质细胞 HepG2 中胰
+岛素信号的传递。 以上这些结果提示对“BMP7 作为
+治疗肥胖及 2 型糖尿病的潜在药物冶这一说法还需谨
+慎。
+除此 SMAD 信号通路以外,BMP7 还可通过另外
+的下游信号级联放大转导途径,这些下游信号途径主
+要为丝裂原活化蛋白激酶 ( mitogen-activated protein
+kinase,MAPK)信号通路。 MAPK 是一组能被不同的
+细胞外刺激,如细胞因子、神经递质、激素、细胞应激及
+细胞黏附等激活的丝氨酸-苏氨酸蛋白激酶。 MAPK
+家族 主 要 包 括 P38 促 分 裂 原 活 化 蛋 白 激 酶
+(P38MAPK), 细 胞 外 信 号 调 节 激 酶 ( extracellular
+signal-regulated kinase,EKR)和 JNK[18]。 其中,JNK 又
+被称为应激激活的蛋白激酶( Stress-activated protein
+kinase, SAPK),大量研究表明 JNK 的激活可诱导胰岛
+素抵抗,而敲除 JNK 或通过抑制剂下调 JNK 活性均可
+提高胰岛素敏感性,改善糖尿病小鼠体内的葡萄糖代
+谢紊乱[3,19]。 因此,为进一步探讨 BMP7 对胰岛素信
+号通路的负调控作用,我们检测了 BMP7 对 JNK 信号
+途径的影响。 本研究结果表明,BMP7 处理细胞 5 min
+即可激活 JNK 信号途径,但随处理时间的延长这种激
+活作用减弱(图 4)。 以上结果与此前的诸多报道相一
+致,如用 BMP7 处理 SIX2 +NZ 细胞发现 BMP7 可使
+p-JNK 蛋白水平上升,但随处理时间的延长这种上调
+作用逐渐减弱[20]。 又如外源 BMP7 处理可导致
+N1E115 和 C4-2B 细胞中 JNK 信号通路的激活[21-22]。
+综上所述,本研究发现 BMP7 处理可抑制肌肉细
+胞 C2C12 和肝实质细胞 HepG2 胰岛素信号传导,同时
+抑制胰岛素刺激作用下的葡萄糖摄入。 进一步研究发
+现 BMP7 可激活 JNK 信号途径,推测 BMP7 对胰岛素
+生理作用的抑制可能是通过激活 JNK 活性实现的。
+其中的确切作用机制还有待深入研究。

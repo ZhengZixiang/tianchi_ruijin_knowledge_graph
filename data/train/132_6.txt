@@ -1,0 +1,347 @@
+临床研究
+基金项目:国家科技支撑计划(2009BAI82B04);新疆生产建设兵团
+国际科技合作项目(2009YD33)
+新疆维吾尔族脂联素、游离脂肪酸及胰岛素
+抵抗与代谢综合征及其组分的关系
+闫贻忠  郭淑霞  刘佳铭  张眉  李述刚  牛强  丁玉松  张景玉  陈洁婷  马儒林
+郭恒
+[摘要]   目的  探讨新疆维吾尔族人群脂联素、游离脂肪酸(FFA)及胰岛素抵抗(IR)与代谢综合征
+(MS)及其组分的关系。 方法 在基线调查的基础上,根据 2005 年国际糖尿病联盟 IDF 标准将研究对象分
+为 MS 组和非 MS 组,并分别随机抽取 218 例、201 例作为研究对象。 采用 ELISA 法检测脂联素浓度,比色
+法检测 FFA 浓度,放射免疫法检测空腹胰岛素(FINS)。 结果 MS 组 FFA、IR 水平均高于对照组,脂联素
+水平低于对照组(P<0. 01)。 随着 MS 组分数目的增加,FFA、IR 水平均显著升高,脂联素水平降低(P<
+0. 01)。FFA 和 IR 水平从 Q1到 Q4组,MS 及其组分检出率均有升高趋势且异常的危险性升高(P<0. 01)。
+脂联素水平从 Q1组到 Q4组,MS 及其组分检出率均有降低趋势且异常的危险性降低(P<0. 01)。 多因素
+logistic 回归分析显示在调整其他因素对 MS 的影响后,脂联素、FFA 和 IR 仍然与 MS 相关。 结论 MS 患者
+体内 FFA、IR 水平明显升高,脂联素水平降低,且均与 MS、MS 组分及异常组分聚集数目密切相关,提示脂
+联素、FFA 和 IR 在 MS 发生发展过程中均发挥重要作用。
+[关键词]   维吾尔族; 代谢综合征; 脂联素; 游离脂肪酸; 胰岛素抵抗
+Association of adiponectin, free fatty acids, and insulin resistance with metabolic syndrome and its
+components in Uygur Xinjiang province Yan Yizhong*, Guo Shuxia, Liu Jiaming, Zhang Mei, Li Shugang,
+Niu Qiang, Ding Yusong, Zhang Jingyu, Chen Jieting,Ma Rulin, Guo Heng. Department of Public Health of Medical
+College Shihezi University, Shihezi 832000, China
+[Abstract]  Objective  To investigate the association of adiponectin (APN), free fatty acids( FFA), and
+insulin resistance(IR)with metabolic syndrome (MS) and its components. Methods In the baseline survey, the
+subjects were divided into MS group and the control group based on the criteria of 2005 International Diabetes
+Federation, and randomly selected 218 and 201 cases for the study. APN was measured by ELISA, FFA by
+colorimetry, fasting insulin by radioimmunoassay. Results FFA and IR were significantly higher in subjects with MS
+than that without MS, while APN was lower(P<0. 01) . FFA and IR rose gradually along with the increased number of
+MS components(P<0. 01), while APN descended. The incidence and risk of MS and its abnormal components were
+significantly higher in the Q4 group with higher level of FFA and raised IR when compared to the Q1 group with lower
+level(P<0. 01), but the APN finding was the opposite(P<0. 01) . After adjusting for other factors, APN,FFA, and
+IR were still associated with MS by using logistic regression analysis. Conclusions The level of FFA and state of IR
+was raised in subjects with MS, as well as with the increase in number of MS components, but the finding was the
+opposite as regard to APN. Serum APN, FFA, and IR may each play important roles in development of MS.
+[Key words]  Uygur; Metabolic syndrome; Adiponectin; Free fatty acids; Insulin resistance
+(Chin J Endocrinol Metab, 2014, 30: 201-205)
+代谢综合征(metabolic syndrome,MS)是以胰岛素
+抵抗(insulin resistance,IR)为病理生理基础,糖尿病或
+糖调节异常、高血压、血脂异常、中心性肥胖等多种代
+谢性疾病集结出现为特点的一组临床征候群[1-3],并且
+是一种慢性、低度、系统性的炎症状态[4]。 本课题组
+研究数据显示新疆维吾尔族 MS 患病率为 21. 2% [5],
+显著高于全国水平。 研究表明,脂联素(adiponectin)、
+游离脂肪酸(free fatty acids,FFA)及 IR 在 MS 的发生
+发展中有重要影响,与 MS 及其组分密切相关,且存在
+一定种族差异[6-8],但维吾尔族脂联素、FFA 及 IR 与
+MS 关系尚未明确。 本研究在对新疆维吾尔族人群调
+查的基础上分析脂联素、FFA 及 IR 与 MS 及其组分的
+关系,为揭示其 MS 高发原因提供依据。
+对象和方法
+1. 对象:本研究于 2009 至 2012 年对维吾尔族聚
+集的新疆喀什地区伽师县江巴孜乡进行基线、随访和
+结局调查,基线时采用分层整群抽样的方法抽取 3 049
+名 18 岁及以上维吾尔族居民进行 MS 调查,在 MS 诊
+断的基础上随机抽取 218 例 MS 患者作为 MS 组,并从
+同一人群中按成组匹配方法随机抽取非 MS 者 201 例
+作为对照组。
+2. 诊断标准:(1)MS:根据 2005 年国际糖尿病联
+盟 IDF 诊断标准:个体必须具备中心性肥胖(男性腰
+围≥90 cm;女性腰围≥80 cm),加上以下标准的 2 项
+或 2 项以上即为 MS:淤甘油三酯(TG)≥1. 70 mmol / L
+或在服用降低 TG 的药物;于高密度脂蛋白胆固醇
+(HDL-C)男性<1. 03 mmol / L,女性<1. 30 mmol / L;盂
+血压≥130 / 85 mmHg(1 mmHg=0. 133 kPa),和(或)服
+用降压药;④空腹血糖(FPG)水平≥5. 60 mmol / L 或
+已确诊为 2 型糖尿病。 (2)超重:体重指数(BMI)24 ~
+27. 9 kg / m2;肥胖:BMI≥28 kg / m2。 (3)稳态模型评估
+的胰岛素抵抗指数(HOMA-IR):HOMA-IR = [空腹胰
+岛素(mU / L)×空腹血糖(mmol / L)] / 22. 5。 中华医学
+会糖尿病学分会认为在流行病学调查或临床研究时
+IR 程度可用此公式进行估计,可用所研究特定人群的
+上四分位数作为 IR 的分割点,本研究中为 1. 17 计量
+单位。 (4)排除条件:淤排除有严重心肝肾功能障碍
+和心衰;于除外使用胰岛素治疗及口服降糖、降压、降
+血脂药物;盂排除妊娠期妇女;④排除肿瘤、结核及感
+染性疾病。
+3. 问卷调查和体格检查:对研究对象进行饮食、
+疾病史、家族史、个人行为生活方式等方面的调查,并
+采用标准、规范的方法空腹测量研究对象的坐位血压、
+身高、体重、腰围和臀围。 计算 BMI = 体重 /身高2
+(kg / m2)。
+4. 实验室检测:(1)生化指标:调查过程中采集研
+究对象空腹 8 h 血清,使用 OLYMPUS2007 全自动生化
+仪检测 FPG、总胆固醇(TC)、TG、HDL-C、低密度脂蛋
+白胆固醇(LDL-C)等指标。 (2)采用 ELISA 法检测血
+清脂联素浓度,试剂盒由上海西唐生物科技有限公司
+提供(批内、批间 CV均<10% );采用比色法检测血清
+FFA 浓度,试剂盒由英国朗道实验室有限公司提供
+(批内、批间CV均<7% );采用放射免疫法检测血清空
+腹胰岛素浓度,试剂盒由北京原子高科股份有限公司
+提供。
+5. 统计学方法:使用 SPSS 17. 0 统计软件进行分
+析。 计量资料属于正态分布的用 x- ± s 表示,组间比较
+用 t 检验;偏态分布资料用 M(QL,QU)表示,组间比较
+用 Wilcoxon 秩和检验;率的比较用 字2 检验;因素分析
+用 logistic 回归分析。 P<0. 05 差异有统计学意义。
+结    果
+一、 一般情况
+研究对象共 419 例, MS 组 218 例, 平均年龄
+(41. 49 ± 12. 42)岁,男性 104 例,女性 114 例;对照组
+201 例,平均年龄(41. 86 ± 11. 90)岁,男性 95 例,女性
+106 例,两组年龄、性别构成均无差异(P>0. 05)。 按
+性别分层后 MS 组 BMI、腰围、收缩压、舒张压、TG、
+FPG、LDL-C、TC 均明显高于对照组,HDL-C 低于对照
+组,差异有统计学意义(P<0. 01,表 1)。
+二、 脂联素、FFA 及 IR 与 MS 及其组分的关系
+按有无 MS 及其组分分组: MS 组 FFA 和 IR 水平
+明显高于对照组,脂联素水平低于对照组 (P<0. 01);
+具有超重 /肥胖、 中心性肥胖、 高血压、 高 TG、 低
+HDL-C、高 FPG、HOMA-IR 时,FFA 和 IR 水平均明显
+升高,脂联素水平降低,且差异均有统计学意义(P<
+表 1  MS 组和对照组一般指标比较(x-± s)
+Tab 1  General indicators of MS group and control group(x-± s)
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+WC
+(cm)
+BMI
+(kg / m2)
+SBP
+(mmHg)
+DBP
+(mmHg)
+TG
+(mmol / L)
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+FPG
+(mmol / L)
+Con
+M 95 42 ± 14 80. 6 ± 4. 8 21. 9 ± 2. 4 116 ± 13 74 ± 9 0. 95 ± 0. 32 4. 42 ± 1. 15 1. 31 ± 0. 26 2. 31 ± 0. 78 4. 40 ± 0. 57
+F 106 41 ± 10 74. 0 ± 5. 0 21. 0 ± 2. 7 111 ± 12 71 ± 10 0. 86 ± 0. 33 4. 08 ± 0. 97 1. 29 ± 0. 29 2. 27 ± 0. 61 4. 23 ± 0. 56
+MS
+M 104 42 ± 11 97. 4 ± 7. 0b 26. 7 ± 3. 2b 132 ± 10b 85 ± 11b 2. 10 ± 1. 10b 4. 74 ± 1. 13b 0. 94 ± 1. 84a 2. 67 ± 0. 65a 4. 58 ± 1. 02b
+F 114 41 ± 14 90. 8 ± 9. 9b 24. 6 ± 3. 6b 131 ± 22b 83 ± 13b 1. 65 ± 0. 94b 4. 78 ± 1. 17b 1. 17 ± 0. 26b 2. 69 ± 0. 79a 4. 44 ± 0. 85b
+注:Con:对照组 Control group;M:男性 Male;F:女性 Female;MS:代谢综合征 Metabolic syndrome;WC:腰围 Waist circumference;BMI:体重指数 Body
+mass index;SBP:收缩压 Systolic blood pressure(1 mmHg=0. 133 kPa);DBP:舒张压 Diastolic blood pressure;TG:甘油三酯 Triglyceride;TC:总胆固醇 Total
+cholesterol;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein cholesterol;LDL-C:低密度脂蛋白胆固醇 Low-density lipoprotein cholesterol;FPG:空腹血
+糖 Fasting plasma glucose;与对照组相比 vs Control group, aP<0. 05, bP<0. 01
+表 2  MS 及其组分与脂联素、FFA 及 IR 水平比较[M(QL,QU)]
+Tab 2  Comparison of adiponectin, FFA, and HMOA-IR to MS and its components[M(QL,QU)]
+组分
+Components
+例数
+n
+脂联素
+Adiponectin
+(pg / L)
+FFA
+(mg / L) IR
+代谢综合征 有 218 446. 17(103. 03,1796. 71) 0. 57(0. 38,0. 80) 1. 87(1. 32,3. 96)
+MS 无 201 841. 71(298. 80,2716. 31) 0. 45(0. 33,0. 65) 1. 65(1. 01,2. 78)
+超重 / 肥胖 有 175 505. 60(118. 49,1786. 08) 0. 57(0. 38,0. 79) 2. 01(1. 33,4. 12)
+Overweight / Obesity 无 244 789. 22(193. 80,2711. 90) 0. 46(0. 34,0. 68) 1. 61(1. 04,2. 79)
+中心性肥胖 有 252 498. 07(111. 52,2175. 04) 0. 56(0. 38,0. 77) 1. 85(1. 23,3. 81)
+Central obesity 无 167 860. 19(300. 36,2495. 34) 0. 45(0. 34,0. 65) 1. 66(1. 02,2. 87)
+高血压 有 157 627. 67(142. 58,2082. 58) 0. 59(0. 41,0. 80) 1. 67(1. 19,3. 61)
+Hypertension 无 262 710. 79(165. 29,2419. 99) 0. 46(0. 33,0. 68) 1. 50(1. 26,3. 02)
+高甘油三酯 有 115 399. 25(72. 50,1445. 00) 0. 61(0. 38,0. 82) 2. 04(1. 32,4. 22)
+High TG 无 304 747. 74(219. 98,2526. 49) 0. 48(0. 34,0. 69) 1. 68(1. 05,3. 01)
+低高密度脂蛋白胆固醇 有 333 505. 60(112. 44,2308. 06) 0. 54(0. 36,0. 77) 1. 75(1. 19,3. 25)
+Low HDL-C 无 86 877. 11(583. 35,2439. 09) 0. 45(0. 34,0. 62) 1. 62(1. 04,3. 11)
+高空腹血糖 有 29 137. 12(2. 58,526. 82) 0. 66(0. 44,0. 80) 2. 28(1. 74,6. 35)
+High FPG 无 390 739. 02(177. 91,2476. 84) 0. 47(0. 34,0. 73) 1. 69(1. 12,3. 13)
+胰岛素抵抗 有 315 517. 07(112. 62,2247. 17) 0. 69(0. 45,0. 94) 2. 17(1. 59,4. 14)
+IR 无 104 998. 05(513. 82,2907. 79) 0. 51(0. 35,0. 74) 0. 73(0. 46,0. 98)
+注:MS:代谢综合征 Metabolic syndrome;FFA:游离脂肪酸 Free fatty acids;IR:胰岛素抵抗 Insulin resistance;TG:甘油三酯 Triglycerides;HDL-C:高密
+度脂蛋白胆固醇 High-density lipoprotein cholesterol;FPG:空腹血糖 Fasting plasma glucose;同指标有无组分比较 Comparison between with and without
+components,均 P<0. 05
+表 3  按 MS 组分异常数目比较脂联素、FFA 及 IR 水平[M(QL,QU)]
+Tab 3  Comparison of adiponectin, FFA, and HMOA-IR according to the number of MS components[M(QL,QU)]
+MS 组合
+MS component
+例数
+n
+脂联素
+Adiponectin
+(pg / L)
+FFA
+(mg / L) IR
+0 69 860. 19(595. 27,2 407. 53) 0. 45(0. 30,0. 63) 1. 51(1. 06,2. 95)
+1 132 765. 27(174. 23,3 003. 06) 0. 47(0. 35,0. 72) 1. 78(0. 95,3. 70)
+3 157 645. 82(104. 40,1 917. 78) 0. 51(0. 38,0. 78) 1. 86(1. 29,3. 83)
+4 55 507. 46(84. 75,1 786. 08) 0. 62(0. 41,0. 86) 1. 93(1. 36,4. 35)
+5 6 375. 66(130. 50,654. 94) 0. 80(0. 77,0. 91) 3. 60(1. 85,21. 57)
+字2 20. 541 20. 348 11. 517
+P 0. 000 0. 000 0. 021
+注:FFA:游离脂肪酸 Free fatty acids;IR:胰岛素抵抗 Insulin resistance
+表 4  按脂联素水平的四分位数比较 MS 及各组分检出率[% (n)]
+Tab 4  Comparison of the detection rate of MS and its components according to quartile of adiponectin levels[% (n)]
+MS 及组分
+MS and components
+四分位值
+Quartile
+Q1 Q2 Q3 Q4
+P (Q4 / Q1)OR (95% CI)
+高血压
+Hypertension 9. 5(40) 10. 0(42) 9. 1(38) 8. 8(37) 0. 668 0. 88(0. 504,1. 550)
+低高密度脂蛋白胆固醇
+Low HDL-C 24. 6(103) 18. 6(78) 16. 7(70) 19. 6(82) 0. 000 0. 07(0. 016,0. 302)
+高甘油三酯
+High TG 11. 2(47) 4. 8(20) 6. 2(26) 5. 3(22) 0. 000 0. 33(0. 178,0. 600)
+高空腹血糖
+High FPG 3. 8(16) 1. 7(7) 0. 7(3) 0. 7(3) 0. 005 0. 16(0. 046,0. 580)
+胰岛素抵抗
+IR 22. 2(93) 19. 6(82) 15. 3(64) 18. 1(76) 0. 004 0. 34(0. 162,0. 707)
+代谢综合征
+MS 17. 9(75) 12. 4(52) 10. 7(45) 11. 0(46) 0. 000 0. 31(0. 176,0. 553)
+注:MS:代谢综合征 Metabolic syndrome;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein cholesterol;TG:甘油三酯 Triglycerides;FPG:空腹血糖
+Fasting plasma glucose;
+0. 05,表 2)。
+三、 脂联素、FFA 及 IR 与 MS 组分聚集的关系
+1. 按 MS 组分异常聚集数目将研究对象分为 5
+组: 0、1、3、4 和 5 个组分。 随着 MS 组分数目的增加,
+表 5  按 FFA 水平的四分位数比较 MS 及各组分检出率[% (n)]
+Tab 5  Comparison of the detection rate of MS and its components according to quartile of FFA levels[% (n)]
+MS 及组分
+MS and components
+四分位值
+Quartile
+Q1 Q2 Q3 Q4
+P Q4 / Q1OR (95% CI)
+高血压
+Hypertension 6. 9(29) 7. 4(31) 11. 2(47) 11. 9(50) 0. 008 2. 18(1. 226,3. 868)
+低高密度脂蛋白胆固醇
+Low HDL-C 18. 4(77) 18. 1(76) 19. 8(83) 23. 2(97) 0. 006 3. 02(1. 364,6. 702)
+高甘油三酯
+High TG 6. 0(25) 5. 7(24) 6. 2(26) 9. 5(40) 0. 051 1. 82(0. 998,3. 300)
+高空腹血糖
+High FPG 0. 7(3) 1. 7(7) 1. 9(8) 2. 6(11) 0. 048 3. 74(1. 013,13. 834)
+胰岛素抵抗
+IR 18. 4(77) 19. 1(80) 18. 0(78) 20. 3(85) 0. 022 1. 58(0. 575,2. 238)
+代谢综合征
+MS 10. 7(45) 10. 7(45) 14. 0(59) 16. 5(69) 0. 004 2. 26(1. 294,3. 946)
+注:FFA:游离脂肪酸 Free Fatty acids;MS:代谢综合征 Metabolic syndrome;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein cholesterol;TG:甘油
+三酯 Triglycerides;FPG:空腹血糖 Fasting plasma glucose;IR:胰岛素抵抗 Insulin resistance
+表 6  按 IR 水平的四分位数比较 MS 及各组分检出率[% (n)]
+Tab 6  Comparison of the detection rate of MS and its components according to quartile of IR levels[% (n)]
+MS 及组分
+MS and components
+四分位值
+Quartile
+Q1 Q2 Q3 Q4
+P Q4 / Q1OR (95% CI)
+高血压
+Hypertension 9. 1(38) 11. 0(46) 7. 6(32) 9. 8(41) 0. 708 1. 11(0. 636,1. 947)
+低高密度脂蛋白胆固醇
+Low HDL-C 18. 9(79) 20. 8(87) 20. 0(84) 19. 8(83) 0. 593 1. 19(0. 623,2. 288)
+高甘油三酯
+High TG 4. 3(18) 7. 4(31) 6. 9(29) 8. 8(37) 0. 004 2. 60(1. 361,4. 964)
+高空腹血糖
+High FPG 0. 2(1) 1. 4(6) 2. 4(10) 2. 9(12) 0. 014 13. 29(1. 695,104. 18)
+代谢综合征
+MS 9. 8(41) 14. 3(60) 12. 4(52) 15. 5(65) 0. 001 2. 50(1. 431,4. 351)
+注:IR:胰岛素抵抗 Insulin resistance;MS:代谢综合征 Metabolic syndrome;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein cholesterol;TG:甘油
+三酯 Triglycerides;FPG:空腹血糖 Fasting plasma glucose
+FFA、IR 水平均逐渐升高,脂联素水平逐渐降低,各组
+间差异均有统计学意义(P<0. 01,表 3)。
+2. 按四分位数进行分组:Q1组<25%百分位点、Q2
+组 25% ~50%百分位点、 Q3组 50% ~ 75%百分位点、
+Q4组>75%百分位点。 经单因素 logistic 回归分析,随
+着脂联素水平的升高,MS 及其组分 (低 HDL-C、高
+TG、高 FPG、IR)检出率均有降低趋势(P<0. 01,Q4 组
+与 Q1组比较,OR 值为 0. 31、0. 07、0. 33、0. 16、0. 34),
+提示 Q4组各组分异常的危险性低于 Q1组;随着 FFA
+水平的升高,MS 及其组分(高血压、低 HDL-C、高 TG、
+高 FPG)检出率均有增高趋势(P<0. 01,Q4组与 Q1组
+比较,OR 值为 2. 26、2. 18、3. 02、1. 82、1. 34),提示 Q4
+组各组分异常的危险性高于 Q1组;随着 IR 水平的升
+高,MS 及其组分(高 TG、高 FPG)检出率均有升高趋
+势(P<0. 01,Q4 组与 Q1 组比较,OR 值为 2. 50、2. 60、
+13. 29),提示 Q4组各组分异常的危险性高于 Q1组(表
+4 ~ 6)。
+四、 多因素 logistic 回归分析
+为排除其他因素对脂联素、FFA 和 IR 与 MS 关系
+的影响,以是否患有 MS 为因变量,年龄、性别、吸烟、
+饮酒、BMI、脂联素、FFA 和 IR 为自变量,采用多因素
+logistic 回归进行分析结果显示,在调整其他因素对 MS
+的影响后,脂联素、FFA 和 IR 仍然与 MS 相关,同时还
+有年龄和 BMI 的影响,但吸烟、饮酒等差异无统计学
+意义。
+讨    论
+新疆维吾尔族主要聚集在喀什地区,有其独特的
+生活习惯和环境。 喀什气候干燥,交通不便,生活环境
+恶劣,经济较为落后,当地居民一日三餐中至少两餐为
+烤馕,并且加入大量盐分,碳水化合物摄入多,而脂质
+和蛋白质类摄入少,营养比例不均衡。 因此这种单一
+失衡的膳食形式,地理环境以及种族间的遗传差异,可
+能造成维吾尔族人群 MS 及其组分的高患病率。 本研
+究结果显示 MS 组脂联素水平明显低于对照组,FFA
+和 IR 水平均高于对照组,与国内外多项研究[9-11] 一
+致,并且水平高于这些同类研究报道的水平。
+本研究中 MS 各组分任意单项指标只要达到 MS
+诊断标准,FFA 和 IR 水平均增高,脂联素水平降低。
+多因素 logistic 分析结果显示,在调整其他因素对 MS
+的影响后,脂联素、FFA 和 IR 与 MS 仍然相关,与王立
+等[6]研究结果一致。 提示血清 FFA、IR 及脂联素与
+MS 及其组分密切相关。
+李嘉强等[12]研究发现脂联素、FFA 与 MS 异常组
+分数目有关,并且 MS 组分≥3 项组血清脂联素水平低
+于 MS 组分 2 项组,FFA 水平反之。 本研究发现随着
+MS 异常组分的聚集,FFA 和 IR 水平升高,脂联素水平
+降低。 本研究进一步按脂联素、FFA 及 IR 水平的四分
+位值分组,分析随着这些因子水平的变化 MS 及其组
+分检出率的变化,结果显示脂联素水平从 Q1到 Q4组,
+MS 及其组分检出率均有降低趋势,与张秀娟[13] 等研
+究结果一致;MS 及其组分 Q4与 Q1比较,OR 值均小于
+1(0. 88,0. 07,0. 33,0. 16,0. 34,0. 31),提示随着脂联
+素水平的升高,MS 发生及各组分异常的危险性降低。
+FFA 和 IR 水平从 Q1到 Q4组,MS 及其组分检出率均有
+升高趋势;MS 及各组分 Q4与 Q1比较,OR 值均大于 1
+(2. 18,3. 02,1. 82,1. 34,1. 08,2. 26;1. 11,1. 19,2. 60,
+13. 29,2. 50),提示随着 FFA、IR 水平的升高,MS 发生
+及各组分异常的危险性增加。
+MS 及其组分的病理生理基础为 IR。 IR 是指胰岛
+素作用的靶器官对胰岛素的敏感性下降,即正常剂量
+的胰岛素产生低于正常生物学效应的一种状态,是 MS
+发生的根本病因[9]。 最新研究表明,FFA 是 IR 的独
+立相关因子,高 FFA 抑制胰岛素受体酪氨酸激酶活
+性,从而抑制胰岛素受体底物 1 表达及其活性,导致
+IR 的产生,促进 MS 的发生。 本研究中 IR 者 FFA 水
+平明显高于非 IR 者,且随着 FFA 水平的升高,IR 和
+MS 的检出率均明显升高。 脂联素在 MS 的发生中发
+挥重要的负调控作用,能够增强胰岛素敏感性,通过刺
+激胰岛分泌胰岛素而调节糖代谢,具有抗动脉粥样硬
+化、抗炎和抗血栓形成作用,进而改善 IR,抑制 MS 的
+发生。 本研究中 IR 者脂联素水平明显低于非 IR 者,
+且随着脂联素水平的升高,IR 和 MS 的检出率均明显
+降低。
+综上所述,维吾尔族人群脂联素、FFA 和 IR 与
+MS、MS 各组分及组分聚集数目密切相关。 FFA 和 IR
+水平升高可能是 MS 的危险因素,促使 MS 的发生发
+展,而脂联素与 MS 及其组分呈负相关,其水平升高可
+能会抑制 MS 的发生。 因此,在防治维吾尔族人群 MS
+及其组分时可以考虑如何降低 FFA 和 IR 水平,升高
+脂联素水平,从而到达降低维吾尔族 MS 患病率的目
+标。

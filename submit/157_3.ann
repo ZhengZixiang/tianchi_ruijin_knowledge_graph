@@ -1,0 +1,262 @@
+T1	Disease 5 8	糖尿病
+T2	Disease 10 15	腕管综合征
+T3	Test 17 23	神经传导速度
+T4	Test 63 69	神经传导速度
+T5	Test 97 100	NCV
+T6	Disease 106 109	糖尿病
+T7	Disease 111 115;116 117	腕管综合 征
+T8	Disease 149 153	神经损伤
+T9	Disease 212 218	2 型糖尿病
+T10	Test 234 242	四肢神经传导速度
+T11	Disease 295 297;298 299	糖尿 病
+T12	Symptom 310 316	神经传导异常
+T13	Test 328 331	CTS
+T14	Disease 346 352	感觉神经损伤
+T15	Disease 394 397	CTS
+T16	Disease 402 407	腕管综合征
+T17	Test 443 453	神经感觉神经传导速度
+T18	Test 548 558	神经运动神经传导速度
+T19	Anatomy 666 672	左侧正中神经
+T20	Anatomy 724 730	右侧正中神经
+T21	Disease 812 813;814 816	糖 尿病
+T22	Test 821 824	CTS
+T23	Disease 831 837	感觉神经损伤
+T24	Disease 880 889	糖尿病周围神经病变
+T25	Disease 2989 2998	糖尿病周围神经病变
+T26	Disease 2999 3002	糖尿病
+T27	Disease 3012 3017	腕管综合征
+T28	Symptom 3046 3049;3050 3058	又称迟 发性正中神经麻痹
+T29	Disease 3077 3086	糖尿病周围神经病变
+T30	Test 3089 3092	CTS
+T31	Disease 3107 3116	糖尿病周围神经病变
+T32	Disease 3196 3199	糖尿病
+T33	Test 3202 3207;3208 3209	神经传导速 度
+T34	Disease 3212 3215	糖尿病
+T35	Disease 3218 3221	CTS
+T36	Disease 3224 3228	神经损伤
+T37	Disease 3300 3306	2 型糖尿病
+T38	Disease 3376 3379	糖尿病
+T39	Anatomy 3384 3388	右侧肢体
+T40	Disease 3430 3433	糖尿病
+T41	Disease 3461 3467	周围神经病变
+T42	Level 3469 3471	严重
+T43	Disease 3471 3472;3473 3475	脊 椎病
+T44	Level 3476 3478	严重
+T45	Disease 3478 3482	肝肾疾病
+T46	Disease 3487 3492	代谢性疾病
+T47	Disease 3499 3504	结缔组织病
+T48	Disease 3505 3507	外伤
+T49	Disease 3508 3513	神经肌肉病
+T50	Disease 3524 3525;3526 3531	周 围神经损伤
+T51	Test 3619 3625	神经传导速度
+T52	Test 3655 3658	肌电图
+T53	Symptom 3745 3749	肢体放松
+T54	Anatomy 3843 3845	神经
+T55	Anatomy 3846 3851	双侧尺神经
+T56	Symptom 3852 3857;3858 3859	双侧腓总神 经
+T57	Anatomy 3860 3865	双侧胫神经
+T58	Test 3866 3874	运动神经传导速度
+T59	Anatomy 3916 3922	双侧正中神经
+T60	Anatomy 3923 3926;3927 3929	双侧尺 神经
+T61	Anatomy 3930 3936	双侧腓肠神经
+T62	Test 3937 3945	感觉神经传导速度
+T63	Disease 3990 3993	糖尿病
+T64	Disease 3996 3999	CTS
+T65	Disease 4003 4009	运动神经损伤
+T66	Disease 4010 4016	感觉神经损伤
+T67	Test 4071 4074	NCV
+T68	Test 4091 4094	肌电图
+T69	Test_Value 4129 4131;4132 4146	正中 感觉神经于腕横纹上 2 cm
+T70	Test 4163 4171	神经运动神经分段
+T71	Disease 4192 4195	糖尿病
+T72	Test 4196 4199	CTS
+T73	Symptom 4221 4233	手部桡侧 3 个半指麻木
+T74	Symptom 4234 4236	疼痛
+T75	Symptom 4243 4248	大鱼际萎缩
+T76	Symptom 4264 4265;4266 4274	神 经选择性传导异常
+T77	Disease 4286 4291;4292 4295	多发性周围 神经病
+T78	Disease 4296 4305	退行性颈椎神经根型
+T79	Disease 4306 4313	胸廓出口综合征
+T80	Disease 4314 4316;4317 4322	旋前 圆肌综合征
+T81	Reason 4323 4329	运动神经元病
+T82	Symptom 4334 4340	神经近端受损
+T83	Disease 4346 4350	神经损害
+T84	Test 4352 4355	CTS
+T85	Test_Value 4437 4439	降低
+T86	Test 4440 4443	肌电图
+T87	Disease 4529 4532	糖尿病
+T88	Disease 4534 4539	腕管综合征
+T89	Disease 4557 4560	糖尿病
+T90	Disease 4564 4568	神经损伤
+T91	Disease 4573 4574;4575 4580	单 侧神经损伤
+T92	Disease 4581 4587	双侧神经损伤
+T93	Disease 4648 4652	神经损伤
+T94	Disease 4666 4673;4674 4675	单纯运动神经损 伤
+T95	Disease 4676 4684	单纯感觉神经损伤
+T96	Disease 4758 4761	糖尿病
+T97	Disease 4764 4767	CTS
+T98	Anatomy 4770 4774	运动神经
+T99	Disease 4775 4777;4778 4782	感觉 神经损伤
+T100	Disease 4786 4789	糖尿病
+T101	Disease 4792 4795	CTS
+T102	Disease 4818 4822	神经损伤
+T103	Symptom 4843 4848;4849 4850	感觉神经损 伤
+T104	Disease 4864 4870	感觉神经损伤
+T105	Disease 4878 4882	神经损伤
+T106	Disease 4904 4907	糖尿病
+T107	Test 4920 4923	NCV
+T108	Disease 4936 4939	糖尿病
+T109	Disease 4943 4948	腕管综合征
+T110	Disease 4970 4976	NCV 异常
+T111	Disease 5017 5023	NCV 异常
+T112	Disease 5042 5045	糖尿病
+T113	Test 5048 5051	CTS
+T114	Disease 5064 5067	糖尿病
+T115	Test 5100 5103	CTS
+T116	Disease 5143 5146	CTS
+T117	Test 5162 5165	CTS
+T118	Symptom 5189 5193	双侧异常
+T119	Symptom 5204 5208	单侧异常
+T120	Anatomy 5228 5234	左侧正中神经
+T121	Test 5234 5241;5242 5248	运动神经掌-腕 神经传导速度
+T122	Test 5302 5304;5305 5318	神经 运动神经掌-腕神经传导速度
+T123	Test 5340 5349	腕-肘神经传导速度
+T124	Disease 5369 5372	糖尿病
+T125	Disease 5451 5454	糖尿病
+T126	Anatomy 5680 5684	腓肠神经
+T127	Test 5909 5917	运动神经传导速度
+T128	Test 5955 5963	感觉神经传导速度
+T129	Disease 6026 6029	糖尿病
+T130	Test 6031 6039	感觉神经传导速度
+T131	Anatomy 6276 6281	左腓肠神经
+T132	Anatomy 6299 6304	右腓肠神经
+T133	Disease 6506 6509	糖尿病
+T134	Test 6511 6519	运动神经传导速度
+T135	Anatomy 6821 6825	左胫神经
+T136	Anatomy 6844 6848	右胫神经
+T137	Anatomy 7074 7077	神经左
+T138	Disease 7101 7104	糖尿病
+T139	Test 7114 7117	NCV
+T140	Disease 7131 7134	糖尿病
+T141	Anatomy 7175 7177	神经
+T142	Anatomy 7178 7181	尺神经
+T143	Anatomy 7183 7187	腓肠神经
+T144	Anatomy 7194 7198	正中神经
+T145	Anatomy 7203 7207	腓总神经
+T146	Anatomy 7208 7210;7211 7212	胫神 经
+T147	Anatomy 7298 7301	CTS
+T148	Disease 7310 7318	嵌压性周围神经病
+T149	Anatomy 7350 7359	正中神经支配区神经
+T150	Anatomy 7374 7376	腕骨
+T151	Disease 7475 7478	糖尿病
+T152	Disease 7529 7532	糖尿病
+T153	Test 7563 7566	CTS
+T154	Test 7595 7598	CTS
+T155	Disease 7652 7655	糖尿病
+T156	Disease 7658 7661	CTS
+T157	Test 7678 7688	神经感觉神经传导速度
+T158	Anatomy 7706 7714	正中神经运动神经
+T159	Disease 7734 7737	糖尿病
+T160	Disease 7749 7755	感觉神经损伤
+T161	Disease 7775 7778	糖尿病
+T162	Disease 7781 7784	CTS
+T163	Disease 7797 7802	脱髓鞘病变
+T164	Disease 7848 7851	糖尿病
+T165	Test 7912 7915	CTS
+T166	Disease 7962 7965	糖尿病
+T167	Anatomy 7979 7985	神经运动神经
+T168	Anatomy 7991 7995	感觉神经
+T169	Disease 8003 8006	CTS
+T170	Anatomy 8010 8014	感觉神经
+T171	Disease 8037 8040	糖尿病
+T172	Disease 8082 8090	多发性周围神经病
+T173	Disease 8099 8102;8103 8104	神经损 伤
+T174	Test 8110 8113	CTS
+T175	Anatomy 8131 8137	右侧正中神经
+T176	Anatomy 8159 8162	神经左
+T177	Disease 8194 8197	CTS
+T178	Anatomy 8277 8279;8280 8282	腕周 组织
+T179	Disease 8318 8321	DPN
+T180	Test 8328 8331	CTS
+T181	Anatomy 8336 8339;8340 8342	多根神 经左
+T182	Disease 8371 8380	糖尿病周围神经病变
+T183	Test 8399 8402	CTS
+T184	Disease 8410 8415	代谢综合征
+T185	Test 8419 8426	CTS 发生率
+T186	Disease 8428 8433	代谢综合征
+T187	Disease 8447 8456	糖尿病周围神经病变
+T188	Disease 8458 8467	多发性周围神经病变
+T189	Test 8477 8480	CTS
+T190	Disease 8487 8490	糖尿病
+T191	Test 8494 8497	CTS
+T192	Disease 8509 8512	糖尿病
+T193	Disease 8515 8521	周围神经病变
+T194	Disease 8558 8563	全身性疾病
+T195	Disease 8564 8567	糖尿病
+T196	Anatomy 8568 8574	全身结缔组织
+T197	Test 8592 8594	血糖
+T198	Drug 8608 8611	山梨醇
+T199	Reason 8621 8635;8636 8640	Na+ -K+ -ATP 酶 活性降低
+T200	Disease 8643 8649	血管缺血缺氧
+T201	Reason 8650 8658	神经细胞轴索水肿
+T202	Test_Value 8666 8674	雪旺细胞髓鞘损害
+T203	Anatomy 8675 8679	神经内膜
+T204	Anatomy 8683 8686;8687 8688	雪旺细 胞
+T205	Anatomy 8689 8693	毛细血管
+T206	Disease 8704 8709;8710 8711	周围神经病 变
+T207	Disease 8718 8721	糖尿病
+T208	Anatomy 8724 8728	周围神经
+T209	Symptom 8732 8734	肿胀
+T210	Disease 8760 8762;8763 8764	糖尿 病
+T211	Symptom 8766 8782	全身肌腱、滑膜、韧带在长期高血糖
+T212	Symptom 8792 8794	水肿
+T213	Anatomy 8798 8800	肘管
+T214	Anatomy 8801 8803	踝管
+T215	Reason 8806 8812;8813 8825	神经解剖学狭 窄通道的纤维结缔组织肥厚
+T216	Symptom 8826 8828	水肿
+T217	Anatomy 8829 8833	神经组织
+T218	Disease 8849 8853	神经卡压
+T219	Disease 8865 8876	神经纤维发生脱髓鞘病变
+T220	Disease 8911 8914	糖尿病
+T221	Disease 8934 8937	DPN
+T222	Disease 8955 8958	DPN
+T223	Disease 8968 8971	糖尿病
+T224	Symptom 8976 8981	手、足麻木
+T225	Disease 8982 8984;8985 8992	活动 受限等神经病变
+T226	Disease 9011 9014	DPN
+T227	Test 9022 9028	局部神经卡压
+T228	Anatomy 9056 9060;9061 9065	局部神经 胶原蛋白
+T229	Disease 9071 9076	神经纤维化
+T230	Disease 9103 9106	糖尿病
+T231	Disease 9108 9111	糖尿病
+T232	Disease 9115 9121	周围神经减压
+T233	Test 9168 9172	神经卡压
+T234	Test 9180 9182	血糖
+T235	Disease 9216 9223	神经卡压综合征
+T236	Disease 9225 9228	糖尿病
+T237	Operation 9232 9236	手术减压
+T238	Test 9240 9242	血糖
+T239	Disease 9271 9274	DPN
+T240	Disease 9301 9304	糖尿病
+T241	Drug 9329 9333	格林巴利
+T242	Disease 9345 9351	MS 综合征
+T243	Disease 9363 9366	DPN
+T244	Disease 9381 9384	糖尿病
+T245	Disease 9401 9404	DPN
+T246	Disease 9416 9418	MS
+T247	Disease 9442 9448	MS 综合征
+T248	Disease 9477 9480	DPN
+T249	Disease 9492 9495	糖尿病
+T250	Disease 9500 9503	DPN
+T251	Disease 9512 9516	神经病变
+T252	Disease 9523 9526	DPN
+T253	Disease 9535 9538	糖尿病
+T254	Disease 9550 9553	糖尿病
+T255	Test 9576 9579	CTS
+T256	Test 9587 9590	NCV
+T257	Test 9603 9606	CTS
+T258	Disease 9610 9613	糖尿病
+T259	Test 9616 9619	CTS
+T260	Disease 9639 9642	糖尿病
+T261	Disease 9648 9654	感觉神经损伤
+T262	Disease 9671 9675	神经损伤

@@ -1,0 +1,262 @@
+T1	Test 992 997	HBA1C
+T2	Disease 37 41	糖尿病足
+T3	Disease 106 112	糖尿病足溃疡
+T4	Disease 537 543	糖尿病足溃疡
+T5	Disease 573 579	糖尿病足溃疡
+T6	Disease 745 751	糖尿病足溃疡
+T7	Disease 3540 3544	糖尿病足
+T8	Disease 3616 3622	糖尿病足溃疡
+T9	Disease 3739 3743	糖尿病足
+T10	Drug 880 884	格列齐特
+T11	Test 847 851	空腹血糖
+T12	Test 2004 2008	空腹血糖
+T13	Test 1889 1892	尿素氮
+T14	Test 2127 2136	高密度脂蛋白胆固醇
+T15	Test 2176 2185	低密度脂蛋白胆固醇
+T16	Test 1727 1732	谷丙转氨酶
+T17	Test 1756 1761	谷草转氨酶
+T18	Test 2053 2057	总胆固醇
+T19	Test 1723 1726	肝功能
+T20	Test 1885 1888	肾功能
+T21	Test 1966 1968	尿酸
+T22	Test 2453 2456	ABI
+T23	Test 2327 2330	心电图
+T24	Test 891 893	血糖
+T25	Test 2755 2757	血糖
+T26	Test 3837 3839	血糖
+T27	Drug 2795 2799	前列地尔
+T28	Test 1931 1933	肌酐
+T29	Disease 544 547	糖尿病
+T30	Disease 585 587	感染
+T31	Disease 588 593	低蛋白血症
+T32	Disease 595 597	贫血
+T33	Disease 598 603	心功能不全
+T34	Disease 729 734	低蛋白血症
+T35	Disease 735 737	贫血
+T36	Disease 738 743	心功能衰竭
+T37	Duration 779 782	5 年
+T38	Symptom 783 789	左足反复破溃
+T39	Duration 790 791;792 793	4 年
+T40	Symptom 835 837	口干
+T41	Symptom 838 840	多饮
+T42	Symptom 841 843	多尿
+T43	Test_Value 852 862	8 mmol / L
+T44	Disease 868 870;871 872	糖尿 病
+T45	Symptom 904 910	左足反复溃烂
+T46	Symptom 911 917	足趾逐渐发黑
+T47	Symptom 954 956	破溃
+T48	Symptom 963 965;966 968	左足 溃烂
+T49	Symptom 971 973	流脓
+T50	Symptom 974 976	发热
+T51	Symptom 977 981	全身水肿
+T52	Test_Value 998 1004	12. 2%
+T53	Test 1006 1012	双足正斜位片
+T54	Test 1051 1056	胸部 CT
+T55	Symptom 1126 1131	活动后气促
+T56	Symptom 1139 1140;1141 1145	阵 发性胸闷
+T57	Symptom 1146 1148	气急
+T58	Disease 1170 1173	高血压
+T59	Test_Value 1189 1203	200 / 100 mmHg
+T60	Test 1186 1188	血压
+T61	Test 1238 1240	血压
+T62	Test_Value 1241 1254	140 / 70 mmHg
+T63	Test 1255 1257	体温
+T64	Test_Value 1258 1264	35. 6℃
+T65	Symptom 1265 1267	神清
+T66	Symptom 1268 1271	精神差
+T67	Symptom 1273 1277	全身浮肿
+T68	Symptom 1278 1283	轻度贫血貌
+T69	Test 1285 1287	心率
+T70	Test_Value 1288 1298	90 次 / min
+T71	Symptom 1303 1308;1309 1310	两肺呼吸音 粗
+T72	Symptom 1330 1336	肝脾肋下未及
+T73	Symptom 1338 1339;1340 1345	阴 囊水肿明显
+T74	Symptom 1393 1399	周围皮肤发白
+T75	Symptom 1400 1403	无触痛
+T76	Symptom 1409 1416	创面下组织松散
+T77	Symptom 1417 1426	镊子可探及深处骨质
+T78	Symptom 1485 1494	双足背动脉搏动未及
+T79	Symptom 1495 1498;1499 1500	皮温正 常
+T80	Symptom 1501 1510	双下肢针刺感觉减退
+T81	Test 1522 1525	红细胞
+T82	Test_Value 1526 1541	2. 5 × 1012 / L
+T83	Test 1578 1582	血红蛋白
+T84	Test_Value 1583 1594	73. 7 g / L
+T85	Test 1612 1615	白细胞
+T86	Test_Value 1616 1628	9. 2×109 / L
+T87	Test 1655 1660;1661 1664	中性粒细胞 百分比
+T88	Test_Value 1665 1671	75. 4%
+T89	Test 1684 1687	血小板
+T90	Test_Value 1688 1699	284×109 / L
+T91	Test_Value 1733 1741	18 U / L
+T92	Test_Value 1762 1770	27 U / L
+T93	Test 1785 1790	碱性磷酸酶
+T94	Test_Value 1791 1800	320 U / L
+T95	Test 1817 1820;1821 1826	γ-谷 氨酰转肽酶
+T96	Test_Value 1827 1836	270 U / L
+T97	Test 1853 1856	白蛋白
+T98	Test_Value 1857 1868	21. 9 g / L
+T99	Test_Value 1893 1907	5. 60 mmol / L
+T100	Test_Value 1934 1945	74 μmol / L
+T101	Test_Value 1969 1981	249 μmol / L
+T102	Test_Value 2009 2023	14. 7 mmol / L
+T103	Test_Value 2058 2072	3. 28 mmol / L
+T104	Test 2090 2094	甘油三脂
+T105	Test_Value 2095 2109	0. 82 mmol / L
+T106	Test_Value 2186 2200	2. 07 mmol / L
+T107	Test 2257 2261	肌酸激酶
+T108	Test_Value 2262 2264;2265 2270	34 U / L
+T109	Test 2287 2294	肌酸激酶同工酶
+T110	Test 2295 2300	CK-MB
+T111	Test_Value 2301 2311	26 ng / ml
+T112	Test 2427 2429	胸片
+T113	Test 2340 2346	双足正斜位片
+T114	Test_Value 2457 2465	左侧 0. 45
+T115	Test_Value 2466 2474	右侧 0. 62
+T116	Anatomy 2488 2493	双下肢动脉
+T117	Disease 2538 2542	肺部感染
+T118	Disease 2543 2548	心功能不全
+T119	Operation 2593 2597	小截肢术
+T120	Operation 2549 2552	大截肢
+T121	Anatomy 2553 2556	踝关节
+T122	Anatomy 2609 2612	第一趾
+T123	Anatomy 2613 2617	第一跖骨
+T124	Drug 2691 2697	去甲万古霉素
+T125	Drug 2698 2705;2706 2707	亚胺培南西司他 丁
+T126	Drug 2708 2711	甲硝唑
+T127	Test 2726 2731	病原菌培养
+T128	Test_Value 2735 2737	阴性
+T129	Drug 2750 2753	胰岛素
+T130	Test 2768 2772	血红蛋白
+T131	Test 2773 2776	白蛋白
+T132	Method 2799 2803	静脉注射
+T133	Disease 2826 2831	心功能不全
+T134	Disease 2839 2844	心功能不全
+T135	Drug 2913 2920	单硝酸异山梨酯
+T136	Drug 2927 2930	呋塞米
+T137	Disease 3129 3135	心衰急性发作
+T138	Disease 3140 3142;3143 3147	上消 化道出血
+T139	Operation 3226 3230	截肢手术
+T140	Anatomy 3418 3420	骨质
+T141	Anatomy 3422 3425	软组织
+T142	Disease 3522 3525	足溃疡
+T143	Disease 3577 3580	足溃疡
+T144	Disease 3684 3686	溃疡
+T145	Disease 3988 3991	足溃疡
+T146	Disease 4017 4019	溃疡
+T147	Disease 568 572	神经病变
+T148	Duration 797 801	3 个月
+T149	Method 877 879	口服
+T150	Duration 895 898	4 年
+T151	Symptom 936 941	残端渐愈合
+T152	Symptom 1075 1081	两肺上叶感染
+T153	Symptom 2430 2438	两肺野炎症性改变
+T154	Test 2449 2452	踝肱比
+T155	Duration 2836 2839	3 天
+T156	Anatomy 3197 3199	足部
+T157	Disease 3397 3401	严重感染
+T158	Disease 3413 3417	感染坏死
+T159	Disease 3257 3259	感染
+T160	Disease 3696 3698	感染
+T161	Symptom 3882 3886	营养不良
+T162	Disease 3901 3903;3904 3909	条件 致病菌感染
+T163	Disease 121 124;125 128	糖尿病 足溃疡
+T164	Anatomy 943 945	左足
+T165	Anatomy 924 934	左足 2 ~ 5 趾
+T166	Disease 4076 4078	溃疡
+T167	Treatment 3949 3959	局部感染坏死组织清创
+T168	Treatment 4032 4036	局部清创
+T169	Anatomy 4040 4042	心脏
+T170	Reason 3673 3677	慢性炎症
+T171	Reason 3661 3667	急性炎症反应
+T172	Anatomy 3392 3393;3394 3395	骨 质
+T173	Treatment 3445 3450;3451 3454	全身抗菌素 抗感染
+T174	Treatment 3455 3459	改善血供
+T175	Treatment 3460 3464	营养支持
+T176	Treatment 3465 3470	改善心功能
+T177	Treatment 3354 3356	清创
+T178	Treatment 3331 3334;3335 3337	去除感 染灶
+T179	Method 2923 2927	间断使用
+T180	Symptom 2964 2966	水肿
+T181	Duration 3009 3013	4 个月
+T182	Anatomy 3014 3017	左足底
+T183	Anatomy 3050 3054	外踝下方
+T184	Test 2971 2974	心功能
+T185	Duration 2983 2986	2 周
+T186	Duration 1119 1122	1 年
+T187	Symptom 1299 1301	律齐
+T188	Test_Value 1548 1573	(4. 09 ~ 5. 74) ×1012 / L
+T189	Test_Value 1594 1604;1605 1611	(131 ~ 172 g / L)
+T190	Test_Value 1629 1653	(3. 97 ~ 9. 15) ×109 / L
+T191	Test_Value 1673 1681	50% ~70%
+T192	Test_Value 1700 1712;1713 1720	(85 ~ 303) × 109 / L
+T193	Test_Value 1742 1754	5 ~ 40 U / L
+T194	Test_Value 1801 1815	40 ~ 150 U / L
+T195	Test_Value 1771 1783	8 ~ 40 U / L
+T196	Test_Value 1836 1851	(11 ~ 50 U / L)
+T197	Test_Value 1868 1876;1877 1883	(35 ~ 55 g / L)
+T198	Test_Value 1908 1929	2. 86 ~ 8. 2 mmol / L
+T199	Test_Value 1947 1964	53 ~ 123 μmol / L
+T200	Test_Value 1984 1993;1994 2002	210 ~ 430 μmol / L
+T201	Test_Value 2024 2046	3. 89 ~ 6. 11 mmol / L
+T202	Test 2049 2051	血脂
+T203	Test_Value 2073 2088	<5. 17 mmol / L
+T204	Test_Value 2111 2125	<2. 3 mmol / L
+T205	Test_Value 2152 2164;2165 2173	0. 9 ~ 1. 78 mmol / L
+T206	Test_Value 2201 2216	<3. 37 mmol / L
+T207	Test 2219 2223	心肌酶谱
+T208	Test_Value 2240 2255	109 ~ 245 U / L
+T209	Test_Value 2271 2285	38 ~ 174 U / L
+T210	Test_Value 2313 2316;2317 2324	<24 ng / ml
+T211	Treatment 2584 2590	神经阻滞麻醉
+T212	Treatment 2626 2632	充分引流脓液
+T213	Method 2687 2689	静脉
+T214	Anatomy 2512 2514	足部
+T215	Disease 642 648	糖尿病足溃疡
+T216	Disease 666 672	糖尿病足溃疡
+T217	Disease 3379 3385	糖尿病足溃疡
+T218	Disease 3602 3608	糖尿病足溃疡
+T219	Disease 4057 4063	糖尿病足溃疡
+T220	Symptom 774 778	血糖升高
+T221	Disease 630 634	足部溃疡
+T222	Symptom 1013 1022	左足跖趾骨骨质破坏
+T223	Symptom 1024 1033	2 ~ 5 趾缺损
+T224	Symptom 1035 1045	左第一跖骨陈旧性骨折
+T225	Symptom 1057 1063	两侧胸腔积液
+T226	Symptom 1064 1065;1066 1074	两 肺下叶压迫性不张
+T227	Symptom 1311 1319	可闻及散在湿罗音
+T228	Symptom 1321 1325	腹平、软
+T229	Symptom 1326 1329	无压痛
+T230	Symptom 1347 1357	双下肢重度可凹性水肿
+T231	Symptom 1358 1371;1372 1377	左足底可见约 4 cm×5 cm 创面
+T232	Symptom 1386 1392	脂肪组织坏死
+T233	Symptom 1405 1408	有恶臭
+T234	Symptom 1428 1433;1434 1450	左外踝下方 可见一 5 cm×5 cm 创面
+T235	Symptom 1459 1468	坏死组织伴脓性渗出
+T236	Symptom 1469 1470;1471 1483	两 处创面通过跗骨下窦道相通
+T237	Test_Value 2137 2151	0. 79 mmol / L
+T238	Test 2224 2229	乳酸脱氢酶
+T239	Test_Value 2230 2239	269 U / L
+T240	Symptom 2347 2351;2352 2359	左足第一 跖骨陈旧性骨折
+T241	Symptom 2360 2378	左足第 3、4、5 趾仅残留少许趾骨
+T242	Symptom 2380 2384;2385 2390	左足第二 趾趾骨未见
+T243	Symptom 2391 2403	第二跖骨远端骨质吸收溶解
+T244	Symptom 2405 2418;2419 2425	左足第 2、3、4、5 趾 软组织影未见
+T245	Disease 2443 2447	胸腔积液
+T246	Test 2475 2483	双下肢动脉多普勒
+T247	Disease 2602 2608	左足感染坏死
+T248	Anatomy 2557 2560	踝关节
+T249	Drug 2787 2791;2792 2793	人血白蛋 白
+T250	Drug 2781 2786	悬浮红细胞
+T251	Disease 2809 2811	心衰
+T252	Disease 3181 3185	足部溃疡
+T253	Symptom 3251 3253	溃疡
+T254	Anatomy 3271 3273	心脏
+T255	Operation 3402 3406	清创手术
+T256	Anatomy 3478 3479;3480 3481	心 脏
+T257	Symptom 3497 3499	水肿
+T258	Symptom 3502 3504	溃疡
+T259	Disease 3626 3630	神经病变
+T260	Reason 3639 3642;3643 3647	局部微 循环障碍
+T261	Anatomy 3872 3874	神经
+T262	Anatomy 3876 3879	微循环

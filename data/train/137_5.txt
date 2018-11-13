@@ -1,0 +1,263 @@
+代谢性骨病
+糖化低密度脂蛋白对小鼠成骨细胞增殖分化
+和低密度脂蛋白相关蛋白 5、DKK1 基因表达
+的影响
+熊燕琴  孙向华  张克勤  周筠  张秀珍  雷涛
+[摘要]   目的  研究不同浓度糖化低密度脂蛋白(糖化 LDL)对小鼠成骨细胞 MC3T3-E1 增殖分化及
+低密度脂蛋白相关蛋白 5(LRP5)、DKK1 基因表达的可能影响,探讨 Wnt 信号通路是否参与了糖化 LDL 对
+成骨细胞增殖分化的调节。 方法 在小鼠成骨细胞株 MC3T3-E1 培养液中加入 0. 1 mg / ml 的不同浓度的
+糖化 LDL,分别培养 24、48、72 h 后应用 CCK-8 检测其对成骨细胞增殖的影响,采用 ELISA 法检测成骨细胞
+骨钙素水平;采用 realtime PCR 方法检测糖化 LDL 对成骨细胞 LRP5、DKK1 基因表达的影响。 结果 在
+LDL 糖化浓度为 5. 3% 24 h 时,明显抑制成骨细胞的增殖,与对照组比较,差异具有统计学意义(P<0. 01),
+LDL 糖化越高,对成骨细胞增殖的抑制越明显,在一定的时间和浓度范围内糖化 LDL 对成骨细胞增殖的作
+用呈剂量及时间依赖性;与对照组比较,糖化 LDL 明显抑制成骨细胞中的骨钙素表达,差异具有统计学意
+义(P<0. 01),糖化 LDL 对成骨细胞骨钙素表达的作用在一定程度上具有剂量及作用时间依赖性;5. 3% 糖
+化 LDL 在 48 h 时明显下调成骨细胞中的 LRP5 mRNA 表达水平,显著上调 DKK1 mRNA 表达水平,与对照
+组比较,差异具有统计学意义(P<0. 01)。 结论 糖化 LDL 显著抑制成骨细胞的增殖和分化,这可能与
+Wnt 信号通路中 LRP5 及 DKK1 基因表达有关。
+[关键词]   低密度脂蛋白; 成骨细胞; 低密度脂蛋白相关蛋白 5; DKK1; Wnt 信号通路
+Effects of glycated low density lipoprotein on the proliferation and differentiation and expression of low-
+density lipoprotein receptor-related protein-5 mRNA, dickkopf-1 mRNA in mouse osteoblasts Xiong
+Yanqin*, Sun Xianghua, Zhang Keqin, Zhou Yun, Zhang Xiuzheng, Lei Tao. *Department of Endocrinology,
+Shanghai Tongji Hospital, Shanghai 200065, China
+[Abstract]   Objective   The aim of this study was to investigate the possible effect of glycated low density
+lipoprotein ( LDL) on the proliferation, differentiation, and expression of low-density lipoprotein receptor-related
+protein 5 (LRP5) mRNA, dickkopf-1 (DKK1) mRNA in mouse osteoblasts(MC3T3-E1 cells) . Whether the Wnt
+signaling pathway was involved in the above process was explored else. Methods Mouse MC3T3-E1 cells were
+cultured with various concentrations of glycated LDL(glycated LDL level was 2. 4% ,5. 3% ,8. 7% ,13. 9% ) for 24,
+48, 72 h. Proliferation of MC3T3-E1 cell was measured by CCK-8, the osteocalcin level in the medium was
+determined by ELISA and the expression of LRP5 mRNA, DKK1 mRNA was measured by realtime PCR. Results
+After cells being incubated with 5. 3% of glycated LDL for 24 h, the inhibition of MC3T3-E1 cells was more marked
+than that in control group(P<0. 01) . The higher glycated LDL level, the severer the inhibition. The effect of LDL on
+the MC3T3-E1 cell proliferation was time- and dose-dependent under certain conditions. Osteocalcin level in cell
+culture fluid with glycated LDL was lowered significantly compared with control group. Meanwhile, the expression of
+DKK1 mRNA was increased significantly but expression of LRP5 mRNA decreased (P<0. 01) in MC3T3-E1 cells
+cultured with 5. 3% of glycated LDL for 24 h. Conclusions Proliferation and differentiation of the osteoblasts in mice
+can be inhibited significantly by glycated LDL. The possible mechanism in the role played by glycated LDL on the
+proliferation and differentiation in MC3T3-E1 cells seems to be related to expression of LRP5 mRNA, DKK1 mRNA in
+the Wnt signaling pathway.
+[Key words]   Low density lipoprotein; Osteoblast; Low density lipoprotein receptor-related protein 5;
+Dickkopf-1; Wnt signaling pathway
+(Chin J Endocrinol Metab, 2014, 30: 654-658)
+骨质疏松症(osteoporosis)是一种以骨量减少和骨
+微结构破坏为特征,导致骨强度下降,骨质脆性增加和
+易于骨折的代谢性骨病综合症。 随着我国人口的老龄
+化,骨质疏松症的患病率明显增加,因此对于骨质疏松
+症的防治非常重要。 糖尿病是常见病,除糖代谢紊乱
+引起血糖增高外,常同时伴有脂代谢的紊乱。 研究表
+明低密度脂蛋白( low density lipoprotein, LDL)胆固醇
+和骨质疏松之间关系密切[1,2];但 LDL 在糖尿病下可
+发生糖化,而 LDL 糖化后对骨代谢的影响如何,目前
+研究罕见[3,4],其确切机制尚不明确。 Wnt 通路在骨形
+成和分化中起着重要的作用, 低密度脂蛋白相关蛋
+白 5 ( low density lipoprotein receptor-related protein 5,
+LRP5)是 LDL 超家族成员,它是 Wnt 的共受体,它的
+增加或减少可导致骨量的增加或减少,而 DKK1 是
+Wnt 通道的抑制因子,能抑制骨形成。 因此本研究拟
+检测 LDL 糖化后对成骨细胞增殖、分化能力的影响,
+同时测定糖化 LDL 对成骨细胞 LRP5、DKK1 mRNA 表
+达情况,以分析糖化 LDL 对成骨细胞作用的可能机
+制。
+材料和方法
+一、 材料
+小鼠成骨样细胞 MC3T3-E1 购自中科院上海细胞
+研究所医学细胞库;无酚红 α-MEM 培养液和胎牛血
+清购自美国 Gibco 公司;LDL 购自美国 Millipore 公司;
+氨基苯硼酸琼脂糖凝胶亲和层析柱由美国 Sigma 公司
+提供。 小鼠骨钙素( osteocalcin) ELISA Kit 购于美国
+IBL 公司;CCK-8 试剂购自南京凯基生物科技发展公
+司; TRIzol 购 于 Invitrogen 公 司, PrimeScriptTM RT
+reagent Kit(Perfect Real Time) DRR037A 购于 Takara 公
+司,SYBR Premix Ex Taq(Perfect Real Time) DRR041A
+购于 Takara 公司,引物由上海生工生物有限公司合
+成。 Synergy2 多功能酶标仪为 BioTek 公司产品,PTC-
+200PCR 仪为 MJ RESEARCH 公司产品,7900HT 荧光
+定量仪为 ABI 公司产品。
+二、 方法
+1. 细胞培养:MC3T3-E1 细胞培养于含 10% 胎牛
+血清的无酚红 α-MEM 培养液中,隔天换液,2 ~ 3 d 传
+代 1 次。
+2. LDL 的糖化:参照 Sima 等[5] 的方法,在无菌的
+条件下,将 2 mg / ml 的 LDL 与不同浓度葡萄糖液(5、
+20、100、200 mmol / L)在 37℃用含 1 mg / ml EDTA 和 10
+μmol / L BHT 抗氧化的情况下孵育 4 周,糖化 LDL 用
+PBS 液透析后备用。
+3. LDL 糖化的测定:采用氨基苯硼酸琼脂糖凝胶
+亲和层析法。 亲和层析柱用平衡液 5 ml 平衡后加入
+含糖化 LDL 的溶液 0. 05 ml,再加入平衡液 0. 1 ml,10
+min 后加入 2. 85 ml 平衡液洗脱,弃掉滴出的含非糖化
+LDL 的液体。 最后加入洗脱液 2 ml,并收集洗脱的糖
+化 LDL 于试管内,在试管中加入胆固醇酶试剂后在
+500 nm 处测定糖化 LDL 胆固醇的吸光度,糖化 LDL
+的值用它所占总 LDL 的百分数表示。 批内 CV 为
+4. 2% ,批间 CV 为 4. 9% 。
+4. 糖化 LDL 对小鼠成骨细胞增殖影响:细胞生长
+至 80% ~ 90% 汇合处,用胰酶消化计数。 以每孔
+5 000 个细胞接种至 96 孔板,常规培养待细胞贴壁后,
+弃去培养液,加入 0. 1 mg / ml 的单纯 LDL 和含不同浓
+度糖化 LDL 的培养液。 设空白对照,空白对照不加
+LDL,只加培养液。 培养处理细胞 24、48、72 h 后,加入
+CCK-8 试剂 10 滋l,继续放入培养箱孵育 1 h 后,在酶联
+免疫检测仪上检测 450 nm 波长处各孔的吸光度(OD)
+值。 并计算糖化 LDL 抑制率(% )。 糖化 LDL 抑制率
+(% )= (对照组 OD 值-糖化 LDL 或单纯 LDL OD 值) /
+对照组 OD 值×100% 。
+5. 细胞培养液中骨钙素水平的测定:细胞传代后
+接种于 6 孔板中,每孔约 105 个细胞,当细胞融合达
+70%时同上分别加入 0. 1 mg / ml 的单纯 LDL 和含不同
+浓度糖化 LDL 的培养液。 设空白对照,空白对照不加
+LDL,只加培养液,继续培养 24、48 和 72 h 收集细胞培
+养上清,吸取上清液,ELISA 法测定成骨细胞上清液中
+骨钙素的水平,用 bradford 方法测定细胞内总蛋白含
+量以校正骨钙素值。
+6. 成骨细胞 LRP5、DKK1 基因 mRNA 的表达:采
+用 RT-PCR 法。 引物合成与设计见表 1,由上海生工公
+司合成。 将各组细胞分别加入 0. 1 mg / ml 的单纯 LDL
+和含不同浓度糖化 LDL 的培养液。 设空白对照, 空白
+表 1  基因和引物序列
+Tab 1  Genes and Sequences of primers
+基因
+Gene
+正义链
+Sense
+(5'-3')
+反义链
+Antisense
+(3忆-5忆)
+产物大小
+Product size
+(bp)
+β-actin AGCGAGCATCCCCCAAAGTT GGGCACGAAGGCTCATCATT 250
+DKK1 TCACACCAAAGGACAAGAAGG CTTGGACCAGAAGTGTCTTGC 88
+LRP5 GACTGTGCTGATGGGTCTGAT GACGAAGAGGGAGAGGATGAT 120
+注:LRP5:低密度脂蛋白相关蛋白 5 Low density lipoprotein receptor-related protein 5
+对照为不加 LDL 的培养液,培养细胞继续培养 24、48
+和 72 h 后,弃去培养液,按常规方法提取总 RNA,采取
+逆转录试剂盒将 RNA 合成 cDNA,再进行荧光定量
+PCR,检测各组细胞 DKK1、LRP5 mRNA 表达情况,每
+组设非糖化的 LDL 对照组和空白对照。 PCR 反应条
+件如下:94℃预变性 4 min;94℃变性 20 s;60℃退火 30
+s;72℃延伸 30 s 循环 35 次;72℃检测信号;扩增完毕
+后进行溶解曲线分析,以确定反应产物的单一性。 每
+组样品重复测量 3 次,各组比较采用 2-△△CT值对基因的
+表达量进行相对分析。
+三、 统计学处理
+所有实验均重复检测 3 次,取平均值,计量资料采
+用 x-± s 的形式。 采用 SPSS 17. 0 统计软件,各种数据
+经过正态检验和方差齐性检验过后,采用单因素方差
+分析或 t 检验进行统计学分析,P<0. 05 为差异有统计
+学意义。
+结    果
+一、 LDL 的糖化值
+LDL 与 不 同 浓 度 葡 萄 糖 液 ( 5、 20、 100、 200
+mmol / L)孵育 4 周,测定 LDL 的糖化值分别为 2. 4% 、
+5. 3% 、8. 7%和 13. 9% 。
+二、 糖化 LDL 对小鼠成骨细胞增值影响
+实验结果表明在 24 h 糖化 LDL 浓度为 5. 3%时,
+成骨细胞的增殖受到抑制,与单纯 LDL 比较,差异具
+有统计学意义(P<0. 01),且糖化浓度越高,抑制越明
+显。 糖化 LDL 在作用时间为 48 h,浓度为 5. 3%时,同
+样可抑制成骨细胞的增殖,随着浓度的增加抑制作用
+有所增加但幅度有所下降。 糖化 LDL 在 72 h 时浓度
+为 5. 3%时,同样可抑制成骨细胞的增殖,但随着浓度
+的增加其对细胞增殖的抑制作用不再增加。 而糖化
+LDL 在 2. 4%时各时间段均不增加细胞的增殖,与单
+纯 LDL 比较无统计学差异(图 1)。
+三、 LDL 对小鼠成骨细胞培养液中骨钙素水平的
+影响
+ELISA 实验结果显示糖化 LDL 在 24 h 浓度为
+5. 3%时,成骨细胞培养液中的骨钙素水平明显下降,
+与对照组比较,差异具有统计学意义(P<0. 01),且糖
+化浓度越高,下降越明显。 糖化 LDL 在作用时间为 48
+h 浓度为 5. 3%时,同样可抑制成骨细胞的增殖,随着
+糖化 LDL 浓度的增加骨钙素水平下降越明显。 糖化
+LDL 在 72 h 浓度为 5. 3%时,可抑制成骨细胞的骨钙
+注:LDL:低密度脂蛋白 Low density lipoprotein;Gly-:糖化 Glycated;vs LDL,aP<0. 01;vs 2. 4% Gly-LDL,bP<0. 01
+图 1  糖化 LDL 对成骨细胞增殖的影响
+Fig 1  The effect of glycated LDL on proliferation of MC3T3 osteoblasts
+注:LDL:低密度脂蛋白 Low density lipoprotein;Gly-:糖化 Glycated;vs LDL,aP<0. 01;vs 2. 4% Gly-LDL,bP<0. 01
+图 2  糖化 LDL 对成骨细胞骨钙素的影响
+Fig 2  The effect of glycated LDL on osteocalcin levels of MC3T3 osteoblasts
+注:LDL:低密度脂蛋白 Low density lipoprotein;LRP5:低密度脂蛋白相关蛋白 5 Low density lipoprotein receptor-related protein 5;Gly-:糖化 Glycated;vs
+LDL,aP<0. 01;vs 2. 4% Gly-LDL,bP<0. 01
+图 3  糖化 LDL 对成骨细胞 LRP5 mRNA 表达的影响
+Fig 3  The effect of glycated LDL on proliferation of LRP5 mRNA in osteoblasts
+注:LDL: 低密度脂蛋白 Low density lipoprotein;CON:对照 Control;Gly-:糖化 Glycated;vs LDL,aP<0. 01;vs 2. 4% Gly-LDL,bP<0. 01
+图 4  糖化 LDL 对成骨细胞 DKK1 mRNA 表达的影响
+Fig 4  The effect of glycated LDL on expression of DKK1 mRNA in osteoblasts
+素水平,但随着浓度的增加其对细胞骨钙素的抑制作
+用不再增加。 而糖化 LDL 在 2. 4%时各时间段均不增
+加细胞的增殖,与单纯 LDL 比较无统计学差异。 糖化
+LDL 与单纯 LDL 比较,在浓度 5. 3% ,时间为 48 h 时
+骨钙素下降(P<0. 01)。 提示糖化 LDL 对成骨细胞骨
+钙素表达具有一定的抑制作用(图 2)。
+四、 糖化 LDL 对小鼠成骨细胞 LRP5 mRNA 和
+DKK1 mRNA 表达的影响
+糖化 LDL 在 24 h 浓度为 5. 3% 时明显下调成骨
+细胞中的 LRP5 mRNA 表达水平,显著上调 DKK1
+mRNA 表达水平,与对照组比较,差异具有统计学意义
+(P<0. 01),糖化浓度越高则幅度越明显。 单因素方差
+分析显示当作用时间为 48 h 和 72 h,糖化 LDL 各组
+LRP5 mRNA 相对表达量虽然下降但已较 24 h 有所减
+弱,而 DKK1 mRNA 相对表达量上调幅度也明显减少。
+单纯 LDL 和 2. 4% 糖化 LDL 组与对照组比较无论是
+LRP5 mRNA 的表达还是 DKK1 mRNA 表达均无统计
+学差异(图 3、图 4)。
+讨    论
+骨重建由骨生成和骨吸收两部分构成,是一个动
+态的过程。 成骨细胞是骨形成、生长、发育的重要细
+胞,其来源于骨髓基质的间质细胞,在骨形成过程中经
+历增殖、分化成熟和基质钙化三个阶段,任何一个阶段
+出现异常都会对骨组成和骨量产生重要的影响。 目前
+有关 LDL 与骨代谢关系的研究结果存在有分歧,一些
+研究表明 LDL 水平与骨密度呈负相关[6];也有研究未
+显示两者的相关性[7]。 这可能涉及 LDL 的成分不一
+和 LDL 不同修饰,尤其是糖尿病高糖下极易发生 LDL
+的糖化,但糖化 LDL 是否对骨代谢有影响,尤其是对
+成骨细胞是否有直接影响以及如何影响未见报道。 本
+研究发现当糖化 LDL 达到 5. 3% 时,明显抑制成骨细
+胞的增殖,且糖化 LDL 对成骨细胞增殖的抑制作用在
+一定程度上呈剂量及作用时间依赖性,但随着时间延
+长,糖化 LDL 增高到一定程度则不再抑制成骨细胞的
+增殖。 这与氧化 LDL 对成骨细胞的作用相似,Brodeur
+等[8]观察到 10 ~ 50 μg / ml 的氧化 LDL( oxidized low
+density lipoprotein, Ox-LDL)可促进成骨细胞的增殖,
+而 150 μg / ml 浓度以上的 Ox-LDL 可杀死细胞并诱导
+成骨细胞的凋亡。 Klein 等[9]发现 LDL 和氧化 LDL 可
+诱导 Saos2 成骨细胞凋亡,同时 LDL 可上调促凋亡基
+因 Bcl-Xs 和下调抗凋亡 Src 激酶活性,说明 LDL 及其
+修饰化在成骨细胞中具有多重功能。
+骨钙素在骨矿化峰期之后才出现积聚,由成骨细
+胞合成并分泌,不受骨吸收因素的影响,因此骨钙素可
+以了解成骨细胞特别是新形成的成骨细胞的活动状
+态,反映了成骨细胞的活性。 临床发现糖尿病患者血
+糖控制不佳时骨钙素水平明显升高[10];但机制未明。
+本研究发现 5. 3% 糖化 LDL 在 24 h 时明显抑制成骨
+细胞中的骨钙素表达,随着 LDL 浓度和作用时间的增
+加,抑制作用不断增强,而正常的糖化 LDL (糖化
+2. 4% )与非糖化 LDL 没有抑制成骨细胞骨钙素的表
+达,说明增高糖化 LDL 可抑制成骨细胞中骨钙素的表
+达,提示糖化 LDL 增高可能引起骨形成的下降。
+本研究结果显示 5. 3% 及其以上的糖化 LDL 在
+24、48 和 72 h 均明显下调成骨细胞中的 LRP5 mRNA
+表达,显著上调 DKK1 mRNA 表达,但正常糖化 LDL 和
+非糖化 LDL 对 LRP5 mRNA 和 DKK1 mRNA 表达没有
+影响,提示过度糖化 LDL 可通过 Wnt 信号通路 LRP-5
+及其抑制剂 DKK1 的表达,进而影响成骨细胞的增殖
+和分化。 而 Wnt 通路可调节成骨细胞的分化、骨基质
+的形成及矿化、破骨细胞的功能和骨吸收等多个环
+节[11]。 研究显示 LRP5 可通过 Wnt / LRP5 / β-连环蛋
+白途径直接调节成骨细胞功能及骨量[12]。 DKK1 是
+由细胞分泌的生物活性物质,DKK-1 可直接与 LRP 受
+体结合, 或者与其跨膜受体 Kremen 结合后再与
+LRP5 / 6 结合形成三聚体,诱导细胞内吞,减少细胞膜
+上的 LRP5 / 6,从而阻断了 Wnt 信号向胞内的传递[13]。
+此外过度表达的 DKK-1 可抑制骨髓基质细胞向成骨
+细胞分化,使成骨细胞数量减少并抑制骨基质的矿化
+及骨折后的修复[14]。 本研究结果显示糖化 LDL 在 24
+h 时明显下调成骨细胞中的 LRP5 mRNA 表达,显著上
+调 DKK1 mRNA 表达,但正常糖化 LDL 和非糖化 LDL
+对 LRP5 mRNA 和 DKK1 mRNA 表达没有影响,提示过
+度糖化 LDL 对成骨细胞增殖和分化的抑制作用可能
+与 Wnt 信号通路 LRP5 及其抑制剂 DKK1 的表达有一
+定关系,其机制还需进一步进行探讨。

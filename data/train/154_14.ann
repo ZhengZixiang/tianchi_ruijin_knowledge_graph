@@ -1,0 +1,435 @@
+T1	Disease 140 146	2 型糖尿病
+T2	Disease 209 215	2 型糖尿病
+T3	Disease 310 316	2 型糖尿病
+T4	Disease 334 340	2 型糖尿病
+T5	Disease 370 376	2 型糖尿病
+T6	Disease 1944 1950	2 型糖尿病
+T7	Disease 2122 2128	2 型糖尿病
+T8	Disease 2141 2144;2145 2148	2 型 糖尿病
+T9	Disease 2169 2175	2 型糖尿病
+T10	Disease 2250 2256	2 型糖尿病
+T11	Disease 2420 2426	2 型糖尿病
+T12	Disease 2677 2683	2 型糖尿病
+T13	Disease 2728 2734	2 型糖尿病
+T14	Disease 3097 3103	2 型糖尿病
+T15	Disease 3125 3131	2 型糖尿病
+T16	Disease 3156 3162	2 型糖尿病
+T17	Disease 4320 4324;4325 4327	2 型糖 尿病
+T18	Disease 4663 4669	2 型糖尿病
+T19	Disease 4741 4747	2 型糖尿病
+T20	Disease 4771 4777	2 型糖尿病
+T21	Disease 4843 4849	2 型糖尿病
+T22	Disease 5767 5773	2 型糖尿病
+T23	Disease 6009 6015	2 型糖尿病
+T24	Disease 6185 6191	2 型糖尿病
+T25	Disease 6275 6281	2 型糖尿病
+T26	Disease 6335 6339;6340 6342	2 型糖 尿病
+T27	Disease 6426 6432	2 型糖尿病
+T28	Disease 6548 6554	2 型糖尿病
+T29	Disease 6589 6595	2 型糖尿病
+T30	Disease 7248 7254	2 型糖尿病
+T31	Disease 7608 7614	2 型糖尿病
+T32	Disease 7756 7762	2 型糖尿病
+T33	Disease 8281 8287	2 型糖尿病
+T34	Disease 8332 8338	2 型糖尿病
+T35	Disease 8176 8177;8178 8182	2 型糖尿病
+T36	Test 2603 2608	HBA1C
+T37	Drug 5761 5765	二甲双胍
+T38	Drug 5792 5796	二甲双胍
+T39	Drug 5815 5817;5818 5820	二甲 双胍
+T40	Drug 5863 5867	二甲双胍
+T41	Drug 5992 5993;5994 5997	二 甲双胍
+T42	Drug 6040 6044	二甲双胍
+T43	Drug 6097 6101	二甲双胍
+T44	Drug 6127 6129;6130 6132	二甲 双胍
+T45	Drug 6176 6180	二甲双胍
+T46	Drug 6267 6271	二甲双胍
+T47	Test 3979 3982	肝功能
+T48	Test 3005 3014	超敏 C 反应蛋白
+T49	Disease 4673 4678	代谢综合征
+T50	Disease 7391 7396	代谢综合征
+T51	Test 2978 2983	游离脂肪酸
+T52	Anatomy 3392 3396	β 细胞
+T53	Drug 6394 6398	阿卡波糖
+T54	Drug 6460 6464	阿卡波糖
+T55	Drug 6482 6486	阿卡波糖
+T56	Drug 6530 6534	阿卡波糖
+T57	Test 2648 2651	脂联素
+T58	Test 2706 2709	脂联素
+T59	Test 3329 3331	体重
+T60	Test 4074 4076	体重
+T61	Test 4135 4137	体重
+T62	Test 5706 5708	体重
+T63	Test 6947 6949	体重
+T64	Test 7718 7720	体重
+T65	Test 7890 7892	体重
+T66	Test 7964 7966	体重
+T67	Disease 7663 7668;7669 7670	2 型糖尿 病
+T68	Disease 7475 7479;7480 7481	代谢综合 征
+T69	Disease 3104 3109	心血管疾病
+T70	Test 2622 2627	HbA1C
+T71	Anatomy 5959 5963	脂肪组织
+T72	Test 2636 2638;2639 2641	三酰 甘油
+T73	Test 2973 2977	三酰甘油
+T74	Test 4728 4731	脂多糖
+T75	Test 2599 2601	血糖
+T76	Test 2619 2621	血糖
+T77	Test 3204 3206	血糖
+T78	Test 4233 4235	血糖
+T79	Test 6075 6077	血糖
+T80	Test 6257 6259	血糖
+T81	Test 7729 7731	血糖
+T82	Test 2798 2804	基因丰富程度
+T83	Test 2893 2899	基因丰富程度
+T84	Test 2928 2934	基因丰富程度
+T85	Test 2938 2944	基因丰富程度
+T86	Test 3030 3032;3033 3037	基因 丰富程度
+T87	Test 3062 3068	基因丰富程度
+T88	Test 3080 3086	基因丰富程度
+T89	Symptom 1968 1970;1971 1974	糖代 谢紊乱
+T90	Symptom 2197 2200	高血糖
+T91	Disease 2202 2207	胰岛素抵抗
+T92	Reason 2721 2726	胰岛素抵抗
+T93	Disease 2537 2540	糖尿病
+T94	Disease 2531 2536	糖耐量受损
+T95	Test 2628 2631	胰岛素
+T96	Test 2632 2635	C 肽
+T97	Test_Value 2983 2985	增加
+T98	Test 2986 2989	HDL
+T99	Test_Value 2990 2992	降低
+T100	Test_Value 3016 3018	升高
+T101	Test 3019 3024	白细胞计数
+T102	Test_Value 3024 3026	增加
+T103	Drug 3847 3850	抗生素
+T104	Anatomy 3960 3962	肠道
+T105	Anatomy 4026 4028	肠道
+T106	Disease 4281 4284	糖尿病
+T107	Disease 4629 4635	高胰岛素血症
+T108	Disease 4640 4642	肥胖
+T109	Disease 4643 4644;4645 4649	胰 岛素抵抗
+T110	Disease 4600 4608	代谢性内毒素血症
+T111	Anatomy 4965 4967	肠道
+T112	Disease 5188 5190	肠炎
+T113	Amount 6465 6475	150 mg / d
+T114	Test_Value 6496 6498	增高
+T115	Test_Value 6518 6520	下降
+T116	Anatomy 6959 6961	肠道
+T117	Treatment 7262 7266	菌群移植
+T118	Operation 7685 7689	减重手术
+T119	Operation 7711 7715	减重手术
+T120	Test 7734 7737	胆固醇
+T121	Operation 7789 7793	减重手术
+T122	Operation 7950 7958	垂直套筒胃切除术
+T123	Operation 7919 7923	减重手术
+T124	Anatomy 8141 8143	肠壁
+T125	Anatomy 8123 8125	肠道
+T126	Anatomy 8149 8151	肠道
+T127	Disease 8166 8174	代谢性内毒素血症
+T128	Disease 8202 8205	糖尿病
+T129	Anatomy 8211 8213	肠道
+T130	Anatomy 8223 8225	肠道
+T131	Treatment 8255 8261	肠道菌群移植
+T132	Drug 8265 8270	微生态制剂
+T133	Anatomy 8289 8291	肠道
+T134	Disease 8315 8318	糖尿病
+T135	Operation 7959 7962	VSG
+T136	Test_Value 7966 7968	减轻
+T137	Test_Value 7975 7977	提高
+T138	Test 7980 7983	胆汁酸
+T139	Test_Value 7985 7987	增加
+T140	Anatomy 7991 7994	FXR
+T141	Operation 8001 8004	VSG
+T142	Operation 8032 8035	VSG
+T143	Operation 8065 8069	减重手术
+T144	Anatomy 8071 8073	肠道
+T145	Anatomy 8089 8091	肠道
+T146	Test_Value 7892 7894	减轻
+T147	Anatomy 7926 7928	肠道
+T148	Anatomy 7804 7806	肠道
+T149	Operation 7819 7833	Roux-en-Y 胃旁路术
+T150	Operation 7834 7838	RYGB
+T151	Anatomy 7843 7845	肠道
+T152	Operation 7862 7866	RYGB
+T153	Disease 7750 7752	肥胖
+T154	Treatment 7597 7600;7601 7604	肠道菌 群移植
+T155	Anatomy 7487 7489	肠道
+T156	Treatment 7507 7508;7509 7512	粪 菌移植
+T157	Anatomy 7515 7517	肠道
+T158	Treatment 7566 7567;7568 7571	菌 群移植
+T159	Test_Value 7416 7418	增加
+T160	Test 7420 7426	胰岛素敏感性
+T161	Test_Value 7428 7430	提高
+T162	Disease 7275 7277	肥胖
+T163	Disease 7278 7283	胰岛素抵抗
+T164	Disease 7284 7286;7287 7288	糖尿 病
+T165	Anatomy 7267 7269	肠道
+T166	Treatment 7303 7309	肠道菌群移植
+T167	Test 7068 7073	葡萄糖耐量
+T168	Disease 7125 7130	胰岛素抵抗
+T169	Disease 7147 7150;7151 7153	胰岛素 抵抗
+T170	Disease 7215 7218	糖尿病
+T171	Anatomy 6613 6615	肠道
+T172	Drug 6603 6608	微生态制剂
+T173	Drug 6630 6633	益生菌
+T174	Drug 6646 6649	益生元
+T175	Drug 6662 6665	合生元
+T176	Drug 6679 6684	微生态制剂
+T177	Drug 6689 6703	益生菌干酪乳杆菌 Zhang
+T178	Anatomy 6734 6736	肠道
+T179	Test 6747 6750	内毒素
+T180	Anatomy 6880 6882	肠道
+T181	Anatomy 6399 6401	肠道
+T182	Anatomy 6375 6377	肠道
+T183	Anatomy 6195 6196;6197 6198	肠 道
+T184	Anatomy 5829 5831	肠道
+T185	Anatomy 5747 5749	肠道
+T186	Anatomy 5579 5581	肠道
+T187	Anatomy 5625 5627	肠道
+T188	Disease 5644 5646	肥胖
+T189	Anatomy 5218 5220	肠道
+T190	Disease 5228 5230	肠炎
+T191	Anatomy 5276 5278	肠道
+T192	Anatomy 5310 5312	肠道
+T193	Anatomy 5328 5330	肠道
+T194	Anatomy 5357 5359	肠道
+T195	Disease 5377 5378;5379 5380	肥 胖
+T196	Anatomy 5383 5385	肠道
+T197	Anatomy 4880 4882	肠道
+T198	Anatomy 4929 4931	肠道
+T199	Anatomy 4779 4781	肠道
+T200	Test 4784 4791	产丁酸盐有益菌
+T201	Test_Value 4791 4793	减少
+T202	Disease 4816 4824	代谢性内毒素血症
+T203	Anatomy 4827 4829	肠壁
+T204	Disease 4852 4854	肥胖
+T205	Anatomy 4749 4751	肠道
+T206	Test_Value 4734 4736	升高
+T207	Disease 4670 4672	肥胖
+T208	Test 4700 4703	脂多糖
+T209	Test_Value 4714 4716	升高
+T210	Anatomy 4298 4300	肠道
+T211	Disease 4310 4312	肥胖
+T212	Disease 4313 4318	胰岛素抵抗
+T213	Anatomy 4345 4347	肠道
+T214	Anatomy 4407 4411	PRRs
+T215	Anatomy 4545 4551	急性炎症细胞
+T216	Anatomy 4571 4573	肠道
+T217	Test 4198 4201	胆汁酸
+T218	Test_Value 4203 4205	升高
+T219	Test 4210 4215	FGF19
+T220	Anatomy 4258 4260	肠道
+T221	Anatomy 3915 3917	肠道
+T222	Anatomy 3934 3938	TGR5
+T223	Anatomy 3951 3955	TGR5
+T224	Disease 3974 3976	肥胖
+T225	Test 3983 3986	糖耐受
+T226	Anatomy 4006 4017	法尼脂衍生物 X 受体
+T227	Anatomy 4018 4021	FXR
+T228	Disease 4079 4084	胰岛素抵抗
+T229	Test 4140 4143	胆固醇
+T230	Test 3864 3867	糖耐受
+T231	Disease 3869 3874	胰岛素抵抗
+T232	Test 3888 3891	胆汁酸
+T233	Test_Value 3891 3893	增加
+T234	Drug 3809 3813	万古霉素
+T235	Drug 3814 3817	杆菌肽
+T236	Test 3820 3823	拟杆菌
+T237	Test 3824 3828	厚壁杆菌
+T238	Test_Value 3830 3832	减少
+T239	Anatomy 3754 3756	脂肪
+T240	Anatomy 3544 3546	肠道
+T241	Anatomy 3562 3569	肠道内分泌细胞
+T242	Disease 3456 3458	肥胖
+T243	Anatomy 3492 3494	肠道
+T244	Anatomy 3144 3146	肠道
+T245	Anatomy 3239 3241	肠道
+T246	Anatomy 3283 3285	肠道
+T247	Anatomy 3119 3121	肠道
+T248	Disease 3090 3092	肥胖
+T249	Anatomy 134 136	肠道
+T250	Anatomy 194 196	肠道
+T251	Anatomy 225 227	肠道
+T252	Anatomy 264 266	肠道
+T253	Anatomy 285 287	肠道
+T254	Anatomy 297 299	肠道
+T255	Symptom 347 350	高血糖
+T256	Disease 352 357	胰岛素抵抗
+T257	Anatomy 363 365	肠道
+T258	Anatomy 407 409	肠道
+T259	Drug 416 421	微生物制剂
+T260	Treatment 422 426;427 429	肠道菌群 移植
+T261	Reason 1985 1995	胰岛素缺乏和作用障碍
+T262	Anatomy 2018 2020	肠道
+T263	Anatomy 2029 2031	肠道
+T264	Anatomy 2067 2069	肠道
+T265	Anatomy 2115 2117	肠道
+T266	Anatomy 2163 2165	肠道
+T267	Anatomy 2181 2183	肠道
+T268	Disease 2208 2211	糖尿病
+T269	Anatomy 2218 2220	肠道
+T270	Test 2232 2234	血糖
+T271	Disease 2237 2242	胰岛素抵抗
+T272	Level 2429 2431	中度
+T273	Symptom 2432 2441	肠道微生物菌群失调
+T274	Test 2450 2458	产丁酸盐细菌丰度
+T275	Test_Value 2458 2459;2460 2461	下 降
+T276	Anatomy 2544 2546	肠道
+T277	Disease 2555 2558	糖尿病
+T278	Disease 2562 2565	糖尿病
+T279	Anatomy 2567 2569	肠道
+T280	Test 2652 2658	高密度脂蛋白
+T281	Test 2659 2662	HDL
+T282	Test_Value 2711 2713	减少
+T283	Symptom 2701 2705	血脂紊乱
+T284	Reason 2744 2746	肥胖
+T285	Disease 2748 2753	胰岛素抵抗
+T286	Disease 2774 2776	肥胖
+T287	Disease 2778 2779;2780 2781	肥 胖
+T288	Anatomy 2783 2785	肠道
+T289	Test 2832 2840	肠道菌群基因数目
+T290	Disease 2954 2959	胰岛素抵抗
+T291	Disease 2960 2966	高胰岛素血症
+T292	Disease 3040 3042	肥胖
+T293	Reason 4688 4694	低度慢性炎症
+T294	Anatomy 4857 4859	肠壁
+T295	Test 8026 8029	胆汁酸
+T296	Disease 7660 7662	肥胖
+T297	Anatomy 7407 7409	肠道
+T298	Treatment 7483 7485	移植
+T299	Disease 7289 7294	代谢性疾病
+T300	Test_Value 6949 6950;6951 6952	减 轻
+T301	Test_Value 6956 6958	更少
+T302	Test 6961 6964	黏液层
+T303	Test_Value 6964 6966	更厚
+T304	Test 7107 7121;7122 7124	A. muciniphila 丰度
+T305	Test 6759 6762	氯离子
+T306	Test 6884 6898	A. muciniphila
+T307	Disease 6931 6935	代谢紊乱
+T308	Test_Value 6542 6545;6546 6547	显著增 加
+T309	Test 6569 6573	炎症因子
+T310	Test 6232 6234	丁酸
+T311	Test 6235 6237	丙酸
+T312	Test 6102 6119	A. muciniphila 数量
+T313	Test_Value 6121 6123	增加
+T314	Test 6134 6148	A. muciniphila
+T315	Test 6049 6063;6064 6066	A. muciniphila 数量
+T316	Test_Value 6066 6068	增加
+T317	Test 6072 6074	丰度
+T318	Duration 5868 5871	6 周
+T319	Test 5895 5912	A. muciniphila 数量
+T320	Test_Value 5912 5914	增加
+T321	Test 5950 5955	糖耐受能力
+T322	Test_Value 5956 5958	提高
+T323	Test_Value 5536 5537;5538 5539	减 少
+T324	Test_Value 5708 5709;5710 5711	减 轻
+T325	Level 5232 5236	有所缓解
+T326	Anatomy 5259 5261	肠道
+T327	Anatomy 5136 5141	miRNA
+T328	Anatomy 5165 5172;5173 5174	miRNA 基 因
+T329	Anatomy 5250 5255	miRNA
+T330	Anatomy 4913 4915	肠道
+T331	Anatomy 5075 5076	卵
+T332	Anatomy 5084 5085	卵
+T333	Test 5092 5099	史氏甲烷短杆菌
+T334	Test_Value 4805 4807	增加
+T335	Disease 4303 4309	低度慢性炎症
+T336	Anatomy 4414 4418	PRRs
+T337	Anatomy 4511 4521	Toll 样受体 4
+T338	Test 4574 4581	含脂多糖的细菌
+T339	Test_Value 4581 4583	增多
+T340	Test_Value 4595 4597	增多
+T341	Method 4176 4178	口服
+T342	Drug 4179 4184	伊氏乳杆菌
+T343	Test 4227 4228;4229 4231	胆 汁酸
+T344	Test 3924 3929	次级胆汁酸
+T345	Test 4001 4002;4003 4005	胆 汁酸
+T346	Test 4101 4103;4104 4110	胆汁 酸水解酶活性
+T347	Test 4113 4116	胆汁酸
+T348	Test 4122 4127	次级胆汁酸
+T349	Test_Value 4138 4140	降低
+T350	Test 3833 3836;3837 3840	有益代 谢产物
+T351	Test_Value 3840 3842	增加
+T352	Test 3747 3750	胆汁酸
+T353	Test 3557 3559	吲哚
+T354	Test 3371 3374	醋酸盐
+T355	Test 3401 3404	胰岛素
+T356	Test 3410 3413	胃泌素
+T357	Test 3424 3428	胃饥饿素
+T358	Test 3415 3422	gastrin
+T359	Test 3429 3436	ghrelin
+T360	Test 3474 3476	丁酸
+T361	Test 3518 3520	丙酸
+T362	Anatomy 3523 3524	肠
+T363	Anatomy 3525 3526	脑
+T364	Test 3530 3535	糖异生基因
+T365	Test 3494 3502	糖异生相关的基因
+T366	Test 3332 3335	醋酸盐
+T367	Test_Value 3528 3530	增加
+T368	Test 3174 3179	短链脂肪酸
+T369	Test 3180 3182	吲哚
+T370	Test 3183 3186	胆汁酸
+T371	Anatomy 3190 3192	肠道
+T372	Test 3216 3221	短链脂肪酸
+T373	Test 3224 3227	丁酸盐
+T374	Test 3228 3231	丙酸盐
+T375	Test 3233 3236	醋酸盐
+T376	Test 3250 3256	胰岛素敏感性
+T377	Test 3296 3298	肠肽
+T378	Test 3311 3313	丁酸
+T379	Test 3314 3316	丙酸
+T380	Reason 2244 2248	慢性炎症
+T381	Anatomy 2347 2349	肠道
+T382	Drug 4480 4483	脂多糖
+T383	Anatomy 328 330	肠道
+T384	Anatomy 2475 2477	肠道
+T385	Test_Value 2934 2936	较高
+T386	Test_Value 2945 2947	较低
+T387	Test_Value 3037 3039	较低
+T388	Test_Value 3068 3070	较高
+T389	Test_Value 3086 3088	较低
+T390	Anatomy 3163 3165	肠道
+T391	Anatomy 5883 5885	肠道
+T392	Test 3050 3052	体重
+T393	Test 3571 3575;3576 3580	胰升糖素 样肽 1
+T394	Test 3606 3611	GLP-1
+T395	Test 3645 3650	GLP-1
+T396	Test 3721 3726	GLP-1
+T397	Test 3897 3902	GLP-1
+T398	Test 3963 3968	GLP-1
+T399	Symptom 2687 2692	高三酰甘油
+T400	Test 6499 6502	脂多糖
+T401	Symptom 4625 4628	高血糖
+T402	Disease 4613 4616;4617 4622	代谢性 内毒素血症
+T403	Anatomy 5120 5125	肠道黏液层
+T404	Anatomy 5181 5183	肠道
+T405	Disease 5712 5716	代谢紊乱
+T406	Test 6490 6494	双歧杆菌
+T407	Test 6503 6514	凝血酶原激活抑制物 1
+T408	Reason 6967 6972	胰岛素抵抗
+T409	Reason 8157 8163	肠道菌群失衡
+T410	Test 7969 7972;7973 7975	糖耐受 水平
+T411	Anatomy 7872 7874	肠道
+T412	Disease 7676 7679	糖尿病
+T413	Test 7409 7416	产丁酸细菌数量
+T414	Anatomy 7381 7383	肠道
+T415	Test 6953 6956	脂肪量
+T416	Symptom 6770 6773	高血糖
+T417	Test 6558 6564	双歧杆菌水平
+T418	Anatomy 6327 6329	肠道
+T419	Anatomy 5420 5422	肠道
+T420	Anatomy 5442 5444	肠道
+T421	Anatomy 5534 5536	脂肪
+T422	Disease 5549 5551	肥胖
+T423	Test 4795 4798;4799 4805	含脂多 糖的菌种数量
+T424	Test 4704 4706;4707 4712	脂多 糖结合蛋白
+T425	Reason 4331 4341	全身和脂肪组织的炎症
+T426	Anatomy 4351 4352;4353 4374	特 定细胞胞膜或相关分子激活宿主的模式识别受体
+T427	Test 4590 4593	脂多糖
+T428	Test 4030 4033;4034 4043	成纤维 细胞生长因子 15
+T429	Test 4044 4049	FGF15
+T430	Test 4055 4060	FGF19
+T431	Test 4146 4153	肝脂肪变性程度
+T432	Symptom 2693 2698	低 HDL
+T433	Anatomy 2861 2863	肠道
+T434	Test 3459 3465	胰岛素耐受性
+T435	Anatomy 6991 7000	葡萄糖-6-磷酸酶

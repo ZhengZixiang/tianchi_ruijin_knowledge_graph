@@ -1,0 +1,332 @@
+甲状腺疾病
+基金项目:贵阳市科学技术计划项目[(2010)筑科农合同第 1-社-
+20 号、筑科农合同(201303)25 号]
+正常甲状腺功能人群血清促甲状腺素与血脂
+异常的相关性
+胡颖  时立新  张巧  彭年春
+[摘要]   目的  探讨血清促甲状腺素(TSH)与血脂异常的相关性。 方法 2009 年 10 月至 2010 年 2
+月在贵阳市宅吉社区整群随机抽取居民 1 512 人,纳入 1 428 人,详细填写流行病学调查问卷,测量身高、体
+重、腰围及血压,采集血样测定 TSH、空腹血糖(FPG)、空腹胰岛素(FINS)和血脂水平。 结果 女性三酰甘
+油(TG)、总胆固醇、高密度脂蛋白胆固醇、低密度脂蛋白胆固醇水平亚临床甲减组较甲状腺功能正常组明
+显升高(P<0. 05),而男性 2 组间差异无统计学意义(P>0. 05)。 甲状腺功能正常组 TSH 四分位 Q1 到 Q4
+组,高 TG 血症的发生率分别为 33. 3% 、35. 5% 、39. 7% 、44. 0% ,差异有统计学意义(P<0. 05),特别是女性
+及总人群中的 TG 水平随着 TSH 水平的升高而逐渐增加(P<0. 05),校正性别、年龄、体重指数(BMI)、稳态
+模型评估的胰岛素抵抗指数(HOMA-IR)后这种关系仍然存在(P<0. 05)。 校正年龄、BMI、HOMA-IR 后
+TSH 水平与 TG 正相关(β=0. 064,P<0. 05)。 结论 即使在正常范围内 TSH 水平的升高也可能是血脂异
+常的危险因素。
+[关键词]   TSH; 血脂异常
+Correlation of serum thyroid-stimulating hormone with dyslipidemia in subjects with normal thyroid function
+Hu Ying, Shi Lixin, Zhang Qiao, Peng Nianchun. Department of Endocrine and Metabolic Diseases, Affiliated
+Hospital of Guiyang Medical College, Guiyang 550004, China
+[Abstract]   Objective   To explore the relationship between serum thyroid-stimulating hormone (TSH) and
+dyslipidemia. Methods A total of 1 512 inhabitants in Zhaiji community of Guiyang urban areas were investigated
+from November 2009 to February 2010 by adopting stratified cluster sampling method, and 1 428 subjects were
+included in the present study. All subjects were asked to fulfill the questionnaires and to pass a physical
+examination. The vein blood samples were taken for determination of serum TSH, fasting plasma glucose ( FPG),
+insulin, as well as blood lipid levels. Results Triglyceride ( TG), total cholesterol, high density lipoprotein
+cholesterol, and low density lipoprotein cholesterol levels were significantly increased in woman with subclinical
+hypothyroidism(SCH) compared to those with euthyroid(all P<0. 05) . However, there was no significant difference
+in man between two groups(P>0. 05) . The incidences of hypertriglyceridemia in the euthyroid group from quartile 1
+to quartile 4 of TSH were 33. 3% , 35. 5% , 39. 7% , and 44. 0% respectively (P<0. 05) . Serum TG level was
+increased with TSH in woman and total subjects after adjustment for age, sex, body mass index(BMI), waist-hip ratio
+(WHR), and homeostasis model assessment for insulin resistance index(HOMA-IR, P<0. 05) . Serum TSH levels in
+the total sample were positively associated with TG after adjustment for age, sex, BMI, WHR, and HOMA-IR (β =
+0. 088,P<0. 05) . Conclusion Higher serum TSH levels even within normal range seems to be a risk factor of
+dyslipidemia.
+[Key words]  TSH; Dyslipidemia
+(Chin J Endocrinol Metab, 2016, 32: 15-18)
+促甲状腺素(TSH)由位于垂体前叶的促甲状腺素
+细胞合成并分泌,进入甲状腺与细胞膜上的促甲状腺
+素受体(TSHR)结合,刺激甲状腺激素的合成与释放。
+甲状腺功能紊乱与心血管疾病的发生密切相关[1],研
+究指出甲状腺功能正常者 TSH 水平的轻微变化也会
+增加患心血管疾病的风险[2],临床上发现亚临床甲状
+腺功能减退患者,表现为 TSH 水平升高而血清甲状腺
+激素水平正常,血脂谱可与甲状腺功能减退症有相似
+的改变,提示脂代谢的改变可能与 TSH 的关系更加密
+切[3]。 因此,正常范围内的 TSH 是否会影响血脂成为
+热点话题,目前正常范围内不同水平的 TSH 与血脂的
+关系仍存在争议。 有研究认为 TSH 在参考范围内可
+能与三酰甘油(TG)、总胆固醇(TC)及低密度脂蛋白
+胆固醇( LDL-C)呈正相关,与高密度脂蛋白胆固醇
+(HDL-C)呈负相关[4];另一些研究认为 TSH 与 TG 呈
+明显正相关,与 TC、LDL-C 及 HDL-C 无关[5]。 本文旨
+在通过流行病学调查所获 1428 名社区人群资料探讨
+TSH 水平与各组血脂谱之间的关系,重点探讨 TSH 在
+正常范围内的水平变化与血脂谱各指标之间的相关性
+及其对血脂异常发生危险性的影响,为不同人群的血
+脂调控和治疗提供更多的临床证据。
+对象和方法
+一、 对象
+采用整群随机抽样方法调查于贵阳市宅吉区居住
+10 年及以上者共 1 512 人,年龄在 20 ~ 78 岁之间,其
+中男性 634 人,女性 878 人。 排除标准:有甲状腺疾病
+病史,服用甲状腺激素或抗甲状腺药物,有甲状腺手术
+史或放射治疗史;患肾上腺皮质功能低下、肾功能不全
+等其他严重的全身性疾病或慢性消耗性疾病;服用影
+响甲状腺功能的药物,如糖皮质激素、抗癫痫药、避孕
+药等;妊娠或产后 1 年内妇女;经本次甲状腺功能测定
+后诊断为甲状腺功能减退症(甲减)和甲状腺功能亢
+进(甲亢)者;资料不全者。 经严格筛选,其中既往有
+甲亢病史者 31 人,甲减病史者 6 人,经本次检查确定
+甲亢 14 人,甲减 24 人,缺少资料者 9 人,最后纳入
+1 428 人。
+二、 方法
+1. 病史采集:所有同意参加本次调查的居民需签
+订知情同意书,提前告知所有参加的居民检查当天空
+腹,空腹即 8 ~ 10 h 内无任何热量摄入。 使用统一设
+计的问卷调查表,由经过培训的专业医师按照调查表
+详细询问病史,调查表内容包括姓名、性别、年龄、家庭
+育情况、医疗保险等一般情况,碘摄入情况,有无糖尿
+病史、血脂异常病史、高血压病史以及相关治疗情况
+等,个人甲状腺疾病病史及治疗情况,家族甲状腺疾病
+病史等。 参加者穿贴身衣服、脱鞋的情况下测量身高、
+体重、腰围、血压。 体重指数(BMI)= 体重(kg) /身高2
+(m2)。
+2. 实验室检测:所有受试者进行 75 g 无水葡萄糖
+耐量试验,测定 FPG 及 2hPG。 空腹血标本测定 TSH、
+TG、HDL-C、胰岛素水平。 TSH 水平异常者进一步测
+定血清游离三碘甲状腺原氨酸(FT3)、游离甲状腺素
+( FT4 )。 TSH、 FT4、 FT3 采 用 电 化 学 发 光 法 测 定
+(COBAS-E601 全自动免疫发光分析仪,瑞士罗氏公
+司),由研究中心统一检测。 血浆葡萄糖浓度采用葡
+萄糖氧化酶法测定、血清 TG 采用甘油磷酸化酶法测
+定、血清 HDL-C 采用直接法测定(Bayer ADVIA 1650
+高速全自动生化分析仪,德国西门子),以上指标血标
+本分离后当天送检。 空腹胰岛素测量采用化学发光法
+(ADVIA Centaur XP 全自动免疫分析仪,德国西门
+子)。 稳态模型评估的胰岛素抵抗指数(HOMA-IR)=
+FPG(mmol / L)×空腹胰岛素(mIU / L) / 22. 5。
+3. 诊断标准及分组:(1)按甲状腺功能分组:甲状
+腺疾病的诊断标准(由研究中心统一制定):淤亚临床
+甲减组:TSH>6. 25 mU / L 且 FT4、FT3正常;于甲状腺功
+能正常组(正常组):0. 71 mU / L≤TSH≤6. 25 mU / L 且
+FT4、FT3正常。 (2) 将甲状腺功能正常组按照 TSH 四
+分位数分为 Q1 组(0. 71 ~ 2. 20 mU / L)、Q2 组(2. 21 ~
+3. 06 mU / L)、 Q3 组 ( 3. 07 ~ 4. 90 mU / L)、 Q4 组
+(4. 91 ~ 6. 25 mU / L)4 个亚组。
+三、 统计学处理
+所有数据均输入 Excel 表,应用 SPSS 20. 0 软件进
+行统计学分析。 2 组均数比较应用 t 检验,2 组以上均
+数组间比较用单因素方差分析;率的比较用卡方检验;
+相关性分析应用多元线性回归。 以 P<0. 05 为差异有
+统计学意义。
+结    果
+一、 人群一般情况分析
+1 428 人入组,其中男性 610 人(占 42. 72% ),女
+性 818 人(占 57. 28% ),男女比例 1 : 1. 34,平均年龄
+(45 ±15)岁, 亚临床甲减者 14. 57% 、亚临床甲亢者
+0. 9% 、甲状腺功能正常者 84. 52% ,男性 BMI、腰围、
+腰臀比、FPG、TSH、HOMA-IR、TG 均高于女性,男性的
+HDL-C 低于女性,差异有统计学意义(P<0. 05,表 1)。
+二、 甲状腺功能正常组与亚临床甲减组之间血脂
+比较
+女性 TG、TC、HDL-C、LDL-C 水平亚临床甲减组较
+甲状腺功能正常组升高,2 组间差异有统计学意义
+(P<0. 05),而男性 TG、TC、HDL-C、LDL-C 水平 2 组间
+差异无统计学意义(P>0. 05,表 2)。
+三、 甲状腺功能正常人群 TSH 与血脂之间的关系
+甲状腺功能正常组的 4 个亚组中,Q1 到 Q4 高 TG
+血症 的 发 生 率 分 别 为 33. 3% 、 35. 5% 、 39. 7% 、
+44. 0% ,差异有显著性(P<0. 05);特别是女性及总人
+群中的 TG 水平随着 TSH 水平的升高而逐渐增加,差
+异有显著性(P<0. 05,表 3);排除了糖尿病患者后,在
+甲状腺功能正常人群中校正年龄、 性别、 BMI 和
+HOMA-IR 混杂因素后女性及总人群中的 TG 水平仍
+然随着 TSH 水平的升高而逐渐增加(P<0. 05)。
+四、甲状腺功能正常人群 TSH 与血脂的相关性分析
+表 1  研究人群的基本特征(x-± s)
+Tab 1  Characteristics of study population(x-± s)
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+BMI
+(kg / m2)
+WC
+(cm) WHR
+FPG
+(mmol / L)
+TSH
+(mIU / L)
+总人群
+Total 1 428 45. 2 ± 14. 8 23. 7 ± 3. 6 81. 6 ± 9. 8 0. 86 ± 0. 06 6. 05 ± 1. 77 4. 31 ± 4. 69
+男性
+Male 610 45. 2 ± 15. 2 24. 1 ± 3. 3 85. 4 ± 9. 0 0. 89 ± 0. 05 6. 18 ± 1. 93 3. 83 ± 4. 11
+女性
+Female 818 45. 3 ± 14. 4 23. 4 ± 3. 8
+a 78. 8 ± 9. 4a 0. 84 ± 0. 06 5. 97 ± 1. 66a 4. 65 ± 5. 04a
+组别
+Group
+例数
+n HOMA-IR
+TG
+(mmol / L)
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+总人群
+Total 1 428 2. 60 ± 1. 99 1. 80 ± 1. 49 4. 89 ± 0. 91 1. 21 ± 0. 33 2. 90 ± 0. 77
+男性
+Male 610 2. 79 ± 2. 25 2. 00 ± 1. 60 4. 91 ± 0. 88 1. 14 ± 0. 34 2. 91 ± 0. 78
+女性
+Female 818 2. 47 ± 1. 77
+a 1. 65 ± 1. 38a 4. 87 ± 0. 93 1. 26 ± 0. 32a 2. 89 ± 0. 77
+注:BMI:体重指数 Body mass index; WC:腰围 Waist circumference; WHR:腰臀比 Waist to hip ratio; FPG:空腹血糖 Fasting plasma glucose; TSH:促甲
+状腺素 Thyroid stimulating hormone; HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment for insulin resistant index; TG:三酰甘油
+Triglyceride; TC:总胆固醇 Total cholesterol; HDL-C:高密度脂蛋白胆固醇 High density lipoprotein cholesterol; LDL-C:低密度脂蛋白 Low density lipoprotein
+cholesterol; 与男性比较 vs Male,aP<0. 05
+表 2  甲状腺功能正常与亚临床甲减组之间血脂比较(x-± s)
+Tab 2  Comparsion of lipid profiles between euthyroid and subclinical hypothyroidism groups(x-± s)
+组别
+Group
+女性
+Female
+例数
+n
+TG*
+(mmol / L)
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+NG  664 0. 13 ± 0. 25 4. 87 ± 0. 91 1. 26 ± 0. 32 2. 89 ± 0. 78
+SHT 145 0. 18 ± 0. 24a 4. 97 ± 0. 97 a 1. 29 ± 0. 33a 2. 93 ± 0. 77a
+组别
+Group
+男性
+Male
+例数
+n
+TG*
+(mmol / L)
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+NG  543 0. 22 ± 0. 24 4. 90 ± 0. 85 1. 13 ± 0. 41 2. 91 ± 0. 75
+SHT 63 0. 25 ± 0. 27 5. 08 ± 0. 95 1. 17 ± 0. 37 2. 97 ± 1. 01
+注:NG: 正常组 Normal group 0. 71 mIU / L≤TSH≤6. 25 mIU / L;SHT:亚临床甲减组 Subclinical hypothyroidism TSH>6. 25 mIU / L;余略语同表 1 The
+other abbreviations are the same as Tab 1;*数据经对数转换 The data are transformed to logarithms; 与 NG 组相比 vs NG group,aP<0. 05
+在校正年龄、BMI、HOMA-IR 后 TSH 水平与 TG 正
+相关(β=0. 064,P<0. 05)。
+讨    论
+本研究通过采用分层整群抽样方法对 1 428 名研
+究对象进行的横断面调查提示本市男性的 BMI、腰围、
+腰臀比、 FPG、 TSH、 HOMA-IR、 TG 均高于女性, 而
+HDL-C 低于女性,差异有统计学意义。 而 Silvia 等[6]
+研究表明女性 TC、HDL-C、LDL-C 水平高于男性,也推
+测性别可影响血脂水平,但本研究与 Silvia 研究的差
+异还需要进一步研究证实。
+女性 TG、TC、HDL-C、LDL-C 水平显示亚临床甲减
+组比甲状腺功能正常组显著增高(P<0. 05),男性 TG、
+TC、HDL-C 和 LDL-C 水平 2 组间差异无统计学意义
+(P>0. 05),这与 Jose 等[7] 研究结论一致,说明亚临床
+甲减女性患者可能更应重视血脂的监测及治疗。
+本研究还发现在 TSH 正常组 TG 增高患病率随着
+TSH 水平的增高而升高,TSH 水平即使在正常参考范
+围内,也与 TG 呈线性正相关性,特别是女性 TG 水平
+随着 TSH 水平的升高而逐渐增加,校正年龄、性别、
+BMI、HOMA-IR 后 TG 水平仍然随着 TSH 水平的升高
+而逐渐增加,说明 TSH 水平与血脂谱之间存在相关
+性,而男性则无相关性。 Lai 等[8] 研究发现甲状腺功
+能正常者血脂异常的患病率在 TSH 最高组高于最低
+组,校正性别、年龄后 TSH 水平与 TG 正相关,这与本
+研究结果一致。 而 Waterhouse 等[2] 报道在 TSH 正常
+范围内,TSH 每增 1 mIU / L,TG 升高 0. 003 mmol / L,提
+示血清 TSH 升高会造成血脂代谢异常,但经 BMI 校正
+表 3  甲状腺功能正常人群各 TSH 四分位组的血脂水平(x-± s)
+Tab 3  Blood lipid levels according to quartiles of serum TSH concentration in euthyroid population(x-± s)
+TSH 四分位
+Quartiles of TSH
+女性
+Female
+男性
+Male
+例数
+n
+TG*
+(mmol / L)
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+例数
+n
+TG*
+(mmol / L)
+TC
+(mmol / L)
+Q1  149 0. 10 ± 0. 02 4. 83 ± 0. 07 1. 27 ± 0. 02 2. 92 ± 0. 06 163 0. 22 ± 0. 02 4. 88 ± 0. 07
+Q2  159 0. 12 ± 0. 02 4. 83 ± 0. 06 1. 26 ± 0. 02 2. 87 ± 0. 05 135 0. 19 ± 0. 02 4. 93 ± 0. 07
+Q3  187 0. 13 ± 0. 02 4. 90 ± 0. 06 1. 27 ± 0. 02 2. 90 ± 0. 05 130 0. 23 ± 0. 02 4. 87 ± 0. 07
+Q4  169 0. 16 ± 0. 02 4. 91 ± 0. 06 1. 25 ± 0. 02 2. 88 ± 0. 05 115 0. 24 ± 0. 02 4. 92 ± 0. 07
+Ptrend 0. 022 0. 301 0. 660 0. 764 0. 311 0. 849
+TSH 四分位
+Quartiles of TSH
+男性
+Male
+总人群
+Total
+例数
+n
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+例数
+n
+TG*
+(mmol / L)
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+Q1  163 1. 15 ± 0. 03 2. 88 ± 0. 06 312 0. 15 ± 0. 01 4. 85 ± 0. 05 1. 21 ± 0. 02 2. 90 ± 0. 04
+Q2  135 1. 13 ± 0. 03 2. 99 ± 0. 06 294 0. 15 ± 0. 01 4. 88 ± 0. 05 1. 20 ± 0. 02 2. 93 ± 0. 04
+Q3  130 1. 11 ± 0. 03 2. 90 ± 0. 06 317 0. 17 ± 0. 01 4. 89 ± 0. 05 1. 20 ± 0. 02 2. 90 ± 0. 04
+Q4  115 1. 13 ± 0. 03 2. 86 ± 0. 07 284 0. 24 ± 0. 02 4. 92 ± 0. 07 1. 19 ± 0. 02 2. 87 ± 0. 04
+Ptrend 0. 487 0. 592 0. 018 0. 360 0. 437 0. 564
+注:略语同表 1 The abbreviations are the same as Tab 1;*数据经对数转换 The data are transformed to logarithms;Q1 : 0. 71 ~ 2. 20 mIU / L; Q2: 2. 21 ~
+3. 06 mIU / L;Q3:3. 07 ~ 4. 90 mIU / L;Q4:4. 91 ~ 6. 25 mIU / L
+后相关性消失,提示二者的关系可能受到身高和体重
+等混杂因素的干扰。
+在另一项我国 TSH 水平和血胆固醇的相关性研
+究中,发现甲状腺功能正常人群中 TSH 和 TC、LDL-C、
+TG 及高胆固醇血症患病的危险度是有正相关性的,特
+别是在校正了甲状腺激素的作用后,这种相关性依然
+存在[9]。 TSH 和 TG 的关系和本研究结果比较一致,
+但是本研究 TSH 和 TC、LDL-C 无相关性,有待于进一
+步的研究来证实。
+TSH 对血脂的影响机制可能体现在以下几个方
+面:TSHR 的表达不仅局限于甲状腺滤泡细胞膜上,而
+且在甲状腺外组织中,诸如脂肪细胞、肾脏、骨髓、甚至
+肝脏等部位也有 TSHR 的表达,同时在实验中采用
+TSH 处理上述细胞后,可观察到 TSHR 介导的效应,提
+示 TSH 的靶器官不仅局限于甲状腺[10];甲状腺激素
+还可调节肝酯酶及脂蛋白脂酶的活性[11];Ness 等[12]
+报道 TSH 可以上调肝脏细胞中胆固醇合成限速酶羟
+甲基戊二酰辅酶 A 还原酶(HMGCR)的表达来影响胆
+固醇的代谢,但 TSH 影响血脂的病理生理机制尚需得
+到进一步研究证实。
+总之,通过分析不同 TSH 水平与血脂的关系,提
+示 TSH 可作为参与脂代谢调控的激素之一,尤其女性
+在正常高水平及亚临床甲减时 TSH 对血脂谱产生不
+利影响。 在正常 TSH 范围内,增高的 TSH 可能与不良
+血脂谱相关,正常高水平 TSH 可能是 TG 增高的危险
+因素。

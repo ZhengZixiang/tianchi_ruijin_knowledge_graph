@@ -1,0 +1,339 @@
+临床研究
+基金项目:国家自然科学基金项目(81270878),国家重点项目临床
+学科(WBYZ2011-873)
+室(周美岑、闵锐、童安莉、许建萍、张化冰、李玉秀);内蒙古赤峰市红山
+中医院(纪建军);天津医科大学代谢病医院(张饰);河南省南阳市中
+心医院内分泌科(李曾一)
+母系遗传伴耳聋糖尿病患者线粒体 DNA 3243
+A>G 突变与临床特点之间的关系
+周美岑  闵锐  纪建军  张饰  童安莉  许建萍  李曾一  张化冰  李玉秀
+[摘要]   目的  对线粒体家系临床特点及基因突变结果进行分析总结,以提高临床对线粒体糖尿病
+的认识和诊治。 方法 对北京协和医院 2007 年至 2014 年 12 月间收治的线粒体 DNA 3243 位点 A>G 突变
+导致线粒体糖尿病的 6 个家系共 16 例患者的临床特点进行分析总结,通过外周血 DNA 直接测序(Sanger
+法)对线粒体 DNA3243 位点 A>G 突变进行鉴定,突变程度用 G 峰值高度比 A 峰值高度(G / A)表示。 结果
+早发糖尿病[起病年龄(35. 0 ± 14. 6)岁]伴耳聋、体型正常或偏瘦、母系遗传倾向者可提示存在线粒体糖尿
+病。 不同发病年龄层间线粒体 DNA 3243 位点 A>G 突变 G / A 峰值比存在显著性差异[≤25 岁(61. 6 ±
+20. 17)% ;25 ~ 45 岁(16. 59 ± 8. 64)% ;>45 岁(6. 37 ± 0. 59)% ,P<0. 01],且突变 G / A 峰值比与发病年龄
+呈显著负相关( r= -0. 785,P=0. 001)。 结论 早发糖尿病患者伴耳聋、体重指数正常或较低、有母系遗传
+倾向可强烈提示线粒体糖尿病的存在。 线粒体 DNA 3243 位点 A>G 突变 G / A 峰值比一定程度上可对存在
+突变者线粒体糖尿病起病年龄及严重程度进行简单预测。
+[关键词]   线粒体糖尿病; 线粒体 DNA 3243 突变异质性; 临床特点
+Association of clinical features with mitochondrial DNA 3243 A to G mutation heteroplasmy levels in patients
+with maternally inherited diabetes and deafness Zhou Meicen*,Min Rui, Ji Jianjun, Zhang Shi, Tong Anli, Xu
+Jianping, Li Zengyi, Zhang Huabing, Li Yuxiu. *Department of Endocrinology, Key Laboratory of Endocrinology,
+Ministry of Health, Peking Union Medical College Hospital, Beijing 100730, China
+[Abstract]   Objective   To summarize the clinical phenotype profiles and mitochondrial DNA mutation in
+maternally inherited diabetes and deafness (MIDD), and to improve the diagnosis and treatment of this disease in
+clinical practice. Methods Sixteen patients with MIDD in six families from Peking Union Medical College from 2007
+to Dec 2014 were confirmed as carrying the mitochondrial (mt) DNA 3243 A to G mutation. Sanger sequencing was
+used to detect the mt DNA 3243 A to G mutation. The peak height G / A ratio was used to determine mutation
+heteroplasmy levels. Results The patients with early onset of diabetes (35. 0 ± 14. 6 years), deafness, normal or
+lower body mass index (BMI), and maternal hereditary tendency suggested the diagnosis of MIDD. The peak height
+G / A ratio was significantly different according to the onset age of MIDD[≤25 years(61. 6 ± 20. 17)% ; 25-45 years
+(16. 59 ± 8. 64)% ; >45 years (6. 37 ± 0. 59)% ;P<0. 01] . The peak height G / A ratio was negatively correlated
+with the onset age of MIDD( r= -0. 785,P = 0. 001). Conclusion Early onset of diabetes with deafness, normal /
+lower BMI, and maternal hereditary tendency strongly suggests the diagnosis of MIDD. The peak height G / A ratio
+might provide a simple prediction regarding the onset age and severity of MIDD.
+[Key words]  Maternally inherited diabetes and deafness; Mitochondrial DNA 3243 heteroplasmy; Clinical
+features
+(Chin J Endocrinol Metab, 2016, 32: 33-37)
+线粒体糖尿病 (maternally inherited diabetes and
+deafness,MIDD)属于特殊类型的糖尿病,又称为母系
+遗传的糖尿病,是一类相对少见的单基因糖尿病,在诸
+多导致线粒体糖尿病的突变基因中,tRNALeu(UUR) 基因
+是致病突变热点[1-2],在世界范围内,tRNALeu(UUR) 基因
+突变较普遍见于高度保守区二氢嘧啶环上的 3243 位
+点 A>G 突变,线粒体 DNA 3243 位点 A>G 突变引起的
+线粒体糖尿病约占线粒体糖尿病的 85% [3-4]。 由于真
+核生物线粒体基因突变的特殊传递方式,本病呈母系
+遗传,并具有杂胞质性,同胞患者间的临床表现及病变
+程度变异较大。 线粒体糖尿病患者的临床表现也不典
+型,大部分患者临床表现似 2 型糖尿病,少数可呈 1 型
+糖尿病临床表现或发病于妊娠时,因此常被误诊为 1
+型糖尿病或 2 型糖尿病[5]。
+本研究现针对北京协和医院收治的线粒体 DNA
+3243 位点 A>G 突变导致线粒体糖尿病的 6 个家系共
+16 例患者的临床特点及基因突变结果进行分析总结,
+以提高临床对线粒体糖尿病的认识和诊治。
+对象和方法
+一、 对象
+2007 年至 2014 年 12 月间在北京协和医院就诊
+的患者中选择符合下列条件的糖尿病患者 48 例:淤发
+病年龄≤40 岁;于体重指数≤24 kg / m2;盂自身免疫性
+糖尿病抗体:胰岛素自身抗体 ( insulin autoantibody,
+IAA)、胰岛细胞抗体( islet cell antibody, ICA)、谷氨酸
+脱羧酶抗体( glutamate decarboxylase antibody, GAD)、
+蛋白酪氨酸磷酸酶抗体 ( protein-tyrosine-phosphatase
+antibody, IA2)均阴性;④母系成员糖尿病家族史;虞
+耳聋;愚血清乳酸水平升高;舆脑病或肌病。 其中淤于
+盂④为必备项目,合并虞愚舆中任何一项进入到筛选
+之中。 取其外周血进行线粒体 DNA 3243 A>G 位点突
+变的测定。 筛查出 6 例线粒体 DNA 3243 A>G 位点突
+变的线粒体糖尿病患者,随后对 6 例患者家系中父系
+母系成员(共 26 人)进行该位点突变筛查(家系图见
+图 1)。
+研究方案经北京协和医院伦理委员会批准,所有
+受试者均签署书面知情同意书。
+二、 方法
+1. 线粒体 DNA 3243 A>G 位点突变检测方法:从
+外周血淋巴细胞中分离全基因组 DNA(QIAamp DNA
+Mini Kit,QIAGEN,德国)。 PCR 测序分析线粒体 DNA
+3243 位点突变。 上游引物为 5'-AGCGCCTTCCCCCG-
+TAAATGA-3',下游引物为 5'-AGAATGATGGCTAGG-
+GTGACTTC-3'。 引物设计使用 Oligo 6. 0,扩增长度:线
+注:A: 家系IPedigree of family玉; B:家系域Pedigree of family域; C:家系3Pedigree of family3; D:家系郁Pedigree of family郁;E:家系吁Pedigree
+of family 吁;F: 家系6 Pedigree of family 遇;荫姻:DNA 测序证实为线粒体 DNA3243A>G 突变线粒体糖尿病伴耳聋患者 The patient with maternally
+inherited diabetes and deafness(MIDD) confirmed by DNA sequencing;茵阴:家系中未患病者 Family member without the disease;荫姻: 疑似线粒体糖尿病伴
+耳聋患者,但未经基因诊断证实 The subjects were not confirmed by Sanger sequencing but highly suspected;坭:家系中先证者, 家系域中成员域1 和家系郁
+中成员域1 患有线粒体脑肌病和 MIDD The proband in the family. 域1 in family 域 and 域1 in family 郁 have mitochondrial encephalomyopathy with lactic
+acidosis and stroke-relaled episodes and MIDD;姻:家系域中成员的31 存在线粒体 DNA3243A>G 突变,但尚未出现线粒体糖尿病症状31 in family域 has
+mt DNA 3243 mutation, although he does not have symptoms of MIDD
+图 1  线粒体糖尿病患者的家系图
+Fig 1  MIDD in six predigree of family
+粒体 DNA 3160 ~ 3620 位。 PCR 产物检测采用琼脂糖
+凝胶电泳, 直接测序法 ( Sanger 法) 测序分析应用
+ABI3730xl DNA 测序仪分析。 每份样本分别用正、反
+向引物进行两次测序。
+2. 血清指标检测方法:胰岛素和 C 肽测定使用化
+学发光法,ICA 应用间接免疫荧光法测定,抗 IA2、IAA
+及 GAD 抗体应用酶联免疫吸附(ELISA)法测定(批内
+CV<3% )。 血乳酸测定采用乳酸脱氢酶法测定。
+三、 统计学处理
+统计学分析采用 SPSS 17. 0。 连续性变量的表示
+采用 x-± s。 独立样本的 t 检验用于两组样本均值间的
+比较,单因素 ANOVA 分析用于多组样本间均值的比
+较,不符合正态分布的变量转换为正态分布。 多元线
+性回归分析用于线粒体 DNA 3243 位点 A>G 突变 G /
+A 峰值比与发病年龄相关性分析。 P<0. 05 为差异有
+统计学意义。
+结    果
+一、 线粒体糖尿病患者临床特征
+本研究从 48 例符合条件的疑似线粒体糖尿病的
+患者中筛出 6 例患者外周血存在线粒体 DNA 3243 位
+点 A>G 突变,筛出率为 12. 5% 。 6 例患者所在家系中
+的母系成员中,存在线粒体 DNA 3243 位点 A>G 突变
+者共 11 例,其中有 1 例存在线粒体 DNA 3243 位点 A>
+G 突变,但并未发病,发生糖尿病伴耳聋者共 16 例(包
+括 6 例先证者)。 6 个家系中 6 例先证者的起病年龄
+为(23. 2 ± 8. 2)岁,6 例听力障碍均早于糖尿病发病,
+累及高频域。 6 例先证者均为女性,3 例出现月经不规
+律,月经量少,但尚有月经来潮,查性激素水平 FSH、
+LH 水平低于正常值下限(表 1,3 例中 1 例未查性激素
+水平)。 16 例线粒体糖尿病患者糖尿病起病年龄
+(35. 0 ± 14. 6) 岁,体型均为正常或偏瘦,体重指数
+(BMI)为(19. 4 ± 2. 35)kg / m2,家系成员听力障碍与糖
+尿病发病先后顺序不详,16 例线粒体糖尿病患者起病
+方式不一,起病较缓,15 例病情进展类似 2 型糖尿病,
+1 例起病急,以酮症起病,糖尿病自身抗体 GAD、ICA、
+IAA 和 IA2 均为阴性。 线粒体糖尿病患者糖尿病状况
+见表 2,临床特点见表 3,遗传家系图见图 1。
+二、 线粒体 DNA 3243 A>G 突变 G / A 峰值比与发
+病年龄、BMI 相关性分析
+16 例线粒体糖尿病患者线粒体 DNA 3243 位点 A
+到 G 突变程度不一,突变程度用 G 峰值高度比 A 峰值
+高度(G / A×100% ,为两次测序平均值)表示(表 3)。
+不同发病年龄层间 (≤25、25 ~ 45、 > 45 岁) 线粒体
+DNA 3243 位点 A>G 突变 G / A 峰值比存在显著差异
+表 1  2 例线粒体糖尿病合并月经稀发患者血清性激素水平
+Tab 1 Blood gonadal hormone levels in 2 patients with MIDD
+combined with oligomenorrhea
+病例
+Case
+年龄
+(岁)
+Age
+(year) a
+BMI
+(kg / m2)
+FSH
+(mIU / L)
+LH
+(mIU / L)
+T
+(nmol / L)
+E2
+(pmol / L)
+31(P:玉) 18 17. 4 5. 5 3. 90 1. 7 355. 25
+域1(P:3) 26 21. 7 1. 2 0. 21 3. 0 28. 70
+注:31、域1 分别来自家系I和家系3 The patients 31 and 域1 come
+from family 玉 and 3 respectively; MIDD: 线 粒 体 糖 尿 病 Maternally
+inherited diabetes and deafness; FSH: 卵 泡 刺 激 素 Follicle stimulating
+hormone;LH:黄体生成素 Luteinizing hormone;T:睾酮 Testosterone;E2:雌
+二醇 Estradiol; a月经稀发发生年龄 Onset age of oligomenorrhea
+表 2  线粒体糖尿病患者一般临床特征
+Tab 2  General clinical features of MIDD
+临床特征
+Clinical feature
+线粒体糖尿病患者
+MIDD patients
+(n=16)
+起病年龄(岁)
+Onset age(year) 35. 0 ± 14. 6
+性别
+Gender 女性 13 例,男性 3 例
+病程(年)
+Disease duration(year) 4. 00 ± 2. 54
+BMI(kg / m2) 19. 50 ± 2. 36
+HBA1C(% ) 6. 42 ± 1. 01
+FPG(mmol / L) 7. 75 ± 2. 03
+FINS(μIU / ml) 5. 23 ± 3. 26
+FCP(ng / ml) 0. 53 ± 0. 37
+HOMA-IR 1. 63 ± 0. 81
+HOMA-IS 0. 03 ± 0. 02
+糖尿病治疗
+Hypoglycemic therapy
+胰岛素类似物 8 例(包括 6 例
+先证者),口服降糖药 8 例
+注:MIDD:线粒体糖尿病 Maternally inherited diabetes and deafness;
+BMI: 体重指数 Body mass index;FPG: 空腹血糖 Fasting plasma glucose;
+FINS: 空腹胰岛素 Fasting insulin; FCP: 空腹 C 肽 Fasting C peptide;
+HOMA-IR = FPG ( mmol / L) × FINS ( μIU / ml) / 22. 5;HOMA-IS = 1 / FPG
+(mmol / L) ×FINS(μIU / ml)
+(表 4),且突变 G / A 峰值比与发病年龄呈显著负相关
+( r= -0. 841, P = 0. 001),进一步对年龄、性别进行校
+正后,突变 G / A 峰值比与发病年龄呈显著负相关( r =
+-0. 785,P=0. 001),G / A 峰值比与 BMI 间不存在显著
+性相关性。
+讨    论
+外周血线粒体 DNA3243 位点 A>G 突变的异质性
+水平在 1% ~ 40% 间[6],与其他组织相比突变检出率
+低[7],但血液标本较易获得,可作为高度疑似线粒体
+糖尿病患者突变初筛的方法。 本研究中对疑似线粒体
+糖尿病的 48 例患者进行外周血线粒体 DNA3243 位点
+A>G 突变的筛查,筛出存在该突变的线粒体糖尿病患
+者 6 例,筛出率为 12. 5% ,与项坤三等[8] 在 2 型糖尿
+病伴耳聋者中发现的突变率 10% 相近。 临床工作中
+若能针对性对疑似线粒体糖尿病的患者进行筛查则可
+表 3  17 例线粒体 DNA 3243 位点 A>G 突变者临床特点分类
+Tab 3  Specific clinical features in 17 patients with mt DNA 3243 A>G mutation
+患者
+Patients
+家系成员
+Family
+member
+起病年龄
+(岁)
+Onset age
+(year)
+采血时年龄
+(岁)
+Blood
+collected age
+(year)
+体重指数
+BMI
+(kg / m2)
+自身免疫性糖尿病抗体
+Autoimmune diabetes
+antibodies
+耳聋
+Deafness
+血乳酸
+Blood lactic
+acid
+(mmol / L)
+伴脑病或肌病
+Encephalomyopathy
+线粒体 3243 位点
+G / A 峰值比
+The peak height
+G / A ratio
+(%)
+1 玉2(P:玉) 68 76 18. 4 ND + ND - 5. 9
+2 域2 49 50 23. 4 IAA(-),ICA(-),GAD(-) + ND - 14. 0
+3 域4 48 49 16. 8 IAA(-),ICA(-),GAD(-) + ND - 14. 9
+4 31 18 18 18. 7 IAA(-),ICA(-),GAD(-) + 1. 5 - 83. 3
+5 玉2(P:域) 25 60 17. 4 ND + ND - 31. 6
+6 域1 31 42 21. 2 ND + ND + 29. 1
+7 域2 43 46 20. 1 ND + ND - 8. 2
+8 域3 38 40 19. 0 IAA(-),ICA(-),GAD(-) + 6. 7 - 27. 6
+9 31 - 12 18. 6 ND - ND - 35. 6
+10 玉2(P:域) 43 49 18. 4 ND + ND - 8. 0
+11 域1 17 17 18. 3 IAA(-),ICA(-),GAD(-) + ND - 65. 0
+12 玉2(P:郁) 33 36 16. 7 IAA(-),ICA(-)、GAD(-) + 1. 4 - 29. 0
+13 域1 24 26 21. 7 ND + 3. 0 + 27. 1
+14 域1(P:吁) 26 42 24. 9 ND + ND - 34. 5
+15 域2 46 48 19. 1 ND + ND - 15. 2
+16 31 17 18 18. 4 IAA(-),ICA(-),GAD(-) + ND - 63. 6
+17 域2(P:遇) 36 37 18. 6 IAA(-),ICA(-),GAD(-) + ND - 28. 2
+注:IAA:胰岛素自身抗体 Insulin autoantibody; ICA:胰岛细胞抗体 Islet cell antibody; GAD:谷氨酸脱羧酶抗体 Glutamate decarboxylase antibody;
+IA2:蛋白酪氨酸磷酸酶抗体 Protein-tyrosine-phosphatase antibody; 家系图参照图 1 The structure of the five-MIDD pedigree shown in Fig. 1; P:I ~ 6分别
+代表家系I ~ 6 Represent family 玉-遇;ND:未测 Undetected; -:阴性 Negative;+:阳性 Positive; The peak height G / A ratio: The peak height G to A ratio of
+mt DNA 3243 A to G mutation
+表 4  不同发病年龄层间 mt DNA 3243 位点突变 G / A 峰值比
+Tab 4  The peak height G to A ratio of mt DNA3243 mutation among
+different onset ages of MIDD
+糖尿病发病年龄
+(岁)
+Onset age of diabetes
+(year)
+例数
+n
+突变 G / A 峰值比
+The peak height G to A ratio
+(% ) a
+≤25 5 61. 60 ± 20. 17
+25 ~ 45 7 16. 59 ± 8. 64a
+>45 4 6. 37 ± 0. 59a
+注:MIDD:线粒体糖尿病 Maternally inherited diabetes and deafness;
+a不同发病年龄层突变 G / A 峰值比存在显著差异 There was a significant
+difference among different onset ages of MIDD, P<0. 01
+提高线粒体糖尿病的筛出率。
+临床上线粒体糖尿病临床表现并不十分典型,易
+与常见的 1 型、2 型糖尿病相混淆,本研究中线粒体糖
+尿病患者具有一定的母系遗传倾向,6 例首先确诊的
+线粒体糖尿病患者多为家系中第二代或第三代成员。
+本研究中线粒体糖尿病起病年龄范围较广(17 ~ 68
+岁),但家系中首先确诊者起病年龄相对较小,该病患
+者体型均偏瘦,伴有不同程度累积高频域的感音性耳
+聋,部分女性患者伴有月经稀发,其 FSH、LH 均处于偏
+低水平,提示线粒体功能紊乱可累及垂体前叶功能,可
+能导致低促性腺激素性性腺功能减退。 同一家系中的
+线粒体糖尿病患者的临床表现也存在较大差异。 本研
+究中同一家系的线粒体糖尿病患者糖尿病严重程度并
+不一致,有些起病较急,类似 1 型糖尿病,而有些则起
+病较缓类似 2 型糖尿病,且同为线粒体 DNA 3243 位
+点 A>G 突变可引起不同组织器官病变。 本研究 1 个
+家系 中 有 人 表 现 为 线 粒 体 脑 肌 病 ( mitochondrial
+encephalomyopathy with lactic acidosis and stroke-related
+episodes, MELAS)伴糖尿病,而有人则仅表现为糖尿
+病伴耳聋。 本研究对 16 例线粒体糖尿病患者临床特
+点的分析表明,糖尿病患者体型偏瘦,伴耳聋,具有一
+定的母系遗传倾向者可提示线粒体糖尿病的诊断。
+线粒体 DNA 突变的细胞杂胞质性导致同一个体
+不同组织器官及不同个体间的临床表现存在差异,不
+同组织细胞间线粒体 DNA 突变存在差异,不同组织对
+于能量代谢的依赖程度不同,因此个体间的临床表现
+不尽相同[9-10],在线粒体糖尿病患者中主要表现为胰
+岛 β 细胞线粒体功能紊乱所致的胰岛素分泌障碍,伴
+有感音性耳聋[11-12]。 DNA 直接测序法(Sanger 法)为
+突变分析中较简单常用的方法,线粒体 DNA 3243 位
+点 A>G 突变 G / A 峰值虽并不能代表 G / A 的真实值,
+但对 G / A 突变程度具有一定的提示作用。 本研究对
+线粒体糖尿病患者家系线粒体 DNA 直接测序发现,线
+粒体糖尿病患者线粒体 DNA 3243 位点 A>G 突变 G /
+A 峰值比与起病年龄呈显著负相关,起病较早的线粒
+体糖尿病患者线粒体 DNA 3243 位点 A>G 突变 G / A
+峰值比明显高于起病较晚者。 线粒体 DNA 3243 位点
+A>G 突变 G / A 峰值比一定程度上取决于线粒体 DNA
+突变的细胞杂胞质性,与之前研究中使用等位基因特
+异性 PCR 法 ( allele-specific PCR) 所得的结果相一
+致[13]。 因此,在临床工作中可以通过易获得的外周血
+标本,利用较简单常用的 DNA 直接测序法(Sanger 法)
+对线粒体糖尿病线粒体 DNA3243 位点 A>G 突变进行
+检测,并可通过线粒体 DNA 3243 位点 A>G 突变 G / A
+峰值比对存在突变者线粒体疾病发生年龄及严重程度
+进行简单预测。
+在治疗上,16 例线粒体糖尿病患者中,使用胰岛
+素和口服药治疗的比例相当,但 6 例先证者在起病早
+期即开始使用胰岛素替代治疗,说明起病较早者胰岛
+β 细胞功能较差,另外线粒体糖尿病患者存在线粒体
+能量代谢障碍,血乳酸水平升高,因此对线粒体糖尿病
+的口服药治疗应避免使用二甲双胍类降糖药物,以防
+止乳酸酸中毒的发生。
+线粒体糖尿病患者的临床特点分析表明,早发糖
+尿病患者体型偏瘦、耳聋,具有一定的母系遗传倾向者
+可提示线粒体糖尿病的存在。 通过外周血 DNA 直接
+测序(Sanger 法)对线粒体 DNA 3243 位点 A>G 突变
+进行鉴定,其突变 G / A 峰值比一定程度上可对存在突
+变者线粒体疾病发生年龄及严重程度进行简单预测。

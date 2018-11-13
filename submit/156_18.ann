@@ -1,0 +1,283 @@
+T1	Disease 68 72	恶性肿瘤
+T2	Disease 112 118	2 型糖尿病
+T3	Disease 119 123	恶性肿瘤
+T4	Disease 130 133	糖尿病
+T5	Disease 176 180	恶性肿瘤
+T6	Drug 192 200	噻唑烷二酮类药物
+T7	Disease 202 204	肝癌
+T8	Disease 205 208	乳腺癌
+T9	Drug 211 215	二甲双胍
+T10	Disease 219 223	恶性肿瘤
+T11	Drug 230 233;234 239	二代磺 脲类促泌剂
+T12	Drug 240 243	胰岛素
+T13	Drug 244 250	胰岛素类似物
+T14	Disease 254 258	恶性肿瘤
+T15	Drug 268 272	降糖药物
+T16	Disease 273 275	肿瘤
+T17	Disease 296 298	肿瘤
+T18	Drug 324 328	降糖药物
+T19	Disease 1593 1595;1596 1597	糖尿 病
+T20	Disease 1654 1657	糖尿病
+T21	Disease 1699 1702	糖尿病
+T22	Disease 1744 1749;1750 1751	2 型糖尿 病
+T23	Disease 1752 1756	恶性肿瘤
+T24	Disease 1773 1777	代谢异常
+T25	Drug 1780 1784	降糖药物
+T26	Drug 1837 1841	二甲双胍
+T27	Drug 1842 1846;1847 1849	噻唑烷二 酮类
+T28	Drug 1850 1854	TZDs
+T29	Disease 1861 1865	恶性肿瘤
+T30	Drug 1894 1898	降糖药物
+T31	Disease 1905 1907;1908 1910	恶性 肿瘤
+T32	Disease 1928 1931	糖尿病
+T33	Disease 1932 1934	肿瘤
+T34	Disease 1954 1957	糖尿病
+T35	Disease 1959 1961	肿瘤
+T36	Disease 1990 1994;1995 1997	2 型糖 尿病
+T37	Disease 1999 2003	恶性肿瘤
+T38	Disease 2048 2051	糖尿病
+T39	Disease 2053 2054;2055 2056	胃 癌
+T40	Disease 2099 2100;2101 2103	糖 尿病
+T41	Disease 2108 2110	肿瘤
+T42	Disease 2111 2114	乳腺癌
+T43	Disease 2115 2120	子宫内膜癌
+T44	Disease 2232 2235	糖尿病
+T45	Disease 2237 2241	恶性肿瘤
+T46	Disease 2276 2279	高血糖
+T47	Disease 2285 2286;2287 2290	恶 性肿瘤
+T48	Symptom 2300 2305	高血糖状态
+T49	Disease 2334 2341;2342 2343	细胞呼吸发生障 碍
+T50	Anatomy 2372 2376	肿瘤细胞
+T51	Reason 2387 2392	胰岛素抵抗
+T52	Drug 2396 2399	胰岛素
+T53	Anatomy 2411 2415	肠道细胞
+T54	Disease 2422 2424	肿瘤
+T55	Drug 2433 2439	胰岛素增敏剂
+T56	Disease 2440 2444	恶性肿瘤
+T57	Drug 2448 2452	TZDs
+T58	Disease 2456 2458	肝癌
+T59	Drug 2484 2488	罗格列酮
+T60	Drug 2489 2493	吡格列酮
+T61	Disease 2496 2498	肝癌
+T62	Disease 2629 2632	糖尿病
+T63	Drug 2640 2644	TZDs
+T64	Disease 2649 2652	糖尿病
+T65	Disease 2655 2657	肝癌
+T66	Drug 2710 2714	TZDs
+T67	Disease 2720 2724	乙型肝炎
+T68	Disease 2729 2731	肝癌
+T69	Anatomy 2738 2741	肝细胞
+T70	Disease 2771 2773	肝癌
+T71	Disease 2790 2793	乳腺癌
+T72	Drug 2893 2897	吡格列酮
+T73	Disease 2900 2903	乳腺癌
+T74	Drug 2961 2965	罗格列酮
+T75	Disease 2966 2969	糖尿病
+T76	Drug 3099 3103	罗格列酮
+T77	Disease 3113 3116	乳腺癌
+T78	Disease 3156 3162	2 型糖尿病
+T79	Disease 3164 3167	乳腺癌
+T80	Drug 3189 3193	TZDs
+T81	Drug 3228 3232	TZDs
+T82	Drug 3237 3241	吡格列酮
+T83	Disease 3246 3249	乳腺癌
+T84	Disease 3264 3267	膀胱癌
+T85	Drug 3295 3299	吡格列酮
+T86	Duration 3299 3305	超过 2 年
+T87	Disease 3312 3315	膀胱癌
+T88	Disease 3373 3376	糖尿病
+T89	Drug 3380 3384	吡格列酮
+T90	Disease 3385 3388	膀胱癌
+T91	Drug 3429 3433	吡格列酮
+T92	Drug 3464 3469	磺脲类药物
+T93	Drug 3477 3481	TZDs
+T94	Drug 3505 3509	TZDs
+T95	Disease 3519 3522	膀胱癌
+T96	Test_Value 3525 3529	显著升高
+T97	Drug 3588 3592	吡格列酮
+T98	Disease 3594 3597	膀胱癌
+T99	Disease 3664 3667	膀胱癌
+T100	Disease 3709 3712	膀胱癌
+T101	Drug 3725 3730	双胍类药物
+T102	Disease 3734 3737	乳腺癌
+T103	Drug 3792 3796	二甲双胍
+T104	Disease 3806 3809	糖尿病
+T105	Disease 3811 3817	侵袭性乳腺癌
+T106	Drug 3889 3893	二甲双胍
+T107	Disease 3901 3904	乳腺癌
+T108	Drug 3985 3989	二甲双胍
+T109	Drug 3990 3994	苯乙双胍
+T110	Disease 3995 3998	乳腺癌
+T111	Drug 4022 4024	双胍
+T112	Drug 4059 4063	二甲双胍
+T113	Disease 4064 4067	乳腺癌
+T114	Disease 4112 4116	前列腺癌
+T115	Drug 4130 4134	二甲双胍
+T116	Disease 4138 4144	2 型糖尿病
+T117	Disease 4157 4161	前列腺癌
+T118	Drug 4228 4232	二甲双胍
+T119	Disease 4273 4283	雄激素依赖性前列腺癌
+T120	Disease 4300 4304	前列腺癌
+T121	Anatomy 4307 4312	雄激素受体
+T122	Disease 4323 4327	前列腺癌
+T123	Disease 4341 4344	胰腺癌
+T124	Drug 4359 4361;4362 4364	二甲 双胍
+T125	Disease 4368 4371	胰腺癌
+T126	Drug 4417 4420	胰岛素
+T127	Drug 4455 4459	二甲双胍
+T128	Disease 4468 4469;4470 4472	胰 腺癌
+T129	Drug 4521 4525	二甲双胍
+T130	Anatomy 4532 4543	Sp 基因相关转录因子
+T131	Test_Value 4554 4560	3. 6pL
+T132	Disease 4570 4573	胰腺癌
+T133	Disease 4607 4610	胰腺癌
+T134	Drug 4627 4633	胰岛素促泌剂
+T135	Disease 4634 4638	恶性肿瘤
+T136	Drug 4642 4647	磺脲类药物
+T137	Drug 4670 4675	磺脲类药物
+T138	Disease 4679 4682	糖尿病
+T139	Disease 4684 4689	总恶性肿瘤
+T140	Drug 4728 4733	磺脲类药物
+T141	Anatomy 4752 4755	胰岛素
+T142	Drug 4785 4789	格列苯脲
+T143	Disease 4794 4796	胃癌
+T144	Anatomy 4814 4817	ROS
+T145	Disease 4835 4837	胃癌
+T146	Disease 4864 4866	肿瘤
+T147	Drug 4886 4891	磺脲类药物
+T148	Drug 4900 4905	磺脲类药物
+T149	Disease 4906 4910	恶性肿瘤
+T150	Drug 4952 4958	格列奈类药物
+T151	Drug 4963 4969	格列奈类药物
+T152	Disease 4975 4976;4977 4979	糖 尿病
+T153	Disease 4982 4986	恶性肿瘤
+T154	Disease 5026 5028	肝癌
+T155	Disease 5029 5031	肺癌
+T156	Disease 5032 5035	胰腺癌
+T157	Disease 5036 5040	结直肠癌
+T158	Disease 5041 5043	胃癌
+T159	Test 5058 5061	胰岛素
+T160	Drug 5062 5068	胰岛素类似物
+T161	Disease 5069 5073	恶性肿瘤
+T162	Drug 5097 5102	甘精胰岛素
+T163	Drug 5110 5120	人中性鱼精蛋白胰岛素
+T164	Disease 5132 5135;5136 5137	恶性肿 瘤
+T165	Drug 5179 5182	胰岛素
+T166	Disease 5192 5198	2 型糖尿病
+T167	Drug 5205 5210	甘精胰岛素
+T168	Disease 5229 5233	恶性肿瘤
+T169	Drug 5263 5265;5266 5269	甘精 胰岛素
+T170	Disease 5271 5275	恶性肿瘤
+T171	Disease 5282 5285	胰腺癌
+T172	Drug 5324 5327	胰岛素
+T173	Disease 5343 5346	胰腺癌
+T174	Disease 5389 5392	糖尿病
+T175	Test 5395 5397	血糖
+T176	Drug 5412 5413;5414 5416	胰 岛素
+T177	Disease 5428 5431	胰腺癌
+T178	Drug 5480 5484	二甲双胍
+T179	Drug 5487 5490	胰岛素
+T180	Disease 5494 5497	胰腺癌
+T181	Anatomy 5525 5528	胰岛素
+T182	Disease 5529 5532	胰腺癌
+T183	Disease 5550 5554	结直肠癌
+T184	Drug 5574 5577	胰岛素
+T185	Disease 5581 5585	结直肠癌
+T186	Drug 5599 5602	NPH
+T187	Drug 5617 5622	甘精胰岛素
+T188	Disease 5634 5638	结直肠癌
+T189	Drug 5652 5657	甘精胰岛素
+T190	Duration 5657 5663	大于 2 年
+T191	Disease 5667 5671	结直肠癌
+T192	Disease 5678 5681	乳腺癌
+T193	Drug 5700 5705	甘精胰岛素
+T194	Disease 5709 5712	乳腺癌
+T195	Drug 5747 5751;5752 5753	甘精胰岛 素
+T196	Disease 5760 5763	乳腺癌
+T197	Drug 5777 5780	NPH
+T198	Drug 5819 5822	胰岛素
+T199	Disease 5825 5828	糖尿病
+T200	Disease 5830 5833	乳腺癌
+T201	Drug 5840 5843	胰岛素
+T202	Drug 5851 5854	胰岛素
+T203	Disease 5865 5867	肿瘤
+T204	Disease 5905 5909	恶性肿瘤
+T205	Drug 5931 5934	胰岛素
+T206	Disease 5943 5948	糖尿病胃癌
+T207	Disease 5951 5955;5956 5957	胰岛素抵 抗
+T208	Anatomy 5966 5970	单核细胞
+T209	Anatomy 5971 5977	HLA-DR
+T210	Disease 5992 5994	死亡
+T211	Drug 5998 6001	胰岛素
+T212	Disease 6009 6011	胃癌
+T213	Drug 6051 6052;6053 6055	胰 岛素
+T214	Disease 6058 6061	胆管癌
+T215	Disease 6062 6066	肝细胞癌
+T216	Drug 6145 6151	外源性胰岛素
+T217	Disease 6154 6157	糖尿病
+T218	Disease 6180 6184	恶性肿瘤
+T219	Test 6205 6208	胰岛素
+T220	Disease 6214 6215;6216 6219	恶 性肿瘤
+T221	Drug 6245 6247;6248 6252	外源 性胰岛素
+T222	Test 6260 6263	胰岛素
+T223	Disease 6289 6292	糖尿病
+T224	Disease 6297 6302;6303 6304	高胰岛素血 症
+T225	Anatomy 6315 6327	胰岛素样生长因子受体 1
+T226	Disease 6345 6349	恶性肿瘤
+T227	Anatomy 6354 6360;6361 6363	胰岛素样生长 因子
+T228	Anatomy 6364 6367	IGF
+T229	Anatomy 6384 6389	胰岛素受体
+T230	Test 6390 6394;6395 6397	IGF- 1R
+T231	Anatomy 6398 6404	IGF-2R
+T232	Anatomy 6411 6420	胰岛素受体基质通路
+T233	Anatomy 6424 6428	mTOR
+T234	Anatomy 6463 6468	肠促胰岛素
+T235	Disease 6473 6477	恶性肿瘤
+T236	Drug 6531 6535	西格列汀
+T237	Drug 6536 6540	艾塞那肽
+T238	Disease 6544 6547	胰腺炎
+T239	Disease 6565 6568	胰腺癌
+T240	Drug 6613 6618	磺脲类药物
+T241	Drug 6620 6624	TZDs
+T242	Drug 6628 6629;6630 6646	二 肽基肽酶 4(DPP-4)抑制剂
+T243	Disease 6650 6653	胰腺癌
+T244	Drug 6664 6667	SUs
+T245	Drug 6677 6686	DPP-4 抑制剂
+T246	Disease 6692 6695	胰腺癌
+T247	Anatomy 6725 6727;6728 6732	胰升 糖素样肽
+T248	Drug 6733 6745	GLP)-1 受体激动剂
+T249	Anatomy 6751 6760	磷酸肌醇 3 激酶
+T250	Anatomy 6762 6766	PI3K
+T251	Anatomy 6770 6773	Akt
+T252	Disease 6794 6795;6796 6798	胰 腺癌
+T253	Anatomy 6821 6826	GLP-1
+T254	Anatomy 6836 6844	甲状腺 C 细胞
+T255	Disease 6852 6861	甲状腺髓样癌中癌变
+T256	Anatomy 6868 6876	甲状腺 C 细胞
+T257	Anatomy 6886 6894	GLP-1 受体
+T258	Disease 6898 6904	甲状腺髓样癌
+T259	Disease 6935 6941	2 型糖尿病
+T260	Disease 6954 6956;6957 6959	恶性 肿瘤
+T261	Disease 6986 6990	恶性肿瘤
+T262	Drug 7003 7007	二甲双胍
+T263	Drug 7021 7025	TZDs
+T264	Disease 7030 7032	肝癌
+T265	Disease 7033 7036	乳腺癌
+T266	Drug 7040 7043	胰岛素
+T267	Disease 7050 7054	恶性肿瘤
+T268	Drug 7057 7062	肠促胰岛素
+T269	Disease 7088 7092	恶性肿瘤
+T270	Drug 7138 7142	二甲双胍
+T271	Drug 7144 7148	TZDs
+T272	Disease 7158 7161	乳腺癌
+T273	Drug 7175 7179	二甲双胍
+T274	Test 7186 7189	胰岛素
+T275	Drug 7192 7196	二甲双胍
+T276	Disease 7205 7209	恶性肿瘤
+T277	Drug 7248 7253	磺脲类药物
+T278	Drug 7254 7258	二甲双胍
+T279	Disease 7265 7269	恶性肿瘤
+T280	Disease 7286 7290	恶性肿瘤
+T281	Drug 7298 7302	降糖药物
+T282	Disease 7346 7350	恶性肿瘤
+T283	Disease 7444 7448	恶性肿瘤

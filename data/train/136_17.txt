@@ -1,0 +1,204 @@
+基础研究
+基金项目:国家自然科学基金项目(81170729,81200574);卫生行
+业科研专项项目(201002002)
+实验性猕猴 Graves 病模型的制备
+王悦  伍丽萍  施秉银  浮姣  吕宏军  关晓燕  徐利  陈谱  高楚淇  侯鹏  祭美菊
+刘淑  石静  王娜  刘玮  赵玉景  刘莹莹
+[摘要]   目的  用表达 TSH 受体 A 亚单位的重组腺病毒(A-sub-Ad)免疫雌性猕猴制备 Graves 病动
+物模型,观察其 TT4、FT4、促甲状腺素受体抗体(TRAb)水平及甲状腺组织增生等情况。 方法 将 3 岁雌性
+猕猴随机分为实验组和对照组,每组各 6 只。 用 A-sub-Ad 及对照腺病毒(EGFP-Ad)于两侧股四头肌处肌
+肉注射免疫猕猴,每 3 周免疫 1 次,共 5 次。 在造模期间动态取血,检测其 TRAb、TT4、FT4水平。 每周测定
+猕猴体重、心率并记录其变化。 末次免疫 4 周后安乐死取甲状腺行组织学检查。 结果 实验组中全部猕
+猴 TRAb 水平显著升高,50%猕猴血清 TT4、FT4明显升高,甲状腺组织病理切片显示 75% 猕猴甲状腺显著
+增生,但无淋巴细胞浸润。 与正常猕猴相比,甲状腺功能亢进猕猴体重明显下降,心率明显增快。 结论
+利用表达 TSH 受体 A 亚单位的重组腺病毒免疫与人类基因同源性很高的猕猴,成功制备 Graves 病动物模
+型,为人类 Graves 病进一步研究提供了良好的工具。
+[关键词]   促甲状腺素受体; A 亚单位; 格雷夫斯病; 动物模型; 猕猴
+A pilot study on inducing Graves忆 disease in rhesus monkeys Wang Yue, Wu Liping, Shi Bingyin, Fu Jiao, Lv
+Hongjun, Guan Xiaoyan, Xu Li, Chen Pu, Gao Chuqi, Hou Peng, Ji Meiju, Liu Shu, Shi Jing, Wang Na, Liu Wei,
+Zhao Yujing, Liu Yingying. Department of Endocrinology, First Affliated Hospital of Xi忆an Jiaotong University. School
+of Medicine, Xi忆an 710061, China
+[Abstract]  Objective  To induce Graves忆 disease in rhesus monkeys, which would exhibit greater similarity
+to Graves忆 patients than previous rodent models. Methods Adult female rhesus macaques were injected
+intramuscularly with 6×1010 particles adenovirus expressing the A-subunit of TSHR (A-sub-Ad) or EGFP-Ad five
+times by three weeks intervals, and sera were prepared from blood samples collected at several time points during the
+immunization regimen. The animals were euthanized 4 weeks after the final injection to obtain blood, spleen cells,
+thyroid glands and other organs. Results After final immunization, the monkeys injected with A-sub-Ad showed
+characteristic of Graves忆 disease. Compared to controls, all the test monkeys had significant higher TRAb levels, half
+of them had increased TT4 and FT4, and 75% developed goiter. Conclusion The non-human primate model of
+Graves忆 disease was successfully established, which would provide an ideal tool for further understanding of the
+pathogenesis of Graves忆 disease in human.
+[Key words]  Thyrotropin receptor; A-subunit; Graves忆 disease; Animal model; Rhesus monkeys
+(Chin J Endocrinol Metab, 2014, 30: 606-610)
+Graves 病是一种常见的器官特异性自身免疫性疾
+病,女性患病率为 0. 5% ~ 2% [1],其发病机制尚未完
+全阐明。 Graves 病动物模型是研究其发病机制和防治
+方法的有效工具。 近 20 年来国内外学者在此方面已
+进行了大量研究,并取得重要进展。 但以往动物模型
+的研究对象都集中于啮齿类动物,由于啮齿类动物与
+人类亲缘关系较远,故研究结果用于人类疾病的防治
+可能还有较大距离。 本研究首次以表达 TSH 受体 A
+亚单位的重组腺病毒免疫猕猴,成功制备出了与人类
+GD 极为相似的动物模型,现报道如下。
+材料和方法
+一、 材料
+1. 实验动物:12 只 2 ~ 3 岁的雌性猕猴购于中国
+科学院昆明动物研究所,体重 2. 6 ~ 4 kg [SCXK(滇)
+2008-0001]。 单笼饲养,笼具规格 90 cm×90 cm×70
+cm;饲养室温度 24℃ ~26℃;相对湿度 40% ~60% ;噪
+音<60 dB;光照 12 h;自由活动。 人工饲养,全价猴饲
+料,每日定量辅助水果蔬菜等,自由饮水。
+2. 试剂: pSV2-neo-TSHR-289 由美国加州大学
+Chun-Rong Chen 教授惠赠,表达 TSH 受体 A 亚单位的
+重组腺病毒(A-sub-Ad)及对照病毒(EGFP-Ad)由本
+室保存。 促甲状腺素受体抗体(TRAb)的 ELISA 试剂
+盒和放射免疫试剂盒购自德国 Medipan 公司。 总 T4
+(TT4)和游离 T4(FT4)放射免疫分析药盒购自北京原
+子高科核技术应用股份有限公司。
+二、 方法
+1. 重组腺病毒的构建:EcoRI+XbaI 分别双酶切目
+的基因质粒 pSV2-neo-TSHR-289 和 pUC18 质粒,经连
+接、转化、筛选得到重组质粒 pUC18-TSHR289,再用
+EcoRI + SalI 双 酶 切 pUC18-TSHR289 和 穿 梭 质 粒
+pDC316,含 SalI 末端的 TSHR289 基因片段连接到
+pDC316。 将重组质粒 pDC316-TSHR289 和重组腺病
+毒骨架质粒 pBHGloxdel E13cre 共转染 293 细胞,出现
+噬斑后冻融细胞 3 次,收集上清,经鉴定正确后接种
+293 细胞进行大量扩增,用阴离子交换柱层析纯化,一
+次性滤器过滤除菌,经典方法测定其 TCID50。 con-Ad
+扩增纯化及测定同 A-sub-Ad。 -80℃保存备用。
+2. 动物免疫:将 12 只猕猴,随机分为实验组和对
+照组,实验组用 A-sub-Ad 免疫,共 6 只,对照组用
+EGFP-Ad 免疫,共 6 只。 取已构建好的 A-sub-Ad、
+EGFP-Ad 各 6×1010vp,分别用 PBS 稀释至 1 ml 直接注
+射两侧股四头肌,每侧 0. 5 ml。 每隔 3 周免疫 1 次,共
+5 次。 在造模期间动态取血,检测其促甲状腺激素受
+体抗体(TRAb)滴度和 TT4、FT4 水平。 末次免疫 4 周
+后安乐死取甲状腺组织行组织学检查。
+3. 相关指标检测:血清 TRAb 滴度由 ELISA 法和
+放射免疫法检测,以对照组 x- +2s 为正常上限。 血清
+TT4和 FT4水平经放射免疫法检测,检测值超过对照组
+x-+2s 被判定为甲状腺功能亢进(甲亢)。 剥离的甲状
+腺片用 10% 甲醛固定,石蜡包埋切片,HE 染色,光镜
+下观察其组织病理学改变。 每周测定猕猴体重、心率
+并记录其变化。 腺病毒中和抗体通过抑制 50% 绿色
+荧光蛋白表达的血清稀释倍数表示。
+三、 统计学处理
+应用 SPSS 17. 0 软件进行数据分析,数据以 x- ± s
+表示。 两样本均数比较采用 Mann-Whitney U 检验,P<
+0. 05 具有统计学意义。
+结    果
+一、 猕猴血清 TRAb 滴度变化
+血清 TRAb 滴度由 ELISA 法和 TBI 两种方法检
+注:CON:对照组 Control group;EXP:实验组 Experimental group;TRAb:促甲状腺素受体抗体;A:显示 ELISA 及 TBI 两种方法在不同时间点对实验
+组及对照组猕猴进行 TRAb 检测 The general trend of TSH receptor antibody(TRAb) measured by ELISA and TBI assay; B 和 C:显示 ELISA 及 TBI 法在 3 次
+及 5 次免疫后的 TRAb 平均值 The mean values of TRAb, as measured by ELISA and TBI after the third and fifth injections;与 CON 组相比 vs CON group, aP<
+0. 05, bP<0. 01
+图 1  不同时期猕猴血清 TRAb 水平
+Fig 1  Serum TRAb levels in monkeys at different periods
+测,在整个免疫期间动态检测 TRAb 水平,实验组呈现
+稳步上升的趋势(图 1A)。 以对照组 x- +2s 为正常上
+限。 ELISA 法猕猴>0. 06 IU / L 为阳性,TBI 法猕猴>
+36. 6%为阳性。 第 3 次和第 5 次免疫结束后 ELISA 法
+测定实验组 TRAb 滴度分别为(0. 18 ± 0. 16) IU / L 和
+(1. 58 ± 1. 12) IU / L,TBI 法测定实验组 TRAb 滴度分
+别为(48 ±8. 1)%和(63. 2 ± 14. 2)% 。 与免疫 3 次相
+比,免疫 5 次后的实验组 TRAb 滴度明显升高 (P <
+0. 05,图 1B)。
+二、 猕猴血清 TT4 和 FT4 水平变化
+与正常猕猴相比,甲亢猕猴 TT4 和 FT4 水平在整
+个免疫过程中呈逐步上升的趋势(实验组有 3 只猕猴
+甲亢)。 以对照组猕猴血清 TT4 和 FT4 的 x
+-±2s 为正常
+上下限,TT4和 FT4正常范围分别是 2. 68 ~ 5. 72 μg / dl
+和 6. 65 ~ 12. 21 pmol / L,以超过正常上限作为诊断甲
+亢的标准。 在第 3 次免疫结束后,实验组 6 只猕猴中
+有 1 只猕猴出现了 TT4和 FT4的升高。 而在 5 次免疫
+结束后,实验组 3 只猕猴出现了 TT4和 FT4的升高,即
+50%猕猴血清 TT4和 FT4明显升高(图 2)。 5 次免疫结
+束后甲亢猕猴 TT4 和 FT4 的平均水平分别为(8 . 98 ±
+1. 50) μg / dl 和(15. 20 ± 1. 38) pmol / L,与正常猕猴相
+比明显升高(P<0. 05)。
+三、 猕猴甲状腺组织病理学检查
+光镜下正常猕猴甲状腺上皮细胞呈低立方状或扁
+平状,滤泡中胶质含量比较丰富(图 3)。 甲亢猕猴甲
+状腺滤泡细胞增生肥大,呈立方状或高柱状,滤泡大小
+不一,滤泡腔中胶质含量减少,在增生的甲状腺滤泡中
+可见乳头状折叠凸入滤泡腔,未见淋巴细胞浸润(图
+3)。 5 次免疫结束后,75%猕猴甲状腺显著增生。
+四、 其他变化
+每周测定猕猴体重并记录其变化。 随着时间推
+移,正常猕猴平均体重由基线(3. 91 ± 0. 15)kg 逐渐增
+长至(3. 95 ±0. 3)kg(P>0. 05)。 而甲亢猕猴平均体重
+由(3. 95 ±0. 05)kg 下降至(3. 62 ± 0. 2)kg(图 4A,P<
+0. 05)。 造模结束后,甲亢猕猴静息心率为(255 ± 14)
+次 / min, 与正常猕猴(188 ±16)次 / min 相比明显升高
+注:CON:对照组 Control group;EXP:实验组 Experimental group;显示实验组和对照组猕猴在 3 次及 5 次免疫后的 TT4 及 FT4 平均值 Individual
+values of TT4 and FT4 for monkeys two weeks after the third and fifth injections
+图 2  不同时期猕猴血清 TT4、FT4水平
+Fig 2  Serum TT4 and FT4 levels in monkeys at different periods
+注:CON:对照组 Control group;EXP:实验组 Experimental group;显示正常猕猴及甲亢猕猴甲状腺病理组织切片;甲状腺功能亢进猕猴甲状腺出现
+增生性改变,滤泡上皮呈柱状或立方状 Histology of thyroid tissue from euthyroid monkey and hyperthyroid monkey at two magnifications; The thyroid glands of
+monkeys with high serum TT4 showed marked hypertrophy and thyrocyte hypercellularity
+图 3  猕猴甲状腺组织病理改变(HE 染色×40)
+Fig 3  The histological change of thyroid in monkeys(HE staining×40)
+注:CON:对照组 Control group;EXP:实验组 Experimental group;A:实验组和对照组体重变化趋势,实验组猕猴体重下降有统计学意义 The general
+trend of body weight measured during the experiment, and there was a significant decrease in the weight of hyperthyroid monkeys in the A-sub-Ad animals; B:在整
+个免疫期间动态测定腺病毒中和抗体,实验组和对照组无统计学差异 Anti-adenovirus antibody responses in vaccinated animals
+图 4  猕猴体重及其腺病毒中和抗体
+Fig 4  Body weight and anti-adenovirus neutralizing antibody titer in monkeys
+(P<0. 05)。
+五、 腺病毒中和抗体
+在整个免疫期间动态测定腺病毒中和抗体,实验
+组和对照组差异无统计学意义。 实验组和对照组在首
+次免疫之前中和抗体均为阴性。 在第二次免疫结束
+后,其中和抗体滴度上升至 800。 在随后的免疫过程
+中,中和抗体滴度呈直线上升趋势,直至 5 次免疫结束
+后达到峰值 5 000(图 4B)。
+讨    论
+早期 Graves 病动物模型研究主要集中于用可溶
+性 TSHR 抗原肽、原核细胞重组多肽免疫动物及甲状
+腺组织异体移植等,但上述方法存在的共同问题是不
+能保持 TSHR 在动物体内的生物活性和无法维持
+TSHR 抗体滴度[2]。 1996 年 Shimojo 等[3] 报道了第一
+个真正的 Graves 病动物模型,利用转染人类 TSHR
+cDNA 和鼠 MHC2类抗原的成纤维母细胞 ( RT4.
+15HP)腹腔注射 AKR / N 小鼠,成功诱导出具有 Graves
+病主要特征的动物模型。 经过长时间的探索和改进,
+Graves 病模型的制备方法已有很大进展并趋于成熟。
+Nagayama 等[4]于 2002 年报道给 BALB / c 小鼠肌肉注
+射表达 TSHR 全长的重组腺病毒,30% ~ 50% 小鼠发
+生甲亢。 而 Chen 等[5] 在进一步的研究中将表达
+TSHR A 亚单位的重组腺病毒免疫小鼠,甲亢的发生
+率提高至 60% ~ 80% 。 这种 TSHR A 亚单位-腺病毒
+模型无论是成功率、还是可复制性等方面均得到学者
+们的一致认同[6-8]。 然而该小鼠 Graves 病模型的血清
+TRAb 滴度显著高于一般 Graves 病患者[9]。 有解释认
+为 TRAb 显著升高而甲亢发生率较低可能与其剌激阻
+断抗体(thyroid stimulating blocking antibody, TSBAb)组
+分滴度较高有关,降低含目的基因的重组腺病毒免疫
+剂量将会优化该模型[10]。
+Graves 病的发病机制至今尚未阐明,目前的治疗
+方法是缓解症状。 本实验室利用高效表达 TSHR A 亚
+单位的重组腺病毒成功诱导了新生雌性 BALB / c 小鼠
+对实验性 Graves 病免疫耐受[11]。 这可以为遗传上有
+潜在 Graves 病发生可能的患者进行早期预防,防止其
+成年后发生 Graves 病。 然而小鼠与人类的基因同源
+性仅达 69. 1% ,故这一技术能否应用于人类还需要进
+一步研究。 猕猴与人类的基因同源性高达 93. 5% ,且
+在形态学、生殖生理特性、生化代谢及免疫系统方面与
+人类非常相似[12]。 目前猕猴已经广泛应用到各种人
+类疾病的研究中,如多发性硬化、糖尿病、器官移植、
+HIV 疫苗研究,登革热,疟疾等[13]。 本研究也以猕猴
+为研究对象,首次在国内外利用表达 TSH 受体 A 亚单
+位的重组腺病毒成功诱导了 Graves 病。
+Graves 病动物模型成功的重要标志有 TRAb 阳性
+同时伴有血清甲状腺激素水平升高、甲状腺肿大、并出
+现体重减轻等[14]。 本研究用表达 TSH 受体 A 亚单位
+的重组腺病毒免疫猕猴,结果显示实验组中全部猕猴
+TRAb 水平显著升高,50% 猕猴血清 TT4、FT4 明显升
+高,并伴有 TSH 水平的下降。 甲状腺组织病理切片显
+示 75%猕猴甲状腺显著增生。 与对照组相比,实验组
+猕猴体重明显下降。 本研究首次用表达 TSH 受体 A
+亚单位的重组腺病毒成功制备了猕猴 Graves 病模型,
+为人类 Graves 病的研究提供了更好的实验工具。

@@ -1,0 +1,356 @@
+糖尿病相关议题
+格列本脲治疗妊娠糖尿病的系统评价
+谢敏  李竞
+[摘要]   目的  系统评价格列本脲治疗妊娠糖尿病的有效性及安全性。 方法 网络检索 Cochrane
+Central Register of Controlled Trials (CENTRAL)、Medline、EMBASE、Science Citation Index、CNKI、VIP、Wanfang
+等数据库,检索时间均为建库至 2013 年 3 月。 筛选用格列本脲治疗妊娠糖尿病的临床随机对照试验
+(randomized controlled trial,RCT),同时追索纳入文献的参考文献。 根据 GRADE 系统推荐分级方法,对纳
+入研究的质量进行严格评价和资料提取,对符合质量标准的 RCT 进行 meta 分析。 统计学分析采用 Rev-
+Man5. 1 软件和 GRADEprofiler 3. 2. 2 软件。 结果 共纳入 5 个 RCT。 发现格列本脲与单用胰岛素治疗在
+有效性(如母体餐后血糖、HBA1C)及不良围生期结局(如孕妇体重的变化、剖腹产率、母体低血糖发生率、
+新生儿出生体长、低血糖发生率、黄疸、监护病房入住率、先天畸形、死胎、死亡率)方面差异无统计学意义
+(P>0. 05),但其母体空腹血糖、新生儿出生体重较后者高,且巨大儿发生率较后者显著升高。 结论 格列
+本脲可以有效控制妊娠糖尿病患者的血糖,可以作为妊娠糖尿病一个有效的治疗方法,对胎儿的生长发育
+无不良影响,但会引起新生儿巨大儿的发生率增高。 但鉴于纳入研究较少,样本量小,且质量不高,故仍需
+开展大样本、多中心、方法科学和规范的高质量 RCT,以求进一步验证格列本脲治疗妊娠糖尿病的有效性
+及安全性。
+[关键词]   格列本脲; 妊娠糖尿病; 随机对照试验; 系统评价; meta 分析
+Glibenclamide treatment for gestational diabetes mellitus: A systematic review Xie Min, Li Jing.
+Department of Endocrinology, Renmin Hospital of Wuhan University, Wuhan 430060, China
+[Abstract]  Objective   To evaluate the effect and safety of glibenclamide for gestational diabetes mellitus
+(GDM). Methods Cochrane Central Register of Controlled Trials ( CENTRAL), Medline, EMBASE, Science
+Citation Index, CNKI, VIP, Wanfang Data, and CBM were searched for the randomized controlled trials (RCTs) of
+glibenclamide for gestational diabetes from the date of establishment of the databases to March 2013. The
+bibliographies of the included studies were searched, too. The included studies were evaluated by GRADE. The
+extracted data were analyzed by Rev-Man 5. 1 and GRADEprofiler 3. 2. 2. Results Five RCTs were included.
+Effectiveness(such as maternal postprandial glucose, HBA1C) and adverse perinatal outcomes(such as the change of
+the pregnant women body weight, cesarean section rate, maternal hypoglycemia incidence, birth body length,
+incidence of hypoglycemia, jaundice, newborn being in the care unit, congenital malformations, stillbirth, and
+mortality neonatal) showed no differences between glibenclamide ( alone or complemented with insulin) group and
+insulin group(P>0. 05) . However,compared with insulin group, higher maternal fasting blood glucose, higher birth
+weight of newborn infants, and incidence of macrosomia were shown in glibenclamide group. Conclusion
+Glibenclamide can effectively control maternal blood sugar, and would be a promising alternative therapy for GDM,
+without adverse effect on fetal growth and development, but with the higher incidence of neonatal macrosomia. Due to
+the limitations of the included studies, more large-sample, high-quality RCTs are required.
+[Key words]  Glibenclamide; Gestational diabetes mellitus; Randomized controlled trial; Systematic review;
+Meta-analysis
+(Chin J Endocrinol Metab, 2014, 30: 731-736)
+妊娠期糖尿病(gestational diabetes mellitus,GDM)
+是指妊娠期间首次出现或首次发现的由不同程度糖耐
+量受损引起的高血糖(不包括妊娠前已存在的糖尿
+病) [1]。 肥胖和糖尿病的持续流行使更多育龄妇女罹
+患 2 型糖尿病,且根据 2012 年美国糖尿病学会(ADA)
+糖尿病指南新的诊断标准,妊娠妇女中未诊断糖尿病
+患者数也随之增加,GDM 的患病率将显著增高[2,3]。
+而妊娠期高血糖对孕妇和胎儿都有相应的影响,未经
+治疗的 GDM 患者并发感染、羊水过多、先兆子痫、剖
+宫产率明显增加;而胎儿并发畸形、巨大儿、新生儿低
+血糖症、新生儿呼吸窘迫综合征也增多,使得胎儿宫内
+死亡率、围产期死亡率明显增加[4]。 同时,GDM 患者
+随后发生 2 型糖尿病的风险显著增加[5]。 而暴露于高
+血糖环境的胎儿,其长大以后胰岛素抵抗、糖耐量受损
+的发生率也明显增加[6]。 安全有效的血糖控制则可
+减少相关合并症的发生,因此,妊娠期间的合理降糖方
+案是极其必要的。
+目前,饮食和运动治疗仍然是此类患者最基础的
+治疗方式[7]。 传统观点认为,当患者经饮食运动治疗
+后血糖控制欠佳时,胰岛素治疗是 GDM 及糖尿病合
+并妊娠的唯一用药选择。 且美国药物和食品管理局
+(FDA)将大多数第 1 代磺脲类药物列为妊娠期 D 类
+用药,即该类药物对胎儿有危害。 但是,目前也有研究
+表明,第 2 代口服降糖药格列本脲可以应用于 GDM。
+Ecker 等[8] 研究认为,格列本脲可以替代胰岛素作为
+GDM 治疗的临床一线用药。 然而关于格列本脲应用
+于 GDM 患者是否会导致胎儿低血糖发生率升高存在
+争议。 有研究发现与胰岛素相比,格列本脲应用于
+GDM 患者其新生儿低血糖发生率升高[9]。 但也有研
+究发现胰岛素和格列本脲对新生儿低血糖发生率的影
+响没有差异[10,11]。 故本文就格列本脲对 GDM 的安全
+性及有效性进行系统评价。
+对象和方法
+一、 文献纳入标准
+1. 研究类型:关于格列本脲治疗 GDM 的临床随
+机对照试验(RCT)。
+2. 研究对象:RCT 选取的研究对象为单纯饮食和
+运动控制血糖难以达标的 GDM 患者,诊断及血糖控
+制水平依据 ADA 的最新标准[1]。
+3. 干预措施:试验组为格列本脲,对照组为胰岛
+素或胰岛素类似物。
+4. 结局指标:母体结局指标:空腹血糖、餐后血
+糖、HBA1C、孕妇体重的变化、剖腹产、母体低血糖;新
+生儿结局指标:出生体重、出生体长、新生儿低血糖、巨
+大儿、新生儿黄疸、新生儿监护病房入住率、先天畸形、
+死胎、新生儿死亡率。
+二、 文献排除标准
+(1)重复发表;(2)未提供充分原始数据且索取无
+果;(3)样本量<10;(4)只有摘要而缺乏全文。
+三、 检索策略
+1. 数 据 库 选 择: Cochrane Central Register of
+Controlled Trials ( CENTRAL )、 Medline、 EMBASE、
+Science Citation Index、中国知网(CNKI)、维普数据库
+献数据库(CBM)。 文献检索起止时间均为从建库到
+2013 年 3 月,文种限中、英文。
+2. 检 索 词 选 择: 英 文 检 索 词 为 “ Gestational
+diabetes mellitus、 hypoglycemic agents、Glibenclamide冶,
+中文检索词为“妊娠期糖尿病、降糖药物、格列本脲冶。
+3. 检索步骤: 文献检索分 3 个步骤: ( 1 ) 在
+CENTRAL、Medline、 EMBASE、 Science Citation Index、
+CNKI、CBM、VIP、Wanfang 等中、英文数据库中检索相
+关的原始论文,并对所获文献文题、摘要、所用的关键
+词以及主题词进行分析,以进一步确定文献检索的关
+键词;(2)运用所有相关的主题词和关键词进行数据
+库检索,如果摘要初步符合纳入标准,则进一步查找并
+阅读全文;(3)通过所获文献后附参考文献进行进一
+步手工和电子数据库检索。
+四、 文献质量评价
+1. 文献提取:首先,根据已确定的检索策略,对每
+篇 RCT 的题目和摘要进行审查和评价,确定符合入选
+标准的文献。 最后根据纳入标准,形成最终纳入还是
+剔除该文献的决定。
+2. 证据的整体质量:由 2 名内分泌科医师按照
+Cochrane Review忆s Handbook 质量评价标准对每篇文献
+的质量进行独立评价:完全满足标准为 A 级;部分满
+足标准为 B 级;完全不满足标准为 C 级。 然后由 2 名
+内分泌科医师根据上述标准对每篇文献质量进行讨
+论,达成共识后确定该文献是否纳入,若意见不统一,
+则由第 3 位研究者协助解决。
+五、 资料提取
+阅读全文后对资料进行提取,内容包括:样本的入
+选标准和样本量,抽样和分组的方法和过程,研究对象
+的基本资料,结局指标中连续性指标的均数和标准差
+等。
+六、 统计学处理
+采用 Rev Man 5. 1 软件对资料进行定量综合分
+析。 首先通过卡方检验确定研究间是否存在异质性,
+若 P>0. 1,I2<50% 可认为多个同类研究具有同质性,
+可选用固定效应模型进行 meta 分析;如果 P<0. 1,I2
+≥50% ,但临床上判断各组间具有一致性需要进行合
+并时,则选择随机效应模型。 如 P<0. 1 且无法判断异
+质性的来源,则不进行 meta 分析,采用描述性分析。
+结    果
+一、 纳入研究的一般情况
+初检出相关文献 115 篇,其中中文 7 篇,英文 108
+篇。 剔除重复发表及明显不符合纳人标准的文献 96
+篇,经阅读文题和摘要,纳入 19 篇临床对照研究。 进
+一步查找和阅读全文,排除其中的非随机对照试验和
+无对照组的临床试验后,最终纳入 5 篇 RCT[9,10,12-14]。
+5 篇皆为英文文献,无中文文献入选。 纳入研究的一
+般情况详见表 1。
+二、 纳入研究的质量评价
+根据 Cochrane 评价手册中质量评价标准对 RCT
+进行质量评价和分级。 纳入研究的 5 篇文献方法学质
+量全为中等(表 2)。
+三、 有效性评价
+有 3 项研究报道了格列本脲治疗 GDM 对母体空
+腹血糖的影响[13-15]。 由于各研究间具有同质性,采用
+固定效应模型进行分析,结果显示,格列本脲治疗
+GDM 与单用胰岛素相比,空腹血糖较后者高,差异有
+统计学意义(P = 0. 04,图 1)。 因研究数量有限,未能
+进行漏斗图分析,但敏感性分析结果不稳定。 因
+Langer 等[10]的研究权重大(68. 8% ),剔除该文献后,
+合并效应量变为 3. 45 (95% CI -0. 78 ~ 7. 67),提示无
+统计学意义。 所以,格列本脲治疗 GDM 对母体空腹
+血糖的影响效果还有待进一步高质量的研究验证。
+有 4 项研究报道了格列本脲治疗 GDM 对母体餐
+后血糖的影响[12-15]。 因各研究间存在异质性,采用随
+机效应模型进行分析。 结果显示,格列本脲治疗 GDM
+与单用胰岛素相比,二者对餐后血糖的影响无统计学
+意义(P>0. 05,图 2)。 因研究数量有限,未能进行漏
+斗图分析。 敏感性分析发现分别剔除这 4 项研究,合
+并效应量仍均无统计学意义。
+有 3 项研究报道了格列本脲治疗 GDM 对母体
+表 1  纳入研究的一般情况表
+Tab 1  General data of included studies
+作者
+Author
+国家
+Country
+格列本脲例数
+Glibenclamide(n)
+胰岛素例数
+Insulin(n)
+结果
+Result
+Bertini 等[9] 巴西   24   27 格列本脲可以作为妊娠糖尿病一个有效的治疗方法,但其巨大儿和新生儿低血
+糖发生率较其他方法高
+Langer 等[10] 美国 201 201 对于妊娠糖尿病,格列本脲是一个很好的选择
+Anjalakshi 等[12] 印度 10 13 格列本脲和胰岛素在血糖控制方面有相似效果且妊娠结局没有统计学差异
+Ogunyemi 等[13] 美国 48 49 格列本脲对于妊娠糖尿病是一个经济且有效的选择
+Lain 等[14] 美国 41 41 妊娠糖尿病患者使用格列本脲并不会引起新生儿脂肪异常
+表 2  纳入研究的方法学质量评价
+Tab 2  Quality evaluation of methodology for included studies
+纳入研究
+Included study
+年份
+Year
+研究方法
+Study methods
+分配方法隐藏
+Allocation
+concealment
+盲法
+Blinding
+method
+失访报道
+Lost of
+follow up
+意向治疗分析
+Intention to treat
+基线比较
+Basaline
+comparison
+方法学质量等级
+Grade for quality
+of methodology
+Langer 等[10] 2000 计算机产生随机序列 是  不详 无 采用  有 B
+Bertini 等[9] 2005 提到随机方法,但随机方法不明 不详 否  无 采用  有 B
+Anjalakshi 等[12] 2007 提到随机方法,但随机方法不明 不详 不详 无 未采用 有 B
+Ogunyemi 等[13] 2007 计算机产生随机序列 是  否  无 采用  有 B
+Lain 等[14] 2009 随机区组 是  不详 无 未采用 有 B
+图 1  格列本脲与胰岛素治疗妊娠期糖尿病对空腹血糖影响的比较
+Fig 1  Comparison of glibenclamide and insulin on fasting plasma glucose of gestational diabetes mellitus
+图 2  格列本脲与胰岛素治疗妊娠期糖尿病对餐后血糖影响的比较
+Fig 2  Comparison of glibenclamide and insulin on postprandial plasma glucose of gestational diabetes mellitus
+HBA1C的影响[10,12,13]。 因各研究间存在异质性,采用
+随机效应模型进行分析。 结果显示,格列本脲治疗
+GDM 与单用胰岛素相比,二者对 HBA1C的影响无统计
+学意义(P>0. 05,图 3)。 因研究数量有限,未能进行
+漏斗图分析。 敏感性分析发现分别剔除这 3 项研究,
+合并效应量仍均无统计学意义。
+四、 安全性评价
+对于孕妇体重的变化、剖腹产率、母体低血糖发生
+率、新生儿出生体长、低血糖发生率、黄疸、监护病房入
+住率、先天畸形、死胎、死亡率、新生儿出生体重、巨大
+儿发生率等指标,各研究间具有同质性,采用固定效应
+模型进行分析,结果显示,格列本脲治疗 GDM 与胰岛
+素相比,二者在孕妇体重的变化、剖腹产率、母体低血
+糖发生率、新生儿出生体长、低血糖发生率、黄疸、监护
+病房入住率、先天畸形、死胎、死亡率方面差异无统计
+学意义(P>0. 05,表 3、4),但其新生儿出生体重较后
+者高,差异有统计学意义(P = 0. 005,图 4),且巨大儿
+发生率较后者显著升高,差异有统计学意义(P=0. 004,
+图 3  格列本脲与胰岛素治疗妊娠期糖尿病对 HBA1C影响的比较
+Fig 3  Comparison of glibenclamide and insulin on HBA1C of gestational diabetes mellitus
+表 3  纳入研究的母体结局指标的统计学分析
+Tab 3  Analysis on the indexes of maternal outcomes in the included studies
+结局指标
+Index of outcomes
+合并研究数
+Combined number of study
+合并样本量
+Combined cases
+合并效应量及 95% CI
+Combined effect size and 95% CI
+P 值
+P value
+空腹血糖
+Fasting plasma glucose(mg / dl) 3 583 MD 2. 45 (0. 09-4. 81) 0. 04
+餐后血糖
+Postprandial plasma glucose(mg / dl) 4 606 MD 2. 69 (-0. 20-5. 57) 0. 07
+HBA1C(% ) 3 524 MD -0. 02 (-0. 14-0. 10) 0. 73
+孕妇体重的变化
+Change of maternal body weight(kg) 2 455 MD -0. 91 (-2. 87-1. 06) 0. 37
+剖腹产
+Cesarean section rate 1 97 RR 0. 73 (0. 47-1. 16) 0. 19
+母体低血糖
+Maternal hypoglycemia incidence 1 97 RR 1. 23 (0. 70-2. 14) 0. 48
+表 4  纳入研究的新生儿结局指标的统计学分析
+Tab 4  Analysis on the indexes of newborn outcomes in the included studies
+结局指标
+Index of outcomes
+合并研究数
+Combined number of study
+合并样本量
+Combined cases
+合并效应量及 95% CI
+Combined effect size and 95% CI
+P 值
+P value
+出生体重
+Birth body weight(g) 5 657 MD 120. 42(36. 24-204. 60) 0. 005
+出生体长
+Birth body length(cm) 1 82 MD 0. 60(-0. 44-1. 64) 0. 26
+新生儿低血糖
+Newborn hypoglycemia 2 501 RR 1. 80(0. 97-3. 35) 0. 06
+巨大儿
+Macrosomia 3 537 RR 2. 70(1. 38-5. 29) 0. 004
+新生儿黄疸
+Newborn jaundice 1 404 RR 1. 51(0. 63-3. 63) 0. 35
+新生儿监护病房入住率
+Newborn being in the care unit 1 404 RR 0. 87(0. 41-1. 83) 0. 70
+先天畸形
+Congenital malformations 2 501 RR 1. 30(0. 50-3. 43) 0. 59
+死胎
+Stillbirth 1 404 RR 1. 01(0. 06-16. 04) 0. 99
+新生儿死亡率
+Mortality neonatal 1 404 RR 1. 01(0. 06-16. 04) 0. 99
+图 4  格列本脲与胰岛素治疗妊娠期糖尿病对新生儿体重影响的比较
+Fig 4  Comparison of glibenclamide and insulin on newborn body weight of gestational diabetes mellitus
+图 5  格列本脲与胰岛素治疗妊娠期糖尿病巨大儿发生率的比较
+Fig 5  Comparison of glibenclamide and insulin on macrosomia incidence of gestational diabetes mellitus
+图 5)。 因研究数量有限,未能进行漏斗图分析。 敏感
+性分析发现,对于孕妇体重的变化、剖腹产率、母体低
+血糖发生率、新生儿出生体长、低血糖发生率、黄疸、监
+护病房入住率、先天畸形、死胎、死亡率等指标,合并效
+应量仍均无统计学意义,对于巨大儿发生率,合并效应
+量仍具有统计学意义。 而对于新生儿出生体重,敏感
+性分析发现格列本脲治疗 GDM 的结果不稳定。 在剔
+除 Lain 等[14]的研究后,合并效应量变为 89. 62(95%
+CI -1. 50 ~ 180. 74),提示无统计学意义。 所以,格列
+本脲治疗 GDM 对新生儿出生体重的影响还有待进一
+步高质量的研究验证。
+讨    论
+GDM 和未妊娠妇女糖尿病,治疗要求有所不同,
+主要不同点在于未妊娠妇女和普通糖尿病患者一样,
+以减少和预防糖尿病心血管合并症为主要目的,而对
+于 GDM 则还要考虑对胎儿的保护,因此对 GDM 的治
+疗首先需要考虑对胎儿安全的影响。 正是基于这一
+点,既往一直强调用胰岛素控制糖尿病孕妇的血糖而
+避免用口服降糖药。 而 Fanelli 等[16] 在动物实验中也
+发现第一代磺脲类药物(甲苯磺丁脲及氯磺丙脲)对
+胚胎具有致畸作用。 然而却有研究发现,208 例 GDM
+分别用 D860 与氯磺丙脲、单纯饮食和胰岛素治疗,当
+血糖控制满意时各组的围产期死亡率和胎儿畸形发生
+率无显著差别,认为胎儿异常与血糖控制不良有
+关[17],而与药物无关。 Towner 等[18] 总结了 323 例 2
+型糖尿病孕妇用口服降糖药或胰岛素治疗的结果,也
+认为治疗方式与胎儿畸形无关,而血糖水平和孕妇年
+龄是主要因素。 因此,有可能是高血糖本身而不是口
+服降糖药物与胎儿畸形发生率增加相关。
+以往也发现格列本脲即使是在妊娠早期大剂量使
+用对胚胎也无致畸效应,这与格列本脲对胎盘的通透
+性较差有关[19]。 即使药物浓度达到治疗浓度的 100
+倍,胎儿脐血的药物浓度仍很小,不超过母体的 2% 。
+有研究证实格列本脲几乎不能通过胎盘,可能与其分
+子质量大、血浆蛋白结合率高(99. 8% )、半寿期较短
+(4 h)有关[20],另外胎盘还可能通过转运体将格列本
+脲主动泵回母体血液循环中[21]。 且降糖药物对新生
+儿低血糖发生率的影响也与药物对胎盘的通透性有
+关。
+本文比较了格列本脲与胰岛素治疗 GDM 的有效
+性及安全性。 共纳入 5 个 RCT。 发现格列本脲(单药
+或合用胰岛素)与单用胰岛素治疗在控制母体血糖方
+面具有类似的结果,且不增加不良围生期结局(如孕
+妇体重的变化、剖腹产率、母体低血糖发生率、新生儿
+出生体长、低血糖发生率、黄疸、监护病房入住率、先天
+畸形、死胎、死亡率)的发生,但格列本脲会引起新生
+儿出生体重增加,且巨大儿发生率较胰岛素显著升高。
+但格列本脲应用于 GDM 患者并不会导致胎儿低血糖
+发生率升高,且巨大儿发生率增高的病例其母体空腹
+血糖略微升高,有研究显示,GDM 合并空腹高血糖是
+发生巨大儿的危险因素[22]。 因此,对于这类患者要加
+强其对母体血糖的控制,胰岛素的联合使用,可以改善
+这一现象。
+因此,对于那些因各种原因(如部分胰岛素还不
+够普及或者价格过于昂贵)而不能或不愿使用胰岛素
+的患者,提高患者的依从性,最终使患者获得理想的血
+糖控制,并减少 GDM 并发的不良妊娠结局,格列本脲
+单药或联用胰岛素是 GDM 患者除胰岛素单药治疗外
+一种有效、安全的选择。
+本研究也有一定的局限性:所纳入的 5 篇文献格
+列本脲使用剂量略有不同,部分对随机方法、隐蔽分组
+方法介绍不详细,部分研究未采用盲法,且纳入研究较
+少、样本量小、质量不高,这些因素都影响了 meta 分析
+结果的可信度。 所以,需要更多科学和规范的高质量
+RCT 以获得更严谨客观的临床证据,以求进一步验证
+格列本脲治疗 GDM 的有效性及安全性。

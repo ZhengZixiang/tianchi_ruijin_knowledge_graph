@@ -1,0 +1,459 @@
+T1	Disease 5437 5443	1 型糖尿病
+T2	Disease 6141 6145;6146 6148	1 型糖 尿病
+T3	Drug 7765 7770	他汀类药物
+T4	Test 5967 5971	空腹血糖
+T5	Test 5854 5863	低密度脂蛋白胆固醇
+T6	Test 5845 5848	收缩压
+T7	Test 5835 5844	超敏 C 反应蛋白
+T8	Disease 236 242	动脉粥样硬化
+T9	Disease 1485 1491	动脉粥样硬化
+T10	Disease 1781 1787	动脉粥样硬化
+T11	Disease 1812 1818	动脉粥样硬化
+T12	Disease 3269 3275	动脉粥样硬化
+T13	Disease 3527 3533	动脉粥样硬化
+T14	Disease 3691 3697	动脉粥样硬化
+T15	Disease 3727 3733	动脉粥样硬化
+T16	Disease 3751 3757	动脉粥样硬化
+T17	Disease 3846 3848;3849 3853	动脉 粥样硬化
+T18	Disease 4098 4104	动脉粥样硬化
+T19	Disease 6510 6516	动脉粥样硬化
+T20	Disease 7339 7345	动脉粥样硬化
+T21	Anatomy 2508 2512	成骨细胞
+T22	Anatomy 3793 3797	成骨细胞
+T23	Anatomy 4028 4032	成骨细胞
+T24	Anatomy 4179 4183	成骨细胞
+T25	Anatomy 4976 4980	成骨细胞
+T26	Anatomy 4993 4997	成骨细胞
+T27	Anatomy 5070 5074	成骨细胞
+T28	Anatomy 5170 5174	成骨细胞
+T29	Anatomy 5264 5268	成骨细胞
+T30	Anatomy 5322 5326	成骨细胞
+T31	Anatomy 6637 6641	成骨细胞
+T32	Anatomy 7616 7620	成骨细胞
+T33	Anatomy 7784 7788	成骨细胞
+T34	Test 5825 5827	血钙
+T35	Test 5828 5830	血磷
+T36	Anatomy 299 309	Galectin-3
+T37	Anatomy 934 944	Galectin-3
+T38	Anatomy 3127 3137	Galectin-3
+T39	Anatomy 3885 3895	Galectin-3
+T40	Anatomy 4802 4812	Galectin-3
+T41	Anatomy 5033 5043	Galectin-3
+T42	Anatomy 5083 5093	Galectin-3
+T43	Anatomy 5155 5165	Galectin-3
+T44	Anatomy 5181 5191	Galectin-3
+T45	Anatomy 5299 5309	Galectin-3
+T46	Anatomy 8018 8028	Galectin-3
+T47	Disease 2369 2374;2375 2376	动脉粥样硬 化
+T48	Disease 2627 2632;2633 2634	动脉粥样硬 化
+T49	Test 7635 7641	低密度脂蛋白
+T50	Anatomy 2501 2506	VSMCs
+T51	Anatomy 3783 3788	VSMCs
+T52	Anatomy 4021 4026	VSMCs
+T53	Anatomy 4122 4127	VSMCs
+T54	Anatomy 4172 4177	VSMCs
+T55	Anatomy 4490 4495	VSMCs
+T56	Anatomy 4511 4516	VSMCs
+T57	Anatomy 4622 4627	VSMCs
+T58	Anatomy 4969 4974	VSMCs
+T59	Anatomy 5196 5201	VSMCs
+T60	Anatomy 5257 5262	VSMCs
+T61	Anatomy 5315 5320	VSMCs
+T62	Anatomy 6281 6286	VSMCs
+T63	Anatomy 6631 6636	VSMCs
+T64	Anatomy 7433 7438	VSMCs
+T65	Anatomy 7608 7613	VSMCs
+T66	Disease 1881 1886	心血管疾病
+T67	Disease 2686 2691	心血管疾病
+T68	Anatomy 294 298	RAGE
+T69	Anatomy 925 929	RAGE
+T70	Anatomy 3104 3108	RAGE
+T71	Anatomy 3182 3186	RAGE
+T72	Anatomy 3372 3383	内源性分泌型 RAGE
+T73	Anatomy 3461 3465	RAGE
+T74	Anatomy 3478 3482	RAGE
+T75	Anatomy 3495 3499	RAGE
+T76	Anatomy 3664 3668	RAGE
+T77	Anatomy 3878 3882	RAGE
+T78	Anatomy 4815 4819	RAGE
+T79	Anatomy 5292 5296	RAGE
+T80	Anatomy 6330 6334	RAGE
+T81	Anatomy 7320 7324	RAGE
+T82	Anatomy 7357 7361	RAGE
+T83	Anatomy 7406 7410	RAGE
+T84	Anatomy 7510 7514	RAGE
+T85	Anatomy 7687 7691	RAGE
+T86	Anatomy 8013 8017	RAGE
+T87	Disease 188 192	血管钙化
+T88	Disease 227 231	血管钙化
+T89	Disease 1470 1474	血管钙化
+T90	Disease 1581 1585	血管钙化
+T91	Disease 1742 1746	血管钙化
+T92	Disease 1750 1754	血管钙化
+T93	Disease 1772 1774;1775 1777	血管 钙化
+T94	Disease 2050 2054	血管钙化
+T95	Disease 2250 2254	血管钙化
+T96	Disease 2275 2279	血管钙化
+T97	Disease 2321 2325	血管钙化
+T98	Disease 2335 2339	血管钙化
+T99	Disease 2393 2397	血管钙化
+T100	Disease 2561 2565	血管钙化
+T101	Disease 2579 2583	血管钙化
+T102	Disease 3276 3280	血管钙化
+T103	Disease 3580 3584	血管钙化
+T104	Disease 3859 3863	血管钙化
+T105	Disease 4081 4085	血管钙化
+T106	Disease 4092 4093;4094 4097	血 管钙化
+T107	Disease 4318 4322	血管钙化
+T108	Disease 4838 4842	血管钙化
+T109	Disease 4886 4890	血管钙化
+T110	Disease 4929 4933	血管钙化
+T111	Disease 5360 5364	血管钙化
+T112	Disease 6103 6107	血管钙化
+T113	Disease 6287 6291	血管钙化
+T114	Disease 6690 6693;6694 6695	血管钙 化
+T115	Disease 6772 6776	血管钙化
+T116	Disease 6967 6971	血管钙化
+T117	Disease 7216 7220	血管钙化
+T118	Disease 7257 7260;7261 7262	血管钙 化
+T119	Disease 7281 7285	血管钙化
+T120	Disease 7346 7350	血管钙化
+T121	Disease 7556 7557;7558 7561	血 管钙化
+T122	Disease 7751 7755	血管钙化
+T123	Disease 7876 7880	血管钙化
+T124	Disease 7963 7967	血管钙化
+T125	Disease 8037 8041	血管钙化
+T126	Test 5864 5868	三酰甘油
+T127	Disease 2714 2717	冠心病
+T128	Test 5849 5851;5852 5853	舒张 压
+T129	Test 5919 5925	肾小球滤过率
+T130	Disease 2070 2075	视网膜病变
+T131	Disease 232 235	糖尿病
+T132	Disease 259 265	心脑血管疾病
+T133	Disease 311 314	微钙化
+T134	Disease 315 318	大钙化
+T135	Disease 1475 1478	糖尿病
+T136	Disease 1479 1484	慢性肾脏病
+T137	Disease 1507 1513	心脑血管疾病
+T138	Disease 1537 1540	微钙化
+T139	Disease 1541 1546	点灶状钙化
+T140	Symptom 1594 1597	高血糖
+T141	Reason 1647 1651	AGEs
+T142	Disease 1788 1791	糖尿病
+T143	Disease 1829 1835	冠状动脉钙化
+T144	Disease 2045 2048	糖尿病
+T145	Disease 2058 2061;2062 2065	冠状动 脉疾病
+T146	Disease 2066 2069	蛋白尿
+T147	Disease 2076 2078	截肢
+T148	Anatomy 2462 2465;2466 2470	血管平 滑肌细胞
+T149	Anatomy 2518 2522	软骨细胞
+T150	Disease 2663 2667	心力衰竭
+T151	Disease 2668 2673	主动脉夹层
+T152	Disease 2674 2680	急性心肌梗死
+T153	Anatomy 7772 7773;7774 7779	肌 成纤维细胞
+T154	Disease 7798 7801;7802 7805	主动脉 瓣钙化
+T155	Disease 7815 7822	主动脉脉瓣狭窄
+T156	Disease 7838 7845	急性冠脉综合证
+T157	Disease 7871 7875	冠脉疾病
+T158	Operation 7894 7903	经皮腔内血管成形术
+T159	Operation 7904 7906	支架
+T160	Operation 7910 7912;7913 7916	定向 旋切术
+T161	Operation 7927 7932	定向旋切术
+T162	Disease 7934 7940	外周血管疾病
+T163	Drug 7566 7572	钙通道阻滞剂
+T164	Drug 7573 7577	阿折地平
+T165	Drug 7583 7590;7591 7595	二氢吡啶类钙通 道阻滞剂
+T166	Drug 7627 7631	硝苯地平
+T167	Anatomy 7659 7663	内皮细胞
+T168	Disease 7693 7700	糖尿病血管病变
+T169	Drug 7705 7709	硝苯地平
+T170	Disease 7334 7337	糖尿病
+T171	Anatomy 7397 7400	HAS
+T172	Disease 7551 7555	动脉硬化
+T173	Anatomy 6962 6966	胎球蛋白
+T174	Anatomy 6975 6977;6978 6980	胎球 蛋白
+T175	Anatomy 6981 6989	Fetuin-A
+T176	Anatomy 7006 7009	动脉壁
+T177	Anatomy 7077 7080	髂动脉
+T178	Disease 7143 7148	主动脉钙化
+T179	Disease 7149 7154	心血管事件
+T180	Disease 6790 6793	糖尿病
+T181	Anatomy 6795 6798	主动脉
+T182	Anatomy 6803 6805;6806 6807	股动 脉
+T183	Anatomy 6808 6812	弹性蛋白
+T184	Anatomy 6813 6817	胶原蛋白
+T185	Anatomy 6840 6843;6844 6845	弹性蛋 白
+T186	Anatomy 6848 6852	弹性蛋白
+T187	Disease 6150 6160	冠状动脉或颈动脉疾病
+T188	Anatomy 5413 5415	皮肤
+T189	Disease 5445 5451	冠状动脉钙化
+T190	Disease 5479 5482	CAC
+T191	Disease 5502 5505	糖尿病
+T192	Disease 5506 5511	慢性肾脏病
+T193	Test 5524 5532	冠状动脉钙化积分
+T194	Test 5572 5576	CACS
+T195	Disease 5781 5784	糖尿病
+T196	Test 5806 5810	CACS
+T197	Test 5831 5834	白蛋白
+T198	Test 5874 5878	CACS
+T199	Test_Value 5878 5882	≥400
+T200	Disease 6004 6007	糖尿病
+T201	Test 6025 6029	CACS
+T202	Test_Value 6029 6033	≥400
+T203	Disease 6068 6073	慢性肾脏病
+T204	Disease 4934 4940	病理性骨重塑
+T205	Anatomy 4962 4965	CML
+T206	Anatomy 4987 4990	CML
+T207	Anatomy 4233 4237	内皮细胞
+T208	Anatomy 4243 4247	单核细胞
+T209	Anatomy 4252 4256	巨噬细胞
+T210	Anatomy 4262 4266	泡沫细胞
+T211	Test 4570 4575	碱性磷酸酶
+T212	Test_Value 4575 4578	高表达
+T213	Anatomy 4580 4584	炎症细胞
+T214	Anatomy 4743 4747	炎症细胞
+T215	Disease 3687 3690	糖尿病
+T216	Anatomy 4046 4049	血管壁
+T217	Anatomy 3047 3056	糖基化终末产物受体
+T218	Anatomy 3296 3306	可 溶 性 RAGE
+T219	Anatomy 3362 3367	sRAGE
+T220	Anatomy 3451 3457	esRAGE
+T221	Anatomy 3542 3547	sRAGE
+T222	Disease 270 272	死亡
+T223	Anatomy 281 288	糖基化终末产物
+T224	Disease 1517 1519	死亡
+T225	Disease 2202 2204	死亡
+T226	Disease 2298 2300	死亡
+T227	Anatomy 2361 2368	骨形成相关蛋白
+T228	Anatomy 2379 2383	基质小泡
+T229	Anatomy 2398 2399	骨
+T230	Reason 2440 2450	成骨诱导因子表达上调
+T231	Reason 2451 2461	成骨抑制因子表达缺失
+T232	Reason 2526 2528	炎症
+T233	Reason 2529 2533	氧化应激
+T234	Reason 2534 2540	钙磷平衡失调
+T235	Reason 2541 2542;2543 2556	骨 形成相关蛋白表达或功能异常
+T236	Anatomy 2585 2587	内膜
+T237	Anatomy 2590 2592	中膜
+T238	Anatomy 2595 2597	瓣膜
+T239	Anatomy 2615 2618	血管壁
+T240	Disease 2696 2698	死亡
+T241	Disease 2718 2720	中风
+T242	Disease 2721 2725	下肢截肢
+T243	Reason 2647 2654	血管内栓子形成
+T244	Reason 2655 2659	血管闭塞
+T245	Disease 7851 7853	死亡
+T246	Anatomy 7988 7995	糖基化终末产物
+T247	Anatomy 7521 7529	NF-κB 活性
+T248	Anatomy 7313 7317	AGEs
+T249	Test 7423 7428	NF-κB
+T250	Anatomy 7010 7014	AGEs
+T251	Treatment 7071 7073	透析
+T252	Reason 7089 7094	中层微钙化
+T253	Disease 7155 7157	死亡
+T254	Anatomy 6751 6760	AGEs 及其受体
+T255	Anatomy 6762 6766	弹性蛋白
+T256	Anatomy 6767 6771	胶原蛋白
+T257	Anatomy 6832 6836	AGEs
+T258	Anatomy 6862 6866	AGEs
+T259	Anatomy 6871 6874;6875 6877	细胞外 基质
+T260	Anatomy 6884 6888	AGEs
+T261	Anatomy 6892 6896	胶原蛋白
+T262	Reason 6928 6930	炎症
+T263	Anatomy 6111 6115	AGEs
+T264	Reason 6121 6123	炎症
+T265	Level 6119 6121	低度
+T266	Reason 6124 6130	内皮功能紊乱
+T267	Anatomy 6180 6184	AGEs
+T268	Reason 6199 6201	炎症
+T269	Level 6197 6199	低度
+T270	Reason 6202 6208	内皮功能紊乱
+T271	Disease 6226 6228	炎症
+T272	Level 6224 6226	低度
+T273	Disease 6229 6235	内皮功能紊乱
+T274	Anatomy 6243 6247	AGEs
+T275	Anatomy 6269 6273	AGEs
+T276	Anatomy 6305 6309	AGEs
+T277	Reason 6294 6298	氧化应激
+T278	Anatomy 6337 6341	AGEs
+T279	Anatomy 6412 6422	丝裂原活化的蛋白激酶
+T280	Anatomy 6423 6427	MAPK
+T281	Anatomy 6430 6435	NF-κB
+T282	Anatomy 6453 6463	血管细胞黏附分子 1
+T283	Anatomy 6464 6469;6470 6474	细胞间黏附 分子 1
+T284	Anatomy 6475 6487	纤溶酶原激活物抑制剂 1
+T285	Anatomy 6489 6499	单核细胞趋化蛋白 1
+T286	Anatomy 6604 6612	ERK1 / 2
+T287	Anatomy 6614 6621	p38MAPK
+T288	Anatomy 6624 6628	JAK2
+T289	Reason 6709 6713	氧化应激
+T290	Anatomy 5342 5351	AGEs 及其受体
+T291	Anatomy 5375 5377	皮肤
+T292	Anatomy 5384 5386	皮肤
+T293	Test 5377 5383	自体荧光强弱
+T294	Test 5387 5396	AGEs 残留水平
+T295	Test 5416 5420	AGEs
+T296	Anatomy 5580 5582	皮肤
+T297	Test 5582 5586	自体荧光
+T298	Test 5594 5598	CACS
+T299	Test 5607 5611	CACS
+T300	Test_Value 5598 5604	1 ~ 99
+T301	Test_Value 5611 5620	100 ~ 399
+T302	Test 5624 5628	CACS
+T303	Test_Value 5628 5632	≥400
+T304	Test 5931 5937	甲状旁腺激素
+T305	Anatomy 6059 6063	AGEs
+T306	Anatomy 4880 4881	骨
+T307	Anatomy 4882 4883	骨
+T308	Anatomy 4896 4897	骨
+T309	Anatomy 4899 4900	骨
+T310	Anatomy 4906 4907	骨
+T311	Anatomy 5046 5051	Runx2
+T312	Anatomy 5058 5063	Runx2
+T313	Anatomy 5097 5117	Wnt / β-catenin 信号通路
+T314	Anatomy 5129 5131	软骨
+T315	Anatomy 5133 5134	骨
+T316	Test_Value 5145 5147	上调
+T317	Test_Value 5216 5218	上调
+T318	Test_Value 5223 5225	上调
+T319	Anatomy 5241 5250	β-catenin
+T320	Anatomy 4067 4076	AGEs 及其受体
+T321	Disease 4078 4080	炎症
+T322	Disease 4089 4091	炎症
+T323	Disease 4112 4114	炎症
+T324	Anatomy 4116 4120	巨噬细胞
+T325	Disease 4152 4154	炎症
+T326	Test 4159 4166	组织成核复合物
+T327	Test 4208 4216	肿瘤坏死因子 α
+T328	Test 4217 4222	TNF-α
+T329	Anatomy 4279 4303;4304 4307	Msx2 / Wnt / β-catenin 信 号通路
+T330	Anatomy 4355 4359	炎症细胞
+T331	Test_Value 4436 4439	高表达
+T332	Reason 4615 4616;4617 4618	炎 症
+T333	Anatomy 4635 4636	骨
+T334	Test 4639 4643	基质小泡
+T335	Reason 4684 4686	炎症
+T336	Reason 4708 4711	微钙化
+T337	Reason 4781 4784	大钙化
+T338	Reason 4823 4826	大钙化
+T339	Reason 4827 4830	微钙化
+T340	Reason 4843 4845	炎症
+T341	Anatomy 3597 3601	AGEs
+T342	Anatomy 3625 3629	AGEs
+T343	Anatomy 3657 3661	AGEs
+T344	Anatomy 3744 3748	AGEs
+T345	Anatomy 3772 3776	AGEs
+T346	Anatomy 3800 3805	细胞外基质
+T347	Anatomy 3819 3823	内皮细胞
+T348	Anatomy 3839 3843	AGEs
+T349	Anatomy 3900 3920	Wnt / β-catenin 信号通路
+T350	Anatomy 3928 3932	AGEs
+T351	Anatomy 3934 3942	脂质过氧化终产物
+T352	Anatomy 3980 3984	ALEs
+T353	Disease 3990 3992	炎症
+T354	Anatomy 3995 3997	血管
+T355	Anatomy 3998 3999	骨
+T356	Anatomy 2760 2767	糖基化终末产物
+T357	Anatomy 2774 2778	AGEs
+T358	Anatomy 2794 2802	内源性 AGEs
+T359	Anatomy 2864 2868	AGEs
+T360	Anatomy 2875 2879	AGEs
+T361	Anatomy 2922 2923;2924 2929	羧 甲基赖氨酸
+T362	Anatomy 2951 2954	CML
+T363	Anatomy 2956 2962	羧乙基赖氨酸
+T364	Anatomy 2963 2966;2967 2970	羧甲基 缬氨酸
+T365	Anatomy 2971 2977	羧甲基鸟嘌呤
+T366	Anatomy 2978 2982	四氢嘧啶
+T367	Anatomy 2983 2987	精氨嘧啶
+T368	Anatomy 2988 2992	戊糖苷素
+T369	Anatomy 2993 2995;2996 2997	交联 素
+T370	Anatomy 2998 3007	3-脱氧葡萄糖酮酸
+T371	Anatomy 3013 3023	糖基化终末产物的受体
+T372	Anatomy 3029 3036;3037 3043	糖基化终末产物 的特异性受体
+T373	Anatomy 3112 3125	半 乳 糖 凝 集 素-3
+T374	Anatomy 3139 3149	巨噬细胞表面清道夫玉
+T375	Anatomy 3150 3154	2型受体
+T376	Anatomy 3173 3177	CD36
+T377	Reason 3260 3266	内皮功能紊乱
+T378	Reason 3510 3512	炎症
+T379	Anatomy 3059 3072;3073 3102	receptors for advanced glycation endproduct
+T380	Test 5535 5550;5551 5570	Coronary Artery Calcification Score
+T381	Anatomy 6365 6369	活性氧簇
+T382	Anatomy 6395 6398	ROS
+T383	Anatomy 6666 6669	ROS
+T384	Anatomy 4457 4467	Galectin-3
+T385	Anatomy 4499 4509	Galectin-3
+T386	Anatomy 4442 4447	VSMCs
+T387	Anatomy 4478 4483	VSMCs
+T388	Anatomy 4556 4561	α-SMA
+T389	Anatomy 3202 3206	RAGE
+T390	Anatomy 3222 3226	RAGE
+T391	Anatomy 4362 4366	RAGE
+T392	Anatomy 4594 4598	RAGE
+T393	Anatomy 5209 5213	RAGE
+T394	Anatomy 5226 5230	RAGE
+T395	Anatomy 7669 7673	RAGE
+T396	Reason 3722 3726	血管钙化
+T397	Reason 6077 6078;6079 6082	血 管钙化
+T398	Anatomy 1605 1607;1608 1613	糖基 化终末产物
+T399	Disease 2084 2087	糖尿病
+T400	Level 2347 2350	终末期
+T401	Disease 2350 2354	血管疾病
+T402	Reason 2462 2465;2466 2513;2514 2525	血管平 滑肌细胞(vascular smooth muscle cells, VSMCs)向成骨细胞转 分化或向软骨细胞转分化
+T403	Anatomy 7601 7605	Msx2
+T404	Disease 7726 7729	糖尿病
+T405	Disease 7729 7735	动脉中膜钙化
+T406	Disease 7715 7716;7717 7725	糖 尿病动脉粥样硬化
+T407	Anatomy 7364 7368;7369 7375	CML- 人血清白蛋白
+T408	Anatomy 7445 7453;7454 7455	caspase- 9
+T409	Anatomy 7456 7461	Bcl-2
+T410	Anatomy 7497 7500	CML
+T411	Anatomy 7501 7504	HAS
+T412	Anatomy 7303 7308	sRAGE
+T413	Anatomy 7028 7036	Fetuin-A
+T414	Anatomy 7040 7044	动脉中层
+T415	Anatomy 7096 7104	Fetuin-A
+T416	Anatomy 7130 7138	Fetuin-A
+T417	Disease 7172 7177	慢性肾脏病
+T418	Anatomy 7180 7188	Fetuin-A
+T419	Anatomy 7192 7194	血管
+T420	Anatomy 7196 7200	心脏瓣膜
+T421	Reason 6785 6789	中膜钙化
+T422	Disease 6187 6190	CAC
+T423	Disease 6250 6253	CAC
+T424	Disease 6312 6315	CAC
+T425	Anatomy 6542 6545	ROS
+T426	Anatomy 6554 6559	VSMCs
+T427	Anatomy 6563 6570	S100A12
+T428	Anatomy 6579 6582	ROS
+T429	Anatomy 6588 6603	细胞外信号调节激酶 1 / 2
+T430	Anatomy 6729 6734	VSMCs
+T431	Anatomy 6715 6719	成骨细胞
+T432	Anatomy 5514 5517	皮 肤
+T433	Test 5517 5523	自体荧光强弱
+T434	Anatomy 5640 5642	皮肤
+T435	Test 5642 5648	自体荧光强弱
+T436	Disease 5787 5792	慢性肾脏病
+T437	Level 5793 5796	5 期
+T438	Anatomy 5798 5800	皮肤
+T439	Test 5800 5804	自体荧光
+T440	Anatomy 5890 5892	皮肤
+T441	Test 5892 5898	自体荧光强弱
+T442	Anatomy 6015 6017	皮肤
+T443	Test 6017 6023	自体荧光强弱
+T444	Disease 6074 6077	糖尿病
+T445	Anatomy 5139 5143	破骨细胞
+T446	Anatomy 4367 4370	CML
+T447	Anatomy 4373 4391	S100 钙 结 合 蛋 白 A12
+T448	Anatomy 4428 4435	S100A12
+T449	Anatomy 4521 4530	α 平滑肌肌动蛋白
+T450	Anatomy 3155 3161;3162 3169	氧化型低密度 脂蛋白受体-1
+T451	Anatomy 1689 1693	AGEs
+T452	Anatomy 2745 2752	糖基化终末产物
+T453	Anatomy 7236 7240	AGEs
+T454	Anatomy 6951 6955	AGEs
+T455	Anatomy 6087 6091	AGEs
+T456	Anatomy 4868 4872	AGEs
+T457	Anatomy 3566 3573	糖基化终末产物
+T458	Anatomy 176 183	糖基化终末产物
+T459	Anatomy 4563 4570	成骨分化标志物

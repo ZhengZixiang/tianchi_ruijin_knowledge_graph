@@ -1,0 +1,435 @@
+T1	Test 2736 2741	HBA1C
+T2	Drug 1741 1745	格列齐特
+T3	Drug 1746 1750	二甲双胍
+T4	Test 1710 1714	空腹血糖
+T5	Test 1811 1815	空腹血糖
+T6	Disease 173 183	线粒体基因突变糖尿病
+T7	Disease 197 202	单基因病变
+T8	Disease 223 226	糖尿病
+T9	Disease 314 315;316 321	线 粒体心肌病
+T10	Symptom 1697 1699	多尿
+T11	Symptom 1700 1702	口干
+T12	Symptom 1703 1705	多饮
+T13	Symptom 1706 1708	多食
+T14	Disease 1731 1734	糖尿病
+T15	Test 1759 1761	血糖
+T16	Test 1770 1772	血糖
+T17	Amount 1789 1793	18 U
+T18	Drug 1778 1784	诺和锐 30
+T19	Amount 1799 1803	16 U
+T20	Symptom 1846 1852	听力逐渐减退
+T21	Symptom 1856 1860	四肢浮肿
+T22	Symptom 1862 1864	干咳
+T23	Symptom 1877 1879	胸闷
+T24	Symptom 1880 1882	气喘
+T25	Symptom 1886 1895	夜间阵发性呼吸困难
+T26	Symptom 1906 1908	胸闷
+T27	Symptom 1909 1911	气喘
+T28	Symptom 1912 1917	双下肢浮肿
+T29	Test 1946 1949	白蛋白
+T30	Test 1959 1962	尿蛋白
+T31	Test 1966 1968	心超
+T32	Test 2552 2561	高密度脂蛋白胆固醇
+T33	Test 2577 2586	低密度脂蛋白胆固醇
+T34	Test 2749 2754	糖化白蛋白
+T35	Test 2532 2536	甘油三酯
+T36	Disease 1995 1999;2000 2001	肺动脉高 压
+T37	Disease 2029 2031;2032 2034	心包 积液
+T38	Test 2036 2044	胸部 CT 平扫
+T39	Disease 2101 2104	糖尿病
+T40	Disease 2119 2122	高血压
+T41	Disease 2123 2124;2125 2127	冠 心病
+T42	Disease 2128 2133	脑血管疾病
+T43	Test_Value 2742 2747	9. 8%
+T44	Test_Value 2755 2761	14. 3%
+T45	Test 2807 2813	血清 C 肽
+T46	Test 3027 3035	胸部 CT 平扫
+T47	Test 3155 3158;3159 3164	心脏增 强 MRI
+T48	Test 3234 3248	电测听、声阻抗、耳声发射检查
+T49	Disease 3253 3254;3255 3261	双 耳神经性耳聋
+T50	Test 3263 3272	头颅 MRI 平扫
+T51	Disease 3287 3297	线粒体基因突变糖尿病
+T52	Test 3353 3362	线粒体基因突变筛查
+T53	Test 3391 3398	尿沉渣细胞检测
+T54	Disease 3460 3470	线粒体基因突变糖尿病
+T55	Disease 3512 3515	糖尿病
+T56	Disease 3574 3576;3577 3578	糖尿 病
+T57	Disease 3590 3595	神经性耳聋
+T58	Disease 3596 3604	中枢神经系统病变
+T59	Disease 3606 3610	骨骼肌病
+T60	Disease 3613 3620	视网膜色素变性
+T61	Anatomy 3776 3780	中枢神经
+T62	Anatomy 3781 3782;3783 3785	视 网膜
+T63	Anatomy 3786 3788	心肌
+T64	Anatomy 3789 3792	骨骼肌
+T65	Anatomy 3793 3794	肾
+T66	Anatomy 3795 3797	胰岛
+T67	Anatomy 3830 3832	心脏
+T68	Disease 3849 3858	线粒体基因突变疾病
+T69	Disease 3865 3875	线粒体 DNA 突变
+T70	Symptom 3907 3915	母系遗传的心肌病
+T71	Disease 3918 3920;3921 3925	线粒 体心肌病
+T72	Disease 3927 3933	线粒体心肌病
+T73	Disease 3985 3991	肥厚型心肌病
+T74	Disease 4002 4007	肥厚性重塑
+T75	Disease 4114 4117	心肌病
+T76	Disease 4199 4209	线粒体 DNA 突变
+T77	Anatomy 4284 4286	心肌
+T78	Anatomy 4313 4317	心肌组织
+T79	Disease 4363 4368	左心室肥厚
+T80	Disease 4371 4377	线粒体心肌病
+T81	Disease 4419 4425	扩张型心肌病
+T82	Anatomy 4462 4465	线粒体
+T83	Disease 4527 4532;4533 4536	心脏收缩功 能障碍
+T84	Anatomy 4542 4550	线粒体 tRNA
+T85	Disease 4584 4588	心肌扩张
+T86	Disease 4590 4594;4595 4596	心功能不 全
+T87	Disease 4604 4610	缩窄性心肌病
+T88	Disease 4649 4655	线粒体心肌病
+T89	Symptom 4661 4666;4667 4668	传导系统异 常
+T90	Symptom 4687 4691	传导阻滞
+T91	Disease 4692 4695;4696 4708	线粒体 A3243G 突变心肌病
+T92	Disease 4803 4807	心室预激
+T93	Disease 4808 4815	快速性心律失常
+T94	Disease 4828 4838	室性和室上性心动过速
+T95	Disease 4937 4941	心室预激
+T96	Symptom 4981 4983	胸闷
+T97	Symptom 4984 4986	气喘
+T98	Disease 4987 4991	心力衰竭
+T99	Level 5007 5009	严重
+T100	Disease 5010 5015	心功能不全
+T101	Disease 5057 5060	糖尿病
+T102	Test 5078 5079;5080 5087	胰 岛自身抗体检测
+T103	Disease 5107 5108;5109 5113	神 经性耳聋
+T104	Disease 5127 5136;5137 5138	线粒体基因突变糖尿 病
+T105	Disease 5139 5142	心肌病
+T106	Test 5151 5165	线粒体 A3243G 点突变
+T107	Test 5177 5191	线粒体 A3243G 点突变
+T108	Disease 5214 5242;5243 5245	线粒体 tRNA Leu(UUR) A3243G 突变糖 尿病
+T109	Disease 5246 5252	线粒体心肌病
+T110	Disease 5275 5278;5279 5286	线粒体 基因突变糖尿病
+T111	Disease 5294 5297	糖尿病
+T112	Test 5340 5344	体质指数
+T113	Disease 5357 5360	糖尿病
+T114	Disease 5367 5372	神经性耳聋
+T115	Disease 5373 5376	糖尿病
+T116	Disease 5395 5396;5397 5399	心 肌病
+T117	Disease 5400 5407	视网膜色素变性
+T118	Disease 5409 5419	乳酸性酸中毒的糖尿病
+T119	Test 5447 5471	tRNALeu(UUR) A3243G 突变检测
+T120	Test 5496 5505;5506 5509	线粒体 DNA 突 变检查
+T121	Test 5561 5570	A3243G 突变
+T122	Disease 5608 5621	线粒体 A3243G 突变
+T123	Anatomy 5654 5657	骨骼肌
+T124	Anatomy 5670 5674;5675 5678	口腔颊粘 膜细胞
+T125	Anatomy 5690 5695	尿沉渣细胞
+T126	Test 5812 5818	DNA 测序
+T127	Disease 5976 5982	线粒体心肌病
+T128	Disease 6039 6044;6045 6046	线粒体心肌 病
+T129	Disease 6047 6053	肥厚型心肌病
+T130	Disease 6079 6097	Anderson-Fabry 综合征
+T131	Disease 6098 6103	糖原累积病
+T132	Disease 6109 6110;6111 6116	线 粒体心肌病
+T133	Disease 6120 6127	左室流出道梗阻
+T134	Disease 6130 6136	肥厚型心肌病
+T135	Test 6165 6170;6171 6172	检测突变基 因
+T136	Disease 6188 6198	线粒体 DNA 突变
+T137	Test 6204 6208	心肌活检
+T138	Test 6221 6226	组织学检查
+T139	Test 6287 6292	骨骼肌活检
+T140	Test 6335 6343	心肌增强 MRI
+T141	Test 6345 6348;6349 6351	超声心 动图
+T142	Disease 6369 6375	线粒体心肌病
+T143	Disease 6377 6383	肥厚型心肌病
+T144	Drug 6412 6415	胰岛素
+T145	Disease 6469 6473	乳酸堆积
+T146	Disease 6479 6485	乳酸性酸中毒
+T147	Drug 6509 6515	磺脲类降糖药
+T148	Drug 6523 6528	双胍类药物
+T149	Disease 6540 6546	线粒体心肌病
+T150	Disease 6560 6563	心肌病
+T151	Disease 6584 6589	左心室肥厚
+T152	Disease 6590 6591;6592 6595	收 缩障碍
+T153	Disease 6597 6603	肥厚型心肌病
+T154	Drug 6606 6618	非二氢吡啶类钙通道阻滞剂
+T155	Test 6758 6760	血糖
+T156	Drug 6832 6837	拜阿司匹林
+T157	Drug 6877 6884	倍他乐克缓释片
+T158	Test 6941 6945	肌酸激酶
+T159	Test 6921 6927	proBNP
+T160	Test_Value 6928 6940	2 258 ng / L
+T161	Test_Value 6946 6948;6949 6954	41 U / L
+T162	Test 6955 6960	乳酸脱氢酶
+T163	Test_Value 6961 6970	197 U / L
+T164	Disease 7005 7015	线粒体基因突变糖尿病
+T165	Disease 7076 7080;7081 7084	终末期心 室扩张
+T166	Disease 7100 7106	线粒体心肌病
+T167	Test_Value 3131 3153	左心室心肌下后壁在短轴断面显像放射性分布稀疏
+T168	Test 3538 3548;3549 3550	胰岛 β 细胞分泌功 能
+T169	Test_Value 3567 3569	阴性
+T170	Disease 334 337	糖尿病
+T171	Disease 339 345	线粒体心肌病
+T172	Treatment 2059 2061	降糖
+T173	Treatment 2062 2064	利尿
+T174	Test 2434 2437	血常规
+T175	Test 3110 3118	胸部 CT 平扫
+T176	Test 3122 3125	MRI
+T177	Disease 3622 3629	线粒体基因突变
+T178	Disease 4132 4133;4134 4139	能 量代谢异常
+T179	Reason 4164 4173	线粒体基因结构异常
+T180	Disease 4176 4182	能量代谢障碍
+T181	Test 4288 4291	ATP
+T182	Reason 4321 4334	退行性改变或代偿性肥厚增生
+T183	Anatomy 4466 4468	心肌
+T184	Disease 4644 4648	心肌病变
+T185	Disease 4849 4851;4852 4854	心肌 病变
+T186	Disease 4951 4955	心肌病变
+T187	Test 5016 5020;5021 5022	影像学检 查
+T188	Test 5002 5005	实验室
+T189	Test 5587 5591	基因突变
+T190	Disease 6071 6072;6073 6077	单 基因疾病
+T191	Disease 6353 6358	取心肌病变
+T192	Treatment 6422 6428	严格限制饮食
+T193	Disease 6433 6437	营养不良
+T194	Reason 6457 6464	葡萄糖氧化不足
+T195	Drug 6637 6643	代谢调节药物
+T196	Method 6763 6765	餐前
+T197	Treatment 6810 6813;6814 6815	利尿消 肿
+T198	Treatment 6825 6831	抗血小板聚集
+T199	Treatment 6839 6841	调脂
+T200	Treatment 6848 6850	保肾
+T201	Treatment 6886 6892	改善能量代谢
+T202	Disease 7045 7049	心肌病变
+T203	Disease 7115 7118	心肌病
+T204	Duration 1640 1644	12 年
+T205	Test_Value 1714 1725	>7 mmol / L
+T206	Test_Value 1819 1835	10 ~ 12 mmol / L
+T207	Test 2509 2511	血脂
+T208	Test_Value 2640 2647	5 ~ 125
+T209	Test_Value 2803 2805	阴性
+T210	Test 3013 3019	心肌灌注显像
+T211	Test_Value 3325 3327	阳性
+T212	Test_Value 3415 3417	阳性
+T213	Test_Value 3430 3431;3432 3433	阴 性
+T214	Reason 3640 3662;3663 3665	基因内突变发生部位及突变性质如点突变、缺失、 重排
+T215	Reason 3686 3695;3696 3697	细胞线粒体的杂胞质 性
+T216	Reason 3745 3752;3753 3758	组织对能量代谢 的依赖程度
+T217	Anatomy 4240 4244	tRNA
+T218	Disease 4434 4439	肥厚型重塑
+T219	Anatomy 4510 4517	氧化磷酸化系统
+T220	Anatomy 4558 4561	ATP
+T221	Reason 4786 4792;4793 4796	对突变的敏感 性差异
+T222	Test_Value 5087 5089	阴性
+T223	Disease 5097 5100	糖尿病
+T224	Test_Value 5166 5168	阳性
+T225	Test_Value 5193 5195	阳性
+T226	Test_Value 5329 5336	明显进行性减低
+T227	Test_Value 5344 5345	低
+T228	Test_Value 5354 5356	阴性
+T229	Test_Value 5474 5475;5476 5477	阴 性
+T230	Test_Value 5546 5548	阴性
+T231	Test_Value 5570 5572	阳性
+T232	Anatomy 5598 5600;5601 5605	周围 血白细胞
+T233	Test_Value 5737 5739	阴性
+T234	Test 5857 5863	变性高效液相
+T235	Test 5871 5874;5875 5879	焦磷酸 测序技术
+T236	Test 5903 5905;5906 5908	磷酸 测序
+T237	Method 6507 6509	口服
+T238	Drug 6658 6664	辅酶 Q10
+T239	Drug 6672 6675	维生素
+T240	Test_Value 6770 6784	6 ~ 8 mmol / L
+T241	Test_Value 6788 6803	8 ~ 10 mmol / L
+T242	Test_Value 2969 2977	ST 段水平压低
+T243	Test_Value 2997 3002	T 波倒置
+T244	Test_Value 3272 3278	未见明显异常
+T245	Symptom 97 101	心力衰竭
+T246	Disease 107 117	线粒体基因突变糖尿病
+T247	Reason 185 195	线粒体 DNA 突变
+T248	Anatomy 205 209	β 细胞
+T249	Symptom 233 241	中枢神经系统表现
+T250	Symptom 242 247	骨骼肌表现
+T251	Symptom 248 251	心肌病
+T252	Symptom 252 259	视网膜色素变性
+T253	Symptom 260 265	神经性耳聋
+T254	Symptom 280 284	心力衰竭
+T255	Disease 290 300	线粒体基因突变糖尿病
+T256	Symptom 1628 1633	“反复口干
+T257	Symptom 1634 1636	多饮
+T258	Symptom 1637 1639	多尿
+T259	Symptom 1645 1649;1650 1651	双下肢浮 肿
+T260	Duration 1652 1656	1 年余
+T261	Method 1785 1788	早餐前
+T262	Method 1794 1795;1796 1798	晚 餐前
+T263	Method 1804 1808	皮下注射
+T264	Test_Value 1950 1958	28 g / L
+T265	Test_Value 1969 1970;1971 1974	左 心扩大
+T266	Test_Value 1975 1979	室壁增厚
+T267	Test_Value 1980 1994	二、三尖瓣及主动脉瓣少量返流
+T268	Anatomy 3495 3499	β 细胞
+T269	Anatomy 5064 5071	胰岛 β 细胞
+T270	Test 5318 5329	胰岛 β 细胞分泌功能
+T271	Test 2961 2964	心电图
+T272	Test_Value 2002 2014	左心室收缩及舒张功能降低
+T273	Test_Value 2015 2026	左心室射血分数 44%
+T274	Treatment 2066 2071	补充白蛋白
+T275	Test 2151 2154	体 温
+T276	Test_Value 2155 2161	36. 5℃
+T277	Test 2163 2166	血 压
+T278	Test_Value 2167 2180	120 / 80 mmHg
+T279	Test 2201 2203	心率
+T280	Test_Value 2204 2214	76 次 / min
+T281	Test 2215 2217	呼吸
+T282	Test_Value 2218 2228	18 次 / min
+T283	Test_Value 2442 2454	6. 1×109 / L
+T284	Test 2438 2441	白细胞
+T285	Test 2455 2458	红细胞
+T286	Test_Value 2459 2472	3. 60×109 / L
+T287	Test 2474 2478	血红蛋白
+T288	Test_Value 2479 2487	99 g / L
+T289	Test 2489 2499	24 h 尿蛋白定量
+T290	Test_Value 2500 2507	1. 92 g
+T291	Test_Value 2517 2531	6. 31 mmol / L
+T292	Test 2512 2516	总胆固醇
+T293	Test_Value 2537 2551	0. 91 mmol / L
+T294	Test_Value 2562 2576	1. 46 mmol / L
+T295	Test_Value 2587 2601	4. 14 mmol / L
+T296	Test 2603 2609;2610 2612	B 型钠尿肽 前体
+T297	Test_Value 2620 2632	4 665 ng / L
+T298	Test 2652 2654;2655 2657	肌酸 激酶
+T299	Test_Value 2658 2667	206 U / L
+T300	Test_Value 2668 2676	21 ~ 190
+T301	Test 2678 2683	乳酸脱氢酶
+T302	Test_Value 2684 2693	282 U / L
+T303	Test_Value 2694 2703	114 ~ 240
+T304	Test 2705 2707;2708 2714	α- 羟丁酸脱氢酶
+T305	Test_Value 2715 2724	246 U / L
+T306	Test_Value 2725 2733	72 ~ 182
+T307	Test 2763 2773	谷氨酸脱羧酶自身抗体
+T308	Test 2782 2790;2791 2793	蛋白酪氨酸磷酸酶 抗体
+T309	Test_Value 2820 2833	0. 93 ng / ml
+T310	Test_Value 2856 2869	0. 52 ng / ml
+T311	Test_Value 2878 2891	0. 80 ng / ml
+T312	Test 2899 2904	胸部 CT
+T313	Test 3308 3324	线粒体基因 A3243G 点突变
+T314	Test 3372 3388	线粒体基因 A3243G 点突变
+T315	Anatomy 3398 3399;3400 3411	线 粒体基因 A3243G
+T316	Reason 3472 3482	线粒体 DNA 突变
+T317	Anatomy 3492 3494	胰岛
+T318	Symptom 3525 3537	非肥胖糖尿病患者起病较早
+T319	Test 3558 3565	胰岛自身抗体检
+T320	Test 3759 3764	三磷酸腺苷
+T321	Anatomy 3798 3802	耳蜗细胞
+T322	Symptom 3893 3901	心肌能量代谢异常
+T323	Anatomy 3942 3944	心脏
+T324	Symptom 3956 3960	心肌重塑
+T325	Symptom 3961 3967	传导系统异常
+T326	Symptom 3971 3975	心肌病变
+T327	Anatomy 4039 4042;4043 4049	线粒体 A3243G
+T328	Symptom 4055 4060	左心室肥厚
+T329	Anatomy 4065 4068	骨骼肌
+T330	Test 4075 4082	左心室重量指数
+T331	Anatomy 4140 4144	心肌细胞
+T332	Anatomy 4214 4218	tRNA
+T333	Anatomy 4226 4230	tRNA
+T334	Disease 4344 4346;4347 4349	心肌 肥厚
+T335	Disease 4352 4357	心功能不全
+T336	Symptom 4389 4398	进行性收缩功能障碍
+T337	Symptom 4399 4403	心室扩张
+T338	Symptom 4405 4406;4407 4410	心 力衰竭
+T339	Disease 4445 4450	左心室肥厚
+T340	Reason 4476 4487	线粒体 tRNA 突变
+T341	Anatomy 4490 4497	氧化磷酸化系统
+T342	Anatomy 4501 4503	心肌
+T343	Reason 4624 4625;4626 4633	持 续性的心肌扩张
+T344	Reason 4634 4639	收缩功能障
+T345	Symptom 4673 4677	传导阻滞
+T346	Symptom 4678 4685	缓慢性心律失常
+T347	Anatomy 4732 4735	线粒体
+T348	Symptom 4748 4757	房室或室间传导阻滞
+T349	Reason 4774 4785	不同心肌细胞间突变比例
+T350	Reason 4817 4823;4824 4825	线粒体基因突 变
+T351	Symptom 4874 4881;4882 4883	QT 间期的延 长
+T352	Disease 4920 4933	线粒体 A3243G 突变
+T353	Symptom 5028 5032	心包积液
+T354	Symptom 5033 5041	心脏收缩功能降低
+T355	Symptom 5042 5046	大量胸水
+T356	Test 5346 5352	胰岛自身抗体
+T357	Anatomy 5382 5388	中枢神经系统
+T358	Anatomy 5389 5392	骨骼肌
+T359	Test 5524 5540;5541 5546	外周血白细胞线粒体 A3243G 点突变检测
+T360	Anatomy 5552 5557	尿沉渣细胞
+T361	Anatomy 5622 5628	周围血白细胞
+T362	Anatomy 5749 5753	口腔粘膜
+T363	Anatomy 5754 5759	尿沉渣细胞
+T364	Test 5764 5768	肌肉活检
+T365	Test 5727 5735	周围血白细胞突变
+T366	Test 5780 5807;5808 5810	制性片段长度多态性聚合酶链反应(PCR / RFLP) 技术
+T367	Disease 5997 6001	心肌重塑
+T368	Disease 6002 6005	纤维化
+T369	Symptom 6057 6063	肥厚型心肌病
+T370	Symptom 6142 6146	心室扩张
+T371	Symptom 6147 6151	心力衰竭
+T372	Disease 6394 6404	线粒体突变所致糖尿病
+T373	Reason 6443 6447;6448 6456	肌肉细胞 ATP 合成减少
+T374	Drug 6620 6626	β-受体阻滞
+T375	Treatment 6714 6720	植入式除颤器
+T376	Treatment 6721 6724	起搏器
+T377	Drug 6747 6751	胰岛素泵
+T378	Test 6755 6757	血糖
+T379	Drug 6819 6823	安体舒通
+T380	Drug 6841 6844;6845 6847	(立普 妥)
+T381	Drug 6851 6856	肾炎康复片
+T382	Treatment 6858 6863	减少尿蛋白
+T383	Drug 6864 6867	科素亚
+T384	Treatment 6869 6875	降低心肌氧耗
+T385	Drug 6893 6899	辅酶 Q10
+T386	Test 6971 6979	α 羟丁酸脱氢酶
+T387	Test_Value 6980 6989	168 U / L
+T388	Symptom 7018 7022	心力衰竭
+T389	Disease 7031 7036	线粒体疾病
+T390	Symptom 7052 7053;7054 7060	肥 厚型心肌病变
+T391	Disease 7069 7075	收缩功能障碍
+T392	Disease 7085 7089	心力衰竭
+T393	Test 5850 5856	实时 PCR
+T394	Symptom 2230 2232;2233 2239	两侧 呼吸运动对称
+T395	Symptom 2240 2246	触觉语颤正常
+T396	Symptom 2247 2253	无胸膜摩擦感
+T397	Symptom 2255 2261;2262 2265	两侧中下肺叩 诊浊音
+T398	Symptom 2267 2277	两侧中下肺呼吸音消失
+T399	Symptom 2278 2287	双肺未闻及干湿罗音
+T400	Symptom 2289 2291;2292 2298	心前 区无异常隆起
+T401	Symptom 2299 2325	心尖搏动位于左第 5 肋间锁骨中线外 0. 5 cm
+T402	Test 2327 2333	心尖搏动范围
+T403	Test_Value 2334 2345	2 ~ 2. 5 cm
+T404	Symptom 2347 2353	心前区无震颤
+T405	Symptom 2354 2358	无抬举感
+T406	Symptom 2360 2363;2364 2371	叩诊心 浊音界向左扩大
+T407	Symptom 2373 2376	心律齐
+T408	Symptom 2377 2389	各瓣膜区未闻及病理性杂音
+T409	Symptom 2391 2392;2393 2394	腹 软
+T410	Symptom 2395 2398	无压痛
+T411	Symptom 2399 2402	反跳痛
+T412	Symptom 2403 2410	移动性浊音阳性
+T413	Symptom 2412 2422;2423 2428	腰骶部及双下肢膝以下 凹陷性水肿
+T414	Test_Value 2909 2919	两肺轻度间质性肺水肿
+T415	Test_Value 2921 2933	右肺中叶及左肺下叶纤维灶
+T416	Test_Value 2934 2940	双侧胸腔积液
+T417	Test_Value 2941 2948;2949 2953	右肺下叶节段性 膨胀不全
+T418	Test_Value 3036 3042	双侧胸腔积液
+T419	Test_Value 3043 3054	右肺下叶节段性膨胀不全
+T420	Test 3058 3064	MRI 增强
+T421	Test_Value 3067 3085	左室心尖及侧壁心内膜下心肌缺血及水肿
+T422	Test_Value 3086 3093;3094 3095	心包少量积液可 能
+T423	Test 3199 3206	左心室射血分数
+T424	Test_Value 3207 3210	40%
+T425	Test 3187 3189;3190 3194	心脏 收缩功能
+T426	Test_Value 3194 3198	轻度降低
+T427	Test_Value 3168 3186	左室心尖及侧壁心内膜下心肌缺血及水肿
+T428	Test_Value 3212 3220	心包少量积液可能
+T429	Test_Value 3550 3557	明显进行性减低
+T430	Test_Value 6231 6244	非特异性弥漫性细胞肥大肿胀
+T431	Test_Value 6245 6253	心肌细胞空泡变性
+T432	Test_Value 6257 6258;6259 6274	肥 厚型心肌病常见的间质纤维化改变
+T433	Test_Value 6275 6285	肌纤维混乱等典型改变
+T434	Test_Value 2045 2049	心影增大
+T435	Test_Value 2050 2056	两侧胸腔积液

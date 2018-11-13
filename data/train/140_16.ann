@@ -1,0 +1,329 @@
+T1	Test 1811 1815	空腹血糖
+T2	Test 6404 6408	空腹血糖
+T3	Test 6416 6420	空腹血糖
+T4	Disease 81 86	高尿酸血症
+T5	Test 99 101	血糖
+T6	Disease 165 170	高尿酸血症
+T7	Disease 1242 1247	高尿酸血症
+T8	Disease 1269 1271	肥胖
+T9	Disease 1273 1277	高脂血症
+T10	Disease 1278 1281	高血压
+T11	Disease 1282 1285	冠心病
+T12	Disease 1286 1291	糖代谢紊乱
+T13	Disease 1314 1317	糖尿病
+T14	Disease 1334 1336;1337 1338	糖尿 病
+T15	Disease 1342 1347	高尿酸血症
+T16	Disease 1355 1358	糖尿病
+T17	Disease 1376 1379	糖尿病
+T18	Disease 1388 1392;1393 1394	胰岛素抵 抗
+T19	Disease 1421 1426	高尿酸血症
+T20	Disease 1516 1519;1520 1522	糖代谢 紊乱
+T21	Test 1607 1609	体重
+T22	Disease 1645 1650	高尿酸血症
+T23	Disease 1682 1685	糖尿病
+T24	Method 1716 1720	皮下注射
+T25	Disease 1722 1725	糖尿病
+T26	Method 1771 1775	腹腔注射
+T27	Amount 1776 1786	35 mg / kg
+T28	Test 2083 2085	血糖
+T29	Test 2086 2089	胰岛素
+T30	Test 2134 2137	胰岛素
+T31	Test 2139 2141	血糖
+T32	Disease 2313 2316	糖尿病
+T33	Test 2328 2339	荧光定量 PCR 检测
+T34	Disease 2528 2533	高尿酸血症
+T35	Test 2538 2540	血糖
+T36	Test 2541 2543;2544 2546	血清 尿酸
+T37	Test 2547 2550	胰岛素
+T38	Disease 2601 2606	高尿酸血症
+T39	Disease 2609 2612	糖尿病
+T40	Disease 2626 2631	高尿酸血症
+T41	Disease 2633 2636	糖尿病
+T42	Test 2703 2705	体重
+T43	Disease 2751 2754	糖尿病
+T44	Test 2757 2759	体重
+T45	Disease 2781 2786	高尿酸血症
+T46	Test 2794 2796	尿酸
+T47	Test 2797 2799	血糖
+T48	Test 2800 2803	胰岛素
+T49	Test 2870 2872	血糖
+T50	Test 2984 2986	血糖
+T51	Test 2987 2989	尿酸
+T52	Anatomy 3074 3078	脂肪组织
+T53	Anatomy 3084 3089	骨骼肌组织
+T54	Anatomy 4359 4363	脂肪组织
+T55	Disease 4394 4397	糖尿病
+T56	Disease 4441 4446	高尿酸血症
+T57	Disease 4461 4464	糖尿病
+T58	Disease 4494 4499	高尿酸血症
+T59	Disease 4517 4520	糖尿病
+T60	Disease 4562 4565	糖尿病
+T61	Disease 4601 4604	糖尿病
+T62	Disease 4621 4624	糖尿病
+T63	Anatomy 4676 4681	骨骼肌组织
+T64	Disease 4716 4719	糖尿病
+T65	Disease 4770 4775	高尿酸血症
+T66	Disease 4792 4795	糖尿病
+T67	Disease 4835 4838	糖尿病
+T68	Disease 4868 4872;4873 4874	高尿酸血 症
+T69	Disease 4879 4882	糖尿病
+T70	Disease 4994 4999	高尿酸血症
+T71	Disease 5000 5006	高胰岛素血症
+T72	Disease 5120 5125	高尿酸血症
+T73	Disease 5126 5131	代谢综合征
+T74	Disease 5172 5173;5174 5178	胰 岛素抵抗
+T75	Test 5220 5222	血糖
+T76	Test 5231 5233	血糖
+T77	Disease 5256 5261	糖代谢紊乱
+T78	Disease 5360 5363;5364 5366	胰岛素 抵抗
+T79	Anatomy 5506 5511	骨骼肌组织
+T80	Anatomy 5532 5536	脂肪组织
+T81	Disease 5554 5559	高尿酸血症
+T82	Disease 5595 5600	胰岛素抵抗
+T83	Disease 5605 5610	糖代谢紊乱
+T84	Disease 5785 5786;5787 5791	胰 岛素抵抗
+T85	Disease 5904 5909	脂代谢紊乱
+T86	Disease 5917 5922	脂代谢紊乱
+T87	Disease 6134 6139	胰岛素抵抗
+T88	Anatomy 6154 6158	脂肪组织
+T89	Anatomy 6168 6173	骨骼肌组织
+T90	Disease 6212 6215	糖尿病
+T91	Disease 6247 6252	高尿酸血症
+T92	Disease 6254 6257	糖尿病
+T93	Anatomy 6298 6300;6301 6303	脂肪 组织
+T94	Anatomy 6313 6318	骨骼肌组织
+T95	Disease 6347 6352	高尿酸血症
+T96	Disease 6358 6361	糖尿病
+T97	Anatomy 6423 6426;6427 6428	脂肪组 织
+T98	Anatomy 6438 6443	骨骼肌组织
+T99	Disease 6537 6542	胰岛素抵抗
+T100	Disease 6574 6579	胰岛素抵抗
+T101	Disease 1655 1658	HUA
+T102	Disease 4552 4555	HUA
+T103	Disease 4918 4921	HUA
+T104	Disease 5191 5194	HUA
+T105	Disease 5911 5914	HUA
+T106	Disease 5945 5948	HUA
+T107	Test 2090 2097	胰岛素抵抗指数
+T108	Test 2142 2149	胰岛素抵抗指数
+T109	Test 2551 2558	胰岛素抵抗指数
+T110	Test 2804 2806;2807 2812	胰岛 素抵抗指数
+T111	Test 2964 2971	胰岛素抵抗指数
+T112	Test 4272 4279	胰岛素抵抗指数
+T113	Test 2150 2157	HOMA-IR
+T114	Test 2949 2956	HOMA-IR
+T115	Test 2995 3002	HOMA-IR
+T116	Disease 1250 1255	代谢综合征
+T117	Anatomy 5700 5704	IL-6
+T118	Anatomy 5809 5813	IL-6
+T119	Test 690 693	PCR
+T120	Anatomy 25 30	IRS-1
+T121	Anatomy 31 36	IRS-2
+T122	Anatomy 130 144	胰岛素受体底物(IRS)-1
+T123	Anatomy 186 192	GLUT-4
+T124	Anatomy 1368 1375	胰岛素信号分子
+T125	Anatomy 4330 4336	GLUT-4
+T126	Anatomy 4337 4342	IRS-1
+T127	Anatomy 4366 4372	GLUT-4
+T128	Disease 4660 4663	糖尿病
+T129	Anatomy 4886 4892	GLUT-4
+T130	Anatomy 4893 4898	IRS-1
+T131	Anatomy 4899 4904	IRS-2
+T132	Anatomy 6083 6088	IRS-1
+T133	Anatomy 6097 6102	IRS-1
+T134	Anatomy 6120 6126	GLUT-4
+T135	Anatomy 6175 6181	GLUT-4
+T136	Anatomy 6182 6187	IRS-2
+T137	Anatomy 6265 6271	GLUT-4
+T138	Anatomy 6274 6279	IRS-2
+T139	Anatomy 6305 6311	GLUT-4
+T140	Anatomy 6320 6326	GLUT-4
+T141	Anatomy 6445 6451	GLUT-4
+T142	Anatomy 6452 6457	IRS-1
+T143	Anatomy 6458 6463	IRS-2
+T144	Anatomy 6524 6529	IRS-1
+T145	Anatomy 2190 2196	GLUT-4
+T146	Anatomy 2197 2202	IRS-1
+T147	Symptom 2717 2721	精神萎靡
+T148	Symptom 2722 2728	毛色干枯发黄
+T149	Test 2990 2993	胰岛素
+T150	Disease 3267 3270	糖尿病
+T151	Disease 4198 4201	糖尿病
+T152	Disease 6388 6391	糖尿病
+T153	Disease 6410 6413	糖尿病
+T154	Anatomy 292 299	胰岛素受体底物
+T155	Anatomy 301 310	葡萄糖转运蛋白 4
+T156	Test 1430 1433	糖代谢
+T157	Anatomy 3019 3025	GLUT-4
+T158	Anatomy 3026 3031	IRS-1
+T159	Anatomy 3032 3045	IRS-2 基因 mRNA
+T160	Anatomy 4141 4150	葡萄糖转运蛋白 4
+T161	Anatomy 4155 4162	胰岛素受体底物
+T162	Anatomy 6160 6166	GLUT-4
+T163	Test_Value 206 208	低于
+T164	Test 1348 1350	比率
+T165	Test_Value 1350 1354	明显高于
+T166	Test_Value 1820 1826;1827 1835	≥16. 7 mmol / L
+T167	Test_Value 1747 1749;1750 1755	大于 340 g
+T168	Frequency 2098 2103	每 2 周
+T169	Duration 2106 2110	12 h
+T170	Anatomy 2113 2117	内眦静脉
+T171	Test_Value 2171 2176	22. 5
+T172	Duration 2223 2227	16 周
+T173	Anatomy 2340 2346	GLUT-4
+T174	Anatomy 2347 2352	IRS-1
+T175	Anatomy 2353 2358	IRS-2
+T176	Test 2429 2435	2-△△Ct
+T177	Anatomy 2440 2446	GLUT-4
+T178	Anatomy 2447 2452	IRS-1
+T179	Anatomy 2453 2458	IRS-2
+T180	Test_Value 2706 2707;2708 2713	先 上升后下降
+T181	Test_Value 2881 2885	逐渐升高
+T182	Test_Value 2927 2931	先高后低
+T183	Test_Value 4280 4284	持续升高
+T184	Test_Value 2759 2761	增加
+T185	Anatomy 5037 5039;5040 5044	5- 磷酸核糖
+T186	Anatomy 5045 5052	磷酸核糖焦磷酸
+T187	Test_Value 5169 5171	增高
+T188	Test_Value 5215 5219	持续升高
+T189	Test_Value 5224 5226	升高
+T190	Test_Value 5234 5238	持续升高
+T191	Test_Value 5277 5281	先高后低
+T192	Test_Value 5286 5295	第 4 周开始升高
+T193	Test_Value 5304 5306;5307 5309	显著 升高
+T194	Test_Value 5316 5323	下降至基线水平
+T195	Disease 5389 5391	IR
+T196	Test_Value 5410 5414	明显降低
+T197	Anatomy 5416 5422	GLUT-4
+T198	Anatomy 5423 5428	IRS-1
+T199	Anatomy 5431 5436	IRS-2
+T200	Anatomy 5512 5518	GLUT-4
+T201	Anatomy 5519 5524	IRS-2
+T202	Anatomy 5538 5544	GLUT-4
+T203	Anatomy 5575 5584	胰岛素信号转导通路
+T204	Anatomy 5724 5729	TNF-α
+T205	Anatomy 5735 5741	GLUT-4
+T206	Anatomy 5819 5824	IRS-1
+T207	Anatomy 5859 5862	胰岛素
+T208	Test 5924 5929	TNF-α
+T209	Test_Value 5939 5941	增加
+T210	Test_Value 6066 6068	升高
+T211	Test 6379 6387	基因表达降低程度
+T212	Test_Value 6392 6393	小
+T213	Test_Value 6408 6409	低
+T214	Anatomy 6430 6436	GLUT-4
+T215	Anatomy 4423 4428	IRS-1
+T216	Anatomy 4477 4482	IRS-2
+T217	Anatomy 4753 4758	IRS-1
+T218	Anatomy 5839 5845	GLUT-4
+T219	Disease 8 13	高尿酸血症
+T220	Anatomy 16 18	脂肪
+T221	Anatomy 19 24	骨骼肌组织
+T222	Test 92 94	尿酸
+T223	Test 95 98	胰岛素
+T224	Anatomy 104 106	脂肪
+T225	Anatomy 107 110	骨骼肌
+T226	Anatomy 176 178	脂肪
+T227	Anatomy 178 181	骨骼肌
+T228	Reason 224 229	高尿酸血症
+T229	Disease 231 236	胰岛素抵抗
+T230	Anatomy 237 239	脂肪
+T231	Anatomy 239 242	骨骼肌
+T232	Reason 247 273	GLUT-4、IRS-2 的 mRNA 表达水平降低
+T233	Disease 285 290	高尿酸血症
+T234	Anatomy 1445 1447;1448 1449	骨骼 肌
+T235	Reason 1509 1514	高尿酸血症
+T236	Test 1745 1747	质量
+T237	Test 1817 1819	血糖
+T238	Test 2080 2082	尿酸
+T239	Disease 2090 2095	胰岛素抵抗
+T240	Test 2131 2133	尿酸
+T241	Symptom 2142 2147	胰岛素抵抗
+T242	Test 2165 2168	胰岛素
+T243	Anatomy 2181 2183	脂肪
+T244	Anatomy 2184 2187	骨骼肌
+T245	Test 2265 2267	尿酸
+T246	Anatomy 2273 2275	脂肪
+T247	Anatomy 2276 2279	骨骼肌
+T248	Symptom 2551 2556	胰岛素抵抗
+T249	Test 2698 2700	尿酸
+T250	Symptom 2804 2806;2807 2810	胰岛 素抵抗
+T251	Test 2825 2830	血尿酸水平
+T252	Test 2874 2876	尿酸
+T253	Test 2917 2922	血清胰岛素
+T254	Disease 2964 2969	胰岛素抵抗
+T255	Disease 2977 2982	高尿酸血症
+T256	Anatomy 3013 3018	骨骼肌组织
+T257	Disease 3374 3379	高尿酸血症
+T258	Symptom 4272 4277	胰岛素抵抗
+T259	Anatomy 4322 4324	脂肪
+T260	Anatomy 4324 4329	骨骼肌组织
+T261	Test 4956 4958	尿酸
+T262	Disease 4959 4964	胰岛素抵抗
+T263	Symptom 5020 5024	高血尿酸
+T264	Anatomy 5059 5062	血尿酸
+T265	Reason 5066 5067;5068 5072	胰 岛素抵抗
+T266	Disease 5086 5092	嘌呤代谢紊乱
+T267	Test 5093 5097;5098 5100	血 UA 水平
+T268	Test_Value 5100 5102	升高
+T269	Reason 5076 5083	肝脏脂肪的合成
+T270	Test 5166 5168	尿酸
+T271	Test 5209 5211	尿酸
+T272	Test 5228 5230	尿酸
+T273	Reason 5247 5254	持续高尿酸血症
+T274	Test 5264 5271;5272 5274	空腹血清胰岛素 水平
+T275	Test 5329 5335;5336 5337	胰岛素抵抗指 数
+T276	Reason 5340 5349	持续高尿酸血症状态
+T277	Anatomy 5368 5370	脂肪
+T278	Anatomy 5371 5376	骨骼肌组织
+T279	Anatomy 5382 5385	胰岛素
+T280	Test 5404 5410	葡萄糖利用率
+T281	Anatomy 5442 5444	脂肪
+T282	Anatomy 5445 5450	骨骼肌组织
+T283	Reason 5465 5466;5467 5477	长 期持续高尿酸血症状态
+T284	Disease 5486 5493;5494 5495	持续性胰岛素抵 抗
+T285	Reason 5564 5569	高尿酸状态
+T286	Disease 5642 5647	高尿酸血症
+T287	Anatomy 5652 5653;5654 5657	血 管内皮
+T288	Disease 5663 5669	血管内皮炎症
+T289	Anatomy 5673 5681	肿瘤坏死因子 α
+T290	Anatomy 5690 5697	白细胞介素 6
+T291	Anatomy 5753 5756	胰岛素
+T292	Anatomy 5775 5779	骨骼肌肉
+T293	Anatomy 5780 5784	脂肪组织
+T294	Reason 5889 5894	高尿酸血症
+T295	Test 5957 5961	IL-6
+T296	Disease 5966 5972	脂质代谢紊乱
+T297	Disease 6051 6056	高尿酸血症
+T298	Disease 6189 6194	高尿酸血症
+T299	Anatomy 6236 6237;6238 6239	脂 肪
+T300	Anatomy 6240 6245	骨骼肌组织
+T301	Disease 6395 6398	高尿酸
+T302	Disease 6485 6490	高尿酸血症
+T303	Anatomy 5398 5403	骨骼肌组织
+T304	Test 5932 5939	IL-6 水平
+T305	Anatomy 6001 6008	IL-6 基因
+T306	Test 2160 2162	血糖
+T307	Test 6292 6294	血糖
+T308	Test 6476 6478	血糖
+T309	Anatomy 39 50	GLUT-4 mRNA
+T310	Anatomy 111 120	葡萄糖转运蛋白 4
+T311	Anatomy 145 155	IRS-2 mRNA
+T312	Anatomy 193 203	IRS-2 mRNA
+T313	Anatomy 1454 1469	胰岛素受体底物( IRS)-1
+T314	Anatomy 1470 1475	IRS-2
+T315	Anatomy 1477 1483;1484 1495	葡萄糖转运蛋 白 4(GLUT-4)
+T316	Test_Value 2830 2834	逐渐升高
+T317	Anatomy 4343 4353	IRS-2 mRNA
+T318	Anatomy 4534 4540	GLUT-4
+T319	Anatomy 4575 4580	IRS-1
+T320	Anatomy 4638 4643	IRS-1
+T321	Anatomy 4683 4689	GLUT-4
+T322	Anatomy 4808 4813	IRS-2
+T323	Anatomy 5981 5986	脂蛋白脂酶
+T324	Test 6059 6062	CRP
+T325	Anatomy 6071 6074	CRP
+T326	Anatomy 6327 6337	IRS-2 mRNA
+T327	Anatomy 6493 6498;6499 6503	IRS-1 mRNA
+T328	Reason 6555 6567;6568 6570	IRS-1 的酪氨酸程度 降低
+T329	Anatomy 2203 2208	IRS-2

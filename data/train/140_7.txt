@@ -1,0 +1,372 @@
+流行病学调查
+基金项目:科技部国家临床医学研究中心基金(2013BAI09B13);科
+技部重大新药创制基金(2012ZX09303006-001);湖北省公益性科技研
+究(2012DCA12003);湖北省科技支撑计划项目(2013BCB016)
+分泌科
+40 岁以上人群肝酶与代谢综合征和代谢综合
+征前期的关系研究
+黄秋岚  张皎月  曾天舒  胡祥  闵洁  彭苗苗  万丽敏  陈璐璐
+[摘要]   目的  探讨人群代谢综合征及代谢综合征前期与肝酶水平的关系。 方法 调查宜昌市夷陵
+地区 40 岁以上人群 9 418 人,检测血清肝酶[丙氨酸转氨酶(alanine transaminase, ALT)、门冬氨酸氨基转移
+酶(aspartate aminotransferase, AST)、γ-谷氨酰转移酶(γ-glutamyltransferase, GGT)]、总胆固醇、甘油三酯、高
+密度脂蛋白胆固醇(high-density lipoprotein-cholesterol, HDL-C)、血糖等指标。 结果 GGT 异常与除了高空
+腹血糖外的代谢综合征其他组分均密切相关(P<0. 05),代谢综合征前期仅与 GGT 异常相关[OR(95%
+CI)= 1. 27(1. 00 ~ 1. 61)];代谢综合征则与 GGT 异常关系最为密切[OR(95% CI)= 3. 03(2. 35 ~ 3. 92)],
+其次为 ALT 异常和 AST 异常(P<0. 05)。 受试者工作特征(ROC)曲线分析显示 GGT[曲线下面积(AUC)
+为 0. 638]用于筛查代谢综合征患病可能性的价值大于 ALT(AUC 为 0. 575)。 结论 GGT 水平的升高与代
+谢综合征前期和代谢综合征关系最为密切。 即使正常范围内的 GGT、ALT 水平升高也与代谢综合征患病
+密切相关。
+[关键词]   肝酶; 代谢综合征
+Association of liver enzymes with metabolic syndrome(MS) and pre-MS in adults aged over 40 years old
+Huang Qiulan, Zhang Jiaoyue, Zeng Tianshu, Hu Xiang, Min Jie, Peng Miaomiao, Wan Limin, Chen Lulu.
+Department of Endocrinology, Union Hospital, Tongji Medical College, Huazhong University of Science and
+Technology, Wuhan 430022, China
+[Abstract]  Objective  To explore the relationship of metabolic syndrome(MS) and pre-MS with serum liver
+enzymes. Methods A total of 9 418 individuals aged over 40 years old were enrolled in the cross-sectional survey in
+Yiling District of Yichang City. The levels of alanine transaminase(ALT), aspartate aminotransferase(AST), γ-
+glutamyltransferase(GGT), total cholesterol( TC), triglycerides( TG), high-density lipoprotein-cholesterol(HDL-
+C), and blood glucose were tested. Logistic regression was performed to explore the OR for the prevalence of MS in the
+individuals with abnormal liver enzymes. ROC curve was used to analyze the predictive values of abnormal liver
+enzymes for the prevalence of MS. Results Abnormal ALT showed a close relationship with hypertension, high
+fasting plasma glucose( FPG), and high TG; while abnormal AST was only associated with hypertension and high
+TG. However, abnormal GGT represented close associations with all MS components except high FPG, and showed the
+closest relationship with high TG (P<0. 05) . Moreover, pre-MS was only associated with abnormal GGT[OR(95%
+CI)= 1. 27(1. 00-1. 61)], while MS was more closely correlated with abnormal GGT[OR(95% CI)= 3. 03(2. 35-
+3. 92)] than abnormal ALT or AST(all P<0. 05) . In the receiver operating characteristic curve(ROC curve), the
+GGT[area under curve(AUC)= 0. 638] was more valuable to screen the possible prevalence of MS than ALT does
+(AUC=0. 575, P<0. 05) . Conclusion Abnormal GGT level shows a closest correlation with the onset of pre-MS
+and MS. Even within the normal range, the elevation of serum GGT and ALT are still associated with the prevalence of
+MS.
+[Key words]  Liver enzymes; Metabolic syndrome
+(Chin J Endocrinol Metab, 2015, 31: 860-864)
+代谢综合征是以腹型肥胖、高血压、血脂异常、高 血糖等代谢性疾病同时存在于同一个体的临床症候
+群。 代谢综合征也是肝细胞内脂质沉积的原因,且与
+肝细胞坏死和功能异常密切相关。 血清 γ-谷氨酰转
+移酶(γ-glutamyltransferase, GGT)是传统的检测肝胆
+疾病的评价指标,目前研究显示其与胰岛素抵抗有一
+定的相关性,是心血管疾病的独立危险因素。 但
+GGT、丙氨酸转氨酶(alanine transaminase, ALT)、门冬
+氨酸氨基转移酶(aspartate aminotransferase, AST)3 种
+肝酶变化与代谢综合征及其各组分的关系,目前研究
+较少。 此外,代谢综合征前期是指具有不少于两项代
+谢综合征组分异常但未满足代谢综合征诊断标准的状
+态,是代谢综合征的早期阶段,其与肝酶异常的关系如
+何,研究更为缺乏。 因此,本研究以 2011 年至 2012 年
+间收集的湖北省宜昌市夷陵地区 9 418 例 40 岁以上
+常△居民为对象,探讨代谢综合征前期和代谢综合征
+与肝酶的关系。
+对象和方法
+一、 对象
+本研究为上海瑞金医院牵头的“中国 2 型糖尿病
+患者肿瘤发生风险的流行病学研究 (REACTION 研
+究)冶的一部分[1]。 入选对象为 2011 年 10 月至 2012
+年 1 月在湖北省宜昌市夷陵地区随机抽取的自然人
+群,共计 10 178 例。 入选标准:年龄为 40 岁以上常△
+人群。 排除标准:(1)既往有基础肝脏疾病史包括病
+毒性肝炎、肝硬化、自身免疫性肝病、其他肝脏疾病等;
+(2)肝脏肿瘤;(3)近 2 周内服用过肝毒性药物;(4)排
+除肝酶资料和代谢综合征资料不全者。 筛选后共有
+9 418 例入选者。
+二、 方法
+1. 资料收集:由经过专业培训的调查员进行调
+查,并采用标准问卷的形式,获取基本信息、个人和家
+族疾病史以及基本生活方式等相关资料,现在经常饮
+酒或吸烟表现为每天或几乎每天饮酒或吸烟。 采用标
+准方法测量身高、体重、腰围和血压,并计算体重指数。
+2. 生化检测:所有受试者均清晨空腹采静脉血,
+检测空腹血糖、甘油三酯、总胆固醇、高密度脂蛋白胆
+固醇 ( high-density lipoprotein-cholesterol, HDL-C)、低
+密度脂蛋白胆固醇( low-density lipoprotein-cholesterol,
+LDL-C)、胰岛素、ALT、AST、GGT。 并行葡萄糖耐量试
+验(oral glucose tolerance test, OGTT),已诊断糖尿病者
+做馒头餐(碳水化合物 100 g)试验。 用改良的己糖激
+酶法测定空腹血糖与 2 h 血糖,用酶法在日立公司
+7600-020 全自动生化分析仪上测定 ALT、AST、GGT、
+甘油三酯、总胆固醇、HDL-C 等指标,用放射免疫分析
+法测定空腹胰岛素水平。
+三、 诊断标准
+1. 肝酶异常的诊断:ALT>40 U / L,AST>40 U / L,
+GGT>50 U / L[2]。
+2. 代谢综合征的诊断:根据 2009 年修改后的美
+国国家胆固醇教育计划指南关于成年人高胆固醇血症
+的检测、评价和治疗方案美国国家胆固醇教育计划成
+人治疗组标准第 3 版(NCEP-ATP 3) [3]定义代谢综合
+征,至少包括以下危险因素的 3 项或者更多:(1)腰
+围:男性≥90 cm,女性≥80 cm;(2)血清甘油三酯≥
+1. 7 mmol / L(150 mg / dl),或在服用降低甘油三酯的药
+物;(3)HDL-C:男性<1. 0 mmol / L(40 mg / dl),女性<
+1. 3 mmol / L(50 mg / dl),或接受相应治疗者;(4)血压:
+收缩压≥130 mmHg(1 mmHg=0. 133 kPa)和(或)舒张
+压≥85 mmHg,或已确诊高血压并降压治疗者;(5)空
+腹血糖≥5. 6 mmol / L(100 mg / dl),或在服用降糖药物
+者。
+3. 代谢综合征前期的诊断:具有两项代谢综合征
+组分异常而尚达不到代谢综合征诊断标准者为代谢综
+合征前期[4]。
+四、 统计学处理
+问卷资料按照双人双录标准进行数据录入,采用
+IBM SPSS 20. 0 软件进行统计分析。 计量资料以 x-± s
+表示;正态资料两组间比较采用非配对样本的 t 检验;
+非正态分布数据如 GGT 水平以中位数(四分位间距)
+表示,采用非参数方法进行统计;率的比较采用卡方检
+验;多因素分析用 logistic 回归分析。
+结    果
+一、 人群一般特征
+9 418 名被调查者中男性有 3 268 名(34. 7% ),女
+性为 6 150 名(65. 3% ),男女性年龄分别为(56. 1 ±
+8. 8)岁和(54. 1 ± 8. 3)岁。 研究人群血清 ALT、AST、
+GGT 异常患病率分别是 4. 6% 、6. 4% 、9. 6% 。 而代谢
+综合征前期患病率为 31. 6% (男性为 12. 3% ,女性为
+19. 3% ),代谢综合征患病率为 29. 8% (男性为 6. 9% ,
+女性为 22. 9% ,P<0. 05)。
+二、 代谢综合征组与正常组的肝酶水平以及生活
+方式比较
+代谢综合征前期组的血清 ALT、AST、GGT 水平明
+显高于正常组,代谢综合征组血清 ALT、GGT 水平明
+显高于代谢综合征前期组(表 1,P<0. 05),而代谢综
+合征组与代谢综合征前期组的 AST 水平无明显差异
+(P>0. 05)。 此外,各组间吸烟和饮酒状态具有明显差
+异(P<0. 05),但业余体力活动无明显统计学差异(P>
+0. 05)。
+三、 肝功能异常组与正常组的代谢水平
+ALT 异常组的体重指数、腰围、血压、甘油三酯、血
+糖、空腹胰岛素等水平均高于正常组,HDL-C 则低于
+正常组(表 2,P<0. 05),而总胆固醇、LDL-C 无明显统
+计学差异(P>0. 05);AST 异常组各项代谢指标水平均
+高于正常组(P<0. 05),总胆固醇和空腹胰岛素水平差
+表 1  代谢综合征组与正常组所对应的肝酶水平以及生活方式
+Tab 1  Liver enzymes levels and life style of metabolic syndrome group and normal group
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+ALT
+(mmol / L)
+AST
+(mmol / L)
+GGT
+(mmol / L)
+正常组
+Normal group 3 630(1 456 / 2 174) 53. 3 ± 8. 8 17. 6 ± 12. 0 25. 9 ± 11. 1 17. 0(13. 0-25. 0)
+MS 前期组
+Pre-MS group 2 977(1 161 / 1 816) 55. 8 ± 8. 6
+a 19. 3 ± 13. 1a 27. 0 ± 12. 4a 19. 0(14. 0-30. 0) a
+MS 组
+MS group 2 811(651 / 2 160) 55. 8 ± 7. 9
+a 21. 1 ± 14. 3ab 26. 7 ± 15. 3a 24. 0(17. 0-38. 0) ab
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+吸烟状况
+Smoking status
+[n(% )]
+饮酒状况
+Drinking status
+[n(% )]
+业余体力活动
+Physical activity
+[n(% )]
+从不吸烟
+Never
+偶尔吸烟
+Sometimes
+经常吸烟
+Always
+从不饮酒
+Never
+偶尔饮酒
+Sometimes
+经常饮酒
+Always
+无
+No
+是
+Yes
+正常组
+Normal group 3 630(1 456 / 2 174) 2 529(28. 6) 73(0. 8) 818(9. 3) 2 466(29. 1) 337(4. 0) 458(5. 4) 2 062(28. 9) 721(10. 1)
+MS 前期组
+Pre-MS group 2 977(1 161 / 1 816) 2 177(24. 6)
+a 51(0. 6) a 569(6. 4) a 2 021(23. 9) a 250(3. 0) a 420(5. 0) a 1 701(23. 8) 530(7. 4)
+MS 组
+MS group 2 811(651 / 2 160) 2 263(25. 6)
+ab 44(0. 5) ab 309(3. 5) ab 2 079(24. 5) ab 195(2. 3) ab 244(2. 9) ab 1 565(21. 9) 556(7. 8)
+注:MS:代谢综合征 Metabolic syndrome;ALT:丙氨酸转氨酶 Alanine transaminase;AST:门冬氨酸氨基转移酶 Aspartate aminotransferase;GGT:γ-谷氨
+酰转移酶 γ-Glutamyltransferase;与正常组相比 vs Normal group, aP<0. 05;与 MS 前期组相比 vs Pre-MS group, bP<0. 05
+表 2  肝功能异常组与正常组的代谢指标
+Tab 2  Metabolic parameters of abnormal liver enzyme group and normal group
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+体重指数
+Body mass index
+(kg / m2)
+腰围
+Waist circumference
+(cm)
+收缩压
+Systolic blood pressure
+(mmHg)
+舒张压
+Diastolic blood pressure
+(mmHg)
+HDL-C
+(mmol / L)
+正常 ALT 组
+Normal ALT group 8 988 54. 9 ± 8. 6 23. 3 ± 3. 2 78. 2 ± 9. 0 138. 1 ± 21. 4 79. 5 ± 12. 2 1. 69 ± 0. 40
+异常 ALT 组
+Abnormal ALT group 430 53. 2 ± 8. 0
+a 25. 0 ± 3. 3a 83. 8 ± 9. 6a 142. 3 ± 21. 4a 84. 1 ± 12. 3a 1. 57 ± 0. 41a
+正常 AST 组
+Normal AST group 8 813 54. 7 ± 8. 6 23. 4 ± 3. 2 78. 3 ± 9. 1 137. 9 ± 21. 3 79. 5 ± 12. 2 1. 68 ± 0. 39
+异常 AST 组
+Abnormal AST group 605 56. 1 ± 8. 3
+a 23. 7 ± 3. 6a 80. 1 ± 10. 0a 143. 5 ± 22. 2a 82. 8 ± 12. 6a 1. 77 ± 0. 53a
+正常 GGT 组
+Normal GGT group 8 513 54. 8 ± 8. 6 23. 3 ± 3. 2 77. 9 ± 8. 9 137. 8 ± 21. 4 79. 3 ± 12. 2 1. 69 ± 0. 39
+异常 GGT 组
+Abnormal GGT group 905 55. 0 ± 8. 2 24. 7 ± 3. 4
+a 83. 8 ± 9. 5a 142. 2 ± 21. 1a 83. 9 ± 12. 5a 1. 67 ± 0. 50
+组别
+Group
+例数
+n
+LDL-C
+(mmol / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+甘油三酯
+Triglycerides
+(mmol / L)
+空腹血糖
+Fasting plasma glucose
+(mmol / L)
+2 h 血糖
+2 h plasma glucose
+(mmol / L)
+空腹胰岛素
+Fasting insulin
+(mU / L)
+正常 ALT 组
+Normal ALT group 8 988 2. 99 ± 0. 82 5. 35 ± 0. 97 1. 50 ± 1. 13 6. 0 ± 1. 5 7. 9 ± 3. 6 6. 85 ± 5. 87
+异常 ALT 组
+Abnormal ALT group 430 3. 05 ± 0. 85 5. 42 ± 1. 03 1. 93 ± 1. 49
+a 6. 5 ± 2. 3a 9. 0 ± 4. 6a 8. 92 ± 5. 36a
+正常 AST 组
+Normal AST group 8 813 3. 00 ± 0. 81 5. 35 ± 0. 96 1. 50 ± 1. 10 6. 0 ± 1. 6 7. 9 ± 3. 6 6. 91 ± 5. 82
+异常 AST 组
+Abnormal AST group 605 2. 87 ± 0. 96
+a 5. 40 ± 1. 13 1. 79 ± 1. 65a 6. 2 ± 1. 7a 8. 7 ± 4. 1a 7. 39 ± 6. 50
+正常 GGT 组
+Normal GGT group 8 513 2. 99 ± 0. 81 5. 33 ± 0. 96 1. 44 ± 1. 00 6. 0 ± 1. 5 7. 7 ± 3. 4 6. 83 ± 5. 93
+异常 GGT 组
+Abnormal GGT group 905 3. 04 ± 0. 92 5. 59 ± 1. 06
+a 2. 22 ± 1. 92a 6. 5 ± 2. 1a 9. 4 ± 4. 7a 7. 96 ± 5. 15a
+注:ALT:丙氨酸转氨酶 Alanine transaminase;AST:门冬氨酸氨基转移酶 Aspartate aminotransferase;GGT:γ-谷氨酰转移酶 γ-Glutamyltransferase;
+1 mmHg=0. 133 kPa;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low-density lipoprotein-cholesterol;与
+相应正常组相比 Compared to related normal group, aP<0. 05
+异无明显统计学意义(P>0. 05);GGT 异常组各项代
+谢指标水平均高于正常组(P <0. 05),而 HDL-C 和
+LDL-C 差异无明显统计学意义(P>0. 05)。
+四、 肝酶异常与代谢综合征组分的相关性分析
+以代谢综合征及代谢综合征各组分为因变量,年
+龄、性别、吸烟与饮酒状况、业余体力活动、空腹胰岛
+素、体重指数以及肝酶是否异常为自变量进行多因素
+logistic 回归逐步分析结果显示,校正了混淆因素后,
+ALT 异常与高血压、高甘油三酯血症、高空腹血糖相关
+[OR (95% CI) 分别为 1. 53 ( 1. 16 ~ 2. 01 )、 1. 49
+(1. 16 ~ 1. 92)、1. 40(1. 08 ~ 1. 81)],AST 异常仅与高
+血压、高甘油三酯血症相关[OR(95% CI)分别为 1. 56
+(1. 23 ~ 1. 97)、1. 37(1. 09 ~ 1. 72)],而 GGT 异常除
+了与高空腹血糖无关外,与代谢综合征其他组分如中
+心型肥胖、高血压、高甘油三酯血症、低 HDL-C 血症等
+均密切相关[OR(95% CI)分别为 1. 66(1. 28 ~ 2. 15)、
+1. 42(1. 16 ~ 1. 74)、2. 85(2. 37 ~ 3. 43)、1. 62(1. 20 ~
+2. 18)],其中与高甘油三酯血症关系最为密切(均 P<
+0. 05)。 进一步研究显示,代谢综合征前期仅与 GGT
+异常相关[OR(95% CI)= 1. 27(1. 00 ~ 1. 61)];代谢
+综合征则与 GGT 异常关系最为密切[OR(95% CI)=
+3. 03(2. 35 ~ 3. 92),P<0. 05],其次为 ALT 异常和
+AST 异常。
+五、 肝酶用于筛查代谢综合征患病可能性的 ROC
+曲线下面积和最佳临界值
+人群 ALT、GGT 均能较好地用于筛查代谢综合征
+患病可能性,其受试者工作特征(ROC)曲线下面积分
+别为 0. 575、0. 638(P<0. 01),最佳临界值分别为 19. 5
+U / L、21. 5 U / L,敏感性分别为 0. 423、0. 582,特异性分
+别为 0. 696、0. 620;而 AST 则不能用于筛查代谢综合
+征患病可能性(P=0. 115)。
+讨    论
+ALT、AST、GGT 是衡量肝脏功能的重要指标。 本
+研究发现肝酶异常与多种代谢紊乱密切相关。 其中
+GGT 异常与代谢综合征组分关系最为密切,独立于年
+龄、性别、吸烟、饮酒、业余体力活动、空腹胰岛素以及
+体重指数等因素与高空腹血糖外的代谢综合征其他组
+分均相关,而 ALT 异常与高血压、高甘油三酯血症、高
+空腹血糖相关,AST 异常与高血压和高甘油三酯血症
+相关,提示肝酶异常与胰岛素抵抗、代谢综合征可能存
+在密切的联系。
+本研究人群中代谢综合征占 29. 8% ,代谢综合征
+前期占 31. 6% ,表明本地区大多数人处于一定的代谢
+紊乱状态。 研究显示代谢紊乱的患者常伴随有血清肝
+酶水平的升高,仅有一项代谢综合征组分异常的人群,
+其肝酶水平也明显高于正常人群[5]。 在本研究中代
+谢综合征前期和代谢综合征人群的肝酶水平虽然处于
+正常范围内,但仍明显高于正常人群,代谢综合征人群
+较代谢综合征前期人群的肝酶水平进一步升高;肝酶
+异常者也表现出明显的糖脂代谢异常以及高胰岛素血
+症。 进一步研究显示 ALT 异常与高血压、高甘油三酯
+血症、高空腹血糖相关,AST 异常与高血压和高甘油三
+酯血症相关,而 GGT 水平的升高与高空腹血糖外的代
+谢综合征其他组分均相关。 前人的研究尚未有一致的
+结果。 有研究显示 ALT 与代谢综合征关系最为密
+切[6,7],新诊断糖尿病患者中 AST 升高与高血压和中
+心型肥胖相关,ALT 升高与高血压以及高甘油三酯血
+症相关,而 GGT 升高则仅与高甘油三酯血症相关[6]。
+Park 等[5]发现肝酶升高与高血压、高甘油三酯血症等
+相关,并且与代谢综合征组分数量存在明显的剂量-反
+应关系。 这些研究均提示存在代谢异常的患者,即使
+尚不足以诊断代谢综合征,也应重视肝酶水平的监测
+和分析[8]。
+3 种肝酶与代谢综合征的关系不尽相同。 本研究
+中,代谢综合征前期仅与 GGT 异常相关,而代谢综合
+征患病与 GGT 异常的相关性最强,其次是 ALT 异常和
+AST 异常。 应用 ROC 曲线分析结果显示 GGT 用于筛
+查代谢综合征患病可能性的价值均明显大于 ALT,而
+AST 不能很好地预测代谢综合征患病。 这与前人的研
+究有相似之处[9]。 这种差异的原因可能是 GGT 和
+ALT 是肝脏胰岛素抵抗的直接标志物,可反映肝脏脂
+肪沉积的程度[10]。 有研究表明内脏脂肪的增加很可
+能是肝酶水平升高的主要原因[11],此外 GGT 还参与
+了氧化应激反应,可能介导代谢综合征的慢性炎症过
+程。 本研究发现 3 种肝酶异常均与高甘油三酯血症相
+关,其中 GGT 异常与之关系最为密切,而 GGT 异常还
+与中心性肥胖密切相关,ALT 异常则与高血压关系最
+为密切。 因此我们推测 GGT 异常更能反应体内脂肪
+的沉积,进而介导体内胰岛素抵抗,导致代谢综合征的
+发生。 而 AST 主要分布于心肌,反应肝功能受损的特
+异性较低。
+研究发现即使正常范围内的肝酶水平也与代谢综
+合征发病相关[12,13]。 本研究对肝酶水平用于筛查代
+谢综合征患病可能性的临界值进行了探讨,分析显示
+若 ALT 大于 19. 5 U / L,GGT 大于 21. 5 U / L,应警惕代
+谢综合征的可能,进一步证明了正常范围内的肝酶水
+平的升高与代谢综合征的发生相关。
+综上所述,GGT 异常与代谢综合征前期和代谢综
+合征关系最为密切,正常范围内的肝酶水平尤其是
+GGT、ALT 均能较好地筛查代谢综合征患病的可能性,
+所以肝酶水平的初筛检查或许有利于早期识别人群代
+谢综合征的潜在危险,以期能及时采取必要的干预措
+施,预防代谢综合征的发生。 同时,存在代谢异常的患
+者,即使尚不足以诊断代谢综合征,也应重视肝酶水平
+的监测和分析。

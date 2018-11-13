@@ -1,0 +1,388 @@
+临床研究
+内分泌科(丁福万、江冬梅)
+血清胎球蛋白 A 及脂联素水平变化与代谢综
+合征的关系
+周中卫  居会祥  孙明忠  陈红梅  韩玉清  傅庆萍  季红兵  丁福万  江冬梅
+[摘要]   目的  探讨血清胎球蛋白 A(AHSG)及脂联素水平变化与代谢综合征(MS)的关系。 方法
+采用随机数字表法抽取本院 726 名体检者为研究对象,收集相关临床资料,酶联免疫吸附法(ELISA)测定
+AHSG 及脂联素水平。 结果 与非 MS 组相比,MS 组血清 AHSG 水平升高,脂联素水平降低。 在 MS 组及
+非 MS 组中 AHSG 与脂联素均呈负相关,尤其在 MS 组更为显著;多元线性回归分析显示,MS 组中以 AHSG
+为因变量,脂联素经校正相关因素后与 AHSG 呈独立负相关 (β = -0. 239, P<0. 01);以脂联素为因变量,
+AHSG 亦与其呈独立负相关 (β= -0. 257, P<0. 01);在非 MS 组中,未观察到两者间的独立相关性。 Logistic
+回归分析显示,校正其他混杂因素后,MS 的发生风险随着 AHSG 四分位水平的逐渐增加而增加,随着脂联
+素四分位水平的逐渐增加而降低(均 P趋势<0. 01)。 分层卡方检验显示,AHSG 在高值组与脂联素在低值组
+的对应度及 AHSG 在低值组与脂联素在高值组的对应度在 MS 组(OR= 3. 443,P<0. 01)显著高于非 MS 组
+(OR=1. 488,P=0. 024); Mantel-Haenszel 检验中,控制混杂因素 MS 时,AHSG 与脂联素高值与低值的对应
+度亦明显高于两者中高值与高值或低值与低值的对应度(OR = 1. 791,P<0. 01)。 结论 AHSG 可能是 MS
+的危险因子,脂联素是保护因子,两者在调节机体代谢活动中具有协同性,MS 可能增强两者间的交互作
+用。
+[关键词]   胎球蛋白 A; 脂联素; 代谢综合征
+Associations of serum levels of alpha2-Heremans-Schmid glycoprotein and adiponectin with metabolic
+syndrome Zhou Zhongwei *, Ju Huixiang, Sun Mingzhong, Chen Hongmei, Han Yuqing, Fu Qingping, Ji
+Hongbing, Ding Fuwan, Jiang Dongmei. *Department of Clinical Laboratory & Department of Endocrinology, the
+Affiliated Yancheng Hospital of Southeast University Medical College, Yancheng 224001, China
+[Abstract ]   Objective   To investigate the associations of serum levels of alpha2-Heremans-Schmid
+glycoprotein (AHSG) and adiponectin (APN) with metabolic syndrome (MS). Methods A total of 726 subjects
+were randomly selected from physical examination population using the random number table. The clinical data were
+collected and serum levels of AHSG and APN were measured by ELISA. Results Serum AHSG level was higher and
+APN level was lower in MS group compared to those in non-MS group. There were negative correlations between AHSG
+and APN in both MS and non-MS groups, especially more significant in MS group (P<0. 01) . Multivariate linear
+regression analysis showed that when AHSG was as the dependent variable, APN was associated independently and
+negatively with AHSG after adjustment for other related factors (β= -0. 239, P<0. 01) in MS group, and vice versa
+(β=-0. 257, P<0. 01), but the independent associations between them were not observed in non-MS group. The risk
+of MS was increased with increasing quartile of AHSG and decreased with that of APN in logistic regression model after
+adjustment for other confounding factors (both Pfor trend<0. 01) . Layered chi-square test showed that the corresponding
+degrees between higher AHSG and lower APN levels or between lower AHSG and higher APN levels were higher in MS
+group (OR=3. 443, P<0. 01) compared to those in non-MS group (OR = 1. 488, P = 0. 024). Mantel-Haenszel test
+showed that the associations of AHSG in higher / lower range and APN in lower / higher range were also closer than those
+of both AHSG and APN in higher / lower ranges after adjusting the impact of MS ( OR = 1. 791, P < 0. 01 ) .
+Conclusions AHSG may be a risk factor for MS and APN as a protective factor. AHSG and APN have a synergistic
+effect on metabolism regulation while MS may increase their interaction.
+[Key words]  Alpha2-Heremans-Schmid glycoprotein; Adiponectin; Metabolic syndrome
+(Chin J Endocrinol Metab, 2016, 32: 824-829)
+代谢综合征(MS)是由一组危险因子如肥胖、高血
+糖、高血压、血脂异常及胰岛素抵抗等聚集而导致机体
+呈代谢紊乱的状态,是导致 2 型糖尿病及心血管疾病
+等发生的重要风险因素[1]。 胎球蛋白 A ( alpha2-
+Heremans-Schmid glycoprotein, AHSG)是肝脏和骨骼肌
+组织中胰岛素受体酪氨酸激酶的内源性抑制剂,其过
+表达可导致胰岛素抵抗,继而可引发一系列的代谢紊
+乱[2]。 脂联素是脂肪细胞分泌的一种激素蛋白,具有
+增强胰岛素敏感性,调节糖脂代谢、抗炎及抗动脉粥样
+硬化等效应[3]。 编码人 AHSG 和脂联素的基因均位
+于人类染色体 3q27 位点,两者彼此相邻,因此它们在
+调节代谢活动中极有可能具有协同作用[4]。 尽管目
+前已有文献分别报道了 AHSG 或脂联素与 MS 的关
+系,但对于 AHSG 和脂联素在 MS 中是否有相互作用
+以及对它们进行联合检测的意义却少见报道。 本研究
+同时检测了 AHSG 及脂联素血清水平,分析其与 MS
+的关系。
+对象和方法
+一、 对象
+研究对象来自东南大学医学院附属盐城医院
+2014 年 3 月至 2014 年 10 月体检人群,采用随机数字
+表法抽取 800 名体检者。 排除严重心脑血管病变、肝
+肾功能不全、自身免疫性疾病、遗传性疾病、恶性肿瘤
+及其他慢性消耗性疾病等,最后入选者为 726 名,其中
+男性 380 名,女性 346 名,年龄 20 ~ 79 岁,其中 20 ~ 29
+岁 21 名,30 ~ 39 岁 115 名,40 ~ 49 岁 253 名,50 ~ 59
+岁 176 名,60 ~ 69 岁 97 名,70 ~ 79 岁 64 名。 本研究
+纳入的受试者均签署知情同意书并经本院伦理学委员
+会批准。
+二、 方法
+1. 测量方法:由受专门培训的医生和护士进行受
+试者的体格检查,测量身高、体重、腰围及血压等,计算
+体重指数(BMI);所有受试者均空腹 10 ~ 12 h 于清晨
+采集静脉血,采用 Roche 7600 全自动生化分析仪及其
+配套试剂检测空腹血糖(FPG);总胆固醇(TC)、三酰
+甘油(TG)、高密度脂蛋白胆固醇(HDL-C)、低密度脂
+蛋白胆固醇(LDL-C)及游离脂肪酸(FFA);Beckman-
+coulter IMMAGE 800 特种蛋白分析仪及配套试剂检测
+C 反应蛋白(CRP);Beckman-coulter UniCel DXI 800 化
+学发光仪及配套试剂测定空腹胰岛素(FINS),并采用
+稳态模型评估的胰岛素抵抗指数(HOMA-IR)评估胰
+岛素敏感性,HOMA-IR = ( FPG ×FINS) / 22. 5。 另取
+3 ml 静脉血分离血清后置于 - 70℃ 冰箱保存,采用
+ELISA 法同批集中检测 AHSG 及脂联素。 AHSG 试剂
+盒购自捷克 BioVendor 公司,批内 CV 为 2. 7% ,批间
+CV 为 3. 2% ;脂联素试剂盒购自美国 Linco 公司,批内
+CV 为 3. 8% ,批间 CV 为 7. 4% 。 操作严格按照试剂盒
+说明书进行。
+2. MS 诊断标准:MS 的诊断依据采用 2013 年中
+华医学会糖尿病学分会(CDS)建议标准[5],具备以下
+5 项中的 3 项或以上者可诊断为 MS:(1)腹型肥胖:腰
+围男性≥90 cm,女性≥85 cm;(2)高血糖:FPG≥6. 1
+mmol / L 或糖负荷后 2 h 血糖≥7. 8 mmol / L,及(或)已
+确诊糖尿病并治疗者; (3) 高血压:血压≥130 / 85
+mmHg(1 mmHg=0. 133 kPa),及(或)已确诊高血压并
+治疗者; (4) 空腹血 TG≥1. 7 mmol / L; (5) 空腹血
+HDL-C<1. 04 mmol / L。
+三、 统计学处理
+采用 SPSS 20. 0 统计学软件进行统计分析。 正态
+分布计量资料以 x-± s 表示,偏态分布计量资料以中位
+数和四分位间距 M(QR)表示。 计量资料比较采用 t
+检验 (正态分布)或非参数检验 (偏态分布);计数资
+料比较采用 字2检验。 AHSG 及脂联素与各临床参数间
+的关系采用 Spearman 相关分析及多元线性回归分析。
+AHSG 及脂联素各四分位水平与 MS 相对危险度采用
+logistic 回归分析;采用分层卡方检验及Mantel-Haenszel
+(M-H)检验分析不同层次 AHSG 及脂联素水平在 MS
+组及非 MS 组中的对应关系。 P<0. 05 为差异有统计
+学意义。
+结    果
+一、 MS 组与非 MS 组一般临床资料比较
+MS 组与非 MS 组一般临床资料比较中,除年龄、
+性别及 TC 差异无统计学意义(P >0. 05),其余各项指
+标差异均有统计学意义(P<0. 05 或 P<0. 01)。 其中
+MS 组中 AHSG 水平高于非 MS 组(P<0. 05),脂联素
+水平低于非 MS 组(P<0. 01,表 1)。
+二、 AHSG 及脂联素在 MS 组与非 MS 组中与各临
+床参数间的 Spearman 相关分析
+在非 MS 组,AHSG 与 FPG、HOMA-IR、CRP、TG 及
+FFA 呈正相关,与年龄及脂联素呈负相关;脂联素与
+BMI、腰围、舒张压、FPG、HOMA-IR、TG、LDL-C、FFA 及
+AHSG 呈负相关(P < 0. 05 或 P < 0. 01)。 在 MS 组,
+AHSG 与 BMI、腰围、 FPG、 HOMA-IR、 CRP、 TC、 TG、
+LDL-C 及 FFA 呈显著正相关,与年龄及脂联素呈显著
+负相关;脂联素与 BMI、腰围、收缩压、舒张压、FPG、
+HOMA-IR、CRP、TC、TG、LDL-C、FFA 及 AHSG 呈显著
+负相关,与 HDL-C 呈显著正相关(P<0. 05 或 P<0. 01,
+表 2)。
+表 1  MS 组与非 MS 组一般临床资料比较[x-± s,中位数(四分位数间距)]
+Tab 1  Comparison of general clinical data between MS group and Non-MS group [x-± s, M(quartile)]
+组别
+Group
+例数(男性 / 女性)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+BMI
+(kg / m2) WC
+SBP
+(mmHg)
+DBP
+(mmHg)
+Non-MS 549(285 / 264) 44. 12 ± 14. 88 23. 81 ± 2. 89 85. 43 ± 10. 82   118 ± 16   75 ± 11
+MS    177(95 / 82)   44. 83 ± 13. 97 27. 85 ± 2. 74b 90. 97 ± 10. 33b   139 ± 16b   86 ± 12b
+组别
+Group
+例数(男性 / 女性)
+n(Male / Female)
+FPG
+(mmol / L) HOMA-IR
+CRP
+(mg / L)
+TC
+(mmol / L)
+TG
+(mmol / L)
+Non-MS 549(285 / 264) 4. 42 ± 0. 81 1. 94 ± 0. 92 2. 31 ± 1. 65 4. 85 ± 0. 91 1. 41 ± 0. 60
+MS    177(95 / 82)   5. 93 ± 1. 81b 3. 30 ± 2. 14b 4. 42 ± 3. 59b 5. 03 ± 1. 09 2. 77 ± 1. 22b
+组别
+Group
+例数(男性 / 女性)
+n(Male / Female)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+FFA
+(μmol / L)
+APN
+(mg / L)
+AHSG
+(μg / ml)
+Non-MS 549(285 / 264) 1. 47 ± 0. 42 2. 48 ± 0. 81 472. 20 (241. 90) 10. 21 (2. 25) 251. 30 (93. 70)
+MS    177(95 / 82)   1. 15 ± 0. 46b 2. 92 ± 0. 93a 724. 80 (347. 60) b 7. 95 (2. 59) b 289. 40 (140. 30) a
+注:Non-MS:非代谢综合征 Non-metabolic syndrome;MS:代谢综合征 Metabolic syndrome; BMI:体重指数 Body mass index;WC:腰围 Waist
+circumference;SBP:收缩压 Systolic blood pressure;1 mmHg=0. 133 kPa;DBP:舒张压 Diastolic blood pressure;FPG:空腹血糖 Fasting plasma glucose;HOMA-
+IR:稳态模型评估的胰岛素抵抗指数 Homoeostasis model assessment of insulin resistance index;CRP:C 反应蛋白 C-reactive protein;TC:总胆固醇 Total
+cholesterol;TG:三酰甘油 Triglycerides;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol; LDL-C:低密度脂蛋白胆固醇 Low density
+lipoprotein-cholesterol;FFA:游离脂肪酸 Free fatty acids;APN:脂联素 Adiponectin;AHSG:胎球蛋白 A Alpha2-Heremans-Schmid glycoprotein;与 Non-MS 组
+比较 vs Non-MS group,aP<0. 05,bP<0. 01
+表 2  AHSG 及 APN 在 MS 组与非 MS 组与各临床参数的 Spearman 相关分析 [ r (P)]
+Tab 2  Spearman correlation analysis of AHSG and APN with other clinical parameters in MS group and Non-MS group [ r (P)]
+参数
+Parameters
+Non-MS
+(n=549)
+MS
+(n=177)
+AHSG APN AHSG APN
+年龄
+Age -0. 096(0. 024) 0. 070(0. 101) -0. 159(0. 035) 0. 086(0. 257)
+BMI 0. 053(0. 221) -0. 093(0. 029) 0. 234(<0. 01) -0. 202(<0. 01)
+WC 0. 062(0. 146) -0. 098(0. 022) 0. 268(<0. 01) -0. 285(<0. 01)
+SBP 0. 034(0. 433) -0. 078(0. 068) 0. 089(0. 241) -0. 188(0. 012)
+DBP 0. 042(0. 330) -0. 091(0. 032) 0. 075(0. 319) -0. 262(<0. 01)
+FPG 0. 099(0. 021) -0. 096(0. 024) 0. 273(<0. 01) -0. 307(<0. 01)
+HOMA-IR 0. 119(<0. 01) -0. 091(0. 032) 0. 286(<0. 01) -0. 290(<0. 01)
+CRP 0. 112(<0. 01) -0. 081(0. 057) 0. 238(<0. 01) -0. 236(<0. 01)
+TC 0. 056(0. 190) -0. 073(0. 087) 0. 172(0. 022) -0. 185(0. 014)
+TG 0. 088(0. 039) -0. 117(<0. 01) 0. 249(<0. 01) -0. 277(<0. 01)
+HDL-C -0. 037(0. 390) 0. 056(0. 192) -0. 126(0. 096) 0. 178(0. 018)
+LDL-C 0. 079(0. 065) -0. 099(0. 020) 0. 183(0. 015) -0. 209(<0. 01)
+FFA 0. 111(<0. 01) -0. 116(<0. 01) 0. 297(<0. 01) -0. 197(<0. 01)
+APN -0. 089(0. 036) - -0. 281(<0. 01) -
+AHSG - -0. 089(0. 036) - -0. 281(<0. 01)
+注:略语同表 1 The abbreviations are the same as Tab 1
+三、 AHSG 及脂联素在 MS 组与非 MS 组中与各临
+床参数间的多元线性回归分析
+在 MS 组与非 MS 组中,将 AHSG、脂联素及 FFA
+行自然对数转换,分别以 AHSG 及脂联素为因变量,以
+年龄、性别、BMI、腰围、收缩压、舒张压、FPG、CRP、TG、
+HDL-C、LDL-C、FFA 及脂联素或 AHSG 为自变量行多
+元线性回归分析,结果显示在非 MS 组中,脂联素与
+FPG 呈独立负相关(β = -0. 106,P<0. 05)。 在 MS 组
+中,AHSG 与腰围(β = 0. 153)、CRP(β = 0. 171)及 FFA
+(β=0. 168) 呈独立正相关 (均 P<0. 05),与脂联素呈
+独立负相关(β= -0. 239,P<0. 01);脂联素与 FPG (β =
+-0. 186)、CRP (β = -0. 195)及 AHSG (β = -0. 257) 呈
+独立负相关 (P<0. 05 或 P<0. 01)。
+四、 AHSG 及脂联素各四分位水平与 MS 风险关
+系的 logistic 回归分析
+将 AHSG 及脂联素由低到高分别分成四分位
+(AHSG 为 ≤222. 10、 222. 20 ~ 271. 50、 271. 60 ~
+318. 60 和≥318. 70 μg / ml; 脂联素为≤8. 21、8. 22 ~
+9. 27、9. 28 ~ 10. 52 和≥10. 53 mg / L),以是否是 MS 为
+因变量,AHSG 及脂联素各四分位数为分类自变量同
+时校正年龄、性别、BMI、腰围、收缩压、舒张压、FPG、
+CRP、TG、HDL-C、LDL-C、FFA 及脂联素或 AHSG 行
+logistic 回归分析,结果显示当设 AHSG 第一四分位数
+(Q1)为 1 时,AHSG 的第二、三、四分位数发生 MS 的
+相对危险度分别为 1. 073 (95% CI 1. 004 ~ 1. 248)、
+1. 510 ( 95% CI 1. 119 ~ 2. 268 )、 2. 503 ( 95% CI
+1. 418 ~ 3. 853),趋势 P 值<0. 01;当设脂联素 Q1 为 1
+时,脂联素的第二、三、四分位数发生 MS 的相对危险
+度分别为 0. 633 (95% CI 0. 331 ~ 0. 967)、0. 495 (95%
+CI 0. 286 ~ 0. 743)、0. 352 (95% CI 0. 220 ~ 0. 524),趋
+势 P 值<0. 01。
+五、 MS 组与非 MS 组中 AHSG 和脂联素关系的分
+层分析
+AHSG 和脂联素依据其中位数(271. 50 μg / ml 及
+9. 27 mg / L) 分为 2 层。 分层卡方检验显示,AHSG 在
+高值组与脂联素在低值组的对应度及 AHSG 在低值组
+与脂联素在高值组的对应度在 MS 组(OR = 3. 443,P<
+0. 01)显著高于非 MS 组(OR = 1. 488,P = 0. 024);在
+M-H 检验中控制混杂因素 MS 时,AHSG 与脂联素高
+低值的对应度亦明显高于两者高值与高值或低值与低
+值的对应度(OR=1. 791,P<0. 01,表 3)。
+表 3  MS 组与非 MS 组中 AHSG 和 APN 关系的分层分析
+Tab 3   Stratified analysis of the relationship between AHSG and
+APN in MS group and Non-MS group
+MS AHSG(μg / ml)
+APN
+(mg / L)
+<9. 27 ≥9. 27
+OR 95% CI P
+No  ≥271. 50 117 97 1. 488 1. 054-2. 100 0. 024
+<271. 50 150 185
+Yes ≥271. 50 76 41 3. 443 1. 793-6. 610 <0. 01
+<271. 50 21 39
+注:ORM-H =1. 714,95% CI 1. 271 ~ 2. 311, P<0. 01; No:非;Yes:是;
+余略语同表 1 The other abbreviations are the same as Tab 1
+讨    论
+机体代谢平衡的调节是一个异常复杂的过程,是
+由多个器官及多种生理活动相互作用、协同调节完成,
+其中肝脏及脂肪组织在调节糖脂代谢、胰岛素抵抗等
+代谢过程中起着关键性作用[6]。
+AHSG 主要是由肝脏合成并分泌的一种糖蛋白,
+其高表达不仅与胰岛素抵抗密切相关,而且与肥胖及
+心血管疾病的发生发展亦联系密切[2]。 一项随机对
+照试验显示,在肥胖大鼠及 2 型糖尿病患者中,通过热
+量限制可显著降低肝组织及外周血中 AHSG 水平,同
+时能明显改善心血管疾病相关的风险参数如内脏脂肪
+面积、动脉粥样硬化相关的脂质标志物及某些炎性因
+子水平等[7]。 本研究 MS 患者 AHSG 水平明显升高,
+相关糖脂代谢参数、HOMA-IR 及亚临床炎症参数 CRP
+等亦显示异常,尽管 AHSG 在 MS 组及非 MS 组中均与
+上述相关参数呈正相关,但在 MS 组中相关性更为显
+著,且在 MS 组中 AHSG 与 CRP 及 FFA 呈独立正相
+关,而在非 MS 组未发现 AHSG 与任何参数呈独立相
+关性,上述结果一方面表明 AHSG 作为代谢调控因素
+中的一个重要组成成分参与调节机体正常的代谢活
+动,另一方面亦表明 AHSG 在高表达时可能引起一系
+列的代谢紊乱或其他异常现象,反映在本研究中,MS
+患者表现出的代谢紊乱及炎性因子水平升高等可能与
+升高的 AHSG 水平有关。 本研究还观察到 MS 组中
+AHSG 与腰围呈独立正相关,提示 MS 患者的中心性肥
+胖可能与 AHSG 的高表达密切相关。 本课题组先前的
+一项研究显示,在单纯性超重和肥胖人群中升高的
+AHSG 水平与中心性肥胖指标腰臀比亦呈独立正相
+关[8]。 中心性肥胖由于过多的脂肪堆积在内脏,容易
+诱发糖尿病及心血管疾病等。 新近的一项关于江苏成
+人中心性肥胖与心血管病危险因素关系的流行病学资
+料显示,随着腰围的增加,心血管疾病风险因素如高血
+压、糖尿病、血脂异常等患病率以及这些因素的聚集率
+均显著增加,且重度中心性肥胖者心血管疾病危险因
+素聚集的风险是正常者的 8 倍[9]。 因此,MS 患者的糖
+脂代谢异常及中心性肥胖等因素的聚集与 AHSG 的高
+表达可能均有一定程度的关联,采取措施控制 AHSG
+水平可能会减少糖尿病及心血管疾病的发生发展。
+本研究血清脂联素水平在 MS 组中明显低于非
+MS 组,在 MS 组中脂联素与相关参数的相关性也较非
+MS 组更为显著,与 BMI、腰围、相关糖脂参数、收缩压 /
+舒张压及 HOMA-IR 等均呈显著负相关,而与 HDL-C
+呈正相关,提示脂联素对 MS 中相关组分诸如中心性
+肥胖、高血压、糖脂代谢紊乱及胰岛素抵抗等可能均具
+保护作用。 在多元线性回归模型中,尽管脂联素在 MS
+组及非 MS 组中均与 FPG 呈独立负相关,但在 MS 组
+中还观察到其与 CRP 呈独立负相关,提示当机体代谢
+发生严重紊乱时脂联素发挥的调节作用可能更甚。
+Ohashi 等[10]通过动物实验研究发现,低脂联素血症在
+一定程度上可导致肥胖及其相关的高血压,补充脂联
+素后肥胖及相关的高血压症状明显得到改善。 国内学
+者陈名道[11] 亦提出,低脂联素血症可预测 MS 的发
+生。 脂联素在调节机体的代谢活动中,腺苷酸活化蛋
+白激酶(AMPK) 是其发挥效应作用的关键性分子,
+AMPK 被活化后可磷酸化并激活下游多种信号分子,
+增加葡萄糖摄取和脂肪酸氧化,调节机体的糖脂代
+谢[12]。 与野生型小鼠相比,脂联素基因敲除小鼠肝脏
+中与糖脂代谢调节相关的许多关键性基因显著下调,
+这些基因调控着醣酵解、三羧酸循环、TG 及胆固醇合
+成等[13]。 因此,MS 患者呈现出的胰岛素抵抗增强及
+糖脂代谢紊乱等现象除与 AHSG 的高表达有关,与脂
+联素的低表达可能亦有一定的关联,如果采取措施在
+控制 AHSG 水平的同时再给予脂联素,对预防 2 型糖
+尿病及心血管疾病等效果可能更佳。
+本研究分别将 AHSG 及脂联素分为四分位数,分
+析不同四分位水平与 MS 的风险关系,在校正一系列
+混杂因素后,发现 MS 的发生风险随着 AHSG 四分位
+水平的逐渐增加而增加,而随着脂联素四分位水平的
+增加而降低。 该结果进一步提示 AHSG 可能是 MS 的
+风险因子,脂联素则为保护因子。 一项以上海某社区
+5 469 名中老年人群为研究对象的大样本研究数据显
+示,处于 AHSG 水平上四分位区间人群与其他三区间
+相比 MS 发生的风险明显增加[14];Kim 等[15] 一项前瞻
+性研究显示,在校正相关因素后的多变量回归模型中,
+脂联素最高四分位区间 MS 的发病率明显低于最低四
+分位区间,提示较高的脂联素水平对 MS 的发生有保
+护作用;上述研究结果均与本研究一致。
+在 AHSG 与脂联素的相关性分析中,本研究发现
+尽管两者在 MS 组与非 MS 组中均表现为负相关,但在
+MS 组的负相关性尤为显著。 多元线性回归分析显示,
+当以 AHSG 为因变量时,MS 组中脂联素经校正相关混
+杂因素后与 AHSG 呈独立负相关;同样,以脂联素为因
+变量时,AHSG 亦与其呈独立负相关,而在非 MS 组中,
+未观察到两者间的独立相关性。 为了进一步明确 MS
+因素对 AHSG 和脂联素相互作用的影响,本研究对两
+者的关系进行分层分析,发现虽然 AHSG 在高值组与
+脂联素在低值组的对应度及 AHSG 在低值组与脂联素
+在高值组的对应度在 MS 组和非 MS 组中均有统计学
+差异,但在 MS 组中差异性尤为显著,当控制 MS 影响
+因素后,上述对应度亦具有显著性。 上述结果提示无
+论是否存在 MS,AHSG 与脂联素均呈负相关,但 MS 的
+影响会加剧两者间的负相关性,使两者间的交互作用
+进一步增强。 AHSG 与脂联素均与 MS 中重要组分如
+胰岛素抵抗、中心性肥胖、相关糖脂参数等有密切联
+系,但它们调节的方向相反。 Hennige 等[16] 研究显示,
+AHSG 不仅能诱导胰岛素抵抗及炎性反应,而且具有
+调节脂联素表达的效应,且当 AHSG 在高浓度时可负
+反馈抑制脂联素的表达。 另有研究表明,当肥胖而致
+肝脏 AHSG 高表达以及脂肪组织脂联素低表达时,两
+者具有协同作用,共同抑制 AMPK 信号分子的表达,
+促进 MS 等代谢性疾病的发生发展,此可能为肥胖及
+其相关代谢性疾病的联系机制之一[17]。 Lee 等[18] 的
+一项研究发现高脂饮食诱导的肥胖小鼠血清 AHSG 水
+平增加,脂联素降低,当使用白藜芦醇(一种具有预防
+和治疗动脉粥样硬化、心脑血管疾病等的多酚类化合
+物)治疗处理后,AHSG 水平下降,而脂联素水平上升,
+同时 AMPK 信号分子表达增加。 该一系列研究结果
+提示 AHSG 与脂联素之间存在着密切的交互作用,两
+者可能通过彼此相互调节,以及共同调节胰岛素抵抗、
+糖脂代谢及 AMPK 信号通路等促使或预防相关代谢
+性疾病的发生与发展。
+总之,本研究结果显示 MS 患者 AHSG 水平升高,
+脂联素水平降低;AHSG 可能是 MS 的危险因子,脂联
+素是保护因子,两者在调节机体代谢活动中可能具有
+协同性,MS 增强两者间的交互作用。 本研究提示在防
+治 MS 及其相关的 2 型糖尿病及心血管疾病等时,如
+采取措施降低 AHSG 的同时补充脂联素,可能会取得
+更好的临床效果。 由于本研究中的大多数体检者在常
+规体检时未检测餐后 2 h 血糖或口服葡萄糖耐量试
+验,因此在判断 MS 时可能有一些偏差;此外,本研究
+中样本量偏少,且研究群体为医院体检人群,非自然状
+态分布的人群,因此本研究结果尚待大样本量及自然
+状态分布下的人群进一步研究证实。

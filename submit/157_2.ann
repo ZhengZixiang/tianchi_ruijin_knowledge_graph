@@ -1,0 +1,213 @@
+T1	Disease 116 120	性腺疾病
+T2	Disease 143 147	性腺疾病
+T3	Disease 224 228	性腺疾病
+T4	Disease 234 242	XY 性发育异常
+T5	Disease 244 259	Klinefelter 综合征
+T6	Disease 261 272	先天性肾上腺皮质增生症
+T7	Disease 274 282;283 285	Turner 综 合征
+T8	Disease 287 303	特发性低促性腺激素性性腺功能减退
+T9	Disease 306 313	多囊卵巢综合征
+T10	Disease 1255 1259	性腺疾病
+T11	Drug 1356 1365	促性腺激素释放激素
+T12	Drug 1366 1370	GnRH
+T13	Disease 1382 1386	性腺疾病
+T14	Disease 1417 1421	性腺疾病
+T15	Disease 1508 1516	XY 性发育异常
+T16	Disease 1605 1610	性发育异常
+T17	Reason 1689 1693	基因缺陷
+T18	Disease 1695 1701	性腺发育障碍
+T19	Reason 1702 1712;1713 1714	雄激素合成 /作用障 碍
+T20	Disease 1716 1725	内外生殖器发育不良
+T21	Disease 1775 1779	性腺肿瘤
+T22	Disease 1842 1850	DHH 基因突变
+T23	Disease 1867 1872	精原细胞瘤
+T24	Anatomy 1916 1918	性腺
+T25	Disease 1925 1940	Klinefelter 综合征
+T26	Disease 1941 1943	KS
+T27	Disease 1945 1947	KS
+T28	Reason 2000 2002	炎症
+T29	Disease 2038 2040	KS
+T30	Disease 2043 2046	代谢病
+T31	Disease 2085 2087	KS
+T32	Disease 2115 2117	KS
+T33	Reason 2143 2145	炎症
+T34	Disease 2165 2167	KS
+T35	Test 2171 2173	腰围
+T36	Disease 2176 2178;2179 2182	胰岛 素抵抗
+T37	Reason 2183 2188	糖代谢紊乱
+T38	Test 2195 2201	炎症因子水平
+T39	Test_Value 2201 2202;2203 2204	增 高
+T40	Test 2205 2208	心电图
+T41	Symptom 2218 2230	QT 间期缩短与心室颤动
+T42	Disease 2232 2237	心源性猝死
+T43	Disease 2338 2344	先天发育异常
+T44	Disease 2345 2349	智力缺陷
+T45	Test 2352 2358	CSF2RA
+T46	Test 2376 2378	腰围
+T47	Test 2379 2385	炎症因子水平
+T48	Test 2386 2391;2392 2394	胰岛素抵抗 程度
+T49	Disease 2463 2465	KS
+T50	Disease 2506 2515	21-羟化酶缺陷症
+T51	Anatomy 2536 2542	21-羟化酶
+T52	Test 2552 2555	皮质醇
+T53	Test 2561 2564	雄激素
+T54	Anatomy 2631 2636;2637 2638	21-羟化 酶
+T55	Test 2723 2729	17-羟孕酮
+T56	Test_Value 2737 2739	升高
+T57	Test 2850 2852	孕酮
+T58	Test 2853 2857;2858 2860	17-羟 孕酮
+T59	Test 2861 2867	16-羟孕酮
+T60	Test 2871 2876	去氧皮质醇
+T61	Test 2877 2883	11-羟孕酮
+T62	Test 2890 2893	皮质酮
+T63	Test 2894 2902	11-去氧皮质醇
+T64	Test 2903 2906	皮质酮
+T65	Test 2907 2910	皮质醇
+T66	Test 2922 2927	生化标志物
+T67	Anatomy 2966 2976	睾丸肾上腺残余瘤组织
+T68	Test 3009 3019	睾丸肾上腺残余瘤组织
+T69	Test 3022 3028	17-羟孕酮
+T70	Test 3033 3038	去氧皮质醇
+T71	Test 3046 3052	11-羟孕酮
+T72	Anatomy 3060 3065	肾上腺组织
+T73	Test 3066 3069	皮质醇
+T74	Test 3074 3079	去氧皮质醇
+T75	Test 3102 3108	17-羟孕酮
+T76	Test 3115 3121	11-羟孕酮
+T77	Disease 3152 3162	Turner 综合征
+T78	Test 3174 3176;3177 3181	抗苗 勒管激素
+T79	Disease 3223 3233	Turner 综合征
+T80	Symptom 3244 3254	始基卵泡的进行性丧失
+T81	Disease 3267 3270	AMH
+T82	Disease 3278 3291;3292 3293	Turner 综合征卵巢功 能
+T83	Anatomy 3319 3321	卵巢
+T84	Disease 3330 3334	卵巢早衰
+T85	Disease 3377 3386;3387 3388	Turner 综合 征
+T86	Test 3399 3402	AMH
+T87	Test_Value 3402 3413	<4 pmol / L
+T88	Symptom 3432 3438	乏青春期发育
+T89	Disease 3453 3457	卵巢早衰
+T90	Disease 3462 3465	AMH
+T91	Disease 3468 3477;3478 3485	Turner 综合 征卵巢功能早衰
+T92	Test 3497 3502	染色体核型
+T93	Disease 3521 3525	卵巢早衰
+T94	Disease 3556 3560	卵巢早衰
+T95	Disease 3593 3610	特发性低促性腺激素性性腺功能减退症
+T96	Disease 3612 3615	IHH
+T97	Disease 3617 3620	IHH
+T98	Drug 3649 3652	性激素
+T99	Drug 3657 3661	GnRH
+T100	Drug 3668 3677	人绒毛膜促性腺激素
+T101	Drug 3695 3698	HMG
+T102	Drug 3724 3728	GnRH
+T103	Method 3729 3733	脉冲输注
+T104	Disease 3754 3757	IHH
+T105	Drug 3776 3780	GnRH
+T106	Disease 3847 3851	HHIS
+T107	Disease 3876 3879	IHH
+T108	Test 3898 3901	FSH
+T109	Test 3935 3938	FSH
+T110	Disease 3964 3967	IHH
+T111	Anatomy 3981 3988;3989 3991	下丘脑-垂体- 性腺
+T112	Anatomy 3992 3995	HPA
+T113	Anatomy 4021 4030	促性腺激素释放激素
+T114	Disease 4046 4049	IHH
+T115	Disease 4074 4077	IHH
+T116	Test 4119 4121	LH
+T117	Drug 4126 4130	基础睾丸
+T118	Anatomy 4137 4140	性腺轴
+T119	Disease 4180 4196	特发性低促性腺激素性性腺功能减退
+T120	Disease 4251 4258	多囊卵巢综合征
+T121	Disease 4259 4263	PCOS
+T122	Reason 4265 4270	胰岛素抵抗
+T123	Disease 4272 4276	PCOS
+T124	Disease 4285 4291	2 型糖尿病
+T125	Disease 4292 4294	肥胖
+T126	Disease 4297 4301;4302 4303	胰岛素抵 抗
+T127	Disease 4350 4354	PCOS
+T128	Reason 4357 4362	胰岛素抵抗
+T129	Anatomy 4389 4391;4392 4394	肌肉 因子
+T130	Anatomy 4403 4417	葡萄糖依赖性促胰岛素分泌多肽
+T131	Anatomy 4418 4421	GIP
+T132	Disease 4427 4431	PCOS
+T133	Disease 4447 4451	PCOS
+T134	Test 4472 4478	Irisin
+T135	Disease 4494 4498	PCOS
+T136	Disease 4548 4549;4550 4551	超 重
+T137	Disease 4553 4555	肥胖
+T138	Disease 4557 4561	PCOS
+T139	Disease 4583 4587	PCOS
+T140	Disease 4607 4611	PCOS
+T141	Disease 4614 4616;4617 4620	胰岛 素抵抗
+T142	Disease 4636 4640	PCOS
+T143	Disease 4649 4651	超重
+T144	Test 4665 4669	胃肠激素
+T145	Anatomy 4669 4670;4671 4678	胰 升糖素样肽 1
+T146	Anatomy 4681 4686	GLP-1
+T147	Anatomy 4691 4695	YY 肽
+T148	Anatomy 4725 4728	PYY
+T149	Disease 4756 4760	PCOS
+T150	Anatomy 4773 4778	GLP-1
+T151	Anatomy 4781 4784	PYY
+T152	Disease 4817 4821	PCOS
+T153	Drug 4849 4853	GnRH
+T154	Method 4854 4858	脉冲输注
+T155	Disease 4861 4863	肥胖
+T156	Disease 4864 4872	PCOS 不孕症
+T157	Symptom 4885 4889	月经来潮
+T158	Drug 4902 4906	GnRH
+T159	Method 4907 4911	脉冲输注
+T160	Disease 4919 4923	PCOS
+T161	Anatomy 4926 4929	下丘脑
+T162	Drug 4930 4934	GnRH
+T163	Drug 4957 4961	GnRH
+T164	Method 4962 4966	脉冲输注
+T165	Disease 4975 4979	PCOS
+T166	Disease 4992 5002	Turner 综合征
+T167	Disease 5004 5009	代谢综合征
+T168	Disease 5018 5028	Turner 综合征
+T169	Disease 5029 5041	先天性卵巢发育不全综合征
+T170	Disease 5051 5056	性发育障碍
+T171	Disease 5063 5068	代谢综合征
+T172	Disease 5072 5074	肥胖
+T173	Disease 5075 5080	糖代谢异常
+T174	Disease 5150 5156;5157 5160	Turner 综合征
+T175	Disease 5162 5167	代谢综合征
+T176	Disease 5176 5179	高血压
+T177	Disease 5181 5185	血脂异常
+T178	Reason 5207 5212	中央型肥胖
+T179	Disease 5213 5218	代谢综合征
+T180	Anatomy 5248 5251	胰岛素
+T181	Test 5259 5261	血糖
+T182	Reason 5267 5272	胰岛素抵抗
+T183	Test 5284 5286	腰围
+T184	Test 5286 5289	身高比
+T185	Test 5290 5294	WHtR
+T186	Disease 5307 5317	Turner 综合征
+T187	Disease 5319 5323	代谢异常
+T188	Disease 5344 5353	20 裂解酶缺陷症
+T189	Test 5360 5367	17α 羟化酶
+T190	Disease 5373 5382	20 裂解酶缺陷症
+T191	Disease 5383 5390;5391 5395	先天性肾上腺皮 质增生症
+T192	Symptom 5479 5488	第二性征发育多较差
+T193	Disease 5512 5515	高血压
+T194	Disease 5516 5519	低血钾
+T195	Disease 5532 5535	高血压
+T196	Disease 5536 5539	低血钾
+T197	Disease 5541 5544	高血压
+T198	Test 5573 5575	孕酮
+T199	Test_Value 5586 5590	明显升高
+T200	Disease 5593 5596	高血压
+T201	Test 5613 5615	血压
+T202	Test_Value 5615 5617	升高
+T203	Level 5632 5634	轻重
+T204	Symptom 5635 5638	低血钾
+T205	Symptom 5639 5642	高孕酮
+T206	Test 5644 5648	ACTH
+T207	Disease 5690 5694	性腺疾病
+T208	Disease 5749 5753	性腺疾病
+T209	Disease 5849 5853	性腺疾病
+T210	Disease 5906 5908;5909 5911	性腺 疾病
+T211	Disease 5989 5993	性腺疾病
+T212	Disease 6001 6005	PCOS
+T213	Disease 6006 6012;6013 6016	Turner 综合征

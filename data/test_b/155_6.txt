@@ -1,0 +1,320 @@
+临床研究
+基金项目:青岛经济技术开发区重点科技发展项目(2013-1-85)
+分化型甲状腺癌患者停用甲状腺激素后血脂
+与甲状腺功能的相关性分析
+杜娜  王忠超  盛琦  于帅  王韵阳  王颜刚  张贤军  赵世华
+[摘要]   目的  分析分化型甲状腺癌术后患者首次131 I 治疗前暂停甲状腺激素替代治疗后血脂水平
+与甲状腺功能的相关性。 方法 65 例分化型甲状腺癌(differentiated thyroid carcinoma, DTC)术后患者,于
+手术前、停用左甲状腺激素钠(L-T4)前及停药 3 周后检测血清游离甲状腺素(FT4)、游离三碘甲酰原氨酸
+(FT3)、促甲状腺素(TSH)、总胆固醇、三酰甘油、高密度脂蛋白胆固醇(HDL-C)、低密度脂蛋白胆固醇
+(LDL-C),对患者的血脂水平与甲状腺功能的相关性进行分析。 结果 手术前 HDL-C 与 TSH 呈正相关
+( r=0. 273,P=0. 041),其他血脂水平与甲状腺功能无明显相关;停药前血脂水平与甲状腺功能无明显相关
+性;停药后总胆固醇水平与 FT3、FT4水平呈显著负相关( r 分别为-0. 321 和-0. 415, 均 P<0. 01);LDL-C 与
+FT4呈显著负相关( r= -0. 347, P=0. 005);HDL-C 与 FT3、FT4呈显著负相关( r 分别为-0. 452 和-0. 478, 均
+P<0. 01),与 TSH 水平呈显著正相关( r = 0. 342, P = 0. 005)。 TSH≥50 mU / L 组 LDL-C 水平高于 TSH<50
+mU / L 组,差异具有统计学意义(P<0. 05),两组的总胆固醇、三酰甘油、HDL-C 水平差异无统计学意义(P>
+0. 05)。 结论 暂停甲状腺激素治疗后,随着 TSH 的升高,HDL-C 水平升高;HDL-C、总胆固醇、LDL-C 水平
+均与 FT3、FT4呈显著负相关。 停药后患者血脂代谢异常与甲状腺功能减退相关。
+[关键词]   分化型甲状腺癌; 甲状腺功能减退症; 放射性碘治疗; 脂代谢紊乱
+Relationship between serum lipid profile and thyroid function after thyroid hormone withdrawal in patients
+with differentiated thyroid carcinoma Du Na, Wang Zhongchao, Sheng Qi, Yu Shuai, Wang Yunyang, Wang
+Yangang, Zhang Xianjun, Zhao Shihua. Department of Endocrinology, the Affiliated Hospital of Qingdao University,
+Qingdao 266003, China
+[Abstract]   Objective   To observe the relationship between serum lipid concentration profiles and thyroid
+function after thyroid hormone withdrawal(THW) in patients with differentiated thyroid carcinoma(DTC). Methods
+Sixty-five post-operative DTC patients who prepared to receive radioiodine ablation were included in this study. Serum
+thyroid hormones ( TSH, FT4, FT3 ) and lipid profile [ total cholesterol ( TC), triglycerides ( TG), low-density
+lipoprotein-cholesterol(LDL-C), and high-density lipoprotein-cholesterol(HDL-C)] levels were measured before
+and 3 weeks after THW. The relationship between serum lipid profile concentrations and thyroid hormone levels were
+measured. Results Before surgery, HDL-C level showed a significant positive correlation with TSH level( r=0. 273,
+P=0. 041), whereas other lipid profile did not show any significant correlation with thyroid hormones levels. Before
+THW, no correlation was observed between thyroid hormones and lipid profile. After 3 weeks忆 THW, the TC level was
+correlated with FT4 and FT3 levels( r were -0. 321 and -0. 415, respectively, both P<0. 01) . The LDL-C level was
+correlated with FT4 level( r=-0. 347, P=0. 005). The HDL-C level was significantly correlated with TSH, FT3, and
+FT4 levels ( r were 0. 342, -0. 452, and -0. 478, all P<0. 01) . The serum LDL-C level in patients with TSH above
+50 mU / L(n=50) was higher than that in patients with TSH below 50 mU / L(n = 15, P = 0. 001), while serum TC,
+TG and HDL-C levels were not significantly different between those two groups(P>0. 05) . Conclusion The serum
+lipid profile varies with the change of serum thyroid hormones after THW in postoperative DTC patients.
+[Key words]  Differentiated thyroid carcinoma; Hypothyroidism; Radioiodine ablation; Lipid profile
+(Chin J Endocrinol Metab, 2016, 32: 112-116)
+分化型甲状腺癌(differentiated thyroid carcinoma,
+DTC)患者经外科手术后常规接受左甲状腺激素钠(L-
+T4)替代治疗,部分患者需要应用131 I 清除甲状腺残余
+灶,以减少肿瘤复发,降低死亡率、提高 DTC 转移灶或
+复发病灶的疗效[1]。 在131 I 治疗前,美国甲状腺学会
+(America Thyroid Association,ATA)指南推荐停用甲状
+腺激素 3 周以上,确保患者 TSH>30 mU / L,刺激甲状
+腺滤泡上皮和 DTC 细胞摄取131 I[2]。 停用甲状腺激素
+治疗(thyroid hormone withdrawal, THW)后患者会出现
+不同程度的甲状腺功能减退表现,由此可能对血脂代
+谢产生影响。 而血脂代谢紊乱,易导致动脉粥样硬化,
+增加心脑血管疾病的危险性[3]。 本研究回顾性分析
+了 65 例 DTC 患者暂停甲状腺激素替代治疗后的血脂
+水平与甲状腺功能,对其相关性进行了分析。
+对象和方法
+一、 对象
+收集 2013 年 10 月至 2014 年 12 月至我院核医学
+科行首次131 I 治疗的 DTC 术后患者 65 例,年龄 18 ~ 80
+岁[平均年龄(47. 1 ± 11. 8)岁],男 11 例[平均年龄
+(49. 8 ± 8. 9)岁]:女 54 例[平均年龄(46. 5 ± 12. 3)
+岁]。 入院后所有患者均签署知情同意书。
+1. 纳入标准:(1)已接受甲状腺全切或次全切除
+术;(2)术后病理学诊断结果为分化型甲状腺癌;(3)
+具有行131 I 清除甲状腺残余灶治疗的良好适应证;(4)
+甲状腺切除术后开始 L-T4 替代治疗,131 I 治疗前停用
+L-T4至少 3 周;(5)行131 I 清甲治疗前均忌碘饮食 /低碘
+饮食(<50 μg / d)至少 1 ~ 2 周,治疗等待期内未应用
+含碘药物(如胺碘酮等)及含碘造影剂;(6) 131 I 清甲治
+疗前未服用调脂药物。
+2. 排除标准:(1)停用 L-T4时间不足 3 周;(2)未
+控制饮食或治疗等待期内应用含碘药物或含碘造影
+剂;(3)合并其他恶性肿瘤、原发性高脂血症、继发性
+高脂血症、糖尿病、肥胖或其他内分泌疾病;(4)数据
+资料不全者。
+二、 方法
+所有患者于手术前、停用 L-T4前及停药 3 周后检
+测血清 TSH、游离甲状腺素(FT4)、游离三碘甲酰原氨
+酸(FT3)、总胆固醇、三酰甘油、高密度脂蛋白胆固醇
+(HDL-C)、低密度脂蛋白胆固醇(LDL-C);采用罗氏全
+自动电化学发光仪测定 TSH、FT4、FT3;采用日立 7600
+全自动生化分析仪测定血脂水平。
+三、 统计学处理
+应用 SPSS 17. 0 统计软件进行数据分析,计量资
+料用 x- ± s 表示;组间比较采用 t 检验,相关分析采用
+Pearson 积矩相关,不符合正态分布者采用 Spearman
+秩相关分析。 P<0. 05 为差异有统计学意义。
+结    果
+一、 DTC 患者手术前的甲状腺功能与血脂水平
+本院实验室血清 TSH 正常参考值范围是 0. 27 ~
+4. 2 mU / L,以 TSH 的正常高值 4. 2 mU / L 为界限,将
+DTC 患者手术前的甲状腺功能分为 TSH<4. 2 mU / L
+组和 TSH≥4. 2 mU / L 组,发现 TSH<4. 2 mU / L 组和
+TSH≥4. 2 mU / L 组的甲状腺激素水平具有显著性差
+异(P<0. 05),血脂水平无明显差异(P>0. 05,表 1)。
+二、 DTC 患者手术前及停药前后的甲状腺功能和
+血脂水平变化(表 2)
+DTC 患者手术前、停药前及停药后 TSH 平均值分
+别为(2. 170 ±1. 566) mU / L、(0. 691 ±0. 582) mU / L 和
+(87. 949 ±2. 707) mU / L;停药后 FT4和 FT3较停药前下
+降明显(P<0. 05) ,而三酰甘油、总胆固醇、LDL-C 和
+表 1  DTC 患者手术前 TSH<4. 2 mIU / L 组和 TSH≥4. 2 mIU / L 组的甲状腺功能与血脂水平(x-± s)
+Tab 1  Thyroid function levels and lipid profile concentrations before surgery in DTC patients(x-± s)
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+TSH
+(mIU / L)
+FT4
+(pmol / L)
+FT3
+(pmol / L)
+三酰甘油
+Triglycerides
+(mmol / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+TSH<4. 2 mIU / L 51(7 / 44) 1. 729 ± 0. 141 16. 821 ± 0. 270 5. 122 ± 0. 091 1. 306 ± 0. 113 4. 605 ± 0. 117 1. 329 ± 0. 040 2. 667 ± 0. 095
+TSH≥4. 2 mIU / L 14(4 / 10) 5. 262 ± 0. 526a 15. 307 ± 0. 554a 4. 387 ± 0. 172a 1. 619 ± 0. 292 4. 803 ± 0. 634 1. 416 ± 0. 117 2. 634 ± 0. 550
+注:DTC:分化型甲状腺癌 Differentiated thyroid carcinoma;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆
+固醇 Low-density lipoprotein-cholesterol;vs TSH<4. 2 mIU / L, aP<0. 05
+表 2  DTC 患者手术前及停药前后的甲状腺功能和血脂水平(x-± s)
+Tab 2  Thyroid function levels and lipid profile concentrations before surgery, before and 3 weeks after withdrawal of drug in postoperative DTC
+patients(x-± s)
+分组
+Group
+例数(男 / 女)
+n(Male / Female)
+TSH
+(mIU / L)
+FT4
+(pmol / L)
+FT3
+(pmol / L)
+三酰甘油
+Triglycerides
+(mmol / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+手术前
+Before operation 65(11 / 54) 2. 170 ±1. 566 16. 632 ±1. 901 5. 030 ±0. 658 1. 345 ±0. 790 4. 630 ±0. 944 1. 340 ±0. 283 2. 663 ±0. 784
+停药前
+Before withdrawal of drug 65(11 / 54) 0. 691 ±0. 582 18. 975 ±4. 383 5. 698 ±0. 708 1. 407 ±1. 156 3. 893 ±1. 745 1. 460 ±0. 279 2. 154 ±0. 707
+停药后
+After withdrawal of drug 65(11 / 54) 87. 949 ±2. 707
+ab 2. 967 ±0. 373ab 1. 321 ±0. 121ab 2. 413 ±0. 306ab 7. 561 ±0. 267ab 1. 833 ±0. 055ab 4. 335 ±0. 176ab
+注:DTC:分化型甲状腺癌 Differentiated thyroid carcinoma;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆
+固醇 Low-density lipoprotein-cholesterol;与手术前比较 vs Before operation, aP<0. 05;与停药前比较 vs Before withdrawal of drug, bP<0. 05
+表 3  停药后 TSH<50 mIU / L 组和 TSH≥50 mIU / L 组血脂水平(x-± s)
+Tab 3  Thyroid function levels and lipid profile concentrations after THW in postoperative DTC patients(x-± s)
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+TSH
+(mIU / L)
+FT4
+(pmol / L)
+FT3
+(pmol / L)
+三酰甘油
+Triglycerides
+(mmol / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+TSH<50 mIU / L 11(3 / 8)  29. 546 ± 8. 721 10. 312 ± 6. 059 3. 384 ± 0. 616 3. 988 ± 1. 378 6. 084 ± 0. 615 1. 422 ± 0. 179 2. 770 ± 0. 282
+TSH≥50 mIU / L 54(8 / 46) 92. 816 ± 1. 721a 2. 355 ± 1. 543a 1. 149 ± 0. 092a 2. 282 ± 0. 309 7. 684 ± 0. 280 1. 867 ± 0. 056 4. 465 ± 0. 179a
+注:HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low-density lipoprotein-cholesterol;vs TSH<50
+mIU / L, aP<0. 05
+HDL-C 均明显升高(P<0. 05)。 不同性别患者甲状腺
+功能及血脂水平无明显差异。
+三、 DTC 患者停用 L-T4 后 TSH < 50 mU / L 组和
+TSH≥50 mU / L 组的甲状腺功能和血脂水平比较(表
+3)
+单次外源性 TSH 刺激试验提示 TSH 在 51 ~ 82
+mU / L 时可对甲状腺细胞达最大刺激,本文以 50
+mU / L 为界点,将患者分为 TSH<50 mU / L 组(n = 11)
+和 TSH≥50 mU / L 组(n = 54)。 t 检验结果提示,TSH
+≥50 mU / L 组的 LDL-C 水平高于 TSH<50 mU / L 组,差
+异具有统计学意义(P<0. 05),两组的总胆固醇、三酰
+甘油、HDL-C 水平差异无统计学意义(P>0. 05)。
+四、 DTC 患者手术前及停药前后血脂水平与甲状
+腺功能的相关分析结果
+对 DTC 患者手术前血脂水平与甲状腺功能的相
+关分析发现,除 HDL-C( r = 0. 273,P = 0. 041)外,血脂
+水平与甲状腺功能无明显相关性。
+停药前血脂水平与甲状腺功能无明显相关性;停
+药 3 周后 HDL-C 与 TSH 水平呈显著正相关 ( r =
+0. 342, P=0. 005),与 FT3、FT4 呈显著负相关( r 分别
+为-0. 452 和-0. 478, 均 P<0. 01)。 总胆固醇水平与
+FT3、FT4 水平呈显著负相关 ( r 分别为 - 0. 321 和
+-0. 415, 均 P<0. 01);LDL-C 与 FT4呈显著负相关( r =
+-0. 347, P=0. 005)。
+五、 DTC 患者停药前后血脂异常的发生率比较
+根据《中国成人血脂异常防治指南》 [4],血脂代谢
+异常的诊断标准为:三酰甘油≥2. 26 mmol / L,总胆固
+醇≥6. 22 mmol / L,LDL-C≥4. 14 mmol / L,或 HDL-C≤
+1. 55 mmol / L。 结果表明,L-T4 治疗期间,单纯高三酰
+甘油血症发生率为 12. 3% ,单纯高胆固醇血症的发生
+率为 3. 1% ,混合型高脂血症发生率为 3. 1% ;停药后
+单纯高三酰甘油血症发生率为 10. 8% ,单纯高胆固醇
+血症的发生率为 58. 5% ,混合型高脂血症发生率为
+15. 4% 。 停药后高脂血脂的发生率较停药前增加,以
+高胆固醇血症最为显著。
+讨    论
+甲状腺癌是内分泌系统最常见的恶性肿瘤。 近年
+来,甲状腺癌的发病率呈明显上升趋势,并有年轻化的
+倾向[5]。 美国 SEER 数据库显示,2009 年美国甲状腺
+癌发病率为 14. 3 / 10 万[6],国内流行病学调查显示青
+岛地区乳头状甲状腺癌的发病率呈逐年递增的趋
+势[7]。 甲状腺癌根据肿瘤的分化程度分为分化型和
+未分化型。 DTC 是最常见的甲状腺恶性肿瘤,包括乳
+头状甲状腺癌( papillary thyroid carcinoma, PTC)和滤
+泡状甲状腺癌 ( follicular thyroid carcinoma, FTC)。
+DTC 的治疗方法主要包括:手术治疗、术后131 I 治疗和
+TSH 抑制治疗。131 I 是 DTC 术后治疗的重要手段之一,
+术后辅助放射性碘治疗,清除残余甲状腺组织,可减少
+肿瘤复发,降低死亡率、提高 DTC 转移灶或复发病灶
+的治疗疗效[1]。 在131 I 治疗前,ATA 指南推荐停用甲
+状腺素 3 周以上,确保患者 TSH>30 mU / L,刺激甲状
+腺滤泡上皮和 DTC 细胞摄取131 I。 停用甲状腺激素替
+代治疗后患者会出现不同程度的甲减表现,由此可能
+对血脂代谢产生影响。
+美国明尼苏达州的一项研究显示,甲状腺功能减
+退患者中有 56%发生单纯高胆固醇血症,34%为高胆
+固醇血症合并高三酰甘油血症,仅 1. 5% 表现为单纯
+高三酰甘油血症,其余 5. 8%患者的血脂水平正常[8]。
+甲状腺功能对三酰甘油和 HDL-C 的影响研究一直存
+在争议[9]。 HUNT 研究表明,在甲状腺功能正常的患
+者中,血清三酰甘油、总胆固醇、LDL-C 随着 TSH 的升
+高而升高,HDL-C 随着 TSH 的升高而降低[10]。 甲状
+腺激素能够通过影响肝脂肪酶(HL)的活性、转运蛋白
+及 LDL 受体的表达参与总胆固醇、三酰甘油及脂肪酸
+的合成、转运、分解[11]。 血脂代谢紊乱,易导致内皮功
+能受损,出现动脉粥样硬化,增加心脑血管疾病的危险
+性[3]。 国内外研究证实,暂停甲状腺激素替代治疗
+后,甲状腺癌患者的血脂水平普遍升高[12-13]。 也有研
+究证实,DTC 患者停药后短期甲减可致心血管事件发
+生率升高[14-15],但是这些心血管事件的发生是否是由
+于停药后短期甲减引起的高血脂而导致的,并无相关
+的机制研究。
+DTC 术后患者行131 I 治疗前停用甲状腺激素,造
+成了一种特殊类型的严重甲状腺功能减退状态。 这种
+短暂但严重的甲状腺功能减退状态,对患者的甲状腺
+功能、血脂的影响的研究很少。 本研究回顾性观察了
+65 例 DTC 患者手术前及停药前后的甲状腺功能与血
+脂水平,并对其相关性进行了分析。 结果表明,停药后
+高胆固醇血症、混合型高脂血症的发生率较停药前增
+加。 手术前只有 HDL-C 与 TSH 呈相关性,手术前甲
+状腺功能与血脂无明显相关性,停药 3 周后,总胆固醇
+与 FT3、FT4水平呈显著负相关,总胆固醇与 TSH 无明
+显相关性。 既往研究表明,总胆固醇随着 TSH 的升高
+而升高,由此我们推测,总胆固醇的变化可能是首先由
+FT3、FT4的变化引起的,但其机制有待进一步研究。
+停药后 HDL-C 与 TSH 呈显著正相关,HDL-C 与
+FT3、FT4呈显著负相关。 本研究发现,DTC 患者未治疗
+前,血脂水平与甲状腺功能之间无明显相关性。 停用
+甲状腺激素 3 周后,随着甲状腺激素水平的降低,总胆
+固醇和 LDL-C 水平升高,这与文献报道一致。 本研究
+并未发现三酰甘油与甲状腺功能之间的相关性。 而
+HDL-C 水平与 TSH 呈显著正相关,与甲状腺激素水平
+呈负相关关系。 研究表明,甲状腺激素能够诱导肝脏
+中胆固醇合成的限速酶———羟甲基戊二酸单酰辅酶 A
+(HMG-CoA)还原酶的表达,促进胆固醇合成,当甲状
+腺功能减退时胆固醇合成减少,但甲状腺激素水平降
+低可导致肝脏 LDL 表达减少、活性降低,使得 LDL 清
+除率减少,总的结果表现为总胆固醇和 LDL-C 水平升
+高,这与我们的研究结果相一致。 本研究中,在短暂但
+严重的甲状腺功能减退状态下,出现 HDL-C 水平的升
+高,可能是由于胆固醇酯转运蛋白 ( cholesteryl ester
+transfer protein, CETP)活性下降所致。 CETP 是调节
+胆固醇酯转运过程中的关键因素,CETP 基因突变可
+引起 HDL-C 明显升高[11]。 CETP 活性的改变能够影
+响胆固醇逆转运,CETP 活性降低,导致胆固醇酯从
+HDL-C2 向极低密度脂蛋白(VLDL)和中间密度脂蛋
+白(IDL)转运减少,同时 HDL-C2 向 HDL-C3 转运也减
+少,导致血清中 HDL-C 水平的增高。
+本文根据血清 TSH 水平将患者分为 TSH < 50
+mU / L 组(11 例)和 TSH≥50 mU / L 组(54 例),统计结
+果显示,TSH≥50 mU / L 组 LDL-C 水平高于 TSH<50
+mU / L 组,两组的总胆固醇、三酰甘油、HDL-C 水平无
+明显差异。 由此推论,停用甲状腺激素替代治疗所致
+甲状腺功能减退达到一定的严重程度后,LDL-C 可能
+随着 TSH 的升高而升高,但总胆固醇、三酰甘油、HDL-
+C 并不随着 TSH 的升高而变化。 对于 DTC 术后患者
+首次131 I 治疗前,停用 L-T4期间应每周检测血清 TSH,
+控制 TSH 水平的过度升高。 但是,是否缩短停药时间
+能够减少血脂异常对心脑血管的危害仍有待研究。
+目前,关于高脂血症与甲状腺癌的复发率、生存率
+的关系研究甚少,需要更进一步的临床研究证实停用
+甲状腺激素所致的高脂血症与 DTC 患者预后的关系。
+国内外研究证实重组人促甲状腺素 ( recombinant
+human TSH,rh-TSH)与停用 L-T4对 DTC 患者的131 I 治
+疗效果相当[16-17],但有效地避免了 THW 后出现的严
+重甲减及由此带来的高脂血症、食欲减退、记忆力下
+降、心率减慢等不良反应[18-19]。 因此,为了避免 DTC
+患者131 I 治疗前暂停甲状腺素替代治疗后短期甲减对
+血脂代谢的影响,可以应用 rh-TSH 提高血清 TSH 水
+平,刺激甲状腺组织摄碘,同时避免了停用甲状腺激素
+所带来的一系列甲状腺功能减退的症状及并发症的发
+生。
+综上所述,DTC 患者行131 I 治疗前,停用甲状腺激
+素造成的短暂甲状腺功能减退状态,能够导致血脂代
+谢紊乱。 但是,是否由此增加了心脑血管事件的发生
+率? 缩短停药时间是否能够减少血脂异常对心脑血管
+的危害? 这些问题有待我们今后深入的研究。

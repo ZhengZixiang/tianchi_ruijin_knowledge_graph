@@ -1,0 +1,328 @@
+临床研究
+项目基 金: 国 家 重 点 基 础 研 究 发 展 计 划 ( 973 计 划 ) 项 目
+(2012CB722400, 2012CB722403)
+室(蔡雯);新疆医科大学第一附属医院(何方平、姚华);新疆克拉玛±
+市中心医院干部病房(高锦凤)
+中青年健康人群生理血清尿酸水平与肾功能
+下降的相关性分析
+蔡雯  何方平  高锦凤  姚华
+[摘要]   目的  研究中青年体检人群生理血清尿酸水平与肾小球率过滤的相关性,探讨生理尿酸水
+平升高对肾功能下降的预测作用。 方法  采用横断面调查方法,调查克拉玛±市社区体检人群 6 532 例和
+新疆医科大学第一附属医院体检人群 2 402 例,对研究对象进行问卷调查获取人口学资料,检测血液以及
+肝、肾功能生化指标;同时采用前瞻性队列研究方法,选择 2008 年新疆医科大学第一附属医院中青年肾功
+能正常健康体检人群 752 例,随访 3 年后其发生肾功能下降情况及影响因素。 结果  在横断面调查中,生
+理血清尿酸水平均稳定成为肾小球滤过率下降的独立危险因素。 按性别、年龄进行分层后,两组人群中除
+了第 1 组 45 岁以上女性人群外,其余各组人群生理血清尿酸均为估计肾小球滤过率(eGFR)下降的危险因
+素。 队列研究中,通过随访 3 年后肾功能下降的发生率为 15. 40% ,生理血清尿酸水平为肾小球滤过率下
+降的独立危险因素。 结论 生理水平尿酸升高与肾脏功能下降密切相关且对早期肾功能下降具有预测价
+值。
+[关键词]   尿酸; 肾小球滤过率; 肾功能下降; 中青年
+Association of physiological level of serum uric acid with reduced renal function in young and middle-aged
+healthy people     CAI Wen*, HE Fang-ping, GAO Jin-feng, YAO Hua. *Clinical Nursing Faculty, Nursing
+College, Xinjiang Medical University, Urumqi 830000, China
+[Abstract]  Objective  To investigate the association of serum uric acid level with glomerular filtration rate
+and explore the predictive value of the physiological uric acid levels for reduced renal function. Methods A total of
+6 532 subjects from Karemary community and 2 402 subjects from the First Affiliated Hospital of Xinjiang Medical
+University were enrolled. All subjects were surveyed with questionnaire and their serum biochemical indices and liver
+functions were measured. Meanwhile, a cohort study was conducted, 752 subjects with normal renal function were
+selected from young and middle-aged healthy people in 2008. During the 3-year follow-up, the incidence of reduced
+renal function and the risk factors of estimated glomerular filtration rate(eGFR)were analyzed. Results Serum uric
+acid(SUA)was the independent risk factor of reduced GFR in cross-sectional analysis. The 2 groups were stratified by
+sex and age, except for female population over 45 years old in the first group, the level of physiological serum uric acid
+was the risk factor for decreased eGFR in the rest of groups. During 3-year follow-up, the incidence of reduced renal
+function was 15. 40% and SUA was the independent risk factor of decreased eGFR. Conclusions The concentration
+of physiological serum uric acid was closely related with renal function, and the increase in SUA whthin normal range
+had an important early predictive value for decreased GFR.
+[Key words]  Uric acid; Glomerular filtration rate; Reduced renal function; Young and middle-aged people
+(Chin J Endocrinol Metab, 2013, 29: 490-493)
+全球的慢性肾脏病(chronic kidney disease, CKD)
+患病率逐年增长。 由于肾脏病早期的症状和特征不明
+显,58. 7% ~ 89. 7% 的 CKD 患者是通过筛查发现的。
+以尿素氮、血肌酐检测肾脏功能指标为时太晚,不利于
+CKD 早期防治。 据北京、上海的不完全调查,约有三
+分之二的肾脏病患者首次就诊时血肌酐已超过 176. 8
+μmol / L,有四分之一的患者超过 530. 4 μmol / L,肾功
+能已受到严重损害。 因此早期发现和诊断,采取各种
+积极措施干预,对有效延缓肾功能损害具有重大的意
+义。
+尿酸在人体内是嘌呤代谢的终产物,是一种抗氧
+化剂,能有效清除羟自由基、超氧阴离子和单态氧的功
+能,防止细胞外超氧化物歧化酶的降解,抑制活性
+氧引发的一系列氧化应激损伤 [1] 。 近年来血清尿
+酸水平(serum uric acid, SUA)与心血管疾病、 肾脏疾
+病、 代谢综合征等关系备受关注,而这些疾病又与氧
+化应激增加、慢性炎症反应以及胰岛素抵抗相关[2]。
+Domrongkitchaiporn 等[3]进行了 12 年的随访研究表明
+高尿酸血症可作为慢性肾病发展的危险因素。 波士顿
+塔夫茨-新英格兰医学中心在对 13 338 例研究对象的
+长期随访中发现高尿酸血症是引起美国人肾脏疾病的
+独立危险因素[3]。 SUA 是肾功能异常的独立危险因
+素,而且其风险甚至高于尿蛋白量对肾功能的影
+响[4]。 然而,SUA 与肾功能损害的关系存在争议。 在
+MDRD 等[5,6]研究发现 SUA 水平与慢性肾脏疾病的发
+生率无相关性。 See 等[7]的研究分析 28 745 名年龄在
+20 ~ 49 岁的青年人发现 SUA 与 CKD 的发生无关。 尿
+酸的增高是否为肾功能损害的危险因素尚不明确。 因
+此,明确 SUA 与肾功能的关系,通过调整尿酸水平来
+早期预防与控制肾功能损害具有重要的意义。
+由于高血压、糖尿病是 SUA 与肾功能下降关联的
+潜在混杂因素,另外国内外研究已证实年龄是 CKD 发
+生和发展的不可调节因素,随着年龄的增长,肾脏疾病
+的发病率将不断升高[8]。 采用横断面调查及前瞻性
+队列研究方法,拟通过对中青年体检人群研究,探讨生
+理尿酸水平与肾功能的相关性。
+对象和方法
+一、 对象
+第 1 组人群,新疆克拉玛±市中心医院健康体检
+中心进行健康体检者的人群。 数据来源为当地体检职
+工数据,为基于社区的特定人群的整群资料,均为无疾
+病症状的野外工作人员。 第 2 组人群,随机抽取 2011
+年 7 月至 2012 年 7 月在新疆医科大学第一附属医院
+体检中心进行健康体检者,年龄为 20 ~ 59 岁,均无血
+缘关系。 第 3 组人群,选取 2008 年肾功能正常的中青
+年健康人群 752 名进行 3 年的随访研究,年龄为 20 ~
+59 岁。
+3 组人群的尿酸水平均处于正常生理状态,剔除
+了空腹血糖高于 7. 0 mmol / L 或收缩压≥140 mm Hg(1
+mm Hg=0. 133 kPa)和(或)舒张压≥90 mm Hg 或正在
+服用降压药物者的人群。 所有患者均签署知情同意,
+其检测结果用于公共数据分析及研究用途。
+二、 方法
+所有参加者由经过培训的临床医师进行问卷调查
+(包括人口学资料),并抽取空腹静脉血,进行血液生
+化指标、肝肾功能的检测。
+1. 第 1 组检测项目包括血清总胆红素、直接胆红
+素,非直接胆红素、谷丙转氨酶、谷草转氨酶、碱性磷酸
+酶、谷氨酰转肽酶、高密度脂蛋白胆固醇(HDL-C)、低
+密度脂蛋白胆固醇(LDL-C)、甘油三酯、总胆固醇、空
+腹血糖、血肌酐、尿素氮、SUA 等生化指标,肝脏超声
+检查,乙肝,丙肝感染率,年龄,性别,族别,但未包括身
+高、体质指数、收缩压、舒张压记录,也未收集到服药等
+情况。
+2. 第 2、3 组人群检测项目包括体重、身高、体重
+指数、收缩压、舒张压等体格检查指标;HDL-C、LDL-
+C、甘油三酯、总胆固醇、空腹血糖、血肌酐、尿素氮、
+SUA、谷草转氨酶、谷丙转氨酶、血红蛋白、中性粒细胞
+计数以及淋巴细胞计数等生化指标;肝脏超声检查;年
+龄、性别、民族、疾病史及家族史等个人信息记录。
+3. 估算肾小球滤过率:留取空腹血样,采用碱性
+苦味酸法检测血肌酐,以简化的 MORD 公式计算估计
+肾小 球 滤 过 率 ( estimated glomerular filtration rate,
+血肌酐(mg / dl) -1. 154×年龄(岁) -0. 203×(0. 742 女性)。
+4. 相关疾病的诊断定义:(1)高血压诊断按照《美
+国预防、检测、评估与治疗高血压全国联合委员会第七
+次报告》(JNCV喻)标准;两次测量的平均血压值收缩
+压≥140 mm Hg 和(或)舒张压≥90 mm Hg 或正在服
+用降压药物者。 ( 2 ) 血脂代谢异常: HDL-C < 1. 1
+mmol / L, LDL-C > 3. 1 mmol / L, 甘油三酯高于 2. 0
+mmol / L;以上任何一项符合的体检个体定义为血脂代
+谢异常。 (3)血糖异常:空腹血糖>7. 0 mmol / L。 (4)
+肌酐异常定义>133 mmol / L。 (5)超重:体重指数≥24
+kg / m2,肥胖:体重指数≥28 kg / m2。 (6)肾功能下降定
+肝定义:体检超声提示有肝脏脂肪浸润,无论轻度、中
+度、重度,均按脂肪肝,未报告肝脏脂肪变的,则定义为
+无脂肪肝。
+三、 统计学处理
+数据由双人双份录入计算机,并经过逻辑差错和
+一致性检查,采用 SPSS 13. 0 统计软件包进行分析。
+计量资料采用均数、标准差或中位数、四分位数描述,
+计数资料采用百分比描述。 采用多元逐步回归分析肾
+小球滤过率的独立影响因素,检验水准 α=0. 05。
+结    果
+一、 一般情况及健康资料
+第 1 组人群共收集资料完整者 6 532 名,年龄
+(38. 0 ±8. 0)岁(20 ~ 59 岁);第 2 组人群收集 2 402 例
+作为研究对象,年龄(38. 9 ± 10. 0)岁(20 ~ 59 岁)。 人
+表 1  两组人群临床和实验室指标特征
+Tab 1  Clinical characteristics and laboratory findings of 2 groups
+组别
+Group
+例数
+(男 / 女)
+n
+(Male / Female)
+年龄
+(岁)
+Age
+(year)
+体重指数
+Body mass
+index
+(kg / m2)
+收缩压
+Systolic blood
+pressure
+(mm Hg)
+舒张压
+Diastolic blood
+pressure
+(mm Hg)
+血清肌酐
+Serum creatinine
+(μmol / L)
+谷氨酰转肽酶
+γ-glutamyl
+transpeptidase
+(U / L)
+空腹血糖
+Fasting plasma
+glucose
+(mmol / L)
+1 6 532(3 449 / 3 083) 38. 0 ± 8. 0 - - - 59. 86 ± 21. 68 27. 15 ± 9. 23 4. 57 ± 0. 63
+2 2 042(1 151 / 891) 38. 9 ± 10. 0 23. 97 ± 3. 42 119 ± 15 77 ± 11 68. 72 ± 14. 85 - 5. 09 ± 0. 52
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+血清尿酸
+Serum
+uric acid
+(μmol / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+甘油三酯
+Triglycerides
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+中性粒细胞数
+Neutrophils
+(10-9 / L)
+1 6 532(3 449 / 3 083) 223. 02 ± 72. 13 4. 56 ± 1. 02 1. 55 ± 0. 98 1. 31 ± 0. 41 2. 64 ± 0. 86 -
+2 2 042(1 151 / 891) 295. 53 ± 67. 04 4. 55 ± 0. 93 1. 54 ± 1. 19 1. 28 ± 0. 36 2. 77 ± 0. 75 3. 75 ± 1. 27
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+淋巴细胞数
+Lymphocytes
+(10-9 / L)
+血红蛋白
+Hemoglobin
+(g / L)
+尿素氮
+Blood urea
+nitrogen
+(mmol / L)
+谷草转氨酶
+Aspartate
+transaminase
+(U / L)
+谷丙转氨酶
+Alanine
+transaminase
+(U / L)
+eGFR
+(M,Q)
+1 6 532(3 449 / 3 083) - - 4. 94 ± 1. 09 19. 26 ± 10. 23 21. 98 ± 14. 79 112. 41 ± 26. 43
+2 2 042(1 151 / 891) 2. 05 ± 0. 60 144. 34 ± 16. 04 5. 01 ± 1. 35 20. 21 ± 8. 83 23. 13 ± 18. 07 109. 87 ± 23. 99
+注:1 mm Hg=0. 133 kPa;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low-density lipoprotein-
+cholesterol;eGFR:估计肾小球滤过率 Estimated glomerular filtration rate
+口学及实验室资料如表 1 所示。
+二、 第 1 组资料中社区人群的 eGFR 水平影响的
+多因素分析
+1. 社区整体人群影响 eGFR 水平的多因素回归分
+析:eGFR 为因变量,生化、肝功能和年龄性别为自变
+量,多重线性逐步回归分析提示在整体人群中,GFR
+的危险因素包括血糖和尿酸,生理水平尿酸对 eGFR
+影响所占比重已经高于生理水平血糖对 GFR 的影响
+(β 分别为-0. 12 和-0. 072)。
+2. 不同年龄组、性别人群 eGFR 水平的多因素回
+归分析:第 1 组人群分为<45 岁、≥45 岁以及性别进
+行分层,对不同年龄组、不同性别人群分别进行多重线
+性逐步回归分析 eGFR 的相关影响因素,除了≥45 岁
+的女性人群外,其他人群 SUA 均为 eGFR 下降的危险
+因素(均 P<0. 01)。
+三、 第 2 组资料中社区人群的 eGFR 水平影响的
+多因素分析
+1. eGFR 水平影响的多因素分析:eGFR 为因变
+量,年龄、体重指数、血压、淋巴细胞计数、血红蛋白、空
+腹血糖、甘油三酯、总胆固醇、LDL-C、HDL-C、尿素氮、
+SUA 为自变量多重线性逐步回归分析提示 eGFR 的危
+险因素包括年龄、SUA、尿素氮、性别、血红蛋白(均 P<
+0. 01)。
+2. 不同年龄组、性别人群 eGFR 水平的多因素回
+归分析:第 2 组人群分为<45 岁、≥45 岁以及性别进
+行分层,对不同年龄组、不同性别人群分别进行多重线
+性逐步回归分析 eGFR 的相关影响因素,SUA 均为
+eGFR 下降的危险因素(均 P<0. 01)。
+3. 随访人群 eGFR 的影响因素分析:对第 3 组人
+群进行 3 年的随访,随访期间肾功能下降发生率为
+15. 40% 。 将生理水平血尿酸根据四分位数进行分组,
+男性: Q1 ≤ 277. 99 μmol / L, Q2 278. 00 ~ 326. 00
+μmol / L,Q3 326. 01 ~ 372. 10 μmol / L, Q4 > 372. 10
+μmol / L。 女性: Q1 ≤194. 19 μmol / L, Q2 194. 20 ~
+233. 00 μmol / L, Q3 233. 01 ~ 267. 00 μmol / L, Q4 >
+267. 00 μmol / L。 随访 3 年期间,随着血尿酸等级的增
+加,肾小球滤过率也随之增加。 肾功能下降发生率 Q4
+组高于 Q1、 Q2、 Q3 组,差异具有统计学意义 ( P =
+0. 024),但是 Q1、Q2、Q3 组间肾功能下降发生率的差
+异无统计学意义。 对肾功能下降水平进行多因素逐步
+回归分析,年龄、体重指数、血压、淋巴细胞计数、血红
+蛋白、空腹血糖、甘油三酯、总胆固醇、LDL、HDL、尿素
+氮、SUA 为自变量多重线性逐步回归分析,eGFR 的危
+险因素包括年龄、SUA、尿素氮、中性粒细胞计数。
+讨    论
+基于以往的研究多数关注高尿酸的致病性研究,
+且样本例数多少不一,而本研究为新疆地区中青年大
+样本健康体检人群探讨生理血清尿酸水平与肾小球滤
+过率相关性研究。 本研究结果发现生理 SUA 水平与
+eGFR 具有相关性。 首先,第 1 组资料结果表明 SUA
+是肾小球滤过率下降的独立危险因素,由于第 1 组资
+料自变量没有包含影响肾功的常见危险因素如血压、
+体重、体质指数、腰臀比等。 故在 2 组资料中引入血
+压、体质指数、谷丙转氨酶、谷草转氨酶、尿素氮、血红
+蛋白、淋巴细胞计数以及中性粒细胞计数等自变量后,
+SUA 仍是肾小球滤过率下降的危险因素。 其次,两组
+不同来源的表面健康人群在区分性别、年龄后,多因素
+分析依然获得一致结论,生理水平 SUA 与肾小球滤过
+率仍具有相关性。
+由于糖尿病和高血压是 CKD 的危险因素,同时糖
+尿病和高血压也是 SUA 升高的相关性[9]。 有实验表
+明尿酸调节内皮紊乱、肾素-血管紧张素系统的激活以
+及微血管病变导致高血压;同时尿酸诱导内皮功能紊
+乱、脂肪组织的炎症以及氧化应激改变导致糖尿病,从
+而导致新发肾脏疾病,并加速原有肾脏疾病进展。 因
+此,高血压及糖尿病可能是尿酸与慢性肾病的联系的
+介质[10]。 故在该研究中第 2 组人群中排除了高血压
+及糖尿病患者,生理 SUA 与 eGFR 下降相关。 结果仍
+表明即使尿酸在正常范围内,随着 SUA 升高也仍与肾
+功能危险增加相关。 Bellomo 等[11] 研究对 900 个血压
+正常者进行前瞻性检验发现 SUA 与 eGFR 下降的风险
+增加相关。 Zhang 等[12] 的研究是对 1 410 名 eGFR 基
+线人群中排除高血压或糖尿病患者进行 SUA 与肾功
+能下降的相关性进行 4 年随访研究,也同样发现即使
+SUA 在正常范围与肾功能危险增加相关,与本研究结
+果一致。 这可能表明尿酸将直接导致肾损伤,他可通
+过内皮功能、高肾素血管紧张素醛固酮活性进行调节。
+尿酸可导致急慢性肾病而直接导致肾损害。
+年龄本身是肾脏功能减退的独立因素,亚洲文化
+中,45 岁被认为是肾脏功能由盛到衰弱的转折点。 本
+研究将两组人群分为<45 岁和≥45 岁人群分组后,进
+行多元分析结果显示两组人群中除了第 1 组人群中≥
+45 岁女性外,其余年龄、性别组血清生理性尿酸水平
+均与肾小球滤过率呈负相关性,即随着生理水平 SUA
+升高,eGFR 下降。 且第 2 组人群在年龄≥45 岁人群
+中尿酸水平升高是 eGFR 下降的最主要危险因素,甚
+至超过了年龄的影响,该结果与 Chien 等[13] 研究结果
+一致,Satirapoj 等[14] 对 5 558 名研究对象进行横断面
+研究也得到类似结果,尿酸水平的增高与肾小球滤过
+率下降密切相关,权重高于年龄对 eGFR 的影响。 因
+此,再次证明 SUA 水平增高为 eGFR 下降的危险因素。
+通过对肾功能正常中青年健康人群的 3 年随访研
+究,肾功能下降发生率为 15. 40% ,生理水平 SUA 最高
+组 Q4 组肾功能下降高于其他组,同时多因素逐步回
+归分析得出 SUA 是 eGFR 独立危险因素,提示在生理
+水平 SUA 升高与肾功能下降发生密切相关。
+基于本观察性研究可推断生理 SUA 升高对肾脏
+功能下降具有早期预测价值,同时具有人群普适性规
+律。 对血尿酸水平进行监测有助于早期预测发现终末
+期肾病高危人群,从而进行早期预防和治疗。 从常规
+的生化学检测结果中探讨肾脏功能减退倾向有助于从
+更早期阶段发现终末期肾病高危人群,从而有利于早
+期预防和治疗,从这个角度而言,利用健康青年人群生
+化数据探讨肾脏功能衰减危险因素分析,具有一定的
+临床参考意义。

@@ -1,0 +1,155 @@
+T1	Disease 68 74	1 型糖尿病
+T2	Disease 77 83	2 型糖尿病
+T3	Anatomy 47 51	β 细胞
+T4	Anatomy 151 155	β 细胞
+T5	Anatomy 188 192	β 细胞
+T6	Anatomy 200 204	β 细胞
+T7	Anatomy 226 230	β 细胞
+T8	Anatomy 243 247	β 细胞
+T9	Anatomy 286 290	β 细胞
+T10	Anatomy 3154 3158	β 细胞
+T11	Anatomy 3172 3176	β 细胞
+T12	Anatomy 262 273	Betatrophin
+T13	Anatomy 1952 1956	脂肪组织
+T14	Anatomy 173 178	胚胎干细胞
+T15	Anatomy 179 184	多能干细胞
+T16	Anatomy 369 372	iPS
+T17	Anatomy 535 538	体细胞
+T18	Anatomy 547 549	脾脏
+T19	Anatomy 551 562	CD45+的 T 细胞
+T20	Anatomy 684 691	CD45+细胞
+T21	Anatomy 841 848	CD45+细胞
+T22	Anatomy 858 873;874 875	Oct4-GFP+CD45-细 胞
+T23	Anatomy 933 940	Oct4+细胞
+T24	Anatomy 1090 1092;1093 1095	ES 细胞
+T25	Anatomy 1118 1129	Oct4-GFP+细胞
+T26	Anatomy 1140 1147;1148 1149	内胚层样上皮细 胞
+T27	Anatomy 1173 1178;1179 1185	Oct4- GFP+细胞
+T28	Disease 1190 1193	畸胎瘤
+T29	Disease 1280 1283	畸胎瘤
+T30	Anatomy 1437 1440	体细胞
+T31	Anatomy 1449 1450;1451 1453	体 细胞
+T32	Anatomy 1472 1476	多能细胞
+T33	Anatomy 1559 1566	STAP 细胞
+T34	Anatomy 1571 1578	STAP 细胞
+T35	Anatomy 1580 1585	ES 细胞
+T36	Anatomy 1594 1599	ES 细胞
+T37	Anatomy 1602 1609	STAP 细胞
+T38	Anatomy 1673 1680	STAP 细胞
+T39	Anatomy 1702 1709	STAP 细胞
+T40	Anatomy 1711 1716	ES 细胞
+T41	Anatomy 1736 1743	STAP 细胞
+T42	Anatomy 1750 1755	多能干细胞
+T43	Anatomy 1821 1828	STAP 细胞
+T44	Anatomy 1852 1855	脑组织
+T45	Anatomy 1862 1864	脂肪
+T46	Anatomy 1865 1867	骨髓
+T47	Anatomy 1868 1869	肺
+T48	Anatomy 1875 1878	体细胞
+T49	Anatomy 1923 1934	Oct4-GFP+细胞
+T50	Anatomy 1957 1961	间叶细胞
+T51	Anatomy 1965 1968;1969 1970	心脏细 胞
+T52	Anatomy 1999 2006	STAP 细胞
+T53	Anatomy 2041 2048	CD45+细胞
+T54	Anatomy 2052 2059	STAP 细胞
+T55	Anatomy 2064 2069	嵌合体胚胎
+T56	Anatomy 2113 2120	CD45+细胞
+T57	Anatomy 2124 2131	STAP 细胞
+T58	Anatomy 2211 2218	CD45+细胞
+T59	Anatomy 2223 2230	STAP 细胞
+T60	Anatomy 2246 2252	GFP+胚胎
+T61	Anatomy 2256 2263	STAP 细胞
+T62	Anatomy 2272 2274	胚胎
+T63	Anatomy 2284 2291	STAP 细胞
+T64	Anatomy 2339 2347	诱导性多能干细胞
+T65	Anatomy 2349 2354	胚胎干细胞
+T66	Anatomy 2379 2381	卵子
+T67	Anatomy 2404 2406	胚胎
+T68	Anatomy 2420 2427	SATP 细胞
+T69	Anatomy 2434 2436	胎盘
+T70	Anatomy 2473 2480	STAP 细胞
+T71	Anatomy 2491 2498	STAP 细胞
+T72	Anatomy 2535 2542	STAP 细胞
+T73	Anatomy 2556 2563	STAP 细胞
+T74	Anatomy 2614 2619	ES 细胞
+T75	Anatomy 2688 2695	STAP 细胞
+T76	Anatomy 2721 2726	ES 细胞
+T77	Anatomy 2828 2834;2835 2837	STAP 干 细胞
+T78	Anatomy 2839 2847	STAP 干细胞
+T79	Anatomy 2849 2854	多能干细胞
+T80	Anatomy 2871 2875	Oct4
+T81	Anatomy 2878 2883	Nanog
+T82	Anatomy 2909 2917	STAP 干细胞
+T83	Anatomy 2924 2926;2927 2928	外胚 层
+T84	Anatomy 2929 2932	中胚层
+T85	Anatomy 2933 2936	内胚层
+T86	Anatomy 2948 2951;2952 2953	心肌细 胞
+T87	Disease 2959 2962	畸胎瘤
+T88	Anatomy 2971 2979	STAP 干细胞
+T89	Anatomy 3022 3030	STAP 干细胞
+T90	Anatomy 3209 3212	体细胞
+T91	Test 611 615	Oct4
+T92	Test 697 705	Oct4-GFP
+T93	Test 807 812;813 816	Oct4- GFP
+T94	Anatomy 893 899	GFP-细胞
+T95	Anatomy 959 970	Oct4-GFP+个体
+T96	Anatomy 2034 2036	囊胚
+T97	Anatomy 2146 2150	STAP
+T98	Anatomy 2231 2233	胚胎
+T99	Anatomy 2525 2527	胚胎
+T100	Anatomy 2552 2554	胚胎
+T101	Test 2737 2742;2743 2746	Oct4- GFP
+T102	Anatomy 2815 2819	STAP
+T103	Anatomy 2965 2967	囊胚
+T104	Anatomy 3093 3095	胚胎
+T105	Anatomy 3103 3106	干细胞
+T106	Anatomy 138 139;140 142	β 细胞
+T107	Test 760 762	pH
+T108	Test_Value 767 778	5. 4 ~ 5. 8
+T109	Anatomy 1269 1270;1271 1278	强 GFP 的细胞
+T110	Anatomy 1227 1245;1246 1249	强 GFP 的(大部分)和弱 GFP 的细胞
+T111	Anatomy 1297 1302;1303 1306	强 GFP 的细胞
+T112	Anatomy 1308 1315	多能性标志基因
+T113	Anatomy 1321 1326;1327 1334	早期细胞系 特异性标志基因
+T114	Anatomy 1336 1345	弱 GFP 的细胞
+T115	Anatomy 1351 1353;1354 1362	早期 细胞系特征性基因
+T116	Anatomy 1760 1766	EpiSCs
+T117	Test 1289 1292	PCR
+T118	Anatomy 84 91	胰岛 β 细胞
+T119	Anatomy 3132 3139	胰岛 β 细胞
+T120	Anatomy 3237 3244	胰岛 β 细胞
+T121	Anatomy 1870 1874	肝脏组织
+T122	Anatomy 342 343;344 350	胰 岛 β 细胞
+T123	Anatomy 568 569;570 577	种 系相关性体细胞
+T124	Anatomy 983 987	Oct4
+T125	Anatomy 988 993	SSEA1
+T126	Anatomy 994 999	Nanog
+T127	Anatomy 1002 1008	E-钙粘蛋白
+T128	Anatomy 1016 1020	Oct4
+T129	Anatomy 1021 1026	Nanog
+T130	Anatomy 1027 1031	Sox2
+T131	Anatomy 1032 1037	Ecat1
+T132	Anatomy 1038 1042	Esg1
+T133	Anatomy 1044 1050	Dppa5a
+T134	Anatomy 1053 1057	Dax1
+T135	Anatomy 1059 1064	Nrob1
+T136	Anatomy 1067 1071	Rex1
+T137	Anatomy 1073 1078	Zfp42
+T138	Anatomy 1365 1369	Flk1
+T139	Anatomy 1371 1376	Gata2
+T140	Anatomy 1378 1383	Gata4
+T141	Anatomy 1385 1389	Pax6
+T142	Anatomy 1392 1397	Sox17
+T143	Anatomy 1404 1409	Nanog
+T144	Anatomy 1412 1416	Rex1
+T145	Anatomy 1722 1727	Esrrβ
+T146	Anatomy 1772 1776	Klf4
+T147	Anatomy 1792 1798	密封蛋白 7
+T148	Anatomy 1801 1805	ZO-1
+T149	Anatomy 1856 1858	皮肤
+T150	Anatomy 1859 1861	肌肉
+T151	Anatomy 2081 2087;2088 2090	GFP 表达 细胞
+T152	Anatomy 2301 2306	胚胎细胞系
+T153	Anatomy 2307 2308;2309 2313	生 殖细胞系
+T154	Anatomy 2482 2487	全能细胞系
+T155	Anatomy 2999 3003	生殖细胞

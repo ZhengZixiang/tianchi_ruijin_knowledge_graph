@@ -1,0 +1,481 @@
+T1	Disease 4242 4249	糖尿病神经病变
+T2	Disease 6585 6591	2 型糖尿病
+T3	Disease 12 21	糖尿病周围神经病变
+T4	Disease 47 56	糖尿病周围神经病变
+T5	Disease 127 134;135 137	糖尿病周围神经 病变
+T6	Disease 181 182;183 191	糖 尿病周围神经病变
+T7	Disease 224 233	糖尿病周围神经病变
+T8	Disease 1309 1318	糖尿病周围神经病变
+T9	Anatomy 4252 4256	坐骨神经
+T10	Anatomy 5587 5591	坐骨神经
+T11	Anatomy 6625 6627;6628 6630	坐骨 神经
+T12	Anatomy 103 107	活性氧簇
+T13	Anatomy 241 245	活性氧簇
+T14	Anatomy 1766 1770	活性氧簇
+T15	Anatomy 1814 1818	活性氧簇
+T16	Anatomy 624 627	ROS
+T17	Anatomy 779 782	ROS
+T18	Anatomy 1848 1851	ROS
+T19	Anatomy 1923 1926	ROS
+T20	Anatomy 2238 2241	ROS
+T21	Anatomy 2317 2320	ROS
+T22	Anatomy 2336 2339	ROS
+T23	Anatomy 2453 2456	ROS
+T24	Anatomy 2481 2484	ROS
+T25	Anatomy 2545 2548	ROS
+T26	Anatomy 2569 2572	ROS
+T27	Anatomy 2630 2633	ROS
+T28	Anatomy 2699 2702	ROS
+T29	Anatomy 2855 2858	ROS
+T30	Anatomy 2882 2885	ROS
+T31	Anatomy 2978 2981	ROS
+T32	Anatomy 3145 3148	ROS
+T33	Anatomy 3186 3189	ROS
+T34	Anatomy 3355 3358	ROS
+T35	Anatomy 3678 3681	ROS
+T36	Anatomy 3903 3906	ROS
+T37	Anatomy 3924 3927	ROS
+T38	Anatomy 4337 4340	ROS
+T39	Anatomy 4347 4350	ROS
+T40	Anatomy 4447 4450	ROS
+T41	Anatomy 4462 4465	ROS
+T42	Anatomy 4623 4626	ROS
+T43	Anatomy 4691 4694	ROS
+T44	Anatomy 4868 4871	ROS
+T45	Anatomy 5292 5295	ROS
+T46	Anatomy 5440 5443	ROS
+T47	Anatomy 5805 5808	ROS
+T48	Anatomy 5922 5925	ROS
+T49	Anatomy 6056 6059	ROS
+T50	Anatomy 6354 6357	ROS
+T51	Anatomy 6502 6505	ROS
+T52	Anatomy 6838 6841	ROS
+T53	Anatomy 7197 7200	ROS
+T54	Anatomy 7336 7339	ROS
+T55	Anatomy 7391 7394	ROS
+T56	Anatomy 2309 2312	DRG
+T57	Anatomy 2433 2436	DRG
+T58	Anatomy 3035 3038	DRG
+T59	Anatomy 3390 3393	DRG
+T60	Anatomy 3528 3531	DRG
+T61	Anatomy 6618 6621	DRG
+T62	Anatomy 6677 6680	DRG
+T63	Anatomy 2643 2646	NOX
+T64	Anatomy 2692 2695	NOX
+T65	Anatomy 2894 2897	NOX
+T66	Anatomy 2906 2909	NOX
+T67	Anatomy 2936 2939	NOX
+T68	Anatomy 2990 2993	NOX
+T69	Anatomy 3010 3013	NOX
+T70	Anatomy 3100 3103	NOX
+T71	Anatomy 3208 3211	NOX
+T72	Anatomy 3518 3521	NOX
+T73	Anatomy 3583 3586	NOX
+T74	Anatomy 3668 3671	NOX
+T75	Anatomy 4431 4434	NOX
+T76	Disease 1350 1353	DPN
+T77	Disease 1424 1427	DPN
+T78	Disease 1499 1502	DPN
+T79	Disease 1529 1532	DPN
+T80	Disease 1582 1585	DPN
+T81	Disease 1701 1704	DPN
+T82	Disease 1740 1743	DPN
+T83	Disease 3217 3220	DPN
+T84	Disease 4610 4613	DPN
+T85	Disease 4647 4650	DPN
+T86	Disease 6778 6781	DPN
+T87	Disease 7434 7437	DPN
+T88	Disease 7686 7689	DPN
+T89	Disease 7757 7760	DPN
+T90	Disease 7775 7778	DPN
+T91	Disease 7845 7848	DPN
+T92	Disease 7929 7932	DPN
+T93	Disease 8012 8015	DPN
+T94	Disease 8068 8071	DPN
+T95	Disease 6579 6582	IGT
+T96	Reason 71 74	高血糖
+T97	Anatomy 147 150	神经元
+T98	Anatomy 151 155	雪旺细胞
+T99	Disease 167 171	神经损伤
+T100	Disease 158 164	神经组织炎症
+T101	Disease 1356 1359	糖尿病
+T102	Anatomy 1373 1377	运动神经
+T103	Anatomy 1378 1382	感觉神经
+T104	Anatomy 1384 1388	自主神经
+T105	Disease 1391 1394	糖尿病
+T106	Disease 1411 1414	糖尿病
+T107	Disease 1651 1654	糖尿病
+T108	Disease 1869 1875	神经营养障碍
+T109	Disease 1897 1903	氧化应激损伤
+T110	Anatomy 1908 1916	线粒体电子传递链
+T111	Anatomy 2758 2765	微血管内皮细胞
+T112	Drug 2782 2785	葡萄糖
+T113	Amount 2769 2780	40 mmol / L
+T114	Drug 2845 2852	NOX 抑制剂
+T115	Anatomy 2869 2876	微血管内皮细胞
+T116	Drug 2918 2926	Apocynin
+T117	Anatomy 3002 3006	神经细胞
+T118	Anatomy 3027 3028;3029 3034	腹 交感神经节
+T119	Anatomy 3039 3047	血管周围神经末梢
+T120	Disease 3155 3158	糖尿病
+T121	Anatomy 115 118	DNA
+T122	Anatomy 119 122	蛋白质
+T123	Reason 1458 1467	蛋白激酶 C 激活
+T124	Reason 1440 1441;1442 1448	多 元醇旁路途径
+T125	Reason 1449 1457	蛋白质非酶糖基化
+T126	Reason 1468 1472;1473 1475	神经营养 障碍
+T127	Reason 1476 1480	免疫紊乱
+T128	Reason 1481 1485	炎症反应
+T129	Disease 1673 1675	死亡
+T130	Disease 1677 1678;1679 1684	神 经功能退化
+T131	Anatomy 1879 1883	神经组织
+T132	Anatomy 1964 1967;1968 1972	线粒体 膜复合物
+T133	Anatomy 2281 2286	背根神经节
+T134	Anatomy 2557 2560	线粒体
+T135	Anatomy 2491 2494	线粒体
+T136	Anatomy 2517 2520	线粒体
+T137	Disease 2705 2716	微血管内皮氧化应激损伤
+T138	Anatomy 2736 2739	神经元
+T139	Anatomy 3160 3165	脊髓神经节
+T140	Anatomy 3734 3737	内质网
+T141	Disease 3817 3822	代谢性疾病
+T142	Disease 3823 3824;3825 3826	肿 瘤
+T143	Disease 3827 3833	神经变性疾病
+T144	Reason 3852 3853;3854 3857	氧 化应激
+T145	Reason 3868 3872	氧化应激
+T146	Disease 4342 4346	神经损伤
+T147	Disease 4400 4403	高血糖
+T148	Anatomy 4494 4499;4500 4503	神经滋养血 管内皮
+T149	Anatomy 4512 4515	神经元
+T150	Anatomy 4516 4520	神经纤维
+T151	Disease 4631 4635	神经损伤
+T152	Reason 4787 4791	氧化应激
+T153	Disease 4792 4801	糖尿病微血管并发症
+T154	Anatomy 5175 5180	视网膜细胞
+T155	Test 5623 5631	运动神经传导速度
+T156	Drug 5641 5649	PARP 抑制剂
+T157	Disease 5653 5656	糖尿病
+T158	Test 5658 5666	感觉神经传导速度
+T159	Anatomy 5704 5708	神经内膜
+T160	Anatomy 5719 5723	周围神经
+T161	Anatomy 5724 5729	脊髓神经节
+T162	Disease 6397 6400	糖尿病
+T163	Anatomy 6404 6408	雪旺细胞
+T164	Disease 6572 6577	糖耐量受损
+T165	Anatomy 6656 6659	神经元
+T166	Anatomy 6660 6661;6662 6665	雪 旺细胞
+T167	Test 6717 6719;6720 6726	感觉 神经传导速度
+T168	Disease 6744 6750;6751 6753	神经组织细胞 凋亡
+T169	Disease 6793 6797;6798 6801	神经病理 性疼痛
+T170	Disease 6957 6965	神经组织炎症反应
+T171	Anatomy 7075 7079	神经组织
+T172	Anatomy 7290 7294	IL-6
+T173	Anatomy 3285 3289	RAGE
+T174	Anatomy 3314 3318	RAGE
+T175	Anatomy 3401 3405	RAGE
+T176	Anatomy 5059 5063	RAGE
+T177	Anatomy 5084 5088	RAGE
+T178	Test 3587 3589	血糖
+T179	Reason 42 46	氧化应激
+T180	Reason 235 239	氧化应激
+T181	Reason 1574 1580	氧化应激损伤
+T182	Reason 1562 1566	氧化应激
+T183	Reason 1695 1699	氧化应激
+T184	Anatomy 2379 2382	线粒体
+T185	Reason 2406 2410	氧化应激
+T186	Anatomy 4257 4267;4268 4271	脊髓神经节 4-羟基 壬烯酸
+T187	Reason 4658 4662	氧化应激
+T188	Reason 4673 4676;4677 4678	氧化应 激
+T189	Reason 6275 6279	氧化应激
+T190	Reason 6736 6740	氧化应激
+T191	Reason 7805 7809	氧化应激
+T192	Reason 7769 7773	氧化应激
+T193	Reason 7838 7842	氧化应激
+T194	Reason 7878 7882	炎症反应
+T195	Reason 7883 7888	内质网应激
+T196	Reason 7889 7893	免疫紊乱
+T197	Reason 8006 8010	氧化应激
+T198	Disease 1362 1367	慢性并发症
+T199	Disease 1775 1777	高糖
+T200	Disease 2426 2428	高糖
+T201	Test 2794 2796	低糖
+T202	Test 2836 2838	高糖
+T203	Test 2877 2879	高糖
+T204	Test 3069 3071	高糖
+T205	Disease 2060 2063;2064 2070	细胞内 能量代谢紊乱
+T206	Anatomy 2094 2099	电子传递链
+T207	Anatomy 2171 2180;2181 2183	细胞色素还原酶复合 体)
+T208	Anatomy 2229 2233	神经组织
+T209	Anatomy 2442 2447	电子传递链
+T210	Disease 2717 2719;2720 2723	通透 性增加
+T211	Disease 3647 3652;3653 3655	内皮渗透性 改变
+T212	Disease 3656 3660	血管闭塞
+T213	Disease 3797 3801	细胞损伤
+T214	Disease 4150 4159	神经的氧化应激损伤
+T215	Test 5224 5226	高糖
+T216	Disease 5263 5267	细胞凋亡
+T217	Disease 5432 5436	氧化应激
+T218	Disease 5582 5585	糖尿病
+T219	Disease 5673 5677;5678 5696	温度觉和 痛觉减退及触觉诱发痛等神经功能的异常
+T220	Anatomy 5767 5771	神经组织
+T221	Disease 5913 5917	神经损伤
+T222	Disease 5927 5931	细胞凋亡
+T223	Disease 5932 5938	神经组织炎症
+T224	Disease 6004 6005;6006 6011	细 胞凋亡增加
+T225	Disease 6015 6017	炎症
+T226	Disease 6018 6024	组织细胞坏死
+T227	Disease 6027 6034;6035 6036	神经的不可逆损 伤
+T228	Anatomy 6051 6055	神经组织
+T229	Test 6334 6336	高糖
+T230	Test 6495 6497	高糖
+T231	Disease 6511 6520	线粒体超微结构破坏
+T232	Disease 6564 6569	神经元凋亡
+T233	Anatomy 6755 6759	神经组织
+T234	Disease 6816 6820	炎症反应
+T235	Disease 6850 6854	炎症反应
+T236	Test 6863 6865	高糖
+T237	Disease 6866 6870	神经损伤
+T238	Anatomy 6880 6885;6886 6889	线粒体电子 传递链
+T239	Anatomy 6941 6944;6945 6950	神经组 织炎症细胞
+T240	Disease 6994 6998	炎症反应
+T241	Disease 7413 7417	组织损伤
+T242	Reason 7 11	氧化应激
+T243	Anatomy 3595 3601	PKC 途径
+T244	Test 4778 4783	GAPDH
+T245	Anatomy 5739 5742;5743 5745	神经元 细胞
+T246	Reason 5772 5776	氧化应激
+T247	Test 5968 5973	蛋白质功能
+T248	Reason 6157 6161	氧化应激
+T249	Reason 7918 7922	氧化应激
+T250	Reason 176 180	氧化应激
+T251	Reason 1608 1612	氧化应激
+T252	Reason 1734 1738	氧化应激
+T253	Anatomy 1855 1861	自由基清除剂
+T254	Anatomy 1949 1953	NADH
+T255	Anatomy 1954 1959	FADH2
+T256	Anatomy 1978 1980	氧气
+T257	Anatomy 1983 1987	H2 O
+T258	Anatomy 1991 1994	ATP
+T259	Anatomy 2015 2020	复合物 V
+T260	Anatomy 2035 2038	ATP
+T261	Anatomy 2106 2110	NADH
+T262	Anatomy 2111 2116	FADH2
+T263	Anatomy 2166 2170	复合物3
+T264	Anatomy 2197 2201	辅酶 Q
+T265	Anatomy 2221 2226	超氧阴离子
+T266	Anatomy 2206 2209	分子氧
+T267	Anatomy 2366 2369	线粒体
+T268	Anatomy 2459 2462	线粒体
+T269	Anatomy 2530 2533	线粒体
+T270	Anatomy 2654 2659	NADPH
+T271	Anatomy 2680 2683;2684 2686	超氧阴 离子
+T272	Anatomy 2668 2671	分子氧
+T273	Test_Value 2829 2833	显著升高
+T274	Test_Value 2861 2865	明显降低
+T275	Anatomy 2943 2950	p47phox
+T276	Test_Value 3089 3093	明显增加
+T277	Anatomy 3017 3024	p22phox
+T278	Anatomy 3108 3116	gp91phox
+T279	Anatomy 3119 3126	p47phox
+T280	Anatomy 3180 3184	过氧化氢
+T281	Anatomy 3247 3254	终末糖基化产物
+T282	Anatomy 3296 3306;3307 3309	AGE-RAGE 复 合物
+T283	Test_Value 3438 3440	增高
+T284	Anatomy 3459 3469	磷脂酰肌醇-3-激酶
+T285	Test_Value 3453 3455	升高
+T286	Anatomy 3701 3704	PKC
+T287	Anatomy 3931 3939	内质网的氧化蛋白
+T288	Anatomy 3956 3964	蛋白二硫化异构酶
+T289	Anatomy 4003 4012	内质网氧化酶 1α
+T290	Anatomy 4060 4063	分子氧
+T291	Anatomy 4094 4097	PDI
+T292	Anatomy 4100 4105	ERO1α
+T293	Anatomy 4112 4116	过氧化氢
+T294	Anatomy 4141 4145	过氧化氢
+T295	Anatomy 4180 4185	ERO1α
+T296	Anatomy 4189 4192	内质网
+T297	Anatomy 4204 4211	线粒体超氧化物
+T298	Anatomy 4300 4305	硝基酪氨酸
+T299	Anatomy 4419 4422	线粒体
+T300	Anatomy 4427 4430	呼吸链
+T301	Anatomy 4831 4847;4848 4850	甘油醛-3-磷酸向 1,3-二甘 油酸
+T302	Anatomy 4698 4703	GAPDH
+T303	Anatomy 4940 4941;4942 4946	山 梨醇途径
+T304	Anatomy 4953 4958	醛糖还原酶
+T305	Anatomy 4965 4971;4972 4973	果糖-6-磷 酸
+T306	Anatomy 4979 4984	己糖胺途径
+T307	Anatomy 4991 4999	甘油醛-3-磷酸
+T308	Anatomy 5006 5010	AGEs
+T309	Anatomy 5018 5028	AGEs 前体丙酮醛
+T310	Anatomy 5030 5037;5038 5039	甘油醛-3-磷 酸
+T311	Anatomy 5048 5051	丙酮醛
+T312	Anatomy 5071 5075	S100
+T313	Anatomy 5093 5105	AGE-RAGE 复合物
+T314	Anatomy 5113 5121	甘油醛-3-磷酸
+T315	Anatomy 5128 5131	DAG
+T316	Anatomy 5135 5138	PKC
+T317	Anatomy 4929 4932	葡萄糖
+T318	Anatomy 5188 5193	GAPDH
+T319	Anatomy 5200 5203	PKC
+T320	Anatomy 5205 5210	己糖胺途径
+T321	Anatomy 5252 5257	GAPDH
+T322	Anatomy 5276 5281	由基清除剂
+T323	Anatomy 5298 5303	GAPDH
+T324	Anatomy 5328 5340;5341 5342	多聚二磷酸腺苷-核糖聚合 酶
+T325	Anatomy 5382 5389	GAPDH 酶
+T326	Anatomy 5393 5397	PARP
+T327	Anatomy 5406 5413	DNA 修复酶
+T328	Anatomy 5449 5454	DNA 链
+T329	Anatomy 5458 5462	PARP
+T330	Anatomy 5465 5469	NAD+
+T331	Anatomy 5472 5475	尼克酸
+T332	Anatomy 5497 5503	ADP-核糖
+T333	Anatomy 5524 5534	ADP-ribose
+T334	Anatomy 5543 5548	GAPDH
+T335	Test 5559 5567	GADPH 活性
+T336	Test_Value 5567 5569	下降
+T337	Anatomy 5593 5599	PARP-1
+T338	Test_Value 5615 5619	明显增加
+T339	Test_Value 5632 5634	减慢
+T340	Anatomy 5747 5756	4-HNE 加合物
+T341	Test 5850 5858	GAPDH 活性
+T342	Test_Value 5858 5860	降低
+T343	Anatomy 5863 5868	山梨醇途径
+T344	Anatomy 5869 5874	己糖胺途径
+T345	Anatomy 5876 5880	AGEs
+T346	Anatomy 5886 5889	PKC
+T347	Anatomy 5897 5901	神经纤维
+T348	Test_Value 6455 6457	升高
+T349	Test 6460 6465;6466 6467	GSH 水 平
+T350	Test_Value 6468 6470	降低
+T351	Anatomy 6524 6527	神经元
+T352	Duration 6609 6613	10 周
+T353	Test_Value 6636 6640	明显上升
+T354	Anatomy 6641 6650	caspase-3
+T355	Anatomy 6977 6981	Nrf2
+T356	Anatomy 6984 6989	NF-κB
+T357	Anatomy 7000 7010	转录因子 NF-E2
+T358	Test_Value 6726 6728	下降
+T359	Test_Value 6714 6716	减低
+T360	Test_Value 6690 6691;6692 6693	减 少
+T361	Anatomy 7019 7023	Nrf2
+T362	Anatomy 7026 7035	NFE2L2 基因
+T363	Anatomy 7063 7067	Nrf2
+T364	Anatomy 7102 7105	GSH
+T365	Anatomy 7106 7109	SOD
+T366	Anatomy 7118 7122	Nrf2
+T367	Anatomy 7205 7219	游离 NF-κB 异质二聚体
+T368	Anatomy 7263 7271	肿瘤坏死因子-资
+T369	Anatomy 7281 7288	白细胞介素-6
+T370	Anatomy 7296 7301	环氧酶-2
+T371	Anatomy 7310 7314	iNOS
+T372	Anatomy 7323 7327	Nrf2
+T373	Anatomy 7343 7348	NF-κB
+T374	Reason 7428 7432	氧化应激
+T375	Disease 1396 1398	致残
+T376	Disease 1398 1400	致死
+T377	Reason 2244 2248	氧化应激
+T378	Duration 3075 3078	1 h
+T379	Disease 6303 6308	神经元凋亡
+T380	Anatomy 6295 6298	Bcl
+T381	Reason 6874 6878	氧化应激
+T382	Reason 6967 6971	氧化应激
+T383	Reason 7475 7486	NADPH 氧化酶激活
+T384	Reason 7488 7493	内质网应激
+T385	Reason 7504 7516	神经组织氧化-抗氧化失衡
+T386	Reason 7542 7553;7554 7572	损伤的 DNA 片段激 活 PARP、抑制 GAPDH 活性
+T387	Reason 7573 7582	导致糖酵解途径受阻
+T388	Reason 7583 7588;7589 7590	上游产物蓄 积
+T389	Reason 7626 7635	抑制保护性因子表达
+T390	Drug 7950 7954	抗氧化剂
+T391	Drug 8059 8064	抗氧化药物
+T392	Test 3447 3450;3451 3453	ROS 水平
+T393	Test 6446 6455	细胞 ROS 水平
+T394	Anatomy 7499 7502	ROS
+T395	Reason 7517 7518;7519 7540	过 量的 ROS 氧化损伤脂质、DNA、蛋白质
+T396	Reason 7608 7618;7619 7625	ROS 还可促进凋亡 相关因子激活
+T397	Anatomy 2621 2624	NOX
+T398	Test 2814 2817	NOX
+T399	Test 3081 3088	NOX 的活性
+T400	Test 3430 3436	NOX 活性
+T401	Disease 77 82;83 88	线粒体电子 传递链异常
+T402	Disease 89 100	NADPH 氧化酶激活
+T403	Reason 1761 1764	高血糖
+T404	Anatomy 1785 1793	线粒体电子传递链
+T405	Reason 2271 2273	高糖
+T406	Reason 2476 2478	高糖
+T407	Duration 2786 2790	72 h
+T408	Anatomy 3060 3065;3066 3068	DRG 神 经元
+T409	Anatomy 112 114	脂质
+T410	Anatomy 1794 1802;1803 1804	NADPH 氧化 酶
+T411	Anatomy 1931 1934;1935 1941	线粒体 的电子传递链
+T412	Reason 2056 2058	高糖
+T413	Disease 2071 2078	异常的三羧酸循
+T414	Disease 2354 2361	线粒体明显肿胀
+T415	Disease 2724 2731	血管平滑肌增生
+T416	Anatomy 3236 3240	蛋白非酶
+T417	Anatomy 3549 3555	蛋白激酶 C
+T418	Anatomy 3606 3610	甘油二酯
+T419	Anatomy 3713 3716	内质网
+T420	Anatomy 3719 3722	内质网
+T421	Reason 3808 3813	内质网应激
+T422	Reason 3846 3851	内质网应激
+T423	Reason 3875 3880	内质网应激
+T424	Reason 3889 3894	内质网应激
+T425	Anatomy 4084 4087	内质网
+T426	Anatomy 4125 4131	原性谷胱甘肽
+T427	Anatomy 4168 4171	线粒体
+T428	Anatomy 4311 4314	内质网
+T429	Disease 4354 4357	DPN
+T430	Anatomy 4439 4442	内质网
+T431	Reason 4486 4490	氧化应激
+T432	Anatomy 4527 4528;4529 4534	周 围神经组织
+T433	Symptom 4545 4553	神经轴索变性萎缩
+T434	Symptom 4554 4557;4558 4561	节段性 脱髓鞘
+T435	Symptom 4562 4570	末梢神经纤维减少
+T436	Symptom 4571 4576	神经元丢失
+T437	Anatomy 4581 4585	感觉神经
+T438	Anatomy 4587 4591	运动神经
+T439	Anatomy 4592 4598	内脏自主神经
+T440	Anatomy 4717 4721;4722 4733	甘油醛- 3-磷 酸 脱 氢 酶
+T441	Anatomy 4823 4828	GAPDH
+T442	Test 5602 5609	mRNA 表达
+T443	Anatomy 5730 5737	DRG 神经元
+T444	Anatomy 5784 5792	神经元内 DNA
+T445	Anatomy 5817 5820	神经元
+T446	Reason 5939 5943	氧化应激
+T447	Anatomy 5979 5982	神经元
+T448	Anatomy 5983 5987	雪旺细胞
+T449	Anatomy 6340 6343	DRG
+T450	Anatomy 6363 6370	caspase
+T451	Disease 6423 6427	细胞凋亡
+T452	Test 6606 6608	血糖
+T453	Test 6685 6690	神经元数量
+T454	Test 6694 6702	感觉神经动作电位
+T455	Reason 6770 6776	神经组织炎症
+T456	Reason 6811 6815	氧化应激
+T457	Reason 6830 6834	氧化应激
+T458	Anatomy 6917 6921	神经细胞
+T459	Anatomy 6922 6928	血管内皮细胞
+T460	Anatomy 7130 7139	细胞外相关蛋白激酶
+T461	Reason 7451 7454	高血糖
+T462	Reason 7464 7474	线粒体电子传递链异常
+T463	Reason 7591 7607	促进多个经典病理途径对神经的损伤
+T464	Reason 7636 7646;7647 7649	诱导神经元和雪旺细胞 凋亡
+T465	Reason 7650 7660	促进神经组织炎症反应
+T466	Reason 7662 7674	致神经组织结构和功能破坏
+T467	Reason 7676 7682	再生修复障碍
+T468	Anatomy 3411 3418	RAGE 配体
+T469	Test 1656 1665	血清氧化应激标志物
+T470	Anatomy 2083 2088	氧化丙酮酸
+T471	Anatomy 2584 2593	NADPH 氧化酶
+T472	Anatomy 2596 2605	NADPH 氧化酶
+T473	Anatomy 3341 3350	NADPH 氧化酶
+T474	Anatomy 4879 4884	GAPDH
+T475	Test 5842 5846	PARP
+T476	Anatomy 6088 6095	超氧化物歧化酶
+T477	Anatomy 6065 6069	谷胱甘肽
+T478	Anatomy 6198 6204	细胞色素 C
+T479	Anatomy 6224 6229	半胱天冬酶
+T480	Anatomy 6243 6259	凋亡执行蛋白 caspase-3
+T481	Test 6703 6713	复合运动神经动作电位

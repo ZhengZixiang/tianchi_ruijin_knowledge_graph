@@ -1,0 +1,193 @@
+基础研究
+白藜芦醇对高糖诱导内皮细胞损伤代谢记忆效应的研究
+丁慧  王鹏  王颜刚
+[提要]   人脐静脉内皮细胞分为正常对照组、甘露醇对照组、高糖组和白藜芦醇低、中、高剂量组,细
+胞于 30 mmol / L 葡萄糖和 0. 1、1 和 10 μmol / L 白藜芦醇培养 16 h 后,再以 5. 5 mmol / L 葡萄糖培养 6 d,应用
+ELISA 法检测细胞培养上清中血管细胞黏附分子 1(VCAM-1)、单核细胞趋化蛋白 1(MCP-1)和纤溶酶原激
+活物抑制剂 1(PAI-1)水平,以 Western 印迹法检测细胞内 NF-κB 蛋白表达。 与正常对照组相比,高糖可诱
+导内皮细胞 NF-κB 表达上调(P<0. 05),同时 VCAM-1、MCP-1 和 PAI-1 水平升高(均 P<0. 05),且在糖浓度
+恢复正常后仍持续上升。 与高糖组相比,白藜芦醇预处理可以明显减少 NF-κB 表达,降低 VCAM-1、MCP-1
+和 PAI-1 水平(均 P<0. 05)。 结果提示白藜芦醇可能通过 NF-κB 通路降低 VCAM-1、MCP-1 和 PAI-1 水平,
+改善高糖代谢记忆效应介导的内皮细胞损伤。
+[关键词]   白藜芦醇; 人脐静脉内皮细胞; 代谢记忆; 核因子 κB
+Effects of resveratrol on high glucose memory-induced injury to endothelial cell Ding Hui, Wang Peng,
+Wang Yangang. Department of Endocrinology, Affiliated Hospital, Medical College of Qingdao University, Qingdao
+266003, China
+[Summary]  Cultured human umbilical vein endothelial cells ( HUVECs) were divided and assigned to 6
+groups: normal control group, mannitol control group, high glucose group, low dose resveratrol group, medium dose
+resveratrol group, and high dose resveratrol group. HUVECs were pretreated with or without 30 mmol / L glucose plus
+various concentrations of resveratrol(0. 1,1,10 μmol / L) for 16 hours and then incubated with 5. 5 mmol / L glucose for
+6 days. The levels of vascular cell adhesion molecule 1 (VCAM-1), monocyte chemotactic protein 1 (MCP-1), and
+plasminogen activator inhibitor 1 (PAI-1) in the culture supernatant were measured by ELISA. NF-κB expression was
+detected by Western blot. Compared with normal glucose group, high glucose up-regulated the expression of NF-κB,
+along with the increased levels of VCAM-1, MCP-1, and PAI-1 (all P<0. 05), which were still maintained at high
+levels even after withdrawal of high glucose. Resveratrol treatment down-regulated the expression of NF-κB and
+lowered the levels of VCAM-1, MCP-1, and PAI-1 (all P<0. 05) . These results suggest that resveratrol may decrease
+the secretion of VCAM-1, MCP-1, and PAI-1 and prevent high glucose memory-induced injury to endothelial cell via
+NF-κB pathway.
+[Key words]  Resveratrol; Human umbilical vein endothelial cell; Metabolic memory; NF-κB
+(Chin J Endocrinol Metab, 2014, 30: 432-434)
+糖尿病患者由于早期血糖控制不佳,即使后期血糖降至理
+想水平,血管并发症仍持续进展,这一现象称为高血糖的“代谢
+记忆效应冶。 长期高血糖所致的血管并发症,尤其是动脉粥样
+硬化,是糖尿病患者病死率高的主要原因之一[1] 。 因此,早期
+干预“代谢记忆冶的形成无疑是改善糖尿病患者生活质量,降低
+糖尿病患者病死率的重要手段。
+近来研究发现,白藜芦醇具有改善糖尿病血管内皮细胞功
+能的作用[2] ;其是否能够改善高糖诱导产生的不良记忆尚未见
+报道。 内皮细胞分泌的血管细胞黏附分子 1 ( vascular cell
+adhesion molecule 1,VCAM-1)、单核细胞趋化蛋白 1(monocyte
+chemotactic protein 1, MCP-1 ) 和纤溶酶原激活物抑制剂 1
+(plasminogen activator Inhibitor 1,PAI-1)是造成内皮细胞损伤的
+重要因素。 而核因子 κB(NF-κB)参与了上述相关基因表达的
+调控。 因 此, 本 研 究 以 高 糖 诱 导 的 人 脐 静 脉 内 皮 细 胞
+(HUVEC)为研究对象,研究不同浓度的白藜芦醇对 NF-κB 通
+路以及 VCAM-1、MCP-1、PAI-1 分泌的影响,为糖尿病血管代谢
+记忆损伤的防治用药提供依据。
+一、 材料和方法
+1. 材料:原代 HUVEC(美国标准生物品收藏中心),白藜
+芦醇、二甲基亚砜、D-葡萄糖( Sigma 公司),胎牛血清、DMEM
+培养基、胰酶(HyClone 公司),青霉素-链霉素溶液(杭州吉诺生
+物医药技术有限公司),Nc-细胞核 /浆蛋白抽提试剂盒(康为世
+纪),小鼠抗人 NF-κB p65 抗体(CST 公司),HRP 标记的羊抗小
+鼠 IgG、β-actin 抗体(北京中杉金桥生物技术有限公司),人
+VCAM-1、MCP-1 和 PAI-1 检测试剂盒(BD 公司)。 白藜芦醇以
+二甲基亚砜溶解,配制成浓度为 100 mmol / L 的母液备用,使二
+甲基亚砜在终培养液中的终浓度小于 0. 1% ,该浓度对细胞生
+长无影响[3] 。
+2. 实验分组:将 HUVECs 置于 DMEM 完全培养基(10%胎
+牛血清,1%青霉素-链霉素溶液)中,于 37℃,5% CO2培养箱中
+培养。 取生长良好的 3 ~ 5 代细胞用于实验。 待细胞达 80%左
+右融合时开始实验,实验开始前无血清同步化过夜。 将
+HUVECs 分为 6 组:(1)正常对照组(NG):5. 5 mmol / L 葡萄糖×
+6 d;(2)甘露醇对照组(MA):5. 5 mmol / L 葡萄糖+24. 5 mmol / L
+甘露醇×16 h 后转为 5. 5 mmol / L 葡萄糖×6 d;(3) 高糖组(HG)
+30 mmol / L 葡萄糖×16 h 后转为 5. 5 mmol / L 葡萄糖×6 d;(4)白
+藜芦醇低剂量组(LR):30 mmol / L 葡萄糖+0. 1 μmol / L 白藜芦
+醇×16 h 后转为 5. 5 mmol / L 葡萄糖×6 d;(5) 白藜芦醇中剂量
+组(MR):30 mmol / L 葡萄糖+1 μmol / L 白藜芦醇×16 h 后转为
+5. 5 mmol / L 葡萄糖 × 6 d;(6) 白藜芦醇高剂量组 (HR):30
+mmol / L 葡萄糖+10 μmol / L 白藜芦醇×16 h 后转为 5. 5 mmol / L
+葡萄糖×6 d。 各组分别于 5. 5 mmol / L 葡萄糖培养第 1、4、6 天
+收集细胞培养上清液,提取细胞核蛋白进行以下指标检测。
+3. ELISA 法检测细胞培养上清中 VCAM-1、MCP-1、PAI-1
+水平:各组分别于 5. 5 mmol / L 葡萄糖培养第 1、4、6 天收集细胞
+培养上清液,按照 ELISA 检测试剂盒说明书步骤进行,于 450
+nm 波长处测定各孔的 A 值,根据 A 值计算 VCAM-1、MCP-1、
+PAI-1 浓度。
+4. Western 印迹法检测细胞内 NF-κB 表达:于 5. 5 mmol / L
+葡萄糖培养第 6 天将各组 HUVECs 使用预冷 PBS 洗涤后,使用
+细胞刮快速收集细胞于 EP 管中,按照 Nc-细胞核 /浆蛋白抽提
+试剂盒步骤提取细胞核蛋白。 采用 BCA 法测定蛋白浓度。 各
+组取 50 μg 蛋白行 12% SDS-PAGE 电泳及转膜。 以 NF-κB p65
+抗体(1 : 1 000)或 β-actin 抗体(1 : 1 000)4℃孵育过夜。 HRP
+标记的羊抗小鼠 IgG(1 : 6 000)室温孵育 1 h,ECL 化学显影,
+应用 Image Pro Plus 软件进行灰度分析。
+5. 统计学处理:采用 SPSS 17. 0 统计软件进行处理,各数
+据以 x-± s 表示,若方差齐性,各组均数比较采用单因素方差分
+析。 P<0. 05 为差异有统计学意义。
+二、 结果
+1. 细胞形态观察:HUVECs 融合后呈多角形或短梭形,排
+列紧密,边界清晰,在倒置显微镜下呈单层铺路石样,选择生长
+良好的第 3 ~ 5 代 HUVECs 用于实验。 30 mmol / L 葡萄糖刺激
+16 h 后,细胞边界略肿胀,圆缩。 经白藜芦醇预处理后,随着浓
+度增高,细胞形态得以改善。 随着干预天数延长,可见细胞皱
+缩,并有死亡细胞及细胞碎片。
+2. 内皮细胞 NF-κB 表达情况:正常组细胞核内 NF-κB p65
+表达不明显,高糖组与正常组相比 NF-κB p65 表达明显增多
+(P<0. 05)。 与高糖组相比,用白藜芦醇干预后 NF-κB p65 表达
+呈剂量依赖性降低(P<0. 05),甘露醇组与正常组相比差异没
+有统计学意义(图 1)。
+注:NG:正常对照组;MA:甘露醇对照组;HG:高糖组;LR:白藜芦醇
+低剂量组;MR:白藜芦醇中剂量组;HR:白藜芦醇高剂量组;与 HG 组相
+比,aP<0. 05
+图 1  人脐静脉内皮细胞 NF-κB 表达水平
+3. 内皮细胞培养上清中 VCAM-1、MCP-1 和 PAI-1 水平:
+HUVECs 于高糖环境培养 16 h 后,VCAM-1、 MCP-1 和 PAI-1 水
+表 1  各组人脐静脉内皮细胞 VCAM-1、MCP-1、PAI-1 水平(x-± s)
+组别 样本数
+VCAM-1
+(ng / ml)
+MCP-1
+(pg / ml)
+第 1 天 第 4 天 第 6 天 第 1 天
+NG 6 368. 43 ± 26. 31 358. 47 ± 11. 78 366. 48 ± 10. 85 227. 90 ± 11. 05
+AM 6 370. 16 ± 23. 21b 369. 67 ± 11. 94b 368. 67 ± 9. 76b 228. 20 ± 16. 79b
+HG 6 546. 02 ± 29. 53a 559. 13 ± 15. 96a 549. 81 ± 16. 05a 357. 88 ± 15. 87a
+LR 6 524. 29 ± 35. 86a 511. 30 ± 27. 19ab 516. 13 ± 27. 73a 343. 63 ± 23. 42a
+MR 6 459. 71 ± 31. 54ab 448. 16 ± 15. 29ab 440. 52 ± 11. 59ab 324. 10 ± 18. 53ab
+HR 6 446. 37 ± 38. 34ab 456. 67 ± 16. 79ab 434. 38 ± 19. 69ab 281. 72 ± 19. 96ab
+组别 样本数
+MCP-1
+(pg / ml)
+PAI-1
+(ng / ml)
+第 4 天 第 6 天 第 1 天 第 4 天 第 6 天
+NG 6 229. 89 ± 11. 23 230. 90 ± 16. 52 38. 13 ± 6. 99 40. 43 ± 3. 22 41. 74 ± 5. 63
+AM 6 230. 50 ± 11. 86b 231. 25 ± 15. 81b 38. 30 ± 7. 48b 41. 30 ± 3. 07b 42. 05 ± 5. 29b
+HG 6 363. 20 ± 14. 50a 360. 09 ± 16. 61a 71. 84 ± 5. 33a 72. 85 ± 6. 42a 75. 16 ± 4. 06a
+LR 6 330. 68 ± 12. 38ab 335. 76 ± 14. 42a 64. 35 ± 5. 03a 62. 97 ± 4. 29a 60. 83 ± 4. 62ab
+MR 6 320. 42 ± 9. 25ab 305. 28 ± 18. 85ab 57. 49 ± 5. 35ab 60. 93 ± 6. 84a 59. 42 ± 5. 54ab
+HR 6 274. 48 ± 18. 17ab 275. 40 ± 18. 40ab 48. 81 ± 3. 99b 50. 45 ± 4. 51b 52. 00 ± 5. 53ab
+注:VCAM-1:血管细胞黏附分子 1;MCP-1:单核细胞趋化蛋白 1;PAI-1:纤溶酶原激活物抑制剂 1;余略语同图 1;与 NG 组比较,aP<0. 05;与 HG
+组比较,bP<0. 05
+平均高于正常组(P<0. 05),甘露醇组与正常对照组相比无统
+计学差异。 恢复正常糖浓度培养后,高糖组 VCAM-1、MCP-1 和
+PAI-1 水平仍高于正常组(P<0. 05),而用白藜芦醇干预后,与
+高糖组相比 VCAM-1 水平呈剂量依赖性降低(P<0. 05),但低
+剂量白藜芦醇组与高糖组比较差异无统计学意义。 低剂量白
+藜芦醇组在第 6 天 MCP-1 水平低于高糖组,但差异无统计学意
+义,低剂量白藜芦醇组在第 4 天以及中、高剂量白藜芦醇组
+MCP-1 水平低于高糖组(P<0. 05)。 低、中剂量白藜芦醇组在
+第 4 天 PAI-1 水平低于高糖组,但差异无统计学意义,低、中剂
+量白藜芦醇组第 6 天和高剂量白藜芦醇组 PAI-1 水平低于高糖
+组(P<0. 05)。 甘露醇组与对照组相比 VCAM-1、MCP-1 和 PAI-
+1 水平无统计学差异(表 1)。
+三、 讨论
+单核细胞黏附于血管内皮细胞,随后迁移至内皮下间隙是
+动脉粥样硬化形成早期的关键事件,这在内皮细胞代谢记忆损
+伤机制中扮演着重要角色[4] 。 而内皮细胞分泌的趋化因子如
+VCAM-1、MCP-1 等在上述过程中起重要作用。 同时,VCAM-1、
+MCP-1 等也可刺激内皮细胞和单核细胞等炎性细胞分泌更多
+的炎性细胞因子,从而加剧内皮细胞损伤的发生和发展[5] 。 此
+外,内皮细胞分泌的 PAI-1 是调节纤溶系统活性的重要因子,
+其增加可以加剧糖尿病患者动脉粥样硬化血栓形成的风险[6] 。
+研究发现,NF-κB 是由 Rel 家族成员聚合形成同源或异源二聚
+体,以 p50 / p65 组成的二聚体最多见。 在外界因素刺激下,
+NF-κB 与 κB 抑制蛋白( IκB) 解离,进入细胞核,与 VCAM-1、
+MCP-1、PAI-1 等靶基因启动子区特异的 κB 序列结合,参与多
+种炎症反应相关基因表达的调控。
+本研究参考 El-Osta 等[7]的方法建立高血糖“代谢记忆冶模
+型,即将内皮细胞先于 30 mmol / L 高糖中培养 16 h,然后于 5
+mmol / L 生理浓度糖中培养 6 d,发现高糖诱导的 HUVECs
+NF-κB 表达上调,其上清液中 VCAM-1、MCP-1 和 PAI-1 产生增
+多,糖浓度恢复正常后高糖损害仍存在,这与 Piga 等[8] 的研究
+结果一致。 有研究证实,高糖状态可使体内活性氧簇(ROS)增
+多[9] ,进而上调 NF-κB 表达,编码多种炎症相关基因,诱发血管
+内皮损伤。 同时,高血糖环境可以促进蛋白质非酶糖基化形成
+的糖基化终产物(AGEs) 含量增加[10] ,AGEs 能够与其受体
+RAGE 结合,参与细胞内 ROS 的生成,进而活化 NF-κB[11] 。
+El-Osta 等[7]发现高糖通过表观遗传修饰途径亦可激活 NF-κB
+通路。
+白藜芦醇又名 3,5,4 三羟基反二苯代乙烯,是一类存在于
+葡萄皮、百合科、蓼科等多种药用植物中的多酚类化合物,以虎
+杖中的含量较高。 近来研究发现,白藜芦醇具有改善糖尿病血
+管内皮细胞功能的作用[2] ,那么它是否能够预防高糖诱导产生
+的不良记忆呢? 本研究结果显示,应用白藜芦醇预处理
+HUVECs 可以降低高糖诱导的内皮细胞 NF-κB 水平,减少炎症
+因子 VCAM-1、MCP-1、PAI-1 的产生,且该作用在糖浓度恢复正
+常后仍持续存在,这使单核细胞向内皮细胞黏附降低,进一步
+减轻血管炎症反应。 这一结果也提示白藜芦醇部分逆转高糖
+诱导的内皮细胞损伤记忆可能与 NF-κB 通路有关。 NF-κB 通
+路激活有赖于 IκB 泛素化和磷酸化。 而上述过程主要依赖于
+IκB 激酶(IKK)的参与[12] 。 白藜芦醇可能通过抑制 IKK 活化
+及 IκB 磷酸化过程,抑制 NF-κB 通路激活,从而发挥抗炎作
+用[13] 。 另外,白藜芦醇也可能通过抑制含 Toll /白细胞介素 1
+受体结构域诱导干扰素 β 的衔接蛋白和 TANK 结合激酶 1
+(TBK1)的表达,调节 NF-κB 的活化[14] ,进而抑制炎症因子产
+生。 Schober 等[15]研究发现,白藜芦醇还可以通过对 micro RNA
+的调节来发挥抗内皮细胞损伤的作用。
+综上所述,白藜芦醇可能通过抑制 NF-κB 通路改善高糖诱
+导的内皮细胞代谢记忆损伤。 由于作用机制复杂,且具有一定
+的剂量和组织特异性,白藜芦醇的血管保护作用有待进一步研
+究。

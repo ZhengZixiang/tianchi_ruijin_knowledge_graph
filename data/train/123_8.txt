@@ -1,0 +1,373 @@
+临床研究
+基金项目:国家自然科学基金(30860113)、广西医疗卫生重点科研课题基金(桂重 200736)、广西卫生厅自筹项目基
+金(Z2007144)
+院内分泌代谢科(师布朵);510120 广州,中山大学附属孙≥仙纪念医院内分泌代谢科(杨川);530021 南宁,广西医科大
+学生理学教研室(黄勤)
+不同血糖情况下的血管内皮功能与
+PGC-1α 对糖尿病大血管的保护作用
+路文盛  师布朵  黄群  林园梅  杨川  黄勤
+[摘要]   目的  了解不同病程、不同达标情况下 2 型糖尿病患者血管内皮功能的差异及机制,并探讨
+过氧化物酶体增殖物激活受体 γ 辅助激活子 α(peroxisome proliferator-activated receptor-γ coactivator 1α,
+PGC-1α)对糖尿病大血管的保护作用。 方法  招募正常糖耐量者 94 名、糖耐量受损患者 87 例及 2 型糖尿
+病患者 306 例。 通过高分辨率彩色多普勒测定肱动脉内皮依赖的血流介导的血管扩张率( flow-mediated
+vasodilatation, FMD)、硝酸甘油介导的非内皮依赖的血管扩张率(glyceryl trinitrate dilatation, GTN)、颈动脉
+内膜中层厚度(carotid intima-media thickness, CIMT),并进行相关性分析。 采用硝酸还原酶法测量 NO,
+Western 印迹法检测丝氨酸苏氨酸激酶 473 位点丝氨酸残基(Akt-Ser473)磷酸化水平,逆转录荧光定量实时
+PCR 法检测研究对象外周血单个核细胞 IL-β mRNA 和 PGC-1α mRNA 转录水平。 结果  FMD 值在新诊断
+2 型糖尿病组已明显低于正常糖耐量组和糖耐量受损组(P<0. 01),而 GTN 和 CIMT 尚未出现差异。 糖尿
+病组 PGC-1α mRNA 转录水平显著低于非糖尿病组(P<0. 01)。 相关性分析显示 PGC-1α 与 FMD、GTN 正
+相关(P<0. 05 或 P<0. 01)。 Logistic 多元回归分析显示,在校正其他影响因素之后,PGC-1α 与 FMD 独立相
+关(P<0. 01)。 结论  FMD 是敏感的糖尿病大血管并发症早期预警指标,而 CIMT、GTN 更侧重于并发症的
+进展;PGC-1α 对糖尿病大血管的保护可能存在内皮依赖和内皮非依赖两种机制。
+[关键词]   糖尿病, 2 型; 血管内皮功能; 血流介导的血管扩张率; 硝酸甘油介导的非内皮依赖的血
+管扩张率; 颈动脉内膜中层厚度; PPARγ 辅助激活子 α
+The endothelial function under various blood glucose levels and the protective effect of PGC-1α on macro-
+vasculature in patients with diabetes mellitus    LU Wen-sheng*, SHI Bu-duo, HUANG Qun, LIN Yuan-mei,
+YANG Chuan, HUANG Qin. *Department of Endocrinology of the People忆s Hospital of Guangxi Zhuang Autonomous
+Region, Nanning 530021, China
+[Abstract]   Objective   To explore the vascular endothelial function in individuals with normal glucose
+tolerance (NGT), impaired glucose tolerance( IGT), and type 2 diabetes mellitus, and to study the role played by
+PPARγ coactivator 1α(PGC-1α) in diabetic macrovascular function. Methods  A total of 94 subjects with NGT, 87
+with IGT, and 306 with type 2 diabetes mellitus were recruited in the study. Carotid flow-mediated vasodilatation
+(FMD), glyceryl trinitrate dilatation(GTN), and carotid intima-media thickness( CIMT) were assessed by high-
+resolution B-mode color vascular Doppler instrument. Finally, correlation analysis was conducted. NO, Akt-Ser473
+phosphorylation levels, IL-β, and PGC-1α mRNA expression levels were measured by means of nitrate reductase,
+western blot, and reverse transcriptase real-time fluorescence quantitative PCR assay methods in peripheral blood
+mononuclear cells respectively. Results  FMD in newly-diagnosed type 2 diabetic group was significantly lower than
+that in NGT and IGT groups(P<0. 01) . GTN and CIMT showed no difference. PGC-1α mRNA transcription level in
+diabetic group was significantly lower than that in non-diabetic groups(P<0. 01) . Correlation analysis showed that
+PGC-1α was positively correlated with FMD and GTN(P<0. 05 or P<0. 01) . Logistic regression analysis revealed that
+PGC-1α was independently associated with FMD(P < 0. 01) after adjusting other influencing factors. Conclusion
+FMD is a more sensitive early warning indicator of endothelial function than CIMT and GTN. As indices of
+atherosclerosis, CIMT and GTN are more or less focused on the progression of macrovascular complications. PGC-1α is
+a protective factor of macro-vasculature in diabetes mellitus, and its effect may be achieved through the protection of
+the vascular endothelium.
+[Key words]   Diabetes mellitus, type 2; Vascular endothelial function; Flow-mediated vasodilatation;
+Glyceryl trinitrate dilatation; Carotid intima-media thickness; PPARγ coactivator 1α
+(Chin J Endocrinol Metab, 2013, 29: 479-483)
+2 型糖尿病存在磷脂酰肌醇 3 激酶-丝氨酸苏氨
+酸激酶(phosphoinositide-3-kinase-Akt, PI3K-Akt)通路
+信号转导障碍,而该通路介导了胰岛素刺激的血管内
+皮 NO 的生成[1],鉴于此,我们推测新诊断 2 型糖尿病
+患者可能由于 NO 合成下降存在血管内皮功能障碍。
+目前,关于不同血糖、不同病程情况下,内皮依赖的血
+流介导的血管扩张率 ( flow-mediated vasodilatation,
+FMD)、硝酸甘油介导的非内皮依赖的血管扩张率
+(glyceryl trinitrate dilatation, GTN)和颈动脉内膜中层
+厚度( carotid intima-media thickness, CIMT)对血管内
+皮功能早期预警价值尚无系统研究,关于 PGC-1α 对
+糖尿病大血管的保护作用亦无临床观察结论。 本研究
+通过对 NGT、IGT 和不同达标阶段 2 型糖尿病患者的
+FMD、GTN 和 CIMT 检测以筛选血管内皮功能受损的
+早期预警指标,并探讨 PGC-1α 对糖尿病大血管的保
+护作用,现将结果报告如下。
+对象和方法
+一、 对象
+经伦理学委员会同意并签署知情同意书后,依照
+中国糖尿病指南 2010 版标准收集正常糖耐量(NGT)
+94 名(男 42,女 52,年龄 35 ~ 72 岁)、糖耐量受损
+(IGT)87 例(男 41,女 46,年龄 41 ~ 75 岁)及 2 型糖尿
+病 306 例(男 149,女 157,年龄 38 ~ 76 岁)。 按 HBA1C
+值和病程分组,将 306 例 2 型糖尿病患者分为 91 例病
+程≤1 年的新诊断 2 型糖尿病组(DM1 组)、107 例病
+程≥5 年且 HBA1C <7 糖尿病达标组(DM2 组)和 108
+例病程≥5 年 HBA1C≥7 糖尿病未达标组(DM3 组)。
+研究对象均无吸烟史、无心脑血管疾病、肝肾功能正常
+且近 3 个月未服用调脂药物者,排除 1 型糖尿病、妊娠
+糖尿病和线粒体糖尿病患者[2]。 NGT 和 IGT 研究对
+象均经 75 g 口服葡萄糖耐量试验确定。 新诊断 2 型
+糖尿病定义为确诊 2 型糖尿病 1 年,1 年内连续使用
+降糖药物未超 2 个月,最近 3 个月未使用任何降糖药
+物,仅通过饮食控制和运动方案控制血糖的患者。
+二、 方法
+1. 一般临床资料收集:由专人专尺测量身高、体
+重和腰围。 腰围测量方法:髂前上棘与同侧腋中线肋
+弓最下缘连线中点的周径。 血压测量方法:清晨排空
+膀胱休息 15 min 后,测量右上臂肱动脉血压,重复后
+取平均值。 HBA1C 检测采用离子交换高压液相色谱
+法;血脂、肝肾功能测定采用酶化学法。
+2. FMD 测定[3]:FMD 定义为 5 min 暂时性阻断肱
+动脉血流导致血流恢复后第 1 min 时肱动脉反应性血
+管充血状态所形成的肱动脉直径扩张率,公式表示为
+FMD(% )= [(最大血管扩张直径-静息血管直径) /静
+息血管直径] ×100% 。 测量方法:清晨空腹并排空膀
+胱条件下,静卧检查床休息 5 min。 设定彩色多普勒超
+声诊断仪线性探头频率 10 MHz,在右肘上获得肱动脉
+纵切面最清晰图像处固定探头包扎袖带。 以静息时肱
+动脉内径作为基础对照,快速充气加压至 250 mm Hg
+(1 mm Hg=0. 133 kPa)完全阻断肱动脉血流 5 min 后
+迅速放气松开袖带,于第 60 秒测定肱动脉内径。 专人
+操作,超声探头位置固定,确保血管内径测量取同一部
+位。 患者需于检测日前一天停用血管紧张素转换酶抑
+制剂、血管紧张素受体拮抗剂、钙离子通道阻断剂、β
+受体阻滞剂等血管活性药物。
+3. GTN 测定[4]:GTN 定义为舌下含服 500 μg 硝
+酸甘油时加压释压所形成的肱动脉直径扩张率,用公
+式表示为 GTN(% )= (服硝酸甘油后最大血管扩张直
+径-静息血管直径) /静息血管直径×100% 。 测量方法
+同 FMD。
+4. CIMT 测定[5]:CIMT 定义为颈动脉壁内膜与中
+膜厚度之和。 运用高分辨率彩色多普勒,探头频率≥
+7. 5 MHz,选择左右两侧颈动脉近、中、远 3 个 1 cm 长
+度动脉管腔为靶区,测定血液内膜界面与管壁中、外膜
+界面之间的距离,取双侧平均值作为该患者的 CIMT。
+按常规用弧形测角仪固定患者头部位置以防图像漂
+移。 所有操作均由同一位超声专业医师完成。
+5. 外周静脉血基础 NO 检测:采集空腹 12 h 的
+EDTA-K2抗凝静脉血 6 ml,其中 2 ml 用于检测 NO。 因
+NO 半衰期很短,通过试剂盒(南京建成生物公司)测
+定其代谢产物 NOX(硝酸盐和亚硝酸盐)浓度间接反
+映 NO 水平,按说明书操作。
+6. 外周血单个核细胞( peripheral blood mononu-
+clear cells, PBMNCs)分离及制备[6]:用等量 PBS 液稀
+释另外 4 ml 抗凝静脉血,将稀释后血液缓慢叠加于淋
+巴细胞分离液液面上;室温 2 000 转 / min ×20 min 离
+心,管内液体从上至下依次分为五层:血浆 PBS 液、
+PBMNCs 层(白色云雾层)、淋巴细胞分离液、粒细胞
+层、红细胞层;用吸管吸取白色云雾层狭窄带内单个核
+细胞转移入另一加有 1640 细胞培养液的无菌离心管
+备用。
+7. 逆转录荧光定量实时 PCR:按照试剂盒说明书
+从 PBMNCs 中抽提总 RNA 并逆转录制备 cDNA,总
+RNA 制备采用 PrepEaseTMRNA Spin Kit(usbTM)RNA 抽
+提试剂盒,cDNA 制备选用 PrepEaseTM CDNA Spin Kit
+(usbTM)试剂盒。 采用荧光定量实时 PCR 仪(RocheTM
+LightcyclerTM480),按常规行荧光定量实时 PCR 反应
+检测 PGC-1α mRNA 和 IL-1β mRNA 转 录 水 平。
+PGC-1α(NM_013261)引物序列:上游为 5'-TCTGAGT-
+CTGTATGGAGTGACAT-3'、下游为 5'-CCAAGTCGTTC-
+ACATCTAGTTCA-3'; IL-1β(NM_000576)引物序列:
+上游为 5'-ATGATGGCTTATTACAGTGGCAA-3'、 下游
+为 5'-GTCGGAGATTCGTAGCTGGA-3'。 以甘油-3-磷酸
+脱 氢 酶 ( glyceraldehyde-3-phosphate dehydrogenase,
+GAPDH)作为内标基因,GAPDH 引物序列:上游为 5'-
+CGACCACTTTGTCAAGCTCA-3'、下游为 5'-AGGGGT-
+CTACATGGCAACTG-3'。 分别选 0 时刻样本 PGC-1α
+和 IL-1β 作为参照样本,每个样品重复 3 次取平均值。
+8. Western 印迹检测磷酸化 Akt-Ser473 的蛋白表
+达:100 滋l 裂解液与 PBMNCs 样本混匀后,煮沸裂解 6
+min,离心后 BCA 法测定总蛋白含量。 取 30 μg 与 2×
+SDS 缓冲液混匀后上样行 SDS-PAGE 凝胶电泳,电转
+移 PVDF 膜并封膜后与兔抗人磷酸化 Akt-Ser473 一抗
+(CST 公司 Phospho-Akt-Ser473 Antibody)及抗人 β-actin
+抗体(NeoMarker 公司 Actin Antibody)过夜孵育,加入
+辣根过氧化物酶标记的二抗 ( CST 公司 Anti-rabbit-
+IgG-HRP)孵育 1 h 后洗膜,应用 ECL 化学发光试剂盒
+(Amersham 公司)显影、定影。
+三、 统计学处理
+采用 SPSS11. 0 统计学软件包进行统计分析,正态
+分布计量资料以 x-± s 表示,非正态分布数据需经对数
+转换,其中逆转录荧光定量实时 PCR 所得的 Ct(cycle
+threshold, Ct)值需要通过 2-△△Ct数据转化成线性形式
+后再进行统计学分析。 统计学方法包括单因素
+ANOVA 分析、 Pearson 相关和 Spearman 等级相关、
+Logistic 多元逐步回归分析。
+结    果
+一、 研究对象一般临床特征与血管内皮超声检测
+结果(表 1)
+5 组间性别、年龄、体重指数、腰围、收缩压、舒张
+压、总胆固醇、甘油三酯、低密度脂蛋白胆固醇(LDL-
+C)差别均无统计学意义(P>0. 05)。 FMD 值在 NGT
+和 IGT 组均显著高于 2 型糖尿病组(P<0. 05 或 P<
+0. 01),IGT 组与 NGT 组之间差异无统计学意义(P>
+0. 05);在 2 型糖尿病组,按 FMD 值降序排列依次是
+DM1 组>DM2 组>DM3 组,3 组间差异有统计学意义
+(P<0. 05 或 P<0. 01)。 GTN 在 DM2 组和 DM3 组均显
+著低于 NGT、IGT 和 DM1 组(P<0. 01),而前两者间差
+异有统计学意义(P<0. 01)、后 3 组间差异无统计学意
+义(P>0. 05) 。 CIMT 值在 DM2 组和 DM3 组均显著高
+于 NGT、IGT 和 DM1 组(P<0. 05),而前两组间差异有
+统计学意义(P<0. 05),后 3 组间差异无统计学意义
+(P>0. 05)。
+二、 NO 代谢产物检测结果(表 1)
+NO 检测试剂盒采用硝酸还原酶法测定 NO 代谢
+产物间接表示基础 NO 浓度,结果显示 DM1 组基础
+NO 浓度最高,与其余各组比较差异均有统计学意义
+(P<0. 05 或 P<0. 01)。 糖尿病 3 组间差异有统计学
+意义(P<0. 05 或 P<0. 01),而 NGT 和 IGT 组间差异无
+统计学意义(P>0. 05)。
+三、 Akt-Ser473磷酸化水平比较(表 1)
+用图像处理系统扫描 Western 印迹胶片显影条带
+测定光密度,累计光密度(IOD)= 平均光密度(AUG)×
+发光面积。 相对含量以同一标本 Akt-Ser473与 β-Actin
+的 IOD 比值来表示。 结果显示非糖尿病组 Akt-Ser473
+位点磷酸化水平高于糖尿病组,差异有统计学意义
+(P<0. 05);DM1 组与 DM2 组差异无统计学意义,但明
+显高于 DM3 组(P<0. 05);NGT 和 IGT 组间差异无统
+计学意义(P>0. 05)。
+四、 逆转录实时荧光定量 PCR 检测 IL-1β mRNA
+和 PGC-1α mRNA 转录(表 1)
+采用目的基因 PGC-1α 或 IL-1β 和内标基因
+GAPDH 放在同一管中 PCR 的相对定量法分析 PCR 数
+据,设定扩增阈值 T,目的基因扩增达到该阈值所需的
+循环数定义为 Ct 值,目的基因相对表达水平定义为经
+GAPDH 均一化处理过的样本相对于参照样本的倍数,
+表示为 2-△△Ct。 糖尿病组 IL-1β mRNA 和 PGC-1α
+mRNA 转录水平高于非糖尿病组 (P < 0. 05 或 P <
+0. 01),糖尿病 3 组间差异有统计学意义(P<0. 05 或
+P<0. 01),NGT 和 IGT 组间差异无统计学意义(P >
+0. 05)。
+五、 相关分析
+HBA1C、收缩压、病程和 FMD 之间存在负相关( r
+分别为 - 0. 183、 - 0. 252、 - 0. 385, P < 0. 05 或 P <
+0. 01)。病程、LDL-C、收缩压、舒张压与 GTN 之间存在
+负相关( r 分别为-0. 195、-0. 282、-0. 153、-0. 293,
+P<0. 05 或 P<0. 01)。 收缩压、病程、甘油三酯与 CIMT
+之间存在正相关( r 分别为 0. 316、 0. 192、 0. 227, P<
+0. 05 或 P<0. 01)。 PGC-1α 与 FMD、GTN 之间存在正
+表 1  各组临床与实验室资料(x-± s)
+Tab 1  Clinical and laboratory data in various groups(x-± s)
+组别
+Group
+例数
+(男 / 女)
+n
+(Male / Female)
+年龄
+(岁)
+Age
+(year)
+病程
+(月)
+Duration
+(month)
+体重指数
+Body mass index
+(kg / m2)
+男性腰围
+Waist circumference
+in male
+(cm)
+女性腰围
+Waist circumference
+in female
+(cm)
+收缩压
+Systolic blood
+pressure
+(mm Hg)
+NGT   94(48 / 46) 55 ± 4 24. 3 ± 2. 0 83. 1 ± 3. 5 84. 3 ± 3. 7 123. 0 ± 11. 6
+IGT   87(40 / 37) 55 ± 3 24. 8 ± 2. 7 84. 5 ± 3. 0 84. 9 ± 3. 6 123. 3 ± 11. 3
+DM1   91(44 / 47) 54 ± 4 5 ± 2 24. 1 ± 1. 2 85. 4 ± 3. 1 85. 8 ± 3. 5 123. 5 ± 11. 2
+DM2 107(51 / 56) 55 ± 3 65 ± 8e 24. 9 ± 1. 5 85. 7 ± 3. 0 85. 9 ± 3. 2 124. 3 ± 11. 7
+DM3 108(58 / 50) 55 ± 4 98 ± 15e 24. 3 ± 1. 6 85. 9 ± 3. 3 86. 8 ± 3. 0 124. 6 ± 11. 8
+组别
+Group
+例数
+(男 / 女)
+n
+(Male / Female)
+舒张压
+Diastolic blood pressure
+(mm Hg)
+总胆固醇
+Total cholesterol
+(mmol / L)
+甘油三酯
+Triglycerides
+(mmol / L)
+LDL-C
+(mmol / L)
+HBA1C
+(% )
+FMD
+(% )
+NGT   94(48 / 46) 80. 3 ± 8. 5 5. 3 ± 0. 2 1. 6 ± 0. 3 2. 8 ± 0. 6 4. 8 ± 0. 3 13. 49 ± 1. 77
+IGT   87(40 / 37) 80. 3 ± 8. 3 5. 3 ± 0. 4 1. 6 ± 0. 4 2. 8 ± 0. 3 5. 1 ± 0. 2 13. 15 ± 1. 38
+DM1   91(44 / 47) 81. 5 ± 8. 2 5. 3 ± 1. 1 1. 6 ± 0. 5 2. 9 ± 0. 5 6. 4 ± 0. 3b 6. 92 ± 0. 72b
+DM2 107(51 / 56) 81. 6 ± 8. 5 5. 4 ± 0. 9 1. 7 ± 0. 3 2. 9 ± 0. 3 6. 5 ± 0. 4b 4. 33 ± 0. 24bc
+DM3 108(58 / 50) 81. 8 ± 8. 9 5. 4 ± 1. 3 1. 7 ± 0. 4 3. 0 ± 0. 4 7. 8 ± 0. 7bce 2. 59 ± 0. 66bde
+组别
+Group
+例数
+(男 / 女)
+n
+(Male / Female)
+GTN
+(% )
+CIMT
+(mm) NOx P-Akt(Ser
+473) IL-1β mRNA(2-△△CT)
+PGC-1α mRNA
+(2-△△CT)
+NGT   94(48 / 46) 15. 23 ± 2. 08 0. 74 ± 0. 03 76. 25 ± 13. 17 0. 90 ± 0. 13 4. 63 ± 0. 15 7. 99 ± 0. 28
+IGT   87(40 / 37) 15. 10 ± 2. 11 0. 77 ± 0. 05 78. 46 ± 16. 33 0. 88 ± 0. 05 4. 97 ± 0. 18 7. 22 ± 0. 31
+DM1   91(44 / 47) 14. 93 ± 2. 03 0. 82 ± 0. 04 88. 59 ± 17. 45a 0. 78 ± 0. 11a 7. 04 ± 0. 21b 5. 60 ± 0. 24a
+DM2 107(51 / 56) 8. 17 ± 1. 18bd 1. 09 ± 0. 03ac 65. 28 ± 13. 08ad 0. 73 ± 0. 10a 7. 06 ± 0. 18b 3. 62 ± 0. 19bd
+DM3 108(58 / 50) 4. 66 ± 1. 13bdf 1. 12 ± 0. 03ace 52. 92 ± 10. 82bde 0. 45 ± 0. 08ace 8. 85 ± 0. 26bce 1. 77 ± 0. 07bde
+注:NGT:正常糖耐量 Normal glucose tolerance;IGT:糖耐量受损 Impaired glucose tolerance;DM1:新诊断糖尿病 Newly-diagnosed diabetes mellitus;
+DM2:糖尿病达标组 Controlled diabetes mellitus;DM3:糖尿病未达标组 Uncontrolled diabetes mellitus;1 mm Hg=0. 133 kPa;LDL-C:低密度脂蛋白胆固醇
+Low-density lipoprotein-cholesterol;FMD:内皮依赖的血流介导的血管扩张率 Flow-mediated vasodilatation;GTN:硝酸甘油介导的不依赖内皮的血管扩张
+率 Glyceryl trinitrate dilatation;CIMT:颈总动脉内中膜厚度 Carotid intima-media thickness;NOx:一氧化氮代谢终产物硝酸盐和亚硝酸盐 Nitric oxide
+metabolism end products nitrate and nitrite;P-Akt(Ser473):磷酸化 Akt 丝氨酸 473 位点 Phosphorylation-Akt(Ser473);IL-1β:白细胞介素 1β Interleukin-1β;
+CT:达到设定阈值所需 PCR 循环数 Cycle Threshold;PGC-1α:PPARγ 辅助激活子 α PPARγ coactivator 1α;vs NGT,a P<0. 05,b P<0. 01;vs DM1,c P<
+0. 05,dP<0. 01;vs DM2,eP<0. 05,fP<0. 01
+相关( r 分别为 0. 235 和 0. 218, P<0. 05 或 P<0. 01)。
+Logistic 多元逐步回归分析:分别以病程、体重指
+数、WC、 SBP、 DBP、 总 胆 固 醇、 甘 油 三 酯、 LDL-C、
+HBA1C、PGC-1α mRNA 为应变量;以 FMD(或 GTN 或
+CIMT)、年龄、性别和各临床生化指标为自变量。 分析
+显示,HBA1C、病程、PGC-1α 是 FMD 独立相关因子(P<
+0. 01),在校正年龄、性别等其他影响因素之后,PGC-
+1α 仍与 FMD 独立相关(P<0. 05)。 病程、收缩压是
+CIMT 独立相关因子(P<0. 05),病程、LDL-C、舒张压
+是 GTN 独立相关因子(P<0. 05)。
+讨    论
+糖尿病大血管并发症的主要病理特点为血管平滑
+肌重构所导致的动脉粥样硬化,表现为血管舒张机制
+受损。 大量研究已证实[7,8],血管内皮细胞合成的 NO
+是血管舒张的基础,内皮功能障碍引起的 NO 合成下
+降是动脉粥样硬化的促发环节,因而,评估内皮合成的
+NO 是预测大血管并发症的有效手段。
+FMD 是通过高频彩超对短暂高压阻断的肱动脉
+突然释压后迅速恢复的血流量的检测判定血管最大瞬
+时容积的改变,可间接反映肱动脉内皮细胞瞬时 NO
+的释放量,与血管内皮功能直接相关。 与 FMD 不同,
+GTN 是 NO 前体物质硝酸甘油经血液弥散至血管内皮
+下直接刺激平滑肌细胞引起血管舒张,这种舒张机制
+与内皮细胞合成的 NO 无关,只与血管平滑肌功能状
+态有关[9],是一种血管内皮非依赖的血管舒张作用。
+既往研究认为,由于颈总动脉压力较大,在危险因素存
+在的情况下,颈总动脉早于其他部位易于发生管壁内
+中膜增厚,CIMT 可作为大血管动脉粥样硬化的早期信
+号[10]。 本研究显示,在新诊断 2 型糖尿病组 ( DM1
+组),FMD 已经明显低于 NGT 组和 IGT 组,而 GTN 和
+CIMT 尚未出现差异,随着糖尿病病情加重、病程延长,
+GTN 和 CIMT 的差异性才逐渐显现,说明 FMD 对大血
+管并发症的早期预警价值要优于 GTN 和 CIMT,而
+GTN 和 CIMT 更侧重于动脉粥样硬化的进展。
+血中 NO 半衰期仅为数分钟,本研究通过检测其
+代谢终产物 NOx 间接估计 NO 的量。 NOx 由两部分组
+成,即血管内皮一氧化氮合酶(eNOS)和诱导型一氧化
+氮合酶(iNOS)所合成的 NO 代谢产物。 eNOS 合成的
+NO 具有舒张血管的作用,而 iNOS 合成的 NO 主要参
+与炎症反应。 既往研究已证实[1],PI3K-Akt 通路介导
+了血管内皮 NO 生成,IL-1β 介导了 iNOS 途径的 NO
+合成[11]。 本研究显示,新诊断 2 型糖尿病组(DM1)
+NOx 最高,结合 FMD 和 Akt-Ser473 磷酸化水平低于
+NGT 组和 IGT 组,显示 PI3K-Akt 通路介导的血管内皮
+NO 合成机制在糖尿病早期已经受损,考虑炎症指标
+IL-1β mRNA 转录水平显著高于 NGT 组和 IGT 组,提
+示 IL-1β 所介导的 NO 合成在新诊断 2 型糖尿病组
+(DM1 组)对 NOx 贡献较大。 NOx 在 2 型糖尿病达标
+组( DM2 组) 显著低于新诊断 2 型糖尿病组 ( DM1
+组),但 IL-1β mRNA 却无明细改变,结合 PGC-1α 转录
+水平下降,分析可能与内皮线粒体功能下降导致 eNOS
+合成下降有关。
+PGC-1α 基因位于染色体 4p15. 1 区,是核受体家
+族中的一个重要的转录协同激活因子,具有促进线粒
+体生物合成[12]、脂肪酸 β 氧化[13]、呼吸链氧化磷酸
+化[13]、线粒体内膜基质侧质子泵跨膜电位差的维持及
+减少细胞内 ROS 聚集的作用,是调控血管内皮细胞和
+管壁平滑肌细胞线粒体能量代谢及抗细胞凋亡的重要
+因子[14]。 本研究证实 PGC-1α 与 FMD、GTN 之间存在
+正相关,提示 PGC-1α 可能是通过对血管内皮细胞和
+血管壁平滑肌细胞线粒体功能的双调控,经内皮依赖
+和内皮非依赖两种途径实现对大血管的保护作用。 考
+虑到血脂异常对动脉粥样硬化的影响不利于筛选早期
+预警指标,本研究仅基于血脂谱基本正常的研究对象
+进行评估,然而由于 PGC-1α 具有促进线粒体脂肪酸
+β 氧化的作用[13],其对脂代谢的影响有可能参与了对
+糖尿病大血管的保护,具体的机制本课题组将在后续
+PGC-1α 遗传学研究和胎儿脐静脉内皮细胞学研究中
+给以证实。

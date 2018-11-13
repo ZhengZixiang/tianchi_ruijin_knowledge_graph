@@ -1,0 +1,453 @@
+T1	Disease 2792 2799	糖尿病神经病变
+T2	Disease 9247 9251;9252 9255	糖尿病神 经病变
+T3	Test 4590 4594	空腹血糖
+T4	Disease 255 264	糖尿病周围神经病变
+T5	Disease 7330 7331;7332 7340	糖 尿病周围神经病变
+T6	Anatomy 171 175	EPCs
+T7	Anatomy 333 337	EPCs
+T8	Anatomy 555 559	EPCs
+T9	Anatomy 644 648	EPCs
+T10	Anatomy 696 700	EPCs
+T11	Anatomy 1158 1162	EPCs
+T12	Anatomy 1440 1444	EPCs
+T13	Anatomy 1899 1903	EPCs
+T14	Anatomy 2160 2164	EPCs
+T15	Anatomy 2262 2266	EPCs
+T16	Anatomy 2386 2390	EPCs
+T17	Anatomy 2904 2908	EPCs
+T18	Anatomy 2910 2914	EPCs
+T19	Anatomy 3201 3205	EPCs
+T20	Anatomy 3276 3280	EPCs
+T21	Anatomy 3313 3317	EPCs
+T22	Anatomy 3787 3791	EPCs
+T23	Anatomy 4818 4822	EPCs
+T24	Anatomy 4893 4897	EPCs
+T25	Anatomy 4918 4922	EPCs
+T26	Anatomy 4952 4956	EPCs
+T27	Anatomy 5033 5037	EPCs
+T28	Anatomy 5113 5117	EPCs
+T29	Anatomy 5514 5518	EPCs
+T30	Anatomy 5641 5645	EPCs
+T31	Anatomy 5755 5759	EPCs
+T32	Anatomy 5763 5767	EPCs
+T33	Anatomy 5788 5792	EPCs
+T34	Anatomy 5793 5797	EPCs
+T35	Anatomy 5834 5838	EPCs
+T36	Anatomy 5856 5860	EPCs
+T37	Anatomy 5964 5968	EPCs
+T38	Anatomy 6049 6053	EPCs
+T39	Anatomy 6078 6082	EPCs
+T40	Anatomy 6106 6110	EPCs
+T41	Anatomy 6135 6139	EPCs
+T42	Anatomy 6186 6190	EPCs
+T43	Anatomy 6235 6239	EPCs
+T44	Anatomy 6254 6258	EPCs
+T45	Anatomy 6272 6276	EPCs
+T46	Anatomy 6376 6380	EPCs
+T47	Anatomy 6397 6401	EPCs
+T48	Anatomy 6530 6534	EPCs
+T49	Anatomy 6568 6572	EPCs
+T50	Anatomy 7195 7199	EPCs
+T51	Anatomy 7400 7404	EPCs
+T52	Anatomy 7728 7732	EPCs
+T53	Anatomy 7834 7838	EPCs
+T54	Anatomy 7998 8002	EPCs
+T55	Anatomy 8312 8316	EPCs
+T56	Anatomy 8416 8420	EPCs
+T57	Anatomy 8625 8629	EPCs
+T58	Anatomy 8819 8823	EPCs
+T59	Anatomy 9269 9273	EPCs
+T60	Anatomy 9312 9316	EPCs
+T61	Anatomy 9321 9325	EPCs
+T62	Anatomy 9370 9374	EPCs
+T63	Anatomy 9422 9426	EPCs
+T64	Anatomy 9432 9436	EPCs
+T65	Anatomy 9445 9449	EPCs
+T66	Anatomy 9543 9547	EPCs
+T67	Anatomy 9923 9927	EPCs
+T68	Anatomy 9953 9957	EPCs
+T69	Anatomy 9989 9993	EPCs
+T70	Anatomy 10011 10015	EPCs
+T71	Anatomy 10069 10073	EPCs
+T72	Anatomy 10099 10103	EPCs
+T73	Anatomy 10181 10185	EPCs
+T74	Anatomy 414 418	坐骨神经
+T75	Anatomy 477 481	坐骨神经
+T76	Anatomy 659 663	坐骨神经
+T77	Anatomy 760 764	坐骨神经
+T78	Anatomy 4517 4521	坐骨神经
+T79	Anatomy 4651 4655	坐骨神经
+T80	Anatomy 4663 4667	坐骨神经
+T81	Anatomy 4690 4694	坐骨神经
+T82	Anatomy 5048 5052	坐骨神经
+T83	Anatomy 5087 5091	坐骨神经
+T84	Anatomy 5131 5135	坐骨神经
+T85	Anatomy 5163 5167	坐骨神经
+T86	Anatomy 5180 5184	坐骨神经
+T87	Anatomy 5195 5199	坐骨神经
+T88	Anatomy 5249 5253	坐骨神经
+T89	Anatomy 5294 5298	坐骨神经
+T90	Anatomy 5315 5319	坐骨神经
+T91	Anatomy 5330 5334	坐骨神经
+T92	Anatomy 5345 5349	坐骨神经
+T93	Anatomy 6630 6634	坐骨神经
+T94	Anatomy 6705 6709	坐骨神经
+T95	Anatomy 6952 6956	坐骨神经
+T96	Anatomy 7038 7042	坐骨神经
+T97	Anatomy 7759 7763	坐骨神经
+T98	Anatomy 7883 7887	坐骨神经
+T99	Anatomy 8430 8434	坐骨神经
+T100	Anatomy 8639 8643	坐骨神经
+T101	Anatomy 8833 8837	坐骨神经
+T102	Anatomy 9610 9614	坐骨神经
+T103	Anatomy 9666 9670	坐骨神经
+T104	Anatomy 9733 9737	坐骨神经
+T105	Anatomy 9801 9802;9803 9806	坐 骨神经
+T106	Anatomy 9863 9867	坐骨神经
+T107	Anatomy 10000 10004	坐骨神经
+T108	Anatomy 10140 10144	坐骨神经
+T109	Anatomy 10154 10158	坐骨神经
+T110	Test 399 403	MNCV
+T111	Test 482 486	MNCV
+T112	Test 563 567	MNCV
+T113	Test 765 769	MNCV
+T114	Test 1498 1502	MNCV
+T115	Test 1785 1789	MNCV
+T116	Test 1870 1874	MNCV
+T117	Test 2405 2409	MNCV
+T118	Test 4522 4526	MNCV
+T119	Test 4656 4660	MNCV
+T120	Test 4695 4699	MNCV
+T121	Test 5053 5057	MNCV
+T122	Test 5092 5096	MNCV
+T123	Test 5136 5140	MNCV
+T124	Test 5299 5303	MNCV
+T125	Test 5335 5339	MNCV
+T126	Test 6635 6639	MNCV
+T127	Test 6660 6664	MNCV
+T128	Test 6710 6714	MNCV
+T129	Test 6957 6961	MNCV
+T130	Test 6990 6994	MNCV
+T131	Test 7043 7047	MNCV
+T132	Test 7062 7066	MNCV
+T133	Test 7440 7444	MNCV
+T134	Test 7764 7768	MNCV
+T135	Test 7801 7805	MNCV
+T136	Test 7853 7857	MNCV
+T137	Test 9615 9619	MNCV
+T138	Test 9671 9675	MNCV
+T139	Test 9738 9742	MNCV
+T140	Test 9807 9811	MNCV
+T141	Test 9868 9872	MNCV
+T142	Test 10052 10056	MNCV
+T143	Test 10090 10094	MNCV
+T144	Test 10145 10149	MNCV
+T145	Disease 296 299	DPN
+T146	Disease 302 305	DPN
+T147	Disease 309 312	DPN
+T148	Disease 319 322	DPN
+T149	Disease 329 332	DPN
+T150	Disease 461 464	DPN
+T151	Disease 467 470	DPN
+T152	Disease 543 546	DPN
+T153	Disease 551 554	DPN
+T154	Disease 634 637	DPN
+T155	Disease 640 643	DPN
+T156	Disease 652 655	DPN
+T157	Disease 682 685	DPN
+T158	Disease 692 695	DPN
+T159	Disease 734 737	DPN
+T160	Disease 753 756	DPN
+T161	Disease 1235 1238	DPN
+T162	Disease 1389 1392	DPN
+T163	Disease 1401 1404	DPN
+T164	Disease 1418 1421	DPN
+T165	Disease 1436 1439	DPN
+T166	Disease 1734 1737	DPN
+T167	Disease 1748 1751	DPN
+T168	Disease 1855 1858	DPN
+T169	Disease 1895 1898	DPN
+T170	Disease 2145 2148	DPN
+T171	Disease 2156 2159	DPN
+T172	Disease 2176 2179	DPN
+T173	Disease 2203 2206	DPN
+T174	Disease 2258 2261	DPN
+T175	Disease 2357 2360	DPN
+T176	Disease 2482 2485	DPN
+T177	Disease 2668 2671	DPN
+T178	Disease 2726 2729	DPN
+T179	Disease 2748 2751	DPN
+T180	Disease 2768 2771	DPN
+T181	Disease 3208 3211	DPN
+T182	Disease 4354 4357	DPN
+T183	Disease 4729 4732	DPN
+T184	Disease 4783 4786	DPN
+T185	Disease 4799 4802	DPN
+T186	Disease 4805 4808	DPN
+T187	Disease 4814 4817	DPN
+T188	Disease 4914 4917	DPN
+T189	Disease 5007 5010	DPN
+T190	Disease 5079 5082	DPN
+T191	Disease 5109 5112	DPN
+T192	Disease 5121 5124	DPN
+T193	Disease 6621 6624	DPN
+T194	Disease 7142 7145	DPN
+T195	Disease 7166 7169	DPN
+T196	Disease 7191 7194	DPN
+T197	Disease 7326 7329	DPN
+T198	Disease 7522 7525	DPN
+T199	Disease 7533 7536	DPN
+T200	Disease 7569 7572	DPN
+T201	Disease 7677 7680	DPN
+T202	Disease 7713 7716	DPN
+T203	Disease 7722 7725	DPN
+T204	Disease 7741 7744	DPN
+T205	Disease 7778 7781	DPN
+T206	Disease 7785 7788	DPN
+T207	Disease 7830 7833	DPN
+T208	Disease 7898 7901	DPN
+T209	Disease 7940 7943	DPN
+T210	Disease 7993 7996	DPN
+T211	Disease 8024 8027	DPN
+T212	Disease 8035 8038	DPN
+T213	Disease 8129 8132	DPN
+T214	Disease 8209 8212	DPN
+T215	Disease 8308 8311	DPN
+T216	Disease 8397 8400	DPN
+T217	Disease 8403 8406	DPN
+T218	Disease 8412 8415	DPN
+T219	Disease 8606 8609	DPN
+T220	Disease 8612 8615	DPN
+T221	Disease 8621 8624	DPN
+T222	Disease 8800 8803	DPN
+T223	Disease 8806 8809	DPN
+T224	Disease 8815 8818	DPN
+T225	Disease 9014 9017	DPN
+T226	Disease 9046 9049	DPN
+T227	Disease 9064 9067	DPN
+T228	Disease 9719 9722	DPN
+T229	Disease 9905 9908	DPN
+T230	Disease 10082 10085	DPN
+T231	Disease 10232 10235	DPN
+T232	Test 3255 3257	体重
+T233	Test 3329 3331	体重
+T234	Test 4364 4366	体重
+T235	Disease 54 56;57 61	周围 神经病变
+T236	Anatomy 114 121	骨髓内皮祖细胞
+T237	Disease 182 185	糖尿病
+T238	Drug 204 209	链脲佐菌素
+T239	Amount 210 220	60 mg / kg
+T240	Method 221 225	腹腔注射
+T241	Disease 227 230	糖尿病
+T242	Test 624 626	光镜
+T243	Test 627 629	电镜
+T244	Disease 714 717	糖尿病
+T245	Disease 2673 2676	糖尿病
+T246	Disease 2700 2703	糖尿病
+T247	Anatomy 3387 3389	胫骨
+T248	Anatomy 3390 3392	股骨
+T249	Anatomy 3430 3432	骨髓
+T250	Anatomy 3424 3427	骨髓腔
+T251	Anatomy 3456 3458	骨髓
+T252	Test 4487 4488;4489 4490	血 糖
+T253	Test 4491 4493	血糖
+T254	Drug 4536 4541	链脲佐菌素
+T255	Method 4577 4579;4580 4582	腹腔 注射
+T256	Test 4595 4597	血糖
+T257	Disease 4618 4621	糖尿病
+T258	Disease 4625 4628	糖尿病
+T259	Disease 4684 4687	糖尿病
+T260	Test 4764 4766	血糖
+T261	Test 4844 4846	血糖
+T262	Test 4849 4851	血糖
+T263	Disease 4899 4902	糖尿病
+T264	Disease 5062 5065	糖尿病
+T265	Test 5281 5284	肌电图
+T266	Anatomy 5530 5537	骨髓单个核细胞
+T267	Disease 6640 6643	糖尿病
+T268	Anatomy 6654 6657;6658 6659	坐骨神 经
+T269	Disease 6693 6696	糖尿病
+T270	Test 6755 6757	光镜
+T271	Disease 6805 6808	糖尿病
+T272	Disease 7719 7721	死亡
+T273	Disease 7734 7736	死亡
+T274	Anatomy 7795 7798;7799 7800	坐骨神 经
+T275	Anatomy 9275 9281	血管内皮细胞
+T276	Anatomy 9306 9308	骨髓
+T277	Disease 9556 9559	糖尿病
+T278	Disease 9565 9571	周围神经病变
+T279	Disease 9595 9598	糖尿病
+T280	Disease 9602 9605	糖尿病
+T281	Disease 9653 9656	糖尿病
+T282	Disease 9781 9784	糖尿病
+T283	Disease 9846 9849	糖尿病
+T284	Disease 9892 9895	糖尿病
+T285	Anatomy 9931 9933	骨髓
+T286	Anatomy 10046 10049;10050 10051	坐骨神 经
+T287	Test 3861 3867	低密度脂蛋白
+T288	Test 6041 6047	低密度脂蛋白
+T289	Test 6157 6163	低密度脂蛋白
+T290	Test_Value 487 491	明显减慢
+T291	Reason 9078 9090	多元醇通路亢进、肌醇减少
+T292	Reason 9094 9095;9096 9102	非 酶糖基化作用
+T293	Reason 9106 9113	糖、脂代谢异常
+T294	Reason 9117 9121	氧化应激
+T295	Reason 9126 9131	微循环障碍
+T296	Reason 9135 9142	血液流变学异常
+T297	Reason 9146 9152;9153 9155	血管活性因子 异常
+T298	Reason 9159 9176	神经营养因子及相关神经肽、受体减少
+T299	Test 406 408	光镜
+T300	Test 409 411	电镜
+T301	Anatomy 794 799	内皮祖细胞
+T302	Disease 801 804	糖尿病
+T303	Disease 808 814	周围神经病变
+T304	Anatomy 2846 2853	骨髓内皮祖细胞
+T305	Anatomy 3516 3519;3520 3524	骨髓单 个核细胞
+T306	Test 3802 3808	双荧光染色法
+T307	Test 4067 4082;4083 4084	matrigel 凝胶成血管实 验
+T308	Frequency 4583 4587	72 h
+T309	Method 4937 4939;4940 4942	肌肉 注射
+T310	Anatomy 5016 5020	右侧后肢
+T311	Method 5020 5024	肌肉注射
+T312	Amount 5025 5029	1 ml
+T313	Test 5285 5290	诱发电位仪
+T314	Test 5372 5374	电镜
+T315	Anatomy 5646 5653	骨髓内皮祖细胞
+T316	Anatomy 5707 5714	骨髓单个核细胞
+T317	Anatomy 5969 5976	骨髓内皮祖细胞
+T318	Anatomy 5877 5884	骨髓内皮祖细胞
+T319	Test 6246 6251	荧光染色法
+T320	Test 6859 6861	糖尿
+T321	Disease 7261 7264	糖尿病
+T322	Disease 7296 7299	糖尿病
+T323	Anatomy 7405 7410	内皮祖细胞
+T324	Test 7445 7447;7448 7454	运动 神经传导速度
+T325	Test 7893 7895	光镜
+T326	Test 8052 8054	电镜
+T327	Test 8434 8439	光学显微镜
+T328	Test 8643 8645	电镜
+T329	Test 8841 8843	电镜
+T330	Disease 9021 9026	破坏性疾病
+T331	Test 9334 9339	免疫磁珠法
+T332	Test 9340 9347	密度梯度离心法
+T333	Test 9349 9354	差速贴壁法
+T334	Test 9359 9364	免疫磁珠法
+T335	Test 9403 9405;9406 9411	密度 梯度离心法
+T336	Test 9413 9418	差速贴壁法
+T337	Test 9461 9462;9463 9469	表 面标志鉴定法
+T338	Test 9470 9476	双荧光染色法
+T339	Test 9478 9492;9493 9494	atrigel 凝胶成血管实 验
+T340	Test 9506 9512	双荧光染色法
+T341	Test 9514 9526;9527 9531	matrigel 凝胶成 血管实验
+T342	Drug 9549 9552	STZ
+T343	Drug 9588 9591	STZ
+T344	Test 10166 10171	HE 染色
+T345	Test 10173 10175	电镜
+T346	Disease 770 773	脱髓鞘
+T347	Disease 774 778	轴索萎缩
+T348	Disease 2680 2685	慢性并发症
+T349	Test 8017 8019	病理
+T350	Treatment 9213 9218	抗氧化应激
+T351	Test_Value 568 572	明显提高
+T352	Disease 2617 2634	糖 尿 病 周 围 神 经 病 变
+T353	Anatomy 2811 2816	经滋养血管
+T354	Anatomy 3437 3441	淋巴细胞
+T355	Test_Value 4597 4612	≥16. 7 mmol / L
+T356	Test_Value 4700 4701;4702 4703	减 慢
+T357	Anatomy 5235 5238	臀浅肌
+T358	Duration 6644 6647	4 周
+T359	Duration 6648 6651	8 周
+T360	Duration 6697 6701	12 周
+T361	Test_Value 6722 6726	明显减慢
+T362	Duration 6809 6812	4 周
+T363	Duration 7654 7660	12 周病程
+T364	Disease 7661 7664	糖尿病
+T365	Duration 7592 7595	8 周
+T366	Test_Value 7806 7810	明显减慢
+T367	Test_Value 9628 9632	明显减慢
+T368	Duration 9657 9660	4 周
+T369	Duration 9661 9664	8 周
+T370	Test_Value 9683 9686	不减慢
+T371	Test_Value 9743 9767;9768 9779	< 47. 95 m / s (52. 95 ± 5. 00)m / s
+T372	Duration 9785 9788	4 周
+T373	Duration 9790 9793	8 周
+T374	Test_Value 9812 9826	< 47. 95 m / s
+T375	Duration 9850 9854	12 周
+T376	Test_Value 9874 9887	<47. 95 m / s
+T377	Duration 9896 9900	12 周
+T378	Anatomy 9959 9961	骨髓
+T379	Test_Value 10061 10065	明显改善
+T380	Anatomy 10191 10195	神经纤维
+T381	Test_Value 436 457	(52. 91 ± 4. 53)m / s
+T382	Test_Value 492 518;519 530	(36. 51 ± 6. 30 对 25. 37 ± 5. 48)m / s
+T383	Test_Value 573 607;608 613	(36. 51 ± 6. 30 对 46. 20 ± 11. 70) m / s
+T384	Test_Value 6781 6790	髓鞘着色、厚薄均匀
+T385	Test_Value 6791 6797	可见雪旺细胞
+T386	Test_Value 6833 6841	髓鞘厚薄基本均匀
+T387	Test_Value 6843 6851	可见少量空泡变性
+T388	Test_Value 7606 7616	神经纤维排列基本紧密
+T389	Test_Value 7617 7619;7620 7627	髓鞘 着色、厚薄不均
+T390	Test_Value 7628 7634	空泡变性明显
+T391	Test_Value 7635 7639	轴索变细
+T392	Test_Value 8961 8970	板层结构大部分存在
+T393	Test_Value 8984 8989	染色质凝集
+T394	Test_Value 8990 8994	核膜完整
+T395	Treatment 742 749	EPCs 移植
+T396	Treatment 10030 10037	EPCs 移植
+T397	Treatment 10217 10224	EPCs 移植
+T398	Disease 187 193	坐骨神经病变
+T399	Anatomy 353 357	坐骨神经
+T400	Anatomy 2802 2806	坐骨神经
+T401	Anatomy 4927 4935	右侧后肢坐骨神经
+T402	Test_Value 8004 8011	坐骨神经脱髓鞘
+T403	Treatment 38 49	骨髓内皮祖细胞移植治疗
+T404	Disease 49 52	糖尿病
+T405	Test 342 345	肌电图
+T406	Test 357 363;364 366	运动神经传导 速度
+T407	Symptom 665 668	脱髓鞘
+T408	Symptom 669 673	轴索萎缩
+T409	Reason 2758 2766	神经的微循环障碍
+T410	Anatomy 2946 2951;2952 2963	促血管生成 性、营养神经性细胞因子
+T411	Anatomy 2966 2976	血管内皮生长因子-A
+T412	Anatomy 3023 3026;3027 3035	成纤维 细胞生长因子-2
+T413	Anatomy 3071 3072;3073 3081	脑 源性神经营养因子
+T414	Anatomy 3124 3135	基质细胞衍生因子-1α
+T415	Anatomy 5220 5224	腓骨肌肉
+T416	Test_Value 6771 6775;6776 6780	神经纤维 排列紧密
+T417	Test_Value 6823 6831	神经纤维排列紧密
+T418	Disease 7748 7750	死亡
+T419	Test_Value 8971 8981;8982 8983	雪旺细胞细胞器基本正 常
+T420	Anatomy 8836 8841	经雪旺细胞
+T421	Treatment 9239 9246	骨髓干细胞移植
+T422	Test_Value 8012 8016	轴索萎缩
+T423	Test_Value 7903 7912	神经纤维排列略松散
+T424	Test_Value 7913 7916;7917 7927	髓鞘厚 薄不均并出现空泡变性
+T425	Test_Value 7928 7932	轴索变细
+T426	Test_Value 7947 7957	神经纤维排列明显松散
+T427	Test_Value 7958 7966	髓鞘严重厚薄不均
+T428	Test_Value 7970 7976	严重空泡变性
+T429	Test_Value 7977 7985	轴索变细甚至消失
+T430	Test_Value 8061 8067	髓鞘厚薄均匀
+T431	Test_Value 8068 8075;8076 8082	板层致密有序呈 同心圆形排列
+T432	Test_Value 8083 8092	轴索内电子密度均匀
+T433	Test_Value 8093 8100;8101 8109	可见线粒体及大 量神经微丝和微管
+T434	Test_Value 8110 8116	雪旺细胞正常
+T435	Test_Value 8134 8140	髓鞘厚薄不均
+T436	Test_Value 8141 8147	部分板层分离
+T437	Test_Value 8148 8155;8156 8157	呈弯曲、扭转状 态
+T438	Test_Value 8158 8166	有的增生到轴索里
+T439	Test_Value 8167 8171	轴索变细
+T440	Test_Value 8172 8180;8181 8182	雪旺细胞细胞器变 性
+T441	Test_Value 8184 8189	染色质凝集
+T442	Test_Value 8191 8196	核膜不完整
+T443	Test_Value 8218 8226	髓鞘厚薄严重不均
+T444	Test_Value 8228 8236	板层消失范围更大
+T445	Test_Value 8237 8241;8242 8244	高度弯曲 扭转
+T446	Test_Value 8246 8256	轴索变细有的甚至闭锁
+T447	Test_Value 8258 8267;8268 8275	雪旺细胞细胞器进一 步变性甚至消失
+T448	Test_Value 8276 8288	染色质凝集甚至出现核固缩
+T449	Test_Value 8289 8292;8293 8295	核膜不 完整
+T450	Test_Value 8319 8326	髓鞘厚薄不均情
+T451	Treatment 9199 9202;9203 9206	严格控 制血糖
+T452	Treatment 9207 9212	改善微循环
+T453	Treatment 9219 9223	营养神经

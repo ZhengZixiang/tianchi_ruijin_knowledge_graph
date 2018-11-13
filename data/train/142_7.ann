@@ -1,0 +1,424 @@
+T1	Disease 24 30	2 型糖尿病
+T2	Disease 195 201	2 型糖尿病
+T3	Disease 213 219	2 型糖尿病
+T4	Disease 878 884	2 型糖尿病
+T5	Disease 3033 3039	2 型糖尿病
+T6	Disease 3210 3216	2 型糖尿病
+T7	Disease 3247 3253	2 型糖尿病
+T8	Disease 3302 3308	2 型糖尿病
+T9	Disease 4918 4924	2 型糖尿病
+T10	Disease 8325 8331	2 型糖尿病
+T11	Disease 8359 8365	2 型糖尿病
+T12	Test 376 381	HBA1C
+T13	Test 1954 1959	HBA1C
+T14	Test 4528 4533	HBA1C
+T15	Test 5476 5481	HBA1C
+T16	Test 6786 6791	HBA1C
+T17	Test 7501 7506	HBA1C
+T18	Test 7900 7905	HBA1C
+T19	Test 5898 5903	HDL-C
+T20	Test 6662 6667	HDL-C
+T21	Test 5881 5886	LDL-C
+T22	Test 6646 6651	LDL-C
+T23	Test 361 365	空腹血糖
+T24	Test 4218 4219;4220 4223	空 腹血糖
+T25	Test 4513 4517	空腹血糖
+T26	Test 5487 5491	空腹血糖
+T27	Test 7884 7888	空腹血糖
+T28	Disease 32 41	非酒精性脂肪性肝病
+T29	Disease 944 953	非酒精性脂肪性肝病
+T30	Disease 3040 3049	非酒精性脂肪性肝病
+T31	Test 4877 4886	高密度脂蛋白胆固醇
+T32	Test 6668 6677	高密度脂蛋白胆固醇
+T33	Test 6652 6661	低密度脂蛋白胆固醇
+T34	Disease 144 149	NAFLD
+T35	Disease 226 231	NAFLD
+T36	Disease 887 892	NAFLD
+T37	Disease 1561 1566	NAFLD
+T38	Disease 1682 1687	NAFLD
+T39	Disease 1963 1968	NAFLD
+T40	Disease 2248 2253	NAFLD
+T41	Disease 2757 2762	NAFLD
+T42	Disease 3085 3090	NAFLD
+T43	Disease 3221 3226	NAFLD
+T44	Disease 3256 3261	NAFLD
+T45	Disease 3453 3458	NAFLD
+T46	Disease 3522 3527	NAFLD
+T47	Disease 3570 3575	NAFLD
+T48	Disease 4354 4359	NAFLD
+T49	Disease 8334 8339	NAFLD
+T50	Disease 8370 8375	NAFLD
+T51	Disease 8803 8808	NAFLD
+T52	Test 4444 4449	谷丙转氨酶
+T53	Test 5168 5173	谷丙转氨酶
+T54	Test 4450 4455	谷草转氨酶
+T55	Test 5182 5187	谷草转氨酶
+T56	Test 521 525	总胆固醇
+T57	Test 5849 5853	总胆固醇
+T58	Test 6812 6816	总胆固醇
+T59	Test 7667 7671	总胆固醇
+T60	Test 7918 7922	总胆固醇
+T61	Test 9205 9209	总胆固醇
+T62	Test 293 297	体重指数
+T63	Test 531 535	体重指数
+T64	Test 3809 3813	体重指数
+T65	Test 4433 4435;4436 4438	体重 指数
+T66	Test 5123 5127	体重指数
+T67	Test 6822 6826	体重指数
+T68	Test 7767 7771	体重指数
+T69	Test 7824 7828	体重指数
+T70	Test 7931 7932;7933 7936	体 重指数
+T71	Test 8127 8131	体重指数
+T72	Test 8980 8984	体重指数
+T73	Test 8998 9002	体重指数
+T74	Test 9071 9075	体重指数
+T75	Test 5146 5149	收缩压
+T76	Test 5157 5160	舒张压
+T77	Test 3726 3729	肝功能
+T78	Test 290 292	腰围
+T79	Test 3754 3756	腰围
+T80	Test 4439 4441	腰围
+T81	Test 5138 5140	腰围
+T82	Test 7821 7823	腰围
+T83	Test 7928 7930	腰围
+T84	Test 3793 3795	臀围
+T85	Test 4200 4207	胰岛素抵抗指数
+T86	Test 6638 6645	胰岛素抵抗指数
+T87	Test 7380 7387	胰岛素抵抗指数
+T88	Test 8308 8315	胰岛素抵抗指数
+T89	Test 4208 4215	HOMA-IR
+T90	Test 5841 5848	HOMA-IR
+T91	Test 6623 6630	HOMA-IR
+T92	Test 6804 6811	HOMA-IR
+T93	Test 7365 7372	HOMA-IR
+T94	Test 7615 7622	HOMA-IR
+T95	Test 7847 7854	HOMA-IR
+T96	Test 7937 7944	HOMA-IR
+T97	Test 8234 8241	HOMA-IR
+T98	Test 8293 8300	HOMA-IR
+T99	Test 8765 8770;8771 8773	HOMA- IR
+T100	Disease 9035 9040	代谢综合征
+T101	Test 536 541	空腹胰岛素
+T102	Test 3994 3999	空腹胰岛素
+T103	Test 4234 4239	空腹胰岛素
+T104	Test 4680 4685	空腹胰岛素
+T105	Test 5524 5529	空腹胰岛素
+T106	Test 6792 6797	空腹胰岛素
+T107	Test 7514 7519	空腹胰岛素
+T108	Test 7835 7840	空腹胰岛素
+T109	Test 7906 7911	空腹胰岛素
+T110	Test 3745 3747	身高
+T111	Test 3823 3825	身高
+T112	Test 3748 3750	体重
+T113	Test 3814 3816	体重
+T114	Test 298 304	糖脂代谢指标
+T115	Test 366 375	餐后 2 h 血糖
+T116	Test 526 530	三酰甘油
+T117	Test 777 780	总睾酮
+T118	Test 782 786	游离睾酮
+T119	Disease 901 906	脂代谢紊乱
+T120	Disease 907 909	肥胖
+T121	Test 3236 3240	糖脂代谢
+T122	Test 3273 3277	糖脂代谢
+T123	Disease 3340 3343	糖尿病
+T124	Disease 3361 3364	脂肪肝
+T125	Disease 3372 3375	脂肪肝
+T126	Disease 3409 3414	心功能不全
+T127	Disease 3418 3423;3424 3427	糖尿病急性 并发症
+T128	Disease 3431 3435	性腺疾病
+T129	Disease 3439 3448	感染性及免疫性疾病
+T130	Disease 3484 3487	脂肪肝
+T131	Disease 3488 3494	酒精性脂肪肝
+T132	Disease 3500 3507	非酒精性脂肪肝
+T133	Disease 3619 3624	病毒性肝炎
+T134	Disease 3625 3630	药物性肝病
+T135	Disease 3631 3638	全胃肠道外营养
+T136	Disease 3639 3645	肝豆状核变性
+T137	Disease 3646 3647;3648 3654	自 身免疫性肝病
+T138	Disease 3658 3661	脂肪肝
+T139	Test 3670 3674	肝脏活检
+T140	Disease 3682 3687	脂肪性肝病
+T141	Test 3699 3703	肝脏活检
+T142	Test 3751 3753	血压
+T143	Test 3892 3894	血糖
+T144	Test 3895 3899	肝肾功能
+T145	Test 3900 3902	血脂
+T146	Test 3904 3905;3906 3907	血 糖
+T147	Test 3919 3921	血脂
+T148	Test 3934 3937	胰岛素
+T149	Test 3938 3941	性激素
+T150	Test 4000 4003	C 肽
+T151	Test 4005 4010	餐后胰岛素
+T152	Test 4011 4014	C 肽
+T153	Test 4021 4024	总睾酮
+T154	Test 4025 4033	性激素结合球蛋白
+T155	Test 4041 4044	孕激素
+T156	Test 4045 4048	催乳素
+T157	Test 4073 4076	雌二醇
+T158	Test 4116 4118	睾酮
+T159	Test 4120 4125	血清白蛋白
+T160	Disease 4421 4424	脂肪肝
+T161	Disease 4428 4431	脂肪肝
+T162	Test 4456 4463	谷氨酰肽转移酶
+T163	Disease 4501 4504	脂肪肝
+T164	Disease 4508 4511	脂肪肝
+T165	Test 4518 4527	餐后 2 h 血糖
+T166	Test 4669 4672;4673 4674	总胆固 醇
+T167	Test 4675 4679	三酰甘油
+T168	Disease 4927 4930	脂肪肝
+T169	Test 4938 4942	游离睾酮
+T170	Test 5038 5041	雌二醇
+T171	Test 5865 5869	三酰甘油
+T172	Test 5915 5918	总睾酮
+T173	Test 5930 5934	游离睾酮
+T174	Test 6291 6294	FSH
+T175	Test 6683 6686;6687 6692	性激素 结合球蛋白
+T176	Test 6760 6768	性激素结合球蛋白
+T177	Test 6769 6771	血糖
+T178	Test 6817 6821	三酰甘油
+T179	Test 6827 6830	总睾酮
+T180	Test 6956 6960	游离睾酮
+T181	Test 7356 7364	性激素结合球蛋白
+T182	Test 7400 7403	FSH
+T183	Test 7490 7493	总睾酮
+T184	Test 7720 7724	三酰甘油
+T185	Test 7831 7834	总睾酮
+T186	Test 7841 7846	餐后胰岛素
+T187	Disease 7875 7878	脂肪肝
+T188	Test 7912 7917	餐后胰岛素
+T189	Test 7889 7898	餐后 2 h 血糖
+T190	Test 7923 7927	三酰甘油
+T191	Test 7945 7948	总睾酮
+T192	Disease 7998 8001	脂肪肝
+T193	Test 8073 8077	三酰甘油
+T194	Disease 8390 8393	糖尿病
+T195	Test 8181 8184	总睾酮
+T196	Disease 8412 8418	性腺功能减退
+T197	Test 8453 8456	雌二醇
+T198	Test 8471 8475	SHBG
+T199	Test 8476 8479	FSH
+T200	Anatomy 8490 8492	肝脏
+T201	Test 8499 8502	雌二醇
+T202	Test 8503 8505	睾酮
+T203	Anatomy 8506 8508	肝脏
+T204	Disease 8537 8538;8539 8541	脂 肪肝
+T205	Test 8550 8553	雌二醇
+T206	Anatomy 8583 8585	肝脏
+T207	Disease 8598 8599;8600 8603	肝 脏疾病
+T208	Test 8642 8645	雄激素
+T209	Disease 8691 8694	糖尿病
+T210	Test 8725 8727	睾酮
+T211	Disease 8734 8741	性激素水平紊乱
+T212	Test 8775 8778	总睾酮
+T213	Test 8779 8783	游离睾酮
+T214	Test 8785 8789	SHBG
+T215	Test 8859 8861	睾酮
+T216	Disease 8865 8870	胰岛素抵抗
+T217	Disease 8908 8913	胰岛素抵抗
+T218	Disease 8914 8917	糖尿病
+T219	Disease 8933 8938	胰岛素抵抗
+T220	Disease 8939 8942	高血糖
+T221	Disease 8946 8952	性腺功能减退
+T222	Disease 8975 8978	脂肪肝
+T223	Test 9003 9005	睾酮
+T224	Test 9063 9065	睾酮
+T225	Disease 9066 9068	肥胖
+T226	Disease 9076 9079;9080 9082	胰岛素 抵抗
+T227	Disease 9098 9107	肥胖相关脂肪性肝病
+T228	Disease 9144 9149	胰岛素抵抗
+T229	Disease 9158 9163;9164 9165	肝脏脂肪变 性
+T230	Disease 9183 9186	脂肪肝
+T231	Test 9210 9214	三酰甘油
+T232	Disease 9230 9233	脂肪肝
+T233	Disease 9234 9240	性腺功能减退
+T234	Disease 9258 9260	肥胖
+T235	Disease 9263 9267	高脂血症
+T236	Test 9295 9297	睾酮
+T237	Disease 9332 9336	高脂血症
+T238	Disease 9378 9381	高血糖
+T239	Disease 9384 9389	胰岛素抵抗
+T240	Test 9415 9417	睾酮
+T241	Test 4035 4039	SHBG
+T242	Test 6231 6235	SHBG
+T243	Test 6678 6682	SHBG
+T244	Test 7218 7222	SHBG
+T245	Test 7351 7355	SHBG
+T246	Test 7494 7498	SHBG
+T247	Test 6702 6705	FSH
+T248	Disease 0 3	糖尿病
+T249	Test 45 48	性激素
+T250	Test 155 158	性激素
+T251	Test 773 776	性激素
+T252	Disease 934 942	糖尿病, 2 型
+T253	Test 955 957	睾酮
+T254	Test 3539 3544	实验室检查
+T255	Test 3545 3547;3548 3551	影像 学检查
+T256	Test 3688 3691	病理学
+T257	Test 3835 3839	生化指标
+T258	Test 4015 4018	性激素
+T259	Test 4092 4094	激素
+T260	Test 4098 4100;4101 4104	化学 发光法
+T261	Test 4489 4495	糖脂代谢指标
+T262	Test 4902 4905	性激素
+T263	Test 5097 5101	糖脂代谢
+T264	Disease 5211 5214	脂肪肝
+T265	Disease 5330 5333	脂肪肝
+T266	Test 5461 5468	谷氨酰肽转移酶
+T267	Test 5541 5547	空腹 C 肽
+T268	Test 5559 5564	餐后胰岛素
+T269	Disease 5577 5580	脂肪肝
+T270	Disease 5693 5696	脂肪肝
+T271	Test 5824 5830	餐后 C 肽
+T272	Disease 5946 5949	脂肪肝
+T273	Disease 6073 6076	脂肪肝
+T274	Test 6215 6221	生物活性睾酮
+T275	Test 6247 6250	孕激素
+T276	Test 6262 6265	催乳素
+T277	Test 6277 6279	LH
+T278	Test 6306 6309	雌二醇
+T279	Disease 6338 6341	脂肪肝
+T280	Disease 6468 6471	脂肪肝
+T281	Test 6696 6701	黄体生成素
+T282	Test 6706 6711	卵泡刺激素
+T283	Test 6717 6722	脱氢表雄酮
+T284	Disease 6725 6728	脂肪肝
+T285	Test 6757 6759	睾酮
+T286	Test 6772 6775	胰岛素
+T287	Test 6798 6803	餐后胰岛素
+T288	Test 7086 7092	生物活性睾酮
+T289	Test 7562 7567	餐后胰岛素
+T290	Disease 8025 8028	脂肪肝
+T291	Test 8484 8487	性激素
+T292	Disease 9188 9194	脂质代谢紊乱
+T293	Test 9358 9362	性腺功能
+T294	Treatment 9390 9392	减重
+T295	Treatment 9393 9395	降脂
+T296	Test 9453 9456	性功能
+T297	Test_Value 381 385	明显增高
+T298	Test_Value 386 402;403 425	(8. 75 ± 2. 58 对 7. 79 ± 1. 89)mmol / L
+T299	Test_Value 428 469	18. 12 ± 3. 95 对 15. 63 ± 3. 89) mmol / L
+T300	Test_Value 470 505	(11. 96 ± 4. 85)%对(10. 05 ± 4. 15)%
+T301	Test_Value 550 554	明显增高
+T302	Test_Value 555 571;572 594	(4. 97 ± 1. 02 对 4. 15 ± 0. 92)mmol / L
+T303	Test_Value 595 634	(2. 74 ± 2. 25 对 2. 01 ± 1. 45)mmol / L
+T304	Test_Value 635 676	(27. 34 ± 3. 93 对 22. 38 ± 3. 39) kg / m2
+T305	Test_Value 677 685;686 716	(9. 62 ± 5. 80 对 6. 18 ±4. 21) μIU / ml
+T306	Test_Value 717 760	(72. 71 ±109. 70 对 31. 72 ±42. 27) μIU / ml
+T307	Test_Value 786 790	显著下降
+T308	Test_Value 792 830	14. 18 ±6. 39 对 18. 21±6. 14) nmol / L
+T309	Test_Value 831 865	(0. 32±0. 03 对 0. 39±0. 08)ng / dl
+T310	Test_Value 920 922	下降
+T311	Anatomy 3773 3775	肋弓
+T312	Anatomy 3778 3782	髂前上嵴
+T313	Anatomy 3759 3761	两脚
+T314	Anatomy 3765 3766	肩
+T315	Anatomy 3796 3798	臀部
+T316	Test_Value 4441 4443	增加
+T317	Test_Value 4466 4468	增高
+T318	Test_Value 4533 4537	明显增高
+T319	Test_Value 4538 4554;4555 4577	(8. 75 ± 2. 58 对 7. 79 ± 1. 89)mmol / L
+T320	Test_Value 4579 4621	(18. 12 ± 3. 95 对 15. 63 ± 3. 89) mmol / L
+T321	Test_Value 4623 4654	(11. 96±4. 85)%对(10. 05±4. 15)%
+T322	Test_Value 4694 4698	明显增高
+T323	Test_Value 4699 4705;4706 4738	(4. 97 ± 1. 02 对 4. 15 ± 0. 92)mmol / L
+T324	Test_Value 4739 4770;4771 4779	(2. 74 ± 2. 25 对 2. 01 ± 1. 45) mmol / L
+T325	Test_Value 4781 4821	(9. 62 ± 5. 80 对 6. 18 ± 4. 21) μIU / ml
+T326	Test_Value 4822 4839;4840 4865	(72. 71 ± 109. 70 对 31. 72±42. 27) μIU / ml
+T327	Test_Value 4886 4887;4888 4889	降 低
+T328	Test_Value 4942 4946	显著下降
+T329	Test_Value 4947 4962;4963 4988	(14. 18 ± 6. 39 对 18. 21 ±6. 14) nmol / L
+T330	Test_Value 4989 5026	(0. 32 ±0. 03 对 0. 39 ±0. 08) ng / dl
+T331	Test_Value 5043 5045	升高
+T332	Test_Value 5046 5082	(108. 70 ± 46. 67 对 97. 53 ± 39. 94)
+T333	Test_Value 8449 8451	降低
+T334	Test_Value 8458 8460	升高
+T335	Test_Value 8480 8482	降低
+T336	Test_Value 8547 8549	降低
+T337	Test_Value 8555 8557	增高
+T338	Test_Value 8647 8649	下降
+T339	Test_Value 8729 8731	下降
+T340	Test_Value 9297 9299	减少
+T341	Test_Value 9305 9307	增多
+T342	Test_Value 8431 8435	明显紊乱
+T343	Reason 7981 7985	体重指数
+T344	Reason 7986 7993	HOMA-IR
+T345	Test 305 308	性激素
+T346	Test 309 312	转氨酶
+T347	Disease 91 97	2 型糖尿病
+T348	Disease 99 108	非酒精性脂肪性肝病
+T349	Disease 238 244	2 型糖尿病
+T350	Disease 247 252	NAFLD
+T351	Disease 261 267	2 型糖尿病
+T352	Disease 269 274	NAFLD
+T353	Disease 329 335	2 型糖尿病
+T354	Disease 336 337;338 340	脂 肪肝
+T355	Test 542 547	餐后胰岛素
+T356	Test 916 918	睾酮
+T357	Disease 353 359	2 型糖尿病
+T358	Disease 348 351	脂肪肝
+T359	Reason 3118 3124	糖脂代谢紊乱
+T360	Reason 3125 3130	胰岛素抵抗
+T361	Reason 3131 3135	氧化应激
+T362	Reason 3164 3168;3169 3175	不同性别 间性激素水平
+T363	Reason 3176 3188	糖脂代谢酶表达及活性差异
+T364	Test 3229 3231;3232 3233	性激 素
+T365	Test 3265 3268	性激素
+T366	Level 3396 3399	急慢性
+T367	Disease 3399 3405	肝肾功能不全
+T368	Test 3719 3723	肝脏超声
+T369	Test 4049 4054	黄体生成素
+T370	Test 4061 4066	卵泡刺激素
+T371	Test 4068 4071	FSH
+T372	Test 4077 4082	脱氢表雄酮
+T373	Test 4111 4115	SHBG
+T374	Test 4135 4139	游离睾酮
+T375	Test 4140 4148	生物活性睾酮水平
+T376	Test 4686 4691	餐后胰岛素
+T377	Disease 4910 4915	单纯糖尿病
+T378	Test 4932 4937	血清总睾酮
+T379	Test 5503 5512	餐后 2 h 血糖
+T380	Reason 7976 7980	三酰甘油
+T381	Reason 7994 7997	总睾酮
+T382	Disease 8397 8403	2 型糖尿病
+T383	Disease 8405 8408	脂肪肝
+T384	Test 8426 8429	性激素
+T385	Test 8442 8447	血清总睾酮
+T386	Test 8461 8468	雌二醇 /睾酮
+T387	Test 8543 8547	血清睾酮
+T388	Test 8558 8565	雌二醇 /睾酮
+T389	Test 8586 8589	性激素
+T390	Test 8608 8611	性激素
+T391	Anatomy 8621 8624	雌激素
+T392	Anatomy 8632 8635	雄激素
+T393	Anatomy 8636 8639	雌激素
+T394	Disease 8660 8663	糖尿病
+T395	Disease 8665 8668	脂肪肝
+T396	Test 8672 8679	雌二醇 /睾酮
+T397	Disease 8699 8705	性腺功能减退
+T398	Disease 8709 8712	糖尿病
+T399	Disease 8714 8715;8716 8718	脂 肪肝
+T400	Disease 8753 8756	糖尿病
+T401	Disease 8758 8761	脂肪肝
+T402	Reason 8796 8801	胰岛素抵抗
+T403	Test 8828 8831	胰岛素
+T404	Test 8836 8839	性激素
+T405	Reason 8897 8902	低睾酮水平
+T406	Test 8988 8991	性激素
+T407	Reason 9029 9034	低睾酮水平
+T408	Reason 9092 9095	雄激素
+T409	Anatomy 9132 9136;9137 9138	雄激素受 体
+T410	Test 9199 9201	睾酮
+T411	Reason 9221 9225	高脂血症
+T412	Anatomy 9271 9274	雄激素
+T413	Anatomy 9276 9280	芳香化酶
+T414	Anatomy 9287 9290	雌激素
+T415	Test 9300 9303	雌激素
+T416	Disease 9318 9321	糖尿病
+T417	Disease 9323 9326	脂肪肝
+T418	Test 9346 9348	睾酮
+T419	Disease 9403 9409	2 型糖尿病
+T420	Disease 9409 9412	脂肪肝
+T421	Disease 9439 9445	2 型糖尿病
+T422	Disease 9447 9450	脂肪肝
+T423	Treatment 9461 9468	性激素替代治疗
+T424	Reason 3096 3106	遗传-环境-代谢应激

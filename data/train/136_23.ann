@@ -1,0 +1,261 @@
+T1	Test 1097 1102	HBA1C
+T2	Test 1008 1012	空腹血糖
+T3	Test 626 630	体重指数
+T4	Test 606 608	身高
+T5	Test 616 618	体重
+T6	Disease 5 17	Gitelman 综合征
+T7	Disease 326 338	Gitelman 综合征
+T8	Disease 403 415	Gitelman 综合征
+T9	Disease 1671 1683	Gitelman 综合征
+T10	Disease 1921 1933	Gitelman 综合征
+T11	Disease 2004 2014;2015 2017	Gitelman 综 合征
+T12	Disease 2183 2195	Gitelman 综合征
+T13	Disease 2245 2257	Gitelman 综合征
+T14	Disease 2274 2286	Gitelman 综合征
+T15	Disease 2457 2469	Gitelman 综合征
+T16	Disease 2517 2529	Gitelman 综合征
+T17	Disease 2581 2593	Gitelman 综合征
+T18	Disease 2741 2753	Gitelman 综合征
+T19	Disease 2828 2840	Gitelman 综合征
+T20	Disease 3056 3068	Gitelman 综合征
+T21	Disease 3094 3106	Gitelman 综合征
+T22	Disease 3145 3157	Gitelman 综合征
+T23	Disease 3196 3208	Gitelman 综合征
+T24	Disease 3510 3522	Gitelman 综合征
+T25	Disease 3589 3601	Gitelman 综合征
+T26	Disease 3754 3766	Gitelman 综合征
+T27	Disease 3828 3840	Gitelman 综合征
+T28	Disease 3899 3911	Gitelman 综合征
+T29	Test 1482 1485	心电图
+T30	Test 1599 1608	24h 动态心电图
+T31	Disease 417 423;424 430	成人隐匿性自 身免疫糖尿病
+T32	Symptom 465 467	乏力
+T33	Duration 460 464	10 年
+T34	Duration 520 523	2 年
+T35	Test 526 528	血糖
+T36	Drug 533 536	胰岛素
+T37	Symptom 551 553	乏力
+T38	Test 568 570	血压
+T39	Test_Value 631 644	23. 5 kg / m2
+T40	Symptom 645 650	双眼无突出
+T41	Symptom 651 659	双侧甲状腺无肿大
+T42	Test 660 662	心律
+T43	Test_Value 663 665;666 673	72 次 / min
+T44	Symptom 674 677	率不齐
+T45	Test 708 709;710 711	血 钾
+T46	Test_Value 712 725	2. 8 mmol / L
+T47	Test 763 764	钠
+T48	Test_Value 765 777	141 mmol / L
+T49	Test 778 779	钾
+T50	Test_Value 780 791;792 800	2. 8 ~ 3. 1 mmol / L
+T51	Test 801 802	氯
+T52	Test_Value 803 820	90 ~ 101 mmol / L
+T53	Test 821 822	钙
+T54	Test_Value 823 843	2. 3 ~ 2. 4 mmol / L
+T55	Test 844 845	镁
+T56	Test_Value 846 853;854 867	0. 45 ~ 0. 5 mmol / L
+T57	Test 868 869	磷
+T58	Test_Value 870 892	1. 25 ~ 1. 33 mmol / L
+T59	Test 894 901	24 h 尿钾
+T60	Test_Value 902 917;918 919	30. 2 mmol / 24 h
+T61	Test 920 927	24 h 尿钙
+T62	Test_Value 928 945	2. 16 mmol / 24 h
+T63	Test 946 949	尿比重
+T64	Test_Value 950 956	1. 017
+T65	Test_Value 968 973	7. 45
+T66	Test 974 979	全血碱剩余
+T67	Test 982 984	BE
+T68	Test_Value 986 1006	7. 3 ~ 9. 0 mmol / L
+T69	Test_Value 1013 1017;1018 1026	7. 3 mmol / L
+T70	Test 1027 1033	空腹 C 肽
+T71	Test_Value 1034 1046	0. 1 ng / ml
+T72	Test 1047 1056	餐后 2 h 血糖
+T73	Test_Value 1057 1070	6. 3 mmol / L
+T74	Test 1072 1076;1077 1082	餐后 2 h C 肽
+T75	Test_Value 1083 1096	0. 12 ng / ml
+T76	Test_Value 1103 1109	10. 3%
+T77	Test 1111 1117	抗胰岛素抗体
+T78	Test_Value 1117 1119	阳性
+T79	Test 1120 1124;1125 1130	抗谷氨酸 脱羧酶抗体
+T80	Test_Value 1130 1132	阳性
+T81	Test 1133 1140	抗胰岛细胞抗体
+T82	Test_Value 1140 1142	阴性
+T83	Test 1148 1152	抗核抗体
+T84	Test 1154 1159	抗 SSA
+T85	Test 1160 1165	抗 SSB
+T86	Test 1166 1173	抗双链 DNA
+T87	Test 1174 1180	Scl-70
+T88	Test 1181 1185	Jo-1
+T89	Test 1186 1192	抗着丝点抗体
+T90	Test_Value 1192 1194	阴性
+T91	Test 1196 1199	IgA
+T92	Test 1200 1203	IgG
+T93	Test 1204 1207	IgM
+T94	Test 1208 1213	补体 C3
+T95	Test 1214 1219	补体 C4
+T96	Test 1227 1231	CD3+
+T97	Test_Value 1232 1238	80. 38
+T98	Test 1271 1280	CD3+ CD4+
+T99	Test_Value 1282 1288	54. 4%
+T100	Test 1308 1317	CD3+ CD8+
+T101	Test_Value 1318 1324	21. 2%
+T102	Test 1339 1343;1344 1349	CD3- CD19+
+T103	Test_Value 1350 1355	9. 2%
+T104	Test 1368 1384	CD3- CD16+ CD56+
+T105	Test_Value 1385 1391	10. 6%
+T106	Test 1415 1417	血钾
+T107	Test_Value 1418 1431	3. 1 mmol / L
+T108	Test_Value 1439 1453	177. 8 pg / ml
+T109	Test 1486 1493	胸部 X 线片
+T110	Test 1495 1504	泌尿系、甲状腺超声
+T111	Test 1505 1511	肾上腺 CT
+T112	Test 1512 1521	垂体 MRI 增强
+T113	Test 1535 1541	白天平均血压
+T114	Test_Value 1542 1555	109 / 67 mmHg
+T115	Test 1556 1562	晚上平均血压
+T116	Test_Value 1563 1576	103 / 58 mmHg
+T117	Test 1577 1583	全天平均血压
+T118	Test_Value 1584 1597	107 / 63 mmHg
+T119	Test 1698 1707	抗谷氨酸脱羧酶抗体
+T120	Test_Value 1707 1709	阳性
+T121	Drug 1718 1721	胰岛素
+T122	Disease 1739 1745;1746 1752	成人隐匿性自 身免疫糖尿病
+T123	Disease 1761 1772;1773 1774	成人隐匿性自身免疫糖尿 病
+T124	Drug 1778 1781	胰岛素
+T125	Amount 1792 1798	1. 0 g
+T126	Method 1799 1801	口服
+T127	Frequency 1802 1809	3 次 / d
+T128	Amount 1821 1826	20 ml
+T129	Method 1827 1829	口服
+T130	Frequency 1830 1837	3 次 / d
+T131	Drug 1838 1841	螺内酯
+T132	Drug 1842 1846	安体舒通
+T133	Amount 1847 1852	20 mg
+T134	Method 1853 1855	口服
+T135	Frequency 1856 1863	1 次 / d
+T136	Duration 1864 1867	2 周
+T137	Symptom 1870 1872	乏力
+T138	Test 1881 1883	血钾
+T139	Test 1898 1900	血镁
+T140	Test_Value 1901 1915	0. 59 mmol / L
+T141	Symptom 1980 1986	低氯性碱中毒
+T142	Symptom 1987 1990	低血钾
+T143	Symptom 1991 1994	低血镁
+T144	Symptom 1995 1998	低尿钙
+T145	Disease 2058 2066;2067 2070	Gitelman 综合征
+T146	Disease 2103 2114	Bartter 综合征
+T147	Symptom 2119 2125	低钾性碱中毒
+T148	Disease 2144 2155	Bartter 综合征
+T149	Anatomy 2174 2180	髓袢升支粗段
+T150	Anatomy 2210 2214	远曲小管
+T151	Anatomy 2221 2225	远曲小管
+T152	Symptom 2292 2295	低血镁
+T153	Symptom 2296 2299	低尿钙
+T154	Disease 2307 2318	Bartter 综合征
+T155	Symptom 2330 2333	低血镁
+T156	Symptom 2335 2338	低尿钙
+T157	Symptom 2357 2361	发育迟缓
+T158	Symptom 2362 2363;2364 2368	横 纹肌溶解
+T159	Symptom 2398 2404	软骨钙质沉积
+T160	Symptom 2407 2411	抽搐发作
+T161	Level 2446 2448	严重
+T162	Anatomy 2551 2557	肾脏远曲小管
+T163	Anatomy 2559 2566;2567 2568	钠-氯共同转运 体
+T164	Anatomy 2618 2625	SLCl2A3
+T165	Anatomy 2644 2651	SLCl2A3
+T166	Anatomy 2843 2850	SLCl2A3
+T167	Disease 2975 2986	Bartter 综合征
+T168	Anatomy 2963 2969	CLCNKB
+T169	Anatomy 3008 3012	远曲小管
+T170	Anatomy 3013 3017;3018 3021	皮质集合 管细胞
+T171	Anatomy 3113 3114;3115 3119	肾 小球旁器
+T172	Disease 3274 3279	干燥综合征
+T173	Disease 3280 3285;3286 3290	自身免疫性 甲状腺炎
+T174	Disease 3291 3298	系统性红斑狼疮
+T175	Disease 3312 3317	干燥综合征
+T176	Anatomy 3328 3331	肾小管
+T177	Disease 3376 3381;3382 3389	成人隐匿性 自身免疫糖尿病
+T178	Disease 3494 3496;3497 3507	成人 隐匿性自身免疫糖尿病
+T179	Anatomy 3660 3664	远曲小管
+T180	Drug 3718 3721	氯化镁
+T181	Anatomy 3665 3668	集合管
+T182	Symptom 3683 3686	低血镁
+T183	Symptom 3695 3698	低血镁
+T184	Amount 3728 3737;3738 3746	4 ~ 5 mg· kg-1·d-1
+T185	Symptom 3769 3777	继发性醛固酮增多
+T186	Drug 3789 3793	安体舒通
+T187	Disease 3800 3811	Bartter 综合征
+T188	Drug 3859 3866	环氧化酶抑制剂
+T189	Disease 3870 3881	Bartter 综合征
+T190	Symptom 3884 3887;3888 3890	电解质 紊乱
+T191	Symptom 3891 3895	生长障碍
+T192	Test 1782 1784	血糖
+T193	Method 510 511;512 513	口 服
+T194	Test 609 615	170 cm
+T195	Test_Value 619 624	68 kg
+T196	Duration 702 705	5 s
+T197	Level 1874 1878	明显改善
+T198	Anatomy 3332 3336	NCCT
+T199	Anatomy 3357 3369	抗 NCCT 的自身抗体
+T200	Method 3641 3643	口服
+T201	Method 3644 3646	静脉
+T202	Drug 3653 3658	保钾利尿剂
+T203	SideEff 3708 3710	腹泻
+T204	Disease 19 31	成人隐匿性自身免疫糖尿病
+T205	Anatomy 339 346	肾单位远曲小管
+T206	Disease 375 379	低钾血症
+T207	Disease 380 387;388 390	继发性醛固酮增 多症
+T208	Reason 346 357	重吸收 NaCl 障碍
+T209	Duration 468 471	2 年
+T210	Duration 554 557	2 年
+T211	Test_Value 571 584	110 / 65 mmHg
+T212	Symptom 734 739	病理性杂音
+T213	Symptom 750 755	病理征阴性
+T214	Test 757 760	血生化
+T215	Test 958 962	血气分析
+T216	Test_Value 1222 1226	正常范围
+T217	Test 1528 1534	动态血压监测
+T218	Test_Value 1615 1626	6 328 个 / d
+T219	Anatomy 1690 1693	胰岛素
+T220	Disease 1731 1734	糖尿病
+T221	Symptom 1961 1977	肾素-血管紧张素-醛固酮系统激活
+T222	Anatomy 2157 2162;2163 2165	肾小管离子 通道
+T223	Anatomy 2535 2542	SLCl2A3
+T224	Anatomy 3022 3027	基底外侧膜
+T225	Test 3395 3400	自身抗体谱
+T226	Test_Value 3403 3405	阴性
+T227	Reason 3467 3468;3469 3475	强 烈的免疫应答
+T228	Method 3721 3723	口服
+T229	Test_Value 3822 3824	增高
+T230	Drug 3783 3789	醛固酮拮抗剂
+T231	Disease 2369 2374	肾功能不全
+T232	Disease 3538 3554	获得性 Gitelman 综合征
+T233	Symptom 455 459	血糖升高
+T234	Symptom 504 508	血糖升高
+T235	Test 544 546	血糖
+T236	Symptom 688 690	早搏
+T237	Test 963 967	pH 值
+T238	Test 1610 1614	室性早搏
+T239	Disease 1632 1640	低钾低氯性碱中毒
+T240	Disease 1641 1644	低血镁
+T241	Disease 1645 1648	低尿钙
+T242	Test 1652 1654	血压
+T243	Disease 1656 1664	继发性醛固酮增多
+T244	Drug 1785 1791	氯化钾缓释片
+T245	Drug 1810 1812;1813 1820	门冬 氨酸钾镁注射液
+T246	Test_Value 1884 1888;1889 1897	3. 8 mmol / L
+T247	Test 1958 1960	血压
+T248	Disease 2375 2381	室性心律失常
+T249	Reason 2390 2392;2393 2395	低镁 血症
+T250	Disease 2426 2430	低钾血症
+T251	Disease 2431 2435	低镁血症
+T252	Disease 2448 2452;2453 2455	室性心律 失常
+T253	Anatomy 2756 2766	SLCl2A3 基因
+T254	Anatomy 2950 2959	CLCNKB 基因
+T255	Anatomy 2999 3007	肾脏髓袢升支粗段
+T256	Disease 3231 3243	获得性 Gitelman
+T257	Test 3430 3440	CD4+T 淋巴细胞
+T258	Test 3812 3814;3815 3820	前列 腺素 E2
+T259	Test 3840 3847	前列腺素 E2
+T260	Anatomy 3419 3422	外周血
+T261	Anatomy 3422 3427	单个核细胞

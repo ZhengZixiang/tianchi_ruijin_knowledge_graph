@@ -1,0 +1,363 @@
+糖尿病神经病变
+凤、徐宁);南京医科大学第一附属医院内分泌科(杨涛)
+miR-146a 在 2 型糖尿病周围神经病变患者外
+周血单个核细胞中的异常表达及临床意义
+王国凤  徐宁  杨涛
+[摘要]   目的  探讨 2 型糖尿病合并周围神经病变(DPN)患者外周血单个核细胞(PBMCs)中 miR-
+146a 的表达及与 DPN 病情严重程度的相关性。 方法 应用实时荧光定量 PCR 检测 62 例 2 型糖尿病患者
+(单纯 2 型糖尿病 32 例、伴 DPN 30 例)及 33 名健康对照者 PBMCs miR-146a 的表达水平,并且与 2 型糖尿
+病患者临床指标进行相关性分析。 结果 2 型糖尿病组 miR-146a 的表达低于对照组(1. 92±1. 99 对 4. 15±
+1. 56,P<0. 05),DPN 组 miR-146a 表达水平低于单纯 2 型糖尿病组(1. 22 ± 1. 61 对 2. 51 ± 2. 00, P<0. 05)。
+DPN 组 miR-146a 的表达水平与病程、多伦多评分、血糖呈负相关。 结论 DPN 患者外周血 miR-146a 表达
+下降,其表达水平与 DPN 病情严重程度有关。
+[关键词]   糖尿病, 2 型; miR-146a; 糖尿病周围神经病变
+Abnormal expression and clinical significance of miR-146a in the peripheral blood mononuclear cells of
+patients with type 2 diabetic peripheral neuropathy Wang Guofeng *, Xu Ning, Yang Tao. *Department of
+Endocrinology, the First People Hospital of Lianyungang, Lianyungang 22200, China
+[Abstract]  Objective  To investigate the expression levels of miR-146a in the peripheral blood mononuclear
+cells ( PBMCs) of patients with diabetic peripheral neuropathy ( DPN) and their correlation with the disease
+severity. Methods The expression levels of miR-146a in the PBMCs were measured by using real time PCR in 62
+patients with type 2 diabetes(32 patients without DPN, 30 with DPN)and 33 healthy individuals. The correlation of
+miR-146a expression with clinical parameters was analyzed. Results The expression level of miR-146a in patients
+with type 2 diabetes mellitus was significantly lower than that in the healthy individuals((1. 92 ±1. 99 vs 4. 15 ±1. 56,
+P<0. 05) . Furthermore, the miR-146a level was significantly lowered in diabetic patients with DPN as compared with
+those without DPN(1. 22 ± 1. 61 vs 2. 51 ±2. 00, P<0. 05) . The expression levels of miR-146a in patients with DPN
+were positively correlated with duration of diabetes, blood glucose, and Toronto clinical scoring system scores.
+Conclusion The decreased expression of miR-146a in patients with DPN is correlated with the severity of DPN.
+[Key words]  Diabetes mellitus, type 2; miR-146a; Diabetic peripheral neuropathy
+(Chin J Endocrinol Metab, 2015, 31: 748-751)
+随着人民生活水平的迅速提高,我国的疾病谱也
+发生了重大变化,包括糖尿病在内的慢性非传染性疾
+病已逐渐成为重要的公共卫生问题[1]。 糖尿病周围
+神经病变(diabetic peripheral neuropathy, DPN)是糖尿
+病最常见的慢性并发症之一,临床上以肢体疼痛、麻木
+等为特征,累及超过 50% 的糖尿病患者,疾病晚期可
+以致残,严重影响患者的生活质量,给患者带来沉重的
+经济负担。 目前,DPN 的发病机制尚不明确,多数认
+为可能是长期高血糖导致代谢紊乱、微循环异常和自
+身免疫紊乱。 其起病隐匿,在临床工作中,相当多的患
+者在已有病理改变(周围神经出现节段性脱髓鞘改
+变,并常伴有轴突变性)时,仍尚未表现出任何不适和
+体征异常,易漏诊,从而延误了早期治疗的机会,直接
+影响预后。 因此,早期诊断就显得尤为重要。 尽管这
+类检查方法有很多,但是尚缺少早期、迅速、准确的生
+物诊断指标。 因此,发掘建立良好的早期生物监测标
+志物,具有重要的临床应用价值。
+微小 miRNA(miR)是一类长约 22 个核苷酸的非
+编码 RNA,通过作用于相应 mRNA 在转录后水平调节
+基因的表达,涉及细胞发育、代谢、细胞周期调控、细胞
+增殖与分化、细胞凋亡等生理过程,参与肿瘤、心血管
+疾病、糖尿病、炎症等多种疾病的病理过程。 由于
+miRNAs 的异常改变早于其他蛋白质表达,在疾病尚
+未出现明显症状前,miRNAs 的表达异常可能就已出
+现,因此有望作为早期诊断的新型生物学标志物。 本
+研究对健康对照组、2 型糖尿病伴或不伴 DPN 患者外
+周血细胞(PBMCs)miR-146a 的表达进行检测,结合临
+床相关指标进行分析,初步探讨 miR-146a 在 DPN 发
+生发展中的作用及其与 DPN 严重程度之间的关系。
+对象和方法
+一、 对象
+选取在本科住院的 2 型糖尿病伴或不伴有周围神
+经病变的患者为研究对象。 2 型糖尿病均符合 1999
+年世界卫生组织糖尿病诊断标准;DPN 的诊断依据
+2009 年的诊疗规范,即有明确的糖尿病病史;在确诊
+糖尿病时或之后出现神经病变;临床症状和体征与
+DPN 的表现相符;以下 5 项检查中如有 2 项或以上异
+常则可诊断为 DPN:(1)温度觉异常;(2)尼龙丝检查
+提示足部感觉减退或消失;(3)振动觉异常;(4)踝反
+射消失;(5)神经传导速度检查显示有 2 项或以上减
+慢。 排除标准:排除合并骨代谢、心肺、血液、肿瘤、慢
+性炎症性疾病及其他自身免疫性疾病患者。 健康对照
+组 33 名,为同期在本院体检的健康人群(排除糖尿
+病、高血压、肝肾功能异常等)。 本研究获连云港当地
+伦理委员会批准,且所有参与者签署知情同意书。
+二、 方法
+1. 一般资料收集:所有研究对象均记录年龄、性
+别、身高、体重、病程、多伦多神经病变评分(TCSS)等
+一般情况。 体重指数(BMI)= 体重(kg) /身高2(m2)。
+2. miR-146a 检测:病例组和健康对照组均采集 4
+ml 外周血,EDTA-K2 抗凝,用淋巴细胞分离液分离出
+PBMCs,磷酸缓冲液 ( PBS) 洗 2 次,将 700 滋l Qizol
+(Qiagen, Germany ) 加 入 PBMCs 中 混 匀 备 用。 用
+miRNeasy Mini Kit ( Qiagen, 217004 ) 试剂盒提取总
+RNA,应用 miScript II RT Kit (Qiagen,Y5-218161)逆转
+录为 cDNA,按 SYBR Green EXScript TMPCR Kit 操作程
+序进行实时定量 PCR,检测 miR146a 的表达量,以 U6
+为内参照。 用于扩增 miR-146a 及内参 U6 的引物由
+(Qiagen, Germany) 公司完成。 每个标本均做 2 个复
+孔,反应结束后作熔解曲线分析,miRNAs 的相对表达
+量用 2-△△CT值表示。
+3. 其他临床实验室检查:所有患者晚餐后禁食
+10 ~ 14 h,次日清晨空腹抽取静脉血及行肌电图检查。
+采用尿酸酶法检测尿酸,用全自动生化分析仪测定肝
+功能、空腹血糖(FPG)、肌酐、血尿素氮(BUN)、总胆
+固醇 ( TC)、甘油三酯 ( TG)、低密度脂蛋白胆固醇
+(LDL-C)、高密度脂蛋白胆固醇(HDL-C)。 采用高效
+液相色谱法检测 HBA1C。 晨起空腹留尿测尿微量白蛋
+白 /肌酐比值(U-mALb / Ucr)。 肌电图采用美国尼高
+力 Viking Quest 台式高级肌电诱发电位系统。
+三、 统计学处理
+应用 SPSS 22. 0 统计软件包。 计量资料采用 x- ± s
+表示,组间比较采用独立样本 t 检验,两两比较采用
+Bonferroni 法;miR-146a 表达水平与各指标的相关关系
+采用 Peaarson 相关分析,多因素分析采用多元线性回
+归分析,以 P<0. 05 为差异有统计学意义。
+结    果
+一、 miR-146a 在 2 型糖尿病组及健康对照组
+PBMCs 的相对表达水平
+miR-146a 在 2 型糖尿病组 PBMCs 的表达均显著
+低于健康对照组(1. 92±1. 99 对 4. 15±1. 56,P<0. 01,
+图 1)。
+注:T2DM:2 型糖尿病组 Type2 diabetes mellitus group; CON:对照组
+Control group;T2DM 组与 CON 组相比 T2DM group vs CON group,P<0. 01
+图 1  miR-146a 在 2 型糖尿病组和对照组的相对表达水平
+Fig 1  Expression levels of miR-146a in type 2 diabetes and control groups
+二、 2 型糖尿病伴或不伴 DPN 患者临床资料和生
+化指标比较
+DPN 组和非 DPN 组在年龄、BMI、收缩压、舒张
+压、BUN、TG、TC、HDL-C、LDL-C、谷丙转氨酶(ALT)、
+谷草转氨酶(AST)、碱性磷酸酶(ALP)、γ-谷氨酰转肽
+酶(γ-GGT)方面相比差异无统计学意义(P>0. 05)。
+DPN 组病程、HBA1C、U-mALb / Ucr、血肌酐、尿酸、FPG
+明显高于非 DPN 组,差异有统计学意义;DPN 组 miR-
+146a 明显低于非 DPN 组(P<0. 05,表 1)。
+三、 miR-146a 与临床资料及生化指标的相关性分
+析
+2 型糖尿病患者 miR-146a 的表达水平与病程( r =
+-0. 532,P = 0. 039)、TCSS( r = -0. 683, P = 0. 023)、
+FPG( r= -0. 619,P = 0. 024)、HBA1C( r = -0. 549,P =
+0. 031)呈负相关。
+四、 miR-146a 在轻、中、重度 DPN 组之间的相对
+表达水平
+按照 TCSS 将研究对象分为轻度(6 ~ 8 分) 、中度
+表 1  合并和不合并糖尿病周围神经病变患者的基线资料和 miR-146a 水平的比较(x-± s)
+Tab 1  Comparison of baseline characteristics and miR-146a levels in diabetic patients with and without DPN(x-± s)
+组别
+Group
+例数
+n
+男 / 女
+Male / Female
+年龄
+(岁)
+Age
+(year)
+病程
+(年)
+Duration
+(year)
+BMI
+(kg / m2)
+SBP
+(mmHg)
+DBP
+(mmHg)
+HBA1C
+(% )
+NDPN 32 15 / 17 53. 00 ± 13. 61 5. 21 ± 5. 08 26. 22 ± 11. 92   135 ± 21   82 ± 9 8. 46 ± 2. 62
+DPN  30 14 / 16 56. 77 ± 11. 23 8. 43 ± 4. 89a 24. 96 ± 3. 52   136 ± 18   85 ± 13 10. 90 ± 2. 21a
+组别
+Group
+例数
+n
+U-mALb / Ucr
+(mg / g)
+Scr
+(μmol / L)
+BUN
+(mmol / L)
+UA
+(μmol / L)
+TC
+(mmol / L)
+TG
+(mmol / L)
+LDL-C
+(mmol / L)
+NDPN 32 76. 80 ± 17. 34 72. 96 ± 21. 68 5. 51 ± 1. 66 277. 2 ± 101. 5 4. 91 ± 1. 38 2. 04 ± 2. 06 3. 19 ± 1. 07
+DPN  30 152. 43 ± 25. 93a 78. 00 ± 28. 58a 6. 14 ± 1. 84 319. 9 ± 120. 2a 4. 93 ± 1. 32 1. 75 ± 1. 08 3. 11 ± 1. 11
+组别
+Group
+例数
+n
+ALT
+(U / L)
+AST
+(U / L)
+ALP
+(U / L)
+γ-GGT
+(U / L) miR-146a
+FPG
+(mmol / L)
+HDL-C
+(mmol / L)
+NDPN 32 24. 19 ± 17. 65 22. 74 ± 12. 22 89. 39 ± 40. 30 37. 13 ± 26. 56 2. 51 ± 2. 00 8. 28 ± 4. 16 1. 11 ± 0. 31
+DPN  30 21. 86 ± 8. 63 19. 23 ± 14. 58 100. 82 ± 75. 04 41. 73 ± 26. 16 1. 22 ± 1. 61a 11. 46 ± 4. 96a 0. 94 ± 0. 31
+注:NDPN:无糖尿病周围神经病变 Non-diabetic peripheral neuropathy; DPN:糖尿病周围神经病变 Diabetic peripheral neuropathy;BMI:体重指数 Body
+mass index;SBP:收缩压 Systolic blood pressure;1 mmHg=0. 133 kPa;DBP:舒张压 Diastolic blood pressure;U-mALb / Ucr:微量白蛋白 / 肌酐比值 Uric micro-
+albumin / Uric creatinine;Scr:血肌酐 Serum creatinine;BUN:血尿素氮 Blood urea nitrogen;UA:尿酸 Uric acid;TC: 总胆固醇 Total cholesterol;TG: 甘油三酯
+Triglyceride; LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;ALT:谷丙转氨酶 Alanine aminotransferase;AST:谷草转氨酶 Aspartate
+aminotransferase;ALP:碱性磷酸酶 Alkaline phosphatase;γ-GGT: γ-谷氨酰转肽酶 r-Glucamyltransferase;FPG: 空腹血糖 Fasting plasma glucose; HDL-C:高
+密度脂蛋白胆固醇 High density lipoprotein-cholesterol;与 NDPN 组比较 vs NDPN group,aP<0. 05
+表 2  不同病情程度 DPN 患者的基线特征和 miR-146a 水平(x-± s)
+Tab 2  Comparison of baseline characteristics and miR-146a levels in DPN patients with different disease severities (x-± s)
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+病程
+(年)
+Duration
+(year)
+BMI
+(kg / m2)
+SBP
+(mmHg)
+DBP
+(mmHg)
+HBA1C
+(% )
+U-mALb / Ucr
+(mg / g)
+轻度 Mild 40(22 / 18) 53. 91 ± 9. 9 12. 8 ± 4. 7 24. 4 ± 3. 7 139 ± 16 80 ± 12 9. 2 ± 2. 3 44. 1 ± 33. 2
+中度 Moderate 36(19 / 17) 55. 41 ± 8. 14 13. 9 ± 4. 5 24. 5 ± 3. 5 140 ± 21 82 ± 11 9. 3 ± 2. 4 105. 7 ± 180. 9a
+重度 Severe 33(12 / 21) 56. 22 ± 11. 8 13. 9 ± 5. 1 22. 8 ± 2. 3 141 ± 20 83 ± 9  9. 5 ± 3. 4 460. 6 ± 313. 1a
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+Scr
+(μmol / L)
+BUN
+(mmol / L)
+UA
+(μmol / L)
+TC
+(mmol / L)
+TG
+(mmol / L)
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L)
+轻度 Mild 40(22 / 18) 92. 9 ± 11. 7 7. 7 ± 1. 6 279. 7 ± 56. 5 5. 21 ± 1. 65 2. 02 ± 1. 69 3. 31 ± 1. 21 1. 00 ± 0. 32
+中度 Moderate 36(19 / 17) 93. 7 ± 16. 2 8. 1 ± 2. 1a 308. 9 ± 53. 0a 5. 19 ± 1. 86 2. 12 ± 1. 89 3. 20 ± 1. 27 0. 97 ± 0. 32
+重度 Severe 33(12 / 21) 104. 6 ± 20. 7a 8. 8 ± 2. 8a 330. 2 ± 48. 8a 5. 32 ± 1. 35 2. 21 ± 2. 31 3. 22 ± 1. 26 1. 20 ± 0. 32
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+FPG
+(mmol / L)
+ALT
+(U / L)
+AST
+(U / L)
+ALP
+(U / L)
+γ-GGT
+(U / L) miR-146a
+轻度 Mild 40(22 / 18) 10. 46 ± 4. 79 19. 84 ± 7. 25 19. 54 ± 7. 67 98. 22 ± 28. 42 39. 91 ± 2. 12 2. 09 ± 1. 13
+中度 Moderate 36(19 / 17) 10. 26 ± 4. 39 21. 94 ± 7. 95 18. 54 ± 7. 59 99. 22 ± 27. 38 41. 91 ± 3. 01 1. 41 ± 0. 98a
+重度 Severe 33(12 / 21) 10. 01 ± 4. 21 21. 94 ± 6. 91 18. 64 ± 7. 72 101. 22 ± 26. 51 41. 78 ± 3. 56 0. 98 ± 0. 25a
+注:略语同表 1 The abbreviations are the same as Tab 1; 与轻度 DPN 组比较 vs Mild DPN group,aP<0. 05
+(9 ~ 11 分)、重度(12 ~ 19 分)3 组,miR-146a 随着病
+情的加重而呈逐渐下降(P<0. 05),U-mALb / Ucr、血肌
+酐、BUN、尿酸随着病情的加重而呈逐渐上升,差异有
+统计学意义(P<0. 05,表 2)。
+五、 miR-146a 与 DPN 严重程度的相关性分析
+多元线性回归分析显示 DPN 的严重程度分别与
+病 程、 FPG、 HBA1C、 U-mALb / Uc、 血 肌 酐、 尿 酸、
+miR-146a 呈负相关(表 3),且 miR-146a 与 DPN 严重
+程度相关性显著(标准系数 0. 894),R2 为 72. 3% ,即
+DPN 的严重程度受 miR-146a 的表达水平影响,其影响
+占 72. 3% 。
+表 3  DPN 严重程度的影响因素多元线性回归分析
+Tab 3  Multivariate linear regression analysis of factors on DPN
+变量
+Variable β SE wald T P
+常数项
+Constant -1. 580 0. 380 - -4. 130 0. 000
+病程
+Duration 0. 218 0. 079 0. 581 4. 023 0. 048
+FPG 0. 367 0. 791 0. 535 4. 012 0. 041
+HBA1C 0. 196 0. 854 0. 843 3. 599 0. 001
+Scr 0. 397 0. 762 0. 652 4. 366 0. 045
+UA 0. 209 0. 074 0. 582 4. 025 0. 049
+U-mALb / Ucr 0. 389 0. 785 0. 579 4. 214 0. 038
+miR-146a 0. 249 0. 862 0. 894 4. 012 0. 002
+注:略语同表 1 The abbreviations are the same as Tab 1
+讨    论
+miR-146a 在具有固有免疫应答及其适应性免疫
+应答中有调节作用,大量研究已经证实,miR-146a 与
+自身免疫性疾病、慢性炎症性疾病、肿瘤等疾病关系密
+切[2],有望作为诊断和治疗的新靶点。 近年,越来越
+多的证据显示 miRNA 可能在糖尿病及其并发症的发
+生发展过程中发挥重要作用。
+2 型糖尿病的发病机制复杂,有学者认为 2 型糖
+尿病可能和 1 型糖尿病一样有自身免疫损伤。 但是适
+应性免疫失调出现在 1 型、2 型糖尿病意义可能是不
+一样的,1 型糖尿病患者的整个病程都有适应性免疫
+失调,而 2 型糖尿病患者在病程发展到一定阶段,在慢
+性代谢性炎症、胰岛素抵抗等刺激下才出现的适应性
+免疫失调,最终导致胰岛 β 细胞凋亡,此外,2 型糖尿
+病患者胰岛炎的发生也可能是固有免疫系统激活的结
+果[3]。 大量研究已经证实,上调的 miR-146a 促进 β 细
+胞凋亡的发生。 有研究显示从易感个体到确诊 2 型糖
+尿病患者的过程中,与正常人和糖尿病前期患者相比,
+2 型糖尿病患者血清中 miR-146a 表达水平上调,且有
+显著性差异(未发表资料)。 2011 年,Karolina 等[4] 发
+现,与健康对照组相比,虽然空腹血糖受损、2 型糖尿
+病患者的 miR-146a 表达下降,但其下降水平无明显差
+异。 2013 年,Nesca 等[5] 通过观察糖尿病前期和糖尿
+病 db / db 小鼠的 miRNA 表达谱变化,进一步证实
+miR-146a 在 2 型糖尿病前期阶段糖代谢异常时就已
+经发生明显的改变。 而其他的 2 个研究却发现 2 型糖
+尿病患者 PBMC 的 miR-146a 下降水平与血糖有
+关[6,7]。 综上所述,miR-146a 低表达水平与 2 型糖尿
+病患者的血糖关系尚无定论,尚需要大样本的临床观
+察研究确定两者的关系。
+靶基因预测分析提示肿瘤坏死因子受体相关因子
+6(TNF receptor-associated factor 6,TRAF6),白细胞介
+素 1 受体相关激酶 1(IRAK1)、B 淋巴细胞白血病 /淋
+巴瘤 11(B-cell CLL / Lymphoma 11A, BAC11A)、突触融
+合蛋白( syntaxin 3)和 numb homolog(NUMB)是 miR-
+146a 的靶基因。 痛性糖尿病神经病变(painful diabetic
+neuropathy,PDN)是糖尿病患者慢性疼痛的常见原因
+之一[8],其中 3% ~ 20%的糖尿病患者并发 PDN 后导
+致痛觉过敏和异常疼痛,其分子机制目前还不甚清楚。
+2013 年,Wang 等[9] 为了验证是否 db / db 小鼠背根神
+经节(DRG) 的固有免疫发生改变,他们在 DRG 神经
+细胞和 db / db 外周神经病变的 BKS. Cg-m+ / +Lepr 的
+小鼠模型进行研究发现,高血糖引起 miR-146a 表达水
+平下调,而相应的靶基因 TRAF6、IRAK1 表达上调,从
+而导致了固有免疫介导的神经细胞凋亡。 应用西地那
+非处理 DRG 后,则明显改善了 db / db 小鼠 miR-146a
+表达水平,降低了 TRAF6 和 IRAK1 的表达,改善了神
+经功能,这说明下调 miR-146a 引起靶基因 TRAF6、
+IRAK1 表达上调,从而可能介导了 DPN 的发生发展。
+DPN 早期诊断和早期发现是目前临床面临的重
+大挑战,如能及时发现高危人群并进行干预,可延缓或
+阻止糖尿病及其周围神经病变的发生发展,而对
+miRNA 的深入了解将更好地揭示糖尿病及其并发症
+的发病机制,并为其诊断、预防和治疗带来新的方向,
+为筛选高危人群建立新的生物标志物。 因此,本研究
+通过实时荧光定量 PCR 检测 62 例 2 型糖尿病患者
+PBMCs miR-146a 的表达,发现其在 2 型糖尿病患者的
+表达水平显著低于健康人群,与既往研究结果相一致,
+提示 miR-146a 可能与 2 型糖尿病发病机制有关,进一
+步研究发现 miR146a 的低表达水平与血糖无关,其低
+表达水平随着病程、TCSS 评分的增加而下降,提示
+miR-146a 的表达水平与 DPN 的病情严重程度有关。
+综上,本研究发现 miR-146a 在 2 型糖尿病患者
+PBMC 表达下降可能与 2 型糖尿病的发病机制有关,
+其表达水平可作为 DPN 病情严重程度的有效判断指
+标,有望成为早期发现和诊断 DPN 的一种潜在生物学
+标志物。 但本研究也有一定的局限性,由于研究样本
+量有限,有必要加大样本量,进一步阐明 miR-146a 作
+为早期发现和判断 DPN 病情严重程度的可能性。

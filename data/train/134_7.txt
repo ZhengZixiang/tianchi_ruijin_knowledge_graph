@@ -1,0 +1,347 @@
+糖尿病相关议题
+基金项目:国家自然科学基金(81370903);黑龙江省留学归国人员
+基金(LC06C23)
+哈尔滨医科大学激素与内分泌疾病重点实验室
+2 型糖尿病肥胖患者 SPARC 表达差异性研究
+刘锴  宋海燕  刘姝  李磊  李坤  杨筱瑶
+[摘要]   目的  观察正常人、单纯肥胖患者、单纯 2 型糖尿病患者、2 型糖尿病伴肥胖患者血清中以
+及非糖尿病患者、2 型糖尿病患者脂肪组织中富含半胱氨酸的酸性分泌蛋白(SPARC)表达水平差异情况。
+方法 ELISA 法检测人血清中 SPARC 浓度,RT-PCR、Western 印迹法、免疫荧光法检测人肠系膜脂肪组织
+中 SPARC mRNA、蛋白的表达水平。 结果 (1)单纯肥胖、单纯 2 型糖尿病及 2 型糖尿病伴肥胖患者与正
+常人比较,血清 SPARC 水平显著增加[(1 191. 6 ± 718. 91、1 223. 81 ± 645. 96、1 538. 01 ± 757. 95 对 851. 07 ±
+280. 21)ng / L,P<0. 05]。 (2)Pearson 相关分析结果显示 SPARC 与稳态模型评估的胰岛素抵抗指数呈显著
+正相关( r=0. 205,P<0. 05)。 (3)2 型糖尿病组脂肪组织中 SPARC mRNA、蛋白表达水平高于对照组(P<
+0. 05)。 结论 SPARC 可能与肥胖、胰岛素抵抗及 2 型糖尿病的发生密切相关。
+[关键词]   富含半胱氨酸的酸性分泌蛋白; 肥胖; 糖尿病, 2 型
+Variations of SPARC in obese patients with type 2 diabetes mellitus Liu Kai, Song Haiyan, Liu Shu, Li Lei,
+Li Kun, Yang Xiaoyao. Department of Endocrinology and Metabolic Disease, the Second Affiliated Hospital of Harbin
+Medical University,Harbin 150086, China
+[Abstract]  Objective   To observe serum secreted protein acidic and rich in cysteine ( SPARC) levels in
+normal subjects, obese subjects, patients with type 2 diabetes mellitus (T2DM), and obese patients with T2DM, as
+well as the difference of SPARC expression in mesenteric adipose tissue of subjects with and without T2DM. Methods
+Serum SPARC level was measured with the ELISA. RT-PCR, Western blot, and immunofluorescence were used to
+examine SPARC mRNA and protein expressions in mesenteric adipose tissue. Results (1) SPARC levels were
+higher in obesity, T2DM, and T2DM with obesity groups compared with normal group[(1 191. 6 ±718. 91,1 223. 81
+± 645. 96, 1 538. 01 ± 757. 95 vs 851. 07 ± 280. 21)ng / L, P<0. 05] . (2) Pearson correlation analysis showed that
+SPARC level was positively correlated with homeostasis model assessment for insulin resistance index( r = 0. 205,P<
+0. 05) . (3) The expression levels of SPARC mRNA and protein in mesenteric adipose tissue of T2DM patients were
+higher than those of control subjects (P < 0. 05) . Conclusion SPARC is closely related to the development of
+obesity,insulin resistance,and type 2 diabetes mellitus.
+[Key words]  Secreted protein acidic and rich in cysteine; Obesity; Diabetes mellitus, type 2
+(Chin J Endocrinol Metab, 2014, 30: 388-392)
+富含半胱氨酸的酸性分泌蛋白( secreted protein
+acidic and rich in cysteine,SPARC)主要是由脂肪细胞
+分泌的一种脂肪因子,具有调节细胞增殖、分化以及抗
+黏附作用。 转化生长因子 β、瘦素、肿瘤坏死因子 α、
+脂多糖、热休克蛋白等都能刺激 SPARC 表达,并诱导
+SPARC 在脂肪组织中产生[1]。 目前已知 SPARC 能在
+伤口愈合、炎症反应、血管生成、心肌重塑和生长因子
+信号转导等过程中起作用[2],许多疾病都与其相关,
+最新研究认为 SPARC 促进了肥胖者代谢失调,并在 2
+型糖尿病发病机制中起重要作用。 本课题组前期研究
+发现 SPARC 不仅与 AMP 活化的蛋白激酶(AMPK)相
+互作用,还参与糖代谢调控,在高脂喂养的Wistar 大鼠
+脂肪组织中 SPARC 表达增加,且与胰岛素抵抗相关。
+本实验通过研究血清及脂肪组织中 SPARC 水平,探讨
+其与 2 型糖尿病肥胖的关系。
+对象和方法
+一、 对象
+共选取 160 名志愿者参加,门诊体检者 80 名,其
+中健康对照组(NC 组)40 名(男性 22 名、女性 18 名),
+单纯肥胖组(Ob 组)40 例(男性 22 例、女性 18 例),用
+糖耐量试验筛选排除糖尿病,并排除高血压及其他内
+分泌代谢疾病、糖尿病家族史,并且 NC 组体重指数
+(BMI)<24 kg / m2、Ob 组 BMI≥28 kg / m2。 内分泌科入
+院 2 型糖尿病患者 80 例,其中单纯 2 型糖尿病组(DM
+组)40 例(男性 25 例、女性 15 例),2 型糖尿病伴肥胖
+组(DMOb 组)40 例(男性 25 例、女性 15 例),均符合
+1999 年世界卫生组织(WHO)糖尿病专家委员会报告
+的糖尿病诊断标准,DM 组 BMI<24 kg / m2、DMOb 组
+BMI≥28 kg / m2。 4 组受检者均排除感染、糖尿病酮症
+酸中毒,无血液系统疾病、恶性肿瘤病史,无使用激素
+药物史及手术应激等情况。 以上肥胖诊断标准参照
+2003 年《中国成人超重和肥胖症预防控制指南(试
+用)》。
+另外选择 12 例肠道手术或胆囊切除的择期手术
+志愿者,其中 6 名非糖尿病患者为对照组,用糖耐量试
+验筛选排除糖尿病,并排除内分泌代谢病家族史。 6
+例 2 型糖尿病患者为糖尿病组( T2DM 组),均符合
+1999 年 WHO 糖尿病诊断标准。 2 组患者年龄、性别、
+BMI 等相匹配,并排除心血管疾病,肾功能不全或肝脏
+疾病、高血压、恶性肿瘤、急性炎症、创伤及近期服用干
+扰糖脂代谢药物者等。 经患者同意并签署伦理学知情
+同意书后收取标本。
+二、 方法
+1. 标本收集及生化检测:172 名志愿者均禁饮食
+8 ~ 10 h 于清晨空腹抽取静脉血。 用化学发光法测空
+腹胰岛素( FINS),批内和批间 CV 分别 < 5. 0% 和 <
+6. 5% ;用免疫透射比浊法测定视黄醇结合蛋白 4
+(RBP4,上海景源医疗器械有限公司),批内 CV≤
+10% ,批间 CV≤10% ; 用氧化酶法测定总胆固醇
+(TC)、空腹血糖( FPG);用 GPO 酶法测定甘油三酯
+(TG);用均相酶比色法测定高密度脂蛋白胆固醇
+(HDL-C)和低密度脂蛋白胆固醇(LDL-C);采用高压
+液相层析技术检测 HBA1C,批内 CV 为 0. 82% ,批间 CV
+为 0. 51% ;SPARC 用 ELISA 法检测(试剂盒由厦门慧
+嘉生物技术有限公司生产)。 所有患者均测身高、体
+重、腰围、臀围、收缩压、舒张压,计算 BMI、腰臀比,并
+采用稳态模型评估的胰岛素抵抗指数(HOMA-IR) =
+FINS(mU / L)×FPG(mmol / L) / 22. 5。
+2. RT-PCR:12 例患者手术时按无菌要求分别留
+取约 100 mg 肠系膜脂肪组织,放入液氮中保存,30 min
+后转移至-80℃冰箱保存待用。 用 Trizol 法提取组织
+总 RNA,然后进行 RT-PCR。 引物序列:SPARC 基因上
+游引物: 5'-GAGGTGACTGAGGTATCTGTGGGA-3', 下
+游引物: 5'-GGTCAGCTCAGAGTCCAGGCAAGG-3'; 内
+参 β-actin 上游引物:5'-CCCAGCACAATGAAGATCAA-
+GATCAT-3',下游引物:5'-ATCTGCTGGAAGGTGGAC-
+AGCGA-3'。 扩增条件:94℃预变性 3 min,94℃变性 30
+s,54. 5℃退火 30 s,72℃延伸 1 min,经 31 个循环后,
+72℃ 5 min。 扩增产物用 2% 琼脂糖凝胶电泳,用凝胶
+成像系统进行紫外光成像和图形分析,测出各条带的
+吸光度值,结果以 SPARC 条带吸光度值 / β-actin 条带
+的吸光度值表示。
+3. Western 印迹法:提取脂肪组织蛋白,经 10%
+SDS-PAGE 分离,电转膜后 5%脱脂奶粉封闭 120 min,
+按 1 : 1 000 稀释一抗,4℃孵育过夜。 1 : 9 000 稀释二
+抗,孵育 2 h,同时用 β-actin 作为内参照。 通过 ECL 化
+学发光系统显色特异性反应条带,结果以 SPARC 条带
+的灰度值 / β-actin 条带的灰度值表示。
+4. 免疫荧光:提取脂肪组织于多聚甲醛溶液中固
+定 2 h。 切片经 PBS 漂洗 30 min,0. 1 mmol / L 曲拉通-
+X100 作用 10 min,山羊血清 37℃ 封闭 4 h,加鼠抗人
+SPARC 一抗(1 : 400),37℃孵育过夜,PBS 漂洗 3 次,
+37℃中加二抗(FITC 标记的羊抗鼠抗体)90 min,PBS
+漂洗 3 次后封片,免疫荧光显微镜观察拍片。
+三、 统计学处理
+采用 SPSS 19. 0 统计软件进行统计学分析,数据
+以 x-± s 表示,多组间比较用方差分析。 相关性分析使
+用 Pearson 相关分析法。 Logistic 回归分析评估 SPARC
+与肥胖的关系。 2 组间比较用 t 检验,以 P<0. 05 为差
+异有统计学意义,每一项实验将所有标本分别独立重
+复 3 次。
+结    果
+一、 一般临床和实验室资料比较
+Ob 组、DM 组、DMOb 组的 FINS、TC、LDL-C、RBP4
+显著高于 NC 组(P<0. 01),DM 组和 DMOb 组的 FPG、
+HOMA-IR、TG、 HDL-C、 RBP4 显著高于 Ob 组 ( P <
+0. 01);糖尿病组间比较,DMOb 组 FINS、HOMA-IR、
+RBP4 高于 DM 组 ( P < 0. 05 )。 DMOb 组、 DM 组
+SPARC 显著高于 NC 组(P<0. 01),DMOb 组 SPARC
+水平高于 Ob 组(P<0. 05),但 DM 组与 Ob 组比较,差
+异无统计学意义(表 1)。
+Pearson 相关分析显示,腰臀比、BMI、RBP4、TG、
+FINS、HOMA-IR 与 SPARC 呈显著正相关 ( r 分别为
+0. 231、 0. 254、 0. 272、 0. 184、 0. 219、 0. 205, 均 P <
+0. 05)。
+将所有对象按照是否肥胖分组后进行 logistic 回
+归分析,结果显示肥胖与血清 SPARC(OR = 1. 003,
+95% CI 1. 002 ~ 1. 005,P<0. 01)、RBP4(OR = 1. 032,
+95% CI 1. 005 ~ 1. 060,P = 0. 0215)、TG(OR = 0. 744,
+95% CI 0. 624 ~ 0. 886,P < 0. 01)、 HOMA-IR (OR =
+1. 328,95% CI 1. 035 ~ 1. 703,P=0. 025)相关。
+二、 12 例手术患者的临床、生化资料比较
+T2DM 组 FINS、HOMA-IR、RBP4、SPARC、FPG、
+表 1  各组临床与生化指标分析[x-± s,M(四分位间距)]
+Tab 1  Comparison of clinical and biochemical data among four groups[(x-± s),M(Quartile)]
+组别
+Group
+例数(男性 / 女性)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+BMI
+(kg / m2)
+WC
+(cm) WHR
+SBP
+(mmHg)
+DBP
+(mmHg)
+NC 40(22 / 18) 40. 00 ± 10. 63 20. 97 ± 1. 54 70. 70 ± 5. 38 0. 78 ± 0. 06   117 ± 9   69 ± 6
+Ob 40(22 / 18) 41. 23 ± 11. 02 29. 55 ± 1. 53b 95. 03 ± 6. 67b 0. 92 ± 0. 05b   124 ± 11b   75 ± 8b
+DM 40(25 / 15) 49. 82 ± 12. 22bd 22. 93 ± 0. 81bd 72. 90 ± 3. 87d 0. 80 ± 0. 53d   138 ± 19bd   84 ± 9bd
+DMOb 40(25 / 15) 49. 33 ± 11. 99bd 30. 29 ± 2. 32bcf 97. 11 ± 7. 41bf 0. 92 ± 0. 03bf   138 ± 18bd   85 ± 10bd
+组别
+Group
+例数(男性 / 女性)
+n(Male / Female)
+FPG
+(mmol / L)
+FINS
+(mU / L) HOMA-IR
+HBA1C
+(% )
+TC
+(mmol / L)
+NC 40(22 / 18) 4. 97 ± 0. 41 5. 20 ± 2. 08 1. 03(0. 71,1. 45) 5. 09 ± 0. 33 4. 14 ± 0. 62
+Ob 40(22 / 18) 6. 33 ± 0. 74a 11. 23 ± 2. 64b 2. 94(2. 33,3. 73) a 5. 31 ± 0. 36 5. 85 ± 0. 60b
+DM 40(25 / 15) 9. 18 ± 2. 57bd 13. 18 ± 9. 18b 4. 31(2. 04,7. 66) bd 8. 96 ± 2. 25bd 5. 62 ± 0. 37b
+DMOb 40(25 / 15) 10. 32 ± 3. 95bde 16. 17 ± 9. 05bde 5. 50(3. 10,12. 20) bde 8. 89 ± 2. 27bd 6. 43 ± 1. 07bdf
+组别
+Group
+例数(男性 / 女性)
+n(Male / Female)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+SPARC
+(ng / L)
+RBP4
+(mg / L)
+NC 40(22 / 18) 0. 97 ± 0. 40 1. 49 ± 0. 30 2. 38 ± 0. 47 851. 07 ± 280. 21 40. 38 ± 9. 07
+Ob 40(22 / 18) 2. 54 ± 1. 23a 1. 39 ± 0. 31 3. 84 ± 0. 48b 1 191. 60 ± 718. 91a 54. 58 ± 8. 05b
+DM 40(25 / 15) 3. 19 ± 1. 05b 1. 16 ± 0. 21bd 3. 51 ± 1. 27b 1 223. 81 ± 645. 96b 63. 75 ± 16. 63bd
+DMOb 40(25 / 15) 6. 84 ± 4. 30bde 1. 15 ± 0. 21bd 3. 83 ± 1. 29b 1 538. 01 ± 757. 95bce 70. 78 ± 15. 83bde
+注:NC:正常对照组 Normal control group;Ob:单纯肥胖组 Obesity group;DM:单纯 2 型糖尿病组 Type 2 diabetes mellitus group;DMOb:2 型糖尿病伴
+肥胖组 Type 2 diabetes mellitus with obesity group;BMI:体重指数 Body mass index;WC:腰围 Waist circumference;WHR:腰臀比 Waist-to-hip ratio;SBP:收缩
+压 Systolic blood pressure;1 mmHg=0. 133 kPa;DBP:舒张压 Diastolic blood pressure;FPG:空腹血糖 Fasting plasma glucose;FINS:空腹胰岛素 Fasting serum
+insulin;HOMA-IR:胰岛素抵抗指数 Homeostasis model assessment for insulin resistence index;TC:总胆固醇 Total cholesterol;TG:甘油三酯 Triglyceride;
+HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;SPARC:富含半胱氨酸
+的酸性分泌蛋白 Secreted protein acidic and rich in cysteine;RBP4:视黄醇结合蛋白 4 Retinol binding protein 4;与 NC 组比较 vs NC group,aP<0. 05,bP<
+0. 01;与 Ob 组比较 vs Ob group,cP<0. 05,dP<0. 01;与 DM 组比较 vs DM group,eP<0. 05,fP<0. 01
+表 2  2 组的临床和生化资料比较[ t 检验,M(四分位间距)]
+Tab 2  Comparison of clinical and biochemical data [(independent-samples t-test,M(Quartile)]
+组别
+Group
+例数
+n
+BMI
+(kg / m2) WHR
+SBP
+(mmHg)
+DBP
+(mmHg)
+HBA1C
+(% )
+FINS
+(mU / L)
+FPG
+(mmol / L)
+CON  6 22. 03 ± 0. 75 0. 79 ± 0. 05 111 ± 8 68 ± 5 4. 92 ± 0. 44 5. 28 ± 2. 09 4. 99 ± 0. 49
+T2DM 6 21. 62 ± 0. 81 0. 75 ± 0. 06 113 ± 7 70 ± 6 9. 23 ± 3. 14b 11. 28 ± 4. 52a 11. 52 ± 3. 21b
+组别
+Group
+例数
+n
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+RBP4
+(mg / L)
+SPARC
+(ng / L) HOMA-IR
+CON  6 3. 88 ± 0. 51 0. 91 ± 0. 25 1. 62 ± 0. 36 2. 1 ± 0. 54 39. 67 ± 10. 15 464. 86 ± 153. 06 1. 18 ± 0. 49
+T2DM 6 4. 18 ± 0. 23 1. 55 ± 0. 68 1. 05 ± 0. 28a 2. 3 ± 0. 08 61. 67 ± 8. 52b 1 549. 16 ± 333. 84b 4. 87 ± 4. 02a
+注:CON: 对照组 Control group; T2DM:2 型糖尿病组 Type 2 diabetes mellitus;余略语同表 1 The other abbreviations are the same as Tab 1;与 CON 组比
+较 vs CON group,aP<0. 05,bP<0. 01
+注:略语同表 1 和表 2 The abbreviations are the same as Tab 1 and Tab 2; 与 CON 组比较 vs CON group,aP<0. 05
+图 1  2 组脂肪组织 SPARC mRNA 和蛋白表达水平
+Fig 1  SPARC mRNA and protein expressions in adipose tissue of two groups
+注:A、B:T2DM 组脂肪组织正常形态结构扫描图及 SPARC 免疫荧光标记结果 Normal morphology scan and SPARC immunofluorescence in adipose
+tissue of T2DM group;C、D:对照组脂肪组织正常形态结构扫描图及 SPARC 免疫荧光标记结果 Normal morphology scan and SPARC immunofluorescence in
+adipose tissue of control group;略语同表 1 和表 2 The abbreviations are the same as Tab 1 and Tab 2
+图 2  两组脂肪组织 SPARC 免疫荧光结果
+Fig 2  Immunofluorescence results of SPARC in adipose tissue of two groups
+HBA1C均显著高于对照组(P<0. 05 或 P <0. 01),而
+HDL-C 低于对照组 ( P < 0. 05, 表 2 )。 RT-PCR 和
+Western 印迹结果显示,T2DM 组脂肪中 SPARC mRNA
+和蛋白表达水平均高于对照组(均 P<0. 05,图 1)。 免
+疫荧光结果显示,T2DM 组脂肪细胞内染色多,荧光强
+度较强且密集,对照组脂肪细胞染色少,荧光强度较弱
+(图 2),表明 T2DM 组脂肪组织内 SPARC 表达较对照
+组明显增加。
+讨    论
+SPARC 在肺、肝、肾、血管等组织表达,尤以脂肪
+组织最为明显。 脂肪组织不仅是能量储存器官,而且
+是内分泌器官,通过分泌多种脂肪细胞因子参与机体
+能量代谢和炎症免疫功能的调节。 最新研究显示,脂
+肪细胞分化时双相调节 SPARC 表达和分泌, 当
+SPARC 调节异常易导致肥胖相关的一系列疾病,包括
+2 型糖尿病及其并发症、心血管疾病等[3]。
+本研究结果显示 DMOb 组、DM 组、Ob 组 SPARC
+水平比 NC 组明显升高,DMOb 组 SPARC 水平又比其
+他组显著增加,说明 SPARC 可能在肥胖及糖尿病发病
+机制中均起潜在作用。 同时 DM 组血清中 SPARC 水
+平比 Ob 组稍高,另外 6 例 2 型糖尿病手术患者排除干
+扰因素下生化指标中的血糖比血脂相较于对照组明显
+升高,表明血糖可能比血脂更能影响 SPARC 表达。
+SPARC 可抑制前脂肪细胞分化成脂肪细胞,机制
+可能是通过增强 Wnt / β 连环蛋白信号通路,抑制脂肪
+细胞转录因子 CCAAT 增强子结合蛋白(C / EBP) α、
+C / EBPβ、PPARγ 等的表达,并使胞外纤连蛋白表达增
+加、层黏连蛋白表达减少,最终抑制脂肪形成[4]。 但
+另有研究认为 SPARC 在脂肪细胞中能调节纤溶酶原
+激活物抑制剂 1(PAI-1)表达,尤其是在肥胖患者脂肪
+细胞产生过多 SPARC 时会导致 PAI-1 增高,高水平
+SPARC 能调节细胞外基质蛋白的表达及活性,对脂肪
+细胞进行重塑,促进脂肪组织血管重构及脂肪组织增
+生[5]。 在许多组织中 SPARC 还能调节胶原表达和微
+纤维生成,胶原纤维通过屏障作用以抑制脂肪细胞扩
+张,当胶原含量减少或破坏胶原网时会出现脂肪细胞
+面积扩增,SPARC 敲除小鼠4型胶原基因表达缺乏,
+结果导致脂肪细胞集聚和数量增加。 另有研究发现
+SPARC 敲除小鼠脂肪组织畸形生长引起肥胖,因此
+SPARC 表达增多目的是抑制脂肪细胞分化以减少脂
+肪形成,但却为脂肪纤维化及肥胖并发症的重要危险
+因素,脂肪纤维化可减少甘油三酯的储存,过多脂质进
+入血液中造成高脂血症,并会使脂质浸润各器官[1,5],
+可见 SPARC 增加则 TG 水平会升高,而在本研究的相
+关分 析 中 TG 与 SPARC 正 相 关, Logistic 分 析 中
+SPARC、TG 与肥胖正相关。
+本研究发现 SPARC 在糖尿病患者脂肪组织中高
+度表达,可见 SPARC 在糖尿病中同样起重要作用。 肥
+胖及 2 型糖尿病伴肥胖患者高血脂易引起空腹血浆游
+离脂肪酸(FFA)升高,且进餐后抑制 FFA 生成的能力
+受损,FFA 抑制葡萄糖进入胞内及氧化,促使糖异生和
+胰岛素受体活性数量降低等,最终发生胰岛素抵抗
+(IR)。 SPARC 过量表达通过抑制脂肪形成进而可抑
+制 FFA 升高,因此肥胖和 2 型糖尿病伴肥胖患者
+SPARC 水平显著升高。 肥胖者脂肪细胞数量增加,可
+引起脂肪源性激素表达发生改变,从不同层次影响胰
+岛素效应[6],并会造成 IR 及高胰岛素血症,脂肪组织
+对葡萄糖利用降低,胰岛素作用不足可发展为糖尿病,
+而在肥胖出现时 SPARC 表达已经升高,尤其发展为糖
+尿病伴肥胖时 SPARC 水平会更加升高,因此能解释血
+清 SPARC 升高结果。 另外 SPARC 过度表达也能导致
+胰岛素分泌增加,在高血糖条件下高水平的胰岛素会
+刺激脂肪组织分泌 SPARC[7]。 Song 等[8] 研究发现
+SPARC 可激活 AMPK,并刺激蛋白激酶 B、磷酸肌醇 3
+激酶的磷酸化,增加葡萄糖转运蛋白 4(GLUT4)的表
+达,提高机体对胰岛素的敏感性。 有研究显示 2 型糖
+尿病患者伴超重或肥胖时血清 RBP4 水平明显高于体
+重正常者,RBP4 mRNA 表达增加,并与 GLUT4 mRNA
+水平呈正相关,另外脂肪组织中 RBP4 能以自分泌或
+旁分泌形式导致 IR,而且是一个重要的 2 型糖尿病预
+测因子[9-11],SPARC 和 RBP4 均参与 IR 的发生,并且
+SPARC 也能促进 GLUT4 表达,因此二者是否协同导
+致 IR 或 2 型糖尿病还有待进一步研究。 本研究
+Logistic 分析显示肥胖与 SPARC、RBP4、HOMA-IR 显
+著正相关,因此三者既是肥胖又是糖尿病的重要危险
+因素。 体脂含量增加促使瘦素升高、胰岛素分泌增加、
+炎症反应加重,可共同引起 SPARC 表达增加,SPARC
+具有抑制脂肪细胞分化产生脂肪纤维化作用,因此脂
+质不能被脂肪组织储存而引起异位沉积,更易造成 IR
+并发 2 型糖尿病等危险[12-14]。 Trombetta-Esilva 等[15]
+研究发现 SPARC 在不同纤维化疾病中发挥重要作用。
+Trombetta-Esilva 对胰腺组织虽尚未研究,但 2 型糖尿
+病发病与胰腺纤维化密切相关,通常胰岛伴有淀粉样
+蛋白沉积、周边存在大量细胞外基质,胰腺纤维化能破
+坏胰岛正常组织结构导致胰岛功能受损,SPARC 可导
+致纤维化发生而与 2 型糖尿病关系密切。
+总之,本研究观察到 2 型糖尿病伴肥胖患者血清
+SPARC 水平显著升高,并且 SPARC 与 HOMA-IR 呈正
+相关,2 型糖尿病患者脂肪组织中 SPARC mRNA 和蛋
+白水平表达明显增加。 结果提示 SPARC 可能与肥胖、
+胰岛素抵抗及 2 型糖尿病的形成密切相关。 其具体机
+制有待深入研究。

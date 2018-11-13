@@ -1,0 +1,319 @@
+T1	Disease 2450 2454	慢性疼痛
+T2	Anatomy 2464 2473	中脑导水管周围灰质
+T3	Anatomy 2495 2498	PAG
+T4	Anatomy 2521 2524	PAG
+T5	Anatomy 2543 2546	PAG
+T6	Anatomy 2592 2598;2599 2601	甲状腺滤泡旁 细胞
+T7	Anatomy 2602 2606	C 细胞
+T8	Anatomy 2659 2664	降钙素受体
+T9	Anatomy 2714 2718	CT-R
+T10	Anatomy 2727 2730	PAG
+T11	Anatomy 2732 2735	侧脑室
+T12	Anatomy 2830 2833	PAG
+T13	Anatomy 2758 2761	PAG
+T14	Anatomy 2776 2779	PAG
+T15	Anatomy 2871 2874	PAG
+T16	Anatomy 2950 2953	PAG
+T17	Anatomy 2965 2972	PAG 神经元
+T18	Anatomy 2996 3003	PAG 神经元
+T19	Anatomy 3569 3576	PAG 神经元
+T20	Anatomy 3622 3625	PAG
+T21	Anatomy 3988 4013	小 鼠 抗 大 鼠 神 经 元 特 异 核 蛋 白
+T22	Anatomy 4041 4045	NeuN
+T23	Anatomy 5433 5435;5436 5442	神经 元特异核蛋白
+T24	Anatomy 5443 5447	NeuN
+T25	Anatomy 5468 5477	PAG 神经元细胞
+T26	Anatomy 5491 5498	PAG 神经元
+T27	Anatomy 6108 6115	PAG 神经元
+T28	Anatomy 6821 6828	PAG 神经元
+T29	Anatomy 7042 7051	PAG 神经元细胞
+T30	Anatomy 7066 7073	PAG 神经元
+T31	Anatomy 7887 7890	下丘脑
+T32	Anatomy 7891 7895	正中隆起
+T33	Anatomy 7896 7898	垂体
+T34	Anatomy 7899 7901	黑质
+T35	Anatomy 7902 7903;7904 7906	苍 白球
+T36	Anatomy 9210 9213	PAG
+T37	Anatomy 9147 9154	PAG 神经元
+T38	Anatomy 8852 8859	PAG 神经元
+T39	Anatomy 8872 8879	PAG 神经元
+T40	Anatomy 8952 8955;8956 8959	PAG 神经元
+T41	Anatomy 136 144	PAG 神经细胞
+T42	Anatomy 158 166	PAG 神经细胞
+T43	Anatomy 168 177	PAG 神经元细胞
+T44	Anatomy 209 216	PAG 神经元
+T45	Anatomy 247 254	PAG 神经元
+T46	Anatomy 315 322	PAG 神经元
+T47	Anatomy 382 389	PAG 神经元
+T48	Anatomy 417 423;424 425	PAG 神经 元
+T49	Anatomy 6156 6164;6165 6166	PAG 神经元细 胞
+T50	Anatomy 7388 7390;7391 7397	降钙 素基因相关肽
+T51	Anatomy 7367 7371	降钙蛋白
+T52	Anatomy 7442 7446	CGRP
+T53	Anatomy 7664 7669	降钙素受体
+T54	Anatomy 7689 7700	中枢神经系统神经细胞膜
+T55	Anatomy 8103 8106	PAG
+T56	Anatomy 8108 8117	延髓头端腹内侧核群
+T57	Anatomy 8118 8121	RVM
+T58	Anatomy 8123 8127	中缝大核
+T59	Anatomy 8128 8131	NRM
+T60	Anatomy 8136 8140	网状结构
+T61	Anatomy 8143 8148	脑桥背外侧
+T62	Anatomy 8178 8180	脊髓
+T63	Anatomy 8181 8182;8183 8184	延 髓
+T64	Anatomy 8273 8275	脊髓
+T65	Anatomy 8276 8278	延髓
+T66	Anatomy 8293 8296	PAG
+T67	Anatomy 8300 8303	PAG
+T68	Anatomy 8362 8365	PAG
+T69	Anatomy 8580 8584	胶质细胞
+T70	Anatomy 8601 8605	胶质细胞
+T71	Anatomy 8637 8643;8644 8646	神经元特异核 蛋白
+T72	Anatomy 8647 8651	NeuN
+T73	Anatomy 8688 8692	NeuN
+T74	Anatomy 8744 8748	NeuN
+T75	Anatomy 8757 8765	PAG 神经细胞
+T76	Anatomy 8974 8981	PAG 神经元
+T77	Anatomy 9037 9040;9041 9044	PAG 神经元
+T78	Anatomy 9216 9220	CT-R
+T79	Test 7784 7786	血钙
+T80	Disease 7500 7504	骨质疏松
+T81	Anatomy 3461 3465	神经细胞
+T82	Anatomy 3791 3795	神经细胞
+T83	Anatomy 8782 8786	神经细胞
+T84	Drug 275 284	sCT 受体拮抗剂
+T85	Drug 285 292	sCT8-32
+T86	Drug 344 350	白屈菜季氨碱
+T87	Drug 2551 2554	谷氨酸
+T88	Anatomy 2588 2590	CT
+T89	Anatomy 2708 2711	腹外侧
+T90	Drug 2740 2742	CT
+T91	Drug 2782 2784	CT
+T92	Drug 2840 2845	鲑鱼降钙素
+T93	Anatomy 2877 2881	CT-R
+T94	Drug 3856 3860	阿糖胞苷
+T95	Anatomy 3874 3878	胶质细胞
+T96	Anatomy 2956 2961	CT 受体
+T97	Drug 4268 4276	CT 受体拮抗剂
+T98	Anatomy 5341 5348	PAG 神经元
+T99	Anatomy 5361 5364	PAG
+T100	Anatomy 5369 5376	神经元原代细胞
+T101	Anatomy 5417 5424	PAG 神经元
+T102	Amount 6089 6100	20 nmol / L
+T103	Drug 7113 7116	Che
+T104	Drug 7025 7028	Che
+T105	Drug 7124 7127	Che
+T106	Amount 7220 7232	100 μmol / L
+T107	Drug 7233 7236	Che
+T108	Anatomy 7309 7312	降钙素
+T109	Anatomy 7313 7321	甲状腺滤泡旁细胞
+T110	Anatomy 7322 7326	C 细胞
+T111	Anatomy 7359 7362	降钙素
+T112	Anatomy 7363 7365	CT
+T113	Anatomy 7383 7385	KC
+T114	Anatomy 7431 7435	CGRP
+T115	Disease 7494 7498	高钙血症
+T116	Disease 7547 7556	糖尿病外周神经病变
+T117	Disease 7559 7563	带状疱疹
+T118	Disease 7536 7541	椎间孔狭窄
+T119	Anatomy 7606 7611	β-内啡肽
+T120	Anatomy 7633 7640	前列腺素 E2
+T121	Anatomy 7701 7702;7703 7707	降 钙素受体
+T122	Anatomy 7876 7877;7878 7882	降 钙素受体
+T123	Anatomy 7921 7926	CT 受体
+T124	Anatomy 8074 8075;8076 8077	脑 干
+T125	Anatomy 8151 8154	神经元
+T126	Anatomy 8256 8257;8258 8259	皮 层
+T127	Anatomy 8260 8265	皮层下结构
+T128	Drug 8399 8402	纳洛酮
+T129	Drug 8407 8410	sCT
+T130	Drug 8390 8395;8396 8398	阿片受体阻 断剂
+T131	Drug 8422 8425	sCT
+T132	Method 8457 8461	皮下注射
+T133	Anatomy 8474 8479	CT 受体
+T134	Anatomy 8529 8532	神经元
+T135	Anatomy 8588 8593;8594 8595	星型胶质细 胞
+T136	Anatomy 8606 8609	神经元
+T137	Anatomy 8660 8663	神经元
+T138	Anatomy 8675 8678	神经元
+T139	Drug 8863 8866	sCT
+T140	Drug 8890 8893	sCT
+T141	Drug 8917 8922;8923 8925	sCT8- 32
+T142	Drug 8905 8915	鲑鱼降钙素 8-32
+T143	Drug 8938 8945	sCT8-32
+T144	Drug 8927 8935	降钙素受体拮抗剂
+T145	Drug 8967 8970	sCT
+T146	Drug 8996 8999	sCT
+T147	Anatomy 9005 9008	PAG
+T148	Drug 9058 9061	Che
+T149	Drug 9070 9073	sCT
+T150	Anatomy 9080 9087	PAG 神经元
+T151	Drug 9114 9117	sCT
+T152	Anatomy 9193 9196	PAG
+T153	Drug 9203 9206	sCT
+T154	Drug 9251 9254	sCT
+T155	Anatomy 4239 4246	PAG 神经元
+T156	Drug 351 354	Che
+T157	Anatomy 5612 5621	中脑导水管周围灰质
+T158	Disease 7519 7525	骨骼组织病变
+T159	Test 8681 8685	免疫反应
+T160	Test_Value 8685 8687	阳性
+T161	Test_Value 8795 8797	阳性
+T162	Anatomy 117 120	谷氨酸
+T163	Anatomy 216 219	谷氨酸
+T164	Anatomy 254 257	谷氨酸
+T165	Anatomy 322 325	谷氨酸
+T166	Anatomy 391 396	降钙素受体
+T167	Anatomy 425 428	谷氨酸
+T168	Anatomy 2390 2393	谷氨酸
+T169	Anatomy 2432 2435	谷氨酸
+T170	Anatomy 2529 2532	谷氨酸
+T171	Anatomy 2686 2690	CT-R
+T172	Method 2737 2739	注射
+T173	Amount 2735 2737	微量
+T174	Method 2762 2764	注射
+T175	SideEff 2750 2751;2752 2755	痛 阈上升
+T176	SideEff 2765 2769	痛阈上升
+T177	Level 2770 2772	明显
+T178	Anatomy 2972 2975	谷氨酸
+T179	Anatomy 3003 3006	谷氨酸
+T180	Anatomy 3632 3634	脑膜
+T181	Anatomy 3637 3641	结缔组织
+T182	Drug 3819 3823	谷氨酰胺
+T183	Anatomy 3651 3655	胰蛋白酶
+T184	Anatomy 4199 4204	神经元细胞
+T185	Drug 4290 4296	白屈菜季氨碱
+T186	Drug 4319 4322	sCT
+T187	Drug 4354 4361	sCT8-32
+T188	Drug 4394 4397	Che
+T189	Anatomy 4453 4456	谷氨酸
+T190	Drug 4907 4913	2-巯基乙醇
+T191	Drug 5035 5039	四氢呋喃
+T192	Drug 5179 5182	谷氨酸
+T193	Anatomy 5291 5294	谷氨酸
+T194	Anatomy 5300 5303	谷氨酸
+T195	Anatomy 5324 5327	谷氨酸
+T196	Drug 5462 5465	sCT
+T197	Anatomy 5479 5482	谷氨酸
+T198	Drug 5524 5527	sCT
+T199	Anatomy 5557 5560	谷氨酸
+T200	Anatomy 5569 5572	谷氨酸
+T201	Drug 5578 5581	sCT
+T202	Anatomy 5593 5596	谷氨酸
+T203	Test 6050 6053	谷氨酸
+T204	Anatomy 6115 6118	谷氨酸
+T205	Anatomy 6166 6169	谷氨酸
+T206	Test 6927 6930	谷氨酸
+T207	Anatomy 6982 6985	神经元
+T208	Anatomy 6985 6988	谷氨酸
+T209	Anatomy 7051 7052;7053 7055	谷 氨酸
+T210	Drug 7105 7112	PKC 抑制剂
+T211	Test 7194 7197	谷氨酸
+T212	Anatomy 7246 7249	谷氨酸
+T213	Symptom 7527 7529	疼痛
+T214	Symptom 7564 7566	疼痛
+T215	Symptom 7556 7558	疼痛
+T216	Symptom 7544 7546	疼痛
+T217	Anatomy 7602 7604	血浆
+T218	Reason 7644 7646;7647 7649	炎症 反应
+T219	Anatomy 7671 7676;7677 7680	G 蛋白偶 联受体
+T220	Drug 7730 7734	多肽激素
+T221	Drug 7741 7743;7744 7745	氨基 酸
+T222	Anatomy 7753 7756	降钙素
+T223	Symptom 7862 7864	疼痛
+T224	Symptom 7830 7832	疼痛
+T225	Anatomy 7873 7875	中枢
+T226	Anatomy 7940 7943	PAG
+T227	Anatomy 7962 7966	cAMP
+T228	Anatomy 7976 7980	蛋白激酶
+T229	Symptom 8007 8009	疼痛
+T230	Anatomy 8089 8091	脑区
+T231	Anatomy 8166 8177	去甲肾上腺素能神经通路
+T232	Symptom 8247 8249	疼痛
+T233	Symptom 8375 8378	神经痛
+T234	Anatomy 8469 8473	外周神经
+T235	Anatomy 8480 8483;8484 8486	背根神 经节
+T236	Anatomy 8513 8519	中枢神经系统
+T237	Anatomy 8522 8525	谷氨酸
+T238	Anatomy 8548 8551	谷氨酸
+T239	Anatomy 8555 8559	胶质递质
+T240	Anatomy 8630 8633	谷氨酸
+T241	Anatomy 8694 8699	单克隆抗体
+T242	Anatomy 8808 8811	谷氨酸
+T243	Anatomy 8817 8820	神经元
+T244	Anatomy 8879 8882	谷氨酸
+T245	Anatomy 8981 8984	谷氨酸
+T246	Anatomy 9009 9014;9015 9017	谷氨酸能神 经元
+T247	Anatomy 9023 9026	谷氨酸
+T248	Drug 9046 9057	PKC 信号通路阻断剂
+T249	Anatomy 9087 9090	谷氨酸
+T250	Anatomy 9135 9138	PKC
+T251	Anatomy 9161 9164	谷氨酸
+T252	Symptom 9229 9232	神经痛
+T253	Symptom 9235 9238;9239 9242	疼痛相 关行为
+T254	Anatomy 9265 9267;9268 9269	谷氨 酸
+T255	Drug 3308 3315	sCT8-32
+T256	Anatomy 3523 3532;3533 3535	单克隆神经元特异核 蛋白
+T257	Drug 3242 3245	sCT
+T258	Drug 3360 3363	Che
+T259	Symptom 8505 8507	疼痛
+T260	Anatomy 2701 2704	PAG
+T261	Anatomy 7929 7931	脑桥
+T262	Anatomy 100 109	中脑导水管周围灰质
+T263	Anatomy 110 113	PAG
+T264	Disease 7767 7768;7769 7775	绝 经后骨质疏松
+T265	Anatomy 3903 3909;3910 3912	PAG 神经 细胞
+T266	Anatomy 8719 8723	神经细胞
+T267	Anatomy 95 98	降钙素
+T268	Anatomy 196 199	降钙素
+T269	Anatomy 200 203	sCT
+T270	Anatomy 239 242	sCT
+T271	Anatomy 307 310	sCT
+T272	Anatomy 330 336	蛋白激酶 C
+T273	Anatomy 337 340	PKC
+T274	Anatomy 374 377	sCT
+T275	Anatomy 406 409	PKC
+T276	Anatomy 2573 2576	降钙素
+T277	Anatomy 2705 2707	腹侧
+T278	Amount 2547 2549	微量
+T279	Drug 2864 2867	sCT
+T280	Drug 2987 2990	sCT
+T281	Drug 4261 4264	sCT
+T282	Drug 6101 6104	sCT
+T283	Drug 6135 6142	sCT8-32
+T284	Drug 6148 6151	sCT
+T285	Drug 6856 6863	sCT8-32
+T286	Drug 6906 6909	sCT
+T287	Drug 6890 6893	sCT
+T288	Drug 6938 6941	sCT
+T289	Drug 6975 6978	sCT
+T290	Drug 6965 6972	sCT8-32
+T291	Drug 7034 7037	sCT
+T292	Drug 7157 7160	sCT
+T293	Drug 7174 7177	sCT
+T294	Drug 7206 7209	sCT
+T295	Drug 7239 7242	sCT
+T296	Drug 7264 7267	sCT
+T297	Anatomy 7332 7337	降钙素基因
+T298	Anatomy 7464 7466	CT
+T299	Anatomy 7486 7488	CT
+T300	Symptom 7530 7535	神经性疼痛
+T301	Anatomy 7573 7576	降钙素
+T302	Anatomy 7594 7597	降钙素
+T303	Anatomy 7681 7683	CT
+T304	Drug 7717 7722	鲑鱼降钙素
+T305	Drug 7723 7726	sCT
+T306	Anatomy 7838 7840	脑室
+T307	Method 7841 7843	注射
+T308	Drug 7844 7847;7848 7851	sCT d-1
+T309	Symptom 7855 7860	神经性疼痛
+T310	Anatomy 7934 7938	网状结构
+T311	Anatomy 7949 7952	降钙素
+T312	Drug 8355 8358	sCT
+T313	Drug 8462 8464	CT
+T314	Test 8790 8794	NeuN
+T315	Amount 9198 9200	微量
+T316	Method 9200 9202	注射
+T317	Symptom 9276 9281	神经性疼痛
+T318	Symptom 9185 9190	神经性疼痛
+T319	Anatomy 401 405	蛋白激酶

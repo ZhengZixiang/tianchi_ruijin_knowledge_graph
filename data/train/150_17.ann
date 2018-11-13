@@ -1,0 +1,386 @@
+T1	Disease 125 131	2 型糖尿病
+T2	Disease 180 186	2 型糖尿病
+T3	Disease 1350 1356	2 型糖尿病
+T4	Disease 1387 1393	2 型糖尿病
+T5	Disease 1433 1439	2 型糖尿病
+T6	Disease 2615 2621	2 型糖尿病
+T7	Disease 2801 2807	2 型糖尿病
+T8	Disease 2951 2957	2 型糖尿病
+T9	Disease 3169 3175	2 型糖尿病
+T10	Disease 3341 3347	2 型糖尿病
+T11	Disease 3496 3502	2 型糖尿病
+T12	Disease 3570 3576	2 型糖尿病
+T13	Disease 3688 3694	2 型糖尿病
+T14	Disease 3852 3855;3856 3859	2 型 糖尿病
+T15	Disease 3993 3999	2 型糖尿病
+T16	Disease 4212 4218	2 型糖尿病
+T17	Disease 4293 4299	2 型糖尿病
+T18	Disease 4340 4346	2 型糖尿病
+T19	Disease 4520 4526	2 型糖尿病
+T20	Disease 4605 4611	2 型糖尿病
+T21	Disease 4828 4834	2 型糖尿病
+T22	Disease 4889 4895	2 型糖尿病
+T23	Disease 4974 4980	2 型糖尿病
+T24	Disease 5128 5134	2 型糖尿病
+T25	Disease 5231 5237	2 型糖尿病
+T26	Disease 5362 5368	2 型糖尿病
+T27	Disease 5436 5442	2 型糖尿病
+T28	Disease 5532 5538	2 型糖尿病
+T29	Disease 5576 5580;5581 5583	2 型糖 尿病
+T30	Disease 5747 5753	2 型糖尿病
+T31	Disease 6041 6047	2 型糖尿病
+T32	Disease 6619 6625	2 型糖尿病
+T33	Drug 5809 5814	磺脲类药物
+T34	Test 4906 4911	HBA1C
+T35	Test 5001 5006	HBA1C
+T36	Drug 2972 2976	二甲双胍
+T37	Test 5155 5158	血脂谱
+T38	Test 5325 5328	血脂谱
+T39	Test 5204 5213	高密度脂蛋白胆固醇
+T40	Test 5186 5187;5188 5196	低 密度脂蛋白胆固醇
+T41	Test 5175 5179	总胆固醇
+T42	Test 4531 4535	体重指数
+T43	Test 5654 5657	收缩压
+T44	Test 5830 5833	收缩压
+T45	Test 5887 5890	收缩压
+T46	Test 5939 5942	收缩压
+T47	Test 5659 5662	舒张压
+T48	Test 5843 5846	舒张压
+T49	Test 5943 5946	舒张压
+T50	Disease 267 273	动脉粥样硬化
+T51	Disease 2791 2797	动脉粥样硬化
+T52	Disease 2821 2827	动脉粥样硬化
+T53	Disease 2873 2879	动脉粥样硬化
+T54	Disease 3085 3091	动脉粥样硬化
+T55	Disease 3184 3190	动脉粥样硬化
+T56	Disease 3223 3226;3227 3230	动脉粥 样硬化
+T57	Disease 3273 3279	动脉粥样硬化
+T58	Disease 3287 3293	动脉粥样硬化
+T59	Disease 3371 3377	动脉粥样硬化
+T60	Disease 5101 5107	动脉粥样硬化
+T61	Disease 6914 6920	动脉粥样硬化
+T62	Anatomy 4101 4105	活性氧簇
+T63	Drug 1713 1717	利拉鲁肽
+T64	Drug 2997 2998;2999 3002	利 拉鲁肽
+T65	Drug 3061 3065	利拉鲁肽
+T66	Drug 4330 4334	利拉鲁肽
+T67	Drug 4375 4379	利拉鲁肽
+T68	Drug 4463 4467	利拉鲁肽
+T69	Drug 5879 5883	利拉鲁肽
+T70	Drug 6033 6037	利拉鲁肽
+T71	Drug 1780 1784	阿格列汀
+T72	Drug 2464 2468	阿格列汀
+T73	Drug 2530 2534	阿格列汀
+T74	Drug 2732 2736	阿格列汀
+T75	Drug 3895 3899	阿格列汀
+T76	Drug 3940 3944	阿格列汀
+T77	Drug 5269 5273	罗格列酮
+T78	Drug 5309 5313	罗格列酮
+T79	Drug 1760 1764	西格列汀
+T80	Drug 2754 2758	西格列汀
+T81	Drug 3718 3722	西格列汀
+T82	Drug 3816 3817;3818 3821	西 格列汀
+T83	Drug 3878 3882	西格列汀
+T84	Drug 3934 3938	西格列汀
+T85	Drug 2050 2054	吡格列酮
+T86	Test 5163 5167	甘油三酯
+T87	Test 1550 1552	体重
+T88	Test 3157 3159	体重
+T89	Test 4280 4282	体重
+T90	Test 4555 4557	体重
+T91	Test 4705 4707	体重
+T92	Test 4737 4739	体重
+T93	Test 4774 4776	体重
+T94	Test 4788 4790	体重
+T95	Test 4796 4798	体重
+T96	Drug 1770 1774	沙格列汀
+T97	Drug 2139 2143	沙格列汀
+T98	Drug 2167 2171	沙格列汀
+T99	Drug 2256 2260	沙格列汀
+T100	Drug 2288 2292	沙格列汀
+T101	Drug 2320 2324	沙格列汀
+T102	Drug 2402 2406	沙格列汀
+T103	Drug 2727 2731	沙格列汀
+T104	Drug 4730 4734	沙格列汀
+T105	Drug 1718 1719;1720 1723	艾 塞那肽
+T106	Drug 4468 4472	艾塞那肽
+T107	Drug 5143 5147	艾塞那肽
+T108	Drug 5349 5353	艾塞那肽
+T109	Drug 5692 5696	艾塞那肽
+T110	Drug 5874 5878	艾塞那肽
+T111	Drug 6293 6297	艾塞那肽
+T112	Drug 6435 6439	艾塞那肽
+T113	Drug 1765 1769	维格列汀
+T114	Drug 4769 4773	维格列汀
+T115	Drug 5243 5247	维格列汀
+T116	Drug 5317 5321	维格列汀
+T117	Drug 1655 1664	GLP-1 类似物
+T118	Anatomy 348 356	胰升糖素样肽 1
+T119	Anatomy 1454 1462	胰升糖素样肽 1
+T120	Anatomy 630 635	GLP-1
+T121	Anatomy 791 796	GLP-1
+T122	Anatomy 1105 1110	GLP-1
+T123	Anatomy 1463 1468	GLP-1
+T124	Anatomy 1515 1520	GLP-1
+T125	Anatomy 1573 1578	GLP-1
+T126	Anatomy 1616 1621	GLP-1
+T127	Anatomy 1687 1692	GLP-1
+T128	Anatomy 2889 2894	GLP-1
+T129	Anatomy 3211 3216	GLP-1
+T130	Anatomy 3610 3615	GLP-1
+T131	Anatomy 3973 3978	GLP-1
+T132	Anatomy 4024 4029	GLP-1
+T133	Anatomy 4052 4057	GLP-1
+T134	Anatomy 6151 6156	GLP-1
+T135	Anatomy 6267 6272	GLP-1
+T136	Anatomy 6501 6506	GLP-1
+T137	Anatomy 6721 6726	GLP-1
+T138	Anatomy 6794 6799	GLP-1
+T139	Anatomy 6931 6936	GLP-1
+T140	Disease 312 317	心血管疾病
+T141	Disease 368 373	心血管疾病
+T142	Disease 1374 1377;1378 1380	心血管 疾病
+T143	Disease 247 251	血脂异常
+T144	Disease 5372 5376	血脂异常
+T145	Disease 5445 5449	血脂异常
+T146	Disease 6894 6898	血脂异常
+T147	Drug 1775 1779	利格列汀
+T148	Drug 2759 2763	利格列汀
+T149	Anatomy 3411 3414	肱动脉
+T150	Disease 4944 4947	冠心病
+T151	Test 5767 5769;5770 5771	舒张 压
+T152	Test 5895 5897;5898 5899	舒张 压
+T153	Test 189 191	血糖
+T154	Test 1526 1528	血糖
+T155	Test 3115 3117	血糖
+T156	Test 3538 3540	血糖
+T157	Test 3790 3792	血糖
+T158	Test 3950 3952	血糖
+T159	Test 4817 4819	血糖
+T160	Test 4879 4881	血糖
+T161	Test 4982 4984	血糖
+T162	Anatomy 231 235	血管内皮
+T163	Disease 240 242	肥胖
+T164	Disease 252 255	高血压
+T165	Disease 282 292	心肌缺血-再灌注损伤
+T166	Disease 293 297	心力衰竭
+T167	Disease 1381 1384	CVD
+T168	Disease 1416 1419	糖尿病
+T169	Anatomy 1475 1479	肠促胰素
+T170	Anatomy 1491 1493	回肠
+T171	Anatomy 1494 1499	结肠黏膜层
+T172	Anatomy 1501 1505	L 细胞
+T173	Test 1555 1557	血压
+T174	Anatomy 1581 1588	二肽基肽酶 4
+T175	Anatomy 1589 1594	DPP-4
+T176	Anatomy 1624 1629	DPP-4
+T177	Anatomy 1702 1707	DPP-4
+T178	Drug 1730 1739	DPP-4 抑制剂
+T179	Drug 1924 1933	DPP-4 抑制剂
+T180	Duration 1946 1953	至少 24 周
+T181	Disease 2016 2026	心脑血管疾病相关死亡
+T182	Disease 2027 2034	急性冠脉综合征
+T183	Disease 2035 2037	卒中
+T184	Disease 2112 2114	死亡
+T185	Amount 2172 2183	2. 5 mg / d
+T186	Amount 2196 2204	5 mg / d
+T187	Duration 2233 2241	至少 206 周
+T188	Disease 2336 2340	心肌梗死
+T189	Disease 2349 2354	心血管死亡
+T190	Disease 2408 2411;2412 2413	心力衰 竭
+T191	Disease 2501 2509	非致死性心肌梗塞
+T192	Disease 2518 2519;2520 2524	心 血管死亡
+T193	Drug 2600 2609	DPP-4 抑制剂
+T194	Disease 2623 2628	心血管事件
+T195	Disease 2672 2677	心血管事件
+T196	Drug 2718 2727	DPP-4 抑制剂
+T197	Disease 2745 2750	心血管事件
+T198	Anatomy 2860 2867	ApoE 基因
+T199	Anatomy 2898 2901;2902 2906	血管内 泡沫细胞
+T200	Disease 2942 2948	冠状动脉疾病
+T201	Amount 2977 2989	1 500 mg / d
+T202	Amount 3008 3019	0. 6 mg / d
+T203	Amount 3029 3040	1. 2 mg / d
+T204	Duration 3020 3024	2 周后
+T205	Duration 3048 3052	8 个月
+T206	Test 3069 3075;3076 3079	颈动脉内膜中 层厚度
+T207	Test 3118 3122	血脂指标
+T208	Test 3160 3162	血压
+T209	Test 3163 3165	血脂
+T210	Disease 3179 3182	糖尿病
+T211	Drug 3197 3201	维达列汀
+T212	Drug 3255 3264	DPP-4 抑制剂
+T213	Disease 3299 3302	CVD
+T214	Anatomy 3324 3328	血管内皮
+T215	Reason 3353 3360;3361 3362	血管内皮功能障 碍
+T216	Reason 3364 3370	内皮功能障碍
+T217	Test 3417 3419;3420 3427	血流 介导的血管舒张
+T218	Test 3451 3454	FMD
+T219	Anatomy 3398 3400	内皮
+T220	Disease 3484 3492;3493 3494	稳定型冠状动脉疾 病
+T221	Test 3524 3527;3528 3535	高胰岛 素正葡萄糖钳夹
+T222	Disease 3559 3568	稳定型冠状动脉疾病
+T223	Method 3580 3584	静脉输注
+T224	Test 3627 3630	FMD
+T225	Amount 3724 3733	50 mg / d
+T226	Drug 3735 3740	伏格列波糖
+T227	Amount 3743 3754	0. 9 mg / d
+T228	Frequency 3755 3762	3 次 / d
+T229	Duration 3767 3770	6 周
+T230	Test 3805 3808	FMD
+T231	Test 3826 3829	FMD
+T232	Drug 3798 3803	伏格列波糖
+T233	Amount 3883 3892	50 mg / d
+T234	Amount 3900 3909	25 mg / d
+T235	Test 3960 3963	FMD
+T236	Test_Value 3946 3950	显著降低
+T237	Duration 3913 3916	6 周
+T238	Test_Value 3955 3959	显著降低
+T239	Anatomy 4003 4007	血管内皮
+T240	Anatomy 4072 4081	内皮型一氧化氮合酶
+T241	Anatomy 4113 4115	内皮
+T242	Disease 4221 4224	CVD
+T243	Reason 4286 4288	超重
+T244	Reason 4289 4291	肥胖
+T245	Disease 4303 4306	CVD
+T246	Disease 4337 4339	肥胖
+T247	Disease 4512 4514	肥胖
+T248	Test_Value 4537 4544;4545 4552	29 ~ 41 kg / m2
+T249	Test_Value 4559 4570	82 ~ 111 kg
+T250	Disease 4612 4614	肥胖
+T251	Test_Value 4627 4634	3. 2 kg
+T252	Anatomy 4659 4666	下丘脑摄食中枢
+T253	Anatomy 4679 4680	胃
+T254	Drug 4695 4704	DPP-4 抑制剂
+T255	Test_Value 4735 4737	降低
+T256	Test_Value 4740 4754	1. 1 ~ 1. 5 kg
+T257	Disease 4837 4840	CVD
+T258	Disease 4899 4902	CVD
+T259	Disease 4923 4931	非致死性心肌梗死
+T260	Drug 5028 5037	DPP-4 抑制剂
+T261	Test 5072 5074	血脂
+T262	Disease 5086 5089	CVD
+T263	Amount 5248 5253	50 mg
+T264	Frequency 5254 5255;5256 5261	2 次 / d
+T265	Amount 5274 5278	8 mg
+T266	Frequency 5279 5286	1 次 / d
+T267	Duration 5297 5300	2 年
+T268	Duration 5356 5360	6 个月
+T269	Disease 5499 5501	血压
+T270	Reason 5505 5508	高血压
+T271	Disease 5510 5513	CVD
+T272	Disease 5541 5547	心血管并发症
+T273	Test 5548 5549;5550 5551	血 压
+T274	Test 5585 5587	血压
+T275	Disease 5596 5606	大血管或微血管并发症
+T276	Amount 5697 5701	5 μg
+T277	Frequency 5702 5709	2 次 / d
+T278	Duration 5710 5713	4 周
+T279	Amount 5719 5724	10 μg
+T280	Frequency 5725 5732	2 次 / d
+T281	Duration 5737 5740	8 周
+T282	Test_Value 5744 5746	降低
+T283	Test 5772 5774	心率
+T284	Drug 5804 5805;5806 5808	胰 岛素
+T285	Test_Value 5828 5830	降低
+T286	Drug 5916 5925	DPP-4 抑制剂
+T287	Disease 5929 5933;5934 5936	自发性高 血压
+T288	Drug 5969 5978	DPP-4 抑制剂
+T289	Test 5980 5982	血压
+T290	Test 6049 6058	血清 C 反应蛋白
+T291	Test 6059 6061;6062 6073	纤溶 酶原激活物抑制因子-1
+T292	Anatomy 6137 6141	血管内皮
+T293	Anatomy 6187 6189	心脏
+T294	Disease 6215 6223	缺血-再灌注损伤
+T295	Disease 6251 6261	心肌缺血-再灌注损伤
+T296	Test 6310 6316	心肌梗死面积
+T297	Test_Value 6316 6318	缩小
+T298	Method 6369 6375	连续静脉输注
+T299	Disease 6410 6416	急性心肌梗死
+T300	Operation 6421 6432	直接经皮冠状动脉介入术
+T301	Amount 6454 6458	5 μg
+T302	Method 6462 6474	24 h 内持续静脉输注
+T303	Amount 6475 6480	20 μg
+T304	Duration 6484 6487	3 d
+T305	Test 6493 6499	心肌梗死面积
+T306	Disease 6514 6517;6518 6523	缺血- 再灌注损伤
+T307	Reason 6535 6545;6546 6549	增加心肌细胞对葡萄糖 的摄取
+T308	Reason 6550 6558	改善心肌代谢状况
+T309	Reason 6559 6566	保护线粒体功能
+T310	Reason 6567 6574;6575 6577	抑制心肌细胞的 凋亡
+T311	Reason 6578 6582	炎症反应
+T312	Disease 6605 6609	心力衰竭
+T313	Disease 6613 6617	心力衰竭
+T314	Disease 6660 6662;6663 6667	自发 性高血压
+T315	Disease 6668 6672	心力衰竭
+T316	Method 6681 6685	皮下埋泵
+T317	Anatomy 6733 6737	心肌细胞
+T318	Disease 6748 6752	心肌梗死
+T319	Disease 6753 6757;6758 6760	慢性心力 衰竭
+T320	Method 6772 6776	皮下输注
+T321	Anatomy 6806 6808	心脏
+T322	Anatomy 6809 6812	胰岛素
+T323	Disease 6820 6823;6824 6825	心力衰 竭
+T324	Anatomy 6878 6882	血管内皮
+T325	Disease 6887 6889	肥胖
+T326	Disease 6899 6902	高血压
+T327	Disease 6941 6951	心肌缺血-再灌注损伤
+T328	Disease 6954 6958	心力衰竭
+T329	Disease 6988 6991	CVD
+T330	Test 5756 5764	24 h 收缩压
+T331	Disease 2341 2343;2344 2348	缺血 性脑卒中
+T332	Disease 2510 2517	非致死性脑卒中
+T333	Test 4619 4621	体重
+T334	Drug 112 123	胰升糖素样肽 1 药物
+T335	Anatomy 161 169	胰升糖素样肽 1
+T336	Anatomy 170 175	GLP-1
+T337	Drug 205 210;211 213	GLP-1 药物
+T338	Drug 302 310	GLP-1 药物
+T339	Drug 1668 1679	GLP-1 受体激动剂
+T340	Anatomy 1741 1750	内源性 GLP-1
+T341	Drug 1800 1808	GLP-1 药物
+T342	Drug 1825 1833	GLP-1 药物
+T343	Drug 1885 1896	GLP-1 受体激动剂
+T344	Drug 2058 2069	GLP-1 受体激动剂
+T345	Drug 2094 2104;2105 2106	GLP-1 受体激动 剂
+T346	Drug 2587 2598	GLP-1 受体激动剂
+T347	Drug 2658 2669	GLP-1 受体激动剂
+T348	Drug 2782 2790	GLP-1 药物
+T349	Drug 3242 3253	GLP-1 受体激动剂
+T350	Drug 3315 3323	GLP-1 药物
+T351	Drug 3981 3989	GLP-1 药物
+T352	Anatomy 4128 4133	GLP-1
+T353	Anatomy 4139 4144	GLP-1
+T354	Drug 4182 4190	GLP-1 药物
+T355	Drug 4235 4243	GLP-1 药物
+T356	Drug 4271 4279	GLP-1 药物
+T357	Drug 4451 4462	GLP-1 受体激动剂
+T358	Drug 4577 4588	GLP-1 受体激动剂
+T359	Drug 4636 4647	GLP-1 受体激动剂
+T360	Drug 4808 4816	GLP-1 药物
+T361	Drug 4987 4998	GLP-1 受体激动剂
+T362	Drug 5063 5071	GLP-1 药物
+T363	Drug 5424 5432	GLP-1 药物
+T364	Drug 5490 5498	GLP-1 药物
+T365	Test 5642 5653	血浆 GLP-1 水平
+T366	Drug 5817 5828	GLP-1 受体激动剂
+T367	Drug 5956 5967	GLP-1 受体激动剂
+T368	Drug 5999 6007	GLP-1 药物
+T369	Drug 6021 6029;6030 6033	GLP-1 受体 激动剂
+T370	Drug 6107 6115	GLP-1 药物
+T371	Anatomy 6162 6170	GLP-1 受体
+T372	Drug 6206 6214	GLP-1 药物
+T373	Drug 6596 6604	GLP-1 药物
+T374	Drug 6777 6782	GLP-1
+T375	Drug 6852 6860	GLP-1 药物
+T376	Drug 6978 6986	GLP-1 药物
+T377	Drug 7046 7054	GLP-1 药物
+T378	Disease 1560 1564	血脂异常
+T379	Reason 5078 5082	血脂异常
+T380	Disease 243 246	高血糖
+T381	Disease 4823 4826	高血糖
+T382	Disease 6890 6893	高血糖
+T383	Test 6440 6444;6445 6447	冠状动脉 造影
+T384	Disease 6343 6348;6349 6350	急性心肌梗 死
+T385	Level 6351 6353	严重
+T386	Reason 6353 6359	收缩功能不全

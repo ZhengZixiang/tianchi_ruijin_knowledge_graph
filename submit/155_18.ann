@@ -1,0 +1,366 @@
+T1	Operation 8 14	减重手术治疗
+T2	Disease 14 16	肥胖
+T3	Disease 18 24	2 型糖尿病
+T4	Disease 44 46	肥胖
+T5	Disease 48 54	2 型糖尿病
+T6	Operation 80 86	外科减重手术
+T7	Test 96 98	体重
+T8	Test 119 123	胃肠激素
+T9	Test 127 130	胆汁酸
+T10	Anatomy 132 134	肠道
+T11	Disease 1008 1010	超重
+T12	Disease 1011 1013	肥胖
+T13	Test 1073 1077	体重指数
+T14	Test 1095 1098	BMI
+T15	Test_Value 1102 1112	25 kg / m2
+T16	Disease 1119 1121	肥胖
+T17	Test 1160 1163;1164 1165	体重指 数
+T18	Test_Value 1165 1178	超过 25 kg / m2
+T19	Disease 1192 1194	超重
+T20	Disease 1195 1197	肥胖
+T21	Disease 1202 1210	肥胖相关慢性疾病
+T22	Disease 1222 1224	肥胖
+T23	Disease 1267 1269	肥胖
+T24	Disease 1284 1286	肥胖
+T25	Operation 1319 1325	减重手术治疗
+T26	Disease 1325 1327	肥胖
+T27	Disease 1348 1350	肥胖
+T28	Disease 1355 1358	糖尿病
+T29	Disease 1359 1363	高脂血症
+T30	Disease 1364 1367	高血压
+T31	Operation 1380 1384	减重手术
+T32	Disease 1392 1394	肥胖
+T33	Disease 1396 1402	2 型糖尿病
+T34	Disease 1406 1407;1408 1410	糖 尿病
+T35	Operation 1422 1426	减重手术
+T36	Disease 1465 1467	肥胖
+T37	Test 1505 1509	体重指数
+T38	Test_Value 1509 1520	≥35 kg / m2
+T39	Disease 1521 1523	肥胖
+T40	Level 1538 1540	重度
+T41	Disease 1540 1546	肥胖相关疾病
+T42	Operation 1552 1556	减重手术
+T43	Disease 1558 1560	肥胖
+T44	Disease 1569 1574	代谢综合征
+T45	Disease 1575 1578	糖尿病
+T46	Disease 1580 1585	糖尿病前期
+T47	Reason 1586 1590;1591 1593	脂质代谢 异常
+T48	Disease 1594 1597	高血压
+T49	Disease 1598 1607	非酒精性脂肪性肝病
+T50	Disease 1608 1615	多囊卵巢综合征
+T51	Symptom 1616 1619;1620 1623	睡眠呼 吸暂停
+T52	Disease 1624 1628	骨关节炎
+T53	Disease 1629 1634	胃食管返流
+T54	Disease 1649 1651	肥胖
+T55	Disease 1672 1676	腹型肥胖
+T56	Disease 1713 1715	肥胖
+T57	Disease 1737 1743	2 型糖尿病
+T58	Operation 1763 1769	减重手术治疗
+T59	Disease 1769 1771	肥胖
+T60	Disease 1772 1775	糖尿病
+T61	Disease 1784 1790	2 型糖尿病
+T62	Anatomy 1800 1807	胰岛 β 细胞
+T63	Test 1813 1820	胰岛素分泌功能
+T64	Test 1821 1824;1825 1830	空腹血 清 C 肽
+T65	Test_Value 1831 1836	正常值下限
+T66	Test 1847 1851	体重指数
+T67	Test_Value 1851 1865	≥32. 5 kg / m2
+T68	Disease 1866 1868	肥胖
+T69	Test 1878 1882	体重指数
+T70	Test_Value 1883 1905	27. 5 ~ <32. 5 kg / m2
+T71	Disease 1908 1912;1913 1915	2 型糖 尿病
+T72	Test 1937 1939	血糖
+T73	Disease 1952 1957	代谢综合征
+T74	Test 1973 1977	体重指数
+T75	Test_Value 1978 2000	25. 0 ~ <27. 5 kg / m2
+T76	Operation 2016 2020	减重手术
+T77	Test 2057 2059	腰围
+T78	Test_Value 2059 2065	≥90 cm
+T79	Test 2068 2070	腰围
+T80	Test_Value 2070 2076	≥85 cm
+T81	Disease 2138 2144	2 型糖尿病
+T82	Test 2157 2161	体重指数
+T83	Test_Value 2161 2172	≥32 kg / m2
+T84	Disease 2174 2180	2 型糖尿病
+T85	Operation 2190 2194	减重手术
+T86	Test 2201 2205	体重指数
+T87	Test_Value 2207 2222	28 ~ 32 kg / m2
+T88	Disease 2228 2234	2 型糖尿病
+T89	Operation 2268 2272	减重手术
+T90	Operation 2318 2322	胃束带术
+T91	Operation 2362 2366	LAGB
+T92	Operation 2368 2376	垂直条带胃成形术
+T93	Test 2407 2410	VBG
+T94	Operation 2413 2419	袖状胃切除术
+T95	Operation 2450 2452	SG
+T96	Operation 2536 2541	胆胰转流术
+T97	Operation 2569 2572	BPD
+T98	Operation 2582 2584	SG
+T99	Anatomy 2617 2619	小肠
+T100	Anatomy 2621 2623	胆汁
+T101	Disease 2694 2697;2698 2699	营养不 良
+T102	Symptom 2700 2702	腹痛
+T103	Operation 2720 2724	减重手术
+T104	Operation 2738 2752	Roux-en-Y 胃旁路术
+T105	Operation 2781 2785	RYGB
+T106	Treatment 2787 2792	限制胃容量
+T107	Test 2806 2808	血糖
+T108	Test 2821 2823	体重
+T109	Test 2826 2828	血糖
+T110	Operation 2844 2848	减重手术
+T111	Operation 2877 2879;2880 2882	减重 手术
+T112	Anatomy 2884 2887	胃肠道
+T113	Operation 2913 2917	减重手术
+T114	Disease 2920 2926	2 型糖尿病
+T115	Test 2940 2942	体重
+T116	Anatomy 2960 2962	大脑
+T117	Anatomy 2971 2975	迷走神经
+T118	Anatomy 2989 2994	胃促生长素
+T119	Test 3005 3010	胃促生长素
+T120	Anatomy 3013 3017	胃底细胞
+T121	Anatomy 3024 3027	下丘脑
+T122	Anatomy 3063 3067	胰岛细胞
+T123	Anatomy 3069 3072	胰岛素
+T124	Test 3074 3078;3079 3080	胃促生长 素
+T125	Test 3132 3134;3135 3138	胃促 生长素
+T126	Test_Value 3140 3142	降低
+T127	Operation 3157 3161	RYGB
+T128	Anatomy 3200 3202	胃底
+T129	Operation 3221 3223	SG
+T130	Anatomy 3240 3245	胃促生长素
+T131	Operation 3274 3276	SG
+T132	Anatomy 3312 3319	胃促生长素基因
+T133	Operation 3327 3329	SG
+T134	Test 3341 3343	体重
+T135	Test 3344 3347	摄食量
+T136	Test 3357 3360	糖耐量
+T137	Anatomy 3375 3380	胃促生长素
+T138	Operation 3388 3390	SG
+T139	Test 3416 3419	胃容量
+T140	Test 3436 3438	体重
+T141	Disease 3494 3495;3496 3500	2 型糖尿病
+T142	Operation 3515 3521	RYGB 术
+T143	Operation 3522 3527;3528 3534	单纯限制型 LAGB 术
+T144	Operation 3536 3540	减重手术
+T145	Duration 3596 3599	3 周
+T146	Operation 3600 3604	RYGB
+T147	Test 3629 3631	血糖
+T148	Test 3643 3655	胰岛素释放试验曲线下面积
+T149	Test 3656 3659	AUC
+T150	Reason 3679 3685	热量摄入减少
+T151	Operation 3686 3689	减重术
+T152	Operation 3727 3730	BPD
+T153	Disease 3752 3758	2 型糖尿病
+T154	Anatomy 3771 3775;3776 3778	胰岛 β 细胞
+T155	Test 3833 3835	DI
+T156	Disease 3850 3852	DI
+T157	Anatomy 3857 3865	胰升糖素样肽 1
+T158	Anatomy 3866 3871	GLP-1
+T159	Test 3873 3876	酪酪肽
+T160	Anatomy 3890 3894	PYY)
+T161	Test 3895 3900	胃促生长素
+T162	Test 3901 3905	胃肠激素
+T163	Operation 3922 3925	BPD
+T164	Anatomy 3931 3935	β 细胞
+T165	Operation 3949 3953	减重手术
+T166	Disease 3956 3961	胰岛素抵抗
+T167	Disease 3963 3966	糖尿病
+T168	Operation 4027 4031	RYGB
+T169	Operation 4034 4038	LAGB
+T170	Disease 4044 4047	糖尿病
+T171	Symptom 4076 4080	体重下降
+T172	Operation 4089 4093	RYGB
+T173	Disease 4099 4105	2 型糖尿病
+T174	Operation 4114 4118	LAGB
+T175	Operation 4143 4147;4148 4149	RYGB 术
+T176	Disease 4152 4155	糖尿病
+T177	Anatomy 4175 4177	前肠
+T178	Anatomy 4197 4200;4201 4203	胃十二 指肠
+T179	Anatomy 4208 4211	胃肠道
+T180	Drug 4216 4219	胰岛素
+T181	Anatomy 4232 4235	胰岛素
+T182	Test 4250 4256	胰岛素敏感性
+T183	Operation 4296 4300	RYGB
+T184	Operation 4320 4325;4326 4331	十二指肠- 空肠旁路术
+T185	Operation 4364 4368	RYGB
+T186	Operation 4375 4385	肠旷置+胃空肠吻合术
+T187	Disease 4391 4393	肥胖
+T188	Disease 4401 4405;4406 4408	2 型糖 尿病
+T189	Operation 4410 4418	单纯胃空肠吻合术
+T190	Anatomy 4422 4427	近端消化道
+T191	Anatomy 4441 4449	胃-十二指肠通路
+T192	Anatomy 4452 4455	胃空肠
+T193	Disease 4467 4472	糖代谢异常
+T194	Anatomy 4486 4488	前肠
+T195	Operation 4508 4512	减重手术
+T196	Test 4527 4529	血糖
+T197	Test 4551 4555	体重指数
+T198	Test_Value 4555 4557	正常
+T199	Disease 4560 4562	胃癌
+T200	Disease 4563 4566	糖尿病
+T201	Operation 4576 4577;4578 4584	胃 大部切除术术
+T202	Test 4593 4595	血糖
+T203	Test 4624 4629	HBA1C
+T204	Disease 4705 4708	糖尿病
+T205	Anatomy 4725 4727	前肠
+T206	Anatomy 4743 4748	近端消化道
+T207	Operation 4750 4752	SG
+T208	Disease 4755 4758	糖尿病
+T209	Operation 4783 4787	RYGB
+T210	Anatomy 4799 4803	远端小肠
+T211	Anatomy 4806 4814	肠源性内分泌激素
+T212	Anatomy 4828 4836	肠源性内分泌激素
+T213	Anatomy 4839 4844	GLP-1
+T214	Anatomy 4845 4848	抑胃肽
+T215	Anatomy 4887 4890	PYY
+T216	Anatomy 4895 4900	GLP-1
+T217	Anatomy 4902 4909	小肠 L 细胞
+T218	Anatomy 4923 4933	β 细胞膜特异性受体
+T219	Anatomy 4935 4938	胰岛素
+T220	Anatomy 4945 4949	β 细胞
+T221	Disease 4980 4986	2 型糖尿病
+T222	Operation 5012 5016	RYGB
+T223	Operation 5020 5022	SG
+T224	Anatomy 5028 5035	胰岛 β 细胞
+T225	Anatomy 5044 5049	GLP-1
+T226	Anatomy 5061 5065	β 细胞
+T227	Test 5071 5076	GLP-1
+T228	Disease 5083 5086	糖尿病
+T229	Disease 5114 5117;5118 5121	2 型 糖尿病
+T230	Operation 5124 5128	RYGB
+T231	Test 5136 5145	口服葡萄糖耐量试验
+T232	Anatomy 5148 5152	β 细胞
+T233	Test 5167 5174	葡萄糖钳夹试验
+T234	Method 5181 5187	持续静脉输注
+T235	Drug 5187 5190	葡萄糖
+T236	Test 5194 5196	血糖
+T237	Test 5201 5205	OGTT
+T238	Anatomy 5217 5221	β 细胞
+T239	Anatomy 5237 5240;5241 5242	胰岛细 胞
+T240	Anatomy 5254 5258	肠促胰素
+T241	Test 5267 5270	胆汁酸
+T242	Test 5271 5274	胆汁酸
+T243	Operation 5295 5299	RYGB
+T244	Test 5305 5308	胆汁酸
+T245	Test_Value 5310 5314	明显升高
+T246	Disease 5326 5327;5328 5332	2 型糖尿病
+T247	Test 5337 5340	胆汁酸
+T248	Disease 5349 5352	糖尿病
+T249	Disease 5353 5354;5355 5357	糖 尿病
+T250	Operation 5375 5379	RYGB
+T251	Anatomy 5398 5400	肠腔
+T252	Test 5402 5405	胆汁酸
+T253	Test_Value 5407 5409	增高
+T254	Test 5411 5414	胆汁酸
+T255	Anatomy 5418 5422	L 细胞
+T256	Anatomy 5427 5438	G 蛋白偶联胆汁酸受体
+T257	Anatomy 5444 5449	GLP-1
+T258	Disease 5456 5457;5458 5462	2 型糖尿病
+T259	Operation 5488 5490	SG
+T260	Test 5493 5496	胆汁酸
+T261	Anatomy 5497 5499	肝脏
+T262	Disease 5511 5513	肥胖
+T263	Operation 5531 5533	SG
+T264	Test 5542 5547	血清胆汁酸
+T265	Test_Value 5549 5553	显著上升
+T266	Test 5564 5567	胆汁酸
+T267	Test 5570 5571;5572 5573	体 重
+T268	Anatomy 5594 5597	胆汁酸
+T269	Anatomy 5602 5604;5605 5611	法尼 醇 X 受体
+T270	Anatomy 5635 5638	FXR
+T271	Anatomy 5670 5673	FXR
+T272	Operation 5689 5691	SG
+T273	Test 5701 5703	体重
+T274	Test 5707 5709	血糖
+T275	Anatomy 5725 5728	胆汁酸
+T276	Anatomy 5731 5734	FXR
+T277	Operation 5741 5743	SG
+T278	Test 5762 5765	胆汁酸
+T279	Test 5767 5769	体重
+T280	Anatomy 5794 5796	结肠
+T281	Anatomy 5797 5799	肠道
+T282	Anatomy 5808 5810	结肠
+T283	Anatomy 5828 5830	结肠
+T284	Anatomy 5879 5882	胆汁酸
+T285	Anatomy 5940 5942	肠道
+T286	Anatomy 5954 5956	肠道
+T287	Disease 6004 6005;6006 6007	肥 胖
+T288	Reason 6135 6140	胰岛素抵抗
+T289	Disease 6143 6145	肥胖
+T290	Operation 6170 6174	RYGB
+T291	Disease 6177 6179	肥胖
+T292	Test 6182 6184;6185 6190	肠道 菌群丰富度
+T293	Test_Value 6190 6194	显著上升
+T294	Anatomy 6203 6209	白色脂肪组织
+T295	Disease 6228 6230	肥胖
+T296	Anatomy 6236 6238	肠道
+T297	Test 6297 6301	乳酸杆菌
+T298	Test 6324 6328	体重指数
+T299	Test 6337 6341	双歧杆菌
+T300	Test 6364 6369;6370 6371	血清类黏蛋 白
+T301	Operation 6415 6419	RYGB
+T302	Anatomy 6425 6427	肠道
+T303	Disease 6454 6456	肥胖
+T304	Test 6461 6463	体重
+T305	Anatomy 6466 6468	肠道
+T306	Operation 6497 6501	RYGB
+T307	Disease 6597 6599	肥胖
+T308	Disease 6602 6608	2 型糖尿病
+T309	Operation 6613 6617	RYGB
+T310	Test 6706 6711	生癌肠杆菌
+T311	Test 6811 6815	体重指数
+T312	Test 6816 6822	C 反应蛋白
+T313	Test 6846 6852	低密度脂蛋白
+T314	Test 6861 6865	三酰甘油
+T315	Operation 6875 6878	减重术
+T316	Anatomy 6879 6881	肠道
+T317	Anatomy 6912 6914	肠道
+T318	Disease 6922 6925	糖尿病
+T319	Anatomy 6936 6938	肠道
+T320	Disease 6974 6976	肥胖
+T321	Operation 7012 7016	RYGB
+T322	Anatomy 7036 7038	肠道
+T323	Anatomy 7065 7067	肠道
+T324	Test 7092 7094	体重
+T325	Test 7095 7097;7098 7100	脂肪 体积
+T326	Disease 7116 7118	肥胖
+T327	Anatomy 7144 7146	肠道
+T328	Anatomy 7154 7159	短链脂肪酸
+T329	Drug 7179 7183	万古霉素
+T330	Drug 7184 7187	杆菌肽
+T331	Anatomy 7211 7213	肠道
+T332	Anatomy 7232 7237	GLP-1
+T333	Test 7245 7248	糖耐量
+T334	Disease 7249 7255	高胰岛素血症
+T335	Disease 7257 7262	胰岛素抵抗
+T336	Drug 7275 7284	GLP-1 抑制剂
+T337	Anatomy 7314 7319	GLP-1
+T338	Disease 7324 7325;7326 7330	胰 岛素抵抗
+T339	Anatomy 7338 7340	肠道
+T340	Drug 7399 7402	脂多糖
+T341	Disease 7443 7444;7445 7446	肥 胖
+T342	Disease 7448 7454	2 型糖尿病
+T343	Operation 7472 7476	减重手术
+T344	Anatomy 7480 7483	消化道
+T345	Operation 7504 7508	减重手术
+T346	Test 7516 7518	体重
+T347	Disease 7521 7523	肥胖
+T348	Operation 7532 7538	袖状胃切除术
+T349	Operation 7540 7556	Roux-en-Y 胃旁路术治疗
+T350	Disease 7556 7558	肥胖
+T351	Disease 7561 7567	2 型糖尿病
+T352	Test 7593 7595	体重
+T353	Test 7601 7603	血糖
+T354	Test 7606 7608	体重
+T355	Test 7617 7623	胰岛素敏感性
+T356	Anatomy 7624 7626	肠道
+T357	Operation 7635 7639	减重手术
+T358	Anatomy 7645 7648	消化道
+T359	Operation 7666 7670	减重手术
+T360	Disease 7687 7693	2 型糖尿病
+T361	Operation 7723 7727	减重手术
+T362	Operation 7767 7771	减重手术
+T363	Test 7773 7775	体重
+T364	Operation 7801 7805	减重手术
+T365	Disease 7813 7814;7815 7816	肥 胖
+T366	Disease 7817 7823	2 型糖尿病

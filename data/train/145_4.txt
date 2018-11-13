@@ -1,0 +1,357 @@
+甲状旁腺激素相关疾病
+医院内分泌科(胡蜀红)
+89 例原发性甲状旁腺功能亢进症患者的
+诊治分析
+胡琴  胡蜀红
+[摘要]   目的  探讨原发性甲状旁腺功能亢进症(PHPT)患者的临床特点、诊断及治疗。 方法 回顾
+性分析 1991 年至 2013 年间武汉同济医院收治的 89 例 PHPT 患者的临床资料。 结果 男女比例约
+1 : 2. 1,平均年龄(44. 7 ±15. 8)岁。 70 例(79% )患者属于症状型。 总体误诊率为 62% 。 误诊患者中,52%
+的患者被误诊为肾结石和骨病(包括骨折、代谢性骨病、骨肿瘤),其余被误诊为消化性溃疡、类风湿性关节
+炎或胰腺炎。 甲状旁腺激素(PTH)697. 3 pg / ml(26. 4 ~ 5 000. 0 pg / ml,n = 88),血钙(3. 03 ± 0. 56)mmol / L
+(n=88),24 h 尿钙(10. 02 ± 4. 73)mmol / 24 h (n = 36)。 术前影像学检查,99m锝-甲氧基异丁基异腈( 99mTc-
+MIBI)的敏感性(96% )大于超声(71% )、电子计算机断层扫描(CT)(71% )和磁共振成像(MRI)(72% )的
+敏感性(P<0. 05),后三者间差异无统计学意义(P>0. 05)。 共 79 例患者行手术治疗,手术成功率 99% ,病
+理证实有 67 例(85% )腺瘤[其中 62 例单一腺瘤、1 例多发腺瘤、4 例异位腺瘤(分别异位于甲状腺下方、胸
+廓、左纵膈、胸骨上方)]、7 例(9% )增生、3 例(4% )囊肿、2 例(3% )腺癌。 79 例手术患者的术前 PTH
+748. 2 pg / ml (46. 1 ~ 5 000. 0 pg / ml),病灶切除 15 min 后 PTH 79. 9 pg / ml (11. 35 ~ 838. 0 pg / ml),术后 1 d
+PTH 22. 9 pg / ml (2. 3 ~ 1 203. 0 pg / ml) (三个时间点两两比较,P<0. 05)。 术前血钙(3. 03 ± 0. 56)mmol / L,
+术后 1 d 血钙(2. 25 ±0. 37) mmol / L(与术前比较 P<0. 05),术后 2 d 血钙浓度(2. 08 ±0. 36)mmol / L(与术前
+比较 P<0. 05,与术后 1 d 比较 P>0. 05)。 术后有 42 例(53% )患者诉口周及四肢麻木,2 例(3% )出现声嘶
+和饮水呛咳,1 例(1% )出现手足搐搦,经补钙及对症支持治疗后均好转。 结论 国内 PHPT 以症状型患者
+为主,误诊率仍很高,首诊医师应加深对该疾病发病机制及多样化临床表现的认识。 血钙和 PTH 的联合测
+定是诊断的主要依据。 术前影像学检查首选99mTc-MIBI,其次是超声、CT 和 MRI。 手术是安全有效的治疗
+手段。
+[关键词]   原发性甲状旁腺功能亢进症; 诊断; 治疗
+Analysis of diagnosis and treatment of 89 patients with primary hyperparathyroidism Hu Qin *, Hu
+Shuhong. *Department of Endocrinology, First Affiliated Hospital of Kunming Medical University, Kunming 650032,
+China
+[Abstract]  Objective   To summarize the clinical manifestations, diagnosis and treatment of the primary
+hyperparathyroidism(PHPT). Methods The clinical data of 89 patients with PHPT admitted during 1991 to 2013
+were retrospectively analyzed. Results The mean age of the 89 patients was (44. 7 ± 15. 8) years (13-86 years),
+male to female ratio was 1 : 2. 1. 79% of the 89 patients were symptomatic. 62% of the 89 patients had been
+misdiagnosed. 52% had been misdiagnosed as kidney stones or bone diseases ( fracture, tumor, and metabolic bone
+disease) . The remaining subjects had been misdiagnosed as peptic ulcer, rheumatoid arthritis or pancreatitis. The
+median serum parathyroid hormone(PTH) level in 88 patients was 697. 3 pg / ml(26. 4-5 000. 0 pg / ml, n=88), the
+mean serum calcium level was (3. 03 ± 0. 56) mmol / L( n = 88). The 24 h urine calcium was (10. 02 ± 4. 73)
+mmol / 24 h(n = 36). The sensitivity of localization of the parathyroid lesions with technetium-99m methoxy-isobutyl-
+isonitrile ( 99mTc-MIBI) was 96% , being higher than ultrasound (71% ), CT (71% ), and MRI (72% ) (P<0. 05,
+respectively) . 79 cases had been treated surgically. The median serum PTH level was 748. 2 pg / ml (46. 1-5 000. 0
+pg / ml) before surgery, 79. 9 pg / ml(11. 35-838. 0 pg / ml)15 minutes after surgical removal of the lesions(P<0. 05 vs
+preoperative) and 22. 9 pg / ml (2. 3-1 203. 0 pg / ml) on the first postoperative day(P<0. 05 vs preoperative) . Serum
+calcium was(3. 03 ±0. 56) mmol / L before surgery,(2. 25 ±0. 37)mmol / L on the first postoperative day(P<0. 05 vs
+preoperative) and(2. 08 ± 0. 36) mmol / L on the second postoperative day (P<0. 05 vs preoperative) . After the
+operation, 42 cases(53% ) had perioral and limb numbness, 2 cases(3% ) had hoarseness of voice and bucking while
+drinking, 1 case(1% ) had tetany. All these symptoms were improved after calcium supplementation. 67 patients
+(85% ) had been diagnosed as parathyroid adenoma pathologically, 7 patients(9% ) as hyperplasia, 3 patients(4% )
+as cysts, and 2 patients (3% ) as carcinoma. Among 67 cases of adenomas, 62 cases had a single parathyroid
+adenoma, 1 case with multiple parathyroid adenomas, and 4 cases with ectopic parathyroid adenomas. The ectopic
+lesions were located below the thyroid, in the rib cage, left mediastinum, and above the sternum. Conclusions The
+majority of domestic PHPT was symptomatic. Delayed diagnosis of PHPT is still very frequent. The clinical
+presentations of PHPT are variable, determination of serum calcium and PTH level simultaneously is the keypoint for
+early identification and diagnosis of PHPT. The clinician should be familiar with the various clinical manifestations of
+PHPT and thus enhance understanding of pathogenesis of the disease. 99mTc-MIBI scintigraphy remained the first
+choice of preoperative imaging localization of the parathyroid lesions,followed by ultrasound, CT, and MRI. Surgical
+removal of the lesions is effective and safe.
+[Key words]  Primary hyperparathyroidism; Diagnosis; Treatment
+(Chin J Endocrinol Metab, 2015, 31: 300-305)
+甲状旁腺功能亢进症( hyperparathyroidism)可分
+为四大类:原发性、继发性、三发性和假性。 原发性甲
+状 旁 腺 功 能 亢 进 症 ( primary hyperparathyroidism,
+PHPT)是由于甲状旁腺本身病变引起的甲状旁腺激素
+(parathyroid hormone, PTH)合成和分泌过多,导致血
+钙升高进而引发的一系列病理生理改变。 在西方国家
+PHPT 是仅次于糖尿病和甲状腺疾病的第三大内分泌
+疾病,发病率约 0. 3% [1];大大高于我国的发病率
+(2. 5 ~ 3. 0 / 10 万) [2]。 随着国内临床医师对该疾病认
+识的不断深入以及血钙筛查、PTH 检测、影像学检查
+手段的不断完善,发病率有上升趋势。 女性发病率约
+是男性的 2 倍,绝经后女性的发病率增加,诊断年龄多
+集中在 50 ~ 60 岁[1,3,4]。 病理类型有 4 种:腺瘤 ( >
+80% )、增生 (约 12% )、囊肿 (约 3% ) 和腺癌 (约
+1% ),约 6% ~10%的腺瘤为异位腺瘤,可异位于甲状
+腺、胸腺、食管后、心包膜、纵膈等位置[2]。 PHPT 主要
+累及肾脏和骨骼,尚可损害中枢神经系统、消化系统、
+心血管系统、内分泌系统等。 经典的 PHPT 多有特异
+的肾脏和骨骼损害,归类为症状型;另一类患者则缺
+如,属于无症状型。 该病起病隐匿,患者就诊时通常已
+有数年病程,国内误诊情况严重,误诊率高达 40% ~
+86% ,甚至有单中心报道 100% ,误诊时间从几个月到
+十几年不等[5,6]。 临床医师应加深对该疾病临床特
+点、诊断及治疗的认识。 有鉴于此,本文对本院经治疗
+的 89 例 PHPT 患者作一临床分析。
+对象和方法
+一、 对象
+武汉同济医院 1991 年至 2013 年间收治的共 89
+例 PHPT 患者,其中 79 例患者采取手术治疗。
+二、 方法
+收集及分析患者所有临床资料并复习文献。 血钙
+检测采用邻甲酚酞络合酮(OCPC)比色法并以血清白
+蛋白浓度校正值为准,PTH 检测采用电化学发光法。
+三、 统计学处理
+采用 SPSS 17. 0 软件处理数据。 计量资料用 x- ± s
+或中位数(波动范围)表示,分别进行方差分析或 t 检
+验,不满足方差齐性则用非参数检验。 计数资料用例
+数或百分比表示,并用 字2检验或 Fisher 检验。 P<0. 05
+为差异有统计学意义。
+结    果
+一、 人口统计学资料
+89 例患者中男性 29 例,女性 60 例,男女比例约
+1 : 2. 1。 平均年龄(44. 7 ± 15. 8)岁(13 ~ 86 岁),其中
+男性平均年龄(42. 3 ± 20. 2)岁(15 ~ 86 岁),女性平均
+年龄(45. 9 ± 13. 2)岁(13 ~ 77 岁)。 男女各年龄段患
+者分布情况见图 1。
+注:PHPT:原发性甲状旁腺功能亢进症 Primary hyperparathyroidism
+图 1  PHPT 患者男女年龄分布图
+Fig 1  Age distribution of patients with PHPT
+二、 首诊科室及主诉症状
+首诊科室分别为甲状腺外科(47% )、内分泌科
+(30% ),其他相对少见的科室尚有肾脏内科、消化内
+科、中医科、泌尿外科、血液内科、儿科、骨科、肿瘤科、
+神经内科、创伤外科。
+患者主诉症状多变,以“骨关节痛冶最常见(33%),
+表 1  主要实验室检验结果
+Tab 1  The main laboratory test results
+项目
+Item
+例数
+n
+结果
+Results
+参考值范围
+Reference range
+PTH(pg / ml) 88 697. 3(26. 4 ~ 5 000. 0) 15 ~ 65
+血钙 Serum calcium(mmol / L) 88 3. 03 ± 0. 56 2. 15 ~ 2. 55
+血磷 Serum phosphorus(mmol / L) 72 0. 81 ± 0. 38 0. 81 ~ 1. 45
+24 h 尿钙 24 h urine calcium(mmol / 24 h) 36 10. 02 ± 4. 73 2. 50 ~ 8. 00
+24 h 尿磷 24 h urine phosphorus(mmol / 24 h) 36 11. 40 ± 5. 55 12. 90 ~ 42. 00
+维生素 D Vitamin D(ng / ml) 5 8. 40 ± 4. 90 ≥20
+ALP(U / L) 70 147. 5(33. 0 ~ 3 272. 0) 40 ~ 129
+血肌酐 Serum creatinine(μmol / L) 86 59. 7(18. 3 ~ 1 036. 0) 59 ~ 104
+血尿素 Serum urea(mmol / L) 85 4. 4(1. 5 ~ 29. 4)   1. 7 ~ 8. 3
+注:PTH:甲状旁腺激素 Parathyroid hormone;ALP:碱性磷酸酶 Alkaline phosphatase
+其他依次为“乏力冶 (20% )、“颈部包块冶 (19% )、“腰
+背痛冶 ( 17% )、 “骨折冶 ( 17% )、 “发现血钙升高冶
+(16% )、“纳差冶(8% )、“多饮多尿冶(7% )、“外院已诊
+断甲状旁腺功能亢进症冶 (6% )、“恶心呕吐冶 (4% )、
+“上腹痛冶 ( 4% )、 “头痛头晕冶 ( 3% )、 “ 肾结石冶
+(3% )、“心慌冶(2% )。
+三、 既往误诊情况
+误诊为肾结石的患者数最多共 26 例,骨病相关共
+20 例(其中骨折 11 例,代谢性骨病 5 例,骨肿瘤 4
+例),消化性溃疡 4 例,类风湿性关节炎 4 例,胰腺炎 1
+例。
+四、 主要实验室检验结果
+主要实验室检验结果见表 1。 甲状旁腺激素
+(PTH)697. 3 pg / ml(26. 4 ~ 5 000. 0 pg / ml,n = 88),血
+钙(3. 03 ±0. 56)mmol / L(n = 88),大部分患者 PTH 和
+血钙明显高于正常范围。 血磷(0. 81 ± 0. 38)mmol / L
+(n = 72),大部分降低。 24 h 尿钙 (10. 02 ± 4. 73)
+mmol / 24 h (n=36),24 h 尿磷(11. 40 ± 5. 55)mmol / 24
+h(n=36),尿钙排泄多数明显增加,而尿磷排泄无明
+显增加。 维生素 D(8. 4 ±4. 9) ng / ml(n=5),均明显低
+于正常水平。 碱性磷酸酶 147. 5 U / L(33. 0 ~ 3 272. 0
+U / L,n = 70), 血肌酐 59. 7 μmol / L (18. 3 ~ 1 036. 0
+μmol / L,n = 86), 血尿素 4. 4 mmol / L (1. 5 ~ 29. 4
+mmol / L,n=85)。
+五、 影像学检查
+术前采用了不同影像学检查协助定位甲状旁腺病
+灶,包括99m锝-甲氧基异丁基异腈( 99mTc-MIBI)、超声、
+电子计算机断层扫描(CT)、磁共振成像(MRI),各种
+检查方法的敏感性比较见表 2。 其他影像学检查包括
+75 例患者行胸片检查,其中 30 例(40% )提示骨质疏
+松、7 例(9% )提示陈旧性骨折。 16 例患者行双能 X
+线骨密度测定,其中 15 例(94% )报告骨质疏松、1 例
+(6% )提示骨量减少。 12 例患者行单光子发射计算机
+断层成像术(SPECT)骨 γ 显像,其中 11 例(92% )提
+示骨代谢异常增强,考虑甲状旁腺功能亢进症或骨肿
+瘤;1 例(8% )报告正常。 有 70 例患者筛查结石,其中
+42 例(60% )肾结石、16 例(40% )胆结石。 26 例行心
+脏彩超检查,其中 9 例(35% )报告升主动脉近端增宽
+和左室肥大。
+表 2  不同术前影像学检查定位敏感性比较
+Tab 2   The sensitivity of different imaging examinations locating
+parathyroid gland lesions
+检查方法
+Imaging examinations
+总敏感性
+Total sensitivity
+异位病灶敏感性
+Ectopic lesion sensitivity
+99mTc-MIBI 96% (46 / 48) 100% (3 / 3)
+超声 Ultrasound 71% (49 / 69) a 75% (3 / 4)
+CT 71% (25 / 35) a 100% (3 / 3)
+MRI 72% (13 / 18) a 50% (1 / 2)
+注:99m Tc-MIBI:99m 锝-甲氧基异丁基异腈 Technetium-99m methoxy-
+isobutyl-isonitrile;CT:电子计算机断层扫描 Computed tomography;MRI:
+磁共振成像 Magnetic resonance imaging;以手术及病理结果为金标准
+Using the surgical and pathological findings as the gold standard; vs 99mTc-
+MIBI, aP<0. 05
+六、 治疗
+89 例患者中有 10 例患者未行手术治疗,其中 7
+例血钙正常或轻度升高,选择随访观察;2 例血钙重度
+升高,但因经济问题自动出院;1 例广泛颅内转移、多
+器官衰竭而死亡而未行手术治疗。 未手术的患者住院
+期间均采取药物治疗(降钙素、利尿剂、口服双膦酸
+盐、西咪替丁),药物治疗前后 PTH 变化[(1 292. 4 ±
+1 036. 3 对 1 291. 5 ± 1 262. 6 ) pg / ml] 和血钙变化
+[(3. 32±0. 44 对 3. 10±0. 53)mmol / L],差异无统计学
+意义(均 P>0. 05)。
+余 79 例患者采取手术治疗,其中 26 例(33% )行
+双侧颈部探查术、53 例(67% )行甲状旁腺微创术,手
+术成功率 99% 。 病灶成功切除后 PTH 和血钙即开始
+下降,手术患者 PTH 和血钙变化趋势分别如图 2 和图
+3。 病理类型包括 67 例腺瘤[85% ,分别为 62 例单一
+腺瘤、1 例多发腺瘤、4 例异位腺瘤(分别位于甲状腺
+下方、胸骨上方、胸廓、左纵膈)],7 例(9% )增生,3 例
+注:PTH:甲状旁腺激素 Parathyroid hormone;79 例患者术前 PTH
+748. 2 pg / ml(46. 1 ~ 5 000. 0 pg / ml),病灶切除后 15 min PTH79. 9 pg / ml
+(11. 35 ~ 838. 0 pg / ml),术后 1 d PTH 22. 9 pg / ml(2. 3 ~ 1 203. 0 pg / ml)
+79 cases had been treated surgically, the median serum PTH level was 748. 20
+pg / ml (46. 10-5 000. 0 pg / ml) before operation, 79. 90 pg / ml (11. 35 -
+838. 0 pg / ml)15 minutes after surgical removal of the lesions, and 22. 9 pg / ml
+(2. 3-1 203. 0 pg / ml) on the first postoperative day;与术前比较 vs Pre-
+operation,aP<0. 05
+图 2  79 例患者术前和术后 PTH 变化
+Fig 2  Preoperative and postoperative PTH concentration changes
+注:79 例患者术前血钙(3. 03 ±0. 56)mmol / L,术后 1 d 血钙(2. 25 ±
+0. 37)mmol / L,术后 2 d 血钙(2. 08 ± 0. 36) mmol / L Serum calcium was
+(3. 03 ± 0. 56) mmol / L before surgery, (2. 25 ± 0. 37) mmol / L on the first
+postoperative day and(2. 08 ±0. 36) mmol / L on the second postoperative day;
+与术前比较 vs Pre-operation,aP<0. 05
+图 3  79 例患者术前和术后血钙变化
+Fig 3  Preoperative and postoperative serum calcium concentration changes
+(4% )囊肿,2 例(3% )腺癌。 肿块直径 1 ~ 5 cm, 大部
+分 3 cm 左右,不同病理类型的肿块大小无明显差异。
+腺瘤质地软到硬不等,多为中等硬度,边缘清晰,偶可
+见与周围组织粘连和分叶状。 增生的甲状旁腺质地中
+等,边界清晰。 腺癌质实,边界不太清晰,与周围有黏
+连。
+术后 2 例患者(3% )出现声嘶、饮水呛咳,行电子
+喉镜检查提示声带麻痹,对症治疗后好转出院。 42 例
+(53% )诉口周面部和肢端麻木,1 例(1% )出现四肢
+抽搐,予补钙或维生素 D 治疗后均好转。
+讨    论
+PHPT 患者的临床表现异质性明显,易误诊误治。
+本研究中患者主诉及首诊科室均多变,既往误诊率高
+达 62% ,误诊时间 1 个月 ~ 13 年。 被误诊的患者中,
+52%被误诊为肾结石或骨病,肾脏科和骨科医师尤应
+警惕该病,其余少见科室医师也应加深对该疾病的认
+识。
+本研究中 70 例 (79% ) 患者属于症状型,19 例
+(21% )属于无症状型,与上海瑞金医院的报道类似
+(61. 4%属于症状型),但无症状型患者比例有逐年上
+升趋势[7]。 国外与国内截然相反,以无症状型患者为
+主(约占 80% ) [8]。 造成此差异的原因有多方面:首先
+国内多数患者出现明显症状才就诊,此时病程已久;其
+次国内很多基层医院尚未开展 PTH 检测,因而早诊
+断、早治疗难以实现;加之首诊医师不同程度误诊,病
+情未受到适时干预。
+PTH 和血钙的变化正相关但不平行。 该组患者
+亚组分析提示肿瘤(包括腺瘤和腺癌,仅 1 例腺癌患
+者测 PTH 1 276. 0 pg / ml)、增生、囊肿组术前血 PTH 无
+统计学差异(P>0. 05),可能是由于该组患者大部分为
+腺瘤,其余病理类型样本量太小。 发现肿瘤(包括腺
+瘤和腺癌,仅 1 例腺癌患者测血钙 2. 92 mmol / L)导致
+的高钙血症比增生和囊肿都更严重(P<0. 05),而后两
+者血钙水平相当。 血钙浓度受维生素 D 水平调节,本
+研究中有 5 例患者检测维生素 D 水平,均显著低于正
+常值。 上海瑞金医院报道的 PHPT 患者中,维生素 D
+缺乏的患者高达 86. 8% [7]。 曾有流行病学研究提示
+发达国家 30% ~ 50% 的成年人有维生素 D 缺乏[9]。
+推测该组患者合并有严重的维生素 D 缺乏,加重了对
+甲状旁腺的反馈性刺激,进而加剧病情发展,若校正维
+生素 D 水平后血钙浓度可能会更高。 不足之处是该
+组患者维生素 D 水平检测率低(仅 5 例患者),期待未
+来更多的大型流行病学调查研究普通人及 PHPT 患者
+的维生素 D 水平。 该组大部分患者符合高血钙、高尿
+钙、低血磷的临床特点,但高尿磷不明显,可能是大部
+分患者病情较重,肾小球滤过率不同程度受损所致。
+印度有文献报道 PHPT 患者肾结石和胆结石发病
+率明显高于正常人,45. 4% 的 PHPT 患者有肾结石,
+25. 8%的患者有胆结石,大大高于普通人群[10]。 与本
+研究中患者类似,因此建议所有确诊患者常规筛查肾
+结石和胆结石[11]。 此外,实验室检查和影像学检查均
+提示患者骨骼病损严重,推荐所有确诊患者行双能 X
+线骨密度仪测定骨密度以评估病情及协助制定治疗方
+案。
+术前甲状旁腺病灶影像学定位方法有99mTc-MIBI、
+超声、CT 和 MRI,国外尚有四维 CT,不同影像学检查
+有各自的优缺点,应综合评估后选择。 应注意影像学
+检查并不是诊断和手术指征依据,多用于术前协助术
+式选择。 国内最常用的影像学检查是99mTc-MIBI 和超
+声。 Cheung 等[12]对 19 个关于99mTc-MIBI 和超声检查
+的独立研究数据进行 meta 分析,结果表明99mTc-MIBI
+的敏感性和阳性预测值(78. 9% 和 90. 7% )与超声相
+似(76. 1% 和 93. 2% )。 一项含 516 例患者的回顾性
+数据分析发现影像科医师的专业水平对超声准确率的
+影响大于99mTc-MIBI,如果由经验丰富的外科医师操作
+超声检查,则超声的敏感性将高于99mTc-MIBI,此时第
+一次行甲状旁腺手术的患者首选超声检查,而99m Tc-
+MIBI 作为备选[13]。 比较两者的优缺点,99mTc-MIBI 的
+优点是敏感性较高,而且对异位病灶有独特诊断价值,
+其异位病灶诊断敏感性(89% )明显高于超声(59% ),
+尤其对胸腺、纵膈、食管后的异位病灶敏感性最高[14];
+但缺点是对多发性和弥漫性病变敏感性较低,而且价
+格较贵。 相比较超声的优点是敏感性也较高,价格更
+便宜,对合并甲状腺病变尤其恶性病变的患者有特殊
+价值[15];缺点则是合并甲状腺疾病时其敏感性大大下
+降,此时常只报告甲状腺疾病而漏报甲状旁腺病灶,准
+确性受超声医师的经验水平影响也较大。 本研究
+99mTc-MIBI 的敏感性最高(96% ) (P<0. 05),而超声
+(71% )、CT(71% )和 MRI(72% )的敏感性相当(P>
+0. 05),异位病灶敏感性四者差异无统计学意义(P>
+0. 05),和上文提及文献报告有所不同,可能是由于超
+声检查易受超声科医生专业水平影响,同时该组患者
+的样本量也较小。 临床上 CT、MRI、四维 CT 仅用于一
+些特殊情况的检查,如99mTc-MIBI 和超声检查均提示
+阴性却高度怀疑该病时。
+目前尚未证实药物治疗 PHPT 的安全性和有效
+性,仅用于无手术适应症、有手术禁忌症或拒绝手术治
+疗的患者;也用于术前紧急处理严重高钙血症。 国内
+常用的药物是口服双膦酸盐和降钙素,前者常用于防
+治 PHPT 患者的骨质疏松,降钙素则主要用于紧急降
+低高钙血症。 本研究中采用药物治疗的患者血钙和
+PTH 变化不大(P>0. 05),可能是由于应用降钙素出现
+“脱≥冶现象,即应用早期血钙明显下降,此后血钙又
+恢复至治疗前[16]。
+手术仍是主要的治疗手段,成功率多在 95% 以
+上。 症状型患者尤其女性患者如无手术禁忌症均推荐
+首选手术治疗,手术可使血生化指标正常化,增加骨密
+度,减少肾结石再发,改善心血管异常,尤其是颈动脉
+硬化,但术后高血压常不可逆转,还可显著改善患者中
+常见的抑郁症状;未手术的症状型患者应定期随访,每
+年监测 2 次血钙、1 次尿钙和 1 次骨密度[17-20]。
+术前正确影像学定位是术式选择的关键,术中快
+速血 PTH 检测和核素扫描可作为辅助手段。 腺瘤切
+除后 10 min PTH 与术前最高值相比较下降不低于
+50%则提示功能亢进的甲状旁腺组织已被切除[21]。
+手术方式主要有传统开放性手术、双侧颈部探查
+术和微创甲状旁腺切除术,开放式手术已少用。 与双
+侧颈部探查术相比,首选微创甲状旁腺切除术,可提高
+治愈率及降低术后并发症发生率,同时缩短住院时间
+及降低住院费[22]。 但对于难治性、三发性、复发性甲
+状旁腺功能亢进及有甲状旁腺增生的患者,有必要探
+查 4 个甲状旁腺[23]。 本研究中仅 1 例甲状旁腺增生
+的患者因切除范围不够导致再次手术,余手术效果均
+满意,手术成功率 99% 。
+术后常见的并发症有喉返神经损伤、低钙血症等。
+术中应严格把握扩大探查范围指征,注意辨认精细解
+剖结构及轻柔操作,仔细排查喉返神经血肿压迫及牵
+拉等情况。 术后密切监测血钙变化,关注患者口周、肢
+端麻木及抽搐症状,及时补钙,必要时加用维生素 D
+甚至静脉用药。 若术后 1 周甚至更长时间复测血 PTH
+和血钙仍居高不下,应注意评估手术是否失败。 本研
+究中有 2 例患者术后血钙不低,但诉口周及肢端麻木,
+排查病因发现患者均有低镁血症。 术后有 32 例患者
+(41% )出现低镁血症,因此当出现低钙症状表现但血
+钙不低时应警惕低镁血症。
+综上所述,PHPT 以围绝经期女性多发,国内目前
+仍以症状型患者为主。 患者主诉症状多变,易误诊误
+治,误诊率仍很高。 相关首诊科室医师加深对该疾病
+发病机制、临床特点的认识,同时注意联合血钙、PTH
+检测是降低误诊率的关键。 术前影像学定位首选
+99mTc-MIBI,其次是超声,当高度怀疑该病但上述检查
+均阴性时可行 MRI 或 CT 检查,有条件也可选用四维
+CT。 手术是首选的有效治疗手段,术前正确的影像学
+定位是术式选择的关键。 未行手术治疗的患者应积极
+药物干预及密切随访。

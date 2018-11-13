@@ -1,0 +1,229 @@
+基础研究
+基金项目:国家自然科学青年基金项目(30900694);教育部留学服务中心回国基金项目(JYBHG201005)
+华、汪道文、蒋建刚),风湿免疫科(沈桂芬)
+肌肉生长抑制素前肽基因转染对 C2C12 成肌
+细胞糖代谢的影响
+张莎莎  孟杰杰  沈桂芬  汪培华  汪道文  蒋建刚
+[摘要]   目的  探讨肌肉生长抑制素前肽(myostatin propeptide, MPRO)对 C2C12 成肌细胞葡萄糖摄
+取、氧化及糖原合成的影响及其作用机制。 方法 诱导成熟的 C2C12 成肌细胞分为对照组、胰岛素组、绿
+色荧光蛋白(GFP)组、胰岛素+GFP 组、MPRO 组及胰岛素+MPRO 组,经相应处理后应用 2-脱氧-右旋-
+[1-14C]葡萄糖检测 MPRO 对 C2C12 细胞葡萄糖摄取、氧化及糖原合成的影响,应用 Western 印迹法检测胰
+岛素信号通路活性。 结果 与对照组相比,胰岛素组及胰岛素+GFP 组葡萄糖摄取及糖原合成量明显增加
+(P<0. 05);胰岛素+MPRO 组 C2C12 细胞葡萄糖摄取量及糖原合成较胰岛素组显著增加(P<0. 05);但
+MPRO 及胰岛素对葡萄糖的氧化无明显影响(P>0. 05)。 Western 印迹结果显示,与对照组相比,胰岛素组
+及胰岛素+GFP 组胰岛素信号通路中的信号分子胰岛素受体 β(IRβ)、胰岛素受体底物 1(IRS-1)、蛋白激酶
+B(Akt)、糖原合成酶激酶 3β(GSK-3β)磷酸化水平及磷脂酰肌醇 3 激酶(PI3K)、细胞膜葡萄糖转运体 4
+(Glut4)的表达显著增高(P<0. 05),转染 MPRO 后上述基因的蛋白磷酸化和表达水平升高更显著(P<
+0. 05)。结论 MPRO 在 C2C12 可能通过激活 IRS-1 / PI3K / Akt 信号通路增加胰岛素刺激的葡萄糖摄取及糖
+原合成。
+[关键词]   肌肉生长抑制素前肽; 肌肉生长抑制素; C2C12 细胞; 胰岛素
+Effects of myostatin propeptide gene tranfection on glucose metabolism in cultured C2C12 cells Zhang
+Shasha, Meng Jiejie, Shen Guifen, Wang Peihua, Wang Daowen, Jiang Jiangang. Department of Internal Medicine
+and Gene Therapy Center, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology,
+Wuhan 430030, China
+[Abstract]  Objective  To investigate the effects of recombinant adeno-associated virus-mediated myostatin
+propeptide (MPRO) on uptake and oxidation of glucose, and glycogen synthesis in C2C12 myotubes, as well as the
+associated molecular mechanism. Methods Mature C2C12 myotubes were assigned to the following 6 groups:
+control, insulin, green fluorescent protein ( GFP), insulin + GFP, MPRO, and insulin + MPRO groups. Glucose
+uptake, glucose oxidation, and glycogen synthesis were detected by counting radioactivity of 14CO2 or 14C labeled
+glycogen derived from 2-deoxy-[1-14 C] glucose. The activity of insulin signal pathway was evaluated by Western
+blot. Results Compared with control group, glucose uptake and glycogen synthesis were significantly increased in
+insulin and insulin+GFP groups, and further increased in insulin+MPRO group as compared with insulin alone(all P<
+0. 05) . However, MPRO and insulin had no effect on glucose oxidation. The phosphorylations of insulin receptor
+( IR)β, insulin receptor substrate 1(IRS-1), protein kinase B(Akt), glycogen synthase kinase-3β(GSK-3β), and
+the expressions of phosphatidylinositol 3-kinase ( PI3K) and glucose transporter 4 ( Glut4 ) in membrane were
+significantly increased in insulin and insulin+GFP groups compared with control group(all P<0. 05), and were further
+increased after MPRO transfection ( all P < 0. 05) . Conclusion MPRO may increase insulin-stimulated glucose
+uptake and glycogen synthesis in C2C12 cells by activating the IRS / PI3K / Akt signal pathway.
+[Key words]  Myostatin propeptide; Myostatin; C2C12 cells; Insulin
+(Chin J Endocrinol Metab, 2014, 30: 228-232)
+肌肉生长抑制素(myostatin,MSTN),又称生长分
+化因子-8(GDF-8),属于转化生长因子-β(TGF-β)超
+家族的新成员,对骨骼肌的生长发育具有负性调控作
+用[1]。 而肌肉生长抑制素前肽(myostatin propeptide,
+MPRO)可以与 myostatin 结合并抑制其生物学活性。
+有研究表明,将 MPRO 基因导入肥胖或糖尿病模型的
+小鼠体内不仅可以增加其骨骼肌肌肉的质量,还能减
+少其体内的脂肪蓄积,改善胰岛素抵抗[2]。 由此可
+见,MPRO 在调节体内葡萄糖的代谢及胰岛素的稳态
+方面发挥重要作用,但其具体的分子机制尚不清楚。
+为了明确 MPRO 在调节糖代谢和胰岛素稳态中的作
+用及其分子机制,本研究构建并包装重组腺相关病毒
+(rAAV)-MPRO,采用同位素、Western 印迹等方法探讨
+MPRO 基因在胰岛素干预下对 C2C12 细胞葡萄糖摄
+取、氧化及糖原合成的作用及其分子机制。
+材料和方法
+一、 材料
+293 细胞及小鼠成肌细胞系 C2C12 购自美国
+ATCC,真核表达载体 pXXUF1 和含绿色荧光蛋白
+(GFP)的表达载体质粒 pAAV(D+)、重组腺相关病毒
+(rAAV)包装质粒 pXX8 及腺病毒辅助质粒 phelper 均
+由美国 Xiao Xiao 博士惠赠。 病毒包装所需的 HEPES、
+CaCl2、Na2HPO4 均购自美国 Sigma 公司,DMEM 培养
+基、胰酶及胎牛血清(FBS)均购自美国 GIBCO 公司,
+胰岛素受体底物 1(IRS-1)、磷酸化 IRS-1、葡萄糖转运
+体 4(Glut4)、胰岛素受体 β(IRβ)、磷酸化 IRβ 及 β-肌
+动蛋白(β-actin)抗体购自美国 Santa Cruz 公司,蛋白
+激酶 B(Akt)、磷酸化 Akt、糖原合成酶激酶 3β(GSK-
+3β)、磷酸化 GSK-3β 及磷脂酰肌醇 3 激酶(PI3K)110
+亚基(p110)抗体购自美国 Cell Signaling Technology 公
+司,2-脱氧-右旋-[1-14C]葡萄糖购自中国同位素公司,
+闪烁液购自美国 PerkinElmer 公司,液闪计数仪购自美
+国 Beckman 公司,Western 印迹显影所用增强化学发
+光试剂(ECL)购买自美国 Pierce 公司,聚偏二氟乙烯
+膜(PVDF)膜购自德国 Dassel 公司。
+二、 方法
+1. 包装并检测 rAAV-MPRO 及 rAAV-GFP 病毒:
+三质粒钙磷共转染法包装携带有 MPRO 基因的 rAAV-
+MPRO 病毒及作为对照的 rAAV-GFP 病毒,纯化后测
+定病毒滴度约为 1×1011 pfu / ml,该滴度足够用于下一
+步实验。
+2. C2C12 细胞的培养、诱导及分组:C2C12 细胞
+接种于含 10%胎牛血清(FBS)的高糖 DMEM 培养基
+中,于 37℃含 5% CO2 的细胞培养箱中培养。 在对数
+生长期消化细胞并接种于培养板,待其达 80% 汇合
+后,将生长培养基更换为含 2%马血清的分化培养基,
+隔日换液,待分化为肌管细胞后加以干预。 实验分组
+如下:对照组、胰岛素组、GFP 组、胰岛素 +GFP 组、
+MPRO 组及胰岛素+MPRO 组。
+3. 液闪计数仪检测 MPRO 基因对葡萄糖摄取、糖
+原合成的影响:C2C12 细胞诱导分化后,按实验分组给
+予 rAAV-GFP、rAAV-MPRO 培养 48h,更换为无血清培
+养基培养 5h 后加入 0. 5 滋Ci / ml 2-脱氧-D-[1-14C]葡
+萄糖 37℃ 孵育 2 h,100 nmol / L 胰岛素 37℃ 孵育 10
+min。 实验结束后,用 1 ×PBS 清洗 2 次,加入 200 滋l
+0. 1 mol / L NaOH 裂解细胞 2 h,液闪计数仪测定细胞裂
+解液的 cpm,BCA 方法测定蛋白浓度,计算每分钟每毫
+克蛋白的葡萄糖摄入量。 检测其对糖原合成的影响
+时,按上述方法干预并裂解细胞,加无水乙醇过夜,沉
+淀用水稀释后于液闪计数仪进行测定。
+4. 液闪计数仪检测 MPRO 基因对葡萄糖氧化的
+影响:按实验分组给予 rAAV-GFP、rAAV-MPRO 培养
+48 h, 100 nmol / L 胰 岛 素 37℃ 孵 育 10 min, 盖 上
+whatman 滤纸并用封口膜将口密封,待实验结束后将
+whatman 滤纸浸泡于苯乙胺:甲醇(1 : 1)溶液,室温孵
+育 2 h,加入 200 滋l 4 mol / L H2SO4,于 37℃孵育 1 h,液
+闪计数仪进行测定。
+5. Western 印迹法检测 IRS-1、 IRβ、 PI3K、 Akt、
+Glut4、GSK-3β 的蛋白表达:根据实验分组干预细胞,
+经 RIPA 细胞裂解液于 4℃ 裂解 30 min,刮取细胞于
+4℃ 12 000 ´g 离心 30 min 弃沉淀。 BCA 方法测定蛋
+白浓度,等量蛋白样品经 10% SDS-PAGE 垂直电泳分
+离后,转膜,室温 床上封闭液(含 5% 脱脂奶粉的
+TBS-T)封闭 3 h,加入对应一抗 4℃孵育过夜,TBST 洗
+膜 1 h 后,加入相应辣根过氧化物酶(HRP)耦联的 IgG
+抗体室温 床孵育 2. 5 h,ECL 增强化学发光试剂显影
+曝光。
+三、 统计学处理
+实验数据以 x- ± s 来表示,应用 SPSS 17. 0 统计软
+件进行统计学处理,2 组间比较采用 t 检验,多组间比
+较采用单因素方差分析,以 P<0. 05 为差别有显著统
+计学意义。
+结    果
+一、 MPRO 蛋白表达的检测
+Western 印迹结果显示,MPRO 主要在 MPRO 组表
+达,而在对照组和 GFP 组基本没有表达(图 1),表明
+MPRO 转染 C2C12 细胞成功并可稳定表达。
+二、 rAAV-MPRO 转染 C2C12 细胞后对葡萄糖摄
+注:MPRO:肌肉生长抑制素前肽 Myostatin propeptide;GFP:绿色荧
+光蛋白 Green fluorescent protein; β-actin: β-肌动蛋白; CON: 对照组
+Control group
+图 1  MPRO 在 C2C12 细胞中的过表达
+Fig 1  Overexpression of myostatin propeptide in C2C12 cells
+取、糖原合成的影响
+与对照组相比, 胰岛素组及胰岛素 + GFP 组
+C2C12 细胞对葡萄糖的摄取及糖原合成量显著增加
+(P< 0. 05),但此 2 组之间比较未见明显差异 (P >
+0. 05);而胰岛素+MPRO 组 C2C12 细胞的葡萄糖摄取
+及糖原合成较胰岛素组显著增加 (P < 0. 05),表明
+MPRO 可以增加胰岛素刺激下骨骼肌细胞对葡萄糖的
+注:Ins:胰岛素 Insulin;余略语同图 1 The other abbreviations are the
+same as Fig1; 与 CON 组比较 vs CON group,aP<0. 05;与 Ins 组比较 vs Ins
+group,bP<0. 05
+图 2  MPRO 基因对 C2C12 细胞葡萄糖摄取、糖原合成及葡萄糖氧化的
+影响
+Fig 2  Effects of MPRO on glucose uptake, glycogen synthesis, and glucose
+oxidation in C2C12 cells
+摄取及糖原合成(图 2A、B)。
+三、 rAAV-MPRO 转染 C2C12 细胞后对葡萄糖氧
+化的影响
+胰岛素组及胰岛素+GFP 组的葡萄糖氧化水平较
+对照组有一定程度的升高,但其差异无统计学意义
+(P>0. 05);同样,胰岛素+MPRO 组 C2C12 细胞对葡
+萄糖的氧化较胰岛素组无明显统计学差异(P>0. 05),
+表明 rAAV-MPRO 转染对 C2C12 细胞的葡萄糖氧化没
+有明显影响(图 2C)。
+四、 rAAV-MPRO 转染影响 C2C12 细胞糖代谢的
+作用机制
+与对照组相比, 胰岛素组及胰岛素 + GFP 组
+C2C12 细胞胰岛素信号通路的信号分子 IRβ、IRS-1、
+Akt、GSK-3β 磷酸化水平及 PI3K 的表达明显增加,
+Glut4 在细胞膜的分布水平亦增多(P<0. 05);胰岛素+
+MPRO 组 C2C12 细胞的 IRβ、IRS-1、Akt、GSK-3β 磷酸
+化水平及 PI3K 的表达较胰岛素组显著增高,且 Glut4
+在细胞膜的分布也较胰岛素组明显增多(P<0. 05,图
+3)。
+讨    论
+糖尿病是世界上最常见的代谢性疾病,其患病率
+呈逐年上升趋势。 预计到 2025 年患糖尿病的人数可
+达 3. 3 亿,到 2030 年该人数可能高达 3. 66 亿[3]。 2
+型糖尿病是以胰岛素抵抗为主,并伴有葡萄糖、蛋白质
+及脂肪等代谢紊乱的综合征。 目前主要通过控制饮食
+和口服降糖药对 2 型糖尿病进行治疗,而基因治疗有
+可能成为有效治疗并控制糖尿病的新方法。
+Myostatin 是骨骼肌生长发育的负性调控因子,主
+要在骨骼肌中特异性表达,但在心肌、脂肪等组织中也
+有低水平的表达[4,5]。 有研究指出 myostatin 基因特异
+性过表达可以使机体脂肪蓄积增多,而该基因的突变
+或缺失可以使脂肪组织蓄积明显减少[6-8]。 在体内,
+myostatin 与 MPRO 结合后活性下降。 Wolfman 等[9] 报
+道在 MPRO 氨基端融合小鼠 IgG 的 Fc 段可以延长其
+在体内的半寿期。 不仅如此,将 MPRO 基因 BMP / TLD
+的识别位点进行定点突变也可以延长其在循环中的作
+用时间。 国外有研究报道证实,将 MPRO 基因转入小
+鼠体内使其在骨骼肌中特异性表达,不仅可以增加小
+鼠骨骼肌的肌肉量,增加肌纤维的横截面积[10,11],还
+可以预防高脂饮食诱导的肥胖及胰岛素抵抗的发
+生[2],但其对糖代谢的影响及其分子机制并不明确。
+本研究利用上述方法改造修饰 MPRO 基因,通过对 2-
+脱氧-右旋-[ 1-14 C] 葡 萄糖及14 CO2 的检测可证实
+MPRO 可以增加胰岛素刺激情况下骨骼肌细胞对葡萄
+注:IRS-1:胰岛素受体底物 1 Insulin receptor substrate 1; p-IRS-1:磷酸化的 IRS-1 Phosphorylated IRS-1;IRβ:胰岛素受体 β Insulin receptor β;p-IRβ:
+磷酸化的 IRβ Phosphorylated IRβ;PI3K:磷脂酰肌醇 3 激酶 Phosphatidylinositol 3-kinase;Akt:蛋白激酶 B Protein kinase B; p-Akt:磷酸化的 Akt
+Phosphorylated Akt;GSK-3β:糖原合成酶激酶3β Glycogen synthase kinase-3β;p-GSK-3β:磷酸化的 GSK-3β Phosphorylated GSK-3β;Glut4:葡萄糖转运体4
+Glucose transporter 4;PM:细胞膜 Plasma membrane;Cytosol:胞液;余略语同图1 和图 2 The other abbreviations are the same as Fig 1 and Fig 2;与 CON 组比较
+vs CON group,aP<0. 05;与胰岛素组比较 vs Insulin group,bP<0. 05
+图 3  MPRO 对 IRβ、IRS-1、Akt、GSK-3β 磷酸化表达及 PI3K 和 Glut4 表达的影响
+Fig 3  Effects of MPRO on the phosphorylations of IRβ,IRS-1,Akt,GSK-3β, and the expressions of PI3K and Glut4 in C2C12
+糖的摄取,并能促进糖原的合成,这一结果表明 MPRO
+有助于降低细胞外基质中葡萄糖水平。 此外,本研究
+结果表明 MPRO 对胰岛素刺激下的 CO2生成量并无明
+显影响,即对葡萄糖氧化没有影响。
+众所周知,PI3K 信号通路是与葡萄糖转运相关的
+经典途径,即 PI3K 与 IRS-1 结合后激活,随后使 Akt
+的丝氨酸残基磷酸化,导致 Glut4 从胞内向胞膜转位,
+最终促进葡萄糖的转运[12]。 不仅如此,活化的 Akt 可
+与 GSK-3 结合并使之失活, 从而使糖原合成酶活性增
+加,最终促进糖原的合成[12]。 此外,有研究证实,激活
+PI3K 可以增加细胞膜上 Glut4 水平,从而改善糖尿病
+大鼠的胰岛素抵抗情况[13];抑制 GSK-3 的活性可以促
+进葡萄糖转化为糖原,从而降低血糖水平[14]。 而本实
+验 Western 印迹结果显示在胰岛素干预下 MPRO 可以
+激活 IRS-1 / PI3K / Akt 信号通路,从而增加细胞膜上
+Glut4 的分布及抑制 GSK-3β 活性,提示 MPRO 可以通
+过激活该信号通路,从而增加胰岛素干预下 C2C12 细
+胞对葡萄糖的摄取并促进糖原的合成,最终降低细胞
+外基质中的葡萄糖水平。 虽然理论上 MPRO 可以通
+过激活 PI3K / Akt 信号通路从而增加细胞内葡萄糖的
+氧化,但由于葡萄糖氧化尚有其他途径共同参与调节
+(如通过感知细胞内 AMP / ATP 水平进而经 AMP 活化
+的蛋白激酶信号通路对葡萄糖代谢加以调节,PPAR
+家族对糖脂代谢关键酶的调节) [15,16],故 MPRO 对肌
+细胞的葡萄糖氧化没有明显影响。
+综上所述,MPRO 可能通过增加胰岛素刺激下
+C2C12 细胞对葡萄糖的摄取,促进糖原的合成,从而降
+低细胞外基质中葡萄糖水平并改善其对胰岛素的敏感
+性,其机制可能是通过激活 IRS-1 / PI3K / Akt 通路从而
+增加 Glut4 在细胞膜上的分布及抑制 GSK-3β 活性实
+现的,MPRO 基因为治疗 2 型糖尿病提供一个崭新的
+研究思路。

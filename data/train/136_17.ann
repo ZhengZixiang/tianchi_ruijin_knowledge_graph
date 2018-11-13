@@ -1,0 +1,200 @@
+T1	Test 5780 5785	甲状腺功能
+T2	Test 4001 4004	TSH
+T3	Test 7928 7931	TSH
+T4	Test 231 234	FT4
+T5	Test 385 388	FT4
+T6	Test 473 476	FT4
+T7	Test 1849 1852	FT4
+T8	Test 2851 2854	FT4
+T9	Test 3465 3468	FT4
+T10	Test 3566 3569	FT4
+T11	Test 4642 4645	FT4
+T12	Test 4670 4673	FT4
+T13	Test 4725 4728	FT4
+T14	Test 4751 4754	FT4
+T15	Test 4868 4871	FT4
+T16	Test 4907 4910	FT4
+T17	Test 4929 4932	FT4
+T18	Test 4963 4966	FT4
+T19	Test 5520 5523	FT4
+T20	Test 5557 5560	FT4
+T21	Test 5638 5641	FT4
+T22	Test 5665 5668	FT4
+T23	Test 7914 7917	FT4
+T24	Disease 2454 2456	GD
+T25	Test 399 401	体重
+T26	Test 535 537	体重
+T27	Test 2527 2529	体重
+T28	Test 3666 3668	体重
+T29	Test 5230 5232	体重
+T30	Test 5254 5256	体重
+T31	Test 5316 5318	体重
+T32	Test 6173 6175	体重
+T33	Test 6185 6187	体重
+T34	Test 6461 6463	体重
+T35	Test 7979 7981	体重
+T36	Test 227 230	TT4
+T37	Test 381 384	TT4
+T38	Test 469 472	TT4
+T39	Test 1841 1844	TT4
+T40	Test 2840 2843	TT4
+T41	Test 3461 3464	TT4
+T42	Test 4664 4667	TT4
+T43	Test 4746 4749	TT4
+T44	Test 4863 4866	TT4
+T45	Test 4902 4905	TT4
+T46	Test 4957 4960	TT4
+T47	Test 5514 5517	TT4
+T48	Test 5549 5552	TT4
+T49	Test 5634 5637	TT4
+T50	Test 5657 5660	TT4
+T51	Test 5956 5959	TT4
+T52	Disease 209 217	Graves 病
+T53	Test 235 244	促甲状腺素受体抗体
+T54	Test 245 249	TRAb
+T55	Anatomy 328 332	股四头肌
+T56	Test 376 380	TRAb
+T57	Test 402 404	心率
+T58	Anatomy 425 428	甲状腺
+T59	Test_Value 456 460	显著升高
+T60	Test_Value 537 541	明显下降
+T61	Test 542 544	心率
+T62	Test_Value 544 548	明显增快
+T63	Disease 597 605	Graves 病
+T64	Disease 615 623	Graves 病
+T65	Disease 2214 2222	Graves 病
+T66	Disease 2278 2286	Graves 病
+T67	Test 2782 2791	促甲状腺素受体抗体
+T68	Test 2792 2796	TRAb
+T69	Test 2845 2850	游离 T4
+T70	Test 2834 2838	总 T4
+T71	Test 3440 3447;3448 3451	促甲状腺激素受 体抗体
+T72	Test 3452 3456	TRAb
+T73	Anatomy 3390 3394	股四头肌
+T74	Disease 3599 3606	甲状腺功能亢进
+T75	Disease 3607 3609	甲亢
+T76	Test 3669 3671	心率
+T77	Test_Value 4474 4496	(0. 18 ± 0. 16) IU / L
+T78	Test_Value 4499 4521	(1. 58 ± 1. 12) IU / L
+T79	Test_Value 4762 4783	2. 68 ~ 5. 72 μg / dl
+T80	Test_Value 4786 4809	6. 65 ~ 12. 21 pmol / L
+T81	Test_Value 4975 4984;4985 4999	(8 . 98 ± 1. 50) μg / dl
+T82	Test_Value 5001 5026	(15. 20 ± 1. 38) pmol / L
+T83	Anatomy 5113 5114;5115 5121	甲 状腺滤泡细胞
+T84	Anatomy 5158 5163	甲状腺滤泡
+T85	Anatomy 5135 5137	滤泡
+T86	Anatomy 5180 5184	淋巴细胞
+T87	Anatomy 5207 5210	甲状腺
+T88	Anatomy 510 514	淋巴细胞
+T89	Test_Value 5259 5276	(3. 91 ± 0. 15)kg
+T90	Test_Value 5283 5298	(3. 95 ±0. 3)kg
+T91	Test_Value 5320 5336	(3. 95 ±0. 05)kg
+T92	Test_Value 5340 5356	(3. 62 ± 0. 2)kg
+T93	Test 5383 5387	静息心率
+T94	Test_Value 5388 5398;5399 5406	(255 ± 14) 次 / min
+T95	Test_Value 5413 5429	(188 ±16)次 / min
+T96	Disease 6727 6735	Graves 病
+T97	Test 6625 6629	中和抗体
+T98	Test_Value 6631 6633	阴性
+T99	Disease 6871 6879	Graves 病
+T100	Disease 6955 6961;6962 6963	Graves 病
+T101	Anatomy 6912 6918	成纤维母细胞
+T102	Anatomy 6891 6895;6896 6900	TSHR cDNA
+T103	Disease 6987 6995	Graves 病
+T104	Method 7051 7054;7055 7056	肌肉注 射
+T105	Anatomy 7059 7063	TSHR
+T106	Disease 7137 7139	甲亢
+T107	Disease 7221 7229	Graves 病
+T108	Test 7271 7275	TRAb
+T109	Disease 7281 7283	甲亢
+T110	Test 7339 7344	TSBAb
+T111	Disease 7386 7394	Graves 病
+T112	Disease 7476 7484	Graves 病
+T113	Disease 7506 7514	Graves 病
+T114	Disease 7538 7546	Graves 病
+T115	Disease 7681 7686	多发性硬化
+T116	Disease 7687 7690	糖尿病
+T117	Disease 7691 7695	器官移植
+T118	Disease 7706 7709	登革热
+T119	Disease 7697 7700	HIV
+T120	Disease 7710 7712	疟疾
+T121	Disease 7769 7777	Graves 病
+T122	Disease 7779 7787	Graves 病
+T123	Test 7800 7804	TRAb
+T124	Test_Value 7805 7807	阳性
+T125	Test 7812 7819	血清甲状腺激素
+T126	Test_Value 7821 7823	升高
+T127	Symptom 7824 7829	甲状腺肿大
+T128	Symptom 7834 7838	体重减轻
+T129	Disease 7249 7257	Graves 病
+T130	Test_Value 7276 7280	显著升高
+T131	Anatomy 6805 6809	TSHR
+T132	Anatomy 6747 6749;6750 6760	可溶 性 TSHR 抗原肽
+T133	Test 7889 7893	TRAb
+T134	Test_Value 7896 7900	显著升高
+T135	Disease 8022 8030	Graves 病
+T136	Disease 8038 8046	Graves 病
+T137	Disease 69 77	Graves 病
+T138	Test_Value 476 480	明显升高
+T139	Test 3972 3976	TRAb
+T140	Test_Value 4395 4408	>0. 06 IU / L
+T141	Test_Value 4420 4421;4422 4428	> 36. 6%
+T142	Anatomy 5143 5146	滤泡腔
+T143	Anatomy 172 184	TSH 受体 A 亚单位
+T144	Method 333 334;335 338	肌 肉注射
+T145	Test 481 490	甲状腺组织病理切片
+T146	Anatomy 499 502	甲状腺
+T147	Anatomy 558 570	TSH 受体 A 亚单位
+T148	Anatomy 2421 2429;2430 2433	TSH 受体 A 亚单位
+T149	Anatomy 3615 3617;3618 3619	甲状 腺
+T150	Test_Value 4544 4555	(48 ±8. 1)%
+T151	Test_Value 4556 4572	(63. 2 ± 14. 2)%
+T152	Test_Value 4605 4609	明显升高
+T153	Disease 4659 4661	甲亢
+T154	Disease 4821 4822;4823 4824	甲 亢
+T155	Test_Value 4872 4874	升高
+T156	Disease 4952 4954	甲亢
+T157	Anatomy 5055 5058	甲状腺
+T158	Anatomy 5073 5080	甲状腺上皮细胞
+T159	Disease 5109 5111	甲亢
+T160	Anatomy 5091 5093	滤泡
+T161	Anatomy 5174 5177	滤泡腔
+T162	Disease 5310 5312	甲亢
+T163	Disease 5379 5381	甲亢
+T164	Test 6565 6572	腺病毒中和抗体
+T165	Test_Value 6653 6660	上升至 800
+T166	Method 6931 6935	腹腔注射
+T167	Disease 7088 7090	甲亢
+T168	Anatomy 7116 7126	TSHR A 亚单位
+T169	Anatomy 7163 7173	TSHR A 亚单位
+T170	Anatomy 7432 7440;7441 7443	TSHR A 亚 单位
+T171	Anatomy 7744 7755;7756 7757	TSH 受体 A 亚单 位
+T172	Anatomy 7996 8004;8005 8008	TSH 受体 A 亚单位
+T173	Anatomy 7957 7960	甲状腺
+T174	Test_Value 7981 7985	明显下降
+T175	Test_Value 7918 7921;7922 7923	明显升 高
+T176	Test_Value 7935 7937	下降
+T177	Disease 526 533	甲状腺功能亢进
+T178	Anatomy 7852 7864	TSH 受体 A 亚单位
+T179	Test 3561 3564	TT4
+T180	Test 4633 4639	血清 TT4
+T181	Test 4716 4722	血清 TT4
+T182	Test 4921 4927	血清 TT4
+T183	Test 7907 7913	血清 TT4
+T184	Anatomy 253 256	甲状腺
+T185	Test 449 453	TRAb
+T186	Anatomy 3487 3490	甲状腺
+T187	Test 3510 3520	血清 TRAb 滴度
+T188	Test 3821 3831	血清 TRAb 滴度
+T189	Test 3834 3844	血清 TRAb 滴度
+T190	Test 4464 4471	TRAb 滴度
+T191	Test 4533 4540	TRAb 滴度
+T192	Test 4598 4605	TRAb 滴度
+T193	Test 6584 6591	腺病毒中和抗体
+T194	Test 6673 6679	中和抗体滴度
+T195	Test 6647 6653	中和抗体滴度
+T196	Test 7232 7234;7235 7242	血清 TRAb 滴度
+T197	Test 7292 7295;7296 7299	剌激阻 断抗体
+T198	Anatomy 6774 6776;6777 6778	甲状 腺
+T199	Test 6826 6835	TSHR 抗体滴度
+T200	Anatomy 7939 7942	甲状腺

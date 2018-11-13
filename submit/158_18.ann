@@ -1,0 +1,383 @@
+T1	Disease 93 98	高尿酸血症
+T2	Disease 99 101	癌症
+T3	Disease 117 122	高尿酸血症
+T4	Test 127 129	尿酸
+T5	Symptom 146 148	无尿
+T6	Disease 149 152	尿毒症
+T7	Disease 171 176	高尿酸血症
+T8	Disease 177 179	癌症
+T9	Test 203 205	尿酸
+T10	Reason 209 215	慢性炎症反应
+T11	Test 216 228	肿瘤细胞黄嘌呤氧化还原酶
+T12	Disease 238 243	高尿酸血症
+T13	Test 264 266	尿酸
+T14	Disease 301 303	癌症
+T15	Disease 326 331	高尿酸血症
+T16	Disease 350 355	高尿酸血症
+T17	Disease 1595 1600	高尿酸血症
+T18	Test 1615 1617	尿酸
+T19	Test 1632 1634	尿酸
+T20	Test_Value 1640 1658	178 ~ 360 μmol / L
+T21	Disease 1683 1688	高尿酸血症
+T22	Test 1689 1692	血尿酸
+T23	Disease 1719 1721	痛风
+T24	Disease 1722 1727	急性肾损伤
+T25	Test 1753 1757	尿酸水平
+T26	Test_Value 1758 1762;1763 1782	正常高值 (310 ~ 330 μmol / L
+T27	Disease 1784 1789	急性肾损伤
+T28	Disease 1790 1796	慢性肾脏疾病
+T29	Disease 1797 1800	高血压
+T30	Disease 1801 1802;1803 1807	心 血管疾病
+T31	Disease 1808 1813	代谢综合征
+T32	Reason 1817 1822	高尿酸血症
+T33	Disease 1824 1829	代谢综合征
+T34	Disease 1841 1844	大肠癌
+T35	Disease 1845 1848	乳腺癌
+T36	Disease 1849 1853	前列腺癌
+T37	Test 1872 1874	尿酸
+T38	Drug 1881 1885	抗氧化剂
+T39	Disease 1897 1899	癌症
+T40	Disease 1915 1917	肥胖
+T41	Disease 1918 1923;1924 1925	2 型糖尿 病
+T42	Disease 1926 1931	代谢综合征
+T43	Disease 1934 1936	癌症
+T44	Reason 1939 1943	慢性炎症
+T45	Disease 1944 1949	高尿酸血症
+T46	Test 1955 1957	尿酸
+T47	Disease 1963 1965	癌症
+T48	Test 1985 1987	尿酸
+T49	Disease 1990 1992	癌症
+T50	Disease 2000 2002	死亡
+T51	Test 2010 2012	尿酸
+T52	Disease 2014 2016	癌症
+T53	Disease 2039 2044	高尿酸血症
+T54	Disease 2045 2047	癌症
+T55	Disease 2051 2056	高尿酸血症
+T56	Disease 2059 2061	肿瘤
+T57	Test 2116 2118	尿酸
+T58	Disease 2124 2126	癌症
+T59	Disease 2126 2128	死亡
+T60	Test 2156 2159	血尿酸
+T61	Disease 2162 2166	前列腺癌
+T62	Disease 2191 2196	代谢综合征
+T63	Disease 2205 2209	前列腺癌
+T64	Disease 2216 2221	高尿酸血症
+T65	Test 2222 2225	胰岛素
+T66	Test_Value 2227 2229	升高
+T67	Test 2233 2236	血尿酸
+T68	Test 2237 2240	胰岛素
+T69	Disease 2246 2250	前列腺癌
+T70	Test 2270 2273	血尿酸
+T71	Test_Value 2275 2290	大于 358 μmol / L
+T72	Disease 2292 2295;2296 2297	前列腺 癌
+T73	Disease 2322 2324	痛风
+T74	Disease 2329 2331	痛风
+T75	Disease 2336 2338	癌症
+T76	Disease 2347 2353	泌尿系统癌症
+T77	Anatomy 2355 2358	前列腺
+T78	Anatomy 2359 2361	膀胱
+T79	Disease 2362 2364	肾癌
+T80	Disease 2372 2376	前列腺癌
+T81	Disease 2377 2380	膀胱癌
+T82	Disease 2381 2383	肾癌
+T83	Disease 2385 2389	全部癌症
+T84	Disease 2521 2523	痛风
+T85	Anatomy 2527 2529;2530 2531	前列 腺
+T86	Anatomy 2532 2534	膀胱
+T87	Disease 2535 2537	肾癌
+T88	Test 2553 2556	血尿酸
+T89	Disease 2561 2563	肿瘤
+T90	Test 2599 2604	血尿酸水平
+T91	Test_Value 2606 2610;2611 2618	4. 6 mg / dl
+T92	Test 2626 2628	尿酸
+T93	Test_Value 2631 2647	男性>6. 71 mg / dl
+T94	Test_Value 2650 2656;2657 2664	>5. 41 mg / dl
+T95	Disease 2666 2668	癌症
+T96	Disease 2668 2670	死亡
+T97	Disease 2710 2715	终末期癌症
+T98	Disease 2723 2725	癌症
+T99	Test 2734 2737	血尿酸
+T100	Reason 2742 2747	高尿酸水平
+T101	Test_Value 2748 2761	>7. 2 mg / dl
+T102	Test 2785 2787	尿酸
+T103	Disease 2790 2794	癌症死亡
+T104	Test 2833 2836	血尿酸
+T105	Test 2848 2851	血尿酸
+T106	Disease 2854 2856	癌症
+T107	Disease 2856 2858	死亡
+T108	Test 2872 2874	尿酸
+T109	Disease 2886 2888;2889 2891	癌症 死亡
+T110	Test 2927 2929	尿酸
+T111	Disease 2941 2943	癌症
+T112	Disease 2947 2949	癌症
+T113	Disease 2963 2968	高尿酸血症
+T114	Disease 2975 2977	癌症
+T115	Disease 2981 2983	癌症
+T116	Disease 2983 2985	死亡
+T117	Test 2992 2994	尿酸
+T118	Test 3032 3034	尿酸
+T119	Test 3047 3048;3049 3050	尿 酸
+T120	Test 3083 3087	尿酸水平
+T121	Test_Value 3087 3105	低于 279. 6 μmol / L
+T122	Test_Value 3107 3125	大于 279. 6 μmol / L
+T123	Disease 3129 3134	软组织肉瘤
+T124	Disease 3135 3137	癌症
+T125	Test 3153 3154;3155 3156	尿 酸
+T126	Disease 3161 3168	软组织肉瘤肿瘤
+T127	Test 3234 3236	尿酸
+T128	Test_Value 3238 3240	升高
+T129	Disease 3241 3243	肿瘤
+T130	Symptom 3311 3315;3316 3318	低血尿酸 水平
+T131	Disease 3323 3327	营养不良
+T132	Test 3335 3338	血尿酸
+T133	Disease 3344 3346	癌症
+T134	Test 3358 3360	尿酸
+T135	Reason 3386 3392	慢性低度炎症
+T136	Disease 3393 3395	肥胖
+T137	Disease 3396 3402	2 型糖尿病
+T138	Disease 3403 3405;3406 3409	胰岛 素抵抗
+T139	Disease 3410 3415	代谢综合征
+T140	Test 3428 3430	尿酸
+T141	Test 3445 3447	尿酸
+T142	Test 3451 3453	尿酸
+T143	Disease 3490 3493	MSU
+T144	Anatomy 3508 3518	Toll 样受体 4
+T145	Anatomy 3525 3528	白细胞
+T146	Test 3552 3554	尿酸
+T147	Anatomy 3569 3572	p38
+T148	Anatomy 3586 3591	NF-κB
+T149	Anatomy 3600 3604;3605 3606	MCP- 1
+T150	Test 3609 3615	C 反应蛋白
+T151	Anatomy 3631 3640	NADPH 氧化酶
+T152	Test 3670 3672	尿酸
+T153	Disease 3684 3689	慢性肾脏病
+T154	Disease 3714 3716	癌症
+T155	Test 3720 3723	脂联素
+T156	Test 3724 3730	C 反应蛋白
+T157	Anatomy 3731 3733	瘦素
+T158	Test 3750 3753	脂联素
+T159	Test 3754 3757	脂联素
+T160	Disease 3769 3771	肥胖
+T161	Disease 3772 3777;3778 3779	2 型糖尿 病
+T162	Disease 3780 3785	胰岛素抵抗
+T163	Disease 3786 3791	代谢综合征
+T164	Disease 3809 3811	癌症
+T165	Disease 3828 3830	肥胖
+T166	Disease 3833 3838	代谢综合征
+T167	Test 3847 3850	脂联素
+T168	Test 3853 3856	血尿酸
+T169	Disease 3871 3872;3873 3877	代 谢综合征
+T170	Test 3881 3883	尿酸
+T171	Test 3889 3892	脂联素
+T172	Test 3903 3904;3905 3906	尿 酸
+T173	Test 3907 3910	脂联素
+T174	Test 3920 3923	脂联素
+T175	Test_Value 3925 3927	升高
+T176	Disease 3934 3937	乳腺癌
+T177	Test 3951 3954	脂联素
+T178	Disease 3975 3978	乳腺癌
+T179	Test 3999 4002	脂联素
+T180	Disease 4005 4008	乳腺癌
+T181	Disease 4045 4049	乳房肿瘤
+T182	Disease 4069 4072	乳腺癌
+T183	Test 4077 4080	脂联素
+T184	Disease 4091 4094	乳腺癌
+T185	Test 4132 4135	脂联素
+T186	Disease 4143 4145	肺癌
+T187	Test 4165 4168	脂联素
+T188	Anatomy 4180 4183	Akt
+T189	Anatomy 4187 4198	肿瘤抑制基因 LKB1
+T190	Anatomy 4203 4209	乳腺肿瘤细胞
+T191	Test 4227 4230	脂联素
+T192	Anatomy 4237 4241	PI3K
+T193	Anatomy 4244 4247	Akt
+T194	Disease 4268 4272	乳腺肿瘤
+T195	Reason 4291 4304	高血尿酸水平抑制循环脂联素
+T196	Disease 4317 4319	肿瘤
+T197	Test 4326 4332	C 反应蛋白
+T198	Test 4348 4350	尿酸
+T199	Test_Value 4350 4352;4353 4355	浓度 升高
+T200	Test 4367 4373	C 反应蛋白
+T201	Test 4374 4381	白细胞介素 6
+T202	Anatomy 4383 4387	IL-6
+T203	Test 4389 4397	肿瘤坏死因子 α
+T204	Test 4398 4403	TNF-α
+T205	Test 4413 4419	C 反应蛋白
+T206	Disease 4424 4427	乳腺癌
+T207	Disease 4432 4434	癌症
+T208	Disease 4434 4436	死亡
+T209	Disease 4444 4447	乳腺癌
+T210	Test 4454 4457	血尿酸
+T211	Test 4496 4505	高敏 C 反应蛋白
+T212	Disease 4508 4512	结直肠癌
+T213	Disease 4513 4516	结肠癌
+T214	Test 4533 4539	C 反应蛋白
+T215	Anatomy 4540 4542	直肠
+T216	Disease 4546 4549;4550 4552	远端结 肠癌
+T217	Test 4582 4588	C 反应蛋白
+T218	Test_Value 4588 4590	升高
+T219	Disease 4594 4596	肺癌
+T220	Disease 4597 4599	胃癌
+T221	Disease 4605 4609	肾细胞癌
+T222	Test 4625 4631	C 反应蛋白
+T223	Test 4632 4635	血尿酸
+T224	Disease 4636 4638	癌症
+T225	Anatomy 4654 4660	C 反应蛋白
+T226	Disease 4667 4669	肿瘤
+T227	Anatomy 4695 4701	C 反应蛋白
+T228	Disease 4702 4704	肿瘤
+T229	Test 4725 4727	尿酸
+T230	Test_Value 4729 4731	升高
+T231	Test 4743 4745	瘦素
+T232	Anatomy 4746 4748	瘦素
+T233	Disease 4752 4757	高尿酸血症
+T234	Disease 4758 4760	肥胖
+T235	Disease 4761 4766	代谢综合征
+T236	Disease 4767 4771;4772 4774	2 型糖 尿病
+T237	Test 4793 4795	瘦素
+T238	Disease 4796 4798	肥胖
+T239	Disease 4825 4827	肥胖
+T240	Disease 4829 4834;4835 4836	2 型糖尿 病
+T241	Disease 4843 4848	代谢综合征
+T242	Test 4850 4854	血清瘦素
+T243	Test 4855 4861	C 反应蛋白
+T244	Test 4862 4865	血尿酸
+T245	Test 4876 4879	脂联素
+T246	Anatomy 4901 4903;4904 4906	瘦素 受体
+T247	Disease 4914 4919	高尿酸血症
+T248	Test 4920 4922	尿酸
+T249	Test 4928 4930	瘦素
+T250	Test_Value 4933 4935	升高
+T251	Test 4945 4947	瘦素
+T252	Anatomy 4950 4952	肾脏
+T253	Test 4952 4954	尿酸
+T254	Anatomy 4961 4963	肝脏
+T255	Test 4978 4980	瘦素
+T256	Test 4986 4988	尿酸
+T257	Anatomy 4993 4995	肾脏
+T258	Disease 5001 5006	高尿酸血症
+T259	Disease 5020 5022	肥胖
+T260	Disease 5024 5029	代谢综合征
+T261	Disease 5031 5037	2 型糖尿病
+T262	Test 5040 5043	血尿酸
+T263	Disease 5044 5046	癌症
+T264	Anatomy 5058 5060	瘦素
+T265	Test 5062 5064	尿酸
+T266	Test 5076 5078	瘦素
+T267	Test 5079 5081;5082 5083	脂联 素
+T268	Disease 5086 5088	肥胖
+T269	Disease 5089 5095	2 型糖尿病
+T270	Disease 5096 5101	代谢综合征
+T271	Test 5108 5110	瘦素
+T272	Test 5112 5115	脂联素
+T273	Disease 5116 5118	肿瘤
+T274	Test 5136 5138	瘦素
+T275	Disease 5145 5147	癌症
+T276	Test 5168 5170	瘦素
+T277	Disease 5173 5174;5175 5177	乳 腺癌
+T278	Disease 5189 5192	乳腺癌
+T279	Disease 5202 5204	肿瘤
+T280	Test 5221 5223	尿酸
+T281	Disease 5226 5228	癌症
+T282	Disease 5231 5236	高尿酸血症
+T283	Disease 5262 5267	高尿酸血症
+T284	Disease 5268 5270	痛风
+T285	Anatomy 5290 5295	ABCG2
+T286	Test 5306 5308	尿酸
+T287	Test 5327 5329	尿酸
+T288	Anatomy 5416 5421	ABCG2
+T289	Test 5428 5429;5430 5431	尿 酸
+T290	Disease 5454 5456	痛风
+T291	Disease 5457 5458;5459 5463	高 尿酸血症
+T292	Disease 5509 5517	非乳头状肾细胞癌
+T293	Disease 5532 5544	弥漫性大 B 细胞淋巴瘤
+T294	Disease 5568 5573	高尿酸血症
+T295	Disease 5576 5578	癌症
+T296	Disease 5583 5584;5585 5586	死 亡
+T297	Disease 5601 5603	癌症
+T298	Test 5609 5611	尿酸
+T299	Test 5639 5640;5641 5642	尿 酸
+T300	Disease 5648 5650	肿瘤
+T301	Disease 5651 5657	高度侵袭性癌
+T302	Test 5663 5665	尿酸
+T303	Test 5690 5692	尿酸
+T304	Anatomy 5699 5703	肿瘤细胞
+T305	Disease 5715 5722	高度侵略性癌症
+T306	Disease 5731 5733	肿瘤
+T307	Disease 5749 5751	肿瘤
+T308	Disease 5769 5772	乳腺癌
+T309	Disease 5773 5775	胃癌
+T310	Disease 5776 5780	结直肠癌
+T311	Disease 5781 5784	卵巢癌
+T312	Disease 5785 5787;5788 5792	非小 细胞肺癌
+T313	Disease 5795 5799	肝细胞癌
+T314	Disease 5813 5816	乳腺癌
+T315	Disease 5817 5819	胃癌
+T316	Disease 5821 5826	结肠直肠癌
+T317	Disease 5827 5830	卵巢癌
+T318	Disease 5831 5833	肺癌
+T319	Disease 5882 5888	低分化乳腺癌
+T320	Disease 5889 5891	胃癌
+T321	Disease 5892 5895	大肠癌
+T322	Anatomy 5947 5951	肿瘤细胞
+T323	Disease 5956 5962	高侵略性肿瘤
+T324	Anatomy 5996 5999	癌细胞
+T325	Anatomy 6033 6039	环氧化酶 2
+T326	Test 6047 6056	基质金属蛋白酶 1
+T327	Anatomy 6057 6062	MMP-1
+T328	Disease 6069 6072	乳腺癌
+T329	Disease 6095 6098	乳腺癌
+T330	Anatomy 6143 6146	Id1
+T331	Disease 6157 6160	乳腺癌
+T332	Anatomy 6166 6168;6169 6171	上皮 细胞
+T333	Anatomy 6179 6182	Id1
+T334	Disease 6190 6193	乳腺癌
+T335	Disease 6212 6215	乳腺癌
+T336	Test 6231 6234	Id1
+T337	Disease 6244 6247	乳腺癌
+T338	Anatomy 6282 6287	COX-2
+T339	Anatomy 6288 6293	MMP-1
+T340	Anatomy 6296 6299	Id1
+T341	Disease 6307 6310	乳腺癌
+T342	Disease 6341 6343	肿瘤
+T343	Test 6384 6387	血尿酸
+T344	Disease 6395 6397	肿瘤
+T345	Disease 6437 6439	肿瘤
+T346	Disease 6450 6455	高尿酸血症
+T347	Test 6456 6458	瘦素
+T348	Test_Value 6460 6462	升高
+T349	Disease 6484 6486	肿瘤
+T350	Disease 6487 6492	高尿酸血症
+T351	Symptom 6542 6544	腹泻
+T352	Disease 6545 6550	肾功能减退
+T353	SideEff 6551 6555;6556 6558	白细胞减 少症
+T354	SideEff 6559 6563	过敏反应
+T355	Disease 6564 6567	血管炎
+T356	Disease 6579 6582;6583 6584	血管损 伤
+T357	Anatomy 6597 6604	HLA-B58
+T358	Disease 6613 6619;6620 6622	别嘌醇过敏综 合征
+T359	Drug 6633 6637	别嘌呤醇
+T360	Disease 6658 6660	死亡
+T361	Disease 6662 6667	严重综合症
+T362	Test 6716 6718	尿酸
+T363	Drug 6764 6768	拉布立酶
+T364	Disease 6772 6782	高风险肿瘤溶解综合征
+T365	Test 6801 6803	尿酸
+T366	Treatment 6820 6826	肾脏替代治疗
+T367	Disease 6828 6830	死亡
+T368	Disease 6870 6875	高尿酸血症
+T369	Disease 6910 6915	高尿酸血症
+T370	Disease 6916 6920	恶性肿瘤
+T371	Test 6938 6940	尿酸
+T372	Test 6943 6946	脂联素
+T373	Test 6947 6950;6951 6954	C 反 应蛋白
+T374	Anatomy 6955 6957	瘦素
+T375	Reason 6961 6967	慢性炎症环境
+T376	Disease 6968 6970	肿瘤
+T377	Disease 6987 6992	高尿酸血症
+T378	Disease 7030 7032	肿瘤
+T379	Disease 7045 7047	癌症
+T380	Disease 7061 7066	高尿酸血症
+T381	Disease 7067 7069	癌症
+T382	Disease 7072 7077	高尿酸血症
+T383	Disease 7092 7097	高尿酸血症

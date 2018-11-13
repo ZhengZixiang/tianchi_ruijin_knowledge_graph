@@ -1,0 +1,304 @@
+临床研究
+基金项目:国家自然科学基金 (81130016);申康慢病中心课题
+(SHDC12012301)
+病科,上海市内分泌代谢病临床医学中心,上海市内分泌代谢病研究所
+载脂蛋白 B / A-I 与非酒精性脂肪性肝病的
+相关性研究
+吕晓斐  徐佰慧  孙继超  陈颖  陆洁莉  赵列宾  徐敏  毕宇芳  王卫庆  宁光
+[摘要]   目的  研究载脂蛋白 B / A-I(Apolipoprotein B / A-I, ApoB / A-I)与非酒精性脂肪性肝病(non-
+alcoholic fatty liver disease, NAFLD)的相关性。 方法 在上海市嘉定区 40 岁以上居民中进行问卷调查、体
+格检查、生化检测及高分辨率超声检查,对其中数据完整的 2 139 名受试者进行分析。 采用多元 logistic 回
+归模型分析 ApoB / A-I 与 NAFLD 患病风险之间的关系。 结果 从 ApoB / A-I 第一分位组到第四分位组,
+NAFLD 患病率逐渐升高,分别为 14. 3% 、23. 6% 、30. 4% 、40. 4% (组间趋势 P<0. 01)。 多元 logistic 回归分
+析显示,校正年龄、性别、目前吸烟及主要代谢指标后,ApoB / A-I 每增加 1,NAFLD 患病风险增加 105%
+(OR=2. 05, 95% CI 1. 19 ~ 3. 53, P=0. 01)。 结论 载脂蛋白 B / A-I 与非酒精性脂肪性肝病患病风险的增
+加存在独立正相关性。
+[关键词]   载脂蛋白 B; 载脂蛋白 A-I; 非酒精性脂肪性肝病
+Association between apolipoprotein B / A-I and non-alcoholic fatty liver disease Lyu Xiaofei, Xu Baihui, Sun
+Jichao, Chen Yin, Lu Jieli, Zhao Liebin, Xu Min, Bi Yufang, Wang Weiqing, Ning Guang. Department of Endocrine
+and Metabolic Diseases, Shanghai Clinical Center for Endocrine and Metabolic Diseases, Shanghai Institute of
+Endocrine and Metabolic Diseases, Ruijing Hospital, Shanghai Jiaotong University School of Medicine, Shanghai
+200025, China
+[Abstract]  Objective  To study the association between apolipoprotein B / A-I(ApoB / A-I) and the risk of
+prevalence of non-alcoholic fatty liver disease ( NAFLD). Methods This is a community-based cross-sectional
+analysis conducted among 2 519 residents aged 40 years or older from Jiading District, Shanghai, China. All subjects
+underwent a standard questionnaire, anthropometric measurements, and biochemical evaluation. Non-alcoholic fatty
+liver disease was defined by hepatic ultrasonography. After excluding subjects with excess alcohol consumption and
+medical history of liver diseases, more than three times of normal serum alanine aminotransferase(ALT), aspartate
+aminotransferase(AST), and γ-glutamyltransferase(GGT) levels were obtained in 2 139 subjects. Unadjusted and
+multivariate adjusted logistic regression analyses were applied to estimate the association between ApoB / A-I ratio and
+the risk of prevalent NAFLD. Results Increased ApoB / A-I ratio was associated with a less favorable metabolic
+profile. The prevalence of NAFLD increased in accordance with the quartiles of ApoB / A-I ratio(14. 3% , 23. 6% ,
+30. 4% , 40. 4% , respectively, P<0. 01) . In the multivariate adjusted logistic regression analysis, the risk of having
+NAFLD increased by 105% with each unit increment in ApoB / A-I ratio (OR = 2. 05, 95% CI 1. 19-3. 53, P =
+0. 01) . Conclusions ApoB / A-I ratio is associated with the risk of prevalent NAFLD, being independent of other
+established metabolic risk factors.
+[Key words]  Apolipoproteins B; Apolipoprotein A-I; Non-alcoholic fatty liver disease.
+(Chin J Endocrinol Metab, 2014, 30: 826-829)
+非酒精性脂肪性肝病 ( non-alcoholic fatty liver
+disease, NAFLD)是以肝细胞内甘油三酯的沉积为特
+征,包括单纯性脂肪变性到非酒精性脂肪性肝炎(non-
+alcoholic steatohepatitis, NASH)、纤维化和肝硬化的一
+组肝脏损害[1]。 近年来,NAFLD 的发病率在全世界范
+围内逐年上升,已经成为全世界范围的公共健康问
+题[2]。 在中国 NAFLD 的平均患病率已达到 10% [3]。
+NAFLD 与腹型肥胖、胰岛素抵抗、2 型糖尿病等代谢
+异常密切相关,被认为是代谢综合征在肝脏的表
+现[4,5],并且最近有学者提出 NAFLD 是心血管疾病的
+独立危险因素[2,6]。
+载脂蛋白 A-I(apolipoprotein A-I, ApoA-I)是高密
+度脂蛋白( high-density lipoprotein, HDL)的主要载脂
+蛋白,参与胆固醇从外周到肝脏的逆向转运过程,对动
+脉起保护作用;载脂蛋白 B(apolipoproteins B, ApoB)
+是低密度脂蛋白( low-density lipoprotein, LDL)的主要
+载脂蛋白,反映了体内具有致动脉粥样硬化作用的脂
+蛋白含量[7]。 ApoB / A-I 是脂代谢紊乱和心血管疾病
+精确的、有效的预测指标[7-9]。
+然而目前国内关于 ApoB / A-I 与 NAFLD 的相关性
+研究较少。 因此,本研究旨在中国上海社区人群中探
+讨 ApoB / A-I 与 NAFLD 患病率的相关性。
+对象和方法
+一、 对象
+采用整群抽样的方法,我们在 2010 年 3 月至 2010
+年 7 月对上海市嘉定区菊园社区 40 岁及以上 2 519 名
+常住居民进行标准化问卷、 体格检查、 生化检测
+以及肝脏 B 超检查。 排除过量饮酒(饮酒折含乙醇量
+男性≥140 g /周, 女性≥70 g /周)受试者 271 名, 既
+往有慢性肝病病史(慢性肝炎、 肝硬化、 肝癌、 自身
+免疫性肝病)者 83 名,肝酶[丙氨酸转氨酶( alanine
+aminotransferase, ALT)、 天冬氨酸转氨酶 ( aspartate
+aminotransferase, AST ) 及 γ 谷 氨 酰 转 肽 酶 ( γ-
+glutamyltransferase, GGT)]大于参考范围上限 3 倍的
+受试者 17 名,未完成肝脏 B 超检查的受试者 7 名。 最
+终有 2 139 名受试者纳入统计分析。 本研究通过上海
+交通大学医学院附属瑞金医院伦理委员会批准,所有
+受试者均签署书面知情同意书。
+二、 方法
+1. 问卷调查:由受过统一培训的问卷调查员进行
+标准化问卷调查,收集人口学资料、既往病史、吸烟饮
+酒史、用药史、生活习惯等。 目前吸烟定义为调查前 6
+个月内存在规律性吸烟行为。
+2. 体格检查:所有研究者均接受常规体格检查,
+包括身高、体重、静息状态血压测量。 身高测量精确到
+0. 1 cm,体重测量精确到 0. 1 kg。 血压的测量采用欧
+姆龙电子血压计(OMRON Model HEM-752 FUZZY,欧
+姆龙公司,大连),要求研究对象静坐 15 min 后,取其
+非优势臂测量 3 次,每次间隔至少 1 min,取 3 次平均
+值纳入分析。 体重指数=体重(kg) / [身高(m)] 2。
+3. 血生化检查:留取隔夜空腹静脉血(空腹至少
+10 h),送至中心实验室检测。 自动生化仪(Modular
+E170, Roche)检测甘油三酯、总胆固醇、低密度脂蛋白
+胆固醇( low-density lipoprotein-cholesterol, LDL-C)、高
+密度脂蛋白胆固醇(high-density lipoprotein-cholesterol,
+HDL-C)、ApoA-I、ApoB、ALT、AST 和 GGT。 葡萄糖激
+酶法测定空腹血糖。 采用电化学发光法 ( Modular
+E170, Roche)测定空腹胰岛素。 采用稳态模型公式评
+估胰岛素抵抗水平 ( homeostasis model assessment of
+insulin resistance, HOMA-IR),HOMA-IR =空腹胰岛素
+(mIU / L)×空腹血糖(mmol / L) / 22. 5[10]。
+4. NAFLD 的诊断标准:在排除过量饮酒史及相关
+肝病病史后,NAFLD 的诊断有 2 名经验丰富的超声科
+医师通过高分辨率超声成像系统(Esaote Biomedica
+SPA,意大利)完成。 经超声诊断的脂肪肝应至少包括
+以下 2 项异常:肝脏近场回声弥漫性增强 (“明亮
+肝冶),回声强于肾脏;肝脏远场回声逐渐衰减;肝内结
+构不清[3]。 在进行 NAFLD 诊断时,超声科医师并未
+接触受试者相关人体测量及血清学指标等信息。
+三、 统计学处理
+采用 SAS 8. 1 统计学软件进行分析。 所有正态分
+布的计量资料以 x-± s 表示;非正态分布的计量资料以
+M(四分位间距)表示,并经对数变换后再进行统计分
+析;计数资料以人数(百分比)表示。 将研究对象按照
+ApoB / A-I 四分位数分为 4 组后对各变量进行趋势分
+析,计量资料和计数资料分别采用线性回归和
+Cochran-Armitage 趋势检验。 Pearson 相关初步分析
+ApoB / A-I 与 NAFLD 各危险因素的相关性。 多元
+logistic 回归模型分析 ApoB / A-I 与 NAFLD 患病风险之
+间的关系。 双侧检验 P<0. 05 为有统计学意义。
+结    果
+一、 研究对象的基本资料
+纳入统计的 2 139 名研究对象的平均年龄为
+(57. 2 ± 10. 2 ) 岁,其中女性 1 417 名,占 66. 3% 。
+NAFLD 的患病率为 27. 2% (582 例)。 根据 ApoB / A-I
+四分位将研究人群相应分为 Q1 ( 0 ~ 0. 64 )、 Q2
+(0. 65 ~ 0. 78)、Q3(0. 79 ~ 0. 95)、Q4( >0. 95)组。 随
+着 ApoB / A-I 升高,男性在人群中的比例、体重指数、
+收缩压、舒张压、空腹血糖、甘油三酯、总胆固醇、
+LDL-C、 ApoB、 HOMA-IR 均显著增加 (均趋势 P <
+0. 01),目前吸烟者在人群中的比例也有显著趋势(趋
+势 P=0. 02);随着 ApoB / A-I 升高,HDL-C、ApoA-I 显
+著降低(均趋势 P<0. 01,表 1)。
+二、 ApoB / A-I 与 NAFLD 危险因素的相关性
+Pearson 相关分析显示,ApoB / A-I 与体重指数、收
+缩压、舒张压、空腹血糖、HOMA-IR、ALT、甘油三酯、总
+胆固醇、LDL-C 和 LDL-C / HDL-C 呈显著正相关( r 分
+别为 0. 25、0. 10、0. 18、0. 15、0. 31、0. 13、0. 36、0. 42、
+0. 61 和 0. 85,均 P<0. 01),并且与 HDL-C 呈显著负相
+关( r= -0. 49, P<0. 01),而与年龄无关(P=0. 77)。
+三、 脂蛋白、载脂蛋白及其比值与 NAFLD 患病风
+险的相关性分析
+按 ApoB / A-I 四分位分组的 Q1、Q2、Q3、Q4 组
+表 1  研究人群按 ApoB / A-I 四分位分组后的一般特征[x-± s 或 M(四分位间距)]
+Tab 1  Characteristics of population by ApoB / A-I quartiles[x-± s or M(interquartile range)]
+组别 例数(男 / 女)n(Male / Female)
+年龄
+(岁)
+Age
+(years)
+目前吸烟a
+Current smoker
+[n(% )]
+体重指数b
+Body mass
+index
+(kg / m2)
+收缩压b
+Systolic blood
+pressure
+(mmHg)
+舒张压b
+Diastolic blood
+pressure
+(mmHg)
+空腹血糖b
+Fasting plasma
+glucose
+(mmol / L)
+HOMA-IRb
+丙氨酸氨基转
+移酶b
+Alanine
+aminotransferase
+(IU / L)
+Q1 544(163 / 381) 57. 2 ± 11. 1 93(17. 1) 24. 2 ± 3. 3 140 ± 19 81 ± 10 5. 05(4. 70-5. 57) 1. 06(0. 53-1. 65) 17. 9(14. 2-24)
+Q2 509(161 / 348) 57. 2 ± 10. 5 72(14. 2) 25. 1 ± 3. 0 142 ± 20 83 ± 10 5. 14(4. 73-5. 67) 1. 36(0. 85-2. 04) 17. 6(13. 7-25)
+Q3 549(182 / 367) 57. 1 ± 9. 5 93(16. 9) 25. 6 ± 3. 0 145 ± 22 85 ± 11 5. 21(4. 81-5. 85) 1. 54(0. 98-2. 41) 17. 6(13. 7-25)
+Q4 537(216 / 321) 57. 3 ± 9. 7 119(22. 2) 26. 3 ± 3. 2 146 ± 20 86 ± 11 5. 41(4. 99-6. 15) 1. 95(1. 36-2. 85) 20. 6(15. 7-29)
+组别
+例数(男 / 女)
+n(Male / Female)
+天门冬氨基酸转移酶
+Aspartate
+aminotransferase
+(IU / L)
+甘油三酯b
+Triglycerides
+(mmol / L)
+总胆固醇b
+Total cholesterol
+(mmol / L)
+LDL-Cb
+(mmol / L)
+HDL-Cb
+(mmol / L)
+载脂蛋白 A-Ib
+Apolipoprotein A-I
+(g / L)
+载脂蛋白 Bb
+Apolipoprotein B
+(g / L)
+Q1 544(163 / 381) 22. 8(20. 0-26. 8) 1. 00(0. 76-1. 37) 4. 93 ± 1. 06 2. 50 ± 0. 61 1. 58 ± 0. 34 1. 42 ± 0. 27 0. 74 ± 0. 14
+Q2 509(161 / 348) 22. 2(18. 8-25. 7) 1. 15(0. 87-1. 64) 5. 11 ± 0. 89 2. 90 ± 0. 64 1. 39 ± 0. 28 1. 21 ± 0. 22 0. 86 ± 0. 16
+Q3 549(182 / 367) 22. 1(19. 0-26. 6) 1. 38(1. 02-1. 98) 5. 46 ± 0. 95 3. 27 ± 0. 72 1. 29 ± 0. 27 1. 13 ± 0. 20 0. 97 ± 0. 17
+Q4 537(216 / 321) 22. 3(19. 3-26. 4) 1. 75(1. 35-2. 35) 5. 96 ± 1. 04 3. 80 ± 0. 86 1. 15 ± 0. 22 1. 00 ± 0. 17 1. 14 ± 0. 22
+注:人群按 ApoB / A-I 四分位分组 The population was grouped by ApoB / A-I ratio;Q1:≤0. 64;Q2:0. 65-0. 78;Q3:0. 79-0. 95;Q4:>0. 95;1 mmHg =
+0. 133 kPa;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment for insulin resistance;LDL-C:低密度脂蛋白胆固醇 Low-density
+lipoprotein-cholesterol;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;组间比较 Comparison among 4 groups,aP<0. 05,bP<0. 01
+NAFLD 患病率分别为 14. 3% 、23. 6% 、30. 4% 、40. 4%
+(组间趋势 P<0. 01)。 与 Q1 组人群相比,NAFLD 患
+病率在 Q2、Q3、Q4 组显著升高(均 P<0. 01)。 Logistic
+回归分析显示,未校正混杂因素时,LDL-C / HDL-C 每
+增加 1,NAFLD 的患病风险为 2. 03 (95% CI 1. 79 ~
+2. 30);ApoA-I、ApoB 每升高 1 g / L,ApoB / A-I 每增加
+1,NAFLD 的患病风险分别为 0. 41 (95% CI 0. 28 ~
+0. 61)、6. 87 (95% CI 4. 50 ~ 10. 49)、8. 01 (95% CI
+5. 37 ~ 11. 95)。 进一步校正年龄、性别、目前吸烟、体
+重指数、收缩压、舒张压、空腹血糖、HOMA-IR(模型 2)
+及 ApoB / A-I 后 (模型 3), LDL-C / HDL-C 每增加 1,
+NAFLD 患 病 风 险 增 加 30% ( OR = 1. 30, 95% CI
+1. 11 ~ 1. 53)。在模型 2 基础上进一步校正甘油三酯
+后,ApoB / A-I 每增加 1,NAFLD 患病风险增加 105%
+(OR=2. 05, 95% CI 1. 19 ~ 3. 53, P=0. 01)。
+讨    论
+本研究显示,在社区中老年人群中,ApoB / A-I 水
+平与 NAFLD 患病风险呈显著正相关,并独立于传统代
+谢危险因素。 校正多种混杂因素后,ApoB / A-I 每增加
+1,NAFLD 患病风险增加了 105% 。
+本研究表明,ApoB / A-I 与多种代谢指标呈显著正
+相关,如体重指数、血压、甘油三酯、空腹血糖,与国外
+的研究结果一致[11]。 最近国外的一项横断面研究结
+果显示,校正混杂因素后,与 ApoB / A-I 第一分位相
+比,从 ApoB / A-I 第二分位到第四分位,NAFLD 的患病
+风险逐渐升高(OR = 1. 36),且与传统血脂指标(包括
+LDL-C / HDL-C)相比,ApoB / A-I 与 NAFLD 的关系最
+强[12]。 但是该研究没有校正传统血脂指标,本研究在
+校正甘油三酯之后,ApoB / A-I 仍然与 NAFLD 的患病
+风险呈显著正相关,并且 ApoB / A-I 比 LDL-C / HDL-C
+与 NAFLD 患病风险的关系更强。
+近年来研究认为载脂蛋白是比脂蛋白更精确的心
+血管风险指标[13]。 一篇总结了多项大型前瞻性研究
+及临床试验的综述表明,无论在健康人群还是在接受
+他汀治疗的患者中,与 LDL-C / HDL-C 相比,ApoB / A-I
+是更好的预测心血管事件的指标[14]。 虽然 LDL-C 是
+重要的 CVD 风险指标,但是它只反映了一部分致动脉
+粥样硬化的脂蛋白,比如,小而致密 LDL( small dense
+LDL, sdLDL)具有更强的致动脉粥样硬化作用,但是
+其中 LDL-C 的含量少[15]。 相反,ApoB 可以反映出血
+液中所有致动脉粥样硬化的脂蛋白[16],因此比 LDL-C
+能更精确的预测 CVD 风险。
+ApoB / A-I 是致死性和非致死性心梗的有效预测
+指标[17],比值越高,风险越大。 多项前瞻性研究表明
+任何类型的心血管疾病的患病风险均随着 ApoB / A-I
+比值的升高呈线性上升[16]。 近期有学者提出 NAFLD
+是心血管疾病的独立危险因素[2,18],并且 NAFLD 与亚
+临床动脉粥样硬化指标如颈动脉内中膜厚度[19]、颈动
+脉斑块、血流介导的动脉舒张[20] 等密切相关。 本研究
+发现 ApoB / A-I 与 NAFLD 的患病风险呈显著正相关,
+并且独立于传统 CVD 危险因素如胰岛素抵抗,为
+NAFLD 与心血管疾病的关系提供了新的证据。
+ApoB / A-I 与 NAFLD 的密切相关的机制尚不明
+确,可能与肝内甘油三酯堆积直接相关。 Karavia
+等[21]发现 ApoA-I 缺失的小鼠表现出肝脏内甘油三酯
+的堆积。 而 Adiels 等[22] 在人群中发现在肝内细胞甘
+油三酯过量的情况下,ApoB 的水平显著上升。 这些研
+究结果提示 ApoB / A-I 可能是肝内甘油三酯堆积的一
+项预测指标。 另一项人群研究结果表明肝内极低密度
+脂蛋白(very low-density lipoprotein, VLDL)的分泌速度
+与肝脏内甘油三酯的堆积成线性正相关[23]。 甘油三
+酯需要结合 VLDL 才能从肝脏向外周输出,而 ApoB 是
+VLDL 的运载蛋白,但是在 NAFLD 患者中,ApoB 分泌
+不足,继而 VLDL-甘油三酯的输出不足,从而使得肝内
+甘油三酯无法保持在正常范围[24]。 肝内甘油三酯生
+成与输出的不平衡是 NAFLD 发病的重要环节。 同时,
+VLDL 分泌速率的上升会降低 HDL-C, 并且导致
+sdLDL 的增加,这三者是 NAFLD 形成的基本要素[24]。
+胰岛素抵抗可能是 ApoB / A-I 与 NAFLD 相关性的一个
+间接机制。 最近 Fryirs 等[24] 发现暴露于 ApoA-I 的 β
+细胞胰岛素分泌增加,并且其胰岛素 mRNA 的表达上
+升。 同时在人群研究中, Sierra-Johnson 等[17] 发现
+ApoB / A-I 与胰岛素抵抗显著相关,并独立于传统危险
+因素(血脂异常、高血压、吸烟)及代谢综合征各组分。
+我们的研究也表明 ApoB / A-I 与 HOMA-IR 呈显著线
+性正相关。 而胰岛素抵抗是 NAFLD 发病的关键环节,
+并且改善胰岛素抵抗可以引起肝内脂肪含量的下
+降[25]。 因此,胰岛素抵抗可能间接介导了 ApoB / A-I
+与 NAFLD 的相关性。 另外,Adiels 等[22] 指出脂联素
+与 VLDL-ApoB 的分泌呈负相关,并且 TZDs 可以通过
+升高血浆脂联素浓度改善 NASH 患者的脂毒性[26]。
+因此脂联素可能对 ApoB / A-I 与 NAFLD 的相关性也起
+到了一定作用。
+本研究仍存在一些不足。 首先,本研究是横断面
+研究,无法推测 ApoB / A-I 与 NAFLD 之间的因果关系,
+这需要进一步的前瞻性研究来阐释。 其次,NAFLD 是
+由超声诊断的,而不是肝脏活检。 尽管肝脏活组织检
+查比超声诊断更敏感更精确,并且能够提供 NAFLD 严
+重程度,但是非侵入性超声诊断在临床实践和流行病
+学研究中是目前广泛使用的诊断方法。 另外,一些非
+NAFLD 的其他肝病患者可能被纳入统计,因为我们的
+排除标准主要依据肝病史和肝酶的升高。 最后,某些
+与 ApoB / A-I 相关的指标或潜在中间指标未测定,如
+脂联素,所以无法推测 ApoB / A-I 与 NAFLD 的相关性
+是否独立于脂联素等。
+综上,本研究发现 ApoB / A-I 与 NAFLD 的患病率
+呈独立 正 相 关, ApoB / A-I 水 平 升 高 对 及 时 发 现
+NAFLD 及心血管风险具有重要临床价值。

@@ -1,0 +1,605 @@
+T1	Test 599 604	HBA1C
+T2	Test 1192 1197	HBA1C
+T3	Test 5001 5006	HBA1C
+T4	Test 579 581;582 584	空腹 血糖
+T5	Test 1172 1176	空腹血糖
+T6	Test 4982 4986	空腹血糖
+T7	Test 5194 5198	空腹血糖
+T8	Test 3379 3382	AST
+T9	Test 1143 1146	ALT
+T10	Test 3375 3378	ALT
+T11	Test 1116 1119	肝功能
+T12	Test 3339 3342	肝功能
+T13	Test 1165 1168	肾功能
+T14	Test 3311 3314	肾功能
+T15	Test 1206 1211	甲状腺功能
+T16	Test 1297 1300	TSH
+T17	Test 1263 1266	FT4
+T18	Test 1212 1215	FT3
+T19	Test 832 834	身高
+T20	Test 4634 4636	身高
+T21	Test 5168 5170	身高
+T22	Test 823 825	体重
+T23	Test 4625 4627	体重
+T24	Test 5159 5161	体重
+T25	Anatomy 5514 5518	成骨细胞
+T26	Test 1162 1164	血钙
+T27	Test 3259 3261	血钙
+T28	Symptom 382 386	颜面水肿
+T29	Symptom 387 389	多饮
+T30	Symptom 390 392	多食
+T31	Symptom 393 395	多尿
+T32	Duration 396 401	2 个多月
+T33	Symptom 403 408	双下肢水肿
+T34	Duration 409 413	1 个月
+T35	Symptom 451 456	颜面部水肿
+T36	Symptom 457 459	烦渴
+T37	Symptom 460 462	多饮
+T38	Symptom 479 480;481 482	多 尿
+T39	Duration 444 445;446 448	2 个月
+T40	Duration 494 498	1 个月
+T41	Symptom 501 506	双下肢水肿
+T42	Drug 517 522	氢氯噻嗪片
+T43	Amount 523 528	25 mg
+T44	Frequency 529 532	qod
+T45	Duration 545 549	20 d
+T46	Symptom 554 556	腹胀
+T47	Symptom 558 563	中上腹疼痛
+T48	Symptom 564 571	双下肢麻木无力
+T49	Test_Value 585 598	7. 6 mmol / L
+T50	Test_Value 605 610	6. 1%
+T51	Test 612 614	血钾
+T52	Test_Value 615 628	1. 9 mmol / L
+T53	Test 629 635	垂体 MRI
+T54	Test 636 637;638 643	肾 上腺 CT
+T55	Test 679 681	血钾
+T56	Test_Value 682 695	2. 4 mmol / L
+T57	Disease 716 719	冠心病
+T58	Test 744 746	体温
+T59	Test_Value 747 753	37. 5℃
+T60	Test 755 757	心率
+T61	Test_Value 758 768	82 次 / min
+T62	Test 770 772	呼吸
+T63	Test_Value 773 783	20 次 / min
+T64	Test 785 787	血压
+T65	Test_Value 788 801	148 / 90 mmHg
+T66	Test_Value 826 831	65 kg
+T67	Test_Value 835 841	168 cm
+T68	Symptom 843 847	颜面浮肿
+T69	Symptom 872 876	皮下包块
+T70	Symptom 890 897	毛发、腋毛稀疏
+T71	Symptom 898 904	双肺( -)
+T72	Symptom 905 910;911 912	心界向左扩 大
+T73	Symptom 913 916	心律齐
+T74	Symptom 917 919	腹软
+T75	Symptom 920 925	剑突下压痛
+T76	Symptom 926 933	肝脾未满意扪及
+T77	Symptom 935 941;942 946	双下肢2°凹 陷性水肿
+T78	Symptom 947 953	四肢肌力4级
+T79	Test 964 966	血钾
+T80	Test_Value 967 987	2. 0 ~ 4. 4 mmol / L
+T81	Method 996 998	静脉
+T82	Amount 1001 1007	4. 5 g
+T83	Method 1009 1011	口服
+T84	Amount 1014 1017	8 g
+T85	Test 1020 1027	24 h 尿钾
+T86	Test_Value 1028 1036;1037 1048	45 ~ 242 mmol / 24 h
+T87	Test 1049 1051	血钠
+T88	Test_Value 1052 1073	134. 7 ~ 151 mmol / L
+T89	Test 1079 1082	白细胞
+T90	Test_Value 1083 1090;1091 1098	15. 0 × 109 / L
+T91	Test 1099 1106	中性粒细胞比例
+T92	Test_Value 1107 1113	95. 4%
+T93	Test 1120 1123	白蛋白
+T94	Test_Value 1124 1132	28 g / L
+T95	Test 1133 1135;1136 1142	丙氨 酸氨基转移酶
+T96	Test_Value 1147 1155	49 U / L
+T97	Test_Value 1177 1190	9. 2 mmol / L
+T98	Test_Value 1198 1203	7. 8%
+T99	Test_Value 1216 1221;1222 1229	1. 77 pg / ml
+T100	Test_Value 1267 1280	0. 55 ng / dl
+T101	Test_Value 1301 1315	0. 06 μIU / ml
+T102	Test 1332 1334	睾酮
+T103	Test_Value 1335 1340;1341 1348	0. 66 ng / ml
+T104	Test 1364 1366	GH
+T105	Test 1367 1369	LH
+T106	Test 1370 1373	FSH
+T107	Test 1380 1387	血 CA199
+T108	Test 1388 1390;1391 1393	癌胚 抗原
+T109	Test 1394 1397	CEA
+T110	Test 1399 1403	甲胎蛋白
+T111	Test 1409 1416	前列腺特异抗原
+T112	Test_Value 1434 1436	阴性
+T113	Test_Value 1455 1468	2. 1 μIU / ml
+T114	Test_Value 1492 1505	2. 3 μIU / ml
+T115	Test_Value 1531 1546	877. 22 pg / ml
+T116	Test_Value 1565 1580	906. 84 pg / ml
+T117	Test 1602 1614	血浆醛固酮与血浆肾素比值
+T118	Test_Value 1614 1621	>40 : 1
+T119	Disease 1623 1632	原发性醛固酮增多症
+T120	Test 1641 1647	盐水负荷试验
+T121	Test 1654 1667	卡托普利(50 mg)试验
+T122	Test 2400 2406	胸腔 B 超
+T123	Test 2362 2369	胸部增强 CT
+T124	Test 2433 2435	胃镜
+T125	Disease 2437 2445	隆起糜烂性胃窦炎
+T126	Disease 2446 2449	食管炎
+T127	Test 2490 2492	肠镜
+T128	Test 2493 2498	甲状腺彩超
+T129	Test 2504 2512	PET / CT
+T130	Disease 2484 2485;2486 2488	脂 肪瘤
+T131	Anatomy 2592 2594	颅脑
+T132	Anatomy 2595 2597;2598 2599	头颈 部
+T133	Disease 2617 2624	异位库欣综合征
+T134	Disease 2626 2629	糖尿病
+T135	Disease 2631 2642	中枢性甲状腺功能减退症
+T136	Disease 2643 2647	肺部感染
+T137	Disease 2648 2654	食道真菌感染
+T138	Disease 2656 2659;2660 2664	异位库 欣综合征
+T139	Test 2677 2679	血压
+T140	Test_Value 2683 2694;2695 2707	120 ~ 140 / 80 ~ 90 mmhg
+T141	Drug 2743 2747	伊曲康唑
+T142	Test 2755 2757	血钾
+T143	Test_Value 2763 2776	4. 4 mmol / L
+T144	Symptom 2786 2791	双下肢乏力
+T145	Disease 2847 2858	异位 ACTH 综合征
+T146	Method 2912 2914	口服
+T147	Amount 2917 2924	8 g / d
+T148	Drug 2926 2929	酮康唑
+T149	Amount 2930 2946	400 ~ 600 mg / d
+T150	Symptom 2951 2953	腰痛
+T151	Test 2976 2982	胸椎 MRI
+T152	Disease 2985 2990;2991 2993	胸椎压缩性 骨折
+T153	Operation 2996 3005	注入骨水泥支撑治疗
+T154	Symptom 3029 3031	多饮
+T155	Symptom 3032 3034	多食
+T156	Symptom 3035 3037	多尿
+T157	Symptom 3038 3040	乏力
+T158	Duration 3041 3044;3045 3047	5 个 多月
+T159	Symptom 3048 3053	双下肢水肿
+T160	Duration 3054 3057	3 月
+T161	Test 3083 3085	体温
+T162	Test_Value 3086 3092	36. 5℃
+T163	Test 3093 3095	心率
+T164	Test_Value 3096 3106	98 次 / min
+T165	Test 3107 3109	呼吸
+T166	Test_Value 3110 3120	20 次 / min
+T167	Test 3121 3123	血压
+T168	Test_Value 3124 3137	122 / 92 mmHg
+T169	Symptom 3139 3144	多血质面容
+T170	Symptom 3145 3148	满月脸
+T171	Symptom 3149 3152	水牛背
+T172	Symptom 3153 3158	向心性肥胖
+T173	Symptom 3159 3161;3162 3166	四肢 相对削瘦
+T174	Symptom 3167 3176	双下肢皮肤色素沉着
+T175	Symptom 3184 3186	失眠
+T176	Symptom 3187 3189	焦虑
+T177	Symptom 3190 3191;3192 3193	忧 郁
+T178	Test 3206 3208	血钾
+T179	Test_Value 3209 3229	2. 2 ~ 6. 2 mmol / L
+T180	Amount 3243 3246	3 g
+T181	Amount 3253 3256	8 g
+T182	Test_Value 3262 3275;3276 3284	1. 87 ~ 2. 26 mmol / L
+T183	Test 3291 3293	pH
+T184	Test_Value 3294 3309	7. 440 ~ 7. 450
+T185	Test 3316 3318	尿素
+T186	Test_Value 3319 3323;3324 3332	9. 3 mmol / L
+T187	Test 3333 3335	肌酐
+T188	Test 3356 3359	LDH
+T189	Test_Value 3360 3369	874 U / L
+T190	Test 3387 3392	甲状旁腺素
+T191	Test 3400 3403	降钙素
+T192	Test_Value 3426 3445	>1 655. 31 nmol / L
+T193	Test_Value 3459 3466;3467 3475	834. 70 nmol / L
+T194	Test 3476 3485	24 h 尿皮质醇
+T195	Test_Value 3486 3510	> 4 634. 868 nmol / 24 h
+T196	Test 3512 3516	ACTH
+T197	Test 3532 3538	胸椎 MRI
+T198	Disease 3539 3546	胸椎压缩性骨折
+T199	Test 3548 3552	血管彩超
+T200	Test 3580 3586	髋关节 CT
+T201	Anatomy 3637 3639	骨盆
+T202	Anatomy 3594 3598	骶髂关节
+T203	Anatomy 3587 3590;3591 3593	左侧髋 骨体
+T204	Anatomy 3569 3572	深静脉
+T205	Test 3652 3655;3656 3658	肾上腺 CT
+T206	Drug 3679 3682	酮康唑
+T207	Amount 3683 3692;3693 3699	400 ~ 600 mg / d
+T208	Disease 3720 3727	异位 ACTH
+T209	Anatomy 3734 3739	左侧髂骨体
+T210	Operation 3906 3911	穿刺活检术
+T211	Test_Value 3935 3946	146 次 / min
+T212	Test_Value 3958 3965;3966 3970	80 / 55 mmHg
+T213	Test_Value 3978 3984	39. 5℃
+T214	Test_Value 3990 4003	3. 4 mmol / L
+T215	Test 4012 4015	皮质醇
+T216	Test_Value 4016 4032	172. 85 nmol / L
+T217	Test 4033 4037	ACTH
+T218	Test_Value 4038 4051	46. 7 pg / ml
+T219	Disease 4054 4059	肾上腺危象
+T220	Drug 4065 4068	酮康唑
+T221	Method 4072 4074	静滴
+T222	Drug 4074 4079	氢化可的松
+T223	Amount 4080 4086	100 mg
+T224	Drug 4087 4090	多巴胺
+T225	Drug 4116 4121	氢化可的松
+T226	Amount 4122 4125;4126 4128	100 mg
+T227	Frequency 4129 4133	q8 h
+T228	Amount 4144 4149	50 mg
+T229	Frequency 4150 4155	q12 h
+T230	Drug 4163 4165;4166 4169	氢化 可的松
+T231	Method 4169 4171	口服
+T232	Amount 4173 4178	20 mg
+T233	Amount 4182 4187	10 mg
+T234	Drug 4191 4196	氢化可的松
+T235	Duration 4199 4202	5 d
+T236	Test 4210 4212	心率
+T237	Test 4228 4230	血压
+T238	Test_Value 4233 4245	85 / 61 mmHg
+T239	Test 4249 4253	血皮质醇
+T240	Test_Value 4254 4270	136. 33 nmol / L
+T241	Test 4271 4275	ACTH
+T242	Test_Value 4276 4290	44. 63 pg / ml
+T243	Disease 4296 4298;4299 4302	肾上 腺危象
+T244	Symptom 4315 4319	皮肤紫纹
+T245	Symptom 4320 4327;4328 4330	双下肢皮肤色素 沉着
+T246	Symptom 4333 4335	水肿
+T247	Drug 4481 4486	阿仑膦酸钠
+T248	Anatomy 4377 4383	泡沫组织细胞
+T249	Anatomy 4384 4387;4388 4389	淋巴细 胞
+T250	Anatomy 4392 4395	骨组织
+T251	Test 4406 4410	CD68
+T252	Test_Value 4410 4414	( +)
+T253	Test 4415 4418	EMA
+T254	Test_Value 4418 4423	( +-)
+T255	Test 4425 4429	ACTH
+T256	Test_Value 4429 4432	(-)
+T257	Test 4433 4436	CgA
+T258	Test_Value 4436 4439	(-)
+T259	Test 4440 4443	Syn
+T260	Test_Value 4443 4446	(-)
+T261	Test 4447 4456	α-inhibin
+T262	Test_Value 4456 4459	(-)
+T263	Amount 4487 4492	70 mg
+T264	Method 4508 4510	口服
+T265	Duration 4534 4536;4537 4538	10 d
+T266	Symptom 4597 4602	双下肢麻木
+T267	Symptom 4605 4607	乏力
+T268	Symptom 4645 4651	颜面部无浮肿
+T269	Symptom 4652 4655	多血质
+T270	Symptom 4656 4657;4658 4664	全 身皮肤无紫纹
+T271	Symptom 4665 4669	色素沉着
+T272	Symptom 4671 4676	双肺(-)
+T273	Symptom 4677 4683	心界向左扩大
+T274	Symptom 4684 4687	心律齐
+T275	Symptom 4688 4689;4690 4691	腹 软
+T276	Symptom 4707 4715	四肢肌力 V 级
+T277	Test 4719 4721;4722 4724	血皮 质醇
+T278	Test 4725 4729	ACTH
+T279	Test 4730 4732	肾素
+T280	Test 4733 4736	醛固酮
+T281	Test 4737 4739	甲功
+T282	Test 4740 4742	肝功
+T283	Test 4743 4745	肾功
+T284	Test 4746 4749	电解质
+T285	Test 4752 4754;4755 4759	空腹 静脉血糖
+T286	Test_Value 4760 4773	6. 0 mmol / L
+T287	Test 4774 4783	餐后 2 h 血糖
+T288	Disease 3641 3645	骨质疏松
+T289	Disease 3862 3863;3864 3867	骨 质疏松
+T290	Disease 4499 4503	骨质疏松
+T291	Disease 4845 4849	骨质疏松
+T292	Disease 5073 5077	骨质疏松
+T293	Disease 5241 5245	骨质疏松
+T294	Disease 5474 5479	骨质疏松症
+T295	Disease 5528 5532	骨质疏松
+T296	Disease 7383 7387	骨质疏松
+T297	Test 6745 6747	血糖
+T298	Drug 2124 2128	地塞米松
+T299	Drug 2238 2242	地塞米松
+T300	Drug 2267 2271	地塞米松
+T301	Drug 2301 2305	地塞米松
+T302	Disease 5 16	异位 ACTH 综合征
+T303	Disease 17 23	顽固性低血钾
+T304	Symptom 2371 2377	双肺下叶炎症
+T305	Symptom 2378 2384	双侧胸膜增厚
+T306	Amount 4516 4527	2 ~ 4 g / d
+T307	Symptom 4855 4860	双下肢麻木
+T308	Symptom 4861 4863	腰痛
+T309	Test_Value 4891 4906	23. 98 nmol / L
+T310	Test 4916 4920	血皮质醇
+T311	Test_Value 4921 4937	129. 81 nmol / L
+T312	Test 4946 4950	血皮质醇
+T313	Test_Value 4951 4958;4959 4967	185. 87 nmol / L
+T314	Test_Value 4987 5000	5. 1 mmol / L
+T315	Test_Value 5007 5012	5. 6%
+T316	Test 5015 5024	左侧髂骨增强 CT
+T317	Anatomy 5026 5029	髋关节
+T318	Drug 5056 5059	福善美
+T319	Drug 5060 5062	立庆
+T320	Drug 5063 5066	醋酸钙
+T321	Drug 5067 5070	密盖息
+T322	Test 5142 5144	血压
+T323	Test_Value 5145 5158	128 / 84 mmHg
+T324	Test_Value 5162 5167	58 kg
+T325	Test_Value 5171 5174;5175 5177	164 cm
+T326	Test_Value 5223 5236	8. 1 mmol / L
+T327	Test 5181 5185	血皮质醇
+T328	Test 5186 5190	ACTH
+T329	Test_Value 5199 5212	5. 1 mmol / L
+T330	Disease 5266 5271	库欣综合征
+T331	Disease 5298 5311	ACTH 依赖性库欣综合征
+T332	Disease 5327 5329;5330 5338	异位 ACTH 综合征
+T333	Disease 5348 5353	小细胞肺癌
+T334	Disease 5354 5359	支气管类癌
+T335	Disease 5376 5381	嗜铬细胞瘤
+T336	Disease 5382 5391	胰腺神经内分泌肿瘤
+T337	Disease 5393 5397	肠道类癌
+T338	Disease 5404 5414	异位 CRH 综合征
+T339	Disease 5419 5424	库欣综合征
+T340	Disease 5438 5445	异位库欣综合征
+T341	Disease 5467 5473	继发性糖尿病
+T342	Anatomy 5548 5550;5551 5560	下丘 脑-垂体-甲状腺轴
+T343	Disease 5574 5580;5581 5585	中枢性甲状腺 功能减退
+T344	Test 5213 5217;5218 5222	餐后 2 h 血糖
+T345	Anatomy 5597 5600	肾小管
+T346	Anatomy 5630 5637	11β-HSD
+T347	Anatomy 5618 5629	11β 羟类固醇脱氢酶
+T348	Anatomy 5649 5652	皮质醇
+T349	Anatomy 5653 5660	盐皮质激素受体
+T350	Anatomy 5665 5670	盐皮质激素
+T351	Anatomy 5701 5708	RASS 系统
+T352	Symptom 5727 5729	水肿
+T353	Symptom 5730 5732	乏力
+T354	Symptom 5748 5751	库欣貌
+T355	Symptom 5761 5764	低血钾
+T356	Test 5795 5799	血皮质醇
+T357	Test 5800 5804	ACTH
+T358	Test_Value 5805 5809	明显升高
+T359	Test 5810 5819	24 h 尿皮质醇
+T360	Test 5834 5836;5837 5846	小剂 量地塞米松抑制试验
+T361	Disease 5854 5859	库欣综合征
+T362	Test 5865 5876	大剂量地塞米松抑制试验
+T363	Test 5882 5888	垂体定位检查
+T364	Level 5915 5917	严重
+T365	Test 5932 5946	血浆醛固酮与血浆肾素活性比值
+T366	Test_Value 5946 5953	>40 : 1
+T367	Disease 5963 5972	原发性醛固酮增多症
+T368	Test 5983 5984;5985 5990	盐 水负荷实验
+T369	Test 5997 6003	卡托普利实验
+T370	Disease 6020 6026	原发性醛固酮
+T371	Test 6056 6061	血浆醛固酮
+T372	Disease 6070 6072;6073 6080	原发 性醛固酮增多症
+T373	Disease 6092 6097	库欣综合征
+T374	Symptom 6101 6106	低肾素活性
+T375	Test 6126 6128;6129 6130	血肾 素
+T376	Test 6131 6134	醛固酮
+T377	Test 6197 6200	PET
+T378	Test 6202 6208	髋关节 CT
+T379	Disease 6250 6257	异位 ACTH
+T380	Anatomy 6262 6266	左侧髂骨
+T381	Operation 6274 6279	穿刺活检术
+T382	Symptom 6308 6312	心率增快
+T383	Symptom 6313 6316	低血压
+T384	Symptom 6317 6319	休克
+T385	Symptom 6320 6322	高热
+T386	Symptom 6323 6326	低血糖
+T387	Test 6327 6331	ACTH
+T388	Test 6332 6334;6335 6336	皮质 醇
+T389	Disease 6348 6353	肾上腺危象
+T390	Test 6366 6368	CT
+T391	Test 6371 6374	PET
+T392	Disease 6444 6455	异位 ACTH 综合征
+T393	Disease 6465 6470	库欣综合征
+T394	Operation 6471 6478	双侧肾上腺切除
+T395	Symptom 6492 6493;6494 6495	发 热
+T396	Symptom 6496 6499	低血压
+T397	Symptom 6500 6502	休克
+T398	Disease 6503 6508	肾上腺危象
+T399	Disease 6535 6540	肾上腺危象
+T400	Disease 6548 6553	肾上腺危象
+T401	Anatomy 6588 6593	肾上腺皮质
+T402	Anatomy 6611 6618	垂体-肾上腺轴
+T403	Anatomy 6643 6647	ACTH
+T404	Anatomy 6650 6653	CRH
+T405	Disease 6666 6671	肾上腺危象
+T406	Anatomy 6692 6693;6694 6700	垂 体-肾上腺轴
+T407	Symptom 6719 6724	多血质面容
+T408	Symptom 6725 6728	满月脸
+T409	Symptom 6729 6732	水牛背
+T410	Disease 6733 6735;6736 6739	库欣 综合征
+T411	Symptom 6764 6769	电解质紊乱
+T412	Test 6772 6777	血清皮质醇
+T413	Disease 6860 6867	异位 ACTH
+T414	Anatomy 6873 6877	左侧髋骨
+T415	Test 6930 6934	ACTH
+T416	Disease 6991 6998	异位 ACTH
+T417	Drug 7031 7034	酮康唑
+T418	Anatomy 7041 7050	17-20 裂链酶
+T419	Anatomy 7051 7058	17α-羟化酶
+T420	Anatomy 7173 7177	ACTH
+T421	Anatomy 7181 7184	肾上腺
+T422	Anatomy 7186 7187;7188 7190	皮 质醇
+T423	Drug 7214 7217	酮康唑
+T424	Amount 7218 7234	400 ~ 600 mg / d
+T425	Drug 7256 7258;7259 7260	酮康 唑
+T426	Disease 7285 7288;7289 7290	低钾血 症
+T427	Disease 7291 7294	高血糖
+T428	Disease 7295 7298	高血压
+T429	Test 7307 7311	血皮质醇
+T430	Test 7312 7316	ACTH
+T431	Test 7317 7323;7324 7327	24 h 尿 皮质醇
+T432	Test_Value 7330 7334	明显偏高
+T433	Symptom 7364 7367	库欣貌
+T434	Drug 7390 7393	酮康唑
+T435	Disease 7397 7404	异位库欣综合征
+T436	Drug 7410 7413	酮康唑
+T437	Drug 7427 7430	酮康唑
+T438	Disease 7457 7462	库欣综合征
+T439	Disease 7475 7486	异位 ACTH 综合征
+T440	Disease 7496 7502;7503 7504	异位库欣综合 征
+T441	Operation 7523 7530;7531 7533	左侧髋骨穿刺活 检术
+T442	Disease 7539 7544	肾上腺危象
+T443	Anatomy 7605 7607	骨骼
+T444	Duration 723 726	6 年
+T445	Disease 2527 2529	感染
+T446	Level 2804 2806	减轻
+T447	Test 3788 3796	双侧髋关节 CT
+T448	Test 3843 3845	CT
+T449	Anatomy 3891 3892;3893 3896	骨 样组织
+T450	Test_Value 4212 4214	增快
+T451	Test_Value 4230 4232	下降
+T452	Test_Value 4628 4633	54 kg
+T453	Test_Value 4637 4643	161 cm
+T454	Test_Value 1599 1601	偏低
+T455	Test 1818 1822	血皮质醇
+T456	Test_Value 1823 1834;1835 1843	> 1 655. 31 nmol / L
+T457	Test 1871 1875	血皮质醇
+T458	Test_Value 1875 1894	>1 655. 31 nmol / L
+T459	Test 1922 1926	血皮质醇
+T460	Test_Value 1926 1945	>1 655. 31 nmol / L
+T461	Test 1964 1973	24 h 尿皮质醇
+T462	Test_Value 1973 1996	>4 634. 868 nmol / 24 h
+T463	Test 2011 2015	ACTH
+T464	Test_Value 2016 2027	365 pg / ml
+T465	Test 2101 2104	皮质醇
+T466	Test_Value 2385 2389	少量积液
+T467	Test_Value 2460 2466	可见真菌菌丝
+T468	Symptom 2534 2539	占位性病变
+T469	Operation 4815 4818	穿刺术
+T470	Operation 5112 5115	穿刺术
+T471	Duration 5086 5089	5 d
+T472	Duration 5248 5251	3 d
+T473	Test_Value 5715 5717	降低
+T474	Test 6160 6164	ACTH
+T475	Operation 6524 6527	穿刺术
+T476	Test 6576 6580	ACTH
+T477	Test 6583 6586	CRH
+T478	Test 7092 7096	血皮质醇
+T479	Symptom 7277 7284	内分泌代谢紊乱
+T480	Symptom 7368 7372	精神异常
+T481	Level 7381 7383	严重
+T482	Method 507 509	口服
+T483	Amount 509 512	小剂量
+T484	Disease 729 732	高血压
+T485	Anatomy 848 851	后颈部
+T486	Anatomy 852 854	右肩
+T487	Test 1075 1078	血常规
+T488	Test_Value 1376 1378	正常
+T489	Test_Value 1422 1424	正常
+T490	Test 2455 2456;2457 2460	真 菌镜检
+T491	Test 3285 3289	血气分析
+T492	Test_Value 3335 3337	正常
+T493	Duration 4341 4345	41 d
+T494	Frequency 4493 4495	qw
+T495	Symptom 4622 4624	神清
+T496	Test_Value 4749 4751	正常
+T497	Test_Value 4784 4797	8. 5 mmol / L
+T498	Test 4867 4874	皮质醇昼夜节律
+T499	Test_Value 4976 4978	正常
+T500	Test_Value 5191 5193	正常
+T501	Level 5756 5760	持久严重
+T502	Test_Value 5821 5823	升高
+T503	Test_Value 5831 5833	消失
+T504	Test_Value 5846 5851	不能被抑制
+T505	Test_Value 5876 5881	不能被抑制
+T506	Test_Value 6063 6065	不高
+T507	Test_Value 6137 6139	正常
+T508	Anatomy 7625 7627	髂骨
+T509	Test_Value 6934 6938	( -)
+T510	Test_Value 7342 7344	消失
+T511	Duration 7262 7266	1 个月
+T512	Duration 7248 7252	2 个月
+T513	Anatomy 7143 7155	阿片-促黑素细胞皮质素原
+T514	Symptom 484 488	体重增加
+T515	Test 1404 1407	AFP
+T516	Test 1418 1421	PSA
+T517	Test 1428 1434	尿本周氏蛋白
+T518	Test 1447 1449	肾素
+T519	Test 1486 1488	肾素
+T520	Test 1523 1526	醛固酮
+T521	Test 1558 1561	醛固酮
+T522	Test 1595 1597	肾素
+T523	Test 2417 2424	前列腺 B 超
+T524	Anatomy 2530 2534	左侧髂骨
+T525	Drug 2722 2727	门冬胰岛素
+T526	Drug 2728 2730;2731 2734	甘精 胰岛素
+T527	Symptom 2792 2798;2799 2802	颜面部及双下 肢水肿
+T528	Method 3238 3240	静脉
+T529	Method 3248 3250	口服
+T530	Test 3343 3346	ALB
+T531	Test_Value 3347 3355	29 g / L
+T532	Test 3370 3373	ALP
+T533	Test 3395 3398	PTH
+T534	Test 3422 3426	血皮质醇
+T535	Test 3446 3458	24 : 00 血皮质醇
+T536	Test_Value 3517 3523;3524 3531	76. 01 pg / ml
+T537	Anatomy 3553 3559;3560 3563	双侧小腿肌间 静脉丛
+T538	Reason 3564 3568	血栓形成
+T539	Test 3830 3832;3833 3840	左侧 髂骨穿刺活检术
+T540	Test 3823 3825	CT
+T541	Symptom 3925 3929	心率增快
+T542	Symptom 3948 3952	血压下降
+T543	Symptom 3972 3974	高热
+T544	Symptom 3986 3989	低血糖
+T545	Symptom 4099 4106	水、电解质紊乱
+T546	Symptom 4107 4110	低血糖
+T547	Method 4134 4136	静滴
+T548	Test_Value 4215 4226	119 次 / min
+T549	Drug 4466 4472	碳酸钙 D3
+T550	Amount 4473 4477	0. 6
+T551	Frequency 4478 4480	qd
+T552	Drug 4510 4513	氯化钾
+T553	Symptom 4692 4695	无压痛
+T554	Symptom 4697 4706	双下肢水肿较前减轻
+T555	Drug 6678 6683	糖皮质激素
+T556	Disease 26 30	骨质疏松
+T557	Disease 5029 5033	骨质疏松
+T558	Disease 5777 5783	椎体骨质疏松
+T559	Symptom 5752 5755	高血糖
+T560	Test 5563 5569	促甲状腺激素
+T561	Level 24 26	严重
+T562	Test_Value 1668 1675	醛固酮可被抑制
+T563	Test 2047 2060;2061 2062	地塞米松(1 mg)抑制试 验
+T564	Test 2063 2080	小剂量地塞米松(2 mg)抑制试验
+T565	Test 2081 2094;2095 2099	大剂量地塞米松(8 mg) 抑制试验
+T566	Test_Value 2407 2415	双侧胸腔未见积液
+T567	Test_Value 2426 2431	前列腺增生
+T568	Anatomy 2471 2474	后颈部
+T569	Anatomy 2475 2478	右肩部
+T570	Test 2478 2482	包块彩超
+T571	Test_Value 2515 2520;2521 2524	双肺斑片状 模糊影
+T572	Test 4886 4890	血皮质醇
+T573	Test 4969 4973	ACTH
+T574	Test 5484 5487	皮质醇
+T575	Test 5503 5505	尿钙
+T576	Test 5538 5541	皮质醇
+T577	Test 5593 5596	皮质醇
+T578	Test 5610 5613	皮质醇
+T579	Disease 5690 5694	低钾血症
+T580	Test 5710 5712	肾素
+T581	Disease 5733 5736	糖尿病
+T582	Disease 5765 5774;5775 5776	继发性甲状腺功能减 退
+T583	Disease 5784 5789	压缩性骨折
+T584	Test 5824 5831	皮质醇昼夜节律
+T585	Disease 5895 5906	异位 ACTH 综合征
+T586	Disease 5918 5922	低钾血症
+T587	Test 5925 5927	肾素
+T588	Test_Value 5929 5931	低下
+T589	Test 6008 6011	醛固酮
+T590	Disease 6107 6111	低钾血症
+T591	Test 6153 6158	血浆皮质醇
+T592	Anatomy 6212 6216	左侧髋骨
+T593	Anatomy 6395 6396;6397 6400	左 侧髂骨
+T594	Test 6401 6403	CT
+T595	Anatomy 6832 6836	左侧髂骨
+T596	Test 6944 6947	CRH
+T597	Anatomy 7059 7063;7064 7068	胆固醇侧 链裂解酶
+T598	Test 7083 7086	皮质醇
+T599	Anatomy 7107 7119	促肾上腺皮质激素肿瘤细胞
+T600	Test 7123 7127	ACTH
+T601	Test 7335 7342	皮质醇昼夜节律
+T602	Anatomy 7583 7587	左侧髋骨
+T603	Symptom 4608 4614	精神症状消失
+T604	Reason 3574 3578	血栓形成
+T605	Anatomy 5492 5494	小肠

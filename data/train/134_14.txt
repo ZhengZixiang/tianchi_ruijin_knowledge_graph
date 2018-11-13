@@ -1,0 +1,329 @@
+基础研究
+基金项目:国家自然科学基金项目(81100562、81170782)
+分泌科;第一作者现在苏州大学附属儿童医院内分泌科
+利拉鲁肽早期干预对高脂饮食追赶生长大鼠
+脂肪追赶生长的作用
+陈婷  陈璐璐  郑涓  朱颖  张皎月
+[摘要]   目的  观察长效胰升糖素样肽 1(GLP-1)受体激动剂利拉鲁肽早期干预对高脂饮食诱导的
+追赶生长大鼠脂肪追赶生长的影响,并探讨其可能机制。 方法 将 64 只 SD 大鼠分为 4 组:正常对照组、
+高脂饮食追赶生长组、追赶生长利拉鲁肽干预组和追赶生长利拉鲁肽及 Exendin(9-39)共干预组。 追赶生
+长各组大鼠先限食 4 周,再高脂饮食喂养 4 周,监测动物体重、能量摄入,分别在限食期末及追赶生长期末
+计算 Lee 指数,用双能 X 线吸收法检测大鼠身体组成,并处死部分动物取材,检测体脂分布及血脂水平。
+结果 在高脂追赶生长末期,利拉鲁肽干预大鼠体重、能量摄入、Lee 指数、体脂含量,躯干脂肪比、内脏脂
+肪体脂比、甘油三酯、游离脂肪酸、低密度脂蛋白胆固醇均明显低于未干预的追赶生长大鼠(均 P<0. 01),
+而利拉鲁肽及 Exendin(9-39)共干预大鼠能量摄入、身体组成、体脂含量及血脂水平均与追赶生长大鼠无
+显著差异,但其体重略低于追赶生长大鼠且有统计学差异(P<0. 01)。 结论 利拉鲁肽早期干预能阻止高
+脂饮食诱导的追赶生长大鼠出现脂肪追赶生长现象,该作用主要通过 GLP-1 受体通路实现。
+[关键词]   追赶生长; 高脂饮食; 胰升糖素样肽 1; 脂肪追赶生长
+Effect of liraglutide on catch-up fat in high-fat diet-induced catch-up growth rat model Chen Ting*, Chen
+Lulu, Zheng Juan, Zhu Ying, Zhang Jiaoyue. *Department of Endocrinology, Union Hospital, Tongji Medical
+College, Huazhong University of Science and Technology, Wuhan 430022, China
+[Abstract]  Objective  To investigate whether liraglutide treatment can prevent catch-up fat in high-fat diet-
+induced catch-up growth rats, and to discuss the possible underlying mechanisms. Methods Sixty-four Sprague-
+Dawley rats were stratified into 4 groups: normal control group, catch-up growth (CUG) group, catch-up growth with
+liraglutide treatment (CUGL) group, and catch-up growth with liraglutide plus exendin (9-39) treatment (CUGLE)
+group. All the catch-up growth animals underwent a 4 week high-fat diet re-feeding phase after a 4 week food restriction
+phase. Body weight and food intake were measured every day. At the end of food restriction and re-feeding, body
+composition was measured via Dual energy X-ray absorptiometry. After the rats were sacrificed, body fat distribution
+and plasma lipid levels were determined. Results By the end of catch-up growth, body weight, energy intake, Lee忆
+s index, fat body mass, visceral adipose tissue / body weight, subcutaneous adipose tissue / body weight, triglyceride,
+free fatty acid, low density lipoprotein-cholesterol levels were lower in CUGL rats compared with CUG rats ( all P<
+0. 01) . There were no significant differences in energy intake, body composition, fat body mass, and blood lipid
+levels between CUGLE rats and CUG rats, while the weight of CUGLE rats was significantly lower than CUG
+ones. Conclusions Liraglutide infusion protects rats with high-fat diet induced catch-up growth from catch-up fat
+mainly via a glucagon-like peptide-1 receptor dependent manner.
+[Key words]  Catch-up growth; High-fat diet; Glucagon-like peptide-1; Catch-up fat
+(Chin J Endocrinol Metab, 2014, 30: 417-421)
+追赶生长( catch-up growth, CUG)是指一过性的
+生长抑制后出现的快速生长现象。 近三十年,由于营
+养水平的快速提升,发展中国家普遍存在追赶生长现
+象,后者可能是这些地区 2 型糖尿病等以胰岛素抵抗
+为核心的慢性代谢性疾病高发的重要原因[1,2]。 追赶
+生长伴随体重迅速增长,且脂肪组织增长明显快于非
+脂肪组织,内脏脂肪沉积显著多于皮下脂肪[3,4],这种
+现象被称为脂肪追赶生长(catch-up fat)。 后者使胰岛
+素抵抗不断加重,是追赶生长导致慢性代谢性疾病的
+关键环节。
+胰升糖素样肽 1(GLP-1)是一种肠促胰素,可增强
+β 细胞功能,促进其增殖并抑制凋亡[5]。 同时,GLP-1
+还具有延缓胃排空,增加饱食感,抑制食欲,从而减轻
+体重的作用[6]。 天然有生物活性的 GLP-1 在循环中
+很快被二肽基肽酶 4(DPP-4)分解[5],因此,可抵抗
+DPP-4酶分解的利拉鲁肽(Liraglutide)等几种 GLP-1
+受体长效激动剂临床用以治疗 2 型糖尿病。
+本研究拟用利拉鲁肽早期干预高脂饮食诱导的追
+赶生长大鼠,观察 GLP-1 是否可阻止脂肪追赶生长发
+生;并用 GLP-1 受体拮抗剂 Exendin(9-39)阻断 GLP-1
+受体通路[7],观察利拉鲁肽对脂肪追赶生长的作用是
+否为 GLP-1 受体通路依赖。
+材料和方法
+一、 材料
+1. 实验动物:6 周龄雄性清洁级 SD 大鼠 64 只,购
+自华中科技大学同济医学院动物实验中心,体重
+180 ~ 200 g。
+2. 主要试剂:戊巴比妥钠购自美国 Sigma-aldrich
+公司,大鼠游离脂肪酸、血清甘油三酯(TG)、低密度脂
+蛋白胆固醇(LDL-C)和高密度脂蛋白胆固醇(HDL-C)
+试剂盒均购自南京建成生物工程研究所,大鼠胰岛素
+放射免疫试剂盒购自美国 Linco 公司。
+二、 方法
+1. 动物分组及饲养:64 只清洁级 SD 雄鼠,饲养
+于武汉协和医院实验动物部清洁级动物饲养中心,室
+温(22 ±2)益,相对湿度 60% ,明暗各 12 h,自由摄水。
+适应性喂养 1 周后按数字表法随机分成 4 组(每组 n=
+16):正常对照组(NC)、高脂饮食追赶生长组(CUG)、
+追赶生长利拉鲁肽干预组(CUGL)和追赶生长利拉鲁
+肽加 Exendin (9-39)干预组(CUGLE)。 在前 4 周,NC
+组自由摄取标准饲料(脂肪占 12% ,蛋白质占 22% ,碳
+水化合物占 66% ),而其余 3 组给予正常对照组同体
+重大鼠摄食量的 60% 。 从第 3 周末开始,CUGL 组给
+予利拉鲁肽(200 μg / kg,bid,均皮下注射),CUGLE 组
+给予利拉鲁肽和 Exendin(9-39)混合物[利拉鲁肽 200
+μg / kg, Exendin(9-39)100 μg / kg, bid],CUG 和 NC 组
+均给予生理盐水(200 μg / kg, bid)。 从第 4 周末开始,
+CUG、CUGL、CUGLE 组开始给予高脂饮食 (脂肪占
+59% 、蛋白质占 21% 、碳水化合物占 20% )。 每天称量
+大鼠的摄食量、体重及体长。 在 4 周和 8 周末,每组处
+死 8 只大鼠,取其血清及组织冻存。
+2. 肥胖程度评价:根据体重及身长计算 Lee 指
+数,计算公式:Lee 指数 = [体重1 / 3( g) ×1 000] /体长
+(cm)。
+3. 身体组成与体脂分布测定:各组大鼠在处死前
+随机取 4 只,称重后用 1% 戊巴比妥钠(40 mg / kg)静
+脉注射麻醉,将其四肢呈“大冶字形固定于平板。 应用
+双能 X 线吸收法 ( Dual energy X-ray absorptiometry,
+DEXA,GE Lunar 公司)扫描仪进行全身扫描,记录大
+鼠脂肪组织重量( fat tissue mass)、非脂肪组织重量
+(lean tissue mass),以及躯干脂肪比(躯干脂肪占全身
+脂肪重量的比例)。
+4. 脂肪堆积评价:在实验结束时,心脏采血处死
+大鼠,完整剥离其两侧肾周(PAT)、附睾(EAT)及腹股
+沟皮下(SAT)脂肪组织并称重。 其中内脏脂肪(VAT)
+体脂比为 PAT 及 EAT 之和与体重之比,SAT 体脂比为
+SAT 与体重之比。
+5. 血脂测定:血清 TG、游离脂肪酸(FFA),LDL-C
+及 HDL-C,均按试剂盒说明书用比色法测定。 空腹血
+糖用美国强生公司稳步倍加型血糖仪检测,胰岛素按
+试剂盒说明书用放射免疫法检测。
+三、 统计学处理
+本研究资料均采用 SPSS 13. 0 统计软件处理,数
+据以 x-± s 表示,多组间比较采用单因素方差分析,各组
+间两两比较采用 SNK-q 检验,P<0. 05 为差异有统计
+学意义。
+结    果
+一、 每周能量摄入量
+如表 1 所示,在热卡限制期,限食组能量摄入量如
+方法部分所述。 开放高脂饮食后,追赶生长大鼠能量
+摄入量快速增长,8 周末时与对照组无差异。 利拉鲁
+肽干预大鼠能量摄入量增长速度明显低于追赶生长组
+[(642 ±29 对 733 ±19)kcal, P <0. 01],8 周末时较追
+赶生长大鼠低 14. 9% 。 利拉鲁肽与 Exendin(9-39)共
+干预的追赶生长大鼠能量摄入与未干预的追赶生长大
+鼠相近(P>0. 05),明显高于利拉鲁肽干预大鼠(P<
+0. 01)。
+二、 追赶生长大鼠体重和体长
+实验开始后,对照组体重稳步增长,而摄食受限大
+表 1  不同时期各组大鼠每周能量摄入量(x-± s,kcal)
+Tab 1  Energy intake per week of rats in different groups at various
+periods (x-± s,kcal)
+组别
+Group
+鼠数
+n 2 w 4 w 6 w 8 w
+NC 16   691 ± 22   714 ± 23   742 ± 31   743 ± 35
+CUG 16   395 ± 13a   408 ± 14a   665 ± 19a   733 ± 19
+CUGL 16   385 ± 21a   391 ± 20a   574 ± 17ab   624 ± 29ab
+CUGLE 16   383 ± 8a   368 ± 14a   630 ± 13abc   693 ± 24ac
+注:NC:正常对照组 Normal control group;CUG:高脂饮食追赶生长
+组 Catch-up growth group;CUGL:追赶生长利拉鲁肽干预组 Catch-up
+growth with liraglutide treatment group; CUGLE: 追赶生长利拉鲁肽及
+Exendin(9-39)干预组 Catch-up growth with liraglutide and Exendin (9-39)
+treatment group;w:周 week;与 NC 组比较 vs NC group,aP<0. 01;与 CUG
+组比较 vs CUG group,bP<0. 01;与 CUGL 组比较 vs CUGL group,cP<0. 01
+鼠体重无明显改变。 开放高脂饮食后,追赶生长大鼠
+体重及体长均开始快速增长,在 8 周末体重已追赶上
+对照组[(413 ±14 对 441 ± 22)g, P>0. 05,图 1],但体
+长仍明显低于对照组(P<0. 01,图 2)。 利拉鲁肽干预
+大鼠开始高脂饮食后体重增长缓慢,8 周末体重显著
+低于追赶生长组[(318 ± 19 对 413 ± 14)g, P<0. 01],
+而体长与追赶生长大鼠无明显差异。 利拉鲁肽与
+Exendin(9-39)共干预大鼠体重明显高于利拉鲁肽干
+预大鼠,但略低于追赶生长大鼠且有统计学差异(均
+P<0. 01)。
+注:略语同表 1 The abbreviations are the same as Tab 1; 与 NC 组比较
+vs NC group,aP<0. 01;与 CUG 组比较 vs CUG group,bP<0. 01;与 CUGLE
+组比较 vs CUGLE group,cP<0. 01
+图 1  各组大鼠体重变化趋势图
+Fig 1  Changes of weight in catch-up growth rats
+注:略语同表 1 The abbreviations are the same as Tab 1; 与 CUG 组比
+较 vs CUG group,aP<0. 01;与 CUGL 组比较 vs CUGL group,bP<0. 01;与
+CUGLE 组比较 vs CUGLE group,cP<0. 01
+图 2  各组大鼠体长变化趋势图
+Fig 2  Changes of length in catch-up growth rats
+三、 Lee 指数
+在限食末,利拉鲁肽干预大鼠 Lee 指数显著低于
+对照组(P<0. 01,图 3)。 高脂饮食 4 周后,追赶生长
+组大鼠 Lee 指数显著高于对照组 (318. 0 ± 4. 6 对
+303. 0 ± 5. 0, P<0. 01),而利拉鲁肽干预大鼠 Lee 指数
+明显低于追赶生长组(293. 0 ± 4. 5, P<0. 01)。 利拉鲁
+注:略语同表 1 The abbreviations are the same as Tab 1; 与 NC 组比较
+vs NC group,aP<0. 01;与 CUG 组比较 vs CUG group,bP<0. 01;与 CUGLE
+组比较 vs CUGLE group,cP<0. 01
+图 3  各组大鼠 Lee 指数变化
+Fig 3  Changes of Lee忆s index in catch-up growth rats
+肽与 Exendin(9-39)共干预大鼠 Lee 指数与追赶大鼠
+相当(P=0. 52)。
+四、 身体组成与体脂分布
+在热卡限制期,各组间胖体重及瘦体重比例无明
+显差异(图 4A)。 开放高脂饮食 4 周后,追赶生长大鼠
+胖体重显著高于对照组,而瘦体重显著低于对照组
+(均 P<0. 01)。 利拉鲁肽干预大鼠胖体重显著低于追
+赶生长大鼠,而瘦体重显著高于追赶生长大鼠(均 P<
+0. 01)。 利拉鲁肽与 Exendin(9-39)共干预大鼠胖体
+重升高、而瘦体重显著下降(均 P<0. 01),其身体组成
+与追赶生长大鼠相似。
+注: lean mass:瘦体重; fat mass:胖体重;余略语同表 1 The other
+abbreviations are the same as Tab 1;与 NC 组比较 vs NC group,aP<0. 01;与
+CUG 组比较 vs CUG group,bP<0. 01;与 CUGL 组比较 vs CUGL group,cP<
+0. 01
+图 4  各组大鼠身体组成
+Fig 4  Body compositions of catch-up growth rats
+在热卡限制期,各组间躯干脂肪比无明显差异
+(图 4B)。 开放高脂饮食 4 周后,追赶生长大鼠躯干脂
+肪比显著高 于 对 照 组 [( 0. 79 ± 0. 05 对 0. 69 ±
+0. 03)% , P<0. 01],而利拉鲁肽干预后下降[(0. 67 ±
+0. 05)% ,均 P<0. 01]。 利拉鲁肽与 Exendin(9-39)共
+干预大鼠躯干脂肪比明显高于利拉鲁肽干预大鼠(P<
+0. 01),而与追赶生长大鼠相近。
+五、 脂肪堆积情况
+在限食期末,热卡限制大鼠 SAT 体脂比及 VAT 体
+脂比与对照组无差异(图 5)。 开放高脂饮食 4 周后,
+各组 SAT 体脂比仍无显著差异(均 P>0. 05,图 5A);
+追赶生长大鼠 VAT 体脂比显著高于对照组及利拉鲁
+肽干预大鼠[(2. 30 ± 0. 23 对 1. 70 ± 0. 20 和 1. 20 ±
+0. 17)% ,均 P<0. 01,图 5B],而利拉鲁肽与 Exendin
+(9-39)共干预大鼠 VAT 体脂比明显高于利拉鲁肽干
+预大鼠(P<0. 01)。
+注:VAT:内脏脂肪 Visceral adipose tissue; BW:体重 Body weight;
+SAT:皮下脂肪 Subcutaneous adipose tissue; 余略语同表 1 The other
+abbreviations are the same as Tab 1;与 NC 组比较 vs NC group,aP<0. 01;与
+CUG 组比较 vs CUG group,bP<0. 01;与 CUGL 组比较 vs CUGL group,cP<
+0. 01
+图 5  各组大鼠体脂堆积情况
+Fig 5  Assessment of adiposity in catch-up growth rats
+六、 血脂水平
+在热卡限制期,限食大鼠 TG 与 FFA 水平均显著
+低于对照组(均 P<0. 01,表 2),而 LDL-C 及 HDL-C 水
+平与对照组相近。 高脂饮食追赶 4 周后,追赶生长大
+鼠 TG、FFA 及 LDL-C 水平显著高于对照组,而 HDL-C
+水平显著低于对照组(均 P<0. 01);利拉鲁肽干预大
+鼠 TG、FFA 及 LDL-C 水平显著低于追赶生长大鼠,而
+HDL-C 水平显著高于追赶生长大鼠(均 P<0. 01)。 利
+表 2  各组大鼠血脂水平(x-± s)
+Tab 2  Plasma lipid levels of rats in different groups(x-± s)
+时间
+Time
+组别
+Group
+TG
+(mmol / L)
+FFA
+(μmol / L)
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L)
+4 w NC 0. 64 ± 0. 04 360 ± 21 1. 1 ± 0. 1 1. 5 ± 0. 2
+CUG 0. 51 ± 0. 05a 272 ± 25a 1. 2 ± 0. 1 1. 6 ± 0. 3
+CUGL 0. 49 ± 0. 05a 255 ± 19a 1. 1 ± 0. 2 1. 6 ± 0. 1
+CUGLE 0. 51 ± 0. 04a 268 ± 23a 1. 1 ± 0. 1 1. 5 ± 0. 1
+8 w NC 0. 65 ± 0. 04 380 ± 19 1. 3 ± 0. 2 1. 6 ± 0. 2
+CUG 1. 06 ± 0. 07a 530 ± 29a 3. 7 ± 0. 1a 0. 7 ± 0. 2a
+CUGL 0. 54 ± 0. 05ab 315 ± 23ab 1. 2 ± 0. 1b 1. 8 ± 0. 2b
+CUGLE 0. 76 ± 0. 07abc 470 ± 34abc 3. 2 ± 0. 2ac 0. 9 ± 0. 3ac
+注: TG:甘油三酯 Triglyceride; FFA:游离脂肪酸 Free fatty acid;
+LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;HDL-C:
+高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;余略语同表 1
+The other abbreviations are the same as Tab 1;与 NC 组比较 vs NC group,
+aP<0. 01;与 CUG 组比较 vs CUG group,b P<0. 01;与 CUGL 组比较 vs
+CUGL group,cP<0. 01
+拉鲁肽与 Exendin(9-39)共干预后 TG、FFA 及 LDL-C
+水平显著升高,而 HDL-C 水平降低(均 P<0. 01),与追
+赶生长大鼠相近。
+讨    论
+脂肪追赶生长以体脂含量迅速增加、内脏脂肪沉
+积明显、胰岛素抵抗及血脂紊乱为特点。 本研究中,高
+脂追赶 4 周的大鼠已表现出显著的脂肪追赶生长现
+象,表现为体重增加迅速而体长增加相对缓慢,Lee 指
+数显著升高,脂肪组织重量增加明显快于其他组织,且
+以分布于躯干部的内脏脂肪为主,同时伴有血脂紊乱。
+有研究报道,热卡限制 2 周后恢复普通饮食 2 周诱导
+的追赶生长大鼠已表现出脂肪组织快速增长[8],而本
+研究中高脂饮食 4 周诱导的追赶生长大鼠脂肪追赶现
+象更显著。 快速沉积的内脏脂肪组织会分泌大量损伤
+组织器官的脂源性细胞因子,促进肝脏内质网应激水
+平上调及骨骼肌线粒体功能障碍,导致全身胰岛素抵
+抗和高胰岛素血症[2-4],进而引起血脂紊乱,2 型糖尿
+病及心脑血管疾病等代谢综合征表现。
+GLP-1 是由肠道 L 细胞分泌的肠促胰素,除改善
+胰岛功能外,具有抑制摄食,减轻体重的作用[5,6,9]。
+本实验中,利拉鲁肽阻止了追赶生长大鼠体重的迅速
+增长,但并不影响其体长增长,从而阻止了 Lee 指数升
+高即肥胖发生。 有研究表明,GLP-1 主要通过抑制食
+欲,增加胃部饱胀感,进而减少进食量来减轻体重[5]。
+本研究也观察到利拉鲁肽干预大鼠进食量较追赶生长
+大鼠减少了 15% ,并且与限食末相比,高脂饮食 4 周
+后追赶生长组和利拉鲁肽干预组大鼠能量摄入分别增
+加了 79. 6%和 59. 6% ,而其体重增加分别为 31. 1%和
+9. 1% ,追赶生长组大鼠能量摄入的增加量约是利拉鲁
+肽干预组大鼠的 1. 3 倍,但其体重增加量是利拉鲁肽
+干预组大鼠的 3. 4 倍。 因此,GLP-1 对体重增长的抑
+制作用可能不仅是通过减少摄食量来实现的。 有研究
+表明,利拉鲁肽长期干预不但能增加糖尿病患者能量
+消耗[6],还能阻止限食导致的能量消耗降低[9]。 由于
+限食后能量消耗降低正是开放饮食后体重迅速增长的
+重要原因之一,因此利拉鲁肽尚可能通过维持追赶生
+长动物能量消耗水平来抵制体重迅速增加。
+本研究中,利拉鲁肽干预阻止了追赶生长大鼠出
+现脂肪组织快速沉积。 Larsen 等[9]曾将利拉鲁肽干预
+大鼠与体重相当大鼠配对喂养,使其进食量相同,结果
+发现 2 组大鼠体重均明显减轻,但利拉鲁肽组大鼠体
+脂含量显著低于配对组。 因此,GLP-1 对体脂的作用
+与单纯节食是不同的。 研究表明,GLP-1 能增加肌肉
+的葡萄糖摄取,促进糖原的生成,抑制内源性葡萄糖生
+成,加快葡萄糖清除[10,11]。 最新研究表明,高于生理
+浓度的 GLP-1 受体激动剂能通过激活 GLP-1 受体通
+路增加脂肪分解以降低体脂含量[12]。 因此,GLP-1 能
+通过减少循环中的脂肪组织合成底物葡萄糖,增加脂
+肪分解等途径阻止脂肪追赶生长。 研究表明,利拉鲁
+肽干预 4 周可明显减轻肥胖动物内脏脂肪重量[13]。
+在一项临床试验中,短期使用利拉鲁肽可显著减低肥
+胖患者的腰围、腰臀比及内脏脂肪含量[14]。 本研究也
+观察到,利拉鲁肽干预明显阻止了追赶生长大鼠出现
+躯干部脂肪比例及内脏脂肪比例升高。 因此,利拉鲁
+肽对追赶生长所致的向心性肥胖和内脏脂肪堆积有很
+好的预防作用。
+本研究中,GLP-1 受体拮抗剂 Exendin(9-39)与利
+拉鲁肽共干预大鼠在开放高脂饮食后也出现了进食
+量、体重、体脂含量,特别是内脏脂肪的迅速增长,表明
+利拉鲁肽抑制脂肪追赶生长的作用是 GLP-1 受体±
+赖的。 本研究中,高脂追赶 4 周后 Exendin(9-39)与利
+拉鲁肽共干预大鼠进食量和追赶生长大鼠无差异,但
+其体重却稍低于追赶生长大鼠且有统计学意义。 利拉
+鲁肽减轻体重的作用主要是通过抑制食欲和调控能量
+消耗实现的[15],本研究所用 Exendin(9-39)剂量足以
+拮抗利拉鲁肽抑制食欲的作用[9],但由于 Exendin(9-
+39)对能量消耗的影响研究甚少,其是否能拮抗利拉
+鲁肽调节能耗的作用尚不明确。 另一方面,天然
+GLP-1 存在受体外作用,其代谢产物 GLP-1(9-36)不
+能激活 GLP-1 受体,但有减轻体重、舒张血管平滑肌、
+增加心肌葡萄糖摄入、减少心肌缺血-再灌注损伤、减
+少肝脏糖异生等作用[16-18]。 利拉鲁肽可抵抗 DPP-4
+酶分解,其代谢产物不同于天然 GLP-1,因此,其是否
+存在受体外作用仍需进一步研究明确。
+综上所述,本研究发现 GLP-1 受体长效激动剂利
+拉鲁肽早期干预,可预防追赶生长过程中出现的以体
+重迅速增长、向心性肥胖、内脏组织堆积及血脂紊乱等
+为特点的脂肪追赶生长现象,其作用主要通过 GLP-1
+受体通路实现。 本研究可望为追赶生长相关慢性代谢
+性疾病的防治提供新的思路。

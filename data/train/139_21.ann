@@ -1,0 +1,521 @@
+T1	Disease 44 49	甲状腺结节
+T2	Disease 77 82	甲状腺结节
+T3	Test 101 107	高分辨率超声
+T4	Test 119 125	细针穿刺活检
+T5	Disease 126 131	甲状腺结节
+T6	Test 147 154	甲状腺穿刺活检
+T7	Disease 219 224	甲状腺结节
+T8	Disease 231 238	甲状腺乳头状癌
+T9	Disease 266 271	甲状腺结节
+T10	Disease 1663 1668	甲状腺结节
+T11	Disease 1706 1711	甲状腺结节
+T12	Symptom 1723 1725	怕热
+T13	Symptom 1726 1728	心慌
+T14	Symptom 1729 1731	手抖
+T15	Symptom 1733 1737	体重下降
+T16	Symptom 1739 1741	怕冷
+T17	Symptom 1742 1744	嗜睡
+T18	Symptom 1745 1747	淡漠
+T19	Symptom 1749 1751	声嘶
+T20	Symptom 1752 1756	吞咽困难
+T21	Test 1887 1892;1893 1898	甲状腺球蛋 白(Tg)
+T22	Test 1960 1978	抗甲状腺过氧化物酶抗体(TPOAb)
+T23	Test 1999 2004	甲状腺彩超
+T24	Test 2277 2279	脉搏
+T25	Disease 2429 2434	甲状腺结节
+T26	Disease 2450 2455	甲状腺结节
+T27	Disease 2462 2467	甲状腺结节
+T28	Disease 2481 2491	甲状腺意外或偶发结节
+T29	Disease 2533 2537	甲状腺病
+T30	Test 2546 2551	甲状腺功能
+T31	Test 2552 2554	Tg
+T32	Test 2555 2559	TgAb
+T33	Test 2562 2567	TPOAb
+T34	Test 2591 2593;2594 2597	甲状 腺彩超
+T35	Disease 2677 2682	甲状腺结节
+T36	Disease 2691 2693;2694 2697	甲状 腺结节
+T37	Test 2712 2718	高分辨率超声
+T38	Disease 2769 2774	甲状腺结节
+T39	Disease 2784 2789	甲状腺结节
+T40	Disease 2839 2846	甲状腺恶性结节
+T41	Reason 2857 2863	头颈部放射史
+T42	Reason 2877 2896	多发性内分泌腺瘤病 2 型(MEN2)
+T43	Reason 2897 2902;2903 2905	乳头状甲状 腺癌
+T44	Reason 2910 2917	甲状腺癌综合征
+T45	Reason 2920 2930	Cowden 综合征
+T46	Reason 2931 2939;2940 2942	Carney 综 合征
+T47	Reason 2943 2952	Wener 综合征
+T48	Reason 2954 2965	Gardner 综合征
+T49	Disease 3092 3097	甲状腺疾病
+T50	Disease 3121 3126	甲状腺结节
+T51	Disease 3127 3137	多发性结节性甲状腺肿
+T52	Test 3168 3170;3171 3180	计算 机断层扫描(CT)
+T53	Test 3181 3191	磁共振成像(MRI)
+T54	Test 3192 3201;3202 3211	正电子发射计算机断 层扫描( PET)
+T55	Disease 3215 3222	甲状腺偶发结节
+T56	Test 3227 3231	FNAB
+T57	Test 3234 3240	UGFNAB
+T58	Test 3246 3253	甲状腺超声检查
+T59	Test 3255 3261	高分辨率超声
+T60	Disease 3265 3270	甲状腺疾病
+T61	Disease 3281 3286	甲状腺结节
+T62	Disease 3340 3345	甲状腺结节
+T63	Disease 3346 3351;3352 3354	弥漫性甲状 腺肿
+T64	Disease 3360 3368	甲状腺 FNAB
+T65	Disease 3425 3430	甲状腺结节
+T66	Disease 3451 3456	甲状腺结节
+T67	Test 3461 3464	TSH
+T68	Test 3472 3475	TSH
+T69	Test 3482 3485	FT3
+T70	Test 3486 3489	FT4
+T71	Test 3500 3503	FT4
+T72	Test 3506 3511	TPOAb
+T73	Test 3513 3518	TPOAb
+T74	Disease 3525 3529;3530 3535	自身免疫 性甲状腺炎
+T75	Test 3536 3540	TgAb
+T76	Disease 3553 3559;3560 3565	慢性淋巴细胞 性甲状腺炎
+T77	Test 3567 3572	TPOAb
+T78	Disease 3585 3590	甲状腺结节
+T79	Test 3577 3579	Tg
+T80	Test 3635 3639	TgAb
+T81	Test 3647 3655;3656 3657	促甲状腺素受体抗 体
+T82	Test 3661 3664	TSH
+T83	Test 3672 3675	降钙素
+T84	Disease 3692 3697	甲状腺结节
+T85	Disease 3703 3710	结节性甲状腺肿
+T86	Test 3717 3720	降钙素
+T87	Disease 3736 3739	MTC
+T88	Disease 3740 3744	MEN2
+T89	Test 3751 3754	降钙素
+T90	Test 3757 3760	降钙素
+T91	Test 3805 3806;3807 3808	超 声
+T92	Anatomy 3810 3813	甲状腺
+T93	Disease 3815 3821	甲状旁腺腺瘤
+T94	Test 3826 3828	血钙
+T95	Test 3829 3833;3834 3835	甲状旁腺 素
+T96	Test 3840 3842	超声
+T97	Disease 3849 3851	结节
+T98	Test 3978 3982;3983 3984	甲状腺超 声
+T99	Test 4038 4040	超声
+T100	Test 4114 4121	颈部淋巴结超声
+T101	Test 4214 4220	UGFNAB
+T102	Test 4238 4242	FNAB
+T103	Disease 4251 4256	甲状腺结节
+T104	Test 4358 4362	FNAB
+T105	Test 4398 4404	UGFNAB
+T106	Test 4427 4433	UGFNAB
+T107	Test 4463 4469	UGFNAB
+T108	Test 4477 4483	UGFNAB
+T109	Test 4491 4497	UGFNAB
+T110	Disease 4500 4504	甲状腺癌
+T111	Disease 4635 4642	甲状腺滤泡状癌
+T112	Disease 4643 4645;4646 4650	滤泡 细胞腺瘤
+T113	Disease 4652 4655	髓样癌
+T114	Test 4676 4682	UGFNAB
+T115	Test 4702 4704	超声
+T116	Disease 4749 4756	分化型甲状腺癌
+T117	Disease 4757 4760	MTC
+T118	Disease 4763 4767	MEN2
+T119	Test 4792 4793;4794 4796	降 钙素
+T120	Test 4939 4944	病理学检查
+T121	Test 4955 4961	UGFNAB
+T122	Test 4971 4978	甲状腺核素显像
+T123	Test 4996 4998	超声
+T124	Test 5011 5013	超声
+T125	Test 5032 5038	UGFNAB
+T126	Test 5109 5116	囊液细胞学检查
+T127	Disease 5120 5125	颈部淋巴病
+T128	Test 5127 5131	FNAB
+T129	Anatomy 5141 5146	颈部淋巴结
+T130	Test 5153 5159	UGFNAB
+T131	Test 5192 5198	UGFNAB
+T132	Test 5208 5221;5222 5228	超声引导下甲状腺粗针穿刺活 检(CNB)
+T133	Test 5239 5242	CNB
+T134	Disease 5245 5250	未分化肿瘤
+T135	Disease 5251 5254;5255 5258	甲状腺 淋巴瘤
+T136	Disease 5259 5265	病理性淋巴结
+T137	Test 5288 5290	穿刺
+T138	Test 5301 5303	穿刺
+T139	Disease 5366 5371	甲状腺结节
+T140	Disease 5457 5460	PTC
+T141	Disease 5489 5492	MTC
+T142	Disease 5510 5514	退行性癌
+T143	Disease 5515 5517	肉瘤
+T144	Disease 5518 5521	淋巴瘤
+T145	Test 5526 5531	流式细胞术
+T146	Test 5533 5540	免疫细胞学检查
+T147	Disease 5541 5550	颈部非霍奇金淋巴瘤
+T148	Test 5591 5596	甲状腺彩超
+T149	Test 5630 5632	甲功
+T150	Test 5634 5636	Tg
+T151	Test 5637 5641	TgAb
+T152	Test 5644 5649	TPOAb
+T153	Test 5656 5658	彩超
+T154	Test 5729 5735	UGFNAB
+T155	Test 5742 5748	UGFNAB
+T156	Test 5758 5767	甲状腺右叶穿刺涂片
+T157	Disease 5921 5925	乳头状癌
+T158	Disease 5956 5961	甲状腺结节
+T159	Disease 5976 5983	恶性甲状腺结节
+T160	Disease 6055 6061;6062 6063	良性甲状腺结 节
+T161	Test 6079 6081	超声
+T162	Test 6107 6113	UGFNAB
+T163	Frequency 6116 6127	每 6 ~ 18 个月
+T164	Test 6134 6140	UGFNAB
+T165	Test 6203 6209	UGFNAB
+T166	Symptom 6251 6255	结节固定
+T167	Symptom 6256 6263	颈部淋巴结肿大
+T168	Disease 6279 6284	囊实性结节
+T169	Test 6306 6312	UGFNAB
+T170	Disease 6336 6343	良性甲状腺结节
+T171	Disease 6351 6356;6357 6360	小结节性甲 状腺肿
+T172	Drug 6381 6384;6385 6388	左旋甲 状腺素
+T173	Test 6399 6402	TSH
+T174	Drug 6410 6416	左旋甲状腺素
+T175	Test 6433 6436	TSH
+T176	Test 6444 6447	TSH
+T177	Test 6482 6485	TSH
+T178	Test 6579 6581	超声
+T179	Operation 6634 6645	甲状腺叶切除加峡部切除
+T180	Disease 6646 6650;6651 6661	多结节性 甲状腺肿(MNGs)
+T181	Operation 6663 6673	甲状腺(次)全切除术
+T182	Disease 6680 6681;6682 6686	甲 状腺结节
+T183	Operation 6711 6723	全 /近全甲状腺切除术式
+T184	Operation 6725 6733	良性甲状腺结节术
+T185	Test 6766 6773	FNAB 活检
+T186	Test 6870 6876	UGFNAB
+T187	Drug 6879 6883	放射性碘
+T188	Drug 6889 6894	含碘造影剂
+T189	Drug 6896 6900	碘化药物
+T190	Drug 6906 6912	抗甲状腺药物
+T191	Test 6959 6963	妊娠试验
+T192	Test 6976 6978	甲功
+T193	Disease 6994 6996	甲亢
+T194	Test 7029 7036	甲状腺核素显像
+T195	Disease 7071 7072;7073 7074	甲 减
+T196	Drug 7080 7086	左旋甲状腺素
+T197	Disease 7159 7163	MNGs
+T198	Disease 7235 7240	甲状腺结节
+T199	Disease 7283 7290	甲状腺乳头状癌
+T200	Anatomy 7295 7298	甲状腺
+T201	Anatomy 7298 7300	乳腺
+T202	Operation 7309 7330;7331 7343	“甲状腺右叶+峡部切除+右侧中央区淋巴结清 扫+甲状旁腺自体移植冶术
+T203	Anatomy 7349 7356	甲状腺右叶中份
+T204	Disease 7496 7500	乳头状癌
+T205	Anatomy 7489 7494	甲状腺右叶
+T206	Disease 7536 7543;7544 7549	甲状腺右叶及峡 部乳头状癌
+T207	Drug 7574 7575;7576 7578	优 甲乐
+T208	Disease 7600 7610;7611 7620	甲状腺右叶微小乳头状 癌(T1N0M0)
+T209	Disease 7644 7649	甲状腺结节
+T210	Disease 7671 7674	糖尿病
+T211	Test 7678 7680	超声
+T212	Disease 7688 7693	甲状腺结节
+T213	Disease 7770 7775	甲状腺结节
+T214	Disease 7841 7848	甲状腺单发结节
+T215	Disease 7861 7865;7866 7869	甲状腺多 发结节
+T216	Disease 7884 7889	甲状腺结节
+T217	Disease 7900 7905	甲状腺结节
+T218	Disease 7967 7972	甲状腺结节
+T219	Disease 7974 7976	甲亢
+T220	Disease 7977 7979	甲减
+T221	Disease 7994 7999	甲状腺结节
+T222	Symptom 8002 8006	颈部压迫
+T223	Symptom 8007 8009	声嘶
+T224	Symptom 8010 8014	吞咽困难
+T225	Disease 8029 8034	甲状腺结节
+T226	Disease 8073 8083	良性和恶性甲状腺结节
+T227	Disease 8131 8136	甲状腺结节
+T228	Test 8157 8163	高分辨率超声
+T229	Test 8191 8201	UGFNAB 细胞学
+T230	Disease 8243 8248	甲状腺结节
+T231	Disease 8359 8364	滤泡细胞癌
+T232	Disease 8365 8368	髓样癌
+T233	Disease 8418 8423	甲状腺结节
+T234	Test 8450 8456	UGFNAB
+T235	Test 8505 8510	甲状腺抗体
+T236	Disease 8513 8518	甲状腺结节
+T237	Drug 8519 8522	强的松
+T238	Disease 8537 8544	亚急性甲状腺炎
+T239	Disease 8545 8550	甲状腺结节
+T240	Drug 8563 8566	强的松
+T241	Disease 8594 8601	结节性甲状腺肿
+T242	Disease 8610 8616;8617 8618	恶性甲状腺结 节
+T243	Drug 8618 8621	强的松
+T244	Disease 8627 8632	颈部淋巴病
+T245	Disease 8634 8640	甲状腺淋巴瘤
+T246	Drug 8641 8644	强的松
+T247	Drug 8659 8662	强的松
+T248	Disease 8667 8672	甲状腺结节
+T249	Disease 8717 8720;8721 8723	甲状腺 结节
+T250	Disease 8770 8775	甲状腺结节
+T251	Test 8788 8795	甲状腺超声检查
+T252	Test 8826 8828	穿刺
+T253	Disease 8868 8875	恶性甲状腺结节
+T254	Test 8900 8905	甲状腺超声
+T255	Anatomy 8928 8931	甲状腺
+T256	Test 8977 8984	分子生物学技术
+T257	Test 8985 8989	基因技术
+T258	Disease 8990 8995	甲状腺结节
+T259	Disease 9042 9047	甲状腺结节
+T260	Disease 9070 9074;9075 9076	甲状腺结 节
+T261	Disease 9086 9090	恶性结节
+T262	Test 9096 9098	超声
+T263	Test 4068 4071	TSH
+T264	Test 6494 6497	TSH
+T265	Test 6741 6744	TSH
+T266	Disease 12 17	甲状腺结节
+T267	Disease 54 61	内分泌代谢疾病
+T268	Disease 66 68	结节
+T269	Test 97 99	查体
+T270	Operation 241 245	手术治疗
+T271	Test 1700 1702	查体
+T272	Disease 3151 3155	恶性病变
+T273	Test 3543 3545	超声
+T274	Disease 4695 4697	结节
+T275	Test 4834 4836	超声
+T276	Test 4936 4938	穿刺
+T277	Test 5076 5078	超声
+T278	Test 5293 5295	穿刺
+T279	Operation 5986 5990	手术治疗
+T280	Test 6094 6096	超声
+T281	Test 6267 6269	超声
+T282	Disease 6371 6378	自主功能性病变
+T283	Symptom 6554 6560	局部压迫症状
+T284	Disease 6563 6570	既往体外放射史
+T285	Disease 6571 6578	结节进行性增大
+T286	Operation 6615 6619	手术治疗
+T287	Operation 7214 7218	手术治疗
+T288	Operation 7305 7307	全麻
+T289	Disease 7486 7488	肿瘤
+T290	Disease 7654 7661	内分泌代谢疾病
+T291	Test 7740 7746	高分辨率超声
+T292	Test 8266 8268	穿刺
+T293	Drug 8582 8585	强的松
+T294	Test 8710 8712	穿刺
+T295	Test 8800 8802	超声
+T296	Test 9028 9030	穿刺
+T297	Duration 1669 1672;1673 1674	2 个 月
+T298	Test_Value 1802 1815	2. 020 mU / L
+T299	Test_Value 1856 1871	13. 99 pmol / L
+T300	Test_Value 1898 1911	19. 67 μg / L
+T301	Test_Value 1939 1953	20. 27 IU / ml
+T302	Test_Value 1979 1984;1985 1992	5. 00 IU / ml
+T303	Test_Value 2018 2020;2021 2023	12 mm
+T304	Test 2024 2027	上下径
+T305	Test_Value 2029 2034	46 mm
+T306	Test 2035 2038	左右径
+T307	Test_Value 2040 2045	15 mm
+T308	Test 2046 2052	左侧叶前后径
+T309	Test_Value 2054 2058	9 mm
+T310	Test 2060 2063	上下径
+T311	Test_Value 2065 2070	46 mm
+T312	Test 2071 2074	左右径
+T313	Test_Value 2076 2081	15 mm
+T314	Test 2082 2084	峡部
+T315	Test_Value 2087 2091	2 mm
+T316	Test 2244 2249	甲状腺显像
+T317	Test_Value 2280 2290	74 次 / min
+T318	Test 2577 2582	甲状腺触诊
+T319	Test_Value 2606 2611	<1 cm
+T320	Reason 2972 2977;2978 2985	年龄<14 岁或>70 岁
+T321	Reason 2989 2996	生长迅速的结节
+T322	Reason 2997 3008;3009 3016	质地坚硬、形状不规则及 活动度差的结节
+T323	Test_Value 3865 3869	混合回声
+T324	Test_Value 3894 3898	微小钙化
+T325	Test 4309 4313	FNAB
+T326	Test 4317 4323	UGFNAB
+T327	Test 4663 4667	基因诊断
+T328	Anatomy 4721 4726	颈部淋巴结
+T329	Anatomy 4715 4717	包膜
+T330	Treatment 4924 4934	囊肿内注射硬化剂治疗
+T331	Anatomy 5323 5325	腺泡
+T332	Test 5883 5894;5895 5898	BRAF(V600E) 点突变
+T333	Test 5901 5915	RET / PTC 融合基因
+T334	Test_Value 5915 5917	阴性
+T335	Test_Value 5898 5900	阳性
+T336	Test 5838 5844	HBME-1
+T337	Test_Value 5844 5848	( +)
+T338	Test 5850 5854	CK19
+T339	Test_Value 5854 5857	(+)
+T340	Test_Value 5871 5875	( +)
+T341	Anatomy 6011 6014	淋巴结
+T342	Test_Value 6162 6165	50%
+T343	Test_Value 6184 6187	20%
+T344	Operation 6420 6427	甲状腺侧叶切除
+T345	Test_Value 6461 6479	0. 4 ~ 0. 6 mU / L
+T346	Test_Value 6501 6513	<0. 1 mU / L
+T347	Test_Value 6599 6604	>4 cm
+T348	Test 6786 6792	术中冰冻切片
+T349	Duration 6915 6918	1 周
+T350	Duration 6924 6927	1 周
+T351	Duration 6985 6993	4 ~ 6 个月
+T352	Disease 7116 7125	良性甲状腺囊性结节
+T353	Treatment 7185 7191;7192 7196	影像学引导下 的热烧蚀
+T354	Test 7275 7282	分子生物学诊断
+T355	Test 7266 7269	病理学
+T356	Test 7270 7273	基因学
+T357	Test_Value 7363 7378	0. 6 cm×0. 8 cm
+T358	Anatomy 7433 7438	甲状腺左叶
+T359	Anatomy 7444 7449	右侧中央区
+T360	Anatomy 7450 7452	气管
+T361	Anatomy 7460 7463	淋巴结
+T362	Test 7465 7471	术中冰冻病理
+T363	Anatomy 7475 7481	气管前淋巴结
+T364	Test 7518 7533	术中冰冻及术后剩余组织石蜡切片
+T365	Anatomy 7553 7555	包膜
+T366	Anatomy 7556 7559	淋巴结
+T367	Amount 7579 7587	50 μg qd
+T368	Symptom 7920 7924	颈部包块
+T369	Disease 8048 8051;8052 8054	甲状腺 结节
+T370	Test 8491 8494;8495 8496	分子诊 断
+T371	Test_Value 8510 8512	阳性
+T372	Test_Value 2104 2133;2134 2136	右侧叶中份查见大小约 6 mm×6 mm×6 mm 弱回声 结节
+T373	Test_Value 2137 2142	边界欠清楚
+T374	Test_Value 2143 2148	形态较规则
+T375	Test_Value 2149 2156	内部回声不均匀
+T376	Test_Value 2157 2162;2163 2168	可见数个点 片状强回声
+T377	Test_Value 2169 2180	周边可见点线状血流信号
+T378	Test_Value 2181 2190	内未见明显血流信号
+T379	Test_Value 2192 2204	左侧叶及峡部未见团块回声
+T380	Test_Value 2205 2216	双侧颈部未见长大淋巴结
+T381	Symptom 2328 2333	颈部无疤痕
+T382	Test_Value 2584 2589	未触及结节
+T383	Test_Value 2613 2618	边界欠清楚
+T384	Test_Value 2619 2624;2625 2628	伴数个点片 状钙化
+T385	Test_Value 2643 2645	正常
+T386	Test 2599 2604	结节的直径
+T387	Test_Value 3476 3478	降低
+T388	Test_Value 3495 3497	升高
+T389	Test_Value 3762 3764	升高
+T390	Test_Value 3918 3926	不规则或小叶边缘
+T391	Test_Value 4002 4010;4011 4020	由多个小囊泡占据 50%以上结节体积
+T392	Test_Value 4021 4030	呈海绵状表现的结节
+T393	Test_Value 4052 4059	实性低回声结节
+T394	Test_Value 4060 4067	结节内血供丰富
+T395	Test_Value 4077 4082	边缘不规则
+T396	Test_Value 4083 4087	晕圈缺如
+T397	Test_Value 4088 4092	微小钙化
+T398	Test_Value 4093 4103;4104 4109	针尖样弥散分布或簇状 分布的钙化
+T399	Test_Value 4127 4131;4132 4133	淋巴结圆 形
+T400	Test_Value 4134 4142	边界不规则或模糊
+T401	Test_Value 4143 4150	内部回声不均匀
+T402	Test_Value 4151 4155	内部钙化
+T403	Test_Value 4156 4160;4161 4164	皮髓质分 界不清
+T404	Test_Value 4165 4174	淋巴门消失或囊性变
+T405	Test_Value 4363 4366	假阴性
+T406	Test_Value 4405 4408	假阴性
+T407	Test_Value 4435 4438	假阴性
+T408	Test_Value 4685 4693	大于 10 mm
+T409	Test 4683 4685	直径
+T410	Test_Value 4798 4800	升高
+T411	Test_Value 4804 4812	小于 10 mm
+T412	Test 4802 4804	直径
+T413	Test_Value 4912 4918	>20 mm
+T414	Test 4910 4912	直径
+T415	Test_Value 5692 5699	内部回声不均匀
+T416	Test_Value 5701 5706	边界欠清楚
+T417	Test_Value 5706 5714;5715 5720	可见数个点片状强 回声即钙化
+T418	Test 6595 6599	结节直径
+T419	Symptom 7200 7204	压迫症状
+T420	Symptom 7402 7411	结节包膜较厚伴钙化
+T421	Symptom 7412 7427;7428 7431	结节内部呈黄白色鱼肉样改变及部 份钙化
+T422	Symptom 7390 7394	包膜完整
+T423	Symptom 7385 7389	边界清楚
+T424	Symptom 7382 7384	质中
+T425	Symptom 7379 7381	包块
+T426	Test_Value 8560 8562	升高
+T427	Test 8850 8852	穿刺
+T428	Test 108 118	促甲状腺激素水平测定
+T429	Anatomy 1761 1762;1763 1765	甲 状腺
+T430	Test 1778 1787	甲状腺功能(甲功)
+T431	Test 1790 1792;1793 1802	促甲 状腺激素(TSH)
+T432	Test 1845 1856	游离甲状腺素(FT4)
+T433	Test 1923 1938	抗甲状腺球蛋白抗体(TgAb)
+T434	Anatomy 2007 2010	甲状腺
+T435	Test_Value 2093 2097;2098 2103	甲状腺实 质回声均匀
+T436	Anatomy 2224 2230	甲状腺右侧叶
+T437	Test 2291 2292;2293 2294	血 压
+T438	Test_Value 2295 2308	112 / 76 mmHg
+T439	Symptom 2334 2338;2339 2342	局部无血 管曲张
+T440	Symptom 2343 2348	无皮肤破溃
+T441	Symptom 2350 2358	甲状腺无明显肿大
+T442	Symptom 2359 2366	双侧甲状腺质中
+T443	Symptom 2367 2368;2369 2375	未 扪及明显肿块
+T444	Symptom 2376 2386	颈部淋巴结未扪及长大
+T445	Symptom 2388 2396;2397 2398	心肺及腹部查体阴 性
+T446	Disease 2493 2500	甲状腺功能亢进
+T447	Disease 2506 2513	甲状腺功能减退
+T448	Symptom 2524 2529;2530 2531	结节压迫症 状
+T449	Test 2638 2643	甲状腺显像
+T450	Test 2719 2727	TSH 水平测定
+T451	Test 2729 2740	细针穿刺活检(FNAB
+T452	Test 2745 2757;2758 2760	超声引导下甲状腺细针穿刺 活检
+T453	Reason 2864 2867;2868 2876	甲状腺 髓样癌(MTC)
+T454	Reason 3017 3027	颈部淋巴结病理性增大
+T455	Reason 3028 3037;3038 3059	持续性吞咽困难、发 声困难及呼吸困难者(应排除声带及其他病变)
+T456	Test 3078 3085	甲状腺超声检查
+T457	Disease 3103 3110	甲状腺恶性肿瘤
+T458	Anatomy 3141 3142;3143 3147	颈 部淋巴结
+T459	Anatomy 3395 3398	甲状腺
+T460	Test 3491 3494	TSH
+T461	Disease 3600 3605	甲状腺结节
+T462	Disease 3615 3620;3621 3627	分化型甲状 腺癌术后复发
+T463	Test 3681 3686	血清降钙素
+T464	Test 3781 3786	五肽胃泌素
+T465	Test 3786 3792	或钙刺激试验
+T466	Test_Value 3946 3947;3948 3961	结 节混乱排列以及结节内血管影
+T467	Test_Value 3995 4001	单纯囊性结节
+T468	Disease 4193 4198	甲状腺结节
+T469	Operation 4777 4783	甲状腺癌手术
+T470	Anatomy 5135 5140	甲状腺结节
+T471	Anatomy 5180 5183	甲状腺
+T472	Anatomy 5184 5188	颈部包块
+T473	Disease 5268 5274	颈部恶性疾病
+T474	Anatomy 5397 5400	p53
+T475	Anatomy 5401 5404	Ras
+T476	Anatomy 5405 5408	met
+T477	Anatomy 5409 5413	erb2
+T478	Anatomy 5414 5417	p27
+T479	Anatomy 5420 5423	RET
+T480	Anatomy 5430 5433	MTC
+T481	Anatomy 5434 5438	BRAF
+T482	Anatomy 5441 5450	RET / PTC
+T483	Test 5469 5471;5472 5473	降钙 素
+T484	Test 5474 5478	癌胚抗原
+T485	Test 5479 5486	嗜铬粒蛋白 A
+T486	Test 5502 5504;5505 5506	角蛋 白
+T487	Test_Value 5668 5682	6 mm×6 mm×6 mm
+T488	Test 5803 5807;5808 5810	免疫细胞 化学
+T489	Test 5812 5831	BRAF、RET / PCT 基因检测
+T490	Test 6083 6086	TSH
+T491	Symptom 6237 6241	声音嘶哑
+T492	Symptom 6242 6244	呼吸
+T493	Symptom 6246 6250	吞咽困难
+T494	Drug 6315 6321	左旋甲状腺素
+T495	Treatment 6389 6394	碘补充治疗
+T496	Disease 6535 6540	盂良性结节
+T497	Disease 6621 6622;6623 6630	单 结节的甲状腺肿
+T498	Anatomy 6697 6700	甲状腺
+T499	Treatment 6741 6749	TSH 抑制治疗
+T500	Drug 6807 6811	放射性碘
+T501	Disease 6826 6830	甲状腺肿
+T502	Disease 6855 6860	甲状腺毒症
+T503	Disease 6862 6866	MNGs
+T504	Drug 6965 6969	放射性碘
+T505	Drug 7048 7052	放射性碘
+T506	Treatment 7093 7101;7102 7111	超声引导下的乙醇 经皮注射(PEI)
+T507	Treatment 7179 7182	PEI
+T508	Test 8202 8203;8204 8208	分 子标记物
+T509	Test 8209 8214	基因学检查
+T510	Test 8232 8238	UGFNAB
+T511	Test 8279 8287	甲状腺细胞病理学
+T512	Test 8331 8336	分子标记物
+T513	Test 8337 8342	基因学检测
+T514	Test 8408 8414	UGFNAB
+T515	Test 8555 8559	血 Tg
+T516	Test 8965 8967	超声
+T517	Test 8970 8973	病理学
+T518	Test 9122 9129	病理学或分子学
+T519	Test 5858 5868	Galectin-3
+T520	Symptom 2400 2406	生理反射存在
+T521	Symptom 2407 2413	病理征(-)

@@ -1,0 +1,430 @@
+T1	Disease 99 105	2 型糖尿病
+T2	Disease 1407 1413	2 型糖尿病
+T3	Disease 1654 1660	2 型糖尿病
+T4	Disease 3161 3167	2 型糖尿病
+T5	Disease 3324 3330	2 型糖尿病
+T6	Disease 3446 3452	2 型糖尿病
+T7	Disease 6250 6256	2 型糖尿病
+T8	Test 3256 3261	HDL-C
+T9	Test 3815 3820	HDL-C
+T10	Test 3772 3776	空腹血糖
+T11	Treatment 22 26	限食疗法
+T12	Test 65 67	血糖
+T13	Test 68 70	血脂
+T14	Test 71 73	血压
+T15	Disease 96 98	肥胖
+T16	Treatment 132 136	饮食调整
+T17	Treatment 138 142	运动干预
+T18	Drug 143 147	药物治疗
+T19	Operation 148 152	外科手术
+T20	Treatment 169 171	限食
+T21	Treatment 177 179	限食
+T22	Treatment 1348 1352	限食疗法
+T23	Treatment 1395 1399	限食疗法
+T24	Disease 1414 1417	脂肪肝
+T25	Treatment 1477 1481	限食疗法
+T26	Treatment 1497 1499	限食
+T27	Treatment 1596 1600	限食疗法
+T28	Treatment 1613 1617	限食疗法
+T29	Treatment 1623 1627	限食疗法
+T30	Disease 1651 1653	肥胖
+T31	Treatment 1792 1796	绝对禁食
+T32	Disease 1801 1803	肥胖
+T33	Treatment 1962 1966	绝对禁食
+T34	Disease 2020 2022	肥胖
+T35	Treatment 2024 2033;2034 2035	间断限食联合连续限 食
+T36	Test 1866 1868	体重
+T37	Test 2105 2107	体重
+T38	Test 2131 2133;2134 2136	体重 指数
+T39	Test 2183 2185;2186 2188	去脂 体重
+T40	Test 2195 2199	内脏脂肪
+T41	Test 2218 2222	皮下脂肪
+T42	Disease 2259 2261	肥胖
+T43	Treatment 2264 2268	间断限食
+T44	Test 2333 2337	平均体重
+T45	Test_Value 2348 2364	(9. 6 ± 5. 7) kg
+T46	Test_Value 2442 2458	(5. 4 ± 5. 9) kg
+T47	Disease 2485 2487	超重
+T48	Disease 2488 2490	肥胖
+T49	Treatment 2496 2504	间断极低热量限食
+T50	Test 2544 2546	体重
+T51	Test_Value 2553 2557	6 kg
+T52	Test 2559 2563	脂肪组织
+T53	Test_Value 2571 2572;2573 2575	4 kg
+T54	Test 2588 2590	腰围
+T55	Test_Value 2597 2601	6 cm
+T56	Treatment 2612 2620	间断限食热量限制
+T57	Treatment 2625 2629	连续限食
+T58	Treatment 2672 2675;2676 2677	间断限 食
+T59	Disease 2689 2691	肥胖
+T60	Test 2708 2710	体重
+T61	Test 2879 2881	体重
+T62	Test 2874 2878	能量消耗
+T63	Test 2882 2886	脂肪含量
+T64	Treatment 2903 2905	运动
+T65	Test_Value 2928 2933	34 kg
+T66	Test 2943 2945	脂肪
+T67	Test_Value 2960 2965	27 kg
+T68	Test 2972 2974	脂肪
+T69	Test 3001 3005	去脂体重
+T70	Test 3017 3019;3020 3022	体脂 含量
+T71	Test 3024 3028	去脂体重
+T72	Treatment 3098 3102	限食疗法
+T73	Treatment 3108 3112	限食疗法
+T74	Disease 3132 3134	肥胖
+T75	Test 3085 3087	体重
+T76	Disease 3153 3155	肥胖
+T77	Disease 3157 3159	超重
+T78	Treatment 3172 3174	限食
+T79	Test 3206 3209;3210 3211	空腹血 糖
+T80	Test 3212 3217	空腹胰岛素
+T81	Test 3231 3233	血压
+T82	Test 3236 3238;3239 3241	甘油 三酯
+T83	Test 3246 3255	高密度脂蛋白胆固醇
+T84	Disease 3271 3272;3273 3274	肥 胖
+T85	Disease 3276 3285	睡眠呼吸暂停综合征
+T86	Disease 3293 3300	多囊卵巢综合征
+T87	Test 3332 3333;3334 3335	体 重
+T88	Disease 3439 3441	超重
+T89	Disease 3443 3445	肥胖
+T90	Disease 3454 3459	心血管疾病
+T91	Test 3518 3520	体重
+T92	Test 3526 3532	糖化血红蛋白
+T93	Anatomy 3554 3557	心血管
+T94	Disease 3572 3577	心血管事件
+T95	Disease 3605 3610	心血管事件
+T96	Disease 3629 3632	糖尿病
+T97	Treatment 3710 3712	限食
+T98	Test 3750 3752	体重
+T99	Test 3784 3788	体重指数
+T100	Test 3789 3794	空腹胰岛素
+T101	Test 3795 3802	胰岛素抵抗指数
+T102	Test 3805 3812	HOMA-IR
+T103	Test 3821 3825	甘油三酯
+T104	Test 3222 3228	胰岛素敏感性
+T105	Treatment 3865 3867	限食
+T106	Test 3868 3870	体重
+T107	Treatment 3943 3944;3945 3946	限 食
+T108	Test 3947 3949	体重
+T109	Treatment 4087 4089	限食
+T110	Treatment 4134 4135;4136 4137	限 食
+T111	Test 4235 4237	体重
+T112	Test 4294 4296	体重
+T113	Treatment 4345 4347	限食
+T114	Treatment 4348 4350	运动
+T115	Test 4371 4373	体重
+T116	Treatment 4398 4405	低热量饮食控制
+T117	Test 4497 4499	体重
+T118	Test 4510 4514	体重指数
+T119	Test 4515 4520	空腹胰岛素
+T120	Test 4521 4528	HOMA-IR
+T121	Test 4535 4537	体重
+T122	Test 4549 4553	体重指数
+T123	Test 4559 4564	空腹胰岛素
+T124	Test 4582 4584	体重
+T125	Test 4592 4597;4598 4599	胰岛素敏感 性
+T126	Test 4603 4607	体重指数
+T127	Test 4612 4614	体重
+T128	Treatment 4626 4628	限食
+T129	Test 4630 4632	血糖
+T130	Treatment 4665 4667	限食
+T131	Test 4668 4677	口服葡萄糖耐量试验
+T132	Test 4678 4682	OGTT
+T133	Test 4683 4689	2 h 血糖
+T134	Test 4695 4697	体重
+T135	Test 4736 4738	体重
+T136	Treatment 4815 4817	限食
+T137	Test 4855 4857	体重
+T138	Treatment 4881 4883	限食
+T139	Treatment 4887 4891	限食疗法
+T140	Disease 4937 4939	肥胖
+T141	Treatment 4945 4947	限食
+T142	Disease 4971 4973	肥胖
+T143	Treatment 4976 4978	限食
+T144	Disease 4982 4984	肥胖
+T145	Test 4997 5001	体重指数
+T146	Test_Value 5001 5012	≥30 kg / m2
+T147	Disease 5027 5029	肥胖
+T148	Disease 5048 5050	肥胖
+T149	Disease 5063 5065	肥胖
+T150	Disease 5071 5076	心血管疾病
+T151	Disease 5084 5086	肥胖
+T152	Test 5152 5156	体脂含量
+T153	Test 5162 5166	去脂体重
+T154	Test 5174 5177	骨密度
+T155	Treatment 5190 5192	限食
+T156	Disease 5210 5212	肥胖
+T157	Disease 5243 5245	肥胖
+T158	Disease 5270 5272	肥胖
+T159	Treatment 5280 5282	限食
+T160	Disease 5341 5343	肥胖
+T161	Treatment 5348 5350;5351 5353	饮食 控制
+T162	Treatment 5355 5357	运动
+T163	Test 5383 5385	体脂
+T164	Test 5389 5395	胰岛素敏感性
+T165	Test 5431 5434	骨密度
+T166	Test 5435 5439	去脂体重
+T167	Drug 5452 5454	钙剂
+T168	Drug 5455 5460	维生素 D
+T169	Test 5465 5468	骨密度
+T170	Test 5469 5470;5471 5474	去 脂体重
+T171	Test 5490 5493	骨密度
+T172	Test 5494 5498	去脂体重
+T173	Disease 5505 5507	肥胖
+T174	Disease 5530 5532	肥胖
+T175	Disease 5590 5592	肥胖
+T176	Anatomy 5594 5595	骨
+T177	Anatomy 5623 5627	脂肪组织
+T178	Anatomy 5628 5629	骨
+T179	Treatment 5644 5646;5647 5649	限制 饮食
+T180	Test 5654 5656	骨量
+T181	Anatomy 5673 5674	骨
+T182	Test 5703 5706	骨密度
+T183	Disease 5724 5726	骨折
+T184	Disease 5795 5797	肥胖
+T185	Treatment 5801 5805	限食减重
+T186	Disease 5858 5860	肥胖
+T187	Test 5865 5867	肌肉
+T188	Test 5868 5870	骨量
+T189	Disease 5885 5887	肥胖
+T190	Treatment 5890 5892	限食
+T191	Disease 5898 5900	肥胖
+T192	Disease 5914 5916	肥胖
+T193	Treatment 5952 5954	限食
+T194	Treatment 5982 5986	生酮饮食
+T195	Treatment 6022 6026	生酮饮食
+T196	Treatment 6027 6031	低脂限食
+T197	Test 6040 6042	体重
+T198	Test 6047 6049	体重
+T199	Test 6050 6052	血脂
+T200	Test 6053 6059	胰岛素敏感性
+T201	Treatment 6074 6082	低碳水化合物饮食
+T202	Disease 6150 6152	肥胖
+T203	Treatment 6158 6162	限食治疗
+T204	Treatment 6189 6191	限食
+T205	Test 6193 6195	体重
+T206	Disease 6212 6215	高血脂
+T207	Disease 6216 6219	高血压
+T208	Disease 6220 6223	高血糖
+T209	Disease 6224 6230	高胰岛素血症
+T210	Disease 6231 6236	心血管疾病
+T211	Disease 6247 6249	肥胖
+T212	Treatment 6272 6276	限食减重
+T213	Disease 6288 6290	肥胖
+T214	Treatment 6330 6332	限食
+T215	Test 27 29	体重
+T216	Test 49 51	体重
+T217	Test 181 183	体重
+T218	Test 221 223	体重
+T219	Test 227 229	体重
+T220	Test 1483 1485	体重
+T221	Test 1500 1502	体重
+T222	Test 1533 1535	体重
+T223	Test 1541 1543	体重
+T224	Test 2772 2774	体重
+T225	Test 3682 3684	体重
+T226	Test 3698 3700	体重
+T227	Test 4201 4203	体重
+T228	Test 4949 4951	体重
+T229	Test 5925 5927	体重
+T230	Treatment 159 163	限食减重
+T231	Test_Value 1919 1923	5 kg
+T232	Test_Value 1938 1945	2. 8 kg
+T233	Level 2341 2346	下降 9%
+T234	Treatment 2383 2389	标准饮食控制
+T235	Level 2435 2440	降低 5%
+T236	Level 2546 2551	下降 7%
+T237	Level 2566 2569	13%
+T238	Level 2590 2595	减少 6%
+T239	Level 3033 3035	轻度
+T240	Test 3344 3346	寿命
+T241	Level 3349 3357	3 ~ 4 个月
+T242	Treatment 3747 3749	限食
+T243	Disease 3980 3982	肥胖
+T244	Treatment 4351 4357	生活方式干预
+T245	Level 4373 4378	下降>5%
+T246	Anatomy 4787 4790	脂肪酸
+T247	Anatomy 4793 4797;4798 4799	三羧酸循 环
+T248	Treatment 4925 4929	限食治疗
+T249	Level 5361 5367	减重 10%
+T250	Anatomy 6098 6100	酮体
+T251	Anatomy 6103 6109	中枢神经系统
+T252	Disease 106 111	代谢性疾病
+T253	Treatment 215 219	热量限制
+T254	Disease 1418 1423	代谢性疾病
+T255	Treatment 1471 1475	减重治疗
+T256	Test_Value 1481 1483	减轻
+T257	Treatment 1528 1530	限食
+T258	Test_Value 1535 1537	下降
+T259	Treatment 1635 1637	限食
+T260	Disease 1661 1666	代谢性疾病
+T261	Test 1678 1684	每日热量摄入
+T262	Test_Value 1684 1695	减少 15% ~40%
+T263	Test 1698 1700;1701 1703	摄入 热量
+T264	Test_Value 1705 1727	1 200 ~ 1 800 kcal / d
+T265	Test_Value 1742 1745;1746 1754	800 kcal / d
+T266	Test 1762 1764	热量
+T267	Test_Value 1760 1762	极低
+T268	Duration 1861 1865	30 d
+T269	Treatment 1858 1860	禁食
+T270	Test 1890 1895	基础代谢率
+T271	Test_Value 1895 1897	降低
+T272	Level 1971 1973	严重
+T273	Test 2083 2087	热量摄入
+T274	Test_Value 2038 2059	1 周中 120 kcal / d×1 d
+T275	Test_Value 2061 2079	1 100 kcal / d×6 d
+T276	Test_Value 2188 2194	未有明显变化
+T277	Test_Value 2222 2223;2224 2229	未 有明显变化
+T278	Test_Value 2271 2298	1 周中 400 ~ 600 kcal / d×1 d
+T279	Test_Value 2299 2322;2323 2326	1 500 ~ 1 800 kcal / d× 6 d
+T280	Test_Value 2390 2403;2404 2412	1 500 ~ 1 800 kcal / d
+T281	Duration 2538 2542	24 周
+T282	Duration 2327 2331	20 周
+T283	Duration 2098 2101	8 周
+T284	Test_Value 2505 2532;2533 2537	1 周中 600 kcal / d×2 d,余 5 d 正常饮食
+T285	Test 2631 2635	摄入热量
+T286	Test_Value 2636 2650	1 500 kcal / d
+T287	Test 2651 2657	平均热量摄入
+T288	Test_Value 2657 2663	减少 25%
+T289	Symptom 2666 2668	减重
+T290	Treatment 2760 2764	热量限制
+T291	Test_Value 2770 2772	减轻
+T292	Symptom 2751 2753	减重
+T293	Treatment 2736 2737;2738 2741	热 量限制
+T294	Treatment 2819 2822;2823 2825	个体化 限食
+T295	Treatment 2830 2836	生活方式干预
+T296	Treatment 2838 2840	运动
+T297	Treatment 2841 2845	饮食控制
+T298	Symptom 2906 2908	减重
+T299	Duration 2921 2925	30 周
+T300	Test 2926 2927	重
+T301	Duration 2953 2957	30 周
+T302	Test 2958 2959	重
+T303	Treatment 2948 2952	单纯运动
+T304	Test_Value 2966 2970	102%
+T305	Test_Value 2937 2940	65%
+T306	Test_Value 2995 2998	35%
+T307	Treatment 3009 3011	运动
+T308	Treatment 3076 3078	运动
+T309	Treatment 3057 3061	热量限制
+T310	Test_Value 3195 3197	提高
+T311	Test_Value 3204 3206	降低
+T312	Test_Value 3229 3231	降低
+T313	Test_Value 3234 3236	降低
+T314	Test_Value 3220 3222	增加
+T315	Test_Value 3244 3246	增加
+T316	Disease 3365 3368	糖尿病
+T317	Treatment 3421 3427	强化生化方式
+T318	Treatment 3508 3514	强化生活方式
+T319	Test_Value 3520 3522	减轻
+T320	Test_Value 3533 3535	下降
+T321	Treatment 3594 3600	强化生活方式
+T322	Treatment 3620 3628	生活方式干预减重
+T323	Disease 3666 3668	死亡
+T324	Test_Value 3752 3754	下降
+T325	Treatment 3906 3910	食欲控制
+T326	Test 4013 4017	睡眠质量
+T327	Test 4018 4022	睡眠时间
+T328	Test 4031 4035	睡眠质量
+T329	Test 4038 4040	时间
+T330	Test_Value 4036 4037	差
+T331	Test_Value 4040 4041	短
+T332	Anatomy 4050 4055	胃促生长素
+T333	Symptom 4077 4082	饥饿感增加
+T334	Test 4107 4109	睡眠
+T335	Test 4117 4119	减重
+T336	Test_Value 4113 4116	1 h
+T337	Test_Value 4122 4129	0. 7 kg
+T338	Test 4140 4143	饮水量
+T339	Test 4158 4161	饮水量
+T340	Test_Value 4162 4166;4167 4172	1. 5 L / d
+T341	Treatment 4211 4213	限食
+T342	Treatment 4406 4410	坚持运动
+T343	Treatment 4411 4415	经常就诊
+T344	Treatment 4480 4482	限食
+T345	Treatment 4506 4508	限食
+T346	Treatment 4545 4547	限食
+T347	Test_Value 4553 4555	降低
+T348	Test_Value 4564 4566	下降
+T349	Test 4768 4769;4770 4773	生 化指标
+T350	Test 4844 4850	人体测量指标
+T351	Test 4989 4991	年龄
+T352	Test_Value 4991 4994;4995 4996	≥65 岁
+T353	Treatment 5092 5093;5094 5095	减 重
+T354	Symptom 5107 5111	增加体能
+T355	Test_Value 5149 5150;5151 5152	降 低
+T356	Test_Value 5177 5179	下降
+T357	Treatment 5221 5223	减重
+T358	Treatment 5295 5297	减重
+T359	Treatment 5336 5338	运动
+T360	Treatment 5374 5376	减重
+T361	Treatment 5377 5379	减重
+T362	Test 5386 5388	体能
+T363	Treatment 5421 5423	减重
+T364	Treatment 5446 5448	锻炼
+T365	Test_Value 5498 5499;5500 5501	下 降
+T366	Test 5553 5556;5557 5563	体能和 代谢相关指标
+T367	Treatment 5547 5549	减重
+T368	Test_Value 5542 5544	偏高
+T369	Test_Value 5656 5658	下降
+T370	Test 5690 5692	体能
+T371	Test_Value 5707 5709	下降
+T372	Disease 5721 5723	跌倒
+T373	Symptom 5835 5837	减重
+T374	Test_Value 6036 6038	降低
+T375	Test 6060 6064	代谢指标
+T376	Test 5976 5981	碳水化合物
+T377	Test_Value 5988 6002	<20 ~ 50 g / d
+T378	Symptom 6112 6116	饱感增强
+T379	Symptom 6117 6120;6121 6122	摄食减 少
+T380	Symptom 6088 6092;6093 6097	慢性轻度 酮症状态
+T381	Treatment 6143 6147	限食治疗
+T382	Treatment 6128 6130	限食
+T383	Disease 6257 6262	代谢性疾病
+T384	Duration 2426 2430	20 周
+T385	Treatment 1908 1910	禁食
+T386	Duration 1911 1915	1 个月
+T387	Duration 1814 1818	10 d
+T388	Duration 1931 1935	2 个月
+T389	Test 74 80	胰岛素敏感性
+T390	Anatomy 1426 1429	心血管
+T391	Disease 1430 1432;1433 1440	神经 系统退行性病变
+T392	Disease 1465 1468	肥胖症
+T393	Anatomy 1924 1928	肌肉组织
+T394	Anatomy 1946 1950	肌肉组织
+T395	SideEff 1982 1984	死亡
+T396	Test 1824 1825	重
+T397	Test_Value 1826 1837	800 ~ 900 g
+T398	Test_Value 2107 2125	下降(3. 9 ± 1. 4) kg
+T399	Test_Value 2136 2159	降低(1. 3 ± 0. 5) kg / m2
+T400	Anatomy 2160 2164	脂肪组织
+T401	Test_Value 2164 2182	减少(2. 8 ± 1. 2) kg
+T402	Test_Value 2199 2217	减少(0. 7 ± 0. 5) kg
+T403	Treatment 2372 2382	间断极低热量限食方案
+T404	Anatomy 2581 2585	内脏脂肪
+T405	Disease 2682 2687	糖尿病前期
+T406	Test_Value 2710 2715	减轻 7%
+T407	Treatment 2898 2902	单纯限食
+T408	Treatment 2913 2915;2916 2920	单纯 饮食干预
+T409	Treatment 2981 2987	单纯饮食减重
+T410	Disease 3118 3121	肥胖症
+T411	Test 3197 3203	葡萄糖代谢率
+T412	Test_Value 3339 3343	1 kg
+T413	Test 3540 3549	低密度脂蛋白胆固醇
+T414	Test 3767 3771	脂肪含量
+T415	Anatomy 3898 3901	性激素
+T416	Anatomy 4043 4045	瘦素
+T417	Symptom 4072 4076	脂肪堆积
+T418	SideEff 4278 4279;4280 4283	体 重反弹
+T419	Level 4300 4311	降低 5% ~ 10%
+T420	Disease 4570 4575	胰岛素抵抗
+T421	Test 4716 4720	OGTT
+T422	Test 4721 4722;4723 4729	糖 负荷后葡萄糖
+T423	Symptom 5102 5106	降低体脂
+T424	Anatomy 5117 5120	心血管
+T425	Test 5535 5540	基线骨密度
+T426	Symptom 5739 5743	骨量减少
+T427	Symptom 5779 5783	骨量减少
+T428	Symptom 5776 5778	衰老
+T429	Disease 6009 6011	肥胖
+T430	Disease 6206 6208	肥胖

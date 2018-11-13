@@ -1,0 +1,210 @@
+T1	Test 1703 1705	尿酸
+T2	Test 2032 2034	尿酸
+T3	Test 3305 3307	尿酸
+T4	Test 4245 4247	尿酸
+T5	Disease 3630 3636	动脉粥样硬化
+T6	Disease 4989 4994	代谢综合征
+T7	Test 2065 2068	ABI
+T8	Anatomy 92 107	肾近端小管上皮 HK-2 细胞
+T9	Anatomy 108 115	尿酸转运子基因
+T10	Anatomy 162 169	肾小管上皮细胞
+T11	Anatomy 315 322	肾小管上皮细胞
+T12	Disease 1380 1385	高尿酸血症
+T13	Disease 1395 1400	高尿酸血症
+T14	Disease 1404 1406	痛风
+T15	Anatomy 1466 1468	肠道
+T16	Anatomy 1481 1482	肾
+T17	Anatomy 1511 1516	近曲肾小管
+T18	Anatomy 1542 1548	尿酸盐转运子
+T19	Anatomy 1586 1593	肾小管上皮细胞
+T20	Anatomy 1617 1621	近端小管
+T21	Anatomy 1628 1630;1631 1632	肾小 管
+T22	Disease 1673 1678	高尿酸血症
+T23	Disease 1687 1692	高尿酸血症
+T24	Disease 1695 1701	高胰岛素血症
+T25	Disease 1709 1714	胰岛素抵抗
+T26	Anatomy 1726 1729	肾小管
+T27	Disease 1748 1753	高尿酸血症
+T28	Anatomy 1765 1766;1767 1769	肾 小管
+T29	Anatomy 1785 1788	肾小管
+T30	Anatomy 1810 1819	近端肾小管上皮细胞
+T31	Disease 1852 1857	原发性痛风
+T32	Disease 1858 1863	高尿酸血症
+T33	Disease 3544 3552	原发性高尿酸血症
+T34	Anatomy 3614 3617	小动脉
+T35	Anatomy 3620 3624	动脉内膜
+T36	Anatomy 3649 3651	肾脏
+T37	Disease 3654 3659	间质性肾炎
+T38	Disease 3660 3668	尿酸性间质性肾炎
+T39	Disease 3672 3677	终末期肾衰
+T40	Anatomy 3690 3692	胰岛
+T41	Disease 3711 3714	糖尿病
+T42	Anatomy 3720 3723	关节腔
+T43	Disease 3726 3727;3728 3735	急 性痛风性关节炎
+T44	Disease 3741 3745	关节畸形
+T45	Disease 3750 3755	高尿酸血症
+T46	Disease 3779 3784	高尿酸血症
+T47	Anatomy 3853 3857;3858 3859	肾近端小 管
+T48	Anatomy 4085 4091	肾脏上皮细胞
+T49	Drug 4143 4159	尿酸酶特异阻断剂 Oxonate
+T50	Drug 4160 4168;4169 4170	抗结核药物吡嗪酰 胺
+T51	Disease 4228 4234	高胰岛素血症
+T52	Disease 4238 4243	高尿酸血症
+T53	Disease 4250 4255	胰岛素抵抗
+T54	Disease 4269 4275	高胰岛素血症
+T55	Disease 4276 4281	高尿酸血症
+T56	Disease 4296 4302	高胰岛素血症
+T57	Disease 4312 4316;4317 4318	高尿酸血 症
+T58	Anatomy 4571 4573	肾脏
+T59	Anatomy 4601 4603	肾脏
+T60	Test 4720 4723	胰岛素
+T61	Disease 4772 4778	高胰岛素血症
+T62	Disease 4779 4784	胰岛素抵抗
+T63	Disease 4805 4811	高胰岛素血症
+T64	Disease 4812 4813;4814 4818	胰 岛素抵抗
+T65	Disease 4957 4962	胰岛素抵抗
+T66	Disease 4963 4969	高胰岛素血症
+T67	Anatomy 4973 4975	肾脏
+T68	Test 5006 5007;5008 5009	体 重
+T69	Disease 5019 5024	胰岛素抵抗
+T70	Disease 5033 5035;5036 5039	高尿 酸血症
+T71	Disease 5097 5102	高尿酸血症
+T72	Disease 5116 5121	原发性痛风
+T73	Disease 5122 5127	高尿酸血症
+T74	Test 2623 2626	PCR
+T75	Test 2670 2673	PCR
+T76	Test 1583 1585	尿酸
+T77	Test 1614 1616	尿酸
+T78	Test 4573 4575	尿酸
+T79	Disease 40 45	代谢性疾病
+T80	Anatomy 200 204	mRNA
+T81	Anatomy 1915 1924	近端肾小管上皮细胞
+T82	Test 1956 1959	胰岛素
+T83	Test 2085 2088	胰岛素
+T84	Test 2190 2193	胰岛素
+T85	Test 2157 2160	胰岛素
+T86	Test 2224 2227	胰岛素
+T87	Test 2258 2260;2261 2262	胰岛 素
+T88	Test 2303 2306	胰岛素
+T89	Test 2319 2322	胰岛素
+T90	Test 2502 2506	胰蛋白酶
+T91	Test 2834 2837	胰岛素
+T92	Test 2890 2893	胰岛素
+T93	Test 3018 3021	胰岛素
+T94	Test 3058 3061	胰岛素
+T95	Anatomy 4124 4128	组织细胞
+T96	Test 4171 4173	腺苷
+T97	Anatomy 5164 5168	mRNA
+T98	Anatomy 5196 5200	mRNA
+T99	Duration 171 175	48 h
+T100	Test_Value 240 244	明显降低
+T101	Anatomy 1528 1530;1531 1533	转运 蛋白
+T102	Anatomy 1599 1601;1602 1604	转运 蛋白
+T103	Anatomy 0 2	基础
+T104	Amount 3391 3403	500 μIU / ml
+T105	Duration 3410 3414	24 h
+T106	Duration 3431 3435	24 h
+T107	Amount 3457 3460;3461 3469	500 μIU / ml
+T108	Amount 3491 3501	5 μIU / ml
+T109	Anatomy 3827 3829;3830 3832	管道 蛋白
+T110	Anatomy 3965 3974	galectin9
+T111	Anatomy 4031 4035	跨膜蛋白
+T112	Anatomy 4041 4045	蛋白通道
+T113	Anatomy 4670 4677	HK-2 细胞
+T114	Amount 4842 4854	500 μIU / ml
+T115	Anatomy 4861 4868	HK-2 细胞
+T116	Duration 4869 4873	24 h
+T117	Anatomy 4878 4885	HK-2 细胞
+T118	Duration 4904 4908	24 h
+T119	Anatomy 3943 3951	半乳糖苷结合蛋白
+T120	Reason 4353 4364	Na+重吸收增加的同时
+T121	Reason 4407 4413	嘌呤代谢活跃
+T122	Anatomy 192 196;197 199	尿酸盐转 运子
+T123	Test 1438 1440	尿酸
+T124	Test 1456 1458	尿酸
+T125	Test 1487 1489	尿酸
+T126	Test 1663 1665	尿酸
+T127	Test 1730 1732	尿酸
+T128	Test 1770 1772	尿酸
+T129	Test 1789 1791	尿酸
+T130	Disease 3563 3568	高尿酸血症
+T131	Test 3582 3584	尿酸
+T132	Test 3608 3610	尿酸
+T133	Test 3644 3646	尿酸
+T134	Test 3685 3687	尿酸
+T135	Test 3715 3717	尿酸
+T136	Test 3820 3822	尿酸
+T137	Test 3834 3836	尿酸
+T138	Test 3860 3862	尿酸
+T139	Test 3891 3893	尿酸
+T140	Test 4046 4048	尿酸
+T141	Test 4073 4075	尿酸
+T142	Test 4098 4100	尿酸
+T143	Test 4208 4210	尿酸
+T144	Test 4365 4367	尿酸
+T145	Test 4414 4416	尿酸
+T146	Test 4475 4477	尿酸
+T147	Test 4541 4543	尿酸
+T148	Test 4603 4605	尿酸
+T149	Test 4631 4633	尿酸
+T150	Test 4649 4651	尿酸
+T151	Anatomy 4933 4942	人尿酸盐转运子基因
+T152	Disease 63 65;66 67	痛风 病
+T153	Test 88 91	胰岛素
+T154	Drug 156 159	胰岛素
+T155	Test 185 188	PCR
+T156	Drug 214 217	胰岛素
+T157	Anatomy 224 230	尿酸盐转运子
+T158	Anatomy 323 324;325 332	尿 酸盐转运子基因
+T159	Drug 337 340	胰岛素
+T160	Test 370 372	尿酸
+T161	Anatomy 1412 1414	肾脏
+T162	Anatomy 1415 1420	心血管系统
+T163	Anatomy 1635 1641	尿酸盐转运子
+T164	Anatomy 1660 1662	肾脏
+T165	Test 1759 1762	胰岛素
+T166	Test 1777 1780	胰岛素
+T167	Test 2545 2548	PCR
+T168	Anatomy 2841 2847	尿酸盐转运子
+T169	Anatomy 2896 2902	尿酸盐转运子
+T170	Anatomy 3031 3039	尿酸盐转运子基因
+T171	Drug 3404 3407	胰岛素
+T172	Drug 3419 3422	胰岛素
+T173	Anatomy 3437 3444	人尿酸盐转运子
+T174	Drug 3470 3473	胰岛素
+T175	Anatomy 3698 3705	胰岛 β 细胞
+T176	Anatomy 3805 3812	人尿酸盐转运子
+T177	Anatomy 3905 3912	人尿酸盐转运子
+T178	Anatomy 4110 4117	人尿酸盐转运子
+T179	Anatomy 4184 4191	人尿酸盐转运子
+T180	Anatomy 4200 4207	人尿酸盐转运子
+T181	Test 4325 4328	胰岛素
+T182	Test 4329 4335	胰岛素前体物
+T183	Anatomy 4338 4341	肾小管
+T184	Disease 4389 4394	胰岛素抵抗
+T185	Anatomy 4398 4402	肝内脂肪
+T186	Reason 4434 4439	胰岛素抵抗
+T187	Reason 4495 4500	胰岛素抵抗
+T188	Anatomy 4502 4506	交感神经
+T189	Test 4507 4509	肾素
+T190	Test 4510 4515	血管紧张素
+T191	Anatomy 4534 4541	肾小管上皮细胞
+T192	Anatomy 4555 4562	人尿酸盐转运子
+T193	Test 4567 4570	胰岛素
+T194	Anatomy 4593 4600	人尿酸盐转运子
+T195	Test 4623 4626	胰岛素
+T196	Anatomy 4647 4649	肾脏
+T197	Test 4691 4694	胰岛素
+T198	Anatomy 4703 4715	人尿酸盐转运子 mRNA
+T199	Anatomy 4730 4742	人尿酸盐转运子 mRNA
+T200	Reason 4786 4791	高尿酸血症
+T201	Anatomy 4822 4829	人尿酸盐转运子
+T202	Test 4855 4858	胰岛素
+T203	Drug 4889 4892	胰岛素
+T204	Anatomy 4911 4918;4919 4923	人尿酸盐转运子 mRNA
+T205	Test 4976 4977;4978 4979	尿 酸
+T206	Test 5065 5068	胰岛素
+T207	Anatomy 5070 5079	人尿酸盐转运子基因
+T208	Anatomy 5086 5093	人尿酸盐转运子
+T209	Anatomy 5221 5225;5226 5229	人尿酸盐 转运子
+T210	Anatomy 3990 3992;3993 3998	人尿 酸盐转运子

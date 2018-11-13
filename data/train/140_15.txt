@@ -1,0 +1,265 @@
+基础研究
+基金项目:2013 国家自然科学基金专项资金项目(31340072)
+上海市糖尿病研究所,上海市糖尿病重点实验室(宋利革、刘红霞、李晓
+雯、慕开达、林紫薇、王琛、贾伟平);200031 中国科学院上海生命科学研
+究院,生物化学与细胞生物学研究所(赵简)
+β-Arrestin 2 缺失导致的小鼠骨重塑与骨组织
+GPER1 表达下降关联
+宋利革  刘红霞  李晓雯  慕开达  林紫薇  赵简  王琛  贾伟平
+[摘要]   目的  探讨 β-arrestin 2 缺失对小鼠骨重塑的影响及其发生机制。 方法 采用 16、26、30 周
+龄 β-arrestin 2 敲除雌鼠和野生型雌鼠,通过双能 X 射线吸收法(DXA)检测其全身骨密度,微 CT 检测股骨
+微结构,RT-PCR 检测骨形成、骨吸收相关因子和 G 蛋白耦联雌激素受体 1 的表达。 结果 β-Arrestin 2 敲
+除雌鼠在 16 周龄已出现全身骨密度降低,16、26、30 周分别降低了 8. 10% 、7. 53% 、8. 56% 。 骨微结构检测
+显示 3 个周龄雌鼠骨体积分数均降低(分别为 53. 3% 、49. 4% 、55. 7% ),骨小梁数量均减少(分别为
+53. 2% 、52. 1% 、49. 3% ),与各自的对照组野生型小鼠相比,差异均具有显著性(P<0. 05)。 相反随着周龄
+的增长,敲除雌鼠骨小梁模式因子、间距、结构模型指数差异逐渐增大,至 30 周时与对照野生型小鼠相比
+差异统计学显著(分别增加了 32. 0% 、54. 3% 、23. 7% ,P<0. 05)。 胫骨 RT-PCR 检测显示护骨素,破骨细胞
+分化因子(RANKL)和 G 蛋白耦联雌激素受体 1(GPER1)mRNA 表达均降低,与对照组有明显差异(P<
+0. 05)。 结论 β-Arrestin 2 缺失导致的小鼠骨重塑与 GPER1 表达相关,提示其可能通过 G 蛋白耦联雌激
+素受体信号通路影响骨重塑。
+[关键词]   β-Arrestin 2; 骨密度; 骨微结构; 护骨素; G 蛋白耦联雌激素受体 1
+Deficiency of β-arrestin 2 in mice-induced bone remodeling was associated with down-regulation of GPER1
+expression Song Lige *, Liu Hongxia, Li Xiaowen, Mu Kaida, Lin Ziwei, Zhao Jian, Wang Chen, Jia
+Weiping. *Department of Endocrinology and Metabolism, Shanghai Jiaotong University Affiliated Sixth People忆 s
+Hospital, Shanghai Diabetes Institute, Shanghai Key Laboratory of Diabetes Mellitus, Shanghai 200233, China
+[Abstract]  Objective  To determine the role of β-arrestin 2 on bone mineral density and microarchitecture,
+and its underlying mechanisms. Methods Ex vivo dual-energy-X-ray-absorptiometry(DXA) was used to measure
+the total body bone mineral density (BMD) and micro-CT scan was performed on mouse femora from female mice of
+wild type(WT) and β-arrestin 2 knockout(KO) at 16, 26, 30 weeks of age. RT-PCR was applied for the mRNA
+expression. Results Started from 16 weeks of age, total body BMD and the bone volume / total volume(BV / TV),
+trabecular number(Tb. N) in the femoral metaphysis of β-arrestin 2 KO female mice decreased dramatically. BMD
+decreased by 8. 10% , 7. 53% , 8. 56% , BV / TV by 53. 3% , 49. 4% , 55. 7% and Tb. N by 53. 2% , 52. 1% ,
+49. 3% at 16, 26, 30 weeks of age, respectively, compared with those in WT mice(all P<0. 05) . In contrast, the
+trabecular pattern factor ( Tb. Pf), trabecular separation( Tb. Sp), and structure model index ( SMI) of the mice
+increased gradually with age, and reached statistically significant at age of 30 weeks(increased by 32. 0% , 54. 3% ,
+and 23. 7% , respectively, all P<0. 05) . RT-PCR showed that mRNA expression levels of osteoprotegrin, RANKL,
+and G protein-coupled estrogen receptor 1 in tibia from β-arrestin 2 KO mice were significantly lower than those in WT
+mice. Conclusion The effects of β-arrestin 2 on bone remodeling might be associated with G protein-coupled
+estrogen receptor1 signaling pathway.
+[Key words]   β-Arrestin 2; Bone mineral density; Microarchitecture; Osteoprotegrin; G protein-coupled
+estrogen receptor 1
+(Chin J Endocrinol Metab, 2015, 31: 897-901)
+骨质疏松是一种以低骨量和骨组织微细结构破坏 为特征,导致骨脆性增加和发生骨折的一种全身性骨
+骼疾病[1]。 骨质疏松严重威胁老年人的身心健康,随
+着国内人口老龄化的不断增长,成为日益严重的社会
+问题[2]。 骨质疏松的本质是骨重塑过程中骨形成与
+骨吸收失衡,破骨细胞的骨吸收作用大于成骨细胞的
+骨形成作用[3],然而,影响骨重塑的确切机制仍不清
+楚。 研究显示甲状旁腺激素[4],钙平衡失调[5],雌激
+素信号通路[6]等都与骨重塑的发生密切相关,其中雌
+激素信号通路受阻被认为是主要的病因之一[7]。 G 蛋
+白耦联雌激素受体(G protein-coupled estrogen receptor
+1, GPER1) 是一种新型雌激素受体,在骨组织中表
+达[8],研究显示在青春期时生长板 GPER1 的表达减
+少,影响青春期纵向骨骼的生长[9]。 β-Arrestin 2 是一
+种衔接蛋白,广泛存在于多种细胞中,是 G 蛋白耦联
+受体(G protein-coupled receptors, GPCRs)信号的调节
+剂,除了调控 GPCRs 的脱敏作用及内在化[10, 11] 之外,
+还通过支架作用介导多种信号通路[12]。 近年来,研究
+发现 β-arrestin 2 影响骨重塑,在破骨和成骨细胞均有
+表达,β-arrestin 2 基因敲除(KO)小鼠骨量减少,骨密
+度降低[13]。 β-Arrestin 2 与 GPER1 都与骨重塑相关,
+然而二者之间是否存在联系,目前尚无文献报道。 本
+研究拟采用 β-arrestin 2 KO 雌鼠来观察 β-arrestin 2 缺
+失对小鼠骨重塑的影响,并进一步探讨 β-arrestin 2 与
+GPER1 在骨重塑方面是否存在关联。
+材料和方法
+一、 材料
+选择 16、26、30 周龄野生型和 β-arrestin 2 KO 小
+鼠。 杂合子 β-arrestin 2 KO 小鼠由中科院生化细胞所
+裴钢教授馈赠,小鼠取尾端通过 PCR 进行基因型鉴
+定,整个实验均使用雌性。 β-Arrestin 2 KO 小鼠及同
+窝对照野生型小鼠饲养于上海交通大学医学院附属第
+六人民医院实验动物中心 SPF 级动物室,自由进食消
+毒颗粒饲料(上海斯莱克公司),及饮用消毒水,室温
+控制于(23 ± 1)益,湿度 56% ,12 h 间隔照明,定期紫
+外线消毒与通风。 实验和操作程序经所在单位的动物
+实验伦理委员会审核通过[实验动物合格证号:SYXK
+(沪)2008-0052]。
+二、 方法
+1. 双能 X 射线吸收法骨密度检测:采用美国 GE
+公司 LUNAR-PRODIGY 双能 X 线骨密度测定仪检测
+16、26、30 周龄野生型小鼠和 β-arrestin 2 KO 小鼠全身
+骨密度。 检测方法同既往研究[13],通过腹腔注射 1%
+戊巴比妥(1ml / kg)麻醉小鼠,伸展四肢俯卧于检测仪
+下进行扫描。
+2. 显微 CT 扫描:显微 CT 扫描方法同既往研
+究[14]。 以过量麻醉法处死实验小鼠,取右侧股骨,仔
+细剔除其周围软组织与血管,并用 PBS 浸湿的纱布
+包裹, -80℃ 冻存备用检测骨微结构。 采用显微 CT
+SKYCAN1176 对小鼠股骨进行薄层扫描(以 9 滋m 递
+增),扫描范围为全部股骨。 将处理好的股骨标本沿
+长轴垂直固定于样品固定器内,周围填塞少许医用纱
+条,以避免样本在扫描过程中发生滑动;扫描后,用
+CT-Analyser(Version 1. 13)软件计算标本的相关数据:
+骨体积分数、骨小梁数量、骨小梁厚度、骨小梁模式因
+子、骨小梁分离度,结构模型指数。 利用 CT-Volume
+(Version 2. 0)软件重建标本的三维图像。
+3. 荧光实时定量 PCR 检测:取 26 周 β-arrestin 2
+KO 和野生型小鼠右侧胫骨,仔细剔除其周围软组织
+与血管。 使用 TRIzoL(美国 Invitrogen 公司)提取总
+RNA,并逆转录合成 cDNA(Rever Tra Ace qPCR RT 试
+剂盒,日本 TOYOBO 公司),使用美国 ABI 公司 7500
+Fast Real-Time PCR System 进行荧光实时定量 PCR 检
+测 mRNA 含量(SYBR Green,日本 TOYOBO 公司),内
+参采用 GAPDH。 PCR 引物序列如表 1。
+三、 统计学处理
+采用 SPSS 19. 0 统计软件进行数据分析。 计量资
+料用 x-± sx-,2 组间比较采用独立样本 t 检验;多组比较
+采用单因素方差分析,两两比较采用 LSD 检验。 以
+P<0. 05 为差异有统计学意义。
+结    果
+一、 β-Arrestin 2 基因敲除后,全身骨密度下降
+β-Arrestin 2 KO 与野生型小鼠在 16、26、30 周时相
+比,骨密度分别下降 8. 10% 、7. 53% 、8. 56% ,各周龄
+两组间骨密度均有显著性差异(P<0. 05)。
+二、 β-Arrestin 2 基因敲除后,股骨微结构发生改
+变
+为了精确的观察 β-arrestin 2 基因敲除对骨微观
+表 1  骨重塑相关基因引物序列
+Tab 1  Primer sequences of bone remodeling related genes
+基因
+Gene
+上游引物
+Forward primer
+下游引物
+Reverse primer
+产物长度
+Product length
+(bp)
+OPG 5'-CCTTGCCCTGACCACTCTTA-3' 5'-GTAACGCCCTTCCTCACACT-3' 147
+RANKL 5'-CTGATGAAAGGAGGGAGCAC-3' 5'-AAGGGTTGGACACCTGAATG-3' 127
+GPER1 5'-AGCCTTCTTCCTGTCTTCCA-3' 5'-ACCCAGTCTCCTTCCACCTT-3' 186
+GAPDH 5'-TGAACGGGAAGCTCACTGG-3' 5'-TCCACCACCCTGTTGCTGTA-3' 307
+注:OPG:护骨素 Osteoprotegerin;RANKL:NF-κB 受体活化因子配体 Receptor activator nuclear factor-κB ligand;GPER1:G 蛋白耦联雌激素受体 1 G
+protein-coupled estrogen receptor 1;GAPDH:甘油醛-3-磷酸脱氢酶 Glyceraldehyde-3-phosphate dehydrogenase
+注:WT:野生型 Wild type;KO:敲除 Knock out;BV / TV:骨体积分数 Bone volume / Total volume;Tb. N:骨小梁数量 Trabecular number;Tb. Th:骨小梁
+厚度 Trabecular thickness;Tb. Sp:骨小梁间距 Trabecular separation;Tb. Pf:骨小梁模式因子 Trabecular bone pattern factor;SMI:结构模型指数 Structure
+model index;vs WT, aP<0. 05
+图 1  β-Arrestin 2 敲除对股骨微结构的影响
+Fig 1  Effects of β-arrestin 2 deletion on bone femora microarchitecture
+结构的影响,我们对其负重骨股骨进了显微 CT 扫描。
+与野生型小鼠相比,各周龄 β-arrestin 2 KO 小鼠骨体
+积分数(BV / TV)变小,分别较对照组下降了 53. 3%
+(P<0. 05)、55. 7% (P<0. 05)、49. 4% (P<0. 01),骨小
+梁数量 ( Tb. N) 分别较对照组下降了 53. 2% ( P <
+0. 01)、52. 1% (P<0. 05)、49. 3% (P<0. 05),而骨小梁
+厚度(Tb. Th)两组间在各周龄无明显差异。 此外,β-
+arrestin 2 KO 小鼠在 16 周时骨小梁模式因子(Tb. Pf)、
+骨小梁间距(Tb. Sp)、结构模型指数(SMI)与野生型
+小鼠无差异,随着周龄的增大,差异增大,在 30 周
+时, Tb. Pf 增长 32. 0% , Tb. Sp 增长 54. 3% , SMI 增长
+23. 7% ,上述指标与野生型小鼠比较均出现明显差异
+(图 1,P<0. 05)。
+三、 β-Arrestin 2 KO 和野生型小鼠三维图像重建
+为了更直观的观察骨小梁微观结构的改变, 我们
+注:WT:野生型 Wild type;KO:敲除 Knock out
+图 2  小鼠股骨骨小梁微 CT 三维重建图像
+Fig 2  Micro-CT three-dimensional bone femora reconstruction pictures
+对其显微 CT 扫描图像进行了三维重建(图 2) 。 与野
+生型小鼠相比,β-arrestin 2 KO 小鼠骨小梁数量变少,
+骨小梁间连接疏松,部分可见骨小梁断裂、不连续(图
+2)。
+四、 β-Arrestin 2 敲除后,小鼠骨组织护骨素和
+GPER1 表达下降
+为了探究 β-arrestin 2 缺失与骨形成、骨吸收以及
+雌激素受体信号通路的关联,我们采用荧光实时定
+量 PCR 检测了小鼠胫骨护骨素破骨细胞分化因子
+(receptor activator of NF-κB ligand, RANKL)和 GPER1
+的表达,结果显示,与野生型小鼠相比,β-arrestin 2 KO
+小鼠骨组织护骨素 mRNA 和 RANKL mRNA 表达水平
+显著降低,同时发现,GPER1 mRNA 表达水平也降低,
+两组出现明显差异(P<0. 05,图 3)。
+注: WT: 野 生 型 Wild type; KO: 敲 除 Knock out; OPG: 护 骨 素
+Osteoprotegerin;RANKL: NF-κB 受体活化因子配体 Receptor activator
+nuclear factor-κB ligand; GPER1: G 蛋白耦联雌激素受体 1 G protein-
+coupled estrogen receptor 1;vs WT, aP<0. 05
+图 3  β-Arrestin 2 敲除对基因表达的影响
+Fig 3  Effect of β-arrestin 2 knock out on gene expression
+讨    论
+在本研究中,我们通过双能 X 射线和显微 CT 观
+察了 β-arrestin 2 缺失对不同周龄小鼠骨密度和骨微
+结构的影响,发现 β-arrestin 2 缺失后,小鼠表现为:
+(1)骨密度降低,骨体积分数变小,骨小梁数量减少,
+随着周龄的增大,骨微结构改变增大;(2)基因表达水
+平的进一步研究发现,β-arrestin 2 缺失骨形成显著降
+低;(3)β-Arrestin 2 敲除小鼠的骨密度和骨微结构的
+改变与骨组织 GPER1 表达降低相关。 以上结果提示,
+β-arrestin 2 缺失导致骨重塑, 该重塑过程可能与
+GPER1 相关。 本研究首次提出了 β-arrestin 2 缺失引
+起的骨重塑可能与 G 蛋白耦联雌激素膜受体信号通
+路相关联。
+β-Arrestin 2 位于人染色体 17p13,广泛分布心脏、
+肝脏、胰腺、骨等多种组织,通过与 G 蛋白耦联受体激
+酶联合作用,介导受体脱敏和内吞,是 GPCRs 信号通
+路中重要的调节和信号传递分子[15]。 Bouxsein 等[13]
+研究发现 β-arrestin 2 影响骨重塑,敲除基因后,小鼠
+骨密度下降,骨微结构改变。 本研究也有同样的发现,
+敲除 β-arrestin 2 基因后,小鼠全身骨密度下降,骨体
+积分数下降,骨小梁数量减少。 此外,本研究还发现,
+随着周龄的增长,骨小梁间距、骨小梁分离度和结构模
+型指数等骨微结构参数均升高,与野生型雌鼠出现明
+显差异,提示随着周龄的增长 β-arrestin 2 KO 小鼠骨
+质疏松加重。 护骨素 / RANKL / RANK 信号通路是近年
+来发现的在破骨细胞分化过程中起重要作用的一条
+信号传导通路,在骨质疏松症的发病机制中起重要
+作用[16,17]。 RANKL 是核因子 κB ( nuclear factor κB,
+NFκB)配体的受体激活子,是破骨细胞生成的重要细
+胞因子[18],护骨素是目前发现的唯一能直接负向调控
+破骨细胞的调控因子。 护骨素是 RANKL 的诱饵受
+体,可通过与 RANKL 竞争性结合,拮抗 RANKL 对破
+骨细胞的作用, 从而抑制破骨细胞生成、 活化、 减少
+骨 吸收, 增加骨密度[19]。 骨形成标志 物 骨 钙 素
+(Osteocalcin,OC)是由成骨细胞分泌,是反映成骨细胞
+活性的敏感指标;骨吸收标志物抗酒石酸酸性磷酸酶
+(TRACP5b)由破骨细胞分泌,能反映破骨细胞活性。
+在本研究中,我们发现 β-arrestin 2 KO 雌鼠胫骨护骨
+素和 RANKL 表达均显著下降,提示骨形成及骨破坏
+均减少,我们推测骨破坏的降低可能是骨形成减少的
+代偿作用。 目前,有关 β-arrestin 2 KO 鼠骨组织中骨
+形成和骨吸收相关因子 mRNA 表达研究结果各不相
+同。 Pierroz 等[20]提取 β-arrestin 2 KO 雌鼠长骨骨髓中
+破骨细胞培养进行 RT-PCR,发现护骨素表达减少,
+RANKL 表达显著增加,而 Ferrari 等[14] 提取 β-arrestin
+2 KO 雄鼠颅骨原代成骨细胞进行 RT-PCR 则发现护
+骨素表达升高, RANKL 表达下降。 Gesty-Palmer D
+等[21]的 β-arrestin 2 KO 雄鼠护骨素和 RANKL 基因表
+达却均增加。 上述研究结果的不一致的原因可能与小
+鼠的性别、检测的组织和细胞不同有关。 尽管如此,血
+清中有关护骨素、RANKL,以及骨形成和骨吸收指标
+的研究结果较一致:护骨素、RANKL 和 TRACP5b 水平
+在 KO 鼠和野生型鼠中无明显差异[20],而 OC 在 KO
+鼠中明显降低[13,14],当给予甲状旁腺激素刺激后 KO
+雌鼠 OC 有所增加,但增加幅度低于野生型小鼠[13],
+提示敲除 β-arrestin 2 影响骨的形成。
+性激素对骨质的影响在既往研究中已有报
+道[14,22]。 Ferrari 等[14]研究显示,甲状旁腺激素对骨的
+作用受 β-arrestin 2 调控,这种调控作用有性别差异,
+如间歇性甲状旁腺激素治疗增加 β-arrestin 2 基因敲
+除雌鼠的骨量,但对基因敲除的雄鼠不起作用,提示
+β-arrestin 2 基因对骨的调节作用可能受到雌激素或雌
+激素信号通路的影响。 GPER1,即 G 蛋白耦联受体
+30,是一种新型雌激素受体[23,24],在多种组织中表
+达[25]。 GPER1 与经典雌激素核受体没有同源性[26],
+作用机制和效应也均有所不同,多项研究表明,当雌激
+素与 GPER1 结合后可快速诱导 ERK 以及 PI3K 活化,
+促进 Ca2+动员、cAMP 和 NO 生成等,参与雌激素非基
+因组效应的调节从而促进雌激素依赖性疾病的发生和
+发展[24,26-28]。 研究发现,GPER1 在人类的成骨细胞、
+破骨细胞、骨细胞[8]和软骨细胞[29]均有表达。 研究发
+现 GPER1 缺乏影响雌鼠骨的生长[30],但在 GPER1 缺
+乏的雄鼠身上并未发现此种现象,相反,GPER1 敲除
+雄鼠股骨体积增大,骨密度增加,骨皮质厚度增加[31]。
+在本研究 中, β-arrestin 2 KO 小 鼠 表 现 为 骨 组 织
+GPER1 表达下降,骨形成减少,提示 β-arrestin 2 可能
+通过 G 蛋白耦联刺激素受体信号通路对雌鼠骨组织
+产生作用。 为证实这一推测,还需进一步的研究讨论。
+综上所述,本研究在动物水平上发现 β-arrestin 2
+缺失会引起骨量减少和骨微结构改变,该改变与骨形
+成基因护骨素以及 GPER1 表达减少关联,提示了 β-
+arrestin 2 缺失导致的骨重塑可能与雌激素膜受体信号
+通路关联。 迄今有关 β-arrestin 2 通过雌激素信号通
+路引起骨重塑方面的研究工作在国际尚无报道。 探讨
+转接蛋白 β-arrestin 2 缺失引起骨重塑的机制研究,为
+开发雌激素治疗骨质疏松症潜在靶点,为临床骨质疏
+松症的治疗提供了新的理论基础。

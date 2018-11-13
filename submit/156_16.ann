@@ -1,0 +1,210 @@
+T1	Disease 8 11	糖尿病
+T2	Disease 13 17	腰肌梗死
+T3	Disease 309 315	糖尿病肌梗死
+T4	Disease 316 319	糖尿病
+T5	Disease 339 342	糖尿病
+T6	Test 346 348	血糖
+T7	Symptom 374 387	突发性局部肌肉组织疼痛肿胀
+T8	Anatomy 412 414	肌肉
+T9	Anatomy 417 419;420 422	股四 头肌
+T10	Anatomy 423 426	腓肠肌
+T11	Anatomy 427 431	下肢肌肉
+T12	Anatomy 433 437	上肢肌肉
+T13	Anatomy 456 461	腰背部肌肉
+T14	Disease 480 481;482 484	糖 尿病
+T15	Disease 486 490	腰肌梗死
+T16	Disease 505 509;510 512	糖尿病肌 梗死
+T17	Symptom 547 552	双下肢无力
+T18	Symptom 553 557	小便困难
+T19	Duration 558 563	10 余天
+T20	Symptom 611 617	自觉腰部扭伤
+T21	Symptom 650 652	尿频
+T22	Test 658 660	血糖
+T23	Symptom 680 684	意识障碍
+T24	Disease 698 705;706 707	糖尿病酮症酸中 毒
+T25	Symptom 730 732	发热
+T26	Test 733 735	体温
+T27	Symptom 752 763	感排尿困难及双下肢无力
+T28	Symptom 786 791	右背部肿物
+T29	Symptom 799 801	疼痛
+T30	Test 848 850	体温
+T31	Symptom 858 861	神志清
+T32	Symptom 862 865	精神差
+T33	Symptom 866 873;874 877	心肺腹部未见明 显异常
+T34	Anatomy 878 881	腰背部
+T35	Symptom 907 912	局部皮温高
+T36	Symptom 917 921	压痛明显
+T37	Symptom 928 935	双下肢感觉减退
+T38	Symptom 946 954	双下肢肌张力正常
+T39	Symptom 966 971	双侧伸屈髋
+T40	Test 973 978	伸曲膝肌力
+T41	Level 979 982	4 级
+T42	Symptom 983 993	双足背伸肌力 3 级
+T43	Symptom 994 1004	双足跖屈肌力 2 级
+T44	Symptom 1005 1007;1008 1017	双拇 趾背伸肌力 3 级
+T45	Symptom 1034 1036	发热
+T46	Symptom 1059 1063	腰背疼痛
+T47	Operation 1102 1106	手术治疗
+T48	Test 1113 1117	空腹血糖
+T49	Test_Value 1118 1132	14. 5 mmol / L
+T50	Test 1133 1138	HBA1C
+T51	Test 1147 1150	血尿酮
+T52	Test_Value 1153 1155	阳性
+T53	Test 1156 1159	血常规
+T54	Test 1160 1165	白细胞计数
+T55	Test_Value 1166 1180	12. 18×109 / L
+T56	Test_Value 1184 1193	80 mm / h
+T57	Test_Value 1201 1214	40. 10 mg / L
+T58	Test 1215 1219	肌酸激酶
+T59	Test_Value 1220 1232	381. 5 U / L
+T60	Test_Value 1237 1244;1245 1250	5 ~ 200 U / L
+T61	Test 1255 1260	乳酸脱氢酶
+T62	Test_Value 1261 1270	268 U / L
+T63	Test_Value 1271 1285	90 ~ 240 U / L
+T64	Test 1287 1290	尿蛋白
+T65	Test_Value 1291 1296;1297 1305	0. 35 g / 24 h
+T66	Test 1326 1332	结核菌素试验
+T67	Test 1336 1343	腰椎磁共振成像
+T68	Anatomy 1359 1364	肌肉软组织
+T69	Test_Value 1371 1379;1380 1387	T1 加权像呈等 信号及略低信号
+T70	Test_Value 1388 1398	T2 加权像呈高信号
+T71	Anatomy 1409 1412;1413 1414	腰椎椎 体
+T72	Test 1425 1433	四肢神经传导速度
+T73	Test_Value 1434 1440;1441 1445	双侧腓总神经 波幅降低
+T74	Test 1451 1460	双侧胫神经传导速度
+T75	Symptom 1473 1487	右侧腰部肿物为中心做纵行切口
+T76	Test_Value 1502 1519	15 cm×8 cm 大小囊性肿块
+T77	Test_Value 1533 1548	T1 加权像呈等信号及略低信号
+T78	Test 1582 1589	腰椎磁共振成像
+T79	Test_Value 1603 1614	囊壁见大量肌肉坏死组织
+T80	Anatomy 1615 1619	囊壁组织
+T81	Test 1620 1622;1623 1626	囊细 菌培养
+T82	Test 1634 1638	细菌涂片
+T83	Test_Value 1642 1644	阴性
+T84	Test_Value 1654 1669	部分肌纤维变性坏死伴中性粒细胞
+T85	Anatomy 1670 1674	淋巴细胞
+T86	Reason 1677 1679;1680 1692	间质 小血管壁增厚伴玻璃样变性
+T87	Test 1693 1698	中性粒细胞
+T88	Anatomy 1701 1705	毛细血管
+T89	Reason 1710 1728	血栓形成;纤维组织伴急慢性炎细胞浸润
+T90	Disease 1747 1754	糖尿病性肌梗死
+T91	Disease 1755 1763;1764 1765	周围软组织蜂窝织 炎
+T92	Test 1800 1802	体温
+T93	Test_Value 1802 1804	正常
+T94	Test 1811 1813	血糖
+T95	Level 1818 1819;1820 1827	下 肢肌力 4 级
+T96	Disease 1877 1880	糖尿病
+T97	Disease 1881 1887;1888 1892	腰背部肌肉梗 死并感染
+T98	Symptom 1910 1916	一般情况良好
+T99	Disease 1918 1922	肌肉梗死
+T100	Disease 1931 1937	糖尿病肌梗死
+T101	Disease 2005 2008	糖尿病
+T102	Test 2032 2034	血糖
+T103	Disease 2041 2051	微血管和大血管并发症
+T104	Disease 2066 2072	糖尿病肌梗死
+T105	Disease 2108 2114	糖尿病肌梗死
+T106	Disease 2115 2118;2119 2125	糖尿病 微血管并发症
+T107	Disease 2129 2132	糖尿病
+T108	Disease 2134 2143	微血管内皮功能障碍
+T109	Disease 2162 2168	局部组织损伤
+T110	Disease 2169 2173	缺血坏死
+T111	Anatomy 2185 2194	肌肉组织侧枝微循环
+T112	Disease 2201 2202;2203 2207	微 血管病变
+T113	Anatomy 2208 2212	肌肉组织
+T114	Disease 2221 2224	血管炎
+T115	Disease 2254 2260	1 型糖尿病
+T116	Disease 2282 2291	1 型糖尿病肌梗死
+T117	Disease 2318 2325	缺血再灌注损伤
+T118	Disease 2326 2329;2330 2333	糖尿病 肌梗死
+T119	Reason 2346 2352	内皮功能异常
+T120	Disease 2355 2357;2358 2363	小动 脉舒张障碍
+T121	Test 2374 2378	一氧化氮
+T122	Disease 2391 2398	缺血再灌注损伤
+T123	Reason 2399 2404	微血栓形成
+T124	Anatomy 2408 2412	内皮细胞
+T125	Test 2414 2418	一氧化氮
+T126	Anatomy 2435 2441	肿瘤坏死因子
+T127	Anatomy 2443 2450	血小板活化因子
+T128	Test 2455 2459	黏附因子
+T129	Reason 2473 2477	炎症反应
+T130	Disease 2492 2496	缺血损伤
+T131	Disease 2511 2520	糖尿病微血管并发症
+T132	Disease 2544 2550	糖尿病肌梗死
+T133	Disease 2582 2583;2584 2586	糖 尿病
+T134	Test 2590 2595	HBA1C
+T135	Test 2603 2605	血糖
+T136	Test 2614 2618;2619 2624	24 h 尿蛋白定量
+T137	Test_Value 2624 2626	偏高
+T138	Disease 2633 2638	糖尿病肾病
+T139	Anatomy 2639 2645	下肢胫腓神经
+T140	Disease 2660 2666	周围神经受损
+T141	Disease 2685 2688	糖尿病
+T142	Disease 2702 2703;2704 2706	肌 梗死
+T143	Disease 2713 2719	糖尿病肌梗死
+T144	Symptom 2735 2737	疼痛
+T145	Symptom 2742 2751	有时皮下可触及包块
+T146	Symptom 2769 2771	发热
+T147	Disease 2789 2791	感染
+T148	Anatomy 2797 2801	股四头肌
+T149	Disease 2802 2808	糖尿病肌梗死
+T150	Anatomy 2817 2820	腓肠肌
+T151	Anatomy 2822 2824;2825 2827	上肢 肌肉
+T152	Anatomy 2838 2840	肌肉
+T153	Anatomy 2841 2843	腰肌
+T154	Anatomy 2870 2872	肌肉
+T155	Anatomy 2873 2876	肌间膈
+T156	Anatomy 2891 2893	肌肉
+T157	Test 2927 2932	白细胞计数
+T158	Disease 2939 2941	感染
+T159	Anatomy 2947 2950	白细胞
+T160	Test 2979 2983	肌酸激酶
+T161	Test_Value 2987 2991	轻度升高
+T162	Disease 2997 3003	糖尿病肌梗死
+T163	Disease 3048 3050;3051 3055	糖尿 病肌梗死
+T164	Test_Value 3070 3080;3081 3095	T2 加权像高信号和 T1 加权像的等信号或低信号
+T165	Symptom 3098 3108	梗死后局部组织的水肿
+T166	Reason 3115 3117	出血
+T167	Symptom 3135 3139	肌肉脓肿
+T168	Disease 3140 3142;3143 3145	肌肉 肿瘤
+T169	Disease 3146 3153	软组织蜂窝织炎
+T170	Test 3161 3165	超声检查
+T171	Test 3184 3186	超声
+T172	Disease 3190 3196	糖尿病肌梗死
+T173	Disease 3207 3209	肿瘤
+T174	Disease 3215 3218	肌梗死
+T175	Test_Value 3226 3230;3231 3241	边界清楚 的低回声区或无回声区
+T176	Test 3276 3280	肌肉活检
+T177	Disease 3289 3295	糖尿病肌梗死
+T178	Test 3359 3361	血糖
+T179	Amount 3373 3376	小剂量
+T180	Drug 3377 3381	阿司匹林
+T181	Drug 3382 3386	硝苯地平
+T182	Drug 3387 3390	潘生丁
+T183	Drug 3394 3398	非甾体类
+T184	Operation 3449 3453	手术治疗
+T185	Disease 3466 3470	非肌梗死
+T186	Symptom 3539 3543	下肢无力
+T187	Test 3559 3561	血糖
+T188	Anatomy 3597 3599	脊髓
+T189	Symptom 3604 3610	神经系统症状
+T190	Disease 3621 3622;3623 3626	腰 肌梗死
+T191	Disease 3627 3629	感染
+T192	Operation 3635 3640	腰背部手术
+T193	Symptom 3646 3650	下肢无力
+T194	Symptom 3652 3656	小便困难
+T195	Disease 3672 3678	糖尿病肌梗死
+T196	Disease 3713 3716	糖尿病
+T197	Test 3720 3722	血糖
+T198	Disease 3819 3825;3826 3829	糖尿病大血管 并发症
+T199	Disease 3845 3851	糖尿病肌梗死
+T200	Level 3857 3859	严重
+T201	Disease 3860 3865;3866 3867	糖尿病并发 症
+T202	Test 3876 3878	血糖
+T203	Disease 3890 3893	糖尿病
+T204	Disease 3932 3935	糖尿病
+T205	Symptom 3939 3949	局部肌肉的突发性疼痛
+T206	Disease 3975 3978	肌梗死
+T207	Test 3991 3998	磁共振增强扫描
+T208	Test_Value 4005 4009;4010 4032	T2 加 权像呈高信号和 T1 加权像呈等信号或低信号
+T209	Disease 4048 4052	脓性肌炎
+T210	Disease 4053 4057	肌肉肿瘤

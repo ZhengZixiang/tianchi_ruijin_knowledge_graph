@@ -1,0 +1,378 @@
+T4	Disease 1667 1672	高尿酸血症
+T5	Disease 1714 1717	糖尿病
+T7	Test 1728 1731	血尿酸
+T8	Test 1950 1962	非同日两次空腹血尿酸水平
+T9	Test_Value 1962 1977	男性>420 IlLmol/L
+T10	Test_Value 1978 1984;1985 1992	女性>360 Ixmol/L
+T11	Test 2062 2067	血尿酸水平
+T12	Test_Value 2067 2079	>420 ixmol/L
+T13	Test_Value 2123 2130	7 mg/d1
+T14	Disease 2268 2271	HUA
+T15	Disease 2141 2144	HUA
+T16	Disease 2198 2201	HUA
+T17	Disease 2230 2233	HUA
+T18	Test 2149 2154	血尿酸水平
+T19	Disease 2333 2335	痛风
+T6	Disease 1737 1739	痛风
+T20	Disease 2396 2399	HUA
+T21	Disease 2400 2402	痛风
+T22	Anatomy 2496 2498	肾脏
+T23	Anatomy 1744 1746	肾脏
+T24	Anatomy 1747 1752	内分泌代谢
+T25	Anatomy 1753 1755;1756 1758	心脑 血管
+T26	Anatomy 1821 1825	风湿免疫
+T27	Anatomy 1826 1828	肾脏
+T28	Anatomy 1829 1834	内分泌代谢
+T29	Anatomy 1835 1836;1837 1839	心 血管
+T30	Anatomy 1840 1842	神经
+T31	Anatomy 1843 1845	泌尿
+T32	Test 1994 1997	尿酸盐
+T33	Test_Value 2007 2018	420 p,moL/L
+T34	Anatomy 2475 2477	肝脏
+T35	Anatomy 2504 2507	消化道
+T36	Anatomy 2514 2517	肾小球
+T37	Anatomy 2520 2525	近端肾小管
+T38	Test 2456 2458	尿酸
+T39	Test 2492 2494	尿酸
+T40	Test 2511 2513	尿酸
+T41	Disease 2605 2608	HUA
+T44	Test 2618 2621	血尿酸
+T45	Reason 2155 2157	年龄
+T46	Reason 2158 2160	性别
+T47	Reason 2161 2163	种族
+T48	Reason 2164 2166	遗传
+T49	Reason 2167 2171	饮食习惯
+T50	Reason 2172 2174	药物
+T51	Anatomy 2645 2653	关节及周围软组织
+T52	Anatomy 2654 2657	肾小管
+T53	Anatomy 2658 2660	血管
+T54	Test 2628 2631	尿酸盐
+T55	Anatomy 2875 2879	关节软骨
+T56	Anatomy 2880 2882	骨质
+T57	Anatomy 2883 2885	肾脏
+T58	Anatomy 2887 2891	血管内膜
+T59	Anatomy 2666 2668;2669 2672	中性 粒细胞
+T60	Anatomy 2673 2677	巨噬细胞
+T61	Disease 2903 2906	HUA
+T62	Anatomy 2908 2909	心
+T63	Anatomy 2910 2911	脑
+T64	Anatomy 2912 2913	肾
+T65	Anatomy 2936 2942	血管内皮细胞
+T66	Disease 2442 2445	HUA
+T67	Anatomy 2968 2970	血管
+T68	Anatomy 3019 3026	肾小管上皮细胞
+T69	Anatomy 3027 3031	心肌细胞
+T70	Disease 3098 3101	HUA
+T71	Disease 3102 3104	痛风
+T72	Disease 3151 3154	HUA
+T73	Test 3121 3134	非同13两次空腹血尿酸水平
+T74	Test_Value 3134 3146	>420 Ixmol/L
+T75	Reason 3155 3161	血液系统肿瘤
+T76	Reason 3162 3170	慢性。肾功能不全
+T77	Reason 3171 3175;3176 3179	先天性代 谢异常
+T78	Reason 3180 3182	中毒
+T79	Reason 3183 3185	药物
+T80	Reason 3217 3222	痛风家族史
+T81	Disease 3223 3226	HUA
+T82	Test 3191 3194;3195 3197	血尿酸 水平
+T83	Test_Value 3197 3199	升高
+T84	Test_Value 1731 1733	升高
+T85	Disease 3248 3250	痛风
+T86	Disease 3251 3254	HUA
+T87	Disease 3269 3272	关节炎
+T88	Disease 3273 3279	痛风性关节炎
+T89	Disease 3281 3286	尿酸性肾病
+T90	Disease 3288 3291	肾结石
+T91	Disease 3293 3295	痛风
+T93	Disease 3311 3313	痛风
+T92	Disease 3302 3304;3305 3309	痛风 性关节炎
+T94	Disease 3315 3318	HUA
+T95	Anatomy 3323 3327	第一跖趾
+T96	Anatomy 3328 3329	踝
+T97	Anatomy 3330 3331	膝
+T98	Symptom 3336 3337	红
+T99	Symptom 3338 3339	肿
+T100	Symptom 3340 3341	热
+T101	Symptom 3342 3343	痛
+T102	Disease 3348 3350	痛风
+T103	Anatomy 3368 3370;3371 3373	上肢 关节
+T104	Symptom 3376 3381	痛风石形成
+T105	Disease 3387 3389	痛风
+T106	Level 3354 3356	长期
+T107	Level 3356 3358	反复
+T108	Disease 3455 3457	痛风
+T109	Disease 3467 3473	痛风性关节炎
+T110	Anatomy 3487 3493	第一跖趾关节
+T111	Anatomy 3495 3496	踝
+T112	Anatomy 3497 3498	膝
+T113	Level 3505 3507	急骤
+T114	Anatomy 3527 3531	单个关节
+T115	Level 3548 3550	反复
+T116	Level 3541 3547	完全自然缓解
+T117	Duration 3534 3538;3539 3540	数天至数 周
+T118	Duration 3508 3513	24 h内
+T122	Symptom 3589 3592	痛风石
+T123	Anatomy 3624 3628	第一跖趾
+T124	Anatomy 3629 3631	耳郭
+T125	Anatomy 3632 3636	前臂伸面
+T126	Anatomy 3637 3640	指关节
+T127	Anatomy 3641 3642;3643 3645	肘 关节
+T128	Symptom 3672 3674	破溃
+T129	Symptom 3675 3679	形成瘘管
+T130	Symptom 3681 3690	白色豆腐渣样排出物
+T133	Test_Value 3718 3729	双折光的针形尿酸钠晶体
+T134	Test 3694 3699	关节液检查
+T131	Test 3740 3746	关节B超检查
+T132	Test_Value 3757 3760	暴雪征
+T135	Test_Value 3763 3764;3765 3767	双 轨征
+T136	Test_Value 3776 3784	关节内点状强回声
+T137	Test_Value 3785 3791;3792 3793	强回声团伴声 影
+T138	Anatomy 3747 3750	关节腔
+T139	Test 3808 3815	双能(源)CT
+T140	Test 3849 3851	X线
+T141	Test_Value 3861 3866	软组织肿胀
+T142	Level 3867 3869	反复
+T143	Test_Value 3876 3883	关节软骨缘破坏
+T144	Test_Value 3884 3890	关节面不规则
+T145	Test_Value 3891 3897	关节间隙狭窄
+T146	Symptom 3898 3900;3901 3902	痛风 石
+T147	Test_Value 3907 3915	骨质呈凿孔样缺损
+T148	Test_Value 3916 3920	边缘锐利
+T149	Test_Value 3921 3927;3928 3933	缺损呈半圆形 或连续弧形
+T150	Test_Value 3934 3946	骨质边缘可有骨质增生反应
+T151	Disease 3950 3952	痛风
+T152	Test 4010 4016	关节B超检查
+T153	Disease 4001 4002;4003 4004	痛 风
+T154	Disease 3974 3975;3976 3977	痛 风
+T155	Test 4017 4023	双能cT检查
+T156	Disease 4152 4154	痛风
+T157	Disease 4162 4168	痛风性关节炎
+T158	Disease 4172 4175	HUA
+T159	Disease 4200 4205;4206 4208	急性尿酸性 肾病
+T160	Disease 4209 4216	慢性尿酸盐肾病
+T161	Disease 4217 4220	肾石症
+T162	Disease 4222 4225	高血糖
+T163	Disease 4226 4230	血脂紊乱
+T164	Disease 4236 4239	冠心病
+T165	Disease 4240 4245	心功能不全
+T166	Disease 4246 4248	卒中
+T167	Disease 4231 4234	高血压
+T168	Disease 4255 4258	HUA
+T169	Disease 4261 4264	HUA
+T170	Disease 4265 4267	痛风
+T171	Treatment 4280 4282	宣教
+T172	Treatment 4283 4285;4286 4290	生活 方式干预
+T173	Treatment 4298 4308	综合和长期的全程管理
+T174	Disease 4291 4294	HUA
+T175	Test 4311 4312;4313 4317	血 尿酸水平
+T176	Disease 2 7	高尿酸血症
+T177	Disease 21 26	高尿酸血症
+T43	Treatment 4363 4367	患者管理
+T179	Treatment 4368 4372	患者管理
+T180	Disease 4373 4376	HUA
+T181	Disease 4377 4379	痛风
+T182	Disease 4482 4485	HUA
+T183	Treatment 4485 4489	患者管理
+T184	Treatment 5248 5253	非药物治疗
+T185	Treatment 5285 5290	低嘌呤饮食
+T186	Treatment 5297 5307;5308 5322	严格限制动物内脏、海 产品和肉类等高嘌呤食物的摄入
+T187	Treatment 5542 5546	大量饮水
+T188	Disease 4652 4654	痛风
+T189	Disease 4662 4668	痛风性关节炎
+T190	Disease 4675 4678	HUA
+T191	Disease 4740 4742	痛风
+T192	Disease 4829 4832	HUA
+T193	Disease 4833 4835	痛风
+T194	Disease 4869 4881	急、慢性尿酸(盐)’肾病
+T195	Drug 4929 4934	糖皮质激素
+T196	Disease 4910 4918	中重度肾功能不全
+T197	Test 4899 4902	肾功能
+T198	Disease 4938 4941	肾石症
+T199	Treatment 4944 4947;4948 4949	碱化尿 液
+T200	Treatment 4955 4957	溶石
+T201	Operation 4958 4962	手术治疗
+T202	Disease 4968 4971	高血糖
+T203	Disease 4972 4975;4976 4977	血脂紊 乱
+T204	Disease 4978 4981	高血压
+T205	Disease 5017 5021	心肌梗死
+T206	Disease 5022 5027	心功能不全
+T207	Disease 5028 5030	痛风
+T208	Drug 5040 5055	环氧化酶2(COX-2)抑制剂
+T209	Disease 5072 5075	HUA
+T210	Disease 5076 5078	痛风
+T211	Reason 5081 5082;5083 5084	久 坐
+T212	Reason 5085 5092	高嘌呤高脂饮食
+T213	Reason 5093 5099	不良生活方式
+T214	Disease 5103 5105	肥胖
+T215	Disease 5106 5110;5111 5114	代谢异常 性疾病
+T216	Disease 5116 5121	糖代谢异常
+T217	Disease 5122 5126	血脂紊乱
+T218	Disease 5127 5134	非酒精性脂肪肝
+T219	Disease 5137 5138;5139 5144	心 脑血管疾病
+T220	Disease 5146 5149	高血压
+T221	Disease 5150 5153	冠心病
+T222	Disease 5154 5158	心力衰竭
+T223	Disease 5159 5161	卒中
+T224	Disease 5165 5166;5167 5171	慢 性肾脏病
+T225	Disease 5199 5202	HUA
+T226	Disease 5203 5205	痛风
+T227	Test 5224 5229	血尿酸水平
+T228	Disease 5237 5240	HUA
+T229	Disease 5241 5243	痛风
+T230	Disease 5665 5668	HUA
+T231	Disease 5669 5671	痛风
+T232	Disease 5692 5695	HUA
+T233	Disease 5748 5751	HUA
+T234	Disease 5793 5796	HUA
+T235	Disease 5835 5838	HUA
+T236	Reason 5883 5885	肥胖
+T237	Test 5913 5918	血尿酸水平
+T238	Disease 5928 5931	HUA
+T239	Test 5934 5936	体重
+T240	Test_Value 5949 5966	18.5—23.9 kg/0512
+T241	Disease 5987 5990	HUA
+T242	Disease 6155 6158	HUA
+T243	Drug 6350 6353	别嘌醇
+T244	Drug 6354 6357;6358 6359	非布司 他
+T245	Drug 6362 6365	别嘌醇
+T246	Drug 6310 6318	抑制尿酸生成药物
+T247	Amount 6372 6383	50~100 mg/d
+T248	Test 6390 6392;6393 6396	血尿 酸水平
+T249	Amount 6409 6418	50~100 mg
+T250	Amount 6424 6432	600 mg/d
+T251	Disease 6433 6438	肾功能不全
+T252	Amount 6450 6461	1.5 mg/eGFR
+T253	Amount 6491 6502	50~100 mg/d
+T254	Drug 6511 6514	别嘌醇
+T255	Symptom 6518 6524	皮呋过敏反应
+T256	Symptom 6525 6531	肝肾功能损伤
+T257	Drug 6613 6616	别嘌醇
+T258	Drug 6673 6676	别嘌醇
+T259	Drug 6700 6704	非布司他
+T260	Drug 6707 6719	选择性黄嘌呤氧化酶抑制剂
+T261	Amount 6725 6735	20~40 mg/d
+T262	Amount 6759 6766	80 mg/d
+T263	Anatomy 6773 6775	肝脏
+T264	Disease 6780 6785	肾功能不全
+T265	Disease 6805 6810	肾功能不全
+T266	Disease 6830 6835	肾功能不全
+T267	SideEff 6860 6862	恶心
+T268	SideEff 6863 6865	皮疹
+T269	SideEff 6854 6859	肝功能损害
+T270	Drug 6878 6885	促尿酸排泄药物
+T271	Drug 6886 6890	苯溴马隆
+T273	Anatomy 6916 6919	肾小管
+T274	Drug 6942 6946	苯溴马隆
+T275	Amount 6953 6963	25~50 mg/d
+T276	Amount 6982 6989	75 mg/d
+T277	Amount 6990 6998	100 mg/d
+T278	Disease 7009 7017	轻中度肾功能异常
+T279	Disease 7018 7021	肾移植
+T280	Disease 6786 6788;6789 6790	肾移 植
+T281	Treatment 7033 7037	碱化尿液
+T282	SideEff 7083 7087	胃肠不适
+T283	SideEff 7088 7090	腹泻
+T284	SideEff 7091 7093	皮疹
+T285	SideEff 7095 7100	肝功能损害
+T317	Test 7039 7044	尿液pH值
+T318	Test_Value 7047 7054	6.2~6.9
+T319	Test_Value 7067 7075	2 000 ml
+T320	Test 7065 7067	尿量
+T321	Test 7024 7028	eGFR
+T322	Test 5593 5595	尿量
+T323	Test_Value 5595 5609	2 000~3 000 ml
+T998	Test 2979 2984	LDL-C
+T1002	Test 3970 3973	ACR
+T1003	Test 4038 4041	ACR
+T1004	Test 4060 4063	ACR
+T1012	Disease 509 512	HUA
+T1013	Disease 1686 1689	HUA
+T1014	Disease 1868 1871	HUA
+T1015	Disease 1902 1905	HUA
+T1016	Disease 1918 1921	HUA
+T1017	Disease 1935 1938	HUA
+T1018	Disease 2134 2137	HUA
+T1019	Disease 3110 3113	HUA
+T1020	Disease 3402 3405	HUA
+T1021	Disease 4495 4498	HUA
+T1022	Disease 5353 5356	HUA
+T1023	Disease 5887 5890	HUA
+T1024	Disease 6001 6004	HUA
+T1025	Disease 6121 6124	HUA
+T1084	Test 5566 5569	肾功能
+T1092	Test 7056 7059	肾功能
+T1112	Test 2033 2035	尿酸
+T1113	Test 2569 2571	尿酸
+T1115	Test 2867 2869	尿酸
+T1116	Test 3258 3260	尿酸
+T1119	Test 3828 3830	尿酸
+T1122	Test 4588 4590	尿酸
+T1123	Test 4616 4618	尿酸
+T1124	Test 4767 4769	尿酸
+T1125	Test 4788 4790	尿酸
+T1127	Test 5006 5008	尿酸
+T1128	Test 5419 5421	尿酸
+T1129	Test 5869 5871	尿酸
+T1130	Test 6211 6213	尿酸
+T1131	Test 6232 6234	尿酸
+T1133	Test 6261 6263	尿酸
+T1135	Test 6339 6341	尿酸
+T1136	Test 6551 6553	尿酸
+T1137	Test 6742 6744	尿酸
+T1140	Test 6919 6921	尿酸
+T1141	Test 6927 6929	尿酸
+T1142	Test 6936 6938	尿酸
+T1143	Test 6973 6975	尿酸
+T1251	Disease 2992 2998	动脉粥样硬化
+T1255	Test 5945 5948	BMI
+T1256	Test 5905 5907	体重
+T1275	Test 6280 6282;6283 6284	肾功 能
+T1278	Disease 3442 3450	慢性痛风性关节炎
+T1279	Disease 3616 3618	痛风
+T1280	Disease 3649 3651	痛风
+T1281	Disease 3794 3796	痛风
+T1282	Disease 4070 4072	痛风
+T1283	Disease 4098 4100	痛风
+T1284	Disease 4130 4132	痛风
+T1285	Disease 4545 4547	痛风
+T1286	Disease 4798 4800	痛风
+T1287	Disease 4919 4920;4921 4922	痛 风
+T1288	Disease 5357 5359	痛风
+T1289	Disease 5549 5551	痛风
+T1290	Disease 5706 5708	痛风
+T1291	Disease 5737 5739	痛风
+T1292	Disease 5798 5800	痛风
+T1293	Disease 5815 5817	痛风
+T1294	Disease 5894 5896	痛风
+T1295	Disease 5978 5980	痛风
+T1296	Disease 6104 6106	痛风
+T1297	Disease 6125 6127	痛风
+T1298	Disease 6221 6223	痛风
+T1315	Test 4757 4758;4759 4760	尿 酸
+T1316	Test 6253 6254;6255 6256	尿 酸
+T1320	Test 6462 6471	估算的肾小球滤过率
+T1	Reason 2176 2178	环境
+T2	Test 2584 2586	尿酸
+T3	Disease 3410 3413;3414 3417	痛风性 关节炎
+T42	Disease 3426 3432	痛风性关节炎
+T119	Disease 3574 3575;3576 3578	关 节炎
+T120	Anatomy 3553 3556;3557 3558	受累关 节
+T121	Anatomy 3703 3708	关节滑囊液
+T178	Anatomy 3824 3828	关节周围
+T286	Disease 4045 4048	风湿病
+T287	Disease 4195 4199	肾脏病变
+T288	Test_Value 4590 4592	升高
+T289	Drug 4888 4892;4893 4895	损害肾脏 药物
+T290	Disease 5393 5398	肾功能不全
+T291	Drug 6244 6249	降尿酸药物
+T292	Disease 6574 6581	超敏反应综合征
+T293	Drug 6599 6601;6602 6606	噻嗪 类利尿剂
+T294	Disease 6607 6612	肾功能不全
+T295	Disease 6582 6594	HLA—B*5801基因
+T296	Test_Value 6594 6596	阳性
+T297	Level 6802 6805	轻中度
+T298	Level 6827 6829	重度
+T299	Level 6836 6841	G4—5期
+T300	Level 6811 6816	G1~3期
+T301	Anatomy 6907 6912	URATl
+T272	Anatomy 6894 6900;6901 6906	肾小管尿酸转 运蛋白-1

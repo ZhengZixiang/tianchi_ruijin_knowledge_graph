@@ -1,0 +1,378 @@
+T1	Anatomy 14 16	胰岛
+T2	Test 43 45	血糖
+T3	Disease 51 57	糖尿病并发症
+T4	Test 81 88	胰岛生理性血糖
+T5	Test 95 97	血糖
+T6	Anatomy 103 105	胰岛
+T7	Disease 108 111	糖尿病
+T8	Disease 135 138	糖尿病
+T9	Disease 777 780	糖尿病
+T10	Disease 790 793	高血糖
+T11	Disease 805 808	糖尿病
+T12	Test 810 812	血糖
+T13	Disease 829 835	2 型糖尿病
+T14	Test 839 844	HBA1C
+T15	Test_Value 844 850	<6. 5%
+T16	Disease 871 877	1 型糖尿病
+T17	Disease 889 895	1 型糖尿病
+T18	Test 930 936	实时动态血糖
+T19	Drug 941 944	胰岛素
+T20	Method 944 947;948 949	皮下输 注
+T21	Disease 958 964	1 型糖尿病
+T22	Test 965 967	血糖
+T23	Disease 976 980;981 982	夜间低血 糖
+T24	Level 989 991	严重
+T25	Disease 991 996	夜间低血糖
+T26	Disease 998 1004	1 型糖尿病
+T27	Test 1019 1021	血糖
+T28	Anatomy 1052 1054	胰岛
+T29	Disease 1091 1094	糖尿病
+T30	Test 1112 1116	动态血糖
+T31	Method 1119 1121	皮下
+T32	Drug 1121 1124	胰岛素
+T33	Test 1131 1133	血糖
+T34	Drug 1141 1144	胰岛素
+T35	Anatomy 1186 1188	胰岛
+T36	Anatomy 1212 1214	胰岛
+T37	Anatomy 1227 1228;1229 1230	胰 岛
+T38	Test 1231 1233	血糖
+T39	Anatomy 1280 1282	胰岛
+T40	Anatomy 1305 1307	胰岛
+T41	Anatomy 1313 1317	胰岛系统
+T42	Drug 1319 1322	胰岛素
+T43	Method 1322 1325	输注泵
+T44	Test 1328 1330	血糖
+T45	Drug 1341 1344	胰岛素
+T46	Method 1344 1347	输注泵
+T47	Method 1372 1376	皮下输注
+T48	Test 1395 1397	血糖
+T49	Test 1419 1420;1421 1422	血 糖
+T50	Test 1433 1435	血糖
+T51	Test 1474 1476	血糖
+T52	Anatomy 1486 1488	胰岛
+T53	Anatomy 1513 1515	胰腺
+T54	Drug 1518 1521	胰岛素
+T55	Anatomy 1533 1535	胰岛
+T56	Anatomy 1541 1543	胰岛
+T57	Anatomy 1730 1732	胰岛
+T58	Test 1746 1748	血糖
+T59	Reason 1756 1765	胰岛素作用延迟因素
+T60	Test 1779 1781	血糖
+T61	Drug 1790 1793	胰岛素
+T62	Test 1813 1815	血糖
+T63	Drug 1835 1838	胰岛素
+T64	Drug 1848 1851	胰岛素
+T65	Test 1857 1859	血糖
+T66	Test 1910 1911;1912 1913	血 糖
+T67	Test 1931 1933	血糖
+T68	Test 1944 1946	血糖
+T69	Test 1957 1959	血糖
+T70	Test 1981 1983	血糖
+T71	Test 1988 1990	血糖
+T72	Drug 1996 1999	胰岛素
+T73	Test 2012 2014	血糖
+T74	Anatomy 2047 2049	胰岛
+T75	Disease 2097 2100	糖尿病
+T76	Drug 2109 2112	胰岛素
+T77	Disease 2126 2129	糖尿病
+T78	Disease 2149 2152	糖尿病
+T79	Anatomy 2180 2182	胰岛
+T80	Symptom 2209 2212	低血糖
+T81	Symptom 2215 2218	低血糖
+T82	Drug 2220 2223	胰岛素
+T83	Anatomy 2228 2230	胰岛
+T84	Symptom 2243 2246	低血糖
+T85	SideEff 2328 2333	低血糖阈值
+T86	Test_Value 2336 2349	3. 9 mmol / L
+T87	Drug 2351 2354	胰岛素
+T88	Drug 2362 2365	胰岛素
+T89	Duration 2430 2434	6 个月
+T90	Disease 2447 2453	1 型糖尿病
+T91	Drug 2463 2467	胰岛素泵
+T92	Level 2525 2527	严重
+T93	Disease 2528 2533	低血糖昏迷
+T94	Level 2535 2537	中度
+T95	Disease 2545 2548	低血糖
+T96	Test 2583 2588	HBA1C
+T97	Anatomy 2612 2614	胰岛
+T98	Test 2615 2616;2617 2621	胰 岛素反应
+T99	Disease 2708 2713	夜间低血糖
+T100	Disease 2715 2719;2720 2722	1 型糖 尿病
+T101	Duration 2753 2756;2757 2758	3 个 月
+T102	SideEff 2773 2778	夜间低血糖
+T103	Test_Value 2781 2795	<3. 6 mmol / L
+T104	SideEff 2814 2817	低血糖
+T105	Test 2831 2836;2837 2839	夜间探头血 糖值
+T106	Test_Value 2839 2853	<3. 9 mmol / L
+T107	Test_Value 2857 2861	显著下降
+T108	Disease 2875 2878	低血糖
+T109	Test 2887 2892	HBA1C
+T110	Test 2901 2903	血糖
+T111	Symptom 2923 2926	低血糖
+T112	Test 2934 2936	血糖
+T113	Disease 2942 2945	低血糖
+T114	Drug 2946 2949	胰岛素
+T115	Disease 3068 3071	低血糖
+T116	Drug 3078 3081	胰岛素
+T117	Disease 3085 3088	低血糖
+T118	Disease 3120 3126	1 型糖尿病
+T119	Test 3153 3155	血糖
+T120	Disease 3200 3203	低血糖
+T121	SideEff 3231 3234	低血糖
+T122	Test 3245 3248;3249 3252	夜间平 均血糖
+T123	Test_Value 3252 3256	显著升高
+T124	Disease 3274 3280	1 型糖尿病
+T125	Disease 3322 3327	夜间低血糖
+T126	Test_Value 3328 3342	≤3. 9 mmol / L
+T127	Level 3396 3398	中度
+T128	Symptom 3399 3402	低血糖
+T129	Test 3410 3412	血糖
+T130	Test 3415 3417	血糖
+T131	Anatomy 3439 3441	胰岛
+T132	Disease 3462 3468	1 型糖尿病
+T133	Drug 3488 3491	胰岛素
+T134	Drug 3534 3538	CSII
+T135	Anatomy 3547 3549	胰岛
+T136	Test 3553 3555	血糖
+T137	Test_Value 3556 3576	3. 9 ~ 8. 0 mmol / L
+T138	Test 3596 3598	血糖
+T139	Test_Value 3598 3612	≤3. 9 mmol / L
+T140	Symptom 3614 3617	低血糖
+T141	Test 3631 3632;3633 3634	血 糖
+T142	Test_Value 3634 3648	>8. 0 mmol / L
+T143	Anatomy 3665 3667	胰岛
+T144	Test 3671 3673	血糖
+T145	Test_Value 3673 3674;3675 3688	≤ 3. 0 mmol / L
+T146	SideEff 3690 3693	低血糖
+T147	Disease 3721 3727	1 型糖尿病
+T148	Anatomy 3740 3742	胰岛
+T149	Drug 3744 3748	CSII
+T150	Test 3751 3753	血糖
+T151	Disease 3792 3798	1 型糖尿病
+T152	Test 3807 3809	血糖
+T153	Anatomy 3824 3826	胰岛
+T154	Test 3831 3835	夜间血糖
+T155	Test_Value 3835 3850	≥16. 7 mmol / L
+T156	Disease 3873 3876	低血糖
+T157	Anatomy 3903 3905	胰岛
+T158	Drug 3907 3911	CSII
+T159	Test 3915 3919	夜间血糖
+T160	Test_Value 3920 3940	3. 5 ~ 7. 8 mmol / L
+T161	Test 3959 3963	平均血糖
+T162	Test_Value 3966 3976	2 mmol / L
+T163	SideEff 3988 3994	低血糖事件减
+T164	Test 4012 4014	血糖
+T165	Anatomy 4044 4046	胰岛
+T166	Test 4047 4049	血糖
+T167	Anatomy 4066 4068	胰岛
+T168	Test 4128 4133	HBA1C
+T169	Disease 4149 4155	1 型糖尿病
+T170	Anatomy 4184 4186	胰岛
+T171	Drug 4188 4192	CSII
+T172	Test 4194 4196	血糖
+T173	Test_Value 4218 4229	140 次 / min
+T174	Test 4280 4287	24 h 血糖
+T175	Test_Value 4292 4310	3. 9 ~ 10 mmol / L
+T176	Test 4329 4331	血糖
+T177	SideEff 4351 4354	低血糖
+T178	Anatomy 4387 4389	胰岛
+T179	Test 4391 4393	血糖
+T180	Test 4406 4408	血糖
+T181	Anatomy 4422 4424	胰岛
+T182	Symptom 4427 4430	低血糖
+T183	Disease 4456 4462	1 型糖尿病
+T184	Anatomy 4493 4495	胰岛
+T185	Test 4500 4502	血糖
+T186	Test_Value 4503 4509;4510 4518	< 3. 9 mmol / L
+T187	Symptom 4520 4523	低血糖
+T188	Test 4550 4551;4552 4553	血 糖
+T189	Anatomy 4586 4588	胰岛
+T190	Symptom 4591 4594	低血糖
+T191	Test 4602 4606	平均血糖
+T192	Test 4628 4630	血糖
+T193	Test 4637 4639	血糖
+T194	Test 4643 4645	血糖
+T195	Method 4652 4656	皮下输注
+T196	Drug 4656 4659	胰岛素
+T197	Anatomy 4669 4671	胰岛
+T198	Test 4672 4673;4674 4675	血 糖
+T199	Anatomy 4683 4685	胰岛
+T200	Disease 4710 4716	1 型糖尿病
+T201	Disease 4738 4744	1 型糖尿病
+T202	Disease 4745 4754	妊娠 1 型糖尿病
+T203	Disease 4755 4761	2 型糖尿病
+T204	Level 4762 4764	重症
+T205	Anatomy 4781 4783	胰岛
+T206	Test 4785 4787	血糖
+T207	Disease 4792 4797	夜间低血糖
+T208	Anatomy 4831 4833	胰岛
+T209	Anatomy 4845 4847	胰岛
+T210	Disease 4886 4889	糖尿病
+T211	Anatomy 4913 4915	胰岛
+T212	Disease 4929 4932;4933 4936	1 型 糖尿病
+T213	Disease 4940 4943	糖尿病
+T214	SideEff 4960 4965;4966 4968	夜间低血糖 事件
+T215	Test 4969 4971	血糖
+T216	Test_Value 4971 4985	<3. 5 mmol / L
+T217	Test 5013 5014;5015 5016	血 糖
+T218	Test_Value 5016 5030	<3. 3 mmol / L
+T219	Symptom 5032 5035	低血糖
+T220	Test_Value 5037 5041	显著下降
+T221	Test 5053 5055	血糖
+T222	Test_Value 5055 5058;5059 5067	>10 mmol / L
+T223	Test 5070 5072	血糖
+T224	Test_Value 5074 5078	显著降低
+T225	Test 5090 5092	血糖
+T226	Test_Value 5093 5104;5105 5113	3. 9 ~ 7. 8 mmol / L
+T227	Disease 5154 5155;5156 5160	1 型糖尿病
+T228	Anatomy 5178 5180	胰岛
+T229	Test 5221 5225	血糖指数
+T230	Test_Value 5225 5229	显著降低
+T231	SideEff 5251 5256	低血糖事件
+T232	Test 5277 5281	平均血糖
+T233	Test_Value 5281 5283	升高
+T234	Anatomy 5321 5323	胰岛
+T235	Anatomy 5357 5359	胰岛
+T236	Disease 5394 5400	1 型糖尿病
+T237	Duration 5405 5408	3 周
+T238	Disease 5421 5427	1 型糖尿病
+T239	Duration 5433 5436	4 周
+T240	Test 5450 5456	夜间平均血糖
+T241	Test_Value 5458 5460	降低
+T242	Test_Value 5461 5465;5466 5474	0. 8 mmol / L
+T243	Test 5502 5506	夜间血糖
+T244	Test_Value 5506 5511;5512 5520	<3. 9 mmol / L
+T245	Symptom 5522 5525	低血糖
+T246	Test 5546 5548	血糖
+T247	Test_Value 5550 5561;5562 5570	3. 9 ~ 8. 0 mmol / L
+T248	Test 5593 5602	24 h 平均血糖
+T249	Test_Value 5605 5609;5610 5618	0. 5 mmol / L
+T250	Test 5631 5642	24 h 胰岛素输注量
+T251	Duration 5659 5662	6 周
+T252	Anatomy 5669 5671	胰岛
+T253	Test 5673 5676	SAP
+T254	Disease 5691 5697	1 型糖尿病
+T255	Test 5699 5701	血糖
+T256	Test_Value 5701 5715	<3. 9 mmol / L
+T257	Symptom 5717 5720	低血糖
+T258	Test 5741 5750	24 h 平均血糖
+T259	Test_Value 5750 5767	下降 0. 55 mmol / L
+T260	Anatomy 5796 5798	胰岛
+T261	Test 5802 5806	夜间血糖
+T262	Symptom 5815 5818	低血糖
+T263	Test 5825 5827	血糖
+T264	Symptom 5832 5835	高血糖
+T265	Test 5836 5840	夜间血糖
+T266	Test 5847 5849	血糖
+T267	Disease 5866 5872	1 型糖尿病
+T268	Duration 5886 5889	1 周
+T269	Test 5898 5907	24 h 平均血糖
+T270	Test_Value 5911 5924	0. 7 mmol / L
+T271	Test 5935 5937	血糖
+T272	Test_Value 5937 5951	<3. 9 mmol / L
+T273	Symptom 5953 5956	低血糖
+T274	Test 5963 5965	血糖
+T275	Test_Value 5967 5988	3. 9 ~ 10. 0 mmol / L
+T276	Anatomy 6041 6043	胰岛
+T277	Disease 6049 6052	低血糖
+T278	Drug 6065 6068	胰岛素
+T279	Anatomy 6071 6073	胰岛
+T280	Drug 6075 6078	胰岛素
+T281	Method 6078 6082	皮下输注
+T282	Test 6109 6111	血糖
+T283	Test 6125 6127	血糖
+T284	Test 6135 6139	胰升糖素
+T285	Symptom 6146 6149	低血糖
+T286	Anatomy 6155 6162	胰岛 α 细胞
+T287	Disease 6220 6226	1 型糖尿病
+T288	Anatomy 6228 6232	胰升糖素
+T289	Disease 6240 6241;6242 6244	低 血糖
+T290	Method 6254 6256	输注
+T291	Drug 6256 6260	胰升糖素
+T292	Disease 6278 6281	低血糖
+T293	Anatomy 6285 6287	胰岛
+T294	Test 6291 6293	血糖
+T295	Test 6320 6322	血糖
+T296	Anatomy 6330 6332	胰岛
+T297	Disease 6357 6362;6363 6364	1 型糖尿 病
+T298	Anatomy 6417 6419	胰岛
+T299	Test 6423 6425	血糖
+T300	SideEff 6477 6479;6480 6481	低血 糖
+T301	Test 6482 6484	血糖
+T302	Drug 6515 6518	胰岛素
+T303	Disease 6532 6538	1 型糖尿病
+T304	Drug 6562 6566	CSII
+T305	Test 6574 6578	血糖监测
+T306	Anatomy 6612 6614	胰岛
+T307	Test 6617 6619	血糖
+T308	Test_Value 6620 6624	显著下降
+T309	Test 6637 6639	血糖
+T310	Test_Value 6641 6662	3. 9 ~ 10. 0 mmol / L
+T311	Test_Value 6674 6688	<3. 9 mmol / L
+T312	Disease 6740 6746	1 型糖尿病
+T313	Duration 6762 6765	5 d
+T314	Test 6784 6788	平均血糖
+T315	Drug 6790 6794	CSII
+T316	Test 6811 6813	血糖
+T317	Test_Value 6813 6827	<3. 9 mmol / L
+T318	Test 6871 6875	平均血糖
+T319	Test_Value 6875 6879	显著降低
+T320	Test 6890 6892	血糖
+T321	Test_Value 6892 6906	<3. 9 mmol / L
+T322	Anatomy 6940 6942	胰岛
+T323	Anatomy 6949 6951	胰岛
+T324	Disease 6969 6975	1 型糖尿病
+T325	Drug 7004 7008	CSII
+T326	Anatomy 7021 7023	胰岛
+T327	Test 7028 7030	血糖
+T328	Test_Value 7031 7052	4. 0 ~ 10. 0 mmol / L
+T329	Anatomy 7100 7102	胰岛
+T330	Anatomy 7128 7130	胰岛
+T331	Drug 7132 7136	CSII
+T332	Test 7139 7141	血糖
+T333	Test_Value 7141 7146;7147 7155	<4. 0 mmol / L
+T334	Anatomy 7184 7186	胰岛
+T335	Anatomy 7240 7242	胰岛
+T336	Test 7254 7258	夜间血糖
+T337	Anatomy 7284 7286	胰岛
+T338	Test 7289 7293	夜间血糖
+T339	Test_Value 7293 7298;7299 7307	<3. 0 mmol / L
+T340	SideEff 7309 7312	低血糖
+T341	Test 7319 7321	血糖
+T342	Test 7332 7334	血糖
+T343	Anatomy 7360 7362	胰岛
+T344	Drug 7364 7367	胰岛素
+T345	Anatomy 7382 7384	胰岛
+T346	Test 7393 7395	血糖
+T347	Test 7410 7412	血糖
+T348	Drug 7418 7428	胰淀素类似物普兰林肽
+T349	Drug 7435 7449	胰高血糖素样多肽 1 激动剂
+T350	Drug 7449 7453	艾塞那肽
+T351	Anatomy 7464 7466	胰岛
+T352	Method 7497 7501	皮下输注
+T353	Drug 7501 7502;7503 7505	胰 岛素
+T354	Test 7512 7516	餐后血糖
+T355	Symptom 7525 7528	低血糖
+T356	Test 7533 7535	血糖
+T357	Test 7544 7546	血糖
+T358	Drug 7570 7576	胰岛素类似物
+T359	Test 7583 7585	血糖
+T360	Test 7626 7628	血糖
+T361	Anatomy 7635 7637	胰岛
+T362	Anatomy 7640 7642	胰岛
+T363	Test 7646 7648	血糖
+T364	Test 7660 7662	血糖
+T365	Test 7691 7693	血糖
+T366	Disease 7736 7739	糖尿病
+T367	Disease 7743 7746	糖尿病
+T368	Test 7750 7752	血糖
+T369	Disease 7757 7760	糖尿病
+T370	Test 7783 7788	HBA1C
+T371	Test 7799 7801	血糖
+T372	Anatomy 7829 7831	胰岛
+T373	Anatomy 7837 7839	胰岛
+T374	Anatomy 7865 7867	胰岛
+T375	SideEff 7874 7878;7879 7880	低血糖风 险
+T376	Test 7885 7887	血糖
+T377	Anatomy 7898 7900	胰岛
+T378	Disease 7910 7913	糖尿病

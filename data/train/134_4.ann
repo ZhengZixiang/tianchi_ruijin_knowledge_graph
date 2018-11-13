@@ -1,0 +1,295 @@
+T1	Disease 92 98	1 型糖尿病
+T2	Disease 179 185	1 型糖尿病
+T3	Disease 330 336	1 型糖尿病
+T4	Disease 448 454	1 型糖尿病
+T5	Disease 586 592	1 型糖尿病
+T6	Disease 723 729	1 型糖尿病
+T7	Disease 806 812	1 型糖尿病
+T8	Disease 872 878	1 型糖尿病
+T9	Disease 931 937	1 型糖尿病
+T10	Disease 3080 3086	1 型糖尿病
+T11	Disease 3214 3220	1 型糖尿病
+T12	Disease 3233 3239	1 型糖尿病
+T13	Disease 3540 3546	1 型糖尿病
+T14	Disease 3677 3681;3682 3684	1 型糖 尿病
+T15	Disease 3799 3805	1 型糖尿病
+T16	Disease 4006 4012	1 型糖尿病
+T17	Disease 5436 5442	1 型糖尿病
+T18	Disease 5502 5505;5506 5509	1 型 糖尿病
+T19	Disease 5706 5712	1 型糖尿病
+T20	Disease 6343 6349	1 型糖尿病
+T21	Disease 6683 6689	1 型糖尿病
+T22	Disease 6926 6932	1 型糖尿病
+T23	Disease 7036 7042	1 型糖尿病
+T24	Disease 7373 7379	1 型糖尿病
+T25	Disease 7486 7492	1 型糖尿病
+T26	Disease 7665 7671	1 型糖尿病
+T27	Disease 8768 8774	1 型糖尿病
+T28	Disease 8798 8804	1 型糖尿病
+T29	Disease 9172 9178	1 型糖尿病
+T30	Disease 9382 9388	1 型糖尿病
+T31	Disease 9418 9424	1 型糖尿病
+T32	Disease 361 362;363 367	1 型糖尿病
+T33	Test 5549 5554	HBA1C
+T34	Test 5962 5967	HBA1C
+T35	Test 5510 5514	空腹血糖
+T36	Test 5933 5936	FPG
+T37	Test 3994 3998	体重指数
+T38	Test 6379 6383	体重指数
+T39	Test 4026 4030	肝肾功能
+T40	Test 3999 4002	BMI
+T41	Test 5472 5475	BMI
+T42	Test 5918 5921	BMI
+T43	Test 6375 6378	BMI
+T44	Test 5469 5471	身高
+T45	Test 5888 5890	身高
+T46	Test 5466 5468	体重
+T47	Test 5903 5905	体重
+T48	Anatomy 187 195	外周血单个核细胞
+T49	Anatomy 960 968	外周血单个核细胞
+T50	Anatomy 3608 3616	外周血单个核细胞
+T51	Anatomy 6490 6498	外周血单个核细胞
+T52	Disease 3589 3594;3595 3596	1 型糖尿 病
+T53	Disease 3895 3900;3901 3902	1 型糖尿 病
+T54	Anatomy 230 234	PBMC
+T55	Anatomy 389 393	PBMC
+T56	Anatomy 732 736	PBMC
+T57	Anatomy 815 819	PBMC
+T58	Anatomy 1587 1591	PBMC
+T59	Anatomy 1942 1946	PBMC
+T60	Anatomy 2373 2377	PBMC
+T61	Anatomy 2521 2525	PBMC
+T62	Anatomy 3617 3621	PBMC
+T63	Anatomy 4538 4542	PBMC
+T64	Anatomy 4692 4696	PBMC
+T65	Anatomy 4920 4924	PBMC
+T66	Anatomy 5638 5642	PBMC
+T67	Anatomy 6485 6489	PBMC
+T68	Anatomy 6695 6699	PBMC
+T69	Anatomy 6767 6771	PBMC
+T70	Anatomy 6864 6868	PBMC
+T71	Anatomy 7044 7048	PBMC
+T72	Anatomy 7582 7586	Treg
+T73	Anatomy 7615 7619	Treg
+T74	Disease 1653 1657	T1DM
+T75	Disease 1846 1850	T1DM
+T76	Disease 2383 2387	T1DM
+T77	Disease 2529 2533	T1DM
+T78	Disease 2836 2840	T1DM
+T79	Disease 6172 6176	T1DM
+T80	Disease 6338 6342	T1DM
+T81	Test 2126 2129	PCR
+T82	Anatomy 103 108;109 113	滤泡辅助性 T 细胞
+T83	Anatomy 237 247	滤泡辅助性 T 细胞
+T84	Anatomy 275 278	Tfh
+T85	Anatomy 292 298	B 淋巴细胞
+T86	Test 516 521	Bcl-6
+T87	Test 542 550;551 552	抗谷氨酸脱羧酶抗 体
+T88	Test 553 557	GADA
+T89	Test 739 744	Bcl-6
+T90	Test 771 776	IL-21
+T91	Test 822 825	Tfh
+T92	Test 830 834	GADA
+T93	Test 898 904	B 淋巴细胞
+T94	Anatomy 921 924	Tfh
+T95	Anatomy 970 980	滤泡辅助性 T 细胞
+T96	Level 3100 3102	严重
+T97	Disease 3128 3133	代谢性疾病
+T98	Anatomy 3140 3144	胰岛细胞
+T99	Disease 3200 3203	胰岛炎
+T100	Anatomy 3245 3249	胰岛细胞
+T101	Anatomy 3288 3289;3290 3293	胰 岛细胞
+T102	Anatomy 3355 3365	滤泡辅助性 T 细胞
+T103	Anatomy 3366 3369	Tfh
+T104	Anatomy 3376 3380	淋巴滤泡
+T105	Anatomy 3399 3403	T 细胞
+T106	Anatomy 3423 3427	记忆细胞
+T107	Anatomy 3428 3431	浆细胞
+T108	Anatomy 3474 3480	Tfh 细胞
+T109	Disease 3483 3486;3487 3491	自身免 疫性疾病
+T110	Disease 3500 3507	类风湿性关节炎
+T111	Disease 3508 3511;3512 3519	自身免 疫性甲状腺疾病
+T112	Disease 3520 3527	自身免疫性肝炎
+T113	Disease 3827 3830	糖尿病
+T114	Symptom 3866 3872	胰岛功能低下
+T115	Test 3875 3884	抗谷氨酸脱羧酶抗体
+T116	Test 3885 3889	GADA
+T117	Test_Value 3890 3892	阳性
+T118	Disease 3925 3928;3929 3931	酮症酸 中毒
+T119	Disease 3936 3941	急慢性感染
+T120	Anatomy 3950 3951	肝
+T121	Level 3942 3944	严重
+T122	Disease 3945 3949	器官损害
+T123	Anatomy 3952 3953	肾
+T124	Anatomy 3955 3958	心血管
+T125	Anatomy 3959 3961	肺部
+T126	Level 3962 3964	严重
+T127	Disease 3965 3968	精神病
+T128	Test 4018 4025	葡萄糖耐量试验
+T129	Anatomy 4520 4522;4523 4525	淋巴 细胞
+T130	Test 4955 4963	白细胞介素 21
+T131	Test 4965 4970	IL-21
+T132	Test 4986 4991	Bcl-6
+T133	Test_Value 5515 5537	(8. 1 对 5. 0) mmol / L
+T134	Test_Value 5555 5568	10. 6%对 5. 3%
+T135	Test 5580 5584	GADA
+T136	Test_Value 5585 5595;5596 5608	(113. 66 对 0. 68)U / ml
+T137	Test 5645 5648	Tfh
+T138	Test 6857 6860	Tfh
+T139	Anatomy 6939 6943	淋巴细胞
+T140	Test 7006 7011	IL-21
+T141	Test 7051 7056	IL-21
+T142	Test 7355 7358	Tfh
+T143	Test 7383 7386	Tfh
+T144	Test 7389 7393	GADA
+T145	Test 7436 7439	Tfh
+T146	Test 7444 7448	GADA
+T147	Anatomy 7532 7533;7534 7539	固 有免疫细胞
+T148	Anatomy 7543 7550	适应性免疫细胞
+T149	Anatomy 7554 7561;7562 7565	CD4+T 淋 巴细胞
+T150	Anatomy 7569 7572	Th1
+T151	Anatomy 7573 7576	Th2
+T152	Anatomy 7577 7581	Th17
+T153	Anatomy 7630 7633	Th1
+T154	Anatomy 7648 7651	Th2
+T155	Disease 7674 7681	自身免疫性疾病
+T156	Anatomy 7708 7712	Th17
+T157	Anatomy 7776 7784	CD4+T 细胞
+T158	Anatomy 7889 7892	Tfh
+T159	Anatomy 7900 7906	次级淋巴滤泡
+T160	Anatomy 7909 7911;7912 7914	生发 中心
+T161	Anatomy 7931 7933	GC
+T162	Anatomy 7978 7983	ICOSL
+T163	Anatomy 7992 7994	GC
+T164	Anatomy 7997 8004	初始 B 细胞
+T165	Anatomy 8019 8022	浆细胞
+T166	Anatomy 8028 8032	B 细胞
+T167	Anatomy 8052 8063	滤泡性辅助性 T 细胞
+T168	Anatomy 8074 8077	Tfh
+T169	Disease 8079 8086	自身免疫性疾病
+T170	Disease 8145 8152	系统性红斑狼疮
+T171	Anatomy 8203 8207	T 细胞
+T172	Anatomy 8212 8215	Tfh
+T173	Anatomy 8262 8265	Tfh
+T174	Anatomy 8297 8300	Tfh
+T175	Disease 8340 8347	自身免疫性肝病
+T176	Anatomy 8378 8384	Tfh 细胞
+T177	Disease 8400 8407	自身免疫性疾病
+T178	Disease 8408 8411;8412 8419	自身免 疫性甲状腺疾病
+T179	Disease 8519 8522	天疱疮
+T180	Disease 8549 8554	炎症性肠病
+T181	Disease 8594 8596;8597 8600	免疫 缺陷病
+T182	Anatomy 8633 8636	Tfh
+T183	Anatomy 8655 8658	Tfh
+T184	Anatomy 8686 8689	Tfh
+T185	Anatomy 8762 8765	Tfh
+T186	Test 8811 8814;8815 8820	Tfh 细胞的比例
+T187	Anatomy 8961 8965	T 细胞
+T188	Anatomy 9009 9013	B 细胞
+T189	Anatomy 9022 9025	Tfh
+T190	Anatomy 9037 9041	ICOS
+T191	Anatomy 9055 9060	ICOSL
+T192	Anatomy 9070 9074	B 细胞
+T193	Disease 9139 9146	自身免疫性疾病
+T194	Anatomy 9358 9362	胰岛细胞
+T195	Anatomy 9374 9377	Tfh
+T196	Anatomy 100 103	外周血
+T197	Anatomy 380 383	外周血
+T198	Anatomy 594 597	外周血
+T199	Anatomy 880 883	外周血
+T200	Disease 3181 3185	1A 型
+T201	Duration 3915 3922	大于 6 个月
+T202	Anatomy 4449 4452	静脉血
+T203	Test_Value 6882 6895	0. 09 ± 0. 01
+T204	Test_Value 6898 6905;6906 6911	0. 20 ± 0. 01
+T205	Test_Value 6959 6970	1. 68±0. 16
+T206	Test_Value 6973 6979;6980 6985	3. 40± 0. 25
+T207	Test 7317 7322;7323 7327	Bcl-6 mRNA
+T208	Test 7954 7958	ICOS
+T209	Test 8184 8188	ICOS
+T210	Test 8505 8511	Tfh 数量
+T211	Anatomy 8524 8527	外周血
+T212	Disease 8581 8591	感染人类免疫缺陷病毒
+T213	Anatomy 8728 8730;8731 8732	外周 血
+T214	Anatomy 8806 8809	外周血
+T215	Test 8852 8856	自身抗体
+T216	Anatomy 9029 9035	淋巴滤泡中心
+T217	Test 9076 9080	自身抗体
+T218	Disease 9193 9195	感染
+T219	Disease 9196 9198	损伤
+T220	Test 9254 9258	自身抗体
+T221	Anatomy 9409 9412	Tfh
+T222	Anatomy 477 480	Tfh
+T223	Test_Value 614 646	(0. 09 ± 0. 01 对 0. 20 ± 0. 01)%
+T224	Test_Value 609 613	显著上升
+T225	Test_Value 671 673	增多
+T226	Test_Value 752 760	表达下调 30%
+T227	Test_Value 786 792	下降 35%
+T228	Test_Value 890 894	显著增加
+T229	Test_Value 915 917	上升
+T230	Test_Value 6875 6879	明显升高
+T231	Test 7360 7364	自身抗体
+T232	Test_Value 7452 7453;7454 7455	增 高
+T233	Anatomy 7496 7500	免疫细胞
+T234	Disease 8665 8669	免疫障碍
+T235	Test_Value 8826 8830	显著升高
+T236	Anatomy 9045 9049	B 细胞
+T237	Test 470 473	PCR
+T238	Test 4911 4914	PCR
+T239	Anatomy 323 326	Tfh
+T240	Anatomy 403 424	CD4+ CXCR5+ ICOS+ Tfh
+T241	Anatomy 427 439	CD19+ B 淋巴细胞
+T242	Test 486 494	白细胞介素 21
+T243	Test 495 500	IL-21
+T244	Test 504 515	B 细胞淋巴瘤因子 6
+T245	Anatomy 535 538	Tfh
+T246	Test 600 606;607 609	Tfh 细胞 比例
+T247	Test 663 671	B 淋巴细胞比例
+T248	Test_Value 675 688	1. 68 ± 0. 16
+T249	Test_Value 691 704	3. 40 ± 0. 25
+T250	Test 884 887	Tfh
+T251	Test 906 913	GADA 滴度
+T252	Disease 950 953	糖尿病
+T253	Symptom 3090 3096	胰岛细胞损害
+T254	Symptom 3102 3110	胰 岛素分泌障碍
+T255	Symptom 3112 3123	体内胰岛素含量绝对缺乏
+T256	Disease 3170 3177	1B 型糖尿病
+T257	Disease 3164 3168	1A 型
+T258	Test 3193 3199	胰岛自身抗体
+T259	Anatomy 3385 3389	B 细胞
+T260	Anatomy 3411 3420	高亲和力 B 细胞
+T261	Anatomy 3625 3628	Tfh
+T262	Anatomy 3642 3645	Tfh
+T263	Anatomy 3687 3690	Tfh
+T264	Test 4972 4985	人 B 细胞淋巴瘤因子 6
+T265	Test 5476 5479;5480 5484	淋巴细 胞的比例
+T266	Test 5651 5659	B 细胞亚群比例
+T267	Anatomy 5668 5689;5690 5698	CD4+CXCR5+ ICOS+为表面标志 的 Tfh 细胞
+T268	Anatomy 5715 5718	Tfh
+T269	Anatomy 6934 6938	B 细胞
+T270	Test 7014 7024	Bcl-6 mRNA
+T271	Test 7692 7701	Th1 / Th2
+T272	Anatomy 7739 7743;7744 7747	细胞亚群 Tfh
+T273	Anatomy 7757 7763	B 淋巴细胞
+T274	Anatomy 7791 7796	CXCR5
+T275	Anatomy 7803 7808	Bcl-6
+T276	Anatomy 7813 7818	IL-21
+T277	Anatomy 7819 7824	CXCR5
+T278	Anatomy 7827 7839	B 细胞吸附趋化因子-1
+T279	Anatomy 7875 7881	CXCL13
+T280	Anatomy 7938 7943	IL-21
+T281	Anatomy 7969 7977	B 细胞上的配体
+T282	Anatomy 7969 7973	B 细胞
+T283	Anatomy 8098 8104	Tfh 细胞
+T284	Anatomy 8252 8260	Bcl-6 基因
+T285	Drug 8356 8360	ICOS
+T286	Drug 8363 8373	IL-21 中和性抗
+T287	Test 8428 8436	Tfh 细胞数量
+T288	Test 8559 8567	Tfh 细胞数量
+T289	Disease 8605 8609	早期感染
+T290	Anatomy 8734 8737	Tfh
+T291	Test 8841 8845	细胞数量
+T292	Anatomy 8931 8934	Tfh
+T293	Anatomy 8978 8981	Tfh
+T294	Anatomy 9001 9006	CXCR5
+T295	Reason 9101 9110;9111 9118	Tfh 细胞的功能 紊乱与数量变化

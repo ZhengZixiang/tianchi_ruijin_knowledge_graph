@@ -1,0 +1,302 @@
+T1	Disease 22 31	原发性醛固酮增多症
+T2	Drug 67 75	二氢吡啶 CCB
+T3	Drug 78 85	α 受体阻滞剂
+T4	Drug 98 107	非二氢吡啶 CCB
+T5	Drug 110 117	α 受体阻滞剂
+T6	Disease 223 229	1 型糖尿病
+T7	Anatomy 290 299	β-catenin
+T8	Disease 322 328	1 型糖尿病
+T9	Disease 347 353	1 型糖尿病
+T10	Disease 370 373	糖尿病
+T11	Drug 375 378	氯化锂
+T12	Anatomy 382 384;385 389	表皮 生长因子
+T13	Anatomy 413 427	β-catenin 阳性细胞
+T14	Anatomy 429 435	β-连环蛋白
+T15	Anatomy 436 445	β-catenin
+T16	Anatomy 448 461	磷酸化 β-catenin
+T17	Anatomy 463 471	血管内皮生长因子
+T18	Anatomy 472 476	VEGF
+T19	Disease 490 493	糖尿病
+T20	Anatomy 543 557	β-catenin 阳性细胞
+T21	Anatomy 567 576	β-catenin
+T22	Anatomy 579 583	VEGF
+T23	Disease 623 629	1 型糖尿病
+T24	Anatomy 648 662	去磷酸化 β-catenin
+T25	Anatomy 677 680	EGF
+T26	Disease 698 704	1 型糖尿病
+T27	Disease 721 724	糖尿病
+T28	Anatomy 735 741	β-连环蛋白
+T29	Disease 2399 2401;2402 2403	糖尿 病
+T30	Disease 2443 2446	糖尿病
+T31	Symptom 2448 2454	皮肤易受损伤
+T32	Symptom 2455 2462;2463 2465	损伤后创面愈合 延迟
+T33	Disease 2472 2475	糖尿病
+T34	Disease 2478 2482	足部溃疡
+T35	Disease 2492 2495	糖尿病
+T36	Disease 2517 2518;2519 2523	糖 尿病溃疡
+T37	Disease 2578 2581	糖尿病
+T38	Anatomy 2633 2637	肉芽组织
+T39	Reason 2641 2646	新生血管化
+T40	Anatomy 2692 2699	皮肤角质化细胞
+T41	Test 2714 2719	皮肤的厚度
+T42	Anatomy 2749 2755	血管内皮细胞
+T43	Disease 2775 2778	糖尿病
+T44	Disease 2819 2822	糖尿病
+T45	Disease 2849 2852	糖尿病
+T46	Drug 2952 2957	链脲佐菌素
+T47	Drug 2990 2993	氯化锂
+T48	Anatomy 3047 3053	β-连环蛋白
+T49	Anatomy 3054 3063	β-catenin
+T50	Anatomy 3065 3071;3072 3079	磷酸化 β- catenin
+T51	Disease 3179 3185	1 型糖尿病
+T52	Test 3200 3202	体重
+T53	Drug 3239 3242	STZ
+T54	Amount 3244 3254	50 mg / kg
+T55	Test 3255 3257	体重
+T56	Method 3261 3265	腹腔注射
+T57	Drug 3272 3275	STZ
+T58	Amount 3331 3341	10 mg / ml
+T59	Test 3435 3437	血糖
+T60	Test 3442 3444	血糖
+T61	Method 3446 3448	注射
+T62	Test 3469 3471	血糖
+T63	Test 3486 3488	血糖
+T64	Test_Value 3490 3506	>16. 65 mmol / L
+T65	Disease 3511 3517	1 型糖尿病
+T66	Disease 3539 3542	糖尿病
+T67	Drug 3553 3560	3%戊巴比妥钠
+T68	Amount 3561 3571	25 mg / kg
+T69	Symptom 3581 3585	背部剃毛
+T70	Test_Value 3628 3632;3633 3635	1. 8 cm
+T71	Test_Value 3642 3651	2. 54 cm2
+T72	Frequency 3668 3675	1 次 / d
+T73	Disease 3714 3717	糖尿病
+T74	Disease 3727 3730	糖尿病
+T75	Disease 3736 3739	糖尿病
+T76	Anatomy 3746 3752	表皮生长因子
+T77	Test 3773 3776	进食量
+T78	Test 3777 3779	尿量
+T79	Test 3780 3782	体重
+T80	Disease 3791 3794	糖尿病
+T81	Drug 3827 3832	氯化锂灌胃
+T82	Frequency 3851 3852;3853 3858	1 次 / d
+T83	Symptom 3906 3913;3914 3918	无菌纱布及绷带 包扎固定
+T84	Amount 4097 4104	0. 1 mg
+T85	Test 4258 4260	光镜
+T86	Anatomy 4265 4270	成纤维细胞
+T87	Disease 4273 4275;4276 4280	毛细 血管增生
+T88	Anatomy 4323 4328	成纤维细胞
+T89	Anatomy 4334 4338	毛细血管
+T90	Anatomy 4347 4352	成纤维细胞
+T91	Anatomy 4412 4416	毛细血管
+T92	Anatomy 4557 4566	β-catenin
+T93	Test 4884 4889	阳性细胞数
+T94	Anatomy 4915 4924	β-catenin
+T95	Anatomy 4926 4929	细胞膜
+T96	Test_Value 4957 4958;4959 4960	阳 性
+T97	Anatomy 5004 5013	β-catenin
+T98	Anatomy 5034 5043	β-catenin
+T99	Anatomy 5381 5395	β-catenin 阳性细胞
+T100	Disease 5425 5428	糖尿病
+T101	Method 5461 5462;5463 5466	腹 腔注射
+T102	Drug 5467 5470	STZ
+T103	Symptom 5485 5487	多饮
+T104	Symptom 5488 5489;5490 5491	多 食
+T105	Symptom 5492 5494	多尿
+T106	Symptom 5495 5497	消瘦
+T107	Symptom 5498 5502	生长迟缓
+T108	Symptom 5503 5510	毛发竖立无光泽
+T109	Symptom 5511 5515	精神萎糜
+T110	Symptom 5517 5521	反应迟钝
+T111	Symptom 5522 5526	活动减少
+T112	Symptom 5527 5531	蜷卧拱背
+T113	Symptom 5555 5559	毛发光洁
+T114	Disease 5568 5570;5571 5572	糖尿 病
+T115	Disease 5585 5588	糖尿病
+T116	Disease 5590 5592	死亡
+T117	Disease 5612 5615	糖尿病
+T118	Drug 5617 5620	氯化锂
+T119	Symptom 5637 5645	制作背部皮肤缺损
+T120	Disease 5667 5670	糖尿病
+T121	Test 5673 5675	体重
+T122	Disease 5790 5793	糖尿病
+T123	Test 5795 5797	血糖
+T124	Test_Value 5797 5801	明显升高
+T125	Test 5811 5813	血糖
+T126	Test_Value 5875 5882;5883 5897	4. 08 ± 0. 36)mmol / L
+T127	Test_Value 6041 6048	创缘形状不规则
+T128	Disease 6055 6058	糖尿病
+T129	Symptom 6091 6098	皮肤收缩不明显
+T130	Drug 6117 6120	氯化锂
+T131	Disease 6142 6145	糖尿病
+T132	Duration 6208 6212	14 d
+T133	Disease 6231 6234	糖尿病
+T134	Drug 6274 6277	氯化锂
+T135	Disease 6300 6303	糖尿病
+T136	Anatomy 6362 6367	成纤维细胞
+T137	Anatomy 6371 6375	毛细血管
+T138	Disease 6407 6410	糖尿病
+T139	Drug 7084 7087	氯化锂
+T140	Anatomy 7104 7108	肉芽组织
+T141	Anatomy 7113 7117;7118 7119	成纤维细 胞
+T142	Anatomy 7133 7137	毛细血管
+T143	Disease 7158 7161	糖尿病
+T144	Disease 7183 7189	肉芽组织疏松
+T145	Anatomy 7193 7200	表皮下毛细血管
+T146	Anatomy 7240 7254	β-catenin 阳性细胞
+T147	Drug 7276 7279	氯化锂
+T148	Anatomy 7287 7289;7290 7300	β- catenin 细胞
+T149	Anatomy 7334 7348	β-catenin 阳性细胞
+T150	Disease 7363 7366	糖尿病
+T151	Disease 7401 7404	糖尿病
+T152	Anatomy 7411 7426	β-catenin 围绕细胞膜
+T153	Anatomy 7458 7472	β-catenin 阳性细胞
+T154	Anatomy 7846 7860	β-catenin 阳性细胞
+T155	Anatomy 7880 7894	β-catenin 阳性细胞
+T156	Test 7955 7966	Western 印迹法
+T157	Disease 7996 7999	糖尿病
+T158	Anatomy 8005 8014	β-catenin
+T159	Anatomy 8056 8065	β-catenin
+T160	Disease 8074 8077	糖尿病
+T161	Disease 8126 8129	糖尿病
+T162	Anatomy 8135 8144	β-catenin
+T163	Anatomy 8147 8151	VEGF
+T164	Anatomy 8198 8204	β-连环蛋白
+T165	Anatomy 8324 8333	β-catenin
+T166	Anatomy 8334 8347	磷酸化 β-catenin
+T167	Test 8350 8354	VEGF
+T168	Anatomy 8537 8546	β-catenin
+T169	Anatomy 8547 8560	磷酸化 β-catenin
+T170	Anatomy 8563 8567	VEGF
+T171	Anatomy 8758 8767	β-catenin
+T172	Anatomy 8768 8781	磷酸化 β-catenin
+T173	Test 8784 8788	VEGF
+T174	Disease 8909 8912	糖尿病
+T175	Disease 8929 8932	糖尿病
+T176	Disease 8945 8948	糖尿病
+T177	Disease 8954 8956	肿瘤
+T178	Disease 8957 8962	心血管病变
+T179	Disease 8990 8993	糖尿病
+T180	Disease 9013 9018	糖代谢紊乱
+T181	Anatomy 9055 9060;9061 9062	EGF 受 体
+T182	Anatomy 9069 9073	表皮细胞
+T183	Disease 9093 9098	糖尿病溃疡
+T184	Anatomy 9122 9128	Wnt 细胞
+T185	Disease 9156 9158	肿瘤
+T186	Test 9240 9246	低密度脂蛋白
+T187	Anatomy 9251 9259	LRP5 / 6
+T188	Anatomy 9296 9306	糖原合成酶激酶 3β
+T189	Anatomy 9307 9313	GSK-3β
+T190	Anatomy 9321 9330	β-catenin
+T191	Anatomy 9360 9369	β-catenin
+T192	Test 9429 9436;9437 9440	细胞时酪蛋白激 酶 I
+T193	Anatomy 9470 9479	β-catenin
+T194	Anatomy 9501 9510	β-catenin
+T195	Anatomy 9516 9520	Axin
+T196	Test 9522 9528	GSK-3β
+T197	Disease 9529 9536	结肠腺瘤性息肉
+T198	Anatomy 9542 9545	APC
+T199	Anatomy 9564 9570	GSK-3β
+T200	Anatomy 9575 9584	β-catenin
+T201	Anatomy 9593 9598	Thr33
+T202	Anatomy 9599 9604	Thr37
+T203	Anatomy 9611 9626;9627 9635	β-catenin 能被泛素连 接酶复合体 E3
+T204	Anatomy 9712 9721	β-catenin
+T205	Anatomy 9742 9751	Wnt 受体复合物
+T206	Disease 9813 9815	肿瘤
+T207	Anatomy 9822 9831	β-catenin
+T208	Test 9884 9888	EGFR
+T209	Anatomy 9917 9920	Akt
+T210	Disease 10044 10047	糖尿病
+T211	Anatomy 10102 10111;10112 10116	β-catenin 阳性细胞
+T212	Disease 10168 10171	糖尿病
+T213	Anatomy 10201 10215	β-catenin 阳性细胞
+T214	Test_Value 10216 10220	明显降低
+T215	Anatomy 10242 10251	β-catenin
+T216	Anatomy 10259 10261;10262 10269	β- catenin
+T217	Anatomy 10349 10358	β-catenin
+T218	Disease 10385 10388	糖尿病
+T219	Anatomy 10399 10403	VEGF
+T220	Test_Value 10408 10410	降低
+T221	Disease 10426 10429	糖尿病
+T222	Anatomy 10468 10475	Wnt1 配体
+T223	Anatomy 10485 10491	GSK-3β
+T224	Anatomy 10532 10540;10541 10553	Wnt / β- catenin 信号通路
+T225	Anatomy 10557 10561	Wnt1
+T226	Anatomy 10603 10607;10608 10610	GSK- 3β
+T227	Anatomy 10643 10649	血管内皮细胞
+T228	Anatomy 10708 10713	肾系膜细胞
+T229	Anatomy 10748 10749;10750 10762	磷 酸化 β-catenin
+T230	Anatomy 10769 10778	β-catenin
+T231	Anatomy 10811 10839	APC / GSK-3β / β-catenin 复合体
+T232	Anatomy 10851 10887;10888 10890	胞浆内细胞膜上黏附分子 E-cadherin / β-catenin 复 合体
+T233	Disease 10906 10909	糖尿病
+T234	Anatomy 10912 10916	表皮细胞
+T235	Drug 10940 10944	氯化 锂
+T236	Anatomy 11005 11014	β-catenin
+T237	Anatomy 11024 11033	β-catenin
+T238	Disease 11069 11070;11071 11073	糖 尿病
+T239	Anatomy 11089 11101;11102 11104	β-catenin 阳性 细胞
+T240	Disease 11106 11109	糖尿病
+T241	Anatomy 11140 11152	β-catenin 蛋白
+T242	Anatomy 11163 11167	VEGF
+T243	Disease 11172 11175	糖尿病
+T244	Disease 11222 11225	糖尿病
+T245	Anatomy 11240 11242;11243 11245	肉芽 组织
+T246	Anatomy 11288 11302	β-catenin 信号通路
+T247	Anatomy 11318 11327	β-catenin
+T248	Anatomy 11357 11366	β-catenin
+T249	Anatomy 11402 11406;11407 11409	VEGF 蛋白
+T250	Anatomy 11419 11425	血管内皮细胞
+T251	Disease 11448 11451	糖尿病
+T252	Disease 11499 11505	1 型糖尿病
+T253	Anatomy 11582 11587	成纤维细胞
+T254	Anatomy 11589 11598	β-catenin
+T255	Test_Value 11601 11603	升高
+T256	Disease 11646 11656	糖尿病微血管并发溃疡
+T257	Anatomy 11679 11687;11688 11695	血管生成因子丝氨 酸蛋白酶抑制剂
+T258	Test_Value 11705 11707	升高
+T259	Anatomy 11735 11741	脐带血干细胞
+T260	Disease 11745 11748	糖尿病
+T261	Symptom 11766 11770	皮肤创伤
+T262	Anatomy 11775 11779	上皮细胞
+T263	Anatomy 11780 11785	毛囊干细胞
+T264	Disease 11792 11795;11796 11798	创伤后 毛囊
+T265	Anatomy 11812 11817	毛囊干细胞
+T266	Anatomy 11914 11917	EGF
+T267	Anatomy 11942 11956	β-catenin 信号通路
+T268	Disease 11959 11965	1 型糖尿病
+T269	Anatomy 11981 11984	EGF
+T270	Anatomy 12002 12006	表皮细胞
+T271	Anatomy 12007 12012	成纤维细胞
+T272	Anatomy 12013 12017	内皮细胞
+T273	Anatomy 12073 12076	EGF
+T274	Anatomy 12102 12106;12107 12108	三磷酸肌 醇
+T275	Test 12124 12129	二酯酰甘油
+T276	Anatomy 12211 12214	EGF
+T277	Anatomy 12234 12237	Akt
+T278	Disease 12259 12262	糖尿病
+T279	Anatomy 12271 12285	β-catenin 阳性细胞
+T280	Anatomy 12307 12316	β-catenin
+T281	Test 12339 12348	VEGF 蛋白含量
+T282	Test_Value 12348 12350	升高
+T283	Disease 12354 12360	1 型糖尿病
+T284	Anatomy 12448 12468	Wnt / β-catenin 信号通路
+T285	Anatomy 12487 12506;12507 12508	Wnt / β-catenin 信号通 路
+T286	Disease 12509 12512	糖尿病
+T287	Disease 12539 12545	1 型糖尿病
+T288	Disease 12598 12601	糖尿病
+T289	Anatomy 12620 12624	表皮细胞
+T290	Anatomy 12641 12647	血管内皮细胞
+T291	Anatomy 12655 12659	肉芽组织
+T292	Anatomy 12680 12698;12699 12701	Wnt / β-catenin 信号 通路
+T293	Drug 12705 12708	氯化锂
+T294	Symptom 12728 12730	眩晕
+T295	Symptom 12731 12733	恶心
+T296	Symptom 12734 12736	呕吐
+T297	Symptom 12737 12739	腹泻
+T298	Symptom 12740 12742	抽搐
+T299	Symptom 12743 12745	昏迷
+T300	Anatomy 12779 12793	β-catenin 信号通路
+T301	Anatomy 12818 12821	GSK
+T302	Disease 12829 12832	糖尿病

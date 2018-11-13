@@ -1,0 +1,354 @@
+T1	Disease 3517 3523	2 型糖尿病
+T2	Disease 2988 2989;2990 2994	2 型糖尿病
+T3	Anatomy 3241 3245	β 细胞
+T4	Anatomy 3751 3755	β 细胞
+T5	Anatomy 4175 4179	脂肪细胞
+T6	Anatomy 4185 4189	脂肪细胞
+T7	Anatomy 4338 4342	脂肪细胞
+T8	Anatomy 4399 4403	脂肪细胞
+T9	Anatomy 4473 4474;4475 4478	脂 肪细胞
+T10	Drug 3969 3973	利拉鲁肽
+T11	Drug 5912 5916	利拉鲁肽
+T12	Anatomy 4245 4246;4247 4249	β 细胞
+T13	Test 4425 4428	脂联素
+T14	Test 1432 1434	体重
+T15	Drug 3803 3807	艾塞那肽
+T16	Drug 3886 3890	艾塞那肽
+T17	Anatomy 147 151	回肠末端
+T18	Anatomy 152 154	结肠
+T19	Anatomy 1103 1110	胰升糖素原基因
+T20	Anatomy 1134 1141	胰升糖素原基因
+T21	Anatomy 1157 1161	回肠末端
+T22	Anatomy 1162 1164	结肠
+T23	Anatomy 1802 1807	NF-κB
+T24	Disease 2941 2944	糖尿病
+T25	Disease 2969 2972	糖尿病
+T26	Test 3030 3032	血糖
+T27	Anatomy 3211 3215	CHOP
+T28	Anatomy 3277 3281	胰岛细胞
+T29	Disease 3505 3506;3507 3511	胰 岛素抵抗
+T30	Anatomy 3548 3554	GLP-1R
+T31	Anatomy 3810 3814	胰岛细胞
+T32	Drug 3960 3969	GLP-1 类似物
+T33	Disease 3997 4000	糖尿病
+T34	Disease 4084 4086	肥胖
+T35	Disease 4105 4111	糖脂代谢紊乱
+T36	Disease 4112 4117	胰岛素抵抗
+T37	Disease 4123 4126	糖尿病
+T38	Disease 4127 4130	高血压
+T39	Disease 4131 4134	冠心病
+T40	Disease 4142 4147	胰岛素抵抗
+T41	Disease 4149 4151	肥胖
+T42	Disease 4163 4166	肥胖病
+T43	Anatomy 4301 4307	白色脂肪组织
+T44	Disease 4447 4449	肥胖
+T45	Anatomy 4629 4632	肝细胞
+T46	Disease 4690 4695	胰岛素抵抗
+T47	Disease 4696 4699;4700 4701	肝脏疾 病
+T48	Disease 4713 4717	肝脏疾病
+T49	Disease 4953 4957	肝脏疾病
+T50	Disease 5021 5025;5026 5027	酒精性肝 病
+T51	Disease 5089 5093	肝纤维化
+T52	Disease 5217 5221	肝脏疾病
+T53	Disease 5285 5289	肝脏疾病
+T54	Disease 5309 5314	心血管疾病
+T55	Disease 5320 5325	心血管疾病
+T56	Disease 5341 5346	心血管疾病
+T57	Disease 5347 5350	冠心病
+T58	Disease 5469 5472	冠心病
+T59	Anatomy 5506 5511	平滑肌细胞
+T60	Anatomy 5644 5648	内皮细胞
+T61	Disease 5671 5674	冠心病
+T62	Disease 5741 5746	心血管疾病
+T63	Disease 5883 5888	心血管疾病
+T64	Disease 5976 5980;5981 5984	糖尿病性 心脏病
+T65	Disease 6022 6028	阿尔茨海默病
+T66	Disease 6054 6061	缺血再灌注损伤
+T67	Disease 6063 6068	多发性硬化
+T68	Disease 6069 6073	帕金森病
+T69	Disease 6124 6131	神经退行性疾病
+T70	Disease 6327 6332	神经性萎缩
+T71	Disease 6333 6337;6338 6340	神经细胞 死亡
+T72	Anatomy 6395 6399	大脑颞叶
+T73	Disease 6390 6392	AD
+T74	Disease 6202 6204	AD
+T75	Disease 6160 6162	AD
+T76	Disease 6107 6109	AD
+T77	Disease 6490 6492	AD
+T78	Anatomy 6547 6551	血脑屏障
+T79	Disease 6567 6569	AD
+T80	Disease 6785 6787	AD
+T81	Disease 6860 6863	糖尿病
+T82	Disease 6870 6874	肝脏疾病
+T83	Disease 6875 6880	心血管疾病
+T84	Disease 6881 6887	神经系统疾病
+T85	Anatomy 640 645	GLP-1
+T86	Anatomy 784 789	GLP-1
+T87	Anatomy 889 894	GLP-1
+T88	Anatomy 5261 5266	SIRT1
+T89	Test 2659 2662	JNK
+T90	Anatomy 5184 5189	Bcl-2
+T91	Test 4236 4241	游离脂肪酸
+T92	Disease 64 69	内质网应激
+T93	Disease 265 270	内质网应激
+T94	Treatment 1404 1406	降糖
+T95	Disease 1471 1476	内质网应激
+T96	Disease 1477 1482	内质网应激
+T97	Symptom 1556 1560	功能紊乱
+T98	Symptom 1700 1704	细胞凋亡
+T99	Anatomy 1812 1816	转录因子
+T100	Disease 1859 1862	ERS
+T101	Disease 1912 1917	内质网应激
+T102	Anatomy 1921 1924	内质网
+T103	Test 1930 1932;1933 1934	胆固 醇
+T104	Anatomy 1943 1947	内质网膜
+T105	Disease 2156 2159	ERS
+T106	Disease 2893 2897	细胞凋亡
+T107	Disease 2924 2929	内质网应激
+T108	Disease 2944 2949	内质网应激
+T109	Disease 2979 2984	内质网应激
+T110	Disease 3055 3058	ERS
+T111	Disease 3218 3221	ERS
+T112	Anatomy 3563 3574	cAMP-PKA 途径
+T113	Disease 3843 3848	内质网应激
+T114	Disease 4089 4093;4094 4101	慢性低度 特异性炎症反应
+T115	Disease 4708 4711	ERS
+T116	Disease 4759 4764	内质网应激
+T117	Disease 5314 5319	内质网应激
+T118	Disease 5331 5333	死亡
+T119	Disease 5395 5398	ERS
+T120	Disease 5862 5867	内质网应激
+T121	Disease 5874 5878	细胞凋亡
+T122	Disease 5965 5970	内质网应激
+T123	Disease 6000 6006	神经系统疾病
+T124	Disease 6006 6011	内质网应激
+T125	Disease 6012 6018	神经系统疾病
+T126	Disease 6076 6081	内质网应激
+T127	Disease 6086 6090;6091 6094	神经功能 紊乱疾
+T128	Anatomy 6167 6171	大脑组织
+T129	Disease 6267 6269	AD
+T130	Disease 6465 6469	细胞凋亡
+T131	Disease 6519 6522	ERS
+T132	Disease 6571 6578	神经退行性疾病
+T133	Test 6632 6634;6635 6642	胆碱 能神经系统功能
+T134	Disease 6769 6772	ERS
+T135	Disease 6805 6810	内质网应激
+T136	Disease 7011 7016	内质网应激
+T137	Anatomy 1785 1793	细胞核因子 κB
+T138	Anatomy 1948 1959	固醇调节元件结合蛋白质
+T139	Anatomy 2013 2018	SREBP
+T140	Anatomy 2021 2033	SREBP 裂解激活蛋白
+T141	Anatomy 2183 2198;2199 2203	双链 RNA 依赖蛋白激酶样内 质网激酶
+T142	Anatomy 2210 2218	肌醇需求激酶-1
+T143	Anatomy 2227 2233	活化转录因子
+T144	Anatomy 2242 2250	分子伴侣结合蛋白
+T145	Anatomy 2279 2282	BiP
+T146	Anatomy 2323 2333;2334 2347	PERK-翻译起始因 子 2α(eIF2α)通路
+T147	Anatomy 2359 2366	PERK 蛋白
+T148	Anatomy 2373 2378	eIF2α
+T149	Anatomy 2419 2432	CCAAT 增强子结合蛋白
+T150	Anatomy 2466 2484	细胞生长抑制与 DNA 损伤诱导基因
+T151	Anatomy 2562 2576	IRE1-X 盒结合蛋白 1
+T152	Anatomy 2599 2621;2622 2634	IRElα—肿瘤坏死因子受体相关因子 2 一 凋亡信号激酶 l 复合物
+T153	Anatomy 2643 2656;2657 2658	c-jun 氨基末端蛋白激 酶
+T154	Anatomy 2717 2723;2724 2732	ATF6 - ERS 反应元件
+T155	Anatomy 2840 2846;2847 2851	葡萄糖调节蛋 白 78
+T156	Anatomy 2859 2863	XBP1
+T157	Anatomy 2864 2868	CHOP
+T158	Anatomy 2796 2808	通用型转录因子 NF-Y
+T159	Anatomy 2768 2772	ATF6
+T160	Test_Value 3032 3034	升高
+T161	Anatomy 3088 3104	PERK-eIF2α 磷酸化通路
+T162	Anatomy 3259 3269	caspase-12
+T163	Anatomy 2789 2793	ERSE
+T164	Anatomy 3113 3117	IRE1
+T165	Anatomy 3158 3161	UPR
+T166	Anatomy 3294 3299	IRElα
+T167	Anatomy 3404 3408	ATF6
+T168	Anatomy 3431 3436	NR0B2
+T169	Anatomy 3415 3429	单核受体微小异二聚体伴侣基因
+T170	Anatomy 3980 3984	PERK
+T171	Anatomy 3987 3991	IRE1
+T172	Anatomy 4499 4504	NF-κB
+T173	Anatomy 4507 4511	AP-1
+T174	Anatomy 4524 4529	NF-κB
+T175	Anatomy 4723 4728	细胞膜受体
+T176	Anatomy 4729 4732	线粒体
+T177	Anatomy 4806 4813	caspase
+T178	Anatomy 4924 4933	caspase-9
+T179	Anatomy 4868 4879	GRP78 / Bip
+T180	Anatomy 4881 4886	GRP94
+T181	Anatomy 4888 4894	GADD34
+T182	Anatomy 4896 4903	GADD45A
+T183	Anatomy 4904 4908	CHOP
+T184	Anatomy 4843 4853	caspase-12
+T185	Anatomy 5060 5064	CHOP
+T186	Anatomy 5067 5071	TRB3
+T187	Anatomy 5118 5122	IREl
+T188	Anatomy 5123 5127	ATF6
+T189	Anatomy 5130 5134	PERK
+T190	Anatomy 5149 5160	GRP78 / Bip
+T191	Anatomy 5161 5165	CHOP
+T192	Anatomy 5248 5260	沉默信息调节 2 同源物
+T193	Anatomy 5420 5430	caspase-12
+T194	Symptom 5559 5561	斑块
+T195	Anatomy 5591 5595	XBPl
+T196	Disease 5610 5614	动脉粥样
+T197	Anatomy 5701 5705	cAMP
+T198	Anatomy 5706 5710;5711 5717	磷脂酰肌 醇 3 激酶
+T199	Anatomy 5718 5727	丝裂原活化蛋白激酶
+T200	Anatomy 5755 5764	cAMP-蛋白激酶
+T201	Anatomy 5772 5777	NF-κB
+T202	Anatomy 6173 6176	BiP
+T203	Anatomy 6208 6210	海马
+T204	Anatomy 6217 6221	PERK
+T205	Anatomy 6232 6236	XBP1
+T206	Anatomy 6278 6281	tau
+T207	Anatomy 6301 6305;6306 6309	β-淀粉 样蛋白
+T208	Disease 6373 6375	AD
+T209	Anatomy 6347 6351	IRE1
+T210	Anatomy 6535 6544	Exendin-4
+T211	Anatomy 6592 6601	Exendin-4
+T212	Anatomy 6608 6610	Aβ
+T213	Anatomy 6677 6686	Exendin-4
+T214	Anatomy 6709 6718	caspase-3
+T215	Anatomy 6735 6744	Exendin-4
+T216	Anatomy 6838 6845	caspase
+T217	Anatomy 6936 6943	内质网跨膜蛋白
+T218	Reason 224 231	减少内质网应激
+T219	Reason 1411 1420	延迟胃排空及肠蠕动
+T220	Reason 1421 1427	减少食物摄取
+T221	Reason 1390 1399	抑制 β 细胞凋亡
+T222	Anatomy 53 61	胰升糖素样肽 1
+T223	Anatomy 95 103	胰升糖素样肽 1
+T224	Anatomy 129 134	GLP-1
+T225	Anatomy 156 158	直肠
+T226	Anatomy 160 164	L 细胞
+T227	Anatomy 170 175	肠促胰岛素
+T228	Anatomy 183 188	GLP-1
+T229	Anatomy 216 221	GLP-1
+T230	Anatomy 255 263	胰升糖素样肽 1
+T231	Anatomy 1075 1083	胰升糖素样肽 1
+T232	Anatomy 1084 1089	GLP-1
+T233	Anatomy 1115 1120	GLP-1
+T234	Anatomy 1126 1131	GLP-1
+T235	Anatomy 1165 1167	直肠
+T236	Anatomy 1168 1176	肠黏膜 L 细胞
+T237	Anatomy 1179 1184	GLP-1
+T238	Anatomy 1248 1253	GLP-1
+T239	Anatomy 1264 1269	GLP-1
+T240	Anatomy 1275 1277;1278 1279	胰岛 素
+T241	Anatomy 1197 1202	GLP-1
+T242	Anatomy 1210 1215	GLP-1
+T243	Anatomy 1227 1232	GLP-1
+T244	Anatomy 1290 1295	GLP-1
+T245	Anatomy 1350 1355	GLP-1
+T246	Reason 1363 1373	促进胰岛素合成和分泌
+T247	Reason 1374 1377;1378 1389	促进胰 岛 β 细胞分化与增殖
+T248	Reason 1435 1439;1440 1442	改善心肌 活力
+T249	Reason 1443 1448	增强心功能
+T250	Reason 1449 1455	保护神经细胞
+T251	Anatomy 2917 2922	GLP-1
+T252	Anatomy 2933 2938	GLP-1
+T253	Anatomy 2950 2953	胰岛素
+T254	Anatomy 2996 3003	胰岛 β 细胞
+T255	Anatomy 3036 3043	胰岛 β 细胞
+T256	Anatomy 3105 3112	胰岛 β 细胞
+T257	Anatomy 3127 3130	胰岛素
+T258	Anatomy 3175 3182	胰岛 β 细胞
+T259	Anatomy 3192 3194;3195 3201	胰岛 素 β 细胞
+T260	Anatomy 3305 3313	胰岛素 mRNA
+T261	Anatomy 3326 3334	Bcl-2 蛋白
+T262	Anatomy 3344 3349	Bcl-2
+T263	Anatomy 3350 3356	Bcl-XL
+T264	Anatomy 3370 3373	Bad
+T265	Anatomy 3375 3378	Bax
+T266	Anatomy 3390 3394	β 细胞
+T267	Disease 3449 3460	胰岛 β 细胞功能失调
+T268	Anatomy 3487 3492	胰岛素受体
+T269	Anatomy 3529 3536	胰岛 β 细胞
+T270	Anatomy 3540 3545	GLP-1
+T271	Anatomy 3580 3583	胰岛素
+T272	Anatomy 3588 3595	胰岛 β 细胞
+T273	Test 3601 3610	胰岛 β 细胞功能
+T274	Anatomy 3612 3617	GLP-1
+T275	Anatomy 3623 3626	PKA
+T276	Anatomy 3627 3634;3635 3643	钙离子 /钙调 蛋白调节蛋白激酶
+T277	Anatomy 3644 3654	磷脂酰肌醇 3 激酶
+T278	Anatomy 3655 3664	丝裂原活化蛋白激酶
+T279	Anatomy 3678 3685	胰岛 β 细胞
+T280	Anatomy 3666 3669	PKB
+T281	Anatomy 3672 3675	PKC
+T282	Anatomy 3700 3705	GLP-1
+T283	Anatomy 3711 3714	Bad
+T284	Anatomy 3715 3718	Bid
+T285	Anatomy 3719 3722	Bik
+T286	Anatomy 3732 3738	Bcl-XL
+T287	Test 3762 3764	血糖
+T288	Drug 3794 3803	GLP-1 类似物
+T289	Anatomy 3816 3820	CHOP
+T290	Anatomy 3821 3826	XBP-1
+T291	Anatomy 3829 3832	BiP
+T292	Test 3936 3945	胰岛 β 细胞功能
+T293	Anatomy 4010 4015	GLP-1
+T294	Anatomy 4027 4032	肠促胰岛素
+T295	Test 4036 4045	胰岛 β 细胞功能
+T296	Disease 4047 4050	糖尿病
+T297	Anatomy 4066 4071	GLP-1
+T298	Disease 4074 4076	肥胖
+T299	Anatomy 4219 4223	CHOP
+T300	Anatomy 4292 4297	GLP-1
+T301	Anatomy 4350 4355	GLP-1
+T302	Anatomy 4417 4423	PKA 通路
+T303	Test 4435 4441	炎性脂肪因子
+T304	Anatomy 4462 4467	GLP-1
+T305	Anatomy 4481 4484	内脂素
+T306	Anatomy 4488 4491	内脂素
+T307	Test 4574 4575;4576 4579	胰 岛功能
+T308	Test 4584 4587	胰岛素
+T309	Disease 4600 4602	肥胖
+T310	Anatomy 4611 4616	GLP-1
+T311	Anatomy 4619 4621	肝脏
+T312	Anatomy 4673 4676	肝脂质
+T313	Anatomy 4768 4771	肝细胞
+T314	Anatomy 4945 4948	肝细胞
+T315	Anatomy 5011 5014	肝细胞
+T316	Anatomy 5081 5084	肝细胞
+T317	Anatomy 5100 5105	GLP-1
+T318	Anatomy 5301 5306	GLP-1
+T319	Anatomy 5357 5361	心肌细胞
+T320	Anatomy 5367 5371	心肌细胞
+T321	Anatomy 5405 5409	CHOP
+T322	Anatomy 5410 5418	应激活化蛋白激酶
+T323	Anatomy 5453 5454;5455 5458	心 肌细胞
+T324	Anatomy 5512 5516	巨噬细胞
+T325	Anatomy 5522 5526	CHOP
+T326	Anatomy 5527 5532	GRP78
+T327	Anatomy 5533 5538	GRP94
+T328	Anatomy 5688 5693	GLP-1
+T329	Anatomy 5792 5797	Bcl-2
+T330	Anatomy 5798 5804	Bcl-XL
+T331	Anatomy 5921 5926	GRP78
+T332	Anatomy 5928 5937	caspase-3
+T333	Anatomy 5939 5943	CHOP
+T334	Anatomy 5946 5956	caspase-12
+T335	Anatomy 5992 5997	GLP-1
+T336	Anatomy 6379 6383	神经细胞
+T337	Anatomy 6479 6483	神经细胞
+T338	Anatomy 6696 6698	胰岛
+T339	Anatomy 6699 6700	脑
+T340	Disease 6864 6868	肥胖疾病
+T341	Drug 6895 6900;6901 6906	GLP-1 及其类似物
+T342	Anatomy 6999 7004	GLP-1
+T343	Anatomy 7040 7045	GLP-1
+T344	Anatomy 6252 6257	IRE1α
+T345	Anatomy 4781 4803;4804 4805	IREl 一凋亡信号激酶 l / JNK 途 径
+T346	Anatomy 5649 5659	IREl / JNK
+T347	Anatomy 5838 5848	JNK / SAPK
+T348	Anatomy 6289 6292	JNK
+T349	Anatomy 6317 6320	JNK
+T350	Anatomy 6354 6357	JNK
+T351	Anatomy 6618 6621	JNK
+T352	Anatomy 6721 6724	JNK
+T353	Anatomy 6813 6835;6836 6837	IREl 一凋亡信号激酶 l / JNK 途 径
+T354	Anatomy 4645 4647	肝脏

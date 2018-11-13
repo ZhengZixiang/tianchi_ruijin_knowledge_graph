@@ -1,0 +1,327 @@
+通告
+www. endocrmetab. com 将继续保留,仍可以登录投稿和审稿系统,但网站内容不再维护更新。
+作为中华医学会杂志社系列期刊,本刊新的官网将完美展示全文,实现手机端阅读功能,并可直接在微信端
+展示,极大提升用户的体验和论文显示度。
+2016 年 3 月
+临床研究
+基金项目:国家代谢性疾病临床医学研究中心(2013BAI09B13);科
+技部重大新药创制项目(2012ZX09303006-001)
+社区中老年人颈围与心血管危险因素的
+相关性分析
+霍亚南  徐芳华  徐艳  章玉玲  REACTION 研究组
+[摘要]   目的  了解社区中老年人颈围与心血管危险因素的相关性。 方法 对社区 40 岁及以上居民
+9 665 名进行问卷调查,检测身高、体重、颈围、腰围、血压、血脂、血糖、HBA1C、空腹胰岛素等。 采用 SPSS 16. 0
+进行统计学分析。 结果 (1)无论男女,颈围与腰围、体重指数、血压、血糖、低密度脂蛋白胆固醇、三酰甘油
+和胰岛素抵抗指数均呈正相关、与高密度脂蛋白胆固醇呈负相关(均 P<0. 05);男性颈围与总胆固醇呈正相
+关(P<0. 01),女性颈围与总胆固醇不相关(P>0. 05)。 (2)男性颈围增大会增加糖尿病的发生风险(OR =
+1. 14, 95% CI 1. 02 ~1. 28);女性颈围增大会增加高血压(OR=1. 17, 95% CI 1. 08 ~1. 27)、糖尿病(OR=1. 24,
+95% CI 1. 13 ~1. 37)、血脂异常(OR= 1. 17, 95% CI 1. 09 ~ 1. 27)和胰岛素抵抗(OR = 1. 15, 95% CI 1. 06 ~
+1. 26)的发生风险。 在女性颈围影响较男性更大。 结论 颈围是心血管危险因素独立关联的指标。
+[关键词]   颈围; 心血管危险因素; 中老年人
+Relationships between the neck circumference and cardiovascular risk factors of middle-aged and elder people
+in community Huo Yanan, Xu Fanghua, Xu Yan, Zhang Yuling, the REACTION Study Group. Department of
+Endocrinology, Jiangxi Privincial People忆s Hospital, Nachang 330006, China
+[Abstract]  Objective  To investigate the relationships between the neck circumference and cardiovascular
+risk factors of middle-aged and elder people in a community. Methods Altogether 9 665 community residents(age≥
+40 years) were enrolled in the present study. The height, weight, neck circumference, waist circumference, blood
+pressure, total cholesterol, triglycerides, low density lipoprotein-cholesterol ( LDL-C), high density lipoprotein-
+cholesterol (HDL-C), blood glucose, glycosylated hemoglobin, and fasting insulin were measured, and documented
+in the questionnaire along with other basic information. After adjusted for age, Pearson correlation coefficient was used
+to analyze the relationship between the neck circumference and the binary variables of cardiovascular risk factors.
+SPSS 16. 0 software was used for statistical analysis. Results (1) The neck circumferences were(37. 11 ±2. 79) cm
+in male and(32. 79 ±2. 31) cm in female; which were higher in males than females. In both males and females, after
+adjusted for age, the neck circumference was positively correlated to waist circumference, body mass index, blood
+pressure, plasma glucose, LDL-C, triglycerides, and insulin resistance, the neck circumference was negatively
+correlated to HDL-C(all P<0. 05); The neck circumference of males was positively correlated to total cholesterol(P<
+0. 01); The neck circumference of females was not correlated with total cholesterol(P>0. 05) . (2) After adjusted for
+body mass index and the waist circumference, the neck circumference of males increased with the risk of diabetes
+(OR=1. 14, 95% CI 1. 02-1. 28); while the higher neck circumference of females increased the risk of hypertension
+(OR=1. 17, 95% CI 1. 08-1. 27), diabetes(OR=1. 24, 95% CI 1. 13-1. 37), dyslipidemia(OR=1. 17, 95% CI
+1. 09-1. 27), and insulin resistance (OR = 1. 15, 95% CI 1. 06-1. 26) . The neck circumference exerted higher
+impact on women than it did on men. Conclusion The neck circumference is associated with the cardiovascular risk
+factors. This association in females is stronger than that in males. The neck circumference seems to be an independent
+indicator for the cardiovascular risk.
+[Key words]  Neck circumference; Cardiovascular risk factors; Middle-aged and elder people
+(Chin J Endocrinol Metab, 2016, 32: 213-216)
+肥胖已明显影响人类健康。 通常用体重指数、腰
+围、计算机断层扫描(CT)或磁共振成像(MRI)评估肥
+胖、皮下脂肪和内脏脂肪,但研究发现肌肉组织过多
+者,体重指数也相应较高[1]。 腰围也存在地域化、个
+体化差异,且易受到饮食、运动等因素的影响。 以往认
+为内脏脂肪的增加将导致胰岛素抵抗、2 型糖尿病和
+动脉粥样硬化的增加。 但 Onat 等[2] 研究发现内脏脂
+肪与心血管疾病风险因素的相关性并不大,提示可能
+存在其他机制或其他脂肪沉积,同样对心血管疾病危
+险因素的发生起作用。 有研究发现以颈围评估的上身
+皮下脂肪组织预测代谢异常风险可能优于内脏脂肪组
+织的测量[3];并且是与代谢危险因素独立关联的指标,
+已成为近来研究的热点。 中老年人是心血管疾病的高
+发人群,针对该人群颈围与心血管危险因素相关性研究
+未见报导。 本研究在此方面进行探讨,旨在了解颈围是
+否独立于体重指数、腰围与心血管危险因素相关。
+对象和方法
+一、 对象
+于 2011 年 6 月至 10 月对南昌市 14 个社区的居
+民进行调查。 入选标准:年龄≥40 岁的人群;排除标
+准:妊娠妇女、甲状腺疾病、颈部肿瘤和使用糖皮质激
+素患者、交流障碍或依从性差者。 调查人数 10 071
+名,最终获得有效例数 9 665 名,其中男性 3 861 名,女
+性 5 804 名。
+二、 方法
+本研究为横断面调查研究,获得了上海交通大学
+医学院附属瑞金医院伦理委员会批准。 受试者均签署
+书面知情同意书。 本研究是中国糖尿病患者癌症发生
+风险评估(REACTION)研究中基线调查的一部分[4]。
+由 30 名医护人员组成的调查小组,根据各自分工,进
+行专项培训。 问卷调查内容包括受试者基本信息、受
+教育程度、职业、健康状况、既往史、家族史、主食量、吸
+烟、饮酒等。
+测量受试者颈围、腰围、身高、体重、血压等。 颈围
+测量:受试者垂直端坐位,平视前方,平静呼吸,绕环甲
+软骨上缘 1 周,测量精确到 0. 1 cm。 体重指数=体重 /
+身高2(kg / m2)。 血压测量:受试者静息 5 min,用欧姆
+龙臂式电子血压计连续测量 3 次,每次间隔 1 min,取 3
+次血压平均值。 抽取空腹静脉血(至少禁食 10 h),用
+以测定血糖、血脂、HBA1C和胰岛素等,并服 75 g 无水
+葡萄糖粉后 2 h 再次抽取静脉血检测血糖(糖尿病患
+者为馒头餐)。 血糖测定在本院完成。 HBA1C采用毛
+细管血液收集系统采指尖全血冷藏保存;其余标本及
+时分离出血清后-80℃保存,3 周内冷链运送至上海瑞
+金医院中心实验室检测,HBA1C采用高效能液相色谱
+法进行测定。
+糖尿病按照 1999 年世界卫生组织发布的诊断标
+准。 血脂异常采用 2007 年中国成人血脂异常防治指
+南中血脂水平分层标准的血脂边缘升高和高密度脂蛋
+白胆固醇(HDL-C)降低的切点进行判定,即总胆固醇
+≥5. 18 mmol / L、低密度脂蛋白胆固醇(LDL-C)≥3. 37
+mmol / L、三酰甘油≥1. 70 mmol / L[5] 和 HDL-C<1. 04
+mmol / L;符合上述 4 项中任意≥1 项为血脂异常;
+胰岛素抵抗采用稳态模型评估的胰岛素抵抗指数
+( homeostasis model assessment for insulin resistance,
+HOMA-IR)进行评估,HOMA-IR=空腹血糖(mmol / L)×
+空腹胰岛素(mIU / L) / 22. 5。 采用 HOMA-IR≥第 75
+百分位作为胰岛素抵抗的分割点[6]。 吸烟按照 1996
+年我国吸烟流行病学调查的定义[7]。 饮酒:每周至少
+饮 1 次酒为饮酒,余为不饮酒。
+三、 统计学处理
+采用 SPSS 16. 0 进行统计学分析。 三酰甘油、空
+腹胰岛素、HOMA-IR 进行 ln 转换以符合正态分布。
+采用以年龄校正的 Pearson 相关系数分析颈围与连续
+性心血管危险因素之间的关系、Logistic 回归模型分析
+颈围与二分类心血管危险因素间的相关性。 P<0. 05
+为差异有统计学意义。
+结    果
+一、 调查对象基本特征(表 1)
+本次分析纳入 9 665 名受试对象, 其中男性 3 861
+表 1  调查对象的临床特征[x-± s, n(% )]
+Tab 1  Clinical characteristics of subjects[x-± s, n(% )]
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+颈围
+Neck circumferene
+(cm)
+腰围
+Waist circumferene
+(cm)
+体重指数
+Body mass index
+(kg / m2)
+高血压
+Hypertension
+n(% )
+糖尿病
+Diabetes
+n(% )
+血脂异常
+Dyslipidemia
+n(% )
+男性
+Male 3 861 54. 62 ± 10. 27 37. 11 ± 2. 79 86. 62 ± 9. 04 24. 24 ± 3. 16 1 330(34. 45) 592(15. 33) 2 984(77. 29)
+女性
+Female 5 804 54. 07 ± 9. 71 32. 79 ± 2. 31 84. 26 ± 9. 79 23. 53 ± 3. 21 1 612(27. 77) 699(12. 04) 4 122(71. 02)
+组别
+Group
+例数
+n
+高血压治疗
+Treated with
+hypertension
+n(% )
+糖尿病治疗
+Treated with
+diabetes
+n(% )
+血脂异常治疗
+Treated with
+dyslipidemia
+n(% )
+HOMA-IR≥第 75 百分位a
+HOMA-IR≥the 75th percentile
+n(% )
+吸烟
+Smoking
+n(% )
+饮酒
+Drinking
+n(% )
+绝经
+Menopause
+n(% )
+男性
+Male 3 861 497(37. 37) 172(29. 05) 14(0. 47)   808(25. 19) 2 210(57. 27) 761(21. 76) -
+女性
+Female 5 804 722(44. 79) 244(34. 91) 25(0. 61)   1 259(25. 12) 103(1. 78) 124(2. 16) 3 359(57. 87)
+注:HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment for insulin resistance;a:剔除了糖尿病患者 Excludes individuals with
+diabetes
+名,占 39. 95% ,平均年龄(54. 62 ± 10. 27) 岁;女性
+5 804 名,占 60. 05% ,平均年龄(54. 07 ± 9. 71)岁。 颈
+围男性为(37. 11 ± 2. 79) cm,女性为(32. 79 ± 2. 31)
+cm,男性大于女性( t=79. 813,P<0. 01)。
+二、 颈围与心血管危险因素的相关性(表 2)
+校正年龄因素后,无论男性或女性颈围与腰围、体
+重指数、收缩压、舒张压、LDL-C、ln(三酰甘油)、空腹
+血糖、服糖后 2 h 血糖、HBA1C、 ln (空腹胰岛素)、 ln
+(HOMA-IR)均呈正相关(均 P<0. 05);与 HDL-C 呈负
+相关(P<0. 01)。 在男性,颈围与总胆固醇呈正相关
+(P<0. 01);在女性,颈围与总胆固醇不相关(均 P>
+0. 05)。
+三、 二分类心血管危险因素与颈围的 logistic 回归
+分析(表 3)
+以 OR 值表示扣除其它自变量影响后颈围每增加
+1 SD 发生心血管危险因素的强度。 不论男性或女性,
+随着颈围的增大,高血压、糖尿病、血脂异常和胰岛素
+抵抗的发生风险均增加。 在校正体重指数和腰围的模
+型中,男性颈围的增大会增加糖尿病的发生风险;女性
+则随颈围的增大,高血压、糖尿病、血脂异常和胰岛素
+抵抗的发生风险均增加(均 P<0. 05)。 分析颈围与性
+别的交互作用发现, 性别对颈围与高血压、 糖尿病、血
+脂异常和胰岛素抵抗的相关性均有影响 (均 P <
+0. 05)。
+表 2  调整年龄后不同性别间颈围与心血管危险因素的相关系数
+Tab 2 The correlation coefficients between neck circumference with
+cardiovascular risk factors after adjustment for age
+变量
+Variable
+男性
+Male
+女性
+Female
+r P r P
+腰围
+Waist circumference 0. 568 <0. 01 0. 473 <0. 01
+体重指数
+Body mass index 0. 603 <0. 01 0. 559 <0. 01
+收缩压a
+Systolic blood pressure 0. 208 <0. 01 0. 166 <0. 01
+舒张压a
+Diactolic blood pressure
+0. 202 <0. 01 0. 178 <0. 01
+总胆固醇b
+Total cholesterol 0. 053 <0. 01 -0. 008 0. 536
+LDL-Cb 0. 057 <0. 01 0. 029 0. 029
+HDL-Cb -0. 217 <0. 01 -0. 230 <0. 01
+ln(TG) b 0. 235 <0. 01 0. 228 <0. 01
+空腹血糖c
+Fasting plasma glucose
+0. 116 <0. 01 0. 115 <0. 01
+服糖后 2 h 血糖c
+2 h postprandial plasma glucose 0. 124 <0. 01 0. 158 <0. 01
+HBA1Cc 0. 157 <0. 01 0. 180 <0. 01
+ln(FINS) d 0. 367 <0. 01 0. 307 <0. 01
+ln(HOMA-IR) d 0. 358 <0. 01 0. 301 <0. 01
+注:LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;
+HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;TG:三
+酰甘油 Triglycerides;FINS:空腹胰岛素 Fasting insulin;HOMA-IR:稳态模
+型评估的胰岛素抵抗 指 数 Homeostasis model assessment for insulin
+resistance;a:剔除了高血压治疗者 Excludes individuals with hypertension
+treatment;b: 剔 除 了 血 脂 异 常 治 疗 者 Excludes individuals with
+dyslipidemia treatment;c:剔除了糖尿病治疗者 Excludes individuals with
+diabetes treatment;d:剔除了糖尿病患者 Excludes individuals with diabetes
+表 3  二分类心血管危险因素与颈围的多元 logistic 回归分析
+Tab 3  Multiple logistic regression analysis of neck circumference with binary variables of cardiovascular risk factors
+变量
+Variable
+男性
+Male
+女性
+Female
+OR(95% CI) P OR(95% CI) P
+Pb
+高血压
+Hypertension
+Model 1 1. 55(1. 43-1. 69) <0. 01 1. 50(1. 40-1. 60) <0. 01 <0. 01
+Model 2 1. 09(1. 00-1. 20) 0. 098 1. 17(1. 08-1. 27) <0. 01
+糖尿病
+Diabetes
+Model 1 1. 35(1. 22-1. 48) <0. 01 1. 45(1. 33-1. 56) <0. 01 <0. 01
+Model 2 1. 14(1. 02-1. 28) 0. 017 1. 24(1. 13-1. 37) <0. 01
+血脂异常
+Dyslipidemia
+Model 1 1. 68(1. 53-1. 84) <0. 01 1. 38(1. 29-1. 47) <0. 01 <0. 01
+Model 2 1. 09(0. 99-1. 20) 0. 098 1. 17(1. 09-1. 27) <0. 01
+HOMA-IR≥第 75 百分位a
+HOMA-IR≥the 75th percentile
+Model 1 2. 05(1. 85-2. 27) <0. 01 1. 84(1. 71-1. 98) <0. 01 0. 035
+Model 2 1. 02(0. 92-1. 14) 0. 709 1. 15(1. 06-1. 26) <0. 01
+注:Model 1:模型 1,在男性指调整了年龄、吸烟、饮酒,在女性指调整了年龄、吸烟、饮酒、绝经状态 Of male mean adjustment for age, smoking, and
+drinking; of female mean adjustment for age, smoking, drinking, and menopause; Model 2:模型 2,模型 1 基础上进一步校正体重指数及腰围 Based on model
+1, further adjusted for body mass index and waist circumference;a:剔除了糖尿病患者 Excludes individuals with diabetes;b:颈围与性别的交互作用 Interaction
+between neck circumference and sex
+讨    论
+本研究发现颈围与心血管危险因素相关;女性颈
+围与心血管危险因素相关性较男性更大;颈围可独立
+增加心血管危险因素的风险。 此结果与 Framingham
+研究结果相似[8]。
+目前,多数国外研究发现颈围与三酰甘油正相关,
+与 HDL-C 呈负相关,与 LDL-C、总胆固醇相关性研究
+结果不一。 Ben-Noun 等[9]发现颈围与 LDL-C、总胆固
+醇呈正相关;而 Framingham 研究显示颈围与 LDL-C、
+总胆固醇不相关[8]。 国内研究显示,2 型糖尿病患者
+颈围与血脂密切相关,无论男性或女性,颈围均与三酰
+甘油呈正相关,与 HDL-C 呈负相关,而与 LDL-C、总胆
+固醇无关[10]。 然而在社区健康成人中发现颈围与总
+胆固醇、LDL-C、三酰甘油呈正相关,与 HDL-C 呈负相
+关[11]。 本研究显示:在调整年龄后,无论男性或女性,
+颈围与 LDL-C、三酰甘油呈正相关,与 HDL-C 呈负相
+关;颈围与总胆固醇在男性呈有统计学意义的微弱正
+相关;在女性则不相关。 推测不同的结果可能与不同
+的人种、不同的伴随疾病和不同年龄人群等因素有关。
+本研究还看到,颈围与腰围、体重指数、血糖、空腹胰岛
+素和 HOMA-IR 均呈正相关,且无论男女;校正了多变
+量、体重指数和腰围后,男性随着颈围的增大糖尿病发
+生风险增加;女性随着颈围的增大,高血压、糖尿病、血
+脂异常和胰岛素抵抗发生风险均增加。 国外研究也看
+到相似结果,发现颈围与空腹血糖、空腹胰岛素和
+HOMA-IR 呈正相关,可预测代谢综合征和胰岛素抵
+抗[12];睡眠健康研究中发现糖尿病患者颈围显著大于
+非糖尿病患者,提示大颈围是 2 型糖尿病的危险因
+素[13]。
+内脏脂肪增加可能是游离脂肪酸过多的标志,而
+内脏脂肪并非循环中游离脂肪酸的主要来源。 上身皮
+下脂肪释放游离脂肪酸入血的比例较内脏脂肪要大。
+而且女性皮下脂肪较男性更多,男性与女性游离脂肪
+酸存在代谢差异,这些可能是女性颈围与心血管危险
+因素相关性较男性更大的原因[9]。 脂肪因子影响学
+说认为肥胖早期皮下脂肪蓄积,随之脂肪因子分泌发
+生变化,多种脂肪因子可能与胰岛素抵抗及心血管事
+件相关。 炎症因子学说认为,大颈围致睡眠呼吸暂停
+综合征患者夜间低氧血症导致炎症因子(肿瘤坏死因
+子、白细胞介素 6 等)增加,损伤血管内皮功能,产生
+动脉粥样硬化[14]。 大颈围增加心血管疾病发生风险
+可能是多种病理生理学机制共同作用的结果。
+本研究样本量大,统计数据为体格检查和实验室
+检测所得客观数据,现场调查人员经过严格的培训,实
+验检测由上海瑞金医院中心实验室完成,结果可靠。
+缺陷在于本研究是一项横断面调查研究,不能因此得
+出因果关系。
+总之,本研究发现,社区中老年人颈围与心血管危
+险因素相关;女性颈围与心血管危险因素相关性较男
+性更大;颈围是心血管危险因素独立关联指标。 未来
+本研究组将通过前瞻性队列研究来进一步了解颈围与
+心血管危险因素是否存在因果关系。

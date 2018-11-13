@@ -1,0 +1,286 @@
+基础研究
+基金项目:辽宁省科学技术计划项目(2009225029);辽宁省科技厅科学技术计划项目(2011225020)
+胰升糖素样肽 1 类似物对非酒精性脂肪肝
+大鼠 IRE1α-JNK 通路的干预效应
+徐嘉妤  敖娜  都健  杨晶  王晓晨
+[摘要]   目的  探讨非酒精性脂肪肝(NAFLD)大鼠肝脏组织内质网应激(ERs)相关因子肌醇需求激
+酶 1α(IRE1α)、磷酸化 IRE1α(p-IRE1α)、c-jun 氨基末端激酶( JNK)、磷酸化 JNK(p-JNK)的表达情况,观
+察胰升糖素样肽 1(GLP-1)类似物的干预作用。 方法 将 40 只雄性 SD 大鼠分为正常饮食组(n= 15)和高
+脂饮食组(n=25),喂养 12 周后,每组取 5 只评估 NAFLD 大鼠模型的建立,再将高脂饮食组大鼠分为高脂
+饮食组(HF,n=10)和 GLP-1 组(HG,n=10),分别以生理盐水及 GLP-1 类似物干预 4 周,测定大鼠体重及
+生化指标,Western 印迹法检测肝组织 IRE1α、p-IRE1α、JNK、p-JNK 的蛋白表达水平。 结果 HF 组大鼠的
+体重、血清甘油三酯(TG)、总胆固醇(TC)、低密度脂蛋白胆固醇(LDL-C)、丙氨酸转移酶(ALT)、天冬氨酸
+转移酶(AST)较正常饮食组明显升高(均 P<0. 01),高密度脂蛋白胆固醇(HDL-C)明显降低(P<0. 01),
+p-IRE1α / IRE1α 及 p-JNK / JNK 升高(P<0. 05 及 P<0. 01),而高脂喂养的大鼠经 GLP-1 类似物干预后,体
+重、TG、TC、LDL-C、AST、ALT 明显降低(P<0. 05 或 P<0. 01),HDL-C 明显升高(P<0. 01),p-IRE1α / IRE1α
+及 p-JNK / JNK 降低(P<0. 05 及 P<0. 01)。 结论 GLP-1 类似物可能通过调节 ERs 相关 IRE1α-JNK 通路改
+善肝脏脂肪变性。
+[关键词]   胰升糖素样肽 1; 非酒精性脂肪肝; 内质网应激; 大鼠; 肌醇需求激酶 1α; c-jun 氨基末端
+激酶
+The intervention of glucagon-like peptide 1 analogue in IRE1α-JNK signaling pathway of rats with non-
+alcoholic fatty liver disease Xu Jiayu, Ao Na, Du Jian, Yang Jing, Wang Xiaochen. Department of Endocrinology
+and Metabolism, the Fourth Affiliated Hospital, China Medical University,Shenyang 110032, China
+[Abstract]   Objective   To explore the expressions of endoplasmic reticulum stress ( ERs) related factors
+including inositol requiring enzyme-1α(IRE1α), p-IRE1α, c-jun N-terminal Kinase(JNK), and p-JNK in rats with
+non-alcoholic fatty liver disease, and to investigate the effect of intervention with glucagon-like peptide 1(GLP-1)
+analogue. Methods Forty male Sprague-Dawley rats were divided into normal chow group(n=15) and high-fat diet
+group(n=25). After 12 weeks, 5 rats of each group were used to assess the establishment of rat models with non-
+alcoholic fatty liver disease. Then the high-fat diet group rats were divided into high-fat diet group(HF,n = 10) and
+GLP-1 group(HG, n=10) and treated with normal saline and GLP-1 analogue for 4 weeks respectively. Body weight
+and biochemical markers in rats were measured. The expressions of IRE1α, p-IRE1α, JNK, and p-JNK were
+measured by Western blot. Results Compared with the NC group, the levels of body weight, plasma triglyceride
+(TG), total cholesterol( TC), low density lipoprotein-cholesterol( LDL-C), alanine aminotransferase(ALT) and
+aspartate aminotransferase(AST) in HF group were significantly higher ( all P < 0. 01), high density lipoprotein-
+cholesterol(HDL-C) was decreased(P<0. 01), and p-IRE1α / IRE1α and p-JNK / JNK were increased(P<0. 05 and
+P<0. 01) . After GLP-1 treatment, body weight, plasma TG, TC, LDL-C, AST, ALT in HF group were significantly
+lowered(P<0. 05 or P<0. 01), HDL-C was increased(P<0. 01), p-IRE1α / IRE1α and p-JNK / JNK were decreased
+(P<0. 05 and P<0. 01) . Conclusion GLP-1 analogue may improve hepatic steatosis via regulating ERs related
+IRE1α-JNK signaling pathway.
+[Key words]   Glucagon-like peptide 1; Non-alcoholic fatty liver disease; Endoplasmic reticulum stress;
+Rats; Inositol requiring enzyme-1α; c-jun N-terminal kinase
+(Chin J Endocrinol Metab, 2015, 31: 272-276)
+非酒精性脂肪肝(NAFLD)是指除酒精及其他明
+确肝损害因素所致的,肝脏脂肪代谢功能障碍,脂类物
+质动态平衡失调,肝细胞脂质蓄积过多的一种病理状
+态。 近年来内质网应激(ERs)在 NAFLD 发病机制中
+的作用逐渐引起人们的关注,有研究认为,肌醇需求激
+酶 1α-c-jun 氨基末端激酶(IRE1α-JNK)介导的 ERs 信
+号通路参与了 NAFLD 的发病及进展[1]。 胰升糖素样
+肽 1(GLP-1)类似物是具有全新作用机制的降糖药物,
+近年来大量研究证实了其对代谢综合征(MS)的治疗
+作用[2-4],NAFLD 是 MS 在肝脏系统中的表现,其发生
+和发展与 MS 密切相关,而 GLP-1 类似物对 NAFLD 的
+治疗作用国内尚少有研究。 本研究旨在观察高脂饮食
+诱导非酒精性脂肪肝大鼠 IRE1α-JNK 信号通路的变
+化,并探讨 GLP-1 类似物干预的影响。
+材料和方法
+一、 材料
+1. 动物:SPF 级健康雄性 4 周龄 SD 大鼠 40 只,体
+重 80 ~ 120 g,购自北京华阜康生物科技股份有限公
+司,动物合格证号:SCXK(京)2009-0004。 饲养于中国
+医科大学实验动物中心屏障系统中,温度控制在(23 ±
+2)益,湿度控制在 60% ,明暗交替周期为 12 h。
+2. 试剂:RIPA 裂解液(强)、蛋白酶抑制剂混合
+物、蛋白磷酸酶抑制剂混合物、ECL 显影液、BCA 法蛋
+白浓度测定试剂盒均购自中国碧云天生物技术研究
+所;兔抗单克隆 IRE1α 抗体、兔抗单克隆 JNK 抗体、兔
+抗单克隆磷酸化 JNK 抗体、辣根过氧化物酶标记的山
+羊抗兔 IgG 均购自美国 Cell Signaling 公司;兔抗单克
+隆磷酸化 IRE1α 抗体购自美国 Abcam 公司。
+二、 方法
+1. 动物分组及模型制备:实验动物分为正常饮食
+(n=15)、高脂饮食(n = 25)。 正常饮食组给予基础饲
+料喂养,作为对照组,高脂饮食组给予高脂饲料(热量
+比:碳水化合物 35% ,脂肪 51% ,蛋白质 14% )喂养,2
+组大鼠均自由摄食和饮水。 喂养 12 周后,2 组大鼠分
+别随机抽取 5 只进行血清甘油三酯(TG)测定及肝组
+织 HE 染色,评估 NAFLD 大鼠模型。 正常饮食组
+(NC,n=10)继续基础饲料喂养,高脂饮食大鼠再次随
+机分为 2 个亚组:高脂饮食组(HF,n = 10)和 GLP-1 组
+(HG,n=10),继续高脂饲料喂养。
+2. 给药方案:HG 组给予每日 2 次、为期 4 周
+GLP-1 类似物(丹麦诺和诺德公司制造,商品名利拉鲁
+肽)(100 μg / kg)皮下注射,每日注射前称重,据此调
+整给药剂量;NC 组及 HF 组给予等体积灭菌生理盐水
+注射。
+3. 血清生化指标检测及肝组织 HE 染色:采用全
+自动生化分析仪测定 TG、总胆固醇(TC)、高密度脂蛋
+白胆固醇(HDL-C)、低密度脂蛋白胆固醇(LDL-C)、丙
+氨酸转移酶(ALT)、天冬氨酸转移酶(AST)。 取肝组
+织,行 HE 染色观察其病理学改变。
+4. 肝脏组织病理评分:根据 2010 年非酒精性脂
+肪性肝病指南[5],进行肝细胞脂肪变性评分:0 分( <
+5% ),1 分(5% ~ 33% ),2 分(34% ~ 66% ),3 分( >
+66% )。
+5. Western 印迹法:秤取肝组织 50 ~ 100 mg,加入
+1 ml 蛋白裂解液,剪碎组织,超声波冰浴匀浆,静置 30
+min 后,12 000×g 4℃离心 15 min,取上清液作为蛋白
+样品,BCA 法测定总蛋白浓度。 蛋白变性后行 SDS-
+PAGE 电泳,湿转法将蛋白条带转移到 PVDF 膜上,用
+含 5%脱脂奶粉的 TBST 封闭 1. 5 h 后,分别加入 JNK
+(1 : 2 000)、IRE1α(1 : 1 000)、p-JNK(1 : 2 000)、
+p-IRE1α(1 : 800),于 4℃ 床上孵育过夜,TBST 洗膜
+后加入辣根过氧化酶标记的抗兔 IgG(1 : 5 000),于室
+温 床上孵育 2 h,洗膜后用增强化学发光法显像曝
+光,用 IMAGE J 软件分析蛋白条带。
+三、 统计学处理
+采用 SPSS 13. 0 统计学软件分析。 数据进行正态
+性检验后以 x-± s 表示。 两组间均数比较采用 t 检验,
+P<0. 05 为差异具有统计学意义。
+结    果
+一、 各组大鼠一般情况
+各组大鼠实验初始体重无明显差异;喂养至第 12
+周,高脂饮食组大鼠体重及 TG 均明显高于正常饮食
+组[(543. 18 ±49. 36 对 482. 98 ± 25. 67)g,P<0. 01]和
+[(0. 21 ±0. 06 对 0. 08 ±0. 01)mmol / L,P<0. 01];大鼠
+喂养至 16 周时,与 NC 组相比,HF 组大鼠体重、TG、
+TC、LDL-C、ALT、AST 水平升高(均 P<0. 01),HDL-C
+水平降低(P<0. 01);GLP-1 类似物干预 4 周的 HG 组
+大鼠平均体重低于 HF 组 (P<0. 01),TG、TC、LDL-C、
+AST 水平下降(均 P <0. 01) ,HDL-C 水平升高(P <
+0. 01),ALT 水平降低(P<0. 05,表 1)。
+二、 高脂诱导 NAFLD 大鼠模型的建立及肝组织
+病理学改变
+12 周大鼠肝脏组织光镜下 HE 染色显示,正常饮
+食组大鼠肝细胞形态正常,肝索排列整齐,高脂饮食组
+大鼠肝细胞的细胞质内可见脂滴空泡,低倍镜视野中
+33%以上的肝细胞脂肪变性,说明 NAFLD 大鼠造模成
+功[5](图 1)。 对 12 周时两组大鼠进行肝细胞脂肪变
+评分,高脂饮食组(1. 8 ± 0. 45)较正常饮食组明显升
+表 1  各组大鼠喂养 16 周时体重及血清生化指标比较(x-± s)
+Tab 1  Comparisons of weight and serum biochemistry indicators in each group at 16 weeks(x-± s)
+组别
+Group
+鼠数
+n
+体重
+Weight
+(g)
+TG
+(mmol / L)
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+ALT
+(U / L)
+AST
+(U / L)
+NC 10 507. 33 ± 30. 00 0. 08 ± 0. 03 1. 03 ± 0. 19 0. 95 ± 0. 17 0. 23 ± 0. 05 34. 10 ± 8. 39 134. 00 ± 18. 51
+HF 10 597. 75 ± 57. 13a 0. 28 ± 0. 14a 1. 55 ± 0. 15a 0. 73 ± 0. 11a 0. 38 ± 0. 11a 55. 10 ± 10. 15a 176. 30 ± 35. 15a
+HG 10 526. 00 ± 50. 36b 0. 14 ± 0. 03b 1. 22 ± 0. 11b 0. 85 ± 0. 04b 0. 27 ± 0. 05b 44. 40 ± 8. 01c 126. 60 ± 14. 69b
+注:NC:正常饮食组 Normal chow group;HF:高脂饮食组 High-fat diet group;HG:胰升糖素样肽 1 组 Glucagon-like peptide 1 group;TG:甘油三酯
+Triglyceride;TC:总胆固醇 Total cholesterol;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density
+lipoprotein-cholesterol;ALT:丙氨酸转移酶 Alanine aminotransferase;AST:天冬氨酸转移酶 Aspartate aminotransferase;与 NC 组比较 vs NC group,aP<0. 01;
+与 HF 组比较 vs HF group,bP<0. 01,cP<0. 05
+注:正常饮食组大鼠肝细胞形态正常,肝索排列整齐,高脂饮食组大鼠肝细胞的细胞质内可见脂滴空泡,低倍镜视野中 33%以上的肝细胞脂肪变
+性 Morphology of liver cells are normal in normal chow group, the hepatic cord rows neatly. There are lipid droplet vacuoles in the liver cytoplasm of high-fat diet
+group, hepatic steatosis happened in more than 33% of liver cells at low magnification vision. 略语同表 1 The abbrevations are the same as Tab 1
+图 1  12 周各组大鼠肝脏组织病理学变化(HE×200)
+Fig 1  Histopathological features of rats忆 liver in each group at 12 weeks(HE×200)
+注:HF 组大鼠肝细胞内充满大小不等的脂滴空泡,汇管区可见炎性细胞浸润,HG 组大鼠较 HF 组肝细胞脂肪变性明显减轻,仅见局灶性轻度肝
+细胞脂肪变性 There are full of lipid droplet vacuoles of varying sizes in the rat hepatocytes of high-fat diet group, inflammatory cells infiltrate in the portal
+area. Compared with GLP-1 group, hepatic steatosis is significantly reduced in high-fat diet group, only to see focal and mild hepatic steatosis. 略语同表 1 The
+abbrevations are the same as Tab 1
+图 2  16 周各组大鼠肝脏组织病理学变化(HE×200)
+Fig 2  Histopathological features of rats忆liver in each group at 16 weeks(HE×200)
+高。 喂养至 16 周时,HF 组大鼠肝细胞内充满大小不
+等的脂肪空泡,汇管区可见炎性细胞浸润,HG 组大鼠
+较 HF 组肝细胞脂肪变性明显减轻,仅见局灶性轻度
+肝细胞脂肪变性(图 2)。 对 16 周时各组大鼠进行肝
+细胞脂肪变性评分,HF 组评分(2. 60 ± 0. 51)较 NC 组
+显著升高,HG 组(1. 00 ±0. 67)较 HF 组明显降低(P<
+0. 01)。
+三、 肝脏组织 IRE1α-JNK 通路蛋白的表达
+各组大鼠肝脏组织 JNK 及 IRE1α 的表达差异无
+统计学意义(P>0. 05)。 与 NC 组相比,HF 组大鼠肝
+脏组织磷酸化 IRE1α(p-IRE1α) / IRE1α 明显升高(P<
+0. 05 ), 磷酸化 JNK ( p-JNK) / JNK 明显升高 ( P <
+0. 01)。与 HF 组相比,GLP-1 类似物干预后的 HG 组大
+鼠肝脏组织 p-IRE1α / IRE1α 明显降低 ( P < 0. 05),
+p-JNK / JNK 明显降低(P<0. 01,表 2、图 3 和图 4)。
+表 2  肝脏组织 IRE1α-JNK 通路蛋白的表达(x-± s)
+Tab 2  The expressions of IRE1α-JNK signaling pathway(x-± s)
+组别
+Group
+鼠数
+n IRE1α JNK
+P-IRE1α /
+IRE1α p-JNK / JNK
+NC 10 183. 72 ± 4. 88 172. 78 ± 0. 40 0. 86 ± 0. 06 0. 60 ± 0. 04
+HF 10 174. 24 ± 5. 65 173. 70 ± 0. 71 1. 05 ± 0. 09a 0. 96 ± 0. 04b
+HG 10 181. 40 ± 5. 80 173. 33 ± 1. 36 0. 75 ± 0. 06c 0. 65 ± 0. 04d
+注: IRE1α:激酶肌醇需求激酶 1α Inositol requiring enzyme-1α;
+p-IRE1α:磷酸化 IRE1α Phosphorylated IRE1α;JNK:c-jun 氨基末端激酶
+C-Jun N-terminal kinase;p-JNK:磷酸化 JNK Phosphorylated JNK;其他略语
+同表 1 The other abbrevations are the same as Tab 1;与 NC 组比较 vs NC
+group,aP<0. 05,bP<0. 01;与 HF 组比较 vs HF group,cP<0. 05,dP<0. 01
+注:略语同表 1 和表 2 The abbrevations are the same as Tab 1 and Tab
+2; 与 NC 组比较 vs NC group,aP<0. 05;与 HF 组比较 vs HF group,bP<
+0. 05
+图 3  各组大鼠肝组织 IRE1α 磷酸化水平
+Fig 3  The phosphorylation level of IRE1α in liver of various groups
+注:略语同表 1 和表 2 The abbrevations are the same as Tab 1 and Tab
+2; 与 NC 组比较 vs NC group,aP<0. 01;与 HF 组比较 vs HF group,bP<
+0. 01
+图 4  各组大鼠肝组织 JNK 磷酸化水平
+Fig 4  The phosphorylation level of JNK in liver of various groups
+讨    论
+NAFLD 是遗传、环境、代谢、应激相关性疾病,随
+着生活方式的改变和饮食结构变化,NAFLD 在世界范
+围内的发病率逐年上升。 高脂饮食可诱导血浆游离脂
+肪酸的升高以及血浆脂蛋白代谢障碍,形成血脂代谢
+的异常,导致肝脏脂质过度沉积。 本实验采用高脂饮
+食喂养大鼠 12 周,成功建立 NAFLD 大鼠模型。
+内质网是真核细胞中蛋白质合成、折叠、成熟与分
+泌的重要细胞器。 高脂饮食、缺氧、饥饿、氧化应激、钙
+离子稳态失衡、药物、自由基侵袭等多种原因可导致
+ERs 的发生。 目前研究认为 ERs 在 NAFLD 的发生、发
+展及转归过程中扮演关键角色。 IRE1 是介导 ERs 信
+号转导的跨膜蛋白之一,IRE1α 是 IRE1 的主要结构,
+在许多组织中皆有表达,IRE1α 经自身磷酸化被激活,
+通过其核糖核酸内切酶(RNase)的活性,移除 XBP-1
+中的一段由 26 个核苷酸组成的非常规内含子,使无活
+性的 XBP-1 前体 mRNA 分子剪接为有活性的 XBP-
+1s[6],进而增加分子伴侣蛋白的产生,促进未折叠蛋白
+反应( unfolded protein respons,UPR),对 ERs 进行应
+答。 当内质网长期处于应激状态或 ERs 严重得不到
+缓解时,会启动细胞程序性死亡,即细胞凋亡。 IRE1α
+可能是诱导细胞凋亡过程中关键的信号分子,可通过
+其激酶的作用,结合肿瘤坏死因子受体相关因子 2
+(TNF receptor associated factor 2,TRAF2),并与凋亡信
+号调节激酶 ( TNF-dependent apoptosis-signaling kinase
+1,ASK1) 共同形成 TRAF2-ASK1-JNK 复合体,激活
+JNK 通路,JNK 是一种丝裂原活化蛋白激酶(mitogen-
+activated protein kinase, MAPK) [7],一方面可以调节凋
+亡相关基因 Bcl-2,甚至直接激活 Bcl 家族中 Bax 基因
+促进凋亡,另一方面,JNK 可通过调节胰岛素受体底物
+1(IRS1)的磷酸化调控胰岛素抵抗(IR)的发生,而 IR
+是 NAFLD 发病机制中 “一次打击冶 的核心, 促进
+NAFLD 的发生及发展。 本研究采用 Western 印迹法检
+测大鼠肝脏组织 p-IRE1α、IRE1α、p-JNK、JNK 的蛋白
+表达,结果显示各组之间大鼠肝脏组织 IRE1α 及 JNK
+的表达水平差异无统计学意义(P>0. 05),与 NC 组相
+比,HF 组大鼠肝组织 p-IRE1α / IRE1α 及 p-JNK / JNK
+均明显升高,既证明了肝组织存在明显 ERs,又可提示
+HF 组大鼠肝脏组织存在肝细胞损害,该结果与既往文
+献报道一致[8]。
+GLP-1 类似物作为新的糖尿病治疗药物,是一种
+葡萄糖依赖性肠促胰素,具有改善胰岛 β 细胞功能及
+促进胰岛素敏感性的作用。 近年来不断有研究发现,
+GLP-1 类似物除降血糖作用之外,还具有调节血脂、减
+轻体重、保护心脏、降血压等多重生理作用。 自 2010
+年首次发现 GLP-1 受体存在于肝细胞后[9],其对脂肪
+肝等疾病的治疗作用亦逐渐被发掘。 本研究发现,为
+期 4 周的 GLP-1 类似物干预明显降低了 NAFLD 大鼠
+体重,GLP-1 降低大鼠体重的机制可能与抑制中枢神
+经系统食欲及延缓胃内容物排空相关[3]。 与此同时,
+本研究中大鼠血清 TC、TG、LDL-C 明显下降,HDL-C
+升高,该结果的出现可能与 GLP-1 降低大鼠 PPARγ 和
+激素敏感脂肪酶 ( HSL) mRNA 及蛋白质的表达相
+关[10],进而改善高脂饮食造成的脂质代谢紊乱。 血清
+ALT 及 AST 是与肝脏脂肪聚集、肝细胞损伤及肝纤维
+化进展相关的指标,本研究中 GLP-1 干预后的大鼠血
+清 AST 与 ALT 均明显下降,可在一定程度上提示
+GLP-1 类似物具有减轻 NAFLD 大鼠肝细胞脂质沉积,
+修复细胞损伤的作用,但其具体机制仍有待研究。 以
+往研究显示,GLP-1 可通过改善 ERs,降低肝细胞脂肪
+酸的聚集,保护肝细胞免于脂肪酸所致的凋亡[11]。 本
+实验通过高脂喂养建立 NAFLD 大鼠模型,并观察
+GLP-1 类似物对肝组织 ERs 相关 IRE1α-JNK 通路的
+表达影响,研究发现,GLP-1 干预后,p-IRE1α / IRE1α
+与 p-JNK / JNK 与 HF 组相比明显降低,提示 GLP-1 可
+能通过调节与 ERs 相关的 IRE1α-JNK 信号通路缓解
+ERs、减轻肝细胞凋亡。 而近期研究发现,GLP-1 类似
+物可通过抑制丝裂原活化蛋白激酶激酶 ( mitogen-
+activated protein kinase kinase 4,MKK4)及 P-JNK 的表
+达,进而调节炎症相关因子及脂质合成相关基因的表
+达,最终阻止小鼠 IR 及 NAFLD 的进展[12]。 推测
+GLP-1 可能通过减少 IRE1α-JNK 通路的表达进而减
+轻肝细胞炎症和细胞脂质沉积。
+综上所述,高脂饮食可导致肝脏脂质沉积,并诱导
+ERs 的发生, GLP-1 类似物可通过干预 ERs 相关
+IRE1α-JNK 信号通路,改善 NAFLD 大鼠肝脏脂肪变
+性,但具体机制仍有待探索。

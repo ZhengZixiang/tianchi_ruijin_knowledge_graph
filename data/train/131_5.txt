@@ -1,0 +1,351 @@
+临床研究
+勇)
+血清脂肪因子 ANGPTL4 水平与肥胖及
+2 型糖尿病的相关性
+王奕  周勇  肖元元  徐淼  魏丽
+[摘要]   目的  测定正常人群及新诊断的 2 型糖尿病患者血清中血管生成素样蛋白 4(ANGPTL4)水
+平,探讨脂肪因子 ANGPTL4 与体脂参数、糖脂代谢、胰岛素抵抗的关系。 方法 收集正常糖调节(NGR)和
+新诊断 2 型糖尿病患者 160 例,按体重指数≥25 kg / m2分为正常糖调节正常体重组(NGR-NW)、正常糖调
+节超重 /肥胖组(NGR-OW/ OB)、2 型糖尿病正常体重组(T2DM-NW)、2 型糖尿病超重 /肥胖组(T2DM-OW/
+OB)4 个亚组。 检测所有研究对象血清 ANGPTL4 水平、空腹胰岛素和糖脂代谢参数等,并计算体重指数、
+腰臀比和稳态模型评估的胰岛素抵抗指数(HOMA-IR)。 结果 2 型糖尿病组 ANGPTL4 水平低于 NGR 组
+[(25. 75 ± 2. 85 对 31. 08 ± 3. 35) ng / ml,P<0. 01],OW/ OB 组 ANGPTL4 水平低于 NW 组[(27. 27 ± 3. 05 对
+29. 04 ± 4. 64) ng / ml,P<0. 01]。 血清 ANGPTL4 与体重指数、腰臀比、空腹血糖、餐后 2 h 血糖、HBA1C、空腹
+胰岛素、HOMA-IR、天冬氨酸转氨酶(AST)、谷氨酸丙氨酸氨基转移酶(ALT)、甘油三酯呈负相关(P<
+0. 01),与高密度脂蛋白胆固醇(HDL-C)呈正相关(P<0. 01)。 多元逐步回归分析显示 HBA1C、空腹胰岛素、
+HDL-C 是血清 ANGPTL4 的独立相关因素(β 分别为-0. 825、-0. 119 和 3. 301,均 P<0. 01)。 结论 2 型糖
+尿病血清 ANGPTL4 水平显著降低,与胰岛素水平、体脂分布、脂代谢相关,提示 ANGPTL4 可能在肥胖及糖
+脂代谢的病理生理过程中发挥一定的作用,血清 ANGPTL4 或许可为治疗糖尿病提供线索。
+[关键词]   血管生成素样蛋白 4; 脂代谢; 胰岛素抵抗; 糖尿病, 2 型
+Relationship of serum ANGPTL4 to obesity and type 2 diabetes mellitus Wang Yi*, Zhou Yong, Xiao
+Yuanyuan, Xu Miao, Wei Li. *Department of Endocrinology, Sixth People忆s Hospital, Shanghai Jiaotong University
+School of Medicine, Shanghai 200025, China
+[Abstract]  Objective  To investigate the level of serum angiopoietin-like protein 4(ANGPTL4) in normal
+subjects and patients with obesity and newly-diagnosed type 2 diabetes mellitus ( T2DM), and to explore the
+relationship of serum ANGPTL4 with parameters of body fat, glucose-lipid metabolism, and insulin resistance index
+(HOMA-IR). Methods A total of 160 subjects with normal glucose regulation(NGR) and newly-diagnosed T2DM,
+were divided into 4 groups: NGR with normal weight group(NGR-NW), NGR with overweight / obese group(NGR-
+OW/ OB), T2DM with normal weight group(T2DM-NW), and T2DM with overweight / obesity group(T2DM-OW/
+OB) according to their body mass index( BMI). ELISA was used to determine the level of serum ANGPTL4. The
+weight, height, waist circumference, hip circumference, waist hip ratio(WHR), and BMI, fasting insulin(FINS),
+lipid metabolism parameters, and insulin resistance index (HOMA-IR) were measured. Results Compare with the
+NGR group, the level of ANGPTL4 was significantly decreased in the T2DM group [(25. 75 ±2. 85 vs 31. 08 ±3. 35)
+ng / ml, P<0. 01], the level of ANGPTL4 in OW / OB group was significantly lower than that in the NW group [(27. 27
+±3. 05 vs 29. 04 ± 4. 64) ng / ml, P<0. 01] . Partial correlation analysis showed that serum ANGPTL4 was negatively
+correlated with BMI, WHR, FPG, 2hPG, HBA1C, FINS, HOMA-IR, AST, ALT, and TG levels(P<0. 01), but
+positively correlated with the HDL-C(P<0. 01) . Multiple stepwise regression analysis showed that HBA1C, FINS, and
+HDL-C were independent risk factors of serum ANGPTL4(β = -0. 825, -0. 119, 3. 301, P<0. 01) . Conclusion
+Serum ANGPTL4 level in T2DM and OW/ OB group was lower than that in NGR and NW group. Serum ANGPTL4 is
+associated with FINS and lipid metabolism, suggesting that it may play an important role in the pathophysiology of
+obesity and metabolic syndrome.
+[Key words]  A ngiopoietin-like protein 4; Lipid metabolism disorders; Insulin resistance; Diabetes mellitus,
+type 2
+(Chin J Endocrinol Metab, 2014, 30: 106-109)
+ANGPTL4 作为血管生成素样蛋白家族成员之一,
+参与糖脂代谢。 ANGPTL4 在脂肪组织和肝脏中的高
+表达,研究发现腺病毒介导的 ANGPTL4 的过表达的
+C57 小鼠循环血糖明显下降,糖耐量得到改善[1]。 同
+时 ANGPTL4 可通过抑制脂蛋白脂肪酶,从而抑制了
+循环中甘油三酯的清除,ANGPTL4 的过表达将导致严
+重的高甘油三酯血症,ANGPTL4 缺失的小鼠导致了甘
+油三酯降低[2]。 目前为止,有关人体内尤其是 2 型糖
+尿病患者有关 ANGPTL4 的研究非常有限。 为揭示
+ANGPTL4 与血脂和 2 型糖尿病胰岛素抵抗的关系,本
+研究通过测定中国汉族新诊断 2 型糖尿病患者、正常
+人群及肥胖人群血清 ANGPTL4 水平, 分析血清
+ANGPTL4 与体脂参数、胰岛素抵抗和糖脂代谢之间的
+关系。
+对象和方法
+一、 对象
+选取 2012 年 4 月至 2013 年 4 月上海市徐汇区大
+华医院糖尿病门诊初发 2 型糖尿病患者,糖调节正常
+者来源于上海市徐汇区大华医院健康体检中心,均接
+受 75 g 口服葡萄糖耐量试验(OGTT),并排除既往有
+糖尿病病史并有降糖药物治疗史;1 型糖尿病及妊娠
+糖尿病;糖尿病急性并发症酮症酸中毒、高渗性昏迷
+等;严重的肝功能不全、肾功能不全、冠心病、急性感染
+等;育龄女性服用避孕药物者。 共 160 例入选,其中男
+性 74 例,女性 86 例,平均年龄(50. 5 ± 14. 0)岁。 本研
+究经上海市交通大学附属第六人民医院医学伦理道德
+委员会批准,所有受试者均签署知情同意书。
+二、 方法
+1. 体脂参数的测定:(1)总体脂以体重指数为指
+标,体重指数=体重 /身高2(kg / m2);(2)局部体脂的简
+易参数为腰围、臀围,腰围取肋下缘与髂前上棘连线之
+中点,臀围平股骨粗隆水平测定,并计算腰臀比 = 腰
+围 /臀围。
+2. 生化指标检测:空腹抽取静脉血,测定血清
+ANGPTL4( ELISA 法,美国 R&D Systems 公司,批内
+CV<7. 8% ,批间 CV<9. 8% ),测定血脂、肝肾功能(全
+自动生化分析仪)、空腹血糖 (葡萄糖氧化酶法)、
+HBA1C(高压液相法)、空腹胰岛素(化学发光免疫法)。
+行 OGTT 后 2 h 抽取静脉血,测 2 h 血糖。 以稳态模型
+评估的胰岛素抵抗指数(HOMA-IR =空腹血糖×空腹
+胰岛素 / 22. 5)。
+3. 分组: (1) 糖尿病诊断,根据世界卫生组织
+(WHO,1999 年) 糖尿病诊断标准;肥胖诊断,根据
+WHO(1997 年)肥胖的诊断标准:体重指数<25 kg / m2
+为正常,25 kg / m2≤体重指数<30 kg / m2 为超重,体重
+指数≥30 kg / m2为肥胖。 (2)根据上述诊断标准分为
+正常糖调节正常体重组(NGR-NW)40 例(男 : 女为
+17 : 23)、正常糖调节超重 /肥胖组(NGR-OW / OB)40
+例(男 : 女为 19 : 21)、2 型糖尿病正常体重组(T2DM-
+NW)40 例(男 : 女为 14 : 26)、2 型糖尿病超重 /肥胖
+组(T2DM-OW / OB)40 例(男 : 女为 24 : 16)。
+三、 统计学处理
+计量资料以 x-± s 表示。 两组间计量资料间比较用
+t 检验,3 组以上采用单因素方差分析。 相关分析采用
+Pearson 相关分析,多因素分析采用多元逐步回归分
+析。 使用 SPSS 13. 0 统计软件包进行统计学分析。
+结    果
+一、 一般临床资料
+1. 正常糖调节组和 2 型糖尿病组体脂参数、糖脂
+代谢水平比较:2 型糖尿病组腰臀比、空腹血糖、2 h 血
+糖、HBA1C、空腹胰岛素、HOMA-IR、天冬氨酸转氨酶
+(AST)、丙氨酸氨基转移酶(ALT)、γ-谷氨酰基转移酶
+(γ-GT)、总胆固醇高于 NGR 组(均 P<0. 05),而高密
+度脂蛋白胆固醇 (HDL-C) 低于正常糖调节组 (P <
+0. 05),两组性别、年龄、体重指数、甘油三酯、低密度
+脂蛋白胆固醇(LDL-C)差异无统计学意义(表 1)。
+2. 各亚组间体脂参数、糖脂代谢水平:超重 /肥胖
+两亚组局部体脂参数体重指数及腰臀比、空腹胰岛素、
+HOMA-IR 高于正常体重两亚组(P<0. 01);而超重 /肥
+胖两亚组间、正常体重两亚组间各体脂参数差异均无
+统计学意义。 正常糖调节两亚组间比较,超重 /肥胖组
+的甘油三酯高于正常体重组,而 HDL-C 低于正常体重
+组(P<0. 01)。 糖尿病两亚组间比较, 超重 /肥胖组空
+腹胰岛素、HOMA-IR、γ-GT 高于正常体重组(P<0. 01)。
+注:NGR:正常糖调节 Normal glucose regulation;T2DM:2 型糖尿病
+Type 2 diabetes mellitus;NW:正常体重 Normal weight;OW / OB:超重 / 肥胖
+Overweight / obese;vs NGR,aP<0. 01;vs NW,bP<0. 01
+图 1  不同糖调节、不同体重组间血清 ANGPTL4 比较
+Fig 1   Comparison of the level of serum ANGPTL4 between the groups of
+different glucose regulation and different weight
+表 1  正常糖调节组和 2 型糖尿病组体脂参数、糖脂代谢比较(x-± s)
+Tab 1  Comparison of clinical parameters between NGR ang T2DM groups(x-± s)
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+体重指数
+Body mass index
+(kg / m2)
+腰臀比
+Waist-to-hip ratio
+空腹血糖
+Fasting plasma
+glucose
+(mmol / L)
+2 h 血糖
+2 h postprandial
+plasma glucose
+(mmol / L)
+HBA1C
+(% )
+NGR  80(36 / 44) 48. 5 ± 12. 7 24. 39 ± 2. 50 0. 91 ± 0. 05 4. 93 ± 0. 51 6. 38 ± 1. 15 5. 40 ± 0. 31
+T2DM 80(38 / 42) 52. 3 ± 15. 0 25. 02 ± 3. 26 0. 93 ± 0. 05b 8. 82 ± 4. 04b 15. 70 ± 6. 26b 8. 27 ± 2. 58b
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+空腹胰岛素
+Fasting insulin
+(mIU / L)
+HOMA-IR
+天冬氨酸转氨酶
+Aspartate aminotransferase
+(mmol / L)
+谷氨酸氨基转移酶
+Alanine aminotransferase
+(mmol / L)
+γ-谷氨酰转肽酶
+γ-Glutamyl transpeptidase
+(mmol / L)
+NGR  80(36 / 44) 6. 41 ± 2. 76 0. 82 ± 0. 65 22. 66 ± 7. 33 22. 38 ± 14. 38 24. 00 ± 22. 02
+T2DM 80(38 / 42) 10. 32 ± 7. 16b 3. 22 ± 2. 72b 28. 58 ± 13. 02b 37. 26 ± 25. 98b 55. 20 ± 55. 17b
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+甘油三酯
+Triglycerides
+(mmol / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+尿酸
+Uric acid
+(mmol / L)
+NGR  80(36 / 44) 1. 53 ± 2. 40 4. 64 ± 0. 79 1. 24 ± 0. 27 2. 86 ± 0. 70 309. 41 ± 72. 99
+T2DM 80(38 / 42) 2. 12 ± 1. 24 4. 94 ± 1. 03a 2. 13 ± 1. 24b 3. 06 ± 0. 99 320. 17 ± 69. 84
+注:NGR:正常糖调节 Normal glucose regulation;T2DM:2 型糖尿病 Type 2 diabetes mellitus;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis
+model assessment for insulin resistance index;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low-density
+lipoprotein-cholesterol;vs NGR,aP<0. 05, bP<0. 01
+表 2  4 组体脂参数、糖脂代谢比较(x-± s)
+Tab 2  Comparison of clinical parameters among 4 groups(x-± s)
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+体重指数
+Body mass index
+(kg / m2)
+腰臀比
+Waist-to-hip ratio
+空腹血糖
+Fasting plasma
+glucose
+(mmol / L)
+2 h 血糖
+2 h postprandial
+plasma glucose
+(mmol / L)
+HBA1C
+(% )
+NGR-NW 40(17 / 23) 48. 9 ± 14. 5 22. 37 ± 1. 19 0. 88 ± 0. 05 4. 84 ± 0. 54 6. 45 ± 1. 32 5. 39 ± 0. 29
+NGR-OW / OB 40(19 / 21) 47. 9 ± 10. 4 26. 79 ± 1. 12b 0. 93 ± 0. 04 5. 03 ± 0. 45 6. 31 ± 0. 93 5. 41 ± 0. 35
+T2DM-NW 40(14 / 26) 53. 1 ± 14. 8 22. 68 ± 1. 67d 0. 91 ± 0. 06bd 8. 94 ± 4. 06bd 15. 89 ± 6. 68bd 8. 41 ± 2. 83bd
+T2DM-OW / OB 40(24 / 16) 51. 2 ± 15. 2 27. 79 ± 2. 37bcf 0. 95 ± 0. 03bdf 8. 67 ± 4. 07bd 15. 47 ± 5. 79bd 8. 11 ± 2. 29bd
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+空腹胰岛素
+Fasting insulin
+(mIU / L)
+HOMA-IR
+天冬氨酸转氨酶
+Aspartate aminotransferase
+(mmol / L)
+谷氨酸氨基转移酶
+Alanine aminotransferase
+(mmol / L)
+γ-谷氨酰转肽酶
+γ-Glutamyl transpeptidase
+(mmol / L)
+NGR-NW 40(17 / 23) 6. 67 ± 0. 85 0. 62 ± 0. 08 20. 66 ± 4. 71 17. 90 ± 8. 45 20. 89 ± 14. 66
+NGR-OW / OB 40(19 / 21) 7. 34 ± 0. 53 1. 05 ± 0. 13 25. 02 ± 9. 07 27. 58 ± 17. 92 27. 66 ± 28. 17
+T2DM-NW 40(14 / 26) 8. 96 ± 0. 90b 2. 69 ± 0. 31bd 26. 83 ± 11. 38b 33. 76 ± 19. 24b 45. 05 ± 29. 87b
+T2DM-OW / OB 40(24 / 16) 11. 93 ± 1. 28bde 3. 83 ± 0. 52bde 30. 64 ± 14. 61bc 41. 38 ± 31. 97bd 67. 16 ± 73. 48bde
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+甘油三酯
+Triglycerides
+(mmol / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+尿酸
+Uric acid
+(mmol / L)
+NGR-NW 40(17 / 23) 1. 07 ± 0. 67 4. 55 ± 0. 74 1. 33 ± 0. 28 2. 76 ± 0. 61 295. 10 ± 73. 41
+NGR-OW / OB 40(19 / 21) 2. 09 ± 3. 41a 4. 74 ± 0. 85 1. 13 ± 0. 21b 2. 97 ± 0. 79 326. 25 ± 69. 84
+T2DM-NW 40(14 / 26) 2. 04 ± 1. 29a 4. 97 ± 1. 15a 1. 05 ± 0. 24b 2. 98 ± 0. 85 307. 53 ± 67. 00
+T2DM-OW / OB 40(24 / 16) 2. 23 ± 1. 19b 4. 89 ± 0. 87 1. 04 ± 0. 22b 3. 15 ± 0. 13a 335. 08 ± 71. 03a
+注:NGR:正常糖调节 Normal glucose regulation;T2DM:2 型糖尿病 Type 2 diabetes mellitus;NW:正常体重 Normal weight;OW / OB:超重 / 肥胖
+Overweight / obese;HOMA-IR:稳态模型评估的胰岛素抵抗指数 Homeostasis model assessment for insulin resistance index;HDL-C:高密度脂蛋白胆固醇
+High-density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low-density lipoprotein-cholesterol;vs NGR-NW, aP<0. 05, bP<0. 01;vs NGR-OW / OB,
+cP<0. 05, dP<0. 01;vs T2DM-OW / OB, eP<0. 05, fP<0. 01
+超重 /肥胖两亚组间比较,2 型糖尿病超重 /肥胖组的
+空腹血糖、HBA1C、空腹胰岛素、HOMA-IR、AST、ALT、
+γ-GT 高于正常糖调节超重 /肥胖组(P<0. 01,表 2)。
+二、 血清 ANGPTL4 水平
+1. 不同糖调节组间血清 ANGPTL4 比较(图 1):
+校正 MBI 及腰臀比后,2 型糖尿病组血清 ANGPTL4 水
+平低于正常糖调节组,差异有统计学意义[(25. 78 ±
+2. 34 对 31. 04 ±3. 36) ng / ml, P<0. 01]。
+2. 不同体重组间血清 ANGPTL4 比较(图 1):校
+正血糖后,超重 /肥胖组血清 ANGPTL4 水平低于正常
+体重组,差异有统计学意义[(27. 15 ± 2. 98 对 29. 11 ±
+3. 87) ng / ml, P<0. 01]。
+3. 4 个亚组血清 ANGPTL4 水平比较:4 个亚组血
+清 ANGPTL4 水平分别为(32. 92 ± 2. 16)、(28. 90 ±
+3. 21)、(25. 67 ± 3. 40)和(25. 84 ± 2. 05) ng / ml,与
+NGR-NW 组比较,NGR-OW / OB、T2DM-NW 组、T2DM-
+OW / OB 组血清 ANGPTL4 水平差异具有统计学意义
+(P<0. 01);与 NGR-OW / OB 比较,2 型糖尿病组血清
+ANGPTL4 水平降低,差异具有统计学意义(P<0. 01);
+T2DM-NW 组与 T2DM-OW / OB 组之间血清 ANGPTL4
+水平差异无统计学意义。
+三、 血清 ANGPTL4 与体脂、糖脂代谢和胰岛素抵
+抗参数的相关性分析
+血清 ANGPTL4 与体重指数、腰臀比、空腹血糖、2
+h 血糖、HBA1C、空腹胰岛素、HOMA-IR、AST、ALT 和甘
+油三酯呈负相关( r 分别为-0. 193、-0. 189、-0. 499、
+-0. 561、-0. 558、-0. 387、-0. 385、-0. 246、-0. 222 和
+-0. 160,均 P<0. 05),与 HDL-C 呈正相关( r = 0. 376,
+P<0. 01)。 进一步以血清 ANGPTL4 为应变量,以体重
+指数、腰臀比、空腹血糖、2 h 血糖、HBA1C、空腹胰岛
+素、2 h 胰岛素、HOMA-IR、甘油三酯、AST、ALT、γ-GT、
+HDL-C 和尿酸为自变量进行逐步回归分析显示:
+HBA1C、空腹胰岛素、HDL-C 是血清 ANGPTL4 的独立
+相关因素(β 分别为-0. 825、-0. 119 和 3. 301,均 P<
+0. 01)。
+讨    论
+大量研究发现脂肪因子与胰岛素抵抗及 2 型糖尿
+病的发生密切相关。 ANGPTL4 作为一种新发现的脂
+肪因子参与糖脂代谢,Xu 等[1] 研究发现 ANGPTL4 过
+表达的小鼠其循环血糖明显下降,糖耐量得到改善。
+ANGPTL4 过 表 达 小 鼠 其 肝 糖 原 含 量 升 高, 表 明
+ANGPTL4 可改善肝组织中胰岛素敏感性,抑制了肝糖
+输出,导致外周血糖下降。 本研究结果进一步说明了
+ANGPTL4 可 能 有 降 低 血 糖 的 作 用。 目 前 有 关
+ANGPTL4 在肝细胞内作用机制、其相互作用的所有伙
+伴的全貌尚不清楚,需今后进一步研究。
+同时大量的研究表明,肥胖(尤其是内脏型肥胖)
+是产生胰岛素抵抗的重要因素,而胰岛素抵抗又是 2
+型糖尿病、高血压、脂代谢紊乱发生的基础。 近年来
+Polonsky 等[3]研究提示,单纯性肥胖者 24 h 胰岛素分
+泌总量增加,糖负荷后胰岛素的分泌出现亢进。 应用
+葡萄糖钳夹技术研究表明,肥胖者肝脏的胰岛素清除
+率下降,其清除率与体重指数、腰臀比呈负相关。
+本研究发现超重 /肥胖组血清 ANGPTL4 水平明
+显低于体重正常组,血清 ANGPTL4 水平与体重指数、
+腰臀比呈负相关,这提示血清 ANGPTL4 水平与肥胖
+及体脂分布密切相关。 最近的研究表明[4],ANGPTL4
+参与调节食物摄入和能量消耗,中枢可通过 ANGPTL4
+减少食物摄入量、减轻体重和提高能量消耗,提示
+ANGPTL4 是减少食欲的因子,它可能是通过抑制下丘
+脑腺苷酸活化蛋白激酶活性发挥作用,血清 ANGPTL4
+水平降低可能是腹型肥胖的因素之一。
+ANGPTL4 可通过抑制脂蛋白脂肪酶(LPL),导致
+循环中甘油三酯水平升高。 ANGPTL4 敲除小鼠减少
+血甘油三酯水平,而过表达出现高甘油三酯水平[5]。
+本研究还发现血清 ANGPTL4 水平与与 HDL-C 呈正相
+关,这与 Smart-Halajko、Romeo 等[6,7] 研究相符,HDL-C
+是血 清 ANGPTL4 的 独 立 相 关 因 素。 同 时 血 清
+ANGPTL4 与 甘 油 三 酯 呈 负 相 关, 这 进 一 步 证 实
+ANGPTL4 参与脂质代谢。 动物试验中发现 ANGPTL4
+可阻断脂蛋白酯酶(LPL),使 LPL 的活性能力丧失,血
+浆甘油三酯水平升高[2]。 而本研究发现 2 型糖尿病组
+与超重、肥胖组中血清 ANGPTL4 水平偏低,血甘油三
+酯水平较正常糖耐量正常体重组相比升高,这与国内
+王彬[8]报道及动物实验结果不一致。 故本研究增加
+了根据血甘油三酯≥1. 7 mmol / L 分为正常甘油三酯
+组及高甘油三酯组,结果发现高甘油三酯组血清
+ANGPTL4 水平明显低于正常甘油三酯组,但通过校正
+体重指数、腰臀比、血糖、空腹胰岛素及 HOMA-IR 后,
+两组血清 ANGPTL4 水平差异无统计学意义。 提示人
+体内血脂代谢除受血清 ANGPTL4 调节外,由多种因
+素共同参与的结果。
+对新发现脂肪因子 ANGPTL4 的研究,有助于我
+们更好地认识脂肪组织与肥胖和 2 型糖尿病发生的关
+系,有可能为糖尿病治疗提供线索。

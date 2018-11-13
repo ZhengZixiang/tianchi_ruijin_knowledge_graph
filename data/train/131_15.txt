@@ -1,0 +1,299 @@
+基础研究
+基金项目:上海市公共卫生重点学科(12GWZX0903)
+心,上海市消化疾病研究所;第一作者现在湖南永州市人民医院内科
+活化的 CREBH 蛋白对脂肪酸诱导的脂肪变性
+肝细胞中 C 反应蛋白表达的调控研究
+赵雄  艾罗燕  苏大芝  王晓晗  江小柯  许青青  吴昌维  陈志威  范竹萍
+[摘要]   目的   建立脂肪酸诱导的脂肪变肝细胞模型,探讨活化的 cAMP 应答元件结合蛋白 H
+(CREBH)蛋白对该模型中 C 反应蛋白表达的影响。 方法 给予 L02 细胞不同比例和浓度的油酸软脂酸混
+合液(2 : 1、1 : 2 和 0 : 3),分别干预 12 和 24 h。 CCK-8 法测定细胞活力。 流式测定细胞内脂肪含量。 实
+时 PCR 方法检测细胞内 C 反应蛋白、CREBH、C / EBP 同源蛋白 C / EBP(CHOP)和免疫球蛋白结合蛋白
+(BIP)mRNA 表达水平变化。 Western 印迹法检测细胞核内活化的 CREBH 蛋白含量。 RNA 干扰靶向沉默
+CREBH 蛋白后再分别采用混合脂肪酸干预 24 h。 实时 PCR 方法检测细胞内 C 反应蛋白、CREBH、CHOP
+和 BIP mRNA 表达水平变化。 结果 (1)混合脂肪酸诱导肝细胞脂肪变。 随着软脂酸比例的升高,细胞内
+C 反应蛋白表达水平升高,并且具有时间依赖性。 (2)混合脂肪酸可以诱导 CREBH 表达升高(P<0. 05),
+可增加核内 CREBH 蛋白水平。 (3)混合脂肪酸中软脂酸比例越高,内质网应激标志增加越显著。 (4)
+CREBH siRNA 可有效抑制 CREBH 表达。 敲除 CREBH 基因后,C 反应蛋白表达显著下降(P<0. 05)。 结论
+软脂酸可上调肝细胞 C 反应蛋白表达水平,但是油酸无此作用。 活化的 CREBH 可调节软脂酸诱导的 C 反
+应蛋白表达。
+[关键词]   脂肪变性肝细胞; cAMP 应答元件结合蛋白 H; C 反应蛋白; 内质网应激; 饱和脂肪酸
+Effect of activated CREBH protein on the expression of C-reactive protein in fatty-acid-induced steatotic
+hepatic cells Zhao Xiong, Ai Luoyan, Su Dazhi, Wang Xiaohan, Jiang Xiaoke, Xu Qingqing, Wu Changwei,
+Chen Zhiwei, Fan Zhuping. Depament of Health Care Center, Renji Hospital, School of Medicine, Shanghai Jiaotong
+University, Shanghai 200127, China
+[Abstract]  Objective  To establish a steatosis hepatocyte model in vitro and explore the effect of activated
+cAMP-responsive element-binding protein H(CREBH) protein on the expression of C-reactive protein(CRP) in this
+model. Methods L02 cells were cultured with free fatty-acid(FFA) mixtures at different ratios of oleic acid and
+palmitic acid(2 : 1, 1 : 2, and 0 : 3) for 12 or 24 h to induce fat-overloading. Cell viability was investigated by
+CCK-8, the levels of CRP, CREBH, C / EBP homologous protein ( CHOP), and immunoglobulin-binding protein
+(BIP) were detected by real-time PCR. The level of CREBH in nuclei was detected by western blot. Then CREBH
+siRNA or negative control siRNA was transfected into L02 cells, and cultured with FFA mixtures for 24 hours. The
+levels of CRP, CREBH, CHOP, and BIP were detected by real-time PCR. Results (1) Cells cultured with FFA
+mixtures showed significantly increased fat droplets compared with control group. The level of CRP was increased by
+FFA mixtures, depending on the proportion of palmitic acid. (2)The expression levels of CREBH were increased by
+FFA mixture(P<0. 05) and its expression in nuclear was also increased by FFA mixture. (3)Endoplasmic reticulum
+stress could be induced by FFA mixture, depending on the proportion of palmitic acid. (4)The CREBH siRNA could
+effectively reduce the expression level of CREBH mRNA. Compared with the negative control group, the expression
+levels of CRP mRNA were significantly decreased(P<0. 05) . Conclusion Palmitic acid, but not oleic acid, could
+up-regulate the expression of CRP. Palmitic acid-induced expression of CRP was regulated by activated CREBH.
+[Key words]  Non-alcoholic fatty liver disease; CREBH; C-reactive protein; Endoplasmic reticulum stress;
+Saturated fatty-acid
+(Chin J Endocrinol Metab, 2014, 30: 141-145)
+非酒精性脂肪性肝病 ( non-alcoholic fatty liver disease, NAFLD)患者发生心血管疾病(CVD)的风险
+显著增加,两者之间最为重要的联系纽带可能是全身
+性的炎症,而 C 反应蛋白是最广泛使用的炎症标志,
+对 CVD 具有预测作用。 且 C 反应蛋白作为粥样硬化
+前因子,也是 CVD 发生发展的重要参与者。 目前体外
+实验中,主要采用白细胞介素( IL)-1、IL-6、肿瘤坏死
+因子 α(TNF-α)和 IL-17 等诱导细胞产生 C 反应蛋白,
+其调节机制的研究较多的是 NF-κB、STAT3 和 C / EBP。
+近有研究发现 cAMP 应答元件结合蛋白 H ( cyclic
+adenosine monophosphate responsive element-binding
+protein H, CREBH)亦可介导 C 反应蛋白调节通路[1]。
+其机制为内质网应激时,活化的 CREBH 进入细胞核
+与被内质网应激活化的 ATF6 一起,共同结合到 C 反
+应蛋白的启动子上,促进其转录。 但是对于在体外脂
+肪变细胞系中,CREBH 与内质网应激和 C 反应蛋白
+之间的关系尚未见报道。 本研究通过建立混合脂肪酸
+诱导的细胞脂肪变模型,探讨 C 反应蛋白、内质网应
+激在该模型中的发生情况,CREBH 蛋白的活化情况及
+其对 C 反应蛋白的影响,为进一步阐明 NAFLD 和
+CVD 相互影响的机制提供基础。
+材料和方法
+一、 L02 细胞脂肪变模型的建立和细胞活力的检
+测
+以正常成人肝细胞株 HL-7702,简称 L02(购自中
+科院上海细胞生物研究所)为研究对象。 L02 细胞培
+养于 96 孔板,选择不同浓度不同比例的混合脂肪酸,
+将 L02 细胞分为 3 组:(1)空白组:无细胞,培养液中
+含 CCK-8;(2)对照组:有细胞,培养液中含 CCK-8,不
+含混合脂肪酸;(3)实验组:有细胞,培养液中含 CCK-
+8 和混合脂肪酸 (终浓度为 1. 0 mmol / L 的 OP21、
+OP12、OP03 组和 0. 5 mmol / L 的 OP03 组。 OP21 表示
+油酸:软脂酸=2 : 1,余同)干预 12 h 和 24 h 后用细胞
+计数试剂盒(CCK-8 试剂盒,日本株式会社同仁化学
+研究所)细胞增殖法测定细胞活力。 计算公式:细胞
+存活率(% )= [(实验组 OD 值-空白对照组 OD 值) /
+(对照组 OD 值-空白对照组 OD 值)]×100% 。
+二、 细胞内甘油三酯含量的测定
+取生长状态良好的 L02 细胞接种于 12 孔板,常规
+培养 24 h 后更换培养液,将细胞分为对照组(无脂肪
+酸)、OP21 (1. 0 mmol / L)组、OP12 (1. 0 mmol / L) 组、
+OP03(1. 0 mmol / L)组、OP03(0. 5 mmol / L)组。 OP21
+(1. 0 mmol / L 组表示油酸:软脂酸 = 2 : 1,混合酸终浓
+度为 1. 0 mmol / L,余同)。 各组按上述条件培养 12 h
+和 24 h 后。 弃上清,冷 PBS 冲洗 2 变,细胞用胰酶消
+化悬浮后转移到 Ep 管中后冲洗离心收集细胞,加入
+尼罗红作用液后,荧光显微镜下拍照,在 488 nm 波长
+下测定细胞荧光强度。 尼罗红染色剂(9-diethylamino-
+5H-benzo[alpha]-phenoxazine-5-one)是一种亲脂性的
+恶嗪类荧光染料,与中性脂类物质包括腊酯和甘油三
+酯以及各种脂肪酸结合后,在激发波长 488 nm 的激发
+下,显示强烈桔红色荧光。 其荧光强度可反映细胞内
+脂质沉积量。
+三、 肝细胞内 C 反应蛋白、CREBH、免疫球蛋白结
+合蛋白(immunoglobulin-binding protein, BIP)和 C / EBP
+同源蛋白(C / EBP homologous protein, CHOP)基因表达
+情况测定
+12 孔板培养细胞,用不同脂肪酸干预 12 h 后,常
+规抽提 RNA,cDNA 逆转录合成和实时荧光 PCR 反
+应。 引物由上海生物工程公司合成(表 1)。
+表 1  定量 PCR 引物
+Tab 1  Primers of quantitative PCR
+基因
+Gene
+引物序列
+Primer sequence
+产物长度
+Length of product
+(bp)
+CRP F: 5'-ACTTCCTATGTATCCCTCAAAG-3' 138
+R: 5'-CTCATTGTCTTGTCTCTTGGT-3'
+CREBH F: 5'-CCTCTGTGACCATAGACCTGG-3' 103
+R: 5'-ACGGTGAGATTGCATCGTGG-3'
+BIP F: 5'-GAGATCATCGCCAACGATCAG-3' 190
+R: 5'-ACTTGATGTCCTGCTGCACAG-3'
+CHOP F: 5'-TGAACGGCTCAAGCAGGAA-3' 57
+R: 5'-CGGCGAGTCGCCTCTACTT-3'
+GADPH F: 5'-GTGAAGGTCGGAGTCAACG-3' 112
+R: 5'-TGAGGTCAATGAAGGGGTC-3'
+注:CRP:C 反应蛋白 C-reactive protein;F:上游 Forward;R:下游
+Reverse;CREBH:cAMP 应答元件结合蛋白 H cAMP-responsive element-
+binding protein H; BIP: 免疫球蛋白结合蛋白 Immunoglobulin-binding
+protein;CHOP:C / EBP 同源蛋白 C / EBP homologous protein
+四、 细胞核内活化的 CREBH 蛋白测定
+12 孔板培养细胞,用不同脂肪酸干预 12 h,抽提
+核蛋白,BCA 蛋白定量法定量后,行 SDS-PAGE 电泳,
+湿法电转移法转移到 PVDF 膜上,5%脱脂牛奶封闭 1
+h,分别加入羊抗人 CREBH 多克隆抗体(1 : 200);兔
+抗人 LMNB2 单克隆抗体(1 : 2 000)4℃过夜,二抗室
+温孵育 2 h,KCTM化学发光试剂显色后,以 X 光胶片曝
+光。
+五、 siRNA 沉默 CREBH 后细胞中 CREBH、C 反应
+蛋白、CHOP 和 BIP 的表达情况
+取生长状态良好的 L02 细胞接种于 12 孔板,细胞
+分对照组(无脂肪酸组)、OP12(1. 0 mmol / L)组、OP03
+(1. 0 mmol / L)组、OP03(0. 5 mmol / L)组,每组均设阴
+性对照和 CREBH 基因的 RNA 干扰组。 CREBH 基因
+siRNA 正义链为 5'-GGAAGAAGAAGAAGGAAUAUA-
+3忆。 阴性对照 siRNA 正义链为 5'-UUCUCCGAACGU-
+GUCACGUTT-3'。 转染 siRNA 8 h 后换成含混合脂肪
+酸的 RPMI-1640 培养液,继续培养 24 h。 之后抽取
+RNA 检测各个基因表达水平。
+六、 统计学处理
+表 2  不同脂肪酸比例和干预时间对 L02 细胞内甘油三酯水平的影响(% )
+Tab 2  Level of triglyceride in L02 cells treated by free fatty acids mixture in various concentrations and periods of intervention (% )
+组别
+Group
+油酸:软脂酸
+Oleic acid: Palmitic acid
+脂肪酸终浓度
+Final concentration of fatty acids
+(mmol / L)
+12 h 24 h
+对照组
+Control - - 0. 83 ± 0. 01 0. 90 ± 0. 02
+OP21 2 : 1 1. 0 29. 20 ± 0. 10a 67. 90 ± 5. 23a
+OP12 1 : 2 1. 0 5. 28 ± 0. 96a 45. 40 ± 2. 96a
+OP03 0 : 3 1. 0 1. 87 ± 0. 26 2. 44 ± 0. 50a
+OP03 0 : 3 0. 5 1. 77 ± 0. 12 2. 12 ± 0. 25a
+注:与对照组相比 vs Control, aP<0. 05
+以上实验重复 3 次,各组数据以 x- ± s 表示,采用
+SPSS 12. 0 统计学软件进行统计学分析。 各组数据间
+比较采用配对 t 检验,P<0. 05 为有统计学意义。
+结    果
+一、 CCK-8 法细胞活力实验和甘油三酯沉积测定
+不同脂肪酸混合液对 L02 细胞毒力实验结果表
+明,软脂酸比例越大,浓度越高,对细胞的毒性越大,并
+且随着脂肪酸诱导时间的延长,细胞活力逐渐下降。
+在各种不同脂肪酸比例中,以 OP21(1. 0 mmol / L)的毒
+性最低(图 1)。 尼罗红染色后荧光镜下可见细胞内深
+红色颗粒,绕核分布。 其中 OP21(1. 0 mmol / L)组细胞
+比例最大,细胞内红色荧光颗粒最多,其次是 OP12
+(1. 0 mmol / L)组。 OP03 两组内荧光颗粒相对较少,
+尤以 OP03(0. 5 mmol / L)组最少(图 2)。 定量分析结
+果以 OP21 (1. 0 mmol / L) 组脂肪含量最多,而 OP03
+(0. 5 mmol / L)组最低(表 2)。
+二、 各组细胞内 CREBH、BIP、CHOP 和 C 反应蛋
+白的实时荧光定量 PCR(结果均以 2-△△Ct值表示)
+混合脂肪酸干预 12 h 后, CREBH 均有所升高,
+其中以 OP12(1. 0 mmol / L)组最为显著;OP03(0 . 5
+注:OP21(1. 0 mmol / L):Oleic acid: Palmitic acid = 2 : 1;OP12(1. 0
+mmol / L):Oleic acid: Palmitic acid =1 : 2;OP03(1. 0 mmol / L):Oleic acid:
+Palmitic acid =0 : 3;OP03(0. 5 mmol / L):Oleic acid: Palmitic acid =0 : 3
+图 1  各脂肪酸组干预 12 和 24 h 对 L02 细胞活力的影响
+Fig 1   Influence of different groups of free fatty-acid mixtures on L02 cell
+viability for 12 and 24 h
+mmol / L)组,虽然 CREBH 也有升高,但是没有统计学
+意义;OP03 两组 CHOP 基因表达升高,提示均存在有
+内质网应激。 仅 OP03(1. 0 mmol / L)组 C 反应蛋白表
+达升高(图 3)。
+三、 各组细胞核内 CREBH 蛋白水平(图 4)
+脂肪酸干预 12 h 后,仅 OP03(1. 0 mmol / L)组,核
+内 CREBH 蛋白含量增加,其余各组无明显变化,结合
+图 3 的结果发现,核内 CREBH 蛋白增加需要 CREBH
+表达增加并内质网应激同时存在时。 软脂酸可能通过
+注:A-E:12 h;F-J:24 h;A、F:对照组 Control;B、G:OP21(1. 0 mmol / L), Oleic acid: Palmitic acid = 2 : 1;C、H:OP12(1. 0 mmol / L), Oleic acid:
+Palmitic acid =1 : 2;D、I:OP03(1. 0 mmol / L), Oleic acid: Palmitic acid =0 : 3;E、J:OP03(0. 5 mmol / L), Oleic acid: Palmitic acid =0 : 3
+图 2  游离脂肪酸干预 12 及 24 h 后细胞形态学变化(×400)
+Fig 2  Change in cell morphology after the intervention of free-fatty acid mixtures for 12 and 24 h(×400)
+注:OP21(1. 0 mmol / L):Oleic acid: Palmitic acid = 2 : 1;OP12(1. 0
+mmol / L):Oleic acid: Palmitic acid =1 : 2;OP03(1. 0 mmol / L):Oleic acid:
+Palmitic acid =0 : 3;OP03(0. 5 mmol / L):Oleic acid: Palmitic acid = 0 : 3;
+CREBH:cAMP 应答元件结合蛋白 H cAMP-responsive element-binding
+protein H; BIP: 免疫球蛋白结合蛋白 Immunoglobulin-binding protein;
+CHOP:C / EBP 同源蛋白 C / EBP homologous protein;CRP:C 反应蛋白 C-
+reactive protein;与对照组相比 vs Control, aP<0. 05
+图 3  脂肪酸干预 12 h 后各基因 mRNA 的表达情况
+Fig 3  mRNA expressions after intervention of free fatty-acid mixtures for 12 h
+注:CREBH:cAMP 应答元件结合蛋白 H cAMP-responsive element-
+binding protein H;1:对照组 Control;2:OP21 (1. 0 mmol / L), Oleic acid:
+Palmitic acid =2 : 1;3:OP12(1. 0 mmol / L), Oleic acid: Palmitic acid = 1 :
+2;4:OP03(1. 0 mmol / L), Oleic acid: Palmitic acid = 0 : 3;5:OP03(0. 5
+mmol / L), Oleic acid: Palmitic acid =0 : 3
+图 4  脂肪酸干预 12 h 后核内 CREBH 蛋白表达的 Western 印迹分析
+Fig 4  Western blot of nuclear CREBH protein expression after intervention of
+different free fatty-acid mixtures for 12 h
+注:CREBH:cAMP 应答元件结合蛋白 H cAMP-responsive element-binding protein H;CRP:C 反应蛋白 C-reactive protein;1:对照组 Control;2:OP12
+(1. 0 mmol / L), Oleic acid: Palmitic acid =1 : 2;3:OP03(0. 5 mmol / L), Oleic acid: Palmitic acid =0 : 3;4:OP03(1. 0 mmol / L), Oleic acid: Palmitic acid =
+0 : 3;与阴性对照相比 vs Negative control, aP<0. 05
+图 5  转染 CREBH siRNA 后可下调 CRP mRNA 相对表达水平
+Fig 5  Knocking down CREBH by siRNA down-regulated relative expression of CRP mRNA
+CREBH 蛋白相关炎症通路活化诱导 C 反应蛋白表达
+升高。
+四、 转染 siRNA 后各组基因相对表达水平
+为了进一步探索 CREBH 是否确能调节 C 反应蛋
+白的表达,本研究采用 siRNA 技术下调 L02 细胞中的
+CREBH 蛋白后,再用 PCR 法测定该处理细胞中 C 反
+应蛋白 mRNA 表达情况。 L02 细胞转染 siRNA 共 32 h
+后,实时荧光 PCR 结果显示转染 CREBH siRNA 后
+CREBH mRNA 表达水平较阴性对照显著降低。 对照
+组的表达抑制率为 65% (0. 350 ± 0. 046 对 1. 000,P =
+0. 000 1,图 5A)。 沉默 CREBH 蛋白后,各脂肪酸诱导
+的 C 反应蛋白表达均显著下降(图 5B)。 说明 CREBH
+对脂肪酸诱导的 C 反应蛋白表达具有关键的调节作
+用。 为了探索 CREBH 蛋白下调 C 反应蛋白是否与内
+质网应激有关,我们进一步检测了沉默 CREBH 蛋白
+后 L02 细胞中 BIP 和 CHOP 的基因表达情况。 但混合
+脂肪酸干预后,转染 CREBH siRNA 组相比于阴性对照
+组的 BIP 和 CHOP 表达无显著变化。 但是相比于对照
+组,脂肪酸仍能诱导 BIP 和 CHOP 基因表达升高,提示
+存在有内质网应激。
+讨    论
+相比于一般人群,NAFLD 患者的生存期缩短,死
+亡的主要原因是 CVD 和肝脏相关疾病[2-4]。 长期随访
+研究发现,NAFLD 患者 CVD 的发生率,以及血管内皮
+功能障碍、颈动脉内膜增厚等早期动脉粥样硬化表现
+的发生率均显著升高,而这些不依赖于肥胖、糖尿病等
+传统的 CVD 风险因素而存在[5-8]。 其主要原因可能为
+慢性炎症和血脂紊乱。 由于肝细胞损伤和脂肪沉积等
+因素,肝细胞、库否细胞和肝星形细胞分泌大量的 IL-6
+和 TNF-α 等促炎症因子[9,10],而这些因子可刺激肝细
+胞和肝星状细胞产生和分泌大量的 C 反应蛋白。
+CREBH 蛋白为 cAMP 应答元件结合蛋白家族的一员,
+在肝脏特异性表达,受肝脏 HNF4α 调控[11]。 CREBH
+在胚胎期肝脏表达较低,成年后表达增加,特异性敲除
+其基因不会影响发育成熟,但敲除 CREBH 的动物出
+现急性炎症反应障碍。 最近发现 CREBH 蛋白可调节
+C 反应蛋白水平,体内实验也证明 CREBH 可在代谢
+应激状态下调节肝脏脂质生成、FA 氧化和脂质分解的
+基因表达,从而在维持脂质平衡中发挥了关键作
+用[12]。
+本研究在 L02 细胞脂肪变体系中初步探讨了脂肪
+酸诱导 C 反应蛋白表达的机制,发现 CREBH 相关的
+炎症通路起着关键的调节作用。 我们用不同浓度不同
+比例的混合脂肪酸干预 L02 细胞后,CREBH 均有所升
+高,其中以 OP12(1. 0 mmol / L)组最为显著,虽然 OP03
+(0. 5 mmol / L)组 CREBH 也有升高,但是没有统计学
+意义。 最近的动物研究也表明,脂肪酸和 PPARα 可促
+进肝脏 CREBH 的表达[13],这与本研究结果相一致。
+OP03 两组 CHOP 基因表达升高,提示存在内质网
+应激。 由于 CREBH 相关的炎症通路最终通过活化的
+CREBH 入核来调节 C 反应蛋白转录,而未经水解活
+化的 CREBH 蛋 白 不 能 进 入 核 内。 因 此 我 们 用
+Western 印迹方法进一步检测进入核内的 CREBH 蛋
+白水平,发现 OP03(1. 0 mmol / L)组核内 CREBH 蛋白
+水平明显升高,同时,仅 OP03(1. 0 mmol / L)组 C 反应
+蛋白表达升高。 由于只有 OP03(1. 0 mmol / L)组既有
+CREBH 表达增加,核内活化水平增加且存在内质网应
+激,所以上调 C 反应蛋白的表达,需要 CREBH 表达升
+高和内质网应激两个条件。 这与其他研究结论一
+致[1]。
+为了充分了解 CREBH 蛋白在 C 反应蛋白表达中
+的地位,本组采用 RNA 干扰技术,特异性下调 CREBH
+mRNA,再观察脂肪酸诱导 C 反应蛋白表达的情况。
+结果表明,CREBH 下调后,即使存在有内质网应激,C
+反应蛋白表达仍然显著下降。 因此,我们认为,饱和脂
+肪酸诱导肝细胞内 CREBH 表达增加,同时饱和脂肪
+酸引起的内质网应激帮助 CREBH 蛋白活化并进入核
+内,从而促进 C 反应蛋白的转录。 其可能机制为在内
+质网应激的帮助下,大量表达的 CREBH 蛋白进入高
+尔基体, 被 S1P 和 S2P 裂解, 释放出 N 端, 此即
+CREBH 的活性片段。 活化的 CREBH 进入细胞核,与
+内质网应激时活化的 ATF6 一起,共同结合到 C 反应
+蛋白的启动子上,促进其转录[1]。
+然而在调节 C 反应蛋白表达的分子中,研究较多
+的还有 STAT,C / EBP 和 NF-κB,它们之间相互联系,但
+与 CREBH 通路之间的关系尚待进一步研究。 由于
+CREBH 蛋白特异性表达于肝脏,这对肝源性 C 反应
+蛋白的研究来说,比之以上三个分子意义更为重大。

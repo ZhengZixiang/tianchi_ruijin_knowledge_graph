@@ -1,0 +1,392 @@
+基础研究
+基金项目:全军医学科学技术研究“十二五冶计划(CWSIIJ254);福建省自然科学基金面上项目(2012J01403)
+350004 福州,福建医科大学分子生物学教研组(黄山);200433 上海,长海医院内分泌科(黄勤)
+脐带间充质干细胞联合利拉鲁肽对 2 型糖
+尿病大鼠模型胰腺炎症损伤的保护作用
+陈频  黄山  温代芬  黄梁浒  邵珠林  徐向进  黄勤
+[摘要]   目的  探讨脐带间充质干细胞联用利拉鲁肽对 2 型糖尿病 SD 大鼠胰岛功能的作用及其可
+能的机制。 方法 以高糖高脂 /链脲佐菌素的方法制备 2 型糖尿病模型,随机分为 4 组:糖尿病对照组
+(T2DM 组)、脐带间充质干细胞治疗组(T2DM+UC-MSCs 组)、利拉鲁肽治疗组(T2DM+LIRA 组)及利拉鲁
+肽和脐带间充质干细胞联合治疗组(T2DM+LIRA+UC-MSCs 组)。 每组 10 只,相应治疗 8 周。 定期检测大
+鼠 HBA1C、胰岛素、C 肽、胰升糖素,免疫组织化学法检测胰岛素和胰升糖素表达,TUNEL 法检测胰岛细胞
+凋亡及 Western 印迹检测胰腺组织核因子-κB(nuclear factor-κB, NF-κB)、Toll 样受体 4(Toll-like recpter 4,
+TLR4)蛋白表达。 结果 治疗 8 周末,与 T2DM 组比较,T2DM+UC-MSCs 组、T2DM+LIRA 组和 T2DM+LIRA
++UC-MSCs 组大鼠 HBA1C 均明显降低,以 T2DM+LIRA+UC-MSCs 组降低最大[(9. 1 ± 0. 4)% 对(7. 2 ±
+0. 4)% 、(3. 9±0. 3)% 、(3. 1±0. 3)% , P<0. 05];T2DM+UC-MSCs 组胰岛素 和 C 肽增加,T2DM+LIRA 组和
+T2DM+LIRA+UC-MSCs 组胰岛素和 C 肽升高且胰升糖素降低,并以 T2DM+LIRA+UC-MSCs 组改善最明显
+(P<0. 05)。 胰腺组织胰岛素阳性面积占胰岛总面积百分比明显增高,而胰升糖素表达明显降低;胰岛细
+胞凋亡减轻(P<0. 05)。 胰腺组织 NF-κB 和 TLR4 蛋白表达均有不同程度降低,分别为[(0. 75 ± 0. 10)对
+(0. 60 ±0. 08)、(0. 47 ±0. 08)、(0. 31 ±0. 04),F=37. 175,P<0. 05]和[(1. 24 ±0. 12)对(0. 93 ±0. 10)、(0. 95
+± 0. 09)、(0. 74 ± 0. 07),F = 46. 902,P<0. 05],上述指标的改善以 T2DM+LIRA+UC-MSCs 组最明显(P<
+0. 05)。 结论 脐带间充质干细胞和利拉鲁肽联用对 2 型糖尿病 SD 大鼠胰岛功能的改善作用优于两者单
+用,其机制可能与其下调 TLR4 / NF-κB 炎症信号通路相关。
+[关键词]   糖尿病, 2 型; 利拉鲁肽; 间充质干细胞; 胰岛功能; TLR4 / NF-κB 通路
+Protective effects of combining human umbilical cord mesenchymal stem cells and glucagon like peptide-1
+receptor agonist on the islet inflammatory injury in rat model of type 2 diabetes mellitus Chen Pin*, Huang
+Shan, Wen Daifen, Huang Lianghu, Shao Zhulin, Xu Xiangjin, Huang Qin. *Department of Endocrinology, Fuzhou
+General Hospital of Nanjing Command, Fuzhou 350025, China
+[Abstract]   Objective   To investigate the effects and mechanism of combining human umbilical cord
+mesenchymal stem cells and liraglutide on the islet function of type 2 diabetes mellitus SD rats. Method Type 2
+diabetes mellitus rats were established by giving high carbonhydrate and fat diet for 4 weeks to SD rats, and then 30
+mg / kg streptozotocin was injected intraperitoneally. Type 2 diabetes mellitus rats were randomly divided into four
+groups according the table of random number: Type 2 diabetes mellitus group ( T2DM group), umbilical cord
+mesenchymal stem cells treatment group ( T2DM + UC-MSCs group), liraglutide treatment group ( T2DM + LIRA
+group) and liraglutide combined umbilical cord mesenchymal stem cells treatment group (T2DM+LIRA+UC-MSCs
+group) . Each group included 10 rats, and rats were given the appropriate drug therapy for 8 weeks. HBA1C, insulin,
+C-peptide, and glucagon levels were measured. The expressions of insulin and glucagon in pancreas tissue were
+measured through immunohistochemistry analysis. The apoptosis status of the islet cells in pancreas tissue were
+evaluated through TUNEL. And the expressions of the nuclear factor-κB (NF-κB) and Toll-like recpter 4 ( TLR4)
+protein in pancreas tissue were determined by Western blot. Result After 8 weeks treatment, compared with T2DM
+group, HBA1C of T2DM + UC-MSCs group、 T2DM + LIRA group and T2DM + LIRA + UC-MSCs group decreased
+significantly, and it was lowest in T2DM+LIRA+UC-MSCs group [(9. 1±0. 4)% vs(7. 2±0. 4)% , (3. 9±0. 3)% ,
+(3. 1 ± 0. 3)% , respectively, P<0. 05 ]. The insulin and C-peptide of T2DM+UC-MSC group were significantly
+increased (P<0. 05) . The insulin and C-peptide were increased while the glucagon was significantly decreased in
+T2DM+LIRA group and T2DM+LIRA+UC-MSCs group (P<0. 05) . The ratio of insulin positive area in pancreas
+tissue was obviously rised, while the ratio of glucagon positive area in pancreas tissue was clearly descended in T2DM
++LIRA+UC-MSCs group. And the same difference in valuating islet cells apoptosis by TUNEL could be observed (P<
+0. 05) . The expression of NF-κB and TLR4 protein in pancreas tissue of T2DM+LIRA+UC-MSCs group were the least
+among the four groups [(0. 75 ± 0. 10) vs (0. 60 ± 0. 08), (0. 47 ± 0. 08), (0. 31 ± 0. 04), P<0. 05 ]and [(1. 24 ±
+0. 12) vs (0. 93 ± 0. 10), (0. 95 ± 0. 09), (0. 74 ± 0. 07), P<0. 05 ]. Conclusion The combined treatment of
+liraglutide with umbilical cord mesenchymal stem cells is superior over a single treatment of liraglutide or umbilical
+cord mesenchymal stem cells in improving the islet function in type 2 diabetes mellitus models, which may be related to
+the down modulating the TLR4 / NF-κB inflammatory signaling pathway.
+[Key words]  Diabetes mellitus, type 2; Liraglutide; Mesenchymal stem cells; Islet function; TLR4 / NF-κB
+pathway
+(Chin J Endocrinol Metab, 2016, 32: 1003-1009)
+2 型糖尿病主要的病因机制为胰岛功能缺陷,脐
+带间充质干细胞 ( umbilical cord mesenchymal stem
+cells)和胰升糖素样肽 1(glucagon-like peptide-1)在调
+节胰岛细胞功能、胰岛微循环及胰岛炎症免疫稳态等
+方面均具有各自独特的作用机制,但两者单用对机体
+糖代谢的总体调控作用尚不理想。 本研究旨在探讨脐
+带间充质干细胞和胰升糖素样肽 1 受体激动剂利拉鲁
+肽(liraglutide)联用是否较两者单用取得更好地改善 2
+型糖尿病大鼠胰岛功能的作用,及其与 Toll 样受体 4
+(Toll-like recpter 4, TLR4) /核因子-κB(nuclear factor-
+κB, NF-κB)信号通路间的关系。
+材料和方法
+一、 材料
+1. SD 大鼠 47 只,5 周龄清洁级雄性 180 ~ 220 g,
+购自上海斯莱克实验动物有限责任公司,SCXK(沪)
+2007 ~ 0005,遵照实验动物管理条例,在恒温恒湿环境
+中单笼适应性饲养 7 d。
+2. 试剂:利拉鲁肽由丹麦诺和诺德公司提供;低
+糖培养基、胎牛血清购自美国 Gibco 公司;链脲佐菌素
+(streptozotocin)购自美国 Sigma 公司;HBA1C快速试剂
+盒购自 BIO-RAD 公司;胰岛素、C 肽和胰升糖素试剂
+盒购自美国 Blue Gene 公司;兔抗胰岛素多克隆抗体购
+自美国 Cell Signaling 公司;小鼠抗胰升糖素单克隆抗
+体购自英国 Abcam 公司;GAPDH 抗体购自北京中杉
+金桥生物技术有限公司;NF-κB 和 TLR4 抗体购自美
+国 Cell Signaling 公司。
+二、 方法
+1. 脐带间充质干细胞制备与鉴定:经南京军区福
+州总医院伦理委员会批准。 人脐带间充质干细胞来源
+于足月产妇,行肝炎病毒、支原体及艾滋病病毒抗体等
+检测均为阴性,分娩时剪取脐带基质组织块,胶原酶4
+消化 12 h,悬液离心、萃取留取沉淀,37℃下以 0. 05%
+胰蛋白酶消化 1 h,过滤,收集细胞滤液,接种在不含血
+清的低糖 DMEM 培养基,放置 5% CO2、37℃培养箱常
+规培养及传代。
+2. 2 型糖尿病大鼠模型的建立:SD 大鼠换用高糖
+高脂饲料继续喂养 4 周,高糖高脂饲料含 67. 5%的常
+规饲料、10. 0% 猪油、20. 0% 蔗糖和 2. 5% 胆固醇;予
+链脲佐菌素以 30 mg / kg 鼠重剂量经腹腔注射;72 h 后
+尾静脉采血,连续 2 次空腹血糖均≥11. 1 mmol / L 者
+确定为 2 型糖尿病制模成功。
+3. 2 型糖尿病随机分组及干预治疗:随机数字表
+法将成模大鼠随机分为 4 组,分别为糖尿病对照组
+(T2DM 组)、脐带间充质干细胞治疗组( T2DM+UC-
+MSCs 组)、利拉鲁肽治疗组(T2DM+LIRA 组)及利拉
+鲁肽和脐带间充质干细胞联合治疗组(T2DM+LIRA+
+UC-MSCs 组)。 每组大鼠 10 只,给予相应治疗 8 周。
+T2DM 组大鼠尾静脉注射不含有脐带间充质干细胞培
+养液 100 滋l;皮下注射生理盐水 2 ml,每日 2 次。
+T2DM+UC-MSCs 组大鼠尾静脉注射含有脐带间充质
+干细胞培养液 100 滋l(细胞数目 5×106个);皮下注射
+生理盐水 2 ml,每日 2 次。 T2DM+LIRA 组大鼠尾静脉
+注射不含有脐带间充质干细胞培养液 100 滋l;皮下注
+射含利拉鲁肽的稀释液 2 ml(按 200 μg / kg 鼠重),每
+日 2 次;T2DM+LIRA+UC-MSCs 组大鼠尾静脉注射含
+有脐带间充质干细胞培养液 100 滋l(细胞数目 5×106
+个);皮下注射利拉鲁肽稀释液 2 ml(按 200 μg / kg 鼠
+重),每日 2 次。
+4. 记录大鼠精神、进食、尿量及体重等一般状况。
+5. 血清胰岛素、C 肽和胰升糖素检测:采用 ELISA
+法并按试剂盒说明书进行。 HBA1C采用 DCA 2000 型
+仪器按试剂盒说明书检测。
+6. 胰腺免疫组化:治疗 8 周末,分离胰腺组织,固
+定,包埋切片,常规 HE 染色观察胰岛细胞形态;采用
+二氨基联苯胺染色法检测胰岛素和胰升糖素的表达,
+每个胰腺随机选取 3 张切片,每张切片在镜下随机选
+取不重叠的 5 个胰岛细胞团,软件 Image Pro Plus 6. 0
+测算组织中胰岛素和胰升糖素阳性细胞占单个胰岛细
+胞团面积比例。
+7. TUNEL 方法检测胰岛细胞凋亡:蜡块切片,浸
+入 0. 1 mol / L 三乙醇胺缓冲盐水溶液,磷酸盐缓冲液
+冲洗,加入 TUNEL 反应混合液,37℃孵育,冲洗;再置
+入 3% H2O2以阻断内源性过氧化物酶活性;阻断抗荧
+光素抗体和组织的非特异性结合;添加细胞凋亡检测
+剂,孵育;冲洗;显色,冲洗终止反应;苏木素复染、PBS
+返蓝;脱水、干燥、封片、固定、晾干;以磷酸盐缓冲液作
+为阴性对照;TUNEL 染色阳性细胞标准为细胞核呈棕
+黄色或者棕褐色,计算凋亡指数 = TUNEL 阳性细胞
+数 /胰岛内细胞数×100% 。
+8. Western 印迹:取胰腺组织置于 4℃预冷的细胞
+浆裂解液中,冰上匀浆,静置,加入 10% NP-40,震荡,
+4℃ 14 000×g 离心,吸取上清即为胞浆蛋白提取液用
+于检测 TLR4。 提取后的沉淀物加入细胞核裂解液,低
+温下离散沉淀,震荡,静置,4℃ 14 000×g 离心,收集上
+清即为胞核蛋白提取液用于检测 NF-κB。 浆蛋白和核
+蛋白样品分别经 15% 和 10% SDS-PAGE 电泳,转膜,
+加一抗孵育过夜,TBS 清洗,二抗室温孵育,洗膜,磷酸
+盐缓冲液显示条带,采集图片。
+三、 统计学处理
+应用 SPSS 20. 0 软件,数据 x-± s 描述,组间差异比
+较采用单因素方差分析。 P<0. 05 为差异有统计学意
+义。
+结    果
+一、 脐带间充质干细胞形态学
+所制备的脐带间充质干细胞检测成骨和成脂诱导
+分化能力均为阳性,并表达间充质干细胞的表面标志
+CD29、CD90、CD73 和 CD105,而不表达造血干细胞的
+表面标志 CD34 以及白细胞的表面标志 CD45。 本实
+验采用第 4 至 5 代脐带间充质干细胞(图 1)。
+二、 各组大鼠治疗过程一般情况变化比较
+与造模前比较,造模后大鼠精神状态及毛色光泽
+变差,活动减少,饮食、饮水量、尿量及体重增多,随机
+分组并分别治疗 8 周,T2DM 组大鼠饮食、饮水量及尿
+量症状仍多、体重略增,而 3 个治疗组的大鼠以上症状
+均可呈不同程度改善、体重增长减缓,并以 T2DM+
+LIRA 组及 T2DM+LIRA+UC-MSCs 组大鼠的体重明显
+下降(均 P<0. 05,表 1)。
+三、 各组大鼠治疗前和治疗 8 周末 HBA1C水平比较
+治疗 8 周末,与基线比较,3 个治疗组大鼠 HBA1C
+均呈明显降低;与 T2DM 组比较,T2DM+UC-MSCs 组、
+T2DM+ LIRA 组及 T2DM + LIRA + UC-MSCs 组大鼠
+HBA1C均明显降低[(7. 2 ±0. 4)% 、(3. 9 ±0. 3)% 、(3. 1
+± 0 . 3)% 对(9 . 1 ± 0 . 4 )% , F = 815. 22, P<0. 05 ];
+且 T2DM+LIRA+UC-MSCs 组 HBA1C明显低于 T2DM+
+注:(A)P4 脐带间充质干细胞 P4 umbilical cord mesenchymal stem cells;(B)P5 脐带间充质干细胞 P5 umbilical cord mesenchymal stem cells
+图 1  P4 和 P5 脐带间充质干细胞形态(×100)
+Fig 1  Features of P4 and P5 umbilical cord mesenchymal stem cells(×100)
+表 1  各组大鼠治疗前和治疗 8 周末鼠重、空腹血糖和 HBA1C水平比较(x-± s)
+Tab 1  Comparisons of weight, fasting blood glucose, and HBA1C in all groups of rats at before and after 8 weeks treatment(x-± s)
+组别
+Group
+鼠数
+n
+鼠重
+Weight
+(g)
+空腹血糖
+Fasting blood glucose
+(mmol / L)
+HBA1C
+(% )
+0 周 8 周 0 周 8 周 0 周 8 周
+T2DM 10 361. 1 ± 17. 3 393. 8 ± 15. 2a 12. 9 ± 1. 2 19. 8 ± 1. 4 9. 5 ± 0. 3 9. 1 ± 0. 4
+T2DM+UC-MSCs 10 360. 1 ± 18. 0 340. 4 ± 14. 2ab 13. 6 ± 1. 1 8. 4 ± 1. 7ab 9. 8 ± 0. 4 7. 2 ± 0. 4ab
+T2DM+LIRA 10 366. 8 ± 14. 6 321. 3 ± 20. 3abc 13. 4 ± 0. 9 5. 1 ± 0. 9abc 9. 8 ± 0. 1 3. 9 ± 0. 3abc
+T2DM+LIRA+UC-MSCs 10 346. 2 ± 13. 8 319. 3 ± 20. 9abc 13. 7 ± 1. 2 4. 8 ± 1. 2abc 9. 8 ± 0. 4 3. 1 ± 0. 3abcd
+注:T2DM:糖尿病对照组 Type 2 diabetes mellitus group;T2DM+UC-MSCs:脐带间充质干细胞治疗组 Umbilical cord mesenchymal stem cells treatment
+group;T2DM+LIRA:利拉鲁肽治疗组 Liraglutide treatment group;T2DM+LIRA+UC-MSCs:利拉鲁肽和脐带间充质干细胞联合治疗组 Liraglutide combined
+umbilical cord mesenchymal stem cells treatment group;周:Week;与本组0 周比较 vs0 week in same group, aP<0. 05;vs T2DM, bP<0. 05;vs T2DM+UC-MSCs,
+cP<0. 05;vs T2DM+LIRA, dP<0. 05
+UC-MSCs 组或 T2DM+LIRA 组( t = -28. 105、-5. 918,
+P<0. 05,表 1)。
+四、 各组大鼠治疗前和治疗 8 周末空腹血糖水平
+比较
+随机分组治疗前大鼠空腹血糖为(12 . 9 ± 1 . 8)
+mmol / L;治疗过程中 T2DM 组大鼠空腹血糖呈逐渐上
+升趋势;3 个治疗组大鼠在治疗 2 周后空腹血糖均呈
+缓慢下降趋势,其中 T2DM+UC-MSCs 组治疗 4 周时大
+鼠空腹血糖有所回升,而 T2DM+LIRA 组及 T2DM+
+LIRA+UC-MSCs 组大鼠空腹血糖仍呈缓慢下降趋势
+(表 1)。
+五、 各组大鼠治疗 8 周末胰岛素、C 肽和胰升糖
+素水平比较
+治疗 8 周末,与 T2DM 组比较,T2DM+UC-MSCs
+表 2  治疗 8 周末各组大鼠血清激素、胰腺激素阳性面积占比及胰岛细胞凋亡比较(x-± s)
+Tab 2  Comparisons of serum hormone levels, hormone positive rate, and islet cells apoptosis of pancreas in all groups of rats after 8 weeks
+treatment(x-± s)
+组别
+Group
+鼠数
+n
+胰岛素
+Insulin
+(mU / L)
+C-肽
+C- peptide
+(ng / ml)
+胰升糖素
+Glucagon
+(pg / ml)
+胰岛素阳性面积占比
+Positive rate of insulin
+(% )
+胰升糖素阳性面积占比
+Positive rate of glucagon
+(% )
+胰岛细胞凋亡
+Islet cells apoptosis
+(% )
+T2DM 10 11. 0 ± 2. 3   0. 03 ± 0. 08     51. 3 ± 2. 1  11. 82 ± 1. 25 34. 08 ± 2. 78 18. 82 ± 1. 18
+T2DM+UC-MSCs 10 15. 2 ± 3. 0a 0. 06 ± 0. 02a 56. 4 ± 3. 2 30. 92 ± 2. 04a 30. 51 ± 2. 66 14. 63 ± 1. 31a
+T2DM+LIRA 10 20. 3 ± 2. 9ab 0. 09 ± 0. 02ab 47. 1 ± 3. 0ab 39. 03 ± 3. 09ab 22. 16 ± 4. 69ab 13. 05 ± 1. 49a
+T2DM+LIRA+UC-MSCs 10 26. 1 ± 2. 6abc 0. 11 ± 0. 03abc 35. 0 ± 3. 4abc 46. 26 ± 2. 20abc 9. 64 ± 2. 17abc 9. 57 ± 1. 10ac
+注:T2DM:糖尿病对照组 Type 2 diabetes mellitus group;T2DM+UC-MSCs:脐带间充质干细胞治疗组 Umbilical cord mesenchymal stem cells treatment
+group;T2DM+LIRA:利拉鲁肽治疗组 Liraglutide treatment group;T2DM+LIRA+UC-MSCs:利拉鲁肽和脐带间充质干细胞联合治疗组 Liraglutide combined
+umbilical cord mesenchymal stem cells treatment group;vs T2DM, aP<0. 05;vs T2DM+UC-MSCs, bP<0. 05;vs T2DM+LIRA, cP<0. 05
+注:T2DM:糖尿病对照组 Type 2 diabetes mellitus group;T2DM+UC-MSCs:脐带间充质干细胞治疗组 Umbilical cord mesenchymal stem cells treatment
+group;T2DM+LIRA:利拉鲁肽治疗组 Liraglutide treatment group;T2DM+LIRA+UC-MSCs:利拉鲁肽和脐带间充质干细胞联合治疗组 Liraglutide combined
+umbilical cord mesenchymal stem cells treatment group;A ~ D:HE 染色 HE staining;E ~ H:胰岛素抗体免疫组织化学染色 Immunohistochemical staining with
+insulin antibody;I ~ L:胰升糖素抗体免疫组织化学染色 Immunohistochemical staining with glucagon antibody;M ~ P:胰岛细胞凋亡 TUNEL 染色 Islet cells
+apoptosis by TUNEL
+图 2  8 周末各组大鼠胰腺组织 HE 染色、激素抗体免疫组织化学染色及胰岛细胞凋亡 TUNEL 染色的比较(×200)
+Fig 2   Histopathological features, immunohistochemical staining with hormone antibody, and islet cells apoptosis by TUNEL in all groups of rats after 8 weeks
+treatment(×200)
+组大鼠血清胰岛素、C 肽明显升高(P<0. 05),而胰升
+糖素差异无统计学意义(P>0. 05);T2DM+LIRA 组和
+T2DM+LIRA+UC-MSCs 组大鼠不仅胰岛素、C 肽明显
+升高, 胰升糖素的水平亦降低(均 P<0. 05),且 T2DM
++LIRA + UC-MSCs 组上述指标变化最明显 (均 P <
+0. 05,表 2)。
+六、 各组大鼠治疗 8 周末胰腺组织 HE 染色形态
+比较
+治疗 8 周末微镜下可见 T2DM 组大鼠胰腺组织胰
+岛结构呈现明显萎缩,形态紊乱,细胞数量减少,仅存
+在少许胰岛细胞团,伴淋巴细胞浸润;而 3 个治疗组大
+鼠胰岛形态紊乱呈不同程度改善,胰岛细胞团增多,细
+胞边界清楚,细胞胞浆丰富,细胞间排列紧密,无伴淋
+巴细胞浸润(图 2)。
+七、 各组大鼠治疗 8 周末免疫组化法测定胰腺胰
+岛素和胰升糖素表达水平比较
+治疗 8 周末,T2DM 组大鼠胰岛细胞结构紊乱,表
+达胰岛素的阳性细胞较少,胰升糖素阳性细胞较多,而
+3 个治疗组大鼠胰岛结构趋于完整,表达胰岛素的阳
+性细胞面积占胰岛总面积比值均升高(P<0. 05),表达
+胰升糖素阳性面积占胰岛总面积比值均降低 (P <
+0. 05);两两组间比较提示 T2DM+LIRA+UC-MSCs 组
+胰腺组织中胰岛素阳性面积占比最大,T2DM+LIRA 组
+次之,T2DM+UC-MSCs 组最小;T2DM+LIRA+UC-MSCs
+组胰腺组织中胰升糖素阳性面积占比最小(P<0. 05,
+图 2,表 2)。
+八、 各组大鼠治疗 8 周末胰岛细胞凋亡指数比较
+治疗 8 周末,计数每张切片 HE 染色的胰岛内细
+胞数和其中 TUNEL 染色阳性的细胞数,并计算凋亡指
+数,结果显示:与 T2DM 比较,3 个治疗组大鼠胰腺组
+织中胰岛细胞凋亡指数均明显下降(均 P<0. 05);且
+T2DM+LIRA+UC-MSCs 组大鼠胰腺组织中胰岛细胞凋
+亡指数下降最甚(P<0. 05,图 2,表 2)。
+九、 各组大鼠治疗 8 周末 Western 印迹检测胰腺
+组织 NF-κB 和 TLR4 蛋白表达水平比较
+治疗 8 周末,与 T2DM 组比较,3 个治疗组大鼠胰
+腺组织 NF-κB 和 TLR4 蛋白表达均有不同程度降低,
+T2DM+LIRA+UC-MSCs 组胰腺组织 NF-κB 和 TLR4 蛋
+白表达水平最低(P<0. 05,图 3)。
+讨    论
+2 型糖尿病的发病机制中胰岛功能障碍起着关键
+性作用,有别于 1 型糖尿病疾病早期的免疫炎症因素
+导致的急进性胰岛功能损伤,2 型糖尿病除了公认的
+代谢紊乱引发的糖脂毒性,炎症免疫因素与疾病失代
+注:NF-κB:核因子-κB Nuclear factor-κB;TLR4: Toll 样受体 4 Toll-
+like recpter 4;T2DM:糖尿病对照组 Type 2 diabetes mellitus group;T2DM+
+UC-MSCs:脐带间充质干细胞治疗组 Umbilical cord mesenchymal stem
+cells treatment group;T2DM+LIRA:利拉鲁肽治疗组 Liraglutide treatment
+group;T2DM+LIRA+UC-MSCs:利拉鲁肽和脐带间充质干细胞联合治疗
+组 Liraglutide combined umbilical cord mesenchymal stem cells treatment
+group;vs T2DM, aP<0. 05;vs T2DM+UC-MSCs, bP<0. 05;vs T2DM+LIRA,
+cP<0. 05
+图 3  治疗 8 周末各组大鼠胰腺组织 NF-κB 和 TLR4 蛋白表达的比较
+Fig 3  Pancreas tissue NF-κB 和 TLR4 protein expression by Western blot in
+all groups of rats after 8 weeks treatment
+偿期胰岛功能渐进性衰竭亦存在密切关系。 因而,如
+何减少残存胰岛 β 细胞凋亡、唤醒胰岛 β 细胞功能,
+特别是以“机体一体观冶的理念调节炎症免疫与代谢稳
+态是有效保护胰岛功能进而防治 2 型糖尿病的新思路。
+TLR4 除调控先天免疫系统,在机体呈现慢性、低
+度炎症时对炎症免疫基因调控也起重要作用,其高表
+达促进炎症的巨噬细胞和已分化的胰岛及脂肪细
+胞[1-3];所介导的炎症反应的信号通路大部分需要激活
+NF-κB,通过依赖和不依赖髓样分化因子 88(MyD88)
+两条途径调控。 当各致炎因子刺激胰岛 β 细胞时,细
+胞表面的 TLR4 受体表达水平增高,进一步激活 NF-κB
+信号通路,触发和加剧 β 细胞凋亡[4]。 本研究同样显
+示糖尿病大鼠胰岛结构萎缩,形态紊乱,仅见少量胰岛
+细胞团伴淋巴细胞浸润;TUNEL 染色胰岛细胞凋亡指
+数明显增加;Western 印迹检测糖尿病大鼠胰腺组织
+NF-κB 和 TLR4 蛋白呈高表达,表明了胰岛细胞凋亡
+与 TLR4 / NF-κB 炎症通路密切相关。
+胰升糖素样肽 1 除具有双激素调节血糖的作用,
+更重要的是其具有直接或间接地保护胰岛 β 细胞作
+用。 体外培养的人胰岛细胞加入胰升糖素样肽 1 培养
+可使细胞凋亡数明显减少、细胞内胰岛素储存量和分
+泌量明显高于对照组[5]。 在对 Zucker 糖尿病大鼠连
+续 2 天腹腔内灌注胰升糖素样肽 1,在第 4 天后大鼠
+胰岛 β 细胞团的体积增大、细胞数目增多、细胞凋亡
+比例减少[6]。 利拉鲁肽作为长效人胰升糖素样肽 1 受
+体激动剂同样可使糖尿病 db / db 胰岛 β 细胞增殖[7];
+在体外培养的人胰岛中加入利拉鲁肽孵育 24 h 和 48 h
+后发现,T2DM+LIRA 组胰岛 β 细胞凋亡率明显小于
+对照组,细胞数量高于对照组,且胰岛体积更大,机制
+与其阻断 PMA 调控因子抑制 NF-κB 活化和转位入胞
+核相关[8-9]。
+脐带间充质干细胞是从脐带华尔通胶质中分离出
+的一基质细胞,具有干细胞特性,且低免疫源性。 已有
+体外及体内研究表明,脐带间充质干细胞可直接分化
+为胰岛素分泌细胞[10-11]。 而且 Talchai 等[12] 在糖尿病
+小鼠研究中发现了胰岛细胞具有“可塑性冶,在一定条
+件下可以去分化为胰岛祖细胞或多能干细胞,其中一
+小部分的 β 细胞可以转分化为 α 细胞,从而引起高胰
+升糖素血症,同样 α 细胞也可以转分化为 β 细胞;并
+提出胰岛 β 细胞功能的衰退及糖尿病的发生并不是
+因为 β 细胞凋亡引起的数量下降,而是丧失由 β 细胞
+表达的标志性转录因子叉头状转录因子 O1 而导致 β
+细胞去分化,间充质干细胞可能可促进 β 细胞“原位
+再生冶 [13]。 脐带间充质干细胞能分泌血管活性因子及
+血管内皮生长因子等以促进新生血管生成,增加血管
+通透性,从而改善微循环[14-15]。 更有意义的是,间充
+质干细胞不仅可通过细胞与细胞间的直接接触而抑制
+自身反应性 T 细胞的增殖,并可通过分泌白细胞介素
+10 等多种免疫调控分子而抑制自身反应性 T 细胞及
+树突状细胞的增殖、成熟和杀伤性,达到有效、持久的
+调节炎症免疫平衡而改善损伤的胰岛功能。 有体外研
+究发现,骨髓间充质干细胞表面存在胰升糖素样肽 1
+受体,胰升糖素样肽 1 可以与受体结合并促进骨髓间
+充质干细胞增殖[16]。 经链脲佐菌素诱导的 1 型糖尿
+病小鼠在行胰岛移植时给予胰升糖素样肽 1 受体激动
+剂干预,可以大幅度降低胰岛 β 细胞的早期凋亡率,
+提高移植胰岛的存活[17],从而缩短小鼠血糖恢复正常
+时间。 在不同动物模型的研究中发现间充质干细胞与
+同种异体胰岛联合移植可以更好地改善外源胰岛的存
+活能力和功能状态,延缓外源移动发生退行性变
+化[18]。 本课题组前期采用高糖、尼克酰胺、利拉鲁肽
+诱导大鼠骨髓间充质干细胞,并进一步将诱导后的干
+细胞从肾包膜下注射移植至链脲佐菌素诱导的 1 型糖
+尿病大鼠,结果发现大鼠血糖明显下降[19-20]。
+本研究以高糖高脂喂养 4 周及腹腔注射 30 mg / kg
+链脲佐菌素的方法制备的 2 型糖尿病大鼠为对象,探
+索性地分别给予胰升糖素样肽 1 受体激动剂利拉鲁肽
+或脐带间充质干细胞移植单用及联用干预,结果发现,
+与利拉鲁肽或脐带间充质干细胞单种治疗相比较,联
+合治疗对 2 型糖尿病大鼠 HBA1C的改善幅度最大;血
+清胰岛素和 C 肽明显升高而胰升糖素降低。 虽然 3
+个治疗组大鼠胰腺组织 HE 染色形态学比较未见明显
+差异,但是进一步行免疫组化染色,就可以观察到相比
+较于单种治疗组,联合治疗组大鼠胰腺组织中胰岛素
+阳性面积占整个胰岛面积百分比升高最明显,胰升糖
+素阳性面积占整个胰岛面积百分比最低;TUNEL 染色
+进行检测胰腺组织胰岛细胞凋亡,也观察到联合治疗
+组大鼠胰岛细胞凋亡程度最小,同时胰腺组织 NF-κB
+和 TLR4 蛋白表达亦明显降低。
+总之,本研究探索性地发现脐带间充质干细胞移
+植和胰升糖素样肽 1 受体激动剂联合干预对 2 型糖尿
+病大鼠具有较好的改善糖代谢的作用,其机制可能与
+其下调 TLR4 / NF-κB 炎症信号调控通路相关;不足之
+处在于未能深入研究其确切的作用机制,但相信伴随
+着干细胞基础研究及临床试验的规范开展,可以预期
+脐带间充质干细胞和胰升糖素样肽 1 受体激动剂联合
+应用将是有效防治 2 型糖尿病及其慢性血管并发症的
+临床重要策略之一。

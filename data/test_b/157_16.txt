@@ -1,0 +1,138 @@
+基础研究
+基金项目:湖北省自然科学基金项目(2012FFB06802)
+利拉鲁肽对高糖作用下人脐静脉内皮细胞 eNOS 及 IRS-1
+表达的影响
+乐岭  董靖  向光大  赵林双  张军霞  朱广平  向林  刘敏  卢俊彦
+[提要]   将人脐静脉内皮细胞分为正糖组(5. 5 mmol / L 葡萄糖)和高糖组(30 mmol / L 葡萄糖),以 3
+nmol / L 利拉鲁肽干预 10、15、30、45、60、90、120、150、180、210、240、270 min 后,用 Western 印迹法检测细胞
+胰岛素受体底物 1 ( IRS-1)、磷酸化 IRS-1 ( p-IRS-1)、内皮型一氧化氮合酶 ( eNOS) 及磷酸化 p-eNOS
+(p-eNOS)表达水平。 结果显示,高糖组 p-eNOS / eNOS 基线表达水平较正糖组低(0. 239 ± 0. 016 对 0. 400 ±
+0. 02,P<0. 05)。 在正糖(5. 5 mmol / L)组和高糖(30 mmol / L)组,利拉鲁肽均呈时间依赖性地增加 p-eNOS /
+eNOS 和 p-IRS-1 / IRS-1 水平。
+[关键词]   利拉鲁肽; 人脐静脉内皮细胞; 胰岛素受体底物 1; 内皮型一氧化氮合酶
+Effects of liraglutide on eNOS and IRS-1 expressions in human umbilical vein endothelial cells cultured with
+high glucose Yue Ling, Dong Jing, Xiang Guangda, Zhao Linshuang, Zhang Junxia, Zhu Guangping, Xiang Lin,
+Liu Min, Lu Junyan. Department of Endocrinology, Wuhan General Hospital of Guangzhou Military Area Command,
+Wuhan 430070, China
+[Summary]  Human umbilical vein endothelial cells(HUVECs) were treated with 3 nmol / L liraglutide for 10,
+15, 30, 45, 60, 90, 120, 150, 180, 210, 240, and 270 minutes at the concentrations of 5. 5 or 30 mmol / L
+glucose. Western blot analysis was used to detected protein expression and phosphorylation of insulin receptor
+substrates-1 (IRS-1) and endothelial nitric oxide synthase ( eNOS). The results showed that the baseline level of
+phosphorylated-eNOS / eNOS was lower in high glucose group than that in normal group(0. 239 ± 0. 016 vs 0. 400 ±
+0. 02,P<0. 05) . Liraglutide time-dependently increased phosphorylated-eNOS / eNOS and phosphorylated-IRS-1 /
+IRS-1 levels at 5. 5 or 30 mmol / L glucose.
+[Key words]  Liraglutide; Human umbilical vein endothelial cells; Insulin receptor substrates-1; Endothelial
+nitric oxide synthase
+(Chin J Endocrinol Metab, 2016, 32: 327-329)
+随着社会经济的发展和人民生活水平的提高,全球糖尿病
+及肥胖患者急剧增加。 糖尿病引起的慢性并发症,如动脉粥样
+硬化等是糖尿病患者高致残、致死率的主要原因。 内皮功能障
+碍是动脉粥样硬化的早期关键事件,也是糖尿病血管病变的病
+理生理基础。 胰升糖素样肽 1( glucagon like peptide-1,GLP-1)
+是一种新型的 2 型糖尿病治疗药物,它是一种内源性肠促胰
+素,在糖代谢的调节中发挥重要作用。 有研究显示,利拉鲁肽
+通过减轻内皮细胞氧化应激及炎症反应、抑制心肌细胞凋亡,
+从而实现对心血管的保护作用[1] ,但其具体作用机制尚不清
+楚。 因此,本研究主要探讨利拉鲁肽对人脐静脉内皮细胞影响
+的可能作用机制。
+一、 材料和方法
+1. 材料:(1) 细胞:人脐静脉内皮细胞 ( human umbilical
+vein endothelial cells, HUVECs)株(ATCC CRL-2873)购自上海
+细胞生物研究所。 (2)试剂:利拉鲁肽注射液(丹麦诺和诺德公
+司),胎牛血清(杭州四季青),DMEM 培养基(Hyclone 公司),
+兔抗人内皮型一氧化氮合酶(eNOS)抗体、兔抗人磷酸化 eNOS
+(p-eNOS 抗体(Cell Signaling)、兔抗人胰岛素受体底物 1( IRS-
+1)抗体(Santa cruz),兔抗人磷酸化 IRS-1(p-IRS-1)抗体(Santa
+cruz),内参 β-actin 抗体,辣根过氧化物酶(HRP)标记的羊抗兔
+抗体、HRP 标记的兔抗羊抗体(武汉博士德生物工程公司)。
+2. 方法:(1)细胞培养:HUVECs 用含 100 U / ml 青霉素、
+100 μg / ml 链霉素、10%胎牛血清的高糖 DMEM 细胞培养基于
+37℃、5% CO2空气饱和湿度培养箱中培养。 细胞隔天换液一
+次,生长至 80% ~ 90% 时,0. 25% 胰蛋白酶消化收集细胞,以
+1 : 2 进行传代。 (2)实验分组及干预:将 HUVECs 分为正糖组
+(5. 5 mmol / L 葡萄糖)和高糖组(30 mmol / L 葡萄糖),各组培养
+液中均加入浓度为 3 nmol / L 的利拉鲁肽注射液进行干预,分别
+于 0、10、15、30、45、60、90、120、150、180、210、240、270 min 提取
+细胞,Western 印迹法检测各组细胞 IRS-1、磷酸化 IRS-1、eNOS
+及磷酸化 eNOS ( p-eNOS) 表达水平,实验重复 3 次。 (3)
+Western 印迹法检测蛋白表达:使用细胞总蛋白提取试剂裂解
+并提取细胞总蛋白,Bradford 法测定蛋白浓度,每个泳道上样
+40 μg 蛋白,加入适当体积的 5×蛋白上样缓冲液,90℃ ~ 100℃
+水浴 5 min。 10% SDS-PAGE 分离蛋白,然后按常规方法进行转
+膜,5%脱脂奶粉封闭 1 h,加入一抗(1 : 1 000)4℃振 过夜,
+TBST 在室温下脱色 床上洗 3 次,每次 5 min。 加入二抗
+(1 : 3 000)室温振  30 min, TBST 洗 3 次,每次 5 min。 以
+β-actin 为内参对照。 ECL 发光显影,AlphaImager 图像处理系
+统分析目标条带的光密度值。
+3. 统计学处理:采用 SPSS 13. 0 统计软件进行分析,数据
+资料用 x-± s 表示。 组间均数比较采用 t 检验,P<0. 05 为差异有
+统计学意义。
+二、 结果
+1. 利拉鲁肽对内皮细胞 p-eNOS / eNOS 表达的影响:在正
+糖组利拉鲁肽干预 15 min 后,p-eNOS / eNOS 水平随时间的延长
+呈上升趋势,150 min 时达高峰,随后逐渐下降,270 min 时降至
+基线水平。 高糖组 p-eNOS / eNOS 基线水平较正糖组低(0. 239
+± 0. 016 对 0. 400 ± 0. 02,P<0. 05),在利拉鲁肽干预 30 min 后,
+p-eNOS / eNOS 水平随干预时间的延长呈上升趋势,240 min 时
+达高峰,随后逐渐下降,270 min 时仍较基线水平表达高。
+2. 利拉鲁肽对内皮细胞 p-IRS-1 / IRS-1 表达的影响:正糖
+组 p-IRS-1 / IRS-1 表达随利拉鲁肽干预时间的延长呈上升趋
+势,210 min 时达高峰,随后逐渐下降;高糖组 p-IRS-1 / IRS-1 表
+达趋势与正糖组相似,但 150 min 时达高峰。
+注:N:正糖组 5 mmol / L 葡萄糖;H:高糖组 30 mmol / L 葡萄糖;
+eNOS:内皮型一氧化氮合酶;p-eNOS:磷酸化 eNOS
+图 1  不同糖浓度时利拉鲁肽干预对内皮细胞 eNOS、p-eNOS 表达的影响
+三、 讨论
+GLP-1 是由肠道 L 细胞合成和分泌的一种肠促胰素,由胰
+升糖素原基因表达和加工后产生,在平衡胰岛素和葡萄糖水平
+上发挥重要作用,如刺激葡萄糖依赖性的胰岛素分泌和胰岛素
+注:N:正糖组 5 mmol / L 葡萄糖;H:高糖组 30 mmol / L 葡萄糖;
+IRS-1:胰岛素受体底物 1;p-IRS-1:磷酸化 IRS-1
+图 2  在不同糖浓度时利拉鲁肽干预对内皮细胞 IRS-1、p-IRS-1 表达的
+影响
+的生物合成;动物实验亦发现,GLP-1 具有促进胰岛 β 细胞增
+殖、抑制其凋亡的作用[2] 。 GLP-1 受体的分布极为广泛,目前
+发现除了胰腺 α、β 细胞以外,在中枢神经系统、心脏、肾脏、肺
+等组织器官中同样存在 GLP-1 受体[3] 。 GLP-1 可以通过诱导
+心脏保护性基因表达、上调内皮祖细胞激酶功能区受体
+(KDR)、可溶性血管内皮生长因子受体(FLT-1)、eNOS mRNA
+的表达等途径起到心血管保护的作用。 前瞻性研究显示,
+GLP-1 类似物还能够减少内皮细胞的损伤[4-5] 。
+内皮功能损伤以及促炎因子的刺激是糖尿病血管并发症
+的始动环节。 GLP-1 能够调节血管收缩功能,进而减少 2 型糖
+尿病患者血管内皮功能损伤。 GLP-1 可通过抑制糖基化终末
+产物及炎症因子所致的氧化应激,阻断细胞凋亡。 在体研究显
+示利拉鲁肽能够抑制 ApoE- / -小鼠模型的内皮细胞损伤,这种
+作用与增加 eNOS 表达有关[6] 。 国内有研究发现艾塞那肽呈
+剂量依赖性地促进 eNOS 磷酸化,逆转半胱氨酸所致的活性氧
+簇(ROS)产生增加和一氧化氮(NO)产生减少,改善血管内皮
+细胞功能[7] 。 Shiraki 等[8]研究发现利拉鲁肽呈剂量依赖性地
+抑制肿瘤坏死因子 α 诱导的 HUVECs 产生 ROS,并且抑制尼克
+酰胺腺嘌呤二核苷酸氧化酶(NADPH)的表达,从而对细胞起
+到保护作用。 本研究亦发现,GLP-1 类似物利拉鲁肽能够增加
+高糖组 HUVECs 的 eNOS 磷酸化水平,且具有一定的时间依赖
+性,对 HUVECs 具有保护作用。
+IRS 是胰岛素信号转导通路中受体后水平的重要信号蛋白
+之一,正常情况下 IRS-1 在胰岛素信号转导中起主要作用。 胰
+岛素与其靶细胞膜上的受体结合后,激活酪氨酸蛋白激酶,后
+者磷酸化 IRS,从而激活磷脂酰肌醇 3 激酶(PI3K) /蛋白激酶 B
+(Akt)、丝裂原活化蛋白激酶 (MAPK) 等途径,调节细胞内
+eNOS、Glut-4 等下游蛋白,调控细胞的功能,对生长、增殖、分化
+等多方面均有调控作用。 近年来研究发现,脐静脉内皮细胞同
+样可以表达 IRS-1,后者通过激活 PI3K / Akt 信号通路调控内皮
+细胞功能。 IRS-1 的表达和活性异常将导致内皮细胞 PI3K / Akt
+信号通路及下游的 eNOS 异常,NO 生成减少,表现为内皮细胞
+胰岛素抵抗。 因此,IRS-1 是内皮细胞胰岛素抵抗治疗的靶点
+之一。 关于利拉鲁肽对内皮细胞 IRS-1 的影响研究较少,本研
+究发现,利拉鲁肽对高糖组脐静脉内皮细胞 IRS-1 和 p-IRS-1
+的表达有调节作用。 在一定时间内,利拉鲁肽呈时间依赖性地
+促进内皮细胞 IRS-1 的磷酸化。 目前已有研究证实,eNOS 在内
+皮细胞中的功能实现主要通过 IRS-1 / PI3K / Akt 信号通路[9] 。
+有研究发现 GLP-1 还可以通过激活 eNOS 上游信号 PI3K 来增
+加糖原激酶 a 的活性,促进肝糖原的合成[10] 。 它还能够通过
+PI3K / Akt 及 MAPK 信号通路抑制血管平滑肌细胞迁移、增殖
+和凋亡,对血管起到保护作用[11] 。 因此我们推测,利拉鲁肽可
+能通过激活上述通路,达到促进 eNOS 磷酸化的目的。
+综上所述,GLP-1 类似物利拉鲁肽除调节血糖之外,对血
+管内皮细胞尚具有保护作用,其机制可能与 IRS-1 / PI3K / Akt-
+eNOS 途径有关。

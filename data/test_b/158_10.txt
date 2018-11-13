@@ -1,0 +1,384 @@
+基础研究
+基金项目:四川省卫生厅科研基金资助项目(120330)
+富生酮氨基酸饮食对高脂诱导的小鼠胰岛素
+抵抗的影响
+徐玲  马红艳  李佳  高陈林  徐勇
+[摘要]   目的  探讨富生酮氨基酸饮食对高脂诱导小鼠胰岛素抵抗的影响及机制。 方法 C57BL 小
+鼠随机分 4 组,给予常规饮食(Con)、高脂饮食(HFD)、富生酮氨基酸高脂饮食(HFDKAAR)以及高脂喂养 8
+周后改为富生酮氨基酸高脂饮食(HFD寅HFDKAAR)喂养。 测食量、体重及内脏脂肪,16 周后行腹腔内葡萄
+糖耐量试验,测血糖、胰岛素、血酮,根据血糖和胰岛素计算曲线下面积(AUC)及胰岛素抵抗指数( IRI),检
+测肝脏 LKB1、AMPK、mTOR 蛋白和 mcp-1 mRNA 表达。 结果 各组小鼠摄入量及血酮无统计学差异。 与
+Con 组比较,HFD 组小鼠表现体重及内脏脂肪增加、糖耐量受损和高胰岛素水平,肝 LKB1、p-AMPK 表达下
+降,p-mTOR 蛋白和 mcp-1 mRNA 表达增加。 与 HFD 比较,HFDKAAR及 HFD寅HFDKAAR组小鼠体重及内脏脂
+肪均减轻,血糖、AUC、胰岛素浓度和 IRI 均降低(P<0. 05),肝 LKB1、p-AMPK、p-mTOR 蛋白和 mcp-1 mRNA
+表达异常均被明显逆转(P<0. 05)。 结论 富生酮氨基酸饮食可能通过调节肝脏 LKB1-AMPK-mTOR 通
+路,降低 mcp-1 mRNA 水平,改善或逆转高脂饮食诱导的肥胖、胰岛素抵抗及糖耐量受损。
+[关键词]   氨基酸; 胰岛素抵抗; 代谢综合征
+Effects of ketogenic amino acid replacement diet on insulin resistance in mice fed with high fat diet Xu Ling,
+Ma Hongyan, Li Jia, Gao Chenlin, Xu Yong. Department of Endocrinology, The affiliated Hospital of Luzhou Medical
+College, Luzhou 646000, China
+[Abstract]  Objective  To investigate the effects of ketogenic amino acid (KAA)replacement diet on insulin
+resistance in mice fed with high fat diet(HFD) and to analyze the possible mechanism. Methods C57BL mice were
+fed with a control diet, HFD, and KAA-fortified HFD(HFDKAAR ) from the age of 8 weeks, and 8 weeks after HFD
+initiation, the HFD-fed mice were divided into two groups: one group of mice were fed the same HFD, the other group
+were fed HFDKAAR(HFD寅HFDKAAR ). The metabolic evaluations were performed at the end of 16 weeks. Blood
+glucose levels were measured at 0, 15, 30, 60, 90, and 120 min after the injection of glucose ( 1 g / kg BW
+intraperitoneal glucose tolerance test, ipGTT). The insulin, β-hydroxybutyrate, and acetoacetate levels in the plasma
+were measured via ELISA. The insulin resistance index ( IRI) and area under curve (AUC) were calculated. The
+expression of hepatic LKB1 ( liver kinase B1), AMP-activated protein kinase ( AMPK), and mTOR (Mammalian
+target of rapamycin) protein, and mcp-1 mRNA were measured by western blot and real-time PCR respectively.
+Results HFD-fed group of mice displayed significantly heavier body weight,heavier intra-abdominal fat weight, and
+significant deterioration of glucose tolerance at the end of 16 weeks in addition to higher insulin levels( all P<0. 05),
+HFDKAAR -fed mice exhibited significantly ameliorated high fat diet-induced obesity and glucose intolerance compared
+to the HFD-fed mice, which was associated with decreased insulin levels, IRI, AUC, and mcp-1 mRNA expression
+(all P < 0. 05) . HFD suppressed hepatic LKB1 and AMPK phosphorylation expression, and increased mTOR
+phosphorylation levels compared to the control diet-fed mice(all P<0. 05) . In contrast, treatment with the HFDKAAR
+diet increased LKB1and p-AMPK expression, which was associated with suppressed p-mTOR levels compared to the
+HFD-fed mice(all P<0. 05) . Conclusion KAA may ameliorate high fat diet-induced obesity, glucose intolerance,
+via normalizing the hepatic LKB1-AMPK-mTOR nutritional signal passageway. KAA replacement diet seems to be a
+potential nutritional intervention for the treatment for patients with metabolic defects, such as obesity, glucose
+intolerance, as well as metabolic syndrome.
+[Key words]  Amino acid; Insulin resistance; Metabolic syndrome
+(Chin J Endocrinol Metab, 2016, 32: 399-404)
+胰岛素抵抗(insulin resistance)是指肝脏、肌肉、脂
+肪组织等胰岛素作用的靶器官对胰岛素的敏感性降
+低,是 2 型糖尿病的特征,也是肥胖、非酒精性脂肪肝
+(NAFLD)等代谢综合征的始发及核心因素。 生酮氨
+基酸(ketogenic amino acid,KAA)是指分解代谢过程中
+能转变成酮体的氨基酸,不能在体内合成,属于必须氨
+基酸。 新近一些临床和动物研究显示,生酮氨基酸能
+减轻脂肪肝及改善胰岛素抵抗[1-7],也有与之相反的报
+道[10-11],因此氨基酸代谢在胰岛素抵抗的病因学和治
+疗学上的作用还存在争议。 本研究用高脂饮食诱导小
+鼠胰岛素抵抗,用富生酮氨基酸饮食作为干预因素,观
+察富生酮氨基酸饮食对高脂诱导的小鼠胰岛素抵抗的
+影响,观察肝脏能量敏感通路相关蛋白 LKB1、AMPK、
+m TOR 的表达和炎症因子 mcp-1 mRNA 的表达,旨在
+进一步探讨生酮氨基酸对胰岛素抵抗的作用及可能机
+制,为其防治提供新的依据。
+材料和方法
+一、 材料
+实验动物:清洁级 8 周龄体重为 20 ~ 23 g 的
+C57BL 雄性小鼠(四川医科大学动物实验室提供),动
+物饲料(日本 Ajinomoto)。
+主要 实 验 材 料: 总 蛋 白 抽 提 试 剂 盒 ( 美 国
+Chemicon),BCA 蛋白定量试剂盒(美国 Pierce),ECL
+Plus 化学发光试剂盒(英国 Amersham),qRT-PCR 试
+剂盒(日本 Takara),兔抗小鼠单克隆抗体 p-mTOR、
+mTOR、 LKB1、 p-AMPK、 AMPK、 β-acting ( 美 国 Cell
+signal), 胰 岛 素、 酮 体 检 测 ELISA 试 剂 盒 ( 日 本
+MIoBS),微量血糖仪(罗氏诊断)。
+二、 方法
+1. 动物分组:将 32 只小鼠随机分组,分别给予普
+通饮食(Con n= 8)、高脂饮食(HFD n = 16)、富含生酮
+氨基酸的高脂饮食(HFDKAAR,n = 8)喂养;喂养 8 周
+后,再将高脂饮食组小鼠随机分为 2 组,1 组继续原高
+脂饮食喂养(HFD,n=8),另 1 组改为富生酮氨基酸高
+脂饮食喂养(HFD寅HFDKAAR,n=8)。 饮食具体配方见
+表 1。 每周称取并记录小鼠体重和摄入饲料重量(第
+8、12 周因 ipGTT 需禁食,故未测进食量)。 喂养 16 周
+后处死测内脏脂肪(肠系膜和附睾脂肪组织)重量。
+2. 血糖、胰岛素和血酮水平的检测:各组小鼠喂
+养 16 周后,禁食 6 h 记录其体重,行腹腔内注射葡萄
+糖耐量试验(ipGTT,1 g / kg 体重),分别在注射葡萄糖
+前、注射后 15、30、60、90、120 min 用血糖仪测血糖,绘
+制曲线并依据公式曲线下面积(area under curve,AUC;
+0. 5 / 2+(30 min 血糖值+60 min 血糖值) ×0. 5 / 2+(60
+min 血糖值+120 min 血糖值) ×1 / 2,计算 AUC;同时收
+集注射葡萄糖前、注射后 15、30、60 min 尾静脉血,用
+ELISA 方法测各时间点血浆中胰岛素浓度,根据血糖
+和胰岛素浓度计算胰岛素抵抗指数( insulin resistance
+index, IRI),计算公式为 IRI =血糖(mmol / L) ×胰岛素
+(mU / L) / 22. 5;用 ELISA 法测空腹血浆中 β-羟丁酸、
+乙酰乙酸浓度。
+3. 蛋白印迹法测肝组织中能量敏感通路中相关
+蛋白 LKB1、AMPK 以及 mTOR 的表达:喂养 16 周后,
+处死小鼠取肝脏组织,裂解液裂解,提取细胞总蛋白,
+用 BCA 法测蛋白含量。 5% ~15%的 SDS-PAGE,转移
+至 PVDF 膜,脱脂牛奶封闭,分别加入兔抗 p-mTOR、
+mTOR、LKB1、p-AMPK、AMPK、β-Actin 抗体,4 度孵育
+过夜,再经 HRP 标记的二抗室温反应,化学发光显影,
+Bio-rad 紫外凝胶成像分析系统进行光密度扫描。 结
+果以 p-mTOR、mTOR、LKB1、p-AMPK、AMPK 与 β-Actin
+INT 值的比值进行统计比较。
+4. qRT-PCR 方法测肝细胞中炎症因子 mcp-1 表
+达:16 周后处死小鼠,用 Trizol 抽提肝脏总 RNA,按试
+表 1  不同饮食的营养组成及热量(% , w / w)
+Tab 1  Different nutritional composition and calorie in each diet(% , w / w)
+组别
+Group
+酪蛋白
+Casein
+L-胱氨酸
+L-Cystine
+玉米淀粉
+Corn Starch
+淀粉
+Starch
+蔗糖
+Sucrose
+纤维素
+Cellulose
+猪油
+Lard
+矿物质
+AIN93G
+Mineral Mix
+维生素
+AIN93G
+Vitamin Mix
+小计
+Sub-Total
+组氨酸
+Histidine
+异亮氨酸
+Isoleucine
+Con 15 0. 3 37. 55 12. 4 10 5 7 3. 5 1 92 0. 22 0. 38
+HFD 15 0. 3 20. 25 6. 7 10 5 30 3. 5 1 92 0. 22 0. 38
+HFDKAAR 15 0. 3 20. 25 6. 7 10 5 30 3. 5 1 92 1
+组别
+Group
+亮氨酸
+Leucine
+赖氨酸
+Lysine·HCl
+蛋氨酸
+Methionine
+苯丙氨酸
+Phenylalanine
+苏氨酸
+Threonine
+色氨酸
+Tryptophan
+缬氨酸
+Valine
+丙氨酸
+Alanine
+精氨酸
+Arginine
+天冬酰胺
+Asparagine·
+H2O
+天冬氨酸
+Aspartic acid
+胱氨酸
+Cystine
+Con 0. 69 0. 75 0. 21 0. 38 0. 32 0. 09 0. 49 0. 22 0. 28 0. 31 0. 27 0. 04
+HFD 0. 69 0. 75 0. 21 0. 38 0. 32 0. 09 0. 49 0. 22 0. 28 0. 31 0. 27 0. 04
+HFDKAAR 2 2 2 1
+组别
+Group
+谷氨酸盐
+Glutamine
+谷氨酸
+Glutamate
+甘氨酸
+Glycine
+脯氨酸
+Proline
+丝氨酸
+Serine
+酪氨酸
+Tyrosine
+氨基酸总量
+Total amino
+acids
+总计
+Total
+碳水化合物
+Carbohydrate
+脂肪
+Fat
+蛋白质及游离氨基酸
+Protein and
+free amino acids
+热量
+Calorie
+(kcal / g)
+Con 0. 78 0. 78 0. 14 0. 8 0. 43 0. 41 8 100 60% 16% 24% 4. 0
+HFD 0. 78 0. 78 0. 14 0. 8 0. 43 0. 41 8 100 29% 52% 19% 5. 1
+HFDKAAR 8 100 29% 52% 19% 5. 1
+注:Con:对照 Control;HFD:高脂饮食 High fat diet;HFDKAAR:富生酮氨基酸饮食 Ketogenic amino acid -fortified HFD
+剂盒逆转录成 cDNA, 18S 作为管家基因。 引物、
+TaqMan 探针由 TaKaRa 公司合成。 将 cDNA 按实时荧
+光定量 PCR 反应体系 (20 滋l) 反应。 mcp-1: R 5'-
+CCTGCTGCTGTTGATCCTCTTCT-3',F 5'-GCCCCACTC-
+ACCTGCTGCTACT-3', 18S:R 5'-CCAGTCGTCTTGGTG-
+TGCTGA-3', F 5'-TTCTGGCCAACGGTCTAGACAAC-3'。
+反应条件:95℃ 1 min, 95℃ 15 sec,60℃ 40 sec,扩增 40
+个循环后收集数据绘制动力学曲线读取 Ct 值,扩增重
+复 3 次。 将各组目的基因 CT 值与管家基因 CT 值相
+减得 △CT,再将各组的 △CT 与正常对照组的 △CT 相
+减得 △△CT,最后根据 2-△△CT值进行统计分析。
+三、 统计学处理
+所有计量型资料以 x-± s 表示,组间比较采用 SNK-
+q 检验方差分析;P<0. 05 为差异有统计学意义。
+结    果
+一、 富 KAA 饮食对各组小鼠的进食量、体重和内
+脏脂肪重量的影响
+与 HFD 组比较,HFDKAAR及 HFD寅HFDKAAR 组小
+鼠每天进食饲料重量基本一致(图 1A),经不同饮食
+的热量(kcal)(表 1)矫正后,各组小鼠每天进食热量
+(kcal)差异无统计学意义(图 1B)。
+实验期间小鼠生长良好,前 12 周各组小鼠体重差
+异无统计学意义,12 周后各组小鼠体重差异逐渐明
+显,16 周末正常饮食组小鼠平均体重和内脏脂肪重量
+分别为(30. 41 ± 0. 63) g 和(0. 80 ± 0. 13) g,HFD 组小
+鼠平均体重和内脏脂肪重量分别为(35. 87 ± 1. 17) g
+和(1. 78 ±0. 32)g,差异有统计学意义(P<0. 01)。 与
+HFD 组比较,HFDKAAR组及 HFD寅HFDKAAR组小鼠体重
+和内脏脂肪重量均减轻(P<0. 05)(图 1C,D)。
+二、 富 KAA 饮食对各组小鼠糖耐量及胰岛素抵
+抗的影响
+与对照组相比,HFD 组小鼠空腹、注射葡萄糖后
+15、30、60 min 胰岛素浓度及 IRI 明显增高,差异有统
+计学意义;而 HFDKAAR组小鼠胰岛素浓度和 IRI 与对照
+组基本一致(P>0. 05)。 与 HFD 组比较,HFDKAAR 及
+HFD寅HFDKAAR组小鼠空腹、注射葡萄糖后各时间点胰
+岛素浓度和 IRI 均降低,特别是注射葡萄糖后 15 及 30
+min 下降更为显著,差异有统计学意义(图 2A、B)。
+与对照组相比, ipGTT 结果显示 HFD 组小鼠空
+腹、注射葡萄糖后 15、30、60、90、120 min 血糖明显增
+高,AUC 增加,表现出糖耐量受损。 HFDKAAR组小鼠血
+糖浓度与对照组比较,注射葡萄糖后 15 min 血糖升
+高,60 min 后血糖下降到对照组水平。 与 HFD 组小鼠
+比较,不管是 HFDKAAR组还是 HFD寅HFDKAAR组小鼠各
+时间点血糖均降低(P<0. 05),特别是 60、90 min 血糖
+下降更为显著(图 2C)。 与对照组小鼠相比,HFD 组
+小鼠血糖 AUC 增加了 41. 25% (P<0. 05);与 HFD 组
+小鼠比较,HFDKAAR组小鼠血糖 AUC 下降 23. 73% (P<
+0. 05),HFD寅HFDKAAR组小鼠血糖 AUC 下降 13. 91%
+(图 2D)。
+三、 富 KAA 饮食对各组小鼠血酮水平的影响
+注:A:各组小鼠每周进食重量比较 Comparison of food intake among groups of mice;B:经不同饮食热卡矫正后,各组小鼠每天摄入热卡比较 Per
+calorie-based analysis revealed that all groups of mice ate similar calories;C:各组小鼠内脏脂肪重量比较 Comparison of intra-abdominal fat weight among groups
+of mice;D:各组小鼠不同时间点体重比较 Comparison of body weight among groups of mice
+图 1  各组小鼠的进食量、内脏脂肪及体重比较
+Fig 1  Food intake, intra-abdominal fat weight and body weight of each group
+注:A:各组小鼠胰岛素抵抗指数比较 IRI were evaluated according to the insulin concentration and glucose level during ipGTT;B:各组小鼠血浆胰岛素浓
+度比较 Insulin levels at indicated time during ipGTT;C:各组小鼠 ipGTT 血糖比较 Blood glucose levels at indicated time during ipGTT;D:各组小鼠 AUC 比较
+AUC were evaluated according to the glucose level during ipGTT
+图 2  各组小鼠 ipGTT 各时间点胰岛素抵抗指数、胰岛素浓度、血糖及 AUC 比较
+Fig 3  Comparison of IRI, insulin concentration, blood glucose and AUC during ipGTT among groups of mice
+图 3  各组小鼠肝脏 LKB1、AMPK 及 mTOR 蛋白表达
+Fig 3  The expression of hepatic LKB1, AMPK and mTOR protein among groups of mice
+与对照组比较, HFD 组、 HFDKAAR 组及 HFD寅
+HFDKAAR组各小鼠空腹血浆中 β-羟丁酸、乙酰乙酸浓
+度无明显差异(P>0. 05,表 2)。
+四、 富 KAA 饮食对各组小鼠肝脏 LKB1、AMPK 及
+mTOR 蛋白表达的影响
+与对照组比较,HFD 组小鼠肝脏组织中 LKB1、
+p-AMPK 蛋白表达明显下降(P<0. 01),p-mTOR 蛋白
+表达增加 ( P < 0. 05 )。 与 HFD 组相比较,不管是
+HFDKAAR组还是 HFD寅HFDKAAR 组小鼠肝脏 LKB1、
+p-AMPK 蛋白表达下降及 p-mTOR 蛋白表达增加均被
+明显逆转(P<0. 05,图 3)。
+五、 富 KAA 饮食对各试验组小鼠肝脏炎症因子
+mcp-1 mRNA 的表达的影响
+与对照组比较,HFD 组小鼠肝脏组织中炎症因子
+mcp-1 mRNA 的表达增加了 1. 81 倍 (P < 0. 05);与
+HFD 组比较,HFDKAAR组小鼠肝脏组织中 mcp-1 mRNA
+的表达增加被明显逆转(P<0. 05,表 3)。
+表 2  各组小鼠空腹血 β-羟丁酸、乙酰乙酸浓度比较(x-± s)
+Tab 2   Comparison of the concentration of β-hydroxybutyrate and
+acetoacetate in plasma(x-± s)
+组别
+Group
+样本数
+n
+β-羟丁酸
+β-hydroxybutyrate
+(mg / dl)
+乙酰乙酸
+Acetoacetate
+(mg / dl)
+Con 8 0. 17 ± 0. 12 1. 53 ± 0. 95
+HFD 8 0. 19 ± 0. 05 1. 86 ± 0. 22
+HFDKAAR 8 0. 17 ± 0. 11 1. 69 ± 0. 17
+HFD寅HFDKAAR 8 0. 18 ± 0. 02 1. 56 ± 0. 54
+注:Con:对照 Control;HFD:高脂饮食 High fat diet;HFDKAAR:富生酮
+氨基酸饮食 Ketogenic amino acid -fortified HFD
+表 3  各组小鼠肝脏 MCP-1mRNA 表达比较(x-± s)
+Tab 3  Comparison of the expression of hepatic mcp-1mRNA among
+groups of mice(x-± s)
+组别
+Group
+样本数
+n
+18S
+(CT Value)
+mcp-1
+(CT Value) △CT 2-△△CT
+Con 8 19. 91 ±0. 33 25. 76 ±0. 37 5. 85 ±0. 69 1. 00 ±0. 34
+HFD 8 20. 01 ±0. 62 24. 56 ±0. 45 4. 50 ±0. 88 2. 81 ±0. 55a
+HFDKAAR 8 19. 71 ±0. 14 25. 43 ±0. 34 5. 72 ±0. 39 1. 36 ±0. 67b
+注:Con:对照 Control;HFD:高脂饮食 High fat diet;HFDKAAR:富生酮
+氨基酸饮食 Ketogenic amino acid -fortified HFD; vs Con,a P < 0. 01; vs
+HFD,bP<0. 01
+讨    论
+近年来,随着人们生活水平的提高及生活方式的
+改变,以 2 型糖尿病、肥胖、非酒精性脂肪性肝病为代
+表的代谢性疾病的发病率上升明显,正成为我国乃至
+全世界面临的公共卫生问题。 公认胰岛素抵抗是代谢
+综合征始发因素及核心,而胰岛素抵抗的发生机制至
+今尚未完全阐明。 如何有效的防治 2 型糖尿病、脂肪
+肝等代谢性疾病一直是研究的热点和难点。
+KAA 是指分解代谢过程中能转变成酮体的氨基
+酸,有异亮氨酸、亮氨酸、赖氨酸、色氨酸、苯丙氨酸、苏
+氨酸和酪氨酸。 这些氨基酸不能在体内合成,均属于
+必须氨基酸。 新近一些临床和动物实验提示氨基酸参
+与的代谢异常与多种疾病的发生发展有关。 国内宋文
+琪等[1] 报道单纯性肥胖患儿的血清氨基酸水平严重
+失衡,且普遍存在胰岛素抵抗。 最近报道[2-3]给予支链
+氨基酸可降低小鼠心脏和骨骼肌的氧化应激,延长小
+鼠寿命。 Masino 等[4] 报道生酮饮食可治疗难治性癫
+痫。 Zhang 等[5]发现增加饮食中亮氨酸含量能改善高
+脂诱导的肥胖、高血糖和高胆固醇血症;Solerte 等[6]报
+道口服异亮氨酸、亮氨酸、赖氨酸、缬氨酸和苏氨酸的
+混合制剂能改善老年 2 型糖尿病胰岛素抵抗;Noguchi
+等[7] 发现生酮氨基酸饮食能显著地抑制小鼠肝脏脂
+质合成并预防脂肪肝和胰岛素抵抗的发生,Tzatsos
+等[8]和 Hinault 等[9] 也证实亮氨酸能通过调节 mTOR
+(mammalian target of rapamycin)通路而改善小鼠胰岛
+素抵抗。 与之相反,Tremblay 等[10] 报道人体肌肉组织
+给予持续氨基酸灌注会通过活化 mTOR 通路而导致
+胰岛素抵抗,Newgard 等[11] 也报道大鼠过多地摄入支
+链氨基酸和脂肪会导致胰岛素抵抗,因此氨基酸代谢
+在胰岛素抵抗和脂肪肝的病因学和治疗学上的作用还
+存在争议,有必要进行进一步研究。
+本研究前期预实验和文献中发现,小鼠高脂喂养
+8 周后已经出现了糖耐量受损和内脏脂肪增多,所以
+本研究干预组有 HFD 组和 HFD寅HFDKAAR组,目的在
+于观察富 KAA 饮食能否减轻高脂饮食诱导的小鼠胰
+岛素抵抗和肥胖,同时也观察已经出现了肥胖和胰岛
+素抵抗的小鼠,再用富 KAA 饮食能否改善或逆转其肥
+胖和胰岛素抵抗。 本研究结果证实饮食中增加 KAA
+含量没有影响小鼠的进食量。 在摄入基本相同情况
+下,16 周富 KAA 高脂饮食可降低高脂饮食所导致的
+小鼠肥胖、降低肝脏炎症因子 MCP-1 mRNA 的表达、
+血胰岛素和血糖浓度。 对 HFD 喂养 8 周已经出现糖
+耐量受损的小鼠,给予富 KAA 饮食喂养同样可明显逆
+转高脂诱导的胰岛素抵抗和肥胖,提示中长期的富
+KAA 饮食可改善或逆转高脂饮食诱导的肥胖、胰岛素
+抵抗及糖耐量受损,而没有增加血酮的水平。
+AMPK ( adenine monophosphate-activated protein
+kinase)是细胞能量感受器,应激时被激活,迅速启动
+能量生成,降低能量消耗,抑制并修复细胞损伤[12]。 2
+型糖尿病的一线药物二甲双胍主要通过 AMPK 调节
+细胞应激反应功能起到非葡萄糖依赖性的作用,降低
+糖尿病和心血管患者的全因死亡率,减少癌症的发
+生[12]。 肝脏胰岛素抵抗在糖耐量受损和代谢综合征
+中发挥核心作用,故本研究将肝脏作为主要靶器官。
+本研究发现 HFD 能抑制小鼠肝脏中 LKB1(liver kinase
+B1)、p-AMPK 蛋白表达,通路下游的 p-mTOR 蛋白表
+达增加,而这些蛋白表达异常不管在 HFDKAAR组还是
+HFD寅HFDKAAR组小鼠肝脏中可明显改善或被逆转;提
+示富 KAA 饮食可能通过激活 LKB1,从而活化 p-
+AMPK,增加对下游 p-mTOR 的抑制,改善或逆转高脂
+饮食诱导的胰岛素抵抗及糖耐量受损,与文献报
+道[7,13-14]一致。
+综上,富生酮氨基酸饮食可有效改善或逆转高脂
+饮食诱导的小鼠胰岛素抵抗及糖耐量受损,其可能机
+制为通过调节肝脏 LKB1-AMPK-mTOR 磷酸化的能量
+代谢通路,从而调控糖代谢、改善或逆转肥胖及胰岛素
+抵抗。

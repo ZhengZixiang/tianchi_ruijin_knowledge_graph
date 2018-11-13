@@ -1,0 +1,292 @@
+糖尿病相关议题
+基金项目:国家自然科学基金项目(81170804)
+内分泌代谢病研究所
+性激素水平与男性 2 型糖尿病患者骨密度的
+关系
+郁静嘉  陈瑛  王筱婧  焦培林  孙立昊  陶蓓  宣言  刘建民  王卫庆  赵红燕
+[摘要]   目的  探讨男性 2 型糖尿病患者性激素水平与骨密度之间的关系。 方法 本研究为回顾性
+分析,共纳入男性 2 型糖尿病患者 673 例,采用双能 X 线骨密度仪检测腰椎 2-4(L2-4)、股骨颈和全髋骨密
+度,同时测定其 HBA1C、血清卵泡刺激素(FSH)、黄体生成素(LH)、催乳素、雌二醇、睾酮、游离睾酮(FT)以
+及性激素结合球蛋白(SHBG)水平。 结果 相关性分析提示 FSH 与股骨颈( r = -0. 122, P = 0. 005)和全髋
+骨密度( r= -0. 109, P=0. 012)呈明显负相关, LH 与股骨颈骨密度( r= -0. 086, P= 0. 048)呈负相关,上述
+关系在校正年龄及体重指数(BMI)后均消失;雌二醇与 L2-4( r=0. 114, P =0. 011)和全髋骨密度( r=0. 091,
+P=0. 043)呈明显正相关,且这种正相关关系不受年龄的影响,但校正 BMI 后相关性消失;睾酮仅与 L2-4骨
+密度存在微弱正相关,在校正 BMI 后这种关系仍然存在;FT 和催乳素与各部位骨密度均不存在相关性;
+SHBG 与上述 3 个部位骨密度均存在明显负相关关系,且在校正年龄后相关性依然存在,但经过 BMI 校正
+后相关性消失。 多元逐步回归分析结果提示,SHBG、雌二醇和睾酮是影响男性 2 型糖尿病患者骨密度变
+异的主要因素。 结论 男性 2 型糖尿病患者骨密度的变异受性激素和 SHBG 的影响,而伴有 SHBG 水平升
+高的男性 2 型糖尿病患者更容易发生骨密度的降低。
+[关键词]   糖尿病, 2 型; 男性; 骨密度; 性激素
+Relationship between sex steroid hormones and bone mineral density in male patients with type 2 diabetes
+mellitus Yu Jingjia, Chen Ying, Wang Xiaojing, Jiao Peilin, Sun Lihao, Tao Bei, Xuan Yan, Liu Jianmin,
+Wang Weiqing, Zhao Hongyan. Shanghai Clinical Center for Endocrine and Metabolic Diseases, Shanghai Institute of
+Endocrine and Metabolic Disease, Department of Endocrine and Metabolic Diseases, Ruijin Hospital, Shanghai
+Jiaotong University School of Medicine, Shanghai 200025, China
+[Abstract]  Objective  To investigate the correlation between serum levels of sex steroid hormones and bone
+mineral density ( BMD) in men with type 2 diabetes mellitus ( T2DM). Methods The study is a retrospective
+analysis. A total of 673 men with T2DM were enrolled. BMDs of lumbar spine 2-4(L2-4 ), femoral neck (FN), and
+total hip ( TH) were measured by dual-energy X-ray absorptiometry. Serum HBA1C, follicle-stimulating hormone
+(FSH), luteinizing hormone ( LH), prolactin, estradiol, testosterone, free testosterone ( FT), and sex hormone
+binding globulin (SHBG) levels were tested simultaneously. Results Pearson忆s correlation analysis revealed that
+FSH was negatively correlated with FN( r=-0. 122, P=0. 005) and TH( r=-0. 109, P=0. 012), and LH was also
+negatively correlated with FN( r=-0. 086, P =0. 048). However, all these negative relationships were lost after the
+adjustment of age and body mass index (BMI). Estradiol had a significantly positive correlation with L2-4( r = 0. 114,
+P=0. 011) and TH( r=0. 091, P = 0. 043) BMD, and this relationship was not influenced by age, but disappeared
+after adjustment for BMI. Testosterone showed a weakly positive correlation with L2-4BMD, which still remained even
+after adjustment for BMI. There was no correlation of FT and prolactin with BMD. SHBG showed significantly negative
+correlations with three BMDs. Partial correlation analysis showed that the relationship remained significant even after
+adjusting for age, but disappeared after the adjustment for BMI. Multiple stepwise regression analysis revealed that
+SHBG, estradiol, and testosterone were the main factors that influenced the change of BMDs in men with T2DM.
+Conclusions Serum concentrations of sex steroid hormones and SHBG were correlated with the variation of BMDs in
+male patients with T2DM, and the subjects with higher SHBG concentrations were more likely to have low BMD.
+[Key words]  Diabetes mellitus, type 2; Men; Bone mineral density; Sex hormones
+(Chin J Endocrinol Metab, 2014, 30: 381-384)
+2 型糖尿病和骨质疏松是常见的老年性疾病,尽
+管骨质疏松发病率女性高于男性,但近年来男性骨质
+疏松也开始受到越来越多的关注,研究发现糖尿病患
+者无论男性还是女性,骨折风险均高于正常人[1,2]。
+国内外关于男性 2 型糖尿病患者骨质疏松的研究相对
+较少,其中一项研究发现性激素水平的下降与男性低
+骨量和骨折风险增加密切相关[3],那么,究竟是雄激
+素还是雌激素对男性 2 型糖尿病患者的骨质疏松起主
+导作用,目前尚无统一的结论。 因此,本研究旨在探讨
+性激素水平与男性 2 型糖尿病患者骨密度之间的关
+系。
+对象和方法
+一、 对象
+选取 2010 年 1 月至 2012 年 1 月在上海交通大学
+附属瑞金医院内分泌科住院的男性 2 型糖尿病患者
+673 例,均符合 1999 年世界卫生组织(WHO)糖尿病
+诊断及分型标准,排除 1 型糖尿病及其他特殊类型的
+糖尿病,同时排除性腺功能减退症、库欣综合征、甲状
+腺功能亢进症、甲状旁腺功能亢进症等可能引起继发
+性骨质疏松症的疾病;所有患者均无糖尿病酮症酸中
+毒、高渗性非酮症糖尿病昏迷及其他急性并发症。
+二、 方法
+1. 骨密度测定:采用双能 X 线骨密度仪(DXA,
+Lunar Expert-1313)测定腰椎 2-4(L2-4)、股骨颈以及全
+髋的骨密度,骨质疏松症的诊断标准参照 1994 年
+WHO 推荐的方法,即测得的骨密度与同性别峰值骨密
+度相比,其骨密度下降的标准差(T 值),如有 1 个或 1
+个以上部位 T 值≤-2. 5 为骨质疏松;-2. 5<T 值≤-1
+为骨量减少;T 值>-1 为骨量正常。
+2. HBA1C及性激素水平的测定:采用高压液相法
+检测 HBA1C,化学发光法检测性激素全套:卵泡刺激素
+(FSH)、黄体生成素( LH)、雌二醇、睾酮、游离睾酮
+(free testosterone,FT)、催乳素和性激素结合球蛋白
+(sex hormone-binding globulin, SHBG)。
+三、 统计学处理
+数据采用 SPSS 16. 0 软件进行统计学处理。 正态
+分布计量数据采用 x-± s 表示;非正态计量资料用中位
+数(四分位间距)表示,经自然对数转换后进行统计学
+分析。 组间比较采用 Student-t 检验,并对 L2-4、股骨颈
+和全髋的骨密度进行相关、偏相关以及多元逐步回归
+分析,P<0. 05 为差异有统计学意义。
+结    果
+一、 研究对象的一般资料
+研究对象的一般资料见表 1,根据骨密度测定结
+果将研究对象分为 2 组:糖尿病伴骨量正常组(NC)
+472 例和糖尿病伴骨量减少 /骨质疏松组(OP)201 例。
+从表 1 可以看出,与 NC 组相比,OP 组年龄偏大,体重
+指数(BMI)较低,同时伴有低催乳素和高 SHBG 水平,
+且上述差异均具有统计学意义,但 2 组间的糖尿病病
+程和 HBA1C差异无统计学意义。
+二、 性激素水平与骨密度的相关及偏相关分析
+Pearson 相关分析结果提示 FSH 水平与股骨颈和
+全髋骨密度存在显著的负相关关系(P<0. 05),LH 水
+平与股骨颈骨密度存在明显负相关关系(P<0. 05),但
+在校正年龄及 BMI 后,FSH、LH 与骨密度之间的相关
+性均消失;雌二醇与 L2-4、股骨颈以及全髋骨密度均存
+在显著的正相关关系(P<0. 05),且这种正相关关系在
+校正年龄后仍然存在, 但校正 BMI 后消失; 睾酮仅与
+表 1  糖尿病研究人群的一般资料[x-± s,中位数(四分位间距)]
+Tab 1  Basic features of diabetic patients [x-± s,M(quartile)]
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+病程
+(年)
+Duration
+(year)
+BMI
+(kg / m2)
+HBA1C
+(% )
+FSH
+(mIU / ml)
+LH
+(mIU / ml)
+E2
+(pg / ml)
+T
+(ng / ml)
+NC 472 53. 84 ± 11. 11 8. 47 ± 6. 36 25. 46 ± 3. 38 8. 58 ± 2. 12 7. 29 ± 5. 16 5. 14 ± 2. 74 25. 57 ± 8. 59 4. 28(3. 47-5. 63)
+OP 201 56. 78 ± 10. 68b 9. 09 ± 7. 21 23. 80 ± 4. 10b 8. 79 ± 2. 26 8. 78 ± 6. 53a 5. 17 ± 3. 67 24. 11 ± 8. 48 4. 62(3. 76-5. 80)
+TT 673 54. 72 ± 11. 06 8. 66 ± 6. 62 24. 97 ± 3. 68 8. 64 ± 2. 16 7. 72 ± 5. 63 5. 15 ± 3. 04 25. 16 ± 8. 58 4. 37(3. 52-5. 73)
+组别
+Group
+例数
+n
+FT
+(pg / ml)
+PRL
+(ng / ml)
+SHBG
+(nmol / L)
+BMD
+L2-4
+(g / cm2)
+FN
+(g / cm2)
+TH
+(g / cm2)
+NC 472 9. 67 ± 2. 90 18. 01 ± 9. 83 33. 67 ± 17. 99 1. 28 ± 0. 16 0. 99 ± 0. 15 1. 06 ± 0. 12
+OP 201 9. 51 ± 2. 66 16. 00 ± 6. 72b 39. 18 ± 20. 81b 1. 02 ± 0. 13b 0. 82 ± 0. 09b 0. 88 ± 0. 10b
+TT 673 9. 62 ± 2. 83 17. 42 ± 9. 07 35. 26 ± 19. 00 1. 21 ± 0. 19 0. 94 ± 0. 16 1. 01 ± 0. 14
+注:NC: 骨量正常 Normal bone mineral density;OP: 骨量减少 / 骨质疏松 Osteopenia / osteoporosis;TT:总计 Total;BMI:体重指数 Body mass index;
+FSH: 卵泡刺激素 Follicle-stimulating hormone; LH: 黄体生成素 Luteinizing hormone; E2: 雌二醇 Estradiol;T: 睾酮 Testosterone;FT: 游离睾酮 Free
+testosterone;PRL:催乳素 Prolactin; SHBG: 性激素结合球蛋白 Sex hormone binding globulin; BMD:骨密度 Bone mineral density; L2-4:第 2-4 腰椎 Lumbar
+spine 2-4;FN: 股骨颈 Femoral-neck;TH:全髋 Total hip; 与 NC 组相比 vs NC group,aP<0. 05,bP<0. 01
+表 2  性激素水平与男性 2 型糖尿病患者骨密度的相关及偏相关分析
+Tab 2  Pearson忆s correlation analysis and Partial correlation analysis between serum levels of sex steroid hormones and bone mineral density in
+men with type 2 diabetes mellitus
+BMD
+FSH LH E2 T FT SHBG PRL
+r P r P r P r P r P r P r P
+L2-4
+未校正
+No adjustment -0. 079 0. 067 0. 011 0. 800 0. 114 0. 011 0. 093 0. 032 -0. 014 0. 747 -0. 110 0. 012 0. 075 0. 085
+校正年龄
+Adjusting age -0. 077 0. 095 0. 043 0. 350 0. 122 0. 008 0. 090 0. 052 -0. 033 0. 477 -0. 170 0. 000 0. 084 0. 069
+校正年龄及 BMI
+Adjusting age and BMI -0. 055 0. 231 0. 055 0. 233 0. 089 0. 052 0. 102 0. 027 -0. 013 0. 781 -0. 089 0. 054 0. 084 0. 069
+FN
+未校正
+No adjustment -0. 122 0. 005 -0. 086 0. 048 0. 087 0. 053 0. 071 0. 102 0. 081 0. 066 -0. 136 0. 002 0. 065 0. 137
+校正年龄
+Adjusting age -0. 004 0. 935 0. 025 0. 587 0. 108 0. 019 0. 084 0. 068 0. 031 0. 508 -0. 120 0. 009 0. 062 0. 176
+校正年龄及 BMI
+Adjusting age and BMI 0. 020 0. 671 0. 036 0. 436 0. 076 0. 101 0. 096 0. 037 0. 052 0. 263 -0. 038 0. 413 0. 062 0. 182
+TH
+未校正
+No adjustment -0. 109 0. 012 -0. 077 0. 076 0. 091 0. 043 0. 070 0. 108 0. 035 0. 420 -0. 189 0. 000 0. 063 0. 150
+校正年龄
+Adjusting age -0. 016 0. 733 0. 009 0. 843 0. 113 0. 014 0. 078 0. 092 -0. 009 0. 844 -0. 205 0. 000 0. 066 0. 151
+校正年龄及 BMI
+Adjusting age and BMI 0. 017 0. 707 0. 024 0. 598 0. 068 0. 139 0. 096 0. 037 0. 020 0. 671 -0. 095 0. 039 0. 066 0. 151
+注:略语同表 1 The abbreviations are the same as Tab 1
+L2-4骨密度存在正相关关系(P<0. 05),在校正年龄后
+这种正相关关系消失,而校正 BMI 后正相关关系再次
+出现;SHBG 与 3 个部位骨密度均存在明显的负相关
+关系(P<0. 05),且这种负相关关系不受年龄的影响,
+但受到 BMI 的影响;FT 与催乳素水平和各部位骨密
+度之间不存在任何的相关性(表 2)。
+三、 男性 2 型糖尿病患者骨密度的多元回归分析
+分别以 L2-4、股骨颈和全髋骨密度作为因变量,以
+FSH、LH、雌二醇、睾酮、FT、SHBG、催乳素作为自变量
+进行多元逐步回归分析,结果提示 SHBG( r2 = 0. 021,
+P<0. 01)、雌二醇( r2 = 0. 016,P<0. 05)和睾酮( r2 =
+0. 008,P<0. 05)是影响 L2-4 骨密度变异的主要因素;
+SHBG( r2 = 0. 034,P<0. 01)和雌二醇( r2 = 0. 012,P<
+0. 05)是决定股骨颈骨密度变化的主要影响因素;而
+SHBG( r2 = -0. 058,P<0. 01)和雌二醇( r2 = 0. 013,P<
+0. 05)是决定全髋骨密度变异的主要因素。 FSH、LH、
+FT、催乳素均未能进入回归模型。
+讨    论
+本研究观察到在男性 2 型糖尿病患者中,伴有骨
+量减少 /骨质疏松的患者 SHBG 水平明显高于骨量正
+常的患者,进一步的相关分析提示 SHBG 与 L2-4、股骨
+颈和全髋骨密度之间存在显著负相关关系,即使在校
+正年龄之后,SHBG 与 3 个部位的骨密度之间仍存在
+显著的负相关关系,表明这些指标之间的关系不受年
+龄的影响,但当校正 BMI 后,负相关关系则消失,表明
+血清 SHBG 水平与各部位骨密度之间的关系受 BMI
+的影响。 多元回归分析结果显示,SHBG 水平的变化
+可以说明 L2-4 骨密度 2. 1% 的变异、股骨颈骨密度
+3. 4%的变异以及全髋骨密度 5. 8%的变异,上述结果
+提示高 SHBG 对男性 2 型糖尿病患者的骨密度可能起
+到一种反向破坏作用。 本研究同时观察到,血清雌二
+醇与 L2-4和全髋骨密度之间存在明显的正相关关系,
+且这种关系亦不受年龄的影响,而睾酮仅在未校正年
+龄以及校正了年龄和 BMI 的情况下与 L2-4骨密度存在
+微弱的正相关关系。 多元回归分析结果显示,血清雌
+二醇水平的变化可以说明 L2-4骨密度 1. 6%的变异,股
+骨颈骨密度 1. 2%的变异以及全髋骨密度 1. 3% 的变
+异,这些结果表明血清雌二醇水平的升高对男性 2 型
+糖尿病患者骨密度可能起到一种正向保护作用,且此
+种保护作用超过了男性雄激素对于骨密度的作用,说
+明在男性骨代谢中雌激素依然处于主导地位,这一研
+究结果与 Szulc 等[4]研究结果一致。
+在男性中,一般认为雄激素与成骨细胞的分化有
+关,而雌激素可能与调节骨吸收有关[5]。 雄激素在骨
+骼生长代谢、骨量维持及抗骨量丢失方面均起重要作
+用,或直接作用于雄激素受体,或者在芳香化酶作用下
+转化为雌激素,间接作用于雌激素受体 α、β[6]。 雄激
+素和雌激素对男性骨代谢的作用机制,目前仍不十分
+清楚。 在男性 2 型糖尿病患者中,低雌二醇水平和低
+睾酮水平都可能与低骨密度相关。 传统观念认为,雌
+激素仅仅在维护女性骨骼系统中起到重要作用,同时,
+雄激素则对于男性骨骼系统非常重要。 而如今,这种
+观念受到挑战,Khosla 等[7] 总结认为雌二醇对男性骨
+代谢起到极其重要的作用,其可能调控了多达 70%的
+骨吸收作用。 美国的一项研究提示,在老年男性中,雌
+激素水平位于最低四分位数者具有较高的非椎体骨折
+风险[8]。 Araujo 等[9] 在 832 名 30 ~ 79 岁健康男性研
+究中,发现只有雌激素水平与股骨颈、全髋以及椎体骨
+密度存在正相关关系,且这种关系在校正了多种混杂
+因素后仍然存在,而睾酮水平与骨密度之间不存在明
+显的相关性。 中国香港的一项研究对 1 158 名 65 岁
+以上的中国老年男性进行了为期 4 年的性激素和骨密
+度的跟踪随访,结果显示 4 年中骨密度的变化与雌二
+醇显著相关,与睾酮水平的变化没有任何关系[10]。 国
+内一项研究显示,对于老年男性来说,血清雌激素水平
+是影响男性骨代谢的重要因素[11]。 尽管本研究是在
+男性 2 型糖尿病患者中进行的分析,结果发现与健康
+男性一样,血清雌激素对男性 2 型糖尿病患者的骨密
+度起到一定的保护作用。
+SHBG 是一种由肝脏产生的血浆糖蛋白,受年龄、
+BMI、性激素和胰岛素等多种因素的影响。 它通过与
+性激素的密切结合,调节性激素的生物利用度,在骨重
+建中起到重要的作用。 国外的研究证实,在骨质疏松
+症患者中,高 SHBG 水平与骨质流失、高骨重建水平以
+及高骨折风险密切相关[12,13]。 Legrand 等[14]的研究显
+示,在男性中,高浓度的 SHBG 会减少具有生物活性的
+性激素的含量,从而与中年男性的原发性或继发性骨
+质疏松密切相关。 这个结果与 Bj覬rnerem 等[15]研究结
+果一致,尽管 SHBG 仅能决定 1% 的骨密度变异,但在
+校正多种因素之后,血清 SHBG 水平与男性骨量之间
+仍然存在显著的负相关关系。 Paller 等[16] 研究指出,
+循环中具有较高浓度 SHBG 的男性骨密度较低,这与
+本研究结果一致,说明男性 2 型糖尿病患者与健康男
+性人群,在 SHBG 与骨密度的关系上具有一致的趋势。
+此外,国外研究认为,高 SHBG 水平与骨折风险增加密
+切相关。 Bj覬rnerem 等[17] 报告在男性中,高 SHBG 水
+平与非椎体骨折风险的关系不受年龄和 BMI 的影响。
+一项在前列腺癌患者中进行的研究发现,SHBG 高于
+57. 6 nmol / L 的患者椎体骨折风险比正常人群高出
+2. 5 倍[18]。 本研究结果进一步证实和健康人群一样,
+高 SHBG 水平的男性 2 型糖尿病患者骨密度明显降
+低,提示临床监测 SHBG 水平对于早期发现骨质疏松
+以及骨折的高危人群有一定帮助。
+本研究尚存在几点不足之处:(1) 仅仅是一项横
+断面的回顾性研究,没有设立健康男性对照组,无法了
+解健康男性与 2 型糖尿病男性之间性激素对于骨密度
+影响的差异。 (2) 没有骨折资料的分析,无法说明
+SHBG 与骨折之间的关系。 (3) 缺乏骨转换生化指标
+的检测,无法了解 SHBG 与骨吸收及骨形成等骨转换
+指标之间的关系。 (4) 由于降糖药物可能对患者骨密
+度变化产生一定影响,但因本研究的样本量较小,且患
+者应用降糖药物种类较多,统计分析中未能排除降糖
+药物对患者骨密度的影响。 因此,还有待于进一步临
+床研究来阐明性激素以及 SHBG 对健康人群或糖尿病
+人群骨量和骨折的影响及可能的机制。
+综上所述,本研究结果提示雌激素水平的降低以
+及 SHBG 水平的增高可能导致了男性 2 型糖尿病患者
+骨密度降低,因此,在男性 2 型糖尿病人群中,检测性
+激素水平尤其是雌激素和 SHBG 可能有利于更好地指
+导临床治疗及预防男性骨质疏松及骨折的发生。

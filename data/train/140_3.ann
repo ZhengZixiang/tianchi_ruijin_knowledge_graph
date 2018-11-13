@@ -1,0 +1,191 @@
+T1	Disease 2031 2037	2 型糖尿病
+T2	Disease 2307 2313	2 型糖尿病
+T3	Disease 2365 2371	2 型糖尿病
+T4	Disease 2574 2580	2 型糖尿病
+T5	Disease 3002 3008	2 型糖尿病
+T6	Disease 3037 3043	2 型糖尿病
+T7	Disease 3068 3074	2 型糖尿病
+T8	Disease 3093 3099	2 型糖尿病
+T9	Test 3226 3231	HBA1C
+T10	Drug 4032 4036	二甲双胍
+T11	Test 2782 2785	AST
+T12	Test 2917 2920	AST
+T13	Test 2657 2660	ALT
+T14	Test 2692 2695	ALT
+T15	Test 2768 2771	ALT
+T16	Test 2824 2827	ALT
+T17	Test 2911 2914	ALT
+T18	Disease 2450 2455	代谢综合征
+T19	Disease 2467 2472	代谢综合征
+T20	Disease 2528 2533	代谢综合征
+T21	Disease 2735 2740	代谢综合征
+T22	Disease 2741 2746	代谢综合征
+T23	Disease 2799 2804	代谢综合征
+T24	Disease 2805 2810	代谢综合征
+T25	Disease 2839 2844	代谢综合征
+T26	Disease 2849 2854	代谢综合征
+T27	Disease 2874 2879	代谢综合征
+T28	Disease 2887 2892	代谢综合征
+T29	Disease 2934 2939	代谢综合征
+T30	Disease 2244 2247	脑卒中
+T31	Disease 3629 3632	IGT
+T32	Disease 3742 3745	IGT
+T33	Test 2644 2647	GGT
+T34	Test 2688 2691	GGT
+T35	Test 2787 2790	GGT
+T36	Test 2864 2867	GGT
+T37	Disease 5 8	糖尿病
+T38	Disease 42 45	糖尿病
+T39	Disease 893 896	糖尿病
+T40	Disease 959 962	糖尿病
+T41	Disease 976 978;979 980	糖尿 病
+T42	Disease 1043 1046	糖尿病
+T43	Disease 1084 1087	糖尿病
+T44	Disease 1141 1144	糖尿病
+T45	Disease 1206 1209	糖尿病
+T46	Disease 1242 1245	糖尿病
+T47	Disease 1291 1294	糖尿病
+T48	Disease 1360 1363	糖尿病
+T49	Disease 1412 1415	糖尿病
+T50	Disease 1444 1447	糖尿病
+T51	Disease 1516 1519	糖尿病
+T52	Disease 1529 1532	糖尿病
+T53	Disease 1571 1573;1574 1577	糖调 节受损
+T54	Disease 1649 1652	糖尿病
+T55	Disease 1694 1695;1696 1698	糖 尿病
+T56	Disease 1790 1793	糖尿病
+T57	Disease 1873 1876	糖尿病
+T58	Disease 1892 1897	视网膜病变
+T59	Disease 1899 1905	微量白蛋白尿
+T60	Disease 1907 1913	周围神经病变
+T61	Disease 1915 1921	周围血管病变
+T62	Disease 2117 2122	心血管疾病
+T63	Disease 2123 2126	糖尿病
+T64	Disease 2162 2166;2167 2168	心血管死 亡
+T65	Disease 2256 2257;2258 2261	心 肌梗死
+T66	Disease 2268 2272	心力衰竭
+T67	Disease 2292 2297	心血管疾病
+T68	Disease 2315 2320	心血管疾病
+T69	Disease 2393 2398	心血管疾病
+T70	Disease 2413 2416	糖尿病
+T71	Disease 2484 2487;2488 2491	心脑血 管疾病
+T72	Disease 2599 2603	肝脏损伤
+T73	Disease 2625 2626;2627 2629	糖 尿病
+T74	Test 2636 2643	血谷氨酰转移酶
+T75	Test 2649 2652;2653 2656	丙氨酸 转氨酶
+T76	Disease 3012 3015	高血压
+T77	Disease 3019 3022;3023 3024	血脂异 常
+T78	Test 3045 3047	血糖
+T79	Test 3048 3050	血脂
+T80	Test 3051 3053	血压
+T81	Disease 3075 3078	高血压
+T82	Disease 3079 3081;3082 3084	血脂 异常
+T83	Disease 3100 3106	大血管并发症
+T84	Disease 3127 3133	微血管并发症
+T85	Disease 3192 3195	糖尿病
+T86	Disease 3271 3274	糖尿病
+T87	Disease 3386 3389	糖尿病
+T88	Disease 3396 3399	糖尿病
+T89	Disease 3430 3433	糖尿病
+T90	Disease 3463 3466	糖尿病
+T91	Test 3512 3514	血糖
+T92	Disease 3590 3593	糖尿病
+T93	Disease 3622 3627	糖耐量受损
+T94	Disease 3641 3644	糖尿病
+T95	Disease 3673 3676	糖尿病
+T96	Disease 3696 3699	糖尿病
+T97	Disease 3730 3733	糖尿病
+T98	Disease 3769 3772	糖尿病
+T99	Disease 3784 3789	心血管疾病
+T100	Disease 3863 3866	糖尿病
+T101	Disease 3899 3901;3902 3903	糖尿 病
+T102	Disease 4060 4063	糖尿病
+T103	Test 4074 4076	血脂
+T104	Test 4077 4079	血压
+T105	Disease 4082 4087	心血管疾病
+T106	Disease 4099 4102	糖尿病
+T107	Disease 4134 4137	糖尿病
+T108	Test 4153 4155	血糖
+T109	Test 4156 4158	血压
+T110	Test 4159 4161	血脂
+T111	Disease 4181 4184	糖尿病
+T112	Disease 2950 2953	糖尿病
+T113	Disease 2964 2967	糖尿病
+T114	Disease 113 116	糖尿病
+T115	Disease 835 840	成人代谢病
+T116	Disease 1170 1173	慢性病
+T117	Disease 1801 1806	慢性并发症
+T118	Disease 1884 1886;1887 1890	慢性 并发症
+T119	Disease 2054 2057	并发症
+T120	Disease 2085 2088	并发症
+T121	Disease 2130 2133	并发症
+T122	Disease 2180 2182	死亡
+T123	Disease 2436 2441	代谢性疾病
+T124	Test 2772 2781	门冬氨酸氨基转移酶
+T125	Disease 3166 3168	慢病
+T126	Test 3441 3444	糖代谢
+T127	Level 3801 3803	严重
+T128	Disease 4022 4025	糖尿病
+T129	Disease 4128 4132	慢性疾病
+T130	Disease 2958 2963	代谢性疾病
+T131	Test_Value 3514 3520	超出正常范围
+T132	Test_Value 2661 2663	升高
+T133	Test 2702 2706;2707 2711	胰岛素敏 感性指数
+T134	Level 2746 2748	前期
+T135	Test_Value 2856 2862	逐渐升高趋势
+T136	Level 2844 2845;2846 2847	前 期
+T137	Test_Value 3231 3237	<7. 0%
+T138	Duration 3753 3756	6 年
+T139	Test_Value 2868 2870	升高
+T140	Disease 2476 2481	代谢综合征
+T141	Disease 1735 1740	糖尿病前期
+T142	Disease 3253 3256	糖尿病
+T143	Level 3256 3258	前期
+T144	Disease 3316 3319	糖尿病
+T145	Level 3319 3321	前期
+T146	Disease 3409 3414	糖尿病前期
+T147	Disease 3539 3542	糖尿病
+T148	Level 3542 3544	前期
+T149	Disease 3653 3658	糖尿病前期
+T150	Disease 3853 3858	糖尿病前期
+T151	Disease 3560 3570	β 细胞分泌功能缺陷
+T152	Test 2828 2831	GGT
+T153	Test 2927 2930	GGT
+T154	Disease 1095 1100	新发糖尿病
+T155	Anatomy 1807 1808	眼
+T156	Anatomy 1809 1810	肾
+T157	Anatomy 1812 1813	心
+T158	Anatomy 1814 1815	足
+T159	Disease 1821 1823	致残
+T160	Disease 1824 1826	致丧
+T161	Disease 1854 1860;1861 1863	糖尿病慢性并 发症
+T162	Disease 1969 1977	糖尿病慢性并发症
+T163	Reason 2328 2330	血糖
+T164	Reason 2331 2333	血压
+T165	Reason 2334 2336	血脂
+T166	Reason 2381 2384	高血压
+T167	Reason 2388 2392	血脂异常
+T168	Disease 2418 2423	中心型肥胖
+T169	Disease 2424 2428	血脂紊乱
+T170	Disease 2429 2432	高血压
+T171	Disease 2501 2505	全因死亡
+T172	Reason 2522 2527	胰岛素抵抗
+T173	Reason 2544 2552	肝脏脂质过度沉积
+T174	Disease 2556 2561	胰岛素抵抗
+T175	Test 2562 2565;2566 2569	胰岛素 敏感性
+T176	Test_Value 2569 2571	降低
+T177	Anatomy 2554 2556	肝脏
+T178	Test 2676 2678;2679 2685	肝脏 胰岛素清除率
+T179	Test_Value 2685 2687	降低
+T180	Test 2667 2673	胰岛素分泌率
+T181	Test_Value 2673 2675	增高
+T182	Test 2731 2733	肝酶
+T183	Test 2794 2798	血清肝酶
+T184	Disease 3449 3454	糖调节受损
+T185	Disease 3529 3532	糖尿病
+T186	Symptom 3553 3558	胰岛素抵抗
+T187	Disease 3803 3808	视网膜病变
+T188	Operation 3813 3819	眼底激光手术
+T189	Disease 3810 3812	失明
+T190	Disease 3876 3882	糖尿病并发症
+T191	Test 3484 3487	糖耐量

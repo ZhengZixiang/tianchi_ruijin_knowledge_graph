@@ -1,0 +1,116 @@
+T1	Disease 1234 1240	1 型糖尿病
+T2	Disease 1701 1707	1 型糖尿病
+T3	Disease 2003 2009	1 型糖尿病
+T4	Disease 1479 1485	2 型糖尿病
+T5	Disease 2013 2019	2 型糖尿病
+T6	Test 2101 2105	空腹血糖
+T7	Test 2220 2224	空腹血糖
+T8	Anatomy 2292 2296	β 细胞
+T9	Test 1885 1889	餐后血糖
+T10	Anatomy 2181 2182;2183 2185	β 细胞
+T11	Disease 75 78	糖尿病
+T12	Disease 179 182	糖尿病
+T13	Disease 1124 1127	糖尿病
+T14	Disease 1530 1533	糖尿病
+T15	Drug 1736 1739	胰岛素
+T16	Drug 1759 1763	胰升糖素
+T17	Method 2021 2023	注射
+T18	Drug 2023 2032	胰升糖素单克隆抗体
+T19	Test 2052 2054	血糖
+T20	Test_Value 2105 2107	下降
+T21	Test_Value 2111 2113	改善
+T22	Symptom 2133 2136	高血糖
+T23	Disease 2302 2307	酮症酸中毒
+T24	Disease 2458 2461	糖尿病
+T25	Anatomy 2477 2480	胃肠道
+T26	Anatomy 2483 2484	胃
+T27	Anatomy 2485 2489	十二指肠
+T28	Drug 2665 2671	外源性胰岛素
+T29	Drug 2672 2674;2675 2676	磺脲 类
+T30	Drug 2677 2697	胰升糖素样肽 1(GLP-1)受体激动剂
+T31	Drug 2698 2703;2704 2715	二肽基肽酶 4(DPP-4)抑制剂
+T32	Drug 2746 2751;2752 2754	胰升糖素拮 抗剂
+T33	Test 2758 2760	血糖
+T34	Disease 2979 2981;2982 2983	糖尿 病
+T35	Disease 2996 2999	糖尿病
+T36	Disease 3047 3052	胰升糖素瘤
+T37	Disease 3108 3113	乳酸酸中毒
+T38	Disease 3151 3154	糖尿病
+T39	Disease 3202 3205	糖尿病
+T40	Disease 3244 3247	糖尿病
+T41	Test 1553 1555	血糖
+T42	Disease 40 43	糖尿病
+T43	Anatomy 133 137	胰升糖素
+T44	Anatomy 142 145	胰岛素
+T45	Symptom 149 154	糖代谢紊乱
+T46	Anatomy 167 171	胰升糖素
+T47	Disease 1111 1114	糖尿病
+T48	Disease 1283 1286	糖尿病
+T49	Drug 1331 1334	胰岛素
+T50	Drug 1337 1341	胰升糖素
+T51	Symptom 1491 1498	胰升糖素的分泌
+T52	Symptom 1499 1503	反应异常
+T53	Test_Value 1509 1512	高水平
+T54	Test 1513 1517	胰升糖素
+T55	Test 1521 1524	胰岛素
+T56	Disease 1473 1476	1 型
+T57	Drug 1582 1586	胰升糖素
+T58	Drug 1604 1605;1606 1608	胰 岛素
+T59	Drug 1826 1830	胰升糖素
+T60	Symptom 1831 1836	胰岛素不足
+T61	Test 1909 1912	糖耐量
+T62	Disease 1963 1966	糖尿病
+T63	Test 2043 2049	胰岛素敏感性
+T64	Test 2037 2040	糖耐量
+T65	Disease 2195 2198	糖尿病
+T66	Test_Value 2239 2241	正常
+T67	Drug 2343 2346	胰岛素
+T68	Drug 2366 2370	胰升糖素
+T69	Disease 2446 2453	高胰升糖素血症
+T70	Drug 2468 2472	胰升糖素
+T71	Anatomy 2535 2539	胰升糖素
+T72	Drug 2560 2567	胰升糖素拮抗剂
+T73	Drug 2577 2581	胰升糖素
+T74	Test 3097 3099	乳酸
+T75	Test_Value 3099 3101	升高
+T76	Anatomy 1217 1221	胰腺胰岛
+T77	Anatomy 1223 1226	胰岛素
+T78	Reason 1259 1266	胰岛素中心论冶
+T79	Reason 89 96	胰岛素中心论冶
+T80	Anatomy 1562 1569	胰岛 α 细胞
+T81	Reason 1646 1653	胰升糖素中心论
+T82	Method 1756 1758	输注
+T83	Reason 1786 1787;1788 1794	胰 岛素中心论冶
+T84	Drug 1995 1999	四氧嘧啶
+T85	Anatomy 2075 2084	祖细胞向 α 细胞
+T86	Drug 2120 2125	链脲佐菌素
+T87	Test 2274 2282	血浆 β-羟丁酸
+T88	Test_Value 2271 2274	高水平
+T89	Disease 2381 2383;2384 2385	糖尿 病
+T90	Reason 2397 2404	胰岛素中心论冶
+T91	Reason 2407 2408;2409 2416	胰 升糖素中心论冶
+T92	Disease 2435 2438	糖尿病
+T93	Anatomy 2516 2523	胰岛 α 细胞
+T94	Disease 2602 2605	糖尿病
+T95	Disease 2637 2640	糖尿病
+T96	Disease 2954 2957	糖尿病
+T97	Anatomy 3033 3036;3037 3038	α 细 胞
+T98	Reason 3214 3222	胰升糖素为中心冶
+T99	Reason 98 111	胰岛素、胰升糖素双激素论冶
+T100	Reason 1154 1159	胰岛素抵抗
+T101	Reason 1128 1137	胰岛 β 细胞功能
+T102	Anatomy 1342 1349	胰岛 α 细胞
+T103	Symptom 1392 1395	低血糖
+T104	Reason 119 127	胰升糖素中心论冶
+T105	Symptom 1637 1640	高血糖
+T106	Drug 1712 1716	生长抑素
+T107	Symptom 1748 1751	高血糖
+T108	Symptom 1766 1769	高血糖
+T109	Test 2108 2113	糖耐量改善
+T110	Test 2230 2231;2232 2236	糖 耐量试验
+T111	Anatomy 2426 2428	胰腺
+T112	Drug 2627 2634	胰升糖素拮抗剂
+T113	SideEff 2771 2774	高血压
+T114	SideEff 2775 2776;2777 2780	肝 酶升高
+T115	Anatomy 2991 2995	胰升糖素
+T116	Symptom 3178 3181	低血糖

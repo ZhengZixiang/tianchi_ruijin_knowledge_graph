@@ -1,0 +1,22 @@
+T1	Disease 186 192	2 型糖尿病
+T2	Disease 77 82	心血管疾病
+T3	Reason 102 108	动脉粥样硬化
+T4	Disease 124 129	代谢综合征
+T5	Disease 174 175;176 180	代 谢综合征
+T6	Disease 341 346	心血管疾病
+T7	Test 436 440	甘油三酯
+T8	Test 441 443	腰围
+T9	Test 472 476	甘油三酯
+T10	Test 477 479	腰围
+T11	Reason 228 229;230 245	其 多个单核苷酸多态性(SNPs)
+T12	Reason 293 297	SNPs
+T13	Reason 39 50	PPARs 基因多态性
+T14	Symptom 51 59	高甘油三酯性腰围
+T15	Disease 109 114	心血管事件
+T16	Symptom 153 157	腹型肥胖
+T17	Reason 162 170	高甘油三酯性腰围
+T18	Disease 193 196	心血管
+T19	Reason 216 227	PPARs 基因多态性
+T20	Reason 259 267	高甘油三酯性腰围
+T21	Reason 323 331	高甘油三酯性腰围
+T22	Reason 145 150;151 152	甘油三酯增 高

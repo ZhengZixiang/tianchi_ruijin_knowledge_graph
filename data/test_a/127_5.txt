@@ -1,0 +1,382 @@
+沉痛悼念罗敏教授
+市内分泌糖尿病学会第六届副主任委员、《中华内分泌代谢病杂志》第三、四届副总编辑、
+卫生部内分泌代谢病重点实验室主任罗敏教授于 2014 年 1 月 8 日 16 时 45 分不幸病逝,
+享年 69 岁。 罗敏教授对中国的内分泌事业、上海瑞金医院内分泌学科和《中华内分泌代
+谢杂志》的发展曾作出过重大的贡献,我们对罗敏教授的逝世表示沉痛的哀悼。
+非酒精性脂肪性肝病
+青);徐州医学院徐州临床学院(张倩、王I、邱勤勤、李洪艳)
+红细胞压积与非酒精性脂肪性肝病发生风险
+的相关性研究
+———五年随访观察
+刘学奎  梁军  杨曼青  张倩  王玉  邱勤勤  李洪艳
+[摘要]   目的   分析红细胞压积(hematocrit, HCT)与非酒精性脂肪性肝病(nonalcoholic fatty liver
+disease, NAFLD)发病的相关性。 方法  采用观察性的队列研究,选取 2006 年在江苏省徐州市中心医院体
+检的 2 798 名未患有 NAFLD 的健康人群为研究对象,按照红细胞压积的水平分成 2 组,A 组:HCT≤0. 49
+L / L,B 组:HCT>0. 49 L / L,经过 5 年随访,观察 2011 年 NAFLD 的发病情况。 检测研究对象的血清谷丙转
+氨酶、谷草转氨酶、甘油三酯、总胆固醇、高密度脂蛋白胆固醇、低密度脂蛋白胆固醇、空腹血糖等相关生化
+指标和影像学检查结果。 结果   B 组 NAFLD 的发病率明显大于 A 组,A 组发病率 15. 9% ,B 组发病率
+26. 5% (P<0. 01),2 组发病率之间差异有统计学意义。 Logistic 回归分析显示,随着 HCT 的增高,发生
+NAFLD 的风险也随之增高。 结论  红细胞压积与 NAFLD 的发病存在一定的相关性,可以作为评估患者是
+否可能发生 NAFLD 的指标。
+[关键词]   非酒精性脂肪性肝病; 红细胞压积; 发病率
+Relationship between hematocrit and the risk of nonalcoholic fatty liver disease: A follow-up observation for
+five years     Liu Xuekui*, Liang Jun, Yang Manqing, Zhang Qian, Wang Yu, Qiu Qinqin, Li Hongyan.
+*Department of Endocrinology, the Central Hospital of Xuzhou, Xuzhou 221009, China
+[Abstract]  Objective  To investigate the relationship between hematocrit(HCT) and the risk of nonalcoholic
+fatty liver disease. Methods A community-based health examination survey in individuals who were randomly
+selected from residents living in the urban area of Xuzhou was carried out in 2006. 2 798 subjects without nonalcoholic
+fatty liver disease were included in the present study. Subjects were divided into two groups according to HCT level,
+group A ( HCT ≤ 0. 49 L / L) and group B ( HCT > 0. 49 L / L ) . Serum alanine aminotransferase, aspartate
+aminotransferase, triglycerides, total cholesterol, high density lipoprotein-cholesterol, low density lipoprotein-
+cholesterol, fasting plasma glucose, and imaging examinations were determined. Results The prevalence of
+nonalcoholic fatty liver disease was higher in group B than that in group A(26. 5% vs 15. 9% , P<0. 01), and the
+difference was statistically significant. Logistic regression showed that the incidence of nonalcoholic fatty liver disease
+was increased along with elevated levels of HCT. Conclusions HCT is found to be correlated with the prevalence of
+nonalcoholic fatty liver disease.
+[Key words]  Nonalcoholic fatty liver disease; Hematocrit; Incidence
+(Chin J Endocrinol Metab, 2014, 30: 18-21)
+近年来,随着生活方式的改变,非酒精性脂肪性肝
+病( nonalcoholic fatty liver disease, NAFLD)发病率逐
+年升高, 是东西方国家常见的肝病之一 [1,2] , 患病
+率达到 15% ~ 30% [3] 。 已有研究表明,红细胞压积
+(hematocrit, HCT)与 NAFLD 发生密切相关,并且 HCT
+水平对 NAFLD 具有一定的辅助诊断价值。 但是这些
+研究基本停留在横断面的研究阶段,对 HCT 异常是否
+能引起 NAFLD 的发病风险增加还没有相关研究支持,
+本研究是通过 5 年的体检数据的观察性队列研究,探
+讨 HCT 与 NAFLD 发病的关系。
+对象和方法
+一、 对象
+选择江苏徐州地区 2006 年常规健康体检人群为
+研究对象,研究对象年龄 20 ~ 88 岁,共包括 3 012 名
+受试者,剔除饮酒史或饮酒折合乙醇量<140 g /周(女
+性<70 g /周)、脂肪肝、慢性病毒性肝炎、全胃肠外营
+养、自身免疫性肝病、大量饮酒者、药物性肝病等各种
+肝病患者以及资料不全者。 整理研究对象 2011 年的
+随访数据,剔除未参加体检者 46 人、失访者 168 人,失
+访率 7% ,有效例数为 2 798 名,其中男性 1 648 名,女
+性 1 150 名。 2011 年和 2006 年的体检项目相同,且均
+是在徐州市中心医院体检中心完成体检。 该研究由徐
+州市中心医院伦理委员会批准。
+二、 方法
+体检表格统一设计,由培训合格的医师进行询问,
+并记录一般情况、性别、年龄、既往史等。 特别对有饮
+酒习惯者,要详细记录其饮酒起止时间、饮酒次数和饮
+酒量等。 研究对象脱鞋,单衣测量体重、身高、腰围和
+腰臀比的测量:受试者取站位,双脚分开 25 ~ 30 cm,
+使体重均匀分配,在平稳呼吸时,在髂嵴和第 12 肋下
+缘连线的中点水平测量腰围;臀围在臀部骨盆最突出
+部测量周径。 腰臀比 =腰围 /臀围。 长度单位为 cm,
+重量单位为 kg,各指标同时测量 3 次取平均值。 体脂
+率:采用日本 TANITA 公司生产的人体组成分析仪,用
+生物电阻抗技术法测定体脂率。 计算体重指数 = 体
+重 /身高2(kg / m2)。 静坐 5 min 后用汞柱式标准袖带
+血压计测量右上臂收缩压及舒张压,手臂与心脏在同
+一水平,间隔 30 s 测量 3 次,取其平均值进行分析。 所
+有研究对象晚餐后禁食 10 h 以上,次日清晨空腹采肘
+静脉血。 采用酶法在日立 7600 全自动生化分析仪上
+检测空腹血糖、血清谷丙转氨酶、谷草转氨酶、总胆固
+醇、甘油三酯、高密度脂蛋白胆固醇(HDL-C)。 采用
+XE2100D5 全血细胞分析仪测定 HCT、红细胞、白细胞
+等血液指标。 固定一名专职 B 超医师行肝脏超声检
+查,出具统一的诊断报告。 B 超检查使用 HDI5000 型
+彩色多普勒超声仪,观察肝脏脂肪变性程度、肝右叶最
+大斜径、脾脏长径和脾脏的厚度等。
+将研究对象 2006 年体检数据按照 HCT 的水
+平[4-8]分为 2 组:A 组:HCT≤0. 49 L / L,2 538 例研究对
+象,B 组:HCT>0. 49 L / L,260 例研究对象。 分别观察
+其 2011 年的 NAFLD 的发病率和各代谢指标的变化。
+NAFLD 影像学诊断[9]:规定具备以下 3 项腹部超
+声表现中的 2 项者为弥漫性脂肪肝:(1)肝脏近场回
+声弥漫性增强(“明亮肝冶),回声强于肾脏;(2)肝内
+管道结构显示不清;(3)肝脏远场回声逐渐衰减。
+三、 统计学处理
+采用 SPSS 17. 0 统计软件进行统计分析,计量资
+料经正态性检验为正态分布用 x-± s 表示,非正态分布
+计量资料用四分位数间距表示,两独立样本采用 t 检
+验,非正态分布资料采用秩和检验。 计数资料采用卡
+方检验。 HCT 与其他指标相关强度采用 Pearson 相关
+系数表示。 相关风险性分析采用二分类非条件 logistic
+回归分析。 以 P<0. 05 为差异有统计学意义。
+结    果
+一、 一般情况
+B 组研究对象年龄、体重、体重指数、舒张压、甘油
+三酯、谷氨酰转肽酶、谷草转氨酶、谷丙转氨酶水平高
+于 A 组,差异有统计学意义(P<0. 01)。 而 B 组患者
+血清白蛋白、HDL-C 水平低于 A 组,差异有统计学意
+义(P<0. 01,表 1)。 采用 Pearson 相关系数描述各个
+指标的相关程度及方向。 其中 HCT 与各代谢指标的
+相关系数如下:身高 r = 0. 47(P<0. 01),体重 r = 0. 44
+(P<0. 01),舒张压 r = 0. 20(P<0. 01),甘油三酯 r =
+0. 22(P<0. 01),HDL-C r= -0. 27(P<0. 01),低密度脂
+蛋白胆固醇(LDL-C) r= -0. 07(P<0. 01),谷丙转氨酶
+r=0. 013(P<0. 01),谷草转氨酶 r=0. 11(P<0. 01),血
+清白蛋白 r = 0. 14(P<0. 01),血清总蛋白 r = -0. 11
+(P<0. 01),谷氨酰转肽酶 r=0. 22(P<0. 01)。
+二、 2 组各代谢指标 5 年变化差值的差异
+B 组研究对象体重、体重指数、舒张压、空腹血糖、
+表 1  2006 年 2 组研究对象的一般情况(x-± s)
+Tab 1  General data of the studied population of 2 groups in 2006(x-± s)
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+身高
+Height
+(cm)
+体重
+Weight
+(kg)
+体重指数
+Body mass index
+(kg / m2)
+舒张压
+Diastolic blood
+pressure
+(mmHg)
+空腹血糖
+Fasting plasma
+glucose
+(mmol / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+甘油三酯
+Triglycerides
+(mmol / L)
+A 2 538 41. 3 ± 12. 5 166. 3 ± 7. 6 65. 4 ± 10. 8 23. 6 ± 3. 0 75 ± 10 5. 3 ± 1. 0 4. 7 ± 0. 9 1. 2 ± 0. 9
+B 260 41. 6 ± 12. 2a 170. 1 ± 5. 3a 72. 0 ± 9. 0a 25. 0 ± 3. 0a 79 ± 10a 5. 3 ± 1. 1 4. 6 ± 0. 8 1. 6 ± 1. 0a
+组别
+Group
+例数
+n
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+谷丙转氨酶
+Alanine
+aminotransferase
+(U / L)
+谷草转氨酶
+Aspartate
+aminotransferase
+(U / L)
+血清总蛋白
+Serum total
+protein
+(g / L)
+血清白蛋白
+Serum albumin
+(g / L)
+谷氨酰转肽酶
+Glutamyl
+transpeptidase
+(U / L)
+A 2 538 1. 4 ± 0. 3 2. 8 ± 0. 7 15. 9 ± 14. 9 24. 5 ± 10. 7 75. 0 ± 4. 7 47. 0 ± 2. 3 18. 1 ± 13. 9
+B 260 1. 2 ± 0. 3a 2. 8 ± 0. 6 19. 4 ± 14. 7a 27. 0 ± 10. 4a 73. 8 ± 4. 8a 47. 3 ± 2. 5 24. 6 ± 20. 5
+注:A:红细胞压积 Hematocrit(HCT)≤0. 49 L / L;B:HCT>0. 49 L / L;1 mmHg = 0. 133 kPa;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-
+cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;与 A 组相比 vs A group, aP<0. 01
+表 2  2 组之间各代谢指标的 5 年(2006 年至 2011 年)变化值的差异[中位数(四分位数间距)]
+Tab 2  Change of the data between 2 groups during 5 years(2006-2011)[M(Quartile)]
+组别
+Group
+例数
+n
+体重
+Weight
+(kg)
+体重指数
+Body mass index
+(kg / m2)
+舒张压
+Diastolic blood
+pressure
+(mmHg)
+空腹血糖
+Fasting plasma
+glucose
+(mmol / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+甘油三酯
+Triglycerides
+(mmol / L)
+HDL-C
+(mmol / L)
+A 2 538 0. 00(-3. 00,4. 00)
+0. 00
+(-1. 16,1. 14)
+4. 00
+(-3. 00,12. 00)
+-0. 06
+(-0. 47,0. 37)
+-0. 02
+(-3. 14,0. 58)
+-0. 09
+(-0. 68,0. 34)
+0. 00
+(-3. 00,0. 22)
+B 260
+3. 00
+(0. 00,7. 25) a
+0. 72
+(-0. 30,2. 32) a
+7. 00
+(0. 00,15. 25) a
+0. 18
+(-0. 26,0. 65) a
+0. 04
+(-1. 77,0. 74)
+0. 05
+(-0. 81,0. 87) a
+0. 00
+(-0. 42,0. 15)
+组别
+Group
+例数
+n
+LDL-C
+(mmol / L)
+谷丙转氨酶
+Alanine
+aminotransferase
+(U / L)
+谷草转氨酶
+Aspartate
+aminotransferase
+(U / L)
+血清总蛋白
+Serum total
+protein
+(g / L)
+血清白蛋白
+Serum albumin
+(g / L)
+谷氨酰转肽酶
+Glutamyl
+transpeptidase
+(U / L)
+红细胞压积
+Hematocrit
+A 2 538 0. 06(-0. 37,0. 79)
+2. 00
+(-7. 00,8. 00)
+-7. 00
+(-16. 00,-2. 00)
+-1. 00
+(-7. 40,2. 50)
+0. 30
+(-3. 00,2. 10)
+3. 00
+(-6. 00,13. 00)
+-0. 80
+(-2. 60,1. 20)
+B 260
+0. 08
+(-0. 36,0. 89) a
+5. 00
+(-8. 00,15. 00) a
+-6. 50
+(-18. 00,0. 00)
+-0. 20
+(-6. 38,3. 30)
+0. 40
+(-2. 98,2. 10)
+11. 00
+(-5. 00,26. 25) a
+0. 12
+(-1. 83,1. 20) a
+注:A:红细胞压积 Hematocrit(HCT)≤0. 49 L / L;B:HCT>0. 49 L / L;1 mmHg = 0. 133 kPa;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-
+cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol; 与 A 组相比 vs A group, aP<0. 01
+甘油三酯、LDL-C、谷丙转氨酶、谷氨酰转肽酶、HCT 增
+加值大于 A 组,差异有统计学意义(P<0. 01,表 2)。
+三、 2 组研究对象 NAFLD 的发病率差异
+B 组 260 例研究对象中,5 年之后 69 例发生
+NAFLD,发病率为 26. 5% ,A 组 2 538 例研究对象中,
+405 例发生 NAFLD,发病率为 15. 9% ,差异有统计学
+意义(P<0. 01)。
+四、 COX 模型分析代谢指标与 NAFLD 的风险比
+体重指数、空腹血糖、谷丙转氨酶、LDL-C、HCT、
+总白蛋白、谷氨酰转肽酶等值的变化均对 NAFLD 的发
+生产生一定的影响。
+五、 多元 logistic 回归分析 HCT 与 NAFLD 发病的
+相关性
+未校正其他变量的情况下,HCT 每增加一个单
+位,NAFLD 发病风险增加 1. 045(1. 016 ~ 1. 074),进
+一步校正体重指数、空腹血糖、甘油三酯、总胆固醇、
+HDL-C、LDL-C、 谷丙转氨酶、 谷草转氨酶等变量,
+NAFLD 的发病风险依然存在,且差异有统计学意义。
+讨    论
+研究发现,许多疾病的发生常常伴随着血粘度的
+升高,现在已经证实与血粘度升高有关的疾病有:血
+栓[8]、炎症、心脑血管疾病、高脂血症等[9-14]。 血液中
+细胞的成分包括红细胞、白细胞、血小板等,其中红细
+胞占细胞总数的 95% ,是决定血粘度的一个重要因
+素,红细胞对血粘度的影响有几个方面,其中 HCT 是
+主要的决定性因素[15]。 现有证据表明,一些疾病的变
+化会引起 HCT 水平的变化,如镰状细胞性贫血[16]、高
+脂血症[16]、红细胞增多症等,郑东晗等[17] 在辽宁开展
+的社区人群红细胞压积与心血管病危险因素关系的研
+究表明,红细胞压积与心血管危险因素密切相关。
+有研究表明脂肪肝的发生率与血粘度密切相
+关[18],而 HCT 是血粘度的决定性因素,考虑可能是
+HCT 升高伴随着血粘度升高,血流减慢,从而使肝细
+胞内糖元减少和脂肪堆积增多[19]。 同时,铁代谢紊乱
+与 NAFLD 的发病密切相关,Mitsuyoshi 等[20] 研究表
+明,随着 NAFLD 病程发展,肝细胞脂肪变性的相关代
+谢减弱,但铁代谢紊乱进一步恶化。 冯烨等[21] 研究表
+明,NAFLD 组与对照组相比,不仅伴随着血清铁蛋白
+的增高,红细胞计数、血红蛋白和红细胞压积均明显升
+高,且差异有统计学意义。 由于 NAFLD 是一组很广泛
+的疾病谱,包括单纯性脂肪肝和非酒精性脂肪肝炎,病
+因较复杂,前者呈良性、非进展性临床过程,而后者是
+NAFLD 的一种严重类型,可能进展为肝纤维化、肝硬
+化及终末期肝病。 肝纤维化早期是可逆的,采用有效
+抗纤维化的治疗,包括消除病因、加速降解过程或诱导
+星状细胞凋亡,均有可能逆转病程。 因此及早发现
+NAFLD 发病的相关证据,对预防和治疗 NAFLD 意义
+重大。
+本研究结果显示 B 组研究对象年龄、体重、体重
+指数、舒张压、甘油三酯、谷氨酰转肽酶、谷草转氨酶、
+谷丙转氨酶水平高于 A 组,差异有统计学意义。 因
+HCT 的分组,2 组之间各代谢危险因素存在差异,提示
+各指标与 HCT 存在相关性。 进一步用 Pearson 相关分
+析各指标与 HCT 的相关性,发现体重、舒张压、甘油三
+酯、HDL-C、LDL-C 与 HCT 强相关(P<0. 01)。 B 组谷
+草转氨酶、谷丙转氨酶等指标高于 A 组,说明 HCT 与
+肝代谢指标存在相关性,HCT 的升高会引起肝代谢的
+异常。 比较 A、B 组 5 年各指标变化的差值,发现随着
+时间的推移,B 组体重、体重指数、舒张压、空腹血糖、
+甘油三酯、LDL-C、谷丙转氨酶、谷氨酰转肽酶的增加
+值大于 A 组,提示 HCT 异常可能会使机体进展为
+NAFLD 的时间加快,具体的相关证据需要进一步研
+究。
+本研究显示,A、B 组的 NAFLD 发病率存在差异,
+B 组发病率明显大于 A 组,提示 HCT 异常可能是引起
+NAFLD 的发病原因之一。 COX 模型分析代谢指标与
+NAFLD 的风险比发现,HCT 的变化所引起的 NAFLD
+的发生风险与体重指数、空腹血糖等相关不大,提示
+HCT 在 NAFLD 进展中的重要性。 用 logistic 回归分析
+评估 HCT 与 NAFLD 的发病风险,在未校正其他变量
+的情况下,HCT 每增加一个单位,NAFLD 发病风险增
+加 1. 045(1. 016 ~ 1. 074),进一步校正体重指数、空腹
+血糖、甘油三酯、总胆固醇、HDL-C、LDL-C、谷丙转氨
+酶、谷草转氨酶等变量,NAFLD 的发病风险依然存在。
+提示 HCT 与 NAFLD 的发病独立相关。
+在本研究中,HCT 按照 0. 49 L / L 水平分组,这是
+根据一些研究结果自行划定的,有结果显示 HCT 水平
+在不同地区、不同性别的人群中有差异,但 0. 49 L / L
+相对于华中地区是较高的值[4-8],本研究把高于 0. 49
+L / L 的认定为异常组,没有得到国内外的公认,是本研
+究的不足之处。
+通过 5 年观察,红细胞压积增高与 NAFLD 的发病
+密切相关,也与各代谢危险因素存在相关性。 可结合
+HCT 和代谢危险因素预测 NAFLD 的发病率,这对研
+究和制订社区肝纤维化干预策略,对降低心脑血管疾
+病的发生和改善预后具有重要意义。

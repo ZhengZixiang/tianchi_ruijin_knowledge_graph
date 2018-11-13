@@ -1,0 +1,222 @@
+基础研究
+基金项目:国家临床重点专科建设项目资助;重庆市卫生局科研基
+金(2012-2-041)
+冯正平、王小菊、邓华聪),实验研究中心(陈力学)
+miR-335-5p 对高糖状态下成骨细胞功能的
+影响
+李济伶  冯正平  陈力学  王小菊  邓华聪
+[摘要]   目的  观察 miR-335-5p 在高糖状态下对成骨细胞增殖、凋亡的影响并探讨其分子机制。
+方法 将MC3T3-E1 成骨细胞分为正常对照组、高糖组、agomir-335-5p 组及 agomir 阴性对照组(agomir NC
+组)。 采用四甲基偶氮唑蓝(MTT)比色分析法测定细胞增殖,流式细胞术检测细胞凋亡率,实时定量 PCR
+检测细胞 miR-335-5p 与 DKK1 mRNA 的表达,Western 印迹检测 DKK1 及 caspase-3 的蛋白表达水平。 结果
+与正常对照组相比,高糖组MC3T3-E1 成骨细胞 miR-335-5p mRNA 的表达与细胞增殖明显降低(P<0. 05),
+DKK1、caspase-3 的蛋白表达及细胞凋亡显著增加(P<0. 05)。 与高糖组和 agomir NC 组相比,agomir-335-5p
+组 miR-335-5p mRNA 的表达与细胞增殖显著增加(P<0. 05),DKK1、caspase-3 的蛋白表达及细胞凋亡显著
+减少(P<0. 05)。 结论 高糖通过下调 miR-335-5p 的表达,进而上调 DKK1 的表达,从而抑制 MC3T3-E1 成
+骨细胞的增殖,诱导细胞凋亡。
+[关键词]   miR-335-5p; 成骨细胞; 增殖; 凋亡
+Effects of miR-335-5p on the osteoblast function in high glucose condition Li Jiling*, Feng Zhengping, Chen
+Lixue, Wang Xiaoju, Deng Huacong. *Department of Endocrinology, the First Affiliated Hospital of Chongqing Medical
+University, Chongqing 400016, China
+[Abstract]   Objective   To investigate the effects of miR-335-5p on the proliferation and apoptosis of
+osteoblasts which were exposed to high glucose condition, and explore its possible molecular mechanisms. Methods
+MC3T3-E1 osteoblasts were divided into four groups: control group(5. 5 mmol / L glucose), high glucose group(HG
+group, 22. 0 mmol / L glucose), agomir-335-5p group( transfected with agomir-335-5p and exposed to 22. 0 mmol / L
+glucose), and agomir negative control group(agomir NC group, transfected with agomir negative control and exposed
+to 22. 0 mmol / L glucose), cultured for 7 days. Cell proliferaton, cell apoptosis, expressions of miR-335-5p and
+dickkopf homolog 1 (DKK1) mRNA, protein levels of DKK1 and cysteinyl aspartate-specific proteinase-3 (caspase-
+3) were detected using MTT, flow cytometry, quantitative realtime PCR and western blot, respectively. Results
+Compared with control group, the expression of miR-335-5p mRNA and cell proliferation in HG group were
+significantly decreased (P<0. 05), while cell apoptosis and the protein levels of DKK1 and caspase-3 were increased
+significantly (P < 0. 05), the expression of DKK1 mRNA did not change ( P > 0. 05) . The miR-335-5p mRNA
+expression and cell proliferation in agomir-335-5p group were higher than those in HG group and agomir NC group(P<
+0. 05) . However, Cell apoptosis and the protein levels of DKK1 and caspase-3 in agomir-335-5p group were lower
+than those in HG group(P<0. 05) . Conclusion High glucose inhibits the proliferation and induce the apoptosis of
+MC3T3-E1 osteoblast through decreasing the expression of miR-335-5p and subsequently increasing the DKK1
+expression.
+[Key words]  miR-335-5p; Osteoblast; Proliferation; Apoptosis
+(Chin J Endocrinol Metab, 2015, 31: 712-716)
+微小 RNA(microRNA, miRNA)是一类长约 22 ~
+24 个核苷酸的非编码单链小分子 RNA,通过与靶
+mRNA 的特异性结合导致其降解或抑制其翻译,对基
+因进行转录后的调控[1-3]。 研究表明,miRNA 几乎存
+在于所有真核生物和一些病毒中, 参与调控人类约
+1 / 3 的蛋白编码基因,在细胞的增殖、分化、凋亡、免
+疫、肿瘤及个体的生长发育中发挥了重要作用[4-7]。
+miR-335-5p 定位于 7q32. 2,其主要功能是参与肿
+瘤细胞的侵袭、转移及调控细胞骨架动力学等。 Zhang
+等[8]发现 miR-335-5p 在 MC3T3-E1 成骨细胞上高表
+达,并可通过下调 Wnt 通路的抑制剂 dickkopf homolog
+1 (DKK1)的表达,从而促进成骨细胞的分化。 另有报
+道,miR-335-5p 可通过 MAPK、Focal adhesion、ErbB 等
+信号通路调控成骨细胞的功能[9]。 但 miR-335-5p 对
+高糖状态下成骨细胞的增殖和凋亡的影响及其分子机
+制未见相关报道。 本研究通过观察高糖状态下
+MC3T3-E1 成骨细胞上 miR-335-5p 的表达变化,并进
+一步检测 DKK1 的表达,研究 miR-335-5p 对高糖状态
+下成骨细胞增殖和凋亡的影响及其分子机制,为糖尿
+病性骨病的防治提供理论依据。
+材料和方法
+一、 材料
+小鼠 MC3T3-E1 成骨细胞购自上海复祥生物科技
+有限公司, α-MEM 培养基购自 Hyclone 公司, Opti-
+MEM 购自 Gibco 公司(澳洲),RNA 提取试剂盒、逆转
+录试剂盒、PCR 试剂盒、引物及 LipofectamineTM 2000
+转染试剂盒均购自 Invitrogen 公司,DKK1 鼠源单克隆
+抗体购自 Abcam,cysteinyl aspartate-specific proteinase-3
+(caspase-3),兔源单克隆抗体购自 CST,辣根过氧化物
+酶(HRP)标记的 IgG 二抗购自碧云天公司,agomir-
+335-5p 及 agomir 阴性对照(agomir NC)购自上海吉玛
+公司。
+二、 方法
+1. 细胞培养及分组:MC3T3-E1 成骨细胞在添加
+10%胎牛血清、1%青链霉素的 α-MEM 培养基中培养。
+分为 4 组:正常对照组(葡萄糖浓度 5. 5 mmol / L)、高
+糖组 (葡萄糖浓度 22. 0 mmol / L)、 agomir-335-5p 组
+(agomir-335-5p 转染细胞 48 h 后,再与浓度为 22. 0
+mmol / L 的葡萄糖共培养)及 agomir NC 组( agomir NC
+转染细胞 48 h 后,再与浓度为 22. 0 mmol / L 的葡萄糖
+共培养),培养 7 d。
+2. 细胞转染:agomir-335-5p、agomir NC 试剂用无
+酶水稀释至浓度为 20 μmol / L 储存液,分装于-20℃保
+存。
+将 MC3T3-E1 成骨细胞按 1 ×105 /孔接种于 6 孔
+板,用不含双抗的 α-MEM 培养基培养,至细胞密度达
+到 30% ~ 50% 时,利用 LipofectamineTM 2000 进行转
+染,具体操作方法见转染试剂盒说明书。 细胞培养
+4 ~ 6 h 后,更换含 10% 胎牛血清 FBS 的 α-MEM 培养
+基,48 ~ 72 h 后收集细胞进行实时定量 PCR 及
+Western 印迹检测。
+确定最佳转染剂量 (6 孔板 agomir-335-5p 100
+pmol、96 孔板 agomir-335-5p 5 pmol)后,按上诉转染方
+法操作,48 h 后更换高糖(葡萄糖浓度 22 mmol / L)的
+α-MEM 培养基,继续培养 7 d,收集细胞进行后续实
+验。
+3. MC3T3-E1 成骨细胞增殖能力的检测:采用四
+甲基偶氮唑蓝(MTT)比色分析法检测 MC3T3-E1 成骨
+细胞的增殖能力。
+4. MC3T3-E1 成骨细胞凋亡率的检测:采用流式
+细胞术检测 MC3T3-E1 成骨细胞的凋亡率。
+5. MC3T3-E1 成骨细胞上 miR-335-5p 及 DKK1
+mRNA 表达的检测:实时定量 PCR 检测 MC3T3-E1 成
+骨细胞 miR-335-5p 及 DKK1 mRNA 的表达。 引物序
+列见表 1。
+6. MC3T3-E1 成骨细胞 DKK1 及 caspase-3 的蛋白
+表达的检测:Western 印迹检测 MC3T3-E1 成骨细胞上
+DKK1 及 caspase-3 蛋白的表达。
+三、 统计学处理
+用 SPSS 19. 0 统计软件进行数据分析。 数据以
+x-± s 表示,两组比较采用两独立样本均数 t 检验,多组
+比较采用单因素方差分析,以 P<0. 05 为差异有统计
+学意义。
+结    果
+一、 MC3T3-E1 成骨细胞 miR-335-5p 与 DKK1
+mRNA 的表达
+实时定量 PCR 结果显示, 与正常对照组相比, 高
+表 1  miR-335-5p、DKK1、β-actin 及 U6 引物序列
+Tab 1  Primer sequences for miR-335-5p, DKK1, β-actin, and U6
+基因
+Gene
+类型
+Type
+引物序列
+Primersequence
+(5'-3')
+miR-335-5p RT GTCGTATCCAGTGCAGGGTCCGAGGTATTCGCACTGGATACGACACATTT
+PCR F: GCGTCAAGAGCAATAACG
+R:GTGCAGGGTCCGAGGT
+DKK1 PCR F:CTCATCAATTCCAACGCGATCA
+R:GCCCTCATAGAGAACTCCCG
+β-actin PCR F:CACGATGGAGGGGCCGGACTCATC
+R:TAAAGACCTCTATGCCAACACAGT
+U6 RT CGCTTCACGAATTTGCGTGTCAT
+PCR F:TGCAGAGGATCTAATT
+R:GAAAGACCAGTCCAAGTCC
+注: DKK1: Dickkopf homolog 1; RT: 逆转录; F: 正义 Forward; R: 反义 Reverse
+注:DKK1: Dickkopf homolog 1; Control: 对照组; HG: 高糖组 High
+glucose group; NC: 阴性对照 Negative control;vs Control, aP<0. 05;vs HG,
+bP<0. 05
+图 1  不同组别 MC3T3-E1 成骨细胞 miR-335-5p 与 DKK1 mRNA 的表达
+Fig 1  Relative expressions of miR-335-5p and DKK1 mRNA in each group
+糖组 MC3T3-E1 成骨细胞 miR-335-5p mRNA 的表达明
+显降低(P<0. 05);而与高糖组和 agomir NC 组相比,
+agomir-335-5p 组 MC3T3-E1 成骨细胞 miR-335-5p 的
+表达显著增加(P<0. 05);DKK1 mRNA 的表达在 4 组
+间差异无统计学意义(图 1)。
+二、 miR-335-5p 对 MC3T3-E1 成骨细胞增殖能力
+的影响
+MTT 结果显示, 与正常对照组相比, 高糖组
+MC3T3-E1 成骨细胞的增殖能力下降 57. 03% (P <
+0. 05);过表达 miR-335-5p 后,成骨细胞的增殖能力较
+高糖组升高 117. 22% ,差异有统计学意义(P<0. 05,图
+2)。
+注: Control: 对照组; HG: 高糖组 High glucose group; NC: 阴性对照
+Negative control;vs Control, aP<0. 05;vs HG, bP<0. 05
+图 2  不同组别 MC3T3-E1 成骨细胞的增殖能力
+Fig 2  Proliferation ability of MC3T3-E1 osteoblast in each group
+注: Control: 对照组; HG: 高糖组 High glucose group; NC: 阴性对照 Negative control; PI: 碘化丙啶 Propidium iodide; Annexin吁: 膜联蛋白吁
+图 3  不同组别 MC3T3-E1 成骨细胞的凋亡率
+Fig 3  Apoptosis rate of MC3T3-E1 osteoblast in each group
+三、 miR-335-5p 对 MC3T3-E1 成骨细胞凋亡的影响
+流式细胞术结果显示,高糖组 MC3T3-E1 成骨细
+胞的凋亡率较正常对照组增加 116. 29% (P<0. 05);
+过表达 miR-335-5p 后,成骨细胞的凋亡率较高糖组减
+少 40. 10% ,差异有统计学意义(P<0. 05,图 3)。
+四、 MC3T3-E1 成骨细胞 DKK1 与 caspase-3 蛋白
+的表达
+Western 印迹结果显示,高糖组 MC3T3-E1 成骨细
+胞 DKK1 与 caspase-3 的蛋白表达较正常对照组明显
+增加(P<0. 05);而 agomir-335-5p 组MC3T3-E1 成骨细
+胞 DKK1 与 caspase-3 的蛋白表达较高糖组与 agomir
+NC 组显著降低(P<0. 05,图 4)。
+注: Control: 对照组; HG: 高糖组 High glucose group; NC: 阴性对照
+Negative control; vs Control, aP<0. 05;vs HG, bP<0. 05
+图 4  不同组别 MC3T3-E1 成骨细胞 DKK1 与 caspase-3 的蛋白表达
+Fig 4  Relative protein expressions of DKK1 and caspase-3 in each group
+讨    论
+糖尿病与骨质疏松症均是常见的代谢性疾病,糖
+尿病性骨质疏松的发病率亦越来越高。 成骨细胞是骨
+形成的主要功能细胞,其主要合成、分泌骨基质,参与
+骨矿化,在骨重建过程中起关键作用。 当成骨细胞的
+功能下降或数量不足时,骨吸收大于骨形成,导致骨量
+降低,骨折风险增加,从而引起骨质疏松。
+miR-335-5p 是 miR-335 的 一 个 亚 型, 定 位 于
+7q32. 2,参与调控机体多种病理生理过程。 如参与胃
+癌细胞的侵袭转移、调控卵母细胞的细胞骨架动力学、
+影响肥胖患者白色脂肪组织的细胞功能、参与衰老的
+发展等,也有望成为治疗湿性老年性黄斑变性的一种
+新疗法[10-14]。 另有文献报道,miR-335-5p 可通过下调
+Wnt 通路的抑制剂 DKK1 的表达,从而促进成骨细胞
+的分化,也可通过多条信号通路影响成骨细胞的功能。
+本研究发现,高糖组 MC3T3-E1 成骨细胞的增殖下降,
+凋亡率与 caspase-3 的蛋白表达增加,这与既往的研究
+结果类似[15]。 同时,本研究也发现高糖组 MC3T3-E1
+成骨细胞 miR-335-5p 的表达较正常对照组显著下调,
+提示 miR-335-5p 参与调控了成骨细胞的功能。
+DKK1 是一种强大的 Wnt 信号通路的抑制剂,其
+编码基因位于 10q11。 体 内 外 实 验 证 明, Wnt / β-
+catenin 信号可促进间充质干细胞向成骨细胞分化及
+成骨细胞的增殖和成熟, DKK1 过表达可导致 β-
+catenin 水平降低,从而抑制成骨细胞分化,并促进成
+骨细胞凋亡[16-18]。 而 Zhang 等[8] 已证实, DKK1 是
+miR-335-5p 的靶基因,其 3忆UTR 存在 miR-335-5p 的结
+合位点。 本研究发现,高糖组 MC3T3-E1 成骨细胞的
+DKK1 的蛋白水平增加,而 DKK1 mRNA 表达无明显变
+化,这符合 miRNA 的转录后调控机制。
+为进一步验证 miR-335-5p 是否通过调控 DKK1
+的表达来影响 MC3T3-E1 成骨细胞的功能,本研究通
+过转染 agomir-335-5p,从而过表达 MC3T3-E1 成骨细
+胞的 miR-335-5p,观察成骨细胞功能的变化。 结果发
+现,agomir-335-5p 组 MC3T3-E1 成骨细胞 miR-335-5p
+的表达较高糖组与 agomir NC 组显著上调,细胞的增
+殖亦显著增加,而细胞的凋亡率、caspase-3 及 DKK1 的
+蛋白表达均明显减少。 提示 miR-335-5p 可通过抑制
+DKK1 的表达,从而促进 MC3T3-E1 成骨细胞的增殖,
+抑制其凋亡。
+综上所述,本研究结果表明高糖可下调 MC3T3-
+E1 成骨细胞 miR-335-5p 的表达,进而上调 DKK1 的
+表达,从而抑制 MC3T3-E1 成骨细胞的增殖,诱导其凋
+亡,过表达 miR-335-5p 能够部分逆转高糖诱导的成骨
+细胞凋亡、促进成骨细胞的增殖,提示 miR-335-5p 有
+可能成为治疗糖尿病性骨质疏松的一个潜在靶点,从
+而为糖尿病性骨质疏松的防治提供理论依据。

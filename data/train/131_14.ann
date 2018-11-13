@@ -1,0 +1,335 @@
+T1	Disease 4663 4669	2 型糖尿病
+T2	Disease 6354 6360	2 型糖尿病
+T3	Disease 7266 7267;7268 7272	2 型糖尿病
+T4	Drug 350 353	利尿剂
+T5	Drug 419 422	利尿剂
+T6	Drug 469 473	氢氯噻嗪
+T7	Test 478 480	血钠
+T8	Drug 524 527	利尿剂
+T9	Test 552 554	血钠
+T10	Drug 572 575	利尿剂
+T11	Disease 577 581	低钠血症
+T12	Disease 583 589	水电解质紊乱
+T13	Drug 1477 1480	利尿剂
+T14	Drug 1533 1536	利尿剂
+T15	Drug 1577 1580	利尿剂
+T16	Level 1596 1598	轻者
+T17	Level 1606 1608	重者
+T18	Symptom 1611 1613	昏迷
+T19	Drug 1632 1635	利尿剂
+T20	Drug 1660 1663	利尿剂
+T21	Drug 1700 1703	利尿剂
+T22	Disease 1705 1708	高血压
+T23	Drug 1719 1722	利尿剂
+T24	Drug 1772 1775	利尿剂
+T25	Drug 1799 1802	利尿剂
+T26	Drug 2185 2188	利尿剂
+T27	Drug 2189 2192	呋塞米
+T28	Drug 2193 2197	托拉塞米
+T29	Drug 2198 2202	布美他尼
+T30	Drug 2203 2207	氢氯噻嗪
+T31	Drug 2208 2211	氯噻酮
+T32	Drug 2213 2217	美托拉宗
+T33	Drug 2218 2222	吲达帕胺
+T34	Drug 2223 2226	螺内酯
+T35	Drug 2227 2231	氨苯蝶啶
+T36	Drug 2232 2236	阿米洛利
+T37	Disease 2328 2332	低钠血症
+T38	Test 2336 2342	血清 Na+
+T39	Disease 2357 2361	低钠血症
+T40	Drug 2372 2376	利尿药物
+T41	Drug 2388 2392	利尿药物
+T42	Test 2413 2416	血清钠
+T43	Drug 2435 2437;2438 2439	利尿 剂
+T44	Test 2554 2556	血钠
+T45	Disease 2566 2570	低钠血症
+T46	Test 2576 2579	皮质醇
+T47	Test 2580 2585	甲状腺功能
+T48	Drug 2596 2600	利尿药物
+T49	Disease 2620 2624	低钠血症
+T50	Disease 2637 2641	低钠血症
+T51	Drug 2943 2947	氢氯噻嗪
+T52	Test 2954 2956	血钠
+T53	Test 3358 3359;3360 3361	血 钠
+T54	Test_Value 3363 3379	111. 84 mmol / L
+T55	Drug 3406 3409	利尿剂
+T56	Drug 3439 3441;3442 3446	噻嗪 类利尿剂
+T57	Drug 3451 3455	氢氯噻嗪
+T58	Drug 3457 3461	阿米洛利
+T59	Drug 3469 3472	呋塞米
+T60	Drug 3481 3485	吲达帕胺
+T61	Disease 3492 3495	高血压
+T62	Disease 3515 3522	充血性心力衰竭
+T63	Symptom 3550 3552	乏力
+T64	Symptom 3553 3555	恶心
+T65	Symptom 3556 3558	呕吐
+T66	Symptom 3565 3569	意识障碍
+T67	Symptom 3570 3572	抽搐
+T68	Drug 3584 3588	氢氯噻嗪
+T69	Test 3597 3599	血钠
+T70	Disease 3691 3695	低钠血症
+T71	Disease 3697 3700	败血症
+T72	Disease 3704 3708	低钠血症
+T73	Test 3711 3713	血钠
+T74	Disease 3798 3802	低钠血症
+T75	Test 3814 3815;3816 3817	血 钠
+T76	Test 3834 3836	血钠
+T77	Drug 3870 3873	利尿剂
+T78	Drug 3919 3925	噻嗪类利尿剂
+T79	Drug 3935 3936;3937 3940	袢 利尿剂
+T80	Drug 3959 3964	保钾利尿剂
+T81	Test 3971 3973	血钠
+T82	Drug 4007 4013	噻嗪类利尿剂
+T83	Drug 4127 4130	利尿剂
+T84	Reason 4143 4145	高龄
+T85	Drug 4555 4557;4558 4567	血管 紧张素转换酶抑制剂
+T86	Drug 4568 4572	ACEI
+T87	Drug 4574 4584	血管紧张素受体阻断剂
+T88	Drug 4585 4588	ARB
+T89	Drug 4591 4606	选择性 5-羟色胺再摄取抑制剂
+T90	Drug 4607 4611	SSRI
+T91	Drug 4613 4617	抗抑郁药
+T92	Disease 4645 4649	高脂血症
+T93	Disease 4650 4652;4653 4655	低钾 血症
+T94	Disease 4656 4662	胃食管返流病
+T95	Disease 4670 4674	尿路感染
+T96	Drug 4706 4709	利尿剂
+T97	Level 4720 4722	轻者
+T98	Symptom 4737 4739	恶心
+T99	Symptom 4740 4742	呕吐
+T100	Symptom 4743 4745	乏力
+T101	Symptom 4746 4748	头昏
+T102	Symptom 4756 4762	神经系统症状
+T103	Symptom 4764 4766	眩晕
+T104	Symptom 4767 4771	意识障碍
+T105	Symptom 4772 4774	抽搐
+T106	Disease 4797 4801	低钠血症
+T107	Test 4808 4809;4810 4811	血 钠
+T108	Reason 4850 4853	噻嗪类
+T109	Disease 4855 4859	低钠血症
+T110	Drug 4907 4910	利尿剂
+T111	Test 4915 4917	血钠
+T112	Drug 5009 5012	利尿剂
+T113	Test 5056 5058	血钾
+T114	Test_Value 5062 5082	2. 2 ~ 3. 4 mmol / L
+T115	Test 5103 5105	血镁
+T116	Test_Value 5109 5130	0. 6 ~ 1. 23 mmol / L
+T117	Test 5150 5152	血磷
+T118	Test_Value 5154 5174	1. 7 ~ 2. 4 mmol / L
+T119	Drug 5200 5203	利尿剂
+T120	Drug 5251 5257	噻嗪类利尿剂
+T121	Test 4873 4875	体重
+T122	Test 4422 4424	体重
+T123	Drug 5286 5290	袢利尿剂
+T124	Drug 5345 5350	保钾利尿剂
+T125	Test 5356 5358	血钠
+T126	Drug 5383 5388	保钾利尿剂
+T127	Anatomy 5397 5399;5400 5401	集合 管
+T128	Drug 5444 5448	氢氯噻嗪
+T129	Drug 5491 5497	噻嗪类利尿剂
+T130	Test 5529 5531	血钠
+T131	Drug 5547 5553	噻嗪类利尿剂
+T132	Anatomy 5556 5558	肾脏
+T133	Anatomy 5577 5581	烦渴中枢
+T134	Drug 5604 5610	噻嗪类利尿剂
+T135	Anatomy 5626 5629	肾小球
+T136	Anatomy 5640 5645	近侧肾单位
+T137	Drug 5675 5678	利尿剂
+T138	Drug 5806 5809	利尿剂
+T139	Reason 5786 5790	ACEI
+T140	Reason 5791 5794	ARB
+T141	Reason 5795 5799	SSRI
+T142	Drug 5852 5858	噻嗪类利尿剂
+T143	Reason 5845 5849	ACEI
+T144	Anatomy 5891 5905	肾素-血管紧张素-醛固酮系统
+T145	Symptom 5965 5968	水潴留
+T146	Anatomy 5984 5988	烦渴中枢
+T147	Symptom 5995 5999	血钠稀释
+T148	Drug 6001 6005	ACEI
+T149	Anatomy 6010 6013	肾小管
+T150	Test 6032 6034	血钠
+T151	Drug 6038 6042	SSRI
+T152	Drug 6044 6049	抗抑郁药物
+T153	Drug 6107 6110	利尿剂
+T154	Drug 6231 6234	利尿剂
+T155	Symptom 6257 6259	恶心
+T156	Symptom 6260 6262	呕吐
+T157	Symptom 6263 6265	乏力
+T158	Symptom 6266 6268	头昏
+T159	Disease 6281 6285	低钠血症
+T160	Disease 6291 6296	低钠性脑病
+T161	Symptom 6301 6303	眩晕
+T162	Symptom 6304 6308	意识障碍
+T163	Symptom 6309 6311	跌倒
+T164	Symptom 6312 6314	抽搐
+T165	Disease 6337 6341	高脂血症
+T166	Disease 6342 6346	低钾血症
+T167	Disease 6347 6353	胃食管返流病
+T168	Disease 6361 6365	尿路感染
+T169	Disease 6397 6401	尿路感染
+T170	Disease 6437 6441	尿路感染
+T171	Disease 6460 6463;6464 6465	低钾血 症
+T172	Drug 6547 6548;6549 6551	利 尿剂
+T173	Drug 6564 6567	利尿剂
+T174	Test 6569 6571	血钠
+T175	Disease 6613 6617	低钠血症
+T176	Disease 6665 6668	败血症
+T177	Disease 6672 6676	低钠血症
+T178	Test 6679 6681	血钠
+T179	Reason 6713 6716	利尿剂
+T180	Disease 6718 6722	低钠血症
+T181	Drug 6846 6847;6848 6850	利 尿剂
+T182	Drug 6887 6891	氢氯噻嗪
+T183	Drug 6904 6906;6907 6908	利尿 剂
+T184	Test 6913 6915	血钠
+T185	Drug 7006 7009	利尿剂
+T186	Reason 7027 7029	高龄
+T187	Reason 7030 7032	女性
+T188	Reason 7033 7036	低体重
+T189	Drug 7060 7063	利尿剂
+T190	Drug 7091 7094	利尿剂
+T191	Level 7121 7123	严重
+T192	Test 7150 7152	血钠
+T193	Test 7157 7159	血钠
+T194	Drug 7170 7171;7172 7174	利 尿剂
+T195	Test 7179 7181	血钠
+T196	Test 7203 7205	血钠
+T197	Test 7211 7213	血钠
+T198	Drug 7228 7232	ACEI
+T199	Drug 7234 7237	ARB
+T200	Drug 7238 7242	SSRI
+T201	Disease 7249 7253	高脂血症
+T202	Disease 7254 7258	低钾血症
+T203	Disease 7259 7265	胃食管返流病
+T204	Disease 7273 7277	尿路感染
+T205	Disease 7304 7308	低钠血症
+T206	Drug 7332 7335	利尿剂
+T207	Disease 7349 7352;7353 7354	低钠血 症
+T208	Test 7364 7366	血钠
+T209	Disease 7373 7377	低钠血症
+T210	Drug 7383 7386	利尿剂
+T211	Disease 7399 7403	低钠血症
+T212	Disease 7414 7418	低钠血症
+T213	Reason 7488 7492	营养不良
+T214	Reason 7493 7497	酒精中毒
+T215	Reason 7498 7503	进行性肝病
+T216	Disease 7515 7519	低钠血症
+T217	Test 4474 4476	体重
+T218	Level 3559 3560;3561 3562	严 重
+T219	Reason 5416 5426	Na+ 的重吸收减少
+T220	Test 5909 5915	血管紧张素I
+T221	Test 5918 5924	血管紧张素2
+T222	Test 5938 5940	肾素
+T223	Test 5948 5953	抗利尿激素
+T224	Test 5973 5978	血管紧张素
+T225	Level 6245 6247	轻者
+T226	Symptom 6535 6537	低钠
+T227	Test_Value 6645 6655	0. 6 mmol·
+T228	Disease 290 293	糖尿病
+T229	Disease 279 286	内分泌代谢疾病
+T230	Drug 566 570	氢氯噻嗪
+T231	Drug 1485 1489	降压药物
+T232	Disease 1458 1461	高血压
+T233	Symptom 1599 1604	无明显症状
+T234	Symptom 3573 3579	神经系统症状
+T235	Reason 4322 4324	女性
+T236	Test_Value 4480 4484	5 kg
+T237	Test_Value 5533 5534;5535 5536	降 低
+T238	Reason 5541 5546	饮水量增加
+T239	Reason 5594 5596;5597 5603	减少 自由水的排泄
+T240	Test 5566 5570	尿渗透压
+T241	Symptom 5992 5994	多饮
+T242	Reason 6423 6431	增加了液体的摄入
+T243	Duration 7430 7434	24 h
+T244	Duration 7463 7467	48 h
+T245	Test 7534 7536	血钠
+T246	Symptom 4723 4728	无明显症状
+T247	Test_Value 5570 5572	升高
+T248	Reason 6520 6532	损害了正常的渗透调节功能
+T249	Test_Value 6571 6573	降低
+T250	Test_Value 7161 7163	降低
+T251	Test_Value 7183 7193	降低不明显或没有变化
+T252	Duration 7064 7067	2 周
+T253	Duration 7112 7115	3 d
+T254	Duration 7142 7145	3 d
+T255	SideEff 355 359	低钠血症
+T256	SideEff 424 428	低钠血症
+T257	SideEff 1539 1543	低钾血症
+T258	SideEff 1544 1548	低镁血症
+T259	SideEff 1549 1553;1554 1555	糖代谢异 常
+T260	SideEff 1556 1561	高尿酸血症
+T261	SideEff 1584 1588	低钠血症
+T262	Disease 1616 1618	死亡
+T263	SideEff 1637 1641	低钠血症
+T264	SideEff 1777 1781	低钠血症
+T265	Disease 2237 2241	低钠血症
+T266	Disease 2243 2247	血钠消耗
+T267	Disease 2248 2251	钠失衡
+T268	Disease 2252 2256	血钠降低
+T269	Disease 2257 2263	水电解质失衡
+T270	Test_Value 2343 2347;2348 2356	<135 mmol / L
+T271	SideEff 2383 2387	低钠血症
+T272	SideEff 2796 2800	低钠血症
+T273	Test_Value 3379 3398	(101 ~ 129 mmol / L
+T274	SideEff 3663 3664;3665 3668	低 钠血症
+T275	Disease 3730 3738	渗透性脱髓鞘改变
+T276	Test_Value 3817 3830	<130 mmol / L
+T277	Test_Value 3836 3849	<135 mmol / L
+T278	SideEff 3875 3879	低钠血症
+T279	SideEff 4131 4135	低钠血症
+T280	SideEff 4290 4293;4294 4295	低钠血 症
+T281	SideEff 4711 4715	低钠血症
+T282	Level 4750 4752	严重
+T283	Test_Value 4811 4824	<130 mmol / L
+T284	Test_Value 4922 4933	5. 5 ± 1. 1
+T285	Test_Value 4936 4947	1. 2 ± 0. 4
+T286	Test_Value 4950 4961	1. 8 ± 0. 9
+T287	SideEff 5013 5017	低钠血症
+T288	SideEff 5029 5034	电解质紊乱
+T289	SideEff 5040 5044	低钾血症
+T290	SideEff 5086 5090	低镁血症
+T291	SideEff 5132 5136	低磷血症
+T292	SideEff 5205 5209	低钠血症
+T293	SideEff 5258 5262	低钠血症
+T294	Test_Value 4424 4442	(74. 0 ± 21. 7) kg
+T295	Test_Value 4444 4462	(88. 2 ± 22. 6) kg
+T296	SideEff 5291 5295	低钠血症
+T297	Anatomy 5390 5392	肾脏
+T298	Anatomy 5392 5396	远曲小管
+T299	SideEff 5430 5434	低钠血症
+T300	SideEff 5450 5454	低钠血症
+T301	Anatomy 5486 5488	肾脏
+T302	Anatomy 5503 5505	肾脏
+T303	Anatomy 5506 5510	远曲小管
+T304	SideEff 5680 5684	低钠血症
+T305	SideEff 5723 5727	低钠血症
+T306	SideEff 5810 5814	低钠血症
+T307	SideEff 5860 5864	低钠血症
+T308	Drug 5883 5887	ACEI
+T309	Anatomy 6019 6022	醛固酮
+T310	SideEff 6052 6054;6055 6057	低钠 血症
+T311	Disease 6063 6075	抗利尿激素异常分泌综合征
+T312	SideEff 6112 6116	低钠血症
+T313	SideEff 6236 6240	低钠血症
+T314	Level 6277 6279	急性
+T315	Level 6279 6281	重度
+T316	Reason 6420 6422	尿频
+T317	Reason 6474 6490;6491 6494	血钠浓缩依赖于体液中可交换的钠和 钾比例
+T318	Reason 6495 6507	低钾可造成钠向细胞内转移
+T319	Reason 6508 6518	刺激血管加压素的释放
+T320	SideEff 6552 6556	低钠血症
+T321	Disease 6698 6706	渗透性脱髓鞘改变
+T322	SideEff 6851 6855	低钠血症
+T323	SideEff 6893 6897	低钠血症
+T324	SideEff 7010 7014	低钠血症
+T325	SideEff 7070 7074	低钠血症
+T326	SideEff 7097 7101	低钠血症
+T327	SideEff 7123 7127	低钠血症
+T328	Level 7442 7458	10 ~ 12 mmol / L
+T329	Test_Value 7469 7474;7475 7483	小于 18 mmol / L
+T330	Test_Value 7538 7539;7540 7553	不 超过 8 mmol / L
+T331	Disease 7561 7569	渗透性脱髓鞘病变
+T332	Disease 7586 7594	渗透性脱髓鞘改变
+T333	Disease 7601 7603;7604 7608	慢性 低钠血症
+T334	Reason 4412 4413;4414 4416	低 体重
+T335	Reason 5713 5714;5715 5717	低 体重

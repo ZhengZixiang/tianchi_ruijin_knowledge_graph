@@ -1,0 +1,393 @@
+糖尿病肾病
+项目基金:湖北省自然科学基金项目(2011CHC001)
+林双),医学实验科(李德忠)
+AT1 受体自身抗体对厄贝沙坦抑制糖尿病
+肾病大鼠肾脏内质网应激相关信号的影响
+徐春艳  赵林双  李德忠
+[摘要]   目的  探讨血管紧张素21 型受体自身抗体(AT1 -AA)对厄贝沙坦(Irbesartan,Irb)抑制糖尿
+病肾脏病(DN)大鼠肾脏内质网应激(ERS)相关凋亡信号通路的影响。 方法 建立 DN 模型大鼠,ELISA
+法检测成模 DN 大鼠血清 AT1 -AA。 将 AT1 -AA 阳性和阴性 DN 大鼠分到 DN 组和 Irb 干预组中,并设正常
+对照(NC)组。 Irb 干预 4 周,观察肾脏超微结构变化,TUNEL 法检测肾脏细胞凋亡,Western 印迹和 RT-
+PCR 技术测定肾脏 ERS 标志蛋白葡萄糖调节蛋白 78(GRP78)及凋亡蛋白 CCAAT /增强子结合蛋白同源蛋
+白(CHOP)、磷酸化的 c-Jun 氨基末端激酶( p-JNK)和半胱氨酸天冬氨酸蛋白酶 12(Caspase12)蛋白及
+mRNA 水平。 结果 DN 组大鼠肾脏细胞凋亡较 NC 组显著增加,其 GRP78、CHOP、p-JNK 和 Caspase12 蛋
+白及 mRNA 表达也显著增加,Irb 干预后明显降低(均 P<0. 01),在 AT1 -AA 阳性大鼠较阴性大鼠降低尤为
+显著(均 P<0. 05)。 DN 组 AT1 -AA 阳性大鼠细胞凋亡率及这 4 个基因的蛋白和 mRNA 水平均高于 AT1 -AA
+阴性大鼠(均 P<0. 05)。 结论 AT1 -AA 可能与 DN 大鼠肾脏 ERS 介导的肾脏细胞凋亡有关,并在 Irb 抑制
+ERS 相关的 CHOP-JNK-Caspase12 凋亡信号、减少细胞凋亡、保护肾脏功能中起作用。
+[关键词]   AT1受体自身抗体; 厄贝沙坦; 内质网应激; 凋亡; 糖尿病肾病
+Role of AT1 receptor autoantibody in irbesartan-inhibited signaling of endoplasmic reticulum stress in rat
+kidney with diabetic nephropathy Xu Chunyan*, Zhao Linshuang, Li Dezhong. *Department of Endocrinology,
+Wuhan General Hospital of Guangzhou Command, Wuhan 430070, China
+[Abstract]   Objective   To investigate the role of AT1 receptor autoantibody ( AT1 -AA) in the inhibitory
+action of irbesartan on endoplasmic reticulum stress ( ERS)-related apoptotic signals in rat kidney with diabetic
+nephropathy (DN). Methods DN model rats were induced by high-sugar and high-fat diet plus intraperitoneal
+injection of streptozotocin, and the serum level of AT1 -AA was detected by ELISA. These DN rats with positive or
+negative AT1 -AA were divided into DN group and irbesartan treated group. After 4 weeks of irbesartan treatment,
+TUNEL staining was used to detect renal cell apoptosis. The protein and mRNA expressions of ERS chaperone protein
+glucose-regulated protein 78 (GRP78) and ERS-associated apoptosis proteins were determined by Western blot and
+RT-PCR. Results Compared with NC group, the apoptosis rate of renal cells in DN group was obviously increased,
+along with the increased expressions of GRP78, C / EBP homology protein(CHOP), phosphorylated c-Jun N-terminal
+kinase (JNK), and Caspase12 protein and mRNA(all P<0. 01) . The cell apoptosis and protein and mRNA levels of
+these genes were significantly decreased after irbesartan treatment( all P<0. 01),especially in AT1 -AA positive DN
+rats(all P<0. 05) . The renal cell apoptosis rate, and protein and mRNA levels of these four genes in AT1 -AA positive
+DN group were much greater than those in AT1 -AA negative DN group(all P<0. 05) . Conclusions AT1 -AA may be
+involved in ERS-related cell apoptosis in the kidney of DN rats, and play a role in irbesartan-improved renal function
+via inhibiting ERS-associated CHOP-JNK-Caspase12 apoptotic signals and renal cell apoptosis.
+[Key words]   AT1 receptor autoantibody; Irbesartan; Endoplasmic reticulum stress; Apoptosis; Diabetic
+nephropathy
+(Chin J Endocrinol Metab, 2015, 31: 400-405)
+糖尿病肾脏病( diabetic nephropathy,DN)是糖尿
+病常见而严重的微血管并发症,已逐渐成为人类健康
+的重要威胁,但因 DN 发病机制复杂,临床中 DN 患者
+肾功能的逐渐衰减且个体差异明显的原因尚不完全清
+楚,迄今为止仍无有效防治 DN 的方法。 前期研究发
+现,G 蛋白耦联受体自身抗体相关的免疫反应参与了
+DN 的病理过程[1],其中血管紧张素21 型(AT1)受体
+自身抗体(AT1 receptor autoantibody,AT1 -AA)在 DN 病
+程中的具体作用机制尚未明确。 研究表明,DN 时肾
+素-血管紧张素系统(RAS)的活化会引起肾脏内质网
+应激( endoplasmic reticulum stress,ERS)反应,且持续
+存在的 ERS 能激活多条凋亡途径引起肾脏细胞凋
+亡[2],而 AT1受体拮抗剂可抑制 ERS 介导的肾脏细胞
+凋亡[3],但目前有关 AT1 -AA 与 DN 肾脏 ERS 的文献
+报道尚少。 因此,本研究构建 DN 大鼠模型,通过观察
+厄贝沙坦( Irbesartan,Irb)对 AT1 -AA 阳性 DN 大鼠肾
+脏 ERS 相关凋亡分子的影响,以明确 AT1 -AA 在 Irb
+抗细胞凋亡,改善肾功能中的作用。
+材料和方法
+一、 材料
+1. 实验动物:36 只 4 周龄雄性 SD 大鼠,购自武汉
+大学动物实验中心。 饲养环境:室温 20℃ ~ 24℃,相
+对湿度 40% ~ 60% ,12 h 交替照明,均以基础饲料喂
+养,自由摄食饮水。
+2. 主要试剂:链脲佐菌素(STZ,Sigma 公司);Irb
+片( Sanofi-anvitis 公 司 ); TUNEL 细 胞 凋 亡 试 剂 盒
+(Promega 公司);BCA 蛋白定量试剂盒(碧云天生物技
+术有限公司),葡萄糖调节蛋白 78 ( GRP78 ) 抗体
+(Bioworld 公司),CCAAT /增强子结合蛋白同源蛋白
+(CHOP)抗体(Abcam 公司),磷酸化的 c-Jun 氨基末端
+激酶 ( JNK) 抗体和半胱氨酸天冬氨酸蛋白酶 12
+(Caspase12)抗体( Santa Cruz 公司),β-actin 抗体、二
+抗(武汉博士德生物工程有限公司);Trizol( Invitrogen
+公司),cDNA 第一链合成试剂盒( Fermentas 公司),
+PCR 引物合成(南京金斯瑞生物科技有限公司)。
+二、 方法
+1. 动物模型建立:36 只大鼠以随机数字表法随机
+分为正常对照组(NC 组,n = 6)和模型组(n = 30),均
+以基础饲料适应性喂养 1 周。 模型组大鼠换用高糖高
+脂饲料喂养,4 周后禁食,腹腔注射 1% 的 STZ 溶液
+(35 mg / kg),NC 组大鼠注射等量柠檬酸缓冲液,72 h
+后测尾尖血糖,继续高糖高脂喂养 8 周。 每周复测血
+糖,以连续 3 次空腹血糖>16. 7 mmol / L,尿微量白蛋白
+水平明显高于 NC 组为 DN 成模标准[4,5]。 实验结束
+时,模型组大鼠 5 只死亡,1 只未成模。
+2. 实验动物分组:采用眶静脉采血,ELISA 法检
+测血清 AT1 -AA[6]。 成模 DN 大鼠 AT1 -AA 阳性率为
+62. 5% (15 / 24),NC 组为 16. 7% (1 / 6)。 根据该结果,
+将 DN 大鼠随机分为 DN 组(n = 12,AT1 -AA 阳性 n =
+8)和 Irb 干预组(n=12,AT1 -AA 阳性 n=7),并进一步
+分 AT1 -AA 阳性和 AT1 -AA 阴性亚组。 Irb 组大鼠给予
+Irb 溶液灌胃(50 mg / kg),1 次 / d,连续 4 周,NC 组和
+DN 组给予等量生理盐水。
+3. 标本收集及处理:实验结束前一天收集大鼠
+24 h尿液并记录尿量,尾动脉测量并记录大鼠血压。
+称重, 给予 10% 水合氯醛(0. 2 ml / 100 g)腹腔麻醉,
+腔静脉采血, 收集血清, 分装, -20℃ 保存。 用美国
+BECKMAN COULTER UniCel DxC 800 全自动生化仪测
+定血糖 ( Blood glucose, BG) 和尿微量白蛋白 ( urine
+microalbumin,UMA),计算 24 h UMA。 留取双侧肾脏
+标本,称重,计算“肾肥大指数(KW / BW)= 双侧肾脏
+重量(g) /体重(g) ×100% 冶。 取部分肾组织用 4% 多
+聚甲醛固定,用于 TUNEL 细胞凋亡检测;2. 5%戊二醛
+固定肾组织小块留做电镜观察;剩余肾组织-70℃保
+存。
+4. 电镜观察肾组织超微结构变化:2. 5% 戊二醛
+固定的肾组织小块经梯度脱水,树脂包埋后,按生物样
+品常规处理,制成超薄切片,于 HITACHIH-7000FA 电
+镜下观察肾脏超微结构变化。
+5. TUNEL 染色检测肾脏细胞凋亡:制备肾组织石
+蜡切片,常规脱蜡入水,严格按 TUNEL 试剂盒的说明
+进行染色,二氨基联苯胺(DAB)显色,于光镜下观察,
+凋亡细胞呈棕褐色。 并用 HMIAS-2000 高清晰度彩色
+医学图文分析系统计数肾脏凋亡细胞,计算凋亡率。
+6. Western 印迹法检测肾组织 GRP78 及 ERS 凋
+亡蛋白的表达:提取肾脏总蛋白,BCA 法测定总蛋白
+浓度。 10% SDS-PAGE 电泳,PVDF 膜印迹,5%脱脂奶
+粉室温封闭。 GRP78 抗体(1 : 600)、CHOP 抗体(1 :
+600)、磷酸化-JNK 抗体(1 : 3 000)、Caspase12 抗体
+(1 : 300)和 β-actin 抗体(1 : 400)浸泡, 4℃孵育过夜
+后, 加辣根过氧化物酶 HRP 标记的二抗(1 : 50 000)孵
+育 2 h。 滴加 ECL 底物液,暗视中 X 光片压片,显影、
+定影后应用凝胶成像系统半定量分析胶片灰度值,以
+同一张胶上目的基因条带与相应的 β-actin 条带所测
+灰度值的比值进行蛋白定量分析。
+7. RT-PCR 检测肾组织 GRP78 及 ERS 凋亡分子
+mRNA 水平:以 Trizol 试剂盒提取大鼠肾组织总 RNA,
+分光光度计进行 RNA 浓度测定。 RT-PCR 反应严格
+±试剂盒说明进行。 RT-PCR 引物设计如下:GRP78:
+上游引物为 5'-ACCACCTATTCCTGCGTCGGTGTAT-3',
+下游引物为 5'-GGTGTTCTCCGGGTTGGACGTGAGT-3';
+CHOP:上游引物为 5'-CCCCAGGAAACGAAGAGGAA-
+3忆, 下 游 引 物 为 5'-CGCACTGACCACTCTGTTTC-3';
+Caspase 12:上游引物为 5'-GAAGGAATCTGTGGGGTG-
+AA-3',下游引物为 5'-TCCCTTTGCTTGTGGATACC-3';
+β-actin:上游引物为 5'-CACGATGGAGGGGCCGGACT-
+CATC-3',下游引物为 5'-TAAAGACCTCTATGCCAAC-
+ACAGT-3'。 扩增条件:50℃ 2 min;95℃ 10 min 1 个循
+环;95℃ 30 s,60℃ 30 s 40 个循环;4℃终止反应。 使用
+ABI ViiA7 实时荧光定量 PCR 仪进行扩增,扩增完成
+后 50℃ 开始升温作熔解曲线,基因相对表达量以
+2-△△Ct值计算分析。
+三、 统计学处理
+数据采用 SPSS 19. 0 软件进行分析,计量资料以
+x-± s 表示,组间比较采用 t 检验和单因素方差分析
+(One Way ANOVA),以 P<0. 05 为差异有统计学意义。
+结    果
+一、 各组大鼠的一般情况比较
+同 NC 组比较,DN 组和 Irb 组大鼠血糖、肾肥大指
+数、24 h UMA 和血压均显著升高(均 P<0. 01);同 DN
+组比较,Irb 组大鼠 24h UMA 和血压水平明显降低,差
+异有统计学意义(P<0. 01,表 1)。
+表 1  各组大鼠血糖、肾肥大指数、24 h 尿微量白蛋白和血压结
+果比较 (x-± s)
+Tab 1 Results of BG, KW/ BW,24h UMA, and blood pressure in all
+group rats (x-± s)
+组别
+Group
+鼠数
+n
+BG
+(mmol / L)
+KW/ BW
+(%)
+24h UMA
+(mg / 24 h)
+BP
+(mmHg)
+NC 6 5. 05 ±0. 82 0. 64 ±0. 06 0. 03 ±0. 00 127 ±13 / 98 ±17
+DN 12 27. 60 ±2. 41a 1. 10 ±0. 13a 0. 67 ±0. 23a 150 ±8 / 112 ±13a
+Irb 12 27. 03 ±2. 00a 1. 04 ±0. 04a 0. 26 ±0. 07ab 121 ±7 / 94 ±16ab
+注:NC:正常对照组 Normal control group; DN:糖尿病肾病 Diabetic
+nephropathy;Irb:厄贝沙坦 Irbesartan;BG: 血糖 Blood glucose; KW / BW:
+肾肥大指数 Kidney weight / body weight; UMA: 尿微量白蛋白 Urine
+microalbumin; BP:血压 Blood pressure;1 mmHg = 0. 133 kPa; 与 NC 组比
+较 vs NC group, aP<0. 01; 与 DN 组比较 vs DN group, bP<0. 01
+二、 AT1 -AA 对 Irb 保护 DN 大鼠肾脏超微结构的
+影响
+电镜结果发现,DN 组中,AT1 -AA 阳性亚组大鼠
+肾小管上皮细胞高度水肿、明显坏死,内质网溶解,胞
+膜破裂,胞核固缩,微绒毛消失,部分管腔闭塞;肾小球
+基底膜显著不均匀增厚,系膜细胞增生、基质增多,足
+突融合、间隙增宽,偶见足细胞肿胀。 AT1 -AA 阴性亚
+组大鼠肾脏各部位病变程度均稍轻。 Irb 组中,上述肾
+脏病变显著改善,且与 AT1 -AA 阴性亚组大鼠比较,
+AT1 -AA 阳性亚组大鼠肾脏改善更为明显(图 1)。
+三、 AT1 -AA 对 Irb 减轻 DN 大鼠肾脏细胞凋亡的
+影响
+TUNEL 染色结果显示,与 NC 组比较,DN 组大鼠
+肾脏细胞凋亡率显著升高(P<0. 01),且 DN 组中 AT1 -
+AA 阳性亚组大鼠凋亡细胞数目较 AT1 -AA 阴性亚组
+明显增多(P<0. 01)。 与 DN 组比较,Irb 组大鼠肾脏
+凋亡细胞数量明显减少(P<0. 01),进一步分析发现,
+AT1 -AA 阳性亚组的细胞凋亡率明显降低(P<0. 01),
+而 AT1 -AA 阴性亚组降低并不显著(表 2)。
+四、 AT1 -AA 对 Irb 抑制 DN 大鼠肾脏 GRP78 和相
+关凋亡蛋白表达的影响
+Western 印迹检测发现,DN 组大鼠肾组织中 ERS
+标志蛋白 GRP78 及凋亡蛋白 CHOP、磷酸化 JNK 和
+Caspase12 表达均较 NC 组显著升高(均 P<0. 01),Irb
+治疗后均明显降低(均 P<0. 01,表 3),在 AT1 -AA 阳
+性大鼠 Irb 对 4 种蛋白的抑制效应更为明显。 在 DN
+组中, AT1 -AA 阳性亚组大鼠 GRP78、CHOP、磷酸化
+JNK 和 Caspase12 蛋白表达均高于 AT1 -AA 阴性亚组
+表 2  各组大鼠肾脏细胞凋亡率结果 (x-± s)
+Tab 2  The apoptotic rates of renal cells in rats of various groups
+(x-± s)
+组别
+Group
+鼠数
+n
+凋亡率
+Rate of apoptosis
+(% )
+AT1 -AA 阳性
+AT1 -AA positive
+AT1 -AA 阴性
+AT1 -AA negative
+总凋亡率
+Total rate of apoptosis
+(% )
+NC 6 0. 39 ± 0. 30 0. 37 ± 0. 17 0. 38 ± 0. 24
+DN 12 20. 05 ± 1. 71 13. 24 ± 4. 93c 16. 65 ± 5. 01a
+Irb 12 7. 27 ± 3. 97b 11. 02 ± 7. 21 9. 14 ± 5. 98ab
+注:略语同表 1 和图 1 The abbreviations are the same as Tab 1 and Fig
+1;与 NC 组比较 vs NC group, aP<0. 01; 与 DN 组比较 vs DN group, bP<
+0. 01;与 AT1 -AA 阳性组比较 vs AT1 -AA positive group,cP<0. 01
+表 3   各组大鼠肾组织 GRP78、CHOP、Caspase12 和磷酸化
+JNK 蛋白表达水平 (x-± s)
+Tab 3 Expression levels of GRP78, CHOP, Caspase12, and
+phosphorylated JNK proteins in rats of various groups (x-± s)
+组别
+Group
+鼠数
+n GRP78 CHOP p-JNK Caspase12
+NC 6 0. 334±0. 001 0. 249±0. 026 0. 209±0. 003 0. 348±0. 004
+DN 12 0. 751±0. 030a 0. 757±0. 056a 0. 603±0. 048a 0. 709±0. 047a
+Irb 12 0. 528±0. 022ab 0. 551±0. 027ab 0. 410±0. 038ab 0. 520±0. 001ab
+注:GRP78:葡萄糖调节蛋白 78 Glucose-regulated protein 78;CHOP:
+CCAAT / 增强子结合蛋白同源蛋白 C / EBP homology protein;p-JNK:磷酸
+化的 c-Jun 氨 基 末 端 激 酶 Phosphorylated c-Jun N-terminal kinase;
+Caspase12:半胱氨酸天冬氨酸蛋白酶 12; 余略语同表 1 The other
+abbreviations are the same as Tab 1;与 NC 组比较 vs NC group, aP<0. 01;与
+DN 组比较 vs DN group, bP<0. 01
+表 4  各亚组大鼠肾组织 GRP78,CHOP, p-JNK 和 Caspase12
+蛋白表达水平 (x-± s)
+Tab 4 Expression levels of GRP78, CHOP, p-JNK, and Caspase12
+proteins in rats of various sub-groups (x-± s)
+组别
+Group
+鼠数
+n GRP78 CHOP p-JNK Caspase12
+AND 4 0. 728±0. 003 0. 705±0. 010 0. 562±0. 018 0. 670±0. 022
+APD 8 0. 774±0. 026a 0. 809±0. 014b 0. 643±0. 026b 0. 748±0. 025b
+Irb+AND 5 0. 545±0. 002b 0. 572±0. 006b 0. 443±0. 020b 0. 540±0. 021b
+Irb+APD 7 0. 511±0. 018ce0. 530±0. 023ce 0. 378±0. 012de 0. 500±0. 012ce
+注:AND: AT1 -AA 阴性 DN 亚组 AT1 -AA negative DN sub-group;
+APD: AT1 -AA 阳性 DN 亚组 AT1 -AA positive DN sub-group;余缩略语同
+表 1 和表 3 The other abbreviations are the same as Tab 1 and Tab 3;与 AND
+亚组比较 vs AND sub-group, aP<0. 05, bP<0. 01; 与 Irb+AND 亚组比较
+vs Irb+AND sub-group, cP<0. 05, dP<0. 01;与 APD 亚组比较 vs APD sub-
+group, eP<0. 01
+注:A:NC 组 NC group; B:血管紧张素 II 受体自身抗体(AT1 -AA)阳性 DN 亚组 AT1 -AA positive DN sub-group; C: AT1 -AA 阴性 DN 亚组 AT1 -AA
+negative DN sub-group;D: AT1 -AA 阳性 Irb 亚组 AT1 -AA positive Irb sub-group;E: AT1 -AA 阴性 Irb+DN 亚组 AT1 -AA negative Irb sub-group;余略语同表 1
+The other abbreviations are the same as Tab 1
+图 1  电镜下观察肾小管和肾小球病理改变
+Fig 1  Pathological changes of renal tubules and glomeruli under transmission electron microscope
+(P<0. 05 或 P<0. 01);而 Irb 组中,AT1 -AA 阳性亚组
+大鼠前述蛋白表达均明显低于 AT1 -AA 阴性亚组(P<
+0. 05 或 P<0. 01,表 4)。
+五、 AT1 -AA 对 Irb 抑制 DN 大鼠肾组织 GRP78、
+CHOP 和 Caspase12 mRNA 表达的影响
+肾组织 RT-PCR 结果显示, DN 组大鼠 GRP78、
+注:略语同表 1 和表 3 The abbreviations are the same as Tab 1 and Tab 3;与 NC 组比较 vs NC group, aP<0. 01; 与 DN 组比较 vs DN group, bP<0. 01
+图 2  各组大鼠肾组织 GRP78,CHOP 和 Caspase12 mRNA 水平
+Fig 2  Levels of GRP78, CHOP, and Caspase12 mRNA in rats of various groups
+CHOP 和 Caspase12 mRNA 水平(1. 73 ± 0. 13、1. 58 ±
+0. 20 和 1. 62 ±0. 18)均显著高于 NC 组(1. 02 ± 0. 06、
+1. 03 ±0. 06 和 1. 02 ±0. 05,均 P<0. 01);Irb 干预后,上
+述 3 个基因的 mRNA 水平均明显降低(1. 18 ± 0. 15、
+1. 19 ±0. 14 和 1. 20 ±0. 09,均 P<0. 01,图 2)。 进一步
+研究发现,DN 组 AT1 -AA 阳性亚组大鼠 GRP78、CHOP
+和 Caspase12 mRNA 水平明显高于 AT1 -AA 阴性亚组
+(P<0. 05 或 P<0. 01);而 Irb 组这 3 个基因 mRNA 水
+平在 AT1 -AA 阳性大鼠中明显低于 AT1 -AA 阴性大鼠
+(P<0. 05 或 P<0. 01,表 5)。 由此可认为,Irb 可以明
+显抑制 DN 大鼠肾组织 GRP78、CHOP 和 Caspase12
+mRNA 表达,且该抑制作用在 AT1 -AA 阳性大鼠体内
+更具优势。
+表 5  各亚组大鼠肾组织 GRP78,CHOP 和 Caspase12 mRNA 水
+平 (x-± s)
+Tab 5 Levels of GRP78,CHOP, and Caspase12 mRNA in rats of
+various sub-groups (x-± s)
+组别
+Group
+样本数
+n GRP78 CHOP Caspase12
+AND 4 1. 67 ± 0. 13 1. 50 ± 0. 18 1. 53 ± 0. 16
+APD 8 1. 78 ± 0. 12a 1. 66 ± 0. 19a 1. 72 ± 0. 14b
+Irb+AND 5 1. 25 ± 0. 18b 1. 25 ± 0. 13b 1. 25 ± 0. 08b
+Irb+APD 7 1. 11 ± 0. 05ce 1. 13 ± 0. 13ce 1. 14 ± 0. 06de
+注:缩略语同表 3 和表 4 The abbreviations are the same as Tab 3 and
+Tab 4;与 AND 亚组比较 vs AND sub-group, aP<0. 05, bP<0. 01; 与 Irb+
+AND 亚组比较 vs Irb+AND sub-group, cP<0. 05, dP<0. 01; 与 APD 亚组
+比较 vs APD sub-group, eP<0. 01
+讨    论
+AT1 -AA 是针对 RAS 的关键因子 AT1受体的 IgG
+类抗体,通过与 AT1受体胞外第二环肽结合而发挥血
+管紧张素2(Ang2)样激动效应,且不随时间脱敏
+感[7]。 研究证实,各种组织损伤和生理紊乱导致隐蔽
+抗原暴露,机体自身免疫应答反应激活[8],如 AT1受体
+上游分子 Ang2浓度升高或胞内信号通路变化所致
+AT1受体的构象和密度改变,均可引起 AT1 -AA 产生增
+多[9]。 这也是 DN 时高血糖及 RAS 活化等因素致血
+清 AT1 -AA 生成增加的主要原因,但 AT1 -AA 参与 DN
+肾脏损害的具体分子机制尚未完全明确。
+肾脏固有细胞凋亡是 DN 肾功能恶化甚至衰竭的
+重要机制,大量文献表明,过度 ERS 在 DN 肾脏细胞凋
+亡过程中扮演着重要角色[10]。 内质网作为蛋白质合
+成、加工、Ca2+储存及信号转导的场所,主要经 ERS 对
+各种因素所致的应激反应起调节作用。 早期 ERS 可
+通过其标志性蛋白 GRP78 的调控作用,维持细胞的生
+理功能;但过度的 ERS 则激活 ERS 相关性凋亡途径,
+主要涉及 CHOP / GADD153 基因转录、JNK 磷酸化和
+Caspase12 活化这三条信号通路,以促进应激受损的肾
+脏细胞凋亡[11]。 其中,CHOP 可诱导促凋亡蛋白基因
+转录并抑制抗凋亡蛋白表达。 JNK 作为丝裂原活化蛋
+白激酶(MAPK)家族的重要成员,可在各种应激刺激
+(如高血糖和 G 蛋白耦联受体激活等)下磷酸化而活
+化,调控转录因子 c-Jun 活性,上调促凋亡蛋白 Bim、
+Bax 等的表达引起细胞凋亡[12]。 而且,ERS 时内质网
+中 Ca2+的超负荷及过多的蛋白沉积均可作为刺激因素
+而活化内质网外膜上的 Caspase12,因 Caspase12 的活
+化仅出现在 ERS 过程中,故其介导的凋亡途径为 ERS
+所特有[13]。
+值得关注的是,作为 AT1 -AA 发挥作用的关键因
+子,AT1受体也是 ERS 反应的重要分子。 Okada 等[14]
+最早发现 Ang2可通过 AT1 受体上调心肌细胞中
+GRP78 表达,介导心肌细胞凋亡。 而 Ang2的过度活
+化与大鼠足细胞凋亡有关[15],且血管紧张素转换酶抑
+制剂可显著减少 DN 大鼠肾脏 ERS 相关凋亡蛋白的表
+达[16]。 此外,AT1受体活化后能增加胞内 Ca2+浓度及
+Ca2+依赖的钙调蛋白磷酸化[17],胞内 Ca2+浓度升高可
+活化 Caspase12,提示 AT1受体与 ERS 的 Caspase12 凋
+亡途径致肾脏细胞凋亡关系密切。 AT1受体拮抗剂可
+部分抑制肾脏 ERS 反应,并能通过调节 ERS 相关凋亡
+蛋白 CHOP、Caspase12 和磷酸化 JNK 的表达,减少肾
+脏细胞的凋亡,减轻肾脏损害[18]。 然而,具有 Ang2
+样病理性激动效应的 AT1 -AA 能否通过 AT1受体引起
+DN 肾脏 ERS 反应、激活 ERS 相关性凋亡通路以及影
+响 Irb 抑制 DN 肾脏 ERS 相关的凋亡过程,目前尚不
+十分清楚。
+本研究发现 DN 大鼠体内 ERS 标志性蛋白
+GRP78 和 相 关 凋 亡 蛋 白 CHOP、 磷 酸 化 JNK 及
+Caspase12 蛋白水平较正常大鼠显著升高,这与国内外
+的研究结果一致。 进一步比较发现,这 4 种基因蛋白
+表达在 AT1 -AA 阳性 DN 大鼠均高于 AT1 -AA 阴性 DN
+大鼠,AT1 -AA 阳性 DN 大鼠肾组织 GRP78、CHOP 和
+Caspase12 mRNA 水平较 AT1 -AA 阴性 DN 大鼠也明显
+升高。 电镜和 TUNEL 凋亡检测结果表明,AT1 -AA 阳
+性 DN 大鼠肾脏超微结构损害和细胞凋亡数量均明显
+高于 AT1 -AA 阴性 DN 大鼠,提示 DN 大鼠体内高滴度
+的具有类似 Ang2效应的 AT1 -AA 可能通过 AT1受体
+激活 DN 大鼠肾脏 ERS,鉴于 AT1 -AA 对 AT1受体的激
+动效应不随时间而失敏感,故 AT1 -AA 产生的病理效
+应会持续存在,最终活化 ERS 相关性凋亡信号通路,
+诱导肾脏细胞凋亡。
+已有研究表明,AT1受体拮抗剂对于治疗 DN 动物
+模型和糖尿病患者效果显著,即使在无高血压状态的
+糖尿病亦是如此[19],且普遍认为 AT1受体拮抗剂可下
+调 GRP78 及凋亡蛋白的表达水平[20],通过抑制 ERS
+反应而起肾脏保护作用。 但 AT1受体拮抗剂对 ERS 相
+关蛋白的负向调控作用是否与 AT1 -AA 有关,目前研
+究尚少。
+虽有观点认为 Irb 对 DN 大鼠的肾脏保护效应得
+益于血压降低和炎症反应抑制,而非减弱 ERS 或减少
+细胞凋亡[21],但本研究观察到,给予 Irb 干预后 DN 大
+鼠肾脏细胞凋亡率明显降低,且 GRP78 及 CHOP、磷酸
+化 JNK 和 Caspase12 蛋白表达及 mRNA 水平亦明显降
+低,这与大多数研究结果相符合。 不仅如此,Irb 治疗
+后,AT1 -AA 阳性 DN 大鼠肾脏细胞凋亡数目显著减
+少,而 AT1 -AA 阴性 DN 大鼠减少不明显;同时发现,
+Irb 下调 ERS 相关蛋白表达及相应 mRNA 水平的幅度
+在 AT1 -AA 阳性 DN 大鼠中更为明显。 由此可知,Irb
+对 DN 大鼠肾脏 ERS 相关的 CHOP-JNK-Caspase12 凋
+亡信号通路的抑制作用及肾脏细胞的保护作用,在
+AT1 -AA 阳性大鼠体内更具有优势。
+综上所述,AT1 -AA 可能与 DN 大鼠肾脏 ERS 反应
+有关,通过 CHOP-JNK-Caspase12 凋亡途径促进肾脏细
+胞凋亡,并在 AT1受体拮抗剂减轻肾脏 ERS 反应,抑制
+ERS 相关的细胞凋亡,保护肾功能的过程中发挥了一
+定作用。 以上结果可为进一步完善 DN 的免疫机制及
+在 AT1 -AA 相关自身免疫途径中寻找减轻及延缓 DN
+肾脏损害的新策略提供理论支持。

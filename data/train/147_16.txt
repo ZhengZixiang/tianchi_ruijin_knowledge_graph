@@ -1,0 +1,175 @@
+基础研究
+基金项目:广东省医学科学技术研究基金
+沙格列汀对糖尿病合并非酒精性脂肪性肝病大鼠模型
+肝脏炎症损伤的保护作用及机制
+罗惠金  刘艳  陈容平  张双双  陈宏  张振
+[提要]   将 32 只雄性 SD 大鼠随机分为正常对照组(NC,n=10)和高脂组(HF,n=22)。 NC 组大鼠予
+标准饲料喂养,HF 组大鼠予高糖高脂饲料喂养 10 周末腹腔注射小剂量 STZ(30 mg / kg)进行糖尿病造模,
+并将造模成功的非酒精性脂肪性肝病(NAFLD)合并糖尿病大鼠随机分为模型对照组(MC,n= 8)及沙格列
+积生理盐水灌胃。 检测血糖、胰岛素、肝功能、肝湿重、肿瘤坏死因子 α 及白细胞介素 6,计算胰岛素抵抗指
+数(HOMA-IR);检测 NF-κB 在肝组织的表达。 结果提示 MC 组上述检测指标水平均高于 NC 组,M+S 组上
+述指标较 MC 组均有显著改善。 与 NC 组相比,MC 组 NF-κB 表达增多,与 MC 组相比,M+S 组 NF-κB 表达
+减少。 相关分析显示,TNF-α 及 IL-6 分别与 HOMA-IR 呈正相关。 提示沙格列汀可有效降低血糖水平、在
+一定程度上减轻胰岛素抵抗,并进一步减轻肝脏的炎症损伤,对受损肝细胞起到一定的保护作用。
+[关键词]   沙格列汀; 非酒精性脂肪肝; 糖尿病, 实验性; 炎症
+Protection of Saxagliptin for liver inflammatory injury in rat model of diabetes complicating with nonalcoholic
+fatty liver disease and its mechanism Luo Huijin, Liu Yan, Chen Rongping, Zhang Shuangshuang, Chen Hong,
+Zhang Zhen. Department of Endocrinology, Zhujiang Hospital Southern Medical University, Guangzhou 510282,
+China.
+[Summary]  Thirty-two SD rats were randomly divided into noraml control group(NC, n = 10) and high fat
+diet group(HF, n=22). 10 weeks later, the HF group rats were injected STZ(30 mg / kg) to set up the model of
+diabetes complicating with nonalcoholic fatty liver disease (NAFLD). Then, HF group were randomly divided into
+model control group(MC, n = 8) and Saxagliptin intervene group(M+S, n = 8). The M+S group were made an
+serum insulin, liver function, liver weight, tumor necrosis factor alpha, and interleukin 6 were measured. HOMA-IR
+was calculated. Western bolt was used to determine the expression of NF-κB in hepatic tissue. The level of the indexes
+above increased in the MC group than in the NC group. But the indexes above mentioned in M + S group were
+ameliorated. The expression of NF-κB was significantly up regulated in MC group as compared with the NC group, and
+significantly reduced in the M+S group than in the MC group. The results of correlation analysis revealed that TNF-α
+and IL-6 were positive correlated with HOMR-IR, respectively. Saxagliptin can effectively reduce the blood glucose
+level and alleviate insulin resistance, then further relieve the inflammation of liver injury, and finally to alleviate the
+condition of T2DM with NAFLD. It may play a protective role in the damaged hepatic cells.
+[Key words]  Saxagliptin; Nonalcoholic fatty liver disease; Diabetes mellitus, experimental; Inflammation
+(Chin J Endocrinol Metab, 2015, 31: 538-540)
+非酒精性脂肪性肝病(NAFLD)是最普遍的肝脏疾病之一,
+在全球范围内 NAFLD 的患病率高达 30% [1,2] 。 流行病学调查
+研究显示,在 2 型糖尿病患者中的 NAFLD 流行比例达 34% ~
+74% ,而在合并肥胖症的 2 型糖尿病患者中 NAFLD 几乎普遍
+存在[3] 。 研究发现一些促炎细胞因子会加重 NAFLD 及胰岛素
+抵抗[4] 。 因此,对于合并 NAFLD 的 2 型糖尿病患者来说,在良
+好降糖并改善胰岛素抵抗的同时能减少促炎因子的表达可能
+是治疗的新方向。 有临床研究发现[5,6] ,合并有 NAFLD 的 2 型
+糖尿病患者使用二肽基肽酶4(DPP-4)抑制剂治疗后,在血糖
+控制较理想的同时,血脂、肝功能也有较明显的改善,但其可能
+存在的机制仍未被完全阐明。 本研究旨在观察沙格列汀对糖
+尿病合并 NAFLD 大鼠的疗效,并通过了解沙格列汀对该大鼠
+模型炎症损伤的影响,从而进一步探其讨改善脂肪肝可能的作
+用机制。
+一、 材料和方法
+1. 实验动物与分组:选择 SPF 级雄性 SD 大鼠 32 只,体重
+180 ~ 200 g, 均 购 自 广 东 省 动 物 实 验 中 心, 生 产 批 号:
+4407207773。 根据随机数字表法分为正常对照组(NC,n = 10)
+和高脂组(HF,n=22)。 大鼠自由进食和饮水。 NC 组予标准饲
+料喂养,HF 组予高糖高脂饲料(标准大鼠饲料中添加 10% 的
+蔗糖,15%的熟猪油,2%的胆固醇,0. 25%的胆酸)喂养。 喂养
+8 周后各组大鼠禁食 12 h,随机各组抽取 2 只大鼠,取血检测门
+冬氨酸氨基转移酶(AST)、丙氨酸转氨酶(ALT),处死后取其
+肝脏行 HE、油红染色观察各肝细胞脂肪变性情况,通过肝功能
+异常、肝脏病理学检测肝组织内大量脂滴聚集判断 NAFLD 模
+型成功[7] 。 第 10 周末各组大鼠禁食 12 h,高糖高脂饲料组大
+鼠腹腔注射小剂量 STZ(30 mg / kg)进行糖尿病造模,标准饲料
+组仅腹腔注射等体积柠檬酸-柠檬酸钠缓冲液,注射小剂量 STZ
+72 h 后,各组大鼠禁食 12 h 后断尾取血 0. 5 ml,测空腹血糖、空
+腹胰岛素水平,以胰岛素抵抗、空腹血糖 11. 2 mmol / L 作为糖
+尿病诊断的血糖标准。 并将造模成功的糖尿病合并 NAFLD 大
+鼠随机分为模型对照组(MC,n = 8)及沙格列汀干预组(M+S,
+周,其余两个对照组给予同体积生理盐水灌胃。 予第 18 周末、
+末次给药后处死,腹主动脉取血分离血清,用于血清学指标的
+测定;迅速取肝脏组织,- 80℃ 冰箱保存,用于肝组织匀浆、
+Western 印迹的检测。
+2. 主要实验试剂:链脲佐霉素(STZ, Sigma 公司),沙格列
+汀片(安立泽 5 mg /片,阿斯利康公司),多聚甲醛、柠檬酸、柠檬
+酸钠、生理盐水等均由实验室提供。 肿瘤坏死因子 α(TNF-α)、
+白细胞介素 6(IL-6)测定试剂盒(南京建成生物工程研究所)。
+兔抗鼠的 NF-κB 抗体(Abcam 公司),二抗羊抗兔 IgG、SP 免疫
+组化试剂盒(R&D 公司)。
+3. 血生化指标的检测:全自动生化仪测血糖、谷丙转氨酶、
+谷草转氨酶。 空腹胰岛素采用放射免疫法测定。 计算胰岛素
+抵抗指数(HOMA-IR),即 HOMA-IR = (空腹血糖 ×空腹胰岛
+素) / 22. 5。
+4. 炎症因子的检测:ELISA 试剂盒检测 TNF-α、IL-6 水平,
+均按说明书进行。
+5. 石蜡切片免疫组化检测肝脏组织 NF-κB 的表达:石蜡
+组织切片在二甲苯中脱蜡、梯度酒精中脱水后,孵育于 3%
+H2O2中 20 min,10 mmol / L 枸橼酸钠缓冲液 ( pH 6. 0) 温度
+92℃ ~98℃的微波炉中 4 min,依次滴加山羊血清封闭,分别滴
+加一抗(NF-κB 抗体),生物素标记的二抗(山羊抗兔),辣根酶
+标记链酶卵白素,DAB 显色。 采用奥林巴斯 BX51 自动图片采
+集系统采集图片。
+6. Western 印迹检测 NF-κB 的表达:RIPA 裂解液提取肝组
+织总蛋白,各取待测蛋白样品 20 μg 行 12% SDS-PAGE 电泳后,
+转膜,用 TBS 溶液浸润后封闭,分别加入 NF-κB 抗体室温孵育,
+加入辣根过氧化物酶标记的羊抗兔二抗 IgG 室温孵育 1 h,洗
+膜后 DAB 显示条带。 Universal hood域凝胶成像系统拍照。 通
+过凝胶图像分析系统分析蛋白表达量。
+7. 统计学处理:采用 SPSS 18. 0 统计软件进行统计学分
+析,数据以 x- ± s 表示, 多组间比较采用单因素方差分析
+(ANOVA),两两比较用 SNK 法。 TNF-α、IL-6 与 HOMA-IR 的相
+关性采用 Spearman 相关分析,以 P<0. 05 为差异有统计学意
+义。
+二、 结果
+1. 一般情况:HF 组在喂养第 9 周末,随机处死 2 只,行肝
+脏病理检查见明显脂肪变性。 第 10 周末禁食 12 h,HF 组注射
+小剂量 STZ(30 mg / kg),72 h 内,4 只大鼠因高血糖死亡,其余
+存活的 16 只大鼠空腹血糖均大于 11. 2 mmol / L,胰岛素抵抗明
+显,至此成功造成合并 NAFLD 的糖尿病大鼠模型。 干预过程
+中正常组大鼠活动度好,饮食正常,皮毛整洁。 MC 组活动度减
+少,进食增多,小便增多,皮毛凌乱。 与 MC 组比,M+S 组活动
+度增多,小便减少。 干预过程中,MC 组 1 只大鼠因灌胃死亡,
+其余全部存活。
+2. 第 18 周末各组糖脂代谢、肝功能炎症因子等相关检测
+指标变化情况:与 NC 组比,MC 组血糖、胰岛素、HOMA-IR、
+ALT、AST、体重、肝湿重指标及炎症因子 TNF-α、IL-6 水平明显
+升高且差异具统计学意义(P<0. 01);与 MC 组比,予沙格列汀
+干预 8 周后,M+S 组血糖、胰岛素、HOMA-IR、ALT、AST、体重、
+肝湿重指标及炎症因子 TNF-α、IL-6 水平降低且差异具有统计
+学意义(P<0. 01, 表 1)。 相关分析显示,TNF-α 及 IL-6 分别与
+HOMA-IR 呈正相关( r 分别为 0. 88 和 0. 62,均 P<0. 01)。
+3. 免疫组化及 Western 印迹检测肝组织脂肪组织 NF-κB
+的表达情况:免疫组化及 Western 印迹结果提示:NF-κB 主要定
+位于胞浆,部分呈粗大颗粒状分布。 细胞浆染色呈棕黄色为蛋
+白表达阳性。 与 NC 组比,MC 组 NF-κB 表达增多;与 MC 组比
+较,M+S 组 NF-κB 表达较少(图 1)。
+三、 讨论
+胰岛素抵抗( IR)是 NAFLD 的发病机制的中心及始动环
+节[8] 。 在一些以糖尿病合并 NAFLD 的人群为对象的临床研究
+中发现,予西格列汀干预后其 HBA1C 和肝酶水平得到显著降
+低,并且明显改善肝脂肪变性情况[9] 。 本实验同样发现,予沙
+格列汀干预后,血糖、胰岛素、HOMA-IR、ALT、AST、肝湿重指标
+较 MC 组显著降低,表明沙格列汀有效缓解高糖毒性、一定程
+度上改善了胰岛素抵抗状态的同时,改善了肝功能指标并且减
+少肝脏脂肪的沉积。
+炎症因子失衡的情况不仅存在于肥胖患者中,而且也存在
+于胰岛素抵抗[10] 或 NAFLD[11] 的患者中。 其中,研究表明,促
+炎因子 TNF-α、IL-6 是胰岛素抵抗[12] 和 NAFLD[13] 的共同中介
+物。 本研究发现,MC 组中 TNF-α、IL-6 水平较 NC 组显著升高;
+予沙格列汀干预后的 M+S 组 TNF-α、IL-6 水平较 MC 组显著降
+表 1  第 18 周末各组检测指标的比较(x-± s)
+组别 鼠数 空腹血糖(mmol / L)
+空腹胰岛素
+(mU / mL) HOMA-IR
+丙氨酸转氨酶
+(IU / L)
+门冬氨酸氨基
+转移酶
+(IU / L)
+体重
+(g)
+肝湿重
+(g)
+肿瘤坏死
+因子 α
+(μg / L)
+白细胞介素 6
+(pg / ml)
+正常组 8 5. 96 ±0. 23 6. 61 ±0. 16 1. 75 ±0. 06 113. 13 ±4. 61 47. 50 ±4. 44 314. 00 ±4. 35 9. 68 ±0. 37 11. 50 ±0. 82 40. 81 ±3. 25
+模型组 7 13. 70 ±0. 93a 14. 49 ±0. 90a 8. 84 ±0. 89a 138. 57 ±2. 99a 80. 57 ±6. 00a 349. 71 ±8. 96a 12. 66 ±0. 60a 18. 31 ±2. 06a 83. 69 ±8. 33a
+干预组 8 9. 34 ±1. 04ab 7. 95 ±0. 23ab3. 30 ±0. 39ab 119. 25 ±3. 85ab 58. 63 ±4. 03ab 344. 00 ±5. 29ab 11. 79 ±0. 41ab 12. 44 ±0. 75b 40. 45 ±4. 38b
+注:HOMA-IR:稳态模型评估的胰岛素抵抗指数;与对照组比较,aP<0. 01;与模型组比较,bP<0. 01
+注:(A)对照组;(B)模型组;(C)干预组;(D)NF-κB / β-actin 蛋白
+表达,与对照组比较,aP<0. 01;与模型组比较,bP<0. 01
+图 1  各组肝组织 NF-κB 表达的比较(A ~ C,×200)
+低,提示沙格列汀在有效控糖的同时还具有缓解炎症反应的额
+外获益;并且相关分析显示 TNF-α 及 IL-6 分别与 HOMA-IR 呈
+正相关。
+NF-κB 在免疫反应和炎症反应中起到关键性调控作用。
+研究发现,NF-κB 是诱导促炎细胞因子释放并导致 NAFLD 发
+生发展的重要活化物[13] 。 本研究结果提示,MC 组 NF-κB 表达
+水平与 NC 组相比显著增多,表明 NF-κB 在合并 NAFLD 的糖
+尿病大鼠中明显激活;予沙格列汀干预后,M+S 组与 MC 组比
+较,NF-κB 表达减少,提示沙格列汀可抑制 NF-κB 的表达和活
+化,从而减轻炎症反应。
+综上所述,沙格列汀对 NAFLD 合并糖尿病大鼠模型在降
+糖、改善肝脂肪变性及抗炎作用方面均有明显疗效,其作用的
+相关机制可能如下:不仅有效缓解高糖毒性、一定程度上改善
+了胰岛素抵抗状态,还减少了促炎细胞因子的释放并抑制了
+NF-κB 的激活从而减轻了肝脏的炎症反应。

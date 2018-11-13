@@ -1,0 +1,144 @@
+T1	Drug 36 40	利拉鲁肽
+T2	Anatomy 47 54	脐静脉内皮细胞
+T3	Test 62 67	IRS-1
+T4	Anatomy 122 130	人脐静脉内皮细胞
+T5	Drug 189 193	利拉鲁肽
+T6	Anatomy 262 271	胰岛素受体底物 1
+T7	Test 281 290	磷酸化 IRS-1
+T8	Test 293 300	p-IRS-1
+T9	Test 302 311	内皮型一氧化氮合酶
+T10	Drug 461 465	利拉鲁肽
+T11	Test 492 507	p-IRS-1 / IRS-1
+T12	Drug 520 524	利拉鲁肽
+T13	Anatomy 526 534	人脐静脉内皮细胞
+T14	Anatomy 949 955	HUVECs
+T15	Disease 1803 1806	糖尿病
+T16	Disease 1818 1821	糖尿病
+T17	Disease 1831 1835;1836 1838	动脉粥样 硬化
+T18	Disease 1840 1843	糖尿病
+T19	Reason 1859 1864;1865 1866	内皮功能障 碍
+T20	Disease 1867 1873	动脉粥样硬化
+T21	Disease 1883 1890	糖尿病血管病变
+T22	Anatomy 1900 1908	胰升糖素样肽 1
+T23	Anatomy 1934 1939	GLP-1
+T24	Disease 1948 1954	2 型糖尿病
+T25	Anatomy 1963 1969;1970 1971	内源性肠促胰 素
+T26	Drug 1994 1998	利拉鲁肽
+T27	Anatomy 2003 2007	内皮细胞
+T28	Reason 2012 2016	炎症反应
+T29	Anatomy 2032 2035	心血管
+T30	Drug 2070 2074	利拉鲁肽
+T31	Anatomy 2076 2083	脐静脉内皮细胞
+T32	Anatomy 2118 2125	脐静脉内皮细胞
+T33	Anatomy 2168 2174	HUVECs
+T34	Drug 2211 2215	利拉鲁肽
+T35	Anatomy 2473 2479	HUVECs
+T36	Anatomy 2633 2639	HUVECs
+T37	Test_Value 2701 2711	3 nmol / L
+T38	Drug 2713 2717	利拉鲁肽
+T39	Test 2802 2807	IRS-1
+T40	Test 2808 2817	磷酸化 IRS-1
+T41	Drug 3272 3276	利拉鲁肽
+T42	Drug 3307 3311	利拉鲁肽
+T43	Drug 3461 3465	利拉鲁肽
+T44	Drug 3552 3556	利拉鲁肽
+T45	Test 3562 3577	p-IRS-1 / IRS-1
+T46	Test 3589 3604	p-IRS-1 / IRS-1
+T47	Drug 3608 3612	利拉鲁肽
+T48	Test 3650 3665	p-IRS-1 / IRS-1
+T49	Drug 3782 3786	利拉鲁肽
+T50	Anatomy 3818 3823	GLP-1
+T51	Anatomy 3826 3833	肠道 L 细胞
+T52	Test 3841 3845	肠促胰素
+T53	Anatomy 3847 3848;3849 3855	胰 升糖素原基因
+T54	Test 3895 3898	胰岛素
+T55	Drug 3997 4001	利拉鲁肽
+T56	Anatomy 4004 4008	内皮细胞
+T57	Test 4009 4014	IRS-1
+T58	Test 4015 4022	p-IRS-1
+T59	Anatomy 4044 4049	GLP-1
+T60	Anatomy 4054 4061	胰岛 β 细胞
+T61	Anatomy 4079 4087	GLP-1 受体
+T62	Anatomy 4102 4106	胰腺 α
+T63	Anatomy 4107 4111	β 细胞
+T64	Anatomy 4115 4121	中枢神经系统
+T65	Anatomy 4122 4124	心脏
+T66	Anatomy 4125 4127	肾脏
+T67	Anatomy 4128 4129	肺
+T68	Anatomy 4141 4149	GLP-1 受体
+T69	Anatomy 4155 4160	GLP-1
+T70	Anatomy 4180 4185	内皮祖细胞
+T71	Anatomy 4202 4212	血管内皮生长因子受体
+T72	Test 4213 4218	FLT-1
+T73	Anatomy 4220 4229	eNOS mRNA
+T74	Anatomy 4238 4241	心血管
+T75	Drug 4257 4266	GLP-1 类似物
+T76	Anatomy 4271 4275	内皮细胞
+T77	Reason 4286 4292	内皮功能损伤
+T78	Disease 4302 4310	糖尿病血管并发症
+T79	Anatomy 4318 4323	GLP-1
+T80	Anatomy 4328 4330	血管
+T81	Disease 4340 4344;4345 4347	2 型糖 尿病
+T82	Anatomy 4349 4353	血管内皮
+T83	Anatomy 4359 4364	GLP-1
+T84	Drug 4406 4410	利拉鲁肽
+T85	Anatomy 4415 4419	ApoE
+T86	Anatomy 4429 4433	内皮细胞
+T87	Drug 4467 4471	艾塞那肽
+T88	Anatomy 4500 4503;4504 4505	活性氧 簇
+T89	Anatomy 4506 4509	ROS
+T90	Test 4515 4519	一氧化氮
+T91	Anatomy 4530 4534;4535 4537	血管内皮 细胞
+T92	Drug 4561 4565	利拉鲁肽
+T93	Test 4575 4583	肿瘤坏死因子 α
+T94	Anatomy 4588 4594	HUVECs
+T95	Anatomy 4598 4601	ROS
+T96	Anatomy 4606 4608;4609 4621	尼克 酰胺腺嘌呤二核苷酸氧化酶
+T97	Drug 4653 4662	GLP-1 类似物
+T98	Drug 4662 4666	利拉鲁肽
+T99	Anatomy 4675 4681	HUVECs
+T100	Anatomy 4710 4716	HUVECs
+T101	Anatomy 4725 4728	IRS
+T102	Anatomy 4730 4739	胰岛素信号转导通路
+T103	Anatomy 4762 4767	IRS-1
+T104	Anatomy 4769 4772	胰岛素
+T105	Test 4784 4785;4786 4788	胰 岛素
+T106	Anatomy 4804 4811	酪氨酸蛋白激酶
+T107	Anatomy 4827 4837	磷脂酰肌醇 3 激酶
+T108	Anatomy 4853 4856	Akt
+T109	Anatomy 4858 4867	丝裂原活化蛋白激酶
+T110	Anatomy 4941 4948	脐静脉内皮细胞
+T111	Anatomy 4969 4973	PI3K
+T112	Anatomy 4976 4979	Akt
+T113	Anatomy 4986 4988;4989 4991	内皮 细胞
+T114	Anatomy 4995 5000	IRS-1
+T115	Anatomy 5012 5016	内皮细胞
+T116	Anatomy 5024 5027	Akt
+T117	Test 5045 5047	NO
+T118	Anatomy 5056 5060	内皮细胞
+T119	Anatomy 5071 5076	IRS-1
+T120	Anatomy 5078 5082	内皮细胞
+T121	Drug 5099 5103	利拉鲁肽
+T122	Anatomy 5109 5114	IRS-1
+T123	Drug 5130 5134	利拉鲁肽
+T124	Anatomy 5138 5145	脐静脉内皮细胞
+T125	Test 5146 5151	IRS-1
+T126	Test 5154 5161	p-IRS-1
+T127	Drug 5179 5183	利拉鲁肽
+T128	Anatomy 5193 5197	内皮细胞
+T129	Anatomy 5198 5203	IRS-1
+T130	Anatomy 5225 5226;5227 5230	内 皮细胞
+T131	Test 5249 5253	PI3K
+T132	Anatomy 5256 5259	Akt
+T133	Anatomy 5276 5281	GLP-1
+T134	Anatomy 5300 5304	PI3K
+T135	Anatomy 5322 5325	肝糖原
+T136	Anatomy 5349 5352	Akt
+T137	Anatomy 5366 5373	血管平滑肌细胞
+T138	Anatomy 5384 5386	血管
+T139	Drug 5406 5410	利拉鲁肽
+T140	Drug 5445 5454	GLP-1 类似物
+T141	Drug 5454 5458	利拉鲁肽
+T142	Test 5461 5463	血糖
+T143	Anatomy 5467 5468;5469 5474	血 管内皮细胞
+T144	Test 5497 5501	PI3K

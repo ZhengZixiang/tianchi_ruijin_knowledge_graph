@@ -1,0 +1,342 @@
+临床研究
+2 型糖尿病血糖变异性与冠状动脉狭窄程度
+的关系
+方圆圆  郑丽丽
+[摘要]   目的  探讨 2 型糖尿病患者血糖变异性与冠状动脉狭窄程度的相关性。 方法 连续选取
+2012 年 2 月至 2012 年 10 月在郑州大学第一附属医院心内科住院的行冠脉造影术的 2 型糖尿病患者 100
+例为研究对象,据冠脉造影结果分 2 组:(1)2 型糖尿病合并冠心病者 60 例,男 35 例,女 25 例,年龄(63 ±
+12)岁,为冠心病组;(2)2 型糖尿病不合并冠心病者 40 例,男 20 例,女 20 例,年龄(59 ± 8)岁,为对照组。
+入院后均行 72 h 动态血糖监测(continuous glucose monitoring, CGM),计算动态血糖波动指标,并根据冠脉
+造影结果评价冠脉狭窄程度(以 Gensini 积分表示),比较 2 组间各项动态血糖指标、Gensini 积分及各项临
+床生化指标,组间比较采用 t 检验,相关性分析采用 Pearson 相关和多元逐步回归分析,P<0. 05 为差异有统
+计学意义。 结果 与对照组的最大血糖波动幅度(LAGE)、24 h 内血糖波动标准差(SDBG)、日内血糖平均
+波动幅度(MAGE)、餐后血糖波动幅度(MPPGE)、日间血糖波动平均绝对差 (MODD)[(8. 1 ± 2. 1)、(1. 9 ±
+0. 5)、(4. 8 ± 1. 3)、(4. 5 ± 1. 4)、(2. 4 ± 0. 8)]相比,冠心病组分别为[(11. 3 ± 3. 5)、(3. 2 ± 1. 2)、(7. 0 ±
+2. 6)、(6. 4 ±1. 9)、(3. 1 ±1. 3)],均显著增加,差异均有统计学意义( t 分别为 5. 132、6. 644、4. 887、5. 321 和
+2. 856,均 P<0. 05)。 MPPGE、MODD、LAGE、C 反应蛋白与 Gensini 积分呈明显正相关( r 分别为 0. 498、
+0. 246 和 0. 227,均 P<0. 05)。 左室射血分数(LVEF)与 Gensini 积分呈负相关( r= -0. 261,P<0. 05)。 多因
+素逐步回归分析显示:MPPGE、LVEF 与 Gensini 积分独立相关(Y = 59. 727 + 11. 779 ×MPPGE- 1. 437 ×
+LVEF)。 结论 2 型糖尿病合并冠心病患者血糖变异性明显增大,血糖波动幅度与冠状动脉狭窄程度呈正
+相关,其中餐后血糖变异性为冠脉狭窄程度的独立预测因素。
+[关键词]   糖尿病, 2 型; 血糖变异性; 冠状动脉狭窄
+Correlation between glucose variability and coronary artery stenosis in patients with type 2 diabetes mellitus
+Fang Yuanyuan, Zheng Lili. Department of Endocrinology, The First Affiliated Hospital of Zhengzhou University,
+Zhengzhou 450052, China
+[Abstract]  Objective  To investigate the relationship between glucose variability and severity of coronary
+artery stenosis in patients with type 2 diabetes mellitus(T2DM). Methods One hundred hospitalized patients with
+T2DM(55 males and 45 females, 39-81 years old) who had undergone angiography were included in the study from
+February 2012 to October 2012. They were divided into 2 groups: (1)60 patients with coronary heart disease(CHD)
+as experimental group and (2) 40 patients without coronary heart disease as control group. All participants underwent
+selective coronary angiography to evaluate the severity of coronary artery stenosis ( Gensini score) and continuous
+glucose monitoring(CGM) for 72 h. The correlation was analyzed between biochemical findings, and Gensini scores
+between the 2 groups. The comparison between 2 groups was performed with LSD test, correlation analysis with
+Pearson correlation and multiple stepwise regression analysis. Result Compared with the levels of largest amplitude
+of blood glucose excursion ( LAGE), standard deviation of blood glucose ( SDBG), mean amplitude of glycemic
+excursion(MAGE), postprandial glucose excursion(MPPGE), and absolute means of daily differences(MODD) in
+control group[(8. 1 ± 2. 1),(1. 9 ± 0. 5),(4. 8 ± 1. 3),(4. 5 ± 1. 4), and(2. 4 ± 0. 8) respectively], the levels in
+the experimental group[(11. 3 ± 3. 5),(3. 2 ± 1. 2), (7. 0 ± 2. 6), (6. 4 ± 1. 9), and (3. 1 ± 1. 3)] were higher
+respectively. MPPGE, MODD, LAGE, and C-reactive protein(CRP) were positively related to Gensini score( r were
+0. 498, 0. 246, and 0. 227, all P<0. 05), while left ventricular ejection fraction(LVEF) was negatively related to
+Gensini score( r=-0. 261, P<0. 05) . Multiple stepwise regression analysis indicated that MPPGE and LVEF were
+independent risk factors of Gensini score (Y = 59. 727+11. 779×MPPGE-1. 437 ×LVEF). Conclusion Glucose
+variability in patients with T2DM and CHD was markedly enhanced. MPPGE was positively correlated with the severity
+of coronary artery stenosis in patients with T2DM and CHD.
+[Key words]  Diabetes mellitus, type 2; Glucose variability; Coronary artery stenosis
+(Chin J Endocrinol Metab, 2014, 30: 96-100)
+慢性持续性高血糖和慢性波动性高血糖是糖尿病
+糖代谢紊乱的两种表现形式,也是导致糖尿病慢性并
+发症的重要因素。 然而有证据表明,相对于持续性高
+血糖,波动性高血糖更能增加糖尿病患者发生慢性血
+管并发症的危险性[1-3]。 目前,对于 2 型糖尿病合并冠
+心病患者,HBA1C作为衡量血糖控制水平的指标已得
+到心内科医生的广泛关注,但对于血糖的动态变化及
+其与冠脉病变的相关性还鲜有报道。 本文以慢性血糖
+波动与慢性大血管并发症冠状动脉病变为切入点,探
+讨 2 型糖尿病合并冠心病患者慢性血糖波动与冠脉病
+变的关联。
+对象和方法
+一、 对象
+连续选取 2012 年 2 月至 2012 年 10 月在郑州大
+学第一附属医院心内科施行过冠脉造影术且符合试验
+纳入标准的 2 型糖尿病患者 100 例,其中男 55 例,女
+45 例,年龄为(39 ~ 81)岁。 入院后第 2 天给予佩戴动
+态血糖监测系统(CGMS)监测 72 h 血糖。 全部入选患
+者于第 5 ~ 7 天行择期冠脉造影术。 据冠脉造影结果
+2 型糖尿病合并冠心病者 60 例为冠心病组,其中男 35
+例,女 25 例,年龄为(63 ± 12)岁。 不合并冠心病的 2
+型糖尿病患者 40 例为对照组,其中男 20 例,女 20 例,
+年龄(59 ±8)岁。 以上入选患者均符合 1999 年世界卫
+生组织的糖尿病诊断标准[2]。 纳入标准:2 型糖尿病
+患者病程 >3 个月;HBA1C 6. 5% ~ 13. 0% ;至少 3 个月
+未改变降糖方案;近 1 个月内未发生急性心肌梗死;均
+无肝肾等重要脏器功能异常;至少 6 个月代谢稳定
+(无急慢性感染、无肿瘤以及结缔组织病);同意参加
+本试验并行冠脉造影术。 排除标准:严重肝肾功能不
+全,脑卒中,胰腺疾病,过度肥胖以及应用非类同醇类
+消炎镇痛药、类固醇药物、甲状腺功能亢进症、自身免
+疫性疾病、风湿性瓣膜病、急性冠脉综合征、急性代谢
+紊乱、急性感染、创伤或其他应激情况。
+本研究经医院伦理委员会批准,实验前均告知受
+试者试验的性质、目的以及可能产生的不良反应,并签
+署知情同意书。
+二、 方法
+1. 一般观察指标:采集所有调查对象的性别、年
+龄、吸烟史、饮酒史、高血压病、冠心病、糖尿病、高脂血
+症、脑卒中病史等;测量收缩压、舒张压、身高、体重,并
+计算体重指数。 所有调查对象于入院后次日清晨(空
+腹禁食 10 h 以上)抽取静脉血。 生化指标(空腹血糖、
+血脂、尿酸、C 反应蛋白等)应用日本日立公司 7600 型
+自动生化分析仪测定,离子交换高效液相法 (美国
+BIORAD 公司)测定 HBA1C。
+2. 冠状动脉狭窄程度:入选患者于入院后第 5 ~ 7
+天行冠脉造影术,采用 Philips 数字减影心血管造影
+机,经桡动脉选择性冠状动脉造影,造影示左主干、前
+降支、回旋支、右冠状动脉中任一血管狭窄≥50%判定
+为 2 型糖尿病合并冠心病组(冠心病组),心外膜冠状
+动脉狭窄<50%判定为不合并冠心病组(对照组)。 造
+影结果由两位经验丰富并对本试验完全不知情的主任
+医师进行判断。 冠脉狭窄积分(coronary stenosis score,
+CSS)即冠状动脉病变血管损害程度采用 Gensini 评分
+系统对各支冠状动脉狭窄病变程度进行定量分析[4]:
+管腔狭窄≤25 记为 1 分; 26% ~ 50% 记为 2 分;
+51% ~ 75% 记为 4 分;76% ~ 90% 记为 8 分;91% ~
+99%记为 16 分;100%记为 32 分。 然后所得评分乘以
+所在血管节段不同权重系数[左主干(LM)病变:×5;
+左前降支(LAD)病变:近段×2. 5,中段×1. 5,远段×1;
+对角支病变:第一对角支(D1) ×1,第二对角支(D2) ×
+0. 5;左回旋支(LCX)病变:近段×2. 5,远段×1;后降
+支×1;后侧支×0. 5;右冠状动脉(RCA)病变:近、中、远
+和后降支均×1],每例患者冠状动脉病变总积分为各
+节段积分之和。
+3. 动态血糖监测:入选患者入院后次日即给予动
+态血糖监测系统(continuous glucose monitoring system,
+CGMS,美国 Medtronic MiniMed 公司)进行 72 h 连续动
+态血糖监测,通过监测皮下组织间液的葡萄糖浓度反
+映血糖水平,有效监测范围为 2. 2 ~ 22. 2 mmol / L。 感
+应探头置于腹部皮下,每 10 s 接受 1 次电信号,将 5
+min 的数值平均后转化成血糖数值储存,每 24 h 获得
+288 个测定值。 同时,每天至少输入 4 次指端血糖值
+进行校正。 监测期间降糖方案不变,饮食与活动情况
+与以往基本一致。
+4. 动态血糖评价参数[3]: (1) 平均血糖 (mean
+blood glucose, MBG)及标准差(SDBG):受试者 CGMS
+24 h 监测期间共 288 个测定值的平均值及其标准差;
+(2)日内平均血糖波动幅度(mean amplitude of glyeemic
+excursion,MAGE):受试者 24 h 血糖波动幅度大于 1
+个标准差的血糖波动,以波动峰值到谷值的方向计算
+其波动幅度,并统计其波动次数 ( numbers of glucose
+excursion, NGE),MAGE 为所有血糖波动幅度的平均
+值;(3)日间血糖平均绝对差(mean of daily differences,
+MODD):受试者 2 个连续 24 h 监测期间 CGMS 相匹配
+测定值间的平均绝对差; (4 ) 最大血糖波动幅度
+(LAGE):受试者 24 h 监测期间最大值和最小值之差;
+(5)平均餐后血糖漂移幅度(MPPGE):三餐后 3 h 内
+最高血糖值与餐前血糖差值绝对值的平均数。
+三、 统计学处理
+使用 SPSS 17. 0 统计软件进行统计学处理。 计量
+资料以 x-± s 表示,全部变量均行正态性及方差齐性检
+验,非正态分布数据行自然对数转换成正态分布数据,
+计量资料两组间比较采用 t 检验,方差不齐采用 t忆检
+验。 计数资料以百分比(率)的形式表示,组间比较采
+用 字2检验。 相关性分析采用 Pearson 相关和多元逐步
+回归分析。 以 P<0. 05 为差异有统计学意义。
+结    果
+一、 一般临床资料比较
+与对照组相比,冠心病组的年龄、2 型糖尿病病
+程、体重指数、收缩压、舒张压、吸烟比例、HBA1C、总胆
+固醇、低密度脂蛋白胆固醇(LDL-C)、空腹血糖均大于
+对照组,冠心病组的高密度脂蛋白胆固醇(HDL-C)、
+甘油三酯均小于对照组,但两组间相比,差异均无统计
+学差异(均 P>0. 05),基本匹配。 冠心病组 C 反应蛋
+白、尿酸显著高于对照组,冠心病组的左室射血分数
+(LVEF)显著低于对照组,差异有统计学意义(均 P<
+0. 05, 表 1)。
+二、 CGMS 监测参数比较
+与对照组 LAGE、 SDBG、MAGE、MPPGE、 MODD
+[分别为(8. 1 ± 2. 1)、(1. 9 ± 0. 5)、(4. 8 ± 1. 3)、(4. 5 ±
+1. 4)、(2. 4 ± 0. 8)]相比,冠心病组[分别为(11. 3 ±
+3. 5)、(3. 2 ± 1. 2)、(7. 0 ± 2. 6)、(6. 4 ± 1. 9)、(3. 1 ±
+1. 3)]均显著增加,差异均有统计学意义(均 P<0. 05,
+表 2)。
+三、 冠心病组冠状动脉病变 Gensini 积分与各因
+素间的关系分析
+以 Gensini 积分为因变量,以 LVEF、空腹血糖、
+MBG、LAGE、SDBG、MAGE、MPPGE、MODD 为自变量,
+进行多因素逐步回归分析。 自变量 MAGE、MODD 为
+非正态分布数据,取自然对数符合正态分布后再进行
+分析,结果显示:MPPGE、MODD、LAGE 与 Gensini 积分
+呈明显正相关( r 分别为 0. 498、0. 246 和 0. 227,均 P<
+0. 05)。 LVEF 与 Gensini 积分呈负相关( r = -0. 261,
+P<0. 05)。 因素逐步回归分析显示:MPPGE、LVEF 与
+Gensini 积分独立相关(Y=59. 727+11 . 779×MPPGE-
+表 1  2 组一般临床资料及实验室检查结果比较
+Tab 1  Comparison of the general data between two groups
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+年龄
+(岁)
+Age
+(year)
+2 型糖尿病病程
+(月)
+Course of diabetes
+(month)
+体重指数
+Body mass index
+(kg / m2)
+吸烟史
+Smoking history
+(% )
+收缩压
+Systolic blood
+pressure
+(mmHg)
+舒张压
+Diastolic blood
+pressure
+(mmHg)
+空腹血糖
+(mmol / L)
+对照组
+Control 40(20 / 20)   59 ± 8 87 ± 75  25. 04 ± 3. 36 32. 5 135 ± 21 80. 75 ± 12. 42 7. 23 ± 2. 07
+冠心病组
+Coronary heart disease 60(35 / 25)   63 ± 12 110 ± 90  25. 18 ± 2. 43 38. 3 138 ± 23 84. 75 ± 12. 72 8. 45 ± 2. 31
+a
+组别
+Group
+例数(男 / 女)
+n(Male / Female)
+HBA1C
+(% )
+C 反应蛋白
+C-reactive protein
+(mg / L)
+尿酸
+Uric acid
+(mmol / L)
+总胆固醇
+Total cholesterol
+(mmol / L)
+甘油三酯
+Triglycerides
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+LVEF
+(% )
+对照组
+Control 40(20 / 20) 7. 78 ± 1. 58 0. 60 ± 0. 39 248 ± 76 4. 45 ± 1. 35 2. 37 ± 2. 30 1. 02 ± 0. 28 2. 38 ± 1. 05   63 ± 5
+冠心病组
+Coronary heart disease 60(35 / 25) 7. 91 ± 1. 47 2. 34 ± 3. 84
+a 305 ± 115a 4. 57 ± 1. 57 2. 20 ± 1. 96 0. 99 ± 0. 28 2. 52 ± 1. 16   57 ± 9b
+注:1 mmHg = 0. 133 kPa;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low-density lipoprotein-
+cholesterol;LVEF:左心室射血分数 Left ventricular ejection fraction;组间比较 Comparison between groups, aP<0. 05, bP<0. 01
+表 2  2 组动态血糖参数比较(x-± s,mmol / L)
+Tab 2  Comparison of CGMS parameters between two groups(x-± s,mmol / L)
+组别
+Group
+例数(男 / 女)
+n(Male / Female) MBG LAGE SDBG MAGE MPPGE MODD
+对照组
+Control 40(20 / 20) 8. 3 ± 2. 1 8. 1 ± 2. 1 1. 9 ± 0. 5 4. 8 ± 1. 3 4. 5 ± 1. 4 2. 4 ± 0. 8
+冠心病组
+Coronary heart disease 60(35 / 25) 10. 1 ± 2. 7 11. 3 ± 3. 5
+b 3. 2 ± 1. 2b 7. 0 ± 2. 6b 6. 4 ± 1. 9b 3. 1 ± 1. 3a
+注:MBG:平均血糖值 Mean blood glucose;LAGE:日内最大血糖波动幅度 Largest amplitude of glycemic excursion;SDBG:血糖标准差 Standard deviation
+of blood glucose;MAGE:日内平均血糖波动幅度 Mean amplitude of glycemic excursion;MPPGE:平均餐后血糖波动幅度 Mean postprandial glucose excursion;
+MODD:日间血糖平均绝对差 Mean of daily differences;组间比较 Comparison between groups, aP<0. 05, bP<0. 01
+1. 437×LVEF)。
+讨    论
+随着 CGMS 在临床的广泛应用,相对于对 2 型糖
+尿病患者 HBA1C水平的关注,血糖变异性也逐渐受到
+重视,大量临床及实验室研究资料表明 2 型糖尿病主
+要通过慢性持续性高血糖及慢性波动性高血糖影响糖
+尿病并发症的发生发展,其中后者近年来被证实对各
+器官的损害更大[5-7]。 血糖水平是心血管并发症发生
+发展的独立性预测因子已被许多研究证实[8,9]。 但慢
+性血糖波动与冠脉病变狭窄程度的相关研究仍较缺
+乏。 本研究通过对 100 例住院的 2 型糖尿病患者的慢
+性血糖波动水平及冠脉狭窄程度做了相关分析,旨在
+探究血糖波动与冠脉病变的相互联系,提示对 2 型糖
+尿病合并冠心病患者治疗过程中,慢性血糖波动亦不
+容忽视。
+VERONA 糖尿病研究中一项对老年糖尿病患者
+10 年的回顾性调查发现,空腹血糖变异性是 2 型糖尿
+病患者全因死亡及心血管疾病死亡的独立预测因子,
+血糖波动性大对于死亡率的影响大于单纯高血糖[10]。
+DECODE 研究表明餐后 2 h 血糖水平与冠心病病死率
+和总病死率密切相关,这一结果与其他许多流行病学
+研究结果一致,提示餐后或负荷后波动性高血糖与心
+血管疾病的危险性独立相关[11]。 降低餐后血糖水平
+并获得较为平稳的血糖波动可以在一定程度上预防心
+血管疾病的发生。 目前 MAGE 被认为是评价日内血
+糖波动的代表性指标,它不依赖于平均血糖值,用来量
+化 24 h 内主要的血糖波动;MPPGE 为反映餐后血糖波
+动的主要指标之一,已被认为是糖尿病患者血糖波动
+的主要贡献者;MODD 则是评价日间血糖波动的唯一
+参数,它不依赖于日内血糖波动,独立反映不同日间血
+糖波动。 本实验结果显示 2 型糖尿病合并冠心病者无
+论是日内、日间还是餐后血糖波动幅度均较 2 型糖尿
+病非冠心病者大,且日间血糖波动幅度、餐后血糖波动
+幅度、日内最大血糖波动幅度均与冠脉狭窄程度
+(Gensini 积分)呈明显正相关,其中餐后血糖波动幅度
+与 Gensini 积分独立相关,而两组间年龄、糖尿病病程、
+空腹血糖、平均血糖及 HBA1C并无明显差异。 表明在 2
+型糖尿病病程及血糖平均水平控制相当的情况下血糖
+波动幅度的增大在一定程度上可能加剧了冠脉病变的
+进程,而餐后血糖波动幅度尤为重要,为冠脉狭窄程度
+的独立预测因子。 目前对血糖升高导致冠脉病变的研
+究已较成熟,而对血糖波动引起冠脉病变加重的机制
+尚未明确。 体内外生物学实验已证实:波动性高血糖
+较持续性高血糖具有更显著的危险性。 Risso 等[12,13]
+在体外培养人脐静脉内皮细胞(HUVEC)时分别给正
+常葡萄糖浓度、稳定和波动性高糖浓度的培养环境,发
+现与前 2 组相比,波动性高糖组内皮细胞的凋亡明显
+增加。 目前认为慢性血糖波动引起动脉硬化的机制有
+以下几方面:(1)增加了胰岛素抵抗,参与了动脉粥样
+硬化的发生发展;(2)引发氧化应激,急性高血糖对心
+血管的危害就是通过大量自由基的产生而发挥作用
+的[14,15],部分炎症、细胞因子及黏附分子分泌表达异
+常,增加内皮细胞凋亡,导致了血管的硬化[16,17];
+Piconi 等[17]通过体外细胞模型模拟体内高血糖波动
+状态,证明了高血糖波动会增强氧化性应激,并促进内
+皮细胞凋亡,对糖尿病并发症的发生、发展起到了推动
+作用,同时反复波动的高糖环境对内皮细胞形态和功
+能的损害比持续稳定的高糖更为严重;(3)使内皮和
+凝血纤溶系统功能障碍以及自由基产生增加,加速了
+动脉粥样硬化的形成;(4)减弱了高葡萄糖浓度状态
+下细胞通过调节性反馈来部分拮抗葡萄糖毒性作用,
+促进了细胞形态和功能受损。 本研究结果显示与单纯
+2 型糖尿病组相比,2 型糖尿病合并冠心病组 BNP、
+LVEF、C 反应蛋白、尿酸、各血糖波动指标 ( LAGE、
+SDBG、 MAGE、 MPPGE、 MODD ) 均 升 高, MPPGE、
+MODD、LAGE 与 Gensini 积分呈明显正相关,LVEF 与
+Gensini 积分呈负相关,该结果可在一定程度上反映血
+糖长期慢性波动可能引发的氧化应激加重冠脉狭窄,
+相反,冠脉狭窄程度越重,应激也越重,血糖波动也越
+重。 MPPGE 与 Gensini 积分独立相关,既往大量研究
+表明血糖持续升高及过度波动可引起血管内皮细胞损
+伤,黏附分子增加,其介导的黏附异常,多元醇、己糖氨
+通路开放、蛋白激酶 C 活性增强、糖基化终末产物过
+剩等,进一步加重血管的损伤[18]。 这一结果表明相对
+于平均血糖水平,日内血糖波动尤其是餐后血糖的剧
+烈波动与冠脉病变密切相关。
+本研究中,样本量偏小、受试者降糖方案、糖皮质
+激素的应用情况、胰岛素抵抗情况等信息的缺失是本
+实验的不足之处,这些可能对血糖控制指标的预测有
+影响。 此外,本实验仅对 2 型糖尿病患者冠状动脉狭
+窄程度进行相关性分析,揭示了患者住院期间血糖变
+异性的增高与冠脉狭窄程度相关联这一现象,并未对
+引起该现象的机制进行深入探索,也未对受试者短期
+及长期预后进行随访,可在后续的研究中深入探索。
+但应注意的是,本研究对血糖变异性和平均血糖二者
+相对比较的关注远多于其绝对值,多元回归分析的结
+果提示,2 型糖尿病患者餐后血糖波动幅度为冠脉狭
+窄程度的独立预测因子,控制血糖变异性很重要,这将
+有助于提示临床医生注意平稳降糖,特别是对合并冠
+心病的 2 型糖尿病患者,有效控制餐后血糖波动,尽量
+避免血糖大幅波动。

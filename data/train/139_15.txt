@@ -1,0 +1,256 @@
+基础研究
+基金项目:国家自然科学基金项目(81160116)
+(杨烨、张园园、田燕燕、俞瑞、肖拉提、朱佳、朱筠);新疆医科大学第一
+附属医院临床医学研究院(吕国栋)
+活性维生素 D3 对糖尿病肾病大鼠转化生长
+因子 β1 及相关因子的调节作用
+杨烨  张园园  田燕燕  俞瑞  吕国栋  肖拉提  朱佳  朱筠
+[摘要]   目的  探索活性维生素 D3对不同转化生长因子 β1(TGF-β1)表达水平的糖尿病肾病大鼠模
+型的保护作用及可能机制。 方法 建立 SD 大鼠糖尿病肾病模型(n=24),分别注射 3 种不同慢病毒,同时
+大鼠肾脏 TGF-β1、人第 10 号染色体缺失的磷酸酶及张力蛋白同源基因( gene of phosphate and tension
+homology deleted on chromsome ten,PTEN)、胶原蛋白 1(collagen-1,COL-1)和结缔组织生长因子(connective
+tissue growth factor,CTGF)mRNA 含量,通过电镜观察大鼠肾脏超微结构的变化。 结果 (1)活性维生素 D3
+干预可使 TGF-β1 过表达、TGF-β1 干扰和空载体组大鼠肾脏 TGF-β1、COL-1、CTGF mRNA 表达均明显下调
+(均 P<0. 05),使 PTEN mRNA 表达上调(P<0. 05)。 (2)电镜结果显示,TGF-β1 表达水平越高,肾脏病变越
+严重。 维生素 D3干预可改善各组大鼠的肾脏病变。 结论 活性维生素 D3可通过 TGF-β1 途径保护肾脏。
+[关键词]   1,25 羟维生素 D3; 转化生长因子 β1; 糖尿病肾病; 人第 10 号染色体缺失的磷酸酶及张
+力蛋白同源基因
+Effects of 1,25-dihydroxyvitamin D3on the expression of transforming growth factor β1 and related factors in
+rats with diabetic nephropathy Yang Ye*, Zhang Yuanyuan, Tian Yanyan, Yu Rui, Lyu Guodong, Xiao Lati,
+Zhu Jia, Zhu Jun. *Department of Endocrinology,the First Affliated Hospital of Xinjiang Medical University, Urumqi
+830054, China
+[Abstract]  Objective  To explore the protective effect as well as its mechanism of 1,25-dihydroxyvitamin D3
+on the pathological change in rats with diabetic nephropathy and different levels of transforming growth factor β1(TGF-
+β1) in kidney. Methods SD rats (n=24) with diabetic nephropathy were respectively injected with three kinds of
+for 37 days, and then the kidney was taken. The mRNA levels of TGF-β1, gene of phosphate and tension homology
+deleted on chromsome ten(PTEN), collagen-1(COL-1), and connective tissue growth factor(CTGF) were measured
+by realtime PCR. The changes of ultra-structure in the kidneys were observed by electronic microscopy. Results
+(1) 1,25-dihydroxyvitamin D3 decreased the mRNA expressions of TGF-β1, COL-1, and CTGF in rat kidney with
+TGF-β1 overexpression, TGF-β1 downregulation, and vector groups ( P < 0. 05 ), while increased the mRNA
+expression of PTEN(all P<0. 05) . (2)The electronic microscopy showed more serious change of renal lesions when
+TGF-β1 was overexpressed. The pathological changes of rat kidney in various groups were improved by calcitriol.
+Conclusions 1,25-dihydroxyvitamin D3 may have a protective effect on diabetic nephropathy via the pathway of
+TGF-β1.
+[Key words]   1,25-dihydroxyvitamin D3; Transforming growth factor β1; Diabetic nephropathy; Gene of
+phosphate and tension homology deleted on chromsome ten
+(Chin J Endocrinol Metab, 2015, 31: 66-70)
+糖尿病肾病是糖尿病常见的并发症之一,其发病
+机制至今尚未完全阐明。 尿白蛋白排泄增加是糖尿病
+肾病的早期表现,如不积极干预,可逐渐进展到终末期
+肾病。 肾小管间质纤维化、肾小球系膜区无细胞性增
+宽和肾小球基底膜弥漫性增厚是糖尿病肾病进展的主
+要病理改变。 基础研究证明,转化生长因子 β1(TGF-
+β1)在高糖诱导的肾小管上皮细胞转化、肾小球系膜
+及基底膜增厚的病理过程中发挥关键作用[1,2]。 近期
+研究表明,活性维生素 D3可通过抑制糖尿病大鼠肾脏
+TGF-β1 对糖尿病大鼠肾脏损伤有预防保护作用[3]。
+但活性维生素 D3是否通过 TGF-β1 途径而产生肾脏保
+护作用,目前尚不明确。 本实验应用链脲佐菌素
+(streptozotocin,STZ)诱导糖尿病肾病大鼠,应用慢病
+毒载体过表达 TGF-β1 或干扰 TGF-β1 表达,观察不同
+TGF-β1 表达水平和肾病严重程度之间的关系,并评价
+活性维生素 D3干预对肾脏纤维化进展的影响。
+材料和方法
+一、 材料
+1. 实验动物:健康清洁级雄性 Sprague-Dawley
+(SD)大鼠,体重约 60 ~ 80 g,由新疆维吾尔自治区疾
+病控制预防中心提供,动物生产和使用许可证号分别
+为 scxk (新)2011-0001 和 syxk(新)2011-0002,本研究
+经本院伦理委员会同意。
+2. 主要试剂:(1) STZ 购自 Sigma 公司,RNAlater
+solution(美国 Ambion);(2) 骨化三醇胶丸(上海罗氏,
+国药准字 J20100056,规格 0. 25 μg /粒);(3) TGF-β1
+过表达慢病毒、TGF-β1 siRNA 干扰慢病毒及阴性对照
+慢病毒载体均由百恩维生物公司协助构建;(4) TGF-
+β1、人第 10 号染色体缺失的磷酸酶及张力蛋白同源
+的基因( gene of phosphate and tension homology deleted
+on chromsome ten,PTEN)、胶原蛋白 1(collagen-1,COL-
+1)和结缔组织生长因子(connective tissue growth factor,
+CTGF)引物购自于北京中美泰和;(5) RNA 纯化及
+cDNA 逆转录试剂盒,实时荧光定量 PCR 试剂盒均购
+自德国凯杰(QIAGEN)公司。
+3. 主要仪器:便携式血糖监测仪及试纸(ACCU-
+Chek,德国),实时荧光定量 PCR 扩增仪 CFX96(BIO-
+RAD 美国),凝胶成像仪及电泳系统 ( BIO-RAD 美
+国),紫外分光光度仪(Thermo 美国)。
+二、 方法
+1. 糖尿病肾病模型的制备及分组:30 只清洁级雄
+性 SD 大鼠,普通饲料适应性喂养 4 周后,体重约为
+180 ~ 220 g。 然后给予高脂高糖饲料喂养 8 周(饲料
+配方:10%炼猪油,20% 蔗糖,2% 胆固醇,60% 普通饲
+料,8% 蛋黄粉),体重增长到 400 ~ 450 g。 腹腔注射
+STZ 30 mg / kg(以 pH 4. 45、0. 01 mol / L 无菌柠檬酸-柠
+檬酸钠缓冲液配制)1 次后,继续予高脂高糖饲料喂
+养。 3 d 后尾静脉取血,空腹血浆葡萄糖 ≥16. 7
+mmol / L,提示糖尿病造模成功[4],并持续给予高脂高
+糖饲料喂养及监测血糖,4 周后尿白蛋白排泄率>20
+mg / 24 h 且尿糖阳性认为糖尿病肾病造模成功[5]。 糖
+尿病肾病模型成功后,糖尿病肾病大鼠出现多饮、多
+食、多尿、消瘦等症状,饲养中途因高血糖死亡 6 只,存
+活 24 只。 故随机分为 6 组,每组 4 只。 给予肾脏原位
+注射慢病毒,其中 2 组给予 TGF-β1 过表达慢病毒,每
+只 0. 15 ml,2 组给予 TGF-β1 干扰慢病毒注射,2 组给
+予对照慢病毒注射。 次日分别给予骨化三醇(溶于
+胃[3],持续灌胃 37 d 后,处死大鼠。 根据以上干预措
+施,将这些大鼠分组为:(1) TGF-β1 过表达组;(2)
+TGF-β1 过表达+维生素 D 组;(3) TGF-β1 干扰组;
+(4) TGF-β1 干扰+维生素 D 组;(5) 空载体组;(6) 空
+载体+维生素 D 组。
+2. 标本的收集与处理:在活性维生素 D3或花生油
+干预 37 d 后,用氯胺酮(50 mg / kg)麻醉大鼠,取出肾
+脏,4℃生理盐水洗净,称重,放入 mRNA later 液中,保
+存于-80℃冰箱中[6]。
+3. 实时定量 PCR 测定 TGF-β1、 COL-1、 CTGF、
+PTEN 的 mRNA 水平:(1)RNA 提取:取各组大鼠肾脏
+皮髓质组织 0. 15 g,用 Qiagen 纯化试剂盒抽提总
+RNA,逆转录为 cDNA 进行实时荧光定量 PCR,PCR 引
+物序列见表 1。 PCR 反应总体系 20 滋l,PCR 扩增条
+件:95℃变性 10 min,95℃退火 10 s, 60℃ 30 s 进行延
+伸,共 40 个循环。 每个基因设 3 复孔。 实验结果由
+Bio-Rad 荧光定量分析软件读取。 目的基因的 mRNA
+定量用 2-△△CT样本来表示(CT 为循环数),以b-actin 作
+为内参。
+4. 肾脏电镜超微结构:经氯胺酮(50 mg / kg)麻醉
+大鼠,取其肾脏皮质约 1 cm2 立即放入电镜液中,4℃
+冰箱保存。 制作成电镜超微结构图像后,观察肾小球
+足细胞、基底膜、系膜细胞和肾小管的病理改变。
+三、 统计学处理
+实验数据用 SPASS 17. 0 统计软件进行处理。 2
+表 1  实时定量 PCR 基因引物序列
+Tab 1  Primer sequences of genes for real-time PCR
+基因
+Gene
+引物序列
+Primer sequence
+CTGF F:5'-GCCTGTTCCAAGACCTGT-3' R:5'-GGATGCACTTTTTGCCCTTCTTA-3'
+β-actin F:5'-AGTACCCCATTGAACACGGC-3' R:5'-TTTTCACGGTTGGCCTTAGG-3'
+TGF-β1 F:5'-AGAAGTCACCCGCGTGCTAAT-3' R:5'-CACTGCTTCCCGAATGTCTGA-3'
+PTEN F:5'-CAGCCATCATCAAAGAGATCGTTAGC-3' R:5'-CAACATGATTGTTGTCGTCTTCACTTAGC-3'
+COL-1 F:5'-ATCAGCCCAAACCCCAAGGAGA-3' R:5'-CGCAGGAAGGTCAGCTGGATAG-3'
+注:CTGF: 结缔组织生长因子 Connective tissue growth factor;TGF-β1:转化生长因子 β1 Transforming growth factor β1;PTEN: 人第 10 号染色体缺失
+的磷酸酶及张力蛋白同源基因 Gene of phosphate and tension homology deleted on chromsome ten;COL-1:胶原蛋白 1 Collagen-1;F:上游引物 Forward
+primer;R:下游引物 Reverse primer
+组之间的比较用成组 t 检验,2 组以上的均值比较用单
+因素方差分析,P<0. 05 表示有统计学意义。
+结    果
+一、 各组大鼠肾脏 TGF-β1mRNA 表达水平
+TGF-β1 过表达、TGF-β1 干扰和空载体组经活性
+维生素 D3 干预后, TGF-β1 mRNA 水平均下降 ( P <
+0. 05,图 1)。
+注:Ov:过表达组 Overexpression group;Si:干扰组 Small interfering
+RNA group;Ev:空载组 Empty vector group;TGF-β1:转化生长因子 β1
+Transforming growth factor β1;CON:对照组 Control group;VD:维生素 D 组
+Vitamin D group;与 CON 组比较 vs CON group,aP<0. 05
+图 1  各组 TGF-β1mRNA 表达量
+Fig 1  TGF-β1 mRNA expression levels in various groups
+二、 活性维生素 D3 对 COL-1、 CTGF 和 PTEN
+mRNA 表达的影响
+TGF-β1 过表达、TGF-β1 干扰和空载体经维生素
+D3 治疗后,COl-1 和 CTGF mRNA 表达均明显降低(均
+P<0. 05),而 PTEN mRNA 的表达明显升高 (均 P <
+0. 05,图 2)。
+三、 肾组织超微结构病改变
+TGF-β1 过表达组系膜区明显增宽,系膜细胞增
+生,系膜插入基底膜内呈双轨征,系膜区可见细颗粒状
+沉积。 血管基底膜皱缩,足突阶段性融合,毛细血管塌
+陷,呈现肾小球局限性硬化(图 3A) 。 TGF-β1 过表达
++维生素 D 组系膜区轻微增宽,系膜细胞增生,可见低
+密度电子沉积物,内皮细胞轻微水肿,呈连拱状,血管
+腔开放良好、足细胞足突排列良好,呈现轻度增生肾小
+球肾炎的特征(图 3B)。 TGF-β1 干扰组系膜区增宽,
+系膜基质增生,系膜细胞轻度增生,内皮细胞轻微水肿
+呈连拱状血管开放尚可,足突排列整齐 (图 3C)。
+TGF-β1 干扰+维生素 D 组轻度的系膜基质增生,基底
+膜轻微皱缩,血管开放良好,足突排列整齐,系膜区可
+见低密度电子沉积物(图 3D)。 空载体组系膜区增宽
+明显,系膜基质和系膜细胞增生,系膜细胞内可见大量
+脂滴,血管轻微塌陷(图 3E)。 空载体+维生素 D 组系
+膜区轻度增宽,系膜区偶见沉积物,血管开放良好(图
+3F)。 表明 TGF-β1 过表达所致的肾脏病理改变可被
+活性维生素 D3干预减轻。
+讨    论
+近期研究表明,活性维生素 D3具有抑制肾素血管
+紧张素系统、抗炎、调节免疫、控制高血压、减少蛋白
+尿、改善肾纤维化等肾脏保护作用。 目前认为,持续高
+血糖引起的肾脏血流动力学改变、糖基化中间产物堆
+积以及脂蛋白代谢异常,是糖尿病肾病病变的基
+础[7]。 本实验应用 TGF-β1 过表达或干扰的慢病毒载
+体,成功建立肾脏组织过表达、正常表达和低表达
+TGF-β1 三种糖尿病肾病模型,同时评价活性维生素
+D3对糖尿病肾病的保护作用和对 TGF-β1 及其下游因
+子 PTEN、COL-1 和 CTGF 表达的影响。
+本研究结果显示,肾脏组织 COL-1 的表达水平,
+随着 TGF-β1 的表达增加而增加,提示 COL-1 作为促
+进纤维化的因子,参与了糖尿病肾病进展。 另一方面,
+在活性维生素 D3干预后,TGF-β1 和 COL-1 mRNA 水
+平明显降低,提示活性维生素 D3 可能通过抑制 TGF-
+β1 及其下游的 COL-1 途径,发挥抗纤维化作用而保护
+肾脏功能。 近年研究显示,TGF-β1 具有很强的致纤维
+化作用,是糖尿病肾病发展的主要介导因子[8]。 有学
+者已证实,在糖尿病肾病的发展中,高血糖参与调节
+TGFβ1 合成的各个环节[9]。 高血糖可直接刺激肾脏
+TGF-β1 的表达[10],此转录因子与细胞外基质增多、基
+底膜增厚有直接关系[11]。 同时, TGF-β1 作为一种多
+注:略语同表 1 和图 1 The abbreviations are the same as Tab 1 and Fig 1;与 CON 组比较 vs CON group,aP<0. 05
+图 2  维生素 D 对 COL-1、CTGF 和 PTEN mRNA 表达的影响
+Fig 2  Effects of vitamin D on COL-1,CTGF, and PTEN mRNA expressions
+注:A:TGF-β1 过表达组显示增生的系膜插入基底膜内呈双轨征及血管基底膜皱缩,系膜区可见细颗粒状沉积并且足突阶段性融合,毛细血管塌
+陷 TGF-β1 overexpression group showed the proliferated mesangial cells (MCs) inserting into glomerular basement membrane (GBM), appearing double track sign
+and the vascular GBM shrank, the fine granules deposited in mesangial areas, the podiums from podocytes partially fussed, and apillaries collapsed; B:TGF-β1 过
+表达+vitamin D(VD)组显示系膜区轻微增宽,系膜细胞增生,同时在系膜区可见低密度电子沉积物,内皮细胞轻微水肿,毛细血管逐渐开放 TGF-β1
+overexpression+VD group showed the glomerular mesangial matrix broaden slightly, and less MCs proliferation, and fine granular deposited in the mesangial
+areas. The edema in the endothelial cells disappeared and the capillaries reopened gradually; C: TGF-β1 干扰组显示系膜基质轻度增生且内皮细胞轻微水肿,
+足突排列整齐 TGF-β1 siRNA group showed slightly proliferated mesangial matrix, mild edema in the endothelial cells, and the podocytes in normal shape;D:
+TGF-β1 干扰+VD 组显示轻度的系膜基质增生并且基底膜轻微皱缩,系膜区可见低密度电子沉积物 TGF-β1 siRNA+VD group showed proliferated
+glomerular mesangial matrix and the GBM area shrinking slightly, and fine granular deposited in glomerular mesangial matrix;E:空载体组显示系膜细胞内可见大
+量脂滴伴有血管轻微塌陷、系膜基质和系膜细胞增生和低密度电子沉积物形成 Empty vector group showed much more lipid droplets in mesangial cells,the
+slightly collapsed capillaries,proliferated glomerular mesangial matrix and MCs, and fine granular deposits;F: 空载体+VD 组显示系膜区轻度增宽并且系膜区
+偶见沉积物 Empty vector+VD group showed the glomerular mesangial matrix broaden slightly and fewer fine granular deposited in the mesangial areas
+图 3  各组大鼠糖尿病肾病的病理改变(电镜×5 000)
+Fig 3  The pathological changes of diabetic nephropathy in rats of various groups(Electronic microscopy×5 000)
+肽类调控蛋白,在肾小球硬化和肾小管间质纤维化发
+生、发展中起作用,被认为是诱导肾小管间质纤维化的
+重要细胞因子之一[12,13]。 有研究显示,TGF-β1 表达
+增加可诱导下游 COL-1 表达增加。 COL-1 和细胞外基
+质过多有关,会加速肾间质纤维化进程[14]。
+近年研究表明,CTGF 是一种新的促纤维化生长
+因子,参与了糖尿病肾病的进展。 CTGF 存在于心、
+脑、肾、肺、肝、胰腺等多种组织器官中,其中以肾脏组
+织含量最高。 成纤维细胞、血管内皮细胞、平滑肌细
+胞、肾小球系膜细胞和某些肿瘤细胞均可合成 CTGF。
+CTGF 通过多种途径参与纤维化的病理过程:增加细
+胞外基质,诱导基质沉积,进而促进器官发生纤维
+化[15]。 CTGF 的 5忆末端启动子区域存在一个 TGF-β
+反应元件,因此 CTGF 的表达可能受到 TGF-β 的调控。
+同时 CTGF 增加纤维原细胞活性,介导 TGF-β1 致细胞
+肥大的作用,促进上皮细胞发生转型[16];CTGF 通过促
+进细胞有丝分裂,调节细胞外基质的代谢,调节细胞周
+期的限制点[15]。 本研究结果也显示,维生素 D3 通过
+降低 TGF-β1 及其下游因子 CTGF 的表达,达到肾脏保
+护作用。
+在肾脏纤维化的过程中,另一个重要的因子是
+PTEN。 近期研究表明,磷酸化的 PTEN 具有很强的抗
+纤维化作用[17,18],参与拮抗纤维化的病程进展。 例
+如,在体外培养的 NK2 细胞中,TGF-β1 可诱导产生过
+多细胞外基质,而 PTEN 可抑制这种作用,减少细胞外
+基质的产生。 有研究证实,PTEN 表达下降可导致抗
+纤维化作用减弱,是肾脏发生纤维化的另一重要机
+制[19]。 本研究的结果提示,肾脏组织 TGF-β1 的上调
+可抑制 PTEN 的表达。 维生素 D3通过降低 TGF-β1 表
+达、升高 PTEN 水平而达到肾脏保护作用。
+本研究通过电镜观察到,活性维生素 D3对糖尿病
+肾病有明确的保护作用。 同时,活性维生素 D3干预,
+可降低大鼠肾组织 TGF-β1、COL-1 和 CTGF 的表达,
+增加 PTEN 表达,提示活性维生素 D3 可能通过调节
+TGF-β1 及其下游的纤维化相关因子而产生抗纤维化
+作用。 有动物研究显示,骨化三醇及其类似物均可延
+缓肾脏疾病[20,21]。 另有研究证明,骨化三醇能抑制肾
+素血管紧张素系统、抑制肾小球系膜细胞及球旁细胞
+TGF-β1 表达[22],与本研究的结论基本一致。
+综上所述,本研究证实,肾脏 TGF-β1 的表达水平
+越高,糖尿病肾脏病变越严重。 骨化三醇通过降低
+TGF-β1 表达,下调致纤维化因子 COL-1 和 CTGF 表
+达,上调抗纤维化因子 PTEN 的表达,发挥糖尿病肾病
+保护作用。 本研究结果为糖尿病肾病的防治提供了新
+的靶点药物,为活性维生素 D3的肾脏保护作用提供了
+更多基础研究证据。

@@ -1,0 +1,238 @@
+临床研究
+基金项目:安徽中医学院中医药管理局重点学科—中医内分泌学
+科开放基金(2011nfmxk004)
+妊娠糖尿病患者血清 Nesfatin-1 与胰岛素抵抗及胰岛细胞
+功能的相关性研究
+丁璐  胡红琳  代芳  宣蓉  王长江
+[提要]   探讨妊娠糖尿病患者胰岛素抵抗、胰岛细胞功能与空腹血清 Nesfatin-1 之间的关系。 选取妊
+娠 24 ~ 28 周孕妇 90 例,根据口服葡萄糖耐量试验(OGTT)结果分为妊娠糖尿病组(GDM)45 例,糖耐量正
+常组 45 例,并以空腹血糖(FPG)7. 0 mmol / L 为切割点,将 GDM 组分为 GDM1 组和 GDM2 组。 检测各组空
+腹血清 Nesfatin-1 水平,同时测定 OGTT 各点血糖、胰岛素和 C 肽等,并计算稳态模型评估的胰岛素抵抗指
+数(HOMA-IR)、胰岛 β 细胞功能指数(HOMA-β)、胰岛素曲线下面积(INSAUC) /血糖曲线下面积(PGAUC)和
+早期胰岛素分泌功能指数,分析 Nesfatin-1 与这些指标之间的关系。 GDM1 组和 GDM2 组的 Nesfatin-1 水平
+均显著高于对照组(P<0. 01);GDM2 组的 Nesfatin-1 水平高于 GDM1 组(P<0. 05)。 Pearson 相关分析显示,
+Nesfatin-1 与 FPG、30 min 血糖、1 h 血糖、2 h 血糖、HOMA-IR、PGAUC正相关,与 HOMA-β 负相关。 多元逐步
+回归分析显示,FPG 是影响 Nesfatin-1 水平的独立相关因素。 Nesfatin-1 与胰岛素抵抗正相关,与胰岛细胞
+功能负相关,其可能在妊娠糖尿病的发病机制中发挥一定的作用。
+[关键词]   Nesfatin-1; 妊娠糖尿病; 胰岛素抵抗; 胰岛 β 细胞功能
+Serum nesfatin-1 levels in gestational diabetes mellitus in relation to insulin resistance and pancreatic β-cell
+function    Ding Lu, Hu Honglin, Dai Fang, Xuan Rong, Wang Changjiang. Department of Endocrinology, the
+First Affiliated Hospital of Anhui Medical University, Hefei 230022, China
+[Summary]  The association of serum nesfatin-1 levels with insulin resistance and pancreatic β-cell function in
+gestational diabetes mellitus was investigated. Oral glucose tolerance test(OGTT) was performed in ninety pregnant
+women from24 to 28 gestational weeks. They were divided into three groups according to OGTT: 45 nomal controls, 27
+gestational diabetes mellitus with fasting plasma glucose ( FPG) of 5. 1 mmol / L to 7. 0 mmol / L ( GDM1), 18
+gestational diabetes mellitus with FPG more than 7. 0 mmol / L(GDM2). Serum nesfatin-1 levels were significantly
+higher in patients with GDM1 and GDM2 than in controls(P<0. 01), and in GDM2 group it was also higher than
+GDM1 group(P<0. 05) . Fasting serum nesfatin-1 was positively correlated with FPG, 30 min plasma glucose, 1 h
+plasma glucose, 2 h plasma glucose, homeostasis model assessment for insulin resistance, and PGAUC, but negatively
+correlated with homeostasis model assessment for β-cell function. Furthermore, multiple stepwise regression analysis
+showed that FPG was the independent influencing factor of serum nesfatin-1 level. Nesfatin-1 was positively correlated
+with insulin resistance, while negatively correlated with pancreatic β-cell function. Nesfatin-1 may play a role in the
+pathogenesis of gestational diabetes mellitus.
+[Key words]  Nesfatin-1; Gestational diabetes mellitus; Insulin resistance; Islet β-cell function
+(Chin J Endocrinol Metab, 2014, 30: 210-213)
+妊娠糖尿病(gestational diabetes mellitus,GDM)是指妊娠期
+间发生或首次发现的任何程度的糖耐量异常[1] 。 目前,随着生
+活方式的改善,GDM 的患病率逐年增加,因研究人群和诊断标
+准的不同,平均患病率为 7% [1] ,远期发展为代谢性疾病及心
+脑血管疾病的风险也显著增加[2] 。 Nesfatin-1 是 2006 年由日本
+学者 Oh 等[3] 首次发现并命名的一种在能量平衡、糖代谢、肥
+胖,甚至可能在性腺方面具有重要作用的分泌蛋白,相关研究
+发现其与血糖水平、胰岛素水平以及胰岛素抵抗密切相关[4] ,
+而且在新诊断的 2 型糖尿病患者体内 Nesfatin-1 水平明显增
+高[5] ,但其在 GDM 患者体内的影响目前研究较少。 该研究旨
+在探讨 GDM 患者 Nesfatin-1 水平与胰岛素抵抗及胰岛细胞功
+能之间的关系,为 GDM 发病机制的探索提供新的思路。
+一、 对象和方法
+1. 对象:2012 年 5 月至 2013 年 3 月至本院行口服葡萄糖
+耐量试验(OGTT)的妊娠 24 ~ 28 周孕妇 90 例,其年龄、孕前体
+重指数(BMI)及孕期增加 BMI 相匹配。 根据 OGTT 结果分为
+GDM 组 45 例和糖耐量正常组 ( NGT) 45 例,并以空腹血糖
+(FPG)7. 0 mmol / L 为切割点,将 GDM 组分为 GDM1 组(5. 1
+mmol / L≤ FPG < 7. 0 mmol / L) 27 例和 GDM2 组 ( FPG≥7. 0
+mmol / L)18 例。 妊娠糖尿病诊断标准为 2012 年美国糖尿病学
+会(ADA)制定的标准,于孕 24 ~ 28 周行 75 g OGTT,检测空腹、
+1 h 和 2 h 血糖,血糖水平高于以下任何一项时即可诊断为
+GDM:FPG≥5. 1 mmol / L,1 h 血糖≥10. 0 mmol / L,2 h 血糖≥
+8. 5 mmol / L。 所有受试者均无临床诊断的其他疾病如:多囊卵
+巢综合征、甲状腺、肝肾等疾病,无糖尿病家族史,近期未使用
+影响糖代谢的药物,孕期无饮食偏好,体重增加符合要求[6] 。
+2. 方法:(1)一般临床指标的收集:脱鞋帽,穿单衣,测量
+现在身高、体重,记录年龄、家族史、饮食习惯,询问孕前 1 周时
+体重,孕次,妊娠生育史,计算孕前 BMI = 体重 ( kg) /身高2
+(m2)、孕期增加 BMI =现在 BMI-孕前 BMI。 安静状态下用水
+银血压计测右肱动脉血压(mmHg,1 mmHg = 0. 133 kPa),测 2
+次取平均值。 (2)生化指标测定:受试者隔夜禁食 8 ~ 10 h 后
+行 OGTT,留取空腹、30 min、1 h 和 2 h 静脉血,利用氧化电极法
+检测各点血糖,化学发光法检测各点胰岛素和 C 肽。 计算稳态
+模型评估的胰岛素抵抗指数(HOMA-IR)= 空腹胰岛素(FINS)
+(mU / L)×FPG(mmol / L) / 22. 5;胰岛 β 细胞功能指数(HOMA-
+β)= 20×FINS(mU / L) / [FPG(mmol / L)-3. 5];胰岛素曲线下面
+积(INSAUC) /血糖曲线下面积(PGAUC) = [FINS (mU / L) / 4 +30
+min INS(mU / L) / 2+1 h INS(mU / L)×0. 75+2 h INS(mU / L) / 2] /
+[FPG ( mmol / L ) / 4 + 30 min 血 糖 ( mmol / L ) / 2 + 1 h 血 糖
+(mmol / L)×0. 75+2 h 血糖(mmol / L) / 2];早期胰岛素分泌功能
+指数(△I30 / △G30 ) = [30 min INS(mU / L) -FINS (mU / L)] / [30
+min 血糖(mmol / L)-FPG(mmol / L)]。 (3)空腹血清 Nesfatin-1
+的测定:空腹静脉血常温静置 30 min 后于 3 000 转 / min 离心 10
+min 后取血清,-80℃冰箱保存统一待检。 采用酶联免疫吸附
+法(ELISA)检测血清 Nesfatin-1 水平。
+3. 统计学处理:应用 SPSS 20. 0 软件进行统计学分析。 计
+量资料以 x-± s 表示,非正态分布资料经对数转换后进行分析。
+3 个亚组间比较采用 ANOVA / LSD 法;一个因变量与单个自变
+量之间的关系用 Pearson 相关性分析;一个因变量与多个自变
+量之间的关系用多元逐步回归分析,以 P<0. 05 为差异有统计
+学意义。
+二、 结果
+1. 3 组间一般临床资料的比较:3 组间年龄、孕周、孕前
+BMI、收缩压、舒张压、孕期增加 BMI、INSAUC相比差异无统计学
+意义(P>0. 05)。 GDM1 和 GDM2 组的 FPG、30 min 血糖、1 h 血
+糖、2 h 血糖、FINS、HOMA-IR、PGAUC 均明显高于 NGT 组,差异
+有统计学意义(P<0. 01);GDM1 和 GDM2 组的 HOMA-β 均低
+于 NGT 组,差异有统计学意义(P<0. 01 或 P<0. 05)。 GDM1 组
+C 肽、INSAUC / PGAUC、△I30 / △G30 与 NGT 相比差异无统计学意义
+(P> 0. 05),而 GDM2 组 C 肽高于 NGT 组, INSAUC / PGAUC 和
+△I30 / △G30低于 NGT 组,差异有统计学意义 ( P < 0. 01)。 与
+GDM1 组相比,GDM2 组 FPG、30 min 血糖、1 h 血糖、2 h 血糖、
+HOMA-IR、PGAUC 均高于 GDM1 组,差异有统计学意义 ( P <
+0. 01);GDM2 组 HOMA-β、INSAUC / PGAUC和 △I30 / △G30均明显低
+于 GDM1 组,差异有统计学意义(P<0. 01 或 P<0. 05,表 1)。
+2. 3 组间血清 Nesfatin-1 的比较:GDM1 组和 GDM2 组的
+Nesfatin-1 水平均明显高于 NGT 组,差异有统计学意义(P<
+0. 01);GDM2 组 Nesfatin-1 水平亦明显高于 GDM1 组(P<0. 05,
+表 1)。
+3. 空腹血清 Nesfatin-1 与各指标间的相关性分析:Pearson
+相关分析显示,空腹血清 Nesfatin-1 与年龄、孕周、孕前 BMI、孕
+期增加 BMI、收缩压、舒张压、FINS、C 肽、INSAUC、INSAUC / PGAUC
+和 △I30 / △G30均无相关性,与 FPG、30 min 血糖、1 h 血糖、2 h 血
+糖、HOMA-IR 及 PGAUC呈正相关( r 分别为 0. 313、0. 302、0. 345、
+表 1  3 组间一般临床资料及 Nesfatin-1 的比较(x-± s)
+组别 例数 年龄(岁)
+孕周
+(周)
+孕前 BMI
+(kg / m2)
+增加 BMI
+(kg / m2)
+收缩压
+(mmHg)
+舒张压
+(mmHg)
+FPG*
+(mmol / L)
+NGT 45 27. 87 ± 4. 27 26. 67 ± 2. 21 21. 14 ± 2. 26 3. 59 ± 1. 25 110 ± 10 70 ± 6 1. 54 ± 0. 06
+GDM1 27 29. 72 ± 3. 73 26. 41 ± 2. 76 22. 09 ± 3. 23 3. 99 ± 1. 28 115 ± 11 73 ± 9 1. 71 ± 0. 06b
+GDM2 18 29. 15 ± 4. 39 26. 92 ± 3. 07 22. 87 ± 1. 38 3. 59 ± 1. 25 116 ± 7  74 ± 7 2. 02 ± 0. 13bd
+F 值 1. 993 0. 212 2. 592 2. 107 2. 296 2. 430 202. 941
+P 值 0. 142 0. 809 0. 081 0. 128 0. 107 0. 094 <0. 001
+组别 例数 30 min 血糖(mmol / L)
+1 h 血糖
+(mmol / L)
+2 h 血糖*
+(mmol / L)
+FINS*
+(mU / L)
+C 肽
+(ng / ml) HOMA-IR
+NGT 45 7. 62 ± 0. 97 7. 38 ± 1. 28 1. 81 ± 0. 19 2. 15 ± 0. 46 1. 27 ± 0. 37 2. 00 ± 1. 00
+GDM1 27 8. 92 ± 1. 10b 9. 72 ± 1. 87b 2. 04 ± 0. 21b 2. 53 ± 0. 42b 1. 45 ± 0. 42 3. 36 ± 1. 40b
+GDM2 18 11. 57 ± 1. 84bd 14. 49 ± 2. 74bd 2. 52 ± 0. 32bd 2. 64 ± 0. 40b 1. 72 ± 0. 63b 4. 65 ± 2. 39bd
+F 值 56. 019 80. 659 52. 790 9. 941 5. 390 20. 891
+P 值 <0. 001 <0. 001 <0. 001 <0. 001 0. 006 <0. 001
+组别 例数 HOMA-β PGAUC INSAUC INSAUC / PGAUC △I30 / △G30
+Nesfatin-1
+(μg / L)
+NGT 45 163. 77 ± 64. 82 13. 62 ± 1. 67 140. 88 ± 70. 88 10. 25 ± 4. 72 22. 82 ± 16. 12 1. 69 ± 0. 49
+GDM1 27 135. 10 ± 47. 46a 17. 07 ± 2. 29b 163. 77 ± 75. 48 9. 57 ± 4. 30 19. 95 ± 11. 79 2. 02 ± 0. 47b
+GDM2 18 74. 39 ± 48. 46bd 25. 03 ± 4. 54bd 116. 10 ± 92. 09 5. 02 ± 4. 29bd 8. 12 ± 8. 91bc 2. 41 ± 0. 70bc
+F 值 12. 629 105. 447 1. 928 6. 420 5. 286 10. 296
+P 值 <0. 001 <0. 001 0. 152 0. 003 0. 007 <0. 001
+注:NGT:正常糖耐量;GDM:妊娠糖尿病;BMI:体重指数;1 mmHg=0. 133 kPa;FPG:空腹血糖;FINS:空腹胰岛素;HOMA-IR:稳态模型评估的胰岛
+素抵抗指数;HOMA-β:稳态模型评估的胰岛 β 细胞功能指数;PGAUC:血糖曲线下面积;INSAUC:胰岛素曲线下面积;△I30 / △G30:早期胰岛素分泌功能
+指数;与 NGT 比较,aP<0. 05,bP<0. 01;与 GDM1 比较,cP<0. 05,dP<0. 01; *为经对数转换后数据
+0. 247、0. 219、0. 327,P<0. 05 或 P<0. 01);与 HOMA-β 呈负相
+关( r= -0. 256,P<0. 05)。
+以 Nesfatin-1 为因变量,以孕前 BMI、FPG、30 min 血糖、1 h
+血糖、2 h 血糖、FINS、C 肽、HOMA-IR、HOMA-β、INSAUC / PGAUC、
+△I30 / △G30为自变量,对 GDM 组进行多元逐步回归分析,结果显
+示 FPG 为 Nesfatin-1 的独立影响因素,回归方程为:Y= -0. 196+
+1. 256×FPGLn(95% CI 为 0. 576 ~ 1. 937)。
+二项 logistic 回归分析表明,在逐步控制年龄、孕周、血压、
+孕前 BMI、孕期增加 BMI 后,血清 Nesfatin-1 水平与 GDM 密切
+相关(OR=0. 107,95% CI 0. 028 ~ 0. 408, P<0. 01),为 GDM 的
+保护因素。
+三、 讨论
+GDM 是妊娠期间最常见的代谢性疾病之一,也是严重威
+胁母儿安危的产科并发症之一,因此,对 GDM 病因的探索显得
+十分重要。 最近几年的研究均显示 GDM 的发病机制与 2 型糖
+尿病相似,与胰岛素抵抗及胰岛 β 细胞功能受损有关,但具体
+病因并不明确。 该研究发现,从 NGT、GDM1 到 GDM2,随着糖
+代谢紊乱的不断进展,血糖水平的不断升高,HOMA-IR 逐渐增
+高,HOMA-β、INSAUC / PGAUC、△I30 / △G30逐渐降低,表明胰岛素抵
+抗进行性加重,胰岛 β 细胞功能进行性减退,提示 GDM2 组患
+者有明显的胰岛素抵抗和明显的胰岛 β 细胞功能受损,其后发
+展为糖尿病的几率更大。
+有研究显示血液循环中影响胰岛素敏感性的脂肪因子在
+GDM 的发病中起重要作用[7] 。 也有研究证实了脂肪因子水平
+与妊娠妇女 β 细胞功能密切相关[8] 。 2006 年新发现的脂肪因
+子 Nesfatin-1 是由核组蛋白 2(nucleobinding2,NUCB2)N 端水解
+产生的包含 82 个氨基酸的多肽,分布于下丘脑、脑干和垂体等
+中枢神经系统及胰腺、肝脏、脂肪、骨骼肌和胃黏膜等外周组
+织。 最初 Nesfatin-1 是作为一种抑食因子被发现的,动物实验
+也表明第三脑室内注射 Nesfatin-1 可以明显减少摄食量和降低
+体重[3] 。 最近研究表明,Nesfatin-1 具有降血糖作用,db / db 小
+鼠静脉血中注射 Nesfatin-1 后可观察到时间、剂量及胰岛素±
+赖性的血糖降低[4] 。 此后的动物实验也证明 Nesfatin-1 可以增
+加胰岛素分泌及促进葡萄糖吸收[9] 。 这些结果说明 Nesfatin-1
+在机体能量平衡及糖代谢方面发挥重要作用,但其在 GDM 患
+者体内的变化情况尚不明确。 Zhang 等[5] 研究发现新诊断的 2
+型糖尿病及糖耐量异常患者体内 Nesfatin-1 水平较正常对照组
+增高,且 Nesfatin-1 水平与胰岛素抵抗指数密切相关。 该研究
+中,GDM1 组和 GDM2 组较正常对照组、GDM2 组较 GDM1 组均
+有较 高 的 HOMA-IR, 且 从 NGT 组、 GDM1 组 至 GDM2 组
+Nesfatin-1 水平逐渐增高,Pearson 相关分析亦提示 Nesfatin-1 与
+HOMA-IR 呈正相关,与 Zhang 等[5] 的研究结果一致。 然而,该
+研究结果与 Aslan 等[10]报道的研究结果不同,其结果显示妊娠
+糖尿病患者 Nesfatin-1 水平低于正常孕妇,分析造成此差异的
+原因除了实验误差外,还与研究对象的选取、妊娠糖尿病的诊
+断标准不同有关。 目前 ADA 最新妊娠糖尿病诊断标准为行
+75 g OGTT 后只要一个血糖值超过临界即可诊断妊娠糖尿病,
+而 Aslan 的文章中采用 2001 年美国妇产科学会(ACOG)诊断
+标准。 此外,Gonzalez 等[11] 在啮鼠类的胰腺 β 细胞中观察到
+Nesfatin 前体 NUCB2 mRNA 和胰岛素共定位,这提示 Nesfatin-1
+可能伴随着胰岛素分泌释放入血,也有动物实验证明血液中部
+分 Nesfatin-1 来自胰岛 β 细胞的分泌。 由于 GDM 患者伴有胰
+岛素抵抗和高胰岛素血症,胰岛 β 细胞可能在释放大量胰岛素
+的同时释放 Nesfatin-1,故导致 GDM 患者 Nesfatin-1 水平高于正
+常对照组。 同时 Foo 等[12] 发现正常小鼠和糖尿病模型 GK 大
+鼠在受到高血糖刺激后胰腺 β 细胞分泌 Nesfatin-1 增高,该实
+验中也观察到 GDM2 组 Nesfatin-1 水平明显高于 GDM1 组。
+Pearson 相关分析显示,Nesfatin-1 与 FPG、30 min 血糖、1 h
+血糖、2 h 血糖、HOMA-IR 及 PGAUC正相关,与 HOMA-β 负相关。
+这表明糖代谢异常、胰岛素抵抗及胰岛细胞功能受损可明显影
+响血清 Nesfatin-1 水平,且随着血糖水平的升高,胰岛素抵抗逐
+渐加重,胰岛细胞功能逐渐降低,Nesfatin-1 水平逐渐上升,进一
+步说明血清 Nesfatin-1 水平与胰岛素抵抗及胰岛细胞功能受损
+之间存在着直接的联系,这与其他一些研究结果是一致
+的[5,13] 。 这提示 GDM 患者体内 Nesfatin-1 水平升高也可能是
+机体的一种保护性代偿机制,增多的 Nesfatin-1 可以适应机体
+在妊娠糖尿病状态下糖代谢紊乱的需要,即机体可能对
+Nesfatin-1 产生抵抗。 但该研究中 Nesfatin-1 与 INSAUC / PGAUC、
+△I30 / △G30无相关性,可能 INSAUC / PGAUC、△I30 / △G30 与 HOMA-β
+评价胰岛 β 细胞功能的敏感性不同。
+多元逐步回归分析显示,FPG 是影响 Nesfatin-1 水平的独
+立相关因素,提示血糖水平的紊乱程度可能是影响 Nesfatin-1
+水平的最重要因素,此外,该研究根据空腹血糖水平的不同将
+GDM 组分为 2 个亚组后发现,空腹血糖水平较高组,血清
+Nesfatin-1 水平较高,进一步表明 FPG 与 Nesfatin-1 水平密切关
+系。 二项 logistic 回归分析表明,在逐步控制年龄、孕周、血压、
+孕前 BMI 后,血清 Nesfatin-1 水平仍与 GDM 密切相关,说明
+Nesfatin-1 可能参与了 GDM 的发生和发展,在 GDM 的发病机
+制中发挥一定的作用。
+总之,该研究结果提示 Nesfatin-1 与 GDM 患者胰岛素抵抗
+和胰岛 β 细胞功能受损之间有着密切的联系,Nesfatin-1 可能
+在 GDM 的发病机制中发挥着一定的作用, 但并不说明
+Nesfatin-1 即为 GDM 胰岛素抵抗及胰岛 β 细胞功能受损的起
+因,故 Nesfatin-1 在 GDM 以及代谢性疾病中的具体作用还有待
+进一步研究。

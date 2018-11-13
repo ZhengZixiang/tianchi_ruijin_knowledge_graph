@@ -1,0 +1,326 @@
+T1	Disease 1901 1909	糖尿病视网膜病变
+T2	Disease 2890 2896;2897 2899	糖尿病视网膜 病变
+T3	Disease 4480 4488	糖尿病视网膜病变
+T4	Disease 4607 4615	糖尿病视网膜病变
+T5	Disease 1757 1763	1 型糖尿病
+T6	Disease 3802 3808	1 型糖尿病
+T7	Disease 4022 4028	1 型糖尿病
+T8	Disease 4141 4147	1 型糖尿病
+T9	Disease 4300 4306	1 型糖尿病
+T10	Disease 4348 4354	1 型糖尿病
+T11	Disease 1838 1844	2 型糖尿病
+T12	Disease 3343 3349	2 型糖尿病
+T13	Disease 3413 3419	2 型糖尿病
+T14	Disease 1895 1900	糖尿病肾病
+T15	Disease 2607 2612	糖尿病肾病
+T16	Disease 6512 6517	糖尿病肾病
+T17	Disease 6608 6613	糖尿病肾病
+T18	Disease 6752 6757	糖尿病肾病
+T19	Disease 6784 6789	糖尿病肾病
+T20	Disease 6806 6811	糖尿病肾病
+T21	Disease 133 136	糖尿病
+T22	Disease 192 195	糖尿病
+T23	Symptom 212 215	高血糖
+T24	Anatomy 227 229	胰岛
+T25	Disease 267 270	糖尿病
+T26	Disease 300 303	糖尿病
+T27	Disease 319 322	糖尿病
+T28	Disease 1324 1327	糖尿病
+T29	Symptom 1331 1339	慢性血糖水平增高
+T30	Disease 1385 1388	糖尿病
+T31	Disease 1635 1638	糖尿病
+T32	Disease 1689 1692	糖尿病
+T33	Disease 1712 1713;1714 1716	糖 尿病
+T34	Disease 1725 1728	糖尿病
+T35	Disease 1788 1793	血管并发症
+T36	Test 1882 1884	血糖
+T37	Anatomy 1948 1954	血管内皮细胞
+T38	Disease 2266 2269	糖尿病
+T39	Test 2274 2283;2284 2287	纤溶酶原激活物抑制 剂 1
+T40	Test 2325 2330	PAI-1
+T41	Disease 2386 2394	糖尿病血管并发症
+T42	Test 2508 2510	血糖
+T43	Disease 2534 2537	糖尿病
+T44	Anatomy 2539 2542	肾小球
+T45	Disease 2669 2672	糖尿病
+T46	Drug 2746 2750	链脲霉素
+T47	Anatomy 2780 2787	视网膜内皮细胞
+T48	Anatomy 2788 2801	HDAC1 / 2 / 8
+T49	Test 2835 2837	血糖
+T50	Anatomy 2852 2855	视网膜
+T51	Disease 3257 3260	糖尿病
+T52	Disease 3275 3278	糖尿病
+T53	Anatomy 3386 3391	HDAC2
+T54	Anatomy 3441 3446	HDAC2
+T55	Disease 3459 3462	糖尿病
+T56	Anatomy 3539 3544	THP-1
+T57	Disease 3573 3576	糖尿病
+T58	Disease 3886 3889	糖尿病
+T59	Disease 3904 3907	糖尿病
+T60	Disease 3919 3922	糖尿病
+T61	Reason 184 190	组蛋白乙酰化
+T62	Anatomy 4038 4043	IDDM1
+T63	Anatomy 4046 4051	IDDM2
+T64	Disease 4055 4058	糖尿病
+T65	Disease 4090 4093	糖尿病
+T66	Reason 4132 4133;4134 4139	组 蛋白甲基化
+T67	Anatomy 4291 4295	单核细胞
+T68	Disease 4678 4681	糖尿病
+T69	Disease 4695 4698	糖尿病
+T70	Drug 4718 4723	HDACi
+T71	Anatomy 4736 4740	HDAC
+T72	Disease 4743 4746	糖尿病
+T73	Disease 4754 4757	糖尿病
+T74	Disease 4824 4827	糖尿病
+T75	Anatomy 4844 4848	HDAC
+T76	Disease 4853 4856	糖尿病
+T77	Anatomy 4948 4952	β 细胞
+T78	Anatomy 5030 5034	β 细胞
+T79	Drug 5039 5044	HDACi
+T80	Anatomy 5110 5117	胰腺内分泌细胞
+T81	Anatomy 5123 5127	HDAC
+T82	Disease 5129 5132	糖尿病
+T83	Drug 5143 5148	HDACi
+T84	Anatomy 5240 5244	β 细胞
+T85	Anatomy 5256 5260	HDAC
+T86	Anatomy 5285 5289	肌肉组织
+T87	Drug 5542 5547	HDACi
+T88	Disease 5551 5559	糖尿病血管并发症
+T89	Disease 5575 5578	糖尿病
+T90	Anatomy 5587 5591	HDAC
+T91	Disease 5594 5596;5597 5598	糖尿 病
+T92	Anatomy 5671 5680	胰腺癌 β 细胞系
+T93	Drug 5659 5664	HDACi
+T94	Anatomy 5760 5767	胰岛 β 细胞
+T95	Anatomy 5804 5807	骨骼肌
+T96	Anatomy 5808 5811;5812 5813	脂肪组 织
+T97	Test 5827 5829	体重
+T98	Test 5832 5834	血糖
+T99	Anatomy 5868 5872	脂肪组织
+T100	Drug 5918 5927	HDAC3 抑制剂
+T101	Disease 5960 5963	糖尿病
+T102	Anatomy 5964 5967	视网膜
+T103	Drug 6006 6010	米诺环素
+T104	Drug 6035 6036;6037 6042	曲 古霉素 A
+T105	Drug 6059 6062	TSA
+T106	Anatomy 6080 6082	胰岛
+T107	Drug 6086 6089	TSA
+T108	Drug 6167 6170	TSA
+T109	Anatomy 6175 6180	细胞外基质
+T110	Anatomy 6185 6188;6189 6193	肾小管 上皮细胞
+T111	Drug 6297 6300	TSA
+T112	Anatomy 6305 6307;6308 6311	细胞 外基质
+T113	Anatomy 6314 6321	肾小管上皮细胞
+T114	Method 6354 6358	皮下注射
+T115	Drug 6359 6362	TSA
+T116	Disease 6375 6378	糖尿病
+T117	Test 6380 6383	尿蛋白
+T118	Drug 6394 6397	TSA
+T119	Drug 6445 6450	HDACi
+T120	Drug 6453 6463	vorinostat
+T121	Disease 6483 6493	皮肤 T 细胞淋巴瘤
+T122	Drug 6495 6500	HDACi
+T123	Drug 6524 6529	HDACi
+T124	Anatomy 6591 6593	肾脏
+T125	Test 6620 6622	血糖
+T126	Anatomy 6651 6653	肾脏
+T127	Anatomy 6727 6730	肾小球
+T128	Anatomy 6759 6761	肾脏
+T129	Drug 6799 6804	HDACi
+T130	Drug 6853 6863	vorinostat
+T131	Drug 6866 6869	TSA
+T132	Drug 6901 6911	vorinostat
+T133	Anatomy 6935 6939	HDAC
+T134	Anatomy 6941 6943	胰岛
+T135	Anatomy 6946 6950	β 细胞
+T136	Anatomy 6971 6975	HDAC
+T137	Disease 6977 6980	糖尿病
+T138	Drug 6989 6994	HDACi
+T139	Disease 6996 6997;6998 7000	糖 尿病
+T140	Disease 7042 7045	糖尿病
+T141	Disease 7072 7075	糖尿病
+T142	Drug 7102 7107	HDACi
+T143	Drug 7140 7145	HDACi
+T144	Disease 7147 7150	糖尿病
+T145	Anatomy 7203 7207	HDAC
+T146	Disease 7229 7232	糖尿病
+T147	Anatomy 3056 3060	活性氧簇
+T148	Anatomy 3088 3091	ROS
+T149	Anatomy 3097 3100	ROS
+T150	Anatomy 6640 6643	ROS
+T151	Test 2344 2349	PAI-1
+T152	Test 2409 2414	PAI-1
+T153	Test 2430 2435	PAI-1
+T154	Test 2544 2549	PAI-1
+T155	Test 2589 2594	PAI-1
+T156	Test 2626 2631	PAI-1
+T157	Disease 4917 4921	MODY
+T158	Test 3142 3144	血糖
+T159	Test 3209 3211	血糖
+T160	Anatomy 1440 1448	组蛋白乙酰转移酶
+T161	Anatomy 1476 1479	HAT
+T162	Anatomy 1481 1484;1485 1490	组蛋白 去乙酰化酶
+T163	Anatomy 1512 1516	HDAC
+T164	Anatomy 1521 1524	HAT
+T165	Anatomy 1585 1589	HDAC
+T166	Anatomy 1647 1651	HDAC
+T167	Anatomy 2448 2456	SERPINE1
+T168	Anatomy 2552 2555	p21
+T169	Anatomy 2567 2571	H3K9
+T170	Anatomy 2574 2578	14Ac
+T171	Anatomy 2597 2600	p21
+T172	Anatomy 2613 2616	肾小球
+T173	Anatomy 2638 2646	SERPINE1
+T174	Disease 2774 2777	糖尿病
+T175	Anatomy 2808 2811	HAT
+T176	Anatomy 3002 3008	p66Shc
+T177	Anatomy 3024 3030	组蛋白 H3
+T178	Anatomy 3044 3050	p66Shc
+T179	Anatomy 3106 3110	蛋白激酶
+T180	Anatomy 3128 3134	p66Shc
+T181	Anatomy 3159 3165	p66Shc
+T182	Anatomy 3553 3560	H3K9me2
+T183	Anatomy 3620 3627	H3K9me2
+T184	Anatomy 3728 3733	THP-1
+T185	Anatomy 3745 3752	干扰素调节因子
+T186	Anatomy 3783 3786	IRF
+T187	Anatomy 3812 3816	IRF7
+T188	Anatomy 3835 3839	IRFs
+T189	Anatomy 3844 3847	HAT
+T190	Anatomy 3850 3854	HDAC
+T191	Anatomy 3869 3872	组蛋白
+T192	Reason 3894 3896;3897 3902	组蛋 白修饰异常
+T193	Reason 1372 1377;1378 1383	组蛋白乙酰 化水平失调
+T194	Anatomy 4171 4178	H3K9me2
+T195	Anatomy 4320 4328	HLA-DRB1
+T196	Anatomy 4331 4339	HLA-DQB1
+T197	Test 4357 4363	H3K9Ac
+T198	Test 4375 4383	HLA-DRB1
+T199	Test 4386 4394	HLA-DQB1
+T200	Anatomy 4418 4424	基质肽酶 9
+T201	Anatomy 4452 4457	MMP-9
+T202	Anatomy 4517 4522	MMP-9
+T203	Anatomy 4529 4532	HAT
+T204	Test 4538 4544	H3K9Ac
+T205	Anatomy 4552 4558	H3K9Ac
+T206	Anatomy 4566 4579	NF-κB 亚单位 p65
+T207	Anatomy 4581 4584	p65
+T208	Anatomy 4587 4592	MMP-9
+T209	Anatomy 4601 4604	线粒体
+T210	Anatomy 4885 4892	6q21 基因
+T211	Anatomy 4897 4902	HDAC2
+T212	Anatomy 4928 4931	HAT
+T213	Anatomy 4934 4938	HDAC
+T214	Disease 4962 4968	宫内发育迟缓
+T215	Reason 4974 4979	HDAC1
+T216	Anatomy 5019 5024	HDAC5
+T217	Anatomy 5049 5057;5058 5064	胰岛特异性转录因 子 Pax4
+T218	Anatomy 5084 5088	Ngn3
+T219	Anatomy 5092 5096	Ngn3
+T220	Anatomy 5161 5163;5164 5170	肿瘤 坏死因子 α
+T221	Anatomy 5173 5178	TNF-α
+T222	Anatomy 5180 5188	白细胞介素 1β
+T223	Anatomy 5191 5196	IL-1β
+T224	Anatomy 5200 5205	γ-干扰素
+T225	Anatomy 5207 5212	IFN-γ
+T226	Disease 5272 5278	宫内发育迟缓
+T227	Test 5291 5300	HDAC1 / 4
+T228	Anatomy 5311 5316	GLUT4
+T229	Test 5333 5338	GLUT4
+T230	Symptom 5349 5353;5354 5355	胰岛素抵 抗
+T231	Drug 5360 5365	HDACi
+T232	Anatomy 5367 5372	胰岛素受体
+T233	Test 5397 5403	胰岛素敏感性
+T234	Drug 5415 5416;5417 5427	组 蛋白去乙酰化酶抑制剂
+T235	Drug 5427 5430	丙戊酸
+T236	Anatomy 5434 5443;5444 5445	组织型纤溶酶原激活 物
+T237	Anatomy 5481 5485	t-PA
+T238	Test 5499 5503	t-PA
+T239	Anatomy 5513 5517	t-PA
+T240	Drug 5712 5721	HDAC3 抑制剂
+T241	Drug 5722 5728	MS-275
+T242	Anatomy 5856 5862	PGC-1α
+T243	Anatomy 6154 6156	胰岛
+T244	Drug 6369 6372	STZ
+T245	Anatomy 6745 6751	表皮生长因子
+T246	Reason 6828 6842	下调 eNOS 及 EGFR
+T247	Anatomy 7060 7063	HAT
+T248	Anatomy 7066 7070	HDAC
+T249	Disease 1343 1348	代谢性疾病
+T250	Symptom 1677 1679	高糖
+T251	Symptom 1695 1697	高糖
+T252	Treatment 1779 1783	强化降糖
+T253	Symptom 1804 1806	高糖
+T254	Symptom 2002 2004	高糖
+T255	Symptom 1959 1961	高糖
+T256	Symptom 2039 2041	高糖
+T257	Treatment 2062 2063;2064 2065	高 糖
+T258	Symptom 2105 2107	高糖
+T259	Disease 2171 2174	糖尿病
+T260	Symptom 2196 2198	高糖
+T261	Test_Value 2335 2337	升高
+T262	Reason 2370 2374;2375 2377	内皮功能 障碍
+T263	Reason 2378 2382	血栓形成
+T264	Reason 2352 2367	抑制纤溶酶原激活物负向调节纤溶
+T265	Symptom 2685 2687	高糖
+T266	Drug 2768 2771	STZ
+T267	Drug 2752 2766	streptozotocin
+T268	Disease 3176 3177;3178 3180	糖 尿病
+T269	Symptom 3182 3184	高糖
+T270	Test 3287 3290;3291 3296	全基因 组关联研究
+T271	Test 3297 3328	genome wide association studies
+T272	Test 3330 3334	GWAS
+T273	Test 3375 3379	GWAS
+T274	Treatment 3722 3724	高糖
+T275	Treatment 3788 3790	高糖
+T276	Test 3945 3949	GWAS
+T277	Symptom 4777 4779	高糖
+T278	Symptom 5529 5533;5534 5538	循环系统 血栓形成
+T279	Drug 5623 5624;5625 5634	调 节乙酰化水平的药物
+T280	Test_Value 5825 5827	减轻
+T281	Test_Value 5830 5832	降低
+T282	Drug 6043 6057	trichostatin A
+T283	Symptom 6194 6201	上皮-间充质化
+T284	Method 6399 6401	口服
+T285	Anatomy 6534 6542;6543 6544	内皮型一氧化氮合 酶
+T286	Anatomy 6580 6584	eNOS
+T287	Symptom 6240 6243	EMT
+T288	Symptom 6324 6327	EMT
+T289	Symptom 1770 1774;1775 1776	高血糖状 态
+T290	Symptom 1874 1877	高血糖
+T291	Symptom 2141 2149	血管内皮功能障碍
+T292	Anatomy 2904 2915	叉头蛋白 p66Shc
+T293	Anatomy 3483 3490;3491 3496	急性单核细胞白 血病细胞系
+T294	Anatomy 4012 4020	IDDM1 基因
+T295	Disease 4403 4409	糖尿病并发症
+T296	Anatomy 4460 4463	视网膜
+T297	Anatomy 4463 4466	线粒体
+T298	Disease 4704 4710	糖尿病并发症
+T299	Symptom 4758 4762;4763 4764	高血糖状 态
+T300	Disease 4872 4875	1 型
+T301	Disease 4877 4882;4883 4884	2 型糖尿 病
+T302	Anatomy 4903 4910	MODY 基因
+T303	Anatomy 4917 4926	MODY 转录因子
+T304	Symptom 5000 5008	β 细胞发育异常
+T305	Anatomy 4992 4996	Pdx1
+T306	Anatomy 5104 5109	胰腺祖细胞
+T307	Anatomy 5099 5103	Pdx1
+T308	Anatomy 5151 5159	外周血单个核细胞
+T309	Disease 5262 5267	胰岛素抵抗
+T310	Disease 5406 5412	糖尿病并发症
+T311	Drug 5567 5572	HDACi
+T312	Drug 5790 5799	I 类 HDACi
+T313	Test 5836 5839	胰岛素
+T314	Anatomy 5849 5854	骨骼肌细胞
+T315	Drug 5903 5912	I 类 HDACi
+T316	Disease 5933 5936	糖尿病
+T317	Disease 5997 6001;6002 6005	早期视网 膜病变
+T318	Anatomy 6107 6116	insulin 1
+T319	Anatomy 6118 6127	insulin 2
+T320	Anatomy 6129 6134	GLUT2
+T321	Anatomy 6137 6141	Ogg1
+T322	Reason 6252 6270	细胞外基质在肾小球基底膜及系膜中堆积
+T323	Symptom 6274 6284	肾小球结构和功能改变
+T324	Disease 6335 6337;6338 6339	糖尿 病
+T325	Disease 6340 6344	肾纤维化
+T326	Disease 7217 7220	糖尿病

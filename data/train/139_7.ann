@@ -1,0 +1,429 @@
+T1	Test 7164 7169	HBA1C
+T2	Test 7570 7575	HDL-C
+T3	Test 8475 8480	HDL-C
+T4	Test 7587 7592	LDL-C
+T5	Test 8528 8533	LDL-C
+T6	Disease 30 34	糖尿病足
+T7	Disease 144 148	糖尿病足
+T8	Disease 202 206	糖尿病足
+T9	Disease 529 533	糖尿病足
+T10	Disease 574 578	糖尿病足
+T11	Disease 3057 3061	糖尿病足
+T12	Disease 3550 3554	糖尿病足
+T13	Disease 4950 4954	糖尿病足
+T14	Disease 8219 8223	糖尿病足
+T15	Disease 10862 10866	糖尿病足
+T16	Test 8330 8334	空腹血糖
+T17	Test 7149 7152	FPG
+T18	Test 8326 8329	FPG
+T19	Test 7604 7607	BUN
+T20	Test 8580 8583	BUN
+T21	Test 8585 8588	尿素氮
+T22	Test 7542 7544	TC
+T23	Test 8425 8427	TC
+T24	Test 7556 7558	TG
+T25	Test 8453 8455	TG
+T26	Disease 226 228;229 247	耐甲 氧西林金黄色葡萄球菌(MRSA)感染
+T27	Disease 263 265	溃疡
+T28	Disease 323 332	金黄色葡萄球菌感染
+T29	Disease 345 348	足溃疡
+T30	Drug 385 389	万古霉素
+T31	Drug 390 392;393 394	利福 平
+T32	Drug 395 399	利奈唑胺
+T33	Drug 400 404	替考拉宁
+T34	Disease 414 421	MRSA 感染
+T35	Disease 457 459	死亡
+T36	Disease 474 481	MRSA 感染
+T37	Disease 510 514;515 517	MRSA 感染
+T38	Test 536 543	MRSA 培养
+T39	Disease 549 556	MRSA 感染
+T40	Disease 273 275	死亡
+T41	Disease 2583 2585	感染
+T42	Disease 2597 2599	死亡
+T43	Disease 2614 2629	糖 尿 病 足 溃 疡 感 染
+T44	Disease 2695 2700	足溃疡感染
+T45	Disease 2866 2873	MRSA 感染
+T46	Disease 2896 2903	MRSA 感染
+T47	Disease 2905 2908	DFU
+T48	Disease 3043 3046	糖尿病
+T49	Disease 3084 3087	糖尿病
+T50	Disease 3100 3103	糖尿病
+T51	Disease 3126 3129	糖尿病
+T52	Drug 3182 3187	糖皮质激素
+T53	Disease 3485 3487	死亡
+T54	Disease 3516 3521	足溃疡感染
+T55	Symptom 3616 3620	轻度感染
+T56	Symptom 3657 3661	蜂窝织炎
+T57	Symptom 3681 3693	感染局限于皮肤和皮下组织
+T58	Level 3589 3592	1 级
+T59	Level 3612 3613;3614 3615	2 级
+T60	Level 3706 3709	3 级
+T61	Symptom 3717 3722;3723 3729	全身情况包 括糖代谢稳定
+T62	Symptom 3760 3767	筋膜下感染扩散
+T63	Symptom 3768 3774	深部组织脓肿
+T64	Level 3793 3796	4 级
+T65	Symptom 3802 3804;3805 3810	有全 身毒血症状
+T66	Symptom 3811 3816	代谢不稳定
+T67	Disease 3821 3824	足溃疡
+T68	Disease 3831 3834	DFU
+T69	Level 3894 3897	1 级
+T70	Level 3925 3926;3927 3928	2 级
+T71	Level 3960 3963	3 级
+T72	Level 3989 3992	4 级
+T73	Symptom 3919 3924	神经性溃疡
+T74	Symptom 3929 3938	较深的、穿透性溃疡
+T75	Symptom 3942 3947	软组织感染
+T76	Symptom 3993 4003;4004 4005	局部或足特殊部位的坏 疽
+T77	Level 3873 3874;3875 3876	0 级
+T78	Disease 4394 4399	混合性感染
+T79	Disease 5129 5131	感染
+T80	Disease 5138 5145	MRSA 感染
+T81	Disease 5203 5210	MRSA 感染
+T82	Test 5228 5232	药敏试验
+T83	Drug 5246 5250	万古霉素
+T84	Drug 5258 5261	利福平
+T85	Drug 5262 5267	复方新诺明
+T86	Drug 5268 5272	利奈唑胺
+T87	Drug 5273 5276;5277 5278	替考拉 宁
+T88	Drug 5279 5283	头孢唑林
+T89	Drug 5290 5294	庆大霉素
+T90	Drug 5295 5299	苯唑西林
+T91	Drug 5300 5302;5303 5305	克林 霉素
+T92	Drug 5306 5309	磷霉素
+T93	Drug 5310 5315	左氧氟沙星
+T94	Drug 5331 5335	万古霉素
+T95	Drug 5336 5340	头孢唑林
+T96	Drug 5351 5354	利福平
+T97	Drug 5355 5357;5358 5361	复方 新诺明
+T98	Drug 5362 5365	磷霉素
+T99	Drug 5366 5370	利奈唑胺
+T100	Drug 5371 5376	左氧氟沙星
+T101	Drug 5377 5381	替考拉宁
+T102	Test 7619 7621	肌酐
+T103	Test 8111 8114	收缩压
+T104	Test 8161 8164	舒张压
+T105	Test 8428 8430;8431 8433	总胆 固醇
+T106	Test 8456 8460	甘油三酯
+T107	Test 8481 8490	高密度脂蛋白胆固醇
+T108	Test 8534 8543	低密度脂蛋白胆固醇
+T109	Drug 9198 9201	红霉素
+T110	Drug 9202 9206	克林霉素
+T111	Drug 9207 9211	苯唑西林
+T112	Drug 9212 9214;9215 9217	环丙 沙星
+T113	Test 9277 9281	体重指数
+T114	Test 9282 9284	血压
+T115	Drug 9413 9416	抗生素
+T116	Disease 9444 9451	MRSA 感染
+T117	Disease 9475 9482	MRSA 感染
+T118	Test 9517 9519;9520 9522	血红 蛋白
+T119	Test 9523 9526	白蛋白
+T120	Test 9527 9532	白细胞计数
+T121	Disease 9836 9839	足溃疡
+T122	Disease 9844 9850	G- 菌感染
+T123	Disease 9925 9929	混合感染
+T124	Disease 9930 9934	真菌感染
+T125	Drug 10184 10187	抗生素
+T126	Drug 10207 10210	利福平
+T127	Drug 10211 10215	利奈唑胺
+T128	Drug 10216 10220	替考拉宁
+T129	Drug 10232 10236	万古霉素
+T130	Drug 10322 10326	万古霉素
+T131	Drug 10327 10329;10330 10338	氨苄 西林 /舒巴坦钠
+T132	Drug 10340 10344	克林霉素
+T133	Drug 10346 10349	磷霉素
+T134	Drug 10351 10355	头孢唑林
+T135	Disease 10497 10504	MRSA 感染
+T136	Disease 10551 10558	MRSA 感染
+T137	Disease 10588 10595	MRSA 感染
+T138	Disease 10658 10665	MSSA 感染
+T139	Disease 10722 10729	MRSA 感染
+T140	Disease 10789 10796	MRSA 感染
+T141	Disease 10806 10813	MSSA 感染
+T142	Reason 10896 10902	血糖控制欠佳
+T143	Reason 10903 10908	营养状态差
+T144	Reason 10909 10914;10915 10916	并发症合并 症
+T145	Disease 10935 10938	足溃疡
+T146	Drug 10970 10973	抗生素
+T147	Drug 10978 10981	抗生素
+T148	Test 11064 11069	病原学检查
+T149	Test 6798 6801	BMI
+T150	Disease 429 431	溃疡
+T151	Drug 498 501	抗生素
+T152	Disease 533 535	感染
+T153	Treatment 3239 3244	口清创换药
+T154	Drug 3248 3252	灭菌盐水
+T155	Disease 3258 3260	溃疡
+T156	Test 3345 3349	药敏试验
+T157	Test 3396 3401	实验室化验
+T158	Test 3404 3408	仪器检查
+T159	Treatment 3419 3423	控制感染
+T160	Treatment 3424 3430	改善全身状态
+T161	Disease 4086 4088	坏死
+T162	Test 4404 4414	G+球菌与 G-杆菌
+T163	Test 4453 4458	G+ 球菌
+T164	Test 4477 4484	金黄色葡萄球菌
+T165	Test 4491 4495	粪肠球菌
+T166	Test 4502 4506	G-杆菌
+T167	Test 4525 4531	铜绿假单胞菌
+T168	Test 4537 4543	奇异变形杆菌
+T169	Test 4550 4561	G- 球菌、G+ 杆菌
+T170	Test 4574 4576	真菌
+T171	Test 4595 4602	金黄色葡萄球菌
+T172	Test 4611 4618	金黄色葡萄球菌
+T173	Test 4660 4667	MRSA 菌株
+T174	Disease 4675 4684	金黄色葡萄球菌感染
+T175	Disease 4698 4700	感染
+T176	Test 4716 4730	例耐万古霉素的金黄色葡萄球菌
+T177	Test 4732 4746	甲氧西林敏感的金黄色葡萄球菌
+T178	Disease 4806 4810;4811 4816	金黄色葡 萄球菌感染
+T179	Test 4827 4831	MRSA
+T180	Disease 4833 4842	金黄色葡萄球菌感染
+T181	Disease 4849 4855	足溃疡及感染
+T182	Test 4871 4900	MRSA: 耐 甲 氧 西 林 金 黄 色 葡 萄 球 菌
+T183	Disease 4993 4999	DFU 溃疡
+T184	Test 4982 4986	MRSA
+T185	Disease 4987 4989	感染
+T186	Disease 5175 5177	感染
+T187	Test 5178 5185	金黄色葡萄球菌
+T188	Test 5188 5192	MRSA
+T189	Test 5240 5244	MRSA
+T190	Drug 5474 5477	抗生素
+T191	Drug 5608 5611	抗生素
+T192	Drug 5742 5746	万古霉素
+T193	Drug 5777 5781	利奈唑胺
+T194	Drug 5810 5822	甲氧苄啶 / 磺胺甲恶唑
+T195	Drug 5873 5877	头孢唑林
+T196	Drug 5907 5911	头孢西丁
+T197	Drug 5939 5942	青霉素
+T198	Drug 5970 5975	氨苄青霉素
+T199	Drug 6003 6007	苯唑西林
+T200	Drug 6036 6041	左氧氟沙星
+T201	Drug 6073 6077	替考拉宁
+T202	Drug 6108 6111	红霉素
+T203	Drug 6143 6147	克林霉素
+T204	Drug 6178 6182	庆大霉素
+T205	Drug 6212 6215	氯霉素
+T206	Drug 6248 6253	复方新诺明
+T207	Drug 6298 6301	磷霉素
+T208	Drug 6331 6334	利福平
+T209	Drug 6364 6367	优立新
+T210	Drug 6393 6396	四环素
+T211	Drug 6428 6432	环丙沙星
+T212	Drug 6465 6469	卡那霉素
+T213	Test 6500 6518	MRSA: 耐甲氧西林金黄色葡萄球菌
+T214	Test 6570 6584	甲氧西林敏感的金黄色葡萄球菌
+T215	Drug 6834 6837	抗生素
+T216	Test 7175 7178	RBC
+T217	Test 7187 7190	WBC
+T218	Test 7198 7199	N
+T219	Test 7207 7211	血红蛋白
+T220	Test 7231 7234	总蛋白
+T221	Test 7257 7261	MRSA
+T222	Test 7522 7525	白蛋白
+T223	Test 7644 7652	24 h 尿蛋白
+T224	Test 7682 7685	CRP
+T225	Test 7695 7699	MRSA
+T226	Test 7958 7970	耐甲氧西林金黄色葡萄球菌
+T227	Test 8022 8036	甲氧西林敏感的金黄色葡萄球菌
+T228	Disease 8194 8197	糖尿病
+T229	Disease 8242 8250	糖尿病血管并发症
+T230	Disease 8284 8292	糖尿病神经并发症
+T231	Test 8362 8365	红细胞
+T232	Test 8385 8388	白细胞
+T233	Test 8408 8413	中性粒细胞
+T234	Test 8613 8619	C 反应蛋白
+T235	Test 8641 8645	MRSA
+T236	Operation 8906 8908	截肢
+T237	Operation 8927 8929	截肢
+T238	Disease 8947 8949	死亡
+T239	Test 9241 9245	MRSA
+T240	Test 9250 9254	MRSA
+T241	Test 9325 9329	MRSA
+T242	Test 9343 9347	MSSA
+T243	Test 9364 9368	MSSA
+T244	Test 9398 9402	MRSA
+T245	Test 9422 9426	MSSA
+T246	Disease 9545 9552	MRSA 感染
+T247	Test 9564 9568	MRSA
+T248	Test 9579 9583	MSSA
+T249	Disease 9601 9603	溃疡
+T250	Test 9641 9645	MSSA
+T251	Test 9689 9693	MSSA
+T252	Test 9729 9734	G+ 球菌
+T253	Test 9742 9746	G-杆菌
+T254	Test 9777 9780	G-菌
+T255	Disease 9781 9783	感染
+T256	Test 9877 9881;9882 9885	金黄色葡 萄球菌
+T257	Test 9886 9890	粪肠球菌
+T258	Test 9891 9897	铜绿假单胞菌
+T259	Test 9898 9904	奇异变形杆菌
+T260	Test 9996 10002	常规细菌培养
+T261	Test 10006 10008;10009 10010	厌氧 菌
+T262	Disease 10014 10018	混合感染
+T263	Test 10201 10205	MRSA
+T264	Drug 10288 10291	抗生素
+T265	Test 10299 10303	MRSA
+T266	Test 10314 10321	金黄色葡萄球菌
+T267	Test 10399 10403	MRSA
+T268	Drug 10405 10408	抗生素
+T269	Level 10423 10424;10425 10426	严 重
+T270	Disease 10426 10428	感染
+T271	Disease 10943 10945	感染
+T272	Disease 10954 10956	感染
+T273	Treatment 11076 11081	抗感染治疗
+T274	Test 11100 11103	耐药菌
+T275	Disease 2522 2525	糖尿病
+T276	Disease 2529 2532	足溃疡
+T277	Disease 2766 2769	DFI
+T278	Disease 3092 3095	DFU
+T279	Duration 3312 3316	24 h
+T280	Test 3457 3460;3461 3464	溃疡愈 合时间
+T281	Level 4006 4009	5 级
+T282	Symptom 3948 3951;3952 3959	累及肌 肉、筋膜或关节
+T283	Symptom 3755 3759	淋巴管炎
+T284	Level 4037 4039	愈合
+T285	Level 4060 4062	未愈
+T286	Level 4135 4138	大截肢
+T287	Anatomy 4057 4059	痂皮
+T288	Anatomy 4092 4098	新鲜肉芽组织
+T289	Anatomy 4119 4123	跗跖关节
+T290	Anatomy 4124 4128	跗跖关节
+T291	Anatomy 4139 4143	跗跖关节
+T292	Disease 4248 4249;4250 4251	截 肢
+T293	Disease 4252 4254	死亡
+T294	Disease 4214 4218;4219 4220	耐药菌感 染
+T295	Test_Value 4351 4353	阳性
+T296	Test_Value 4371 4373	阴性
+T297	Level 4435 4450	Wagner 3 ~ 5 级患
+T298	Level 5163 5171;5172 5173	Wagner 5 级
+T299	Test 9271 9273	年龄
+T300	Test 9274 9276	性别
+T301	Test 9297 9301	代谢水平
+T302	Disease 9718 9721	DFI
+T303	Disease 9824 9827	DFU
+T304	Test 9649 9652;9653 9657	3 个 月治愈率
+T305	Test_Value 9657 9666	(67. 7% )
+T306	Test_Value 10077 10084	5% ~24%
+T307	Test_Value 10059 10063	不断增加
+T308	Test_Value 10114 10119	9. 1%
+T309	Test_Value 10134 10140	51. 2%
+T310	Test_Value 10278 10282	100%
+T311	Test_Value 10363 10367	100%
+T312	Test_Value 10369 10372	85%
+T313	Test_Value 10374 10377	80%
+T314	Test_Value 10379 10382	78%
+T315	Test_Value 10384 10387	74%
+T316	Test 10355 10357;10358 10359	敏感 率
+T317	Reason 10469 10474	曾入院治疗
+T318	Reason 10623 10625;10626 10629	曾入 院治疗
+T319	Disease 10652 10655	DFI
+T320	Disease 10774 10777	DFU
+T321	Disease 10958 10961	DFU
+T322	Disease 444 446	截肢
+T323	Test_Value 9340 9342	低于
+T324	Test_Value 9361 9363	高于
+T325	Test_Value 9686 9688	高于
+T326	Reason 10475 10482	HBA1C水平
+T327	Disease 52 58	糖尿病足溃疡
+T328	Disease 2542 2548	糖尿病足溃疡
+T329	Disease 2972 2978	糖尿病足溃疡
+T330	Disease 3217 3221;3222 3227	糖尿病足 溃疡或坏疽
+T331	Disease 3528 3536	糖尿病足溃疡感染
+T332	Disease 3562 3568	糖尿病足感染
+T333	Disease 5114 5120	糖尿病足溃疡
+T334	Disease 10035 10041	糖尿病足溃疡
+T335	Disease 11042 11046	糖尿病足
+T336	Disease 59 71;72 74	耐甲氧西林金黄色葡萄球菌 感染
+T337	Test 217 223	常规细菌培养
+T338	Operation 269 271	截肢
+T339	Disease 2594 2596	截肢
+T340	Reason 2687 2694	金黄色葡萄球菌
+T341	Disease 2775 2778	DFI
+T342	Disease 3136 3142	足部明确感染
+T343	Disease 3143 3144;3145 3146	溃 疡
+T344	Disease 3155 3158	糖尿病
+T345	Disease 3162 3164	溃疡
+T346	Disease 3167 3169;3170 3172	恶性 肿瘤
+T347	Treatment 3174 3176	化疗
+T348	Treatment 3466 3468	截肢
+T349	Treatment 3470 3472	截肢
+T350	Disease 3479 3481	溃疡
+T351	Symptom 3593 3596	无感染
+T352	Symptom 3597 3611	无局部化脓或全身任何炎症征象
+T353	Symptom 3621 3623	化脓
+T354	Symptom 3624 3626	红肿
+T355	Symptom 3627 3629	疼痛
+T356	Symptom 3630 3632	触痛
+T357	Symptom 3633 3637	局部发热
+T358	Symptom 3638 3640	硬结
+T359	Symptom 3664 3669;3670 3671	溃疡边缘红 肿
+T360	Symptom 3694 3696;3697 3705	没有 局部和全身并发症
+T361	Level 3616 3618	轻度
+T362	Symptom 3710 3714	中度感染
+T363	Symptom 3738 3750;3751 3754	直径大于 2 cm 的蜂 窝织炎
+T364	Symptom 3779 3792	累及肌肉、肌腱、关节、骨骼
+T365	Symptom 3775 3776;3777 3778	坏 疽
+T366	Symptom 3797 3801	重度感染
+T367	Disease 3618 3620	感染
+T368	Symptom 3877 3882	目前无溃疡
+T369	Symptom 3883 3893	但伴有足溃疡危险因素
+T370	Symptom 3898 3901;3902 3906	足皮肤 表面溃疡
+T371	Symptom 3907 3913	临床上无感染
+T372	Symptom 4010 4018	坏疽影响到整个足
+T373	Symptom 4019 4027	大部分或全部坏疽
+T374	Symptom 3964 3968	深部溃疡
+T375	Symptom 3969 3976	常影响到骨组织
+T376	Symptom 3980 3984	深部脓肿
+T377	Symptom 3985 3988	骨髓炎
+T378	Anatomy 4041 4047	溃疡创面皮肤
+T379	Anatomy 4063 4067	溃疡创面
+T380	Level 4114 4117	小截肢
+T381	Disease 4132 4134	截肢
+T382	Disease 4146 4148	截肢
+T383	Test 4341 4350	分泌物标本细菌培养
+T384	Level 5194 5196	重度
+T385	Disease 5196 5198	感染
+T386	Test 8086 8090	体重指数
+T387	Test 8082 8085	BMI
+T388	Test 9285 9291;9292 9296	糖尿病及其并 发症病程
+T389	Test 9302 9306	炎症指标
+T390	Test 9335 9338	红细胞
+T391	Test 9350 9353	白细胞
+T392	Test 9354 9359	中性粒细胞
+T393	Reason 9485 9488;9489 9492	抗生素 用药史
+T394	Test 9534 9540	C 反应蛋白
+T395	Disease 9621 9623	溃疡
+T396	Test 9670 9676	溃疡未愈合率
+T397	Test 9677 9680	截肢率
+T398	Test 9681 9682;9683 9685	死 亡率
+T399	Test 10048 10059	MRSA 菌株的分离率
+T400	Test 10065 10073;10074 10075	金黄色葡萄球菌感 染
+T401	Test 10103 10111	MRSA 分离率
+T402	Test 10123 10132	金黄色葡萄球菌感染
+T403	Test 10262 10266	MSSA
+T404	Drug 10268 10272	万古霉素
+T405	Test 10432 10436	细菌培养
+T406	Test 10437 10441	药敏试验
+T407	Reason 10459 10463	复发溃疡
+T408	Reason 10464 10468	深部溃疡
+T409	Reason 10483 10484;10485 10495	神 经病变以及视网膜病变
+T410	Reason 10542 10547;10548 10549	抗生素用药 史
+T411	Reason 10596 10600;10601 10602	溃疡严重 性
+T412	Reason 10603 10609	感染程度相关
+T413	Drug 10611 10614	抗生素
+T414	Reason 10618 10622	溃疡复发
+T415	Disease 10668 10675	MRSA 感染
+T416	Disease 10685 10687	溃疡
+T417	Disease 10693 10695	溃疡
+T418	Operation 10702 10704	截肢
+T419	Disease 10706 10708	死亡
+T420	Reason 10733 10737	溃疡不愈
+T421	Drug 10744 10747	抗生素
+T422	Disease 10798 10800	溃疡
+T423	Operation 10870 10872	截肢
+T424	Reason 10881 10888	MRSA 感染
+T425	Reason 10925 10934	糖尿病患者抵抗力差
+T426	Disease 10992 10998;10999 11000	MRSA 感 染
+T427	Disease 11021 11023	溃疡
+T428	Operation 11030 11032	截肢
+T429	Disease 11051 11053	感染

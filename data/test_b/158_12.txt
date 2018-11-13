@@ -1,0 +1,184 @@
+基础研究
+基金项目:浙江省自然科学基金(LY13H020002),浙江省医药卫生
+科技项目(2015KYB206 和 2015KYB360)
+(张杰芳、沈智达、于路、李政伟、傅国胜);325000 温州市人民医院心内
+科(姜文兵)
+Fn14 在高糖诱导心肌细胞肥厚中的作用及
+机制
+张杰芳  沈智达  于路  姜文兵  李政伟  傅国胜
+[摘要]   目的  探讨成纤维细胞生长因子诱导早期反应蛋白 14( fibroblast growth factor inducible 14,
+Fn14)在高糖诱导心肌细胞肥厚中的作用及涉及的相关机制。 方法 用高糖诱导乳鼠心肌细胞,观察心肌
+细胞中肥厚因子I型胶原(collagen 玉)、结缔组织生长因子(connective tissue growth factor, CTGF)、转化生
+长因子 β1(transforming growth factor-β1,TGF-β1)以及 Fn14 的蛋白表达,采用 siRNA 干扰技术下调 Fn14 表
+达,再观察心肌细胞中I型胶原、CTGF、TGF-β1 蛋白表达的变化,同时探索其中的机制。 结果 I型胶原、
+CTGF、TGF-β1 蛋白的表达在高糖诱导心肌细胞 72 h 后明显上调。 同时,Fn14 蛋白在高糖诱导心肌细胞
+72 h 后呈浓度依赖性增加,30 mM 时达到高峰。 siFn14 干扰心肌细胞后,高糖不能导致I型胶原、CTGF、
+TGF-β1 蛋白表达增加,同时,siFn14 可以抑制高糖诱导的 p-JNK 的表达。 结论 高糖诱导乳鼠心肌细胞中
+肥厚因子I型胶原、CTGF、TGF-β1 以及 Fn14 的蛋白表达,抑制 Fn14 表达可下调肥厚因子的表达,此过程
+涉及 JNK 信号通路。
+[关键词]   Fn14; 心肌肥厚; JNK 信号通路
+Effects of fibroblast growth factor inducible 14(Fn14) on high glucose induced-cardiomyocyte hypertrophy
+Zhang Jiefang*, Shen Zhida, Yu Lu, Jiang Wenbing, Li Zhengwei, Fu Guosheng. *Department of Cardiology, Sir
+Run Run Shaw Hospital, College of Medicine, Zhejiang University, Hangzhou 310016, China
+[Abstract]  Objective  To investigate the effect and mechanisms of factor fibroblast growth factor inducible
+14(Fn14)in the high glucose induced-cardiomyocyte hypertrophy. Method To observe the expression of collagen
+玉, connective tissue growth factor( CTGF), transforming growth factor-β1 ( TGF-β1), and Fn14 in high glucose
+induced-cardiomyocyte hypertrophy. Fn14 expressions was down-regulated by siRNA interference technique, and
+then the expressions of collagen 玉, CTGF, and TGF-β1 were observed, and the mechanism was also explored.
+Results The expression of collagen I, CTGF and TGF-β1 was significantly up-regulated after high glucose induced-
+cardiomyocyte hypertrophy for 72 h. At the same time, the expression of Fn14 was increased after 72 h-treatment, and
+reached the peak at concentration of 30 mmol / L high glucose. High glucose could not up-regulated the expression of
+collagen 玉, CTGF, and TGF-β1 after siFn14 interference, while the same result was observed in the expression of
+p-JNK. Conclusion The expressions of collagen 玉, CTGF, TGF-β1, and Fn14 in cardiomyocyte of neonatal rats
+were induced by high glucose. While Fn14 expression was inhibited, the expressions of collagen 玉, CTGF, and TGF-
+β1 were down-regulated, which seems to be involved with p-JNK signaling pathway.
+[Key words]  Fn14; Cardiomyocyte hypertrophy; JNK signaling pathway
+(Chin J Endocrinol Metab, 2016, 32: 411-414)
+心血管疾病是糖尿病患者的主要死亡原因,自
+1972 年 Rubler 等[1]首次提出糖尿病心肌病概念以来,
+流行病学、病理学以及实验研究的结果均提示糖尿病
+心脏病变的存在。 糖尿病心脏病变与糖尿病特有的代
+谢异常、糖基化的胶原累积、心肌肥厚有关[2]。 心肌
+肥厚作为心脏重塑中的一大病理损伤,心肌正常组织
+结构中胶原纤维过量积聚或胶原成分发生改变,胶原
+合成和降解代谢失衡[3],最终导致心脏重塑、心肌肥
+厚。
+成纤维细胞生长因子诱导早期反应蛋白 14
+(fibroblast growth factorinducible 14, Fn14)具有促进炎
+症效应、诱导细胞凋亡及介导细胞的杀伤活性等作
+用[4]。 已有研究表明,Fn14 可促进胶原合成[5],参与
+高血压大鼠心室重塑的过程,同时 Jain 等[6] 通过小鼠
+实验发现心肌肥厚过程依赖 Fn14 蛋白表达,通过
+MAPK 激酶信号通路使心肌发生病理性改变。 另一项
+动物实验证实,右心室肥厚在敲除 Fn14 基因的小鼠中
+明显加重[7]。 基于以上的文献复习,本实验应用高糖
+(high glucose,HG)诱导乳鼠心肌细胞,观察心肌细胞
+中肥厚因子和 Fn14 蛋白的表达变化,以及探讨 Fn14
+对心肌细胞的作用及机制。
+材料和方法
+一、 材料
+心肌细胞分离方法取健康雄性 1 ~ 3 天 SD 大鼠
+心脏,取出的心脏在加有 4℃ 的 PBS 液的平皿中,洗
+1 ~ 2 次,并在其中把心脏剪成体积为 1 mm3左右的小
+块;事 先 准 备 好 1 支 离 心 管, 吸 取 4 ml 消 化 液
+(1 mg / ml 胶原酶 II 和 0. 12%胰酶),用 3 ml 的吸管吹
+吸消化的心肌块不卡吸管时,即可以终止吹吸,放入
+37℃培养箱中消化,5 min 后吸取上清液放入 10%
+FBS-DMEM 培养液中吹吸均匀,重复以上步骤 8 次;在
+无菌 100 目平皿中用滤网过滤细胞悬液以除去大块有
+形成分,将过滤好的心肌细胞 1 000 r / min 离心 5 min,
+弃上清,用 5 ml 预热 37℃ 的 10% FBS-DMEM 培养液
+重悬,置于培养瓶中,置于 37℃ CO2培养 2 h,通过差速
+贴壁分离、纯化心肌细胞,吸出尚未贴壁的细胞悬液,
+转移到 6 孔培养板,置于 37℃ CO2培养,加入 30 mmol / L
+的 5'-溴-2忆-脱氧尿苷 ( 5-BrdU), 48 h 后换液, 10%
+FBS-DMEM 培养液培养 24 h 后用于实验处理。
+siRNA 处理过程 siRNA(购于上海吉玛公司)使用
+前先用稀释缓冲液溶解成工作母液,将 5 nmol / L 的
+siRNA 中加入 250 滋l 无 RNA 酶水,得到 20 μmol / L 的
+工作母液,无血清 DMEM 培养基中 500 滋l 加入 siRNA
+与广州锐博生物科技有限公司的 siRNA 转染试剂混
+合均匀,震荡 10 s,静置 15 min,加入 6 孔板中,3 h 后
+加入 10% FBS-DMEM 培养基,终浓度达 50 nmol / L,作
+用 24 h 后用于实验处理。
+二、 方法
+蛋白免疫印迹(Western blot)法检测心肌细胞玉
+型胶原、CTGF、TGF-β1、β-actin、p-JNK、t-JNK、Fn14 蛋
+白的表达。 处理的细胞用 PBS 也清洗干净,用含有蛋
+白酶抑制剂的细胞裂解液在冰上裂解 15 min,13 000×
+g 离心 15 min(4℃),二喹啉甲酸法测定蛋白浓度,蛋
+白 100℃变性,加样,5% 的浓缩胶和 10% 的分离胶进
+行跑胶,转膜,5% 脱脂奶粉封闭 1 h,一抗(均以 1 :
+1 000 稀释,除 Fn14 购于 Santa Crus 公司外,均购于美
+国 CST 公司)4℃过夜,TBST 液洗 3 遍,每次 15 min,二
+抗(1 : 1 000 稀释,购于美国 CST 公司)室温孵育 2 h,
+TBST 液洗 3 遍,每次 15 min,ECL 液中显色。
+采用 SPSS 19. 0 软件进行统计学分析,单因素方
+差分析(One-way ANOVA)比较各组之间的差异,t 检验
+比较两组之间的差异,P<0. 05 为差异有统计学意义。
+结    果
+一、 高糖诱导心肌细胞肥厚因子的变化
+在 DMEM 低糖培养基中,加入 D-葡萄糖,终浓度
+为 30 mmol / L,诱导心肌细胞 72 h 后,HG 组与对照组
+相比,I型胶原、CTGF 和 TGF-β1 分别上升了 2. 1、
+1. 6、2. 2 倍左右(P<0. 05,图 1)。
+二、 不同浓度高糖诱导心肌细胞后 Fn14 蛋白的
+表达变化
+在 DMEM 低糖培养基中,分别加入不同量的 D-葡
+注:vs C,aP<0. 05
+图 1  心肌细胞肥厚因子的变化
+Fig 1  Changes of factors related to cardiomyocyte hypertrophy
+注:vs C,aP<0. 01
+图 2  不同浓度高糖诱导心肌细胞 Fn14 蛋白的表达
+Fig 2  Expression of Fn14 protein in various concentration of high glucose-
+cultured cardiomyocytes
+萄糖,诱导心肌细胞 72 h 后,HG 浓度为 30mM 时 Fn14
+蛋白表达最明显(图 2)。
+三、 siRNA 干扰 Fn14 表达可以抑制高糖诱导的
+心肌细胞肥厚因子的表达
+在 DMEM 低糖培养基中,用 50 nmol / L siRNA 处
+理心肌细胞 24 h 后,再加入 30 mmol / L 高糖处理 72 h,
+可以观察到 HG+siFn14 组与 HG 组相比,心肌细胞肥
+厚因子I型胶原、CTGF 和 TGF-β1 均下降(P<0. 05,
+图 3)。
+四、 siRNA 干扰 Fn14 表达可以抑制高糖诱导的
+p-JNK 的表达
+在 DMEM 低糖培养基中,用 50 nmol / L siRNA 处
+理心肌细胞 24 h 后,再加入 30 mmol / L 高糖处理 15
+min,可以观察到 HG+siFn14 组与 HG 组相比,心肌细
+胞中 p-JNK 的表达下降(P<0. 05,图 4)。
+注:vs C,aP<0. 05, bP<0. 01; vs HG, cP<0. 05, dP<0. 01
+图 3  高糖通过 Fn14 蛋白诱导心肌肥厚因子表达
+Fig 3  Expressions of factors related to cardiomyocyte hypertrophy were induced by high glucose via Fn14 protein
+讨    论
+在糖尿病患者中,心血管疾病被认为是长期高血
+糖引起的,长期糖尿病可诱导心脏病变,最终导致心脏
+重塑、心肌肥厚,形成糖尿病心肌病[8]。 在本实验中,
+高糖长期作用于心肌细胞,引起心肌肥厚,导致细胞外
+基质(extracellular matrixc,ECM)的累积,如I型胶原、
+CTGF、TGF-β1 等蛋白表达的增加。
+以往的实验证明,糖尿病心肌病参与了心肌肥厚
+的发生[8],主要表现为心肌细胞肥大、变性、灶性坏
+死、坏死区纤维化和心肌间质纤维化等。 日前,探讨糖
+尿病引起心肌肥厚的机制日益受关注。 我们应用
+30 mmol / L 的高糖刺激大鼠原代心肌细胞,结果表明,
+心肌细胞的肥厚因子I型胶原、CTGF、TGF-β1 等蛋白
+表达明显增加,Liu 等[9] 的实验也得到了相仿的实验
+结果。
+同时,众多实验表明心脏重塑与 Fn14 蛋白相关。
+Fn14 是由 Meighan-Mantha 等[10] 于 1999 年首先在小鼠
+NH3T3 成纤维细胞内发现,是 I 型跨膜蛋白,含 102 个
+氨基酸,在人体心脏、肾脏中高表达,可通过连接不同
+的 TNF 受体相关因子结构域的受体蛋白或胞浆蛋白,
+启动细胞内一系列信号转导途径,引发相应的基因活
+化[11]。 正常状态是 Fn14 的表达水平很低,只有在组
+织或细胞受到损伤时才大量表达[12-13]。 近来研究发
+现 Fn14 蛋白在心脏重塑中起着重要的作用[14]。 卢淑
+霞等[4]研究自发性高血压大鼠模型时发现 Fn14 通过复
+杂的信号转导途径促进细胞因子分泌,诱导炎症反应,
+促进心肌纤维化,培哚普利能降低 Fn14、TGF-β1 等蛋白
+注:vs C,aP<0. 05; vs HG, bP<0. 05
+图 4  高糖通过 Fn14 蛋白参与 JNK 信号通路
+Fig 4  High glucose was involved in p-JNK signaling pathway via Fn14 protein
+的表达,减弱心肌纤维化,改善心脏重塑。 Novoyatleva
+等[15]发现 Fn14 基因敲除小鼠心肌肥厚程度较野生型
+小鼠明显减低,说明 Fn14 与心肌肥厚、心肌细胞肥大
+有关。 在我们的细胞实验中,采用高糖诱导心肌细胞
+肥大模型,观察到 Fn14、I型胶原、CTGF、TGF-β1 等
+蛋白表达增加,与之前的心脏重塑模型中的发现相仿。
+研究表明 Fn14 可通过 JNK、ERK、MAPK、NF-κB
+等途径介导多个下游信号通路,诱导病理生理反
+应[16-17]。 但是 Fn14 是否通过上述途径促进心肌细胞
+肥厚研究较少。 Jain 等[6]在小鼠心肌肥厚过程中发现
+通过 MAPK 激酶信号通路 Fn14 蛋白表达上调,使心
+肌发生病理性改变。 Chen 等[18]的实验通过上调 Fn14
+蛋白表达促进心肌纤维母细胞的胶原合成,同时激活
+了 MAPK 和 NF-κB 信号通路,MAPK 激活能促进心肌
+的肥大和心脏重塑。 而在我们的实验中发现高糖诱导
+原代心肌细胞可激活 JNK 信号通路,上调 Fn14 蛋白
+表达,同时通过 Fn14 表达可促使肥厚因子表达上升。
+综上所述,本实验发现了高糖可诱导乳鼠心肌细
+胞中肥厚因子I型胶原、CTGF、TGF-β1 以及 Fn14 的
+蛋白表达,抑制 Fn14 表达可下调肥厚因子的表达,此
+过程涉及 JNK 信号通路,为进一步在动物实验中探索
+糖尿病心肌病的发病机制提供了新思路。

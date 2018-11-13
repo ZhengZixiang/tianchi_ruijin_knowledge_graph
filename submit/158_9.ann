@@ -1,0 +1,248 @@
+T1	Test 62 73	跟骨超声骨密度 T 值
+T2	Disease 83 86	脑卒中
+T3	Test 146 152	跟骨定量超声
+T4	Test 181 188	骨密度 T 值
+T5	Disease 197 200	脑卒中
+T6	Test 274 278	体格检查
+T7	Test 279 281	血脂
+T8	Test 290 299	QUS 跟骨骨密度
+T9	Disease 322 325	脑卒中
+T10	Disease 327 330	脑卒中
+T11	Disease 339 342	脑卒中
+T12	Test 356 369	QUS 跟骨骨密度 T 值
+T13	Disease 378 380;381 382	脑卒 中
+T14	Disease 394 397	脑卒中
+T15	Disease 400 403	脑卒中
+T16	Test 407 420	QUS 跟骨骨密度 T 值
+T17	Test 463 467	体重指数
+T18	Test 468 471	BMI
+T19	Test 477 490	QUS 跟骨骨密度 T 值
+T20	Disease 502 505	脑卒中
+T21	Disease 556 559	糖尿病
+T22	Disease 566 569	高血压
+T23	Test 571 584	QUS 跟骨骨密度 T 值
+T24	Disease 593 596	脑卒中
+T25	Test 650 657	骨密度 T 值
+T26	Disease 666 669	脑卒中
+T27	Disease 683 686	脑卒中
+T28	Test 708 710	超声
+T29	Test 718 721	骨密度
+T30	Disease 2628 2631	脑卒中
+T31	Symptom 2667 2668;2669 2673	骨 代谢异常
+T32	Disease 2674 2677	脑卒中
+T33	Disease 2691 2693;2694 2700	脑卒 中后骨质疏松
+T34	Disease 2701 2703	骨折
+T35	Disease 2719 2722	脑卒中
+T36	Test 2729 2735	肌肉收缩力量
+T37	Test_Value 2735 2737	下降
+T38	Disease 2786 2789	脑卒中
+T39	Test 2806 2809	骨密度
+T40	Disease 2813 2816	脑卒中
+T41	Test 2844 2847	骨密度
+T42	Test_Value 2847 2849	下降
+T43	Disease 2850 2851;2852 2854	脑 卒中
+T44	Test 2866 2869	骨密度
+T45	Disease 2872 2875	脑卒中
+T46	Test 2932 2938	跟骨定量超声
+T47	Test 2967 2969;2970 2975	骨密 度 T 值
+T48	Disease 2995 2998	脑卒中
+T49	Anatomy 3114 3118	左足跟骨
+T50	Test 3118 3121	骨密度
+T51	Disease 3159 3162	甲状腺
+T52	Anatomy 3163 3167	甲状旁腺
+T53	Anatomy 3177 3179	卵巢
+T54	Operation 3180 3183;3184 3186	子宫切 除术
+T55	Drug 3192 3194	激素
+T56	Level 3212 3214	严重
+T57	Disease 3214 3220	肝肾功能不全
+T58	Disease 3221 3228	胃肠道慢性疾病
+T59	Disease 3235 3239	恶性肿瘤
+T60	Disease 3245 3248	脑卒中
+T61	Disease 3385 3388	脑卒中
+T62	Test 3398 3403	头颅 CT
+T63	Test 3406 3409	MRI
+T64	Disease 3446 3449	脑卒中
+T65	Disease 3451 3454	脑卒中
+T66	Disease 3473 3476	脑卒中
+T67	Disease 3516 3519	脑卒中
+T68	Reason 3525 3527	吸烟
+T69	Disease 3528 3531	高血压
+T70	Reason 3532 3533;3534 3536	糖 尿病
+T71	Reason 3537 3541	血脂异常
+T72	Test 3547 3552	身体活动量
+T73	Test 3583 3584;3585 3586	身 高
+T74	Test 3587 3589	体重
+T75	Test 3592 3596	体重指数
+T76	Test 3597 3600	BMI
+T77	Test 3638 3641	骨密度
+T78	Anatomy 3656 3658;3659 3661	左足 跟骨
+T79	Test 3689 3692;3693 3695	超声骨 密度
+T80	Test 3698 3703	跟骨骨密度
+T81	Test 3708 3710	血糖
+T82	Disease 3740 3743	糖尿病
+T83	Drug 3756 3759	葡萄糖
+T84	Disease 3761 3763;3764 3765	糖尿 病
+T85	Test 3790 3792	血糖
+T86	Test 3827 3829	血脂
+T87	Test 3897 3903;3904 3907	高密度脂蛋白 胆固醇
+T88	Test 3908 3913	HDL-C
+T89	Test 3927 3930;3931 3937	低密度 脂蛋白胆固醇
+T90	Test 3938 3943	LDL-C
+T91	Test 3960 3964	三酰甘油
+T92	Test 3965 3967	TG
+T93	Test 3980 3983;3984 3985	总胆固 醇
+T94	Test 3986 3988	TC
+T95	Test 3999 4001	血压
+T96	Test 4176 4183	骨密度 T 值
+T97	Disease 4193 4196	脑卒中
+T98	Test 4213 4216	BMI
+T99	Test 4221 4234	QUS 跟骨骨密度 T 值
+T100	Disease 4243 4246	脑卒中
+T101	Test 4267 4270	BMI
+T102	Disease 4276 4278;4279 4280	高血 压
+T103	Disease 4281 4284	糖尿病
+T104	Test 4298 4305;4306 4312	QUS 跟骨骨 密度 T 值
+T105	Disease 4321 4324	脑卒中
+T106	Disease 4502 4505	脑卒中
+T107	Disease 4512 4515	脑卒中
+T108	Disease 4524 4527	脑卒中
+T109	Disease 4542 4545	脑卒中
+T110	Disease 4551 4554	脑卒中
+T111	Test 4563 4565;4566 4568	体重 指数
+T112	Test 4598 4611	QUS 跟骨骨密度 T 值
+T113	Reason 4647 4650	高血压
+T114	Disease 4651 4654	糖尿病
+T115	Disease 4693 4696	脑卒中
+T116	Disease 4702 4705	脑卒中
+T117	Test 4716 4729	QUS 跟骨骨密度 T 值
+T118	Disease 4738 4741	脑卒中
+T119	Test 4765 4774	QUS 跟骨骨密度
+T120	Disease 4787 4790	脑卒中
+T121	Test 4813 4816	BMI
+T122	Test 4822 4835	QUS 跟骨骨密度 T 值
+T123	Disease 4847 4850	脑卒中
+T124	Test 4910 4913	BMI
+T125	Disease 4922 4925	高血压
+T126	Disease 4926 4929	糖尿病
+T127	Test 4940 4947	骨密度 T 值
+T128	Disease 4959 4962	脑卒中
+T129	Disease 5022 5025	脑卒中
+T130	Test 5035 5038;5039 5040	骨密度 T
+T131	Disease 5057 5060	脑卒中
+T132	Test 5073 5077	体重指数
+T133	Test 5084 5093;5094 5095	QUS 跟骨骨密度 T
+T134	Disease 5108 5111	脑卒中
+T135	Disease 5157 5160	高血压
+T136	Disease 5161 5164	糖尿病
+T137	Disease 5172 5175	脑卒中
+T138	Disease 5182 5185	脑卒中
+T139	Disease 5207 5210	脑卒中
+T140	Disease 5214 5217	脑卒中
+T141	Test 5356 5360	体重指数
+T142	Disease 5535 5538	脑卒中
+T143	Disease 5669 5672	脑卒中
+T144	Disease 5848 5851	糖尿病
+T145	Disease 5982 5985	脑卒中
+T146	Disease 6119 6122	脑卒中
+T147	Test 6256 6259	骨超声
+T148	Test 6381 6389	骨骨密度 T 值
+T149	Disease 6398 6401	脑卒中
+T150	Test 6412 6425	QUS 跟骨骨密度 T 值
+T151	Disease 6436 6439	脑卒中
+T152	Disease 6455 6458	脑卒中
+T153	Disease 6468 6470	死亡
+T154	Test 6497 6500	骨密度
+T155	Disease 6513 6515;6516 6519	骨代 谢异常
+T156	Disease 6564 6569	骨代谢异常
+T157	Disease 6571 6576	脑卒中事件
+T158	Symptom 6588 6593	骨代谢异常
+T159	Disease 6609 6611	死亡
+T160	Test 6689 6692	骨密度
+T161	Test 6752 6756	体重指数
+T162	Anatomy 6762 6765	股骨颈
+T163	Test 6765 6768	骨密度
+T164	Disease 6804 6808	骨质疏松
+T165	Disease 6840 6843	脑卒中
+T166	Disease 6857 6860	高血压
+T167	Disease 6861 6865	高脂血症
+T168	Disease 6866 6868;6869 6870	糖尿 病
+T169	Disease 6942 6945	脑卒中
+T170	Test 6967 6970	BMI
+T171	Anatomy 6978 6981	股骨颈
+T172	Test 6981 6984	骨密度
+T173	Disease 7020 7024	骨质疏松
+T174	Disease 7061 7064	脑卒中
+T175	Test 7133 7136	骨密度
+T176	Disease 7137 7141	骨质疏松
+T177	Disease 7144 7147	脑卒中
+T178	Disease 7148 7150	死亡
+T179	Disease 7180 7183	脑卒中
+T180	Test 7197 7200	骨密度
+T181	Test 7208 7211	骨密度
+T182	Disease 7220 7223	脑卒中
+T183	Anatomy 7231 7232;7233 7236	股 骨近端
+T184	Test 7236 7239	骨密度
+T185	Disease 7270 7278	急性缺血性脑卒中
+T186	Disease 7284 7287	脑卒中
+T187	Test 7293 7296	骨密度
+T188	Disease 7299 7303	骨质疏松
+T189	Test 7329 7332	骨密度
+T190	Disease 7333 7336;7337 7338	骨质疏 松
+T191	Disease 7339 7342	脑卒中
+T192	Test 7351 7354	骨密度
+T193	Disease 7355 7359	骨质疏松
+T194	Disease 7380 7383	脑卒中
+T195	Test 7455 7458	骨密度
+T196	Disease 7471 7475	骨质疏松
+T197	Disease 7567 7571	骨质疏松
+T198	Test 7602 7607;7608 7616	QUS 跟 骨骨密度 T 值
+T199	Test 7618 7621	DXA
+T200	Test 7626 7629	T 值
+T201	Level 7629 7631	中度
+T202	Test 7690 7693	骨密度
+T203	Disease 7695 7704	动脉粥样硬化性疾病
+T204	Symptom 7711 7716	骨代谢异常
+T205	Disease 7717 7718;7719 7721	脑 卒中
+T206	Test 7754 7757	骨密度
+T207	Disease 7758 7764	动脉粥样硬化
+T208	Anatomy 7824 7827	胰岛素
+T209	Test 7853 7856	骨密度
+T210	Disease 7862 7870	冠状动脉粥样硬化
+T211	Test 7884 7887	骨密度
+T212	Disease 7888 7891	脑卒中
+T213	Test 7902 7907	维生素 D
+T214	Drug 7913 7918	维生素 D
+T215	Disease 7939 7944	心血管疾病
+T216	Anatomy 7962 7970	维生素 D 受体
+T217	Anatomy 7971 7975	心肌细胞
+T218	Anatomy 7976 7977;7978 7984	血 管平滑肌细胞
+T219	Anatomy 7985 7989	内皮细胞
+T220	Test 7994 7999	维生素 D
+T221	Drug 8051 8056	维生素 D
+T222	Test 8081 8085	骨保护素
+T223	Test 8086 8089	OPG
+T224	Anatomy 8115 8116	骨
+T225	Disease 8119 8123	动脉钙化
+T226	Disease 8173 8181	冠状动脉粥样硬化
+T227	Disease 8196 8199	脑卒中
+T228	Test 8212 8215	OPG
+T229	Anatomy 8220 8222	卵巢
+T230	Symptom 8228 8231	骨丢失
+T231	Test 8243 8245	骨量
+T232	Disease 8254 8260	动脉粥样硬化
+T233	Test 8296 8299	骨密度
+T234	Disease 8327 8328;8329 8335	脑 血管动脉硬化
+T235	Test 8342 8345	OPG
+T236	Disease 8401 8404	脑卒中
+T237	Test 8471 8476	头颅 CT
+T238	Disease 8492 8495	脑卒中
+T239	Symptom 8501 8503	头昏
+T240	Symptom 8504 8506	头痛
+T241	Symptom 8507 8512;8513 8514	肢体活动障 碍
+T242	Disease 8552 8555	脑卒中
+T243	Test 8631 8644	QUS 跟骨骨密度 T 值
+T244	Disease 8656 8659	脑卒中
+T245	Test 8677 8680	骨密度
+T246	Disease 8681 8684	脑卒中
+T247	Disease 8708 8713	骨代谢异常
+T248	Disease 8714 8717	脑卒中

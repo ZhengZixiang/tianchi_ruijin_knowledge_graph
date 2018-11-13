@@ -1,0 +1,349 @@
+T1	Test 3396 3399	尿素氮
+T2	Test 3350 3353	肝功能
+T3	Test 295 298	肾功能
+T4	Test 3392 3395	肾功能
+T5	Test 8240 8243	肾功能
+T6	Test 3354 3356;3357 3360	甲状 腺功能
+T7	Drug 399 401;402 405	维生 素 D
+T8	Test 243 245	血钙
+T9	Test 3538 3540	血钙
+T10	Test 4113 4115	血钙
+T11	Test 4230 4232	血钙
+T12	Test 3580 3582	血磷
+T13	Anatomy 638 643	GATA3
+T14	Anatomy 992 997	GATA3
+T15	Anatomy 1641 1646	GATA3
+T16	Anatomy 2086 2091	GATA3
+T17	Anatomy 2219 2224	GATA3
+T18	Anatomy 2463 2468	GATA3
+T19	Anatomy 2609 2614	GATA3
+T20	Anatomy 4720 4725	GATA3
+T21	Anatomy 4739 4744	GATA3
+T22	Anatomy 4774 4779	GATA3
+T23	Anatomy 5701 5706	GATA3
+T24	Anatomy 5736 5741	GATA3
+T25	Anatomy 5884 5889	GATA3
+T26	Anatomy 5914 5919	GATA3
+T27	Anatomy 5955 5960	GATA3
+T28	Anatomy 5990 5995	GATA3
+T29	Anatomy 6035 6040	GATA3
+T30	Anatomy 6078 6083	GATA3
+T31	Anatomy 6109 6114	GATA3
+T32	Anatomy 6136 6141	GATA3
+T33	Anatomy 6209 6214	GATA3
+T34	Anatomy 6272 6277	GATA3
+T35	Anatomy 6365 6370	GATA3
+T36	Anatomy 6879 6884	GATA3
+T37	Anatomy 6998 7003	GATA3
+T38	Anatomy 7040 7045	GATA3
+T39	Anatomy 7080 7085	GATA3
+T40	Anatomy 7175 7180	GATA3
+T41	Anatomy 7222 7227	GATA3
+T42	Anatomy 7376 7381	GATA3
+T43	Anatomy 7435 7440	GATA3
+T44	Anatomy 7476 7481	GATA3
+T45	Anatomy 7576 7581	GATA3
+T46	Anatomy 7686 7691	GATA3
+T47	Anatomy 7764 7769	GATA3
+T48	Anatomy 8109 8114	GATA3
+T49	Disease 115 118	HDR
+T50	Disease 167 170	HDR
+T51	Disease 950 953	HDR
+T52	Disease 1053 1056	HDR
+T53	Disease 1935 1938	HDR
+T54	Disease 2358 2361	HDR
+T55	Disease 2533 2536	HDR
+T56	Disease 4314 4317	HDR
+T57	Disease 5033 5036	HDR
+T58	Disease 5399 5402	HDR
+T59	Disease 7155 7158	HDR
+T60	Disease 7569 7572	HDR
+T61	Disease 7676 7679	HDR
+T62	Test 3788 3791	骨密度
+T63	Test 7186 7189	PCR
+T64	Test 7196 7199	PCR
+T65	Disease 0 10	甲状旁腺激素相关疾病
+T66	Symptom 213 218	发作性抽搐
+T67	Symptom 219 223	听力下降
+T68	Test 246 252	甲状旁腺激素
+T69	Disease 266 274	感音性神经性耳聋
+T70	Test 275 279	腹部彩超
+T71	Disease 290 294	右肾缺如
+T72	Disease 302 307	肾功能不全
+T73	Disease 507 532	甲状旁腺功能减退-感音神经性耳聋-肾发育不良综合征
+T74	Anatomy 538 545	GATA 基因
+T75	Symptom 2401 2403	耳聋
+T76	Symptom 2404 2407;2408 2410	肾发育 不良
+T77	Anatomy 2502 2506	甲状旁腺
+T78	Anatomy 2514 2516	肾脏
+T79	Symptom 2712 2717	发作性抽搐
+T80	Disease 2825 2829	高热惊厥
+T81	Symptom 2848 2853	发作性口角
+T82	Symptom 2854 2858	四肢痉挛
+T83	Symptom 2859 2861	抽搐
+T84	Symptom 2872 2877	呼之不对答
+T85	Disease 2938 2945	先天性右肾缺如
+T86	Disease 2981 2986	神经性耳聋
+T87	Disease 3007 3010;3011 3012	听力下 降
+T88	Test 3361 3363	血脂
+T89	Test 3366 3370	铜蓝蛋白
+T90	Test 3380 3382;3383 3384	尿蛋 白
+T91	Test 3623 3628	碱性磷酸酶
+T92	Test 3704 3711	24 h 尿磷
+T93	Test 3814 3819	头颅 CT
+T94	Test 3851 3853	彩超
+T95	Test 3879 3884;3885 3888	染色体 G 带分析
+T96	Test 4021 4027	纯音听阈测定
+T97	Test_Value 3400 3414	14. 6 mmol / L
+T98	Test_Value 3542 3556	1. 35 mmol / L
+T99	Test_Value 3583 3597	2. 91 mmol / L
+T100	Test_Value 3629 3639	112 IU / L
+T101	Test 4001 4005	音叉试验
+T102	Disease 4045 4054	双耳感音神经性耳聋
+T103	Drug 4069 4072	罗盖全
+T104	Amount 4073 4085	0. 25 μg bid
+T105	Symptom 4206 4210	听力下降
+T106	Test 4233 4237	iPTH
+T107	Test 4245 4250	头颅 CT
+T108	Disease 4262 4266;4267 4274	原发性甲 状旁腺功能减退
+T109	Test 4275 4278	电测听
+T110	Disease 4280 4288	感音性神经性耳聋
+T111	Disease 4293 4298	先天性独肾
+T112	Disease 4299 4304	肾功能不全
+T113	Disease 4876 4887	Barakat 综合征
+T114	Disease 4960 4969;4970 4972	原发性甲状旁腺功能 减退
+T115	Disease 4973 4977	听力障碍
+T116	Disease 4978 4983	肾发育不良
+T117	Disease 4991 4994;4995 5003	原发性 甲状旁腺功能减退
+T118	Disease 5004 5009	先天性独肾
+T119	Disease 5010 5015	肾功能不全
+T120	Disease 5016 5019	蛋白尿
+T121	Disease 5021 5032	先天性感音性神经性耳聋
+T122	Disease 5088 5097	甲状旁腺功能减退症
+T123	Disease 5098 5102	听力障碍
+T124	Disease 5103 5104;5105 5109	肾 功能异常
+T125	Disease 5112 5119	感觉神经性耳聋
+T126	Disease 5254 5263	甲状旁腺功能减退症
+T127	Disease 5360 5364	低钙血症
+T128	Disease 5379 5382;5383 5389	甲状旁 腺功能的减退
+T129	Anatomy 5391 5393	肾脏
+T130	Disease 5472 5474	血尿
+T131	Disease 5475 5478	蛋白尿
+T132	Disease 5481 5486;5487 5494	近端和远端 肾小管性酸中毒
+T133	Disease 5495 5500	肾钙质沉着
+T134	Disease 5437 5441	发育不全
+T135	Disease 5442 5446	发育不良
+T136	Disease 5447 5451	囊性肾脏
+T137	Disease 5452 5459	膀胱输尿管回流
+T138	Disease 5530 5538	甲状旁腺功能低下
+T139	Disease 5539 5541	耳聋
+T140	Disease 5551 5556	肾尿路异常
+T141	Disease 5586 5590	幽门狭窄
+T142	Disease 5591 5596	多囊性卵巢
+T143	Disease 5597 5599;5600 5603	苗勒 管畸形
+T144	Disease 5605 5612	先天性心脏缺陷
+T145	Disease 5614 5619	反复脑梗塞
+T146	Disease 5620 5623;5624 5625	半侧巨 脑
+T147	Disease 5648 5652;5653 5662	高促性腺 激素性性腺功能减退
+T148	Disease 5663 5666	糖尿病
+T149	Disease 5667 5671	低镁血症
+T150	Disease 5672 5677;5678 5682	自身免疫性 甲状腺炎
+T151	Anatomy 6003 6004;6005 6008	甲 状旁腺
+T152	Anatomy 6009 6011	内耳
+T153	Anatomy 6012 6014	肾脏
+T154	Anatomy 6016 6018	胸腺
+T155	Anatomy 6019 6025	中枢神经系统
+T156	Anatomy 6048 6052	T 细胞
+T157	Anatomy 6171 6174	视顶盖
+T158	Anatomy 6175 6177	延髓
+T159	Anatomy 6178 6180	脑桥
+T160	Anatomy 6181 6187	血清素神经元
+T161	Anatomy 6188 6194	尾端缝核核团
+T162	Anatomy 6224 6225;6226 6234	前 庭听觉传出神经元
+T163	Disease 6256 6263	神经性听力损失
+T164	Disease 6661 6668;6669 6670	甲状旁腺功能减 退
+T165	Disease 6680 6684	右肾囊肿
+T166	Disease 6696 6699;6700 6702	单侧小 肾脏
+T167	Disease 6716 6723	膀胱输尿管回流
+T168	Disease 6847 6854;6855 6856	甲状旁腺功能减 退
+T169	Disease 6857 6862	神经性耳聋
+T170	Disease 6867 6877	先天性缺失子宫及阴道
+T171	Disease 7053 7058;7059 7061	感觉性听力 损失
+T172	Anatomy 7100 7109	耳蜗前庭神经节细胞
+T173	Anatomy 7119 7127	螺旋神经节神经元
+T174	Test 7345 7355	Western 印迹
+T175	Disease 8165 8169	听力障碍
+T176	Disease 8220 8222	耳聋
+T177	Test 8230 8231	钙
+T178	Test 8232 8233	磷
+T179	Test 8235 8239	iPTH
+T180	Test 188 192	基因检测
+T181	Disease 429 434	内分泌疾病
+T182	Disease 2371 2378	内分泌系统疾病
+T183	Disease 2417 2425	常染色体显性遗传
+T184	Disease 3023 3026	“发热
+T185	Test 3339 3342	血常规
+T186	Test 3343 3347	大便常规
+T187	Test 3375 3379	小便常规
+T188	Anatomy 4127 4134	染色体 DNA
+T189	Disease 4358 4367	双耳感音神经性耳聋
+T190	Test 4561 4567	双耳纯音测听
+T191	Disease 4892 4894;4895 4900	内分 泌系统疾病
+T192	Disease 5419 5428	肾脏结构和功能异常
+T193	Disease 5635 5639	内分泌病
+T194	Disease 6424 6432	GTAT3 突变
+T195	Disease 7367 7371	基因突变
+T196	Disease 8285 8290	内分泌疾病
+T197	Test_Value 253 257	低于正常
+T198	Test_Value 281 282;283 287	右 肾未探及
+T199	Drug 394 396	钙剂
+T200	Anatomy 2507 2511	听觉系统
+T201	Duration 2688 2692	20 年
+T202	Symptom 2718 2724;2725 2726	多于发热时发 作
+T203	Symptom 2727 2735	无发热时也有发作
+T204	Symptom 2752 2775	发作时间持续为 10 s 至 1 min 不等
+T205	Symptom 2776 2781	可自行好转
+T206	Symptom 2792 2801	发作间期无特殊不适
+T207	Symptom 2802 2806;2807 2815	每年发作 5 ~ 10 次
+T208	Symptom 2783 2791	发作时无口吐白沫
+T209	Symptom 2878 2893	每次持续约 10 ~ 15 s
+T210	Symptom 2894 2895;2896 2905	每 天发作 10 余次
+T211	Symptom 2919 2922;2923 2926	无伴发 热恶寒
+T212	Symptom 2952 2955	听力差
+T213	Symptom 3204 3205;3206 3209	神 志清楚
+T214	Symptom 3210 3214	发育正常
+T215	Symptom 3215 3220	无特殊面容
+T216	Symptom 3221 3226	步行入病房
+T217	Symptom 3227 3230;3231 3232	查体合 作
+T218	Symptom 3233 3237	对答切题
+T219	Symptom 3238 3243	头颅无畸形
+T220	Symptom 3244 3248	毛发正常
+T221	Symptom 3249 3255;3256 3260	牙釉质可见黄 点、横纹
+T222	Test 3261 3267	面神经叩击征
+T223	Test_Value 3268 3269	+
+T224	Test 3271 3277	束臂加压试验
+T225	Test_Value 3279 3280	+
+T226	Symptom 3282 3284;3285 3293	双侧 甲状腺未扪及肿大
+T227	Symptom 3294 3302	心肺腹查体无异常
+T228	Symptom 3303 3309;3310 3311	四肢肌张力正 常
+T229	Symptom 3312 3316	肌力吁级
+T230	Symptom 3318 3324	生理反射存在
+T231	Symptom 3325 3331	无病理反射征
+T232	Test_Value 3513 3533	1. 3 ~ 6. 8 pmol / L
+T233	Test_Value 3557 3560;3561 3575	2 ~ 2. 67 mmol / L
+T234	Test_Value 3600 3612;3613 3621	0. 8 ~ 1. 45 mmol / L
+T235	Test_Value 3640 3655	30 ~ 180 IU / L
+T236	Test_Value 3684 3695	<8. 75 mmol
+T237	Test_Value 3730 3742	22 ~ 44 mmol
+T238	Test_Value 3764 3770	背景脑电正常
+T239	Test_Value 3771 3774;3775 3778	睡眠周 期正常
+T240	Test_Value 3779 3787	未见典型癫痫放电
+T241	Symptom 3972 3978	双耳听力欠佳
+T242	Symptom 3989 3999	双耳鼓膜无出血或穿孔
+T243	Test_Value 4007 4014	双耳气骨导延长
+T244	Test_Value 4015 4019	右耳为甚
+T245	Test_Value 4028 4031;4032 4042	听力约 60 ~ 70 dB
+T246	Test_Value 4115 4117	正常
+T247	Test_Value 4240 4244	低于正常
+T248	Disease 4253 4258	多发性钙化
+T249	Test 4765 4771	基因序列分析
+T250	Test_Value 4824 4831;4832 4852	在第 6 外显 子上游第一个碱基处有 G 到 A 的突变
+T251	Test_Value 4786 4789;4790 4802	第六外 显子 IVS6-1G-A
+T252	Symptom 5132 5143	出生时出现双侧听力下降
+T253	Symptom 5147 5153	双耳轻重不等
+T254	Symptom 5164 5173	耳蜗形态进行性退化
+T255	Symptom 5174 5178;5179 5184	开始为外 顶部毛细胞
+T256	Symptom 5186 5202;5203 5206	最终影响到整个耳蜗所有毛细胞及支 持细胞
+T257	Test_Value 5352 5354	很低
+T258	Anatomy 6144 6145;6146 6153	脊 椎动物神经系统
+T259	Anatomy 6407 6413	锌指蛋白 2
+T260	Anatomy 6447 6451	锌指蛋白
+T261	Anatomy 6489 6495	锌指蛋白 1
+T262	Disease 6630 6644;6645 6646	先天性、非进行性、双侧听力障 碍
+T263	Reason 6890 6910;6911 6928	第五外显子存在 c. 1025G > A (p. Cys342Tyr) 突变
+T264	Anatomy 7029 7031;7032 7033	毛细 胞
+T265	Anatomy 7034 7038	支持细胞
+T266	Test 7268 7274	免疫细胞化学
+T267	Test 7275 7284	电泳迁移率改变分析
+T268	Test 7292 7294;7295 7303	萤光 素酶报告基因分析
+T269	Test 7305 7311	三维建模评估
+T270	Anatomy 7334 7340	锌指蛋白 1
+T271	Test 7359 7363	免疫荧光
+T272	Test 7425 7432	酵母双杂交分析
+T273	Anatomy 7446 7452	锌指蛋白 1
+T274	Anatomy 2474 2489	GATA 转录因子家族锌指蛋白
+T275	Duration 2696 2697;2698 2699	4 天
+T276	Test_Value 3420 3440	1. 8 ~ 8. 2 mmol / L
+T277	Test_Value 3461 3469;3470 3478	59 ~ 104 mmol / L
+T278	Test_Value 3792 3804;3805 3813	L1 ~ L4 局部腰椎 骨密度测量值正常
+T279	Disease 11 31;32 37	甲状旁腺功能减退-感音神经性耳聋-肾发育 不良综合征
+T280	Anatomy 39 44	GATA3
+T281	Disease 92 123	甲状旁腺功能减退-感音神经性耳聋-肾发育不良(HDR) 综合征
+T282	Anatomy 136 141	GATA3
+T283	Symptom 227 231	面神经征
+T284	Symptom 232 234;235 238	陶瑟 征阳性
+T285	Test 258 264	纯音听阈测定
+T286	Anatomy 309 314	GATA3
+T287	Disease 418 425	HDR 综合征
+T288	Anatomy 455 460	GATA3
+T289	Disease 2275 2297	甲状旁腺功能减退-感音神经性耳聋-肾发育不良
+T290	Symptom 2390 2400	以低钙引起的手足搐搦
+T291	Reason 2435 2459	位于染色体 10P15 的 GATA3 基因突变
+T292	Anatomy 2595 2600	GATA3
+T293	Symptom 2682 2687	发作性抽搐
+T294	Symptom 2736 2749;2750 2751	发作时可见四肢、面部痉挛抽 搐
+T295	Symptom 2862 2864;2865 2871	发作 时伴精神淡漠
+T296	Symptom 2906 2918	发作间期有轻微手足麻木感
+T297	Test 3129 3131	体温
+T298	Test_Value 3132 3138	36. 8℃
+T299	Test 3139 3141	心率
+T300	Test_Value 3142 3152	83 次 / min
+T301	Test 3153 3155	呼吸
+T302	Test_Value 3156 3158;3159 3166	22 次 / min
+T303	Test 3167 3169	血压
+T304	Test_Value 3170 3183	130 / 80 mmHg
+T305	Test 3445 3447	肌酐
+T306	Test_Value 3448 3460	315 mmol / L
+T307	Test 3480 3488	全段甲状旁腺激素
+T308	Test_Value 3497 3511	0. 71 pmol / L
+T309	Test 3757 3762	视频脑电图
+T310	Test 3657 3661;3662 3664	24 h 尿钙
+T311	Test_Value 3665 3675	0. 86 mmol
+T312	Test_Value 3712 3729	21. 3 mmol / 24 h
+T313	Test_Value 3869 3878	甲状旁腺区未见异常
+T314	Test_Value 3822 3831;3832 3845	两侧基底节区、额叶 及右侧丘脑、顶叶异常钙化灶
+T315	Test_Value 3855 3858;3859 3861	右肾未 探及
+T316	Anatomy 3864 3866	右肾
+T317	Symptom 3980 3984	右耳为甚
+T318	Drug 4086 4091	钙尔奇 D
+T319	Amount 4092 4098	600 mg
+T320	Frequency 4099 4102	bid
+T321	Symptom 4105 4110	发作性抽搐
+T322	Symptom 4200 4205	发作性抽搐
+T323	Symptom 4215 4219	面神经征
+T324	Symptom 4220 4225	陶瑟征阳性
+T325	Symptom 4305 4308	蛋白尿
+T326	Disease 4866 4873	HDR 综合征
+T327	Disease 5072 5079	HDR 综合征
+T328	Symptom 5211 5221	进行性感觉性听力损失
+T329	Symptom 5222 5226;5227 5244	外耳及中 耳、脑干、大脑皮层的形态或生理异常
+T330	Disease 5266 5273	HDR 综合征
+T331	Symptom 5308 5317	神经肌肉兴奋性升高
+T332	Symptom 5318 5323	手足搐搦症
+T333	Symptom 5324 5330	低血钙心肌病
+T334	Symptom 5332 5336	癫痫发作
+T335	Test 5343 5347	iPTH
+T336	Disease 5461 5466	肾病综合征
+T337	Disease 5467 5471	肾盂异常
+T338	Disease 5518 5525	HDR 综合征
+T339	Disease 5565 5572	HDR 综合征
+T340	Disease 5711 5718	HDR 综合征
+T341	Disease 5937 5944	HDR 综合征
+T342	Anatomy 6242 6247	GATA3
+T343	Disease 6351 6354;6355 6358	HDR 综合征
+T344	Disease 6602 6609	HDR 综合征
+T345	Anatomy 6735 6740	GATA3
+T346	Disease 6824 6827;6828 6831	HDR 综合征
+T347	Anatomy 7062 7067	耳蜗管细胞
+T348	Test 7254 7264	Western 印迹
+T349	Disease 8211 8213	癫痫

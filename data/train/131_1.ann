@@ -1,0 +1,377 @@
+T1	Disease 3102 3108	2 型糖尿病
+T2	Disease 3366 3372	2 型糖尿病
+T3	Disease 3433 3439	2 型糖尿病
+T4	Disease 3521 3527	2 型糖尿病
+T5	Disease 4150 4156	2 型糖尿病
+T6	Disease 4527 4533	2 型糖尿病
+T7	Drug 5377 5382	他汀类药物
+T8	Drug 4843 4847	二甲双胍
+T9	Drug 4925 4929	二甲双胍
+T10	Drug 5025 5029	二甲双胍
+T11	Drug 5123 5127	二甲双胍
+T12	Drug 5153 5157	二甲双胍
+T13	Drug 5340 5343	他汀类
+T14	Disease 32 39	多囊卵巢综合征
+T15	Disease 54 67	多 囊 卵 巢 综 合 征
+T16	Disease 131 135	PCOS
+T17	Disease 175 179	PCOS
+T18	Disease 97 101	PCOS
+T19	Disease 552 556	PCOS
+T20	Disease 571 576	甲状腺疾病
+T21	Disease 578 588	高催 乳 素 血 症
+T22	Disease 622 630	分泌雄激素的肿瘤
+T23	Disease 631 642	Cushing 综合征
+T24	Disease 643 646;647 650	下丘脑 性闭经
+T25	Disease 651 660	原发性卵巢功能不全
+T26	Disease 692 696	PCOS
+T27	Symptom 704 708	月经稀发
+T28	Symptom 709 711	闭经
+T29	Symptom 712 719	不规则子宫出血
+T30	Symptom 757 761	高雄激素
+T31	Symptom 767 771	排卵异常
+T32	Symptom 790 799	高雄激素的临床表现
+T33	Symptom 911 913	多毛
+T34	Symptom 917 923	雄激素性脱发
+T35	Test 930 933;934 935	游离睾 酮
+T36	Symptom 953 960	卵巢多囊样改变
+T37	Symptom 1028 1037	高雄激素的临床表现
+T38	Symptom 1041 1045;1046 1047	女性男性 化
+T39	Symptom 1079 1085	高雄激素体征
+T40	Symptom 1086 1090	排卵障碍
+T41	Test 1093 1095;1096 1098	卵巢 超声
+T42	Test_Value 816 820	多囊卵巢
+T43	Test 1133 1136	TSH
+T44	Test 1137 1140	催乳素
+T45	Test 1142 1148	17-羟孕酮
+T46	Disease 1171 1175	PCOS
+T47	Symptom 1247 1253	高雄激素表现
+T48	Symptom 1254 1261	持续性稀发月经
+T49	Symptom 1273 1279	高雄激素表现
+T50	Symptom 1300 1308	高雄激素临床表现
+T51	Symptom 1317 1319	多毛
+T52	Symptom 1339 1341	痤疮
+T53	Symptom 1360 1366	雄激素性脱发
+T54	Test 1415 1419	经腹超声
+T55	Symptom 1457 1460	无排卵
+T56	Symptom 1461 1467;1468 1469	卵巢多囊样改 变
+T57	Symptom 1493 1500	卵巢多囊样改变
+T58	Disease 1536 1540	PCOS
+T59	Symptom 1556 1563	持续性稀发月经
+T60	Symptom 1564 1566;1567 1571	高雄 激素表现
+T61	Disease 1581 1585	PCOS
+T62	Anatomy 1597 1599	卵巢
+T63	Disease 1638 1642	PCOS
+T64	Symptom 1653 1657	稀发月经
+T65	Symptom 1697 1704	卵巢多囊样改变
+T66	Symptom 1729 1733	皮肤病变
+T67	Symptom 1734 1736	多毛
+T68	Symptom 1737 1739	痤疮
+T69	Symptom 1740 1746	雄激素性脱发
+T70	Disease 1751 1757	高雄激素血症
+T71	Disease 1766 1768	肥胖
+T72	Disease 1770 1774	PCOS
+T73	Symptom 1799 1801	多毛
+T74	Disease 1829 1833	PCOS
+T75	Disease 1859 1863	腹型肥胖
+T76	Symptom 1882 1886	排卵障碍
+T77	Symptom 1936 1938	痤疮
+T78	Symptom 1969 1975	雄激素性脱发
+T79	Disease 1991 1996	代谢综合征
+T80	Disease 2021 2025	PCOS
+T81	Drug 2057 2062	激素避孕药
+T82	Symptom 2069 2071	痤疮
+T83	Symptom 2072 2074	脱发
+T84	Disease 2098 2102	PCOS
+T85	Disease 2116 2121	原发性不孕
+T86	Disease 2133 2137;2138 2139	继发性不 孕
+T87	Disease 2176 2180	PCOS
+T88	Disease 2277 2281	PCOS
+T89	Test 2336 2344	黄体中期孕酮水平
+T90	Disease 2306 2310	PCOS
+T91	Disease 2397 2399	肥胖
+T92	Disease 2449 2452	GDM
+T93	Disease 2466 2472	妊娠早期流产
+T94	Disease 2478 2482	PCOS
+T95	Disease 2520 2524	先兆子痫
+T96	Test 2586 2590	体重指数
+T97	Test 2591 2593	血压
+T98	Test 2595 2602	口服糖耐量试验
+T99	Disease 2652 2656	PCOS
+T100	Disease 2726 2730	PCOS
+T101	Disease 2796 2800	PCOS
+T102	Disease 2829 2833	PCOS
+T103	Disease 2874 2879	子宫内膜癌
+T104	Disease 2880 2884	PCOS
+T105	Disease 2895 2896;2897 2901	子 宫内膜癌
+T106	Disease 2933 2938	子宫内膜癌
+T107	Disease 2961 2966	子宫内膜癌
+T108	Symptom 2983 2985	多毛
+T109	Symptom 2986 2990	月经稀发
+T110	Disease 3008 3012	PCOS
+T111	Disease 3014 3019	子宫内膜癌
+T112	Disease 3038 3042	PCOS
+T113	Disease 3049 3054	子宫内膜癌
+T114	Disease 3063 3072	Lynch 综合征
+T115	Disease 3099 3101	肥胖
+T116	Disease 3109 3114	心血管疾病
+T117	Disease 3123 3125	肥胖
+T118	Disease 3149 3151	肥胖
+T119	Disease 3156 3160	腹型肥胖
+T120	Reason 3183 3189	脂质异常堆积
+T121	Disease 3192 3199	非酒精性脂肪肝
+T122	Disease 3201 3206	NAFLD
+T123	Disease 3208 3210	肥胖
+T124	Disease 3212 3216	PCOS
+T125	Test 3228 3229;3230 3232	肝 功能
+T126	Disease 3265 3269	PCOS
+T127	Disease 3275 3277	肥胖
+T128	Symptom 3280 3284	月经紊乱
+T129	Symptom 3286 3290	稀发排卵
+T130	Drug 3300 3305	促排卵药物
+T131	Disease 3326 3330	PCOS
+T132	Test 3336 3339	BMI
+T133	Test 3340 3343;3344 3345	体脂含 量
+T134	Test 3346 3348	腰围
+T135	Disease 3356 3360	PCOS
+T136	Disease 3395 3399	PCOS
+T137	Disease 3402 3407	糖耐量受损
+T138	Disease 3409 3412	IGT
+T139	Test 3459 3465	糖化血红蛋白
+T140	Disease 3474 3477;3478 3480	糖代谢 紊乱
+T141	Test 3496 3501;3502 3504	口服糖耐量 试验
+T142	Test 3505 3509	OGTT
+T143	Disease 3515 3518	IGT
+T144	Disease 3539 3543	PCOS
+T145	Disease 3667 3671;3672 3673	心血管疾 病
+T146	Disease 3736 3740	PCOS
+T147	Disease 3749 3751;3752 3755	心血 管疾病
+T148	Disease 3774 3776	抑郁
+T149	Disease 3792 3796	PCOS
+T150	Disease 3799 3801	抑郁
+T151	Disease 3834 3838	PCOS
+T152	Disease 3887 3899	阻塞性睡眠呼吸暂停综合征
+T153	Disease 3900 3903	OSA
+T154	Disease 3912 3914	肥胖
+T155	Disease 3920 3924	PCOS
+T156	Disease 3928 3931	OSA
+T157	Test 3963 3966	BMI
+T158	Disease 3973 3977	PCOS
+T159	Symptom 3981 3987	睡眠呼吸紊乱
+T160	Symptom 3988 3992	日间嗜睡
+T161	Test 4026 4031	多导睡眠图
+T162	Disease 4037 4040	OSA
+T163	Disease 4066 4070	PCOS
+T164	Disease 4092 4094	肥胖
+T165	Disease 4095 4097	不孕
+T166	Disease 4098 4100	早产
+T167	Disease 4101 4105	先兆子痫
+T168	Disease 4106 4111	子宫内膜癌
+T169	Disease 4112 4113;4114 4115	抑 郁
+T170	Disease 4116 4128	阻塞性睡眠呼吸暂停综合征
+T171	Disease 4129 4136	非酒精性脂肪肝
+T172	Disease 4137 4138;4139 4143	糖 耐量异常
+T173	Disease 4144 4149	妊娠糖尿病
+T174	Disease 4157 4162	心血管疾病
+T175	Drug 4200 4205	激素避孕药
+T176	Drug 4206 4209	HCs
+T177	Symptom 4225 4229	月经紊乱
+T178	Symptom 4230 4232	多毛
+T179	Symptom 4232 4234	痤疮
+T180	Disease 4236 4240	PCOS
+T181	Drug 4248 4251	HCs
+T182	Drug 4257 4260	孕激素
+T183	Test 4263 4265	LH
+T184	Anatomy 4269 4271	卵巢
+T185	Test 4273 4276	雄激素
+T186	Drug 4280 4283	雌激素
+T187	Test_Value 4327 4341	160 / 100 mmHg
+T188	Disease 4363 4366	高血压
+T189	Disease 4378 4381	糖尿病
+T190	Disease 4383 4387	神经病变
+T191	Disease 4388 4393	视网膜病变
+T192	Disease 4394 4396;4397 4399	肾脏 病变
+T193	Drug 4414 4417	HCs
+T194	Drug 4432 4435	HCs
+T195	Drug 4448 4451	螺内酯
+T196	Drug 4462 4465	HCs
+T197	Drug 4495 4498	HCs
+T198	Disease 4510 4513	GDM
+T199	Drug 4563 4566	HCs
+T200	Test 4587 4593;4594 4595	LDL 胆固 醇
+T201	Drug 4620 4623	HCs
+T202	Disease 4711 4713	超重
+T203	Disease 4714 4716	肥胖
+T204	Disease 4718 4722	PCOS
+T205	Disease 4761 4766	心血管疾病
+T206	Disease 4767 4770	糖尿病
+T207	Drug 4870 4873;4874 4875	二甲双 胍
+T208	Disease 4879 4883	PCOS
+T209	Disease 4887 4890	IGT
+T210	Drug 4900 4903;4904 4905	二甲双 胍
+T211	Disease 4907 4911	PCOS
+T212	Test 4937 4939	血糖
+T213	Disease 4970 4976	动脉粥样硬化
+T214	Reason 4960 4964	血管炎症
+T215	Reason 4965 4969	脂质代谢
+T216	Anatomy 4984 4988	子宫内膜
+T217	Disease 5044 5048	PCOS
+T218	Disease 5062 5071	卵巢过度刺激综合征
+T219	Disease 5072 5076	OHSS
+T220	Disease 5088 5091	IGT
+T221	Disease 5093 5098	代谢综合征
+T222	Disease 5111 5115	PCOS
+T223	Drug 5137 5140	HCs
+T224	Drug 5184 5190	胰岛素增敏剂
+T225	Drug 5191 5193	肌醇
+T226	Drug 5194 5196;5197 5200	噻唑 烷二酮
+T227	Drug 5268 5272	降脂药物
+T228	Anatomy 5303 5308	卵泡膜细胞
+T229	Disease 5318 5322	PCOS
+T230	Symptom 5356 5359	无排卵
+T231	Disease 5361 5365	PCOS
+T232	Drug 5431 5440	GLP-1 类似物
+T233	Drug 5442 5450	DPP4 抑制剂
+T234	Disease 5454 5458	PCOS
+T235	Disease 5507 5509	不育
+T236	Test 5540 5543	雄激素
+T237	Test 5573 5575	睾酮
+T238	Test 5603 5604;5605 5606	睾 酮
+T239	Disease 3249 3254	NAFLD
+T240	Disease 782 786	PCOS
+T241	Disease 884 888	PCOS
+T242	Disease 2147 2151	PCOS
+T243	Disease 2210 2214	PCOS
+T244	Disease 2250 2254	PCOS
+T245	Disease 2384 2388	PCOS
+T246	Disease 2514 2518	PCOS
+T247	Disease 2690 2694	PCOS
+T248	Disease 5386 5390	PCOS
+T249	Test 3259 3261	体重
+T250	Test 4544 4546	体重
+T251	Test 4754 4756	体重
+T252	Test 4820 4822	体重
+T253	Test 5494 5496	体重
+T254	Test 4286 4294	性激素结合球蛋白
+T255	Disease 2487 2493	不良妊娠结局
+T256	Symptom 523 524;525 529	雄 激素过多
+T257	Anatomy 1602 1604	卵泡
+T258	Test 2284 2290	检查排卵情况
+T259	Symptom 2319 2323	排卵障碍
+T260	Disease 2368 2370	不孕
+T261	Reason 2357 2361	排卵异常
+T262	Anatomy 2632 2634	胚胎
+T263	Anatomy 2753 2755	胚胎
+T264	Symptom 2862 2866	代谢紊乱
+T265	Disease 3808 3812	自杀倾向
+T266	Level 3817 3820;3821 3822	高 7 倍
+T267	Level 4002 4014	高出 30 倍及 9 倍
+T268	Duration 4373 4377	20 年
+T269	Symptom 914 916	痤疮
+T270	Test_Value 935 937	升高
+T271	Level 1328 1330	缓慢
+T272	Level 1332 1335	不严重
+T273	Test 1626 1631	雄激素水平
+T274	Test_Value 1631 1633	下降
+T275	Symptom 1929 1931	多毛
+T276	Symptom 2033 2037	皮肤病变
+T277	Disease 2378 2383	产科并发症
+T278	Test_Value 2681 2683	升高
+T279	Test_Value 3232 3234	正常
+T280	Test_Value 3261 3263	正常
+T281	Reason 3576 3578	吸烟
+T282	Test 4501 4504	糖耐量
+T283	Test_Value 4504 4506	正常
+T284	Test_Value 4569 4571	提高
+T285	Test_Value 4584 4586	降低
+T286	Symptom 4627 4633	尚未月经初潮
+T287	Symptom 4651 4659	第二性征发育明显
+T288	Drug 4694 4697	HCs
+T289	Test_Value 4822 4824	减轻
+T290	Test_Value 4935 4937	控制
+T291	Test_Value 5274 5276	降低
+T292	Drug 5425 5429	降糖药物
+T293	Disease 2408 2413	产科并发症
+T294	Symptom 2978 2980	不孕
+T295	Anatomy 3549 3552	心血管
+T296	Drug 4555 4558	雌激素
+T297	Reason 3685 3691	2 型糖尿病
+T298	Disease 590 615	非 典 型 先 天 性 肾 上 腺 皮 质 增 生
+T299	Disease 617 620	CAH
+T300	Disease 800 805;806 807	高雄激素血 症
+T301	Symptom 892 897	雄激素过多
+T302	Test 924 929	血清总睾酮
+T303	Symptom 941 945	稀发排卵
+T304	Symptom 946 949	无排卵
+T305	Test_Value 971 979	超过 10 ml
+T306	Symptom 963 971	单侧卵巢体积增大
+T307	Test_Value 982 984	囊肿
+T308	Test_Value 985 988;989 990	优势卵 泡
+T309	Test_Value 992 1020	单侧卵巢内有超过 12 个的直径 2 ~ 9 mm 卵泡
+T310	Test 1050 1055	血清雄激素
+T311	Test 811 813	超声
+T312	Disease 1352 1358	高雄激素血症
+T313	Disease 1372 1381	青春期高雄激素血症
+T314	Test 1408 1412	阴道超声
+T315	Anatomy 1397 1399	卵巢
+T316	Anatomy 1427 1429	卵巢
+T317	Disease 1504 1512	青春期 PCOS
+T318	Disease 1783 1787	黑棘皮症
+T319	Symptom 1998 2003	胰岛素抵抗
+T320	Symptom 2089 2091	不孕
+T321	Symptom 1281 1286	青春期痤疮
+T322	Symptom 2143 2145	不孕
+T323	Reason 2421 2425;2426 2427	妊娠糖尿 病
+T324	Reason 2428 2431	GDM
+T325	Reason 2433 2435	早产
+T326	Reason 2436 2440	先兆子痫
+T327	Reason 2444 2446	肥胖
+T328	Test 2676 2678	睾酮
+T329	Symptom 2635 2638;2639 2640	高雄激 素
+T330	Reason 2770 2774;2775 2777	出生体重 偏低
+T331	Disease 2783 2788	肾上腺早现
+T332	Disease 2789 2794	胰岛素抵抗
+T333	Disease 2823 2827	代谢异常
+T334	Reason 2909 2911	肥胖
+T335	Reason 2912 2918	高胰岛素血症
+T336	Reason 2919 2921;2922 2923	糖尿 病
+T337	Reason 2924 2930	子宫异常出血
+T338	Symptom 3075 3083;3084 3085	非预期阴道点滴出 血
+T339	Disease 3161 3167	高雄激素血症
+T340	Disease 3174 3176;3177 3179	代谢 异常
+T341	Test 3246 3254	筛查 NAFLD
+T342	Reason 3564 3566	肥胖
+T343	Reason 3570 3574	腹型肥胖
+T344	Reason 3579 3582	高血压
+T345	Reason 3583 3584;3585 3588	高 脂血症
+T346	Reason 3593 3602	LDL 胆固醇升高
+T347	Reason 3604 3611	亚临床血管疾病
+T348	Reason 3613 3616	IGT
+T349	Reason 3617 3644;3645 3647	家族性早发(男性 55 岁前,女性 65 岁前)心血管 疾病
+T350	Reason 3679 3684	代谢综合征
+T351	Reason 3692 3697;3698 3699	临床血管疾 病
+T352	Reason 3700 3702	肾病
+T353	Reason 3703 3708	心血管疾病
+T354	Reason 3709 3721	阻塞性睡眠呼吸暂停综合征
+T355	Reason 3723 3726	OSA
+T356	Symptom 3860 3862	抑郁
+T357	Symptom 3863 3865	焦虑
+T358	Symptom 3906 3909;3910 3911	高雄激 素
+T359	Test 4301 4302;4303 4308	游 活性离睾酮
+T360	Symptom 4441 4444	多毛症
+T361	Test 4572 4579	HDL 胆固醇
+T362	Disease 4603 4607	PCOS
+T363	Symptom 4642 4648	高雄激素血症
+T364	Symptom 4661 4677;4678 4682	乳腺发育达到或超出 Tanner 四级水平
+T365	Operation 4785 4789	手术减重
+T366	Disease 4793 4799	高雄激素血症
+T367	Disease 4991 4997	高雄激素血症
+T368	SideEff 5242 5245	肝毒性
+T369	SideEff 5246 5248;5249 5252	心血 管事件
+T370	SideEff 5253 5256	膀胱癌
+T371	Test 5277 5284	LDL 胆固醇
+T372	Disease 5349 5355	高雄激素血症
+T373	SideEff 5401 5403	肌病
+T374	SideEff 5404 5407	肾损害
+T375	Test 5488 5491	雄激素
+T376	Test 5519 5528	青春期特异性雄激素
+T377	Reason 2812 2819	出生后体重猛增

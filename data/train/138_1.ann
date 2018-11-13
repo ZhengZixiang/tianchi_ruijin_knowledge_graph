@@ -1,0 +1,215 @@
+T1	Disease 1853 1859	2 型糖尿病
+T2	Test 5468 5470	腰围
+T3	Disease 4271 4275	椎体骨折
+T4	Test 5462 5464	身高
+T5	Test 5465 5467	体重
+T6	Anatomy 3701 3705	成骨细胞
+T7	Anatomy 3738 3742	成骨细胞
+T8	Anatomy 3796 3800	成骨细胞
+T9	Anatomy 3885 3889	成骨细胞
+T10	Anatomy 6374 6378	成骨细胞
+T11	Anatomy 3696 3700	破骨细胞
+T12	Anatomy 3733 3737	破骨细胞
+T13	Anatomy 3821 3825	破骨细胞
+T14	Anatomy 3836 3840	破骨细胞
+T15	Anatomy 3873 3877	破骨细胞
+T16	Anatomy 3932 3936	破骨细胞
+T17	Reason 46 48	睡眠
+T18	Reason 85 87	睡眠
+T19	Anatomy 102 109	神经内分泌系统
+T20	Reason 117 121	睡眠不足
+T21	Symptom 127 132	内分泌紊乱
+T22	Disease 204 209	骨质疏松症
+T23	Disease 233 238	骨质疏松症
+T24	Disease 1679 1685	慢性睡眠剥夺
+T25	Test 1732 1738	夜间睡眠时长
+T26	Test_Value 1740 1743;1744 1754	减少了 1. 5 ~ 2 h
+T27	Disease 1860 1862	肥胖
+T28	Disease 1863 1865;1866 1868	血脂 异常
+T29	Disease 1869 1872	高血压
+T30	Disease 1960 1965	骨质疏松症
+T31	Disease 1930 1935	骨质疏松症
+T32	Test 2140 2143	脑电图
+T33	Test 2165 2168	脑电图
+T34	Anatomy 2224 2234	下丘脑-垂体-肾上腺
+T35	Anatomy 2235 2238	HPA
+T36	Anatomy 2266 2271	HPA 轴
+T37	Anatomy 2285 2291	下丘脑室旁核
+T38	Anatomy 2292 2295	PVN
+T39	Anatomy 2298 2300;2301 2311	促肾 上腺皮质激素释放激素
+T40	Anatomy 2312 2315	CRH
+T41	Anatomy 2317 2320	CRH
+T42	Anatomy 2325 2328;2329 2342	垂体前 叶促其分泌促肾上腺皮质激素
+T43	Anatomy 2343 2347	ACTH
+T44	Anatomy 2349 2353	ACTH
+T45	Anatomy 2358 2361	肾上腺
+T46	Anatomy 2365 2370	糖皮质激素
+T47	Anatomy 2372 2377	糖皮质激素
+T48	Anatomy 2386 2389	CRH
+T49	Anatomy 2392 2396	ACTH
+T50	Anatomy 2407 2412	HPA 轴
+T51	Anatomy 2446 2451	糖皮质激素
+T52	Anatomy 2570 2575	HPA 轴
+T53	Anatomy 2633 2638	HPA 轴
+T54	Anatomy 2652 2656;2657 2659	去甲肾上 腺素
+T55	Anatomy 2660 2662	NE
+T56	Anatomy 2666 2668	NE
+T57	Anatomy 2643 2647	蓝斑系统
+T58	Anatomy 2688 2693	糖皮质激素
+T59	Disease 2827 2830	糖尿病
+T60	Disease 3082 3084	肥胖
+T61	Disease 3085 3089	血脂异常
+T62	Anatomy 3133 3138	HPA 轴
+T63	Anatomy 3139 3145	交感神经系统
+T64	Disease 3184 3186	肥胖
+T65	Disease 3187 3190	高血压
+T66	Disease 3202 3207	骨质疏松症
+T67	Disease 3215 3220	骨质疏松症
+T68	Disease 3264 3268	脆性骨折
+T69	Test 3274 3277	骨密度
+T70	Disease 3305 3310	骨质疏松症
+T71	Test 3343 3346	骨密度
+T72	Disease 3396 3401	骨质疏松症
+T73	Anatomy 3403 3406	雌激素
+T74	Anatomy 3407 3410	骨细胞
+T75	Disease 3524 3528	脆性骨折
+T76	Disease 3575 3579	脆性骨折
+T77	Anatomy 3890 3894	基底细胞
+T78	Anatomy 3899 3903	骨保护素
+T79	Anatomy 3960 3963	雌激素
+T80	Anatomy 3991 3994	雌激素
+T81	Disease 4026 4031	骨质疏松症
+T82	Disease 4040 4044	脆性骨折
+T83	Disease 4062 4067	骨质疏松症
+T84	Anatomy 4076 4078	髋骨
+T85	Anatomy 4079 4081	椎体
+T86	Anatomy 4082 4085	手腕部
+T87	Disease 4090 4094	髋骨骨折
+T88	Disease 4165 4169	髋骨骨折
+T89	Disease 4236 4240	髋骨骨折
+T90	Disease 4339 4344	骨质疏松症
+T91	Disease 4377 4380	高血压
+T92	Disease 4381 4384	高血脂
+T93	Disease 4385 4388	糖尿病
+T94	Disease 4389 4391	肥胖
+T95	Disease 4403 4408	骨质疏松症
+T96	Test 4409 4412	骨密度
+T97	Test 4438 4444	夜间睡眠时长
+T98	Test_Value 4445 4448	8 h
+T99	Test_Value 4456 4460	<6 h
+T100	Test 4539 4542	骨密度
+T101	Anatomy 4551 4553	头部
+T102	Anatomy 4554 4556	手臂
+T103	Anatomy 4557 4559	肋部
+T104	Anatomy 4560 4562	躯干
+T105	Anatomy 4563 4565	脊柱
+T106	Anatomy 4566 4568	骨盆
+T107	Anatomy 4570 4572	下肢
+T108	Test 4613 4617	睡眠时长
+T109	Test_Value 4620 4624	<6 h
+T110	Test 4630 4636	每晚睡眠时长
+T111	Disease 4646 4648;4649 4652	骨质 疏松症
+T112	Reason 4709 4713	睡眠过多
+T113	Reason 4702 4706	睡眠减少
+T114	Anatomy 4762 4764	髋部
+T115	Anatomy 4765 4767;4768 4769	股骨 颈
+T116	Test 4770 4773	骨密度
+T117	Test 4757 4761	睡眠时长
+T118	Test 4911 4912;4913 4915	骨 密度
+T119	Disease 4950 4954	睡眠剥夺
+T120	Disease 4987 4991	睡眠剥夺
+T121	Test 5048 5050;5051 5055	扭转 弯曲强度
+T122	Test 5030 5039	偏振应力-应变指数
+T123	Disease 5157 5162	骨质疏松症
+T124	Disease 5205 5210	骨质疏松症
+T125	Test 5194 5195;5196 5199	睡 眠时长
+T126	Test 5147 5151	睡眠时长
+T127	Test 5152 5156	午睡时长
+T128	Test 5200 5204	午睡时长
+T129	Test 5392 5395	骨密度
+T130	Test 5442 5444;5445 5446	骨密 度
+T131	Test 5472 5474	血压
+T132	Test 5498 5500	血脂
+T133	Test 5500 5502	血糖
+T134	Test 5519 5523	午睡时长
+T135	Test_Value 5554 5565	8 ~ 9 h / d
+T136	Test_Value 5568 5577	0 min / d
+T137	Test 5579 5583	睡眠时长
+T138	Test 5584 5588	午睡时长
+T139	Test 5602 5606	睡眠时长
+T140	Test_Value 5608 5619	7 ~ 8 h / d
+T141	Test_Value 5620 5632	9 ~ 10 h / d
+T142	Test_Value 5634 5643	≥10 h / d
+T143	Test 5756 5759;5760 5761	午睡时 长
+T144	Test_Value 5763 5778	30 ~ 60 min / d
+T145	Test_Value 5780 5791	>60 min / d
+T146	Disease 5794 5799	骨质疏松症
+T147	Test 5905 5909	睡眠时长
+T148	Test 5911 5913;5914 5916	午睡 时长
+T149	Disease 5919 5924	骨质疏松症
+T150	Test 5998 6002	睡眠时长
+T151	Test_Value 6004 6015	7 ~ 8 h / d
+T152	Test_Value 6016 6028	9 ~ 10 h / d
+T153	Test_Value 6030 6033;6034 6039	≥10 h / d
+T154	Disease 6050 6055	骨质疏松症
+T155	Test 6045 6049	午睡时长
+T156	Test 6093 6097	午睡时长
+T157	Disease 6105 6109;6110 6111	骨质疏松 症
+T158	Test 6175 6181	夜间睡眠时长
+T159	Disease 6220 6225	骨质疏松症
+T160	Disease 6215 6219	睡眠剥夺
+T161	Test_Value 6263 6265	升高
+T162	Anatomy 6271 6276	糖皮质激素
+T163	Anatomy 6284 6285;6286 6291	骨 髓基质细胞
+T164	Anatomy 6363 6366;6367 6368	生长激 素
+T165	Test 6470 6471;6472 6474	骨 密度
+T166	Test_Value 6474 6476	减低
+T167	Disease 6477 6482	骨质疏松症
+T168	Disease 6504 6509	骨质疏松症
+T169	Disease 6561 6566	骨质疏松症
+T170	Disease 6603 6608	骨质疏松症
+T171	Disease 6652 6657	骨质疏松症
+T172	Disease 6672 6675;6676 6678	骨质疏 松症
+T173	Disease 6737 6742	骨质疏松症
+T174	Test 57 59	血糖
+T175	Test 3151 3153	血糖
+T176	Test_Value 3476 3478	下降
+T177	Test 5000 5002	密度
+T178	Test 2144 2147	EEG
+T179	Anatomy 2598 2602	生长激素
+T180	Test 3371 3374	T 值
+T181	Test 3337 3340	T 值
+T182	Anatomy 3613 3615	骨骼
+T183	Anatomy 3753 3756;3757 3765	NF- κB 受体激活剂
+T184	Anatomy 3766 3770	RANK
+T185	Anatomy 3783 3786;3787 3788	骨保护 素
+T186	Anatomy 3813 3817	RANK
+T187	Anatomy 3854 3858	RANK
+T188	Anatomy 3917 3921	RANK
+T189	Anatomy 4000 4001;4002 4005	骨 保护素
+T190	Disease 4070 4072	骨折
+T191	Reason 4241 4243	跌倒
+T192	Reason 4287 4289	跌倒
+T193	Anatomy 4807 4810	股骨颈
+T194	Anatomy 4836 4838	髋部
+T195	Anatomy 4781 4783	髋部
+T196	Anatomy 4861 4864	股骨颈
+T197	Anatomy 6347 6351	生长激素
+T198	Disease 141 146	代谢性疾病
+T199	Anatomy 3776 3781	RANKL
+T200	Anatomy 3805 3810	RANKL
+T201	Anatomy 3846 3851	RANKL
+T202	Anatomy 3909 3914	RANKL
+T203	Anatomy 2461 2465;2466 2467	视交叉上 核
+T204	Reason 3224 3228	骨量减少
+T205	Reason 3229 3236	骨骼微结构破坏
+T206	Test 3466 3469	雌激素
+T207	Test 4471 4473;4474 4475	骨密 度
+T208	Test 4994 4999	骨皮质体积
+T209	Test 6255 6258;6259 6261	糖皮质 激素
+T210	Test 6542 6543;6544 6546	骨 密度
+T211	Anatomy 2583 2588	糖皮质激素
+T212	Disease 7 12	骨质疏松症
+T213	Disease 314 319	骨质疏松症
+T214	Disease 4717 4718;4719 4723	骨 质疏松症
+T215	Disease 5649 5654	骨质疏松症

@@ -1,0 +1,231 @@
+T1	Drug 2226 2231	磺脲类药物
+T2	Drug 2059 2063	二甲双胍
+T3	Drug 2151 2155	二甲双胍
+T4	Drug 6009 6013	二甲双胍
+T5	Drug 2030 2036	噻唑烷二酮类
+T6	Drug 2101 2107	噻唑烷二酮类
+T7	Drug 5649 5650;5651 5654	吡 格列酮
+T8	Anatomy 87 91	成骨细胞
+T9	Anatomy 2401 2405	成骨细胞
+T10	Anatomy 4103 4107	成骨细胞
+T11	Anatomy 4405 4409	成骨细胞
+T12	Anatomy 5678 5682	成骨细胞
+T13	Anatomy 5931 5935	成骨细胞
+T14	Anatomy 5953 5957	成骨细胞
+T15	Anatomy 5974 5976;5977 5979	成骨 细胞
+T16	Anatomy 6069 6073	成骨细胞
+T17	Anatomy 6223 6227	成骨细胞
+T18	Anatomy 6349 6353	成骨细胞
+T19	Test 5701 5706	IGF-I
+T20	Disease 1965 1969	骨质疏松
+T21	Drug 2269 2273	格列美脲
+T22	Drug 2388 2392	格列美脲
+T23	Drug 6061 6065	格列美脲
+T24	Test 242 245	OPN
+T25	Test 1076 1079	OPN
+T26	Test 1441 1444	OPN
+T27	Test 2715 2718	OPN
+T28	Test 3302 3305	OPN
+T29	Test 3486 3489	OPN
+T30	Test 4459 4462	OPN
+T31	Test 4481 4484	OPN
+T32	Test 6229 6232	OPN
+T33	Test 6250 6253	OPN
+T34	Test 6443 6446	OPN
+T35	Test 6490 6493	OPN
+T36	Test 217 220	PCR
+T37	Test 3288 3291	PCR
+T38	Test 3644 3647	PCR
+T39	Test 3660 3663	PCR
+T40	Test 5096 5098	血糖
+T41	Drug 66 70	格列苯脲
+T42	Drug 151 155	格列苯脲
+T43	Test 180 189	CCK-8 比色法
+T44	Test 199 204	流式细胞术
+T45	Drug 299 303	格列苯脲
+T46	Drug 426 430	格列苯脲
+T47	Drug 490 494	格列苯脲
+T48	Disease 1974 1977	糖尿病
+T49	Disease 2013 2015	骨折
+T50	Disease 2039 2041	骨折
+T51	Disease 2064 2066	骨折
+T52	Drug 2076 2082	磺脲类降糖药
+T53	Drug 2336 2340	格列苯脲
+T54	Drug 2345 2351	磺脲类降糖药
+T55	Drug 2379 2383	格列苯脲
+T56	Test 3088 3093	流式细胞术
+T57	Test 3720 3731	Western 印迹法
+T58	Drug 4083 4087	格列苯脲
+T59	Drug 4140 4144	格列苯脲
+T60	Drug 4170 4174	格列苯脲
+T61	Drug 4331 4335	格列苯脲
+T62	Drug 4349 4353	格列苯脲
+T63	Drug 4397 4398;4399 4402	格 列苯脲
+T64	Drug 4552 4556	格列苯脲
+T65	Drug 4634 4638	格列苯脲
+T66	Drug 4664 4668	格列苯脲
+T67	Drug 4789 4793	格列苯脲
+T68	Drug 4821 4825	格列苯脲
+T69	Drug 4847 4851	格列苯脲
+T70	Drug 4879 4883	格列苯脲
+T71	Drug 4905 4909	格列苯脲
+T72	Drug 4956 4960	格列苯脲
+T73	Drug 4979 4983	格列苯脲
+T74	Disease 5021 5024	糖尿病
+T75	Disease 5117 5119	骨折
+T76	Drug 5159 5161;5162 5164	格列 苯脲
+T77	Drug 5212 5216	格列苯脲
+T78	Drug 5294 5298	格列苯脲
+T79	Drug 5345 5349	格列苯脲
+T80	Anatomy 271 274	Bax
+T81	Anatomy 275 280	Bcl-2
+T82	Anatomy 310 321	MC3T3-E1 细胞
+T83	Anatomy 441 452	MC3T3-E1 细胞
+T84	Drug 2499 2503	格列苯脲
+T85	Anatomy 4066 4077	MC3T3-E1 细胞
+T86	Anatomy 4370 4381	MC3T3-E1 细胞
+T87	Anatomy 4451 4456	COL-1
+T88	Anatomy 4473 4478	COL-1
+T89	Anatomy 4532 4537	Bcl-2
+T90	Anatomy 4540 4543	Bax
+T91	Anatomy 4563 4566	Bax
+T92	Anatomy 4576 4581	Bcl-2
+T93	Anatomy 4922 4927	Bcl-2
+T94	Anatomy 5354 5365	MC3T3-E1 细胞
+T95	Anatomy 5400 5403	Bax
+T96	Anatomy 5406 5411	Bcl-2
+T97	Anatomy 5419 5424	Bcl-2
+T98	Anatomy 5446 5449	Bax
+T99	Anatomy 5462 5467	Bcl-2
+T100	Anatomy 5510 5513	Bax
+T101	Anatomy 5555 5560	Bcl-2
+T102	Anatomy 5568 5571	Bax
+T103	Anatomy 5615 5618	Bax
+T104	Anatomy 5661 5672	Bax / Bcl-2
+T105	Anatomy 5691 5700	胰岛素样生长因子I
+T106	Anatomy 5714 5725	MC3T3-E1 细胞
+T107	Drug 5774 5778	格列苯脲
+T108	Anatomy 5784 5787	Bax
+T109	Anatomy 5797 5802	Bcl-2
+T110	Drug 5837 5841	格列苯脲
+T111	Anatomy 5867 5875;5876 5878	MC3T3-E1 细胞
+T112	Anatomy 5896 5901	COL-1
+T113	Anatomy 5946 5951	COL-1
+T114	Anatomy 6017 6028	MC3T3-E1 细胞
+T115	Anatomy 6089 6094	COL-1
+T116	Anatomy 6097 6100	OCN
+T117	Drug 6119 6123	格列苯脲
+T118	Anatomy 6131 6142	MC3T3-E1 细胞
+T119	Anatomy 6143 6148	COL-1
+T120	Anatomy 6172 6176	骨桥蛋白
+T121	Anatomy 6340 6348	骨髓间充质干细胞
+T122	Anatomy 6373 6384	MC3T3-E1 细胞
+T123	Anatomy 6394 6397;6398 6401	骨唾液 酸蛋白
+T124	Drug 6423 6427	格列苯脲
+T125	Anatomy 6430 6441	MC3T3-E1 细胞
+T126	Drug 6471 6475	格列苯脲
+T127	Anatomy 6482 6487	COL-1
+T128	Anatomy 6500 6511	MC3T3-E1 细胞
+T129	Drug 6537 6541	格列苯脲
+T130	Anatomy 6552 6563	MC3T3-E1 细胞
+T131	Anatomy 6594 6605	MC3T3-E1 细胞
+T132	Drug 2991 2995	格列苯脲
+T133	Drug 3157 3161	格列苯脲
+T134	Anatomy 1455 1460	Bcl-2
+T135	Anatomy 2752 2757	Bcl-2
+T136	Anatomy 3738 3743	Bcl-2
+T137	Anatomy 1052 1057	COL-1
+T138	Anatomy 1429 1434	COL-1
+T139	Anatomy 3412 3417	COL-1
+T140	Anatomy 6030 6035	COL-1
+T141	Anatomy 1220 1223	Bax
+T142	Anatomy 1528 1531	Bax
+T143	Anatomy 2734 2737	Bax
+T144	Anatomy 3734 3737	Bax
+T145	Anatomy 4934 4937	Bax
+T146	Anatomy 6038 6041	OCN
+T147	Drug 433 435	高糖
+T148	Drug 2006 2010	降糖药物
+T149	Test 3269 3274	流式细胞仪
+T150	Test 4910 4914	骨桥蛋白
+T151	Test 4938 4942	凋亡蛋白
+T152	Disease 5070 5075	代谢性骨病
+T153	Drug 5089 5092	降糖药
+T154	Test 5103 5106	骨代谢
+T155	Drug 5219 5221	高糖
+T156	Anatomy 2232 2234;2235 2236	骨组 织
+T157	Anatomy 2710 2714	骨桥蛋白
+T158	Drug 2822 2825;2826 2827	青链霉 素
+T159	Anatomy 4852 4858	I型胶原蛋白
+T160	Anatomy 5574 5581;5582 5585	Bax-Bax 二聚体
+T161	Anatomy 5595 5608	Bcl-2-Bax 二聚体
+T162	Anatomy 5756 5759	骨代谢
+T163	Drug 6522 6524	高糖
+T164	Anatomy 158 169	MC3T3-E1 细胞
+T165	Duration 170 174	48 h
+T166	Anatomy 237 241	骨桥蛋白
+T167	Test_Value 325 329	逐渐上升
+T168	Test 322 325	增殖率
+T169	Test 339 342	凋亡率
+T170	Test_Value 342 346	逐渐下降
+T171	Test_Value 384 388	逐步升高
+T172	Test_Value 409 413	逐步下降
+T173	Reason 2135 2139;2140 2143	促使其成 脂分化
+T174	Test 2915 2924	CCK-8 比色法
+T175	Test_Value 4559 4561	升高
+T176	Reason 5031 5035	骨量减少
+T177	Reason 5046 5051	骨强度降低
+T178	Reason 5052 5056	脆性增加
+T179	Anatomy 5227 5238	MC3T3-E1 细胞
+T180	Test_Value 5793 5794;5795 5796	越 低
+T181	Test_Value 5808 5810	越高
+T182	Test_Value 5829 5831	升高
+T183	Anatomy 6185 6191;6192 6193	细胞外基质蛋 白
+T184	Test_Value 6244 6246	升高
+T185	Test_Value 6463 6465	升高
+T186	Anatomy 2158 2162	成骨细胞
+T187	Anatomy 2282 2286	成骨细胞
+T188	Anatomy 2323 2327	成骨细胞
+T189	Anatomy 2175 2179	破骨细胞
+T190	Disease 5011 5019	糖尿病性骨质疏松
+T191	Anatomy 5912 5915	OPN
+T192	Anatomy 6311 6314	OPN
+T193	Anatomy 6389 6392	OPN
+T194	Test 251 262	Western 印迹法
+T195	Test 356 361	COL-1
+T196	Test 362 370	OPN mRNA
+T197	Drug 2049 2052	胰岛素
+T198	Anatomy 2113 2118	PPARγ
+T199	Anatomy 2122 2130	骨髓间充质干细胞
+T200	Anatomy 2185 2193	骨髓间充质干细胞
+T201	Anatomy 2296 2317	磷脂酰肌醇 3 激酶 /蛋白激酶 B 通路
+T202	Disease 2367 2370	糖尿病
+T203	Drug 4497 4501	格列苯脲
+T204	Anatomy 4985 4990	Bcl-2
+T205	Anatomy 4993 4996	Bax
+T206	Reason 5037 5045	骨组织微结构改变
+T207	Disease 5060 5062	骨折
+T208	Anatomy 223 229	I型胶原蛋白
+T209	Anatomy 230 235	COL-1
+T210	Test 373 381	Bcl-2 蛋白
+T211	Test 400 406	Bax 蛋白
+T212	Anatomy 2279 2282	下颌骨
+T213	Anatomy 2700 2705	COL-1
+T214	Anatomy 3296 3301	COL-1
+T215	Anatomy 5519 5524	Bcl-2
+T216	Anatomy 5726 5731	Bcl-2
+T217	Anatomy 5734 5737	Bax
+T218	Anatomy 5813 5818	Bcl-2
+T219	Anatomy 5821 5824	Bax
+T220	Anatomy 5849 5854	Bcl-2
+T221	Anatomy 5857 5860	Bax
+T222	Test 5883 5888	碱性磷酸酶
+T223	Anatomy 5902 5906	骨钙蛋白
+T224	Anatomy 5907 5910	OCN
+T225	Test 6080 6083	ALP
+T226	Test 6289 6292	胰岛素
+T227	Anatomy 6307 6310	ALP
+T228	Anatomy 6316 6325	核心结合因子 α1
+T229	Test 6385 6388	ALP
+T230	Anatomy 6576 6581	Bcl-2
+T231	Anatomy 6584 6587	Bax

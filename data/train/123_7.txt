@@ -1,0 +1,257 @@
+临床研究
+基金项目:湖南省自然科学基金资助项目(11JJ7005);教育部长江学者和创新团队发展计划资助( IRT1195);诺和诺
+德 β-cell Academy 保健专项资金项目
+免疫学教育部重点实验室
+胰升糖素样肽 1 类似物利拉鲁肽对正常人
+和 1 型糖尿病患者 CD4+ CD25- T 细胞增殖
+的影响
+胡瑛  苏欣  刘灵佳  向宇飞  余琪琪  易受南  周智广
+[摘要]   目的  观察胰升糖素样肽 1(GLP-1)类似物利拉鲁肽对正常人和新发 1 型糖尿病患者外周
+血 CD4+CD25-T 细胞增殖的影响,评价利拉鲁肽对 1 型糖尿病可能的免疫调节作用。 方法  免疫磁珠法
+分离 10 名正常人和 10 例新发 1 型糖尿病患者的外周血 CD4+CD25-T 细胞,用 CD3 / CD28 单抗包被的 T 细
+胞扩增磁珠刺激增殖。 以 CFSE 染色通过流式细胞术比较在不同浓度利拉鲁肽(0、25、50 和 100 nmol / ml)
+干预后,对 CD4+CD25-T 细胞增殖的影响。 结果  (1)利拉鲁肽剂量依赖性抑制正常人和新发 1 型糖尿病
+患者的 CD4+CD25-T 细胞的增殖(各干预浓度组间 P<0. 05);(2)在利拉鲁肽各干预浓度组,1 型糖尿病患
+者的 CD4+CD25-T 细胞的增殖作用显著强于正常人的 CD4+CD25-T 细胞(P<0. 01);(3)利拉鲁肽对正常
+人和新发 1 型糖尿病患者的 CD4+CD25-T 细胞增殖的抑制程度则无明显差别(P>0. 05)。 结论  1 型糖尿
+病患者的 CD4+CD25-T 细胞的增殖作用显著增强,提示 1 型糖尿病患者存在细胞免疫紊乱。 利拉鲁肽在
+体外对 CD4+CD25-T 细胞的增殖具有抑制作用,这种免疫负性调节作用使其在 1 型糖尿病治疗方面具有
+潜在的应用价值。
+[关键词]   胰升糖素样肽 1; 利拉鲁肽; CD4+CD25-T 细胞; 免疫调节
+Role of glucagon-like peptide-1 analogue liraglutide played in the proliferation of CD4+ CD25- T cells in
+normal people and type 1 diabetic patients in vitro    HU Ying, SU Xin, LIU Ling-jia, XIANG Yu-fei, YU Qi-qi,
+YI Shou-nan, ZHOU Zhi-guang. Diabetes Center, Second Xiangya Hospital, Institute of Metabolism and
+Endocrinology, Key Laboratory of Diabetes Immunology, Ministry of Education, Central South University, Changsha
+410011, China
+[Abstract]  Objective  To study the role of glucagon-like peptide-1(GLP-1) analogue liraglutide played in
+the proliferation of CD4+CD25- T cells in normal people and newly-onset type 1 diabetic patients, and to evaluate the
+possible immune regulatory role of liraglutide in the therapy of type 1 diabetes. Methods  CD4+CD25- T cells of 10
+normal people and 10 newly-onset type 1 diabetic patients were separated from peripheral blood by MACS
+immunomagnetic beads and stimulated by Human T-Activator CD3 / CD28 Dynabeads to proliferate. CFSE labeling
+technique was used to evaluate the proliferation of CD4+ CD25- T cells by flow cytometry. Liraglutide of different
+concentrations(0, 25, 50, and 100 nmol / ml) was added to the proliferation system, then the proliferation of CD4+
+CD25- T cell was measured. Results  (1)Liraglutide suppressed the proliferation of CD4+CD25- T cells from either
+normal people or type 1 diabetic patients with dose-dependent manner ( P < 0. 05 ) . ( 2 ) Under the different
+concentrations of liraglutide, the proliferation of CD4+CD25- T cells from diabetic patients was much more robust than
+that of normal people(P<0. 01) . (3) The inhibitory effects of liraglutide on CD4+ CD25- T cells proliferation in
+normal people and diabetic patients were similar (P>0. 05) . Conclusion  The proliferation of CD4+CD25- T cells in
+type 1 diabetic patients was more robust than normal people, which indicated cellular immune dysfunction in type 1
+diabetes. Liraglutide inhibits the proliferation of CD4+ CD25- T cells of type 1 diabetic patients in vitro. The
+immunosuppression effect of liraglutide may have potential value in the treatment of type 1 diabetes.
+[Key words]  Glucagon-like peptide-1; Liraglutide; CD4+CD25- T cells; Immune regulation
+(Chin J Endocrinol Metab, 2013, 29: 474-478)
+1 型糖尿病是一种主要由 T 细胞(包括 CD4+、
+CD8+ T 细胞)介导的器官特异性自身免疫性疾病。 起
+病时自身反应性 T 细胞、巨噬细胞、NK 细胞等效应细
+胞浸润并破坏胰岛 β 细胞,使胰岛素分泌绝对减少而
+致病[1]。 发病与自身免疫耐受缺失有关,自身反应性
+T 细胞(尤其是 CD4+CD25-效应性 T 细胞)在 1 型糖
+尿病的免疫发病过程中起主导作用。 因此 1 型糖尿病
+治疗的关键在于对自身免疫反应的调节和重新诱导免
+疫耐受。
+胰升糖素样肽 1( glucagon-like peptide-1, GLP-1)
+是一种肠促胰岛素,可与广泛分布的 GLP-1 受体结
+合,发挥葡萄糖依赖性的促进胰岛素合成和分泌、抑制
+胰高血糖素分泌、抑制食欲、延缓胃排空、增强外周组
+织葡萄糖利用和减少肝糖输出等生理作用[2]。 但是,
+天然 GLP-1 易被二肽基肽酶4(DPP-4)降解,半衰期
+仅为 1 ~ 2 min。 利拉鲁肽(Liraglutide)是人 GLP-1 的
+长效类似物,保留了 GLP-1 的各种生理作用和治疗优
+势,临床上已用于治疗 2 型糖尿病。 最近的研究显示
+利拉鲁肽能抑制 β 细胞凋亡、促进 β 细胞增殖,有治
+疗 1 型糖尿病的前景[3]。 同时,有报道 GLP-1 及其类
+似物对多种免疫细胞有调节作用。 Hogan 等[4] 发现
+iNKT 细胞(invariant nature killer T, iNKT)上有 GLP-1
+受体的表达,用利拉鲁肽干预 iNKT 细胞,能剂量±
+赖性的抑制 iNKT 细胞的细胞因子分泌,说明利拉
+鲁肽对自身免疫反应可能有负性调节作用,有利于
+1 型糖尿病的治疗。 本研究旨在观察利拉鲁肽在体外
+对正常人和 1 型糖尿病患者外周血中 CD4+ CD25- 效
+应性 T 细胞增殖的影响,从而探讨其潜在的免疫调节
+作用。
+对象和方法
+一、 材料
+1. 主要材料:利拉鲁肽由诺和诺德公司提供;
+CD4+CD25+ T 细胞分选试剂盒、 LD 柱、 MS 柱购自
+Miltenyi Biotec 公司;CD3 / CD28 单抗包被的 T 细胞扩
+增磁珠购自 Dynal Inc;RPMI 1640 培养基、胎牛血清
+(fetal bovine serum, FBS)、β-二巯基乙醇(2-mercapto-
+ethanol, 2-ME)和 100 U / ml 青霉素、链霉素双抗购自
+美国 Gibco 公司;羧基荧光素二醋酸盐琥珀酰亚胺酯
+( carboxyfluorescein diacetate succinimidyl ester, CFSE)
+购自美国 Invitrogen Molecular Probes 公司;rhIL-2 购自
+R&D 公司;CD4-PerCP、CD25-PE 单克隆抗体及同型对
+照购自 eBiosciences 公司; Ficoll 淋巴细胞分离液
+(1. 077 ) 购自 GE Healthcare Bio-Sciences AB 公司;
+FACS-CantoTM域流式细胞仪为美国 BD-PharMingen 公
+司产品。
+2. 研究对象:本院健康志愿者 10 名及病程小于 2
+年、空腹 C 肽≥100 pmol / L、餐后 2 h C 肽≥200 pmol / L
+的 1 型糖尿病患者 10 例,正常人年龄为(25. 9 ± 0. 4)
+岁,1 型糖尿病患者年龄为(26. 2 ± 0. 6)岁,两组年龄
+无统计学差异(P>0. 05),两组均为男性 5 例,女性 5
+例。 分别抽取外周血 45 ml。 符合伦理学标准并取得
+献血者的知情同意书。
+二、 方法
+1. CD4+CD25-T 细胞的分离和鉴定:抽取外周血
+45 ml,肝素抗凝,淋巴细胞分离液密度梯度离心,获
+取单个核细胞 ( peripheral blood mononuclear cells,
+PBMCs) ;采用 CD4 阴选和 CD25 阴选两步分选法
+用磁珠分离获得 CD4 +CD25 -T 细胞(操作详见试剂
+盒说明书)。 取 200 滋l CD4+ CD25- T 细胞(1×106)均
+置于两个流式管 (各 100 滋l),分别加 CD4- PerCP、
+CD25-PE 单克隆抗体及同型对照,冰上避光孵育 30
+min,PBS 洗涤两次后用 FCM 检测 CD4+CD25-T 细胞
+的纯度。
+2. CFSE 标记 CD4+CD25-T 细胞:CFSE 用 DMSO
+溶解成 5 mmol / L 的储存液,-20℃储存备用。 用 PBS
+(含 0. 1% BSA) 重悬 CD4+ CD25- T 细胞 浓 度 为
+106 / ml。加入 CFSE 储存液至终浓度为 5 μmol / L,37℃
+避光孵育 10 min,加入 5 倍体积冰冷的 RPMI 1640 培
+养基置冰上 5 min 终止反应,用 RPMI 1640 洗涤两次
+后备用。
+3. 细胞增殖实验:CFSE 标记的 CD4+ CD25- T 细
+胞置于 96 孔板培养(4×105 /孔)在 37℃、5%CO2、饱和
+湿度条件下用 RPMI 1640 培养基培养。 增殖培养体系
+内含有 10% 人 AB 血清、 2 mmol / L 谷氨酰胺, 25
+mmol / L HEPES,50 U / ml 青霉素,50 μg / ml 链霉素,50
+mol / L 2-ME,400 U / ml 白细胞介素 2 ( IL-2 ),以及
+CD3 / CD28 单抗包被的扩增磁珠(细胞 : 磁珠 = 1 :
+2)。 分别加入不同终浓度的利拉鲁肽(0、25、50 和
+100 nmol / ml)进行干预。 各干预组细胞培养 5 天后,
+离心洗涤 2 次,再重悬于 200 滋l 的 PBS 中,用流式细
+胞仪检测 CFSE 荧光,分析 CD4+CD25-T 细胞的增殖
+情况。 全部数据经 FACS-CantoTM 域流式细胞仪和
+CellQuest 软件获取,获得的数据用 FlowJo 7. 6. 1 软件
+分析。
+三、 统计学处理
+采用 SPSS 18. 0 软件对实验数据进行统计学处
+理,正态分布计量资料以 x-± s 表示,两组均数间的比较
+采用 t 检验,多组样本均数间的比较采用方差分析,P<
+0. 05 为差异有统计学意义。
+结    果
+一、 免疫磁珠分选法获得高纯度的 CD4+CD25-T
+细胞
+从正常人外周血中分离到的 CD4+CD25-T 细胞的
+纯度为(98. 10 ±0. 21)% ,1 型糖尿病患者外周血中分
+离到的 CD4+CD25-T 细胞的纯度为(98. 10 ±0. 18)% ,
+两组比较无统计学差异(P>0. 05)。 图 1 为其中 1 次
+检测结果。
+图 1  免疫磁珠分选的 CD4+CD25-T 细胞纯度的流式细胞仪鉴定
+Fig 1   Identification of purity of CD4+ CD25- T cells isolated by immune
+magnetic beads by flow cytometry
+二、 利拉鲁肽抑制正常人 CD4+CD25-T 细胞增殖
+10 名正常人的外周血 CD4+ CD25- T 细胞用不同
+浓度(0、25、50 和 100 nmol / ml)利拉鲁肽干预 5 天后,
+用 FCM 检测效应性 T 细胞的增殖情况,显示利拉鲁肽
+以剂量依赖性方式抑制 CD4+ CD25- T 细胞增殖(图
+2):对照组(0 nmol / ml)增殖细胞占总细胞数的百分比
+为(53. 14 ± 7. 01)% ;利拉鲁肽 25 nmol / ml 组,增殖细
+胞为(45. 51 ± 6. 02)% ;利拉鲁肽 50 nmol / ml 组,增殖
+细胞为(35. 29 ±5. 63)% ;利拉鲁肽 100 nmol / ml 组,增
+殖细胞为(21. 44 ± 7. 53)% 。 各组间均有统计学差异
+(P < 0. 05)。 图 3 为 1 例正常人的各干预组 CD4+
+CD25-T 细胞的增殖结果。
+图 2  利拉鲁肽抑制正常人 CD4+CD25-T 细胞的增殖,呈剂量依赖性
+Fig 2   Liraglutide suppressed the proliferation of CD4+ CD25- T cells from
+normal people with dose-dependent manner
+图 3  不同浓度利拉鲁肽对其中 1 例正常人 CD4+CD25- T 细胞增殖的
+抑制作用。 M1 表示增殖的细胞占总细胞的百分比
+Fig 3  The inhibitory effects of different concentrations of liraglutide on CD4+
+CD25-T cells proliferation of one case normal people. M1 represents
+the percentages of proliferation cells within the total CD4+ CD25- T
+cells
+三、 利拉鲁肽抑制 1 型糖尿病患者 CD4+CD25-T
+细胞增殖
+10 例 1 型糖尿病患者的外周血 CD4+ CD25- T 细
+胞用不同浓度(0、25、50 和 100 nmol / ml)利拉鲁肽干
+预 5 天后,用 FCM 检测效应性 T 细胞的增殖情况,显
+示利拉鲁肽以剂量依赖性方式抑制 CD4+CD25-T 细胞
+增殖(图 4):对照组(0 nmol / ml)增殖细胞占总细胞数
+的百分比为(69. 68 ± 2. 43)% ;利拉鲁肽 25 nmol / ml
+组,增殖细胞为 ( 62. 39 ± 3. 63 )% ; 利拉鲁肽 50
+nmol / ml 组,增殖细胞为(52. 49 ± 4. 75)% ;利拉鲁肽
+100 nmol / ml 组,增殖细胞为(33. 55 ±7. 26)% 。 各组
+图 4  利拉鲁肽抑制 1 型糖尿病患者 CD4+CD25-T 细胞的增殖,呈剂量
+依赖性
+Fig 4   Liraglutide suppressed the proliferation of CD4+ CD25- T cells from
+type 1 diabetic patients with dose-dependent manner
+图 5  不同浓度利拉鲁肽对其中 1 例 1 型糖尿病患者 CD4+CD25- T 细
+胞增殖的抑制作用。 M1 表示增殖的细胞占总细胞的百分比
+Fig 5  The inhibitory effects of different concentrations of liraglutide on CD4+
+CD25-T cells proliferation of one case type 1 diabetic patient. M1
+represents the percentages of proliferation cells within the total CD4+
+CD25-T cells
+间均有统计学差异(P<0. 01)。 图 5 为 1 例 1 型糖尿
+病患者的各干预组 CD4+CD25-T 细胞的增殖结果。
+四、 利拉鲁肽同等程度抑制正常人与 1 型糖尿病
+患者 CD4+CD25-T 细胞的增殖
+比较利拉鲁肽各干预浓度组的正常人和 1 型糖尿
+病患者的 CD4+CD25-T 细胞增殖百分比,发现各个浓
+度下,1 型糖尿病患者的 CD4+ CD25- T 细胞的增殖水
+平均高于正常人组 (P < 0. 01,图 6)。 将对照组的
+CD4+CD25-T 细胞增殖百分比分别减去利拉鲁肽各干
+预组的 CD4+CD25-T 细胞增殖百分比,获得各浓度组
+利拉鲁肽对 CD4+CD25-T 细胞增殖的抑制程度,再比
+较显示利拉鲁肽对正常人和 1 型糖尿病患者的 CD4+
+CD25-T 细胞增殖的抑制程度无明显差别(P>0. 05)。
+注:与健康人比较, 均 P<0. 01 vs Healthy, all P<0. 01
+图 6  利拉鲁肽各干预浓度组,1 型糖尿病患者 CD4+CD25-T 细胞的增
+殖水平升高
+Fig 6  Proliferation of CD4+CD25- T cells from patients with type 1 diabetes
+was much more robust than that of the healthy subjects
+讨    论
+正常情况下,人体内存在一定数量的自身反应性
+T 细胞(大多数为 CD4+T 细胞),同时,免疫系统中也
+存在一类调节性 T 细胞( regulatory T cells, Tregs),能
+以负性调节方式抑制自身反应效应性 T 细胞,阻止自
+身免疫性疾病和过敏性疾病的发生,从而维持自身免
+疫耐受(dominant tolerance)。 Sakaguchi 等[5]发现调节
+性 T 细胞由胸腺 CD4+T 细胞自然分化而来,细胞表面
+持续高表达 CD25 分子,并表达特异性转录因子
+FoxP3,能以多种方式抑制 CD4+ CD25- T 细胞[6,7],参
+与自身免疫应答的效应性 T 细胞多为 CD4+CD25-T 细
+胞。 当调节性 T 细胞与效应性 T 细胞之间的平衡发
+生紊乱时就可能引发自身免疫性疾病。 研究表明 1 型
+糖尿病患者和 NOD 鼠存在调节性 T 细胞数量和功能
+的缺陷[8],而 CD4+CD25-效应性 T 细胞也可能抵抗调
+节性 T 细胞的免疫调节作用。 本研究中用 CFSE 标记
+CD4+CD25-效应性 T 细胞以检测效应性 T 细胞的增
+殖,在免疫学及相关领域的研究中,检测细胞增殖是一
+项重要的指标,可反映细胞的数量和功能。 CFSE 是一
+种活体细胞标记染料,为非极性分子,可自由穿透细胞
+膜并不可逆性偶联到细胞蛋白质上。 当细胞分裂时,
+CFSE 标记物被平均分配到 2 个子代细胞中,使其荧光
+强度为亲代细胞的一半,是理想的检测活细胞增殖的
+荧光标记物[9]。 本研究发现,1 型糖尿病患者的 CD4+
+CD25-效应性 T 细胞的增殖能力显著强于正常人,这
+可能是效应性 T 细胞抵抗调节性 T 细胞负性调节作
+用的重要机制,进而导致胰岛自身免疫损伤。 因此,抑
+制 CD4+CD25-效应性 T 细胞的增殖有可能阻止自身
+免疫反应,重塑免疫耐受,保护胰岛 β 细胞功能。
+GLP-1 受体广泛分布于胰腺、大脑、心脏、肾脏及
+胃肠道等[10],在鼠的免疫组织、鼠和人类的 T 细胞、B
+细胞和 iNKT 细胞也有表达[11,12]。 GLP-1 对鼠[11-13] 和
+人类[4,14]的 T 淋巴细胞有调节作用,并能影响 T 淋巴
+细胞的迁移。 Hogan 等[4] 用利拉鲁肽治疗银屑病患
+者,能减少银屑斑块中的 iNKT 细胞的数目,很好的控
+制银屑病。 Suarez-Pinzon 等[15] 用 GLP-1 和胃泌素联
+合处理新发病的 NOD 鼠 3 周能逆转糖尿病,改变自身
+免疫反应,使 IAA 抗体转阴,浸润胰岛的白细胞表达
+较少的 IFN-γ 而表达较多的 TGF-β1,提示产生了免疫
+调节反应。 本研究发现新发 1 型糖尿病患者的 CD4+
+CD25-效应性 T 细胞的增殖能力增强,而利拉鲁肽能
+在体外以剂量依赖性方式抑制正常人和新发 1 型糖尿
+病患者的 CD4+CD25-T 细胞增殖,而且抑制强度相似。
+这提示利拉鲁肽有可能增强免疫调节作用,对胰岛 β
+细胞发挥免疫保护作用。
+综上所述,利拉鲁肽在体外能够剂量依赖性的抑
+制 CD4+CD25-效应性 T 细胞的增殖,具有免疫负性调
+节作用,在治疗自身免疫性疾病方面可能具有良好的
+应用前景。 尤其在 1 型糖尿病发病早期,如果采用利
+拉鲁肽治疗,一方面能够通过多重机制控制血糖,也可
+能通过促进增殖和抗凋亡作用保护残存胰岛 β 细胞,
+另一方面还可能通过抑制自身免疫效应性 T 细胞的
+增殖,缓解过强的自身免疫反应,减少效应性 T 细胞
+对胰岛 β 细胞的破坏,发挥免疫保护作用,从而阻止 1
+型糖尿病的进程[16-30]。

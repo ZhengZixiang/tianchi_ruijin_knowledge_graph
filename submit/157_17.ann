@@ -1,0 +1,380 @@
+T1	Disease 91 97	胰岛细胞肿瘤
+T2	Symptom 99 102	低血糖
+T3	Disease 184 194	巨大胸膜孤立性纤维瘤
+T4	Anatomy 244 253	胰岛素样生长因子2
+T5	Symptom 256 262	发作性低血糖
+T6	Test 263 268	血清胰岛素
+T7	Test_Value 269 273	明显降低
+T8	Symptom 283 289	发作性低血糖
+T9	Test 290 295	血清胰岛素
+T10	Test_Value 297 301	明显降低
+T11	Anatomy 308 310	右肺
+T12	Operation 322 328	经右肺全切术
+T13	SideEff 341 344	低血糖
+T14	Symptom 350 356	发作性低血糖
+T15	Test 357 362	血清胰岛素
+T16	SideEff 383 394	非胰岛细胞肿瘤性低血糖
+T17	Disease 404 412	胸膜孤立性纤维瘤
+T18	SideEff 425 436	非胰岛细胞肿瘤性低血糖
+T19	Disease 1767 1773	胸膜纤维肉瘤
+T20	SideEff 1776 1777;1778 1781	低 血糖症
+T21	Symptom 1791 1794	低血糖
+T22	Disease 1805 1807	肿瘤
+T23	Level 1812 1814	严重
+T24	Disease 1814 1818	低血糖症
+T25	Disease 1825 1841	Doege-Potter 综合征
+T26	Symptom 1858 1861	低血糖
+T27	Disease 1874 1884	胰岛细胞肿瘤性低血糖
+T28	Disease 1957 1959	肿瘤
+T29	Symptom 1966 1969	低血糖
+T30	Disease 1989 1991	肿瘤
+T31	Disease 1994 2001	腹膜后纤维肉瘤
+T32	Disease 2002 2006	肝细胞瘤
+T33	Disease 2007 2010;2011 2013	胃肠道 肿瘤
+T34	Disease 2014 2017	间皮瘤
+T35	Disease 2018 2024	肾上腺皮质癌
+T36	Disease 2025 2030	肾上腺样瘤
+T37	Disease 2041 2045	恶性肿瘤
+T38	Disease 2050 2053	低血糖
+T39	Disease 2056 2059	乳腺癌
+T40	Disease 2060 2064	前列腺癌
+T41	Disease 2065 2068	淋巴瘤
+T42	Disease 2074 2078	恶性肿瘤
+T43	Disease 2084 2090	营养性低血糖
+T44	SideEff 2105 2108	低血糖
+T45	Test 2121 2126	NICTH
+T46	Anatomy 2143 2148	NICTH
+T47	Disease 2157 2159	肿瘤
+T48	Anatomy 2197 2203	胰岛素样多肽
+T49	Disease 2207 2211	胰外肿瘤
+T50	Disease 2213 2216	低血糖
+T51	Test 2242 2247	NICTH
+T52	Disease 2267 2270	低血糖
+T53	Symptom 2292 2295	低血糖
+T54	Test 2315 2320	NICTH
+T55	Disease 2353 2361	胸膜孤立性纤维瘤
+T56	SideEff 2363 2371;2372 2376	非胰岛细胞肿瘤源 性低血糖
+T57	Test 2414 2424	血清 IGF-2水平
+T58	Symptom 2483 2485	头晕
+T59	Symptom 2486 2488	胸闷
+T60	Symptom 2489 2491	出汗
+T61	Symptom 2530 2533	无恶心
+T62	Symptom 2534 2536	呕吐
+T63	Symptom 2537 2542	无四肢抽搐
+T64	Test 2627 2629	血糖
+T65	Test_Value 2631 2644	1. 5 mmol / L
+T66	Disease 2649 2652	低血糖
+T67	Symptom 2689 2691	胸闷
+T68	Symptom 2692 2694	心悸
+T69	Symptom 2695 2700	全身出冷汗
+T70	Symptom 2730 2733	食欲差
+T71	Symptom 2734 2736;2737 2740	记忆 力下降
+T72	Symptom 2745 2747	咳嗽
+T73	Symptom 2748 2751	无浮肿
+T74	Symptom 2752 2757	无明显消瘦
+T75	Anatomy 2789 2791	胸腔
+T76	Disease 2819 2822	高血压
+T77	Disease 2823 2826	糖尿病
+T78	Disease 2843 2847	胰岛素瘤
+T79	Test 2861 2863	体温
+T80	Test_Value 2864 2870	37. 5℃
+T81	Test 2871 2873	心率
+T82	Test_Value 2874 2884	82 次 / min
+T83	Test 2885 2887	呼吸
+T84	Test_Value 2888 2898	20 次 / min
+T85	Test 2900 2902	血压
+T86	Test_Value 2903 2916	130 / 80 mmHg
+T87	Symptom 2936 2938	神清
+T88	Symptom 2939 2942	精神差
+T89	Symptom 2943 2946;2947 2948	发育正 常
+T90	Symptom 2955 2959	消瘦体型
+T91	Symptom 2960 2969	全身浅表淋巴结未扪
+T92	Symptom 2971 2975;2976 2979	皮肤黏膜 无黄染
+T93	Symptom 2980 2984	头型正常
+T94	Symptom 2985 2990	巩膜无黄染
+T95	Symptom 2991 2997	球结膜无充血
+T96	Symptom 2998 3004	副鼻窦无压痛
+T97	Symptom 3006 3012	外耳道无异常
+T98	Symptom 3016 3022	乳突部无压痛
+T99	Symptom 3023 3028	咽部无充血
+T100	Symptom 3030 3032	颈软
+T101	Symptom 3033 3035;3036 3038	气管 居中
+T102	Symptom 3039 3047	双侧甲状腺无肿大
+T103	Symptom 3048 3053	胸廓无畸形
+T104	Symptom 3054 3061	两侧呼吸运动相
+T105	Symptom 3063 3064;3065 3070	右 肺呼吸音低
+T106	Symptom 3071 3076	无干湿啰音
+T107	Symptom 3078 3083	心界无扩大
+T108	Test 3084 3086	心率
+T109	Test_Value 3087 3097	80 次 / min
+T110	Symptom 3098 3100	律齐
+T111	Symptom 3102 3110	未闻及病理性杂音
+T112	Symptom 3112 3114	腹软
+T113	Symptom 3115 3118	无压痛
+T114	Symptom 3119 3125	肝脾肋下未及
+T115	Symptom 3126 3132	腹水征(-)
+T116	Symptom 3134 3140	双下肢无浮肿
+T117	Symptom 3141 3151	双侧足背动脉搏动正常
+T118	Symptom 3152 3158	生理反射存在
+T119	Test 3159 3162;3163 3164	病理反 射
+T120	Test 3185 3189	空腹血糖
+T121	Test_Value 3200 3214	1. 51 mmol / L
+T122	Disease 3216 3219	低血糖
+T123	Test 3222 3224	血糖
+T124	Test_Value 3225 3239	2. 01 mmol / L
+T125	Test 3240 3243	胰岛素
+T126	Test_Value 3243 3248;3249 3257	<0. 1 μIU / ml
+T127	Test_Value 3262 3284	0. 56 ~ 3. 73 μIU / ml
+T128	Test 3287 3299	口服 75g 葡萄糖耐量
+T129	Test 3301 3308	胰岛素释放试验
+T130	Test 3309 3311	血糖
+T131	Test 3496 3499	肝功能
+T132	Test 3509 3516	血 CA125
+T133	Test_Value 3517 3519;3520 3526	16 U / ml
+T134	Test_Value 3530 3540	<34 U / ml
+T135	Test 3545 3552	血 CA199
+T136	Test_Value 3564 3567	<30
+T137	Test 3569 3570;3571 3574	血 CEA
+T138	Test 3590 3595	血 AFP
+T139	Test_Value 3596 3607	<10 ng / ml
+T140	Test 3614 3620	空腹 C 肽
+T141	Test_Value 3621 3626;3627 3634	0. 09 pg / ml
+T142	Test 3649 3658	餐后 2h C 肽
+T143	Test_Value 3659 3672	2. 33 pg / ml
+T144	Test 3674 3676	胸片
+T145	Test_Value 3677 3681;3682 3687	右侧胸腔 内巨大肿块
+T146	Test 3694 3700	胸腹部 CT
+T147	Test_Value 3708 3714;3715 3737	右胸巨大肿块 9. 0 cm×12. 5 cm×13 cm
+T148	Test 3747 3749	CT
+T149	Symptom 3763 3764;3765 3770	局 部胸膜增厚
+T150	Test_Value 3771 3790	右侧胸腔少量积液,余肺野未见异常密度影
+T151	Test 3799 3801	胸片
+T152	Test_Value 3803 3812;3813 3819	右侧胸腔内巨大肿块 门区未见异常
+T153	Test_Value 3822 3830	气管支气管影正常
+T154	Anatomy 3855 3859	肝脏右叶
+T155	Test_Value 3868 3870;3871 3877	胰腺 形态大小正常
+T156	Test_Value 3878 3885	未见异常密度影
+T157	Anatomy 3901 3904	静脉血
+T158	Test 3926 3928	GH
+T159	Test 3929 3932	胰岛素
+T160	Test 3933 3937	胰岛素原
+T161	Anatomy 3942 3950	胰岛素样生长因子
+T162	Anatomy 3951 3954	IGF
+T163	Test 3964 3970	胸腹部 CT
+T164	Anatomy 3978 3983	IGF-2
+T165	Anatomy 3984 3998	胰岛素样生长因子结合蛋白 3
+T166	Anatomy 4001 4008	IGFBP-3
+T167	Test 4015 4020	IGF-I
+T168	Test 4021 4026	IGF-2
+T169	Anatomy 4027 4034	IGFBP-3
+T170	Test_Value 4105 4117	0. 5 ng / ml
+T171	Symptom 4207 4214	发作性头晕出汗
+T172	Test 4232 4234	血糖
+T173	Disease 4276 4280	低血糖症
+T174	Disease 4287 4292	空腹低血糖
+T175	Disease 4298 4302	胰岛素瘤
+T176	Test 4317 4322	血浆胰岛素
+T177	Test_Value 4325 4329	显著降低
+T178	Test 4330 4337	葡萄糖耐量试验
+T179	Anatomy 4339 4340;4341 4343	胰 岛素
+T180	Anatomy 4354 4357	胰岛素
+T181	Anatomy 4370 4373	胰岛素
+T182	SideEff 4400 4403	低血糖
+T183	Anatomy 4406 4409	胰岛素
+T184	Anatomy 4453 4455;4456 4458	胰岛 细胞
+T185	Test_Value 4462 4466	显著抑制
+T186	Test 4494 4496	CT
+T187	Test 4500 4506	胸腔穿刺病理
+T188	Disease 4507 4515	肺内纤维性间皮瘤
+T189	Test 4516 4518;4519 4521	免疫 组化
+T190	Anatomy 4556 4561	钙网膜蛋白
+T191	Anatomy 4578 4587	甲状腺转录因子-1
+T192	Anatomy 4626 4636	神经元特异性烯醇化酶
+T193	Test 4659 4664	上皮膜抗原
+T194	Test 4673 4682	AE1 / AE3
+T195	Test 4687 4690	突触素
+T196	Test 4700 4706	嗜铬颗粒蛋白
+T197	Test 4715 4718	胰岛素
+T198	Test 4723 4726	胃泌素
+T199	Test 4731 4734;4735 4736	胰升糖 素
+T200	Anatomy 4756 4763	平滑肌肌动蛋白
+T201	Disease 4783 4786	间皮瘤
+T202	Disease 4793 4800	肺内纤维性肿瘤
+T203	Operation 4806 4815	全麻下右全肺切除术
+T204	Test 4822 4826	术后病理
+T205	Disease 4828 4829;4830 4841	右 胸腔胸膜冶孤立性纤维瘤
+T206	Test 4856 4858;4859 4861	免疫 组化
+T207	Disease 4867 4869	肿瘤
+T208	Anatomy 4895 4898	p53
+T209	Test 4920 4923	胰岛素
+T210	Anatomy 4932 4936	生长抑素
+T211	Test_Value 4937 4938	+
+T212	Test 5000 5009	AE1 / AE3
+T213	Test 5027 5030	CK8
+T214	Test 5066 5070	空腹血糖
+T215	Test_Value 5071 5085	5. 42 mmol / L
+T216	Test 5086 5091	空腹胰岛素
+T217	Test_Value 5092 5105	2. 1 μIU / ml
+T218	Test 5106 5114;5115 5116	餐后 2 h 血 糖
+T219	Test_Value 5117 5131	8. 17 mmol / L
+T220	Test 5133 5136	胰岛素
+T221	Test_Value 5137 5151	15. 9 μIU / ml
+T222	Disease 5164 5165;5166 5168	低 血糖
+T223	Disease 5194 5202	胸膜孤立性纤维瘤
+T224	Test 5206 5211	NICTH
+T225	Symptom 5230 5233	低血糖
+T226	Test 5237 5239;5240 5241	胰岛 素
+T227	Reason 5251 5261	胰岛素分泌刺激不敏感
+T228	Disease 5265 5269;5270 5274	胸腹腔内 巨大肿瘤
+T229	Symptom 5285 5288	低血糖
+T230	Disease 5293 5295	肿瘤
+T231	Disease 5316 5318	肿瘤
+T232	Disease 5336 5342	间质组织肿瘤
+T233	Disease 5343 5349	上皮组织肿瘤
+T234	Anatomy 5351 5354	胸腹部
+T235	Anatomy 5358 5362	间质细胞
+T236	Disease 5363 5367	巨大肿瘤
+T237	Disease 5414 5415;5416 5418	低 血糖
+T238	Disease 5432 5436	肝细胞癌
+T239	Disease 5446 5447;5448 5453	肾 上腺皮质癌
+T240	Disease 5461 5465	胆管肿瘤
+T241	Disease 5475 5480	肺支气管癌
+T242	Disease 5482 5485	卵巢癌
+T243	Disease 5486 5491	消化道类癌
+T244	Disease 5492 5499	血管外皮细胞瘤
+T245	Test 5520 5525	NICTH
+T246	Symptom 5528 5531	低血糖
+T247	Anatomy 5557 5561	自主神经
+T248	Anatomy 5571 5572;5573 5576	迷 走神经
+T249	Disease 5584 5586	肿瘤
+T250	Disease 5611 5613	肿瘤
+T251	Anatomy 5616 5622	胰岛素样物质
+T252	Test 5625 5630	IGF-I
+T253	Anatomy 5632 5637	IGF-2
+T254	Anatomy 5652 5657	IGF-2
+T255	Anatomy 5659 5667	胰岛素样生长因子
+T256	Anatomy 5680 5684	胰岛素原
+T257	Drug 5694 5697	胰岛素
+T258	Anatomy 5706 5711	IGF-2
+T259	Test 5734 5737	胰岛素
+T260	Anatomy 5756 5761	胰岛素受体
+T261	Anatomy 5764 5769	胰岛素受体
+T262	Anatomy 5770 5774;5775 5778	IGF- 玉受体
+T263	Anatomy 5779 5786	IGF-2受体
+T264	Anatomy 5816 5820	肿瘤组织
+T265	Anatomy 5821 5823	肌肉
+T266	Anatomy 5824 5826	脂肪
+T267	Anatomy 5850 5853	胰岛素
+T268	Anatomy 5870 5872	垂体
+T269	Test 5873 5875	GH
+T270	Anatomy 5884 5886	肝脏
+T271	Test 5887 5892	IGF-I
+T272	Anatomy 5893 5900	IGFBP-3
+T273	Anatomy 5912 5924	IGFI-IGFBP-酸
+T274	Test 5969 5974	IGF-I
+T275	Anatomy 5991 5995	IGFs
+T276	Anatomy 5998 6001	血管壁
+T277	Anatomy 6005 6009	IGFs
+T278	Anatomy 6067 6071	血管内皮
+T279	Level 6084 6086	严重
+T280	Disease 6086 6089	低血糖
+T281	Disease 6099 6101	肿瘤
+T282	Anatomy 6109 6114	IGF-2
+T283	Anatomy 6139 6144	IGF-2
+T284	Test_Value 6149 6153	轻度升高
+T285	Anatomy 6162 6164	GH
+T286	Symptom 6186 6189	低血糖
+T287	Anatomy 6206 6208	GH
+T288	Disease 6215 6217	肿瘤
+T289	Anatomy 6221 6226	IGF-2
+T290	Test 6235 6237	GH
+T291	Test 6252 6257	IGF-2
+T292	Test_Value 6264 6268	轻度升高
+T293	Test 6304 6309	IGF-I
+T294	Test 6321 6326	NICTH
+T295	Test 6352 6357	IGF-I
+T296	Test 6368 6373	NICTH
+T297	Test 6376 6384	血清 IGF-I
+T298	Test 6400 6405	IGF-I
+T299	Anatomy 6435 6443	GH-IGF 轴
+T300	Test 6470 6475	IGF-I
+T301	Disease 6495 6499	胰岛素瘤
+T302	Test 6525 6530	IGF-I
+T303	Disease 6542 6546	胰岛素瘤
+T304	Anatomy 6587 6592	IGF-2
+T305	Test 6595 6600	IGF-I
+T306	Test 6602 6607	NICTH
+T307	Test 6619 6624	NICTH
+T308	Disease 6639 6641	肿瘤
+T309	Disease 6659 6661	肿瘤
+T310	Disease 6668 6670	肿瘤
+T311	Operation 6688 6694	单纯手术切除
+T312	Disease 6700 6704	良性肿瘤
+T313	Disease 6711 6715	恶性肿瘤
+T314	Disease 6725 6727	肿瘤
+T315	Disease 6728 6730	肝癌
+T316	Anatomy 6752 6760	GH-IGF 轴
+T317	Test 6775 6777	血糖
+T318	Test 6789 6791	GH
+T319	Test 6827 6832	IGF-I
+T320	Anatomy 6842 6847	IGF-2
+T321	Anatomy 6857 6864	IGFBP-3
+T322	Test 6881 6886	IGF-I
+T323	Disease 7137 7141	胰岛素瘤
+T324	Disease 7286 7297	非胰岛细胞肿瘤性低血糖
+T325	Anatomy 7335 7349	胰岛素样生长因子结合蛋白 3
+T326	Disease 7398 7400	肿瘤
+T327	Disease 7403 7405	肿瘤
+T328	Symptom 7420 7423	低血糖
+T329	Drug 7434 7435;7436 7440	糖 皮质激素
+T330	Drug 7442 7446	rhGH
+T331	Symptom 7466 7467;7468 7470	低 血糖
+T332	Drug 7475 7480	糖皮质激素
+T333	Test 7487 7492	IGF-I
+T334	Anatomy 7514 7519	IGF-2
+T335	Test 7536 7538	血糖
+T336	Test 7542 7547	血浆胰岛素
+T337	Test 7549 7552	C 肽
+T338	Anatomy 7577 7582	NICTH
+T339	Drug 7592 7596	rhGH
+T340	Anatomy 7604 7614	IGF-2三体复合物
+T341	Test 7632 7634	血糖
+T342	Test 7658 7663	NICTH
+T343	Test 7683 7688	血浆胰岛素
+T344	Drug 7695 7698	二氮嗪
+T345	Drug 7699 7704	氯甲苯噻嗪
+T346	Drug 7711 7714	奥曲肽
+T347	Test 7738 7743	NICTH
+T348	Symptom 7754 7757	低血糖
+T349	SideEff 7768 7773	低血糖症状
+T350	Disease 7787 7791	低血糖症
+T351	Test 7803 7805	血糖
+T352	Symptom 7816 7822	神经精神症状
+T353	Disease 7836 7840	低血糖症
+T354	Symptom 7849 7852	低血糖
+T355	Disease 7867 7870	低血糖
+T356	Disease 7927 7930	低血糖
+T357	Anatomy 7948 7953	IGF-2
+T358	Symptom 7979 7982	低血糖
+T359	Disease 7988 7997	多发性内分泌腺瘤病
+T360	Test 8008 8010	血糖
+T361	SideEff 8031 8034	低血糖
+T362	Test 8040 8042	血糖
+T363	Disease 8050 8053	低血糖
+T364	Test 8056 8059	胰岛素
+T365	Test 8060 8061;8062 8063	C 肽
+T366	Test 8064 8068	胰岛素原
+T367	Disease 8080 8084	低血糖症
+T368	Drug 8110 8116	胰岛素促泌剂
+T369	Symptom 8137 8140	低血糖
+T370	Disease 8157 8160	低血糖
+T371	Symptom 8172 8174;8175 8176	低血 糖
+T372	Test 8184 8187	C 肽
+T373	Disease 8205 8211	高胰岛素血症
+T374	Anatomy 8221 8226	NICTH
+T375	Disease 8245 8249	低血糖症
+T376	Symptom 8292 8295	低血糖
+T377	Disease 8304 8313	内源性高胰岛素血症
+T378	Test 8314 8317	胸腹腔
+T379	Disease 8319 8321	肿瘤
+T380	Disease 8342 8344	肿瘤

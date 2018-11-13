@@ -1,0 +1,282 @@
+基础研究
+基金项目:国家自然科学基金(81270946,81170758,30670988)
+脂蛋白脂酶基因敲除小鼠糖脂代谢研究及其
+胰岛素抵抗的机制探索
+李阳雪  郑爽  韩亭亭  章瑶  姜冬冬  胡耀敏
+[摘要]   目的  研究不同周龄脂蛋白脂酶(LPL)基因敲除小鼠糖脂代谢情况,并探究其胰岛素抵抗
+的可能机制。 方法 分别选取 16 周和 40 周 LPL 基因敲除杂合子小鼠(LPL+ / -)和野生型(WT)C57 小鼠
+作为实验对象,将其分为 4 组:16 周 LPL+ / -组(n=6)、16 周 WT 组(n=6)、40 周 LPL+ / -组(n= 6)和 40 周
+WT 组(n=6)。 注射肝素后,分别测定 LPL+ / -小鼠及 WT 小鼠血清 LPL 活性;检测 4 组小鼠血清甘油三酯
+和游离脂肪酸水平;行腹腔葡萄糖耐量试验( IPGTT)监测血糖变化,计算葡萄糖曲线下面积(AUCG)和稳
+态模型评估的胰岛素抵抗指数(HOMA-IR)、稳态模型评估的 β 细胞功能指数(HOMA-β),评价胰岛素敏感
+性及胰岛 β 细胞功能;采用比色法测定血清丙二醛和总抗氧化力水平;用二氢乙啶(DHE)荧光染色法检测
+肝脏和骨骼肌中活性氧簇(ROS)水平。 结果 16 和 40 周龄 LPL+ / -组小鼠 LPL 活性均明显低于同周龄
+WT 组小鼠(P<0. 05)。 40 周龄 LPL+ / -组小鼠血清甘油三酯和游离脂肪酸水平显著高于同周龄 WT 组小
+鼠(P<0. 05),也明显高于 16 周龄 LPL+ / -组小鼠甘油三酯、游离脂肪酸水平(P<0. 05)。 与同周龄 WT 组
+比较,40 周龄 LPL+ / -组小鼠 IPGTT 30、120 min 血糖明显上升(P<0. 05),空腹胰岛素、HOMA-IR 显著升高
+(P<0. 05)。 40 周龄 LPL+ / -组小鼠血清丙二醛明显升高(P<0. 05),总抗氧化力显著降低(P<0. 05)。 16
+周龄 LPL+ / -组小鼠骨骼肌中 ROS 表达水平显著增加,而 40 周龄 LPL+ / -小鼠中肝脏、骨骼肌 ROS 水平均
+明显高于同周龄 WT 组小鼠。 结论 LPL+ / -小鼠随着年龄增长,脂代谢紊乱加重,血糖升高且出现明显胰
+岛素抵抗。 血脂异常的 LPL+ / -小鼠产生的胰岛素抵抗可能与氧化应激有关。
+[关键词]   脂蛋白酯酶; 胰岛素抵抗; 氧化应激
+Glucolipid metabolism of lipoprotein lipase heterozygous mice and the mechanism of insulin resistance Li
+Yangxue, Zheng Shuang, Han Tingting, Zhang Yao, Jiang Dongdong, Hu Yaomin. Department of Endocrinology,
+Renji Hospital, Shanghai Jiaotong University School of Medicine, Shanghai 200127, China
+[Abstract]  Objective  To investigate the glucolipid metabolism in lipoprotein lipase (LPL) gene knockout
+mice, and to explore the possible mechanisms of insulin resistance. Methods 16- and 40-week old LPL gene
+knockout heterozygous mice ( LPL + / -) and wild type (WT) C57 mice were selected and divided into 4 groups:
+16-week LPL+ / -(n=6), 16-week WT(n = 6), 40-week LPL+ / -(n = 6), and 40-week WT(n = 6) group. LPL
+activity of post-heparin serum was examined. Serum triglyceride( TG) and free fatty acid( FFA) were measured.
+Intraperitoneal glucose tolerance test(IPGTT) in 4 groups of mice were performed. The glucose area under the curve
+(AUCG) and homeostasis model assessment for insulin resistance index and β-cell function index ( HOMA-IR,
+HOMA-β) were calculated to evaluate insulin sensitivity and the function of islet β-cells. Serum malondialdehyde
+(MDA) and total antioxidant capacity ( TAOC) levels were determined by means of colorimetric method. Using
+dihydroethidium(DHE) fluorescent staining method, reactive oxygen species ( ROS) levels in liver and skeletal
+muscle were determined. Results LPL activity levels of both 16- and 40-week LPL+ / - mice were significantly lower
+than that in WT mice of the same age. Serum TG and FFA of 40-week old LPL+ / - mice were significantly higher than
+those in WT mice of the same age(P<0. 05), and they were also higher than those of 16-week old LPL+ / - mice(P<
+0. 05) . IPGTT showed that compared with WT mice, blood glucose level in LPL+ / - mice was significantly higher than
+that in WT group at 30 and 120 minute(P<0. 05), and fasting insulin and HOMA-IR were increased significantly(P<
+0. 05) . Serum MDA of 40-week old LPL+ / - mice was evidently higher than that in WT mice by the same week(P<
+0. 05), while TAOC level was lower than that of WT mice (P<0. 05) . ROS in skeletal muscle of 16-week old LPL+ /
+- mice was significantly increased. Meanwhile, ROS in both liver and skeletal muscle of 40-week old LPL+ / - mice
+was significantly higher than that in WT mice of the same age. Conclusion As time goes by, lipid and glucose
+disorders of LPL+ / - mice are aggravating, and insulin resistance develops evidently. Insulin resistance in LPL+ / -
+mice with dyslipidemia may be related to oxidative stress.
+[Key words]  Lipoprotein lipase; Insulin resistance; Oxidative stress
+(Chin J Endocrinol Metab, 2015, 31: 143-147)
+脂蛋白脂酶(LPL)是脂质代谢过程中的关键酶之
+一,LPL 结构和活性的异常可导致以甘油三酯升高为
+主的脂代谢紊乱。 研究表明,LPL 基因突变与 2 型糖
+尿病和心血管疾病密切相关[1]。 有研究表明,LPL 异
+常,可导致脂代谢紊乱,并随后出现糖代谢紊乱及胰岛
+素抵抗[2]。 大量研究表明,胰岛素抵抗与氧化应激、
+炎症以及内质网应激三者显著相关[3-5]。 本实验以
+LPL 基因敲除杂合子小鼠为对象,研究 LPL 基因突变
+对糖脂代谢及胰岛素敏感性的影响,并探索其胰岛素
+抵抗的可能机制。
+材料和方法
+一、 材料
+动物模型制备及分组:分别选取 16 和 40 周龄雄
+性 LPL 基因敲除杂合子小鼠 ( LPL + / -) 及野生型
+(WT)C57 小鼠,动物由北京大学医学部动物中心提
+供。 饲养于上海交通大学附属仁济医院动物房清洁级
+IVC 笼盒中。 实验动物分笼喂养,自由进食与饮水,每
+日光照 12 h,室温 21℃,湿度为 50% ~ 55% 。 适应性
+喂养 1 周后开始实验,分组情况是:16 周龄 LPL+ / -组
+(n=6)、16 周龄 WT 组(n=6)、40 周龄 LPL+ / -组(n =
+6)和 40 周龄 WT 组(n=6)。
+二、 方法
+1. LPL 活性测定:运用比色法测定血清 LPL 活
+性,试剂盒购自南京建成。 以 300 IU / kg 剂量注射肝
+素 10 min 后小鼠内眦静脉采血,10 000 转 / min,离心
+10 min,分离血清,测定 LPL 活性。
+2. 血清甘油三酯、游离脂肪酸水平的检测:小鼠
+血清提取方法同(1)。 甘油三酯检测采用生化法,试
+剂盒购自德赛试剂(DIASYS);游离脂肪酸采用生化
+法,试剂盒购自日本和光(WAKO),两者检测仪器均为
+日本日立(HITACHI)7180 生化仪。
+3. 腹腔注射葡萄糖耐量试验( IPGTT):小鼠禁食
+10 h,按照 1 g / kg 腹腔注射葡萄糖,进行 IPGTT,断尾
+取血检测 0、15、30、60 和 120 min 的血糖以及空腹血清
+胰岛素水平。 血糖采用罗氏血糖仪氧化酶法检测。 胰
+岛素采用 ELISA 方法,试剂盒购自 SHIBAYAGI 公司。
+用稳态模型评估的胰岛素抵抗指数(HOMA-IR)和 β
+细胞功能指数 ( HOMA-β),计算血糖曲线下面积
+(AUCG)。 其中 HOMA 计算公式为:HOMA-IR=(空腹
+血糖×空腹血清胰岛素) / 22. 5;HOMA-β = 20×空腹胰
+岛素 / (空腹血糖-3. 5)。
+4. 血清丙二醛氧化物和总抗氧化力测定:提取小
+鼠血清,运用比色法测定血清丙二醛和总抗氧化力水
+平。 两试剂盒均购自南京建成。
+5. 肝脏和骨骼肌中活性氧簇(ROS)的测定:小鼠
+处死前禁食 10 h,采用颈椎脱臼方法处死小鼠。 取肝
+脏和骨骼肌用 OCT 冰冻切片包埋剂迅速包埋并放入
+-80℃冷冻,用冰冻切片机切成 10 滋m 切片,每组肝脏
+和骨骼肌各 5 张切片。 将冰冻切片用 PBS 洗 3 次,予
+二氢吡啶(DHE)避光,37℃孵育 30 min。 PBS 洗 3 次
+后,用抗荧光淬灭剂封片后,共聚焦显微镜观察肝脏和
+骨骼肌中 ROS 表达情况。
+三、 统计学处理
+采用 SPSS 19. 0 软件进行统计学分析,计量数据
+以 x-± s 表示,比较采用 t 检验,P<0. 05 表明差异有统
+计学意义。
+结    果
+一、 LPL 活性测定
+16 和 40 周龄 LPL+ / -组小鼠 LPL 活性均显著低
+于同周龄 WT 组小鼠(P<0. 05,图 1)。
+注:w:周 Week;LPL:脂蛋白脂酶 Lipoprotein lipase;WT:野生型 Wild
+type;vs WT, aP<0. 05
+图 1  小鼠血清脂蛋白脂酶活性
+Fig 1  Lipoprotein lipase activity in serum of mice
+二、 小鼠体重及血清中甘油三酯和游离脂肪酸水
+平
+16 周龄和 40 周龄 LPL+ / -组小鼠体重与同周龄
+WT 组小鼠相比,无明显差异(P>0. 05)。 40 周龄 LPL
++ / -组小鼠血清甘油三酯和游离脂肪酸水平均明显高
+于 40 周龄对照组小鼠(P<0. 05),也明显高于 16 周龄
+LPL+ / -组小鼠甘油三酯和游离脂肪酸水平(P<0. 05,
+表 1)。
+表 1  各组小鼠体重、血清甘油三酯和游离脂肪酸水平比较
+(x-± s)
+Tab 1 Comparison of body weight, serum triglycerides, and free
+fatty-acids(x-± s)
+组别
+Group
+鼠数
+n
+体重
+Body weight
+(g)
+甘油三酯
+Triglycerides
+(mmol / L)
+游离脂肪酸
+Free fatty acids
+(mmol / L)
+16 w
+WT 6 23. 23 ± 4. 48 0. 25 ± 0. 05 0. 37 ± 0. 07
+LPL+ / - 6 24. 02 ± 2. 71 0. 23 ± 0. 02 0. 35 ± 0. 07
+40 w
+WT 6 29. 21 ± 4. 82 0. 22 ± 0. 03 0. 13 ± 0. 03
+LPL+ / - 6 32. 59 ± 3. 60 0. 63 ± 0. 01ab 1. 02 ± 0. 07ab
+注:w:周 Week;WT:野生型 Wild type;LPL:脂蛋白脂酶 Lipoprotein
+lipase; vs WT, aP<0. 05; vs 16 w, bP<0. 05
+三、 小鼠血糖变化及胰岛素敏感性
+图 2 为各组小鼠 IPGTT 曲线,结果显示,与 16 周
+龄 WT 组比较,16 周龄 LPL+ / -小鼠各点血糖值无明
+显差异(P>0. 05);与 40 周龄 WT 组比较,40 周龄 LPL
++ / -小鼠 30、120 min 血糖明显升高(P<0. 05);与 16
+周龄 LPL+ / -组比较,40 周龄 LPL+ / -小鼠各点血糖变
+化无明显差异(P>0. 05)。 表 2 为各组小鼠血糖变化
+及胰岛素敏感性评价指标,结果表明各组小鼠 AUCG
+无明显差异(P>0. 05);40 周龄 LPL+ / -组小鼠空腹胰
+岛素 和 HOMA-IR 明 显 高 于 同 周 龄 WT 组 小 鼠
+(P<0. 05),而与 16 周龄 LPL+ / -组小鼠相比无明显差
+异(P>0. 05)。 各组间小鼠 HOMA-β 差异无统计学意
+义(P>0. 05)。
+注:w:周 Week;LPL:脂蛋白脂酶 Lipoprotein lipase;WT:野生型 Wild
+type;vs WT, aP<0. 05
+图 2  各组小鼠腹腔葡萄糖耐量试验曲线(n=6)
+Fig 2  Intraperitoneal glucose tolerance test curves of mice(n=6)
+四、 血清丙二醛和总抗氧化力水平
+与 16 周龄 WT 组相比,16 周龄 LPL+ / -组小鼠血
+清丙二醛和总抗氧化力水平无明显改变(P>0. 05,图
+3)。 而 40 周龄 LPL+ / -小鼠血清丙二醛比同周龄 WT
+组明显增加,血清总抗氧化力则明显下降(P<0. 05,图
+3)。
+五、 各组小鼠肝脏和骨骼肌中 ROS 表达水平
+表 2  各组小鼠腹腔葡萄糖耐量试验中血糖和胰岛素敏感性比较(x-± s)
+Tab 2  Comparison of blood glucose and insulin sensitivity in intraperitoneal glucose tolerance test(x-± s)
+组别
+Group
+鼠数
+n
+血糖
+Blood glucose
+(mmol / L)
+0 min 15 min 30 min 60 min 120 min
+空腹胰岛素
+Fasting insulin
+(mU / L)
+AUCG HOMA-IR HOMA-β
+16 w
+WT 6 5. 46 ± 1. 32 15. 33 ± 2. 12 14. 32 ± 3. 64 10. 73 ± 5. 38 9. 10 ± 4. 46 7. 55 ± 2. 02 24. 44 ± 2. 67 1. 59 ± 0. 22 53. 21 ± 33. 39
+LPL+ / - 6 5. 34 ± 1. 39 15. 18 ± 3. 25 14. 30 ± 4. 71 14. 70 ± 6. 55 9. 92 ± 4. 49 7. 95 ± 1. 27 27. 72 ± 10. 20 2. 01 ± 0. 47 135. 21 ± 85. 18
+40 w
+WT 6 5. 73 ± 1. 56 14. 87 ± 4. 36 13. 67 ± 4. 12 11. 42 ± 2. 54 7. 27 ± 1. 68 4. 15 ± 7. 60 18. 95 ± 4. 36 1. 16 ± 0. 38 28. 45 ± 5. 64
+LPL+ / - 6 5. 30 ± 0. 95 14. 60 ± 1. 48 15. 15 ± 3. 63a 12. 38 ± 5. 09 8. 98 ± 3. 81a 9. 21 ± 2. 70a 23. 61 ± 7. 22 1. 98 ± 0. 40a 116. 63 ± 23. 78
+注:w:周 Week;WT:野生型 Wild type;LPL:脂蛋白脂酶 Lipoprotein lipase;AUCG:葡萄糖曲线下面积 Glucose area under the curve;HOMA-IR:稳态模
+型评估的胰岛素抵抗指数 Homeostasis model assessment for insulin resistance index;HOMA-β:稳态模型评估的 β 细胞功能指数 Homeostasis model
+assessment for β-cell function index;vs WT, aP<0. 05
+注:w:周 Week;(A)16 w;(B)40 w;LPL:脂蛋白脂酶 Lipoprotein lipase;WT:野生型 Wild type;MDA:丙二醛 Malondialdehyde;TAOC:总抗氧化力
+Total antioxidant capacity;vs WT, aP<0. 05
+图 3  各组小鼠血清丙二醛和总抗氧化力水平(n=6)
+Fig 3  Serum malondialdehyde and total antioxidant capacity of mice(n=6)
+如图 4 所示,与 16 周龄 WT 组相比, 16 周龄 LPL
++ / -小鼠肝脏中 ROS 水平无明显变化,而骨骼肌中
+ROS 水平升高;40 周龄 LPL+ / -小鼠肝脏和骨骼肌中
+ROS 水平显著高于 WT 组小鼠。 同时,与 16 周龄 LPL
++ / -小鼠相比,40 周龄 LPL + / -小鼠肝脏、骨骼肌中
+ROS 水平显著升高。
+注:w:周 Week;LPL:脂蛋白脂酶 Lipoprotein lipase;WT:野生型 Wild
+type;A、C、E、G:16 w;B、D、F、H:40 w;A、B、E、F:LPL+ / -;C、D、G、H:
+WT;A、B、C、D:肝脏 Liver;E、F、G、H:骨骼肌 Muscle
+图 4  各组小鼠肝脏和骨骼肌中的活性氧簇表达情况
+Fig 4  Reactive oxygen species in liver and skeletal muscle of mice
+讨    论
+LPL 是广泛分布于脂肪细胞、心肌细胞、骨骼肌细
+胞、乳腺细胞和巨噬细胞等实质细胞中的一种甘油三
+酯水解酶,是脂质代谢的关键酶之一,主要水解乳糜微
+粒(CM)和极低密度脂蛋白(VLDL)中的甘油三酯。
+Hu 等[6]研究证实,LPL 基因突变是导致 LPL 结构与
+功能改变的重要因素,是导致 2 型糖尿病患者高甘油
+三酯血症的原因之一。 Bremer 等研究提示:大量摄入
+单糖可出现以甘油三酯升高,高密度脂蛋白(HDL)降
+低为主的脂代谢紊乱[7],但是该模型混杂了其他影响
+糖脂代谢的因素,而本实验选择性敲除 LPL,建立高甘
+油三酯血症模型,以研究 LPL 异常导致的糖脂代谢紊
+乱和胰岛素敏感性变化。
+本实验中,16 和 40 周龄小鼠 LPL 活性均显著低
+于同周龄 WT 小鼠,说明 LPL+ / -小鼠模型建立成功。
+16 周龄的 LPL+ / -小鼠甘油三酯和游离脂肪酸水平并
+未出现明显改变,但 40 周龄 LPL+ / -则出现显著高甘
+油三酯和游离脂肪酸血症。 同时,16 周龄的空腹胰岛
+素、HOMA-IR 等评价胰岛素抵抗的指标与 WT 无显著
+差异,而 40 周龄的 LPL+ / -小鼠则出现明显高胰岛素
+血症,HOMA-IR 指数上升,IPGTT 中 30 和 120 min 血
+糖明显升高,且血糖峰值明显后移。 上述结果提示,随
+着年龄的增长,LPL+ / -小鼠的糖脂代谢紊乱加重,胰
+岛素抵抗明显增加。 而小周龄 LPL+ / -小鼠并未出现
+明显糖脂代谢异常,可能由于小鼠早期机体代偿,游离
+脂肪酸、甘油三酯均未出现明显异常相关。 Ding 等[8]
+通过研究 LPL 基因纯合子小鼠发现,16 周龄与 48 周
+龄 LPL 纯合子小鼠血清游离脂肪酸和甘油三酯明显
+高于对照小鼠,而 16 周龄小鼠出现空腹血糖升高,48
+周龄小鼠出现糖耐量受损。 该结果印证我们的猜想,
+随着年龄增长,LPL+ / -小鼠出现脂代谢紊乱,游离脂
+肪酸及其代谢产物产生脂毒性,诱发糖代谢异常。
+糖代谢出现异常的重要原因之一则是胰岛素抵
+抗。 胰岛素抵抗是胰岛素敏感性下降的表现。 许多研
+究表明,它是糖尿病、高血压、血脂紊乱、肥胖等代谢综
+合征的共同病理生理基础[9,10]。 近年来,大量研究证
+实,氧化应激是胰岛素抵抗的重要机制之一。 Meigs
+等[11]研究发现,在 Framingham 后代研究中,即使校正
+体重指数后,全身的氧化应激水平与胰岛素抵抗呈现
+正相关。
+ROS,主要包括超氧阴离子 ( O2- ), 过氧化氢
+(H2O2),一氧化氮(NO·)、单线态氧( 1O2)和过氧亚
+硝酸(ONOOH)等。 其产生主要来源于线粒体呼吸链,
+以及一氧化氮合酶(NOS)、还原型辅酶2(NADPH)氧
+化酶(NOX)和黄嘌呤氧化酶(XO)等催化的反应[12]。
+ROS 水平的增高,往往提示体内氧化应激的出现。 丙
+二醛是脂质过氧化物的终产物,它能导致细胞突变、衰
+老或死亡以及生物膜变性[13]。 血清丙二醛水平升高,
+总抗氧化力水平降低,也同样反映机体出现氧化应激。
+16 周龄 LPL+ / -小鼠丙二醛和总抗氧化力水平未出现
+明显改变,而 40 周龄 LPL+ / -小鼠与 WT 小鼠相比,丙
+二醛显著升高,总抗氧化力明显下降。 在组织 ROS 的
+测定中,与同周龄 WT 相比,16 周龄 LPL+ / -小鼠的骨
+骼肌也出现 ROS 水平的增加,而肝脏的 ROS 无明显
+改变;40 周龄的 LPL+ / -小鼠骨骼肌和肝脏中 ROS 表
+达均显著增加;同时,与 16 周龄 LPL+ / -小鼠相比,40
+周龄 LPL+ / -小鼠肝脏和骨骼肌的 ROS 表达水平明显
+上升。 从该结果,我们可以看出,一方面随着年龄增
+长,氧化应激加重,从 16 周龄的部分组织氧化应激到
+40 周龄多胰岛素靶组织及全身的氧化应激;另一方
+面,氧化应激的出现先于糖脂代谢的紊乱。 Houstis
+等[14]通过体外实验发现,胰岛素抵抗的脂肪细胞 ROS
+水平明显增加,同时 ROS 水平的增加先于胰岛素抵抗
+的出现,而通过抗氧化的治疗可以明显改善胰岛素敏
+感性。 陆志明等[15]通过动物模型也证实,在高游离脂
+肪酸喂养下,小鼠体内活性氧产生增加,抗氧化能力下
+降,导致氧化应激,从而促进胰岛素抵抗的发生。 李兰
+芳等[16]也发现,高脂喂养的大鼠出现明显胰岛素抵
+抗,肝脏 ROS 水平增加,NOX 表达显著增加,推测
+NOX 源性的氧化应激在肝脏胰岛素抵抗中发挥了重
+要作用。 体外研究证实, ROS 可通过蛋白激酶 C
+(PKC)、氨基末端激酶(JNK)等通路导致胰岛素信号
+转导障碍[17,18]。 而在 LPL 杂合子小鼠中氧化应激所
+致胰岛素抵抗的分子机制究竟如何,是否同样也与
+NOX 激活有关,抑或与炎症、内质网应激等通路有关,
+仍需进一步阐明。

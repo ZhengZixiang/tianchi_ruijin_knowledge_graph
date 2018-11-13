@@ -1,0 +1,185 @@
+临床研究
+海交通大学医学院附属仁济医院内分泌科(李圣贤);上海交通大学医
+学院附属瑞金医院内分泌科(刘威、刘炳丽、宋志毅)
+CTLA-4 基因与 Graves 病易感性的关联研究
+瞿茹怡  李圣贤  郑洁  刘威  刘炳丽  宋志毅
+[摘要]   目的   探讨细胞毒性 T 淋巴细胞相关抗原 4(CTLA-4)基因单核苷酸多态位点 rs231775
+(G / A)和 rs3087243(G / A)多态性与 Graves 病(GD)易感性的关系。 方法 从门诊和病房收集 GD 患者,留
+取血标本,抽提 DNA,经 TagMan-MGB 探针法鉴定基因分型。 选择正常体检人群作为对照,进行病例对照
+研究,分析 CTLA-4 基因多态性与 GD 发病的风险。 结果 GD 组 rs231775 等位基因 G(OR= 1. 244,95% CI
+1. 124 ~ 1. 377,P<0. 01)和 GG 基因型频率高于对照组(55. 3% 对 49. 1% ,OR = 1. 279,95% CI 1. 126 ~
+1. 454,P<0. 01),GD 组 rs3087243 等位基因 G(OR=1. 303,95% CI 1. 166 ~ 1. 457,P<0. 01)和 GG 基因型频
+率也高于对照组(76. 8% 对 71. 8% ,OR = 1. 302,95% CI 1. 143 ~ 1. 484,P<0. 01)。 结论 CTLA-4 基因
+rs231775 和 rs3087243 多态位点 GG 基因型显著增加 GD 的发病风险。
+[关键词]   格雷夫斯病; 多态性, 单核苷酸; 细胞毒性 T 淋巴细胞相关抗原 4
+Association between CTLA-4 gene polymorphisms and the susceptibility to Graves忆 disease Qu Ruyi*, Li
+Shengxian, Zheng Jie, Liu Wei, Liu Binli, Song Zhiyi. *Department of Internal Medicine, Branch of Shanghai First
+Peaple忆s Hospital, Shanghai 200081, China
+[Abstract]   Objective   To determine whether the single nucleotide polymorphisms ( SNPs) rs231775 and
+rs3087243 of the cytotoxic T lymphocyte antigen 4(CTLA-4) gene are associated with susceptibility to Graves忆 disease
+(GD) in Chinese Han population. Methods Patients were enrolled from outpatient department and wards. Blood
+samples from each subject were collected to extract DNA, and the genotypes were determined by TagMan-MGB
+probe. Results The frequencies of allele G (OR = 1. 244,95% CI 1. 124-1. 377,P < 0. 01) and genotype GG
+(55. 3% vs 49. 1% ,OR=1. 279, 95% CI 1. 126-1. 454,P<0. 01)of rs231775 in GD group were higher than those in
+control group. The frequencies of allele G(OR=1. 303,95% CI 1. 166-1. 457, P<0. 01)and genotype GG (76. 8%
+vs 71. 8% , OR=1. 302, 95% CI 1. 143-1. 484, P<0. 01) of rs3087243 in GD group were also higher. Conclusion
+GG genotypes in rs231775 and rs3087243 of CTLA-4 gene are related to the high risk of GD.
+[Key words]  Graves忆 disease; Polymorphism, single nucleotide; Cytotoxic T lymphocyte antigen 4
+(Chin J Endocrinol Metab, 2014, 30: 35-37)
+Graves 病(GD)属器官特异性自身免疫性疾病,是
+造成甲状腺功能亢进(甲亢)最主要的病因。 由于 GD
+的高发病率及高复发率,一直受到临床及科研人员的
+关注。 随着分子遗传学的进展,候选基因、定位克隆策
+略、全基因组关联分析(GWAS)和二代测序等技术先
+后用于本病的研究,发现了许多可能的易感基因 /位
+点,如 Fc 受体样 3 基因(Fc receptor-like 3,FCRL3) [1]、
+CD40[2]、人类白细胞抗原 ( human leukocyte antigen,
+HLA) [3]、细胞毒性 T 淋巴细胞相关抗原 4(cytotoxic T
+lymphocyte antigen 4, CTLA-4 ) [4]、促甲状腺素受体
+(thyroid-stimulating hormone receptor,TSHR) [5] 等。 以
+往的研究发现 2q33 是 GD 的易感性区段,在人 2q33
+染色 体 上 CD28、 CTLA-4 和 可 诱 导 共 刺 激 分 子
+(inducible co-stimulator,ICOS)3 个基因依次排列,组成
+一个紧密连锁的基因簇,参与多个自身免疫性疾病及
+肿瘤的调节[6-8]。 根据现有 Hapmap II 数据库对 2q33
+区段的数据深度挖掘发现,这个区段中还有很多连续
+出现的 P 值很小的单核苷酸多态性(SNPs),进一步提
+示该区段与 GD 密切相关,易感基因极有可能就在此
+区段内。 随后的热点重组图及 LD 分析发现,这些具
+有最显著 P 值的 SNPs 与 CTLA-4 基因形成了一个大
+的连锁区块。 且 GD 的易感区段 2q33 与疾病相关的
+位点均位于 CTLA-4 基因区[9]。 复习国外文献,在自
+身免 疫 性 甲 状 腺 疾 病 ( AITD ) 相 关 的 研 究 中,
+CTLA-4 也最受关注,但结果仍有争议。 因此,本研究
+进一步选取了 CTLA-4 基 因 区 的 2 个 SNP 位 点
+rs231775 和 rs3087243 进行了验证。
+表 1  对照组和 GD 组 2 个 SNP 位点等位基因和基因型频率[n(% )]
+Tab 1  Frequencies of alleles and genotypes in two SNPs of CTLA-4 in control and GD groups [n(% )]
+组别
+Group
+rs231775 rs3087243
+G A GG GA AA G A GG GA AA
+CON 2 713(70. 5) 1 135(29. 5) 945(49. 1) 823(42. 8) 156(8. 1) 3 574(82. 7) 746(17. 3) 1 550(71. 8) 474(21. 9) 136(6. 3)
+GD  2 790(74. 8) 938(25. 2) 1 030(55. 3) 730(39. 2) 104(5. 6) 4 465(86. 2) 715(13. 8) 1 989(76. 8) 487(18. 8) 114(4. 4)
+注:GD: Graves 病 Graves忆 disease;SNP:单核苷酸多态性 Single nucleotide polymorphism;CTLA-4: 细胞毒性 T 淋巴细胞相关抗原 4 Cytotoxic T
+lymphocyte antigen 4;CON:对照组 Control group
+对象和方法
+一、 对象
+除了先前在本院及仁济医院门诊收集的 GD 患
+者,同时筛选瑞金医院分子中心的 AITD 病例库,根据
+GD 的诊断标准,共有 2 640 例患者入选;正常对照选
+自正常体检人群,要求甲状腺激素水平和甲状腺 B 超
+均正常,最后筛得性别、年龄匹配的正常对照 2 204
+名。
+二、 方法
+数据采集:患者来院诊治时,收集患者的基本资
+料,包括年龄、性别、病程、是否复发、治疗经过等;同时
+记录心率、突眼程度、甲状腺肿大程度、是否有震颤和
+胫前黏液性水肿等体征。 收集患者的血清,用化学发
+光法测定患者的甲状腺激素水平。 全血分离血清后所
+留血细胞用于 DNA 抽提,检测所抽提 DNA 的浓度及
+260 / 280、260 / 230 的比值,0. 8% 的琼脂糖凝胶电泳判
+断基因组 DNA 的完整性。 用 TagMan-MGB 探针法进
+行基因分型。
+三、 统计学处理
+采用 SPSS 统计软件的卡方检验程序和 Excel 的
+四格表相结合进行基因型频率和等位基因频率统计。
+相对危险度用比数比 ( Odds ratios,OR) 表示,采用
+Woolf 法分析。 Hardy-Weinberg 检验证实有群体代表
+性。 以 P<0. 05 为差异有统计学意义。
+结    果
+筛选数据时,先经质量控制过滤,计算对照样本中
+每个 SNP 位点的等位基因频率和 Hardy-Weinberg 平衡
+(HWE)的 P 值,剔除少数等位基因频率(minor allele
+frequency, MAF) <0. 01 和 HWE 的 P 值≤1×10-3 的
+SNP 位点。 本研究所选的 2 个位点符合质量要求。 进
+一步剔除资料不全和基因分型结果缺失者, SNP
+rs231775 位点共获得数据完整的 GD 患者 1 864 例,正
+常对照者 1 924 名。 GD 组 rs231775 等位基因 G 的频
+率显著高于对照组 (OR = 1. 244,95% CI 1. 124 ~
+1. 377,P<0. 01)。 根据基因型分为 GG、GA 和 AA,其
+中 GD 组 GG 基因型高于对照组(55. 3% 对 49. 1% ),
+而其他 2 型低于对照组,差异有统计学意义 ( P <
+0. 01,表 1)。进一步按基因型分为 GG 和 TT+GA 2 组,
+组间比较仍有差异 (OR = 1. 279,95% CI 1. 126 ~
+1. 454,P<0. 01)。 表明 rs231775 位点为 GG 纯合型,
+显著增加 GD 的发病风险。
+同样,在 rs3087243 位点得数据资料完整的 GD 患
+者 2 590 例,正常对照者 2 160 名。 GD 组等位基因 G
+的频率也显著高于对照组 ( OR = 1. 303, 95% CI
+1. 166 ~ 1. 457,P<0. 01)。 基因型分为 GG、GA 和 AA,
+GD 组 GG 基因型高于对照组(76. 8% 对 71. 8% ),而
+其他 2 组低于对照组,3 组间比较,差异有统计学意义
+(P<0. 01,表 1)。 当将 GG 纯合型和 TT+GA 型进行比
+较,2 组间差异仍有统计学意义(OR = 1. 302,95% CI
+1. 143 ~ 1. 484,P<0. 01)。 表明在 rs3087243 位点,也
+只有 GG 纯合型,显著增加 GD 的发病风险。
+讨    论
+目前研究认为,GD 是一种自身免疫性疾病,与
+Th2 型细胞因子介导的体液免疫失衡有关。 在免疫调
+控中,T 细胞是重要的免疫细胞,在 MHCI类和2类
+分子及胸腺的其他激素和细胞因子的作用下,逐渐分
+化成熟,在细胞表面表达各种膜蛋白,如 CD4 分子、
+CD8 分子、T 细胞抗原受体和 CD3 分子。 具备识别抗
+原、介导特异性免疫应答和免疫调节的功能。 根据 T
+细胞表面标记和分化抗原不同,可分为 CD4+T 细胞、
+CD8+T 细胞。 CD4+ T 细胞根据其分泌的细胞因子和
+介导的功能再分为 Th1 细胞[分泌白细胞介素(IL)-2、
+干扰素( IFN)-γ 和肿瘤坏死因子(TNF)-α,介导细胞
+免疫] 和 Th2 细胞(分泌 IL-4、5、6、10,介导体液免
+疫)。 CD8+ T 细胞主要有细胞毒性 T 淋巴细 胞
+(cytotoxicity T lymphocyte,CTL)和抑制性 T 淋巴细胞
+(suppressor T lymphocyte, Ts)。 正常情况下,免疫应答
+过程中 T 细胞的活化至少需要两种信号刺激,第一信
+号是抗原呈递细胞(APC)呈递的抗原肽一人类白细胞
+抗原(HLA)复合物,被特殊 T 细胞抗原受体(TCR)识
+别,并将信号传递给 T 细胞。 第二信号是非抗原依赖
+性的“协同刺激信号冶,其中最重要的协同刺激途径是
+B7:CD28 / CTLA-4。 CD28 和 CTLA-4 是其中最重要的
+一对正负调节因子。 当 APC 上的 B7 分子低水平表达
+时,CTLA-4 因与 B7 分子具有高亲和力而占优势,阻止
+T 细胞的激活。 而当 APC 表面高水平表达 B7 分子
+时,B7 / CD28 信号转导途径占优势,T 细胞被激活并增
+殖、分化为效应细胞,并分泌 IL-2 等细胞因子,后者进
+一步促进 T 细胞的活化。 激活的 T 细胞大量分泌
+CTLA-4 和 CD28,CTLA-4 和 CD28 竞争性地与 B7 分
+子结合,调节 T 细胞的免疫应答。 可见,CTLA-4 作为
+协同刺激信号抑制 T 细胞增殖、活化,诱导 T 细胞耐
+受。 CTLA-4 功能和(或)表达缺陷可能导致体内 Ts 细
+胞和 Th 细胞失衡,B 细胞产生大量的促甲状腺素受体
+抗体(TRAb),导致甲亢的发生。
+CTLA-4 是一种膜蛋白,分膜外区、跨膜区和胞浆
+区。 人类 CTLA-4 基因由 4 个外显子和 3 个内含子组
+成。 外显子 1 含 108 bp,编码一段含疏水氨基酸的前
+导链;外显子 2 含 348 bp,编码 116 个氨基酸,是 B7 分
+子的配体;外显子 3 含 111 bp,编码穿膜区的 37 个氨
+基酸;外显子 4 含 102 bp,编码 CTLA-4 胞内部分的肽
+链。 其后是 3'端非翻译区的 1 150 bp,含有约 60 个 AT
+重复序列,可能与 mRNA 的稳定性有关。
+先前的研究发现,2q33 为中国汉族人群的易感区
+段,在该区段包含 3 个相互关联,与免疫调节密切相关
+的基因:CD28、CTLA-4 和 ICOS。 其中研究最多的是
+CTLA-4 基因,发现 CTLA-4 与 1 型糖尿病[10]、类风湿
+性关节炎[11]、系统性红斑狼疮[12] 等其他自身免疫性
+疾病均相关,这表明 CTLA-4 是许多自身免疫性疾病
+的共同易感基因。 在对 GD 的研究中,Yanagawa 等[13]
+率先报道了 CTLA-4 基因多态性与 GD 有关,发现
+CTLA-4 基因的 3忆非翻译区存在一个(AT)n 高度重复
+序列,其多态性变化与 GD 明显相关。 然而 Cho 等[14]
+对韩国 GD 患者的研究发现 GD 与 CTLA-4 基因
+(AT)n 重复片段无相关性。 4 项研究发现 CTLA-4 基
+因外显子 1 + 49 位点 A / G 的 G 等位基因与 GD 相
+关[15-18]。 可这一位点未能在巴西人群中得到验证[19]。
+以上表明不同种族对 CTLA-4 基因的易感性存在很大
+的差别。 Tomer 等[20]进一步研究发现 CTLA-4 与甲状
+腺产生的自身抗体相关,而 CD28 无相关性,他们还发
+现,虽然 CTLA-4 与产生甲状腺自身抗体相关,但是在
+GD 和桥本氏甲状腺炎(HT)间没有差异。 由于目前病
+例库中没有足量的 HT 病例,尚未进行相应的分析。
+虽然本研究在一个较大的样本基础上,进行了
+CTLA-4 基因对 GD 易感性的研究,证实了在中国汉族
+人群中,CTLA-4 是 GD 的易感基因之一。 但本文仅是
+基因多态性与疾病相关性的研究, 进一步阐明
+rs231775 和 rs3087243 多态性导致 CTLA-4 基因功能
+改变的分子机制,以及 CTLA-4 基因功能异常参与 GD
+发病的机制,更有助于提高对 GD 发病的认识。

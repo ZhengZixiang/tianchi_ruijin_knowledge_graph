@@ -1,0 +1,499 @@
+T1	Disease 361 367	1 型糖尿病
+T2	Disease 642 648	2 型糖尿病
+T3	Disease 706 712	2 型糖尿病
+T4	Disease 727 733	2 型糖尿病
+T5	Disease 1923 1929	2 型糖尿病
+T6	Disease 2105 2111	2 型糖尿病
+T7	Disease 2380 2386	2 型糖尿病
+T8	Disease 2420 2426	2 型糖尿病
+T9	Disease 2451 2457	2 型糖尿病
+T10	Disease 2505 2511	2 型糖尿病
+T11	Disease 2530 2536	2 型糖尿病
+T12	Disease 2778 2784	2 型糖尿病
+T13	Disease 3720 3726	2 型糖尿病
+T14	Disease 3856 3862	2 型糖尿病
+T15	Disease 3959 3965	2 型糖尿病
+T16	Disease 4321 4327	2 型糖尿病
+T17	Disease 4373 4379	2 型糖尿病
+T18	Disease 4867 4873	2 型糖尿病
+T19	Disease 5004 5010	2 型糖尿病
+T20	Disease 5575 5581	2 型糖尿病
+T21	Disease 7638 7644	2 型糖尿病
+T22	Disease 7947 7953	2 型糖尿病
+T23	Disease 8147 8153	2 型糖尿病
+T24	Disease 8248 8254	2 型糖尿病
+T25	Disease 8678 8684	2 型糖尿病
+T26	Disease 8740 8746	2 型糖尿病
+T27	Disease 8762 8768	2 型糖尿病
+T28	Disease 4343 4344;4345 4349	1 型糖尿病
+T29	Disease 3515 3516;3517 3521	2 型糖尿病
+T30	Drug 4962 4967	他汀类药物
+T31	Drug 271 276	磺脲类药物
+T32	Drug 790 795	磺脲类药物
+T33	Drug 5029 5031;5032 5035	磺脲 类药物
+T34	Drug 5159 5164	磺脲类药物
+T35	Drug 5285 5290	磺脲类药物
+T36	Drug 5301 5306	磺脲类药物
+T37	Drug 5375 5380	磺脲类药物
+T38	Drug 5465 5470	磺脲类药物
+T39	Drug 5498 5503	磺脲类药物
+T40	Test 3623 3628	HBA1C
+T41	Test 3705 3710	HBA1C
+T42	Test 3730 3735	HBA1C
+T43	Test 3796 3801	HBA1C
+T44	Test 4411 4416	HDL-C
+T45	Test 4505 4510	HDL-C
+T46	Test 4437 4442	LDL-C
+T47	Test 4549 4554	LDL-C
+T48	Test 4941 4946	LDL-C
+T49	Disease 1244 1248	T2DM
+T50	Disease 1369 1373	T2DM
+T51	Disease 1800 1804	T2DM
+T52	Disease 1931 1935	T2DM
+T53	Drug 5586 5590	格列齐特
+T54	Drug 5808 5810;5811 5813	格列 齐特
+T55	Drug 5832 5836	格列齐特
+T56	Drug 5889 5893	格列吡嗪
+T57	Drug 5133 5137	二甲双胍
+T58	Drug 5917 5921	二甲双胍
+T59	Drug 5932 5936	二甲双胍
+T60	Drug 5974 5978	二甲双胍
+T61	Drug 6027 6031	二甲双胍
+T62	Drug 6054 6058	二甲双胍
+T63	Drug 6073 6077	二甲双胍
+T64	Drug 6088 6092	二甲双胍
+T65	Drug 6098 6102	二甲双胍
+T66	Drug 6115 6119	二甲双胍
+T67	Drug 6151 6155	二甲双胍
+T68	Drug 6323 6327	二甲双胍
+T69	Drug 6338 6342	二甲双胍
+T70	Drug 6496 6500	二甲双胍
+T71	Drug 6543 6547	二甲双胍
+T72	Drug 6595 6599	二甲双胍
+T73	Drug 6707 6711	二甲双胍
+T74	Drug 8906 8910	二甲双胍
+T75	Test 4400 4409	高密度脂蛋白胆固醇
+T76	Test 4427 4436	低密度脂蛋白胆固醇
+T77	Disease 5404 5408	结直肠癌
+T78	Disease 6015 6019	结直肠癌
+T79	Disease 8375 8379	结直肠癌
+T80	Disease 4651 4655	前列腺癌
+T81	Disease 6020 6024	前列腺癌
+T82	Disease 7588 7592	前列腺癌
+T83	Disease 7753 7757	前列腺癌
+T84	Drug 7985 7989	利拉鲁肽
+T85	Drug 8006 8010	利拉鲁肽
+T86	Drug 6748 6752	罗格列酮
+T87	Test 4422 4426	甘油三酯
+T88	Test 4592 4596	甘油三酯
+T89	Test 7940 7941;7942 7945	餐 后血糖
+T90	Disease 4656 4659	乳腺癌
+T91	Disease 5530 5533	乳腺癌
+T92	Disease 8384 8385;8386 8388	乳 腺癌
+T93	Disease 8716 8719	乳腺癌
+T94	Disease 4283 4286	结肠癌
+T95	Disease 5533 5536	结肠癌
+T96	Disease 6012 6014	肺癌
+T97	Disease 6921 6923	肺癌
+T98	Anatomy 6221 6225	mTOR
+T99	Anatomy 6249 6253	mTOR
+T100	Anatomy 6263 6267	mTOR
+T101	Drug 5184 5186;5187 5189	艾塞 那肽
+T102	Drug 7980 7984	艾塞那肽
+T103	Drug 8105 8109	艾塞那肽
+T104	Drug 8209 8213	艾塞那肽
+T105	Disease 4287 4289	胃癌
+T106	Disease 5524 5526	胃癌
+T107	Drug 819 833	胰升糖素样肽 1 受体激动剂
+T108	Disease 5938 5943;5944 5945	2 型糖尿 病
+T109	Anatomy 7673 7678	GLP-1
+T110	Anatomy 7879 7884	GLP-1
+T111	Drug 8401 8406	甘精胰岛素
+T112	Drug 8546 8551	甘精胰岛素
+T113	Drug 8572 8577	甘精胰岛素
+T114	Drug 8693 8695;8696 8699	甘精 胰岛素
+T115	Anatomy 4135 4140	IGF-I
+T116	Anatomy 4209 4214	IGF-I
+T117	Anatomy 4220 4225	IGF-I
+T118	Anatomy 8526 8531	IGF-I
+T119	Anatomy 6186 6190	AMPK
+T120	Anatomy 6196 6200	AMPK
+T121	Anatomy 6356 6360	AMPK
+T122	Anatomy 6367 6371	AMPK
+T123	Anatomy 6405 6409	AMPK
+T124	Disease 753 757	血脂异常
+T125	Disease 4385 4389	血脂异常
+T126	Disease 4877 4881	血脂异常
+T127	Drug 8139 8142;8143 8144	利拉鲁 肽
+T128	Drug 5517 5521	格列本脲
+T129	Drug 5591 5595	格列本脲
+T130	Drug 5612 5615;5616 5617	格列本 脲
+T131	Drug 5824 5828	格列本脲
+T132	Drug 5884 5888	格列美脲
+T133	Test 3615 3617	血糖
+T134	Test 3776 3778	血糖
+T135	Test 3909 3911	血糖
+T136	Test 5354 5356	血糖
+T137	Test 5814 5816	血糖
+T138	Test 6422 6424	血糖
+T139	Test 6567 6569	血糖
+T140	Test 7708 7710	血糖
+T141	Disease 37 40	糖尿病
+T142	Disease 284 287	糖尿病
+T143	Anatomy 324 327	甲状腺
+T144	Disease 740 746	高胰岛素血症
+T145	Drug 796 801	双胍类药物
+T146	Drug 802 808	格列酮类药物
+T147	Drug 809 818	二肽基肽酶4抑制剂
+T148	Drug 842 845	胰岛素
+T149	Drug 846 852	胰岛素类似物
+T150	Disease 1947 1950	糖尿病
+T151	Disease 1977 1980	糖尿病
+T152	Disease 2023 2026	糖尿病
+T153	Reason 2045 2046;2047 2048	吸 烟
+T154	Reason 2049 2051	饮酒
+T155	Reason 2058 2064	缺乏体育锻炼
+T156	Disease 2083 2086	糖尿病
+T157	Disease 2122 2125	糖尿病
+T158	Disease 2144 2147	糖尿病
+T159	Anatomy 2175 2176	肝
+T160	Anatomy 2189 2193	子宫内膜
+T161	Anatomy 2206 2208	胰腺
+T162	Anatomy 2221 2223	肾脏
+T163	Anatomy 2236 2239	结直肠
+T164	Anatomy 2252 2254	乳腺
+T165	Anatomy 2267 2268	胃
+T166	Anatomy 2282 2284	卵巢
+T167	Anatomy 2295 2297	膀胱
+T168	Anatomy 2310 2316	血液淋巴系统
+T169	Disease 2317 2320	白血病
+T170	Disease 2333 2340	T 细胞淋巴瘤
+T171	Disease 2354 2361	非霍奇金淋巴瘤
+T172	Disease 2552 2555	糖尿病
+T173	Disease 2566 2569	糖尿病
+T174	Reason 2596 2601	胰岛素抵抗
+T175	Anatomy 2666 2678	白细胞介素( IL)-6
+T176	Anatomy 2680 2685	IL-1β
+T177	Anatomy 2686 2691	TNF-α
+T178	Anatomy 2692 2698	C 反应蛋白
+T179	Anatomy 3180 3184;3185 3186	TNF- α
+T180	Anatomy 2843 2846	细胞膜
+T181	Symptom 3563 3566	高血糖
+T182	Symptom 3567 3571	高胰岛素
+T183	Disease 3669 3670;3671 3673	糖 尿病
+T184	Disease 3865 3870	高血糖血症
+T185	Drug 3871 3874	胰岛素
+T186	Drug 3895 3898	胰岛素
+T187	Drug 3903 3905;3906 3907	胰岛 素
+T188	Anatomy 3976 3978	胰腺
+T189	Anatomy 3980 3983	胰岛素
+T190	Disease 4004 4010	高胰岛素血症
+T191	Anatomy 4012 4015	胰岛素
+T192	Anatomy 4048 4050;4051 4052	胰岛 素
+T193	Anatomy 4124 4127	胰岛素
+T194	Anatomy 4130 4132	肝脏
+T195	Anatomy 4150 4152	肝脏
+T196	Anatomy 4175 4181	IGFBP1
+T197	Anatomy 4184 4190	IGFBP2
+T198	Disease 4272 4277	子宫内膜癌
+T199	Disease 4278 4281	胰腺癌
+T200	Disease 4307 4309	肾癌
+T201	Disease 4329 4331	肾癌
+T202	Test 4455 4457	血脂
+T203	Test 4482 4484	血脂
+T204	Test_Value 4597 4612	<0. 81 mmol / L
+T205	Anatomy 4664 4667	胆固醇
+T206	Anatomy 4685 4688	胆固醇
+T207	Anatomy 4698 4701	胆固醇
+T208	Anatomy 4702 4704	脂质
+T209	Disease 4290 4292	肾癌
+T210	Anatomy 4790 4795	脂肪酸合酶
+T211	Anatomy 4808 4811	胆固醇
+T212	Anatomy 4834 4837	雌激素
+T213	Anatomy 4900 4903	胆固醇
+T214	Anatomy 4690 4693	糖鞘酯
+T215	Drug 5036 5041	双胍类药物
+T216	Drug 5042 5048	格列酮类药物
+T217	Drug 5049 5058	二肽基肽酶4抑制剂
+T218	Drug 5060 5066	DPP-4I
+T219	Drug 5068 5088	胰升糖素样肽 1(GLP-1)受体激动剂
+T220	Drug 5089 5096	GLP-1RA
+T221	Drug 5147 5150	胰岛素
+T222	Drug 5151 5155;5156 5158	胰岛素类 似物
+T223	Drug 5176 5183	GLP-1RA
+T224	Disease 5194 5197	胰腺癌
+T225	Disease 5198 5202	甲状腺癌
+T226	Drug 5208 5214	DPP-4I
+T227	Drug 5230 5236	噻唑酮类药物
+T228	Anatomy 5334 5337	胰岛素
+T229	Anatomy 5345 5348	胰岛素
+T230	Disease 5394 5395;5396 5399	甲 状腺癌
+T231	Disease 5400 5403	食管癌
+T232	Disease 5409 5412	胰腺癌
+T233	Disease 5413 5415	肝癌
+T234	Disease 5416 5420	乳腺腺癌
+T235	Disease 5421 5425;5426 5427	子宫内膜 癌
+T236	Anatomy 5484 5487	胰岛素
+T237	Disease 5527 5529	肝癌
+T238	Anatomy 5631 5634	胰岛素
+T239	Anatomy 5720 5726	AKT 激酶
+T240	Anatomy 5737 5746	线粒体细胞色素 C
+T241	Anatomy 5761 5766	半胱天冬酶
+T242	Drug 5951 5956	双胍类药物
+T243	Disease 6002 6005;6006 6008	子宫内 膜癌
+T244	Disease 6009 6011	肝癌
+T245	Anatomy 6104 6107	胰岛素
+T246	Anatomy 6120 6123	胰岛素
+T247	Anatomy 6166 6173	肝激酶 B-1
+T248	Anatomy 6176 6180	LKB1
+T249	Anatomy 6208 6220	丝氨酸 /苏氨酸蛋白激酶
+T250	Anatomy 6345 6354	腺苷酸活化蛋白激酶
+T251	Symptom 6392 6397	胰岛素抵抗
+T252	Anatomy 6384 6386	脂肪
+T253	Anatomy 6433 6436	胰岛素
+T254	Anatomy 6459 6462	胰岛素
+T255	Anatomy 6476 6479	胰岛素
+T256	Disease 6501 6506	子宫内膜癌
+T257	Disease 6535 6538	糖尿病
+T258	Disease 6717 6722	子宫内膜癌
+T259	Drug 6731 6737	噻唑酮类药物
+T260	Drug 6753 6755;6756 6758	匹格 列酮
+T261	Anatomy 6824 6826	乳腺
+T262	Anatomy 6827 6828	脑
+T263	Anatomy 6829 6832	结直肠
+T264	Anatomy 6833 6836	耳鼻喉
+T265	Anatomy 6837 6838	肾
+T266	Anatomy 6839 6840	肝
+T267	Anatomy 6841 6844	淋巴结
+T268	Anatomy 6845 6848	前列腺
+T269	Anatomy 6849 6850	胃
+T270	Anatomy 6851 6853	子宫
+T271	Drug 6901 6905	TZDs
+T272	Drug 6941 6945	TZDs
+T273	Disease 6949 6952	膀胱癌
+T274	Amount 6974 6983	28 000 mg
+T275	Duration 6985 6991	大于 2 年
+T276	Drug 6998 7002	匹格列酮
+T277	Disease 7005 7008	膀胱癌
+T278	Drug 7023 7027	TZDs
+T279	Drug 7062 7066	TZDs
+T280	Anatomy 7105 7108	胰岛素
+T281	Drug 7114 7118	TZDs
+T282	Drug 7178 7182	TZDs
+T283	Anatomy 7253 7256	p53
+T284	Anatomy 7259 7263	PTEN
+T285	Anatomy 7299 7305	E-钙黏蛋白
+T286	Anatomy 7343 7348	基质金属酶
+T287	Anatomy 7360 7365	MMP-2
+T288	Anatomy 7368 7373	MMP-9
+T289	Drug 7384 7388	TZDs
+T290	Drug 7507 7511	TZDs
+T291	Drug 7549 7553	TZDs
+T292	Drug 7600 7606	DPP-4I
+T293	Drug 7618 7628	DPP-4I 类药物
+T294	Anatomy 7691 7694	胰岛素
+T295	Anatomy 7715 7720	DPP-4
+T296	Disease 7766 7770	黑色素瘤
+T297	Drug 7785 7786;7787 7790	西 他列汀
+T298	Anatomy 7793 7798	DPP-4
+T299	Disease 7805 7808	胰腺癌
+T300	Drug 7853 7867	胰升糖素样肽-1 受体激动剂
+T301	Anatomy 7886 7888	回肠
+T302	Anatomy 7899 7906	肠促胰岛素激素
+T303	Drug 7907 7914	GLP-1RA
+T304	Anatomy 7919 7924	肠促胰岛素
+T305	Anatomy 7930 7934	胰升糖素
+T306	Drug 7957 7977	GLP-1 受体激动剂(GLP-1RA)
+T307	Drug 7991 7997	GLP-RA
+T308	Anatomy 8052 8055	甲状腺
+T309	Drug 8066 8073	GLP-1RA
+T310	Anatomy 8079 8087	甲状腺 C 细胞
+T311	Disease 8113 8116	胰腺癌
+T312	Disease 8117 8121	甲状腺癌
+T313	Drug 8172 8179	GLP-1RA
+T314	Disease 8214 8217	胰腺癌
+T315	Disease 8226 8229	胰腺癌
+T316	Disease 8236 8241	慢性胰腺炎
+T317	Disease 8268 8271	胰腺癌
+T318	Drug 8276 8283	GLP-1RA
+T319	Drug 8299 8306	GLP-1RA
+T320	Drug 8333 8336	胰岛素
+T321	Drug 8337 8343	胰岛素类似物
+T322	Drug 8362 8365	胰岛素
+T323	Drug 8366 8372	胰岛素类似物
+T324	Disease 8380 8383	胰腺癌
+T325	Drug 8395 8401	胰岛素类似物
+T326	Drug 8418 8421	胰岛素
+T327	Drug 8440 8443	胰岛素
+T328	Drug 8444 8447;8448 8451	胰岛素 类似物
+T329	Anatomy 8518 8521	胰岛素
+T330	Drug 8537 8538;8539 8544	胰 岛素类似物
+T331	Anatomy 8604 8607	胰岛素
+T332	Drug 8624 8630	胰岛素类似物
+T333	Drug 8654 8662	胰岛素及其类似物
+T334	Symptom 8775 8778	高血糖
+T335	Symptom 8786 8788;8789 8792	胰岛 素抵抗
+T336	Anatomy 3208 3213	NF-κB
+T337	Anatomy 3485 3490	IGF-I
+T338	Anatomy 4087 4091	肿瘤细胞
+T339	Anatomy 4058 4062	肿瘤细胞
+T340	Anatomy 4099 4103	肿瘤细胞
+T341	Test_Value 4512 4528	< 0. 90 mmol / L
+T342	Test_Value 4531 4546	≥1. 80 mmol / L
+T343	Test_Value 4575 4590	≥3. 80 mmol / L
+T344	Test_Value 4614 4620;4621 4629	>1. 40 mmol / L
+T345	Drug 6766 6770	TZDs
+T346	Anatomy 7095 7101	PPAR-γ
+T347	Anatomy 7121 7127	PPAR-γ
+T348	Anatomy 7139 7144	PPARγ
+T349	Anatomy 7152 7157	PPARγ
+T350	Anatomy 7186 7191	PPARγ
+T351	Anatomy 7349 7352	MMP
+T352	Anatomy 7393 7398	PPARγ
+T353	Anatomy 7408 7417	细胞周期蛋白 D1
+T354	Anatomy 7483 7487	mTOR
+T355	Anatomy 7462 7466	AMPK
+T356	Anatomy 4740 4743	Akt
+T357	Anatomy 4762 4765	Akt
+T358	Anatomy 7477 7480	Akt
+T359	Disease 1937 1940	糖尿病
+T360	Anatomy 4713 4717;4718 4724	磷脂酰肌 醇 3 激酶
+T361	Anatomy 4726 4732	蛋白激酶 B
+T362	Anatomy 2847 2850	脂肪酸
+T363	Anatomy 4733 4737	PI3K
+T364	Anatomy 4755 4759	PI3K
+T365	Anatomy 7455 7459	PTEN
+T366	Anatomy 7490 7495	p70S6
+T367	Anatomy 8558 8561	胰岛素
+T368	Drug 8639 8642	胰岛素
+T369	Anatomy 3200 3207	Kappa-B
+T370	Anatomy 7420 7422	D3
+T371	Anatomy 2981 2984	ROS
+T372	Anatomy 3020 3023	ROS
+T373	Anatomy 3127 3130	ROS
+T374	Anatomy 3166 3169	ROS
+T375	Anatomy 7440 7443	ROS
+T376	Operation 187 191	胰岛移植
+T377	Operation 198 202	胰岛移植
+T378	Drug 277 281	D860
+T379	Reason 758 767	持续的慢性炎症状态
+T380	Disease 2167 2169	肿瘤
+T381	Disease 2129 2131	肿瘤
+T382	Disease 2115 2117	肿瘤
+T383	Disease 2076 2078	肿瘤
+T384	Disease 2027 2029	肿瘤
+T385	Disease 649 651	肿瘤
+T386	Disease 715 717	肿瘤
+T387	Disease 864 866	肿瘤
+T388	Reason 2429 2437	持续慢性炎症状态
+T389	Disease 2442 2444	肿瘤
+T390	Disease 2482 2484	肿瘤
+T391	Disease 2512 2514	肿瘤
+T392	Disease 2542 2544	肿瘤
+T393	Disease 2557 2559	肿瘤
+T394	Reason 2571 2576;2577 2579	长期的慢性 炎症
+T395	Reason 2620 2627	持续的慢性炎症
+T396	Disease 2630 2632	肿瘤
+T397	Disease 2651 2653	肿瘤
+T398	Reason 2654 2656	炎症
+T399	Disease 2703 2705	肿瘤
+T400	Disease 2727 2729	肿瘤
+T401	Disease 2736 2738	肿瘤
+T402	Reason 2750 2759	氧自由基的过度产生
+T403	Reason 2760 2768	抗氧化物质的耗竭
+T404	Reason 2711 2714;2715 2721	持续的 慢性炎症状态
+T405	Reason 2788 2792	慢性炎症
+T406	Reason 2888 2892	慢性炎症
+T407	Reason 2811 2818	持续的慢性炎症
+T408	Anatomy 2953 2956	癌细胞
+T409	Reason 2970 2974	炎症反应
+T410	Anatomy 3156 3159	癌细胞
+T411	Anatomy 3192 3199	转录因子核因子
+T412	Anatomy 3171 3177	相关炎症因子
+T413	Disease 3316 3318	肿瘤
+T414	Anatomy 3376 3379	癌细胞
+T415	Anatomy 3492 3498	炎性细胞因子
+T416	Disease 3528 3530	肿瘤
+T417	Disease 3551 3553	肿瘤
+T418	Disease 3575 3577	肿瘤
+T419	Disease 3641 3643	肿瘤
+T420	Disease 3674 3676	癌症
+T421	Disease 3695 3697	肿瘤
+T422	Disease 3781 3783	癌症
+T423	Disease 3819 3821	肿瘤
+T424	Disease 3878 3880	癌症
+T425	Disease 3916 3918	肿瘤
+T426	Disease 3947 3949	肿瘤
+T427	Anatomy 4026 4030	肿瘤细胞
+T428	Disease 4293 4295	肿瘤
+T429	Anatomy 4226 4230	肿瘤细胞
+T430	Anatomy 4248 4252	肿瘤细胞
+T431	Disease 4363 4365	肿瘤
+T432	Test_Value 4419 4421	降低
+T433	Test_Value 4446 4448	升高
+T434	Operation 215 219	器官移植
+T435	Test_Value 4557 4564;4565 4573	< 2. 80 mmol / L
+T436	Anatomy 4679 4682	细胞膜
+T437	Anatomy 6678 6682	癌症细胞
+T438	Drug 6814 6818	TZDs
+T439	Anatomy 7078 7089;7090 7094	过氧化物酶体增殖物激活 受体-γ
+T440	Anatomy 7205 7212	p27Kip1
+T441	Reason 8770 8774	慢性炎症
+T442	Anatomy 4233 4240	IGF-I受体
+T443	Test 6570 6575	IGF-I
+T444	Anatomy 6603 6608	IGF-I
+T445	Anatomy 6649 6655	IGF-IR
+T446	Anatomy 6662 6670	IGF-IR 轴
+T447	Anatomy 8579 8585	IGF-IR
+T448	Reason 2406 2407;2408 2411	血 脂异常
+T449	Reason 2603 2605;2606 2608	血脂 异常
+T450	Disease 4358 4362	血脂异常
+T451	Reason 8793 8797	血脂异常
+T452	Reason 735 736;737 739	高 血糖
+T453	Test 3525 3527	血糖
+T454	Test 3543 3545	血糖
+T455	Disease 309 316	地方性甲状腺肿
+T456	Treatment 352 358	胰岛细胞移植
+T457	Reason 747 752	胰岛素抵抗
+T458	Disease 780 783	糖尿病
+T459	Reason 2052 2054	超重
+T460	Reason 2055 2057	肥胖
+T461	Reason 2393 2399	高胰岛素血症
+T462	Reason 2389 2392	高血糖
+T463	Reason 2400 2405	胰岛素抵抗
+T464	Reason 2589 2595	高胰岛素血症
+T465	Reason 2580 2588	持续的高血糖状态
+T466	Symptom 3310 3313	高血糖
+T467	Symptom 3326 3329	高血糖
+T468	Symptom 3394 3397	高血糖
+T469	Symptom 3452 3455	高血糖
+T470	Anatomy 3469 3472	胰岛素
+T471	Anatomy 3474 3483	胰岛素样生长因子I
+T472	Symptom 3634 3636;3637 3638	高血 糖
+T473	Reason 3934 3939	胰岛素抵抗
+T474	Reason 3940 3946	高胰岛素血症
+T475	Reason 3969 3974	胰岛素抵抗
+T476	Test 3996 3999	胰岛素
+T477	Anatomy 4064 4067	胰岛素
+T478	Reason 4261 4269	慢性高胰岛素血症
+T479	Symptom 4336 4341	胰岛素缺乏
+T480	Anatomy 5325 5332	胰岛 β 细胞
+T481	Test 6563 6566	胰岛素
+T482	Test 6576 6578	瘦素
+T483	Anatomy 6614 6624	IGF 结合蛋白-1
+T484	Anatomy 6626 6633	IGFBP-1
+T485	Drug 6759 6765	格列酮类药物
+T486	Anatomy 7319 7325	封闭蛋白 4
+T487	Anatomy 7655 7660	二肽基肽酶
+T488	Anatomy 7663 7668	DPP-4
+T489	Anatomy 7680 7684	肠抑胃肽
+T490	Anatomy 7685 7688	GIP
+T491	Anatomy 7889 7896	结肠 L 细胞
+T492	Anatomy 8014 8022	甲状腺 C 细胞
+T493	Anatomy 8040 8047	GLP-1RA
+T494	Test 8162 8165	降钙素
+T495	Test 8463 8466	胰岛素
+T496	Test 8491 8494	胰岛素
+T497	Disease 8720 8722;8723 8724	胰腺 癌
+T498	Reason 8779 8785	高胰岛素血症
+T499	Anatomy 4155 4167	胰岛素样生长因子结合蛋白

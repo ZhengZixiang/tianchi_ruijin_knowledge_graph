@@ -1,0 +1,497 @@
+T1	Disease 108 113	2型糖尿病
+T2	Disease 414 419	2型糖尿病
+T3	Disease 1559 1564	2型糖尿病
+T4	Disease 4861 4866	2型糖尿病
+T5	Disease 4902 4907	2型糖尿病
+T6	Disease 5448 5453	2型糖尿病
+T7	Disease 7200 7205	2型糖尿病
+T8	Disease 0 5	心血管疾病
+T9	Disease 7 10	糖尿病
+T10	Drug 10 16	口服降糖药物
+T11	Disease 137 140	糖尿病
+T12	Disease 186 189	糖尿病
+T13	Disease 215 218	糖尿病
+T14	Disease 229 234	心血管疾病
+T15	Disease 235 238	糖尿病
+T16	Disease 261 269	慢性稳定性心绞痛
+T17	Disease 270 279;280 285	急性冠状动脉综合征 (ACS)
+T18	Symptom 303 308	糖代谢异常
+T19	Disease 312 315	糖尿病
+T20	Symptom 322 327	糖尿病前期
+T21	Disease 344 347	高血压
+T22	Disease 351 354	糖尿病
+T23	Disease 423 426	高血压
+T24	Disease 439 444	心血管疾病
+T25	Disease 502 507	心血管事件
+T26	Disease 527 537	心血管疾病(CVD)
+T27	Test 519 521	血糖
+T28	Test 567 569	血糖
+T30	Disease 575 581	大血管并发症
+T31	Test 611 613	血糖
+T32	Disease 637 640	CVD
+T33	Disease 642 645	糖尿病
+T34	Disease 672 675	糖尿病
+T35	Disease 691 693;694 695	糖尿 病
+T36	Disease 697 702	心血管危险
+T37	Disease 715 718	糖尿病
+T38	Drug 729 732	百普乐
+T39	Drug 733 739	达美康缓释片
+T40	Drug 771 776	口服降糖药
+T41	Disease 784 789	心血管事件
+T42	Test 797 799	血糖
+T43	Symptom 1154 1157	低血糖
+T44	Disease 1162 1165	CVD
+T45	Disease 1166 1169	糖尿病
+T46	Disease 1174 1178	心肌梗死
+T47	Disease 1179 1181	卒中
+T48	Symptom 1191 1194	低血糖
+T49	Symptom 1200 1201;1202 1204	低 血糖
+T50	Disease 1209 1214	心血管疾病
+T51	Disease 1216 1219	糖尿病
+T52	Disease 1243 1248	心血管疾病
+T53	Disease 1251 1254	糖尿病
+T54	Disease 1285 1290	心血管疾病
+T55	Disease 1293 1296	糖尿病
+T56	Drug 1309 1315	口服降糖药物
+T57	Disease 1376 1381	心血管疾病
+T58	Disease 1383 1386	糖尿病
+T59	Disease 1429 1432	糖尿病
+T60	Disease 1440 1443	糖尿病
+T61	Symptom 1457 1460;1461 1463	糖调节 受损
+T29	Symptom 1488 1490	超重
+T62	Disease 1506 1508	肥胖
+T63	Disease 1525 1530	中心性肥胖
+T64	Disease 1576 1579	高血压
+T65	Test_Value 1496 1504	24 kg/m2
+T66	Test 1491 1494	BMI
+T67	Test 1509 1512	BMI
+T68	Test_Value 1513 1521	28 kg/m2
+T69	Test 1534 1536	腰围
+T70	Test_Value 1538 1543	90 cm
+T71	Test 1546 1548	腰围
+T72	Test_Value 1549 1554	85 cm
+T73	Test 1580 1582	血压
+T74	Test_Value 1583 1594	140/90 mmHg
+T75	Symptom 1627 1631	血脂异常
+T76	Test 1632 1637	HDL—C
+T77	Test_Value 1639 1660	0.91 mmol/L(35 mg/d1)
+T78	Test 1661 1664	TGl
+T79	Test_Value 1665 1687	2.26 mmol/L(200 mg/d1)
+T80	Disease 1703 1716	动脉粥样硬化性心脑血管疾病
+T81	Disease 1736 1739	巨大儿
+T82	Test 1740 1744	出生体重
+T83	Test_Value 1746 1750	4 kg
+T84	Disease 1755 1761	妊娠期糖尿病
+T85	Disease 1765 1775;1776 1778	一过性类固醇诱导性糖 尿病
+T86	Disease 1783 1790	多囊卵巢综合征
+T87	Disease 1796 1799	精神病
+T88	Level 1794 1796	严重
+T89	Drug 1807 1813	抗抑郁症药物
+T90	Test 1940 1955	口服葡萄糖耐量试验(OGTF)
+T91	Test 1964 1968	OGTF
+T92	Test 1986 1990	OGTF
+T93	Test 2005 2020	糖负荷后2 h血糖(2hPG)
+T94	Test 2029 2033	OGTY
+T95	Drug 2059 2066	口服葡萄糖溶液
+T96	Test_Value 481 483	5%
+T97	Test_Value 627 631	6.5%
+T98	Test 2232 2236	2hPG
+T100	Drug 2361 2364	避孕药
+T101	Drug 2365 2368	利尿剂
+T102	Drug 2369 2373	苯妥英钠
+T103	Disease 2451 2454	糖尿病
+T104	Disease 2468 2471	糖尿病
+T105	Disease 2534 2537	糖尿病
+T106	Disease 2548 2551	糖尿病
+T107	Test_Value 2556 2560	6.5%
+T109	Test_Value 2581 2590	5.7%~6.4%
+T99	Disease 2613 2616	糖尿病
+T110	Disease 2771 2774	糖尿病
+T111	Test_Value 2783 2787	6.5%
+T112	Disease 2789 2792	糖尿病
+T113	Disease 2834 2837	糖尿病
+T114	Disease 2882 2885	糖尿病
+T115	Disease 2890 2893	糖尿病
+T116	Symptom 2894 2899	糖代谢异常
+T108	Disease 2568 2575	糖尿病高危状态
+T117	Disease 2911 2914	糖尿病
+T118	Symptom 2926 2928	多饮
+T119	Symptom 2929 2931	多尿
+T120	Symptom 2932 2934	多食
+T121	Symptom 2941 2945	体重下降
+T122	Test_Value 2953 2963	7.0 mmol/L
+T123	Test 2964 2968	2hPG
+T124	Test_Value 2970 2979	11.1 mmol
+T125	Test_Value 2987 2998	11.1 mmol/L
+T126	Disease 3003 3006	糖尿病
+T127	Disease 3009 3012	糖尿病
+T128	Disease 3038 3043	糖尿病前期
+T132	Disease 3070 3075	糖调节受损
+T131	Test_Value 3093 3108	6.1~<7.0 mmoL/L
+T133	Test_Value 3114 3124	7.8 mmol/L
+T134	Test 3109 3113	2hPG
+T135	Disease 3127 3130	IFG
+T136	Test_Value 3136 3146	7.0 mmoL/L
+T137	Test 3147 3152	2 hPG
+T138	Test_Value 3153 3169	7.8~<11.1 mmol/L
+T139	Disease 3172 3175	IGT
+T129	Disease 3044 3055	空腹血糖受损(IFG)
+T130	Disease 3056 3061;3062 3067	糖耐量受损 (IGT)
+T140	Disease 3211 3216	心血管疾病
+T141	Disease 3218 3221	糖尿病
+T143	Drug 3246 3249	双胍类
+T142	Drug 3255 3259	二甲双胍
+T144	Amount 3264 3272	500 mg/d
+T145	Amount 3288 3298	2 000 mg/d
+T146	Method 3274 3278	随餐服用
+T147	Drug 3334 3338	二甲双胍
+T148	Drug 3369 3373	二甲双胍
+T149	Symptom 3388 3390;3391 3394	胃肠 道反应
+T150	Symptom 3377 3380	低血糖
+T151	Symptom 3413 3417	乳酸性酸
+T152	Test 3427 3431	2hPG
+T153	Test 3432 3441	糖负荷后2 h血糖
+T154	Disease 3444 3449	心血管疾病
+T155	Disease 3451 3454	糖尿病
+T156	Symptom 3460 3462	中毒
+T157	Disease 3469 3474	肾功能不全
+T158	Test_Value 3483 3488;3489 3507	132.6 txmol/L(1.5 mg/d1)
+T159	Test_Value 3511 3533	123.8斗mol/L(1.4 mg/d1)
+T160	Disease 3537 3539	感染
+T161	Level 3536 3537	重
+T162	Disease 3540 3542	缺氧
+T163	Operation 3545 3548	大手术
+T164	Drug 3564 3568	二甲双胍
+T165	Drug 3556 3559	对比剂
+T166	Drug 3588 3589;3590 3592	对 比剂
+T167	Test 3604 3607	肾功能
+T168	Test 3609 3612	肾功能
+T169	Drug 3621 3625	二甲双胍
+T170	Drug 3633 3640	胰岛素促分泌剂
+T171	Drug 3644 3647	磺脲类
+T172	Drug 3653 3656;3657 3658	格列吡 嗪
+T173	Drug 3659 3663	格列齐特
+T174	Drug 3664 3668	格列喹酮
+T175	Drug 3669 3673	格列美脲
+T176	Drug 3736 3737;3738 3742	磺 脲类药物
+T177	Drug 3761 3766	磺脲类药物
+T179	Disease 3789 3796	肝、肾功能不全
+T180	Drug 3799 3802	磺脲类
+T181	Level 3808 3813	轻度、中度
+T182	Disease 3813 3818	肾功能不全
+T183	Drug 3826 3830	格列喹酮
+T184	Drug 3834 3838	格列奈类
+T185	Drug 3844 3848	瑞格列奈
+T186	Drug 3849 3851;3852 3854	那格 列奈
+T187	Symptom 3954 3957	低血糖
+T178	Symptom 3777 3780	低血糖
+T188	Symptom 3958 3962	体重增加
+T189	Symptom 3803 3807	增加体重
+T190	Drug 3965 3967;3968 3971	磺脲 类药物
+T191	Drug 3989 3998	OL一糖苷酶抑制剂
+T192	Drug 4004 4008	阿卡波糖
+T193	Drug 4009 4013;4014 4015	伏格列波 糖
+T194	Drug 4099 4108	0l一糖苷酶抑制剂
+T195	Symptom 4145 4148	低血糖
+T196	Drug 4151 4154;4155 4158	胰岛素 促泌剂
+T197	Drug 4159 4162	胰岛素
+T198	Symptom 4169 4172	低血糖
+T199	Symptom 4178 4181	低血糖
+T200	Symptom 4199 4204	胃肠道反应
+T201	Disease 4207 4208;4209 4210	疝 气
+T202	Operation 4213 4220	胃肠道外科手术
+T203	Drug 4227 4233	噻唑烷二酮类
+T204	Drug 4239 4243	罗格列酮
+T205	Drug 4244 4248	吡格列酮
+T206	Method 4252 4255	早餐前
+T207	Symptom 4270 4275	胰岛素抵抗
+T208	Drug 4282 4290	噻唑烷二酮类药物
+T209	Drug 4314 4322	噻唑烷二酮类药物
+T210	Symptom 4330 4333	低血糖
+T211	Symptom 4409 4411	水肿
+T212	Symptom 4335 4336	体
+T213	Symptom 4405 4408	重增加
+T214	Drug 4364 4371	二肽基肽酶-4
+T215	Drug 4378 4387	胰高血糖素样肽-1
+T216	Drug 4393 4404	血管紧张素转换酶抑制剂
+T217	Drug 4425 4430;4431 4434	噻唑烷二酮 类药物
+T218	Disease 4435 4437	骨折
+T219	Disease 4438 4442	心力衰竭
+T220	Disease 4450 4454	心力衰竭
+T221	Disease 4481 4486	活动性肝病
+T222	Test 4488 4491	转氨酶
+T223	Level 4510 4512	严重
+T224	Disease 4512 4514;4515 4517	骨质 疏松
+T225	Disease 4518 4520	骨折
+T226	Drug 4537 4553	二肽基肽酶4(DPP-4)抑制剂
+T227	Drug 4565 4569	西格列汀
+T228	Drug 4570 4574	维格列汀
+T229	Drug 4575 4579	沙格列汀
+T230	Drug 4580 4584	阿格列汀
+T231	Drug 4585 4589	利格列汀
+T232	Frequency 4592 4596	每日1次
+T233	Drug 4691 4699	DPP-4抑制剂
+T234	Drug 4722 4730	DPP-4抑制剂
+T235	Symptom 4737 4740	低血糖
+T236	Drug 4856 4860	二甲双胍
+T237	Disease 4910 4915	心血管事件
+T238	Disease 4916 4918	死亡
+T239	Drug 4889 4893	二甲双胍
+T240	Disease 4896 4898	超重
+T241	Disease 4899 4900;4901 4902	肥 胖
+T242	Drug 4938 4945	胰岛素促分泌剂
+T243	Drug 4946 4954	d一糖苷酶抑制剂
+T244	Test_Value 4968 4979	10.O%~12.0%
+T245	Test_Value 4984 4993;4994 5000	16.7~19.4 mmoL/L
+T246	Drug 5004 5007	胰岛素
+T248	Drug 5122 5129	胰岛素促分泌剂
+T249	Drug 5132 5139	一糖苷酶抑制剂
+T250	Drug 5140 5148	DPP-4抑制剂
+T251	Drug 5149 5157	噻唑烷二酮类药物
+T247	Drug 5174 5181	格列奈类降糖药
+T252	Drug 5183 5192	01一糖苷酶抑制剂
+T253	Drug 5193 5201	DPP-4抑制剂
+T254	Drug 5249 5252	胰岛素
+T255	Drug 5254 5264	GLP一1受体激动剂
+T256	Disease 5270 5275	心血管疾病
+T257	Disease 5277 5280	糖尿病
+T258	Disease 5317 5323	微血管并发症
+T259	Disease 5329 5335	大血管并发症
+T260	Disease 5383 5389	微血管并发症
+T261	Disease 5390 5394	心肌梗死
+T262	Disease 5420 5424	心肌梗死
+T263	Disease 5425 5430	全因性死亡
+T264	Disease 5531 5536	心血管事件
+T265	Disease 5598 5600	心梗
+T266	Disease 5614 5616	卒中
+T267	Disease 5618 5622	全因死亡
+T268	Disease 5639 5642	糖尿病
+T269	Disease 5700 5703	糖尿病
+T270	Disease 5776 5779	糖尿病
+T271	Disease 5801 5804	CVD
+T272	Disease 5805 5808	糖尿病
+T273	Symptom 5815 5818	低血糖
+T274	Reason 5815 5818	低血糖
+T275	Disease 5822 5826	心肌梗死
+T276	Disease 5827 5829	卒中
+T277	Symptom 5845 5848	低血糖
+T278	Disease 5894 5897	糖尿病
+T279	Disease 5902 5905	CVD
+T280	Test_Value 6052 6056	7.0%
+T281	Disease 6059 6062	糖尿病
+T282	Disease 6064 6068;6069 6071	微血管并 发症
+T283	Test_Value 6091 6095	7.0%
+T284	Test_Value 6100 6103;6104 6110	7.0 mmol/L
+T285	Test_Value 6117 6128	10.0 mmol/L
+T286	Test 6111 6116	2 hPG
+T287	Disease 6132 6135	糖尿病
+T288	Symptom 6161 6164	低血糖
+T289	Test_Value 6183 6187	6.5%
+T290	Symptom 6197 6200	低血糖
+T291	Level 6213 6215	显著
+T292	Disease 6215 6217;6218 6226	微血 管或大血管并发症
+T293	Test_Value 6249 6258	7.5%~8.0%
+T294	Disease 6262 6269	慢性疾病终末期
+T295	Disease 6271 6284	心功能NYHA m.Iv级
+T296	Disease 6285 6288;6289 6293	慢性肾 功能不全
+T297	Disease 6294 6301	恶性肿瘤伴转移
+T298	Disease 6302 6311	中重度认知功能障碍
+T299	Test_Value 6330 6334	8.5%
+T300	Disease 6348 6353	心血管疾病
+T301	Disease 6356 6359	ACS
+T302	Test_Value 6364 6375	10.0 mmol/L
+T303	Drug 6380 6383	胰岛素
+T304	Test_Value 6408 6423	7.8~10.0 mmol/L
+T305	Symptom 6431 6434	低血糖
+T306	Disease 6463 6465;6466 6467	糖尿 病
+T307	Disease 6499 6502	糖尿病
+T308	Test 6517 6522	OGq”F
+T309	Operation 6531 6546	经皮冠状动脉介入治疗(PCI)
+T310	Operation 6549 6552	PCI
+T311	Drug 6558 6561	对比剂
+T312	Drug 6566 6570	二甲双胍
+T313	Test 6577 6580	肾功能
+T314	Test 6588 6591	肾功能
+T315	Drug 6599 6603	二甲双胍
+T316	Test 6606 6609	肾功能
+T317	Operation 6634 6649	冠状动脉旁路移植术(CABG)
+T318	Drug 6667 6670	胰岛素
+T319	Disease 6679 6683	心力衰竭
+T320	Disease 6684 6691	急性心力衰竭伴
+T321	Disease 6692 6694	缺氧
+T322	Drug 6699 6702;6703 6705	双胍类 药物
+T323	Drug 6706 6714	噻唑烷二酮类药物
+T324	Disease 6717 6723	慢性心力衰竭
+T325	Test 6730 6733	肾功能
+T326	Test 6734 6738	血氧状态
+T327	Test 6742 6745	心功能
+T328	Test 6767 6773	血清乳酸水平
+T329	Test 6774 6780	血气分析指标
+T330	Disease 6781 6783;6784 6796	心功 能NYHA II~IV级
+T331	Drug 6805 6812;6813 6814	噻唑烷二酮类药 物
+T332	Drug 6819 6827	DPP-4抑制剂
+T333	Disease 6831 6843	NYHA 11~111级
+T334	Disease 6851 6855	Ⅲ~Ⅳ级
+T335	Disease 6862 6866	心力衰竭
+T336	Disease 6884 6888	心力衰竭
+T337	Disease 6901 6906	肾功能不全
+T338	Disease 6907 6912	心血管疾病
+T339	Disease 6913 6916	糖尿病
+T340	Disease 6921 6931	慢性肾脏病(CKD)
+T341	Disease 6934 6937	CKD
+T342	Test 6956 6959	肾功能
+T343	Symptom 6999 7002	低血糖
+T344	Drug 7006 7010	瑞格列奈
+T345	Drug 7011 7015	利格列汀
+T346	Disease 7016 7021	肾功能不全
+T347	Drug 7029 7030;7031 7034	二 甲双胍
+T348	Test 7035 7038	GFR
+T349	Test_Value 7039 7047	45—59 ml
+T350	Test_Value 7054 7059	1.73m
+T351	Test 7048 7052	rain
+T352	Disease 7128 7137	CKD:慢性肾脏病
+T353	Disease 7171 7190	阻塞性睡眠呼吸暂停综合征(OSAHS)
+T354	Disease 7193 7198	OSAHS
+T355	Symptom 7248 7252	夜间缺氧
+T356	Disease 7255 7259	低氧血症
+T357	Level 7259 7261	严重
+T358	Drug 7267 7270;7271 7273	双胍类 药物
+T359	Disease 7285 7288	糖尿病
+T360	Disease 7332 7337	心血管疾病
+T361	Disease 7338 7341	低血糖
+T362	Disease 7342 7343;7344 7349	微 血管并发症
+T363	Test_Value 7368 7377	7.0%~7.5%
+T364	Test_Value 7389 7393	8.0%
+T365	Test_Value 7409 7413	8.5%
+T366	Disease 7422 7425	糖尿病
+T367	Symptom 7502 7505	低血糖
+T368	Test_Value 7520 7540	3.9 mmol/L(70 mg/d1)
+T369	Symptom 7546 7549	低血糖
+T370	Drug 7560 7566	胰岛素促泌剂
+T371	Symptom 7570 7573	低血糖
+T372	Drug 7577 7582	磺脲类药物
+T373	Drug 7587 7593	格列奈类药物
+T374	Disease 7730 7735	肾功能不全
+T376	Drug 7747 7753	胰岛素促泌剂
+T378	Drug 7766 7771;7772 7773	胰岛素促泌 剂
+T375	Drug 7787 7791	二甲双胍
+T377	Drug 7792 7801	0【一糖苷酶抑制剂
+T379	Drug 7802 7808	噻唑烷二酮类
+T380	Drug 7809 7815;7816 7818	DPP-4抑 制剂
+T381	Disease 7839 7842	糖尿病
+T382	Disease 7843 7848	心血管疾病
+T383	Disease 7853 7856	糖尿病
+T384	Disease 7857 7862	心血管疾病
+T385	Disease 7878 7883	心血管疾病
+T386	Disease 7908 7913	心血管疾病
+T387	Disease 7916 7919	糖尿病
+T388	Disease 2852 2855;2856 2858	2型糖 尿病
+T389	Test 471 476	HBA1C
+T390	Test 617 622	HBA1C
+T391	Test 2524 2529	HBA1C
+T392	Test 2603 2608	HBA1C
+T393	Test 2628 2633	HBA1C
+T394	Test 2658 2663	HBA1C
+T395	Test 2706 2711	HBA1C
+T396	Test 2740 2745	HBA1C
+T397	Test 2824 2829	HBA1C
+T398	Test 2872 2877	HBA1C
+T399	Test 3341 3346	HBA1C
+T400	Test 3745 3750	HBA1C
+T401	Test 3929 3934	HBA1C
+T402	Test 4110 4115	HBA1C
+T403	Test 4293 4298	HBA1C
+T404	Test 4702 4707	HBA1C
+T405	Test 4958 4963	HBA1C
+T406	Test 5023 5028	HBA1C
+T407	Test 5578 5583	HBA1C
+T408	Test 5959 5964	HBA1C
+T409	Test 5997 6002	HBA1C
+T410	Test 6026 6031	HBA1C
+T411	Test 6043 6048	HBA1C
+T412	Test 6082 6087	HBA1C
+T413	Test 6172 6177	HBA1C
+T414	Test 6239 6244	HBA1C
+T415	Test 6317 6322	HBA1C
+T416	Test 6473 6478	HBA1C
+T417	Test 7359 7364	HBA1C
+T418	Test 3044 3048	空腹血糖
+T419	Test 3422 3426	空腹血糖
+T420	Test 1839 1842	FPG
+T421	Test 1844 1847	FPG
+T422	Test 1896 1899	FPG
+T423	Test 1971 1974	FPG
+T424	Test 2001 2004	FPG
+T425	Test 2949 2952	FPG
+T426	Test 3089 3092	FPG
+T427	Test 3131 3134	FPG
+T428	Test 3418 3421	FPG
+T429	Test 6096 6099	FPG
+T430	Test 3475 3478	血肌酐
+T431	Test 7065 7068	GFR
+T432	Test 7104 7107	GFR
+T439	Test 7142 7145	肾功能
+T441	Disease 322 327	糖尿病前期
+T442	Disease 3081 3086	糖尿病前期
+T443	Test 4068 4072	餐后血糖
+T444	Test 4088 4092	餐后血糖
+T445	Test 5159 5163	餐后血糖
+T447	Test 3361 3363	体重
+T450	Test 4134 4136	体重
+T451	Test 4750 4752	体重
+T452	Test 7231 7233	体重
+T453	Test 2982 2986	随机血糖
+T454	Disease 8011 8016	心血管疾病
+T455	Disease 8348 8353	心血管疾病
+T456	Disease 8584 8585;8586 8590	心 血管疾病
+T457	Disease 979 983	血脂异常
+T458	Disease 8169 8173	血脂异常
+T459	Drug 4388 4392	ACEI
+T460	Test 3901 3904;3905 3906	餐后血 糖
+T461	Test 1146 1148	血糖
+T462	Test 1319 1321	血糖
+T463	Test 1836 1838	血糖
+T464	Test 1857 1859	血糖
+T465	Test 2141 2143	血糖
+T466	Test 2211 2213	血糖
+T467	Test 2351 2353	血糖
+T468	Test 2406 2408	血糖
+T469	Test 2724 2726	血糖
+T470	Test 3019 3021	血糖
+T471	Test 3330 3331;3332 3333	血 糖
+T472	Test 3689 3691	血糖
+T473	Test 3733 3735	血糖
+T474	Test 3869 3871	血糖
+T475	Test 4030 4032	血糖
+T476	Test 4279 4281	血糖
+T477	Test 4613 4615	血糖
+T478	Test 4677 4679	血糖
+T479	Test 4981 4983	血糖
+T480	Test 5045 5047	血糖
+T481	Test 5090 5092	血糖
+T482	Test 5224 5226	血糖
+T483	Test 5283 5285	血糖
+T484	Test 5305 5307	血糖
+T485	Test 5374 5376	血糖
+T486	Test 5465 5467	血糖
+T487	Test 5646 5648	血糖
+T488	Test 5719 5721	血糖
+T489	Test 5757 5759	血糖
+T490	Test 5854 5856	血糖
+T491	Test 5910 5912	血糖
+T492	Test 5935 5937	血糖
+T493	Test 5944 5946	血糖
+T494	Test 5980 5982	血糖
+T495	Test 6009 6011	血糖
+T496	Test 6075 6077	血糖
+T497	Test 6233 6235	血糖
+T498	Test 6361 6363	血糖
+T499	Test 6401 6403	血糖
+T500	Test 6452 6454	血糖
+T501	Test 6493 6495	血糖
+T502	Test 7514 7516	血糖
+T503	Test 7648 7650	血糖
+T504	Test 7684 7686	血糖
+T505	Test 7778 7780	血糖
+T506	Test 7830 7832	血糖
+T507	Test 7873 7875	血糖

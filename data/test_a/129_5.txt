@@ -1,0 +1,446 @@
+临床研究
+崔凯、吴寿岭),肾内科(李俊娟);开滦总医院附属马家沟医院(王义)
+不同基线血压水平对新发糖尿病的影响
+———开滦职工队列研究
+刘妍  王义  郑晓明  吴云涛  赵海燕  赵晓红  阮春雨  金城  崔凯  李俊娟  吴寿岭
+[摘要]   目的  探讨中国北方不同基线血压人群新发糖尿病(new on-set diabetes,NOD)的情况。 方法
+本研究采用前瞻性队列研究方法,以参加 2006 至 2007 年度开滦集团职工健康体检的 101 510 名职工中空
+腹血糖(FBG)<7. 0 mmol / L、无糖尿病病史、未使用降糖药物者及基线血压和 FBG 资料完整的 90 322 名职
+工作为观察队列。 排除未参加 2008 至 2009 年度、2010 至 2011 年度体检以及 FBG 资料缺失者,排除各种
+原因死亡者及恶性肿瘤者,最终纳入统计分析的为 51 631 名。 依据 2006 至 2007 年度收缩压、舒张压及是
+否服用降压药物将观察对象分为正常血压组( <120 / 80 mmHg,1 mmHg = 0. 133 kPa)、正常高值组(120 ~
+139 / 80 ~ 89 mmHg)、高血压组(≥140 / 90 mmHg 或服用降压药物)。 新发糖尿病定义为:随访期间任意一次
+FBG≥7. 0 mmol / L 或有糖尿病病史或使用降糖药物。 采用 Kaplan-Meier 法绘制生存曲线,log-rank 法进行
+检验;用多因素 COX 风险回归模型分析不同血压人群 NOD 的情况。 结果 (1)在平均 4. 04 年的随访中,
+共 3 917 例发生糖尿病。 正常血压组、正常高值组、高血压组糖尿病的发病率分别为(10. 41、16. 28 和
+24. 46) /千人年。 男性为(12. 70、17. 34 和 26. 79) /千人年,女性为(6. 30、12. 41 和 24. 89) /千人年(P趋势 <
+0. 01)。(2)影响 NOD 的多因素 COX 回归模型分析显示:校正了年龄、性别、体重指数、高敏 C 反应蛋白、高
+密度脂蛋白胆固醇、甘油三酯、总胆固醇、FBG、吸烟、饮酒、体育锻炼和糖尿病家族史后,与正常血压组比
+较,正常高值组和高血压组 NOD 的发病风险增加,HR 值(95% CI)分别为 1. 19(1. 07 ~ 1. 33)、1. 35(1. 21 ~
+1. 50)。 不同性别人群校正上述因素之后,血压对 NOD 的发病风险仍有明显统计学意义,尤其对女性影响
+更显著。 结论 血压增高者未来发生糖尿病的风险增加,尤其在女性人群中风险增加更显著。
+[关键词]   基线血压; 空腹血糖; 新发糖尿病
+Relationship between baseline blood pressure and new-onset diabetes Liu Yan, Wang Yi, Zheng Xiaoming, Wu
+Yuntao, Zhao Haiyan, Zhao Xiaohong, Ruan Chunyu, Jin Cheng, Cui Kai, Li Junjuan, Wu Shouling. Kailuan
+Affiliated Hospital of Hebei United University, Tangshan 063000, China
+[Abstract]  Objective  To explore the relationship between baseline blood pressure and new-onset diabetes
+(NOD) in northern China. Methods Prospective cohort study method was used. A total of 101 510 workers took part
+in the health examination during 2006 to 2007. Of them 90 322 participants were enrolled from the observation
+population, with fasting blood glucose(FBG) <7. 0 mmol / L, no history of diabetes, no treatment of hypoglycemic
+agents, and with complete baseline blood pressure and FBG data. Those, who did not participate in the health
+examination during 2008-2009 or 2010-2011, and had incomplete FBG data, or had cancer, or died were
+excluded. Finally, 51 631 participants were included into the statistical analysis. According to the data collected
+during health examinations in 2006-2007, the participants were divided into three groups: normotensive ( <120 / 80
+mmHg, 1 mmHg = 0. 133 kPa) prehypertensive(120-139 / 80-89 mmHg), and hypertensive(≥140 / 90 mmHg or
+using antihypertensive agents) . The new-onset diabetes was defined as FBG≥7. 0 mmol / L, or having history of
+diabetes, or using hypoglycemic agents. Kaplan-Meier method was used to draw survival curve, and log-rank test to
+examine. The relationship between baseline blood pressure and NOD was estimated by multivariate Cox hazard
+regression model analysis. Results (1) During a median 4. 04 year of follow-up, 3 917 had NOD. The incidences( /
+1 000 person-years) of NOD in normotensive, prehypertensive, hypertensive groups were respectively 10. 41, 16. 28,
+and 24. 46, men 12. 70, 17. 34, 26. 79, women 6. 30, 12. 41, 24. 89, P for trend <0. 01) . (2) Multivariate Cox
+regression model analysis showed that compared with normotensive group, the prehypertensive and hypertensive groups
+had an increased risk of NOD after adjusting for age, gender, body mass index, high-sensitivity C-reactive protein,
+high-density lipoprotein-cholesterol, triglyceride, total cholesterol, FBG, smoking, drinking, physical activity, and
+family history of diabetes. The corresponding hazard ratios (95% CI) were 1. 19 (1. 07-1. 33) and 1. 35 (1. 21-
+1. 50) . After adjusting the above factors in men and women, the impact of blood pressure on NOD remained
+statistically significant, particularly in women. Conclusion Increased blood pressure increases the risk of diabetes,
+particularly in women.
+[Key words]  Baseline blood pressure; Fasting blood glucose; New-onset diabetes
+(Chin J Endocrinol Metab, 2014, 30: 966-971)
+随着经济快速发展和生活方式的改变,心血管疾
+病已经成为国人死亡的主要原因[1]。 糖尿病作为心
+血管疾病的主要危险因素,其患病率呈现出明显的上
+升趋势。 从 1994 年至 2000 年,我国 35 ~ 44 岁成年人
+群糖尿病的患病率增加了 88% [2]。 国内最近的研究
+显示,我国人群中糖尿病患病率为 11. 6% ,同时有
+50. 1%的人处在糖尿病前期,这说明糖尿病已经成为
+威胁我国公共健康的主要问题[3]。 美国女性健康研
+究和 Framingham 研究均显示:血压水平增高是未来发
+生糖尿病的危险因素[4,5]。 韩国的研究也显示,基线
+血压增高与糖尿病的发病风险增高有关[6]。 然而,鲜
+有关于中国人群血压水平与糖尿病发病风险的研究报
+道。 因此,我们依据开滦研究资料(注册号:ChiCTR-
+TNC-11001489)分析了不同基线血压水平与新发糖尿
+病(NOD)之间的关系。
+对象和方法
+一、 对象
+1. 资料来源:2006 年 6 月至 2007 年 10 月,由开
+滦医院、开滦林西医院、开滦赵各庄医院、开滦唐家庄
+医院、开滦范各庄医院、开滦吕家坨医院、开滦荆各庄
+医院、开滦林南仓医院、开滦钱家营医院、开滦马家沟
+医院、开滦医院分院共 11 家医院参加,对开滦在职及
+离退休职工进行健康体检。 共有 101 510 名职工参加
+本次健康体检,男性 81 110 名,女性 20 400 名。 其中
+确诊糖尿病者 9 489 例,基线血压资料不完整者 1 133
+例,基线空腹血糖(FBG)资料不完整者 566 例,由符合
+入选标准的 90 322 例观察对象组成观察队列。 排除
+2008 至 2009 年度未参加体检者 22 132 例及体检 FBG
+资料缺失者 546 例,排除 2010 至 2011 年度未参加体
+检者15 428 例及体检 FBG 资料缺失者 361 例,排除随
+访期间因各种原因死亡者 75 例、排除恶性肿瘤者 149
+例,最终纳入统计分析的有效数据为 51 631 名,其中
+男性 39 428 名,女性 12 203 名。
+2. 资料收集:流行病学调查内容、身高、体重测量
+方法见本课题组已发表的文献[7,8]。 流行病调查表
+中与糖尿病相关的信息包括:是否患糖尿病、诊断时
+间、是否按时服药控制血糖、使用药物种类。
+3. 相关因素及疾病定义和诊断标准:以参加 2008
+至 2009、2010 至 2011 年度健康体检时间为诊断新发
+糖尿病的时间,期间有确切新发糖尿病诊断时间者以
+确切诊断时间为准。 新发糖尿病的标准[9]:参加 2006
+至 2007 年度健康体检时 FBG<7. 0 mmol / L 且无糖尿
+病病史,2008 至 2009、2010 至 2011 年度健康体检时首
+次 FBG≥7. 0 mmol / L 或 FBG<7. 0 mmol / L 但服用降糖
+药物或注射胰岛素治疗者。 吸烟定义:每天≥1 支,持
+续 1 年以上。 饮酒定义:平均每天饮白酒(酒精含量
+50%以上)100 ml 且持续 1 年以上。 既往吸烟,但已经
+戒烟超过 1 年者定义为曾经吸烟,但已戒烟。 既往饮
+酒,但已经戒酒超过 1 年者定义为曾经饮酒,但已戒
+酒。 体重指数 ( BMI) 按体重除以身高的平方计算
+(kg / m2)。
+4. 入选标准和排除标准:入选标准: (1) 参加
+2006 至 2007 年度健康体检的开滦集团在职及离退休
+职工;(2) FBG<7. 0 mmol / L、无糖尿病病史且未使用
+降糖药物者;(3)基线血压测量资料完整者;(4)基线
+FBG 资料完整者。 排除标准:(1)未参加 2008 至 2009
+年度、2010 至 2011 年度体检及 FBG 资料缺失者;(2)
+随访期间因各种原因死亡者;(3)恶性肿瘤患者;(4)
+未签署知情同意书者。
+二、方法
+1. 生化指标检测:受试者空腹至少 8 h,于体检当
+日晨起抽取肘静脉血 5 ml,离心后取上层血清检测
+FBG、高密度脂蛋白胆固醇(HDL-C)、甘油三酯(TG)、
+总胆固醇(TC)、超敏 C 反应蛋白(hs-CRP)。 仪器为
+日立自动化分析仪(7600 Auto matic Analyzer),试剂盒
+由北方生物研究所提供。 FBG 检测采用己糖激酶法,
+变异系数在 5. 55 mmol / L 时≤2%,线性上限为 33. 3
+mmol / L,试剂盒由中生北控生物科技股份公司提供。
+操作按试剂说明书严格进行,随批质控,由专业检验师
+进行操作。
+2. 血压测量:研究对象测量血压前 30 min 内禁止
+吸烟或饮茶、咖啡,背靠静坐 15 min。 采用经校正的汞
+柱式血压计测量右侧肱动脉血压。 收缩压读数取柯氏
+音第玉时相,舒张压读数取柯氏音第吁时相。 连续测
+量 3 次,每次测量间隔 1 ~ 2 min,取其均值。
+3. 血压分组:依据 2006 至 2007 年度收缩压、舒张
+压及是否服用降压药物将观察对象分为正常血压组
+(<120 / 80 mmHg, 1 mmHg = 0. 133 kPa)、正常高值组
+(120 ~ 139 / 80 ~ 89 mmHg)、 高血压组 (≥ 140 / 90
+mmHg 或服用降压药物)。
+4. 随访:于 2008 至 2009、2010 至 2011 年度对上
+述开滦集团在职及离退休职工分别进行第 2 和第 3 次
+健康体检。 健康体检的调查内容、体检方法和项目、实
+验室检查的方法和项目均同第一次体检,具体内容及
+获取方法参阅本课题组已发表的文献[7,8]。
+三、 统计学处理
+健康体检数据均由各医院终端录入,通过网络上
+传至开滦医院计算机室,应用 SAS 9. 2 统计软件进行
+统计学分析。 计量资料符合正态分布者以 x- ± s 表示,
+组间比较采用单因素方差分析;不符合正态分布者以
+中位数(四分位数间距)表示,组间比较采用 Kruskal-
+Wallis 检验。 计数资料用百分位数表示,组间比较用
+字2检验。 按糖尿病发病例数除以千人年计算糖尿病发
+病率。 采 用 Kaplan-meier 法 绘 制 生 存 曲 线, 并 用
+Log-rank 法进行检验。 采用多因素 COX 风险回归模
+型分析影响新发糖尿病的因素。 P<0. 05(双侧检验)
+为差异具有统计学意义。
+结    果
+一、 不同血压分组基线资料比较
+在本研究人群中正常血压组占 23. 46% ,正常高
+值组占 38. 33% ,高血压组占 38. 21% 。 与正常血压组
+比较,正常高值组、高血压组的年龄、收缩压、BMI、
+hs-CRP、HDL-C、TG、TC、FBG 均偏高;男性、体育锻炼、
+从不饮酒者所占比例偏高,从不吸烟、糖尿病家族史所
+占比例偏低。 各组间比较差异均有统计学意义(P<
+0. 01,表 1)。
+二、 不同基线血压组新发糖尿病情况
+2010 至 2011 年度健康体检时,观察队列的平均
+随访时间为 (4. 04 ± 0. 39) 年。 在纳入统计分析的
+51 631 名观察对象中, 有 3 917 例发生了糖尿病,发病
+率为 18. 85 /千人年。 正常血压组、正常高值组、高血
+压组 NOD 的发病率逐渐升高,分别为(10. 41、16. 28、
+表 1  不同血压分组人群的基线资料比较[x-± s,中位数(四分位间距)]
+Tab 1  Baseline characteristics of participants among different blood pressure groups[x-± s,M(quartile)]
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+男性
+Male
+n(% )
+SBP
+(mmHg)
+BMI
+(kg / m2)
+FBG
+(mmol / L)
+hs-CRP
+(mmol / L)
+正常血压组
+Normotensive 12 113 43. 9 ± 11. 5 7 700(63. 57)   107 ± 8 23. 6 ± 3. 2 4. 96 ± 0. 64 0. 60(0. 23-1. 70)
+正常高值组
+Prehypertensive 19 790 47. 9 ± 11. 6 15 468(78. 16)   123 ± 8 24. 8 ± 3. 3 5. 06 ± 0. 67 0. 67(0. 24-1. 86)
+高血压组
+Hypertensive 19 728 53. 3 ± 11. 1 16 260(82. 42)   146 ± 17 26. 0 ± 3. 4 5. 13 ± 0. 73 0. 95(0. 35-2. 70)
+组别
+Group
+例数
+n
+HDL-C
+(mmol / L)
+TG
+(mmol / L)
+TC
+(mmol / L)
+吸烟
+Smoking
+n(% )
+从不吸烟
+Never
+曾吸烟已戒烟
+Former
+现在仍吸烟
+Currently
+正常血压组
+Normotensive 12 113 1. 52 ± 0. 36 1. 03(0. 73-1. 52) 4. 78 ± 0. 98 7 219(60. 50) 526(4. 41) 4 187(35. 09)
+正常高值组
+Prehypertensive 19 790 1. 54 ± 0. 39 1. 22(0. 86-1. 84) 4. 89 ± 1. 10 11 298(58. 84) 909(4. 73) 6 994(36. 43)
+高血压组
+Hypertensive 19 728 1. 58 ± 0. 41 1. 42(1. 03-2. 16) 5. 01 ± 1. 19 11 541(60. 40) 1 246(6. 52) 6 322(33. 08)
+组别
+Group
+例数
+n
+饮酒
+Drinking
+n(% )
+从不饮酒
+Never
+曾饮酒已戒酒
+Former
+现在仍饮酒
+Currently
+体育锻炼
+Physical activity
+n(% )
+糖尿病家族史
+History of diabetes
+n(% )
+正常血压组
+Normotensive 12 113 6 603(55. 36) 303(2. 54) 5 021(42. 10) 1 367(11. 60) 848(7. 00)
+正常高值组
+Prehypertensive 19 790 10 696(55. 67) 497(2. 59) 8 020(41. 74) 2 439(12. 79) 871(4. 40)
+高血压组
+Hypertensive 19 728 11 205(58. 60) 758(3. 96) 7 158(37. 44) 3 283(17. 37) 743(3. 77)
+注:SBP:收缩压 Systolic blood pressure;1 mmHg=0. 133 kPa;BMI:体重指数 Body mass index;FBG:空腹血糖 Fasting blood glucose;hs-CRP:超敏 C 反
+应蛋白 High-sensitive C-reactive protein;HDL-C:高密度脂蛋白胆固醇 High-density lipoprotein-cholesterol;TG:甘油三酯 Triglyceride;TC:总胆固醇 Total
+cholesterol
+表 2  基线不同血压影响新发糖尿病的 COX 风险回归模型结果[HR(95% CI),P 值]
+Tab 2  The results of COX hazard model for new on-set diabetes among participants in different baseline blood pressure groups [HR(95% CI),
+P value]
+组别
+Group
+例数
+n
+模型 1
+Model 1
+模型 2
+Model 2
+模型 3
+Model 3
+模型 4
+Model 4
+男性
+Male 39 428
+正常血压组
+Normotensive 1   1   1   1
+正常高值组
+Prehypertensive 1. 33(1. 18-1. 49) <0. 001 1. 35(1. 20-1. 52) <0. 001 1. 22(1. 08-1. 37) 0. 001 6 1. 18(1. 05-1. 33) 0. 007 5
+高血压组
+Hypertensive 1. 75(1. 57-1. 96) <0. 001 1. 83(1. 63-2. 04) <0. 001 1. 49(1. 32-1. 67) <0. 001 1. 31(1. 16-1. 48) <0. 001
+女性
+Female 12 203
+正常血压组
+Normotensive 1   1   1   1
+正常高值组
+Prehypertensive 1. 56(1. 24-1. 97) 0. 000 2 1. 61(1. 27-2. 03) <0. 001 1. 48(1. 16-1. 90) 0. 0019 1. 30(1. 01-1. 67) 0. 041 8
+高血压组
+Hypertensive 2. 12(1. 70-2. 63) <0. 001 2. 25(1. 79-2. 84) <0. 001 1. 80(1. 40-2. 31) <0. 001 1. 63(1. 26-2. 09) 0. 000 2
+总人群
+Total 51 631
+正常血压组
+Normotensive 1 1 1 1
+正常高值组
+Prehypertensive 1. 40(1. 26-1. 55) <0. 001 1. 41(1. 27-1. 56) <0. 001 1. 26(1. 13-1. 41) <0. 001 1. 19(1. 07-1. 33) 0. 001 4
+高血压组
+Hypertensive 1. 86(1. 69-2. 06) <0. 001 1. 91(1. 73-2. 12) <0. 001 1. 54(1. 38-1. 71) <0. 001 1. 35(1. 21-1. 50) <0. 001
+注:模型 1:单因素(基线血压)Model 1: Adjusted for baseline blood pressure;模型 2:校正年龄、性别(只在总人群中)Model 2: Adjusted for age, gender
+( for models in all participants only);模型3:校正年龄、性别(只在总人群中)、体重指数、高敏 C 反应蛋白、高密度脂蛋白胆固醇、甘油三酯、总胆固醇、吸
+烟、饮酒、体育锻炼、糖尿病家族史 Model 3: Adjusted for age, gender( for models in all participants only), body mass index, high-sensitivity C-reactive protein,
+high-density lipoprotein-cholesterol, triglyceride, total cholesterol, smoking, drinking, physical activity, history of diabetes;模型4:在模型3 基础上进一步校正
+空腹血糖 Model 4: Based on model 3, further adjusted for fast blood glucose; HR (95% CI):风险比 (95% 可信区间) Hazard Ratios (95% Confidence
+Interval) .
+24. 46) /千人年,组间比较差异有统计学意义(P趋势 <
+0. 01)。 男性和女性糖尿病发病率分别为 20. 36 /千人
+年和 13. 89 /千人年。 男性和女性不同血压分组发病
+率分别为 (12. 70、17. 34、26. 79) /千人年和 (6. 30、
+12. 41、24. 89) /千人年,同性别不同血压组间比较差异
+有统计学意义(P趋势<0. 01)。
+三、 影响新发糖尿病的多因素 COX 风险回归分析
+以 2008 至 2009、2010 至 2011 年度体检时是否为
+NOD 为因变量,以基线不同血压分组为自变量,分别
+进行单因素(模型 1)与多因素(模型 2、3、4)COX 风险
+回归分析。 模型 1 显示:与正常血压组比较,正常高值
+组、高血压组 NOD 的 HR 值 (95% CI) 分别为 1. 40
+(1. 26 ~ 1. 55)、1. 86(1. 69 ~ 2. 06)。 模型 2 校正了年
+龄、性别后,相应的 HR 值 ( 95% CI) 分别为 1. 41
+(1. 27 ~ 1. 56)、1. 91(1. 73 ~ 2. 12)。 模型 3 在模型 2
+的基础上进一步校正了 BMI、hs-CRP、HDL-C、TG、TC、
+吸烟、饮酒、体育锻炼、糖尿病家族史,相应的 HR 值
+(95% CI)分别为 1. 26(1. 13 ~ 1. 41)、1. 54(1. 38 ~
+1. 71)。 模型 4 在模型 3 基础上进一步校正了 FBG
+后,HR 值(95% CI)分别为 1. 19(1. 07 ~ 1. 33)、1. 35
+(1. 21 ~ 1. 50)(表 2)。
+在不同性别人群,校正 BMI、hs-CRP、HDL-C、TG、
+TC、FBG、吸烟、饮酒、体育锻炼、糖尿病家族史后与正
+常血压组相比,男性正常高值组、高血压组 NOD 的 HR
+值(95% CI) 为 1. 18 (1. 05 ~ 1. 33)、1. 31 (1. 16 ~
+1. 48),女性为 1. 30(1. 01 ~ 1. 67)、1. 63(1. 26 ~ 2. 09)
+(表 2)。
+四、 敏感性分析
+为排除降压药物对血糖的影响,将 2006 至 2007
+年度体检时服用降压药物者去除,对人群重新进行统
+计分析,发现血压对 NOD 的影响在总人群、男性及女
+性人群中仍有统计学意义(表 3)。 此外,为排除随访
+期间血压变化对血压分组的影响,本研究将 2006 至
+2007 年度体检时血压分组为正常血压组 ( < 120 / 80
+mmHg),但 2008 至 2009 年度体检时收缩压≥120
+mmHg 或舒张压≥80 mmHg 或服用降压药物者去除;
+并将 2006 至 2007 年度体检时血压分组为正常高值组
+(120 ~ 139 / 80 ~ 89 mmHg),但 2008 至 2009 年度体检
+时收缩压≥140 mmHg 或舒张压≥90 mmHg 或服用降
+压药物者去除,对人群重新进行统计分析,发现在总人
+表 3  基线不同血压影响新发糖尿病的 COX 风险回归模型结果[HR(95% CI),P 值]
+Tab 3  The results of COX hazard model for new on-set diabetes among participants in different baseline blood pressure groups [HR(95% CI),
+P value]
+组别
+Group
+例数
+n
+模型 1
+Model 1
+模型 2
+Model 2
+模型 3
+Model 3
+模型 4
+Model 4
+男性
+Male 35 922
+正常血压组
+Normotensive 1   1   1   1
+正常高值组
+Prehypertensive 1. 33(1. 18-1. 49) <0. 001 1. 34(1. 19-1. 50) <0. 001 1. 21(1. 07-1. 37) 0. 002 2 1. 17(1. 03-1. 32) 0. 012 4
+高血压组
+Hypertensive 1. 85(1. 66-2. 07) <0. 001 1. 88(1. 67-2. 10) <0. 001 1. 55(1. 37-1. 75) <0. 001 1. 35(1. 19-1. 53) <0. 001
+女性
+Female 11 032
+正常血压组
+Normotensive 1   1   1   1
+正常高值组
+Prehypertensive 1. 56(1. 24-1. 96) <0. 001 1. 56(1. 23-1. 97) <0. 001 1. 44(1. 21-1. 85) 0. 004 3 1. 28(0. 99-1. 65) 0. 061 5
+高血压组
+Hypertensive 2. 30(1. 82-2. 91) <0. 001 2. 31(1. 81-2. 95) <0. 001 1. 93(1. 48-2. 51) <0. 001 1. 62(1. 24-2. 13) 0. 000 5
+总人群
+Total 46 954
+正常血压组
+Normotensive 1 1 1 1
+正常高值组
+Prehypertensive 1. 40(1. 26-1. 56) <0. 001 1. 39(1. 25-1. 54) <0. 001 1. 25(1. 12-1. 40) <0. 001 1. 18(1. 06-1. 31) 0. 003 3
+高血压组
+Hypertensive 1. 99(1. 80-2. 20) <0. 001 1. 97(1. 78-2. 19) <0. 001 1. 62(1. 45-1. 81) <0. 001 1. 38(1. 23-1. 54) <0. 001
+注:略语同表 2 Theabbrevations are the same as Tab 2; 排除基线服用降压药物者 Removed participants who took antihypertensive medicines in baseline
+群、男性及女性人群中血压对 NOD 的影响仍显著。
+讨    论
+本研究在 4. 04 年的随访期间,总人群糖尿病的发
+病率为 18. 85 /千人年,不同血压分组糖尿病的发病率
+分别为(10. 41、16. 28、24. 46) /千人年(P趋势 <0. 01)。
+这一趋势与美国的一项研究类似,他们在 6 年的随访
+时间内,总人群糖尿病的发病率为 16. 6 /千人年,非高
+血压组、高血压组糖尿病的发病率分别为 12. 0 /千人
+年和 29. 1 /千人年[10]。 这些结果提示血压水平较高
+的人群未来发生糖尿病的风险增加。 杨晨等[11] 的研
+究也提示,如能有效控制高血压患者的血压或是维持
+非高血压患者的理想血压均能有效降低患糖尿病的风
+险。
+影响 NOD 的危险因素众多,包括年龄、FBG、脂代
+谢 异 常 等。 但 校 正 了 年 龄、 性 别、 BMI、 hs-CRP、
+HDL-C、TG、TC、FBG、吸烟、饮酒、体育锻炼、糖尿病家
+族史后,与正常血压组相比,正常高值组和高血压组糖
+尿病的发病风险分别增加了 19% 和 35% 。 这一结果
+与 MONICA / KORA 结果类似,他们发现与理想血压人
+群相比,高血压人群未来发生 NOD 的风险增加了
+100% [12]。 美国女性健康研究也显示正常高值组和高
+血压组 NOD 的发病风险分别增加了 45%和 100% [4]。
+因此,无论是高血压还是高血压前期人群,均应该密切
+检测血糖,警惕 NOD 的发生。 尤其是对于高血压前期
+人群,应积极地进行生活方式干预,这样不仅可以预防
+高血压病的发生,同时也可降低 NOD 的发病风险。
+与男性人群相比,女性人群血压增高者未来发生
+糖尿病的风险增高。 这种差别可能与不同性别人群其
+内源性性激素水平的差异有关。 系统综述及分析表
+明,在不同性别中,内源性性激素对血糖状态及 2 型糖
+尿病风险的调节作用不同。 在女性人群中,增高的睾
+酮含量增加 2 型糖尿病的发病风险,而在男性人群中
+风险降低。 并且,在女性人群中,性激素结合蛋白与糖
+尿病发病风险的相关性较男性人群显著。
+血压增高与 NOD 的风险之间的机制尚不清楚。
+在动物模型中,血压水平升高可引起微血管功能紊乱,
+造成胰岛细胞功能衰竭,进而引起 NOD 的发生[13]。
+有些研究认为内皮功能紊乱与 NOD 有关,并且与血压
+及高血压密切相关[14,15]。 还有研究指出炎性指标增
+加血压的水平,同时与 2 型糖尿病密切相关[16]。 在基
+因水平上分析,血压和 2 型糖尿病二者可能有一个相
+同的基因多态性,比如肾素系统的基因多态性与原发
+性高血压有关[17],同时也与 2 型糖尿病的风险增高有
+关[18,19]。 上述这些因素从不同方面揭示了血压与
+NOD 之间潜在的关联,支持了血压对 NOD 的影响。
+考虑到降压药物可能会对血糖产生影响,我们在
+进一步的分析时,排除基线时服用降压药物的人群,结
+果发现血压对 NOD 的影响在女性血压高值人群中不
+再有统计学意义,这提示降压药物对 NOD 的发病风险
+存在影响,尤其是对于女性血压高值人群的影响可能
+更显著。 因此,对于高血压人群在服用降压药物之前,
+应检测糖耐量水平,若存在糖耐量受损,应首选对血糖
+无明显影响的降压药物(如 ACEI 或钙离子拮抗剂),
+而避免服用对血糖有影响的降压药物(如噻嗪类利尿
+剂或 β 受体阻滞剂) [10]。
+本研究与以前相关研究的不同点在于:首先,我们
+的研究为大样本的前瞻性队列研究,观察队列于 2006
+至 2011 年期间共进行了 3 次体检,分别以第 2 次和第
+3 次体检的血糖值来诊断新发糖尿病,这样在发病时
+间上更加接近准确的发病时间。 同时,本研究采用
+COX 风险回归模型分析血压对 NOD 的影响,考虑到
+了发病时间的影响,并在模型中校正了基线空腹血糖。
+其次,考虑到降压药物可能会对血糖产生影响,除外了
+基线时服用降压药物的人群,并发现血压对 NOD 的影
+响仍有统计学意义。 最后,本研究还对血压分组进行
+了敏感性分析,排除了血压动态变化对血压分组的干
+扰,并发现血压对未来发生 NOD 的风险增加仍显著。
+虽然本研究为大样本、前瞻性队列研究,但也存在
+一定的局限性。 首先,本研究仅依据 2008 至 2009、
+2010 至 2011 年度健康体检单次 FBG 水平诊断糖尿
+病,未进行口服糖耐量试验进一步确诊,因而不能诊断
+糖耐量受损,有可能低估了血压增加对 NOD 的影响,
+但是世界卫生组织认为在大规模的流行病学研究中可
+以使用一次 FBG 结果,且国内外诸多大规模研究(如
+Framingham 研究)均采用此诊断方法[20]。 其次,本研
+究的研究对象以男性为主,男性与女性数量存在较大
+差异,但本研究将男性、女性分别进行了分析,因此影
+响较小。 最后,本研究未对降压药物进行分类探讨,这
+可能低估了降压药物本身对 NOD 的影响,具体影响机
+制还有待进一步研究。

@@ -1,0 +1,282 @@
+糖尿病相关议题
+张一鸣、许国锋);常州市第一人民医院综合实验室(罗光华、张俊);隆
+德大学医学研究所临床化学实验室(徐宁)
+血清载脂蛋白 M 水平在正常妊娠和妊娠
+糖尿病孕妇中的变化
+江华  罗光华  张俊  张一鸣  徐宁  许国锋
+[摘要]   目的  探讨孕妇血清载脂蛋白 M(ApoM)水平在不同妊娠期和脐血中的变化及与妊娠期糖
+尿病(GDM)发生发展的关系。 方法 选择 2011 年 6 月至 2013 年 4 月在常州市妇幼保健院进行正规产前
+检查的孕妇,正常孕妇孕中期 99 例、孕晚期 122 例,新生儿 100 例,GDM 孕妇 87 例,检测血清中 ApoM 和其
+他脂类水平,观察 ApoM 水平与 GDM 的关系及不同阶段正常孕妇和新生儿脐血中 ApoM 水平的变化。 结
+果 (1)正常孕妇孕中期血清 ApoM 水平为(0. 036 ± 0. 013)g / L,孕晚期 ApoM 水平为(0. 023 ± 0. 008)g / L,
+新生儿脐血中 ApoM 水平为(0. 010±0. 004)g / L;(2)GDM 孕妇血清 ApoM 水平低于对照组[(0. 029±0. 010
+对 0. 036 ±0. 013)g / L,P<0. 05],采用多因素非条件 logistic 回归分析,控制混杂因素后,GDM 组和对照组血
+清 ApoM 水平的差异仍有统计学意义(Z= -3. 62,P<0. 05)。 结论 妊娠期孕妇存在血清 ApoM 水平先增
+高后下降的趋势,新生儿脐血中 ApoM 水平明显低于妊娠期孕妇;GDM 孕妇血糖水平较高时血清 ApoM 降
+低,提示 ApoM 可能在 GDM 的病理生理过程中发挥作用。
+[关键词]   妊娠期糖尿病; 妊娠期; 脐血; 载脂蛋白 M
+Changes of serum apolipoprotein M level in women during normal and gestational diabetes mellitus Jiang
+Hua*, Luo Guanghua, Zhang Jun, Zhang Yiming, Xu Ning, Xu Guofeng. *Changzhou Maternity and Child Health
+Care Hospital Affiliated Nanjing Medicial University, Changzhou 213003, China
+[Abstract]  Objective  To investigate the changes of serum apolipoprotein M(ApoM) level in cord blood and
+pregnant women during different gestational periods and to explore the relationship with the occurance and development
+of gestational diabetes mellitus (GDM). Methods Three hundred and eight pregnant women performing regular
+prenatal examination were registered in Changzhou Women and Children Health Hospital from June, 2011 to April,
+2013, including 99 normal pregnant women during the second trimester, 122 during the third trimester, and 87
+pregnant women with GDM. At the same time, 100 samples of cord blood of normal neonates were collected. The levels
+of serum ApoM and other lipids were measured. Results (1) Serum ApoM levels in pregnant women during the
+second trimester, during the third trimester, and in the cord blood of normal neonate were (0. 036 ± 0. 013) g / L,
+(0. 023 ± 0. 008) g / L, and(0. 010 ± 0. 004)g / L,respectively. (2)The serum ApoM level of GDM group was lower
+than that of control [(0. 029 ± 0. 010 vs 0. 036 ± 0. 013) g / L, P < 0. 05] . Multivariate non-conditional logistic
+regression analysis showed that there was statistically significant difference in ApoM levels between GDM and control
+groups after adjusting for potential confounders(Z = -3. 62,P<0. 05) . Conclusions The level of serum ApoM in
+pregnant women was increased at first and then decreased. The serum ApoM level in the neonatal cord blood was
+significantly lower than that in pregnant women. The level of serum ApoM was lowered with raised blood glucose level
+in women with GDM, suggesting that ApoM might play a role in the pathological processes of GDM.
+[Key words]  Gestational diabetes mellitus; Gestation period; Cord blood; Apolipoprotein M
+(Chin J Endocrinol Metab, 2014, 30: 727-730)
+妊娠期的血脂代谢是维持正常妊娠的重要条件之
+一,血脂水平随着妊娠期的进展而呈动态变化,同时血
+脂代 谢 异 常 与 妊 娠 期 糖 尿 病 ( gestational diabetes
+mellitus,GDM)的发生发展密切相关,并有可能造成胎
+儿的脂代谢异常,导致不良妊娠结局[1-3]。 然而既往对
+孕妇脂代谢的研究主要集中在总胆固醇(TC)、甘油三
+酯(TG)、高密度脂蛋白胆固醇(HDL-C)、低密度脂蛋
+白胆固醇(LDL-C)、载脂蛋白 A1(ApoA1)、载脂蛋白
+B(ApoB)中,对一种新型的载脂蛋白 M(apolipoprotein
+M, ApoM) 的 研 究 甚 少。 人 类 ApoM 是 由 Xu 和
+Dahlback[4] 于 1999 年发现并从乳糜微粒中分离、克
+隆。 ApoM 是高密度脂蛋白(HDL)的主要成分之一,
+在人类血浆 HDL 特异性载脂蛋白中,ApoM 的含量为
+0. 05 ~ 0. 5 g / L[4,5],然而 ApoM 在体内的生理功能并
+不是很清楚。 因此,本研究检测了不同阶段正常孕妇、
+新生儿脐血和 GDM 孕妇血清中的 ApoM 水平,探讨
+ApoM 水平在妊娠期的变化趋势及是否在 GDM 的发
+生、发展中发挥作用。
+对象和方法
+一、 对象
+选择 2011 年 6 月至 2013 年 4 月在常州市妇幼保
+健院定期进行常规产前检查并参加 GDM 筛查的单胎
+孕妇,既往无心、肝、肾及内分泌疾病史,无其它妊娠合
+并症及并发症,均为轻体力活动。 口服葡萄糖耐量试
+验(OGTT)检查方法及妊娠期糖尿病诊断标准参照第
+八版妇产科教科书,妊娠期 75 g OGTT 的异常参考值:
+空腹、1 h、2 h 标准分别为 5. 1、10. 0 和 8. 5 mmol / L,任
+何一点血糖值达到或超过上述标准即可诊断为 GDM。
+根据孕妇病史、孕早期空腹血糖值和 OGTT 空腹血糖
+值排除孕前糖尿病。
+研究对象分组:(1)GDM 组:根据孕妇孕 24 ~ 28
+周进行的 OGTT 检测结果,选择孕 24 ~ 28 周新确诊未
+进行治疗的 GDM 孕妇 87 例作为 GDM 组;(2)孕中期
+正常组:选择孕 24 ~ 28 周 OGTT 检测阴性的正常孕妇
+99 例作为孕中期正常组;(3)孕晚期正常组:选择择期
+剖宫产前 24 h 内孕妇 122 例作为孕晚期正常组,孕
+24 ~ 28 周的 OGTT 检测结果阴性;(4)新生儿组:选择
+孕晚期正常组孕妇分娩的新生儿(除外低体重儿和巨
+大儿)作为新生儿组。
+二、 方法
+1. 标本采集:(1)正常孕中期组和 GDM 组标本采
+集:收集所选择孕妇孕 24 ~ 28 周清晨空腹静脉血 5 ml
+(不抗凝),分离出血清于-70℃保存用于检测血糖、血
+脂等生化指标。 (2)孕晚期正常组标本采集:收集所
+选择孕妇择期剖宫产前 24 h 内,清晨空腹静脉血 5 ml
+(不抗凝),分离出血清于-70℃保存用于检测血糖、血
+脂等生化指标。 (3)新生儿组标本采集:收集新生儿
+脐静脉血 5 ml(不抗凝),分离出血清于-70℃保存用
+于检测血脂等生化指标。
+2. 血清学检测指标:(1)所有孕妇晨起空腹采静
+脉血 5 ml,用葡萄糖氧化酶法立即检测空腹血糖。
+(2)低温保存的血清一次性冻融检测,按中华医学会
+检验分会推荐的血脂检测常规方法测定血清 TG、TC、
+HDL-C、LDL-C、 ApoA1、 ApoB,所有标本由 Beckman
+LX-420 自 动 分 析 仪 一 次 性 检 测; 酶 联 免 疫 吸 附
+(ELISA)法检测血清 ApoM 水平。
+体重指数 ( BMI):为孕妇体重 ( kg) /孕妇身高2
+(m2)。
+三、 统计学处理
+应用 Epi Data 3. 0 软件建立库管理数据,采用双
+人双机独立录入的方法将结果输入数据库后进行一致
+性核查。 定量资料用 x- ± s 描述,2 组间比较采用 t 检
+验;多组间比较采用方差分析;为校正混杂因素,将孕
+周、孕前 BMI 和 ApoM 表达水平纳入多因素非条件
+logistic 回归模型进行分析。 所有统计分析均借助
+Stata11. 0 软件完成,P<0. 05 为差异有统计学意义。
+结    果
+一、 孕妇一般情况比较
+对 GDM 组和正常孕中期的基本情况进行比较,2
+组孕妇在孕周方面均没有统计学差异,但 GDM 组孕
+妇的年龄和孕前 BMI 均高于同孕期正常对照组,差异
+具有统计学意义(P<0. 05 或 P<0. 01,表 1)。
+表 1  24 ~ 28 周孕妇一般情况比较(x-± s)
+Tab 1  General data in 24-28 weeks pregnant women(x-± s)
+组别
+Group
+例数
+n
+年龄
+(岁)
+Age
+(year)
+孕周
+Pregnant week
+孕前 BMI
+BMI before pregnancy
+(kg / m2)
+CON  99 27. 44 ± 3. 37 26. 43 ± 1. 71 20. 61 ± 2. 35
+GDM 87 28. 60 ± 3. 64a 26. 93 ± 1. 81 22. 60 ± 3. 79b
+注: CON: 孕中期正常孕妇 The second trimester normal pregnant
+women;GDM:妊娠糖尿病 Gestational diabetes mellitus;BMI:体重指数
+Body mass index;与 CON 组相比 vs CON group,aP<0. 05,bP<0. 01
+二、 正常孕妇不同孕期和新生儿脐血的血脂情况
+比较
+为探讨正常孕妇和新生儿脐血血脂变化的趋势,
+本研究将不同阶段正常孕妇及新生儿脐血的血脂情况
+表 2  正常孕妇不同孕周和新生儿脐血血脂情况比较(x-± s)
+Tab 2  Blood lipid profiles of normal pregnant women at different trimesters and cord blood of normal neonates (x-± s)
+组别
+Group
+例数
+n
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+ApoA1
+(g / L)
+ApoB
+(g / L)
+ApoM
+(g / L)
+ST 99 5. 727 ± 0. 864 2. 398 ± 0. 797 2. 003 ± 0. 384 2. 895 ± 0. 699 2. 383 ± 0. 376 1. 326 ± 0. 305 0. 036 ± 0. 013
+TT 122 6. 390 ± 1. 294a 3. 468 ± 1. 383a 1. 936 ± 0. 409 2. 743 ± 0. 786 2. 092 ± 0. 596a 1. 396 ± 0. 388 0. 023 ± 0. 008a
+NN 100 1. 628 ± 0. 419ab 0. 124 ± 0. 298ab 0. 740 ± 0. 179ab 0. 485 ± 0. 413ab 0. 881 ± 0. 204ab 0. 220 ± 0. 146ab 0. 010 ± 0. 004ab
+注:ST:孕中期 The second trimester;TT:孕晚期 The third trimester;NN:正常新生儿 Normal neonate;TC:总胆固醇 Total cholesterol;TG:甘油三酯
+Triglyceride;HDL-C:高密度脂蛋白胆固醇 High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白胆固醇 Low density lipoprotein-cholesterol;Apo:载脂蛋
+白 Apolipoprotein;与 ST 组比较 vs ST group,aP<0. 05;与 TT 组比较 vs TT group,bP<0. 05
+表 3  24 ~ 28 周孕妇血脂情况比较(x-± s)
+Tab 3  Blood lipid profiles in 24 ~ 28 weeks pregnant women(x-± s)
+组别
+Group
+例数
+n
+TC
+(mmol / L)
+TG
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+ApoA1
+(g / L)
+ApoB
+(g / L)
+ApoM
+(g / L)
+CON  99 5. 727 ± 0. 864 2. 398 ± 0. 797 2. 003 ± 0. 384 2. 895 ± 0. 699 2. 383 ± 0. 376 1. 326 ± 0. 305 0. 036 ± 0. 013
+GDM 87 6. 732 ± 1. 433a 3. 337 ± 1. 069a 2. 098 ± 0. 500 3. 299 ± 0. 912b 2. 656 ± 0. 464a 1. 457 ± 0. 346b 0. 029 ± 0. 010a
+注:略语同表 1 和表 2 The abbreviations are the same as Tab 1 and Tab 2; 与 CON 组比较 vs CON group,aP<0. 05,bP<0. 01
+进行比较, 孕中期和孕晚期孕妇在年龄和孕前 BMI 方
+面均无统计学差异(P>0. 05)。 血脂比较结果显示孕
+中期到孕晚期孕妇 ApoM 水平呈下降趋势,新生儿脐
+血的 ApoM 水平明显低于妊娠期孕妇(表 2)。
+三、 孕妇的血脂情况比较
+将 GDM 孕妇和同期正常对照孕妇的血脂情况进
+行比较,发现 GDM 孕妇存在明显的血脂代谢紊乱,
+TC、TG、 LDL-C、 ApoA1、 ApoB 水平均高于对照组,
+HDL-C 水平变化不明显,而 ApoM 水平在 GDM 孕妇中
+明显降低( t= -4. 168,P=0. 000 1,表 3)。
+四、 ApoM 与 GDM 的关系
+为进一步分析 ApoM 与 GDM 的关系,校正孕周和
+孕前 BMI 的混杂效应,本研究采用非条件 logistic 回归
+模型将年龄、孕前 BMI 和 ApoM 水平进行分析,表 4 结
+果表明,在控制了混杂因素后,GDM 孕妇血清 ApoM
+水平仍然是 GDM 的独立影响因素(表 4)。
+表 4  ApoM 对 GDM 影响的多因素 logistic 回归分析
+Tab 4  Logistic analysis for the effect of ApoM on GDM
+危险因素
+Risk factor
+回归系数
+Regression
+coefficient
+标准误
+Standard error Z P
+ApoM -69. 164 19. 116 -3. 62 <0. 05
+孕前 BMI
+BMI before pregnancy 0. 232 0. 062 3. 76 <0. 05
+年龄 Age 0. 086 0. 050 1. 71 0. 075
+注:略语同表 1 和表 2 The abbreviations are the same as Tab 1 and Tab 2
+讨    论
+一、 ApoM 的来源及生物学作用
+人类 ApoM 是由 Xu 和 Dahlback 于 1999 年发现并
+从乳糜微粒中分离、克隆。 人类 ApoM 基因定位于 6
+号染色体的 p21. 31 区,编码 188 个氨基酸序列,属于
+lipocalin 蛋白超家族。 ApoM 主要存在于 HDL-C 中,
+少量存在于富含 TG 的脂蛋白和 LDL-C[4]。 ApoM 的
+生物学作用还不是太清楚,目前的研究表明其在体内
+参加肝脏的脂质代谢和糖代谢,并与多种脂代谢和糖
+代谢异常的疾病密切相关[6-8]。 GDM 存在糖脂代谢紊
+乱,提示在 GDM 孕妇中也可能存在 ApoM 水平的变
+化。
+二、 正常孕妇妊娠期和脐血 ApoM 水平的变化
+目前检测人类血清中 ApoM 浓度大约为 0. 9
+μmol / L[9],在妊娠期由于胚胎、胎儿生长发育的需要,
+出现生理性高血脂状态。 与非妊娠期相比,妊娠中晚
+期 TG 较非妊娠期增加 2 ~ 3 倍,TC 增加 50% ~ 60% ,
+血浆脂蛋白及载脂蛋白也中度增高。 血清中 ApoM 在
+妊娠中的水平变化目前国内外研究较少,仅 2010 年瑞
+典的一项研究提示 ApoM 在妊娠期也会随妊娠的进展
+而逐渐上升,血清中 ApoM 水平在未妊娠的妇女中为
+0. 77 μmol / L,在孕 40 周孕妇中为 0. 88 μmol / L,在产
+后妇女中为 1. 05 μmol / L [10],本研究分别检测了孕中
+期(孕 24 ~ 28 周)和孕晚期(分娩前)正常孕妇的血脂
+水平,研究发现,孕晚期孕妇 TC、TG 水平明显上升,而
+ApoA1 水平明显下降,HDL-C、LDL-C、ApoB 变化不明
+显,与以往的研究一致[11,12]。 焦国庆等[13] 研究发现,
+无锡地区妇女的 ApoM 水平与年龄呈正相关,绝经前
+期女性人群的血浆 ApoM 浓度为 0. 013 ~ 0. 027 g / L,
+本研究孕中期妇女血清 ApoM 水平为(0. 036 ± 0. 013)
+g / L,分娩前为(0. 023 ±0. 008)g / L,可见和其他载脂蛋
+白一样,ApoM 在妊娠期中度增高,但分娩前呈明显下
+降趋势( t = -8. 718,P<0. 05)。 本研究还检测了孕晚
+期孕妇组分娩的新生儿脐血的 ApoM 水平为(0. 010 ±
+0. 004)g / L,明显低于妊娠期孕妇 ApoM 水平。 ApoA1
+和 ApoM 均是 HDL-C 的主要组成成分,两者在分娩前
+孕妇组保持了一致的下降趋势,但我们并没有发现
+HDL-C 在分娩前明显下降。
+三、 ApoM 和 GDM 的相关性
+高 TG 是 GDM 的显著血脂代谢特征[14],GDM 孕
+妇血脂代谢紊乱一般表现为 TC、TG、LDL-C 水平升
+高,HDL-C 水平降低[15]。 本研究发现血糖水平较高的
+孕中期 GDM 孕妇存在明显的血脂代谢紊乱,糖尿病
+组孕妇 TC、TG、LDL-C、ApoA1、ApoB 均高于对照组,与
+既往的研究结果相似,但 HDL-C 水平在 2 组间无差
+异,考虑是否与 GDM 诊断标准阈值下调,GDM 血糖紊
+乱程度较轻有关。 既往的研究表明 ApoM 与 GDM 的
+关系密切。 Niu 等[6]发现汉族人群中 ApoM 基因近端
+启动子单核苷酸多态性 T-778C 与血浆胆固醇和空腹
+血糖相关,并可能增加罹患 2 型糖尿病的风险,高血糖
+显著下调 SD 大鼠血清 ApoM 及肝脏 ApoM mRNA 水
+平[16]。 孕期存在特殊的血糖代谢,正常孕妇空腹血糖
+值较正常人下降,近年 GDM 诊断标准阈值下调,大部
+分 GDM 孕妇仅表现为血糖轻度异常,是否也存在
+ApoM 的低表达? 本研究结果显示 ApoM 在新患 GDM
+孕妇中显著降低,与之前推测一致。 文献提示 ApoM
+与肥胖相关[17],经校正孕前 BMI 和孕周这两个混淆因
+素,仍然发现 GDM 孕妇在新患病时 ApoM 水平低于对
+照组。 研究表明瘦素可调节 ApoM 的表达[18],ApoM
+和胰岛素抵抗密切相关[17],GDM 孕妇也存在胰岛素
+抵抗和瘦素的异常表达,是否这些原因与 GDM 孕妇
+ApoM 水平异常有关? 对这些问题我们将作进一步研
+究。
+综上所述,本研究观察到妊娠期孕妇存在血清
+ApoM 水平的动态变化,ApoM 在妊娠期中度增高,但
+孕晚期与孕中期相比 ApoM 水平有下降趋势,新生儿
+脐血中 ApoM 水平明显低于妊娠期孕妇。 在 GDM 孕
+妇中存在 ApoM 水平的异常,GDM 孕妇血糖水平较高
+时血清 ApoM 降低,提示 ApoM 可能在 GDM 的病理生
+理过程中发挥作用,具体机制有待进一步研究。

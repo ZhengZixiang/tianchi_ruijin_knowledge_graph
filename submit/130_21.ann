@@ -1,0 +1,432 @@
+T1	Disease 64 69	甲状腺疾病
+T2	Disease 101 106	甲状腺疾病
+T3	Disease 127 137	妊娠期甲状腺功能亢进
+T4	Disease 151 156	产科并发症
+T5	Disease 162 172	胎儿神经系统发育受损
+T6	Test 179 184	甲状腺功能
+T7	Disease 189 199	亚临床甲状腺功能减退
+T8	Disease 200 207	低 T4 血症
+T9	Test 208 218	甲状腺过氧化物酶抗体
+T10	Disease 224 230	不良妊娠结局
+T11	Test 252 257	甲状腺功能
+T12	Disease 284 289	甲状腺疾病
+T13	Disease 1257 1262	甲状腺疾病
+T14	Test 1321 1326	甲状腺功能
+T15	Drug 1333 1339	左旋甲状腺素
+T16	Drug 1357 1361	L-T4
+T17	Disease 1366 1373	甲状腺功能减退
+T18	Disease 1374 1376	甲减
+T19	Disease 1397 1403	产后甲状腺炎
+T20	Disease 1404 1409	永久性甲减
+T21	Disease 1424 1429	亚临床甲减
+T22	Anatomy 1430 1433	甲状腺
+T23	Disease 1442 1443;1444 1445	早 产
+T24	Test 1449 1454	甲状腺功能
+T25	Test 1460 1467	甲状腺自身抗体
+T26	Test_Value 1467 1469	阳性
+T27	Disease 1473 1475	流产
+T28	Disease 1488 1496	妊娠期甲状腺疾病
+T29	Test 1551 1556	甲状腺功能
+T30	Test 1578 1583	甲状腺功能
+T31	Test 1661 1666	甲状腺功能
+T32	Test 1676 1679	雌激素
+T33	Anatomy 1686 1695	甲状腺素结合球蛋白
+T34	Test 1730 1736	总甲状腺激素
+T35	Test 1754 1757	TT4
+T36	Test 1805 1810	甲状腺激素
+T37	Test 1840 1843	TSH
+T38	Level 1849 1851	轻度
+T39	Test_Value 1852 1854	降低
+T40	Drug 1860 1869	人绒毛膜促性腺激素
+T41	Test_Value 1901 1905	显著升高
+T42	Test 1909 1912	TSH
+T43	Anatomy 1930 1936	TSH 受体
+T44	Test 1938 1943	甲状腺激素
+T45	Level 1949 1951	轻度
+T46	Disease 1951 1957;1958 1959	甲状腺功能亢 进
+T47	Disease 1960 1962	甲亢
+T48	Anatomy 1972 1974	胎盘
+T49	Anatomy 1983 1985	肾脏
+T50	Test 1991 1993	T4
+T51	Anatomy 1995 2005	胎盘脱碘形成反 T3
+T52	Anatomy 2034 2036;2037 2040	甲状 腺激素
+T53	Anatomy 2062 2065	甲状腺
+T54	Anatomy 2093 2096	甲状腺
+T55	Test 2110 2113	TSH
+T56	Test_Value 2122 2133;2134 2141	0. 1 ~ 2. 5 mIU / L
+T57	Test_Value 2142 2161	0. 2 ~ 3. 0 mIU / L
+T58	Test_Value 2164 2183	0. 3 ~ 3. 0 mIU / L
+T59	Test 2213 2216	TSH
+T60	Test_Value 2217 2221	轻度升高
+T61	Disease 2222 2226;2227 2228	亚临床甲 减
+T62	Test 2296 2306	甲状腺过氧化物酶抗体
+T63	Test 2337 2342	TPOAb
+T64	Test 2344 2352	甲状腺球蛋白抗体
+T65	Test 2378 2382	TgAb
+T66	Test_Value 2383 2384;2385 2386	阳 性
+T67	Disease 2394 2399	甲状腺疾病
+T68	Disease 2413 2415;2416 2418	甲状 腺肿
+T69	Test 2429 2434	甲状腺功能
+T70	Test 2440 2443	雌激素
+T71	Test 2538 2541	TSH
+T72	Disease 2590 2597	产后甲状腺疾病
+T73	Test 2672 2675	TSH
+T74	Test 2690 2693	TSH
+T75	Test 2906 2909	TSH
+T76	Disease 2919 2924	妊娠期甲亢
+T77	Disease 2937 2939	甲亢
+T78	Disease 2975 2983	Graves 病
+T79	Disease 2989 2997	Graves 病
+T80	Reason 3004 3009;3010 3015	绒毛膜促性 腺激素升高
+T81	Disease 3039 3041	甲亢
+T82	Symptom 3054 3059	甲状腺肿大
+T83	Symptom 3060 3064	双手震颤
+T84	Disease 3069 3071	甲亢
+T85	Disease 3075 3079	妊娠甲亢
+T86	Disease 3112 3114	甲亢
+T87	Disease 3123 3125	早产
+T88	Disease 3127 3130;3131 3136	胎儿宫 内发育迟缓
+T89	Disease 3137 3142	低出生体重
+T90	Disease 3143 3147	先兆子痫
+T91	Disease 3148 3153	充血性心衰
+T92	Disease 3171 3173	甲减
+T93	Test 3177 3187	促甲状腺激素受体抗体
+T94	Test 3220 3224	TRAb
+T95	Anatomy 3229 3231	胎盘
+T96	Test 3249 3253	TRAb
+T97	Disease 3258 3263	新生儿甲亢
+T98	Disease 3276 3284	Graves 病
+T99	Disease 3290 3298	Graves 病
+T100	Treatment 3300 3306	同位素碘治疗
+T101	Test 3322 3329	甲状腺自身抗体
+T102	Test 3332 3336	TRAb
+T103	Disease 3352 3354	甲亢
+T104	Disease 3367 3373	宫内发育迟缓
+T105	Disease 3375 3381	胎儿心动过速
+T106	Disease 3384 3389	甲状腺肿大
+T107	Disease 3395 3399	羊水过多
+T108	Test 3416 3419	TT4
+T109	Test 3442 3445	TSH
+T110	Test_Value 3445 3458	<0. 1 mIU / L
+T111	Test 3459 3463	TRAb
+T112	Test_Value 3464 3466	阳性
+T113	Drug 3471 3475	抗甲状腺
+T114	Disease 3482 3487	妊娠期甲减
+T115	Disease 3507 3509	甲减
+T116	Test 3551 3554	TSH
+T117	Test_Value 3558 3564;3565 3578	2. 5 ~ 10. 0 mIU / L
+T118	Test_Value 3587 3607	3. 0 ~ 10. 0 mIU / L
+T119	Test 3619 3622	FT4
+T120	Test_Value 3625 3627	降低
+T121	Test 3632 3635	FT4
+T122	Test 3642 3645	TSH
+T123	Test_Value 3645 3659	>10. 0 mIU / L
+T124	Disease 3665 3670	妊娠期甲减
+T125	Disease 3672 3674	甲减
+T126	Disease 3683 3685	贫血
+T127	Disease 3686 3689	妊高症
+T128	Disease 3691 3695	胎盘早剥
+T129	Disease 3696 3700	产后出血
+T130	Disease 3713 3717	妊娠甲减
+T131	Disease 3721 3725	胎儿早产
+T132	Disease 3726 3731	低出生体重
+T133	Disease 3732 3742	新生儿呼吸窘迫综合症
+T134	Disease 3776 3778	甲减
+T135	Symptom 3815 3820;3821 3822	皮肤发育不 良
+T136	Test 3823 3827	上皮厚度
+T137	Symptom 3830 3836	毛囊数量下降
+T138	Symptom 3837 3841	毛发减少
+T139	Disease 3862 3864	甲减
+T140	Disease 3875 3877	甲减
+T141	Test 3886 3893	骨骺生长板厚度
+T142	Disease 3915 3917	甲减
+T143	Test_Value 3941 3943	增高
+T144	Drug 3970 3972;3973 3976	丙硫 氧嘧啶
+T145	Disease 3979 3981	甲减
+T146	Anatomy 3985 3990	脑部亮氨酸
+T147	Disease 4001 4003	甲减
+T148	Drug 4019 4025	甘露醇向糖脂
+T149	Disease 4037 4044	脑细胞代谢异常
+T150	Test 4046 4054	三碘甲状腺原氨酸
+T151	Test 4108 4113	甲状腺激素
+T152	Disease 4151 4155	妊娠甲减
+T153	Test 4191 4194	FT4
+T154	Test 4219 4222	FT4
+T155	Test 4273 4276	FT4
+T156	Disease 4305 4309	妊娠甲减
+T157	Disease 4333 4339	自身免疫疾病
+T158	Treatment 4345 4351	颈部放射治疗
+T159	Test 4356 4360;4361 4362	甲状腺功 能
+T160	Drug 4367 4370	胺碘酮
+T161	Drug 4379 4384	含碘造影剂
+T162	Test 4389 4394	TPOAb
+T163	Test_Value 4395 4397	阳性
+T164	Disease 4398 4403	甲状腺疾病
+T165	Disease 4413 4417	甲状腺肿
+T166	Disease 4418 4419;4420 4421	甲 减
+T167	Disease 4439 4444	甲状腺疾病
+T168	Test 4479 4481;4482 4485	甲状 腺功能
+T169	Disease 4501 4506	亚临床甲减
+T170	Disease 4520 4525	亚临床甲亢
+T171	Test 4562 4567	甲状腺功能
+T172	Disease 4584 4594	全球性妊娠甲状腺疾病
+T173	Test 4655 4660	甲状腺功能
+T174	Disease 4686 4691	甲状腺疾病
+T175	Disease 4738 4743	亚临床甲减
+T176	Disease 4754 4759	亚临床甲减
+T177	Disease 4763 4765	早产
+T178	Disease 4766 4769;4770 4772	低出生 体重
+T179	Disease 4800 4806	脑发育期海马
+T180	Test 4809 4814	甲状腺激素
+T181	Anatomy 4822 4826;4827 4832	脑源性神 经营养因子
+T182	Anatomy 4868 4872	BDNF
+T183	Anatomy 4874 4877;4878 4880	甲状腺 激素
+T184	Anatomy 4895 4897	海马
+T185	Disease 4914 4919	亚临床甲减
+T186	Anatomy 4926 4932	大脑海马组织
+T187	Test 4935 4939	BDNF
+T188	Anatomy 4953 4963	Ras 相关蛋白 1
+T189	Anatomy 4964 4968	Rap1
+T190	Disease 5030 5033;5034 5036	亚临床 甲减
+T191	Anatomy 5059 5061;5062 5065	甲状 腺激素
+T192	Anatomy 5070 5074	BDNF
+T193	Anatomy 5080 5084	Rap1
+T194	Anatomy 5102 5106	神经细胞
+T195	Disease 5135 5140	亚临床甲减
+T196	Anatomy 5152 5158	海马 CA1
+T197	Anatomy 5161 5162;5163 5171	皮 质神经元排列纹路
+T198	Anatomy 5172 5177	海马椎体层
+T199	Anatomy 5186 5190	神经细胞
+T200	Anatomy 5222 5226	大脑细胞
+T201	Drug 5255 5259	L-T4
+T202	Disease 5266 5267;5268 5272	亚 临床甲减
+T203	Drug 5297 5301	L-T4
+T204	Disease 5326 5330;5331 5332	亚临床甲 减
+T205	Disease 5395 5400	亚临床甲减
+T206	Duration 5405 5413	12 周+3 d
+T207	Amount 5421 5424;5425 5431	150 μg / d
+T208	Drug 5434 5438	L-T4
+T209	Disease 5507 5515	妊娠期亚临床甲减
+T210	Disease 5540 5545	甲状腺疾病
+T211	Disease 5552 5557	亚临床甲减
+T212	Test 5572 5575	TSH
+T213	Test_Value 5575 5588	>4. 5 mIU / L
+T214	Test 5641 5646	甲状腺功能
+T215	Disease 5654 5659	亚临床甲减
+T216	Disease 5684 5689	亚临床甲减
+T217	Disease 5714 5719	亚临床甲减
+T218	Disease 5729 5739	新生儿呼吸窘迫综合症
+T219	Disease 5780 5781;5782 5786	亚 临床甲减
+T220	Test 5789 5792	TSH
+T221	Test_Value 5792 5806	>3. 93 mIU / L
+T222	Test 5849 5856;5857 5861	运动评分均比甲 状腺功能
+T223	Test 5880 5883	TSH
+T224	Disease 5902 5907	亚临床甲减
+T225	Disease 5928 5933	妊娠前半期
+T226	Test 5935 5940	甲状腺功能
+T227	Disease 5953 5958	亚临床甲减
+T228	Test 5976 5979	TSH
+T229	Test 5997 6000	FT4
+T230	Disease 6021 6029	妊娠期亚临床甲减
+T231	Test 6031 6036	TOPAb
+T232	Test_Value 6037 6039	阳性
+T233	Drug 6046 6050	L-T4
+T234	Disease 6057 6063	不良妊娠结局
+T235	Test 6068 6073	TPOAb
+T236	Test_Value 6074 6076	阴性
+T237	Disease 6077 6079;6080 6083	亚临 床甲减
+T238	Drug 6106 6110	L-T4
+T239	Drug 6123 6127	L-T4
+T240	Test 6130 6135	TPOAb
+T241	Test_Value 6136 6138	阴性
+T242	Disease 6139 6144	亚临床甲减
+T243	Test 6165 6168	TSH
+T244	Drug 6224 6228	L-T4
+T245	Test 6243 6245;6246 6250	运动 发育指数
+T246	Disease 6258 6263	亚临床甲减
+T247	Test 6265 6270	TPOAb
+T248	Drug 6299 6303	L-T4
+T249	Test 6334 6339	TPOAb
+T250	Test_Value 6340 6342	阴性
+T251	Disease 6343 6344;6345 6349	亚 临床甲减
+T252	Disease 6371 6378	低 T4 血症
+T253	Disease 6385 6392	低 T4 血症
+T254	Test 6410 6413	TSH
+T255	Test 6420 6423	FT4
+T256	Test 6520 6523	FT4
+T257	Test 6549 6552	FT4
+T258	Test_Value 6574 6588	9. 99 pmol / L
+T259	Test_Value 6617 6632	10. 30 pmol / L
+T260	Disease 6655 6665	亚临床甲状腺功能异常
+T261	Test 6672 6675	TT4
+T262	Test 6678 6681	FT4
+T263	Disease 6686 6693	低 T4 血症
+T264	Test 6709 6712	TT4
+T265	Anatomy 6727 6735	甲状腺结合球蛋白
+T266	Drug 6743 6746	雌激素
+T267	Test 6747 6750	白蛋白
+T268	Test 6782 6785	FT4
+T269	Test 6792 6795;6796 6798	甲状腺 功能
+T270	Test 6919 6922	TT4
+T271	Test 6935 6938	TT4
+T272	Test_Value 6945 6962	50 ~ 150 nmol / L
+T273	Disease 6965 6973	妊娠期甲状腺疾病
+T274	Test 7006 7009	TT4
+T275	Disease 7035 7042	低 T4 血症
+T276	Disease 7049 7054	亚临床甲减
+T277	Disease 7090 7097	低 T4 血症
+T278	Test 7122 7124	T4
+T279	Test 7229 7232	FT4
+T280	Duration 7279 7282	3 周
+T281	Disease 7316 7317;7318 7323	低 T4 血症
+T282	Test 7340 7342	T4
+T283	Anatomy 7370 7376	胎儿神经系统
+T284	Level 7418 7422	早、中期
+T285	Disease 7422 7429	低 T4 血症
+T286	Disease 7483 7490	低 T4 血症
+T287	Disease 7491 7493	甲减
+T288	Disease 7494 7499	亚临床甲减
+T289	Disease 7517 7522	亚临床甲减
+T290	Drug 7547 7551	L-T4
+T291	Drug 7575 7579	L-T4
+T292	Test 7595 7602	甲状腺自身抗体
+T293	Disease 7605 7610	习惯性流产
+T294	Disease 7626 7631	习惯性流产
+T295	Disease 7642 7647	染色体异常
+T296	Disease 7648 7654	盆腔解剖异常
+T297	Test 7655 7661	抗心磷脂抗体
+T298	Test_Value 7661 7662;7663 7664	阳 性
+T299	Disease 7665 7670	内分泌疾病
+T300	Disease 7676 7679	糖尿病
+T301	Disease 7680 7686	高催乳素血症
+T302	Disease 7687 7691;7692 7693	甲状腺疾 病
+T303	Test 7697 7702	甲状腺功能
+T304	Test_Value 7702 7704	正常
+T305	Anatomy 7705 7708	甲状腺
+T306	Test 7758 7763	TPOAb
+T307	Test 7766 7770	TgAb
+T308	Test 7814 7819	TPOAb
+T309	Test 7822 7826	TgAb
+T310	Test_Value 7827 7829	阳性
+T311	Test 7830 7835	甲状腺功能
+T312	Test_Value 7835 7836;7837 7838	正 常
+T313	Test 7857 7864	甲状腺自身抗体
+T314	Test 7892 7899	甲状腺自身抗体
+T315	Drug 7915 7919	L-T4
+T316	Disease 7925 7927	早产
+T317	Disease 7961 7971	自身免疫性甲状腺疾病
+T318	Disease 8014 8018	AITD
+T319	Anatomy 8023 8025;8026 8027	脐带 血
+T320	Anatomy 8035 8040	NK 细胞
+T321	Anatomy 8059 8062;8063 8066	T 细 胞亚群
+T322	Test 8078 8086	肿瘤坏死因子 α
+T323	Anatomy 8087 8091;8092 8093	白细胞介 素
+T324	Test 8109 8115	IL)-10
+T325	Anatomy 8117 8125	IL-12p70
+T326	Anatomy 8126 8131	干扰素 γ
+T327	Anatomy 8134 8146	interferon-γ
+T328	Test 8150 8155	IL-1β
+T329	Disease 8174 8178	AITD
+T330	Disease 8181 8183	不孕
+T331	Test 8194 8197	TSH
+T332	Test 8203 8206	TSH
+T333	Test 8213 8216	TSH
+T334	Disease 8222 8226	AITD
+T335	Test 8228 8233	甲状腺功能
+T336	Test_Value 8233 8235	正常
+T337	Anatomy 8236 8239	甲状腺
+T338	Anatomy 8248 8252	子宫内膜
+T339	Test 8254 8255;8256 8260	T 细胞数量
+T340	Test 8268 8272	IL-4
+T341	Test 8273 8278	IL-10
+T342	Test 8280 8288	干扰素 γ 水平
+T343	Test_Value 8288 8290	下降
+T344	Anatomy 8296 8300	B 细胞
+T345	Anatomy 8303 8306	甲状腺
+T346	Anatomy 8324 8328;8329 8330	NK 细 胞
+T347	Anatomy 8345 8347	子宫
+T348	Test 8371 8378	甲状腺自身抗体
+T349	Disease 8399 8403	AITD
+T350	Test 8428 8436	TPOAb 滴度
+T351	Test_Value 8436 8450	超过 300 IU / ml
+T352	Test 8494 8499	TPOAb
+T353	Test_Value 8500 8502	阳性
+T354	Test 8597 8605	TPOAb 滴度
+T355	Test_Value 8605 8607	升高
+T356	Symptom 8615 8621	注意力不集中
+T357	Test 8689 8694	TPOAb
+T358	Test_Value 8695 8699	滴度升高
+T359	Disease 8704 8708	听力缺陷
+T360	Test 8730 8735	TPOAb
+T361	Test_Value 8736 8738	阳性
+T362	Disease 8746 8748	流产
+T363	Disease 8749 8751	早产
+T364	Disease 8753 8758	妊娠并发症
+T365	Symptom 8773 8775	听力
+T366	Disease 8832 8840	妊娠期甲状腺疾病
+T367	Anatomy 8848 8853	甲状腺激素
+T368	Anatomy 8862 8868	脑组织神经元
+T369	Disease 8935 8939	甲状腺肿
+T370	Disease 8940 8942	流产
+T371	Disease 8946 8948	死产
+T372	Disease 8977 8980	呆小症
+T373	Test 9000 9003	FT4
+T374	Anatomy 9026 9030	BDNF
+T375	Anatomy 9099 9104	c-jun
+T376	Anatomy 9107 9112	c-fos
+T377	Test 9159 9162	FT4
+T378	Test_Value 9165 9167	降低
+T379	Anatomy 9171 9177	脑内相关蛋白
+T380	Disease 9297 9301	妊娠甲减
+T381	Disease 9328 9335	妊娠碘营养异常
+T382	Disease 9336 9343	妊娠甲状腺疾病
+T383	Test 9413 9416	TSH
+T384	Disease 9442 9445;9446 9448	亚临床 甲减
+T385	Disease 9456 9460	临床甲减
+T386	Test 9468 9473	TPOAb
+T387	Test_Value 9474 9476	阳性
+T388	Test 9492 9495	TSH
+T389	Disease 9521 9523;9524 9527	亚临 床甲亢
+T390	Disease 9534 9538	临床甲亢
+T391	Test 9549 9555;9556 9557	甲状腺自身抗 体
+T392	Test_Value 9557 9559	阳性
+T393	Test 9575 9581	甲状腺球蛋白
+T394	Test 9592 9598	甲状腺球蛋白
+T395	Test_Value 9598 9608	<20 μg / L
+T396	Test 9654 9656	尿碘
+T397	Test 9658 9662	肌酐比值
+T398	Test 9747 9750	尿肌酐
+T399	Test_Value 9750 9761	<150 μg / g
+T400	Test 9884 9891	甲状腺自身抗体
+T401	Test_Value 9891 9893	阴性
+T402	Test 9968 9970	尿碘
+T403	Test_Value 9970 9972;9973 9983	低于 150 μg / L
+T404	Test 10003 10005	尿碘
+T405	Disease 10025 10030	甲状腺疾病
+T406	Disease 10043 10046;10047 10052	妊娠期 甲状腺疾病
+T407	Disease 10054 10056	甲减
+T408	Disease 10057 10067	亚临床甲状腺功能异常
+T409	Disease 10070 10074;10075 10076	亚临床甲 减
+T410	Test 10079 10086	甲状腺自身抗体
+T411	Test_Value 10086 10088	阳性
+T412	Disease 10089 10096	低 T4 血症
+T413	Disease 10101 10105;10106 10108	不良妊娠 结局
+T414	Disease 10194 10202	妊娠期甲状腺疾病
+T415	Test 10210 10213	TSH
+T416	Test_Value 10214 10218	轻度升高
+T417	Test 10220 10223	FT4
+T418	Disease 10229 10239	亚临床甲状腺功能异常
+T419	Disease 10244 10249	妊娠期甲减
+T420	Disease 10251 10256	亚临床甲减
+T421	Disease 10257 10262	亚临床甲减
+T422	Test 10264 10269	TOPAb
+T423	Test_Value 10270 10272	阳性
+T424	Drug 10281 10285	L-T4
+T425	Disease 10292 10298	不良妊娠结局
+T426	Symptom 10305 10309	智力受损
+T427	Disease 10314 10324	单纯性低 T4 血症
+T428	Test 10329 10334	TPOAb
+T429	Test_Value 10335 10337	阳性
+T430	Drug 10342 10346	L-T4
+T431	Drug 10391 10395	L-T4
+T432	Drug 10407 10411	L-T4

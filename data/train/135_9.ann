@@ -1,0 +1,254 @@
+T1	Disease 8097 8102	妊娠糖尿病
+T2	Test 6491 6494	收缩压
+T3	Test 6495 6498	舒张压
+T4	Disease 1504 1506	MS
+T5	Disease 3446 3448	MS
+T6	Test 3207 3209	身高
+T7	Test 3298 3300	身高
+T8	Test 6476 6478	身高
+T9	Test 3213 3215	体重
+T10	Test 3219 3221	体重
+T11	Test 3290 3292	体重
+T12	Test 237 250	血清 25(OH)D 水平
+T13	Test 362 369	25(OH)D
+T14	Test_Value 375 399	(17. 86 ± 8. 59) ng / ml
+T15	Test_Value 493 508	(17. 86 ±8. 61)
+T16	Test_Value 509 524;525 532	(17. 85 ±8. 60) ng / ml
+T17	Test_Value 567 591	(13. 17 ± 5. 56) ng / ml
+T18	Test_Value 603 612;613 627	(24. 15 ± 9. 61) ng / ml
+T19	Test_Value 640 664	(18. 59 ± 7. 39) ng / ml
+T20	Test_Value 677 701	(13. 44 ± 5. 15) ng / ml
+T21	Disease 2705 2713	维生素 D 缺乏
+T22	Disease 2732 2740	维生素 D 缺乏
+T23	Disease 3095 3098	高血压
+T24	Disease 3099 3102	糖尿病
+T25	Disease 3103 3110;3111 3112	甲状腺功能亢进 症
+T26	Disease 3113 3121	甲状腺功能减退症
+T27	Disease 3122 3131	甲状旁腺功能亢进症
+T28	Disease 3132 3135;3136 3139	结缔组 织疾病
+T29	Disease 3140 3146	慢性肝脏疾病
+T30	Disease 3147 3151	肾脏疾病
+T31	Test 3277 3279	血压
+T32	Test 3282 3287;3288 3289	孕前体重指 数
+T33	Test 3549 3556	25(OH)D
+T34	Disease 3916 3921;3922 3924	维生素 D 缺乏
+T35	Test 3926 3933	25(OH)D
+T36	Test_Value 3933 3944	<20 ng / ml
+T37	Disease 3949 3957	维生素 D 不足
+T38	Test_Value 3973 3984	<30 ng / ml
+T39	Test 4001 4008	25(OH)D
+T40	Test_Value 4008 4019	≥30 ng / ml
+T41	Test_Value 6608 6617;6618 6624	(13. 17 ± 5. 56)
+T42	Test_Value 6625 6641	(24. 15 ± 9. 61)
+T43	Test_Value 6642 6658	(18. 59 ± 7. 39)
+T44	Test_Value 6659 6668;6669 6683	(13. 44 ± 5. 15) ng / ml
+T45	Test 6776 6786	血清 25(OH)D
+T46	Test 6787 6788;6789 6790	血 钙
+T47	Test 6927 6937	血清 25(OH)D
+T48	Disease 7004 7012	维生素 D 缺乏
+T49	Disease 7056 7058;7059 7068	维生 素 D 缺乏或不足
+T50	Anatomy 7101 7103	皮肤
+T51	Anatomy 7224 7228	皮肤组织
+T52	Disease 7487 7495	骨骼的代谢性疾病
+T53	Disease 7497 7502	心血管疾病
+T54	Disease 7503 7506	糖尿病
+T55	Disease 7507 7512	代谢综合症
+T56	Disease 7513 7520	自身免疫性疾病
+T57	Reason 7527 7529	纬度
+T58	Reason 7530 7532	季节
+T59	Reason 7533 7537	日照时间
+T60	Reason 7538 7542	肤色深浅
+T61	Reason 7543 7547	饮食习惯
+T62	Reason 7549 7553	生活习惯
+T63	Disease 7555 7566	维生素 D 不足与缺乏
+T64	Test 7964 7971	25(OH)D
+T65	Test_Value 7974 7975;7976 7986	< 10 ng / ml
+T66	Test_Value 7997 8012	10 ~ 20 ng / ml
+T67	Test_Value 8024 8028;8029 8036	> 20 ng / ml
+T68	Disease 8046 8057	维生素 D 不足或缺乏
+T69	Disease 8107 8110	妊高症
+T70	Disease 8115 8117	肥胖
+T71	Disease 8140 8144	骨质疏松
+T72	Disease 8145 8147	骨折
+T73	Disease 8162 8166	颅骨软化
+T74	Disease 8167 8171	低钙抽搐
+T75	Disease 8176 8178;8179 8183	智力 发育障碍
+T76	Disease 8184 8188	骨骼畸形
+T77	Disease 8194 8197	佝偻病
+T78	Anatomy 8223 8227	T 细胞
+T79	Anatomy 8235 8239	B 细胞
+T80	Anatomy 8248 8252	免疫细胞
+T81	Disease 8306 8310;8311 8315	妊娠早期 病毒感染
+T82	Disease 8333 8334;8335 8340	先 天性心脏病
+T83	Drug 8416 8417;8418 8422	维 生素 D
+T84	Amount 8422 8430	4 000 IU
+T85	Test_Value 8444 8457	大于 40 ng / ml
+T86	Disease 8463 8474	维生素 D 不足或缺乏
+T87	Test_Value 8525 8539	17. 86 ng / ml
+T88	Test_Value 8559 8572	0. 83 ng / ml
+T89	Test_Value 8588 8602	17. 05 ng / ml
+T90	Disease 8603 8616	25(OH)D 缺乏和不足
+T91	Drug 8850 8855	复合维生素
+T92	Drug 8856 8859;8860 8861	碳酸钙 D
+T93	Drug 8955 8960	维生素 D
+T94	Amount 9037 9043	600 IU
+T95	Drug 9025 9030	维生素 D
+T96	Amount 9071 9087	1 500 ~ 2 000 IU
+T97	Disease 9180 9191	维生素 D 缺乏和不足
+T98	Test 9360 9367	25(OH)D
+T99	Disease 9460 9470;9471 9472	维生素 D 缺乏和不 足
+T100	Drug 9595 9598;9599 9603	维生素 D 制剂
+T101	Drug 752 757	维生素 D
+T102	Drug 783 788	维生素 D
+T103	Drug 2925 2930	维生素 D
+T104	Drug 2932 2937	维生素 D
+T105	Drug 3990 3995	维生素 D
+T106	Drug 5915 5920	维生素 D
+T107	Drug 5967 5972	维生素 D
+T108	Drug 6359 6364	维生素 D
+T109	Drug 8370 8375	维生素 D
+T110	Drug 9134 9139	维生素 D
+T111	Drug 9580 9585	维生素 D
+T112	Disease 7579 7587	维生素 D 缺乏
+T113	Test 7726 7736	血清 25(OH)D
+T114	Test 1562 1569	25(OH)D
+T115	Test 1602 1609	25(OH)D
+T116	Test 1639 1646	25(OH)D
+T117	Test 1687 1694	25(OH)D
+T118	Test 2050 2057	25(OH)D
+T119	Test 3413 3420	25(OH)D
+T120	Test 4203 4210	25(OH)D
+T121	Test 4272 4279	25(OH)D
+T122	Test 4309 4316	25(OH)D
+T123	Test 5388 5395	25(OH)D
+T124	Test 5407 5414	25(OH)D
+T125	Test 5426 5433	25(OH)D
+T126	Test 5444 5451	25(OH)D
+T127	Test 5455 5462	25(OH)D
+T128	Test 5482 5489	25(OH)D
+T129	Test 5493 5500	25(OH)D
+T130	Test 5523 5530	25(OH)D
+T131	Test 5534 5541	25(OH)D
+T132	Test 5903 5910	25(OH)D
+T133	Test 5985 5992	25(OH)D
+T134	Test 6036 6043	25(OH)D
+T135	Test 6054 6061	25(OH)D
+T136	Test 6065 6072	25(OH)D
+T137	Test 6089 6096	25(OH)D
+T138	Test 6100 6107	25(OH)D
+T139	Test 6127 6134	25(OH)D
+T140	Test 6138 6145	25(OH)D
+T141	Test 6347 6354	25(OH)D
+T142	Test 6538 6545	25(OH)D
+T143	Test 6715 6722	25(OH)D
+T144	Test 7944 7951	25(OH)D
+T145	Test 4949 4953	体重指数
+T146	Test 4997 5000	收缩压
+T147	Test 5032 5035	舒张压
+T148	Disease 231 233	MS
+T149	Test 4522 4524	身高
+T150	Test 4878 4880	体重
+T151	Test 4918 4920	体重
+T152	Anatomy 7275 7276	肝
+T153	Anatomy 7277 7278	肾
+T154	Disease 8123 8128	剖腹产风险
+T155	Anatomy 8254 8256;8257 8258	抗菌 肽
+T156	Reason 8647 8651	地理环境
+T157	Reason 8752 8756	生活习惯
+T158	Reason 8757 8761	膳食情况
+T159	Amount 8967 8970;8971 8973	300 IU
+T160	Drug 8863 8868	维生素 D
+T161	Drug 8942 8947	维生素 D
+T162	Drug 9007 9012	维生素 D
+T163	Anatomy 9198 9203	维生素 D
+T164	Anatomy 9218 9223	维生素 D
+T165	Anatomy 9238 9243	维生素 D
+T166	Anatomy 9324 9329	维生素 D
+T167	Test 3308 3310	季节
+T168	Test 3602 3613	25 ( OH) D2
+T169	Test_Value 3621 3636;3637 3644	2. 16 ~ 104. 00 ng / ml
+T170	Test 3701 3712	25 ( OH) D3
+T171	Test_Value 3720 3743	2. 64 ~ 126. 00 ng / ml
+T172	Test 3790 3801	25 ( OH ) D
+T173	Reason 6500 6508	孕期户外活动时间
+T174	Test 6415 6421	户外活动时间
+T175	Test_Value 6422 6441	(44. 9 ± 27. 5) min
+T176	Reason 6571 6573	季节
+T177	Anatomy 7230 7237	7-脱氢胆固醇
+T178	Anatomy 7308 7319	1,25(OH) 2D
+T179	Anatomy 7327 7332	类固醇激素
+T180	Anatomy 7348 7360	1,25(OH) 2 D
+T181	Test_Value 7739 7750	<10 ng / ml
+T182	Test 7851 7861	25 ( OH) D
+T183	Test_Value 7862 7866;7867 7874	< 20 ng / ml
+T184	Test_Value 7910 7921	<20 ng / ml
+T185	Frequency 8412 8414	每天
+T186	Drug 8812 8817	复合维生素
+T187	Test 6486 6490	体重指数
+T188	Test 6481 6483	体重
+T189	Test_Value 278 289	<20 ng / ml
+T190	Test 271 278	25(OH)D
+T191	Test_Value 306 317	<30 ng / ml
+T192	Test 295 306	20≤25(OH) D
+T193	Test 322 331	25 (OH) D
+T194	Test_Value 331 342	≥30 ng / ml
+T195	Test 478 485	25(OH)D
+T196	Test 541 548	25(OH)D
+T197	Test 3362 3372	血清 25(OH)D
+T198	Test_Value 3960 3963	20≤
+T199	Test 3963 3972	25 (OH) D
+T200	Test 4174 4184	血清 25(OH)D
+T201	Test 6574 6581	25(OH)D
+T202	Test 6593 6600	25(OH)D
+T203	Test 6845 6855	血清 25(OH)D
+T204	Anatomy 7622 7624;7625 7628	维生 素 D
+T205	Disease 8082 8089;8090 8091	维生素 D 缺 乏
+T206	Symptom 8135 8139	骨量减少
+T207	Test 8432 8441	血 25(OH)D
+T208	Test 8504 8511	25(OH)D
+T209	Test 8545 8553	25(OH)D2
+T210	Test 8573 8581	25(OH)D3
+T211	Drug 8838 8843	维生素 D
+T212	Amount 8872 8879	≤125 IU
+T213	Anatomy 47 52	维生素 D
+T214	Anatomy 120 129	25-羟维生素 D
+T215	Disease 735 743	维生素 D 缺乏
+T216	Disease 2677 2685	维生素 D 不足
+T217	Anatomy 2752 2758;2759 2763	25-羟基维 生素 D
+T218	Anatomy 2824 2829	维生素 D
+T219	Anatomy 2863 2868	维生素 D
+T220	Anatomy 2900 2905	维生素 D
+T221	Test 3588 3593;3594 3600	25-羟基 维生素 D2
+T222	Test 3688 3699	25-羟基维生素 D3
+T223	Drug 3835 3840	维生素 D
+T224	Disease 3869 3877	维生素 D 缺乏
+T225	Anatomy 7075 7080	维生素 D
+T226	Anatomy 7105 7110	维生素 D
+T227	Anatomy 7131 7138	活性维生素 D
+T228	Anatomy 7157 7162	维生素 D
+T229	Anatomy 7168 7174	维生素 D2
+T230	Anatomy 7175 7181	维生素 D3
+T231	Anatomy 7182 7188	维生素 D2
+T232	Anatomy 7214 7220	维生素 D3
+T233	Anatomy 7264 7269	维生素 D
+T234	Anatomy 7284 7291	活性维生素 D
+T235	Anatomy 7294 7303;7304 7307	1,25-二羟维生 素 D
+T236	Anatomy 7453 7458	维生素 D
+T237	Reason 7472 7480	维生素 D 缺乏
+T238	Anatomy 8213 8218	维生素 D
+T239	Anatomy 8881 8886	维生素 D
+T240	Disease 8985 8993	维生素 D 缺乏
+T241	Disease 9050 9055;9056 9058	维生素 D 缺乏
+T242	Anatomy 9253 9258	维生素 D
+T243	Disease 9490 9497;9498 9502	维生素 D 缺 乏和不足
+T244	Disease 9533 9541	维生素 D 缺乏
+T245	Disease 8278 8286	维生素 D 不足
+T246	Anatomy 130 137	25(OH)D
+T247	Test 258 265	25(OH)D
+T248	Test 403 410	25(OH)D
+T249	Anatomy 2764 2771	25(OH)D
+T250	Test 3810 3818	25(OH)D2
+T251	Test 3820 3828	25(OH)D3
+T252	Test 3894 3901	25(OH)D
+T253	Test 7793 7800	25(OH)D
+T254	Test 7899 7906	25(OH)D

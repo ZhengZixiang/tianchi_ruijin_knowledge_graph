@@ -1,0 +1,271 @@
+基础研究
+校临床医学重点学科开放实验室;第一作者现在郑州大学附属郑州市
+中心医院
+叉头状转录因子 O1 对糖尿病大鼠足细胞4型胶原和 desmin
+表达的影响
+张媛媛  王庆祝  秦贵军  周英旎  马晓君
+[提要]   旨在探讨叉头状转录因子 O1(FoxO1)对糖尿病大鼠足细胞4型胶原和结蛋白(desmin)表达
+的影响。 建立糖尿病大鼠模型,随机分为糖尿病+空慢病毒载体(LV-pSC-GFP)感染组(LV-NC 组)、糖尿病
++大鼠结构性活性 FoxO1 慢病毒载体(LV-FoxO1-AAA)感染组(LV-CA 组)、糖尿病组(DM 组),另设对照
+组。 于慢病毒感染后的 2、4、8 周末,测大鼠尿白蛋白、体重、血糖、血肌酐、尿素氮,光镜和透射电镜下观察
+肾小球及其足细胞结构变化,实时定量 PCR 和 Western 印迹法检测大鼠肾皮质中 FoxO1、4型胶原 α3 链
+(COL4A3)、4型胶原 α5 链(COL4A5)、desmin mRNA 和蛋白的表达。 与 LV-NC、DM 组相比,LV-CA 组大
+鼠肾脏 FoxO1 mRNA、蛋白表达水平明显升高(P<0. 05),尿白蛋白、血肌酐、尿素氮明显降低(2 周除外)
+(P<0. 05),肾脏中 COL4A3、COL4A5、desmin mRNA 和蛋白水平也明显降低(P<0. 05),肾脏病理学变化有
+明显改善。 通过靶向注射慢病毒载体来上调 FoxO1 的表达可改善糖尿病大鼠足细胞4型胶原和 desmin 的
+异常表达。
+[关键词]   糖尿病肾病; 叉头状转录因子 O1; 足细胞; 4型胶原; 结蛋白
+Effects of forkhead transcription factor O1 on the expression of type 郁 collagen and desmin in podocytes of
+diabetic rats Zhang Yuanyuan, Wang Qingzhu, Qin Guijun, Zhou Yingni, Ma Xiaojun. Department of
+Endocrinology and Metabolism, the First Affiliated Hospital of Zhengzhou University, Institute of Clinical Medicine, the
+First Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, China
+[Summary]   To study the effects of forkhead transcription factor O1 (FoxO1) on the expression of type 郁
+collagen and desmin in podocytes of diabetic rats. Streptozotocin-induced diabetic rats were divided into three groups:
+diabetic rats (DM group), rats transfected with blank lentiviral vectors ( diabetes mellitus plus LV-pSC-GFP group,
+LV-NC group), and rats which were transfected with lentiviral vectors carrying constitutively active FoxO1 (diabetes
+mellitus plus LV-FoxO1-AAA group, LV-CA group). Rats which received an injection of diluent buffer served as
+normal control. At 2, 4, and 8 weeks after transfection, the levels of urine albumin, blood glucose, blood urea
+nitrogen, and serum creatinine were measured. Realtime PCR and Western blotting were performed to measure the
+mRNA and protein levels of FoxO1, COL4A3, COL4A5, and desmin in the renal cortex. Moreover, light microscope
+and electron microscope were used to observe the structural changes in glomerulus and podocytes. Compared with LV-
+NC and DM group, in LV-CA group, there was a significant increase in the mRNA and protein levels of FoxO1, and a
+distinct decrease in the levels of urine albumin, blood urea nitrogen and serum creatinine of rats ( except at the two-
+week time point) (all P<0. 05), the mRNA and protein levels of COL4A3, COL4A5, and desmin were all decreased
+(all P<0. 05), and pathological changes in kidney were also improved. Upregulating the expression of FoxO1 by
+transfecting with constructed lentiviral vectors can definitely improve the abnormal expression of type 郁 collagen and
+desmin in podocytes of diabetic rats.
+[Key words]  Diabetic nephropathy; Forkhead transcription factor O1; Podocytes; Type 郁 collagen; Desmin
+(Chin J Endocrinol Metab, 2015, 31: 354-359)
+糖尿病肾病是糖尿病常见的微血管并发症,足细胞在糖尿
+病肾病中其损伤常表现为足突融合消失、细胞体积逐渐变小、
+阴离子电荷减少,最终脱落并从尿液中排出[1] 。 足细胞的损伤
+在糖尿病肾病发生发展中,被认为是引起蛋白尿和肾小球硬化
+的关键[2] 。 研究表明,受损的足细胞可引起结蛋白(desmin)表
+达增多,高糖刺激可引起足细胞分泌4型胶原增多[3,4] 。
+叉头 状 转 录 因 子 O1 ( forkhead transcription factor O1,
+FoxO1)是 FoxO 家族中的一员,被蛋白激酶 B(PKB / Akt)磷酸
+化形成其磷酸化形式(p-FoxO1)后其转录活性降低,导致靶基
+因的表达下降[5] 。 有文献报道,磷酸肌醇 3 激酶(PI3K) / Akt
+信号通路可能参与了糖尿病肾病足细胞损伤的发生、发展[6] 。
+而 FoxO1 作为 PI3K / Akt 信号通路的下游因子,其活性改变很
+可能也参与了糖尿病肾病足细胞的损伤过程。 本课题组前期
+研究发现糖尿病肾病大鼠肾脏 FoxO1 的表达及活性下降[7] ;后
+期又观察到糖尿病肾病治疗组大鼠肾脏的 FoxO1 较未治疗组
+磷酸化水平显著降低,活性显著增强,电镜下足突融合减轻,提
+示 FoxO1 的活性变化可能和足细胞损伤有关,但是并未验证两
+者的直接关系[8] ;目前国内外也没有相关报道。 本研究旨在通
+过上调 FoxO1 的表达,观察其对糖尿病大鼠受损足细胞4型胶
+原和 desmin 表达的影响,从而探讨 FoxO1 是否对糖尿病大鼠足
+细胞损伤有影响。
+一、 材料和方法
+1. 实验材料:雄性健康 SD 大鼠,体重(100 ± 20) g 由河南
+省实验动物中心提供,链脲佐菌素(Sigma 公司),慢病毒包装
+(上海吉玛制药技术有限公司),大鼠尿白蛋白定量检测试剂盒
+(上海西唐生物科技有限公司),超纯 RNA 提取试剂盒、
+UltraSYBR Mixture(北京康为世纪有限公司),cDNA 合成试剂
+盒(TOYOBO 公司),PCR 引物(上海生工生物工程股份有限公
+司),desmin 兔单克隆抗体(CST 公司),FoxO1 兔单克隆抗体
+(abcam 公司),4型胶原 α3 链( type 郁 collagen α3, COL4A3)
+羊多克隆抗体、4型胶原 α5 链(type 郁 collagen α5, COL4A5)、
+p-FoxO1 兔多克隆抗体(Santa Cruz 公司)。
+2. 动物模型的建立与分组:SD 大鼠 120 只,在独立通气笼
+具系统中喂养。 待大鼠达到 8 周龄,体重(220 ± 20) g,简单随
+机抽样法选取 90 只建立糖尿病大鼠模型,分为糖尿病+空慢病
+毒载体(LV-pSC-GFP)感染组(LV-NC 组,n= 30),糖尿病+大鼠
+结构性活性 FoxO1 慢病毒载体(LV-FoxO1-AAA)感染组(LV-
+CA 组,n=30),糖尿病组(DM 组,n = 30)。 余下的注射等体积
+柠檬酸钠-柠檬酸缓冲液作为正常对照组(NC 组,n = 30)。 糖
+尿病大鼠造模方法如下:禁食 12 h 后,按 60 mg / kg 一次性腹腔
+注射 1% 链脲佐菌素溶液,72 h 后连续 3 次测血糖≥16. 7
+mmol / L,为糖尿病成模标准。 待糖尿病大鼠造模成功、血糖稳
+定 5 d 后,采用肾脏多部位靶向注射重组慢病毒的方法分别将
+100 滋l LV-pSC-GFP、LV-FoxO1-AAA 注射到 LV-NC、LV-CA 组大
+鼠的右肾皮质多个部位[9] 。 NC 组和 DM 组则注射等量的生理
+盐水。 于感染后的 2、4、8 周末,测量各项指标。
+3. 慢病毒滴度确定:慢病毒滴度检测为 7×108 TU / ml,综
+合考虑慢病毒感染效率及细胞毒性后明确感染大鼠的最佳感
+染量为 100 滋l。
+4. 各组大鼠的具体处理方法:(1)各组大鼠分别在上述 3
+个观察点(感染后 2、4、8 周末)测体重、血糖、血肌酐、尿素氮。
+处死大鼠前将其置于代谢笼,收集其 24 h 尿,测 24 h 尿蛋白及
+24 h 尿白蛋白,处死大鼠取出右肾去包膜测肾重计算肾重指
+数=(右)肾重(g) /体重(g),并进行以下取材。 (2)LV-NC、LV-
+CA 组大鼠取右肾背侧下 1 / 2 做冰冻切片以及光镜切片,NC、
+DM 组直接将切下的背侧下 1 / 2 组织置于 4% 多聚甲醛中固定
+用于制作光镜切片。 LV-NC、LV-CA、NC、DM 组取米粒(约 1
+mm3)大小肾组织(包括注射点在内)迅速放入冷戊二醛固定液
+中用于电镜观察,剩余肾组织迅速置于-80℃冰箱里,用于实时
+定量 PCR 和 Western 印迹法检测。
+5. 实时定量 PCR 检测 FoxO1、COL4A3、COL4A5、desmin
+mRNA 的表达:提取组织中总 RNA,测量 RNA 的浓度及纯度,
+逆转录成 cDNA,进行实时定量 PCR。 基因引物见表 1。 实时
+定量 PCR 反应条件为:95℃ 预变性 10 min,进入以下循环:95
+益,15 s寅60℃,60 s,循环 35 ~ 40 周。 每份样本的基因拷贝数
+以 Ct 值表示,以 GAPDH 作为内参,相对基因表达水平=2-△△Ct。
+6. Western 印迹法检测 FoxO1、p-FoxO1、COL4A3、COL4A5、
+desmin 蛋白的表达:提取肾组织蛋白并测蛋白浓度,蛋白变性
+后经聚丙烯酰胺凝胶电泳、转膜、封闭,加入相应的一抗,4℃过
+夜,TBST 洗膜后加二抗,孵育、洗膜、ECL 进行显影,用美国
+Alpha Innotech 成像系统对膜进行扫描,通过 ImageJ 软件对图
+像进行灰度值测定,以 GAPDH 作为内参,则目的蛋白与内参灰
+度值的比值,则为该目的蛋白的相对含量。
+7. 统计学处理:采用 SPSS 17. 0 统计软件进行数据分析。
+计量资料用 x-± s 表示,非正态分布资料经对数转换正态化后进
+行分析,多组间比较采用单因素方差分析。 以 P<0. 05 为差异
+有统计学意义。
+二、 结果
+1. 转染情况:在 2、4、8 周末,荧光显微镜下可观察到 LV-
+NC 组和 LV-CA 组大鼠肾脏中均有绿色荧光蛋白的表达,提示
+慢病毒在大鼠肾皮质中成功且稳定地转染。
+2. 一般情况及生化指标:2 周末,4 组大鼠的 24 h 尿蛋白、
+24 h 尿白蛋白、血肌酐、尿素氮无显著差异(P>0. 05);与 NC 组
+比较,LV-NC、DM 组血糖、肾重指数升高(均 P<0. 05),体重降
+低(P<0. 05),与 LV-NC、DM 组比,LV-CA 组血糖、体重无显著
+差异(P>0. 05),肾重指数降低(P<0. 05),但仍高于 LV-NC 组
+(P<0. 05)。 在 4、8 周末,与 NC 组相比,LV-NC、DM 组血糖、肾
+重指数、24 h 尿蛋白、24 h 尿白蛋白、血肌酐、尿素氮水平显著
+升高,体重水平明显降低(均 P<0. 05);与 LV-NC、DM 组比较,
+LV-CA 组肾重指数、24 h 尿蛋白、24 h 尿白蛋白、血肌酐和尿素
+氮水平明显降低(均 P<0. 05),但仍高于 NC 组(P<0. 05),LV-
+CA 组血糖、体重水平与 LV-NC、DM 组相比,差异无统计学意义
+(P>0. 05)。 LV-NC、DM 组各观察点各项指标均无显著性差异
+(P>0. 05,表 2)。
+3. 肾脏中 FoxO1、COL4A3、COL4A5 和 desmin mRNA 的表
+达:2、4、8 周末,LV-NC、DM 组大鼠肾脏中 FoxO1 mRNA 表达水
+平显著低于 NC 组(P<0. 05);LV-CA 组 FoxO1 mRNA 表达水平
+表 1  实时定量 PCR 引物序列
+基因 上游引物(5'-3')
+下游引物
+(5'-3')
+产物长度
+(bp)
+FoxO1 TGCCAAACTCACTACACCACTT ACACACACACACACAGATACGG 111
+COL4A3 CTCCAGGCTTCCAGGGTTTAC CCTTCTTGTCCTATCGTGCTATC 148
+COL4A5 AGTCCCAACAGAAGGCAAAGT GAGCGAGAACAAGAAGAGAAGG 94
+desmin GTCCTACACCTGCGAGATTGAT GATGTTGTCCTGATAGCCACTG 115
+GAPDH ACAGCAACAGGGTGGTGGAC TTTGAGGGTGCAGCGAACTT 252
+注:FoxO1: 叉头状转录因子 O1; COL4A3: 4型胶原 α3 链; COL4A5: 4型胶原 α5 链; desmin: 结蛋白; GAPDH: 内参基因
+表 2  各组大鼠体重、肾重指数和生化指标在 2、4、8 周末的比较(x-± s)
+组别 时间 鼠数 体重(g)
+血糖
+(mmol / L)
+肾重指数
+(×10-3)
+24 h 尿蛋白
+(mg / 24 h)
+24 h 尿白蛋白
+(mg / 24 h)
+血肌酐
+(μmol / L)
+尿素氮
+(mmol / L)
+NC 2 周 10 374 ± 18 6. 4 ± 0. 7 3. 3 ± 0. 2 6. 9 ± 1. 1 0. 25 ± 0. 04 37. 3 ± 1. 7 5. 5 ± 0. 4
+4 周 10 428 ± 27 6. 6 ± 1. 0 3. 1 ± 0. 2 6. 7 ± 0. 5 0. 27 ± 0. 05 34. 6 ± 4. 1 6. 1 ± 0. 3
+8 周 10 548 ± 19 7. 1 ± 1. 5 3. 2 ± 0. 3 6. 7 ± 0. 8 0. 27 ± 0. 06 35. 5 ± 3. 1 5. 1 ± 0. 5
+DM 2 周 9 224 ± 17a 27. 7 ± 1. 3a 5. 4 ± 0. 4a 7. 6 ± 1. 0 0. 28 ± 0. 05 40. 4 ± 2. 6 5. 9 ± 0. 2
+4 周 9 245 ± 27a 31. 1 ± 1. 4a 6. 2 ± 0. 3a 14. 5 ± 0. 7a 0. 61 ± 0. 06a 56. 9 ± 4. 1a 11. 5 ± 1. 2a
+8 周 10 270 ± 25a 31. 6 ± 2. 0a 8. 3 ± 0. 3a 27. 4 ± 1. 2a 0. 93 ± 0. 10a 78. 6 ± 4. 5a 17. 4 ± 0. 9a
+LV-NC 2 周 9 219 ± 13a 28. 3 ± 0. 7a 5. 4 ± 0. 2a 7. 6 ± 1. 0 0. 28 ± 0. 07 39. 0 ± 2. 2 5. 8 ± 0. 4
+4 周 9 250 ± 26a 31. 7 ± 1. 2a 6. 4 ± 0. 3a 15. 2 ± 0. 9a 0. 56 ± 0. 07a 52. 8 ± 5. 8a 11. 0 ± 0. 9a
+8 周 10 274 ± 12a 32. 4 ± 1. 0a 8. 2 ± 0. 3a 26. 8 ± 1. 4a 1. 00 ± 0. 12a 79. 7 ± 6. 7a 17. 6 ± 1. 0a
+LV-CA 2 周 9 230 ± 12a 27. 8 ± 1. 2a 4. 8 ± 0. 3abc 7. 7 ± 0. 8 0. 27 ± 0. 05 38. 6 ± 2. 1 5. 7 ± 0. 8
+4 周 9 267 ± 25a 32. 0 ± 0. 9a 5. 4 ± 0. 3abc 11. 6 ± 0. 8abc 0. 43 ± 0. 06abc 45. 6 ± 4. 5abc 7. 9 ± 0. 7abc
+8 周 10 282 ± 18a 31. 7 ± 1. 3a 6. 4 ± 0. 4abc 17. 2 ± 1. 2abc 0. 63 ± 0. 07abc 58. 6 ± 4. 3abc 14. 6 ± 0. 7abc
+注:NC:正常对照组;DM:糖尿病组;LV-NC:糖尿病+空慢病毒载体(LV-pSC-GFP)感染组;LV-CA:糖尿病+大鼠结构性活性叉头状转录因子 O1
+慢病毒载体(LV-FoxO1-AAA)感染组;与 NC 组相比, aP<0. 05;与 DM 组相比, bP<0. 05;与 LV-NC 组相比, cP<0. 05
+注:FoxO1:叉头状转录因子 O1;COL4A3:4型胶原 α3 链;COL4A5:4型胶原 α5 链;desmin:结蛋白;NC:正常对照组;DM:糖尿病组;LV-NC:糖尿
+病+空慢病毒载体(LV-pSC-GFP)感染组;LV-CA:糖尿病+大鼠结构性活性叉头状转录因子 O1 慢病毒载体(LV-FoxO1-AAA)感染组;与 NC 组相比,
+aP<0. 05;与 DM 组相比, bP<0. 05;与 LV-NC 组相比, cP<0. 05
+图 1  2、4、8 周末各组大鼠肾脏 FoxO1、COL4A3、COL4A5、desmin mRNA 相对水平
+显著高于 NC 组 (P < 0. 05)。 LV-NC 组和 DM 组肾皮质中
+COL4A3、COL4A5 及 desmin mRNA 表达水平显著高于 NC 组
+(P<0. 05);LV-CA 组这三项指标较 LV-NC 和 DM 组显著下降
+(P<0. 05),但仍高于 NC 组(P<0. 05)。 LV-NC 组和 DM 组各
+项指标无显著差异(P>0. 05)。 除正常组外,各组各项指标呈
+时间依赖性变化(图 1)。
+4. 肾脏中 FoxO1、p-FoxO1、COL4A3、COL4A5 和 desmin 蛋
+白的表达:2、4、8 周末,LV-CA 组大鼠肾脏中 FoxO1 蛋白表达水
+平显著高于 LV-NC、NC、DM 组(P<0. 05),LV-NC、NC、DM 组
+FoxO1 蛋白无显著性差异(P>0. 05)。 LV-NC、DM 组肾脏的
+p-FoxO1、COL4A3、COL4A5 以及 desmin 的蛋白表达水平显著高
+于 NC 组(P<0. 05);LV-CA 组的 COL4A3、COL4A5 以及 desmin
+蛋白这三项指标较 LV-NC、DM 组显著下降(P<0. 05),但仍高
+于 NC 组(P<0. 05),同时 LV-CA 组的 p-FoxO1 蛋白表达水平显
+著高于 LV-NC、DM 组(P<0. 05)。 LV-NC 组和 DM 组各项指标
+差异无统计学意义(P>0. 05)。 除正常组外,各组各项指标呈
+时间依赖性变化(图 2、3)。
+5. 光镜及电镜下肾脏组织形态学变化:光镜下 NC 组大鼠
+肾小球结构未见明显异常,LV-NC、DM 组差异不大,可见肾小
+球体积增大,系膜细胞增生,细胞外基质增多,基底膜增厚,以 8
+周末变化最明显;电镜下 NC 组大鼠肾小球结构未见明显异常,
+未见基底膜及内皮细胞增生,足突均匀分布,LV-NC、DM 组差
+异不大,可见肾小球基底膜增厚,厚薄不均匀,足突增宽甚至融
+合消失, 以 8 周末变化最为显著, LV-CA 组大鼠肾小球病理变
+注:FoxO1:叉头状转录因子 O1;COL4A3:4型胶原 α3 链;COL4A5:4型胶原 α5 链;desmin:结蛋白;NC:正常对照组;DM:糖尿病组;LV-NC:糖尿
+病+空慢病毒载体(LV-pSC-GFP)感染组;LV-CA:糖尿病+大鼠结构性活性叉头状转录因子 O1 慢病毒载体(LV-FoxO1-AAA)感染组;p-FoxO1:磷酸化
+FoxO1
+图 2  2、4、8 周末各组大鼠 FoxO1、p-FoxO1、COL4A3、COL4A5、desmin 蛋白 Western 印迹法结果
+注:FoxO1:叉头状转录因子 O1;COL4A3:4型胶原 α3 链;COL4A5:4型胶原 α5 链;desmin:结蛋白;NC:正常对照组;DM:糖尿病组;LV-NC:糖尿
+病+空慢病毒载体(LV-pSC-GFP)感染组;LV-CA 组:糖尿病+大鼠结构性活性叉头状转录因子 O1 慢病毒载体(LV-FoxO1-AAA)感染组;p-FoxO1:磷酸
+化 FoxO1;与 NC 组相比, aP<0. 05;与 DM 组相比, bP<0. 05;与 LV-NC 组相比, cP<0. 05
+图 3  2、4、8 周末各组大鼠 FoxO1、p-FoxO1、COL4A3、COL4A5、desmin 蛋白表达水平
+注:(A)光镜下大鼠肾小球结构变化(HE×200); (B)电镜下大鼠肾脏超微结构( ×20 000); NC:正常对照组; DM:糖尿病组;LV-NC:糖尿病+空
+慢病毒载体(LV-pSC-GFP)感染组; LV-CA:糖尿病+大鼠结构性活性叉头状转录因子 O1 慢病毒载体(LV-FoxO1-AAA)感染组
+图 4  各组大鼠肾脏病理学变化
+化有明显改善(图 4)。
+三、 讨论
+足细胞作为滤过屏障的重要组成部分,是终末分化、增生
+能力差的细胞,极易受损[10] 。 当其受损脱落的速度超过了自
+身的代偿能力时,就引起滤过屏障完整性的破坏,从而导致大
+量蛋白尿的形成[11] 。 有研究表明,成熟的肾小球内4型胶
+原的 α3、α4、α5 三链只起源于足细胞,且主要位于肾小球基底
+膜中,当足细胞不断受到刺激,引起4型胶原分泌增多,从而导
+致基底膜增厚[12] 。 因此测量肾脏 COL4A3、COL4A5 表达水平
+对检测足细胞损伤有很大意义。 Desmin 是一种细胞骨架中间
+丝蛋白成分,正常情况下 desmin 在足细胞无明显的表达,但在
+某些因素引起足细胞受损时,其表达量可明显增加,因此可作
+为足细胞损伤的标志[3] 。
+目前,关于 FoxO1 与糖尿病关系的研究主要集中在糖脂代
+谢、抗氧化应激等方面[7,8,13,14] ;FoxO1 与足细胞损伤的关系尚
+不明确。 本课题组前期研究发现 FoxO1 能够抑制高糖培养的
+系膜细胞快速增殖[15] ;而肾小球足细胞和系膜病变都作为糖
+尿病肾病发生发展的重要因素,FoxO1 是否对糖尿病足细胞也
+有影响呢? 本研究通过检测慢病毒感染后大鼠的各项指标,来
+观察 FoxO1 对肾脏足细胞4型胶原和 desmin 在糖尿病病程进
+展中表达的影响,从而来探讨 FoxO1 对足细胞损伤的影响。
+慢病毒,低免疫原性,其基因组能够整合于宿主基因组,且
+长时间稳定表达外源基因,同时携带的绿色荧光蛋白方便检测
+感染部位和感染率。 因此适用于该实验,并且可以用荧光显微
+镜观测其感染水平。
+本研究观察了 2、4、8 周末糖尿病大鼠(LV-NC、LV-CA、DM
+组)的肾形态结构功能的变化。 肾脏功能检测显示在 2 周末时
+LV-NC、LV-CA、DM 组大鼠的 24 h 尿蛋白、24 h 尿白蛋白、血肌
+酐、尿素氮水平与 NC 组比较无显著性差异。 但是,2 周末这 3
+组大鼠肾脏中 COL4A3、COL4A5 及 desmin 的 mRNA 及蛋白表
+达已明显升高,提示这时糖尿病大鼠足细胞已有损伤形成,这
+些蛋白变化均早于 24 h 尿蛋白、24 h 尿白蛋白的变化,因此可
+以作为糖尿病大鼠足细胞损伤的早期标志,还可以进一步评测
+FoxO1 对足细胞损伤的改善程度。 本实验显示,糖尿病大鼠肾
+脏中 COL4A3、COL4A5 表达增加,与梁馨月等[16] 结果一致,此
+项研究还发现高糖引起足细胞基质金属蛋白酶-9(MMP-9)表
+达减少,导致4型胶原合成降解失衡。
+本研究中 LV-CA 组大鼠 FoxO1 水平及 FoxO1 / p-FoxO1 显
+著高于 LV-NC、NC、DM 组,提示外源性结构性活性 FoxO1 基因
+得到有效表达且 FoxO1 活性增加。 研究中发现 2、4、8 周末 LV-
+CA 组较 LV-NC、DM 组大鼠肾脏中的 COL4A3、COL4A5、desmin
+mRNA 及蛋白水平均有明显下降,除血糖外一般生化指标均得
+到显著改善(2 周末除外),肾脏病理学变化也有明显减轻,提
+示 FoxO1 可下调糖尿病大鼠足细胞4型胶原和 desmin 的表达,
+从而进一步证明了其对足细胞损伤的改善作用。 另外,通过 2、
+4、8 周末各时间点纵向比较 4 组各项指标,发现随时间的延长,
+NC 组各项指标基本不变,LV-NC、DM 组肾脏 COL4A3、COL4A5
+和 desmin 的 mRNA 及蛋白水平逐渐升高,LV-CA 组与 LV-NC、
+DM 组变化趋势一致,但升高的幅度低于 LV-NC、DM 组,说明
+FoxO1 虽然可以改善糖尿病大鼠足细胞4型胶原和 desmin 的
+表达变化,但仍然阻止不了它们随糖尿病病程进展而进行性表
+达增加,可见糖尿病足细胞的损伤是一个不可逆转的过程。
+本研究证实了糖尿病大鼠肾脏 FoxO1 表达及活性降低,通
+过感染慢病毒来上调 FoxO1 的表达及活性,可以降低糖尿病大
+鼠足细胞中 COL4A3、COL4A5、desmin mRNA 及蛋白的表达,提
+示 FoxO1 对糖尿病大鼠足细胞有保护作用,但具体机制还有待
+进一步研究。

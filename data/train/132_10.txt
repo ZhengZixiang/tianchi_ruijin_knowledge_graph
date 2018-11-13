@@ -1,0 +1,118 @@
+临床研究
+与发育重点实验室
+非高密度脂蛋白胆固醇及其与高密度脂蛋白胆固醇比值与
+2 型糖尿病早期肾病的相关性研究
+郑晓  赵伟  欧倩滢  汤莎莎  陈光敏  冯玲  张宏
+[提要]   探讨非高密度脂蛋白胆固醇(non-HDL-C)及其与高密度脂蛋白胆固醇比值(non-HDL-C /
+HDL-C)与 2 型糖尿病早期肾病的关系。 发现 non-HDL-C 及 non-HDL-C / HDL-C 与微量白蛋白尿呈正相关
+(P<0. 05 或 P<0. 01),non-HDL-C / HDL-C 是 2 型糖尿病早期肾病发生的独立危险因素。
+[关键词]   非高密度脂蛋白胆固醇; 糖尿病, 2 型; 微量白蛋白尿; 糖尿病肾病
+Association of non-HDL-cholesterol and non-HDL-cholesterol-to-HDL-cholesterol ratio with early diabetic
+nephropathy in patients with type 2 diabetes mellitus Zheng Xiao, Zhao Wei, Ou Qianying, Tang Shasha,
+Chen Guangmin, Feng Ling, Zhang Hong. Key Laboratory of Hormones and Development (Ministry of Health),
+Metabolic Disease Hospital, Endocrinology Institute, Tianjin Medical University, Tianjin 300070, China
+[Summary]  The association of non-HDL-cholesterol and non-HDL-C-to-HDL-cholesterol ratio (non-HDL-C-
+to-HDL-C ratio) with early diabetic nephropathy in patients with type 2 diabetes mellitus was investigated. Non-HDL-
+C and non-HDL-C-to-HDL-C ratio were positively related with microalbuminuria(P<0. 05 or P<0. 01) . Non-HDL-C-
+to-HDL-C ratio is an independent risk factor of early diabetic nephropathy in patients with type 2 diabetes mellitus.
+[Key words]  Non-HDL-cholesterol; Diabetes mellitus, type 2; Microalbuminuria; Diabetic nephropathy
+(Chin J Endocrinol Metab, 2014, 30: 216-217)
+国外研究发现非高密度脂蛋白胆固醇( non-high density
+lipoprotein cholesterol, non-HDL-C)预测冠心病的风险优于低密
+度脂蛋白胆固醇(LDL-C) [1] ,non-HDL-C 与高密度脂蛋白胆固
+醇(HDL-C)比值(non-HDL-C / HDL-C)对糖尿病心血管病的风
+险预测优于 non-HDL-C 及 LDL-C[2,3] 。 本研究拟探讨 non-
+HDL-C 及 non-HDL-C / HDL 水平与 2 型糖尿病早期肾病的关
+系。
+一、 对象和方法
+1. 对象:选自 2012 年 8 月至 2013 年 3 月于本院初诊住院
+的 2 型糖尿病患者 671 例,均符合 2006 年世界卫生组织修订的
+糖尿病诊断标准;排除心脑血管疾病、酮症、感染、非糖尿病肾
+病、应激状态及其他内分泌疾病;排除入院前 2 周曾服用降血
+脂药及血管紧张素转化酶抑制剂或血管紧张素受体阻断剂类
+药物的患者。 根据 24 h 尿微量白蛋白(MAU),分为单纯糖尿
+病组( SDM 组):MAU < 30 mg / 24 h;2 型糖尿病早期肾病组
+(EDN 组):MAU 30 ~ 300 mg / 24 h。
+2. 方法:收集患者入院时的临床资料,隔夜空腹取静脉血
+测空腹血糖(FBG)、HBA1C、血肌酐、血尿酸、甘油三酯(TG)、总
+胆固醇(TC)、LDL-C、HDL-C 及纤维蛋白原(FIB)。 尿白蛋白
+检测:生化法测定 24 h 尿 MAU,取 2 次平均值。 non-HDL-C 按
+弗洛斯特( Frost) 公式计算,即 non-HDL-C = TC-HDL-C;计算
+non-HDL-C / HDL-C 比值。 Cockcroft-Gauit 公式计算肌酐清除
+率。
+3. 统计学处理:采用 SPSS 16. 0 统计软件,正态资料采用
+独立样本 t 检验,非正态资料采用 Mann-Whitney U 检验。 率的
+比较采用 字2检验。 相关性采用 Person 相关分析。 危险因素采
+用非条件 logistic 回归。 以 P<0. 05 为差异有统计学意义。
+二、 结果
+1. 2 组临床数据比较:EDN 组体重指数、腰围、TG、TC、
+LDL-C、血肌酐、血尿酸、FIB、non-HDL-C、non-HDL-C / HDL-C、
+MAU 以及高血压患病率明显高于 SDM 组,HDL-C 则明显低于
+SDM 组(P<0. 05 或 P<0. 01,表 1)。
+2. 相关性分析:MAU 与病程、HBA1C、TG、TC、LDL-C、血肌
+酐、血尿酸、non-HDL-C 及 nonHDL-C / HDL-C 正相关( r 值分别
+为0. 109、0. 09、 0. 152、0. 150、0. 148、0. 139、 0. 086、 0. 171、
+0. 127,P<0. 05 或 P<0. 01)。 logistic 回归分析发现除病程、腰
+围、高血压、FBG、血尿酸、FIB 外,non-HDL-C / HDL-C 与 2 型糖
+尿病早期肾病密切相关,OR 为 1. 206(95% CI 1. 040 ~ 1. 397)。
+三、 讨论
+MAU 是糖尿病肾病的早期特征。 本研究显示 EDN 组 TG、
+TC、LDL-C 水平明显高于 SDM 组,TG、TC、LDL-C 与 MAU 明显
+正相关,提示血脂在 MAU 的发生发展中起着重要作用。
+Non-HDL-C 是新一项提出的动脉粥样硬化指标,其作为
+LDL-C、极低密度脂蛋白胆固醇和中间密度脂蛋白胆固醇之和,
+更全面地反映血脂代谢状况,检测无需空腹采血,不受饮食影
+响, 仅需计算 TC 与 HDL-C 之差, 临床应用非常方便。 国外研
+表 1  两组 2 型糖尿病患者临床资料比较(x-± s)
+组别 例数(男 / 女) 年龄(岁)
+病程
+(年)
+体重指数
+(kg / m2)
+腰围
+(cm)
+甘油三酯
+(mmol / L)
+总胆固醇
+(mmol / L)
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L)
+空腹血糖
+(mmol / L)
+HBA1C
+(% )
+SDM 组 524(313 / 211) 54 ± 11 6. 9 ± 6. 1 25. 4 ± 3. 6 93 ± 10 1. 9 ± 1. 5 5. 0 ± 1. 1 3. 2 ± 0. 9 1. 3 ± 0. 3 8. 4 ± 2. 3 8. 9 ± 2. 3
+EDN 组 147(91 / 56) 56 ± 13 9. 5 ± 7. 1b 26. 5 ± 3. 5b 96 ± 10b 2. 4 ± 1. 9b 5. 3 ± 1. 2b 3. 3 ± 0. 9a 1. 2 ± 0. 3a 8. 9 ± 2. 7a 9. 2 ± 2. 1
+组别 例数(男 / 女) 血尿酸(μmol / L)
+血肌酐
+(μmol / L)
+纤维蛋白原
+(g / L)
+non-HDL-C
+(mmol / L)
+non-HDL-C /
+HDL-C
+MAU
+(mg / 24 h)
+肌酐清除率
+(ml / min)
+高血压
+(% )
+SDM 组 524(313 / 211) 283. 9 ± 81. 8 64. 4 ± 15. 7 3. 1 ± 0. 8 3. 7 ± 1. 1 3. 0 ± 1. 2 15. 0(12. 5-17. 5) 114. 6 ± 37. 2 43. 9
+EDN 组 147(91 / 56) 313. 6 ± 97. 7b 68. 4 ± 15. 9 3. 4 ± 0. 8b 4. 1 ± 1. 1b 3. 4 ± 1. 3b 61. 2(39. 6-108. 0) b 114. 2 ± 45. 2 65. 3b
+注:SDM 组:单纯糖尿病组;EDN 组:早期糖尿病肾病组;LDL-C:低密度脂蛋白胆固醇;HDL-C:高密度脂蛋白胆固醇;non-HDL-C:非高密度脂蛋
+白胆固醇;non-HDL-C / HDL-C:非高密度脂蛋白胆固醇与高密度脂蛋白胆固醇比值;MAU:24 h 尿微量白蛋白,采用中位数(四分位间距)表示;与
+SDM 组相比,aP<0. 05,bP<0. 01
+究发现 non-HDL-C 除与糖尿病心血管事件相关[1]外,与微血管
+并发症亦明显相关[4] 。 但近期发现 non-HDL-C / HDL-C 对 2 型
+糖尿病心血管事件风险的预测优于 non-HDL、LDL-C[2,3] ,较
+apoB / apoA 更能识别代谢综合征及胰岛素抵抗[5] 。 推测 non-
+HDL-C / HDL-C 可能与 2 型糖尿病早期肾病相关。 本研究显示
+non-HDL-C、non-HDL-C / HDL-C 均与 MAU 呈正相关。 logistic
+回归分析显示, non-HDL-C / HDL-C 是 2 型糖尿病早期肾病的
+独立危险因素,而 TG、TC、LDL-C、non-HDL-C 均未纳入方程。
+因此,在 2 型糖尿病肾病的防治中,除应强调生活方式的
+改变、控制血压、糖脂代谢紊乱及早期抗凝外,还应注意关注
+non-HDL-C 及 non-HDL-C / HDL-C 水平。

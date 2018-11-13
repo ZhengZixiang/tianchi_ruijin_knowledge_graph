@@ -1,0 +1,241 @@
+临床研究
+基金项目:国家自然科学基金项目(81370467)
+硫氧还蛋白相互作用蛋白与糖尿病致病机制关系的探讨
+吴亚利  龙敏  张学翠  吕莉霞  吴锦林  贾方  刘东方
+[提要]   测定不同糖耐量人群血浆中硫氧还蛋白相互作用蛋白 ( thioredoxin-interacting protein,
+TXNIP)水平及与胰岛素抵抗 /胰岛功能失调的关系,并进一步分析 TXNIP 与炎症介质白细胞介素-1β
+(IL-1β)的相关性。 根据口服葡萄糖耐量试验将 93 名健康体检者分为糖尿病组,糖尿病前期组和正常糖
+耐量组。 分别测每组血糖、TXNIP、IL-1β 等生化学指标,并分析 TXNIP 与血糖、IL-1β、稳态模型评估的胰岛
+素抵抗指数(HOMA-IR)、稳态模型评估的胰岛 β 细胞功能指数(HOMA-β)等的关系。 血浆 TXNIP 水平在
+糖尿病前期组明显高于正常糖耐量组,而低于糖尿病组[(355. 35 ± 31. 88 对 274. 36 ± 33. 86, 426. 16 ±
+63. 15)pg / ml, P<0. 01 或 P<0. 05]。 TXNIP 与 IL-1β、HOMA-IR 呈正相关,与 HOMA-β 呈负相关。 血浆中
+TXNIP 水平的变化受血糖浓度的影响。 TXNIP 与炎症介质 IL-1β 有关。 在糖尿病前期患者中,TXNIP 水平
+即有显著升高。
+[关键词]   硫氧还蛋白相互作用蛋白; 白细胞介素-1β; 糖尿病,2 型; 胰岛素抵抗
+The possible relationship between thioredoxin-interacting protein and the pathogenesis of type 2 diabetes
+mellitus    Wu Yali, Long Min, Zhang Xuecui, Lyu Lixia, Wu Jinlin, Jia Fang, Liu Dongfang. Department of
+Endocrinology and Metablism, the Second Affiliated Hospital of Chongqing Medical University, Chongqing 400010,
+China
+[Summary]  To investigate the plasma thioredoxin-interacting protein ( TXNIP) levels in different glucose
+tolerance groups and discuss the relationship between TXNIP and insulin resistance / β-cell dysfunction in diabetes and
+prediabetes, and to investigate the potential relationship between TXNIP and interleukin-1β ( IL-1β). According to
+oral glucose tolerance test, 93 participants were divided into 3 groups: diabetes mellitus group, prediabetes group,
+and normal glucose tolerance group. Plasma TXNIP, IL-1β, and other biochemical indices were measured. The
+relationship between TXNIP and glucose, IL-1β, homeostasis model assessment for insulin resistance (HOMA-IR),
+and homeostasis model assessment for β cell function (HOMA-β) were analyzed by using multiple linear regression
+techniques and Pearson忆s linear correlation analysis. Plasma TXNIP level was higher in prediabetes group compared
+with normal glucose tolerance group, but lower in prediabetes group compared with diabetes mellitus group[(355. 35
+± 31. 88 vs 274. 36 ± 33. 86, 426. 16 ± 63. 15)pg / ml, P<0. 01 or P<0. 05] . TXNIP was positively correlated with
+IL-1β and HOMA-IR, but negatively correlated with HOMA-β. Multiple linear regression analysis indicated that
+IL-1β exerted significant influence on TXNIP ( P < 0. 05 ) . Plasma TXNIP level is affected by blood glucose
+concentration. There is a close relationship between TXNIP and IL-1β. In prediabetes patient, the TXNIP levels have
+already been raised.
+[Key words]  Thioredoxin-interacting protein; Interleukin-1β; Diabetes mellitus, type 2; Insulin resistance
+(Chin J Endocrinol Metab, 2014, 30: 682-685)
+目前全世界糖尿病患者高达 2. 85 亿,据估计,到 2030 年
+可高达 4. 39 亿,影响着全世界 7. 7%的成年人[1] ,其中 95% 以
+上为 2 型糖尿病。 但 2 型糖尿病的具体致病机制仍不明确。
+近期有动物及细胞实验报道,硫氧还蛋白相互作用蛋白
+(thioredoxin-interacting protein, TXNIP)参与了糖尿病的发生、
+发展[2,3] 。 TXNIP,又名硫氧还蛋白结合蛋白 2 ( thioredoxin
+binding protein-2 ), 或 维 生 素 D3 上 调 蛋 白 1 ( vitamin D3
+upregulated protein)。 TXNIP 基因定位于染色体 1q21-23 区,而
+糖尿病基因位于染色体 1q21-24 区,显示了高度的同源性。 且
+有实验表明,在糖尿病小鼠中 TXNIP 的表达明显上调[4] ,而
+TXNIP 表达下降可以改善胰岛素分泌及胰岛素抵抗[5] 。 也有
+研究表明,高糖可以诱导胰岛 β 细胞产生过多的白细胞介素-
+1β(interleukin- 1β, IL-1β)进而引起胰岛素抵抗、胰岛分泌功能
+减损甚至胰岛细胞凋亡[6,7] ,且 TXNIP 在高糖介导 IL-1β 产生
+的过程中起着关键的作用[8] 。 虽有较多的动物及细胞实验证
+实 TXNIP 参与糖尿病的致病机制,可以引起胰岛素抵抗及胰岛
+功能失调。 但目前尚缺乏关于糖尿病患者方面的研究证据。
+一、对象和方法
+1. 对象:受试者共有 93 名,其中有 70 名来自重庆医科大
+学第二附属医院门诊健康体检者,23 名来自招募的健康志愿者
+(2012 年 3 月至 2012 年 8 月)。 且满足以下条件:(1)年龄在
+40 ~ 75 岁之间;(2)既往无糖尿病病史;(3)无高血压(包括单
+纯收缩压增高、舒张压增高以及既往已确诊的高血压)病史;
+(4)无冠心病(包括有劳力性心绞痛症状但未确诊者)病史;
+(5)非妊娠妇女;(6)无明显心、肝、肾功能障碍(如肝肾功能衰
+竭,心衰,中风及脑出血);(7)无糖代谢相关药物服用史;(8)
+无结核、肿瘤病史。
+根据 1999 年世界卫生组织(WHO)的诊断标准行口服葡
+萄糖耐量试验后将受试者分为 3 组:(1)糖尿病组 32 例(男性
+16 例,女性 16 例):空腹血糖≥7. 0 mmol / L,餐后 2 h 血糖≥
+11. 1 mmol / L。 (2)糖尿病前期组 31 例(男性 15 例,女性 16
+例),包括糖耐量受损和空腹血糖受损:6. 1 mmol / L≤ 空腹血
+糖<7. 0 mmol / L 或 7. 8 mmol / L≤ 餐后 2 h 血糖<11. 1 mmol / L。
+(3)正常糖耐量组 30 名(男性 14 名,女性 16 名):空腹血糖<
+6. 1 mmol / L,餐后 2 h 血糖<7. 8 mmol / L。
+2. 方法:(1)详细询问受试者年龄、既往史,个人史、用药
+史等情况,并严格按照纳入排除标准进行筛选,专人测量入组
+受试者的身高、体重,腰围、臀围,血压等指标,并计算体重指
+数、腰臀比。 (2)用酶联免疫法测定 TXNIP、IL-1β(德国 IBL 国
+际有限公司);酶法测定甘油三酯、总胆固醇、低密度脂蛋白胆
+固醇、高密度脂蛋白胆固醇(浙江东瓯公司药盒);酶法测定超
+氧化物歧化酶( superoxide Dismutase, SOD;日本同仁化学研究
+所);分光光度法测定丙二醛(南京建成);放射免疫法测定胰
+岛素(中国原子能研究所);高压液相法测定 HBA1C(美国 bio-
+rad 药盒);根据空腹胰岛素及血糖值计算稳态模型评估的胰岛
+β 细胞功能指数(homeostasis model assessment for β cell function,
+HOMA-β),稳态模型评估的胰岛素抵抗指数(homeostasis model
+assessment for insulin resistance, HOMA-IR)。 HOMA-β = 20×空
+腹胰岛素 / (空腹血糖-3. 5);HOMA-IR =空腹血糖×空腹胰岛
+素 / 22. 5。
+3. 统计学处理:所有数据均采用 SPSS 19. 0 统计软件包进
+行处理。 各组变量均进行正态性检验,偏态分布变量经自然对
+数转换后分析,数值变量以 x-± s 表示。 数值变量采用单因素方
+差分析检验, 性别构成比比较用卡方检验。 采用 Pearson 相关
+分析对指标进行相关性分析,并进一步行多元线性回归分析。
+P<0. 05 表示差异具有统计学意义。
+二、结果
+1. 一般情况及基本生化学指标的比较:3 组间性别比、年
+龄、身高、体重、体重指数、收缩压、舒张压差异均无统计学意义
+(P>0. 05);腰臀比在糖尿病组中最高,糖尿病前期组次之,而
+正常糖耐量组最低(0. 91±0. 04,0. 88±0. 06,0. 87±0. 05),在糖
+尿病组与正常糖耐量组中差异有统计学意义(表 1)。 3 组间总
+胆固醇、甘油三酯、低密度脂蛋白胆固醇和高密度脂蛋白胆固
+醇等差异均无统计学意义(P>0. 05);空腹血糖、餐后 2 h 血糖、
+空腹胰岛素、HBA1C在糖尿病前期组明显高于正常糖耐量组,但
+低于糖尿病组,且两两之间差异存在统计学意义(P<0. 05); 餐
+后 2 h 胰岛素在糖尿病组低于糖尿病前期组,但高于正常糖耐
+量组(64. 41 ±33. 95 对 72. 89 ±28. 33,44. 52 ±26. 41 μU / ml),且
+在糖尿病组与糖尿病前期组及正常糖耐量组间差异均有统计
+学意义(P<0. 05)。 HOMA-IR 在糖尿病组高于糖尿病前期组,
+高于正常糖耐量组(P<0. 05 或 P<0. 01)。 而 HOMR-β 在糖尿
+病组低于糖尿病前期组,低于正常糖耐量组(P<0. 05 或 P<
+0. 01,表 1)。
+2. 血浆炎症介质及氧化应激指标比较:IL-1β 和丙二醛在
+糖尿病前期组明显高于正常糖耐量组,但低于糖尿病组(P<
+0. 05 或 P<0. 01)。 而 SOD 在糖尿病前期组明显低于正常糖耐
+量组, 但高于糖尿病组(P<0. 05 或 P<0. 01)。 TXNIP 在糖尿病
+前期组明显高于正常糖耐量组,而低于糖尿病组[(355. 35 ±
+31. 88 对 274. 36 ±33. 86, 426. 16 ±63. 15)pg / ml, P<0. 05 或 P<
+0. 01,表 2]。
+3. 相 关 性 分 析: Pearson 相 关 分 析 示: ( 1 ) TXNIP 与
+HOMA-IR、 IL-1β、 空腹血糖、 丙二醛、HBA1C、空腹胰岛素、腰臀
+比呈正相关 ( r 分别为 0. 524,0. 799,0. 508,0. 763,0. 364,
+0. 416,0. 251,均 P<0. 05);与 HOMA-β、SOD 呈负相关( r 分别
+为-0. 518,-0. 705,均 P<0. 05);与体重指数、餐后 2 h 血糖、甘
+油三酯、总胆固醇、低密度脂蛋白胆固醇、高密度脂蛋白胆固醇
+没有相关性。 (2) IL-1β 与 HOMA-IR、空腹血糖呈正相关( r 分
+别为 0. 586,0. 684,均 P < 0. 05);与 HOMA-β 呈负相关 ( r =
+-0. 533,P<0. 05)。 (3)腰臀比( r = 0. 354, P<0. 05)、体重指数
+( r= 0. 302, P<0. 05)与 HOMA-IR 呈正相关,与 HOMA-β 无相
+表 1  各组临床指标和基本生化指标的比较(x-± s)
+组别 例数(男 / 女) 年龄(岁)
+体重指数
+(kg / m2) 腰臀比
+收缩压
+(mmHg)
+舒张压
+(mmHg)
+甘油三酯
+(mmol / L)
+正常糖耐量组 30(14 / 16) 54. 57 ± 10. 54 23. 11 ± 4. 19 0. 87 ± 0. 05 120 ± 15 72 ± 7 1. 64 ± 0. 31
+糖尿病前期组 31(15 / 16) 50. 48 ± 9. 47 23. 36 ± 3. 18 0. 88 ± 0. 06 117 ± 10 74 ± 7 1. 90 ± 0. 28
+糖尿病组    32(16 / 16) 55. 03 ± 8. 83 24. 26 ± 3. 61 0. 91 ± 0. 04a 121 ± 8  75 ± 6 2. 15 ± 0. 26
+组别 例数(男 / 女) 总胆固醇(mmol / L)
+LDL-C
+(mmol / L)
+HDL-C
+(mmol / L)
+空腹血糖
+(mmol / L)
+餐后 2 h 血糖
+(mmol / L)
+正常糖耐量组 30(14 / 16) 4. 71 ± 0. 24 2. 73 ± 0. 22 1. 28 ± 0. 09 4. 65 ± 0. 53 6. 15 ± 0. 10
+糖尿病前期组 31(15 / 16) 5. 12 ± 0. 20 2. 81 ± 0. 17 1. 38 ± 0. 09 5. 86 ± 0. 64b 8. 86 ± 1. 06b
+糖尿病组    32(16 / 16) 5. 16 ± 0. 19 2. 78 ± 0. 20 1. 29 ± 0. 08 7. 71 ± 1. 55bc 18. 94 ± 7. 36bd
+组别 例数(男 / 女) 空腹胰岛素(μU / ml)
+餐后 2 h 胰岛素
+(μU / ml)
+HBA1C
+(% ) HOMA-IR HOMA-β
+正常糖耐量组 30(14 / 16) 8. 98 ± 2. 52 44. 52 ± 26. 41 5. 63 ± 0. 27 1. 88 ± 0. 63 176. 39 ± 61. 31
+糖尿病前期组 31(15 / 16) 10. 76 ± 3. 48a 72. 89 ± 28. 33 6. 13 ± 0. 32b 2. 77 ± 0. 76b 96. 02 ± 31. 21b
+糖尿病组    32(16 / 16) 12. 55 ± 4. 11bd 64. 41 ± 33. 95ac 7. 98 ± 1. 98bc 4. 33 ± 1. 78bc 65. 12 ± 22. 07bc
+注:1 mmHg=0. 133 kPa;LDL-C:低密度脂蛋白胆固醇;HDL-C:高密度脂蛋白胆固醇;HDMA-IR:稳态模型评估的胰岛素抵抗指数;HOMA-β:稳态
+模型评估的胰岛 β 细胞功能指数;与正常糖耐量组比较,aP<0. 05,bP<0. 01;与糖尿病前期组比较,cP<0. 05,dP<0. 01
+表 2  氧化应激及炎症介质指标的比较(x-± s)
+组别 例数(男 / 女) TXNIP(pg / ml)
+白细胞介素-1β
+(ng / l)
+丙二醛
+(nmol / ml)
+超氧化物歧化酶
+(U / ml)
+正常糖耐量组 30(14 / 16) 274. 36 ± 33. 86 18. 78 ± 2. 31 3. 80 ± 0. 61 320. 92 ± 6. 58
+糖尿病前期组 31(15 / 16) 355. 35 ± 31. 88a 22. 06 ± 2. 60a 4. 85 ± 0. 48a 285. 69 ± 10. 55a
+糖尿病组    32(16 / 16) 426. 16 ± 63. 15ab 28. 36 ± 2. 96ab 6. 83 ± 0. 66ab 255. 90 ± 24. 28ab
+注:TXNIP:硫氧还蛋白相互作用蛋白;与正常糖耐量组比较,aP<0. 01;与糖尿病前期组比较,bP<0. 05
+关性(P>0. 05);以血浆 TXNIP 水平为因变量,对血浆腰臀比、
+HBA1C、IL-1β、HOMA-β、HOMA-IR 进行多元逐步回归分析,结
+果示:IL-1β 是 2 型糖尿病患者血浆 TXNIP 水平的主要影响因
+素( β =0. 55,P<0. 01)。
+三、讨论
+糖尿病是由遗传和环境因素共同作用的代谢性疾病。 β
+细胞功能失调和胰岛素抵抗是 2 型糖尿病发病的两个中心环
+节。 而导致胰岛 β 细胞功能失调和胰岛素抵抗的机制复杂。
+大量研究证实高糖介导氧化应激进一步引起胰岛素抵抗及胰
+岛功能失调[9,10] 。 且有实验证实 TXNIP 为 TRX 结合蛋白之
+一[11] ,可以通过抑制 TRX 系统功能而发挥介导氧化应激的作
+用。
+丙二醛、SOD 是目前用来评估机体氧化、还原水平最常用
+的指标。 在本研究中,丙二醛在糖尿病组中最高,糖耐量正常
+组中最低;而 SOD 相反,在正常人组中最高,在糖尿病组中最
+低(均 P<0. 05)。 Pearson 相关分析示:TXNIP 与丙二醛呈正相
+关,与 SOD 呈负相关。 以上结果表明 TXNIP 可以反映机体的
+氧化应激水平。 Rani 等[12]的动物实验表明抑制小鼠胰岛细胞
+中 TXNIP mRNA 及蛋白水平可以降低机体氧化应激水平,且可
+以进一步改善胰岛 β 细胞分泌功能及胰岛素抵抗。 也有研究
+表明,胰岛中 TXNIP 水平过度表达可以引起机体氧化应激水平
+增高,从而引起胰岛素抵抗及胰岛分泌功能下降[13,14] 。 综上,
+本研究得出 TXNIP 是反映糖尿病患者氧化应激水平的重要蛋
+白。
+在本研究中,糖尿病患者血浆中 TXNIP 水平明显高于糖耐
+量正常组及糖尿病前期组,且糖尿病前期组血浆中 TXNIP 水平
+也高于正常组(均 P<0. 05)。 3 组间年龄、性别、体重指数、血
+脂均无统计学差异;腰臀比在糖尿病组与正常糖耐量组中有显
+著差异,而在糖尿病组和糖尿病前期组及糖尿病前期组和正常
+糖耐量组中的差异无统计学意义。 在校正以上相关指标后,
+TXNIP 水平在各组之间的差异仍具有显著统计学意义(P<
+0. 05)。 Pearson 线性相关分析示 TXNIP 与空腹血糖 ( r =
+0. 508, P<0. 01)、HBA1C( r=0. 364, P<0. 01)呈正相关。 空腹血
+糖、HBA1C均是反应机体血糖水平的指标。 因此本研究推测血
+浆中 TXNIP 的水平是受血糖浓度的影响。 Balakumar 等[15] 的
+动物实验表明高糖可以通过 TXNIP 启动子上 ChREBP 刺激
+TXNIP 的过度表达从而引起胰岛抵抗及胰岛 β 细胞功能减损。
+也有研究表明高糖可以通过 p38 MAPK 和叉头框转录因子 O
+亚族 1 途径引起 TXNIP 的过度表达而导致糖尿病的发
+生[13,15,16] 。 以上动物实验也进一步支持了血浆 TXNIP 水平是
+受血糖浓度调控的。
+在本研究中,血浆中 TXNIP 与 HOMA-IR 呈正相关,与
+HOMA-β 呈负相关。 Parikh 等[17] 的动物实验证实 TXNIP 可以
+通过减少外周肌肉及脂肪组织中葡萄糖的利用引起胰岛素抵
+抗。 Chutkow 等[18]的动物实验表明高糖可通过介导 TXNIP 的
+过度表达而导致胰岛素基因及胰岛素转录因子表达下降;且特
+异性地抑制高糖下 TXNIP 的过度表达,可以恢复胰岛素基因及
+胰岛素转录因子的表达,即 TXNIP 可以介导胰岛素的分泌减
+少。 这些证据也有力地支持了 TXNIP 参与介导胰岛素抵抗及
+胰岛 β 细胞功能失调。
+近几年较多研究表明 2 型糖尿病患者的胰岛存在炎性反
+应,炎症早期阶段有利于 β 细胞的修复和再生,而持续的炎症
+反应就可能加重 β 细胞的破环。 其中 IL-1β 被认为在胰岛炎
+症反应中起着关键的作用[19-21] 。 在本研究中,3 组间 IL-1β 水
+平有显著差异,糖尿病组中最高,正常组最低。 Pearson忆s 相关
+分析:IL-1β 与 HOMA-IR、空腹血糖呈正相关,与 HOMA-β 呈负
+相关。 因此本研究也支持 IL-1β 在胰岛素抵抗及胰岛功能失
+调方面起着重要的作用。 本研究以血浆中 TXNIP 水平为因变
+量,对 IL-1β、HOMA-β、HOMA-IR、HBA1C、腰臀比进行多元逐步
+线性回归分析示: IL-1β 是 TXNIP 的主要影响因素。 Parikh
+等[17]动物实验证实,在高糖环境下, TXNIP 可以通过激活
+NLRP3 炎性小体(由 NLRP3、凋亡相关斑点样蛋白和 caspase-1
+组成),使无活性的 caspase-1 前体转化为活性 caspase-1,后者
+介导 IL-1β 炎性介质的释放,从而引起胰岛素抵抗及胰岛 β 细
+胞功能减损[3] 。 因此在高糖环境下,TXNIP 参与胰岛素抵抗即
+胰岛功能失调,且与炎性介质 IL-1β 密切相关。
+血浆中 TXNIP 水平的变化受血糖浓度的影响,TXNIP 是一
+个反应糖代谢紊乱及机体氧化应激水平的重要蛋白,TXNIP 与
+炎症介质 IL-1β 密切相关,且在糖尿病前期患者中,TXNIP 水平
+即有显著升高。

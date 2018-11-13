@@ -1,0 +1,199 @@
+糖尿病相关议题
+尹冬、惠媛、马宁、韩冠军);甘肃省人民医院内分泌科(刘静)
+血清维生素 D 水平与 2 型糖尿病周围神经
+病变的关系
+张吉平  徐宁  尹冬  惠媛  马宁  韩冠军  刘静
+[摘要]   目的  分析 2 型糖尿病患者 25 羟维生素 D 水平与糖尿病周围神经病变的关系。 方法 选
+择 80 例 2 型糖尿病患者进行横断面研究,其中包括 37 例糖尿病周围神经病变患者和 43 例无糖尿病周围
+神经病变患者。 收集所有患者临床资料,测量血清 25 羟维生素 D 水平及 HBA1C、血脂、肝肾功能。 结果
+糖尿病周围神经病变患者血清 25 羟维生素 D 水平显著低于无糖尿病周围神经病变患者[(12. 73 ± 4. 68 对
+17. 56 ±5. 28)ng / ml,P<0. 01]。 Logistic 回归分析发现 25 羟维生素 D 水平与糖尿病周围神经病变的发生相
+关(OR=1. 222,95% CI 1. 095 ~ 1. 364)。 结论 维生素 D 缺乏与糖尿病周围神经病变的发生相关,维生素
+D 水平可能是 2 型糖尿病患者周围神经病变发生的独立危险因素。
+[关键词]   糖尿病, 2 型; 糖尿病周围神经病变; 维生素 D
+Association between the level of serum vitamin D and peripheral neuropathy in type 2 diabetic patients
+Zhang Jiping*, Xu Ning, Yin Dong, Hui Yuan, Ma Ning, Han Guanjun, Liu Jing. *Department of Endocrinology,
+the First People忆s Hospital of Lianyungang, Lianyungang 222000, China
+[Abstract]  Objective  To evaluate the relationship between 25-(OH) vitamin D [25-(OH)D] level and
+peripheral neuropathy in patients with type 2 diabetes mellitus. Methods Eighty patients with type 2 diabetes
+mellitus were enrolled in this cross-sectional study, including 37 subjects with and 43 without diabetic
+neuropathy. Anthropometric data was collected and serum levels of 25-(OH)D, HBA1C, blood lipid, and hepatic and
+renal functions were determined in all patients. Results Serum 25-(OH)D level was significantly lower in patients
+with diabetic neuropathy compared to those without neuropathy [(12. 73 ± 4. 68 vs 17. 56 ± 5. 28) ng / ml, P <
+0. 01] . Logistic regressions demonstrated that vitamin D level was associated with diabetic neuropathy (OR=1. 222,
+95% CI 1. 095-1. 364). Conclusions Vitamin D insufficiency is associated with diabetic peripheral neuro-
+pathy. 25-(OH)D level seems to be an independent risk factor of diabetic neuropathy in patients with type 2 diabetes
+mellitus.
+[Key words]  Diabetes mellitus, type 2; Diabetic peripheral neuropathy; Vitamin D
+(Chin J Endocrinol Metab, 2014, 30: 385-387)
+随着糖尿病患病率在世界各国逐渐上升,糖尿病
+慢性并发症的发生率亦日益增加。 糖尿病周围神经病
+变(diabetic peripheral neuropathy,DPN)是糖尿病患者
+中发生率较高的微血管并发症,60% ~ 70% 的糖尿病
+患者均有不同形式的糖尿病神经病变[1]。 DPN 导致
+患者发生肢体末端麻木不适、感觉减退,增加罹患糖尿
+病足的风险,严重影响患者生活质量。 因此,预防及治
+疗 DPN 意义重大,但对于糖尿病周围神经病变目前尚
+缺乏有效的预防及治疗措施。 维生素 D 是一种脂溶
+性维生素,传统认为其在调节钙磷代谢及骨代谢方面
+起重要作用。 但是,随着近年来的研究发现,维生素与
+肿瘤、心血管疾病、糖尿病及糖尿病微血管并发症等关
+系密切[2,3]。 同时,维生素 D 在调节神经营养因子水
+平、维持神经元细胞内钙离子平衡中发挥重要作用。
+因此,维生素 D 与 DPN 的关系受到人们的重视。 本文
+就血清 25 羟维生素 D3[25-(OH)D]水平与糖尿病周
+围神经病变的关系进行分析。
+对象和方法
+一、 对象
+选择 2013 年 2 月至 2013 年 11 月在本院内分泌
+科住院的 2 型糖尿病患者 80 例(男性 41 例,女性 39
+例),平均年龄(54. 68 ± 5. 81)岁。 按照神经病变的有
+无将患者分为 DPN 组和无 DPN 组。 排除标准:1 型糖
+尿病、妊娠期糖尿病、肝肾功能不全、严重心脑血管病、
+周围血管病患者。
+二、 方法
+1. 生化指标和 25-(OH)D 检测:受试对象采集全
+部患者的糖尿病病史,测量身高、体重。 所有患者均于
+入院次日清晨空腹抽静脉血 8 ml,分离血清。 用全自
+动生化分析仪测定空腹血糖、肝肾功能、总胆固醇
+(TC )、 甘 油 三 酯 ( TG )、 高 密 度 脂 蛋 白 胆 固 醇
+(HDL-C)、低密度脂蛋白胆固醇(LDL-C)。 采用高效
+液相色谱法检测 HBA1C。 采用电化学发光法检测血清
+25-(OH)D,试剂盒购自德国罗氏诊断有限公司,严格
+按试剂盒说明书要求操作。
+2. DPN 的诊断:依据密歇根神经病变评分系统
+(MNSI)及神经传导速度对 DPN 进行诊断。 具体方
+法:对每例患者进行体格检查,以发现是否有膝反射、
+踝反射及震动觉的减弱,并用 10 g Semmes Weinstein
+单尼龙丝检查有无第一足趾、足背、足底感觉减退。 肌
+电图测量采用丹麦 DANTEC 公司 Keypoint 型肌电图
+仪。 当患者肌电图显示运动传导速度或感觉传导速度
+减慢(≥2 项减慢)及 MNSI 评分≥3 分并有感觉异常、
+麻木、疼痛、刺痛而排除其他原因所致神经病变时,
+DPN 诊断成立。
+三、 统计学处理
+采用 SPSS 20. 0 软件分析,计量资料采用 x-± s。 数
+据进行正态及方差齐性检验,根据检验结果 2 组间比
+较采用 t 检验、单因素方差分析或秩和检验。 计数资
+料采用 字2检验。 连续性变量相关性分析采用 Pearson
+相关分析,分类变量采用 logistic 回归分析。 P<0. 05
+为差异有统计学意义。
+结    果
+一、 临床资料和生化指标比较
+2 组年龄、性别、体重指数、收缩压、舒张压、吸烟
+比例、HBA1C、TG、TC、HDL-C、LDL-C 组间比较无统计
+学差异。 DPN 组糖尿病病程相对无 DPN 组长,差别有
+统计学意义(P = 0. 012)。 DPN 组血清 25-(OH)D 水
+平较无 DPN 组明显降低[(12. 73 ± 4. 68 对 17. 56 ±
+5. 28)ng / ml,P<0. 01,表 1]。
+二、 25-(OH)D 与临床资料及生化指标的相关性
+分析
+对所有糖尿病患者进行 Pearson 相关性分析发
+现,血清 25-(OH)D 水平与糖尿病病程及 HBA1C负相
+关( r 分别为-0. 529 和-0. 408,均 P<0. 01),与其他指
+标无相关性。
+三、 25-(OH)D 与 DPN 关系分析
+以有无 DPN 为因变量,性别、年龄、吸烟与否、糖
+尿病病程、血压、血脂、血清 25-(OH)D 水平作为自变
+量,先后以向前逐步法及向后删除法进行 logistic 回归
+分析。 仅血清25-(OH)D 水平进入最终回归方程(OR=
+1. 222,95% CI 1. 095 ~ 1. 364),血清25-(OH)D 水平
+是糖尿病周围神经病变发生的危险因素。
+讨    论
+25 年前 Pietschmann 等[4] 首次发现 2 型糖尿病患
+者血清 25-(OH)D 水平较非糖尿病患者低。 此后,许
+多横断面研究和病例对照研究发现维生素 D 缺乏是 2
+型糖尿病发生的危险因素之一,2 型糖尿病患者存在
+血清低维生素 D 水平[5,6]。 维生素 D 缺乏与糖尿病慢
+性并发症的关系研究相对较少。 Suzuki 等[7]对 581 例
+糖尿病患者观察发现,有 2 种或 3 种糖尿病微血管并
+发症的患者血清维生素 D 水平相对无糖尿病微血管
+并发症患者低,其中糖尿病增殖期视网膜病变的发生
+与血清 25-(OH)D 水平相关。 进一步研究发现,血清
+维生素 D 下降除与糖尿病视网膜病变相关外还与糖
+尿病肾病、糖尿病大血管并发症相关[8-10],然而维生素
+D 与糖尿病周围神经病变的临床研究相对较少。 Lee
+表 1  合并和不合并糖尿病周围神经病变患者的基线资料和血清 25-(OH)D 水平比较(x-± s)
+Tab 1  Comparison of baseline characteristics and serum 25-(OH)D levels in diabetic patients with and without DPN(x-± s)
+组别 例数n
+男 / 女
+Male / Female
+年龄
+(岁)
+Age
+(year)
+病程
+(年)
+Duration
+(year)
+吸烟
+Smoking
+(n)
+BMI
+(kg / m2)
+SBP
+(mmHg)
+DBP
+(mmHg)
+DPN  37 19 / 18 54. 57 ± 5. 51 8. 89 ± 2. 79 12 23. 77 ± 3. 05 140 ± 16 82 ± 10
+NDPN 43 22 / 21 54. 76 ± 6. 12 7. 37 ± 2. 51a 12 24. 53 ± 3. 55 139 ± 18 83 ± 11
+组别 例数n
+HBA1C
+(% )
+TG
+(mmol / L)
+TC
+(mmol / L)
+HDL-C
+(mmol / L)
+LDL-C
+(mmol / L)
+25-(OH)D
+(ng / ml)
+DPN  37 8. 66 ± 1. 67 2. 32 ± 1. 16 4. 50 ± 0. 83 0. 97 ± 0. 24 2. 00 ± 0. 82 12. 73 ± 4. 68
+NDPN 43 8. 33 ± 1. 78 2. 11 ± 1. 15 4. 61 ± 0. 75 0. 96 ± 0. 18 2. 20 ± 0. 66 17. 56 ± 5. 28b
+注:25-(OH)D:25 羟维生素 D 25-(OH) vitamin D; DPN:糖尿病周围神经病变 Diabetic peripheral neuropathy; NDPN:无糖尿病周围神经病变 Non-
+diabetic peripheral neuropathy; BMI:体重指数 Body mass index;SBP:收缩压 Systolic blood pressure;1 mmHg = 0. 133 kPa; DBP:舒张压 Diastolic blood
+pressure;TG:甘油三酯 Triglyceride;TC:总胆固醇 Total cholesterol;HDL-C:高密度脂蛋白胆固醇High density lipoprotein-cholesterol;LDL-C:低密度脂蛋白
+胆固醇 Low density lipoprotein-cholesterol;与 DPN 组比较 vs DPN group,aP<0. 05,bP<0. 01
+等[11]首次对维生素 D 与糖尿病痛性神经病变关系进
+行了临床研究,结果发现维生素 D 治疗 3 个月后 DPN
+患者的疼痛症状评分能改善接近 50% ,其结果揭示了
+DPN 与维生素 D 的关系。 Soderstrom 等[12] 对 2001 年
+至 2004 年美国健康营养调查数据库中的糖尿病患者
+进行分析发现,低水平的血清 25-(OH)D 与糖尿病复
+合神经感觉异常及麻木感相关,血清 25-(OH)D <30
+ng / ml 的糖尿病患者发生 DPN 的风险增加。 Ahmadieh
+等[13]报道血清 25-(OH)D<20 ng / ml 时,DPN 的发生
+明显增加,OR 值为 4. 5。 本研究发现,DPN 患者较非
+DPN 患者血清 25-(OH)D 明显降低,提示维生素 D 缺
+乏与 DPN 的发生有关,与 Soderstrom 等的研究结果一
+致。 通过相关分析进一步证实血清 25-( OH) D 是
+DPN 发生的独立危险因素, OR 值为 1. 222,相对
+Ahmadieh 等的报道低,主要是由于 Ahmadieh 等在进
+行分析时对 25-(OH)D 水平进行了分层,但结果均提
+示维生素 D 缺乏与 DPN 的发生密切相关。 同时,本研
+究发现 25-(OH)D 水平与糖尿病病程及 HBA1C相关,
+考虑是因为 DPN 组患者相对无 DPN 组患者糖尿病病
+程长,同时血糖控制差更容易罹患 DPN。
+维生素 D 缺乏与 DPN 发生相关的机制尚不清楚。
+结合既往研究结果我们分析可能与以下因素有关:
+(1)通过控制血糖,改善糖尿病患者体内炎症状态从
+而降低 DPN 的发生:目前研究表明维生素 D 可以通过
+增加胰岛素敏感性,促进胰岛素分泌,从而有利于血糖
+更好地控制[3,14]。 同时,糖尿病患者体内存在炎症因
+子的升高,维生素 D 可能通过抑制炎症因子的分泌及
+作用从而减少 DPN 的发生。 而且,维生素 D 通过减少
+炎症因子的分泌从而降低糖尿病视网膜病变及糖尿病
+肾脏病变的发生已得到证实[8,9]。 (2)通过直接影响
+神经系统,改善神经功能:体内及体外研究均表明,维
+生素 D 是一种神经营养物质,能调节神经肌肉功能和
+神经元细胞及髓鞘的修复、生长,调控神经细胞生长相
+关基因的表达[15,16]。 维生素 D 缺乏可能通过损害周
+围神经细胞、抑制神经感受器功能、减缓神经细胞修复
+等导致及加重 DPN 的发生。
+本研究观察到维生素 D 缺乏与 DPN 的发生密切
+相关,但本研究属于横断面研究,为进一步确定维生素
+D 缺乏是否是 DPN 发生的危险因素尚需进一步通过
+队列研究验证。 同时,维生素 D 缺乏与 DPN 发生的关
+系及机制需进一步研究明确。

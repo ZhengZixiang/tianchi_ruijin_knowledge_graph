@@ -1,0 +1,447 @@
+T1	Disease 18 24	1 型糖尿病
+T2	Disease 1025 1031	1 型糖尿病
+T3	Disease 3454 3460	1 型糖尿病
+T4	Disease 5146 5152	1 型糖尿病
+T5	Disease 6229 6235	1 型糖尿病
+T6	Disease 6266 6272	1 型糖尿病
+T7	Disease 6323 6329	1 型糖尿病
+T8	Disease 6401 6404;6405 6408	1 型 糖尿病
+T9	Disease 6569 6575	1 型糖尿病
+T10	Disease 6633 6639	1 型糖尿病
+T11	Disease 6669 6675	1 型糖尿病
+T12	Disease 6708 6714	1 型糖尿病
+T13	Disease 8268 8274	1 型糖尿病
+T14	Disease 6304 6310	2 型糖尿病
+T15	Disease 6375 6381	2 型糖尿病
+T16	Test 1784 1789	HBA1C
+T17	Test 1096 1100	空腹血糖
+T18	Test 1810 1814	空腹血糖
+T19	Test 2548 2557	高密度脂蛋白胆固醇
+T20	Test 2585 2594	低密度脂蛋白胆固醇
+T21	Test 2494 2498	总胆固醇
+T22	Test 1370 1372	腰围
+T23	Test 1379 1381	臀围
+T24	Disease 5857 5867	亚临床甲状腺功能减退
+T25	Test 3636 3641	甲状腺功能
+T26	Test 6054 6059	甲状腺功能
+T27	Test 6137 6142	甲状腺功能
+T28	Test 6170 6175	甲状腺功能
+T29	Test 8416 8421	甲状腺功能
+T30	Test 1070 1074	餐后血糖
+T31	Test 2243 2246	TSH
+T32	Test 6190 6193	TSH
+T33	Test 2185 2188	FT4
+T34	Test 2418 2421	骨钙素
+T35	Test 1351 1354	BMI
+T36	Test 2214 2217	FT3
+T37	Test 869 871	身高
+T38	Test 1328 1330	身高
+T39	Test 1420 1422	身高
+T40	Test 4456 4458	身高
+T41	Test 4465 4467	身高
+T42	Test 4822 4824	身高
+T43	Test 4885 4887	身高
+T44	Test 4966 4968	身高
+T45	Test 7794 7796	身高
+T46	Test 1338 1340	体重
+T47	Test 2339 2349	甲状腺过氧化物酶抗体
+T48	Drug 2458 2463	维生素 D
+T49	Drug 7638 7639;7640 7644	维 生素 D
+T50	Drug 8100 8105	维生素 D
+T51	Drug 8157 8162	维生素 D
+T52	Test 5803 5808	TPOAb
+T53	Anatomy 7676 7680	成骨细胞
+T54	Anatomy 7597 7601	破骨细胞
+T55	Anatomy 7661 7665	破骨细胞
+T56	Disease 7006 7010	MODY
+T57	Test 2802 2806	心脏彩超
+T58	Test 2129 2132	TT4
+T59	Disease 4238 4244;4245 4248	Turner 综合征
+T60	Disease 4525 4531;4532 4535	Turner 综合征
+T61	Disease 25 31	桥本甲状腺炎
+T62	Disease 3465 3471	桥本甲状腺炎
+T63	Test 4345 4350	IGF-I
+T64	Test 4419 4424	IGF-I
+T65	Disease 35 39	骨质疏松
+T66	Disease 751 754;755 756	骨质疏 松
+T67	Disease 3106 3110	骨质疏松
+T68	Disease 3263 3267	骨质疏松
+T69	Disease 3277 3280;3281 3282	骨质疏 松
+T70	Disease 3515 3519	骨质疏松
+T71	Disease 3676 3680	骨质疏松
+T72	Disease 7113 7117	骨质疏松
+T73	Disease 7158 7162	骨质疏松
+T74	Disease 7275 7279	骨质疏松
+T75	Disease 8068 8072	骨质疏松
+T76	Disease 8219 8223	骨质疏松
+T77	Disease 8288 8292	骨质疏松
+T78	Disease 8452 8456	骨质疏松
+T79	Disease 6064 6068	血脂异常
+T80	Drug 3725 3729	骨化三醇
+T81	Test 2521 2525	三酰甘油
+T82	Disease 6075 6078	冠心病
+T83	Test 1720 1723	FSH
+T84	Test 7578 7581	FSH
+T85	Test 7591 7594	FSH
+T86	Test 7729 7732	FSH
+T87	Test 2376 2379	骨密度
+T88	Test 3100 3103	骨密度
+T89	Test 7197 7200	骨密度
+T90	Test 7237 7240	骨密度
+T91	Test 7914 7917	骨密度
+T92	Test 2155 2158	TT3
+T93	Test 776 778	血糖
+T94	Test 994 996	血糖
+T95	Test 1847 1849	血糖
+T96	Test 1870 1872	血糖
+T97	Test 1893 1895	血糖
+T98	Test 1916 1918	血糖
+T99	Test 3567 3569	血糖
+T100	Test 6792 6794	血糖
+T101	Test 8422 8424	血糖
+T102	Disease 5 15	Turner 综合征
+T103	Disease 461 471	Turner 综合征
+T104	Disease 597 607	Turner 综合征
+T105	Disease 632 642	Turner 综合征
+T106	Disease 683 693	Turner 综合征
+T107	Disease 706 716	Turner 综合征
+T108	Disease 739 749	Turner 综合征
+T109	Disease 3435 3445	Turner 综合征
+T110	Disease 3779 3789	Turner 综合征
+T111	Disease 3829 3837;3838 3840	Turner 综 合征
+T112	Disease 3889 3899	Turner 综合征
+T113	Disease 4012 4022	Turner 综合征
+T114	Disease 4144 4154	Turner 综合征
+T115	Disease 4164 4172;4173 4175	Turner 综 合征
+T116	Disease 4216 4226	Turner 综合征
+T117	Disease 4254 4264	Turner 综合征
+T118	Disease 4305 4315	Turner 综合征
+T119	Disease 4398 4408	Turner 综合征
+T120	Disease 4426 4436	Turner 综合征
+T121	Disease 4545 4555	Turner 综合征
+T122	Disease 4612 4622	Turner 综合征
+T123	Disease 4685 4695	Turner 综合征
+T124	Disease 4770 4780	Turner 综合征
+T125	Disease 4806 4816	Turner 综合征
+T126	Disease 4850 4860	Turner 综合征
+T127	Disease 5063 5073	Turner 综合征
+T128	Disease 5102 5112	Turner 综合征
+T129	Disease 5218 5228	Turner 综合征
+T130	Disease 5248 5258	Turner 综合征
+T131	Disease 5284 5294	Turner 综合征
+T132	Disease 5377 5386;5387 5388	Turner 综合 征
+T133	Disease 5426 5436	Turner 综合征
+T134	Disease 5493 5503	Turner 综合征
+T135	Disease 5615 5623;5624 5626	Turner 综 合征
+T136	Disease 5646 5656	Turner 综合征
+T137	Disease 5697 5707	Turner 综合征
+T138	Disease 5775 5785	Turner 综合征
+T139	Disease 5835 5845	Turner 综合征
+T140	Disease 5891 5901	Turner 综合征
+T141	Disease 5915 5925	Turner 综合征
+T142	Disease 6011 6021	Turner 综合征
+T143	Disease 6117 6127	Turner 综合征
+T144	Disease 6156 6166	Turner 综合征
+T145	Disease 6214 6224	Turner 综合征
+T146	Disease 6253 6263	Turner 综合征
+T147	Disease 6287 6297	Turner 综合征
+T148	Disease 6353 6363	Turner 综合征
+T149	Disease 6388 6398	Turner 综合征
+T150	Disease 6455 6465	Turner 综合征
+T151	Disease 6525 6535	Turner 综合征
+T152	Disease 6587 6597	Turner 综合征
+T153	Disease 6620 6630	Turner 综合征
+T154	Disease 6655 6665	Turner 综合征
+T155	Disease 6854 6864	Turner 综合征
+T156	Disease 6935 6945	Turner 综合征
+T157	Disease 6975 6983;6984 6986	Turner 综 合征
+T158	Disease 7021 7031	Turner 综合征
+T159	Disease 7120 7130	Turner 综合征
+T160	Disease 7141 7151	Turner 综合征
+T161	Disease 7185 7195	Turner 综合征
+T162	Disease 7287 7297	Turner 综合征
+T163	Disease 7338 7348	Turner 综合征
+T164	Disease 7417 7427	Turner 综合征
+T165	Disease 7462 7470;7471 7473	Turner 综 合征
+T166	Disease 7545 7555	Turner 综合征
+T167	Disease 7561 7571	Turner 综合征
+T168	Disease 7617 7627	Turner 综合征
+T169	Disease 7834 7844	Turner 综合征
+T170	Disease 7868 7878	Turner 综合征
+T171	Disease 7989 7999	Turner 综合征
+T172	Disease 8056 8066	Turner 综合征
+T173	Disease 8255 8265	Turner 综合征
+T174	Disease 8314 8324	Turner 综合征
+T175	Disease 8368 8376;8377 8379	Turner 综 合征
+T176	Disease 8403 8413	Turner 综合征
+T177	Disease 8440 8450	Turner 综合征
+T178	Disease 8466 8475;8476 8477	Turner 综合 征
+T179	Test 2275 2283	甲状腺球蛋白抗体
+T180	Disease 5547 5551	AITD
+T181	Disease 5581 5585	AITD
+T182	Disease 5660 5664	AITD
+T183	Disease 5849 5853	AITD
+T184	Disease 6024 6028	AITD
+T185	Disease 5090 5093	AID
+T186	Disease 5118 5121	AID
+T187	Disease 5299 5302	AID
+T188	Disease 5319 5322	AID
+T189	Disease 5392 5395	AID
+T190	Test 2387 2390	CTX
+T191	Level 33 35	严重
+T192	Disease 491 499;500 504	先天性卵巢发育不 全综合征
+T193	Disease 511 522	女性性染色体遗传性疾病
+T194	Symptom 548 552	身材矮小
+T195	Symptom 553 558;559 570	卵巢早衰所 致的原发性或继发性闭经
+T196	Symptom 575 585	青春期第二性征不发育
+T197	Disease 609 618;619 620	单器官自身免疫性疾 病
+T198	Disease 644 653;654 655	多器官自身免疫性疾 病
+T199	Disease 718 720;721 726	自身 免疫性疾病
+T200	Test_Value 778 780	升高
+T201	Duration 781 786	30 余年
+T202	Symptom 787 795	下肢、颜面部浮肿
+T203	Duration 796 800	10 天
+T204	Test_Value 849 856	3 000 g
+T205	Symptom 887 891	身材矮小
+T206	Symptom 892 895	无初潮
+T207	Symptom 896 907;908 912	乳房及腋毛阴毛等第二性 征不发育
+T208	Disease 917 922	先天性闭经
+T209	Treatment 926 936;937 939	雌孕激素人工周期替代 治疗
+T210	Treatment 943 949	人工周期治疗
+T211	Symptom 961 963	闭经
+T212	Treatment 969 975	人工周期治疗
+T213	Symptom 980 982	口干
+T214	Symptom 983 985	多饮
+T215	Symptom 986 988	多尿
+T216	Test_Value 997 999	升高
+T217	Test 1000 1006	空腹 C 肽
+T218	Test_Value 1007 1020	0. 05 ng / ml
+T219	Drug 1034 1037	胰岛素
+T220	Drug 1048 1056	门冬胰岛素 30
+T221	Amount 1057 1061	15 U
+T222	Frequency 1062 1069	2 次 / d
+T223	Test_Value 1079 1095	20 ~ 25 mmol / L
+T224	Test_Value 1104 1122	3. 7 ~ 10 mmol / L
+T225	Anatomy 1140 1143	左手腕
+T226	Anatomy 1144 1150	左肱骨外科颈
+T227	Disease 1150 1154	脆性骨折
+T228	Symptom 1162 1178	双下肢及颜面部对称性非凹陷性浮肿
+T229	Duration 1179 1183	10 天
+T230	Symptom 1185 1190	颈背部疼痛
+T231	Symptom 1203 1205	头晕
+T232	Symptom 1207 1211	视物模糊
+T233	Symptom 1212 1216	手足麻木
+T234	Symptom 1217 1220;1221 1222	夜尿增 多
+T235	Symptom 1223 1230	仰卧位睡眠胸闷
+T236	Disease 1237 1242	酮症酸中毒
+T237	Disease 1244 1249	高渗性昏迷
+T238	Symptom 1322 1327	智力无异常
+T239	Test_Value 1331 1337	145 cm
+T240	Disease 1305 1308	糖尿病
+T241	Test_Value 1341 1349	48. 2 kg
+T242	Test_Value 1355 1369	29. 22 kg / m2
+T243	Test_Value 1373 1378	74 cm
+T244	Test_Value 1382 1387	84 cm
+T245	Test 1388 1390	臂展
+T246	Test_Value 1391 1397	143 cm
+T247	Test 1398 1401	上部量
+T248	Test 1408 1411	下部量
+T249	Test_Value 1402 1407	68 cm
+T250	Test_Value 1412 1417	77 cm
+T251	Test_Value 1423 1429	172 cm
+T252	Test_Value 1432 1438	173 cm
+T253	Test_Value 1441 1447	162 cm
+T254	Symptom 1452 1456	眼睑下垂
+T255	Symptom 1457 1461	耳大位低
+T256	Symptom 1462 1466	眉毛稀疏
+T257	Symptom 1467 1472	眉间距增宽
+T258	Symptom 1473 1477	颈短而宽
+T259	Symptom 1478 1479;1480 1486	甲 状腺I度肿大
+T260	Symptom 1487 1496	乳房发育3 ~4期
+T261	Symptom 1497 1505	外生殖器发育幼稚
+T262	Symptom 1506 1509;1510 1516	阴毛偏 少、腋毛缺如
+T263	Symptom 1517 1521	无肘外翻
+T264	Disease 3472 3493	Hashimoto thyroiditis
+T265	Disease 3495 3497	HT
+T266	Level 3513 3515	严重
+T267	Disease 3542 3546	高脂血症
+T268	Disease 3521 3533	osteoporosis
+T269	Disease 3535 3537	OP
+T270	Disease 3551 3555	心包积液
+T271	Drug 3570 3578	重组人胰岛素 R
+T272	Amount 3578 3581	8 U
+T273	Frequency 3582 3589	1 天 3 次
+T274	Drug 3590 3591;3592 3598	重 组人胰岛 N
+T275	Amount 3599 3603	12 U
+T276	Frequency 3604 3608	睡前注射
+T277	Drug 3609 3614	伏格列波糖
+T278	Amount 3615 3622	0. 2 mg
+T279	Frequency 3623 3630	1 天 3 次
+T280	Disease 3641 3643	减退
+T281	Drug 3648 3655	左甲状腺素钠片
+T282	Amount 3656 3661	25 μg
+T283	Frequency 3662 3669	1 天 1 次
+T284	Drug 3681 3684	替勃龙
+T285	Amount 3685 3693	1. 25 mg
+T286	Frequency 3694 3701	1 天 1 次
+T287	Drug 3702 3709	碳酸钙 D3片
+T288	Drug 3710 3713;3714 3716	600 mg
+T289	Frequency 3717 3724	1 天 1 次
+T290	Amount 3730 3738	0. 25 μg
+T291	Frequency 3739 3746	1 天 2 次
+T292	Amount 3762 3766	5 mg
+T293	Frequency 3767 3773	每晚 1 次
+T294	Disease 3796 3804;3805 3806	性染色体遗传性疾 病
+T295	Disease 3815 3820	单体综合征
+T296	Disease 3874 3878	原发闭经
+T297	Symptom 4029 4031;4032 4044	体型 矮小(约 145 cm)
+T298	Symptom 4045 4057	生殖器与第二性征发育障碍
+T299	Symptom 4067 4069	颈蹼
+T300	Symptom 4070 4073	肘外翻
+T301	Disease 4074 4079	心血管畸形
+T302	Anatomy 4100 4102	卵巢
+T303	Symptom 4178 4189	生长发育明显迟于同龄人
+T304	Symptom 4190 4193	无初潮
+T305	Symptom 4194 4200;4201 4202	第二性征不发 育
+T306	Symptom 4275 4276;4277 4280	身 材矮小
+T307	Symptom 4293 4295	闭经
+T308	Anatomy 4375 4379	SHOX
+T309	Disease 4504 4509	原发性闭经
+T310	Test 4631 4644	B 超引导下经腹取绒毛组织
+T311	Test 4645 4648	取羊水
+T312	Test 4649 4655	抽取脐静脉血
+T313	Disease 4723 4725;4726 4732	胎儿 淋巴管水囊瘤
+T314	Test 4745 4753	胎儿颈项皮肤厚度
+T315	Drug 4862 4866	生长激素
+T316	Test_Value 4891 4898	7. 2 cm
+T317	Drug 4936 4939	雌激素
+T318	Drug 4904 4906;4907 4909	生长 激素
+T319	Anatomy 4945 4949	第二性征
+T320	Anatomy 4950 4952	卵巢
+T321	Anatomy 4953 4955	子宫
+T322	Drug 4979 4981	GH
+T323	Drug 4992 4995	雌激素
+T324	Drug 5003 5006;5007 5008	生长激 素
+T325	Anatomy 5019 5021	骨骺
+T326	Drug 5030 5033	雌激素
+T327	Disease 5082 5086;5087 5089	自身免疫 疾病
+T328	Disease 5124 5126	HT
+T329	Disease 5132 5134;5135 5139	溃疡 性结肠炎
+T330	Disease 5140 5144	克罗恩病
+T331	Disease 5162 5166	腹腔疾病
+T332	Disease 5167 5169;5170 5178	幼年 型类风湿性关节炎
+T333	Disease 5179 5183	阿狄森病
+T334	Disease 5184 5187	牛皮癣
+T335	Disease 5188 5191	白癜风
+T336	Disease 5192 5194	斑秃
+T337	Disease 5262 5269	自身免疫性疾病
+T338	Disease 5272 5274	HT
+T339	Disease 5468 5474	溃疡性结肠炎
+T340	Disease 5508 5517	自身免疫性甲状腺炎
+T341	Disease 5518 5528;5529 5545	Autoimmune thyroid diseases
+T342	Test 5709 5719	甲状腺自身特异性抗体
+T343	Disease 5790 5792	甲减
+T344	Test 5793 5800	甲状腺自身抗体
+T345	Test 5809 5813	TgAb
+T346	Disease 5822 5824	甲减
+T347	Disease 6069 6074	心血管事件
+T348	Disease 6088 6091;6092 6093	高血脂 症
+T349	Disease 6094 6098	心包积液
+T350	Disease 6102 6104	甲减
+T351	Disease 6112 6114	HT
+T352	Disease 6368 6370	DM
+T353	Test 6467 6471;6472 6476	谷氨酸脱 羧酶抗体
+T354	Test 6477 6483	GAD-65
+T355	Test 6553 6558	GAD65
+T356	Test_Value 6559 6561	阳性
+T357	Test 6602 6611	GAD-65 抗体
+T358	Symptom 6727 6731	三多一少
+T359	Drug 6740 6743	胰岛素
+T360	Disease 6749 6750;6751 6752	酮 症
+T361	Disease 6763 6766	糖尿病
+T362	Disease 6776 6778	酮症
+T363	Disease 6783 6785	酮症
+T364	Test_Value 6800 6816	10 ~ 20 mmol / L
+T365	Test_Value 6826 6836	13 IU / ml
+T366	Test 6837 6846	抗胰岛细胞自身抗体
+T367	Test_Value 6846 6848	阴性
+T368	Disease 6869 6871	DM
+T369	Test 6874 6881	抗胰岛细胞抗体
+T370	Test_Value 6881 6883	阴性
+T371	Test_Value 6890 6894	很少升高
+T372	Disease 6988 6991	糖尿病
+T373	Disease 7052 7055	糖尿病
+T374	Disease 7071 7074	糖尿病
+T375	Symptom 7108 7112	骨量减少
+T376	Test_Value 7200 7204	明显下降
+T377	Anatomy 7220 7223	左手腕
+T378	Anatomy 7224 7230	左肱骨外科颈
+T379	Disease 7230 7234	脆性骨折
+T380	Test 7242 7243;7244 7249	腰 椎 T 值
+T381	Test 7251 7254	Z 值
+T382	Test_Value 7258 7262	4. 5
+T383	Test_Value 7265 7269	4. 0
+T384	Level 7273 7275	严重
+T385	Test 7300 7304	峰值骨量
+T386	Disease 7317 7318;7319 7320	骨 折
+T387	Test 7362 7364	骨量
+T388	Test_Value 7364 7366	减少
+T389	Test 7372 7374	骨量
+T390	Test_Value 7374 7379	下降越明显
+T391	Disease 7401 7403	骨折
+T392	Test 7434 7441	皮质骨 BMD
+T393	Test_Value 7442 7444	下降
+T394	Test 7445 7452	骨小梁 BMD
+T395	Test_Value 7453 7455	正常
+T396	Symptom 7475 7478	低骨量
+T397	Test 7555 7557	骨量
+T398	Test_Value 7557 7559	下降
+T399	Drug 7632 7635	雌激素
+T400	Drug 7636 7637	钙
+T401	Drug 7655 7658	雌激素
+T402	Anatomy 7695 7697	骨骼
+T403	Test 7707 7709	骨量
+T404	Drug 7720 7723	雌激素
+T405	Test 7739 7741	骨量
+T406	Test_Value 7741 7743	增加
+T407	Test_Value 7735 7736;7737 7738	降 低
+T408	Drug 7813 7816	雌激素
+T409	Drug 7789 7791	GH
+T410	Drug 7782 7785	雌激素
+T411	Amount 7778 7781	低剂量
+T412	Drug 7821 7824	雌激素
+T413	Drug 7846 7849	雌激素
+T414	Drug 7890 7892	GH
+T415	Drug 7896 7899	雌激素
+T416	Disease 7920 7922	骨折
+T417	Drug 7940 7942	GH
+T418	Drug 7946 7949	雌激素
+T419	Drug 7966 7969	雌激素
+T420	Drug 8006 8009	雌激素
+T421	Test 8016 8019	BMD
+T422	Drug 8022 8025	雌激素
+T423	Test 8035 8038	BMD
+T424	Drug 8098 8099	钙
+T425	Drug 8173 8177	雌孕激素
+T426	Anatomy 8185 8186	骨
+T427	Drug 8243 8247	双膦酸盐
+T428	Level 8286 8288	严重
+T429	Drug 8347 8351	生长激素
+T430	Drug 8352 8355	雌激素
+T431	Disease 8384 8391	自身免疫性疾病
+T432	Disease 8392 8395	糖尿病
+T433	Disease 6681 6685;6686 6694	自身免疫 性 1 型糖尿病
+T434	Disease 6948 6958	特发性 1 型糖尿病
+T435	Disease 3500 3507;3508 3509	甲状腺功能减退 症
+T436	Disease 5928 5935	甲状腺功能减退
+T437	Disease 5946 5949;5950 5954	甲状腺 功能亢进
+T438	Symptom 4317 4319;4320 4322	身高 矮小
+T439	Test 844 848	出生体重
+T440	Disease 8275 8282;8283 8285	桥本甲状腺炎性 甲减
+T441	Disease 8235 8239	骨质疏松
+T442	Drug 3754 3758;3759 3761	瑞舒伐他 汀钙
+T443	Disease 6786 6789	低血糖
+T444	Disease 5739 5744	甲状腺疾病
+T445	Test 6818 6823;6824 6825	GAD 抗 体
+T446	Test 6884 6890	GAD 抗体
+T447	Test 8426 8432	GAD 抗体

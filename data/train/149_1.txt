@@ -1,0 +1,220 @@
+基金项目:2012 年中华医会临床医学科研专项基金(120120550355);2012 上海市卫生局申康慢病综合防治项目
+(SHDC12012303)
+肥胖分类的重新思考与基于代谢的个体化
+诊断
+曲伸  陆灏
+[提要]   肥胖是一种代谢性疾病已成共识,肥胖的发生与基因、环境、生活方式及炎症关系密切,既往
+按体重指数作为唯一诊断标准的分类方法已不能满足临床对肥胖的诊治和治疗判断。 因此,2013 年的美
+国糖尿病学会(ADA)年会上引入了代谢性肥胖的概念,2014 年的美国临床内分泌学会(AACE)年会上又
+提出了对肥胖按并发症分类的建议,究其原因,是专家们已认识到肥胖发病原因迥异,转归不同,治疗的目
+的是调节代谢而不是单纯减重。 本研究组在长期的临床实践中,通过对形形色色的肥胖患者的临床观察,
+结合患者症状、体征和皮肤表征及代谢状态,提出了肥胖的代谢分类和个体化诊断原则,结合中国传统医
+学对肥胖的辩证论治把肥胖分为正常代谢性肥胖和异常代谢性肥胖两大类,并进一步将代谢状态异常性
+肥胖分为低代谢性肥胖、高代谢性肥胖和炎症代谢性肥胖,结合国外部分专家提出的体重正常代谢性肥
+胖,将肥胖按代谢状态分为 5 类,即正常代谢性肥胖(白胖子,“脂人冶)、低代谢性肥胖(黄胖子,“膏人冶)、
+高代谢性肥胖(红胖子,“肥贵人冶)、炎症代谢性肥胖(黑胖子,“肉人冶)和体重正常代谢性肥胖。 期望本研
+究组提出的肥胖分类能起到抛砖引玉的作用,促使临床医师从代谢的角度去重新认识肥胖,根据患者的代
+谢状态制定具有针对性的个体化治疗方案,使肥胖的诊断和治疗达到预期的效果。
+[关键词]   肥胖; 分类; 诊断; 炎症; 代谢
+Reclassification of obesity and diagnosis of obesity based on individuals忆 metabolic status Qu Shen *, Lu
+Hao. *Department of Endocrinology, Shanghai Tenth People忆s Hospital, Tongji University, Shanghai 200072, China
+[Summary]  Obesity has been widely accepted as a metabolic disease and its occurrence is closely related to
+the genetics, environment, and inflammation. Up to now, body mass index is still regarded as the standard diagnostic
+criterion for obesity. It has not been revised for decades and could not meet the needs of clinical diagnosis and demands
+for specific treatment at present. In 2013, the concept of metabolic obesity was introduced at the American Diabetes
+Association (ADA) annual conference, and it was further proposed that obesity should be classified according to the
+metabolic status and its related complications at the 2014 American Association of Clinical Endocrinologists (AACE)
+annual conference. This means that scientists and clinicians have realized that the etiology of obesity may vary with
+different outcomes, the treatment should be focused on the metabolic regulation, not merely on weight loss. With years
+of clinical practice and research in obesity, we have observed and treated numerous obese patients, and we have found
+that obesity has a lot of phenotypes and clinical features which are related to the metabolic status. Based on our clinical
+findings, combined with the experience of Chinese traditional medicine, we now propose a new clinical classification
+and diagnosis of obesity based on individuals忆 metabolic status, which, we believe, can facilitate clinicians忆
+practice. Based on the metabolic status and skin features of obese patients, obesity is divided into metabolic healthy
+obesity (‘ white obesity爷) and metabolic unhealthy obesity. Then, the latter is further divided into three groups
+including high metabolic obesity (‘red obesity爷), low metabolic obesity (‘yellow obesity爷), and severe metabolic
+disorder with inflammation obesity (‘black obesity爷) . If we also consider to add normal weight metabolic obesity to
+this classification, there should be five types of obesity to be classified as presented. We wish this proposed
+classification of obesity can play a valuable role in enabling clinicians to have a better understanding of obesity in
+relation to its metabolism, and to develop individualized treatment according to the metabolic status of the patient. As
+a result, we may finally achieve the desired outcomes through making appropriate diagnosis and treatments.
+[Key words]  Obesity; Classification; Diagnosis; Inflammation; Metabolism
+(Chin J Endocrinol Metab, 2015, 31: 655-658)
+肥胖已成为全球性的流行病和各种代谢性疾病的
+培养基,除了健康问题,其对国民经济的影响和社会负
+担的加重也不言而喻,而肥胖的治疗现在却似乎进入
+了死胡同。 减重一直作为肥胖治疗的主题,但却经常
+事倍功半、前功尽弃。 减肥药物层出不穷,却经常昙花
+一现,屡屡退场。 近期上市和即将上市的药物(复方
+减肥药 Qsymia,Arena 公司 Lorcaserin 也面临各种非
+议[1-6]。 究其原因,肥胖是一种代谢性疾病,却没有当
+成代谢紊乱来治,肥胖的病因和种类不同,却一视同
+仁,治标不治本的方法与科学理念相悖,也难以取得进
+展。 目前对肥胖的发病认知仍显不足,从科学的角度
+仍然难以突破,限制饮食、多消耗、达到能量的负平衡
+已经不是肥胖治疗放之四海而皆准的理论[7,8]。 所
+以,有必要从遗传的角度来重新审视肥胖发生的个体
+原因和社会原因,从代谢的角度去诊断肥胖,制订合理
+的、可行的、针对代谢状态的个体化治疗与代谢调控方
+案。 同时,针对病因的肥胖治疗以及防控提前的预防
+和教育才是杜绝地球人超重的关键步骤。
+一、 肥胖诊断与分型的临床思考
+从肥胖的诊断提出到现在,教科书上的分类标准
+持续了几十年没有改变,肥胖被分为原发性肥胖(单
+纯性和获得性肥胖)和继发性肥胖,这种分类标准无
+法判断患者的代谢状态和肥胖严重程度,不能使我们
+很快的进入正确的临床思维通道。 肥胖的诊断标准仍
+然是以体重和体重指数为金标准,没有体现出代谢异
+常的病因学改变,在临床上难以制定个体化治疗方案。
+肥胖的复杂性和难治性也使肥胖的病因学理论无
+法统一,如节俭基因学说、环境土壤理论、营养过剩与
+生长追赶理论,以及目前的中枢调控、下丘脑调节、棕
+色脂肪、低度炎症、菌群失调 / 胆汁代谢及脂肪溢出及
+异位分布理论都具有实际意义[3,9-14];但仍然无法以点
+代面来系统解释肥胖的发生和发展。 宏观上讲,肥胖
+是自然发展、社会历史发展及人文发展的必然产物,微
+观上讲,是基因改变、线粒体应激、炎症反应、内环境稳
+态失衡导致了肥胖的发生和发展,是神经-内分泌-免
+疫-炎症调节网络的失衡和失调所致。 近年来,科学家
+与临床学者开始重新审视肥胖的临床分类,期望能对
+治疗提供帮助,目前也有人提出了基于病因及代谢的
+分类与诊断探讨,如腹型肥胖与周围性肥胖,正常代谢
+性肥胖和体重正常的代谢异常性肥胖[15,16]。 这些分
+类对临床判断提供了一定的价值,对临床实践提供了
+很多帮助,但仍然缺乏统一的认识和明确的标准,我们
+有必要对肥胖的分类达成共识,使临床诊断有据可偱,
+治疗有的放矢。
+二、 基于代谢状态和辩证施治的肥胖分类
+本研究组在长期的临床实践中,通过对大量肥胖
+患者的观察研究,发现了很多具有特征性的肥胖类型,
+结合中国传统医学对肥胖病因的辩证施治的理论基
+础[17],根据目前国际上基础研究和临床研究的特点和
+发展趋势,提出了根据肥胖的皮肤表征和临床特征、代
+谢状况分类的诊断标准供同行们参考,期望可以帮助
+我们在临床实践中快速定位肥胖的病理生理基础,判
+断肥胖患者的代谢状况,确定合理的诊断思路与治疗
+原则,制定具有针对性的个体化治疗方案,在临床应用
+中也取得了满意的效果。 然而,我们的分类建议和治
+疗方案还有尚待完善之处,现总结如下,供同行参考与
+指正。
+对肥胖的分类方法主要基于肥胖的皮肤表征和代
+谢特点,结合患者的脂肪含量和分布、内分泌激素水
+平,根据患者的代谢状态将肥胖分为代谢正常性肥胖
+(metabolic healthy obesity ) 和 代 谢 异 常 性 肥 胖
+(metabolic unhealthy obesity) [15] ,其中代谢异常性肥
+胖根据病因和表现不同又分为三个亚型:低代谢性肥
+胖 ( hypometabolic obesity )、 高 代 谢 性 肥 胖
+(hypermetabolic obesity)和炎症代谢性肥胖(metabolic
+obesity with inflammation),如果将部分专家推荐的体重
+正常代谢性肥胖(normal weight metabolic obesity)列入
+肥胖分类的话,临床上就有 5 种肥胖类型可供选择。
+进一步根据不同代谢状态患者的皮肤表征,结合
+中国传统医学的辩证论治,将肥胖分为白、红、黄、黑四
+种状态,易于临床上的快速判断和进一步诊治。 具体
+诊断指标如下:(1)体重,体脂含量与体脂分布及肝脂
+肪沉积。 (2)皮肤表征。 (3)代谢状况:基础代谢率,
+糖脂代谢指标,血压,激素水平。 (4)炎症状态:炎症
+因子及脂肪因子表达。 该分类方法,从病因出发,基本
+涵盖了引起肥胖的常见代谢性病因。
+1. 代谢正常性肥胖:白胖子(表 1,图 1),也称之
+为健康的胖子。 多见于女性,与家族遗传或种族特异
+性相关,欧美多见,亚洲人群也不少见,临床上表现为
+皮肤白润,光滑,弹性好,脂肪含量高但分布基本正常;
+各项代谢指标及激素分泌正常,腰臀比<1。 但过重也
+会伴有肝脂肪沉积,严重者会出现关节及运动障碍
+(骨关节炎)。 长期严重肥胖,最终也会导致代谢异常
+并出现心血管意外,多为继发性改变,减重易逆转。 另
+外,肥胖所致的对精神、心理因素的影响也会对社会适
+应性产生影响。 中国传统医学常称此类肥胖患者称为
+“脂人冶,“脂者紧而满冶“肉坚,皮满冶,即阴阳平衡,气
+血两足,有丰腴之美。 在临床上此类患者的超重和轻
+度肥胖不必过度干预,但对于严重的白胖子,为防止继
+发性损害和心血管意外,建议进行饮食和运动干预[18]。
+2. 低代谢性肥胖:黄胖子(表 1,图 1),多见于老年
+人和激素分泌不足者,临床上并不少见,肥胖多表现为
+皮肤萎黄无弹性,无光泽,脂肪分布异性化,多以腹型肥
+胖为主,赘肉较多,精神萎靡缺乏欲望,有时伴有智力和
+发育障碍。 表现为低代谢率,低激素水平(如垂体功能
+减退、性激素低下、甲状腺功能减退等),少言寡欲,喜静
+不喜动,兴奋性差,可伴有严重脂肪肝和其他代谢异常,
+可表现为女性男性化,男性女性化等,部分患者由先天
+性因素和后天发育异常及内分泌代谢紊乱所致,如下丘
+脑肥胖、肥胖生殖无能综合征,垂体前叶功能减退患者
+多表现为此类肥胖,临床上也常见特异性的低代谢性肥
+胖患者。 中医称此类肥胖患者为“膏人冶,表现为皮肉分
+离多松弛,气血两虚便稀溏,“纵腹垂腴冶、“皮缓冶 [19]。
+临床治疗以提高兴奋性,适当进行激素替代治疗为主,
+而严格控制饮食、过度运动有时会得到适得其反的效
+果。
+3. 高代谢性肥胖:红胖子(表 1,图 1),多发生于青
+壮年,饮食生活不规律者,表现为皮肤红润,血供丰富,
+多伴皮肤毛细血管扩张,可见紫纹及蜘蛛痣,脂肪分布
+以内脏脂肪为主,临床表现为精力旺盛,多吃好斗,兴奋
+性高,激素水平常升高。 实验室检查可表现为高基础代
+谢率,高激素水平,高胰岛素血症。 临床上多有高血压,
+表 1  不同肥胖亚型的皮肤表征、脂肪分布与代谢特征
+组别 皮肤表征 年龄 体重指数 体脂分布 脂肪肝 血压
+代谢特征
+糖耐量 甘油三脂 骨密度
+代谢正常性肥胖    白滑 青壮年(女性多) 高  分布正常  + 正常    正常      正常    正常
+低代谢性肥胖      萎黄 中老年        高  异性化分布 莘 低或正常 可有低血糖 高      低
+高代谢性肥胖      红润 青壮年(男性多) 高  向心性分布 + 高      糖代谢异常 高      正常或低
+炎症代谢性肥胖    粗黑 青少年(男性多) 高  炎性分布  荻 高或正常 胰岛素抵抗 高或正常 高
+体重正常代谢性肥胖 厚  老年(女性多)   正常 躯干为主  + + / -   可正常    正常或高 低
+组别
+激素水平 炎症指标
+性激素 Leptin 胰岛素抵抗 TSH 皮质醇 C 反应蛋白 游离脂肪酸 尿酸 高密度脂蛋白胆固醇
+神经
+兴奋性
+中医辨
+证分类
+代谢正常性肥胖    正常     正常 无  正常  正常  正常 正常 正常 正常  正常    脂人
+低代谢性肥胖      异常,常低 低  可无 高    低    低  低或 低  低    低      膏人
+高代谢性肥胖      高       可高 有  正常  高    可高 可高 可高 正常  高      肥人
+炎症代谢性肥胖    高或低   高  重  高或低 高或低 高  高  高  高或低 高或正常 肉人
+体重正常代谢性肥胖 低       未知 有  偏高  低    正常 正常 正常 正常  低      -
+图 1  不同肥胖的皮肤表征与体态特点
+糖脂代谢紊乱,腰臀比常>1。 中医称之为“肥人冶或
+“肥贵人冶,具帝王之象,皮薄肉厚,阴阳失衡,气虚内
+热多便秘。 “肥贵人,饮食不节,则膏粱之疾也冶,治疗
+以降低神经兴奋性,降压,少食多动,改变生活方式为
+主。
+4. 炎症代谢性肥胖:黑胖子(表 1,图 1),即伴有
+炎症因子升高的肥胖,典型代表为伴有高胰岛素血症
+的黑棘皮病患者。 亚洲人并不少见,发生年龄较早,与
+遗传相关,是临床上比较严重的代谢紊乱引起的肥胖,
+以胰岛素抵抗和瘦素抵抗为代表,典型病例常表现为
+皮肤色素沉着,皮厚肉多,脂肪、肌肉均丰富,常伴有高
+胰岛素血症,高瘦素血症[20],是导致皮肤色素沉着的
+主要原因,迟早会出现糖代谢异常和脂代谢紊乱。 实
+验室检查多伴有促炎因子与致病性脂肪因子的升高、
+高尿酸血症及脂肪分布异常。 目前认为,此种代谢异
+常与炎症明显相关,临床上表现为炎症因子升高,如 C
+反应蛋白、游离脂肪酸、白细胞介素等。 此类患者多年
+轻起病,有种族特异性,体力旺盛,精力充沛,脂肪含量
+适中,分布多正常。 但代谢紊乱较多,如不早期干预,
+会发生严重的代谢异常和相关心血管并发症。 中医称
+之为“肉人冶,“始于先天禀赋,属水形之人,比于上羽,
+似于黑帝。 其为人黑色,面不平,大头,廉:,小肩,大
+腹冶,“皮肉不相离冶,“身体容大冶,气血足,多痰湿气
+滞,以清热排毒化淤为主。 治疗以降低胰岛素水平,改
+善炎症状态为主。 部分黑胖子伴有严重的胰岛素抵抗
+和低雄激素血症,可能属于与中枢相关的综合征(如
+下丘脑性肥胖)。
+5. 体重正常代谢性肥胖( normal weight metabolic
+obesity)(表 1):即病态的瘦人,从诊断标准来讲体重
+指数在正常范围,不应该归类于肥胖,只能称为脂肪含
+量异常和脂肪的异位集聚,以腰围增加,腹内脂肪增多
+为代表,多见于老年人,与增龄后的内分泌代谢衰退相
+关,常伴有代谢综合征,女性多于男性,但究竟是脂肪
+分布引起的代谢紊乱还是代谢异常引起的脂肪溢出及
+脂肪重分布,尚无明确结论,所以不建议列入肥胖的诊
+断分类,只建议针对不同的代谢异常进行治疗[21]。
+纵上所述,本文提出的肥胖的分类和诊断尝试从
+代谢状态入手,治疗要因人而异,最终的治疗目的是内
+分泌及代谢正常,远期效果可期,生活质量提高,寿命
+延长。 这也是医学上治疗肥胖的最终目的,供同仁们
+参考和评议。
+志谢:本文在撰写期间,得到了美国 Gerogia 大学 Dexi Liu 教授,悉
+尼大学医学院 Liming Wen 教授的合作和指正,上海市同济大学附属第
+十人民医院内分泌科全体医师、研究生的大力协助。
