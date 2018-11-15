@@ -21,7 +21,7 @@ BiLSTM+CRF模型
 
 ### 数据分析与预处理
 实体共12类，不同类别实体样本非常不平衡。训练数据人工标注太乱，并且存在同一实体存在不同标注人有不同标注标准的问题。我们并没有花太多的心思去做非常精细的预处理工作，主要完成的内容有：
-- 针对ann文件中把跨行实体的多个起始位置，我们只保留开头和结束位置，中间分号和数字全部删去，并另外存为csv文件。
+- 在ann文件中，对于跨行实体的多个起始位置，我们只保留开头和结束位置，中间分号和数字全部删去，并另外存为csv文件。
 - 再读取上述csv文件，对于词级别，用jieba.posseg进行分词和词性标注，并添加BIO标注，以csv格式存到`word_level_train_set` / `word_level_test_set`
 - 对于字级别，包括\n在内都按单字切，添加BIO标注，以csv格式存到`char_level_train_set` / `char_level_test_set`
 
@@ -46,7 +46,7 @@ BiLSTM+CRF模型
 我们最后采用的参数设置如下：
 - C1: 1e-3
 - C2: 1
-- max_iter: 10000
+- max_iter: 1000
 
 相关代码在`crfsuite_model.py`中实现。`evaluate.py`参考pycrfsuite的example。直接生成测试结果使用`submit.py`。由于天池代码审核需要，预处理－训练－测试一条龙放在了`main.ipynb`实现。
 
